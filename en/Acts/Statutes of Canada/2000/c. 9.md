@@ -53,7 +53,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***candidate*** means a person whose nomination as a candidate at an election has been confirmed under subsection 71(1) and who, or whose official agent, has not yet complied with sections 477.59 to 477.72 and 477.8 to 477.84 in respect of that election. (*candidat*)
 
-***capital asset*** means any property with a commercial value of more than $200 that is normally used outside an election period other than for the purposes of an election. (*bien immobilisé*)
+***capital asset*** means any property with a commercial value of more than $200 that 
+- **(a)** in the case of a registered party, an electoral district association or a candidate, is normally used outside an election period other than for the purposes of an election;
+- **(b)** in the case of a nomination contestant, is normally used outside a nomination contest other than for the purposes of a nomination contest; and
+- **(c)** in the case of a leadership contestant, is normally used outside a leadership contest other than for the purposes of a leadership contest. (*bien immobilisé*)
 
 ***chief agent*** means the chief agent named in the application of a political party to become a registered party as required under paragraph 385(2)(h) or a chief agent’s replacement appointed under subsection 400(1). (*agent principal*)
 
@@ -73,24 +76,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***election*** means an election of a member to serve in the House of Commons. (*élection*)
 
+***election advertising*** means the transmission to the public by any means during an election period of an advertising message that promotes or opposes a registered party or the election of a candidate, including by taking a position on an issue with which a registered party or candidate is associated. For greater certainty, it does not include
+- **(a)** the transmission to the public of an editorial, a debate, a speech, an interview, a column, a letter, a commentary or news;
+- **(b)** the distribution of a book, or the promotion of the sale of a book, for no less than its commercial value, if the book was planned to be made available to the public regardless of whether there was to be an election;
+- **(c)** the transmission of a document directly by a person or a group to their members, employees or shareholders, as the case may be;
+- **(d)** the transmission by an individual, on a non-commercial basis on the Internet, of his or her personal political views; or
+- **(e)** the making of telephone calls to electors only to encourage them to vote. (*publicité électorale*)
+
+***election advertising expense*** means an expense incurred in relation to
+- **(a)** the production of an election advertising message; and
+- **(b)** the transmission of an election advertising message to the public. (*dépenses de publicité électorale*)
+
 ***election documents*** means the following documents:
 - **(a)** the writ with the return of the election endorsed on it;
-- **(b)** the nomination papers filed by the candidates;
+- **(b)** the nomination papers and other documents filed by the candidates or filed on their behalf under section 67;
 - **(c)** the reserve supply of undistributed blank ballot papers;
 - **(d)** documents relating to the revision of the lists of electors;
-- **(e)** the statements of the vote from which the validation of results was made; and
-- **(f)** the other returns from the various polling stations enclosed in sealed envelopes, as required by Part 12, and containing
-	- **(i)** a packet of stubs and unused ballot papers,
-	- **(ii)** packets of ballot papers cast for the various candidates,
-	- **(iii)** a packet of spoiled ballot papers,
-	- **(iv)** a packet of rejected ballot papers,
-	- **(v)** a packet containing the list of electors used at the polling station, the written authorizations of candidates’ representatives and the used transfer certificates, if any, and
-	- **(vi)** a packet containing the registration certificates;
-- **(g)** the prescribed forms referred to in section 162 and any other prescribed form to be used at a polling station that contains personal information relating to an elector. (*documents électoraux*)
+- **(e)** the statements of the vote from which the validation of results was made;
+- **(f)** the other documents sent to the Chief Electoral Officer from the various polling stations, the various advance polling stations or the returning officer’s office, including
+	- **(i)** stubs and unused ballot papers,
+	- **(ii)** ballot papers cast for the various candidates,
+	- **(iii)** spoiled ballot papers,
+	- **(iv)** rejected ballot papers,
+	- **(v)** the list of electors used at the polling station, advance polling station or returning officer’s office,
+	- **(vi)** written authorizations of candidates’ representatives,
+	- **(vii)** used transfer certificates, if any, and
+	- **(viii)** registration certificates; and
+- **(g)** the prescribed forms referred to in section 162 — other than those referred to in paragraph 162(i.1) — and any other prescribed form to be used at a polling station, advance polling station or returning officer’s office that contains personal information relating to an elector. (*documents électoraux*)
 
-***election officer*** means a person referred to in subsection 22(1). (*fonctionnaire électoral*)
+***election officer*** means a person referred to in subsection 22(1) or appointed under section 32. (*fonctionnaire électoral*)
 
 ***election period*** means the period beginning with the issue of the writ and ending on polling day or, if the writ is withdrawn under subsection 59(1) or is deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on the day that the writ is withdrawn or deemed to be withdrawn. (*période électorale*)
+
+***election survey*** means a survey respecting whether persons intend to vote at an election or who they voted for or will vote for at an election or respecting an issue with which a registered party or candidate is associated. (*sondage électoral*)
 
 ***elector*** means a person who is qualified as an elector under section 3. (*électeur*)
 
@@ -150,6 +168,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***official list of electors*** means the list of electors prepared by the returning officer under section 106. (*liste électorale officielle*)
 
+***partisan advertising*** means the transmission to the public by any means during a pre-election period of an advertising message that promotes or opposes a registered party or eligible party or the election of a potential candidate, nomination contestant or leader of a registered party or eligible party, otherwise than by taking a position on an issue with which any such party or person is associated. For greater certainty, it does not include
+- **(a)** the transmission to the public of an editorial, a debate, a speech, an interview, a column, a letter, a commentary or news;
+- **(b)** the distribution of a book, or the promotion of the sale of a book, for no less than its commercial value, if the book was planned to be made available to the public regardless of whether there was to be an election;
+- **(c)** the transmission of a document by a Senator or a member the expense of which is paid by the Senate or House of Commons;
+- **(d)** the transmission of a document directly by a person or a group to their members, employees or shareholders, as the case may be;
+- **(e)** the transmission by an individual, on a non-commercial basis on the Internet, of his or her personal political views; or
+- **(f)** the making of telephone calls to electors only to encourage them to vote. (*publicité partisane*)
+
+***partisan advertising expense*** means an expense incurred in relation to
+- **(a)** the production of a partisan advertising message; and
+- **(b)** the transmission of a partisan advertising message to the public. (*dépenses de publicité partisane*)
+
 ***periodical publication*** means a paper, magazine or periodical that is published periodically or in parts or numbers and that contains public news, intelligence or reports of events, or advertisements. (*publication périodique*)
 
 ***personal information*** means personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md). (*renseignements personnels*)
@@ -164,9 +194,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***polling station*** means a place established under section 120, 122, 125, 205, 206, 207, 253 or 255 for electors to cast their votes. (*bureau de scrutin*)
 
+***potential candidate*** means a person whose nomination as a candidate at an election has not been confirmed under subsection 71(1) but who
+- **(a)** is selected in a nomination contest;
+- **(b)** is deemed to be a candidate under section 477;
+- **(c)** is a member or, if Parliament is dissolved, was a member on the day before the dissolution; or
+- **(d)** has the support of a political party to be a candidate of that party. (*candidat potentiel*)
+
+***pre-election period*** means the period beginning on the June 30 before the day set in accordance with subsection 56.1(2) for the holding of a general election and ending on the day before the earlier of
+- **(a)** the first day of an election period for a general election, and
+- **(b)** the 37th day before the Monday referred to in subsection 56.1(2) or, if the Governor in Council makes an order under subsection 56.2(3), the 37th day before the alternate day referred to in that order. (*période préélectorale*)
+
 ***preliminary list of electors*** means the list of electors prepared by the Chief Electoral Officer under subsection 93(1). (*liste électorale préliminaire*)
 
-***prescribed***, in relation to a form or an oath, means one that is authorized by the Chief Electoral Officer. (*prescrit*)
+***prescribed***, in relation to a form or a solemn declaration, means one that is authorized by the Chief Electoral Officer. (*prescrit*)
 
 ***recount*** means a recount of votes by a judge under Part 14. (*dépouillement judiciaire*)
 
@@ -183,7 +223,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***revised list of electors*** means the list of electors prepared by the returning officer under section 105. (*liste électorale révisée*)
 
 ***spoiled***, in relation to a ballot or a special ballot as defined in section 177, means
-- **(a)** one that has not been deposited in the ballot box but has been found by the deputy returning officer to be soiled or improperly printed; or
+- **(a)** one that has not been deposited in the ballot box but has been found by an election officer or a unit election officer as defined in section 177 to be soiled or improperly printed; or
 - **(b)** one that is dealt with under subsection 152(1), including in relation to advance polls by virtue of subsection 171(1), or subsection 213(4), 242(1) or 258(3). (*annulé*)
 
 ***volunteer labour*** means any service provided free of charge by a person outside their working hours, but does not include such a service provided by a person who is self-employed if the service is one that is normally charged for by that person. (*travail bénévole*)
@@ -192,7 +232,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Commercial value of capital assets**
 
-- **(1.1)** For the purposes of this Act, the commercial value of any capital asset that is used during an election period is the lower of
+- **(1.1)** For the purposes of this Act, the commercial value of any capital asset that is used during a nomination contest, an election period or a leadership contest, as the case may be, is the lower of
 	- **(a)** the commercial value of the rental of the same kind of asset during the period during which the capital asset was used, and
 	- **(b)** the commercial value of the same kind of asset if one were purchased.
 
@@ -217,6 +257,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of polling day**
 
 - **(6)** If a writ for an election is withdrawn under subsection 59(1) or is deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), then, in Parts 16.1 and 17 and Divisions 1, 2, 4 and 5 of Part 18, ***polling day*** means the day that the writ is withdrawn or deemed to be withdrawn.
+
+**Definitions of election advertising and partisan advertising**
+
+- **(7)** For the purposes of the definitions election advertising and partisan advertising, promoting or opposing includes
+	- **(a)** in relation to a registered party or eligible party,
+		- **(i)** naming it,
+		- **(ii)** identifying it, including by its logo, and
+		- **(iii)** providing a link to an Internet page that does anything referred to in subparagraphs (i) and (ii); and
+	- **(b)** in relation to the election of a potential candidate, a nomination contestant, a candidate or a leader of a registered party or eligible party,
+		- **(i)** naming him or her,
+		- **(ii)** showing a photograph, cartoon or drawing of him or her,
+		- **(iii)** identifying him or her, including by political affiliation or by any logo that he or she has, and
+		- **(iv)** providing a link to an Internet page that does anything referred to in subparagraphs (i) to (iii).
 > 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39; 2007, c. 21, s. 1; 2014, c. 12, ss. 2, 155; 2018, c. 20, s. 1; 2018, c. 31, s. 2; 2018, c. 31, s. 399.
 
 
@@ -230,26 +283,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Persons qualified as electors**
 
-**3** Every person who is a Canadian citizen and is 18 years of age or older on polling day is qualified as an elector.
+**3** Every person who is a Canadian citizen and who on polling day is 18 years of age or older is qualified as an elector.
+> 2000, c. 9, s. 3; 2018, c. 31, s. 3.
 
 
 
 
-**Disentitlement from voting**
-
-**4** The following persons are not entitled to vote at an election:
-- **(a)** the Chief Electoral Officer;
-- **(b)** the Assistant Chief Electoral Officer; and
-- **(c)** every person who is imprisoned in a correctional institution serving a sentence of two years or more.
+**4** [Repealed, 2018, c. 31, s. 3]
 
 
 
-
-**Prohibition**
-
-**5** No person may
-- **(a)** vote or attempt to vote at an election knowing that they are not qualified as an elector or not entitled to vote under section 4; or
-- **(b)** induce another person to vote at an election knowing that the other person is not qualified as an elector or not entitled to vote under section 4.
+**5** [Repealed, 2018, c. 31, s. 3]
 
 
 
@@ -260,10 +304,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Only one vote**
-
-**7** No elector who has voted at an election may request a second ballot at that election.
+**7** [Repealed, 2018, c. 31, s. 4]
 
 
 
@@ -310,13 +351,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Members and persons living with members**
+**Former member candidates and electors living with them**
 
-**10** Each candidate at a general election who, on the day before the dissolution of Parliament immediately before the election, was a member, and any elector living with the candidate on that day who would move, or has moved, with the candidate to continue to live with the candidate, is entitled to have his or her name entered on the list of electors for, and to vote at the polling station that is established for, the polling division in which is located
-- **(a)** the place of ordinary residence of the former member;
-- **(b)** the place of temporary residence of the former member in the electoral district in which the former member is a candidate;
-- **(c)** the office of the returning officer for the electoral district in which the former member is a candidate; or
-- **(d)** the place in Ottawa or in the area surrounding Ottawa where the former member resides for the purpose of carrying out parliamentary duties.
+**10** 
+
+- **(1)** Each candidate at a general election who, on the day before the dissolution of Parliament immediately before the election, was a member, and any elector living with the candidate on that day who would move, or has moved, with the candidate to continue to live with the candidate, is entitled to have his or her name entered on the list of electors for, and to vote at the polling station to which is assigned, the polling division in which is located
+	- **(a)** the place of ordinary residence of the former member; or
+	- **(b)** [Repealed, 2018, c. 31, s. 6]
+	- **(c)** the office of the returning officer for the electoral district in which the former member is a candidate.
+	- **(d)** [Repealed, 2018, c. 31, s. 6]
+
+**Former member candidates and electors living with them — notice to returning officer**
+
+- **(2)** If a candidate or elector referred to in subsection (1) provides notice to the returning officer, at least two days before polling day, of his or her intention to vote at the polling station, the candidate or elector is entitled to have his or her name entered on the list of electors for, and to vote at the polling station to which is assigned, any polling division in
+	- **(a)** the electoral district in which the former member is a candidate; or
+	- **(b)** the electoral district in the National Capital Region where the former member resides for the purpose of carrying out parliamentary duties.
+> 2000, c. 9, s. 10; 2018, c. 31, s. 6.
+
 
 
 
@@ -731,19 +782,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** assistant returning officers appointed under subsection 26(1) or 28(5) and additional assistant returning officers appointed under subsection 30(1);
 	- **(c)** persons authorized by a returning officer under section 27 to exercise powers or perform duties under this Act;
 	- **(c.1)** persons designated pursuant to subsection 28(3.1);
-	- **(d)** revising agents appointed under paragraph 32(a);
-	- **(e)** deputy returning officers appointed under paragraphs 32(b) and (c) and subsection 273(1);
-	- **(f)** poll clerks appointed under paragraphs 32(b) and (c) and subsection 273(1);
-	- **(g)** registration officers appointed under paragraph 32(d);
-	- **(g.1)** persons appointed under section 32.1;
-	- **(h)** information officers appointed under paragraph 124(1)(a);
-	- **(i)** persons responsible for maintaining order at a central polling place appointed under paragraph 124(1)(b);
-	- **(j)** central poll supervisors appointed under subsection 124(2);
-	- **(k)** persons appointed under subsection 290(2) to collect ballot boxes;
+	- **(d)** [Repealed, 2018, c. 31, s. 20]
+	- **(e)** [Repealed, 2018, c. 31, s. 20]
+	- **(f)** [Repealed, 2018, c. 31, s. 20]
+	- **(g)** [Repealed, 2018, c. 31, s. 20]
+	- **(g.1)** [Repealed, 2018, c. 31, s. 20]
+	- **(h)** [Repealed, 2018, c. 31, s. 20]
+	- **(i)** [Repealed, 2018, c. 31, s. 20]
+	- **(j)** [Repealed, 2018, c. 31, s. 20]
+	- **(k)** [Repealed, 2018, c. 31, s. 20]
 	- **(l)** the special voting rules administrator appointed under section 181;
-	- **(m)** special ballot officers appointed under subsection 183(1) or section 184;
-	- **(n)** liaison officers for correctional institutions appointed under subsection 248(1); and
-	- **(o)** deputy returning officers and poll clerks for correctional institutions appointed under subsection 253(1).
+	- **(m)** special ballot officers appointed under subsection 183(1) or section 184; and
+	- **(n)** liaison officers for correctional institutions appointed under subsection 248(1).
+	- **(o)** [Repealed, 2018, c. 31, s. 20]
 
 **Election officers — exclusions**
 
@@ -762,13 +813,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Qualifications**
 
-- **(4)** An election officer must be qualified as an elector and an election officer referred to in any of paragraphs (1)(a), (b), (d) to (g) and (j) must reside in the electoral district in which he or she is to perform duties under this Act.
+- **(4)** An election officer must be qualified as an elector, and an election officer referred to in paragraph (1)(a.1) or (b) must reside in the electoral district in which he or she is to exercise powers or perform duties under this Act or in an adjacent electoral district.
 
-**Exception**
+**Election officers younger than 18**
 
-- **(5)** In the case of an appointment that is to be made by a returning officer, if he or she is unable to appoint an election officer who meets the requirements set out in subsection (4), he or she may, with the approval of the Chief Electoral Officer, appoint
-	- **(a)** a Canadian citizen who is 16 years of age or older and who resides in the electoral district; or
-	- **(b)** a person who is qualified as an elector but does not live in the electoral district.
+- **(5)** Despite subsection (4), an election officer appointed under section 32 may be under 18 years of age but must be at least 16 years of age.
 
 **Prohibition — acting as election officer**
 
@@ -779,19 +828,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Oath**
+**Solemn declaration**
 
 **23** 
 
-- **(1)** Before assuming duties, an election officer shall swear an oath in writing, in the prescribed form, to perform the duties of the office in an impartial manner.
+- **(1)** Before assuming duties, an election officer shall make, in writing, a solemn declaration, in the prescribed form, that he or she will exercise the powers and perform the duties of the office in an impartial manner.
 
 **Prohibition**
 
-- **(2)** No election officer shall communicate information obtained in the course of performing his or her duties under this Act, other than for a purpose related to the performance of those duties.
+- **(2)** No election officer shall communicate information, or use personal information, that is obtained in the course of exercising his or her powers or performing his or her duties under this Act, other than for a purpose related to the exercise of those powers or the performance of those duties.
 
-**Sending of oaths**
+**Sending of solemn declarations**
 
-- **(3)** The returning officer shall send the documents containing the oaths of the returning officer and assistant returning officer without delay to the Chief Electoral Officer.
+- **(3)** The returning officer shall send his or her solemn declaration and that of the assistant returning officer without delay to the Chief Electoral Officer.
+> 2000, c. 9, s. 23; 2018, c. 31, s. 21.
+
 
 
 
@@ -948,12 +999,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **26** 
 
-- **(1)** A returning officer shall, without delay after being appointed, appoint in writing an assistant returning officer, who shall hold office at pleasure and send the appointment in writing to the Chief Electoral Officer.
+- **(1)** Without delay after being appointed, a returning officer shall, with the Chief Electoral Officer’s prior approval of the individual proposed to be appointed, appoint an assistant returning officer, who shall hold office at pleasure.
 
 **Restriction on appointment**
 
 - **(2)** A returning officer shall not appoint his or her spouse, common-law partner, child, mother, father, brother, sister, the child of his or her spouse or common-law partner, or a person who lives with him or her as an assistant returning officer.
-> 2000, c. 9, s. 26, c. 12, s. 40.
+> 2000, c. 9, s. 26, c. 12, s. 40; 2018, c. 31, s. 24.
 
 
 
@@ -963,12 +1014,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **27** 
 
-- **(1)** The returning officer for an electoral district may, with the Chief Electoral Officer’s prior approval, authorize any person acting under his or her direction to perform any of the duties or functions of a returning officer under this Act, except those described in subsection 24(3), sections 62, 63 and 67, subsections 71(1) and 72(1), sections 74, 77, 103, 104, 130, 293 to 298 and 300, subsection 301(6) and sections 313 to 316.
+- **(1)** The returning officer for an electoral district may, with the Chief Electoral Officer’s prior approval, authorize any person acting under his or her direction to exercise any of the powers or perform any of the duties of a returning officer under this Act, except those described in subsection 24(3), sections 62 and 63, subsection 71(1), sections 71.1, 74, 77, 130, 293 to 298 and 300, subsection 301(6) and sections 313 to 316.
 
 **Authorization in writing**
 
 - **(2)** An authorization under subsection (1) shall be signed and dated by the returning officer.
-> 2000, c. 9, s. 27; 2014, c. 12, s. 15.
+> 2000, c. 9, s. 27; 2014, c. 12, s. 15; 2018, c. 31, s. 25.
 
 
 
@@ -1017,7 +1068,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Appointment of substitute**
 
-- **(2)** If an assistant returning officer dies, resigns, becomes disqualified or incapable of acting or refuses to act, or is removed from office for any other reason, the returning officer who appointed him or her shall without delay appoint a substitute.
+- **(2)** If an assistant returning officer dies, resigns, becomes disqualified or incapable of acting or refuses to act, or is removed from office for any other reason, the returning officer shall without delay appoint a substitute with the Chief Electoral Officer’s prior approval.
 
 **Tenure of office of assistant returning officer**
 
@@ -1025,7 +1076,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Resignation by assistant returning officer**
 
-- **(4)** An assistant returning officer who intends to resign shall give written notice to the returning officer who appointed him or her or, if the office of returning officer is vacant, to the Chief Electoral Officer.
+- **(4)** An assistant returning officer who intends to resign shall give written notice to the returning officer or, if the office of returning officer is vacant, to the Chief Electoral Officer.
+> 2000, c. 9, s. 29; 2018, c. 31, s. 27.
+
 
 
 
@@ -1064,33 +1117,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-#### General
-
-
-
 **Election officers**
 
-**32** After the issue of the writ, a returning officer shall appoint the following election officers in the prescribed form:
-- **(a)** the revising agents that the returning officer considers necessary, provided that the Chief Electoral Officer approves of their number;
-- **(b)** one deputy returning officer and one poll clerk for each advance polling station in the electoral district;
-- **(c)** one deputy returning officer and one poll clerk for each polling station in the electoral district; and
-- **(d)** a registration officer for each registration desk.
-> 2000, c. 9, s. 32; 2001, c. 21, s. 3(E).
+**32** 
+
+- **(1)** Subject to subsections (2) and (3) and 33(2) and (3), a returning officer shall, after the issue of the writ, appoint in accordance with the Chief Electoral Officer’s instructions the election officers that the returning officer considers necessary for exercising election officers’ powers and performing election officers’ duties under this Act in the returning officer’s electoral district.
+
+**Appointment before issue of writ**
+
+- **(2)** A returning officer may, in accordance with the Chief Electoral Officer’s instructions, appoint election officers before the issue of the writ if the returning officer considers that it is desirable to do so for the purpose of training and preparing them to exercise their powers and perform their duties under this Act after the issue of the writ.
+
+**Maximum number of election officers appointed**
+
+- **(3)** Before the eighth day after the issue of the writ, a returning officer shall not appoint more than half the number of election officers referred to in subsection (1).
+> 2000, c. 9, s. 32; 2001, c. 21, s. 3(E); 2018, c. 31, s. 29.
 
 
 
 
+**32.1** [Repealed, 2018, c. 31, s. 29]
 
-**Additional election officers**
-
-**32.1** After the issue of the writ, a returning officer may, with the Chief Electoral Officer’s approval, in the prescribed form, appoint any other person whose attendance is, in the returning officer’s opinion, necessary for the conduct of the vote or the counting of the votes at a polling station or an advance polling station, and may assign to that person any duties or functions that the returning officer considers to be appropriate.
-> 2014, c. 12, s. 17.
-
-
-
-
-
-#### Revising Agents
 
 
 
@@ -1098,70 +1144,41 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **33** 
 
-- **(1)** Before appointing revising agents, a returning officer shall solicit names of suitable persons from the registered parties whose candidates finished first and second in the last election in the electoral district and, if sufficient names are not provided by those parties within three days after receipt of the request, the returning officer may solicit names from any other source.
+- **(1)** As soon as possible after the issue of the writ, a returning officer shall solicit names of persons suitable to be election officers from the candidates of registered parties that endorsed candidates in the last election in the electoral district or from the registered associations of those registered parties — or, if such a registered party has no registered association in that electoral district, from that registered party.
 
-**Equal distribution**
+**Persons whose names are provided to be appointed**
 
-- **(2)** A returning officer shall appoint half of the revising agents from among the persons recommended by the registered party whose candidate finished first in the last election in the electoral district, and half from among the persons recommended by the registered party whose candidate finished second in that election.
+- **(2)** If the number of names provided under subsection (1) within seven days after the issue of the writ is less than, or equal to, the number of election officers remaining to be appointed under subsection 32(1) after the returning officer has appointed election officers under section 32, the returning officer shall, subject to subsection 37(1), appoint the persons named as election officers.
 
-**Revising agents to work in pairs**
+**Proportional distribution**
 
-- **(3)** A returning officer shall appoint revising agents to work in pairs and each pair shall consist, as far as possible, of persons recommended by different registered parties.
+- **(3)** If the number of names provided under subsection (1) within seven days after the issue of the writ is more than the number of election officers remaining to be appointed under subsection 32(1) after the returning officer has appointed election officers under section 32, the returning officer shall, subject to subsection 37(1), appoint from those names the election officers remaining to be appointed as far as possible in the proportion of the votes received in the last election in the electoral district by the candidates of the registered parties whose candidates or registered associations provided names under subsection (1), or that themselves provided names under that subsection, as the case may be.
 
-**Replacement**
+**Removal or replacement**
 
-- **(4)** A returning officer may replace a revising agent at any time and the former revising agent shall return all election materials in his or her possession to the returning officer.
+- **(4)** If a returning officer removes or replaces an election officer, the former election officer shall return all election documents and election materials in his or her possession to the returning officer or to an authorized person.
 
-**Lists of revising agents**
+**Lists of election officers**
 
-- **(5)** Each returning officer shall make available to each candidate a list of the revising agents for the electoral district, on completion of the list.
+- **(5)** Each returning officer shall make available to each candidate, on completion of the list, a list of the election officers for the electoral district who will be responsible for assisting the returning officer or assistant returning officer in the revision of lists of electors under Part 7.
 
 **Identification**
 
-- **(6)** Each revising agent shall, while performing his or her functions, wear or carry the identification that is supplied by the Chief Electoral Officer and shall show it on request.
+- **(6)** Each election officer shall, while exercising his or her powers or performing his or her duties, wear or carry the identification that is supplied by the Chief Electoral Officer and shall show it on request.
+> 2000, c. 9, s. 33; 2018, c. 31, s. 29.
 
 
 
 
-#### Deputy Returning Officers and Poll Clerks
+**34** [Repealed, 2018, c. 31, s. 29]
 
 
 
-**Deputy returning officers**
-
-**34** 
-
-- **(1)** Each deputy returning officer referred to in paragraph 32(b) or (c) shall be appointed from lists of names of suitable persons provided by the candidate of the registered party whose candidate finished first in the electoral district in the last election or by the registered association of that registered party or, if there is no registered association, by that registered party.
-
-**Replacing deputies**
-
-- **(2)** A returning officer may, at any time, remove a deputy returning officer.
-> 2000, c. 9, s. 34; 2014, c. 12, s. 18.
+**35** [Repealed, 2018, c. 31, s. 29]
 
 
 
-
-
-**Poll clerks**
-
-**35** 
-
-- **(1)** Each poll clerk referred to in paragraph 32(b) or (c) shall be appointed from lists of names of suitable persons provided by the candidate of the registered party whose candidate finished second in the electoral district in the last election or by the registered association of that registered party or, if there is no registered association, by that registered party.
-
-**Replacing poll clerks**
-
-- **(2)** A returning officer may, at any time, remove a poll clerk.
-> 2000, c. 9, s. 35; 2014, c. 12, s. 19.
-
-
-
-
-
-**Appointment**
-
-**36** A returning officer shall proceed to appoint deputy returning officers and poll clerks from other sources if, by the 24th day before polling day, none of the candidate, the registered association and the registered party has made a recommendation or all three have not, as a group, recommended a sufficient number of suitable persons.
-> 2000, c. 9, s. 36; 2014, c. 12, s. 20.
-
+**36** [Repealed, 2018, c. 31, s. 29]
 
 
 
@@ -1170,55 +1187,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **37** 
 
-- **(1)** A returning officer may, on reasonable grounds, refuse to appoint a deputy returning officer or a poll clerk recommended by a candidate, a registered association or a registered party and shall immediately advise the candidate, registered association or registered party of the refusal.
+- **(1)** A returning officer may, on reasonable grounds, refuse to appoint as an election officer a person recommended by a candidate or by a registered association or registered party and shall immediately advise the candidate, association or party of the refusal.
 
 **Recommendation of another person**
 
-- **(2)** If as a result of the refusal a position is not filled, the candidate, registered association or registered party may, within 24 hours after being advised of the refusal, recommend another person and, if no one is recommended, the returning officer shall proceed to appoint another person whose name is solicited from another source.
-> 2000, c. 9, s. 37; 2014, c. 12, s. 20.
+- **(2)** If as a result of the refusal a position is not filled and there are no more persons whose names were provided by the candidate, registered association or registered party under subsection 33(1) who may be appointed under subsection 33(2) or (3), the candidate, association or party may recommend another person within 24 hours after being advised of the refusal.
+> 2000, c. 9, s. 37; 2014, c. 12, s. 20; 2018, c. 31, s. 29.
 
 
 
 
 
-**Replacement for deputy returning officer**
+**Record of election officers’ powers and duties**
 
-**38** 
-
-- **(1)** When the office of deputy returning officer is vacant or if the deputy returning officer is unable or unwilling to act, and the returning officer has not appointed a replacement, the poll clerk shall act as deputy returning officer without taking another oath.
-
-**Another poll clerk appointed**
-
-- **(2)** When a poll clerk acts as deputy returning officer, the poll clerk shall, in the prescribed form, appoint a person to act as poll clerk.
+**38** A returning officer shall keep a record of the powers and duties that he or she has assigned to each election officer, and of the time at which or during which each election officer is to exercise a power or perform a duty assigned to him or her.
+> 2000, c. 9, s. 38; 2018, c. 31, s. 29.
 
 
 
 
-#### Registration Officers
 
+**Election officers**
 
-
-**Registration desks**
-
-**39** 
-
-- **(1)** The returning officer shall establish one or more registration desks in accordance with the instructions of the Chief Electoral Officer.
-
-**Appointment of registration officers**
-
-- **(2)** The returning officer shall appoint, for each registration desk, a registration officer to receive, on polling day, the applications for registration of electors whose names are not on the list of electors.
-
-**Solicitation of names**
-
-- **(3)** Before appointing registration officers, the returning officer shall solicit names of suitable persons from the candidates of the registered parties whose candidates finished first and second in the last election in the electoral district or from registered associations of those registered parties or, if there are no registered associations, from those registered parties. If, by the 24th day before polling day, a sufficient number of names of suitable persons is not provided by those candidates, registered associations or registered parties, the returning officer may solicit names from other sources.
-
-**Equal distribution of appointments**
-
-- **(4)** The returning officer shall, as far as possible,
-	- **(a)** appoint half of the registration officers from among the persons recommended under subsection (3) by the candidate of the registered party whose candidate finished first in the last election in the electoral district or by the registered association of that registered party or, if there is no registered association, by that registered party; and
-	- **(b)** appoint half of the registration officers from among the persons recommended under subsection (3) by the candidate of the registered party whose candidate finished second in the last election in the electoral district or by the registered association of that registered party or, if there is no registered association, by that registered party.
-If the candidate, registered association and registered party do not, as a group, provide a sufficient number of names of suitable persons, the registered party’s remaining share of the appointments shall be made from among the names solicited by the returning officer from other sources.
-> 2000, c. 9, s. 39; 2014, c. 12, s. 21.
+**39** An election officer shall exercise or perform, in accordance with the Chief Electoral Officer’s instructions, any power or duty assigned to him or her by a returning officer.
+> 2000, c. 9, s. 39; 2014, c. 12, s. 21; 2018, c. 31, s. 29.
 
 
 
@@ -1264,7 +1256,11 @@ If the candidate, registered association and registered party do not, as a group
 
 **Attribution of votes for appointments**
 
-**42** For the purposes of subsections 33(1) and (2), 34(1), 35(1) and 39(3) and (4) and section 41, in determining whether the candidate of a registered party finished first or second in the last election in a case where the registered party is the result of a merger with two or more parties that were registered parties at that election, there shall be attributed to the candidate of the merged party the number of votes of the candidate of the merging party with the largest number of votes at that election.
+**42** For the purposes of subsection 33(3) and section 41, in a case in which a registered party that endorsed a candidate in the last election merges with one or more parties that were registered parties at the last election,
+- **(a)** the merged party is deemed to have endorsed a candidate in the last election in the electoral district; and
+- **(b)** that candidate is deemed to have received the same number of votes as the candidate who, among the candidates of the merging parties, received the largest number of votes at that election.
+> 2000, c. 9, s. 42; 2018, c. 31, s. 31.
+
 
 
 
@@ -1342,11 +1338,11 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Members and registered parties**
+**Lists to members and registered parties**
 
 **45** 
 
-- **(1)** By November 15 in each year, the Chief Electoral Officer shall send to the member for each electoral district and, on request, to each registered party that endorsed a candidate in the electoral district in the last election, a copy in electronic form — taken from the Register of Electors — of the lists of electors for the electoral district.
+- **(1)** By November 15 in each year, the Chief Electoral Officer shall make available to the member for each electoral district and, on request, to each registered party that endorsed a candidate in the electoral district in the last election, a copy — taken from the Register of Electors — in electronic form, or in formats that include electronic form, of the lists of electors for the electoral district.
 
 **Contents of lists of electors**
 
@@ -1359,7 +1355,7 @@ If the candidate, registered association and registered party do not, as a group
 **Merger of parties**
 
 - **(4)** For the purpose of subsection (1), a registered party that is the result of a merger of two or more registered parties is deemed to have endorsed a candidate in the last election if one of the merging parties so endorsed a candidate.
-> 2000, c. 9, s. 45; 2007, c. 21, s. 5.
+> 2000, c. 9, s. 45; 2007, c. 21, s. 5; 2018, c. 31, s. 37.
 
 
 
@@ -1778,8 +1774,10 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(2)** Staff mentioned in subsection (1) shall
 	- **(a)** be appointed in the prescribed form;
-	- **(b)** take the prescribed oath; and
+	- **(b)** make a solemn declaration in the prescribed form; and
 	- **(c)** be discharged as soon as their services are no longer needed.
+> 2000, c. 9, s. 61; 2018, c. 31, s. 50.
+
 
 
 
@@ -1835,14 +1833,14 @@ If the candidate, registered association and registered party do not, as a group
 	- **(b)** the name of the official agent for each candidate, as stated in the nomination papers; and
 	- **(c)** the name, if any, and the number of each of the polling divisions and the addresses of the polling stations in that electoral district.
 
-**Notice to be posted in polling station**
+**Notice to election officers**
 
-- **(3)** The returning officer shall send one copy of the notice of grant of a poll to each deputy returning officer or central poll supervisor, as the case may be, and the officer or supervisor shall post the notice in his or her polling place.
+- **(3)** The returning officer shall make the notice of grant of a poll available to, for each polling station, an election officer who is assigned to work in the polling station. The election officer shall post the notice in the polling station.
 
 **Documents to candidates**
 
 - **(4)** The returning officer shall send to each candidate, on the later of the 31st day before polling day and the day on which the candidate’s nomination is confirmed, up to 10 copies of a document that sets out a description of the boundaries of the polling divisions in the electoral district.
-> 2000, c. 9, s. 64; 2014, c. 12, s. 24.
+> 2000, c. 9, s. 64; 2014, c. 12, s. 24; 2018, c. 31, s. 51.
 
 
 
@@ -1863,13 +1861,13 @@ If the candidate, registered association and registered party do not, as a group
 - **(a)** a person who is not qualified as an elector on the date on which his or her nomination paper is filed;
 - **(b)** a person who is disentitled under paragraph 502(3)(a) while they are so disentitled;
 - **(c)** a member of the legislative assembly of a province;
-- **(d)** a sheriff, clerk of the peace or county Crown Attorney in any of the provinces;
-- **(e)** a person who is not entitled under section 4 to vote;
+- **(d)** [Repealed, 2018, c. 31, s. 52]
+- **(e)** the Chief Electoral Officer;
 - **(f)** a judge appointed by the Governor in Council, other than a citizenship judge appointed under the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md);
 - **(g)** a person who is imprisoned in a correctional institution;
 - **(h)** an election officer; and
 - **(i)** a person who was a candidate in a previous election and for whom a return, report, document or declaration has not been provided under subsection 477.59(1), if the time and any extension for providing it have expired.
-> 2000, c. 9, s. 65; 2002, c. 7, s. 92; 2014, c. 2, s. 49, c. 12, s. 25.
+> 2000, c. 9, s. 65; 2002, c. 7, s. 92; 2014, c. 2, s. 49, c. 12, s. 25; 2018, c. 31, s. 52.
 
 
 
@@ -1884,68 +1882,77 @@ If the candidate, registered association and registered party do not, as a group
 **66** 
 
 - **(1)** A nomination paper shall be in the prescribed form and include
-	- **(a)** a statement under oath by the prospective candidate of
+	- **(a)** a solemn declaration, in the prescribed form, made by the prospective candidate of
 		- **(i)** his or her name, address and occupation,
+		- **(i.1)** any other name by which he or she is commonly known — other than a name that could be confused with the name of a political party — and that he or she wishes to appear on the ballot instead of the name referred to in subparagraph (i),
 		- **(ii)** the address designated by the prospective candidate for service of documents under this Act,
 		- **(iii)** the name and address of the prospective candidate’s official agent,
-		- **(iv)** the name, address and occupation of the prospective candidate’s auditor appointed under subsection 477.1(2), and
-		- **(v)** the name of the political party that has endorsed the prospective candidate or, if none, the prospective candidate’s choice to either have the word “independent” or no designation of political affiliation under his or her name in election documents;
-	- **(b)** a statement by the prospective candidate, consenting to the nomination, signed and sworn in the presence of a witness who is an elector but is not the person who administers the oath;
-	- **(c)** the signature of the witness referred to in paragraph (b);
+		- **(iv)** the auditor’s name, address and occupation, if the prospective candidate has appointed an auditor under subsection 477.1(2),
+		- **(v)** the name of the political party that has endorsed the prospective candidate or, if none, the prospective candidate’s choice to either have the word “independent” or no designation of political affiliation under his or her name in election documents, and
+		- **(vi)** if the prospective candidate’s statement includes the name of a political party that has endorsed him or her but the returning officer is unable to verify, under paragraph 71(2)(c), that the party has done so, the prospective candidate’s choice of either one of the two options referred to in subparagraph (v) or the withdrawal of his or her nomination paper;
+	- **(b)** a statement signed by the prospective candidate consenting to the nomination;
+	- **(c)** [Repealed, 2018, c. 31, s. 53]
 	- **(d)** a statement signed by the official agent consenting to act in that capacity;
 	- **(e)** for any electoral district except one listed in Schedule 3, the names, addresses and signatures, made in the presence of a witness, of at least 100 electors resident in the electoral district;
-	- **(f)** for an electoral district listed in Schedule 3, the names, addresses and signatures, made in the presence of a witness, of at least 50 electors resident in the electoral district; and
-	- **(g)** the name, address and signature of the witness to each signature made under paragraph (e) or (f).
+	- **(f)** for an electoral district listed in Schedule 3, the names, addresses and signatures, made in the presence of a witness, of at least 50 electors resident in the electoral district;
+	- **(g)** the name, address and signature of the witness to each signature made under paragraph (e) or (f); and
+	- **(h)** if applicable, a signed statement by the prospective candidate setting out the name of the person who is authorized by the prospective candidate under subsection 67(7).
 
-**Particulars of candidates**
+**Particulars of candidates — name**
 
-- **(2)** For the purpose of subparagraph (1)(a)(i),
-	- **(a)** the name shall not include any title, degree or other prefix or suffix;
-	- **(b)** one or more of the given names may be replaced by a nickname by which the prospective candidate is publicly known, other than a nickname that could be confused with the name of a political party, and the nickname may be accompanied by the initial or initials of their given name;
-	- **(c)** a normal abbreviation of one or more of the given names may be substituted for the given name or names; and
-	- **(d)** the occupation shall be stated briefly and shall correspond to the occupation by which the prospective candidate is known in his or her place of ordinary residence.
+- **(2)** For the purpose of subparagraphs (1)(a)(i) and (i.1), the name shall not include any title, degree or other prefix or suffix.
 
-**Public knowledge of nickname**
+**Particulars of candidates — occupation**
 
-- **(3)** A prospective candidate who uses a nickname described in paragraph (2)(b) in his or her nomination paper shall, if the returning officer requests it, provide the returning officer with documents that are determined by the Chief Electoral Officer to be evidence of the common public knowledge of the nickname.
+- **(3)** For the purpose of subparagraph (1)(a)(i), the occupation shall be stated briefly and shall correspond to the occupation by which the prospective candidate is known.
 
-**Notification and determination**
+**Witness ensures signatures are local electors’**
 
-- **(4)** If the returning officer is of the opinion that a nickname referred to in paragraph (2)(b) could be confused with the name of a political party, he or she shall notify the Chief Electoral Officer, who shall determine whether the nickname may be used as provided in that paragraph.
-> 2000, c. 9, s. 66; 2001, c. 21, s. 7; 2014, c. 12, s. 26; 2018, c. 31, s. 53(F).
+- **(4)** A witness to a signature referred to in paragraph (1)(e) or (f) shall use due diligence to ensure that the signatures that are made in his or her presence are all made by electors resident in the electoral district.
+> 2000, c. 9, s. 66; 2001, c. 21, s. 7; 2014, c. 12, s. 26; 2018, c. 31, s. 53.
 
 
 
 
 
-**Witness files nomination paper**
+**Filing of nomination paper**
 
 **67** 
 
-- **(1)** The witness to the consent referred to in paragraph 66(1)(b) shall file the nomination paper with the returning officer in the electoral district in which the prospective candidate is seeking nomination at any time between the issue of the Notice of Election and the close of nominations.
+- **(1)** A prospective candidate shall file the nomination paper with the returning officer in the electoral district in which the prospective candidate is seeking nomination at any time between the date of the issue of the Notice of Election and the close of nominations.
 
-**Witness ensures signatures are of electors**
+**Proof of identity — prospective candidate**
 
-- **(2)** The witness shall use due diligence to ensure that the signatures referred to in paragraph 66(1)(e) or (f) were all made by electors resident in the electoral district.
+- **(2)** A prospective candidate who personally files his or her nomination paper shall provide the returning officer with the following proof of his or her identity:
+	- **(a)** one piece of identification issued by a Canadian government, whether federal, provincial or local, or an agency of such a government, that contains a photograph of the prospective candidate and his or her name referred to in subparagraph 66(1)(a)(i); or
+	- **(b)** two pieces of identification of a type authorized under subsection (3), each of which establishes that name.
 
-**Witness swears oath**
+**Authorized types of identification**
 
-- **(3)** The witness shall, on filing the nomination paper, swear an oath in writing in the prescribed form before the returning officer stating that
-	- **(a)** the witness knows the prospective candidate;
-	- **(b)** the witness is qualified as an elector; and
-	- **(c)** the prospective candidate signed the consent to the nomination in the presence of the witness.
+- **(3)** The Chief Electoral Officer may authorize types of identification for the purposes of subsections (2) and (8). For greater certainty, any document may be authorized, regardless of who issued it.
 
-**Other requirements**
+**Name prospective candidate commonly known by — documents**
 
-- **(4)** The witness shall file with the returning officer, together with the nomination paper,
-	- **(a)** a deposit of $1,000;
-	- **(b)** a statement signed by the auditor consenting to act in that capacity; and
-	- **(c)** if applicable, an instrument in writing, signed by the person or persons authorized by the political party to endorse prospective candidates that states that the prospective candidate is endorsed by the party.
+- **(4)** If a prospective candidate wishes a name referred to in subparagraph 66(1)(a)(i.1) to appear on the ballot instead of the name referred to in subparagraph 66(1)(a)(i), he or she shall file with the returning officer documents of a type authorized under subsection (5) as proof that he or she is commonly known by that name.
 
-**Report**
+**Authorized types of documents**
 
-- **(5)** The chief agent of every political party shall, in writing, no later than 25 days before polling day, report to the Chief Electoral Officer the names of the person or persons who are authorized by the party to endorse prospective candidates.
-> 2000, c. 9, s. 67; 2001, c. 21, s. 8; 2014, c. 12, s. 27; 2015, c. 37, ss. 2, 6.
+- **(5)** The Chief Electoral Officer may authorize types of documents for the purposes of subsection (4).
+
+**Auditor’s consent**
+
+- **(6)** If a prospective candidate has appointed an auditor, the prospective candidate shall file with the returning officer by the close of nominations a statement signed by the auditor consenting to act in that capacity.
+
+**Authorized person**
+
+- **(7)** A prospective candidate may authorize another person to carry out, on the prospective candidate’s behalf, any of the prospective candidate’s obligations under subsections (1), (4) and (6).
+
+**Proof of identity — authorized person**
+
+- **(8)** A person authorized under subsection (7) who files a nomination paper on behalf of a prospective candidate shall file on the prospective candidate’s behalf with the returning officer, together with the nomination paper, the following proof of the prospective candidate’s identity:
+	- **(a)** a copy, signed by the prospective candidate, of one piece of identification issued by a Canadian government, whether federal, provincial or local, or an agency of such a government, that contains a photograph of the prospective candidate and his or her name referred to in subparagraph 66(1)(a)(i); or
+	- **(b)** a copy, signed by the prospective candidate, of each of two pieces of identification of a type authorized under subsection (3), each of which establishes that name.
+> 2000, c. 9, s. 67; 2001, c. 21, s. 8; 2014, c. 12, s. 27; 2015, c. 37, ss. 2, 6; 2018, c. 31, s. 54.
 
 
 
@@ -1960,7 +1967,18 @@ If the candidate, registered association and registered party do not, as a group
 **New endorsement**
 
 - **(2)** If, with respect to a particular electoral district, a candidate who has been endorsed by a political party dies before 2:00 p.m. on the 5th day before the closing day for nominations or withdraws in accordance with subsection 74(1), the party may endorse another candidate in that electoral district before the close of nominations.
-> 2000, c. 9, s. 68; 2001, c. 21, s. 9.
+
+**Names of endorsed candidates**
+
+- **(3)** The chief agent of a political party shall provide the Chief Electoral Officer, no later than 24 hours before the close of nominations, with
+	- **(a)** the name of every prospective candidate who has been endorsed by the party;
+	- **(b)** the electoral district in which the prospective candidate intends to be a candidate; and
+	- **(c)** the name of the person or persons who endorsed the prospective candidate on the party’s behalf.
+
+**Information to returning officers**
+
+- **(4)** As soon as feasible after receiving the information set out in paragraphs (3)(a) to (c), but no later than the close of nominations, the Chief Electoral Officer shall provide the information to the returning officer of the electoral district referred to in paragraph (3)(b).
+> 2000, c. 9, s. 68; 2001, c. 21, s. 9; 2018, c. 31, s. 55.
 
 
 
@@ -1985,7 +2003,14 @@ If the candidate, registered association and registered party do not, as a group
 
 **Designated filing place**
 
-- **(3)** The returning officer may authorize a person to receive the nomination paper and the deposit, statement and instrument referred to in paragraphs 67(4)(a) to (c), respectively, in any place designated by the returning officer. They must be received by the close of nominations.
+- **(3)** The returning officer may authorize a person to receive — or examine, in the case of paragraph (b) — the following in any place designated by the returning officer:
+	- **(a)** the nomination paper;
+	- **(b)** the piece or pieces of identification referred to in paragraphs 67(2)(a) and (b);
+	- **(c)** the documents referred to in subsection 67(4);
+	- **(d)** the statement referred to in subsection 67(6); and
+	- **(e)** the copy or copies of the piece or pieces of identification referred to in paragraphs 67(8)(a) and (b).
+> 2000, c. 9, s. 70; 2018, c. 31, s. 56.
+
 
 
 
@@ -1999,12 +2024,45 @@ If the candidate, registered association and registered party do not, as a group
 **Verification of nomination papers**
 
 - **(2)** Before giving confirmation of a nomination or refusing to accept one, the returning officer shall verify, in accordance with the instructions of the Chief Electoral Officer,
-	- **(a)** that the nomination paper is complete, including having at least the number of signatures referred to in paragraph 66(1)(e) or (f), as the case may be; and
-	- **(b)** that the signatures referred to in paragraph 66(1)(e) or (f) are those of electors who are entitled to vote in the electoral district in which the prospective candidate intends to seek nomination.
+	- **(a)** that the prospective candidate’s identity has been proven by the piece or pieces of identification provided under subsection 67(2) or the copy or copies filed under subsection 67(8), as the case may be;
+	- **(a.1)** that the nomination paper is complete, including having at least the number of signatures referred to in paragraph 66(1)(e) or (f), as the case may be;
+	- **(b)** that the signatures referred to in paragraph 66(1)(e) or (f) are those of electors who are entitled to vote in the electoral district in which the prospective candidate intends to seek nomination; and
+	- **(c)** that the political party named in the nomination paper as having endorsed the prospective candidate has done so, as evidenced by the information provided under paragraph 68(3)(a) in respect of that prospective candidate.
 
 **Correction or replacement**
 
 - **(3)** A nomination paper that a returning officer has refused to accept may be replaced by another nomination paper or may be corrected if the new or corrected nomination paper is filed with the returning officer by the close of nominations.
+> 2000, c. 9, s. 71; 2018, c. 31, s. 57.
+
+
+
+
+
+**Name prospective candidate commonly known by — determination**
+
+**71.1** 
+
+- **(1)** If a nomination paper includes a name referred to in subparagraph 66(1)(a)(i.1) and documents have been filed under subsection 67(4) in respect of the prospective candidate, then the returning officer shall determine, in accordance with the Chief Electoral Officer’s instructions, whether the documents prove that the prospective candidate is commonly known by that name.
+
+**Confusion with name of political party — determination**
+
+- **(2)** If the returning officer determines that the documents prove that the prospective candidate is commonly known by that name, but in the returning officer’s opinion the name could be confused with the name of a political party, he or she shall notify the Chief Electoral Officer, who shall determine whether the name could be confused with one and shall inform the returning officer of the determination.
+
+**Name to appear on ballot**
+
+- **(3)** The name referred to in subparagraph 66(1)(a)(i.1) shall be the name that appears on the ballot in respect of the prospective candidate unless
+	- **(a)** the returning officer determines under subsection (1) that the documents filed under subsection 67(4) do not prove that the prospective candidate is commonly known by that name; or
+	- **(b)** the Chief Electoral Officer determines under subsection (2) that the name could be confused with the name of a political party.
+
+**Clarification**
+
+- **(4)** For greater certainty, if the name referred to in subparagraph 66(1)(a)(i.1) is not, under subsection (3), the name that is to appear on the ballot in respect of the prospective candidate, then the name that is to appear on the ballot in respect of the prospective candidate shall be the name referred to in subparagraph 66(1)(a)(i).
+
+**Notice of name to appear on ballot**
+
+- **(5)** The returning officer shall, not later than 48 hours after the nomination paper is filed, give the prospective candidate notice, in the prescribed form, of whether the name referred to in subparagraph 66(1)(a)(i.1) is the name that is to appear on the ballot in respect of the prospective candidate.
+> 2018, c. 31, s. 58.
+
 
 
 
@@ -2017,12 +2075,16 @@ If the candidate, registered association and registered party do not, as a group
 
 **73** 
 
-- **(1)** A prospective candidate may send his or her nomination paper and the statement and instrument referred to in paragraphs 67(4)(b) and (c), respectively, by electronic means. In order for the nomination to be valid, the returning officer must receive the deposit referred to in paragraph 67(4)(a) and copies in electronic form of the nomination paper, statement and instrument by the close of nominations. The original documents must be received by the returning officer not later than 48 hours after the close of nominations.
+- **(1)** A person who files a nomination paper or any other document under section 67 may do so by electronic means. In order for the nomination to be valid, the returning officer must receive the document in electronic form by the close of nominations.
+
+**Proof of identity**
+
+- **(1.1)** If a prospective candidate files the nomination paper under section 67 by electronic means, he or she may, to prove his or her identity, file by electronic means the copy or copies referred to in paragraph 67(8)(a) or (b). If the prospective candidate does so, he or she need not provide proof of his or her identity under subsection 67(2).
 
 **Cancellation of nomination**
 
 - **(2)** If the original documents are not received on time, the returning officer shall cancel the nomination unless the person in respect of whom the nomination paper was filed satisfies the returning officer that all reasonable measures were taken to ensure that the original documents were received on time.
-> 2000, c. 9, s. 73; 2014, c. 12, s. 28(F).
+> 2000, c. 9, s. 73; 2014, c. 12, s. 28(F); 2018, c. 31, s. 60.
 
 
 
@@ -2235,15 +2297,15 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Sending of information**
+**Preliminary lists and information to returning officer**
 
 **93** 
 
-- **(1)** As soon as possible after the issue of a writ, the Chief Electoral Officer shall prepare a preliminary list of electors for each polling division in an electoral district, and shall send it to the returning officer for the electoral district along with all the other information in the Register of Electors that relates to the electors of that electoral district.
+- **(1)** As soon as possible after the issue of a writ, the Chief Electoral Officer shall prepare a preliminary list of electors for each polling division in an electoral district, and shall make it available to the returning officer for the electoral district along with all the other information in the Register of Electors that relates to the electors of that electoral district.
 
-**Distribution of preliminary lists**
+**Preliminary lists to parties**
 
-- **(1.1)** The Chief Electoral Officer shall distribute, to each registered party or eligible party that requests it, one copy in electronic form of the preliminary lists of electors for an electoral district in respect of which a writ has been issued.
+- **(1.1)** The Chief Electoral Officer shall make available in electronic form or in formats that include electronic form, to each registered party or eligible party that requests them, the preliminary lists of electors for an electoral district in respect of which a writ has been issued.
 
 **Form of preliminary list of electors**
 
@@ -2252,21 +2314,17 @@ If the candidate, registered association and registered party do not, as a group
 **Publication of preliminary lists**
 
 - **(3)** The Chief Electoral Officer shall, not later than the 31st day before polling day, determine the number of names appearing on the preliminary lists of electors for each electoral district and cause that information to be published in the Canada Gazette.
-> 2000, c. 9, s. 93; 2007, c. 21, s. 13.
+> 2000, c. 9, s. 93; 2007, c. 21, s. 13; 2018, c. 31, s. 62.
 
 
 
 
 
-**Distribution of lists**
+**Preliminary lists to candidates**
 
-**94** 
+**94** Each returning officer to whom the preliminary lists of electors for his or her electoral district have been made available shall make them available to each candidate in the electoral district who requests them.
+> 2000, c. 9, s. 94; 2018, c. 31, s. 63.
 
-- **(1)** Each returning officer shall, on receipt of the preliminary lists of electors for his or her electoral district, distribute one printed copy and one copy in electronic form of the lists to each candidate in the electoral district who requests them.
-
-**Extra copies**
-
-- **(2)** On the request of a candidate, the returning officer may provide a maximum of four additional printed copies of the preliminary lists of electors.
 
 
 
@@ -2280,14 +2338,14 @@ If the candidate, registered association and registered party do not, as a group
 **95** 
 
 - **(1)** Each returning officer shall, as soon as possible after the issue of a writ but not later than the 24th day before polling day, send a notice of confirmation of registration to every elector whose name appears on the preliminary list of electors, except electors who
-	- **(a)** are referred to in paragraph 11(e);
-	- **(b)** have completed a statement of ordinary residence under section 194 or 195; or
+	- **(a)** are incarcerated electors as defined in section 177;
+	- **(b)** [Repealed, 2018, c. 31, s. 64]
 	- **(c)** are referred to in section 222.
 
 **Form of notice**
 
 - **(2)** The notice of confirmation of registration shall be in the form established by the Chief Electoral Officer and shall indicate
-	- **(a)** the address of the elector’s polling station, and whether or not it has level access;
+	- **(a)** the address of the elector’s polling station, and whether or not it is in premises that are accessible to electors with a disability;
 	- **(b)** the voting hours on polling day;
 	- **(c)** a telephone number to call for more information;
 	- **(d)** the dates of advance polls and the voting hours and locations of advance polling stations; and
@@ -2297,13 +2355,13 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(3)** The notice of confirmation of registration shall invite the elector to contact the returning officer if he or she
 	- **(a)** requires a language or sign language interpreter;
-	- **(b)** requires level access and his or her polling station does not have it; or
-	- **(c)** is unable to attend at a polling station because of a physical disability.
+	- **(b)** requires a polling station that is in premises that are accessible to electors with a disability, which his or her polling station is not; or
+	- **(c)** is unable to attend at a polling station because of a disability.
 
 **Change in polling station address**
 
 - **(4)** If, on or before the 5th day before polling day, there is a change in the address of the polling station of an elector to whom a notice of confirmation of registration has been sent, the returning officer shall send another notice to the elector indicating the new address.
-> 2000, c. 9, s. 95; 2007, c. 21, s. 14; 2014, c. 12, s. 32.
+> 2000, c. 9, s. 95; 2007, c. 21, s. 14; 2014, c. 12, s. 32; 2018, c. 31, s. 64.
 
 
 
@@ -2332,19 +2390,21 @@ If the candidate, registered association and registered party do not, as a group
 
 **97** 
 
-- **(1)** The returning officer, assistant returning officer and revising agents for an electoral district may receive applications for additions or corrections to, or deletions from, a preliminary list of electors or the Register of Electors for their electoral district.
+- **(1)** The returning officer, assistant returning officer and other election officers for an electoral district may receive applications for additions or corrections to, or deletions from, a preliminary list of electors or the Register of Electors for their electoral district.
 
 **Applications for addition, correction or deletion**
 
-- **(2)** All applications referred to in subsection (1) that are received by revising agents shall, on completion, be presented to the returning officer or assistant returning officer for his or her approval.
+- **(2)** All applications referred to in subsection (1) that are received by election officers other than the returning officer or assistant returning officer shall, on completion, be presented to the returning officer or assistant returning officer for his or her approval.
+> 2000, c. 9, s. 97; 2018, c. 31, s. 65.
+
 
 
 
 
 **Revision offices**
 
-**98** The returning officer may open one or more offices for the revision of the preliminary lists of electors. The office or offices shall have level access.
-> 2000, c. 9, s. 98; 2014, c. 12, s. 34.
+**98** The returning officer may open one or more offices for the revision of the preliminary lists of electors. The office or offices shall be in premises that are accessible to electors with a disability.
+> 2000, c. 9, s. 98; 2014, c. 12, s. 34; 2018, c. 31, s. 65.
 
 
 
@@ -2369,15 +2429,17 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Revising agents to act jointly**
+**Election officers to act in pairs**
 
 **100** 
 
-- **(1)** Each pair of revising agents appointed for an electoral district shall act jointly to assist in the revision of the preliminary lists of electors.
+- **(1)** Election officers shall act in pairs when they assist the returning officer or assistant returning officer in the revision of the preliminary lists of electors.
 
-**Disagreement between revising agents**
+**Disagreement between election officers**
 
-- **(2)** In case of disagreement, the revising agents shall refer the matter to the returning officer or assistant returning officer for a decision and are bound by that decision.
+- **(2)** In case of disagreement between members of a pair, the two election officers shall refer the matter to the returning officer or assistant returning officer for a decision and are bound by that decision.
+> 2000, c. 9, s. 100; 2018, c. 31, s. 66.
+
 
 
 
@@ -2392,7 +2454,7 @@ If the candidate, registered association and registered party do not, as a group
 	- **(c)** another elector who does not live at the same residence as the elector completes the prescribed registration form for the elector, establishes that the elector should be included on the list and provides
 		- **(i)** written authorization from the elector allowing the other elector to complete the form for him or her, and
 		- **(ii)** satisfactory proof of identity in respect of both electors; or
-	- **(d)** the elector, or another elector who lives at the same residence as the elector, at their residence and in the presence of the revising agents completes the prescribed registration form and takes the prescribed oath.
+	- **(d)** the elector, or another elector who lives at the same residence as the elector, completes the prescribed registration form, and makes the solemn declaration in the prescribed form, at their residence and in the presence of a pair of election officers assisting the returning officer or assistant returning officer in the revision of the preliminary lists of electors.
 
 **Prescribed registration form**
 
@@ -2427,7 +2489,7 @@ If the candidate, registered association and registered party do not, as a group
 **Address change within electoral district**
 
 - **(6)** An elector who changes his or her address within an electoral district may, by telephone or otherwise, on providing satisfactory proof of identity and residence to one of the election officers mentioned in subsection 97(1), apply to have the relevant corrections made to the appropriate preliminary list of electors. Another elector who lives at the same residence as the elector in question, on providing satisfactory proof of identity and residence in respect of the elector in question, may apply to have the relevant corrections made to that list in respect of the elector in question.
-> 2000, c. 9, s. 101; 2007, c. 21, s. 16; 2014, c. 12, s. 35.
+> 2000, c. 9, s. 101; 2007, c. 21, s. 16; 2014, c. 12, s. 35; 2018, c. 31, s. 67.
 
 
 
@@ -2452,10 +2514,19 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Distribution of lists**
+**Lists to candidates**
 
-**104.1** Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district.
-> 2007, c. 21, s. 17.
+**104.1** Each returning officer shall, on the 19th day before polling day, make available the most current preliminary lists of electors for his or her electoral district to each candidate in the electoral district who requests them.
+> 2007, c. 21, s. 17; 2018, c. 31, s. 69.
+
+
+
+
+
+**Lists to registered parties**
+
+**104.2** The Chief Electoral Officer shall, on the 19th day before polling day, make available in electronic form or in formats that include electronic form the most current preliminary lists of electors for each electoral district to each registered party that has endorsed a candidate in that electoral district and that requests them.
+> 2018, c. 31, s. 69.
 
 
 
@@ -2480,8 +2551,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Official list of electors**
 
-**106** Each returning officer shall, without delay after the 7th day before polling day but no later than the 3rd day before polling day, prepare the official list of electors for each polling division for use on polling day.
-> 2000, c. 9, s. 106; 2014, c. 12, s. 36.
+**106** Each returning officer shall, without delay after the 7th day before polling day but no later than the 3rd day before polling day, prepare the official list of electors for each polling station for use on polling day.
+> 2000, c. 9, s. 106; 2014, c. 12, s. 36; 2018, c. 31, s. 70.
 
 
 
@@ -2491,20 +2562,20 @@ If the candidate, registered association and registered party do not, as a group
 
 **107** 
 
-- **(1)** The revised list of electors and official list of electors for each polling division shall be in the form established by the Chief Electoral Officer.
+- **(1)** The revised list of electors for each polling division and official list of electors for each polling station shall be in the form established by the Chief Electoral Officer. The official list of electors shall indicate each elector’s polling division number.
 
-**Transmittal of list**
+**Lists to election officers**
 
-- **(2)** Each returning officer shall deliver to each deputy returning officer the revised list of electors or official list of electors, as the case may be, that the deputy returning officer needs to conduct the vote in his or her respective advance polling station or polling station. The list shall indicate each elector’s sex and year of birth.
+- **(2)** Each returning officer shall make available to election officers the revised list of electors or official list of electors, as the case may be, that the election officers need to conduct the vote in the advance polling station or polling station to which they are assigned. The list shall indicate each elector’s year of birth.
 
-**Transmittal to candidates**
+**Lists to candidates**
 
-- **(3)** Each returning officer shall deliver to each candidate a printed copy and a copy in electronic form of a version of the revised lists of electors and the official lists of electors that does not indicate an elector’s sex or year of birth.
+- **(3)** Each returning officer shall make available to each candidate a version of the revised lists of electors and the official lists of electors that does not indicate an elector’s year of birth.
 
-**Extra copies**
+**Lists to registered parties**
 
-- **(4)** On the request of a candidate, the returning officer may provide a maximum of four additional printed copies of the revised lists of electors and the official lists of electors.
-> 2000, c. 9, s. 107; 2007, c. 21, s. 18; 2014, c. 12, s. 37.
+- **(4)** The Chief Electoral Officer shall make available in electronic form or in formats that include electronic form, for each electoral district, a version of the revised lists of electors and the official lists of electors that does not indicate an elector’s year of birth to each registered party that has endorsed a candidate in that electoral district.
+> 2000, c. 9, s. 107; 2007, c. 21, s. 18; 2014, c. 12, s. 37; 2018, c. 31, s. 70.
 
 
 
@@ -2520,9 +2591,9 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(1)** After the end of the revision period, the returning officer may, with the prior approval of the Chief Electoral Officer, merge a polling division with an adjacent polling division in the same electoral district.
 
-**Official list**
+- **(2)** [Repealed, 2018, c. 31, s. 71]
+> 2000, c. 9, s. 108; 2018, c. 31, s. 71.
 
-- **(2)** The lists of electors for the merging polling divisions are deemed to be the official list of electors for the polling division that results from the merger.
 
 
 
@@ -2537,14 +2608,12 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(1)** The Chief Electoral Officer shall, without delay after polling day, prepare final lists of electors for each electoral district.
 
-**Delivery of final lists to member and parties**
+**Lists to member and parties**
 
-- **(2)** The Chief Electoral Officer shall deliver a printed copy and a copy in electronic form of the final lists of electors for each electoral district to each registered party that endorsed a candidate in the electoral district and to the member who was elected for the electoral district.
+- **(2)** The Chief Electoral Officer shall make available in electronic form, or in formats that include electronic form, the final lists of electors for each electoral district to each registered party that has endorsed a candidate in the electoral district and to the member who was elected for the electoral district in the last election.
 
-**Extra copies**
-
-- **(3)** On the request of a registered party or member referred to in subsection (2), the Chief Electoral Officer may provide a maximum of four additional printed copies of the final lists of electors.
-> 2000, c. 9, s. 109; 2001, c. 21, s. 11.
+- **(3)** [Repealed, 2018, c. 31, s. 72]
+> 2000, c. 9, s. 109; 2001, c. 21, s. 11; 2018, c. 31, s. 72.
 
 
 
@@ -2558,22 +2627,22 @@ If the candidate, registered association and registered party do not, as a group
 
 **110** 
 
-- **(1)** A registered party that, under section 45, subsection 93(1.1) or section 109, receives a copy of lists of electors may use the lists for communicating with electors, including using them for soliciting contributions and recruiting party members.
+- **(1)** A registered party to which lists of electors are made available under section 45, subsection 93(1.1), section 104.2, subsection 107(4) or section 109 may use the lists for communicating with electors, including using them for soliciting contributions and recruiting party members.
 
 **Eligible parties**
 
-- **(1.1)** An eligible party that, under subsection 93(1.1), receives a copy of preliminary lists of electors may use the lists for communicating with electors, including using them for soliciting contributions and recruiting party members.
+- **(1.1)** An eligible party to which preliminary lists of electors are made available under subsection 93(1.1) may use the lists for communicating with electors, including using them for soliciting contributions and recruiting party members.
 
 **Members**
 
-- **(2)** A member who, under section 45 or 109, receives a copy of lists of electors or final lists of electors, respectively, may use the lists for
+- **(2)** A member to whom lists of electors or final lists of electors are made available under section 45 or 109, respectively, may use the lists for
 	- **(a)** communicating with his or her electors; and
-	- **(b)** in the case of a member of a registered party, soliciting contributions for the use of the registered party and recruiting party members.
+	- **(b)** if the member is a member of a registered party, soliciting contributions for the registered party and recruiting party members.
 
 **Candidates**
 
-- **(3)** A candidate who receives a copy of the preliminary lists of electors under section 94 or 104.1, or a copy of the revised lists of electors or the official lists of electors under subsection 107(3), may use the lists for communicating with his or her electors during an election period, including using them for soliciting contributions and campaigning.
-> 2000, c. 9, s. 110; 2007, c. 21, s. 19; 2014, c. 12, s. 38.
+- **(3)** A candidate to whom the preliminary lists of electors are made available under section 94 or 104.1, or to whom the revised lists of electors or the official lists of electors are made available under subsection 107(3), may use the lists for communicating with his or her electors during the election period, including using them for soliciting contributions and campaigning.
+> 2000, c. 9, s. 110; 2007, c. 21, s. 19; 2014, c. 12, s. 38; 2018, c. 31, s. 73.
 
 
 
@@ -2606,19 +2675,21 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-### List of Deputy Returning Officers
+### List of Election Officers
 
 
 
-**List of deputies to candidates**
+**List of election officers to candidates**
 
 **112** 
 
-- **(1)** A returning officer shall, at least three days before polling day, post in his or her office, and provide to each candidate or candidate’s representative, a list of the names and addresses of all the deputy returning officers and poll clerks appointed to act in the electoral district, with the number of the polling station at which each is to act.
+- **(1)** A returning officer shall, at least three days before polling day, post in his or her office, and make available to each candidate or candidate’s representative, a list of the names of all the election officers appointed to act in the electoral district who are assigned to a polling station, along with the polling station to which each officer is assigned.
 
 **Access to list**
 
 - **(2)** The returning officer shall permit access to, and give full opportunity for the inspection of, the list referred to in subsection (1) by interested persons at any reasonable time.
+> 2000, c. 9, s. 112; 2018, c. 31, s. 76.
+
 
 
 
@@ -2629,7 +2700,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **Delivery to returning officers**
 
-**113** The Chief Electoral Officer, at any time before the issue of the writ or immediately after the issue of it, shall deliver to the returning officer sufficient quantities of election materials and the necessary instructions for the election officers to perform their duties.
+**113** The Chief Electoral Officer, at any time before the issue of the writ or immediately after the issue of it, shall deliver to the returning officer sufficient quantities of election materials and the necessary instructions for the election officers to exercise their powers and perform their duties.
+> 2000, c. 9, s. 113; 2018, c. 31, s. 77.
+
 
 
 
@@ -2642,7 +2715,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **Material of ballot box**
 
-- **(2)** Each ballot box shall be of the size and shape and made of the material determined by the Chief Electoral Officer and be constructed to allow seals for the use of the returning officers and deputy returning officers to be affixed.
+- **(2)** Each ballot box shall be of the size and shape and made of the material determined by the Chief Electoral Officer and be constructed to allow seals for the use of the returning officers and other election officers to be affixed.
+> 2000, c. 9, s. 114; 2018, c. 31, s. 78.
+
 
 
 
@@ -2695,13 +2770,13 @@ If the candidate, registered association and registered party do not, as a group
 
 **117** 
 
-- **(1)** Ballots shall contain the names of candidates, arranged alphabetically, taken from their nomination papers.
+- **(1)** Ballots shall contain the names of candidates referred to in subparagraph 66(1)(a)(i) or (i.1), as the case may be, and taken from their nomination papers, arranged alphabetically.
 
 **Name of party**
 
 - **(2)** The name, in the form referred to in paragraph 385(2)(b), of the political party that has endorsed the candidate shall be listed on the ballot under the name of the candidate if
 	- **(a)** the candidate’s nomination paper includes it;
-	- **(b)** the condition described in paragraph 67(4)(c) is met; and
+	- **(b)** the information referred to in subsection 68(3) was provided in respect of the candidate in accordance with that subsection; and
 	- **(c)** no later than 48 hours after the close of nominations, the party is a registered party.
 	- **(d)** [Repealed, 2004, c. 24, s. 2]
 
@@ -2714,7 +2789,7 @@ If the candidate, registered association and registered party do not, as a group
 **Address or occupation on ballot**
 
 - **(5)** The ballot shall list under the candidate’s name the address or occupation of a candidate who makes a written request to that effect to the returning officer before 5:00 p.m. on the closing day for nominations, if the candidate and another candidate on the ballot have the same name and both candidates have chosen under subparagraph 66(1)(a)(v) to either have the word “independent” or no designation of political affiliation under their names in election documents.
-> 2000, c. 9, s. 117; 2001, c. 21, s. 12; 2004, c. 24, s. 2; 2007, c. 21, s. 20; 2014, c. 12, s. 40; 2018, c. 31, s. 80(F).
+> 2000, c. 9, s. 117; 2001, c. 21, s. 12; 2004, c. 24, s. 2; 2007, c. 21, s. 20; 2014, c. 12, s. 40; 2018, c. 31, s. 80.
 
 
 
@@ -2727,17 +2802,17 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-### Supply of Election Materials to Deputy Returning Officer
+### Provision of Election Materials to Election Officers
 
 
 
-**Materials to be supplied to deputy returning officers**
+**Materials to be provided to election officers**
 
 **119** 
 
-- **(1)** Before voting begins, each returning officer shall provide each deputy returning officer in his or her electoral district with
-	- **(a)** enough ballots for at least the number of electors on the official list of electors for the deputy returning officer’s polling station;
-	- **(b)** a statement showing the number of ballots that are supplied, with their serial numbers;
+- **(1)** Before voting begins, each returning officer shall provide, in accordance with the Chief Electoral Officer’s instructions, the election officers who are assigned to a polling station in the returning officer’s electoral district with
+	- **(a)** enough ballots for at least the number of electors on the official list of electors for the polling station;
+	- **(b)** a statement showing the number of ballots that are provided, with their serial numbers;
 	- **(c)** the necessary materials for electors to mark their ballots;
 	- **(d)** an adequate number of templates, provided by the Chief Electoral Officer, to enable electors who are visually impaired to mark their ballots without assistance;
 	- **(e)** a copy of the instructions of the Chief Electoral Officer referred to in section 113;
@@ -2748,106 +2823,69 @@ If the candidate, registered association and registered party do not, as a group
 
 **Safekeeping of election materials**
 
-- **(2)** Until the opening of the poll, each deputy returning officer is responsible for all election materials in his or her possession and shall take every precaution for the safekeeping of those materials and to prevent any person from having unlawful access to them.
-> 2000, c. 9, s. 119; 2014, c. 12, s. 41.
+- **(2)** Until the opening of the poll, the election officers are responsible for all election materials in their possession and shall take every precaution to ensure the safekeeping of those materials and to prevent any person from having unlawful access to them.
+> 2000, c. 9, s. 119; 2014, c. 12, s. 41; 2018, c. 31, s. 82.
 
 
 
 
 
-### Polling Stations and Central Polling Places
+### Polling Stations
 
 
 
 **Establishment of polling stations**
 
-**120** 
-
-- **(1)** Each returning officer shall, for polling day, establish one polling station for each polling division.
-
-**Multiple polling stations**
-
-- **(2)** No later than 3 days before a polling day, a returning officer may, with the prior approval of the Chief Electoral Officer, establish several polling stations for a polling division if, because of the number of electors on the list of electors for the polling division, the returning officer believes it necessary for the conduct of the vote, and each of those polling stations is to be designated by the number of the polling division to which is added the letter A, B, C and so on.
-
-**Division of list of electors**
-
-- **(3)** The returning officer shall divide the official list of electors for a polling division into as many separate lists as are required for the taking of the votes at each polling station.
-
-**Certificate of returning officer**
-
-- **(4)** To each portion of the official list of electors that is divided, the returning officer shall, before sending the portion to the deputy returning officer for the polling station, append a certificate signed by the returning officer in the prescribed form attesting to its correctness.
+**120** Each returning officer shall, for polling day, establish polling stations and assign each polling division to a polling station.
+> 2000, c. 9, s. 120; 2018, c. 31, s. 83.
 
 
 
 
-**Level access**
+
+**Accessibility**
 
 **121** 
 
-- **(1)** Subject to subsection (2), a polling station shall be in premises with level access.
+- **(1)** A polling station shall be in premises that are accessible to electors with a disability.
 
 **Exception**
 
-- **(2)** If a returning officer is unable to secure suitable premises with level access for use as a polling station, the returning officer may, with the prior approval of the Chief Electoral Officer, locate the polling station in premises without level access.
+- **(2)** If a returning officer is unable to secure suitable premises for a polling station that are accessible to electors with a disability, the returning officer may, with the prior approval of the Chief Electoral Officer, establish the polling station in premises that are not accessible to such electors.
 
 **Voting compartments**
 
-- **(3)** Each polling station shall contain one or two voting compartments arranged so that each elector is screened from observation and may, without interference or interruption, mark their ballot.
+- **(3)** Each polling station shall contain a sufficient number of voting compartments arranged so that each elector is screened from observation and may, without interference or interruption, mark their ballot.
 
 **Table or desk**
 
 - **(4)** Each voting compartment shall be placed on a hard and smooth surface and shall have in it a suitable black lead pencil for the use of electors in marking their ballots.
+> 2000, c. 9, s. 121; 2018, c. 31, s. 84.
 
 
 
-
-**Polling station in adjacent polling division**
 
 **122** 
 
-- **(1)** If a returning officer is unable to secure suitable premises to be used as a polling station within a polling division, the returning officer may establish a polling station in an adjacent polling division and all the provisions of this Act apply as if the polling station were within the polling division to which it appertains.
+- **(1)** [Repealed, 2018, c. 31, s. 85]
 
 **Polling station in school or other public building**
 
-- **(2)** Whenever possible, a returning officer shall locate a polling station in a school or other suitable public building and shall locate the polling station or the polling stations in a central polling place, at a place or places in the building that will provide ease of access to electors.
+- **(2)** Whenever possible, a returning officer shall establish a polling station in a school or other suitable public building.
 
 **Polling station in federal buildings**
 
 - **(3)** A returning officer may require the officer in charge of a building owned or occupied by the Government of Canada to make premises in that building available for use as a polling station, and the officer to whom the requirement is directed shall make every reasonable effort to comply with the requirement.
+> 2000, c. 9, s. 122; 2018, c. 31, s. 85.
 
 
 
 
-**Central polling place**
-
-**123** 
-
-- **(1)** A returning officer may, if he or she considers it advisable, place several polling stations together in a central polling place.
-
-**Maximum**
-
-- **(2)** A returning officer shall not group together more than 10 polling stations in a central polling place without the Chief Electoral Officer’s prior approval.
-
-**Presumption**
-
-- **(3)** On the establishment of a central polling place under subsection (1), all of the provisions of this Act apply as if each polling station at the central polling place were within the polling division to which it appertains.
-> 2000, c. 9, s. 123; 2014, c. 12, s. 42.
+**123** [Repealed, 2018, c. 31, s. 86]
 
 
 
-
-
-**Appointments at central polling place**
-
-**124** 
-
-- **(1)** When a returning officer establishes a central polling place, the returning officer may appoint, with the prior approval of the Chief Electoral Officer,
-	- **(a)** an information officer to provide information to the electors; and
-	- **(b)** a person responsible for maintaining order.
-
-**Central poll supervisor**
-
-- **(2)** When a returning officer establishes a central polling place that contains four or more polling stations, the returning officer may appoint a central poll supervisor to attend at the central polling place on polling day to supervise proceedings and keep the returning officer informed of any matter that adversely affects, or is likely to adversely affect, the proceedings.
+**124** [Repealed, 2018, c. 31, s. 86]
 
 
 
@@ -2877,16 +2915,20 @@ If the candidate, registered association and registered party do not, as a group
 
 **125.1** 
 
-- **(1)** The returning officer for an electoral district shall in writing inform each candidate in the electoral district and each political party that has endorsed a candidate in the electoral district of the addresses of all of the polling stations in the electoral district. That information shall be provided on the later of the 24th day before polling day and the day on which the candidate’s nomination is confirmed, and the returning officer shall at the same time provide them with the information in electronic form.
+- **(1)** The returning officer for an electoral district and the Chief Electoral Officer shall make the addresses of all of the polling stations in the electoral district available to, respectively, each candidate in the electoral district and each political party that has endorsed a candidate in the electoral district. That information shall be made available on the later of the 24th day before polling day and the day on which the candidate’s nomination is confirmed, along with maps of the electoral district indicating the boundaries of each polling division and the location of each polling station.
 
 **Notification of change — on or before 5th day before polling day**
 
-- **(2)** If, on or before the 5th day before polling day, there is a change in any of the addresses of the polling stations in the electoral district, the returning officer shall without delay notify the candidates and the political parties in writing of the change. He or she shall at the same time provide them with the information in electronic form.
+- **(2)** If, on or before the 5th day before polling day, there is a change in the address of any polling station in the electoral district, the returning officer and the Chief Electoral Officer shall without delay make that information available to the candidates and the political parties respectively, along with maps of the electoral district indicating the new location of the polling station.
+
+**Electoral district maps — electronic format**
+
+- **(2.1)** The maps that the Chief Electoral Officer is to make available to political parties under subsections (1) and (2) shall be made available in electronic form or in formats that include electronic form.
 
 **Notification of change — after 5th day before polling day**
 
-- **(3)** If, after the 5th day before polling day, there is a change in any of the addresses of the polling stations in the electoral district, the returning officer shall without delay notify the candidates and the political parties of the change.
-> 2014, c. 12, s. 43.
+- **(3)** If, after the 5th day before polling day, there is a change in the address of any polling station in the electoral district, the returning officer and the Chief Electoral Officer shall without delay make that information available to the candidates and the political parties respectively.
+> 2014, c. 12, s. 43; 2018, c. 31, s. 87.
 
 
 
@@ -3025,31 +3067,33 @@ If the candidate, registered association and registered party do not, as a group
 **135** 
 
 - **(1)** The only persons who may be present at a polling station on polling day are
-	- **(a)** the deputy returning officer and the poll clerk;
-	- **(b)** the returning officer and his or her representatives;
+	- **(a)** any field liaison officer;
+	- **(b)** the returning officer, his or her representatives and any member of his or her staff whom he or she authorizes to be present;
+	- **(b.1)** any election officer whom the returning officer authorizes to be present;
 	- **(c)** the candidates;
 	- **(d)** two representatives of each candidate or, in their absence, two electors to represent each candidate;
 	- **(e)** an elector and a friend or relative who is helping him or her by virtue of subsection 155(1), only for the period necessary to enable the elector to vote;
 	- **(f)** any observer or member of the Chief Electoral Officer’s staff whom he or she authorizes to be present;
-	- **(g)** any person appointed under section 32.1; and
-	- **(h)** if the polling station is established for a polling division of an electoral district in which a leader of a registered party is a candidate, any media representative who, subject to any conditions that the Chief Electoral Officer considers necessary to protect the integrity of the vote and the privacy of any person present at the polling station, is authorized in writing by the Chief Electoral Officer to be present and take any photograph or make any video recording of the candidates as they cast their votes.
+	- **(g)** [Repealed, 2018, c. 31, s. 88]
+	- **(h)** if a polling division of an electoral district in which a registered party’s leader is a candidate is assigned to the polling station, any media representative who — subject to any conditions that the Chief Electoral Officer considers necessary to protect the integ­rity of the vote and the privacy of any person present at the polling station — is authorized in writing by the Chief Electoral Officer to be present and take any photograph or make any audio or video recording of the candidates as they cast their votes; and
+	- **(i)** the auditor referred to in section 164.1.
 
 **Delivery of representative’s authorization**
 
-- **(2)** When a representative of a candidate is admitted to a polling station, the representative shall deliver his or her written authorization from the candidate or the candidate’s official agent in the prescribed form to the deputy returning officer.
+- **(2)** When a representative of a candidate is admitted to a polling station, the representative shall deliver his or her written authorization from the candidate or the candidate’s official agent in the prescribed form, or a copy of it, to an election officer who is assigned to the polling station.
 
 **Representative authorized in writing**
 
-- **(3)** A representative bearing a written authorization referred to in subsection (2) is deemed to be a representative of the candidate within the meaning of this Act and is entitled to represent the candidate in preference to, and to the exclusion of, any elector who might otherwise claim the right to represent the candidate.
+- **(3)** A representative bearing a written authorization referred to in subsection (2), or a copy of one, is a representative of the candidate for the purposes of this Act and is entitled to represent the candidate to the exclusion of any elector who might otherwise claim the right to represent the candidate.
 
-**Oath of secrecy**
+**Solemn declaration**
 
-- **(4)** Each representative of a candidate or each elector described in paragraph (1)(d), on being admitted to the polling station, shall take an oath in the prescribed form.
+- **(4)** Each representative of a candidate or each elector described in paragraph (1)(d), on being admitted to the polling station, shall make a solemn declaration in the prescribed form.
 
-**Oath**
+**Solemn declaration**
 
-- **(5)** A candidate’s representative who is appointed to more than one polling station, whether those polling stations are placed together in a central polling place or not, shall, before being admitted to the first polling station, take an oath in the prescribed form before the central poll supervisor or before the deputy returning officer of that polling station. The representative is not required to take another oath on being admitted to any other polling station in the same electoral district if he or she presents a document, in the prescribed form, proving that he or she has already taken the oath.
-> 2000, c. 9, s. 135; 2014, c. 12, s. 44.
+- **(5)** A candidate’s representative who is appointed to more than one polling station shall, before being admitted to the first polling station, make a solemn declaration in the prescribed form before an election officer who is assigned to that polling station. The representative is not required to make another solemn declaration on being admitted to any other polling station in the same electoral district if he or she presents a document, in the prescribed form, proving that he or she has already made the solemn declaration.
+> 2000, c. 9, s. 135; 2014, c. 12, s. 44; 2018, c. 31, s. 88.
 
 
 
@@ -3063,7 +3107,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **Representatives may absent themselves from poll**
 
-- **(2)** A representative of a candidate, or an elector described in paragraph 135(1)(d), may leave a polling station at any time and return at any time before the counting of the votes begins and is not required to produce a new written authorization from the candidate or official agent or to take another oath.
+- **(2)** A representative of a candidate, or an elector described in paragraph 135(1)(d), may leave a polling station at any time and return at any time before the counting of the votes begins and is not required to produce a new written authorization from the candidate or official agent, or a copy of one, or to make another solemn declaration.
 
 **Moving between polling stations**
 
@@ -3080,7 +3124,7 @@ If the candidate, registered association and registered party do not, as a group
 - **(4)** A candidate’s representative
 	- **(a)** shall not take any photograph or make any audio or video recording at a polling station; and
 	- **(b)** shall not, if he or she uses a communications device at a polling station, impede any elector from exercising their right to vote or violate the secrecy of the vote.
-> 2000, c. 9, s. 136; 2014, c. 12, s. 45.
+> 2000, c. 9, s. 136; 2014, c. 12, s. 45; 2018, c. 31, s. 89.
 
 
 
@@ -3103,7 +3147,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **138** 
 
-- **(1)** Before a polling station opens on polling day, and in full view of the candidates or their representatives who are present at the polling station, the deputy returning officer shall initial the back of every ballot in the space indicated in Form 3 of Schedule 1, entirely in ink or entirely in black pencil so that when the ballot is folded the initials can be seen. The initials shall be as similar as possible on each ballot.
+- **(1)** Before a polling station opens on polling day, and in full view of the candidates or their representatives who are present at the polling station, an election officer who is assigned to the polling station shall initial the back of every ballot in the space indicated in Form 3 of Schedule 1, entirely in ink or entirely in black pencil so that when the ballot is folded the initials can be seen. The initials shall be as similar as possible on each ballot.
 
 **Ballots not to be detached**
 
@@ -3112,6 +3156,8 @@ If the candidate, registered association and registered party do not, as a group
 **Vote not to be delayed**
 
 - **(3)** The opening of a polling station shall not be delayed for the purpose of initialling the ballots. Ballots that are not initialled when the polling station opens shall be initialled as soon as possible and in all cases before being handed to electors.
+> 2000, c. 9, s. 138; 2018, c. 31, s. 90.
+
 
 
 
@@ -3125,9 +3171,11 @@ If the candidate, registered association and registered party do not, as a group
 
 **Examining and sealing ballot box**
 
-**140** When the polling station opens, the deputy returning officer shall, in full view of the candidates or their representatives who are present, open the ballot box and ascertain that it is empty, and shall
+**140** When the polling station opens, an election officer who is assigned to the polling station shall, in full view of the candidates or their representatives who are present, open the ballot box and ascertain that it is empty, and shall
 - **(a)** seal the ballot box with the seals provided by the Chief Electoral Officer; and
 - **(b)** place the ballot box on a table in full view of all present and ensure that the box remains there until the polling station closes.
+> 2000, c. 9, s. 140; 2018, c. 31, s. 91.
+
 
 
 
@@ -3138,62 +3186,63 @@ If the candidate, registered association and registered party do not, as a group
 
 **Calling electors**
 
-**141** Immediately after the ballot box is sealed, the deputy returning officer shall call on the electors to vote.
+**141** Immediately after the ballot box is sealed, an election officer who is assigned to the polling station shall call on the electors to vote.
+> 2000, c. 9, s. 141; 2018, c. 31, s. 92.
+
 
 
 
 
 **Electors not to be impeded**
 
-**142** 
-
-- **(1)** The deputy returning officer shall ensure that every elector is admitted into the polling station and that the electors are not disturbed when they are in or near the polling station.
-
-**One elector at a time**
-
-- **(2)** A deputy returning officer may, if he or she considers it advisable, direct that not more than one elector for each voting compartment may at any time enter the room where the voting is held.
+**142** An election officer who is assigned to the polling station shall ensure that every elector is admitted into the polling station and that the electors are not disturbed when they are in or near the polling station.
+> 2000, c. 9, s. 142; 2018, c. 31, s. 92.
 
 
 
 
-**Elector to declare name, etc.**
+
+**Elector to give name and address**
 
 **143** 
 
-- **(1)** Each elector, on arriving at the polling station, shall give his or her name and address to the deputy returning officer and the poll clerk, and, on request, to a candidate or his or her representative.
+- **(1)** Each elector, in order to receive a ballot, shall give his or her name and address to an election officer who is assigned to the polling station, and, on request, to a candidate or a candidate’s representative.
 
 **Proof of identity and residence**
 
-- **(2)** If the poll clerk determines that the elector’s name and address appear on the list of electors or that the elector is allowed to vote under section 146, 147, 148 or 149, then the elector shall provide the deputy returning officer and the poll clerk with the following proof of the elector’s identity and, subject to subsection (3), his or her residence:
+- **(2)** If the election officer determines that the elector’s name and address appear on the list of electors or that the elector is allowed to vote under section 146, 147, 148 or 149, then, subject to subsection (3), the elector shall provide the election officer with the following proof of his or her identity and residence:
 	- **(a)** one piece of identification issued by a Canadian government, whether federal, provincial or local, or an agency of such a government, that contains a photograph of the elector and his or her name and address; or
 	- **(b)** two pieces of identification of a type authorized under subsection (2.1), each of which establishes the elector’s name and at least one of which establishes the elector’s address.
 
 **Authorized types of identification**
 
-- **(2.1)** The Chief Electoral Officer may authorize types of identification for the purposes of paragraph (2)(b). For greater certainty, any document — other than a notice of confirmation of registration sent under section 95 or 102 — regardless of who issued the document, may be authorized.
+- **(2.1)** The Chief Electoral Officer may authorize types of identification for the purposes of paragraph (2)(b). For greater certainty, any document may be authorized, regardless of who issued it.
 
 **Person registered as an Indian**
 
 - **(2.2)** For the purposes of paragraph (2)(b), a document issued by the Government of Canada that certifies that a person is registered as an Indian under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) constitutes an authorized piece of identification.
 
-**Alternative proof of residence**
+**Solemn declaration**
 
-- **(3)** An elector who proves his or her identity by providing two pieces of identification of a type authorized under subsection (2.1) that establish the elector’s name may instead prove his or her residence by taking an oath in writing in the prescribed form — the form including the statement that he or she has received the oral advice set out in subsection 143.1(1) — if he or she is accompanied by another elector whose name appears on the list of electors for the same polling division who
-	- **(a)** proves their own identity and residence to the deputy returning officer and poll clerk by providing the piece or pieces of identification referred to in paragraph (2)(a) or (b), respectively; and
-	- **(b)** attests to the elector’s residence on oath in writing in the prescribed form, the form including the statements that
-		- **(i)** they have received the oral advice set out in subsection 143.1(2),
-		- **(ii)** they know the elector personally,
-		- **(iii)** they know that the elector resides in the polling division,
-		- **(iv)** they have not attested to the residence of another elector at the election, and
-		- **(v)** their own residence has not been attested to by another elector at the election.
+- **(3)** An elector may instead prove his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing if he or she is accompanied by another elector whose name appears on the list of electors for the same polling station and who
+	- **(a)** provides the election officer referred to in subsection (1) with the piece or pieces of identification referred to in paragraph (2)(a) or (b), respectively; and
+	- **(b)** vouches for the elector by making the solemn declaration referred to in subsection 549.1(2) in writing.
+
+**Vouching for electors in long-term care institution**
+
+- **(3.01)** If an elector who resides in an institution for seniors or persons with a disability wishes to prove his or her identity and residence under subsection (3), the other elector referred to in that subsection who accompanies him or her may be an employee of the institution who resides — despite that subsection — in any polling division in the elector’s electoral district or an adjacent electoral district.
+
+**Definition of employee**
+
+- **(3.02)** In subsection (3.01), ***employee*** includes an owner of the institution and any person who occupies a management position at the institution.
 
 **Proof of residence**
 
 - **(3.1)** If the address contained in the piece or pieces of identification provided under subsection (2) or paragraph (3)(a) does not prove the elector’s residence but is consistent with information related to the elector that appears on the list of electors, the elector’s residence is deemed to have been proven.
 
-**Request to take an oath**
+**Request to make solemn declaration**
 
-- **(3.2)** Despite subsection (3.1), a deputy returning officer, poll clerk, candidate or candidate’s representative who has reasonable doubts concerning the residence of an elector referred to in that subsection may request that the elector take the prescribed oath, in which case his or her residence is deemed to have been proven only if he or she takes that oath.
+- **(3.2)** Despite subsection (3.1), if the election officer referred to in subsection (1), a candidate or a candidate’s representative has reasonable doubts concerning the residence of an elector referred to in subsection (3.1), the officer, candidate or representative may request that the elector make the solemn declaration referred to in subsection 549.1(1) in writing, in which case the elector’s residence is deemed to have been proven only if he or she makes that solemn declaration.
 
 **Examination of identification documents**
 
@@ -3201,35 +3250,31 @@ If the candidate, registered association and registered party do not, as a group
 
 **Voting**
 
-- **(4)** If the deputy returning officer is satisfied that an elector’s identity and residence have been proven in accordance with subsection (2) or (3), the elector’s name shall be crossed off the list and, subject to section 144, the elector shall be immediately allowed to vote.
+- **(4)** If the election officer is satisfied that an elector’s identity and residence have been proven in accordance with subsection (2), (3), (3.1) or (3.2), the elector’s name shall be crossed off the list and, subject to section 144, the elector shall be immediately allowed to vote.
 
-**Prohibition — attesting to residence of more than one elector**
+- **(5)** [Repealed, 2018, c. 31, s. 93]
 
-- **(5)** No elector shall attest to the residence of more than one elector at an election.
-
-**Prohibition — attesting to residence (own residence attested to)**
-
-- **(6)** No elector whose own residence has been attested to at an election shall attest to another elector’s residence at that election.
+- **(6)** [Repealed, 2018, c. 31, s. 93]
 
 **Publication**
 
 - **(7)** The Chief Electoral Officer shall publish each year, and within three days after the issue of a writ, in a manner that he or she considers appropriate, a notice setting out the types of identification that are authorized for the purpose of paragraph (2)(b). The first annual notice shall be published no later than six months after the coming into force of this subsection.
-> 2000, c. 9, s. 143; 2007, c. 21, s. 21, c. 37, s. 1; 2014, c. 12, s. 46; 2018, c. 31, s. 93(E).
+> 2000, c. 9, s. 143; 2007, c. 21, s. 21, c. 37, s. 1; 2014, c. 12, s. 46; 2018, c. 31, s. 93.
 
 
 
 
 
-**Requirement before administering oath — elector**
+**Requirement before making solemn declaration — elector**
 
 **143.1** 
 
-- **(1)** If a person decides to prove his or her residence by taking an oath in writing in the prescribed form, the person who administers the oath shall, before doing so, orally advise the oath-taker of the qualifications for electors and the penalty that may be imposed under this Act on a person who is found guilty of voting or attempting to vote at an election knowing that he or she is not qualified as an elector or who contravenes subsection 549(3).
+- **(1)** If a person decides to prove his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing, an election officer shall, before the person makes the solemn declaration, advise him or her in writing of the qualifications for electors and the penalty that may be imposed under this Act on a person who is found guilty of voting or attempting to vote at an election knowing that he or she is not qualified as an elector or who contravenes subsection 549(3).
 
-**Requirement before administering oath — attesting to residence**
+**Requirement before making solemn declaration — vouching for elector**
 
-- **(2)** If a person decides to attest to an elector’s residence by taking an oath in writing in the prescribed form, the person who administers the oath shall, before doing so, orally advise the oath-taker of the penalty that may be imposed under this Act on a person who contravenes subsection 143(5) or (6) or 549(3).
-> 2007, c. 21, s. 21; 2014, c. 12, s. 47.
+- **(2)** If a person decides to vouch for an elector by making the solemn declaration referred to in subsection 549.1(2) in writing, an election officer shall, before the person makes the solemn declaration, advise him or her in writing of the penalty that may be imposed under this Act on a person who contravenes any of subsections 282.1(1) to (3) or 549(3).
+> 2007, c. 21, s. 21; 2014, c. 12, s. 47; 2018, c. 31, s. 94.
 
 
 
@@ -3237,8 +3282,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Proof of qualification as elector**
 
-**144** A deputy returning officer, poll clerk, candidate or candidate’s representative who has reasonable doubts concerning whether a person intending to vote is qualified as an elector may request that the person take the prescribed oath, and the person shall not be allowed to vote unless he or she takes that oath.
-> 2000, c. 9, s. 144; 2007, c. 21, s. 21.
+**144** If the election officer referred to in subsection 143(1), a candidate or a candidate’s representative has reasonable doubts concerning whether a person intending to vote is qualified as an elector, the officer, candidate or representative may request that the person make the solemn declaration referred to in subsection 549.1(1) in writing, in which case the person shall not be allowed to vote unless he or she makes that solemn declaration.
+> 2000, c. 9, s. 144; 2007, c. 21, s. 21; 2018, c. 31, s. 94.
 
 
 
@@ -3259,8 +3304,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Name and address corresponding closely to another**
 
-**146** If a name and address in the list of electors correspond so closely with the name and address of a person who demands a ballot as to suggest that it is intended to refer to that person, the person shall not be allowed to vote unless he or she takes the prescribed oath.
-> 2000, c. 9, s. 146; 2007, c. 21, s. 22.
+**146** If the name and address of a person who asks for a ballot do not appear in the list of electors but a different name and address in that list correspond so closely as to suggest that they are intended to refer to that person, the person shall not be allowed to vote unless he or she makes a solemn declaration in the prescribed form.
+> 2000, c. 9, s. 146; 2007, c. 21, s. 22; 2018, c. 31, s. 95.
 
 
 
@@ -3268,8 +3313,14 @@ If the candidate, registered association and registered party do not, as a group
 
 **Person in whose name another has voted**
 
-**147** If a person asks for a ballot at a polling station after someone else has voted under that person’s name, the person shall not be allowed to vote unless he or she takes an oath in writing in the prescribed form. The form is to state the penalty that may be imposed under this Act on a person who is found guilty of requesting a second ballot at an election contrary to section 7 or of applying for a ballot in a name that is not his or her own contrary to paragraph 167(1)(a).
-> 2000, c. 9, s. 147; 2007, c. 21, s. 22; 2014, c. 12, s. 48.
+**147** 
+
+- **(1)** If a person asks for a ballot at a polling station after someone else has voted under that person’s name, the person shall not be allowed to vote unless he or she makes the solemn declaration referred to in subsection 549.1(1) in writing.
+
+**Requirement before making solemn declaration**
+
+- **(2)** An election officer shall, before the person makes the solemn declaration, advise the person in writing of the penalty that may be imposed under this Act on a person who is found guilty of voting or attempting to vote more than once contrary to section 281.5 or of requesting or applying for a ballot or special ballot in a name that is not his or her own contrary to paragraph 281.7(1)(a).
+> 2000, c. 9, s. 147; 2007, c. 21, s. 22; 2014, c. 12, s. 48; 2018, c. 31, s. 95.
 
 
 
@@ -3277,8 +3328,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Name crossed off list in error**
 
-**148** If an elector claims that his or her name has been crossed off in error from an official list of electors under subsection 176(2) or (3), the elector shall not be allowed to vote unless the returning officer verifies that the elector’s name was crossed off in error or the elector takes the oath referred to in section 147 in writing.
-> 2000, c. 9, s. 148; 2007, c. 21, s. 22; 2014, c. 12, s. 48.
+**148** If an elector claims that his or her name has been crossed off in error from an official list of electors under subsection 176(2) or (3), the elector shall not be allowed to vote unless the returning officer verifies that the elector’s name was crossed off in error or the elector makes the solemn declaration referred to in subsection 549.1(1) in writing.
+> 2000, c. 9, s. 148; 2007, c. 21, s. 22; 2014, c. 12, s. 48; 2018, c. 31, s. 95.
 
 
 
@@ -3288,12 +3339,12 @@ If the candidate, registered association and registered party do not, as a group
 
 **148.1** 
 
-- **(1)** An elector who fails to prove his or her identity and residence in accordance with section 143 or to take an oath otherwise required by this Act shall not receive a ballot or be allowed to vote.
+- **(1)** An elector who fails to prove his or her identity and residence in accordance with section 143 or to make a solemn declaration otherwise required by this Act shall not receive a ballot or be allowed to vote.
 
-**When elector refuses to take improper oath**
+**When elector refuses to make solemn declaration**
 
-- **(2)** If an elector refuses to take an oath because he or she is not required to do so under this Act, the elector may appeal to the returning officer. If, after consultation with the deputy returning officer or the poll clerk of the polling station, the returning officer decides that the elector is not required to take the oath, and if the elector is entitled to vote in the polling division, the returning officer shall direct that he or she be allowed to do so.
-> 2007, c. 21, s. 22; 2014, c. 12, s. 49.
+- **(2)** If an elector refuses to make a solemn declaration on the ground that he or she is not required to do so under this Act, the elector may appeal to the returning officer. If, after consultation with the election officer in whose opinion the elector is required to make the solemn declaration, the returning officer decides that the elector is not required to make it, and if the elector is entitled to vote in the polling division, the returning officer shall direct that he or she be allowed to do so.
+> 2007, c. 21, s. 22; 2014, c. 12, s. 49; 2018, c. 31, s. 95.
 
 
 
@@ -3302,10 +3353,10 @@ If the candidate, registered association and registered party do not, as a group
 **Elector not allowed to vote**
 
 **149** An elector whose name does not appear on the official list of electors in his or her polling station shall not be allowed to vote unless
-- **(a)** the elector gives the deputy returning officer a transfer certificate described in section 158 or 159 and, for a certificate described in subsection 158(2), fulfils the conditions described in subsection 158(3);
-- **(b)** the deputy returning officer ascertains with the returning officer that the elector is listed on the preliminary list of electors or was registered during the revision period; or
-- **(c)** the elector gives the deputy returning officer a registration certificate described in subsection 161(4).
-> 2000, c. 9, s. 149; 2007, c. 21, s. 23.
+- **(a)** the elector gives the election officer referred to in subsection 143(1) a transfer certificate described in section 158 or 159 and, for a certificate described in subsection 158(2), fulfils the conditions described in subsection 158(3); or
+- **(b)** the elector gives the election officer a registration certificate described in subsection 161(4).
+- **(c)** [Repealed, 2018, c. 31, s. 96]
+> 2000, c. 9, s. 149; 2007, c. 21, s. 23; 2018, c. 31, s. 96.
 
 
 
@@ -3319,11 +3370,13 @@ If the candidate, registered association and registered party do not, as a group
 
 **150** 
 
-- **(1)** Every elector who is admitted to vote shall be given a ballot by the deputy returning officer.
+- **(1)** Every elector who is admitted to vote shall be given a ballot by the election officer referred to in subsection 143(1), after that election officer has placed on the back of the ballot, in the space indicated in Form 3 of Schedule 1, the number of the elector’s polling division.
 
 **Instructions to elector on receiving ballot**
 
-- **(2)** The deputy returning officer shall explain to each elector how to indicate his or her choice and fold the ballot so that its serial number and the initials of the deputy returning officer are visible and shall direct the elector to return the marked and folded ballot.
+- **(2)** The election officer shall explain to each elector how to indicate his or her choice and fold the ballot so that its serial number and the initials of the election officer who initialed the ballot are visible and shall direct the elector to return the marked and folded ballot.
+> 2000, c. 9, s. 150; 2018, c. 31, s. 97.
+
 
 
 
@@ -3335,15 +3388,17 @@ If the candidate, registered association and registered party do not, as a group
 - **(1)** An elector shall, after receiving a ballot,
 	- **(a)** proceed directly to the voting compartment;
 	- **(b)** mark the ballot with a cross or other mark in the circular space opposite the name of the candidate of his or her choice;
-	- **(c)** fold the ballot as instructed by the deputy returning officer; and
-	- **(d)** return the ballot to the deputy returning officer.
+	- **(c)** fold the ballot as instructed by the election officer; and
+	- **(d)** return the ballot to the election officer who provided it.
 
 **Return of ballot**
 
-- **(2)** The deputy returning officer shall, on receiving the ballot from the elector,
+- **(2)** The election officer shall, on receiving the ballot from the elector,
 	- **(a)** without unfolding the ballot, verify that it is the same one that was handed to the elector by examining its serial number and the initials on it;
 	- **(b)** remove and destroy the counterfoil in full view of the elector and all other persons present; and
 	- **(c)** return the ballot to the elector to deposit in the ballot box or, at the elector’s request, deposit it in the ballot box.
+> 2000, c. 9, s. 151; 2018, c. 31, s. 98.
+
 
 
 
@@ -3352,11 +3407,13 @@ If the candidate, registered association and registered party do not, as a group
 
 **152** 
 
-- **(1)** If an elector has inadvertently handled a ballot in such a manner that it cannot be used, the elector shall return it to the deputy returning officer who shall mark it as a spoiled ballot, place it in the envelope supplied for the purpose and give the elector another ballot.
+- **(1)** If the ballot is incapable of being used, the elector shall return it to the election officer referred to in subsection 143(1), who shall mark it as a spoiled ballot, place it in the envelope supplied for the purpose and give the elector another ballot.
 
 **Limit**
 
 - **(2)** An elector shall not be given more than one ballot under subsection (1).
+> 2000, c. 9, s. 152; 2018, c. 31, s. 99.
+
 
 
 
@@ -3378,15 +3435,17 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Assistance by deputy returning officer**
+**Assistance by election officer**
 
 **154** 
 
-- **(1)** The deputy returning officer, on request by an elector who is unable to vote in the manner prescribed by this Act because he or she cannot read or has a physical disability, shall assist the elector in the presence of the poll clerk.
+- **(1)** On request by an elector who is unable to read or because of a disability is unable to vote in the manner described by this Act, an election officer who is assigned to the polling station shall assist the elector in the presence of another election officer who is assigned to the polling station.
 
 **Template**
 
-- **(2)** The deputy returning officer shall, on request, provide a template to an elector who has a visual impairment to assist him or her in marking his or her ballot.
+- **(2)** An election officer who is assigned to the polling station shall, on request, provide a template to an elector who has a visual impairment to assist him or her in marking his or her ballot.
+> 2000, c. 9, s. 154; 2018, c. 31, s. 100.
+
 
 
 
@@ -3400,22 +3459,18 @@ If the candidate, registered association and registered party do not, as a group
 	- **(b)** the elector’s spouse or common-law partner; or
 	- **(c)** a relative of the elector or of the elector’s spouse or common-law partner.
 
-**Exception**
+- **(2)** [Repealed, 2018, c. 31, s. 101]
 
-- **(2)** No person shall as a friend assist more than one elector for the purpose of marking a ballot.
+**Solemn declaration**
 
-**Oath**
-
-- **(3)** A person described in subsection (1) who wishes to assist an elector in marking a ballot shall first take an oath, in the prescribed form, that he or she
+- **(3)** A person described in subsection (1) who wishes to assist an elector in marking a ballot shall first make a solemn declaration, in the prescribed form, that he or she
 	- **(a)** will mark the ballot paper in the manner directed by the elector;
 	- **(b)** will not disclose the name of the candidate for whom the elector voted;
 	- **(c)** will not try to influence the elector in choosing a candidate; and
 	- **(d)** has not, during the current election, assisted another person, as a friend, to mark a ballot.
 
-**Prohibition — failure to maintain secrecy**
-
-- **(4)** No person who assists an elector under this section shall, directly or indirectly, disclose the candidate for whom the elector voted.
-> 2000, c. 9, s. 155, c. 12, s. 40; 2018, c. 31, s. 101(E).
+- **(4)** [Repealed, 2018, c. 31, s. 101]
+> 2000, c. 9, s. 155, c. 12, s. 40; 2018, c. 31, s. 101.
 
 
 
@@ -3423,7 +3478,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **Use of interpreter**
 
-**156** A deputy returning officer may appoint and swear a language or sign language interpreter to assist the officer in communicating to an elector any information that is necessary to enable him or her to vote.
+**156** An election officer who is assigned to a polling station may appoint a language or sign language interpreter to assist election officers at the polling station in communicating to an elector any information that is necessary to enable him or her to vote.
+> 2000, c. 9, s. 156; 2018, c. 31, s. 102.
+
 
 
 
@@ -3432,13 +3489,15 @@ If the candidate, registered association and registered party do not, as a group
 
 **157** 
 
-- **(1)** At a polling station that has been established in a home for the aged or in a chronic care facility, when the deputy returning officer considers it necessary, the deputy returning officer and the poll clerk shall
+- **(1)** At a polling station that has been established in an institution for seniors or persons with a disability, when an election officer who is assigned to the polling station considers it necessary, the election officer shall
 	- **(a)** suspend temporarily the voting in the polling station; and
 	- **(b)** with the approval of the person in charge of the institution, carry the ballot box, ballots and other necessary election documents from room to room in the institution to take the votes of electors who are confined to bed and ordinarily resident in the polling division in which the institution is situated.
 
 **Procedure for taking the votes**
 
-- **(2)** When the vote of an elector who is confined to bed is taken, the deputy returning officer shall give the elector the assistance necessary to enable the elector to vote, and not more than one representative of each candidate may be present.
+- **(2)** When the vote of an elector who is confined to bed is taken, an election officer assigned to the polling station shall give the elector the assistance necessary to enable the elector to vote, and not more than one representative of each candidate may be present.
+> 2000, c. 9, s. 157; 2018, c. 31, s. 103.
+
 
 
 
@@ -3455,37 +3514,35 @@ If the candidate, registered association and registered party do not, as a group
 
 **Transfer certificate for election officer**
 
-- **(2)** A returning officer or an assistant returning officer shall issue a transfer certificate to any person whose name appears on the official list of electors for a polling station and who has been appointed, after the last day of advance polls, to act as an election officer for another polling station.
+- **(2)** An election officer who is assigned to a polling station shall issue a transfer certificate to any person — other than himself or herself — whose name appears on the official list of electors for the polling station and who has been appointed to act as an election officer for another polling station in the same electoral district.
 
 **Condition**
 
-- **(3)** A transfer certificate issued under subsection (2) authorizes the person to vote at the polling station named in it only if, on polling day, the person performs the duty specified in the certificate at the place mentioned in the certificate.
+- **(3)** A transfer certificate issued under subsection (2) authorizes the person to vote at the polling station named in it only if, on polling day, the person exercises the power or performs the duty specified in the certificate at the place mentioned in the certificate.
 
 **Transfer certificate for elector whose polling station has moved**
 
 - **(4)** If an elector’s polling station moves to another location after the notice of confirmation of registration has been sent, an elector who attends at the polling station set out in the notice is entitled on request to receive a transfer certificate to vote at that polling station.
-> 2000, c. 9, s. 158; 2007, c. 21, s. 24.
+> 2000, c. 9, s. 158; 2007, c. 21, s. 24; 2018, c. 31, s. 104.
 
 
 
 
 
-**Transfer certificate for elector with a disability**
+**Transfer certificate for elector with disability**
 
 **159** 
 
-- **(1)** An elector who is in a wheelchair or who has a physical disability, and who is unable to vote without difficulty in his or her polling division because it does not have a polling station with level access, may apply for a transfer certificate to vote at another polling station with level access in the same electoral district.
+- **(1)** An elector who has a disability and is therefore unable to vote without difficulty in his or her polling station may apply for a transfer certificate to vote at another polling station in the same electoral district.
 
-**Application requirements**
+**Application**
 
-- **(2)** The application shall be in the prescribed form and shall be personally delivered to the returning officer or assistant returning officer for the elector’s electoral district by the elector, his or her friend, spouse, common-law partner or relative, or a relative of his or her spouse or common-law partner.
+- **(2)** The application shall be made in accordance with the Chief Electoral Officer’s instructions.
 
-**Issue of transfer certificate to disabled elector**
+**Issue of transfer certificate to elector with disability**
 
-- **(3)** The returning officer or assistant returning officer shall issue a transfer certificate in the prescribed form, and hand the certificate to the person who delivered the application to the officer, if the officer is satisfied that
-	- **(a)** the elector’s name appears on a list of electors for the electoral district; and
-	- **(b)** the polling station established for the polling division in which the elector resides does not have level access.
-> 2000, c. 9, s. 159, c. 12, s. 40; 2007, c. 21, s. 25.
+- **(3)** An election officer shall issue a transfer certificate in the prescribed form, and provide the certificate to the person who submitted the application to the officer, if the officer is satisfied that the elector’s name appears on a list of electors for the electoral district.
+> 2000, c. 9, s. 159, c. 12, s. 40; 2007, c. 21, s. 25; 2018, c. 31, s. 105.
 
 
 
@@ -3493,12 +3550,14 @@ If the candidate, registered association and registered party do not, as a group
 
 **Signing, numbering and recording transfer certificate**
 
-**160** The returning officer or assistant returning officer by whom a transfer certificate is issued shall
+**160** The election officer who issues a transfer certificate shall
 - **(a)** fill in and sign the certificate and mention on it the date of its issue;
 - **(b)** consecutively number the certificate in the order of its issue;
 - **(c)** keep a record of the certificate in the order of its issue on the prescribed form;
 - **(d)** not issue the certificate in blank; and
-- **(e)** if possible, send a copy of the certificate to the deputy returning officer for the polling station on whose list of electors the name of the person to whom the certificate has been issued appears.
+- **(e)** if possible, send a copy of the certificate to an election officer who is assigned to the polling station on whose list of electors appears the name of the person to whom the certificate has been issued.
+> 2000, c. 9, s. 160; 2018, c. 31, s. 106.
+
 
 
 
@@ -3511,26 +3570,23 @@ If the candidate, registered association and registered party do not, as a group
 
 **161** 
 
-- **(1)** An elector whose name is not on the list of electors may register in person on polling day if the elector
+- **(1)** An elector whose name is not on the list of electors may register in person on polling day before an election officer if the elector
 	- **(a)** provides as proof of his or her identity and residence the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing an address that proves his or her residence; or
-	- **(b)** proves his or her identity by providing two pieces of identification of a type authorized under subsection 143(2.1) that establish the elector’s name, proves his or her residence by taking an oath in writing in the prescribed form — the form including the statement that he or she has received the oral advice set out in subsection 161.1(1) — and is accompanied by another elector whose name appears on the list of electors for the same polling division who
-		- **(i)** proves their own identity and residence by providing the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing either an address that proves that other elector’s residence or an address that is consistent with information related to that other elector that appears on the list of electors, and
-		- **(ii)** attests to the elector’s residence on oath in writing in the prescribed form, the form including the statements that
-			- **(A)** they have received the oral advice set out in subsection 161.1(2),
-			- **(B)** they know the elector personally,
-			- **(C)** they know that the elector resides in the polling division,
-			- **(D)** they have not attested to the residence of another elector at the election, and
-			- **(E)** their own residence has not been attested to by another elector at the election.
+	- **(b)** proves his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing and is accompanied by another elector whose name appears on the list of electors for the same polling station and who
+		- **(i)** provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing either an address that proves that other elector’s residence or an address that is consistent with information related to that other elector that appears on the list of electors, and
+		- **(ii)** vouches for the elector by making the solemn declaration referred to in subsection 549.1(2) in writing.
 
-**Place of registration**
+**Vouching for electors in long-term care institution**
 
-- **(2)** Where subsection (1) applies, the registration may take place before
-	- **(a)** a registration officer at a registration desk established under subsection 39(1); or
-	- **(b)** a deputy returning officer at a polling station with respect to which the Chief Electoral Officer determines that the officer be authorized to receive registrations.
+- **(2)** If an elector who resides in an institution for seniors or persons with a disability wishes to prove his or her identity and residence under subsection (1), the other elector referred to in paragraph (1)(b) who accompanies him or her may be an employee of the institution who resides — despite that paragraph — in any polling division in the elector’s electoral district or an adjacent electoral district.
+
+**Definition of employee**
+
+- **(2.1)** In subsection (2), ***employee*** includes an owner of the institution and any person who occupies a management position at the institution.
 
 **Representative of each candidate**
 
-- **(3)** In the case of a registration under paragraph (2)(a), the registration officer shall permit one representative of each candidate in the electoral district to be present.
+- **(3)** The election officer shall permit each candidate, or one representative of each candidate, in the electoral district to be present when an elector is being registered.
 
 **Examination of identification documents**
 
@@ -3538,7 +3594,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **Registration certificate**
 
-- **(4)** If the elector satisfies the requirements of subsection (1), the registration officer or deputy returning officer, as the case may be, shall complete a registration certificate in the prescribed form authorizing the elector to vote and the elector shall sign it. The registration certificate shall include a statement by the elector that he or she is qualified as an elector under section 3.
+- **(4)** If the elector satisfies the requirements of subsection (1), the election officer shall complete a registration certificate in the prescribed form authorizing the elector to vote and the elector shall sign it. The registration certificate shall include a solemn declaration made by the elector that he or she is qualified as an elector under section 3.
 
 **List deemed to be modified**
 
@@ -3552,54 +3608,50 @@ If the candidate, registered association and registered party do not, as a group
 	- **(c)** apply to be registered on polling day to vote in an electoral district knowing that they are not qualified as an elector or entitled to vote in the electoral district; or
 	- **(d)** compel, induce or attempt to compel or induce any other person to make a false or misleading statement relating to that other person’s qualification as an elector for the purposes of the registration of that other person on polling day.
 
-**Prohibition — attesting to residence of more than one elector**
+- **(6)** [Repealed, 2018, c. 31, s. 107]
 
-- **(6)** No elector shall attest to the residence of more than one elector at an election.
-
-**Prohibition — attesting to residence (own residence attested to)**
-
-- **(7)** No elector whose own residence has been attested to at an election shall attest to another elector’s residence at that election.
-> 2000, c. 9, s. 161; 2007, c. 21, s. 26, c. 37, s. 2; 2014, c. 12, s. 50.
+- **(7)** [Repealed, 2018, c. 31, s. 107]
+> 2000, c. 9, s. 161; 2007, c. 21, s. 26, c. 37, s. 2; 2014, c. 12, s. 50; 2018, c. 31, s. 107.
 
 
 
 
 
-**Requirement before administering oath — elector**
+**Requirement before making solemn declaration — elector**
 
 **161.1** 
 
-- **(1)** If a person decides to prove his or her residence by taking an oath in writing in the prescribed form, the person who administers the oath shall, before doing so, orally advise the oath-taker of the qualifications for electors and the penalty that may be imposed under this Act on a person who contravenes subsection 161(5.1) or 549(3).
+- **(1)** If a person decides to prove his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing, an election officer shall, before the person makes the solemn declaration, advise him or her in writing of the qualifications for electors and the penalty that may be imposed under this Act on a person who contravenes subsection 161(5.1) or 549(3).
 
-**Requirement before administering oath — attesting to residence**
+**Requirement before making solemn declaration — vouching for elector**
 
-- **(2)** If a person decides to attest to an elector’s residence by taking an oath in writing in the prescribed form, the person who administers the oath shall, before doing so, orally advise the oath-taker of the penalty that may be imposed under this Act on a person who contravenes subsection 161(6) or (7) or 549(3).
-> 2007, c. 21, s. 27; 2014, c. 12, s. 51.
-
-
+- **(2)** If a person decides to vouch for an elector by making the solemn declaration referred to in subsection 549.1(2) in writing, an election officer shall, before the person makes the solemn declaration, advise him or her in writing of the penalty that may be imposed under this Act on a person who contravenes any of subsections 282.1(1) to (3) or 549(3).
+> 2007, c. 21, s. 27; 2014, c. 12, s. 51; 2018, c. 31, s. 108.
 
 
 
-#### Duties of Poll Clerk
+
+
+#### Duties of Election Officers Assigned to Polling Station
 
 
 
-**Duties of poll clerk**
+**Duties**
 
-**162** Each poll clerk shall
-- **(a)** make, on the prescribed form, the entries that the deputy returning officer directs under this Act;
+**162** An election officer assigned to a polling station — and not necessarily the same election officer for all of the following — shall
+- **(a)** make, on the prescribed form, the entries required under this Act;
 - **(b)** as soon as the elector’s ballot has been deposited in the ballot box, indicate, beside the name of the elector on the list of electors, that the elector has voted;
 - **(c)** indicate, if applicable, on the prescribed form that the elector has voted under a transfer certificate issued under section 158 or 159 and give the number of the certificate;
-- **(d)** indicate, if applicable, on the prescribed form that the elector has voted, under paragraph 149(b), without his or her name being on the official list of electors;
+- **(d)** [Repealed, 2018, c. 31, s. 110]
 - **(e)** indicate, if applicable, on the prescribed form that the elector has voted under section 146;
-- **(f)** indicate, if applicable, on the prescribed form that the elector has taken an oath and the type of oath;
-- **(g)** indicate, if applicable, on the prescribed form that the elector refused to comply with a legal requirement to provide the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, or to take an oath;
+- **(f)** indicate, if applicable, on the prescribed form that the elector has made a solemn declaration and the type of solemn declaration;
+- **(g)** indicate, if applicable, on the prescribed form that the elector refused to comply with a legal requirement to provide the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, or to make a solemn declaration;
 - **(h)** indicate, if applicable, on the prescribed form that the elector has been allowed to vote under subsection 148.1(2);
-- **(i)** indicate, if applicable, on the prescribed form that an elector has voted in the circumstances described in section 147, that the prescribed oath has been taken or that any other oath that was required to be taken was taken, note any objection that was made on behalf of any of the candidates and indicate the candidate’s name;
+- **(i)** indicate, if applicable, on the prescribed form that an elector has voted in the circumstances described in section 147, that the solemn declaration referred to in subsection 549.1(1) has been made or that any other solemn declaration that was required to be made was made, note any objection that was made on behalf of any of the candidates and indicate the candidate’s name;
 - **(i.1)** prepare, at intervals of no less than 30 minutes, using the prescribed form and as directed by the Chief Electoral Officer, a document permitting the identification of every elector who during that interval has exercised his or her right to vote on polling day — excluding electors who registered on that day — and, on request, provide it to a candidate’s representative;
 - **(i.2)** prepare, each day after the close of the advance polling station, using the prescribed form and as directed by the Chief Electoral Officer, a document permitting the identification of every elector who has exercised his or her right to vote on that day — excluding electors who registered on that day — and, on request, provide it to a candidate’s representative; and
 - **(j)** indicate, if applicable, on the prescribed form, that an elector has voted under a registration certificate issued under subsection 161(4).
-> 2000, c. 9, s. 162; 2007, c. 21, s. 28; 2014, c. 12, s. 52.
+> 2000, c. 9, s. 162; 2007, c. 21, s. 28; 2014, c. 12, s. 52; 2018, c. 31, s. 110.
 
 
 
@@ -3616,22 +3668,17 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Secrecy during and after poll**
+**Procedure in case of contravention of secrecy**
 
 **164** 
 
-- **(1)** Every candidate, election officer or representative of a candidate present at a polling station or at the counting of the votes shall maintain the secrecy of the vote.
+- **(1)** It is the duty of the election officers who are present at the polling station to draw the attention of any elector to an offence that the elector commits in contravening any of paragraphs 281.6(3)(a) to (c) and to the punishment to which the elector is liable, but the elector shall be allowed to vote in the usual way if he or she has not already done so.
 
-**Secrecy at the poll**
+**Clarification**
 
-- **(2)** Except as provided by this Act, no elector shall
-	- **(a)** on entering the polling station and before receiving a ballot, openly declare for whom the elector intends to vote;
-	- **(b)** show his or her ballot, when marked, so as to allow the name of the candidate for whom the elector has voted to be known; or
-	- **(c)** before leaving the polling station, openly declare for whom the elector has voted.
+- **(2)** For greater certainty, if one election officer performs his or her duty under subsection (1) with regard to an elector, no other election officer need do so with regard to that elector.
+> 2000, c. 9, s. 164; 2018, c. 31, s. 111.
 
-**Procedure in case of contravention of secrecy**
-
-- **(3)** It is the duty of each deputy returning officer to draw the attention of any elector to an offence that the elector commits in contravening subsection (2) and to the punishment to which the elector is liable, but the elector shall be allowed to vote in the usual way if he or she has not already done so.
 
 
 
@@ -3642,8 +3689,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Engagement of auditor**
 
-**164.1** For each general election and by-election, the Chief Electoral Officer shall engage an auditor that he or she considers to have technical or specialized knowledge — other than a member of his or her staff or an election officer — to perform an audit and report on whether deputy returning officers, poll clerks and registration officers have, on all days of advance polling and on polling day, properly exercised the powers conferred on them, and properly performed the duties and functions imposed on them, under sections 143 to 149, 161 to 162 and 169.
-> 2014, c. 12, s. 53.
+**164.1** For each general election and by-election, the Chief Electoral Officer shall engage an auditor that he or she considers to have technical or specialized knowledge — other than a member of his or her staff or an election officer — to perform an audit and report on whether election officers have properly exercised any of the powers conferred on them under this Act, or properly performed any of the duties imposed on them under this Act, that are specified by the Chief Electoral Officer.
+> 2014, c. 12, s. 53; 2018, c. 31, s. 112.
 
 
 
@@ -3667,42 +3714,19 @@ If the candidate, registered association and registered party do not, as a group
 **166** 
 
 - **(1)** No person shall
-	- **(a)** post or display in, or on the exterior surface of, a polling place any campaign literature or other material that could be taken as an indication of support for or opposition to a political party that is listed on the ballot under the name of a candidate or the election of a candidate;
-	- **(b)** while in a polling station, wear any emblem, flag, banner or other thing that indicates that the person supports or opposes any candidate or political party that is listed on the ballot under the name of a candidate, or the political or other opinions entertained, or supposed to be entertained, by the candidate or party; and
-	- **(c)** in a polling station or in any place where voting at an election is taking place, influence electors to vote or refrain from voting or vote or refrain from voting for a particular candidate.
+	- **(a)** post or display in, or on the exterior surface of, a polling place any campaign literature or other material that could be taken as an indication of support for or opposition to a political party that is listed on the ballot under the name of a candidate or the election of a candidate; and
+	- **(b)** while in a polling station, wear any emblem, flag, banner or other thing that indicates that the person supports or opposes any candidate or political party that is listed on the ballot under the name of a candidate, or the political or other opinions entertained, or supposed to be entertained, by the candidate or party.
+	- **(c)** [Repealed, 2018, c. 31, s. 113]
 
 **Exception**
 
 - **(2)** Despite paragraph (1)(b), a representative of a candidate in a polling station may, in the manner authorized by the Chief Electoral Officer, wear a badge identifying his or her function and the name of the political party that is listed on the ballot under the name of the candidate.
-> 2000, c. 9, s. 166; 2001, c. 21, s. 14.
+> 2000, c. 9, s. 166; 2001, c. 21, s. 14; 2018, c. 31, s. 113.
 
 
 
 
-
-**Prohibitions re ballots, etc.**
-
-**167** 
-
-- **(1)** No person shall
-	- **(a)** apply for a ballot in a name that is not his or her own;
-	- **(b)** use a forged ballot;
-	- **(c)** knowing that he or she is without authority under this Act to do so, provide a ballot to any person; or
-	- **(d)** knowing that he or she is without authority under this Act to do so, have a ballot in his or her possession.
-
-**Other prohibitions**
-
-- **(2)** No person shall wilfully
-	- **(a)** alter, deface or destroy a ballot or the initials of the deputy returning officer signed on a ballot;
-	- **(b)** put or cause to be put into a ballot box a ballot or other paper otherwise than as provided by this Act;
-	- **(c)** take a ballot out of the polling station; or
-	- **(d)** destroy, take, open or otherwise interfere with a ballot box or book or packet of ballots.
-
-**Prohibitions — deputy returning officers**
-
-- **(3)** No deputy returning officer shall
-	- **(a)** with the intent of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast, put his or her initials on the back of any paper purporting to be or capable of being used as a ballot at an election; or
-	- **(b)** place on any ballot any writing, number or mark, with intent that the elector to whom the ballot is to be, or has been, given may be identified.
+**167** [Repealed, 2018, c. 31, s. 114]
 
 
 
@@ -3755,6 +3779,66 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
+#### Transfer Certificates
+
+
+
+**Transfer certificate for candidate**
+
+**168.1** 
+
+- **(1)** A candidate whose name appears on the revised list of electors for an advance polling station is entitled on request to receive a transfer certificate to vote at another advance polling station in the same electoral district.
+
+**Transfer certificate for election officer**
+
+- **(2)** An election officer who is assigned to an advance polling station shall issue a transfer certificate to any person — other than himself or herself — whose name appears on the revised list of electors for the advance polling station and who has been appointed to act as an election officer for another advance polling station.
+
+**Condition**
+
+- **(3)** A transfer certificate issued under subsection (2) authorizes the person to vote at the advance polling station named in it only if, on one of the days of advance polling, the person performs the duty specified in the certificate at the place mentioned in the certificate.
+
+**Transfer certificate for elector whose advance polling station has moved**
+
+- **(4)** If an elector’s advance polling station moves to another location after the notice of confirmation of registration has been sent, an elector who attends at the advance polling station set out in the notice is entitled on request to receive a transfer certificate to vote at that advance polling station.
+> 2018, c. 31, s. 116.
+
+
+
+
+
+**Transfer certificate for elector with disability**
+
+**168.2** 
+
+- **(1)** An elector who has a disability and is therefore unable to vote without difficulty in his or her advance polling station may apply for a transfer certificate to vote at another advance polling station in the same electoral district.
+
+**Application requirements**
+
+- **(2)** The application shall be made in accordance with the Chief Electoral Officer’s instructions.
+
+**Issue of transfer certificate to elector with disability**
+
+- **(3)** An election officer shall issue a transfer certificate in the prescribed form, and provide the certificate to the person who submitted the application to the officer, if the officer is satisfied that the elector’s name appears on the revised list of electors for the electoral district.
+> 2018, c. 31, s. 116.
+
+
+
+
+
+**Signing, numbering and recording transfer certificate**
+
+**168.3** The election officer who issues a transfer certificate shall
+- **(a)** fill in and sign the certificate and mention on it the date of its issue;
+- **(b)** consecutively number the certificate in the order of its issue;
+- **(c)** keep a record of the certificate in the order of its issue on the prescribed form;
+- **(d)** not issue the certificate in blank; and
+- **(e)** if possible, send a copy of the certificate to an election officer who is assigned to the advance polling station on whose list of electors appears the name of the person to whom the certificate has been issued.
+> 2018, c. 31, s. 116.
+
+
+
+
+
 ### Registration
 
 
@@ -3763,20 +3847,23 @@ If the candidate, registered association and registered party do not, as a group
 
 **169** 
 
-- **(1)** Every elector whose name is not on the revised list of electors may register in person before the deputy returning officer in the advance polling station where the elector is entitled to vote.
+- **(1)** Every elector whose name is not on the revised list of electors may register in person, at the advance polling station where the elector is entitled to vote, before an election officer who is assigned to that advance polling station.
 
 **Conditions**
 
 - **(2)** An elector shall not be registered unless he or she
 	- **(a)** provides as proof of his or her identity and residence the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing an address that proves his or her residence; or
-	- **(b)** proves his or her identity by providing two pieces of identification of a type authorized under subsection 143(2.1) that establish the elector’s name, proves his or her residence by taking an oath in writing in the prescribed form — the form including the statement that he or she has received the oral advice set out in subsection 169.1(1) — and is accompanied by another elector whose name appears on the list of electors for the same polling division who
-		- **(i)** proves their own identity and residence by providing the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing either an address that proves that other elector’s residence or an address that is consistent with information related to that other elector that appears on the list of electors, and
-		- **(ii)** attests to the elector’s residence on oath in writing in the prescribed form, the form including the statements that
-			- **(A)** they have received the oral advice set out in subsection 169.1(2),
-			- **(B)** they know the elector personally,
-			- **(C)** they know that the elector resides in the polling division,
-			- **(D)** they have not attested to the residence of another elector at the election, and
-			- **(E)** their own residence has not been attested to by another elector at the election.
+	- **(b)** proves his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing and is accompanied by another elector whose name appears on the list of electors for the same polling station and who
+		- **(i)** provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing either an address that proves that other elector’s residence or an address that is consistent with information related to that other elector that appears on the list of electors, and
+		- **(ii)** vouches for the elector by making the solemn declaration referred to in subsection 549.1(2) in writing.
+
+**Vouching for electors in long-term care institution**
+
+- **(2.01)** If an elector who resides in an institution for seniors or persons with a disability wishes to prove his or her identity and residence under subsection (2), the other elector referred to in paragraph (2)(b) who accompanies him or her may be an employee of the institution who resides — despite that paragraph — in any polling division in the elector’s electoral district or an adjacent electoral district.
+
+**Definition of employee**
+
+- **(2.02)** In subsection (2.01), ***employee*** includes an owner of the institution and any person who occupies a management position at the institution.
 
 **Examination of identification documents**
 
@@ -3784,11 +3871,11 @@ If the candidate, registered association and registered party do not, as a group
 
 **Registration certificate**
 
-- **(3)** If the elector satisfies the requirements of subsection (2), the deputy returning officer shall complete a registration certificate in the prescribed form authorizing the elector to vote and the elector shall sign it. The registration certificate shall include a statement by the elector that he or she is qualified as an elector under section 3.
+- **(3)** If the elector satisfies the requirements of subsection (2), an election officer who is assigned to the advance polling station shall complete a registration certificate in the prescribed form authorizing the elector to vote and the elector shall sign it. The registration certificate shall include a solemn declaration made by the elector that he or she is qualified as an elector under section 3.
 
 **Entry**
 
-- **(4)** The poll clerk shall indicate on the prescribed form the names of the electors who are permitted to vote under this section.
+- **(4)** An election officer who is assigned to the advance polling station shall indicate on the prescribed form the names of the electors who are permitted to vote under this section.
 
 **Prohibition — registration at advance polling station**
 
@@ -3798,29 +3885,25 @@ If the candidate, registered association and registered party do not, as a group
 	- **(c)** apply to be registered at an advance polling station to vote in an electoral district knowing that they are not qualified as an elector or entitled to vote in the electoral district; or
 	- **(d)** compel, induce or attempt to compel or induce any other person to make a false or misleading statement relating to that other person’s qualification as an elector for the purposes of the registration of that other person at an advance polling station.
 
-**Prohibition — attesting to residence of more than one elector**
+- **(5)** [Repealed, 2018, c. 31, s. 117]
 
-- **(5)** No elector shall attest to the residence of more than one elector at an election.
-
-**Prohibition — attesting to residence (own residence attested to)**
-
-- **(6)** No elector whose residence has been attested to at an election shall attest to another elector’s residence at that election.
-> 2000, c. 9, s. 169; 2007, c. 21, s. 30, c. 37, s. 3; 2014, c. 12, s. 54.
+- **(6)** [Repealed, 2018, c. 31, s. 117]
+> 2000, c. 9, s. 169; 2007, c. 21, s. 30, c. 37, s. 3; 2014, c. 12, s. 54; 2018, c. 31, s. 117.
 
 
 
 
 
-**Requirement before administering oath — elector**
+**Requirement before making solemn declaration — elector**
 
 **169.1** 
 
-- **(1)** If a person decides to prove his or her residence by taking an oath in writing in the prescribed form, the person who administers the oath shall, before doing so, orally advise the oath-taker of the qualifications for electors and the penalty that may be imposed under this Act on a person who contravenes subsection 169(4.1) or 549(3).
+- **(1)** If a person decides to prove his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing, an election officer shall, before the person makes the solemn declaration, advise him or her in writing of the qualifications for electors and the penalty that may be imposed under this Act on a person who contravenes subsection 169(4.1) or 549(3).
 
-**Requirement before administering oath — attesting to residence**
+**Requirement before making solemn declaration — vouching for elector**
 
-- **(2)** If a person decides to attest to an elector’s residence by taking an oath in writing in the prescribed form, the person who administers the oath shall, before doing so, orally advise the oath-taker of the penalty that may be imposed under this Act on a person who contravenes subsection 169(5) or (6) or 549(3).
-> 2007, c. 21, s. 31; 2014, c. 12, s. 55.
+- **(2)** If a person decides to vouch for an elector by making the solemn declaration referred to in subsection 549.1(2) in writing, an election officer shall, before the person makes the solemn declaration, advise him or her in writing of the penalty that may be imposed under this Act on a person who contravenes any of subsections 282.1(1) to (3) or 549(3).
+> 2007, c. 21, s. 31; 2014, c. 12, s. 55; 2018, c. 31, s. 118.
 
 
 
@@ -3845,8 +3928,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **When advance polling stations to be open**
 
-- **(2)** An advance polling station shall only be open between the hours of noon and 8:00 p.m. on Friday, Saturday, Sunday and Monday, the 10th, 9th, 8th and 7th days, respectively, before polling day.
-> 2000, c. 9, s. 171; 2014, c. 12, s. 56.
+- **(2)** An advance polling station shall be open from 9:00 a.m. to 9:00 p.m. on Friday, Saturday, Sunday and Monday, the 10th, 9th, 8th and 7th days, respectively, before polling day, and shall not be open at any other time.
+> 2000, c. 9, s. 171; 2014, c. 12, s. 56; 2018, c. 31, s. 119.
 
 
 
@@ -3854,13 +3937,22 @@ If the candidate, registered association and registered party do not, as a group
 
 **Notice of advance poll**
 
-**172** Each returning officer shall, not later than Saturday, the 16th day before polling day,
-- **(a)** give a notice, in the prescribed form, in the electoral district of the advance poll, that sets out the following information:
-	- **(i)** the numbers of the polling divisions in every advance polling district established by the returning officer,
-	- **(ii)** the location of each advance polling station,
-	- **(iii)** the place where the deputy returning officer of each advance polling station shall count the number of votes cast at the advance polling station, and
-	- **(iv)** that the counting of the votes cast shall take place on polling day as soon after the close of the polling stations as possible; and
-- **(b)** send two copies of the notice to each candidate and to the Chief Electoral Officer.
+**172** 
+
+- **(1)** Each returning officer shall, not later than Saturday, the 16th day before polling day,
+	- **(a)** give a notice, in the prescribed form, in the electoral district of the advance poll, that sets out the following information:
+		- **(i)** the numbers of the polling divisions in every advance polling district established by the returning officer,
+		- **(ii)** the location of each advance polling station,
+		- **(iii)** the place where, for each advance polling station, an election officer who is assigned to the advance polling station shall count the number of votes cast at the advance polling station, and
+		- **(iv)** that the counting of the votes cast shall begin on polling day as soon after the close of the polling stations as possible or, with the Chief Electoral Officer’s prior approval, one hour before the close of the polling stations;
+	- **(b)** send two copies of the notice to each candidate and to the Chief Electoral Officer; and
+	- **(c)** make available to each candidate in the electoral district a map of the electoral district indicating the boundaries of each advance polling district and the location of each advance polling station.
+
+**Maps made available to registered parties**
+
+- **(2)** The Chief Electoral Officer shall, not later than Saturday, the 16th day before polling day, make available to each registered party maps of each electoral district — in electronic form or in formats that include electronic form — indicating the boundaries of each advance polling district within the electoral district and the location of each advance polling station.
+> 2000, c. 9, s. 172; 2018, c. 31, s. 120.
+
 
 
 
@@ -3873,88 +3965,87 @@ If the candidate, registered association and registered party do not, as a group
 
 **Elector not on the revised list**
 
-- **(2)** An elector whose name is not on the revised list of electors may not vote at an advance polling station unless
-	- **(a)** the deputy returning officer has ascertained with the returning officer that the elector is listed on the preliminary list of electors or was registered during the revision period; or
-	- **(b)** the elector has obtained a registration certificate in accordance with subsection 169(3).
+- **(2)** An elector whose name is not on the revised list of electors may not vote at an advance polling station unless the elector has obtained a transfer certificate under section 168.1 or 168.2 or a registration certificate under subsection 169(3).
 
-**Procedure by poll clerk**
+**Procedure by election officer**
 
-- **(3)** If an elector whose name does not appear on the revised list of electors has voted, the poll clerk shall indicate on the prescribed form that the elector has voted in accordance with subsection (2).
-> 2000, c. 9, s. 173; 2007, c. 21, s. 32.
+- **(3)** If an elector whose name does not appear on the revised list of electors has voted, an election officer who is assigned to the advance polling station shall indicate on the prescribed form that the elector has voted in accordance with subsection (2).
+> 2000, c. 9, s. 173; 2007, c. 21, s. 32; 2018, c. 31, s. 121.
 
 
 
 
 
-**Duties of deputy returning officer**
+**Duties of election officer**
 
 **174** 
 
-- **(1)** If an elector whose name is on the list of electors makes a request to vote at an advance polling station that is established for his or her polling division, the deputy returning officer shall permit the elector to vote unless
-	- **(a)** the elector fails to prove his or her identity and residence in accordance with section 143 or to take an oath otherwise required by this Act; or
-	- **(b)** the person refuses to sign the record of votes cast at an advance polling station referred to in subsection (2), as directed by the poll clerk under that subsection.
+- **(1)** If an elector whose name is on the list of electors makes a request to vote at an advance polling station that is established for his or her polling division, an election officer who is assigned to the advance polling station shall permit the elector to vote unless the elector fails to prove his or her identity and residence in accordance with section 143 or to make a solemn declaration otherwise required by this Act.
+
+**Number of advance polling district**
+
+- **(1.1)** An election officer who gives an elector a ballot at an advance polling station shall, before providing the ballot, place on the back of the ballot, in the space indicated in Form 3 of Schedule 1 for the polling division number, the number of the elector’s advance polling district.
 
 **Record of votes cast**
 
-- **(2)** The poll clerk at the advance polling station shall, under the direction of the deputy returning officer, keep a record in duplicate, in the prescribed form, of the names of all persons who vote at the advance polling station, in the order in which they vote, and shall
-	- **(a)** mark on the record the notations that the poll clerk is required by this Act to make opposite an elector’s name at a polling station on polling day; and
-	- **(b)** direct the elector to sign the record opposite his or her name.
-> 2000, c. 9, s. 174; 2007, c. 21, s. 33; 2014, c. 12, s. 57.
+- **(2)** An election officer who is assigned to the advance polling station shall keep a record in duplicate at the advance polling station, in the prescribed form, of the names of all persons who vote at the advance polling station, in the order in which they vote, and shall mark on the record the notations that an election officer who is assigned to a polling station is required by this Act to make opposite an elector’s name at the polling station on polling day.
+> 2000, c. 9, s. 174; 2007, c. 21, s. 33; 2014, c. 12, s. 57; 2018, c. 31, s. 122.
 
 
 
 
 
-**Examining and sealing of ballot box**
+**Opening of advance polling station**
 
 **175** 
 
-- **(1)** At the opening of an advance polling station at noon on each of the four days of advance polling, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
-	- **(a)** open the ballot box provided for that day and ascertain that it is empty;
-	- **(b)** seal the ballot box with the seals provided by the Chief Electoral Officer; and
-	- **(c)** place the ballot box on a table in full view of all present and keep it there until the close of the advance polling station on that day.
+- **(1)** At the opening of an advance polling station at 9:00 a.m., an election officer who is assigned to the advance polling station shall, in full view of the candidates or their representatives who are present,
+	- **(a)** on the 1st day of advance polling,
+		- **(i)** open the ballot box and ascertain that it is empty,
+		- **(ii)** seal the ballot box with the seals provided by the Chief Electoral Officer, and
+		- **(iii)** place the ballot box on a table in full view of all present and keep it there until the close of the advance polling station on that day; and
+	- **(b)** on the 2nd, 3rd and 4th days of advance polling, place the ballot box on a table in full view of all present and keep it there until the close of the advance polling station on that day.
 
-**Close of advance poll — each day**
+**Close of advance polling station**
 
-- **(2)** At the close of an advance polling station at 8:00 p.m. on each of the 1st, 2nd and 3rd days of advance polling, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
-	- **(a)** unseal and open the ballot box;
-	- **(b)** empty the ballots cast during that day, in a manner that does not disclose for whom any elector has voted, into the envelope supplied for the purpose, seal the envelope with the seal provided by the Chief Electoral Officer and indicate on it the number of ballots contained in it;
-	- **(c)** count the spoiled ballots, place them in the envelope supplied for the purpose, seal the envelope and indicate on it the number of spoiled ballots contained in it;
-	- **(d)** count the unused ballots and the number of electors who have voted at the advance polling station and place the unused ballots and a copy of the record of votes cast at the advance polling station in the envelope supplied for the purpose, seal the envelope with the seal provided by the Chief Electoral Officer and indicate on it the number of unused ballots contained in it and the number of electors who have voted;
-	- **(e)** place the envelopes referred to in paragraphs (b) and (c) in the ballot box after the signatures have been made as described in subsection (4), and seal the ballot box; and
-	- **(f)** after the signatures have been made as described in subsection (4), place the envelope referred to in paragraph (d) in a box provided by the Chief Electoral Officer and seal the box with a seal provided by the Chief Electoral Officer.
+- **(2)** At the close of an advance polling station at 9:00 p.m. on each of the four days of advance polling, an election officer who is assigned to the advance polling station shall, in full view of the candidates or their representatives who are present, and in accordance with instructions that the Chief Electoral Officer considers necessary to ensure the integrity of the vote, take the measures set out in those instructions.
 
-**Close of advance poll — last day**
+**Other ballot boxes**
 
-- **(3)** At the close of an advance polling station at 8:00 p.m. on the 4th day of advance polling, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
-	- **(a)** unseal and open the ballot box;
-	- **(b)** empty the ballots cast during that day, in a manner that does not disclose for whom any elector has voted, into the envelope supplied for the purpose, seal the envelope with the seal provided by the Chief Electoral Officer and indicate on it the number of ballots contained in it;
-	- **(c)** count the spoiled ballots, place them in the envelope supplied for the purpose, seal the envelope and indicate on it the number of spoiled ballots contained in it;
-	- **(d)** count the unused ballots and the number of electors who have voted at the advance polling station and place the unused ballots and a copy of the record of votes cast at the advance polling station in the envelope supplied for the purpose, seal the envelope with the seal provided by the Chief Electoral Officer and indicate on it the number of unused ballots contained in it and the number of electors who have voted; and
-	- **(e)** place the envelopes referred to in paragraphs (b) to (d) in the ballot box after the signatures have been made as described in subsection (4), and seal the ballot box.
-
-**Affixing of signatures**
-
-- **(4)** The deputy returning officer and poll clerk shall place their signatures on the seals affixed to the envelopes referred to in paragraphs (2)(b) to (d) and (3)(b) to (d). The candidates or their representatives who are present may also place their signatures on the seals.
-
-**Re-opening of advance poll**
-
-- **(5)** At the re-opening of an advance polling station at noon on the 2nd, 3rd and 4th days of advance polling, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
-	- **(a)** unseal and open the box referred to in paragraph (2)(f) that was used on the previous day of advance polling, take out and open the envelope that contains the unused ballots and the record of votes cast at the advance polling station and dispose of the box; and
-	- **(b)** open, seal and place a new ballot box in accordance with paragraphs (1)(a) to (c).
-
-**Custody of ballot box**
-
-- **(6)** In the intervals between voting hours at the advance polling station and until the counting of the ballots on polling day, the deputy returning officer shall keep the sealed ballot boxes in his or her custody.
-
-**Recovery of ballot box**
-
-- **(7)** Despite subsection (6), the returning officer may recover any ballot box that is in a deputy returning officer’s custody if the Chief Electoral Officer, being of the opinion that such action is necessary to ensure the integrity of the vote, directs the returning officer to do so.
+- **(3)** If an election officer who is assigned to the advance polling station determines, in accordance with the Chief Electoral Officer’s instructions, that another ballot box is needed at the advance polling station, then an election officer who is assigned to the advance polling station shall, in full view of the candidates or their representatives who are present and in accordance with those instructions,
+	- **(a)** take the steps set out in subparagraphs (1)(a)(i) to (iii) with regard to that other ballot box; and
+	- **(b)** take the steps set out in paragraph (1)(b) and in subsection (2) with regard to the ballot boxes in the circumstances set out in those instructions.
 
 **Candidates may check seals**
 
-- **(8)** When an advance polling station closes on each of the four days of advance polling, the candidates or their representatives may take note of the serial number of the seal on the ballot box, and on the box referred to in paragraph (2)(f) that is used on that day, if any. When the advance polling station is re-opened on the 2nd, 3rd and 4th days of advance polling, they may again take note of the serial number of the seal on the box referred to in paragraph (2)(f) that was used on the previous day of voting. When the votes are counted on polling day, they may take note of the serial number of the seal on each of the ballot boxes used for advance polling.
-> 2000, c. 9, s. 175; 2014, c. 12, s. 58.
+- **(4)** The candidates or their representatives may take note of the serial numbers of the seals on the following ballot boxes at the times indicated:
+	- **(a)** for any ballot box that was used on a day of advance polling, note may be taken when an advance polling station closes on each of the four days of advance polling;
+	- **(b)** for a ballot box that is placed on the table in accordance with subsection (1) or (3), note may be taken when it is placed there; and
+	- **(c)** for each of the ballot boxes that were used for advance polling, note may be taken when the votes are counted on polling day.
+
+**Custody of ballot boxes**
+
+- **(5)** Until the counting of the ballots on polling day, an election officer shall keep the sealed ballot box or boxes in his or her custody in accordance with the Chief Electoral Officer’s instructions.
+
+**Recovery of ballot box**
+
+- **(6)** Despite subsection (5), the returning officer may recover any ballot box that another election officer is required under that subsection to have in his or her custody if the returning officer considers that such action is necessary to ensure the integrity of the vote. The returning officer shall inform the Chief Electoral Officer of the matter as soon as possible.
+
+**Recovery of ballot box — dwelling place or vehicle**
+
+- **(7)** If a ballot box to be recovered is in a dwelling place or a vehicle, the returning officer may enter the dwelling place or vehicle without the occupant’s or owner’s consent only if the returning officer is accompanying a peace officer who enters the dwelling place or vehicle under the authority of a warrant issued under subsection (8).
+
+**Authority to issue warrant**
+
+- **(8)** On ex parte application by the returning officer, a justice of the peace may issue a warrant authorizing a peace officer to enter a dwelling place or a vehicle, accompanied by the returning officer, if the justice is satisfied by information on oath that
+	- **(a)** a ballot box is in the dwelling place or vehicle;
+	- **(b)** entry to the dwelling place or vehicle is necessary to recover the ballot-box; and
+	- **(c)** entry was refused by the occupant or owner or there are reasonable grounds to believe that entry will be refused by, or that consent to entry cannot be obtained from, the occupant or owner.
+
+**Telewarrant**
+
+- **(9)** If a returning officer believes that it would not be practical to appear personally to make an application for a warrant under subsection (8), a warrant may be issued by telephone or other means of telecommunication on application submitted by telephone or other means of telecommunication, and section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies for that purpose with any necessary modifications.
+> 2000, c. 9, s. 175; 2014, c. 12, s. 58; 2018, c. 31, s. 122.
 
 
 
@@ -3972,7 +4063,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **When lists already distributed**
 
-- **(3)** If an official list of electors is sent to a polling station containing the names of electors that appear in the record of votes cast at an advance polling station as having already voted, the returning officer shall instruct the deputy returning officer to cross their names off the list, and the deputy returning officer shall do so without delay.
+- **(3)** If an official list of electors is sent to a polling station containing the names of electors that appear in the record of votes cast at an advance polling station as having already voted, the returning officer shall instruct an election officer who is assigned to the polling station to cross their names off the list, and the election officer shall do so without delay.
+> 2000, c. 9, s. 176; 2018, c. 31, s. 123.
+
 
 
 
@@ -3988,39 +4081,41 @@ If the candidate, registered association and registered party do not, as a group
 
 **Definitions**
 
-**177** The definitions in this section apply in this Part.
+**177** The definitions in this section apply in this Part, and Parts 11.1 and 19.
 
-***administrative centre*** means an area established under section 180 for the distribution of materials and the provision of information. (*centre administratif*)
+***administrative centre***[Repealed, 2018, c. 31, s. 124]
 
-***application for registration and special ballot*** means an application completed by an elector, other than a Canadian Forces elector, in order to vote under this Part. (*demande d’inscription et de bulletin de vote spécial*)
+***application for registration and special ballot*** means an application completed by an elector in order to vote under this Part. (*demande d’inscription et de bulletin de vote spécial*)
 
-***Canadian Forces elector*** means an elector who is entitled to vote under Division 2. (*électeur des Forces canadiennes*)
+***Canadian Forces elector***[Repealed, 2018, c. 31, s. 124]
 
 ***commanding officer*** means the commanding officer of a unit. (*commandant*)
 
 ***coordinating officer*** means the person so designated by the Minister of National Defence under subsection 199(1) or a person so designated by the minister responsible for corrections in a province under section 246. (*agent coordonnateur*)
 
-***deputy returning officer*** means an elector so designated in accordance with this Part by a commanding officer or returning officer. (*scrutateur*)
+***deputy returning officer***[Repealed, 2018, c. 31, s. 124]
 
 ***incarcerated elector*** means an elector who is incarcerated in a correctional institution. (*électeur incarcéré*)
 
-***inner envelope*** means an envelope that is supplied by the Chief Electoral Officer in which a ballot is to be enclosed after it has been marked. (*enveloppe intérieure*)
+***inner envelope*** means an envelope, including one that is supplied by the Chief Electoral Officer, in which a ballot or special ballot is to be enclosed after it has been marked. (*enveloppe intérieure*)
 
 ***liaison officer*** means an elector designated as a liaison officer under subsection 199.2(1) or a person appointed as a liaison officer under subsection 248(1). (*agent de liaison*)
 
-***outer envelope*** means an envelope that is supplied by the Chief Electoral Officer for the transmission of a ballot after it has been marked and enclosed in an inner envelope. (*enveloppe extérieure*)
+***outer envelope*** means an envelope, including one that is supplied by the Chief Electoral Officer, in which a ballot or special ballot is to be transmitted after it has been marked and enclosed in an inner envelope. (*enveloppe extérieure*)
 
-***special ballot*** means a ballot, other than a ballot referred to in section 241, that is supplied to an elector who is entitled to vote under this Part. (*bulletin de vote spécial*)
+***special ballot*** means a ballot, other than a ballot referred to in section 241, that is provided to an elector who is entitled to vote under this Part. (*bulletin de vote spécial*)
 
 ***special ballot officer*** means a person who is appointed by the Chief Electoral Officer under section 183 or 184. (*agent des bulletins de vote spéciaux*)
 
 ***special voting rules administrator*** means a person who is appointed under section 181. (*administrateur des règles électorales spéciales*)
 
-***statement of ordinary residence*** means a statement completed under section 194 or 195. (*déclaration de résidence habituelle*)
+***statement of ordinary residence***[Repealed, 2018, c. 31, s. 124]
 
 ***unit*** has the same meaning as in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and includes a base or other element. (*unité*)
 
-***voting territory*** means an area that is established by or under section 180. (*territoire de vote*)
+***unit election officer*** means an elector designated as a unit election officer under paragraph 205(1)(b). (*fonctionnaire électoral d’unité*)
+
+***voting territory***[Repealed, 2018, c. 31, s. 124]
 > 2000, c. 9, s. 177; 2018, c. 31, s. 124.
 
 
@@ -4067,13 +4162,15 @@ If the candidate, registered association and registered party do not, as a group
 
 **182** The special voting rules administrator shall
 - **(a)** secure suitable premises;
-- **(b)** retain the oath of office of each special ballot officer;
+- **(b)** retain the solemn declaration of each special ballot officer that is made under subsection 23(1);
 - **(c)** obtain from the liaison officers the lists prepared under paragraph 204(1)(b);
-- **(d)** obtain from the liaison officers the lists of the names of deputy returning officers that the commanding officers are required to provide;
+- **(d)** obtain from the liaison officers the lists of the names of unit election officers that the commanding officers are required to provide;
 - **(e)** distribute the election materials and the list of candidates;
 - **(f)** receive, validate, examine and sort the completed outer envelopes that contain special ballots marked by electors;
 - **(g)** proceed with the counting of the votes of electors; and
 - **(h)** communicate the results of the votes cast in accordance with this Part.
+> 2000, c. 9, s. 182; 2018, c. 31, s. 126.
+
 
 
 
@@ -4169,169 +4266,88 @@ If the candidate, registered association and registered party do not, as a group
 
 **190** The definitions in this section apply in this Division.
 
-***elector*** means a person who is a Canadian Forces elector under section 191. (*électeur*)
+***alternative address*** means the address of the office of the returning officer for the electoral district of the elector’s place of ordinary residence. (*adresse de substitution*)
+
+***elector*** means a person referred to in section 191. (*électeur*)
+
+***service number*** means a unique identifier assigned by the Canadian Forces under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) to each member of the Canadian Forces. (*numéro matricule*)
 
 ***voting period*** means the period beginning 14 days before polling day and ending 9 days before polling day. (*période de scrutin*)
+> 2000, c. 9, s. 190; 2018, c. 31, s. 130.
 
 
 
 
-#### Voting Entitlement and Electoral Districts
+
+**Election officers**
+
+**190.1** For the purpose of section 9, subsections 23(1) and (2) and section 23.1, the coordinating officer, liaison officers designated under subsection 199.2(1), commanding officers and unit election officers are deemed to be election officers and paragraph 43(c), subsection 484(1) and paragraph 484(3)(f) also apply to them if they are relieved of duty.
+> 2018, c. 31, s. 131.
 
 
 
-**Canadian Forces electors**
 
-**191** Any of the following persons is a Canadian Forces elector if he or she is qualified as an elector under section 3 and is not disentitled from voting at an election under section 4:
+
+#### Voting Entitlement
+
+
+
+**Qualification and right to vote**
+
+**191** Any of the following persons is entitled to vote under this Division if he or she is qualified as an elector under section 3:
 - **(a)** a member of the regular force of the Canadian Forces;
-- **(b)** a member of the reserve force of the Canadian Forces on full-time training or service or on active service;
-- **(c)** a member of the special force of the Canadian Forces; and
-- **(d)** a person who is employed outside Canada by the Canadian Forces as a teacher in, or as a member of the administrative support staff for, a Canadian Forces school.
+- **(b)** a member of the reserve force of the Canadian Forces; and
+- **(c)** a member of the special force of the Canadian Forces.
+- **(d)** [Repealed, 2018, c. 31, s. 133]
+> 2000, c. 9, s. 191; 2018, c. 31, s. 133.
 
 
 
 
-**Voting limited to electoral district of ordinary residence**
 
-**192** An elector is only entitled to vote under this Division for a candidate in the electoral district that includes the place of ordinary residence that the elector has named in his or her statement of ordinary residence.
+#### Registration
 
 
 
+**Right to register**
 
-**Voting in actual place of ordinary residence**
+**192** 
 
-**193** An elector who has not voted under this Division may vote at the polling station established for the polling division of the elector’s place of ordinary residence named in section 192 but only if he or she ordinarily resides in the electoral district referred to in that section as of polling day.
+- **(1)** When a person becomes entitled to vote under this Division, the person’s commanding officer shall inform him or her of the right to ask the Chief Electoral Officer to include him or her in the Register of Electors or, if already included in it, to ask for his or her registration to be updated.
 
+**Right to register — future elector**
 
+- **(2)** When a future elector is enrolled in the Canadian Forces, or when a member of the Canadian Forces becomes qualified as a future elector, the future elector’s commanding officer shall inform him or her of the right to ask the Chief Electoral Officer to include him or her in the Register of Future Electors or, if already included in it, to ask for his or her registration to be updated.
 
+**Service number**
 
-#### Statement of Ordinary Residence
+- **(3)** An elector, or a future elector who is a member of the Canadian Forces, who asks the Chief Electoral Officer to include him or her in the Register of Electors or Register of Future Electors, or asks for his or her registration to be updated, must provide his or her service number to the Chief Electoral Officer.
+> 2000, c. 9, s. 192; 2018, c. 31, s. 134.
 
 
 
-**Completion on enrolment, etc.**
 
-**194** 
+**193** [Repealed, 2018, c. 31, s. 134]
 
-- **(1)** In order to vote under this Division, a person shall, without delay after becoming an elector described in paragraph 191(a), (c) or (d) by virtue of his or her being enrolled in or hired by the Canadian Forces, complete a statement of ordinary residence in the prescribed form that indicates
-	- **(a)** his or her surname, given names, sex and rank;
-	- **(b)** his or her date of birth;
-	- **(c)** the civic address of his or her place of ordinary residence in Canada immediately before the enrolment or hiring; and
-	- **(d)** his or her current mailing address.
 
-**Completion on becoming ordinarily resident**
 
-- **(2)** A person who cannot complete a statement of ordinary residence under subsection (1) because he or she did not have a place of ordinary residence in Canada when enrolled in or hired by the Canadian Forces shall, without delay after being able to indicate a place referred to in paragraph (4)(a) or (b) as his or her place of ordinary residence, complete a statement of ordinary residence in accordance with subsection (1), indicating that place as his or her place of ordinary residence.
+**194** [Repealed, 2018, c. 31, s. 134]
 
-**Members of Canadian Forces not entitled to vote**
 
-- **(3)** A person who was not qualified as an elector at an election when enrolled in or hired by the Canadian Forces shall, without delay after becoming qualified, complete a statement of ordinary residence in accordance with subsection (1) that indicates a place of ordinary residence described in subsection (4).
 
-**Change of ordinary residence, etc.**
+**195** [Repealed, 2018, c. 31, s. 134]
 
-- **(4)** An elector may amend the information in his or her statement of ordinary residence and may indicate as a place of ordinary residence the civic address of
-	- **(a)** the place of ordinary residence of the spouse, the common-law partner, a relative or a dependant of the eligible elector, a relative of his or her spouse or common-law partner or a person with whom the elector would live but for his or her being enrolled in or hired by the Canadian Forces;
-	- **(b)** the place where the member is residing by reason of his or her performance of services as a member of the Canadian Forces; or
-	- **(c)** the elector’s place of ordinary residence immediately before being enrolled in or hired by the Canadian Forces.
 
-**When no statement completed**
 
-- **(5)** An elector described in subsection (1), (2) or (3) who has not completed a statement of ordinary residence in accordance with subsection (1) may do so at any time.
+**196** [Repealed, 2018, c. 31, s. 134]
 
-**Coming into force of amendments**
 
-- **(6)** An amendment to a statement of ordinary residence takes effect
-	- **(a)** if it is made during an election period, 14 days after polling day; and
-	- **(b)** if it is made at any other time, 60 days after the commanding officer of the elector’s unit receives it.
 
-**Optional information**
+**197** [Repealed, 2018, c. 31, s. 134]
 
-- **(7)** In addition to the information specified in subsection (1), the Chief Electoral Officer may invite the elector to provide other information that the Chief Electoral Officer considers necessary to implement agreements made under section 55, but the elector is not required to provide that information.
-> 2000, c. 9, s. 194, c. 12, s. 40.
 
 
-
-
-
-**Completion by reserve member not on active service**
-
-**195** 
-
-- **(1)** A member of the reserve force of the Canadian Forces who is not on active service and who, at any time during the period beginning on the issue of the writs and ending on the Saturday immediately before polling day, is on full-time training or service, shall complete a statement of ordinary residence in the prescribed form that indicates
-	- **(a)** the member’s surname, given names, sex and rank;
-	- **(b)** the member’s date of birth;
-	- **(c)** the civic address of the member’s place of ordinary residence in Canada immediately before that full-time training or service began; and
-	- **(d)** the member’s current mailing address.
-
-**Completion by reserve member on active service**
-
-- **(2)** Every member of the reserve force of the Canadian Forces who is placed on active service, other than a member who immediately before being placed on active service was on full-time training or service and completed a statement of ordinary residence in accordance with subsection (1) after that full-time training or service began, shall complete a statement of ordinary residence in the same form as in subsection (1) that indicates
-	- **(a)** the member’s surname, given names, sex and rank;
-	- **(b)** the member’s date of birth;
-	- **(c)** the civic address of the member’s place of ordinary residence in Canada immediately before the member was placed on active service; and
-	- **(d)** the member’s current mailing address.
-
-**Members of reserve force not entitled to vote**
-
-- **(3)** A member of the reserve force of the Canadian Forces referred to in subsection (1) or (2) who was not qualified as an elector at an election while on full-time training or service shall, without delay after becoming qualified, complete a statement of ordinary residence in accordance with subsection (1) or (2), as the case may be, that indicates a place of ordinary residence described in subsection (4).
-
-**Change of ordinary residence, etc.**
-
-- **(4)** An elector may amend the information in his or her statement of ordinary residence and may indicate as a place of ordinary residence the civic address of
-	- **(a)** the place of ordinary residence of a person with whom the elector would live but for his or her being on training or service or a person designated by the elector as next of kin;
-	- **(b)** the place where the elector is residing by reason of his or her being on training or service; or
-	- **(c)** the elector’s place of ordinary residence immediately before being on training or service.
-
-**When no statement completed**
-
-- **(5)** An elector described in subsection (1), (2) or (3) who has not completed a statement of ordinary residence in accordance with subsection (1) or (2), as the case may be, may do so at any time.
-
-**Coming into force of amendments**
-
-- **(6)** An amendment to a statement of ordinary residence takes effect
-	- **(a)** if it is made during an election period, 14 days after polling day; and
-	- **(b)** if it is made at any other time, 60 days after the commanding officer of the elector’s unit receives it.
-
-**Optional information**
-
-- **(7)** In addition to the information specified in subsection (1), the Chief Electoral Officer may invite the member to provide other information that the Chief Electoral Officer considers necessary to implement agreements made under section 55, but the member is not required to provide that information.
-
-
-
-
-**Statement to be sent to Chief Electoral Officer**
-
-**196** 
-
-- **(1)** The original of a statement of ordinary residence of an elector, other than a statement completed under section 195, shall be sent to the Chief Electoral Officer and a copy of that original shall be kept in the unit in which the elector is serving.
-
-**Validation**
-
-- **(2)** On receiving the statement of ordinary residence, the Chief Electoral Officer shall
-	- **(a)** validate it by indicating on it the name of the electoral district that includes the place of ordinary residence shown in the statement; and
-	- **(b)** return it to the commanding officer of the unit in which the elector is serving.
-
-**Retention of validated statement**
-
-- **(3)** On receiving the statement of ordinary residence, the commanding officer shall destroy the copy kept under subsection (1) and keep the validated original with the elector’s unit service documents.
-
-**Prior statements to be destroyed**
-
-- **(4)** On receiving the validated statement of ordinary residence, the commanding officer may destroy any other original or copy of a statement of ordinary residence that was filed with the elector’s unit service documents.
-
-
-
-
-**Filing of reservists’ statements**
-
-**197** A statement of ordinary residence completed by a member of the reserve force of the Canadian Forces under section 195 shall be filed with the unit in which the member is on full-time training or service or active service, as the case may be.
-
-
-
-
-**Retention of statements**
-
-**198** Statements of ordinary residence shall be retained for a period of one year after a person ceases to be entitled to vote under this Division and may be destroyed at the end of that period.
+**198** [Repealed, 2018, c. 31, s. 134]
 
 
 
@@ -4346,13 +4362,39 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(1)** The Minister of National Defence shall designate a person as a coordinating officer to work, during and between elections, with the Chief Electoral Officer in carrying out the purposes and provisions of this Division.
 
-**Duties**
+**Duty**
 
-- **(2)** The coordinating officer shall, on request, provide to the Chief Electoral Officer the following information relating to each elector:
-	- **(a)** the elector’s surname, given names, sex and rank;
-	- **(b)** the elector’s date of birth;
-	- **(c)** the civic address of the elector’s place of ordinary residence indicated on any validated statement of ordinary residence; and
-	- **(d)** the elector’s current mailing address.
+- **(2)** The coordinating officer shall, on request, provide to the Chief Electoral Officer the following information relating to each elector or future elector:
+	- **(a)** his or her surname, given names, gender, rank and service number;
+	- **(b)** his or her date of birth;
+	- **(c)** the civic address and mailing address of his or her place of ordinary residence; and
+	- **(d)** his or her current mailing address.
+
+**Updating Register of Electors**
+
+- **(3)** The Chief Electoral Officer may use the information provided under subsection (2) to update the Register of Electors or Register of Future Electors.
+
+**Retention of certain information**
+
+- **(4)** The Chief Electoral Officer may retain the information provided under subsection (2), but not included in the Register of Electors or Register of Future Electors, for the purpose of correlating information subsequently collected with information already contained in the relevant register.
+
+**Information provided to coordinating officer**
+
+- **(5)** The Chief Electoral Officer may provide the coordinating officer with the information referred to in paragraphs (2)(a) to (d) relating to each elector or future elector who has provided a service number under this Part.
+> 2000, c. 9, s. 199; 2018, c. 31, s. 135.
+
+
+
+
+
+**Cooperation**
+
+**199.1** The coordinating officer shall cooperate with the special voting rules administrator to facilitate the voting, under Divisions 3 and 4 of this Part, of
+- **(a)** a person employed by or in support of the Canadian Forces outside Canada;
+- **(b)** a person who accompanies a unit or other element of the Canadian Forces that is on service or active service outside Canada, within the meaning of subsection 61(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); or
+- **(c)** a person who resides outside Canada with a member of the Canadian Forces or with a person referred to in paragraph (a) or (b).
+> 2018, c. 31, s. 136.
+
 
 
 
@@ -4427,13 +4469,36 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(2)** The notice shall notify electors that an election has been called and of the date of polling day and shall inform the electors that
 	- **(a)** they may vote in accordance with this Division; and
-	- **(b)** the commanding officer will designate one or more deputy returning officers to collect their votes and fix the voting times during the voting period.
+	- **(b)** the commanding officer will designate one or more unit election officers to collect their votes and fix the voting times during the voting period.
 
 **Contents of list**
 
-- **(3)** The list shall be arranged alphabetically and shall indicate each elector’s surname, given names, sex and rank, and
-	- **(a)** if the elector’s statement of ordinary residence has been validated, the name of the elector’s electoral district; or
-	- **(b)** if the elector’s statement of ordinary residence has not been validated, the place of ordinary residence as indicated in the statement of ordinary residence.
+- **(3)** The list shall be arranged alphabetically and shall indicate each elector’s surname, given names and service number, the address of his or her place of ordinary residence and his or her electoral district.
+> 2000, c. 9, s. 204; 2018, c. 31, s. 138.
+
+
+
+
+
+**Alternative address — commanding officer**
+
+**204.1** 
+
+- **(1)** For the purpose of maintaining operational security, a commanding officer may indicate on the list of electors, with respect to some or all of the electors in the commanding officer’s unit, their alternative address rather than the address that would otherwise be indicated under subsection 204(3).
+
+**Alternative address — elector**
+
+- **(2)** For the purpose of maintaining operational security or out of a reasonable apprehension of bodily harm if the address of his or her place of ordinary residence were to appear on the list of electors, an elector may ask his or her commanding officer not to indicate that address on the list of electors. The commanding officer, unless he or she considers that it would not be in the public interest to do so, shall grant the request and indicate the elector’s alternative address on the list.
+
+**Special voting rules administrator informed**
+
+- **(3)** The commanding officer shall inform the special voting rules administrator, through a liaison officer, that an alternative address has been indicated under this section.
+
+**Clarification**
+
+- **(4)** For greater certainty, the indication of an alternative address on the list of electors under this section does not change the elector’s place of ordinary residence for the purposes of this Act.
+> 2018, c. 31, s. 139.
+
 
 
 
@@ -4442,11 +4507,11 @@ If the candidate, registered association and registered party do not, as a group
 
 **205** 
 
-- **(1)** Within seven days after being informed of the issue of the writs, each commanding officer shall
+- **(1)** After being informed of the issue of the writs, but no later than the 28th day before polling day, each commanding officer shall
 	- **(a)** establish polling stations;
-	- **(b)** designate an elector as the deputy returning officer for each polling station;
-	- **(c)** through a liaison officer, provide the Chief Electoral Officer with a list of the designated deputy returning officers and their ranks, and sufficient copies of the list of electors for the unit; and
-	- **(d)** provide the designated deputy returning officers with a copy of the list of electors for the unit.
+	- **(b)** designate a sufficient number of electors as unit election officers to allow for voting to take place at each polling station;
+	- **(c)** through a liaison officer, provide the special voting rules administrator with a list of the unit election officers and their ranks, and the list of electors for the unit; and
+	- **(d)** provide the unit election officers with the list of electors for the unit.
 
 **Facilities**
 
@@ -4455,6 +4520,8 @@ If the candidate, registered association and registered party do not, as a group
 **Voting times**
 
 - **(3)** Each commanding officer shall fix the voting times so that the polling stations in his or her unit are open for at least three hours a day on at least three days during the voting period.
+> 2000, c. 9, s. 205; 2018, c. 31, s. 140.
+
 
 
 
@@ -4474,7 +4541,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **Joint polling stations**
 
-**207** The commanding officers of units that are in the same locality may establish one polling station for all electors in their units, if the commanding officers consider that it would be expedient for the purposes of this Division.
+**207** The commanding officers of units may establish a joint polling station for electors in their units, if the commanding officers consider that it would be useful to do so for carrying out the purposes and provisions of this Division.
+> 2000, c. 9, s. 207; 2018, c. 31, s. 141.
+
 
 
 
@@ -4492,8 +4561,10 @@ If the candidate, registered association and registered party do not, as a group
 **Election materials**
 
 **209** On receiving election materials and the list of candidates, each commanding officer shall
-- **(a)** distribute the materials in sufficient quantities to the designated deputy returning officers; and
-- **(b)** post copies of the list in conspicuous places.
+- **(a)** distribute the materials to the unit election officers; and
+- **(b)** display the list in one or more conspicuous places or make it otherwise accessible to electors in their unit.
+> 2000, c. 9, s. 209; 2018, c. 31, s. 142.
+
 
 
 
@@ -4502,25 +4573,112 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Duties of deputy returning officer**
+**Duties of unit election officer**
 
-**210** During the voting period, a deputy returning officer for a unit shall, at each polling station,
-- **(a)** put in conspicuous places two or more copies of voting instructions provided by the Chief Electoral Officer and relating to the vote under this Division in the prescribed form; and
-- **(b)** keep available for consultation by the electors one copy of this Part, one set of street indexes, one guide to electoral districts and one list of candidates.
+**210** During the voting period, a unit election officer shall
+- **(a)** display the voting instructions provided by the Chief Electoral Officer in relation to the vote under this Division in conspicuous places at each polling station or make them otherwise accessible to electors; and
+- **(b)** keep available for consultation by the electors the text of this Part, the election materials necessary for determining in which electoral district an elector is entitled to vote and the list of candidates.
+> 2000, c. 9, s. 210; 2018, c. 31, s. 143.
+
 
 
 
 
 **Representative of registered party**
 
-**211** A Canadian citizen may represent a registered party at a polling station if he or she provides the deputy returning officer with an authorization in the prescribed form signed by a candidate for the party.
+**211** A Canadian citizen may represent a registered party at a polling station if he or she provides the unit election officer with a copy of an authorization in the prescribed form signed by a candidate for the party.
+> 2000, c. 9, s. 211; 2018, c. 31, s. 143.
 
 
 
 
-**Completion of certain documents**
 
-**212** Before delivering a special ballot to an elector, a deputy returning officer shall require the elector to complete a statement of ordinary residence, if none has been placed in the elector’s unit service documents, and to make and sign the declaration on the outer envelope.
+**Elector to give name, etc.**
+
+**211.1** 
+
+- **(1)** Each elector, on arriving at the polling station, shall give his or her name and service number and the address of his or her place of ordinary residence to the unit election officer and, on request, to a representative of a registered party.
+
+**Alternative address**
+
+- **(2)** For the purpose of subsection (1), if an alternative address is indicated on the list of electors under section 204.1 in respect of the elector, the elector may provide that alternative address.
+
+**Proof of identity**
+
+- **(3)** If the unit election officer determines that the elector’s name, service number and address appear on the list of electors, then the elector shall provide the officer with the following proof of the elector’s identity:
+	- **(a)** one piece of identification issued by the Canadian Forces that contains a photograph of the elector and his or her name and service number; or
+	- **(b)** two pieces of identification of a type authorized under section 211.3 each of which establishes the elector’s name and at least one of which establishes his or her service number.
+
+**Examination of identification documents**
+
+- **(4)** A representative of a registered party may examine, but not handle, any piece of identification presented under this section.
+
+**Name crossed off the list**
+
+- **(5)** If the unit election officer is satisfied that an elector’s identity has been proven in accordance with this section, the elector’s name shall be crossed off the list of electors.
+> 2018, c. 31, s. 143.
+
+
+
+
+
+**Application for registration and special ballot**
+
+**211.2** 
+
+- **(1)** An elector whose name does not appear on the list of electors or whose address on the list does not correspond with the elector’s place of ordinary residence may complete an application for registration and special ballot and provide the unit election officer with the following proof of the elector’s identity:
+	- **(a)** one piece of identification issued by the Canadian Forces that contains a photograph of the elector and his or her name and service number; or
+	- **(b)** two pieces of identification of a type authorized under section 211.3 each of which establishes the elector’s name and at least one of which establishes his or her service number.
+
+**Content of application**
+
+- **(2)** An application for registration and special ballot shall be in the prescribed form and shall include the following information relating to each elector:
+	- **(a)** his or her surname and given names;
+	- **(b)** his or her date of birth;
+	- **(c)** his or her service number;
+	- **(d)** the civic address and mailing address of his or her place of ordinary residence;
+	- **(e)** his or her current mailing address; and
+	- **(f)** any other information that the Chief Electoral Officer considers necessary to determine the electoral district in which he or she is entitled to vote.
+
+**Alternative addresses**
+
+- **(3)** For the purpose of maintaining operational security or out of a reasonable apprehension of bodily harm if he or she were to indicate the addresses referred to in paragraph 2(d), the elector may apply to the elector’s commanding officer to use another address for that purpose. The commanding officer, unless he or she considers that it would not be in the public interest to do so, shall grant the application and provide the elector with the alternative address that is to be used on the application for registration and special ballot.
+
+**Optional information**
+
+- **(4)** In addition to the information specified in subsection (2), the Chief Electoral Officer may request that the elector provide other information that the Chief Electoral Officer considers necessary for implementing agreements made under section 55, but the elector is not required to provide that information.
+
+**Examination of identification documents**
+
+- **(5)** A representative of a registered party may examine, but not handle, any piece of identification presented under this section.
+
+**Acceptance of the application**
+
+- **(6)** If the unit election officer is satisfied that an elector’s identity has been proven in accordance with this section, the unit election officer shall accept the application for registration and special ballot.
+
+**Application of subsections 204.1(3) and (4)**
+
+- **(7)** If an alternative address is used in accordance with subsection (3), subsections 204.1(3) and (4) apply with any necessary modifications.
+> 2018, c. 31, s. 143.
+
+
+
+
+
+**Authorized types of identification**
+
+**211.3** The Chief Electoral Officer may authorize types of identification, in consultation with the coordinating officer, for the purposes of paragraphs 211.1(3)(b) and 211.2(1)(b). For greater certainty, any document may be authorized, regardless of who issued it.
+> 2018, c. 31, s. 143.
+
+
+
+
+
+**Declaration of elector**
+
+**212** The unit election officer shall require the elector whose name has been crossed off the list of electors or whose application for registration and special ballot has been accepted to sign the declaration prescribed by the Chief Electoral Officer.
+> 2000, c. 9, s. 212; 2018, c. 31, s. 143.
+
 
 
 
@@ -4529,13 +4687,17 @@ If the candidate, registered association and registered party do not, as a group
 
 **213** 
 
-- **(1)** A deputy returning officer shall, on completion of the documents referred to in section 212, give the elector a special ballot, an inner envelope and the outer envelope signed by the elector.
+- **(1)** A unit election officer shall, once the elector has signed the declaration referred to in section 212, give the elector a special ballot, an inner envelope, the declaration — if it is not on the outer envelope — and the outer envelope.
+
+**Limitation**
+
+- **(1.1)** An elector who has received a special ballot under subsection (1) may vote only under this Division.
 
 **Voting on special ballot**
 
-- **(2)** The elector shall use the special ballot to vote by writing on it, in private, the name of the candidate of his or her choice, folding the special ballot and, in the presence of the deputy returning officer,
+- **(2)** The elector shall use the special ballot to vote by writing on it, in private, the name of the candidate of his or her choice, folding it and, in the presence of the unit election officer,
 	- **(a)** placing the folded special ballot in the inner envelope and sealing the envelope; and
-	- **(b)** placing the inner envelope in the outer envelope and sealing the outer envelope.
+	- **(b)** placing the inner envelope and the declaration — if it is not on the outer envelope — in the outer envelope and sealing the outer envelope.
 
 **Writing candidate’s name**
 
@@ -4543,52 +4705,58 @@ If the candidate, registered association and registered party do not, as a group
 
 **Spoiled special ballot**
 
-- **(4)** If an elector has inadvertently handled a special ballot in such a manner that it cannot be used, the elector shall return it to the deputy returning officer who shall mark it as spoiled and give an additional special ballot to the elector.
+- **(4)** If the special ballot is incapable of being used, the elector shall return it to the unit election officer, who shall mark it as a spoiled ballot and give the elector another special ballot.
 
 **Limit**
 
 - **(5)** An elector shall not be given more than one special ballot under subsection (4).
+> 2000, c. 9, s. 213; 2018, c. 31, s. 144.
 
 
 
 
-**Return of vote — information**
+
+**Information to be provided to elector**
 
 **214** 
 
-- **(1)** The deputy returning officer shall inform an elector that, in order to be counted, the outer envelope must be received by the special voting rules administrator in Ottawa not later than 6:00 p.m. on polling day. The deputy returning officer shall inform the elector of the location of the nearest post office or mail box and of the service provided by the Canadian Forces to deliver the outer envelope.
+- **(1)** The unit election officer shall inform an elector that, in order for the special ballot to be counted, the outer envelope must be received by the special voting rules administrator in the National Capital Region no later than 6:00 p.m. on polling day. The unit election officer shall inform the elector of the service provided by the Canadian Forces to deliver the outer envelope.
 
 **Sending the outer envelope**
 
 - **(2)** If the elector does not use the delivery service provided by the Canadian Forces, it is the elector’s responsibility to ensure that the outer envelope is sent to the special voting rules administrator.
 
-**Postage**
-
-- **(3)** If the elector chooses to use a postal service, the deputy returning officer must ensure that sufficient postage is affixed to the outer envelope.
-
-
-
-
-**Voting by deputy returning officer**
-
-**215** A deputy returning officer who is qualified to vote may vote in accordance with this Division.
+- **(3)** [Repealed, 2018, c. 31, s. 145]
+> 2000, c. 9, s. 214; 2018, c. 31, s. 145.
 
 
 
 
-**Assistance**
+
+**Voting by unit election officer**
+
+**215** A unit election officer who is qualified to vote may vote in accordance with this Division.
+> 2000, c. 9, s. 215; 2018, c. 31, s. 146.
+
+
+
+
+
+**Assistance by unit election officer**
 
 **216** 
 
-- **(1)** If an elector is, because of a physical disability, unable to vote in the manner described in this Division, the deputy returning officer shall assist him or her by
-	- **(a)** completing the declaration on the outer envelope and writing the elector’s name where his or her signature is to be written; and
-	- **(b)** marking the special ballot as directed by the elector in his or her presence and in the presence of another elector selected by the elector as a witness.
+- **(1)** If an elector is unable to read or because of a disability is unable to vote in the manner described in this Division, the unit election officer shall assist him or her by
+	- **(a)** completing the declaration referred to in section 212 and writing the elector’s name where the elector’s signature is to be written; and
+	- **(b)** marking the special ballot as directed by the elector in the elector’s presence and in the presence of another elector selected by the elector as a witness.
 
 **Note and keeping vote secret**
 
-- **(2)** The deputy returning officer and an elector acting as a witness shall
-	- **(a)** sign a note on the outer envelope indicating that the elector was assisted; and
+- **(2)** The unit election officer and an elector acting as a witness shall
+	- **(a)** sign a note on the declaration indicating that the elector was assisted; and
 	- **(b)** keep secret the name of the candidate for whom the elector voted.
+> 2000, c. 9, s. 216; 2018, c. 31, s. 147.
+
 
 
 
@@ -4599,39 +4767,66 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(1)** An elector who is a patient in a service hospital or convalescent institution during the voting times fixed for the polling stations in his or her unit is deemed to be a member of the unit under the command of the officer in charge of the hospital or institution.
 
-**Deputy returning officer for hospitalized electors**
+**Unit election officer for hospitalized electors**
 
-- **(2)** If no deputy returning officer has been designated for a service hospital or convalescent institution, the deputy returning officer for the unit to which the hospital or institution belongs is the deputy returning officer for electors who are patients in the hospital or institution.
+- **(2)** If no unit election officer has been designated for a service hospital or convalescent institution, the unit election officer for the unit to which the hospital or institution belongs is the unit election officer for electors who are patients in the hospital or institution.
 
 **Bed-ridden electors**
 
-- **(3)** A deputy returning officer for electors who are patients in a service hospital or convalescent institution may, if that officer considers it advisable and the commanding officer for the unit approves, go from room to room to administer and collect the votes of electors who are confined to bed.
+- **(3)** A unit election officer for electors who are patients in a service hospital or convalescent institution may, if that officer considers it advisable and the officer in charge of the hospital or institution approves, go from room to room to administer and collect the votes of electors who are confined to bed.
+> 2000, c. 9, s. 217; 2018, c. 31, s. 148.
+
 
 
 
 
 **Duty, leave or furlough**
 
-**218** An elector who provides satisfactory evidence of their absence from their unit during the voting times fixed for the polling stations in his or her unit because of duty, leave or furlough may apply to a deputy returning officer of another unit to vote at that officer’s polling station.
+**218** An elector who provides satisfactory evidence of his or her absence from his or her unit during the voting times fixed for the polling stations in that unit because of duty, leave or furlough may apply to a unit election officer of another unit, in accordance with section 211.2, to vote at that officer’s polling station.
+> 2000, c. 9, s. 218; 2018, c. 31, s. 149.
 
 
 
 
-**End of voting period — delivery of documents**
+
+**Delivery of documents to the commanding officer**
 
 **219** 
 
-- **(1)** At the end of the voting period, the deputy returning officer for a unit shall deliver to the unit’s commanding officer
-	- **(a)** the outer envelopes that contain the marked special ballots;
-	- **(b)** any unused or spoiled outer envelopes;
-	- **(c)** any unused or spoiled special ballots and unused inner envelopes; and
-	- **(d)** in a separate and clearly identified parcel, every statement of ordinary residence completed at the time of voting.
+- **(1)** The unit election officer shall deliver to the unit’s commanding officer,
+	- **(a)** at the end of each voting day, if feasible, and no later than the end of the voting period, the outer envelopes containing the marked special ballots, the applications for registration and special ballot that were accepted by the unit election officer and the service number of each elector who received a special ballot; and
+	- **(b)** at the end of the voting period, any spoiled outer envelopes, any spoiled special ballots and any other election documents and election materials in the unit election officer’s possession.
 
-**Duties of commanding officer**
+**Delivery of outer envelopes, etc.**
 
-- **(2)** On receipt of the documents referred to in subsection (1), the commanding officer shall
-	- **(a)** deal with the originals and copies of the statements of ordinary residence in accordance with this Division; and
-	- **(b)** deliver to the Chief Electoral Officer all other documents and election materials received from the deputy returning officers.
+- **(1.1)** On receipt of the outer envelopes and applications for registration and special ballot referred to in paragraph (1)(a), the commanding officer shall deliver them to the special voting rules administrator.
+
+**Provision of information**
+
+- **(1.2)** On receipt of the service numbers referred to in paragraph (1)(a), the commanding officer shall inform the special voting rules administrator, through the liaison officer, of the identity of the electors who received a special ballot.
+
+**Delivery of election documents and election materials**
+
+- **(2)** On receipt of the election documents and election materials referred to in paragraph (1)(b), the commanding officer shall deliver them to the special voting rules administrator with all other election documents and election materials in the commanding officer’s possession.
+> 2000, c. 9, s. 219; 2018, c. 31, s. 149.
+
+
+
+
+
+**Informing the returning officer**
+
+**219.1** 
+
+- **(1)** On being informed under subsection 219(1.2) that an elector has received a special ballot, the special voting rules administrator shall inform the returning officer for the electoral district of the elector’s place of ordinary residence of this.
+
+**Name on list of electors**
+
+- **(2)** When the returning officer is informed under subsection (1) that an elector has received a special ballot, he or she shall
+	- **(a)** if the elector’s name is not already included on a list of electors, enter the elector’s name on the list of electors for the appropriate polling division in that electoral district; and
+	- **(b)** indicate on the list of electors that the elector has received a special ballot.
+> 2018, c. 31, s. 149.
+
 
 
 
@@ -4783,16 +4978,28 @@ If the candidate, registered association and registered party do not, as a group
 
 **Definition of elector**
 
-**231** For the purpose of this Division, ***elector*** means an elector, other than a Canadian Forces elector or an incarcerated elector, who resides in Canada and who wishes to vote in accordance with this Division.
+**231** For the purpose of this Division, ***elector*** means an elector, other than an incarcerated elector, who resides in Canada and who wishes to vote in accordance with this Division.
+> 2000, c. 9, s. 231; 2018, c. 31, s. 157.
+
 
 
 
 
 **Conditions for voting by special ballot**
 
-**232** An elector may vote under this Division if his or her application for registration and special ballot is received after the issue of the writs and before 6:00 p.m. on the 6th day before polling day
-- **(a)** by a returning officer in an electoral district; or
-- **(b)** by the special voting rules administrator.
+**232** 
+
+- **(1)** An elector may vote under this Division if his or her application for registration and special ballot is received by a returning officer in an electoral district or by the special voting rules administrator after the issue of the writs but before 6:00 p.m. on the 6th day before polling day.
+
+**Conditions for voting by special ballot — specified later day**
+
+- **(2)** If, for the purpose of this subsection, the Chief Electoral Officer specifies on his or her Internet site a day that is after the 6th day before polling day but before polling day, an elector may vote under this Division if his or her application for registration and special ballot is received by the returning officer in the elector’s electoral district or by the special voting rules administrator after the issue of the writs but before 6:00 p.m. on the specified day.
+
+**Restriction**
+
+- **(3)** The Chief Electoral Officer may specify a day for the purpose of subsection (2) only if he or she considers that the integrity of the vote will not be affected if applications for registration and special ballots are received after 6:00 p.m. on the 6th day before polling day.
+> 2000, c. 9, s. 232; 2018, c. 31, s. 157.
+
 
 
 
@@ -4802,7 +5009,7 @@ If the candidate, registered association and registered party do not, as a group
 **233** 
 
 - **(1)** The application for registration and special ballot shall be in the prescribed form and shall include the following information:
-	- **(a)** the elector’s name and place of ordinary residence;
+	- **(a)** the elector’s name and the address of his or her place of ordinary residence;
 	- **(b)** the elector’s date of birth;
 	- **(c)** satisfactory proof of the elector’s identity and residence;
 	- **(d)** the elector’s mailing address; and
@@ -4810,30 +5017,19 @@ If the candidate, registered association and registered party do not, as a group
 
 **Electors in danger**
 
-- **(1.1)** An elector who would be under reasonable apprehension of bodily harm if he or she were to indicate the mailing address of his or her dwelling place for the purpose of paragraph (1)(d) may apply to the returning officer or special voting rules administrator to use another address for that purpose. The returning officer or special voting rules administrator, unless he or she considers that it would not be in the public interest to do so, shall grant the application and shall not reveal that other address except as required to send the special ballot to the elector. For greater certainty, the granting of the application does not change the elector’s place of ordinary residence for the purposes of this Act.
+- **(1.1)** An elector who would be under reasonable apprehension of bodily harm if he or she were to indicate the address of his or her place of ordinary residence or his or her mailing address for the purpose of paragraph (1)(a) or (d) may apply to the returning officer or special voting rules administrator to use another address for that purpose. The returning officer or special voting rules administrator, unless he or she considers that it would not be in the public interest to do so, shall grant the application and shall not reveal the addresses in respect of which the application is made except as required to send the special ballot to the elector. For greater certainty, the granting of the application does not change the elector’s place of ordinary residence for the purposes of this Act.
 
 **Optional information**
 
 - **(2)** In addition to the information specified in subsection (1), the Chief Electoral Officer may request that the elector provide other information that the Chief Electoral Officer considers necessary to implement agreements made under section 55, but the elector is not required to provide that information.
 
-**Information provided**
-
-- **(3)** An elector who makes an application for registration and special ballot shall indicate whether his or her name is already on a list of electors.
-> 2000, c. 9, s. 233; 2014, c. 12, s. 59.
+- **(3)** [Repealed, 2018, c. 31, s. 158]
+> 2000, c. 9, s. 233; 2014, c. 12, s. 59; 2018, c. 31, s. 158.
 
 
 
 
-
-**Name of elector previously included on list of electors**
-
-**234** 
-
-- **(1)** The special voting rules administrator shall inform the returning officer of any elector whose name is on a list of electors for the returning officer’s electoral district and who has received a special ballot from another electoral district. The returning officer shall indicate on the list of electors that the elector has received a special ballot.
-
-**Name of elector not previously included on list**
-
-- **(2)** If an elector’s name is not already included on a list of electors, the special voting rules administrator shall so inform the returning officer for the electoral district in which the elector is to vote by special ballot. The returning officer shall enter the elector’s name on the list of electors for the appropriate polling division in that electoral district and shall indicate that the elector has received a special ballot.
+**234** [Repealed, 2018, c. 31, s. 159]
 
 
 
@@ -4845,17 +5041,27 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Note on the list of electors**
+**List of electors**
 
-**236** If an elector applies for registration and special ballot in his or her electoral district, the returning officer shall, if necessary, add the elector’s name to the appropriate list of electors and shall indicate on the list that the elector has received a ballot in accordance with this Division.
+**236** Once an elector’s application for registration and special ballot has been accepted by the returning officer or special voting rules administrator, he or she shall ensure, in accordance with the Chief Election Officer’s instructions,
+- **(a)** that the elector’s name is entered on the list of electors for the polling division of the elector’s place of ordinary residence, if it is not already included on a list of electors; and
+- **(b)** that there is an indication on the list of electors that the elector has received a special ballot.
+> 2000, c. 9, s. 236; 2018, c. 31, s. 160.
+
 
 
 
 
 **Provision of ballot**
 
-**237** Subject to section 237.1, on acceptance of an elector’s application for registration and special ballot, the elector shall be given a special ballot, or, if section 241 applies, a ballot, an inner envelope and an outer envelope.
-> 2000, c. 9, s. 237; 2014, c. 12, s. 60.
+**237** 
+
+- **(1)** Subject to subsection (2) and section 237.1, on acceptance of an elector’s application for registration and special ballot, the elector shall be provided with a special ballot.
+
+**Provision of ballot and envelopes**
+
+- **(2)** If section 241 applies, then, on acceptance of an elector’s application for registration and special ballot, the elector shall be given a ballot, an inner envelope and an outer envelope.
+> 2000, c. 9, s. 237; 2014, c. 12, s. 60; 2018, c. 31, s. 160.
 
 
 
@@ -4878,23 +5084,21 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(3)** The candidate or representative may examine but not handle any piece of identification provided by the elector.
 
-**Prohibition — attesting to residence of more than one elector**
+- **(3.1)** [Repealed, 2018, c. 31, s. 161]
 
-- **(3.1)** No elector shall attest to the residence of more than one elector at an election.
-
-**Prohibition — attesting to residence (own residence attested to)**
-
-- **(3.2)** No elector whose own residence has been attested to at an election shall attest to another elector’s residence at that election.
+- **(3.2)** [Repealed, 2018, c. 31, s. 161]
 
 **Application of provisions**
 
 - **(4)** For the purposes of this section, the following provisions apply with any necessary modifications in respect of the location in the returning officer’s office where the elector receives his or her ballot or special ballot as though that location were a polling station:
 	- **(a)** sections 135 to 137;
-	- **(b)** sections 143 and 144;
+	- **(b)** sections 143 to 144;
 	- **(c)** subsection 164(1);
-	- **(d)** section 166; and
+	- **(d)** section 166;
+	- **(d.1)** subsections 281.6(1) to (4);
+	- **(d.2)** section 282.2; and
 	- **(e)** paragraph 489(3)(c).
-> 2014, c. 12, s. 60.
+> 2014, c. 12, s. 60; 2018, c. 31, s. 161.
 
 
 
@@ -4902,24 +5106,30 @@ If the candidate, registered association and registered party do not, as a group
 
 **Voting by special ballot**
 
-**238** An elector who has received a special ballot may vote in accordance with subsections 227(2) and (3).
+**238** An elector who has been provided with a special ballot may vote only by following the procedure set out in subsections 227(2) and (3).
+> 2000, c. 9, s. 238; 2018, c. 31, s. 162.
 
 
 
 
-**Sending to Chief Electoral Officer**
+
+**Receipt of special ballot — application made outside electoral district**
 
 **239** 
 
-- **(1)** An elector who does not vote in his or her electoral district shall send the sealed outer envelope to the special voting rules administrator
-	- **(a)** by mail or any other means; or
-	- **(b)** by delivering it to a Canadian Embassy, High Commission or Consular Office, to a Canadian Forces base outside Canada or to any place that the Chief Electoral Officer may designate.
+- **(1)** In order to have their special ballot counted, an elector whose application for registration and special ballot was accepted by the special voting rules administrator or by a returning officer outside the elector’s electoral district shall ensure that the special ballot is received by the special voting rules administrator in the National Capital Region no later than 6:00 p.m. on polling day. The special ballot shall be transmitted by
+	- **(a)** sending the sealed outer envelope to the special voting rules administrator by mail or any other means; or
+	- **(b)** delivering it to a Canadian Embassy, High Commission or Consular Office, to a Canadian Forces base outside Canada or to any other place that the Chief Electoral Officer designates.
 
-**Deadline for receipt**
+**Receipt of special ballot — application made in electoral district**
 
-- **(2)** In order to have the special ballot counted, an elector shall ensure that the ballot is received
-	- **(a)** if the special ballot is cast in the elector’s electoral district, at the office of the returning officer before the close of the polling stations on polling day; or
-	- **(b)** if the special ballot is cast outside the elector’s electoral district, at the office of the special voting rules administrator in Ottawa, not later than 6:00 p.m. on polling day.
+- **(2)** In order to have their special ballot counted, an elector whose application for registration and special ballot was accepted by the returning officer in the elector’s electoral district shall ensure that the ballot is received at the office of that returning officer before the close of the polling stations on polling day.
+
+**Vote counted**
+
+- **(3)** Despite subsection (2), a special ballot referred to in that subsection that is received by the special voting rules administrator in the National Capital Region no later than 6:00 p.m. on polling day shall be counted.
+> 2000, c. 9, s. 239; 2018, c. 31, s. 162.
+
 
 
 
@@ -4940,15 +5150,26 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
+**No marking**
+
+**241.1** If, under section 241, an elector is given a ballot that is not a special ballot, no marking shall be placed on the back of the ballot in the space otherwise indicated in Form 3 of Schedule 1 for a polling division number.
+> 2018, c. 31, s. 162.1.
+
+
+
+
+
 **Spoiled ballot**
 
 **242** 
 
-- **(1)** If an elector has inadvertently handled a ballot or a special ballot in such a manner that it cannot be used, the elector shall return it to the election officer who shall mark it as a spoiled ballot and give the elector another ballot.
+- **(1)** If the ballot or special ballot is incapable of being used, the elector shall return it to the election officer, who shall mark it as a spoiled ballot and give the elector another ballot or special ballot.
 
 **Limit**
 
-- **(2)** An elector shall not be given more than one ballot under subsection (1).
+- **(2)** An elector shall not be given more than one ballot or special ballot, as the case may be, under subsection (1).
+> 2000, c. 9, s. 242; 2018, c. 31, s. 163.
+
 
 
 
@@ -4958,13 +5179,35 @@ If the candidate, registered association and registered party do not, as a group
 **243** 
 
 - **(1)** When an elector personally goes to the office of the returning officer and is unable to read or because of a disability is unable to vote in the manner described in this Division, the designated election officer shall assist the elector by
-	- **(a)** completing the declaration on the outer envelope and writing the elector’s name where his or her signature is to be written; and
+	- **(a)** completing the declaration referred to in paragraph 227(2)(c) and writing the elector’s name where the elector’s signature is to be written; and
 	- **(b)** marking the ballot as directed by the elector in the elector’s presence.
 
-**Note on outer envelope**
+**Note on declaration**
 
-- **(2)** An election officer who assists an elector under subsection (1) shall indicate, by signing the note on the outer envelope, that the elector was assisted.
+- **(2)** An election officer who assists an elector under subsection (1) shall indicate, by signing the note on the declaration, that the elector was assisted.
 > 2000, c. 9, s. 243; 2018, c. 31, s. 164.
+
+
+
+
+
+**Assistance by friend or related person**
+
+**243.01** 
+
+- **(1)** If an elector requires assistance to vote, one of the following persons may accompany the elector into the voting compartment at the office of the returning officer and assist the elector to mark his or her ballot:
+	- **(a)** a friend of the elector;
+	- **(b)** the elector’s spouse or common-law partner; or
+	- **(c)** a relative of the elector or of the elector’s spouse or common-law partner.
+
+**Solemn declaration**
+
+- **(2)** A person described in subsection (1) who wishes to assist an elector in marking a ballot shall first make a solemn declaration in the prescribed form that he or she
+	- **(a)** will mark the ballot paper in the manner directed by the elector;
+	- **(b)** will not disclose the name of the candidate for whom the elector voted;
+	- **(c)** will not try to influence the elector in choosing a candidate; and
+	- **(d)** has not, during the current election, assisted another person, as a friend, to mark a ballot.
+> 2018, c. 31, s. 165.
 
 
 
@@ -4978,9 +5221,9 @@ If the candidate, registered association and registered party do not, as a group
 	- **(a)** completing the declaration referred to in paragraph 227(2)(c) and writing the elector’s name where the elector’s signature is to be written; and
 	- **(b)** marking the ballot as directed by the elector in the elector’s presence.
 
-**Note on outer envelope**
+**Note on declaration**
 
-- **(2)** The election officer and the witness who assist an elector under subsection (1) shall indicate, by signing the note on the outer envelope, that the elector was assisted.
+- **(2)** The election officer and the witness who assist an elector under subsection (1) shall indicate, by signing the note on the declaration, that the elector was assisted.
 > 2000, c. 9, s. 243.1; 2018, c. 31, s. 166.
 
 
@@ -4999,11 +5242,20 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
+**Non-application**
+
+**244.1** This Division does not apply to an elector who is incarcerated in a place designated under subsection 205(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+> 2018, c. 31, s. 167.
+
+
+
+
+
 **Entitlement to vote**
 
 **245** 
 
-- **(1)** Every person who is incarcerated and who is otherwise qualified to vote under this Act is entitled to vote under this Division on the 10th day before polling day.
+- **(1)** Every elector is entitled to vote under this Division on the 12th day before polling day.
 
 **Exercise of right to vote**
 
@@ -5012,13 +5264,17 @@ If the candidate, registered association and registered party do not, as a group
 **Vote to be in electoral district**
 
 - **(3)** An elector is entitled to vote under this Division only for a candidate in the electoral district in which his or her place of ordinary residence is situated as shown on the application for registration and special ballot made by the elector under section 251.
+> 2000, c. 9, s. 245; 2018, c. 31, s. 168.
+
 
 
 
 
 **Designation of coordinating officers**
 
-**246** The ministers responsible for corrections in the provinces shall each designate a person as a coordinating officer to work, during and between elections with the Chief Electoral Officer to carry out the purposes and provisions of this Division.
+**246** The federal and provincial ministers responsible for correctional institutions shall each designate a person as a coordinating officer to work, during and between elections, with the Chief Electoral Officer to carry out the purposes and provisions of this Division.
+> 2000, c. 9, s. 246; 2018, c. 31, s. 169.
+
 
 
 
@@ -5027,14 +5283,16 @@ If the candidate, registered association and registered party do not, as a group
 
 **247** 
 
-- **(1)** Without delay after the issue of the writs, the Chief Electoral Officer shall inform the minister responsible for corrections in a province of their issue and of the location of administrative centres.
+- **(1)** Without delay after the issue of the writs, the Chief Electoral Officer shall inform the federal and provincial ministers responsible for correctional institutions of their issue.
 
-**Designation of liaison officers**
+**Obligations of ministers**
 
-- **(2)** On being informed of the issue of the writs, each minister responsible for corrections in a province shall
-	- **(a)** inform the coordinating officer for that province of the issue of the writs;
+- **(2)** On being informed of the issue of the writs, each minister referred to in subsection (1) shall
+	- **(a)** inform their respective designated coordinating officer of their issue;
 	- **(b)** designate one or more persons to act as liaison officers in connection with the taking of the votes of electors; and
-	- **(c)** inform the Chief Electoral Officer and the coordinating officer for that province of the name and address of each liaison officer.
+	- **(c)** inform the Chief Electoral Officer and their respective designated coordinating officer of the name and address of each liaison officer.
+> 2000, c. 9, s. 247; 2018, c. 31, s. 170.
+
 
 
 
@@ -5047,7 +5305,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **Duty to cooperate**
 
-- **(2)** During the election period, a liaison officer shall cooperate with the Chief Electoral Officer in the administration of the registration and the taking of the votes of electors.
+- **(2)** During the election period, a liaison officer shall cooperate with the Chief Electoral Officer in the administration of the registration and the taking of the votes of electors, including by informing the Chief Electoral Officer of the identity of the electors who received a special ballot.
+> 2000, c. 9, s. 248; 2018, c. 31, s. 171.
+
 
 
 
@@ -5067,7 +5327,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **Voting hours**
 
-- **(2)** The polling stations shall be open on the 10th day before polling day from 9:00 a.m. and shall be kept open until every elector who is registered under subsection 251(1) has voted, but in no case shall they be kept open later than 8:00 p.m. on that day.
+- **(2)** The polling stations shall be open on the 12th day before polling day from 9:00 a.m. and shall be kept open until every elector who is registered under subsection 251(1) has voted, but in no case shall they be kept open later than 8:00 p.m. on that day.
+> 2000, c. 9, s. 250; 2018, c. 31, s. 172.
+
 
 
 
@@ -5076,7 +5338,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **251** 
 
-- **(1)** Before the 10th day before polling day, each liaison officer shall ensure that an application for registration and special ballot in the prescribed form is completed for every eligible elector of the correctional institution who wishes to vote, indicating his or her place of ordinary residence as determined under subsection (2).
+- **(1)** Before the 12th day before polling day, each liaison officer shall ensure that an application for registration and special ballot in the prescribed form is completed for every eligible elector of the correctional institution who wishes to vote, indicating his or her place of ordinary residence as determined under subsection (2).
 
 **Residence of elector**
 
@@ -5097,7 +5359,7 @@ If the candidate, registered association and registered party do not, as a group
 **Dispute about electoral district**
 
 - **(5)** If a dispute arises as to in which electoral district an elector may vote, the elector may refer the matter to the returning officer for the electoral district where the correctional institution is located, and the returning officer shall make a final determination in accordance with the process for revising lists of electors.
-> 2000, c. 9, s. 251, c. 12, s. 40.
+> 2000, c. 9, s. 251, c. 12, s. 40; 2018, c. 31, s. 173.
 
 
 
@@ -5110,26 +5372,30 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Appointment of deputy returning officers and poll clerks**
+**Polling stations and election officers**
 
 **253** 
 
-- **(1)** Before the 18th day before polling day, each returning officer shall, for each correctional institution in his or her electoral district, in consultation with the liaison officer for the institution, establish one or more polling stations and appoint a deputy returning officer and a poll clerk for each polling station.
+- **(1)** Before the 18th day before polling day, each returning officer shall, for each correctional institution in his or her electoral district, in consultation with the liaison officer for the institution, establish one or more polling stations and assign at least two election officers to each polling station.
 
 **Provision of election materials**
 
 - **(2)** A liaison officer shall, on receiving the election materials and list of candidates,
-	- **(a)** provide the materials in sufficient quantities to the deputy returning officers appointed under subsection (1) for the correctional institution; and
+	- **(a)** provide, as necessary, the materials to the election officers who are assigned under subsection (1) to a polling station for the correctional institution; and
 	- **(b)** post the list of candidates in one or more conspicuous places in the correctional institution.
+> 2000, c. 9, s. 253; 2018, c. 31, s. 174.
 
 
 
 
-**Duties of deputy returning officer**
 
-**254** On the day on which the electors cast their ballots, the deputy returning officer shall, at each polling station,
+**Duties of election officer**
+
+**254** On the day on which the electors cast their ballots, at each polling station an election officer who is assigned to the polling station shall
 - **(a)** post two or more copies of the voting instructions, in the prescribed form, in conspicuous places; and
 - **(b)** keep readily available for consultation by electors a copy of this Part, a set of street indexes, a guide to electoral districts and a list of candidates.
+> 2000, c. 9, s. 254; 2018, c. 31, s. 175.
+
 
 
 
@@ -5149,7 +5415,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **Representative of registered party**
 
-**256** With the prior authorization of correctional authorities, a Canadian citizen may represent a registered party during the taking of the votes at a correctional institution, if he or she provides the deputy returning officer with an authorization, in the prescribed form, signed by a candidate for that party.
+**256** With the prior authorization of correctional authorities, a Canadian citizen may represent a registered party during the taking of the votes at a correctional institution if he or she provides an election officer who is assigned to a polling station at the correctional institution with an authorization in the prescribed form signed by a candidate for that party, or a copy of one.
+> 2000, c. 9, s. 256; 2018, c. 31, s. 176.
+
 
 
 
@@ -5158,13 +5426,15 @@ If the candidate, registered association and registered party do not, as a group
 
 **257** 
 
-- **(1)** Before delivering a special ballot to an elector, the deputy returning officer for a correctional institution shall require the elector to complete an application for registration and special ballot, if the elector has not already done so, and to make and sign the declaration on the outer envelope.
+- **(1)** Before delivering a special ballot to an elector, an election officer who is assigned to a polling station at a correctional institution shall require the elector to complete an application for registration and special ballot, if the elector has not already done so, and to sign the declaration on the outer envelope.
 
 **Giving special ballot to elector**
 
-- **(2)** After the elector has signed the declaration on the outer envelope, the deputy returning officer shall
+- **(2)** After the elector has signed the declaration on the outer envelope, the election officer shall
 	- **(a)** sign the outer envelope; and
 	- **(b)** give the elector a special ballot, an inner envelope and the outer envelope.
+> 2000, c. 9, s. 257; 2018, c. 31, s. 177.
+
 
 
 
@@ -5173,7 +5443,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **258** 
 
-- **(1)** The elector shall vote by writing on the special ballot the name of the candidate of his or her choice, folding the special ballot and, in the presence of the deputy returning officer,
+- **(1)** The elector shall vote by writing on the special ballot the name of the candidate of his or her choice, folding it and, in the presence of the election officer,
 	- **(a)** placing the ballot in the inner envelope and sealing the envelope; and
 	- **(b)** placing the inner envelope in the outer envelope and sealing the outer envelope.
 
@@ -5183,11 +5453,13 @@ If the candidate, registered association and registered party do not, as a group
 
 **Spoiled special ballot**
 
-- **(3)** If an elector has inadvertently handled a special ballot in such a manner that it cannot be used, the elector shall return it to the deputy returning officer who shall mark it as a spoiled ballot and give the elector another special ballot.
+- **(3)** If the special ballot is incapable of being used, the elector shall return it to the election officer, who shall mark it as a spoiled ballot and give the elector another special ballot.
 
 **Limit**
 
 - **(4)** An elector shall not be given more than one special ballot under subsection (3).
+> 2000, c. 9, s. 258; 2018, c. 31, s. 178.
+
 
 
 
@@ -5211,18 +5483,22 @@ If the candidate, registered association and registered party do not, as a group
 
 **Delivery of documents after the vote**
 
-**260** Without delay after the votes have been cast at a correctional institution, the deputy returning officer shall deliver to the liaison officer for the institution
+**260** Without delay after the votes have been cast at a correctional institution, an election officer who is assigned to the polling station shall deliver to the liaison officer for the institution
 - **(a)** the outer envelopes that contain the marked special ballots;
 - **(b)** any unused or spoiled outer envelopes;
 - **(c)** any unused or spoiled special ballots and unused inner envelopes; and
 - **(d)** the applications for registration and special ballot.
+> 2000, c. 9, s. 260; 2018, c. 31, s. 180.
+
 
 
 
 
 **Deadline for return of election material**
 
-**261** Every liaison officer shall ensure that the election material referred to in section 260 is received by the special voting rules administrator in Ottawa no later than 6:00 p.m. on polling day.
+**261** Every liaison officer shall ensure that the election material referred to in section 260 is received by the special voting rules administrator in the National Capital Region no later than 6:00 p.m. on polling day.
+> 2000, c. 9, s. 261; 2018, c. 31, s. 181.
+
 
 
 
@@ -5273,31 +5549,39 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Setting aside of outer envelope**
+**Setting aside of inner envelope**
 
 **267** 
 
-- **(1)** The special ballot officers shall set aside an outer envelope unopened when they ascertain on its examination that
-	- **(a)** the information concerning the elector, as described on the outer envelope, does not correspond with the information on the application for registration and special ballot;
-	- **(b)** the envelope, other than an envelope in respect of an elector who has taken a vote under section 216, 243 or 259, does not bear the signature of an elector;
-	- **(c)** the correct electoral district of the elector whose ballot is contained in the outer envelope cannot be ascertained;
+- **(1)** The special ballot officers shall set aside an inner envelope unopened if
+	- **(a)** the information concerning the elector, as set out in the declaration referred to in paragraph 227(2)(c) or subsection 257(1), does not correspond with the information on the application for registration and special ballot;
+	- **(b)** a declaration referred to in paragraph (a) or in section 212 — other than one in respect of an elector who has voted with assistance under section 216, 243 or 259 — does not bear the elector’s signature;
+	- **(c)** the correct electoral district of the elector whose ballot is contained in the inner envelope cannot be ascertained;
 	- **(d)** the outer envelope has been received by the special voting rules administrator in the National Capital Region after 6:00 p.m. on polling day; or
 	- **(e)** the outer envelope relates to an electoral district for which the election was postponed in accordance with section 77.
 
 **Procedure when elector votes more than once**
 
-- **(2)** If, after receiving but before counting the outer envelopes, the special ballot officers ascertain that an elector has voted more than once, they shall lay the outer envelopes that relate to the elector aside unopened.
+- **(2)** If, after receiving an elector’s outer envelope but before counting the inner envelopes, the special ballot officers ascertain that the elector has voted more than once, they shall set the elector’s inner envelope aside unopened.
 
-**Disposition of outer envelopes that are laid aside**
+**Disposition of inner envelopes that are set aside**
 
-- **(3)** When an outer envelope is laid aside unopened as described in subsection (1) or (2),
-	- **(a)** the outer envelope shall be endorsed by the special voting rules administrator with the reason why it has been laid aside;
+- **(3)** When an inner envelope is set aside unopened as described in subsection (1) or (2),
+	- **(a)** it shall be endorsed by the special voting rules administrator with the reason why it has been set aside;
 	- **(b)** at least two special ballot officers shall initial the endorsement; and
-	- **(c)** in the case of an outer envelope laid aside under subsection (1), the ballot contained in it is deemed to be a spoiled ballot.
+	- **(c)** in the case of an inner envelope set aside under subsection (1), the ballot contained in it is deemed to be a spoiled ballot.
+
+**Envelopes and declarations kept together**
+
+- **(3.1)** When an inner envelope is set aside unopened as described in this section, it shall be kept with the outer envelope and — if it did not appear on the outer envelope — the declaration.
+
+**Dispute**
+
+- **(3.2)** If a dispute arises regarding the setting aside of inner envelopes, it shall be referred to the special voting rules administrator, whose decision is final.
 
 **Special report**
 
-- **(4)** The special voting rules administrator shall prepare a report in respect of the number of outer envelopes that are laid aside under this Division.
+- **(4)** The special voting rules administrator shall prepare a report in respect of the number of inner envelopes that are set aside under this Division.
 > 2000, c. 9, s. 267; 2018, c. 31, s. 182.
 
 
@@ -5368,9 +5652,11 @@ If the candidate, registered association and registered party do not, as a group
 
 **272** As soon as practicable after the counting of the votes for every electoral district has been completed, the special voting rules administrator shall send to the Chief Electoral Officer, in separate envelopes,
 - **(a)** the lists of electors;
-- **(b)** all other documents and election materials received from commanding officers, deputy returning officers and special ballot officers;
-- **(c)** the oaths of office; and
+- **(b)** all other documents and election materials received from commanding officers and election officers;
+- **(c)** the solemn declarations made under subsection 23(1); and
 - **(d)** the complete files of correspondence, reports and records in his or her possession.
+> 2000, c. 9, s. 272; 2018, c. 31, s. 183.
+
 
 
 
@@ -5380,30 +5666,20 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Appointment of deputy returning officer and poll clerk**
-
-**273** 
-
-- **(1)** The returning officer shall appoint a deputy returning officer and poll clerk to verify the outer envelopes and to count the special ballots issued to electors in his or her electoral district and received in his or her office. More than one deputy returning officer and poll clerk may be appointed if the number of votes warrants it.
-
-**Assignment of duties**
-
-- **(2)** The returning officer shall assign duties so that a deputy returning officer chosen from among the persons recommended by the registered party whose candidate finished first in the last election in the electoral district works with a poll clerk chosen from among the persons recommended by the registered party whose candidate finished second in that election in that electoral district.
-
-**Merger of parties**
-
-- **(3)** For the purpose of subsection (2), in determining whether the candidate of a registered party finished first or second in the last election in a case where the registered party is the result of a merger with one or more parties that were registered parties at the last election, there shall be attributed to the candidate of the merged party, the number of votes of the candidate of the merging party with the largest number of votes at that last election.
-
 **Notification to candidates**
 
-- **(4)** The returning officer shall, as soon as possible, notify the candidates of the name and address of the persons appointed as the deputy returning officer and the poll clerk.
+**273** The returning officer shall, as soon as possible, notify the candidates of the names of the election officers who he or she assigns to verify the declarations referred to in paragraph 227(2)(c) and to count the special ballots issued to electors in his or her electoral district and received at his or her office.
+> 2000, c. 9, s. 273; 2018, c. 31, s. 184.
+
 
 
 
 
 **Candidate present at counting**
 
-**274** A candidate or his or her representative may be present for the verification of the outer envelopes and the counting of ballots received at the office of the returning officer.
+**274** A candidate or his or her representative may be present for the verification of the declarations referred to in paragraph 227(2)(c) and the counting of ballots received at the returning officer’s office.
+> 2000, c. 9, s. 274; 2018, c. 31, s. 184.
+
 
 
 
@@ -5412,68 +5688,78 @@ If the candidate, registered association and registered party do not, as a group
 
 **275** 
 
-- **(1)** The returning officer shall ensure that the ballots received at his or her office are kept sealed until they are given to the deputy returning officer.
+- **(1)** The returning officer shall ensure that the ballots received at his or her office are kept sealed until they are given to an election officer referred to in section 273.
 
 **Return outer envelopes**
 
 - **(2)** All outer envelopes received after the prescribed deadline shall be kept separate and sealed and shall be initialled by the returning officer and marked with the date and time of their receipt.
+> 2000, c. 9, s. 275; 2018, c. 31, s. 185.
 
 
 
 
-**Verification of envelopes**
+
+**Verification of declarations**
 
 **276** 
 
-- **(1)** A deputy returning officer and a poll clerk shall verify the outer envelopes, at the time fixed by the Chief Electoral Officer and in accordance with his or her instructions, by determining from the information on the outer envelope whether the elector is entitled to vote in the electoral district.
+- **(1)** The election officers referred to in section 273 shall verify the declarations made under paragraph 227(2)(c), at the time fixed by the Chief Electoral Officer and in accordance with his or her instructions, by determining from the information in the declaration whether the elector is entitled to vote in the electoral district.
 
 **Notice**
 
 - **(2)** The returning officer shall notify the candidates of the time and place of the verification.
 
-**Provision of materials to deputy returning officer**
+**Provision of materials to election officer**
 
-- **(3)** The deputy returning officer shall be provided with the applications for registration and special ballot received before the deadline, along with any other materials that may be required.
+- **(3)** One of the election officers shall be provided with the applications for registration and special ballot received before the deadline, along with any other materials that may be required.
+> 2000, c. 9, s. 276; 2018, c. 31, s. 186.
 
 
 
 
-**Setting aside of outer envelope**
+
+**Setting aside of inner envelope**
 
 **277** 
 
-- **(1)** The deputy returning officer shall set aside an outer envelope unopened when he or she ascertains on its examination that
-	- **(a)** the information concerning the elector, as described on the outer envelope, does not correspond with the information on the application for registration and special ballot;
-	- **(b)** the outer envelope, other than an outer envelope in respect of an elector who has taken a vote under section 243 or 243.1, does not bear the signature of an elector;
-	- **(c)** more than one ballot has been issued to an elector; or
+- **(1)** An election officer referred to in section 273 shall set aside an elector’s inner envelope unopened if
+	- **(a)** the information concerning the elector, as set out in the elector’s declaration made under paragraph 227(2)(c), does not correspond with the information on the application for registration and special ballot;
+	- **(b)** the declaration — other than one in respect of an elector who has voted with assistance under section 243 or 243.1 — does not bear the elector’s signature;
+	- **(c)** the elector has voted more than once; or
 	- **(d)** the outer envelope was received after the prescribed deadline.
 
 **Registering objections**
 
-- **(2)** When the outer envelopes are verified, the poll clerk shall register any objection to an elector’s right to vote in the electoral district in the prescribed form.
+- **(2)** When the declarations are verified, an election officer referred to in section 273 shall register any objection to an elector’s right to vote in the electoral district in the prescribed form.
 
 **Noting of reasons for setting aside**
 
-- **(3)** When an outer envelope is set aside unopened as described in subsection (1), the deputy returning officer shall note on it the reasons for the rejection. The deputy returning officer and the poll clerk shall initial the envelope.
-> 2000, c. 9, s. 277; 2018, c. 31, s. 187(F).
+- **(3)** When an elector’s inner envelope is set aside unopened as described in subsection (1), the election officer who set it aside shall note on it the reasons for the setting aside. The election officer and another election officer referred to in section 273 shall both initial the envelope.
+
+**Envelopes and declarations kept together**
+
+- **(4)** When an elector’s inner envelope is set aside unopened as described in this section, it shall be kept with the outer envelope and — if it did not appear on the outer envelope — the declaration.
+> 2000, c. 9, s. 277; 2018, c. 31, s. 187.
 
 
 
 
 
-**Counting of outer envelopes**
+**Counting of inner envelopes**
 
 **278** 
 
-- **(1)** The deputy returning officer and the poll clerk shall count all valid outer envelopes.
+- **(1)** The election officers referred to in section 273 shall count all inner envelopes that have not been set aside.
 
 **Inner envelopes**
 
-- **(2)** The deputy returning officer and the poll clerk shall open the outer envelopes and put all the inner envelopes in a ballot box provided by the returning officer.
+- **(2)** They shall put all the inner envelopes that have not been set aside in a ballot box provided by the returning officer.
 
 **Counting the votes**
 
-- **(3)** After the close of the polling stations, the deputy returning officer shall open the ballot box and he or she together with the poll clerk shall open the inner envelopes and count the votes.
+- **(3)** After the close of the polling stations, one of the election officers shall open the ballot box and, together with another of the election officers, shall open the inner envelopes and count the votes.
+> 2000, c. 9, s. 278; 2018, c. 31, s. 188.
+
 
 
 
@@ -5482,7 +5768,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **279** 
 
-- **(1)** The deputy returning officer shall, in counting the ballots, reject a ballot if
+- **(1)** An election officer shall, in counting the ballots, reject a ballot if
 	- **(a)** it has not been supplied for the election;
 	- **(b)** it is not marked;
 	- **(c)** it is marked with a name other than the name of a candidate;
@@ -5491,12 +5777,12 @@ If the candidate, registered association and registered party do not, as a group
 
 **Elector’s intent**
 
-- **(2)** The deputy returning officer shall not reject a special ballot for the sole reason that the elector has incorrectly written the name of a candidate, if the ballot clearly indicates the elector’s intent.
+- **(2)** An election officer shall not reject a special ballot for the sole reason that the elector has incorrectly written the name of a candidate, if the ballot clearly indicates the elector’s intent.
 
 **Political affiliation**
 
-- **(3)** The deputy returning officer shall not reject a special ballot for the sole reason that the elector has written, in addition to the name of a candidate, the candidate’s political affiliation, if the ballot clearly indicates the elector’s intent.
-> 2000, c. 9, s. 279; 2001, c. 21, s. 15.
+- **(3)** An election officer shall not reject a special ballot for the sole reason that the elector has written, in addition to the name of a candidate, the candidate’s political affiliation, if the ballot clearly indicates the elector’s intent.
+> 2000, c. 9, s. 279; 2001, c. 21, s. 15; 2018, c. 31, s. 189.
 
 
 
@@ -5520,31 +5806,304 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**DIVISION 9** 
-### Prohibitions
+**PART 11.1** 
+## Prohibitions in Relation to Voting
 
 
 
-**Prohibitions — inside or outside Canada**
+**Application**
 
-**281** No person shall, inside or outside Canada,
-- **(a)** wilfully disclose information as to how a ballot or special ballot has been marked by an elector;
-- **(b)** wilfully interfere with, or attempt to interfere with, an elector when marking a ballot or special ballot, or otherwise attempt to obtain any information as to the candidate for whom any elector is about to vote or has voted;
-- **(c)** knowingly make a false statement in an application for registration and special ballot;
-- **(d)** knowingly apply for a ballot or special ballot to which that person is not entitled;
-- **(e)** knowingly make a false statement in a declaration signed by him or her before a deputy returning officer;
-- **(f)** knowingly make a false declaration in the statement of ordinary residence completed by him or her;
-- **(g)** wilfully prevent or endeavour to prevent an elector from voting at an election; or
-- **(h)** wilfully at the counting of the votes, attempt to obtain information or communicate information obtained at the counting as to the candidate for whom a vote is given in a particular ballot or special ballot.
+**281** The provisions of this Part apply inside and outside Canada.
+> 2000, c. 9, s. 281; 2018, c. 31, s. 190.
 
 
 
 
-**Prohibitions — outside Canada**
 
-**282** No person shall, outside Canada,
-- **(a)** by intimidation or duress, compel a person to vote or refrain from voting or vote or refrain from voting for a particular candidate at an election under this Part; or
-- **(b)** by any pretence or contrivance, including by representing that the ballot or the manner of voting at an election is not secret, induce a person to vote or refrain from voting or vote or refrain from voting for a particular candidate at an election under this Part.
+**Chief Electoral Officer**
+
+**281.1** The Chief Electoral Officer shall not vote at an election.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Inducing Chief Electoral Officer to vote**
+
+**281.2** No person shall induce or attempt to induce the Chief Electoral Officer to vote at an election knowing that it is the Chief Electoral Officer whom he or she is inducing or attempting to induce to vote and that the Chief Electoral Officer is prohibited from voting.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Not qualified as elector**
+
+**281.3** No person shall
+- **(a)** vote or attempt to vote at an election knowing that he or she
+	- **(i)** is not a Canadian citizen when he or she votes, or
+	- **(ii)** is not 18 years of age or older — or will not be 18 years of age or older — on polling day; or
+- **(b)** induce or attempt to induce another person to vote at an election knowing that the other person
+	- **(i)** is not a Canadian citizen — or will not be a Canadian citizen — when he or she votes, or
+	- **(ii)** is not 18 years of age or older — or will not be 18 years of age or older — on polling day.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Not ordinarily resident in electoral district**
+
+**281.4** No person shall
+- **(a)** vote or attempt to vote at an election in a particular electoral district knowing that his or her place of ordinary residence is not in that electoral district; or
+- **(b)** induce or attempt to induce another person to vote at an election in a particular electoral district knowing that the other person’s place of ordinary residence is not in that electoral district.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Voting more than once — general election**
+
+**281.5** 
+
+- **(1)** No person who has voted in a general election shall vote again, or attempt to vote again, in that general election.
+
+**Voting more than once — by-election**
+
+- **(2)** No person who has voted in a by-election shall vote again, or attempt to vote again, at that by-election or at any other by-election that is held on the same day.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Secrecy of the vote**
+
+**281.6** 
+
+- **(1)** Every person present at a polling station or at the counting of the votes shall maintain the secrecy of the vote.
+
+**Attempting to obtain information about elector’s vote**
+
+- **(2)** Except as provided by this Act, no person shall, in a polling station, attempt to obtain any information as to the candidate for whom any elector is about to vote or has voted.
+
+**Secrecy at the poll**
+
+- **(3)** Except as provided by this Act, no person shall
+	- **(a)** on entering the polling station and before receiving a ballot or special ballot, openly declare for whom he or she intends to vote;
+	- **(b)** while in the polling station, show his or her ballot or special ballot, when marked, so as to allow the name of the candidate for whom he or she has voted to be seen; or
+	- **(c)** before leaving the polling station, openly declare for whom he or she has voted.
+
+**Secrecy — marked ballot**
+
+- **(4)** No person who has seen a ballot or special ballot that has been marked by an elector shall disclose information as to how it was marked unless he or she is the elector who marked it or he or she has been authorized to make the disclosure by the elector who marked it.
+
+**Secrecy — counting of the votes**
+
+- **(5)** No person shall, at the counting of the votes, attempt to obtain information or communicate information obtained at the counting as to the candidate for whom a vote is given in a particular ballot or special ballot.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Ballots**
+
+**281.7** 
+
+- **(1)** No person shall
+	- **(a)** request or apply for a ballot or special ballot in a name that is not his or her own;
+	- **(b)** vote using a forged ballot or forged special ballot;
+	- **(c)** request or apply for a ballot or special ballot to which he or she is not entitled;
+	- **(d)** provide a ballot or special ballot to any person when not authorized under this Act to do so;
+	- **(e)** have a ballot or special ballot in his or her possession when not authorized under this Act to do so;
+	- **(f)** alter, deface or destroy a ballot, the initials of the election officer that are signed on a ballot or the number of the polling division or advance polling district that is marked on a ballot;
+	- **(g)** put or cause to be put into a ballot box a ballot, special ballot or other paper otherwise than as provided by this Act or by instructions of the Chief Electoral Officer;
+	- **(h)** take a ballot out of the polling station or the office of the returning officer otherwise than as provided by this Act or by instructions of the Chief Electoral Officer; or
+	- **(i)** destroy, take, open or otherwise interfere with a ballot box or book or packet of ballots or special ballots otherwise than as provided by this Act or by instructions of the Chief Electoral Officer.
+
+**Ballots — election officer**
+
+- **(2)** No election officer shall
+	- **(a)** with the intent of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast, put his or her initials on the back of any paper purporting to be or capable of being used as a ballot at an election; or
+	- **(b)** place on a ballot or special ballot any writing, number or mark with intent that the elector to whom the ballot or special ballot is to be given, or has been given, can be identified.
+
+**Special ballots — unit election officer**
+
+- **(3)** No unit election officer shall place on a special ballot any writing, number or mark with intent that the elector to whom the special ballot is to be given, or has been given, can be identified.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Photograph, video or copy of marked ballot**
+
+**281.8** 
+
+- **(1)** No person shall
+	- **(a)** take a photograph or make a video recording of a ballot or special ballot that has been marked, at an election, by an elector;
+	- **(b)** make a copy, in any manner, of any ballot or special ballot that has been marked, at an election, by an elector; or
+	- **(c)** distribute or show, in any manner, to one or more persons, a photograph, video recording or copy of a ballot or special ballot that has been marked, at an election, by an elector.
+
+**Exception — persons with visual impairment**
+
+- **(2)** Subsection (1) does not apply to any person with a visual impairment who takes a photograph or makes a video recording or copy of a ballot or special ballot that he or she has marked for the purpose of verifying the accuracy of their marking.
+
+**Exception — legal proceedings**
+
+- **(3)** Subsection (1) does not apply to a person who does anything referred to in that subsection for the purpose of a recount under Part 14 or for the purpose of any other legal proceeding.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**False statement**
+
+**281.9** No person shall
+- **(a)** make a false statement in an application for registration and special ballot; or
+- **(b)** make a false statement in a declaration signed by him or her before an election officer or unit election officer.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Person who assists elector — limit**
+
+**282** 
+
+- **(1)** At an election, no person shall, as a friend, assist under section 155 or 243.01, more than one elector for the purpose of marking a ballot.
+
+**Person who assists elector — secrecy**
+
+- **(2)** No person who assists an elector under section 155 or 243.01 shall, directly or indirectly, disclose the name of the candidate for whom the elector voted or that candidate’s political affiliation.
+> 2000, c. 9, s. 282; 2018, c. 31, s. 190.
+
+
+
+
+
+**Vouching for more than one person**
+
+**282.1** 
+
+- **(1)** No person shall vouch for more than one person at an election, except in the cases referred to in subsections 143(3.01), 161(2) and 169(2.01).
+
+**Voucher not qualified as elector, etc.**
+
+- **(2)** No person shall vouch for another person if
+	- **(a)** the person who vouches is not qualified as an elector;
+	- **(b)** the person who vouches does not personally know the other person; or
+	- **(c)** the person who vouches does not reside in a polling division assigned to the same polling station as the polling division in which the other person resides or, in the cases referred to in subsections 143(3.01), 161(2) and 169(2.01), in a polling division in the other person’s electoral district or an adjacent electoral district.
+
+**Vouchee acting as voucher**
+
+- **(3)** No person who has been vouched for at an election shall vouch for another person at that election.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Influencing electors**
+
+**282.2** No person shall, in a polling station or in any place where voting at an election is taking place, influence or attempt to influence electors to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Influencing electors — election officers and staff of returning officers**
+
+**282.3** Subject to section 141, no election officer, unit election officer or member of the staff of a returning officer shall, while exercising their powers or performing their duties, influence or attempt to influence an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at an election.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Undue influence by foreigners**
+
+**282.4** 
+
+- **(1)** No person or entity referred to in any of paragraphs (a) to (e) shall, during an election period, unduly influence an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election:
+	- **(a)** an individual who is not a Canadian citizen or a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and who does not reside in Canada;
+	- **(b)** a corporation or entity incorporated, formed or otherwise organized outside Canada that does not carry on business in Canada or whose primary purpose in Canada during an election period is to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election;
+	- **(c)** a trade union that does not hold bargaining rights for employees in Canada;
+	- **(d)** a foreign political party; or
+	- **(e)** a foreign government or an agent or mandatary of a foreign government.
+
+**Meaning of unduly influencing**
+
+- **(2)** For the purposes of subsection (1), a person or entity unduly influences an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at an election if
+	- **(a)** they knowingly incur any expense to directly promote or oppose a candidate in that election, a registered party that has endorsed a candidate in that election or the leader of such a registered party;
+	- **(b)** one of the things done by them to influence the elector is an offence under an Act of Parliament or a regulation made under any such Act, or under an Act of the legislature of a province or a regulation made under any such Act.
+
+**Exceptions**
+
+- **(3)** For greater certainty, subsection (1) does not apply if the only thing done by the person or entity to influence the elector to vote or refrain from voting, or to vote or refrain from voting for the particular candidate or registered party, consists of
+	- **(a)** an expression of their opinion about the outcome or desired outcome of the election;
+	- **(b)** a statement by them that encourages the elector to vote or refrain from voting for any candidate or registered party in the election; or
+	- **(c)** the transmission to the public through broadcasting, or through electronic or print media, of an editorial, a debate, a speech, an interview, a column, a letter, a commentary or news, regardless of the expense incurred in doing so, if no contravention of subsection 330(1) or (2) is involved in the transmission.
+
+**Collusion**
+
+- **(4)** No person or entity shall act in collusion with a person or entity to whom subsection (1) applies for the purpose of contravening that subsection.
+
+**Selling advertising space**
+
+- **(5)** No person or entity shall sell any advertising space to a person or entity to whom subsection (1) applies for the purpose of enabling that person or entity to transmit an election advertising message or to cause an election advertising message to be transmitted.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Interfering with marking of ballot**
+
+**282.5** No person shall interfere with, or attempt to interfere with, an elector who is marking a ballot or special ballot.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Preventing elector from voting**
+
+**282.6** No person shall prevent or attempt to prevent an elector from voting at an election.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Offering bribe**
+
+**282.7** 
+
+- **(1)** No person shall, during an election period, directly or indirectly, offer a bribe to influence an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election.
+
+**Accepting bribe**
+
+- **(2)** No person shall, during an election period, accept or agree to accept a bribe that is offered to them to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election.
+> 2018, c. 31, s. 190.
+
+
+
+
+
+**Intimidation, etc.**
+
+**282.8** No person shall
+- **(a)** by intimidation or duress, compel or attempt to compel a person to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at an election; or
+- **(b)** by any pretence or contrivance, including by representing that the ballot or special ballot or the manner of voting at an election is not secret, influence or attempt to influence a person to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at an election.
+> 2018, c. 31, s. 190.
+
 
 
 
@@ -5562,22 +6121,24 @@ If the candidate, registered association and registered party do not, as a group
 
 **283** 
 
-- **(1)** Immediately after the close of a polling station, the deputy returning officer shall count the votes in the presence of the poll clerk, any person appointed under section 32.1 whose duties include being present at the count and any candidates or their representatives who are present or, if no candidates or representatives are present, at least two electors.
+- **(1)** Immediately after the close of a polling station, an election officer who is assigned to the polling station shall count the votes in the presence of
+	- **(a)** another election officer who is assigned to the polling station; and
+	- **(b)** any candidates or their representatives who are present or, if no candidates or representatives are present, at least two electors.
 
 **Tally sheets**
 
-- **(2)** The deputy returning officer shall supply the poll clerk and all the persons referred to in subsection (1) who are present and who so request with a tally sheet to keep their own score of the voting.
+- **(2)** One of those election officers shall supply all the persons referred to in paragraph (1)(b) who are present and who request one with a tally sheet to keep their own score of the voting.
 
 **Steps to follow**
 
-- **(3)** The deputy returning officer shall, in the following order,
-	- **(a)** count the number of electors who voted at the polling station, count the number of those to whom a certificate was given under subsection 161(4), make an entry at the end of the list of electors that states “The number of electors who voted at this election in this polling station is (*stating the number*). Of these, the number of electors to whom a certificate was given under subsection 161(4) is (*stating the number*).”, sign the list and place the list in the envelope supplied for that purpose;
+- **(3)** The election officer who counts the votes shall, in the following order,
+	- **(a)** count the number of electors who voted, count the number of those to whom a certificate was given under subsection 161(4), make an entry at the end of the list of electors that states “The number of electors who voted at this election is (*stating the number*). Of these, the number of electors to whom a certificate was given under subsection 161(4) is (*stating the number*).”, sign the list and place the list in the envelope supplied for that purpose;
 	- **(b)** count the spoiled ballots, place them in the envelope supplied for the purpose, indicate on the envelope the number of spoiled ballots, and seal it;
 	- **(c)** count the unused ballots that are not detached from the books of ballots, place them with the stubs of the used ballots in the envelope supplied for the purpose, indicate on the envelope the number of unused ballots, and seal it;
-	- **(d)** total the number of electors indicated under paragraph (a) who voted at the polling station and the numbers arrived at in paragraphs (b) and (c) in order to ascertain that all ballots that were provided by the returning officer are accounted for;
+	- **(d)** total the number of electors indicated under paragraph (a) who voted and the numbers arrived at in paragraphs (b) and (c) in order to ascertain that all ballots that were provided by the returning officer are accounted for;
 	- **(e)** open the ballot box and empty its contents onto a table; and
-	- **(f)** examine each ballot, show the ballot to each person who is present, and ask the poll clerk to make a note on the tally sheet beside the name of the candidate for whom the vote was cast for the purpose of arriving at the total number of votes cast for each candidate.
-> 2000, c. 9, s. 283; 2014, c. 12, s. 61.
+	- **(f)** examine each ballot, show the ballot to each person who is present, and ask the election officer referred to in paragraph (1)(a) to make a note on the tally sheet beside the name of the candidate for whom the vote was cast for the purpose of arriving at the total number of votes cast for each candidate.
+> 2000, c. 9, s. 283; 2014, c. 12, s. 61; 2018, c. 31, s. 191.
 
 
 
@@ -5587,7 +6148,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **284** 
 
-- **(1)** In examining the ballots, the deputy returning officer shall reject one
+- **(1)** In examining the ballots, the election officer who counts the votes shall reject one
 	- **(a)** that has not been supplied by him or her;
 	- **(b)** that has not been marked in a circle at the right of the candidates’ names;
 	- **(c)** that is void by virtue of section 76;
@@ -5596,20 +6157,22 @@ If the candidate, registered association and registered party do not, as a group
 
 **Limitation**
 
-- **(2)** No ballot shall be rejected by reason only that the deputy returning officer placed on it any writing, number or mark, or failed to remove the counterfoil.
+- **(2)** No ballot shall be rejected by reason only that an election officer placed on it any writing, number or mark, or failed to remove the counterfoil or to write the elector’s polling division number on the back of the ballot.
 
 **Counterfoils remaining attached**
 
-- **(3)** When a ballot is found with the counterfoil attached, the deputy returning officer shall, while concealing the number on it from all persons present and without examining it, remove and destroy the counterfoil.
+- **(3)** If a ballot is found with the counterfoil attached, the election officer who counts the votes shall, while concealing the number on it from all persons present and without examining it, remove and destroy the counterfoil.
+> 2000, c. 9, s. 284; 2018, c. 31, s. 192.
 
 
 
 
-**Ballots not initialled by deputy returning officer**
 
-**285** If the deputy returning officer determines that he or she has failed to initial a ballot, the deputy returning officer shall, in the presence of the poll clerk and witnesses, initial and count the ballot if he or she is satisfied that
-- **(a)** the ballot was supplied by him or her; and
-- **(b)** all ballots that were provided by the returning officer have been accounted for, as described in paragraph 283(3)(d).
+**Ballots not initialled by election officer**
+
+**285** If the election officer who counts the votes determines that a ballot has not been initialed by an election officer, he or she shall, in the presence of the election officer referred to in paragraph 283(1)(a) and witnesses, initial and count the ballot if satisfied that all ballots that were provided by the returning officer have been accounted for, as described in paragraph 283(3)(d).
+> 2000, c. 9, s. 285; 2018, c. 31, s. 193.
+
 
 
 
@@ -5618,24 +6181,28 @@ If the candidate, registered association and registered party do not, as a group
 
 **286** 
 
-- **(1)** The deputy returning officer shall keep a record, in the prescribed form, of every objection to a ballot made by a candidate or his or her representatives, give a number to the objection, write that number on the ballot and initial it.
+- **(1)** One of the election officers referred to in subsection 283(1) shall make a record, in the prescribed form, of every objection to a ballot made by a candidate or candidate’s representative, give a number to the objection, write that number on the ballot and initial it.
 
-**Decision of deputy returning officer**
+**Decision of election officer**
 
-- **(2)** The deputy returning officer shall decide every question that is raised by an objection described in subsection (1), and the decision is subject to reversal only on a recount or on application under subsection 524(1).
+- **(2)** Every question that is raised by the objection shall be decided by the election officer who counts the votes, and the decision is subject to reversal only on a recount or on application under subsection 524(1).
+> 2000, c. 9, s. 286; 2018, c. 31, s. 193.
 
 
 
 
-**Statement of the vote**
+
+**Statement of vote**
 
 **287** 
 
-- **(1)** The deputy returning officer shall prepare a statement of the vote, in the prescribed form, that sets out the number of votes in favour of each candidate and the number of rejected ballots and place the original statement and a copy of it in the separate envelopes supplied for the purpose.
+- **(1)** The election officer who counts the votes shall prepare a statement of the vote, in the prescribed form, that sets out the number of votes in favour of each candidate and the number of rejected ballots and shall place the original statement and a copy of it in the separate envelopes supplied for the purpose.
 
-**Copies of the statement of the vote**
+**Copies of statement of vote**
 
-- **(2)** The deputy returning officer shall give a copy of the statement of the vote to each of the candidate’s representatives present at the count.
+- **(2)** The election officer shall give a copy of the statement of the vote to each of the candidates’ representatives present at the count.
+> 2000, c. 9, s. 287; 2018, c. 31, s. 194.
+
 
 
 
@@ -5644,15 +6211,15 @@ If the candidate, registered association and registered party do not, as a group
 
 **288** 
 
-- **(1)** The deputy returning officer shall place the ballots for each candidate into separate envelopes, write on each envelope the name of the candidate and the number of votes he or she received, and seal it. The deputy returning officer and the poll clerk shall sign the seal on each envelope, and the witnesses may also sign them.
+- **(1)** One of the election officers referred to in subsection 283(1) shall place the ballots for each candidate into separate envelopes, write on each envelope the name of the candidate and the number of votes he or she received, and seal it. The election officers shall sign the seal on each envelope, and the witnesses may also sign them.
 
 **Rejected ballots**
 
-- **(2)** The deputy returning officer shall place into separate envelopes the rejected ballots, the registration certificates and the list of electors, and shall seal the envelopes.
+- **(2)** One of the election officers shall place into separate envelopes the rejected ballots, the registration certificates and the list of electors, and shall seal the envelopes.
 
-**Documents to be enclosed in a large envelope**
+**Documents enclosed in large envelope**
 
-- **(3)** The deputy returning officer shall seal in a large envelope supplied for the purpose
+- **(3)** One of the election officers shall seal in a large envelope supplied for the purpose
 	- **(a)** the envelopes that contain the marked ballots for the candidates, any spoiled ballots, unused ballots or rejected ballots, and the official list of electors; and
 	- **(b)** any other election documents, except for the envelopes that contain the statements of the vote and the registration certificates.
 
@@ -5662,15 +6229,17 @@ If the candidate, registered association and registered party do not, as a group
 
 **Sealing ballot box**
 
-- **(5)** The ballot box shall be sealed by the deputy returning officer with the seals provided by the Chief Electoral Officer.
+- **(5)** The ballot box shall be sealed with the seals provided by the Chief Electoral Officer.
+> 2000, c. 9, s. 288; 2018, c. 31, s. 195.
 
 
 
 
-**Oaths**
 
-**288.01** The deputy returning officer shall place the form for each oath taken under subsection 143(3) or paragraph 161(1)(b) or 169(2)(b) in an envelope supplied for the purpose.
-> 2014, c. 12, s. 62.
+**Solemn declarations**
+
+**288.01** One of the election officers referred to in subsection 283(1) shall place the form for each solemn declaration made under subsection 143(3) or paragraph 161(1)(b) or 169(2)(b) in an envelope supplied for the purpose.
+> 2014, c. 12, s. 62; 2018, c. 31, s. 196.
 
 
 
@@ -5678,8 +6247,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Periodic statements of electors who voted**
 
-**288.1** The deputy returning officer shall place a copy of each document prepared for the purpose of paragraph 162(i.1) in an envelope supplied for the purpose.
-> 2014, c. 12, s. 62.
+**288.1** One of the election officers referred to in subsection 283(1) shall place a copy of each document prepared for the purpose of paragraph 162(i.1) in an envelope supplied for the purpose.
+> 2014, c. 12, s. 62; 2018, c. 31, s. 196.
 
 
 
@@ -5693,18 +6262,26 @@ If the candidate, registered association and registered party do not, as a group
 
 **289** 
 
-- **(1)** The deputy returning officer of an advance poll shall, at the close of the polling stations on polling day, attend with the poll clerk at the place mentioned in the notice of advance poll in subparagraph 172(a)(iii) to count the votes.
+- **(1)** At least two election officers who are assigned to an advance polling station and who are specified in accordance with the Chief Electoral Officer’s instructions shall, at the close of the polling stations on polling day, attend at the place mentioned in the notice of advance poll in subparagraph 172(a)(iii) to count the votes.
 
 **Application of rules for counting votes**
 
 - **(2)** Subsections 283(1) and (2), paragraphs 283(3)(e) and (f) and sections 284 to 288 apply with any necessary modifications to the counting of the votes of an advance poll except that
-	- **(a)** for the application of paragraph 283(3)(e), the deputy returning officer shall open the ballot boxes and empty their contents onto a table; and
+	- **(a)** for the application of paragraph 283(3)(e), the two or more election officers who are specified in accordance with the Chief Electoral Officer’s instructions shall open the ballot boxes and empty their contents onto a table; and
 	- **(b)** for the application of subsection 288(4), the large envelope and the envelope that contains the copy of the statement of the vote shall be placed in the ballot box used on the last day of advance polling.
 
 **Prohibition**
 
-- **(3)** No person shall make a count of the votes cast at an advance poll before the close of the polling stations on polling day.
-> 2000, c. 9, s. 289; 2014, c. 12, s. 63.
+- **(3)** Subject to subsection (4), no person shall make a count of the votes cast at an advance poll before the close of voting hours on polling day.
+
+**Exception**
+
+- **(4)** The two or more election officers who are specified in accordance with the Chief Electoral Officer’s instructions may begin counting the votes cast at an advance poll one hour before the close of voting hours on polling day if
+	- **(a)** the returning officer who is responsible for the advance polling station has obtained the Chief Electoral Officer’s prior approval for the counting to begin;
+	- **(b)** the counting is done in accordance with the Chief Electoral Officer’s instructions;
+	- **(c)** the counting is done in a manner that ensures the integrity of the vote; and
+	- **(d)** the counting is done in the presence of any candidates or their representatives who are present or, if no candidates or representatives are present, at least two electors.
+> 2000, c. 9, s. 289; 2014, c. 12, s. 63; 2018, c. 31, s. 197.
 
 
 
@@ -5716,14 +6293,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Sending ballot boxes and envelopes to returning officer**
 
-**290** 
-
-- **(1)** The deputy returning officer for a polling station or an advance polling station shall, without delay after sealing the ballot box, send the box, with the envelope that contains the original statement of the vote, the envelope that contains the registration certificates, the envelope referred to in section 288.01 and, in the case of the deputy returning officer for a polling station, the envelope referred to in section 288.1 to the returning officer.
-
-**Collection of ballot boxes**
-
-- **(2)** A returning officer may appoint persons to collect ballot boxes together with the envelopes referred to in subsection (1) from polling stations, and any person so appointed shall take the prescribed oath when he or she sends those materials to the returning officer.
-> 2000, c. 9, s. 290; 2014, c. 12, s. 64.
+**290** An election officer who is assigned to a polling station or an advance polling station shall, without delay after sealing the ballot box, send to the returning officer the box, with the envelope that contains the original statement of the vote, the envelope that contains the registration certificates, the envelope referred to in section 288.01 and, in the case of an election officer who is assigned to a polling station, the envelope referred to in section 288.1.
+> 2000, c. 9, s. 290; 2014, c. 12, s. 64; 2018, c. 31, s. 198.
 
 
 
@@ -5749,10 +6320,10 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**List of oath-takers**
+**List of persons who made solemn declaration**
 
-**292.1** A returning officer, on the receipt of each envelope referred to in section 288.01, shall create a list of the names of all persons who took an oath under subsection 143(3) or paragraph 161(1)(b) or 169(2)(b) and shall include in the list the address of each of those persons.
-> 2014, c. 12, s. 66.
+**292.1** A returning officer, on the receipt of each envelope referred to in section 288.01, shall create a list of the names of all persons who made a solemn declaration under subsection 143(3) or paragraph 161(1)(b) or 169(2)(b) and shall include in the list the address of each of those persons.
+> 2014, c. 12, s. 66; 2018, c. 31, s. 199.
 
 
 
@@ -5818,8 +6389,8 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(2)** If the returning officer is unable to obtain either the original statement of the vote or the ballot box, he or she
 	- **(a)** shall ascertain, by any evidence that he or she is able to obtain, the total number of votes cast for each candidate at the polling stations;
-	- **(b)** for ascertaining the total number of votes under paragraph (a), may summon any deputy returning officer, poll clerk or other person to appear before him or her at a fixed date and time and to bring with them all necessary documents; and
-	- **(c)** may examine on oath the deputy returning officer, poll clerk or other person respecting the matter in question.
+	- **(b)** for ascertaining the total number of votes under paragraph (a), may summon any election officer or other person to appear before him or her at a fixed date and time and to bring with them all necessary documents; and
+	- **(c)** may question the election officer or other person respecting the matter in question and, if necessary, ask them to make a solemn declaration in respect of the matter.
 
 **Notice to candidates**
 
@@ -5828,6 +6399,8 @@ If the candidate, registered association and registered party do not, as a group
 **Obligation to comply with summons**
 
 - **(4)** Every person to whom a summons is directed under paragraph (2)(b) shall obey it.
+> 2000, c. 9, s. 296; 2018, c. 31, s. 200.
+
 
 
 
@@ -5909,7 +6482,7 @@ If the candidate, registered association and registered party do not, as a group
 **Grounds for recount**
 
 - **(2)** The judge shall fix a date for a recount if it appears, on the affidavit of a credible witness, that
-	- **(a)** a deputy returning officer has incorrectly counted or rejected any ballots, or has written an incorrect number on the statement of the vote for the votes cast for a candidate; or
+	- **(a)** an election officer has incorrectly counted or rejected any ballots, or has written an incorrect number on the statement of the vote for the votes cast for a candidate; or
 	- **(b)** the returning officer has incorrectly added up the results set out in the statements of the vote.
 
 **Deposit**
@@ -5948,7 +6521,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **304** 
 
-- **(1)** The judge shall conduct the recount by adding the number of votes reported in the statements of the vote or by counting the valid ballots or all of the ballots returned by the deputy returning officers or the Chief Electoral Officer.
+- **(1)** The judge shall conduct the recount by adding the number of votes reported in the statements of the vote or by counting the valid ballots or all of the ballots returned by election officers or the Chief Electoral Officer.
 
 **Documents that may be examined**
 
@@ -5956,7 +6529,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **Procedure for certain recounts**
 
-- **(3)** In the case of a recount conducted by counting the valid ballots or all of the ballots returned by the deputy returning officers or the Chief Electoral Officer, the procedure set out in Schedule 4 applies.
+- **(3)** In the case of a recount conducted by counting the valid ballots or all of the ballots returned by election officers or the Chief Electoral Officer, the procedure set out in Schedule 4 applies.
 
 **Powers of judge**
 
@@ -5964,12 +6537,12 @@ If the candidate, registered association and registered party do not, as a group
 
 **Additional powers of judge**
 
-- **(5)** For the purpose of conducting a recount, a judge has the power to summon any deputy returning officer or poll clerk as a witness and to require him or her to give evidence on oath and, for that purpose, has the same power that is vested in any court of record.
+- **(5)** For the purpose of conducting a recount, a judge has the power to summon any election officer as a witness and to require him or her to give evidence on oath and, for that purpose, has the same power that is vested in any court of record.
 
 **Clerical assistants**
 
 - **(6)** Subject to the approval of the Chief Electoral Officer, a judge may retain the services of support staff to assist in the performance of his or her duties under this Part.
-> 2000, c. 9, s. 304; 2014, c. 12, s. 69.
+> 2000, c. 9, s. 304; 2014, c. 12, s. 69; 2018, c. 31, s. 202.
 
 
 
@@ -6124,13 +6697,15 @@ If the candidate, registered association and registered party do not, as a group
 **314** 
 
 - **(1)** On completing the return of the writ, the returning officer shall without delay send to the Chief Electoral Officer all election documents in his or her possession together with
-	- **(a)** a report of the returning officer’s proceedings in the prescribed form including his or her comments with respect to the state of the election documents received from the deputy returning officers;
+	- **(a)** a report of the returning officer’s proceedings in the prescribed form including his or her comments with respect to the state of the election documents received from election officers;
 	- **(b)** a summary, in the prescribed form, of the number of votes cast for each candidate at each polling station; and
-	- **(c)** all other documents that were used at the election.
+	- **(c)** all other documents that were used at the election, including documents prepared under paragraph 162(i.1).
 
 **Report re: disappearance of ballot box, etc.**
 
 - **(2)** In any case arising under section 296, the returning officer shall mention specially in the report the circumstances accompanying the disappearance of the ballot boxes or the lack of any statement of the vote, and the mode by which the returning officer ascertained the number of votes cast for each candidate.
+> 2000, c. 9, s. 314; 2018, c. 31, s. 205.
+
 
 
 
@@ -6204,21 +6779,18 @@ If the candidate, registered association and registered party do not, as a group
 
 **319** The definitions in this section apply in this Part.
 
-***election advertising*** means the transmission to the public by any means during an election period of an advertising message that promotes or opposes a registered party or the election of a candidate, including one that takes a position on an issue with which a registered party or candidate is associated. For greater certainty, it does not include
-- **(a)** the transmission to the public of an editorial, a debate, a speech, an interview, a column, a letter, a commentary or news;
-- **(b)** the distribution of a book, or the promotion of the sale of a book, for no less than its commercial value, if the book was planned to be made available to the public regardless of whether there was to be an election;
-- **(c)** the transmission of a document directly by a person or a group to their members, employees or shareholders, as the case may be;
-- **(d)** the transmission by an individual, on a non-commercial basis on what is commonly known as the Internet, of his or her personal political views; or
-- **(e)** the making of telephone calls to electors only to encourage them to vote. (*publicité électorale*)
+***election advertising***[Repealed, 2018, c. 31, s. 206]
 
-***election survey*** means an opinion survey of how electors voted or will vote at an election or respecting an issue with which a registered party or candidate is associated. (*sondage électoral*)
+***election survey***[Repealed, 2018, c. 31, s. 206]
 
 ***network*** means a network as defined in subsection 2(1) of the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md), but does not include a temporary network operation as defined in that subsection. (*réseau*)
 
 ***network operator*** means a person or undertaking to which permission has been granted by the Canadian Radio-television and Telecommunications Commission to form and operate a network. (*exploitant de réseau*)
 
+***online platform*** includes an Internet site or Internet application whose owner or operator, in the course of their commercial activities, sells, directly or indirectly, advertising space on the site or application to persons or groups. (*plateforme en ligne*)
+
 ***prime time***, in the case of a radio station, means the time between the hours of 6 a.m. and 9 a.m., noon and 2 p.m. and 4 p.m. and 7 p.m., and, in the case of a television station, means the hours between 6 p.m. and midnight. (*heures de grande écoute*)
-> 2000, c. 9, s. 319; 2014, c. 12, s. 72.
+> 2000, c. 9, s. 319; 2014, c. 12, s. 72; 2018, c. 31, s. 206.
 
 
 
@@ -6297,7 +6869,66 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-### Election Opinion Surveys
+### Online Platforms
+
+
+
+**Online platforms that are subject to requirements**
+
+**325.1** 
+
+- **(1)** This section and section 325.2 apply to any online platform that, in the 12 months before the first day of the pre-election period, in the case of the publication on the platform of a partisan advertising message, or the 12 months before the first day of the election period, in the case of the publication on the platform of an election advertising message, was visited or used by Internet users in Canada an average of at least the following numbers of times per month:
+	- **(a)** 3,000,000 times, if the content of the online platform is available mainly in English;
+	- **(b)** 1,000,000 times, if the content of the online platform is available mainly in French; or
+	- **(c)** 100,000 times, if the content of the online platform is available mainly in a language other than English or French.
+
+**Registry of partisan advertising messages and election advertising messages**
+
+- **(2)** The owner or operator of an online platform that sells, directly or indirectly, advertising space to the following persons and groups shall publish on the platform a registry of the persons’ and groups’ partisan advertising messages and election advertising messages published on the platform during that period:
+	- **(a)** a registered party or eligible party;
+	- **(b)** a registered association;
+	- **(c)** a nomination contestant;
+	- **(d)** a potential candidate or a candidate; or
+	- **(e)** a third party that is required to register under subsection 349.6(1) or 353(1).
+
+**Information to be included in registry**
+
+- **(3)** The registry referred to in subsection (2) shall include the following:
+	- **(a)** an electronic copy of each partisan advertising message and each election advertising message published on the platform; and
+	- **(b)** for each advertising message referred to in paragraph (a), the name of the person who authorized the advertising message’s publication on the platform, namely
+		- **(i)** a registered agent of the registered party or eligible party, in the case of an advertising message whose publication was requested by a registered party or eligible party,
+		- **(ii)** the financial agent of the registered association, in the case of an advertising message whose publication was requested by a registered association,
+		- **(iii)** the financial agent of the nomination contestant, in the case of an advertising message whose publication was requested by a nomination contestant,
+		- **(iv)** the official agent of the potential candidate or candidate, in the case of an advertising message whose publication was requested by a potential candidate or a candidate, and
+		- **(v)** the financial agent of the registered third party, in the case of an advertising message whose publication was requested by a registered third party.
+
+**Publication period of registry**
+
+- **(4)** The owner or operator of the online platform shall publish in the registry referred to in subsection (2) the information referred to in subsection (3) for each partisan advertising message and each election advertising message during the following periods:
+	- **(a)** in the case of a partisan advertising message, during the period that begins on the day on which the online platform first publishes the advertising message and ends two years after
+		- **(i)** the end of the election period of the general election immediately following the pre-election period, or
+		- **(ii)** the day referred to in paragraph (b) of the definition pre-election period if there is no general election immediately following the pre-election period; and
+	- **(b)** in the case of an election advertising message, during the period that begins on the first day on which the online platform publishes such an advertising message and ends two years after the end of the election period.
+
+**Information to be kept after publication period**
+
+- **(5)** The owner or operator of the online platform shall keep the information that was included in the registry referred to in subsection (2) in respect of each partisan advertising message and each election advertising message for five years after the end of the applicable publication period referred to in subsection (4).
+> 2018, c. 31, s. 208.1.
+
+
+
+
+
+**Information to be provided by advertiser**
+
+**325.2** A person or group referred to in any of paragraphs 325.1(2)(a) to (e) that requests the publication of a partisan advertising message or election advertising message on an online platform shall provide the owner or operator of the platform with all the information in the person’s or group’s control that the owner or operator needs in order to comply with subsection 325.1(2).
+> 2018, c. 31, s. 208.1.
+
+
+
+
+
+### Election Surveys
 
 
 
@@ -6310,18 +6941,21 @@ If the candidate, registered association and registered party do not, as a group
 	- **(b)** the name of the person or organization that conducted the survey;
 	- **(c)** the date on which or the period during which the survey was conducted;
 	- **(d)** the population from which the sample of respondents was drawn;
-	- **(e)** the number of people who were contacted to participate in the survey; and
-	- **(f)** if applicable, the margin of error in respect of the data obtained.
+	- **(e)** the number of people who were contacted to participate in the survey;
+	- **(f)** if applicable, the margin of error in respect of the data obtained; and
+	- **(g)** the address of the Internet site on which a report referred to in subsection (3) is published.
 
 **Additional information — published surveys**
 
-- **(2)** In addition to the information referred to in subsection (1), the following must be provided in the case of a transmission to the public by means other than broadcasting:
-	- **(a)** the wording of the survey questions in respect of which data is obtained; and
-	- **(b)** the means by which a report referred to in subsection (3) may be obtained.
+- **(2)** In addition to the information referred to in subsection (1), in the case of a transmission to the public by means other than broadcasting, the wording of the survey questions in respect of which data is obtained must be provided.
+
+**Notice of transmission of survey results**
+
+- **(2.1)** The first person who transmits to the public the results of an election survey — other than a survey that is described in section 327 — shall, if that person is not the sponsor of the survey, ensure that the sponsor of the survey has been notified, before the transmission, of the date on which the results are to be transmitted.
 
 **Report on survey results**
 
-- **(3)** A sponsor of an election survey shall, at any time during an election period after the results of the survey are transmitted to the public, provide, on request, a copy of a written report on the results of the survey, as transmitted under subsection (1). The report shall include the following, as applicable:
+- **(3)** A sponsor of an election survey — other than a survey that is described in section 327 — shall, during an election period, ensure that a report on the results of the survey is published and remains for the remainder of that period on an Internet site that is available to the public. The sponsor shall do so before transmitting the results of the survey, if they are the first person to transmit them or, if they are not, as soon as feasible after being notified of the date of transmission under subsection (2.1), and the report shall include the following, as applicable:
 	- **(a)** the name and address of the sponsor of the survey;
 	- **(b)** the name and address of the person or organization that conducted the survey;
 	- **(c)** the date on which or the period during which the survey was conducted;
@@ -6335,9 +6969,9 @@ If the candidate, registered association and registered party do not, as a group
 		- **(vii)** any weighting factors or normalization procedures used in deriving the results of the survey; and
 	- **(e)** the wording of the survey questions and, if applicable, the margins of error in respect of the data obtained.
 
-**Fee may be charged**
+- **(4)** [Repealed, 2018, c. 31, s. 210]
+> 2000, c. 9, s. 326; 2018, c. 31, s. 210.
 
-- **(4)** A sponsor may charge a fee of up to $0.25 per page for a copy of a report provided under subsection (3).
 
 
 
@@ -6394,18 +7028,7 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-
-### Non-interference by Foreigners
-
-
-
-**Prohibition — inducements by non-residents**
-
-**331** No person who does not reside in Canada shall, during an election period, in any way induce electors to vote or refrain from voting or vote or refrain from voting for a particular candidate unless the person is
-- **(a)** a Canadian citizen; or
-- **(b)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md).
-> 2000, c. 9, s. 331; 2001, c. 27, s. 211.
-
+**331** [Repealed, 2018, c. 31, s. 213]
 
 
 
@@ -6868,9 +7491,10 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 - **(2)** For each election period to which the agreement applies, the registration notice shall be filed not later than 48 hours after the first call is made under the agreement and shall set out
 	- **(a)** the calling service provider’s name;
-	- **(b)** the name of the person or group with which the calling service provider has entered into the agreement; and
+	- **(b)** the name of the person or group that is a party to the agreement;
+	- **(b.1)** the name of the person or group on whose behalf calls will be made under the agreement; and
 	- **(c)** the type of calls to be made under the agreement.
-> 2014, c. 12, s. 76.
+> 2014, c. 12, s. 76; 2018, c. 31, s. 214.
 
 
 
@@ -6886,7 +7510,8 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 - **(2)** For each election period to which the agreement applies, the registration notice shall be filed not later than 48 hours after the first call is made under the agreement and shall set out
 	- **(a)** the calling service provider’s name;
-	- **(b)** the name of the person or group with which the calling service provider has entered into the agreement; and
+	- **(b)** the name of the person or group that is a party to the agreement;
+	- **(b.1)** the name of the person or group on whose behalf calls will be made under the agreement; and
 	- **(c)** the type of calls to be made under the agreement.
 
 **Obligation to provide copy of identification document**
@@ -6896,7 +7521,7 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **Deeming**
 
 - **(4)** Except for the purposes of section 348.12, a registration notice is deemed not to have been filed if the information and the copy of the piece of identification are not provided at the time the registration notice is filed.
-> 2014, c. 12, s. 76.
+> 2014, c. 12, s. 76; 2018, c. 31, s. 215.
 
 
 
@@ -6984,8 +7609,14 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Publication**
 
-**348.12** As soon as feasible after the expiry of 30 days after polling day, the Canadian Radio-television and Telecommunications Commission shall, in the manner that it considers appropriate, publish the registration notices relating to the election that have been filed with it.
-> 2014, c. 12, s. 76.
+**348.12** 
+
+- **(1)** As soon as feasible but no later than 30 days after polling day, the Canadian Radio-television and Telecommunications Commission shall, in the manner that it considers appropriate, publish the registration notices relating to the election that have been filed with it.
+
+**Clarification**
+
+- **(2)** Nothing in subsection (1) precludes the Canadian Radio-television and Telecommunications Commission from publishing, before polling day, any registration notice filed with it or any information related to any incomplete registration notice that is filed with it.
+> 2014, c. 12, s. 76; 2018, c. 31, s. 216.
 
 
 
@@ -7025,16 +7656,17 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 
 **DIVISION 2** 
-### Scripts and Recordings
+### Scripts, Recordings and Lists of Telephone Numbers
 
 
 
 **Calling service provider — agreement**
 
 **348.16** Every calling service provider that, in accordance with an agreement, provides voter contact calling services shall keep, for three years after the end of the election period,
-- **(a)** a copy of each unique script used in live voice calls made under the agreement and a record of every date on which the script was used; and
-- **(b)** a recording of each unique message conveyed by an automatic dialing-announcing device that is used to make calls under the agreement and a record of every date on which it was so conveyed.
-> 2014, c. 12, s. 77.
+- **(a)** a copy of each unique script used in live voice calls made under the agreement and a record of every date on which the script was used;
+- **(b)** a recording of each unique message conveyed by an automatic dialing-announcing device that is used to make calls under the agreement and a record of every date on which it was so conveyed; and
+- **(c)** a list of every telephone number called under the agreement during the election period.
+> 2014, c. 12, s. 77; 2018, c. 31, s. 218.
 
 
 
@@ -7043,9 +7675,10 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **Person or group — agreement**
 
 **348.17** Every person or group that enters into an agreement with a calling service provider under which voter contact calling services are provided shall keep, for one year after the end of the election period,
-- **(a)** a copy of each unique script used in live voice calls made under the agreement and a record of every date on which the script was used; and
-- **(b)** a recording of each unique message conveyed by an automatic dialing-announcing device that is used to make calls under the agreement and a record of every date on which it was so conveyed.
-> 2014, c. 12, s. 77.
+- **(a)** a copy of each unique script used in live voice calls made under the agreement and a record of every date on which the script was used;
+- **(b)** a recording of each unique message conveyed by an automatic dialing-announcing device that is used to make calls under the agreement and a record of every date on which it was so conveyed; and
+- **(c)** a list of every telephone number called under the agreement during the election period.
+> 2014, c. 12, s. 77; 2018, c. 31, s. 219.
 
 
 
@@ -7053,8 +7686,10 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Person or group — internal services**
 
-**348.18** If, during an election period, a person or group uses their internal services to make calls by means of an automatic dialing-announcing device for any purpose relating to the election, including a purpose referred to in any of paragraphs (a) to (e) of the definition ***voter contact calling services*** in section 348.01, the person or group shall keep a recording of each unique message conveyed by the device and a record of every date on which it was so conveyed, for one year after the end of the election period.
-> 2014, c. 12, s. 77.
+**348.18** If, during an election period, a person or group uses their internal services to make calls by means of an automatic dialing-announcing device for any purpose relating to the election, including a purpose referred to in any of paragraphs (a) to (e) of the definition voter contact calling services in section 348.01, the person or group shall keep, for one year after the end of the election period,
+- **(a)** a recording of each unique message conveyed by the device and a record of every date on which it was so conveyed; and
+- **(b)** a list of every telephone number called for that purpose during the election period.
+> 2014, c. 12, s. 77; 2018, c. 31, s. 220.
 
 
 
@@ -7062,15 +7697,21 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Third party that is corporation or group — internal services**
 
-**348.19** If, during an election period, a third party that is a corporation or group uses its internal services to make live voice calls for any purpose relating to the election, including a purpose referred to in any of paragraphs (a) to (e) of the definition ***voter contact calling services*** in section 348.01, the third party shall, if a script is used, keep a copy of each unique script used and a record of every date on which the script was used, for one year after the end of the election period.
-> 2014, c. 12, s. 77.
+**348.19** If, during an election period, a third party that is a corporation or group uses its internal services to make live voice calls for any purpose relating to the election, including a purpose referred to in any of paragraphs (a) to (e) of the definition voter contact calling services in section 348.01, the third party shall, if a script is used, keep, for one year after the end of the election period,
+- **(a)** a copy of each unique script used and a record of every date on which the script was used; and
+- **(b)** a list of every telephone number called for that purpose during the election period.
+> 2014, c. 12, s. 77; 2018, c. 31, s. 220.
 
 
 
 
 
 **PART 17** 
-## Third Party Election Advertising
+## Third Party Advertising, Partisan Activities and Election Surveys
+
+
+
+### Interpretation
 
 
 
@@ -7078,11 +7719,18 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **349** The definitions in this section apply in this Part.
 
-***election advertising*** has the same meaning as in section 319. (*publicité électorale*)
+***election advertising***[Repealed, 2018, c. 31, s. 222]
 
-***election advertising expense*** means an expense incurred in relation to
-- **(a)** the production of an election advertising message; and
-- **(b)** the acquisition of the means of transmission to the public of an election advertising message. (*dépenses de publicité électorale*)
+***election advertising expense***[Repealed, 2018, c. 31, s. 222]
+
+***election survey*** means an election survey that is conducted by, or caused to be conducted by, a third party — a person or group other than a political party that is registered under an Act of a province — during a pre-election period or an election period and whose results the person or group takes into account
+- **(a)** in deciding whether or not to organize and carry out partisan activities or to transmit partisan advertising messages or election advertising messages; or
+- **(b)** in their organization and carrying out of those activities or their transmission of those messages. (*sondage électoral*)
+
+***election survey expense*** means an expense incurred in respect of the conducting of an election survey
+- **(a)** in Division 1, during a pre-election period;
+- **(b)** in Division 2, during an election period; and
+- **(c)** in Division 3, during either a pre-election period or an election period. (*dépenses de sondage électoral*)
 
 ***expenses*** means
 - **(a)** amounts paid;
@@ -7092,89 +7740,548 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 ***group*** means an unincorporated trade union, trade association or other group of persons acting together by mutual consent for a common purpose. (*groupe*)
 
-***third party*** means a person or a group, other than a candidate, registered party or electoral district association of a registered party. (*tiers*)
+***partisan activity*** means an activity, including canvassing door-to-door, making telephone calls to electors and organizing rallies, that is carried out by a third party — a person or group other than a political party that is registered under an Act of a province — and that promotes or opposes a registered party or eligible party or the election of a potential candidate, nomination contestant, candidate or leader of a registered party or eligible party, otherwise than by taking a position on an issue with which any such party or person is associated. It does not include election advertising, partisan advertising or a fundraising activity. (*activité partisane*)
+
+***partisan activity expense*** means an expense incurred in respect of the organization and carrying out of a partisan activity. (*dépenses d’activité partisane*)
+
+***registered third party*** means a third party that is registered under section 349.6 or 353. (*tiers enregistré*)
+
+***third party*** means
+- **(a)** in Division 0.1, a person or a group other than
+	- **(i)** during an election period, a candidate, a registered party or an electoral district association of a registered party, and
+	- **(ii)** outside of an election period,
+		- **(A)** a registered party or eligible party or a registered association,
+		- **(B)** a potential candidate within the meaning of paragraph (a), (b) or (d) of the definition potential candidate in subsection 2(1), or
+		- **(C)** a nomination contestant;
+- **(a.1)** in Division 1, a person or a group other than
+	- **(i)** a registered party or eligible party or a registered association,
+	- **(ii)** a potential candidate within the meaning of paragraph (a), (b) or (d) of the definition potential candidate in subsection 2(1), or
+	- **(iii)** a nomination contestant; and
+- **(b)** in Division 2, a person or a group other than a candidate, a registered party or an electoral district association of a registered party. (*tiers*)
+> 2000, c. 9, s. 349; 2018, c. 31, s. 222.
 
 
 
 
-**Spending limit**
+
+**DIVISION 0.1** 
+### Prohibition on Use of Foreign Funds by Third Parties
+
+
+
+**Definitions**
+
+**349.01** 
+
+- **(1)** The following definitions apply in this Division.
+
+***advertising*** means the transmission to the public by any means of an advertising message that promotes or opposes a registered party or eligible party or the election of a potential candidate, nomination contestant, candidate or leader of a registered party or eligible party, otherwise than by taking a position on an issue with which any such party or person is associated. For greater certainty, it does not include
+- **(a)** the transmission to the public of an editorial, a debate, a speech, an interview, a column, a letter, a commentary or news;
+- **(b)** the distribution of a book, or the promotion of the sale of a book, for no less than its commercial value, if the book was planned to be made available to the public regardless of whether there was to be an election;
+- **(c)** the transmission of a document by a Senator or a member the expense of which is paid by the Senate or House of Commons;
+- **(d)** the transmission of a document directly by a person or a group to their members, employees or shareholders, as the case may be;
+- **(e)** the transmission by an individual, on a non-commercial basis on the Internet, of his or her personal political views; or
+- **(f)** the making of telephone calls to electors only to encourage them to vote. (*publicité*)
+
+***foreign entity*** includes
+- **(a)** an individual who is not a Canadian citizen or a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md);
+- **(b)** a corporation or entity incorporated, formed or otherwise organized outside Canada that does not carry on business in Canada or whose only activity carried on in Canada consists of doing anything to influence electors to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at an election;
+- **(c)** a trade union that does not hold bargaining rights for employees in Canada;
+- **(d)** a foreign political party; or
+- **(e)** a foreign government or an agent or mandatary of one. (*entité étrangère*)
+
+**Definition of advertising**
+
+- **(2)** For the purposes of the definition ***advertising***, promoting or opposing includes
+	- **(a)** in relation to a registered party or eligible party,
+		- **(i)** naming it,
+		- **(ii)** identifying it, including by its logo, and
+		- **(iii)** providing a link to an Internet page that does anything referred to in subparagraphs (i) and (ii); and
+	- **(b)** in relation to the election of a potential candidate, nomination contestant, candidate or leader of a registered party or eligible party,
+		- **(i)** naming him or her,
+		- **(ii)** showing a photograph, cartoon or drawing of him or her,
+		- **(iii)** identifying him or her, including by political affiliation or by any logo that he or she has, and
+		- **(iv)** providing a link to an Internet page that does anything referred to in subparagraphs (i) to (iii).
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Prohibition — use of foreign funds**
+
+**349.02** No third party shall use funds for a partisan activity, for advertising, for election advertising or for an election survey if the source of the funds is a foreign entity.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Prohibition — circumventing prohibition on use of foreign funds**
+
+**349.03** No third party shall
+- **(a)** circumvent, or attempt to circumvent, the prohibition under section 349.02; or
+- **(b)** act in collusion with another person or entity for that purpose.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**DIVISION 1** 
+### Partisan Activities, Partisan Advertising and Election Surveys During Pre-election Period
+
+
+
+**Maximum pre-election period expenses**
+
+**349.1** 
+
+- **(1)** Subject to section 349.4, a third party shall not incur the following expenses in an aggregate amount of more than $700,000:
+	- **(a)** partisan activity expenses in relation to partisan activities that are carried out during a pre-election period;
+	- **(b)** partisan advertising expenses in relation to partisan advertising messages that are transmitted during that period; and
+	- **(c)** election survey expenses in relation to election surveys that are conducted during that period.
+
+**Maximum pre-election period expenses — electoral district**
+
+- **(2)** Not more than $7,000 of the maximum amount referred to in subsection (1) shall be incurred to promote or oppose the election of one or more potential candidates or nomination contestants in a given electoral district.
+
+**Expenses — party leader**
+
+- **(3)** The maximum amount set out in subsection (2) only applies to an amount incurred with respect to a leader of a registered party or eligible party to the extent that it is incurred to promote or oppose his or her election in an electoral district.
+
+**Third party inflation adjustment factor**
+
+- **(4)** The amounts referred to in subsections (1) and (2) shall be multiplied by the inflation adjustment factor referred to in section 384 that is in effect on the first day of the pre-election period.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Prohibition — circumventing maximum amount**
+
+**349.2** A third party shall not circumvent, or attempt to circumvent, a maximum amount set out in section 349.1 in any manner, including by splitting itself into two or more third parties for the purpose of circumventing the maximum amount or acting in collusion with another third party so that their combined partisan activity expenses, partisan advertising expenses and election survey expenses exceed the maximum amount.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Prohibition — collusion with registered party**
+
+**349.3** 
+
+- **(1)** No third party and no registered party shall act in collusion with each other — including by sharing information — in order to influence the third party in its partisan activities that it carries out during a pre-election period, its partisan advertising or its election surveys that it conducts or causes to be conducted during a pre-election period.
+
+**Prohibition — collusion with potential candidate**
+
+- **(2)** No third party and no potential candidate shall act in collusion with each other — including by sharing information — in order to influence the third party in its partisan activities that it carries out during a pre-election period, its partisan advertising or its election surveys that it conducts or causes to be conducted during a pre-election period.
+
+**Prohibition — collusion with associated person**
+
+- **(3)** No third party and no person associated with a potential candidate’s activities undertaken with a view to the potential candidate’s eventual election — including an official agent of a potential candidate who is deemed to be a candidate under section 477 — shall act in collusion with each other — including by sharing information — in order to influence the third party in its partisan activities that it carries out during a pre-election period, its partisan advertising or its election surveys that it conducts or causes to be conducted during a pre-election period.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Prohibition — spending by foreign third parties**
+
+**349.4** 
+
+- **(1)** A foreign third party shall not incur the following expenses:
+	- **(a)** partisan activity expenses in relation to a partisan activity that is carried out during a pre-election period;
+	- **(b)** partisan advertising expenses in relation to a partisan advertising message that is transmitted during that period; and
+	- **(c)** election survey expenses in relation to an election survey that is conducted during that period.
+
+**Definition of foreign third party**
+
+- **(2)** In subsection (1), a ***foreign third party*** is a third party in respect of which
+	- **(a)** if the third party is an individual, the individual
+		- **(i)** is not a Canadian citizen,
+		- **(ii)** is not a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), and
+		- **(iii)** does not reside in Canada;
+	- **(b)** if the third party is a corporation or entity,
+		- **(i)** it does not carry on business in Canada, or its only activity carried on in Canada during a pre-election period consists of doing anything to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the following election, and
+		- **(ii)** it was incorporated, formed or otherwise organized outside Canada; and
+	- **(c)** if the third party is a group, no person who is responsible for the group
+		- **(i)** is a Canadian citizen,
+		- **(ii)** is a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
+		- **(iii)** resides in Canada.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Advertising to name third party**
+
+**349.5** A third party shall include — in a manner that is clearly visible or otherwise accessible — in any partisan advertising message placed by it its name, its telephone number, either its civic or its Internet address and an indication in or on the message that it has authorized its transmission.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Registration requirement for third parties**
+
+**349.6** 
+
+- **(1)** A third party shall register immediately after having incurred the following expenses in an aggregate amount of $500:
+	- **(a)** partisan activity expenses in relation to partisan activities that are carried out during a pre-election period;
+	- **(b)** partisan advertising expenses in relation to partisan advertising messages that are transmitted during that period; and
+	- **(c)** election survey expenses in relation to election surveys that are conducted during that period.
+However, the third party may not register before the beginning of the pre-election period.
+
+**Application for registration**
+
+- **(2)** An application for registration shall be sent to the Chief Electoral Officer in the prescribed form and shall include
+	- **(a)** if the third party is an individual, the individual’s name, address and telephone number, their signature and their declaration that
+		- **(i)** they are a Canadian citizen,
+		- **(ii)** they are a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
+		- **(iii)** they reside in Canada;
+	- **(b)** if the third party is a corporation, the name, address and telephone number of the corporation and of an officer who has signing authority for it, the officer’s signature and their declaration that the corporation carries on business in Canada;
+	- **(c)** if the third party is a group, the name, address and telephone number of the group and of a person who is responsible for the group, the person’s signature and their declaration that
+		- **(i)** they are a Canadian citizen,
+		- **(ii)** they are a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
+		- **(iii)** they reside in Canada;
+	- **(d)** the address and telephone number of the third party’s office where its books and records are kept and of the office in Canada to which communications may be addressed and at which documents may be served; and
+	- **(e)** the name, address and telephone number of the third party’s financial agent.
+
+**Declaration of financial agent to accompany application**
+
+- **(3)** An application under subsection (2) shall be accompanied by a declaration signed by the financial agent accepting the appointment.
+
+**New financial agent**
+
+- **(4)** If a third party’s financial agent is replaced, it shall, without delay, provide the Chief Electoral Officer with the new financial agent’s name, address and telephone number and a declaration signed by the new financial agent accepting the appointment.
+
+**Trade union or corporation**
+
+- **(5)** If the third party is a trade union, corporation or other entity with a governing body, the application shall include a copy of a resolution passed by its governing body authorizing it to incur partisan activity expenses, partisan advertising expenses and election survey expenses.
+
+**Examination of application**
+
+- **(6)** The Chief Electoral Officer shall, without delay after receiving an application, determine whether the requirements set out in subsections (1) to (3) and (5) are met and shall then notify the person who signed the application whether the third party is registered. In the case of a refusal to register, the Chief Electoral Officer shall give reasons for the refusal.
+
+**Application rejected**
+
+- **(7)** A third party may not be registered under a name that, in the Chief Electoral Officer’s opinion, is likely to be confused with the name of a registered party or eligible party, a potential candidate, a nomination contestant, a candidate, a leadership contestant, a leader of a registered party or eligible party or a registered third party.
+
+**Registration ends**
+
+- **(8)** Subject to subsection 353(1.1), the registration of a third party is valid only for the pre-election period during which the application is made, but the third party continues to be subject to this Part.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Appointment of financial agent**
+
+**349.7** 
+
+- **(1)** A third party that is required to register under subsection 349.6(1) shall appoint a financial agent, who may be a person who is authorized to sign an application for registration made under that subsection.
+
+**Financial agent — ineligible persons**
+
+- **(2)** The following persons are not eligible to be a financial agent of a third party:
+	- **(a)** an election officer or a member of the staff of a returning officer;
+	- **(b)** a potential candidate or — if the potential candidate is deemed to be a candidate under section 477 — their official agent;
+	- **(c)** the chief agent of a registered party or eligible party;
+	- **(d)** a registered agent of a registered party;
+	- **(e)** a nomination contestant or their financial agent;
+	- **(f)** a leadership contestant or their leadership campaign agent; and
+	- **(g)** a person who is not a Canadian citizen or a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md).
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Requirement to appoint auditor**
+
+**349.8** 
+
+- **(1)** A third party that is required to register under subsection 349.6(1) shall appoint an auditor without delay if it incurs the following expenses in an aggregate amount of $10,000 or more:
+	- **(a)** partisan activity expenses in relation to partisan activities that are carried out during a pre-election period;
+	- **(b)** partisan advertising expenses in relation to partisan advertising messages that are transmitted during that period; and
+	- **(c)** election survey expenses in relation to election surveys that are conducted during that period.
+
+**Eligibility criteria**
+
+- **(2)** The following are eligible to be an auditor for a third party:
+	- **(a)** a person who is a member in good standing of a corporation, an association or an institute of professional accountants; or
+	- **(b)** a partnership every partner of which is a member in good standing of a corporation, an association or an institute of professional accountants.
+
+**Auditor — ineligible persons**
+
+- **(3)** The following persons are not eligible to be an auditor for a third party:
+	- **(a)** the third party’s financial agent;
+	- **(b)** a person who signed the application made under subsection 349.6(2);
+	- **(c)** an election officer or a member of the staff of a returning officer;
+	- **(d)** a potential candidate or — if the potential candidate is deemed to be a candidate under section 477 — their official agent;
+	- **(e)** the chief agent of a registered party or eligible party;
+	- **(f)** a registered agent of a registered party;
+	- **(g)** a nomination contestant or their financial agent; and
+	- **(h)** a leadership contestant or their leadership campaign agent.
+
+**Notification of appointment**
+
+- **(4)** Every third party, without delay after an auditor is appointed, shall provide the Chief Electoral Officer with the auditor’s name, address, telephone number and occupation and a declaration signed by the auditor accepting the appointment.
+
+**New auditor**
+
+- **(5)** If a third party’s auditor is replaced, it shall, without delay, provide the Chief Electoral Officer with the new auditor’s name, address, telephone number and occupation and a declaration signed by the new auditor accepting the appointment.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Responsibilities of financial agent**
+
+**349.9** 
+
+- **(1)** Every contribution made during a pre-election period to a registered third party for partisan activity, partisan advertising or election survey purposes shall be accepted by its financial agent, and every partisan activity expense, partisan advertising expense or election survey expense incurred during a pre-election period on behalf of a registered third party shall be authorized by its financial agent.
+
+**Delegation**
+
+- **(2)** A financial agent may authorize a person to accept contributions or to authorize the incurring of partisan activity expenses, partisan advertising expenses or election survey expenses, but that authorization does not limit the financial agent’s responsibility.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Interim third-party expenses return**
+
+**349.91** 
+
+- **(1)** Every third party that is required to be registered in accordance with subsection 349.6(1) shall file an interim third-party expenses return in the prescribed form with the Chief Electoral Officer within 5 days after the day on which it became required to be registered in accordance with that subsection, if the third party
+	- **(a)** has incurred expenses referred to in subsection 349.1(1) in an aggregate amount of $10,000 or more during the period beginning on the day after polling day at the general election previous to the pre-election period and ending on the day on which it became required to be registered in accordance with subsection 349.6(1); or
+	- **(b)** has received contributions in an aggregate amount of $10,000 or more for partisan activity, partisan advertising, election advertising or election survey purposes during the period referred to in paragraph (a).
+
+**Contents of return**
+
+- **(2)** The interim third-party expenses return shall contain
+	- **(a)** a list of partisan activity expenses referred to in subsection 349.1(2) incurred during the period referred to in paragraph (1)(a) and the date and place of the partisan activities to which the expenses relate;
+	- **(b)** a list of partisan advertising expenses referred to in subsection 349.1(2) incurred during that period and the date and place of the transmission of the partisan advertising messages to which the expenses relate;
+	- **(c)** a list of election survey expenses referred to in subsection 349.1(2) incurred during that period and the date of the election surveys to which the expenses relate; and
+	- **(d)** a list of all partisan activity expenses, partisan advertising expenses and election survey expenses referred to in subsection 349.1(1) incurred during that period — other than those referred to in paragraphs (a) to (c) — and the date and place of the partisan activities to which the partisan activity expenses relate, the date and place of the transmission of the partisan advertising messages to which the partisan advertising expenses relate and the date of the election surveys to which the election survey expenses relate.
+
+**When no expenses**
+
+- **(3)** If a third party has not incurred expenses referred to in subsection (2), that fact shall be indicated in its interim third-party expenses return.
+
+**Contributions**
+
+- **(4)** The interim third-party expenses return shall include
+	- **(a)** the amount, by class of contributor, of contributions for partisan activity, partisan advertising, election advertising or election survey purposes that were received during the period referred to in paragraph (1)(a);
+	- **(b)** subject to paragraph (c), for each contributor who made contributions of a total amount of more than $200 for partisan activity, partisan advertising, election advertising or election survey purposes during the period referred to in paragraph (1)(a), their name, address and class, and the amount and date of each contribution;
+	- **(c)** in the case of a numbered company that is a contributor referred to in paragraph (b), the name of the chief executive officer or president of that company; and
+	- **(d)** the amount, other than an amount of a contribution referred to in paragraph (a), that was paid out of the third party’s own funds during the period referred to in paragraph (1)(a) for partisan activity expenses, partisan advertising expenses, election advertising expenses or election survey expenses.
+
+**Exceptions**
+
+- **(5)** The interim third-party expenses return need not include any information referred to in subsections (2) and (4) that was included in a third-party expenses return that the third party previously filed under subsection 359(1) in respect of
+	- **(a)** a by-election that was held after the general election referred to in paragraph (1)(a); or
+	- **(b)** a general election for which the third party incurred expenses or received contributions between the day fixed under paragraph 57(1.2)(c) for polling day at the general election and polling day in an electoral district in which the election was postponed under subsection 59(4) or 77(1).
+
+**Loans**
+
+- **(6)** For the purpose of subsection (4), a contribution includes a loan.
+
+**Categories**
+
+- **(7)** For the purposes of paragraphs (4)(a) and (b), the following are the classes of contributor:
+	- **(a)** individuals;
+	- **(b)** businesses;
+	- **(c)** commercial organizations;
+	- **(d)** governments;
+	- **(e)** trade unions;
+	- **(f)** corporations without share capital other than trade unions; and
+	- **(g)** unincorporated organizations or associations other than trade unions.
+
+**Names to be provided**
+
+- **(8)** If the third party is unable to identify which contributions were received during the period referred to in paragraph (1)(a) for partisan activity, partisan advertising, election advertising or election survey purposes, the interim third-party expenses return shall include, subject to paragraph (4)(c), the names and addresses of every contributor who contributed a total of more than $200 to it during that period.
+
+**Declaration**
+
+- **(9)** The interim third-party expenses return shall include a declaration that the return is accurate signed by
+	- **(a)** the third party’s financial agent; and
+	- **(b)** if different from the financial agent, the person who signed the application made under subsection 349.6(2).
+
+**Supporting documents**
+
+- **(10)** A third party shall, at the request of the Chief Electoral Officer, provide documents evidencing expenses set out in the return that are in an amount of more than $50, including bank statements, deposit slips and cancelled cheques.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Interim third-party expenses return**
+
+**349.92** 
+
+- **(1)** Every third party that is required to be registered in accordance with subsection 349.6(1) shall file an interim third-party expenses return in the prescribed form with the Chief Electoral Officer on September 15, if the third party
+	- **(a)** has incurred expenses referred to in subsection 349.1(1) in an aggregate amount of $10,000 or more during the period beginning on the day after polling day at the general election previous to the pre-election period and ending on the earlier of September 14 and the last day of the pre-election period; or
+	- **(b)** has received contributions in an aggregate amount of $10,000 or more for partisan activity, partisan advertising, election advertising or election survey purposes during the period referred to in paragraph (a).
+
+**Section 349.91 applies**
+
+- **(2)** Subsections 349.91(2) to (10) apply to the return under subsection (1), except that a reference to the period referred to in paragraph (1)(a) of section 349.91 shall be read as a reference to the period referred to in paragraph (1)(a) of this section.
+
+**Exception**
+
+- **(3)** In addition to the exceptions set out in subsection 349.91(5), the interim third-party expenses return need not include any information referred to in subsections 349.91(2) and (4) that was included in an interim third-party expenses return that the third party previously filed under subsection 349.91(1).
+
+**Application**
+
+- **(4)** This section applies only in the case of a general election that is held on a day set in accordance with subsection 56.1(2) or section 56.2.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Prohibition — false, misleading or incomplete return**
+
+**349.93** No third party shall file under subsection 349.91(1) or 349.92(1) an interim third-party expenses return that
+- **(a)** the third party knows or ought reasonably to know contains a material statement that is false or misleading; or
+- **(b)** does not substantially set out the information required under section 349.91 or 349.92, as the case may be.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**Prohibition — use of certain contributions**
+
+**349.94** No third party shall use a contribution made for partisan activity, partisan advertising or election survey purposes for the purpose of any of the following if the third party does not know the name and address of the contributor or is otherwise unable to determine within which class of contributor referred to in subsection 349.91(7) the contributor falls:
+- **(a)** a partisan activity that is carried out during a pre-election period;
+- **(b)** a partisan advertising message that is transmitted during that period; and
+- **(c)** an election survey that is conducted during that period and whose results the third party takes into account in its decisions concerning whether or not to organize and carry out partisan activities during that period or to transmit partisan advertising messages during that period.
+> 2018, c. 31, s. 223.
+
+
+
+
+
+**DIVISION 2** 
+### Partisan Activities, Election Advertising and Election Surveys During Election Period
+
+
+
+**Maximum election period expenses**
 
 **350** 
 
-- **(1)** Subject to section 351.1, a third party shall not incur election advertising expenses of a total amount of more than $150,000 in relation to a general election.
+- **(1)** Subject to section 351.1, a third party shall not incur the following expenses in an aggregate amount of more than $350,000:
+	- **(a)** partisan activity expenses in relation to partisan activities that are carried out during the election period of a general election;
+	- **(b)** election advertising expenses in relation to election advertising messages that are transmitted during that period; and
+	- **(c)** election survey expenses in relation to election surveys that are conducted during that period.
 
-**Spending limit — electoral district**
+**Maximum election period expenses — electoral district**
 
-- **(2)** Not more than $3,000 of the total amount referred to in subsection (1) shall be incurred to promote or oppose the election of one or more candidates in a given electoral district, including by
-	- **(a)** naming them;
-	- **(b)** showing their likenesses;
-	- **(c)** identifying them by their respective political affiliations; or
-	- **(d)** taking a position on an issue with which they are particularly associated.
+- **(2)** Not more than $3,000 of the maximum amount referred to in subsection (1) shall be incurred to promote or oppose the election of one or more candidates in a given electoral district.
 
-**Expenses re party leader**
+**Expenses — party leader**
 
-- **(3)** The limit set out in subsection (2) only applies to an amount incurred with respect to a leader of a registered party or eligible party to the extent that it is incurred to promote or oppose his or her election in a given electoral district.
+- **(3)** The maximum amount set out in subsection (2) only applies to an amount incurred with respect to a leader of a registered party or eligible party to the extent that it is incurred to promote or oppose his or her election in an electoral district.
 
-**Spending limit — by-election**
+**Maximum election period expenses — by-election**
 
-- **(4)** Subject to section 351.1, a third party shall not incur election advertising expenses of a total amount of more than $3,000 in a given electoral district in relation to a by-election.
+- **(4)** Subject to section 351.1, a third party shall not incur the following expenses in an aggregate amount of more than $3,000 in a given electoral district:
+	- **(a)** partisan activity expenses in relation to partisan activities that are carried out during the election period of a by-election;
+	- **(b)** election advertising expenses in relation to election advertising messages that are transmitted during that period; and
+	- **(c)** election survey expenses in relation to election surveys that are conducted during that period.
 
 **Uncancellable spending**
 
-- **(4.1)** If a general election is held on a date other than one set out in subsection 56.1(2) or section 56.2, or if a by-election is held, a third party does not incur an election advertising expense if, on the issue of the writ or writs, it is not able to cancel the transmission of that advertising.
+- **(4.1)** In the case of a general election that is not held on a day set in accordance with subsection 56.1(2) or section 56.2, or of a by-election, a third party is deemed not to have incurred a partisan activity expense, an election advertising expense or an election survey expense if, on the issue of the writ or writs, it is not able to cancel the activity, the transmission of the advertising message or the survey, as the case may be, that the expense is in relation to.
 
 **Third party inflation adjustment factor**
 
 - **(5)** The amounts referred to in subsections (1), (2) and (4) shall be multiplied by the inflation adjustment factor referred to in section 384 that is in effect on the issue of the writ or writs.
 
-**Election period longer than 37 days**
-
-- **(6)** If an election period is longer than 37 days, then the amounts referred to in subsections (1), (2) and (4) are increased by adding to them the product of
-	- **(a)** one thirty-seventh of the amount referred to in subsection (1), (2) or (4), as the case may be, and
-	- **(b)** the number of days in the election period minus 37.
-> 2000, c. 9, s. 350; 2014, c. 12, s. 78.
+- **(6)** [Repealed, 2018, c. 31, s. 224]
+> 2000, c. 9, s. 350; 2014, c. 12, s. 78; 2018, c. 31, s. 224.
 
 
 
 
 
-**No combination to exceed limit**
+**Prohibition — circumventing maximum amount**
 
-**351** A third party shall not circumvent, or attempt to circumvent, a limit set out in section 350 in any manner, including by splitting itself into two or more third parties for the purpose of circumventing the limit or acting in collusion with another third party so that their combined election advertising expenses exceed the limit.
-
-
-
-
-**Prohibition — foreign third parties**
-
-**351.1** A third party shall not incur election advertising expenses of a total amount of $500 or more in relation to a general election or a by-election, or, if the election periods of two or more by-elections overlap with each other in whole or in part, in relation to those by-elections, unless
-- **(a)** if the third party is an individual, the individual
-	- **(i)** is a Canadian citizen,
-	- **(ii)** is a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
-	- **(iii)** resides in Canada;
-- **(b)** if the third party is a corporation, it carries on business in Canada; and
-- **(c)** if the third party is a group, a person who is responsible for the group
-	- **(i)** is a Canadian citizen,
-	- **(ii)** is a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
-	- **(iii)** resides in Canada.
-> 2014, c. 12, s. 78.1.
+**351** A third party shall not circumvent, or attempt to circumvent, a maximum amount set out in section 350 in any manner, including by splitting itself into two or more third parties for the purpose of circumventing the maximum amount or acting in collusion with another third party so that their combined partisan activity expenses, election advertising expenses and election survey expenses exceed the maximum amount.
+> 2000, c. 9, s. 351; 2018, c. 31, s. 225.
 
 
 
 
 
-**Clarification**
+**Prohibition — collusion with registered party**
 
-**351.2** For greater certainty, for the purposes of subsections 350(1) and (4) and section 351.1 if election advertising is transmitted during an election period, it shall be considered an election advertising expense, regardless of when it was incurred.
-> 2014, c. 12, s. 78.1.
+**351.01** 
+
+- **(1)** No third party and no registered party shall act in collusion with each other — including by sharing information — in order to influence the third party in its partisan activities that it carries out during an election period, its election advertising or its election surveys that it conducts or causes to be conducted during an election period.
+
+**Prohibition — collusion with candidate**
+
+- **(2)** No third party and no candidate shall act in collusion with each other — including by sharing information — in order to influence the third party in its partisan activities that it carries out during an election period, its election advertising or its election surveys that it conducts or causes to be conducted during an election period.
+
+**Prohibition — collusion with associated person**
+
+- **(3)** No third party and no person associated with a candidate’s campaign — including a candidate’s official agent — shall act in collusion with each other — including by sharing information — in order to influence the third party in its partisan activities that it carries out during an election period, its election advertising or its election surveys that it conducts or causes to be conducted during an election period.
+> 2018, c. 31, s. 225.
 
 
 
 
 
-**Advertising must name third party**
+**Prohibition — spending by foreign third parties**
 
-**352** A third party shall identify itself in any election advertising placed by it and indicate that it has authorized the advertising.
+**351.1** 
+
+- **(1)** A foreign third party shall not incur the following expenses:
+	- **(a)** partisan activity expenses in relation to a partisan activity that is carried out during an election period;
+	- **(b)** election advertising expenses in relation to an election advertising message that is transmitted during that period; and
+	- **(c)** election survey expenses in relation to an election survey that is conducted during that period.
+
+**Definition of foreign third party**
+
+- **(2)** In subsection (1), a ***foreign third party*** is a third party in respect of which
+	- **(a)** if the third party is an individual, the individual
+		- **(i)** is not a Canadian citizen,
+		- **(ii)** is not a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), and
+		- **(iii)** does not reside in Canada;
+	- **(b)** if the third party is a corporation or entity,
+		- **(i)** it does not carry on business in Canada, or its primary purpose in Canada during an election period is to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election, and
+		- **(ii)** it was incorporated, formed or otherwise organized outside Canada; and
+	- **(c)** if the third party is a group, no person who is responsible for the group
+		- **(i)** is a Canadian citizen,
+		- **(ii)** is a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
+		- **(iii)** resides in Canada.
+> 2014, c. 12, s. 78.1; 2018, c. 31, s. 225.
+
+
+
+
+**351.2** [Repealed, 2018, c. 31, s. 225]
+
+
+
+
+**Advertising to name third party**
+
+**352** A third party shall include — in a manner that is clearly visible or otherwise accessible — in any election advertising message placed by it its name, its telephone number, either its civic or its Internet address and an indication in or on the message that it has authorized its transmission.
+> 2000, c. 9, s. 352; 2018, c. 31, s. 225.
+
 
 
 
@@ -7183,21 +8290,29 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **353** 
 
-- **(1)** Subject to section 351.1, a third party shall register immediately after having incurred election advertising expenses of a total amount of $500 and may not register before the issue of the writ.
+- **(1)** A third party shall register immediately after having incurred the following expenses in an aggregate amount of $500:
+	- **(a)** partisan activity expenses in relation to partisan activities that are carried out during an election period;
+	- **(b)** election advertising expenses in relation to election advertising messages that are transmitted during that period; and
+	- **(c)** election survey expenses in relation to election surveys that are conducted during that period.
+However, the third party may not register before the issue of the writ.
+
+**Exception — deemed registration**
+
+- **(1.1)** A third party that registered under subsection 349.6(1) during a pre-election period that ends the day before the day of the issue of the writ and that is also required to register under subsection (1) is deemed to be registered under that subsection (1).
 
 **Application for registration**
 
 - **(2)** An application for registration shall be sent to the Chief Electoral Officer in the prescribed form and shall include
-	- **(a)** if the third party is an individual, the individual’s name, address and telephone number, their signature and their certification that
+	- **(a)** if the third party is an individual, the individual’s name, address and telephone number, their signature and their declaration that
 		- **(i)** they are a Canadian citizen,
 		- **(ii)** they are a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
 		- **(iii)** they reside in Canada;
-	- **(b)** if the third party is a corporation, the name, address and telephone number of the corporation and of an officer who has signing authority for it, the officer’s signature and their certification that the corporation carries on business in Canada;
-	- **(b.1)** if the third party is a group, the name, address and telephone number of the group and of a person who is responsible for the group, the person’s signature and their certification that
+	- **(b)** if the third party is a corporation, the name, address and telephone number of the corporation and of an officer who has signing authority for it, the officer’s signature and their declaration that the corporation carries on business in Canada;
+	- **(b.1)** if the third party is a group, the name, address and telephone number of the group and of a person who is responsible for the group, the person’s signature and their declaration that
 		- **(i)** they are a Canadian citizen,
 		- **(ii)** they are a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
 		- **(iii)** they reside in Canada;
-	- **(c)** the address and telephone number of the office of the third party where its books and records are kept and of the office to which communications may be addressed; and
+	- **(c)** the address and telephone number of the third party’s office where its books and records are kept and of the office in Canada to which communications may be addressed and at which documents may be served; and
 	- **(d)** the name, address and telephone number of the third party’s financial agent.
 
 **Declaration of financial agent to accompany application**
@@ -7210,7 +8325,7 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Trade union or corporation**
 
-- **(5)** If the third party is a trade union, corporation or other entity with a governing body, the application must include a copy of the resolution passed by its governing body authorizing it to incur election advertising expenses.
+- **(5)** If the third party is a trade union, corporation or other entity with a governing body, the application shall include a copy of a resolution passed by its governing body authorizing it to incur partisan activity expenses, election advertising expenses and election survey expenses.
 
 **Examination of application**
 
@@ -7222,8 +8337,8 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Registration ends**
 
-- **(8)** The registration of a third party is valid only for the election period during which the application is made, but the third party continues to be subject to the requirement to file an election advertising report under subsection 359(1).
-> 2000, c. 9, s. 353; 2014, c. 12, s. 79.
+- **(8)** The registration of a third party is valid only for the election period during which the application is made, but the third party continues to be subject to the requirement to file a third-party expenses return under subsection 359(1).
+> 2000, c. 9, s. 353; 2014, c. 12, s. 79; 2018, c. 31, s. 226.
 
 
 
@@ -7235,14 +8350,18 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 - **(1)** A third party that is required to register under subsection 353(1) shall appoint a financial agent who may be a person who is authorized to sign an application for registration made under that subsection.
 
+**Exception — deemed appointment**
+
+- **(1.1)** If, at the end of the pre-election period before a general election referred to in paragraph 353(1)(a), a third party has a financial agent who was appointed under subsection 349.7(1), the financial agent is deemed to have been appointed under subsection (1).
+
 **Financial agent — ineligible persons**
 
 - **(2)** The following persons are not eligible to be a financial agent of a third party:
 	- **(a)** a candidate or an official agent of a candidate;
 	- **(b)** a person who is the chief agent, or a registered agent, of a registered party;
-	- **(c)** an election officer or an employee of a returning officer; and
+	- **(c)** an election officer or a member of the staff of a returning officer; and
 	- **(d)** a person who is not a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md).
-> 2000, c. 9, s. 354; 2001, c. 27, s. 212.
+> 2000, c. 9, s. 354; 2001, c. 27, s. 212; 2018, c. 31, s. 227.
 
 
 
@@ -7252,7 +8371,14 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **355** 
 
-- **(1)** A third party that incurs election advertising expenses in an aggregate amount of $5,000 or more must appoint an auditor without delay.
+- **(1)** A third party that is required to register under subsection 353(1) shall appoint an auditor without delay if it incurs the following expenses in an aggregate amount of $10,000 or more:
+	- **(a)** partisan activity expenses in respect of partisan activities that take place during an election period;
+	- **(b)** election advertising expenses in respect of election advertising messages that are transmitted during that period; and
+	- **(c)** election survey expenses in relation to that period.
+
+**Exception — deemed appointment**
+
+- **(1.1)** If, when the obligation under subsection (1) to appoint an auditor applies, a third party has an auditor who was appointed under subsection 349.8(1), the auditor is deemed to have been appointed under subsection (1).
 
 **Eligibility criteria**
 
@@ -7265,7 +8391,7 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 - **(3)** The following persons are not eligible to be an auditor for a third party:
 	- **(a)** the third party’s financial agent;
 	- **(b)** a person who signed the application made under subsection 353(2);
-	- **(c)** an election officer;
+	- **(c)** an election officer or a member of the staff of a returning officer;
 	- **(d)** a candidate;
 	- **(e)** the official agent of a candidate;
 	- **(f)** the chief agent of a registered party or an eligible party; and
@@ -7278,73 +8404,238 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **New auditor**
 
 - **(5)** If a third party’s auditor is replaced, it must, without delay, provide the Chief Electoral Officer with the new auditor’s name, address, telephone number and occupation and a signed declaration accepting the appointment.
+> 2000, c. 9, s. 355; 2018, c. 31, s. 228.
+
+
+
+
+**356** [Repealed, 2018, c. 31, s. 229]
+
+
+
+
+**Responsibilities of financial agent**
+
+**357** 
+
+- **(1)** Every contribution made during an election period to a registered third party for partisan activity, election advertising or election survey purposes shall be accepted by its financial agent, and every partisan activity expense, election advertising expense and election survey expense incurred during an election period on behalf of a registered third party shall be authorized by its financial agent.
+
+**Delegation**
+
+- **(2)** A financial agent may authorize a person to accept contributions or to authorize the incurring of partisan activity expenses, election advertising expenses or election survey expenses, but that authorization does not limit the financial agent’s responsibility.
+
+- **(3)** [Repealed, 2018, c. 31, s. 230]
+> 2000, c. 9, s. 357; 2018, c. 31, s. 230.
+
+
+
+
+
+**Interim third party expenses return**
+
+**357.01** 
+
+- **(1)** Every third party that is required to be registered in accordance with subsection 353(1) shall file an interim third-party expenses return in the prescribed form with the Chief Electoral Officer on the 21st day before polling day, if the third party
+	- **(a)** was required to file an interim third-party expenses return with the Chief Electoral Officer under subsection 349.92(1);
+	- **(b)** has incurred expenses referred to in subsection 349.1(1) or 350(1) in an aggregate amount of $10,000 or more during the period beginning on the day after polling day at the previous general election and ending on the 23rd day before polling day; or
+	- **(c)** has received contributions in an aggregate amount of $10,000 or more for partisan activity, partisan advertising, election advertising or election survey purposes during the period referred to in paragraph (b).
+
+**Contents of return**
+
+- **(2)** The interim third-party expenses return shall contain
+	- **(a)** in the case of a general election that is held on a day set in accordance with subsection 56.1(2) or section 56.2,
+		- **(i)** a list of partisan activity expenses referred to in subsection 349.1(2) and the date and place of the partisan activities to which the expenses relate,
+		- **(ii)** a list of partisan advertising expenses referred to in subsection 349.1(2) and the date and place of the transmission of the partisan advertising messages to which the expenses relate,
+		- **(iii)** a list of election survey expenses referred to in subsection 349.1(2) and the date of the election surveys to which the expenses relate, and
+		- **(iv)** a list of all partisan activity expenses, partisan advertising expenses and election survey expenses referred to in subsection 349.1(1) — other than those referred to in subparagraphs (i) to (iii) — and the date and place of the partisan activities to which the partisan activity expenses relate, the date and place of the transmission of the partisan advertising messages to which the partisan advertising expenses relate and the date of the election surveys to which the election survey expenses relate; and
+	- **(b)** in the case of any general election,
+		- **(i)** a list of partisan activity expenses referred to in subsection 350(2) and the date and place of the partisan activities to which the expenses relate,
+		- **(ii)** a list of election advertising expenses referred to in subsection 350(2) and the date and place of the transmission of the election advertising messages to which the expenses relate,
+		- **(iii)** a list of election survey expenses referred to in subsection 350(2) and the date of the election surveys to which the expenses relate, and
+		- **(iv)** a list of all partisan activity expenses, election advertising expenses and election survey expenses referred to in subsection 350(1) other than those referred to in subparagraphs (i) to (iii) and the date and place of the partisan activities to which the partisan activity expenses relate, the date and place of the transmission of the election advertising messages to which the election advertising expenses relate and the date of the election surveys to which the election survey expenses relate.
+
+**When no expenses**
+
+- **(3)** If a third party has not incurred expenses referred to in subsection (2), that fact shall be indicated in its interim third-party expenses return.
+
+**Contributions**
+
+- **(4)** The interim third-party expenses return shall include
+	- **(a)** the amount, by class of contributor, of contributions for partisan activity, partisan advertising, election advertising or election survey purposes that were received during the period referred to in paragraph (1)(b);
+	- **(b)** subject to paragraph (c), for each contributor who made contributions of a total amount of more than $200 for partisan activity, partisan advertising, election advertising or election survey purposes during the period referred to in paragraph (1)(b), their name, address and class, and the amount and date of each contribution;
+	- **(c)** in the case of a numbered company that is a contributor referred to in paragraph (b), the name of the chief executive officer or president of that company; and
+	- **(d)** the amount, other than an amount of a contribution referred to in paragraph (a), that was paid out of the third party’s own funds during the period referred to in paragraph (1)(b) for partisan activity expenses, partisan advertising expenses, election advertising expenses or election survey expenses.
+
+**Exceptions**
+
+- **(5)** The interim third-party expenses return need not include any information referred to in subsections (2) and (4) that was included in a third-party expenses return that the third party previously filed
+	- **(a)** under subsection 359(1) in respect of
+		- **(i)** a by-election that was held after the general election referred to in paragraph (1)(b), or
+		- **(ii)** a general election for which the third party incurred expenses or received contributions between the day fixed under paragraph 57(1.2)(c) for polling day at the general election and polling day in an electoral district in which the election was postponed under subsection 59(4) or 77(1); or
+	- **(b)** under subsection 349.91(1) or 349.92(1).
+
+**Loans**
+
+- **(6)** For the purpose of subsection (4), a contribution includes a loan.
+
+**Categories**
+
+- **(7)** For the purposes of paragraphs (4)(a) and (b), the following are the classes of contributor:
+	- **(a)** individuals;
+	- **(b)** businesses;
+	- **(c)** commercial organizations;
+	- **(d)** governments;
+	- **(e)** trade unions;
+	- **(f)** corporations without share capital other than trade unions; and
+	- **(g)** unincorporated organizations or associations other than trade unions.
+
+**Names to be provided**
+
+- **(8)** If the third party is unable to identify which contributions were received during the period referred to in paragraph (1)(b) for partisan activity, partisan advertising, election advertising or election survey purposes, the interim third-party expenses return shall include, subject to paragraph (4)(c), the names and addresses of every contributor who contributed a total of more than $200 to it during that period.
+
+**Declaration**
+
+- **(9)** The interim third-party expenses return shall include a declaration that the return is accurate signed by
+	- **(a)** the third party’s financial agent; and
+	- **(b)** if different from the financial agent, the person who signed the application made under subsection 349.6(2) or 353(2), as the case may be.
+
+**Supporting documents**
+
+- **(10)** A third party shall, at the request of the Chief Electoral Officer, provide documents evidencing expenses set out in the return that are in an amount of more than $50, including bank statements, deposit slips and cancelled cheques.
+> 2018, c. 31, s. 231.
+
+
+
+
+
+**Interim third-party expenses return**
+
+**357.02** 
+
+- **(1)** Every third party that is required to be registered in accordance with subsection 353(1) shall file an interim third-party expenses return in the prescribed form with the Chief Electoral Officer on the 7th day before polling day, if the third party
+	- **(a)** was required to file an interim third-party expenses return with the Chief Electoral Officer under subsection 349.92(1);
+	- **(b)** has incurred expenses referred to in subsection 349.1(1) or 350(1) in an aggregate amount of $10,000 or more during the period beginning on the day after polling day at the previous general election and ending on the 9th day before polling day; or
+	- **(c)** has received contributions in an aggregate amount of $10,000 or more for partisan activity, partisan advertising, election advertising or election survey purposes during the period referred to in paragraph (b).
+
+**Section 357.01 applies**
+
+- **(2)** Subsections 357.01(2) to (10) apply to the return under subsection (1), except that a reference to the period referred to in paragraph (1)(b) of section 357.01 shall be read as a reference to the period referred to in paragraph (1)(b) of this section.
+
+**Exception**
+
+- **(3)** In addition to the exceptions set out in subsection 357.01(5), the interim third-party expenses return need not include any information referred to in subsections 357.01(2) and (4) that was included in an interim third-party expenses return that the third party previously filed under subsection 357.01(1).
+> 2018, c. 31, s. 231.
+
+
+
+
+
+**Prohibition — false, misleading or incomplete return**
+
+**357.03** No third party shall file under subsection 357.01(1) or 357.02(1) an interim third-party expenses return that
+- **(a)** the third party knows or ought reasonably to know contains a material statement that is false or misleading; or
+- **(b)** does not substantially set out the information required under section 357.01 or 357.02, as the case may be.
+> 2018, c. 31, s. 231.
+
+
+
+
+
+**Prohibition — use of certain contributions**
+
+**357.1** No third party shall use a contribution for the purpose of any of the following if the third party does not know the name and address of the contributor or is otherwise unable to determine within which class of contributor referred to in subsection 359(6) the contributor falls:
+- **(a)** a partisan activity that is carried out during an election period;
+- **(b)** an election advertising message that is transmitted during that period; and
+- **(c)** an election survey that is conducted during that period and whose results the third party takes into account in its decisions concerning whether or not to organize and carry out partisan activities during that period or to transmit election advertising messages during that period.
+> 2018, c. 31, s. 231.
+
+
+
+
+**358** [Repealed, 2018, c. 31, s. 232]
+
+
+
+
+**DIVISION 3** 
+### Third Parties’ Bank Accounts, Registry of Third Parties and Third-Party Expenses Returns
+
+
+
+**Bank account**
+
+**358.1** 
+
+- **(1)** A third party that is required to register under subsection 349.6(1) — or under subsection 353(1), if it was not required to register under subsection 349.6(1) — shall open a separate bank account for the sole purpose of its partisan activities that are carried out or to be carried out during a pre-election period or an election period, partisan advertising, election advertising and election surveys.
+
+**Financial institution**
+
+- **(2)** The account shall be in a Canadian financial institution as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), or in an authorized foreign bank as defined in that section that is not subject to the restrictions and requirements referred to in subsection 524(2) of that Act.
+
+**Payments and receipts**
+
+- **(3)** All of the third party’s financial transactions in relation to its partisan activities referred to in subsection (1), partisan advertising, election advertising and election surveys that involve the payment or receipt of money are to be paid from or deposited to the account.
+
+**Closure of bank account**
+
+- **(4)** After polling day, the third party shall close the account once all unpaid claims and any outstanding balance have been dealt with.
+
+**Final statement of bank account**
+
+- **(5)** The third party shall, on closing the account, provide the Chief Electoral Officer with the final statement of the account.
+> 2018, c. 31, s. 233.
+
 
 
 
 
 **Registry of third parties**
 
-**356** The Chief Electoral Officer shall maintain, for the period that he or she considers appropriate, a registry of third parties in which is recorded, in relation to each third party, the information referred to in subsections 353(2) and 355(4) and (5).
-
-
-
-
-**Authorization by financial agent for expenses, etc.**
-
-**357** 
-
-- **(1)** Every contribution made during an election period to a registered third party for election advertising purposes must be accepted by, and every election advertising expense incurred on behalf of a third party must be authorized by, its financial agent.
-
-**Delegation**
-
-- **(2)** A financial agent may authorize a person to accept contributions or incur election advertising expenses, but that authorization does not limit the responsibility of the financial agent.
-
-**Prohibited use of certain contributions**
-
-- **(3)** No third party shall use a contribution for election advertising if the third party does not know the name and address of the contributor or is otherwise unable to determine within which class of contributor referred to in subsection 359(6) they fall.
-
-
-
-
-**Prohibition — use of foreign contributions**
-
-**358** No third party shall use a contribution for election advertising purposes if the contribution is from
-- **(a)** a person who is not a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md);
-- **(b)** a corporation or an association that does not carry on business in Canada;
-- **(c)** a trade union that does not hold bargaining rights for employees in Canada;
-- **(d)** a foreign political party; or
-- **(e)** a foreign government or an agent of one.
-> 2000, c. 9, s. 358; 2001, c. 27, s. 213.
+**358.2** The Chief Electoral Officer shall maintain, for the period that he or she considers appropriate, a registry of registered third parties in which is recorded, in relation to each one, the information referred to in subsections 349.6(2), 349.8(4) and (5), 353(2) and 355(4) and (5).
+> 2018, c. 31, s. 233.
 
 
 
 
 
-**Election advertising report**
+**Third-party expenses return**
 
 **359** 
 
-- **(1)** Every third party that is required to be registered in accordance with subsection 353(1) shall file an election advertising report in the prescribed form with the Chief Electoral Officer within four months after polling day.
+- **(1)** Every third party that is required to be registered in accordance with subsection 349.6(1) or 353(1) shall file a third-party expenses return in the prescribed form with the Chief Electoral Officer within four months after polling day.
 
-**Contents of report**
+**Contents of return**
 
-- **(2)** An election advertising report shall contain
-	- **(a)** in the case of a general election,
-		- **(i)** a list of election advertising expenses referred to in subsection 350(2) and the time and place of the broadcast or publication of the advertisements to which the expenses relate, and
-		- **(ii)** a list of all election advertising expenses other than those referred to in subparagraph (i) and the time and place of broadcast or publication of the advertisements to which the expenses relate; and
-	- **(b)** in the case of a by-election, a list of election advertising expenses referred to in subsection 350(4) and the time and place of the broadcast or publication of the advertisements to which the expenses relate.
+- **(2)** The third-party expenses return shall contain
+	- **(a)** in the case of a general election that is held on a day set in accordance with subsection 56.1(2) or section 56.2,
+		- **(i)** a list of partisan activity expenses referred to in subsection 349.1(2) and the date and place of the partisan activities to which the expenses relate,
+		- **(ii)** a list of partisan advertising expenses referred to in subsection 349.1(2) and the date and place of the transmission of the partisan advertising messages to which the expenses relate,
+		- **(iii)** a list of election survey expenses referred to in subsection 349.1(2) and the date of the election surveys to which the expenses relate, and
+		- **(iv)** a list of all partisan activity expenses, partisan advertising expenses and election survey expenses referred to in subsection 349.1(1) — other than those referred to in subparagraphs (i) to (iii) — and the date and place of the partisan activities to which the partisan activity expenses relate, the date and place of the transmission of the partisan advertising messages to which the partisan advertising expenses relate and the date of the election surveys to which the election survey expenses relate;
+	- **(b)** in the case of any general election,
+		- **(i)** a list of partisan activity expenses referred to in subsection 350(2) and the date and place of the partisan activities to which the expenses relate,
+		- **(ii)** a list of election advertising expenses referred to in subsection 350(2) and the date and place of the transmission of the election advertising messages to which the expenses relate,
+		- **(iii)** a list of election survey expenses referred to in subsection 350(2) and the date of the election surveys to which the expenses relate, and
+		- **(iv)** a list of all partisan activity expenses, election advertising expenses and election survey expenses referred to in subsection 350(1) other than those referred to in subparagraphs (i) to (iii) and the date and place of the partisan activities to which the partisan activity expenses relate, the date and place of the transmission of the election advertising messages to which the election advertising expenses relate and the date of the election surveys to which the election survey expenses relate; and
+	- **(c)** in the case of a by-election, a list of partisan activity expenses, election advertising expenses and election survey expenses referred to in subsection 350(4) and the date and place of the partisan activities to which the partisan activity expenses relate, the date and place of the transmission of the election advertising messages to which the election advertising expenses relate and the date of the election surveys to which the election survey expenses relate.
 
 **When no expenses**
 
-- **(3)** If a third party has not incurred expenses referred to in paragraph (2)(a) or (b), that fact shall be indicated in its election advertising report.
+- **(3)** If a third party has not incurred expenses referred to in paragraph (2)(a), (b) or (c), that fact shall be indicated in its third-party expenses return.
 
 **Contributions**
 
-- **(4)** The election advertising report shall include
-	- **(a)** the amount, by class of contributor, of contributions for election advertising purposes that were received in the period beginning six months before the issue of the writ and ending on polling day;
-	- **(b)** for each contributor who made contributions of a total amount of more than $200 for election advertising purposes during the period referred to in paragraph (a), subject to paragraph (b.1), their name, address and class, and the amount and date of each contribution;
+- **(4)** The third-party expenses return shall include
+	- **(a)** the amount, by class of contributor, of contributions for partisan activity, partisan advertising, election advertising or election survey purposes that were received during the period beginning the day after polling day at the general election previous to the polling day referred to in subsection (1) and ending on that polling day referred to in that subsection;
+	- **(b)** subject to paragraph (b.1), for each contributor who made contributions of a total amount of more than $200 for partisan activity, partisan advertising, election advertising or election survey purposes during the period referred to in paragraph (a), their name, address and class, and the amount and date of each contribution;
 	- **(b.1)** in the case of a numbered company that is a contributor referred to in paragraph (b), the name of the chief executive officer or president of that company; and
-	- **(c)** the amount, other than an amount of a contribution referred to in paragraph (a), that was paid out of the third party’s own funds for election advertising expenses.
+	- **(c)** the amount, other than an amount of a contribution referred to in paragraph (a), that was paid out of the third party’s own funds for partisan activity expenses, partisan advertising expenses, election advertising expenses or election survey expenses.
+
+**Exceptions**
+
+- **(4.1)** The third-party expenses return need not include any information referred to in subsection (4) that was included in a third-party expenses return that the third party previously filed under subsection (1) in respect of
+	- **(a)** a by-election that was held after the general election referred to in paragraph (4)(a); or
+	- **(b)** a general election for which the third party incurred expenses or received contributions between the day fixed under paragraph 57(1.2)(c) for polling day at the general election and polling day in an electoral district in which the election was postponed under subsection 59(4) or 77(1).
 
 **Loans**
 
@@ -7361,18 +8652,31 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 	- **(f)** corporations without share capital other than trade unions; and
 	- **(g)** unincorporated organizations or associations other than trade unions.
 
-**Names must be provided**
+**Names to be provided**
 
-- **(7)** If the third party is unable to identify which contributions were received for election advertising purposes in the period referred to in paragraph (4)(a), it must list, subject to paragraph (4)(b.1), the names and addresses of every contributor who donated a total of more than $200 to it during that period.
+- **(7)** If the third party is unable to identify which contributions were received during the period referred to in paragraph (4)(a) for partisan activity, partisan advertising, election advertising or election survey purposes, the third-party expenses return shall include, subject to paragraph (4)(b.1), the names and addresses of every contributor who contributed a total of more than $200 to it during that period.
 
 **Declaration**
 
-- **(8)** An election advertising report shall include the signed declarations of the financial agent and, if different, of the person who signed the application made under subsection 353(2) that the report is accurate.
+- **(8)** A third-party expenses return shall include a declaration that the return is accurate signed by
+	- **(a)** the third party’s financial agent; and
+	- **(b)** if different from the financial agent, the person who signed the application made under subsection 353(2) or — if subsection 353(1.1) applies — 349.6(2).
 
-**Bills, receipts**
+**Supporting documents**
 
-- **(9)** A third party shall, at the request of the Chief Electoral Officer, provide the original of any bill, voucher or receipt in relation to an election advertising expense that is in an amount of more than $50.
-> 2000, c. 9, s. 359; 2001, c. 21, s. 20.
+- **(9)** A third party shall, at the request of the Chief Electoral Officer, provide documents evidencing expenses set out in the return that are in an amount of more than $50, including bank statements, deposit slips and cancelled cheques.
+> 2000, c. 9, s. 359; 2001, c. 21, s. 20; 2018, c. 31, s. 234.
+
+
+
+
+
+**Prohibition — false, misleading or incomplete document**
+
+**359.1** No third party shall file under subsection 359(1) a third-party expenses return that
+- **(a)** the third party knows or ought reasonably to know contains a material statement that is false or misleading; or
+- **(b)** does not substantially set out the information required under section 359.
+> 2018, c. 31, s. 235.
 
 
 
@@ -7382,29 +8686,122 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **360** 
 
-- **(1)** The election advertising report of a third party that incurs $5,000 or more in election advertising expenses must include a report made under subsection (2).
+- **(1)** If a third party incurs partisan activity expenses, partisan advertising expenses, election advertising expenses or election survey expenses in an aggregate amount of $10,000 or more, its third-party expenses return filed under subsection 359(1) shall include a report made under subsection (2).
 
 **Auditor’s report**
 
-- **(2)** The third party’s auditor shall report on the election advertising report and shall make any examination that will enable the auditor to give an opinion in the report as to whether the election advertising report presents fairly the information contained in the accounting records on which it is based.
+- **(2)** The third party’s auditor shall report on the third-party expenses return and shall make any examination that will enable the auditor to give an opinion in the report as to whether the return presents fairly the information contained in the accounting records on which it is based.
 
 **Statement**
 
 - **(3)** An auditor shall include in the report any statement that the auditor considers necessary, when
-	- **(a)** the election advertising report that is the subject of the auditor’s report does not present fairly the information contained in the accounting records on which it is based;
+	- **(a)** the third-party expenses return that is the subject of the report does not present fairly the information contained in the accounting records on which it is based;
 	- **(b)** the auditor has not received from the third party all of the required information and explanation; or
 	- **(c)** based on the auditor’s examination, it appears that proper accounting records have not been kept by the third party.
 
 **Right of access**
 
-- **(4)** The auditor shall have access at any reasonable time to all of the documents of the third party, and may require the third party to provide any information or explanation, that, in the auditor’s opinion, is necessary to enable the auditor to prepare the report.
+- **(4)** The auditor shall have access at any reasonable time to all of the third party’s documents that, in the auditor’s opinion, are necessary to enable the auditor to prepare the report, and may require the third party to provide any information or explanation that, in the auditor’s opinion, is necessary to enable the auditor to prepare the report.
+> 2000, c. 9, s. 360; 2018, c. 31, s. 236.
 
 
 
 
-**Corrections to election expenses report**
 
-**361** The Chief Electoral Officer may make a correction in a report referred to in subsection 359(1) if the error does not materially affect the substance of the report.
+**Minor corrections — Chief Electoral Officer**
+
+**361** 
+
+- **(1)** The Chief Electoral Officer may correct a third-party expenses return filed under subsection 359(1) if the correction does not materially affect its substance.
+
+**Corrections or revisions at request of Chief Electoral Officer**
+
+- **(2)** The Chief Electoral Officer may in writing request a third party to correct or revise, within a specified period, a third-party expenses return filed under subsection 359(1).
+
+**Deadline for correction or revision**
+
+- **(3)** If the Chief Electoral Officer requests a correction or revision, the third party shall provide him or her with the corrected or revised version of the return within the specified period.
+> 2000, c. 9, s. 361; 2018, c. 31, s. 237.
+
+
+
+
+
+**Extensions — Chief Electoral Officer**
+
+**361.1** 
+
+- **(1)** The Chief Electoral Officer, on the written application of a third party, shall authorize the extension of the period referred to in subsection 359(1) unless he or she is satisfied that the third party’s failure to file the third-party expenses return under that subsection was deliberate or was the result of the third party’s failure to exercise due diligence.
+
+**Deadline**
+
+- **(2)** The application may be made within the period referred to in subsection 359(1) or within two weeks after the end of that period.
+> 2018, c. 31, s. 237.
+
+
+
+
+
+**Corrections or revisions — Chief Electoral Officer**
+
+**361.2** 
+
+- **(1)** The Chief Electoral Officer, on the written application of a third party, shall authorize the correction or revision of a third-party expenses return filed under subsection 359(1) if he or she is satisfied by the evidence submitted by the third party that the correction or revision is necessary in order for the requirements of this Act to be complied with.
+
+**Application made without delay**
+
+- **(2)** The application shall be made immediately after the third party becomes aware of the need for correction or revision.
+
+**Deadline for corrections or revisions**
+
+- **(3)** The third party shall provide the Chief Electoral Officer with the corrected or revised version of the return within 30 days after the day on which the correction or revision is authorized or within any extension of that period authorized under subsection (4) or (5).
+
+**New deadline**
+
+- **(4)** The Chief Electoral Officer, on the written application of the third party made within two weeks after the end of the 30-day period referred to in subsection (3), shall authorize the extension of that period, unless he or she is satisfied that the third party’s failure to provide the corrected or revised version of the return was deliberate or was the result of the third party’s failure to exercise due diligence.
+
+**Extension of new deadline**
+
+- **(5)** The Chief Electoral Officer, on the written application of the third party made within two weeks after the end of an extension authorized under subsection (4) or under this subsection, shall authorize the further extension of that period, unless he or she is satisfied that the third party’s failure to provide the corrected or revised version of the return was deliberate or was the result of the third party’s failure to exercise due diligence.
+> 2018, c. 31, s. 237.
+
+
+
+
+
+**Extensions, corrections or revisions — judge**
+
+**361.3** 
+
+- **(1)** A third party may apply to a judge for an order
+	- **(a)** relieving the third party from the obligation to comply with a request referred to in subsection 361(2);
+	- **(b)** authorizing an extension referred to in subsection 361.1(1); or
+	- **(c)** authorizing a correction or revision referred to in subsection 361.2(1).
+The third party shall notify the Chief Electoral Officer that the application has been made.
+
+**Deadline**
+
+- **(2)** The application may be made
+	- **(a)** under paragraph (1)(a), within the specified period referred to in subsection 361(2) or within the two weeks after the end of that period;
+	- **(b)** under paragraph (1)(b), within two weeks after, as the case may be,
+		- **(i)** if an application for an extension is not made to the Chief Electoral Officer within the period referred to in subsection 361.1(2), the end of the two-week period referred to in that subsection,
+		- **(ii)** the rejection of an application for an extension made in accordance with section 361.1, or
+		- **(iii)** the end of the extended period referred to in subsection 361.1(1); or
+	- **(c)** under paragraph (1)(c), within two weeks after the rejection of an application for a correction or revision made in accordance with section 361.2.
+
+**Grounds — extension**
+
+- **(3)** The judge shall grant an order authorizing an extension unless the judge is satisfied that the third party’s failure to file the required third-party expenses return was deliberate or was the result of the third party’s failure to exercise due diligence.
+
+**Grounds — corrections or revisions**
+
+- **(4)** The judge shall grant an order authorizing a correction or revision if the judge is satisfied by the evidence submitted by the third party that the correction or revision is necessary in order for the requirements of this Act to be complied with.
+
+**Contents of order**
+
+- **(5)** The order may require that the third party satisfy any condition that the judge considers necessary for carrying out the purposes of this Act.
+> 2018, c. 31, s. 237.
+
 
 
 
@@ -7412,8 +8809,12 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **Publication**
 
 **362** The Chief Electoral Officer shall, in the manner he or she considers appropriate,
-- **(a)** publish the names and addresses of registered third parties, as they are registered; and
-- **(b)** publish, within one year after the issue of the writ, reports made under subsection 359(1).
+- **(a)** publish the names and addresses of registered third parties, as they are registered;
+- **(a.1)** publish, as soon as feasible, returns filed under subsection 349.91(1), 349.92(1), 357.01(1) or 357.02(1);
+- **(b)** publish, within one year after the issue of the writ, returns filed under subsection 359(1); and
+- **(c)** publish, as soon as feasible, a corrected or revised version of a return filed under subsection 359(1) and published under paragraph (b).
+> 2000, c. 9, s. 362; 2018, c. 31, s. 238.
+
 
 
 
@@ -7461,6 +8862,13 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 - **(1)** Any money that is used for a nomination contestant’s, a candidate’s or a leadership contestant’s campaign out of their own funds is a contribution for the purposes of this Act.
 
+**Exclusion — litigation expenses and personal expenses**
+
+- **(1.1)** For the purposes of this Act, any money that is used out of a nomination contestant’s, candidate’s or leadership contestant’s own funds to pay a litigation expense or personal expense is not a contribution if it has not been deposited into the bank account referred to in
+	- **(a)** subsection 476.65(1), in the case of a nomination contestant;
+	- **(b)** subsection 477.46(1), in the case of a candidate; or
+	- **(c)** subsection 478.72(1), in the case of a leadership contestant.
+
 **Exclusion for goods and services — registered parties, registered associations and candidates**
 
 - **(2)** A provision of goods or services is permitted and is not a contribution for the purposes of this Act if it is
@@ -7504,7 +8912,11 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **Contribution**
 
 - **(8)** For greater certainty, the payment by or on behalf of an individual of fees to attend an annual or biennial convention or leadership convention of a particular registered party is a contribution to that party.
-> 2000, c. 9, s. 364; 2014, c. 12, s. 86.
+
+**Prohibition**
+
+- **(9)** No person or entity other than an individual who is a Canadian citizen or a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) shall pay fees to attend an annual or biennial convention or leadership convention of a particular registered party, or pay fees on behalf of another individual for them to attend such a convention.
+> 2000, c. 9, s. 364; 2014, c. 12, s. 86; 2018, c. 31, s. 239.
 
 
 
@@ -7591,11 +9003,12 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 - **(7)** The following contributions are permitted:
 	- **(a)** contributions that do not exceed $5,000 in total by a candidate for a particular election out of their own funds to their own campaign; and
 	- **(b)** contributions that do not exceed $25,000 in total by a leadership contestant in a particular leadership contest out of their own funds to their own campaign.
+For greater certainty, contributions made by a candidate under subsection (1) to a registered party or a registered association that later transfers funds to the candidate for the purpose of their campaign do not have the effect of reducing the amount that the candidate may contribute under this subsection.
 
 **Contributions under subsection (1) not affected**
 
 - **(8)** Contributions made under subsection (7) do not have the effect of reducing the amounts that the candidate or leadership contestant, as the case may be, may contribute under subsection (1) to other candidates or to other leadership contestants, as the case may be.
-> 2000, c. 9, s. 367; 2014, c. 12, ss. 86, 87.
+> 2000, c. 9, s. 367; 2014, c. 12, ss. 86, 87; 2018, c. 31, s. 240.
 
 
 
@@ -7617,12 +9030,12 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Prohibition — accepting excessive contributions**
 
-- **(3)** No person who is permitted to accept contributions under this Act shall knowingly accept a contribution that exceeds a limit under this Act.
+- **(3)** No person who is permitted to accept contributions under this Act shall accept a contribution that exceeds a limit under this Act.
 
 **Prohibited agreements**
 
 - **(4)** No person or entity shall enter into an agreement for the provision for payment of goods or services, directly or indirectly, to a registered party or a candidate that includes a term that any individual will make a contribution, directly or indirectly, to a registered party, a registered association, a nomination contestant, a candidate or a leadership contestant.
-> 2000, c. 9, s. 368; 2004, c. 24, s. 4; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 368; 2004, c. 24, s. 4; 2014, c. 12, s. 86; 2018, c. 31, s. 241.
 
 
 
@@ -7673,8 +9086,8 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Return of contributions**
 
-**372** If a registered party, a registered association, a nomination contestant, a candidate or a leadership contestant receives a contribution made in contravention of subsection 367(1) or 368(4) or section 370 or 371, the chief agent of the registered party, the financial agent of the registered association, the official agent of the candidate or the financial agent of the nomination contestant or leadership contestant, as the case may be, shall, within 30 days after becoming aware of the contravention, return the contribution unused to the contributor or, if that is not possible, pay the amount of it — or, in the case of a non-monetary contribution, an amount of money equal to its commercial value — to the Chief Electoral Officer, who shall forward that amount to the Receiver General.
-> 2000, c. 9, s. 372; 2003, c. 19, s. 8; 2014, c. 12, s. 86.
+**372** If a registered party, a registered association, a nomination contestant, a candidate or a leadership contestant receives a contribution made in contravention of subsection 367(1) or (6) or 368(4) or section 370 or 371, the chief agent of the registered party, the financial agent of the registered association, the official agent of the candidate or the financial agent of the nomination contestant or leadership contestant, as the case may be, shall, within 30 days after becoming aware of the contravention, return the contribution unused to the contributor or, if that is not possible, pay the amount of it — or, in the case of a non-monetary contribution, an amount of money equal to its commercial value — to the Chief Electoral Officer, who shall forward that amount to the Receiver General.
+> 2000, c. 9, s. 372; 2003, c. 19, s. 8; 2014, c. 12, s. 86; 2018, c. 31, s. 242.
 
 
 
@@ -7731,22 +9144,111 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 
 
-**374.1** [Repealed, 2014, c. 12, s. 86]
-
-
-
 
 #### Expenses
 
 
 
+**Nomination campaign expenses**
+
+**374.1** 
+
+- **(1)** A nomination campaign expense of a nomination contestant is an expense reasonably incurred as an incidence of the nomination contest, including
+	- **(a)** a nomination contest expense;
+	- **(b)** a litigation expense;
+	- **(c)** travel and living expenses;
+	- **(d)** a personal expense; and
+	- **(e)** any fees of an auditor appointed under subsection 476.77(1) that have not been reimbursed by the Receiver General.
+
+**Exclusions — administrative monetary penalties, etc.**
+
+- **(2)** For greater certainty, none of the following is a nomination campaign expense:
+	- **(a)** the amount of any administrative monetary penalty imposed under Part 19;
+	- **(b)** any amount that is required to be paid under a compliance agreement entered into under Part 19 solely as a result of that compliance agreement; and
+	- **(c)** any amount that is required to be paid under an undertaking provided under Part 19 solely as a result of that undertaking.
+> 2004, c. 24, s. 7; 2014, c. 12, s. 86; 2018, c. 31, s. 243.
+
+
+
+
+
+**Nomination contest expenses**
+
+**374.2** 
+
+- **(1)** A nomination contest expense is any of the following:
+	- **(a)** any cost incurred, or non-monetary contribution received, by a nomination contestant, to the extent that the property or service that the cost was incurred for or that was received as a non-monetary contribution is used to directly promote or oppose a nomination contestant during a nomination contest; and
+	- **(b)** any acceptance by a nomination contestant of a provision of goods or services that is permitted under paragraph 364(2)(c), to the extent that the goods or services are used to directly promote or oppose a nomination contestant during a nomination contest.
+
+**Exclusion — fundraising**
+
+- **(2)** Expenses for a fundraising activity, other than expenses referred to in paragraphs (3)(a) and (b) that are related to that activity, are not nomination contest expenses under subsection (1).
+
+**Inclusions**
+
+- **(3)** A nomination contest expense includes a cost incurred for, a non-monetary contribution in relation to, or a provision of goods and services in relation to,
+	- **(a)** the production of advertising or promotional material;
+	- **(b)** the distribution, broadcast or publication of such material in any media or by any other means during the nomination contest, including by the use of a capital asset;
+	- **(c)** the payment of remuneration and expenses to or on behalf of a person for their services as a financial agent or in any other capacity;
+	- **(d)** securing a meeting space or the supply of light refreshments at meetings;
+	- **(e)** any product or service provided by a government, a Crown corporation or any other public agency; and
+	- **(f)** the conduct of surveys or research during a nomination contest.
+
+**Definition of cost incurred**
+
+- **(4)** In this section, ***cost incurred*** means an expense that is incurred by a nomination contestant, whether it is paid or unpaid.
+> 2018, c. 31, s. 243.
+
+
+
+
+
+**Litigation expenses — nomination contestants**
+
+**374.3** A litigation expense of a nomination contestant is an expense of the contestant related to an application to a judge made under this Part, including an expense related to any appeal or judicial review arising from the application.
+> 2018, c. 31, s. 243.
+
+
+
+
+
+**Personal expenses — nomination contestants**
+
+**374.4** 
+
+- **(1)** A nomination contestant’s personal expenses include
+	- **(a)** childcare expenses;
+	- **(b)** expenses relating to the provision of care for a person with a physical or mental incapacity for whom the contestant normally provides such care; and
+	- **(c)** in the case of a contestant who has a disability, additional expenses that are related to the disability.
+
+**Exclusions — travel and living expenses, etc.**
+
+- **(2)** Neither litigation expenses nor travel and living expenses are personal expenses of a nomination contestant.
+> 2018, c. 31, s. 243.
+
+
+
+
+
 **Electoral campaign expenses**
 
-**375** An electoral campaign expense of a candidate is an expense reasonably incurred as an incidence of the election, including
-- **(a)** an election expense;
-- **(b)** a personal expense; and
-- **(c)** any fees of the candidate’s auditor, and any costs incurred for a recount of votes cast in the candidate’s electoral district, that have not been reimbursed by the Receiver General.
-> 2000, c. 9, s. 375; 2003, c. 19, s. 9; 2014, c. 12, s. 86.
+**375** 
+
+- **(1)** An electoral campaign expense of a candidate is an expense reasonably incurred as an incidence of the election, including
+	- **(a)** an election expense;
+	- **(a.1)** a litigation expense;
+	- **(a.2)** travel and living expenses;
+	- **(a.3)** an accessibility expense;
+	- **(b)** a personal expense; and
+	- **(c)** any fees of an auditor appointed under subsection 477.1(2) that have not been reimbursed by the Receiver General.
+
+**Exclusions — administrative monetary penalties, etc.**
+
+- **(2)** For greater certainty, none of the following is an electoral campaign expense:
+	- **(a)** the amount of any administrative monetary penalty imposed under Part 19;
+	- **(b)** any amount that is required to be paid under a compliance agreement entered into under Part 19 solely as a result of that compliance agreement; and
+	- **(c)** any amount that is required to be paid under an undertaking provided under Part 19 solely as a result of that undertaking.
+> 2000, c. 9, s. 375; 2003, c. 19, s. 9; 2014, c. 12, s. 86; 2018, c. 31, s. 244.
 
 
 
@@ -7774,10 +9276,25 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 	- **(e)** any product or service provided by a government, a Crown corporation or any other public agency; and
 	- **(f)** the conduct of election surveys or other surveys or research during an election period.
 
+**Exclusion — accessibility expenses**
+
+- **(3.1)** An accessibility expense of a registered party or a candidate, as the case may be, is not an election expense of that party or candidate.
+
 **Definition of cost incurred**
 
 - **(4)** In subsection (1), ***cost incurred*** means an expense that is incurred by a registered party or a candidate, whether it is paid or unpaid.
-> 2000, c. 9, s. 376; 2003, c. 19, s. 10; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 376; 2003, c. 19, s. 10; 2014, c. 12, s. 86; 2018, c. 31, s. 245.
+
+
+
+
+
+**Partisan advertising expenses**
+
+**376.1** A partisan advertising expense of a registered party or an electoral district association of a registered party, as the case may be, includes any of the following:
+- **(a)** any non-monetary contribution received by the party or association, to the extent that the property or service that was received as a non-monetary contribution is used in relation to the production of a partisan advertising message or the transmission of a partisan advertising message to the public; and
+- **(b)** any acceptance by the party or association of a provision of goods or services that is permitted under subsection 364(2), to the extent that the goods or services are used in relation to the production of a partisan advertising message or the transmission of a partisan advertising message to the public.
+> 2018, c. 31, s. 246.
 
 
 
@@ -7785,8 +9302,55 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Contributions for ticketed fundraising functions**
 
-**377** If a fundraising activity is held for the primary purpose of soliciting a monetary contribution for a registered party, a registered association, a nomination contestant, a candidate or a leadership contestant by way of selling a ticket, the amount of the monetary contribution received is the difference between the price of the ticket and the fair market value of what the ticket entitles the bearer to obtain.
-> 2000, c. 9, s. 377; 2003, c. 19, s. 11; 2004, c. 24, s. 8; 2014, c. 12, s. 86.
+**377** 
+
+- **(1)** If a fundraising activity is held for the primary purpose of soliciting a monetary contribution for a registered party, a registered association, a nomination contestant, a candidate or a leadership contestant by way of selling a ticket, the amount of the monetary contribution received is the difference between the price of the ticket and the fair market value of what the ticket entitles the bearer to obtain.
+
+**Calculation**
+
+- **(2)** For the purpose of subsection (1), in calculating what a ticket bearer is entitled to obtain, to be included in the calculation is
+	- **(a)** the cost of any goods or services received by the ticket bearer personally, such as meals and promotional products; and
+	- **(b)** their share of any general expenses incurred by the registered party, registered association, nomination contestant, candidate or leadership contestant, as the case may be, in holding the activity, such as expenses incurred for the rental of a meeting space or for any audiovisual equipment used.
+> 2000, c. 9, s. 377; 2003, c. 19, s. 11; 2004, c. 24, s. 8; 2014, c. 12, s. 86; 2018, c. 31, s. 247.
+
+
+
+
+
+**Litigation expenses — candidates**
+
+**377.1** A litigation expense of a candidate is an expense of the candidate related to any of the following requests or applications, including an expense related to any appeal or judicial review arising from the request or the application:
+- **(a)** a request or an application made under Part 14;
+- **(b)** an application to a judge made under this Part; and
+- **(c)** an application to contest the election in the candidate’s electoral district.
+> 2018, c. 31, s. 248.
+
+
+
+
+
+**Accessibility expenses**
+
+**377.2** 
+
+- **(1)** An accessibility expense of a registered party or a candidate, as the case may be, is any of the following:
+	- **(a)** the amount of any cost incurred, or non-monetary contribution received, by the party or candidate, to the extent that the property or service that the cost was incurred for — or that was received as a non-monetary contribution — is used solely to make accessible, to persons with a disability, materials used or activities held during an election period;
+	- **(b)** the difference between the amounts referred to in subparagraphs (i) and (ii), to the extent that the amount referred to in subparagraph (i) is greater than the amount referred to in subparagraph (ii):
+		- **(i)** the amount of any cost incurred, or non-monetary contribution received, by the party or candidate, to the extent that the property or service that the cost was incurred for — or that was received as a non-monetary contribution — is used for materials used or activities held during an election period and those materials or activities are accessible to persons with a disability, and
+		- **(ii)** the amount equal to the value of the property or service if the materials or activities had not been accessible to persons with a disability;
+	- **(c)** the amount equal to the value of goods or services referred to in subsection 364(2) that are accepted by the party or candidate, to the extent that the goods or services are used solely to make accessible, to persons with a disability, materials used or activities held during an election period; and
+	- **(d)** the difference between the amounts referred to in subparagraphs (i) and (ii), to the extent that the amount referred to in subparagraph (i) is greater than the amount referred to in subparagraph (ii):
+		- **(i)** the amount equal to the value of goods or services referred to in subsection 364(2) that are accepted by the party or candidate, to the extent that the goods or services are used for materials used or activities held during an election period and those materials or activities are accessible to persons with a disability, and
+		- **(ii)** the amount equal to the value of the goods or services if the materials or activities had not been accessible to persons with a disability.
+
+**Exclusion — fundraising, etc.**
+
+- **(2)** An amount referred to in subsection (1) that is related to a fundraising activity, to the nomination of a person as a candidate or to the selection of a person as leader of a registered party is not an accessibility expense.
+
+**Definition of cost incurred**
+
+- **(3)** In subsection (1), ***cost incurred*** means an expense that is incurred by a registered party or a candidate, whether it is paid or unpaid.
+> 2018, c. 31, s. 248.
 
 
 
@@ -7797,15 +9361,24 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **378** 
 
 - **(1)** A candidate’s personal expenses include
-	- **(a)** travel and living expenses;
+	- **(a)** [Repealed, 2018, c. 31, s. 249]
 	- **(b)** childcare expenses;
 	- **(c)** expenses relating to the provision of care for a person with a physical or mental incapacity for whom the candidate normally provides such care; and
 	- **(d)** in the case of a candidate who has a disability, additional expenses that are related to the disability.
 
-**Categories and maximums**
+**Exclusions — travel and living expenses, etc.**
 
-- **(2)** The Chief Electoral Officer may establish categories of personal expenses and fix maximum amounts that may be incurred for expenses in each category.
-> 2000, c. 9, s. 378; 2004, c. 24, s. 9; 2014, c. 12, s. 86.
+- **(2)** Neither litigation expenses nor travel and living expenses are personal expenses of a candidate.
+> 2000, c. 9, s. 378; 2004, c. 24, s. 9; 2014, c. 12, s. 86; 2018, c. 31, s. 249.
+
+
+
+
+
+**Categories of certain expenses and maximums**
+
+**378.1** The Chief Electoral Officer may establish, in respect of candidates, categories of personal expenses and of travel and living expenses and may fix maximum amounts of expenses that may be incurred in each category.
+> 2018, c. 31, s. 250.
 
 
 
@@ -7815,6 +9388,87 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **379** Any expenses of a candidate that are incurred to remunerate the candidate’s representatives referred to in subsection 136(1) or 237.1(2) are deemed to be personal expenses of the candidate.
 > 2000, c. 9, s. 379; 2014, c. 12, s. 86.
+
+
+
+
+
+**Leadership campaign expenses**
+
+**379.1** 
+
+- **(1)** A leadership campaign expense of a leadership contestant is an expense reasonably incurred as an incidence of the leadership contest, including
+	- **(a)** a leadership contest expense;
+	- **(b)** a litigation expense;
+	- **(c)** travel and living expenses;
+	- **(d)** a personal expense; and
+	- **(e)** any fees of an auditor appointed under Division 6 of Part 18 that have not been reimbursed by the Receiver General.
+
+**Exclusions — administrative monetary penalties, etc.**
+
+- **(2)** For greater certainty, none of the following is a leadership campaign expense:
+	- **(a)** the amount of any administrative monetary penalty imposed under Part 19;
+	- **(b)** any amount that is required to be paid under a compliance agreement entered into under Part 19 solely as a result of that compliance agreement; and
+	- **(c)** any amount that is required to be paid under an undertaking provided under Part 19 solely as a result of that undertaking.
+> 2018, c. 31, s. 251.
+
+
+
+
+
+**Leadership contest expenses**
+
+**379.2** 
+
+- **(1)** A leadership contest expense is any of the following:
+	- **(a)** any cost incurred, or non-monetary contribution received, by a leadership contestant, to the extent that the property or service that the cost was incurred for or that was received as a non-monetary contribution is used to directly promote or oppose a leadership contestant during a leadership contest; and
+	- **(b)** any acceptance by a leadership contestant of a provision of goods or services that is permitted under paragraph 364(2)(c), to the extent that the goods or services are used to directly promote or oppose a leadership contestant during a leadership contest.
+
+**Exclusion — fundraising**
+
+- **(2)** Expenses for a fundraising activity, other than expenses referred to in paragraphs (3)(a) and (b) that are related to that activity, are not leadership contest expenses under subsection (1).
+
+**Inclusions**
+
+- **(3)** A leadership contest expense includes a cost incurred for, a non-monetary contribution in relation to, or a provision of goods and services in relation to,
+	- **(a)** the production of advertising or promotional material;
+	- **(b)** the distribution, broadcast or publication of such material in any media or by any other means during the leadership contest, including by the use of a capital asset;
+	- **(c)** the payment of remuneration and expenses to or on behalf of a person for their services as a financial agent or in any other capacity;
+	- **(d)** securing a meeting space or the supply of light refreshments at meetings;
+	- **(e)** any product or service provided by a government, a Crown corporation or any other public agency; and
+	- **(f)** the conduct of surveys or research during a leadership contest.
+
+**Definition of cost incurred**
+
+- **(4)** In this section, ***cost incurred*** means an expense that is incurred by a leadership contestant, whether it is paid or unpaid.
+> 2018, c. 31, s. 251.
+
+
+
+
+
+**Litigation expenses — leadership contestants**
+
+**379.3** A litigation expense of a leadership contestant is an expense of the contestant related to an application to a judge made under this Part, including an expense related to any appeal or judicial review arising from the application.
+> 2018, c. 31, s. 251.
+
+
+
+
+
+**Personal expenses — leadership contestants**
+
+**379.4** 
+
+- **(1)** A leadership contestant’s personal expenses include
+	- **(a)** childcare expenses;
+	- **(b)** expenses relating to the provision of care for a person with a physical or mental incapacity for whom the contestant normally provides such care; and
+	- **(c)** in the case of a contestant who has a disability, additional expenses that are related to the disability.
+
+**Exclusions — travel and living expenses, etc.**
+
+- **(2)** Neither litigation expenses nor travel and living expenses are personal expenses of a leadership contestant.
+> 2018, c. 31, s. 251.
 
 
 
@@ -7896,6 +9550,9 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 - **(3)** As soon as feasible after receiving an electoral campaign return, any document referred to in subsection 477.59(10), (11), (12) or (15) or any corrected or revised version of those returns or documents for each candidate in an electoral district, the Chief Electoral Officer shall, in the manner that he or she considers appropriate, publish a summary report that includes the maximum election expenses allowed for the electoral district and, for each candidate,
 	- **(a)** the total election expenses;
+	- **(a.1)** the total litigation expenses;
+	- **(a.2)** the total travel and living expenses that are related to travel and sojourns during the election period;
+	- **(a.3)** the total accessibility expenses;
 	- **(b)** the total personal expenses;
 	- **(c)** the number of contributors and the total amount of contributions received;
 	- **(d)** the name of the official agent;
@@ -7905,27 +9562,12 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **Publication of return of deregistered parties**
 
 - **(4)** As soon as feasible after receiving a financial transactions return under subparagraph 420(a)(i) from a deregistered political party, the Chief Electoral Officer shall publish it in the manner that he or she considers appropriate.
-> 2000, c. 9, s. 382; 2003, c. 19, s. 12; 2004, c. 24, s. 14; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 382; 2003, c. 19, s. 12; 2004, c. 24, s. 14; 2014, c. 12, s. 86; 2018, c. 31, s. 252.
 
 
 
 
-
-**Delivery to returning officers**
-
-**383** 
-
-- **(1)** The Chief Electoral Officer shall, as soon as feasible after receiving the documents referred to in subsection 477.59(1) for an electoral district, deliver a copy of them to the returning officer for the electoral district.
-
-**Endorsement of candidates**
-
-- **(2)** A registered party and an eligible party shall include with the statement or report referred to in subsection (1) a statement certified by its chief agent that sets out the names of the person or persons who are authorized by the party to endorse prospective candidates at a general election.
-
-**Retention**
-
-- **(3)** A returning officer who receives documents under subsection (1) shall retain them for three years, or any shorter period that the Chief Electoral Officer considers appropriate, after the end of the six-month period mentioned in subsection (2).
-> 2000, c. 9, s. 383; 2014, c. 12, s. 86; 2015, c. 37, s. 3.
-
+**383** [Repealed, 2018, c. 31, s. 253]
 
 
 
@@ -8276,6 +9918,10 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 		- **(vi)** the name and contact information of a person to whom concerns regarding the party’s policy for the protection of personal information can be addressed; and
 	- **(l)** the address of the page — accessible to the public — on the party’s Internet site where its policy for the protection of personal information is published under subsection (4).
 
+**Short-form name**
+
+- **(2.1)** The Chief Electoral Officer may establish a maximum length for a political party’s short-form name that is to be shown in election documents.
+
 **Additional information**
 
 - **(3)** To confirm that the purpose referred to in paragraph (2)(j) is one of the party’s fundamental purposes, the Chief Electoral Officer may ask the party’s leader to provide any relevant information, including information about the factors described in subsection 521.1(5).
@@ -8403,7 +10049,11 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 **Eligible party deemed registered**
 
 - **(5)** For the purposes of sections 363, 367, 376, 430, 437 and 444, an eligible party that becomes a registered party under subsection (1) is deemed to have been registered from the day of the issue of the writ or writs.
-> 2000, c. 9, s. 390; 2003, c. 19, s. 19; 2014, c. 12, s. 86.
+
+**Eligible party deemed registered**
+
+- **(6)** For the purposes of section 429.1 and — despite subsection (5) — sections 363 and 367, an eligible party that becomes a registered party under subsection (1) is deemed to have been registered from the first day of the pre-election period — if any — before the election period of the election referred to in that subsection.
+> 2000, c. 9, s. 390; 2003, c. 19, s. 19; 2014, c. 12, s. 86; 2018, c. 31, s. 256.
 
 
 
@@ -8933,10 +10583,10 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 - **(4)** No leader of a political party shall make a declaration referred to in section 385, 405 or 407 that they know is false or misleading.
 
-**Prohibition — member’s declaration**
+**Prohibition — false or misleading declaration**
 
-- **(5)** No member of a political party shall make a declaration referred to in section 385 or 407 that they know is false or misleading.
-> 2000, c. 9, s. 408; 2003, c. 19, s. 27; 2014, c. 12, s. 86.
+- **(5)** No person shall make a declaration referred to in paragraph 385(2)(i) or subsection 407(2) that they know is false or misleading.
+> 2000, c. 9, s. 408; 2003, c. 19, s. 27; 2014, c. 12, s. 86; 2018, c. 31, s. 259.
 
 
 
@@ -9250,6 +10900,10 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 - **(2)** Subject to section 348.02, no person or entity, other than a registered agent of a registered party, shall incur the registered party’s expenses.
 
+**Expenses incurred by registered agent other than chief agent**
+
+- **(2.1)** Despite subsection (2), a registered agent — other than the chief agent — of a registered party shall, before incurring the party’s expenses, obtain the written authorization of the chief agent to incur those expenses, and shall incur them only in accordance with that authorization.
+
 **Prohibition — accepting contributions, borrowing**
 
 - **(3)** No person or entity, other than a registered agent of a registered party, shall accept contributions to the registered party or borrow money on its behalf.
@@ -9259,7 +10913,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 - **(4)** No person or entity, other than a registered agent of a registered party, shall, on behalf of the registered party,
 	- **(a)** accept a provision of goods or services, or a transfer of funds, if the provision or transfer is permitted under section 364; or
 	- **(b)** provide goods or services, or transfer funds, if the provision or transfer is permitted under that section.
-> 2000, c. 9, s. 426; 2003, c. 19, s. 36; 2014, c. 12, ss. 86, 155.
+> 2000, c. 9, s. 426; 2003, c. 19, s. 36; 2014, c. 12, ss. 86, 155; 2018, c. 31, s. 261.
 
 
 
@@ -9298,6 +10952,55 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 
 
+##### Maximum Partisan Advertising Expenses
+
+
+
+**Maximum partisan advertising expenses**
+
+**429.1** 
+
+- **(1)** The maximum amount that is allowed for partisan advertising expenses of a registered party for a pre-election period is $1,400,000.
+
+**Inflation adjustment factor**
+
+- **(2)** The amount referred to in subsection (1) shall be multiplied by the inflation adjustment factor referred to in section 384 that is in effect on the first day of the pre-election period.
+> 2018, c. 31, s. 262.
+
+
+
+
+
+**Prohibition — partisan advertising expenses more than maximum amount**
+
+**429.2** 
+
+- **(1)** No chief agent of a registered party shall incur partisan advertising expenses on the party’s behalf of a total amount of more than the maximum amount calculated under section 429.1.
+
+**Prohibition — circumventing maximum amount**
+
+- **(2)** No registered party shall circumvent, or attempt to circumvent, that maximum amount in any manner, including by acting in collusion with a potential candidate for the purpose of his or her engaging in partisan advertising so that the combined total of the following exceeds the maximum amount:
+	- **(a)** the potential candidate’s partisan advertising expenses that relate to the partisan advertising engaged in in collusion with the party; and
+	- **(b)** the party’s partisan advertising expenses.
+
+**Prohibition — collusion by third party**
+
+- **(3)** No third party, within the meaning of paragraph (a.1) of the definition third party in section 349, shall act in collusion with a registered party for the purpose of the registered party’s circumventing that maximum amount.
+> 2018, c. 31, s. 262.
+
+
+
+
+
+**Message to be authorized**
+
+**429.3** A registered party, or a person acting on its behalf, that causes partisan advertising to be conducted shall mention in or on the partisan advertising message that its transmission was authorized by one of the party’s registered agents.
+> 2018, c. 31, s. 262.
+
+
+
+
+
 ##### Maximum Election Expenses
 
 
@@ -9310,18 +11013,19 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 	- **(a)** $0.735 multiplied by the number of names on the preliminary lists of electors for electoral districts in which the registered party has endorsed a candidate or by the number of names on the revised lists of electors for those electoral districts, whichever is greater, and
 	- **(b)** the inflation adjustment factor published by the Chief Electoral Officer under section 384 that is in effect on the date of the issue of the writ or writs for the election.
 
-**Election period longer than 37 days**
+**Maximum expenses: postponement of polling day**
 
-- **(2)** If an election period is longer than 37 days, then the maximum amount calculated under subsection (1) is increased by adding to it the product of
-	- **(a)** one thirty-seventh of the maximum amount calculated under subsection (1), and
-	- **(b)** the number of days in the election period minus 37.
+- **(2)** If the Governor in Council orders the postponement of an election under subsection 59(4) for one or more electoral districts, along with the corresponding extension of the election period, then the maximum amount calculated under subsection (1) for a registered party that has endorsed a candidate in that or any of those electoral districts is increased by adding to it the product of
+	- **(a)** $0.735 multiplied by the number of names on the preliminary list of electors in the electoral districts governed by the order in which the party has endorsed a candidate, or the number of names on the revised list of electors in those electoral districts, whichever is greater, and divided by the number of days in the election period before it was extended;
+	- **(b)** the inflation adjustment factor published by the Chief Electoral Officer under section 384 that is in effect on the date of the issue of the writ or writs for the election; and
+	- **(c)** the number of days by which the election period is extended.
 
 **Amounts not included in election expenses**
 
 - **(3)** For the purpose of subsections (1) and (2), an election expense of a registered party does not include
 	- **(a)** a transfer made by or on behalf of it to candidates in the election; or
 	- **(b)** an expense incurred by it through a registered agent, or person authorized under subsection 381(1), who was not acting within the scope of the registered agent’s authority.
-> 2000, c. 9, s. 430; 2003, c. 19, s. 38; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 430; 2003, c. 19, s. 38; 2014, c. 12, s. 86; 2018, c. 31, s. 263.
 
 
 
@@ -9335,8 +11039,8 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **Prohibition — collusion**
 
-- **(2)** No registered party and no third party, as defined in section 349, shall act in collusion with each other for the purpose of circumventing the maximum amount referred to in subsection (1).
-> 2000, c. 9, s. 431; 2014, c. 12, s. 86.
+- **(2)** No registered party and no third party, within the meaning of paragraph (b) of the definition third party in section 349, shall act in collusion with each other for the purpose of the registered party’s circumventing the maximum amount referred to in subsection (1).
+> 2000, c. 9, s. 431; 2014, c. 12, s. 86; 2018, c. 31, s. 264.
 
 
 
@@ -9370,8 +11074,10 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 	- **(h)** a statement of each amount transferred to a leadership contestant out of a directed contribution as defined in subsection 365(2), the information referred to in paragraph (d) with respect to the contributor and the name of the leadership contestant to whom the amount has been transferred;
 	- **(i)** a statement of the commercial value of goods or services provided and of funds transferred to the registered party from any of its registered associations, a nomination contestant, a candidate or a leadership contestant;
 	- **(j)** a return for election expenses incurred for each by-election during the fiscal period that sets out
-		- **(i)** a statement of expenses incurred by the registered party, whether paid or unpaid, including a statement of expenses incurred for voter contact calling services as defined in section 348.01, provided by a calling service provider as defined in that section, that indicates the name of that provider and the amount of those expenses, and
-		- **(ii)** a statement of non-monetary contributions used by it;
+		- **(i)** as an election expense, each of
+			- **(A)** the expenses incurred by the registered party — other than accessibility expenses — whether paid or unpaid, including a statement of expenses incurred for voter contact calling services as defined in section 348.01, provided by a calling service provider as defined in that section, that indicates the name of that provider and the amount of those expenses, and
+			- **(B)** the non-monetary contributions used by the registered party as an election expense, and
+		- **(ii)** the accessibility expenses incurred by the registered party;
 	- **(k)** a statement of the terms and conditions of each loan made to the registered party under section 373, including the amount of the loan, the interest rate, the lender’s name and address, the dates and amounts of repayments of principal and payments of interest and, if there is a guarantor, the guarantor’s name and address and the amount guaranteed; and
 	- **(l)** a statement of contributions received by the registered party but returned in whole or in part to the contributors or otherwise dealt with in accordance with this Act.
 
@@ -9402,7 +11108,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 	- **(d)** whether the parties have agreed on a repayment schedule and, if so, whether repayments are being made according to the schedule;
 	- **(e)** whether the unpaid amount has been written off by the creditor as an uncollectable debt in accordance with the creditor’s normal accounting practices; and
 	- **(f)** any other relevant information that could help explain why the amount is unpaid.
-> 2000, c. 9, s. 432; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 432; 2014, c. 12, s. 86; 2018, c. 31, s. 265.
 
 
 
@@ -9412,12 +11118,12 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **433** 
 
-- **(1)** If a registered party’s candidates for the most recent general election received at that election at least 2% of the number of valid votes cast, or at least 5% of the number of valid votes cast in the electoral districts in which the registered party endorsed a candidate, the registered party’s chief agent shall provide the Chief Electoral Officer with a return, for each quarter of the fiscal period of the registered party, that includes the information required under paragraphs 432(2)(a) to (d), (i) and (l).
+- **(1)** If a registered party’s candidates for the most recent general election received at that election at least 2% of the number of valid votes cast, or at least 5% of the number of valid votes cast in the electoral districts in which the registered party endorsed a candidate, the registered party’s chief agent shall, for each quarter — in respect of a fiscal period of the registered party — that follows that general election, beginning with the quarter that immediately follows that general election and ending with the quarter in which polling day at the next general election is held, provide the Chief Electoral Officer with a return that includes the information required under paragraphs 432(2)(a) to (d), (i) and (l).
 
 **Period for providing return**
 
 - **(2)** A quarterly return shall be provided within 30 days after the end of the period to which it relates.
-> 2000, c. 9, s. 433; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 433; 2014, c. 12, s. 86; 2018, c. 31, s. 266.
 
 
 
@@ -9653,7 +11359,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 
 
-##### Election Expenses Reporting
+##### Reporting on Expenses
 
 
 
@@ -9668,14 +11374,17 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **Contents of return**
 
-- **(2)** An election expenses return shall set out as an election expense each of
-	- **(a)** the expenses incurred by the registered party, whether paid or unpaid, including a statement of expenses incurred for voter contact calling services as defined in section 348.01, provided by a calling service provider as defined in that section, that indicates the name of that provider and the amount of those expenses; and
-	- **(b)** the non-monetary contributions used by the registered party as an election expense.
+- **(2)** An election expenses return shall set out
+	- **(a)** as an election expense, each of
+		- **(i)** the expenses incurred by the registered party — other than accessibility expenses — whether paid or unpaid, including a statement of expenses incurred for voter contact calling services as defined in section 348.01, provided by a calling service provider as defined in that section, that indicates the name of that provider and the amount of those expenses, and
+		- **(ii)** the non-monetary contributions used by the registered party as an election expense;
+	- **(b)** the accessibility expenses incurred by the registered party; and
+	- **(c)** in the case of a general election held on a day set in accordance with subsection 56.1(2) or section 56.2, the partisan advertising expenses incurred by the registered party in relation to partisan advertising messages transmitted during the pre-election period.
 
 **Period for providing documents**
 
 - **(3)** The registered party’s chief agent shall provide the Chief Electoral Officer with the documents referred to in subsection (1) within eight months after the polling day for the general election.
-> 2000, c. 9, s. 437; 2003, c. 19, s. 41; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 437; 2003, c. 19, s. 41; 2014, c. 12, s. 86; 2018, c. 31, s. 268.
 
 
 
@@ -9821,7 +11530,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 
 
-##### Reimbursement of Election Expenses
+##### Reimbursement of Election Expenses and Accessibility Expenses
 
 
 
@@ -9829,7 +11538,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **444** 
 
-- **(1)** On receipt from a registered party of the documents referred to in subsection 437(1), the Chief Electoral Officer shall provide the Receiver General with a certificate that sets out the amount that is 50% of the registered party’s election expenses that were paid by its registered agents as set out in the return for its general election expenses if
+- **(1)** On receipt from a registered party of the documents referred to in subsection 437(1), the Chief Electoral Officer shall provide the Receiver General with a certificate that sets out the amount that is the sum of 50% of the registered party’s election expenses, as set out in the return for its general election expenses, that were paid by its registered agents and 90% — to a maximum of $250,000 — of the registered party’s accessibility expenses, as set out in that return, that were paid by its registered agents, if
 	- **(a)** the Chief Electoral Officer is satisfied — even despite any statement that the registered party’s auditor has included under paragraph 438(2)(d) in a report under subsection 438(1) — that the registered party and its chief agent have complied with the requirements of sections 437 to 443;
 	- **(b)** the auditor’s report does not include a statement referred to in any of paragraphs 438(2)(a) to (c); and
 	- **(c)** candidates endorsed by the registered party received at least
@@ -9847,7 +11556,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 **Reimbursement**
 
 - **(3)** On receipt of the certificate, the Receiver General shall reimburse the amount set out in it to the registered party by paying that amount out of the Consolidated Revenue Fund.
-> 2000, c. 9, s. 444; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 444; 2014, c. 12, s. 86; 2018, c. 31, s. 270.
 
 
 
@@ -9986,16 +11695,62 @@ This Act applies to information provided under this subsection as if it were inf
 
 
 
-**Prohibition — election advertising in election period**
+**Prohibition — incurring partisan advertising expenses, etc.**
+
+**449.1** 
+
+- **(1)** No electoral district association of a registered party shall
+	- **(a)** incur partisan advertising expenses in relation to partisan advertising messages that promote or oppose a registered party or an eligible party and that are transmitted during a pre-election period; or
+	- **(b)** transmit or cause to be transmitted, during a pre-election period, partisan advertising messages that promote or oppose a registered party or an eligible party.
+
+**Exception**
+
+- **(2)** Despite paragraph (1)(a), an electoral district association of a registered party may incur partisan advertising expenses to the extent that the goods or services that the partisan advertising expense is incurred for are
+	- **(a)** provided to that party, if permitted under paragraph 364(2)(b); or
+	- **(b)** sold to that party.
+
+**Exception**
+
+- **(3)** Despite subsection (1), an electoral district association of a registered party may
+	- **(a)** incur partisan advertising expenses for the transmission of partisan advertising messages referred to in paragraph (1)(a) to the extent that those messages are intended to be transmitted solely, or substantially solely, within the association’s electoral district; and
+	- **(b)** transmit or cause to be transmitted partisan advertising messages referred to in paragraph (1)(b) to the extent that those messages are transmitted solely, or substantially solely, within the association’s electoral district.
+> 2018, c. 31, s. 271.
+
+
+
+
+
+**Message to be authorized**
+
+**449.2** A registered association that causes partisan advertising to be conducted shall mention in or on the partisan advertising message that its transmission was authorized by one of the association’s electoral district agents.
+> 2018, c. 31, s. 271.
+
+
+
+
+
+**Prohibition — incurring election expenses**
 
 **450** 
 
-- **(1)** No electoral district association of a registered party shall, during an election period, incur expenses for — or transmit or cause to be transmitted — election advertising as defined in section 319.
+- **(1)** No electoral district association of a registered party shall incur election expenses.
 
-**Uncancellable spending**
+**Election expenses — electoral district associations**
 
-- **(2)** If a general election is held on a date other than one set out in subsection 56.1(2) or section 56.2, or if a by-election is held, an electoral district association does not incur expenses for election advertising as defined in section 319, or transmit it or cause it to be transmitted, if, on the issue of the writ or writs, the association is not able to cancel the transmission of that advertising.
-> 2000, c. 9, s. 450; 2003, c. 19, s. 43; 2014, c. 12, s. 86.
+- **(1.1)** For the purposes of subsection (1),
+	- **(a)** election expense has the meaning given to that expression by subsection 376(1), except that the reference to “a registered party or a candidate” is to be read as a reference to “an electoral district association”; and
+	- **(b)** subsections 376(2) to (4) apply, other than paragraph 376(3)(c), except that the reference to “a registered party or a candidate” in subsection 376(4) is to be read as a reference to “an electoral district association”.
+
+**Exception**
+
+- **(1.2)** Despite subsection (1), an electoral district association of a registered party may incur an election expense to the extent that the property or service that the cost was incurred for or the non-monetary contribution was received for — or the goods or services that were accepted — are
+	- **(a)** provided to that party, a registered association of that party or a candidate endorsed by that party, if permitted under paragraph 364(2)(b); or
+	- **(b)** sold to that party or a candidate endorsed by that party.
+
+**Uncancellable transmission**
+
+- **(2)** In the case of a general election that is not held on a day set in accordance with subsection 56.1(2) or section 56.2, or of a by-election, an electoral district association is deemed not to have incurred an election expense for election advertising if, on the issue of the writ or writs, it is not able to cancel the transmission of the election advertising message that the expense is in relation to.
+> 2000, c. 9, s. 450; 2003, c. 19, s. 43; 2014, c. 12, s. 86; 2018, c. 31, s. 271.
 
 
 
@@ -10184,10 +11939,10 @@ This Act applies to information provided under this subsection as if it were inf
 
 **Confirmation of registration yearly**
 
-**464** On or before May 31 of every year, unless an election campaign is in progress in that electoral district on that date, in which case the date is July 31, a registered association shall provide the Chief Electoral Officer with
+**464** On or before May 31 of every year a registered association shall provide the Chief Electoral Officer with
 - **(a)** a statement certified by its chief executive officer confirming the validity of the information concerning the association in the registry of electoral district associations; and
 - **(b)** if there is a change in that information, the report of the change made under subsection 463(1).
-> 2000, c. 9, s. 464; 2003, c. 19, s. 48; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 464; 2003, c. 19, s. 48; 2014, c. 12, s. 86; 2018, c. 31, s. 272.
 
 
 
@@ -10281,14 +12036,14 @@ This Act applies to information provided under this subsection as if it were inf
 
 - **(3)** Any registered association in an electoral district whose boundaries are revised as a result of a representation order made under section 25 of the [Electoral Boundaries Readjustment Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-3.md) that does not give a notice under subsection (1) is deregistered on the day on which the representation order comes into force under subsection 25(1) of that Act and, despite paragraph 447(c), may provide goods or transfer funds to the registered party with which it is affiliated or to any of its registered associations in the six months after that day. Any such transfer is not a contribution for the purposes of this Act.
 
-**Pre-registration**
+**Registration**
 
-- **(4)** As soon as a proclamation is issued under section 25 of the [Electoral Boundaries Readjustment Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-3.md) relating to a representation order, an application may be made under section 448 for the registration of an electoral district association for an electoral district that is created by — or whose boundaries are revised as a result of — the order. Any resulting registration does not take effect before the order comes into force.
+- **(4)** As soon as a proclamation is issued under section 25 of the [Electoral Boundaries Readjustment Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-3.md) relating to a representation order, an application may be made under section 448 for the registration of an electoral district association for an electoral district that is created by — or whose boundaries are revised as a result of — the order. The electoral district association may be registered at any time on or after the day on which the application is made.
 
 **Applicant deemed to be electoral district association**
 
 - **(5)** The applicant in an application referred to in subsection (4) is deemed to be an electoral district association as of the date on which the application is received by the Chief Electoral Officer.
-> 2000, c. 9, s. 469; 2003, c. 19, s. 52; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 469; 2003, c. 19, s. 52; 2014, c. 12, s. 86; 2018, c. 31, s. 273.
 
 
 
@@ -10498,7 +12253,7 @@ This Act applies to information provided under this subsection as if it were inf
 
 **475.6** 
 
-- **(1)** The auditor of a registered association that has, in a fiscal period, accepted contributions of $5,000 or more in total or incurred expenses of $5,000 or more in total shall report to the association’s financial agent on the association’s financial transactions return and shall, in accordance with generally accepted auditing standards, make any examination that will enable the auditor to give an opinion in the report as to whether the return presents fairly the information contained in the financial records on which it is based.
+- **(1)** The auditor of a registered association that has, in a fiscal period, accepted contributions of $10,000 or more in total or incurred expenses of $10,000 or more in total shall report to the association’s financial agent on the association’s financial transactions return and shall, in accordance with generally accepted auditing standards, make any examination that will enable the auditor to give an opinion in the report as to whether the return presents fairly the information contained in the financial records on which it is based.
 
 **Statement**
 
@@ -10510,7 +12265,7 @@ This Act applies to information provided under this subsection as if it were inf
 **Right of access**
 
 - **(3)** The auditor shall have access at any reasonable time to all of the association’s documents, and may require the association’s electoral district agents to provide any information or explanation that, in the auditor’s opinion, may be necessary to enable the auditor to prepare the report.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 274.
 
 
 
@@ -10540,7 +12295,11 @@ This Act applies to information provided under this subsection as if it were inf
 **Payment**
 
 - **(2)** On receipt of the certificate, the Receiver General shall pay the amount set out in it to the auditor out of the Consolidated Revenue Fund.
-> 2014, c. 12, s. 86.
+
+**Inflation adjustment factor**
+
+- **(3)** The $1,500 amount set out in subsection (1) shall be multiplied by the inflation adjustment factor referred to in section 384 that is in effect on the last day of the registered association’s fiscal period to which the auditor’s report relates.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 275.
 
 
 
@@ -10661,18 +12420,10 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 
 
-**Definitions**
+**Definition of selection date**
 
-**476** The following definitions apply in this Division.
-
-***personal expenses*** means the expenses of a personal nature that are reasonably incurred by or on behalf of a nomination contestant in relation to their nomination campaign and includes
-- **(a)** travel and living expenses;
-- **(b)** childcare expenses;
-- **(c)** expenses relating to the provision of care for a person with a physical or mental incapacity for whom the contestant normally provides such care; and
-- **(d)** in the case of a contestant who has a disability, additional expenses that are related to the disability. (*dépense personnelle*)
-
-***selection date*** means the date on which a nomination contest is decided. (*date de désignation*)
-> 2000, c. 9, s. 476; 2003, c. 19, s. 56; 2014, c. 12, s. 86.
+**476** In this Division, ***selection date*** means the date on which a nomination contest is decided. (*date de désignation*)
+> 2000, c. 9, s. 476; 2003, c. 19, s. 56; 2014, c. 12, s. 86; 2018, c. 31, s. 277.
 
 
 
@@ -10832,9 +12583,13 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 - **(2)** The account shall name the account holder as follows: “(*name of financial agent*), financial agent”.
 
-**Payments and receipts**
+**Deposits into account**
 
-- **(3)** All of a nomination contestant’s financial transactions in relation to the contestant’s nomination campaign that involve the payment or receipt of money are to be paid from or deposited to the account.
+- **(3)** All of a nomination contestant’s financial transactions in relation to the contestant’s nomination campaign that involve the receipt of money are to be deposited to the account unless the transaction involves the receipt of the contestant’s own funds and those funds are used to pay a litigation expense or a personal expense.
+
+**Payments from account**
+
+- **(3.1)** All of a nomination contestant’s financial transactions in relation to the contestant’s nomination campaign that involve the payment of money are to be paid from the account unless the transaction involves the payment out of the contestant’s own funds of a litigation expense or a personal expense.
 
 **Closure of bank account**
 
@@ -10843,7 +12598,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 **Final statement of bank account**
 
 - **(5)** The financial agent shall, on closing the account, provide the Chief Electoral Officer with the final statement of the account.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 278.
 
 
 
@@ -10867,16 +12622,20 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **Prohibition — paying nomination campaign expenses**
 
-- **(4)** No person or entity, other than the financial agent of a nomination contestant, shall pay the contestant’s nomination campaign expenses, other than personal expenses.
+- **(4)** No person or entity, other than a nomination contestant’s financial agent, shall pay the contestant’s nomination campaign expenses except for
+	- **(a)** a litigation expense;
+	- **(b)** travel and living expenses;
+	- **(c)** a personal expense; or
+	- **(d)** a petty expense referred to in section 381.
 
 **Prohibition — incurring nomination campaign expenses**
 
 - **(5)** Subject to section 348.02, no person or entity, other than the nomination contestant or their financial agent, shall incur the contestant’s nomination campaign expenses.
 
-**Prohibition — paying contestant’s personal expenses**
+**Prohibition — paying contestant’s personal expenses, etc.**
 
-- **(6)** No person or entity, other than the nomination contestant or their financial agent, shall pay the contestant’s personal expenses.
-> 2014, c. 12, ss. 86, 155.
+- **(6)** No person or entity, other than the nomination contestant or their financial agent, shall pay the contestant’s expenses referred to in any of paragraphs 4(a) to (c).
+> 2014, c. 12, ss. 86, 155; 2018, c. 31, s. 279.
 
 
 
@@ -10885,9 +12644,9 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 **Limits on nomination contest expenses**
 
 **476.67** The limit for nomination contest expenses that is allowed for a nomination contestant in an electoral district is the amount
-- **(a)** that is 20% of the election expenses limit that was calculated under section 477.49 for that electoral district during the immediately preceding general election, if the boundaries for the electoral district have not changed since then; or
+- **(a)** that is 20% of the election expenses limit that was calculated under subsection 477.49(1) for that electoral district during the immediately preceding general election, if the boundaries for the electoral district have not changed since then; or
 - **(b)** that the Chief Electoral Officer determines, in any other case.
-> 2014, c. 12, s. 86; 2018, c. 20, s. 4.
+> 2014, c. 12, s. 86; 2018, c. 20, s. 4; 2018, c. 31, s. 280.
 
 
 
@@ -11004,21 +12763,24 @@ The nomination contestant shall notify the Chief Electoral Officer that the proc
 
 - **(2)** The nomination campaign return shall set out
 	- **(a)** a statement of nomination contest expenses;
-	- **(a.1)** a statement of nomination campaign expenses, other than nomination contest expenses;
+	- **(a.1)** a statement of litigation expenses that includes an indication of which of those expenses were paid other than from the bank account referred to in subsection 476.65(1) and the source of the funds used to pay them;
+	- **(a.2)** a statement of travel and living expenses;
+	- **(a.3)** a statement of personal expenses that includes an indication of which of those expenses were paid other than from the bank account referred to in subsection 476.65(1) and the source of the funds used to pay them;
+	- **(a.4)** a statement of nomination campaign expenses, other than the expenses referred to in paragraphs (a) to (a.3);
 	- **(b)** a statement of claims that are the subject of proceedings under section 476.74;
 	- **(c)** a statement of unpaid claims, including those resulting from loans made to the nomination contestant under section 373;
 	- **(d)** a statement of the terms and conditions of each loan made to the nomination contestant under section 373, including the amount of the loan, the interest rate, the lender’s name and address, the dates and amounts of repayments of principal and payments of interest, the unpaid principal remaining at the end of each calendar year and, if there is a guarantor, the guarantor’s name and address and the amount guaranteed;
 	- **(e)** the total amount of contributions received by the nomination contestant;
 	- **(f)** the number of contributors;
 	- **(g)** the name and address of each contributor who made contributions of a total amount of more than $200 to the nomination contestant, that total amount, as well as the amount of each of those contributions and the date on which the contestant received it;
-	- **(h)** a statement of the commercial value of goods or services provided and of funds transferred by the nomination contestant to a registered party, a registered association, or a candidate;
+	- **(h)** a statement of the funds transferred by the nomination contestant to a registered party, a registered association or a candidate;
 	- **(i)** a statement of the commercial value of goods or services provided to the nomination contestant by a registered party or a registered association;
 	- **(j)** a statement of the commercial value of goods or services provided and of funds transferred to the nomination contestant from themselves in their capacity as a candidate; and
 	- **(k)** a statement of contributions received but returned in whole or in part to the contributors or otherwise dealt with in accordance with this Act.
 
 **Supporting documents**
 
-- **(3)** Together with the nomination campaign return, the nomination contestant’s financial agent shall provide the Chief Electoral Officer with documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques and the contestant’s written statement concerning personal expenses referred to in subsection 476.82(1).
+- **(3)** Together with the nomination campaign return, the nomination contestant’s financial agent shall provide the Chief Electoral Officer with documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques and the contestant’s written statement referred to in subsection 476.82(1).
 
 **Additional supporting documents**
 
@@ -11043,8 +12805,9 @@ The nomination contestant shall notify the Chief Electoral Officer that the proc
 **Death of nomination contestant**
 
 - **(9)** If a nomination contestant dies without having sent the declaration within the period referred to in subsection (8),
-	- **(a)** they are deemed to have sent the declaration in accordance with that subsection; and
-	- **(b)** the financial agent is deemed to have provided the declaration to the Chief Electoral Officer in accordance with subsection (1).
+	- **(a)** they are deemed to have sent the declaration in accordance with that subsection;
+	- **(b)** the financial agent is deemed to have provided the declaration to the Chief Electoral Officer in accordance with subsection (1); and
+	- **(c)** the Chief Electoral Officer is deemed to have received the declaration for the purpose of section 476.901.
 
 **Payment of unpaid claims**
 
@@ -11079,7 +12842,7 @@ The nomination contestant shall notify the Chief Electoral Officer that the proc
 **Selection date**
 
 - **(16)** In applying subsections (7), (8), (11) and (12), if the selection date of a nomination contest falls within an election period for that electoral district or the 30 days before it, then a reference to “selection date” is to be read as a reference to “polling day”.
-> 2014, c. 12, s. 86; 2018, c. 20, s. 6.
+> 2014, c. 12, s. 86; 2018, c. 20, s. 6; 2018, c. 31, ss. 282, 399.
 
 
 
@@ -11194,13 +12957,26 @@ The nomination contestant shall notify the Chief Electoral Officer that the proc
 **476.82** 
 
 - **(1)** A nomination contestant shall, within three months after the selection date, send their financial agent a written statement in the prescribed form that
-	- **(a)** sets out the amount of any personal expenses that the contestant paid and details of those personal expenses, including documentation of their payment; or
-	- **(b)** declares that the contestant did not pay for any personal expenses.
+	- **(a)** sets out the following:
+		- **(i)** the amount of any travel and living expenses paid by the contestant and details of those expenses, and
+		- **(ii)** the amount of any litigation expenses and personal expenses paid by the contestant, details of those expenses and an indication of which of them were paid other than from the bank account referred to in subsection 476.65(1) and the source of the funds used to pay them; or
+	- **(b)** declares that the contestant did not pay for any travel and living expenses, litigation expenses or personal expenses.
+
+**Supporting documents**
+
+- **(1.1)** Together with the statement referred to in paragraph (1)(a), the nomination contestant shall send their financial agent documents evidencing the payment of the expenses referred to in the statement.
 
 **Death of contestant**
 
 - **(2)** Subsection (1) does not apply to a nomination contestant who dies before the end of the three-month period referred to in that subsection without having sent the written statement.
-> 2014, c. 12, s. 86.
+
+**Subsequent payments — litigation expenses**
+
+- **(3)** If, after having sent their financial agent the statement referred to in subsection (1), a nomination contestant pays a litigation expense other than from the bank account referred to in subsection 476.65(1), the contestant shall, as soon as feasible after paying it,
+	- **(a)** notify their financial agent of the payment;
+	- **(b)** inform their financial agent of the amount of the expense, the details of the expense and the source of the funds used to pay it; and
+	- **(c)** send their financial agent documents evidencing payment of the expense.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 283.
 
 
 
@@ -11360,12 +13136,46 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
+**Prohibition — false or misleading declaration**
+
+**476.891** No nomination contestant shall send to their financial agent a declaration referred to in paragraph 476.75(1)(d) that they know or reasonably ought to know is false or misleading.
+> 2018, c. 31, s. 284.
+
+
+
+
+
 **Prohibition — false, misleading or incomplete document**
 
-**476.9** No nomination contestant and no financial agent of a nomination contestant shall provide the Chief Electoral Officer with a document referred to in subsection 476.75(1), (10), (11), (12) or (15) that
-- **(a)** the contestant or the financial agent, as the case may be, knows or ought reasonably to know contains a material statement that is false or misleading; or
-- **(b)** in the case of a document referred to in subsection 476.75(1), does not substantially set out the information required under subsection 476.75(2) and, in the case of a document referred to in subsection 476.75(10), (11), (12) or (15), does not substantially set out the information required under that subsection.
-> 2014, c. 12, s. 86.
+**476.9** No financial agent of a nomination contestant shall provide the Chief Electoral Officer with a document referred to in subsection 476.75(1), (10), (11), (12) or (15) that
+- **(a)** the financial agent knows or ought reasonably to know contains a material statement that is false or misleading; or
+- **(b)** in the case of a document referred to in paragraph 476.75(1)(a), does not substantially set out the information required under subsection 476.75(2) and, in the case of a document referred to in subsection 476.75(10), (11), (12) or (15), does not substantially set out the information required under that subsection.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 285.
+
+
+
+
+
+##### Payment of Audit Expenses
+
+
+
+**Certificate**
+
+**476.901** 
+
+- **(1)** On receipt of the documents referred to in subsection 476.75(1), including the auditor’s report, and a copy of the auditor’s invoice for the report, the Chief Electoral Officer shall provide the Receiver General with a certificate that sets out the greater of
+	- **(a)** the amount of the expenses incurred for the audit, up to a maximum of the lesser of 3% of the nomination contestant’s nomination contest expenses and $1,500, and
+	- **(b)** $250.
+
+**Payment**
+
+- **(2)** On receipt of the certificate, the Receiver General shall pay the amount set out in it to the auditor out of the Consolidated Revenue Fund.
+
+**Inflation adjustment factor**
+
+- **(3)** The $1,500 amount set out in paragraph (1)(a) and the $250 amount set out in paragraph (1)(b) shall be multiplied by the inflation adjustment factor referred to in section 384 that is in effect on the selection date.
+> 2018, c. 31, s. 285.
 
 
 
@@ -11377,8 +13187,17 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Surplus of nomination campaign funds**
 
-**476.91** The surplus amount of nomination campaign funds that a nomination contestant receives for a nomination contest is the amount by which the contributions accepted by the financial agent on behalf of the contestant and any other amounts received by the contestant for their nomination campaign that are not repayable are more than the contestant’s nomination campaign expenses paid under this Act and any transfers referred to in paragraph 364(5)(a).
-> 2014, c. 12, s. 86.
+**476.91** 
+
+- **(1)** The surplus amount of nomination campaign funds that a nomination contestant receives for a nomination contest is the amount by which the sum of the following is more than the sum of the contestant’s nomination campaign expenses paid from the bank account referred to in subsection 476.65(1) and any transfers referred to in paragraph 364(5)(a):
+	- **(a)** contributions accepted by the financial agent on behalf of the contestant;
+	- **(b)** money received from the sale referred to in subsection (2); and
+	- **(c)** any other amounts received by the contestant for their nomination campaign that are required to be deposited into the bank account referred to in subsection 476.65(1) and are not repayable.
+
+**Sale of capital assets**
+
+- **(2)** Before the surplus amount of nomination campaign funds is disposed of in accordance with sections 476.92 and 476.93, a nomination contestant’s financial agent shall sell, at their fair market value, any capital assets whose acquisition constitutes a nomination campaign expense.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 286.
 
 
 
@@ -11441,8 +13260,8 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Deeming**
 
-**477** For the purposes of Division 1 of this Part and this Division, except sections 477.89 to 477.95, a candidate is deemed to have been a candidate from the time they accept a provision of goods or services under section 364, accept a transfer of funds under that section, accept a contribution, borrow money under section 373 or incur an electoral campaign expense referred to in section 375.
-> 2000, c. 9, s. 477; 2014, c. 12, s. 86.
+**477** For the purposes of Division 1 of this Part and this Division, except sections 477.89 to 477.95, a candidate is deemed to have been a candidate from the time they accept a provision of goods or services under section 364, accept a transfer of funds under that section, accept a contribution, borrow money under section 373 or incur an electoral campaign expense within the meaning of subsection 375(1).
+> 2000, c. 9, s. 477; 2014, c. 12, s. 86; 2018, c. 31, s. 287.
 
 
 
@@ -11452,12 +13271,15 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **477.1** 
 
-- **(1)** A candidate shall appoint an official agent before accepting a provision of goods or services under section 364, accepting a transfer of funds under that section, accepting a contribution, borrowing money under section 373 or incurring an electoral campaign expense referred to in section 375.
+- **(1)** A candidate shall appoint an official agent before accepting a provision of goods or services under section 364, accepting a transfer of funds under that section, accepting a contribution, borrowing money under section 373 or incurring an electoral campaign expense within the meaning of subsection 375(1).
 
 **Appointment of auditor**
 
-- **(2)** A candidate shall appoint an auditor on appointing an official agent.
-> 2014, c. 12, s. 86.
+- **(2)** A candidate shall appoint an auditor without delay if
+	- **(a)** they accept contributions of $10,000 or more in total;
+	- **(b)** they incur electoral campaign expenses of $10,000 or more in total; or
+	- **(c)** they receive 10% or more of the valid votes cast in the electoral district in which they are a candidate.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 288.
 
 
 
@@ -11585,9 +13407,13 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(2)** The account shall name the account holder as follows: “(*name of official agent*), official agent”.
 
-**Payments and receipts**
+**Deposits into account**
 
-- **(3)** All of a candidate’s financial transactions in relation to the candidate’s electoral campaign that involve the payment or receipt of money are to be paid from or deposited to the account.
+- **(3)** All of a candidate’s financial transactions in relation to the candidate’s electoral campaign that involve the receipt of money are to be deposited to the account unless the transaction involves the receipt of the candidate’s own funds and those funds are used to pay a litigation expense or a personal expense.
+
+**Payments from account**
+
+- **(3.1)** All of a candidate’s financial transactions in relation to the candidate’s electoral campaign that involve the payment of money are to be paid from the account unless the transaction involves the payment out of the candidate’s own funds of a litigation expense or a personal expense.
 
 **Closure of bank account**
 
@@ -11596,7 +13422,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Final statement of bank account**
 
 - **(5)** The official agent shall, on closing the account, provide the Chief Electoral Officer with the final statement of the account.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 289.
 
 
 
@@ -11620,42 +13446,33 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Prohibition — paying electoral expenses**
 
-- **(4)** No person or entity, other than the candidate’s official agent, shall pay expenses in relation to a candidate’s electoral campaign except for petty expenses referred to in section 381 and the candidate’s personal expenses.
+- **(4)** No person or entity, other than a candidate’s official agent, shall pay the candidate’s electoral campaign expenses except for
+	- **(a)** a litigation expense;
+	- **(b)** travel and living expenses;
+	- **(c)** a personal expense; or
+	- **(d)** a petty expense referred to in section 381.
 
 **Prohibition — incurring electoral expenses**
 
 - **(5)** No person or entity, other than a candidate, their official agent or a person authorized under paragraph 477.55(c) to enter into contracts, shall incur expenses in relation to the candidate’s electoral campaign.
 
-**Prohibition — paying candidate’s personal expenses**
+**Election expenses incurred by candidate**
 
-- **(6)** No person or entity, other than a candidate or their official agent, shall pay the candidate’s personal expenses.
+- **(5.1)** Despite subsection (5), a candidate shall, before incurring election expenses, obtain the written authorization of their official agent to incur those expenses, and shall incur them only in accordance with that authorization.
+
+**Prohibition — paying candidate’s personal expenses, etc.**
+
+- **(6)** No person or entity, other than a candidate or their official agent, shall pay the candidate’s expenses referred to in any of paragraphs (4)(a) to (c).
 
 **Exception**
 
 - **(7)** Subsection (4) or (5), as the case may be, does not apply to a registered agent of a registered party who pays or incurs expenses in relation to the electoral campaign of the leader of the registered party.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 290.
 
 
 
 
-
-##### Expense Limit for Notices of Nomination Meetings
-
-
-
-**Limit**
-
-**477.48** 
-
-- **(1)** The amount that may be spent on providing notice of meetings that are to be held during an election period for the principal purpose of nominating a candidate for an election in an electoral district shall not be more than 1% of the maximum election expenses
-	- **(a)** that were allowed for a candidate in that electoral district during the immediately preceding general election, if the boundaries for the electoral district have not changed since then; or
-	- **(b)** that the Chief Electoral Officer determines, in any other case.
-
-**Prohibition on official agents, candidates and authorized persons**
-
-- **(2)** No candidate, official agent of a candidate or person who is authorized under paragraph 477.55(c) to enter into contracts shall incur or cause to be incurred total expenses on account of notices referred to in subsection (1) in an amount that is more than the amount determined under that subsection.
-> 2014, c. 12, s. 86.
-
+**477.48** [Repealed, 2018, c. 31, s. 291]
 
 
 
@@ -11670,12 +13487,12 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(1)** The election expenses limit that is allowed for a candidate’s election expenses in an electoral district is the product of the base amount for an electoral district determined under section 477.5 and the inflation adjustment factor referred to in section 384 on the day on which the writ is issued.
 
-**Election period longer than 37 days**
+**Maximum expenses: postponement of polling day**
 
-- **(2)** If an election period is longer than 37 days, then the election expenses limit calculated under subsection (1) is increased by adding to it the product of
-	- **(a)** one thirty-seventh of the election expenses limit calculated under subsection (1), and
-	- **(b)** the number of days in the election period minus 37.
-> 2014, c. 12, s. 86.
+- **(2)** If the Governor in Council orders the postponement of polling day under subsection 59(4) for an electoral district along with the corresponding extension of the election period, then the election expenses limit calculated under subsection (1) for a candidate in that electoral district is increased by adding to it the product of
+	- **(a)** the election expenses limit calculated under subsection (1) divided by the number of days in the election period before it was extended, and
+	- **(b)** the number of days by which the election period is extended.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 292.
 
 
 
@@ -11816,6 +13633,15 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
+**Prohibition — entering into contracts without authorization**
+
+**477.551** No person authorized under paragraph 477.55(c) to enter into contracts shall enter into any contract in relation to an electoral campaign other than a contract that they are authorized in writing by the official agent to enter into under that paragraph.
+> 2018, c. 31, s. 293.
+
+
+
+
+
 **Irregular claims or payments — Chief Electoral Officer**
 
 **477.56** 
@@ -11865,7 +13691,7 @@ The candidate shall notify the Chief Electoral Officer that the proceedings have
 
 - **(1)** A candidate’s official agent shall provide the Chief Electoral Officer with the following in respect of an election:
 	- **(a)** an electoral campaign return, in the prescribed form, on the financing and expenses for the candidate’s electoral campaign;
-	- **(b)** the auditor’s report on the return under section 477.62;
+	- **(b)** if the appointment of an auditor is required under subsection 477.1(2), the auditor’s report on the return under section 477.62;
 	- **(c)** a declaration in the prescribed form by the official agent that the return is complete and accurate; and
 	- **(d)** a declaration in the prescribed form by the candidate that the return is complete and accurate.
 
@@ -11873,7 +13699,14 @@ The candidate shall notify the Chief Electoral Officer that the proceedings have
 
 - **(2)** The electoral campaign return shall set out
 	- **(a)** a statement of election expenses, including a statement of election expenses incurred for voter contact calling services as defined in section 348.01, provided by a calling service provider as defined in that section, that indicates the name of that provider and the amount of those expenses;
-	- **(b)** a statement of electoral campaign expenses, other than election expenses, including a statement of electoral campaign expenses incurred for voter contact calling services as defined in section 348.01, provided by a calling service provider as defined in that section, that indicates the name of that provider and the amount of those expenses;
+	- **(a.1)** a statement of litigation expenses that includes an indication of which of those expenses were paid other than from the bank account referred to in subsection 477.46(1) and the source of the funds used to pay them;
+	- **(a.2)** a statement of travel and living expenses that includes an indication of which of those expenses relate to travel and sojourns during the election period;
+	- **(a.3)** a statement of accessibility expenses;
+	- **(a.4)** a statement of personal expenses that includes
+		- **(i)** an indication of which of those expenses are childcare expenses,
+		- **(ii)** an indication of which of those expenses are expenses referred to in paragraphs 378(1)(c) and (d), and
+		- **(iii)** an indication of which of those expenses were paid other than from the bank account referred to in subsection 477.46(1) and the source of the funds used to pay them;
+	- **(b)** a statement of electoral campaign expenses, other than the expenses referred to in paragraphs (a) to (a.4), including a statement of electoral campaign expenses incurred for voter contact calling services as defined in section 348.01, provided by a calling service provider as defined in that section, that indicates the name of that provider and the amount of those expenses;
 	- **(c)** a statement of claims that are the subject of proceedings under section 477.58;
 	- **(d)** a statement of unpaid claims, including those resulting from loans made to the candidate under section 373;
 	- **(e)** a statement of the terms and conditions of each loan made to the candidate under section 373, including the amount of the loan, the interest rate, the lender’s name and address, the dates and amounts of repayments of principal and payments of interest, the unpaid principal remaining at the end of each calendar year and, if there is a guarantor, the guarantor’s name and address and the amount guaranteed;
@@ -11886,7 +13719,7 @@ The candidate shall notify the Chief Electoral Officer that the proceedings have
 
 **Supporting documents**
 
-- **(3)** Together with the electoral campaign return, the official agent of a candidate shall provide the Chief Electoral Officer with documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques and the candidate’s written statement concerning personal expenses referred to in subsection 477.64(1).
+- **(3)** Together with the electoral campaign return, the official agent of a candidate shall provide the Chief Electoral Officer with documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques and the candidate’s written statement referred to in subsection 477.64(1).
 
 **Additional supporting documents**
 
@@ -11944,7 +13777,7 @@ The candidate shall notify the Chief Electoral Officer that the proceedings have
 **Irregular claims and payments**
 
 - **(15)** The candidate’s official agent shall provide the Chief Electoral Officer with a report in the prescribed form on the payment of a claim that was subject to an authorization to pay under section 477.56 or 477.57 or an order to pay resulting from proceedings commenced under section 477.58. The official agent shall provide the report within 30 days after the day on which the payment is made and shall include in it information indicating the source of the funds used to pay the claim.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 294.
 
 
 
@@ -12032,13 +13865,26 @@ The candidate shall notify the Chief Electoral Officer that the proceedings have
 **477.64** 
 
 - **(1)** A candidate shall, within three months after polling day, send their official agent a written statement in the prescribed form that
-	- **(a)** sets out the amount of any personal expenses that the candidate paid and details of those personal expenses, including documentation of their payment; or
-	- **(b)** declares that the candidate did not pay for any personal expenses.
+	- **(a)** sets out the following:
+		- **(i)** the amount of any travel and living expenses paid by the candidate and details of those expenses, and
+		- **(ii)** the amount of any litigation expenses and personal expenses paid by the candidate, details of those expenses and an indication of which of them were paid other than from the bank account referred to in subsection 477.46(1) and the source of the funds used to pay them; or
+	- **(b)** declares that the candidate did not pay for any travel and living expenses, litigation expenses or personal expenses.
+
+**Supporting documents**
+
+- **(1.1)** Together with the statement referred to in paragraph (1)(a), the candidate shall send their official agent documents evidencing the payment of the expenses referred to in the statement.
 
 **Death of candidate**
 
 - **(2)** Subsection (1) does not apply to a candidate who dies before the end of the three-month period referred to in that subsection without having sent the written statement.
-> 2014, c. 12, s. 86.
+
+**Subsequent payments — litigation expenses**
+
+- **(3)** If, after having sent their official agent the statement referred to in subsection (1), a candidate pays a litigation expense other than from the bank account referred to in subsection 477.46(1), the candidate shall, as soon as feasible after paying it,
+	- **(a)** notify their official agent of the payment;
+	- **(b)** inform their official agent of the amount of the expense, the details of the expense and the source of the funds used to pay it; and
+	- **(c)** send their official agent documents evidencing payment of the expense.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 295.
 
 
 
@@ -12202,34 +14048,54 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 
 
+**Prohibition — false or misleading declaration**
+
+**477.711** No candidate shall send to their official agent a declaration referred to in paragraph 477.59(1)(d) that they know or ought reasonably to know is false or misleading.
+> 2018, c. 31, s. 296.
+
+
+
+
+
 **Prohibition — false, misleading or incomplete document**
 
 **477.72** 
 
-- **(1)** No candidate and no official agent of a candidate shall provide the Chief Electoral Officer with a document referred to in subsection 477.59(1), (10), (11), (12) or (15) that
-	- **(a)** the candidate or the official agent, as the case may be, knows or ought reasonably to know contains a material statement that is false or misleading; or
-	- **(b)** in the case of a document referred to in subsection 477.59(1), does not substantially set out the information required under subsection 477.59(2) and, in the case of a document referred to in subsection 477.59(10), (11), (12) or (15), does not substantially set out the information required under that subsection.
+- **(1)** No official agent of a candidate shall provide the Chief Electoral Officer with a document referred to in subsection 477.59(1), (10), (11), (12) or (15) that
+	- **(a)** the official agent knows or ought reasonably to know contains a material statement that is false or misleading; or
+	- **(b)** in the case of a document referred to in paragraph 477.59(1)(a), does not substantially set out the information required under subsection 477.59(2) and, in the case of a document referred to in subsection 477.59(10), (11), (12) or (15), does not substantially set out the information required under that subsection.
 
-**Membership in House of Commons suspended**
+**Membership in House of Commons suspended — document not provided**
 
-- **(2)** If the Chief Electoral Officer determines, with respect to an elected candidate, that a document that was required to be provided under subsection 477.59(1), (10), (11), (12) or (15) was not provided within the period for providing it or within any extension to that period authorized under subsection 477.66(1) or paragraph 477.68(1)(b), or that a correction or revision was not made as authorized by subsection 477.67(1) within the period provided in subsection 477.67(3), then the Chief Electoral Officer shall so inform the Speaker of the House of Commons and the candidate is not entitled to continue to sit or vote as a member of the House of Commons until the document, correction or revision is provided or made, as the case may be.
+- **(2)** If the Chief Electoral Officer determines, with respect to an elected candidate, that a document that was required to be provided under subsection 477.59(1), (10), (11), (12) or (15) was not provided within the period for providing it or within any extension to that period authorized under subsection 477.66(1), then, until the document is provided, the candidate is not entitled to continue to sit or vote as a member of the House of Commons as of
+	- **(a)** the expiry of the two-week period referred to in paragraph 477.68(2)(b), determined on the basis of whichever of its subparagraphs applies, if the candidate or their official agent does not apply to a judge for an order under paragraph 477.68(1)(b);
+	- **(b)** if the candidate or their official agent applies to a judge for an order under paragraph 477.68(1)(b), and the application is rejected, the expiry of the day on which the application is finally disposed of so as to deny it; and
+	- **(c)** if the candidate or their official agent applies to a judge for an order under paragraph 477.68(1)(b) and the order is granted, the expiry of the period extended by the order.
+
+**Membership in House of Commons suspended — unmade correction or revision**
+
+- **(2.1)** If the Chief Electoral Officer determines, with respect to an elected candidate, that a correction or revision authorized to be made under subsection 477.67(1) was not made within 30 days after the day on which it was authorized, then, until the correction or revision is made, the candidate is not entitled to continue to sit or vote as a member of the House of Commons as of
+	- **(a)** the expiry of the two-week period referred to in subsection 477.67(4), if the candidate or their official agent does not apply to the Chief Electoral Officer for an extension under that subsection;
+	- **(b)** if the candidate or their official agent applies to the Chief Electoral Officer for an extension under subsection 477.67(4) and it is authorized, the expiry of two weeks after the expiry of the authorized extension, unless the candidate or their official agent applies to the Chief Electoral Officer for a further extension under subsection 477.67(5);
+	- **(c)** if the candidate or their official agent applies to the Chief Electoral Officer for an extension under subsection 477.67(5) and it is authorized, the expiry of two weeks after the expiry of the authorized extension, unless the candidate or their official agent makes a further application to the Chief Electoral Officer for a extension under that subsection; and
+	- **(d)** if the candidate or their official agent applies to the Chief Electoral Officer for an extension under subsection 477.67(4) or (5), and the application is rejected, the expiry of the day on which the application is rejected.
 
 **Membership in House of Commons suspended**
 
 - **(3)** If the Chief Electoral Officer determines, with respect to an elected candidate, that a correction or revision that was requested to be made under subsection 477.65(2) was not made within the period specified, then, until the correction or revision is made, the candidate is not entitled to continue to sit or vote as a member of the House of Commons as of
-	- **(a)** the end of the two weeks referred to in paragraph 477.68(2)(a), if the candidate or their official agent does not apply to a judge for an order under paragraph 477.68(1)(a); or
-	- **(b)** if the candidate or their official agent applies to a judge for an order under paragraph 477.68(1)(a), the day on which the application is finally disposed of so as to deny it.
+	- **(a)** the expiry of the two weeks referred to in paragraph 477.68(2)(a), if the candidate or their official agent does not apply to a judge for an order under paragraph 477.68(1)(a); or
+	- **(b)** if the candidate or their official agent applies to a judge for an order under paragraph 477.68(1)(a), the expiry of the day on which the application is finally disposed of so as to deny it.
 
 **Speaker informed**
 
-- **(4)** As soon as an elected candidate is not entitled to continue to sit or vote as a member of the House of Commons under subsection (3), the Chief Electoral Officer shall so inform the Speaker of the House of Commons.
-> 2014, c. 12, s. 86.
+- **(4)** As soon as an elected candidate is not entitled to continue to sit or vote as a member of the House of Commons under any of subsections (2), (2.1) and (3), the Chief Electoral Officer shall so inform the Speaker of the House of Commons.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 297.
 
 
 
 
 
-##### Reimbursement of Election Expenses and Personal Expenses
+##### Reimbursement of Certain Expenses
 
 
 
@@ -12244,14 +14110,18 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 **Payment of partial reimbursement**
 
-- **(2)** On receipt of the certificate, the Receiver General shall pay the amount set out in it out of the Consolidated Revenue Fund to the official agent of any candidate named in the certificate as partial reimbursement for the candidate’s election expenses and personal expenses. The payment may be made to the person designated by the official agent.
+- **(2)** On receipt of the certificate, the Receiver General shall pay the amount set out in it out of the Consolidated Revenue Fund to the official agent of any candidate named in the certificate as partial reimbursement for the candidate’s election expenses, travel and living expenses that are related to travel and sojourns during the election period, accessibility expenses and personal expenses. The payment may be made to the person designated by the official agent.
 
 **Return of excess payment**
 
-- **(3)** A candidate’s official agent shall without delay return to the Receiver General any amount received under subsection (2) that is more than 60% of the total of
-	- **(a)** the candidate’s personal expenses that the candidate has paid, and
-	- **(b)** the candidate’s election expenses, as set out in the candidate’s electoral campaign return.
-> 2014, c. 12, s. 86.
+- **(3)** A candidate’s official agent shall without delay return to the Receiver General any amount received under subsection (2) that is more than the sum of
+	- **(a)** 60% of the candidate’s paid election expenses, as set out in the their electoral campaign return,
+	- **(b)** 60% of the candidate’s paid travel and living expenses that are related to travel and sojourns during the election period, as set out in their electoral campaign return,
+	- **(c)** 60% of the candidate’s paid personal expenses, as set out in their electoral campaign return, other than childcare expenses or expenses referred to in paragraphs 378(1)(c) and (d),
+	- **(d)** 90% of the candidate’s paid childcare expenses, as set out in their electoral campaign return,
+	- **(e)** 90% of the candidate’s paid expenses referred to in paragraphs 378(1)(c) and (d), as set out in their electoral campaign return, and
+	- **(f)** 90% — to a maximum of $5,000 — of the candidate’s paid accessibility expenses, as set out in their electoral campaign return.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 299.
 
 
 
@@ -12264,14 +14134,18 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 - **(1)** On receipt of the documents referred to in subsection 477.59(1), or a corrected or revised version of any of those documents, in respect of a candidate named in a certificate, the Chief Electoral Officer shall provide the Receiver General with a certificate that
 	- **(a)** states that the Chief Electoral Officer is satisfied that the candidate and their official agent have complied with the requirements of subsection 477.56(2) and sections 477.59 to 477.71;
 	- **(b)** states that the auditor’s report does not include a statement referred to in subsection 477.62(3);
-	- **(c)** states that the candidate has incurred more than 30% of the election expenses limit calculated under section 477.49; and
-	- **(d)** sets out the amount of the final instalment of the candidate’s election expenses and personal expenses reimbursement, calculated under subsection (2).
+	- **(c)** states that the amount received as partial reimbursement under subsection 477.73(2) is less than the sum of the amounts calculated under paragraphs (2)(a) to (f); and
+	- **(d)** sets out the amount of the final instalment of the reimbursement of the candidate’s expenses, calculated under subsection (2).
 
 **Calculation of reimbursement**
 
-- **(2)** The amount referred to in paragraph (1)(d) is the lesser of
-	- **(a)** 60% of the sum of the candidate’s paid election expenses and paid personal expenses, as set out in their electoral campaign return, less the partial reimbursement made under section 477.73, and
-	- **(b)** 60% of the election expenses limit calculated under section 477.49, less the partial reimbursement made under section 477.73.
+- **(2)** The amount referred to in paragraph (1)(d) is the sum of the following, less the partial reimbursement made under section 477.73:
+	- **(a)** 60% of the candidate’s paid election expenses, as set out in their electoral campaign return,
+	- **(b)** 60% of the candidate’s paid travel and living expenses that are related to travel and sojourns during the election period, as set out in their electoral campaign return,
+	- **(c)** 60% of the candidate’s paid personal expenses, as set out in their electoral campaign return, other than childcare expenses and expenses referred to in paragraphs 378(1)(c) and (d),
+	- **(d)** 90% of the candidate’s paid childcare expenses, as set out in their electoral campaign return,
+	- **(e)** 90% of the candidate’s paid expenses referred to in paragraphs 378(1)(c) and (d), as set out in their electoral campaign return, and
+	- **(f)** 90% — to a maximum of $5,000 — of the candidate’s paid accessibility expenses, as set out in their electoral campaign return.
 
 **Reduction of reimbursement**
 
@@ -12288,7 +14162,18 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 **Reimbursement**
 
 - **(5)** If the amount that is provided for in subsection (2) is a negative amount after being reduced under subsection (3), the candidate’s official agent shall without delay return to the Receiver General that amount — expressed as a positive number — up to the amount of the partial reimbursement received by the official agent under section 477.73.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 300.
+
+
+
+
+
+**Payment to candidate**
+
+**477.741** The official agent shall use any amount received under subsection 477.73(2), or received under both that subsection and subsection 477.74(4), to pay to the candidate the amount that is the sum of
+- **(a)** 60% of the candidate’s personal expenses, as set out in their electoral campaign return, other than childcare expenses and expenses referred to in paragraph 378(1)(c) or (d), that were paid other than from the bank account referred to in subsection 477.46(1), and
+- **(b)** 90% of the total of the candidate’s childcare expenses and expenses referred to in paragraphs 378(1)(c) and (d), as set out in their electoral campaign return, that were paid other than from the bank account referred to in subsection 477.46(1).
+> 2018, c. 31, s. 301.
 
 
 
@@ -12314,27 +14199,15 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 
 
-**Return of deposit**
+**Inflation adjustment factor**
 
-**477.77** 
+**477.761** The $1,500 amount set out in paragraph 477.75(a) and the $250 amount set out in paragraph 477.75(b) shall be multiplied by the inflation adjustment factor referred to in section 384 that is in effect on polling day.
+> 2018, c. 31, s. 302.
 
-- **(1)** The Chief Electoral Officer shall provide the Receiver General with a certificate that lists the names of
-	- **(a)** each candidate, including one who has withdrawn under subsection 74(1), whose official agent the Chief Electoral Officer is satisfied has provided the documents under section 477.59 and returned any unused forms referred to in section 477.86, in accordance with subsection 477.88(2); and
-	- **(b)** any candidate who has died before the closing of all the polling stations.
 
-**Payment**
 
-- **(2)** On receipt of the certificate, the Receiver General shall pay out of the Consolidated Revenue Fund the amount of each listed candidate’s nomination deposit to their official agent. The payment may be made to the person designated by the official agent.
 
-**No official agent acting at candidate’s death**
-
-- **(3)** If there is no official agent in the case described in paragraph (1)(b), the Chief Electoral Officer may return the nomination deposit to any person that he or she considers appropriate.
-
-**Forfeit to Her Majesty**
-
-- **(4)** Any nomination deposit that is not returned under this section is forfeited to Her Majesty in right of Canada.
-> 2014, c. 12, s. 86.
-
+**477.77** [Repealed, 2018, c. 31, s. 303]
 
 
 
@@ -12353,9 +14226,9 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 **Withdrawal of writ**
 
 **477.79** Division 1 of this Part and this Division apply to electoral campaign expenses of candidates in an electoral district in which a writ is withdrawn under subsection 59(1) or deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), except that in such a case
-- **(a)** the election is deemed to have been held on a polling day that is the day of publication of the notice of withdrawal in the Canada Gazette under subsection 59(2) or section 551; and
+- **(a)** the election is deemed to have been held on the day on which the writ is withdrawn or deemed to be withdrawn; and
 - **(b)** each candidate is deemed to have received 10% of the number of the votes that would have been validly cast at that deemed election.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 304.
 
 
 
@@ -12369,28 +14242,41 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 **477.8** 
 
-- **(1)** The surplus amount of electoral funds that a candidate receives for an election is the amount by which the candidate’s electoral revenues referred to in subsection (3) are more than the total of the candidate’s electoral campaign expenses paid by their official agent and the transfers referred to in subsection (4).
+- **(1)** The surplus amount of electoral funds that a candidate receives for an election is the amount by which the candidate’s electoral revenues referred to in subsection (3) are more than the total of the candidate’s electoral campaign expenses paid from the bank account referred to in subsection 477.46(1) and the transfers referred to in subsection (4).
 
 **Transfer or sale of capital assets**
 
-- **(2)** Before the surplus amount of electoral funds is disposed of in accordance with sections 477.81 and 477.82, a candidate shall either transfer any capital assets whose acquisition constitutes an electoral campaign expense within the meaning of section 375 to the registered party that has endorsed the candidate — or to the registered association of that party — or sell them at their fair market value.
+- **(2)** Before the surplus amount of electoral funds is disposed of in accordance with sections 477.81 and 477.82, a candidate’s official agent shall either transfer any capital assets whose acquisition constitutes an electoral campaign expense within the meaning of subsection 375(1) to the registered party that has endorsed the candidate — or to the registered association of that party in the candidate’s electoral district — or sell them at their fair market value.
 
 **Electoral revenues**
 
 - **(3)** The electoral revenues of a candidate include any amount that represents
 	- **(a)** a monetary contribution made to the candidate;
-	- **(b)** an election expense or personal expense for which the candidate was reimbursed under this Act;
-	- **(c)** the candidate’s nomination deposit for which they were reimbursed;
+	- **(b)** any of the following for which the candidate was reimbursed under this Act:
+		- **(i)** an election expense,
+		- **(ii)** travel and living expenses,
+		- **(iii)** an accessibility expense,
+		- **(iv)** a personal expense paid from the bank account referred to in subsection 477.46(1), and
+		- **(v)** a cost incurred in respect of a request or an application made under Part 14, if the cost was paid from the bank account referred to in subsection 477.46(1);
+	- **(c)** [Repealed, 2018, c. 31, s. 305]
 	- **(d)** the resale value of the capital assets referred to in subsection (2); and
 	- **(e)** any other amount that was received by the candidate for their electoral campaign and that is not repayable.
+
+**Exclusion**
+
+- **(3.1)** Despite subsection (3), for the purposes of this Act, none of the following is electoral revenue:
+	- **(a)** any amount used to pay for a candidate’s litigation expenses that was not deposited into the bank account referred to in subsection 477.46(1);
+	- **(b)** any amount used to pay for a candidate’s personal expenses that was not deposited into the bank account referred to in subsection 477.46(1);
+	- **(c)** any amount paid to the candidate under this Act as a reimbursement of personal expenses that were paid other than from the bank account referred to in subsection 477.46(1); and
+	- **(d)** any amount paid to the candidate under this Act as a reimbursement of a cost incurred in respect of a request or an application made under Part 14, if that cost was paid other than from the bank account referred to in subsection 477.46(1).
 
 **Transfers**
 
 - **(4)** A transfer made by a candidate is a transfer of
 	- **(a)** any funds that the candidate transfers, during the election period, to a registered party or a registered association;
-	- **(b)** any amount of a reimbursement referred to in paragraphs (3)(b) and (c) that the candidate transfers to that registered party; and
+	- **(b)** any amount of a reimbursement referred to in paragraph (3)(b) that the candidate transfers to that registered party; and
 	- **(c)** any funds transferred by the candidate under paragraph 364(3)(d).
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 305.
 
 
 
@@ -12409,11 +14295,9 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 **Disposal without notice**
 
 - **(3)** If a candidate has a surplus of electoral funds but their official agent has not received a notice of estimated surplus, the official agent shall dispose of the surplus within 60 days after, as the case may be,
-	- **(a)** the later of
-		- **(i)** the day on which they receive the final instalment of the reimbursement of the candidate’s election expenses and personal expenses, and
-		- **(ii)** the day on which they receive the reimbursement of the candidate’s nomination deposit; or
-	- **(b)** the day on which the Chief Electoral Officer is provided with the candidate’s electoral campaign return, if the candidate did not receive either of the reimbursements mentioned in paragraph (a).
-> 2014, c. 12, s. 86.
+	- **(a)** the day on which they receive the final instalment of the reimbursement of the candidate’s expenses; or
+	- **(b)** the day on which the Chief Electoral Officer is provided with the candidate’s electoral campaign return, if the candidate did not receive the reimbursement mentioned in paragraph (a).
+> 2014, c. 12, s. 86; 2018, c. 31, s. 306.
 
 
 
@@ -12455,6 +14339,28 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 - **(2)** On receipt of a request for payment from the Chief Electoral Officer in relation to an application, the Receiver General shall pay the amount specified in the application to the official agent out of the Consolidated Revenue Fund.
 > 2014, c. 12, s. 86.
+
+
+
+
+
+**Persons to whom this section applies**
+
+**477.841** 
+
+- **(1)** This section applies to any person who was a candidate at an election but who was not endorsed by a registered party and whose official agent disposed of the candidate’s surplus electoral funds under paragraph 477.82(b).
+
+**Application for repayment**
+
+- **(2)** The official agent of a candidate who is a person referred to in subsection (1) may, for the purpose of the candidate’s electoral campaign, apply to the Chief Electoral Officer for repayment of the amount of the surplus electoral funds referred to in that subsection if that candidate
+	- **(a)** is a candidate at the general election next following the election to which the funds relate but is not endorsed by a registered party and was not a candidate at any intervening by-election;
+	- **(b)** is a candidate at one, and only one, intervening by-election and at that by-election is not endorsed by a registered party; or
+	- **(c)** is a candidate at more than one intervening by-election and, at the first intervening by-election at which they are a candidate, is not endorsed by a registered party.
+
+**Payment**
+
+- **(3)** On receipt of a request for payment from the Chief Electoral Officer in relation to an application, the Receiver General shall pay the amount specified in the application to the candidate’s official agent out of the Consolidated Revenue Fund.
+> 2018, c. 31, s. 307.
 
 
 
@@ -12554,9 +14460,7 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 **Period for providing statement**
 
-- **(5)** The candidate shall provide the statement to the Chief Electoral Officer within four months after
-	- **(a)** polling day; or
-	- **(b)** the day on which a notice of the withdrawal or deemed withdrawal of the writ for the election is published in the Canada Gazette under subsection 59(2) or section 551.
+- **(5)** The candidate shall provide the statement to the Chief Electoral Officer within four months after polling day.
 
 **Definitions**
 
@@ -12571,7 +14475,7 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 It does not include a contribution made by an eligible individual under Division 1 of this Part to the official agent of a candidate that does not exceed the limits set out in that Division, or a provision of goods or services or a transfer of funds under section 364. (*cadeau ou autre avantage*)
 
 ***relative***, in respect of a candidate, means a person related to the candidate by marriage, common-law partnership, birth, adoption or affinity. (*parent*)
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 308.
 
 
 
@@ -12688,20 +14592,7 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 ### Leadership Contestants
 
 
-
-#### Interpretation
-
-
-
-**Definition of personal expenses**
-
-**478** In this Division, ***personal expenses*** means the expenses of a personal nature that are reasonably incurred by or on behalf of a leadership contestant in relation to their leadership campaign and includes
-- **(a)** travel and living expenses;
-- **(b)** childcare expenses;
-- **(c)** expenses relating to the provision of care for a person with a physical or mental incapacity for whom the contestant normally provides such care; and
-- **(d)** in the case of a contestant who has a disability, additional expenses that are related to the disability.
-> 2000, c. 9, s. 478; 2014, c. 12, s. 86.
-
+**478** [Repealed, 2018, c. 31, s. 309]
 
 
 
@@ -12985,7 +14876,7 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 **If partnership appointed as auditor**
 
 - **(3)** A person may be appointed as agent for a leadership contestant even if the person is a member of a partnership that has been appointed as an auditor, in accordance with this Act, for the registered party.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 310(F).
 
 
 
@@ -13116,9 +15007,13 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 - **(2)** The account shall name the account holder as follows: “(*name of financial agent*), financial agent”.
 
-**Payments and receipts**
+**Deposits into account**
 
-- **(3)** All of a leadership contestant’s financial transactions in relation to the contestant’s leadership campaign that involve the payment or receipt of money are to be paid from or deposited to the account.
+- **(3)** All of a leadership contestant’s financial transactions in relation to the contestant’s leadership campaign that involve the receipt of money are to be deposited to the account unless the transaction involves the receipt of the contestant’s own funds and those funds are used to pay a litigation expense or a personal expense.
+
+**Payments from account**
+
+- **(3.1)** All of a leadership contestant’s financial transactions in relation to the contestant’s leadership campaign that involve the payment of money are to be paid from the account unless the transaction involves the payment out of the contestant’s own funds of a litigation expense or a personal expense.
 
 **Closure of bank account**
 
@@ -13127,7 +15022,7 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 **Final statement of bank account**
 
 - **(5)** The financial agent shall, on closing the account, provide the Chief Electoral Officer with the final statement of the account.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 311.
 
 
 
@@ -13151,16 +15046,20 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 **Prohibition — paying leadership campaign expenses**
 
-- **(4)** No person or entity, other than a leadership campaign agent of a leadership contestant, shall pay the contestant’s leadership campaign expenses, other than personal expenses.
+- **(4)** No person or entity, other than a leadership campaign agent of a leadership contestant, shall pay the contestant’s leadership campaign expenses except for
+	- **(a)** a litigation expense;
+	- **(b)** travel and living expenses;
+	- **(c)** a personal expense; or
+	- **(d)** a petty expense referred to in section 381.
 
 **Prohibition — incurring leadership campaign expenses**
 
 - **(5)** No person or entity, other than the leadership contestant or one of their leadership campaign agents, shall incur the contestant’s leadership campaign expenses.
 
-**Prohibition — paying contestant’s personal expenses**
+**Prohibition — paying contestant’s personal expenses, etc.**
 
-- **(6)** No person or entity, other than the leadership contestant or their financial agent, shall pay the contestant’s personal expenses.
-> 2014, c. 12, s. 86.
+- **(6)** No person or entity, other than the leadership contestant or their financial agent, shall pay the contestant’s expenses referred to in any of paragraphs 4(a) to (c).
+> 2014, c. 12, s. 86; 2018, c. 31, s. 312.
 
 
 
@@ -13260,7 +15159,10 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 
 - **(2)** The leadership campaign return shall set out
 	- **(a)** a statement of leadership contest expenses;
-	- **(a.1)** a statement of leadership campaign expenses, other than leadership contest expenses;
+	- **(a.1)** a statement of litigation expenses that includes an indication of which of those expenses were paid other than from the bank account referred to in subsection 478.72(1) and the source of the funds used to pay them;
+	- **(a.2)** a statement of travel and living expenses;
+	- **(a.3)** a statement of personal expenses that includes an indication of which of those expenses were paid other than from the bank account referred to in subsection 478.72(1) and the source of the funds used to pay them;
+	- **(a.4)** a statement of leadership campaign expenses, other than the expenses referred to in paragraphs (a) to (a.3);
 	- **(b)** a statement of claims that are the subject of proceedings under section 478.79;
 	- **(c)** a statement of unpaid claims, including those resulting from loans made to the leadership contestant under section 373;
 	- **(d)** a statement of the terms and conditions of each loan made to the leadership contestant under section 373, including the amount of the loan, the interest rate, the lender’s name and address, the dates and amounts of repayments of principal and payments of interest, the unpaid principal remaining at the end of each calendar year and, if there is a guarantor, the guarantor’s name and address and the amount guaranteed;
@@ -13268,13 +15170,13 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 	- **(f)** the number of contributors;
 	- **(g)** the name and address of each contributor who made contributions of a total amount of more than $200 to the leadership contestant, that total amount, as well as the amount of each of those contributions and the date on which the contestant received it;
 	- **(h)** the name and address of each contributor who made a contribution that includes a directed contribution as defined in subsection 365(2) out of which an amount has been transferred by the party to the contestant, the amount of the contribution, the amount of the directed contribution and the amount transferred, as well as the dates of the receipt of the contribution and of the transfer;
-	- **(i)** a statement of the commercial value of goods or services provided and of funds transferred by the leadership contestant to a registered party or a registered association;
+	- **(i)** a statement of the funds transferred by the leadership contestant to a registered party or a registered association;
 	- **(j)** a statement of the commercial value of goods or services provided and of funds transferred to the leadership contestant by a registered party or a registered association; and
 	- **(k)** a statement of contributions received but returned in whole or in part to the contributors or otherwise dealt with in accordance with this Act.
 
 **Supporting documents**
 
-- **(3)** Together with the leadership campaign return, the leadership contestant’s financial agent shall provide the Chief Electoral Officer with documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques and the contestant’s written statement concerning personal expenses referred to in subsection 478.85(1).
+- **(3)** Together with the leadership campaign return, the leadership contestant’s financial agent shall provide the Chief Electoral Officer with documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques and the contestant’s written statement referred to in subsection 478.85(1).
 
 **Additional supporting documents**
 
@@ -13299,8 +15201,9 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 **Death of leadership contestant**
 
 - **(9)** If a leadership contestant dies without having sent the declaration within the period referred to in subsection (8),
-	- **(a)** they are deemed to have sent the declaration in accordance with that subsection; and
-	- **(b)** the financial agent is deemed to have provided the declaration to the Chief Electoral Officer in accordance with subsection (1).
+	- **(a)** they are deemed to have sent the declaration in accordance with that subsection;
+	- **(b)** the financial agent is deemed to have provided the declaration to the Chief Electoral Officer in accordance with subsection (1); and
+	- **(c)** the Chief Electoral Officer is deemed to have received the declaration for the purpose of section 478.931.
 
 **Payment of unpaid claims**
 
@@ -13331,7 +15234,7 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 **Irregular claims and payments**
 
 - **(15)** The leadership contestant’s financial agent shall provide the Chief Electoral Officer with a report in the prescribed form on the payment of a claim that was subject to an authorization to pay under section 478.77 or 478.78 or an order to pay resulting from proceedings commenced under section 478.79. The financial agent shall provide the report within 30 days after the day on which the payment is made and shall include in it information indicating the source of the funds used to pay the claim.
-> 2014, c. 12, s. 86; 2018, c. 20, s. 8.
+> 2014, c. 12, s. 86; 2018, c. 20, s. 8; 2018, c. 31, ss. 313, 399.
 
 
 
@@ -13369,7 +15272,7 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 
 **478.83** 
 
-- **(1)** As soon as feasible after the end of a leadership contest, the auditor of a leadership contestant who has accepted contributions of $5,000 or more in total or incurred leadership campaign expenses of $5,000 or more in total shall report to the contestant’s financial agent on the leadership campaign return for that contest and shall, in accordance with generally accepted auditing standards, make any examination that will enable the auditor to give an opinion in the report as to whether the return presents fairly the information contained in the financial records on which it is based.
+- **(1)** As soon as feasible after the end of a leadership contest, the auditor of a leadership contestant who has accepted contributions of $10,000 or more in total or incurred leadership campaign expenses of $10,000 or more in total shall report to the contestant’s financial agent on the leadership campaign return for that contest and shall, in accordance with generally accepted auditing standards, make any examination that will enable the auditor to give an opinion in the report as to whether the return presents fairly the information contained in the financial records on which it is based.
 
 **Statement**
 
@@ -13385,7 +15288,7 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 **Ineligible to prepare report**
 
 - **(4)** No person referred to in subsection 478.61(2) who is a partner or an associate of a leadership contestant’s auditor or who is an employee of that auditor, or of the firm in which that auditor is a partner or associate, shall participate, other than in the manner referred to in subsection (3), in the preparation of the auditor’s report.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 314.
 
 
 
@@ -13411,13 +15314,26 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 **478.85** 
 
 - **(1)** A leadership contestant shall, within five months after the end of the leadership contest, send their financial agent a written statement in the prescribed form that
-	- **(a)** sets out the amount of any personal expenses that the contestant paid and details of those personal expenses, including documentation of their payment; or
-	- **(b)** declares that the contestant did not pay for any personal expenses.
+	- **(a)** sets out the following:
+		- **(i)** the amount of any travel and living expenses paid by the contestant and details of those expenses, and
+		- **(ii)** the amount of any litigation expenses and personal expenses paid by the contestant, details of those expenses and an indication of which of them were paid other than from the bank account referred to in subsection 478.72(1) and the source of the funds used to pay them; or
+	- **(b)** declares that the contestant did not pay for any travel and living expenses, litigation expenses or personal expenses.
+
+**Supporting documents**
+
+- **(1.1)** Together with the statement referred to in paragraph (1)(a), the leadership contestant shall send their financial agent documents evidencing the payment of the expenses referred to in the statement.
 
 **Death of contestant**
 
 - **(2)** Subsection (1) does not apply to a leadership contestant who dies before the end of the five-month period referred to in that subsection without having sent the written statement.
-> 2014, c. 12, s. 86.
+
+**Subsequent payments — litigation expenses**
+
+- **(3)** If, after having sent their financial agent the statement referred to in subsection (1), a leadership contestant pays a litigation expense other than from the bank account referred to in subsection 478.72(1), the contestant shall, as soon as feasible after paying it,
+	- **(a)** notify their financial agent of the payment;
+	- **(b)** inform their financial agent of the amount of the expense, the details of the expense and the source of the funds used to pay it; and
+	- **(c)** send their financial agent documents evidencing payment of the expense.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 315.
 
 
 
@@ -13577,12 +15493,46 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
+**Prohibition — false or misleading declaration**
+
+**478.921** No leadership contestant shall send to their financial agent a declaration referred to in paragraph 478.8(1)(d) that they know or ought reasonably to know is false or misleading.
+> 2018, c. 31, s. 316.
+
+
+
+
+
 **Prohibition — false, misleading or incomplete document**
 
-**478.93** No leadership contestant and no financial agent of a leadership contestant shall provide the Chief Electoral Officer with a document referred to in subsection 478.8(1), (10), (11), (12) or (15) that
-- **(a)** the contestant or the financial agent, as the case may be, knows or ought reasonably to know contains a material statement that is false or misleading; or
-- **(b)** in the case of a document referred to in subsection 478.8(1), does not substantially set out the information required under subsection 478.8(2) and, in the case of a document referred to in subsection 478.8(10), (11), (12) or (15), does not substantially set out the information required under that subsection.
-> 2014, c. 12, s. 86.
+**478.93** No financial agent of a leadership contestant shall provide the Chief Electoral Officer with a document referred to in subsection 478.8(1), (10), (11), (12) or (15) that
+- **(a)** the financial agent knows or ought reasonably to know contains a material statement that is false or misleading; or
+- **(b)** in the case of a document referred to in paragraph 478.8(1)(a), does not substantially set out the information required under subsection 478.8(2) and, in the case of a document referred to in subsection 478.8(10), (11), (12) or (15), does not substantially set out the information required under that subsection.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 317.
+
+
+
+
+
+##### Payment of Audit Expenses
+
+
+
+**Certificate**
+
+**478.931** 
+
+- **(1)** On receipt of the documents referred to in subsection 478.8(1), including the auditor’s report, and a copy of the auditor’s invoice for the report, the Chief Electoral Officer shall provide the Receiver General with a certificate that sets out the greater of
+	- **(a)** the amount of the expenses incurred for the audit, up to a maximum of the lesser of 3% of the leadership contestant’s leadership contest expenses and $1,500, and
+	- **(b)** $250.
+
+**Payment**
+
+- **(2)** On receipt of the certificate, the Receiver General shall pay the amount set out in it to the auditor out of the Consolidated Revenue Fund.
+
+**Inflation adjustment factor**
+
+- **(3)** The $1,500 amount set out in paragraph (1)(a) and the $250 amount set out in paragraph (1)(b) shall be multiplied by the inflation adjustment factor referred to in section 384 that is in effect on the day on which the leadership contest ends.
+> 2018, c. 31, s. 318.
 
 
 
@@ -13594,8 +15544,18 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Surplus of leadership campaign funds**
 
-**478.94** The surplus amount of leadership campaign funds that a leadership contestant receives for a leadership contest is the amount by which the sum of contributions accepted by the leadership campaign agents on behalf of the contestant, amounts referred to in subsection 365(3) and any other amounts received by the contestant for their leadership campaign that are not repayable is more than the sum of the contestant’s leadership campaign expenses paid under this Act and any transfers referred to in paragraph 364(5)(b).
-> 2014, c. 12, s. 86.
+**478.94** 
+
+- **(1)** The surplus amount of leadership campaign funds that a leadership contestant receives for a leadership contest is the amount by which the sum of the following is more than the sum of the contestant’s leadership campaign expenses paid from the bank account referred to in subsection 478.72(1) and any transfers referred to in paragraph 364(5)(b):
+	- **(a)** contributions accepted by the leadership campaign agents on behalf of the contestant;
+	- **(b)** money received from the sale referred to in subsection (2);
+	- **(c)** amounts referred to in subsection 365(3); and
+	- **(d)** any other amounts received by the contestant for their leadership campaign that are required to be deposited into the bank account referred to in subsection 478.72(1) and are not repayable.
+
+**Sale of capital assets**
+
+- **(2)** Before the surplus amount of leadership campaign funds is disposed of in accordance with sections 478.95 and 478.96, a leadership contestant’s financial agent shall sell, at their fair market value, any capital assets whose acquisition constitutes a leadership campaign expense.
+> 2014, c. 12, s. 86; 2018, c. 31, s. 319.
 
 
 
@@ -13659,35 +15619,31 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(1)** Every returning officer is responsible for maintaining order in his or her office during voting in accordance with Division 4 of Part 11.
 
-**Duty of other election officers**
+**Duty to maintain order**
 
-- **(2)** Every deputy returning officer, central poll supervisor and person appointed under paragraph 124(1)(b) is responsible for maintaining order during voting hours at any place where voting takes place in accordance with Part 9 or 10.
+- **(2)** Every election officer is responsible for maintaining order during voting hours at any place where voting takes place in accordance with Part 9 or 10.
 
-**Order to leave, arrest without warrant**
+**Order to leave**
 
-- **(3)** In performing his or her duty under subsection (1) or (2), an election officer may, if a person is committing, in the returning officer’s office or other place where the vote is taking place, an offence referred to in paragraph 5(a), section 7 or paragraph 167(1)(a) or an offence under this Act or any other Act of Parliament that threatens the maintenance of order, or if the officer believes on reasonable grounds that a person has committed such an offence in such a place, order the person to leave the office or place or arrest the person without warrant.
+- **(3)** In performing his or her duty under subsection (1) or (2), an election officer may order a person to leave the returning officer’s office or other place where the vote is taking place if the person is committing — or the officer believes on reasonable grounds that the person has committed — in the office or place an offence under this Act, any other Act of Parliament or any regulation made under any other Act of Parliament that threatens the maintenance of order.
 
 **Order must be obeyed**
 
 - **(4)** Every person in respect of whom an order is made to leave an office or place must obey it without delay.
 
-**Power to eject**
+- **(5)** [Repealed, 2018, c. 31, s. 320]
 
-- **(5)** If an order to leave an office or place is not obeyed without delay, the person who made it may use such force as is reasonably necessary to eject the person in respect of whom the order was made from the office or place.
+- **(6)** [Repealed, 2018, c. 31, s. 320]
 
-**After arrest**
+**Removal of material**
 
-- **(6)** The officer, supervisor or appointed person who arrests a person under subsection (3) shall without delay
-	- **(a)** advise the person of the right to be represented by counsel and give the person an opportunity to obtain counsel; and
-	- **(b)** deliver the person to a peace officer to be dealt with in accordance with the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-
-**Removal of materials**
-
-- **(7)** Where a returning officer, deputy returning officer, central poll supervisor or person appointed under paragraph 124(1)(b) believes on reasonable grounds that a person has contravened paragraph 166(1)(a) or (b), the officer, supervisor or appointed person may cause to be removed from, in the case of a returning officer, his or her office or, in the case of a deputy returning officer, central poll supervisor or appointed person, the polling station, any material that they believe on reasonable grounds was used in contravention of that paragraph.
+- **(7)** If a returning officer or other election officer believes on reasonable grounds that a person has contravened paragraph 166(1)(a) or (b), the officer may cause any material that they believe on reasonable grounds was used in contravention of that paragraph to be removed from, in the case of a returning officer, his or her office or, in the case of any other election officer, the polling station.
 
 **Peace officer protection**
 
-- **(8)** Every election officer has, while performing their duties under this section, all the protection that a peace officer has by law.
+- **(8)** Every election officer has, while exercising their powers or performing their duties under this section, all the protection that a peace officer has by law.
+> 2000, c. 9, s. 479; 2018, c. 31, s. 320.
+
 
 
 
@@ -13704,47 +15660,80 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **480** 
 
-- **(1)** Every person is guilty of an offence who, with the intention of delaying or obstructing the electoral process, contravenes this Act, otherwise than by committing an offence under subsection (2) or section 481 or 482 or contravening a provision referred to in any of sections 483 to 499.
+- **(1)** Every person is guilty of an offence who, with the intention of delaying or obstructing the electoral process, contravenes this Act, otherwise than by committing an offence under subsection (2) or section 480.1, 481, 482 or 482.1 or contravening a provision referred to in any of sections 484 to 499.
 
 **Public meetings**
 
 - **(2)** Every person is guilty of an offence who, at any time between the issue of a writ and the day after polling day at the election, acts, incites others to act or conspires to act in a disorderly manner with the intention of preventing the transaction of the business of a public meeting called for the purposes of the election.
+> 2000, c. 9, s. 480; 2018, c. 31, s. 321.
+
 
 
 
 
 **Impersonation**
 
-**480.1** Every person is guilty of an offence who, with intent to mislead, falsely represents themselves to be, or causes anyone to falsely represent themselves to be,
-- **(a)** the Chief Electoral Officer, a member of the Chief Electoral Officer’s staff or a person who is authorized to act on the Chief Electoral Officer’s behalf;
-- **(b)** an election officer or a person who is authorized to act on an election officer’s behalf;
-- **(c)** a person who is authorized to act on behalf of the Office of the Chief Electoral Officer;
-- **(d)** a person who is authorized to act on behalf of a registered party or a registered association; or
-- **(e)** a candidate or a person who is authorized to act on a candidate’s behalf.
-> 2014, c. 12, s. 88.
+**480.1** 
+
+- **(1)** Every person is guilty of an offence who, with intent to mislead, falsely represents themselves to be, or causes anyone to falsely represent themselves to be,
+	- **(a)** the Chief Electoral Officer, a member of the Chief Electoral Officer’s staff or a person who is authorized to act on the Chief Electoral Officer’s behalf;
+	- **(b)** an election officer or a person who is authorized to act on an election officer’s behalf;
+	- **(c)** a person who is authorized to act on behalf of the Office of the Chief Electoral Officer;
+	- **(d)** a person who is authorized to act on behalf of a registered party or a registered association; or
+	- **(e)** a candidate or a person who is authorized to act on a candidate’s behalf.
+
+**Exception**
+
+- **(2)** A person does not commit an offence under subsection (1) if they establish that the representation was manifestly for the purpose of parody or satire.
+> 2014, c. 12, s. 88; 2018, c. 31, s. 322.
 
 
 
 
 
-**Offering bribe**
+**Misleading publications**
 
 **481** 
 
-- **(1)** Every person is guilty of an offence who, during an election period, directly or indirectly offers a bribe to influence an elector to vote or refrain from voting or to vote or refrain from voting for a particular candidate.
+- **(1)** Every person or entity is guilty of an offence that, during an election period, distributes, transmits or publishes any material, regardless of its form, that purports to be made, distributed, transmitted or published by or under the authority of the Chief Electoral Officer, or a returning officer, political party, candidate or prospective candidate if
+	- **(a)** the person or entity was not authorized by the Chief Electoral Officer or that returning officer, political party, candidate or prospective candidate to distribute, transmit or publish it; and
+	- **(b)** the person or entity distributes, transmits or publishes it with the intent of misleading the public into believing that it was made, distributed, transmitted or published by or under the authority of the Chief Electoral Officer, or that returning officer, political party, candidate or prospective candidate.
 
-**Accepting bribe**
+**Factors**
 
-- **(2)** Every elector is guilty of an offence who, during an election period, accepts or agrees to accept a bribe that is offered in the circumstances described in subsection (1).
+- **(2)** In determining whether a person or entity has committed an offence under subsection (1) the court may consider whether the material included the use of
+	- **(a)** a name, logo, social media account identifier, username or domain name that is distinctive and commonly associated with the Chief Electoral Officer, a returning officer, or the political party, candidate or prospective candidate, as the case may be; or
+	- **(b)** the name, voice, image or signature of the Chief Electoral Officer, a returning officer, or the candidate or prospective candidate or of a public figure who is associated with the political party.
+
+**Exception — parody or satire**
+
+- **(3)** A person or entity does not commit an offence under subsection (1) if they establish that the material was manifestly distributed, transmitted or published for the purpose of parody or satire.
+> 2000, c. 9, s. 481; 2018, c. 31, s. 323.
 
 
 
 
-**Intimidation, etc.**
 
-**482** Every person is guilty of an offence who
-- **(a)** by intimidation or duress, compels a person to vote or refrain from voting or to vote or refrain from voting for a particular candidate at an election; or
-- **(b)** by any pretence or contrivance, including by representing that the ballot or the manner of voting at an election is not secret, induces a person to vote or refrain from voting or to vote or refrain from voting for a particular candidate at an election.
+**Unauthorized use of computer**
+
+**482** 
+
+- **(1)** Every person or entity is guilty of an offence that, fraudulently, and with the intention of affecting the results of an election,
+	- **(a)** by means of an electro-magnetic, acoustic, mechanical or other device, intercepts or causes to be intercepted, directly or indirectly, any function of a computer system;
+	- **(b)** uses or causes to be used, directly or indirectly, a computer system with intent to
+		- **(i)** commit an offence under paragraph (a),
+		- **(ii)** destroy or alter computer data,
+		- **(iii)** render computer data meaningless, useless or ineffective,
+		- **(iv)** obstruct, interrupt or interfere with the lawful use of computer data, or
+		- **(v)** obstruct, interrupt or interfere with a person or entity in the lawful use of computer data or deny access to computer data to a person or entity that is entitled to access to it;
+	- **(c)** uses, possesses or traffics in, or permits another person or entity to have access to, a computer password that would enable a person or entity to commit an offence under paragraph (a) or (b); or
+	- **(d)** attempts to commit any offence referred to in paragraphs (a) to (c).
+
+**Words and expressions**
+
+- **(2)** Words and expressions used in subsection (1) have the same meaning as in subsection 342.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 2000, c. 9, s. 482; 2018, c. 31, s. 323.
+
 
 
 
@@ -13757,16 +15746,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
-
-#### Offences under Part 1 (Electoral Rights)
-
-
-
-**Offences requiring intent — dual procedure**
-
-**483** Every person is guilty of an offence who contravenes
-- **(a)** paragraph 5(a) (voting when not qualified or entitled) or 5(b) (inducing a person not qualified or entitled to vote, to vote); or
-- **(b)** section 7 (voting more than once).
+**483** [Repealed, 2018, c. 31, s. 324]
 
 
 
@@ -13784,14 +15764,15 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Offences requiring intent — summary conviction**
 
 - **(2)** Every person is guilty of an offence who
-	- **(a)** being a returning officer, wilfully contravenes subsection 24(3) (failure to take promptly any necessary election proceedings); or
+	- **(a)** being a returning officer, wilfully contravenes subsection 24(3) (failure to take promptly any necessary election proceedings);
+	- **(a.1)** being an election officer, knowingly contravenes section 39 (failure to exercise or perform the powers or duties assigned by a returning officer in accordance with the Chief Electoral Officer’s instructions); or
 	- **(b)** contravenes subsection 43.1(1) (refusal to give access to building or gated community).
 
 **Offences requiring intent — dual procedure**
 
 - **(3)** Every person is guilty of an offence who
 	- **(a)** contravenes subsection 22(6) (acting as election officer knowing requirements not met);
-	- **(b)** knowingly contravenes subsection 23(2) (communication of information for unauthorized purpose);
+	- **(b)** knowingly contravenes subsection 23(2) (communication of information or use of personal information for unauthorized purpose);
 	- **(b.1)** being a field liaison officer, contravenes subsection 23.2(8) (engaging in politically partisan conduct);
 	- **(c)** being a returning officer, contravenes subsection 24(6) (engaging in politically partisan conduct);
 	- **(d)** being a returning officer or assistant returning officer, wilfully contravenes section 31 (acting in another capacity);
@@ -13909,28 +15890,28 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Offences requiring intent — summary conviction**
 
 - **(2)** Every person is guilty of an offence who
-	- **(a)** contravenes subsection 143(5) (attesting to residence of more than one elector);
-	- **(a.1)** contravenes subsection 143(6) (attesting to residence when own residence attested to);
-	- **(a.2)** contravenes subsection 155(2) (assisting as a friend more than one elector);
-	- **(a.3)** contravenes subsection 161(6) (attesting to residence of more than one elector);
-	- **(a.4)** contravenes subsection 161(7) (attesting to residence when own residence attested to);
-	- **(b)** being an elector, contravenes subsection 164(2) (failure to maintain secrecy);
-	- **(c)** contravenes paragraph 166(1)(a) (display of campaign literature in polling place);
-	- **(d)** contravenes subsection 169(5) (attesting to residence of more than one elector); or
-	- **(e)** contravenes subsection 169(6) (attesting to residence when own residence attested to).
+	- **(a)** [Repealed, 2018, c. 31, s. 328]
+	- **(a.1)** [Repealed, 2018, c. 31, s. 328]
+	- **(a.2)** [Repealed, 2018, c. 31, s. 328]
+	- **(a.3)** [Repealed, 2018, c. 31, s. 328]
+	- **(a.4)** [Repealed, 2018, c. 31, s. 328]
+	- **(b)** [Repealed, 2018, c. 31, s. 328]
+	- **(c)** contravenes paragraph 166(1)(a) (display of campaign literature in polling place).
+	- **(d)** [Repealed, 2018, c. 31, s. 328]
+	- **(e)** [Repealed, 2018, c. 31, s. 328]
 
 **Offences requiring intent — dual procedure**
 
 - **(3)** Every person is guilty of an offence who
-	- **(a)** being an employer, contravenes section 134 (preventing employee from using voting time);
-	- **(b)** being a friend or relative of an elector, wilfully contravenes subsection 155(4) (disclosing for whom elector voted);
-	- **(b.1)** contravenes any of paragraphs 161(5.1)(a) to (d) (forbidden acts re polling day registration);
-	- **(c)** being a candidate, an election officer or a representative of a candidate, contravenes subsection 164(1) (failure to maintain secrecy);
-	- **(d)** contravenes paragraph 166(1)(c) (influencing vote in polling station);
-	- **(e)** contravenes any of paragraphs 167(1)(a) to (d) (prohibited acts re ballots) or 167(2)(a) to (d) (prohibited acts re ballots or ballot box with intent to influence vote);
-	- **(f)** being a deputy returning officer, contravenes paragraph 167(3)(a) (initialling ballot with intent to influence vote); or
-	- **(g)** being a deputy returning officer, contravenes paragraph 167(3)(b) (placing identifying mark on ballot).
-> 2000, c. 9, s. 489; 2007, c. 21, s. 38; 2014, c. 12, s. 93.
+	- **(a)** being an employer, contravenes section 134 (preventing employee from using voting time); or
+	- **(b)** [Repealed, 2018, c. 31, s. 328]
+	- **(b.1)** contravenes any of paragraphs 161(5.1)(a) to (d) (forbidden acts re polling day registration).
+	- **(c)** [Repealed, 2018, c. 31, s. 328]
+	- **(d)** [Repealed, 2018, c. 31, s. 328]
+	- **(e)** [Repealed, 2018, c. 31, s. 328]
+	- **(f)** [Repealed, 2018, c. 31, s. 328]
+	- **(g)** [Repealed, 2018, c. 31, s. 328]
+> 2000, c. 9, s. 489; 2007, c. 21, s. 38; 2014, c. 12, s. 93; 2018, c. 31, s. 328.
 
 
 
@@ -13944,10 +15925,11 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **490** Every person is guilty of an offence who
 - **(a)** contravenes any of paragraphs 169(4.1)(a) to (d) (forbidden acts re advance polling registration);
-- **(a.1)** being a deputy returning officer, knowingly contravenes subsection 174(1) (failure to permit person to vote);
-- **(b)** being a poll clerk, wilfully contravenes subsection 174(2) (failure to record vote); or
-- **(c)** being a deputy returning officer, contravenes section 175 (improper handling of ballot box and ballots at advance poll), being a returning officer, contravenes subsection 176(2) or (3) or, being a deputy returning officer, contravenes subsection 176(3) (failure to cross names off list of electors) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast.
-> 2000, c. 9, s. 490; 2014, c. 12, s. 94.
+- **(a.1)** being an election officer, knowingly contravenes subsection 174(1) (failure to permit person to vote);
+- **(b)** being an election officer, knowingly contravenes subsection 174(2) (failure to record vote);
+- **(c)** being an election officer, contravenes any of subsections 175(1) to (3) and (5) (failure to take required measures with respect to advance polling) or subsection 176(3) (failure to cross names off list of electors) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast; or
+- **(d)** being a returning officer, contravenes subsection 176(2) (failure to cross names off list of electors) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast.
+> 2000, c. 9, s. 490; 2014, c. 12, s. 94; 2018, c. 31, s. 329.
 
 
 
@@ -13963,22 +15945,83 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(1)** Every returning officer who contravenes section 275 (failure to take required measures re ballots and special ballots) is guilty of an offence.
 
-**Offences requiring intent — summary conviction**
-
-- **(2)** Every person is guilty of an offence who
-	- **(a)** contravenes subsection 237.1(3.1) (attesting to residence of more than one elector);
-	- **(b)** contravenes subsection 237.1(3.2) (attesting to residence when own residence attested to); or
-	- **(c)** contravenes any of paragraphs 281(a) to (f) (prohibited acts re vote under special voting rules).
+- **(2)** [Repealed, 2018, c. 31, s. 330]
 
 **Offences requiring intent — dual procedure**
 
 - **(3)** Every person is guilty of an offence who
-	- **(a)** being a deputy returning officer, contravenes any of section 212, subsections 213(1) and (4) and 214(1), section 257 and subsection 258(3) (failure to perform duties with respect to receipt of vote) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast;
-	- **(b)** being a special ballot officer, contravenes any of subsections 267(1) and (2), section 268 and subsections 269(1) and (2) (failure to perform duties re counting of the vote) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast;
-	- **(c)** being a deputy returning officer or poll clerk, contravenes subsection 276(1), being a deputy returning officer, contravenes subsection 277(1), being a poll clerk, contravenes subsection 277(2), being a deputy returning officer, contravenes subsection 277(3), being a deputy returning officer or poll clerk, contravenes subsection 278(1) or (3) or, being a deputy returning officer, contravenes section 279, (failure to perform duties re counting of the vote) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast;
-	- **(d)** contravenes paragraph 281(g) or (h) (prohibited acts re special voting rules); or
-	- **(e)** contravenes paragraph 282(a) or (b) (intimidation or inducement re vote under special voting rules).
-> 2000, c. 9, s. 491; 2014, c. 12, s. 94.1.
+	- **(a)** being a unit election officer, contravenes any of section 212, subsections 213(1) and (4) and 214(1) or, being an election officer, contravenes section 257 or subsection 258(3) (failure to perform duties with respect to receipt of vote) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast;
+	- **(b)** being an election officer, contravenes any of subsections 267(1) and (2), section 268 and subsections 269(1) and (2) (failure to perform duties re counting of the vote) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast; or
+	- **(c)** being an election officer, contravenes any of subsection 276(1), section 277, subsections 278(1) and (3) and section 279 (failure to perform duties re counting of the vote) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast.
+	- **(d)** [Repealed, 2018, c. 31, s. 330]
+	- **(e)** [Repealed, 2018, c. 31, s. 330]
+> 2000, c. 9, s. 491; 2014, c. 12, s. 94.1; 2018, c. 31, s. 330.
+
+
+
+
+
+#### Offences under Part 11.1 (Prohibitions in relation to Voting)
+
+
+
+**Offences requiring intent — summary conviction**
+
+**491.1** Every person is guilty of an offence who
+- **(a)** contravenes subsection 281.6(2) (attempting to obtain information about elector’s vote);
+- **(b)** knowingly contravenes any of paragraphs 281.6(3)(a) to (c) (secrecy at the poll);
+- **(c)** knowingly contravenes subsection 281.6(4) (secrecy — marked ballot);
+- **(d)** knowingly contravenes paragraph 281.7(1)(c) (ballots);
+- **(e)** knowingly contravenes paragraph 281.8(1)(a) (photograph or video of marked ballot);
+- **(f)** knowingly contravenes paragraph 281.8(1)(b) (copy of marked ballot);
+- **(g)** knowingly contravenes paragraph 281.8(1)(c) (distribution of photograph, video or copy of marked ballot);
+- **(h)** knowingly contravenes paragraph 281.9(a) or (b) (false statement);
+- **(i)** contravenes subsection 282(1) (person who assists elector — limit);
+- **(j)** contravenes subsection 282.1(1) (vouching for more than one person);
+- **(k)** knowingly contravenes any of paragraphs 282.1(2)(a) to (c) (vouching for person contrary to that paragraph);
+- **(l)** contravenes subsection 282.1(3) (vouchee acting as voucher); or
+- **(m)** knowingly contravenes section 282.5 (interfering with marking of ballot).
+> 2018, c. 31, s. 331.
+
+
+
+
+
+**Offences requiring intent — dual procedure**
+
+**491.2** 
+
+- **(1)** Every person is guilty of an offence who
+	- **(a)** being the Chief Electoral Officer, knowingly contravenes section 281.1 (voting by Chief Electoral Officer);
+	- **(b)** contravenes section 281.2 (inducing or attempting to induce Chief Electoral Officer to vote);
+	- **(c)** contravenes paragraph 281.3(a) (voting when not qualified);
+	- **(d)** contravenes paragraph 281.3(b) (inducing or attempting to induce a person not qualified to vote, to vote);
+	- **(e)** contravenes paragraph 281.4(a) (voting when not ordinarily resident in electoral district);
+	- **(f)** contravenes paragraph 281.4(b) (inducing or attempting to induce a person who is not ordinarily resident in electoral district to vote);
+	- **(g)** knowingly contravenes subsection 281.5(1) or (2) (voting more than once);
+	- **(h)** knowingly contravenes subsection 281.6(1) (failure to maintain secrecy);
+	- **(i)** contravenes subsection 281.6(5) (secrecy — counting of the votes);
+	- **(j)** knowingly contravenes any of paragraphs 281.7(1)(a), (b) and (d) to (i) (ballots);
+	- **(k)** being an election officer, contravenes paragraph 281.7(2)(a) or (b) (ballots — election officer);
+	- **(l)** being a unit election officer, contravenes subsection 281.7(3) (special ballots — unit election officer);
+	- **(m)** contravenes subsection 282(2) (person who assists elector — secrecy);
+	- **(n)** knowingly contravenes section 282.2 (influencing electors);
+	- **(o)** being an election officer, unit election officer or member of the staff of a returning officer, knowingly contravenes section 282.3 (influencing electors);
+	- **(p)** contravenes subsection 282.4(1) (undue influence by foreigners);
+	- **(q)** knowingly contravenes subsection 282.4(4) (collusion);
+	- **(r)** knowingly contravenes subsection 282.4(5) (selling advertising space);
+	- **(s)** knowingly contravenes section 282.6 (preventing elector from voting);
+	- **(t)** knowingly contravenes subsection 282.7(1) (offering bribe);
+	- **(u)** knowingly contravenes subsection 282.7(2) (accepting bribe); or
+	- **(v)** knowingly contravenes paragraph 282.8(a) or (b) (intimidation, etc.).
+
+**Offence requiring intent — dual procedure**
+
+- **(2)** Every entity is guilty of an offence that
+	- **(a)** contravenes subsection 282.4(1) (undue influence by foreigners);
+	- **(b)** knowingly contravenes subsection 282.4(4) (collusion); or
+	- **(c)** knowingly contravenes subsection 282.4(5) (selling advertising space).
+> 2018, c. 31, s. 331.
 
 
 
@@ -13997,8 +16040,10 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Offences requiring intent — dual procedure**
 
 - **(2)** Every person is guilty of an offence who
-	- **(a)** being a deputy returning officer, contravenes any of sections 283 to 288 (failure to perform duties re counting of the vote) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast; or
+	- **(a)** being an election officer, contravenes any of sections 283 to 288 (failure to perform duties re counting of the vote) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast; or
 	- **(b)** knowingly contravenes subsection 289(3) (premature counting of votes cast at advance poll).
+> 2000, c. 9, s. 492; 2018, c. 31, s. 332.
+
 
 
 
@@ -14037,7 +16082,9 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(1)** Every person is guilty of an offence who
 	- **(a)** being a candidate, a registered party or a person acting on behalf of a candidate or registered party, contravenes section 320 (failure to indicate authority for election advertising);
-	- **(b)** contravenes subsection 326(1) or (2) (failure to provide election survey information) or, being a sponsor of an election survey, contravenes subsection 326(3) (failure to provide report on election survey results); or
+	- **(a.1)** being the owner or operator of an online platform, contravenes subsection 325.1(2) or (4) (failure to publish registry of partisan advertising messages and election advertising messages for required publication period) or subsection 325.1(5) (failure to keep information for required period);
+	- **(a.2)** being a registered party, eligible party, registered association, nomination contestant, potential candidate, candidate or third party that is required to register under subsection 349.6(1) or 353(1), contravenes section 325.2 (failure to provide information about self);
+	- **(b)** contravenes subsection 326(1) or (2) (failure to provide election survey information) or (2.1) (failure to ensure sponsor of election survey notified of date of transmission of election survey results) or, being a sponsor of an election survey, contravenes subsection 326(3) (failure to ensure report on election survey results is published); or
 	- **(c)** contravenes section 327 (failure to indicate survey not based on recognized statistical methods).
 
 **Offences requiring intent — summary conviction**
@@ -14046,14 +16093,13 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(a)** being a landlord or a condominium corporation, wilfully contravenes section 322 (prohibition of election advertising posters on residential premises); or
 	- **(b)** contravenes section 325 (removal of election advertising).
 
-**Offences requiring intent — summary conviction**
-
-- **(3)** Every person who wilfully contravenes section 331 (inducement by foreigners) is guilty of an offence.
+- **(3)** [Repealed, 2018, c. 31, s. 333]
 
 **Offences requiring intent — fine only, summary conviction**
 
 - **(4)** Every person is guilty of an offence who
-	- **(a)** wilfully contravenes subsection 326(1) or (2) (failure to provide election survey information) or, being a sponsor of an election survey, wilfully contravenes subsection 326(3) (failure to provide report on election survey results);
+	- **(a)** being the owner or operator of an online platform, knowingly contravenes subsection 325.1(2) or (4) (failure to publish registry of partisan advertising messages and election advertising messages for required publication period) or subsection 325.1(5) (failure to keep information for required period);
+	- **(a.1)** knowingly contravenes subsection 326(1) or (2) (failure to provide election survey information) or (2.1) (failure to ensure sponsor of election survey notified of date of transmission of election survey results) or, being a sponsor of an election survey, knowingly contravenes subsection 326(3) (failure to ensure report on election survey results is published);
 	- **(b)** wilfully contravenes section 327 (failure to indicate survey not based on recognized statistical methods);
 	- **(c)** wilfully contravenes subsection 328(2) (transmission of election survey results during blackout period);
 	- **(d)** [Repealed, 2014, c. 12, s. 95]
@@ -14068,6 +16114,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(5)** Every person is guilty of an offence who
 	- **(a)** knowingly contravenes subsection 323(1) (conducting election advertising during blackout period);
+	- **(a.1)** being a registered party, eligible party, registered association, nomination contestant, potential candidate, candidate or third party that is required to register under subsection 349.6(1) or 353(1), knowingly contravenes section 325.2 (failure to provide information about self); or
 	- **(b)** knowingly contravenes subsection 328(1) (causing transmission of election survey results during blackout period).
 > 2000, c. 9, s. 495; 2014, c. 12, s. 95; 2018, c. 31, s. 333.
 
@@ -14084,13 +16131,14 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **495.1** 
 
 - **(1)** Every person is guilty of an offence who, being a calling service provider, contravenes
-	- **(a)** paragraph 348.16(a) (obligation to keep scripts); or
-	- **(b)** paragraph 348.16(b) (obligation to keep recordings).
+	- **(a)** paragraph 348.16(a) (obligation to keep scripts);
+	- **(b)** paragraph 348.16(b) (obligation to keep recordings); or
+	- **(c)** paragraph 348.16(c) (obligation to keep list of telephone numbers called).
 
 **Offences requiring intent — dual procedure**
 
 - **(2)** Every person who, being a calling service provider, knowingly contravenes any provision referred to in subsection (1) is guilty of an offence.
-> 2014, c. 12, s. 96.
+> 2014, c. 12, s. 96; 2018, c. 31, s. 334.
 
 
 
@@ -14101,19 +16149,81 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **495.2** 
 
 - **(1)** Every person is guilty of an offence who, being a person or group, contravenes
-	- **(a)** paragraph 348.17(a) or section 348.19 (obligation to keep scripts); or
-	- **(b)** paragraph 348.17(b) or section 348.18 (obligation to keep recordings).
+	- **(a)** paragraph 348.17(a) or 348.19(a) (obligation to keep scripts);
+	- **(b)** paragraph 348.17(b) or 348.18(a) (obligation to keep recordings); or
+	- **(c)** paragraph 348.17(c), 348.18(b) or 348.19(b) (obligation to keep list of telephone numbers called).
 
 **Offences requiring intent — dual procedure**
 
 - **(2)** Every person who, being a person or group, knowingly contravenes any provision referred to in subsection (1) is guilty of an offence.
-> 2014, c. 12, s. 96.
+> 2014, c. 12, s. 96; 2018, c. 31, s. 335.
 
 
 
 
 
-#### Offences under Part 17 (Third Party Election Advertising)
+#### Offences under Part 17 (Third Party Advertising, Partisan Activities and Election Surveys)
+
+
+
+##### Offences under Division 0.1 of Part 17 (Prohibition on Use of Foreign Funds by Third Parties)
+
+
+
+**Strict liability offences — summary conviction**
+
+**495.21** 
+
+- **(1)** Every third party is guilty of an offence who contravenes
+	- **(a)** section 349.02 (use of foreign contributions); or
+	- **(b)** paragraph 349.03(a) (circumventing prohibition) or 349.03(b) (colluding to circumvent prohibition).
+
+**Offences requiring intent — dual procedure**
+
+- **(2)** Every third party who knowingly contravenes any provision referred to in subsection (1) is guilty of an offence.
+> 2018, c. 31, s. 336.
+
+
+
+
+
+##### Offences under Division 1 of Part 17 (Partisan Activities, Partisan Advertising and Election Surveys During Pre-election Period)
+
+
+
+**Strict liability offences — summary conviction**
+
+**495.3** 
+
+- **(1)** Every person is guilty of an offence who, being a third party, contravenes
+	- **(a)** any of subsections 349.1(1) to (3) (exceeding pre-election period expenses limits);
+	- **(b)** section 349.4 (foreign third party incurring pre-election period expenses);
+	- **(c)** section 349.5 (failure to identify self in advertising);
+	- **(d)** subsection 349.6(1) (failure to register);
+	- **(e)** section 349.7 (failure to appoint financial agent) or subsection 349.8(1) (failure to appoint auditor);
+	- **(f)** subsection 349.91(1) or 349.92(1) (failure to file interim third-party expenses return) or 349.91(10) (failure to provide documents evidencing expenses on request);
+	- **(g)** paragraph 349.93(b) (filing interim third-party expenses return that is substantially incomplete); or
+	- **(h)** section 349.94 (use of anonymous contributions).
+
+**Offences requiring intent — dual procedure**
+
+- **(2)** Every person is guilty of an offence who
+	- **(a)** being a third party, knowingly contravenes any of subsections 349.1(1) to (3) or section 349.2 (exceeding or circumventing pre-election period expenses limits);
+	- **(b)** being a third party or registered party, knowingly contravenes subsection 349.3(1) (colluding to influence third party);
+	- **(c)** being a third party or potential candidate, knowingly contravenes subsection 349.3(2) (colluding to influence third party);
+	- **(d)** being a third party or official agent of a potential candidate, knowingly contravenes subsection 349.3(3) (colluding to influence third party);
+	- **(e)** being a third party, knowingly contravenes section 349.4 (foreign third party incurring pre-election period expenses);
+	- **(f)** being a third party, knowingly contravenes subsection 349.6(1) (failure to register);
+	- **(g)** knowingly contravenes subsection 349.7(2) or 349.8(3) (ineligible person acting as financial agent or auditor);
+	- **(h)** being a third party, knowingly contravenes subsection 349.91(1) or 349.92(1) (failure to file interim third-party expenses return); or
+	- **(i)** being a third party, contravenes paragraph 349.93(a) or knowingly contravenes paragraph 349.93(b) (filing interim third-party expenses return that contains false or misleading information or one that is incomplete).
+> 2018, c. 31, s. 336.
+
+
+
+
+
+##### Offences under Division 2 of Part 17 (Partisan Activities, Election Advertising and Election Surveys During Election Period)
 
 
 
@@ -14122,22 +16232,57 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **496** 
 
 - **(1)** Every person is guilty of an offence who, being a third party, contravenes
-	- **(a)** any of subsections 350(1) to (4) (exceeding election advertising expense limits);
-	- **(a.1)** section 351.1 (foreign third party exceeding election advertising expense limit);
-	- **(b)** section 352 (failure to identify self in advertisement);
+	- **(a)** any of subsections 350(1) to (4) (exceeding election period expenses limits);
+	- **(a.1)** section 351.1 (foreign third party incurring election period expenses);
+	- **(b)** section 352 (failure to identify self in advertising);
 	- **(c)** subsection 353(1) (failure to register);
 	- **(d)** section 354 (failure to appoint financial agent) or subsection 355(1) (failure to appoint auditor);
-	- **(e)** subsection 357(3) (use of anonymous contributions) or section 358 (use of foreign contributions); or
-	- **(f)** subsection 359(1) (failure to file election advertising report) or 359(9) (failure to provide bills or receipts on request).
+	- **(d.1)** subsection 357.01(1) or 357.02(1) (failure to file interim third-party expenses return) or 357.01(10) (failure to provide documents evidencing expenses on request);
+	- **(d.2)** paragraph 357.03(b) (filing interim third-party expenses return that is substantially incomplete); or
+	- **(e)** section 357.1 (use of anonymous contributions).
+	- **(f)** [Repealed, 2018, c. 31, s. 337]
 
 **Offences requiring intent — dual procedure**
 
-- **(2)** Every person is guilty of an offence who, being a third party, wilfully contravenes
-	- **(a)** any of subsections 350(1) to (4) or section 351 (exceeding or circumventing election advertising expense limits);
-	- **(a.1)** section 351.1 (foreign third party exceeding election advertising expense limit);
-	- **(b)** subsection 353(1) (failure to register); or
-	- **(c)** subsection 359(1) (failure to file election advertising report).
-> 2000, c. 9, s. 496; 2014, c. 12, s. 97.
+- **(2)** Every person is guilty of an offence who
+	- **(a)** being a third party, knowingly contravenes any of subsections 350(1) to (4) or section 351 (exceeding or circumventing election period expenses limits);
+	- **(b)** being a third party or registered party, knowingly contravenes subsection 351.01(1) (colluding to influence third party);
+	- **(c)** being a third party or candidate, knowingly contravenes subsection 351.01(2) (colluding to influence third party);
+	- **(d)** being a third party or official agent of a candidate, knowingly contravenes subsection 351.01(3) (colluding to influence third party);
+	- **(e)** being a third party, knowingly contravenes section 351.1 (foreign third party incurring election period expenses);
+	- **(f)** being a third party, knowingly contravenes subsection 353(1) (failure to register);
+	- **(g)** knowingly contravenes subsection 354(2) or 355(3) (ineligible person acting as financial agent or auditor); or
+	- **(h)** being a third party, knowingly contravenes subsection 357.01(1) or 357.02(1) (failure to file interim third-party expenses return); or
+	- **(i)** being a third party, contravenes paragraph 357.03(a) or knowingly contravenes paragraph 357.03(b) (filing interim third-party expenses return that contains false or misleading information or one that is incomplete).
+> 2000, c. 9, s. 496; 2014, c. 12, s. 97; 2018, c. 31, s. 337.
+
+
+
+
+
+##### Offences under Division 3 of Part 17 (Third Parties’ Bank Accounts, Registry of Third Parties and Third-Party Expenses Returns)
+
+
+
+**Strict liability offences — summary conviction**
+
+**496.1** 
+
+- **(1)** Every person is guilty of an offence who, being a third party, contravenes
+	- **(a)** section 358.1 (failure to satisfy bank account requirements);
+	- **(b)** subsection 359(1) (failure to file third-party expenses return) or 359(9) (failure to provide documents evidencing expenses on request);
+	- **(c)** paragraph 359.1(b) (filing third-party expenses return that is substantially incomplete);
+	- **(d)** subsection 361(3) (failure to provide corrected or revised return within specified period); or
+	- **(e)** subsection 361.2(3) (failure to provide corrected or revised return within 30-day period or any extension of that period).
+
+**Offences requiring intent — dual procedure**
+
+- **(2)** Every person is guilty of an offence who, being a third party,
+	- **(a)** knowingly contravenes subsection 359(1) (failure to file third-party expenses return);
+	- **(b)** contravenes paragraph 359.1(a) or knowingly contravenes paragraph 359.1(b) (filing third-party expenses return that contains false or misleading information or one that is incomplete);
+	- **(c)** knowingly contravenes subsection 361(3) (failure to provide corrected or revised return within specified period); or
+	- **(d)** knowingly contravenes subsection 361.2(3) (failure to provide corrected or revised return within 30-day period or any extension of that period).
+> 2018, c. 31, s. 338.
 
 
 
@@ -14158,6 +16303,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 - **(1)** Every person is guilty of an offence who
 	- **(a)** being a person or entity, contravenes subsection 363(1) (making contribution while ineligible);
 	- **(b)** being the chief agent of a registered party, the financial agent of a registered association, the official agent of a candidate or the financial agent of a nomination contestant or leadership contestant, contravenes subsection 363(2) (failure to return or pay amount of ineligible contribution);
+	- **(b.1)** being a person or entity, contravenes subsection 364(9) (paying convention fees while ineligible);
 	- **(c)** being a registered party or an electoral district association of one, contravenes subsection 365(1) (making prohibited transfer);
 	- **(d)** being a person who is authorized to accept contributions on behalf of a registered party, a registered association, a nomination contestant, a candidate or a leadership contestant, contravenes section 366 (failure to issue receipt);
 	- **(e)** being a person or entity, contravenes subsection 368(1) (circumventing contribution limit);
@@ -14178,7 +16324,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(d)** being an individual, knowingly contravenes subsection 367(1) or (6) (exceeding contribution limit);
 	- **(e)** being a person or entity, knowingly contravenes subsection 368(1) (circumventing contribution limit);
 	- **(f)** being a person or entity, knowingly contravenes subsection 368(2) (concealing source of contribution);
-	- **(g)** being a person entitled to accept contributions under this Act, contravenes subsection 368(3) (knowingly accepting excessive contribution);
+	- **(g)** being a person entitled to accept contributions under this Act, knowingly contravenes subsection 368(3) (accepting excessive contribution);
 	- **(h)** being a person or entity, knowingly contravenes subsection 368(4) (entering prohibited agreement);
 	- **(i)** being a person or entity, contravenes subsection 369(1) (soliciting or accepting contribution);
 	- **(j)** being a person or entity, contravenes subsection 369(2) (collusion);
@@ -14187,7 +16333,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(m)** being a person authorized under this Act to accept contributions, knowingly contravenes section 372 (failure to return or pay amount of contribution);
 	- **(n)** being a person or entity, knowingly contravenes subsection 373(1) or (2) (making a loan, guaranteeing a loan or borrowing money); or
 	- **(o)** being an individual, knowingly contravenes section 374 (making indirect loans).
-> 2000, c. 9, s. 497; 2003, c. 19, s. 58; 2004, c. 24, s. 21; 2006, c. 9, s. 57; 2007, c. 21, s. 39; 2014, c. 12, ss. 98, 99.
+> 2000, c. 9, s. 497; 2003, c. 19, s. 58; 2004, c. 24, s. 21; 2006, c. 9, s. 57; 2007, c. 21, s. 39; 2014, c. 12, ss. 98, 99; 2018, c. 31, s. 339.
 
 
 
@@ -14235,7 +16381,12 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(e)** being a chief agent of a deregistered political party, contravenes section 420 (failure to provide financial transactions return or election expenses return or related documents);
 	- **(f)** being a chief agent of a merging registered party, contravenes section 424 (failure to provide financial transactions return or related documents);
 	- **(g)** being a chief agent, contravenes section 428 (failure to pay recoverable claim within three years);
-	- **(h)** being a chief agent, contravenes subsection 431(1) (exceeding election expenses limit) or, being a registered party or third party, contravenes subsection 431(2) (colluding to circumvent election expenses limit);
+	- **(g.1)** being a chief agent, contravenes subsection 429.2(1) (exceeding partisan advertising expenses limit);
+	- **(g.2)** being a registered party, contravenes subsection 429.2(2) (circumventing partisan advertising expenses limit);
+	- **(g.3)** being a third party, contravenes subsection 429.2(3) (colluding to circumvent partisan advertising expenses limit);
+	- **(g.4)** being a registered party or a person acting on behalf of a registered party, contravenes section 429.3 (failure to indicate authority for partisan advertising);
+	- **(h)** being a chief agent, contravenes subsection 431(1) (exceeding election expenses limit);
+	- **(h.1)** being a third party, contravenes subsection 431(2) (colluding to circumvent election expenses limit);
 	- **(i)** being a chief agent, contravenes subsection 432(1), (2), (3) or (5) (failure to provide financial transactions return or related documents);
 	- **(j)** being a chief agent, contravenes section 433 (failure to provide quarterly return);
 	- **(k)** being a registered agent, contravenes section 434 (failure to pay excess contributions);
@@ -14261,9 +16412,13 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(c)** being an officer of a party, contravenes section 404 (officer knowing party not a political party);
 	- **(d)** being a leader of a party, contravenes subsection 408(1), (3) or (4) (providing or certifying false or misleading information or making false or misleading declaration);
 	- **(e)** being a registered party or an eligible party, contravenes subsection 408(2) (providing false or misleading information);
-	- **(f)** being a member of a political party, contravenes subsection 408(5) (making false or misleading declaration);
+	- **(f)** contravenes subsection 408(5) (making false or misleading declaration);
 	- **(g)** being a chief agent of a deregistered political party, knowingly contravenes section 420 (failure to provide transactions return or election expenses return or related documents);
 	- **(h)** being a chief agent of a merging registered party, knowingly contravenes section 424 (failure to provide financial transactions returns or related documents);
+	- **(h.1)** being a registered agent other than the chief agent, knowingly contravenes subsection 426(2.1) (failure to obtain written authorization to incur registered party’s expenses or incurring them contrary to authorization);
+	- **(h.2)** being a chief agent, knowingly contravenes subsection 429.2(1) (exceeding partisan advertising expenses limit);
+	- **(h.3)** being a registered party, knowingly contravenes subsection 429.2(2) (circumventing partisan advertising expenses limit);
+	- **(h.4)** being a third party, knowingly contravenes subsection 429.2(3) (colluding to circumvent partisan advertising expenses limit);
 	- **(i)** being a chief agent, knowingly contravenes subsection 431(1) (exceeding election expenses limit);
 	- **(j)** being a registered party or a third party, knowingly contravenes subsection 431(2) (colluding to circumvent election expense limit);
 	- **(k)** being a chief agent, knowingly contravenes subsection 432(1), (2), (3) or (5) (failure to provide financial transactions return or related documents);
@@ -14274,7 +16429,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(p)** being a chief agent, contravenes paragraph 439(a) (providing document that contains false or misleading information);
 	- **(q)** being a chief agent, knowingly contravenes subsection 440(3) (failure to provide corrected or revised document within specified period); or
 	- **(r)** being a chief agent or the leader of a registered party, knowingly contravenes subsection 442(3) (failure to provide corrected or revised document within 30-day period or any extension of that period).
-> 2014, c. 12, s. 99.
+> 2014, c. 12, s. 99; 2018, c. 31, s. 340.
 
 
 
@@ -14290,7 +16445,9 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(1)** Every person is guilty of an offence who
 	- **(a)** being an electoral district association of a registered party, contravenes section 447 (financial activity while unregistered);
-	- **(b)** being an electoral district association of a registered party, contravenes section 450 (financial activity during an election period);
+	- **(a.1)** being an electoral district association of a registered party, contravenes subsection 449.1(1) (incurring certain partisan advertising expenses or, during a pre-election period, transmitting certain partisan advertising messages);
+	- **(a.2)** being a registered association, contravenes section 449.2 (failure to indicate authority for partisan advertising);
+	- **(b)** being an electoral district association of a registered party, contravenes subsection 450(1) (incurring election expenses);
 	- **(c)** being a registered association, contravenes section 451 (failure to provide statement of assets and liabilities or related documents);
 	- **(d)** being the financial agent of a registered association, contravenes section 452 (making erroneous declaration);
 	- **(e)** being a registered association, contravenes subsection 456(2) (failure to comply with requirements re: appointment of electoral district agent);
@@ -14316,7 +16473,8 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(3)** Every person is guilty of an offence who
 	- **(a)** being an electoral district association, knowingly contravenes section 447 (financial activity while unregistered);
-	- **(b)** being an electoral district association of a registered party, knowingly contravenes section 450 (financial activity during an election period);
+	- **(a.1)** being an electoral district association of a registered party, knowingly contravenes subsection 449.1(1) (incurring certain partisan advertising expenses or, during a pre-election period, transmitting certain partisan advertising messages);
+	- **(b)** being an electoral district association of a registered party, knowingly contravenes subsection 450(1) (incurring election expenses);
 	- **(c)** being a registered association, knowingly contravenes section 451 (failure to provide statement of assets and liabilities or related documents);
 	- **(d)** being the financial agent of a registered association, knowingly contravenes section 452 (making erroneous declaration);
 	- **(e)** being a registered association, knowingly contravenes subsection 456(2) (failure to comply with requirements re: appointment of electoral district agent);
@@ -14327,7 +16485,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(j)** being the financial agent of a registered association, contravenes paragraph 475.7(a) (providing document that contains false or misleading information);
 	- **(k)** being the financial agent of a registered association, knowingly contravenes subsection 475.9(3) (failure to provide corrected or revised document within specified period); or
 	- **(l)** being the financial agent or chief executive officer of a registered association, knowingly contravenes subsection 475.92(3) (failure to provide corrected or revised document within 30-day period or any extension of that period).
-> 2014, c. 12, s. 99.
+> 2014, c. 12, s. 99; 2018, c. 31, s. 341.
 
 
 
@@ -14358,6 +16516,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(n)** being the financial agent of a nomination contestant, contravenes section 476.76 (failure to pay the value of contributions that cannot be returned);
 	- **(o)** being a nomination contestant, contravenes subsection 476.77(1) (failure to appoint auditor);
 	- **(p)** being a nomination contestant, contravenes subsection 476.77(4) or (5) or section 476.78 (failure to comply with requirements re: appointment of auditor);
+	- **(p.1)** being a nomination contestant, contravenes subsection 476.82(1) or (3) (failure to send written statement or advise financial agent);
 	- **(q)** being the financial agent of a nomination contestant, contravenes subsection 476.83(3) (failure to provide corrected or revised document within specified period);
 	- **(r)** being a nomination contestant or the financial agent of one, contravenes subsection 476.85(3) (failure to provide corrected or revised document within 30-day period or any extension of that period);
 	- **(s)** being the financial agent of a nomination contestant, contravenes paragraph 476.9(b) (providing document that is substantially incomplete); or
@@ -14371,7 +16530,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(c)** being a person or entity other than the financial agent of a nomination contestant, knowingly contravenes subsection 476.66(1) (acceptance of contribution while ineligible);
 	- **(d)** being a person or entity other than the financial agent of a nomination contestant, knowingly contravenes subsection 476.66(2) (while ineligible, accepting provision of goods or services or transfer of funds or transferring funds);
 	- **(e)** being the financial agent of a nomination contestant, knowingly contravenes subsection 476.66(3) (accepting prohibited contribution);
-	- **(f)** being a person or entity, knowingly contravenes subsection 476.66(4), (5) or (6) (paying or incurring expenses for specified purposes or paying personal expenses while ineligible);
+	- **(f)** being a person or entity, knowingly contravenes subsection 476.66(4), (5) or (6) (paying or incurring nomination campaign expenses while ineligible);
 	- **(g)** being a nomination contestant or the financial agent of one, knowingly contravenes subsection 476.68(1) (exceeding nomination contest expenses limit);
 	- **(h)** being a person or entity, contravenes subsection 476.68(2) (circumventing nomination contest expenses limit);
 	- **(i)** being the financial agent of a nomination contestant, knowingly contravenes subsection 476.75(1), (2), (5) or (7) (failure to provide nomination campaign return or related documents);
@@ -14384,9 +16543,10 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(p)** being a person, knowingly contravenes section 476.79 (acting as auditor when ineligible to do so);
 	- **(q)** being the financial agent of a nomination contestant, knowingly contravenes subsection 476.83(3) (failure to provide corrected or revised document within specified period);
 	- **(r)** being a nomination contestant or the financial agent of one, knowingly contravenes subsection 476.85(3) (failure to provide corrected or revised document within 30-day period or any extension of that period);
-	- **(s)** being a nomination contestant or the financial agent of one, contravenes paragraph 476.9(a) or knowingly contravenes paragraph 476.9(b) (providing document that contains false or misleading information or that is substantially incomplete); or
+	- **(r.1)** being a nomination contestant, contravenes section 476.891 (sending false or misleading declaration);
+	- **(s)** being the financial agent of a nomination contestant, contravenes paragraph 476.9(a) or knowingly contravenes paragraph 476.9(b) (providing document that contains false or misleading information or that is substantially incomplete); or
 	- **(t)** being the financial agent of a nomination contestant, knowingly contravenes subsection 476.92(2) or (3) or section 476.93 (failure to dispose of surplus nomination campaign funds).
-> 2014, c. 12, s. 99; 2018, c. 20, s. 10.
+> 2014, c. 12, s. 99; 2018, c. 20, s. 10; 2018, c. 31, ss. 342, 399.
 
 
 
@@ -14405,8 +16565,8 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(b)** being a candidate, contravenes subsection 477.1(2) (failure to appoint auditor);
 	- **(c)** being a candidate, contravenes section 477.42 (failure to appoint a replacement official agent or auditor);
 	- **(d)** being an official agent, contravenes section 477.46 (failure to satisfy bank account requirements);
-	- **(e)** being an official agent, a candidate or a person authorized under paragraph 477.55(c), contravenes subsection 477.48(2) (incurring more than maximum allowed for notice of nomination meetings) or subsection 477.52(1) (exceeding election expenses limit) or, being an official agent, a candidate, a person authorized under paragraph 477.55(c) or a third party, contravenes subsection 477.52(2) (colluding to circumvent election expenses limit);
-	- **(f)** being an official agent, contravenes subsection 477.54(1) or (2) (failure to pay recoverable claim within three years or paying without authorization);
+	- **(e)** being a candidate, an official agent or a person authorized under paragraph 477.55(c), contravenes subsection 477.52(1) (exceeding election expenses limit) or, being a candidate, an official agent, a person authorized under paragraph 477.55(c) or a third party, contravenes subsection 477.52(2) (colluding to circumvent election expenses limit);
+	- **(f)** being a candidate or an official agent, contravenes subsection 477.54(1) or (2) (failure to pay recoverable claim within three years or paying without authorization);
 	- **(g)** being an official agent, contravenes subsection 477.59(1), (2), (5) or (7) (failure to provide electoral campaign return or related documents);
 	- **(h)** being an official agent, fails to comply with a requirement of the Chief Electoral Officer under subsection 477.59(4);
 	- **(i)** being a candidate, contravenes subsection 477.59(8) (failure to send declaration re: electoral campaign return to official agent) or subsection 477.63(1) (failure to provide Chief Electoral Officer with declaration re: electoral campaign return);
@@ -14414,6 +16574,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(k)** being an official agent, contravenes subsection 477.59(11) or (12) (failure to provide updated version of statement of unpaid claims);
 	- **(l)** being an official agent, fails to comply with a requirement of the Chief Electoral Officer under subsection 477.59(14);
 	- **(m)** being an official agent, contravenes section 477.61 (failure to pay value of contribution that cannot be returned);
+	- **(m.1)** being a candidate, contravenes subsection 477.64(1) or (3) (failure to send written statement or advise official agent);
 	- **(n)** being an official agent, contravenes subsection 477.65(3) (failure to provide corrected or revised document within specified period);
 	- **(o)** being a candidate or the official agent of one, contravenes subsection 477.67(3) (failure to provide corrected or revised document within 30-day period or any extension of that period);
 	- **(p)** being an official agent, contravenes paragraph 477.72(1)(b) (providing document that is substantially incomplete);
@@ -14431,11 +16592,14 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(a)** knowingly contravenes subsection 477.44(1) or (2) (ineligible person acting as official agent or auditor);
 	- **(b)** being a person or entity other than an official agent, knowingly contravenes subsection 477.47(1) or (2) (accepting contributions or providing receipts for them);
 	- **(c)** being a person or entity other than an official agent, knowingly contravenes subsection 477.47(3) (while ineligible, accepting provision of goods or services or transfer of funds or providing goods or services or transferring funds);
-	- **(d)** being a person or entity, other than a candidate, official agent or person authorized under paragraph 477.55(c), knowingly contravenes subsection 477.47(4) or (5) (paying or incurring electoral campaign expenses);
-	- **(e)** being a person or entity other than a candidate or official agent, knowingly contravenes subsection 477.47(6) (paying candidate’s personal expenses);
-	- **(f)** being a candidate, an official agent or a person authorized under paragraph 477.55(c), knowingly contravenes subsection 477.48(2) (spending more than maximum allowed for notice of nomination meetings);
+	- **(d)** being a person or entity other than an official agent, knowingly contravenes subsection 477.47(4) (paying electoral campaign expenses);
+	- **(d.1)** being a person or entity other than a candidate, an official agent or a person authorized under paragraph 477.55(c), knowingly contravenes subsection 477.47(5) (incurring electoral campaign expenses);
+	- **(d.2)** being a candidate, knowingly contravenes subsection 477.47(5.1) (failure to obtain written authorization to incur election expense or incurring it contrary to authorization);
+	- **(e)** being a person or entity other than a candidate or official agent, knowingly contravenes subsection 477.47(6) (paying certain expenses);
+	- **(f)** [Repealed, 2018, c. 31, s. 343]
 	- **(g)** being a candidate, an official agent or a person authorized under paragraph 477.55(c), knowingly contravenes subsection 477.52(1) (exceeding election expenses limit);
 	- **(h)** being a candidate, an official agent, a person authorized under paragraph 477.55(c) or a third party, contravenes subsection 477.52(2) (colluding to circumvent election expenses limit);
+	- **(h.1)** being a person authorized under paragraph 477.55(c), knowingly contravenes subsection 477.551 (entering into contract in relation to electoral campaign without authorization);
 	- **(i)** being an official agent, knowingly contravenes subsection 477.59(1), (2), (5) or (7) (failure to provide electoral campaign return or related documents);
 	- **(j)** being an official agent, knowingly fails to comply with a requirement of the Chief Electoral Officer under subsection 477.59(4);
 	- **(k)** being a candidate, knowingly contravenes subsection 477.59(8) (failure to send declaration re: electoral campaign return to official agent) or subsection 477.63(1) (failure to provide Chief Electoral Officer with declaration re: electoral campaign return);
@@ -14443,8 +16607,10 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(m)** being an official agent, knowingly contravenes subsection 477.59(11) or (12) (failure to provide updated version of statement of unpaid claims);
 	- **(n)** being an official agent, knowingly fails to comply with a requirement of the Chief Electoral Officer under subsection 477.59(14);
 	- **(o)** being an official agent, knowingly contravenes section 477.61 (failure to pay value of contribution made by unknown contributor);
+	- **(o.1)** being a candidate, knowingly contravenes subsection 477.64(1) or (3) (failure to send written statement or advise official agent);
 	- **(p)** being an official agent, knowingly contravenes subsection 477.65(3) (failure to provide corrected or revised document within specified period);
 	- **(q)** being a candidate or the official agent of one, knowingly contravenes subsection 477.67(3) (failure to provide corrected or revised document within 30-day period or any extension of that period);
+	- **(q.1)** being a candidate, contravenes section 477.711 (sending false or misleading declaration);
 	- **(r)** being an official agent, contravenes paragraph 477.72(1)(a) or knowingly contravenes paragraph 477.72(1)(b) (providing document that contains false or misleading statement or one that is incomplete);
 	- **(s)** being an official agent, knowingly contravenes subsection 477.81(2) or (3) or section 477.82 (failure to dispose of surplus electoral funds);
 	- **(t)** being a registered agent or financial agent, knowingly contravenes section 477.85 (unauthorized or improper transfer of funds);
@@ -14452,7 +16618,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(v)** being a candidate, knowingly contravenes subsection 477.9(5) (failure to provide statement within required period);
 	- **(w)** being a candidate, knowingly contravenes subsection 477.92(3) (failure to provide corrected or revised statement within 30-day period or any extension of that period); or
 	- **(x)** being a candidate, contravenes paragraph 477.95(a) (providing statement containing false or misleading information) or knowingly contravenes paragraph 477.95(b) (providing incomplete statement).
-> 2014, c. 12, s. 99.
+> 2014, c. 12, s. 99; 2018, c. 31, s. 343.
 
 
 
@@ -14483,9 +16649,10 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(n)** being the financial agent of a leadership contestant, fails to comply with a requirement of the Chief Electoral Officer under subsection 478.8(14);
 	- **(o)** being the financial agent of a leadership contestant, contravenes any of subsections 478.81(1) to (3) (failure to provide return on contributions or related documents);
 	- **(p)** being the financial agent of a leadership contestant, contravenes section 478.82 (failure to forward certain contributions);
+	- **(p.1)** being a leadership contestant, contravenes subsection 478.85(1) or (3) (failure to send written statement or advise financial agent);
 	- **(q)** being the financial agent of a leadership contestant, contravenes subsection 478.86(3) (failure to provide corrected or revised document within specified period);
 	- **(r)** being a leadership contestant or the financial agent of one, contravenes subsection 478.88(3) (failure to provide corrected or revised document within 30-day period or any extension of that period);
-	- **(s)** being a leadership contestant or the financial agent of one, contravenes paragraph 478.93(b) (providing document that is substantially incomplete); or
+	- **(s)** being the financial agent of a leadership contestant, contravenes paragraph 478.93(b) (providing document that is substantially incomplete); or
 	- **(t)** being the financial agent of a leadership contestant, contravenes subsection 478.95(2) or (3) or section 478.96 (failure to dispose of surplus leadership campaign funds).
 
 **Offences requiring intent — dual procedure**
@@ -14500,7 +16667,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(g)** being a person or entity other than a leadership campaign agent of a leadership contestant, knowingly contravenes subsection 478.73(2) (while ineligible, accepting provision of goods or services or transfer of funds or transferring funds);
 	- **(h)** being a leadership campaign agent of a leadership contestant, knowingly contravenes subsection 478.73(3) (accepting prohibited contribution);
 	- **(i)** being a person or entity, knowingly contravenes subsection 478.73(4) or (5) (paying or incurring expenses for specified purposes while ineligible);
-	- **(j)** being a person or entity, knowingly contravenes subsection 478.73(6) (paying personal expenses of leadership contestant while ineligible);
+	- **(j)** being a person or entity, knowingly contravenes subsection 478.73(6) (paying certain expenses of leadership contestant while ineligible);
 	- **(k)** being the financial agent of a leadership contestant, knowingly contravenes subsection 478.8(1), (2), (5) or (7) (failure to provide leadership campaign return or related documents);
 	- **(l)** being the financial agent of a leadership contestant, knowingly fails to comply with a requirement of the Chief Electoral Officer under subsection 478.8(4);
 	- **(m)** being a leadership contestant, knowingly contravenes subsection 478.8(8) (failure to send declaration re: leadership campaign return to financial agent) or subsection 478.84(1) (failure to provide Chief Electoral Officer with declaration re: leadership campaign return);
@@ -14509,11 +16676,13 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(p)** being the financial agent of a leadership contestant, knowingly fails to comply with a requirement of the Chief Electoral Officer under subsection 478.8(14);
 	- **(q)** being the financial agent of a leadership contestant, knowingly contravenes any of subsections 478.81(1) to (3) (failure to provide return on contributions or related documents);
 	- **(r)** being the financial agent of a leadership contestant, knowingly contravenes section 478.82 (failure to forward certain contributions);
+	- **(r.1)** being a leadership contestant, knowingly contravenes subsection 478.85(1) or (3) (failure to send written statement or advise financial agent);
 	- **(s)** being the financial agent of a leadership contestant, knowingly contravenes subsection 478.86(3) (failure to provide corrected or revised document within specified period);
 	- **(t)** being a leadership contestant or the financial agent of one, knowingly contravenes subsection 478.88(3) (failure to provide corrected or revised document within 30-day period or any extension of that period);
-	- **(u)** being a leadership contestant or the financial agent of one, contravenes paragraph 478.93(a) or knowingly contravenes paragraph 478.93(b) (providing document that contains false or misleading information or that is substantially incomplete); or
+	- **(t.1)** being a leadership contestant, contravenes section 478.921 (sending false or misleading declaration);
+	- **(u)** being the financial agent of a leadership contestant, contravenes paragraph 478.93(a) or knowingly contravenes paragraph 478.93(b) (providing document that contains false or misleading information or that is substantially incomplete); or
 	- **(v)** being the financial agent of a leadership contestant, knowingly contravenes subsection 478.95(2) or (3) or section 478.96 (failure to dispose of surplus leadership campaign funds).
-> 2014, c. 12, s. 99.
+> 2014, c. 12, s. 99; 2018, c. 31, s. 344.
 
 
 
@@ -14523,9 +16692,19 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
+**Strict liability offence — summary conviction**
+
+**498** 
+
+- **(1)** Every chief agent of a registered party is guilty of an offence who fails to comply with a requirement of the Commissioner under section 510.001.
+
 **Offence requiring intent — dual procedure**
 
-**498** Every person who wilfully contravenes subsection 479(4) (refusal to obey order to leave polling place) is guilty of an offence.
+- **(2)** Every person is guilty of an offence who
+	- **(a)** knowingly contravenes subsection 479(4) (refusal to obey order to leave office or place); or
+	- **(b)** being the chief agent of a registered party, knowingly fails to comply with a requirement of the Commissioner under section 510.001.
+> 2000, c. 9, s. 498; 2018, c. 31, s. 344.1.
+
 
 
 
@@ -14543,8 +16722,10 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Offences requiring intent — dual procedure**
 
 - **(2)** Every person is guilty of an offence who
-	- **(a)** knowingly contravenes subsection 549(3) (taking false oath) or 549(4) (compelling or inducing false oath); or
+	- **(a)** knowingly contravenes subsection 549(3) (making false declaration in solemn declaration or affidavit) or 549(4) (compelling or inducing false declaration); or
 	- **(b)** being a candidate, knowingly contravenes section 550 (signing document that limits freedom of action in Parliament).
+> 2000, c. 9, s. 499; 2018, c. 31, s. 345.
+
 
 
 
@@ -14557,7 +16738,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **500** 
 
-- **(1)** Every person who is guilty of an offence under any of subsections 484(1), 486(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 496(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1) and 499(1) is liable on summary conviction to a fine of not more than $2,000 or to imprisonment for a term of not more than three months, or to both.
+- **(1)** Every person who is guilty of an offence under any of subsections 484(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 495.21(1), 495.3(1), 496(1), 496.1(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1), 498(1) and 499(1) is liable on summary conviction to a fine of not more than $2,000 or to imprisonment for a term of not more than three months, or to both.
 
 **Punishment — strict liability offences**
 
@@ -14565,7 +16746,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Punishment — offences requiring intent (summary conviction)**
 
-- **(2)** Every person who is guilty of an offence under any of subsections 484(2) and 486(2), paragraph 487(1)(a), subsections 488(1), 489(2) and 491(2), section 493 and subsections 495(2) and (3), 497.1(2) and 497.2(2) is liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than six months, or to both.
+- **(2)** Every person who is guilty of an offence under any of subsections 484(2) and 486(2), paragraph 487(1)(a), subsections 488(1) and 489(2), sections 491.1 and 493 and subsections 495(2) and (3), 497.1(2) and 497.2(2) is liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than six months, or to both.
 
 **Punishment — offences requiring intent (summary conviction)**
 
@@ -14579,14 +16760,22 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Punishment — offences requiring intent (dual procedure)**
 
-- **(5)** Every person who is guilty of an offence under any of subsections 480(1) and (2), sections 480.1 to 483, subsections 484(3), 485(2) and 486(3), section 487, subsections 488(2) and 489(3), section 490, subsections 491(3) and 492(2), section 494, subsections 495(5), 495.1(2), 495.2(2), 496(2), 497(2), 497.1(3), 497.2(3), 497.3(2), 497.4(2) and 497.5(2), section 498 and subsection 499(2) is liable
+- **(5)** Every person who is guilty of an offence under any of subsections 480(1) and (2), 480.1(1), 481(1) and 482(1), section 482.1, subsections 484(3), 485(2), 486(3) and (4), 487(2), 488(2) and 489(3), section 490, subsection 491(3), section 491.2, subsection 492(2), section 494, subsections 495(5), 495.1(2), 495.2(2), 495.21(2), 495.3(2), 496(2), 496.1(2), 497(2), 497.1(3), 497.2(3), 497.3(2), 497.4(2), 497.5(2), 498(2) and 499(2) is liable
 	- **(a)** on summary conviction, to a fine of not more than $20,000 or to imprisonment for a term of not more than one year, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $50,000 or to imprisonment for a term of not more than five years, or to both.
 
 **Additional punishment — third parties**
 
-- **(6)** Every third party that is guilty of an offence under paragraph 496(1)(a) or (2)(a) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the election advertising expense limit in question.
-> 2000, c. 9, s. 500; 2007, c. 21, s. 39.1; 2014, c. 12, s. 100; 2018, c. 20, s. 11.
+- **(5.1)** Every third party that is guilty of an offence under paragraph 495.21(1)(a) or (b) or subsection 495.21(2) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount of the funds whose source was a foreign entity that were used, or the amount of the funds that were used to circumvent the prohibition on using funds whose source is a foreign entity.
+
+**Additional punishment — third parties**
+
+- **(5.2)** Every third party that is guilty of an offence under paragraph 495.3(1)(a) or (2)(a) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the pre-election period expenses limit in question.
+
+**Additional punishment — third parties**
+
+- **(6)** Every third party that is guilty of an offence under paragraph 496(1)(a) or (2)(a) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the election period expenses limit in question.
+> 2000, c. 9, s. 500; 2007, c. 21, s. 39.1; 2014, c. 12, s. 100; 2018, c. 20, s. 11; 2018, c. 31, s. 346.
 
 
 
@@ -14660,32 +16849,34 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(b)** being a candidate or an official agent, contravenes subsection 330(2) (foreign broadcasting);
 	- **(c)** being an official agent, a candidate or a person authorized under paragraph 477.55(c), knowingly contravenes section 477.52 (exceeding election expenses limit);
 	- **(d)** being a candidate or an official agent of a candidate, commits an offence under subsection 480(1) (obstructing electoral process) or 480(2) (inciting, conspiring to act in disorderly manner);
-	- **(e)** being a candidate, contravenes subsection 549(3) (taking false oath) or 549(4) (compelling or inducing false oath); or
+	- **(e)** being a candidate, contravenes subsection 549(3) (making false declaration in solemn declaration or affidavit) or 549(4) (compelling or inducing false declaration); or
 	- **(f)** being a candidate, contravenes section 550 (signing of document that limits freedom of action in Parliament).
 
 **Corrupt practice**
 
 - **(2)** Every person is guilty of an offence that is a corrupt practice who
-	- **(a)** being a candidate or an official agent of a candidate, contravenes section 7 (voting more than once);
+	- **(a)** [Repealed, 2018, c. 31, s. 347]
 	- **(b)** being a candidate or an official agent of a candidate, contravenes paragraph 43(a) (obstruction of election officer);
-	- **(c)** being a candidate or an official agent of a candidate, wilfully contravenes paragraph 43(b) (impersonation of revising agent);
+	- **(c)** being a candidate or an official agent of a candidate, knowingly contravenes paragraph 43(b) (impersonation of election officer);
 	- **(d)** being a candidate or an official agent of a candidate, contravenes paragraph 56(b) (making false statement to have person deleted from Register of Electors);
 	- **(e)** being a candidate or an official agent of a candidate, contravenes paragraph 56(c) or (d) (forbidden acts re Register of Electors);
 	- **(f)** contravenes section 89 (signing of nomination paper when ineligible);
 	- **(f.1)** [Repealed, 2014, c. 12, s. 102]
 	- **(g)** contravenes paragraph 111(a), (d) or (e) (forbidden acts re list of electors);
-	- **(h)** contravenes paragraph 167(1)(a) (apply for a ballot under false name);
+	- **(g.1)** contravenes section 281.5 (only one vote);
+	- **(g.2)** contravenes paragraph 281.7(1)(a) (request or apply for a ballot or special ballot under false name);
+	- **(h)** being a candidate or an official agent of a candidate, commits an offence under subsection 282.7(1) (offering bribe);
 	- **(h.01)** being a candidate, knowingly contravenes subsection 477.9(1) (accepting prohibited gift or other advantage);
-	- **(h.1)** being a candidate or an official agent of a candidate, commits an offence under section 480.1 (impersonation);
-	- **(h.2)** being a candidate or an official agent of a candidate, commits an offence under section 482.1 (obstruction); or
-	- **(i)** being a candidate or an official agent of a candidate, commits an offence under subsection 481(1) (offering bribe).
+	- **(h.1)** being a candidate or an official agent of a candidate, commits an offence under subsection 480.1(1) (impersonation); or
+	- **(h.2)** being a candidate or an official agent of a candidate, commits an offence under section 482.1 (obstruction).
+	- **(i)** [Repealed, 2018, c. 31, s. 347]
 
 **Consequences of illegal, corrupt practices**
 
 - **(3)** Any person who is convicted of having committed an offence that is an illegal practice or a corrupt practice under this Act shall, in addition to any other punishment for that offence prescribed by this Act, in the case of an illegal practice, during the next five years or, in the case of a corrupt practice, during the next seven years, after the date of their being so convicted, not be entitled to
 	- **(a)** be elected to or sit in the House of Commons; or
 	- **(b)** hold any office in the nomination of the Crown or of the Governor in Council.
-> 2000, c. 9, s. 502; 2006, c. 9, s. 58; 2014, c. 12, s. 102.
+> 2000, c. 9, s. 502; 2006, c. 9, s. 58; 2014, c. 12, s. 102; 2018, c. 31, s. 347.
 
 
 
@@ -14699,16 +16890,24 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **503** 
 
-- **(1)** A political party that is deregistered during an election period does not commit an offence under paragraph 496(1)(a) or (2)(a) if the party, during the portion of the election period before the deregistration, has spent more than the spending limit set out in section 350.
-
-**Eligible party**
-
-- **(2)** An eligible party that does not become a registered party during the election period of a general election does not commit an offence referred to in paragraph 496(1)(a) or (2)(a) if its election advertising expenses, as of the day that it is informed under subsection 390(4) that it has not been registered, are more than the spending limit set out in section 350.
+- **(1)** A political party that is deregistered during a pre-election period does not commit an offence under paragraph 495.3(1)(a) or (2)(a) if, before the deregistration, its partisan activity expenses, partisan advertising expenses and election survey expenses exceeded any maximum amount set out in section 349.1.
 
 **Prior expenses applied against spending limit**
 
-- **(3)** If subsection (1) or (2) applies, election advertising expenses incurred before the deregistration or before the day referred to in subsection (2), as the case may be, shall be applied against the spending limit set out in section 350 and, if the limit has been exceeded, the party shall not incur any additional election advertising expenses.
-> 2000, c. 9, s. 503; 2003, c. 19, s. 59; 2014, c. 12, s. 103.
+- **(1.1)** If subsection (1) applies, then partisan activity expenses, partisan advertising expenses and election survey expenses incurred before the deregistration shall be applied against any maximum amount set out in section 349.1 and, if the limit is exceeded, the political party shall not incur any additional partisan activity expenses, partisan advertising expenses or election survey expenses.
+
+**Deregistered parties**
+
+- **(1.2)** A political party that is deregistered during an election period does not commit an offence under paragraph 496(1)(a) or (2)(a) if, before the deregistration, its partisan activity expenses, election advertising expenses and election survey expenses exceeded any maximum amount set out in section 350.
+
+**Eligible party**
+
+- **(2)** An eligible party that does not become a registered party during the election period of a general election does not commit an offence under paragraph 496(1)(a) or (2)(a) if its partisan activity expenses, election advertising expenses and election survey expenses, as of the day that it is informed under subsection 390(4) that it has not been registered, exceed any maximum amount set out in section 350.
+
+**Prior expenses applied against spending limit**
+
+- **(3)** If subsection (1.2) or (2) applies, then partisan activity expenses, election advertising expenses and election survey expenses incurred before the deregistration or before the day referred to in subsection (2), as the case may be, shall be applied against any maximum amount set out in section 350 and, if the maximum amount is exceeded, the party shall not incur any additional partisan activity expenses, election advertising expenses or election survey expenses.
+> 2000, c. 9, s. 503; 2003, c. 19, s. 59; 2014, c. 12, s. 103; 2018, c. 31, s. 348.
 
 
 
@@ -14729,20 +16928,20 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **505** 
 
-- **(1)** If a third party that is a group commits an offence under section 496, the person who is responsible for the group or its financial agent commits the offence if the person or financial agent authorized, consented to or participated in the act or omission that constitutes the offence.
+- **(1)** If a third party that is a group commits an offence under paragraph 495(1)(a.2) or 495(5)(a.1) or section 495.21, 495.3, 496 or 496.1, the person who is responsible for the group or its financial agent commits the offence if the person or financial agent authorized, consented to or participated in the act or omission that constitutes the offence.
 
 **Prosecution of third parties — vicarious liability**
 
-- **(2)** For the purpose of a prosecution brought against a third party under section 496, the third party is deemed to be a person and any act or omission of the person who signed an application made under subsection 353(2) in respect of the third party or, in the absence of an application, the person who would have signed it, or their financial agent, within the scope of that person’s or financial agent’s authority, is deemed to be an act or omission of the third party.
+- **(2)** For the purpose of a prosecution brought against a third party under paragraph 495(1)(a.2) or 495(5)(a.1) or section 495.21, 495.3, 496 or 496.1, the third party is deemed to be a person and any act or omission of the person who signed the application for registration in respect of the third party — or, in the absence of an application, the person who would have signed it — or the third party’s financial agent, within the scope of that person’s or financial agent’s authority, is deemed to be an act or omission of the third party.
 
-**Prosecution of third party — group or corporation ($50,000)**
+**Prosecution of third parties — groups or corporations ($50,000)**
 
-- **(3)** A third party that is a group or corporation and that commits an offence under paragraph 496(1)(c) is liable on conviction to a fine of not more than $50,000 instead of the punishment set out in subsection 500(1).
+- **(3)** If a third party that is a group or corporation commits an offence under paragraph 495.3(1)(d) or 496(1)(c), the third party is liable on conviction to a fine of not more than $50,000 instead of the punishment set out in subsection 500(1).
 
-**Prosecution of third party — group or corporation ($100,000)**
+**Prosecution of third parties — groups or corporations ($100,000)**
 
-- **(4)** A third party that is a group or corporation and that commits an offence under paragraph 496(2)(b) is liable on conviction to a fine of not more than $100,000 instead of the punishment set out in subsection 500(5).
-> 2000, c. 9, s. 505; 2014, c. 12, s. 104.
+- **(4)** If a third party that is a group or corporation commits an offence under paragraph 495.3(2)(e) or 496(2)(e), the third party is liable on conviction to a fine of not more than $100,000 instead of the punishment set out in subsection 500(5).
+> 2000, c. 9, s. 505; 2014, c. 12, s. 104; 2018, c. 31, s. 349.
 
 
 
@@ -14829,6 +17028,98 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
+### Violations
+
+
+
+**Violation**
+
+**508.1** Every person or entity that contravenes section 281.3, 281.4 or 281.5 or a provision of any of Parts 16, 17 and 18 – or that fails to comply with a requirement of the Chief Electoral Officer under any of those Parts, with a provision of a compliance agreement or with a provision of an undertaking that has been accepted by the Commissioner — commits a violation and is liable to an administrative monetary penalty in an amount established in accordance with the provisions of this Act.
+> 2018, c. 31, s. 350.
+
+
+
+
+
+**Continuing violation**
+
+**508.2** A violation that is committed or continued on more than one day constitutes a separate violation in respect of each day on which it is committed or continued.
+> 2018, c. 31, s. 350.
+
+
+
+
+
+**How act or omission may be proceeded with**
+
+**508.3** If an act or omission may be proceeded with as a violation or as an offence under this Act, proceeding in one manner precludes proceeding in the other.
+> 2018, c. 31, s. 350.
+
+
+
+
+
+### Administrative Monetary Penalties
+
+
+
+**Purpose of penalty**
+
+**508.4** The purpose of an administrative monetary penalty is to promote compliance with this Act, and not to punish.
+> 2018, c. 31, s. 350.
+
+
+
+
+
+**Maximum amount of penalty**
+
+**508.5** 
+
+- **(1)** Subject to subsection (2), the maximum administrative monetary penalty for a violation is $1,500, in the case of an individual, and $5,000, in the case of a corporation or an entity.
+
+**Maximum — sections 363 and 367**
+
+- **(2)** The maximum administrative monetary penalty for a violation arising from the contravention of section 363 or 367 is an amount equal to twice the amount that was contributed in contravention of that section, plus
+	- **(a)** $1,500, in the case of an individual who contravenes section 363 or 367; and
+	- **(b)** $5,000, in the case of a corporation or an entity that contravenes section 363.
+> 2018, c. 31, s. 350.
+
+
+
+
+
+**Criteria for penalty**
+
+**508.6** 
+
+- **(1)** The amount of an administrative monetary penalty is to be determined taking into account
+	- **(a)** the degree of intention or negligence on the part of the person or entity that committed the violation;
+	- **(b)** the harm done by the violation;
+	- **(c)** whether the person or entity derived any advantage from the violation;
+	- **(d)** whether the person or entity made reasonable efforts to mitigate or reverse the violation’s effects;
+	- **(e)** whether the person or entity has taken steps to avoid committing the violation in the future;
+	- **(f)** whether the person or entity has provided all reasonable assistance to the Commissioner with respect to the violation, including reporting it and providing any relevant information;
+	- **(g)** the person’s or entity’s history of compliance with the provisions of this Act;
+	- **(h)** the person’s or entity’s ability to pay the penalty;
+	- **(i)** any aggravating and mitigating circumstances; and
+	- **(j)** any other factor that, in the opinion of the Commissioner, is relevant.
+
+**Notice**
+
+- **(2)** The Commissioner may take into account a factor under paragraph (1)(j) only if a notice that sets out the factor has been published on his or her Internet site.
+
+**Consultations**
+
+- **(3)** Before publishing the notice, the Commissioner shall consult with the Chief Electoral Officer and then
+	- **(a)** consult with the Advisory Committee of Political Parties established by subsection 21.1(1); and
+	- **(b)** publish on his or her Internet site, for the purpose of public consultation, a notice that sets out the proposed factor for at least 30 days.
+> 2018, c. 31, s. 350.
+
+
+
+
+
 ### Commissioner of Canada Elections
 
 
@@ -14885,8 +17176,8 @@ The contestant shall notify the Chief Electoral Officer that the application has
 - **(a)** conducting investigations;
 - **(b)** instituting prosecutions for offences under this Act;
 - **(c)** entering into compliance agreements;
-- **(d)** [Not in force]
-- **(e)** [Not in force]
+- **(d)** issuing notices of violation that set out an administrative monetary penalty; or
+- **(e)** accepting undertakings.
 > 2014, c. 12, ss. 108, 157; 2018, c. 31, s. 352.
 
 
@@ -14911,6 +17202,15 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Power to take measures**
 
 **509.22** The Commissioner, if he or she considers it to be in the public interest, may take any measures, including incurring any expenses, when exercising or performing any of his or her powers, duties and functions under this Part.
+> 2018, c. 31, s. 352.
+
+
+
+
+
+**Delegation**
+
+**509.23** The Commissioner may delegate to any member of his or her staff, subject to any restrictions or limitations that he or she may specify, any of his or her powers, duties or functions that relate to the issuance of notices of violation or the acceptance of undertakings under this Part.
 > 2018, c. 31, s. 352.
 
 
@@ -14987,6 +17287,15 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(3)** For the purposes of Part XV of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), any person who is charged by the Commissioner with duties relating to the administration or enforcement of this Act is deemed to be a public officer.
 > 2000, c. 9, s. 510; 2014, c. 12, s. 108; 2018, c. 31, s. 356.
+
+
+
+
+
+**Election expenses return — supporting documents**
+
+**510.001** In the course of conducting an investigation under section 510 in response to a complaint, the Commissioner may require the chief agent of a registered party to provide by a specified date documents evidencing any expense set out in the party’s election expenses return, including bank statements, deposit slips and cancelled cheques.
+> 2018, c. 31, s. 357.
 
 
 
@@ -15135,9 +17444,12 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(a)** with the consent of the person in question, the name of any of the following: the complainant, if any, the person whose conduct is being investigated and any witness;
 	- **(b)** information that, in the Commissioner’s opinion, is necessary to carry out an investigation;
 	- **(c)** when a prosecution has been instituted under subsection 511(1), information that the Director of Public Prosecutions requires;
+	- **(c.1)** when a review by the Chief Electoral Officer is requested under section 521.14, information that the Chief Elector Officer requires;
 	- **(d)** information that is required to be disclosed in the course of a prosecution for an offence under this Act;
+	- **(d.1)** information that is required to be disclosed in the course of an application for judicial review in respect of a decision taken under this Act;
 	- **(e)** information that is required to be disclosed under any other Act of Parliament;
-	- **(f)** information that, in the Commissioner’s opinion, is necessary in order to enter into or renegotiate a compliance agreement; and
+	- **(f)** information that, in the Commissioner’s opinion, is necessary in order to enter into or renegotiate a compliance agreement;
+	- **(f.1)** information that, in the Commissioner’s opinion, is necessary in order for a person or entity to provide an undertaking; and
 	- **(g)** information whose disclosure is, in the Commissioner’s opinion, in the public interest.
 
 **Public interest**
@@ -15326,7 +17638,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **519** 
 
 - **(1)** If the Commissioner is of the opinion that a contracting party has not complied with a provision of a compliance agreement, the Commissioner shall cause a notice of default to be served on the contracting party, informing it that, as the case may be,
-	- **(a)** [Not in force]
+	- **(a)** a notice of violation may be served on the contracting party as a result of the failure to comply with the provision of the compliance agreement;
 	- **(b)** a prosecution may be instituted against the contracting party in respect of any act or omission that led to the agreement; or
 	- **(c)** if a prosecution in respect of any act or omission that led to the agreement was suspended by virtue of subsection 517(8), it may be resumed.
 
@@ -15404,15 +17716,353 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
+### Proceedings in Respect of a Violation
+
+
+
+#### Notice of Violation
+
+
+
+**Issuance of notice of violation**
+
+**521.11** 
+
+- **(1)** If the Commissioner believes on reasonable grounds that a person or entity has committed a violation, the Commissioner may issue, and shall cause to be served on the person or entity, a notice of violation that
+	- **(a)** sets out the person or entity’s name;
+	- **(b)** identifies the provision of this Act that was contravened or the requirement, or the provision of the compliance agreement or undertaking, that was not complied with;
+	- **(c)** identifies the act or omission to which the violation relates;
+	- **(d)** sets out the amount of the administrative monetary penalty for the violation;
+	- **(e)** sets out the particulars concerning the manner of payment;
+	- **(f)** informs the person or entity of their right to request a review by the Chief Electoral Officer or the Commissioner, as the case may be, of the alleged violation or proposed penalty, and sets out the manner for doing so;
+	- **(g)** informs the person or entity that if they provide an undertaking that is accepted by the Commissioner, the proceedings commenced by the notice will be ended; and
+	- **(h)** informs the person or entity of the consequences of failing to pay the penalty, request a review or provide the Commissioner with an undertaking.
+
+**Approval of manner of requesting review**
+
+- **(2)** The manner for requesting a review by the Chief Electoral Officer that is set out in the notice of violation requires the Chief Electoral Officer’s prior approval.
+
+**Correction or cancellation of notice of violation**
+
+- **(3)** At any time before a request for a review in respect of the notice of violation is received by the Chief Electoral Officer or the Commissioner, as the case may be, the Commissioner may cancel the notice of violation or correct an error in it.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Limitation period or prescription**
+
+**521.12** 
+
+- **(1)** No notice of violation may be issued after the expiry of five years after the day on which the Commissioner becomes aware of the act or omission to which the alleged violation relates nor, in any case, later than 10 years after the day on which the act or omission occurred.
+
+**Certification by Commissioner**
+
+- **(2)** A document purporting to have been issued by the Commissioner, certifying the day on which the Commissioner became aware of the act or omission that constitutes the alleged violation, is admissible in evidence without proof of the signature or official character of the individual appearing to have signed it and, in the absence of evidence to the contrary, is proof that the Commissioner became aware of the act or omission on that day.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+#### Undertakings
+
+
+
+**Provision of undertaking**
+
+**521.13** 
+
+- **(1)** If a person or entity has committed a violation, they may provide the Commissioner with an undertaking in writing that is aimed at ensuring compliance with this Act.
+
+**When undertaking may be provided**
+
+- **(2)** If a notice of violation has been served on a person or entity, an undertaking in relation to an act or omission to which the notice relates may be provided at any time before the person or entity is deemed to have committed the violation to which the notice relates.
+
+**Contents**
+
+- **(3)** The Commissioner may accept the undertaking only if the undertaking
+	- **(a)** identifies, as the case may be,
+		- **(i)** the provision of this Act that was contravened,
+		- **(ii)** the requirement of the Chief Electoral Officer that was not complied with, or
+		- **(iii)** if the undertaking relates to the failure to comply with a provision of a compliance agreement or another undertaking, the provision of the compliance agreement or other undertaking that was not complied with;
+	- **(b)** identifies the act or omission to which the contravention or the failure to comply relates; and
+	- **(c)** contains the terms and conditions that the Commissioner considers appropriate, including a requirement that the person or entity pay an amount that is specified in the undertaking in the time and manner set out in the undertaking.
+
+**Obligation of Commissioner**
+
+- **(4)** Before accepting the person’s or entity’s undertaking, the Commissioner shall inform them of the Commissioner’s obligation to publish a notice under subsection 521.34(2).
+> 2018, c. 31, s. 365.
+
+
+
+
+
+#### Review
+
+
+
+**Request for review**
+
+**521.14** Instead of paying the amount of the administrative monetary penalty set out in the notice of violation, the person or entity named in the notice of violation may, within 30 days after the day on which the notice of violation is served — or within 30 days after the day on which they are served with a notice informing them that their undertaking has not been accepted — and in the manner specified in the notice of violation
+- **(a)** request a review by the Commissioner with respect to the alleged violation or the penalty, or both, if the amount of the penalty is
+	- **(i)** $500 or less, in the case of a notice of violation that was issued to an individual, or
+	- **(ii)** $1500 or less, in the case of a notice of violation that was issued to a corporation or an entity; or
+- **(b)** request a review by the Chief Electoral Officer with respect to the alleged violation or the penalty, or both, if the amount of the penalty is
+	- **(i)** more than $500, in the case of a notice of violation that was issued to an individual, or
+	- **(ii)** more than $1500, in the case of a notice of violation that was issued to a corporation or an entity.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Decision**
+
+**521.15** 
+
+- **(1)** If a review is requested under section 521.14, the Chief Electoral Officer or the Commissioner, as the case may be, shall do one or more of the following:
+	- **(a)** determine, on a balance of probabilities, whether the person or entity committed the violation;
+	- **(b)** confirm or reduce the amount of the administrative monetary penalty; or
+	- **(c)** determine that there should be no administrative monetary penalty in respect of the violation.
+
+**Written evidence and submissions**
+
+- **(2)** The Chief Electoral Officer or the Commissioner, as the case may be, is to consider only written evidence and written submissions when making a decision under subsection (1).
+
+**Service of decision**
+
+- **(3)** The Chief Electoral Officer or the Commissioner, as the case may be, shall cause a copy of any decision made under subsection (1) to be served on the person or entity that requested the review. The Chief Electoral Officer shall also cause a copy of any decision he or she makes under subsection (1) to be given to the Commissioner.
+
+**Violation not committed — effect**
+
+- **(4)** If the Chief Electoral Officer or the Commissioner, as the case may be, determines under subsection (1) that the person or entity that requested the review did not commit the violation, the proceedings commenced in respect of it are ended.
+
+**Liability to pay**
+
+- **(5)** The person or entity that requested the review is liable to pay, within 30 days after the day on which they were served with the copy of the decision and in the manner specified in the notice of violation,
+	- **(a)** the amount of the administrative monetary penalty set out in the notice of violation that is confirmed in the decision; or
+	- **(b)** the reduced amount of the administrative monetary penalty set out in the decision.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+#### Consequences
+
+
+
+**Payment of penalty — notice of violation**
+
+**521.16** 
+
+- **(1)** If, within 30 days after the day on which they were served with a notice of violation, the person or entity named in the notice pays, in the manner specified in the notice, the amount of the administrative monetary penalty set out in the notice,
+	- **(a)** they are deemed to have committed the violation in respect of which the amount is paid;
+	- **(b)** the Commissioner shall accept that amount as complete satisfaction of the penalty in respect of the violation; and
+	- **(c)** the proceedings commenced in respect of the violation are ended.
+
+**Payment of penalty — review decision**
+
+- **(2)** If, within 30 days after the day on which they were served with the copy of a decision under subsection 521.15(3), the person or entity pays, in the manner specified in the notice of violation to which the decision relates, the amount of the administrative monetary penalty for which they are liable under subsection 521.15(5),
+	- **(a)** they are deemed to have committed the violation in respect of which the amount is paid;
+	- **(b)** the Commissioner shall accept that amount as complete satisfaction of the penalty in respect of the violation; and
+	- **(c)** the proceedings commenced in respect of the violation are ended.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Undertaking accepted before service of notice of violation**
+
+**521.17** 
+
+- **(1)** If the Commissioner accepts the person’s or entity’s undertaking without a notice of violation having been served on them in connection with an act or omission referred to in the undertaking, no notice of violation may be served on them in connection with an act or omission referred to in the undertaking.
+
+**Undertaking accepted after service of notice of violation**
+
+- **(2)** If the Commissioner accepts the person or entity’s undertaking after a notice of violation has been served on them in connection with an act or omission referred to in the undertaking, the proceeding that was commenced by the notice of violation, including any review requested under section 521.14, is ended.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**No action after notice of violation served**
+
+**521.18** If the person or entity named in the notice of violation fails to do one of the following within 30 days after the day on which the notice is served on them, they are deemed to have committed the violation set out in the notice:
+- **(a)** pay the administrative monetary penalty set out in the notice in the manner specified in the notice;
+- **(b)** exercise their right to request a review in the manner specified in the notice; or
+- **(c)** provide the Commissioner with an undertaking.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**No action taken after undertaking not accepted**
+
+**521.19** If the person or entity named in the notice informing them that their undertaking has not been accepted fails to do one of the following within 30 days after the day on which the notice is served on them, they are deemed to have committed the violation set out in the notice:
+- **(a)** pay the administrative monetary penalty set out in the notice in the manner specified in the notice; or
+- **(b)** exercise their right to request a review in the manner specified in the notice.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Failure to pay after review decision**
+
+**521.2** If the person or entity does not pay the amount referred to in paragraph 521.15(5)(a) or (b) in the manner specified in the notice of violation to which the decision relates within 30 days after the day on which they are served with the copy of the decision under subsection 521.15(3), they are deemed to have committed the violation identified in the notice of violation.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+#### Miscellaneous
+
+
+
+**Service — Chief Electoral Officer**
+
+**521.21** 
+
+- **(1)** Service of a copy of a decision of the Chief Electoral Officer must be made in the manner set out on the Chief Electoral Officer’s Internet site.
+
+**Service — Commissioner**
+
+- **(2)** Service of the following documents must be made in the manner set out on the Commissioner’s Internet site:
+	- **(a)** a notice of violation;
+	- **(b)** a copy of the Commissioner’s decision under section 521.15; and
+	- **(c)** a notice informing a person or entity that their undertaking has not been accepted by the Commissioner.
+
+**Day of service**
+
+- **(3)** The day of service of a document referred to in subsection (1) or (2) is
+	- **(a)** if it is left with an individual, the day on which it is left with them;
+	- **(b)** if it is sent by registered mail, the 10th day after the date indicated in the receipt issued by a post office;
+	- **(c)** if it is sent by courier, the 10th day after the date indicated in the courier’s receipt issued to the sender; and
+	- **(d)** if it is sent by electronic means, the day on which it is sent.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Request for review**
+
+**521.22** 
+
+- **(1)** A person or entity that is served with a notice of violation may make a request for a review referred to in the notice by delivering the request by hand or by sending it by registered mail, courier or electronic means to a person and place specified in the notice.
+
+**Day of request**
+
+- **(2)** If a person or entity makes the request, the day on which it is made is
+	- **(a)** if it is delivered by hand, the day on which the request is delivered to the authorized recipient;
+	- **(b)** if it is sent by registered mail or courier, the earlier of the day on which it is received by the authorized recipient and the day indicated in the receipt given to the sender by a post office or courier; and
+	- **(c)** if it is sent by electronic means, the day on which it is sent.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Due diligence defence available**
+
+**521.23** The Chief Electoral Officer and the Commissioner are not to determine that a person or entity has committed a violation if the person or entity establishes that they exercised due diligence to prevent its commission.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Common law principles**
+
+**521.24** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for any offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Deregistered parties**
+
+**521.25** 
+
+- **(1)** A political party that is deregistered during a pre-election period does not commit a violation arising from the contravention of any of subsections 349.1(1) to (3) or 349.2 if, before the deregistration, its partisan activity expenses, partisan advertising expenses and election survey expenses exceeded any maximum amount set out in any of subsections 349.1(1) to (3), as the case may be.
+
+**Deregistered parties**
+
+- **(2)** A political party that is deregistered during an election period does not commit a violation arising from the contravention of any of subsections 350(1) to (4) or section 351 if, before the deregistration, its partisan activity expenses, election advertising expenses and election survey expenses exceeded any maximum amount set out in any of subsections 350(1) to (4), as the case may be.
+
+**Eligible party**
+
+- **(3)** An eligible party that does not become a registered party during the election period of a general election does not commit a violation arising from the contravention of any of subsections 350(1) to (4) or section 351 if its partisan activity expenses, election advertising expenses and election survey expenses, as of the day that it is informed under subsection 390(4) that it has not been registered, exceed any maximum amount set out in any of subsections 350(1) to (4), as the case may be.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Evidence**
+
+**521.26** In any proceeding in respect of a violation, a notice of violation or a copy of the decision purporting to be served under this Part is admissible in evidence without proof of the signature or official character of the individual purporting to have signed it.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Violation by officers, etc.**
+
+**521.27** If an entity commits a violation, any of the entity’s directors, officers or agents or mandataries who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to and liable for the violation whether or not the entity that actually committed the violation is proceeded against under this Act.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Third parties — groups**
+
+**521.28** If an entity that is a third party that is a group commits a violation, the person who is responsible for the group or its financial agent commits the violation if the person or financial agent authorized, consented to or participated in the act or omission that constitutes the violation.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Employees or agents or mandataries**
+
+**521.29** A person or entity is liable for a violation that is committed by an employee or agent or mandatary of the person or entity acting in the course of the employee’s employment or the scope of the agent’s or mandatary’s authority, whether or not the employee or agent or mandatary who actually committed the violation is identified or proceeded against under this Act.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Personal capacity**
+
+**521.3** An administrative monetary penalty imposed on an individual under this Part is deemed to be imposed on them in their personal capacity regardless of the capacity in which they acted when they committed the violation.
+> 2018, c. 31, s. 365.
+
+
+
+
+
 **Debts to Her Majesty**
 
 **521.31** 
 
 - **(1)** The following amounts constitute debts due to Her Majesty in right of Canada that may be recovered in the Federal Court:
 	- **(a)** if a person or entity has entered into a compliance agreement with the Commissioner under the terms of which the person or entity is to pay an amount to the Receiver General, any portion of that amount that remains unpaid after the expiry of the time set out in the agreement to pay that amount;
-	- **(b)** [Not in force]
-	- **(c)** [Not in force]
-	- **(d)** [Not in force]
+	- **(b)** if a person or entity that is served with a notice of violation does not exercise any of their rights referred to in section 521.14 within the time and in the manner set out in the notice, the amount of the administrative monetary penalty set out in the notice of violation that remains unpaid after the expiry of the time set out in the notice to pay the amount;
+	- **(c)** if a person or entity that is served with a notice of violation exercises any of their rights referred to in section 521.14 within the time and in the manner set out in the notice, the following amount that remains unpaid after the expiry of 30 days after the day on which they were served with the copy of the Chief Electoral Officer’s or the Commissioner’s decision:
+		- **(i)** the amount of the administrative monetary penalty set out in the notice of violation that is confirmed in the decision, or
+		- **(ii)** the reduced amount of the administrative monetary penalty that is set out in the decision; and
+	- **(d)** if a person or entity has provided an undertaking that is accepted by the Commissioner in which an amount is to be paid to the Receiver General, any portion of that amount that remains unpaid after the expiry of the time set out in the undertaking to pay that amount.
 
 **Limitation period or prescription**
 
@@ -15436,6 +18086,30 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Judgment**
 
 - **(2)** A certificate made under subsection (1) that is registered in Federal Court has the same force and effect as if it were a judgment obtained in that Court for a debt of the amount specified in it and all reasonable costs and charges associated with the registration of the certificate and all proceedings may be taken in respect of the certificate.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Remittance to Receiver General**
+
+**521.33** The amount of an administrative monetary penalty shall be paid to the Commissioner, who shall forward that amount to the Receiver General.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Publication — notice of violation**
+
+**521.34** 
+
+- **(1)** The Commissioner shall publish, in the manner and form that he or she considers appropriate, a notice that sets out the name of the person or entity that is deemed to have committed a violation, identifies the act or omission or the failure to comply to which the violation relates and sets out the amount of the administrative monetary penalty.
+
+**Publication — accepted undertaking**
+
+- **(2)** The Commissioner shall publish, in the manner and form that he or she considers appropriate, a notice that sets out the name of the person or entity that provided an undertaking accepted by the Commissioner, along with the text of the undertaking other than the signature of the individuals who signed it.
 > 2018, c. 31, s. 365.
 
 
@@ -15856,6 +18530,15 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
+**Statements of electors who exercise their right to vote**
+
+**541.1** The Chief Electoral Officer shall, within 180 days after the return of the writ, make available in electronic form, or in formats that include electronic form, to each candidate and to each registered party that endorsed a candidate in an electoral district a statement, prepared using documents prepared under paragraph 162(i.1), of electors who exercised their right to vote in the electoral district on polling day who can be identified using those documents.
+> 2018, c. 31, s. 371.
+
+
+
+
+
 ### Fees and Expenses of Election Officers
 
 
@@ -15956,27 +18639,54 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
-### Oaths and Affidavits
+### Solemn Declarations and Affidavits
 
 
 
-**Administration of oaths, etc.**
+**Administration of solemn declarations and affidavits**
 
 **549** 
 
-- **(1)** When an oath or affidavit is authorized or directed to be taken under this Act, it shall be administered by the person who by this Act is expressly required to administer it and, if there is no such person, then by the Chief Electoral Officer or a person designated by him or her in writing, a judge, the returning officer, an assistant returning officer, a deputy returning officer, a poll clerk, a notary public, a provincial court judge, a justice of the peace or a commissioner for taking affidavits in the province.
+- **(1)** Solemn declarations and affidavits referred to in this Act are to be received by the person who by this Act is expressly required to receive them and, if there is no such person, then by the Chief Electoral Officer or a person designated by him or her in writing, a judge, an election officer, a unit election officer as defined in section 177, a notary public, a provincial court judge, a justice of the peace or a commissioner for taking oaths in the province.
 
-**No fees for oaths, etc.**
+**No fees for solemn declaration or affidavit**
 
-- **(2)** All oaths or affidavits taken under this Act shall be administered free of charge.
+- **(2)** All solemn declarations and affidavits received under this Act are to be received free of charge.
 
-**Taking oath falsely**
+**Making false declaration in solemn declaration or affidavit**
 
-- **(3)** No person shall take falsely an oath that is provided for by this Act.
+- **(3)** No person shall make a false declaration in a solemn declaration or affidavit that is provided for by this Act.
 
-**Compelling or inducing false oath**
+**Compelling or inducing false declaration**
 
-- **(4)** No person shall compel, induce or attempt to compel or induce any other person to take falsely an oath that is provided for by this Act.
+- **(4)** No person shall compel, induce or attempt to compel or induce any other person to make a false declaration in a solemn declaration or affidavit that is provided for by this Act.
+> 2000, c. 9, s. 549; 2018, c. 31, s. 372.
+
+
+
+
+
+**Solemn declaration — voting**
+
+**549.1** 
+
+- **(1)** For the purposes of subsections 143(3) and (3.2), sections 144 and 147 and paragraphs 161(1)(b) and 169(2)(b), the solemn declaration by which an elector proves his or her identity and residence, proves his or her residence only, proves that he or she is qualified as an elector or proves that he or she has not previously voted at the election shall be in the prescribed form, which shall include the statements that
+	- **(a)** the elector resides at the address at which he or she claims to reside;
+	- **(b)** the elector is 18 years of age or older or will be 18 years of age or older on polling day;
+	- **(c)** the elector is a Canadian citizen; and
+	- **(d)** the elector has not previously voted in the election and is not an elector to whom section 235 applies.
+
+**Solemn declaration — vouching for another elector**
+
+- **(2)** For the purposes of paragraph 143(3)(b) and subparagraphs 161(1)(b)(ii) and 169(2)(b)(ii), the solemn declaration by which an elector vouches for another elector shall be in the prescribed form, which shall include the statements that
+	- **(a)** the other elector resides in a polling division assigned to the polling station;
+	- **(b)** to the best of the elector’s knowledge, the other elector has not previously voted at the election;
+	- **(c)** the elector knows the other elector;
+	- **(d)** the elector is a Canadian citizen when the other elector votes;
+	- **(e)** except in a case referred to in subsection 143(3.01), 161(2) or 169(2.01), the elector has not previously vouched for any other elector at the election; and
+	- **(f)** the elector has not been vouched for by another elector at the election.
+> 2018, c. 31, s. 372.
+
 
 
 
@@ -16053,7 +18763,22 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
-**555** [Repealed, 2014, c. 12, s. 125]
+
+### Judicial Review
+
+
+
+**When respondent is Chief Electoral Officer**
+
+**555** 
+
+- **(1)** If an application is made for judicial review of a decision of the Chief Electoral Officer, or of any person to whom the Chief Electoral Officer has delegated any of his or her powers, duties and functions, the Chief Electoral Officer is the respondent in respect of the application.
+
+**When respondent is Commissioner**
+
+- **(2)** If an application is made for judicial review of a decision of the Commissioner, the Commissioner is the respondent in respect of the application.
+> 2000, c. 9, s. 555; 2014, c. 12, s. 125; 2018, c. 31, s. 374.
+
 
 
 
@@ -16083,7 +18808,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 ### **SCHEDULE 1** 
-### FORM 1
+### **FORM 1** 
 **(Section 58)**
 ## Writ of Election
 
@@ -16125,7 +18850,7 @@ AND YOU DO CAUSE the name of that member when so elected, whether present or abs
 **Witness:**____________, Deputy of Our Right Trusty and Well-beloved ____________, Chancellor and Principal Companion of Our Order of Canada, Chancellor and Commander of Our Order of Military Merit, GOVERNOR GENERAL AND COMMANDER-IN-CHIEF OF CANADA.
 
 
-At Our City of Ottawa, on ____________ and in the ____________ year of Our Reign.
+At Our City of ____________ , on ____________ and in the ____________ year of Our Reign.
 
 
 BY COMMAND,
@@ -16134,14 +18859,14 @@ BY COMMAND,
 Chief Electoral Officer
 
 
-### FORM 2
+### **FORM 2** 
 **(Section 62)**
 
 > Image: Notice of Election form
 
 
 
-### FORM 3
+### **FORM 3** 
 **(Subsections 116(1) and 138(1))**
 ## Form of Ballot Paper
 ## Front
@@ -16150,7 +18875,7 @@ Chief Electoral Officer
 
 
 
-### FORM 3** – ** *Concluded*
+### **FORM 3 – ** *Concluded*
 ## Form of Ballot Paper
 ## Back
 
@@ -16158,14 +18883,15 @@ Chief Electoral Officer
 
 
 
-### FORM 4
+### **FORM 4** 
 **(Section 186)**
 ## Form of Special Ballot Paper
-## Front of ballot paper
 
-> Image: Front and back views of form of special ballot paper
+> Image: Form of special ballot paper
 
 
+
+> 2000, c. 9, Sch. 1; 2018, c. 31, s. 375.
 
 
 
@@ -16895,7 +19621,7 @@ Nunavut
 
 
 
-**(d)** the judge shall, in the Recount Ballot Box Report, indicate in writing the determination with respect to each disputed ballot, complete the judge’s disposition portion of the report and initial in it the number of votes allocated to each candidate;
+**(d)** the judge shall, in the Recount Ballot Box Report, indicate in writing the determination with respect to each disputed ballot and complete the judge’s disposition portion of the report;
 
 
 
@@ -16907,7 +19633,7 @@ Nunavut
 
 
 
-**(g)** the Recount Ballot Box Report, with the judge’s disposition noted on it, and the original statement of the vote shall be given to the person responsible for the preparation of the Master Recount Report.
+**(g)** the judge shall sign the Recount Ballot Box Report, which shall be given, with the judge’s disposition noted on it, to the person responsible for the preparation of the Master Recount Report along with the original statement of the vote.
 
 
 
@@ -16942,6 +19668,6 @@ Nunavut
 **24** Any matter not dealt with in these procedures, and any question arising as to the application of these procedures, is to be determined by the judge, including whether persons referred to in section 1 are permitted to communicate with the media.
 
 
-> 2014, c. 12, s. 126.
+> 2014, c. 12, s. 126; 2018, c. 31, s. 377.
 
 
