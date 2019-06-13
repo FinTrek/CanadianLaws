@@ -50,7 +50,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***agent principal*** Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 385(2)h) ou remplaçant de celle-ci nommé au titre du paragraphe 400(1). (*chief agent*)
 
 ***annulé*** S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 :
-- **a)** le bulletin de vote qui n’a pas été déposé dans l’urne mais que le scrutateur a trouvé sali ou imprimé incorrectement;
+- **a)** le bulletin de vote qui n’a pas été déposé dans l’urne mais qu’un fonctionnaire électoral ou qu’un fonctionnaire électoral d’unité, au sens de l’article 177, a trouvé sali ou imprimé incorrectement;
 - **b)** le bulletin de vote annulé dans le cadre des paragraphes 152(1), 171(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation —, 213(4), 242(1) ou 258(3). (*spoiled*)
 
 ***appartenance politique*** S’agissant d’un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant(e) », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1)a)(v). (*political affiliation*)
@@ -61,7 +61,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***association enregistrée*** Association de circonscription inscrite dans le registre des associations de circonscription visé à l’article 455. (*registered association*)
 
-***bien immobilisé*** Bien d’une valeur commerciale supérieure à 200 $ normalement utilisé en dehors d’une période électorale à des fins autres qu’électorales. (*capital asset*)
+***bien immobilisé*** Bien d’une valeur commerciale supérieure à 200 $ qui :
+- **a)** dans le cas d’un parti enregistré, d’une association de circonscription ou d’un candidat, est normalement utilisé en dehors d’une période électorale autrement qu’aux fins d’une élection;
+- **b)** dans le cas d’un candidat à l’investiture, est normalement utilisé en dehors d’une course à l’investiture autrement qu’aux fins d’une telle course;
+- **c)** dans le cas d’un candidat à la direction, est normalement utilisé en dehors d’une course à la direction autrement qu’aux fins d’une telle course. (*capital asset*)
 
 ***bref*** Bref d’élection. (*writ*)
 
@@ -74,6 +77,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***candidat à la direction*** Personne inscrite dans le registre des candidats à la direction visé à l’article 478.4 relativement à une course à la direction, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé —, relativement à cette course, aux articles 478.8 à 478.97. (*leadership contestant*)
 
 ***candidat à l’investiture*** Personne visée à l’alinéa 476.1(1)c) dont le nom figure à titre de candidat à l’investiture dans le rapport déposé au titre du paragraphe 476.1(1) relativement à une course à l’investiture, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé —, relativement à cette course, aux articles 476.75 à 476.94. (*nomination contestant*)
+
+***candidat potentiel*** Personne qui se trouve dans l’une ou l’autre des situations ci-après, mais dont la candidature à une élection n’a pas été confirmée au titre du paragraphe 71(1) :
+- **a)** elle a obtenu l’investiture;
+- **b)** elle est réputée être un candidat en application de l’article 477;
+- **c)** elle est un député ou, si le Parlement est dissout, était un député la veille de la dissolution;
+- **d)** sa candidature a reçu l’appui d’un parti politique. (*potential candidate*)
 
 ***circonscription*** Division territoriale représentée par un député à la Chambre des communes. (*electoral district*)
 
@@ -97,24 +106,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***dépense de campagne d’investiture***[Abrogée, 2018, ch. 20, art. 1]
 
+***dépenses de publicité électorale*** Les dépenses engagées pour ce qui suit :
+- **a)** la production de messages de publicité électorale;
+- **b)** la diffusion de tels messages. (*election advertising expense*)
+
+***dépenses de publicité partisane*** Les dépenses engagées pour ce qui suit :
+- **a)** la production de messages de publicité partisane;
+- **b)** la diffusion de tels messages. (*partisan advertising expense*)
+
 ***dépouillement judiciaire*** S’entend du dépouillement effectué dans le cadre de la partie 14. (*recount*)
 
 ***député*** Membre de la Chambre des communes. (*member*)
 
 ***documents électoraux***
 - **a)** Le bref et le rapport figurant à l’endos;
-- **b)** les actes de candidature produits par les candidats;
+- **b)** les actes de candidature et autres documents déposés par les candidats ou en leur nom au titre de l’article 67;
 - **c)** les bulletins de vote en blanc non distribués;
 - **d)** les documents se rapportant à la révision des listes électorales;
 - **e)** les relevés du scrutin d’après lesquels s’est effectuée la validation des résultats;
-- **f)** les autres rapports des divers bureaux de scrutin placés sous enveloppes scellées, prévus à la partie 12, et contenant :
-	- **(i)** un paquet des bulletins de vote inutilisés et des souches,
-	- **(ii)** des paquets de bulletins de vote déposés en faveur des divers candidats,
-	- **(iii)** un paquet des bulletins de vote annulés,
-	- **(iv)** un paquet des bulletins de vote rejetés,
-	- **(v)** un paquet contenant la liste électorale utilisée au bureau de scrutin, les autorisations écrites des représentants des candidats et, le cas échéant, les certificats de transfert utilisés,
-	- **(vi)** un paquet contenant les certificats d’inscription;
-- **g)** les formulaires prescrits visés à l’article 162 ainsi que tout autre formulaire prescrit à utiliser au bureau de scrutin qui comportent des renseignements personnels concernant un électeur. (*election documents*)
+- **f)** les autres documents qui proviennent des divers bureaux de scrutin, des divers bureaux de vote par anticipation et du bureau du directeur du scrutin et qui sont transmis au directeur général des élections, notamment :
+	- **(i)** les bulletins de vote inutilisés et les souches,
+	- **(ii)** les bulletins de vote déposés en faveur des divers candidats,
+	- **(iii)** les bulletins de vote annulés,
+	- **(iv)** les bulletins de vote rejetés,
+	- **(v)** la liste électorale utilisée au bureau de scrutin, au bureau de vote par anticipation ou au bureau du directeur du scrutin,
+	- **(vi)** les autorisations écrites des représentants des candidats,
+	- **(vii)** les certificats de transfert utilisés, le cas échéant,
+	- **(viii)** les certificats d’inscription;
+- **g)** les formulaires prescrits visés à l’article 162 — autres que ceux visés à l’alinéa 162i.1) — ainsi que tout autre formulaire prescrit à utiliser au bureau de scrutin, au bureau de vote par anticipation ou au bureau du directeur du scrutin qui comportent des renseignements personnels concernant un électeur. (*election documents*)
 
 ***électeur*** Personne qui a qualité d’électeur en vertu de l’article 3. (*elector*)
 
@@ -122,7 +141,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***élection partielle*** Élection autre qu’une élection générale. (*by-election*)
 
-***fonctionnaire électoral*** Personne visée au paragraphe 22(1). (*election officer*)
+***fonctionnaire électoral*** Personne visée au paragraphe 22(1) ou nommée en vertu de l’article 32. (*election officer*)
 
 ***futur électeur*** Citoyen canadien âgé de quatorze ans ou plus, mais de moins de dix-huit ans. (*future elector*)
 
@@ -162,9 +181,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***période électorale*** La période commençant à la délivrance du bref et se terminant le jour du scrutin ou, le cas échéant, le jour où le bref est retiré dans le cadre du paragraphe 59(1) ou est réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md). (*election period*)
 
-***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou un serment. (*prescribed*)
+***période préélectorale*** Période commençant le 30 juin de l’année où a lieu le jour fixé conformément au paragraphe 56.1(2) pour la tenue d’une élection générale et se terminant le jour précédant le premier en date des jours suivants :
+- **a)** le premier jour de la période électorale d’une élection générale;
+- **b)** le trente-septième jour précédant le lundi visé au paragraphe 56.1(2) ou, dans le cas où le gouverneur en conseil prend un décret au titre du paragraphe 56.2(3), le trente-septième jour précédant le jour de rechange visé dans ce décret. (*pre-election period*)
+
+***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou une déclaration solennelle. (*prescribed*)
 
 ***publication périodique*** Journal, magazine ou autre périodique publié périodiquement ou par parties ou par numéros et contenant des nouvelles publiques, des renseignements ou des reportages d’événements, ou encore des annonces. (*periodical publication*)
+
+***publicité électorale*** Diffusion, sur un support quelconque et pendant une période électorale, d’un message publicitaire qui favorise ou contrecarre un parti enregistré ou l’élection d’un candidat, notamment par une prise de position sur une question à laquelle est associé un parti enregistré ou un candidat. Il est entendu que ne sont pas considérés comme de la publicité électorale :
+- **a)** la diffusion d’éditoriaux, de débats, de discours, de nouvelles, d’entrevues, de chroniques, de commentaires ou de lettres;
+- **b)** la promotion ou la distribution, pour une valeur non inférieure à sa valeur commerciale, d’un ouvrage dont la mise en vente avait été planifiée sans égard à la tenue de l’élection;
+- **c)** l’envoi d’un document par une personne ou un groupe directement à ses membres, actionnaires ou employés;
+- **d)** la diffusion par un individu, sur une base non commerciale, de ses opinions politiques sur Internet;
+- **e)** les appels téléphoniques destinés uniquement à inciter les électeurs à voter. (*election advertising*)
+
+***publicité partisane*** Diffusion, sur un support quelconque et pendant une période préélectorale, d’un message publicitaire qui favorise ou contrecarre un parti enregistré ou un parti admissible ou l’élection d’un candidat potentiel, d’un candidat à l’investiture ou d’un chef de parti enregistré ou de parti admissible autrement que par une prise de position sur une question à laquelle le parti ou la personne en cause est associé. Il est entendu que ne sont pas considérés comme de la publicité partisane :
+- **a)** la diffusion d’éditoriaux, de débats, de discours, de nouvelles, d’entrevues, de chroniques, de commentaires ou de lettres;
+- **b)** la promotion ou la distribution, pour une valeur non inférieure à sa valeur commerciale, d’un ouvrage dont la mise en vente avait été planifiée sans égard à la tenue d’une élection;
+- **c)** l’envoi d’un document par un sénateur ou un député aux frais du Sénat ou de la Chambre des communes;
+- **d)** l’envoi d’un document par une personne ou un groupe directement à ses membres, actionnaires ou employés;
+- **e)** la diffusion par un individu, sur une base non commerciale, de ses opinions politiques sur Internet;
+- **f)** les appels téléphoniques destinés uniquement à inciter les électeurs à voter. (*partisan advertising*)
 
 ***radiodiffuseur*** Titulaire d’une licence, attribuée par le Conseil de la radiodiffusion et des télécommunications canadiennes sous le régime de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), l’autorisant à exploiter une entreprise de programmation. (*broadcaster*)
 
@@ -182,6 +220,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***serment*** Sont assimilées à un serment l’affirmation solennelle et la déclaration solennelle. (*oath*)
 
+***sondage électoral*** Sondage mené pour évaluer si des personnes ont l’intention de voter, pour qui elles vont voter ou pour qui elles ont voté à une élection ou portant sur une question à laquelle un parti enregistré ou un candidat est associé. (*election survey*)
+
 ***travail bénévole*** Services fournis sans rémunération par une personne en dehors de ses heures normales de travail, à l’exclusion de ceux qui sont fournis par une personne travaillant à son compte et pour lesquels elle demande habituellement une rémunération. (*volunteer labour*)
 
 ***valeur commerciale*** En ce qui concerne la fourniture de biens ou de services ou l’usage de biens ou d’argent, le prix le plus bas exigé pour une même quantité de biens ou de services de la même nature ou pour le même usage de biens ou d’argent, au moment de leur fourniture, par :
@@ -192,7 +232,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Valeur commerciale des biens immobilisés**
 
-- **(1.1)** Pour l’application de la présente loi, la valeur commerciale d’un bien immobilisé utilisé pendant une période électorale correspond à la valeur commerciale de la location d’un bien de même nature pendant la période où le bien immobilisé est utilisé ou, si elle est inférieure, à la valeur commerciale d’un bien de même nature si celui-ci était acheté.
+- **(1.1)** Pour l’application de la présente loi, la valeur commerciale d’un bien immobilisé utilisé, selon le cas, pendant une période électorale ou pendant une course à l’investiture ou à la direction correspond à la valeur commerciale de la location d’un bien de même nature pendant la période où le bien immobilisé est utilisé ou, si elle est inférieure, à la valeur commerciale d’un bien de même nature si celui-ci était acheté.
 
 **Absence de valeur commerciale**
 
@@ -215,6 +255,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de jour du scrutin**
 
 - **(6)** Si le bref délivré pour une élection est retiré dans le cadre du paragraphe 59(1) ou est réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), ***jour du scrutin*** s’entend, aux parties 16.1 et 17 et aux sections 1, 2, 4 et 5 de la partie 18, du jour où le bref est retiré ou est réputé l’être.
+
+**Définitions de publicité électorale et publicité partisane**
+
+- **(7)** Pour l’application des définitions de publicité électorale et publicité partisane :
+	- **a)** favoriser ou contrecarrer un parti enregistré ou un parti admissible vise notamment les actes suivants :
+		- **(i)** le nommer,
+		- **(ii)** l’identifier notamment par son logo,
+		- **(iii)** fournir un lien vers une page Internet où il est nommé ou est identifié notamment par son logo;
+	- **b)** favoriser ou contrecarrer l’élection d’un candidat potentiel, d’un candidat à l’investiture, d’un candidat ou d’un chef de parti enregistré ou de parti admissible vise notamment les actes suivants :
+		- **(i)** nommer le candidat potentiel, le candidat à l’investiture, le candidat ou le chef de parti,
+		- **(ii)** montrer sa photographie, sa caricature ou un dessin le représentant,
+		- **(iii)** l’identifier, notamment par son logo ou par une mention de son appartenance politique,
+		- **(iv)** fournir un lien vers une page Internet où il est nommé ou est identifié, notamment par son logo ou par une mention de son appartenance politique, ou qui montre sa photographie, sa caricature ou un dessin le représentant.
 > 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1; 2014, ch. 12, art. 2 et 155; 2018, ch. 20, art. 1; 2018, ch. 31, art. 2; 2018, ch. 31, art. 399.
 
 
@@ -228,26 +281,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Personnes qui ont qualité d’électeur**
 
-**3** A qualité d’électeur toute personne qui, le jour du scrutin, est citoyen canadien et a atteint l’âge de dix-huit ans.
+**3** A qualité d’électeur toute personne qui est citoyen canadien et qui, le jour du scrutin, a atteint l’âge de dix-huit ans.
+> 2000, ch. 9, art. 3; 2018, ch. 31, art. 3.
 
 
 
 
-**Personnes inhabiles à voter**
-
-**4** Sont inhabiles à voter :
-- **a)** le directeur général des élections;
-- **b)** le directeur général adjoint des élections;
-- **c)** toute personne incarcérée dans un établissement correctionnel et y purgeant une peine de deux ans ou plus.
+**4** [Abrogé, 2018, ch. 31, art. 3]
 
 
 
-
-**Interdictions**
-
-**5** Il est interdit à quiconque :
-- **a)** de voter ou de tenter de voter à une élection, sachant qu’il n’a pas qualité d’électeur ou que l’article 4 le rend inhabile à voter;
-- **b)** d’inciter une autre personne à voter, sachant que celle-ci n’a pas qualité d’électeur ou que l’article 4 la rend inhabile à voter.
+**5** [Abrogé, 2018, ch. 31, art. 3]
 
 
 
@@ -258,10 +302,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Vote unique**
-
-**7** L’électeur qui a voté à une élection ne peut demander un autre bulletin de vote pour la même élection.
+**7** [Abrogé, 2018, ch. 31, art. 4
 
 
 
@@ -308,13 +349,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Députés et électeurs demeurant avec lui**
+**Anciens députés candidats et électeurs demeurant avec d’anciens députés candidats**
 
-**10** Chaque candidat à une élection générale qui, la veille de la dissolution du Parlement précédant l’élection, était un député ainsi que tout électeur qui demeurait avec lui à ce moment et qui a déménagé ou déménagerait avec lui pour continuer de demeurer avec lui ont le droit de faire inscrire leur nom sur la liste électorale établie pour l’un des endroits suivants et de voter au bureau de scrutin correspondant à cette liste :
-- **a)** le lieu de la résidence habituelle de l’ancien député;
-- **b)** le lieu de la circonscription où l’ancien député se porte candidat et où est situé, à l’élection, le lieu de sa résidence temporaire;
-- **c)** le bureau du directeur du scrutin de la circonscription où l’ancien député se porte candidat;
-- **d)** le lieu situé dans Ottawa ou dans la région avoisinante et où l’ancien député habite afin de s’acquitter de ses fonctions parlementaires.
+**10** 
+
+- **(1)** Chaque candidat à une élection générale qui, la veille de la dissolution du Parlement précédant l’élection, était un député ainsi que tout électeur qui demeurait avec lui à ce moment et qui a déménagé ou déménagerait avec lui pour continuer de demeurer avec lui ont le droit de faire inscrire leur nom sur la liste électorale établie pour la section de vote où se trouve l’un des endroits ci-après et de voter au bureau de scrutin auquel cette section de vote est rattachée :
+	- **a)** le lieu de la résidence habituelle de l’ancien député;
+	- **b)** [Abrogé, 2018, ch. 31, art. 6]
+	- **c)** le bureau du directeur du scrutin de la circonscription où l’ancien député se porte candidat.
+	- **d)** [Abrogé, 2018, ch. 31, art. 6]
+
+**Anciens députés candidats et électeurs demeurant avec d’anciens députés candidats — avis au directeur du scrutin**
+
+- **(2)** Tout candidat ou électeur visé au paragraphe (1) a le droit de faire inscrire son nom sur la liste électorale établie pour toute section de vote qui se trouve dans la circonscription où l’ancien député se porte candidat — ou dans la circonscription de la région de la capitale nationale où l’ancien député habite afin de s’acquitter de ses fonctions parlementaires — et de voter au bureau de scrutin auquel cette section de vote est rattachée, s’il avise le directeur du scrutin au moins deux jours avant le jour du scrutin de son intention de voter à ce bureau de scrutin.
+> 2000, ch. 9, art. 10; 2018, ch. 31, art. 6.
+
 
 
 
@@ -727,19 +776,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** les directeurs adjoints du scrutin nommés en vertu des paragraphes 26(1) et 28(5) et les directeurs adjoints du scrutin supplémentaires nommés en vertu du paragraphe 30(1);
 	- **c)** les personnes à qui le directeur du scrutin a délégué des attributions au titre de l’article 27;
 	- **c.1)** les personnes désignées au titre du paragraphe 28(3.1);
-	- **d)** les agents réviseurs nommés en vertu de l’alinéa 32a);
-	- **e)** les scrutateurs nommés en vertu des alinéas 32b) et c) et du paragraphe 273(1);
-	- **f)** les greffiers du scrutin nommés en vertu des alinéas 32b) et c) et du paragraphe 273(1);
-	- **g)** les agents d’inscription nommés en vertu de l’alinéa 32d);
-	- **g.1)** les personnes nommées en vertu de l’article 32.1;
-	- **h)** les préposés à l’information nommés en vertu de l’alinéa 124(1)a);
-	- **i)** les personnes responsables du maintien de l’ordre à un centre du scrutin nommées en vertu de l’alinéa 124(1)b);
-	- **j)** les superviseurs de centres de scrutin nommés en vertu du paragraphe 124(2);
-	- **k)** les personnes nommées en vertu du paragraphe 290(2) pour recueillir les urnes;
+	- **d)** [Abrogé, 2018, ch. 31, art. 20]
+	- **e)** [Abrogé, 2018, ch. 31, art. 20]
+	- **f)** [Abrogé, 2018, ch. 31, art. 20]
+	- **g)** [Abrogé, 2018, ch. 31, art. 20]
+	- **g.1)** [Abrogé, 2018, ch. 31, art. 20]
+	- **h)** [Abrogé, 2018, ch. 31, art. 20]
+	- **i)** [Abrogé, 2018, ch. 31, art. 20]
+	- **j)** [Abrogé, 2018, ch. 31, art. 20]
+	- **k)** [Abrogé, 2018, ch. 31, art. 20]
 	- **l)** l’administrateur des règles électorales spéciales nommé en vertu de l’article 181;
 	- **m)** les agents des bulletins de vote spéciaux nommés en vertu du paragraphe 183(1) ou de l’article 184;
-	- **n)** les agents de liaison des établissements correctionnels nommés en vertu du paragraphe 248(1);
-	- **o)** les scrutateurs et les greffiers du scrutin des établissements correctionnels nommés en vertu du paragraphe 253(1).
+	- **n)** les agents de liaison des établissements correctionnels nommés en vertu du paragraphe 248(1).
+	- **o)** [Abrogé, 2018, ch. 31, art. 20]
 
 **Personnes qui n’ont pas qualité de fonctionnaire électoral**
 
@@ -758,13 +807,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Qualité d’électeur des fonctionnaires électoraux**
 
-- **(4)** Les fonctionnaires électoraux doivent avoir qualité d’électeur et ceux visés aux alinéas (1)a), b), d) à g) et j) doivent résider dans la circonscription pour laquelle ils sont nommés.
+- **(4)** Les fonctionnaires électoraux doivent avoir qualité d’électeur et ceux visés aux alinéas (1)a.1) ou b) doivent résider dans la circonscription pour laquelle ils sont nommés ou dans une circonscription adjacente.
 
-**Exception**
+**Fonctionnaires électoraux âgés de moins de dix-huit ans**
 
-- **(5)** Pour une nomination qui relève de lui, le directeur du scrutin peut, s’il lui est impossible de nommer une personne répondant aux exigences prévues au paragraphe (4), nommer, avec l’agrément du directeur général des élections :
-	- **a)** un citoyen canadien âgé d’au moins seize ans qui réside dans la circonscription;
-	- **b)** une personne ayant qualité d’électeur mais ne résidant pas dans la circonscription.
+- **(5)** Malgré le paragraphe (4), les fonctionnaires électoraux nommés en vertu de l’article 32 peuvent être âgés de moins de dix-huit ans, mais doivent être âgés d’au moins seize ans.
 
 **Interdiction**
 
@@ -775,19 +822,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Serment**
+**Déclaration solennelle**
 
 **23** 
 
-- **(1)** Les fonctionnaires électoraux prêtent par écrit le serment prescrit, par lequel ils s’engagent à remplir impartialement leurs fonctions.
+- **(1)** Les fonctionnaires électoraux font par écrit une déclaration solennelle, selon le formulaire prescrit, par laquelle ils s’engagent à exercer impartialement leurs attributions.
 
 **Interdiction**
 
-- **(2)** Il est interdit aux fonctionnaires électoraux de communiquer des renseignements obtenus dans le cadre des fonctions qu’ils exercent en vertu de la présente loi à une autre fin qu’une fin liée à l’exercice de ces fonctions.
+- **(2)** Il est interdit aux fonctionnaires électoraux de communiquer des renseignements — ou d’utiliser des renseignements personnels — obtenus dans le cadre des attributions qu’ils exercent en vertu de la présente loi à une fin autre qu’une fin liée à l’exercice de ces attributions.
 
-**Transmission de certaines déclarations sous serment**
+**Transmission de déclarations solennelles**
 
-- **(3)** Le directeur du scrutin transmet sans délai au directeur général des élections sa déclaration sous serment et celle de son directeur adjoint.
+- **(3)** Le directeur du scrutin transmet sans délai au directeur général des élections sa déclaration solennelle et celle de son directeur adjoint.
+> 2000, ch. 9, art. 23; 2018, ch. 31, art. 21.
+
 
 
 
@@ -940,12 +989,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **26** 
 
-- **(1)** Dès sa nomination, le directeur du scrutin d’une circonscription nomme à titre amovible un directeur adjoint du scrutin et transmet sans délai le formulaire de nomination au directeur général des élections.
+- **(1)** Dès sa nomination, le directeur du scrutin d’une circonscription nomme à titre amovible un directeur adjoint du scrutin avec l’agrément préalable du directeur général des élections.
 
 **Restriction**
 
 - **(2)** Il ne peut nommer à titre de directeur adjoint son époux, son conjoint de fait, son enfant, sa mère, son père, son frère, sa soeur, un enfant de son époux ou de son conjoint de fait ou toute personne demeurant avec lui.
-> 2000, ch. 9, art. 26, ch. 12, art. 40.
+> 2000, ch. 9, art. 26, ch. 12, art. 40; 2018, ch. 31, art. 24.
 
 
 
@@ -955,12 +1004,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **27** 
 
-- **(1)** Le directeur du scrutin peut, avec l’agrément préalable du directeur général des élections, autoriser toute personne agissant sous son autorité à exercer les attributions que lui confère la présente loi, à l’exception de celles qui sont prévues au paragraphe 24(3), aux articles 62, 63 et 67, aux paragraphes 71(1) et 72(1), aux articles 74, 77, 103, 104, 130, 293 à 298 et 300, au paragraphe 301(6) et aux articles 313 à 316.
+- **(1)** Le directeur du scrutin peut, avec l’agrément préalable du directeur général des élections, autoriser toute personne agissant sous son autorité à exercer les attributions que lui confère la présente loi, à l’exception de celles qui sont prévues au paragraphe 24(3), aux articles 62 et 63, au paragraphe 71(1), aux articles 71.1, 74, 77, 130, 293 à 298 et 300, au paragraphe 301(6) et aux articles 313 à 316.
 
 **Délégation par écrit**
 
 - **(2)** L’autorisation visée au paragraphe (1) doit être datée et signée par le directeur du scrutin.
-> 2000, ch. 9, art. 27; 2014, ch. 12, art. 15.
+> 2000, ch. 9, art. 27; 2014, ch. 12, art. 15; 2018, ch. 31, art. 25.
 
 
 
@@ -1007,7 +1056,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Nomination d’un remplaçant**
 
-- **(2)** Si le directeur adjoint du scrutin décède, démissionne, devient inhabile ou incapable de remplir ses fonctions, refuse d’agir ou est destitué de sa charge pour tout autre motif, le directeur du scrutin qui l’a nommé nomme sans délai un remplaçant.
+- **(2)** Si le directeur adjoint du scrutin décède, démissionne, devient inhabile ou incapable de remplir ses fonctions, refuse d’agir ou est destitué de sa charge pour tout autre motif, le directeur du scrutin nomme sans délai un remplaçant, avec l’agrément préalable du directeur général des élections.
 
 **Durée des fonctions du directeur adjoint du scrutin**
 
@@ -1015,7 +1064,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis d’intention de démissionner**
 
-- **(4)** Le directeur adjoint du scrutin qui a l’intention de démissionner en avise par écrit le directeur du scrutin qui l’a nommé ou, en cas de vacance du poste de ce dernier, le directeur général des élections.
+- **(4)** Le directeur adjoint du scrutin qui a l’intention de démissionner en avise par écrit le directeur du scrutin ou, en cas de vacance du poste de ce dernier, le directeur général des élections.
+> 2000, ch. 9, art. 29; 2018, ch. 31, art. 27.
+
 
 
 
@@ -1054,33 +1105,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-#### Disposition générale
-
-
-
 **Fonctionnaires électoraux**
 
-**32** Après la délivrance du bref, le directeur du scrutin nomme, selon le formulaire prescrit :
-- **a)** les agents réviseurs qu’il estime nécessaires, le nombre de ceux-ci devant être approuvé par le directeur général des élections;
-- **b)** un scrutateur et un greffier du scrutin pour chacun des bureaux de vote par anticipation de la circonscription;
-- **c)** un scrutateur et un greffier du scrutin pour chacun des bureaux de scrutin de la circonscription;
-- **d)** un agent d’inscription pour chaque bureau d’inscription.
-> 2000, ch. 9, art. 32; 2001, ch. 21, art. 3(A).
+**32** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3) et 33(2) et (3), après la délivrance du bref, le directeur du scrutin nomme, conformément aux instructions du directeur général des élections, les fonctionnaires électoraux qu’il estime nécessaires pour l’exercice dans la circonscription des attributions que la présente loi confère aux fonctionnaires électoraux.
+
+**Nomination avant la délivrance du bref**
+
+- **(2)** Il peut, conformément aux instructions du directeur général des élections, nommer des fonctionnaires électoraux avant la délivrance du bref s’il l’estime indiqué afin de les former et de les préparer en vue de l’exercice, après cette délivrance, des attributions que la présente loi confère aux fonctionnaires électoraux.
+
+**Nombre limite de nominations**
+
+- **(3)** Il ne peut, avant le huitième jour suivant la délivrance du bref, nommer plus de la moitié des fonctionnaires électoraux visés au paragraphe (1).
+> 2000, ch. 9, art. 32; 2001, ch. 21, art. 3(A); 2018, ch. 31, art. 29.
 
 
 
 
+**32.1** [Abrogé, 2018, ch. 31, art. 29]
 
-**Fonctionnaires électoraux supplémentaires**
-
-**32.1** Après la délivrance du bref, le directeur du scrutin peut, avec l’agrément du directeur général des élections, nommer selon le formulaire prescrit toute autre personne dont il estime la présence nécessaire au déroulement du vote ou au dépouillement du scrutin dans des bureaux de vote par anticipation ou des bureaux de scrutin et lui confier les attributions qu’il juge indiquées.
-> 2014, ch. 12, art. 17.
-
-
-
-
-
-#### Agents réviseurs
 
 
 
@@ -1088,70 +1132,41 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **33** 
 
-- **(1)** Avant de procéder à la nomination des agents réviseurs, le directeur du scrutin demande aux partis enregistrés dont les candidats se sont classés respectivement premier et deuxième lors de la dernière élection dans la circonscription de lui fournir les noms de personnes aptes à exercer ces fonctions; toutefois, si les partis ne lui fournissent pas suffisamment de noms dans les trois jours suivant la demande, le directeur du scrutin peut en obtenir d’autres sources.
+- **(1)** Dans les meilleurs délais après la délivrance du bref, le directeur du scrutin demande aux candidats des partis enregistrés ayant soutenu un candidat lors de la dernière élection dans la circonscription ou aux associations enregistrées de ces partis — ou, dans le cas où le parti n’a pas d’association enregistrée, au parti — de lui fournir les noms de personnes aptes à exercer les fonctions de fonctionnaires électoraux.
 
-**Répartition équitable**
+**Nomination des personnes dont les noms sont fournis**
 
-- **(2)** En nommant les agents réviseurs, il veille à ce qu’ils se répartissent également entre les personnes recommandées par le parti enregistré dont le candidat s’est classé premier lors de la dernière élection dans la circonscription et celles recommandées par le parti enregistré dont le candidat s’est classé deuxième.
+- **(2)** Si le nombre de noms qui lui ont été fournis au titre du paragraphe (1) dans les sept jours suivant la délivrance du bref est égal ou inférieur au nombre de postes restants de fonctionnaires électoraux à pourvoir au titre du paragraphe 32(1) — après la nomination des fonctionnaires électoraux par le directeur du scrutin au titre de l’article 32 — ce dernier nomme à titre de fonctionnaires électoraux, sous réserve du paragraphe 37(1), les personnes dont les noms ont été fournis.
 
-**Groupes de deux**
+**Répartition proportionnelle**
 
-- **(3)** Il nomme les agents réviseurs par groupes de deux, chaque groupe étant constitué, dans la mesure du possible, de personnes recommandées par des partis enregistrés différents.
+- **(3)** Si le nombre de noms qui lui ont été fournis au titre du paragraphe (1) dans les sept jours suivant la délivrance du bref est supérieur au nombre de postes restants de fonctionnaires électoraux à pourvoir au titre du paragraphe 32(1) — après la nomination des fonctionnaires électoraux par le directeur du scrutin au titre de l’article 32 — ce dernier nomme pour le nombre de postes restants, sous réserve du paragraphe 37(1), les fonctionnaires électoraux à partir de ces noms en veillant, dans la mesure du possible, à répartir les postes proportionnellement aux votes obtenus lors de la dernière élection dans la circonscription par les candidats des partis enregistrés soit dont les candidats ou associations enregistrées ont fourni des noms au titre de ce paragraphe, soit qui ont eux-mêmes fourni des noms au titre de ce paragraphe, selon le cas.
 
-**Remplaçant**
+**Révocation ou remplacement**
 
-- **(4)** Il peut aussi procéder au remplacement d’un agent réviseur; la personne remplacée est tenue de lui remettre tout le matériel électoral en sa possession.
+- **(4)** Si le directeur du scrutin révoque ou remplace un fonctionnaire électoral, la personne révoquée ou remplacée est tenue de lui remettre ou de remettre à la personne autorisée les documents électoraux et le matériel électoral en sa possession.
 
-**Liste des agents réviseurs**
+**Liste des fonctionnaires électoraux**
 
-- **(5)** Enfin, il met à la disposition de chacun des candidats la liste des agents réviseurs de la circonscription, dès qu’elle est complétée.
+- **(5)** Le directeur du scrutin met à la disposition de chacun des candidats, dès qu’elle est complète, la liste des fonctionnaires électoraux de la circonscription qui seront chargés de l’aider ou d’aider le directeur adjoint du scrutin à réviser les listes électorales en vertu de la partie 7.
 
-**Pièces d’identité de l’agent réviseur**
+**Pièces d’identité du fonctionnaire électoral**
 
-- **(6)** L’agent réviseur est tenu d’avoir en sa possession, pendant qu’il exerce ses fonctions, les pièces d’identité que lui fournit le directeur général des élections et de les présenter sur demande.
-
-
-
-
-#### Scrutateurs et greffiers du scrutin
-
-
-
-**Nomination des scrutateurs**
-
-**34** 
-
-- **(1)** La nomination des scrutateurs visés aux alinéas 32b) ou c) se fait à partir de listes de personnes aptes à exercer ces fonctions fournies par le candidat du parti enregistré dont le candidat s’est classé premier dans la circonscription lors de la dernière élection ou par l’association enregistrée de ce parti ou, à défaut d’une telle association, par celui-ci.
-
-**Remplacement des scrutateurs**
-
-- **(2)** Le directeur du scrutin peut à tout moment démettre un scrutateur de ses fonctions.
-> 2000, ch. 9, art. 34; 2014, ch. 12, art. 18.
+- **(6)** Le fonctionnaire électoral est tenu d’avoir en sa possession, pendant qu’il exerce ses attributions, les pièces d’identité que lui fournit le directeur général des élections et de les présenter sur demande.
+> 2000, ch. 9, art. 33; 2018, ch. 31, art. 29.
 
 
 
 
-
-**Nomination des greffiers du scrutin**
-
-**35** 
-
-- **(1)** La nomination des greffiers du scrutin visés aux alinéas 32b) ou c) se fait à partir de listes de personnes aptes à exercer ces fonctions fournies par le candidat du parti enregistré dont le candidat s’est classé deuxième dans la circonscription lors de la dernière élection ou par l’association enregistrée de ce parti ou, à défaut d’une telle association, par celui-ci.
-
-**Remplacement des greffiers du scrutin**
-
-- **(2)** Le directeur du scrutin peut à tout moment démettre un greffier du scrutin de ses fonctions.
-> 2000, ch. 9, art. 35; 2014, ch. 12, art. 19.
+**34** [Abrogé, 2018, ch. 31, art. 29]
 
 
 
+**35** [Abrogé, 2018, ch. 31, art. 29]
 
 
-**Nomination**
 
-**36** Si, au plus tard le vingt-quatrième jour avant le jour du scrutin, le candidat, l’association enregistrée ou le parti enregistré n’ont pas fait de recommandation ou ils n’ont pas, en tant que groupe, recommandé un nombre suffisant de personnes aptes à exercer ces fonctions, le directeur du scrutin procède à la nomination des scrutateurs et des greffiers du scrutin manquants à partir d’autres sources.
-> 2000, ch. 9, art. 36; 2014, ch. 12, art. 20.
-
+**36** [Abrogé, 2018, ch. 31, art. 29]
 
 
 
@@ -1160,55 +1175,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **37** 
 
-- **(1)** Le directeur du scrutin peut, pour des motifs raisonnables, refuser de nommer à titre de scrutateur ou de greffier du scrutin une personne recommandée par un candidat, une association enregistrée ou un parti enregistré. Il en avise sans délai le candidat, l’association ou le parti en cause.
+- **(1)** Le directeur du scrutin peut, pour des motifs raisonnables, refuser de nommer à titre de fonctionnaire électoral une personne recommandée par un candidat, une association enregistrée ou un parti enregistré. Le cas échéant, il en avise sans délai le candidat, l’association ou le parti en cause.
 
-**Décision en cas de refus**
+**Recommandation d’une autre personne**
 
-- **(2)** Dans le cas où il y a toujours, de ce fait, un poste à pourvoir, le candidat, l’association enregistrée ou le parti enregistré peut, dans les vingt-quatre heures suivant l’avis du refus, recommander une autre personne; à défaut de recommandation dans ce délai, le directeur du scrutin procède à la nomination à partir d’autres sources.
-> 2000, ch. 9, art. 37; 2014, ch. 12, art. 20.
-
-
-
-
-
-**Incapacité du scrutateur**
-
-**38** 
-
-- **(1)** Si aucun remplaçant n’est nommé en cas d’incapacité ou de refus d’agir du scrutateur ou de vacance de son poste, le greffier du scrutin agit en qualité de scrutateur sans prêter d’autre serment.
-
-**Nomination d’un autre greffier du scrutin**
-
-- **(2)** Le cas échéant, il nomme, selon le formulaire prescrit, un greffier du scrutin pour le remplacer.
+- **(2)** Dans le cas où il y a toujours, de ce fait, un poste à pourvoir et qu’il n’y a plus de personnes dont les noms ont été fournis par le candidat, l’association enregistrée ou le parti enregistré au titre du paragraphe 33(1) et qui sont admissibles à une nomination au titre des paragraphes 33(2) ou (3), le candidat, l’association enregistrée ou le parti enregistré peut, dans les vingt-quatre heures suivant l’avis du refus, recommander une autre personne.
+> 2000, ch. 9, art. 37; 2014, ch. 12, art. 20; 2018, ch. 31, art. 29.
 
 
 
 
-#### Agents d’inscription
+
+**Registre des attributions des fonctionnaires électoraux**
+
+**38** Le directeur du scrutin tient un registre des attributions qu’il confère à chaque fonctionnaire électoral et y consigne le moment ou la période au cours de laquelle chacun d’eux les exerce.
+> 2000, ch. 9, art. 38; 2018, ch. 31, art. 29.
 
 
 
-**Bureaux d’inscription**
 
-**39** 
 
-- **(1)** Le directeur du scrutin établit un ou plusieurs bureaux d’inscription en conformité avec les instructions du directeur général des élections.
+**Fonctionnaires électoraux**
 
-**Nomination d’un agent d’inscription**
-
-- **(2)** Pour chaque bureau d’inscription, il nomme un agent d’inscription pour recevoir, le jour du scrutin, les demandes d’inscription des électeurs dont le nom ne figure pas sur la liste électorale.
-
-**Propositions de noms**
-
-- **(3)** Avant de procéder à la nomination des agents d’inscription, il demande aux candidats des partis enregistrés dont les candidats se sont classés respectivement premier et deuxième lors de la dernière élection dans la circonscription ou aux associations enregistrées de ces partis ou, à défaut de telles associations, à ceux-ci, de lui fournir les noms de personnes aptes à exercer ces fonctions. Si le vingt-quatrième jour précédant le jour du scrutin, les candidats, les associations enregistrées ou les partis enregistrés ne lui ont pas fourni suffisamment de noms, il peut obtenir les noms manquants à partir d’autres sources.
-
-**Répartition équitable**
-
-- **(4)** Lors de la nomination des agents d’inscription, il veille à ce que les postes soient, dans la mesure du possible, répartis également entre les personnes recommandées au titre du paragraphe (3) :
-	- **a)** d’une part, par le candidat du parti enregistré dont le candidat s’est classé premier lors de la dernière élection dans la circonscription ou par l’association enregistrée de ce parti ou, à défaut d’une telle association, par le parti enregistré en cause;
-	- **b)** d’autre part, par le candidat du parti enregistré dont le candidat s’est classé deuxième lors de cette élection, par l’association enregistrée de ce parti ou, à défaut d’une telle association, par le parti enregistré en cause.
-Si le candidat, l’association enregistrée et le parti enregistré ne fournissent pas, en tant que groupe, suffisamment de noms, les postes non pourvus et attribuables au parti enregistré en cause sont pourvus avec les noms que le directeur du scrutin a obtenus d’autres sources.
-> 2000, ch. 9, art. 39; 2014, ch. 12, art. 21.
+**39** Le fonctionnaire électoral exerce, conformément aux instructions du directeur général des élections, les attributions qui lui sont conférées par le directeur du scrutin.
+> 2000, ch. 9, art. 39; 2014, ch. 12, art. 21; 2018, ch. 31, art. 29.
 
 
 
@@ -1254,7 +1244,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Attribution de votes pour les nominations**
 
-**42** Pour l’application des paragraphes 33(1) et (2), 34(1), 35(1) et 39(3) et (4) et de l’article 41 dans les cas où le parti enregistré dont le candidat s’est classé premier ou deuxième lors de l’élection précédente s’est fusionné avec un ou plusieurs autres partis enregistrés lors de cette élection, le candidat du parti issu de la fusion est réputé avoir eu les résultats du candidat du parti fusionnant qui a obtenu les meilleurs résultats lors de cette élection.
+**42** Pour l’application du paragraphe 33(3) et de l’article 41, dans les cas où le parti enregistré ayant soutenu un candidat lors de l’élection précédente s’est fusionné avec un ou plusieurs autres partis enregistrés lors de cette élection :
+- **a)** le parti issu de la fusion est réputé avoir soutenu un candidat lors de cette élection dans la circonscription en cause;
+- **b)** ce candidat est réputé avoir eu les résultats de celui des candidats des partis fusionnant qui a obtenu les meilleurs résultats lors de cette élection.
+> 2000, ch. 9, art. 42; 2018, ch. 31, art. 31.
+
 
 
 
@@ -1332,11 +1326,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Communication au député et aux partis**
+**Listes mises à la disposition du député et des partis**
 
 **45** 
 
-- **(1)** Au plus tard le 15 novembre de chaque année, le directeur général des élections envoie au député de chaque circonscription et, sur demande, à chaque parti enregistré y ayant soutenu un candidat lors de la dernière élection, une copie sous forme électronique — tirée du Registre des électeurs — des listes électorales de la circonscription.
+- **(1)** Au plus tard le 15 novembre de chaque année, le directeur général des élections met à la disposition du député de chaque circonscription et, sur demande, de chaque parti enregistré y ayant soutenu un candidat lors de l’élection précédente, une copie — tirée du Registre des électeurs —, notamment sous forme électronique, des listes électorales de la circonscription.
 
 **Teneur des listes**
 
@@ -1349,7 +1343,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Cas de fusion de partis**
 
 - **(4)** Pour l’application du paragraphe (1), le parti enregistré issu d’une fusion est réputé avoir soutenu un candidat lors de l’élection précédente si un des partis enregistrés fusionnant avait soutenu un candidat lors de cette élection.
-> 2000, ch. 9, art. 45; 2007, ch. 21, art. 5.
+> 2000, ch. 9, art. 45; 2007, ch. 21, art. 5; 2018, ch. 31, art. 37.
 
 
 
@@ -1763,8 +1757,10 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(2)** Les membres du personnel recruté :
 	- **a)** sont nommés selon le formulaire prescrit;
-	- **b)** prêtent le serment prescrit;
+	- **b)** font une déclaration solennelle, selon le formulaire prescrit;
 	- **c)** sont relevés de leurs fonctions dès que leurs services ne sont plus requis.
+> 2000, ch. 9, art. 61; 2018, ch. 31, art. 50.
+
 
 
 
@@ -1820,14 +1816,14 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **b)** le nom de l’agent officiel de chaque candidat selon les actes de candidature;
 	- **c)** le nom, s’il y a lieu, et le numéro de chacune des sections de vote et l’adresse de chacun des bureaux de scrutin de cette circonscription.
 
-**Avis au scrutateur**
+**Avis aux fonctionnaires électoraux**
 
-- **(3)** Il envoie une copie de l’avis d’un scrutin à chaque scrutateur ou à chaque superviseur de centre de scrutin; ceux-ci sont tenus de l’afficher dans la salle de scrutin.
+- **(3)** Il met l’avis de scrutin à la disposition, pour chaque bureau de scrutin, d’un fonctionnaire électoral affecté au bureau; ce dernier est tenu de l’afficher dans le bureau.
 
 **Document à transmettre au candidat**
 
 - **(4)** Il transmet à chaque candidat, à la date de confirmation de sa candidature mais au plus tôt le trente et unième jour avant le jour du scrutin, au plus dix copies d’un document précisant les limites de chacune des sections de vote de la circonscription.
-> 2000, ch. 9, art. 64; 2014, ch. 12, art. 24.
+> 2000, ch. 9, art. 64; 2014, ch. 12, art. 24; 2018, ch. 31, art. 51.
 
 
 
@@ -1845,16 +1841,16 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Candidats inéligibles**
 
 **65** Les personnes suivantes ne peuvent se porter candidat à une élection :
-- **a)** les personnes qui n’ont pas qualité d’électeur le jour où elles déposent leur acte de candidature;
+- **a)** les personnes qui n’ont pas qualité d’électeur le jour où leur acte de candidature est déposé;
 - **b)** les personnes qui sont inéligibles aux termes de l’alinéa 502(3)a);
 - **c)** les membres de l’assemblée législative d’une province;
-- **d)** les personnes qui exercent la charge de shérif, de greffier de la paix ou de procureur de la Couronne dans une province;
-- **e)** les personnes qui, aux termes de l’article 4, sont inhabiles à voter;
+- **d)** [Abrogé, 2018, ch. 31, art. 52]
+- **e)** le directeur général des élections;
 - **f)** les juges nommés par le gouverneur en conseil, à l’exception des juges de la citoyenneté nommés sous le régime de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md);
 - **g)** les personnes incarcérées dans un établissement correctionnel;
 - **h)** les fonctionnaires électoraux;
 - **i)** les personnes qui étaient candidates lors d’une élection antérieure, dans les cas où les documents visés au paragraphe 477.59(1) n’ont pas été produits pour cette élection dans les délais ou les délais supplémentaires impartis pour leur production.
-> 2000, ch. 9, art. 65; 2002, ch. 7, art. 92; 2014, ch. 2, art. 49, ch. 12, art. 25.
+> 2000, ch. 9, art. 65; 2002, ch. 7, art. 92; 2014, ch. 2, art. 49, ch. 12, art. 25; 2018, ch. 31, art. 52.
 
 
 
@@ -1869,68 +1865,77 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **66** 
 
 - **(1)** L’acte de candidature doit être rédigé selon le formulaire prescrit et comporter :
-	- **a)** une déclaration sous serment de la personne qui désire se porter candidat énonçant :
+	- **a)** une déclaration solennelle, selon le formulaire prescrit, de la personne qui désire se porter candidat énonçant :
 		- **(i)** ses nom, adresse et profession,
+		- **(i.1)** tout autre nom sous lequel elle est généralement connue — non susceptible d’être confondu avec le nom d’un parti politique — qu’elle souhaite voir figurer sur le bulletin de vote au lieu du nom visé au sous-alinéa (i),
 		- **(ii)** l’adresse indiquée pour la signification de documents sous le régime de la présente loi,
 		- **(iii)** les nom et adresse de son agent officiel,
-		- **(iv)** les nom, adresse et profession du vérificateur nommé en conformité avec le paragraphe 477.1(2),
-		- **(v)** le nom du parti politique qui la soutient ou, faute de soutien, son intention d’être désignée par la mention « indépendant(e) » ou de n’avoir aucune désignation d’appartenance politique dans les documents électoraux;
-	- **b)** une déclaration sous serment de la personne qui désire se porter candidat attestant qu’elle consent à la candidature, signée devant un témoin ayant qualité d’électeur, la personne devant laquelle elle prête serment ne pouvant toutefois agir comme témoin;
-	- **c)** la signature du témoin visé à l’alinéa b);
+		- **(iv)** les nom, adresse et profession du vérificateur nommé en conformité avec le paragraphe 477.1(2), si elle en a nommé un,
+		- **(v)** le nom du parti politique qui la soutient ou, faute de soutien, son intention d’être désignée par la mention « indépendant(e) » ou de n’avoir aucune désignation d’appartenance politique dans les documents électoraux,
+		- **(vi)** si la déclaration énonce le nom du parti politique qui la soutient, mais que le directeur du scrutin ne peut vérifier, au titre de l’alinéa 71(2)c), que le parti politique la soutient effectivement, son intention d’être désignée par la mention « indépendant(e) », de n’avoir aucune désignation d’appartenance politique dans les documents électoraux ou de retirer son acte de candidature;
+	- **b)** une déclaration signée par la personne qui désire se porter candidat attestant qu’elle accepte la candidature;
+	- **c)** [Abrogé, 2018, ch. 31, art. 53]
 	- **d)** une déclaration signée par l’agent officiel attestant qu’il a accepté d’agir à ce titre;
 	- **e)** sauf s’il s’agit d’une circonscription figurant à l’annexe 3, les nom, adresse et signature, en présence chacune d’un témoin, d’au moins cent électeurs de la circonscription;
 	- **f)** s’il s’agit d’une circonscription figurant à l’annexe 3, les nom, adresse et signature, en présence chacune d’un témoin, d’au moins cinquante électeurs de la circonscription;
-	- **g)** les nom, adresse et signature de chacun des témoins visés aux alinéas e) ou f).
+	- **g)** les nom, adresse et signature de chacun des témoins visés aux alinéas e) ou f);
+	- **h)** s’il y a lieu, une déclaration signée par la personne qui désire se porter candidat énonçant le nom de la personne autorisée en vertu du paragraphe 67(7).
 
-**Renseignements sur les candidats**
+**Renseignements sur les candidats — nom**
 
-- **(2)** Les règles suivantes s’appliquent dans le cadre du sous-alinéa (1)a)(i) :
-	- **a)** le nom ne peut être ni précédé ni suivi de titres, grades ou diplômes ou de tout autre préfixe ou suffixe;
-	- **b)** un ou plusieurs des prénoms peuvent être remplacés par un surnom — sauf un surnom susceptible d’être confondu avec le nom d’un parti politique — sous lequel la personne qui désire se porter candidat est publiquement connue et, dans ce cas, le surnom peut être accompagné des initiales du ou des prénoms;
-	- **c)** il peut être substitué aux prénoms une abréviation courante de ceux-ci;
-	- **d)** la profession doit être énoncée de manière concise et correspondre à celle par laquelle la personne qui désire se porter candidat est connue au lieu de sa résidence habituelle.
+- **(2)** Dans le cadre des sous-alinéas (1)a)(i) et (i.1), le nom ne peut être ni précédé ni suivi de titres, grades ou diplômes ou de tout autre préfixe ou suffixe.
 
-**Preuve de la connaissance publique**
+**Renseignements sur les candidats — profession**
 
-- **(3)** Dans le cas où elle a remplacé un ou plusieurs de ses prénoms par un surnom dans l’acte de candidature, la personne qui désire se porter candidat doit aussi fournir au directeur du scrutin, à sa demande, les documents requis par le directeur général des élections à titre de preuve qu’elle est publiquement connue sous ce surnom.
-
-**Notification et détermination**
-
-- **(4)** Si le directeur du scrutin estime que le surnom d’un candidat visé à l’alinéa (2)b) est susceptible d’être confondu avec le nom d’un parti politique, il notifie le directeur général des élections qui détermine si, à son avis, le surnom est conforme à cet alinéa.
-> 2000, ch. 9, art. 66; 2001, ch. 21, art. 7; 2014, ch. 12, art. 26; 2018, ch. 31, art. 53(F).
-
-
-
-
-
-**Dépôt du bulletin**
-
-**67** 
-
-- **(1)** Le témoin du consentement visé à l’alinéa 66(1)b) doit déposer l’acte de candidature auprès du directeur du scrutin dans la circonscription où la personne désire se porter candidat au cours de la période commençant à la date de l’avis de convocation et se terminant à la clôture des candidatures.
+- **(3)** Dans le cadre du sous-alinéa (1)a)(i), la profession doit être énoncée de manière concise et correspondre à celle par laquelle la personne qui désire se porter candidat est connue.
 
 **Vérification des signataires**
 
-- **(2)** Le témoin doit également prendre les mesures nécessaires pour s’assurer que les signataires visés aux alinéas 66(1)e) ou f) sont des électeurs de la circonscription.
+- **(4)** Le témoin d’une signature visée aux alinéas (1)e) ou f) et apposée en sa présence doit prendre les mesures nécessaires pour s’assurer que le signataire en cause est un électeur de la circonscription.
+> 2000, ch. 9, art. 66; 2001, ch. 21, art. 7; 2014, ch. 12, art. 26; 2018, ch. 31, art. 53.
 
-**Déclaration sous serment du témoin**
 
-- **(3)** En déposant l’acte de candidature, le témoin prête serment par écrit auprès du directeur du scrutin, selon le formulaire prescrit, déclarant :
-	- **a)** qu’il connaît la personne qui désire se porter candidat;
-	- **b)** qu’il a qualité d’électeur;
-	- **c)** que la personne qui désire se porter candidat a signé en sa présence le consentement à sa candidature.
 
-**Autres exigences**
 
-- **(4)** Le témoin doit présenter, avec l’acte de candidature :
-	- **a)** un cautionnement de 1 000 $;
-	- **b)** une déclaration signée par le vérificateur et portant qu’il a accepté d’agir à ce titre;
-	- **c)** s’il y a lieu, un acte écrit, signé par les personnes autorisées par le parti politique à soutenir des personnes qui désirent se porter candidat, énonçant que la personne qui désire se porter candidat est soutenue par le parti.
 
-**Rapport**
+**Dépôt de l’acte de candidature**
 
-- **(5)** Au plus tard vingt-cinq jours avant le jour du scrutin, l’agent principal de chaque parti politique produit un rapport écrit au directeur général des élections comportant le nom des personnes que le parti autorise à soutenir des personnes qui désirent se porter candidat.
-> 2000, ch. 9, art. 67; 2001, ch. 21, art. 8; 2014, ch. 12, art. 27; 2015, ch. 37, art. 2 et 6.
+**67** 
+
+- **(1)** La personne qui désire se porter candidat dépose l’acte de candidature auprès du directeur du scrutin dans la circonscription où elle désire se porter candidat, au cours de la période commençant à la date de l’avis de convocation et se terminant à la clôture des candidatures.
+
+**Vérification de l’identité — personne désirant se porter candidat**
+
+- **(2)** La personne qui désire se porter candidat et qui dépose personnellement l’acte de candidature présente au directeur du scrutin les documents ci-après pour établir son identité :
+	- **a)** soit une pièce d’identité délivrée par un gouvernement canadien, fédéral ou provincial, une administration locale ou l’un de leurs organismes et comportant sa photographie et le nom visé au sous-alinéa 66(1)a)(i);
+	- **b)** soit deux pièces d’identité, d’un type autorisé en vertu du paragraphe (3), qui, toutes deux, établissent ce nom.
+
+**Autorisation de types d’identification**
+
+- **(3)** Pour l’application des paragraphes (2) et (8), le directeur général des élections peut autoriser des types d’identification. Il est entendu qu’il peut autoriser tout document, sans égard à son auteur.
+
+**Nom sous lequel la personne est généralement connue — documents**
+
+- **(4)** Si elle souhaite que le nom visé au sous-alinéa 66(1)a)(i.1) figure sur le bulletin de vote au lieu du nom visé au sous-alinéa 66(1)a)(i), la personne qui désire se porter candidat dépose auprès du directeur du scrutin des documents, d’un type autorisé en vertu du paragraphe (5), pour établir qu’elle est généralement connue sous ce nom.
+
+**Autorisation de types de documents**
+
+- **(5)** Pour l’application du paragraphe (4), le directeur général des élections peut autoriser des types de documents.
+
+**Déclaration — vérificateur**
+
+- **(6)** Si elle a nommé un vérificateur, la personne qui désire se porter candidat dépose auprès du directeur du scrutin au plus tard à la clôture des candidatures une déclaration signée par le vérificateur portant qu’il a accepté d’agir à ce titre.
+
+**Personne autorisée**
+
+- **(7)** La personne qui désire se porter candidat peut autoriser une autre personne à exercer, en son nom, les attributions que lui confèrent les paragraphes (1), (4) et (6).
+
+**Vérification de l’identité — personne autorisée**
+
+- **(8)** La personne autorisée en vertu du paragraphe (7) qui dépose l’acte de candidature au nom de la personne qui désire se porter candidat dépose en même temps auprès du directeur du scrutin, au nom de cette personne, les documents ci-après pour établir l’identité de celle-ci :
+	- **a)** soit une copie, signée par cette dernière, d’une pièce d’identité délivrée par un gouvernement canadien, fédéral ou provincial, une administration locale ou l’un de leurs organismes et comportant sa photographie et le nom visé au sous-alinéa 66(1)a)(i);
+	- **b)** soit une copie, signée par elle, de deux pièces d’identité, d’un type autorisé en vertu du paragraphe (3), qui, toutes deux, établissent ce nom.
+> 2000, ch. 9, art. 67; 2001, ch. 21, art. 8; 2014, ch. 12, art. 27; 2015, ch. 37, art. 2 et 6; 2018, ch. 31, art. 54.
 
 
 
@@ -1945,7 +1950,18 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Nouveau soutien**
 
 - **(2)** Lorsqu’un candidat soutenu dans une circonscription par un parti politique décède avant 14 h le cinquième jour précédant le jour de clôture ou qu’il se désiste conformément au paragraphe 74(1), le parti peut soutenir un autre candidat dans cette circonscription avant la clôture des candidatures.
-> 2000, ch. 9, art. 68; 2001, ch. 21, art. 9.
+
+**Liste**
+
+- **(3)** L’agent principal d’un parti politique fournit au directeur général des élections, au plus tard vingt-quatre heures avant la clôture des candidatures :
+	- **a)** le nom de chaque personne qui désire se porter candidat et que le parti soutient;
+	- **b)** la circonscription dans laquelle elle entend se porter candidat;
+	- **c)** le nom de la personne ou des personnes qui l’ont soutenue au nom du parti.
+
+**Renseignements fournis aux directeurs du scrutin**
+
+- **(4)** Dans les meilleurs délais suivant la réception des renseignements visés aux alinéas (3)a) à c), mais au plus tard à la clôture des candidatures, le directeur général des élections fournit ces renseignements au directeur du scrutin de la circonscription visée à l’alinéa (3)b).
+> 2000, ch. 9, art. 68; 2001, ch. 21, art. 9; 2018, ch. 31, art. 55.
 
 
 
@@ -1966,11 +1982,18 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Clôture des candidatures**
 
-- **(2)** L’acte de candidature des personnes qui entrent au bureau du directeur du scrutin après 14 h le jour de clôture ne peut être reçu.
+- **(2)** Un acte de candidature ne peut être reçu de quiconque entre au bureau du directeur du scrutin après 14 h le jour de clôture.
 
 **Autre lieu de candidature**
 
-- **(3)** Le directeur du scrutin peut autoriser une personne à recevoir l’acte de candidature ainsi que le cautionnement, la déclaration et l’acte visés aux alinéas 67(4)a) à c) au lieu qu’il désigne; ceux-ci doivent être reçus par cette personne au plus tard à la clôture des candidatures.
+- **(3)** Le directeur du scrutin peut autoriser une personne à recevoir — ou, s’agissant de l’alinéa b), à examiner — au lieu qu’il désigne :
+	- **a)** l’acte de candidature;
+	- **b)** les documents visés aux alinéas 67(2)a) et b);
+	- **c)** les documents visés au paragraphe 67(4);
+	- **d)** la déclaration visée au paragraphe 67(6);
+	- **e)** les copies de pièces d’identité visées aux alinéas 67(8)a) et b).
+> 2000, ch. 9, art. 70; 2018, ch. 31, art. 56.
+
 
 
 
@@ -1984,12 +2007,45 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Vérification de l’acte de candidature**
 
 - **(2)** Avant de confirmer ou de rejeter la candidature, le directeur du scrutin vérifie, conformément aux instructions du directeur général des élections :
-	- **a)** si l’acte de candidature est complet et comporte au moins le nombre de signatures exigé par les alinéas 66(1)e) ou f), selon le cas;
-	- **b)** si les signataires sont habiles à voter dans la circonscription.
+	- **a)** si l’identité de la personne qui désire se porter candidat a été établie aux termes des documents présentés au titre du paragraphe 67(2) ou déposés au titre du paragraphe 67(8), selon le cas;
+	- **a.1)** si l’acte de candidature est complet et comporte le nombre minimal de signatures exigé par les alinéas 66(1)e) ou f), selon le cas;
+	- **b)** si les signataires sont habiles à voter dans la circonscription;
+	- **c)** si le parti politique mentionné dans l’acte de candidature comme soutenant la personne qui désire se porter candidat la soutient effectivement, conformément aux renseignements fournis au titre de l’alinéa 68(3)a) relativement à cette personne.
 
 **Correction ou remplacement**
 
 - **(3)** Un acte de candidature que le directeur du scrutin a refusé d’accepter peut être remplacé par un autre acte de candidature ou corrigé, pourvu que le nouvel acte ou l’acte corrigé soit déposé auprès du directeur du scrutin au plus tard à la clôture des candidatures.
+> 2000, ch. 9, art. 71; 2018, ch. 31, art. 57.
+
+
+
+
+
+**Nom sous lequel la personne est généralement connue — décision**
+
+**71.1** 
+
+- **(1)** Si l’acte de candidature comporte un nom visé au sous-alinéa 66(1)a)(i.1) et que des documents ont été déposés au titre du paragraphe 67(4) relativement à la personne qui désire se porter candidat, le directeur du scrutin décide, conformément aux instructions du directeur général des élections, si ces documents établissent que cette personne est généralement connue sous ce nom.
+
+**Confusion avec le nom d’un parti politique — décision**
+
+- **(2)** S’il décide que les documents établissent que la personne qui désire se porter candidat est généralement connue sous ce nom et qu’il estime que celui-ci est susceptible d’être confondu avec le nom d’un parti politique, le directeur du scrutin en avise le directeur général des élections, qui décide, à son tour, si le nom est susceptible ou non de l’être et en informe le directeur du scrutin.
+
+**Nom qui doit figurer sur le bulletin de vote**
+
+- **(3)** Le nom visé au sous-alinéa 66(1)a)(i.1) est le nom qui doit figurer sur le bulletin de vote relativement à la personne qui désire se porter candidat sauf si, selon le cas :
+	- **a)** le directeur du scrutin décide au titre du paragraphe (1) que les documents déposés au titre du paragraphe 67(4) n’établissent pas que cette personne est généralement connue sous ce nom;
+	- **b)** le directeur général des élections décide au titre du paragraphe (2) que ce nom est susceptible d’être confondu avec le nom d’un parti politique.
+
+**Précision**
+
+- **(4)** Il est entendu que si, par application du paragraphe (3), le nom visé au sous-alinéa 66(1)a)(i.1) n’est pas celui qui doit figurer sur le bulletin de vote relativement à la personne qui désire se porter candidat, le nom qui doit y figurer en ce qui la concerne est celui visé au sous-alinéa 66(1)a)(i).
+
+**Avis du nom qui doit figurer sur le bulletin de vote**
+
+- **(5)** Dans les quarante-huit heures suivant la réception de l’acte de candidature, le directeur du scrutin donne avis à la personne qui désire se porter candidat, selon le formulaire prescrit, du fait que le nom visé au sous-alinéa 66(1)a)(i.1) est ou non celui qui doit figurer sur le bulletin de vote en ce qui la concerne.
+> 2018, ch. 31, art. 58.
+
 
 
 
@@ -1998,16 +2054,20 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Transmission électronique**
+**Dépôt électronique**
 
 **73** 
 
-- **(1)** La personne qui désire se porter candidat peut transmettre par voie électronique l’acte de candidature ainsi que la déclaration du vérificateur et l’acte signé par le chef du parti mentionnés au paragraphe 67(4); toutefois, pour que la candidature soit valide, le directeur du scrutin doit recevoir le cautionnement et les copies électroniques au plus tard à la clôture des candidatures et les originaux au plus tard dans les quarante-huit heures qui suivent.
+- **(1)** La personne qui dépose l’acte de candidature ou tout autre document en application de l’article 67 peut le faire par voie électronique; toutefois, pour que la candidature soit valide, le directeur du scrutin doit recevoir le document électronique au plus tard à la clôture des candidatures.
+
+**Vérification de l’identité**
+
+- **(1.1)** Si elle dépose l’acte de candidature au titre de l’article 67 par voie électronique, la personne qui désire se porter candidat peut, pour établir son identité, déposer par voie électronique les copies de pièces d’identité visées aux alinéas 67(8)a) ou b). Le cas échéant, elle n’est pas tenue de présenter de documents au titre du paragraphe 67(2) pour établir son identité.
 
 **Sanction**
 
 - **(2)** Si les originaux ne parviennent pas au directeur du scrutin dans le délai fixé, la candidature est annulée sauf si l’intéressé convainc celui-ci qu’il a pris les mesures raisonnables pour acheminer les originaux dans ce délai.
-> 2000, ch. 9, art. 73; 2014, ch. 12, art. 28(F).
+> 2000, ch. 9, art. 73; 2014, ch. 12, art. 28(F); 2018, ch. 31, art. 60.
 
 
 
@@ -2220,15 +2280,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Communication des renseignements**
+**Listes préliminaires et autres renseignements mis à la disposition du directeur du scrutin**
 
 **93** 
 
-- **(1)** Dans les meilleurs délais après la délivrance du bref, le directeur général des élections dresse la liste électorale préliminaire de chaque section de vote de la circonscription et la fait parvenir au directeur du scrutin de celle-ci avec tous les autres renseignements figurant au Registre des électeurs qui concernent les électeurs de cette circonscription.
+- **(1)** Dans les meilleurs délais après la délivrance du bref, le directeur général des élections dresse la liste électorale préliminaire de chaque section de vote de la circonscription et la met à la disposition du directeur du scrutin de celle-ci avec tous les autres renseignements figurant au Registre des électeurs qui concernent les électeurs de cette circonscription.
 
-**Distribution des listes préliminaires**
+**Listes préliminaires mises à la disposition des partis**
 
-- **(1.1)** Le directeur général des élections fait parvenir à chaque parti enregistré ou admissible qui lui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires pour la circonscription à l’égard de laquelle un bref a été délivré.
+- **(1.1)** Le directeur général des élections met à la disposition, notamment sous forme électronique, de chaque parti enregistré ou parti admissible qui lui en fait la demande les listes électorales préliminaires pour la circonscription à l’égard de laquelle un bref a été délivré.
 
 **Présentation des noms sur la liste**
 
@@ -2237,21 +2297,17 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Publication des listes préliminaires**
 
 - **(3)** Le directeur général des élections doit, au plus tard le trente et unième jour précédant le jour du scrutin, établir le nombre de noms figurant sur toutes les listes préliminaires des électeurs dans chaque circonscription et faire publier ce renseignement dans la Gazette du Canada.
-> 2000, ch. 9, art. 93; 2007, ch. 21, art. 13.
+> 2000, ch. 9, art. 93; 2007, ch. 21, art. 13; 2018, ch. 31, art. 62.
 
 
 
 
 
-**Distribution des listes préliminaires**
+**Listes préliminaires mises à la disposition des candidats**
 
-**94** 
+**94** Le directeur du scrutin à la disposition duquel sont mises les listes électorales préliminaires pour sa circonscription les met à la disposition de chacun des candidats de la circonscription qui lui en fait la demande.
+> 2000, ch. 9, art. 94; 2018, ch. 31, art. 63.
 
-- **(1)** Sur réception des listes électorales préliminaires, le directeur du scrutin en fait parvenir deux copies, dont l’une sous forme électronique, à chacun des candidats de la circonscription qui lui en fait la demande.
-
-**Copies supplémentaires**
-
-- **(2)** À la demande d’un candidat, le directeur du scrutin lui remet jusqu’à quatre copies imprimées supplémentaires des listes électorales préliminaires.
 
 
 
@@ -2265,14 +2321,14 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **95** 
 
 - **(1)** Dans les meilleurs délais après la délivrance du bref, mais au plus tard le vingt-quatrième jour précédant le jour du scrutin, le directeur du scrutin envoie un avis de confirmation d’inscription à tout électeur dont le nom figure sur une liste électorale préliminaire, à l’exception de celui qui :
-	- **a)** est visé à l’alinéa 11e);
-	- **b)** a établi une déclaration de résidence habituelle au titre de l’article 194 ou 195;
+	- **a)** est un électeur incarcéré au sens de l’article 177;
+	- **b)** [Abrogé, 2018, ch. 31, art. 64]
 	- **c)** est visé à l’article 222.
 
 **Teneur de l’avis**
 
 - **(2)** L’avis de confirmation d’inscription, en la forme établie par le directeur général des élections, indique :
-	- **a)** l’adresse du bureau de scrutin où l’électeur doit voter, indiquant s’il a un accès de plain-pied;
+	- **a)** l’adresse du bureau de scrutin où l’électeur doit voter et si le bureau est situé dans un local qui est accessible aux électeurs ayant une déficience;
 	- **b)** les heures de vote le jour du scrutin;
 	- **c)** un numéro de téléphone où appeler pour obtenir des renseignements;
 	- **d)** les dates, heures de vote et emplacements des bureaux de vote par anticipation;
@@ -2282,13 +2338,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(3)** L’avis de confirmation d’inscription invite l’électeur à communiquer avec le directeur du scrutin dans les cas suivants :
 	- **a)** il a besoin des services d’un interprète linguistique ou gestuel;
-	- **b)** son état requiert un accès de plain-pied au bureau de scrutin et celui où il doit voter en est dépourvu;
-	- **c)** il est physiquement incapable de se rendre à un bureau de scrutin.
+	- **b)** son état requiert qu’il vote à un bureau de scrutin situé dans un local qui est accessible aux électeurs ayant une déficience et le bureau de scrutin où il doit voter est situé dans un local qui ne l’est pas;
+	- **c)** il est incapable de se rendre à un bureau de scrutin à cause d’une déficience.
 
 **Changement d’adresse du bureau de scrutin**
 
 - **(4)** S’il survient un changement à l’adresse du bureau de scrutin le cinquième jour précédant le jour du scrutin ou avant ce cinquième jour, le directeur du scrutin envoie à tout électeur à qui il a déjà envoyé un avis de confirmation d’inscription un autre avis indiquant la nouvelle adresse.
-> 2000, ch. 9, art. 95; 2007, ch. 21, art. 14; 2014, ch. 12, art. 32.
+> 2000, ch. 9, art. 95; 2007, ch. 21, art. 14; 2014, ch. 12, art. 32; 2018, ch. 31, art. 64.
 
 
 
@@ -2317,19 +2373,21 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **97** 
 
-- **(1)** Les demandes d’inscription sur une liste électorale préliminaire ou au Registre des électeurs, ou de correction ou de radiation de ceux-ci, peuvent être reçues par le directeur du scrutin, le directeur adjoint du scrutin ou les agents réviseurs de la circonscription.
+- **(1)** Les demandes d’inscription sur une liste électorale préliminaire ou au Registre des électeurs, ou de correction ou de radiation de ceux-ci, peuvent être reçues par le directeur du scrutin, le directeur adjoint du scrutin ou les autres fonctionnaires électoraux de la circonscription.
 
 **Transmission au directeur du scrutin**
 
-- **(2)** Les demandes d’inscription, de correction ou de radiation reçues et remplies par les agents réviseurs sont transmises au directeur du scrutin ou au directeur adjoint du scrutin pour approbation.
+- **(2)** Les demandes d’inscription, de correction ou de radiation reçues et remplies par les fonctionnaires électoraux autres que le directeur du scrutin ou le directeur adjoint du scrutin sont transmises à l’un ou l’autre de ces derniers pour approbation.
+> 2000, ch. 9, art. 97; 2018, ch 31, art. 65.
+
 
 
 
 
 **Bureaux de révision**
 
-**98** Le directeur du scrutin peut établir un ou plusieurs bureaux devant servir à la révision des listes électorales préliminaires. Les bureaux de révision doivent offrir un accès de plain-pied.
-> 2000, ch. 9, art. 98; 2014, ch. 12, art. 34.
+**98** Le directeur du scrutin peut établir un ou plusieurs bureaux devant servir à la révision des listes électorales préliminaires. Les bureaux de révision doivent être situés dans des locaux accessibles aux électeurs ayant une déficience.
+> 2000, ch. 9, art. 98; 2014, ch. 12, art. 34; 2018, ch. 31, art. 65.
 
 
 
@@ -2354,15 +2412,17 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Travail en équipe**
+**Travail en groupe de deux**
 
 **100** 
 
-- **(1)** Les agents réviseurs de chaque groupe de deux agissent de concert afin d’aider le directeur du scrutin et le directeur adjoint du scrutin à réviser les listes électorales préliminaires.
+- **(1)** Les fonctionnaires électoraux agissent par groupe de deux lorsqu’ils aident le directeur du scrutin ou le directeur adjoint du scrutin à réviser les listes électorales préliminaires.
 
 **Décision en cas de désaccord**
 
-- **(2)** En cas de désaccord, les agents réviseurs demandent au directeur du scrutin ou au directeur adjoint du scrutin de trancher et sont liés par la décision de celui-ci.
+- **(2)** En cas de désaccord au sein d’un groupe de deux fonctionnaires électoraux, ceux-ci demandent au directeur du scrutin ou au directeur adjoint du scrutin de trancher et sont liés par la décision de celui-ci.
+> 2000, ch. 9, art. 100; 2018, ch. 31, art. 66.
+
 
 
 
@@ -2377,7 +2437,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **c)** un électeur qui ne vit pas dans la même résidence que cet électeur remplit le formulaire en son nom, établit que cet électeur a le droit d’être inscrit sur la liste et fournit :
 		- **(i)** l’autorisation écrite qu’il a reçue de cet électeur lui permettant de remplir la demande en son nom,
 		- **(ii)** une preuve suffisante de l’identité de cet électeur et de sa propre identité;
-	- **d)** l’électeur, ou un autre électeur qui vit dans la même résidence que cet électeur, remplit le formulaire et prête le serment prescrit à sa résidence et en présence des agents réviseurs.
+	- **d)** l’électeur, ou un autre électeur qui vit dans la même résidence que cet électeur, remplit le formulaire et fait une déclaration solennelle, selon le formulaire prescrit, à sa résidence et en présence d’un groupe de deux fonctionnaires électoraux qui aident le directeur du scrutin ou le directeur adjoint du scrutin à réviser les listes électorales préliminaires.
 
 **Formulaire d’inscription**
 
@@ -2412,7 +2472,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Changement d’adresse dans la circonscription**
 
 - **(6)** L’électeur qui change d’adresse dans sa circonscription peut, notamment par téléphone, s’il fournit à l’un des fonctionnaires électoraux visés au paragraphe 97(1) une preuve suffisante de son identité, faire apporter à la liste électorale préliminaire appropriée les corrections pertinentes. Peut faire de même l’électeur qui vit dans la même résidence que cet électeur, s’il fournit une preuve suffisante de l’identité de ce dernier.
-> 2000, ch. 9, art. 101; 2007, ch. 21, art. 16; 2014, ch. 12, art. 35.
+> 2000, ch. 9, art. 101; 2007, ch. 21, art. 16; 2014, ch. 12, art. 35; 2018, ch. 31, art. 67.
 
 
 
@@ -2437,10 +2497,19 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Transmission des listes**
+**Listes mises à la disposition des candidats**
 
-**104.1** Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription.
-> 2007, ch. 21, art. 17.
+**104.1** Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin met les listes électorales préliminaires à jour pour sa circonscription à la disposition de chaque candidat de la circonscription qui lui en fait la demande.
+> 2007, ch. 21, art. 17; 2018, ch. 31, art. 69.
+
+
+
+
+
+**Listes mises à la disposition des partis enregistrés**
+
+**104.2** Le dix-neuvième jour précédant le jour du scrutin, le directeur général des élections met à la disposition, notamment sous forme électronique, de chaque parti enregistré qui en fait la demande et qui soutient un candidat dans une circonscription les listes électorales préliminaires à jour pour la circonscription.
+> 2018, ch. 31, art. 69.
 
 
 
@@ -2465,8 +2534,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Établissement de la liste électorale officielle**
 
-**106** Sans délai après le septième jour précédant le jour du scrutin, mais au plus tard le troisième jour précédant celui-ci, le directeur du scrutin dresse, pour utilisation le jour du scrutin, la liste électorale officielle pour chaque section de vote de la circonscription.
-> 2000, ch. 9, art. 106; 2014, ch. 12, art. 36.
+**106** Sans délai après le septième jour précédant le jour du scrutin, mais au plus tard le troisième jour précédant celui-ci, le directeur du scrutin dresse, pour utilisation le jour du scrutin, la liste électorale officielle pour chaque bureau de scrutin de la circonscription.
+> 2000, ch. 9, art. 106; 2014, ch. 12, art. 36; 2018, ch. 31, art. 70.
 
 
 
@@ -2476,20 +2545,20 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **107** 
 
-- **(1)** La liste électorale révisée et la liste électorale officielle pour chaque section de vote se présentent en la forme établie par le directeur général des élections.
+- **(1)** La liste électorale révisée pour chaque section de vote et la liste électorale officielle pour chaque bureau de scrutin se présentent en la forme établie par le directeur général des élections. La liste électorale officielle fait mention du numéro de la section de vote de chaque électeur.
 
-**Transmission des listes**
+**Listes mises à la disposition des fonctionnaires électoraux**
 
-- **(2)** Le directeur du scrutin remet aux scrutateurs la liste électorale révisée ou la liste électorale officielle, selon le cas, dont ils ont besoin pour les opérations dans leur bureau de vote par anticipation ou bureau de scrutin, avec la mention du sexe et de l’année de naissance de chaque électeur y figurant.
+- **(2)** Le directeur du scrutin met à la disposition des fonctionnaires électoraux la liste électorale révisée ou la liste électorale officielle, selon le cas, dont ils ont besoin pour les opérations au bureau de vote par anticipation ou bureau de scrutin auquel ils sont affectés, avec la mention de l’année de naissance de chaque électeur y figurant.
 
-**Copies aux candidats**
+**Listes mises à la disposition des candidats**
 
-- **(3)** Le directeur du scrutin remet aussi à chacun des candidats deux copies, dont une sous forme électronique, des listes électorales révisées et des listes électorales officielles sur lesquelles le sexe et l’année de naissance des électeurs sont omis.
+- **(3)** Le directeur du scrutin met à la disposition de chacun des candidats une version des listes électorales révisées et des listes électorales officielles sur laquelle l’année de naissance des électeurs est omise.
 
-**Copies supplémentaires**
+**Listes mises à la disposition des partis enregistrés**
 
-- **(4)** À la demande d’un candidat, le directeur du scrutin lui remet jusqu’à quatre copies imprimées supplémentaires des listes.
-> 2000, ch. 9, art. 107; 2007, ch. 21, art. 18; 2014, ch. 12, art. 37.
+- **(4)** Le directeur général des élections met à la disposition, notamment sous forme électronique, de chacun des partis enregistrés qui soutiennent un candidat dans une circonscription une version des listes électorales révisées et des listes électorales officielles, pour la circonscription, sur laquelle l’année de naissance des électeurs est omise.
+> 2000, ch. 9, art. 107; 2007, ch. 21, art. 18; 2014, ch. 12, art. 37; 2018, ch. 31, art. 70.
 
 
 
@@ -2505,9 +2574,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** Une fois terminée la période de révision, le directeur du scrutin peut, avec l’agrément du directeur général des élections, fusionner une section de vote avec une section de vote adjacente dans la circonscription.
 
-**Liste officielle**
+- **(2)** [Abrogé, 2018, ch. 31, art. 71]
+> 2000, ch. 9, art. 108; 2018, ch. 31, art. 71.
 
-- **(2)** Les listes électorales dressées pour les sections de vote fusionnées sont réputées constituer la liste électorale officielle pour la nouvelle section de vote découlant de la fusion.
 
 
 
@@ -2522,14 +2591,12 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** Dans les meilleurs délais suivant le jour du scrutin, le directeur général des élections dresse les listes électorales définitives pour chaque circonscription.
 
-**Transmission aux députés et aux partis**
+**Listes mises à la disposition des députés et partis**
 
-- **(2)** Il envoie deux copies des listes électorales définitives de chaque circonscription, dont une sous forme électronique, à chaque parti enregistré ayant soutenu un candidat lors de l’élection dans la circonscription et au député élu dans la circonscription.
+- **(2)** Il met les listes électorales définitives de chaque circonscription à la disposition, notamment sous forme électronique, de chaque parti enregistré qui a soutenu un candidat dans la circonscription et du député élu dans la circonscription lors de la dernière élection.
 
-**Copies supplémentaires**
-
-- **(3)** À la demande de tel parti ou du député, le directeur général des élections lui remet jusqu’à quatre copies imprimées supplémentaires des listes électorales définitives.
-> 2000, ch. 9, art. 109; 2001, ch. 21, art. 11.
+- **(3)** [Abrogé, 2018, ch. 31, art. 72]
+> 2000, ch. 9, art. 109; 2001, ch. 21, art. 11; 2018, ch. 31, art. 72.
 
 
 
@@ -2543,22 +2610,22 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **110** 
 
-- **(1)** Les partis enregistrés qui, au titre de l’article 45, du paragraphe 93(1.1) ou de l’article 109, obtiennent copie de listes électorales peuvent les utiliser pour communiquer avec des électeurs, notamment pour demander des contributions et recruter des membres.
+- **(1)** Les partis enregistrés à la disposition desquels les listes sont mises au titre de l’article 45, du paragraphe 93(1.1), de l’article 104.2, du paragraphe 107(4) ou de l’article 109 peuvent les utiliser pour communiquer avec des électeurs, notamment pour demander des contributions et recruter des membres.
 
 **Partis admissibles**
 
-- **(1.1)** Les partis admissibles qui, au titre du paragraphe 93(1.1), obtiennent copie de listes électorales préliminaires peuvent les utiliser pour communiquer avec des électeurs, notamment pour demander des contributions et recruter des membres.
+- **(1.1)** Les partis admissibles à la disposition desquels les listes électorales préliminaires sont mises au titre du paragraphe 93(1.1) peuvent les utiliser pour communiquer avec des électeurs, notamment pour demander des contributions et recruter des membres.
 
 **Députés**
 
-- **(2)** Les députés qui, au titre des articles 45 ou 109, obtiennent copie de listes électorales ou de listes électorales définitives peuvent les utiliser :
+- **(2)** Les députés à la disposition desquels les listes électorales ou les listes électorales définitives sont mises au titre des articles 45 ou 109 peuvent les utiliser :
 	- **a)** pour communiquer avec leurs électeurs;
 	- **b)** s’ils sont membres d’un parti enregistré, pour demander des contributions et recruter des membres pour le compte du parti.
 
 **Candidats**
 
-- **(3)** Les candidats qui, au titre des articles 94 ou 104.1 ou du paragraphe 107(3), reçoivent copie de listes électorales préliminaires, révisées ou officielles peuvent les utiliser, en période électorale, pour communiquer avec leurs électeurs, notamment pour demander des contributions et faire campagne.
-> 2000, ch. 9, art. 110; 2007, ch. 21, art. 19; 2014, ch. 12, art. 38.
+- **(3)** Les candidats à la disposition desquels sont mises les listes électorales préliminaires, révisées ou officielles au titre des articles 94 ou 104.1 ou du paragraphe 107(3), selon le cas, peuvent les utiliser, pendant la période électorale, pour communiquer avec leurs électeurs, notamment pour demander des contributions et faire campagne.
+> 2000, ch. 9, art. 110; 2007, ch. 21, art. 19; 2014, ch. 12, art. 38; 2018, ch. 31, art. 73.
 
 
 
@@ -2591,19 +2658,21 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-### Liste des scrutateurs
+### Liste des fonctionnaires électoraux
 
 
 
-**Transmission aux candidats**
+**Liste des fonctionnaires électoraux à la disposition des candidats**
 
 **112** 
 
-- **(1)** Au moins trois jours avant le jour du scrutin, le directeur du scrutin doit fournir à chaque candidat ou à son représentant et afficher dans son bureau la liste des noms et adresses de tous les scrutateurs et greffiers du scrutin nommés pour la circonscription, avec le numéro du bureau de scrutin attribué à chacun.
+- **(1)** Au moins trois jours avant le jour du scrutin, le directeur du scrutin doit afficher dans son bureau et mettre à la disposition de chaque candidat ou de son représentant la liste des noms de tous les fonctionnaires électoraux nommés pour la circonscription qui sont affectés à un bureau de scrutin, avec une indication du bureau auquel chacun est affecté.
 
 **Accès à la liste**
 
 - **(2)** Il doit permettre à toute personne intéressée de consulter cette liste et lui offrir toutes occasions de l’examiner à toute heure convenable.
+> 2000, ch. 9, art. 112; 2018, ch. 31, art. 76.
+
 
 
 
@@ -2614,7 +2683,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Transmission aux directeurs du scrutin**
 
-**113** Dans les meilleurs délais après la délivrance du bref, ou avant celle-ci, le directeur général des élections transmet en quantité suffisante au directeur du scrutin le matériel électoral et les instructions nécessaires pour que les fonctionnaires électoraux puissent exercer leurs fonctions.
+**113** Dans les meilleurs délais après la délivrance du bref, ou avant celle-ci, le directeur général des élections transmet en quantité suffisante au directeur du scrutin le matériel électoral et les instructions nécessaires pour que les fonctionnaires électoraux puissent exercer leurs attributions.
+> 2000, ch. 9, art. 113; 2018, ch. 31, art. 77.
+
 
 
 
@@ -2627,7 +2698,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Modèle**
 
-- **(2)** Les urnes doivent être faites du matériau et selon le modèle déterminés par le directeur général des élections et fabriquées de manière à permettre aux directeurs du scrutin et scrutateurs d’y apposer leurs sceaux.
+- **(2)** Les urnes doivent être faites du matériau et selon le modèle déterminés par le directeur général des élections et fabriquées de manière à permettre aux directeurs du scrutin et autres fonctionnaires électoraux d’y apposer leurs sceaux.
+> 2000, ch. 9, art. 114; 2018, ch. 31, art. 78.
+
 
 
 
@@ -2680,13 +2753,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **117** 
 
-- **(1)** Les bulletins de vote doivent contenir les noms des candidats, suivant l’ordre alphabétique, tels qu’ils apparaissent sur les actes de candidature des candidats.
+- **(1)** Les bulletins de vote doivent contenir, suivant l’ordre alphabétique, les noms des candidats visés aux sous-alinéas 66(1)a)(i) ou (i.1), selon le cas, tels qu’ils apparaissent sur les actes de candidature des candidats.
 
 **Nom du parti**
 
 - **(2)** Les bulletins de vote mentionnent, sous le nom du candidat, le nom, dans la forme précisée à l’alinéa 385(2)b), du parti politique qui le soutient si les conditions suivantes sont remplies :
 	- **a)** le candidat l’a mentionné dans son acte de candidature;
-	- **b)** l’acte prévu à l’alinéa 67(4)c) a été présenté;
+	- **b)** les renseignements visés au paragraphe 68(3) ont été fournis à l’égard du candidat conformément aux modalités qui y sont prévues;
 	- **c)** au plus tard dans les quarante-huit heures suivant la clôture des candidatures, le parti est enregistré.
 	- **d)** [Abrogé, 2004, ch. 24, art. 2]
 
@@ -2699,7 +2772,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Mention de l’adresse ou de la profession**
 
 - **(5)** Dans les cas où au moins deux candidats ont le même nom et ont indiqué leur intention d’être désignés par la mention « indépendant(e) » ou de n’avoir aucune désignation de parti dans le cadre du sous-alinéa 66(1)a)(v), les bulletins de vote mentionnent l’adresse ou la profession de ces candidats s’ils en font la demande par écrit au directeur du scrutin avant 17 h le jour de clôture.
-> 2000, ch. 9, art. 117; 2001, ch. 21, art. 12; 2004, ch. 24, art. 2; 2007, ch. 21, art. 20; 2014, ch. 12, art. 40; 2018, ch. 31, art. 80(F).
+> 2000, ch. 9, art. 117; 2001, ch. 21, art. 12; 2004, ch. 24, art. 2; 2007, ch. 21, art. 20; 2014, ch. 12, art. 40; 2018, ch. 31, art. 80.
 
 
 
@@ -2712,127 +2785,90 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-### Matériel électoral à fournir aux scrutateurs
+### Matériel électoral à fournir aux fonctionnaires électoraux
 
 
 
-**Éléments à fournir aux scrutateurs**
+**Éléments à fournir aux fonctionnaires électoraux**
 
 **119** 
 
-- **(1)** Le directeur du scrutin remet à chaque scrutateur de sa circonscription, avant le début du scrutin :
-	- **a)** un nombre suffisant de bulletins de vote pour le nombre d’électeurs inscrits sur la liste électorale officielle de son bureau de scrutin;
+- **(1)** Avant le début du scrutin, le directeur du scrutin fournit aux fonctionnaires électoraux qui sont affectés à un bureau de scrutin de sa circonscription, en conformité avec les instructions du directeur général des élections :
+	- **a)** un nombre suffisant de bulletins de vote pour le nombre d’électeurs inscrits sur la liste électorale officielle du bureau de scrutin;
 	- **b)** un document donnant le nombre de bulletins de vote fournis et leurs numéros de série;
 	- **c)** le matériel nécessaire aux électeurs pour marquer leur bulletin de vote;
 	- **d)** un nombre suffisant de gabarits fournis par le directeur général des élections pour permettre aux électeurs ayant une déficience visuelle de marquer leur bulletin de vote sans assistance;
 	- **e)** un exemplaire des instructions du directeur général des élections visées à l’article 113;
-	- **f)** la liste électorale officielle à utiliser à son bureau de scrutin, qu’il place si possible dans l’urne avec les bulletins de vote et autres accessoires;
+	- **f)** la liste électorale officielle à utiliser au bureau de scrutin, qu’il place si possible dans l’urne avec les bulletins de vote et autres accessoires;
 	- **g)** une urne pour le jour du scrutin et une urne distincte pour chaque jour de vote par anticipation;
 	- **h)** le texte des divers serments à faire prêter aux électeurs;
 	- **i)** les enveloppes nécessaires et les formulaires et autres accessoires que le directeur général des élections peut autoriser ou fournir.
 
 **Garde des bulletins de vote, etc.**
 
-- **(2)** Jusqu’à l’ouverture du scrutin, chaque scrutateur est responsable de tout le matériel électoral en sa possession, prend toutes les précautions pour sa bonne garde et empêche qui que ce soit d’y avoir illégalement accès.
-> 2000, ch. 9, art. 119; 2014, ch. 12, art. 41.
+- **(2)** Jusqu’à l’ouverture du scrutin, les fonctionnaires électoraux sont responsables de tout le matériel électoral en leur possession et ils prennent toutes les précautions pour assurer sa bonne garde et empêcher qui que ce soit d’y avoir illégalement accès.
+> 2000, ch. 9, art. 119; 2014, ch. 12, art. 41; 2018, ch. 31, art. 82.
 
 
 
 
 
-### Bureaux de scrutin et centres de scrutin
+### Bureaux de scrutin
 
 
 
 **Établissement**
 
-**120** 
-
-- **(1)** Le directeur du scrutin établit, pour le jour du scrutin, un bureau de scrutin par section de vote.
-
-**Bureaux multiples**
-
-- **(2)** Au plus tard trois jours précédant le jour du scrutin, le directeur du scrutin peut, avec l’agrément du directeur général des élections, établir plusieurs bureaux de scrutin pour une même section de vote s’il l’estime nécessaire pour le déroulement du vote en raison du nombre d’électeurs inscrits; les bureaux de scrutin sont alors désignés par le numéro de la section de vote, auquel sont ajoutées les lettres A, B, C et ainsi de suite.
-
-**Division des listes**
-
-- **(3)** Le cas échéant, il divise la liste électorale officielle en autant de listes distinctes qu’il faut pour la tenue du scrutin à chaque bureau de scrutin qui est établi dans la section de vote.
-
-**Certificat du directeur du scrutin**
-
-- **(4)** Avant d’envoyer chaque partie de la liste au scrutateur du bureau de scrutin où elle doit être utilisée pour le vote le jour du scrutin, le directeur du scrutin y annexe, signé de sa main et selon le formulaire prescrit, un certificat attestant son exactitude.
+**120** Pour le jour du scrutin, le directeur du scrutin établit des bureaux de scrutin et rattache chaque section de vote à un bureau de scrutin.
+> 2000, ch. 9, art. 120; 2018, ch. 31, art. 83.
 
 
 
 
-**Accès de plain-pied**
+
+**Accès**
 
 **121** 
 
-- **(1)** Le bureau de scrutin doit fournir un accès de plain-pied.
+- **(1)** Le bureau de scrutin doit être situé dans un local qui est accessible aux électeurs ayant une déficience.
 
 **Exception**
 
-- **(2)** Lorsque le directeur du scrutin est incapable d’obtenir un local convenable avec accès de plain-pied, il peut, avec l’agrément du directeur général des élections, établir un bureau de scrutin dans un local qui en est dépourvu.
+- **(2)** Lorsqu’il est incapable d’obtenir un local convenable qui est accessible aux électeurs ayant une déficience, le directeur du scrutin peut, avec l’agrément préalable du directeur général des élections, établir le bureau de scrutin dans un local qui n’est pas ainsi accessible.
 
 **Isoloirs**
 
-- **(3)** Un ou deux isoloirs doivent être aménagés dans chaque bureau de scrutin et être disposés de manière que chaque électeur soit soustrait à la vue et puisse marquer son bulletin de vote sans intervention ni interruption.
+- **(3)** Un nombre suffisant d’isoloirs doivent être aménagés dans chaque bureau de scrutin et être disposés de manière que chaque électeur soit soustrait à la vue et puisse marquer son bulletin de vote sans intervention ni interruption.
 
 **Table ou pupitre**
 
 - **(4)** Pour permettre à l’électeur de marquer son bulletin de vote, chaque isoloir doit être pourvu d’une table ou d’un pupitre à surface dure et unie et d’un crayon à mine noire.
+> 2000, ch. 9, art. 121; 2018, ch. 31, art. 84.
 
 
 
-
-**Bureau de scrutin dans une section de vote adjacente**
 
 **122** 
 
-- **(1)** Lorsque le directeur du scrutin est incapable d’obtenir un local convenable pour le bureau de scrutin dans une section de vote, il peut établir un bureau de scrutin dans une section de vote adjacente; le cas échéant, la présente loi s’applique à ce bureau de scrutin comme s’il se trouvait dans les limites de la section de vote à laquelle il appartient.
+- **(1)** [Abrogé, 2018, ch. 31, art. 85]
 
 **Bureau de scrutin dans une école ou un autre édifice public**
 
-- **(2)** Il doit autant que possible établir un bureau de scrutin dans une école ou un autre édifice public convenable et situer le bureau de scrutin ou le centre de scrutin dans un local ou dans des locaux de l’édifice qui seront faciles d’accès pour les électeurs.
+- **(2)** Le directeur du scrutin doit autant que possible établir les bureaux de scrutin dans les écoles ou autres édifices publics convenables.
 
 **Édifice fédéral**
 
 - **(3)** Il peut exiger du fonctionnaire responsable d’un édifice dont le gouvernement du Canada est le propriétaire ou l’occupant qu’il mette l’édifice à sa disposition pour qu’un bureau de scrutin puisse y être établi. Le fonctionnaire doit alors prendre toutes les mesures raisonnables pour satisfaire à cette demande.
+> 2000, ch. 9, art. 122; 2018, ch. 31, art. 85.
 
 
 
 
-**Centre de scrutin**
-
-**123** 
-
-- **(1)** Le directeur du scrutin peut, s’il l’estime indiqué, regrouper dans un centre de scrutin plusieurs bureaux de scrutin.
-
-**Maximum**
-
-- **(2)** Le centre de scrutin ne peut toutefois comprendre plus de dix bureaux de scrutin que si le directeur général des élections l’a autorisé au préalable.
-
-**Présomption**
-
-- **(3)** La présente loi s’applique au centre de scrutin comme si chacun des bureaux de scrutin qui s’y trouvent était situé dans les limites de la section de vote à laquelle il appartient.
-> 2000, ch. 9, art. 123; 2014, ch. 12, art. 42.
+**123** [Abrogé, 2018, ch. 31, art. 86]
 
 
 
-
-
-**Préposé à l’information et personne responsable du maintien de l’ordre**
-
-**124** 
-
-- **(1)** Lorsqu’il établit un centre de scrutin, le directeur du scrutin peut, avec l’agrément du directeur général des élections, nommer :
-	- **a)** un préposé à l’information chargé de communiquer des renseignements aux électeurs;
-	- **b)** une personne responsable du maintien de l’ordre.
-
-**Superviseur**
-
-- **(2)** Si le centre de scrutin comprend au moins quatre bureaux de scrutin, le directeur du scrutin peut nommer, pour tout le jour du scrutin, un superviseur de centre de scrutin chargé de surveiller le déroulement du vote et de l’informer de tout ce qui pourrait entraver celui-ci.
+**124** [Abrogé, 2018, ch. 31, art. 86]
 
 
 
@@ -2862,16 +2898,20 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **125.1** 
 
-- **(1)** Le directeur du scrutin communique par écrit l’adresse des bureaux de scrutin de la circonscription à chaque candidat de sa circonscription ainsi qu’à chaque parti politique qui y soutient un candidat. Il transmet ce renseignement le jour de la confirmation de la candidature du candidat ou, s’il est postérieur, le vingt-quatrième jour précédant le jour du scrutin. Il le transmet également par la même occasion sous forme électronique.
+- **(1)** Le directeur du scrutin et le directeur général des élections mettent l’adresse des bureaux de scrutin de la circonscription à la disposition respectivement de chaque candidat de la circonscription et de chaque parti politique qui y soutient un candidat, et ce, le jour de la confirmation de la candidature du candidat ou, s’il est postérieur, le vingt-quatrième jour précédant le jour du scrutin. Par la même occasion, ils mettent à leur disposition des cartes de la circonscription indiquant les limites de chacune des sections de vote et l’emplacement de chacun des bureaux de scrutin.
 
 **Avis de changement : jusqu’au cinquième jour précédant le jour du scrutin**
 
-- **(2)** S’il survient un changement à l’adresse d’un bureau de scrutin de la circonscription le cinquième jour précédant le jour du scrutin ou avant ce cinquième jour, le directeur du scrutin en avise sans délai par écrit les candidats et les partis politiques. Il leur transmet également par la même occasion ce renseignement sous forme électronique.
+- **(2)** S’il survient un changement à l’adresse d’un bureau de scrutin de la circonscription le cinquième jour précédant le jour du scrutin ou avant ce cinquième jour, le directeur du scrutin et le directeur général des élections mettent sans délai ce renseignement à la disposition respectivement des candidats et des partis politiques. Par la même occasion, ils mettent à leur disposition une carte de la circonscription indiquant le nouvel emplacement du bureau de scrutin.
+
+**Cartes des circonscriptions disponibles sous forme électronique**
+
+- **(2.1)** Les cartes qui sont mises à la disposition des partis politiques par le directeur général des élections au titre des paragraphes (1) et (2) le sont notamment sous forme électronique.
 
 **Avis de changement : après le cinquième jour précédant le jour du scrutin**
 
-- **(3)** S’il survient un changement à l’adresse d’un bureau de scrutin de la circonscription après le cinquième jour précédant le jour du scrutin, le directeur du scrutin en avise sans délai les candidats et les partis politiques.
-> 2014, ch. 12, art. 43.
+- **(3)** S’il survient un changement à l’adresse d’un bureau de scrutin de la circonscription après le cinquième jour précédant le jour du scrutin, le directeur du scrutin et le directeur général des élections mettent sans délai ce renseignement à la disposition respectivement des candidats et des partis politiques.
+> 2014, ch. 12, art. 43; 2018, ch. 31, art. 87.
 
 
 
@@ -3010,31 +3050,33 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **135** 
 
 - **(1)** Peuvent seuls se trouver dans le bureau de scrutin, le jour du scrutin :
-	- **a)** le scrutateur et le greffier du scrutin;
-	- **b)** le directeur du scrutin et tout représentant de celui-ci;
+	- **a)** les agents de liaison locaux;
+	- **b)** le directeur du scrutin, son représentant et tout membre de son personnel qu’il autorise à s’y trouver;
+	- **b.1)** les fonctionnaires électoraux que le directeur du scrutin autorise à s’y trouver;
 	- **c)** les candidats;
 	- **d)** deux représentants de chaque candidat ou, à défaut de représentants, deux électeurs pour représenter chaque candidat;
 	- **e)** les électeurs et les personnes qui les aident dans le cadre du paragraphe 155(1), le temps qu’il faut pour voter;
 	- **f)** les observateurs et les membres du personnel du directeur général des élections que celui-ci autorise à s’y trouver;
-	- **g)** toute personne nommée en vertu de l’article 32.1;
-	- **h)** si le bureau de scrutin se trouve dans une section de vote d’une circonscription où un des chefs d’un parti enregistré est candidat, les représentants des médias qui sont autorisés par écrit par le directeur général des élections, aux conditions qu’il estime indiquées pour protéger l’intégrité du vote et la vie privée des personnes qui se trouvent au bureau de scrutin, à être présents et à faire des enregistrements sonores ou vidéo ou à prendre des photographies du vote des candidats.
+	- **g)** [Abrogé, 2018, ch. 31, art. 88]
+	- **h)** si une section de vote d’une circonscription où un des chefs d’un parti enregistré est candidat est rattachée au bureau de scrutin, les représentants des médias qui sont autorisés par écrit par le directeur général des élections, aux conditions qu’il estime indiquées pour protéger l’intégrité du vote et la vie privée des personnes qui se trouvent au bureau de scrutin, à être présents et à faire des enregistrements sonores ou vidéo ou à prendre des photographies du vote des candidats;
+	- **i)** le vérificateur visé à l’article 164.1.
 
 **Remise de l’autorisation du représentant**
 
-- **(2)** Dès son admission au bureau de scrutin, chaque représentant remet au scrutateur une autorisation écrite, selon le formulaire prescrit, du candidat ou de l’agent officiel du candidat.
+- **(2)** Dès son admission au bureau de scrutin, chaque représentant remet à un fonctionnaire électoral affecté à ce bureau une autorisation écrite, selon le formulaire prescrit, du candidat ou de l’agent officiel du candidat ou une copie de cette autorisation.
 
 **Représentant autorisé par écrit**
 
-- **(3)** Le représentant porteur de l’autorisation visée au paragraphe (2) est réputé être un représentant du candidat pour l’application de la présente loi et il a le droit de représenter le candidat de préférence à un électeur qui pourrait par ailleurs réclamer le droit de représenter le candidat et à l’exclusion de cet électeur.
+- **(3)** Le représentant porteur de l’autorisation visée au paragraphe (2) ou de la copie de celle-ci est un représentant du candidat pour l’application de la présente loi et il a le droit de représenter le candidat à l’exclusion de tout électeur qui pourrait par ailleurs réclamer le droit de représenter le candidat.
 
-**Serment**
+**Déclaration solennelle**
 
-- **(4)** Les représentants d’un candidat ou les électeurs visés à l’alinéa (1)d), lors de leur admission au bureau de scrutin, doivent prêter le serment prescrit.
+- **(4)** Les représentants d’un candidat ou les électeurs visés à l’alinéa (1)d), lors de leur admission au bureau de scrutin, font une déclaration solennelle selon le formulaire prescrit.
 
-**Serment**
+**Déclaration solennelle**
 
-- **(5)** Les représentants d’un candidat nommés pour plus d’un bureau de scrutin regroupés ou non dans un centre de scrutin sont tenus, avant leur admission au premier bureau de scrutin, de prêter le serment prescrit devant le superviseur de centre de scrutin ou devant le scrutateur de ce bureau de scrutin. Ils ne sont toutefois pas tenus par la suite de prêter serment de nouveau lors de leur admission aux autres bureaux de scrutin de la même circonscription dans la mesure où ils présentent un document, selon le formulaire prescrit, prouvant qu’ils ont déjà prêté serment.
-> 2000, ch. 9, art. 135; 2014, ch. 12, art. 44.
+- **(5)** Les représentants d’un candidat nommés pour plus d’un bureau de scrutin sont tenus, avant leur admission au premier bureau de scrutin, de faire une déclaration solennelle, selon le formulaire prescrit, devant un fonctionnaire électoral affecté à ce bureau. Ils ne sont toutefois pas tenus par la suite de la faire de nouveau lors de leur admission aux autres bureaux de scrutin de la même circonscription dans la mesure où ils présentent un document, selon le formulaire prescrit, prouvant qu’ils l’ont déjà fait.
+> 2000, ch. 9, art. 135; 2014, ch. 12, art. 44; 2018, ch. 31, art. 88.
 
 
 
@@ -3048,7 +3090,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Possibilité pour les représentants de s’absenter**
 
-- **(2)** Les représentants d’un candidat ou les électeurs visés à l’alinéa 135(1)d) peuvent à tout moment sortir du bureau de scrutin et, tant que le dépouillement n’a pas commencé, y revenir; à leur retour, ils ne sont pas tenus de présenter une nouvelle autorisation écrite ni de prêter un autre serment.
+- **(2)** Les représentants d’un candidat ou les électeurs visés à l’alinéa 135(1)d) peuvent à tout moment sortir du bureau de scrutin et, tant que le dépouillement n’a pas commencé, y revenir; à leur retour, ils ne sont pas tenus de présenter une nouvelle autorisation écrite ou une copie de celle-ci ni de faire une autre déclaration solennelle.
 
 **Déplacement d’un bureau de scrutin à un autre**
 
@@ -3065,7 +3107,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 - **(4)** Le représentant d’un candidat :
 	- **a)** ne peut prendre de photographies ou faire d’enregistrements sonores ou vidéo à un bureau de scrutin;
 	- **b)** ne peut, dans le cas où il utilise un appareil de communication au bureau de scrutin, entraver l’exercice du droit de vote d’un électeur ni enfreindre le secret du vote.
-> 2000, ch. 9, art. 136; 2014, ch. 12, art. 45.
+> 2000, ch. 9, art. 136; 2014, ch. 12, art. 45; 2018, ch. 31, art. 89.
 
 
 
@@ -3084,19 +3126,21 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Paraphe du scrutateur**
+**Paraphe du fonctionnaire électoral**
 
 **138** 
 
-- **(1)** Avant l’ouverture du bureau de scrutin, le jour du scrutin, le scrutateur, sous le regard des candidats et des représentants qui sont sur les lieux, paraphe de la même façon, entièrement à l’encre ou entièrement à la mine noire, le verso de chaque bulletin de vote à l’endroit indiqué sur le formulaire 3 de l’annexe 1, de manière que ses initiales puissent être vues lorsque le bulletin de vote est plié.
+- **(1)** Avant l’ouverture du bureau de scrutin, le jour du scrutin, un fonctionnaire électoral affecté à ce bureau, sous le regard des candidats et des représentants qui sont sur les lieux, paraphe de la même façon, entièrement à l’encre ou entièrement à la mine noire, le verso de chaque bulletin de vote à l’endroit indiqué sur le formulaire 3 de l’annexe 1, de manière que ses initiales puissent être vues lorsque le bulletin de vote est plié.
 
 **Interdiction de défaire le carnet**
 
-- **(2)** Le scrutateur appose son paraphe sans détacher le bulletin de vote du carnet.
+- **(2)** Le fonctionnaire électoral appose son paraphe sans détacher le bulletin de vote du carnet.
 
 **Cas de manque de temps**
 
-- **(3)** L’apposition du paraphe ne peut avoir pour effet de retarder l’ouverture du scrutin; s’il n’a pas paraphé tous les bulletins de vote à l’heure d’ouverture, le scrutateur le fait le plus tôt possible, avant de remettre les bulletins aux électeurs.
+- **(3)** L’apposition du paraphe ne peut avoir pour effet de retarder l’ouverture du scrutin; s’il n’a pas paraphé tous les bulletins de vote à l’heure d’ouverture, le fonctionnaire électoral le fait dans les meilleurs délais, avant de remettre les bulletins aux électeurs.
+> 2000, ch. 9, art. 138; 2018, ch. 31, art. 90.
+
 
 
 
@@ -3110,9 +3154,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Examen de l’urne et apposition des sceaux**
 
-**140** À l’ouverture du bureau de scrutin, le scrutateur, sous le regard des candidats et des représentants qui sont sur les lieux, ouvre l’urne, s’assure qu’elle est vide et, ensuite :
+**140** À l’ouverture du bureau de scrutin, un fonctionnaire électoral affecté à ce bureau, sous le regard des candidats et des représentants qui sont sur les lieux, ouvre l’urne, s’assure qu’elle est vide et, ensuite :
 - **a)** la scelle au moyen de sceaux fournis par le directeur général des élections;
 - **b)** la place sur une table, bien en vue des personnes présentes, et l’y laisse jusqu’à la fermeture du bureau de scrutin.
+> 2000, ch. 9, art. 140; 2018, ch. 31, art. 91.
+
 
 
 
@@ -3123,20 +3169,18 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Appel des électeurs**
 
-**141** Dès que l’urne est scellée, le scrutateur invite les électeurs à voter.
+**141** Dès que l’urne est scellée, un fonctionnaire électoral affecté au bureau de scrutin invite les électeurs à voter.
+> 2000, ch. 9, art. 141; 2018, ch. 31, art. 92.
+
 
 
 
 
 **Obligation de faciliter l’entrée**
 
-**142** 
+**142** Un fonctionnaire électoral affecté au bureau de scrutin doit faciliter l’entrée de chaque électeur dans le bureau et veiller à ce que les électeurs ne soient pas gênés à l’intérieur, non plus qu’aux abords du bureau.
+> 2000, ch. 9, art. 142; 2018, ch. 31, art. 92.
 
-- **(1)** Le scrutateur doit faciliter l’entrée de chaque électeur dans le bureau de scrutin et veiller à ce que les électeurs ne soient pas gênés à l’intérieur, non plus qu’aux abords du bureau.
-
-**Un électeur à la fois**
-
-- **(2)** Le scrutateur peut, s’il le juge opportun, ordonner qu’un seul électeur par isoloir soit présent dans la salle de scrutin.
 
 
 
@@ -3145,40 +3189,43 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **143** 
 
-- **(1)** À son arrivée au bureau de scrutin, chaque électeur décline ses nom et adresse au scrutateur et au greffier du scrutin et, sur demande, au représentant d’un candidat ou au candidat lui-même.
+- **(1)** Afin d’obtenir un bulletin de vote, chaque électeur décline ses nom et adresse à un fonctionnaire électoral affecté au bureau de scrutin et, sur demande, au représentant d’un candidat ou au candidat lui-même.
 
 **Vérification de l’identité et de la résidence**
 
-- **(2)** Le greffier du scrutin s’assure que le nom et l’adresse de l’électeur figurent sur la liste électorale ou que l’électeur est admis à voter au titre des articles 146, 147, 148 ou 149; l’électeur présente alors au scrutateur et au greffier du scrutin les documents ci-après pour établir son identité et, sous réserve du paragraphe (3), sa résidence :
+- **(2)** Si le fonctionnaire électoral détermine que le nom et l’adresse de l’électeur figurent sur la liste électorale ou que l’électeur est admis à voter au titre des articles 146, 147, 148 ou 149, l’électeur, sous réserve du paragraphe (3), lui présente les documents ci-après pour établir son identité et sa résidence :
 	- **a)** soit une pièce d’identité délivrée par un gouvernement canadien, fédéral ou provincial, une administration locale ou l’un de leurs organismes et comportant sa photographie, son nom et son adresse;
 	- **b)** soit deux pièces d’identité, d’un type autorisé en vertu du paragraphe (2.1), qui, toutes deux, établissent son nom et dont au moins une établit son adresse.
 
 **Autorisation de types d’identification**
 
-- **(2.1)** Pour l’application de l’alinéa (2)b), le directeur général des élections peut autoriser les types d’identification. Il est entendu qu’il peut autoriser tout document, indépendamment de son auteur, sauf l’avis de confirmation d’inscription envoyé au titre des articles 95 ou 102.
+- **(2.1)** Pour l’application de l’alinéa (2)b), le directeur général des élections peut autoriser les types d’identification. Il est entendu qu’il peut autoriser tout document, sans égard à son auteur.
 
 **Personne inscrite à titre d’Indien**
 
 - **(2.2)** Pour l’application de l’alinéa (2)b), un document délivré par le gouvernement du Canada certifiant qu’une personne est inscrite à titre d’Indien sous le régime de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) constitue une pièce d’identité autorisée.
 
-**Autre preuve de résidence**
+**Déclaration solennelle**
 
-- **(3)** L’électeur qui établit son identité en présentant deux pièces d’identité, d’un type autorisé en vertu du paragraphe (2.1), établissant son nom peut établir sa résidence en prêtant serment par écrit selon le formulaire prescrit, lequel comporte une déclaration portant qu’il a reçu l’avis verbal prévu au paragraphe 143.1(1), s’il est accompagné d’un autre électeur dont le nom figure sur la liste électorale de la même section de vote, si cet autre électeur, à la fois :
-	- **a)** établit sa propre identité et sa propre résidence au scrutateur et au greffier du scrutin en présentant la ou les pièces d’identité visées aux alinéas (2)a) ou b);
-	- **b)** atteste de la résidence de l’électeur en prêtant serment par écrit selon le formulaire prescrit, lequel comporte les déclarations suivantes :
-		- **(i)** il a reçu l’avis verbal prévu au paragraphe 143.1(2),
-		- **(ii)** il connaît personnellement l’électeur,
-		- **(iii)** il sait que l’électeur réside dans la section de vote,
-		- **(iv)** il n’a pas attesté de la résidence d’un autre électeur à l’élection,
-		- **(v)** sa propre résidence n’a pas fait l’objet d’une attestation par un autre électeur à l’élection.
+- **(3)** L’électeur peut établir son identité et sa résidence en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(1), s’il est accompagné d’un autre électeur dont le nom figure sur la liste électorale du même bureau de scrutin et qui, à la fois :
+	- **a)** présente au fonctionnaire électoral visé au paragraphe (1) la ou les pièces d’identité visées aux alinéas (2)a) ou b);
+	- **b)** répond de l’électeur en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(2).
+
+**Répondre d’un électeur résidant dans un établissement de soins de longue durée**
+
+- **(3.01)** Lorsque l’électeur qui souhaite établir son identité et sa résidence au titre du paragraphe (3) réside dans un établissement où résident des personnes âgées ou ayant une déficience, l’autre électeur qui l’accompagne visé à ce paragraphe peut être un employé de l’établissement dont la résidence habituelle se situe, malgré ce paragraphe, dans toute section de vote de la circonscription de l’électeur ou d’une circonscription adjacente.
+
+**Définition d’employé**
+
+- **(3.02)** Au paragraphe (3.01), ***employé*** s’entend notamment du propriétaire d’un établissement ou d’une personne qui occupe un poste de gestion au sein d’un tel établissement.
 
 **Preuve de résidence**
 
 - **(3.1)** Si l’adresse qui figure sur les pièces d’identité fournies aux termes du paragraphe (2) ou de l’alinéa (3)a) n’établit pas la résidence de l’électeur, mais qu’elle concorde avec les renseignements figurant à l’égard de celui-ci sur la liste électorale, la résidence de l’électeur est réputée avoir été établie.
 
-**Demande de prestation de serment**
+**Demande : déclaration solennelle**
 
-- **(3.2)** Malgré le paragraphe (3.1), le scrutateur, le greffier du scrutin ou le candidat ou son représentant qui a des doutes raisonnables au sujet de la résidence de l’électeur peut lui demander de prêter le serment prescrit. La résidence n’est alors réputée établie que si la personne prête le serment.
+- **(3.2)** Malgré le paragraphe (3.1), s’il a des doutes raisonnables au sujet de la résidence de l’électeur, le fonctionnaire électoral visé au paragraphe (1) ou le candidat ou son représentant peut lui demander de faire par écrit la déclaration solennelle visée au paragraphe 549.1(1). La résidence n’est alors réputée établie que si l’électeur fait la déclaration solennelle.
 
 **Examen des pièces d’identité**
 
@@ -3186,20 +3233,16 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Électeur admis à voter**
 
-- **(4)** Si le scrutateur est convaincu que l’identité et la résidence de l’électeur ont été établies conformément aux paragraphes (2) ou (3), le nom de l’électeur est biffé de la liste et, sous réserve de l’article 144, il est immédiatement admis à voter.
+- **(4)** Si le fonctionnaire électoral est convaincu que l’identité et la résidence de l’électeur ont été établies conformément aux paragraphes (2), (3), (3.1) ou (3.2), le nom de l’électeur est biffé de la liste et, sous réserve de l’article 144, il est immédiatement admis à voter.
 
-**Interdiction : attester de la résidence de plus d’un électeur**
+- **(5)** [Abrogé, 2018, ch. 31, art. 93]
 
-- **(5)** Il est interdit à un électeur d’attester de la résidence de plus d’un électeur à une élection.
-
-**Interdiction : attester d’une résidence (propre résidence attestée)**
-
-- **(6)** Il est interdit à l’électeur pour lequel un autre électeur a attesté de sa propre résidence d’attester de la résidence d’un autre électeur à la même élection.
+- **(6)** [Abrogé, 2018, ch. 31, art. 93]
 
 **Publication**
 
 - **(7)** Chaque année et dans les trois jours suivant la date de délivrance du bref, le directeur général des élections publie, selon les modalités qu’il estime indiquées, un avis indiquant les types de pièces autorisés pour l’application de l’alinéa (2)b). Le premier avis annuel est publié au plus tard six mois après l’entrée en vigueur du présent paragraphe.
-> 2000, ch. 9, art. 143; 2007, ch. 21, art. 21, ch. 37, art. 1; 2014, ch. 12, art. 46; 2018, ch. 31, art. 93(A).
+> 2000, ch. 9, art. 143; 2007, ch. 21, art. 21, ch. 37, art. 1; 2014, ch. 12, art. 46; 2018, ch. 31, art. 93.
 
 
 
@@ -3209,12 +3252,12 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **143.1** 
 
-- **(1)** Si une personne décide d’établir sa résidence en prêtant serment par écrit selon le formulaire prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé des conditions à remplir pour acquérir la qualité d’électeur et de la peine pouvant être infligée en vertu de la présente loi à quiconque est déclaré coupable d’avoir voté ou tenté de voter à une élection, sachant qu’il n’a pas la qualité d’électeur, ou à quiconque contrevient au paragraphe 549(3).
+- **(1)** Si une personne décide d’établir son identité et sa résidence en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(1), un fonctionnaire électoral l’avise par écrit, avant qu’elle ne fasse la déclaration solennelle, des conditions à remplir pour acquérir la qualité d’électeur et de la peine pouvant être infligée en vertu de la présente loi à quiconque est déclaré coupable d’avoir voté ou tenté de voter à une élection, sachant qu’il n’a pas la qualité d’électeur, ou à quiconque contrevient au paragraphe 549(3).
 
-**Avis préalable : attestation de résidence**
+**Avis préalable : répondant**
 
-- **(2)** Si une personne décide d’attester de la résidence d’un électeur en prêtant serment par écrit selon le formulaire prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 143(5) ou (6) ou 549(3).
-> 2007, ch. 21, art. 21; 2014, ch. 12, art. 47.
+- **(2)** Si une personne décide de répondre d’un électeur en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(2), un fonctionnaire électoral l’avise par écrit, avant qu’elle ne fasse la déclaration solennelle, de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 282.1(1), (2) ou (3) ou 549(3).
+> 2007, ch. 21, art. 21; 2014, ch. 12, art. 47; 2018, ch. 31, art. 94.
 
 
 
@@ -3222,8 +3265,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Preuve de la qualité d’électeur**
 
-**144** S’il a des doutes raisonnables sur la qualité d’électeur d’une personne qui a l’intention de voter, le scrutateur, le greffier du scrutin, le représentant du candidat ou le candidat lui-même peut lui demander de prêter le serment prescrit. La personne n’est admise à voter que si elle prête le serment.
-> 2000, ch. 9, art. 144; 2007, ch. 21, art. 21.
+**144** S’il a des doutes raisonnables sur la qualité d’électeur d’une personne qui a l’intention de voter, le fonctionnaire électoral visé au paragraphe 143(1) ou le candidat ou son représentant peut lui demander de faire par écrit la déclaration solennelle visée au paragraphe 549.1(1). La personne n’est admise à voter que si elle fait la déclaration solennelle.
+> 2000, ch. 9, art. 144; 2007, ch. 21, art. 21; 2018, ch. 31, art. 94.
 
 
 
@@ -3244,8 +3287,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Nom et adresse semblables**
 
-**146** Si la liste électorale porte un nom et une adresse ressemblant au nom et à l’adresse d’une personne qui demande un bulletin de vote, au point de donner à croire que l’inscription sur la liste électorale la concerne, la personne n’est admise à voter que si elle prête le serment prescrit.
-> 2000, ch. 9, art. 146; 2007, ch. 21, art. 22.
+**146** Si la liste électorale porte un nom et une adresse différents mais ressemblant au nom et à l’adresse d’une personne qui demande un bulletin de vote, au point de donner à croire que l’inscription sur la liste électorale la concerne, la personne n’est admise à voter que si elle fait une déclaration solennelle selon le formulaire prescrit.
+> 2000, ch. 9, art. 146; 2007, ch. 21, art. 22; 2018, ch. 31, art. 95.
 
 
 
@@ -3253,8 +3296,14 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Électeur se présentant sous le nom d’une personne ayant déjà voté**
 
-**147** Si une personne demande un bulletin de vote après qu’une autre a voté sous son nom, elle n’est admise à voter que si elle prête par écrit le serment selon le formulaire prescrit. Le formulaire indique la peine pouvant être infligée en vertu de la présente loi à quiconque est déclaré coupable d’avoir contrevenu à l’article 7 en demandant un autre bulletin de vote pour une même élection ou à l’alinéa 167(1)a) en demandant un bulletin de vote sous un nom autre que le sien.
-> 2000, ch. 9, art. 147; 2007, ch. 21, art. 22; 2014, ch. 12, art. 48.
+**147** 
+
+- **(1)** Si une personne demande un bulletin de vote après qu’une autre a voté sous son nom, elle n’est admise à voter que si elle fait par écrit la déclaration solennelle visée au paragraphe 549.1(1).
+
+**Avis préalable**
+
+- **(2)** Un fonctionnaire électoral avise par écrit la personne, avant qu’elle ne fasse la déclaration solennelle, de la peine pouvant être infligée en vertu de la présente loi à quiconque est déclaré coupable d’avoir contrevenu à l’article 281.5 en votant ou tentant de voter plus d’une fois ou à l’alinéa 281.7(1)a) en demandant un bulletin de vote ou un bulletin de vote spécial sous un nom autre que le sien.
+> 2000, ch. 9, art. 147; 2007, ch. 21, art. 22; 2014, ch. 12, art. 48; 2018, ch. 31, art. 95.
 
 
 
@@ -3262,23 +3311,23 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Nom biffé par mégarde**
 
-**148** Si l’électeur soutient que son nom a été biffé par mégarde dans le cadre des paragraphes 176(2) ou (3), l’électeur n’est admis à voter que si le directeur du scrutin constate qu’une semblable erreur a vraiment été commise ou que l’électeur prête par écrit le serment prévu à l’article 147.
-> 2000, ch. 9, art. 148; 2007, ch. 21, art. 22; 2014, ch. 12, art. 48.
+**148** S’il soutient que son nom a été biffé par mégarde dans les circonstances visées aux paragraphes 176(2) ou (3), l’électeur n’est admis à voter que si le directeur du scrutin constate qu’une semblable erreur a vraiment été commise ou que l’électeur fait par écrit la déclaration solennelle visée au paragraphe 549.1(1).
+> 2000, ch. 9, art. 148; 2007, ch. 21, art. 22; 2014, ch. 12, art. 48; 2018, ch. 31, art. 95.
 
 
 
 
 
-**Ne pas s’identifier ou prêter serment**
+**Défaut d’établir son identité ou sa résidence**
 
 **148.1** 
 
-- **(1)** L’électeur qui n’établit pas son identité ou sa résidence conformément à l’article 143 ou ne prête pas serment conformément à la présente loi ne peut recevoir de bulletin de vote ni être admis à voter.
+- **(1)** L’électeur qui n’établit pas son identité ou sa résidence conformément à l’article 143 ou ne fait pas une déclaration solennelle conformément à la présente loi ne peut recevoir de bulletin de vote ni être admis à voter.
 
-**Refus de prêter un serment non approprié**
+**Refus de faire une déclaration solennelle**
 
-- **(2)** L’électeur qui refuse de prêter serment au motif qu’il n’est pas tenu de le faire en vertu de la présente loi peut en appeler au directeur du scrutin; si celui-ci, après consultation du scrutateur ou du greffier du scrutin du bureau de scrutin, décide que l’électeur n’est effectivement pas tenu de prêter serment, il ordonne qu’il soit permis à cet électeur de voter, s’il est habile à voter.
-> 2007, ch. 21, art. 22; 2014, ch. 12, art. 49.
+- **(2)** L’électeur qui refuse de faire une déclaration solennelle au motif que la présente loi ne l’y oblige pas peut en appeler au directeur du scrutin; si celui-ci, après consultation du fonctionnaire électoral qui est d’avis que l’électeur est tenu de faire une déclaration solennelle, décide que l’électeur n’est effectivement pas tenu de la faire, il ordonne qu’il soit permis à cet électeur de voter, s’il est habile à voter.
+> 2007, ch. 21, art. 22; 2014, ch. 12, art. 49; 2018, ch. 31, art. 95.
 
 
 
@@ -3287,10 +3336,10 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Électeur non inscrit**
 
 **149** L’électeur dont le nom ne figure pas sur la liste électorale officielle du bureau de scrutin n’est admis à voter que dans l’un ou l’autre des cas suivants :
-- **a)** il remet au scrutateur un certificat de transfert obtenu en conformité avec les articles 158 ou 159 et, s’il s’agit d’un certificat délivré en vertu du paragraphe 158(2), les conditions prévues au paragraphe 158(3) sont remplies;
-- **b)** le scrutateur est convaincu, après vérification auprès du directeur du scrutin, qu’il est inscrit sur la liste électorale préliminaire ou qu’il a été inscrit comme électeur au moment de la révision;
-- **c)** il remet au scrutateur un certificat d’inscription obtenu en conformité avec le paragraphe 161(4).
-> 2000, ch. 9, art. 149; 2007, ch. 21, art. 23.
+- **a)** il remet au fonctionnaire électoral visé au paragraphe 143(1) un certificat de transfert obtenu en conformité avec les articles 158 ou 159 et, s’il s’agit d’un certificat délivré en vertu du paragraphe 158(2), les conditions prévues au paragraphe 158(3) sont remplies;
+- **b)** il remet à ce fonctionnaire électoral un certificat d’inscription obtenu en conformité avec le paragraphe 161(4).
+- **c)** [Abrogé, 2018, ch. 31, art. 96]
+> 2000, ch. 9, art. 149; 2007, ch. 21, art. 23; 2018, ch. 31, art. 96.
 
 
 
@@ -3304,11 +3353,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **150** 
 
-- **(1)** Chaque électeur admis à voter reçoit du scrutateur un bulletin de vote.
+- **(1)** Chaque électeur admis à voter reçoit du fonctionnaire électoral visé au paragraphe 143(1) un bulletin de vote au verso duquel le fonctionnaire électoral a inscrit à l’endroit indiqué sur le formulaire 3 de l’annexe 1 le numéro de la section de vote de l’électeur.
 
-**Instructions du scrutateur**
+**Instructions du fonctionnaire électoral**
 
-- **(2)** Le scrutateur explique à chaque électeur comment indiquer son choix. Il plie le bulletin de vote de manière que l’on puisse voir son paraphe et le numéro de série et demande à l’électeur de le lui remettre plié de la même manière quand il aura voté.
+- **(2)** Le fonctionnaire électoral explique à chaque électeur comment indiquer son choix. Il plie le bulletin de vote de manière que l’on puisse voir les initiales du fonctionnaire électoral qui l’a paraphé et le numéro de série et demande à l’électeur de le lui remettre plié de la même manière quand il aura voté.
+> 2000, ch. 9, art. 150; 2018, ch. 31, art. 97.
+
 
 
 
@@ -3320,15 +3371,17 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 - **(1)** Après avoir reçu son bulletin de vote, l’électeur :
 	- **a)** se rend directement dans l’isoloir;
 	- **b)** marque son bulletin en faisant, dans le cercle prévu à cette fin, à côté du nom du candidat de son choix, une croix ou toute autre inscription;
-	- **c)** plie le bulletin suivant les instructions reçues du scrutateur;
+	- **c)** plie le bulletin suivant les instructions reçues du fonctionnaire électoral;
 	- **d)** remet le bulletin à celui-ci.
 
-**Remise du bulletin au scrutateur**
+**Remise du bulletin au fonctionnaire électoral**
 
-- **(2)** Sur remise du bulletin de vote, le scrutateur procède aux opérations suivantes :
+- **(2)** Sur remise du bulletin de vote, le fonctionnaire électoral procède aux opérations suivantes :
 	- **a)** sans déplier le bulletin de vote, il constate, par l’examen de son paraphe et du numéro de série, qu’il s’agit bien du bulletin qu’il a remis à l’électeur;
 	- **b)** il détache, bien en vue de l’électeur et des autres personnes présentes, le talon et le détruit;
 	- **c)** il remet le bulletin à l’électeur pour dépôt dans l’urne ou, à la demande de l’électeur, le dépose dans l’urne.
+> 2000, ch. 9, art. 151; 2018, ch. 31, art. 98.
+
 
 
 
@@ -3337,11 +3390,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **152** 
 
-- **(1)** Si l’électeur s’est par inadvertance servi d’un bulletin de vote de manière à le rendre inutilisable, il le remet au scrutateur; celui-ci annule le bulletin de vote et le met dans une enveloppe fournie à cette fin. Il remet un autre bulletin à l’électeur.
+- **(1)** Si le bulletin de vote d’un électeur est inutilisable, il le remet au fonctionnaire électoral visé au paragraphe 143(1) qui annule le bulletin de vote, le met dans une enveloppe fournie à cette fin et remet un autre bulletin à l’électeur.
 
 **Limite**
 
 - **(2)** L’électeur ne peut recevoir qu’un seul bulletin de vote en vertu du paragraphe (1).
+> 2000, ch. 9, art. 152; 2018, ch. 31, art. 99.
+
 
 
 
@@ -3367,11 +3422,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **154** 
 
-- **(1)** À la demande d’un électeur qui ne peut lire ou a une limitation fonctionnelle qui le rend incapable de voter de la manière prévue par la présente loi, le scrutateur est tenu, en présence du greffier du scrutin, de l’assister.
+- **(1)** À la demande d’un électeur qui ne peut lire ou a une déficience qui le rend incapable de voter de la manière prévue par la présente loi, un fonctionnaire électoral affecté au bureau de scrutin est tenu, en présence d’un autre fonctionnaire électoral affecté à ce bureau, de l’assister.
 
 **Gabarit**
 
-- **(2)** Le scrutateur remet un gabarit à l’électeur ayant une déficience visuelle qui en fait la demande afin de lui permettre de marquer son bulletin de vote.
+- **(2)** Un fonctionnaire électoral affecté au bureau de scrutin remet un gabarit à l’électeur ayant une déficience visuelle qui en fait la demande afin de lui permettre de marquer son bulletin de vote.
+> 2000, ch. 9, art. 154; 2018, ch. 31, art. 100.
+
 
 
 
@@ -3382,22 +3439,18 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** L’électeur qui a besoin d’aide pour voter peut être accompagné à l’isoloir soit d’un ami, de son époux, de son conjoint de fait ou d’un parent, soit d’un parent de son époux ou de son conjoint de fait, qui l’aide à marquer son bulletin de vote.
 
-**Limite**
+- **(2)** [Abrogé, 2018, ch. 31, art. 101]
 
-- **(2)** Il est interdit d’aider à titre d’ami plus d’un électeur à marquer son bulletin de vote.
+**Déclaration solennelle**
 
-**Serment**
+- **(3)** La personne mentionnée au paragraphe (1) qui désire aider un électeur à marquer son bulletin de vote fait au préalable une déclaration solennelle, selon le formulaire prescrit, portant qu’elle :
+	- **a)** marquera le bulletin de vote conformément aux instructions de l’électeur;
+	- **b)** ne divulguera pas le vote de l’électeur;
+	- **c)** ne tentera pas d’exercer une influence sur celui-ci dans son choix;
+	- **d)** n’a pas déjà aidé, lors de l’élection en cours, une autre personne, à titre d’ami, à voter.
 
-- **(3)** La personne mentionnée au paragraphe (1) qui désire aider un électeur à marquer son bulletin de vote jure au préalable, en la forme prescrite :
-	- **a)** de se conformer aux instructions de l’électeur;
-	- **b)** de ne pas divulguer le vote de l’électeur;
-	- **c)** de ne pas tenter d’influencer celui-ci dans son choix;
-	- **d)** qu’elle n’a pas déjà aidé, lors de l’élection en cours, une autre personne, à titre d’ami, à voter.
-
-**Secret**
-
-- **(4)** Il est interdit à la personne qui aide un électeur en vertu du présent article de divulguer directement ou indirectement le vote de l’électeur.
-> 2000, ch. 9, art. 155, ch. 12, art. 40; 2018, ch. 31, art. 101(A).
+- **(4)** [Abrogé, 2018, ch. 31, art. 101]
+> 2000, ch. 9, art. 155, ch. 12, art. 40; 2018, ch. 31, art. 101.
 
 
 
@@ -3405,7 +3458,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Interprète assermenté**
 
-**156** Le scrutateur peut nommer et assermenter un interprète linguistique ou gestuel pour lui servir d’intermédiaire lorsqu’il éprouve de la difficulté à communiquer à un électeur tous les renseignements nécessaires pour que celui-ci puisse exercer son droit de vote.
+**156** Un fonctionnaire électoral affecté au bureau de scrutin peut nommer un interprète linguistique ou gestuel pour servir d’intermédiaire, à ce bureau, aux fonctionnaires électoraux lorsqu’ils éprouvent de la difficulté à communiquer à un électeur tous les renseignements nécessaires pour que celui-ci puisse exercer son droit de vote.
+> 2000, ch. 9, art. 156; 2018, ch. 31, art. 102.
+
 
 
 
@@ -3414,13 +3469,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **157** 
 
-- **(1)** Lorsqu’un bureau de scrutin a été établi dans un foyer pour personnes âgées ou un établissement pour le traitement d’affections chroniques, le scrutateur et le greffier du scrutin doivent, au moment que le scrutateur juge convenable :
+- **(1)** Lorsqu’un bureau de scrutin a été établi dans un établissement où résident des personnes âgées ou ayant une déficience, un fonctionnaire électoral affecté au bureau, au moment qu’il juge convenable :
 	- **a)** arrêter temporairement de recevoir les votes dans ce bureau;
-	- **b)** avec l’approbation du responsable du foyer ou de l’établissement, transporter l’urne, les bulletins de vote et les autres documents électoraux nécessaires de chambre en chambre, en vue de recueillir les votes des électeurs alités qui résident habituellement dans la section de vote où se trouve le foyer ou l’établissement.
+	- **b)** avec l’approbation du responsable de l’établissement, transporter l’urne, les bulletins de vote et les autres documents électoraux nécessaires de chambre en chambre, en vue de recueillir les votes des électeurs alités qui résident habituellement dans la section de vote où se trouve l’établissement.
 
 **Formalités à remplir**
 
-- **(2)** Le scrutateur doit donner toute l’assistance nécessaire à l’électeur alité pour lui permettre de voter; au plus un représentant de chaque candidat peut être présent.
+- **(2)** Un fonctionnaire électoral affecté au bureau doit donner toute l’assistance nécessaire à l’électeur alité pour lui permettre de voter; au plus un représentant de chaque candidat peut être présent.
+> 2000, ch. 9, art. 157; 2018, ch. 31, art. 103.
+
 
 
 
@@ -3437,37 +3494,35 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Autres certificats de transfert**
 
-- **(2)** Le directeur du scrutin ou le directeur adjoint du scrutin doit délivrer un certificat de transfert à toute personne dont le nom figure sur la liste électorale officielle et qui a été nommée, après le dernier jour de tenue du vote par anticipation, pour agir en qualité de fonctionnaire électoral à un autre bureau de scrutin.
+- **(2)** Un fonctionnaire électoral affecté au bureau de scrutin doit délivrer un certificat de transfert à toute personne — autre que lui-même — dont le nom figure sur la liste électorale officielle du bureau et qui a été nommée pour agir en qualité de fonctionnaire électoral à un autre bureau de scrutin de la même circonscription.
 
 **Conditions**
 
-- **(3)** Le certificat de transfert délivré au titre du paragraphe (2) n’autorise la personne à voter en conformité avec ce certificat que si, le jour du scrutin, elle exerce en fait les fonctions mentionnées dans le certificat au lieu qui y est mentionné.
+- **(3)** Le certificat de transfert délivré au titre du paragraphe (2) n’autorise la personne à voter au bureau de scrutin mentionné dans ce certificat que si, le jour du scrutin, elle exerce les attributions mentionnées dans le certificat au lieu qui y est mentionné.
 
 **Certificat de transfert à l’électeur**
 
 - **(4)** En cas de changement d’adresse du bureau de scrutin après l’expédition de l’avis de confirmation d’inscription, l’électeur qui se présente pour voter au bureau de scrutin mentionné dans l’avis a le droit de recevoir, sur demande, un certificat de transfert l’autorisant à y voter.
-> 2000, ch. 9, art. 158; 2007, ch. 21, art. 24.
+> 2000, ch. 9, art. 158; 2007, ch. 21, art. 24; 2018, ch. 31, art. 104.
 
 
 
 
 
-**Certificat de transfert pour l’électeur qui a une limitation fonctionnelle**
+**Certificat de transfert pour l’électeur ayant une déficience**
 
 **159** 
 
-- **(1)** L’électeur qui, du fait qu’il se déplace en fauteuil roulant ou a une limitation fonctionnelle, ne peut sans difficulté aller voter dans sa section de vote parce que le bureau de scrutin n’a pas d’accès de plain-pied peut demander un certificat de transfert l’autorisant à voter à un bureau de scrutin avec accès de plain-pied dans la circonscription.
+- **(1)** L’électeur qui, du fait de sa déficience, ne peut sans difficulté aller voter à son bureau de scrutin peut demander un certificat de transfert l’autorisant à voter à un autre bureau de scrutin situé dans la circonscription.
 
-**Conditions de la demande**
+**Demande**
 
-- **(2)** La demande doit être faite au directeur du scrutin ou au directeur adjoint du scrutin de la circonscription de l’électeur, selon le formulaire prescrit, et remise en personne soit par l’électeur ou un ami, l’époux, le conjoint de fait ou un parent de l’électeur, soit par un parent de son époux ou de son conjoint de fait.
+- **(2)** La demande doit être faite en conformité avec les instructions du directeur général des élections.
 
 **Délivrance**
 
-- **(3)** Le directeur du scrutin ou le directeur adjoint du scrutin délivre le certificat de transfert, selon le formulaire prescrit, et le remet à la personne qui a apporté la demande s’il est convaincu, à la fois :
-	- **a)** que le nom de l’électeur figure sur une liste électorale de la circonscription;
-	- **b)** que l’électeur réside dans une section de vote où le bureau de scrutin n’a pas d’accès de plain-pied.
-> 2000, ch. 9, art. 159, ch. 12, art. 40; 2007, ch. 21, art. 25.
+- **(3)** Un fonctionnaire électoral délivre le certificat de transfert, selon le formulaire prescrit, et le fournit à la personne qui a soumis la demande s’il est convaincu que le nom de l’électeur figure sur une liste électorale de la circonscription.
+> 2000, ch. 9, art. 159, ch. 12, art. 40; 2007, ch. 21, art. 25; 2018, ch. 31, art. 105.
 
 
 
@@ -3475,12 +3530,14 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Signature, numérotage et inscription du certificat de transfert**
 
-**160** Le directeur du scrutin ou le directeur adjoint du scrutin qui délivre un certificat de transfert doit :
+**160** Le fonctionnaire électoral qui délivre un certificat de transfert doit :
 - **a)** remplir et signer le certificat et y mentionner la date à laquelle il est délivré;
 - **b)** numéroter consécutivement les certificats, selon l’ordre de leur délivrance;
 - **c)** tenir, selon le formulaire prescrit, un registre de tous les certificats dans l’ordre de leur délivrance;
 - **d)** s’abstenir de délivrer un certificat en blanc;
-- **e)** expédier, lorsque c’est possible, une copie du certificat au scrutateur du bureau de scrutin sur la liste duquel figure le nom de l’électeur à qui le certificat a été délivré.
+- **e)** expédier, lorsque c’est possible, une copie du certificat à un fonctionnaire électoral affecté au bureau de scrutin sur la liste duquel figure le nom de l’électeur à qui le certificat a été délivré.
+> 2000, ch. 9, art. 160; 2018, ch. 31, art. 106.
+
 
 
 
@@ -3493,24 +3550,23 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **161** 
 
-- **(1)** L’électeur dont le nom ne figure pas déjà sur la liste électorale peut, le jour du scrutin, s’inscrire en personne :
-	- **a)** soit en établissant son identité et sa résidence en présentant la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
-	- **b)** soit en établissant son identité en présentant deux pièces d’identité, d’un type autorisé en vertu du paragraphe 143(2.1), qui établissent son nom, en établissant sa résidence en prêtant serment par écrit selon le formulaire prescrit — lequel comporte une déclaration portant qu’il a reçu l’avis verbal prévu au paragraphe 161.1(1) — et en étant accompagné d’un autre électeur dont le nom figure sur la liste électorale de la même section de vote et qui, à la fois :
-		- **(i)** établit sa propre identité et sa propre résidence en présentant soit la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou qui concorde avec les renseignements figurant à son égard sur la liste électorale, soit les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
-		- **(ii)** atteste de la résidence de l’électeur en prêtant serment par écrit selon le formulaire prescrit, lequel comporte les déclarations suivantes :
-			- **(A)** il a reçu l’avis verbal prévu au paragraphe 161.1(2),
-			- **(B)** il connaît personnellement l’électeur,
-			- **(C)** il sait que l’électeur réside dans la section de vote,
-			- **(D)** il n’a pas attesté de la résidence d’un autre électeur à l’élection,
-			- **(E)** sa propre résidence n’a pas fait l’objet d’une attestation par un autre électeur à l’élection.
+- **(1)** L’électeur dont le nom ne figure pas déjà sur la liste électorale peut, le jour du scrutin, s’inscrire en personne auprès d’un fonctionnaire électoral s’il établit son identité et sa résidence :
+	- **a)** soit en présentant la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
+	- **b)** soit en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(1), s’il est accompagné d’un autre électeur dont le nom figure sur la liste électorale du même bureau de scrutin et qui, à la fois :
+		- **(i)** présente soit la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa propre résidence ou qui concorde avec les renseignements figurant à son égard sur la liste électorale, soit les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
+		- **(ii)** répond de l’électeur en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(2).
 
-**Lieu de l’inscription**
+**Répondre d’un électeur résidant dans un établissement de soins de longue durée**
 
-- **(2)** L’inscription se fait auprès d’un agent d’inscription à un bureau d’inscription établi en vertu du paragraphe 39(1) ou auprès du scrutateur, dans le cas d’un bureau de scrutin pour lequel le directeur général des élections a déterminé que le scrutateur lui-même devrait remplir les fonctions d’agent d’inscription.
+- **(2)** Lorsque l’électeur qui souhaite établir son identité et sa résidence au titre du paragraphe (1) réside dans un établissement où résident des personnes âgées ou ayant une déficience, l’autre électeur qui l’accompagne visé à l’alinéa (1)b) peut être un employé de l’établissement dont la résidence habituelle se situe, malgré cet alinéa, dans toute section de vote de la circonscription de l’électeur ou d’une circonscription adjacente.
+
+**Définition d’employé**
+
+- **(2.1)** Au paragraphe (2), ***employé*** s’entend notamment du propriétaire d’un établissement ou d’une personne qui occupe un poste de gestion au sein d’un tel établissement.
 
 **Représentants des candidats**
 
-- **(3)** L’agent d’inscription doit permettre que soit présent au bureau d’inscription un représentant de chaque candidat dans la circonscription.
+- **(3)** Le fonctionnaire électoral doit permettre que chaque candidat ou un représentant de chaque candidat dans la circonscription soit présent lors de l’inscription de l’électeur.
 
 **Examen des pièces d’identité**
 
@@ -3518,7 +3574,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Certificat d’inscription**
 
-- **(4)** Si l’électeur satisfait aux exigences du paragraphe (1), l’agent d’inscription ou le scrutateur, selon le cas, lui délivre un certificat d’inscription, selon le formulaire prescrit, l’autorisant à voter et le lui fait signer. Le certificat d’inscription contient une déclaration faite par l’électeur selon laquelle il a cette qualité aux termes de l’article 3.
+- **(4)** Si l’électeur satisfait aux exigences du paragraphe (1), le fonctionnaire électoral lui délivre un certificat d’inscription, selon le formulaire prescrit, l’autorisant à voter et le lui fait signer. Le certificat d’inscription contient une déclaration solennelle faite par l’électeur selon laquelle il a cette qualité aux termes de l’article 3.
 
 **Présomption de modification**
 
@@ -3532,14 +3588,10 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **c)** de demander d’être inscrit le jour du scrutin pour voter dans une circonscription, sachant qu’il n’a pas qualité d’électeur ou est inhabile à voter dans la circonscription;
 	- **d)** de contraindre ou de tenter de contraindre, d’inciter ou de tenter d’inciter une autre personne à faire une déclaration fausse ou trompeuse relativement à la qualité d’électeur de celle-ci afin d’être inscrite le jour du scrutin.
 
-**Interdiction : attester de la résidence de plus d’un électeur**
+- **(6)** [Abrogé, 2018, ch. 31, art. 107]
 
-- **(6)** Il est interdit à un électeur d’attester de la résidence de plus d’un électeur à une élection.
-
-**Interdiction : attester d’une résidence (propre résidence attestée)**
-
-- **(7)** Il est interdit à l’électeur pour lequel un autre électeur a attesté de sa propre résidence d’attester de la résidence d’un autre électeur à la même élection.
-> 2000, ch. 9, art. 161; 2007, ch. 21, art. 26, ch. 37, art. 2; 2014, ch. 12, art. 50.
+- **(7)** [Abrogé, 2018, ch. 31, art. 107]
+> 2000, ch. 9, art. 161; 2007, ch. 21, art. 26, ch. 37, art. 2; 2014, ch. 12, art. 50; 2018, ch. 31, art. 107.
 
 
 
@@ -3549,37 +3601,37 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **161.1** 
 
-- **(1)** Si une personne décide d’établir sa résidence en prêtant serment par écrit selon le formulaire prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé des conditions à remplir pour acquérir la qualité d’électeur et de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 161(5.1) ou 549(3).
+- **(1)** Si une personne décide d’établir son identité et sa résidence en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(1), un fonctionnaire électoral l’avise par écrit, avant qu’elle ne fasse la déclaration solennelle, des conditions à remplir pour acquérir la qualité d’électeur et de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 161(5.1) ou 549(3).
 
-**Avis préalable : attestation de résidence**
+**Avis préalable : répondant**
 
-- **(2)** Si une personne décide d’attester de la résidence d’un électeur en prêtant serment par écrit selon le formulaire prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 161(6) ou (7) ou 549(3).
-> 2007, ch. 21, art. 27; 2014, ch. 12, art. 51.
-
-
+- **(2)** Si une personne décide de répondre d’un électeur en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(2), un fonctionnaire électoral l’avise par écrit, avant qu’elle ne fasse la déclaration solennelle, de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 282.1(1), (2) ou (3) ou 549(3).
+> 2007, ch. 21, art. 27; 2014, ch. 12, art. 51; 2018, ch. 31, art. 108.
 
 
 
-#### Fonctions du greffier du scrutin
+
+
+#### Fonctions des fonctionnaires électoraux affectés à un bureau de scrutin
 
 
 
-**Fonctions du greffier du scrutin**
+**Fonctions**
 
-**162** Le greffier du scrutin :
-- **a)** procède, sur le formulaire prescrit, aux inscriptions que le scrutateur lui ordonne de porter en application de la présente loi;
+**162** L’un ou l’autre des fonctionnaires électoraux affectés au bureau de scrutin :
+- **a)** procède, sur le formulaire prescrit, aux inscriptions exigées en application de la présente loi;
 - **b)** indique sur la liste électorale, à côté du nom de chaque électeur et aussitôt que le bulletin de vote de celui-ci a été déposé dans l’urne, le fait qu’il a voté;
 - **c)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a voté sur remise d’un certificat de transfert délivré en vertu des articles 158 ou 159 et inscrit le numéro du certificat;
-- **d)** indique sur le formulaire prescrit, dans les cas visés à l’alinéa 149b), le fait que l’électeur a voté même si son nom ne figurait pas sur la liste électorale officielle;
+- **d)** [Abrogé, 2018, ch. 31, art. 110]
 - **e)** indique sur le formulaire prescrit, le cas échéant, le fait que l’électeur a été admis à voter conformément à l’article 146;
-- **f)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a prêté serment et précise la nature du serment;
-- **g)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a refusé de présenter les pièces visées aux alinéas 143(2)a) ou b) ou de prêter serment alors qu’il y était légalement tenu;
+- **f)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a fait une déclaration solennelle et précise la nature de celle-ci;
+- **g)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a refusé de présenter les pièces visées aux alinéas 143(2)a) ou b) ou de faire une déclaration solennelle alors qu’il y était légalement tenu;
 - **h)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a été admis à voter conformément au paragraphe 148.1(2);
-- **i)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a voté dans les circonstances visées à l’article 147 et qu’il a prêté le serment prescrit et tout autre serment exigé et indique, s’il y a lieu, les oppositions présentées au nom d’un candidat et le nom de ce candidat;
+- **i)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a voté dans les circonstances visées à l’article 147 et qu’il a fait la déclaration solennelle visée au paragraphe 549.1(1) et toute autre déclaration solennelle exigée et indique, s’il y a lieu, les oppositions présentées au nom d’un candidat et le nom de ce candidat;
 - **i.1)** prépare, à intervalles minimaux de trente minutes, à l’aide du formulaire prescrit et selon les directives du directeur général des élections, un document permettant d’identifier les électeurs ayant exercé leur droit de vote durant cet intervalle le jour du scrutin, à l’exclusion des électeurs s’étant inscrits le jour même, et le fournit sur demande aux représentants des candidats;
 - **i.2)** prépare, chaque jour, après la fermeture du bureau de vote par anticipation, à l’aide du formulaire prescrit et selon les directives du directeur général des élections, un document permettant d’identifier les électeurs ayant exercé leur droit de vote ce jour-là, à l’exclusion des électeurs s’étant inscrits le jour même, et le fournit sur demande aux représentants des candidats;
 - **j)** inscrit sur le formulaire prescrit, le cas échéant, que l’électeur a voté sur remise d’un certificat d’inscription délivré en vertu du paragraphe 161(4).
-> 2000, ch. 9, art. 162; 2007, ch. 21, art. 28; 2014, ch. 12, art. 52.
+> 2000, ch. 9, art. 162; 2007, ch. 21, art. 28; 2014, ch. 12, art. 52; 2018, ch. 31, art. 110.
 
 
 
@@ -3596,22 +3648,17 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Secret pendant et après le scrutin**
+**Procédure en cas de violation du secret du vote**
 
 **164** 
 
-- **(1)** Tout fonctionnaire électoral, candidat ou représentant d’un candidat présent à un bureau de scrutin ou au dépouillement du scrutin doit garder le secret du vote.
+- **(1)** Les fonctionnaires électoraux présents au bureau de scrutin sont tenus d’attirer l’attention de l’électeur qui contrevient à l’un ou l’autre des alinéas 281.6(3)a) à c) sur l’infraction qu’il commet et sur la peine dont il se rend passible; néanmoins, il doit être permis à cet électeur, s’il n’a pas encore voté, de voter de la manière ordinaire.
 
-**Secret du vote**
+**Précision**
 
-- **(2)** Sauf dans les cas prévus par la présente loi, il est interdit à l’électeur :
-	- **a)** de déclarer ouvertement en faveur de qui il a l’intention de voter en entrant dans le bureau de scrutin et avant de recevoir un bulletin de vote;
-	- **b)** de montrer son bulletin de vote, une fois marqué, de manière à révéler le nom du candidat pour lequel il a voté;
-	- **c)** de déclarer ouvertement pour qui il a voté avant de quitter le bureau de scrutin.
+- **(2)** Il est entendu que si l’un des fonctionnaires électoraux remplit l’obligation prévue au paragraphe (1) à l’égard d’un électeur, aucun autre n’est tenu de la remplir à l’égard de cet électeur.
+> 2000, ch. 9, art. 164; 2018, ch. 31, art. 111.
 
-**Procédure en cas de violation du secret du vote**
-
-- **(3)** Le scrutateur est tenu d’attirer l’attention de l’électeur qui contrevient au paragraphe (2) sur l’infraction qu’il commet et sur la peine dont il se rend passible; néanmoins, il doit être permis à cet électeur, s’il n’a pas encore voté, de voter de la manière ordinaire.
 
 
 
@@ -3622,8 +3669,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Services d’un vérificateur retenus**
 
-**164.1** Pour chaque élection générale ou élection partielle, le directeur général des élections retient les services d’un vérificateur — autre qu’un membre de son personnel ou un fonctionnaire électoral — qui, selon lui, est un expert et qui est chargé d’effectuer une vérification et de lui présenter un rapport indiquant si les scrutateurs, les greffiers du scrutin et les agents d’inscription ont, les jours de vote par anticipation et le jour du scrutin, exercé correctement les attributions que les articles 143 à 149, 161 à 162 et 169 leur confèrent.
-> 2014, ch. 12, art. 53.
+**164.1** Pour chaque élection générale ou élection partielle, le directeur général des élections retient les services d’un vérificateur — autre qu’un membre de son personnel ou un fonctionnaire électoral — qui, selon lui, est un expert et qui est chargé d’effectuer une vérification et de lui présenter un rapport indiquant si les fonctionnaires électoraux ont exercé correctement les attributions — identifiées par le directeur général des élections — que la loi leur confère.
+> 2014, ch. 12, art. 53; 2018, ch. 31, art. 112.
 
 
 
@@ -3648,41 +3695,18 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** Il est interdit :
 	- **a)** d’afficher ou d’exhiber à l’intérieur d’une salle de scrutin ou sur les aires extérieures de celle-ci du matériel de propagande qui pourrait être tenu comme favorisant un parti politique mentionné sur le bulletin de vote sous le nom d’un candidat ou l’élection d’un candidat, ou s’opposant à un tel parti ou à l’élection d’un candidat;
-	- **b)** de porter, dans un bureau de scrutin, un insigne, un drapeau, une bannière ou un autre objet de façon à manifester son appui ou à s’opposer à un candidat ou à un parti politique mentionné sur le bulletin de vote sous le nom d’un candidat ou aux opinions politiques ou autres que professe ou qu’est censé professer un candidat ou un tel parti;
-	- **c)** d’inciter, dans un bureau de scrutin ou tout autre local où se déroule le vote, un électeur à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné.
+	- **b)** de porter, dans un bureau de scrutin, un insigne, un drapeau, une bannière ou un autre objet de façon à manifester son appui ou à s’opposer à un candidat ou à un parti politique mentionné sur le bulletin de vote sous le nom d’un candidat ou aux opinions politiques ou autres que professe ou qu’est censé professer un candidat ou un tel parti.
+	- **c)** [Abrogé, 2018, ch. 31, art. 113]
 
 **Exception**
 
 - **(2)** Par dérogation à l’alinéa (1)b), le représentant d’un candidat peut, de la manière autorisée par le directeur général des élections, porter dans un bureau de scrutin un insigne précisant sa fonction et le nom du parti politique mentionné sur le bulletin de vote sous le nom du candidat qu’il représente.
-> 2000, ch. 9, art. 166; 2001, ch. 21, art. 14.
+> 2000, ch. 9, art. 166; 2001, ch. 21, art. 14; 2018, ch. 31, art. 113.
 
 
 
 
-
-**Interdictions relatives aux bulletins de vote et autres**
-
-**167** 
-
-- **(1)** Il est interdit à quiconque :
-	- **a)** de demander un bulletin de vote sous un nom autre que le sien;
-	- **b)** de faire usage d’un faux bulletin de vote;
-	- **c)** sachant qu’il n’y est pas autorisé par la présente loi, de fournir un bulletin de vote à une personne;
-	- **d)** sachant qu’il n’y est pas autorisé par la présente loi, d’avoir un bulletin de vote en sa possession.
-
-**Autres interdictions relatives aux bulletins de vote**
-
-- **(2)** Il est interdit à quiconque :
-	- **a)** de détériorer, altérer ou détruire volontairement un bulletin de vote ou le paraphe du scrutateur qui y est apposé;
-	- **b)** de déposer ou faire déposer volontairement dans une urne un bulletin de vote ou un autre papier autrement qu’en conformité avec la présente loi;
-	- **c)** de sortir volontairement un bulletin de vote d’un bureau de scrutin;
-	- **d)** de détruire, prendre, ouvrir ou autrement manipuler volontairement une urne ou un carnet ou un paquet de bulletins de vote.
-
-**Interdictions applicables aux scrutateurs**
-
-- **(3)** Il est interdit au scrutateur :
-	- **a)** d’apposer ses initiales au verso de quelque papier qui est présenté comme étant un bulletin de vote ou peut être utilisé comme un bulletin de vote à une élection, avec l’intention de faire recevoir un vote qui ne devrait pas l’être ou d’empêcher de recevoir un vote qui devrait l’être;
-	- **b)** de mettre sur un bulletin de vote une inscription, un numéro ou une marque avec l’intention que l’électeur auquel ce bulletin de vote est destiné puisse par là être reconnu.
+**167** [Abrogé, 2018, ch. 31, art. 114]
 
 
 
@@ -3735,6 +3759,66 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
+#### Certificats de transfert
+
+
+
+**Certificat de transfert au candidat**
+
+**168.1** 
+
+- **(1)** Tout candidat dont le nom figure sur la liste électorale révisée d’un bureau de vote par anticipation a le droit de recevoir, sur demande, un certificat de transfert l’autorisant à voter à un autre bureau de vote par anticipation de la même circonscription.
+
+**Autres certificats de transfert**
+
+- **(2)** Un fonctionnaire électoral affecté à un bureau de vote par anticipation doit délivrer un certificat de transfert à toute personne — autre que lui-même — dont le nom figure sur la liste électorale révisée du bureau de vote par anticipation et qui a été nommée pour agir en qualité de fonctionnaire électoral à un autre bureau de vote par anticipation.
+
+**Conditions**
+
+- **(3)** Le certificat de transfert délivré au titre du paragraphe (2) n’autorise la personne à voter au bureau de vote par anticipation mentionné dans ce certificat que si, l’un des jours du vote par anticipation, elle exerce les fonctions précisées dans le certificat au lieu qui y est mentionné.
+
+**Certificat de transfert à l’électeur**
+
+- **(4)** En cas de changement d’adresse du bureau de vote par anticipation après l’expédition de l’avis de confirmation d’inscription, l’électeur qui se présente pour voter au bureau de vote par anticipation mentionné dans l’avis a le droit de recevoir, sur demande, un certificat de transfert l’autorisant à y voter.
+> 2018, ch. 31, art. 116.
+
+
+
+
+
+**Certificat de transfert pour l’électeur ayant une déficience**
+
+**168.2** 
+
+- **(1)** L’électeur qui, du fait de sa déficience, ne peut sans difficulté aller voter à son bureau de vote par anticipation peut demander un certificat de transfert l’autorisant à voter à un autre bureau de vote par anticipation situé dans la circonscription.
+
+**Conditions de la demande**
+
+- **(2)** La demande doit être faite en conformité avec les instructions du directeur général des élections.
+
+**Délivrance**
+
+- **(3)** Un fonctionnaire électoral délivre le certificat de transfert, selon le formulaire prescrit, et le fournit à la personne qui a soumis la demande s’il est convaincu que le nom de l’électeur figure sur la liste électorale révisée de la circonscription.
+> 2018, ch. 31, art. 116.
+
+
+
+
+
+**Signature, numérotage et inscription du certificat de transfert**
+
+**168.3** Le fonctionnaire électoral qui délivre un certificat de transfert doit :
+- **a)** remplir et signer le certificat et y mentionner la date à laquelle il est délivré;
+- **b)** numéroter consécutivement les certificats, selon l’ordre de leur délivrance;
+- **c)** tenir, selon le formulaire prescrit, un registre de tous les certificats dans l’ordre de leur délivrance;
+- **d)** s’abstenir de délivrer un certificat en blanc;
+- **e)** expédier, lorsque c’est possible, une copie du certificat à un fonctionnaire électoral affecté au bureau de vote par anticipation sur la liste duquel figure le nom de l’électeur à qui le certificat a été délivré.
+> 2018, ch. 31, art. 116.
+
+
+
+
+
 ### Inscription
 
 
@@ -3743,20 +3827,23 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **169** 
 
-- **(1)** Tout électeur dont le nom ne figure pas déjà sur la liste électorale révisée peut s’inscrire en personne auprès du scrutateur du bureau de vote par anticipation où il est habile à voter.
+- **(1)** Tout électeur dont le nom ne figure pas déjà sur la liste électorale révisée peut s’inscrire en personne, au bureau de vote par anticipation où il est habile à voter, auprès d’un fonctionnaire électoral affecté à ce bureau.
 
 **Conditions**
 
-- **(2)** Il ne peut toutefois être inscrit que si :
-	- **a)** soit il établit son identité et sa résidence en présentant la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
-	- **b)** soit il établit son identité en présentant deux pièces d’identité, d’un type autorisé en vertu du paragraphe 143(2.1), qui établissent son nom, il établit sa résidence en prêtant serment par écrit selon le formulaire prescrit — lequel comporte une déclaration portant qu’il a reçu l’avis verbal prévu au paragraphe 169.1(1) — et il est accompagné d’un autre électeur dont le nom figure sur la liste électorale de la même section de vote et qui, à la fois :
-		- **(i)** établit sa propre identité et sa propre résidence en présentant soit la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou qui concorde avec les renseignements figurant à son égard sur la liste électorale, soit les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
-		- **(ii)** atteste de la résidence de l’électeur en prêtant serment par écrit selon le formulaire prescrit, lequel comporte les déclarations suivantes :
-			- **(A)** il a reçu l’avis verbal prévu au paragraphe 169.1(2),
-			- **(B)** il connaît personnellement l’électeur,
-			- **(C)** il sait que l’électeur réside dans la section de vote,
-			- **(D)** il n’a pas attesté de la résidence d’un autre électeur à l’élection,
-			- **(E)** sa propre résidence n’a pas fait l’objet d’une attestation par un autre électeur à l’élection.
+- **(2)** Il ne peut toutefois être inscrit que s’il établit son identité et sa résidence :
+	- **a)** soit en présentant la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
+	- **b)** soit en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(1), s’il est accompagné d’un autre électeur dont le nom figure sur la liste électorale du même bureau de scrutin et qui, à la fois :
+		- **(i)** présente soit la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa propre résidence ou qui concorde avec les renseignements figurant à son égard sur la liste électorale, soit les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
+		- **(ii)** répond de l’électeur en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(2).
+
+**Répondre d’un électeur résidant dans un établissement de soins de longue durée**
+
+- **(2.01)** Lorsque l’électeur qui souhaite établir son identité et sa résidence au titre du paragraphe (2) réside dans un établissement où résident des personnes âgées ou ayant une déficience, l’autre électeur qui l’accompagne visé à l’alinéa (2)b) peut être un employé de l’établissement dont la résidence habituelle se situe, malgré cet alinéa, dans toute section de vote de la circonscription de l’électeur ou d’une circonscription adjacente.
+
+**Définition d’employé**
+
+- **(2.02)** Au paragraphe (2.01), ***employé*** s’entend notamment du propriétaire d’un établissement ou d’une personne qui occupe un poste de gestion au sein d’un tel établissement.
 
 **Examen des pièces d’identité**
 
@@ -3764,11 +3851,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Certificat d’inscription**
 
-- **(3)** Si l’électeur satisfait aux exigences du paragraphe (2), le scrutateur remplit un certificat d’inscription, selon le formulaire prescrit, l’autorisant à voter et le lui fait signer. Le certificat d’inscription contient une déclaration faite par l’électeur selon laquelle il a cette qualité aux termes de l’article 3.
+- **(3)** Si l’électeur satisfait aux exigences du paragraphe (2), un fonctionnaire électoral affecté au bureau de vote par anticipation remplit un certificat d’inscription, selon le formulaire prescrit, autorisant l’électeur à voter et le lui fait signer. Le certificat d’inscription contient une déclaration solennelle faite par l’électeur selon laquelle il a cette qualité aux termes de l’article 3.
 
-**Obligation du greffier du scrutin**
+**Noms inscrits sur le formulaire prescrit**
 
-- **(4)** Le greffier du scrutin inscrit sur le formulaire prescrit le nom des électeurs admis à voter en vertu du présent article.
+- **(4)** Un fonctionnaire électoral affecté au bureau de vote par anticipation inscrit sur le formulaire prescrit le nom des électeurs admis à voter en vertu du présent article.
 
 **Interdictions — inscription à un bureau de vote par anticipation**
 
@@ -3778,14 +3865,10 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **c)** de demander d’être inscrit à un bureau de vote par anticipation pour voter dans une circonscription, sachant qu’il n’a pas qualité d’électeur ou est inhabile à voter dans la circonscription;
 	- **d)** de contraindre ou de tenter de contraindre, d’inciter ou de tenter d’inciter une autre personne à faire une déclaration fausse ou trompeuse relativement à la qualité d’électeur de celle-ci afin d’être inscrite à un bureau de vote par anticipation.
 
-**Interdiction : attester de la résidence de plus d’un électeur**
+- **(5)** [Abrogé, 2018, ch. 31, art. 117]
 
-- **(5)** Il est interdit à un électeur d’attester de la résidence de plus d’un électeur à une élection.
-
-**Interdiction : attester d’une résidence (propre résidence attestée)**
-
-- **(6)** Il est interdit à l’électeur pour lequel un autre électeur a attesté de sa propre résidence d’attester de la résidence d’un autre électeur à la même élection.
-> 2000, ch. 9, art. 169; 2007, ch. 21, art. 30, ch. 37, art. 3; 2014, ch. 12, art. 54.
+- **(6)** [Abrogé, 2018, ch. 31, art. 117]
+> 2000, ch. 9, art. 169; 2007, ch. 21, art. 30, ch. 37, art. 3; 2014, ch. 12, art. 54; 2018, ch. 31, art. 117.
 
 
 
@@ -3795,12 +3878,12 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **169.1** 
 
-- **(1)** Si une personne décide d’établir sa résidence en prêtant serment par écrit selon le formulaire prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé des conditions à remplir pour acquérir la qualité d’électeur et de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 169(4.1) ou 549(3).
+- **(1)** Si une personne décide d’établir son identité et sa résidence en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(1), un fonctionnaire électoral l’avise par écrit, avant qu’elle ne fasse la déclaration solennelle, des conditions à remplir pour acquérir la qualité d’électeur et de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 169(4.1) ou 549(3).
 
-**Avis préalable : attestation de résidence**
+**Avis préalable : répondant**
 
-- **(2)** Si une personne décide d’attester de la résidence d’un électeur en prêtant serment par écrit selon le formulaire prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 169(5) ou (6) ou 549(3).
-> 2007, ch. 21, art. 31; 2014, ch. 12, art. 55.
+- **(2)** Si une personne décide de répondre d’un électeur en faisant par écrit la déclaration solennelle visée au paragraphe 549.1(2), un fonctionnaire électoral l’avise par écrit, avant qu’elle ne fasse la déclaration solennelle, de la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes 282.1(1), (2) ou (3) ou 549(3).
+> 2007, ch. 21, art. 31; 2014, ch. 12, art. 55; 2018, ch. 31, art. 118.
 
 
 
@@ -3825,8 +3908,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Heures d’ouverture des bureaux de vote par anticipation**
 
-- **(2)** Les bureaux de vote par anticipation doivent être ouverts de 12 h à 20 h, les vendredi, samedi, dimanche et lundi, soit les dixième, neuvième, huitième et septième jours précédant le jour du scrutin. Ils ne peuvent être ouverts à aucun autre moment.
-> 2000, ch. 9, art. 171; 2014, ch. 12, art. 56.
+- **(2)** Les bureaux de vote par anticipation doivent être ouverts de 9 h à 21 h, les vendredi, samedi, dimanche et lundi, soit les dixième, neuvième, huitième et septième jours précédant le jour du scrutin. Ils ne peuvent être ouverts à aucun autre moment.
+> 2000, ch. 9, art. 171; 2014, ch. 12, art. 56; 2018, ch. 31, art. 119.
 
 
 
@@ -3834,13 +3917,22 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Avis du vote par anticipation**
 
-**172** Au plus tard le samedi seizième jour précédant le jour du scrutin, le directeur du scrutin :
-- **a)** donne dans la circonscription un avis du vote par anticipation, selon le formulaire prescrit, indiquant :
-	- **(i)** les numéros des sections de vote comprises dans chaque district de vote par anticipation qu’il a établi,
-	- **(ii)** l’emplacement de chaque bureau de vote par anticipation,
-	- **(iii)** l’endroit où le scrutateur de chaque bureau de vote par anticipation doit compter le nombre de votes donnés à ce bureau,
-	- **(iv)** l’obligation de procéder au dépouillement le jour du scrutin, le plus tôt possible après la fermeture des bureaux de scrutin;
-- **b)** expédie deux copies de l’avis à chacun des candidats et au directeur général des élections.
+**172** 
+
+- **(1)** Au plus tard le samedi seizième jour précédant le jour du scrutin, le directeur du scrutin :
+	- **a)** donne dans la circonscription un avis du vote par anticipation, selon le formulaire prescrit, indiquant :
+		- **(i)** les numéros des sections de vote comprises dans chaque district de vote par anticipation qu’il a établi,
+		- **(ii)** l’emplacement de chaque bureau de vote par anticipation,
+		- **(iii)** l’endroit où, pour chaque bureau de vote par anticipation, un fonctionnaire électoral affecté à ce bureau doit compter le nombre de votes donnés à ce bureau,
+		- **(iv)** l’obligation de procéder au dépouillement le jour du scrutin, le plus tôt possible après la fermeture des bureaux de scrutin ou, avec l’autorisation préalable du directeur général des élections, une heure avant cette fermeture;
+	- **b)** expédie deux copies de l’avis à chacun des candidats et au directeur général des élections;
+	- **c)** met à la disposition de chaque candidat de la circonscription une carte de celle-ci indiquant les limites de chaque district de vote par anticipation et l’emplacement de chaque bureau de vote par anticipation.
+
+**Cartes mises à la disposition des partis enregistrés**
+
+- **(2)** Au plus tard le samedi seizième jour précédant le jour du scrutin, le directeur général des élections met à la disposition de chacun des partis enregistrés des cartes de chaque circonscription — notamment sous forme électronique — indiquant les limites de chaque district de vote par anticipation compris dans la circonscription et l’emplacement de chaque bureau de vote par anticipation.
+> 2000, ch. 9, art. 172; 2018, ch. 31, art. 120.
+
 
 
 
@@ -3853,88 +3945,87 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Électeurs non inscrits**
 
-- **(2)** L’électeur dont le nom ne figure pas sur la liste électorale révisée n’est admis à voter que dans l’un ou l’autre des cas suivants :
-	- **a)** le scrutateur est convaincu, après vérification auprès du directeur du scrutin, qu’il est inscrit sur la liste électorale préliminaire ou qu’il a été inscrit comme électeur au moment de la révision;
-	- **b)** il a obtenu un certificat d’inscription en conformité avec le paragraphe 169(3).
+- **(2)** L’électeur dont le nom ne figure pas sur la liste électorale révisée n’est admis à voter que s’il a obtenu un certificat de transfert au titre des articles 168.1 ou 168.2 ou un certificat d’inscription en conformité avec le paragraphe 169(3).
 
-**Inscription du greffier du scrutin**
+**Inscription du fonctionnaire électoral**
 
-- **(3)** Lorsqu’un électeur dont le nom ne figure pas sur la liste électorale révisée a voté, le greffier du scrutin indique sur le formulaire prescrit que l’électeur a voté conformément au paragraphe (2).
-> 2000, ch. 9, art. 173; 2007, ch. 21, art. 32.
+- **(3)** Lorsqu’un électeur dont le nom ne figure pas sur la liste électorale révisée a voté, un fonctionnaire électoral affecté au bureau de vote par anticipation indique sur le formulaire prescrit que l’électeur a voté conformément au paragraphe (2).
+> 2000, ch. 9, art. 173; 2007, ch. 21, art. 32; 2018, ch. 31, art. 121.
 
 
 
 
 
-**Obligation du scrutateur**
+**Obligation du fonctionnaire électoral**
 
 **174** 
 
-- **(1)** Lorsque l’électeur dont le nom figure sur la liste électorale demande à voter au bureau de vote par anticipation établi pour sa section de vote, le scrutateur est tenu de l’autoriser à voter sauf si, selon le cas :
-	- **a)** il n’établit pas son identité ou sa résidence conformément à l’article 143 ou ne prête pas serment conformément à la présente loi;
-	- **b)** il refuse de signer le registre du vote visé au paragraphe (2), malgré la demande du greffier du scrutin.
+- **(1)** Lorsque l’électeur dont le nom figure sur la liste électorale demande à voter au bureau de vote par anticipation établi pour sa section de vote, un fonctionnaire électoral affecté à ce bureau est tenu d’autoriser l’électeur à voter sauf si ce dernier n’établit pas son identité ou sa résidence conformément à l’article 143 ou ne fait pas une déclaration solennelle conformément à la présente loi.
+
+**Numéro — district de vote par anticipation**
+
+- **(1.1)** Dans un bureau de vote par anticipation, avant de remettre à l’électeur un bulletin de vote, le fonctionnaire électoral inscrit au verso du bulletin, à l’endroit indiqué sur le formulaire 3 de l’annexe 1 pour le numéro de la section de vote, le numéro du district de vote par anticipation de l’électeur.
 
 **Registre du vote**
 
-- **(2)** À un bureau de vote par anticipation, le greffier du scrutin, sur les instructions du scrutateur, tient en double, selon le formulaire prescrit, un registre des noms des électeurs qui y votent, dans l’ordre où ils ont voté, et doit :
-	- **a)** faire à côté du nom de chaque électeur les inscriptions qu’il serait tenu de faire, aux termes de la présente loi, à un bureau de scrutin le jour du scrutin;
-	- **b)** demander à l’électeur d’apposer sa signature à côté de son nom.
-> 2000, ch. 9, art. 174; 2007, ch. 21, art. 33; 2014, ch. 12, art. 57.
+- **(2)** Un fonctionnaire électoral affecté au bureau de vote par anticipation tient en double, au bureau et selon le formulaire prescrit, un registre des noms des électeurs qui y votent, dans l’ordre où ils ont voté, et doit faire à côté du nom de chaque électeur les inscriptions qu’un fonctionnaire électoral affecté à un bureau de scrutin est tenu de faire, aux termes de la présente loi, à ce bureau de scrutin le jour du scrutin.
+> 2000, ch. 9, art. 174; 2007, ch. 21, art. 33; 2014, ch. 12, art. 57; 2018, ch. 31, art. 122.
 
 
 
 
 
-**Examen de l’urne et apposition des sceaux**
+**Mesures à prendre à l’ouverture**
 
 **175** 
 
-- **(1)** À l’ouverture du bureau de vote par anticipation, à 12 h chacun des quatre jours du vote par anticipation, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
-	- **a)** ouvre l’urne qui sera utilisée ce jour-là et s’assure qu’elle est vide;
-	- **b)** la scelle au moyen de sceaux fournis par le directeur général des élections;
-	- **c)** la place sur une table, bien en vue des personnes présentes, et l’y laisse jusqu’à la fermeture du bureau.
+- **(1)** À l’ouverture du bureau de vote par anticipation, à 9 h, un fonctionnaire électoral affecté au bureau, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
+	- **a)** le premier jour du vote par anticipation :
+		- **(i)** ouvre l’urne et s’assure qu’elle est vide,
+		- **(ii)** la scelle au moyen de sceaux fournis par le directeur général des élections,
+		- **(iii)** la place sur une table, bien en vue des personnes présentes, et l’y laisse jusqu’à la fermeture du bureau;
+	- **b)** chacun des trois derniers jours du vote par anticipation, place l’urne sur une table, bien en vue des personnes présentes, et l’y laisse jusqu’à la fermeture du bureau.
 
-**Mesures à prendre chaque jour à la fermeture**
+**Mesures à prendre à la fermeture**
 
-- **(2)** À la fermeture du bureau de vote par anticipation, à 20 h chacun des trois premiers jours du vote par anticipation, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
-	- **a)** descelle et ouvre l’urne;
-	- **b)** verse les bulletins de vote déposés au cours de la journée, de manière à ne pas révéler en faveur de qui les électeurs ont voté, dans l’enveloppe fournie à cette fin, scelle l’enveloppe avec un sceau fourni par le directeur général des élections et indique sur celle-ci le nombre des bulletins de vote;
-	- **c)** compte les bulletins de vote annulés, les place dans l’enveloppe fournie à cette fin, scelle celle-ci et en indique le nombre sur celle-ci;
-	- **d)** compte les bulletins de vote inutilisés et le nombre d’électeurs qui ont voté au bureau et place les bulletins de vote inutilisés ainsi qu’une copie du registre du vote dans l’enveloppe fournie à cette fin, scelle l’enveloppe avec un sceau fourni par le directeur général des élections et indique sur celle-ci le nombre des bulletins de vote inutilisés et des électeurs qui ont voté;
-	- **e)** dépose les enveloppes visées aux alinéas b) et c) dans l’urne après que les signatures visées au paragraphe (4) ont été apposées et scelle l’urne;
-	- **f)** dépose l’enveloppe visée à l’alinéa d) dans une boîte fournie par le directeur général des élections après que les signatures visées au paragraphe (4) ont été apposées et scelle la boîte avec un sceau fourni par ce dernier.
+- **(2)** À la fermeture du bureau de vote par anticipation, à 21 h chacun des quatre jours du vote par anticipation, un fonctionnaire électoral affecté au bureau, sous le regard des candidats ou de leurs représentants qui sont sur les lieux prend, en conformité avec les instructions que le directeur général des élections estime indiquées pour assurer l’intégrité du vote, les mesures précisées dans celles-ci.
 
-**Mesures à prendre le dernier jour à la fermeture**
+**Autres urnes**
 
-- **(3)** À la fermeture du bureau de vote par anticipation, à 20 h le quatrième jour du vote par anticipation, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
-	- **a)** descelle et ouvre l’urne;
-	- **b)** verse les bulletins de vote déposés au cours de la journée, de manière à ne pas révéler en faveur de qui les électeurs ont voté, dans l’enveloppe fournie à cette fin, scelle l’enveloppe avec le sceau fourni par le directeur général des élections et indique sur celle-ci le nombre des bulletins de vote;
-	- **c)** compte les bulletins de vote annulés, les place dans l’enveloppe fournie à cette fin, scelle l’enveloppe et y indique le nombre des bulletins de votes annulés qu’elle contient;
-	- **d)** compte les bulletins de vote inutilisés et le nombre d’électeurs qui ont voté au bureau et place les bulletins de vote inutilisés ainsi qu’une copie du registre du vote dans l’enveloppe fournie à cette fin, scelle l’enveloppe avec le sceau fourni par le directeur général des élections et y indique le nombre de bulletins de vote inutilisés qu’elle contient et d’électeurs qui ont voté;
-	- **e)** dépose les enveloppes visées aux alinéas b) à d) dans l’urne après que les signatures visées au paragraphe (4) y ont été apposées et scelle l’urne.
+- **(3)** Si un fonctionnaire électoral affecté au bureau de vote par anticipation détermine, en conformité avec les instructions du directeur général des élections, qu’une autre urne est nécessaire à ce bureau, un fonctionnaire électoral affecté au bureau, sous le regard des candidats ou de leurs représentants qui sont sur les lieux et en conformité avec ces instructions :
+	- **a)** prend les mesures prévues aux sous-alinéas (1)a)(i) à (iii) relativement à l’autre urne;
+	- **b)** dans les circonstances prévues dans les instructions, prend les mesures prévues à l’alinéa (1)b) et au paragraphe (2) relativement aux urnes utilisées au bureau.
 
-**Signatures et sceaux**
+**Vérification du numéro de série du sceau des urnes**
 
-- **(4)** Le scrutateur et le greffier du scrutin doivent signer les sceaux apposés sur les enveloppes mentionnées aux alinéas (2)b) à d) et (3)b) à d); les candidats et les représentants qui sont sur les lieux peuvent aussi y apposer leur signature.
-
-**Réouverture du bureau de vote par anticipation**
-
-- **(5)** À la réouverture du bureau de vote par anticipation, à 12 h les deuxième, troisième et quatrième jours du vote par anticipation, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
-	- **a)** descelle et ouvre la boîte visée à l’alinéa (2)f) qui a été utilisée le jour du vote par anticipation précédent, en retire et ouvre l’enveloppe contenant les bulletins de vote inutilisés et le registre du vote et dispose de la boîte;
-	- **b)** ouvre, scelle et met en place une nouvelle urne conformément aux alinéas (1)a) à c).
+- **(4)** Les candidats ou leurs représentants peuvent prendre note du numéro de série inscrit sur le sceau des urnes aux moments suivants :
+	- **a)** s’agissant de toute urne utilisée un jour du vote par anticipation, à la fermeture du bureau de vote par anticipation chacun des quatre jours du vote par anticipation;
+	- **b)** s’agissant de toute urne placée sur une table conformément aux paragraphes (1) ou (3), au moment où l’urne y est placée;
+	- **c)** s’agissant de chacune des urnes utilisées pour le vote par anticipation, au moment du dépouillement du scrutin le jour du scrutin.
 
 **Garde des urnes**
 
-- **(6)** Dans les intervalles entre les heures de vote par anticipation et jusqu’au dépouillement du scrutin le jour du scrutin, le scrutateur conserve les urnes scellées sous sa garde.
+- **(5)** Jusqu’au dépouillement du scrutin le jour du scrutin, un fonctionnaire électoral conserve la ou les urnes scellées sous sa garde, en conformité avec les instructions du directeur général des élections.
 
 **Récupération des urnes**
 
-- **(7)** Le directeur du scrutin peut toutefois recouvrer une ou plusieurs des urnes sous la garde d’un scrutateur lorsqu’il en reçoit l’instruction du directeur général des élections, et dans le cas où celui-ci l’estime souhaitable pour assurer l’intégrité du vote.
+- **(6)** Dans le cas où le directeur du scrutin l’estime souhaitable pour assurer l’intégrité du vote, il peut toutefois recouvrer une ou plusieurs des urnes qui doivent être sous la garde d’un autre fonctionnaire électoral au titre du paragraphe (5). Il en informe alors le directeur général des élections dès que possible.
 
-**Vérification du numéro de série du sceau de chaque urne**
+**Mandat pour lieu d’habitation ou pour véhicule**
 
-- **(8)** À la fermeture du bureau de vote par anticipation chacun des quatre jours du vote par anticipation, les candidats ou leurs représentants peuvent prendre note du numéro de série inscrit sur le sceau de l’urne et, s’il y a lieu, de la boîte visée à l’alinéa (2)f). À la réouverture du bureau les deuxième, troisième et quatrième jours du vote par anticipation, ils peuvent à nouveau prendre note du numéro de série inscrit sur le sceau de la boîte utilisée le jour du vote précédent. Enfin, ils peuvent prendre note du numéro de série inscrit sur le sceau de chacune des urnes utilisées pour le vote par anticipation au dépouillement du scrutin le jour du scrutin.
-> 2000, ch. 9, art. 175; 2014, ch. 12, art. 58.
+- **(7)** Dans le cas où l’urne à recouvrer se trouve dans un lieu d’habitation ou dans un véhicule, le directeur du scrutin ne peut y entrer sans le consentement de l’occupant que s’il accompagne un agent de la paix muni d’un mandat décerné en vertu du paragraphe (8).
+
+**Délivrance du mandat**
+
+- **(8)** Sur demande ex parte présentée par le directeur du scrutin, un juge de paix peut décerner un mandat autorisant un agent de la paix à entrer dans un lieu d’habitation ou dans un véhicule, accompagné du demandeur, s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions suivantes sont réunies :
+	- **a)** une urne se trouve dans le lieu d’habitation ou dans le véhicule;
+	- **b)** l’entrée est nécessaire pour recouvrer l’urne;
+	- **c)** soit l’occupant a refusé l’entrée au directeur du scrutin, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il sera impossible d’obtenir le consentement de l’occupant.
+
+**Télémandats**
+
+- **(9)** Le directeur du scrutin qui considère qu’il serait peu commode de se présenter en personne devant un juge de paix pour demander le mandat visé au paragraphe (8) peut demander qu’il soit délivré par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique alors avec les adaptations nécessaires.
+> 2000, ch. 9, art. 175; 2014, ch. 12, art. 58; 2018, ch. 31, art. 122.
 
 
 
@@ -3952,7 +4043,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Lorsque les listes électorales ont été distribuées**
 
-- **(3)** Si la liste électorale officielle a été envoyée avant que les noms aient été biffés, il doit ordonner à chaque scrutateur intéressé de biffer les noms des électeurs qui, selon le registre du vote d’un bureau de vote par anticipation, ont déjà voté. Le scrutateur est tenu de se conformer sans délai à cet ordre.
+- **(3)** Si la liste électorale officielle a été envoyée à un bureau de scrutin avant que les noms aient été biffés, il doit ordonner à un fonctionnaire électoral affecté à ce bureau de biffer les noms des électeurs qui, selon le registre du vote d’un bureau de vote par anticipation, ont déjà voté. Le fonctionnaire électoral est tenu de se conformer sans délai à cet ordre.
+> 2000, ch. 9, art. 176; 2018, ch. 31, art. 123.
+
 
 
 
@@ -3968,7 +4061,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Définitions**
 
-**177** Les définitions qui suivent s’appliquent à la présente partie.
+**177** Les définitions qui suivent s’appliquent à la présente partie et aux parties 11.1 et 19.
 
 ***administrateur des règles électorales spéciales*** Personne nommée en vertu de l’article 181. (*special voting rules administrator*)
 
@@ -3980,25 +4073,27 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 ***bulletin de vote spécial*** Bulletin de vote fourni aux électeurs habiles à voter en vertu de la présente partie, sauf le bulletin de vote visé à l’article 241. (*special ballot*)
 
-***centre administratif*** Endroit établi, en vertu de l’article 180, pour la distribution du matériel et la communication de renseignements. (*administrative centre*)
+***centre administratif***[Abrogée, 2018, ch. 31, art. 124]
 
 ***commandant*** L’officier commandant une unité. (*commanding officer*)
 
-***déclaration de résidence habituelle*** Déclaration établie dans le cadre des articles 194 ou 195. (*statement of ordinary residence*)
+***déclaration de résidence habituelle***[Abrogée, 2018, ch. 31, art. 124]
 
-***demande d’inscription et de bulletin de vote spécial*** Demande d’inscription et d’obtention d’un bulletin de vote spécial que remplit un électeur, autre qu’un électeur des Forces canadiennes, pour voter en vertu de la présente partie. (*application for registration and special ballot*)
+***demande d’inscription et de bulletin de vote spécial*** Demande d’inscription et d’obtention d’un bulletin de vote spécial que remplit un électeur pour voter en vertu de la présente partie. (*application for registration and special ballot*)
 
-***électeur des Forces canadiennes*** Électeur qui a le droit de voter en vertu de la section 2. (*Canadian Forces elector*)
+***électeur des Forces canadiennes***[Abrogée, 2018, ch. 31, art. 124]
 
 ***électeur incarcéré*** Électeur qui est incarcéré dans un établissement correctionnel. (*incarcerated elector*)
 
-***enveloppe extérieure*** L’enveloppe fournie par le directeur général des élections pour la transmission du bulletin de vote après qu’il a été marqué et inséré dans l’enveloppe intérieure. (*outer envelope*)
+***enveloppe extérieure*** L’enveloppe, y compris celle fournie par le directeur général des élections, dans laquelle le bulletin de vote ou le bulletin de vote spécial est transmis après qu’il a été marqué et inséré dans l’enveloppe intérieure. (*outer envelope*)
 
-***enveloppe intérieure*** L’enveloppe fournie par le directeur général des élections et dans laquelle le bulletin de vote est placé une fois marqué. (*inner envelope*)
+***enveloppe intérieure*** L’enveloppe, y compris celle fournie par le directeur général des élections, dans laquelle le bulletin de vote ou le bulletin de vote spécial est placé une fois marqué. (*inner envelope*)
 
-***scrutateur*** Électeur désigné comme tel en vertu de la présente partie par un commandant ou un directeur du scrutin, selon le cas. (*deputy returning officer*)
+***fonctionnaire électoral d’unité*** Électeur désigné à ce titre en vertu de l’alinéa 205(1)b). (*unit election officer*)
 
-***territoire de vote*** Toute zone établie en vertu de l’article 180. (*voting territory*)
+***scrutateur***[Abrogée, 2018, ch. 31, art. 124]
+
+***territoire de vote***[Abrogée, 2018, ch. 31, art. 124]
 
 ***unité*** S’entend au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et vise notamment une base ou un autre élément. (*unit*)
 > 2000, ch. 9, art. 177; 2018, ch. 31, art. 124.
@@ -4047,13 +4142,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **182** L’administrateur des règles électorales spéciales :
 - **a)** obtient un local convenable;
-- **b)** garde en sa possession le serment de chacun des agents des bulletins de vote spéciaux;
+- **b)** garde en sa possession la déclaration solennelle faite au titre du paragraphe 23(1) de chacun des agents des bulletins de vote spéciaux;
 - **c)** obtient des agents de liaison les listes dressées conformément à l’alinéa 204(1)b);
-- **d)** obtient des agents de liaison les listes des noms des scrutateurs que les commandants sont tenus de fournir;
+- **d)** obtient des agents de liaison les listes des noms des fonctionnaires électoraux d’unité que les commandants sont tenus de fournir;
 - **e)** distribue le matériel électoral et la liste des candidats;
 - **f)** reçoit, certifie, examine et classe les enveloppes extérieures dûment marquées et contenant les bulletins de vote spéciaux marqués par les électeurs;
 - **g)** procède au décompte des votes donnés par les électeurs;
 - **h)** communique les résultats du vote recueilli en vertu de la présente partie.
+> 2000, ch. 9, art. 182; 2018, ch. 31, art. 126.
+
 
 
 
@@ -4149,167 +4246,88 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **190** Les définitions qui suivent s’appliquent à la présente section.
 
-***électeur*** S’entend de l’électeur des Forces canadiennes au sens de l’article 191. (*elector*)
+***adresse de substitution*** Adresse du bureau du directeur du scrutin de la circonscription où se trouve le lieu de résidence habituelle de l’électeur. (*alternative address*)
+
+***électeur*** Personne visée à l’article 191. (*elector*)
+
+***numéro matricule*** Identifiant unique assigné par les Forces canadiennes sous le régime de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) à tout membre des Forces canadiennes. (*service number*)
 
 ***période de scrutin*** Période commençant le quatorzième jour avant le jour du scrutin et se terminant le neuvième jour avant le jour du scrutin. (*voting period*)
+> 2000, ch. 9, art. 190; 2018, ch. 31, art. 130.
 
 
 
 
-#### Droit de vote et circonscription
+
+**Fonctionnaires électoraux**
+
+**190.1** Pour l’application de l’article 9, des paragraphes 23(1) et (2) et de l’article 23.1, l’agent coordonnateur, les agents de liaison désignés au titre du paragraphe 199.2(1), les commandants et les fonctionnaires électoraux d’unité sont réputés être des fonctionnaires électoraux; s’ils sont démis de leurs fonctions, l’alinéa 43c), le paragraphe 484(1) et l’alinéa 484(3)f) leur sont également applicables.
+> 2018, ch. 31, art. 131.
 
 
 
-**Qualités requises et droit de vote des électeurs**
 
-**191** Sont des électeurs des Forces canadiennes les personnes qui ont la qualité d’électeur en vertu de l’article 3 et que l’article 4 ne rend pas inhabiles à voter et qui sont :
+
+#### Droit de vote
+
+
+
+**Qualités requises et droit de vote**
+
+**191** Ont droit de voter en vertu de la présente section les personnes qui ont la qualité d’électeur en vertu de l’article 3 et qui sont :
 - **a)** membres de la force régulière des Forces canadiennes;
-- **b)** membres de la force de réserve des Forces canadiennes qui sont à l’instruction ou en service à temps plein, ou en service actif;
-- **c)** membres de la force spéciale des Forces canadiennes;
-- **d)** employées, à l’étranger, par les Forces canadiennes à titre de professeurs ou à titre de membres du personnel de soutien administratif dans les écoles des Forces canadiennes.
+- **b)** membres de la force de réserve des Forces canadiennes;
+- **c)** membres de la force spéciale des Forces canadiennes.
+- **d)** [Abrogé, 2018, ch. 31, art. 133]
+> 2000, ch. 9, art. 191; 2018, ch. 31, art. 133.
 
 
 
 
-**Vote restreint à la circonscription de résidence habituelle**
 
-**192** Dans le cadre de la présente section, un électeur ne peut voter que pour un candidat présenté dans la circonscription où est situé le lieu indiqué comme résidence habituelle dans sa déclaration de résidence habituelle.
+#### Inscription
 
 
 
+**Droit de s’inscrire**
 
-**Vote au lieu de résidence habituelle**
+**192** 
 
-**193** S’il n’a pas déjà voté dans le cadre de la présente section, l’électeur peut voter au bureau de scrutin de la section de vote où il réside habituellement si, le jour du scrutin, il réside habituellement dans la circonscription visée à l’article 192.
+- **(1)** Le commandant de la personne qui obtient le droit de voter en vertu de la présente section l’informe de son droit de demander au directeur général des élections son inscription au Registre des électeurs ou, si elle y est déjà inscrite, la mise à jour de son inscription.
 
+**Droit de s’inscrire — futur électeur**
 
+- **(2)** Lorsqu’un futur électeur s’enrôle dans les Forces canadiennes, ou lorsqu’un membre des Forces canadiennes obtient la qualité de futur électeur, son commandant l’informe de son droit de demander au directeur général des élections son inscription au Registre des futurs électeurs ou, s’il y est déjà inscrit, la mise à jour de son inscription.
 
+**Numéro matricule**
 
-#### Déclaration de résidence habituelle
+- **(3)** L’électeur, ou le futur électeur qui est membre des Forces canadiennes, qui demande au directeur général des élections son inscription au Registre des électeurs, ou au Registre des futurs électeurs, ou la mise à jour de son inscription, lui fournit son numéro matricule.
+> 2000, ch. 9, art. 192; 2018, ch. 31, art. 134.
 
 
 
-**Établissement lors de l’enrôlement**
 
-**194** 
+**193** [Abrogé, 2018, ch. 31, art. 134]
 
-- **(1)** Pour avoir le droit de voter en vertu de la présente section, toute personne doit, sans délai après être devenue un électeur visé aux alinéas 191a), c) ou d) par son enrôlement dans les Forces canadiennes ou son embauche par celles-ci, établir une déclaration de résidence habituelle, selon le formulaire prescrit, indiquant :
-	- **a)** ses nom, prénoms, sexe et grade;
-	- **b)** sa date de naissance;
-	- **c)** l’adresse municipale du lieu de sa résidence habituelle au Canada au moment de son enrôlement ou de son embauche;
-	- **d)** son adresse postale actuelle.
 
-**Acquisition de résidence canadienne**
 
-- **(2)** La personne qui ne peut établir une déclaration de résidence habituelle visée au paragraphe (1) parce qu’elle n’avait pas de lieu de résidence habituelle au Canada avant son enrôlement dans les Forces canadiennes ou son embauche par celles-ci doit l’établir dès qu’elle peut indiquer tout lieu visé aux alinéas (4)a) ou b) comme lieu de résidence habituelle.
+**194** [Abrogé, 2018, ch. 31, art. 134]
 
-**Membres des Forces canadiennes qui sont inhabiles à voter**
 
-- **(3)** Les personnes qui n’ont pas qualité d’électeur lors de leur enrôlement dans les Forces canadiennes ou leur embauche par celles-ci doivent établir la déclaration visée au paragraphe (1) dès qu’elles acquièrent cette qualité, indiquant un lieu de résidence habituelle conformément au paragraphe (4).
 
-**Modification du lieu de la résidence habituelle**
+**195** [Abrogé, 2018, ch. 31, art. 134]
 
-- **(4)** L’électeur peut modifier sa déclaration de résidence habituelle en indiquant comme lieu de résidence habituelle l’adresse municipale :
-	- **a)** soit de la résidence habituelle de son époux, de son conjoint de fait, d’un parent ou d’une personne à sa charge, d’un parent de son époux ou de son conjoint de fait ou d’une personne avec laquelle il demeurerait si ce n’était de son enrôlement dans les Forces canadiennes ou de son embauche par celles-ci;
-	- **b)** soit du lieu où il réside à cause du service qu’il accomplit à titre de membre des Forces canadiennes;
-	- **c)** soit du lieu de sa résidence habituelle avant son enrôlement ou son embauche.
 
-**Omission d’établir la déclaration**
 
-- **(5)** L’électeur visé aux paragraphes (1), (2) ou (3) peut à tout moment établir une déclaration de résidence habituelle.
+**196** [Abrogé, 2018, ch. 31, art. 134]
 
-**Entrée en vigueur de la modification**
 
-- **(6)** Toute modification de la déclaration de résidence habituelle d’un électeur entre en vigueur :
-	- **a)** si elle est faite pendant la période électorale, quatorze jours après le jour du scrutin;
-	- **b)** dans les autres cas, soixante jours après sa réception par le commandant de son unité.
 
-**Renseignements dont la communication est facultative**
+**197** [Abrogé, 2018, ch. 31, art. 134]
 
-- **(7)** En sus des renseignements prévus au paragraphe (1), le directeur général des élections peut demander à l’électeur de lui communiquer tous renseignements supplémentaires qu’il estime nécessaires à la mise en oeuvre d’accords qu’il peut conclure au titre de l’article 55. La communication de ces renseignements est toutefois facultative.
-> 2000, ch. 9, art. 194, ch. 12, art. 40.
 
 
-
-
-
-**Déclaration d’un membre de la force de réserve non en service actif**
-
-**195** 
-
-- **(1)** Tout membre de la force de réserve des Forces canadiennes qui n’est pas en service actif et qui, au cours de la période commençant à la délivrance des brefs et se terminant le samedi précédant le jour du scrutin, est à l’instruction ou en service à temps plein doit établir une déclaration de résidence habituelle, selon le formulaire prescrit, indiquant :
-	- **a)** ses nom, prénoms, sexe et grade;
-	- **b)** sa date de naissance;
-	- **c)** l’adresse municipale du lieu de sa résidence habituelle au Canada immédiatement avant cette période d’instruction ou de service à temps plein;
-	- **d)** son adresse postale actuelle.
-
-**Déclaration d’un membre de la force de réserve en service actif**
-
-- **(2)** Le membre de la force de réserve des Forces canadiennes qui est mis en service actif doit, sauf si, avant d’y être mis, il était à l’instruction ou en service à temps plein et a établi la déclaration de résidence habituelle visée au paragraphe (1), établir une déclaration de résidence habituelle, selon le formulaire prévu au paragraphe (1), indiquant :
-	- **a)** ses nom, prénoms, sexe et grade;
-	- **b)** sa date de naissance;
-	- **c)** l’adresse municipale du lieu de sa résidence habituelle au Canada avant qu’il soit mis en service actif;
-	- **d)** son adresse postale actuelle.
-
-**Membres de la force de réserve qui sont inhabiles à voter**
-
-- **(3)** Les membres de la force de réserve des Forces canadiennes visés aux paragraphes (1) ou (2) qui n’ont pas qualité d’électeur pendant qu’ils sont en instruction ou en service doivent établir la déclaration visée aux paragraphes (1) ou (2), selon le cas, dès qu’ils acquièrent cette qualité, indiquant un lieu de résidence habituelle conformément au paragraphe (4).
-
-**Modification du lieu de sa résidence habituelle**
-
-- **(4)** L’électeur peut modifier sa déclaration de résidence habituelle en indiquant comme lieu de résidence habituelle l’adresse municipale :
-	- **a)** soit de la résidence habituelle de la personne avec laquelle il demeurerait si ce n’était de sa période d’instruction ou de service ou d’une personne qu’il désigne comme son plus proche parent;
-	- **b)** soit du lieu où il réside pendant sa période d’instruction ou de service;
-	- **c)** soit du lieu de sa résidence habituelle avant sa période d’instruction ou de service.
-
-**Omission d’établir la déclaration**
-
-- **(5)** L’électeur visé aux paragraphes (1), (2) ou (3) peut à tout moment établir une déclaration de résidence habituelle.
-
-**Entrée en vigueur de la modification**
-
-- **(6)** Toute modification de la déclaration de résidence habituelle d’un électeur entre en vigueur :
-	- **a)** si elle est faite pendant la période électorale, quatorze jours après le jour du scrutin;
-	- **b)** dans les autres cas, soixante jours après sa réception par le commandant de son unité.
-
-**Renseignements dont la communication est facultative**
-
-- **(7)** En sus des renseignements prévus au paragraphe (1), le directeur général des élections peut demander à l’électeur de lui communiquer tous renseignements supplémentaires qu’il estime nécessaires à la mise en oeuvre d’accords qu’il peut conclure au titre de l’article 55. La communication de ces renseignements est toutefois facultative.
-
-
-
-
-**Transmission de la déclaration au directeur général des élections**
-
-**196** 
-
-- **(1)** L’original de la déclaration de résidence habituelle, à l’exception de celle qui est établie dans le cadre de l’article 195, est transmis au directeur général des élections; une copie de l’original est conservée à l’unité où l’électeur est en service.
-
-**Certification**
-
-- **(2)** Sur réception de la déclaration de résidence habituelle, le directeur général des élections la certifie par l’inscription du nom de la circonscription dans laquelle est situé le lieu de résidence habituelle qui est inscrit dans la déclaration et la retourne au commandant de l’unité où l’électeur est en service.
-
-**Rétention par l’unité**
-
-- **(3)** Sur réception de la déclaration de résidence habituelle certifiée, le commandant la verse au dossier de l’électeur à son unité et détruit la copie qu’il avait conservée conformément au paragraphe (1).
-
-**Destruction des copies antérieures**
-
-- **(4)** Dès qu’une déclaration de résidence habituelle certifiée est reçue à l’unité pour un électeur, l’original et toutes les copies d’une déclaration antérieure de résidence habituelle de l’électeur peuvent être détruits.
-
-
-
-
-**Rétention de la déclaration de résidence habituelle des réservistes**
-
-**197** La déclaration de résidence habituelle établie par un membre de la force de réserve des Forces canadiennes dans le cadre de l’article 195 est conservée à l’unité où le membre est à l’instruction ou en service à temps plein ou est en service actif, selon le cas.
-
-
-
-
-**Conservation des déclarations**
-
-**198** Les déclarations de résidence habituelle d’une personne qui n’a plus le droit de voter en vertu de la présente section sont conservées pendant l’année qui suit et peuvent ensuite être détruites.
+**198** [Abrogé, 2018, ch. 31, art. 134]
 
 
 
@@ -4324,13 +4342,39 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** Le ministre de la Défense nationale désigne un agent coordonnateur pour travailler, tant au cours de la période électorale qu’entre les périodes électorales, avec le directeur général des élections à l’application de la présente section.
 
-**Obligation de l’agent coordonnateur**
+**Obligation**
 
-- **(2)** L’agent coordonnateur transmet au directeur général des élections, à la demande de celui-ci, les renseignements suivants concernant les électeurs :
-	- **a)** leurs nom, prénoms, sexe et grade;
-	- **b)** leur date de naissance;
-	- **c)** l’adresse municipale de leur résidence habituelle figurant dans une déclaration de résidence habituelle qui a été certifiée;
-	- **d)** leur adresse postale actuelle.
+- **(2)** L’agent coordonnateur transmet au directeur général des élections, à la demande de celui-ci, les renseignements ci-après concernant tout électeur ou futur électeur :
+	- **a)** ses nom, prénoms, genre, grade et numéro matricule;
+	- **b)** sa date de naissance;
+	- **c)** les adresses municipale et postale du lieu de sa résidence habituelle;
+	- **d)** son adresse postale actuelle.
+
+**Mise à jour des registres**
+
+- **(3)** Le directeur général des élections peut utiliser les renseignements qui lui sont transmis en application du paragraphe (2) pour mettre à jour le Registre des électeurs ou le Registre des futurs électeurs.
+
+**Conservation de certains renseignements**
+
+- **(4)** Le directeur général des élections peut conserver les renseignements qui lui sont transmis en application du paragraphe (2) et qui ne figurent pas au Registre des électeurs ou au Registre des futurs électeurs pour permettre la corrélation entre les renseignements qui seront recueillis subséquemment et ceux qui figurent au registre en cause.
+
+**Transmission de renseignements à l’agent coordonnateur**
+
+- **(5)** Le directeur général des élections peut transmettre à l’agent coordonnateur les renseignements visés à l’un ou l’autre des alinéas (2)a) à d) concernant les électeurs ou les futurs électeurs qui ont fourni un numéro matricule sous le régime de la présente partie.
+> 2000, ch. 9, art. 199; 2018, ch. 31, art. 135.
+
+
+
+
+
+**Coopération**
+
+**199.1** L’agent coordonnateur coopère avec l’administrateur des règles électorales spéciales en vue de faciliter le vote, en vertu des sections 3 et 4 de la présente partie, des personnes qui :
+- **a)** soit sont employées, à l’étranger, par les Forces canadiennes ou pour soutenir celles-ci;
+- **b)** soit accompagnent une unité ou un autre élément des Forces canadiennes qui est en service, actif ou non, à l’étranger, au sens du paragraphe 61(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+- **c)** soit résident à l’étranger avec un membre des Forces canadiennes ou avec une personne visée aux alinéas a) ou b).
+> 2018, ch. 31, art. 136.
+
 
 
 
@@ -4405,13 +4449,36 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(2)** L’avis informe les électeurs de la tenue de l’élection et de la date du scrutin, et précise :
 	- **a)** qu’un électeur peut voter conformément à la présente section;
-	- **b)** que le commandant désignera des scrutateurs pour recueillir leur vote et fixera les heures et jours de scrutin pendant la période de scrutin.
+	- **b)** que le commandant désignera des fonctionnaires électoraux d’unité pour recueillir leur vote et fixera les heures et jours de scrutin pendant la période de scrutin.
 
 **Teneur de la liste**
 
-- **(3)** La liste est dressée selon l’ordre alphabétique et donne les nom, prénoms, sexe et grade de chaque électeur ainsi que :
-	- **a)** si sa déclaration de résidence habituelle a été certifiée, le nom de la circonscription figurant sur celle-ci;
-	- **b)** sinon, le lieu de résidence habituelle figurant dans sa déclaration de résidence habituelle.
+- **(3)** La liste est dressée selon l’ordre alphabétique et donne les nom, prénoms, numéro matricule, adresse du lieu de résidence habituelle et circonscription de chaque électeur.
+> 2000, ch. 9, art. 204; 2018, ch. 31, art. 138.
+
+
+
+
+
+**Adresse de substitution — commandant**
+
+**204.1** 
+
+- **(1)** Le commandant peut, pour des raisons de sécurité opérationnelle, indiquer sur la liste des électeurs, pour l’ensemble des électeurs de son unité ou pour certains d’entre eux, leur adresse de substitution plutôt que celle qui devrait y figurer en application du paragraphe 204(3).
+
+**Adresse de substitution — électeur**
+
+- **(2)** L’électeur peut, pour des raisons de sécurité opérationnelle ou s’il a des motifs raisonnables d’appréhender des lésions corporelles si l’adresse de son lieu de résidence habituelle est indiquée sur la liste des électeurs, demander à son commandant de ne pas indiquer cette adresse sur la liste des électeurs. Sauf s’il juge qu’il n’est pas dans l’intérêt public de le faire, le commandant accepte la demande et indique l’adresse de substitution de l’électeur sur la liste.
+
+**Administrateur des règles électorales spéciales informé**
+
+- **(3)** Le commandant qui indique une adresse de substitution sur la liste des électeurs au titre du présent article en informe l’administrateur des règles électorales spéciales, par l’entremise d’un agent de liaison.
+
+**Précision**
+
+- **(4)** Il est entendu que l’indication d’une adresse de substitution sur la liste des électeurs au titre du présent article n’a pas pour effet de modifier le lieu de résidence habituelle de l’électeur pour l’application de la présente loi.
+> 2018, ch. 31, art. 139.
+
 
 
 
@@ -4420,11 +4487,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **205** 
 
-- **(1)** Dans un délai de sept jours après avoir été avisé de la délivrance des brefs, le commandant :
+- **(1)** Après avoir été avisé de la délivrance des brefs, mais au plus tard le vingt-huitième jour précédant le jour du scrutin, le commandant :
 	- **a)** établit les bureaux de scrutin;
-	- **b)** désigne un électeur pour agir à titre de scrutateur pour chaque bureau de scrutin;
-	- **c)** par l’entremise d’un agent de liaison, fournit au directeur général des élections la liste des scrutateurs désignés avec mention de leur grade et un nombre suffisant d’exemplaires de la liste des électeurs de son unité;
-	- **d)** fournit aux scrutateurs la liste des électeurs de son unité.
+	- **b)** désigne — en nombre suffisant pour permettre la tenue du vote à chaque bureau de scrutin — des électeurs pour agir à titre de fonctionnaires électoraux d’unité;
+	- **c)** par l’entremise d’un agent de liaison, fournit à l’administrateur des règles électorales spéciales la liste des fonctionnaires électoraux d’unité avec mention de leur grade et la liste des électeurs de son unité;
+	- **d)** fournit aux fonctionnaires électoraux d’unité la liste des électeurs de son unité.
 
 **Installations**
 
@@ -4433,6 +4500,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Heures et jours de scrutin**
 
 - **(3)** Le commandant fixe les heures de scrutin en faisant en sorte que les bureaux de scrutin dans son unité soient ouverts pendant au moins trois heures par jour et pendant au moins trois jours pendant la période de scrutin.
+> 2000, ch. 9, art. 205; 2018, ch. 31, art. 140.
+
 
 
 
@@ -4450,9 +4519,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Bureau de scrutin commun**
+**Bureaux de scrutin communs**
 
-**207** Les commandants d’unités qui sont situées dans la même localité peuvent établir un seul bureau de scrutin à l’intention de tous les électeurs de ces unités s’ils l’estiment utile à l’application de la présente section.
+**207** Les commandants d’unités peuvent établir un bureau de scrutin commun à l’intention des électeurs de leurs unités s’ils l’estiment utile à l’application de la présente section.
+> 2000, ch. 9, art. 207; 2018, ch. 31, art. 141.
+
 
 
 
@@ -4470,8 +4541,10 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Matériel électoral**
 
 **209** Dès qu’il reçoit le matériel électoral et la liste des candidats, le commandant :
-- **a)** distribue ce matériel en quantité suffisante aux scrutateurs désignés;
-- **b)** affiche, dans un ou plusieurs endroits bien en vue, des exemplaires de la liste.
+- **a)** distribue ce matériel aux fonctionnaires électoraux d’unité;
+- **b)** affiche la liste dans un ou plusieurs endroits bien en vue ou la rend autrement accessible aux électeurs de son unité.
+> 2000, ch. 9, art. 209; 2018, ch. 31, art. 142.
+
 
 
 
@@ -4480,23 +4553,112 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Obligations du scrutateur**
+**Obligations du fonctionnaire électoral d’unité**
 
-**210** Pendant la période de scrutin, le scrutateur affiche au moins deux exemplaires des instructions du directeur général des élections relatives au vote prévu à la présente section, selon le formulaire prescrit, dans des endroits bien en vue du bureau de scrutin et tient à la disposition des électeurs, pour consultation, le texte de la présente partie, les indicateurs de rues, le guide des circonscriptions et la liste des candidats.
+**210** Pendant la période de scrutin, le fonctionnaire électoral d’unité prend les mesures suivantes :
+- **a)** il affiche dans des endroits bien en vue du bureau de scrutin, ou rend autrement accessible aux électeurs, les instructions du directeur général des élections relatives au vote prévu à la présente section;
+- **b)** il tient à la disposition des électeurs, pour consultation, le texte de la présente partie, le matériel servant à déterminer la circonscription dans laquelle chaque électeur peut voter et la liste des candidats.
+> 2000, ch. 9, art. 210; 2018, ch. 31, art. 143.
+
 
 
 
 
 **Représentants des partis enregistrés**
 
-**211** Tout citoyen canadien peut, sur remise au scrutateur d’une autorisation, selon le formulaire prescrit, remplie et signée par un candidat, agir au bureau de scrutin à titre de représentant du parti enregistré de ce candidat.
+**211** Tout citoyen canadien peut, sur remise au fonctionnaire électoral d’unité d’une copie d’une autorisation, selon le formulaire prescrit, signée par un candidat, agir au bureau de scrutin à titre de représentant du parti enregistré de ce candidat.
+> 2000, ch. 9, art. 211; 2018, ch. 31, art. 143.
 
 
 
 
-**Déclaration obligatoire devant le scrutateur**
 
-**212** Avant de remettre un bulletin de vote spécial à un électeur, le scrutateur lui fait établir une déclaration de résidence habituelle si aucune déclaration ne figure à son dossier et lui fait signer la déclaration figurant sur l’enveloppe extérieure.
+**Obligation de décliner nom, etc.**
+
+**211.1** 
+
+- **(1)** À son arrivée au bureau de scrutin, chaque électeur décline ses nom et numéro matricule ainsi que l’adresse de son lieu de résidence habituelle au fonctionnaire électoral d’unité et, sur demande, au représentant d’un parti enregistré.
+
+**Adresse de substitution**
+
+- **(2)** Pour l’application du paragraphe (1), l’électeur pour lequel une adresse de substitution est indiquée sur la liste des électeurs au titre de l’article 204.1 peut fournir cette adresse.
+
+**Vérification de l’identité**
+
+- **(3)** Le fonctionnaire électoral d’unité s’assure que le nom, le numéro matricule et l’adresse de l’électeur figurent sur la liste des électeurs; l’électeur présente alors au fonctionnaire électoral d’unité les documents ci-après pour établir son identité :
+	- **a)** soit une pièce d’identité délivrée par les Forces canadiennes et comportant sa photographie, son nom et son numéro matricule;
+	- **b)** soit deux pièces d’identité, d’un type autorisé au titre de l’article 211.3, qui, toutes deux, établissent son nom et dont au moins une établit son numéro matricule.
+
+**Examen des pièces d’identité**
+
+- **(4)** Le représentant d’un parti enregistré peut examiner toute pièce d’identité présentée au titre du présent article mais ne peut la manipuler.
+
+**Nom biffé de la liste**
+
+- **(5)** Si le fonctionnaire électoral d’unité est convaincu que l’identité de l’électeur a été établie conformément au présent article, le nom de l’électeur est biffé de la liste.
+> 2018, ch. 31, art. 143.
+
+
+
+
+
+**Demande d’inscription et de bulletin de vote spécial**
+
+**211.2** 
+
+- **(1)** L’électeur dont le nom ne figure pas sur la liste des électeurs ou pour lequel l’adresse qui figure sur cette liste n’est pas celle du lieu de sa résidence habituelle peut remplir une demande d’inscription et de bulletin de vote spécial, la remettre au fonctionnaire électoral d’unité et présenter à celui-ci les documents ci-après pour établir son identité :
+	- **a)** soit une pièce d’identité délivrée par les Forces canadiennes et comportant sa photographie, son nom et son numéro matricule;
+	- **b)** soit deux pièces d’identité, d’un type autorisé au titre de l’article 211.3, qui, toutes deux, établissent son nom et dont au moins une établit son numéro matricule.
+
+**Contenu de la demande**
+
+- **(2)** La demande d’inscription et de bulletin de vote spécial est faite selon le formulaire prescrit et doit contenir les éléments suivants, en ce qui concerne l’électeur :
+	- **a)** ses nom et prénoms;
+	- **b)** sa date de naissance;
+	- **c)** son numéro matricule;
+	- **d)** les adresses municipale et postale du lieu de sa résidence habituelle;
+	- **e)** son adresse postale actuelle;
+	- **f)** tout autre renseignement que le directeur général des élections estime nécessaire pour déterminer la circonscription dans laquelle l’électeur peut voter.
+
+**Adresses de substitution**
+
+- **(3)** L’électeur peut, pour des raisons de sécurité opérationnelle ou s’il a des motifs raisonnables d’appréhender des lésions corporelles s’il révèle les adresses visées à l’alinéa (2)d), demander à son commandant de l’autoriser à indiquer une autre adresse. Sauf s’il juge qu’il n’est pas dans l’intérêt public de le faire, le commandant accepte la demande et fournit à l’électeur l’adresse de substitution à utiliser pour la demande d’inscription et de bulletin de vote spécial.
+
+**Renseignements dont la communication est facultative**
+
+- **(4)** En plus des renseignements prévus au paragraphe (2), le directeur général des élections peut demander à l’électeur de lui communiquer tous autres renseignements qu’il estime nécessaires à la mise en oeuvre d’accords qu’il peut conclure au titre de l’article 55. La communication de ces renseignements est toutefois facultative.
+
+**Examen des pièces d’identité**
+
+- **(5)** Le représentant d’un parti enregistré peut examiner toute pièce d’identité présentée au titre du présent article mais ne peut la manipuler.
+
+**Approbation de la demande**
+
+- **(6)** Si le fonctionnaire électoral d’unité est convaincu que l’identité de l’électeur a été établie conformément au présent article, il approuve la demande d’inscription et de bulletin de vote spécial.
+
+**Application des paragraphes 204.1(3) et (4)**
+
+- **(7)** Si des adresses de substitution sont utilisées conformément au paragraphe (3), les paragraphes 204.1(3) et (4) s’appliquent avec les adaptations nécessaires.
+> 2018, ch. 31, art. 143.
+
+
+
+
+
+**Autorisation de types d’identification**
+
+**211.3** Pour l’application des alinéas 211.1(3)b) et 211.2(1)b), le directeur général des élections peut, en consultation avec l’agent coordonnateur, autoriser les types d’identification. Il est entendu qu’il peut autoriser tout document, sans égard à son auteur.
+> 2018, ch. 31, art. 143.
+
+
+
+
+
+**Déclaration de l’électeur**
+
+**212** Le fonctionnaire électoral d’unité fait signer à l’électeur dont le nom a été biffé de la liste des électeurs ou dont la demande d’inscription et de bulletin de vote spécial a été approuvée la déclaration prescrite par le directeur général des élections.
+> 2000, ch. 9, art. 212; 2018, ch. 31, art. 143.
+
 
 
 
@@ -4505,25 +4667,31 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **213** 
 
-- **(1)** Une fois les déclarations remplies, le scrutateur remet à l’électeur un bulletin de vote spécial, l’enveloppe intérieure et l’enveloppe extérieure signée.
+- **(1)** Une fois la déclaration visée à l’article 212 signée, le fonctionnaire électoral d’unité remet à l’électeur un bulletin de vote spécial, une enveloppe intérieure, la déclaration, si elle ne figure pas sur l’enveloppe extérieure, et l’enveloppe extérieure.
+
+**Restriction**
+
+- **(1.1)** L’électeur qui se voit ainsi remettre un bulletin de vote spécial ne peut voter qu’en vertu de la présente section.
 
 **Vote**
 
-- **(2)** L’électeur vote de la façon suivante : il s’isole pour inscrire sur le bulletin de vote spécial le nom du candidat de son choix, plie le bulletin de vote et, devant le scrutateur :
+- **(2)** Pour voter, l’électeur s’isole pour inscrire sur le bulletin de vote spécial le nom du candidat de son choix, plie le bulletin de vote et, devant le fonctionnaire électoral d’unité :
 	- **a)** met le bulletin de vote plié dans l’enveloppe intérieure et la scelle;
-	- **b)** met l’enveloppe intérieure dans l’enveloppe extérieure et scelle celle-ci.
+	- **b)** met l’enveloppe intérieure et la déclaration, si elle ne figure pas sur l’enveloppe extérieure, dans l’enveloppe extérieure et scelle celle-ci.
 
 **Façon d’indiquer le nom du candidat**
 
 - **(3)** Le candidat est désigné par son prénom ou ses initiales et son nom de famille ainsi que, si plusieurs candidats ont le même nom, par son appartenance politique.
 
-**Bulletin de remplacement**
+**Bulletin annulé**
 
-- **(4)** Si l’électeur s’est par inadvertance servi d’un bulletin de vote spécial de manière à le rendre inutilisable, il le remet au scrutateur; celui-ci annule le bulletin de vote spécial et en remet un autre à l’électeur.
+- **(4)** Si le bulletin de vote spécial d’un électeur est inutilisable, il le remet au fonctionnaire électoral d’unité; celui-ci annule le bulletin de vote spécial et en remet un autre à l’électeur.
 
 **Limite**
 
 - **(5)** L’électeur ne peut recevoir qu’un seul bulletin de vote spécial en vertu du paragraphe (4).
+> 2000, ch. 9, art. 213; 2018, ch. 31, art. 144.
+
 
 
 
@@ -4532,39 +4700,43 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **214** 
 
-- **(1)** Le scrutateur informe l’électeur que, pour que son vote soit compté, l’enveloppe extérieure doit parvenir à l’administrateur des règles électorales spéciales, à Ottawa, au plus tard à 18 h le jour du scrutin; il lui indique le bureau de poste ou la boîte aux lettres les plus proches et lui mentionne qu’un service est mis à sa disposition par les Forces canadiennes pour l’expédition des enveloppes extérieures.
+- **(1)** Le fonctionnaire électoral d’unité informe l’électeur que, pour que son bulletin de vote spécial soit compté, l’enveloppe extérieure doit parvenir à l’administrateur des règles électorales spéciales, dans la région de la capitale nationale, au plus tard à 18 h le jour du scrutin; il lui mentionne qu’un service est mis à sa disposition par les Forces canadiennes pour l’expédition des enveloppes extérieures.
 
 **Expédition de l’enveloppe**
 
 - **(2)** S’il n’a pas recours au service mis à sa disposition par les Forces canadiennes, l’électeur doit expédier lui-même l’enveloppe extérieure à l’administrateur des règles électorales spéciales.
 
-**Affranchissement**
-
-- **(3)** Pour les électeurs qui décident d’utiliser le service postal, le scrutateur veille à ce que les enveloppes extérieures soient suffisamment affranchies.
-
-
-
-
-**Vote du scrutateur**
-
-**215** S’il est habilité à voter, le scrutateur peut voter conformément à la présente section.
+- **(3)** [Abrogé, 2018, ch. 31, art. 145]
+> 2000, ch. 9, art. 214; 2018, ch. 31, art. 145.
 
 
 
 
-**Limitation fonctionnelle**
+
+**Vote du fonctionnaire électoral d’unité**
+
+**215** S’il est habilité à voter, le fonctionnaire électoral d’unité peut voter en vertu de la présente section.
+> 2000, ch. 9, art. 215; 2018, ch. 31, art. 146.
+
+
+
+
+
+**Aide du fonctionnaire électoral d’unité**
 
 **216** 
 
-- **(1)** Lorsqu’un électeur a une limitation fonctionnelle qui le rend incapable de voter de la manière prévue par la présente section, le scrutateur l’aide :
-	- **a)** en remplissant la déclaration figurant sur l’enveloppe extérieure et en inscrivant le nom de l’électeur à l’endroit prévu pour sa signature;
+- **(1)** Lorsque l’électeur ne peut lire ou a une déficience qui le rend incapable de voter de la manière prévue par la présente section, le fonctionnaire électoral d’unité l’aide :
+	- **a)** en remplissant la déclaration visée à l’article 212 et en inscrivant le nom de l’électeur à l’endroit prévu pour sa signature;
 	- **b)** en inscrivant sur le bulletin de vote spécial le nom du candidat indiqué par l’électeur, en présence de celui-ci et d’un autre électeur choisi par celui-ci.
 
 **Note et secret**
 
-- **(2)** Le scrutateur et l’électeur en présence duquel est donné le vote de l’électeur en vertu du paragraphe (1) :
-	- **a)** indiquent que l’électeur a été aidé en signant la note figurant sur l’enveloppe extérieure;
+- **(2)** Le fonctionnaire électoral d’unité et l’électeur en présence duquel est donné le vote de l’électeur en vertu du paragraphe (1) :
+	- **a)** indiquent que l’électeur a été aidé en signant la note figurant sur la déclaration;
 	- **b)** sont tenus de garder secret le nom du candidat indiqué par l’électeur.
+> 2000, ch. 9, art. 216; 2018, ch. 31, art. 147.
+
 
 
 
@@ -4575,39 +4747,66 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** L’électeur qui séjourne dans un hôpital militaire ou dans un établissement militaire de convalescence pendant que se déroule le vote dans son unité est réputé être un membre de l’unité qui est sous le commandement de l’officier qui dirige l’hôpital ou l’établissement de convalescence.
 
-**Scrutateur pour les électeurs hospitalisés**
+**Fonctionnaire électoral d’unité pour les électeurs hospitalisés**
 
-- **(2)** Lorsqu’aucun scrutateur n’est désigné pour un hôpital militaire ou un établissement militaire de convalescence, le scrutateur nommé pour l’unité à laquelle appartient l’hôpital ou l’établissement peut faire voter les électeurs qui séjournent dans l’hôpital ou l’établissement.
+- **(2)** Lorsqu’aucun fonctionnaire électoral d’unité n’est désigné pour un hôpital militaire ou un établissement militaire de convalescence, le fonctionnaire électoral d’unité nommé pour l’unité à laquelle appartient l’hôpital ou l’établissement peut faire voter les électeurs qui séjournent dans l’hôpital ou l’établissement.
 
 **Électeurs alités**
 
-- **(3)** Le scrutateur devant qui votent les électeurs qui séjournent dans un hôpital militaire ou dans un établissement militaire de convalescence peut, avec l’agrément de l’officier qui dirige l’hôpital ou l’établissement et s’il l’estime indiqué, aller de chambre en chambre en vue de recueillir les votes des électeurs qui sont alités.
+- **(3)** Le fonctionnaire électoral d’unité devant qui votent les électeurs qui séjournent dans un hôpital militaire ou dans un établissement militaire de convalescence peut, avec l’agrément de l’officier qui dirige l’hôpital ou l’établissement et s’il l’estime indiqué, aller de chambre en chambre en vue de recueillir les votes des électeurs qui sont alités.
+> 2000, ch. 9, art. 217; 2018, ch. 31, art. 148.
+
 
 
 
 
 **Électeur absent de son unité**
 
-**218** L’électeur qui est absent pendant la période fixée pour le vote dans son unité parce qu’il est en service, en congé ou en permission peut, sur production d’une preuve satisfaisante à cet effet, demander au scrutateur d’une autre unité de le faire voter pendant la période fixée pour le vote dans cette unité.
+**218** L’électeur qui est absent pendant la période fixée pour le vote dans son unité parce qu’il est en service, en congé ou en permission peut, sur production d’une preuve satisfaisante à cet égard et conformément à l’article 211.2, demander au fonctionnaire électoral d’unité d’une autre unité de le faire voter pendant la période fixée pour le vote dans cette unité.
+> 2000, ch. 9, art. 218; 2018, ch. 31, art. 149.
 
 
 
 
-**Obligations du scrutateur à la fin du scrutin**
+
+**Transmission de documents au commandant**
 
 **219** 
 
-- **(1)** Lorsque la période de scrutin prend fin, le scrutateur transmet au commandant :
-	- **a)** les enveloppes extérieures contenant les bulletins de vote spéciaux marqués;
-	- **b)** les enveloppes extérieures inutilisées ou annulées;
-	- **c)** les bulletins de vote spéciaux inutilisés ou annulés et les enveloppes intérieures inutilisées;
-	- **d)** dans un colis distinct et clairement identifié, les déclarations de résidence habituelle établies au moment du vote.
+- **(1)** Le fonctionnaire électoral d’unité transmet au commandant :
+	- **a)** à la fin de chaque journée de scrutin, dans la mesure du possible, et au plus tard lorsque la période de scrutin prend fin, les enveloppes extérieures contenant les bulletins de vote spéciaux marqués, les demandes d’inscription et de bulletin de vote spécial qu’il a approuvées et le numéro matricule des électeurs ayant reçu un bulletin de vote spécial;
+	- **b)** lorsque la période de scrutin prend fin, les enveloppes extérieures annulées, les bulletins de vote spéciaux annulés et tous autres documents électoraux et matériel électoral en sa possession.
 
-**Obligations du commandant après le vote**
+**Transmission des enveloppes extérieures, etc.**
 
-- **(2)** Sur réception des documents visés au paragraphe (1), le commandant :
-	- **a)** traite, conformément à la présente section, les originaux et les copies des déclarations de résidence habituelle qui lui ont été transmises;
-	- **b)** transmet au directeur général des élections tous les autres documents et le matériel électoral qu’il a reçus des scrutateurs.
+- **(1.1)** Sur réception des enveloppes extérieures et des demandes d’inscription et de bulletin de vote spécial visées à l’alinéa (1)a), le commandant les transmet à l’administrateur des règles électorales spéciales.
+
+**Fourniture de renseignements**
+
+- **(1.2)** Sur réception de numéros matricules visés à l’alinéa (1)a), le commandant informe l’administrateur des règles électorales spéciales, par l’entremise de l’agent de liaison, de l’identité des électeurs ayant reçu un bulletin de vote spécial.
+
+**Transmission de documents électoraux et matériel électoral**
+
+- **(2)** Sur réception de documents électoraux ou matériel électoral visés à l’alinéa (1)b), le commandant les transmet à l’administrateur des règles électorales spéciales, accompagnés de tout autre matériel électoral en sa possession.
+> 2000, ch. 9, art. 219; 2018, ch. 31, art. 149.
+
+
+
+
+
+**Transmission des renseignements au directeur du scrutin compétent**
+
+**219.1** 
+
+- **(1)** Dès qu’il apprend, en application du paragraphe 219(1.2), qu’un électeur a reçu un bulletin de vote spécial, l’administrateur des règles électorales spéciales en informe le directeur du scrutin de la circonscription du lieu de résidence habituelle de l’électeur.
+
+**Liste électorale — inscription et indication**
+
+- **(2)** Le directeur du scrutin est alors tenu :
+	- **a)** si le nom de l’électeur en cause ne figure pas déjà sur une liste électorale, de l’inscrire sur la liste électorale de la section de vote appropriée de la circonscription en cause;
+	- **b)** d’indiquer sur la liste électorale que l’électeur a reçu un bulletin de vote spécial.
+> 2018, ch. 31, art. 149.
+
 
 
 
@@ -4757,14 +4956,28 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Définition de électeur**
 
-**231** Pour l’application de la présente section, ***électeur*** s’entend de l’électeur, à l’exclusion d’un électeur des Forces canadiennes et d’un électeur incarcéré, qui réside au Canada et qui désire voter en vertu de la présente section.
+**231** Pour l’application de la présente section, ***électeur*** s’entend de l’électeur, à l’exclusion d’un électeur incarcéré, qui réside au Canada et qui désire voter en vertu de la présente section.
+> 2000, ch. 9, art. 231; 2018, ch. 31, art. 157.
+
 
 
 
 
 **Conditions requises pour voter**
 
-**232** Tout électeur a le droit de voter en vertu de la présente section si sa demande d’inscription et de bulletin de vote spécial est reçue entre la délivrance des brefs et le sixième jour précédant le jour du scrutin, à 18 h, par un directeur du scrutin dans une circonscription quelconque ou par l’administrateur des règles électorales spéciales.
+**232** 
+
+- **(1)** Tout électeur a le droit de voter en vertu de la présente section si sa demande d’inscription et de bulletin de vote spécial parvient au directeur du scrutin dans une circonscription quelconque ou à l’administrateur des règles électorales spéciales, après la délivrance des brefs mais avant 18 h le sixième jour précédant le jour du scrutin.
+
+**Conditions requises pour voter — date postérieure**
+
+- **(2)** Si, pour l’application du présent paragraphe, le directeur général des élections fixe et publie sur son site Internet une date postérieure au sixième jour précédant le jour du scrutin et antérieure au jour du scrutin, tout électeur a le droit de voter en vertu de la présente section si sa demande d’inscription et de bulletin de vote spécial parvient au directeur du scrutin dans la circonscription où réside l’électeur ou à l’administrateur des règles électorales spéciales, après la délivrance des brefs, mais avant 18 h à la date fixée par le directeur général des élections.
+
+**Restriction**
+
+- **(3)** Le directeur général des élections peut seulement fixer une date s’il estime que l’intégrité du vote ne sera pas affectée par la réception d’une demande d’inscription et de bulletin de vote spécial après 18 h le sixième jour précédant le jour du scrutin.
+> 2000, ch. 9, art. 232; 2018, ch. 31, art. 157.
+
 
 
 
@@ -4782,30 +4995,19 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Électeur en danger**
 
-- **(1.1)** L’électeur ayant des motifs raisonnables d’appréhender des lésions corporelles s’il révèle l’adresse postale de son lieu d’habitation pour l’application de l’alinéa (1)d) peut demander au directeur du scrutin ou à l’administrateur des règles électorales spéciales de l’autoriser à indiquer une autre adresse. Le directeur ou l’administrateur accepte la demande, sauf s’il juge qu’il n’est pas dans l’intérêt public de le faire, et ne peut révéler l’autre adresse que pour les fins de l’envoi du bulletin de vote spécial à l’électeur. Il est entendu que l’autorisation n’a pas pour effet de modifier la résidence habituelle de l’électeur pour l’application de la présente loi.
+- **(1.1)** L’électeur ayant des motifs raisonnables d’appréhender des lésions corporelles s’il révèle, pour l’application des alinéas (1)a) ou d), l’adresse du lieu de sa résidence habituelle ou son adresse postale peut demander au directeur du scrutin ou à l’administrateur des règles électorales spéciales de l’autoriser à indiquer une autre adresse. Le directeur ou l’administrateur accepte la demande, sauf s’il juge qu’il n’est pas dans l’intérêt public de le faire, et ne peut révéler les adresses visées par la demande qu’aux fins de l’envoi du bulletin de vote spécial à l’électeur. Il est entendu que l’autorisation n’a pas pour effet de modifier la résidence habituelle de l’électeur pour l’application de la présente loi.
 
 **Renseignements dont la communication est facultative**
 
 - **(2)** En sus des renseignements prévus au paragraphe (1), le directeur général des élections peut demander à l’électeur de lui communiquer tous autres renseignements qu’il estime nécessaires à la mise en oeuvre d’accords qu’il peut conclure au titre de l’article 55. La communication de ces renseignements est toutefois facultative.
 
-**Renseignements à fournir**
-
-- **(3)** L’électeur qui présente une demande d’inscription et de bulletin de vote spécial est tenu d’indiquer si son nom figure déjà sur une liste électorale.
-> 2000, ch. 9, art. 233; 2014, ch. 12, art. 59.
+- **(3)** [Abrogé, 2018, ch. 31, art. 158]
+> 2000, ch. 9, art. 233; 2014, ch. 12, art. 59; 2018, ch. 31, art. 158.
 
 
 
 
-
-**Transmission des renseignements au directeur du scrutin compétent**
-
-**234** 
-
-- **(1)** Si le nom de l’électeur figure déjà sur une liste électorale d’une circonscription autre que celle où il a reçu un bulletin de vote spécial, l’administrateur des règles électorales spéciales en informe le directeur du scrutin de la circonscription du lieu de sa résidence habituelle et celui-ci indique sur la liste que l’électeur a reçu un bulletin de vote spécial.
-
-**Inscription sur la liste électorale**
-
-- **(2)** Si le nom de l’électeur ne figure pas déjà sur une liste électorale, l’administrateur des règles électorales spéciales avise le directeur du scrutin qui veille à ce que le nom de l’électeur soit inscrit sur la liste électorale appropriée et à ce que soit indiqué sur celle-ci que l’électeur a reçu un bulletin de vote spécial.
+**234** [Abrogé, 2018, ch. 31, art. 159]
 
 
 
@@ -4817,17 +5019,27 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Indication sur la liste**
+**Indication sur la liste électorale**
 
-**236** Si un électeur présente sa demande dans la circonscription où il est habile à voter, le directeur du scrutin l’inscrit sur la liste électorale appropriée s’il ne l’est pas déjà et indique sur la liste que l’électeur a reçu un bulletin de vote en vertu de la présente section.
+**236** Le directeur du scrutin ou l’administrateur des règles électorales spéciales qui approuve la demande d’inscription et de bulletin de vote spécial veille, conformément aux instructions du directeur général des élections :
+- **a)** à ce que le nom de l’électeur en cause, s’il ne figure pas déjà sur une liste électorale, soit inscrit sur la liste électorale de la section de vote du lieu où se trouve la résidence habituelle de l’électeur;
+- **b)** à ce qu’il soit indiqué sur cette liste électorale que l’électeur a reçu un bulletin de vote spécial.
+> 2000, ch. 9, art. 236; 2018, ch. 31, art. 160.
+
 
 
 
 
 **Bulletin de vote**
 
-**237** Sous réserve de l’article 237.1, après l’approbation de sa demande d’inscription et de bulletin de vote spécial, l’électeur qui a fait la demande reçoit un bulletin de vote spécial — ou, dans le cas visé à l’article 241, un bulletin de vote —, l’enveloppe intérieure et l’enveloppe extérieure.
-> 2000, ch. 9, art. 237; 2014, ch. 12, art. 60.
+**237** 
+
+- **(1)** Sous réserve du paragraphe (2) et de l’article 237.1, après l’approbation de la demande d’inscription et de bulletin de vote spécial, un bulletin de vote spécial est fourni à l’électeur qui a fait la demande.
+
+**Bulletin de vote et enveloppes**
+
+- **(2)** Dans le cas où l’article 241 s’applique, après l’approbation de sa demande d’inscription et de bulletin de vote spécial, l’électeur se voit remettre un bulletin de vote, l’enveloppe intérieure et l’enveloppe extérieure.
+> 2000, ch. 9, art. 237; 2014, ch. 12, art. 60; 2018, ch. 31, art. 160.
 
 
 
@@ -4850,23 +5062,21 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(3)** Le candidat ou son représentant peut examiner toute pièce d’identité présentée par l’électeur mais ne peut la manipuler.
 
-**Interdiction : attester de la résidence de plus d’un électeur**
+- **(3.1)** [Abrogé, 2018, ch. 31, art. 161]
 
-- **(3.1)** Il est interdit à un électeur d’attester de la résidence de plus d’un électeur à une élection.
-
-**Interdiction : attester d’une résidence (propre résidence attestée)**
-
-- **(3.2)** Il est interdit à l’électeur pour lequel un autre électeur a attesté de sa propre résidence d’attester de la résidence d’un autre électeur à la même élection.
+- **(3.2)** [Abrogé, 2018, ch. 31, art. 161]
 
 **Application de dispositions**
 
 - **(4)** Pour l’application du présent article, les dispositions ci-après s’appliquent, avec les adaptations nécessaires, à l’emplacement, au bureau du directeur du scrutin, où l’électeur reçoit son bulletin de vote ou son bulletin de vote spécial comme si cet emplacement était un bureau de scrutin :
 	- **a)** les articles 135 à 137;
-	- **b)** les articles 143 et 144;
+	- **b)** les articles 143 à 144;
 	- **c)** le paragraphe 164(1);
 	- **d)** l’article 166;
+	- **d.1)** les paragraphes 281.6(1) à (4);
+	- **d.2)** l’article 282.2;
 	- **e)** l’alinéa 489(3)c).
-> 2014, ch. 12, art. 60.
+> 2014, ch. 12, art. 60; 2018, ch. 31, art. 161.
 
 
 
@@ -4874,24 +5084,30 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Vote**
 
-**238** Sur réception d’un bulletin de vote spécial, l’électeur vote selon les modalités prévues aux paragraphes 227(2) et (3).
+**238** L’électeur à qui un bulletin de vote spécial a été fourni peut voter uniquement selon les modalités prévues aux paragraphes 227(2) et (3).
+> 2000, ch. 9, art. 238; 2018, ch. 31, art. 162.
 
 
 
 
-**Transmission à l’administrateur**
+
+**Réception du bulletin de vote — demande faite hors circonscription**
 
 **239** 
 
-- **(1)** L’électeur qui ne vote pas dans sa circonscription transmet l’enveloppe extérieure scellée à l’administrateur des règles électorales spéciales :
-	- **a)** soit en l’envoyant par la poste ou par tout autre mode de livraison;
-	- **b)** soit en la remettant à une ambassade, un haut-commissariat ou un consulat canadiens, à une base des Forces canadiennes à l’étranger ou à tout autre endroit désigné par le directeur général des élections.
+- **(1)** Pour que son bulletin de vote spécial soit compté, l’électeur dont la demande de bulletin de vote spécial a été approuvée par l’administrateur des règles électorales spéciales ou par le directeur du scrutin d’une circonscription autre que la sienne est tenu de veiller à ce que son bulletin de vote spécial parvienne à l’administrateur des règles électorales spéciales, dans la région de la capitale nationale, au plus tard à 18 h le jour du scrutin. La transmission du bulletin de vote spécial se fait :
+	- **a)** soit par envoi de l’enveloppe extérieure scellée par la poste ou par tout autre mode de livraison;
+	- **b)** soit par sa remise à une ambassade, un haut-commissariat ou un consulat canadiens, à une base des Forces canadiennes à l’étranger ou à tout autre endroit désigné par le directeur général des élections.
 
-**Délai**
+**Réception du bulletin de vote — demande faite dans la circonscription**
 
-- **(2)** Pour que son vote soit compté, l’électeur est tenu de veiller à ce que son bulletin de vote spécial parvienne :
-	- **a)** s’il est déposé dans sa circonscription, au bureau du directeur du scrutin, avant la fermeture des bureaux de scrutin, le jour du scrutin;
-	- **b)** dans le cas contraire, au bureau de l’administrateur des règles électorales spéciales, à Ottawa, au plus tard à 18 h le jour du scrutin.
+- **(2)** Pour que son bulletin de vote spécial soit compté, l’électeur dont la demande de bulletin de vote spécial a été approuvée par le directeur du scrutin de sa circonscription est tenu de veiller à ce que son bulletin de vote spécial parvienne au bureau du directeur du scrutin, avant la fermeture des bureaux de scrutin, le jour du scrutin.
+
+**Vote compté**
+
+- **(3)** Malgré le paragraphe (2), est également compté le bulletin de vote spécial visé à ce paragraphe qui parvient à l’administrateur des règles électorales spéciales, dans la région de la capitale nationale, au plus tard à 18 h le jour du scrutin.
+> 2000, ch. 9, art. 239; 2018, ch. 31, art. 162.
+
 
 
 
@@ -4910,15 +5126,26 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Bulletin de remplacement**
+**Pas d’inscription**
+
+**241.1** Si, au titre de l’article 241, un bulletin de vote qui n’est pas un bulletin de vote spécial est remis à l’électeur, rien n’est inscrit au verso du bulletin à l’endroit indiqué sur le formulaire 3 de l’annexe 1 pour le numéro de la section de vote.
+> 2018, ch. 31, art. 162.1.
+
+
+
+
+
+**Bulletin annulé**
 
 **242** 
 
-- **(1)** Si l’électeur s’est par inadvertance servi d’un bulletin de vote, spécial ou non, de manière à le rendre inutilisable, il le remet au fonctionnaire électoral désigné; celui-ci annule le bulletin de vote et en remet un autre à l’électeur.
+- **(1)** Si le bulletin de vote d’un électeur, spécial ou non, est inutilisable, il le remet au fonctionnaire électoral désigné; celui-ci annule le bulletin de vote et en remet un autre à l’électeur.
 
 **Limite**
 
 - **(2)** L’électeur ne peut recevoir qu’un seul bulletin de vote en vertu du paragraphe (1).
+> 2000, ch. 9, art. 242; 2018, ch. 31, art. 163.
+
 
 
 
@@ -4928,13 +5155,32 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **243** 
 
 - **(1)** Lorsqu’un électeur qui se présente en personne au bureau du directeur du scrutin ne peut lire ou a une déficience qui le rend incapable de voter de la manière prévue par la présente section, le fonctionnaire électoral désigné l’aide :
-	- **a)** en remplissant la déclaration figurant sur l’enveloppe extérieure et en inscrivant le nom de l’électeur à l’endroit prévu pour sa signature;
+	- **a)** en remplissant la déclaration visée à l’alinéa 227(2)c) et en inscrivant le nom de l’électeur à l’endroit prévu pour sa signature;
 	- **b)** en marquant le bulletin de vote selon le choix de l’électeur, en présence de celui-ci.
 
 **Note**
 
-- **(2)** Le fonctionnaire électoral en présence duquel est donné le vote de l’électeur en vertu du paragraphe (1) indique que l’électeur a été aidé en signant la note figurant sur l’enveloppe extérieure.
+- **(2)** Le fonctionnaire électoral en présence duquel est donné le vote de l’électeur en vertu du paragraphe (1) indique que l’électeur a été aidé en signant la note figurant sur la déclaration.
 > 2000, ch. 9, art. 243; 2018, ch. 31, art. 164.
+
+
+
+
+
+**Aide d’un ami ou d’une personne liée**
+
+**243.01** 
+
+- **(1)** L’électeur qui a besoin d’aide pour voter peut être accompagné, à l’isoloir aménagé dans le bureau du directeur du scrutin, soit d’un ami, de son époux, de son conjoint de fait ou d’un parent, soit d’un parent de son époux ou de son conjoint de fait, qui l’aide à marquer son bulletin de vote.
+
+**Déclaration solennelle**
+
+- **(2)** La personne mentionnée au paragraphe (1) qui désire aider un électeur à marquer son bulletin de vote fait au préalable une déclaration solennelle, selon le formulaire prescrit, portant qu’elle :
+	- **a)** marquera le bulletin de vote conformément aux instructions de l’électeur;
+	- **b)** ne divulguera pas le vote de l’électeur;
+	- **c)** ne tentera pas d’exercer une influence sur celui-ci dans son choix;
+	- **d)** n’a pas déjà aidé, lors de l’élection en cours, une autre personne, à titre d’ami, à voter.
+> 2018, ch. 31, art. 165.
 
 
 
@@ -4950,7 +5196,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Note**
 
-- **(2)** Le fonctionnaire électoral et le témoin en présence desquels est donné le vote de l’électeur en vertu du paragraphe (1) indiquent que l’électeur a été aidé en signant la note figurant sur l’enveloppe extérieure.
+- **(2)** Le fonctionnaire électoral et le témoin en présence desquels est donné le vote de l’électeur en vertu du paragraphe (1) indiquent que l’électeur a été aidé en signant la note figurant sur la déclaration.
 > 2000, ch. 9, art. 243.1; 2018, ch. 31, art. 166.
 
 
@@ -4969,11 +5215,20 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
+**Non-application**
+
+**244.1** La présente section ne s’applique pas à l’électeur qui est incarcéré dans un lieu désigné au titre du paragraphe 205(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+> 2018, ch. 31, art. 167.
+
+
+
+
+
 **Droit de vote**
 
 **245** 
 
-- **(1)** Toute personne incarcérée qui est, par ailleurs, habile à voter a le droit de voter en vertu de la présente section le dixième jour précédant le jour du scrutin.
+- **(1)** Tout électeur a le droit de voter en vertu de la présente section le douzième jour précédant le jour du scrutin.
 
 **Exercice du droit de vote**
 
@@ -4982,29 +5237,35 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Vote dans la circonscription de résidence**
 
 - **(3)** L’électeur a le droit de voter en vertu de la présente section uniquement pour un candidat dans la circonscription où est situé le lieu de sa résidence habituelle indiqué sur la demande d’inscription et de bulletin de vote spécial qu’il a présentée.
+> 2000, ch. 9, art. 245; 2018, ch. 31, art. 168.
+
 
 
 
 
 **Désignation d’un agent coordonnateur**
 
-**246** Les ministres provinciaux responsables des services correctionnels désignent chacun un agent coordonnateur pour travailler, tant au cours de la période électorale qu’entre les périodes électorales, avec le directeur général des élections à l’application de la présente section.
+**246** Les ministres fédéraux et provinciaux responsables d’établissements correctionnels désignent chacun un agent coordonnateur pour travailler, tant au cours de la période électorale qu’entre les périodes électorales, avec le directeur général des élections à l’application de la présente section.
+> 2000, ch. 9, art. 246; 2018, ch. 31, art. 169.
 
 
 
 
-**Obligation du directeur général des élections**
+
+**Avis de la délivrance des brefs**
 
 **247** 
 
-- **(1)** Sans délai après la délivrance des brefs, le directeur général des élections avise les ministres provinciaux responsables des services correctionnels de la délivrance des brefs et du lieu où sont situés les centres administratifs.
+- **(1)** Sans délai après la délivrance des brefs, le directeur général des élections avise les ministres fédéraux et provinciaux responsables d’établissements correctionnels de la délivrance des brefs.
 
-**Obligations des ministres provinciaux**
+**Obligations des ministres**
 
-- **(2)** Sur réception de l’information, chacun des ministres provinciaux responsables des services correctionnels :
-	- **a)** avise l’agent coordonnateur désigné pour la province de la délivrance des brefs;
+- **(2)** Sur réception de l’information, chacun des ministres visés au paragraphe (1) :
+	- **a)** informe l’agent coordonnateur qu’il a désigné de la délivrance des brefs;
 	- **b)** désigne une ou plusieurs personnes pour remplir les fonctions d’agents de liaison pour la tenue du scrutin;
-	- **c)** informe le directeur général des élections et l’agent coordonnateur désigné pour la province des nom et adresse de chacun des agents de liaison.
+	- **c)** informe le directeur général des élections et l’agent coordonnateur des nom et adresse de chacun des agents de liaison.
+> 2000, ch. 9, art. 247; 2018, ch. 31, art. 170.
+
 
 
 
@@ -5017,7 +5278,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Coopération**
 
-- **(2)** Pendant la période électorale, l’agent de liaison coopère avec le directeur général des élections pour l’inscription et la tenue du scrutin.
+- **(2)** Pendant la période électorale, l’agent de liaison coopère avec le directeur général des élections pour l’inscription et la tenue du scrutin, notamment en l’informant de l’identité des électeurs ayant reçu un bulletin de vote spécial.
+> 2000, ch. 9, art. 248; 2018, ch. 31, art. 171.
+
 
 
 
@@ -5037,16 +5300,18 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Heures d’ouverture des bureaux de scrutin**
 
-- **(2)** Les bureaux de scrutin ouvrent à 9 h le dixième jour précédant le jour du scrutin et demeurent ouverts jusqu’à ce que tous les électeurs inscrits en vertu du paragraphe 251(1) aient voté, mais au plus tard jusqu’à 20 h.
+- **(2)** Les bureaux de scrutin ouvrent à 9 h le douzième jour précédant le jour du scrutin et demeurent ouverts jusqu’à ce que tous les électeurs inscrits en vertu du paragraphe 251(1) aient voté, mais au plus tard jusqu’à 20 h.
+> 2000, ch. 9, art. 250; 2018, ch. 31, art. 172.
 
 
 
 
-**Demandes d’inscription**
+
+**Demande d’inscription et de bulletin de vote spécial**
 
 **251** 
 
-- **(1)** Avant le dixième jour précédant le jour du scrutin, l’agent de liaison veille à ce qu’une demande d’inscription et de bulletin de vote spécial, selon le formulaire prescrit, soit remplie pour chaque électeur de l’établissement correctionnel qui désire voter, avec indication du lieu de sa résidence habituelle déterminé conformément au paragraphe (2).
+- **(1)** Avant le douzième jour précédant le jour du scrutin, l’agent de liaison veille à ce qu’une demande d’inscription et de bulletin de vote spécial, selon le formulaire prescrit, soit remplie pour chaque électeur de l’établissement correctionnel qui désire voter, avec indication du lieu de sa résidence habituelle déterminé conformément au paragraphe (2).
 
 **Résidence habituelle**
 
@@ -5067,7 +5332,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Contestation**
 
 - **(5)** En cas de contestation au sujet de la circonscription dans laquelle il doit voter, l’électeur peut porter l’affaire devant le directeur du scrutin de la circonscription où est situé l’établissement correctionnel; le directeur du scrutin s’en remet à la procédure prévue pour la révision des listes.
-> 2000, ch. 9, art. 251, ch. 12, art. 40.
+> 2000, ch. 9, art. 251, ch. 12, art. 40; 2018, ch. 31, art. 173.
 
 
 
@@ -5080,26 +5345,30 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Bureaux de scrutin, scrutateurs et greffiers du scrutin**
+**Bureaux de scrutin et fonctionnaires électoraux**
 
 **253** 
 
-- **(1)** Avant le dix-huitième jour précédant le jour du scrutin, le directeur du scrutin, pour chaque établissement correctionnel situé dans sa circonscription et en consultation avec l’agent de liaison désigné pour l’établissement, fixe l’emplacement du ou des bureaux de scrutin et nomme un scrutateur et un greffier du scrutin pour chaque bureau de scrutin.
+- **(1)** Avant le dix-huitième jour précédant le jour du scrutin, le directeur du scrutin, pour chaque établissement correctionnel situé dans sa circonscription et en consultation avec l’agent de liaison désigné pour l’établissement, fixe l’emplacement du ou des bureaux de scrutin et affecte au moins deux fonctionnaires électoraux pour chaque bureau de scrutin.
 
 **Obligations de l’agent de liaison**
 
 - **(2)** Dès qu’il a reçu le matériel électoral et la liste des candidats, l’agent de liaison :
-	- **a)** distribue le matériel en quantité suffisante aux scrutateurs nommés pour l’établissement correctionnel;
+	- **a)** fournit, tel que nécessaire, le matériel aux fonctionnaires électoraux affectés aux bureaux de scrutin de l’établissement correctionnel;
 	- **b)** fait afficher la liste des candidats dans un ou plusieurs endroits bien en vue de l’établissement correctionnel.
+> 2000, ch. 9, art. 253; 2018, ch. 31, art. 174.
 
 
 
 
-**Obligations du scrutateur**
 
-**254** Au bureau de scrutin le jour prévu pour le vote, le scrutateur qui doit recueillir les votes :
+**Obligations du fonctionnaire électoral**
+
+**254** Au bureau de scrutin le jour prévu pour le vote, un fonctionnaire électoral affecté au bureau :
 - **a)** fait afficher, dans des endroits bien en vue, au moins deux exemplaires des instructions relatives aux modalités du vote, selon le formulaire prescrit;
 - **b)** tient à la disposition des électeurs, pour consultation, le texte de la présente partie, les indicateurs de rues, le guide des circonscriptions et la liste des candidats.
+> 2000, ch. 9, art. 254; 2018, ch. 31, art. 175.
+
 
 
 
@@ -5119,7 +5388,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Représentants des partis enregistrés**
 
-**256** Tout citoyen canadien peut, sur remise au scrutateur d’une autorisation, selon le formulaire prescrit, remplie et signée par un candidat, agir au bureau de scrutin lors du scrutin à titre de représentant du parti enregistré de ce candidat, à la condition d’y avoir été préalablement autorisé par les autorités correctionnelles.
+**256** Tout citoyen canadien peut, sur remise à un fonctionnaire électoral affecté à un bureau de scrutin d’un établissement correctionnel d’une autorisation, selon le formulaire prescrit, remplie et signée par un candidat ou d’une copie de celle-ci, agir au bureau de scrutin lors du scrutin à titre de représentant du parti enregistré de ce candidat, à la condition d’y avoir été préalablement autorisé par les autorités correctionnelles.
+> 2000, ch. 9, art. 256; 2018, ch. 31, art. 176.
+
 
 
 
@@ -5128,13 +5399,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **257** 
 
-- **(1)** Avant de remettre un bulletin de vote spécial à un électeur, le scrutateur qui recueille son vote lui fait remplir la demande d’inscription et de bulletin de vote spécial si elle n’a pas été remplie et lui fait signer la déclaration figurant sur l’enveloppe extérieure.
+- **(1)** Avant de remettre un bulletin de vote spécial à un électeur, un fonctionnaire électoral affecté à un bureau de scrutin d’un établissement correctionnel lui fait remplir la demande d’inscription et de bulletin de vote spécial si elle n’a pas été remplie et lui fait signer la déclaration figurant sur l’enveloppe extérieure.
 
 **Remise du bulletin de vote spécial**
 
-- **(2)** Lorsque l’électeur a signé la déclaration sur l’enveloppe extérieure, le scrutateur :
+- **(2)** Lorsque l’électeur a signé la déclaration sur l’enveloppe extérieure, le fonctionnaire électoral :
 	- **a)** signe à son tour l’enveloppe extérieure;
 	- **b)** remet à l’électeur un bulletin de vote spécial, l’enveloppe intérieure et l’enveloppe extérieure.
+> 2000, ch. 9, art. 257; 2018, ch. 31, art. 177.
+
 
 
 
@@ -5143,7 +5416,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **258** 
 
-- **(1)** L’électeur inscrit sur le bulletin de vote spécial le nom du candidat de son choix, plie le bulletin de vote et, devant le scrutateur :
+- **(1)** L’électeur inscrit sur le bulletin de vote spécial le nom du candidat de son choix, plie le bulletin de vote et, devant le fonctionnaire électoral :
 	- **a)** met le bulletin de vote plié dans l’enveloppe intérieure et la scelle;
 	- **b)** met l’enveloppe intérieure dans l’enveloppe extérieure et scelle celle-ci.
 
@@ -5151,13 +5424,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(2)** Le candidat est désigné par son prénom ou ses initiales et son nom de famille ainsi que, si plusieurs candidats ont le même nom, par son appartenance politique.
 
-**Bulletin de remplacement**
+**Bulletin annulé**
 
-- **(3)** Si l’électeur s’est par inadvertance servi d’un bulletin de vote spécial de manière à le rendre inutilisable, il le remet au scrutateur; celui-ci annule le bulletin de vote spécial et en remet un autre à l’électeur.
+- **(3)** Si le bulletin de vote spécial d’un électeur est inutilisable, il le remet au fonctionnaire électoral qui annule le bulletin de vote spécial et en remet un autre à l’électeur.
 
 **Limite**
 
 - **(4)** L’électeur ne peut recevoir qu’un seul bulletin de vote spécial en vertu du paragraphe (3).
+> 2000, ch. 9, art. 258; 2018, ch. 31, art. 178.
+
 
 
 
@@ -5181,18 +5456,22 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Procédure après le vote**
 
-**260** Dès que le vote est terminé dans l’établissement correctionnel, le scrutateur transmet à l’agent de liaison désigné pour l’établissement :
+**260** Dès que le vote est terminé dans l’établissement correctionnel, un fonctionnaire électoral affecté au bureau de scrutin transmet à l’agent de liaison désigné pour l’établissement :
 - **a)** les enveloppes extérieures contenant les bulletins de vote spéciaux marqués;
 - **b)** les enveloppes extérieures inutilisées ou annulées;
 - **c)** les bulletins de vote spéciaux inutilisés ou annulés et les enveloppes intérieures inutilisées;
 - **d)** les demandes d’inscription et de bulletin de vote spécial.
+> 2000, ch. 9, art. 260; 2018, ch. 31, art. 180.
+
 
 
 
 
 **Expédition du matériel**
 
-**261** Les agents de liaison doivent veiller à ce que le matériel visé à l’article 260 soit reçu par l’administrateur des règles électorales spéciales, à Ottawa, au plus tard à 18 h le jour du scrutin.
+**261** Les agents de liaison doivent veiller à ce que le matériel visé à l’article 260 parvienne à l’administrateur des règles électorales spéciales, dans la région de la capitale nationale, au plus tard à 18 h le jour du scrutin.
+> 2000, ch. 9, art. 261; 2018, ch. 31, art. 181.
+
 
 
 
@@ -5247,27 +5526,35 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **267** 
 
-- **(1)** Les agents des bulletins de vote spéciaux mettent de côté une enveloppe extérieure sans la décacheter lorsqu’ils constatent lors de sa vérification l’existence de l’une ou l’autre des situations suivantes :
-	- **a)** les renseignements relatifs à l’électeur qui y figurent ne correspondent pas à ceux qui figurent sur la demande d’inscription et de bulletin de vote spécial;
-	- **b)** sauf cas visés aux articles 216, 243 et 259, elle ne porte pas la signature de l’électeur;
+- **(1)** Les agents des bulletins de vote spéciaux mettent de côté une enveloppe intérieure sans la décacheter s’ils constatent l’existence de l’une ou l’autre des situations suivantes :
+	- **a)** les renseignements relatifs à l’électeur qui figurent dans la déclaration visée à l’alinéa 227(2)c) ou au paragraphe 257(1) ne correspondent pas à ceux qui figurent sur la demande d’inscription et de bulletin de vote spécial;
+	- **b)** la déclaration visée à l’alinéa a) ou à l’article 212, sauf les cas visés aux articles 216, 243 et 259, ne porte pas la signature de l’électeur;
 	- **c)** il est impossible de déterminer la circonscription de l’électeur dont le bulletin est contenu dans l’enveloppe;
 	- **d)** l’enveloppe extérieure est parvenue à l’administrateur des règles électorales spéciales, dans la région de la capitale nationale, après 18 h le jour du scrutin;
 	- **e)** elle se rapporte à une circonscription pour laquelle le scrutin a été ajourné dans les circonstances visées à l’article 77.
 
 **Électeur qui a voté plus d’une fois**
 
-- **(2)** Lorsque, après la réception et avant le dépouillement des enveloppes extérieures, ils constatent qu’un électeur a voté plus d’une fois, les agents des bulletins de vote spéciaux mettent de côté les enveloppes extérieures se rapportant à cet électeur sans les décacheter.
+- **(2)** Lorsque, après la réception de l’enveloppe extérieure d’un électeur et avant le dépouillement des enveloppes intérieures, ils constatent que l’électeur a voté plus d’une fois, les agents des bulletins de vote spéciaux mettent de côté l’enveloppe intérieure de cet électeur sans la décacheter.
 
 **Enveloppes mises de côté**
 
-- **(3)** Lorsqu’une enveloppe extérieure est mise de côté sans être décachetée conformément aux paragraphes (1) ou (2) :
-	- **a)** le motif pour lequel elle a été mise de côté est inscrit par l’administrateur des règles électorales spéciales sur l’enveloppe extérieure;
+- **(3)** Lorsqu’une enveloppe intérieure est mise de côté sans être décachetée conformément aux paragraphes (1) ou (2) :
+	- **a)** le motif pour lequel elle a été mise de côté est inscrit par l’administrateur des règles électorales spéciales sur cette enveloppe;
 	- **b)** au moins deux agents des bulletins de vote spéciaux paraphent l’inscription;
-	- **c)** le bulletin de vote contenu dans l’enveloppe extérieure mise de côté en vertu du paragraphe (1) est censé être un bulletin de vote annulé.
+	- **c)** le bulletin de vote contenu dans l’enveloppe intérieure mise de côté en vertu du paragraphe (1) est réputé être un bulletin de vote annulé.
+
+**Enveloppes et déclaration conservées ensemble**
+
+- **(3.1)** Lorsqu’une enveloppe intérieure est mise de côté conformément au présent article, elle est conservée avec l’enveloppe extérieure et la déclaration, si celle-ci n’apparaît pas sur l’enveloppe extérieure.
+
+**Différend**
+
+- **(3.2)** En cas de différend quant à la mise de côté d’enveloppes intérieures, l’affaire est portée devant l’administrateur des règles électorales spéciales, dont la décision est définitive.
 
 **Rapport**
 
-- **(4)** L’administrateur des règles électorales spéciales établit un rapport du nombre d’enveloppes extérieures mises de côté.
+- **(4)** L’administrateur des règles électorales spéciales établit un rapport du nombre d’enveloppes intérieures mises de côté.
 > 2000, ch. 9, art. 267; 2018, ch. 31, art. 182.
 
 
@@ -5338,9 +5625,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **272** Dans les meilleurs délais après le dépouillement, l’administrateur des règles électorales spéciales remet au directeur général des élections dans des colis distincts :
 - **a)** les listes des électeurs qui lui ont été fournies;
-- **b)** tous les autres documents et matériel électoraux qu’il a reçus des commandants, des scrutateurs et des agents des bulletins de vote spéciaux;
-- **c)** les serments;
+- **b)** tous les autres documents et matériel électoraux qu’il a reçus des commandants et des fonctionnaires électoraux;
+- **c)** les déclarations solennelles faites au titre du paragraphe 23(1);
 - **d)** la correspondance, les rapports et les registres en sa possession.
+> 2000, ch. 9, art. 272; 2018, ch. 31, art. 183.
+
 
 
 
@@ -5350,30 +5639,20 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Nomination d’un scrutateur et d’un greffier du scrutin**
-
-**273** 
-
-- **(1)** Le directeur du scrutin nomme un scrutateur et un greffier du scrutin pour vérifier les enveloppes extérieures et compter les bulletins de vote spéciaux délivrés aux électeurs de sa circonscription et reçus à son bureau. Dans le cas où le nombre de votes le justifie, plusieurs scrutateurs et greffiers du scrutin peuvent être nommés.
-
-**Répartition équitable**
-
-- **(2)** Le directeur du scrutin répartit les fonctions de façon à ce qu’un scrutateur choisi parmi les personnes recommandées par le parti enregistré dont le candidat s’est classé premier lors de l’élection précédente dans la circonscription travaille avec un greffier du scrutin choisi parmi les personnes recommandées par le parti enregistré dont le candidat s’est classé deuxième lors de cette élection.
-
-**Cas de fusion de partis**
-
-- **(3)** Pour l’application du paragraphe (2) dans les cas où le parti enregistré dont le candidat s’est classé premier ou deuxième lors de l’élection précédente s’est fusionné avec un ou plusieurs autres partis enregistrés, le candidat du parti issu de la fusion est réputé avoir eu les résultats du candidat du parti fusionnant qui a obtenu les meilleurs résultats lors de l’élection.
-
 **Avis aux candidats**
 
-- **(4)** Le directeur du scrutin avise les candidats sans délai des nom et adresse des personnes nommées comme scrutateurs et greffiers du scrutin.
+**273** Le directeur du scrutin avise les candidats dans les meilleurs délais des noms des fonctionnaires électoraux qu’il affecte à la vérification des déclarations visées à l’alinéa 227(2)c) et au dépouillement des bulletins de vote spéciaux délivrés aux électeurs de sa circonscription et reçus à son bureau.
+> 2000, ch. 9, art. 273; 2018, ch. 31, art. 184.
+
 
 
 
 
 **Présence du candidat**
 
-**274** Un candidat ou son représentant peut être présent pour la vérification des enveloppes extérieures et le dépouillement des bulletins de vote reçus au bureau du directeur du scrutin.
+**274** Un candidat ou son représentant peut être présent pour la vérification des déclarations visées à l’alinéa 227(2)c) et le dépouillement des bulletins de vote reçus au bureau du directeur du scrutin.
+> 2000, ch. 9, art. 274; 2018, ch. 31, art. 184.
+
 
 
 
@@ -5382,20 +5661,22 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **275** 
 
-- **(1)** Le directeur du scrutin veille à ce que les bulletins de vote reçus à son bureau restent sous scellés jusqu’à ce qu’ils soient remis au scrutateur.
+- **(1)** Le directeur du scrutin veille à ce que les bulletins de vote reçus à son bureau restent sous scellés jusqu’à ce qu’ils soient remis à un fonctionnaire électoral visé à l’article 273.
 
 **Enveloppes reçues après l’expiration du délai**
 
 - **(2)** Les enveloppes extérieures reçues après le délai fixé sont gardées séparément, restent scellées, sont paraphées par le directeur du scrutin et portent la date et l’heure auxquelles elles ont été reçues.
+> 2000, ch. 9, art. 275; 2018, ch. 31, art. 185.
 
 
 
 
-**Vérification des enveloppes**
+
+**Vérification des déclarations**
 
 **276** 
 
-- **(1)** Au moment fixé par le directeur général des élections et conformément aux instructions de celui-ci, le scrutateur et le greffier du scrutin déterminent l’habilité de l’électeur à voter dans la circonscription en vérifiant les renseignements figurant sur l’enveloppe extérieure.
+- **(1)** Au moment fixé par le directeur général des élections et conformément aux instructions de celui-ci, les fonctionnaires électoraux visés à l’article 273 déterminent l’habilité de l’électeur à voter dans la circonscription en vérifiant les renseignements figurant dans la déclaration visée à l’alinéa 227(2)c).
 
 **Avis**
 
@@ -5403,7 +5684,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Remise des demandes**
 
-- **(3)** Les demandes d’inscription et de bulletin de vote spécial reçues avant le délai fixé ainsi que tout autre document nécessaire sont remis au scrutateur.
+- **(3)** Les demandes d’inscription et de bulletin de vote spécial reçues avant le délai fixé ainsi que tout autre document nécessaire sont remis à l’un des fonctionnaires électoraux.
+> 2000, ch. 9, art. 276; 2018, ch. 31, art. 186.
+
 
 
 
@@ -5412,38 +5695,44 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **277** 
 
-- **(1)** Le scrutateur met de côté une enveloppe extérieure sans la décacheter lorsqu’il constate l’existence de l’une ou l’autre des situations suivantes :
-	- **a)** les renseignements relatifs à l’électeur qui y figurent ne correspondent pas à ceux qui figurent sur la demande d’inscription et de bulletin de vote spécial;
-	- **b)** sauf les cas visés aux articles 243 ou 243.1, elle ne porte pas la signature de l’électeur;
-	- **c)** plus d’un bulletin de vote a été délivré à l’électeur;
+- **(1)** Un fonctionnaire électoral visé à l’article 273 met de côté l’enveloppe intérieure d’un électeur sans la décacheter dans les cas suivants :
+	- **a)** les renseignements relatifs à l’électeur qui figurent dans la déclaration visée à l’alinéa 227(2)c) ne correspondent pas à ceux qui figurent sur la demande d’inscription et de bulletin de vote spécial;
+	- **b)** sauf les cas visés aux articles 243 ou 243.1, la déclaration ne porte pas la signature de l’électeur;
+	- **c)** l’électeur a voté plus d’une fois;
 	- **d)** l’enveloppe extérieure est reçue après le délai fixé.
 
 **Oppositions**
 
-- **(2)** Au moment de la vérification des enveloppes extérieures, le greffier du scrutin inscrit toute opposition au droit d’un électeur de voter dans la circonscription, selon le formulaire prescrit.
+- **(2)** Au moment de la vérification des déclarations, un fonctionnaire électoral visé à l’article 273 inscrit toute opposition au droit d’un électeur de voter dans la circonscription, selon le formulaire prescrit.
 
 **Indication des motifs de mise de côté**
 
-- **(3)** Le scrutateur indique sur l’enveloppe extérieure mise de côté le motif pour lequel elle l’est et la paraphe en même temps que le greffier du scrutin.
-> 2000, ch. 9, art. 277; 2018, ch. 31, art. 187(F).
+- **(3)** Le fonctionnaire électoral qui a mis de côté l’enveloppe intérieure d’un électeur indique sur celle-ci le motif pour lequel elle a été mise de côté. Ce fonctionnaire, ainsi qu’un autre fonctionnaire électoral visé à l’article 273, paraphent tous les deux l’enveloppe.
+
+**Enveloppes et déclaration conservées ensemble**
+
+- **(4)** Lorsque l’enveloppe intérieure d’un électeur est mise de côté conformément au présent article, elle est conservée avec l’enveloppe extérieure et la déclaration, si celle-ci n’apparaît pas sur l’enveloppe extérieure.
+> 2000, ch. 9, art. 277; 2018, ch. 31, art. 187.
 
 
 
 
 
-**Compte des enveloppes extérieures**
+**Compte des enveloppes intérieures**
 
 **278** 
 
-- **(1)** Le scrutateur et le greffier du scrutin comptent les enveloppes extérieures valides.
+- **(1)** Les fonctionnaires électoraux visés à l’article 273 comptent les enveloppes intérieures qui n’ont pas été mises de côté.
 
 **Enveloppes intérieures**
 
-- **(2)** Le scrutateur et le greffier du scrutin ouvrent les enveloppes extérieures et mettent les enveloppes intérieures dans l’urne fournie par le directeur du scrutin.
+- **(2)** Ils mettent toutes les enveloppes intérieures qui n’ont pas été mises de côté dans l’urne fournie par le directeur du scrutin.
 
 **Dépouillement**
 
-- **(3)** Après la fermeture des bureaux de scrutin, le scrutateur ouvre l’urne et, avec le greffier du scrutin, ouvre les enveloppes intérieures et compte les votes.
+- **(3)** Après la fermeture des bureaux de scrutin, l’un d’eux ouvre l’urne et, avec un autre d’entre eux, ouvre les enveloppes intérieures et compte les votes.
+> 2000, ch. 9, art. 278; 2018, ch. 31, art. 188.
+
 
 
 
@@ -5452,7 +5741,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **279** 
 
-- **(1)** En comptant les bulletins de vote, le scrutateur rejette ceux :
+- **(1)** En comptant les bulletins de vote, le fonctionnaire électoral rejette ceux :
 	- **a)** qui n’ont pas été fournis pour l’élection;
 	- **b)** qui ne sont pas marqués;
 	- **c)** qui portent un nom qui n’est pas celui d’un candidat;
@@ -5461,12 +5750,12 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Précision**
 
-- **(2)** Le scrutateur ne peut rejeter un bulletin de vote spécial du seul fait que l’électeur a écrit incorrectement le nom du candidat, si le bulletin de vote indique clairement l’intention de l’électeur.
+- **(2)** Il ne peut rejeter un bulletin de vote spécial du seul fait que l’électeur a écrit incorrectement le nom du candidat, si le bulletin de vote indique clairement l’intention de l’électeur.
 
 **Mention de l’appartenance politique**
 
-- **(3)** Le scrutateur ne peut rejeter un bulletin de vote spécial du seul fait que l’électeur a ajouté au nom du candidat l’appartenance politique de ce dernier, si le bulletin indique clairement l’intention de l’électeur.
-> 2000, ch. 9, art. 279; 2001, ch. 21, art. 15.
+- **(3)** Il ne peut rejeter un bulletin de vote spécial du seul fait que l’électeur a ajouté au nom du candidat l’appartenance politique de ce dernier, si le bulletin indique clairement l’intention de l’électeur.
+> 2000, ch. 9, art. 279; 2001, ch. 21, art. 15; 2018, ch. 31, art. 189.
 
 
 
@@ -5490,31 +5779,304 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**SECTION 9** 
-### Interdictions
+**PARTIE 11.1** 
+## Interdictions liées au vote
 
 
 
-**Interdictions : au Canada ou à l’étranger**
+**Application**
 
-**281** Il est interdit à quiconque, au Canada ou à l’étranger :
-- **a)** de divulguer volontairement des renseignements relatifs à la façon dont un électeur a marqué son bulletin de vote ou son bulletin de vote spécial;
-- **b)** de volontairement intervenir ou tenter d’intervenir auprès d’un électeur lorsqu’il marque son bulletin de vote ou son bulletin de vote spécial ou essayer de toute autre manière de savoir en faveur de quel candidat un électeur est sur le point de voter ou a voté;
-- **c)** de faire sciemment une fausse déclaration dans une demande d’inscription et de bulletin de vote spécial;
-- **d)** de faire sciemment la demande d’un bulletin de vote ou d’un bulletin de vote spécial auquel il n’a pas droit;
-- **e)** de faire sciemment une fausse déclaration dans la déclaration signée par lui devant un scrutateur;
-- **f)** de faire sciemment une fausse déclaration dans la déclaration de résidence habituelle établie par lui;
-- **g)** de volontairement empêcher ou s’efforcer d’empêcher un électeur de voter à une élection;
-- **h)** pendant le dépouillement du scrutin, de volontairement chercher à obtenir quelque renseignement ou à communiquer un renseignement alors obtenu au sujet du candidat pour lequel un vote est exprimé dans un bulletin de vote ou un bulletin de vote spécial en particulier.
+**281** Les dispositions de la présente partie s’appliquent au Canada et à l’étranger.
+> 2000, ch. 9, art. 281; 2018, ch. 31, art. 190.
 
 
 
 
-**Interdictions : à l’étranger**
 
-**282** Il est interdit à quiconque, à l’étranger :
-- **a)** de forcer ou d’inciter une autre personne à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné dans le cadre de la présente partie par intimidation ou la contrainte;
-- **b)** d’inciter une autre personne à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné dans le cadre de la présente partie par quelque prétexte ou ruse, notamment en tentant de lui faire croire que le bulletin de vote ou le scrutin à une élection n’est pas secret.
+**Directeur général des élections**
+
+**281.1** Il est interdit au directeur général des élections de voter à une élection.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Inciter le directeur général des élections à voter**
+
+**281.2** Il est interdit à toute personne de tenter d’inciter ou d’inciter le directeur général des élections à voter à une élection, sachant que la personne qu’elle tente d’inciter à voter ou qu’elle incite à voter est le directeur général des élections et qu’il lui est interdit de voter.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Personne n’ayant pas qualité d’électeur**
+
+**281.3** Il est interdit à toute personne :
+- **a)** de voter ou de tenter de voter à une élection, sachant, selon le cas :
+	- **(i)** qu’elle n’est pas un citoyen canadien au moment où elle vote,
+	- **(ii)** qu’elle n’a pas ou n’aura pas atteint l’âge de dix-huit ans le jour du scrutin;
+- **b)** d’inciter ou de tenter d’inciter une autre personne à voter à une élection, sachant, selon le cas :
+	- **(i)** qu’elle n’est pas ou ne sera pas un citoyen canadien au moment où elle votera,
+	- **(ii)** qu’elle n’a pas ou n’aura pas atteint l’âge de dix-huit ans le jour du scrutin.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Circonscription autre que celle de sa résidence habituelle**
+
+**281.4** Il est interdit à toute personne :
+- **a)** de voter ou de tenter de voter à une élection dans une circonscription donnée, sachant qu’il se s’agit pas de son lieu de résidence habituelle;
+- **b)** d’inciter ou de tenter d’inciter une autre personne à voter à une élection dans une circonscription donnée, sachant qu’il ne s’agit pas du lieu de résidence habituelle de celle-ci.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Voter plus d’une fois — élection générale**
+
+**281.5** 
+
+- **(1)** Il est interdit à toute personne qui a voté à une élection générale de voter ou de tenter de voter à nouveau à la même élection.
+
+**Voter plus d’une fois — élection partielle**
+
+- **(2)** Il est interdit à toute personne qui a voté à une élection partielle de voter ou de tenter de voter à nouveau à la même élection ou à toute autre élection partielle tenue le même jour.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Secret du vote**
+
+**281.6** 
+
+- **(1)** Toute personne présente à un bureau de scrutin ou au dépouillement du scrutin doit garder le secret du vote.
+
+**Tenter de connaître le choix de l’électeur**
+
+- **(2)** Sauf dans les cas prévus par la présente loi, il est interdit à toute personne, lorsqu’elle se trouve dans un bureau de scrutin, d’essayer de savoir en faveur de quel candidat un électeur est sur le point de voter ou a voté.
+
+**Secret du vote au bureau de scrutin**
+
+- **(3)** Sauf dans les cas prévus par la présente loi, il est interdit à toute personne :
+	- **a)** de déclarer ouvertement en faveur de qui elle a l’intention de voter en entrant dans le bureau de scrutin et avant de recevoir un bulletin de vote ou un bulletin de vote spécial;
+	- **b)** de montrer, lorsqu’à l’intérieur du bureau de scrutin, son bulletin de vote ou son bulletin de vote spécial, une fois marqué, de manière à révéler le nom du candidat en faveur duquel elle a voté;
+	- **c)** de déclarer ouvertement en faveur de qui elle a voté avant de quitter le bureau de scrutin.
+
+**Secret — bulletin marqué**
+
+- **(4)** Il est interdit à toute personne ayant vu le bulletin de vote — ou le bulletin de vote spécial — marqué d’un électeur de divulguer des renseignements relatifs à la façon dont le bulletin a été marqué, sauf si elle est l’électeur qui l’a marqué ou si elle a été autorisée à le faire par celui-ci.
+
+**Secret — dépouillement du scrutin**
+
+- **(5)** Il est interdit à toute personne pendant le dépouillement du scrutin de chercher à obtenir quelque renseignement ou à communiquer un renseignement alors obtenu au sujet du candidat pour lequel un vote est exprimé dans un bulletin de vote ou un bulletin de vote spécial en particulier.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Bulletins de vote**
+
+**281.7** 
+
+- **(1)** Il est interdit à toute personne :
+	- **a)** de demander un bulletin de vote ou un bulletin de vote spécial sous un nom autre que le sien;
+	- **b)** de voter en utilisant un faux bulletin de vote ou un faux bulletin de vote spécial;
+	- **c)** de demander un bulletin de vote ou un bulletin de vote spécial auquel elle n’a pas droit;
+	- **d)** de fournir un bulletin de vote ou un bulletin de vote spécial à une personne alors qu’elle n’y est pas autorisée par la présente loi;
+	- **e)** d’avoir un bulletin de vote ou un bulletin de vote spécial en sa possession alors qu’elle n’est pas autorisée à le faire par la présente loi;
+	- **f)** de détériorer, d’altérer ou de détruire un bulletin de vote, le paraphe du fonctionnaire électoral qui y est apposé ou le numéro de la section de vote ou du district de vote par anticipation qui y est inscrit;
+	- **g)** de déposer ou de faire déposer dans une urne un bulletin de vote, un bulletin de vote spécial ou un autre papier autrement qu’en conformité avec la présente loi ou les instructions du directeur général des élections;
+	- **h)** de sortir un bulletin de vote du bureau de scrutin ou du bureau du directeur du scrutin autrement qu’en conformité avec la présente loi ou les instructions du directeur général des élections;
+	- **i)** de détruire, de prendre, d’ouvrir ou d’autrement manipuler une urne, un carnet ou un paquet de bulletins de vote ou de bulletins de vote spéciaux, autrement qu’en conformité avec la présente loi ou les instructions du directeur général des élections.
+
+**Bulletins de vote — fonctionnaire électoral**
+
+- **(2)** Il est interdit au fonctionnaire électoral :
+	- **a)** d’apposer ses initiales au verso de tout papier qui est présenté comme étant un bulletin de vote ou peut être utilisé comme tel à une élection, avec l’intention de faire en sorte qu’un vote qui ne devrait pas être recueilli le soit ou d’empêcher qu’un vote qui devrait être recueilli le soit;
+	- **b)** de mettre sur un bulletin de vote ou sur un bulletin de vote spécial une inscription, un numéro ou une marque avec l’intention que l’électeur auquel ce bulletin de vote, spécial ou non, est destiné puisse ainsi être reconnu.
+
+**Bulletins de vote spéciaux — fonctionnaire électoral d’unité**
+
+- **(3)** Il est interdit au fonctionnaire électoral d’unité de mettre sur un bulletin de vote spécial une inscription, un numéro ou une marque avec l’intention que l’électeur auquel ce bulletin de vote spécial est destiné puisse ainsi être reconnu.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Photographie, vidéo ou copie d’un bulletin de vote marqué**
+
+**281.8** 
+
+- **(1)** Il est interdit à toute personne :
+	- **a)** de photographier un bulletin de vote — ou un bulletin de vote spécial — marqué par un électeur dans le cadre d’une élection ou d’en faire un enregistrement vidéo;
+	- **b)** de faire une copie, par tout moyen, d’un bulletin de vote — ou d’un bulletin de vote spécial — marqué par un électeur dans le cadre d’une élection;
+	- **c)** de distribuer ou de montrer à quiconque, par tout moyen, une photographie, un enregistrement vidéo ou une copie d’un bulletin de vote — ou d’un bulletin de vote spécial — marqué par un électeur dans le cadre d’une élection.
+
+**Exception — personne ayant une déficience visuelle**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la personne ayant une déficience visuelle qui prend une photographie de son bulletin de vote ou bulletin de vote spécial marqué par elle ou qui en fait un enregistrement vidéo ou une copie afin de vérifier l’exactitude de sa marque.
+
+**Exception — procédure judiciaire**
+
+- **(3)** Le paragraphe (1) ne s’applique pas à la personne qui agit dans le cadre d’un dépouillement en vertu de la partie 14 ou dans le cadre de toute autre procédure judiciaire.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Fausse déclaration**
+
+**281.9** Il est interdit à toute personne :
+- **a)** de faire une fausse déclaration dans une demande d’inscription et de bulletin de vote spécial;
+- **b)** de faire une fausse déclaration dans la déclaration signée par lui devant un fonctionnaire électoral ou un fonctionnaire électoral d’unité.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Personne qui aide un électeur — limite**
+
+**282** 
+
+- **(1)** Il est interdit à toute personne, au titre des articles 155 ou 243.01, d’aider à titre d’ami plus d’un électeur à marquer son bulletin de vote.
+
+**Personne qui aide un électeur — secret**
+
+- **(2)** Il est interdit à la personne qui aide un électeur au titre des articles 155 ou 243.01 de divulguer directement ou indirectement le nom du candidat en faveur duquel l’électeur a voté ou l’affiliation politique de ce candidat.
+> 2000, ch. 9, art. 282; 2018, ch. 31, art. 190.
+
+
+
+
+
+**Répondre de plus d’une personne**
+
+**282.1** 
+
+- **(1)** Il est interdit à toute personne de répondre de plus d’une personne à une élection, sauf dans les cas visés aux paragraphes 143(3.01), 161(2) et 169(2.01).
+
+**Répondre d’une personne**
+
+- **(2)** Il est interdit à toute personne de répondre d’une autre personne dans les cas suivants :
+	- **a)** elle n’a pas qualité d’électeur;
+	- **b)** elle ne connaît pas personnellement l’autre personne;
+	- **c)** elle ne réside pas dans une section de vote rattachée au même bureau de scrutin que la section de vote dans laquelle l’autre personne réside ou, dans les cas visés aux paragraphes 143(3.01), 161(2) et 169(2.01), dans une section de vote de la circonscription de l’autre personne ou d’une circonscription adjacente.
+
+**Agir à titre de répondant**
+
+- **(3)** La personne pour laquelle une autre personne s’est portée répondante ne peut elle-même agir à ce titre à la même élection.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Exercer une influence sur un électeur**
+
+**282.2** Il est interdit à toute personne d’exercer ou de tenter d’exercer une influence, dans un bureau de scrutin ou tout autre local où se déroule le vote, sur un électeur afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à une élection.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Exercer une influence sur un électeur — fonctionnaires électoraux et personnel du directeur du scrutin**
+
+**282.3** Sous réserve de l’article 141, il est interdit aux fonctionnaires électoraux, aux fonctionnaires électoraux d’unité et au personnel du directeur du scrutin, dans l’exercice de leurs attributions, d’exercer ou de tenter d’exercer une influence sur un électeur afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à une élection.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Influence indue par des étrangers**
+
+**282.4** 
+
+- **(1)** Il est interdit aux personnes et entités mentionnées ci-après d’exercer une influence indue sur un électeur, pendant une période électorale, afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à une élection :
+	- **a)** les particuliers qui ne sont pas des citoyens canadiens ni des résidents permanents au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et qui ne résident pas au Canada;
+	- **b)** les personnes morales ou entités constituées, formées ou autrement organisées ailleurs qu’au Canada, qui n’exercent pas d’activités commerciales au Canada ou dont l’objectif principal au Canada vise, pendant une période électorale, à exercer une influence sur un électeur pendant cette période afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à la prochaine élection;
+	- **c)** les syndicats qui ne sont pas titulaires d’un droit de négocier collectivement au Canada;
+	- **d)** les partis politiques étrangers;
+	- **e)** les États étrangers ou l’un de leurs mandataires.
+
+**Sens de « influence indue »**
+
+- **(2)** Pour l’application du paragraphe (1), une personne ou une entité exerce une influence indue sur un électeur afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à une élection si, selon le cas :
+	- **a)** elle engage sciemment des dépenses pour directement favoriser ou contrecarrer un candidat à l’élection, un parti enregistré qui y soutient le candidat ou le chef d’un tel parti enregistré;
+	- **b)** l’un des actes qu’elle a commis pour influencer l’électeur constitue une infraction à une loi fédérale ou provinciale ou à un règlement d’une telle loi.
+
+**Exceptions**
+
+- **(3)** Il est entendu que le paragraphe (1) ne s’applique pas si le seul acte commis par la personne ou l’entité pour exercer une influence sur l’électeur afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour le candidat ou le parti enregistré consiste :
+	- **a)** soit en une expression de son opinion quant au résultat, potentiel ou souhaité, de l’élection;
+	- **b)** soit en une déclaration encourageant l’électeur à voter pour un candidat ou un parti enregistré ou le dissuadant de le faire;
+	- **c)** soit en la diffusion par radiodiffusion ou par l’intermédiaire de médias électroniques ou imprimés d’éditoriaux, de débats, de discours, de nouvelles, d’entrevues, de chroniques, de commentaires ou de lettres, quelle que soit la dépense effectivement engagée pour ce faire, si elle n’est pas effectuée en contravention des paragraphes 330(1) ou (2).
+
+**Collusion**
+
+- **(4)** Il est interdit à toute personne ou entité d’agir de concert avec une personne ou entité assujettie au paragraphe (1) en vue de contrevenir à ce paragraphe.
+
+**Vente d’un espace publicitaire**
+
+- **(5)** Il est interdit à toute personne ou entité de vendre un espace publicitaire à toute personne ou entité visée au paragraphe (1) afin de permettre à cette personne ou entité de diffuser ou de faire diffuser un message de publicité électorale.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Intervention auprès d’un électeur**
+
+**282.5** Il est interdit à toute personne d’intervenir ou de tenter d’intervenir auprès d’un électeur lorsqu’il marque son bulletin de vote ou son bulletin de vote spécial.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Empêcher le vote d’un électeur**
+
+**282.6** Il est interdit à toute personne d’empêcher ou de tenter d’empêcher un électeur de voter à une élection.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Offre de pot-de-vin**
+
+**282.7** 
+
+- **(1)** Il est interdit à toute personne, pendant la période électorale, d’offrir un pot-de-vin, directement ou indirectement, en vue d’exercer une influence sur un électeur afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à l’élection.
+
+**Acceptation de pot-de-vin**
+
+- **(2)** Il est interdit à toute personne, pendant la période électorale, d’accepter ou de convenir d’accepter tel pot-de-vin.
+> 2018, ch. 31, art. 190.
+
+
+
+
+
+**Intimidation, etc.**
+
+**282.8** Il est interdit à toute personne :
+- **a)** par intimidation ou par la contrainte, de forcer ou de tenter de forcer une autre personne à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné ou un parti enregistré donné à une élection;
+- **b)** d’exercer ou de tenter d’exercer une influence sur une autre personne afin qu’elle vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à une élection par quelque prétexte ou ruse, notamment en tentant de lui faire croire que le scrutin à une élection n’est pas secret.
+> 2018, ch. 31, art. 190.
+
 
 
 
@@ -5532,22 +6094,24 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **283** 
 
-- **(1)** Dès la clôture du scrutin, le scrutateur procède au dépouillement du scrutin en présence du greffier du scrutin, des personnes nommées en vertu de l’article 32.1 dont les tâches exigent leur présence lors du dépouillement et des candidats et représentants qui sont sur les lieux ou, en l’absence de candidats ou de représentants, d’au moins deux électeurs.
+- **(1)** Dès la clôture du scrutin, un fonctionnaire électoral affecté au bureau de scrutin procède au dépouillement du scrutin en présence, à la fois :
+	- **a)** d’un autre fonctionnaire électoral affecté au bureau;
+	- **b)** des candidats ou représentants qui sont sur les lieux ou, en l’absence de candidats ou de représentants, d’au moins deux électeurs.
 
 **Feuilles de comptage**
 
-- **(2)** Le scrutateur fournit au greffier du scrutin et à toutes les autres personnes présentes qui lui en font la demande une feuille de décompte pour leur permettre de faire leur propre calcul.
+- **(2)** L’un des fonctionnaires électoraux visés au paragraphe (1) fournit à toutes les personnes présentes visées à l’alinéa (1)b) qui en font la demande une feuille de décompte pour leur permettre de faire leur propre calcul.
 
 **Étapes à suivre**
 
-- **(3)** Le scrutateur doit, dans l’ordre :
-	- **a)** compter le nombre d’électeurs ayant voté ainsi que le nombre de ceux à qui un certificat a été délivré en vertu du paragraphe 161(4) et faire, à la fin de la liste électorale, l’inscription suivante : « Le nombre d’électeurs qui ont voté à la présente élection dans ce bureau de scrutin est de (*indiquer le nombre*). Parmi ces électeurs, le nombre d’électeurs à qui un certificat a été délivré en vertu du paragraphe 161(4) est de (*indiquer le nombre*). », signer la liste et placer celle-ci dans l’enveloppe fournie à cette fin;
+- **(3)** Le fonctionnaire électoral qui procède au dépouillement doit, dans l’ordre :
+	- **a)** compter le nombre d’électeurs ayant voté ainsi que le nombre de ceux à qui un certificat a été délivré en vertu du paragraphe 161(4) et faire, à la fin de la liste électorale, l’inscription suivante : « Le nombre d’électeurs qui ont voté à la présente élection est de (*indiquer le nombre*). Parmi ces électeurs, le nombre d’électeurs à qui un certificat a été délivré en vertu du paragraphe 161(4) est de (*indiquer le nombre*). », signer la liste et placer celle-ci dans l’enveloppe fournie à cette fin;
 	- **b)** compter les bulletins de vote annulés, les placer dans l’enveloppe fournie à cette fin, indiquer sur celle-ci le nombre de ces bulletins annulés et sceller celle-ci;
 	- **c)** compter les bulletins de vote inutilisés qui ne sont pas détachés des carnets de bulletins, les placer avec toutes les souches des bulletins utilisés dans l’enveloppe fournie à cette fin, indiquer sur celle-ci le nombre de ces bulletins inutilisés et sceller celle-ci;
 	- **d)** additionner le nombre indiqué au titre de l’alinéa a) se rapportant aux électeurs ayant voté et les nombres obtenus au titre des alinéas b) et c) afin qu’il soit rendu compte de tous les bulletins de vote fournis par le directeur du scrutin;
 	- **e)** ouvrir l’urne et vider son contenu sur une table;
-	- **f)** examiner chaque bulletin de vote en donnant aux personnes présentes l’occasion de l’examiner également et demander au greffier du scrutin de noter sur une feuille de décompte les votes donnés en faveur de chaque candidat pour en faire le total.
-> 2000, ch. 9, art. 283; 2014, ch. 12, art. 61.
+	- **f)** examiner chaque bulletin de vote en donnant aux personnes présentes l’occasion de l’examiner également et demander au fonctionnaire électoral visé à l’alinéa (1)a) de noter sur une feuille de décompte les votes donnés en faveur de chaque candidat pour en faire le total.
+> 2000, ch. 9, art. 283; 2014, ch. 12, art. 61; 2018, ch. 31, art. 191.
 
 
 
@@ -5557,7 +6121,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **284** 
 
-- **(1)** Lors de l’examen, le scrutateur rejette ceux :
+- **(1)** Lors de l’examen, le fonctionnaire électoral qui procède au dépouillement rejette ceux :
 	- **a)** qu’il n’a pas fournis;
 	- **b)** qui ne portent aucune marque dans l’un des cercles qui se trouvent à droite des noms des candidats;
 	- **c)** qui sont nuls en vertu de l’article 76;
@@ -5566,20 +6130,22 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Limitation**
 
-- **(2)** Aucun bulletin de vote ne peut être rejeté du seul fait que le scrutateur y a apposé quelque mot, numéro ou marque ou qu’il a omis d’enlever le talon.
+- **(2)** Aucun bulletin de vote ne peut être rejeté du seul fait qu’un fonctionnaire électoral y a apposé quelque mot, numéro ou marque ou qu’il a omis d’enlever le talon ou d’inscrire au verso du bulletin de vote la section de vote de l’électeur.
 
 **Talon non détaché**
 
-- **(3)** Si le talon est resté attaché à un bulletin de vote, le scrutateur doit, tout en cachant soigneusement à toutes les personnes présentes le numéro qui y est inscrit et sans l’examiner lui-même, détacher et détruire ce talon.
+- **(3)** Si le talon est resté attaché à un bulletin de vote, le fonctionnaire électoral qui procède au dépouillement doit, tout en cachant soigneusement à toutes les personnes présentes le numéro qui y est inscrit et sans l’examiner lui-même, détacher et détruire ce talon.
+> 2000, ch. 9, art. 284; 2018, ch. 31, art. 192.
 
 
 
 
-**Bulletins non paraphés par le scrutateur**
 
-**285** Lorsqu’il découvre qu’il a omis d’apposer ses initiales au verso d’un bulletin de vote, le scrutateur doit, en la présence du greffier du scrutin et des témoins, parapher ce bulletin de vote et le compter s’il est convaincu, à la fois :
-- **a)** qu’il a lui-même fourni ce bulletin de vote;
-- **b)** qu’il a été rendu compte, dans le cadre de l’alinéa 283(3)d), de tous les bulletins de vote fournis par le directeur du scrutin.
+**Bulletins non paraphés par un fonctionnaire électoral**
+
+**285** Lorsqu’il découvre qu’un bulletin de vote n’a pas été paraphé par un fonctionnaire électoral, le fonctionnaire électoral qui procède au dépouillement doit, en la présence du fonctionnaire électoral visé à l’alinéa 283(1)a) et des témoins, parapher ce bulletin de vote et le compter s’il est convaincu qu’il a été rendu compte, dans le cadre de l’alinéa 283(3)d), de tous les bulletins de vote fournis par le directeur du scrutin.
+> 2000, ch. 9, art. 285; 2018, ch. 31, art. 193.
+
 
 
 
@@ -5588,11 +6154,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **286** 
 
-- **(1)** Le scrutateur prend note, sur le formulaire prescrit, de toute opposition soulevée par le candidat ou son représentant quant à la prise en compte d’un bulletin de vote, donne un numéro à l’opposition et inscrit ce numéro ainsi que son paraphe sur le bulletin de vote qui fait l’objet de l’opposition.
+- **(1)** L’un des fonctionnaires électoraux visés au paragraphe 283(1) prend note, sur le formulaire prescrit, de toute opposition soulevée par le candidat ou son représentant quant à la prise en compte d’un bulletin de vote, donne un numéro à l’opposition et inscrit ce numéro ainsi que son paraphe sur le bulletin de vote qui fait l’objet de l’opposition.
 
 **Décision**
 
-- **(2)** Le scrutateur tranche toute question soulevée par une opposition. Sa décision ne peut être infirmée que lors du dépouillement judiciaire ou sur requête en contestation présentée en vertu du paragraphe 524(1).
+- **(2)** Le fonctionnaire électoral qui procède au dépouillement tranche toute question soulevée par une opposition. Sa décision ne peut être infirmée que lors du dépouillement judiciaire ou sur requête en contestation présentée en vertu du paragraphe 524(1).
+> 2000, ch. 9, art. 286; 2018, ch. 31, art. 193.
+
 
 
 
@@ -5601,11 +6169,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **287** 
 
-- **(1)** Le scrutateur établit, selon le formulaire prescrit, un relevé du scrutin dans lequel sont indiqués le nombre de votes recueillis par chaque candidat ainsi que le nombre de bulletins de vote rejetés. Il place l’original et une copie dans des enveloppes séparées fournies à cette fin.
+- **(1)** Le fonctionnaire électoral qui procède au dépouillement établit, selon le formulaire prescrit, un relevé du scrutin dans lequel sont indiqués le nombre de votes recueillis par chaque candidat ainsi que le nombre de bulletins de vote rejetés. Il place l’original et une copie dans des enveloppes séparées fournies à cette fin.
 
 **Copies du relevé**
 
 - **(2)** Il remet une copie du relevé du scrutin à chacun des représentants des candidats présents au moment du dépouillement.
+> 2000, ch. 9, art. 287; 2018, ch. 31, art. 194.
+
 
 
 
@@ -5614,15 +6184,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **288** 
 
-- **(1)** Le scrutateur place les bulletins de vote recueillis par chaque candidat dans des enveloppes séparées, indique sur l’enveloppe le nom du candidat et le nombre de votes qu’il a recueillis et la scelle. Lui et le greffier du scrutin doivent signer le sceau; les témoins peuvent aussi apposer leur signature.
+- **(1)** L’un des fonctionnaires électoraux visés au paragraphe 283(1) place les bulletins de vote recueillis par chaque candidat dans des enveloppes séparées, indique sur l’enveloppe le nom du candidat et le nombre de votes qu’il a recueillis et la scelle. Ces fonctionnaires électoraux doivent signer le sceau; les témoins peuvent aussi apposer leur signature.
 
 **Enveloppe pour les bulletins rejetés**
 
-- **(2)** Le scrutateur met dans des enveloppes séparées les bulletins de vote rejetés, les certificats d’inscription et la liste électorale et scelle les enveloppes.
+- **(2)** L’un de ces fonctionnaires électoraux met dans des enveloppes séparées les bulletins de vote rejetés, les certificats d’inscription et la liste électorale et scelle les enveloppes.
 
 **Grande enveloppe**
 
-- **(3)** Le scrutateur scelle dans la grande enveloppe fournie à cette fin :
+- **(3)** L’un d’eux scelle dans la grande enveloppe fournie à cette fin :
 	- **a)** les enveloppes contenant les bulletins de vote marqués en faveur des candidats, rejetés, inutilisés et annulés, ainsi que celle contenant la liste électorale officielle;
 	- **b)** les autres documents ayant servi au scrutin, sauf les enveloppes contenant les relevés du scrutin et les certificats d’inscription.
 
@@ -5633,14 +6203,16 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Sceaux**
 
 - **(5)** L’urne est scellée au moyen des sceaux fournis par le directeur général des élections.
+> 2000, ch. 9, art. 288; 2018, ch. 31, art. 195.
 
 
 
 
-**Serments**
 
-**288.01** Le scrutateur place tout formulaire au moyen duquel un serment a été prêté au titre du paragraphe 143(3) ou des alinéas 161(1)b) ou 169(2)b) dans l’enveloppe fournie à cette fin.
-> 2014, ch. 12, art. 62.
+**Déclarations solennelles**
+
+**288.01** L’un des fonctionnaires électoraux visés au paragraphe 283(1) place tout formulaire au moyen duquel une déclaration solennelle a été faite au titre du paragraphe 143(3) ou des alinéas 161(1)b) ou 169(2)b) dans l’enveloppe fournie à cette fin.
+> 2014, ch. 12, art. 62; 2018, ch. 31, art. 196.
 
 
 
@@ -5648,8 +6220,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Relevés périodiques des électeurs qui ont voté**
 
-**288.1** Le scrutateur place une copie de tout document préparé pour l’application de l’alinéa 162i.1) dans l’enveloppe fournie à cette fin.
-> 2014, ch. 12, art. 62.
+**288.1** L’un des fonctionnaires électoraux visés au paragraphe 283(1) place une copie de tout document préparé pour l’application de l’alinéa 162i.1) dans l’enveloppe fournie à cette fin.
+> 2014, ch. 12, art. 62; 2018, ch. 31, art. 196.
 
 
 
@@ -5663,18 +6235,26 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **289** 
 
-- **(1)** À la fermeture des bureaux de scrutin, le jour du scrutin, le scrutateur du bureau de vote par anticipation et son greffier du scrutin doivent se trouver au lieu indiqué conformément au sous-alinéa 172a)(iii) pour compter les votes.
+- **(1)** À la fermeture des bureaux de scrutin, le jour du scrutin, au moins deux fonctionnaires électoraux affectés au bureau de vote par anticipation et désignés conformément aux instructions du directeur général des élections doivent se trouver au lieu indiqué conformément au sous-alinéa 172a)(iii) pour compter les votes.
 
 **Application de certaines dispositions**
 
 - **(2)** Les paragraphes 283(1) et (2), les alinéas 283(3)e) et f) et les articles 284 à 288 s’appliquent, avec les adaptations nécessaires, au dépouillement du scrutin dans les bureaux de vote par anticipation, sauf que :
-	- **a)** pour l’application de l’alinéa 283(3)e), le scrutateur doit ouvrir les urnes et vider leur contenu sur une table;
+	- **a)** pour l’application de l’alinéa 283(3)e), les fonctionnaires électoraux qui sont désignés conformément aux instructions du directeur général des élections doivent ouvrir les urnes et vider leur contenu sur une table;
 	- **b)** pour l’application du paragraphe 288(4), la grande enveloppe et l’enveloppe renfermant une copie du relevé du scrutin sont déposées dans l’urne utilisée la dernière journée du vote par anticipation.
 
 **Interdiction**
 
-- **(3)** Il est interdit de compter les bulletins de vote donnés à un bureau de vote par anticipation avant le moment prévu au paragraphe (1).
-> 2000, ch. 9, art. 289; 2014, ch. 12, art. 63.
+- **(3)** Sous réserve du paragraphe (4), il est interdit de compter les bulletins de vote donnés à un bureau de vote par anticipation avant l’heure de clôture du scrutin le jour du scrutin.
+
+**Exception**
+
+- **(4)** Les fonctionnaires électoraux qui sont désignés conformément aux instructions du directeur général des élections peuvent commencer le dépouillement des bulletins de vote donnés au bureau de vote par anticipation, une heure avant l’heure de clôture du scrutin le jour du scrutin si, à la fois :
+	- **a)** le directeur du scrutin responsable du bureau a obtenu une autorisation préalable du directeur général des élections pour ce faire;
+	- **b)** le dépouillement est fait conformément aux instructions du directeur général des élections;
+	- **c)** il est fait de manière à assurer l’intégrité du vote;
+	- **d)** il est fait en présence des candidats ou représentants qui sont sur les lieux ou, en l’absence de candidats ou de représentants, d’au moins deux électeurs.
+> 2000, ch. 9, art. 289; 2014, ch. 12, art. 63; 2018, ch. 31, art. 197.
 
 
 
@@ -5686,14 +6266,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Transmission des urnes et des enveloppes**
 
-**290** 
-
-- **(1)** Dès que l’urne est scellée, le scrutateur du bureau de scrutin ou du bureau de vote par anticipation transmet celle-ci au directeur du scrutin, avec l’enveloppe contenant l’original du relevé du scrutin, l’enveloppe contenant les certificats d’inscription, l’enveloppe visée à l’article 288.01 et, s’agissant du scrutateur du bureau de scrutin, l’enveloppe visée à l’article 288.1.
-
-**Cueillette des urnes**
-
-- **(2)** Le directeur du scrutin peut nommer des personnes pour recueillir les urnes, ainsi que les enveloppes visées au paragraphe (1), de certains bureaux de scrutin; celles-ci doivent, en remettant le matériel au directeur du scrutin, prêter le serment prescrit.
-> 2000, ch. 9, art. 290; 2014, ch. 12, art. 64.
+**290** Dès que l’urne est scellée, un fonctionnaire électoral affecté au bureau de scrutin ou au bureau de vote par anticipation transmet celle-ci au directeur du scrutin, avec l’enveloppe contenant l’original du relevé du scrutin, l’enveloppe contenant les certificats d’inscription, l’enveloppe visée à l’article 288.01 et, s’agissant du fonctionnaire électoral affecté au bureau de scrutin, l’enveloppe visée à l’article 288.1.
+> 2000, ch. 9, art. 290; 2014, ch. 12, art. 64; 2018, ch. 31, art. 198.
 
 
 
@@ -5719,10 +6293,10 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Liste des personnes ayant prêté serment**
+**Liste des personnes ayant fait une déclaration solennelle**
 
-**292.1** Dès qu’il reçoit l’enveloppe visée à l’article 288.01, le directeur du scrutin dresse la liste des noms des personnes qui ont prêté serment au titre du paragraphe 143(3) ou des alinéas 161(1)b) ou 169(2)b) et y inclut l’adresse de chacune d’elles.
-> 2014, ch. 12, art. 66.
+**292.1** Dès qu’il reçoit l’enveloppe visée à l’article 288.01, le directeur du scrutin dresse la liste des noms des personnes qui ont fait une déclaration solennelle au titre du paragraphe 143(3) ou des alinéas 161(1)b) ou 169(2)b) et y inclut l’adresse de chacune d’elles.
+> 2014, ch. 12, art. 66; 2018, ch. 31, art. 199.
 
 
 
@@ -5788,8 +6362,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(2)** S’il ne peut se procurer ni l’urne ni l’original du relevé du scrutin, le directeur du scrutin :
 	- **a)** constate, d’après toute preuve qu’il peut obtenir, le nombre total des votes donnés en faveur de chaque candidat aux divers bureaux de scrutin;
-	- **b)** à cette fin, peut assigner tout scrutateur, greffier du scrutin ou toute autre personne à comparaître devant lui aux date et heure qu’il fixe, et leur ordonner d’apporter avec eux tous documents nécessaires;
-	- **c)** peut alors interroger sous serment le scrutateur, le greffier du scrutin ou toute autre personne, au sujet de l’affaire en question.
+	- **b)** à cette fin, peut assigner tout fonctionnaire électoral ou toute autre personne à comparaître devant lui aux date et heure qu’il fixe, et leur ordonner d’apporter avec eux tous documents nécessaires;
+	- **c)** peut alors questionner le fonctionnaire électoral ou toute autre personne au sujet de l’affaire en question et, si nécessaire, lui demander de faire une déclaration solennelle relativement à cette affaire.
 
 **Avis aux candidats**
 
@@ -5798,6 +6372,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Obligation de comparaître**
 
 - **(4)** La personne qui reçoit une assignation à comparaître devant le directeur du scrutin dans le cadre de l’alinéa (2)b) est tenue d’y obéir.
+> 2000, ch. 9, art. 296; 2018, ch. 31, art. 200.
+
 
 
 
@@ -5876,7 +6452,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Motifs du dépouillement**
 
 - **(2)** Le juge fixe la date du dépouillement s’il appert, d’après l’affidavit d’un témoin digne de foi, que l’une ou l’autre des situations suivantes existe :
-	- **a)** un scrutateur, en comptant les votes, a mal compté ou rejeté par erreur des bulletins de vote ou le nombre qu’il a inscrit sur le relevé du scrutin comme étant le nombre de bulletins de vote déposés en faveur d’un candidat n’est pas exact;
+	- **a)** un fonctionnaire électoral, en comptant les votes, a mal compté ou rejeté par erreur des bulletins de vote ou le nombre qu’il a inscrit sur le relevé du scrutin comme étant le nombre de bulletins de vote déposés en faveur d’un candidat n’est pas exact;
 	- **b)** le directeur du scrutin a mal additionné les résultats figurant sur les relevés du scrutin.
 
 **Cautionnement**
@@ -5915,7 +6491,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **304** 
 
-- **(1)** Le juge procède au dépouillement en additionnant les votes consignés dans les relevés du scrutin ou en comptant les bulletins de vote acceptés ou tous les bulletins de vote retournés par les scrutateurs ou le directeur général des élections.
+- **(1)** Le juge procède au dépouillement en additionnant les votes consignés dans les relevés du scrutin ou en comptant les bulletins de vote acceptés ou tous les bulletins de vote retournés par les fonctionnaires électoraux ou le directeur général des élections.
 
 **Documents qui peuvent être examinés**
 
@@ -5923,7 +6499,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Procédure à suivre pour certains dépouillements**
 
-- **(3)** La procédure figurant à l’annexe 4 s’applique dans le cas d’un dépouillement judiciaire relatif au compte des bulletins de vote acceptés ou de tous les bulletins de vote retournés par les scrutateurs ou le directeur général des élections.
+- **(3)** La procédure figurant à l’annexe 4 s’applique dans le cas d’un dépouillement judiciaire relatif au compte des bulletins de vote acceptés ou de tous les bulletins de vote retournés par les fonctionnaires électoraux ou le directeur général des élections.
 
 **Pouvoirs du juge**
 
@@ -5931,12 +6507,12 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Autres pouvoirs du juge**
 
-- **(5)** Le juge a, dans le cadre du dépouillement, le pouvoir d’assigner devant lui, comme témoin, un scrutateur ou un greffier du scrutin et d’exiger qu’il témoigne sous serment et, à cette fin, il a les pouvoirs d’une cour d’archives.
+- **(5)** Le juge a, dans le cadre du dépouillement, le pouvoir d’assigner devant lui, comme témoin, un fonctionnaire électoral et d’exiger qu’il témoigne sous serment et, à cette fin, il a les pouvoirs d’une cour d’archives.
 
 **Personnel de soutien**
 
 - **(6)** Sous réserve de l’agrément du directeur général des élections, un juge peut retenir les services du personnel de soutien dont il a besoin pour remplir convenablement ses fonctions en vertu de la présente partie.
-> 2000, ch. 9, art. 304; 2014, ch. 12, art. 69.
+> 2000, ch. 9, art. 304; 2014, ch. 12, art. 69; 2018, ch. 31, art. 202.
 
 
 
@@ -6091,13 +6667,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **314** 
 
 - **(1)** Sans délai après que le rapport a été établi, le directeur du scrutin transmet au directeur général des élections les documents électoraux en sa possession ainsi que :
-	- **a)** un procès-verbal de ce qu’il a fait, selon le formulaire prescrit, où, entre autres, il consigne ses observations sur l’état des documents électoraux que lui ont remis ses scrutateurs;
+	- **a)** un procès-verbal de ce qu’il a fait, selon le formulaire prescrit, où, entre autres, il consigne ses observations sur l’état des documents électoraux que lui ont remis ses fonctionnaires électoraux;
 	- **b)** une récapitulation, selon le formulaire prescrit, du nombre de votes obtenu par chaque candidat dans chaque bureau de scrutin;
-	- **c)** tous les autres documents qui ont servi à l’élection.
+	- **c)** tous les autres documents qui ont servi à l’élection, notamment les documents préparés pour l’application de l’alinéa 162i.1).
 
 **Mention expresse au procès-verbal**
 
 - **(2)** Dans tous les cas prévus à l’article 296, il mentionne expressément au procès-verbal les circonstances entourant la disparition des urnes ou l’absence d’un relevé du scrutin, ainsi que les moyens qu’il a pris pour constater le nombre de votes donnés en faveur de chaque candidat.
+> 2000, ch. 9, art. 314; 2018, ch. 31, art. 205.
+
 
 
 
@@ -6173,17 +6751,14 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 ***heures de grande écoute*** Dans le cas d’une station de radio, les périodes comprises entre 6 h et 9 h, 12 h et 14 h et 16 h et 19 h et, dans le cas d’une station de télévision, la période comprise entre 18 h et 24 h. (*prime time*)
 
-***publicité électorale*** Diffusion, sur un support quelconque au cours de la période électorale, d’un message publicitaire favorisant ou contrecarrant un parti enregistré ou l’élection d’un candidat, notamment par une prise de position sur une question à laquelle est associé un parti enregistré ou un candidat. Il est entendu que ne sont pas considérés comme de la publicité électorale :
-- **a)** la diffusion d’éditoriaux, de débats, de discours, de nouvelles, d’entrevues, de chroniques, de commentaires ou de lettres;
-- **b)** la promotion ou la distribution, pour une valeur non inférieure à sa valeur commerciale, d’un ouvrage dont la mise en vente avait été planifiée sans égard à la tenue de l’élection;
-- **c)** l’envoi d’un document par une personne ou un groupe directement à ses membres, ses actionnaires ou ses employés;
-- **d)** la diffusion par un individu, sur une base non commerciale, de ses opinions politiques sur le réseau communément appelé Internet;
-- **e)** les appels téléphoniques destinés uniquement à inciter les électeurs à voter. (*election advertising*)
+***plateforme en ligne*** S’entend, notamment, d’un site Internet ou d’une application Internet dont le propriétaire ou l’exploitant, dans le cadre de ses activités commerciales, vend, directement ou indirectement, des espaces publicitaires sur le site ou l’application à des personnes ou des groupes. (*online platform*)
+
+***publicité électorale***[Abrogée, 2018, ch. 31, art. 206]
 
 ***réseau*** S’entend au sens du paragraphe 2(1) de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md). La présente définition exclut l’exploitation temporaire d’un réseau au sens de ce paragraphe. (*network*)
 
-***sondage électoral*** Sondage sur les intentions de vote des électeurs, sur le sens de leur vote ou sur une question à laquelle un parti enregistré ou un candidat est associé. (*election survey*)
-> 2000, ch. 9, art. 319; 2014, ch. 12, art. 72.
+***sondage électoral***[Abrogée, 2018, ch. 31, art. 206]
+> 2000, ch. 9, art. 319; 2014, ch. 12, art. 72; 2018, ch. 31, art. 206.
 
 
 
@@ -6262,6 +6837,65 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
+### Plateformes en ligne
+
+
+
+**Plateformes en ligne — nombre de visites**
+
+**325.1** 
+
+- **(1)** Le présent article et l’article 325.2 s’appliquent à toute plateforme en ligne qui, pendant la période de douze mois qui précède immédiatement le début de la période préélectorale pour toute publication d’un message de publicité partisane sur cette plateforme ou qui précède immédiatement le début de la période électorale pour toute publication d’un message de publicité électorale sur cette plateforme, a été visitée ou utilisée par des utilisateurs situés au Canada, en moyenne, par mois :
+	- **a)** dans le cas d’une plateforme en ligne dont le contenu est disponible principalement en anglais, au moins trois millions de fois;
+	- **b)** dans le cas d’une plateforme en ligne dont le contenu est disponible principalement en français, au moins un million de fois;
+	- **c)** dans le cas d’une plateforme en ligne dont le contenu est disponible principalement dans une langue autre que l’anglais ou le français, au moins cent mille fois.
+
+**Registre des messages de publicité partisane et électorale**
+
+- **(2)** Le propriétaire ou l’exploitant d’une plateforme en ligne qui vend, directement ou indirectement, aux personnes et groupes suivants des espaces publicitaires publie sur cette plateforme un registre des messages de publicité partisane et de publicité électorale de ces personnes ou groupes publiés sur cette plateforme :
+	- **a)** un parti enregistré ou un parti admissible;
+	- **b)** une association enregistrée;
+	- **c)** un candidat à l’investiture;
+	- **d)** un candidat potentiel ou un candidat;
+	- **e)** un tiers tenu de s’enregistrer en application du paragraphe 349.6(1) ou 353(1).
+
+**Renseignements figurant dans le registre**
+
+- **(3)** Les renseignements qui figurent dans le registre visé au paragraphe (2) sont les suivants :
+	- **a)** une copie électronique de chaque message de publicité partisane et de chaque message de publicité électorale publiés sur la plateforme;
+	- **b)** pour chaque message de publicité visé à l’alinéa a), le nom de la personne qui a autorisé la publication du message sur la plateforme, soit :
+		- **(i)** dans le cas où le groupe qui a demandé la publication du message est un parti enregistré ou un parti admissible, le nom de l’agent enregistré du parti enregistré ou du parti admissible,
+		- **(ii)** dans le cas où le groupe qui a demandé la publication du message est une association enregistrée, le nom de l’agent financier de l’association enregistrée,
+		- **(iii)** dans le cas où la personne qui a demandé la publication du message est un candidat à l’investiture, le nom de l’agent financier,
+		- **(iv)** dans le cas où la personne qui a demandé la publication du message est un candidat potentiel ou un candidat, le nom de l’agent officiel,
+		- **(v)** dans le cas où le groupe ou la personne qui a demandé la publication du message est un tiers enregistré, le nom de l’agent financier.
+
+**Période de publication**
+
+- **(4)** Le propriétaire ou l’exploitant de la plateforme en ligne publie au registre visé au paragraphe (2), pendant la période suivante, les renseignements visés au paragraphe (3) à l’égard de chaque message de publicité partisane ou de publicité électorale :
+	- **a)** dans le cas d’un message de publicité partisane, commençant le jour de sa première publication et se terminant deux ans après :
+		- **(i)** la fin de la période électorale de l’élection générale qui suit immédiatement la période préélectorale,
+		- **(ii)** le jour visé à l’alinéa b) de la définition de période préélectorale, si la période préélectorale n’est pas immédiatement suivie d’une élection générale;
+	- **b)** dans le cas d’un message de publicité électorale, commençant le jour de sa première publication et se terminant deux ans après la fin de la période électorale.
+
+**Renseignements à conserver après la période de publication**
+
+- **(5)** Le propriétaire ou l’exploitant de la plateforme en ligne conserve les renseignements qui figuraient dans le registre visé au paragraphe (2) à l’égard de chaque message de publicité partisane ou de publicité électorale pendant une période de cinq ans après la fin de la période de publication applicable visée au paragraphe (4).
+> 2018, ch. 31, art. 208.1.
+
+
+
+
+
+**Renseignements à fournir au propriétaire ou à l’exploitant**
+
+**325.2** Toute personne ou groupe visé à l’un des alinéas 325.1(2)a) à e) qui demande la publication d’un message de publicité partisane ou de publicité électorale sur une plateforme en ligne fournit au propriétaire ou à l’exploitant de la plateforme les renseignements — qui sont sous le contrôle de la personne ou du groupe — dont il a besoin pour se conformer au paragraphe 325.1(2).
+> 2018, ch. 31, art. 208.1.
+
+
+
+
+
 ### Sondages électoraux
 
 
@@ -6276,17 +6910,20 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **c)** la date à laquelle ou la période au cours de laquelle le sondage s’est fait;
 	- **d)** la population de référence;
 	- **e)** le nombre de personnes contactées;
-	- **f)** le cas échéant, la marge d’erreur applicable aux données.
+	- **f)** le cas échéant, la marge d’erreur applicable aux données;
+	- **g)** l’adresse du site Internet où est publié le compte rendu visé au paragraphe (3).
 
 **Renseignements supplémentaires : publication**
 
-- **(2)** Le diffuseur d’un sondage — sauf le sondage régi par l’article 327 — sur un support autre que la radiodiffusion doit fournir, en plus des renseignements visés au paragraphe (1), ce qui suit :
-	- **a)** le libellé des questions posées sur lesquelles se fondent les données;
-	- **b)** la façon d’obtenir le compte rendu visé au paragraphe (3).
+- **(2)** Le diffuseur d’un sondage — sauf le sondage régi par l’article 327 — sur un support autre que la radiodiffusion doit fournir, en plus des renseignements visés au paragraphe (1), le libellé des questions posées sur lesquelles se fondent les données.
+
+**Avis au demandeur du sondage de la diffusion**
+
+- **(2.1)** La personne qui est la première à diffuser les résultats d’un sondage électoral — sauf le sondage régi par l’article 327 — veille, si elle n’est pas le demandeur du sondage, à ce que celui-ci soit avisé, avant la diffusion des résultats, de la date où elle aura lieu.
 
 **Accès au compte rendu des résultats**
 
-- **(3)** Le demandeur du sondage électoral visé au paragraphe (1) doit, une fois que les résultats en sont diffusés et jusqu’à la fin de la période électorale, fournir, sur demande, un exemplaire du compte rendu des résultats, lequel doit comprendre les renseignements suivants, dans la mesure où ils sont appropriés :
+- **(3)** Le demandeur du sondage électoral — sauf le sondage régi par l’article 327 — doit veiller, pendant la période électorale, à ce qu’un compte rendu des résultats soit publié sur un site Internet accessible au public et y demeure pour le reste de cette période. Le demandeur du sondage électoral veille à la publication avant la diffusion des résultats du sondage s’il est la première personne à les diffuser ou, s’il ne l’est pas, dès que possible après avoir été avisé de la date de leur diffusion au titre du paragraphe (2.1). Le compte rendu doit comprendre les renseignements ci-après, dans la mesure où ils sont appropriés :
 	- **a)** ses nom et adresse;
 	- **b)** les nom et adresse de la personne ou de l’organisation qui a procédé au sondage;
 	- **c)** la date à laquelle ou la période au cours de laquelle le sondage s’est fait;
@@ -6300,9 +6937,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 		- **(vii)** les facteurs de pondération ou les méthodes de normalisation utilisés;
 	- **e)** le libellé des questions posées sur lesquelles se fondent les données et la ou les marges d’erreur applicables aux données.
 
-**Paiement qui peut être exigé**
+- **(4)** [Abrogé, 2018, ch. 31, art. 210]
+> 2000, ch. 9, art. 326; 2018, ch. 31, art. 210.
 
-- **(4)** Il peut demander le versement d’une somme maximale de 0,25 $ par page pour le compte rendu.
 
 
 
@@ -6359,16 +6996,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-
-### Incitation par les étrangers
-
-
-
-**Interdiction — incitation par des étrangers**
-
-**331** Il est interdit à quiconque n’est ni un citoyen canadien ni un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et ne réside pas au Canada d’inciter de quelque manière des électeurs, pendant la période électorale, à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné.
-> 2000, ch. 9, art. 331; 2001, ch. 27, art. 211.
-
+**331** [Abrogé, 2018, ch. 31, art. 213]
 
 
 
@@ -6830,8 +7458,9 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 - **(2)** Pour chaque période électorale à laquelle l’accord s’applique, l’avis est déposé dans les quarante-huit heures suivant le premier appel fait au titre de l’accord et contient les renseignements suivants :
 	- **a)** le nom du fournisseur de services d’appel;
 	- **b)** le nom de la personne ou du groupe partie à l’accord;
+	- **b.1)** le nom de la personne ou du groupe au nom duquel seront faits les appels visés par l’accord;
 	- **c)** le type d’appels visés par l’accord.
-> 2014, ch. 12, art. 76.
+> 2014, ch. 12, art. 76; 2018, ch. 31, art. 214.
 
 
 
@@ -6848,6 +7477,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 - **(2)** Pour chaque période électorale à laquelle l’accord s’applique, l’avis est déposé dans les quarante-huit heures suivant le premier appel fait au titre de l’accord et contient les renseignements suivants :
 	- **a)** le nom du fournisseur de services d’appel;
 	- **b)** le nom de la personne ou du groupe partie à l’accord;
+	- **b.1)** le nom de la personne ou du groupe au nom duquel seront faits les appels visés par l’accord;
 	- **c)** le type d’appels visés par l’accord.
 
 **Obligation de fournir une copie d’une pièce d’identité**
@@ -6857,7 +7487,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Présomption**
 
 - **(4)** Sauf pour l’application de l’article 348.12, l’avis est réputé ne pas avoir été déposé si les renseignements et la copie de la pièce d’identité ne sont pas fournis au moment du dépôt.
-> 2014, ch. 12, art. 76.
+> 2014, ch. 12, art. 76; 2018, ch. 31, art. 215.
 
 
 
@@ -6945,8 +7575,14 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Publication**
 
-**348.12** Dès que possible après l’expiration d’une période de trente jours suivant le jour du scrutin, le Conseil de la radiodiffusion et des télécommunications canadiennes publie, selon les modalités qu’il estime indiquées, les avis d’enregistrement relatifs à l’élection qui ont été déposés auprès de lui.
-> 2014, ch. 12, art. 76.
+**348.12** 
+
+- **(1)** Dès que possible et au plus tard trente jours après le jour du scrutin, le Conseil de la radiodiffusion et des télécommunications canadiennes publie, selon les modalités qu’il estime indiquées, les avis d’enregistrement relatifs à l’élection qui ont été déposés auprès de lui.
+
+**Précision**
+
+- **(2)** Le paragraphe (1) n’empêche pas le Conseil de la radiodiffusion et des télécommunications canadiennes de publier, avant le jour du scrutin, un avis d’enregistrement ou tout renseignement figurant dans un avis incomplet déposé auprès de celui-ci.
+> 2014, ch. 12, art. 76; 2018, ch. 31, art. 216.
 
 
 
@@ -6986,7 +7622,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 **SECTION 2** 
-### Scripts et enregistrements
+### Scripts, enregistrements et listes de numéros de téléphone
 
 
 
@@ -6994,8 +7630,9 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **348.16** Le fournisseur de services d’appel qui, au titre d’un accord, fournit des services d’appels aux électeurs conserve pendant trois ans après la fin de la période électorale :
 - **a)** une copie des différents scripts utilisés pour faire des appels de vive voix au titre de l’accord et un registre des dates d’utilisation;
-- **b)** un enregistrement des différents messages transmis par un composeur-messager automatique utilisé pour faire des appels au titre de l’accord et un registre des dates de transmission.
-> 2014, ch. 12, art. 77.
+- **b)** un enregistrement des différents messages transmis par un composeur-messager automatique utilisé pour faire des appels au titre de l’accord et un registre des dates de transmission;
+- **c)** une liste des numéros de téléphone appelés pendant la période électorale au titre de l’accord.
+> 2014, ch. 12, art. 77; 2018, ch. 31, art. 218.
 
 
 
@@ -7005,33 +7642,42 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **348.17** La personne ou le groupe qui conclut avec un fournisseur de services d’appel un accord au titre duquel des services d’appels aux électeurs lui sont fournis conserve pendant un an après la fin de la période électorale :
 - **a)** une copie des différents scripts utilisés pour faire des appels de vive voix au titre de l’accord et un registre des dates d’utilisation;
-- **b)** un enregistrement des différents messages transmis par un composeur-messager automatique utilisé pour faire des appels au titre de l’accord et un registre des dates de transmission.
-> 2014, ch. 12, art. 77.
+- **b)** un enregistrement des différents messages transmis par un composeur-messager automatique utilisé pour faire des appels au titre de l’accord et un registre des dates de transmission;
+- **c)** une liste des numéros de téléphone appelés pendant la période électorale au titre de l’accord.
+> 2014, ch. 12, art. 77; 2018, ch. 31, art. 219.
 
 
 
 
 
-**Personne ou groupe : services internes**
+**Personne ou groupe — services internes**
 
-**348.18** La personne ou le groupe qui, pendant une période électorale, utilise ses services internes pour faire des appels par composeur-messager automatique à toute fin liée aux élections, notamment celles énumérées aux alinéas a) à e) de la définition de ***services d’appels aux électeurs*** à l’article 348.01, conserve, pendant un an après la fin de la période électorale, un enregistrement des différents messages transmis par le composeur-messager et un registre des dates de transmission.
-> 2014, ch. 12, art. 77.
+**348.18** La personne ou le groupe qui, pendant une période électorale, utilise ses services internes pour faire des appels par composeur-messager automatique à toute fin liée aux élections, notamment celles énumérées aux alinéas a) à e) de la définition de services d’appels aux électeurs à l’article 348.01, conserve, pendant un an après la fin de la période électorale :
+- **a)** un enregistrement des différents messages transmis par le composeur-messager et un registre des dates de transmission;
+- **b)** une liste des numéros de téléphone appelés à cette fin pendant la période électorale.
+> 2014, ch. 12, art. 77; 2018, ch. 31, art. 220.
 
 
 
 
 
-**Tiers qui est un groupe ou une personne morale : services internes**
+**Tiers qui est une personne morale ou un groupe — services internes**
 
-**348.19** Le tiers qui est un groupe ou une personne morale et qui, pendant une période électorale, utilise ses services internes pour faire des appels de vive voix à toute fin liée aux élections, notamment celles énumérées aux alinéas a) à e) de la définition de ***services d’appels aux électeurs*** à l’article 348.01, conserve, pendant un an après la fin de la période électorale, une copie des différents scripts utilisés et un registre des dates d’utilisation.
-> 2014, ch. 12, art. 77.
+**348.19** Le tiers qui est une personne morale ou un groupe et qui, pendant une période électorale, utilise ses services internes pour faire des appels de vive voix à toute fin liée aux élections, notamment celles énumérées aux alinéas a) à e) de la définition de services d’appels aux électeurs à l’article 348.01, conserve, pendant un an après la fin de la période électorale :
+- **a)** une copie des différents scripts utilisés et un registre des dates d’utilisation;
+- **b)** une liste des numéros de téléphone appelés à cette fin pendant la période électorale.
+> 2014, ch. 12, art. 77; 2018, ch. 31, art. 220.
 
 
 
 
 
 **PARTIE 17** 
-## Publicité électorale faite par des tiers
+## Publicité, activités partisanes et sondages électoraux des tiers
+
+
+
+### Définitions
 
 
 
@@ -7039,22 +7685,447 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **349** Les définitions qui suivent s’appliquent à la présente partie.
 
+***activité partisane*** Toute activité, notamment le porte-à-porte, les appels téléphoniques aux électeurs et l’organisation de rassemblements, qui est tenue par un tiers — personne ou groupe, sauf un parti politique enregistré en vertu d’une loi provinciale — et qui favorise ou contrecarre un parti enregistré ou un parti admissible ou l’élection d’un candidat potentiel, d’un candidat à l’investiture, d’un candidat ou d’un chef de parti enregistré ou de parti admissible autrement que par la prise d’une position sur une question à laquelle le parti ou la personne en cause est associé. La présente définition exclut la publicité électorale, la publicité partisane et toute activité de financement. (*partisan activity*)
+
 ***dépenses***
 - **a)** Les sommes payées;
 - **b)** les dettes contractées;
 - **c)** la valeur commerciale des produits et services donnés ou fournis, à l’exception du travail bénévole;
 - **d)** les sommes égales à la différence entre les sommes payées et les dépenses engagées au titre des produits et services — exception faite du travail bénévole — d’une part et leur valeur commerciale d’autre part, lorsqu’ils sont fournis à un prix inférieur à cette valeur. (*expenses*)
 
-***dépenses de publicité électorale*** Les dépenses engagées pour :
-- **a)** la production de messages de publicité électorale;
-- **b)** l’acquisition de moyens de diffusion de tels messages. (*election advertising expense*)
+***dépenses d’activité partisane*** Les dépenses engagées pour l’organisation et la tenue d’une activité partisane. (*partisan activity expense*)
+
+***dépenses de publicité électorale***[Abrogée, 2018, ch. 31, art. 222]
+
+***dépenses de sondage électoral*** Les dépenses engagées pour effectuer un sondage électoral :
+- **a)** dans la section 1, pendant une période préélectorale;
+- **b)** dans la section 2, pendant une période électorale;
+- **c)** dans la section 3, pendant une période préélectorale ou une période électorale. (*election survey expense*)
 
 ***groupe*** Syndicat non constitué en personne morale, association commerciale ou groupe de personnes agissant ensemble d’un commun accord dans la poursuite d’un but commun. (*group*)
 
-***publicité électorale*** S’entend au sens de l’article 319. (*election advertising*)
+***publicité électorale***[Abrogée, 2018, ch. 31, art. 222]
 
-***tiers*** Personne ou groupe, à l’exception d’un candidat, d’un parti enregistré et d’une association de circonscription d’un parti enregistré. (*third party*)
+***sondage électoral*** Tout sondage électoral qu’un tiers — personne ou groupe, sauf un parti politique enregistré en vertu d’une loi provinciale — effectue ou fait effectuer pendant une période préélectorale ou une période électorale et dont les résultats sont pris en compte par ce dernier, selon le cas :
+- **a)** soit dans sa décision d’organiser et de tenir ou non des activités partisanes ou de diffuser ou non des messages de publicité partisane ou des messages de publicité électorale;
+- **b)** soit dans le cadre de l’organisation et de la tenue de telles activités ou de la diffusion de tels messages. (*election survey*)
 
+***tiers***
+- **a)** Dans la section 0.1, personne ou groupe, sauf :
+	- **(i)** pendant la période électorale, un candidat, un parti enregistré et une association de circonscription d’un parti enregistré,
+	- **(ii)** pendant toute autre période que la période électorale,
+		- **(A)** un parti enregistré, un parti admissible et une association enregistrée,
+		- **(B)** un candidat potentiel, au sens des alinéas a), b) ou d) de la définition de candidat potentiel au paragraphe 2(1),
+		- **(C)** un candidat à l’investiture;
+- **a.1)** Dans la section 1, personne ou groupe, sauf :
+	- **(i)** un parti enregistré, un parti admissible et une association enregistrée,
+	- **(ii)** un candidat potentiel, au sens des alinéas a), b) ou d) de la définition de candidat potentiel au paragraphe 2(1),
+	- **(iii)** un candidat à l’investiture;
+- **b)** dans la section 2, personne ou groupe, sauf un candidat, un parti enregistré et une association de circonscription d’un parti enregistré. (*third party*)
+
+***tiers enregistré*** Tiers enregistré en application des articles 349.6 ou 353. (*registered third party*)
+> 2000, ch. 9, art. 349; 2018, ch. 31, art. 222.
+
+
+
+
+
+**SECTION 0.1** 
+### Interdiction pour les tiers d’utiliser des fonds de l’étranger
+
+
+
+**Définitions**
+
+**349.01** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente section.
+
+***entité étrangère*** S’entend notamment :
+- **a)** d’un particulier qui n’est ni un citoyen canadien ni un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
+- **b)** d’une personne morale ou d’une entité constituée, formée ou autrement organisée ailleurs qu’au Canada, qui n’exerce pas d’activités commerciales au Canada ou dont les seules activités au Canada consistent à exercer une influence sur un électeur afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à toute élection;
+- **c)** d’un syndicat qui n’est pas titulaire d’un droit de négocier collectivement au Canada;
+- **d)** d’un parti politique étranger;
+- **e)** d’un État étranger ou de l’un de ses mandataires. (*foreign entity*)
+
+***publicité*** Diffusion, sur un support quelconque, d’un message publicitaire qui favorise ou contrecarre un parti enregistré ou un parti admissible ou l’élection d’un candidat potentiel, d’un candidat à l’investiture, d’un candidat ou d’un chef de parti enregistré ou de parti admissible autrement que par une prise de position sur une question à laquelle le parti ou la personne en cause est associé. Il est entendu que ne sont pas considérés comme de la publicité :
+- **a)** la diffusion d’éditoriaux, de débats, de discours, de nouvelles, d’entrevues, de chroniques, de commentaires ou de lettres;
+- **b)** la promotion ou la distribution, pour une valeur non inférieure à sa valeur commerciale, d’un ouvrage dont la mise en vente avait été planifiée sans égard à la tenue d’une élection;
+- **c)** l’envoi d’un document par un sénateur ou un député aux frais du Sénat ou de la Chambre des communes;
+- **d)** l’envoi d’un document par une personne ou un groupe directement à ses membres, actionnaires ou employés;
+- **e)** la diffusion par un individu, sur une base non commerciale, de ses opinions politiques sur Internet;
+- **f)** les appels téléphoniques destinés uniquement à inciter les électeurs à voter. (*advertising*)
+
+**Définition de publicité**
+
+- **(2)** Pour l’application de la définition de publicité :
+	- **a)** favoriser ou contrecarrer un parti enregistré ou un parti admissible vise notamment les actes suivants :
+		- **(i)** le nommer,
+		- **(ii)** l’identifier notamment par son logo,
+		- **(iii)** fournir un lien vers une page Internet où il est nommé ou est identifié notamment par son logo;
+	- **b)** favoriser ou contrecarrer l’élection d’un candidat potentiel, d’un candidat à l’investiture, d’un candidat ou d’un chef de parti enregistré ou de parti admissible vise notamment les actes suivants :
+		- **(i)** nommer le candidat potentiel, le candidat à l’investiture, le candidat ou le chef de parti,
+		- **(ii)** montrer sa photographie, sa caricature ou un dessin le représentant,
+		- **(iii)** l’identifier, notamment par son logo ou par une mention de son appartenance politique,
+		- **(iv)** fournir un lien vers une page Internet où il est nommé ou est identifié, notamment par son logo ou par une mention de son appartenance politique, ou qui montre sa photographie, sa caricature ou un dessin le représentant.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Interdiction d’utiliser des fonds de l’étranger**
+
+**349.02** Il est interdit au tiers d’utiliser des fonds provenant d’une entité étrangère à des fins d’activité partisane, de publicité, de publicité électorale ou de sondage électoral.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Interdiction : esquiver l’interdiction d’utiliser des fonds de l’étranger**
+
+**349.03** Il est interdit au tiers :
+- **a)** d’esquiver ou de tenter d’esquiver l’interdiction prévue par l’article 349.02;
+- **b)** d’agir de concert avec d’autres personnes ou entités en vue d’accomplir un tel fait.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**SECTION 1** 
+### Activités partisanes, publicité partisane et sondages électoraux pendant la période préélectorale
+
+
+
+**Plafond général**
+
+**349.1** 
+
+- **(1)** Sous réserve de l’article 349.4, il est interdit au tiers d’engager des dépenses dépassant, au total, 700 000 $ au titre des dépenses suivantes :
+	- **a)** des dépenses d’activité partisane qui se rapportent à des activités partisanes tenues pendant une période préélectorale;
+	- **b)** des dépenses de publicité partisane qui se rapportent à des messages de publicité partisane diffusés pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à des sondages électoraux effectués pendant cette période.
+
+**Plafond pour une circonscription**
+
+- **(2)** Du total visé au paragraphe (1), il est interdit au tiers d’engager des dépenses de plus de 7 000 $ pour favoriser ou contrecarrer l’élection d’un ou de plusieurs candidats potentiels ou candidats à l’investiture, dans une circonscription donnée.
+
+**Chef de parti**
+
+- **(3)** Le plafond prévu au paragraphe (2) ne s’applique aux dépenses engagées à l’égard du chef d’un parti enregistré ou d’un parti admissible que dans la mesure où elles le sont pour favoriser ou contrecarrer son élection dans une circonscription.
+
+**Indexation**
+
+- **(4)** Les sommes visées aux paragraphes (1) et (2) sont multipliées par le facteur d’ajustement à l’inflation visé à l’article 384, applicable le premier jour de la période préélectorale.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Interdiction : esquiver les plafonds**
+
+**349.2** Il est interdit au tiers d’esquiver ou de tenter d’esquiver les plafonds prévus à l’article 349.1, notamment en se divisant lui-même en plusieurs tiers ou en agissant de concert avec un autre tiers de sorte que la valeur totale de leurs dépenses d’activité partisane, de leurs dépenses de publicité partisane et de leurs dépenses de sondage électoral dépasse ces plafonds.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Interdiction : agir de concert avec un parti enregistré**
+
+**349.3** 
+
+- **(1)** Il est interdit au tiers ou au parti enregistré d’agir de concert, notamment en échangeant des renseignements, pour influencer le tiers à l’égard des activités partisanes qu’il tient pendant la période préélectorale, de sa publicité partisane ou des sondages électoraux qu’il effectue ou fait effectuer pendant la période préélectorale.
+
+**Interdiction : agir de concert avec un candidat potentiel**
+
+- **(2)** Il est interdit au tiers ou au candidat potentiel d’agir de concert, notamment en échangeant des renseignements, pour influencer le tiers à l’égard des activités partisanes qu’il tient pendant la période préélectorale, de sa publicité partisane ou des sondages électoraux qu’il effectue ou fait effectuer pendant la période préélectorale.
+
+**Interdiction : agir de concert avec une personne associée**
+
+- **(3)** Il est interdit au tiers ou à toute personne associée aux activités d’un candidat potentiel visant son élection éventuelle — notamment l’agent officiel d’un candidat potentiel réputé être un candidat en application de l’article 477 — d’agir de concert, notamment en échangeant des renseignements, pour influencer le tiers à l’égard des activités partisanes qu’il tient pendant la période préélectorale, de sa publicité partisane ou des sondages électoraux qu’il effectue ou fait effectuer pendant la période préélectorale.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Interdiction : tiers étrangers**
+
+**349.4** 
+
+- **(1)** Il est interdit au tiers étranger d’engager :
+	- **a)** des dépenses d’activité partisane qui se rapportent à une activité partisane tenue pendant la période préélectorale;
+	- **b)** des dépenses de publicité partisane qui se rapportent à un message de publicité partisane diffusé pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à un sondage électoral effectué pendant cette période.
+
+**Définition de tiers étranger**
+
+- **(2)** Au paragraphe (1), ***tiers étranger*** s’entend du tiers qui remplit les conditions suivantes :
+	- **a)** s’agissant d’un particulier, il n’a pas la citoyenneté canadienne ou le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et ne réside pas au Canada;
+	- **b)** s’agissant d’une personne morale ou d’une entité constituée, formée ou autrement organisée ailleurs qu’au Canada, elle n’exerce pas d’activités commerciales au Canada ou ses seules activités au Canada, pendant une période préélectorale, consistent à exercer une influence sur un électeur pendant cette période afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à la prochaine élection;
+	- **c)** s’agissant d’un groupe, aucun responsable du groupe n’a la citoyenneté canadienne ou le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou ne réside au Canada.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Information à fournir dans la publicité**
+
+**349.5** Les tiers doivent mentionner leur nom dans tout message de publicité partisane ainsi que leur numéro de téléphone et leur adresse municipale ou leur adresse Internet d’une façon qui soit clairement visible ou autrement accessible, et y indiquer que sa diffusion a été autorisée par eux.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Obligation de s’enregistrer**
+
+**349.6** 
+
+- **(1)** Le tiers doit s’enregistrer dès qu’il a engagé des dépenses de 500 $, au total, au titre des dépenses suivantes :
+	- **a)** des dépenses d’activité partisane qui se rapportent à des activités partisanes tenues pendant la période préélectorale;
+	- **b)** des dépenses de publicité partisane qui se rapportent à des messages de publicité partisane diffusés pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à des sondages électoraux effectués pendant cette période.
+Il ne peut toutefois s’enregistrer avant le début de la période préélectorale.
+
+**Contenu de la demande**
+
+- **(2)** La demande d’enregistrement est présentée au directeur général des élections selon le formulaire prescrit et comporte :
+	- **a)** si elle est présentée par un particulier, les nom, adresse et numéro de téléphone de celui-ci, une déclaration à l’effet qu’il a la citoyenneté canadienne, qu’il a le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’il réside au Canada, ainsi que sa signature;
+	- **b)** si elle est présentée par une personne morale, les nom, adresse et numéro de téléphone de celle-ci et d’un dirigeant autorisé à signer en son nom, une déclaration de celui-ci que la personne morale exerce des activités commerciales au Canada, ainsi que la signature de celui-ci;
+	- **c)** si elle est présentée par un groupe, les nom, adresse et numéro de téléphone de celui-ci et d’un responsable du groupe, une déclaration de ce responsable qu’il a la citoyenneté canadienne, qu’il a le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’il réside au Canada, ainsi que sa signature;
+	- **d)** l’adresse et le numéro de téléphone du bureau du tiers où sont conservés ses livres et ses dossiers ainsi que ceux du bureau au Canada où les communications peuvent être transmises et les documents signifiés;
+	- **e)** les nom, adresse et numéro de téléphone de l’agent financier du tiers.
+
+**Déclaration de l’agent financier**
+
+- **(3)** La demande doit être accompagnée d’une déclaration signée par l’agent financier pour accepter sa nomination.
+
+**Nouvel agent financier**
+
+- **(4)** En cas de remplacement de l’agent financier, le tiers doit en informer sans délai le directeur général des élections et lui fournir les nom, adresse et numéro de téléphone du nouvel agent financier et une déclaration signée par celui-ci pour accepter sa nomination.
+
+**Résolution**
+
+- **(5)** Les personnes morales, les syndicats ou autres entités ayant un organe de direction doivent en outre présenter avec leur demande une copie de la résolution adoptée par ce dernier pour autoriser l’engagement des dépenses d’activité partisane, des dépenses de publicité partisane et des dépenses de sondage électoral.
+
+**Étude de la demande**
+
+- **(6)** Dès réception de la demande, le directeur général des élections décide si celle-ci remplit les exigences prévues aux paragraphes (1) à (3) et (5) et informe le signataire du fait que le tiers est enregistré ou non. En cas de refus, il en donne les motifs.
+
+**Refus d’enregistrement**
+
+- **(7)** Le tiers ne peut être enregistré sous un nom qui, de l’avis du directeur général des élections, est susceptible de créer de la confusion avec celui d’un parti enregistré, d’un parti admissible, d’un candidat potentiel, d’un candidat à l’investiture, d’un candidat, d’un candidat à la direction, d’un chef de parti enregistré ou de parti admissible ou d’un tiers enregistré.
+
+**Durée de validité de l’enregistrement**
+
+- **(8)** Sous réserve du paragraphe 353(1.1), l’enregistrement du tiers n’est valide que pour la période préélectorale au cours de laquelle la demande est présentée, mais le tiers reste assujetti aux obligations prévues à la présente partie.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Nomination d’un agent financier**
+
+**349.7** 
+
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 349.6(1) doit nommer un agent financier; celui-ci peut être la personne autorisée à signer la demande d’enregistrement visée à ce paragraphe.
+
+**Inadmissibilité : agent financier**
+
+- **(2)** Ne sont pas admissibles à la charge d’agent financier d’un tiers :
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+	- **b)** les candidats potentiels et l’agent officiel de tout candidat potentiel réputé être un candidat en application de l’article 477;
+	- **c)** l’agent principal d’un parti enregistré ou d’un parti admissible;
+	- **d)** un agent enregistré d’un parti enregistré;
+	- **e)** les candidats à l’investiture et leur agent financier;
+	- **f)** les candidats à la direction et leurs agents de campagne à la direction;
+	- **g)** les personnes qui ne sont ni des citoyens canadiens ni des résidents permanents au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md).
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Nomination d’un vérificateur**
+
+**349.8** 
+
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 349.6(1) doit sans délai nommer un vérificateur s’il engage des dépenses de 10 000 $ ou plus, au total, au titre des dépenses suivantes :
+	- **a)** des dépenses d’activité partisane qui se rapportent à des activités partisanes tenues pendant la période préélectorale;
+	- **b)** des dépenses de publicité partisane qui se rapportent à des messages de publicité partisane diffusés pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à des sondages électoraux effectués pendant cette période.
+
+**Admissibilité : vérificateur**
+
+- **(2)** Seuls peuvent exercer la charge de vérificateur d’un tiers :
+	- **a)** les membres en règle d’un ordre professionnel, d’une association ou d’un institut de comptables professionnels;
+	- **b)** les sociétés formées de tels membres.
+
+**Inadmissibilité : vérificateur**
+
+- **(3)** Ne sont pas admissibles à la charge de vérificateur d’un tiers :
+	- **a)** l’agent financier du tiers;
+	- **b)** la personne qui a signé la demande d’enregistrement prévue au paragraphe 349.6(2);
+	- **c)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+	- **d)** les candidats potentiels et l’agent officiel de tout candidat potentiel réputé être un candidat en application de l’article 477;
+	- **e)** l’agent principal d’un parti enregistré ou d’un parti admissible;
+	- **f)** un agent enregistré d’un parti enregistré;
+	- **g)** les candidats à l’investiture et leur agent financier;
+	- **h)** les candidats à la direction et leurs agents de campagne à la direction.
+
+**Notification au directeur général des élections**
+
+- **(4)** Sans délai après la nomination, le tiers communique au directeur général des élections les nom, adresse, numéro de téléphone et profession du vérificateur, ainsi qu’une déclaration signée par celui-ci pour accepter sa nomination.
+
+**Nouveau vérificateur**
+
+- **(5)** En cas de remplacement du vérificateur, le tiers doit en informer sans délai le directeur général des élections et lui communiquer les nom, adresse, numéro de téléphone et profession du nouveau vérificateur, ainsi qu’une déclaration signée par celui-ci pour accepter sa nomination.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Responsabilité de l’agent financier**
+
+**349.9** 
+
+- **(1)** Les contributions faites au cours de la période préélectorale au tiers enregistré à des fins d’activité partisane, de publicité partisane ou de sondage électoral doivent être acceptées par son agent financier et les dépenses d’activité partisane, les dépenses de publicité partisane et les dépenses de sondage électoral engagées pour son compte au cours de la période préélectorale doivent être autorisées par ce dernier.
+
+**Délégation**
+
+- **(2)** L’agent financier peut déléguer l’acceptation des contributions et l’autorisation des dépenses; la délégation n’a toutefois pas pour effet de limiter sa responsabilité.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Premier compte provisoire des dépenses du tiers**
+
+**349.91** 
+
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 349.6(1) présente au directeur général des élections, selon le formulaire prescrit, un compte provisoire de ses dépenses dans les cinq jours qui suivent le jour où il devient assujetti à cette obligation en application de ce paragraphe, si, selon le cas :
+	- **a)** il a engagé des dépenses de 10 000 $ ou plus, au total, au titre des dépenses visées au paragraphe 349.1(1), pendant la période qui commence le lendemain du jour du scrutin de l’élection générale précédant la période préélectorale et qui se termine le jour où il devient assujetti à cette obligation;
+	- **b)** il a reçu des contributions de 10 000 $ ou plus, au total, au titre des contributions destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux, pendant la période visée à l’alinéa a).
+
+**Contenu**
+
+- **(2)** Le compte comporte :
+	- **a)** la liste des dépenses d’activité partisane visées au paragraphe 349.1(2) qui ont été engagées pendant la période visée à l’alinéa (1)a), ainsi que les date et lieu des activités partisanes auxquelles elles se rapportent;
+	- **b)** la liste des dépenses de publicité partisane visées au paragraphe 349.1(2) qui ont été engagées pendant cette période, ainsi que les date et lieu de diffusion des messages de publicité partisane auxquels elles se rapportent;
+	- **c)** la liste des dépenses de sondage électoral visées au paragraphe 349.1(2) qui ont été engagées pendant cette période, ainsi que la date des sondages électoraux auxquels elles se rapportent;
+	- **d)** la liste des dépenses d’activité partisane, des dépenses de publicité partisane et des dépenses de sondage électoral visées au paragraphe 349.1(1) qui ont été engagées pendant cette période, mais qui ne sont pas visées aux alinéas a) à c), ainsi que les date et lieu des activités partisanes auxquelles les dépenses d’activité partisane se rapportent, les date et lieu de diffusion des messages de publicité partisane auxquels les dépenses de publicité partisane se rapportent et la date des sondages électoraux auxquels les dépenses de sondage électoral se rapportent.
+
+**Cas d’absence de dépenses**
+
+- **(3)** Dans les cas où aucune dépense visée au paragraphe (2) n’a été engagée, le compte doit le signaler.
+
+**Mention des contributions**
+
+- **(4)** Le compte doit aussi mentionner :
+	- **a)** le montant, par catégorie de donateurs, des contributions destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux reçues pendant la période visée à l’alinéa (1)a);
+	- **b)** pour chaque donateur dont la contribution destinée aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux pendant cette période dépasse, au total, 200 $, sous réserve de l’alinéa c), ses nom, adresse et catégorie ainsi que le montant de chaque contribution et la date à laquelle chacune a été faite;
+	- **c)** dans le cas où le donateur visé à l’alinéa b) est une société à dénomination numérique, le nom du premier dirigeant ou du président de la société;
+	- **d)** le montant des dépenses d’activité partisane, des dépenses de publicité partisane, des dépenses de publicité électorale ou des dépenses de sondage électoral que le tiers a faites sur ses propres fonds pendant la période visée à l’alinéa (1)a), compte non tenu des contributions visées à l’alinéa a).
+
+**Exceptions**
+
+- **(5)** Le compte ne doit toutefois pas mentionner les renseignements visés aux paragraphes (2) et (4) qui ont été mentionnés dans le compte de dépenses que le tiers a déjà présenté en application du paragraphe 359(1) à l’égard :
+	- **a)** d’une élection partielle tenue après l’élection générale visée à l’alinéa (1)a);
+	- **b)** d’une élection générale pour laquelle le tiers a engagé des dépenses ou reçu des contributions entre le jour du scrutin visé à l’alinéa 57(1.2)c) pour l’élection générale et le jour du scrutin dans une circonscription, lorsque le scrutin dans cette circonscription est ajourné au titre du paragraphe 59(4) ou 77(1).
+
+**Assimilation**
+
+- **(6)** Pour l’application du paragraphe (4), un prêt est assimilé à une contribution.
+
+**Catégories**
+
+- **(7)** Pour l’application des alinéas (4)a) et b), les catégories de donateurs sont les suivantes :
+	- **a)** particuliers;
+	- **b)** entreprises;
+	- **c)** organisations commerciales;
+	- **d)** gouvernements;
+	- **e)** syndicats;
+	- **f)** personnes morales n’ayant pas de capital-actions autres que les syndicats;
+	- **g)** organismes ou associations non constitués en personne morale autres que les syndicats.
+
+**Précision**
+
+- **(8)** Si le tiers n’est pas en mesure de déterminer si les contributions qu’il a reçues pendant la période visée à l’alinéa (1)a) étaient destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux, le compte doit mentionner les nom et adresse de tous les donateurs, sous réserve de l’alinéa (4)c), ayant versé, au total, plus de 200 $ pendant cette période.
+
+**Déclaration**
+
+- **(9)** Le compte doit contenir une déclaration de son exactitude signée par :
+	- **a)** l’agent financier du tiers;
+	- **b)** s’il ne s’agit pas de la même personne, la personne qui a signé la demande d’enregistrement présentée en application du paragraphe 349.6(2).
+
+**Pièces justificatives**
+
+- **(10)** Sur demande du directeur général des élections, le tiers produit les pièces justificatives concernant les dépenses supérieures à 50 $ exposées dans le compte, notamment les états de compte bancaires, les bordereaux de dépôt et les chèques annulés.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Deuxième compte provisoire des dépenses du tiers**
+
+**349.92** 
+
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 349.6(1) présente au directeur général des élections, selon le formulaire prescrit, un compte provisoire de ses dépenses au plus tard le 15 septembre, si, selon le cas :
+	- **a)** il a engagé des dépenses de 10 000 $ ou plus, au total, au titre des dépenses visées au paragraphe 349.1(1), pendant la période qui commence le lendemain du jour du scrutin de l’élection générale précédant la période préélectorale et qui se termine le dernier jour de la période préélectorale mais au plus tard le 14 septembre;
+	- **b)** il a reçu des contributions de 10 000 $ ou plus, au total, au titre des contributions destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux, pendant la période visée à l’alinéa a).
+
+**Application de l’article 349.91**
+
+- **(2)** Les paragraphes 349.91(2) à (10) s’appliquent au compte visé au paragraphe (1), sauf que la référence à la période visée à l’alinéa (1)a) de l’article 349.91 vaut référence à la période visée à l’alinéa (1)a) du présent article.
+
+**Exceptions**
+
+- **(3)** En plus des exceptions visées au paragraphe 349.91(5), le compte ne doit pas mentionner les renseignements visés aux paragraphes 349.91(2) et (4) qui ont été mentionnés dans le compte provisoire des dépenses que le tiers a déjà présenté en application du paragraphe 349.91(1).
+
+**Application**
+
+- **(4)** Le présent article ne s’applique que dans le cas où une élection générale a lieu le jour fixé conformément au paragraphe 56.1(2) ou à l’article 56.2.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Interdiction : compte provisoire faux, trompeur ou incomplet**
+
+**349.93** Il est interdit au tiers de présenter, au titre des paragraphes 349.91(1) ou 349.92(1), un compte provisoire :
+- **a)** dont il sait ou devrait normalement savoir qu’il contient des renseignements faux ou trompeurs sur un point important;
+- **b)** qui ne contient pas, pour l’essentiel, tous les renseignements exigés par les articles 349.91 ou 349.92, selon le cas.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**Interdiction d’utiliser certaines contributions**
+
+**349.94** Il est interdit au tiers d’utiliser à l’une des fins ci-après des contributions destinées aux activités partisanes, à la publicité partisane ou aux sondages électoraux provenant de donateurs dont il ne connaît ni le nom ni l’adresse ou pour lesquels il ne peut déterminer la catégorie dans le cadre du paragraphe 349.91(7) :
+- **a)** une activité partisane qui est tenue pendant la période préélectorale;
+- **b)** un message de publicité partisane qui est diffusé pendant cette période;
+- **c)** un sondage électoral effectué pendant cette période et dont les résultats sont pris en compte par le tiers pour décider si, pendant cette période, il organise et tient ou non des activités partisanes ou il diffuse ou non des messages de publicité partisane.
+> 2018, ch. 31, art. 223.
+
+
+
+
+
+**SECTION 2** 
+### Activités partisanes, publicité électorale et sondages électoraux pendant la période électorale
 
 
 
@@ -7062,74 +8133,99 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **350** 
 
-- **(1)** Sous réserve de l’article 351.1, il est interdit aux tiers d’engager des dépenses de publicité électorale relatives à une élection générale dépassant, au total, 150 000 $.
+- **(1)** Sous réserve de l’article 351.1, il est interdit au tiers d’engager des dépenses dépassant, au total, 350 000 $ au titre des dépenses suivantes :
+	- **a)** des dépenses d’activité partisane qui se rapportent à des activités partisanes tenues pendant la période électorale d’une élection générale;
+	- **b)** des dépenses de publicité électorale qui se rapportent à des messages de publicité électorale diffusés pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à des sondages électoraux effectués pendant cette période.
 
 **Plafond pour une circonscription**
 
-- **(2)** Du total visé au paragraphe (1), il est interdit aux tiers de dépenser, au total, plus de 3 000 $ pour favoriser l’élection d’un ou de plusieurs candidats ou s’opposer à l’élection d’un ou de plusieurs candidats, dans une circonscription donnée, notamment :
-	- **a)** en les nommant;
-	- **b)** en montrant leur photographie;
-	- **c)** en les identifiant par la mention de leur appartenance politique;
-	- **d)** en prenant une position sur une question à laquelle ils sont particulièrement associés.
+- **(2)** Du total visé au paragraphe (1), il est interdit au tiers d’engager des dépenses de plus de 3 000 $ pour favoriser ou contrecarrer l’élection d’un ou de plusieurs candidats, dans une circonscription donnée.
 
 **Chef de parti**
 
-- **(3)** Le plafond prévu au paragraphe (2) ne s’applique aux dépenses engagées à l’égard du chef d’un parti enregistré ou d’un parti admissible que dans la mesure où elles servent à favoriser son élection dans une circonscription, ou à s’y opposer.
+- **(3)** Le plafond prévu au paragraphe (2) ne s’applique aux dépenses engagées à l’égard du chef d’un parti enregistré ou d’un parti admissible que dans la mesure où elles le sont pour favoriser ou contrecarrer son élection dans une circonscription.
 
 **Plafond pour une élection partielle**
 
-- **(4)** Sous réserve de l’article 351.1, il est interdit aux tiers d’engager des dépenses de publicité électorale relatives à une élection partielle dépassant, au total, 3 000 $ dans une circonscription donnée.
+- **(4)** Sous réserve de l’article 351.1, il est interdit au tiers d’engager dans une circonscription donnée des dépenses dépassant, au total, 3 000 $ au titre des dépenses suivantes :
+	- **a)** des dépenses d’activité partisane qui se rapportent à des activités partisanes tenues pendant la période électorale d’une élection partielle;
+	- **b)** des dépenses de publicité électorale qui se rapportent à des messages de publicité électorale diffusés pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à des sondages électoraux effectués pendant cette période.
 
-**Aucune dépense : impossibilité d’annuler la diffusion**
+**Impossibilité d’annuler**
 
-- **(4.1)** Dans le cas d’une élection générale qui n’a pas lieu à la date prévue au paragraphe 56.1(2) ou à l’article 56.2, ou dans le cas d’une élection partielle, le tiers n’a pas engagé de dépenses de publicité électorale si, à la délivrance du bref ou des brefs, il ne peut annuler la diffusion de la publicité en cause.
+- **(4.1)** Dans le cas d’une élection générale qui n’a pas lieu le jour fixé conformément au paragraphe 56.1(2) ou à l’article 56.2, ou dans le cas d’une élection partielle, le tiers est réputé ne pas avoir engagé de dépenses d’activité partisane, de dépenses de publicité électorale ou de dépenses de sondage électoral si, à la délivrance du bref ou des brefs, il ne peut annuler l’activité ou le sondage en cause ou la diffusion du message de publicité électorale en cause.
 
 **Indexation**
 
-- **(5)** Les montants visés aux paragraphes (1), (2) et (4) sont multipliés à la date de délivrance du ou des brefs par le facteur d’ajustement à l’inflation visé à l’article 384.
+- **(5)** Les sommes visées aux paragraphes (1), (2) et (4) sont multipliées par le facteur d’ajustement à l’inflation visé à l’article 384, applicable à la date de délivrance du ou des brefs.
 
-**Période électorale de plus de trente-sept jours**
-
-- **(6)** Si la période électorale dure plus de trente-sept jours, les montants visés aux paragraphes (1), (2) et (4) sont augmentés d’une somme égale au produit des éléments suivants :
-	- **a)** un trente-septième du montant en cause;
-	- **b)** la différence entre le nombre de jours de la période électorale et trente-sept.
-> 2000, ch. 9, art. 350; 2014, ch. 12, art. 78.
+- **(6)** [Abrogé, 2018, ch. 31, art. 224]
+> 2000, ch. 9, art. 350; 2014, ch. 12, art. 78; 2018, ch. 31, art. 224.
 
 
 
 
 
-**Interdiction de division ou de collusion**
+**Interdiction : esquiver les plafonds**
 
-**351** Il est interdit à un tiers d’esquiver ou de tenter d’esquiver les plafonds prévus par l’article 350, notamment en se divisant en plusieurs tiers ou en agissant de concert avec un autre tiers de sorte que la valeur totale de leurs dépenses de publicité électorale dépasse les plafonds fixés à cet article.
+**351** Il est interdit au tiers d’esquiver ou de tenter d’esquiver les plafonds prévus à l’article 350, notamment en se divisant lui-même en plusieurs tiers ou en agissant de concert avec un autre tiers de sorte que la valeur totale de leurs dépenses d’activité partisane, de leurs dépenses de publicité électorale et de leurs dépenses de sondage électoral dépasse ces plafonds.
+> 2000, ch. 9, art. 351; 2018, ch. 31, art. 225.
+
+
+
+
+
+**Interdiction : agir de concert avec un parti enregistré**
+
+**351.01** 
+
+- **(1)** Il est interdit au tiers ou au parti enregistré d’agir de concert, notamment en échangeant des renseignements, pour influencer le tiers à l’égard des activités partisanes qu’il tient pendant la période électorale, de sa publicité électorale ou des sondages électoraux qu’il effectue ou fait effectuer pendant la période électorale.
+
+**Interdiction : agir de concert avec un candidat potentiel**
+
+- **(2)** Il est interdit au tiers ou au candidat d’agir de concert, notamment en échangeant des renseignements, pour influencer le tiers à l’égard des activités partisanes qu’il tient pendant la période électorale, de sa publicité électorale ou des sondages électoraux qu’il effectue ou fait effectuer pendant la période électorale.
+
+**Interdiction : agir de concert avec une personne associée**
+
+- **(3)** Il est interdit au tiers ou à toute personne associée à la campagne d’un candidat — notamment l’agent officiel du candidat — d’agir de concert, notamment en échangeant des renseignements, pour influencer le tiers à l’égard des activités partisanes qu’il tient pendant la période électorale, de sa publicité électorale ou des sondages électoraux qu’il effectue ou fait effectuer pendant la période électorale.
+> 2018, ch. 31, art. 225.
+
 
 
 
 
 **Interdiction : tiers étrangers**
 
-**351.1** Il est interdit à un tiers d’engager des dépenses de publicité électorale — de 500 $ ou plus au total — relatives à une élection générale, à une élection partielle ou, si les périodes électorales de plusieurs élections partielles se chevauchent en tout ou en partie, à ces élections partielles, sauf si :
-- **a)** s’agissant d’un particulier, il a la citoyenneté canadienne, a le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou réside au Canada;
-- **b)** s’agissant d’une personne morale, il exerce des activités au Canada;
-- **c)** s’agissant d’un groupe, un responsable du groupe a la citoyenneté canadienne, a le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou réside au Canada.
-> 2014, ch. 12, art. 78.1.
+**351.1** 
+
+- **(1)** Il est interdit au tiers étranger d’engager :
+	- **a)** des dépenses d’activité partisane qui se rapportent à une activité partisane tenue pendant une période électorale;
+	- **b)** des dépenses de publicité électorale qui se rapportent à un message de publicité électorale diffusé pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à un sondage électoral effectué pendant cette période.
+
+**Définition de tiers étranger**
+
+- **(2)** Au paragraphe (1), ***tiers étranger*** s’entend du tiers qui remplit les conditions suivantes :
+	- **a)** s’agissant d’un particulier, il n’a pas la citoyenneté canadienne ou le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et ne réside pas au Canada;
+	- **b)** s’agissant d’une personne morale ou d’une entité constituée, formée ou autrement organisée ailleurs qu’au Canada, elle n’exerce pas d’activités commerciales au Canada ou son objectif principal au Canada vise, pendant la période électorale, à exercer une influence sur un électeur pendant cette période afin qu’il vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à la prochaine élection;
+	- **c)** s’agissant d’un groupe, aucun responsable du groupe n’a la citoyenneté canadienne ou le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou ne réside au Canada.
+> 2014, ch. 12, art. 78.1; 2018, ch. 31, art. 225.
 
 
 
 
-
-**Précision**
-
-**351.2** Il est entendu que, pour l’application des paragraphes 350(1) et (4) et de l’article 351.1, la publicité électorale diffusée pendant une période électorale est considérée comme une dépense de publicité électorale, indépendamment du moment où cette dépense a été engagée.
-> 2014, ch. 12, art. 78.1.
+**351.2** [Abrogé, 2018, ch. 31, art. 225]
 
 
 
 
+**Information à fournir dans la publicité**
 
-**Information à fournir avec la publicité**
+**352** Les tiers doivent mentionner leur nom dans tout message de publicité électorale, ainsi que leur numéro de téléphone et leur adresse municipale ou leur adresse Internet d’une façon qui soit clairement visible ou autrement accessible, et y indiquer que sa diffusion a été autorisée par eux.
+> 2000, ch. 9, art. 352; 2018, ch. 31, art. 225.
 
-**352** Les tiers doivent mentionner leur nom dans toute publicité électorale et signaler le fait que celle-ci a été autorisée par eux.
 
 
 
@@ -7138,15 +8234,23 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **353** 
 
-- **(1)** Sous réserve de l’article 351.1, le tiers doit s’enregistrer dès qu’il a engagé des dépenses de publicité électorale de 500 $, au total, mais non avant la délivrance du bref.
+- **(1)** Le tiers doit s’enregistrer dès qu’il a engagé des dépenses de 500 $, au total, au titre des dépenses suivantes :
+	- **a)** des dépenses d’activité partisane qui se rapportent à des activités partisanes tenues pendant la période électorale;
+	- **b)** des dépenses de publicité électorale qui se rapportent à des messages de publicité électorale diffusés pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à des sondages électoraux effectués pendant cette période.
+Il ne peut toutefois s’enregistrer avant la délivrance du bref.
+
+**Exception — présomption**
+
+- **(1.1)** Le tiers qui s’est enregistré en application du paragraphe 349.6(1) pendant la période préélectorale qui se termine le jour précédant celui de la délivrance du bref et qui est par ailleurs tenu de s’enregistrer en application du paragraphe (1) est réputé être enregistré en application de ce paragraphe (1).
 
 **Contenu de la demande**
 
 - **(2)** La demande d’enregistrement est présentée au directeur général des élections selon le formulaire prescrit et comporte :
-	- **a)** si elle est présentée par un particulier, les nom, adresse et numéro de téléphone de celui-ci, une attestation de sa part qu’il a la citoyenneté canadienne, qu’il a le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’il réside au Canada, ainsi que sa signature;
-	- **b)** si elle est présentée par une personne morale, les nom, adresse et numéro de téléphone de celle-ci et d’un dirigeant autorisé à signer en son nom, une attestation de celui-ci que la personne morale exerce des activités au Canada, ainsi que la signature de celui-ci;
-	- **b.1)** si elle est présentée par un groupe, les nom, adresse et numéro de téléphone de celui-ci et d’un responsable du groupe, une attestation de ce responsable qu’il a la citoyenneté canadienne, qu’il a le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’il réside au Canada, ainsi que sa signature;
-	- **c)** l’adresse et le numéro de téléphone du bureau du tiers où sont conservés ses livres et ses dossiers ainsi que ceux du bureau où les communications peuvent être transmises;
+	- **a)** si elle est présentée par un particulier, les nom, adresse et numéro de téléphone de celui-ci, une déclaration de sa part qu’il a la citoyenneté canadienne, qu’il a le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’il réside au Canada, ainsi que sa signature;
+	- **b)** si elle est présentée par une personne morale, les nom, adresse et numéro de téléphone de celle-ci et d’un dirigeant autorisé à signer en son nom, une déclaration de celui-ci que la personne morale exerce des activités au Canada, ainsi que la signature de celui-ci;
+	- **b.1)** si elle est présentée par un groupe, les nom, adresse et numéro de téléphone de celui-ci et d’un responsable du groupe, une déclaration de ce responsable qu’il a la citoyenneté canadienne, qu’il a le statut de résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’il réside au Canada, ainsi que sa signature;
+	- **c)** l’adresse et le numéro de téléphone du bureau du tiers où sont conservés ses livres et ses dossiers ainsi que ceux du bureau au Canada où les communications peuvent être transmises et les documents signifiés;
 	- **d)** les nom, adresse et numéro de téléphone de l’agent financier du tiers.
 
 **Déclaration de l’agent financier**
@@ -7159,7 +8263,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Résolution**
 
-- **(5)** Les personnes morales, les syndicats ou autres entités ayant un organe de direction doivent en outre présenter avec leur demande une copie de la résolution adoptée par cet organe de direction pour autoriser l’engagement des dépenses de publicité électorale.
+- **(5)** Les personnes morales, les syndicats ou autres entités ayant un organe de direction doivent en outre présenter avec leur demande une copie de la résolution adoptée par ce dernier pour autoriser l’engagement des dépenses d’activité partisane, des dépenses de publicité électorale et des dépenses de sondage électoral.
 
 **Étude de la demande**
 
@@ -7171,8 +8275,8 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Durée de validité de l’enregistrement**
 
-- **(8)** L’enregistrement du tiers n’est valide que pour l’élection en cours, mais le tiers reste assujetti à l’obligation de produire le rapport prévu au paragraphe 359(1).
-> 2000, ch. 9, art. 353; 2014, ch. 12, art. 79.
+- **(8)** L’enregistrement du tiers n’est valide que pour la période électorale au cours de laquelle la demande est présentée, mais le tiers reste assujetti à l’obligation de présenter le compte de ses dépenses prévue au paragraphe 359(1).
+> 2000, ch. 9, art. 353; 2014, ch. 12, art. 79; 2018, ch. 31, art. 226.
 
 
 
@@ -7182,7 +8286,11 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **354** 
 
-- **(1)** Le tiers tenu de s’enregistrer aux termes du paragraphe 353(1) doit nommer un agent financier; celui-ci peut être la personne autorisée à signer la demande d’enregistrement.
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 353(1) doit nommer un agent financier; celui-ci peut être la personne autorisée à signer la demande d’enregistrement visée à ce paragraphe.
+
+**Exception — présomption**
+
+- **(1.1)** Si, à l’expiration de la période préélectorale de l’élection générale visée à l’alinéa 353(1)a), le tiers a un agent financier nommé au titre du paragraphe 349.7(1), ce dernier est réputé nommé au titre du paragraphe (1).
 
 **Inadmissibilité : agent financier**
 
@@ -7191,7 +8299,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **b)** l’agent principal ou un agent enregistré d’un parti enregistré;
 	- **c)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
 	- **d)** les personnes qui ne sont ni des citoyens canadiens ni des résidents permanents au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md).
-> 2000, ch. 9, art. 354; 2001, ch. 27, art. 212.
+> 2000, ch. 9, art. 354; 2001, ch. 27, art. 212; 2018, ch. 31, art. 227.
 
 
 
@@ -7201,7 +8309,14 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **355** 
 
-- **(1)** Le tiers qui fait des dépenses de publicité électorale de 5 000 $ ou plus, au total, doit sans délai nommer un vérificateur.
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 353(1) doit sans délai nommer un vérificateur s’il engage des dépenses de 10 000 $ ou plus, au total, au titre des dépenses suivantes :
+	- **a)** des dépenses d’activité partisane qui se rapportent à des activités partisanes tenues pendant la période électorale;
+	- **b)** des dépenses de publicité électorale qui se rapportent à des messages de publicité électorale diffusés pendant cette période;
+	- **c)** des dépenses de sondage électoral qui se rapportent à des sondages électoraux effectués pendant cette période.
+
+**Exception — présomption**
+
+- **(1.1)** Si, au moment où il est tenu de nommer un vérificateur au titre du paragraphe (1), le tiers a un vérificateur nommé au titre du paragraphe 349.8(1), ce dernier est réputé nommé au titre du paragraphe (1).
 
 **Admissibilité : vérificateur**
 
@@ -7214,7 +8329,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 - **(3)** Ne sont pas admissibles à la charge de vérificateur d’un tiers :
 	- **a)** l’agent financier du tiers;
 	- **b)** la personne qui a signé la demande d’enregistrement prévue au paragraphe 353(2);
-	- **c)** les fonctionnaires électoraux;
+	- **c)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
 	- **d)** les candidats;
 	- **e)** l’agent officiel d’un candidat;
 	- **f)** l’agent principal d’un parti enregistré ou d’un parti admissible;
@@ -7227,13 +8342,12 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Nouveau vérificateur**
 
 - **(5)** En cas de remplacement du vérificateur, le tiers doit en informer sans délai le directeur général des élections et lui communiquer les nom, adresse, numéro de téléphone et profession du nouveau vérificateur, ainsi qu’une déclaration signée par celui-ci pour accepter sa nomination.
+> 2000, ch. 9, art. 355; 2018, ch. 31, art. 228.
 
 
 
 
-**Tenue d’un registre**
-
-**356** Le directeur général des élections tient, pour la période qu’il estime indiquée, un registre des tiers où sont consignés, pour chaque tiers, les renseignements visés aux paragraphes 353(2) et 355(4) et (5).
+**356** [Abrogé, 2018, ch. 31, art. 229]
 
 
 
@@ -7242,58 +8356,224 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **357** 
 
-- **(1)** Les contributions faites au tiers enregistré à des fins de publicité électorale au cours de la période électorale doivent être acceptées par son agent financier et les dépenses de publicité électorale engagées pour son compte doivent être autorisées par celui-ci.
+- **(1)** Les contributions faites au cours de la période électorale au tiers enregistré à des fins d’activité partisane, de publicité électorale ou de sondage électoral doivent être acceptées par son agent financier et les dépenses d’activité partisane, les dépenses de publicité électorale et les dépenses de sondage électoral engagées pour son compte au cours de la période électorale doivent être autorisées par ce dernier.
 
 **Délégation**
 
 - **(2)** L’agent financier peut déléguer l’acceptation des contributions et l’autorisation des dépenses; la délégation n’a toutefois pas pour effet de limiter sa responsabilité.
 
-**Interdiction d’utiliser certaines contributions**
-
-- **(3)** Il est interdit au tiers d’utiliser à des fins de publicité électorale des contributions destinées à la publicité électorale provenant de donateurs dont il ne connaît ni le nom ni l’adresse ou pour lesquels il ne peut déterminer la catégorie dans le cadre du paragraphe 359(6).
-
-
-
-
-**Interdiction d’accepter des fonds de l’étranger**
-
-**358** Il est interdit au tiers d’utiliser, à des fins de publicité électorale, des contributions provenant des entités suivantes :
-- **a)** une personne qui n’est ni un citoyen canadien ni un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
-- **b)** une association, dotée ou non de la personnalité morale, qui n’exerce pas d’activités au Canada;
-- **c)** un syndicat qui n’est pas titulaire d’un droit de négocier collectivement au Canada;
-- **d)** un parti politique étranger;
-- **e)** un État étranger ou l’un de ses mandataires.
-> 2000, ch. 9, art. 358; 2001, ch. 27, art. 213.
+- **(3)** [Abrogé, 2018, ch. 31, art. 230]
+> 2000, ch. 9, art. 357; 2018, ch. 31, art. 230.
 
 
 
 
 
-**Rapport**
+**Troisième compte provisoire des dépenses du tiers**
 
-**359** 
+**357.01** 
 
-- **(1)** Le tiers tenu de s’enregistrer aux termes du paragraphe 353(1) doit présenter au directeur général des élections, selon le formulaire prescrit, le rapport de ses dépenses de publicité électorale dans les quatre mois qui suivent le jour du scrutin.
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 353(1) présente au directeur général des élections, selon le formulaire prescrit, un compte provisoire de ses dépenses le vingt et unième jour avant le jour du scrutin, si, selon le cas :
+	- **a)** il était tenu de présenter au directeur général des élections le compte provisoire visé au paragraphe 349.92(1);
+	- **b)** il a engagé des dépenses de 10 000 $ ou plus, au total, au titre des dépenses visées au paragraphe 349.1(1) et de celles visées au paragraphe 350(1), pendant la période qui commence le lendemain du jour du scrutin de l’élection générale précédente et qui se termine le vingt troisième jour avant le jour du scrutin;
+	- **c)** il a reçu des contributions de 10 000 $ ou plus, au total, au titre des contributions destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux, pendant la période visée à l’alinéa b).
 
 **Contenu**
 
-- **(2)** Le rapport doit donner :
-	- **a)** dans le cas d’une élection générale :
-		- **(i)** la liste des dépenses de publicité électorale visées au paragraphe 350(2), ainsi que les date et lieu de publication des annonces auxquelles elles se rapportent,
-		- **(ii)** la liste des autres dépenses de publicité électorale, ainsi que les date et lieu de publication des annonces auxquelles elles se rapportent;
-	- **b)** dans le cas d’une élection partielle, la liste des dépenses de publicité électorale visées au paragraphe 350(4), ainsi que les date et lieu de publication des annonces auxquelles elles se rapportent.
+- **(2)** Le compte provisoire comporte :
+	- **a)** dans le cas d’une élection générale tenue le jour fixé conformément au paragraphe 56.1(2) ou à l’article 56.2 :
+		- **(i)** la liste des dépenses d’activité partisane visées au paragraphe 349.1(2), ainsi que les date et lieu des activités partisanes auxquelles elles se rapportent,
+		- **(ii)** la liste des dépenses de publicité partisane visées au paragraphe 349.1(2), ainsi que les date et lieu de diffusion des messages de publicité partisane auxquels elles se rapportent,
+		- **(iii)** la liste des dépenses de sondage électoral visées au paragraphe 349.1(2), ainsi que la date des sondages électoraux auxquels elles se rapportent,
+		- **(iv)** la liste des dépenses d’activité partisane, des dépenses de publicité partisane et des dépenses de sondage électoral visées au paragraphe 349.1(1) qui ne sont pas visées aux sous-alinéas (i) à (iii), ainsi que les date et lieu des activités partisanes auxquelles les dépenses d’activité partisane se rapportent, les date et lieu de diffusion des messages de publicité partisane auxquels les dépenses de publicité partisane se rapportent et la date des sondages électoraux auxquels les dépenses de sondage électoral se rapportent;
+	- **b)** dans le cas de toute élection générale :
+		- **(i)** la liste des dépenses d’activité partisane visées au paragraphe 350(2), ainsi que les date et lieu des activités partisanes auxquelles elles se rapportent,
+		- **(ii)** la liste des dépenses de publicité électorale visées au paragraphe 350(2), ainsi que les date et lieu de diffusion des messages de publicité électorale auxquels elles se rapportent,
+		- **(iii)** la liste des dépenses de sondage électoral visées au paragraphe 350(2), ainsi que la date des sondages électoraux auxquels elles se rapportent,
+		- **(iv)** la liste des dépenses d’activité partisane, des dépenses de publicité électorale et des dépenses de sondage électoral visées au paragraphe 350(1) qui ne sont pas visées aux sous-alinéas (i) à (iii), ainsi que les date et lieu des activités partisanes auxquelles les dépenses d’activité partisane se rapportent, les date et lieu de diffusion des messages de publicité électorale auxquels les dépenses de publicité électorale se rapportent et la date des sondages électoraux auxquels les dépenses de sondage électoral se rapportent.
 
 **Cas d’absence de dépenses**
 
-- **(3)** Dans les cas où aucune dépense de publicité électorale n’a été faite, le rapport doit signaler ce fait.
+- **(3)** Dans les cas où aucune dépense visée au paragraphe (2) n’a été engagée, le compte doit le signaler.
 
 **Mention des contributions**
 
-- **(4)** Le rapport doit aussi mentionner :
-	- **a)** le montant, par catégorie de donateurs, des contributions destinées à la publicité électorale reçues dans les six mois précédant la délivrance du bref et pendant la période électorale;
-	- **b)** pour les donateurs dont la contribution destinée à la publicité électorale au cours des six mois précédant la délivrance du bref et pendant la période électorale dépasse, au total, 200 $, sous réserve de l’alinéa b.1), leurs nom, adresse et catégorie ainsi que le montant de la contribution et la date à laquelle elle a été faite;
+- **(4)** Le compte doit aussi mentionner :
+	- **a)** le montant, par catégorie de donateurs, des contributions destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux reçues pendant la période visée à l’alinéa (1)b);
+	- **b)** pour chaque donateur dont la contribution destinée aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux pendant cette période dépasse, au total, 200 $, sous réserve de l’alinéa c), ses nom, adresse et catégorie ainsi que le montant de chaque contribution et la date à laquelle chacune a été faite;
+	- **c)** dans le cas où le donateur visé à l’alinéa b) est une société à dénomination numérique, le nom du premier dirigeant ou du président de la société;
+	- **d)** le montant des dépenses d’activité partisane, des dépenses de publicité partisane, des dépenses de publicité électorale ou des dépenses de sondage électoral que le tiers a faites sur ses propres fonds pendant la période visée à l’alinéa (1)b), compte non tenu des contributions visées à l’alinéa a).
+
+**Exceptions**
+
+- **(5)** Le compte ne doit toutefois pas mentionner les renseignements visés aux paragraphes (2) et (4) qui ont été mentionnés dans le compte de dépenses que le tiers a déjà présenté :
+	- **a)** en application du paragraphe 359(1) à l’égard :
+		- **(i)** d’une élection partielle tenue après l’élection générale visée à l’alinéa (1)b),
+		- **(ii)** d’une élection générale pour laquelle le tiers a engagé des dépenses ou reçu des contributions entre le jour du scrutin visé à l’alinéa 57(1.2)c) pour l’élection générale et le jour du scrutin dans une circonscription, lorsque le scrutin dans cette circonscription est ajourné au titre du paragraphe 59(4) ou 77(1);
+	- **b)** en application des paragraphes 349.91(1) ou 349.92(1).
+
+**Assimilation**
+
+- **(6)** Pour l’application du paragraphe (4), un prêt est assimilé à une contribution.
+
+**Catégories**
+
+- **(7)** Pour l’application des alinéas (4)a) et b), les catégories de donateurs sont les suivantes :
+	- **a)** particuliers;
+	- **b)** entreprises;
+	- **c)** organisations commerciales;
+	- **d)** gouvernements;
+	- **e)** syndicats;
+	- **f)** personnes morales n’ayant pas de capital-actions autres que les syndicats;
+	- **g)** organismes ou associations non constitués en personne morale autres que les syndicats.
+
+**Précision**
+
+- **(8)** Si le tiers n’est pas en mesure de déterminer si les contributions qu’il a reçues pendant la période visée à l’alinéa (1)b) étaient destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux, le compte doit mentionner les nom et adresse de tous les donateurs, sous réserve de l’alinéa (4)c), ayant versé, au total, plus de 200 $ pendant cette période.
+
+**Déclaration**
+
+- **(9)** Le compte doit contenir une déclaration de son exactitude signée par :
+	- **a)** l’agent financier du tiers;
+	- **b)** s’il ne s’agit pas de la même personne, la personne qui a signé la demande d’enregistrement présentée en application du paragraphe 349.6(2) ou 353(2).
+
+**Pièces justificatives**
+
+- **(10)** Sur demande du directeur général des élections, le tiers produit les pièces justificatives concernant les dépenses supérieures à 50 $ exposées dans le compte, notamment les états de compte bancaires, les bordereaux de dépôt et les chèques annulés.
+> 2018, ch. 31, art. 231.
+
+
+
+
+
+**Quatrième compte provisoire des dépenses du tiers**
+
+**357.02** 
+
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 353(1) présente au directeur général des élections, selon le formulaire prescrit, un compte provisoire de ses dépenses le septième jour avant le jour du scrutin, si, selon le cas :
+	- **a)** il était tenu de présenter au directeur général des élections le compte provisoire visé au paragraphe 349.92(1);
+	- **b)** il a engagé des dépenses de 10 000 $ ou plus, au total, au titre des dépenses visées au paragraphe 349.1(1) et de celles visées au paragraphe 350(1), pendant la période qui commence le lendemain du jour du scrutin de l’élection générale précédente et qui se termine le neuvième jour avant le jour du scrutin;
+	- **c)** il a reçu des contributions de 10 000 $ ou plus, au total, au titre des contributions destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux, pendant la période visée à l’alinéa b).
+
+**Application de l’article 357.01**
+
+- **(2)** Les paragraphes 357.01(2) à (10) s’appliquent au compte visé au paragraphe (1), sauf que la référence à la période visée à l’alinéa (1)b) de l’article 357.01 vaut référence à la période visée à l’alinéa (1)b) du présent article.
+
+**Exceptions**
+
+- **(3)** En plus des exceptions visées au paragraphe 357.01(5), le compte ne doit pas mentionner les renseignements visés aux paragraphes 357.01(2) et (4) qui ont été mentionnés dans le compte provisoire des dépenses que le tiers a déjà présenté en application du paragraphe 357.01(1).
+> 2018, ch. 31, art. 231.
+
+
+
+
+
+**Interdiction : compte provisoire faux, trompeur ou incomplet**
+
+**357.03** Il est interdit au tiers de présenter, au titre des paragraphes 357.01(1) ou 357.02(1), un compte provisoire :
+- **a)** dont il sait ou devrait normalement savoir qu’il contient des renseignements faux ou trompeurs sur un point important;
+- **b)** qui ne contient pas, pour l’essentiel, tous les renseignements exigés par les articles 357.01 ou 357.02, selon le cas.
+> 2018, ch. 31, art. 231.
+
+
+
+
+
+**Interdiction d’utiliser certaines contributions**
+
+**357.1** Il est interdit au tiers d’utiliser à l’une des fins ci-après des contributions provenant de donateurs dont il ne connaît ni le nom ni l’adresse ou pour lesquels il ne peut déterminer la catégorie dans le cadre du paragraphe 359(6) :
+- **a)** une activité partisane qui est tenue pendant la période électorale;
+- **b)** un message de publicité électorale qui est diffusé pendant cette période;
+- **c)** un sondage électoral effectué pendant cette période et dont les résultats sont pris en compte par le tiers pour décider si, pendant cette période, il organise et tient ou non des activités partisanes ou diffuse ou non des messages de publicité électorale.
+> 2018, ch. 31, art. 231.
+
+
+
+
+**358** [Abrogé, 2018, ch. 31, art. 232]
+
+
+
+
+**SECTION 3** 
+### Comptes bancaires des tiers, registre des tiers et comptes des dépenses des tiers
+
+
+
+**Compte bancaire**
+
+**358.1** 
+
+- **(1)** Le tiers tenu de s’enregistrer en application du paragraphe 349.6(1) — ou en application du paragraphe 353(1) s’il n’était pas tenu de s’enregistrer en application du paragraphe 349.6(1) — est tenu d’ouvrir un compte bancaire unique pour ses besoins exclusifs en ce qui concerne ses activités partisanes tenues pendant la période préélectorale ou la période électorale, sa publicité partisane, sa publicité électorale et ses sondages électoraux.
+
+**Institution financière**
+
+- **(2)** Le compte est ouvert auprès d’une institution financière canadienne, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), ou d’une banque étrangère autorisée, au sens de cet article, ne faisant pas l’objet des restrictions et exigences visées au paragraphe 524(2) de cette loi.
+
+**Opérations financières**
+
+- **(3)** Le compte est débité ou crédité de toutes les sommes payées ou reçues pour les activités partisanes du tiers visées au paragraphe (1), sa publicité partisane, sa publicité électorale et ses sondages électoraux.
+
+**Fermeture du compte**
+
+- **(4)** Après le jour du scrutin, le tiers est tenu de fermer le compte dès qu’il a été disposé de l’excédent éventuel de fonds et des créances impayées.
+
+**État de clôture**
+
+- **(5)** Après la fermeture du compte, il en produit auprès du directeur général des élections l’état de clôture.
+> 2018, ch. 31, art. 233.
+
+
+
+
+
+**Tenue d’un registre**
+
+**358.2** Le directeur général des élections tient, pour la période qu’il estime indiquée, un registre des tiers enregistrés où sont consignés, pour chaque tiers enregistré, les renseignements visés aux paragraphes 349.6(2), 349.8(4) et (5), 353(2) et 355(4) et (5).
+> 2018, ch. 31, art. 233.
+
+
+
+
+
+**Compte des dépenses du tiers**
+
+**359** 
+
+- **(1)** Le tiers tenu de s’enregistrer en application des paragraphes 349.6(1) ou 353(1) doit présenter au directeur général des élections, selon le formulaire prescrit, le compte de ses dépenses dans les quatre mois qui suivent le jour du scrutin.
+
+**Contenu**
+
+- **(2)** Le compte comporte :
+	- **a)** dans le cas d’une élection générale tenue le jour fixé conformément au paragraphe 56.1(2) ou à l’article 56.2 :
+		- **(i)** la liste des dépenses d’activité partisane visées au paragraphe 349.1(2), ainsi que les date et lieu des activités partisanes auxquelles elles se rapportent,
+		- **(ii)** la liste des dépenses de publicité partisane visées au paragraphe 349.1(2), ainsi que les date et lieu de diffusion des messages de publicité partisane auxquels elles se rapportent,
+		- **(iii)** la liste des dépenses de sondage électoral visées au paragraphe 349.1(2), ainsi que la date des sondages électoraux auxquels elles se rapportent,
+		- **(iv)** la liste des dépenses d’activité partisane, des dépenses de publicité partisane et des dépenses de sondage électoral visées au paragraphe 349.1(1) qui ne sont pas visées aux sous-alinéas (i) à (iii), ainsi que les date et lieu des activités partisanes auxquelles les dépenses d’activité partisane se rapportent, les date et lieu de diffusion des messages de publicité partisane auxquels les dépenses de publicité partisane se rapportent et la date des sondages électoraux auxquels les dépenses de sondage électoral se rapportent;
+	- **b)** dans le cas de toute élection générale :
+		- **(i)** la liste des dépenses d’activité partisane visées au paragraphe 350(2), ainsi que les date et lieu des activités partisanes auxquelles elles se rapportent,
+		- **(ii)** la liste des dépenses de publicité électorale visées au paragraphe 350(2), ainsi que les date et lieu de diffusion des messages de publicité électorale auxquels elles se rapportent,
+		- **(iii)** la liste des dépenses de sondage électoral visées au paragraphe 350(2), ainsi que la date des sondages électoraux auxquels elles se rapportent,
+		- **(iv)** la liste des dépenses d’activité partisane, des dépenses de publicité électorale et des dépenses de sondage électoral visées au paragraphe 350(1) qui ne sont pas visées aux sous-alinéas (i) à (iii), ainsi que les date et lieu des activités partisanes auxquelles les dépenses d’activité partisane se rapportent, les date et lieu de diffusion des messages de publicité électorale auxquels les dépenses de publicité électorale se rapportent et la date des sondages électoraux auxquels les dépenses de sondage électoral se rapportent;
+	- **c)** dans le cas d’une élection partielle, la liste des dépenses d’activité partisane, des dépenses de publicité électorale et des dépenses de sondage électoral visées au paragraphe 350(4), ainsi que les date et lieu des activités partisanes auxquelles les dépenses d’activité partisane se rapportent, les date et lieu de diffusion des messages de publicité électorale auxquels les dépenses de publicité électorale se rapportent et la date des sondages électoraux auxquelles les dépenses de sondage électoral se rapportent.
+
+**Cas d’absence de dépenses**
+
+- **(3)** Dans les cas où aucune dépense visée aux alinéas (2)a), b) ou c) n’a été engagée, le compte doit le signaler.
+
+**Mention des contributions**
+
+- **(4)** Le compte doit aussi mentionner :
+	- **a)** le montant, par catégorie de donateurs, des contributions destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux reçues pendant la période qui commence le lendemain du jour du scrutin de l’élection générale précédant le jour du scrutin visé au paragraphe (1) et qui se termine le jour du scrutin visé à ce paragraphe;
+	- **b)** pour chaque donateur dont la contribution destinée aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux pendant la période visée à l’alinéa a) dépasse, au total, 200 $, sous réserve de l’alinéa b.1), ses nom, adresse et catégorie ainsi que le montant de la contribution et la date à laquelle elle a été faite;
 	- **b.1)** dans le cas où le donateur visé à l’alinéa b) est une société à dénomination numérique, le nom du premier dirigeant ou du président de la société;
-	- **c)** le montant des dépenses de publicité électorale que le tiers a faites sur ses propres fonds, compte non tenu des contributions visées à l’alinéa a).
+	- **c)** le montant des dépenses d’activité partisane, des dépenses de publicité partisane, des dépenses de publicité électorale ou des dépenses de sondage électoral que le tiers a faites sur ses propres fonds, compte non tenu des contributions visées à l’alinéa a).
+
+**Exceptions**
+
+- **(4.1)** Le compte ne doit toutefois pas mentionner les renseignements visés au paragraphe (4) qui ont été mentionnés dans le compte que le tiers a déjà présenté en application du paragraphe (1) à l’égard :
+	- **a)** d’une élection partielle tenue après l’élection générale visée à l’alinéa (4)a);
+	- **b)** d’une élection générale pour laquelle le tiers a engagé des dépenses ou a reçu des contributions entre le jour du scrutin visé à l’alinéa 57(1.2)c) pour l’élection générale et le jour du scrutin dans une circonscription, lorsque le scrutin dans cette circonscription est ajourné au titre du paragraphe 59(4) ou 77(1).
 
 **Assimilation**
 
@@ -7308,20 +8588,33 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **d)** gouvernements;
 	- **e)** syndicats;
 	- **f)** personnes morales n’ayant pas de capital-actions autres que les syndicats;
-	- **g)** organismes ou associations non constituées en personne morale.
+	- **g)** organismes ou associations non constitués en personne morale autres que les syndicats.
 
 **Précision**
 
-- **(7)** Si le tiers n’est pas en mesure de déterminer si les contributions qu’il a reçues étaient destinées à la publicité électorale, il doit donner les nom et adresse de tous les donateurs, sous réserve de l’alinéa (4)b.1), ayant versé plus de 200 $ dans les six mois précédant la délivrance des brefs et pendant la période électorale.
+- **(7)** Si le tiers n’est pas en mesure de déterminer si les contributions qu’il a reçues pendant la période visée à l’alinéa (4)a) étaient destinées aux activités partisanes, à la publicité partisane, à la publicité électorale ou aux sondages électoraux, le compte doit mentionner les nom et adresse de tous les donateurs, sous réserve de l’alinéa (4)b.1), ayant versé, au total, plus de 200 $ pendant cette période.
 
 **Attestation**
 
-- **(8)** Le rapport doit contenir une attestation de son exactitude signée par l’agent financier ainsi que, s’il ne s’agit pas de la même personne, par la personne qui a signé la demande d’enregistrement.
+- **(8)** Le compte doit contenir une attestation de son exactitude signée par :
+	- **a)** l’agent financier du tiers;
+	- **b)** s’il ne s’agit pas de la même personne, la personne qui a signé la demande d’enregistrement présentée en application des paragraphes 353(2) ou — en cas d’application du paragraphe 353(1.1) — 349.6(2).
 
-**Autres documents**
+**Pièces justificatives**
 
-- **(9)** Sur demande du directeur général des élections, le tiers doit produire les originaux des factures, reçus et justificatifs pour tout montant de dépenses de publicité électorale supérieur à 50 $.
-> 2000, ch. 9, art. 359; 2001, ch. 21, art. 20.
+- **(9)** Sur demande du directeur général des élections, le tiers doit produire les pièces justificatives pour les dépenses supérieures à 50 $ exposées dans le compte, notamment les états de compte bancaires, les bordereaux de dépôt et les chèques annulés.
+> 2000, ch. 9, art. 359; 2001, ch. 21, art. 20; 2018, ch. 31, art. 234.
+
+
+
+
+
+**Interdiction : compte faux, trompeur ou incomplet**
+
+**359.1** Il est interdit au tiers de présenter, en application du paragraphe 359(1), un compte :
+- **a)** dont il sait ou devrait normalement savoir qu’il contient des renseignements faux ou trompeurs sur un point important;
+- **b)** qui ne contient pas, pour l’essentiel, tous les renseignements exigés par l’article 359.
+> 2018, ch. 31, art. 235.
 
 
 
@@ -7331,29 +8624,122 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **360** 
 
-- **(1)** Dans le cas où les dépenses de publicité électorale sont de 5 000 $ ou plus, le rapport doit en outre être accompagné du rapport du vérificateur.
+- **(1)** Dans le cas où les dépenses d’activité partisane, les dépenses de publicité partisane, les dépenses de publicité électorale et les dépenses de sondage électoral totalisent 10 000 $ ou plus, le compte présenté en application du paragraphe 359(1) doit en outre être accompagné du rapport du vérificateur.
 
 **Rapport du vérificateur**
 
-- **(2)** Le vérificateur du tiers fait rapport de sa vérification du rapport sur les dépenses de publicité électorale. Il fait les vérifications qui lui permettent d’établir si, à son avis, ce rapport présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+- **(2)** Le vérificateur du tiers fait rapport de sa vérification du compte des dépenses du tiers. Il fait les vérifications qui lui permettent d’établir si, à son avis, ce compte présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
 
 **Cas où une déclaration est requise**
 
 - **(3)** Il joint à son rapport les déclarations qu’il estime nécessaires lorsque, selon le cas :
-	- **a)** le rapport vérifié ne présente pas fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé;
+	- **a)** le compte vérifié ne présente pas fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé;
 	- **b)** il n’a pas reçu du tiers tous les renseignements et explications qu’il a exigés;
 	- **c)** sa vérification révèle que le tiers n’a pas tenu les écritures comptables appropriées.
 
 **Droit d’accès aux archives**
 
-- **(4)** Il doit avoir accès, à tout moment convenable, aux documents du tiers qui, à son avis, peuvent être nécessaires pour l’établissement de son rapport et il a le droit d’exiger du tiers les renseignements et explications qui peuvent être nécessaires pour l’établissement de son rapport.
+- **(4)** Il doit avoir accès, à tout moment convenable, aux documents du tiers qui, à son avis, peuvent être nécessaires pour l’établissement de son rapport et il a le droit d’exiger du tiers les renseignements et explications qui, à son avis, peuvent être nécessaires pour l’établissement de son rapport.
+> 2000, ch. 9, art. 360; 2018, ch. 31, art. 236.
 
 
 
 
-**Correction du rapport**
 
-**361** Le directeur général des élections peut apporter aux rapports produits au titre du paragraphe 359(1) des corrections qui n’en modifient pas le fond sur un point important.
+**Corrections mineures : directeur général des élections**
+
+**361** 
+
+- **(1)** Le directeur général des élections peut apporter à tout compte visé au paragraphe 359(1) des corrections qui n’en modifient pas le fond sur un point important.
+
+**Demande de correction ou de révision par le directeur général des élections**
+
+- **(2)** Il peut demander par écrit au tiers de corriger ou de réviser ce compte, dans le délai imparti.
+
+**Délai de production de la version corrigée ou révisée**
+
+- **(3)** Le cas échéant, le tiers produit auprès du directeur général des élections la version corrigée ou révisée du compte dans le délai imparti.
+> 2000, ch. 9, art. 361; 2018, ch. 31, art. 237.
+
+
+
+
+
+**Prorogation du délai : directeur général des élections**
+
+**361.1** 
+
+- **(1)** Sur demande écrite du tiers, le directeur général des élections autorise la prorogation du délai prévu au paragraphe 359(1), sauf s’il est convaincu que l’omission de produire le compte exigé est intentionnelle ou résulte du fait que le tiers n’a pas pris les mesures nécessaires pour le produire.
+
+**Délai de présentation de la demande**
+
+- **(2)** La demande est présentée dans le délai prévu au paragraphe 359(1) ou dans les deux semaines suivant l’expiration de ce délai.
+> 2018, ch. 31, art. 237.
+
+
+
+
+
+**Correction ou révision : directeur général des élections**
+
+**361.2** 
+
+- **(1)** Sur demande écrite du tiers, le directeur général des élections autorise la correction ou la révision du compte visé au paragraphe 359(1) s’il est convaincu par la preuve produite par le tiers que la correction ou la révision est nécessaire pour assurer le respect des exigences de la présente loi.
+
+**Délai de présentation de la demande**
+
+- **(2)** La demande est présentée dès que le tiers prend connaissance de la nécessité d’apporter une correction ou d’effectuer une révision.
+
+**Délai de production de la version corrigée ou révisée**
+
+- **(3)** Le tiers produit auprès du directeur général des élections la version corrigée ou révisée du compte dans les trente jours suivant la date de l’autorisation ou dans le délai prorogé au titre des paragraphes (4) ou (5).
+
+**Prorogation du délai de production de la version corrigée ou révisée**
+
+- **(4)** Sur demande écrite du tiers présentée dans les deux semaines suivant l’expiration du délai de trente jours visé au paragraphe (3), le directeur général des élections autorise la prorogation de ce délai, sauf s’il est convaincu que l’omission de produire la version corrigée ou révisée du compte est intentionnelle ou résulte du fait que le tiers n’a pas pris les mesures nécessaires pour la produire.
+
+**Nouvelle prorogation**
+
+- **(5)** Sur demande écrite du tiers présentée dans les deux semaines suivant l’expiration du délai prorogé au titre du paragraphe (4) ou du présent paragraphe, le directeur général des élections autorise une prorogation supplémentaire de ce délai, sauf s’il est convaincu que l’omission de produire la version corrigée ou révisée du compte est intentionnelle ou résulte du fait que le tiers n’a pas pris les mesures nécessaires pour la produire.
+> 2018, ch. 31, art. 237.
+
+
+
+
+
+**Prorogation du délai, correction ou révision : juge**
+
+**361.3** 
+
+- **(1)** Le tiers peut demander à un juge de rendre une ordonnance autorisant :
+	- **a)** la levée de l’obligation faite au tiers relativement à la demande prévue au paragraphe 361(2);
+	- **b)** la prorogation visée au paragraphe 361.1(1);
+	- **c)** la correction ou la révision visées au paragraphe 361.2(1).
+La demande est notifiée au directeur général des élections.
+
+**Délais**
+
+- **(2)** La demande peut être présentée :
+	- **a)** au titre de l’alinéa (1)a), dans le délai visé au paragraphe 361(2) ou dans les deux semaines suivant l’expiration de ce délai;
+	- **b)** au titre de l’alinéa (1)b), dans les deux semaines suivant :
+		- **(i)** soit, si aucune demande de prorogation n’a été présentée au directeur général des élections dans le délai visé au paragraphe 361.1(2), l’expiration du délai de deux semaines visé à ce paragraphe,
+		- **(ii)** soit le rejet de la demande de prorogation présentée au titre de l’article 361.1,
+		- **(iii)** soit l’expiration du délai prorogé au titre du paragraphe 361.1(1);
+	- **c)** au titre de l’alinéa (1)c), dans les deux semaines suivant le rejet de la demande de correction ou de révision présentée au titre de l’article 361.2.
+
+**Motifs : prorogation du délai**
+
+- **(3)** Le juge rend l’ordonnance autorisant la prorogation du délai, sauf s’il est convaincu que l’omission de produire le compte est intentionnelle ou résulte du fait que le tiers n’a pas pris les mesures nécessaires pour le produire.
+
+**Motifs : correction ou révision**
+
+- **(4)** Il rend l’ordonnance autorisant la correction ou la révision s’il est convaincu par la preuve produite par le tiers que la correction ou la révision est nécessaire pour assurer le respect des exigences de la présente loi.
+
+**Conditions**
+
+- **(5)** Il peut assortir son ordonnance des conditions qu’il estime nécessaires à l’application de la présente loi.
+> 2018, ch. 31, art. 237.
+
 
 
 
@@ -7362,7 +8748,11 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **362** Le directeur général des élections publie, selon les modalités qu’il estime indiquées :
 - **a)** au fur et à mesure de leur enregistrement, les nom et adresse des tiers enregistrés;
-- **b)** dans l’année qui suit la délivrance des brefs, les rapports produits au titre du paragraphe 359(1).
+- **a.1)** dans les meilleurs délais, les comptes présentés en application des paragraphes 349.91(1), 349.92(1), 357.01(1) ou 357.02(1);
+- **b)** dans l’année qui suit la délivrance des brefs, le compte présenté en application du paragraphe 359(1);
+- **c)** dans les meilleurs délais, la version corrigée ou révisée de tout compte présenté en application du paragraphe 359(1) et publié au titre de l’alinéa b).
+> 2000, ch. 9, art. 362; 2018, ch. 31, art. 238.
+
 
 
 
@@ -7410,6 +8800,13 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 - **(1)** Sont considérés comme une contribution pour l’application de la présente loi les fonds d’un particulier qui sont affectés à sa campagne à titre de candidat à l’investiture, de candidat ou de candidat à la direction.
 
+**Exclusions : dépenses relatives à un litige et dépenses personnelles**
+
+- **(1.1)** Ne constituent pas une contribution pour l’application de la présente loi les fonds d’un candidat à l’investiture, d’un candidat ou d’un candidat à la direction utilisés pour payer une dépense relative à un litige ou une dépense personnelle, qui, selon le cas, n’ont pas été déposés dans le compte bancaire visé :
+	- **a)** au paragraphe 476.65(1), dans le cas d’un candidat à l’investiture;
+	- **b)** au paragraphe 477.46(1), dans le cas d’un candidat;
+	- **c)** au paragraphe 478.72(1), dans le cas d’un candidat à la direction.
+
 **Exclusions (produits et services) : partis enregistrés, associations enregistrées ou candidats**
 
 - **(2)** Est permise et ne constitue pas une contribution pour l’application de la présente loi la fourniture de produits ou de services :
@@ -7453,7 +8850,11 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Contribution**
 
 - **(8)** Il est entendu que le paiement par un particulier ou pour son compte de frais de participation à un congrès — annuel, biennal ou à la direction — d’un parti enregistré donné constitue une contribution à ce parti.
-> 2000, ch. 9, art. 364; 2014, ch. 12, art. 86.
+
+**Interdiction**
+
+- **(9)** Il est interdit à toute personne ou entité, sauf à un particulier — citoyen canadien ou résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) —, de payer des frais de participation à un congrès annuel, biennal ou à la direction d’un parti enregistré donné pour lui-même ou pour le compte d’une autre personne.
+> 2000, ch. 9, art. 364; 2014, ch. 12, art. 86; 2018, ch. 31, art. 239.
 
 
 
@@ -7540,11 +8941,12 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 - **(7)** Sont permises les contributions suivantes :
 	- **a)** les contributions de 5 000 $, au total, apportées par un candidat — provenant de ses propres fonds — à sa campagne, pour une élection donnée;
 	- **b)** les contributions de 25 000 $, au total, apportées par un candidat à la direction — provenant de ses propres fonds — à sa campagne, pour une course à la direction donnée.
+Il est entendu que les contributions apportées au titre du paragraphe (1) par un candidat à un parti enregistré ou à une association enregistrée dont des fonds sont par la suite cédés à la campagne du candidat n’ont pas pour effet de limiter les contributions que ce candidat peut apporter au titre du présent paragraphe.
 
 **Aucun effet sur les plafonds prévus au paragraphe (1)**
 
 - **(8)** Les contributions visées au paragraphe (7) n’ont pas pour effet de réduire les plafonds prévus au paragraphe (1) relativement aux contributions que le candidat ou le candidat à la direction peut apporter à un autre candidat ou candidat à la direction.
-> 2000, ch. 9, art. 367; 2014, ch. 12, art. 86 et 87.
+> 2000, ch. 9, art. 367; 2014, ch. 12, art. 86 et 87; 2018, ch. 31, art. 240.
 
 
 
@@ -7564,14 +8966,14 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **a)** de cacher ou de tenter de cacher l’identité de l’auteur d’une contribution régie par la présente loi;
 	- **b)** d’agir de concert avec d’autres personnes ou entités en vue d’accomplir un tel fait.
 
-**Interdiction : accepter des contributions excessives**
+**Interdiction — accepter des contributions excessives**
 
-- **(3)** Il est interdit à quiconque est habilité par la présente loi à accepter des contributions d’accepter sciemment une contribution qui dépasse un plafond imposé par la présente loi.
+- **(3)** Il est interdit à quiconque est habilité par la présente loi à accepter des contributions d’accepter une contribution qui dépasse un plafond imposé par la présente loi.
 
 **Accords interdits**
 
 - **(4)** Il est interdit à toute personne ou entité de conclure un accord prévoyant le paiement de biens ou de services fournis, directement ou indirectement, à un parti enregistré ou à un candidat à la condition qu’un particulier apporte une contribution, directement ou indirectement, à un parti enregistré, à une association enregistrée, à un candidat à l’investiture, à un candidat ou à un candidat à la direction.
-> 2000, ch. 9, art. 368; 2004, ch. 24, art. 4; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 368; 2004, ch. 24, art. 4; 2014, ch. 12, art. 86; 2018, ch. 31, art. 241.
 
 
 
@@ -7622,8 +9024,8 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Remise de contributions**
 
-**372** Si un parti enregistré, une association enregistrée, un candidat à l’investiture, un candidat ou un candidat à la direction reçoit une contribution apportée en contravention des paragraphes 367(1) ou 368(4) ou des articles 370 ou 371, l’agent principal du parti, l’agent financier de l’association, l’agent officiel du candidat ou l’agent financier du candidat à l’investiture ou du candidat à la direction, dans les trente jours suivant le moment où il prend connaissance de la contravention, remet la contribution inutilisée au donateur ou, si cela est impossible, remet celle-ci — ou une somme égale à sa valeur commerciale dans le cas d’une contribution non monétaire — au directeur général des élections, qui la remet au receveur général.
-> 2000, ch. 9, art. 372; 2003, ch. 19, art. 8; 2014, ch. 12, art. 86.
+**372** Si un parti enregistré, une association enregistrée, un candidat à l’investiture, un candidat ou un candidat à la direction reçoit une contribution apportée en contravention des paragraphes 367(1) ou (6) ou 368(4) ou des articles 370 ou 371, l’agent principal du parti, l’agent financier de l’association, l’agent officiel du candidat ou l’agent financier du candidat à l’investiture ou du candidat à la direction, dans les trente jours suivant le moment où il prend connaissance de la contravention, remet la contribution inutilisée au donateur ou, si cela est impossible, remet celle-ci — ou une somme égale à sa valeur commerciale dans le cas d’une contribution non monétaire — au directeur général des élections, qui la remet au receveur général.
+> 2000, ch. 9, art. 372; 2003, ch. 19, art. 8; 2014, ch. 12, art. 86; 2018, ch. 31, art. 242.
 
 
 
@@ -7680,22 +9082,111 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-**374.1** [Abrogé, 2014, ch. 12, art. 86]
-
-
-
 
 #### Dépenses
 
 
 
+**Dépenses de campagne d’investiture**
+
+**374.1** 
+
+- **(1)** Les dépenses de campagne d’investiture des candidats à l’investiture sont constituées par les dépenses raisonnables entraînées par la course à l’investiture, notamment :
+	- **a)** leurs dépenses de course à l’investiture;
+	- **b)** leurs dépenses relatives à un litige;
+	- **c)** leurs frais de déplacement et de séjour;
+	- **d)** leurs dépenses personnelles;
+	- **e)** la partie des honoraires de leur vérificateur, nommé en application du paragraphe 476.77(1), qui n’est pas remboursée par le receveur général.
+
+**Exclusions : sanction administrative pécuniaire**
+
+- **(2)** Il est entendu que ne constituent pas une dépense de campagne d’investiture :
+	- **a)** la sanction administrative pécuniaire infligée au titre de la partie 19;
+	- **b)** la somme qui doit être payée conformément à une transaction conclue au titre de la partie 19 et dont le paiement découle uniquement de la conclusion de la transaction;
+	- **c)** la somme qui doit être payée conformément à un engagement pris au titre de la partie 19 et dont le paiement découle uniquement de la prise de l’engagement.
+> 2004, ch. 24, art. 7; 2014, ch. 12, art. 86; 2018, ch. 31, art. 243.
+
+
+
+
+
+**Dépenses de course à l’investiture**
+
+**374.2** 
+
+- **(1)** Les dépenses de course à l’investiture s’entendent :
+	- **a)** des frais engagés par un candidat à l’investiture et des contributions non monétaires qui lui sont apportées, dans la mesure où les biens ou les services faisant l’objet des dépenses ou des contributions servent à favoriser ou à contrecarrer directement un candidat à l’investiture pendant une course à l’investiture;
+	- **b)** de l’acceptation par un candidat à l’investiture de la fourniture de produits ou de services permise au titre de l’alinéa 364(2)c), dans la mesure où les biens ou les services servent à favoriser ou à contrecarrer directement un candidat à l’investiture pendant une course à l’investiture.
+
+**Exclusion : activité de financement**
+
+- **(2)** Sont exclues des dépenses de course à l’investiture celles qui sont faites pour l’organisation d’une activité de financement; l’exclusion ne vaut pas pour les dépenses visées aux alinéas (3)a) et b) qui sont liées à ces activités.
+
+**Inclusions**
+
+- **(3)** Sont notamment des dépenses de course à l’investiture les frais engagés, les contributions non monétaires apportées et les produits et services fournis relativement :
+	- **a)** à la production de matériel publicitaire ou promotionnel;
+	- **b)** à la distribution, diffusion ou publication de ce matériel dans les médias ou par tout autre moyen pendant la course à l’investiture, notamment par l’usage d’un bien immobilisé;
+	- **c)** au paiement des services d’une personne à un titre quelconque — notamment celui d’agent financier —, y compris sa rémunération et les frais supportés pour son compte;
+	- **d)** à la location d’espace pour des réunions ou la fourniture de rafraîchissements;
+	- **e)** aux biens ou services fournis par une administration publique, une société d’État ou tout autre organisme public;
+	- **f)** aux sondages et aux recherches effectués pendant une course à l’investiture.
+
+**Définition de frais engagés**
+
+- **(4)** Au présent article, ***frais engagés*** s’entend des dépenses payées ou engagées par un candidat à l’investiture.
+> 2018, ch. 31, art. 243.
+
+
+
+
+
+**Dépenses relatives à un litige d’un candidat à l’investiture**
+
+**374.3** Les dépenses relatives à un litige d’un candidat à l’investiture sont les dépenses relatives à la présentation d’une demande à un juge au titre de la présente partie, y compris les dépenses relatives à tout appel ou contrôle judiciaire découlant de la demande.
+> 2018, ch. 31, art. 243.
+
+
+
+
+
+**Dépenses personnelles d’un candidat à l’investiture**
+
+**374.4** 
+
+- **(1)** Sont notamment des dépenses personnelles d’un candidat à l’investiture les dépenses entraînées :
+	- **a)** au titre de la garde d’un enfant;
+	- **b)** au titre de la garde d’une personne, ayant une incapacité physique ou mentale, qui est habituellement sous sa garde;
+	- **c)** dans le cas d’un candidat à l’investiture qui a une déficience, au titre des dépenses supplémentaires liées à celle-ci.
+
+**Exclusions : frais de déplacement et de séjour**
+
+- **(2)** Ne constituent pas une dépense personnelle du candidat à l’investiture les dépenses relatives à un litige et les frais de déplacement et de séjour.
+> 2018, ch. 31, art. 243.
+
+
+
+
+
 **Dépenses de campagne des candidats**
 
-**375** Les dépenses de campagne des candidats sont constituées par les dépenses raisonnables entraînées par l’élection, notamment :
-- **a)** leurs dépenses électorales;
-- **b)** leurs dépenses personnelles;
-- **c)** la partie des honoraires de leur vérificateur et des frais de dépouillement judiciaire dans leur circonscription qui n’est pas remboursée par le receveur général.
-> 2000, ch. 9, art. 375; 2003, ch. 19, art. 9; 2014, ch. 12, art. 86.
+**375** 
+
+- **(1)** Les dépenses de campagne des candidats sont constituées par les dépenses raisonnables entraînées par l’élection, notamment :
+	- **a)** leurs dépenses électorales;
+	- **a.1)** leurs dépenses relatives à un litige;
+	- **a.2)** leurs frais de déplacement et de séjour;
+	- **a.3)** leurs dépenses en matière d’accessibilité;
+	- **b)** leurs dépenses personnelles;
+	- **c)** la partie des honoraires de leur vérificateur, nommé en application du paragraphe 477.1(2), qui n’est pas remboursée par le receveur général.
+
+**Exclusions : sanction administrative pécuniaire**
+
+- **(2)** Il est entendu que ne constitue pas une dépense de campagne :
+	- **a)** la sanction administrative pécuniaire infligée au titre de la partie 19;
+	- **b)** la somme qui doit être payée au titre d’une transaction conclue au titre de la partie 19 et dont le paiement découle uniquement de la conclusion de la transaction;
+	- **c)** la somme qui doit être payée conformément à un engagement pris au titre de la partie 19 et dont le paiement découle uniquement de la prise de l’engagement.
+> 2000, ch. 9, art. 375; 2003, ch. 19, art. 9; 2014, ch. 12, art. 86; 2018, ch. 31, art. 244.
 
 
 
@@ -7723,10 +9214,25 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **e)** aux biens ou services fournis par une administration publique, une société d’État ou tout autre organisme public;
 	- **f)** aux sondages électoraux ou autres et aux recherches effectués pendant une période électorale.
 
+**Exclusion : dépenses en matière d’accessibilité**
+
+- **(3.1)** Les dépenses en matière d’accessibilité d’un parti enregistré ou d’un candidat, selon le cas, ne constituent pas des dépenses électorales du parti enregistré ou du candidat.
+
 **Définition de frais engagés**
 
 - **(4)** Au paragraphe (1), ***frais engagés*** s’entend des dépenses payées ou engagées par un parti enregistré ou par un candidat.
-> 2000, ch. 9, art. 376; 2003, ch. 19, art. 10; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 376; 2003, ch. 19, art. 10; 2014, ch. 12, art. 86; 2018, ch. 31, art. 245.
+
+
+
+
+
+**Dépenses de publicité partisane**
+
+**376.1** Les dépenses de publicité partisane d’un parti enregistré ou d’une association de circonscription d’un parti enregistré, selon le cas, incluent :
+- **a)** les contributions non monétaires qui sont apportées au parti ou à l’association, dans la mesure où les biens ou les services faisant l’objet des contributions servent à la production de messages de publicité partisane ou à la diffusion de tels messages;
+- **b)** de l’acceptation par le parti ou par l’association de la fourniture de produits ou de services permise au titre du paragraphe 364(2), dans la mesure où les produits ou les services servent à la production de messages de publicité partisane ou à la diffusion de tels messages.
+> 2018, ch. 31, art. 246.
 
 
 
@@ -7734,8 +9240,55 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Activité de financement**
 
-**377** Dans le cas où une activité de financement est organisée essentiellement pour recueillir des contributions monétaires au profit d’un parti enregistré, d’une association enregistrée, d’un candidat à l’investiture, d’un candidat ou d’un candidat à la direction par la vente de billets, le montant de la contribution est constitué de la différence entre le prix du billet et la juste valeur marchande de ce à quoi le billet donne droit.
-> 2000, ch. 9, art. 377; 2003, ch. 19, art. 11; 2004, ch. 24, art. 8; 2014, ch. 12, art. 86.
+**377** 
+
+- **(1)** Dans le cas où une activité de financement est organisée essentiellement pour recueillir des contributions monétaires au profit d’un parti enregistré, d’une association enregistrée, d’un candidat à l’investiture, d’un candidat ou d’un candidat à la direction par la vente de billets, le montant de la contribution est constitué de la différence entre le prix du billet et la juste valeur marchande de ce à quoi le billet donne droit.
+
+**Calcul**
+
+- **(2)** Pour l’application du paragraphe (1), le calcul du montant de ce à quoi le billet donne droit tient compte des montants suivants :
+	- **a)** le coût des biens et des services reçus personnellement par le particulier qui assiste à l’activité de financement, tels que les repas et les articles promotionnels;
+	- **b)** la part du particulier des dépenses générales engagées, selon le cas, par le parti enregistré, l’association enregistrée, le candidat à l’investiture, le candidat ou le candidat à la direction pour l’organisation de l’activité de financement, telles que les dépenses engagées pour la location d’une salle ou le matériel audiovisuel utilisé.
+> 2000, ch. 9, art. 377; 2003, ch. 19, art. 11; 2004, ch. 24, art. 8; 2014, ch. 12, art. 86; 2018, ch. 31, art. 247.
+
+
+
+
+
+**Dépenses relatives à un litige d’un candidat**
+
+**377.1** Les dépenses relatives à un litige d’un candidat sont les dépenses relatives à la présentation des requêtes et des demandes ci-après, y compris les dépenses relatives à tout appel ou contrôle judiciaire découlant de la requête ou de la demande :
+- **a)** une requête ou une demande effectuée au titre de la partie 14;
+- **b)** une demande à un juge au titre de la présente partie;
+- **c)** une requête en contestation de l’élection tenue dans la circonscription du candidat.
+> 2018, ch. 31, art. 248.
+
+
+
+
+
+**Dépenses en matière d’accessibilité**
+
+**377.2** 
+
+- **(1)** Les dépenses en matière d’accessibilité d’un parti enregistré ou d’un candidat, selon le cas, s’entendent :
+	- **a)** du montant des frais engagés par le parti enregistré ou le candidat et des contributions non monétaires qui leur sont apportées, dans la mesure où les biens ou les services faisant l’objet des dépenses ou des contributions servent entièrement à rendre accessibles aux personnes ayant une déficience du matériel utilisé ou une activité tenue pendant une période électorale;
+	- **b)** de la différence entre les montants visés aux sous-alinéas ci-après, dans la mesure où le montant visé au sous-alinéa (i) est supérieur au montant visé au sous-alinéa (ii) :
+		- **(i)** le montant des frais engagés par le parti enregistré ou le candidat et des contributions non monétaires qui leur sont apportées, dans la mesure où les biens ou les services faisant l’objet des dépenses ou des contributions sont utilisés pour du matériel utilisé ou pour une activité tenue pendant une période électorale qui sont accessibles à des personnes ayant une déficience,
+		- **(ii)** le montant de la valeur des biens ou des services, si le matériel ou l’activité n’avaient pas été accessibles à des personnes ayant une déficience;
+	- **c)** du montant de la valeur des produits ou des services visés au paragraphe 364(2) acceptés par le parti enregistré ou le candidat, dans la mesure où les produits ou les services servent entièrement à rendre accessibles aux personnes ayant une déficience du matériel utilisé ou une activité tenue pendant une période électorale;
+	- **d)** de la différence entre les montants visés aux sous-alinéas ci-après, dans la mesure où le montant visé au sous-alinéa (i) est supérieur au montant visé au sous-alinéa (ii) :
+		- **(i)** le montant de la valeur des produits ou des services visés au paragraphe 364(2) acceptés par le parti enregistré ou le candidat, dans la mesure où les produits ou les services fournis sont utilisés pour du matériel utilisé ou pour une activité tenue pendant une période électorale qui sont accessibles à des personnes ayant une déficience,
+		- **(ii)** le montant de la valeur des produits ou des services, si le matériel ou l’activité n’avaient pas été accessibles à des personnes ayant une déficience.
+
+**Exclusions : activité de financement**
+
+- **(2)** Est exclu des dépenses en matière d’accessibilité tout montant visé au paragraphe (1) qui est lié à l’organisation d’une activité de financement, à l’investiture d’un individu comme candidat ou à la désignation d’un individu comme chef d’un parti enregistré.
+
+**Définition de frais engagés**
+
+- **(3)** Au paragraphe (1), ***frais engagés*** s’entend des dépenses payées ou engagées par un parti enregistré ou par un candidat.
+> 2018, ch. 31, art. 248.
 
 
 
@@ -7746,15 +9299,24 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **378** 
 
 - **(1)** Sont notamment des dépenses personnelles d’un candidat les dépenses entraînées :
-	- **a)** au titre du déplacement et du séjour;
+	- **a)** [Abrogé, 2018, ch. 31, art. 249]
 	- **b)** au titre de la garde d’un enfant;
 	- **c)** au titre de la garde d’une personne, ayant une incapacité physique ou mentale, qui est habituellement à sa garde;
 	- **d)** dans le cas d’un candidat qui a une déficience, au titre des dépenses supplémentaires liées à celle-ci.
 
-**Catégories et plafonds**
+**Exclusions : frais de déplacement et de séjour**
 
-- **(2)** Le directeur général des élections peut établir des catégories de dépenses personnelles et fixer le plafond des dépenses pour chacune d’elles.
-> 2000, ch. 9, art. 378; 2004, ch. 24, art. 9; 2014, ch. 12, art. 86.
+- **(2)** Ne constituent pas une dépense personnelle du candidat les dépenses relatives à un litige et les frais de déplacement et de séjour.
+> 2000, ch. 9, art. 378; 2004, ch. 24, art. 9; 2014, ch. 12, art. 86; 2018, ch. 31, art. 249.
+
+
+
+
+
+**Catégories et plafonds de certaines dépenses**
+
+**378.1** Le directeur général des élections peut établir, pour les candidats, des catégories de dépenses personnelles et de frais de déplacement et de séjour et fixer le plafond des dépenses pour chacune d’elles.
+> 2018, ch. 31, art. 250.
 
 
 
@@ -7764,6 +9326,87 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **379** Toute dépense engagée par un candidat au titre de la rémunération de ses représentants visés aux paragraphes 136(1) ou 237.1(2) est réputée être une dépense personnelle du candidat.
 > 2000, ch. 9, art. 379; 2014, ch. 12, art. 86.
+
+
+
+
+
+**Dépenses de campagne à la direction**
+
+**379.1** 
+
+- **(1)** Les dépenses de campagne à la direction des candidats à la direction sont constituées par les dépenses raisonnables entraînées par la course à la direction, notamment :
+	- **a)** leurs dépenses de course à la direction;
+	- **b)** leurs dépenses relatives à un litige;
+	- **c)** leurs frais de déplacement et de séjour;
+	- **d)** leurs dépenses personnelles;
+	- **e)** la partie des honoraires de leur vérificateur, nommé en application de la section 6 de la partie 18, qui n’est pas remboursée par le receveur général.
+
+**Exclusions : sanction administrative pécuniaire**
+
+- **(2)** Il est entendu que ne constituent pas une dépense de campagne à la direction :
+	- **a)** la sanction administrative pécuniaire infligée au titre de la partie 19;
+	- **b)** la somme qui doit être payée au titre d’une transaction conclue au titre de la partie 19 et dont le paiement découle uniquement de la conclusion de la transaction;
+	- **c)** la somme qui doit être payée conformément à un engagement pris au titre de la partie 19 et dont le paiement découle uniquement de la prise de l’engagement.
+> 2018, ch. 31, art. 251.
+
+
+
+
+
+**Dépenses de course à la direction**
+
+**379.2** 
+
+- **(1)** Les dépenses de course à la direction s’entendent :
+	- **a)** des frais engagés par un candidat à la direction et des contributions non monétaires qui lui sont apportées, dans la mesure où les biens ou les services faisant l’objet des dépenses ou des contributions servent à favoriser ou à contrecarrer directement un candidat à la direction pendant une course à la direction;
+	- **b)** de l’acceptation par un candidat à la direction de la fourniture de produits ou de services permise au titre de l’alinéa 364(2)c), dans la mesure où les biens ou les services servent à favoriser ou à contrecarrer directement un candidat à la direction pendant une course à la direction.
+
+**Exclusion : activité de financement**
+
+- **(2)** Sont exclues des dépenses de course à la direction celles qui sont faites pour l’organisation d’une activité de financement; l’exclusion ne vaut pas pour les dépenses visées aux alinéas (3)a) et b) qui sont liées à ces activités.
+
+**Inclusions**
+
+- **(3)** Sont notamment des dépenses de course à la direction les frais engagés, les contributions non monétaires apportées et les produits et services fournis relativement :
+	- **a)** à la production de matériel publicitaire ou promotionnel;
+	- **b)** à la distribution, diffusion ou publication de ce matériel dans les médias ou par tout autre moyen pendant la course à la direction, notamment par l’usage d’un bien immobilisé;
+	- **c)** au paiement des services d’une personne à un titre quelconque — notamment celui d’agent financier —, y compris sa rémunération et les frais supportés pour son compte;
+	- **d)** à la location d’espace pour des réunions ou la fourniture de rafraîchissements;
+	- **e)** aux biens ou services fournis par une administration publique, une société d’État ou tout autre organisme public;
+	- **f)** aux sondages et aux recherches effectués pendant une course à la direction.
+
+**Définition de frais engagés**
+
+- **(4)** Au présent article, ***frais engagés*** s’entend des dépenses payées ou engagées par un candidat à la direction.
+> 2018, ch. 31, art. 251.
+
+
+
+
+
+**Dépenses relatives à un litige d’un candidat à la direction**
+
+**379.3** Les dépenses relatives à un litige d’un candidat à la direction sont les dépenses relatives à la présentation d’une demande à un juge au titre de la présente partie, y compris les dépenses relatives à tout appel ou contrôle judiciaire découlant de la demande.
+> 2018, ch. 31, art. 251.
+
+
+
+
+
+**Dépenses personnelles d’un candidat à la direction**
+
+**379.4** 
+
+- **(1)** Sont notamment des dépenses personnelles d’un candidat à la direction les dépenses entraînées :
+	- **a)** au titre de la garde d’un enfant;
+	- **b)** au titre de la garde d’une personne, ayant une incapacité physique ou mentale, qui est habituellement sous sa garde;
+	- **c)** dans le cas d’un candidat à la direction qui a une déficience, au titre des dépenses supplémentaires liées à celle-ci.
+
+**Exclusions : frais de déplacement et de séjour**
+
+- **(2)** Ne constituent pas une dépense personnelle du candidat à la direction les dépenses relatives à un litige et les frais de déplacement et de séjour.
+> 2018, ch. 31, art. 251.
 
 
 
@@ -7845,6 +9488,9 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 - **(3)** Dès que possible après avoir reçu les comptes de campagne électorale, tout document visé aux paragraphes 477.59(10), (11), (12) ou (15) ou une version corrigée ou révisée des comptes ou du document, le directeur général des élections en publie, selon les modalités qu’il estime indiquées, un résumé énonçant le plafond des dépenses électorales pour chaque circonscription et, à l’égard de chaque candidat dans celle-ci :
 	- **a)** la somme des dépenses électorales;
+	- **a.1)** la somme des dépenses relatives à un litige;
+	- **a.2)** la somme des frais de déplacement et de séjour pour les déplacements et les séjours effectués pendant la période électorale;
+	- **a.3)** la somme des dépenses en matière d’accessibilité;
 	- **b)** la somme des dépenses personnelles;
 	- **c)** le nombre de donateurs et la somme des contributions reçues;
 	- **d)** le nom de l’agent officiel;
@@ -7854,27 +9500,12 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Rapport financier des partis politiques radiés**
 
 - **(4)** Dès que possible après avoir reçu d’un parti politique radié le rapport financier visé au sous-alinéa 420a)(i), le directeur général des élections le publie selon les modalités qu’il estime indiquées.
-> 2000, ch. 9, art. 382; 2003, ch. 19, art. 12; 2004, ch. 24, art. 14; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 382; 2003, ch. 19, art. 12; 2004, ch. 24, art. 14; 2014, ch. 12, art. 86; 2018, ch. 31, art. 252.
 
 
 
 
-
-**Remise au directeur du scrutin**
-
-**383** 
-
-- **(1)** Dès que possible après avoir reçu les documents visés au paragraphe 477.59(1) pour une circonscription, le directeur général des élections en remet un exemplaire au directeur du scrutin de la circonscription.
-
-**Soutien de candidats**
-
-- **(2)** Ils sont également tenus de produire, avec la déclaration ou le rapport visés au paragraphe (1), une déclaration, attestée par leur agent principal, comportant le nom des personnes qu’ils autorisent à soutenir des personnes qui désirent se porter candidat à une élection générale.
-
-**Délai de conservation des documents**
-
-- **(3)** Il est tenu de conserver les documents visés au paragraphe (1) pendant une période de trois ans, ou la période plus courte que le directeur général des élections estime indiquée, à compter de la fin de la période de six mois visée au paragraphe (2).
-> 2000, ch. 9, art. 383; 2014, ch. 12, art. 86; 2015, ch. 37, art. 3.
-
+**383** [Abrogé, 2018, ch. 31, art. 253]
 
 
 
@@ -8225,6 +9856,10 @@ La demande est notifiée au directeur général des élections.
 		- **(vi)** les nom et coordonnées de la personne à qui toute question relative à la politique sur la protection des renseignements personnels du parti peut être posée;
 	- **l)** l’adresse de la page — accessible au public — se trouvant sur le site Internet du parti où sa politique sur la protection des renseignements personnels est publiée au titre du paragraphe (4).
 
+**Nom abrégé**
+
+- **(2.1)** Le directeur général des élections peut fixer une longueur maximale pour le nom du parti politique en sa forme abrégée qui doit figurer sur les documents électoraux.
+
 **Renseignements supplémentaires**
 
 - **(3)** Le directeur général des élections peut, pour vérifier si le parti compte parmi ses objectifs essentiels celui qui est mentionné à l’alinéa (2)j), demander au chef du parti de lui communiquer tous renseignements utiles, notamment ceux visés au paragraphe 521.1(5).
@@ -8352,7 +9987,11 @@ La demande est notifiée au directeur général des élections.
 **Présomption**
 
 - **(5)** Pour l’application des articles 363, 367, 376, 430, 437 et 444, le parti admissible qui est enregistré en application du paragraphe (1) est réputé l’avoir été depuis la date de délivrance du bref ou des brefs.
-> 2000, ch. 9, art. 390; 2003, ch. 19, art. 19; 2014, ch. 12, art. 86.
+
+**Présomption**
+
+- **(6)** Pour l’application de l’article 429.1 et — malgré le paragraphe (5) — des articles 363 et 367, le parti admissible qui est enregistré en application du paragraphe (1) est réputé l’avoir été depuis le premier jour de la période préélectorale — le cas échéant — précédant la période électorale de l’élection visée à ce paragraphe.
+> 2000, ch. 9, art. 390; 2003, ch. 19, art. 19; 2014, ch. 12, art. 86; 2018, ch. 31, art. 256.
 
 
 
@@ -8880,10 +10519,10 @@ La demande est notifiée au directeur général des élections.
 
 - **(4)** Il est interdit au chef d’un parti politique de faire une déclaration visée aux articles 385, 405 ou 407 qu’il sait fausse ou trompeuse.
 
-**Interdiction : déclaration fausse ou trompeuse d’un membre**
+**Interdiction : déclaration fausse ou trompeuse**
 
-- **(5)** Il est interdit à tout membre d’un parti politique de faire une déclaration visée aux articles 385 ou 407 qu’il sait fausse ou trompeuse.
-> 2000, ch. 9, art. 408; 2003, ch. 19, art. 27; 2014, ch. 12, art. 86.
+- **(5)** Il est interdit à toute personne de faire une déclaration visée à l’alinéa 385(2)i) ou au paragraphe 407(2) qu’elle sait fausse ou trompeuse.
+> 2000, ch. 9, art. 408; 2003, ch. 19, art. 27; 2014, ch. 12, art. 86; 2018, ch. 31, art. 259.
 
 
 
@@ -9197,6 +10836,10 @@ La demande est notifiée au directeur général des élections.
 
 - **(2)** Sous réserve de l’article 348.02, il est interdit à toute personne ou entité, sauf à l’agent enregistré d’un parti enregistré, d’engager les dépenses du parti.
 
+**Dépenses engagées par un agent enregistré autre que l’agent principal**
+
+- **(2.1)** Malgré le paragraphe (2), l’agent enregistré d’un parti enregistré — autre que l’agent principal du parti — peut engager une dépense du parti seulement s’il reçoit préalablement l’autorisation écrite de l’agent principal. L’agent enregistré engage la dépense conformément à l’autorisation.
+
 **Interdiction : contributions et emprunts**
 
 - **(3)** Il est interdit à toute personne ou entité, sauf à l’agent enregistré d’un parti enregistré, d’accepter les contributions apportées au parti ou de contracter des emprunts en son nom.
@@ -9206,7 +10849,7 @@ La demande est notifiée au directeur général des élections.
 - **(4)** Il est interdit à toute personne ou entité, sauf à l’agent enregistré d’un parti enregistré, au nom du parti :
 	- **a)** d’accepter la fourniture de produits ou de services ou la cession de fonds, si la fourniture ou la cession est permise au titre de l’article 364;
 	- **b)** de fournir des produits ou des services ou de céder des fonds, si la fourniture ou la cession est permise au titre de cet article.
-> 2000, ch. 9, art. 426; 2003, ch. 19, art. 36; 2014, ch. 12, art. 86 et 155.
+> 2000, ch. 9, art. 426; 2003, ch. 19, art. 36; 2014, ch. 12, art. 86 et 155; 2018, ch. 31, art. 261.
 
 
 
@@ -9245,6 +10888,53 @@ La demande est notifiée au directeur général des élections.
 
 
 
+##### Plafond des dépenses de publicité partisane
+
+
+
+**Plafond des dépenses de publicité partisane**
+
+**429.1** 
+
+- **(1)** Le plafond des dépenses de publicité partisane d’un parti enregistré pour une période préélectorale est de 1 400 000 $.
+
+**Indexation**
+
+- **(2)** La somme visée au paragraphe (1) est multipliée par le facteur d’ajustement à l’inflation visé à l’article 384, applicable le premier jour de la période préélectorale.
+> 2018, ch. 31, art. 262.
+
+
+
+
+
+**Interdiction : dépenses en trop**
+
+**429.2** 
+
+- **(1)** Il est interdit à l’agent principal d’un parti enregistré d’engager pour le compte du parti des dépenses de publicité partisane dont le total dépasse le plafond établi au titre de l’article 429.1.
+
+**Interdiction : esquiver le plafond**
+
+- **(2)** Il est interdit au parti enregistré d’esquiver ou de tenter d’esquiver ce plafond, notamment en agissant de concert avec un candidat potentiel pour que celui-ci fasse de la publicité partisane de sorte que la valeur totale des dépenses de publicité partisane du candidat qui se rapportent à cette publicité partisane et des dépenses de publicité partisane du parti dépasse le plafond.
+
+**Interdiction : collusion**
+
+- **(3)** Il est interdit au tiers — au sens de l’alinéa a.1) de la définition de tiers à l’article 349 — d’agir de concert avec un parti enregistré pour que celui-ci esquive ce plafond.
+> 2018, ch. 31, art. 262.
+
+
+
+
+
+**Indication de l’autorisation de l’agent dans la publicité partisane**
+
+**429.3** Le parti enregistré — ou toute personne agissant en son nom — qui fait faire de la publicité partisane doit indiquer dans le message publicitaire que sa diffusion est autorisée par l’agent enregistré du parti.
+> 2018, ch. 31, art. 262.
+
+
+
+
+
 ##### Plafond des dépenses électorales
 
 
@@ -9257,18 +10947,19 @@ La demande est notifiée au directeur général des élections.
 	- **a)** 0,735 $ par électeur figurant sur les listes électorales préliminaires ou sur les listes électorales révisées, selon le nombre d’électeurs le plus élevé, dans les circonscriptions où il y a un candidat soutenu par le parti;
 	- **b)** le facteur d’ajustement à l’inflation publié par le directeur général des élections en application de l’article 384, applicable à la date de délivrance du bref ou des brefs.
 
-**Période électorale de plus de trente-sept jours**
+**Plafond : report du jour du scrutin**
 
-- **(2)** Si la période électorale dure plus de trente-sept jours, le plafond établi au titre du paragraphe (1) est augmenté d’une somme égale au produit des éléments suivants :
-	- **a)** un trente-septième de ce plafond;
-	- **b)** la différence entre le nombre de jours de la période électorale et trente-sept.
+- **(2)** Si le gouverneur en conseil ordonne, au titre du paragraphe 59(4), que le scrutin soit ajourné dans une ou plusieurs circonscriptions et que la période électorale soit en conséquence prolongée d’un nombre de jours correspondant dans cette ou ces circonscriptions, le plafond des dépenses électorales d’un parti enregistré — établi au titre du paragraphe (1) — qui soutient un candidat dans la ou les circonscriptions en cause est augmenté d’une somme égale au produit des éléments suivants :
+	- **a)** 0,735 $ par électeur figurant sur les listes électorales préliminaires ou sur les listes électorales révisées, selon le nombre d’électeurs le plus élevé, dans les circonscriptions en cause où il y a un candidat soutenu par le parti, divisé par le nombre de jours de la période électorale avant qu’elle ne soit prolongée;
+	- **b)** le facteur d’ajustement à l’inflation publié par le directeur général des élections en application de l’article 384, applicable à la date de délivrance du bref ou des brefs;
+	- **c)** le nombre de jours de prolongation.
 
 **Sommes exclues des dépenses électorales**
 
 - **(3)** Pour l’application des paragraphes (1) et (2), sont exclues des dépenses électorales d’un parti enregistré :
 	- **a)** les cessions effectuées par le parti ou pour son compte à des candidats à l’élection;
 	- **b)** les sommes engagées par ses agents enregistrés, ou par leurs délégués visés au paragraphe 381(1), qui ont agi hors du cadre de leurs attributions.
-> 2000, ch. 9, art. 430; 2003, ch. 19, art. 38; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 430; 2003, ch. 19, art. 38; 2014, ch. 12, art. 86; 2018, ch. 31, art. 263.
 
 
 
@@ -9282,8 +10973,8 @@ La demande est notifiée au directeur général des élections.
 
 **Interdiction : collusion**
 
-- **(2)** Il est interdit à un parti enregistré et à un tiers — au sens de l’article 349 — d’agir de concert pour que le parti enregistré esquive le plafond visé au paragraphe (1).
-> 2000, ch. 9, art. 431; 2014, ch. 12, art. 86.
+- **(2)** Il est interdit au parti enregistré et au tiers — au sens de l’alinéa b) de la définition de tiers à l’article 349 — d’agir de concert pour que le parti enregistré esquive le plafond visé au paragraphe (1).
+> 2000, ch. 9, art. 431; 2014, ch. 12, art. 86; 2018, ch. 31, art. 264.
 
 
 
@@ -9317,8 +11008,10 @@ La demande est notifiée au directeur général des élections.
 	- **h)** un état de chaque somme provenant d’une contribution dirigée, au sens du paragraphe 365(2), que le parti a cédée à un candidat à la direction, les renseignements visés à l’alinéa d) concernant le donateur et le nom du candidat à la direction à qui la somme a été cédée;
 	- **i)** un état de la valeur commerciale des produits ou des services fournis et des fonds cédés au parti enregistré par une de ses associations enregistrées, par un candidat à l’investiture, par un candidat ou par un candidat à la direction;
 	- **j)** le compte des dépenses électorales pour chaque élection partielle tenue au cours de l’exercice comportant :
-		- **(i)** un état des dépenses payées et des dépenses engagées, notamment un état des dépenses liées aux services d’appels aux électeurs, au sens de l’article 348.01, fournis par un fournisseur de services d’appel, au sens de cet article, indiquant le nom du fournisseur et le montant de ces dépenses,
-		- **(ii)** un état des contributions non monétaires utilisées par le parti;
+		- **(i)** à titre de dépenses électorales :
+			- **(A)** les dépenses payées et les dépenses engagées autres que les dépenses en matière d’accessibilité, notamment un état des dépenses liées aux services d’appels aux électeurs, au sens de l’article 348.01, fournis par un fournisseur de services d’appel, au sens de cet article, indiquant le nom du fournisseur et le montant de ces dépenses,
+			- **(B)** les contributions non monétaires utilisées par le parti à titre de dépenses électorales,
+		- **(ii)** les dépenses engagées en matière d’accessibilité;
 	- **k)** un état de tout prêt consenti au parti au titre de l’article 373, indiquant notamment le montant de celui-ci, le taux d’intérêt, les nom et adresse du prêteur, les dates et montants des remboursements du principal et des paiements d’intérêts et, le cas échéant, les nom et adresse de toute caution et la somme qu’elle garantit;
 	- **l)** un état des contributions reçues et remboursées en tout ou en partie à leur donateur ou dont le parti a disposé en conformité avec la présente loi.
 
@@ -9349,7 +11042,7 @@ La demande est notifiée au directeur général des élections.
 	- **d)** les parties ont convenu d’un calendrier de remboursement et les versements sont effectués suivant ce calendrier;
 	- **e)** la créance est considérée comme irrécouvrable par le créancier et est radiée de ses comptes en conformité avec ses pratiques comptables habituelles;
 	- **f)** toute autre circonstance pouvant expliquer pourquoi la créance demeure impayée.
-> 2000, ch. 9, art. 432; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 432; 2014, ch. 12, art. 86; 2018, ch. 31, art. 265.
 
 
 
@@ -9359,12 +11052,12 @@ La demande est notifiée au directeur général des élections.
 
 **433** 
 
-- **(1)** L’agent principal d’un parti enregistré dont les candidats ont obtenu lors de l’élection générale précédente soit au moins 2 % du nombre de votes validement exprimés, soit au moins 5 % du nombre de votes validement exprimés dans les circonscriptions où le parti a soutenu un candidat est tenu de produire auprès du directeur général des élections un rapport comportant les renseignements énumérés aux alinéas 432(2)a) à d), i) et l) pour chaque trimestre de l’exercice du parti.
+- **(1)** L’agent principal d’un parti enregistré dont les candidats ont obtenu lors de l’élection générale la plus récente soit au moins 2 % du nombre de votes validement exprimés, soit au moins 5 % du nombre de votes validement exprimés dans les circonscriptions où le parti a soutenu un candidat est tenu de produire auprès du directeur général des élections un rapport comportant les renseignements énumérés aux alinéas 432(2)a) à d), i) et l) pour chaque trimestre de l’exercice du parti qui suit cette élection générale, débutant avec le trimestre qui suit immédiatement cette élection générale et se terminant avec le trimestre au cours duquel se tient le jour du scrutin de l’élection générale suivante.
 
 **Délai**
 
 - **(2)** Le rapport trimestriel est produit dans les trente jours suivant la période sur laquelle il porte.
-> 2000, ch. 9, art. 433; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 433; 2014, ch. 12, art. 86; 2018, ch. 31, art. 266.
 
 
 
@@ -9600,7 +11293,7 @@ La demande est notifiée au directeur général des élections.
 
 
 
-##### Compte des dépenses électorales
+##### Rapport des dépenses
 
 
 
@@ -9616,13 +11309,16 @@ La demande est notifiée au directeur général des élections.
 **Contenu du compte**
 
 - **(2)** Le compte des dépenses électorales comporte :
-	- **a)** un état des dépenses payées et des dépenses engagées, notamment un état des dépenses liées aux services d’appels aux électeurs, au sens de l’article 348.01, fournis par un fournisseur de services d’appel, au sens de cet article, indiquant le nom du fournisseur et le montant de ces dépenses;
-	- **b)** un état des contributions non monétaires utilisées par le parti à titre de dépenses électorales.
+	- **a)** à titre de dépenses électorales :
+		- **(i)** les dépenses payées et les dépenses engagées autres que les dépenses en matière d’accessibilité, notamment un état des dépenses liées aux services d’appels aux électeurs, au sens de l’article 348.01, fournis par un fournisseur de services d’appel, au sens de cet article, indiquant le nom du fournisseur et le montant de ces dépenses,
+		- **(ii)** les contributions non monétaires utilisées par le parti à titre de dépenses électorales;
+	- **b)** les dépenses engagées en matière d’accessibilité;
+	- **c)** s’agissant d’une élection générale tenue le jour fixé conformément au paragraphe 56.1(2) ou à l’article 56.2, les dépenses de publicité partisane engagées qui se rapportent à des messages de publicité partisane diffusés pendant la période préélectorale.
 
 **Délai de production**
 
 - **(3)** Les documents visés au paragraphe (1) doivent être produits auprès du directeur général des élections dans les huit mois suivant le jour du scrutin.
-> 2000, ch. 9, art. 437; 2003, ch. 19, art. 41; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 437; 2003, ch. 19, art. 41; 2014, ch. 12, art. 86; 2018, ch. 31, art. 268.
 
 
 
@@ -9768,7 +11464,7 @@ La demande est notifiée au directeur général des élections.
 
 
 
-##### Remboursement des dépenses électorales
+##### Remboursement des dépenses électorales et en matière d’accessibilité
 
 
 
@@ -9776,7 +11472,7 @@ La demande est notifiée au directeur général des élections.
 
 **444** 
 
-- **(1)** Sur réception des documents visés au paragraphe 437(1), le directeur général des élections transmet au receveur général un certificat indiquant la somme qui correspond à 50 % des dépenses électorales payées par les agents enregistrés d’un parti enregistré et mentionnées dans le compte des dépenses électorales si, à la fois :
+- **(1)** Sur réception des documents visés au paragraphe 437(1), le directeur général des élections transmet au receveur général un certificat indiquant la somme qui correspond au total de 90 % — jusqu’à concurrence de 250 000 $ — des dépenses en matière d’accessibilité du parti enregistré payées par ses agents enregistrés et mentionnées dans le compte des dépenses électorales et de 50 % des dépenses électorales du parti enregistré, payées par ses agents enregistrés et mentionnées dans ce compte si, à la fois :
 	- **a)** il est convaincu — malgré toute déclaration visée à l’alinéa 438(2)d) que le vérificateur du parti a joint à son rapport au titre du paragraphe 438(1) — que le parti et son agent principal se sont conformés aux articles 437 à 443;
 	- **b)** le rapport du vérificateur ne comporte aucune des déclarations visées aux alinéas 438(2)a) à c);
 	- **c)** les candidats soutenus par le parti ont obtenu :
@@ -9794,7 +11490,7 @@ La demande est notifiée au directeur général des élections.
 **Paiement du remboursement**
 
 - **(3)** Sur réception du certificat, le receveur général paie au parti visé, sur le Trésor, la somme qui y est précisée.
-> 2000, ch. 9, art. 444; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 444; 2014, ch. 12, art. 86; 2018, ch. 31, art. 270.
 
 
 
@@ -9933,16 +11629,58 @@ La présente loi s’applique aux renseignements visés au présent paragraphe c
 
 
 
-**Interdictions : période électorale**
+**Interdiction : engager des dépenses de publicité partisane**
+
+**449.1** 
+
+- **(1)** Il est interdit à l’association de circonscription d’un parti enregistré :
+	- **a)** d’engager des dépenses de publicité partisane qui se rapportent à des messages de publicité partisane qui favorisent ou contrecarrent un parti enregistré ou un parti admissible et qui sont diffusés pendant la période préélectorale;
+	- **b)** de diffuser ou faire diffuser pendant la période préélectorale des messages de publicité partisane qui favorisent ou contrecarrent un parti enregistré ou un parti admissible.
+
+**Exception**
+
+- **(2)** Malgré l’alinéa(1)a), l’association de circonscription d’un parti enregistré peut engager des dépenses de publicité partisane dans la mesure où les produits ou les services ayant fait l’objet des dépenses engagées sont fournis à ce parti, si le paragraphe 364(2) le permet, ou vendus à ce parti.
+
+**Exception**
+
+- **(3)** Malgré le paragraphe (1), l’association de circonscription d’un parti enregistré peut :
+	- **a)** engager des dépenses de publicité partisane qui se rapportent à des messages de publicité partisane visés à l’alinéa (1)a) dans la mesure où ces messages sont destinés à être diffusés exclusivement ou essentiellement dans la circonscription de l’association;
+	- **b)** diffuser ou faire diffuser des messages de publicité partisane visés à l’alinéa (1)b), dans la mesure où ces messages sont diffusés exclusivement ou essentiellement dans la circonscription de l’association.
+> 2018, ch. 31, art. 271.
+
+
+
+
+
+**Indication de l’autorisation de l’agent de circonscription dans la publicité partisane**
+
+**449.2** L’association enregistrée qui fait faire de la publicité partisane doit indiquer dans le message publicitaire que sa diffusion est autorisée par l’un des agents de circonscription de l’association.
+> 2018, ch. 31, art. 271.
+
+
+
+
+
+**Interdiction : engager des dépenses électorales**
 
 **450** 
 
-- **(1)** Il est interdit à l’association de circonscription d’un parti enregistré d’engager, au cours d’une période électorale, des dépenses de publicité électorale, au sens de l’article 319, ou de diffuser ou faire diffuser une telle publicité pendant cette période.
+- **(1)** Il est interdit à l’association de circonscription d’un parti enregistré d’engager des dépenses électorales.
 
-**Aucune dépense : impossibilité d’annuler la diffusion**
+**Dépenses électorales : associations de circonscription**
 
-- **(2)** Dans le cas d’une élection générale qui n’a pas lieu à la date prévue au paragraphe 56.1(2) ou à l’article 56.2, ou dans le cas d’une élection partielle, l’association de circonscription n’a pas engagé de dépenses de publicité électorale, au sens de l’article 319, ou n’a pas diffusé ou fait diffuser une telle publicité si, à la délivrance du bref ou des brefs, elle ne peut annuler la diffusion de la publicité en cause.
-> 2000, ch. 9, art. 450; 2003, ch. 19, art. 43; 2014, ch. 12, art. 86.
+- **(1.1)** Pour l’application du paragraphe (1) :
+	- **a)** l’expression dépenses électorales s’entend au sens du paragraphe 376(1), la mention de « un parti enregistré ou un candidat » à ce paragraphe valant mention de « une association de circonscription »;
+	- **b)** les paragraphes 376(2) à (4) s’appliquent, à l’exception de l’alinéa 376(3)c), la mention de « par un parti enregistré ou par un candidat » au paragraphe 376(4) valant mention de « par une association de circon­scription ».
+
+**Exception**
+
+- **(1.2)** Malgré le paragraphe (1), l’association de circon­scription d’un parti enregistré peut engager des dépenses électorales dans la mesure où les biens ou les services ayant fait l’objet des frais engagés ou des contributions non monétaires — ou les produits ou les services acceptés — sont fournis à ce parti, à une association enregistrée de ce parti ou à un candidat soutenu par ce parti, si l’alinéa 364(2)b) le permet, ou vendus à ce parti ou à un candidat soutenu par ce parti.
+
+**Impossibilité d’annuler la diffusion**
+
+- **(2)** Dans le cas d’une élection générale qui n’a pas lieu le jour fixé conformément au paragraphe 56.1(2) ou à l’article 56.2, ou dans le cas d’une élection partielle, l’association de circonscription est réputée ne pas avoir engagé de dépenses électorales liées à de la publicité électorale si, à la délivrance du bref ou des brefs, elle ne peut annuler la diffusion du message de publicité électorale en cause.
+> 2000, ch. 9, art. 450; 2003, ch. 19, art. 43; 2014, ch. 12, art. 86; 2018, ch. 31, art. 271.
 
 
 
@@ -10131,10 +11869,10 @@ La présente loi s’applique aux renseignements visés au présent paragraphe c
 
 **Confirmation annuelle des renseignements**
 
-**464** Au plus tard le 31 mai de chaque année — ou au plus tard le 31 juillet si une campagne électorale est en cours le 31 mai dans la circonscription — les associations enregistrées produisent auprès du directeur général des élections :
+**464** Au plus tard le 31 mai de chaque année, les associations enregistrées produisent auprès du directeur général des élections :
 - **a)** une déclaration attestée par leur premier dirigeant confirmant l’exactitude des renseignements les concernant qui figurent dans le registre des associations de circonscription;
 - **b)** dans le cas où ces renseignements ont été modifiés, le rapport prévu au paragraphe 463(1).
-> 2000, ch. 9, art. 464; 2003, ch. 19, art. 48; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 464; 2003, ch. 19, art. 48; 2014, ch. 12, art. 86; 2018, ch. 31, art. 272.
 
 
 
@@ -10228,14 +11966,14 @@ La présente loi s’applique aux renseignements visés au présent paragraphe c
 
 - **(3)** L’association enregistrée pour une circonscription dont les limites sont modifiées en raison d’un décret de représentation électorale pris au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md) qui ne donne pas l’avis prévu au paragraphe (1) est radiée à la date de prise d’effet du décret au titre du paragraphe 25(1) de cette loi. Dans les six mois suivant cette date, l’association peut, malgré l’alinéa 447c), fournir des produits ou céder des fonds au parti enregistré auquel elle est affiliée ou à une ou plusieurs associations enregistrées de celui-ci. Ces cessions ne constituent pas des contributions pour l’application de la présente loi.
 
-**Préenregistrement**
+**Enregistrement**
 
-- **(4)** Dès la prise d’une proclamation au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md) relativement à un décret de représentation, il peut être présenté, au titre de l’article 448, une demande d’enregistrement d’une association de circonscription pour une circonscription créée par le décret ou dont les limites sont modifiées par celui-ci. L’enregistrement ne peut prendre effet avant l’entrée en vigueur du décret.
+- **(4)** Dès la prise d’une proclamation au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md) relativement à un décret de représentation, il peut être présenté, au titre de l’article 448, une demande d’enregistrement d’une association de circonscription pour une circonscription créée par le décret ou dont les limites sont modifiées par celui-ci. L’association de circonscription peut être enregistrée à tout moment à compter de la date de la demande.
 
 **Présomption**
 
 - **(5)** L’auteur de la demande d’enregistrement est réputé constituer une association de circonscription à compter de la réception de la demande par le directeur général des élections.
-> 2000, ch. 9, art. 469; 2003, ch. 19, art. 52; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 469; 2003, ch. 19, art. 52; 2014, ch. 12, art. 86; 2018, ch. 31, art. 273.
 
 
 
@@ -10445,7 +12183,7 @@ La présente loi s’applique aux renseignements visés au présent paragraphe c
 
 **475.6** 
 
-- **(1)** Le vérificateur de l’association enregistrée qui a accepté des contributions de 5 000 $ ou plus au total ou a engagé des dépenses de 5 000 $ ou plus au total au cours d’un exercice fait rapport à l’agent financier de sa vérification du rapport financier de l’association. Il fait, selon les normes de vérification généralement reconnues, les vérifications qui lui permettent d’établir si le rapport financier présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+- **(1)** Le vérificateur de l’association enregistrée qui a accepté des contributions de 10 000 $ ou plus au total ou a engagé des dépenses de 10 000 $ ou plus au total au cours d’un exercice fait rapport à l’agent financier de sa vérification du rapport financier de l’association. Il fait, selon les normes de vérification généralement reconnues, les vérifications qui lui permettent d’établir si le rapport financier présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
 
 **Cas où une déclaration est requise**
 
@@ -10457,7 +12195,7 @@ La présente loi s’applique aux renseignements visés au présent paragraphe c
 **Droit d’accès aux archives**
 
 - **(3)** Il a accès, à tout moment convenable, à la totalité des documents de l’association et a le droit d’exiger des agents de circonscription de l’association les renseignements et explications qui, à son avis, peuvent être nécessaires à l’établissement de son rapport.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 274.
 
 
 
@@ -10487,7 +12225,11 @@ La présente loi s’applique aux renseignements visés au présent paragraphe c
 **Paiement**
 
 - **(2)** Sur réception du certificat, le receveur général paie au vérificateur visé, sur le Trésor, la somme qui y est précisée.
-> 2014, ch. 12, art. 86.
+
+**Indexation**
+
+- **(3)** La somme de 1 500 $ visée au paragraphe (1) est multipliée par le facteur d’ajustement à l’inflation visé à l’article 384 applicable à la date du dernier jour de l’exercice de l’association enregistrée auquel le rapport du vérificateur se rapporte.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 275.
 
 
 
@@ -10604,22 +12346,14 @@ La demande est notifiée au directeur général des élections.
 
 
 
-#### Définitions
+#### Définition
 
 
 
-**Définitions**
+**Définition de date de désignation**
 
-**476** Les définitions qui suivent s’appliquent à la présente section.
-
-***date de désignation*** Date à laquelle une course à l’investiture arrive à sa conclusion. (*selection date*)
-
-***dépense personnelle*** Toute dépense raisonnable de nature personnelle engagée par un candidat à l’investiture ou pour son compte dans le cadre d’une course à l’investiture, notamment :
-- **a)** au titre du déplacement et du séjour;
-- **b)** au titre de la garde d’un enfant;
-- **c)** au titre de la garde d’une personne, ayant une incapacité physique ou mentale, qui est habituellement sous sa garde;
-- **d)** dans le cas d’un candidat qui a une déficience, au titre des dépenses supplémentaires liées à celle-ci. (*personal expenses*)
-> 2000, ch. 9, art. 476; 2003, ch. 19, art. 56; 2014, ch. 12, art. 86.
+**476** Dans la présente section, ***date de désignation*** s’entend de la date à laquelle une course à l’investiture arrive à sa conclusion. (*selection date*)
+> 2000, ch. 9, art. 476; 2003, ch. 19, art. 56; 2014, ch. 12, art. 86; 2018, ch. 31, art. 277.
 
 
 
@@ -10779,9 +12513,13 @@ La demande est notifiée au directeur général des élections.
 
 - **(2)** L’intitulé du compte précise le nom du titulaire avec la mention suivante : « (*nom de l’agent financier*), agent financier ».
 
-**Opérations financières**
+**Sommes reçues**
 
-- **(3)** Le compte est débité ou crédité de tous les fonds payés ou reçus pour la course à l’investiture du candidat.
+- **(3)** Le compte est crédité de toutes les sommes reçues pour la campagne d’investiture du candidat à l’investiture, sauf si les sommes reçues proviennent de ses propres fonds et qu’elles sont utilisées pour payer une dépense relative à un litige ou une dépense personnelle.
+
+**Sommes payées**
+
+- **(3.1)** Le compte est débité de toutes les sommes payées pour la campagne d’investiture du candidat à l’investiture, sauf les sommes payées à même ses propres fonds pour une dépense relative à un litige ou une dépense personnelle.
 
 **Fermeture du compte**
 
@@ -10790,7 +12528,7 @@ La demande est notifiée au directeur général des élections.
 **État de clôture**
 
 - **(5)** Après la fermeture du compte, il en produit auprès du directeur général des élections l’état de clôture.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 278.
 
 
 
@@ -10814,7 +12552,11 @@ La demande est notifiée au directeur général des élections.
 
 **Interdiction : paiement de dépenses**
 
-- **(4)** Il est interdit à toute personne ou entité, sauf à l’agent financier d’un candidat à l’investiture, de payer les dépenses de campagne d’investiture de celui-ci, autres que les dépenses personnelles.
+- **(4)** Il est interdit à toute personne ou entité, sauf à l’agent financier d’un candidat à l’investiture, de payer les dépenses de campagne d’investiture de celui-ci, autres que :
+	- **a)** les dépenses relatives à un litige;
+	- **b)** les frais de déplacement et de séjour;
+	- **c)** les dépenses personnelles;
+	- **d)** les menues dépenses visées à l’article 381.
 
 **Interdiction : engagement de dépenses**
 
@@ -10822,8 +12564,8 @@ La demande est notifiée au directeur général des élections.
 
 **Interdiction : dépenses personnelles**
 
-- **(6)** Il est interdit à toute personne ou entité, sauf au candidat à l’investiture ou à son agent financier, de payer les dépenses personnelles du candidat.
-> 2014, ch. 12, art. 86 et 155.
+- **(6)** Il est interdit à toute personne ou entité, sauf au candidat à l’investiture et à son agent financier, de payer les dépenses du candidat visées aux alinéas (4)a) à c).
+> 2014, ch. 12, art. 86 et 155; 2018, ch. 31, art. 279.
 
 
 
@@ -10832,9 +12574,9 @@ La demande est notifiée au directeur général des élections.
 **Plafond des dépenses de course à l’investiture**
 
 **476.67** Le plafond des dépenses de course à l’investiture pour les candidats à l’investiture dans une circonscription est le suivant :
-- **a)** 20 % du plafond des dépenses électorales établi au titre de l’article 477.49 pour l’élection d’un candidat dans cette circonscription lors de l’élection générale précédente, dans le cas où les limites de la circonscription n’ont pas été modifiées depuis lors;
+- **a)** 20 % du plafond des dépenses électorales établi au titre du paragraphe 477.49(1) pour l’élection d’un candidat dans cette circonscription lors de l’élection générale précédente, dans le cas où les limites de la circonscription n’ont pas été modifiées depuis lors;
 - **b)** le plafond établi par le directeur général des élections, dans les autres cas.
-> 2014, ch. 12, art. 86; 2018, ch. 20, art. 4.
+> 2014, ch. 12, art. 86; 2018, ch. 20, art. 4; 2018, ch. 31, art. 280.
 
 
 
@@ -10951,21 +12693,24 @@ Le cas échéant, le candidat à l’investiture en informe le directeur génér
 
 - **(2)** Le compte comporte les renseignements suivants :
 	- **a)** un état des dépenses de course à l’investiture;
-	- **a.1)** un état des dépenses de campagne d’investiture, autres que les dépenses de course à l’investiture;
+	- **a.1)** un état des dépenses relatives à un litige incluant,parmi celles-ci, une indication de celles qui ont étépayées d’une source autre que le compte bancaire viséau paragraphe 476.65(1) et la source des fonds utiliséspour les payer;
+	- **a.2)** un état des frais de déplacement et de séjour;
+	- **a.3)** un état des dépenses personnelles incluant, parmicelles-ci, une indication de celles qui ont été payéesd’une source autre que le compte bancaire visé au paragraphe476.65(1) et la source des fonds utilisés pourles payer;
+	- **a.4)** un état des dépenses de campagne d’investiture,autres que les dépenses visées aux alinéas a) à a.3);
 	- **b)** un état des créances faisant l’objet d’une poursuite en vertu de l’article 476.74;
 	- **c)** un état des créances impayées, y compris celles découlant des prêts consentis au candidat au titre de l’article 373;
 	- **d)** un état de tout prêt consenti au candidat au titre de l’article 373, indiquant notamment le montant de celui-ci, le taux d’intérêt, les nom et adresse du prêteur, les dates et montants des remboursements du principal et des paiements d’intérêts et le solde du principal à la fin de chaque année civile ainsi que, le cas échéant, les nom et adresse de toute caution et la somme qu’elle garantit;
 	- **e)** la somme des contributions reçues par le candidat;
 	- **f)** le nombre de donateurs;
 	- **g)** les nom et adresse de chaque donateur qui a apporté au candidat une ou plusieurs contributions d’une valeur totale supérieure à 200 $, la somme de ces contributions, le montant de chacune d’elles et la date à laquelle le candidat l’a reçue;
-	- **h)** un état de la valeur commerciale des produits ou des services fournis et des fonds cédés par le candidat à l’investiture à un parti enregistré, à une association enregistrée ou à un candidat;
+	- **h)** un état des fonds cédés par le candidat à l’investiture à un parti enregistré, à une association enregistrée ou à un candidat;
 	- **i)** un état de la valeur commerciale des produits ou des services fournis par un parti enregistré ou une association enregistrée au candidat à l’investiture;
 	- **j)** un état de la valeur commerciale des produits ou des services fournis et des fonds cédés par un candidat à sa campagne à titre de candidat à l’investiture;
 	- **k)** un état des contributions reçues et remboursées en tout ou en partie à leur donateur ou dont il a été disposé en conformité avec la présente loi.
 
 **Pièces justificatives**
 
-- **(3)** L’agent financier du candidat à l’investiture produit auprès du directeur général des élections, avec le compte de campagne d’investiture, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt, les chèques annulés ainsi que l’état des dépenses personnelles visé au paragraphe 476.82(1).
+- **(3)** L’agent financier du candidat à l’investiture produit auprès du directeur général des élections, avec le compte de campagne d’investiture, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt, les chèques annulés ainsi que les états des dépenses visés au paragraphe 476.82(1).
 
 **Documents supplémentaires**
 
@@ -10991,7 +12736,8 @@ Le cas échéant, le candidat à l’investiture en informe le directeur génér
 
 - **(9)** Lorsque le candidat décède avant l’expiration du délai établi au paragraphe (8) sans avoir adressé sa déclaration :
 	- **a)** il est réputé avoir adressé la déclaration en conformité avec ce paragraphe;
-	- **b)** l’agent financier est réputé avoir transmis la déclaration au directeur général des élections en conformité avec le paragraphe (1).
+	- **b)** l’agent financier est réputé avoir transmis la déclaration au directeur général des élections en conformité avec le paragraphe (1);
+	- **c)** le directeur général des élections est réputé, pour l’application de l’article 476.901, avoir reçu la déclaration.
 
 **Paiement des créances impayées**
 
@@ -11026,7 +12772,7 @@ Le cas échéant, le candidat à l’investiture en informe le directeur génér
 **Date de désignation**
 
 - **(16)** Aux paragraphes (7), (8), (11) et (12), dans le cas où la date de désignation d’une course à l’investiture tombe dans les trente jours précédant une période électorale pour la circonscription ou pendant celle-ci, la mention de la date de désignation vaut mention du jour du scrutin.
-> 2014, ch. 12, art. 86; 2018, ch. 20, art. 6.
+> 2014, ch. 12, art. 86; 2018, ch. 20, art. 6; 2018, ch. 31, art. 282 et 399.
 
 
 
@@ -11141,13 +12887,26 @@ Le cas échéant, le candidat à l’investiture en informe le directeur génér
 **476.82** 
 
 - **(1)** Le candidat à l’investiture adresse à son agent financier, dans les trois mois suivant la date de désignation et sur le formulaire prescrit :
-	- **a)** un état des dépenses personnelles qu’il a payées et les pièces justificatives afférentes;
-	- **b)** en l’absence de telles dépenses, une déclaration écrite faisant état de ce fait.
+	- **a)** un état :
+		- **(i)** des frais de déplacement et de séjour payés par le candidat,
+		- **(ii)** des dépenses relatives à un litige et des dépenses personnelles payées par le candidat incluant, parmi celles-ci, une indication de celles qui ont été payées d’une source autre que le compte bancaire visé au paragraphe 476.65(1) et la source des fonds utilisés pour les payer;
+	- **b)** en l’absence de frais de déplacement et de séjour, de dépenses relatives à un litige et de dépenses personnelles payés par le candidat, une déclaration écrite faisant état de ce fait.
+
+**Pièces justificatives**
+
+- **(1.1)** Le candidat à l’investiture adresse à son agent financier, avec l’état des dépenses visé à l’alinéa (1)a), les pièces justificatives afférentes au paiement des dépenses exposées dans l’état.
 
 **Décès du candidat**
 
 - **(2)** Le paragraphe (1) ne s’applique pas lorsque le candidat meurt avant l’expiration du délai imparti par ce paragraphe et avant d’avoir fait parvenir à son agent financier l’état ou la déclaration qui y sont visés.
-> 2014, ch. 12, art. 86.
+
+**Paiements subséquents de dépenses relatives à un litige**
+
+- **(3)** Si le candidat à l’investiture paye une dépense relative à un litige d’une source autre que le compte bancaire visé au paragraphe 476.65(1) après avoir adressé l’état des dépenses visé au paragraphe (1), aussitôt que possible après avoir fait le paiement, il :
+	- **a)** en avise son agent financier;
+	- **b)** l’informe de la dépense et de la source des fonds utilisés pour la payer;
+	- **c)** lui adresse les pièces justificatives afférentes au paiement.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 283.
 
 
 
@@ -11307,12 +13066,46 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**Interdiction : déclaration fausse ou trompeuse**
+
+**476.891** Il est interdit au candidat à l’investiture d’adresser à son agent financier la déclaration visée à l’alinéa 476.75(1)d) dont il sait ou devrait normalement savoir qu’elle est fausse ou trompeuse.
+> 2018, ch. 31, art. 284.
+
+
+
+
+
 **Interdiction : document faux, trompeur ou incomplet**
 
-**476.9** Il est interdit au candidat à l’investiture ou à son agent financier de produire auprès du directeur général des élections un document visé aux paragraphes 476.75(1), (10), (11), (12) ou (15) :
+**476.9** Il est interdit à l’agent financier du candidat à l’investiture de produire auprès du directeur général des élections un document visé aux paragraphes 476.75(1), (10), (11), (12) ou (15) :
 - **a)** dont il sait ou devrait normalement savoir qu’il contient des renseignements faux ou trompeurs sur un point important;
-- **b)** qui ne contient pas, pour l’essentiel, dans le cas d’un document visé au paragraphe 476.75(1), tous les renseignements exigés par le paragraphe 476.75(2) ou, dans le cas d’un document visé aux paragraphes 476.75(10), (11), (12) ou (15), tous ceux exigés par le paragraphe en cause.
-> 2014, ch. 12, art. 86.
+- **b)** qui ne contient pas, pour l’essentiel, dans le cas d’un document visé à l’alinéa 476.75(1)a), tous les renseignements exigés par le paragraphe 476.75(2) ou, dans le cas d’un document visé aux paragraphes 476.75(10), (11), (12) ou (15), tous ceux exigés par le paragraphe en cause.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 285.
+
+
+
+
+
+##### Paiement des frais de vérification
+
+
+
+**Certificat**
+
+**476.901** 
+
+- **(1)** Sur réception des documents visés au paragraphe 476.75(1), notamment le rapport du vérificateur, ainsi que d’une copie de la facture de celui-ci pour le rapport, le directeur général des élections transmet au receveur général un certificat indiquant le plus élevé des montants suivants :
+	- **a)** le montant des dépenses engagées pour la vérification, jusqu’à concurrence du moins élevé de 3 % des dépenses de course à l’investiture du candidat et 1 500 $;
+	- **b)** 250 $.
+
+**Paiement**
+
+- **(2)** Sur réception du certificat, le receveur général paie au vérificateur, sur le Trésor, la somme qui y est précisée.
+
+**Indexation**
+
+- **(3)** Les montants de 1 500 $ visé à l’alinéa (1)a) et de 250 $ visé à l’alinéa (1)b) sont multipliés par le facteur d’ajustement à l’inflation visé à l’article 384 applicable à la date de désignation.
+> 2018, ch. 31, art. 285.
 
 
 
@@ -11324,8 +13117,14 @@ La demande est notifiée au directeur général des élections.
 
 **Calcul de l’excédent**
 
-**476.91** L’excédent des fonds de course à l’investiture qu’un candidat à l’investiture reçoit à l’égard de sa course à l’investiture est l’excédent de la somme des contributions acceptées par son agent financier au nom du candidat et de toute autre recette non remboursable du candidat au titre de sa campagne d’investiture sur les dépenses de campagne d’investiture payées en conformité avec la présente loi et les cessions visées à l’alinéa 364(5)a).
-> 2014, ch. 12, art. 86.
+**476.91** 
+
+- **(1)** L’excédent des fonds de course à l’investiture qu’un candidat à l’investiture reçoit à l’égard de sa course à l’investiture est l’excédent de la somme des contributions acceptées par son agent financier au nom du candidat, du montant reçu au titre de la vente visée au paragraphe (2) et de toute autre recette non remboursable du candidat au titre de sa campagne d’investiture devant être créditée au compte bancaire visé au paragraphe 476.65(1) sur la somme des dépenses de campagne d’investiture payées sur ce compte bancaire et des cessions visées à l’alinéa 364(5)a).
+
+**Vente de biens immobilisés**
+
+- **(2)** Avant qu’il ne soit disposé de l’excédent des fonds de course à l’investiture conformément aux articles 476.92 et 476.93, l’agent financier du candidat à l’investiture vend à leur juste valeur marchande les biens immobilisés dont l’acquisition constitue une dépense de campagne d’investiture.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 286.
 
 
 
@@ -11388,8 +13187,8 @@ La demande est notifiée au directeur général des élections.
 
 **Présomption**
 
-**477** Pour l’application de la section 1 de la présente partie et de la présente section, exception faite des articles 477.89 à 477.95, le candidat est réputé avoir été candidat à compter du moment où soit il accepte la fourniture de produits ou de services ou la cession de fonds visées à l’article 364 ou une contribution, soit il contracte un emprunt au titre de l’article 373, soit il engage une dépense de campagne au sens de l’article 375.
-> 2000, ch. 9, art. 477; 2014, ch. 12, art. 86.
+**477** Pour l’application de la section 1 de la présente partie et de la présente section, exception faite des articles 477.89 à 477.95, le candidat est réputé avoir été candidat à compter du moment où soit il accepte la fourniture de produits ou de services ou la cession de fonds visées à l’article 364 ou une contribution, soit il contracte un emprunt au titre de l’article 373, soit il engage une dépense de campagne au sens du paragraphe 375(1).
+> 2000, ch. 9, art. 477; 2014, ch. 12, art. 86; 2018, ch. 31, art. 287.
 
 
 
@@ -11399,12 +13198,15 @@ La demande est notifiée au directeur général des élections.
 
 **477.1** 
 
-- **(1)** Tout candidat est tenu de nommer un agent officiel avant soit d’accepter la fourniture de produits ou de services ou la cession de fonds visées à l’article 364 ou une contribution, soit de contracter un emprunt au titre de l’article 373, soit d’engager une dépense de campagne au sens de l’article 375.
+- **(1)** Tout candidat est tenu de nommer un agent officiel avant soit d’accepter la fourniture de produits ou de services ou la cession de fonds visées à l’article 364 ou une contribution, soit de contracter un emprunt au titre de l’article 373, soit d’engager une dépense de campagne au sens du paragraphe 375(1).
 
-**Nomination du vérificateur**
+**Nomination d’un vérificateur**
 
-- **(2)** Il nomme en même temps un vérificateur.
-> 2014, ch. 12, art. 86.
+- **(2)** Le candidat nomme sans délai un vérificateur si, selon le cas :
+	- **a)** il accepte des contributions de 10 000 $ ou plus au total;
+	- **b)** il engage des dépenses de campagne de 10 000 $ ou plus au total;
+	- **c)** il obtient au moins 10 % du nombre de votes validement exprimés dans la circonscription où il est candidat.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 288.
 
 
 
@@ -11532,9 +13334,13 @@ La demande est notifiée au directeur général des élections.
 
 - **(2)** L’intitulé du compte précise le nom du titulaire avec la mention suivante : « (*nom de l’agent officiel*), agent officiel ».
 
-**Opérations financières**
+**Sommes reçues**
 
-- **(3)** Le compte est débité ou crédité de toutes les sommes payées ou reçues pour la campagne électorale du candidat.
+- **(3)** Le compte est crédité de toutes les sommes reçues pour la campagne du candidat, sauf si les sommes reçues proviennent de ses propres fonds et qu’elles sont utilisées pour payer une dépense relative à un litige ou une dépense personnelle.
+
+**Sommes payées**
+
+- **(3.1)** Le compte est débité de toutes les sommes payées pour la campagne du candidat, sauf les sommes payées à même ses propres fonds pour une dépense relative à un litige ou une dépense personnelle.
 
 **Fermeture du compte**
 
@@ -11543,7 +13349,7 @@ La demande est notifiée au directeur général des élections.
 **État de clôture**
 
 - **(5)** Après la fermeture du compte, il en produit auprès du directeur général des élections l’état de clôture.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 289.
 
 
 
@@ -11567,42 +13373,33 @@ La demande est notifiée au directeur général des élections.
 
 **Interdiction : paiement de dépenses**
 
-- **(4)** Il est interdit à toute personne ou entité, sauf à l’agent officiel, de payer les dépenses de campagne du candidat, autres que les menues dépenses visées à l’article 381 et les dépenses personnelles du candidat.
+- **(4)** Il est interdit à toute personne ou entité, sauf à l’agent officiel d’un candidat, de payer les dépenses de campagne du candidat, autres que :
+	- **a)** les dépenses relatives à un litige;
+	- **b)** les frais de déplacement et de séjour;
+	- **c)** les dépenses personnelles;
+	- **d)** les menues dépenses visées à l’article 381.
 
 **Interdiction : engagement de dépenses**
 
 - **(5)** Il est interdit à toute personne ou entité, sauf à l’agent officiel, au candidat et à la personne autorisée visée à l’article 477.55, d’engager les dépenses de campagne du candidat.
 
+**Dépenses électorales engagées par le candidat**
+
+- **(5.1)** Malgré le paragraphe (5), le candidat peut engager une dépense électorale seulement s’il reçoit préalablement l’autorisation écrite de son agent officiel. Le candidat engage la dépense conformément à l’autorisation.
+
 **Interdiction : dépenses personnelles**
 
-- **(6)** Il est interdit à toute personne ou entité, sauf au candidat et à son agent officiel, de payer les dépenses personnelles du candidat.
+- **(6)** Il est interdit à toute personne ou entité, sauf au candidat et à son agent officiel, de payer les dépenses du candidat visées aux alinéas (4)a) à c).
 
 **Exceptions**
 
 - **(7)** Les paragraphes (4) et (5) ne s’appliquent pas aux agents enregistrés d’un parti enregistré qui paient ou engagent des dépenses de campagne du chef du parti.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 290.
 
 
 
 
-
-##### Plafond des dépenses relatives aux avis de réunion d’investiture
-
-
-
-**Plafond**
-
-**477.48** 
-
-- **(1)** Les dépenses faites pour donner avis de la tenue, pendant une période électorale, de réunions dont le but principal est l’investiture d’un candidat à une élection dans une circonscription ne peuvent dépasser de plus de 1 % le plafond des dépenses électorales établi :
-	- **a)** pour cette circonscription lors de l’élection générale antérieure, dans le cas où ses limites n’ont pas été modifiées depuis cette date;
-	- **b)** par le directeur général des élections, dans les autres cas.
-
-**Interdiction**
-
-- **(2)** Il est interdit au candidat, à l’agent officiel ou à la personne autorisée visée à l’article 477.55 d’engager ou de faire engager des dépenses dont le total dépasse le plafond prévu au paragraphe (1) pour donner avis au titre de ce paragraphe.
-> 2014, ch. 12, art. 86.
-
+**477.48** [Abrogé, 2018, ch. 31, art. 291]
 
 
 
@@ -11617,12 +13414,12 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Le plafond des dépenses électorales des candidats dans une circonscription s’entend du produit du montant de base établi en conformité avec l’article 477.5 et du facteur d’ajustement à l’inflation établi en conformité avec l’article 384 à la date de délivrance du bref.
 
-**Période électorale de plus de trente-sept jours**
+**Plafond : report du jour du scrutin**
 
-- **(2)** Si la période électorale dure plus de trente-sept jours, le plafond établi au titre du paragraphe (1) est augmenté d’une somme égale au produit des éléments suivants :
-	- **a)** un trente-septième de ce plafond;
-	- **b)** la différence entre le nombre de jours de la période électorale et trente-sept.
-> 2014, ch. 12, art. 86.
+- **(2)** Si le gouverneur en conseil ordonne, au titre du paragraphe 59(4), que le jour du scrutin soit reporté dans une circonscription et que la période électorale soit en conséquence prolongée d’un nombre de jours correspondant dans cette circonscription, le plafond des dépenses électorales d’un candidat dans cette circonscription — établi au titre du paragraphe (1) — est augmenté d’une somme égale au produit des éléments suivants :
+	- **a)** le plafond établi au titre du paragraphe (1) divisé par le nombre de jours de la période électorale avant qu’elle ne soit prolongée;
+	- **b)** le nombre de jours de prolongation.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 292.
 
 
 
@@ -11760,6 +13557,15 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**Interdiction : contracter sans autorisation**
+
+**477.551** Il est interdit à la personne autorisée au titre de l’article 477.55 de conclure un contrat relatif à la campagne électorale qui n’est pas conforme à l’autorisation écrite donnée par l’agent officiel au titre de cet article.
+> 2018, ch. 31, art. 293.
+
+
+
+
+
 **Paiements tardifs : directeur général des élections**
 
 **477.56** 
@@ -11809,7 +13615,7 @@ Le cas échéant, le candidat en informe le directeur général des élections.
 
 - **(1)** L’agent officiel d’un candidat produit auprès du directeur général des élections pour une élection :
 	- **a)** un compte de campagne électorale exposant le financement et les dépenses de campagne du candidat dressé sur le formulaire prescrit;
-	- **b)** le rapport, afférent au compte, fait par le vérificateur en application de l’article 477.62;
+	- **b)** dans les cas où un vérificateur doit être nommé au titre du paragraphe 477.1(2), le rapport, afférent au compte, fait par le vérificateur en application de l’article 477.62;
 	- **c)** une déclaration de l’agent officiel attestant que le compte est complet et précis, effectuée sur le formulaire prescrit;
 	- **d)** une déclaration du candidat attestant que le compte est complet et précis, effectuée sur le formulaire prescrit.
 
@@ -11817,7 +13623,14 @@ Le cas échéant, le candidat en informe le directeur général des élections.
 
 - **(2)** Le compte comporte les renseignements suivants :
 	- **a)** un état des dépenses électorales, notamment un état des dépenses électorales liées aux services d’appels aux électeurs, au sens de l’article 348.01, fournis par un fournisseur de services d’appel, au sens de cet article, indiquant le nom du fournisseur et le montant de ces dépenses;
-	- **b)** un état des dépenses de campagne, autres que les dépenses électorales, notamment un état des dépenses de campagne liées aux services d’appels aux électeurs, au sens de l’article 348.01, fournis par un fournisseur de services d’appel, au sens de cet article, indiquant le nom du fournisseur et le montant de ces dépenses;
+	- **a.1)** un état des dépenses relatives à un litige incluant, parmi celles-ci, une indication de celles qui ont été payées d’une source autre que le compte bancaire visé au paragraphe 477.46(1) et la source des fonds utilisés pour les payer;
+	- **a.2)** un état des frais de déplacement et de séjour incluant, parmi celles-ci, une indication de celles qui ont été engagées pour les déplacements et les séjours effectués pendant la période électorale;
+	- **a.3)** un état des dépenses en matière d’accessibilité;
+	- **a.4)** un état des dépenses personnelles incluant, parmi celles-ci, une indication de celles :
+		- **(i)** entraînées au titre de la garde d’un enfant,
+		- **(ii)** entraînées au titre des alinéas 378(1)c) et d),
+		- **(iii)** payées d’une source autre que le compte bancaire visé au paragraphe 477.46(1) et la source des fonds utilisés pour les payer;
+	- **b)** un état des dépenses de campagne, autres que les dépenses visées aux alinéas a) à a.4), notamment un état des dépenses de campagne liées aux services d’appels aux électeurs, au sens de l’article 348.01, fournis par un fournisseur de services d’appel, au sens de cet article, indiquant le nom du fournisseur et le montant de ces dépenses;
 	- **c)** un état des créances qui font l’objet d’une poursuite en vertu de l’article 477.58;
 	- **d)** un état des créances impayées, y compris celles découlant des prêts consentis au candidat au titre de l’article 373;
 	- **e)** un état de tout prêt consenti au candidat au titre de l’article 373, indiquant notamment le montant de celui-ci, le taux d’intérêt, les nom et adresse du prêteur, les dates et montants des remboursements du principal et des paiements d’intérêts et le solde du principal à la fin de chaque année civile ainsi que, le cas échéant, les nom et adresse de toute caution et la somme qu’elle garantit;
@@ -11830,7 +13643,7 @@ Le cas échéant, le candidat en informe le directeur général des élections.
 
 **Pièces justificatives**
 
-- **(3)** L’agent officiel du candidat produit auprès du directeur général des élections, avec le compte de campagne électorale, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt, les chèques annulés ainsi que l’état des dépenses personnelles visé au paragraphe 477.64(1).
+- **(3)** L’agent officiel du candidat produit auprès du directeur général des élections, avec le compte de campagne électorale, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt, les chèques annulés ainsi que les états des dépenses visés au paragraphe 477.64(1).
 
 **Documents supplémentaires**
 
@@ -11888,7 +13701,7 @@ Le cas échéant, le candidat en informe le directeur général des élections.
 **Paiements tardifs**
 
 - **(15)** L’agent officiel du candidat produit auprès du directeur général des élections, selon le formulaire prescrit, un rapport faisant état du paiement de toute créance visée par une autorisation de paiement ou une ordonnance de paiement prévues aux articles 477.56 ou 477.57, respectivement, ou une ordonnance obtenue dans le cadre d’une poursuite prévue à l’article 477.58, dans les trente jours suivant la date du paiement. Le rapport indique notamment la provenance des fonds utilisés pour payer la créance.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 294.
 
 
 
@@ -11976,13 +13789,26 @@ Le cas échéant, le candidat en informe le directeur général des élections.
 **477.64** 
 
 - **(1)** Le candidat adresse à son agent officiel, dans les trois mois suivant le jour du scrutin et sur le formulaire prescrit :
-	- **a)** un état des dépenses personnelles qu’il a payées et les pièces justificatives afférentes;
-	- **b)** en l’absence de telles dépenses, une déclaration écrite faisant état de ce fait.
+	- **a)** un état :
+		- **(i)** des frais de déplacement et de séjour payés par le candidat,
+		- **(ii)** des dépenses relatives à un litige et des dépenses personnelles payées par le candidat incluant, parmi celles-ci, une indication de celles qui ont été payées d’une source autre que le compte bancaire visé au paragraphe 477.46(1) et la source des fonds utilisés pour les payer;
+	- **b)** en l’absence de frais de déplacement et de séjour, de dépenses relatives à un litige et de dépenses personnelles payés par le candidat, une déclaration écrite faisant état de ce fait.
+
+**Pièces justificatives**
+
+- **(1.1)** Le candidat adresse à son agent officiel, avec l’état des dépenses visé à l’alinéa (1)a), les pièces justificatives afférentes au paiement des dépenses exposées dans l’état.
 
 **Décès du candidat**
 
 - **(2)** Le paragraphe (1) ne s’applique pas lorsque le candidat meurt avant l’expiration du délai fixé par ce paragraphe et avant d’avoir fait parvenir à son agent officiel l’état ou la déclaration qui y sont visés.
-> 2014, ch. 12, art. 86.
+
+**Paiements subséquents de dépenses relatives à un litige**
+
+- **(3)** Si le candidat paye une dépense relative à un litige d’une source autre que le compte bancaire visé au paragraphe 477.46(1) après avoir adressé l’état des dépenses visé au paragraphe (1), aussitôt que possible après avoir fait le paiement, il :
+	- **a)** en avise son agent officiel;
+	- **b)** l’informe de la dépense et de la source des fonds utilisés pour la payer;
+	- **c)** lui adresse les pièces justificatives afférentes au paiement.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 295.
 
 
 
@@ -12146,34 +13972,54 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**Interdiction : déclaration fausse ou trompeuse**
+
+**477.711** Il est interdit au candidat d’adresser à son agent officiel la déclaration visée à l’alinéa 477.59(1)d) dont il sait ou devrait normalement savoir qu’elle est fausse ou trompeuse.
+> 2018, ch. 31, art. 296.
+
+
+
+
+
 **Interdiction : document faux, trompeur ou incomplet**
 
 **477.72** 
 
-- **(1)** Il est interdit au candidat ou à son agent officiel de produire auprès du directeur général des élections un document visé aux paragraphes 477.59(1), (10), (11), (12) ou (15) :
+- **(1)** Il est interdit à l’agent officiel d’un candidat de produire auprès du directeur général des élections un document visé aux paragraphes 477.59(1), (10), (11), (12) ou (15) :
 	- **a)** dont il sait ou devrait normalement savoir qu’il contient des renseignements faux ou trompeurs sur un point important;
-	- **b)** qui ne contient pas, pour l’essentiel, dans le cas d’un document visé au paragraphe 477.59(1), tous les renseignements exigés par le paragraphe 477.59(2) ou, dans le cas d’un document visé aux paragraphes 477.59(10), (11), (12) ou (15), tous ceux exigés par le paragraphe en cause.
+	- **b)** qui ne contient pas, pour l’essentiel, dans le cas d’un document visé à l’alinéa 477.59(1)a), tous les renseignements exigés par le paragraphe 477.59(2) ou, dans le cas d’un document visé aux paragraphes 477.59(10), (11), (12) ou (15), tous ceux exigés par le paragraphe en cause.
 
-**Députés**
+**Suspension du droit de siéger et de voter — document non produit**
 
-- **(2)** S’il conclut, relativement à un candidat élu, qu’un document visé aux paragraphes 477.59(1), (10), (11), (12) ou (15) n’a pas été produit dans le délai ou la période en cause ou dans le délai ou la période prorogés au titre du paragraphe 477.66(1) ou de l’alinéa 477.68(1)b) ou que la correction ou la révision visée au paragraphe 477.67(1) n’a pas été effectuée dans le délai prévu au paragraphe 477.67(3), le directeur général des élections en informe le président de la Chambre des communes et le candidat élu ne peut continuer à siéger et à voter à titre de député à cette chambre jusqu’à ce que le document ait été produit ou jusqu’à ce que la correction ou la révision ait été effectuée, selon le cas.
+- **(2)** S’il conclut, relativement à un candidat élu, qu’un document visé aux paragraphes 477.59(1), (10), (11), (12) ou (15) n’a pas été produit dans le délai ou la période en cause ou dans le délai ou la période prorogés au titre du paragraphe 477.66(1), le directeur général des élections en informe le président de la Chambre des communes et le candidat élu ne peut continuer à siéger et à voter à titre de député à cette chambre — et ce jusqu’à ce que le document ait été produit — à compter :
+	- **a)** si le candidat ou son agent officiel ne présente pas de demande au titre de l’alinéa 477.68(1)b), de l’expiration des deux semaines visées à l’alinéa 477.68(2)b), calculées selon celui de ses sous-alinéas qui s’applique;
+	- **b)** si le candidat ou son agent officiel présente une telle demande et qu’elle est refusée, de l’expiration du jour où il est statué de façon définitive qu’elle est refusée;
+	- **c)** si le candidat ou son agent officiel présente une telle demande et qu’elle est accueillie, de l’expiration du délai ou de la période prorogés au titre de l’ordonnance.
+
+**Suspension du droit de siéger et de voter — correction ou révision non effectuée**
+
+- **(2.1)** Si le directeur des élections conclut, relativement à un candidat élu, que la correction ou la révision autorisée au titre du paragraphe 477.67(1) n’a pas été effectuée dans les trente jours suivant la date de l’autorisation, le candidat élu ne peut continuer à siéger et à voter à titre de député à cette chambre — et ce jusqu’à ce que la correction ou la révision ait été effectuée — à compter :
+	- **a)** si le candidat ou son agent officiel ne présente pas de demande au directeur général des élections au titre du paragraphe 477.67(4), de l’expiration des deux semaines prévues à ce paragraphe;
+	- **b)** si le candidat ou son agent officiel présente une demande au directeur général des élections au titre du paragraphe 477.67(4) et qu’elle est autorisée, de l’expiration des deux semaines suivant l’expiration du délai prorogé, à moins que le candidat ou son agent officiel ne présente une demande de prorogation supplémentaire au directeur général des élections au titre du paragraphe 477.67(5);
+	- **c)** si le candidat ou son agent officiel présente une demande au directeur général des élections au titre du paragraphe 477.67(5) et qu’elle est autorisée, de l’expiration des deux semaines suivant l’expiration du délai prorogé, à moins que le candidat ou son agent officiel ne présente une autre demande de prorogation supplémentaire au directeur général des élections au titre du même paragraphe;
+	- **d)** si le candidat ou son agent officiel présente une demande au directeur général des élections au titre des paragraphes 477.67(4) ou (5) et qu’elle est refusée, de l’expiration du jour où la demande est refusée.
 
 **Députés**
 
 - **(3)** Si le directeur des élections conclut, relativement à un candidat élu, que la correction ou la révision visée au paragraphe 477.65(2) n’a pas été effectuée dans le délai imparti, le candidat élu ne peut continuer à siéger et à voter à titre de député à cette chambre — et ce jusqu’à ce que la correction ou la révision ait été effectuée — à compter :
 	- **a)** si le candidat ou son agent officiel ne présente pas de demande au titre de l’alinéa 477.68(1)a), de l’expiration des deux semaines visées à l’alinéa 477.68(2)a);
-	- **b)** si le candidat ou son agent officiel présente une telle demande, du jour où il est statué de façon définitive que la demande est refusée.
+	- **b)** si le candidat ou son agent officiel présente une telle demande, de l’expiration du jour où il est statué de façon définitive que la demande est refusée.
 
 **Président de la Chambre des communes**
 
-- **(4)** Dès qu’un candidat élu ne peut continuer à siéger et à voter à titre de député à la Chambre des communes par application du paragraphe (3), le directeur général des élections en informe le président de cette chambre.
-> 2014, ch. 12, art. 86.
+- **(4)** Dès qu’un candidat élu ne peut continuer à siéger et à voter à titre de député à la Chambre des communes par application des paragraphes (2), (2.1) ou (3), le directeur général des élections en informe le président de cette chambre.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 297.
 
 
 
 
 
-##### Remboursement des dépenses électorales et des dépenses personnelles
+##### Remboursement de certaines dépenses
 
 
 
@@ -12188,14 +14034,18 @@ La demande est notifiée au directeur général des élections.
 
 **Remboursement partiel**
 
-- **(2)** Sur réception du certificat, le receveur général paie, sur le Trésor, la somme qui y est précisée à l’agent officiel des candidats qui y sont mentionnés au titre du remboursement partiel de leurs dépenses électorales et de leurs dépenses personnelles. Le paiement peut aussi être fait à la personne désignée par l’agent officiel.
+- **(2)** Sur réception du certificat, le receveur général paie, sur le Trésor, la somme qui y est précisée à l’agent officiel de tout candidat qui y est mentionné au titre du remboursement partiel de ses dépenses électorales, de ses frais de déplacement et de séjour pour les déplacements et les séjours effectués pendant la période électorale, de ses dépenses en matière d’accessibilité et de ses dépenses personnelles. Le paiement peut aussi être fait à la personne désignée par l’agent officiel.
 
 **Remboursement de l’excédent**
 
-- **(3)** L’agent officiel est tenu de remettre sans délai au receveur général tout montant du remboursement qui excède 60 % de la somme des éléments suivants :
-	- **a)** les dépenses personnelles payées par le candidat;
-	- **b)** les dépenses électorales du candidat payées et exposées dans son compte de campagne électorale.
-> 2014, ch. 12, art. 86.
+- **(3)** L’agent officiel est tenu de remettre sans délai au receveur général tout montant du remboursement qui excède la somme des dépenses ci-après, payées et exposées dans le compte de campagne électorale du candidat :
+	- **a)** 60 % des dépenses électorales du candidat;
+	- **b)** 60 % des frais de déplacement et de séjour du candidat, pour les déplacements et séjours effectués pendant la période électorale;
+	- **c)** 60 % des dépenses personnelles du candidat, autres que celles entraînées au titre de la garde d’un enfant et celles visées aux alinéas 378(1)c) et d);
+	- **d)** 90 % des dépenses du candidat entraînées au titre de la garde d’un enfant;
+	- **e)** 90 % des dépenses du candidat visées aux alinéas 378(1)c) et d);
+	- **f)** 90 % — jusqu’à concurrence de 5 000 $ — des dépenses du candidat en matière d’accessibilité.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 299.
 
 
 
@@ -12208,14 +14058,18 @@ La demande est notifiée au directeur général des élections.
 - **(1)** Dès qu’il reçoit pour un candidat dont le nom figure sur un certificat les documents visés au paragraphe 477.59(1) ou la version corrigée ou révisée de tels documents, le directeur général des élections remet au receveur général un certificat établissant :
 	- **a)** sa conviction que le candidat et son agent officiel ont rempli les conditions imposées au titre du paragraphe 477.56(2) et se sont conformés aux articles 477.59 à 477.71;
 	- **b)** que le rapport du vérificateur ne comporte aucune des déclarations visées au paragraphe 477.62(3);
-	- **c)** que le candidat a engagé des dépenses électorales représentant plus de 30 % du plafond de telles dépenses établi pour la circonscription au titre de l’article 477.49;
-	- **d)** le montant du dernier versement au titre du remboursement des dépenses électorales et des dépenses personnelles du candidat établi en conformité avec le paragraphe (2).
+	- **c)** que le montant du remboursement partiel fait au titre du paragraphe 477.73(2) est moindre que la somme des montants calculés au titre des alinéas (2)a) à f);
+	- **d)** le montant du dernier versement au titre du remboursement établi en conformité avec le paragraphe (2).
 
-**Calcul du dernier versement**
+**Calcul du remboursement**
 
-- **(2)** Le montant visé à l’alinéa (1)d) est le moins élevé des montants suivants :
-	- **a)** 60 % de la somme des dépenses électorales payées et des dépenses personnelles payées, exposées dans le compte de campagne électorale du candidat, moins le remboursement partiel déjà reçu au titre de l’article 477.73;
-	- **b)** 60 % du plafond des dépenses électorales établi pour la circonscription au titre de l’article 477.49, moins le remboursement partiel déjà reçu au titre de l’article 477.73.
+- **(2)** Le montant visé à l’alinéa (1)d) correspond à la somme des dépenses ci-après, payées et exposées dans le compte de campagne électorale du candidat, moins le remboursement partiel déjà reçu au titre de l’article 477.73 :
+	- **a)** 60 % des dépenses électorales du candidat;
+	- **b)** 60 % des frais de déplacement et de séjour du candidat, pour les déplacements et séjours effectués pendant la période électorale;
+	- **c)** 60 % des dépenses personnelles du candidat, autres que celles entraînées au titre de la garde d’un enfant et celles visées aux alinéas 378(1)c) et d);
+	- **d)** 90 % des dépenses du candidat entraînées au titre de la garde d’un enfant;
+	- **e)** 90 % des dépenses du candidat visées aux alinéas 378(1)c) et d);
+	- **f)** 90 % — jusqu’à concurrence de 5 000 $ — des dépenses du candidat en matière d’accessibilité.
 
 **Réduction du remboursement**
 
@@ -12232,7 +14086,18 @@ La demande est notifiée au directeur général des élections.
 **Remboursement**
 
 - **(5)** Dans le cas où le montant établi au titre du paragraphe (2), après réduction en application du paragraphe (3), est négatif, l’agent officiel est tenu de remettre sans délai au receveur général une somme égale au montant exprimé de façon positive, jusqu’à concurrence du remboursement partiel reçu au titre de l’article 477.73.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 300.
+
+
+
+
+
+**Versement au candidat**
+
+**477.741** Pour remettre au candidat une somme équivalente au total des sommes ci-après, l’agent officiel utilise tout remboursement reçu au titre du paragraphe 477.73(2) ou au titre des paragraphes 477.73(2) et 477.74(4) :
+- **a)** 60 % des dépenses personnelles du candidat, autres que celles entraînées au titre de la garde d’un enfant et celles visées aux alinéas 378(1)c) et d), qui sont payées à même une source autre que le compte bancaire visé au paragraphe 477.46(1) et qui sont exposées dans le compte de campagne électorale;
+- **b)** 90 % de la somme des dépenses du candidat payées et entraînées au titre de la garde d’un enfant et de celles visées au titre des alinéas 378(1)c) et d), qui sont payées à même une source autre que le compte bancaire visé au paragraphe 477.46(1) et qui sont exposées dans le compte de campagne électorale.
+> 2018, ch. 31, art. 301.
 
 
 
@@ -12258,27 +14123,15 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**Remise du cautionnement de candidature**
+**Indexation**
 
-**477.77** 
+**477.761** Les montants de 1 500 $ visé à l’alinéa 477.75a) et de 250 $ visé à l’alinéa 477.75b) sont multipliés par le facteur d’ajustement à l’inflation visé à l’article 384 applicable à la date du scrutin.
+> 2018, ch. 31, art. 302.
 
-- **(1)** Le directeur général des élections remet au receveur général un certificat où figure le nom de :
-	- **a)** tous les candidats — y compris le candidat qui s’est désisté en application du paragraphe 74(1) — dont il est convaincu que l’agent officiel a produit les documents visés à l’article 477.59 et remis au directeur du scrutin, en conformité avec le paragraphe 477.88(2), les exemplaires inutilisés des formulaires visés à l’article 477.86;
-	- **b)** tout candidat qui est décédé avant la clôture de tous les bureaux de scrutin.
 
-**Paiement à l’agent officiel**
 
-- **(2)** Sur réception du certificat, le receveur général paie, sur le Trésor, le montant du cautionnement de candidature à l’agent officiel de chaque candidat dont le nom figure sur le certificat. Le paiement peut aussi être fait à une personne désignée par l’agent officiel.
 
-**Décès**
-
-- **(3)** En l’absence d’agent officiel dans le cas visé à l’alinéa (1)b), le directeur général des élections détermine le destinataire de la remise du cautionnement de candidature.
-
-**Confiscation au profit de Sa Majesté**
-
-- **(4)** Tout cautionnement de candidature qui n’est pas remis au titre du présent article est confisqué au profit de Sa Majesté du chef du Canada.
-> 2014, ch. 12, art. 86.
-
+**477.77** [Abrogé, 2018, ch. 31, art. 303]
 
 
 
@@ -12297,9 +14150,9 @@ La demande est notifiée au directeur général des élections.
 **Retrait du bref**
 
 **477.79** Dans le cas où le bref est retiré dans le cadre du paragraphe 59(1) ou réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), la section 1 de la présente partie et la présente section s’appliquent aux dépenses de campagne des candidats de la circonscription avec les adaptations suivantes :
-- **a)** le scrutin est réputé avoir eu lieu dans cette circonscription à la date de la publication dans la Gazette du Canada de l’avis visé au paragraphe 59(2) ou à l’article 551;
+- **a)** le scrutin est réputé avoir eu lieu dans cette circonscription à la date où le bref est retiré ou réputé l’être;
 - **b)** chaque candidat est réputé avoir obtenu au moins 10 % du nombre de votes qui auraient été validement exprimés dans la circonscription.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 304.
 
 
 
@@ -12313,28 +14166,41 @@ La demande est notifiée au directeur général des élections.
 
 **477.8** 
 
-- **(1)** L’excédent des fonds électoraux que les candidats reçoivent à l’égard d’une élection est l’excédent des recettes électorales visées au paragraphe (3) sur la somme des dépenses de campagne payées par l’agent officiel et des cessions visées au paragraphe (4).
+- **(1)** L’excédent des fonds électoraux que les candidats reçoivent à l’égard d’une élection est l’excédent des recettes électorales visées au paragraphe (3) sur la somme des dépenses de campagne payées à même le compte bancaire du candidat visé au paragraphe 477.46(1) et des cessions visées au paragraphe (4).
 
 **Cession ou vente de biens immobilisés**
 
-- **(2)** Avant qu’il ne soit disposé de l’excédent des fonds électoraux conformément aux articles 477.81 et 477.82, les candidats sont tenus de céder au parti enregistré qui les soutient ou à l’association enregistrée de ce parti les biens immobilisés dont l’acquisition constitue une dépense de campagne au sens de l’article 375 ou de les vendre à leur juste valeur marchande.
+- **(2)** Avant qu’il ne soit disposé de l’excédent des fonds électoraux conformément aux articles 477.81 et 477.82, l’agent officiel du candidat est tenu de céder au parti enregistré qui soutient le candidat ou à l’association enregistrée de ce parti dans la circonscription du candidat les biens immobilisés dont l’acquisition constitue une dépense de campagne au sens du paragraphe 375(1) ou de les vendre à leur juste valeur marchande.
 
 **Recettes électorales**
 
 - **(3)** Les recettes électorales comportent :
 	- **a)** les contributions monétaires apportées au candidat;
-	- **b)** les remboursements des dépenses électorales et des dépenses personnelles reçus par le candidat sous le régime de la présente loi;
-	- **c)** le remboursement du cautionnement de candidature du candidat;
+	- **b)** les remboursements des dépenses ci-après, reçus par le candidat sous le régime de la présente loi :
+		- **(i)** les dépenses électorales,
+		- **(ii)** les frais de déplacement et de séjour,
+		- **(iii)** les dépenses en matière d’accessibilité,
+		- **(iv)** les dépenses personnelles payées à même le compte bancaire du candidat visé au paragraphe 477.46(1),
+		- **(v)** les frais relatifs à une requête ou à une demande effectuée au titre de la partie 14 payés à même le compte bancaire du candidat visé au paragraphe 477.46(1);
+	- **c)** [Abrogé, 2018, ch. 31, art. 305]
 	- **d)** la valeur de revente des biens immobilisés visés au paragraphe (2);
 	- **e)** toute autre recette non remboursable du candidat au titre de sa campagne électorale.
+
+**Exclusion**
+
+- **(3.1)** Malgré le paragraphe (3), ne constituent pas, pour l’application de la présente loi, une recette électorale :
+	- **a)** les fonds utilisés pour payer les dépenses relatives à un litige du candidat qui n’ont pas été crédités au compte bancaire visé au paragraphe 477.46(1);
+	- **b)** les fonds utilisés pour payer ses dépenses personnelles qui n’ont pas été crédités au compte bancaire visé au paragraphe 477.46(1);
+	- **c)** les remboursements — reçus par le candidat sous le régime de la présente loi — des dépenses personnelles qui sont payées à même une source autre que le compte bancaire visé au paragraphe 477.46(1);
+	- **d)** les remboursements — reçus par le candidat sous le régime de la présente loi — des frais relatifs à une requête ou à une demande effectuée au titre de la partie 14 qui sont payés à même une source autre que le compte bancaire visé au paragraphe 477.46(1).
 
 **Cessions**
 
 - **(4)** Les cessions effectuées par un candidat s’entendent de ce qui suit :
 	- **a)** les fonds qu’il cède, pendant la période électorale, à un parti enregistré ou à une association enregistrée;
-	- **b)** toute somme au titre d’un remboursement visé aux alinéas (3)b) et c) qu’il cède au parti enregistré;
+	- **b)** toute somme au titre d’un remboursement visé à l’alinéa (3)b) qu’il cède au parti enregistré;
 	- **c)** les fonds qu’il cède au titre de l’alinéa 364(3)d).
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 305.
 
 
 
@@ -12353,9 +14219,9 @@ La demande est notifiée au directeur général des élections.
 **Initiative de l’agent officiel**
 
 - **(3)** Si les fonds électoraux d’un candidat comportent un excédent et que son agent officiel n’a pas reçu l’estimation, celui-ci est tenu d’en disposer dans les soixante jours suivant, selon le cas :
-	- **a)** la réception du dernier versement du remboursement des dépenses électorales et des dépenses personnelles ou du remboursement du cautionnement de candidature, selon la dernière à survenir;
-	- **b)** la production du compte de campagne électorale, en l’absence de tel remboursement.
-> 2014, ch. 12, art. 86.
+	- **a)** la réception du dernier versement du remboursement des dépenses du candidat;
+	- **b)** la production du compte de campagne électorale, en l’absence d’un tel remboursement.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 306.
 
 
 
@@ -12397,6 +14263,28 @@ La demande est notifiée au directeur général des élections.
 
 - **(2)** Sur réception de la demande présentée par le directeur général des élections, le receveur général paie la somme, sur le Trésor, à l’agent officiel.
 > 2014, ch. 12, art. 86.
+
+
+
+
+
+**Personnes visées par le présent article**
+
+**477.841** 
+
+- **(1)** Le présent article s’applique à toute personne qui a été un candidat lors d’une élection, mais qui n’a pas obtenu le soutien d’un parti enregistré, et dont l’agent officiel a cédé l’excédent des fonds électoraux au receveur général au titre de l’alinéa 477.82b).
+
+**Demande de paiement**
+
+- **(2)** L’agent officiel du candidat qui est une personne visée au paragraphe (1) peut, pour les besoins de la campagne électorale de celui-ci, présenter au directeur général des élections une demande de paiement du montant de l’excédent des fonds électoraux visé à ce paragraphe si le candidat remplit l’une des conditions suivantes :
+	- **a)** il est un candidat à l’élection générale suivant l’élection à laquelle l’excédent se rapporte, mais il n’est soutenu par aucun parti enregistré et il n’a été candidat à aucune élection partielle tenue dans l’intervalle;
+	- **b)** il est un candidat à une seule élection partielle tenue dans l’intervalle et il n’est soutenu par aucun parti enregistré à cette élection;
+	- **c)** il est un candidat à plus d’une élection partielle tenue dans l’intervalle et, à la première de ces élections partielles où il est candidat, il n’est soutenu par aucun parti enregistré.
+
+**Paiement**
+
+- **(3)** Sur réception de la demande présentée par le directeur général des élections, le receveur général paie la somme, sur le Trésor, à l’agent officiel du candidat.
+> 2018, ch. 31, art. 307.
 
 
 
@@ -12493,9 +14381,7 @@ La demande est notifiée au directeur général des élections.
 
 **Délai**
 
-- **(5)** Le candidat dépose la déclaration auprès du directeur général des élections dans les quatre mois suivant :
-	- **a)** soit le jour du scrutin;
-	- **b)** soit la date de la publication dans la Gazette du Canada de l’avis visé au paragraphe 59(2) ou à l’article 551 annonçant que le bref délivré pour l’élection a été retiré ou est réputé l’avoir été.
+- **(5)** Le candidat dépose la déclaration auprès du directeur général des élections dans les quatre mois suivant le jour du scrutin.
 
 **Définitions**
 
@@ -12510,7 +14396,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 ***parent*** Toute personne apparentée au candidat par les liens du mariage, d’une union de fait, de la filiation ou de l’adoption ou encore liée à lui par affinité. (*relative*)
 
 ***union de fait*** Relation qui existe entre deux personnes qui vivent ensemble dans une relation conjugale depuis au moins un an. (*common-law partnership*)
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 308.
 
 
 
@@ -12627,20 +14513,7 @@ La demande est notifiée au directeur général des élections.
 ### Candidats à la direction
 
 
-
-#### Définition
-
-
-
-**Définition de dépense personnelle**
-
-**478** Dans la présente section, ***dépense personnelle*** d’un candidat à la direction s’entend de toute dépense raisonnable de nature personnelle engagée par lui ou pour son compte dans le cadre d’une course à la direction, notamment :
-- **a)** au titre du déplacement et du séjour;
-- **b)** au titre de la garde d’un enfant;
-- **c)** au titre de la garde d’une personne, ayant une incapacité physique ou mentale, qui est habituellement sous sa garde;
-- **d)** dans le cas d’un candidat qui a une déficience, au titre des dépenses supplémentaires liées à celle-ci.
-> 2000, ch. 9, art. 478; 2014, ch. 12, art. 86.
-
+**478** [Abrogé, 2018, ch. 31, art. 309]
 
 
 
@@ -12923,8 +14796,8 @@ La demande est notifiée au directeur général des élections.
 
 **Nomination d’un agent membre d’une société**
 
-- **(3)** Tout membre d’une société nommé conformément à la présente loi à titre de vérificateur d’un parti enregistré peut être nommé agent d’un candidat à la direction.
-> 2014, ch. 12, art. 86.
+- **(3)** Tout membre d’une société nommée conformément à la présente loi à titre de vérificateur d’un parti enregistré peut être nommé agent du candidat à la direction.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 310.
 
 
 
@@ -13055,9 +14928,13 @@ La demande est notifiée au directeur général des élections.
 
 - **(2)** L’intitulé du compte précise le nom du titulaire avec la mention suivante : « (*nom de l’agent financier*), agent financier ».
 
-**Opérations financières**
+**Sommes reçues**
 
-- **(3)** Le compte est débité ou crédité de tous les fonds payés ou reçus pour la course à la direction du candidat.
+- **(3)** Le compte est crédité de toutes les sommes reçues pour la campagne à la direction du candidat à la direction, sauf si les sommes reçues proviennent de ses propres fonds et qu’elles sont utilisées pour payer une dépense relative à un litige ou une dépense personnelle.
+
+**Sommes payées**
+
+- **(3.1)** Le compte est débité de toutes les sommes payées pour la campagne à la direction du candidat à la direction, sauf les sommes payées à même ses propres fonds pour une dépense relative à un litige ou une dépense personnelle.
 
 **Fermeture du compte**
 
@@ -13066,7 +14943,7 @@ La demande est notifiée au directeur général des élections.
 **État de clôture**
 
 - **(5)** Après la fermeture du compte, il en produit l’état de clôture auprès du directeur général des élections.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 311.
 
 
 
@@ -13088,9 +14965,13 @@ La demande est notifiée au directeur général des élections.
 
 - **(3)** Il est interdit à l’agent de campagne à la direction d’un candidat à la direction d’accepter au nom de ce dernier des fonds cédés par un parti enregistré ou une association enregistrée, sauf des fonds provenant d’une contribution dirigée, au sens du paragraphe 365(2), qui sont cédés par un parti enregistré.
 
-**Interdiction : paiement des dépenses**
+**Interdiction : paiement de dépenses**
 
-- **(4)** Il est interdit à toute personne ou entité, sauf à l’agent de campagne à la direction d’un candidat à la direction, de payer les dépenses de campagne à la direction de celui-ci, autres que les dépenses personnelles.
+- **(4)** Il est interdit à toute personne ou entité, sauf à l’agent de campagne à la direction d’un candidat à la direction, de payer les dépenses de campagne à la direction de celui-ci, autres que :
+	- **a)** les dépenses relatives à un litige;
+	- **b)** les frais de déplacement et de séjour;
+	- **c)** les dépenses personnelles;
+	- **d)** les menues dépenses visées à l’article 381.
 
 **Interdiction : engagement des dépenses**
 
@@ -13098,8 +14979,8 @@ La demande est notifiée au directeur général des élections.
 
 **Interdiction : dépenses personnelles**
 
-- **(6)** Il est interdit à toute personne ou entité, sauf au candidat à la direction ou à son agent financier, de payer les dépenses personnelles du candidat.
-> 2014, ch. 12, art. 86.
+- **(6)** Il est interdit à toute personne ou entité, sauf au candidat à la direction et à son agent financier, de payer les dépenses du candidat à la direction visées aux alinéas (4)a) à c).
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 312.
 
 
 
@@ -13199,7 +15080,10 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 
 - **(2)** Le compte comporte les renseignements suivants :
 	- **a)** un état des dépenses de course à la direction;
-	- **a.1)** un état des dépenses de campagne à la direction, autres que les dépenses de course à la direction;
+	- **a.1)** un état des dépenses relatives à un litige incluant, parmi celles-ci, une indication de celles qui ont été payées d’une source autre que le compte bancaire visé au paragraphe 478.72(1) et la source des fonds utilisés pour les payer;
+	- **a.2)** un état des frais de déplacement et de séjour;
+	- **a.3)** un état des dépenses personnelles incluant, parmi celles-ci, une indication de celles qui ont été payées d’une source autre que le compte bancaire visé au paragraphe 478.72(1) et la source des fonds utilisés pour les payer;
+	- **a.4)** un état des dépenses de campagne à la direction, autres que les dépenses visées aux alinéas a) à a.3);
 	- **b)** un état des créances faisant l’objet d’une poursuite en vertu de l’article 478.79;
 	- **c)** un état des créances impayées, y compris celles découlant des prêts consentis au candidat au titre de l’article 373;
 	- **d)** un état de tout prêt consenti au candidat au titre de l’article 373, indiquant notamment le montant de celui-ci, le taux d’intérêt, les nom et adresse du prêteur, les dates et montants des remboursements du principal et des paiements d’intérêts et le solde du principal à la fin de chaque année civile ainsi que, le cas échéant, les nom et adresse de toute caution et la somme qu’elle garantit;
@@ -13207,13 +15091,13 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 	- **f)** le nombre de donateurs;
 	- **g)** les nom et adresse de chaque donateur qui a apporté au candidat une ou plusieurs contributions d’une valeur totale supérieure à 200 $, la somme de ces contributions, le montant de chacune d’elles et la date à laquelle le candidat l’a reçue;
 	- **h)** les nom et adresse de chaque donateur d’une contribution comportant une contribution dirigée — au sens du paragraphe 365(2) — dont proviennent des fonds cédés au candidat par le parti, les montants de la contribution, de la contribution dirigée et des fonds cédés ainsi que la date de la réception de la contribution par le parti et celle de la cession des fonds;
-	- **i)** un état de la valeur commerciale des produits ou des services fournis et des fonds cédés par le candidat à la direction à un parti enregistré ou à une association enregistrée;
+	- **i)** un état des fonds cédés par le candidat à la direction à un parti enregistré ou à une association enregistrée;
 	- **j)** un état de la valeur commerciale des produits ou des services fournis et des fonds cédés par un parti enregistré ou par une association enregistrée au candidat à la direction;
 	- **k)** un état des contributions reçues et remboursées en tout ou en partie à leur donateur ou dont il a été disposé en conformité avec la présente loi.
 
 **Pièces justificatives**
 
-- **(3)** L’agent financier d’un candidat à la direction produit auprès du directeur général des élections, avec le compte de campagne à la direction, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt et les chèques annulés ainsi que l’état des dépenses personnelles visé au paragraphe 478.85(1).
+- **(3)** L’agent financier d’un candidat à la direction produit auprès du directeur général des élections, avec le compte de campagne à la direction, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt et les chèques annulés ainsi que les états des dépenses visés au paragraphe 478.85(1).
 
 **Documents supplémentaires**
 
@@ -13239,7 +15123,8 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 
 - **(9)** Lorsque le candidat décède avant l’expiration du délai établi au paragraphe (8) sans avoir adressé sa déclaration :
 	- **a)** il est réputé avoir adressé la déclaration en conformité avec ce paragraphe;
-	- **b)** l’agent financier est réputé avoir transmis la déclaration au directeur général des élections en conformité avec le paragraphe (1).
+	- **b)** l’agent financier est réputé avoir transmis la déclaration au directeur général des élections en conformité avec le paragraphe (1);
+	- **c)** le directeur général des élections est réputé, pour l’application de l’article 478.931, avoir reçu la déclaration.
 
 **Paiement des créances impayées**
 
@@ -13270,7 +15155,7 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 **Paiements tardifs**
 
 - **(15)** L’agent financier du candidat produit auprès du directeur général des élections, selon le formulaire prescrit, un rapport faisant état du paiement de toute créance visée par une autorisation de paiement ou une ordonnance de paiement prévues aux articles 478.77 ou 478.78, respectivement, ou une ordonnance obtenue dans le cadre d’une poursuite prévue à l’article 478.79, dans les trente jours suivant la date du paiement. Le rapport indique notamment la provenance des fonds utilisés pour payer la créance.
-> 2014, ch. 12, art. 86; 2018, ch. 20, art. 8.
+> 2014, ch. 12, art. 86; 2018, ch. 20, art. 8; 2018, ch. 31, art. 313 et 399.
 
 
 
@@ -13308,7 +15193,7 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 
 **478.83** 
 
-- **(1)** Dès que possible après la fin d’une course à la direction, le vérificateur du candidat à la direction qui a accepté des contributions de 5 000 $ ou plus au total ou a engagé des dépenses de campagne à la direction de 5 000 $ ou plus au total fait rapport à l’agent financier du candidat de sa vérification du compte de campagne à la direction dressé pour celle-ci. Il fait, selon les normes de vérification généralement reconnues, les vérifications qui lui permettent d’établir si le compte présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+- **(1)** Dès que possible après la fin d’une course à la direction, le vérificateur du candidat à la direction qui a accepté des contributions de 10 000 $ ou plus au total ou a engagé des dépenses de campagne à la direction de 10 000 $ ou plus au total fait rapport à l’agent financier du candidat de sa vérification du compte de campagne à la direction dressé pour celle-ci. Il fait, selon les normes de vérification généralement reconnues, les vérifications qui lui permettent d’établir si le compte présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
 
 **Cas où une déclaration est requise**
 
@@ -13324,7 +15209,7 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 **Personnes qui n’ont pas le droit d’agir**
 
 - **(4)** La personne visée au paragraphe 478.61(2) qui est l’associé du vérificateur d’un candidat à la direction et l’employé de ce vérificateur ou d’un cabinet dont fait partie ce vérificateur ne peuvent prendre part à l’établissement du rapport du vérificateur, sauf dans la mesure prévue au paragraphe (3).
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 314.
 
 
 
@@ -13350,13 +15235,26 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 **478.85** 
 
 - **(1)** Le candidat à la direction adresse à son agent financier, dans les cinq mois suivant la fin de la course à la direction et sur le formulaire prescrit :
-	- **a)** un état des dépenses personnelles qu’il a payées et les pièces justificatives afférentes;
-	- **b)** en l’absence de telles dépenses, une déclaration écrite faisant état de ce fait.
+	- **a)** un état :
+		- **(i)** des frais de déplacement et de séjour payés par le candidat à la direction,
+		- **(ii)** des dépenses relatives à un litige et des dépenses personnelles payées par le candidat à la direction incluant, parmi celles-ci, une indication de celles qui ont été payées d’une source autre que le compte bancaire visé au paragraphe 478.72(1) et la source des fonds utilisés pour les payer;
+	- **b)** en l’absence de frais de déplacement et de séjour, de dépenses relatives à un litige et de dépenses personnelles payés par le candidat à la direction, une déclaration écrite faisant état de ce fait.
+
+**Pièces justificatives**
+
+- **(1.1)** Le candidat à la direction adresse à son agent financier, avec l’état des dépenses visé à l’alinéa (1)a), les pièces justificatives afférentes au paiement des dépenses exposées dans l’état.
 
 **Décès du candidat**
 
 - **(2)** Le paragraphe (1) ne s’applique pas lorsque le candidat meurt avant l’expiration du délai imparti par ce paragraphe et avant d’avoir fait parvenir à son agent financier l’état ou la déclaration qui y sont visés.
-> 2014, ch. 12, art. 86.
+
+**Paiements subséquents de dépenses relatives à un litige**
+
+- **(3)** Si le candidat à la direction paye une dépense relative à un litige d’une source autre que le compte bancaire visé au paragraphe 478.72(1) après avoir adressé l’état des dépenses visé au paragraphe (1), aussitôt que possible après avoir fait le paiement, il :
+	- **a)** en avise son agent financier;
+	- **b)** l’informe de la dépense et de la source des fonds utilisés pour la payer;
+	- **c)** lui adresse les pièces justificatives afférentes au paiement.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 315.
 
 
 
@@ -13516,12 +15414,46 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**Interdiction : déclaration fausse ou trompeuse**
+
+**478.921** Il est interdit au candidat à la direction d’adresser à son agent financier la déclaration visée à l’alinéa 478.8(1)d) dont il sait ou devrait normalement savoir qu’elle est fausse ou trompeuse.
+> 2018, ch. 31, art. 316.
+
+
+
+
+
 **Interdiction : document faux, trompeur ou incomplet**
 
-**478.93** Il est interdit au candidat à la direction ou à son agent financier de produire auprès du directeur général des élections un document visé aux paragraphes 478.8(1), (10), (11), (12) ou (15) :
+**478.93** Il est interdit à l’agent financier d’un candidat à la direction de produire auprès du directeur général des élections un document visé aux paragraphes 478.8(1), (10), (11), (12) ou (15) :
 - **a)** dont il sait ou devrait normalement savoir qu’il contient des renseignements faux ou trompeurs sur un point important;
-- **b)** qui ne contient pas, pour l’essentiel, dans le cas d’un document visé au paragraphe 478.8(1), tous les renseignements exigés par le paragraphe 478.8(2) ou, dans le cas d’un document visé aux paragraphes 478.8(10), (11), (12) ou (15), tous ceux exigés par le paragraphe en cause.
-> 2014, ch. 12, art. 86.
+- **b)** qui ne contient pas, pour l’essentiel, dans le cas d’un document visé à l’alinéa 478.8(1)a), tous les renseignements exigés par le paragraphe 478.8(2) ou, dans le cas d’un document visé aux paragraphes 478.8(10), (11), (12) ou (15), tous ceux exigés par le paragraphe en cause.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 317.
+
+
+
+
+
+##### Paiement des frais de vérification
+
+
+
+**Certificat**
+
+**478.931** 
+
+- **(1)** Sur réception des documents visés au paragraphe 478.8(1), notamment le rapport du vérificateur, ainsi que d’une copie de la facture de celui-ci pour le rapport, le directeur général des élections transmet au receveur général un certificat indiquant le plus élevé des montants suivants :
+	- **a)** le montant des dépenses engagées pour la vérification, jusqu’à concurrence du moins élevé de 3 % des dépenses de course à la direction du candidat et 1 500 $;
+	- **b)** 250 $.
+
+**Paiement**
+
+- **(2)** Sur réception du certificat, le receveur général paie au vérificateur, sur le Trésor, la somme qui y est précisée.
+
+**Indexation**
+
+- **(3)** Les montants de 1 500 $ visé à l’alinéa (1)a) et de 250 $ visé à l’alinéa (1)b) sont multipliés par le facteur d’ajustement à l’inflation visé à l’article 384 applicable à la date de la fin de la course à la direction.
+> 2018, ch. 31, art. 318.
 
 
 
@@ -13533,8 +15465,14 @@ La demande est notifiée au directeur général des élections.
 
 **Calcul de l’excédent**
 
-**478.94** L’excédent des fonds de course à la direction qu’un candidat à la direction reçoit à l’égard d’une course à la direction est l’excédent de la somme des contributions acceptées par les agents de campagne au nom du candidat, des sommes visées au paragraphe 365(3) et de toute autre recette non remboursable du candidat au titre de sa campagne à la direction sur les dépenses de campagne à la direction payées en conformité avec la présente loi et les cessions visées à l’alinéa 364(5)b).
-> 2014, ch. 12, art. 86.
+**478.94** 
+
+- **(1)** L’excédent des fonds de course à la direction qu’un candidat à la direction reçoit à l’égard d’une course à la direction est l’excédent de la somme des contributions acceptées par les agents de campagne au nom du candidat, du montant reçu au titre de la vente visée au paragraphe (2), des sommes visées au paragraphe 365(3) et de toute autre recette non remboursable du candidat au titre de sa campagne à la direction devant être créditée au compte bancaire visé au paragraphe 478.72(1) sur la somme des dépenses de campagne à la direction payées sur ce compte bancaire et des cessions visées à l’alinéa 364(5)b).
+
+**Vente de biens immobilisés**
+
+- **(2)** Avant qu’il ne soit disposé de l’excédent des fonds de course à la direction conformément aux articles 478.95 et 478.96, l’agent financier du candidat à la direction vend à leur juste valeur marchande les biens immobilisés dont l’acquisition constitue une dépense de campagne à la direction.
+> 2014, ch. 12, art. 86; 2018, ch. 31, art. 319.
 
 
 
@@ -13598,35 +15536,31 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Le directeur du scrutin est responsable du maintien de l’ordre dans son bureau pour les opérations de vote tenues dans le cadre de la section 4 de la partie 11.
 
-**Devoirs d’autres fonctionnaires électoraux**
+**Devoirs des fonctionnaires électoraux**
 
-- **(2)** Les scrutateurs et les superviseurs de centres de scrutin ainsi que les personnes nommées en vertu de l’alinéa 124(1)b) sont responsables, pendant les heures de vote, du maintien de l’ordre dans le lieu où se déroule le scrutin dans le cadre des parties 9 et 10.
+- **(2)** Les fonctionnaires électoraux sont responsables, pendant les heures de vote, du maintien de l’ordre dans le lieu où se déroule le scrutin dans le cadre des parties 9 et 10.
 
-**Ordre de quitter ou arrestation sans mandat**
+**Ordre de quitter**
 
-- **(3)** Dans le cadre de la responsabilité visée aux paragraphes (1) ou (2), les fonctionnaires électoraux qui y sont mentionnés peuvent ordonner à quiconque commet une infraction à la présente loi ou à une autre loi fédérale qui menace le maintien de l’ordre dans le lieu où se déroule le scrutin ou enfreint l’alinéa 5a), l’article 7 ou l’alinéa 167(1)a) — ou dont il a des motifs raisonnables de croire qu’il a commis une telle infraction — de quitter le lieu où se déroule le scrutin ou le bureau du directeur du scrutin, selon le cas, ou l’arrêter sans mandat.
+- **(3)** Dans le cadre de l’exercice des responsabilités visées aux paragraphes (1) ou (2), les fonctionnaires électoraux peuvent ordonner à quiconque commet une infraction à la présente loi, ou à une autre loi fédérale ou à un de ses règlements, qui menace le maintien de l’ordre dans le lieu où se déroule le scrutin — ou dont il a des motifs raisonnables de croire qu’il a commis une telle infraction — de quitter le lieu où se déroule le scrutin ou le bureau du directeur du scrutin, selon le cas.
 
 **Ordre**
 
 - **(4)** La personne visée par un ordre de quitter le lieu où se déroule le scrutin donné au titre du paragraphe (3) doit y obéir sans délai.
 
-**Pouvoir d’expulsion**
+- **(5)** [Abrogé, 2018, ch. 31, art. 320]
 
-- **(5)** Le fonctionnaire électoral qui a donné l’ordre de quitter le lieu où se déroule le scrutin peut, en cas de refus d’obéir de la part de la personne visée, employer la force raisonnablement nécessaire pour expulser celle-ci.
-
-**Suivi de l’arrestation**
-
-- **(6)** La personne qui procède à l’arrestation doit, sans délai :
-	- **a)** aviser la personne arrêtée de son droit aux services d’un avocat et lui fournir l’occasion d’en obtenir un;
-	- **b)** la livrer à un agent de la paix pour qu’elle soit traitée conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+- **(6)** [Abrogé, 2018, ch. 31, art. 320]
 
 **Enlèvement d’objets**
 
-- **(7)** Dans les cas où ils ont des motifs raisonnables de croire qu’une personne a contrevenu aux alinéas 166(1)a) ou b), les directeurs du scrutin ainsi que les scrutateurs, les superviseurs de centres de scrutin et les responsables du maintien de l’ordre nommés en vertu de l’alinéa 124(1)b) peuvent faire enlever de leur bureau, dans le cas des directeurs du scrutin ou, dans le cas des autres, du lieu où se déroule le scrutin tout objet dont ils ont des motifs raisonnables de croire qu’il a été utilisé en contravention de ces alinéas.
+- **(7)** Dans les cas où ils ont des motifs raisonnables de croire qu’une personne a contrevenu aux alinéas 166(1)a) ou b), les directeurs du scrutin ainsi que les autres fonctionnaires électoraux peuvent faire enlever de leur bureau, dans le cas des directeurs du scrutin ou, dans le cas des autres fonctionnaires électoraux, du lieu où se déroule le scrutin tout objet dont ils ont des motifs raisonnables de croire qu’il a été utilisé en contravention de ces alinéas.
 
 **Immunité**
 
 - **(8)** Les fonctionnaires électoraux qui agissent dans le cadre du présent article bénéficient de l’immunité conférée de droit aux agents de la paix.
+> 2000, ch. 9, art. 479; 2018, ch. 31, art. 320.
+
 
 
 
@@ -13643,47 +15577,80 @@ La demande est notifiée au directeur général des élections.
 
 **480** 
 
-- **(1)** Commet une infraction quiconque, avec l’intention d’entraver ou de retarder les opérations électorales, contrevient à la présente loi autrement qu’en commettant une infraction visée au paragraphe (2) ou aux articles 481 ou 482 ou qu’en contrevenant à une disposition mentionnée aux articles 483 à 499.
+- **(1)** Commet une infraction quiconque, avec l’intention d’entraver ou de retarder les opérations électorales, contrevient à la présente loi autrement qu’en commettant une infraction visée au paragraphe (2) ou aux articles 480.1, 481, 482 ou 482.1 ou qu’en contrevenant à une disposition mentionnée aux articles 484 à 499.
 
 **Assemblées publiques**
 
 - **(2)** Commet une infraction quiconque, entre la délivrance du bref et le lendemain du jour du scrutin, agit, incite d’autres personnes à agir ou conspire pour agir d’une manière désordonnée dans l’intention d’empêcher la conduite d’une assemblée publique convoquée pour une élection.
+> 2000, ch. 9, art. 480; 2018, ch. 31, art. 321.
+
 
 
 
 
 **Usurpation de qualité**
 
-**480.1** Commet une infraction quiconque, avec l’intention de tromper, se présente faussement, ou fait en sorte que quelqu’un se présente faussement, comme :
-- **a)** le directeur général des élections, un membre de son personnel ou une personne autorisée à agir en son nom;
-- **b)** un fonctionnaire électoral ou une personne autorisée à agir en son nom;
-- **c)** une personne autorisée à agir au nom du bureau du directeur général des élections;
-- **d)** une personne autorisée à agir au nom d’un parti enregistré ou d’une association enregistrée;
-- **e)** un candidat ou une personne autorisée à agir en son nom.
-> 2014, ch. 12, art. 88.
+**480.1** 
+
+- **(1)** Commet une infraction quiconque, avec l’intention de tromper, se présente faussement, ou fait en sorte que quelqu’un se présente faussement, comme :
+	- **a)** le directeur général des élections, un membre de son personnel ou une personne autorisée à agir en son nom;
+	- **b)** un fonctionnaire électoral ou une personne autorisée à agir en son nom;
+	- **c)** une personne autorisée à agir au nom du bureau du directeur général des élections;
+	- **d)** une personne autorisée à agir au nom d’un parti enregistré ou d’une association enregistrée;
+	- **e)** un candidat ou une personne autorisée à agir en son nom.
+
+**Exception**
+
+- **(2)** L’infraction n’est pas commise si le prétendu auteur établit que la présentation était manifestement faite aux fins de parodie ou de satire.
+> 2014, ch. 12, art. 88; 2018, ch. 31, art. 322.
 
 
 
 
 
-**Offre de pot-de-vin**
+**Publications trompeuses**
 
 **481** 
 
-- **(1)** Commet une infraction quiconque, pendant la période électorale, offre un pot-de-vin, directement ou indirectement, en vue d’inciter un électeur à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné.
+- **(1)** Commet une infraction toute personne ou entité qui, pendant la période électorale, distribue, transmet ou publie du matériel, quelle que soit sa forme, paraissant produit — ou paraissant distribué, transmis ou publié — par ou sous l’autorité du directeur général des élections, du directeur du scrutin, d’un parti politique, d’un candidat ou d’une personne qui désire se porter candidat, si :
+	- **a)** d’une part, elle n’était pas autorisée par le directeur général des élections, par le directeur du scrutin, par le parti politique, le candidat ou la personne qui désire se porter candidat à distribuer, transmettre ou publier le matériel;
+	- **b)** d’autre part, elle a l’intention de tromper le public en lui laissant croire que le matériel a été produit — ou distribué, transmis ou publié — par ou sous l’autorité du directeur général des élections, du directeur du scrutin, du parti politique, du candidat ou de la personne qui désire se porter candidat.
 
-**Acceptation de pot-de-vin**
+**Facteurs**
 
-- **(2)** Commet une infraction l’électeur qui, pendant la période électorale, accepte tel pot-de-vin.
+- **(2)** Pour décider si la personne ou l’entité a commis l’infraction, le tribunal peut prendre en considération la question de savoir si le matériel comportait l’usage :
+	- **a)** soit d’un nom, d’un logo, d’un nom de compte d’un média social, d’un nom d’utilisateur ou d’un nom de domaine qui est distinctif et communément associé au directeur général des élections, au directeur du scrutin, au parti politique, au candidat ou à la personne qui désire se porter candidat;
+	- **b)** soit du nom, de la voix, de l’image ou de la signature du directeur général des élections, du directeur du scrutin, du candidat, de la personne qui désire se porter candidat ou d’une personnalité publique associée au parti politique.
+
+**Exception : parodie ou satire**
+
+- **(3)** L’infraction n’est pas commise si la personne ou l’entité établit que le matériel était manifestement distribué, transmis ou publié aux fins de parodie ou de satire.
+> 2000, ch. 9, art. 481; 2018, ch. 31, art. 323.
 
 
 
 
-**Intimidation**
 
-**482** Commet une infraction quiconque :
-- **a)** par intimidation ou par la contrainte, force ou incite une autre personne à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné;
-- **b)** incite une autre personne à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné par quelque prétexte ou ruse, notamment en tentant de lui faire croire que le scrutin à une élection n’est pas secret.
+**Utilisation non autorisée d’un ordinateur**
+
+**482** 
+
+- **(1)** Commet une infraction toute personne ou entité qui, frauduleusement, avec l’intention d’influencer les résultats d’une élection :
+	- **a)** au moyen d’un dispositif électromagnétique, acoustique, mécanique ou autre, directement ou indirectement, intercepte ou fait intercepter toute fonction d’un ordinateur;
+	- **b)** directement ou indirectement, utilise ou fait utiliser un ordinateur dans l’intention :
+		- **(i)** de commettre une infraction prévue à l’alinéa a),
+		- **(ii)** de détruire ou de modifier des données informatiques,
+		- **(iii)** de dépouiller des données informatiques de leur sens ou de les rendre inutiles ou inopérantes,
+		- **(iv)** d’empêcher, d’interrompre ou de gêner l’emploi légitime des données informatiques,
+		- **(v)** d’empêcher, d’interrompre ou de gêner une personne ou une entité dans l’emploi légitime des données informatiques ou de refuser à une personne ou entité qui y a droit l’accès aux données informatiques;
+	- **c)** détient ou utilise un mot de passe d’ordinateur qui permettrait la perpétration des infractions prévues aux alinéas a) ou b), ou en fait le trafic ou permet à une autre personne ou entité de l’utiliser;
+	- **d)** tente de commettre l’une des infractions prévues aux alinéas a) à c).
+
+**Définitions**
+
+- **(2)** Les termes utilisés au paragraphe (1) s’entendent au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2000, ch. 9, art. 482; 2018, ch. 31, art. 323.
+
 
 
 
@@ -13696,16 +15663,7 @@ La demande est notifiée au directeur général des élections.
 
 
 
-
-#### Infractions à la partie 1 (droits électoraux)
-
-
-
-**Infraction exigeant une intention — double procédure**
-
-**483** Commet une infraction quiconque contrevient à l’une ou l’autre des dispositions suivantes :
-- **a)** les alinéas 5a) (voter sans être habile à le faire) ou 5b)(inciter à voter une personne qui n’est pas habile à le faire);
-- **b)** l’article 7 (voter plus d’une fois).
+**483** [Abrogé, 2018, ch. 31, art. 324]
 
 
 
@@ -13724,13 +15682,14 @@ La demande est notifiée au directeur général des élections.
 
 - **(2)** Commet une infraction :
 	- **a)** le directeur du scrutin qui contrevient volontairement au paragraphe 24(3) (défaut d’exécuter avec diligence les opérations électorales nécessaires);
+	- **a.1)** le fonctionnaire électoral qui contrevient sciemment à l’article 39 (défaut d’exercer les attributions conférées par le directeur du scrutin conformément aux instructions du directeur général des élections);
 	- **b)** quiconque contrevient au paragraphe 43.1(1) (refus de donner accès à un immeuble ou à un ensemble résidentiel protégé).
 
 **Infraction exigeant une intention — double procédure**
 
 - **(3)** Commet une infraction :
 	- **a)** quiconque contrevient au paragraphe 22(6) (agir à titre de fonctionnaire électoral sachant qu’il est inhabile à le faire);
-	- **b)** quiconque contrevient sciemment au paragraphe 23(2) (communication de renseignements à des fins non autorisées);
+	- **b)** quiconque contrevient sciemment au paragraphe 23(2) (communication de renseignements ou utilisation de renseignements personnels à des fins non autorisées);
 	- **b.1)** l’agent de liaison local qui contrevient au paragraphe 23.2(8) (faire preuve de partialité politique);
 	- **c)** le directeur du scrutin qui contrevient au paragraphe 24(6) (faire preuve de partialité politique);
 	- **d)** le directeur du scrutin ou le directeur adjoint du scrutin qui contrevient volontairement à l’article 31 (cumul de fonctions);
@@ -13848,28 +15807,28 @@ La demande est notifiée au directeur général des élections.
 **Infraction exigeant une intention — déclaration sommaire**
 
 - **(2)** Commet une infraction :
-	- **a)** quiconque contrevient au paragraphe 143(5) (attester de la résidence de plus d’un électeur);
-	- **a.1)** quiconque contrevient au paragraphe 143(6) (attester d’une résidence alors que sa propre résidence est attestée);
-	- **a.2)** quiconque contrevient au paragraphe 155(2) (aider, à titre d’ami, plus d’un électeur);
-	- **a.3)** quiconque contrevient au paragraphe 161(6) (attester de la résidence de plus d’un électeur);
-	- **a.4)** quiconque contrevient au paragraphe 161(7) (attester d’une résidence alors que sa propre résidence est attestée);
-	- **b)** l’électeur qui contrevient au paragraphe 164(2) (non-respect du secret du vote);
-	- **c)** quiconque contrevient à l’alinéa 166(1)a) (affichage de matériel de propagande dans une salle de scrutin);
-	- **d)** quiconque contrevient au paragraphe 169(5) (attester de la résidence de plus d’un électeur);
-	- **e)** quiconque contrevient au paragraphe 169(6) (attester d’une résidence alors que sa propre résidence est attestée).
+	- **a)** [Abrogé, 2018, ch. 31, art. 328]
+	- **a.1)** [Abrogé, 2018, ch. 31, art. 328]
+	- **a.2)** [Abrogé, 2018, ch. 31, art. 328]
+	- **a.3)** [Abrogé, 2018, ch. 31, art. 328]
+	- **a.4)** [Abrogé, 2018, ch. 31, art. 328]
+	- **b)** [Abrogé, 2018, ch. 31, art. 328]
+	- **c)** quiconque contrevient à l’alinéa 166(1)a) (affichage de matériel de propagande dans une salle de scrutin).
+	- **d)** [Abrogé, 2018, ch. 31, art. 328]
+	- **e)** [Abrogé, 2018, ch. 31, art. 328]
 
 **Infraction exigeant une intention — double procédure**
 
 - **(3)** Commet une infraction :
 	- **a)** l’employeur qui contrevient à l’article 134 (empêcher l’employé de disposer de temps pour voter);
-	- **b)** quiconque contrevient volontairement au paragraphe 155(4) (divulguer le vote de l’électeur que l’on a aidé);
-	- **b.1)** quiconque contrevient à l’un ou l’autre des alinéas 161(5.1)a) à d) (actions interdites relatives à l’inscription le jour du scrutin);
-	- **c)** le candidat, le fonctionnaire électoral ou le représentant d’un candidat qui contrevient au paragraphe 164(1) (non-respect du secret du vote);
-	- **d)** quiconque contrevient à l’alinéa 166(1)c) (influencer le vote dans un bureau de scrutin);
-	- **e)** quiconque contrevient à l’un ou l’autre des alinéas 167(1)a) à d) (actions interdites relatives aux bulletins de vote) ou des alinéas 167(2)a) à d) (actions interdites relatives aux bulletins de vote ou à l’urne faites avec l’intention d’influencer les résultats);
-	- **f)** le scrutateur qui contrevient à l’alinéa 167(3)a) (apposer son paraphe avec l’intention d’influencer les résultats);
-	- **g)** le scrutateur qui contrevient à l’alinéa 167(3)b) (marquer un bulletin de vote de façon à reconnaître l’électeur).
-> 2000, ch. 9, art. 489; 2007, ch. 21, art. 38; 2014, ch. 12, art. 93.
+	- **b)** [Abrogé, 2018, ch. 31, art. 328]
+	- **b.1)** quiconque contrevient à l’un ou l’autre des alinéas 161(5.1)a) à d) (actions interdites relatives à l’inscription le jour du scrutin).
+	- **c)** [Abrogé, 2018, ch. 31, art. 328]
+	- **d)** [Abrogé, 2018, ch. 31, art. 328]
+	- **e)** [Abrogé, 2018, ch. 31, art. 328]
+	- **f)** [Abrogé, 2018, ch. 31, art. 328]
+	- **g)** [Abrogé, 2018, ch. 31, art. 328]
+> 2000, ch. 9, art. 489; 2007, ch. 21, art. 38; 2014, ch. 12, art. 93; 2018, ch. 31, art. 328.
 
 
 
@@ -13883,10 +15842,11 @@ La demande est notifiée au directeur général des élections.
 
 **490** Commet une infraction :
 - **a)** quiconque contrevient à l’un ou l’autre des alinéas 169(4.1)a) à d) (actions interdites relatives à l’inscription au bureau de vote par anticipation);
-- **a.1)** le scrutateur qui contrevient sciemment au paragraphe 174(1) (défaut de permettre à l’électeur de voter);
-- **b)** le greffier du scrutin qui contrevient volontairement au paragraphe 174(2) (défaut de tenir un registre du vote);
-- **c)** s’il a l’intention de faire recevoir un vote qui ne devrait pas l’être ou d’empêcher de recevoir un vote qui devrait l’être, le scrutateur qui contrevient à l’article 175 (défaut de prendre les mesures requises concernant l’urne et les bulletins de vote au bureau de vote par anticipation), le directeur du scrutin qui contrevient aux paragraphes 176(2) ou (3) ou le scrutateur qui contrevient au paragraphe 176(3) (défaut de biffer des noms).
-> 2000, ch. 9, art. 490; 2014, ch. 12, art. 94.
+- **a.1)** le fonctionnaire électoral qui contrevient sciemment au paragraphe 174(1) (défaut de permettre à l’électeur de voter);
+- **b)** le fonctionnaire électoral qui contrevient sciemment au paragraphe 174(2) (défaut de tenir un registre du vote);
+- **c)** s’il a l’intention de faire en sorte qu’un vote qui ne devrait pas être recueilli le soit ou d’empêcher qu’un vote qui devrait être recueilli le soit, le fonctionnaire électoral qui contrevient aux paragraphes 175(1), (2), (3) ou (5) (défaut de prendre les mesures requises à l’égard du vote par anticipation) ou au paragraphe 176(3) (défaut de biffer des noms);
+- **d)** s’il a l’intention de faire en sorte qu’un vote qui ne devrait pas être recueilli le soit ou d’empêcher qu’un vote qui devrait être recueilli le soit, le directeur du scrutin qui contrevient au paragraphe 176(2) (défaut de biffer des noms).
+> 2000, ch. 9, art. 490; 2014, ch. 12, art. 94; 2018, ch. 31, art. 329.
 
 
 
@@ -13902,22 +15862,83 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Commet une infraction le directeur du scrutin qui contrevient à l’article 275 (défaut de prendre les mesures requises à l’égard des bulletins de vote et des bulletins de vote spéciaux).
 
-**Infraction exigeant une intention — déclaration sommaire**
-
-- **(2)** Commet une infraction quiconque :
-	- **a)** contrevient au paragraphe 237.1(3.1) (attester de la résidence de plus d’un électeur);
-	- **b)** contrevient au paragraphe 237.1(3.2) (attester d’une résidence alors que sa propre résidence est attestée);
-	- **c)** contrevient à l’un ou l’autre des alinéas 281a) à f) (actions interdites concernant le scrutin tenu dans le cadre des règles électorales spéciales).
+- **(2)** [Abrogé, 2018, ch. 31, art. 330]
 
 **Infraction exigeant une intention — double procédure**
 
 - **(3)** Commet une infraction :
-	- **a)** s’il a l’intention de faire recevoir un vote qui ne devrait pas l’être ou d’empêcher de recevoir un vote qui devrait l’être, le scrutateur qui contrevient à l’article 212, aux paragraphes 213(1) ou (4) ou 214(1), à l’article 257 ou au paragraphe 258(3) (défaut d’exercer ses fonctions à l’égard de la réception des votes);
-	- **b)** s’il a l’intention de faire recevoir un vote qui ne devrait pas l’être ou d’empêcher de recevoir un vote qui devrait l’être, l’agent des bulletins de vote spéciaux qui contrevient aux paragraphes 267(1) ou (2), à l’article 268 ou aux paragraphes 269(1) ou (2) (défaut d’exercer ses fonctions en matière de dépouillement du vote);
-	- **c)** s’il a l’intention de faire recevoir un vote qui ne devrait pas l’être ou d’empêcher de recevoir un vote qui devrait l’être, le scrutateur ou le greffier du scrutin qui contrevient au paragraphe 276(1), le scrutateur qui contrevient au paragraphe 277(1), le greffier du scrutin qui contrevient au paragraphe 277(2), le scrutateur qui contrevient au paragraphe 277(3), le scrutateur ou le greffier du scrutin qui contrevient aux paragraphes 278(1) ou (3) ou le scrutateur qui contrevient à l’article 279 (défaut d’exercer ses fonctions en matière de dépouillement du vote);
-	- **d)** quiconque contrevient aux alinéas 281g) ou h) (actions interdites concernant la tenue du scrutin dans le cadre des règles électorales spéciales);
-	- **e)** quiconque contrevient aux alinéas 282a) ou b) (intimidation et incitation concernant le scrutin tenu dans le cadre des règles électorales spéciales).
-> 2000, ch. 9, art. 491; 2014, ch. 12, art. 94.1.
+	- **a)** s’il a l’intention de faire en sorte qu’un vote qui ne devrait pas être recueilli le soit ou d’empêcher qu’un vote qui devrait être recueilli le soit, le fonctionnaire électoral d’unité qui contrevient à l’article 212 ou aux paragraphes 213(1) ou (4) ou 214(1) ou le fonctionnaire électoral qui contrevient à l’article 257 ou au paragraphe 258(3) (défaut d’exercer ses fonctions à l’égard de la réception des votes);
+	- **b)** s’il a l’intention de faire en sorte qu’un vote qui ne devrait pas être recueilli le soit ou d’empêcher qu’un vote qui devrait être recueilli le soit, le fonctionnaire électoral qui contrevient aux paragraphes 267(1) ou (2), à l’article 268 ou aux paragraphes 269(1) ou (2) (défaut d’exercer ses fonctions en matière de dépouillement du vote);
+	- **c)** s’il a l’intention de faire en sorte qu’un vote qui ne devrait pas être recueilli le soit ou d’empêcher qu’un vote qui devrait être recueilli le soit, le fonctionnaire électoral qui contrevient au paragraphe 276(1), à l’article 277, aux paragraphes 278(1) ou (3) ou à l’article 279 (défaut d’exercer ses fonctions en matière de dépouillement du vote).
+	- **d)** [Abrogé, 2018, ch. 31, art. 330]
+	- **e)** [Abrogé, 2018, ch. 31, art. 330]
+> 2000, ch. 9, art. 491; 2014, ch. 12, art. 94.1; 2018, ch. 31, art. 330.
+
+
+
+
+
+#### Infractions à la partie 11.1 (interdictions liées au vote)
+
+
+
+**Infraction exigeant une intention — déclaration sommaire**
+
+**491.1** Commet une infraction :
+- **a)** la personne qui contrevient au paragraphe 281.6(2) (tenter de connaître le choix de l’électeur);
+- **b)** la personne qui contrevient sciemment à l’un ou l’autre des alinéas 281.6(3)a) à c) (secret du vote);
+- **c)** la personne qui contrevient sciemment au paragraphe 281.6(4) (secret — bulletin marqué);
+- **d)** la personne qui contrevient sciemment à l’alinéa 281.7(1)c) (bulletins de vote);
+- **e)** la personne qui contrevient sciemment à l’alinéa 281.8(1)a) (photographie ou enregistrement vidéo d’un bulletin de vote marqué);
+- **f)** la personne qui contrevient sciemment à l’alinéa 281.8(1)b) (copie d’un bulletin de vote marqué);
+- **g)** la personne qui contrevient sciemment à l’alinéa 281.8(1)c) (distribuer une photographie, un enregistrement vidéo ou une copie d’un bulletin de vote marqué);
+- **h)** la personne qui contrevient sciemment aux alinéas 281.9a) ou b) (fausse déclaration);
+- **i)** la personne qui contrevient au paragraphe 282(1) (personne qui aide un électeur — limite);
+- **j)** la personne qui contrevient au paragraphe 282.1(1) (répondre de plus d’une personne);
+- **k)** la personne qui contrevient sciemment à l’un ou l’autre des alinéas 282.1(2)a) à c) (répondre d’une personne autrement que dans les cas prévus);
+- **l)** la personne qui contrevient au paragraphe 282.1(3) (agir à titre de répondant);
+- **m)** la personne qui contrevient sciemment à l’article 282.5 (intervention auprès d’un électeur).
+> 2018, ch. 31, art. 331.
+
+
+
+
+
+**Infraction exigeant une intention — double procédure**
+
+**491.2** 
+
+- **(1)** Commet une infraction :
+	- **a)** s’il contrevient sciemment à l’article 281.1, le directeur général des élections (vote du directeur général des élections);
+	- **b)** la personne qui contrevient à l’article 281.2 (inciter ou tenter d’inciter le directeur général des élections à voter);
+	- **c)** la personne qui contrevient à l’alinéa 281.3a) (voter sans avoir qualité d’électeur);
+	- **d)** la personne qui contrevient à l’alinéa 281.3b) (inciter ou tenter d’inciter une personne qui n’a pas qualité d’électeur à voter);
+	- **e)** la personne qui contrevient à l’alinéa 281.4a) (voter dans une circonscription autre que celle de sa résidence habituelle);
+	- **f)** la personne qui contrevient à l’alinéa 281.4b) (inciter ou tenter d’inciter une personne à voter dans une circonscription autre que celle de sa résidence habituelle);
+	- **g)** la personne qui contrevient sciemment aux paragraphes 281.5(1) ou (2) (voter plus d’une fois);
+	- **h)** la personne qui contrevient sciemment au paragraphe 281.6(1) (non-respect du secret du vote);
+	- **i)** la personne qui contrevient au paragraphe 281.6(5) (secret — dépouillement du scrutin);
+	- **j)** la personne qui contrevient sciemment à l’un des alinéas 281.7(1)a), b) ou d) à i) (bulletins de vote);
+	- **k)** le fonctionnaire électoral qui contrevient aux alinéas 281.7(2)a) ou b) (bulletins de vote — fonctionnaire électoral);
+	- **l)** le fonctionnaire électoral d’unité qui contrevient au paragraphe 281.7(3) (bulletins de vote spéciaux — fonctionnaire électoral d’unité);
+	- **m)** la personne qui contrevient au paragraphe 282(2) (personne qui aide un électeur — secret);
+	- **n)** la personne qui contrevient sciemment à l’article 282.2 (exercer une influence sur un électeur);
+	- **o)** le fonctionnaire électoral, le fonctionnaire électoral d’unité ou le membre du personnel du directeur du scrutin qui contrevient sciemment à l’article 282.3 (exercer une influence sur un électeur);
+	- **p)** la personne qui contrevient au paragraphe 282.4(1) (influence indue par des étrangers);
+	- **q)** la personne qui contrevient sciemment au paragraphe 282.4(4) (collusion);
+	- **r)** la personne qui contrevient sciemment au paragraphe 282.4(5) (vente d’un espace publicitaire);
+	- **s)** la personne qui contrevient sciemment à l’article 282.6 (empêcher le vote d’un électeur);
+	- **t)** la personne qui contrevient sciemment au paragraphe 282.7(1) (offre de pot-de-vin);
+	- **u)** la personne qui contrevient sciemment au paragraphe 282.7(2) (acceptation de pot-de-vin);
+	- **v)** la personne qui contrevient sciemment aux alinéas 282.8a) ou b) (intimidation, etc.).
+
+**Infraction exigeant une intention — double procédure**
+
+- **(2)** Commet une infraction :
+	- **a)** l’entité qui contrevient au paragraphe 282.4(1) (influence indue par des étrangers);
+	- **b)** l’entité qui contrevient sciemment au paragraphe 282.4(4) (collusion);
+	- **c)** l’entité qui contrevient sciemment au paragraphe 282.4(5) (vente d’un espace publicitaire).
+> 2018, ch. 31, art. 331.
 
 
 
@@ -13936,8 +15957,10 @@ La demande est notifiée au directeur général des élections.
 **Infraction exigeant une intention — double procédure**
 
 - **(2)** Commet une infraction :
-	- **a)** s’il a l’intention de faire recevoir un vote qui ne devrait pas l’être ou d’empêcher de recevoir un vote qui devrait l’être, le scrutateur qui contrevient à l’un ou l’autre des articles 283 à 288 (défaut d’exercer ses fonctions en matière de dépouillement du scrutin);
+	- **a)** s’il a l’intention de faire en sorte qu’un vote qui ne devrait pas être recueilli le soit ou d’empêcher qu’un vote qui devrait être recueilli le soit, le fonctionnaire électoral qui contrevient à l’un ou l’autre des articles 283 à 288 (défaut d’exercer ses fonctions en matière de dépouillement du scrutin);
 	- **b)** quiconque contrevient sciemment au paragraphe 289(3) (dépouillement prématuré du vote par anticipation).
+> 2000, ch. 9, art. 492; 2018, ch. 31, art. 332.
+
 
 
 
@@ -13976,7 +15999,9 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Commet une infraction :
 	- **a)** le candidat ou le parti enregistré, ou une personne agissant en leur nom, qui contrevient à l’article 320 (défaut d’indiquer l’autorisation de publicité électorale);
-	- **b)** quiconque contrevient aux paragraphes 326(1) ou 326(2) (défaut de fournir des renseignements relatifs à un sondage électoral), le demandeur d’un sondage électoral qui contrevient au paragraphe 326(3) (défaut de fournir le compte rendu des résultats d’un sondage électoral);
+	- **a.1)** le propriétaire ou l’exploitant qui contrevient à l’un des paragraphes 325.1(2) ou (4) (défaut de publier le registre des messages de publicité partisane et de publicité électorale pendant la période de publication) ou au paragraphe 325.1(5) (défaut de conserver des renseignements pendant la période requise);
+	- **a.2)** le parti enregistré, le parti admissible, l’association enregistrée, le candidat à l’investiture, le candidat potentiel, le candidat ou le tiers tenu de s’enregistrer en application du paragraphe 349.6(1) ou 353(1) qui contrevient à l’article 325.2 (défaut de fournir des renseignements le concernant);
+	- **b)** quiconque contrevient aux paragraphes 326(1) ou (2) (défaut de fournir des renseignements relatifs à un sondage électoral) ou (2.1) (défaut de veiller à ce que le demandeur d’un sondage électoral soit avisé de la date de diffusion des résultats du sondage), ou le demandeur d’un sondage électoral qui contrevient au paragraphe 326(3) (défaut de veiller à ce que le compte rendu des résultats d’un sondage électoral soit publié);
 	- **c)** quiconque contrevient à l’article 327 (défaut d’indiquer qu’un sondage électoral n’est pas fondé sur une méthode statistique reconnue).
 
 **Infraction exigeant une intention — déclaration sommaire**
@@ -13985,14 +16010,13 @@ La demande est notifiée au directeur général des élections.
 	- **a)** le locateur ou la société de gestion d’un immeuble en copropriété qui contrevient volontairement à l’article 322 (interdiction de publicité électorale sur des immeubles);
 	- **b)** quiconque contrevient volontairement à l’article 325 (enlèvement de publicité électorale imprimée).
 
-**Infraction exigeant une intention — déclaration sommaire**
-
-- **(3)** Commet une infraction quiconque contrevient volontairement à l’article 331 (incitation par un étranger).
+- **(3)** [Abrogé, 2018, ch. 31, art. 333]
 
 **Infraction exigeant une intention — déclaration sommaire (amende seulement)**
 
 - **(4)** Commet une infraction :
-	- **a)** quiconque contrevient volontairement aux paragraphes 326(1) ou 326(2) (défaut de fournir des renseignements relatifs à un sondage électoral), le demandeur d’un sondage électoral qui contrevient volontairement au paragraphe 326(3) (défaut de fournir le compte rendu des résultats d’un sondage électoral);
+	- **a)** le propriétaire ou l’exploitant qui contrevient sciemment à l’un des paragraphes 325.1(2) ou (4) (défaut de publier le registre des messages de publicité partisane et de publicité électorale pendant la période de publication) ou au paragraphe 325.1(5) (défaut de conserver des renseignements pendant la période requise);
+	- **a.1)** quiconque contrevient sciemment aux paragraphes 326(1) ou (2) (défaut de fournir des renseignements relatifs à un sondage électoral) ou (2.1) (défaut de veiller à ce que le demandeur d’un sondage électoral soit avisé de la date de diffusion des résultats du sondage), ou le demandeur d’un sondage électoral qui contrevient sciemment au paragraphe 326(3) (défaut de veiller à ce que le compte rendu des résultats d’un sondage électoral soit publié);
 	- **b)** quiconque contrevient volontairement à l’article 327 (défaut d’indiquer qu’un sondage électoral n’est pas fondé sur une méthode statistique reconnue);
 	- **c)** quiconque contrevient volontairement au paragraphe 328(2) (diffusion des résultats d’un sondage électoral pendant la période d’interdiction);
 	- **d)** [Abrogé, 2014, ch. 12, art. 95]
@@ -14007,6 +16031,7 @@ La demande est notifiée au directeur général des élections.
 
 - **(5)** Commet une infraction :
 	- **a)** la personne qui contrevient sciemment au paragraphe 323(1) (faire diffuser de la publicité électorale pendant la période d’interdiction);
+	- **a.1)** le parti enregistré, le parti admissible, l’association enregistrée, le candidat à l’investiture, le candidat potentiel, le candidat ou le tiers tenu de s’enregistrer en application du paragraphe 349.6(1) ou 353(1) qui contrevient sciemment à l’article 325.2 (défaut de fournir des renseignements le concernant);
 	- **b)** la personne qui contrevient sciemment au paragraphe 328(1) (faire diffuser les résultats d’un sondage électoral pendant la période d’interdiction).
 > 2000, ch. 9, art. 495; 2014, ch. 12, art. 95; 2018, ch. 31, art. 333.
 
@@ -14024,12 +16049,13 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Commet une infraction tout fournisseur de services d’appel qui contrevient à l’une ou l’autre des dispositions suivantes :
 	- **a)** l’alinéa 348.16a) (obligation de conserver les scripts);
-	- **b)** l’alinéa 348.16b) (obligation de conserver les enregistrements).
+	- **b)** l’alinéa 348.16b) (obligation de conserver les enregistrements);
+	- **c)** l’alinéa 348.16c) (obligation de conserver une liste des numéros de téléphone appelés).
 
 **Infraction exigeant une intention — double procédure**
 
 - **(2)** Commet une infraction tout fournisseur de services d’appel qui contrevient sciemment à l’une ou l’autre des dispositions mentionnées au paragraphe (1).
-> 2014, ch. 12, art. 96.
+> 2014, ch. 12, art. 96; 2018, ch. 31, art. 334.
 
 
 
@@ -14040,19 +16066,81 @@ La demande est notifiée au directeur général des élections.
 **495.2** 
 
 - **(1)** Commet une infraction toute personne ou tout groupe qui contrevient à l’une ou l’autre des dispositions suivantes :
-	- **a)** l’alinéa 348.17a) ou l’article 348.19 (obligation de conserver les scripts);
-	- **b)** l’alinéa 348.17b) ou l’article 348.18 (obligation de conserver les enregistrements).
+	- **a)** les alinéas 348.17a) ou 348.19a) (obligation de conserver les scripts);
+	- **b)** les alinéas 348.17b) ou 348.18a) (obligation de conserver les enregistrements);
+	- **c)** les alinéas 348.17c), 348.18b) ou 348.19b) (obligation de conserver une liste des numéros de téléphone appelés).
 
 **Infraction exigeant une intention — double procédure**
 
 - **(2)** Commet une infraction toute personne ou tout groupe qui contrevient sciemment à l’une ou l’autre des dispositions mentionnées au paragraphe (1).
-> 2014, ch. 12, art. 96.
+> 2014, ch. 12, art. 96; 2018, ch. 31, art. 335.
 
 
 
 
 
-#### Infractions à la partie 17 (publicité électorale faite par des tiers)
+#### Infractions à la partie 17 (publicité, activités partisanes et sondages électoraux des tiers)
+
+
+
+##### Infractions à la section 0.1 de la partie 17 (interdiction pour les tiers d’utiliser des fonds de l’étranger)
+
+
+
+**Responsabilité stricte — déclaration sommaire**
+
+**495.21** 
+
+- **(1)** Commet une infraction le tiers qui contrevient :
+	- **a)** à l’article 349.02 (utilisation de fonds provenant de l’étranger);
+	- **b)** à l’alinéa 349.03a) (esquiver l’interdiction d’utiliser des fonds de l’étranger) ou à l’alinéa 349.03b) (agir de concert pour esquiver l’interdiction d’utiliser des fonds de l’étranger).
+
+**Infraction exigeant une intention — double procédure**
+
+- **(2)** Commet une infraction le tiers qui contrevient sciemment à l’une ou l’autre des dispositions mentionnées au paragraphe (1).
+> 2018, ch. 31, art. 336.
+
+
+
+
+
+##### Infractions à la section 1 de la partie 17 (activités partisanes, publicité partisane et sondages électoraux pendant la période préélectorale)
+
+
+
+**Responsabilité stricte — déclaration sommaire**
+
+**495.3** 
+
+- **(1)** Commet une infraction le tiers qui contrevient :
+	- **a)** à l’un ou l’autre des paragraphes 349.1(1) à (3) (engagement de dépenses dépassant les plafonds fixés);
+	- **b)** à l’article 349.4 (engagement de dépenses par des tiers étrangers);
+	- **c)** à l’article 349.5 (défaut de mentionner son nom dans la publicité);
+	- **d)** au paragraphe 349.6(1) (défaut de s’enregistrer);
+	- **e)** à l’article 349.7 ou au paragraphe 349.8(1) (défaut de nommer un agent financier ou un vérificateur);
+	- **f)** aux paragraphes 349.91(1) ou 349.92(1) (défaut de présenter le compte provisoire) ou 349.91(10) (défaut de produire les pièces justificatives sur demande);
+	- **g)** à l’alinéa 349.93b) (présentation d’un compte provisoire incomplet);
+	- **h)** à l’article 349.94 (utilisation de contributions anonymes).
+
+**Infraction exigeant une intention — double procédure**
+
+- **(2)** Commet une infraction :
+	- **a)** le tiers qui contrevient sciemment à l’un ou l’autre des paragraphes 349.1(1) à (3) ou à l’article 349.2 (dépasser ou esquiver les plafonds fixés pour les dépenses);
+	- **b)** le tiers ou le parti enregistré qui contrevient sciemment au paragraphe 349.3(1) (agir de concert pour influencer le tiers);
+	- **c)** le tiers ou le candidat potentiel qui contrevient sciemment au paragraphe 349.3(2) (agir de concert pour influencer le tiers);
+	- **d)** le tiers ou l’agent officiel d’un candidat potentiel qui contrevient sciemment au paragraphe 349.3(3) (agir de concert pour influencer le tiers);
+	- **e)** le tiers qui contrevient sciemment à l’article 349.4 (engagement de dépenses par des tiers étrangers);
+	- **f)** le tiers qui contrevient sciemment au paragraphe 349.6(1) (défaut de s’enregistrer);
+	- **g)** quiconque contrevient sciemment aux paragraphes 349.7(2) ou 349.8(3) (agir comme agent financier ou vérificateur d’un tiers sans y être autorisé);
+	- **h)** le tiers qui contrevient sciemment aux paragraphes 349.91(1) ou 349.92(1) (défaut de présenter le compte provisoire);
+	- **i)** le tiers qui contrevient à l’alinéa 349.93a) ou contrevient sciemment à l’alinéa 349.93b) (présentation d’un compte provisoire contenant des renseignements faux ou trompeurs ou d’un compte provisoire incomplet).
+> 2018, ch. 31, art. 336.
+
+
+
+
+
+##### Infractions à la section 2 de la partie 17 (activités partisanes, publicité électorale et sondages électoraux pendant la période électorale)
 
 
 
@@ -14061,22 +16149,57 @@ La demande est notifiée au directeur général des élections.
 **496** 
 
 - **(1)** Commet une infraction le tiers qui contrevient :
-	- **a)** à l’un ou l’autre des paragraphes 350(1) à (4) (engagement de dépenses de publicité électorale dépassant les plafonds fixés);
-	- **a.1)** à l’article 351.1 (engagement par des tiers étrangers de dépenses de publicité électorale dépassant le plafond fixé);
-	- **b)** à l’article 352 (défaut de mentionner son nom dans la publicité électorale);
+	- **a)** à l’un ou l’autre des paragraphes 350(1) à (4) (engagement de dépenses dépassant les plafonds fixés);
+	- **a.1)** à l’article 351.1 (engagement de dépenses par des tiers étrangers);
+	- **b)** à l’article 352 (défaut de mentionner son nom dans la publicité);
 	- **c)** au paragraphe 353(1) (défaut de s’enregistrer);
 	- **d)** à l’article 354 ou au paragraphe 355(1) (défaut de nommer un agent financier ou un vérificateur);
-	- **e)** au paragraphe 357(3) (utilisation de contributions anonymes) ou à l’article 358 (utilisation de contributions étrangères);
-	- **f)** aux paragraphes 359(1) (défaut de présenter le rapport de dépenses de publicité électorale) ou 359(8) (défaut de produire les justificatifs sur demande).
+	- **d.1)** aux paragraphes 357.01(1) ou 357.02(1) (défaut de présenter le compte provisoire) ou 357.01(10) (défaut de produire les pièces justificatives sur demande);
+	- **d.2)** à l’alinéa 357.03b) (présentation d’un compte provisoire incomplet);
+	- **e)** à l’article 357.1 (utilisation de contributions anonymes).
+	- **f)** [Abrogé, 2018, ch. 31, art. 337]
+
+**Infraction exigeant une intention — double procédure**
+
+- **(2)** Commet une infraction :
+	- **a)** le tiers qui contrevient sciemment à l’un ou l’autre des paragraphes 350(1) à (4) ou à l’article 351 (dépasser ou esquiver les plafonds fixés pour les dépenses);
+	- **b)** le tiers ou le parti enregistré qui contrevient sciemment au paragraphe 351.01(1) (agir de concert pour influencer le tiers);
+	- **c)** le tiers ou le candidat qui contrevient sciemment au paragraphe 351.01(2) (agir de concert pour influencer le tiers);
+	- **d)** le tiers ou l’agent officiel d’un candidat qui contrevient sciemment au paragraphe 351.01(3) (agir de concert pour influencer le tiers);
+	- **e)** le tiers qui contrevient sciemment à l’article 351.1 (engagement de dépenses par des tiers étrangers);
+	- **f)** le tiers qui contrevient sciemment au paragraphe 353(1) (défaut de s’enregistrer);
+	- **g)** quiconque contrevient sciemment aux paragraphes 354(2) ou 355(3) (agir comme agent financier ou vérificateur d’un tiers sans y être autorisé);
+	- **h)** le tiers qui contrevient sciemment aux paragraphes 357.01(1) ou 357.02(1) (défaut de présenter le compte provisoire);
+	- **i)** le tiers qui contrevient à l’alinéa 357.03a) ou qui contrevient sciemment à l’alinéa 357.03b) (présentation d’un compte provisoire contenant des renseignements faux ou trompeurs ou d’un compte provisoire incomplet).
+> 2000, ch. 9, art. 496; 2014, ch. 12, art. 97; 2018, ch. 31, art. 337.
+
+
+
+
+
+##### Infractions à la section 3 de la partie 17 (comptes bancaires des tiers, registre des tiers et comptes des dépenses des tiers)
+
+
+
+**Responsabilité stricte — déclaration sommaire**
+
+**496.1** 
+
+- **(1)** Commet une infraction le tiers qui contrevient :
+	- **a)** à l’article 358.1 (omission d’observer les exigences relatives au compte bancaire);
+	- **b)** aux paragraphes 359(1) (défaut de présenter le compte) ou 359(9) (défaut de produire les pièces justificatives sur demande);
+	- **c)** à l’alinéa 359.1b) (présentation d’un compte incomplet);
+	- **d)** au paragraphe 361(3) (omission de produire la version corrigée ou révisée du compte dans le délai imparti);
+	- **e)** au paragraphe 361.2(3) (omission de produire la version corrigée ou révisée du compte dans le délai de trente jours ou dans le délai prorogé).
 
 **Infraction exigeant une intention — double procédure**
 
 - **(2)** Commet une infraction le tiers qui :
-	- **a)** contrevient volontairement à l’un ou l’autre des paragraphes 350(1) à (4) ou à l’article 351 (dépasser ou esquiver les plafonds fixés pour les dépenses de publicité électorale);
-	- **a.1)** contrevient volontairement à l’article 351.1 (engagement par des tiers étrangers de dépenses de publicité électorale dépassant le plafond fixé);
-	- **b)** contrevient volontairement au paragraphe 353(1) (défaut de s’enregistrer);
-	- **c)** contrevient volontairement au paragraphe 359(1) (défaut de présenter le rapport de dépenses de publicité électorale).
-> 2000, ch. 9, art. 496; 2014, ch. 12, art. 97.
+	- **a)** contrevient sciemment au paragraphe 359(1) (défaut de présenter le compte);
+	- **b)** contrevient à l’alinéa 359.1a) ou contrevient sciemment à l’alinéa 359.1b) (présentation d’un compte contenant des renseignements faux ou trompeurs ou d’un compte incomplet);
+	- **c)** contrevient sciemment au paragraphe 361(3) (omission de produire la version corrigée ou révisée du compte dans le délai imparti);
+	- **d)** contrevient sciemment au paragraphe 361.2(3) (omission de produire la version corrigée ou révisée du compte dans le délai de trente jours ou dans le délai prorogé).
+> 2018, ch. 31, art. 338.
 
 
 
@@ -14097,6 +16220,7 @@ La demande est notifiée au directeur général des élections.
 - **(1)** Commet une infraction :
 	- **a)** la personne ou l’entité qui contrevient au paragraphe 363(1) (contribution apportée par une personne ou entité inadmissibles);
 	- **b)** l’agent principal d’un parti enregistré, l’agent financier d’une association enregistrée, l’agent officiel d’un candidat ou l’agent financier d’un candidat à l’investiture ou d’un candidat à la direction qui contrevient au paragraphe 363(2) (omission de remettre une contribution provenant d’un donateur inadmissible);
+	- **b.1)** la personne ou l’entité qui contrevient au paragraphe 364(9) (paiement de frais de participation par une personne ou entité inadmissibles);
 	- **c)** le parti enregistré ou l’association de circonscription qui contrevient au paragraphe 365(1) (cession interdite);
 	- **d)** la personne autorisée à accepter des contributions au nom d’un parti enregistré, d’une association enregistrée, d’un candidat à l’investiture, d’un candidat ou d’un candidat à la direction qui contrevient à l’article 366 (omission de délivrer un reçu);
 	- **e)** la personne ou l’entité qui contrevient au paragraphe 368(1) (esquiver le plafond d’une contribution);
@@ -14117,7 +16241,7 @@ La demande est notifiée au directeur général des élections.
 	- **d)** quiconque contrevient sciemment aux paragraphes 367(1) ou (6) (apporter des contributions qui dépassent le plafond);
 	- **e)** la personne ou l’entité qui contrevient sciemment au paragraphe 368(1) (esquiver le plafond d’une contribution);
 	- **f)** la personne ou l’entité qui contrevient sciemment au paragraphe 368(2) (cacher l’identité d’un donateur);
-	- **g)** la personne habilitée par la présente loi à accepter des contributions qui contrevient au paragraphe 368(3) (accepter sciemment une contribution excessive);
+	- **g)** la personne habilitée par la présente loi à accepter des contributions qui contrevient sciemment au paragraphe 368(3) (accepter une contribution excessive);
 	- **h)** la personne ou l’entité qui contrevient sciemment au paragraphe 368(4) (conclure un accord interdit);
 	- **i)** la personne ou l’entité qui contrevient au paragraphe 369(1) (demande ou acceptation de contributions);
 	- **j)** la personne ou l’entité qui contrevient au paragraphe 369(2) (collusion);
@@ -14126,7 +16250,7 @@ La demande est notifiée au directeur général des élections.
 	- **m)** la personne habilitée par la présente loi à accepter des contributions qui contrevient sciemment à l’article 372 (omission de remettre une contribution);
 	- **n)** la personne ou l’entité qui contrevient sciemment aux paragraphes 373(1) ou (2) (prêts, cautionnements et emprunts);
 	- **o)** le particulier qui contrevient sciemment à l’article 374 (consentir des prêts indirects).
-> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58; 2004, ch. 24, art. 21; 2006, ch. 9, art. 57; 2007, ch. 21, art. 39; 2014, ch. 12, art. 98 et 99.
+> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58; 2004, ch. 24, art. 21; 2006, ch. 9, art. 57; 2007, ch. 21, art. 39; 2014, ch. 12, art. 98 et 99; 2018, ch. 31, art. 339.
 
 
 
@@ -14174,7 +16298,12 @@ La demande est notifiée au directeur général des élections.
 	- **e)** l’agent principal d’un parti politique radié qui contrevient à l’article 420 (omission de produire le rapport financier, le compte des dépenses électorales ou un document afférent);
 	- **f)** l’agent principal d’un parti enregistré fusionnant qui contrevient à l’article 424 (omission de produire le rapport financier d’un parti fusionnant ou un document afférent);
 	- **g)** l’agent principal qui contrevient à l’article 428 (omission de payer les créances dans le délai de trois ans);
-	- **h)** l’agent principal qui contrevient au paragraphe 431(1) (faire des dépenses électorales qui dépassent le plafond) ou le parti enregistré ou le tiers qui contrevient au paragraphe 431(2) (collusion concernant le plafond des dépenses électorales du parti enregistré);
+	- **g.1)** l’agent principal qui contrevient au paragraphe 429.2(1) (engager des dépenses de publicité partisane qui dépassent le plafond);
+	- **g.2)** le parti enregistré qui contrevient au paragraphe 429.2(2) (esquiver le plafond des dépenses de publicité partisane);
+	- **g.3)** le tiers qui contrevient au paragraphe 429.2(3) (collusion concernant le plafond des dépenses de publicité partisane du parti enregistré);
+	- **g.4)** le parti enregistré, ou une personne agissant en son nom, qui contrevient à l’article 429.3 (défaut d’indiquer l’autorisation de publicité partisane);
+	- **h)** l’agent principal qui contrevient au paragraphe 431(1) (faire des dépenses électorales qui dépassent le plafond);
+	- **h.1)** le tiers qui contrevient au paragraphe 431(2) (collusion concernant le plafond des dépenses électorales du parti enregistré);
 	- **i)** l’agent principal qui contrevient aux paragraphes 432(1), (2), (3) ou (5) (omission de produire le rapport financier d’un parti enregistré ou un rapport ou un document afférents);
 	- **j)** l’agent principal qui contrevient à l’article 433 (omission de produire un rapport trimestriel);
 	- **k)** l’agent enregistré qui contrevient à l’article 434 (omission de verser les contributions que le parti enregistré ne peut conserver);
@@ -14200,9 +16329,13 @@ La demande est notifiée au directeur général des élections.
 	- **c)** le dirigeant d’un parti qui contrevient à l’article 404 (dirigeant qui sait que le parti n’est pas un parti politique);
 	- **d)** le chef d’un parti qui contrevient aux paragraphes 408(1), (3) ou (4) (production ou attestation de renseignements faux ou trompeurs ou déclaration fausse ou trompeuse);
 	- **e)** le parti enregistré ou le parti admissible qui contrevient au paragraphe 408(2) (production de renseignements faux ou trompeurs);
-	- **f)** le membre d’un parti politique qui contrevient au paragraphe 408(5) (déclaration fausse ou trompeuse);
+	- **f)** quiconque contrevient au paragraphe 408(5) (déclaration fausse ou trompeuse);
 	- **g)** l’agent principal d’un parti politique radié qui contrevient sciemment à l’article 420 (omission de produire le rapport financier, le compte des dépenses électorales ou un document afférent);
 	- **h)** l’agent principal d’un parti enregistré fusionnant qui contrevient sciemment à l’article 424 (omission de produire le rapport financier d’un parti fusionnant ou un document afférent);
+	- **h.1)** l’agent enregistré, autre que l’agent principal du parti, qui contrevient sciemment au paragraphe 426(2.1) (engager une dépense du parti enregistré sans autorisation préalable ou d’une façon qui ne respecte pas l’autorisation);
+	- **h.2)** l’agent principal qui contrevient sciemment au paragraphe 429.2(1) (engager des dépenses de publicité partisane qui dépassent le plafond);
+	- **h.3)** le parti enregistré qui contrevient sciemment au paragraphe 429.2(2) (esquiver le plafond des dépenses de publicité partisane);
+	- **h.4)** le tiers qui contrevient sciemment au paragraphe 429.2(3) (collusion concernant le plafond des dépenses de publicité partisane du parti enregistré);
 	- **i)** l’agent principal qui contrevient sciemment au paragraphe 431(1) (faire des dépenses électorales qui dépassent le plafond);
 	- **j)** le parti enregistré ou le tiers qui contrevient sciemment au paragraphe 431(2) (collusion concernant le plafond des dépenses électorales du parti enregistré);
 	- **k)** l’agent principal qui contrevient sciemment aux paragraphes 432(1), (2), (3) ou (5) (omission de produire le rapport financier d’un parti enregistré ou un rapport ou un document afférents);
@@ -14213,7 +16346,7 @@ La demande est notifiée au directeur général des élections.
 	- **p)** l’agent principal qui contrevient à l’alinéa 439a) (production d’un document contenant des renseignements faux ou trompeurs);
 	- **q)** l’agent principal qui contrevient sciemment au paragraphe 440(3) (omission de produire la version corrigée ou révisée du document dans le délai imparti);
 	- **r)** l’agent principal ou le chef du parti enregistré qui contrevient sciemment au paragraphe 442(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé).
-> 2014, ch. 12, art. 99.
+> 2014, ch. 12, art. 99; 2018, ch. 31, art. 340.
 
 
 
@@ -14229,7 +16362,9 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Commet une infraction :
 	- **a)** l’association de circonscription d’un parti enregistré qui contrevient à l’article 447 (exercer une activité financière sans être enregistrée);
-	- **b)** l’association de circonscription d’un parti enregistré qui contrevient à l’article 450 (activité financière au cours d’une période électorale);
+	- **a.1)** l’association de circonscription d’un parti enregistré qui contrevient au paragraphe 449.1(1) (engager certaines dépenses de publicité partisane ou, au cours d’une période préélectorale, diffuser certains messages de publicité partisane);
+	- **a.2)** l’association enregistrée qui contrevient à l’article 449.2 (défaut d’indiquer l’autorisation de publicité partisane);
+	- **b)** l’association de circonscription d’un parti enregistré qui contrevient au paragraphe 450(1) (engager des dépenses électorales);
 	- **c)** l’association enregistrée qui contrevient à l’article 451 (omission de produire l’état de l’actif et du passif ou un document afférent);
 	- **d)** l’agent financier d’une association enregistrée qui contrevient à l’article 452 (faire une déclaration erronée);
 	- **e)** l’association enregistrée qui contrevient au paragraphe 456(2) (omission de faire rapport sur la nomination d’un agent de circonscription);
@@ -14255,7 +16390,8 @@ La demande est notifiée au directeur général des élections.
 
 - **(3)** Commet une infraction :
 	- **a)** l’association de circonscription qui contrevient sciemment à l’article 447 (exercer une activité financière sans être enregistrée);
-	- **b)** l’association de circonscription d’un parti enregistré qui contrevient sciemment à l’article 450 (activité financière au cours d’une période électorale);
+	- **a.1)** l’association de circonscription d’un parti enregistré qui contrevient sciemment au paragraphe 449.1(1) (engager certaines dépenses de publicité partisane ou, au cours d’une période préélectorale, diffuser certains messages de publicité partisane);
+	- **b)** l’association de circonscription d’un parti enregistré qui contrevient sciemment au paragraphe 450(1) (engager des dépenses électorales);
 	- **c)** l’association enregistrée qui contrevient sciemment à l’article 451 (omission de produire l’état de l’actif et du passif ou un document afférent);
 	- **d)** l’agent financier d’une association enregistrée qui contrevient sciemment à l’article 452 (faire une déclaration erronée);
 	- **e)** l’association enregistrée qui contrevient sciemment au paragraphe 456(2) (omission de faire rapport sur la nomination d’un agent de circonscription);
@@ -14266,7 +16402,7 @@ La demande est notifiée au directeur général des élections.
 	- **j)** l’agent financier d’une association enregistrée qui contrevient à l’alinéa 475.7a) (production d’un document contenant des renseignements faux ou trompeurs);
 	- **k)** l’agent financier d’une association enregistrée qui contrevient sciemment au paragraphe 475.9(3) (omission de produire la version corrigée ou révisée du document dans le délai imparti);
 	- **l)** l’agent financier d’une association enregistrée ou le premier dirigeant de l’association qui contrevient sciemment au paragraphe 475.92(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé).
-> 2014, ch. 12, art. 99.
+> 2014, ch. 12, art. 99; 2018, ch. 31, art. 341.
 
 
 
@@ -14297,6 +16433,7 @@ La demande est notifiée au directeur général des élections.
 	- **n)** l’agent financier d’un candidat à l’investiture qui contrevient à l’article 476.76 (omission de verser les contributions que le candidat à l’investiture ne peut retourner);
 	- **o)** le candidat à l’investiture qui contrevient au paragraphe 476.77(1) (omission de nommer un vérificateur);
 	- **p)** le candidat à l’investiture qui contrevient aux paragraphes 476.77(4) ou (5) ou à l’article 476.78 (omission d’observer les exigences relatives à la nomination du vérificateur);
+	- **p.1)** le candidat à l’investiture qui contrevient aux paragraphes 476.82(1) ou (3) (omission de fournir l’état des dépenses ou d’aviser l’agent financier);
 	- **q)** l’agent financier d’un candidat à l’investiture qui contrevient au paragraphe 476.83(3) (omission de produire la version corrigée ou révisée du document dans le délai imparti);
 	- **r)** le candidat à l’investiture ou son agent financier qui contrevient au paragraphe 476.85(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé);
 	- **s)** l’agent financier d’un candidat à l’investiture qui contrevient à l’alinéa 476.9b) (production d’un document incomplet);
@@ -14310,7 +16447,7 @@ La demande est notifiée au directeur général des élections.
 	- **c)** la personne ou l’entité, autre que l’agent financier d’un candidat à l’investiture, qui contrevient sciemment au paragraphe 476.66(1) (accepter des contributions sans y être autorisée);
 	- **d)** la personne ou l’entité, autre que l’agent financier d’un candidat à l’investiture, qui contrevient sciemment au paragraphe 476.66(2) (accepter la fourniture de produits ou services ou la cession de fonds ou céder des fonds, sans y être autorisée);
 	- **e)** l’agent financier d’un candidat à l’investiture qui contrevient sciemment au paragraphe 476.66(3) (accepter des contributions de source interdite);
-	- **f)** la personne ou l’entité qui contrevient sciemment aux paragraphes 476.66(4), (5) ou (6) (paiement et engagement de dépenses de campagne d’investiture et paiement de dépenses personnelles sans y être autorisée);
+	- **f)** la personne ou l’entité qui contrevient sciemment aux paragraphes 476.66(4), (5) ou (6) (payer ou engager des dépenses de campagne d’investiture sans en avoir le droit);
 	- **g)** le candidat à l’investiture ou son agent financier qui contrevient sciemment au paragraphe 476.68(1) (engager des dépenses de course à l’investiture qui dépassent le plafond);
 	- **h)** la personne ou l’entité qui contrevient au paragraphe 476.68(2) (esquiver le plafond des dépenses de course à l’investiture);
 	- **i)** l’agent financier d’un candidat à l’investiture qui contrevient sciemment aux paragraphes 476.75(1), (2), (5) ou (7) (omission de produire le compte de campagne d’investiture ou un rapport ou un document afférents);
@@ -14323,9 +16460,10 @@ La demande est notifiée au directeur général des élections.
 	- **p)** quiconque contrevient sciemment à l’article 476.79 (personne inadmissible agissant comme vérificateur d’un candidat à l’investiture);
 	- **q)** l’agent financier d’un candidat à l’investiture qui contrevient sciemment au paragraphe 476.83(3) (omission de produire la version corrigée ou révisée du document dans le délai imparti);
 	- **r)** le candidat à l’investiture ou son agent financier qui contrevient sciemment au paragraphe 476.85(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé);
-	- **s)** le candidat à l’investiture ou son agent financier qui contrevient à l’alinéa 476.9a) ou qui contrevient sciemment à l’alinéa 476.9b) (production d’un document contenant des renseignements faux ou trompeurs ou d’un document incomplet);
+	- **r.1)** le candidat à l’investiture qui contrevient à l’article 476.891 (adresser une déclaration fausse ou trompeuse);
+	- **s)** l’agent financier d’un candidat à l’investiture qui contrevient à l’alinéa 476.9a) ou qui contrevient sciemment à l’alinéa 476.9b) (production d’un document contenant des renseignements faux ou trompeurs ou d’un document incomplet);
 	- **t)** l’agent financier d’un candidat à l’investiture qui contrevient sciemment aux paragraphes 476.92(2) ou (3) ou à l’article 476.93 (omission de disposer d’un excédent de fonds de course à l’investiture).
-> 2014, ch. 12, art. 99; 2018, ch. 20, art. 10.
+> 2014, ch. 12, art. 99; 2018, ch. 20, art. 10; 2018, ch. 31, art. 342 et 399.
 
 
 
@@ -14344,8 +16482,8 @@ La demande est notifiée au directeur général des élections.
 	- **b)** le candidat qui contrevient au paragraphe 477.1(2) (omission de nommer un vérificateur);
 	- **c)** le candidat qui contrevient à l’article 477.42 (omission de nommer un remplaçant à l’agent officiel ou au vérificateur);
 	- **d)** l’agent officiel qui contrevient à l’article 477.46 (omission d’observer les exigences relatives au compte bancaire);
-	- **e)** le candidat, l’agent officiel ou la personne autorisée visée à l’article 477.55 qui contrevient aux paragraphes 477.48(2) (dépasser le plafond des dépenses pour les avis de réunion de candidature) ou 477.52(1) (engager des dépenses électorales qui dépassent le plafond), ou le candidat, l’agent officiel ou la personne autorisée visée à l’article 477.55 ou le tiers qui contrevient au paragraphe 477.52(2) (collusion concernant le plafond des dépenses électorales du candidat);
-	- **f)** l’agent officiel qui contrevient aux paragraphes 477.54(1) ou (2) (omission de payer les créances dans le délai de trois ans ou paiement sans autorisation);
+	- **e)** le candidat, l’agent officiel ou la personne autorisée visée à l’article 477.55 qui contrevient au paragraphe 477.52(1) (engager des dépenses électorales qui dépassent le plafond), ou le candidat, l’agent officiel, la personne autorisée visée à l’article 477.55 ou le tiers qui contrevient au paragraphe 477.52(2) (collusion concernant le plafond des dépenses électorales du candidat);
+	- **f)** le candidat ou l’agent officiel qui contrevient aux paragraphes 477.54(1) ou (2) (omission de payer les créances dans le délai de trois ans ou paiement sans autorisation);
 	- **g)** l’agent officiel qui contrevient aux paragraphes 477.59(1), (2), (5) ou (7) (omission de produire le compte de campagne électorale du candidat ou un rapport ou un document afférents);
 	- **h)** l’agent officiel qui omet de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 477.59(4);
 	- **i)** le candidat qui contrevient au paragraphe 477.59(8) (omission d’envoyer à son agent officiel la déclaration concernant un compte de campagne électorale) ou au paragraphe 477.63(1) (omission de produire auprès du directeur général des élections la déclaration concernant un compte de campagne électorale);
@@ -14353,6 +16491,7 @@ La demande est notifiée au directeur général des élections.
 	- **k)** l’agent officiel qui contrevient aux paragraphes 477.59(11) ou (12) (omission de produire la version à jour de l’état des créances impayées);
 	- **l)** l’agent officiel qui omet de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 477.59(14);
 	- **m)** l’agent officiel qui contrevient à l’article 477.61 (omission de verser les contributions que le candidat ne peut retourner);
+	- **m.1)** le candidat qui contrevient aux paragraphes 477.64(1) ou (3) (omission de fournir l’état des dépenses ou d’aviser l’agent officiel);
 	- **n)** l’agent officiel qui contrevient au paragraphe 477.65(3) (omission de produire la version corrigée ou révisée du document dans le délai imparti);
 	- **o)** le candidat ou son agent officiel qui contrevient au paragraphe 477.67(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé);
 	- **p)** l’agent officiel qui contrevient à l’alinéa 477.72(1)b) (production d’un document incomplet);
@@ -14370,11 +16509,14 @@ La demande est notifiée au directeur général des élections.
 	- **a)** quiconque contrevient sciemment aux paragraphes 477.44(1) ou (2) (agir comme agent officiel ou vérificateur d’un candidat sans y être autorisé);
 	- **b)** la personne ou l’entité, autre que l’agent officiel, qui contrevient sciemment aux paragraphes 477.47(1) ou (2) (accepter des contributions et délivrer des reçus d’impôt);
 	- **c)** la personne ou l’entité, autre que l’agent officiel, qui contrevient sciemment au paragraphe 477.47(3) (accepter la fourniture de produits ou services ou la cession de fonds, fournir des produits ou services ou céder des fonds, sans y être autorisée);
-	- **d)** la personne ou l’entité, autre que l’agent officiel, le candidat ou la personne autorisée visée à l’article 477.55, qui contrevient sciemment aux paragraphes 477.47(4) ou (5) (payer ou engager des dépenses de campagne);
-	- **e)** la personne ou l’entité, autre que le candidat ou son agent officiel, qui contrevient sciemment au paragraphe 477.47(6) (payer des dépenses personnelles);
-	- **f)** le candidat, l’agent officiel ou la personne autorisée visée à l’article 477.55 qui contrevient sciemment au paragraphe 477.48(2) (dépasser le plafond des dépenses pour les avis de réunion de candidature);
+	- **d)** la personne ou l’entité, autre que l’agent officiel, qui contrevient sciemment au paragraphe 477.47(4) (payer des dépenses de campagne);
+	- **d.1)** la personne ou l’entité, autre que l’agent officiel, le candidat ou la personne autorisée visée à l’article 477.55, qui contrevient sciemment au paragraphe 477.47(5) (engager des dépenses de campagne);
+	- **d.2)** le candidat qui contrevient sciemment au paragraphe 477.47(5.1) (engager une dépense électorale sans autorisation préalable ou d’une façon qui ne respecte pas l’autorisation);
+	- **e)** la personne ou l’entité, autre que le candidat ou son agent officiel, qui contrevient sciemment au paragraphe 477.47(6) (payer certaines dépenses);
+	- **f)** [Abrogé, 2018, ch. 31, art. 343]
 	- **g)** le candidat, l’agent officiel ou la personne autorisée visée à l’article 477.55 qui contrevient sciemment au paragraphe 477.52(1) (engager des dépenses électorales qui dépassent le plafond);
 	- **h)** le candidat, l’agent officiel, la personne autorisée visée à l’article 477.55 ou le tiers qui contrevient au paragraphe 477.52(2) (collusion concernant le plafond des dépenses électorales du candidat);
+	- **h.1)** la personne autorisée au titre de l’article 477.55 qui contrevient sciemment à l’article 477.551 (conclure un contrat relatif à la campagne électorale qui n’est pas conforme à l’autorisation);
 	- **i)** l’agent officiel qui contrevient sciemment aux paragraphes 477.59(1), (2), (5) ou (7) (omission de produire le compte de campagne électorale du candidat ou un rapport ou un document afférents);
 	- **j)** l’agent officiel qui omet sciemment de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 477.59(4);
 	- **k)** le candidat qui contrevient sciemment au paragraphe 477.59(8) (omission d’envoyer à son agent officiel la déclaration concernant un compte de campagne électorale) ou au paragraphe 477.63(1) (omission de produire auprès du directeur général des élections la déclaration concernant un compte de campagne électorale);
@@ -14382,8 +16524,10 @@ La demande est notifiée au directeur général des élections.
 	- **m)** l’agent officiel qui contrevient sciemment aux paragraphes 477.59(11) ou (12) (omission de produire la version à jour de l’état des créances impayées);
 	- **n)** l’agent officiel qui omet sciemment de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 477.59(14);
 	- **o)** l’agent officiel qui contrevient sciemment à l’article 477.61 (omission de remettre une somme égale à la contribution reçue d’un donateur inconnu);
+	- **o.1)** le candidat qui contrevient sciemment aux paragraphes 477.64(1) ou (3) (omission de fournir l’état des dépenses ou d’aviser l’agent officiel);
 	- **p)** l’agent officiel qui contrevient sciemment au paragraphe 477.65(3) (omission de produire la version corrigée ou révisée du document dans le délai imparti);
 	- **q)** le candidat ou son agent officiel qui contrevient sciemment au paragraphe 477.67(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé);
+	- **q.1)** le candidat qui contrevient à l’article 477.711 (adresser une déclaration fausse ou trompeuse);
 	- **r)** l’agent officiel qui contrevient à l’alinéa 477.72(1)a) ou qui contrevient sciemment à l’alinéa 477.72(1)b) (production d’un document contenant des renseignements faux ou trompeurs ou d’un document incomplet);
 	- **s)** l’agent officiel qui contrevient sciemment aux paragraphes 477.81(2) ou (3) ou à l’article 477.82 (omission de disposer d’un excédent de fonds électoraux);
 	- **t)** l’agent enregistré ou l’agent financier qui contrevient sciemment à l’article 477.85 (cession de fonds interdite);
@@ -14391,7 +16535,7 @@ La demande est notifiée au directeur général des élections.
 	- **v)** le candidat qui contrevient sciemment au paragraphe 477.9(5) (omission de déposer la déclaration dans le délai prévu);
 	- **w)** le candidat qui contrevient sciemment au paragraphe 477.92(3) (omission de produire la version corrigée ou révisée de la déclaration dans le délai de trente jours ou dans le délai prorogé);
 	- **x)** le candidat qui contrevient à l’alinéa 477.95a) (production d’une déclaration contenant des renseignements faux ou trompeurs) ou qui contrevient sciemment à l’alinéa 477.95b) (déclaration incomplète).
-> 2014, ch. 12, art. 99.
+> 2014, ch. 12, art. 99; 2018, ch. 31, art. 343.
 
 
 
@@ -14422,9 +16566,10 @@ La demande est notifiée au directeur général des élections.
 	- **n)** l’agent financier d’un candidat à la direction qui omet de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 478.8(14);
 	- **o)** l’agent financier d’un candidat à la direction qui contrevient à l’un des paragraphes 478.81(1) à (3) (omission de produire un rapport sur les contributions ou un document afférent);
 	- **p)** l’agent financier d’un candidat à la direction qui contrevient à l’article 478.82 (omission de remettre les contributions que le candidat à la direction ne peut retourner);
+	- **p.1)** le candidat à la direction qui contrevient aux paragraphes 478.85(1) ou (3) (omission de fournir l’état des dépenses ou d’aviser l’agent financier);
 	- **q)** l’agent financier d’un candidat à la direction qui contrevient au paragraphe 478.86(3) (omission de produire la version corrigée ou révisée du document dans le délai imparti);
 	- **r)** le candidat à la direction ou son agent financier qui contrevient au paragraphe 478.88(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé);
-	- **s)** le candidat à la direction ou son agent financier qui contrevient à l’alinéa 478.93b) (production d’un document incomplet);
+	- **s)** l’agent financier d’un candidat à la direction qui contrevient à l’alinéa 478.93b) (production d’un document incomplet);
 	- **t)** l’agent financier d’un candidat à la direction qui contrevient aux paragraphes 478.95(2) ou (3) ou à l’article 478.96 (omission de disposer d’un excédent de fonds de course à la direction).
 
 **Infraction exigeant une intention : double procédure**
@@ -14439,7 +16584,7 @@ La demande est notifiée au directeur général des élections.
 	- **g)** la personne ou l’entité, autre que l’agent de campagne à la direction d’un candidat à la direction, qui contrevient sciemment au paragraphe 478.73(2) (accepter la fourniture de produits ou services ou la cession de fonds ou céder des fonds, sans y être autorisée);
 	- **h)** l’agent de campagne à la direction d’un candidat à la direction qui contrevient sciemment au paragraphe 478.73(3) (accepter des contributions de source interdite);
 	- **i)** la personne ou l’entité qui contrevient sciemment aux paragraphes 478.73(4) ou (5) (payer ou engager des dépenses sans y être autorisée);
-	- **j)** la personne ou l’entité qui contrevient sciemment au paragraphe 478.73(6) (payer des dépenses personnelles du candidat à la direction sans y être autorisée);
+	- **j)** la personne ou l’entité qui contrevient sciemment au paragraphe 478.73(6) (payer certaines dépenses du candidat à la direction sans en avoir le droit);
 	- **k)** l’agent financier d’un candidat à la direction qui contrevient sciemment aux paragraphes 478.8(1), (2), (5) ou (7) (omission de produire le compte de campagne à la direction ou un rapport ou un document afférents);
 	- **l)** l’agent financier d’un candidat à la direction qui omet sciemment de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 478.8(4);
 	- **m)** le candidat à la direction qui contrevient sciemment au paragraphe 478.8(8) (omission d’envoyer à son agent financier la déclaration concernant un compte de campagne à la direction) ou au paragraphe 478.84(1) (omission de produire auprès du directeur général des élections la déclaration concernant un compte de campagne à la direction);
@@ -14448,11 +16593,13 @@ La demande est notifiée au directeur général des élections.
 	- **p)** l’agent financier d’un candidat à la direction qui omet sciemment de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 478.8(14);
 	- **q)** l’agent financier d’un candidat à la direction qui contrevient sciemment à l’un des paragraphes 478.81(1) à (3) (omission de produire un rapport sur les contributions ou un document afférent);
 	- **r)** l’agent financier d’un candidat à la direction qui contrevient sciemment à l’article 478.82 (omission de remettre les contributions que le candidat à la direction ne peut retourner);
+	- **r.1)** le candidat à la direction qui contrevient sciemment aux paragraphes 478.85(1) ou (3) (omission de fournir l’état des dépenses ou d’aviser l’agent financier);
 	- **s)** l’agent financier d’un candidat à la direction qui contrevient sciemment au paragraphe 478.86(3) (omission de produire la version corrigée ou révisée du document dans le délai imparti);
 	- **t)** le candidat à la direction ou son agent financier qui contrevient sciemment au paragraphe 478.88(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé);
-	- **u)** le candidat à la direction ou son agent financier qui contrevient à l’alinéa 478.93a) ou qui contrevient sciemment à l’alinéa 478.93b) (production d’un document contenant des renseignements faux ou trompeurs ou d’un document incomplet);
+	- **t.1)** le candidat à la direction qui contrevient à l’article 478.921 (adresser une déclaration fausse ou trompeuse);
+	- **u)** l’agent financier d’un candidat à la direction qui contrevient à l’alinéa 478.93a) ou qui contrevient sciemment à l’alinéa 478.93b) (production d’un document contenant des renseignements faux ou trompeurs ou d’un document incomplet);
 	- **v)** l’agent financier d’un candidat à la direction qui contrevient sciemment aux paragraphes 478.95(2) ou (3) ou à l’article 478.96 (omission de disposer d’un excédent de fonds de course à la direction).
-> 2014, ch. 12, art. 99.
+> 2014, ch. 12, art. 99; 2018, ch. 31, art. 344.
 
 
 
@@ -14462,9 +16609,19 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**Responsabilité stricte : déclaration sommaire**
+
+**498** 
+
+- **(1)** Commet une infraction l’agent principal du parti enregistré qui omet de se conformer à une demande du commissaire faite au titre de l’article 510.001.
+
 **Infraction exigeant une intention — double procédure**
 
-**498** Commet une infraction quiconque contrevient volontairement au paragraphe 479(4) (refus d’obéir à un ordre de quitter les lieux).
+- **(2)** Commet une infraction :
+	- **a)** quiconque contrevient sciemment au paragraphe 479(4) (refus d’obéir à un ordre de quitter les lieux);
+	- **b)** l’agent principal du parti enregistré qui omet sciemment de se conformer à une demande du commissaire faite au titre de l’article 510.001.
+> 2000, ch. 9, art. 498; 2018, ch. 31, art. 344.1.
+
 
 
 
@@ -14482,8 +16639,10 @@ La demande est notifiée au directeur général des élections.
 **Infraction exigeant une intention — double procédure**
 
 - **(2)** Commet une infraction :
-	- **a)** quiconque contrevient sciemment aux paragraphes 549(3) (prestation d’un faux serment) ou 549(4) (contraindre ou inciter à la prestation d’un faux serment);
+	- **a)** la personne qui contrevient sciemment aux paragraphes 549(3) (fausse déclaration dans une déclaration solennelle ou un affidavit) ou 549(4) (fausse déclaration — contrainte ou incitation);
 	- **b)** le candidat qui contrevient sciemment à l’article 550 (signature d’engagements qui entravent sa liberté d’action au Parlement).
+> 2000, ch. 9, art. 499; 2018, ch. 31, art. 345.
+
 
 
 
@@ -14496,7 +16655,7 @@ La demande est notifiée au directeur général des élections.
 
 **500** 
 
-- **(1)** Quiconque commet une infraction visée à l’un ou l’autre des paragraphes 484(1), 486(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 496(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1) et 499(1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 2 000 $ et d’un emprisonnement maximal de trois mois, ou de l’une de ces peines.
+- **(1)** Quiconque commet une infraction visée à l’un ou l’autre des paragraphes 484(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 495.21(1), 495.3(1), 496(1), 496.1(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1), 498(1) et 499(1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 2 000 $ et d’un emprisonnement maximal de trois mois, ou de l’une de ces peines.
 
 **Peine — responsabilité stricte**
 
@@ -14504,7 +16663,7 @@ La demande est notifiée au directeur général des élections.
 
 **Peine — infractions intentionnelles (déclaration sommaire)**
 
-- **(2)** Quiconque commet une infraction visée à l’une des dispositions suivantes : les paragraphes 484(2) et 486(2), l’alinéa 487(1)a), les paragraphes 488(1), 489(2) et 491(2), l’article 493 et les paragraphes 495(2) et (3), 497.1(2) et 497.2(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+- **(2)** Quiconque commet une infraction visée à l’une des dispositions suivantes : les paragraphes 484(2) et 486(2), l’alinéa 487(1)a), les paragraphes 488(1) et 489(2), les articles 491.1 et 493 et les paragraphes 495(2) et (3), 497.1(2) et 497.2(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
 
 **Peine — infraction intentionnelle (déclaration sommaire)**
 
@@ -14518,14 +16677,22 @@ La demande est notifiée au directeur général des élections.
 
 **Peine — infractions intentionnelles (double procédure)**
 
-- **(5)** Quiconque commet une infraction visée à l’une des dispositions suivantes : les paragraphes 480(1) et (2), les articles 480.1 à 483, les paragraphes 484(3), 485(2) et 486(3), l’article 487, les paragraphes 488(2) et 489(3), l’article 490, les paragraphes 491(3) et 492(2), l’article 494, les paragraphes 495(5), 495.1(2), 495.2(2), 496(2), 497(2), 497.1(3), 497.2(3), 497.3(2), 497.4(2) et 497.5(2), l’article 498 et le paragraphe 499(2) est passible, sur déclaration de culpabilité :
+- **(5)** Quiconque commet une infraction visée à l’une des dispositions suivantes : les paragraphes 480(1) et (2), 480.1(1), 481(1) et 482(1), l’article 482.1, les paragraphes 484(3), 485(2), 486(3) et (4), 487(2), 488(2) et 489(3), l’article 490, le paragraphe 491(3), l’article 491.2, le paragraphe 492(2), l’article 494, les paragraphes 495(5), 495.1(2), 495.2(2), 495.21(2), 495.3(2), 496(2), 496.1(2), 497(2), 497.1(3), 497.2(3), 497.3(2), 497.4(2), 497.5(2), 498(2) et 499(2) est passible, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, d’une amende maximale de 20 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
 	- **b)** par mise en accusation, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
 
 **Peine supplémentaire — tiers**
 
-- **(6)** Le tribunal peut, en sus de la peine prévue aux paragraphes (1) ou (5), imposer au tiers qui commet l’infraction visée aux alinéas 496(1)a) ou (2)a) une amende correspondant au quintuple de l’excédent du montant des dépenses de publicité électorale sur le plafond autorisé.
-> 2000, ch. 9, art. 500; 2007, ch. 21, art. 39.1; 2014, ch. 12, art. 100; 2018, ch. 20, art. 11.
+- **(5.1)** Le tribunal peut, en sus de la peine prévue aux paragraphes (1) ou (5), imposer au tiers qui commet l’infraction visée aux alinéas 495.21(1)a) ou b) ou au paragraphe 495.21(2) une amende correspondant au quintuple de la somme des fonds utilisés provenant de l’étranger ou de la somme des fonds qui ont servi à esquiver l’interdiction d’utiliser des fonds provenant de l’étranger.
+
+**Peine supplémentaire — tiers**
+
+- **(5.2)** Le tribunal peut, en sus de la peine prévue aux paragraphes (1) ou (5), imposer au tiers qui commet l’infraction visée aux alinéas 495.3(1)a) ou (2)a) une amende correspondant au quintuple de l’excédent du montant des dépenses d’activité partisane, des dépenses de publicité partisane et des dépenses de sondage électoral sur le plafond autorisé.
+
+**Peine supplémentaire — tiers**
+
+- **(6)** Le tribunal peut, en sus de la peine prévue aux paragraphes (1) ou (5), imposer au tiers qui commet l’infraction visée aux alinéas 496(1)a) ou (2)a) une amende correspondant au quintuple de l’excédent du montant des dépenses d’activité partisane, des dépenses de publicité électorale et des dépenses de sondage électoral sur le plafond autorisé.
+> 2000, ch. 9, art. 500; 2007, ch. 21, art. 39.1; 2014, ch. 12, art. 100; 2018, ch. 20, art. 11; 2018, ch. 31, art. 346.
 
 
 
@@ -14599,32 +16766,34 @@ La demande est notifiée au directeur général des élections.
 	- **b)** le candidat ou l’agent officiel qui contrevient au paragraphe 330(2) (radiodiffusion à l’étranger);
 	- **c)** le candidat, l’agent officiel ou la personne autorisée visée à l’article 477.55 qui contrevient sciemment à l’article 477.52 (engager des dépenses électorales qui dépassent le plafond);
 	- **d)** le candidat ou l’agent officiel d’un candidat qui commet une infraction visée aux paragraphes 480(1) (entraver le processus électoral) ou (2) (agir d’une manière désordonnée pour empêcher une assemblée publique);
-	- **e)** le candidat qui contrevient aux paragraphes 549(3) (prestation d’un faux serment) ou 549(4) (contraindre ou inciter à la prestation d’un faux serment);
+	- **e)** le candidat qui contrevient aux paragraphes 549(3) (fausse déclaration dans une déclaration solennelle ou un affidavit) ou 549(4) (fausse déclaration — contrainte ou incitation);
 	- **f)** le candidat qui contrevient à l’article 550 (signature d’engagements qui entravent sa liberté d’action au Parlement).
 
 **Manoeuvres frauduleuses**
 
 - **(2)** Est coupable d’une infraction constituant une manoeuvre frauduleuse :
-	- **a)** le candidat ou l’agent officiel d’un candidat qui contrevient à l’article 7 (voter plus d’une fois);
+	- **a)** [Abrogé, 2018, ch. 31, art. 347]
 	- **b)** le candidat ou l’agent officiel d’un candidat qui contrevient à l’alinéa 43a) (entraver l’action d’un fonctionnaire électoral);
-	- **c)** le candidat ou l’agent officiel d’un candidat qui contrevient volontairement à l’alinéa 43b) (se faire passer pour un agent réviseur);
+	- **c)** le candidat ou l’agent officiel d’un candidat qui contrevient sciemment à l’alinéa 43b) (se faire passer pour un fonctionnaire électoral);
 	- **d)** le candidat ou l’agent officiel d’un candidat qui contrevient à l’alinéa 56b) (fausse déclaration destinée à faire radier une personne du Registre des électeurs);
 	- **e)** le candidat ou l’agent officiel d’un candidat qui contrevient aux alinéas 56c) ou d) (actions interdites relatives au Registre des électeurs);
 	- **f)** quiconque contrevient à l’article 89 (signature d’un acte de candidature par une personne inéligible);
 	- **f.1)** [Abrogé, 2014, ch. 12, art. 102]
 	- **g)** quiconque contrevient aux alinéas 111a), d) ou e) (actions interdites relatives à une liste électorale);
-	- **h)** quiconque contrevient à l’alinéa 167(1)a) (demander un bulletin de vote sous un faux nom);
+	- **g.1)** quiconque contrevient à l’article 281.5 (vote unique);
+	- **g.2)** quiconque contrevient à l’alinéa 281.7(1)a) (demander un bulletin de vote ou un bulletin de vote spécial sous un faux nom);
+	- **h)** le candidat ou l’agent officiel d’un candidat qui commet l’infraction visée au paragraphe 282.7(1) (offre de pot-de-vin);
 	- **h.01)** le candidat qui contrevient sciemment au paragraphe 477.9(1) (accepter un cadeau ou autre avantage);
-	- **h.1)** le candidat ou l’agent officiel d’un candidat qui commet une infraction visée à l’article 480.1 (usurpation de qualité);
-	- **h.2)** le candidat ou l’agent officiel d’un candidat qui commet l’infraction visée à l’article 482.1 (entrave);
-	- **i)** le candidat ou l’agent officiel d’un candidat qui commet l’infraction visée au paragraphe 481(1) (offre d’un pot-de-vin).
+	- **h.1)** le candidat ou l’agent officiel d’un candidat qui commet une infraction visée au paragraphe 480.1(1) (usurpation de qualité);
+	- **h.2)** le candidat ou l’agent officiel d’un candidat qui commet l’infraction visée à l’article 482.1 (entrave).
+	- **i)** [Abrogé, 2018, ch. 31, art. 347]
 
 **Conséquences des manoeuvres frauduleuses et des actes illégaux**
 
 - **(3)** Toute personne qui commet une infraction constituant une manoeuvre frauduleuse ou un acte illégal aux termes de la présente loi est, pendant les sept ans qui suivent la déclaration de culpabilité dans le cas d’une manoeuvre frauduleuse et pendant les cinq ans qui suivent cette déclaration dans le cas d’un acte illégal, en sus de toute autre peine que la présente loi prévoit à l’égard de cette infraction :
 	- **a)** inéligible à être candidat et inhabile à siéger à la Chambre des communes;
 	- **b)** inhabile à remplir une charge dont la Couronne ou le gouverneur en conseil nomme le titulaire.
-> 2000, ch. 9, art. 502; 2006, ch. 9, art. 58; 2014, ch. 12, art. 102.
+> 2000, ch. 9, art. 502; 2006, ch. 9, art. 58; 2014, ch. 12, art. 102; 2018, ch. 31, art. 347.
 
 
 
@@ -14638,16 +16807,24 @@ La demande est notifiée au directeur général des élections.
 
 **503** 
 
-- **(1)** Le parti politique qui est radié au cours d’une période électorale ne commet pas l’infraction visée aux alinéas 496(1)a) ou (2)a) si les dépenses de publicité électorale faites par ce parti avant sa radiation ont dépassé les plafonds fixés par l’article 350.
-
-**Parti admissible**
-
-- **(2)** Le parti admissible qui ne devient pas un parti enregistré pendant la période électorale d’une élection générale ne commet pas l’infraction visée aux alinéas 496(1)a) ou (2)a) si les dépenses de publicité électorale faites par ce parti jusqu’à la date où il perd son statut de parti admissible dans le cadre du paragraphe 390(4) ont dépassé les plafonds fixés par l’article 350.
+- **(1)** Le parti politique qui est radié au cours d’une période préélectorale ne commet pas l’infraction visée aux alinéas 495.3(1)a) ou (2)a) si les dépenses d’activité partisane, les dépenses de publicité partisane et les dépenses de sondage électoral engagées par ce parti avant sa radiation ont dépassé tout plafond fixé par l’article 349.1.
 
 **Précision**
 
-- **(3)** Dans les cas visés aux paragraphes (1) et (2), les dépenses de publicité électorale faites par le parti avant sa radiation ou la date de perte de statut, selon le cas, sont prises en compte pour l’application des plafonds visés à l’article 350; si les dépenses de publicité électorale ont déjà dépassé les plafonds, le parti ne peut plus faire de dépenses de publicité électorale.
-> 2000, ch. 9, art. 503; 2003, ch. 19, art. 59; 2014, ch. 12, art. 103.
+- **(1.1)** Dans les cas visés au paragraphe (1), les dépenses d’activité partisane, les dépenses de publicité partisane et les dépenses de sondage électoral engagées par le parti politique avant sa radiation sont prises en compte pour l’application de tout plafond visé à l’article 349.1; si elles ont déjà dépassé le plafond, le parti ne peut plus engager de dépenses d’activité partisane, de dépenses de publicité partisane ou de dépenses de sondage électoral.
+
+**Partis politiques radiés**
+
+- **(1.2)** Le parti politique qui est radié au cours d’une période électorale ne commet pas l’infraction visée aux alinéas 496(1)a) ou (2)a) si les dépenses d’activité partisane, les dépenses de publicité électorale et les dépenses de sondage électoral engagées par ce parti avant sa radiation ont dépassé tout plafond fixé par l’article 350.
+
+**Parti admissible**
+
+- **(2)** Le parti admissible qui ne devient pas un parti enregistré pendant la période électorale d’une élection générale ne commet pas l’infraction visée aux alinéas 496(1)a) ou (2)a) si les dépenses d’activité partisane, les dépenses de publicité électorale et les dépenses de sondage électoral engagées par ce parti jusqu’à la date où il perd son statut de parti admissible dans le cadre du paragraphe 390(4) ont dépassé tout plafond fixé par l’article 350.
+
+**Précision**
+
+- **(3)** Dans les cas visés aux paragraphes (1.2) et (2), les dépenses d’activité partisane, les dépenses de publicité électorale et les dépenses de sondage électoral engagées par le parti avant sa radiation ou la date de perte de statut, selon le cas, sont prises en compte pour l’application de tout plafond visé à l’article 350; si elles ont déjà dépassé le plafond, le parti ne peut plus engager de dépenses d’activité partisane, de dépenses de publicité électorale ou de dépenses de sondage électoral.
+> 2000, ch. 9, art. 503; 2003, ch. 19, art. 59; 2014, ch. 12, art. 103; 2018, ch. 31, art. 348.
 
 
 
@@ -14668,20 +16845,20 @@ La demande est notifiée au directeur général des élections.
 
 **505** 
 
-- **(1)** Si un tiers qui est un groupe commet une infraction visée à l’article 496, le responsable du groupe ou l’agent financier de celui-ci commettent l’infraction s’ils ont autorisé l’acte ou l’omission qui constitue l’infraction ou s’ils y ont participé ou consenti.
+- **(1)** Si un tiers qui est un groupe commet une infraction visée aux alinéas 495(1) a.2) ou 495(5) a.1) ou aux articles 495.21, 495.3, 496 ou 496.1, le responsable du groupe ou l’agent financier de celui-ci commettent l’infraction s’ils ont autorisé l’acte ou l’omission qui constitue l’infraction ou s’ils y ont participé ou consenti.
 
 **Poursuite de tiers : agent financier**
 
-- **(2)** Dans le cadre d’une poursuite intentée contre un tiers dans le cadre de l’article 496, le tiers est réputé être une personne et les actes ou omissions de la personne qui a signé la demande d’enregistrement — ou, faute de demande, qui l’aurait signé — ou de l’agent financier, dans les limites de leur mandat, sont réputés être les actes ou omissions du tiers.
+- **(2)** Dans le cadre d’une poursuite intentée contre un tiers dans le cadre des alinéas 495(1) a.2) ou 495(5) a.1) ou des articles 495.21, 495.3, 496 ou 496.1, le tiers est réputé être une personne et les actes ou omissions de la personne qui a signé la demande d’enregistrement — ou, faute de demande, qui l’aurait signé — ou de l’agent financier, dans les limites de leur mandat, sont réputés être les actes ou omissions du tiers.
 
-**Poursuite de tiers : personne morale ou groupe (50 000 $)**
+**Poursuite de tiers : personne morale ou groupe (50 000 $)**
 
-- **(3)** La personne morale ou le groupe qui commet l’infraction visée à l’alinéa 496(1)c) est passible, au lieu de la peine prévue au paragraphe 500(1), d’une amende maximale de 50 000 $.
+- **(3)** S’il commet l’infraction visée aux alinéas 495.3(1)d) ou 496(1)c), le tiers qui est une personne morale ou un groupe est passible, au lieu de la peine prévue au paragraphe 500(1), d’une amende maximale de 50 000 $.
 
-**Poursuite de tiers : personne morale ou groupe (100 000 $)**
+**Poursuite de tiers : personne morale ou groupe (100 000 $)**
 
-- **(4)** La personne morale ou le groupe qui commet l’infraction visée à l’alinéa 496(2)b) est passible, au lieu de la peine prévue au paragraphe 500(5), d’une amende maximale de 100 000 $.
-> 2000, ch. 9, art. 505; 2014, ch. 12, art. 104.
+- **(4)** S’il commet l’infraction visée aux alinéas 495.3(2)e) ou 496(2)e), le tiers qui est une personne morale ou un groupe est passible, au lieu de la peine prévue au paragraphe 500(5), d’une amende maximale de 100 000 $.
+> 2000, ch. 9, art. 505; 2014, ch. 12, art. 104; 2018, ch. 31, art. 349.
 
 
 
@@ -14768,6 +16945,98 @@ La demande est notifiée au directeur général des élections.
 
 
 
+### Violations
+
+
+
+**Violation**
+
+**508.1** Toute contravention aux articles 281.3, 281.4 ou 281.5 ou à une disposition des parties 16, 17 ou 18 ou toute omission de se conformer à un ordre du directeur général des élections donné au titre des parties 16, 17 ou 18, à une disposition d’une transaction ou à une disposition d’un engagement accepté par le commissaire constitue une violation pour laquelle l’auteur — personne ou entité — s’expose à une sanction administrative pécuniaire d’un montant fixé conformément aux dispositions de la présente loi.
+> 2018, ch. 31, art. 350.
+
+
+
+
+
+**Violation continue**
+
+**508.2** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+> 2018, ch. 31, art. 350.
+
+
+
+
+
+**Cumul interdit**
+
+**508.3** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction à la présente loi, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+> 2018, ch. 31, art. 350.
+
+
+
+
+
+### Sanctions administratives pécuniaires
+
+
+
+**But de la sanction**
+
+**508.4** La sanction administrative pécuniaire vise non pas à punir, mais à favoriser le respect de la présente loi.
+> 2018, ch. 31, art. 350.
+
+
+
+
+
+**Plafond**
+
+**508.5** 
+
+- **(1)** Sous réserve du paragraphe (2), le montant maximal de la sanction pour une violation est de 1 500 $, si l’auteur est un particulier, et de 5 000 $, s’il est une personne morale ou une entité.
+
+**Plafond — articles 363 et 367**
+
+- **(2)** Le montant maximal de la sanction pour une violation relative à une contravention aux articles 363 ou 367 correspond à la somme du double de la contribution apportée en contravention de l’article en question et des montants ci-après :
+	- **a)** 1 500 $, si l’auteur est un particulier, pour une contravention à l’article 363 ou 367;
+	- **b)** 5 000 $, si l’auteur est une personne morale ou une entité, pour une contravention à l’article 363.
+> 2018, ch. 31, art. 350.
+
+
+
+
+
+**Critères**
+
+**508.6** 
+
+- **(1)** Pour la détermination du montant de la sanction, il est tenu compte des critères suivants :
+	- **a)** la nature de l’intention ou de la négligence de l’auteur;
+	- **b)** la gravité du tort causé par la violation;
+	- **c)** les avantages que l’auteur a pu retirer de la violation;
+	- **d)** les efforts que l’auteur a déployés afin d’atténuer ou de neutraliser les incidences de la violation;
+	- **e)** les efforts que l’auteur a déployés afin d’éviter toute récidive d’une telle violation;
+	- **f)** l’assistance que l’auteur a apportée au commissaire en ce qui a trait à la violation, notamment en la déclarant et en fournissant tout renseignement pertinent;
+	- **g)** le comportement antérieur de l’auteur en ce qui a trait au respect des dispositions de la présente loi;
+	- **h)** la capacité de l’auteur d’acquitter le montant de la sanction;
+	- **i)** toute circonstance atténuante ou aggravante;
+	- **j)** tout autre critère qui, selon le commissaire, est pertinent.
+
+**Avis**
+
+- **(2)** Il ne peut être tenu compte d’un critère visé à l’alinéa (1)j) que si le commissaire en a publié un avis sur son site Internet.
+
+**Consultations**
+
+- **(3)** Le commissaire ne peut publier l’avis que s’il a consulté le directeur général des élections et, par la suite, s’est acquitté des obligations suivantes :
+	- **a)** consulter le comité consultatif des partis politiques constitué par le paragraphe 21.1(1);
+	- **b)** publier pendant une période minimale de trente jours sur son site Internet, aux fins de consultations publiques, un avis énonçant tout critère proposé.
+> 2018, ch. 31, art. 350.
+
+
+
+
+
 ### Commissaire aux élections fédérales
 
 
@@ -14824,8 +17093,8 @@ La demande est notifiée au directeur général des élections.
 - **a)** mener des enquêtes;
 - **b)** engager des poursuites pour infraction à la présente loi;
 - **c)** conclure des transactions;
-- **d)** [Non en vigueur]
-- **e)** [Non en vigueur]
+- **d)** dresser des procès-verbaux prévoyant une sanction administrative pécuniaire;
+- **e)** accepter des engagements.
 > 2014, ch. 12, art. 108 et 157; 2018, ch. 31, art. 352.
 
 
@@ -14850,6 +17119,15 @@ La demande est notifiée au directeur général des élections.
 **Prise de mesures**
 
 **509.22** Le commissaire peut prendre toute mesure qu’il estime dans l’intérêt public, notamment engager des dépenses dans l’exercice de ses attributions au titre de la présente partie.
+> 2018, ch. 31, art. 352.
+
+
+
+
+
+**Délégation**
+
+**509.23** Le commissaire peut, dans les limites qu’il fixe, déléguer à tout membre de son personnel les attributions relatives à la verbalisation ou à l’acceptation des engagements au titre de la présente partie.
 > 2018, ch. 31, art. 352.
 
 
@@ -14926,6 +17204,15 @@ La demande est notifiée au directeur général des élections.
 
 - **(3)** Pour l’application de la partie XV du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), toute personne chargée par le commissaire d’attributions relatives à l’exécution ou au contrôle d’application de la présente loi est réputée être un fonctionnaire public.
 > 2000, ch. 9, art. 510; 2014, ch. 12, art. 108; 2018, ch. 31, art. 356.
+
+
+
+
+
+**Compte des dépenses électorales — pièces justificatives**
+
+**510.001** Dans le cadre d’une enquête menée au titre de l’article 510 en réponse à une plainte, le commissaire peut demander à l’agent principal d’un parti enregistré de produire, au plus tard à une date donnée, les pièces justificatives pour toute dépense exposée dans le compte des dépenses électorales du parti, notamment les états de compte bancaires, les bordereaux de dépôt ainsi que les chèques annulés.
+> 2018, ch. 31, art. 357.
 
 
 
@@ -15074,9 +17361,12 @@ La demande est notifiée au directeur général des élections.
 	- **a)** avec le consentement de l’intéressé, le nom du plaignant, de la personne dont la conduite fait l’objet de l’enquête ou d’un témoin;
 	- **b)** les renseignements qui, à son avis, sont nécessaires pour mener une enquête;
 	- **c)** les renseignements requis par le directeur des poursuites pénales, lorsque des poursuites ont été engagées en vertu du paragraphe 511(1);
+	- **c.1)** les renseignements requis par le directeur général des élections, lorsque celui-ci est saisi d’une demande de révision au titre de l’article 521.14;
 	- **d)** les renseignements dont la communication est nécessaire dans le cadre des poursuites relatives à une infraction à la présente loi;
+	- **d.1)** les renseignements dont la communication est nécessaire dans le cadre d’une demande de contrôle judiciaire à l’égard de toute décision prise sous le régime de la présente loi;
 	- **e)** les renseignements dont la communication est requise par toute autre loi fédérale;
 	- **f)** les renseignements qui, à son avis, sont nécessaires pour conclure ou modifier une transaction;
+	- **f.1)** les renseignements qui, à son avis, sont nécessaires pour permettre à une personne ou à une entité de prendre un engagement;
 	- **g)** les renseignements dont la communication est, à son avis, dans l’intérêt public.
 
 **Intérêt public**
@@ -15263,7 +17553,7 @@ La demande est notifiée au directeur général des élections.
 **519** 
 
 - **(1)** S’il estime la transaction inexécutée, le commissaire fait signifier à l’intéressé un avis de défaut l’informant, selon le cas :
-	- **a)** [Non en vigueur]
+	- **a)** soit qu’un procès-verbal peut lui être signifié puisqu’il a omis de se conformer à une disposition de la transaction;
 	- **b)** soit que des poursuites peuvent être engagées contre lui pour les faits reprochés;
 	- **c)** soit, s’il y a eu suspension au titre du paragraphe 517(8), que les poursuites pourront reprendre.
 
@@ -15341,15 +17631,343 @@ La demande est notifiée au directeur général des élections.
 
 
 
+### Procédure relative à une violation
+
+
+
+#### Procès-verbal
+
+
+
+**Verbalisation**
+
+**521.11** 
+
+- **(1)** S’il a des motifs raisonnables de croire qu’une violation a été commise, le commissaire peut dresser un procès-verbal qu’il fait signifier à l’auteur de la violation. Le procès-verbal mentionne :
+	- **a)** le nom de l’intéressé;
+	- **b)** la disposition de la présente loi qui fait l’objet de la contravention ou l’ordre, la disposition de la transaction ou la disposition de l’engagement auquel l’intéressé ne s’est pas conformé;
+	- **c)** les faits reprochés;
+	- **d)** le montant de la sanction administrative pécuniaire à payer;
+	- **e)** les modalités de paiement;
+	- **f)** la faculté qu’a l’intéressé de demander la révision des faits ou du montant de la sanction auprès du directeur général des élections ou du commissaire ainsi que les modalités d’exercice de cette faculté;
+	- **g)** la faculté qu’a l’intéressé de prendre un engagement auprès du commissaire, lequel, une fois accepté, mettra fin à la procédure en violation à l’égard des faits mentionnés dans l’engagement;
+	- **h)** les conséquences du défaut de payer la sanction, de demander la révision ou de prendre un engagement auprès du commissaire.
+
+**Approbation des modalités d’exercice d’une demande de révision**
+
+- **(2)** Les modalités d’exercice du droit de demander une révision auprès du directeur général des élections qui sont mentionnées dans le procès-verbal doivent avoir été approuvées par le directeur général des élections.
+
+**Annulation ou correction du procès-verbal**
+
+- **(3)** Tant que le directeur général des élections ou le commissaire, selon le cas, n’est pas saisi d’une demande de révision du procès-verbal, le commissaire peut soit annuler celui-ci, soit corriger toute erreur qu’il contient.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Prescription**
+
+**521.12** 
+
+- **(1)** Le procès-verbal ne peut être dressé plus de cinq ans après la date où le commissaire a eu connaissance des faits reprochés et, en tout état de cause, plus de dix ans après la date où ces faits se sont produits.
+
+**Attestation du commissaire**
+
+- **(2)** Tout document paraissant délivré par le commissaire et attestant la date où les faits reprochés sont parvenus à sa connaissance fait foi de cette date, sauf preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+#### Engagements
+
+
+
+**Prise d’un engagement**
+
+**521.13** 
+
+- **(1)** La personne ou l’entité qui a commis une violation peut prendre un engagement écrit auprès du commissaire visant à faire respecter la présente loi.
+
+**Moment de la prise de l’engagement**
+
+- **(2)** Si un procès-verbal lui a été signifié, la personne ou l’entité peut prendre un engagement relativement aux faits reprochés dans le procès-verbal à tout moment avant qu’elle soit présumée responsable de la violation visée par le procès-verbal.
+
+**Contenu**
+
+- **(3)** Le commissaire ne peut accepter l’engagement que si celui-ci :
+	- **a)** mentionne, selon le cas :
+		- **(i)** la disposition de la présente loi qui fait l’objet de la contravention,
+		- **(ii)** l’ordre du directeur général des élections auquel l’intéressé ne s’est pas conformé,
+		- **(iii)** si l’engagement se rapporte au défaut de se conformer à une disposition d’une transaction ou d’un autre engagement, la disposition de la transaction ou de l’autre engagement à laquelle l’intéressé ne s’est pas conformé;
+	- **b)** mentionne les faits reprochés;
+	- **c)** énonce les conditions que le commissaire estime nécessaires, notamment, l’obligation pour la personne ou l’entité de payer la somme mentionnée dans l’engagement selon les modalités de forme et de temps précisées.
+
+**Obligation du commissaire**
+
+- **(4)** Avant d’accepter l’engagement, le commissaire informe l’intéressé de son obligation de publier l’avis prévu au paragraphe 521.34(2).
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+#### Révision
+
+
+
+**Demande de révision**
+
+**521.14** Au lieu de payer le montant de la sanction administrative pécuniaire mentionné dans le procès-verbal, l’intéressé peut, dans les trente jours suivant la date de la signification du procès-verbal — ou dans les trente jours suivant la date où lui est signifié l’avis portant que son engagement n’a pas été accepté — et selon les modalités mentionnées dans le procès-verbal :
+- **a)** si le montant de la sanction est de 500 $ ou moins, dans le cas d’un particulier, ou de 1 500 $ ou moins, dans le cas d’une personne morale ou d’une entité, demander au commissaire la révision des faits reprochés ou du montant, ou des deux;
+- **b)** si le montant de la sanction est supérieur à 500 $, dans le cas d’un particulier, ou à 1 500 $, dans le cas d’une personne morale ou d’une entité, demander au directeur général des élections la révision des faits reprochés ou du montant, ou des deux.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Décision**
+
+**521.15** 
+
+- **(1)** Si une demande de révision est présentée au titre de l’article 521.14, le directeur général des élections ou le commissaire, selon le cas, prend une ou plusieurs des mesures suivantes :
+	- **a)** décider, selon la prépondérance des probabilités, si l’intéressé est responsable de la violation;
+	- **b)** confirmer ou diminuer le montant de la sanction administrative pécuniaire;
+	- **c)** décider que la violation ne devrait être passible d’aucune sanction.
+
+**Éléments de preuve et arguments écrits**
+
+- **(2)** Le directeur général des élections ou le commissaire, selon le cas, ne tient compte que des éléments de preuve et des arguments écrits lorsqu’il prend toute décision au titre du paragraphe (1).
+
+**Signification**
+
+- **(3)** Le directeur général des élections ou le commissaire, selon le cas, fait signifier à l’intéressé une copie de toute décision prise au titre du paragraphe (1). Le directeur général des élections fait également transmettre au commissaire une copie de toute décision qu’il a prise au titre du paragraphe (1).
+
+**Effet de la non-responsabilité**
+
+- **(4)** La décision du directeur général des élections ou du commissaire, selon le cas, prise au titre du paragraphe (1) portant que l’intéressé n’est pas responsable de la violation met fin à la procédure.
+
+**Obligation de payer**
+
+- **(5)** L’intéressé est tenu, dans un délai de trente jours après la date de la signification et selon les modalités mentionnées dans le procès-verbal, de payer, selon le cas :
+	- **a)** le montant de la sanction prévu dans le procès-verbal et confirmé dans la décision;
+	- **b)** le montant réduit de la sanction prévu dans la décision.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+#### Conséquences
+
+
+
+**Paiement de la sanction — procès-verbal**
+
+**521.16** 
+
+- **(1)** Si l’auteur de la violation paie le montant de la sanction dans les trente jours suivant la date de la signification du procès-verbal et selon les modalités mentionnées dans celui-ci, le paiement, que le commissaire accepte en règlement, vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+**Paiement de la sanction — décision découlant de la révision**
+
+- **(2)** Si l’auteur de la violation paie le montant de la sanction dans les trente jours suivant la date où lui est signifiée la copie de la décision au titre du paragraphe 521.15(3) et selon les modalités mentionnées dans le procès-verbal visé par la décision, le paiement dont il est redevable aux termes du paragraphe 521.15(5), que le commissaire accepte en règlement, vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Engagement accepté avant la signification d’un procès-verbal**
+
+**521.17** 
+
+- **(1)** Si le commissaire accepte l’engagement avant la signification d’un procès-verbal à l’intéressé à l’égard des faits mentionnés dans l’engagement, aucun procès-verbal ne peut être signifié à l’intéressé à l’égard de ces faits.
+
+**Engagement accepté après la signification d’un procès-verbal**
+
+- **(2)** Si le commissaire accepte l’engagement après la signification d’un procès-verbal à l’intéressé à l’égard des faits mentionnés dans l’engagement, la procédure en violation à l’égard de ces faits, y compris toute révision demandée au titre de l’article 521.14, prend fin.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Aucune mesure après la signification du procès-verbal**
+
+**521.18** Le défaut par l’intéressé de prendre, dans les trente jours suivant la date de la signification du procès-verbal, l’une des mesures ci-après vaut déclaration de responsabilité à l’égard de la violation :
+- **a)** payer la sanction administrative pécuniaire selon les modalités mentionnées dans le procès-verbal;
+- **b)** se prévaloir, selon les modalités mentionnées dans le procès-verbal, de son droit de demander une révision;
+- **c)** prendre un engagement auprès du commissaire.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Aucune mesure après le refus de l’engagement**
+
+**521.19** Le défaut par l’intéressé de prendre, dans les trente jours suivant la date où lui est signifié l’avis portant que son engagement n’a pas été accepté, l’une des mesures ci-après vaut déclaration de responsabilité à l’égard de la violation :
+- **a)** payer la sanction administrative pécuniaire selon les modalités mentionnées dans le procès-verbal;
+- **b)** se prévaloir, selon les modalités mentionnées dans le procès-verbal, de son droit de demander une révision.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Défaut de paiement**
+
+**521.2** Le défaut par l’intéressé d’effectuer le paiement mentionné aux alinéas 521.15(5)a) ou b) dans les trente jours suivant la date où lui est signifiée la copie de la décision au titre du paragraphe 521.15(3) et selon les modalités mentionnées dans le procès-verbal visé par la décision vaut déclaration de responsabilité à l’égard de la violation.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+#### Mesures diverses
+
+
+
+**Signification — directeur général des élections**
+
+**521.21** 
+
+- **(1)** La signification d’une copie d’une décision du directeur général des élections se fait selon les modalités publiées sur le site Internet de celui-ci.
+
+**Signification — commissaire**
+
+- **(2)** La signification des documents ci-après se fait selon les modalités publiées sur le site Internet du commissaire :
+	- **a)** le procès-verbal;
+	- **b)** la copie d’une décision du commissaire prise au titre de l’article 521.15;
+	- **c)** l’avis portant que l’engagement pris par la personne ou l’entité n’a pas été accepté par le commissaire.
+
+**Date de signification**
+
+- **(3)** La date de signification d’un document visé aux paragraphes (1) ou (2) est :
+	- **a)** s’il s’agit d’un document laissé à un particulier, le jour où il lui est laissé;
+	- **b)** s’il s’agit d’un document envoyé par courrier recommandé, le dixième jour suivant la date indiquée sur le reçu du bureau de poste;
+	- **c)** s’il s’agit d’un document envoyé par messagerie, le dixième jour suivant la date indiquée sur le reçu remis à l’expéditeur par le service de messagerie;
+	- **d)** s’il s’agit d’un document transmis par moyen électronique, la date de la transmission.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Demande de révision**
+
+**521.22** 
+
+- **(1)** La personne ou l’entité à qui est signifié un procès-verbal peut présenter la demande de révision mentionnée dans le procès-verbal en la remettant en mains propres ou en l’envoyant par courrier recommandé, par messagerie ou par moyen électronique à la personne et au lieu indiqués dans le procès-verbal.
+
+**Date de la demande**
+
+- **(2)** La date de la demande est :
+	- **a)** la date à laquelle elle est remise au destinataire autorisé, si cette demande est remise en mains propres;
+	- **b)** la date de sa réception par le destinataire autorisé ou, si elle est antérieure, la date indiquée sur le reçu remis à l’expéditeur par le bureau de poste ou le service de messagerie, si la demande est envoyée par courrier recommandé ou par messagerie;
+	- **c)** la date de sa transmission, si elle est transmise par moyen électronique.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Précautions voulues**
+
+**521.23** Ni le directeur général des élections, ni le commissaire, ne peut décider que l’intéressé est responsable de la violation si ce dernier prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Principes de la common law**
+
+**521.24** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour une infraction à la présente loi s’appliquent à l’égard d’une violation dans la mesure où ils sont compatibles avec la présente loi.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Partis politiques radiés**
+
+**521.25** 
+
+- **(1)** Le parti politique qui est radié au cours d’une période préélectorale ne commet pas la violation constituée par la contravention à l’un ou l’autre des paragraphes 349.1(1) à (3) ou à l’article 349.2 si les dépenses d’activité partisane, les dépenses de publicité partisane et les dépenses de sondage électoral engagées par ce parti avant sa radiation ont dépassé les plafonds fixés à l’un des paragraphes 349.1(1) à (3).
+
+**Partis politiques radiés**
+
+- **(2)** Le parti politique qui est radié au cours d’une période électorale ne commet pas la violation constituée par la contravention à l’un ou l’autre des paragraphes 350(1) à (4) ou à l’article 351 si les dépenses d’activité partisane, les dépenses de publicité électorale et les dépenses de sondage électoral engagées par ce parti avant sa radiation ont dépassé les plafonds fixés à l’un des paragraphes 350(1) à (4).
+
+**Parti admissible**
+
+- **(3)** Le parti admissible qui ne devient pas un parti enregistré pendant la période électorale d’une élection générale ne commet pas la violation constituée par la contravention à l’un ou l’autre des paragraphes 350(1) à (4) ou à l’article 351 si les dépenses d’activité partisane, les dépenses de publicité électorale et les dépenses de sondage électoral engagées par ce parti jusqu’à la date où il perd son statut de parti admissible dans le cadre du paragraphe 390(4) ont dépassé les plafonds fixés à l’un des paragraphes 350(1) à (4).
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Preuve**
+
+**521.26** Dans les procédures en violation, le procès-verbal ou une copie de la décision apparemment signifiée en application de la présente partie est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Participants à la violation**
+
+**521.27** En cas de commission d’une violation par une entité, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation, que l’entité fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Tiers — groupes**
+
+**521.28** Si la violation est commise par une entité qui est un tiers et que celui-ci est un groupe, le responsable du groupe ou l’agent financier de celui-ci commet la violation s’il a autorisé l’acte ou l’omission qui constitue la violation ou s’il y a participé ou consenti.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Employé ou mandataire**
+
+**521.29** L’employeur ou le mandant est responsable de la violation commise par un employé ou un mandataire dans le cadre de son emploi ou de son mandat, que l’auteur de la violation soit ou non connu ou fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Capacité personnelle**
+
+**521.3** La sanction administrative pécuniaire infligée à un particulier en vertu de la présente partie est réputée infligée à titre personnel, peu importe ses fonctions ou son poste au moment de la violation.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
 **Créance de Sa Majesté**
 
 **521.31** 
 
 - **(1)** Constituent une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
 	- **a)** si l’intéressé conclut une transaction avec le commissaire qui stipule qu’une somme doit être versée au receveur général, la partie de cette somme qui demeure impayée après l’expiration du délai qui y est prévu;
-	- **b)** [Non en vigueur]
-	- **c)** [Non en vigueur]
-	- **d)** [Non en vigueur]
+	- **b)** si l’intéressé omet de se prévaloir de l’un des droits prévus à l’article 521.14 dans le délai et selon les modalités mentionnés dans le procès-verbal, le montant de la sanction qui est mentionné dans le procès-verbal et qui demeure impayé après l’expiration du délai de paiement qui y est prévu;
+	- **c)** si l’intéressé invoque l’un des droits prévus à l’article 521.14 dans le délai et selon les modalités mentionnés dans le procès-verbal, le montant de la sanction qui demeure impayé après l’expiration du délai de trente jours suivant la date de la signification de la décision du directeur général des élections ou du commissaire, soit, selon le cas :
+		- **(i)** le montant de la sanction prévu dans le procès-verbal et confirmé dans la décision,
+		- **(ii)** le montant réduit de la sanction prévu dans la décision;
+	- **d)** si l’intéressé prend un engagement qui est accepté par le commissaire et qui stipule qu’une somme doit être versée au receveur général, la partie de cette somme qui demeure impayée après l’expiration du délai qui y est prévu.
 
 **Prescription**
 
@@ -15373,6 +17991,30 @@ La demande est notifiée au directeur général des élections.
 **Enregistrement à la Cour fédérale**
 
 - **(2)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents. Dès lors, toutes les procédures d’exécution applicables à un tel jugement peuvent être engagées à son égard.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Remise au receveur général**
+
+**521.33** Toute somme perçue au titre d’une sanction administrative pécuniaire est versée au commissaire, qui la remet au receveur général.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Publication : procès-verbal**
+
+**521.34** 
+
+- **(1)** Le commissaire publie, selon les modalités qu’il estime indiquées, un avis comportant le nom de l’auteur présumé responsable de la violation, les faits reprochés et le montant de la sanction.
+
+**Publication : engagement accepté**
+
+- **(2)** Le commissaire publie, selon les modalités qu’il estime indiquées, un avis comportant le nom de la personne ou de l’entité qui a pris l’engagement — accepté par le commissaire — et le texte de l’engagement, à l’exception de la signature des particuliers qui l’ont signé.
 > 2018, ch. 31, art. 365.
 
 
@@ -15787,6 +18429,15 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**Relevés des électeurs ayant exercé leur droit de vote**
+
+**541.1** Le directeur général des élections, dans les cent quatre-vingt jours suivant le retour du bref, met à la disposition, notamment sous forme électronique, de chaque candidat et de chaque parti enregistré qui a soutenu un candidat dans la circonscription, un relevé — établi par le directeur général des élections à l’aide de tout document préparé pour l’application de l’alinéa 162i.1) — des électeurs ayant exercé leur droit de vote dans cette circonscription le jour du scrutin et pouvant être identifiés à l’aide de ces documents.
+> 2018, ch. 31, art. 371.
+
+
+
+
+
 ### Honoraires et frais des fonctionnaires électoraux
 
 
@@ -15887,27 +18538,54 @@ La demande est notifiée au directeur général des élections.
 
 
 
-### Serments et affidavits
+### Déclarations solennelles et affidavits
 
 
 
-**Prestation**
+**Réception d’une déclaration solennelle ou d’un affidavit**
 
 **549** 
 
-- **(1)** Lorsque la présente loi donne le pouvoir ou prescrit de recevoir un serment ou un affidavit, la personne expressément tenue par la présente loi de recevoir le serment ou affidavit doit le faire. Si aucune personne en particulier n’est précisée, la responsabilité incombe à l’une des personnes suivantes : le directeur général des élections ou la personne qu’il désigne par écrit, le juge d’un tribunal, le directeur du scrutin, le directeur adjoint du scrutin, un scrutateur, un greffier du scrutin, un notaire public, un juge de la cour provinciale, un juge de paix ou un commissaire aux serments autorisé dans la province.
+- **(1)** Les déclarations solennelles et les affidavits mentionnés dans la présente loi sont reçus par la personne expressément tenue par la présente loi de les recevoir. Si aucune personne en particulier n’est précisée, la responsabilité incombe à l’une des personnes suivantes : le directeur général des élections ou la personne qu’il désigne par écrit, un juge d’un tribunal, un fonctionnaire électoral, un fonctionnaire électoral d’unité au sens de l’article 177, un notaire public, un juge de la cour provinciale, un juge de paix ou un commissaire aux serments autorisé dans la province.
 
-**Serments, etc. reçus sans frais**
+**Déclarations solennelles et affidavits reçus sans frais**
 
-- **(2)** Tous serments ou affidavits reçus en application de la présente loi doivent l’être sans frais.
+- **(2)** Les déclarations solennelles et affidavits reçus au titre de la présente loi doivent l’être sans frais.
 
-**Prestation d’un faux serment**
+**Fausse déclaration dans une déclaration solennelle ou un affidavit**
 
-- **(3)** Il est interdit de prêter faussement un serment prévu par la présente loi.
+- **(3)** Il est interdit à toute personne de faire une fausse déclaration dans une déclaration solennelle ou un affidavit prévus par la présente loi.
 
-**Incitation à la prestation de faux serments**
+**Fausse déclaration — contrainte ou incitation**
 
-- **(4)** Il est interdit de contraindre ou de tenter de contraindre, d’inciter ou de tenter d’inciter une autre personne à prêter faussement un serment prévu par la présente loi.
+- **(4)** Il est interdit à toute personne de contraindre, d’inciter ou de tenter de contraindre ou d’inciter une autre personne à faire une fausse déclaration dans une déclaration solennelle ou un affidavit prévus par la présente loi.
+> 2000, ch. 9, art. 549; 2018, ch. 31, art. 372.
+
+
+
+
+
+**Déclaration solennelle pour être admis à voter**
+
+**549.1** 
+
+- **(1)** Pour l’application des paragraphes 143(3) et (3.2), des articles 144 et 147 et des alinéas 161(1)b) et 169(2)b), la déclaration solennelle au moyen de laquelle un électeur établit son identité et sa résidence ou uniquement sa résidence, établit sa qualité d’électeur ou établit qu’il n’a pas déjà voté lors de l’élection est faite selon le formulaire prescrit, lequel comporte les déclarations suivantes :
+	- **a)** l’électeur réside à l’adresse où il déclare résider;
+	- **b)** il a ou aura atteint l’âge de dix-huit ans le jour du scrutin;
+	- **c)** il est citoyen canadien;
+	- **d)** il n’a pas déjà voté lors de l’élection et il n’est pas un électeur assujetti à l’article 235.
+
+**Déclaration solennelle pour répondre d’un autre électeur**
+
+- **(2)** Pour l’application de l’alinéa 143(3)b) et des sous-alinéas 161(1)b)(ii) et 169(2)b)(ii), la déclaration solennelle qu’un électeur fait pour répondre d’un autre électeur est faite selon le formulaire prescrit, lequel comporte les déclarations suivantes :
+	- **a)** l’autre électeur réside dans une section de vote rattachée au bureau de scrutin;
+	- **b)** il n’a pas déjà voté lors de l’élection, à la connaissance de l’électeur;
+	- **c)** l’électeur connaît l’autre électeur;
+	- **d)** il est citoyen canadien au moment où l’autre électeur vote;
+	- **e)** sauf dans les cas visés aux paragraphes 143(3.01), 161(2) et 169(2.01), il ne répond pas d’un autre électeur à l’élection;
+	- **f)** un autre électeur ne répond pas de lui à l’élection.
+> 2018, ch. 31, art. 372.
+
 
 
 
@@ -15984,7 +18662,22 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**555** [Abrogé, 2014, ch. 12, art. 125]
+
+### Contrôle judiciaire
+
+
+
+**Intimé — directeur général des élections**
+
+**555** 
+
+- **(1)** Lorsqu’une demande en contrôle judiciaire d’une décision du directeur général des élections ou de toute personne à laquelle il a délégué ses attributions est présentée, le directeur général des élections agit à titre d’intimé.
+
+**Intimé — commissaire**
+
+- **(2)** Lorsqu’une demande en contrôle judiciaire d’une décision du commissaire est présentée, celui-ci agit à titre d’intimé.
+> 2000, ch. 9, art. 555; 2014, ch. 12, art. 125; 2018, ch. 31, art. 374.
+
 
 
 
@@ -16014,7 +18707,7 @@ La demande est notifiée au directeur général des élections.
 
 
 ### **ANNEXE 1** 
-### FORMULAIRE 1
+### **FORMULAIRE 1** 
 **(article 58)**
 ## Bref d’élection
 
@@ -16047,7 +18740,7 @@ DE POURVOIR à l’élection, selon la loi, d’un député à la Chambre des co
 ET DE POURVOIR aux candidatures jusqu’au ____________;
 
 
-Et, si la tenue d’un scrutin est nécessaire, de tenir ce scrutin le ____________.;
+Et, si la tenue d’un scrutin est nécessaire, de tenir ce scrutin le ____________;
 
 
 ET DE FAIRE RAPPORT du nom de ce député, lorsqu’il sera ainsi élu, qu’il soit présent ou absent, à Notre directeur général des élections, selon que le prescrit la loi (*s’il s’agit d’une élection partielle, omettre ce qui suit*) aussitôt que possible et au plus tard le ____________ jour de ____________ (*année*).
@@ -16056,7 +18749,7 @@ ET DE FAIRE RAPPORT du nom de ce député, lorsqu’il sera ainsi élu, qu’il 
 **Témoin :**____________, Suppléant de Notre très fidèle et bien-aimé ____________, Chancelier et Compagnon principal de Notre Ordre du Canada, Chancelier et Commandeur de Notre Ordre du Mérite militaire, GOUVERNEUR GÉNÉRAL ET COMMANDANT EN CHEF DU CANADA.
 
 
-En Notre ville d’Ottawa, le ____________ en la ____________ année de Notre règne.
+En Notre ville (*de/d’*) ____________, le ____________ en la ____________ année de Notre règne.
 
 
 PAR ORDRE,
@@ -16065,14 +18758,14 @@ PAR ORDRE,
 Directeur général des élections
 
 
-### FORMULAIRE 2
+### **FORMULAIRE 2** 
 **(article 62)**
 
 > Image: Formulaire d’Avis de convocation
 
 
 
-### FORMULAIRE 3
+### **FORMULAIRE 3** 
 **(paragraphes 116(1) et 138(1))**
 ## Formulaire du bulletin de vote
 ## Recto
@@ -16081,7 +18774,7 @@ Directeur général des élections
 
 
 
-### FORMULAIRE 3** (** *suite et fin***)** 
+### **FORMULAIRE 3 (** *suite et fin***)** 
 ## Formulaire du bulletin de vote
 ## Verso
 
@@ -16089,14 +18782,15 @@ Directeur général des élections
 
 
 
-### FORMULAIRE 4
+### **FORMULAIRE 4** 
 **(article 186)**
 ## Formulaire du bulletin de vote spécial
-## Recto du bulletin de vote
 
-> Image: Vues avant et arrière du formulaire du bulletin de vote spécial
+> Image: Formulaire du bulletin de vote spécial
 
 
+
+> 2000, ch. 9, ann. 1; 2018, ch. 31, art. 375.
 
 
 
@@ -16826,7 +19520,7 @@ Nunavut
 
 
 
-**d)** le juge consigne, dans le rapport de dépouillement d’urne, sa décision à l’égard de chaque bulletin contesté, remplit la portion du rapport de dépouillement d’urne intitulée « décision du juge » et le paraphe en regard du nombre de votes attribués à chacun des candidats;
+**d)** le juge consigne, dans le rapport de dépouillement d’urne, sa décision à l’égard de chaque bulletin contesté et remplit la portion du rapport de dépouillement d’urne intitulée « décision du juge »;
 
 
 
@@ -16838,7 +19532,7 @@ Nunavut
 
 
 
-**g)** le rapport de dépouillement d’urne portant la décision du juge et l’original du relevé du scrutin sont remis à la personne responsable de la préparation du rapport principal de dépouillement.
+**g)** le juge signe le rapport de dépouillement d’urne portant sa décision, lequel est remis, avec l’original du relevé du scrutin, à la personne responsable de la préparation du rapport principal de dépouillement.
 
 
 
@@ -16873,6 +19567,6 @@ Nunavut
 **24** Toute question non traitée dans la présente procédure, de même que toute question relative à son application, est tranchée par le juge, notamment celle de savoir si les personnes visées à l’article 1 peuvent communiquer avec les médias.
 
 
-> 2014, ch. 12, art. 126.
+> 2014, ch. 12, art. 126; 2018, ch. 31, art. 377.
 
 
