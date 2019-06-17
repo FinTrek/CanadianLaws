@@ -1416,14 +1416,14 @@ Schedules I and II shall be amended accordingly.
 - **(a)** that is prohibited by an Act of Parliament;
 - **(b)** that is, in the opinion of the Superintendent, deceptively misdescriptive;
 - **(c)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing
-	- **(i)** trade-mark or trade name, or
+	- **(i)** trademark or trade name, or
 	- **(ii)** corporate name of a body corporate,
-except where the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
+except where the trademark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trademark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
 - **(d)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified;
 - **(e)** that is reserved under section 43 for another bank or an authorized foreign bank or a proposed bank or a proposed authorized foreign bank or under section 697 for a bank holding company or a proposed bank holding company;
 - **(f)** that includes the phrase “credit union” or “coopérative de crédit”, or any abbreviation, combination or derivative of those phrases, unless it is to be a federal credit union and its name also includes the word “bank”, “banque”, “federal” or “fédérale” in conjunction with those phrases; or
 - **(g)** that includes the words “cooperative” or “coopérative”, or any abbreviation, combination or derivative of those words, unless it is to be a federal credit union and its name also includes the word “bank”, “banque”, “federal” or “fédérale” in conjunction with those words.
-> 1991, c. 46, s. 40; 1996, c. 6, s. 1; 1997, c. 15, s. 5; 1999, c. 28, s. 12; 2001, c. 9, s. 51; 2010, c. 12, s. 1917.
+> 1991, c. 46, s. 40; 1996, c. 6, s. 1; 1997, c. 15, s. 5; 1999, c. 28, s. 12; 2001, c. 9, s. 51; 2010, c. 12, s. 1917; 2014, c. 20, s. 366(E).
 
 
 
@@ -15150,16 +15150,16 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 - **(1)** An order made under subsection 524(1) or 528(1.1) may not provide for the use of a name that is
 	- **(a)** prohibited by an Act of Parliament;
 	- **(b)** in the opinion of the Superintendent, deceptively misdescriptive;
-	- **(c)** the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing trade-mark, trade name or corporate name of a body corporate, except where
-		- **(i)** the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name, and
-		- **(ii)** consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in any manner that the Superintendent may require;
+	- **(c)** the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing trademark, trade name or corporate name of a body corporate, except where
+		- **(i)** the trademark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name, and
+		- **(ii)** consent to the use of the trademark, trade name or corporate name is signified to the Superintendent in any manner that the Superintendent may require;
 	- **(d)** the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any other entity carries on business or is identified; or
 	- **(e)** reserved under section 43 for an existing or proposed bank or for an existing or proposed authorized foreign bank or under section 697 for an existing or proposed bank holding company.
 
 **Name otherwise prohibited**
 
 - **(2)** An order made under subsection 524(1) or 528(1.1) may provide for the use of a name that includes a word referred to in section 47 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md).
-> 1991, c. 46, s. 530; 1999, c. 28, s. 35; 2001, c. 9, s. 137; 2007, c. 6, s. 77.
+> 1991, c. 46, s. 530; 1999, c. 28, s. 35; 2001, c. 9, s. 137; 2007, c. 6, s. 77; 2014, c. 20, s. 366(E).
 
 
 
@@ -18653,12 +18653,12 @@ together with such other information about the background, business record and e
 - **(a)** that is prohibited by an Act of Parliament;
 - **(b)** that is, in the opinion of the Superintendent, deceptively misdescriptive;
 - **(c)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing
-	- **(i)** trade-mark or trade name, or
+	- **(i)** trademark or trade name, or
 	- **(ii)** corporate name of a body corporate,
-except where the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
+except where the trademark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trademark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
 - **(d)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified; or
 - **(e)** that is reserved under section 43 for a bank or an authorized foreign bank or a proposed bank or proposed authorized foreign bank or under section 697 for another bank holding company or a proposed bank holding company.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2014, c. 20, s. 366(E).
 
 
 
