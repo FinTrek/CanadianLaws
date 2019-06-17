@@ -7385,7 +7385,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 - **(2)** Aux fins de l’essai mentionné au paragraphe (1), il est supposé que chaque membre du chargement en personnes a une masse de 75 kg.
 
 
-> DORS/80-685, art. 65 à 77; DORS/96-218, art. 42; DORS/2001-179, art. 61; DORS/2004-253, art. 7(F), 8(F) et 9(A); DORS/2006-256, art. 15.
+> DORS/80-685, art. 65 à 77; DORS/96-218, art. 42; DORS/2001-179, art. 61; DORS/2004-253, art. 7(F), 8(F) et 9(A); DORS/2006-256, art. 15; 2014, ch. 20, art. 366(A).
 
 
 
@@ -7827,7 +7827,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 	- **k)** les mentions « PLATE-FORME DE SAUVETAGE GONFLABLE » et « INFLATABLE RESCUE PLATFORM ».
 
 
-> DORS/80-685, art. 78; DORS/96-218, art. 42; DORS/2001-179, art. 62; DORS/2004-253, art. 10(F) et 11(F).
+> DORS/80-685, art. 78; DORS/96-218, art. 42; DORS/2001-179, art. 62; DORS/2004-253, art. 10(F) et 11(F); 2014, ch. 20, art. 366(A).
 
 
 
@@ -8386,7 +8386,7 @@ où
 - **(2)** L’appareil lance-amarre qui est une unité intégrée doit porter une inscription indiquant le mois et l’année de fabrication du projectile et du dispositif d’allumage.
 
 
-> DORS/79-546, art. 2; DORS/96-218, art. 49; DORS/2001-179, art. 68.
+> DORS/79-546, art. 2; DORS/96-218, art. 49; DORS/2001-179, art. 68; 2014, ch. 20, art. 366(A).
 
 
 
