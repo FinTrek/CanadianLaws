@@ -92,7 +92,7 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 ***publicité de style de vie*** Publicité qui associe un produit à une façon de vivre — telle une façon de vivre intégrant notamment du prestige, des loisirs, de l’enthousiasme, de la vitalité, du risque ou de l’audace — ou qui évoque une émotion ou une image, positive ou négative, à l’égard d’une façon de vivre. (*lifestyle advertising*)
 
 ***vendre*** Vise notamment le fait de vendre en vue de l’exportation. Est assimilé à l’acte de vendre le fait de mettre en vente ou d’exposer pour la vente. (*sell*)
-> 1997, ch. 13, art. 2; 2009, ch. 27, art. 2; 2018, ch. 9, art. 3 et 79.1.
+> 1997, ch. 13, art. 2; 2009, ch. 27, art. 2; 2014, ch. 20, art. 366(A); 2018, ch. 9, art. 3 et 79.1.
 
 
 
@@ -186,7 +186,7 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 **Exception — marque de commerce ou inscription**
 
 - **(2)** Le paragraphe (1) n’a pas pour effet d’interdire l’utilisation d’un agent colorant pour représenter une marque de commerce sur un produit du tabac, pour faire figurer sur un tel produit une inscription exigée sous le régime de la présente loi ou d’une autre loi fédérale ou provinciale ou pour tout autre motif prévu par règlement.
-> 2009, ch. 27, art. 4; 2018, ch. 9, art. 7 et 70.
+> 2009, ch. 27, art. 4; 2014, ch. 20, art. 366(A); 2018, ch. 9, art. 7 et 70.
 
 
 
@@ -722,6 +722,8 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 **Exception**
 
 - **(3)** Le présent article ne s’applique pas aux marques de commerce qui figurent sur un produit du tabac en vente au Canada le 2 décembre 1996.
+> 1997, ch. 13, art. 21; 2014, ch. 20, art. 366(A).
+
 
 
 
