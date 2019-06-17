@@ -36,7 +36,7 @@ Enabling authorities:
 
 ***nominal volume***[Repealed, SOR/96-278, s. 1]
 
-***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material thereon, other than a trade mark or common name and that, because of any design appearing on its surface or because of its shape or texture, appears to be a decorative ornament and is sold as a decorative ornament in addition to being sold as the container of a product; (*emballage décoratif*)
+***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material thereon, other than a trademark or common name and that, because of any design appearing on its surface or because of its shape or texture, appears to be a decorative ornament and is sold as a decorative ornament in addition to being sold as the container of a product; (*emballage décoratif*)
 
 ***principal display surface*** means,
 - **(a)** in the case of a container that has a side or surface that is displayed or visible under normal or customary conditions of sale or use, the total area of such side or surface excluding the top, if any,
@@ -55,7 +55,7 @@ Enabling authorities:
 - **(a)** in the case of a container that is mounted on a display card, that part of the label applied to all or part of the principal display surface of the container or to all or part of the side of the display card that is displayed or visible under normal or customary conditions of sale or use or to both such parts of the container and the display card,
 - **(b)** in the case of an ornamental container, that part of the label applied to all or part of the bottom of the container or to all or part of the principal display surface or to all or part of a tag that is attached to the container, and
 - **(c)** in the case of all other containers, that part of the label applied to all or part of the principal display surface. (*espace principal*)
-> SOR/96-278, s. 1; SOR/2014-8, s. 1; SOR/2018-108, s. 379.
+> SOR/96-278, s. 1; 2014, c. 20, s. 366(E); SOR/2014-8, s. 1; SOR/2018-108, s. 379.
 
 
 
