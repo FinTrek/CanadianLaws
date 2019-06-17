@@ -987,6 +987,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Propriété intellectuelle**
 
 **71** L’Agence peut mettre en circulation et notamment concéder — sous licence ou par vente — des brevets, droits d’auteur, dessins industriels, marques de commerce ou titres de propriété analogues qu’elle détient ou dont elle est à l’origine.
+> 1999, ch. 17, art. 71; 2014, ch. 20, art. 366(A).
+
 
 
 
