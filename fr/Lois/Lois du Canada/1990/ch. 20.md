@@ -403,7 +403,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Identification**
 
 - **(6)** Toute dénomination, approuvée par le directeur, doit être facilement reconnaissable si une marque de commerce, un nom commercial ou telle autre marque est utilisé relativement à celle-ci.
-> 1990, ch. 20, art. 14; 2015, ch. 2, art. 10.
+> 1990, ch. 20, art. 14; 2014, ch. 20, art. 366(A); 2015, ch. 2, art. 10.
 
 
 
