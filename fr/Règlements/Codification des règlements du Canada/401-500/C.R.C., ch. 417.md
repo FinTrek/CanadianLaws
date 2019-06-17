@@ -55,7 +55,7 @@ Autorités habilitantes :
 - **a)** dans le cas d’un emballage qui comprend une carte réclame, la partie de l’étiquette apposée entièrement ou en partie sur la principale surface exposée de l’emballage ou entièrement ou en partie sur le côté de la carte réclame qui est exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation ou sur ces deux parties de l’emballage et de la carte réclame,
 - **b)** dans le cas d’un emballage décoratif, la partie de l’étiquette apposée, entièrement ou en partie sur le dessous de l’emballage, sur la principale surface exposée, ou sur une étiquette mobile fixée à l’emballage, et
 - **c)** dans le cas de tous les autres emballages, la partie de l’étiquette apposée entièrement ou en partie sur la principale surface exposée. (*principal display panel*)
-> DORS/96-278, art. 1; DORS/2014-8, art. 1; DORS/2018-108, art. 379.
+> DORS/96-278, art. 1; 2014, ch. 20, art. 366(A); DORS/2014-8, art. 1; DORS/2018-108, art. 379.
 
 
 
