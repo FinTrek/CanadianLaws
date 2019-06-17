@@ -295,7 +295,7 @@ n’a pas pouvoir libératoire.
 **Symbole officiel**
 
 - **(2)** Le symbole qui figure à l’annexe II est le symbole officiel des Jeux olympiques.
-> 1974-75-76, ch. 68, art. 4.
+> 1974-75-76, ch. 68, art. 4; 2014, ch. 20, art. 366(A).
 
 
 
@@ -348,7 +348,7 @@ n’a pas pouvoir libératoire.
 **Infraction**
 
 - **(10)** Quiconque contrevient au présent article est coupable d’une infraction punissable sur déclaration sommaire de culpabilité.
-> 1974-75-76, ch. 68, art. 4.
+> 1974-75-76, ch. 68, art. 4; 2014, ch. 20, art. 366(A).
 
 
 
