@@ -43,11 +43,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Words and expressions**
 
-- **(2)** Unless the context otherwise requires, words and expressions used in this Act have the same meaning as in the Trade-marks Act.
+- **(2)** Unless the context otherwise requires, words and expressions used in this Act have the same meaning as in the [Trademarks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md).
 
 **Schedule 2 marks**
 
 - **(3)** A mark set out in column 1 of Schedule 2 is considered not to be an Olympic or Paralympic mark after the corresponding expiry date set out in column 2.
+> 2007, c. 25, s. 2; 2014, c. 20, s. 366(E).
+
 
 
 
@@ -56,11 +58,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **3** 
 
-- **(1)** No person shall adopt or use in connection with a business, as a trade-mark or otherwise, an Olympic or Paralympic mark or a mark that so nearly resembles an Olympic or Paralympic mark as to be likely to be mistaken for it.
+- **(1)** No person shall adopt or use in connection with a business, as a trademark or otherwise, an Olympic or Paralympic mark or a mark that so nearly resembles an Olympic or Paralympic mark as to be likely to be mistaken for it.
 
 **Prohibited marks — translations**
 
-- **(2)** No person shall use in connection with a business, as a trade-mark or otherwise, a mark that is a translation in any language of an Olympic or Paralympic mark.
+- **(2)** No person shall use in connection with a business, as a trademark or otherwise, a mark that is a translation in any language of an Olympic or Paralympic mark.
 
 **Exception**
 
@@ -69,17 +71,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Excepted uses**
 
 - **(4)** Nothing in subsection (1) or (2) prevents
-	- **(a)** the adoption, use or registration, as a trade-mark or otherwise, of a mark described in subsection (1) or (2) if the person has obtained the written consent of an organizing committee during any period prescribed by regulation or of the COC or the CPC during any other period, and acts in accordance with that consent;
-	- **(b)** the use of a trade-mark by an owner or licensee of the trade-mark if an owner or licensee of the trade-mark used it before March 2, 2007 and the use subsequent to that date is in association with
-		- **(i)** the same goods or services as those for which the trade-mark was used before that date,
-		- **(ii)** the goods or services in respect of which it is registered under the Trade-marks Act, or
+	- **(a)** the adoption, use or registration, as a trademark or otherwise, of a mark described in subsection (1) or (2) if the person has obtained the written consent of an organizing committee during any period prescribed by regulation or of the COC or the CPC during any other period, and acts in accordance with that consent;
+	- **(b)** the use of a trademark by an owner or licensee of the trademark if an owner or licensee of the trademark used it before March 2, 2007 and the use subsequent to that date is in association with
+		- **(i)** the same goods or services as those for which the trademark was used before that date,
+		- **(ii)** the goods or services in respect of which it is registered under the [Trademarks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md), or
 		- **(iii)** any other goods or services of the same general class as that for which it is registered or was, before that date, used;
-	- **(c)** the use of a trade-mark by an owner or licensee of the trade-mark if an owner or licensee of the trade-mark used it before the day of publication in Part I of the Canada Gazette of an order that, by adding a mark to Schedule 1 or 2, prohibits the use of the trade-mark and the use subsequent to that day is in association with
-		- **(i)** the same goods or services as those for which the trade-mark was used before that date,
-		- **(ii)** the goods or services in respect of which it is registered under the Trade-marks Act, or
+	- **(c)** the use of a trademark by an owner or licensee of the trademark if an owner or licensee of the trademark used it before the day of publication in Part I of the Canada Gazette of an order that, by adding a mark to Schedule 1 or 2, prohibits the use of the trademark and the use subsequent to that day is in association with
+		- **(i)** the same goods or services as those for which the trademark was used before that date,
+		- **(ii)** the goods or services in respect of which it is registered under the [Trademarks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md), or
 		- **(iii)** any other goods or services of the same general class as that for which it is registered or was, before that date, used;
-	- **(d)** the use by Her Majesty, a university or a public authority, or a person authorized by Her Majesty, the university or the public authority, of a badge, crest, emblem or other mark in respect of which Her Majesty, the university or the public authority, as the case may be, has requested that the Registrar give public notice under paragraph 9(1)(n) of the Trade-marks Act, if the notice is given before March 2, 2007;
-	- **(e)** the use by Her Majesty, a university or a public authority, or a person authorized by Her Majesty, the university or the public authority, of a badge, crest, emblem or other mark in respect of which Her Majesty, the university or the public authority, as the case may be, has requested that the Registrar give public notice under paragraph 9(1)(n) of the Trade-marks Act, if the notice is given before the day of publication in Part I of the Canada Gazette of an order that, by adding a mark to Schedule 1 or 2, prohibits the use of the badge, crest, emblem or other mark;
+	- **(d)** the use by Her Majesty, a university or a public authority, or a person authorized by Her Majesty, the university or the public authority, of a badge, crest, emblem or other mark in respect of which Her Majesty, the university or the public authority, as the case may be, has requested that the Registrar give public notice under paragraph 9(1)(n) of the [Trademarks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md), if the notice is given before March 2, 2007;
+	- **(e)** the use by Her Majesty, a university or a public authority, or a person authorized by Her Majesty, the university or the public authority, of a badge, crest, emblem or other mark in respect of which Her Majesty, the university or the public authority, as the case may be, has requested that the Registrar give public notice under paragraph 9(1)(n) of the [Trademarks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md), if the notice is given before the day of publication in Part I of the Canada Gazette of an order that, by adding a mark to Schedule 1 or 2, prohibits the use of the badge, crest, emblem or other mark;
 	- **(f)** the use of a protected geographical indication identifying a wine or spirit or an agricultural product or food if the wine or spirit or the agricultural product or food originates in the territory indicated by the indication;
 	- **(g)** the use by a person of their address, the geographical name of their place of business, an accurate indication of the origin of their goods or services, or an accurate description of their goods or services to the extent that the description is necessary to explain those goods or services to the public;
 	- **(h)** the use by an individual of their name; or
@@ -92,7 +94,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Clarification**
 
 - **(6)** For greater certainty, the inclusion of an Olympic or Paralympic mark or a translation of it in any language in an artistic work, within the meaning of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), by the author of that work, is not in itself a use in connection with a business if the work is not reproduced on a commercial scale.
-> 2007, c. 25, s. 3; 2014, c. 32, s. 62; 2017, c. 6, s. 130.
+> 2007, c. 25, s. 3; 2014, c. 20, s. 366(E), c. 32, s. 62; 2017, c. 6, s. 130.
 
 
 
@@ -102,7 +104,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4** 
 
-- **(1)** No person shall, during any period prescribed by regulation, in association with a trade-mark or other mark, promote or otherwise direct public attention to their business, goods or services in a manner that misleads or is likely to mislead the public into believing that
+- **(1)** No person shall, during any period prescribed by regulation, in association with a trademark or other mark, promote or otherwise direct public attention to their business, goods or services in a manner that misleads or is likely to mislead the public into believing that
 	- **(a)** the person’s business, goods or services are approved, authorized or endorsed by an organizing committee, the COC or the CPC; or
 	- **(b)** a business association exists between the person’s business and the Olympic Games, the Paralympic Games, an organizing committee, the COC or the CPC.
 
@@ -115,7 +117,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Proximity to mark**
 
 - **(3)** The placement of an advertisement in proximity to published material — including material published electronically — that contains an Olympic or Paralympic mark or a translation of it in any language is not in itself an act contrary to subsection (1).
-> 2007, c. 25, s. 4; 2014, c. 32, s. 62.
+> 2007, c. 25, s. 4; 2014, c. 20, s. 366(E), c. 32, s. 62.
 
 
 
@@ -142,7 +144,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No unreasonable refusal**
 
 - **(3)** The authorization may not be unreasonably refused.
-> 2007, c. 25, s. 5; 2014, c. 32, s. 61.
+> 2007, c. 25, s. 5; 2014, c. 20, s. 364, c. 32, s. 61.
 
 
 
@@ -167,11 +169,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **8** 
 
 - **(1)** A court may, on application,
-	- **(a)** if it considers that any goods to which an Olympic or Paralympic mark has been applied are about to be imported into Canada or have been imported into Canada but have not yet been released, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and that their distribution in Canada would be a use of the mark as a trade-mark that is contrary to section 3, make an order
+	- **(a)** if it considers that any goods to which an Olympic or Paralympic mark has been applied are about to be imported into Canada or have been imported into Canada but have not yet been released, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and that their distribution in Canada would be a use of the mark as a trademark that is contrary to section 3, make an order
 		- **(i)** directing the Minister of Public Safety and Emergency Preparedness to take reasonable measures, on the basis of information reasonably required by that Minister and provided by the applicant, to detain the goods,
 		- **(ii)** directing that Minister to notify the applicant and the owner or importer of the goods, without delay after detaining them, of the detention and the reasons for it, and
 		- **(iii)** providing for any other matters that the court considers appropriate; and
-	- **(b)** if it finds that the distribution in Canada of goods detained in accordance with an order made under paragraph (a) would be a use of the mark as a trade-mark that is contrary to section 3, make any order that it considers appropriate in the circumstances, including an order that the goods be destroyed or exported or that they be delivered up to the applicant as the applicant’s property absolutely.
+	- **(b)** if it finds that the distribution in Canada of goods detained in accordance with an order made under paragraph (a) would be a use of the mark as a trademark that is contrary to section 3, make any order that it considers appropriate in the circumstances, including an order that the goods be destroyed or exported or that they be delivered up to the applicant as the applicant’s property absolutely.
 
 **Application to court**
 
@@ -208,7 +210,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Release of goods**
 
 - **(8)** Unless an order made under paragraph (1)(a) provides otherwise, the Minister of Public Safety and Emergency Preparedness shall, subject to the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and to any other Act of Parliament that prohibits, controls or regulates the importation or exportation of goods, release, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the goods detained in accordance with the order without further notice to the applicant if, two weeks after the applicant has been notified under subparagraph (1)(a)(ii), that Minister has not been notified that an action has been commenced for an order under paragraph (1)(b).
-> 2007, c. 25, s. 8; 2014, c. 32, s. 62.
+> 2007, c. 25, s. 8; 2014, c. 20, s. 366(E), c. 32, s. 62.
 
 
 
@@ -232,7 +234,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Effect of public notice**
 
-**11** For greater certainty, public notice by the Registrar of the adoption and use of a badge, crest, emblem or other mark in accordance with a request made under paragraph 9(1)(n) of the Trade-marks Act has no legal effect if, at the time of the request, the requester was prohibited under section 3 from adopting or using it.
+**11** For greater certainty, public notice by the Registrar of the adoption and use of a badge, crest, emblem or other mark in accordance with a request made under paragraph 9(1)(n) of the [Trademarks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md) has no legal effect if, at the time of the request, the requester was prohibited under section 3 from adopting or using it.
+> 2007, c. 25, s. 11; 2014, c. 20, s. 366(E).
+
 
 
 
