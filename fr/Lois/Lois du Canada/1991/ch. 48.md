@@ -933,7 +933,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(2)** Par dérogation à la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md), l’association peut utiliser le mot « coopérative » ou « cooperative », ou toute abréviation de celui-ci, dans sa dénomination sociale.
-> 1991, ch. 48, art. 35; 1996, ch. 6, art. 49; 1997, ch. 15, art. 117; 1998, ch. 1, art. 383.
+> 1991, ch. 48, art. 35; 1996, ch. 6, art. 49; 1997, ch. 15, art. 117; 1998, ch. 1, art. 383; 2014, ch. 20, art. 366(A).
 
 
 
