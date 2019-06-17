@@ -3389,11 +3389,13 @@ but does not include
 
 **141** 
 
-- **(1)** The national fuels marks are national trade-marks.
+- **(1)** The national fuels marks are national trademarks.
 
 **Property rights**
 
 - **(2)** The exclusive property in and, except as otherwise provided in this Division, the right to the use of the national fuels marks are hereby vested in Her Majesty in right of Canada.
+> 1999, c. 33, s. 141; 2014, c. 20, s. 366(E).
+
 
 
 
@@ -3554,7 +3556,7 @@ but does not include
 
 **150** 
 
-- **(1)** The national emissions marks are national trade-marks.
+- **(1)** The national emissions marks are national trademarks.
 
 **Property rights**
 
@@ -3567,6 +3569,8 @@ but does not include
 **Confusing marks**
 
 - **(4)** No person shall use any other mark in such a manner that it is likely to be mistaken for a national emissions mark.
+> 1999, c. 33, s. 150; 2014, c. 20, s. 366(E).
+
 
 
 
