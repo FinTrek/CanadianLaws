@@ -132,7 +132,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ** acquérir, par don ou legs, des meubles et des biens personnels, notamment sous forme d’argent ou de valeurs, et les employer, les gérer ou en disposer, sous réserve des conditions dont sont éventuellement assorties ces libéralités;
 - **i)
 ** prendre toute autre mesure utile à l’accomplissement de sa mission.
-> 1991, ch. 16, art. 5; 2001, ch. 4, art. 68; 2003, ch. 22, art. 25 et 225(A).
+> 1991, ch. 16, art. 5; 2001, ch. 4, art. 68; 2003, ch. 22, art. 25 et 225(A); 2014, ch. 20, art. 366(A).
 
 
 
@@ -270,7 +270,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Utilisation**
 
 - **(2)** Sous réserve des conditions fixées par le Conseil du Trésor, l’École peut, au cours de deux exercices consécutifs, dépenser à ses fins les recettes tirées de ses redevances d’exploitation perçues durant le premier de ceux-ci.
-> 1991, ch. 16, art. 18; 2001, ch. 4, art. 69(F); 2003, ch. 22, art. 32; 2012, ch. 19, art. 521.
+> 1991, ch. 16, art. 18; 2001, ch. 4, art. 69(F); 2003, ch. 22, art. 32; 2012, ch. 19, art. 521; 2014, ch. 20, art. 366(A).
 
 
 
