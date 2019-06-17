@@ -935,16 +935,16 @@ and that is not discontinued under this Act.
 	- **(a)** that is prohibited by an Act of Parliament;
 	- **(b)** that is, in the opinion of the Superintendent, deceptively misdescriptive;
 	- **(c)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing
-		- **(i)** trade-mark or trade name, or
+		- **(i)** trademark or trade name, or
 		- **(ii)** corporate name of a body corporate,
-except where the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
+except where the trademark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trademark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
 	- **(d)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified; or
 	- **(e)** that is reserved under section 45 for another company or a proposed company.
 
 **Exception**
 
 - **(2)** Paragraph (1)(a) does not apply with respect to any former-Act company incorporated by or under an Act of Parliament that expressly authorizes the use of any name that would otherwise be prohibited.
-> 1991, c. 45, s. 41; 1996, c. 6, s. 112; 1997, c. 15, s. 344.
+> 1991, c. 45, s. 41; 1996, c. 6, s. 112; 1997, c. 15, s. 344; 2014, c. 20, s. 366(E).
 
 
 
