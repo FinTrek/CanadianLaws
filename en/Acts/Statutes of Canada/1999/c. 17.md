@@ -988,7 +988,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Intellectual property**
 
-**71** The Agency may license, sell or otherwise make available any patent, copyright, industrial design, trade-mark or other similar property right that it holds or develops.
+**71** The Agency may license, sell or otherwise make available any patent, copyright, industrial design, trademark or other similar property right that it holds or develops.
+> 1999, c. 17, s. 71; 2014, c. 20, s. 366(E).
+
 
 
 
