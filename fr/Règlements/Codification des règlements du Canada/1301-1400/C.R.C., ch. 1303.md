@@ -76,7 +76,7 @@ Autorités habilitantes :
 - **(3)** Lorsqu’une partie seulement d’un article se compose d’un placage de métal précieux d’un titre prévu aux articles 7, 8 ou 9 et qu’une marque de qualité est appliquée à cet article, le nom de la partie à laquelle s’applique la marque de qualité doit figurer immédiatement avant ou après la marque de qualité.
 
 - **(4)** Lorsque l’épaisseur du métal précieux est exprimée par un nombre entier immédiatement suivi du mot « micromètre » ou de son symbole « µm », le mot « micromètre » ou son symbole « µm » peut être remplacé par le mot « micron » ou son symbole « µ ».
-> DORS/85-386, art. 1.
+> DORS/85-386, art. 1; 2014, ch. 20, art. 366(A).
 
 
 
