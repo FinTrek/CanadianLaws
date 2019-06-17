@@ -401,7 +401,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **69** 
 
-- **(1)** [Modification]
+- **(1)** [Abrogé avant d’entrer en vigueur, 2015, ch. 36, art. 70]
 
 - **(2)** [Abrogé avant d’entrer en vigueur, 2018, ch. 27, art. 239]
 
@@ -442,7 +442,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndA7C6_hq_16033'>[*]</a></sup>**(3)** L’article 67 et le paragraphe 69(2) entrent en vigueur à la date fixée par décret, mais cette date ne peut être antérieure à la date d’entrée en vigueur de l’article 357 de la [Loi no 1 sur le plan d’action économique de 2014](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020.md).
 
-<a name='fn_IndA7C6_hq_16033'><sup>*</sup></a>: [Note : Article 67 et paragraphe 69(2) non en vigueur.]<br />
+<a name='fn_IndA7C6_hq_16033'><sup>*</sup></a>: [Note : Article 67 en vigueur le 17 juin 2019, *voir* TR/2018-100; paragraphe 69(2) abrogé avant d’entrer en vigueur, *voir* 2018, ch. 27, art. 239.]<br />
 
 **Décret — articles 46, 63 et 68**
 
@@ -460,7 +460,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndA7C6_hq_16036'>[*]</a></sup>**(6)** Le paragraphe 69(1) entre en vigueur dès le premier jour où l’article 359 de la [Loi no 1 sur le plan d’action économique de 2014](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020.md) et l’article 68 sont tous deux en vigueur.
 
-<a name='fn_IndA7C6_hq_16036'><sup>*</sup></a>: [Note : Paragraphe 69(1) non en vigueur.]<br />
+<a name='fn_IndA7C6_hq_16036'><sup>*</sup></a>: [Note : Paragraphe 69(1) abrogé avant d’entrer en vigueur, *voir* 2015, ch. 36, art. 70.]<br />
 
 
 
