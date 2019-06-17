@@ -2218,7 +2218,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 - <sup><a href='#fn_IndEB8D_hq_14295'>[*]</a></sup>**(1)** This Division, other than sections 358.1, 358.2 and 367, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndEB8D_hq_14295'><sup>*</sup></a>: [Note: Division 25, other than sections 358.1, 358.2 and 367, not in force.]<br />
+<a name='fn_IndEB8D_hq_14295'><sup>*</sup></a>: [Note: Division 25, other than sections 358.1, 358.2 and 367, in force June 17, 2019, *see* SI/2018-100.]<br />
 
 **Order in council**
 
