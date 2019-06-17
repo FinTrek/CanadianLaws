@@ -86,13 +86,26 @@ Enabling authorities:
 ## Prescribed Response Period
 
 
-**3** For the purpose of subsection 16.2(3) of the Act, the prescribed period is three working days.
-> SOR/99-313, s. 2.
+**3** For the purposes of subsections 7.6(4), 9(3), 16.01(2) and 16.2(3) of the Act, the prescribed period is three working days.
+> SOR/99-313, s. 2; SOR/2019-218, s. 1.
 
 
 
 
-**4** [Repealed, SOR/85-527, s. 2]
+
+## Fisheries Management Organization
+
+
+**4** The following fisheries management organizations are prescribed for the purpose of paragraphs 5.6(1)(b) and (2)(b) of the Act:
+- **(a)** the Indian Ocean Tuna Commission;
+- **(b)** the Commission for the Conservation of Southern Bluefin Tuna;
+- **(c)** the General Fisheries Commission for the Mediterranean;
+- **(d)** the North-East Atlantic Fisheries Commission;
+- **(e)** the South Pacific Regional Fisheries Management Organization;
+- **(f)** the South East Atlantic Fisheries Organization; and
+- **(g)** the Southern Indian Ocean Fisheries Agreement.
+> SOR/2019-218, s. 2.
+
 
 
 
@@ -129,7 +142,7 @@ Enabling authorities:
 	- **(a)** to provide supplies to a Canadian fishing vessel or a foreign fishing vessel while it is at sea; and
 	- **(b)** for the purpose described in paragraph (a), to purchase supplies at a Canadian port.
 
-- **(1.11)** The Minister shall not issue a licence under paragraph (1)(a) or subsection (1.1) unless the Minister determines that the Government of Canada has favourable fisheries relations with the government of the vessel’s flag state.
+- **(1.11)** The Minister shall not issue a licence under paragraph (1)(a) or subsection (1.1) unless the Minister determines that the Government of Canada has favourable fisheries relations with the government of the vessel’s flag state and, if the licence relates to a specific fishery, that the Government of Canada has favourable fisheries relations with the government of the vessel’s flag state with respect to that fishery.
 
 - **(1.12)** The Minister shall not issue a licence under paragraph (1)(a) or subsection (1.1) if there are reasonable grounds to believe that
 	- **(a)** the vessel is not licensed or otherwise authorized by its flag state to engage in fisheries activities;
@@ -144,7 +157,7 @@ Enabling authorities:
 
 - **(1.4)** The Minister shall, on receipt of an application for a licence and in accordance with the Convention between Canada and the United States of America for the Extension of Port Privileges to Halibut Fishing Vessels on the Pacific Coasts of the United States of America and Canada, signed on March 24, 1950, issue a licence authorizing a United States fishing vessel and its crew to enter Canadian fisheries waters for any of the purposes set out in that Convention.
 
-- **(1.5)** [Repealed, SOR/2003-391, s. 1]
+- **(1.5)** The Minister may refuse to issue a licence referred to in any of subsections (1.2) to (1.4) if he or she determines that one of the circumstances set out in paragraphs (1.12)(a) to (e) applies and that the flag state has taken insufficient measures to remedy the situation.
 
 - **(1.6)** [Repealed, SOR/99-474, s. 1]
 
@@ -153,7 +166,21 @@ Enabling authorities:
 - **(3)** The licence fees for foreign fishing vessels shall be paid within 45 days from the date of billing.
 
 - **(4)** The Minister may, at the request of the master of a foreign fishing vessel that is in Canadian fisheries waters in the circumstances referred to in section 14 or 15, issue a licence authorizing that vessel and its crew to engage in all or any of the activities described in subparagraphs (1)(a)(vi) to (xi) and paragraph (1)(b).
-> SOR/78-447, s. 1; SOR/78-795, s. 1; SOR/79-138, s. 1; SOR/79-713, s. 4; SOR/80-186, s. 1; SOR/85-527, s. 3; SOR/86-939, s. 2; SOR/94-362, ss. 4(F), 5(F); SOR/94-444, s. 1; SOR/95-261, s. 1; SOR/95-356, s. 1; SOR/96-309, s. 1; SOR/98-410, s. 1; SOR/99-474, s. 1; SOR/2000-36, s. 1; SOR/2001-204, s. 1; SOR/2003-391, s. 1; SOR/2014-149, s. 3.
+> SOR/78-447, s. 1; SOR/78-795, s. 1; SOR/79-138, s. 1; SOR/79-713, s. 4; SOR/80-186, s. 1; SOR/85-527, s. 3; SOR/86-939, s. 2; SOR/94-362, ss. 4(F), 5(F); SOR/94-444, s. 1; SOR/95-261, s. 1; SOR/95-356, s. 1; SOR/96-309, s. 1; SOR/98-410, s. 1; SOR/99-474, s. 1; SOR/2000-36, s. 1; SOR/2001-204, s. 1; SOR/2003-391, s. 1; SOR/2014-149, s. 3; SOR/2019-218, s. 3.
+
+
+
+
+
+## Order Made by Flag State
+
+
+**5.1** 
+
+- **(1)** The Minister may, further to an order made by the flag state, issue a permit authorizing a foreign fishing vessel and its crew to enter Canadian fisheries waters for the purpose of verifying compliance with a law, measure or treaty referred to in subparagraph 6(a)(iii) of the Act.
+
+- **(2)** If the Minister issues a permit under subsection (1), he or she must advise both the flag state and the foreign fishing vessel and inform them of the permit’s conditions.
+> SOR/2019-218, s. 4.
 
 
 
@@ -185,9 +212,10 @@ the application shall be signed by the charterer who shall, in respect of that v
 - **(d)** the side number of the vessel, its radio frequencies and call sign;
 - **(e)** a description of the proposed purpose and the period for which the licence is required;
 - **(f)** the name and address of a person resident in Canada having a permanent office or establishment in Canada who is authorized by the flag state to represent that flag state for the purpose of providing liaison with the appropriate officials of the Government of Canada;
-- **(f.1)** in the case of an application for a licence referred to in paragraph 5(1)(a) or subsection 5(1.1), any information or document that is relevant to the matters referred to in paragraphs 5(1.12)(a) to (e); and
+- **(f.1)** in the case of an application for a licence referred to in paragraph 5(1)(a) or subsection 5(1.1), any information or document that is relevant to the matters referred to in paragraphs 5(1.12)(a) to (e);
+- **(f.2)** any information that is required by Annex A to the Port State Measures Agreement; and
 - **(g)** any information the Minister considers necessary to clarify or complete the information furnished by the applicant.
-> SOR/80-186, s. 3; SOR/85-527, s. 5; SOR/94-362, s. 4(F); SOR/98-410, s. 2; SOR/99-474, s. 2; SOR/2003-391, s. 2.
+> SOR/80-186, s. 3; SOR/85-527, s. 5; SOR/94-362, s. 4(F); SOR/98-410, s. 2; SOR/99-474, s. 2; SOR/2003-391, s. 2; SOR/2019-218, s. 5.
 
 
 
@@ -240,15 +268,17 @@ the application shall be signed by the charterer who shall, in respect of that v
 
 
 
-## Terms and Conditions of a Licence
+## Terms and Conditions of a Licence or Permit
+> [SOR/2019-218, s. 6]
+
 
 
 **11** 
 
-- **(1)** Every licence in respect of a foreign fishing vessel is subject to the following terms and conditions:
+- **(1)** Every licence or permit in respect of a foreign fishing vessel is subject to the following terms and conditions:
 	- **(a)** [Repealed, SOR/85-527, s. 8]
-	- **(b)** the vessel and its crew shall engage only in the activities that are authorized by the licence;
-	- **(c)** the activities authorized by the licence shall be carried out only at the times and in the areas of Canadian fisheries waters or ports specified in the licence;
+	- **(b)** the vessel and its crew shall engage only in the activities that are authorized by the licence or permit;
+	- **(c)** the activities authorized by the licence or permit shall be carried out only at the times and in the areas of Canadian fisheries waters or ports specified in the licence or permit;
 	- **(d)** where fishing is authorized by the licence
 		- **(i)** the crew of the vessel shall fish only for a species of fish specified in the licence,
 		- **(ii)** the crew of the vessel shall not catch and retain any fish of a species, size or age specified in the licence as prohibited catch and any prohibited catch shall be returned to the water, alive if possible,
@@ -260,7 +290,7 @@ the application shall be signed by the charterer who shall, in respect of that v
 		- **(ii)** the fish may be taken on board only from vessels of a class specified in the licence, and
 		- **(iii)** the master of the vessel shall cause written records to be maintained on a daily basis of the fish taken on board the vessel for transportation;
 	- **(f) and (g)** [Repealed, SOR/85-527, s. 8]
-	- **(h)** the vessel shall have on board at all times during the period it is in Canadian fisheries waters equipment and gear, including communications equipment, described in the licence as “required equipment”;
+	- **(h)** the vessel shall have on board at all times during the period it is in Canadian fisheries waters equipment and gear, including communications equipment, described in the licence or permit as “required equipment”;
 	- **(i)** [Repealed, SOR/85-527, s. 8]
 	- **(j)** [Repealed, SOR/82-289, s. 1]
 	- **(k) and (l)** [Repealed, SOR/85-527, s. 8]
@@ -268,8 +298,8 @@ the application shall be signed by the charterer who shall, in respect of that v
 	- **(n) to (t)** [Repealed, SOR/85-527, s. 8]
 	- **(u)** the master or crew of the vessel shall not carry out any activity in any area of Canadian fisheries waters that is contrary to the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) or regulations made under that Act.
 
-- **(2)** The master of a foreign vessel in respect of which a licence has been issued shall not contravene or fail to comply with any condition of that licence.
-> SOR/79-713, s. 8; SOR/82-289, s. 1; SOR/85-527, s. 8; SOR/94-362, ss. 4(F), 5(F); SOR/2017-58, s. 44.
+- **(2)** The master of a foreign vessel in respect of which a licence or permit has been issued shall not contravene or fail to comply with any condition of that licence or permit.
+> SOR/79-713, s. 8; SOR/82-289, s. 1; SOR/85-527, s. 8; SOR/94-362, ss. 4(F), 5(F); SOR/2017-58, s. 44; SOR/2019-218, s. 7.
 
 
 
@@ -400,6 +430,57 @@ the application shall be signed by the charterer who shall, in respect of that v
 
 
 
+## Importation
+
+
+**13.01** For the purposes of sections 13.02 to 13.06, ***meat*** means any part of the fish except the head, eyes, roe, guts, bones and tail.
+> SOR/2019-218, s. 8.
+
+
+
+
+**13.02** 
+
+- **(1)** For the purpose of subsection 5.6(3) of the Act, any of the following fish that is subject to measures established by the International Commission for the Conservation of Atlantic Tunas (ICCAT) and that is imported must be accompanied by:
+	- **(a)** in the case of Atlantic bluefin tuna, a catch document or re-export certificate, as the case may be, that complies with the ICCAT Bluefin Tuna Catch Documentation Program that is current at the time that the fish are caught;
+	- **(b)** in the case of Atlantic bigeye tuna, a statistical document or a re-export certificate, as the case may be, that complies with the ICCAT Bigeye Tuna Statistical Document Program that is current at the time that the fish are caught; or
+	- **(c)** in the case of Atlantic swordfish meat, a statistical document or a re-export certificate, as the case may be, that complies with the ICCAT Swordfish Statistical Document Program that is current at the time that the fish are caught.
+
+- **(2)** The documents referred to in paragraph (1)(b) are not required in the case of Atlantic bigeye tuna that was caught by purse seiners or pole and line bait vessels and is destined principally for a cannery located in Canada.
+> SOR/2019-218, s. 8.
+
+
+
+
+**13.03** For the purpose of subsection 5.6(3) of the Act, any importation of Patagonian toothfish or Antarctic toothfish must be accompanied by a catch document or a re-export certificate, as the case may be, that complies with the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) Catch Documentation Scheme for *Dissostichus spp.* that is current at the time that the fish are caught.
+> SOR/2019-218, s. 8.
+
+
+
+
+**13.04** For the purpose of subsection 5.6(3) of the Act, any importation of eastern Pacific bigeye tuna meat must be accompanied by a statistical document or a re-export certificate, as the case may be, that complies with the Inter-American Tropical Tuna Commission (IATTC) Bigeye Tuna Statistical Document Program that is current at the time that the fish are caught.
+> SOR/2019-218, s. 8.
+
+
+
+
+**13.05** For the purpose of subsection 5.6(3) of the Act, any importation of southern bluefin tuna meat must be accompanied by a catch monitoring form or a re-export or export after landing of domestic product form, as the case may be, that complies with the Commission for the Conservation of Southern Bluefin Tuna (CCSBT) Catch Documentation Scheme that is current at the time that the fish are caught.
+> SOR/2019-218, s. 8.
+
+
+
+
+**13.06** 
+
+- **(1)** For the purpose of subsection 5.6(3) of the Act, any importation of Indian Ocean bigeye tuna meat must be accompanied by a statistical document or a re-export certificate, as the case may be, that complies with the Indian Ocean Tuna Commission (IOTC) Bigeye Tuna Statistical Document Programme that is current at the time that the fish are caught.
+
+- **(2)** The documents referred to in subsection (1) are not required in the case of Indian Ocean bigeye tuna that was caught by purse seiners or pole and line bait vessels and is destined principally for a cannery located in Canada.
+> SOR/2019-218, s. 8.
+
+
+
+
+
 ## Suspension or Cancellation of Licences and Permits
 
 
@@ -455,8 +536,8 @@ the application shall be signed by the charterer who shall, in respect of that v
 
 
 
-**18.1** When a protection officer on board an inspection vessel intends to board a fishing vessel of a participating state, the signal to be used by the inspection vessel is Signal SQ 3.
-> SOR/2004-110, s. 2.
+**18.1** When a protection officer on board an inspection vessel intends to board a fishing vessel of a state party to the Fish Stocks Agreement, the signal to be used by the inspection vessel is Signal SQ 3.
+> SOR/2004-110, s. 2; SOR/2019-218, s. 9.
 
 
 
@@ -861,17 +942,19 @@ the application shall be signed by the charterer who shall, in respect of that v
 
 
 
-## Prescribed Participating States
+## States Party to the Fish Stocks Agreement
 
 
-**22** The foreign states and organizations of foreign states set out in Schedule IV are hereby prescribed as participating states.
-> SOR/99-313, s. 4.
+**22** The foreign states and organizations of foreign states set out in Schedule IV are states party to the Fish Stocks Agreement.
+> SOR/99-313, s. 4; SOR/2019-218, s. 10.
 
 
 
 
 
-## Implementation of the Agreement
+## Implementation of the Fish Stocks Agreement
+> [SOR/2019-218, s. 11]
+
 
 
 
@@ -890,10 +973,10 @@ the application shall be signed by the charterer who shall, in respect of that v
 
 **24** 
 
-- **(1)** A fishing vessel of a participating state may fish in the NAFO Regulatory Area for fish of a stock set out in Annex I.A or I.B of the NAFO Measures only if the participating state is a party to the NAFO Convention.
+- **(1)** A fishing vessel of a state party to the Fish Stocks Agreement may fish in the NAFO Regulatory Area for fish of a stock set out in Annex I.A or I.B of the NAFO Measures only if the state party to the Fish Stocks Agreement is a party to the NAFO Convention.
 
-- **(2)** Despite subsection (1), a fishing vessel of a participating state that is not a party to the NAFO Convention may fish in the NAFO Regulatory Area for the fish referred to in that subsection if the fishing is done under an arrangement that is consistent with the NAFO Measures.
-> SOR/99-313, s. 4; SOR/2014-149, s. 6.
+- **(2)** Despite subsection (1), a fishing vessel of a state party to the Fish Stocks Agreement that is not a party to the NAFO Convention may fish in the NAFO Regulatory Area for the fish referred to in that subsection if the fishing is done under an arrangement that is expressly contemplated by the NAFO Measures and in a manner that complies with this arrangement and the NAFO measures.
+> SOR/99-313, s. 4; SOR/2014-149, s. 6; SOR/2019-218, s. 12.
 
 
 
@@ -984,8 +1067,8 @@ the application shall be signed by the charterer who shall, in respect of that v
 
 
 
-**40** No fishing vessel of a participating state that is fishing in the waters referred to in subsection 39(1) shall have on board a bluefin tuna that is less than 3.2 kg in weight.
-> SOR/99-313, s. 4; SOR/2004-110, s. 14.
+**40** No fishing vessel of a state party to the Fish Stocks Agreement that is fishing in the waters referred to in subsection 39(1) shall have on board a bluefin tuna that weighs less than 3.2 kg.
+> SOR/99-313, s. 4; SOR/2004-110, s. 14; SOR/2019-218, s. 13.
 
 
 
@@ -1000,7 +1083,7 @@ the application shall be signed by the charterer who shall, in respect of that v
 ### Enforcement Action in Respect of Canadian Fishing Vessels
 
 
-**42** The Minister may authorize a participating state to take enforcement action in respect of a Canadian fishing vessel if there are reasonable grounds to believe the fishing vessel has contravened any measure
+**42** The Minister may authorize a state party to the Fish Stocks Agreement to take enforcement action in respect of a Canadian fishing vessel if there are reasonable grounds to believe the fishing vessel has contravened any measure
 - **(a)** established by NAFO for the conservation or management of a straddling fish stock; or
 - **(b)** established by the International Commission for the Conservation of Atlantic Tunas for the conservation or management of a highly migratory fish stock set out in the table to this section.
 #### TABLE
@@ -1052,7 +1135,7 @@ the application shall be signed by the charterer who shall, in respect of that v
 </tr>
 </table>
 
-> SOR/99-313, s. 4; SOR/2017-58, s. 50(F).
+> SOR/99-313, s. 4; SOR/2017-58, s. 50(F); SOR/2019-218, s. 14.
 
 
 
@@ -1105,11 +1188,13 @@ the application shall be signed by the charterer who shall, in respect of that v
 
 - **(1)** A protection officer who is acting in the performance of their duties in relation to the NAFO Convention may exercise the enforcement powers set out in the NAFO Measures in the NAFO Regulatory Area with respect to
 	- **(a)** a foreign fishing vessel of a state party to the NAFO Convention;
-	- **(b)** a foreign fishing vessel that is authorized to fish in that Area under an arrangement that is consistent with the NAFO Measures; or
+	- **(b)** a foreign fishing vessel that is authorized to fish in that Area under an arrangement that is expressly contemplated by the NAFO Measures; or
 	- **(c)** any other foreign fishing vessel, except a foreign fishing vessel of a state that is set out in Table III or IV to section 21, if the master of the vessel consents to the protection officer exercising those enforcement powers.
 
 - **(2)** The protection officer may exercise those enforcement powers in Canadian fisheries waters with respect to a foreign fishing vessel referred to in paragraph (1)(a) or (b).
-> SOR/2014-149, s. 8; SOR/2017-58, s. 51(F).
+
+- **(3)** The protection officer may detain fish unloaded in port from a foreign fishing vessel referred to in paragraph (1)(a) until the officer has received, from the flag state, the form or forms set out in Annex II.L of the NAFO Measures.
+> SOR/2014-149, s. 8; SOR/2017-58, s. 51(F); SOR/2019-218, s. 15.
 
 
 
@@ -1118,11 +1203,11 @@ the application shall be signed by the charterer who shall, in respect of that v
 ## Recovery of Costs
 
 
-**47** If a fishing vessel of a participating state is seized and, following a further investigation in port, the protection officer continues to have reasonable grounds to believe that an offence has been committed under section 24 or 40, Her Majesty in right of Canada may recover
+**47** If a fishing vessel of a state party to the Fish Stocks Agreement is seized and, following a further investigation in port, the protection officer continues to have reasonable grounds to believe that an offence has been committed under section 24 or 40, Her Majesty in right of Canada may recover
 - **(a)** any reasonable costs incurred for berthage of the fishing vessel;
 - **(b)** any reasonable costs incurred for the security and maintenance of the fishing vessel; and
 - **(c)** any reasonable costs incurred for the repatriation of the crew of the fishing vessel.
-> SOR/99-313, s. 4; SOR/2014-149, s. 9.
+> SOR/99-313, s. 4; SOR/2014-149, s. 9; SOR/2019-218, s. 16.
 
 
 
@@ -1408,7 +1493,7 @@ the application shall be signed by the charterer who shall, in respect of that v
 <table>
 <tr>
 <th>Item</th>
-<th>Participating State</th>
+<th>State Party to the Fish Stocks Agreement</th>
 </tr>
 <tr>
 <td>1</td>
@@ -1744,6 +1829,6 @@ the application shall be signed by the charterer who shall, in respect of that v
 </tr>
 </table>
 
-> SOR/99-313, s. 5; SOR/2004-110, s. 15; SOR/2014-149, s. 10.
+> SOR/99-313, s. 5; SOR/2004-110, s. 15; SOR/2014-149, s. 10; SOR/2019-218, s. 17.
 
 
