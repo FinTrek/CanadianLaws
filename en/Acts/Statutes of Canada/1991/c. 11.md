@@ -1058,7 +1058,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 	- **(i)** collect news relating to current events in any part of the world and establish and subscribe to news agencies;
 	- **(j)** publish, distribute and preserve, whether for a consideration or otherwise, such audio-visual material, papers, periodicals and other literary matter as may seem conducive to the attainment of the objects of the Corporation;
 	- **(k)** produce, distribute and sell such consumer products as may seem conducive to the attainment of the objects of the Corporation;
-	- **(l)** acquire copyrights and trade-marks;
+	- **(l)** acquire copyrights and trademarks;
 	- **(m)** acquire and use any patent, patent rights, licences or concessions that the Board considers useful for the purposes of the Corporation;
 	- **(n)** make arrangements or agreements with any organization for the use of any rights, privileges or concessions that the Board considers useful for the purposes of the Corporation;
 	- **(o)** acquire broadcasting undertakings either by lease or by purchase;
@@ -1081,6 +1081,8 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Independence**
 
 - **(5)** The Corporation shall, in the pursuit of its objects and in the exercise of its powers, enjoy freedom of expression and journalistic, creative and programming independence.
+> 1991, c. 11, s. 46; 2014, c. 20, s. 366(E).
+
 
 
 
