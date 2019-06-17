@@ -46,11 +46,11 @@ Enabling authorities:
 
 ***inner label*** means a label on or affixed to the immediate container of a cosmetic; (*étiquette intérieure*)
 
-***manufacturer*** means a person, a partnership or an unincorporated association that sells, or manufactures and sells, a cosmetic under its own name or under a trade-mark, design, trade name or other name or mark owned or controlled by it; (*fabricant*)
+***manufacturer*** means a person, a partnership or an unincorporated association that sells, or manufactures and sells, a cosmetic under its own name or under a trademark, design, trade name or other name or mark owned or controlled by it; (*fabricant*)
 
 ***official method*** means a method of analysis or examination designated as such by the Minister for use in the administration of the Act and these Regulations; (*méthode officielle*)
 
-***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material on it other than a trade-mark or common name, and that appears to be a decorative ornament because of a design that is on its surface or because of its shape or texture, and is sold as a decorative ornament in addition to being sold as the container of a cosmetic; (*contenant décoratif*)
+***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material on it other than a trademark or common name, and that appears to be a decorative ornament because of a design that is on its surface or because of its shape or texture, and is sold as a decorative ornament in addition to being sold as the container of a cosmetic; (*contenant décoratif*)
 
 ***outer label*** means a label on or affixed to the outside package of a cosmetic; (*étiquette extérieure*)
 
@@ -63,7 +63,7 @@ Enabling authorities:
 ***security package*** means a package having a security feature that provides reasonable assurance to consumers that the package has not been opened prior to purchase. (*emballage de sécurité*)
 
 - **(2)** Where a cosmetic has more than one name, a reference in these Regulations to the cosmetic by any of its names is deemed to be a reference to the cosmetic by all of its names.
-> SOR/81-615, s. 1; SOR/85-142, s. 1; SOR/92-16, s. 1; SOR/94-559, s. 1; SOR/2001-272, s. 1; SOR/2004-244, s. 1.
+> SOR/81-615, s. 1; SOR/85-142, s. 1; SOR/92-16, s. 1; SOR/94-559, s. 1; SOR/2001-272, s. 1; SOR/2004-244, s. 1; 2014, c. 20, s. 366(E).
 
 
 
