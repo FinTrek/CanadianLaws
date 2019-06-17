@@ -110,11 +110,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**National trade-marks**
+**National trademarks**
 
 **3** 
 
-- **(1)** The national safety marks are hereby declared to be national trade-marks and, except as provided in this Act, the exclusive property in and right to the use of those marks are vested in Her Majesty in right of Canada.
+- **(1)** The national safety marks are hereby declared to be national trademarks and, except as provided in this Act, the exclusive property in and right to the use of those marks are vested in Her Majesty in right of Canada.
 
 **Use of marks**
 
@@ -131,7 +131,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Confusing marks**
 
 - **(4)** No person shall use a mark other than a national safety mark in such a manner that it is likely to be mistaken for a national safety mark.
-> 1993, c. 16, s. 3; 2014, c. 20, s. 214.
+> 1993, c. 16, s. 3; 2014, c. 20, ss. 214, 366(E).
 
 
 
