@@ -2218,7 +2218,7 @@ où :
 
 - <sup><a href='#nbp_IndE222_hq_14510'>[*]</a></sup>**(1)** La présente section, à l’exception des articles 358.1, 358.2 et 367, entre en vigueur à la date fixée par décret.
 
-<a name='nbp_IndE222_hq_14510'><sup>*</sup></a>: [Note : Section 25, à l’exception des articles 358.1, 358.2 et 367, non en vigueur.]<br />
+<a name='nbp_IndE222_hq_14510'><sup>*</sup></a>: [Note : Section 25, à l’exception des articles 358.1, 358.2 et 367, en vigueur le 17 juin 2019, *voir* TR/2018-100.]<br />
 
 **Décret**
 
