@@ -86,13 +86,26 @@ Autorités habilitantes :
 ## Délai
 
 
-**3** Pour l’application du paragraphe 16.2(3) de la Loi, le délai est de trois jours ouvrables.
-> DORS/99-313, art. 2.
+**3** Pour l’application des paragraphes 7.6(4), 9(3), 16.01(2) et 16.2(3) de la Loi, le délai est de trois jours ouvrables.
+> DORS/99-313, art. 2; DORS/2019-218, art. 1.
 
 
 
 
-**4** [Abrogé, DORS/85-527, art. 2]
+
+## Organisation de gestion des pêches
+
+
+**4** Pour l’application des alinéas 5.6(1)b) et (2)b) de la Loi, sont visées les organisations de gestion des pêches suivantes :
+- **a)** Commission des thons de l’océan Indien;
+- **b)** Commission pour la conservation du thon rouge du Sud;
+- **c)** Commission générale des pêches pour la Méditerranée;
+- **d)** Commission des pêches de l’Atlantique du Nord-Est;
+- **e)** Organisation régionale de gestion de la pêche du Pacifique Sud;
+- **f)** Organisation des pêches de l’Atlantique Sud-Est;
+- **g)** Accord relatif aux pêches dans le sud de l’océan Indien.
+> DORS/2019-218, art. 2.
+
 
 
 
@@ -129,7 +142,7 @@ Autorités habilitantes :
 	- **a)** apporter des fournitures à un bateau de pêche canadien ou à un bateau de pêche étranger qui sont en mer;
 	- **b)** à cette fin, acheter des fournitures dans un port canadien.
 
-- **(1.11)** Le ministre ne délivre de licence aux termes de l’alinéa (1)a) ou du paragraphe (1.1) que s’il conclut que le gouvernement du Canada a de bonnes relations en matière de pêche avec l’État du pavillon du bateau.
+- **(1.11)** Le ministre ne délivre de licence aux termes de l’alinéa (1)a) ou du paragraphe (1.1) que s’il conclut que le gouvernement du Canada a avec le gouvernement de l’État du pavillon de bonnes relations en matière de pêche, lesquelles, si la licence vise une pêche précise, sont également bonnes à l’égard de cette pêche.
 
 - **(1.12)** Le ministre ne délivre pas de licence aux termes de l’alinéa (1)a) ou du paragraphe (1.1) s’il y a des motifs raisonnables de croire, selon le cas, que :
 	- **a)** le bateau n’est pas dûment autorisé par l’État du pavillon, en vertu d’une licence ou autrement, à pratiquer des activités de pêche;
@@ -144,7 +157,7 @@ Autorités habilitantes :
 
 - **(1.4)** Le ministre doit, sur réception d’une demande, délivrer en conformité avec la Convention entre le Canada et les États-Unis d’Amérique concernant l’octroi de privilèges d’escale aux navires de pêche au flétan dans les ports des côtes du Pacifique des États-Unis d’Amérique et du Canada, signée le 24 mars 1950, une licence autorisant un bateau de pêche des États-Unis et les membres de son équipage à pénétrer dans les eaux de pêche canadiennes aux fins visées dans cette convention.
 
-- **(1.5)** [Abrogé, DORS/2003-391, art. 1]
+- **(1.5)** Le ministre peut toutefois refuser de délivrer une licence prévue à l’un des paragraphes (1.2) à (1.4) s’il constate que l’une des situations visées aux alinéas (1.12)a) à e) se présente et que les mesures prises par l’État du pavillon pour y remédier sont insuffisantes.
 
 - **(1.6)** [Abrogé, DORS/99-474, art. 1]
 
@@ -153,7 +166,21 @@ Autorités habilitantes :
 - **(3)** Les droits exigés pour la délivrance de la licence à un bateau de pêche étranger doivent être payés dans les 45 jours suivant la date de facturation.
 
 - **(4)** Le ministre peut, à la demande du capitaine d’un bateau de pêche étranger qui se trouve dans les eaux de pêche canadiennes dans les circonstances visées aux articles 14 ou 15, délivrer une licence pour autoriser ce bateau et les membres de son équipage à exercer toute activité visée aux sous-alinéas (1)a)(vi) à (xi) et à l’alinéa (1)b).
-> DORS/78-447, art. 1; DORS/78-795, art. 1; DORS/79-138, art. 1; DORS/79-713, art. 4; DORS/80-186, art. 1; DORS/85-527, art. 3; DORS/86-939, art. 2; DORS/94-362, art. 4(F) et 5(F); DORS/94-444, art. 1; DORS/95-261, art. 1; DORS/95-356, art. 1; DORS/96-309, art. 1; DORS/98-410, art. 1; DORS/99-474, art. 1; DORS/2000-36, art. 1; DORS/2001-204, art. 1; DORS/2003-391, art. 1; DORS/2014-149, art. 3.
+> DORS/78-447, art. 1; DORS/78-795, art. 1; DORS/79-138, art. 1; DORS/79-713, art. 4; DORS/80-186, art. 1; DORS/85-527, art. 3; DORS/86-939, art. 2; DORS/94-362, art. 4(F) et 5(F); DORS/94-444, art. 1; DORS/95-261, art. 1; DORS/95-356, art. 1; DORS/96-309, art. 1; DORS/98-410, art. 1; DORS/99-474, art. 1; DORS/2000-36, art. 1; DORS/2001-204, art. 1; DORS/2003-391, art. 1; DORS/2014-149, art. 3; DORS/2019-218, art. 3.
+
+
+
+
+
+## Ordre de l’État du pavillon
+
+
+**5.1** 
+
+- **(1)** Le ministre peut, à la suite d’un ordre donné par l’État du pavillon, délivrer un permis autorisant un bateau de pêche étranger et les membres de son équipage à pénétrer dans les eaux de pêche canadiennes pour vérification du respect de toute loi, de toute mesure ou de tout traité visé au sous-alinéa 6a)(iii) de la Loi.
+
+- **(2)** S’il délivre le permis, le ministre avise à la fois l’État du pavillon et le bateau de pêche étranger et leur indique les conditions dont le permis est assorti.
+> DORS/2019-218, art. 4.
 
 
 
@@ -186,8 +213,9 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 - **e)** un exposé du but recherché et une mention de la période pour laquelle la licence est requise;
 - **f)** le nom et l’adresse d’un résident du Canada qui y possède un bureau ou un établissement permanent et qui est autorisé par l’État du pavillon à représenter ce dernier pour assurer la liaison avec les autorités compétentes du gouvernement du Canada;
 - **f.1)** dans le cas d’une demande de licence visée à l’alinéa 5(1)a) ou au paragraphe 5(1.1), tout renseignement ou document portant sur les questions visées aux alinéas 5(1.12)a) à e);
+- **f.2)** tout autre renseignement prévu à l’annexe A de l’Accord sur les mesures de l’État du port;
 - **g)** tout renseignement que le ministre juge nécessaire pour compléter ou éclaircir les renseignements reçus.
-> DORS/80-186, art. 3; DORS/85-527, art. 5; DORS/94-362, art. 4(F); DORS/98-410, art. 2; DORS/99-474, art. 2; DORS/2003-391, art. 2.
+> DORS/80-186, art. 3; DORS/85-527, art. 5; DORS/94-362, art. 4(F); DORS/98-410, art. 2; DORS/99-474, art. 2; DORS/2003-391, art. 2; DORS/2019-218, art. 5.
 
 
 
@@ -240,15 +268,17 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
-## Modalités d’une licence
+## Modalités d’une licence ou d’un permis
+> [DORS/2019-218, art. 6]
+
 
 
 **11** 
 
-- **(1)** Chaque licence émise à l’égard d’un bateau de pêche étranger est assujettie aux modalités suivantes :
+- **(1)** Chaque licence ou permis émis à l’égard d’un bateau de pêche étranger est assujettie aux modalités suivantes :
 	- **a)** [Abrogé, DORS/85-527, art. 8]
-	- **b)** le bateau de pêche et son équipage ne doivent s’adonner qu’aux activités autorisées en vertu de la licence;
-	- **c)** les activités autorisées en vertu de la licence ne doivent avoir lieu qu’aux moments et dans les secteurs des eaux de pêche canadiennes ou dans les ports indiqués sur la licence;
+	- **b)** le bateau de pêche et son équipage ne doivent s’adonner qu’aux activités autorisées en vertu de la licence ou du permis;
+	- **c)** les activités autorisées en vertu de la licence ou du permis ne doivent avoir lieu qu’aux moments et dans les secteurs des eaux de pêche canadiennes ou dans les ports indiqués sur la licence ou le permis;
 	- **d)** dans les secteurs où la pêche est autorisée par la licence
 		- **(i)** les membres de l’équipage du bateau de pêche ne doivent pêcher que les espèces de poissons indiquées dans la licence,
 		- **(ii)** l’équipage du bateau de pêche ne peut ni prendre ni garder de poisson d’une espèce, de la taille ou de l’âge indiqués sur la licence comme prises interdites et, lorsque du poisson de cette nature est pris, il doit être rejeté à l’eau, vivant si possible,
@@ -260,7 +290,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 		- **(ii)** le poisson ne doit être embarqué qu’à partir de bateaux de pêche d’une catégorie indiquée sur la licence,
 		- **(iii)** le capitaine du bateau de pêche doit veiller à faire enregistrer quotidiennement et par écrit les données relatives au poisson ainsi embarqué à bord du bateau de pêche en vue du transport;
 	- **f) et g)** [Abrogés, DORS/85-527, art. 8]
-	- **h)** le bateau de pêche doit toujours avoir à son bord pendant la période où il se trouve dans les eaux de pêche canadiennes le matériel et les engins, y compris le matériel de communication, décrit sur la licence comme « matériel obligatoire »;
+	- **h)** le bateau de pêche doit toujours avoir à son bord pendant la période où il se trouve dans les eaux de pêche canadiennes le matériel et les engins, y compris le matériel de communication, décrit sur la licence ou le permis comme « matériel obligatoire »;
 	- **i)** [Abrogé, DORS/85-527, art. 8]
 	- **j)** [Abrogé, DORS/82-289, art. 1]
 	- **k) et l)** [Abrogés, DORS/85-527, art. 8]
@@ -268,8 +298,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 	- **n) à t)** [Abrogés, DORS/85-527, art. 8]
 	- **u)** le capitaine ou l’équipage du navire ne doivent se livrer à aucune activité, dans un secteur quelconque des eaux de pêche canadiennes, qui irait à l’encontre de la Loi sur les pêcheries ou des règlements établis en vertu de cette loi.
 
-- **(2)** Il est interdit au capitaine d’un bateau de pêche étranger faisant l’objet d’une licence de déroger aux conditions de la licence.
-> DORS/79-713, art. 8; DORS/82-289, art. 1; DORS/85-527, art. 8; DORS/94-362, art. 4(F) et 5(F); DORS/2017-58, art. 44.
+- **(2)** Il est interdit au capitaine d’un bateau de pêche étranger faisant l’objet d’une licence ou d’un permis de déroger aux conditions de la licence ou du permis.
+> DORS/79-713, art. 8; DORS/82-289, art. 1; DORS/85-527, art. 8; DORS/94-362, art. 4(F) et 5(F); DORS/2017-58, art. 44; DORS/2019-218, art. 7.
 
 
 
@@ -399,6 +429,57 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
+## Importation
+
+
+**13.01** Pour l’application des articles 13.02 à 13.06, ***chair*** s’entend de toute partie d’un poisson à l’exclusion de la tête, des yeux, de la laitance, des viscères, des arêtes et de la queue.
+> DORS/2019-218, art. 8.
+
+
+
+
+**13.02** 
+
+- **(1)** Pour l’application du paragraphe 5.6(3) de la Loi, tout poisson ci-après faisant l’objet de mesures établies par la Commission internationale pour la conservation des thonidés de l’Atlantique (CICTA) qui est importé est accompagné :
+	- **a)** s’agissant du thon rouge de l’Atlantique, du document de capture ou du certificat de réexportation, selon le cas, conforme au Programme de documentation des captures de thon rouge de la CICTA, dans sa version à jour au moment de la capture;
+	- **b)** s’agissant du thon obèse de l’Atlantique, du document statistique ou du certificat de réexportation, selon le cas, conforme au Programme de documents statistiques thon obèse de la CICTA, dans sa version à jour au moment de la capture;
+	- **c)** s’agissant de la chair d’espadon de l’Atlantique, du document statistique ou du certificat de réexportation, selon le cas, conforme au Programme de documents statistiques pour l’Espadon de la CICTA, dans sa version à jour au moment de la capture.
+
+- **(2)** Aucun document n’est requis au titre de l’alinéa (1)b) si le thon obèse de l’Atlantique a été capturé par un thonier senneur ou canneur et est destiné principalement à une conserverie située au Canada.
+> DORS/2019-218, art. 8.
+
+
+
+
+**13.03** Pour application du paragraphe 5.6(3) de la Loi, légine australe ou légine antarctique qui est importée est accompagnée d’un document de capture ou d’un certificat de réexportation, selon le cas, conforme au système de documentation des captures de *Dissostichus* spp. de la Commission pour la conservation de la faune et de la flore marines de l’Antarctique (CCAMLR), dans sa version à jour au moment de la capture.
+> DORS/2019-218, art. 8.
+
+
+
+
+**13.04** Pour l’application du paragraphe 5.6(3) de la Loi, la chair de thon obèse du Pacifique Est qui est importée est accompagnée d’un document de statistiques ou d’un certificat de réexportation, selon le cas, conforme au Programme de documents statistiques pour le thon obèse de la Commission interaméricaine du thon des tropiques (CITT), dans sa version à jour au moment de la capture.
+> DORS/2019-218, art. 8.
+
+
+
+
+**13.05** Pour l’application du paragraphe 5.6(3) de la Loi, la chair de thon rouge du Sud qui est importée est accompagnée d’un formulaire de suivi des captures ou d’un formulaire de réexportation ou d’exportation après débarquement du produit dans son pays d’origine, selon le cas, conforme au système de documentation des captures de la Commission pour la conservation de thon rouge du Sud (CCSBT), dans sa version à jour au moment de la capture.
+> DORS/2019-218, art. 8.
+
+
+
+
+**13.06** 
+
+- **(1)** Pour l’application du paragraphe 5.6(3) de la Loi, la chair de thon obèse de l’océan Indien qui est importée est accompagnée d’un document de statistiques ou d’un certificat de réexportation, selon le cas, conforme au Programme CTOI de documents statistiques pour le thon obèse de la Commission des thons de l’océan Indien (CTOI), dans sa version à jour au moment de la capture.
+
+- **(2)** Aucun document n’est requis au titre du paragraphe (1) si le thon obèse de l’océan Indien a été capturé par un thonier senneur ou canneur et est destiné principalement à une conserverie située au Canada.
+> DORS/2019-218, art. 8.
+
+
+
+
+
 ## Suspension ou annulation des licences et permis
 
 
@@ -454,8 +535,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
-**18.1** Le signal à employer par un bateau d’inspection lorsqu’un garde-pêche s’y trouvant projette de monter à bord d’un bateau de pêche d’un État assujetti à l’accord est le signal SQ 3.
-> DORS/2004-110, art. 2.
+**18.1** Le signal à employer par un bateau d’inspection lorsqu’un garde-pêche s’y trouvant projette de monter à bord d’un bateau de pêche d’un État assujetti à l’Accord sur les stocks de poissons est le signal SQ 3.
+> DORS/2004-110, art. 2; DORS/2019-218, art. 9.
 
 
 
@@ -857,17 +938,19 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
-## États assujettis à l’accord
+## États assujettis à l’Accord sur les stocks de poissons
 
 
-**22** Les États et les organisations d’États étrangers assujettis à l’accord sont ceux figurant à l’annexe IV.
-> DORS/99-313, art. 4.
+**22** Les États et les organisations d’États étrangers assujettis à l’Accord sur les stocks de poissons sont ceux figurant à l’annexe IV.
+> DORS/99-313, art. 4; DORS/2019-218, art. 10.
 
 
 
 
 
-## Mise en oeuvre de l’accord
+## Mise en oeuvre de l’Accord sur les stocks de poissons
+> [DORS/2019-218, art. 11]
+
 
 
 
@@ -886,10 +969,10 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 **24** 
 
-- **(1)** Un bateau de pêche d’un État assujetti à l’accord peut pêcher dans la zone de réglementation de l’OPAN les poissons d’un stock figurant aux annexes I.A ou I.B des mesures de l’OPAN à la condition que cet État soit partie à la Convention de l’OPAN.
+- **(1)** Le bateau de pêche d’un État assujetti à l’Accord sur les stocks de poissons peut pêcher dans la zone de réglementation de l’OPAN les poissons d’un stock figurant aux annexes I.A ou I.B des mesures de l’OPAN à la condition que cet État soit partie à la Convention de l’OPAN.
 
-- **(2)** Malgré le paragraphe (1), un bateau de pêche d’un État assujetti à l’accord, mais non partie à la Convention de l’OPAN, peut pratiquer la pêche qui y est visée si celle-ci fait l’objet d’une entente conforme aux mesures de l’OPAN.
-> DORS/99-313, art. 4; DORS/2014-149, art. 6.
+- **(2)** Toutefois, le bateau de pêche d’un État assujetti à l’Accord sur les stocks de poissons, mais non partie à la Convention de l’OPAN, peut pratiquer la pêche visée au paragraphe (1) si cette pêche fait l’objet d’une entente expressément prévue par les mesures de l’OPAN et qu’elle est pratiquée conformément à cette entente et aux mesures de l’OPAN.
+> DORS/99-313, art. 4; DORS/2014-149, art. 6; DORS/2019-218, art. 12.
 
 
 
@@ -980,8 +1063,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
-**40** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord qui pêche dans les eaux visées au paragraphe 39(1) d’avoir à bord un thon rouge d’un poids inférieur à 3,2 kg.
-> DORS/99-313, art. 4; DORS/2004-110, art. 14.
+**40** Il est interdit à tout bateau de pêche d’un État assujetti à l’Accord sur les stocks de poissons qui pêche dans les eaux visées au paragraphe 39(1) d’avoir à bord un thon rouge d’un poids inférieur à 3,2 kg.
+> DORS/99-313, art. 4; DORS/2004-110, art. 14; DORS/2019-218, art. 13.
 
 
 
@@ -996,7 +1079,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 ### Mesures d’exécution relatives aux bateaux de pêche canadiens
 
 
-**42** Le ministre peut autoriser un État assujetti à l’accord à prendre des mesures d’exécution à l’égard d’un bateau de pêche canadien s’il y a des motifs raisonnables de croire que le bateau a enfreint une mesure établie :
+**42** Le ministre peut autoriser un État assujetti à l’Accord sur les stocks de poissons à prendre des mesures d’exécution à l’égard d’un bateau de pêche canadien s’il y a des motifs raisonnables de croire que le bateau a enfreint une mesure établie :
 - **a)** soit par l’OPAN pour conserver ou gérer des stocks de poissons chevauchants;
 - **b)** soit par la Commission internationale pour la conservation des thonidés de l’Atlantique pour conserver ou gérer des stocks de poissons grands migrateurs figurant au tableau du présent article.
 #### TABLEAU
@@ -1048,7 +1131,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 </table>
 
-> DORS/99-313, art. 4; DORS/2017-58, art. 50(F).
+> DORS/99-313, art. 4; DORS/2017-58, art. 50(F); DORS/2019-218, art. 14.
 
 
 
@@ -1100,12 +1183,14 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 **46.1** 
 
 - **(1)** Le garde-pêche, agissant dans l’exercice de ses fonctions en application de la Convention de l’OPAN, peut exercer les pouvoirs de contrôle qui lui sont conférés au titre des mesures de l’OPAN dans la zone de réglementation de l’OPAN, à l’égard de tout :
-	- **a)** bateau de pêche étranger partie à cette convention;
-	- **b)** bateau de pêche étranger autorisé à pêcher dans cette zone en vertu d’une entente conforme aux mesures de l’OPAN;
+	- **a)** bateau de pêche étranger d’un État partie à cette convention;
+	- **b)** bateau de pêche étranger autorisé à pêcher dans cette zone en vertu d’une entente expressément prévue par les mesures de l’OPAN;
 	- **c)** autre bateau de pêche étranger, à l’exception de celui d’un État figurant aux tableaux III ou IV de l’article 21, à la condition qu’il ait l’autorisation du capitaine du bateau.
 
 - **(2)** Il peut exercer les mêmes pouvoirs dans les eaux de pêche canadiennes à l’égard de tout bateau de pêche visé aux alinéas (1)a) ou b).
-> DORS/2014-149, art. 8; DORS/2017-58, art. 51(F).
+
+- **(3)** Il peut détenir le poisson débarqué, au port, du bateau de pêche étranger visé à l’alinéa (1)a) tant qu’il n’a pas reçu de l’État du pavillon le formulaire ou les formulaires prévus à l’annexe II.L des mesures de l’OPAN.
+> DORS/2014-149, art. 8; DORS/2017-58, art. 51(F); DORS/2019-218, art. 15.
 
 
 
@@ -1114,11 +1199,11 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 ## Recouvrement des frais
 
 
-**47** Lorsqu’un bateau de pêche d’un État assujetti à l’accord est saisi et que, après avoir mené une enquête plus poussée au port, le garde-pêche continue d’avoir des motifs raisonnables de croire à la perpétration d’une infraction prévue aux articles 24 ou 40, les frais ci-après constituent des créances de Sa Majesté du chef du Canada :
+**47** Lorsqu’un bateau de pêche d’un État assujetti à l’Accord sur les stocks de poissons est saisi et que, après avoir mené une enquête plus poussée au port, le garde-pêche continue d’avoir des motifs raisonnables de croire à la perpétration d’une infraction prévue aux articles 24 ou 40, les frais ci-après constituent des créances de Sa Majesté du chef du Canada :
 - **a)** les frais raisonnablement exposés pour l’accostage du bateau;
 - **b)** les frais raisonnablement exposés pour assurer la sécurité et l’entretien du bateau;
 - **c)** les frais raisonnablement exposés pour le rapatriement des membres de l’équipage du bateau.
-> DORS/99-313, art. 4; DORS/2014-149, art. 9.
+> DORS/99-313, art. 4; DORS/2014-149, art. 9; DORS/2019-218, art. 16.
 
 
 
@@ -1402,7 +1487,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 <table>
 <tr>
 <th>Article</th>
-<th>État assujetti à l’accord</th>
+<th>État assujetti à l’Accord sur les stocks de poissons</th>
 </tr>
 <tr>
 <td>1</td>
@@ -1738,6 +1823,6 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 </table>
 
-> DORS/99-313, art. 5; DORS/2004-110, art. 15; DORS/2014-149, art. 10.
+> DORS/99-313, art. 5; DORS/2004-110, art. 15; DORS/2014-149, art. 10; DORS/2019-218, art. 17.
 
 
