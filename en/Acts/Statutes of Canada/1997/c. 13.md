@@ -47,7 +47,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***blunt wrap*** means a sheet, including one that is rolled, that is composed of natural or reconstituted tobacco and that is ready to be filled. (*feuille d’enveloppe*)
 
-***brand element*** includes a brand name, trade-mark, trade-name, distinguishing guise, logo, graphic arrangement, design or slogan that is reasonably associated with, or that evokes, a product, a service or a brand of product or service, but does not include a colour. (*élément de marque*)
+***brand element*** includes a brand name, trademark, trade-name, distinguishing guise, logo, graphic arrangement, design or slogan that is reasonably associated with, or that evokes, a product, a service or a brand of product or service, but does not include a colour. (*élément de marque*)
 
 ***emission*** means a substance that is produced when a tobacco product or vaping product is used. (*émission*)
 
@@ -94,7 +94,7 @@ It includes any tobacco product that is designated by the regulations to be a li
 It does not include devices and substances or mixtures of substances that are excluded by the regulations, cannabis, as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), cannabis accessories, as defined in that subsection, tobacco products or their accessories. (*produit de vapotage*)
 
 ***young person*** means a person under eighteen years of age. (*jeune*)
-> 1997, c. 13, s. 2; 2009, c. 27, s. 2; 2018, c. 9, ss. 3, 79.1.
+> 1997, c. 13, s. 2; 2009, c. 27, s. 2; 2014, c. 20, s. 366(E); 2018, c. 9, ss. 3, 79.1.
 
 
 
@@ -185,10 +185,10 @@ It does not include devices and substances or mixtures of substances that are ex
 
 - **(1)** No manufacturer shall use an additive set out in column 1 of Schedule 1 in the manufacture of a tobacco product set out in column 2.
 
-**Exception — trade-mark or marking**
+**Exception — trademark or marking**
 
-- **(2)** Subsection (1) does not prohibit the use of a colouring agent to depict a trade-mark on a tobacco product or to display a marking required under this or any other Act of Parliament or of the legislature of a province or for any other prescribed purpose.
-> 2009, c. 27, s. 4; 2018, c. 9, ss. 7, 70.
+- **(2)** Subsection (1) does not prohibit the use of a colouring agent to depict a trademark on a tobacco product or to display a marking required under this or any other Act of Parliament or of the legislature of a province or for any other prescribed purpose.
+> 2009, c. 27, s. 4; 2014, c. 20, s. 366(E); 2018, c. 9, ss. 7, 70.
 
 
 
@@ -725,7 +725,9 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **Exception**
 
-- **(3)** This section does not apply to a trade-mark that appeared on a tobacco product for sale in Canada on December 2, 1996.
+- **(3)** This section does not apply to a trademark that appeared on a tobacco product for sale in Canada on December 2, 1996.
+> 1997, c. 13, s. 21; 2014, c. 20, s. 366(E).
+
 
 
 
