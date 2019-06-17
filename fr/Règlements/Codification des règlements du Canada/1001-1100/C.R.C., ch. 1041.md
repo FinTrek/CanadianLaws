@@ -195,6 +195,8 @@ Autorités habilitantes :
 	- **(iii)** le numéro d’enregistrement émis selon l’article 6;
 - **c)** le nécessaire d’essai est vendu, acquis, ou autrement manipulé à des fins médicales, expérimentales, industrielles, éducatives ou scientifiques; et
 - **d)** le numéro d’enregistrement n’a pas été annulé en vertu de l’article 7.
+> 2014, ch. 20, art. 366(A).
+
 
 
 
