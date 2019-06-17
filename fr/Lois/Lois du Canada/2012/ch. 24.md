@@ -770,6 +770,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sceaux d’inspection et noms de catégorie**
 
 **50** Le sceau d’inspection et le nom de catégorie sont des marques de commerce dont la propriété exclusive et, sous réserve de la présente loi, le droit d’utilisation sont dévolus à Sa Majesté du chef du Canada.
+> 2012, ch. 24, art. 50; 2014, ch. 20, art. 366(A).
+
 
 
 
