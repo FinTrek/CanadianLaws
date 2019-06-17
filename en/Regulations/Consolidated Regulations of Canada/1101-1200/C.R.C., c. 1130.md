@@ -112,7 +112,9 @@ Enabling authorities:
 **8** No person shall erect any sign
 - **(a)** that is animated or that flashes;
 - **(b)** that is not related to any business upon the premises where the sign is located; or
-- **(c)** that contains a trade mark or emblem other than a trade mark or emblem that is registered or copyrighted for the business of the applicant.
+- **(c)** that contains a trademark or emblem other than a trademark or emblem that is registered or copyrighted for the business of the applicant.
+> 2014, c. 20, s. 366(E).
+
 
 
 
