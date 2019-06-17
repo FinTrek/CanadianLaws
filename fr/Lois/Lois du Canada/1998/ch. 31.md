@@ -247,6 +247,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** rendre disponibles, notamment par cession ou octroi de licence, les brevets, droits d’auteurs, dessins industriels, marques de commerce, secrets industriels ou titres de propriété analogues placés sous son administration ou son contrôle;
 - **e)** publier, vendre et diffuser par tout autre moyen ses études, rapports ou autres documents;
 - **f)** prendre toute autre mesure utile pour la réalisation de sa mission.
+> 1998, ch. 31, art. 8; 2014, ch. 20, art. 366(A).
+
 
 
 
