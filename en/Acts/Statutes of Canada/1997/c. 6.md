@@ -261,7 +261,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Intellectual property**
 
-**17** The Agency may license, sell or otherwise make available any patent, copyright, industrial design, trade-mark or other similar property right that is vested in Her Majesty in right of Canada under any Act or provision that the Agency enforces or administers by virtue of section 11.
+**17** The Agency may license, sell or otherwise make available any patent, copyright, industrial design, trademark or other similar property right that is vested in Her Majesty in right of Canada under any Act or provision that the Agency enforces or administers by virtue of section 11.
+> 1997, c. 6, s. 17; 2014, c. 20, s. 366(E).
+
 
 
 
