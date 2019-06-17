@@ -1483,7 +1483,7 @@ where
 
 - **(1)** The special duty imposed under section 56 is relieved on a tobacco product of a particular brand if
 	- **(a)** the tobacco product of that brand is prescribed;
-	- **(b)** during the three-year period before the year in which the tobacco product of that brand is exported, the tobacco product of that brand was not sold in Canada, other than in a duty free shop, except in quantities not significantly greater than the minimum quantities sufficient for the purposes of registering the trade mark for that brand; and
+	- **(b)** during the three-year period before the year in which the tobacco product of that brand is exported, the tobacco product of that brand was not sold in Canada, other than in a duty free shop, except in quantities not significantly greater than the minimum quantities sufficient for the purposes of registering the trademark for that brand; and
 	- **(c)** during any year before the three-year period referred to in paragraph (b), sales in Canada of the product of that brand never exceeded
 		- **(i)** 0.5% of total sales in Canada of similar products, or
 		- **(ii)** if another percentage that is less than 0.5% is prescribed for the purposes of this subsection, that percentage of total sales in Canada of similar products.
@@ -1497,6 +1497,8 @@ where
 **Distinguishing different cigarettes**
 
 - **(3)** For the purpose of subsection (2), a cigarette of a particular type or formulation sold under a brand may be considered to be different from another cigarette sold under that brand if it is reasonable to consider them to be different having regard to their physical characteristics before and during consumption.
+> 2002, c. 22, s. 58; 2014, c. 20, s. 366(E).
+
 
 
 
