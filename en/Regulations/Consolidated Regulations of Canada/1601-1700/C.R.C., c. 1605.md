@@ -406,12 +406,12 @@ Enabling authorities:
 
 
 **19** Before being sold or otherwise disposed of, or leased, a static measure that is of a class, type or design approved for use in trade and that is manufactured on or after January 1, 1976 shall be marked with the following information:
-- **(a)** the name or registered trade mark of the manufacturer or importer of the measure;
+- **(a)** the name or registered trademark of the manufacturer or importer of the measure;
 - **(b)** the approval number for that class, type or design of measure;
 - **(c)** the capacity of the measure expressed in terms of the appropriate unit of measurement;
 - **(d)** the words “Legal for Trade” (“*Légal pour le commerce*”); and
 - **(e)** any other information required to be marked on the device by the notice of approval.
-> SOR/2005-297, s. 41(F); SOR/2014-111, s. 13.
+> SOR/2005-297, s. 41(F); 2014, c. 20, s. 366(E); SOR/2014-111, s. 13.
 
 
 
