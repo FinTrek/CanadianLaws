@@ -3262,6 +3262,8 @@ Sont toutefois exclus :
 **Propriété**
 
 - **(2)** La propriété et, sous réserve des autres dispositions de la présente section, l’utilisation des marques nationales sont dévolues à Sa Majesté du chef du Canada.
+> 1999, ch. 33, art. 141; 2014, ch. 20, art. 366(A).
+
 
 
 
@@ -3433,6 +3435,8 @@ Sont toutefois exclus :
 **Contrefaçon**
 
 - **(4)** Il est interdit d’utiliser une marque susceptible d’être confondue avec une marque nationale.
+> 1999, ch. 33, art. 150; 2014, ch. 20, art. 366(A).
+
 
 
 
