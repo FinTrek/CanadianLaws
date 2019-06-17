@@ -507,7 +507,7 @@ but does not include
 - **(e)** 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosatetraenoic acid, or
 - **(f)** 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosapentaenoic acid; (*acides gras polyinsaturés oméga-6*, *graisses polyinsaturées oméga-6*, *gras polyinsaturés oméga-6*, *lipides polyinsaturés oméga-6*, *polyinsaturés oméga-6* ou *oméga-6*)
 
-***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material thereon, other than a trade mark or common name and that, because of any design appearing on its surface or because of its shape or texture, appears to be a decorative ornament and is sold as a decorative ornament in addition to being sold as the container of a product; (*emballage décoratif*)
+***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material thereon, other than a trademark or common name and that, because of any design appearing on its surface or because of its shape or texture, appears to be a decorative ornament and is sold as a decorative ornament in addition to being sold as the container of a product; (*emballage décoratif*)
 
 ***overage*** means the amount of a vitamin or mineral nutrient that is, within the limits of good manufacturing practice, added to a food in excess of the amount declared on the label, in order to ensure that the amount of the vitamin or mineral nutrient declared on the label is maintained throughout the durable life of the food; (*surtitrage*)
 
@@ -583,7 +583,7 @@ but does not include
 ***agricultural chemical*** has the same meaning as in subsection (1). (*produit chimique agricole*)
 
 ***food additive*** has the same meaning as in subsection (1). (*additif alimentaire*)
-> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; SOR/2014-99, s. 1; SOR/2016-74, s. 1; SOR/2016-305, s. 1; SOR/2018-108, s. 393.
+> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; 2014, c. 20, s. 366(E); SOR/2014-99, s. 1; SOR/2016-74, s. 1; SOR/2016-305, s. 1; SOR/2018-108, s. 393.
 
 
 
@@ -8428,8 +8428,14 @@ shall be shown on the principal display panel of the label of a simulated meat p
 #### Vodka
 
 
-**B.02.080** **[S]. Vodka** shall be a potable alcoholic beverage obtained by the treatment of grain spirit or potato spirit with charcoal so as to render the product without distinctive character, aroma or taste.
-> SOR/93-145, s. 16.
+**B.02.080** 
+
+- **[S]. (1)** **Vodka** shall be a potable alcoholic distillate obtained from potatoes, cereal grain or any other material of agricultural origin fermented by the action of yeast or a mixture of yeast and other micro-organisms.
+
+- **(2)** The distillate shall be treated with charcoal or other means so that the vodka is without distinctive character, aroma or taste.
+
+- **(3)** Vodka produced, in whole or in part, from material of agricultural origin other than potatoes or cereal grain, shall carry in close proximity to the common name, the statement “produced from” followed by the name of all material of agricultural origin used.
+> SOR/93-145, s. 16; SOR/2019-217, s. 1.
 
 
 
@@ -35811,11 +35817,11 @@ as the Minister may require;
 - **(a)** a registration number has been issued for the test kit pursuant to section G.06.002.3;
 - **(b)** the test kit bears, on its external surface,
 	- **(i)** the name of the producer, maker or assembler,
-	- **(ii)** the trade name or trade mark, and
+	- **(ii)** the trade name or trademark, and
 	- **(iii)** the registration number issued therefor pursuant to section G.06.002.3;
 - **(c)** the test kit is sold, possessed or otherwise dealt in for the purpose of medical, laboratory, industrial, educational or research use; and
 - **(d)** the registration number has not been cancelled pursuant to section G.06.002.4.
-> SOR/2004-238, s. 30.
+> SOR/2004-238, s. 30; 2014, c. 20, s. 366(E).
 
 
 
@@ -36626,11 +36632,11 @@ and whose use and possession of that drug is authorized by the Minister pursuant
 - **(a)** a registration number has been issued for the test kit pursuant to section J.01.033.3;
 - **(b)** the test kit bears, on its external surface,
 	- **(i)** the name of the producer, maker or assembler,
-	- **(ii)** the trade name or trade mark, and
+	- **(ii)** the trade name or trademark, and
 	- **(iii)** the registration number issued therefor pursuant to section J.01.033.3;
 - **(c)** the test kit is sold, possessed or otherwise dealt in for the purpose of medical, laboratory, industrial, educational or research use; and
 - **(d)** the registration number has not been cancelled pursuant to section J.01.033.4.
-> SOR/2004-238, s. 41.
+> SOR/2004-238, s. 41; 2014, c. 20, s. 366(E).
 
 
 
