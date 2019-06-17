@@ -63,7 +63,7 @@ Autorités habilitantes :
 ***sous-ministre adjoint***[Abrogée, DORS/2004-244, art. 1]
 
 - **(2)** Lorsqu’un cosmétique porte plus d’un nom, une référence dans le présent règlement au cosmétique par l’un de ses noms est censée être une référence au cosmétique par tous ses noms.
-> DORS/81-615, art. 1; DORS/85-142, art. 1; DORS/92-16, art. 1; DORS/94-559, art. 1; DORS/2001-272, art. 1; DORS/2004-244, art. 1.
+> DORS/81-615, art. 1; DORS/85-142, art. 1; DORS/92-16, art. 1; DORS/94-559, art. 1; DORS/2001-272, art. 1; DORS/2004-244, art. 1; 2014, ch. 20, art. 366(A).
 
 
 
