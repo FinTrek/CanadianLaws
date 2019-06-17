@@ -242,9 +242,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** enter into contracts, agreements, memoranda of understanding or other arrangements with a department or agency of the Government of Canada, with any other government or any of its agencies or with any person or organization in the name of Her Majesty in right of Canada or in its own name;
 - **(b)** acquire any property, including securities, by way of gift, bequest or other form of donation and, subject to the terms and conditions on which the property was acquired, hold, administer, expend, sell, exchange or otherwise dispose of the property;
 - **(c)** sell, exchange, loan or otherwise dispose of any personal property or moveables acquired, held or administered by the Agency;
-- **(d)** license, assign or otherwise make available any patent, copyright, industrial design, trade-mark, trade secret or other like property right held, controlled or administered by the Agency;
+- **(d)** license, assign or otherwise make available any patent, copyright, industrial design, trademark, trade secret or other like property right held, controlled or administered by the Agency;
 - **(e)** publish, sell or otherwise disseminate studies, reports and other documents of the Agency; and
 - **(f)** do anything that is necessary or incidental to the furtherance of the purposes of the Agency.
+> 1998, c. 31, s. 8; 2014, c. 20, s. 366(E).
+
 
 
 
