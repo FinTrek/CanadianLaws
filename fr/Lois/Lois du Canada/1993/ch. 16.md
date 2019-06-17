@@ -131,7 +131,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Usage trompeur**
 
 - **(4)** Il est interdit d’employer une marque différente susceptible d’être confondue avec une marque nationale de sécurité.
-> 1993, ch. 16, art. 3; 2014, ch. 20, art. 214.
+> 1993, ch. 16, art. 3; 2014, ch. 20, art. 214 et 366(A).
 
 
 
