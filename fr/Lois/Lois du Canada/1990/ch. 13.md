@@ -102,7 +102,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Usage des services fédéraux**
 
 - **(4)** Dans l’exercice de ses attributions, l’Agence fait usage, en tant que de besoin, des installations et services des ministères et organismes fédéraux.
-> 1990, ch. 13, art. 5; 2001, ch. 4, art. 70.
+> 1990, ch. 13, art. 5; 2001, ch. 4, art. 70; 2014, ch. 20, art. 366(A).
 
 
 
@@ -173,7 +173,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion des textes réglementaires**
 
 - **(7)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux décrets ou arrêtés qui sont pris aux termes du présent article et ne visent qu’une personne ou qu’un organisme.
-> 1990, ch. 13, art. 10; 2001, ch. 4, art. 71(F).
+> 1990, ch. 13, art. 10; 2001, ch. 4, art. 71(F); 2014, ch. 20, art. 366(A).
 
 
 
