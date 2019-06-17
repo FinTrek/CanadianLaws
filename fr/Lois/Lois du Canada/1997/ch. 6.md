@@ -264,6 +264,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Brevets, droits d’auteur, etc.**
 
 **17** L’Agence peut rendre disponibles, notamment par vente ou attribution de licence, les brevets, droits d’auteur, dessins industriels, marques de commerce ou titres de propriété analogues dévolus à Sa Majesté du chef du Canada sous le régime des lois ou dispositions dont elle est chargée d’assurer ou de contrôler l’application aux termes de l’article 11.
+> 1997, ch. 6, art. 17; 2014, ch. 20, art. 366(A).
+
 
 
 
