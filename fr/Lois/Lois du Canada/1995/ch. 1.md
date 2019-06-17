@@ -86,7 +86,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Extension**
 
 - **(2)** Ils s’étendent également, dans les mêmes conditions, aux domaines liés au développement économique régional en Ontario.
-> 1995, ch. 1, art. 4; 2005, ch. 26, art. 20.
+> 1995, ch. 1, art. 4; 2005, ch. 26, art. 20; 2014, ch. 20, art. 366(A).
 
 
 
