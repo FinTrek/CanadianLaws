@@ -283,7 +283,7 @@ is not legal tender.
 
 
 
-**Trade marks**
+**Trademarks**
 
 **14** 
 
@@ -295,7 +295,7 @@ is not legal tender.
 **Official symbol**
 
 - **(2)** The symbol that appears in Schedule II is the official symbol of the Olympic.
-> 1974-75-76, c. 68, s. 4.
+> 1974-75-76, c. 68, s. 4; 2014, c. 20, s. 366(E).
 
 
 
@@ -307,19 +307,19 @@ is not legal tender.
 
 - **(1)** In this section,
 
-***adopt***, in relation to a trade mark, has the same meaning as in the Trade Marks Act; (*adopter*)
+***adopt***, in relation to a trademark, has the same meaning as in the Trade Marks Act; (*adopter*)
 
 ***goods*** has the same meaning as ***wares*** in the Trade Marks Act. (*biens*)
 
 **Adoption of mark, symbol, etc.**
 
-- **(2)** Except in accordance with the terms and conditions set forth in any licence issued by the Olympic Corporation in that behalf or except as permitted by any by-law of the Olympic Corporation, no person shall, after June 13, 1975 and before January 1st, 1977, adopt, in connection with any business or any establishment or premises in which a business is carried on, as a trade mark or otherwise,
+- **(2)** Except in accordance with the terms and conditions set forth in any licence issued by the Olympic Corporation in that behalf or except as permitted by any by-law of the Olympic Corporation, no person shall, after June 13, 1975 and before January 1st, 1977, adopt, in connection with any business or any establishment or premises in which a business is carried on, as a trademark or otherwise,
 	- **(a)** any mark of the Olympic Corporation or the official symbol of the Olympic, whether such mark or symbol is used alone or in connection with any word, abbreviation, expression, symbol, emblem, insignia or design; or
 	- **(b)** any word, abbreviation, expression, symbol, emblem, insignia or design containing, indicating or implying any reference to the Olympic or so closely resembling any mark of the Olympic Corporation or the official symbol of the Olympic as to be likely to be mistaken for such mark or symbol.
 
 **Use of mark, symbol, etc.**
 
-- **(3)** No person shall, after June 13, 1975 and before January 1st, 1977, use in connection with any business or any establishment or premises in which a business is carried on, as a trade mark or otherwise, any mark, word, abbreviation, expression, symbol, emblem, insignia or design adopted contrary to subsection (2).
+- **(3)** No person shall, after June 13, 1975 and before January 1st, 1977, use in connection with any business or any establishment or premises in which a business is carried on, as a trademark or otherwise, any mark, word, abbreviation, expression, symbol, emblem, insignia or design adopted contrary to subsection (2).
 
 **Sale, etc., of goods**
 
@@ -327,7 +327,7 @@ is not legal tender.
 
 **Restriction on use of previously adopted mark, symbol, etc.**
 
-- **(5)** Where, before June 14, 1975, a person adopted any mark, word, abbreviation, expression, symbol, emblem, insignia or design described in paragraph (2)(a) or (b), as a trade mark or otherwise, in association with goods or services or in connection with any business or any establishment or premises in which a business is carried on, that person shall not, after June 13, 1975 and before January 1st, 1977, use such mark, word, abbreviation, expression, symbol, emblem, insignia or design, as a trade mark or otherwise, in association with any goods or services of a different class or of a different kind within the same class or in connection with any other business or other establishment or premises in which a business is carried on, except in accordance with the terms and conditions set forth in any licence issued by the Olympic Corporation in that behalf or except as permitted by any by-law of the Olympic Corporation.
+- **(5)** Where, before June 14, 1975, a person adopted any mark, word, abbreviation, expression, symbol, emblem, insignia or design described in paragraph (2)(a) or (b), as a trademark or otherwise, in association with goods or services or in connection with any business or any establishment or premises in which a business is carried on, that person shall not, after June 13, 1975 and before January 1st, 1977, use such mark, word, abbreviation, expression, symbol, emblem, insignia or design, as a trademark or otherwise, in association with any goods or services of a different class or of a different kind within the same class or in connection with any other business or other establishment or premises in which a business is carried on, except in accordance with the terms and conditions set forth in any licence issued by the Olympic Corporation in that behalf or except as permitted by any by-law of the Olympic Corporation.
 
 **When mark, etc., deemed to be applied**
 
@@ -335,7 +335,7 @@ is not legal tender.
 
 **Application of Trade Marks Act**
 
-- **(7)** For the purposes of sections 52 and 53 of the Trade Marks Act, each of the marks of the Olympic Corporation and the official symbol of the Olympic are registered trade marks of that corporation, and a reference in those sections to the Trade Marks Act or the provisions of that Act shall be construed as including a reference to this section.
+- **(7)** For the purposes of sections 52 and 53 of the Trade Marks Act, each of the marks of the Olympic Corporation and the official symbol of the Olympic are registered trademarks of that corporation, and a reference in those sections to the Trade Marks Act or the provisions of that Act shall be construed as including a reference to this section.
 
 **Presumption of injury**
 
@@ -348,7 +348,7 @@ is not legal tender.
 **Offence**
 
 - **(10)** Every person who contravenes this section is guilty of an offence punishable on summary conviction.
-> 1974-75-76, c. 68, s. 4.
+> 1974-75-76, c. 68, s. 4; 2014, c. 20, s. 366(E).
 
 
 
