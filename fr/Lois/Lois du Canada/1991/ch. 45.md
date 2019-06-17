@@ -903,7 +903,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** L’alinéa (1)a) ne s’applique pas à la société antérieure constituée en personne morale sous le régime d’une loi fédérale qui autorise expressément l’utilisation d’une dénomination qui serait autrement interdite.
-> 1991, ch. 45, art. 41; 1996, ch. 6, art. 112; 1997, ch. 15, art. 344.
+> 1991, ch. 45, art. 41; 1996, ch. 6, art. 112; 1997, ch. 15, art. 344; 2014, ch. 20, art. 366(A).
 
 
 
