@@ -48,6 +48,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Marques figurant à l’annexe 2**
 
 - **(3)** Toute marque figurant dans la colonne 1 de l’annexe 2 est considérée comme n’étant pas une marque olympique ou paralympique après la date de cessation d’effet prévue à son égard dans la colonne 2.
+> 2007, ch. 25, art. 2; 2014, ch. 20, art. 366(A).
+
 
 
 
@@ -92,7 +94,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(6)** Il est entendu que ne constitue pas en soi un emploi à l’égard d’une entreprise l’inclusion d’une marque olympique ou paralympique ou sa traduction — en quelque langue que ce soit — dans une oeuvre artistique, au sens de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), par son auteur, si cette oeuvre n’est pas reproduite à l’échelle commerciale.
-> 2007, ch. 25, art. 3; 2014, ch. 32, art. 62; 2017, ch. 6, art. 130.
+> 2007, ch. 25, art. 3; 2014, ch. 20, art. 366(E), ch. 32, art. 62; 2017, ch. 6, art. 130.
 
 
 
@@ -115,7 +117,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Proximité**
 
 - **(3)** Le fait de placer une publicité à proximité d’une publication, notamment sur support électronique, contenant une marque olympique ou paralympique ou sa traduction — en quelque langue que ce soit — ne constitue pas en soi une contravention au paragraphe (1).
-> 2007, ch. 25, art. 4; 2014, ch. 32, art. 62.
+> 2007, ch. 25, art. 4; 2014, ch. 20, art. 366(E), ch. 32, art. 62.
 
 
 
@@ -142,7 +144,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motifs**
 
 - **(3)** L’autorisation ne peut être refusée pour des motifs déraisonnables.
-> 2007, ch. 25, art. 5; 2014, ch. 32, art. 61.
+> 2007, ch. 25, art. 5; 2014, ch. 20, art. 364, ch. 32, art. 61.
 
 
 
@@ -206,7 +208,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dédouanement**
 
 - **(8)** Sauf disposition contraire d’une ordonnance rendue au titre de l’alinéa (1)a) et sous réserve de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale prohibant, contrôlant ou réglementant les importations ou les exportations, le ministre de la Sécurité publique et de la Protection civile dédouane, au sens de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les produits retenus en vertu d’une telle ordonnance sans autre avis au demandeur si, dans les deux semaines suivant l’avis prévu au sous-alinéa (1)a)(ii), il n’a pas été avisé qu’une action a été intentée en vue d’obtenir une ordonnance au titre de l’alinéa (1)b).
-> 2007, ch. 25, art. 8; 2014, ch. 32, art. 62.
+> 2007, ch. 25, art. 8; 2014, ch. 20, art. 366(E), ch. 32, art. 62.
 
 
 
@@ -231,6 +233,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet de l’avis public**
 
 **11** Il est entendu que l’avis public d’adoption et d’emploi donné par le registraire au titre de l’alinéa 9(1)n) de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md) à l’égard d’un insigne, d’un écusson, d’un emblème ou d’une autre marque est sans effet si, au moment de la demande, l’article 3 interdisait au demandeur d’adopter ou d’employer la marque en cause.
+> 2007, ch. 25, art. 11; 2014, ch. 20, art. 366(A).
+
 
 
 
