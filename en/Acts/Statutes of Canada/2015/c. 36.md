@@ -401,7 +401,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **69** 
 
-- **(1)** [Amendment]
+- **(1)** [Repealed before coming into force, 2015, c. 36, s. 70]
 
 - **(2)** [Repealed before coming into force, 2018, c. 27, s. 239]
 
@@ -442,7 +442,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind5447_hq_16022'>[*]</a></sup>**(3)** Section 67 and subsection 69(2) come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which section 357 of the [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md) comes into force.
 
-<a name='fn_Ind5447_hq_16022'><sup>*</sup></a>: [Note: Section 67 and subsection 69(2) not in force.]<br />
+<a name='fn_Ind5447_hq_16022'><sup>*</sup></a>: [Note: Section 67 in force June 17, 2019, *see* SI/2018-100; subsection 69(2) repealed before coming into force, *see* 2018, c. 27, s. 239.]<br />
 
 **Order in council — sections 46, 63 and 68**
 
@@ -460,7 +460,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind5447_hq_16025'>[*]</a></sup>**(6)** Subsection 69(1) comes into force on the first day on which both section 359 of the [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md) and section 68 are in force.
 
-<a name='fn_Ind5447_hq_16025'><sup>*</sup></a>: [Note: Subsection 69(1) not in force.]<br />
+<a name='fn_Ind5447_hq_16025'><sup>*</sup></a>: [Note: Subsection 69(1) repealed before coming into force, *see* 2015, c. 36, s. 70.]<br />
 
 
 
