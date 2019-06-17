@@ -404,8 +404,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Denomination must be recognizable**
 
-- **(6)** Where a trade-mark, trade name or other similar indication is used in association with a denomination approved by the Commissioner pursuant to this section, the denomination must be easily recognizable.
-> 1990, c. 20, s. 14; 2015, c. 2, s. 10.
+- **(6)** Where a trademark, trade name or other similar indication is used in association with a denomination approved by the Commissioner pursuant to this section, the denomination must be easily recognizable.
+> 1990, c. 20, s. 14; 2014, c. 20, s. 366(E); 2015, c. 2, s. 10.
 
 
 
