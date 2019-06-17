@@ -115,6 +115,8 @@ Autorités habilitantes :
 - **a)** animée ou clignotante;
 - **b)** qui ne se rapporte à aucun commerce exercé à l’endroit même où ladite enseigne est installée; ou
 - **c)** sur laquelle figure une marque ou un symbole de commerce autre que la marque ou le symbole de commerce déposé ou dont les droits sont réservés au nom du requérant à des fins commerciales.
+> 2014, ch. 20, art. 366(A).
+
 
 
 
