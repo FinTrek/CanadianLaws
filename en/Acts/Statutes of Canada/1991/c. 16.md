@@ -121,11 +121,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** cooperate with other persons and bodies engaged in management and personnel development;
 - **(d)** contribute funds for the pursuit of research or other activities related to the theory and practice of public sector management and public administration;
 - **(e)** provide services and facilities to any person or government, and charge fees therefor as provided by section 18;
-- **(f)** license, sell or otherwise make available any copyright, trade-mark or other similar property right held, controlled or administered by the School;
+- **(f)** license, sell or otherwise make available any copyright, trademark or other similar property right held, controlled or administered by the School;
 - **(g)** enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the name of the School;
 - **(h)** acquire any money, securities or other personal or movable property by gift or bequest and expend, administer or dispose of the property subject to the terms, if any, on which the gift or bequest was made; and
 - **(i)** do all things necessary or incidental to the attainment of the objects of the School.
-> 1991, c. 16, s. 5; 2001, c. 4, s. 68; 2003, c. 22, ss. 25, 225(E).
+> 1991, c. 16, s. 5; 2001, c. 4, s. 68; 2003, c. 22, ss. 25, 225(E); 2014, c. 20, s. 366(E).
 
 
 
@@ -258,12 +258,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The President may, with the Treasury Board’s approval, prescribe the fees or the manner of determining the fees
 	- **(a)** to be charged for any service or for the use of any facility provided by the School; or
-	- **(b)** to be charged by the School when selling, licensing the use of or otherwise making available any copyright, trade-mark or other similar property right held, controlled or administered by the School.
+	- **(b)** to be charged by the School when selling, licensing the use of or otherwise making available any copyright, trademark or other similar property right held, controlled or administered by the School.
 
 **Offset**
 
 - **(2)** Subject to any conditions imposed by the Treasury Board, the revenue from fees received by the School in a fiscal year through the conduct of its operations may be spent by the School for its purposes in that, or the next, fiscal year.
-> 1991, c. 16, s. 18; 2001, c. 4, s. 69(F); 2003, c. 22, s. 32; 2012, c. 19, s. 521.
+> 1991, c. 16, s. 18; 2001, c. 4, s. 69(F); 2003, c. 22, s. 32; 2012, c. 19, s. 521; 2014, c. 20, s. 366(E).
 
 
 
