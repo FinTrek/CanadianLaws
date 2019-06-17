@@ -1101,7 +1101,7 @@ Est exclue de la présente définition la société mutuelle transformée en soc
 **Exception**
 
 - **(2)** L’alinéa (1)a) ne s’applique pas à la société antérieure ou la société de secours antérieure constituée en personne morale sous le régime d’une loi fédérale qui autorise expressément l’utilisation d’une dénomination qui serait autrement interdite.
-> 1991, ch. 47, art. 42; 1996, ch. 6, art. 67; 1997, ch. 15, art. 177; 2001, ch. 9, art. 359.
+> 1991, ch. 47, art. 42; 1996, ch. 6, art. 67; 1997, ch. 15, art. 177; 2001, ch. 9, art. 359; 2014, ch. 20, art. 366(A).
 
 
 
@@ -13525,7 +13525,7 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 **Représentation auprès du surintendant**
 
 - **(3)** S’il ne délivre pas l’agrément pour l’un des motifs énoncés au paragraphe (1), le surintendant, par avis écrit en ce sens, fournit à l’entité étrangère ayant présenté la demande et à toute autre partie intéressée l’occasion de présenter des observations à cet égard.
-> 1991, ch. 47, art. 575; 1996, ch. 6, art. 84; 1997, ch. 15, art. 301; 2007, ch. 6, art. 260.
+> 1991, ch. 47, art. 575; 1996, ch. 6, art. 84; 1997, ch. 15, art. 301; 2007, ch. 6, art. 260; 2014, ch. 20, art. 366(A).
 
 
 
@@ -16704,7 +16704,7 @@ où :
 - **c)** qui est identique à la marque de commerce, au nom commercial ou à la dénomination sociale d’une personne morale existant ou qui, selon le surintendant, est à peu près identique à ceux-ci ou leur est similaire au point de prêter à confusion, sauf si, d’une part, la dénomination, la marque ou le nom sont en voie d’être changés ou la personne morale est en cours de dissolution et, d’autre part, le consentement de celle-ci à cet égard est signifié au surintendant selon les modalités qu’il peut exiger;
 - **d)** qui est identique au nom sous lequel une entité exerce son activité ou est connue, ou qui, selon le surintendant, est à peu près identique à celui-ci ou lui est similaire, au point de prêter à confusion avec lui;
 - **e)** qui est réservée, en application de l’article 45, pour une société ou société de secours, existante ou projetée ou, en application de l’article 734, pour une autre société de portefeuille d’assurances existante ou projetée.
-> 1991, ch. 47, art. 730; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 730; 2001, ch. 9, art. 465; 2014, ch. 20, art. 366(A).
 
 
 
