@@ -193,10 +193,12 @@ Enabling authorities:
 - **(a)** a registration number has been issued for the test kit pursuant to section 6;
 - **(b)** the test kit bears, on its external surface,
 	- **(i)** the manufacturer’s name,
-	- **(ii)** the trade name or trade mark, and
+	- **(ii)** the trade name or trademark, and
 	- **(iii)** the registration number issued therefor pursuant to section 6;
 - **(c)** the test kit is sold, possessed or otherwise dealt in for the purpose of medical, laboratory, industrial, educational or research use; and
 - **(d)** the registration number has not been cancelled pursuant to section 7.
+> 2014, c. 20, s. 366(E).
+
 
 
 
