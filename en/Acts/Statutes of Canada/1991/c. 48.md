@@ -971,16 +971,16 @@ the acquisition is deemed to cause the person to increase a substantial investme
 	- **(a)** that is prohibited by an Act of Parliament;
 	- **(b)** that is, in the opinion of the Superintendent, deceptively misdescriptive;
 	- **(c)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing
-		- **(i)** trade-mark or trade name, or
+		- **(i)** trademark or trade name, or
 		- **(ii)** corporate name of a body corporate,
-except where the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
+except where the trademark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trademark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
 	- **(d)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified; or
 	- **(e)** that is reserved under section 39 for another association or a proposed association.
 
 **Use of “cooperative”**
 
 - **(2)** Notwithstanding the [Canada Cooperatives Act](/en/Acts/Statutes%20of%20Canada/1998/c.%201.md), an association may use the word “cooperative” or “coopérative”, or any abbreviation of that word, in its name.
-> 1991, c. 48, s. 35; 1996, c. 6, s. 49; 1997, c. 15, s. 117; 1998, c. 1, s. 383.
+> 1991, c. 48, s. 35; 1996, c. 6, s. 49; 1997, c. 15, s. 117; 1998, c. 1, s. 383; 2014, c. 20, s. 366(E).
 
 
 
