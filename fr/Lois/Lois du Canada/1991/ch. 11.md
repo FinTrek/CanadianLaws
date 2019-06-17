@@ -1047,6 +1047,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indépendance**
 
 - **(5)** La Société jouit, dans la réalisation de sa mission et l’exercice de ses pouvoirs, de la liberté d’expression et de l’indépendance en matière de journalisme, de création et de programmation.
+> 1991, ch. 11, art. 46; 2014, ch. 20, art. 366(A).
+
 
 
 
