@@ -776,7 +776,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Inspection marks and grade names**
 
-**50** Every inspection mark and grade name is a trade-mark and the exclusive property in the trade-mark and, subject to this Act, the right to its use are vested in Her Majesty in right of Canada.
+**50** Every inspection mark and grade name is a trademark and the exclusive property in the trademark and, subject to this Act, the right to its use are vested in Her Majesty in right of Canada.
+> 2012, c. 24, s. 50; 2014, c. 20, s. 366(E).
+
 
 
 
