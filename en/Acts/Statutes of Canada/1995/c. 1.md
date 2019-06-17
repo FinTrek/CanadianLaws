@@ -74,7 +74,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(e)** corporations and corporate securities;
 	- **(f)** competition and restraint of trade, including mergers and monopolies;
 	- **(g)** bankruptcy and insolvency;
-	- **(h)** patents, copyrights, trade-marks, industrial designs and integrated circuit topographies;
+	- **(h)** patents, copyrights, trademarks, industrial designs and integrated circuit topographies;
 	- **(i)** standards of identity, packaging and performance in relation to consumer products and services, except in relation to the safety of consumer goods;
 	- **(j)** legal metrology;
 	- **(k)** telecommunications, except in relation to
@@ -88,7 +88,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Additional powers, duties and functions**
 
 - **(2)** The powers, duties and functions of the Minister also extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to regional economic development in Ontario.
-> 1995, c. 1, s. 4; 2005, c. 26, s. 20.
+> 1995, c. 1, s. 4; 2005, c. 26, s. 20; 2014, c. 20, s. 366(E).
 
 
 
