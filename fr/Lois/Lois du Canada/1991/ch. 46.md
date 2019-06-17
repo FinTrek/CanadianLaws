@@ -1382,7 +1382,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 - **e)** qui est réservée, en application de l’article 43, à une autre banque, existante ou projetée, ou à une banque étrangère autorisée, existante ou projetée, ou, en application de l’article 697, à une société de portefeuille bancaire, existante ou projetée;
 - **f)** qui inclut les termes « coopérative de crédit » ou « credit union », ou toute abréviation, combinaison ou dérivé de ceux-ci, sauf si elle sera une coopérative de crédit fédérale et que sa dénomination sociale inclut le terme « banque », « bank », « fédérale » ou « federal » de concert avec ces termes;
 - **g)** qui inclut les termes « coopérative » ou « cooperative », ou toute abréviation, combinaison ou dérivé de ceux-ci, sauf si elle sera une coopérative de crédit fédérale et que sa dénomination sociale inclut le terme « banque », « bank », « fédérale » ou « federal » de concert avec ces termes.
-> 1991, ch. 46, art. 40; 1996, ch. 6, art. 1; 1997, ch. 15, art. 5; 1999, ch. 28, art. 12; 2001, ch. 9, art. 51; 2010, ch. 12, art. 1917.
+> 1991, ch. 46, art. 40; 1996, ch. 6, art. 1; 1997, ch. 15, art. 5; 1999, ch. 28, art. 12; 2001, ch. 9, art. 51; 2010, ch. 12, art. 1917; 2014, ch. 20, art. 366(A).
 
 
 
@@ -14940,7 +14940,7 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 **Dénomination interdite par ailleurs**
 
 - **(2)** L’arrêté prévu au paragraphe 524(1) ou l’ordonnance prévue au paragraphe 528(1.1) peut prévoir l’emploi, dans une dénomination, d’un mot visé à l’article 47 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md).
-> 1991, ch. 46, art. 530; 1999, ch. 28, art. 35; 2001, ch. 9, art. 137; 2007, ch. 6, art. 77.
+> 1991, ch. 46, art. 530; 1999, ch. 28, art. 35; 2001, ch. 9, art. 137; 2007, ch. 6, art. 77; 2014, ch. 20, art. 366(A).
 
 
 
@@ -18349,7 +18349,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 - **c)** qui est identique à la marque de commerce, au nom commercial ou à la dénomination sociale d’une personne morale existant ou qui, selon le surintendant, est à peu près identique à ceux-ci ou leur est similaire au point de prêter à confusion, sauf si, d’une part, la dénomination, la marque ou le nom sont en voie d’être changés ou la personne morale est en cours de dissolution et, d’autre part, le consentement de celle-ci à cet égard est signifié au surintendant selon les modalités qu’il peut exiger;
 - **d)** qui est identique au nom sous lequel une entité exerce son activité ou est connue, ou qui, selon le surintendant, est à peu près identique à celui-ci ou lui est similaire au point de prêter à confusion avec lui;
 - **e)** qui est réservée, en application de l’article 43, à une banque ou à une banque étrangère autorisée, existante ou projetée, ou, en application de l’article 697, à une autre société de portefeuille bancaire, existante ou projetée.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2014, ch. 20, art. 366(A).
 
 
 
