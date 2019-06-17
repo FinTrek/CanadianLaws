@@ -583,7 +583,7 @@ Sont toutefois exclus :
 ***additif alimentaire*** S’entend au sens du paragraphe (1). (*food additive*)
 
 ***produit chimique agricole*** S’entend au sens du paragraphe (1). (*agricultural chemical*)
-> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup> 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; DORS/2014-99, art. 1; DORS/2016-74, art. 1; DORS/2016-305, art. 1; DORS/2018-108, art. 393.
+> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup> 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; 2014, ch. 20, art. 366(A); DORS/2014-99, art. 1; DORS/2016-74, art. 1; DORS/2016-305, art. 1; DORS/2018-108, art. 393.
 
 
 
@@ -8411,8 +8411,14 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 #### Vodka
 
 
-**B.02.080** **[N].** La **vodka** doit être une boisson alcoolique potable obtenue par le traitement de l’esprit de grain ou de pommes de terre avec du charbon de bois, de manière que le produit n’ait ni caractère ni arôme ni goût distinctifs.
-> DORS/93-145, art. 16.
+**B.02.080** 
+
+- **[N]. (1)** La **vodka** doit être un distillat alcoolique potable obtenu à partir de pommes de terre, de grains de céréales ou de toute autre matière d’origine agricole fermentés au moyen de levure ou d’un mélange de levure et d’autres micro-organismes.
+
+- **(2)** Le distillat doit être traité avec du charbon de bois ou d’autres moyens, de manière à ce que la vodka soit exempte de caractère, d’arôme ou de goût distinctifs.
+
+- **(3)** La vodka produite, en tout ou en partie, à partir de matière d’origine agricole autre que des pommes de terre ou des grains de céréales doit porter, à proximité du nom usuel, la mention « produite à partir de » suivie du nom de toute matière d’origine agricole utilisée.
+> DORS/93-145, art. 16; DORS/2019-217, art. 1.
 
 
 
@@ -35760,7 +35766,7 @@ selon que peut l’exiger le ministre;
 	- **(iii)** le numéro d’enregistrement émis selon l’article G.06.002.3;
 - **c)** le nécessaire d’essai est vendu, acquis ou autrement manipulé, à des fins médicales, expérimentales, industrielles, éducatives ou scientifiques; et
 - **d)** le numéro d’enregistrement n’a pas été annulé selon l’article G.06.002.4.
-> DORS/2004-238, art. 30.
+> DORS/2004-238, art. 30; 2014, ch. 20, art. 366(A).
 
 
 
@@ -36575,7 +36581,7 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 	- **(iii)** le numéro d’enregistrement émis selon l’article J.01.033.3;
 - **c)** le nécessaire d’essai est vendu, acquis ou autrement manipulé, à des fins médicales, expérimentales, industrielles, éducatives ou scientifiques; et
 - **d)** le numéro d’enregistrement n’a pas été annulé selon l’article J.01.033.4.
-> DORS/2004-238, art. 41.
+> DORS/2004-238, art. 41; 2014, ch. 20, art. 366(A).
 
 
 
