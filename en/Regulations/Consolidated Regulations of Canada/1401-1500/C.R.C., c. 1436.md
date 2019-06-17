@@ -7152,7 +7152,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 - **(b)** with the call sign of the ship that the rescue boat serves and the number of the rescue boat, in such a way that both are clearly visible from above; and
 - **(c)** with the following information:
 	- **(i)** its dimensions,
-	- **(ii)** the manufacturer’s name, logo or trade-mark,
+	- **(ii)** the manufacturer’s name, logo or trademark,
 	- **(iii)** its serial number,
 	- **(iv)** the month and year of manufacture,
 	- **(v)** the complement, and
@@ -7288,7 +7288,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 
 - **(1)** Every emergency boat shall be marked, in clearly legible permanent characters, with
 	- **(a)** its dimensions;
-	- **(b)** the manufacturer’s name, logo or trade-mark;
+	- **(b)** the manufacturer’s name, logo or trademark;
 	- **(c)** its serial number;
 	- **(d)** the month and year of manufacture;
 	- **(e)** the complement; and
@@ -7395,7 +7395,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 - **(2)** For the purpose of the test referred to in subsection (1), each member of the complement is assumed to have a mass of 75 kg.
 
 
-> SOR/80-685 ss. 65 to 77; SOR/96-218, s. 42; SOR/2001-179, s. 61; SOR/2004-253, ss. 7(F), 8(F), 9(E); SOR/2006-256, s. 15.
+> SOR/80-685 ss. 65 to 77; SOR/96-218, s. 42; SOR/2001-179, s. 61; SOR/2004-253, ss. 7(F), 8(F), 9(E); SOR/2006-256, s. 15; 2014, c. 20, s. 366(E).
 
 
 
@@ -7495,7 +7495,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 **8** 
 
 - **(1)** Every life raft shall be marked with
-	- **(a)** the manufacturer’s name, logo or trade-mark;
+	- **(a)** the manufacturer’s name, logo or trademark;
 	- **(b)** its serial number;
 	- **(c)** the month and year of manufacture;
 	- **(d)** the Board approval number;
@@ -7504,7 +7504,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 	- **(g)** in the case of a rigid life raft, the name and port of registry of the ship it serves.
 
 - **(2)** The container of every life raft shall be marked with
-	- **(a)** the name, logo or trade-mark of the manufacturer of the life raft;
+	- **(a)** the name, logo or trademark of the manufacturer of the life raft;
 	- **(b)** the serial number of the life raft;
 	- **(c)** the month and year of manufacture of the life raft;
 	- **(d)** the Board approval number;
@@ -7816,7 +7816,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 **37** 
 
 - **(1)** Every inflatable rescue platform shall be marked with
-	- **(a)** the manufacturer’s name, logo or trade-mark;
+	- **(a)** the manufacturer’s name, logo or trademark;
 	- **(b)** its serial number;
 	- **(c)** the month and year of manufacture;
 	- **(d)** the Board approval number;
@@ -7824,7 +7824,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 	- **(f)** in English and French, the location of the emergency equipment.
 
 - **(2)** The container of every inflatable rescue platform shall be marked with
-	- **(a)** the name, logo or trade-mark of the manufacturer of the platform;
+	- **(a)** the name, logo or trademark of the manufacturer of the platform;
 	- **(b)** the serial number of the platform;
 	- **(c)** the month and year of manufacture of the platform;
 	- **(d)** the Board approval number;
@@ -7837,7 +7837,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 	- **(k)** the words “INFLATABLE RESCUE PLATFORM” and “PLATE-FORME DE SAUVETAGE GONFLABLE”.
 
 
-> SOR/80-685 s. 78; SOR/96-218, s. 42; SOR/2001-179, s. 62; SOR/2004-253, ss. 10(F), 11(F).
+> SOR/80-685 s. 78; SOR/96-218, s. 42; SOR/2001-179, s. 62; SOR/2004-253, ss. 10(F), 11(F); 2014, c. 20, s. 366(E).
 
 
 
@@ -8388,7 +8388,7 @@ where
 **8** 
 
 - **(1)** Every projectile, cartridge or other means of ignition of a line-throwing appliance shall be marked with
-	- **(a)** the manufacturer’s name, logo or trade-mark;
+	- **(a)** the manufacturer’s name, logo or trademark;
 	- **(b)** the lot number;
 	- **(c)** the month and year of manufacture; and
 	- **(d)** the Board approval number.
@@ -8396,7 +8396,7 @@ where
 - **(2)** A line-throwing appliance that is an integral unit shall be marked with the month and year of manufacture of the projectile and means of ignition.
 
 
-> SOR/79-546, s. 2; SOR/96-218, s. 49; SOR/2001-179, s. 68.
+> SOR/79-546, s. 2; SOR/96-218, s. 49; SOR/2001-179, s. 68; 2014, c. 20, s. 366(E).
 
 
 
