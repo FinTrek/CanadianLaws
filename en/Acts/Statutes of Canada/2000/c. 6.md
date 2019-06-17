@@ -454,10 +454,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** with the approval of the Governor in Council, enter into a partnership, or incorporate by itself or with others a corporation, including a subsidiary of the CIHR, under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) or provincial legislation, or acquire or dispose of shares in any corporation;
 - **(d)** with the approval of the Treasury Board, acquire or lease real property or immovables and, subject to the terms and conditions on which the property or immovables were acquired or leased, hold, lend, administer or dispose of the property or immovables;
 - **(e)** acquire or lease personal property or movables and, subject to the terms and conditions on which the property or movables were acquired or leased, hold, lend, invest, administer or dispose of the property or movables;
-- **(f)** license, assign, sell or otherwise make available any patent, copyright, industrial design, trade-mark, trade secret or other like property right held, controlled or administered by the CIHR;
+- **(f)** license, assign, sell or otherwise make available any patent, copyright, industrial design, trademark, trade secret or other like property right held, controlled or administered by the CIHR;
 - **(g)** publish, sell or otherwise disseminate studies, reports and other documents of the CIHR; and
 - **(h)** do anything else that is necessary or incidental to achieving the objective.
-> 2000, c. 6, s. 26; 2009, c. 23, s. 319.
+> 2000, c. 6, s. 26; 2009, c. 23, s. 319; 2014, c. 20, s. 366(E).
 
 
 
