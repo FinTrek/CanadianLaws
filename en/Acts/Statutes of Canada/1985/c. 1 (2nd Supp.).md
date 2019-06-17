@@ -2130,7 +2130,7 @@ but does not include imported goods where engineering, development work, art wor
 			- **(B)** tools, dies, moulds and other goods utilized in the production of the imported goods,
 			- **(C)** any materials consumed in the production of the imported goods, and
 			- **(D)** engineering, development work, art work, design work, plans and sketches undertaken elsewhere than in Canada and necessary for the production of the imported goods,
-		- **(iv)** royalties and licence fees, including payments for patents, trade-marks and copyrights, in respect of the goods that the purchaser of the goods must pay, directly or indirectly, as a condition of the sale of the goods for export to Canada, exclusive of charges for the right to reproduce the goods in Canada,
+		- **(iv)** royalties and licence fees, including payments for patents, trademarks and copyrights, in respect of the goods that the purchaser of the goods must pay, directly or indirectly, as a condition of the sale of the goods for export to Canada, exclusive of charges for the right to reproduce the goods in Canada,
 		- **(v)** the value of any part of the proceeds of any subsequent resale, disposal or use of the goods by the purchaser thereof that accrues or is to accrue, directly or indirectly, to the vendor, and
 		- **(vi)** the cost of transportation of, the loading, unloading and handling charges and other charges and expenses associated with the transportation of, and the cost of insurance relating to the transportation of, the goods to the place within the country of export from which the goods are shipped directly to Canada;
 	- **(b)** by deducting therefrom amounts, to the extent that each such amount is included in the price paid or payable for the goods, equal to
@@ -2147,7 +2147,7 @@ but does not include imported goods where engineering, development work, art wor
 **Where information inaccurate**
 
 - **(7)** Where an officer who is appraising the value for duty of goods believes on reasonable grounds that the information submitted in support of the transaction value of the goods as determined under subsection (4) is inaccurate, the officer shall determine, in accordance with the prescribed procedure, that the value for duty of the goods shall not be appraised under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 48; 1994, c. 47, s. 71; 1995, c. 41, s. 18; 2002, c. 22, s. 336; 2009, c. 10, s. 7.
+> R.S., 1985, c. 1 (2nd Supp.), s. 48; 1994, c. 47, s. 71; 1995, c. 41, s. 18; 2002, c. 22, s. 336; 2009, c. 10, s. 7; 2014, c. 20, s. 366(E).
 
 
 
@@ -4530,7 +4530,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 	- **(k)** an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of administering or enforcing the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md);
 	- **(l)** a person solely for the purpose of determining any entitlement, liability or obligation of the person under this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) including the person’s entitlement to any refund, relief, drawback or abatement under those Acts;
 	- **(l.1)** any person who may receive information under section 44.03 or subsection 44.04(1) of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), solely for the purposes for which that person is entitled to the information;
-	- **(l.2)** any person who may receive information under section 51.05 or subsection 51.06(1) of the Trade-marks Act, solely for the purposes for which that person is entitled to the information;
+	- **(l.2)** any person who may receive information under section 51.05 or subsection 51.06(1) of the [Trademarks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md), solely for the purposes for which that person is entitled to the information;
 	- **(m)** any person, if the information is required to comply with a subpoena or warrant issued or an order made by a court of record in Canada;
 	- **(n)** any person, if the information is required to comply with a subpoena or warrant issued or an order made by a court of record outside of Canada, solely for the purposes of criminal proceedings; and
 	- **(o)** prescribed persons or classes of persons, in prescribed circumstances for prescribed purposes, solely for those purposes.
@@ -4585,7 +4585,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 32, s. 60; 2015, c. 20, s. 5.
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 5.
 
 
 
