@@ -1138,16 +1138,16 @@ and that is not discontinued under this Act.
 	- **(a)** that is prohibited by an Act of Parliament;
 	- **(b)** that is, in the opinion of the Superintendent, deceptively misdescriptive;
 	- **(c)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing
-		- **(i)** trade-mark or trade name, or
+		- **(i)** trademark or trade name, or
 		- **(ii)** corporate name of a body corporate,
-except where the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
+except where the trademark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trademark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
 	- **(d)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified; or
 	- **(e)** that is reserved under section 45 for another company or society or a proposed company or society or under section 734 for an insurance holding company or a proposed insurance holding company.
 
 **Exception**
 
 - **(2)** Paragraph (1)(a) does not apply with respect to any former-Act company or former-Act society incorporated by or under an Act of Parliament that expressly authorizes the use of any name that would otherwise be prohibited.
-> 1991, c. 47, s. 42; 1996, c. 6, s. 67; 1997, c. 15, s. 177; 2001, c. 9, s. 359.
+> 1991, c. 47, s. 42; 1996, c. 6, s. 67; 1997, c. 15, s. 177; 2001, c. 9, s. 359; 2014, c. 20, s. 366(E).
 
 
 
@@ -13794,9 +13794,9 @@ made before the coming into force of this Part but, if the loan or investment wo
 - **(1)** An order made under subsection 574(1) may not provide for the use of a name that
 	- **(a)** is prohibited by an Act of Parliament;
 	- **(b)** is, in the opinion of the Superintendent, deceptively misdescriptive;
-	- **(c)** is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing trade-mark, trade name or corporate name of a body corporate, except where
-		- **(i)** the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name, and
-		- **(ii)** consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in any manner that the Superintendent may require;
+	- **(c)** is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing trademark, trade name or corporate name of a body corporate, except where
+		- **(i)** the trademark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name, and
+		- **(ii)** consent to the use of the trademark, trade name or corporate name is signified to the Superintendent in any manner that the Superintendent may require;
 	- **(d)** is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified; or
 	- **(e)** is reserved under section 45 for a company or society or proposed company or society.
 
@@ -13807,7 +13807,7 @@ made before the coming into force of this Part but, if the loan or investment wo
 **Representations to Superintendent**
 
 - **(3)** If the Superintendent does not make an order for one of the reasons specified in subsection (1), he or she must, by a notice in writing to that effect, give the foreign entity and any other interested party an opportunity to make representations.
-> 1991, c. 47, s. 575; 1996, c. 6, s. 84; 1997, c. 15, s. 301; 2007, c. 6, s. 260.
+> 1991, c. 47, s. 575; 1996, c. 6, s. 84; 1997, c. 15, s. 301; 2007, c. 6, s. 260; 2014, c. 20, s. 366(E).
 
 
 
@@ -17065,12 +17065,12 @@ where
 - **(a)** that is prohibited by an Act of Parliament;
 - **(b)** that is, in the opinion of the Superintendent, deceptively misdescriptive;
 - **(c)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to any existing
-	- **(i)** trade-mark or trade name, or
+	- **(i)** trademark or trade name, or
 	- **(ii)** corporate name of a body corporate,
-except where the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
+except where the trademark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trademark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
 - **(d)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to the known name under or by which any entity carries on business or is identified; or
 - **(e)** that is reserved under section 45 for a company or society or a proposed company or society or under section 734 for another insurance holding company or a proposed insurance holding company.
-> 1991, c. 47, s. 730; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 730; 2001, c. 9, s. 465; 2014, c. 20, s. 366(E).
 
 
 
