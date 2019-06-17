@@ -324,6 +324,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption : avantage tiré par un annonceur canadien**
 
 **19** Dans les poursuites pour infraction à l’article 3, il suffit, pour établir, en l’absence de preuve contraire, que des services publicitaires sont fournis par un éditeur étranger à un annonceur canadien ou à une personne agissant pour son compte, de prouver la présence dans le contenu publicitaire du nom, d’une raison sociale, d’une adresse, d’une marque de commerce ou de fabrique ou d’un numéro de téléphone censés être ceux de l’annonceur.
+> 1999, ch. 23, art. 19; 2014, ch. 20, art. 366(A).
+
 
 
 
