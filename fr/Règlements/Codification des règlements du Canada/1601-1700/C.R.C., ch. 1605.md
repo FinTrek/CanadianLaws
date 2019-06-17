@@ -413,7 +413,7 @@ Autorités habilitantes :
 - **c)** la capacité de la mesure, exprimée en unités de mesures appropriées;
 - **d)** les mots « Légal pour le commerce » (« *Legal for Trade* »); et
 - **e)** les renseignements qu’il est prescrit d’inscrire sur l’instrument dans l’avis d’approbation.
-> DORS/2005-297, art. 41(F); DORS/2014-111, art. 13.
+> DORS/2005-297, art. 41(F); 2014, ch. 20, art. 366(A); DORS/2014-111, art. 13.
 
 
 
