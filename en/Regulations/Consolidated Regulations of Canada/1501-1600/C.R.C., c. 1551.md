@@ -762,15 +762,15 @@ the textile fibre content of the filling or stuffing shall be shown
 **40** 
 
 - **(1)** Subject to subsections (2) to (4), where a textile fibre is required by these Regulations to be shown by its generic name, the following may be shown with the fibre content disclosure for that textile fibre:
-	- **(a)** a trade mark registered in Canada for that textile fibre or for the yarn or fabric containing that fibre; or
+	- **(a)** a trademark registered in Canada for that textile fibre or for the yarn or fabric containing that fibre; or
 	- **(b)** a descriptive term that is true in respect of that textile fibre or of the yarn or fabric containing that fibre.
 
-- **(2)** Where a trade mark is registered for a textile fibre or for a yarn or fabric containing textile fibres of the same generic name, the trade mark must be shown immediately preceding or immediately following the generic name of the textile fibre or fibres.
+- **(2)** Where a trademark is registered for a textile fibre or for a yarn or fabric containing textile fibres of the same generic name, the trademark must be shown immediately preceding or immediately following the generic name of the textile fibre or fibres.
 
-- **(3)** Where a trade mark registered for a biconstituent, multiconstituent or grafted textile fibre, or a yarn or fabric, is associated with more than one generic name, the trade mark must be shown immediately preceding or immediately following the textile fibre content disclosure.
+- **(3)** Where a trademark registered for a biconstituent, multiconstituent or grafted textile fibre, or a yarn or fabric, is associated with more than one generic name, the trademark must be shown immediately preceding or immediately following the textile fibre content disclosure.
 
-- **(4)** The type in which a trade mark or descriptive term is shown shall not be larger or more prominent than the type in which the generic name of a textile fibre is shown.
-> SOR/87-247, s. 17; SOR/94-247, s. 14.
+- **(4)** The type in which a trademark or descriptive term is shown shall not be larger or more prominent than the type in which the generic name of a textile fibre is shown.
+> SOR/87-247, s. 17; SOR/94-247, s. 14; 2014, c. 20, s. 366(E).
 
 
 
