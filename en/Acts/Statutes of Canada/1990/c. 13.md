@@ -97,7 +97,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** make grants and contributions in support of programs or projects relating to scientific or industrial space research and development and the application of space technology, including projects designed to develop, test, evaluate or apply new or improved processes, products, systems or information relating to space science and technology with a view to determining the commercial potential of that science and technology, but not including any programs or projects relating solely to the commercial exploitation of space science or technology;
 	- **(d)** cooperate with the space and space-related agencies of other countries in the peaceful use and development of space;
 	- **(e)** provide services and facilities to any person;
-	- **(f)** license, sell or otherwise make available any patent, copyright, industrial design, trade-mark, trade secret or other like property right controlled or administered by the Minister;
+	- **(f)** license, sell or otherwise make available any patent, copyright, industrial design, trademark, trade secret or other like property right controlled or administered by the Minister;
 	- **(g)** enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the name of the Agency;
 	- **(h)** acquire any money, securities or other personal or movable property by gift or bequest and expend, administer or dispose of any such money, securities or property subject to the terms, if any, on which the gift or bequest was made;
 	- **(i)** administer any loans or guarantees made by the Minister pursuant to section 9; and
@@ -106,7 +106,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Government facilities**
 
 - **(4)** In exercising its powers and performing its duties and functions under this Act, the Agency shall, where appropriate, make use of the services and facilities of departments, boards and agencies of the Government of Canada.
-> 1990, c. 13, s. 5; 2001, c. 4, s. 70.
+> 1990, c. 13, s. 5; 2001, c. 4, s. 70; 2014, c. 20, s. 366(E).
 
 
 
@@ -152,7 +152,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** With the approval of the Governor in Council and subject to such terms and conditions as the Governor in Council may specify, the Minister may, by order, prescribe the fee or charge, or the manner of determining the fee or charge, to be paid by a person or a person of a class of persons
 	- **(a)** to whom the Agency provides any services or facilities; or
-	- **(b)** who is licensed by the Agency to use, or to whom the Agency otherwise makes available, any patent, copyright, industrial design, trade-mark, trade secret or other like property right.
+	- **(b)** who is licensed by the Agency to use, or to whom the Agency otherwise makes available, any patent, copyright, industrial design, trademark, trade secret or other like property right.
 
 **Interest**
 
@@ -177,7 +177,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Not statutory instrument**
 
 - **(7)** An order made under this section that applies to or in respect of only one person or body shall be deemed not to be a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1990, c. 13, s. 10; 2001, c. 4, s. 71(F).
+> 1990, c. 13, s. 10; 2001, c. 4, s. 71(F); 2014, c. 20, s. 366(E).
 
 
 
