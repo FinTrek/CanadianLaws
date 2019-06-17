@@ -1492,6 +1492,8 @@ où :
 **Distinction entre les cigarettes**
 
 - **(3)** Pour l’application du paragraphe (2), une cigarette d’un type donné ou d’une composition donnée vendue sous une appellation commerciale peut être considérée comme différente d’une autre cigarette vendue sous la même appellation s’il est raisonnable de la considérer ainsi compte tenu des propriétés physiques de l’une et l’autre avant et pendant la consommation.
+> 2002, ch. 22, art. 58; 2014, ch. 20, art. 366(A).
+
 
 
 
