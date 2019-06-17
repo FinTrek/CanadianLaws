@@ -766,7 +766,7 @@ la teneur en fibres textiles du remplissage ou bourrage doit être indiquée
 - **(3)** Si la marque de commerce déposée à l’égard d’une fibre textile bicomposante, multicomposante ou greffée, d’un fil textile ou d’un tissu s’associe à plus d’un nom générique, elle est indiquée immédiatement avant ou après l’indication de la teneur en fibres textiles.
 
 - **(4)** Les caractères utilisés pour indiquer la marque de commerce ou la mention descriptive ne doivent être ni plus grands ni plus en évidence que ceux utilisés pour indiquer le nom générique de la fibre textile.
-> DORS/87-247, art. 17; DORS/94-247, art. 14.
+> DORS/87-247, art. 17; DORS/94-247, art. 14; 2014, ch. 20, art. 366(A).
 
 
 
