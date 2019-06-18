@@ -2155,6 +2155,12 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 
 
+**358.2** [Amendment]
+> 2014, c. 20, s. 367.
+
+
+
+
 **359** [Amendment]
 
 
@@ -2224,7 +2230,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 - <sup><a href='#fn_Ind9B8C_hq_15035'>[*]</a></sup>**(2)** Sections 358.1 and 358.2 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind9B8C_hq_15035'><sup>*</sup></a>: [Note: Section 358.1 in force October 5, 2018, *see* SI/2018-94.]<br />
+<a name='fn_Ind9B8C_hq_15035'><sup>*</sup></a>: [Note: Section 358.1 in force October 5, 2018, *see* SI/2018-94; section 358.2 in force June 18, 2019, *see* SI/2018-100.]<br />
 > 2014, c. 20, ss. 367, 368.
 
 
