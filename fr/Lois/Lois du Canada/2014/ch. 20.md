@@ -2155,6 +2155,12 @@ où :
 
 
 
+**358.2** [Modification]
+> 2014, ch. 20, art. 367.
+
+
+
+
 **359** [Modification]
 
 
@@ -2224,7 +2230,7 @@ où :
 
 - <sup><a href='#nbp_IndE222_hq_14511'>[*]</a></sup>**(2)** Les articles 358.1 et 358.2 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_IndE222_hq_14511'><sup>*</sup></a>: [Note : Article 358.1 en vigueur le 5 octobre 2018, *voir* TR/2018-94.]<br />
+<a name='nbp_IndE222_hq_14511'><sup>*</sup></a>: [Note : Article 358.1 en vigueur le 5 octobre 2018, *voir* TR/2018-94; article 358.2 en vigueur le 18 juin 2019, *voir* TR/2018-100.]<br />
 > 2014, ch. 20, art. 367 et 368.
 
 
