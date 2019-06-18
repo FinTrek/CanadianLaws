@@ -1261,28 +1261,13 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 
 - **(4)** The Minister may issue, amend, renew, suspend or cancel — or approve the assignment of — licences for the use of waters in the expansion area for the purposes of the mining access roads referred to in subsection (2) and, in relation to those licences, subsections 31(3) and 72.03(1), (5) and (6), sections 72.04, 72.1, 72.11, 72.12 and 72.14, subsections 85(1) and (2) and sections 85.1 to 85.3, 86.1 to 87, 89 and 93.2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md) and the regulations made under that Act apply, with any adaptations that may be necessary, as if the references in those provisions to the federal Minister or a board were references to the Minister responsible for the Parks Canada Agency and the references in those provisions to an inspector were references to the superintendent of the Park Reserve, a park warden or an enforcement officer designated for the purposes of this subsection.
 
-**Outfitter licences**
+- **(5)** [Repealed, 2009, c. 17, s. 7]
 
-- **(5)** Outfitter licences issued under the Wildlife Act, R.S.N.W.T. 1988, c. W-4 that are in effect on the coming into force of this section in respect of public lands located in the expansion area, continue in effect according to their terms and may be renewed for periods ending not later than 10 years after the day on which this section comes into force, but no new outfitter licences may be issued in respect of those lands.
+- **(6)** [Repealed, 2009, c. 17, s. 7]
 
-**Definition of guide**
+- **(7)** [Repealed, 2009, c. 17, s. 7]
 
-- **(6)** In subsections (7) and (8), ***guide*** means a person who holds a guide licence issued in accordance with the Wildlife Act, R.S.N.W.T. 1988, c. W-4 and who is, or is employed by, the holder of an outfitter licence referred to in subsection (5).
-
-**Permitted hunting**
-
-- **(7)** A guide or a person accompanied by a guide may hunt, within the meaning of section 26, and may possess, within the meaning of section 26, or transport any wild animal or any part of one in the expansion area, in accordance with the Wildlife Act, R.S.N.W.T. 1988, c. W-4 and the applicable outfitter licence.
-
-**Regulations**
-
-- **(8)** The Governor in Council may make regulations respecting the activities of guides, persons accompanied by guides and holders of outfitter licences in the expansion area, including regulations
-	- **(a)** respecting the hunting of wild animals, including with the use of firearms;
-	- **(b)** authorizing the removal and disposal of any equipment or wild animals left by any person in contravention of the regulations or the Wildlife Act, R.S.N.W.T. 1988, c. W-4, and providing for the recovery of expenses incurred in their removal or disposal; and
-	- **(c)** authorizing the superintendent
-		- **(i)** to close areas to hunting for the purposes of management of the Park Reserve, public safety or the conservation of natural resources,
-		- **(ii)** to establish limits on the wild animals that may be harvested in any period, or to vary any such limits established by the regulations or under the Wildlife Act, R.S.N.W.T. 1988, c. W-4, for purposes of conservation,
-		- **(iii)** to prohibit or restrict the use of equipment in the expansion area for the purpose of protecting natural resources, and
-		- **(iv)** to suspend or revoke an outfitter licence or a guide licence, to the extent that it applies in the expansion area, for failure to comply with this Act or the regulations, the Wildlife Act, R.S.N.W.T. 1988, c. W-4 or the regulations under that Act, or the terms and conditions of the licence.
+- **(8)** [Repealed, 2009, c. 17, s. 7]
 
 **Creation of park**
 
