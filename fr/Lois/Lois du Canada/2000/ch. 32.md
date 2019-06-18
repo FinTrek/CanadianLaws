@@ -1251,28 +1251,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Le ministre peut délivrer, modifier, renouveler, suspendre ou annuler tout permis pour l’utilisation des eaux situées dans l’aire d’agrandissement pour les besoins prévus au paragraphe (2) — ou peut en autoriser la cession. À cette fin, les paragraphes 31(3) et 72.03(1), (5) et (6), les articles 72.04, 72.1, 72.11, 72.12 et 72.14, les paragraphes 85(1) et (2) et les articles 85.1 à 85.3, 86.1 à 87, 89 et 93.2 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) et ses règlements s’appliquent avec les adaptations nécessaires, la mention, dans ces dispositions, du ministre fédéral ou d’un office valant mention du ministre responsable de l’Agence Parcs Canada et celle de l’inspecteur valant mention du directeur, des gardes de parc ou des agents de l’autorité désignés pour l’application du présent paragraphe.
 
-**Permis de pourvoirie**
+- **(5)** [Abrogé, 2009, ch. 17, art. 7]
 
-- **(5)** Tout permis de pourvoirie délivré sous le régime de la Loi sur la faune, L.R.T.N.-O. 1988, ch. W-4, et en cours de validité à l’égard des terres domaniales situées dans l’aire d’agrandissement à l’entrée en vigueur du présent article reste valide dans les limites des modalités qui y sont prévues et peut être renouvelé pour une ou des périodes se terminant au plus tard dix ans après la date d’entrée en vigueur du présent article. Toutefois, aucun nouveau permis ne peut être délivré à l’égard de ces terres.
+- **(6)** [Abrogé, 2009, ch. 17, art. 7]
 
-**Définition de guide**
+- **(7)** [Abrogé, 2009, ch. 17, art. 7]
 
-- **(6)** Pour l’application des paragraphes (7) et (8), ***guide*** s’entend de toute personne qui est titulaire d’un permis de guide délivré conformément à la Loi sur la faune, L.R.T.N.-O. 1988, ch. W-4, et qui est soit titulaire d’un permis de pourvoirie visé au paragraphe (5), soit employée par le titulaire de celui-ci.
-
-**Autorisation de chasser**
-
-- **(7)** Tout guide ou toute personne accompagnée par celui-ci peut, dans l’aire d’agrandissement, chasser — au sens de l’article 26 — un animal sauvage, ou avoir en sa possession — au sens de cet article — ou transporter un animal sauvage ou toute partie de celui-ci, conformément à la Loi sur la faune, L.R.T.N.-O. 1988, ch. W-4, et au permis de pourvoirie applicable.
-
-**Règlements**
-
-- **(8)** Le gouverneur en conseil peut prendre des règlements concernant les activités, dans l’aire d’agrandissement, des titulaires de permis de pourvoirie, des guides et des personnes accompagnées par ces derniers, notamment :
-	- **a)** pour régir la chasse des animaux sauvages, y compris l’utilisation des armes à feu;
-	- **b)** pour autoriser l’enlèvement et le mode de disposition de l’équipement ou des animaux sauvages laissés en contravention des règlements ou de la Loi sur la faune, L.R.T.N.-O. 1988, ch. W-4, et le recouvrement des dépenses en découlant;
-	- **c)** pour autoriser le directeur :
-		- **(i)** à interdire la chasse dans toute zone de l’aire d’agrandissement à des fins de gestion de la réserve, de sécurité publique ou de préservation des ressources naturelles,
-		- **(ii)** à contingenter la chasse des animaux sauvages pendant une période donnée et à modifier les contingents réglementaires ou établis sous le régime de la Loi sur la faune, L.R.T.N.-O. 1988, ch. W-4, à des fins de préservation des ressources,
-		- **(iii)** à restreindre ou à interdire l’utilisation d’équipement dans l’aire d’agrandissement pour protéger les ressources naturelles,
-		- **(iv)** à suspendre ou à révoquer tout permis de guide ou de pourvoirie dans la mesure de son application à l’aire d’agrandissement, s’il estime que son titulaire a enfreint la présente loi ou ses règlements, la Loi sur la faune, L.R.T.N.-O. 1988, ch. W-4, ou ses règlements, ou les conditions du permis.
+- **(8)** [Abrogé, 2009, ch. 17, art. 7]
 
 **Création d’un parc**
 
