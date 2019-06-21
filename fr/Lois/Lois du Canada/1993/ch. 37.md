@@ -65,12 +65,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***procureur général*** Le procureur général du Canada ou son délégué. (*Attorney General*)
 
-***produit de l’aliénation*** Le produit de la vente des biens confisqués ainsi que toute somme d’argent confisquée. (*proceeds of disposition*)
+***produit de la disposition*** Le produit de la vente des biens confisqués ainsi que toute somme d’argent confisquée. (*proceeds of disposition*)
 
 ***produits de la criminalité*** S’entend au sens du paragraphe 462.3(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*proceeds of crime*)
 
-***Sa Majesté*** Dans le contexte de biens confisqués, Sa Majesté du chef du Canada. (*Her Majesty*)
-> 1993, ch. 37, art. 2; 1996, ch. 16, art. 60, ch. 19, art. 85; 1997, ch. 23, art. 22; 2001, ch. 32, art. 73, ch. 41, art. 105 et 135; 2018, ch. 16, art. 173.
+***Sa Majesté*** Sa Majesté du chef du Canada. (*Her Majesty*)
+> 1993, ch. 37, art. 2; 1996, ch. 16, art. 60, ch. 19, art. 85; 1997, ch. 23, art. 22; 2001, ch. 32, art. 73, ch. 41, art. 105 et 135; 2018, ch. 16, art. 173; 2019, ch. 29, art. 113.
 
 
 
@@ -84,15 +84,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** La présente loi a pour objet :
 - **a)** d’autoriser le ministre à fournir aux différents organismes chargés de l’application de la loi des services consultatifs et autres concernant la saisie ou le blocage de biens relativement à des infractions désignées, ou de biens qui sont ou pourraient être des biens infractionnels ou des produits de la criminalité;
+- **a.1)** d’autoriser le ministre à fournir à tout fonctionnaire de l’administration publique fédérale et à tout employé d’une autorité provinciale ou municipale des services consultatifs et autres concernant la saisie, le blocage, la garde, l’administration, la confiscation ou la disposition de biens qui servent ou donnent lieu à la perpétration d’une infraction ou d’une violation ou qui sont utilisés de quelque manière dans la perpétration d’une telle infraction ou violation, ou encore qui sont destinés à servir à une telle fin;
 - **b)** d’attribuer au ministre l’administration de biens :
-	- **(i)** saisis relativement à des infractions désignées,
-	- **(ii)** saisis en vertu d’un mandat délivré sous le régime des articles 83.13 ou 462.32 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
-	- **(iii)** bloqués en vertu d’une ordonnance rendue sous le régime des articles 83.13, 462.33 ou 490.8 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de l’article 14 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou de l’article 91 de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md),
-	- **(iv)** confisqués, saisis ou payés respectivement aux termes des paragraphes 14(5) ou 18(1) ou (2) de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md),
-	- **(v)** remis au titre du sous-alinéa 715.34(1)e)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **c)** de permettre au ministre, après confiscation au profit de Sa Majesté, d’administrer et d’aliéner les biens visés à l’alinéa b), les biens infractionnels et les produits de la criminalité;
-- **d)** de prévoir le partage, dans certains cas, du produit de l’aliénation des biens visés à l’alinéa c) ou des amendes perçues en application du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) avec les autorités dont les organismes chargés de l’application de la loi ont participé à l’enquête qui a mené à la confiscation des biens ou à la condamnation aux amendes.
-> 1993, ch. 37, art. 3; 1996, ch. 19, art. 86; 2000, ch. 17, art. 92; 2001, ch. 32, art. 74, ch. 41, art. 83, 106 et 135; 2018, ch. 12, art. 407, ch. 16, art. 174.
+	- **(i)** soit qui ont fait l’objet d’une saisie ou d’un blocage en vertu d’une loi fédérale ou provinciale par un fonctionnaire de l’administration publique fédérale ou tout employé d’une autorité provinciale ou municipale;
+	- **(ii)** soit qui ont été confisqués en vertu d’une loi fédérale ou provinciale;
+	- **(iii)** soit qui ont été payés aux termes du paragraphe 18(2) de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
+- **c)** de permettre au ministre, en cas de confiscation au profit de Sa Majesté ou, avec l’approbation du gouvernement de la province, en cas de confiscation au profit de Sa Majesté du chef d’une province, de disposer des biens visés à l’alinéa b);
+- **d)** de prévoir le partage, dans certains cas, du produit de la disposition des biens visés à l’alinéa c) ou des amendes perçues en application du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) avec les autorités dont les organismes chargés de l’application de la loi ont participé à l’enquête qui a mené à la confiscation des biens ou à la condamnation aux amendes;
+- **e)** de prévoir le partage du produit de la disposition des biens visés à l’alinéa c) qui ont été confisqués au profit de Sa Majesté du chef d’une province et dont le ministre a disposé, avec l’approbation du gouvernement de la province, conformément aux instructions fournies par ce gouvernement.
+> 1993, ch. 37, art. 3; 1996, ch. 19, art. 86; 2000, ch. 17, art. 92; 2001, ch. 32, art. 74, ch. 41, art. 83, 106 et 135; 2018, ch. 12, art. 407, ch. 16, art. 174; 2019, ch. 29, art. 114; 2019, ch. 29, art. 120(F).
 
 
 
@@ -109,22 +109,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Lorsqu’il en prend possession ou qu’il en prend la charge, le ministre devient responsable de la garde et de l’administration des biens suivants :
 	- **a)** les biens saisis en vertu d’un mandat délivré à la demande du procureur général sous le régime des articles 83.13, 462.32 ou 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de l’article 11 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou de l’article 87 de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) et confiés à l’administration du ministre en application, respectivement, des paragraphes 83.13(3), 462.331(2) ou 490.81(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 15.1(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou du paragraphe 93(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
 	- **b)** les biens bloqués en vertu d’une ordonnance rendue à la demande du procureur général sous le régime des articles 83.13, 462.33 ou 490.8 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de l’article 14 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou de l’article 91 de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) et confiés à l’administration du ministre en application, respectivement, des paragraphes 83.13(3), 462.331(2) ou 490.81(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 15.1(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou du paragraphe 93(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
+	- **b.01)** les biens qui ont fait l’objet d’une saisie ou d’un blocage en vertu d’une loi fédérale ou provinciale, si le ministre accepte d’être responsable de leur garde et de leur administration;
 	- **b.1)** les biens confisqués, saisis ou payés respectivement aux termes des paragraphes 14(5) ou 18(1) ou (2) de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
-	- **b.2)** les biens remis au titre du sous-alinéa 715.34(1)e)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+	- **b.2)** les biens qui ont été confisqués au titre du sous-alinéa 715.34(1)e)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+	- **b.3)** si le ministre accepte d’être responsable de leur garde et de leur administration, les biens soit confisqués en vertu d’une loi fédérale, à l’exception de ceux confisqués au titre du paragraphe 14(5) de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) ou du sous-alinéa 715.34(1)e)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), soit confisqués en vertu d’une loi provinciale;
 	- **c)** les biens visés par une ordonnance de prise en charge.
 
 **Maintien de la responsabilité**
 
-- **(2)** Le ministre demeure responsable, après leur confiscation au profit de Sa Majesté et jusqu’à leur aliénation, de la garde et de l’administration des biens visés au paragraphe (1) qui sont en sa possession ou dont il a la charge.
+- **(2)** Le ministre demeure responsable, après leur confiscation au profit de Sa Majesté et jusqu’à leur disposition, de la garde et de l’administration des biens visés au paragraphe (1) qui sont en sa possession ou dont il a la charge.
 
 **Responsabilité supplémentaire**
 
-- **(3)** Outre la garde et l’administration des biens visés aux paragraphes (1) et (2), le ministre est responsable, jusqu’à leur aliénation, de celles de l’ensemble des biens confisqués au profit de Sa Majesté, à la suite de toute procédure engagée par le procureur général, qui sont des biens infractionnels, des produits de la criminalité ou des biens confisqués en vertu de l’article 83.14 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et dont, préalablement à leur confiscation, il n’avait pas la possession ou la charge.
+- **(3)** Outre la garde et l’administration des biens visés aux paragraphes (1) et (2), le ministre est responsable, jusqu’à leur disposition, de celles de l’ensemble des biens confisqués au profit de Sa Majesté, à la suite de toute procédure engagée par le procureur général, qui sont des biens infractionnels, des produits de la criminalité ou des biens confisqués en vertu de l’article 83.14 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et dont, préalablement à leur confiscation, il n’avait pas la possession ou la charge.
 
 **Application d’autres lois**
 
 - **(4)** Le présent article n’a pas pour effet de porter atteinte aux dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) ou de toute autre loi fédérale concernant les biens dont le ministre a la possession ou la charge.
-> 1993, ch. 37, art. 4; 1996, ch. 19, art. 87; 1997, ch. 18, art. 135(F); 2000, ch. 17, art. 93; 2001, ch. 32, art. 75, ch. 41, art. 84, 107 et 135; 2017, ch. 7, art. 70; 2018, ch. 12, art. 408, ch. 16, art. 175 et 191.
+> 1993, ch. 37, art. 4; 1996, ch. 19, art. 87; 1997, ch. 18, art. 135(F); 2000, ch. 17, art. 93; 2001, ch. 32, art. 75, ch. 41, art. 84, 107 et 135; 2017, ch. 7, art. 70; 2018, ch. 12, art. 408, ch. 16, art. 175 et 191; 2019, ch. 29, art. 115.
 
 
 
@@ -238,20 +240,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** Le ministre peut, pour l’application de la présente loi :
 - **a)** fournir aux organismes chargés de l’application de la loi des services consultatifs et autres concernant la saisie ou le blocage de biens relativement à des infractions désignées, ou de biens qui sont ou pourraient être des biens infractionnels ou des produits de la criminalité;
+- **a.1)** fournir à tout fonctionnaire de l’administration publique fédérale et à tout employé d’une autorité provinciale ou municipale des services consultatifs et autres concernant la saisie, le blocage, la garde, l’administration, la confiscation ou la disposition de biens qui servent ou donnent lieu à la perpétration d’une infraction ou d’une violation ou qui sont utilisés de quelque manière dans la perpétration d’une telle infraction ou violation, ou encore qui sont destinés à servir à une telle fin;
 - **b)** sous réserve du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) et de toute autre loi fédérale, administrer les biens visés aux paragraphes 4(1) à (3) de la manière qu’il estime indiquée et, notamment, consentir des avances aux taux d’intérêts du marché afin de maintenir l’usage auquel les biens sont destinés, leur conformité aux normes en matière environnementale, industrielle, immobilière ou de relation de travail, ou afin de faire les améliorations requises pour la conservation des biens et de leur valeur économique;
-- **c)** par dérogation aux dispositions de toute autre loi fédérale mais sous réserve de celles de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) concernant les fonds publics et des règlements d’application de la présente loi, aliéner les biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté;
-- **d)** par dérogation au paragraphe 734.4(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et aux articles 125 et 126 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), partager, conformément à la présente loi et à ses règlements ainsi qu’aux accords conclus sous le régime de l’article 11, le produit de l’aliénation des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté;
+- **c)** par dérogation aux dispositions de toute autre loi fédérale mais sous réserve de celles de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) concernant les fonds publics et des règlements d’application de la présente loi, disposer des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté;
+- **c.1)** si les biens sont confisqués au profit de Sa Majesté du chef d’une province, en disposer pour le compte de Sa Majesté du chef de la province, avec l’approbation du gouvernement de cette province, et partager le produit de la disposition des biens conformément aux instructions fournies par ce gouvernement;
+- **d)** par dérogation au paragraphe 734.4(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et aux articles 125 et 126 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), partager, conformément à la présente loi et à ses règlements ainsi qu’aux accords conclus sous le régime de l’article 11, le produit de la disposition des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté;
 - **e)** par dérogation au paragraphe 734.4(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et aux articles 125 et 126 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), partager, conformément à la présente loi et à ses règlements ainsi qu’aux accords conclus sous le régime de l’article 11, tout ou partie d’amendes perçues sous le régime du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à la suite de procédures engagées sur l’instance du gouvernement fédéral ou de pénalités payées en vertu du paragraphe 18(2) de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
 - **f)** à la demande du procureur général, recevoir d’un gouvernement étranger les fonds à transférer au Canada à la suite d’accords conclus sous le régime de l’article 11 et les partager conformément aux règlements;
 - **g)** passer des marchés de services;
 - **h)** accomplir tout autre acte que le gouverneur en conseil estime indiqué pour l’application de la présente loi.
-> 1993, ch. 37, art. 9; 1995, ch. 22, art. 18; 1996, ch. 19, art. 89; 2000, ch. 17, art. 94; 2001, ch. 32, art. 78, ch. 41, art. 85 et 109; 2018, ch. 16, art. 178.
+> 1993, ch. 37, art. 9; 1995, ch. 22, art. 18; 1996, ch. 19, art. 89; 2000, ch. 17, art. 94; 2001, ch. 32, art. 78, ch. 41, art. 85 et 109; 2018, ch. 16, art. 178; 2019, ch. 29, art. 116; 2019, ch. 29, art. 120(F).
 
 
 
 
 
-## Partage du produit de l’aliénation
+## Partage du produit de la disposition
 
 
 
@@ -259,15 +263,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** Le ministre doit, conformément aux règlements, partager le produit de l’aliénation de biens confisqués ou, selon le cas, tout montant perçu à titre d’amende lorsqu’un organisme chargé de l’application de la loi au Canada a participé, concernant une infraction, à une enquête dont le résultat est :
+- **(1)** Le ministre doit, conformément aux règlements, partager le produit de la disposition de biens confisqués ou, selon le cas, tout montant perçu à titre d’amende lorsqu’un organisme chargé de l’application de la loi au Canada a participé, concernant une infraction, à une enquête dont le résultat est :
 	- **a)** la confiscation de biens au profit de Sa Majesté en vertu de l’article 83.14, des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou des paragraphes 94(1) ou 95(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
 	- **b)** la confiscation au profit de Sa Majesté, en vertu du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de biens qui sont ou qui ont été visés par une ordonnance de prise en charge;
 	- **c)** la condamnation à une amende en vertu du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à la suite de procédures engagées sur l’instance du gouvernement fédéral.
 
 **[Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md)**
 
-- **(2)** Si la participation d’un organisme chargé de l’application de la loi au Canada a contribué à la confiscation de biens au profit de Sa Majesté en vertu de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) ou au paiement d’une pénalité aux termes du paragraphe 18(2) de cette loi, le ministre partage avec cet organisme, en conformité avec les règlements, le produit de l’aliénation des biens confisqués ou la pénalité, selon le cas.
-> 1993, ch. 37, art. 10; 1996, ch. 19, art. 90; 1997, ch. 23, art. 23; 2000, ch. 17, art. 95; 2001, ch. 41, art. 86 et 110; 2005, ch. 44, art. 14; 2018, ch. 16, art. 179.
+- **(2)** Si la participation d’un organisme chargé de l’application de la loi au Canada a contribué à la confiscation de biens au profit de Sa Majesté en vertu de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) ou au paiement d’une pénalité aux termes du paragraphe 18(2) de cette loi, le ministre partage avec cet organisme, en conformité avec les règlements, le produit de la disposition des biens confisqués ou la pénalité, selon le cas.
+> 1993, ch. 37, art. 10; 1996, ch. 19, art. 90; 1997, ch. 23, art. 23; 2000, ch. 17, art. 95; 2001, ch. 41, art. 86 et 110; 2005, ch. 44, art. 14; 2018, ch. 16, art. 179; 2019, ch. 29, art. 120(F).
 
 
 
@@ -276,9 +280,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Partage à l'étranger**
 
 **11** Le procureur général peut, avec l'agrément du gouverneur en conseil et conformément aux règlements, conclure avec des gouvernements étrangers des accords de partage mutuel dans les cas où des organismes canadiens ou étrangers, selon le cas, chargés de l'application de la loi ont participé à des enquêtes dont le résultat est la confiscation de biens ou la condamnation à une amende ou ont participé à ce qui a mené à la confiscation de biens ou au paiement d'une pénalité aux termes de la  [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md). Le partage porte alors sur :
-- **a)** le produit de l’aliénation des biens confisqués au profit de Sa Majesté en vertu de l’article 83.14, des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou des paragraphes 94(1) ou 95(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) et de ceux qui sont ou ont été visés par une ordonnance de prise en charge et qui ont été confisqués au profit de Sa Majesté en vertu du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ainsi que sur le produit des biens qui ont été aliénés par les gouvernements étrangers;
+- **a)** le produit de la disposition des biens confisqués au profit de Sa Majesté en vertu de l’article 83.14, des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou des paragraphes 94(1) ou 95(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) et de ceux qui sont ou ont été visés par une ordonnance de prise en charge et qui ont été confisqués au profit de Sa Majesté en vertu du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ainsi que sur le produit des biens dont les gouvernements étrangers ont disposé;
 - **b) ** les amendes perçues en application du paragraphe 462.37(3) du  [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à la suite des procédures engagées sur l'instance du gouvernement fédéral et celles perçues par les gouvernements étrangers pour tenir lieu de la confiscation ainsi que les pénalités payées aux termes du paragraphe 18(2) de la  [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md).
-> 1993, ch. 37, art. 11; 1996, ch. 19, art. 91; 1997, ch. 23, art. 24; 2000, ch. 17, art. 96; 2001, ch. 32, art. 79, ch. 41, art. 111, 120 et 137; 2005, ch. 44, art. 15; 2018, ch. 16, art. 180.
+> 1993, ch. 37, art. 11; 1996, ch. 19, art. 91; 1997, ch. 23, art. 24; 2000, ch. 17, art. 96; 2001, ch. 32, art. 79, ch. 41, art. 111, 120 et 137; 2005, ch. 44, art. 15; 2018, ch. 16, art. 180; 2019, ch. 29, art. 117(F).
 
 
 
@@ -321,12 +325,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **13** 
 
-- **(1)** Est ouvert parmi les comptes du Canada un compte intitulé « compte du produit de l’aliénation des biens saisis ».
+- **(1)** Est ouvert parmi les comptes du Canada un compte intitulé « compte du produit de la disposition des biens saisis ».
 
 **Crédit**
 
 - **(2)** Sont versés au Trésor et portés au crédit du compte :
-	- **a)** le produit net, calculé de la manière réglementaire, de l’aliénation des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté et aliénés par le ministre;
+	- **a)** le produit net, calculé de la manière réglementaire, de la disposition des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté et dont le ministre a disposé;
 	- **b)** les amendes perçues en application du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à la suite de procédures engagées sur l’instance du gouvernement fédéral;
 	- **c)** sous réserve des règlements, les sommes reçues de gouvernements étrangers conformément aux accords visés à l’article 11.
 
@@ -336,14 +340,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** les sommes recouvrées par le ministre — et approuvées par le Conseil du Trésor — pour les dépenses de fonctionnement qu’il a faites pour l’application de la présente loi, à l’exclusion de celles portées au débit du fonds de roulement en application de l’alinéa 12(2)a);
 	- **b)** les sommes payées à la suite d’engagements pris par le procureur général en application des paragraphes 462.32(6) et 462.33(7) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **c)** les sommes payées en application des articles 10 et 11.
+> 1993, ch. 37, art. 13; 2019, ch. 29, art. 118(F); 2019, ch. 29, art. 120(F).
+
 
 
 
 
 **Déficit**
 
-**14** Sont portées au débit du compte des biens saisis et portées au crédit du fonds de roulement les sommes nécessaires pour couvrir le déficit qui pourrait résulter de la différence entre le produit de l’aliénation des biens confisqués au profit de Sa Majesté — en application des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), des paragraphes 16(1) ou 17(2) de la Loi réglementant certaines drogues et autres sub­stances ou des paragraphes 94(1) ou 95(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) — et les dépenses relatives aux biens, intérêts compris, portées au débit du fonds de roulement en application du paragraphe 12(2).
-> 1993, ch. 37, art. 14; 1996, ch. 19, art. 92; 1997, ch. 23, art. 25; 2005, ch. 44, art. 16; 2018, ch. 16, art. 181.
+**14** Sont portées au débit du compte des biens saisis et portées au crédit du fonds de roulement les sommes nécessaires pour couvrir le déficit qui pourrait résulter de la différence entre le produit de la disposition des biens confisqués au profit de Sa Majesté — en application des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), des paragraphes 16(1) ou 17(2) de la Loi réglementant certaines drogues et autres sub­stances ou des paragraphes 94(1) ou 95(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) — et les dépenses relatives aux biens, intérêts compris, portées au débit du fonds de roulement en application du paragraphe 12(2).
+> 1993, ch. 37, art. 14; 1996, ch. 19, art. 92; 1997, ch. 23, art. 25; 2005, ch. 44, art. 16; 2018, ch. 16, art. 181; 2019, ch. 29, art. 120(F).
 
 
 
@@ -403,13 +409,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 **19** Le gouverneur en conseil peut, par règlement :
-- **a)** régir l’aliénation, de même que la disposition, par le ministre, des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté;
-- **b)** pour l’application des articles 10 et 11, régir le partage — et notamment les modalités de temps ou autres de celui-ci — du produit de l’aliénation des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté et des amendes perçues en application du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à la suite de procédures engagées sur l’instance du gouvernement fédéral;
-- **c)** pour l’application de l’alinéa 13(2)a), préciser les sommes, et la manière de les calculer, à soustraire du produit de l’aliénation des biens pour établir le produit net de cette aliénation;
+- **a)** régir la disposition, par le ministre, des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté;
+- **b)** pour l’application des articles 10 et 11, régir le partage — et notamment les modalités de temps ou autres de celui-ci — du produit de la disposition des biens visés aux paragraphes 4(1) à (3) qui ont été confisqués au profit de Sa Majesté et des amendes perçues en application du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à la suite de procédures engagées sur l’instance du gouvernement fédéral;
+- **c)** pour l’application de l’alinéa 13(2)a), préciser les sommes, et la manière de les calculer, à soustraire du produit de la disposition des biens pour établir le produit net de cette disposition;
 - **d)** régir la garantie qui peut être octroyée en application de l’article 18 et les conditions de l’octroi;
 - **e)** prendre les mesures d’ordre réglementaire prévues par la présente loi;
 - **f)** prendre toute mesure d’application de la présente loi.
-> 1993, ch. 37, art. 19; 1997, ch. 18, art. 137(F).
+> 1993, ch. 37, art. 19; 1997, ch. 18, art. 137(F); 2019, ch. 29, art. 119; 2019, ch. 29, art. 120(F).
 
 
 
