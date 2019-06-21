@@ -344,13 +344,15 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 **22** 
 
-- **(1)** The Governor in Council may, by order, add a first nation’s name to Schedule 1 following
+- **(1)** The Minister may, by order, add a first nation’s name to Schedule 1 following
 	- **(a)** an affirmative vote by the first nation’s eligible voters on the ratification of the codes prepared under section 10 and the approval of the transfer of the management and regulation of oil and gas exploration and exploitation to that first nation; and
 	- **(b)** the making of laws by the council under paragraphs 35(1)(a) to (d).
 
 **Change of name**
 
-- **(2)** On receipt by the Minister of a resolution of a first nation’s council advising of a change in the name of the first nation, the Governor in Council may, by order, amend Schedule 1 accordingly.
+- **(2)** On receipt of a resolution of a first nation’s council advising of a change in the name of the first nation, the Minister may, by order, amend Schedule 1 accordingly.
+> 2005, c. 48, s. 22; 2019, c. 29, s. 385.
+
 
 
 
