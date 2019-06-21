@@ -571,20 +571,7 @@ the issue shall not be decided until the party raising the issue has served noti
 ## Transitional Provisions
 
 
-
-**Wekeezhii Land and Water Board**
-
-**95** 
-
-- **(1)** The Wekeezhii Land and Water Board established by section 57.1 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), as enacted by section 31 of this Act, may not exercise its powers or perform its duties under sections 58.1 and 59, subsections 60(1) and (2), sections 79.1 to 79.3, 80.1 and 88 and subsection 89(2) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md) until six months after the coming into force of this Act.
-
-**Mackenzie Valley Land and Water Board**
-
-- **(2)** Despite subsection 102(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), the Mackenzie Valley Land and Water Board shall exercise the powers and perform the duties of the Wekeezhii Land and Water Board under sections 58.1, 79.1 to 79.3, 80.1 and 88 and subsection 89(2) of that Act during the period of six months after the coming into force of this Act.
-
-**Exclusive original jurisdiction**
-
-- **(3)** Despite subsection 32(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md) and section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Supreme Court of the Northwest Territories has exclusive original jurisdiction to hear and determine any action or proceeding, whether or not by way of an application of a type referred to in subsection 32(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), concerning the jurisdiction of the Wekeezhii Land and Water Board during the period of six months after the coming into force of this Act.
+**95** [Repealed, 2019, c. 19, s. 81]
 
 
 
