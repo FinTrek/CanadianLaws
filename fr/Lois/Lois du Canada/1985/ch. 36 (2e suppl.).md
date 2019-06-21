@@ -217,7 +217,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **12** 
 
-- **(1)** Le gouverneur en conseil peut, par décret, interdire à tout titulaire d’entreprendre ou de poursuivre des activités sur tout ou partie des terres domaniales visées par son titre s’il l’estime nécessaire dans les cas suivants :
+- **(1)** Le gouverneur en conseil peut, par décret, interdire à tout titulaire ou à toute autre personne d’entreprendre ou de poursuivre, sur tout ou partie des terres domaniales, des activités autorisées au titre de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), s’il estime que cela est dans l’intérêt national ou nécessaire dans l’un ou l’autre des cas suivants :
 	- **a)** désaccord avec un gouvernement à l’égard de l’emplacement d’une frontière;
 	- **b)** problème environnemental ou social grave;
 	- **c)** conditions climatiques trop rigoureuses ou trop dangereuses pour la santé ou la sécurité des personnes ou la sécurité de l’équipement;
@@ -234,7 +234,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Exception**
 
 - **(4)** Le présent article n’a pas pour effet d’empêcher le ministre, s’il en a le pouvoir, de libérer quiconque de l’exécution d’obligations liées à un titre ou imposées par la présente loi ou ses règlements.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 12; 2015, ch. 4, art. 29(F); 2019, ch. 8, art. 19.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 12; 2015, ch. 4, art. 29(F); 2019, ch. 8, art. 19; 2019, ch. 19, art. 85.
 
 
 
