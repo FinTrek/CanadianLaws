@@ -45,8 +45,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Compétence en vertu d’autres lois**
 
-- **(3)** Le Tribunal connaît également des requêtes en révision et des appels portant sur les sanctions administratives pécuniaires prévues aux articles 177 à 181 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) et les pénalités visées aux articles 43 à 55 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md), aux articles 129.01 à 129.19 de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), aux articles 16.1 à 16.25 de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md) et aux articles 39.1 à 39.26 de la Loi sur la protection de la navigation.
-> 2001, ch. 29, art. 2 et 71; 2007, ch. 1, art. 59; 2008, ch. 21, art. 65; 2012, ch. 31, art. 345; 2018, ch. 2, art. 18.
+- **(3)** Le Tribunal connaît également des requêtes en révision et des appels portant sur les sanctions administratives pécuniaires prévues aux articles 177 à 181 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) et aux articles 130.01 à 130.19 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) et portant sur les pénalités visées aux articles 43 à 55 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md), aux articles 129.01 à 129.19 de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), aux articles 16.1 à 16.25 de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md) et aux articles 39.1 à 39.26 de la Loi sur la protection de la navigation.
+> 2001, ch. 29, art. 2 et 71; 2007, ch. 1, art. 59; 2008, ch. 21, art. 65; 2012, ch. 31, art. 345; 2018, ch. 2, art. 18; 2019, ch. 29, art. 290.
 
 
 
