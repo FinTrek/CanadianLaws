@@ -3410,13 +3410,11 @@ pays ALÉNA (*contribute importantly*)
 
 - **(4)** Dès qu’il a pris le décret prévu au paragraphe (1) sur le fondement d’un rapport du ministre, le gouverneur en conseil saisit le Tribunal canadien du commerce extérieur pour qu’il mène, en vertu de l’alinéa 20a) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), une enquête sur la question.
 
-**Interdiction**
+- **(5)** [Abrogé, 2019, ch. 22, art. 1]
 
-- **(5)** Sous réserve du paragraphe (6), le décret prévu au paragraphe (1) ne peut être pris à l’égard de marchandises déjà visées par un décret pris en vertu de ce paragraphe ou du paragraphe 5(3) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) tant qu’il ne s’est pas écoulé, depuis l’expiration du décret en cause et de tout autre décret pris en vertu des paragraphes 5(3.2) ou (4.1) de cette loi ou en vertu de l’article 60 ou du paragraphe 63(1), au moins deux ans ou, si elle est plus longue, la durée correspondant à la période d’application du décret ou des décrets.
+- **(6)** [Abrogé, 2019, ch. 22, art. 1]
+> 1997, ch. 36, art. 55; 2019, ch. 22, art. 1.
 
-**Exception**
-
-- **(6)** Les marchandises à l’égard desquelles a été pris, en vertu du paragraphe (1), un décret dont la période d’application a été d’au plus cent quatre-vingts jours peuvent toutefois être assujetties, par décret, à une surtaxe si, d’une part, il s’est écoulé au moins un an depuis l’entrée en vigueur du premier décret et, d’autre part, elles n’ont pas fait l’objet de plus de deux décrets au cours des cinq ans précédant l’entrée en vigueur du nouveau décret.
 
 
 
