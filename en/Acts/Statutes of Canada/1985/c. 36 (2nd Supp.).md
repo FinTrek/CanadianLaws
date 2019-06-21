@@ -221,7 +221,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **12** 
 
-- **(1)** The Governor in Council may, by order, prohibit any interest owner specified in the order from commencing or continuing any work or activity on the frontier lands or any portion of them that are subject to the interest of that interest owner, in the case of
+- **(1)** The Governor in Council may, by order, prohibit any interest owner or any other person from commencing or continuing any work or activity authorized under the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) on the frontier lands, or any portion of them, if the Governor in Council considers that it is in the national interest to do so or that it is necessary in any of the following circumstances:
 	- **(a)** a disagreement with any government concerning the location of an international boundary;
 	- **(b)** an environmental or social problem of a serious nature;
 	- **(c)** dangerous or extreme weather conditions affecting the health or safety of people or the safety of equipment; or
@@ -238,7 +238,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Relieving authority not affected**
 
 - **(4)** Nothing in this section affects the authority of the Minister to relieve a person from any requirement in relation to an interest or under this Act or the regulations.
-> R.S., 1985, c. 36 (2nd Supp.), s. 12; 2015, c. 4, s. 29(F); 2019, c. 8, s. 19.
+> R.S., 1985, c. 36 (2nd Supp.), s. 12; 2015, c. 4, s. 29(F); 2019, c. 8, s. 19; 2019, c. 19, s. 85.
 
 
 
