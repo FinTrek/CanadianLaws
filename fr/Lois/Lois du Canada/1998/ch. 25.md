@@ -371,8 +371,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mise en œuvre du droit de représentation d’un autre peuple autochtone**
 
-**15** Malgré toute autre disposition de la présente loi concernant ses membres, l’office, pour la prise de toute décision qui peut toucher une région qui ne relève pas de sa compétence, détermine la manière de mettre en œuvre, conformément à l’accord de revendication applicable, tout droit de représentation du peuple autochtone qui utilise les ressources de cette région conféré par cet accord.
-> 1998, ch. 25, art. 15; 2005, ch. 1, art. 22.
+**15** Malgré toute autre disposition de la présente loi concernant ses membres, l’office, pour la prise de toute décision qui peut toucher une région qui ne relève pas de sa compétence, détermine la manière de mettre en oeuvre, conformément à l’accord de revendication applicable, tout droit de représentation du peuple autochtone qui utilise les ressources de cette région conféré par cet accord, à la condition que le nombre de membres nommés sur la proposition d’une première nation, de membres nommés par le gouvernement tlicho ou sur la proposition du gouvernement tlicho, de membres nommés après consultation, par le ministre fédéral, des premières nations des régions de la vallée du Mackenzie situées à l’extérieur des régions désignées et du Wekeezhii et de membres dont la nomination temporaire est nécessaire pour mettre en oeuvre ce droit demeure égal au nombre des autres membres, exception faite du président.
+> 1998, ch. 25, art. 15; 2005, ch. 1, art. 22; 2019, ch. 19, art. 2.
 
 
 
@@ -1124,6 +1124,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Attributions postérieures au mandat**
+
+**57.3** 
+
+- **(1)** S’il estime nécessaire que le membre de l’office dont le mandat expire au cours de l’instruction d’une affaire concernant la délivrance, la modification, le renouvellement ou l’annulation d’un permis continue d’exercer ses attributions, le président peut demander, par écrit, au ministre fédéral d’autoriser le membre à continuer de les exercer à l’égard de cette affaire jusqu’à ce qu’une décision soit rendue. En ce qui concerne la nomination de son remplaçant, la vacance de son poste est réputée survenir dès l’expiration du mandat.
+
+**Délai**
+
+- **(2)** La demande doit être présentée au moins deux mois avant l’expiration du mandat.
+
+**Fiction juridique**
+
+- **(3)** Elle est réputée agréée si le ministre fédéral n’y donne pas suite dans les deux mois suivant sa présentation.
+> 2019, ch. 19, art. 3.
+
+
+
+
+
 **Mission de l’office gwich’in et de l’office du Sahtu**
 
 **58** L’Office gwich’in des terres et des eaux et l’Office des terres et des eaux du Sahtu ont pour mission de régir l’utilisation des terres et des eaux et le dépôt de déchets de manière à assurer la préservation, la mise en valeur et l’exploitation de ces ressources de la façon la plus avantageuse possible pour les habitants de leur zone de gestion respective, ceux de la vallée du Mackenzie et tous les Canadiens.
@@ -1288,8 +1307,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Caractère définitif**
 
-**67** Sous réserve des articles 32 et 72.13 ou de toute exigence prévue par les règles de droit territoriales en matière d’agrément à l’égard de la délivrance, du renouvellement, de la modification ou de l’annulation des permis d’utilisation des eaux, les décisions et ordonnances de l’office sont définitives.
-> 1998, ch. 25, art. 67; 2014, ch. 2, art. 141.
+**67** Sous réserve des articles 32 et 72.13, des paragraphes 125(1.2) et (4) et de toute exigence prévue par les règles de droit territoriales en matière d’agrément à l’égard de la délivrance, du renouvellement, de la modification ou de l’annulation des permis d’utilisation des eaux, les décisions et ordonnances de l’office sont définitives.
+> 1998, ch. 25, art. 67; 2014, ch. 2, art. 141; 2019, ch. 19, art. 4.
 
 
 
@@ -2107,6 +2126,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Recouvrement des coûts
+
+
+
+**Obligation de paiement**
+
+**79.4** 
+
+- **(1)** Le demandeur ou le titulaire d’un permis d’utilisation des eaux est tenu de payer au ministre fédéral les sommes et les frais ci-après liés à l’examen de la demande de permis d’utilisation des eaux ou au renouvellement, à la modification ou à l’annulation du permis :
+	- **a)** les sommes réglementaires afférentes à l’exercice des attributions de l’office ou de celles de ses membres;
+	- **b)** les frais engagés par l’office pour les services réglementaires qui lui ont été fournis par des tiers;
+	- **c)** les sommes réglementaires afférentes à l’exercice des attributions du ministre fédéral.
+
+**Créances de Sa Majesté**
+
+- **(2)** Les sommes et les frais que l’intéressé est tenu de payer en application du paragraphe (1) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+> 2019, ch. 19, art. 5.
+
+
+
+
+
 ### Fourniture de matériaux de construction
 
 
@@ -2173,10 +2214,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Consultation de l’office**
+**Consultation des offices**
 
-**82** Le ministre fédéral est tenu de consulter l’office en ce qui touche les propositions de modification de la présente loi et la prise ou les propositions de modification de ses textes d’application.
-> 1998, ch. 25, art. 82; 2005, ch. 1, art. 47; 2014, ch. 2, art. 174.
+**82** Le ministre fédéral est tenu de consulter les offices en ce qui touche les propositions de modification de la présente loi et la prise ou les propositions de modification de ses textes d’application.
+> 1998, ch. 25, art. 82; 2005, ch. 1, art. 47; 2014, ch. 2, art. 174; 2019, ch. 19, art. 6(F).
 
 
 
@@ -2284,16 +2325,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Préavis**
 
-- **(4)** Dans les cas où il l’estime indiqué, l’inspecteur donne aux premières nations des Gwich’in ou du Sahtu un préavis de son intention de procéder à la visite de leurs terres.
+- **(4)** Dans les cas où il est indiqué de le faire, l’inspecteur donne aux premières nations des Gwichins ou du Sahtu, au gouvernement tlicho ou au gouvernement Gotine de Deline un préavis de son intention de procéder à la visite des terres de la première nation, des terres tlichos ou des terres de Deline, selon le cas.
 
-**Préavis au gouvernement tlicho**
+- **(5)** [Abrogé, 2019, ch. 19, art. 7]
 
-- **(5)** Il donne au gouvernement tlicho, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres tlichos.
-
-**Préavis au gouvernement Gotine de Deline**
-
-- **(6)** Il donne au gouvernement Gotine de Deline, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres de Deline.
-> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48; 2014, ch. 2, art. 177; 2015, ch. 24, art. 31.
+- **(6)** [Abrogé, 2019, ch. 19, art. 7]
+> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48; 2014, ch. 2, art. 177; 2015, ch. 24, art. 31; 2019, ch. 19, art. 7.
 
 
 
@@ -2557,6 +2594,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Les règlements pris en vertu du paragraphe (1) peuvent varier en fonction de certains critères, notamment l’utilisation des eaux autorisée, les fins de l’utilisation, la quantité et le régime utilisés, de même que la quantité, la concentration et le type de déchets déposés.
 > 2014, ch. 2, art. 182.
+
+
+
+
+
+**Règlements : recouvrement des coûts**
+
+**90.31** Le gouverneur en conseil peut, après consultation par le ministre fédéral des premières nations, du gouvernement tlicho, du ministre territorial et des offices, prendre des règlements concernant le recouvrement des sommes et des frais pour l’application de l’article 79.4, notamment afin de prévoir les sommes et les services pour l’application de cet article et de soustraire à son application toute catégorie de demandeurs ou de titulaires d’un permis visé à cet article.
+> 2019, ch. 19, art. 8.
+
+
+
+
+
+**Règlements : consultations**
+
+**90.32** Le gouverneur en conseil peut, après consultation par le ministre fédéral des premières nations, du gouvernement tlicho, du ministre territorial et des offices, prendre des règlements établissant des exigences concernant toute consultation menée par toute personne ou entité dans le cadre de la présente partie, expressément prévue ou non par celle-ci, auprès des premières nations, de la première nation tlicho, du gouvernement tlicho ou d’un peuple autochtone qui utilise les ressources d’une région située à l’extérieur de la vallée du Mackenzie, notamment les modalités de consultation, et prévoyant la délégation de certains aspects procéduraux de la consultation.
+> 2019, ch. 19, art. 8.
 
 
 
@@ -2873,10 +2928,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Pour l’application de la présente partie, la mention de permis, à l’article 90 et dans les règlements pris en vertu de celui-ci, ainsi qu’aux articles 90.1, 90.2 et 92, vise également le permis d’utilisation des terres au sens du paragraphe (1).
 
-**Mention de permis d’utilisation des eaux**
+**Mention de « permis d’utilisation des eaux »**
 
-- **(4)** Pour l’application de la présente partie, la mention de permis d’utilisation des eaux, à l’article 90.3 et dans les règlements pris en vertu de celui-ci, ainsi qu’aux articles 72.02, 92.02 à 92.04, vise également le permis d’utilisation des eaux au sens du paragraphe (1).
-> 1998, ch. 25, art. 96; 2005, ch. 1, art. 55; 2014, ch. 2, art. 194.
+- **(4)** Pour l’application de la présente partie, la mention de « permis d’utilisation des eaux », à l’article 90.3 et dans les règlements pris en vertu de celui-ci, ainsi qu’aux articles 72.02, 79.4 et 92.02 à 92.04 vise également le permis d’utilisation des eaux au sens du paragraphe (1).
+> 1998, ch. 25, art. 96; 2005, ch. 1, art. 55; 2014, ch. 2, art. 194; 2019, ch. 19, art. 9.
 
 
 
@@ -2938,7 +2993,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Dispositions applicables**
 
-- **(3)** Il est entendu que les dispositions de la partie 1 concernant la nomination des membres, leur mandat, leur révocation et la présidence et celles de la partie 3 concernant la nomination des membres, le quorum et le siège continuent de s’appliquer à la formation régionale.
+- **(3)** Il est entendu que les dispositions de la partie 1 concernant la nomination des membres, leur mandat, leur révocation et la présidence et celles de la partie 3 concernant la nomination des membres, le quorum, le siège et l’exercice de leurs attributions après l’expiration de leur mandat continuent de s’appliquer à la formation régionale.
 
 **Composition**
 
@@ -2946,7 +3001,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** de deux membres nommés après consultation, par le ministre fédéral, des premières nations et du gouvernement tlicho;
 	- **b)** d’un membre nommé sur la proposition du ministre territorial;
 	- **c)** d’un autre membre.
-> 1998, ch. 25, art. 99; 2005, ch. 1, art. 56.
+> 1998, ch. 25, art. 99; 2005, ch. 1, art. 56; 2019, ch. 19, art. 10.
 
 
 
@@ -3039,7 +3094,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**105** [Abrogé, 2014, ch. 2, art. 196]
+
+**Attributions postérieures au mandat**
+
+**105** 
+
+- **(1)** S’il estime nécessaire que le membre de l’Office dont le mandat expire au cours de l’instruction d’une affaire concernant la délivrance, la modification, le renouvellement ou l’annulation d’un permis continue d’exercer ses attributions, le président peut demander, par écrit, au ministre fédéral d’autoriser le membre à continuer de les exercer à l’égard de cette affaire jusqu’à ce qu’une décision soit rendue. En ce qui concerne la nomination de son remplaçant, la vacance de son poste est réputée survenir dès l’expiration du mandat.
+
+**Délai**
+
+- **(2)** La demande est présentée au moins deux mois avant l’expiration du mandat.
+
+**Fiction juridique**
+
+- **(3)** Elle est réputée agréée si le ministre fédéral n’y donne pas suite dans les deux mois suivant sa présentation.
+> 1998, ch. 25, art. 105; 2014, ch. 2, art. 196; 2019, ch. 19, art. 11.
+
 
 
 
@@ -3180,6 +3250,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Recouvrement des coûts
+
+
+
+**Règlements applicables**
+
+**109.3** Les règlements pris en vertu de l’article 90.31 s’appliquent au recouvrement des sommes et des frais liés à l’examen des demandes de permis d’utilisation des eaux délivré par l’Office ou au renouvellement, à la modification ou à l’annulation des permis, la mention de « permis d’utilisation des eaux » dans ces règlements valant mention de ce terme au sens du paragraphe 96(1).
+> 2019, ch. 19, art. 12.
+
+
+
+
+
+### Consultations
+
+
+
+**Règlements applicables**
+
+**109.4** Les règlements pris en vertu de l’article 90.32 s’appliquent aux consultations menées par toute personne ou entité en lien avec la délivrance, le renouvellement, la modification, la suspension ou l’annulation, par l’Office, d’un permis d’utilisation des terres ou des eaux ou d’une autre autorisation, la mention de « permis d’utilisation des eaux » et de « permis d’utilisation des terres » dans ces règlements valant mention de ces termes au sens du paragraphe 96(1).
+> 2019, ch. 19, art. 12.
+
+
+
+
+
 ### Contrôle d’application
 
 
@@ -3278,6 +3374,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Siège**
 
 **113** Le siège de l’Office est fixé à Yellowknife ou en tout autre lieu de la vallée du Mackenzie que détermine le gouverneur en conseil.
+
+
+
+
+**Attributions postérieures au mandat**
+
+**113.1** 
+
+- **(1)** S’il estime nécessaire que le membre de l’Office dont le mandat expire au cours de l’évaluation environnementale, de l’étude d’impact ou de l’examen des répercussions environnementales qui tient lieu d’étude d’impact d’un projet de développement, selon le cas, continue d’exercer ses attributions, le président peut demander, par écrit, au ministre fédéral d’autoriser le membre à continuer de les exercer à l’égard de ce projet jusqu’à ce que les exigences de la présente partie aient été remplies à l’égard de cette évaluation environnementale, de cette étude d’impact ou de cet examen des répercussions environnementales. En ce qui concerne la nomination de son remplaçant, la vacance de son poste est réputée survenir dès l’expiration du mandat.
+
+**Délai**
+
+- **(2)** La demande est présentée au moins deux mois avant l’expiration du mandat.
+
+**Fiction juridique**
+
+- **(3)** Elle est réputée agréée si le ministre fédéral n’y donne pas suite dans les deux mois suivant sa présentation.
+> 2019, ch. 19, art. 14.
+
 
 
 
@@ -3495,9 +3610,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sauf dans les cas visés au paragraphe (2), l’organe chargé de l’examen préalable indique, dans un rapport d’examen adressé à l’Office, si, à son avis, le projet est susceptible soit d’avoir des répercussions négatives importantes sur l’environnement, soit d’être la cause de préoccupations pour le public. Dans l’affirmative, il renvoie l’affaire à l’Office pour qu’il procède à une évaluation environnementale.
 
+**Effet suspensif**
+
+- **(1.1)** Si le rapport visé au paragraphe (1) indique que, de l’avis de l’organe chargé de l’examen préalable, le projet n’aura pas de répercussions négatives importantes sur l’environnement et ne sera pas la cause de préoccupations pour le public :
+	- **a)** l’autorité administrative, l’organisme administratif désigné ou le gouvernement tlicho, selon le cas, ne peut procéder à la délivrance des permis ou autres autorisations nécessaires à la réalisation du projet avant l’expiration d’un délai de dix jours après la réception du rapport par l’Office;
+	- **b)** dans le cas où de tels permis ou de telles autorisations ne sont pas nécessaires en vertu d’une règle de droit fédérale ou territoriale ou d’une loi tlicho, le promoteur ne peut entreprendre le projet avant l’expiration du même délai.
+
+**Office constitué en vertu des parties 3 ou 4**
+
+- **(1.2)** Dans le cas où un office constitué en vertu des parties 3 ou 4 est l’organe chargé de l’examen préalable et qu’il indique dans son rapport que le projet n’aura pas de répercussions négatives importantes sur l’environnement et ne sera pas la cause de préoccupations pour le public, il peut procéder à la délivrance du permis ou autre autorisation nécessaire à la réalisation du projet avant l’expiration d’un délai de dix jours après la réception du rapport par l’Office, à condition que la prise d’effet du permis ou de l’autorisation soit suspendue jusqu’à l’expiration de ce délai et qu’aucun renvoi n’ait été effectué dans ce délai au titre des paragraphes 126(2) ou (3).
+
+**Calcul du délai**
+
+- **(1.3)** Dans le cas où plus d’un organe est chargé de l’examen préalable et que chacun indique dans son rapport que le projet n’aura pas de répercussions négatives importantes sur l’environnement et ne sera pas la cause de préoccupations pour le public, le délai de dix jours visé aux paragraphes (1.1) ou (1.2) commence à courir le jour suivant la réception par l’Office du dernier rapport de ces organes.
+
 **Territoire d’une administration locale**
 
 - **(2)** Dans le cas d’un projet devant être entièrement réalisé dans le territoire d’une administration locale, le rapport indique si, de l’avis de l’organe chargé de l’examen préalable, le projet soit aura vraisemblablement des répercussions négatives importantes sur l’air, l’eau ou les ressources renouvelables, soit est susceptible d’être la cause de préoccupations pour le public. Dans l’affirmative, l’affaire fait l’objet du même renvoi.
+
+**Effet suspensif**
+
+- **(3)** Si le rapport visé au paragraphe (2) indique que, de l’avis de l’organe chargé de l’examen préalable, le projet n’aura vraisemblablement pas de répercussions négatives importantes sur l’air, l’eau ou les ressources renouvelables et ne sera pas la cause de préoccupations pour le public :
+	- **a)** l’autorité administrative, l’organisme administratif désigné ou le gouvernement tlicho, selon le cas, ne peut procéder à la délivrance des permis ou autres autorisations nécessaires à la réalisation du projet avant l’expiration d’un délai de dix jours après la réception du rapport par l’Office;
+	- **b)** dans le cas où de tels permis ou de telles autorisations ne sont pas nécessaire en vertu d’une règle de droit fédérale ou territoriale ou d’une loi tlicho, le promoteur ne peut entreprendre le projet avant l’expiration du même délai.
+
+**Office constitué en vertu des parties 3 ou 4**
+
+- **(4)** Dans le cas où un office constitué en vertu des parties 3 ou 4 est l’organe chargé de l’examen préalable et qu’il indique dans son rapport que le projet n’aura vraisemblablement pas de répercussions négatives importantes sur l’air, l’eau ou les ressources renouvelables et ne sera pas la cause de préoccupations pour le public, il peut procéder à la délivrance du permis ou autre autorisation nécessaire à la réalisation du projet avant l’expiration d’un délai de dix jours après la réception du rapport par l’Office, à condition que la prise d’effet du permis ou de l’autorisation soit suspendue jusqu’à l’expiration de ce délai et qu’aucun renvoi n’ait été effectué dans ce délai en vertu des paragraphes 126(2) ou (3).
+
+**Calcul du délai**
+
+- **(5)** Dans le cas où plus d’un organe est chargé de l’examen préalable et que chacun indique dans son rapport que le projet n’aura vraisemblablement pas de répercussions négatives importantes sur l’air, l’eau ou les ressources renouvelables et ne sera pas la cause de préoccupations pour le public, le délai de dix jours visé aux paragraphes (3) et (4) commence à courir le jour suivant la réception par l’Office du dernier rapport de ces organes.
+
+**Copie du rapport**
+
+- **(6)** L’organe chargé de l’examen préalable fournit une copie du rapport au promoteur du projet.
+> 1998, ch. 25, art. 125; 2019, ch. 19, art. 17.
+
 
 
 
@@ -4237,6 +4386,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Recouvrement des coûts
+
+
+
+**Obligation de paiement**
+
+**142.01** 
+
+- **(1)** Le promoteur d’un projet de développement est tenu de payer au ministre fédéral les sommes et les frais ci-après liés à l’évaluation environnementale, à l’étude d’impact ou à l’examen — par une formation conjointe ou une commission conjointe établie par l’Office et une autre autorité — qui tient lieu d’étude d’impact :
+	- **a)** les sommes réglementaires afférentes à l’exercice des attributions de l’Office ou de celles de ses membres ou des membres de ses formations, de la formation conjointe ou de la commission conjointe;
+	- **b)** les frais engagés par l’Office pour les services réglementaires qui lui ont été fournis par des tiers;
+	- **c)** les sommes réglementaires afférentes à l’exercice des attributions du ministre fédéral.
+
+**Champ d’application**
+
+- **(2)** Pour l’application du paragraphe (1), les services et les attributions en cause se limitent à ceux fournis ou exercés au cours de l’une des périodes suivantes :
+	- **a)** à partir du moment où le projet de développement fait l’objet d’un renvoi effectué en application de l’article 125 — ou de la notification prévue au paragraphe 126(5) — jusqu’au moment où une copie de la décision définitive formulée dans le cadre du processus prévu par la présente partie est remise au promoteur du projet;
+	- **b)** toute période réglementaire comprise dans la période visée à l’alinéa a).
+
+**Créances de Sa Majesté**
+
+- **(3)** Les sommes et les frais que le promoteur est tenu de payer en application du paragraphe (1) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+> 2019, ch. 19, art. 30.
+
+
+
+
+
 ### Registre public
 
 
@@ -4321,16 +4498,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** déterminer la forme du registre que doit tenir l’Office en application de l’article 142.1 et les renseignements à y porter et régir les droits à payer pour sa consultation ou l’obtention de copies;
 	- **e)** régir la médiation visée au paragraphe 138.1(2) et fixer le délai prévu par ce paragraphe;
 	- **f)** régir l’arbitrage visé au paragraphe 138.1(3) et fixer le délai prévu par ce paragraphe;
-	- **g)** fixer le délai prévu par les paragraphes 138.1(4) et 141(4).
+	- **g)** fixer le délai prévu par les paragraphes 138.1(4) et 141(4);
+	- **h)** régir le recouvrement des sommes et des frais pour l’application de l’article 142.01, notamment prévoir les sommes, les services et la période pour l’application de cet article et soustraire à son application toute catégorie de promoteurs;
+	- **i)** établir des exigences concernant toute consultation menée par toute personne ou entité dans le cadre de la présente partie, expressément prévue ou non par celle-ci, auprès des premières nations, de la première nation tlicho, du gouvernement tlicho ou d’un peuple autochtone qui utilise les ressources d’une région située à l’extérieur de la vallée du Mackenzie, notamment les modalités de consultation, et prévoir la délégation de certains aspects procéduraux de la consultation.
 
 **Consultation de l’Office**
 
-- **(2)** La prise de tout règlement en vertu des alinéas (1)a) et d) à g) et la modification des règlements pris en vertu des alinéas b) et c) sont en outre subordonnées à la consultation, par le ministre fédéral, de l’Office.
+- **(2)** La prise de tout règlement en vertu des alinéas (1)a) et d) à i) et la modification des règlements pris en vertu des alinéas (1)b) et c) sont en outre subordonnées à la consultation, par le ministre fédéral, de l’Office.
+
+**Consultation des offices constitués en vertu des parties 3 ou 4**
+
+- **(2.1)** En outre, la prise ou la modification de tout règlement en vertu de l’alinéa (1)i) est, en ce qui a trait aux consultations menées par l’un ou l’autre des offices constitués en vertu des parties 3 ou 4 dans le cadre de l’examen préalable d’un projet de développement, subordonnée à la consultation, par le ministre fédéral, de ces offices.
 
 **Limite**
 
 - **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1)b) les projets de développement ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 84a) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
-> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90; 2014, ch. 2, art. 226.
+> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90; 2014, ch. 2, art. 226; 2019, ch. 19, art. 32.
+
+
+
+
+
+**Incorporation par renvoi — restriction levée**
+
+**143.1** La restriction prévue à l’alinéa 18.1(2)a) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) selon laquelle le document doit être incorporé par renvoi dans sa version à une date donnée ne s’applique pas aux pouvoirs de prendre des règlements conférés par la présente partie.
+> 2019, ch. 19, art. 33.
 
 
 
@@ -4346,6 +4538,481 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Ne constituent pas les mesures visées au paragraphe (1) l’assujettissement à une orientation générale sous forme de directives d’application générale, l’approbation des décisions de l’organisme ou le fait de les modifier ou de les annuler.
 > 1998, ch. 25, art. 144; 2005, ch. 1, art. 91.
+
+
+
+
+
+**PARTIE 5.1** 
+## Sanctions administratives pécuniaires
+
+
+
+### Définitions
+
+
+
+**Définitions**
+
+**144.1** Les définitions qui suivent s’appliquent à la présente partie.
+
+***inspecteur*** Personne désignée à ce titre en vertu des articles 84 ou 142.24. (*inspector*)
+
+***office*** S’entend au sens de l’article 51 ou du paragraphe 96(1), selon le cas. (*board*)
+
+***pénalité*** Sanction administrative pécuniaire infligée en vertu de la présente partie pour une violation. (*penalty*)
+
+***réviseur***
+- **a)** Dans le cas d’une violation relative à la partie 3 et désignée sous le régime de l’alinéa 144.11(1)a) :
+	- **(i)** s’agissant d’une violation commise dans la zone de gestion de l’Office gwichin des terres et des eaux, cet office,
+	- **(ii)** s’agissant d’une violation commise dans la zone de gestion de l’Office des terres et des eaux du Sahtu, cet office,
+	- **(iii)** s’agissant d’une violation commise dans la zone de gestion de l’Office des terres et des eaux du Wekeezhii, cet office,
+	- **(iv)** s’agissant d’une violation commise dans une région autre qu’une zone de gestion, l’Office des terres et des eaux de la vallée du Mackenzie;
+- **b)** malgré les sous-alinéas a)(i) à (iii), s’agissant, dans une zone de gestion, d’une violation relative à la partie 3 qui est une contravention à toute condition dont est assorti un permis ou autre autorisation délivrés par l’Office des terres et des eaux de la vallée du Mackenzie — ou une contravention à tout ordre ou à toute ordonnance ou décision donné ou rendue en lien avec un tel permis ou une telle autorisation —, cet office;
+- **c)** dans le cas d’une violation relative à la partie 5 et désignée sous le régime de l’alinéa 144.11(1)a), le ministre fédéral. (*review body*)
+
+***zone de gestion*** S’entend au sens de l’article 51. (*management area*)
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Attributions du ministre fédéral
+
+
+
+**Règlements**
+
+**144.11** 
+
+- **(1)** Le ministre fédéral peut, avec l’approbation du gouverneur en conseil et après consultation des premières nations des Gwichins et du Sahtu et du gouvernement tlicho, prendre des règlements pour l’application des articles 144.12 à 144.31, notamment pour :
+	- **a)** désigner comme violation punissable au titre de la présente loi la contravention :
+		- **(i)** à toute disposition spécifiée de la présente loi ou de ses règlements,
+		- **(ii)** à tout ordre ou à toute ordonnance ou décision — appartenant ou non à une catégorie spécifiée — donné ou rendue, selon le cas, sous le régime de la présente loi,
+		- **(iii)** à toute condition — appartenant ou non à une catégorie spécifiée — dont est assorti un permis ou autre autorisation délivré sous le régime de la présente loi ou un certificat — original ou modifié — délivré en application de celle-ci;
+	- **b)** prévoir l’établissement ou la méthode d’établissement du montant de la pénalité applicable à chaque violation — la pénalité prévue pour les personnes physiques pouvant différer de celle prévue pour les autres personnes;
+	- **c)** établir la forme et le contenu des procès-verbaux de violation;
+	- **d)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification de documents autorisée ou exigée sous le régime de la présente loi;
+	- **e)** régir la révision des procès-verbaux par le réviseur;
+	- **f)** régir la publication de la nature de la violation, du nom de son auteur et du montant de la pénalité.
+
+**Plafond — montant de la pénalité**
+
+- **(2)** Le montant de la pénalité établi en application d’un règlement pris en vertu de l’alinéa (1)b) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à 25 000 $ et, dans le cas des autres personnes, à 100 000 $.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Violations
+
+
+
+**Agents verbalisateurs**
+
+**144.12** Les inspecteurs sont autorisés à agir à titre d’agents verbalisateurs.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Violations et pénalités**
+
+**144.13** 
+
+- **(1)** La contravention à une disposition, à un ordre, à une ordonnance, à une décision ou à une condition désignés en vertu de l’alinéa 144.11(1)a) constitue une violation pour laquelle l’auteur s’expose à une pénalité dont le montant est déterminé conformément aux règlements.
+
+**But de la pénalité**
+
+- **(2)** L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser le respect de la présente loi.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Participants à la violation : dirigeants, administrateurs et mandataires**
+
+**144.14** Si une personne morale commet une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation et s’exposent à une pénalité dont le montant est déterminé conformément aux règlements, que la personne morale fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Preuve**
+
+**144.15** Dans les procédures en violation engagées au titre de la présente loi, il suffit, pour prouver la violation, d’établir qu’elle a été commise par un employé ou un mandataire de l’auteur de la violation, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Procès-verbal — établissement et signification**
+
+**144.16** 
+
+- **(1)** L’inspecteur qui a des motifs raisonnables de croire qu’une violation a été commise peut dresser un procès-verbal qu’il fait signifier au prétendu auteur de la violation.
+
+**Contenu**
+
+- **(2)** Le procès-verbal mentionne les éléments suivants :
+	- **a)** le nom du prétendu auteur de la violation;
+	- **b)** les faits pertinents quant à la violation;
+	- **c)** le montant de la pénalité;
+	- **d)** la faculté qu’a le prétendu auteur de la violation de demander la révision des faits quant à la violation ou du montant de la pénalité, ainsi que le délai pour ce faire;
+	- **e)** les délais et modalités de paiement de la pénalité;
+	- **f)** le fait que le prétendu auteur de la violation qui n’a ni payé la pénalité ni fait une demande de révision est réputé avoir commis la violation et est tenu du paiement de cette pénalité.
+
+**Copie du procès-verbal**
+
+- **(3)** L’inspecteur fournit une copie du procès-verbal, sans délai après l’avoir dressé :
+	- **a)** dans le cas d’une violation relative à la partie 3, à l’office pouvant agir à titre de réviseur et au ministre fédéral;
+	- **b)** dans le cas d’une violation relative à la partie 5, au ministre fédéral et, selon le cas :
+		- **(i)** à l’office ayant compétence à l’égard de la zone de gestion où le projet est entièrement réalisé,
+		- **(ii)** à l’office constitué en vertu de la partie 4, si le projet est réalisé dans plus d’une zone de gestion, dans une zone de gestion et une région autre qu’une zone de gestion ou entièrement dans une région autre qu’une zone de gestion.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Règles propres aux violations
+
+
+
+**Exclusion de certains moyens de défense**
+
+**144.17** 
+
+- **(1)** Le prétendu auteur de la violation ne peut invoquer en défense le fait qu’il a pris les mesures nécessaires pour empêcher la violation ou qu’il croyait raisonnablement et en toute honnêteté à l’existence de faits qui, avérés, l’exonéreraient.
+
+**Principes de common law**
+
+- **(2)** Les règles et principes de common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard d’une violation dans la mesure de leur compatibilité avec la présente loi.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Violation continue**
+
+**144.18** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Cumul interdit**
+
+**144.19** 
+
+- **(1)** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction aux termes de la présente loi, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+**Précision**
+
+- **(2)** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Prescription**
+
+**144.2** Le délai dans lequel le procès-verbal peut être dressé est de deux ans à compter de la date où le ministre fédéral a eu connaissance des faits reprochés.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Révision
+
+
+
+**Demande de révision**
+
+**144.21** Le prétendu auteur de la violation peut, dans les trente jours suivant la signification d’un procès-verbal ou dans tout délai supérieur prévu dans les règlements, saisir le réviseur d’une demande de révision des faits quant à la violation ou du montant de la pénalité, ou des deux.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Annulation ou correction du procès-verbal**
+
+**144.22** Tant que le réviseur n’est pas saisi d’une demande de révision du procès-verbal, tout inspecteur peut soit l’annuler, soit corriger toute erreur qu’il contient.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Révision**
+
+**144.23** Sur réception de la demande de révision, le réviseur procède à la révision.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Témoins**
+
+**144.24** 
+
+- **(1)** Le réviseur, s’il s’agit d’un office, peut citer toute personne à comparaître devant lui et ordonner à celle-ci de déposer oralement ou par écrit, ou de produire toute pièce qu’il juge nécessaire à la révision.
+
+**Homologation des citations et ordres**
+
+- **(2)** Les citations et les ordres visés au paragraphe (1) peuvent être homologués par la Cour fédérale ou une juridiction supérieure provinciale; le cas échéant, leur exécution s’effectue selon les mêmes modalités que les citations et ordonnances de la juridiction saisie.
+
+**Procédure**
+
+- **(3)** L’homologation se fait soit selon les règles de pratique et de procédure de la juridiction, soit par le dépôt au greffe de celle-ci d’une copie certifiée conforme de la citation ou de l’ordre.
+
+**Indemnités**
+
+- **(4)** La personne citée à comparaître a droit aux indemnités applicables aux convocations de la Cour fédérale.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Décision**
+
+**144.25** 
+
+- **(1)** Le réviseur décide, selon le cas, si le demandeur a commis la violation ou si le montant de la pénalité a été établi conformément aux règlements, ou les deux.
+
+**Correction du montant de la pénalité**
+
+- **(2)** Il modifie le montant de la pénalité s’il estime qu’il n’a pas été établi conformément aux règlements.
+
+**Révision des faits : fardeau de la preuve**
+
+- **(3)** En cas de révision portant sur les faits, il incombe à l’inspecteur qui a dressé le procès-verbal d’établir, selon la prépondérance des probabilités, que le demandeur a commis la violation qui y est mentionnée.
+
+**Décision écrite et motivée**
+
+- **(4)** Le réviseur rend sa décision par écrit, motifs à l’appui, et la fait signifier au demandeur.
+
+**Décision définitive de l’office**
+
+- **(5)** La décision du réviseur, s’agissant d’un office, est définitive et exécutoire et, sous réserve du contrôle judiciaire prévu par l’article 32, n’est pas susceptible d’appel ou de révision en justice.
+
+**Décision définitive du ministre fédéral**
+
+- **(6)** La décision du réviseur, s’agissant du ministre fédéral, est définitive et exécutoire et, sous réserve du contrôle judiciaire prévu par la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), n’est pas susceptible d’appel ou de révision en justice.
+
+**Obligation de payer la pénalité**
+
+- **(7)** En cas de décision défavorable, l’auteur de la violation est tenu du paiement de la pénalité mentionnée dans la décision.
+
+**Copie de la décision**
+
+- **(8)** Selon qu’il s’agit d’un office ou du ministre fédéral, le réviseur fournit une copie de sa décision, sans délai après l’avoir rendue, au ministre fédéral ou à l’office à qui une copie du procès-verbal est fournie en application du paragraphe 144.16(3), respectivement.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Responsabilité
+
+
+
+**Paiement**
+
+**144.26** Vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure le paiement de la pénalité mentionnée au procès-verbal.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Défaut**
+
+**144.27** Vaut aveu de responsabilité, en cas de non-paiement de la pénalité dans le délai prévu dans le procès-verbal, le fait de ne pas demander de révision dans le délai prévu à l’article 144.21. Le cas échéant, l’auteur de la violation est tenu du paiement de la pénalité.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Recouvrement des pénalités
+
+
+
+**Créance de Sa Majesté**
+
+**144.28** 
+
+- **(1)** La pénalité constitue une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+
+**Prescription**
+
+- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**144.29** 
+
+- **(1)** Le ministre fédéral peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 144.28(1).
+
+**Enregistrement**
+
+- **(2)** L’enregistrement à tout tribunal compétent confère au certificat de non-paiement valeur de jugement pour la somme visée et les frais afférents à l’enregistrement.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Dispositions générales
+
+
+
+**Authenticité de documents**
+
+**144.3** Dans les procédures pour violation, le document qui paraît être un procès-verbal dressé en vertu du paragraphe 144.16(1) fait foi, sauf preuve contraire, de son authenticité et de son contenu.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Publication relative à la violation**
+
+**144.31** 
+
+- **(1)** Sous réserve du paragraphe (2) et des règlements, l’office qui a reçu copie du procès-verbal en application du paragraphe 144.16(3) — à titre de réviseur ou non — peut procéder à la publication de la nature de la violation, du nom de son auteur et du montant de la pénalité.
+
+**Réserve afférente à la publication**
+
+- **(2)** L’office ne peut procéder à la publication que si, selon le cas :
+	- **a)** l’auteur de la violation a payé la pénalité mentionnée dans le procès-verbal;
+	- **b)** il n’a pas fait une demande de révision dans le délai prévu à l’article 144.21;
+	- **c)** une décision défavorable a été rendue par le réviseur.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**PARTIE 5.2** 
+## Études régionales
+
+
+
+### Comité chargé d’étudier les répercussions des ouvrages et des activités
+
+
+
+**Constitution**
+
+**144.32** 
+
+- **(1)** Le ministre fédéral peut constituer un comité chargé de procéder à l’étude des répercussions d’ouvrages ou d’activités — actuels ou éventuels — réalisés dans une région de la vallée du Mackenzie.
+
+**Nomination des membres**
+
+- **(2)** Il nomme le ou les membres du comité.
+
+**Mandat**
+
+- **(3)** De plus, il fixe le mandat du comité après avoir demandé et tenu compte de l’avis du gouvernement territorial et, s’agissant d’une étude portant sur des ouvrages ou activités ayant une incidence sur une première nation ou sur la première nation tlicho, de l’avis de cette première nation ou du gouvernement tlicho, selon le cas.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Conflit d’intérêts**
+
+**144.33** 
+
+- **(1)** Nul ne peut être nommé membre du comité ni continuer d’en faire partie s’il en résulte une situation de conflit d’intérêts sérieux.
+
+**Statut et droits conférés par accord**
+
+- **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwichin, de l’accord du Sahtu ou de l’accord tlicho, soit de tout autre accord relatif aux revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Autres participants à l’étude**
+
+**144.34** Le ministre fédéral peut, s’il l’estime indiqué, conclure un accord ou un arrangement avec toute personne ou tout organisme dont les connaissances ou l’expertise sont pertinentes en lien avec l’étude afin qu’il y participe.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Éléments à considérer**
+
+**144.35** Dans le cadre de l’étude, le comité tient compte des connaissances traditionnelles et des renseignements scientifiques mis à sa disposition.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Renseignements**
+
+**144.36** Le comité peut, sous réserve de toute autre règle de droit fédérale ou territoriale, obtenir de tout office constitué par la présente loi et des ministères et organismes fédéraux et territoriaux les renseignements qui sont en leur possession et dont il a besoin pour procéder à l’étude.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Comité conjoint
+
+
+
+**Constitution**
+
+**144.37** S’il estime indiqué de faire procéder à l’étude des répercussions d’ouvrages ou d’activités — actuels ou éventuels — réalisés dans une région de la vallée du Mackenzie et une région qui y est contiguë, le ministre fédéral peut conclure avec l’organisme compétent en matière d’examen des effets sur l’environnement dans cette région un accord ou un arrangement relatif à la constitution d’un comité conjoint chargé de procéder à l’étude et relatif aux modalités de l’étude.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+### Rapport
+
+
+
+**Rapport au ministre fédéral**
+
+**144.38** Au terme de l’étude, le comité ou comité conjoint adresse un rapport au ministre fédéral, qui le met à la disposition du public.
+> 2019, ch. 19, art. 35.
+
+
+
+
+
+**Prise en compte du rapport**
+
+**144.39** Les offices constitués par les paragraphes 36(1), 38(1), 54(1), 56(1), 57.1(1) et 99(1), respectivement, l’Office d’examen des répercussions environnementales de la vallée du Mackenzie, ses formations, les formations conjointes et les commissions conjointes établies par cet office et une autre autorité, ainsi que les organes qui effectuent l’examen préalable d’un projet de développement en application de l’article 124, tiennent compte du rapport dans l’exercice de leurs attributions au titre de la présente loi.
+> 2019, ch. 19, art. 35.
 
 
 
