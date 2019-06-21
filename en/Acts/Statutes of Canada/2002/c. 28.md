@@ -545,6 +545,49 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(5)** Within a reasonable time after receiving a request, the Minister shall decide whether to initiate a special review and shall respond to the request with written reasons for the decision.
 
+**Scope of special review**
+
+- **(6)** For the purposes of this section, the Minister shall initiate a special review only in relation to the aspect of the pest control product that prompted the special review.
+
+**Addition of aspect**
+
+- **(7)** If the Minister has initiated a re-evaluation of, or a special review in relation to, a pest control product, the Minister may, at any time before the decision statement is made public under subsection 28(5), expand the scope of the re-evaluation or special review to include any aspect of the product that would otherwise prompt a new special review under subsection (1), (2) or (3).
+
+**New or amended consultation statement**
+
+- **(8)** If the Minister expands the scope of a re-evaluation or special review under subsection (7) after the consultation statement relating to the re-evaluation or special review has been made public under subsection 28(2), the Minister shall make public a new or amended consultation statement under that subsection that takes into account the aspect referred to in subsection (7).
+> 2002, c. 28, s. 17; 2019, c. 29, s. 217.
+
+
+
+
+
+**Discretion of Minister — aspect already covered**
+
+**17.1** 
+
+- **(1)** Despite section 17, the Minister may decide not to initiate a special review in relation to a pest control product if a re-evaluation of, or a special review in relation to, the product has already been initiated that includes the aspect of the product that would otherwise prompt a special review.
+
+**Discretion of Minister — previous decision statement**
+
+- **(2)** Despite subsection 17(2), the Minister may decide not to initiate a special review of a registered pest control product under that subsection if
+	- **(a)** the Minister made public under subsection 28(5) a decision statement respecting a re-evaluation of, or a special review in relation to, that product;
+	- **(b)** the aspect of the product that would otherwise prompt a special review was addressed by the re-evaluation or special review referred to in paragraph (a); and
+	- **(c)** the Minister determines that there is no additional information in relation to the health or environmental risks of the product that provides the Minister with reasonable grounds to believe that those risks are unacceptable.
+> 2019, c. 29, s. 218.
+
+
+
+
+
+**Duty to make decisions public**
+
+**17.2** The Minister shall make public each of the following decisions and the reasons for it:
+- **(a)** a decision made under subsection 17(7) to expand the scope of a re-evaluation or special review to include an aspect that would otherwise prompt a new special review under subsection 17(2);
+- **(b)** a decision made under subsection 17.1(1) or (2) not to initiate a special review in relation to an aspect that would otherwise prompt such a review under subsection 17(2).
+> 2019, c. 29, s. 218.
+
+
 
 
 
@@ -570,8 +613,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Evaluation of pest control product**
 
-- **(4)** After the special review is initiated, the Minister shall, in accordance with the regulations, if any, evaluate the aspects of the pest control product that prompted the special review and shall carry out the consultations required by section 28.
-> 2002, c. 28, s. 18; 2017, c. 6, s. 111.
+- **(4)** After the special review is initiated, the Minister shall, in accordance with the regulations, if any, evaluate only the aspects of the pest control product that are within the scope of the special review and shall carry out the consultations required by section 28.
+> 2002, c. 28, s. 18; 2017, c. 6, s. 111; 2019, c. 29, s. 219.
 
 
 
