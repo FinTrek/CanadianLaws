@@ -2901,6 +2901,32 @@ but once the decision under section 91 or 103 is communicated to the employer, t
 
 
 
+**Excess payment — amount deemed not deducted**
+
+**82.01** 
+
+- **(1)** Subject to subsection (2), an amount deducted by an employer under subsection 82(1) for a year after 2015 in respect of an excess payment that was paid — as a result of a clerical, administrative or system error — as remuneration to an insured person is deemed not to have been deducted for the purposes of this Act if
+	- **(a)** before the end of the third year after the calendar year in which the amount was deducted,
+		- **(i)** the employer elects to have this section apply in respect of the amount, and
+		- **(ii)** the insured person has repaid, or made an arrangement to repay, the employer;
+	- **(b)** the employer has not filed an information return correcting for the excess payment before making the election referred to in subparagraph (a)(i); and
+	- **(c)** any additional conditions specified by the Minister are met.
+
+**Determination of amount**
+
+- **(2)** For the purposes of subsection (1), the amount that is deemed not to have been deducted is the amount that was deducted by the employer or, if the amount determined by the following formula is less than the amount that was deducted by the employer, the amount determined by the formula
+```
+A − B
+```
+where
+- **A** is the aggregate of all amounts that were deducted by the employer as the employee’s premiums for the year in question; and
+- **B** is the aggregate of all amounts that would have been deducted by the employer as the employee’s premiums for that year had the employer not made the excess payment referred to in subsection (1).
+> 2019, c. 29, s. 50.
+
+
+
+
+
 **Succession of employers**
 
 **82.1** If, in a year after 2003, one employer immediately succeeds another as the employer of an employee as a result of the formation or dissolution of a corporation or the acquisition — with the agreement of the former employer or by operation of law — of all or part of an undertaking or business of the former employer, the successor employer may, for the application of section 82, take into account the amounts deducted, remitted or paid under this Act by the former employer in respect of the year in relation to the employment of the employee as if they had been deducted, remitted or paid by the successor employer. If the employer takes those amounts into account with respect to the employer’s premium, the employer shall also take them into account with respect to the employee’s premium.
@@ -3247,6 +3273,10 @@ to the extent that access has been or may be expected to be refused and that the
 
 - **(3)** Notwithstanding anything in this Part, if a person or employer applies to and satisfies the Minister that, for any year, the amount deducted from the remuneration of the person, or paid by the employer with respect to a person, as the case may be, is in excess of the amount required to be deducted or paid for the year, or should not have been deducted or paid, the Minister may refund the excess amount or the amount that should not have been deducted or paid if the application is made within three years after the end of that year.
 
+**Refund — section 82.01 amounts**
+
+- **(3.1)** If an amount remitted by an employer is deemed under section 82.01 not to have been deducted, the Minister may refund that amount to the employer if the employer applies to the Minister for the refund within three years after the end of the year for which the amount was remitted.
+
 **Refund — insurable earnings up to $2,000**
 
 - **(4)** If a person has insurable earnings of not more than $2,000 in a year, the Minister shall refund to the person the aggregate of all amounts deducted as required from the insurable earnings, whether by one or more employers, on account of the person’s employee’s premiums for that year.
@@ -3442,8 +3472,8 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **No interest payable**
 
-- **(13.1)** Despite subsection (13), no interest shall be paid on refunds payable under subsection (8.7), (8.91), (8.94), (8.97) or (8.98).
-> 1996, c. 23, s. 96; 1997, c. 26, s. 90; 1998, c. 21, s. 104; 2011, c. 24, s. 160; 2012, c. 19, s. 615, c. 31, s. 307; 2013, c. 40, s. 135; 2014, c. 39, s. 225.
+- **(13.1)** Despite subsection (13), no interest shall be paid on a refund payable under subsection (3.1), (8.7), (8.91), (8.94), (8.97) or (8.98) or on the amount of a refund payable under any of those subsections that is applied under this Act to any other liability.
+> 1996, c. 23, s. 96; 1997, c. 26, s. 90; 1998, c. 21, s. 104; 2011, c. 24, s. 160; 2012, c. 19, s. 615, c. 31, s. 307; 2013, c. 40, s. 135; 2014, c. 39, s. 225; 2019, c. 29, s. 51.
 
 
 
