@@ -39,7 +39,7 @@
 
 ***administrator***, in relation to a pension plan, means the administrator referred to in section 7, and includes the replacement administrator appointed under subsection 7.6(1); (*administrateur*)
 
-***cessation of membership*** in a pension plan has the meaning assigned by subsection (2); (*fin de participation*)
+***cessation of membership*** in a pension plan has the meaning assigned by subsections (2) and (2.1); (*fin de participation*)
 
 ***collective agreement*** means an agreement in writing entered into between an employer and a bargaining agent containing provisions respecting terms and conditions of employment and related matters; (*convention collective*)
 
@@ -158,6 +158,10 @@
 	- **(b)** in the case of any other pension plan, when the member’s employment with the employer terminates and the member is not in receipt of an immediate pension benefit, whether or not contributions by the employer in respect of that member had ceased previously; or
 	- **(c)** in any other prescribed circumstance.
 
+**For greater certainty**
+
+- **(2.1)** For greater certainty, a member of a pension plan ceases membership in the plan when the whole or part of that plan is terminated.
+
 **Meaning of retire**
 
 - **(3)** For the purposes of this Act, a member of a pension plan shall be deemed to retire on commencing to receive an immediate pension benefit, whether the member’s employment has terminated or not.
@@ -169,7 +173,7 @@
 **Negotiated contribution plan**
 
 - **(5)** Even though a pension plan — established as a negotiated contribution plan — is no longer a negotiated contribution plan because it has only one participating employer or more than 95% of its members are employed by participating employers who are incorporated and are affiliates within the meaning of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), that pension plan is deemed to be a negotiated contribution plan for a period of one year after the day it is no longer a negotiated contribution plan, or for any longer period that may be specified by the Superintendent.
-> R.S., 1985, c. 32 (2nd Supp.), s. 2, c. 18 (3rd Supp.), s. 38; 1994, c. 24, s. 34(F); 1998, c. 12, s. 1; 2000, c. 12, s. 254; 2001, c. 34, s. 66; 2010, c. 12, ss. 1786, 1824(F), 1825(E), c. 25, s. 179; 2016, c. 7, s. 201.
+> R.S., 1985, c. 32 (2nd Supp.), s. 2, c. 18 (3rd Supp.), s. 38; 1994, c. 24, s. 34(F); 1998, c. 12, s. 1; 2000, c. 12, s. 254; 2001, c. 34, s. 66; 2010, c. 12, ss. 1786, 1824(F), 1825(E), c. 25, s. 179; 2016, c. 7, s. 201; 2019, c. 29, s. 145.
 
 
 
@@ -1326,6 +1330,19 @@ The administrator must, without delay, take the necessary action to give effect 
 
 
 
+### Entitlement Not Affected
+
+
+
+**For greater certainty**
+
+**17.1** For greater certainty, a pension plan is not to provide that a pension benefit, or any other benefit or option referred to in paragraph 17(b), or a member’s entitlement to such a pension benefit or option, is affected when a plan is terminated.
+> 2019, c. 29, s. 146.
+
+
+
+
+
 ### Locking-in
 
 
@@ -1383,11 +1400,11 @@ and the plan shall specify which of paragraph (a) or (b) operates, but the plan 
 
 
 
-**Minimum pension benefit credit**
+**Minimum pension benefit**
 
 **21** 
 
-- **(1)** Subject to paragraph 26(3)(b), if a member of a defined benefit plan retires, ceases to be a member or dies or if the whole or part of the plan is terminated, the pension benefit in respect of the member is to be increased by the amount, if any, by which the aggregate of the member’s contributions, other than additional voluntary contributions, together with interest in accordance with section 19, exceeds 50 per cent of the pension benefit credit in respect of the member’s membership in the plan.
+- **(1)** Subject to paragraph 26(3)(b), if a member of a defined benefit plan retires, ceases to be a member or dies, the pension benefit in respect of the member is to be increased by the amount that can be provided by the amount of the aggregate of the member’s contributions, other than additional voluntary contributions, together with interest in accordance with section 19, that exceeds 50 per cent of the pension benefit credit in respect of the member’s membership in the plan.
 
 **Exception**
 
@@ -1404,7 +1421,7 @@ and the plan shall specify which of paragraph (a) or (b) operates, but the plan 
 - **(4)** For the purposes of paragraph (3)(a),
 	- **(a)** the ***Consumer Price Index*** means the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md); and
 	- **(b)** the annual increase of the Consumer Price Index must be calculated, in prescribed manner, by the comparison between two consecutive and reasonably current 12-month periods.
-> R.S., 1985, c. 32 (2nd Supp.), s. 21; 2001, c. 34, s. 71(F); 2010, c. 12, s. 1808.
+> R.S., 1985, c. 32 (2nd Supp.), s. 21; 2001, c. 34, s. 71(F); 2010, c. 12, s. 1808; 2019, c. 29, s. 148.
 
 
 
