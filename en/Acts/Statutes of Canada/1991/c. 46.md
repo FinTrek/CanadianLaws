@@ -4024,16 +4024,20 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 - **(4)** Unless the by-laws provide otherwise, any person who is participating in a meeting under subsection 136(2) and entitled to vote at that meeting may vote by means of the telephonic, electronic or other communication facility that the bank has made available for that purpose.
 
-**Voting by mail**
+**Voting**
 
-- **(5)** The by-laws of a federal credit union may, subject to the regulations and any conditions set out in the by-laws, allow members to vote by mail.
+- **(5)** The by-laws of a federal credit union may, subject to the regulations, allow members to vote, prior to the meeting, subject to any conditions set out in the by-laws,
+	- **(a)** by mail;
+	- **(b)** in person, at one of its branches;
+	- **(c)** by telephonic or electronic means; or
+	- **(d)** by any other prescribed means.
 
 **Regulations**
 
 - **(6)** The Governor in Council may make regulations
 	- **(a)** respecting the manner of and conditions for voting at a meeting of members or shareholders by means of a telephonic, electronic or other communication facility; and
-	- **(b)** respecting the manner and conditions of voting by mail by members of federal credit unions.
-> 1991, c. 46, s. 151; 2005, c. 54, s. 23; 2010, c. 12, s. 1961.
+	- **(b)** respecting the manner and conditions of voting referred to in paragraphs (5)(a) to (d) by members of federal credit unions.
+> 1991, c. 46, s. 151; 2005, c. 54, s. 23; 2010, c. 12, s. 1961; 2019, c. 29, s. 87.
 
 
 
@@ -4241,14 +4245,14 @@ but does not include
 
 **156.04** 
 
-- **(1)** Subject to subsection 140(2) and subsection (2), the management of a bank shall, concurrently with giving notice of a meeting of shareholders, send a form of proxy in prescribed form to each shareholder entitled to receive notice of the meeting.
+- **(1)** Subject to subsections (2) and 140(2), the management of a bank shall, concurrently with sending notice of a meeting of shareholders, send a form of proxy that is in accordance with the regulations to each shareholder entitled to receive notice of the meeting.
 
 **Exception**
 
 - **(2)** The management of a bank is not required to send a form of proxy under subsection (1) if the bank
 	- **(a)** is not a distributing bank; and
 	- **(b)** has 50 or fewer shareholders who are entitled to vote at a meeting, two or more joint holders of a share being counted as one shareholder.
-> 1997, c. 15, s. 10; 2005, c. 54, s. 28.
+> 1997, c. 15, s. 10; 2005, c. 54, s. 28; 2019, c. 29, s. 88.
 
 
 
@@ -4258,24 +4262,30 @@ but does not include
 
 **156.05** 
 
-- **(1)** A person shall not solicit proxies unless
-	- **(a)** in the case of solicitation by or on behalf of the management of a bank, a management proxy circular in prescribed form, either as an appendix to, or as a separate document accompanying, the notice of the meeting, is sent to the auditor or auditors of the bank and to each shareholder whose proxy is solicited; and
-	- **(b)** in the case of any other solicitation, a dissident’s proxy circular in prescribed form stating the purposes of the solicitation is sent to the auditor or auditors of the bank, to each shareholder whose proxy is solicited and to the bank.
+- **(1)** A person shall not solicit proxies unless a proxy circular that is in accordance with the regulations is sent to the auditor or auditors of the bank, to each shareholder whose proxy is solicited and, in the case set out in paragraph (b), to the bank as follows:
+	- **(a)** in the case of solicitation by or on behalf of the management of a bank, a management proxy circular, either as an appendix to or as a separate document accompanying the notice of meeting; and
+	- **(b)** in the case of any other solicitation, a dissident’s proxy circular stating the purposes of the solicitation.
+
+**Exception — limited solicitation**
+
+- **(1.1)** Despite subsection (1), a person may solicit proxies, other than by or on behalf of the management of a bank, without sending a dissident’s proxy circular, if the total number of shareholders whose proxies are solicited is 15 or fewer, with two or more joint holders being counted as one shareholder.
+
+**Exception — solicitation by public broadcast**
+
+- **(1.2)** Despite subsection (1), a person may solicit proxies, other than by or on behalf of the management of a bank, without sending a dissident’s proxy circular if the solicitation is, in the prescribed circumstances, conveyed by public broadcast, speech or publication.
 
 **Copy to Superintendent**
 
-- **(2)** A person who sends a management proxy circular or dissident’s proxy circular shall at the same time file with the Superintendent
-	- **(a)** in the case of a management proxy circular, a copy of it together with a copy of the notice of meeting, form of proxy and any other documents for use in connection with the meeting; and
-	- **(b)** in the case of a dissident’s proxy circular, a copy of it together with a copy of the form of proxy and any other documents for use in connection with the meeting.
+- **(2)** A person who sends a management proxy circular or dissident’s proxy circular shall concurrently send to the Superintendent a copy of it together with the form of proxy, any other documents for use in connection with the meeting and, in the case of a management proxy circular, a copy of the notice of meeting.
 
 **Exemption by Superintendent**
 
 - **(3)** On the application of an interested person, the Superintendent may, on any terms that the Superintendent thinks fit, exempt the person from any of the requirements of subsection (1) and section 156.04, and the exemption may be given retroactive effect.
 
-**Reporting exemptions**
+**Publication of exemptions**
 
-- **(4)** The Superintendent shall set out in a periodical available to the public the particulars of each exemption granted under subsection (3) together with the reasons for the exemption.
-> 1997, c. 15, s. 10.
+- **(4)** The Superintendent shall publish in a publication generally available to the public, a notice of a decision made by the Superintendent granting an exemption under subsection (3).
+> 1997, c. 15, s. 10; 2019, c. 29, s. 89.
 
 
 
@@ -4343,10 +4353,13 @@ but does not include
 
 
 
-**Exemption**
+**Regulations**
 
-**156.071** The Governor in Council may make regulations respecting the conditions under which a bank is exempt from any of the requirements of sections 156.02 to 156.07.
-> 2005, c. 54, s. 31.
+**156.071** The Governor in Council may make regulations
+- **(a)** respecting the powers that may be granted by a shareholder in a form of proxy;
+- **(b)** respecting proxy circulars and forms of proxy, including the form and content of those documents; and
+- **(c)** respecting the conditions under which a bank is exempt from any of the requirements of sections 156.02 to 156.07.
+> 2005, c. 54, s. 31; 2019, c. 29, s. 90.
 
 
 
