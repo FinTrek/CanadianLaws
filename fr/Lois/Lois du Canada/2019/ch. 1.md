@@ -2337,7 +2337,7 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 
-**139** [Modifications]
+**139** [Abrogé avant d’entrer en vigueur, 2019, ch. 28, art. 195]
 
 
 
