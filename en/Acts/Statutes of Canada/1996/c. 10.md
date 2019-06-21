@@ -157,6 +157,65 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+## Electronic Administration and Enforcement
+
+
+
+**Electronic means**
+
+**6.2** 
+
+- **(1)** If the Minister administers or enforces an Act of Parliament, the Minister may do so using electronic means.
+
+**Designated persons**
+
+- **(2)** For greater certainty, any person or class of persons who are designated by the Minister under an Act of Parliament for the purposes of the administration and enforcement of that Act may, in the exercise of their powers or the performance of their duties and functions, use the electronic means that are made available or specified by the Minister.
+
+**Delegate**
+
+- **(3)** For greater certainty, a person who has been authorized by the Minister to do anything that may be done by the Minister under an Act of Parliament, may do so using the electronic means that are made available or specified by the Minister.
+> 2019, c. 29, s. 214.
+
+
+
+
+
+**Provision of information**
+
+**6.3** For the purposes of sections 6.4 and 6.5, providing information includes
+- **(a)** making an application, request or decision;
+- **(b)** giving notice; and
+- **(c)** submitting a document.
+> 2019, c. 29, s. 214.
+
+
+
+
+
+**Conditions for electronic version**
+
+**6.4** For the purposes of an Act of Parliament that the Minister administers or enforces, a requirement under that Act to provide a signature or to provide information in a paper-based format is met if
+- **(a)** an electronic version of the signature or information is provided by electronic means that are made available or specified by the Minister; and
+- **(b)** any other condition that is provided for in regulations made under paragraph 6.5(a) is met.
+> 2019, c. 29, s. 214.
+
+
+
+
+
+**Regulations**
+
+**6.5** The Governor in Council may make regulations
+- **(a)** respecting the application of sections 6.2 and 6.4, including the technology or format to be used, or the standards, specifications or processes to be followed, including for the making or verifying of an electronic signature and the manner in which it is to be used;
+- **(b)** setting out the circumstances in which a person who must provide a signature or information under an Act that the Minister administers or enforces is required to do so using electronic means and specifying those means;
+- **(c)** authorizing the Minister to permit or direct the use of electronic means, other than those referred to in paragraph (b), or non-electronic means and setting out the circumstances in which the Minister may do so; and
+- **(d)** respecting the date and time when, and the place where, the electronic version of information is deemed to be sent or received.
+> 2019, c. 29, s. 214.
+
+
+
+
+
 **PART I** 
 ## Administration
 
