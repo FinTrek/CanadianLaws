@@ -990,17 +990,30 @@ the court may, subject to any terms that the court considers appropriate,
 
 
 
+**Ministerial activities**
+
+**25.2** The Minister of Justice may conduct activities related to matters governed by this Act, including undertaking research.
+> 2019, c. 16, s. 26
+
+
+
+
+
 **Regulations**
 
 **26** 
 
 - **(1)** The Governor in Council may make regulations for carrying the purposes and provisions of this Act into effect and, without limiting the generality of the foregoing, may make regulations
-	- **(a)** respecting the establishment and operation of a central registry of divorce proceedings in Canada; and
-	- **(b)** providing for uniformity in the rules made pursuant to section 25.
+	- **(a)** respecting the establishment, mandate and operation of a central registry of divorce proceedings;
+	- **(b)** providing for uniformity in the rules made under section 25;
+	- **(c)** respecting the framework for the calculation or recalculation of the amount of child support by the provincial child support service under section 25.01 or 25.1; and
+	- **(d)** prescribing any matter or thing that by this Act is to be or may be prescribed.
 
 **Regulations prevail**
 
-- **(2)** Any regulations made pursuant to subsection (1) to provide for uniformity in the rules prevail over those rules.
+- **(2)** Regulations made under paragraph (1)(b) prevail over rules made under section 25.
+> R.S., 1985, c. 3 (2nd Supp.), s. 262019, c. 16, s. 27
+
 
 
 
@@ -1009,7 +1022,7 @@ the court may, subject to any terms that the court considers appropriate,
 
 **26.1** 
 
-- **(1)** The Governor in Council may establish guidelines respecting the making of orders for child support, including, but without limiting the generality of the foregoing, guidelines
+- **(1)** The Governor in Council may establish guidelines respecting orders for child support, including, but without limiting the generality of the foregoing, guidelines
 	- **(a)** respecting the way in which the amount of an order for child support is to be determined;
 	- **(b)** respecting the circumstances in which discretion may be exercised in the making of an order for child support;
 	- **(c)** authorizing a court to require that the amount payable under an order for child support be paid in periodic payments, in a lump sum or in a lump sum and periodic payments;
@@ -1017,7 +1030,7 @@ the court may, subject to any terms that the court considers appropriate,
 	- **(e)** respecting the circumstances that give rise to the making of a variation order in respect of a child support order;
 	- **(f)** respecting the determination of income for the purposes of the application of the guidelines;
 	- **(g)** authorizing a court to impute income for the purposes of the application of the guidelines; and
-	- **(h)** respecting the production of income information and providing for sanctions when that information is not provided.
+	- **(h)** respecting the production of information relevant to an order for child support and providing for sanctions and other consequences when that information is not provided.
 
 **Principle**
 
@@ -1029,7 +1042,7 @@ the court may, subject to any terms that the court considers appropriate,
 	- **(a)** an order or interim order made under section 15.1;
 	- **(b)** a variation order in respect of a child support order; or
 	- **(c)** an order or an interim order made under section 19.
-> 1997, c. 1, s. 11
+> 1997, c. 1, s. 112019, c. 16, s. 28
 
 
 
@@ -1047,12 +1060,7 @@ the court may, subject to any terms that the court considers appropriate,
 
 
 
-
-**Review and report**
-
-**28** The Minister of Justice shall undertake a comprehensive review of the provisions and operation of the Federal Child Support Guidelines and the determination of child support under this Act and shall cause a report on the review to be laid before each House of Parliament within five years after the coming into force of this section.
-> R.S., 1985, c. 3 (2nd Supp.), s. 28; 1997, c. 1, s. 12
-
+**28** [Repealed, 2019, c. 16, s. 29]
 
 
 
