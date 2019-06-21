@@ -542,6 +542,49 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** Dans un délai raisonnable suivant la réception de la demande, le ministre décide s’il procède ou non à l’examen et communique à son auteur sa décision en la motivant par écrit.
 
+**Portée de l’examen spécial**
+
+- **(6)** Pour l’application du présent article, le ministre procède à l’examen spécial uniquement relativement à l’aspect du produit antiparasitaire qui justifie l’examen spécial.
+
+**Ajout d’un aspect**
+
+- **(7)** S’il a déjà procédé à une réévaluation d’un produit antiparasitaire ou à un examen spécial relatif à un tel produit, le ministre peut, à tout moment avant de rendre public l’énoncé de décision visé au paragraphe 28(5), étendre la portée de la réévaluation ou de l’examen spécial à l’aspect du produit qui aurait justifié un nouvel examen spécial au titre des paragraphes (1), (2) ou (3).
+
+**Énoncé de consultation nouveau ou modifié**
+
+- **(8)** S’il étend la portée d’une réévaluation ou d’un examen spécial au titre du paragraphe (7) après avoir rendu public l’énoncé de consultation relatif à la réévaluation ou à l’examen spécial au titre du paragraphe 28(2), le ministre rend public au titre de ce paragraphe un énoncé de consultation nouveau ou modifié qui tient compte de l’aspect visé au paragraphe (7).
+> 2002, ch. 28, art. 17; 2019, ch. 29, art. 217.
+
+
+
+
+
+**Discrétion du ministre — aspect déjà couvert**
+
+**17.1** 
+
+- **(1)** Malgré l’article 17, le ministre peut décider de ne pas procéder à l’examen spécial relatif au produit antiparasitaire si l’aspect du produit qui aurait justifié l’examen spécial est déjà visé par une réévaluation du produit ou un examen spécial relatif au produit.
+
+**Discrétion du ministre — énoncé de décision**
+
+- **(2)** Malgré le paragraphe 17(2), le ministre peut décider de ne pas procéder à l’examen spécial du produit antiparasitaire homologué au titre de ce paragraphe si :
+	- **a)** il a rendu public un énoncé de décision au titre du paragraphe 28(5) en ce qui a trait à la réévaluation du produit ou à l’examen spécial relatif au produit;
+	- **b)** l’aspect du produit qui aurait justifié l’examen spécial était visé par la réévaluation ou l’examen spécial visé à l’alinéa a);
+	- **c)** il conclut qu’il n’y a pas de renseignements supplémentaires au sujet de risques sanitaires ou environnementaux que présente le produit qui feraient en sorte qu’il aurait des motifs raisonnables de croire que ces risques sont inacceptables.
+> 2019, ch. 29, art. 218.
+
+
+
+
+
+**Obligation de rendre publiques les décisions du ministre**
+
+**17.2** Le ministre rend publiques les décisions ci-après ainsi que les motifs de celles-ci :
+- **a)** les décisions prises au titre du paragraphe 17(7) d’étendre la portée d’une réévaluation ou d’un examen spécial à l’aspect qui aurait justifié un nouvel examen spécial au titre du paragraphe 17(2);
+- **b)** les décisions prises au titre des paragraphes 17.1(1) ou (2) de ne pas procéder à un examen spécial relatif à l’aspect qui aurait justifié un tel examen au titre du paragraphe 17(2).
+> 2019, ch. 29, art. 218.
+
+
 
 
 
@@ -565,8 +608,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Évaluation du produit**
 
-- **(4)** Une fois le processus d’examen spécial enclenché, le ministre évalue, en conformité avec les éventuels règlements, les aspects du produit qui justifient l’examen spécial et procède aux consultations exigées par l’article 28.
-> 2002, ch. 28, art. 18; 2017, ch. 6, art. 111.
+- **(4)** Une fois le processus d’examen spécial enclenché, le ministre, en conformité avec les éventuels règlements, évalue uniquement les aspects du produit visés par l’examen spécial et procède aux consultations exigées par l’article 28.
+> 2002, ch. 28, art. 18; 2017, ch. 6, art. 111; 2019, ch. 29, art. 219.
 
 
 
