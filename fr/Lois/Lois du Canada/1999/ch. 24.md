@@ -1137,10 +1137,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**44** Sont soustraits au processus réglementaire prévu par la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) le code foncier et les textes législatifs.
-> 1999, ch. 24, art. 44; 2012, ch. 19, art. 652(A).
+**44** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas au code foncier, aux textes législatifs et aux arrêtés pris en application du paragraphe 25.1(1).
+> 1999, ch. 24, art. 44; 2012, ch. 19, art. 652(A); 2019, ch. 29, art. 384.
 
 
 
