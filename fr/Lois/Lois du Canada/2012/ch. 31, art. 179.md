@@ -148,7 +148,7 @@ Sanctionnée sur le 14 décembre 2012
 **Disposition transitoire**
 
 - **(4)** Si un plan a été déposé à l’égard de l’exploitation de l’ouvrage ou de l’entreprise ou de l’exercice de l’activité en application du paragraphe (1) dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe, ce paragraphe (1) continue de s’appliquer, à compter de cette date, à l’égard de l’exploitation de l’ouvrage ou de l’entreprise ou de l’exercice de l’activité.
-> 2012, ch. 31, art. 179 « 8 » et 184
+> 2012, ch. 31, art. 179 « 8 » et 1842019, ch. 14, art. 58(A)
 
 
 
