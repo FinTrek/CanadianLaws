@@ -31,10 +31,12 @@ que la protection du Canada et de sa population contre des activités portant at
 
 que le Parlement reconnaît la nécessité de communiquer de l’information — et de regrouper des éléments d’information disparates — pour permettre au gouvernement de protéger le Canada et sa population contre ces activités;
 
-que la communication d’information à l’égard de telles activités doit s’effectuer d’une manière conforme à la Charte canadienne des droits et libertés et à la protection de la vie privée;
+que les institutions fédérales sont garantes d’une communication d’information responsable et efficace effectuée d’une manière qui respecte la Charte canadienne des droits et libertés, la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) et les autres lois relatives à la protection de la vie privée;
 
-que les institutions fédérales sont garantes d’une communication d’information responsable et efficace,
+qu’un pouvoir explicite facilitera la communication d’information responsable et efficace, de façon à protéger la sécurité du Canada,
 
+
+> 2015, ch. 20, art. 2 « préambule »; 2019, ch. 13, art. 113.
 
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
@@ -51,6 +53,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titre abrégé**
 
 **1** Loi sur la communication d’information ayant trait à la sécurité du Canada.
+> 2015, ch. 20, art. 2 « 1 »; 2019, ch. 13, art. 114(A).
+
 
 
 
@@ -61,28 +65,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définitions**
 
-**2** Les définitions qui suivent s’appliquent à la présente loi.
+**2** 
 
-***activité portant atteinte à la sécurité du Canada*** S’entend d’une activité qui porte atteinte à la souveraineté, à la sécurité ou à l’intégrité territoriale du Canada ou à la vie ou à la sécurité de la population du Canada, notamment les activités ci-après si elles entraînent une telle atteinte :
-- **a)** entraver la capacité du gouvernement fédéral — ou de son administration — en matière de renseignement, de défense, d’activités à la frontière, de sécurité publique, d’administration de la justice, de relations diplomatiques ou consulaires ou de stabilité économique ou financière du Canada;
+- **(1)** Les définitions qui suivent s’appliquent à la présente loi.
+
+***activité portant atteinte à la sécurité du Canada*** Activité qui porte atteinte à la souveraineté, à la sécurité ou à l’intégrité territoriale du Canada ou qui menace la vie ou la sécurité de la population au Canada ou de toute personne physique qui a un lien avec le Canada et qui se trouve à l’étranger. Il est entendu que les activités ci-après sont comprises dans la présente définition :
+- **a)** entraver la capacité du gouvernement fédéral — ou de son administration — en matière de renseignement, de défense, d’activités à la frontière ou de sécurité publique;
 - **b)** entraîner un changement de gouvernement au Canada ou influer indûment sur un tel gouvernement par l’emploi de la force ou de moyens illégaux;
 - **c)** espionner, saboter ou se livrer à une activité secrète influencée par l’étranger;
 - **d)** se livrer au terrorisme;
 - **e)** se livrer à une activité qui a pour effet la prolifération d’armes nucléaires, chimiques, radiologiques ou biologiques;
-- **f)** entraver le fonctionnement d’infrastructures essentielles;
-- **g)** entraver le fonctionnement de l’infrastructure mondiale d’information, au sens de l’article 273.61 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
-- **h)** causer des dommages graves à une personne ou à ses biens en raison de ses liens avec le Canada;
-- **i)** se livrer à une activité au Canada qui porte atteinte à la sécurité d’un autre État.
-
-Il est entendu que sont exclues les activités de défense d’une cause, de protestation, de manifestation d’un désaccord ou d’expression artistique. (*activity that undermines the security of Canada*)
+- **f)** entraver de manière considérable ou à grande échelle le fonctionnement d’infrastructures essentielles;
+- **g)** entraver de manière considérable ou à grande échelle le fonctionnement de l’infrastructure mondiale de l’information, au sens de l’article 273.61 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+- **h)** adopter au Canada une conduite qui porte atteinte à la sécurité d’un autre État. (*activity that undermines the security of Canada*)
+- **i)** [Abrogé, 2019, ch. 13, art. 115]
 
 ***institution fédérale*** S’entend :
 - **a)** de l’institution fédérale, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), autre qu’une institution qui figure à l’annexe 1;
 - **b)** d’une institution qui figure à l’annexe 2. (*Government of Canada institution*)
 
-***population du Canada***
-- **a)** La population au Canada;
-- **b)** tout citoyen, au sens du paragraphe 2(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), ou tout résident permanent, au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), qui se trouve à l’étranger. (*people of Canada*)
+***population du Canada***[Abrogée, 2019, ch. 13, art. 115]
+
+**Exception**
+
+- **(2)** Pour l’application de la présente loi, sauf si elles ont un lien avec une activité portant atteinte à la sécurité du Canada, les activités de défense d’une cause, de protestation, de manifestation d’un désaccord ou d’expression artistique ne sont pas des activités portant atteinte à la sécurité du Canada.
+> 2015, ch. 20, art. 2 « 2 »; 2019, ch. 13, art. 115.
+
 
 
 
@@ -94,6 +102,8 @@ Il est entendu que sont exclues les activités de défense d’une cause, de pro
 **Objet**
 
 **3** La présente loi a pour objet d’encourager les institutions fédérales à communiquer entre elles de l’information et de faciliter une telle communication, afin de protéger le Canada contre des activités portant atteinte à la sécurité du Canada.
+> 2015, ch. 20, art. 2 « 3 »; 2019, ch. 13, art. 116(A).
+
 
 
 
@@ -103,9 +113,11 @@ Il est entendu que sont exclues les activités de défense d’une cause, de pro
 **4** Les principes ci-après doivent guider la communication d’information au titre de la présente loi :
 - **a)** la communication d’information responsable et efficace protège le Canada et les Canadiens;
 - **b)** le respect des mises en garde et du droit de regard de la source relativement à l’information ainsi communiquée est compatible avec une communication d’information responsable et efficace;
-- **c)** la conclusion d’ententes de communication d’information convient aux institutions fédérales qui communiquent régulièrement entre elles de l’information;
+- **c)** la conclusion d’une entente de communication d’information convient lorsqu’une institution fédérale communique régulièrement de l’information à la même institution fédérale;
 - **d)** la fourniture de rétroaction sur la façon dont l’information qui est communiquée est utilisée et sur son utilité en matière de protection contre des activités portant atteinte à la sécurité du Canada facilite une communication d’information responsable et efficace;
 - **e)** seuls ceux qui, au sein d’une institution, exercent la compétence ou les attributions de celle-ci à l’égard d’activités portant atteinte à la sécurité du Canada devraient recevoir l’information communiquée en vertu de la présente loi.
+> 2015, ch. 20, art. 2 « 4 »; 2019, ch. 13, art. 117.
+
 
 
 
@@ -114,22 +126,47 @@ Il est entendu que sont exclues les activités de défense d’une cause, de pro
 
 
 
-**Communication d’information**
+**Communication d’information à une institution figurant à l’annexe 3**
 
 **5** 
 
-- **(1)** Sous réserve des dispositions de toute autre loi fédérale ou de tout règlement pris en vertu de l’une de celles-ci interdisant ou restreignant la communication d’information, une institution fédérale peut, de sa propre initiative ou sur demande, communiquer de l’information au responsable d’une institution fédérale destinataire dont le titre figure à l’annexe 3, ou à son délégué, si l’information se rapporte à la compétence ou aux attributions de l’institution destinataire prévues par une loi fédérale ou une autre autorité légitime à l’égard d’activités portant atteinte à la sécurité du Canada, notamment en ce qui touche la détection, l’identification, l’analyse, la prévention ou la perturbation de ces activités ou une enquête sur celles-ci.
+- **(1)** Sous réserve des dispositions de toute autre loi fédérale ou de tout règlement pris en vertu de l’une de celles-ci interdisant ou restreignant la communication d’information, une institution fédérale peut, de sa propre initiative ou sur demande, communiquer de l’information au responsable d’une institution fédérale destinataire dont le titre figure à l’annexe 3, ou à la personne que le responsable de l’institution fédérale destinataire désigne, si elle est convaincue :
+	- **a)** que la communication aidera à l’exercice de la compétence ou des attributions de l’institution fédérale destinataire prévues par une loi fédérale ou une autre autorité légitime à l’égard d’activités portant atteinte à la sécurité du Canada;
+	- **b)** que l’incidence de la communication sur le droit à la vie privée d’une personne sera limitée à ce qui est raisonnablement nécessaire dans les circonstances.
 
-**Communication subséquente en vertu du paragraphe (1)**
+**Déclaration concernant l’exactitude et la fiabilité**
 
-- **(2)** L’information reçue au titre du paragraphe (1) peut être communiquée de nouveau en vertu de ce paragraphe.
+- **(2)** L’institution qui communique de l’information en vertu du paragraphe (1) doit également fournir, au moment de la communication, des renseignements sur l’exactitude de l’information et la fiabilité quant à la façon dont celle-ci a été obtenue.
+> 2015, ch. 20, art. 2 « 5 »; 2019, ch. 13, art. 118.
 
 
 
 
-**Communication subséquente hors du cadre de la présente loi**
 
-**6** Il est entendu que l’utilisation et la communication subséquente, autrement que dans le cadre de la présente loi, de l’information communiquée au titre du paragraphe 5(1) ne sont ni autorisées ni interdites par la présente loi, mais doivent être conformes au droit, notamment à toute exigence, restriction et interdiction légales.
+**Destruction ou remise**
+
+**5.1** 
+
+- **(1)** L’institution fédérale détruit ou remet à l’expéditeur, dès que possible après leur réception, les renseignements personnels, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), qui lui sont communiqués au titre de l’article 5 et qui ne sont pas nécessaires à l’exercice de sa compétence ou de ses attributions prévues par une loi fédérale ou une autre autorité légitime à l’égard d’activités portant atteinte à la sécurité du Canada.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas si la conservation de ces renseignements est légalement exigée.
+
+**[Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md)**
+
+- **(3)** Le paragraphe (1) ne s’applique pas au Service canadien du renseignement de sécurité à l’égard de ceux de ces renseignements qui se rapportent à l’exercice de ses fonctions aux termes de l’article 12 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md).
+> 2019, ch. 13, art. 118.
+
+
+
+
+
+**Précision**
+
+**6** Les articles 5 et 5.1 n’ont pas pour effet d’autoriser la collecte ou l’utilisation de l’information communiquée au titre de l’article 5.
+> 2015, ch. 20, art. 2 « 6 »; 2019, ch. 13, art. 118.
+
 
 
 
@@ -143,6 +180,15 @@ Il est entendu que sont exclues les activités de défense d’une cause, de pro
 
 
 
+**Précision**
+
+**7.1** Il est entendu que, pour l’application de l’alinéa 8(2)b) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le pouvoir de communiquer de l’information au titre de la présente loi comprend celui de communiquer des renseignements personnels, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+> 2019, ch. 13, art. 118.1.
+
+
+
+
+
 **Aucune dérogation**
 
 **8** La présente loi n’a pas pour effet de porter atteinte aux pouvoirs en matière de communication d’information qui découlent d’une autre loi fédérale, d’une loi provinciale, de la common law ou de la prérogative royale.
@@ -150,13 +196,35 @@ Il est entendu que sont exclues les activités de défense d’une cause, de pro
 
 
 
-## Immunité en matière civile
+## Conservation de documents
 
 
 
-**Immunité en matière civile**
+**Obligation : institution fédérale qui communique**
 
-**9** Toute personne bénéficie de l’immunité en matière civile pour la communication d’information faite de bonne foi en vertu de la présente loi.
+**9** 
+
+- **(1)** L’institution fédérale qui communique de l’information en vertu de la présente loi prépare et conserve des documents qui contiennent les renseignements suivants :
+	- **a)** une description de l’information communiquée;
+	- **b)** le nom de la personne physique qui a autorisé la communication;
+	- **c)** le nom de l’institution fédérale destinataire;
+	- **d)** la date de la communication;
+	- **e)** une description des renseignements sur lesquels l’institution fédérale s’est fondée pour conclure que la communication était autorisée par la présente loi;
+	- **f)** tout autre renseignement précisé par règlement.
+
+**Obligation : institution fédérale destinataire**
+
+- **(2)** L’institution fédérale qui reçoit de l’information en vertu de la présente loi prépare et conserve des documents qui contiennent les renseignements suivants :
+	- **a)** une description de l’information reçue;
+	- **b)** le nom de l’institution fédérale qui l’a communiquée;
+	- **c)** le nom ou le poste du responsable de l’institution fédérale destinataire, ou de la personne désignée par lui, qui a reçu l’information;
+	- **d)** la date à laquelle l’information a été reçue par l’institution fédérale destinataire;
+	- **e)** si l’information a été détruite ou remise au titre du paragraphe 5.1(1) ou non;
+	- **f)** si l’information a été détruite au titre du paragraphe 5.1(1), la date de la destruction;
+	- **g)** si l’information a été remise au titre du paragraphe 5.1(1) à l’institution fédérale qui l’a communiquée, la date de la remise;
+	- **h)** tout autre renseignement précisé par règlement.
+> 2015, ch. 20, art. 2 « 9 »; 2019, ch. 13, art. 119.
+
 
 
 
@@ -171,8 +239,8 @@ Il est entendu que sont exclues les activités de défense d’une cause, de pro
 
 - **(1)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi, notamment des règlements :
 	- **a)** concernant les modalités des communications faites en vertu de l’article 5;
-	- **b)** exigeant la tenue et la conservation de documents relativement à ces communications;
-	- **c)** concernant les modalités de tenue et de conservation de ces documents.
+	- **b)** précisant des renseignements pour l’application des alinéas 9(1)f) ou (2)f);
+	- **c)** concernant les modalités de préparation et de conservation des documents exigés par les paragraphes 9(1) ou (2) et précisant leur période de conservation.
 
 **Modification des annexes 1 et 2**
 
@@ -181,6 +249,8 @@ Il est entendu que sont exclues les activités de défense d’une cause, de pro
 **Modification de l’annexe 3**
 
 - **(3)** Le gouverneur en conseil peut, par décret, ajouter le nom d’une institution fédérale et le titre de son responsable à l’annexe 3, supprimer de cette annexe le nom d’une institution et le titre de son responsable ou modifier le nom d’une institution ou le titre d’un responsable qui figure à cette annexe. Il ne peut y avoir ajout que si l’institution est compétente ou a des attributions au titre d’une loi fédérale ou d’une autre autorité légitime à l’égard d’activités portant atteinte à la sécurité du Canada, notamment en ce qui touche la détection, l’identification, l’analyse, la prévention ou la perturbation de ces activités ou une enquête sur celles-ci.
+> 2015, ch. 20, art. 2 « 10 »; 2019, ch. 13, art. 120.
+
 
 
 
