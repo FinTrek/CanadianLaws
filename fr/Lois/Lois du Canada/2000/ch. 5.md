@@ -467,7 +467,7 @@ Dans l’un ou l’autre cas, l’organisation envoie au demandeur, dans les tre
 **Cas où la communication peut être refusée**
 
 - **(3)** Malgré la note afférente à l’article 4.9 de l’annexe 1, l’organisation n’est pas tenue de communiquer à l’intéressé des renseignements personnels dans les cas suivants seulement :
-	- **a)** les renseignements sont protégés par le secret professionnel liant l’avocat ou le notaire à son client;
+	- **a)** les renseignements sont protégés par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige;
 	- **b)** la communication révélerait des renseignements commerciaux confidentiels;
 	- **c)** elle risquerait vraisemblablement de nuire à la vie ou la sécurité d’un autre individu;
 	- **c.1)** les renseignements ont été recueillis au titre de l’alinéa 7(1)b);
@@ -482,7 +482,7 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 **Avis**
 
 - **(5)** Si elle décide de ne pas communiquer les renseignements dans le cas visé à l’alinéa (3)c.1), l’organisation en avise par écrit le commissaire et lui fournit les renseignements qu’il peut préciser.
-> 2000, ch. 5, art. 9, ch. 17, art. 97; 2001, ch. 41, art. 82; 2005, ch. 46, art. 57; 2006, ch. 9, art. 223; 2015, ch. 32, art. 9.
+> 2000, ch. 5, art. 9, ch. 17, art. 97; 2001, ch. 41, art. 82; 2005, ch. 46, art. 57; 2006, ch. 9, art. 223; 2015, ch. 32, art. 9; 2019, ch. 18, art. 61.
 
 
 
