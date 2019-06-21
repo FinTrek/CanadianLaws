@@ -479,7 +479,7 @@ In either case, the organization shall, no later than thirty days after the date
 **When access may be refused**
 
 - **(3)** Despite the note that accompanies clause 4.9 of Schedule 1, an organization is not required to give access to personal information only if
-	- **(a)** the information is protected by solicitor-client privilege or, in civil law, by the professional secrecy of lawyers and notaries;
+	- **(a)** the information is protected by solicitor-client privilege or the professional secrecy of advocates and notaries or by litigation privilege;
 	- **(b)** to do so would reveal confidential commercial information;
 	- **(c)** to do so could reasonably be expected to threaten the life or security of another individual;
 	- **(c.1)** the information was collected under paragraph 7(1)(b);
@@ -494,7 +494,7 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 **Notice**
 
 - **(5)** If an organization decides not to give access to personal information in the circumstances set out in paragraph (3)(c.1), the organization shall, in writing, so notify the Commissioner, and shall include in the notification any information that the Commissioner may specify.
-> 2000, c. 5, s. 9, c. 17, s. 97; 2001, c. 41, s. 82; 2005, c. 46, s. 57; 2006, c. 9, s. 223; 2015, c. 32, s. 9.
+> 2000, c. 5, s. 9, c. 17, s. 97; 2001, c. 41, s. 82; 2005, c. 46, s. 57; 2006, c. 9, s. 223; 2015, c. 32, s. 9; 2019, c. 18, s. 61.
 
 
 
