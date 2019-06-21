@@ -78,8 +78,10 @@
 **Dispositions de l’accord**
 
 **4** Chaque accord conclu en application de l’article 3 doit prévoir :
-- **a)** la mise en place, dans la province, de garanties propres à assurer la protection des renseignements communiqués;
-- **b)** la désignation du ou des fichiers provinciaux à consulter, sous réserve des autres dispositions de la présente partie, avant que ne soient communiqués des renseignements au titre de la même partie.
+- **a)** la mise en place, dans la province, de garanties propres à assurer la protection des renseignements communiqués.
+- **b)** [Abrogé, 2019, ch. 16, art. 44]
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 4; 2019, ch. 16, art. 44.
+
 
 
 
@@ -263,26 +265,28 @@
 
 
 
-**Transfert de renseignements entre fichiers**
+**Communication de renseignements — fichiers**
 
-**18** Sous réserve des règlements, les renseignements d’un fichier susceptible d’être consulté au titre de la présente partie peuvent être communiqués par un directeur de fichier à l’autre afin que la consultation des fichiers de ce dernier en soit facilitée.
+**18** Sous réserve des règlements, les renseignements d’un fichier peuvent être communiqués d’un directeur de fichier à un autre ou au ministre afin de faciliter la consultation des fichiers au titre de la présente partie.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 18; 2019, ch. 16, art. 47.
+
 
 
 
 
 **Transmission des renseignements au ministre**
 
-**19** Le directeur d’un fichier susceptible d’être consulté et contenant les renseignements demandés en application de l’article 13 fait transmettre au ministre, en conformité avec les règlements, tous les éléments d’information qu’il a recueillis à cet égard lors des consultations visées à l’article 17.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 19; 1993, ch. 8, art. 12.
+**19** Le directeur d’un fichier contenant les renseignements demandés au titre de la présente partie fait transmettre au ministre, en conformité avec les règlements, tous les renseignements recueillis.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 19; 1993, ch. 8, art. 12; 2019, ch. 16, art. 47.
 
 
 
 
 
-**Nouveaux renseignements**
+**Communication des renseignements par le ministre**
 
-**19.1** Dans le cas où de nouveaux renseignements sont recueillis lors de chaque consultation périodique, le ministre ne les communique à la personne visée à l’article 13 qu’après s’être assuré qu’elle en a encore besoin pour les raisons exposées dans sa demande.
-> 1993, ch. 8, art. 12.
+**19.1** Sous réserve de l’article 20, le ministre communique au demandeur les renseignements qui lui ont été transmis au titre de la présente partie.
+> 1993, ch. 8, art. 12; 2019, ch. 16, art. 47.
 
 
 
@@ -316,14 +320,14 @@
 - **d)** fixer les conditions auxquelles est assujettie la communication de renseignements par un directeur de fichier à l’autre en application de l’article 18;
 - **e)** fixer les modalités de transmission au ministre des renseignements contenus dans un fichier consulté au titre de la présente partie;
 - **f)** prendre toute autre mesure d’application de la présente partie.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 22; 1997, ch. 1, art. 20.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 22; 1997, ch. 1, art. 20; 2019, ch. 16, art. 49(A).
 
 
 
 
 
 **PARTIE II** 
-## Saisie-arrêt de sommes fédérales pour l’exécution d’ordonnances et d’ententes alimentaires
+## Saisie-arrêt de sommes fédérales pour l’exécution d’ordonnances
 
 
 
@@ -337,11 +341,13 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***bref de saisie-arrêt*** Y est assimilé tout document ou ordonnance d’un tribunal ayant une portée semblable. (*garnishee summons*)
+***autorité provinciale*** S’entend au sens de l’article 2. (*provincial enforcement service*)
+
+***bref de saisie-arrêt*** Est assimilé au bref de saisie-arrêt tout document de nature comparable, notamment une ordonnance judiciaire et un document en matière alimentaire émanant d’une autorité provinciale. (*garnishee summons*)
 
 ***débiteur*** Personne nommée dans un bref de saisie-arrêt visant à la saisie-arrêt à son encontre, au titre de la présente partie, de sommes saisissables. (*judgment debtor*)
 
-***droit provincial en matière de saisie-arrêt*** Règles de droit d’une province portant sur la saisie-arrêt relative à l’exécution d’ordonnances et d’ententes alimentaires. (*provincial garnishment law*)
+***droit provincial en matière de saisie-arrêt*** Le droit d’une province portant sur la saisie-arrêt qui s’applique à l’exécution d’ordonnances. (*provincial garnishment law*)
 
 ***entente alimentaire*** Disposition d’une entente alimentaire exécutoire par bref de saisie-arrêt délivré en application du droit provincial. (*support provision*)
 
@@ -356,7 +362,7 @@
 **Remboursement d’impôt**
 
 - **(2)** Le remboursement d’impôt demeure, pour l’application de la présente partie, payable au client et non à l’escompteur, même quand celui-ci a acquis le droit au remboursement pour l’application de la [Loi sur la cession du droit au remboursement en matière d’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-3.md).
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 23; 1992, ch. 1, art. 66; 1993, ch. 8, art. 13(F).
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 23; 1992, ch. 1, art. 66; 1993, ch. 8, art. 13(F); 2019, ch. 16, art. 51.
 
 
 
@@ -389,9 +395,11 @@
 
 
 
-**Lieu de la situation des sommes saisissables**
+**Lieu des sommes saisissables**
 
-**27** Pour l’application de la présente partie, les sommes saisissables sont réputées se trouver dans le ressort du tribunal saisi d’une demande visant l’obtention d’un bref de saisie-arrêt relativement à ces sommes.
+**27** Pour l’application de la présente partie, les sommes saisissables sont réputées se trouver dans la province où le bref de saisie-arrêt a été délivré à leur égard.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 27; 2019, ch. 16, art. 53.
+
 
 
 
@@ -425,18 +433,15 @@
 
 
 
-**Bref de saisie-arrêt à effet continu**
+**Fin de l’opposabilité**
 
-**30** Sous réserve de l’article 31, dans le cas où un bref de saisie-arrêt à effet continu est signifié au ministre au titre de la présente partie et où des sommes saisissables deviennent payables au débiteur pendant la période de cinq ans au cours de laquelle elle est liée par le bref, Sa Majesté demeure liée, à l’expiration de cette période, conformément aux dispositions du bref quant à tout paiement futur — de sommes saisissables à ce débiteur — qui est autorisé par la loi, la disposition ou le programme qui a donné lieu au paiement de sommes saisissables à ce débiteur pendant la période où Sa Majesté était initialement liée par le bref.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 30; 1993, ch. 8, art. 15.
-
-
+**30** Le bref de saisie-arrêt visant le débiteur cesse d’être opposable à Sa Majesté après les délais et dans les circonstances précisés par règlement.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 30; 1993, ch. 8, art. 15; 2019, ch. 16, art. 55.
 
 
 
-**Limite**
 
-**31** Sa Majesté cesse d’être liée au titre de l’article 30 relativement à une somme saisissable dont le paiement est autorisé par une loi donnée, une disposition de celle-ci, ou un programme établi sous son régime, si, pendant une période de cent quatre-vingts jours consécutifs, aucune somme saisissable n’est payable par elle au débiteur à ce titre.
+**31** [Abrogé, 2019, ch. 16, art. 55]
 
 
 
@@ -461,14 +466,13 @@
 
 **Modes de signification**
 
-**34** En plus des modes de signification prévus par le droit provincial en matière de saisie-arrêt, la signification de documents au ministre, au titre de la présente partie, peut se faire soit par courrier recommandé, soit de toute autre manière réglementaire.
+**34** En plus des modes de signification prévus par le droit provincial en matière de saisie-arrêt, la signification de documents au ministre, au titre de la présente partie, peut se faire de toute manière réglementaire.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 34; 2019, ch. 16, art. 56.
 
 
 
 
-**Signification par courrier recommandé**
-
-**35** Un document signifié au ministre par courrier recommandé est réputé lui être signifié le jour où il le reçoit.
+**35** [Abrogé, 2019, ch. 16, art. 56]
 
 
 
@@ -479,8 +483,8 @@
 
 **Avis aux ministres**
 
-**36** Dès qu’il reçoit signification des documents visés à l’article 28, le ministre en donne avis à chaque ministre responsable des sommes saisissables et leur transmet l’information nécessaire afin de leur permettre de vérifier si des sommes saisissables sont payables au débiteur.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 36; 1993, ch. 8, art. 16.
+**36** Dès qu’il reçoit signification des documents visés à l’article 28, le ministre en donne avis à chaque ministre responsable des sommes saisissables et leur transmet l’information pouvant être nécessaire pour leur permettre de vérifier si de telles sommes sont à payer au débiteur.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 36; 1993, ch. 8, art. 16; 2019, ch. 16, art. 57.
 
 
 
@@ -488,7 +492,18 @@
 
 **Rapport initial des ministres**
 
-**37** Sur réception de l’avis, chaque ministre responsable de sommes saisissables doit indiquer au ministre si de telles sommes sont payables au débiteur ou susceptibles de le devenir.
+**37** Sur réception de l’avis, chaque ministre responsable de sommes saisissables indique au ministre si de telles sommes sont à payer au débiteur ou susceptibles de le devenir.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 37; 2019, ch. 16, art. 57.
+
+
+
+
+
+**Déclaration de revenu**
+
+**37.1** Pour l’application de l’article 37, dans le cas où le ministre du Revenu national sait ou soupçonne que des sommes saisissables seraient à payer à un débiteur si celui-ci produisait une déclaration de revenu pour une année d’imposition, ce ministre peut, conformément au paragraphe 150(2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), le mettre en demeure de produire une déclaration de revenu pour cette année d’imposition.
+> 2019, ch. 16, art. 57.
+
 
 
 
@@ -509,32 +524,40 @@
 
 **Droit de consultation des fichiers**
 
-**40** Sous réserve des règlements, chaque ministre responsable de sommes saisissables peut demander la consultation de fichiers au titre de la partie I en vue d’obtenir des renseignements qu’il estime nécessaires pour confirmer l’identité d’un débiteur.
+**40** Sous réserve des règlements, le ministre et chaque ministre responsable de sommes saisissables peut demander la consultation de fichiers au titre de la partie I en vue d’obtenir des renseignements nécessaires pour confirmer l’identité d’un débiteur.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 40; 2019, ch. 16, art. 58.
 
 
 
 
-### Comparution
+
+### Donner suite à un bref de saisie-arrêt
 
 
 
-**Délai pour comparaître**
+**Délai pour donner suite**
 
-**41** Le ministre comparaît, au nom de Sa Majesté, dans le délai réglementaire.
-
-
-
-
-**Mode de comparution**
-
-**42** En plus des autres modes de comparution autorisés par le droit provincial en matière de saisie-arrêt, le ministre peut comparaître par courrier recommandé ou de toute autre manière réglementaire.
+**41** Le ministre donne suite au bref de saisie-arrêt, au nom de Sa Majesté, dans le délai réglementaire.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 41; 2019, ch. 16, art. 59(F).
 
 
 
 
-**Comparution par courrier recommandé**
 
-**43** Le récépissé conforme aux règlements pris, en matière de courrier recommandé, en vertu de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md) est admissible en preuve et établit, sauf preuve contraire, que le ministre a comparu.
+**Façons de donner suite**
+
+**42** En plus des autres façons de donner suite à un bref de saisie-arrêt permises par le droit provincial en matière de saisie-arrêt, le ministre peut donner suite à un tel bref de toute manière réglementaire.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 42; 2019, ch. 16, art. 60.
+
+
+
+
+
+**Donner suite par courrier recommandé**
+
+**43** Si le ministre donne suite à un bref de saisie-arrêt par courrier recommandé, le récépissé conforme aux règlements pris, en matière de courrier recommandé, en vertu de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md) est admissible en preuve et établit, sauf preuve contraire, que le ministre y a donné suite.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 43; 2019, ch. 16, art. 61(F).
+
 
 
 
@@ -549,9 +572,11 @@
 
 - **(1)** Le paiement effectué auprès du tribunal par le ministre libère Sa Majesté, jusqu’à concurrence du montant versé, des obligations que lui imposent la présente partie et la loi qui régit les sommes saisissables.
 
-**Paiement à l’autorité provinciale**
+**Effet du paiement à l’autorité provinciale**
 
-- **(2)** Le paiement, par le ministre, à une autorité provinciale au sens de l’article 2, s’il est permis par la loi relative à la saisie-arrêt de la province de compétence de l’autorité provinciale, libère Sa Majesté, jusqu’à concurrence du montant versé, des obligations qu’imposent à celle-ci la présente partie et la loi qui régit les sommes saisissables.
+- **(2)** Sa Majesté, sur paiement par le ministre d’une somme à une autorité provinciale, se libère de ses obligations au titre de la présente partie et de la loi qui régit les sommes saisissables jusqu’à concurrence de la somme versée si le paiement est permis par le droit provincial en matière de saisie-arrêt.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 44; 2019, ch. 16, art. 62.
+
 
 
 
@@ -562,8 +587,8 @@
 
 **Avis au débiteur**
 
-**45** Lorsqu’un bref de saisie-arrêt est signifié au ministre au titre de la présente partie, celui-ci en donne avis au débiteur nommé dans le bref conformément aux modalités prévues aux règlements.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 45; 1993, ch. 8, art. 17.
+**45** Lorsqu’un bref de saisie-arrêt est signifié au ministre au titre de la présente partie, celui-ci peut en donner avis au débiteur nommé dans le bref.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 45; 1993, ch. 8, art. 17; 2019, ch. 16, art. 63.
 
 
 
@@ -580,13 +605,17 @@
 **Recouvrement auprès du débiteur**
 
 **49** Toutes sommes saisissables payées à un débiteur et auxquelles il n’a pas droit, du fait d’une saisie-arrêt autorisée par la présente partie, constituent une créance de Sa Majesté recouvrable, à ce titre, auprès de ce débiteur conformément à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et à la loi régissant les sommes ainsi payées.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 49; 2019, ch. 16, art. 64(E).
+
 
 
 
 
 **Recouvrement auprès d’une partie**
 
-**50** Sous réserve de l’article 51, toutes sommes saisissables payées à la partie qui a engagé la procédure de saisie-arrêt ou à son profit et qui excèdent le montant qui devait être ainsi payé constituent une créance de Sa Majesté recouvrable, à ce titre, auprès de cette partie conformément à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou par déduction ou compensation de sommes ainsi payables.
+**50** Sous réserve de l’article 51, toutes sommes saisissables payées à la partie qui a engagé la procédure de saisie-arrêt ou à son profit et qui excèdent le montant qui devait être ainsi payé constituent une créance de Sa Majesté recouvrable, à ce titre, auprès de cette partie conformément à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou par voie de déduction ou compensation des sommes saisissables à verser à cette partie.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 50; 2019, ch. 16, art. 65.
+
 
 
 
@@ -667,14 +696,18 @@
 
 **Responsabilité des frais**
 
-**59** Sous réserve de règlements régissant leur remise, les frais prévus par l’article 58 constituent une créance de Sa Majesté et sont recouvrables auprès du débiteur, sous réserve de l’article 60, par déduction ou compensation de sommes saisissables qui lui sont payables.
+**59** Sous réserve de règlements régissant leur remise, les frais visés à l’article 58 constituent une créance de Sa Majesté et sont recouvrables, à ce titre, auprès du débiteur, sous réserve de l’article 60, par voie de déduction ou compensation des sommes saisissables devant lui être versées.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 59; 2019, ch. 16, art. 67.
+
 
 
 
 
 **Limite**
 
-**60** Les frais prévus par l’article 58 ne peuvent être recouvrés par déduction sur les sommes saisissables à verser en exécution d’un bref de saisie-arrêt.
+**60** Les frais visés à l’article 58 ne peuvent être recouvrés sur les sommes saisissables à verser en exécution d’un bref de saisie-arrêt.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 60; 2019, ch. 16, art. 68(F).
+
 
 
 
@@ -687,18 +720,19 @@
 
 **61** Le gouverneur en conseil peut, par règlement :
 - **a)** désigner, pour l’application de la définition de sommes saisissables, des lois fédérales, des dispositions de ces lois ou des programmes établis sous leur régime;
-- **a.1)** fixer le pourcentage des sommes saisissables à soustraire à l’exécution d’ordonnances ou d’ententes alimentaires, en liaison avec les lois fédérales, les dispositions de ces lois ou les programmes établis sous leur régime qui en autorisent le paiement;
+- **a.1)** fixer le pourcentage des sommes saisissables à soustraire à l’exécution d’ordonnances relativement à ces lois fédérales, dispositions de ces lois ou programmes établis sous leur régime qui en autorisent le paiement;
 - **b)** établir la forme des demandes prévues à l’alinéa 28c);
 - **c)** fixer la période qui doit s’écouler avant que Sa Majesté ne soit liée par la signification des documents mentionnés à l’article 28;
+- **c.1)** préciser, pour l’application de l’article 30, les délais et les circonstances;
 - **d)** fixer le lieu de la signification au ministre des documents afférents à la saisie-arrêt au titre de la présente partie;
-- **e)** déterminer les modes de signification au ministre de documents afférents à la saisie-arrêt autorisée par la présente partie;
+- **e)** régir les modes de signification de documents et prévoir la date à laquelle la signification de documents au ministre est réputée effectuée;
 - **f)** régir, pour l’application de la présente partie, la consultation des fichiers susceptibles d’être consultés au titre de la partie I;
-- **g)** prévoir les modes par lesquels le ministre peut comparaître et les délais de comparution;
+- **g)** régir les modes par lesquels le ministre peut donner suite à un bref de saisie-arrêt et prévoir les délais pour ce faire;
 - **h)** déterminer les modalités de temps et autres des avis à donner au titre de l’article 45;
 - **i)** fixer les frais d’administration pour le traitement des brefs de saisie-arrêt et en déterminer les modalités de perception;
 - **j)** prévoir la remise, partielle ou totale, des frais prévus à l’article 58;
 - **k)** prendre toute autre mesure d’application de la présente partie.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 61; 1993, ch. 8, art. 18.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 61; 1993, ch. 8, art. 18; 2019, ch. 16, art. 69.
 
 
 
@@ -723,22 +757,22 @@
 
 ***autorité provinciale*** S’entend au sens de l’article 2. (*provincial enforcement service*)
 
-***débiteur*** Personne qui est en défaut en ce qui concerne une ordonnance alimentaire ou d’une disposition alimentaire. (*debtor*)
+***débiteur*** Personne qui est en défaut en ce qui concerne une ordonnance alimentaire. (*debtor*)
 
 ***demande de refus d’autorisation*** Demande présentée au titre de l’article 67. (*licence denial application*)
 
-***disposition alimentaire*** Disposition alimentaire d’une entente familiale qui est exécutoire en application du droit provincial. (*support provision*)
+***disposition alimentaire***[Abrogée, 2019, ch. 16, art. 70]
 
-***être en défaut de façon répétée*** S’entend du fait que le débiteur doit, au titre d’une ordonnance alimentaire ou d’une disposition alimentaire :
-- **a)** soit des arriérés parce qu’il n’a pas acquitté intégralement les montants en cause pour trois périodes de paiement, selon les termes de l’ordonnance ou de la disposition;
+***être en défaut de façon répétée*** S’entend du fait que le débiteur doit, au titre d’une ordonnance alimentaire :
+- **a)** soit des arriérés parce qu’il n’a pas acquitté intégralement les montants en cause pour trois périodes de paiement, selon les termes de l’ordonnance;
 - **b)** soit des arriérés pour une somme d’au moins 3 000 $. (*persistent arrears*)
 
 ***ministre*** Le ministre de la Justice. (*Minister*)
 
 ***ministre compétent*** Ministre fédéral chargé de la délivrance d’une autorisation d’un type ou d’une catégorie mentionnés à l’annexe. (*appropriate Minister*)
 
-***ordonnance alimentaire*** S’entend au sens du paragraphe 23(1). (*support order*)
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 62; 1997, ch. 1, art. 22.
+***ordonnance alimentaire*** Ordonnance, jugement, décision ou entente alimentaires — provisoires ou définitifs — exécutoires dans une province. (*support order*)
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 62; 1997, ch. 1, art. 22; 2019, ch. 16, art. 70.
 
 
 
@@ -746,8 +780,8 @@
 
 **Modification de l’annexe**
 
-**63** Le gouverneur en conseil peut, par décret, modifier l’annexe pour y ajouter ou en retrancher tout type ou catégorie d’autorisation pouvant être délivrée à des particuliers au titre d’une loi fédérale ou d’un décret pris en vertu de la prérogative royale.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 63; 1997, ch. 1, art. 22.
+**63** Le gouverneur en conseil peut, par décret, modifier l’annexe pour y ajouter ou en retrancher tout type ou catégorie d’autorisation pouvant être délivrée à des particuliers au titre d’une loi fédérale ou en vertu de la prérogative royale.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 63; 1997, ch. 1, art. 22; 2019, ch. 16, art. 71.
 
 
 
@@ -759,8 +793,8 @@
 
 **Objet**
 
-**64** La présente partie prévoit, en vue d’aider les autorités provinciales à exécuter les ordonnances alimentaires et les dispositions alimentaires, des mesures en matière de refus d’autorisation visant les débiteurs qui sont en défaut de façon répétée.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 64; 1997, ch. 1, art. 22.
+**64** La présente partie prévoit, en vue d’aider les autorités provinciales à exécuter les ordonnances alimentaires, des mesures en matière de refus d’autorisation visant les débiteurs qui sont en défaut de façon répétée.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 64; 1997, ch. 1, art. 22; 2019, ch. 16, art. 72.
 
 
 
@@ -825,7 +859,7 @@
 **Présomption**
 
 - **(5)** Le débiteur est présumé avoir reçu l’avis dix jours après son envoi.
-> 1997, ch. 1, art. 22.
+> 1997, ch. 1, art. 22; 2019, ch. 16, art. 73(A).
 
 
 
@@ -839,6 +873,15 @@
 
 **68** Dès qu’il reçoit une demande de refus d’autorisation et l’affidavit visé au paragraphe 67(3), le ministre en donne avis à chaque ministre compétent et lui transmet l’information nécessaire pour lui permettre de vérifier si le débiteur en cause est titulaire d’autorisations visées.
 > 1997, ch. 1, art. 22.
+
+
+
+
+
+**Droit de consulter des fichiers**
+
+**68.1** Sous réserve des règlements, le ministre ou le ministre compétent peut demander la consultation de fichiers au titre de la partie I en vue d’obtenir les renseignements nécessaires pour confirmer l’identité du débiteur.
+> 2019, ch. 16, art. 75.
 
 
 
@@ -899,15 +942,15 @@
 
 - **(1)** L’autorité provinciale demande sans délai qu’il soit mis fin aux mesures prises au titre de la présente partie si, selon le cas :
 	- **a)** elle est convaincue :
-		- **(i)** soit que le débiteur n’est plus en défaut en ce qui concerne toutes les ordonnances alimentaires et les dispositions alimentaires visées par toute demande de refus d’autorisation le touchant,
-		- **(ii)** soit que le débiteur se conforme, à l’égard de ces ordonnances et ces dispositions, à l’accord en matière de paiement qu’elle juge acceptable,
+		- **(i)** soit que le débiteur n’est plus en défaut en ce qui concerne toutes les ordonnances alimentaires visées par toute demande de refus d’autorisation le touchant,
+		- **(ii)** soit que le débiteur se conforme, à l’égard de ces ordonnances, à l’accord en matière de paiement qu’elle juge acceptable,
 		- **(iii)** soit que le débiteur ne peut acquitter les arriérés et qu’il n’est pas raisonnable de mettre en application la présente partie;
-	- **b)** elle n’exécute plus ces ordonnances et ces dispositions contre le débiteur.
+	- **b)** elle n’exécute plus ces ordonnances contre le débiteur.
 
 **Manière réglementaire**
 
 - **(2)** La demande doit être présentée au ministre de la manière réglementaire.
-> 1997, ch. 1, art. 22.
+> 1997, ch. 1, art. 22; 2019, ch. 16, art. 76.
 
 
 
@@ -955,16 +998,7 @@
 
 
 
-
-### Absence de responsabilité
-
-
-
-**Absence de responsabilité**
-
-**77** Sa Majesté, ses ministres et ses fonctionnaires bénéficient de l’immunité judiciaire pour tout fait — acte ou omission — accompli, ou censé l’avoir été, de bonne foi dans l’exercice des pouvoirs et fonctions conférés par la présente partie.
-> 1997, ch. 1, art. 22.
-
+**77** [Abrogé, 2019, ch. 16, art. 77]
 
 
 
@@ -975,15 +1009,43 @@
 
 **Règlements**
 
-**78** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’ordre réglementaire prévue par la présente partie.
-> 1997, ch. 1, art. 22.
+**78** Le gouverneur en conseil peut, par règlement :
+- **a)** régir, pour l’application de la présente partie, la consultation des fichiers susceptibles d’être consultés au titre de la partie I;
+- **b)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
+> 1997, ch. 1, art. 22; 2019, ch. 16, art. 78.
 
 
 
 
 
 **PARTIE IV** 
-## Communication de renseignements et confidentialité
+## Dispositions générales
+
+
+
+### Absence de responsabilité
+
+
+
+**Immunité**
+
+**78.1** Sa Majesté du chef du Canada, ses ministres et les fonctionnaires fédéraux bénéficient de l’immunité judiciaire pour tout fait — acte ou omission — accompli, ou censé l’avoir été, de bonne foi dans l’exercice des pouvoirs et fonctions conférés par les parties I et III.
+> 2019, ch. 16, art. 79.
+
+
+
+
+
+### Travaux de recherche
+
+
+
+**Questions visées par la présente loi**
+
+**78.2** Le ministre peut effectuer des travaux de recherche relativement à toute question visée par la présente loi.
+> 2019, ch. 16, art. 79.
+
+
 
 
 
@@ -1009,8 +1071,8 @@
 
 **Interdiction**
 
-**80** Sous réserve des autres dispositions de la présente loi, aucun fonctionnaire ou employé de Sa Majesté qui obtient des renseignements au titre de la présente loi ne peut sciemment les communiquer ou permettre qu’ils soient communiqués à une personne ou permettre qu’une personne prenne connaissance d’une déclaration ou d’un autre document contenant de tels renseignements, ou y ait accès. Le présent article s’applique également aux personnes qui sont engagées à contrat par Sa Majesté dans le cadre de l’application de la présente loi.
-> 1997, ch. 1, art. 22.
+**80** Il est interdit à tout employé ou agent contractuel de Sa Majesté du chef du Canada qui obtient des renseignements personnels, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), au titre de la présente loi de sciemment les communiquer ou permettre qu’ils soient communiqués à une personne ou de sciemment permettre qu’une personne prenne connaissance d’une déclaration ou d’un autre document contenant de tels renseignements ou y ait accès, sauf dans l’exercice de ses fonctions au titre de la présente loi ou s’il y est autorisé au titre d’une autre loi fédérale.
+> 1997, ch. 1, art. 22; 2019, ch. 16, art. 80.
 
 
 
