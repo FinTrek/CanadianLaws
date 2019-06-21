@@ -157,6 +157,65 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Exécution et contrôle d’application par voie électronique
+
+
+
+**Moyens électroniques**
+
+**6.2** 
+
+- **(1)** S’il assure l’exécution ou le contrôle d’application d’une loi fédérale, le ministre peut le faire par voie électronique.
+
+**Personnes désignées**
+
+- **(2)** Il est entendu que les personnes que le ministre désigne en vertu d’une loi fédérale — à titre individuel ou au titre de leur appartenance à une catégorie déterminée — pour l’exécution et le contrôle d’application d’une telle loi, peuvent, dans l’exercice de leurs attributions, utiliser les moyens électroniques que le ministre met à leur disposition ou qu’il précise.
+
+**Délégation**
+
+- **(3)** Il est entendu que les personnes à qui le ministre délègue des attributions qui lui sont conférées au titre d’une loi fédérale peuvent, dans l’exercice de leurs attributions, utiliser les moyens électroniques que le ministre met à leur disposition ou qu’il précise.
+> 2019, ch. 29, art. 214.
+
+
+
+
+
+**Fourniture de renseignements**
+
+**6.3** Pour l’application des articles 6.4 et 6.5, l’action de fournir des renseignements vise également les activités suivantes :
+- **a)** faire une demande ou prendre une décision;
+- **b)** fournir un avis;
+- **c)** soumettre un document.
+> 2019, ch. 29, art. 214.
+
+
+
+
+
+**Conditions : version électronique**
+
+**6.4** Pour l’application d’une loi fédérale dont le ministre assure l’exécution ou le contrôle d’application, l’exigence de fournir une signature ou des renseignements sur un support papier, sous le régime d’une telle loi, est respectée si les conditions suivantes sont réunies :
+- **a)** la version électronique de la signature ou des renseignements est fournie par les moyens électroniques que le ministre met à la disposition des intéressés ou qu’il précise;
+- **b)** toute autre condition prévue par un règlement pris en vertu de l’alinéa 6.5a) a été observée.
+> 2019, ch. 29, art. 214.
+
+
+
+
+
+**Règlements**
+
+**6.5** Le gouverneur en conseil peut, par règlement :
+- **a)** régir l’application des articles 6.2 et 6.4, notamment la technologie ou le format à utiliser ou les normes, spécifications ou procédés à respecter, y compris la production ou la vérification d’une signature électronique et la manière d’utiliser une telle signature;
+- **b)** prévoir les circonstances dans lesquelles une personne qui a l’obligation de fournir une signature ou des renseignements sous le régime d’une loi dont le ministre assure l’exécution ou le contrôle d’application est tenue de le faire par voie électronique et préciser les moyens électroniques pour ce faire;
+- **c)** permettre au ministre d’autoriser ou d’exiger l’utilisation de moyens, électroniques ou non, autres que ceux prévus en application de l’alinéa b) et prévoir les circonstances dans lesquelles le ministre peut le faire;
+- **d)** prévoir le lieu, la date et l’heure où la version électronique des renseignements est réputée envoyée ou reçue.
+> 2019, ch. 29, art. 214.
+
+
+
+
+
 **PARTIE I** 
 ## Administration
 
