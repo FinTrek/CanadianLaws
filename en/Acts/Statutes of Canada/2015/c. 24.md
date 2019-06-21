@@ -387,7 +387,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 ## Coordinating Amendments
 
 
-**42** [Amendments]
+**42** [Repealed, 2019, c. 19, s. 82]
 
 
 
