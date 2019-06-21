@@ -76,6 +76,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** de veiller à la réunification des familles au Canada;
 	- **e)** de promouvoir l’intégration des résidents permanents au Canada, compte tenu du fait que cette intégration suppose des obligations pour les nouveaux arrivants et pour la société canadienne;
 	- **f)** d’atteindre, par la prise de normes uniformes et l’application d’un traitement efficace, les objectifs fixés pour l’immigration par le gouvernement fédéral après consultation des provinces;
+	- **f.1)** de préserver l’intégrité du système d’immigration canadien grâce à la mise en place d’une procédure équitable et efficace;
 	- **g)** de faciliter l’entrée des visiteurs, étudiants et travailleurs temporaires qui viennent au Canada dans le cadre d’activités commerciales, touristiques, culturelles, éducatives, scientifiques ou autres, ou pour favoriser la bonne entente à l’échelle internationale;
 	- **h)** de protéger la santé et la sécurité publiques et de garantir la sécurité de la société canadienne;
 	- **i)** de promouvoir, à l’échelle internationale, la justice et la sécurité par le respect des droits de la personne et l’interdiction de territoire aux personnes qui sont des criminels ou constituent un danger pour la sécurité;
@@ -102,7 +103,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** d’assurer que les décisions prises en vertu de la présente loi sont conformes à la Charte canadienne des droits et libertés, notamment en ce qui touche les principes, d’une part, d’égalité et de protection contre la discrimination et, d’autre part, d’égalité du français et de l’anglais à titre de langues officielles du Canada;
 	- **e)** de soutenir l’engagement du gouvernement du Canada à favoriser l’épanouissement des minorités francophones et anglophones du Canada;
 	- **f)** de se conformer aux instruments internationaux portant sur les droits de l’homme dont le Canada est signataire.
-> 2001, ch. 27, art. 3; 2012, ch. 1, art. 205.
+> 2001, ch. 27, art. 3; 2012, ch. 1, art. 205; 2019, ch. 29, art. 301.
 
 
 
@@ -903,9 +904,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** L’agent est tenu de se conformer aux instructions que le ministre peut donner pour l’application du paragraphe (1).
 
+**Réserve : demande de protection pendante**
+
+- **(3.1)** L’étranger dont la demande d’asile a fait l’objet d’un constat d’irrecevabilité ne peut demander un permis de séjour temporaire si sa demande de protection au ministre est toujours pendante.
+
 **Réserve**
 
-- **(4)** L’étranger dont la Section de la protection des réfugiés ou la Section d’appel des réfugiés a rejeté la demande d’asile ou dont elle a prononcé le désistement ou le retrait de la demande ne peut demander de permis de séjour temporaire que si douze mois se sont écoulés depuis le dernier rejet de la demande d’asile ou le dernier prononcé du désistement ou du retrait de celle-ci.
+- **(4)** L’étranger dont la demande d’asile n’a pas été acceptée ne peut demander de permis de séjour temporaire avant que douze mois ne se soient écoulés depuis, selon le cas :
+	- **a)** le rejet de la demande ou le prononcé de son désistement ou de son retrait par la Section de la protection des réfugiés, en l’absence d’appel et de demande d’autorisation de contrôle judiciaire;
+	- **b)** dans tout autre cas, la dernière des éventualités ci-après à survenir :
+		- **(i)** le rejet de la demande ou le prononcé de son désistement ou de son retrait par la Section de la protection des réfugiés ou, en cas de pluralité de rejets ou de prononcés, le plus récent à survenir,
+		- **(ii)** son rejet ou le prononcé de son désistement ou de son retrait par la Section d’appel des réfugiés ou, en cas de pluralité de rejets ou de prononcés, le plus récent à survenir,
+		- **(iii)** le refus de l’autorisation de contrôle judiciaire ou le rejet de la demande de contrôle judiciaire par la Cour fédérale à l’égard de la demande d’asile.
 
 **Réserve — étranger désigné**
 
@@ -926,7 +936,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(7)** L’agent peut refuser d’examiner la demande de permis de séjour temporaire présentée par l’étranger désigné si :
 	- **a)** d’une part, celui-ci a omis de se conformer, sans excuse valable, à toute condition qui lui a été imposée en vertu du paragraphe 58(4) ou de l’article 58.1 ou à toute obligation qui lui a été imposée en vertu de l’article 98.1;
 	- **b)** d’autre part, moins d’une année s’est écoulée depuis la fin de la période applicable visée aux paragraphes (5) ou (6).
-> 2001, ch. 27, art. 24; 2010, ch. 8, art. 3; 2012, ch. 17, art. 12.
+> 2001, ch. 27, art. 24; 2010, ch. 8, art. 3; 2012, ch. 17, art. 12; 2019, ch. 29, art. 302.
 
 
 
@@ -968,7 +978,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** l’étranger a déjà présenté une telle demande et celle-ci est toujours pendante;
 	- **a.1)** celle-ci vise à faire lever tout ou partie des critères et obligations visés par la section 0.1;
 	- **b)** il a présenté une demande d’asile qui est pendante devant la Section de la protection des réfugiés ou de la Section d’appel des réfugiés;
-	- **c)** sous réserve du paragraphe (1.21), moins de douze mois se sont écoulés depuis le dernier rejet de la demande d’asile, le dernier prononcé de son retrait après que des éléments de preuve testimoniale de fond aient été entendus ou le dernier prononcé de son désistement par la Section de la protection des réfugiés ou la Section d’appel des réfugiés.
+	- **b.1)** sa demande d’asile a fait l’objet d’un constat d’irrecevabilité et sa demande de protection au ministre est toujours pendante;
+	- **c)** sous réserve du paragraphe (1.21), moins de douze mois se sont écoulés depuis, selon le cas :
+		- **(i)** le rejet de la demande d’asile ou le prononcé de son désistement — après que des éléments de preuve testimoniale de fond aient été entendus — ou de son retrait par la Section de la protection des réfugiés, en l’absence d’appel et de demande d’autorisation de contrôle judiciaire,
+		- **(ii)** dans tout autre cas, la dernière des éventualités ci-après à survenir :
+			- **(A)** le rejet de la demande d’asile ou le prononcé de son désistement — après que des éléments de preuve testimoniale de fond aient été entendus — ou de son retrait par la Section de la protection des réfugiés ou, en cas de pluralité de rejets ou de prononcés, le plus récent à survenir,
+			- **(B)** son rejet ou le prononcé de son désistement — après que des éléments de preuve testimoniale de fond aient été entendus — ou de son retrait par la Section d’appel des réfugiés ou, en cas de pluralité de rejets ou de prononcés, le plus récent à survenir,
+			- **(C)** le refus de l’autorisation de contrôle judiciaire ou le rejet de la demande de contrôle judiciaire par la Cour fédérale à l’égard de la demande d’asile.
 
 **Exception à l’alinéa (1.2)c)**
 
@@ -983,7 +999,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Critères provinciaux**
 
 - **(2)** Le statut de résident permanent ne peut toutefois être octroyé à l’étranger visé au paragraphe 9(1) qui ne répond pas aux critères de sélection de la province en cause qui lui sont applicables.
-> 2001, ch. 27, art. 25; 2008, ch. 28, art. 117; 2010, ch. 8, art. 4; 2012, ch. 17, art. 13; 2013, ch. 16, art. 9 et 36, ch. 40, art. 291.
+> 2001, ch. 27, art. 25; 2008, ch. 28, art. 117; 2010, ch. 8, art. 4; 2012, ch. 17, art. 13; 2013, ch. 16, art. 9 et 36, ch. 40, art. 291; 2019, ch. 29, art. 303.
 
 
 
@@ -2610,6 +2626,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+#### Demandes de visa de résident temporaire et de permis de travail ou d’études
+
+
+
+**Décret**
+
+**87.31** 
+
+- **(1)** S’il est d’avis que le gouvernement d’un État étranger ou l’autorité compétente à l’égard d’un territoire, de manière déraisonnable, refuse de délivrer des titres de voyage à des citoyens ou ressortissants de cet État ou de ce territoire qui se trouvent au Canada ou en retarde la délivrance, le gouverneur en conseil peut, par décret, prendre une ou plusieurs des mesures suivantes :
+	- **a)** prévoir que ne seront pas examinées les demandes de visa de résident temporaire, de permis de travail ou de permis d’études, ou une combinaison de ces types de demandes, qui sont faites par ces citoyens ou ressortissants et reçues pendant la période précisée dans le décret ou, en l’absence de précision, la période d’application du décret;
+	- **b)** suspendre, pendant la période précisée dans le décret ou, en l’absence de précision, la période d’application du décret, l’examen de l’un ou l’autre de ces types de demandes, ou une combinaison de ceux-ci, qui sont faites par ces citoyens ou ressortissants et pendantes à l’entrée en vigueur du décret ou des modifications apportées à celui-ci, selon le cas;
+	- **c)** mettre fin définitivement à l’examen de l’un ou l’autre de ces types de demandes, ou une combinaison de ceux-ci, qui sont faites par ces citoyens ou ressortissants et pendantes à l’entrée en vigueur du décret ou des modifications apportées à celui-ci, selon le cas.
+
+**Autres éléments**
+
+- **(2)** Le décret peut :
+	- **a)** restreindre son application aux catégories de demandes, de citoyens ou de ressortissants qu’il précise;
+	- **b)** régir la conservation des demandes, leur retour au demandeur ou la façon dont on peut en disposer autrement;
+	- **c)** régir le remboursement des frais afférents aux demandes, s’il met fin définitivement à l’examen de celles-ci;
+	- **d)** régir toute question qui découle du pouvoir de prendre le décret ou qui y est accessoire.
+
+**Précision**
+
+- **(3)** Le fait de conserver ou de retourner une demande — ou d’en disposer autrement — ne constitue pas un refus de délivrer le visa ou le permis en question.
+> 2019, ch. 29, art. 304.
+
+
+
+
+
 #### Travailleurs qualifiés (fédéral)
 
 
@@ -2855,13 +2901,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Peine**
 
 - **(9)** Quiconque commet une infraction au paragraphe (1) encourt :
-	- **a)** sur déclaration de culpabilité par mise en accusation, une amende maximale de 100 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines;
-	- **b)** sur déclaration de culpabilité par procédure sommaire, une amende maximale de 20 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+	- **a)** sur déclaration de culpabilité par mise en accusation, une amende maximale de deux cent mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines;
+	- **b)** sur déclaration de culpabilité par procédure sommaire, une amende maximale de quarante mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines.
 
 **Sens de instance**
 
 - **(10)** Il est entendu qu’au présent article ***instance*** ne vise pas une instance devant une cour supérieure.
-> 2001, ch. 27, art. 91; 2011, ch. 8, art. 1; 2013, ch. 40, art. 292.
+> 2001, ch. 27, art. 91; 2011, ch. 8, art. 1; 2013, ch. 40, art. 292; 2019, ch. 29, art. 296.
+
+
+
+
+
+**Règlements**
+
+**91.1** 
+
+- **(1)** Les règlements peuvent :
+	- **a)** établir un régime de sanctions et de conséquences administratives — y compris de sanctions administratives pécuniaires — applicable aux violations désignées dans un règlement pris en vertu de l’alinéa b) et établir le montant des sanctions administratives pécuniaires;
+	- **b)** désigner comme violation la contravention — même celle commise à l’étranger — à toute disposition spécifiée de la présente loi ou des règlements par toute personne qui, de façon directe ou indirecte, représente ou conseille une personne, moyennant rétribution, relativement à la soumission d’une déclaration d’intérêt faite en application du paragraphe 10.1(3) ou à une demande ou à une instance prévue par la présente loi, ou offre de le faire;
+	- **c)** interdire tout acte en lien avec les activités consistant à représenter ou à conseiller une personne ou à offrir de le faire visées à l’alinéa b);
+	- **d)** prévoir les pouvoirs d’inspection, dont celui d’exiger la fourniture par toute personne ou entité de tout document pour inspection, à des fins de vérification du respect des dispositions spécifiées dans un règlement pris en vertu de l’alinéa b).
+
+**Droit de demander une révision**
+
+- **(2)** Tout règlement pris en vertu de l’alinéa(1)a) doit prévoir le droit de toute personne visée à l’un ou l’autre des paragraphes 91(2) à (4) qui fait l’objet d’un procès-verbal de demander à une personne nommée au titre du paragraphe (3) de réviser le procès-verbal ou la sanction infligée.
+
+**Nomination par décret**
+
+- **(3)** Le gouverneur en conseil peut, par décret, nommer un ou plusieurs citoyens canadiens ou résidents permanents ayant pour fonction de réviser tout procès-verbal dressé ou toute sanction infligée au titre d’un règlement pris en vertu de l’alinéa (1)a) et de s’acquitter de toute autre fonction que lui confère un règlement pris en vertu de cet alinéa.
+
+**Mandat**
+
+- **(4)** La personne nommée au titre d’un décret pris en vertu du paragraphe (3) occupe sa charge à titre inamovible pour la durée du mandat fixée par décret du gouverneur en conseil, sauf révocation motivée par ce dernier.
+> 2019, ch. 29, art. 297.
 
 
 
@@ -3065,7 +3138,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **100** 
 
-- **(1)** Dans les trois jours ouvrables suivant la réception de la demande, l’agent statue sur sa recevabilité et défère, conformément aux règles de la Commission, celle jugée recevable à la Section de la protection des réfugiés.
+- **(1)** L’agent statue sur la recevabilité de la demande et défère, conformément aux règles de la Commission, celle jugée recevable à la Section de la protection des réfugiés.
 
 **Charge de la preuve**
 
@@ -3079,7 +3152,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Saisine**
 
-- **(3)** La saisine de la section survient sur déféré de la demande; sauf sursis ou constat d’irrecevabilité, elle est réputée survenue à l’expiration des trois jours.
+- **(3)** La saisine de la Section de la protection des réfugiés survient sur déféré de la demande.
 
 **Renseignements et documents à fournir**
 
@@ -3092,7 +3165,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur la mise en quarantaine](/fr/Lois/Lois%20du%20Canada/2005/ch.%2020.md)**
 
 - **(5)** Le délai prévu aux paragraphes (1) et (3) ne court pas durant une période d’isolement ou de détention ordonnée en application de la [Loi sur la mise en quarantaine](/fr/Lois/Lois%20du%20Canada/2005/ch.%2020.md).
-> 2001, ch. 27, art. 100; 2005, ch. 20, art. 81; 2010, ch. 8, art. 11; 2012, ch. 17, art. 56.
+> 2001, ch. 27, art. 100; 2005, ch. 20, art. 81; 2010, ch. 8, art. 11; 2012, ch. 17, art. 56; 2019, ch. 29, art. 305.
 
 
 
@@ -3106,6 +3179,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** l’asile a été conféré au demandeur au titre de la présente loi;
 	- **b)** rejet antérieur de la demande d’asile par la Commission;
 	- **c)** décision prononçant l’irrecevabilité, le désistement ou le retrait d’une demande antérieure;
+	- **c.1)** confirmation, en conformité avec un accord ou une entente conclus par le Canada et un autre pays permettant l’échange de renseignements pour l’administration et le contrôle d’application des lois de ces pays en matière de citoyenneté et d’immigration, d’une demande d’asile antérieure faite par la personne à cet autre pays avant sa demande d’asile faite au Canada;
 	- **d)** reconnaissance de la qualité de réfugié par un pays vers lequel il peut être renvoyé;
 	- **e)** arrivée, directement ou indirectement, d’un pays désigné par règlement autre que celui dont il a la nationalité ou dans lequel il avait sa résidence habituelle;
 	- **f)** prononcé d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux — exception faite des personnes interdites de territoire au seul titre de l’alinéa 35(1)c) —, grande criminalité ou criminalité organisée.
@@ -3115,7 +3189,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** L’interdiction de territoire pour grande criminalité visée à l’alinéa (1)f) n’emporte irrecevabilité de la demande que si elle a pour objet :
 	- **a)** une déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
 	- **b)** une déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans.
-> 2001, ch. 27, art. 101; 2012, ch. 17, art. 34.
+> 2001, ch. 27, art. 101; 2012, ch. 17, art. 34; 2019, ch. 29, art. 306.
 
 
 
@@ -3170,8 +3244,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **104** 
 
-- **(1)** L’agent donne un avis portant, en ce qui touche une demande d’asile dont la Section de protection des réfugiés est saisie ou dans le cas visé à l’alinéa d) dont la Section de protection des réfugiés ou la Section d’appel des réfugiés sont ou ont été saisies, que :
-	- **a)** il y a eu constat d’irrecevabilité au titre des alinéas 101(1)a) à e);
+- **(1)** L’agent donne un avis portant, en ce qui touche une demande d’asile dont la Section de la protection des réfugiés est saisie ou dans le cas visé aux alinéas a.1) ou d) dont la Section de la protection des réfugiés ou la Section d’appel des réfugiés sont ou ont été saisies, que :
+	- **a)** il y a eu constat d’irrecevabilité au titre des alinéas 101(1)a) à e), exception faite de l’alinéa 101(1)c.1);
+	- **a.1)** il y a eu constat d’irrecevabilité au titre de l’alinéa 101(1)c.1);
 	- **b)** il y a eu constat d’irrecevabilité au seul titre de l’alinéa 101(1)f);
 	- **c)** la demande n’étant pas recevable par ailleurs, la recevabilité résulte, directement ou indirectement, de présentations erronées sur un fait important quant à un objet pertinent, ou de réticence sur ce fait;
 	- **d)** la demande n’est pas la première reçue par un agent.
@@ -3179,8 +3254,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Classement et nullité**
 
 - **(2)** L’avis a pour effet, s’il est donné au titre :
-	- **a)** des alinéas (1)a) à c), de mettre fin à l’affaire en cours devant la Section de protection des réfugiés;
+	- **a)** des alinéas (1)a), b) ou c), de mettre fin à l’affaire en cours devant la Section de la protection des réfugiés;
+	- **a.1)** de l’alinéa (1)a.1), de mettre fin à l’affaire en cours devant la Section de la protection des réfugiés ou, s’agissant d’un appel du demandeur d’asile, la Section d’appel des réfugiés;
 	- **b)** de l’alinéa (1)d), de mettre fin à l’affaire en cours et d’annuler toute décision ne portant pas sur la demande initiale.
+> 2001, ch. 27, art. 104; 2019, ch. 29, art. 307.
+
 
 
 
@@ -3458,8 +3536,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Elle n’est pas admise à demander la protection dans les cas suivants :
 	- **a)** elle est visée par un arrêté introductif d’instance pris au titre de l’article 15 de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md);
 	- **b)** sa demande d’asile a été jugée irrecevable au titre de l’alinéa 101(1)e);
-	- **b.1)** sous réserve du paragraphe (2.1), moins de douze mois ou, dans le cas d’un ressortissant d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1), moins de trente-six mois se sont écoulés depuis le dernier rejet de sa demande d’asile — sauf s’il s’agit d’un rejet prévu au paragraphe 109(3) ou d’un rejet pour un motif prévu à la section E ou F de l’article premier de la Convention — ou le dernier prononcé du désistement ou du retrait de la demande par la Section de la protection des réfugiés ou la Section d’appel des réfugiés;
-	- **c)** sous réserve du paragraphe (2.1), moins de douze mois ou, dans le cas d’un ressortissant d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1), moins de 36 mois se sont écoulés depuis le rejet de sa dernière demande de protection ou le prononcé du retrait ou du désistement de cette demande par la Section de la protection des réfugiés ou le ministre.
+	- **b.1)** sous réserve du paragraphe (2.1), moins de douze mois ou, dans le cas d’un ressortissant d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1), moins de trente-six mois se sont écoulés depuis, selon le cas :
+		- **(i)** le rejet de sa demande d’asile — sauf s’il s’agit d’un rejet prévu au paragraphe 109(3) ou d’un rejet pour un motif prévu aux sections E ou F de l’article premier de la Convention — ou le prononcé de son désistement ou de son retrait par la Section de la protection des réfugiés, en l’absence d’appel et de demande d’autorisation de contrôle judiciaire,
+		- **(ii)** dans tout autre cas, la dernière des éventualités ci-après à survenir :
+			- **(A)** le rejet de la demande d’asile — sauf s’il s’agit d’un rejet prévu au paragraphe 109(3) ou d’un rejet pour un motif prévu aux sections E ou F de l’article premier de la Convention — ou le prononcé de son désistement ou de son retrait par la Section de la protection des réfugiés ou, en cas de pluralité de rejets ou de prononcés, le plus récent à survenir,
+			- **(B)** son rejet — sauf s’il s’agit d’un rejet pour un motif prévu aux sections E ou F de l’article premier de la Convention — ou le prononcé de son désistement ou de son retrait par la Section d’appel des réfugiés ou, en cas de pluralité de rejets ou de prononcés, le plus récent à survenir,
+			- **(C)** le refus de l’autorisation de contrôle judiciaire ou le rejet de la demande de contrôle judiciaire par la Cour fédérale à l’égard de la demande d’asile — sauf s’il s’agit d’un rejet de cette demande prévu au paragraphe 109(3) ou d’un rejet de celle-ci pour un motif prévu aux sections E ou F de l’article premier de la Convention;
+	- **c)** sous réserve du paragraphe (2.1), moins de douze mois ou, dans le cas d’un ressortissant d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1), moins de 36 mois se sont écoulés depuis, selon le cas :
+		- **(i)** le rejet de sa demande de protection ou le prononcé du désistement ou du retrait de celle-ci par le ministre, en l’absence de demande d’autorisation de contrôle judiciaire,
+		- **(ii)** dans tout autre cas, la dernière des éventualités ci-après à survenir :
+			- **(A)** le rejet de la demande de protection ou le prononcé de son désistement ou de son retrait par le ministre ou, en cas de pluralité de rejets ou de prononcés, le plus récent à survenir,
+			- **(B)** le refus de l’autorisation de contrôle judiciaire ou le rejet de la demande de contrôle judiciaire par la Cour fédérale à l’égard de la demande de protection.
 	- **d)** [Abrogé, 2012, ch. 17, art. 38]
 
 **Exemption**
@@ -3484,7 +3571,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** il est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans ou pour toute déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
 	- **c)** il a été débouté de sa demande d’asile au titre de la section F de l’article premier de la Convention sur les réfugiés;
 	- **d)** il est nommé au certificat visé au paragraphe 77(1).
-> 2001, ch. 27, art. 112; 2010, ch. 8, art. 15; 2012, ch. 17, art. 38, 60 et 84; 2015, ch. 3, art. 114(A).
+> 2001, ch. 27, art. 112; 2010, ch. 8, art. 15; 2012, ch. 17, art. 38, 60 et 84; 2015, ch. 3, art. 114(A); 2019, ch. 29, art. 308.
 
 
 
@@ -3503,6 +3590,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** celui qui est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans et pour laquelle soit un emprisonnement de moins de deux ans a été infligé, soit aucune peine d’emprisonnement n’a été imposée,
 	- **(ii)** celui qui est interdit de territoire pour grande criminalité pour déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans, sauf s’il a été conclu qu’il est visé à la section F de l’article premier de la Convention sur les réfugiés.
 > 2001, ch. 27, art. 113; 2012, ch. 17, art. 39.
+
+
+
+
+
+**Audience obligatoire**
+
+**113.01** À moins que la demande de protection ne soit accueillie sans la tenue d’une audience, une audience est obligatoire, malgré l’alinéa 113b), dans le cas où le demandeur a fait une demande d’asile qui a été jugée irrecevable au seul titre de l’alinéa 101(1)c.1).
+> 2019, ch. 29, art. 308.1.
 
 
 
