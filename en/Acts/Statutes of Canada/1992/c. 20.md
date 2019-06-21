@@ -55,6 +55,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***day parole*** has the same meaning as in Part II; (*semi-liberté*)
 
+***Indigenous***, in respect of a person, includes a First Nation person, an Inuit or a Métis person; (*autochtone*)
+
 ***inmate*** means
 - **(a)** a person who is in a penitentiary pursuant to
 	- **(i)** a sentence, committal or transfer to penitentiary, or
@@ -68,6 +70,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***intoxicant*** means a substance that, if taken into the body, has the potential to impair or alter judgment, behaviour or the capacity to recognize reality or meet the ordinary demands of life, but does not include caffeine, nicotine or any authorized medication used in accordance with directions given by a staff member or a registered health care professional; (*substance intoxicante*)
 
 ***long-term supervision*** means long-term supervision ordered under subsection 753(4), 753.01(5) or (6) or 753.1(3) or subparagraph 759(3)(a)(i) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*surveillance de longue durée*)
+
+***mental health assessment*** means an assessment of the mental health of a person conducted by a medical professional with recognized specialty training in mental health diagnosis and treatment, such as a psychiatrist, psychologist or psychiatric nurse or a primary care physician who has had psychiatric training. (*évaluation de la santé mentale*)
 
 ***Minister*** means the Minister of Public Safety and Emergency Preparedness; (*ministre*)
 
@@ -124,7 +128,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(4)** For the purposes of this Act, an individual is not a victim, or entitled to act on a victim’s behalf, in relation to an offence, if the individual is the offender.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, ss. 52, 160, 196; 2015, c. 13, s. 45
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, ss. 52, 160, 196; 2015, c. 13, s. 452019, c. 27, s. 1
 
 
 
@@ -166,17 +170,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **4** The principles that guide the Service in achieving the purpose referred to in section 3 are as follows:
 - **(a)** the sentence is carried out having regard to all relevant available information, including the stated reasons and recommendations of the sentencing judge, the nature and gravity of the offence, the degree of responsibility of the offender, information from the trial or sentencing process, the release policies of and comments from the Parole Board of Canada and information obtained from victims, offenders and other components of the criminal justice system;
 - **(b)** the Service enhances its effectiveness and openness through the timely exchange of relevant information with victims, offenders and other components of the criminal justice system and through communication about its correctional policies and programs to victims, offenders and the public;
-- **(c)** the Service uses measures that are consistent with the protection of society, staff members and offenders and that are limited to only what is necessary and proportionate to attain the purposes of this Act;
+- **(c)** the Service uses the least restrictive measures consistent with the protection of society, staff members and offenders;
+- **(c.1)** the Service considers alternatives to custody in a penitentiary, including the alternatives referred to in sections 29 and 81;
+- **(c.2)** the Service ensures the effective delivery of programs to offenders, including correctional, educational, vocational training and volunteer programs, with a view to improving access to alternatives to custody in a penitentiary and to promoting rehabilitation;
 - **(d)** offenders retain the rights of all members of society except those that are, as a consequence of the sentence, lawfully and necessarily removed or restricted;
 - **(e)** the Service facilitates the involvement of members of the public in matters relating to the operations of the Service;
 - **(f)** correctional decisions are made in a forthright and fair manner, with access by the offender to an effective grievance procedure;
-- **(g)** correctional policies, programs and practices respect gender, ethnic, cultural and linguistic differences and are responsive to the special needs of women, aboriginal peoples, persons requiring mental health care and other groups;
+- **(g)** correctional policies, programs and practices respect gender, ethnic, cultural, religious and linguistic differences, sexual orientation and gender identity and expression, and are responsive to the special needs of women, Indigenous persons, visible minorities, persons requiring mental health care and other groups;
 - **(h)** offenders are expected to obey penitentiary rules and conditions governing temporary absences, work release, parole, statutory release and long-term supervision and to actively participate in meeting the objectives of their correctional plans, including by participating in programs designed to promote their rehabilitation and reintegration; and
 - **(i)** staff members are properly selected and trained and are given
 	- **(i)** appropriate career development opportunities,
 	- **(ii)** good working conditions, including a workplace environment that is free of practices that undermine a person’s sense of personal dignity, and
 	- **(iii)** opportunities to participate in the development of correctional policies and programs.
-> 1992, c. 20, s. 4; 1995, c. 42, s. 2(F); 2012, c. 1, ss. 54, 160
+> 1992, c. 20, s. 4; 1995, c. 42, s. 2(F); 2012, c. 1, ss. 54, 1602019, c. 27, s. 2
 
 
 
@@ -522,14 +528,31 @@ the institutional head may authorize a work release, for such duration as is fix
 
 - **(1)** Where an inmate dies or suffers serious bodily injury, the Service shall, whether or not there is an investigation under section 20, forthwith investigate the matter and report thereon to the Commissioner or to a person designated by the Commissioner.
 
-**Medical assistance in dying**
+**Exceptions**
 
-- **(1.1)** Subsection (1) does not apply to a death that results from an inmate receiving ***medical assistance in dying***, as defined in section 241.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in accordance with section 241.2 of that Act.
+- **(1.1)** Subsection (1) does not apply to
+	- **(a)** a death that results from an inmate receiving medical assistance in dying, as defined in section 241.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in accordance with section 241.2 of that Act; or
+	- **(b)** if a registered health care professional advises the Service in writing that the registered health care professional has reasonable grounds to believe that an inmate’s death is from a natural cause.
 
 **Copy to Correctional Investigator**
 
 - **(2)** The Service shall give the Correctional Investigator, as defined in Part III, a copy of its report referred to in subsection (1).
-> 1992, c. 20, s. 19; 2016, c. 3, s. 8
+> 1992, c. 20, s. 19; 2016, c. 3, s. 82019, c. 27, s. 4
+
+
+
+
+
+**Quality of care review**
+
+**19.1** 
+
+- **(1)** If a registered health care professional advises the Service in writing that the registered health care professional has reasonable grounds to believe that the death of an inmate is from a natural cause, the Service shall, whether or not there is an investigation under section 20, without delay, cause a review to be conducted by a registered health care professional employed or engaged by the Service for the purpose of determining the quality of care provided to the inmate in the penitentiary. The registered health care professional shall report on the review to the Commissioner or to a person designated by the Commissioner.
+
+**Copy to Correctional Investigator**
+
+- **(2)** The Service shall give the Correctional Investigator, as defined in Part III, a copy of its report referred to in subsection (1).
+> 2019, c. 27, s. 5
 
 
 
@@ -756,7 +779,7 @@ the Commissioner may authorize the withholding from the offender of as much info
 
 **Criteria for selection of penitentiary**
 
-**28** If a person is or is to be confined in a penitentiary, the Service shall take all reasonable steps to ensure that the penitentiary in which they are confined is one that provides them with an environment that contains only the necessary restrictions, taking into account
+**28** If a person is or is to be confined in a penitentiary, the Service shall take all reasonable steps to ensure that the penitentiary in which they are confined is one that provides them with the least restrictive environment for that person, taking into account
 - **(a)** the degree and kind of custody and control necessary for
 	- **(i)** the safety of the public,
 	- **(ii)** the safety of that person and other persons in the penitentiary, and
@@ -766,7 +789,7 @@ the Commissioner may authorize the withholding from the offender of as much info
 	- **(ii)** a compatible cultural environment, and
 	- **(iii)** a compatible linguistic environment; and
 - **(c)** the availability of appropriate programs and services and the person’s willingness to participate in those programs.
-> 1992, c. 20, s. 28; 2012, c. 1, s. 58
+> 1992, c. 20, s. 28; 2012, c. 1, s. 582019, c. 27, s. 6
 
 
 
@@ -787,6 +810,15 @@ the Commissioner may authorize the withholding from the offender of as much info
 
 
 
+**Commissioner to classify penitentiaries or areas**
+
+**29.1** The Commissioner may assign the security classification of “minimum security”, “medium security”, “maximum security” or “multi-level security”, or any other prescribed security classification, to each penitentiary or to any area in a penitentiary.
+> 2019, c. 27, s. 8
+
+
+
+
+
 **Service to classify each inmate**
 
 **30** 
@@ -804,7 +836,7 @@ the Commissioner may authorize the withholding from the offender of as much info
 **Commissioner to give reasons**
 
 - **(4)** The Commissioner or the staff member designated by the Commissioner shall give each inmate reasons, in writing, for assigning them to a subclassification or for changing that subclassification.
-> 1992, c. 20, s. 30; 2012, c. 1, s. 59
+> 1992, c. 20, s. 30; 2012, c. 1, s. 592019, c. 27, s. 9(F)
 
 
 
@@ -1093,7 +1125,7 @@ in accordance with any applicable regulations made under paragraph 96(l); (*fo
 	- **(a)** the conducting of such searches is provided for in the contract but does not constitute the person’s principal services under the contract;
 	- **(b)** the searches are reasonably related to the person’s principal services under the contract; and
 	- **(c)** the person has received the prescribed training to conduct such searches.
-> 1992, c. 20, s. 47; 1995, c. 42, s. 14(F)
+> 1992, c. 20, s. 47; 1995, c. 42, s. 14(F)2019, c. 27, s. 13(F)
 
 
 
@@ -1253,6 +1285,8 @@ the institutional head may authorize in writing such a search, subject to subsec
 **Routine non-intrusive or frisk searches**
 
 **59** A staff member may conduct routine non-intrusive searches or routine frisk searches of visitors, without individualized suspicion, in the prescribed circumstances, which circumstances must be limited to what is reasonably required for security purposes.
+> 1992, c. 20, s. 592019, c. 27, s. 17(F)
+
 
 
 
@@ -1315,7 +1349,7 @@ the institutional head may authorize a staff member of the same sex as the visit
 - **(4)** An institutional head may, in writing, authorize a staff member to search the vehicles at a penitentiary if the institutional head has reasonable grounds to believe that
 	- **(a)** there is a clear and substantial danger to the security of the penitentiary or the life or safety of persons because evidence exists that there is contraband at the penitentiary or that a criminal offence is being planned or has been committed at the penitentiary; and
 	- **(b)** it is necessary to search the vehicles in order to locate and seize the contraband or other evidence and to avert the danger.
-> 1992, c. 20, s. 61; 2012, c. 1, s. 65
+> 1992, c. 20, s. 61; 2012, c. 1, s. 652019, c. 27, s. 19(F)
 
 
 
@@ -1339,6 +1373,8 @@ the institutional head may authorize a staff member of the same sex as the visit
 **Routine non-intrusive or frisk searches**
 
 **63** A staff member may conduct routine non-intrusive searches or routine frisk searches of other staff members, without individualized suspicion, in the prescribed circumstances, which circumstances must be limited to what is reasonably required for security purposes.
+> 1992, c. 20, s. 632019, c. 27, s. 20(F)
+
 
 
 
@@ -1547,26 +1583,50 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 
 
-### Aboriginal Offenders
+### Indigenous Offenders
 
 
 
 **Definitions**
 
-**79** In sections 80 to 84,
+**79** In sections 79.1 to 84.1,
 
-***aboriginal*** means Indian, Inuit or Métis; (*autochtone*)
+***correctional services*** means services or programs for offenders, including their care, custody and supervision. (*services correctionnels*)
 
-***aboriginal community*** means a first nation, tribal council, band, community, organization or other group with a predominantly aboriginal leadership; (*collectivité autochtone*)
+***Indigenous governing body*** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the Constitution Act, 1982. (*corps dirigeant autochtone*)
 
-***correctional services*** means services or programs for offenders, including their care and custody. (*services correctionnels*)
+***Indigenous organization*** means an organization with predominately Indigenous leadership. (*organisme autochtone*)
+
+***Indigenous peoples of Canada*** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the Constitution Act, 1982.‍ (*peuples autochtones du Canada*)
+> 1992, c. 20, s. 792019, c. 27, s. 23
+
+
+
+
+
+**Factors to be considered**
+
+**79.1** 
+
+- **(1)** In making decisions under this Act affecting an Indigenous offender, the Service shall take the following into consideration:
+	- **(a)** systemic and background factors affecting Indigenous peoples of Canada;
+	- **(b)** systemic and background factors that have contributed to the overrepresentation of Indigenous persons in the criminal justice system and that may have contributed to the offender’s involvement in the criminal justice system; and
+	- **(c)** the Indigenous culture and identity of the offender, including his or her family and adoption history.
+
+**Exception — risk assessment**
+
+- **(2)** The factors described in paragraphs (1)(a) to (c) are not to be taken into consideration for decisions respecting the assessment of the risk posed by an Indigenous offender unless those factors could decrease the level of risk.
+> 2019, c. 27, s. 23
+
 
 
 
 
 **Programs**
 
-**80** Without limiting the generality of section 76, the Service shall provide programs designed particularly to address the needs of aboriginal offenders.
+**80** Without limiting the generality of section 76, the Service shall provide programs designed particularly to address the needs of Indigenous offenders.
+> 1992, c. 20, s. 802019, c. 27, s. 23
+
 
 
 
@@ -1575,16 +1635,16 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 **81** 
 
-- **(1)** The Minister, or a person authorized by the Minister, may enter into an agreement with an aboriginal community for the provision of correctional services to aboriginal offenders and for payment by the Minister, or by a person authorized by the Minister, in respect of the provision of those services.
+- **(1)** The Minister, or a person authorized by the Minister, may enter into an agreement with an Indigenous governing body or any Indigenous organization for the provision of correctional services to Indigenous offenders and for payment by the Minister, or by a person authorized by the Minister, in respect of the provision of those services.
 
 **Scope of agreement**
 
-- **(2)** Notwithstanding subsection (1), an agreement entered into under that subsection may provide for the provision of correctional services to a non-aboriginal offender.
+- **(2)** Notwithstanding subsection (1), an agreement entered into under that subsection may provide for the provision of correctional services to a non-Indigenous offender.
 
 **Placement of offender**
 
-- **(3)** In accordance with any agreement entered into under subsection (1), the Commissioner may transfer an offender to the care and custody of an aboriginal community, with the consent of the offender and of the aboriginal community.
-> 1992, c. 20, s. 81; 1995, c. 42, s. 21(F)
+- **(3)** In accordance with any agreement entered into under subsection (1), the Commissioner may transfer an offender to the care and custody of an appropriate Indigenous authority, with the consent of the offender and of the appropriate Indigenous authority.
+> 1992, c. 20, s. 81; 1995, c. 42, s. 21(F)2019, c. 27, s. 24
 
 
 
@@ -1594,11 +1654,13 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 **82** 
 
-- **(1)** The Service shall establish a National Aboriginal Advisory Committee, and may establish regional and local aboriginal advisory committees, which shall provide advice to the Service on the provision of correctional services to aboriginal offenders.
+- **(1)** The Service shall establish a national Indigenous advisory committee, and may establish regional and local Indigenous advisory committees, which shall provide advice to the Service on the provision of correctional services to Indigenous offenders.
 
 **Committees to consult**
 
-- **(2)** For the purpose of carrying out their function under subsection (1), all committees shall consult regularly with aboriginal communities and other appropriate persons with knowledge of aboriginal matters.
+- **(2)** For the purpose of carrying out their function under subsection (1), all committees shall consult regularly with Indigenous communities, Indigenous governing bodies, Indigenous organizations and other appropriate persons with knowledge of Indigenous matters.
+> 1992, c. 20, s. 822019, c. 27, s. 25
+
 
 
 
@@ -1607,34 +1669,40 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 **83** 
 
-- **(1)** For greater certainty, aboriginal spirituality and aboriginal spiritual leaders and elders have the same status as other religions and other religious leaders.
+- **(1)** For greater certainty, Indigenous spirituality and Indigenous spiritual leaders and elders have the same status as other religions and other religious leaders.
 
-**Idem**
+**Advice**
 
-- **(2)** The Service shall take all reasonable steps to make available to aboriginal inmates the services of an aboriginal spiritual leader or elder after consultation with
-	- **(a)** the National Aboriginal Advisory Committee mentioned in section 82; and
-	- **(b)** the appropriate regional and local aboriginal advisory committees, if such committees have been established pursuant to that section.
+- **(1.1)** If the Service considers it appropriate in the circumstance, it shall seek advice from an Indigenous spiritual leader or elder when providing correctional services to an Indigenous inmate, particularly in matters of mental health and behaviour.
+
+**Obligation**
+
+- **(2)** The Service shall take all reasonable steps to make available to Indigenous inmates the services of an Indigenous spiritual leader or elder after consultation with
+	- **(a)** the national Indigenous advisory committee established under section 82; and
+	- **(b)** the appropriate regional and local Indigenous advisory committees.
+> 1992, c. 20, s. 832019, c. 27, s. 25
 
 
 
 
-**Release to aboriginal community**
 
-**84** If an inmate expresses an interest in being released into an aboriginal community, the Service shall, with the inmate’s consent, give the aboriginal community
+**Release into Indigenous community**
+
+**84** If an inmate expresses an interest in being released into an Indigenous community, the Service shall, with the inmate’s consent, give the community’s Indigenous governing body
 - **(a)** adequate notice of the inmate’s parole review or their statutory release date, as the case may be; and
 - **(b)** an opportunity to propose a plan for the inmate’s release and integration into that community.
-> 1992, c. 20, s. 84; 2012, c. 1, s. 66
+> 1992, c. 20, s. 84; 2012, c. 1, s. 662019, c. 27, s. 25
 
 
 
 
 
-**Plans with respect to long-term supervision**
+**Plans – long-term supervision**
 
-**84.1** Where an offender who is required to be supervised by a long-term supervision order has expressed an interest in being supervised in an aboriginal community, the Service shall, if the offender consents, give the aboriginal community
+**84.1** If an offender who is required to be supervised by a long-term supervision order has expressed an interest in being supervised in an Indigenous community, the Service shall, with the offender’s consent, give the community’s Indigenous governing body
 - **(a)** adequate notice of the order; and
-- **(b)** an opportunity to propose a plan for the offender’s release on supervision, and integration, into the aboriginal community.
-> 1997, c. 17, s. 15
+- **(b)** an opportunity to propose a plan for the offender’s release on supervision, and integration, into that community.
+> 1997, c. 17, s. 152019, c. 27, s. 25
 
 
 
@@ -1648,11 +1716,13 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 **85** In sections 86 and 87,
 
-***health care*** means medical care, dental care and mental health care, provided by registered health care professionals; (*soins de santé*)
+***health care*** means medical care, dental care and mental health care, provided by registered health care professionals or by persons acting under the supervision of registered health care professionals; (*soins de santé*)
 
 ***mental health care*** means the care of a disorder of thought, mood, perception, orientation or memory that significantly impairs judgment, behaviour, the capacity to recognize reality or the ability to meet the ordinary demands of life; (*soins de santé mentale*)
 
 ***treatment*** means health care treatment. (***Version anglaise seulement***)
+> 1992, c. 20, s. 852019, c. 27, s. 26
+
 
 
 
@@ -1663,11 +1733,13 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 - **(1)** The Service shall provide every inmate with
 	- **(a)** essential health care; and
-	- **(b)** reasonable access to non-essential mental health care that will contribute to the inmate’s rehabilitation and successful reintegration into the community.
+	- **(b)** reasonable access to non-essential health care.
 
 **Standards**
 
 - **(2)** The provision of health care under subsection (1) shall conform to professionally accepted standards.
+> 1992, c. 20, s. 862019, c. 27, s. 27
+
 
 
 
@@ -1907,7 +1979,7 @@ shall be carried out;
 - **(z.10)** imposing obligations or prohibitions on the Service for the purpose of giving effect to any provision of this Part;
 - **(z.11)** prescribing anything that by this Part is to be prescribed; and
 - **(z.12)** generally for carrying out the purposes and provisions of this Part.
-> 1992, c. 20, s. 96; 1995, c. 42, ss. 25, 72(F); 2012, c. 1, s. 69; 2014, c. 36, s. 2(F)
+> 1992, c. 20, s. 96; 1995, c. 42, ss. 25, 72(F); 2012, c. 1, s. 69; 2014, c. 36, s. 2(F)2019, c. 27, s. 31(F)
 
 
 
@@ -1969,6 +2041,8 @@ shall be carried out;
 
 ***full parole*** means the authority granted to an offender by the Board or a provincial parole board to be at large during the offender’s sentence; (*libération conditionnelle totale*)
 
+***Indigenous*** has the same meaning as in Part I; (*autochtone*)
+
 ***institutional head*** has the same meaning as in Part I; (***Version anglaise seulement***)
 
 ***long-term supervision*** has the same meaning as in Part I; (*surveillance de longue durée*)
@@ -1989,7 +2063,7 @@ but does not include a person whose only sentence is a sentence being served int
 
 ***penitentiary*** has the same meaning as in Part I; (*pénitencier*)
 
-***provincial parole board*** means the Ontario Board of Parole, la Commission québécoise des libérations conditionnelles, the Board of Parole for the Province of British Columbia or any other parole board established by the legislature or the lieutenant governor in council of a province; (*commission provinciale*)
+***provincial parole board*** means the Ontario Board of Parole, la Commission québécoise des libérations conditionnelles or any other parole board established by the legislature or the lieutenant governor in council of a province; (*commission provinciale*)
 
 ***regulations*** means regulations made by the Governor in Council pursuant to section 156; (*règlement* ou *réglementaire*)
 
@@ -2021,7 +2095,7 @@ but does not include a person whose only sentence is a sentence being served int
 - **(3)** Except as otherwise provided by this Part or by the regulations,
 	- **(a)** powers, duties and functions assigned to the Commissioner by or pursuant to this Part may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions assigned to the institutional head by or pursuant to this Part may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173; 2003, c. 22, s. 155; 2012, c. 1, ss. 70, 160, 197
+> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173; 2003, c. 22, s. 155; 2012, c. 1, ss. 70, 160, 1972019, c. 27, s. 32
 
 
 
@@ -2070,10 +2144,10 @@ but does not include a person whose only sentence is a sentence being served int
 **101** The principles that guide the Board and the provincial parole boards in achieving the purpose of conditional release are as follows:
 - **(a)** parole boards take into consideration all relevant available information, including the stated reasons and recommendations of the sentencing judge, the nature and gravity of the offence, the degree of responsibility of the offender, information from the trial or sentencing process and information obtained from victims, offenders and other components of the criminal justice system, including assessments provided by correctional authorities;
 - **(b)** parole boards enhance their effectiveness and openness through the timely exchange of relevant information with victims, offenders and other components of the criminal justice system and through communication about their policies and programs to victims, offenders and the general public;
-- **(c)** parole boards make decisions that are consistent with the protection of society and that are limited to only what is necessary and proportionate to the purpose of conditional release;
+- **(c)** parole boards make the least restrictive determinations that are consistent with the protection of society;
 - **(d)** parole boards adopt and are guided by appropriate policies and their members are provided with the training necessary to implement those policies; and
 - **(e)** offenders are provided with relevant information, reasons for decisions and access to the review of decisions in order to ensure a fair and understandable conditional release process.
-> 1992, c. 20, s. 101; 2012, c. 1, s. 71
+> 1992, c. 20, s. 101; 2012, c. 1, s. 712019, c. 27, s. 32.1
 
 
 
@@ -2333,7 +2407,7 @@ but does not include a person whose only sentence is a sentence being served int
 
 - **(1)** The Board may authorize the unescorted temporary absence of an offender referred to in paragraph 107(1)(e) where, in the opinion of the Board,
 	- **(a)** the offender will not, by reoffending, present an undue risk to society during the absence;
-	- **(b)** it is desirable for the offender to be absent from penitentiary for medical, administrative, community service, family contact, personal development for rehabilitative purposes, or compassionate reasons, including parental responsibilities;
+	- **(b)** it is desirable for the offender to be absent from the penitentiary for medical, administrative, community service, family contact, including parental responsibilities, personal development for rehabilitative purposes or compassionate reasons;
 	- **(c)** the offender’s behaviour while under sentence does not preclude authorizing the absence; and
 	- **(d)** a structured plan for the absence has been prepared.
 
@@ -2375,7 +2449,7 @@ but does not include a person whose only sentence is a sentence being served int
 	- **(a)** where the cancellation is considered necessary and reasonable to prevent a breach of a condition of the absence or where such a breach has occurred;
 	- **(b)** where the grounds for granting the absence have changed or no longer exist; or
 	- **(c)** after a review of the offender’s case based on information that could not reasonably have been provided when the absence was authorized.
-> 1992, c. 20, s. 116; 1993, c. 34, s. 58(F); 1995, c. 42, ss. 32(F), 71(F)
+> 1992, c. 20, s. 116; 1993, c. 34, s. 58(F); 1995, c. 42, ss. 32(F), 71(F)2019, c. 27, s. 33(E)
 
 
 
@@ -2905,7 +2979,7 @@ make an interim review of the case during the three days following the day on wh
 	- **(xiii)** subsection 286.3(2) (procuring — person under 18 years);
 - **(b)** an offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) involving a person under the age of eighteen years that was prosecuted by way of indictment, namely,
 	- **(i)** section 155 (incest),
-	- **(ii)** section 159 (anal intercourse),
+	- **(ii)** [Repealed, 2019, c. 25, s. 394]
 	- **(iii)** subsections 160(1) and (2) (bestiality and compelling bestiality),
 	- **(iv)** section 271 (sexual assault),
 	- **(v)** section 272 (sexual assault with a weapon, threats to a third party or causing bodily harm), and
@@ -2931,7 +3005,7 @@ make an interim review of the case during the three days following the day on wh
 **Determination of likelihood of offence**
 
 - **(10)** In determining whether an offender is likely to commit an offence causing death or serious harm to another person, a sexual offence involving a child or a serious drug offence, it is not necessary to determine whether the offender is likely to commit any particular offence.
-> 1992, c. 20, s. 129; 1995, c. 42, s. 44; 1998, c. 35, s. 117; 2012, c. 1, s. 84; 2014, c. 25, s. 41
+> 1992, c. 20, s. 129; 1995, c. 42, s. 44; 1998, c. 35, s. 117; 2012, c. 1, s. 84; 2014, c. 25, s. 412019, c. 25, s. 394
 
 
 
@@ -3578,12 +3652,14 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Audio recording**
 
-- **(13)** Subject to any conditions specified by the Board, a victim, or a person referred to in subsection 142(3), who does not attend a hearing in respect of a review referred to in paragraph (1)(a) or (b) as an observer is entitled, after the hearing, on request, to listen to an audio recording of the hearing, other than portions of the hearing that the Board considers could reasonably be expected to jeopardize the safety of any person or to reveal a source of information obtained in confidence.
+- **(13)** Subject to any conditions specified by the Board, a victim, or a person referred to in subsection 142(3), is entitled, on request, after a hearing in respect of a review referred to in paragraph (1)(a) or (b), to listen to an audio recording of the hearing, other than portions of the hearing that the Board considers
+	- **(a)** could reasonably be expected to jeopardize the safety of any person or reveal a source of information obtained in confidence; or
+	- **(b)** should not be heard by the victim or a person referred to in subsection 142(3) because the privacy interests of any person clearly outweighs the interest of the victim or person referred to in that subsection.
 
 **Access to information**
 
 - **(14)** If an observer has been present during a hearing or a victim or a person has exercised their right under subsection (13), any information or documents discussed or referred to during the hearing shall not for that reason alone be considered to be publicly available for purposes of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) or the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
-> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96, c. 19, s. 527; 2015, c. 11, s. 4, c. 13, s. 49
+> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96, c. 19, s. 527; 2015, c. 11, s. 4, c. 13, s. 492019, c. 27, s. 34
 
 
 
@@ -3915,12 +3991,12 @@ the Board may withhold from the offender as much information as is strictly nece
 
 **Respect for diversity**
 
-- **(3)** Policies adopted under paragraph (2)(a) must respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and aboriginal peoples, as well as to the needs of other groups of offenders with special requirements.
+- **(3)** Policies adopted under paragraph (2)(a) must respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and of Indigenous persons, as well as to the needs of other groups of offenders with special requirements.
 
 **Chair**
 
 - **(4)** Meetings of the Executive Committee shall be chaired by the Chairperson.
-> 1992, c. 20, s. 151; 1995, c. 42, s. 58(F)
+> 1992, c. 20, s. 151; 1995, c. 42, s. 58(F)2019, c. 27, s. 35
 
 
 
@@ -4810,10 +4886,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 
 
 
-
-**Administrative segregation, discipline**
-
-**220** All matters relating to administrative segregation and disciplinary offences shall, on the coming into force of section 214, be dealt with in accordance with Part I of this Act.
+**220** [Repealed, 2019, c. 27, s. 36]
 
 
 
@@ -5012,7 +5085,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(a.8)** section 83.2 (commission of offence for terrorist group);
 - **(a.9)** section 83.21 (instructing to carry out activity for terrorist group);
 - **(a.91)** section 83.22 (instructing to carry out terrorist activity);
-- **(a.92)** subsection 83.221(1) (advocating or promoting commission of terrorism offences);
+- **(a.92)** section 83.221 (counselling commission of terrorism offence);
 - **(b)** subsection 85(1) (using firearm in commission of offence);
 - **(b.1)** subsection 85(2) (using imitation firearm in commission of offence);
 - **(c)** section 87 (pointing a firearm);
@@ -5024,7 +5097,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(g)** section 153 (sexual exploitation);
 - **(g.1)** section 153.1 (sexual exploitation of person with disability);
 - **(h)** section 155 (incest);
-- **(i)** section 159 (anal intercourse);
+- **(i)** [Repealed, 2019, c. 25, s. 395]
 - **(j)** section 160 (bestiality, compelling, in presence of or by child);
 - **(j.1)** section 163.1 (child pornography);
 - **(k)** section 170 (parent or guardian procuring sexual activity by child);
@@ -5140,7 +5213,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(d)** section 7 (breach of responsibility committed outside Canada by military commanders or other superiors).
 
 
-> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104; 2014, c. 25, s. 42; 2015, c. 20, s. 30; 2018, c. 21, ss. 48 to 50
+> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104; 2014, c. 25, s. 42; 2015, c. 20, s. 30; 2018, c. 21, ss. 48 to 502019, c. 13, s. 1582019, c. 25, s. 395
 
 
 
