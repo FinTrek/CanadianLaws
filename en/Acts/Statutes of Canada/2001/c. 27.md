@@ -76,6 +76,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** to see that families are reunited in Canada;
 	- **(e)** to promote the successful integration of permanent residents into Canada, while recognizing that integration involves mutual obligations for new immigrants and Canadian society;
 	- **(f)** to support, by means of consistent standards and prompt processing, the attainment of immigration goals established by the Government of Canada in consultation with the provinces;
+	- **(f.1)** to maintain, through the establishment of fair and efficient procedures, the integrity of the Canadian immigration system;
 	- **(g)** to facilitate the entry of visitors, students and temporary workers for purposes such as trade, commerce, tourism, international understanding and cultural, educational and scientific activities;
 	- **(h)** to protect public health and safety and to maintain the security of Canadian society;
 	- **(i)** to promote international justice and security by fostering respect for human rights and by denying access to Canadian territory to persons who are criminals or security risks; and
@@ -102,7 +103,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** ensures that decisions taken under this Act are consistent with the Canadian Charter of Rights and Freedoms, including its principles of equality and freedom from discrimination and of the equality of English and French as the official languages of Canada;
 	- **(e)** supports the commitment of the Government of Canada to enhance the vitality of the English and French linguistic minority communities in Canada; and
 	- **(f)** complies with international human rights instruments to which Canada is signatory.
-> 2001, c. 27, s. 3; 2012, c. 1, s. 205.
+> 2001, c. 27, s. 3; 2012, c. 1, s. 205; 2019, c. 29, s. 301.
 
 
 
@@ -905,9 +906,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** In applying subsection (1), the officer shall act in accordance with any instructions that the Minister may make.
 
+**Restriction — pending application for protection**
+
+- **(3.1)** A foreign national whose claim for refugee protection has been determined to be ineligible to be referred to the Refugee Protection Division may not request a temporary resident permit if they have made an application for protection to the Minister that is pending.
+
 **Restriction**
 
-- **(4)** A foreign national whose claim for refugee protection has been rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or the Refugee Appeal Division may not request a temporary resident permit if less than 12 months have passed since their claim was last rejected or determined to be withdrawn or abandoned.
+- **(4)** A foreign national whose claim for refugee protection has not been allowed may not request a temporary resident permit if less than 12 months have passed since
+	- **(a)** the day on which their claim was rejected or determined to be withdrawn or abandoned by the Refugee Protection Division, in the case where no appeal was made and no application was made to the Federal Court for leave to commence an application for judicial review; or
+	- **(b)** in any other case, the latest of
+		- **(i)** the day on which their claim was rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or, if there was more than one such rejection or determination, the day on which the last one occurred,
+		- **(ii)** the day on which their claim was rejected or determined to be withdrawn or abandoned by the Refugee Appeal Division or, if there was more than one such rejection or determination, the day on which the last one occurred, and
+		- **(iii)** the day on which the Federal Court refused their application for leave to commence an application for judicial review, or denied their application for judicial review, with respect to their claim.
 
 **Restriction — designated foreign national**
 
@@ -928,7 +938,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(7)** The officer may refuse to consider a request for a temporary resident permit if
 	- **(a)** the designated foreign national fails, without reasonable excuse, to comply with any condition imposed on them under subsection 58(4) or section 58.1 or any requirement imposed on them under section 98.1; and
 	- **(b)** less than 12 months have passed since the end of the applicable period referred to in subsection (5) or (6).
-> 2001, c. 27, s. 24; 2010, c. 8, s. 3; 2012, c. 17, s. 12.
+> 2001, c. 27, s. 24; 2010, c. 8, s. 3; 2012, c. 17, s. 12; 2019, c. 29, s. 302.
 
 
 
@@ -969,8 +979,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1.2)** The Minister may not examine the request if
 	- **(a)** the foreign national has already made such a request and the request is pending;
 	- **(a.1)** the request is for an exemption from any of the criteria or obligations of Division 0.1;
-	- **(b)** the foreign national has made a claim for refugee protection that is pending before the Refugee Protection Division or the Refugee Appeal Division; or
-	- **(c)** subject to subsection (1.21), less than 12 months have passed since the foreign national’s claim for refugee protection was last rejected, determined to be withdrawn after substantive evidence was heard or determined to be abandoned by the Refugee Protection Division or the Refugee Appeal Division.
+	- **(b)** the foreign national has made a claim for refugee protection that is pending before the Refugee Protection Division or the Refugee Appeal Division;
+	- **(b.1)** the foreign national made a claim for refugee protection that was determined to be ineligible to be referred to the Refugee Protection Division and they made an application for protection to the Minister that is pending; or
+	- **(c)** subject to subsection (1.21), less than 12 months have passed since
+		- **(i)** the day on which the foreign national’s claim for refugee protection was rejected or determined to be withdrawn — after substantive evidence was heard — or abandoned by the Refugee Protection Division, in the case where no appeal was made and no application was made to the Federal Court for leave to commence an application for judicial review, or
+		- **(ii)** in any other case, the latest of
+			- **(A)** the day on which the foreign national’s claim for refugee protection was rejected or determined to be withdrawn — after substantive evidence was heard — or abandoned by the Refugee Protection Division or, if there was more than one such rejection or determination, the day on which the last one occurred,
+			- **(B)** the day on which the foreign national’s claim for refugee protection was rejected or determined to be withdrawn — after substantive evidence was heard — or abandoned by the Refugee Appeal Division or, if there was more than one such rejection or determination, the day on which the last one occurred, and
+			- **(C)** the day on which the Federal Court refused the foreign national’s application for leave to commence an application for judicial review, or denied their application for judicial review, with respect to their claim for refugee protection.
 
 **Exception to paragraph (1.2)(c)**
 
@@ -985,7 +1001,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Provincial criteria**
 
 - **(2)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
-> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4; 2012, c. 17, s. 13; 2013, c. 16, ss. 9, 36, c. 40, s. 291.
+> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4; 2012, c. 17, s. 13; 2013, c. 16, ss. 9, 36, c. 40, s. 291; 2019, c. 29, s. 303.
 
 
 
@@ -2628,6 +2644,36 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+#### Applications for Temporary Resident Visas, Work Permits and Study Permits
+
+
+
+**Order in council**
+
+**87.31** 
+
+- **(1)** If the Governor in Council is of the opinion that the government of a foreign state or the competent authority of any other territory is unreasonably refusing to issue or unreasonably delaying the issuance of travel documents to citizens or nationals of that country or territory who are in Canada, the Governor in Council may make an order specifying one or more of the following:
+	- **(a)** applications for temporary resident visas, work permits or study permits, or any combination of those types of applications, made by any citizen or national of that foreign state or territory are not to be accepted for processing if they are received during the period or periods set out in the order or, if a period is not set out, during the period that the order is in force;
+	- **(b)** the processing of any of those types of applications, or any combination of them, made by any citizen or national of that foreign state or territory that are pending on the coming into force of the order or, if amended, the amendment, is to be suspended during the period or periods set out in the order or, if a period is not set out, during the period that the order is in force; or
+	- **(c)** the processing of any of those types of applications, or any combination of them, made by any citizen or national of that foreign state or territory that are pending on the coming into force of the order or, if amended, the amendment, is to be terminated.
+
+**Other elements of order**
+
+- **(2)** An order made under subsection (1) may
+	- **(a)** restrict the application of the order to applications, citizens or nationals within a class of applications, citizens or nationals that is specified in the order;
+	- **(b)** provide for the retention, return or other disposition of applications;
+	- **(c)** if the processing of applications is terminated, provide for the repayment of fees paid in respect of those applications; and
+	- **(d)** provide for any other matter arising out of or ancillary to the exercise of the power conferred under that subsection.
+
+**Clarification**
+
+- **(3)** The fact that an application is retained, returned or otherwise disposed of does not constitute a decision not to issue the visa or permit in relation to which the application is made.
+> 2019, c. 29, s. 304.
+
+
+
+
+
 #### Federal Skilled Workers
 
 
@@ -2873,13 +2919,40 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Penalties**
 
 - **(9)** Every person who contravenes subsection (1) commits an offence and is liable
-	- **(a)** on conviction on indictment, to a fine of not more than $100,000 or to imprisonment for a term of not more than two years, or to both; or
-	- **(b)** on summary conviction, to a fine of not more than $20,000 or to imprisonment for a term of not more than six months, or to both.
+	- **(a)** on conviction on indictment, to a fine of not more than $200,000 or to imprisonment for a term of not more than two years, or to both; or
+	- **(b)** on summary conviction, to a fine of not more than $40,000 or to imprisonment for a term of not more than six months, or to both.
 
 **Meaning of proceeding**
 
 - **(10)** For greater certainty, in this section, ***proceeding*** does not include a proceeding before a superior court.
-> 2001, c. 27, s. 91; 2011, c. 8, s. 1; 2013, c. 40, s. 292.
+> 2001, c. 27, s. 91; 2011, c. 8, s. 1; 2013, c. 40, s. 292; 2019, c. 29, s. 296.
+
+
+
+
+
+**Regulations**
+
+**91.1** 
+
+- **(1)** The regulations may
+	- **(a)** establish a system of administrative penalties and consequences — including of administrative monetary penalties — applicable to the violations designated in regulations made under paragraph (b) and set the amounts of those administrative monetary penalties;
+	- **(b)** designate as a violation the contravention — including a contravention committed outside Canada — of any specified provision of this Act or of the regulations by any person who, directly or indirectly, represents or advises a person for consideration — or offers to do so — in connection with the submission of an expression of interest under subsection 10.1(3) or a proceeding or application under this Act;
+	- **(c)** prohibit acts in relation to the activity of representing or advising — or offering to do so — described in paragraph (b); and
+	- **(d)** provide for the power to inspect — including the power to require documents to be provided by individuals and entities for inspection — for the purpose of verifying compliance with the provisions specified in regulations made under paragraph (b).
+
+**Right to request review**
+
+- **(2)** Any regulation made under paragraph (1)(a) must provide that a person referred to in any of subsections 91(2) to (4) who is the subject of a notice of violation has the right to request, from a person appointed under subsection (3), a review of the notice or of the penalty imposed.
+
+**Appointment — order**
+
+- **(3)** The Governor in Council may, by order, appoint one or more Canadian citizens or permanent residents to conduct reviews in respect of notices of violation issued, or penalties imposed, under a regulation made under paragraph (1)(a) and to perform any other function conferred on them by a regulation made under that paragraph.
+
+**Tenure**
+
+- **(4)** A person appointed by order under subsection (3) holds office during good behaviour for a term that the Governor in Council may specify, by order, but may be removed for cause by the Governor in Council at any time.
+> 2019, c. 29, s. 297.
 
 
 
@@ -3083,7 +3156,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **100** 
 
-- **(1)** An officer shall, within three working days after receipt of a claim referred to in subsection 99(3), determine whether the claim is eligible to be referred to the Refugee Protection Division and, if it is eligible, shall refer the claim in accordance with the rules of the Board.
+- **(1)** An officer shall, after receipt of a claim referred to in subsection 99(3), determine whether the claim is eligible to be referred to the Refugee Protection Division and, if it is eligible, shall refer the claim in accordance with the rules of the Board.
 
 **Burden of proof**
 
@@ -3097,7 +3170,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Consideration of claim**
 
-- **(3)** The Refugee Protection Division may not consider a claim until it is referred by the officer. If the claim is not referred within the three-day period referred to in subsection (1), it is deemed to be referred, unless there is a suspension or it is determined to be ineligible.
+- **(3)** The Refugee Protection Division may not consider a claim until it is referred by the officer.
 
 **Documents and information to be provided**
 
@@ -3110,7 +3183,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Quarantine Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2020.md)**
 
 - **(5)** If a traveller is detained or isolated under the [Quarantine Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2020.md), the period referred to in subsections (1) and (3) does not begin to run until the day on which the detention or isolation ends.
-> 2001, c. 27, s. 100; 2005, c. 20, s. 81; 2010, c. 8, s. 11; 2012, c. 17, s. 56.
+> 2001, c. 27, s. 100; 2005, c. 20, s. 81; 2010, c. 8, s. 11; 2012, c. 17, s. 56; 2019, c. 29, s. 305.
 
 
 
@@ -3124,6 +3197,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** refugee protection has been conferred on the claimant under this Act;
 	- **(b)** a claim for refugee protection by the claimant has been rejected by the Board;
 	- **(c)** a prior claim by the claimant was determined to be ineligible to be referred to the Refugee Protection Division, or to have been withdrawn or abandoned;
+	- **(c.1)** the claimant has, before making a claim for refugee protection in Canada, made a claim for refugee protection to a country other than Canada, and the fact of its having been made has been confirmed in accordance with an agreement or arrangement entered into by Canada and that country for the purpose of facilitating information sharing to assist in the administration and enforcement of their immigration and citizenship laws;
 	- **(d)** the claimant has been recognized as a Convention refugee by a country other than Canada and can be sent or returned to that country;
 	- **(e)** the claimant came directly or indirectly to Canada from a country designated by the regulations, other than a country of their nationality or their former habitual residence; or
 	- **(f)** the claimant has been determined to be inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality, except for persons who are inadmissible solely on the grounds of paragraph 35(1)(c).
@@ -3133,7 +3207,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** A claim is not ineligible by reason of serious criminality under paragraph (1)(f) unless
 	- **(a)** in the case of inadmissibility by reason of a conviction in Canada, the conviction is for an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years; or
 	- **(b)** in the case of inadmissibility by reason of a conviction outside Canada, the conviction is for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years.
-> 2001, c. 27, s. 101; 2012, c. 17, s. 34.
+> 2001, c. 27, s. 101; 2012, c. 17, s. 34; 2019, c. 29, s. 306.
 
 
 
@@ -3188,8 +3262,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **104** 
 
-- **(1)** An officer may, with respect to a claim that is before the Refugee Protection Division or, in the case of paragraph (d), that is before or has been determined by the Refugee Protection Division or the Refugee Appeal Division, give notice that an officer has determined that
-	- **(a)** the claim is ineligible under paragraphs 101(1)(a) to (e);
+- **(1)** An officer may, with respect to a claim that is before the Refugee Protection Division or, in the case of paragraph (a.1) or (d), that is before or has been determined by the Refugee Protection Division or the Refugee Appeal Division, give notice that an officer has determined that
+	- **(a)** the claim is ineligible under paragraphs 101(1)(a) to (e), other than paragraph 101(1)(c.1);
+	- **(a.1)** the claim is ineligible under paragraph 101(1)(c.1);
 	- **(b)** the claim is ineligible under paragraph 101(1)(f);
 	- **(c)** the claim was referred as a result of directly or indirectly misrepresenting or withholding material facts relating to a relevant matter and that the claim was not otherwise eligible to be referred to that Division; or
 	- **(d)** the claim is not the first claim that was received by an officer in respect of the claimant.
@@ -3197,8 +3272,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Termination and nullification**
 
 - **(2)** A notice given under the following provisions has the following effects:
-	- **(a)** if given under any of paragraphs (1)(a) to (c), it terminates pending proceedings in the Refugee Protection Division respecting the claim; and
+	- **(a)** if given under paragraph (1)(a), (b) or (c), it terminates pending proceedings in the Refugee Protection Division respecting the claim;
+	- **(a.1)** if given under paragraph (1)(a.1), it terminates pending proceedings in the Refugee Protection Division or, in the case of an appeal made by the claimant, the Refugee Appeal Division, respecting the claim; and
 	- **(b)** if given under paragraph (1)(d), it terminates proceedings in and nullifies any decision of the Refugee Protection Division or the Refugee Appeal Division respecting a claim other than the first claim.
+> 2001, c. 27, s. 104; 2019, c. 29, s. 307.
+
 
 
 
@@ -3479,8 +3557,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** Despite subsection (1), a person may not apply for protection if
 	- **(a)** they are the subject of an authority to proceed issued under section 15 of the [Extradition Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2018.md);
 	- **(b)** they have made a claim to refugee protection that has been determined under paragraph 101(1)(e) to be ineligible;
-	- **(b.1)** subject to subsection (2.1), less than 12 months, or, in the case of a person who is a national of a country that is designated under subsection 109.1(1), less than 36 months, have passed since their claim for refugee protection was last rejected — unless it was deemed to be rejected under subsection 109(3) or was rejected on the basis of section E or F of Article 1 of the Refugee Convention — or determined to be withdrawn or abandoned by the Refugee Protection Division or the Refugee Appeal Division;
-	- **(c)** subject to subsection (2.1), less than 12 months, or, in the case of a person who is a national of a country that is designated under subsection 109.1(1), less than 36 months, have passed since their last application for protection was rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or the Minister.
+	- **(b.1)** subject to subsection (2.1), less than 12 months, or, in the case of a person who is a national of a country that is designated under subsection 109.1(1), less than 36 months, have passed since
+		- **(i)** the day on which their claim for refugee protection was rejected — unless it was deemed to be rejected under subsection 109(3) or was rejected on the basis of section E or F of Article 1 of the Refugee Convention — or determined to be withdrawn or abandoned by the Refugee Protection Division, in the case where no appeal was made and no application was made to the Federal Court for leave to commence an application for judicial review, or
+		- **(ii)** in any other case, the latest of
+			- **(A)** the day on which their claim for refugee protection was rejected — unless it was deemed to be rejected under subsection 109(3) or was rejected on the basis of section E or F of Article 1 of the Refugee Convention — or determined to be withdrawn or abandoned by the Refugee Protection Division or, if there was more than one such rejection or determination, the day on which the last one occurred,
+			- **(B)** the day on which their claim for refugee protection was rejected — unless it was rejected on the basis of section E or F of Article 1 of the Refugee Convention — or determined to be withdrawn or abandoned by the Refugee Appeal Division or, if there was more than one such rejection or determination, the day on which the last one occurred, and
+			- **(C)** the day on which the Federal Court refused their application for leave to commence an application for judicial review, or denied their application for judicial review, with respect to their claim for refugee protection, unless that claim was deemed to be rejected under subsection 109(3) or was rejected on the basis of section E or F of Article 1 of the Refugee Convention; or
+	- **(c)** subject to subsection (2.1), less than 12 months, or, in the case of a person who is a national of a country that is designated under subsection 109.1(1), less than 36 months, have passed since
+		- **(i)** the day on which their application for protection was rejected or determined to be withdrawn or abandoned by the Minister, in the case where no application was made to the Federal Court for leave to commence an application for judicial review, or
+		- **(ii)** in any other case, the later of
+			- **(A)** the day on which their application for protection was rejected or determined to be withdrawn or abandoned by the Minister or, if there was more than one such rejection or determination, the day on which the last one occurred, and
+			- **(B)** the day on which the Federal Court refused their application for leave to commence an application for judicial review, or denied their application for judicial review, with respect to their application for protection.
 	- **(d)** [Repealed, 2012, c. 17, s. 38]
 
 **Exemption**
@@ -3505,7 +3592,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada of an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years or with respect to a conviction outside Canada for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years;
 	- **(c)** made a claim to refugee protection that was rejected on the basis of section F of Article 1 of the Refugee Convention; or
 	- **(d)** is named in a certificate referred to in subsection 77(1).
-> 2001, c. 27, s. 112; 2010, c. 8, s. 15; 2012, c. 17, ss. 38, 60, 84; 2015, c. 3, s. 114(E).
+> 2001, c. 27, s. 112; 2010, c. 8, s. 15; 2012, c. 17, ss. 38, 60, 84; 2015, c. 3, s. 114(E); 2019, c. 29, s. 308.
 
 
 
@@ -3524,6 +3611,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i)** an applicant who is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada punishable by a maximum term of imprisonment of at least 10 years for which a term of imprisonment of less than two years — or no term of imprisonment — was imposed, and
 	- **(ii)** an applicant who is determined to be inadmissible on grounds of serious criminality with respect to a conviction of an offence outside Canada that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years, unless they are found to be a person referred to in section F of Article 1 of the Refugee Convention.
 > 2001, c. 27, s. 113; 2012, c. 17, s. 39.
+
+
+
+
+
+**Mandatory hearing**
+
+**113.01** Unless the application is allowed without a hearing, a hearing must, despite paragraph 113(b), be held in the case of an applicant for protection whose claim for refugee protection has been determined to be ineligible solely under paragraph 101(1)(c.1).
+> 2019, c. 29, s. 308.1.
 
 
 
