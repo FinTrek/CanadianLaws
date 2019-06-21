@@ -90,7 +90,7 @@
 
 ***exercice du régime*** Année civile, à moins de stipulation contraire dans le régime de pension. (*plan year*)
 
-***fin de participation*** S’entend au sens du paragraphe (2). (*cessation of membership*)
+***fin de participation*** S’entend au sens des paragraphes (2) et (2.1). (*cessation of membership*)
 
 ***fonctions*** Attributions au titre desquelles une personne a droit à un salaire, traitement ou autre rémunération fixe ou vérifiable. Sont incluses dans la présente définition les fonctions de dirigeant ou d’administrateur d’une personne morale ou autre organisme et de mandataire agissant pour le compte de son mandant. En outre, ***cadre*** s’entend du titulaire de telles attributions. (*office* and *officer*)
 
@@ -157,6 +157,10 @@
 	- **b)** dans le cas de tout autre régime de pension, si le participant cesse d’occuper son emploi et si le service d’une prestation de pension immédiate n’a pas débuté en faveur du participant, que l’employeur ait ou non cessé auparavant de verser des cotisations pour lui;
 	- **c)** dans toutes autres circonstances prévues par règlement.
 
+**Précision**
+
+- **(2.1)** Il est entendu que la participation d’un participant prend fin au moment de la cessation totale ou partielle du régime de pension.
+
 **Sens de retraite**
 
 - **(3)** Pour l’application de la présente loi, un participant est réputé avoir pris sa retraite au moment où débute le service d’une prestation de pension immédiate, qu’il continue ou non d’occuper son emploi.
@@ -168,7 +172,7 @@
 **Régime à cotisations négociées**
 
 - **(5)** Est réputé demeurer un régime à cotisations négociées pour une période d’un an à compter de la date où il n’en est plus un, ou pour la période plus longue précisée par le surintendant, le régime de pension qui était un régime à cotisations négociées au moment de son institution mais qui n’en est plus un soit parce qu’il ne compte plus qu’un seul employeur participant, soit parce que plus de quatre-vingt-quinze pour cent des participants sont des salariés d’employeurs participants dotés de la personnalité morale et appartenant au même groupe au sens de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md).
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 2, ch. 18 (3<sup>e</sup> suppl.), art. 38; 1994, ch. 24, art. 34(F); 1998, ch. 12, art. 1; 2000, ch. 12, art. 254; 2001, ch. 34, art. 66; 2010, ch. 12, art. 1786, 1824(F) et 1825(A), ch. 25, art. 179; 2016, ch. 7, art. 201.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 2, ch. 18 (3<sup>e</sup> suppl.), art. 38; 1994, ch. 24, art. 34(F); 1998, ch. 12, art. 1; 2000, ch. 12, art. 254; 2001, ch. 34, art. 66; 2010, ch. 12, art. 1786, 1824(F) et 1825(A), ch. 25, art. 179; 2016, ch. 7, art. 201; 2019, ch. 29, art. 145.
 
 
 
@@ -1305,6 +1309,19 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 
 
 
+### Préservation des prestations
+
+
+
+**Précision**
+
+**17.1** Il est entendu que le régime de pension ne peut comporter une disposition qui, en cas de cessation du régime, aurait pour effet de modifier la prestation de pension ou le droit à celle-ci, ou toute autre prestation ou option visées à l’alinéa 17b) ou le droit à celles-ci.
+> 2019, ch. 29, art. 146.
+
+
+
+
+
 ### Immobilisation des cotisations
 
 
@@ -1362,11 +1379,11 @@ Le régime doit prévoir laquelle de ces mesures est à appliquer et peut prévo
 
 
 
-**Droits à pension minimaux**
+**Prestation de pension minimale**
 
 **21** 
 
-- **(1)** Sous réserve de l’alinéa 26(3)b), les prestations à l’égard du participant à un régime à prestations déterminées sont augmentées du montant de la prestation de pension pouvant provenir de l’excédent éventuel du total, majoré des intérêts calculés conformément à l’article 19, des cotisations non facultatives versées par le participant sur cinquante pour cent des droits à pension afférents à sa participation, si le participant prend sa retraite ou meurt ou si sa participation prend fin, ou en cas de cessation totale ou partielle du régime.
+- **(1)** Sous réserve de l’alinéa 26(3)b), les prestations à l’égard du participant à un régime à prestations déterminées sont augmentées du montant de la prestation de pension pouvant provenir de l’excédent éventuel du total, majoré des intérêts calculés conformément à l’article 19, des cotisations non facultatives versées par le participant sur cinquante pour cent des droits à pension afférents à sa participation, si le participant prend sa retraite ou meurt ou si sa participation prend fin.
 
 **Exception**
 
@@ -1383,7 +1400,7 @@ Le régime doit prévoir laquelle de ces mesures est à appliquer et peut prévo
 - **(4)** Pour l’application de l’alinéa (3)a) :
 	- **a)** ***indice des prix à la consommation*** s’entend de l’indice des prix à la consommation publié, pour le Canada, par Statistique Canada en application de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
 	- **b)** l’augmentation annuelle de l’indice des prix à la consommation est calculée, selon les modalités réglementaires, par la comparaison de deux périodes consécutives de douze mois suffisamment récentes.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 21; 2001, ch. 34, art. 71(F); 2010, ch. 12, art. 1808.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 21; 2001, ch. 34, art. 71(F); 2010, ch. 12, art. 1808; 2019, ch. 29, art. 148.
 
 
 
