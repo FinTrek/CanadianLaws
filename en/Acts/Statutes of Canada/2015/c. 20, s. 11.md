@@ -142,6 +142,12 @@ Assented to on 18 June 2015
 	- **(a)** by deleting the name of a person and all information relating to them if the grounds for which their name was added to the list no longer exist; or
 	- **(b)** by changing the information relating to a listed person.
 
+**Exemption from [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(4)** The list is exempt from the application of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2015, c. 20, s. 11 “8”; 2019, c. 13, s. 129.
+
+
 
 
 
