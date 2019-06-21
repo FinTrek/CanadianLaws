@@ -1160,50 +1160,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Dépôt des projets de règlement**
-
-**66.1** 
-
-- **(1)** Le ministre fait déposer tout projet de règlement visé à l’article 66 devant chaque chambre du Parlement.
-
-**Étude en comité et rapport**
-
-- **(2)** Le comité compétent, d’après le règlement de chacune des chambres du Parlement, est saisi du projet de règlement et peut procéder à l’étude de celui-ci et faire part de ses conclusions à la chambre.
-
-**Comité permanent de la santé**
-
-- **(2.1)** Pour l’application du paragraphe (2), le comité compétent de la Chambre des communes est le Comité permanent de la santé ou, à défaut, le comité compétent de la Chambre.
-
-**Date de prise du règlement**
-
-- **(3)** Le règlement ne peut être pris avant le premier en date des jours suivants :
-	- **a)** le trentième jour de séance suivant le dépôt;
-	- **b)** le cent soixantième jour civil suivant le dépôt;
-	- **c)** le lendemain du jour où les comités compétents auront tous deux présenté leur rapport.
-
-**Déclaration**
-
-- **(4)** Le ministre tient compte de tout rapport établi au titre du paragraphe (2). S’il n’est pas donné suite à l’une ou l’autre des recommandations que contient un rapport, le ministre dépose à la chambre d’où provient celui-ci une déclaration motivée à cet égard.
-
-**Modification du projet de règlement**
-
-- **(5)** Il n’est pas nécessaire de déposer de nouveau le projet de règlement même s’il a subi des modifications.
+**66.1** [Abrogé, 2019, ch. 29, art. 221]
 
 
 
-
-**Exceptions**
-
-**66.2** 
-
-- **(1)** L’obligation de dépôt ne s’applique pas si le ministre estime :
-	- **a)** soit que, le projet de règlement n’apportant pas de modification de fond notable à des règlements existants, l’article 66.1 ne devrait pas s’appliquer;
-	- **b)** soit que la prise du règlement doit se faire sans délai en vue de protéger la santé ou la sécurité humaines.
-
-**Notification au Parlement**
-
-- **(2)** Le ministre dépose devant les deux chambres du Parlement une déclaration énonçant les motifs sur lesquels il se fonde, en application du paragraphe (1), pour ne pas déposer un projet de règlement.
+**66.2** [Abrogé, 2019, ch. 29, art. 221]
 
 
 
