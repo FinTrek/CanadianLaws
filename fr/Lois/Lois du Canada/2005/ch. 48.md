@@ -346,13 +346,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **22** 
 
-- **(1)** Le gouverneur en conseil peut, par décret, inscrire le nom de la première nation à l’annexe 1 lorsque les conditions suivantes sont réunies :
+- **(1)** Le ministre peut, par arrêté, inscrire le nom de la première nation à l’annexe 1 lorsque les conditions suivantes sont réunies :
 	- **a)** il y a eu un vote favorable des électeurs admissibles sur les codes visés à l’article 10 et sur le transfert de la gestion et de la réglementation de l’exploration et de l’exploitation du pétrole et du gaz;
 	- **b)** le conseil a adopté des textes législatifs au titre des alinéas 35(1)a) à d).
 
 **Changement de nom**
 
-- **(2)** Le gouverneur en conseil peut, par décret, modifier l’annexe 1 sur réception par le ministre d’une résolution du conseil de la première nation l’informant de la modification de son nom.
+- **(2)** Le ministre peut, par arrêté, modifier l’annexe 1 sur réception d’une résolution du conseil de la première nation l’informant de la modification de son nom.
+> 2005, ch. 48, art. 22; 2019, ch. 29, art. 385.
+
 
 
 
