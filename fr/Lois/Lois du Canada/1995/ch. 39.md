@@ -399,7 +399,14 @@ Sont visés par la présente définition les musées. (*business*)
 - **(8)** Est admissible au permis autorisant la possession d’armes à feu, dans les situations prévues par règlement, qui sont déclarées prohibées en vertu d’une disposition des règlements d’application de l’article 117.15 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le particulier qui :
 	- **a)** en possédait une ou plusieurs à l’entrée en vigueur de la disposition;
 	- **b)** à compter de l’entrée en vigueur de la disposition, a été sans interruption titulaire d’un certificat d’enregistrement pour de telles armes ou, dans le cas où il était demandeur d’un certificat d’enregistrement d’une telle arme à cette date, à compter de la date de délivrance du certificat.
-> 1995, ch. 39, art. 12; 2000, ch. 12, art. 117; 2003, ch. 8, art. 14
+
+**Particuliers avec droits acquis : règlements**
+
+- **(9)** Est admissible au permis autorisant la possession d’armes à feu prohibées d’une catégorie réglementaire le particulier qui remplit les conditions suivantes :
+	- **a)** il en possédait une ou plusieurs à la date réglementaire prévue relativement à cette catégorie;
+	- **b)** il est titulaire d’un certificat d’enregistrement pour de telles armes dans les situations prévues par règlement relativement à cette catégorie;
+	- **c)** il a été sans interruption titulaire d’un certificat d’enregistrement pour de telles armes à compter de la date réglementaire — ou de celle déterminée conformément aux règlements — à l’égard de cette catégorie.
+> 1995, ch. 39, art. 12; 2000, ch. 12, art. 117; 2003, ch. 8, art. 142019, ch. 9, art. 3
 
 
 
@@ -486,11 +493,11 @@ Sont visés par la présente définition les musées. (*business*)
 
 **Tir à la cible ou compétition de tir**
 
-- **(1.1)** Dans le cas d’une autorisation de transport délivrée pour l’une des raisons mentionnées à l’alinéa (1)a) pour la province de résidence du titulaire de l’autorisation, les lieux qui y sont précisés comprennent tous les clubs de tir et tous les champs de tir de cette province agréés conformément à l’article 29.
+- **(1.1)** Dans le cas d’une autorisation de transport délivrée pour l’une des raisons mentionnées à l’alinéa (1)a) pour la province de résidence du titulaire de l’autorisation, les lieux qui y sont précisés comprennent tous les clubs de tir et tous les champs de tir de cette province agréés conformément à l’article 29, sauf s’il s’agit d’une autorisation de transport délivrée pour une arme à feu prohibée visée au paragraphe 12(9).
 
 **Exception : armes à feu prohibées autres que les armes de poing prohibées**
 
-- **(2)** Malgré le paragraphe (1), le particulier ne peut être autorisé à transporter une arme à feu prohibée — autre qu’une arme de poing visée au paragraphe 12(6.1) — entre des lieux précis que pour les raisons visées à l’alinéa (1)b).
+- **(2)** Malgré le paragraphe (1), le particulier ne peut être autorisé à transporter une arme à feu prohibée — autre qu’une arme de poing visée au paragraphe 12(6.1) ou une arme à feu prohibée visée au paragraphe 12(9) — entre des lieux précis que pour les raisons visées à l’alinéa (1)b).
 
 **Autorisation de transport automatique : renouvellement**
 
@@ -516,7 +523,7 @@ Sont visés par la présente définition les musées. (*business*)
 **Importation par un non-résident**
 
 - **(3)** Un non-résident peut être autorisé à transporter, en conformité avec les dispositions des articles 35 et 35.1, une arme à feu à autorisation restreinte entre des lieux précisés.
-> 1995, ch. 39, art. 19; 2003, ch. 8, art. 16; 2015, ch. 27, art. 6
+> 1995, ch. 39, art. 19; 2003, ch. 8, art. 16; 2015, ch. 27, art. 62019, ch. 9, art. 4
 
 
 
@@ -1888,9 +1895,11 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 **Peine**
 
-**109** Quiconque contrevient aux articles 106, 107 ou 108 ou au paragraphe 29(1) ou à un règlement d’application des alinéas 117d), e), f), g), i), j), l), m) ou n) dont la contravention est devenue une infraction aux termes de l’alinéa 117o) est coupable :
+**109** Quiconque contrevient aux articles 106, 107 ou 108 ou au paragraphe 29(1) ou à un règlement d’application des alinéas 117d), e), f), g), i), j), k.2), l), m) ou n) dont la contravention est devenue une infraction aux termes de l’alinéa 117o) est coupable :
 - **a)** soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
 - **b)** soit d’une infraction punissable par procédure sommaire.
+> 1995, ch. 39, art. 1092019, ch. 9, art. 12
+
 
 
 
@@ -1985,7 +1994,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 		- **(C)** les personnes ou les membres d’une catégorie de personnes qui sont des employés des administrations publiques fédérales, provinciales ou municipales et qui sont désignées comme fonctionnaires publics par les règlements d’application de la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) pris par le gouverneur en conseil,
 		- **(D)** les contrôleurs des armes à feu et les préposés aux armes à feu,
 	- **(ii)** par des particuliers sous les ordres et pour le compte des forces policières ou d’un ministère fédéral ou provincial;
-- **m)** régir la tenue et la destruction de registres ou fichiers sur les armes à feu, les armes prohibées, les armes à autorisation restreinte, les dispositifs prohibés et les munitions prohibées;
+- **m)** régir la tenue, la transmission et la destruction de registres ou fichiers sur les armes à feu, les armes prohibées, les armes à autorisation restreinte, les dispositifs prohibés et les munitions prohibées;
 - **n)** régir la tenue et la destruction de registres ou fichiers par les entreprises en ce qui concerne les munitions;
 - **o)** créer des infractions pour contravention des règlements pris en vertu des alinéas d), e), f), g), i), j), k.1), k.2), l), m) ou n);
 - **p)** fixer les droits à payer à Sa Majesté du chef du Canada pour la délivrance des permis, des certificats d’enregistrement, des autorisations, des agréments de cession et d’importation d’armes à feu et des attestations par l’agent des douanes des documents prévus par la présente loi;
@@ -2003,7 +2012,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 	- **(vi)** le Règlement sur les catégories de personnes morales admissibles à un certificat d’enregistrement d’armes à autorisation restreinte, pris par le décret C.P. 1993-766 du 20 avril 1993 portant le numéro d’enregistrement DORS/93-200,
 	- **(vii)** les articles 7, 15 et 17 — et les intertitres les précédant — du Règlement sur le contrôle des armes à autorisation restreinte et sur les armes à feu, pris par le décret C.P. 1978-2572 du 16 août 1978 portant le numéro d’enregistrement DORS/78-670;
 - **w)** prendre toute mesure réglementaire prévue par la présente loi.
-> 1995, ch. 39, art. 117; 2003, ch. 8, art. 54, ch. 22, art. 224(A); 2015, ch. 27, art. 16
+> 1995, ch. 39, art. 117; 2003, ch. 8, art. 54, ch. 22, art. 224(A); 2015, ch. 27, art. 162019, ch. 9, art. 13
 
 
 
