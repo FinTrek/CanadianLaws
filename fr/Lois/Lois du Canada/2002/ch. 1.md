@@ -331,7 +331,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ordonnances**
 
-- **(2)** Le tribunal a aussi compétence pour rendre à l’égard d’un adolescent l’ordonnance visée aux articles 83.3 (engagement — activité terroriste), 810 (engagement — crainte de blessures ou dommages), 810.01 (engagement — crainte de certaines infractions), 810.011 (engagement — crainte d’une infraction de terrorisme), 810.02 (engagement — crainte de mariage forcé ou de mariage de personnes de moins de seize ans) ou 810.2 (engagement — crainte de sévices graves à la personne) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); dans le cas où l’adolescent omet ou refuse de contracter l’engagement prévu à ces articles, le tribunal peut lui imposer une des sanctions prévues au paragraphe 42(2) (peines spécifiques), sauf que, si la sanction est imposée en vertu de l’alinéa 42(2)n) (ordonnance de placement et de surveillance), celle-ci ne peut excéder trente jours.
+- **(2)** Le tribunal a aussi compétence exclusive pour rendre à l’égard d’un adolescent l’ordonnance visée aux articles 83.3 (engagement — activité terroriste), 810 (engagement — crainte de blessures ou dommages), 810.01 (engagement — crainte de certaines infractions), 810.011 (engagement — crainte d’une infraction de terrorisme), 810.02 (engagement — crainte de mariage forcé ou de mariage de personnes de moins de seize ans) ou 810.2 (engagement — crainte de sévices graves à la personne) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); la présente loi s’applique alors, avec les adaptations nécessaires. Dans le cas où l’adolescent omet ou refuse de contracter l’engagement prévu à ces articles, le tribunal peut lui imposer l’une des sanctions prévues au paragraphe 42(2) (peines spécifiques), sauf que, si la sanction est imposée en vertu de l’alinéa 42(2)n) (ordonnance de placement et de surveillance), celle-ci ne peut excéder trente jours.
 
 **Prescription**
 
@@ -352,7 +352,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs supplémentaires**
 
 - **(7)** Le juge d’une cour supérieure de juridiction criminelle qui est réputé être un juge du tribunal pour adolescents conserve les attributions de cette cour.
-> 2002, ch. 1, art. 14; 2015, ch. 20, art. 32 et 36, ch. 29, art. 14.
+> 2002, ch. 1, art. 14; 2015, ch. 20, art. 32 et 36, ch. 29, art. 14; 2019, ch. 13, art. 159.
 
 
 
@@ -477,7 +477,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Compétence du juge de paix**
 
-- **(2)** Le juge de paix a aussi compétence pour rendre à l’égard de l’adolescent l’ordonnance visée à l’article 810 (engagement — crainte de blessures ou dommages) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); dans le cas où l’adolescent omet ou refuse de contracter l’engagement prévu à cet article, le juge de paix renvoie l’affaire au tribunal pour adolescents.
+- **(2)** Malgré le paragraphe 14(2), le juge de paix a aussi compétence pour rendre à l’égard de l’adolescent l’ordonnance visée à l’article 810 (engagement — crainte de blessures ou dommages) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); dans le cas où l’adolescent omet ou refuse de contracter l’engagement prévu à cet article, le juge de paix renvoie l’affaire au tribunal pour adolescents.
+> 2002, ch. 1, art. 20; 2019, ch. 13, art. 160.
+
 
 
 
@@ -552,7 +554,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis relatif au droit à un avocat — tribunal, commission d’examen ou juge de paix**
 
 - **(3)** Le tribunal pour adolescents, le juge de paix ou la commission d’examen saisi de l’affaire doit aviser l’adolescent de son droit d’avoir recours aux services d’un avocat et lui fournir la possibilité d’en obtenir les services, lorsqu’il n’est pas représenté par un avocat, selon le cas :
-	- **a)** à une audience au cours de laquelle doit être tranchée la question de sa mise en liberté ou de sa détention sous garde avant qu’il soit statué sur son cas;
+	- **a)** à une audience au cours de laquelle doit être tranchée la question de sa mise en liberté ou de sa détention sous garde;
+	- **a.1)** à une audience concernant une ordonnance visée aux paragraphes 14(2) ou 20(2);
 	- **b)** à une audience tenue au titre de l’article 71 (audition — peine applicable aux adultes);
 	- **c)** à son procès;
 	- **d)** lors des procédures visées aux paragraphes 98(3) (maintien sous garde), 103(1) (examen par le tribunal pour adolescents), 104(1) (maintien sous garde), 105(1) (liberté sous condition) ou 109(1) (examen de la décision);
@@ -571,7 +574,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Audience pour cautionnement devant un juge de paix**
 
-- **(6)** À toute audience mentionnée à l’alinéa (3)a) tenue devant un juge de paix qui n’est pas juge du tribunal pour adolescents, si l’adolescent désire obtenir les services d’un avocat et n’y arrive pas, le juge de paix doit :
+- **(6)** À toute audience mentionnée aux alinéas (3)a) ou a.1) tenue devant un juge de paix qui n’est pas juge du tribunal pour adolescents, si l’adolescent désire obtenir les services d’un avocat et n’y arrive pas, le juge de paix doit :
 	- **a)** s’il existe un service d’aide juridique ou d’assistance juridique dans la province où se déroule l’audience :
 		- **(i)** soit soumettre le cas de l’adolescent à ce service pour qu’il lui soit désigné un avocat,
 		- **(ii)** soit soumettre le cas au tribunal pour adolescents pour qu’il soit statué conformément aux alinéas (4)a) ou b);
@@ -602,6 +605,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(11)** Les paragraphes (4) à (9) ne s’appliquent pas à l’adolescent qui, à la date de sa première comparution devant le tribunal pour adolescents relativement à l’infraction qui lui est reprochée, a atteint l’âge de vingt ans; il demeure entendu que celui-ci conserve toutefois les droits dont bénéficient les adultes en vertu de la loi.
+> 2002, ch. 1, art. 25; 2019, ch. 13, art. 161.
+
 
 
 
@@ -700,7 +705,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Détention avant le prononcé de la peine
+### Détention et mise en liberté
 
 
 
@@ -715,7 +720,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **29** 
 
-- **(1)** La détention sous garde avant le prononcé de la peine ne doit pas se substituer à des services de protection de la jeunesse ou de santé mentale, ou à d’autres mesures sociales plus appropriés.
+- **(1)** La détention sous garde ne doit pas se substituer à des services de protection de la jeunesse ou de santé mentale, ou à d’autres mesures sociales plus appropriés.
 
 **Motifs justifiant la détention**
 
@@ -737,7 +742,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Charge de la preuve**
 
 - **(3)** Il incombe au procureur général de convaincre le juge du tribunal ou le juge de paix de l’existence des conditions visées au paragraphe (2).
-> 2002, ch. 1, art. 29; 2012, ch. 1, art. 169.
+> 2002, ch. 1, art. 29; 2012, ch. 1, art. 169; 2019, ch. 13, art. 163.
 
 
 
@@ -747,9 +752,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **30** 
 
-- **(1)** Sous réserve du paragraphe (7), l’adolescent doit, dans les cas ci-après, être détenu dans un lieu désigné comme lieu de détention provisoire par le lieutenant-gouverneur en conseil de la province concernée, ou son délégué, ou dans un lieu appartenant à l’une des catégories de lieux ainsi désignés :
-	- **a)** il est arrêté et détenu en attendant le prononcé de la peine;
-	- **b)** il est détenu en vertu d’un mandat délivré au titre du paragraphe 59(6) (comparution obligatoire pour examen de la peine).
+- **(1)** Sous réserve du paragraphe (7), l’adolescent détenu sous garde à l’égard de toute procédure menée contre lui doit l’être, dans des conditions qui sont sécuritaires, justes et humaines, dans un lieu désigné comme lieu de détention provisoire par le lieutenant-gouverneur en conseil de la province concernée, ou son délégué, ou dans un lieu appartenant à l’une des catégories de lieux ainsi désignés.
 
 **Exception**
 
@@ -784,6 +787,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détermination par l’autorité provinciale d’un lieu de détention**
 
 - **(9)** Dans les provinces où le lieutenant-gouverneur en conseil a désigné une personne ou un groupe de personnes pouvant déterminer le lieu où un adolescent qui a été arrêté peut être détenu conformément au présent article, il est interdit de détenir l’adolescent dans un lieu autre que celui qui a été ainsi déterminé.
+> 2002, ch. 1, art. 30; 2019, ch. 13, art. 164.
+
 
 
 
@@ -864,7 +869,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Mise en liberté ou détention sous garde
+### Demande de mise en liberté ou de détention sous garde
 
 
 
@@ -1818,7 +1823,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(1)** Le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (2) lorsque :
 	- **a)** [Abrogé, 2012, ch. 1, art. 178]
 	- **b)** soit le procureur général a donné, au titre du paragraphe 64(2), avis de son intention d’obtenir l’assujettissement de l’adolescent à la peine applicable aux adultes à l’égard d’une infraction que celui-ci a commise après qu’il a atteint l’âge de quatorze ans;
-	- **c)** soit l’adolescent est accusé d’un meurtre au premier ou au deuxième degré, au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), qu’il aurait commis avant d’avoir atteint l’âge de quatorze ans;
+	- **c)** soit l’adolescent est accusé d’un meurtre au premier ou au deuxième degré, au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **d)** soit l’adolescent est visé à l’article 16 (incertitude sur le statut de l’accusé) et est accusé d’une infraction qu’il aurait commise après avoir atteint l’âge de quatorze ans et à l’égard de laquelle un adulte aurait le droit de faire un choix au titre de l’article 536 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’égard de laquelle une cour supérieure de juridiction criminelle aurait eu compétence exclusive au titre de l’article 469 de cette loi.
 
 **Formule**
@@ -1832,7 +1837,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(3)** Dans une procédure au Nunavut, le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (4) lorsque :
 	- **a)** [Abrogé, 2012, ch. 1, art. 178]
 	- **b)** soit le procureur général a donné avis en vertu du paragraphe 64(2) de son intention d’obtenir l’assujettissement de l’adolescent à la peine applicable aux adultes à l’égard d’une infraction que celui-ci a commise après avoir atteint l’âge de quatorze ans;
-	- **c)** soit l’adolescent est accusé d’un meurtre au premier ou au deuxième degré, au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), qu’il aurait commis avant d’avoir atteint l’âge de quatorze ans;
+	- **c)** soit l’adolescent est accusé d’un meurtre au premier ou au deuxième degré, au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **d)** soit l’adolescent est visé à l’article 16 (incertitude sur le statut de l’accusé) et est accusé d’une infraction qu’il aurait commise après avoir atteint l’âge de quatorze ans et à l’égard de laquelle un adulte aurait le droit de faire un choix au titre de l’article 536.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 **Formule**
@@ -1872,7 +1877,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(9)** Les poursuites intentées sous le régime de la présente loi devant un juge sans jury ou un tribunal composé d’un juge et d’un jury ou, dans le cas d’une procédure au Nunavut, devant un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, avec ou sans jury, sont régies par les parties XIX (actes criminels — procès sans jury) et XX (procédures lors d’un procès devant jury — dispositions générales) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), avec les adaptations nécessaires, sauf que :
 	- **a)** les dispositions de la présente loi relatives à la protection de la vie privée des adolescents l’emportent sur les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** l’adolescent a le droit d’être représenté par un avocat si le tribunal le fait éloigner en application du paragraphe 650(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2002, ch. 1, art. 67, ch. 13, art. 91; 2012, ch. 1, art. 178.
+> 2002, ch. 1, art. 67, ch. 13, art. 91; 2012, ch. 1, art. 178; 2019, ch. 13, art. 166.
 
 
 
@@ -3040,6 +3045,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 		- **(v)** d’appliquer une peine spécifique purgée sous garde dans un établissement correctionnel provincial pour adultes ou un pénitencier;
 	- **o)** toute personne, pour vérifier l’existence d’un casier judiciaire dans le cas où la vérification est exigée par le gouvernement du Canada ou d’une province ou par une municipalité en matière de recrutement de personnel ou de bénévoles ou de fourniture de services;
 	- **p)** tout employé ou mandataire du gouvernement fédéral, à des fins statistiques prévues par la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
+	- **p.1)** tout employé d’un ministère ou organisme fédéral, pour l’application du [Décret sur les passeports canadiens](/fr/Règlements/Textes%20réglementaires/81/86.md);
 	- **q)** tout accusé ou avocat de celui-ci, sur dépôt d’une déclaration sous serment attestant la nécessité d’avoir accès au dossier pour pouvoir présenter une défense pleine et entière;
 	- **r)** toute personne désignée — à titre individuel ou au titre de son appartenance à une catégorie déterminée — par le gouverneur en conseil ou le lieutenant-gouverneur en conseil d’une province à une fin précisée et dans la mesure autorisée par l’un ou l’autre, selon le cas;
 	- **s)** toute autre personne — à titre individuel ou au titre de son appartenance à une catégorie déterminée — que le juge du tribunal pour adolescents estime avoir un intérêt légitime dans le dossier, dans la mesure qu’il autorise, s’il est convaincu qu’il est souhaitable d’y donner accès :
@@ -3053,6 +3059,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 	- **b)** s’il est acquitté de l’infraction visée par le dossier, pour une raison autre qu’un verdict de non-responsabilité criminelle pour cause de troubles mentaux, de deux mois à compter de l’expiration du délai d’appel ou de trois mois à compter de l’issue de toutes les procédures d’appel;
 	- **c)** si l’accusation est rejetée autrement que par acquittement ou est retirée, ou que l’adolescent est déclaré coupable de l’infraction et fait l’objet d’une réprimande, de deux mois à compter du rejet, du retrait ou de la déclaration de culpabilité;
 	- **d)** si l’accusation est suspendue, sans qu’aucune procédure ne soit prise contre l’adolescent pendant un an, d’un an à compter de la suspension;
+	- **d.1)** si une ordonnance est rendue à l’égard de l’adolescent en vertu des paragraphes 14(2) ou 20(2), de six mois à compter de l’expiration de l’ordonnance;
 	- **e)** si l’adolescent est déclaré coupable de l’infraction et fait l’objet d’une absolution inconditionnelle, d’un an à compter de la déclaration de culpabilité;
 	- **f)** si l’adolescent est déclaré coupable de l’infraction et fait l’objet d’une absolution sous conditions, de trois ans à compter de la déclaration de culpabilité;
 	- **g)** sous réserve des alinéas i) et j) et du paragraphe (9), si l’adolescent est déclaré coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire, de trois ans à compter de l’exécution complète de la peine spécifique relative à cette infraction;
@@ -3102,7 +3109,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 - **(10)** Par dérogation aux autres dispositions de la présente loi, lorsque l’adolescent est déclaré coupable d’une infraction qui entraîne une ordonnance d’interdiction et que celle-ci est toujours en vigueur à l’expiration de la période applicable visée au paragraphe (2) :
 	- **a)** les dossiers de la Gendarmerie royale du Canada visés au paragraphe 115(3) ne peuvent être communiqués que pour établir l’existence de l’ordonnance en vue du contrôle d’application de la loi;
 	- **b)** les dossiers visés à l’article 114 tenus par le tribunal pour adolescents à l’égard de l’ordonnance ne peuvent être communiqués que pour établir l’existence de l’ordonnance en cas d’infraction contrevenant à celle-ci.
-> 2002, ch. 1, art. 119; 2012, ch. 1, art. 157 et 191(F).
+> 2002, ch. 1, art. 119; 2012, ch. 1, art. 157 et 191(F); 2019, ch. 13, art. 167.
 
 
 
@@ -4026,7 +4033,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 - **d)** article 152 (incitation à des contacts sexuels);
 - **e)** article 153 (personnes en situation d’autorité);
 - **f)** article 155 (inceste);
-- **g)** article 159 (relations sexuelles anales);
+- **g)** [Abrogé, 2019, ch. 25, art. 383]
 - **h)** article 170 (père, mère ou tuteur qui sert d’entremetteur);
 - **i) et j)** [Abrogés, 2014, ch. 25, art. 43]
 - **k)** articles 231 ou 235 (meurtre au premier ou au deuxième degré);
@@ -4085,6 +4092,6 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 - **e)** article 14 (assistance d’un jeune).
 
 
-> 2002, ch. 1, ann.; 2014, ch. 25, art. 43; 2018, ch. 16, art. 184.
+> 2002, ch. 1, ann.; 2014, ch. 25, art. 43; 2018, ch. 16, art. 184; 2019, ch. 25, art. 383.
 
 
