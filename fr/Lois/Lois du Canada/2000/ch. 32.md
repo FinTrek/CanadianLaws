@@ -10289,7 +10289,7 @@ Dans le parc national Banff du Canada, la zone suivante :
 
 
 
-La totalité du lopin DZ indiqué sur le plan numéro 69749 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été déposée au Bureau des titres de biens-fonds pour la circonscription d’enregistrement du sud de l’Alberta, district de Calgary, sous le numéro 8510449, ledit lopin renfermant environ 2 192 hectares.
+La totalité des lopins JM, JN, JO, JP, JQ, JR et JS ainsi que les zones avalancheuses de la route Temple et du mont Lipalian indiqués sur les plans numéros 107416, 107417, 107418, 107419 et 107420 déposés aux Archives d’arpentage des terres du Canada, à Ottawa, dont des copies ont été déposées au Bureau des titres de biens-fonds de l’Alberta, à Calgary, sous les numéros 1811569, 1811571, 1811573, 1811574 et 1812006, ces lopins renfermant environ 1660,7 hectares.
 
 
 
@@ -10300,7 +10300,7 @@ Dans le parc national Banff du Canada, la zone suivante :
 
 
 
-La totalité du lopin EY indiqué sur le plan numéro 74099 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été déposée au Bureau des titres de biens-fonds pour la circonscription d’enregistrement du sud de l’Alberta, district de Calgary, sous le numéro 9210231, ledit lopin renfermant environ 300,06 hectares.
+La totalité du lopin HY et des lopins JA, JB, JC et JD indiqués sur les plans numéros 102068 et 102069, respectivement, déposés aux Archives d’arpentage des terres du Canada, à Ottawa, dont des copies ont été déposées au Bureau des titres de biens-fonds de l’Alberta, à Calgary, sous les numéros 1312143 et 1312144, respectivement, ces lopins renfermant environ 260,33 hectares.
 
 
 
@@ -10325,6 +10325,6 @@ Dans le parc national du Mont-Riding du Canada, la zone suivante :
 La totalité du lopin représentant la station de ski du mont Agassiz sur le plan numéro 64217 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été déposée au Bureau des titres de biens-fonds à Neepawa, sous le numéro 6406, ledit lopin renfermant environ 141,64 hectares.
 
 
-> 2000, ch. 32, ann. 5; 2013, ch. 28, art. 15.
+> 2000, ch. 32, ann. 5; 2013, ch. 28, art. 15; 2019, ch. 29, art. 332.
 
 
