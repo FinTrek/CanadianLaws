@@ -415,7 +415,14 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 		- **(i)** the day on which that provision comes into force, or
 		- **(ii)** in the case of an individual who on that day did not hold but had applied for a registration certificate for one or more of those firearms, the day on which the registration certificate was issued
 was continuously the holder of a registration certificate for one or more of those firearms.
-> 1995, c. 39, s. 12; 2000, c. 12, s. 117; 2003, c. 8, s. 14
+
+**Grandfathered individuals — regulations**
+
+- **(9)** An individual is eligible to hold a licence authorizing the individual to possess prohibited firearms of a prescribed class if the individual
+	- **(a)** possesses one or more firearms of that class on a day that is prescribed with respect to that class;
+	- **(b)** holds a registration certificate for one or more firearms of that class in the circumstances prescribed with respect to that class; and
+	- **(c)** was continuously the holder of a registration certificate for one or more firearms of that class beginning on the day that is prescribed — or that is determined under the regulations — with respect to that class.
+> 1995, c. 39, s. 12; 2000, c. 12, s. 117; 2003, c. 8, s. 142019, c. 9, s. 3
 
 
 
@@ -502,11 +509,11 @@ was continuously the holder of a registration certificate for one or more of tho
 
 **Target practice or competition**
 
-- **(1.1)** In the case of an authorization to transport issued for a reason referred to in paragraph (1)(a) within the province where the holder of the authorization resides, the specified places must include all shooting clubs and shooting ranges that are approved under section 29 and that are located in that province.
+- **(1.1)** In the case of an authorization to transport issued for a reason referred to in paragraph (1)(a) within the province where the holder of the authorization resides, the specified places must — except in the case of an authorization that is issued for a prohibited firearm referred to in subsection 12(9) — include all shooting clubs and shooting ranges that are approved under section 29 and that are located in that province.
 
 **Exception for prohibited firearms other than prohibited handguns**
 
-- **(2)** Despite subsection (1), an individual must not be authorized to transport a prohibited firearm, other than a handgun referred to in subsection 12(6.1), between specified places except for the purposes referred to in paragraph (1)(b).
+- **(2)** Despite subsection (1), an individual must not be authorized to transport a prohibited firearm — other than a handgun referred to in subsection 12(6.1) or a prohibited firearm referred to in subsection 12(9) — between specified places except for the purposes referred to in paragraph (1)(b).
 
 **Automatic authorization to transport — licence renewal**
 
@@ -532,7 +539,7 @@ was continuously the holder of a registration certificate for one or more of tho
 **Non-residents**
 
 - **(3)** A non-resident may be authorized to transport a particular restricted firearm between specified places in accordance with sections 35 and 35.1.
-> 1995, c. 39, s. 19; 2003, c. 8, s. 16; 2015, c. 27, s. 6
+> 1995, c. 39, s. 19; 2003, c. 8, s. 16; 2015, c. 27, s. 62019, c. 9, s. 4
 
 
 
@@ -1947,9 +1954,11 @@ may issue a warrant authorizing the inspector named in it to enter that dwelling
 
 **Punishment**
 
-**109** Every person who commits an offence under section 106, 107 or 108, who contravenes subsection 29(1) or who contravenes a regulation made under paragraph 117(d), (e), (f), (g), (i), (j), (l), (m) or (n) the contravention of which has been made an offence under paragraph 117(o)
+**109** Every person who commits an offence under section 106, 107 or 108, who contravenes subsection 29(1) or who contravenes a regulation made under paragraph 117(d), (e), (f), (g), (i), (j), (k.2), (l), (m) or (n) the contravention of which has been made an offence under paragraph 117(o)
 - **(a)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
 - **(b)** is guilty of an offence punishable on summary conviction.
+> 1995, c. 39, s. 1092019, c. 9, s. 12
+
 
 
 
@@ -2047,7 +2056,7 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 		- **(C)** persons or members of a class of persons employed in the federal public administration or by the government of a province or municipality who are prescribed by the regulations made by the Governor in Council under Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to be public officers, and
 		- **(D)** chief firearms officers and firearms officers, and
 	- **(ii)** by individuals on behalf of, and under the authority of, a police force or a department of the Government of Canada or of a province;
-- **(m)** regulating the keeping and destruction of records in relation to firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition;
+- **(m)** regulating the keeping, transmission and destruction of records in relation to firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition;
 - **(n)** regulating the keeping and destruction of records by businesses in relation to ammunition;
 - **(o)** creating offences consisting of contraventions of the regulations made under paragraph (d), (e), (f), (g), (i), (j), (k.1), (k.2), (l), (m) or (n);
 - **(p)** prescribing the fees that are to be paid to Her Majesty in right of Canada for licences, registration certificates, authorizations, approvals of transfers and importations of firearms and confirmations by customs officers of documents under this Act;
@@ -2069,7 +2078,7 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 	- **(vi)** the Restricted Weapon Registration Certificate for Classes of Persons other than Individuals Regulations, made by Order in Council P.C. 1993-766 of April 20, 1993 and registered as SOR/93-200, and
 	- **(vii)** sections 7, 15 and 17 of the Restricted Weapons and Firearms Control Regulations, made by Order in Council P.C. 1978-2572 of August 16, 1978 and registered as SOR/78-670, and the headings before them; and
 - **(w)** prescribing anything that by any provision of this Act is to be prescribed by regulation.
-> 1995, c. 39, s. 117; 2003, c. 8, s. 54, c. 22, s. 224(E); 2015, c. 27, s. 16
+> 1995, c. 39, s. 117; 2003, c. 8, s. 54, c. 22, s. 224(E); 2015, c. 27, s. 162019, c. 9, s. 13
 
 
 
