@@ -384,7 +384,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Dispositions de coordination
 
 
-**42** [Modifications]
+**42** [Abrogé, 2019, ch. 19, art. 82]
 
 
 
