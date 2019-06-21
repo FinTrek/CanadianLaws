@@ -142,6 +142,12 @@ Sanctionnée sur le 18 juin 2015
 	- **a)** soit enlever le nom d’une personne de la liste ainsi que tout renseignement la visant, si les motifs pour lesquels le nom a été inscrit sur la liste n’existent plus;
 	- **b)** soit modifier les renseignements visant une personne inscrite.
 
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(4)** La liste est soustraite à l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2015, ch. 20, art. 11 « 8 »; 2019, ch. 13, art. 129.
+
+
 
 
 
