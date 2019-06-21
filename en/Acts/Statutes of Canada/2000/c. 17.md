@@ -90,9 +90,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** The Governor in Council may, on the recommendation of the Minister, make regulations defining the following words and expressions:
 	- **(a)** courier;
 	- **(b)** monetary instruments;
-	- **(c)** shell bank; and
-	- **(d)** identifying information, for the purposes of subsection 54.1(3).
-> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1; 2010, c. 12, s. 1862; 2014, c. 20, s. 254; 2017, c. 20, s. 407.
+	- **(c)** shell bank;
+	- **(d)** identifying information, for the purposes of subsection 54.1(3);
+	- **(e)** virtual currency; and
+	- **(f)** dealing in virtual currencies.
+> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1; 2010, c. 12, s. 1862; 2014, c. 20, s. 254; 2017, c. 20, s. 407; 2019, c. 29, s. 104.
 
 
 
@@ -280,7 +282,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Measures — other persons**
 
-- **(2.1)** If the person or entity determines that it is dealing with a person described in paragraph (1)(b) or (c) and considers, based on an assessment referred to in subsection 9.6(2), that the person poses a high risk of committing a money laundering offence or a terrorist activity financing offence, the person or entity shall take the measures referred to in the regulations.
+- **(2.1)** If the person or entity determines that it is dealing with a person described in paragraph (1)(b) or (c) and considers, based on an assessment referred to in subsection 9.6(2), that there is a high risk of a money laundering offence or a terrorist activity financing offence being committed, the person or entity shall take the measures referred to in the regulations.
 
 **Definitions**
 
@@ -312,7 +314,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(h)** judge of a supreme court, constitutional court or other court of last resort;
 - **(i)** leader or president of a political party represented in a legislature; or
 - **(j)** holder of any prescribed office or position. (*étranger politiquement vulnérable*)
-> 2006, c. 12, s. 8; 2014, c. 20, s. 258; 2017, c. 20, s. 439.
+> 2006, c. 12, s. 8; 2014, c. 20, s. 258; 2017, c. 20, s. 439; 2019, c. 29, s. 105.
 
 
 
@@ -360,10 +362,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Electronic funds transfer**
 
 **9.5** Every person or entity that is referred to in section 5 and that is prescribed shall, in respect of a prescribed electronic funds transfer that occurs in the course of their financial activities,
-- **(a)** include with the transfer the name, address, and account number or other reference number, if any, of the client who requested it, and any prescribed information;
+- **(a)** include with the transfer the name, address and account number or other reference number, if any, of the person or entity that requested it, and any prescribed information;
 - **(b)** take reasonable measures to ensure that any transfer that the person or entity receives includes that information; and
 - **(c)** take any prescribed measures.
-> 2006, c. 12, s. 8.
+> 2006, c. 12, s. 8; 2019, c. 29, s. 106.
 
 
 
@@ -1266,7 +1268,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Limit on amount paid**
 
 - **(2)** The total amount paid under paragraph (1)(a) shall, if the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 29; 2006, c. 12, s. 15.
+> 2000, c. 17, s. 29; 2006, c. 12, s. 15; 2019, c. 29, s. 124(F).
 
 
 
@@ -1289,7 +1291,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Limit on amount paid**
 
 - **(4)** If the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), the total amount that can be paid under subsection (3) shall not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161; 2006, c. 12, s. 16; 2017, c. 20, s. 427.
+> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161; 2006, c. 12, s. 16; 2017, c. 20, s. 427; 2019, c. 29, s. 125(F).
 
 
 
@@ -1380,7 +1382,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Limit on amount paid**
 
 - **(2)** The total amount paid under paragraph (1)(b) shall, if the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 35; 2005, c. 38, s. 127; 2006, c. 12, s. 20.
+> 2000, c. 17, s. 35; 2005, c. 38, s. 127; 2006, c. 12, s. 20; 2019, c. 29, s. 126(F).
 
 
 
@@ -1865,7 +1867,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **55** 
 
-- **(1)** Subject to subsections (3) and (6.1), sections 52, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall not disclose the following:
+- **(1)** Subject to subsections (3) and (6.1), sections 52, 53.1, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall not disclose the following:
 	- **(a)** information set out in a report made under section 7;
 	- **(a.1)** information set out in a report made under section 7.1;
 	- **(b)** information set out in a report made under section 9;
@@ -1887,6 +1889,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 - **(3)** If the Centre, on the basis of its analysis and assessment under paragraph 54(1)(c), has reasonable grounds to suspect that designated information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, the Centre shall disclose the information to
 	- **(a)** the appropriate police force;
 	- **(b)** the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting an offence of obtaining or attempting to obtain a rebate, refund or credit to which a person or entity is not entitled, or of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
+	- **(b.01)** the Agence du revenu du Québec, if the Centre also has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting an offence of obtaining or attempting to obtain a rebate, refund or credit to which a person or entity is not entitled, or of evading or attempting to evade paying taxes imposed under an Act of Parliament or of the legislature of Quebec administered by the Minister of Revenue of Quebec;
 	- **(b.1)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Agency;
 	- **(c)** the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to determining
 		- **(i)** whether a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), has ceased to comply with the requirements of that Act for its registration as such,
@@ -1897,7 +1900,8 @@ the applicant is entitled to an order declaring that their interest or right is 
 			- **(C)** has made or will make available any resources, directly or indirectly, to an entity as defined in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that engages or will engage in terrorist activities as defined in that subsection or activities in support of them;
 	- **(d)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 91, 117 to 119, 126 or 127 of that Act;
 	- **(e)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation or exportation of goods that are prohibited, controlled or regulated under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or under any other Act of Parliament;
-	- **(f)** the Communications Security Establishment, if the Centre also determines that the information is relevant to the mandate of the Communications Security Establishment referred to in paragraph 273.64(1)(a) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); and
+	- **(f)** the Communications Security Establishment, if the Centre also determines that the information is relevant to the mandate of the Communications Security Establishment referred to in paragraph 273.64(1)(a) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
+	- **(f.1)** the Competition Bureau, if the Centre also has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting an offence under the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md), the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md), the [Precious Metals Marking Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-19.md) or the [Textile Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-10.md) or an attempt to commit such an offence; and
 	- **(g)** an agency or body that administers the securities legislation of a province, if the Centre also has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting an offence under that legislation.
 
 **Exception**
@@ -1935,13 +1939,13 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(l)** the number and types of reports on which a disclosure is based;
 	- **(m)** the number and categories of persons or entities that made those reports;
 	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation;
-	- **(o)** information about the importation or exportation that was reported to the Centre under section 20;
+	- **(o)** information about the importation or exportation sent to the Centre under Part 2;
 	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication;
 	- **(q)** information about the transaction, attempted transaction, importation or exportation, received by the Centre from an institution or agency under an agreement or arrangement referred to in section 56, that constitutes the institution’s or agency’s reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence;
 	- **(r)** the name, address, electronic mail address and telephone number of every trustee and every known beneficiary and settlor of a trust referred to in paragraph (a);
 	- **(s)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
 	- **(t)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
-> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282; 2015, c. 36, s. 167; 2017, c. 20, s. 429.
+> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282; 2015, c. 36, s. 167; 2017, c. 20, s. 429; 2019, c. 29, s. 107.
 
 
 
@@ -1979,13 +1983,13 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(l)** the number and types of reports on which a disclosure is based;
 	- **(m)** the number and categories of persons or entities that made those reports;
 	- **(n)** indicators of a money laundering offence, a terrorist activity financing offence or a threat to the security of Canada related to the transaction, attempted transaction, importation or exportation;
-	- **(o)** information about the importation or exportation that was reported to the Centre under section 20;
+	- **(o)** information about the importation or exportation sent to the Centre under Part 2;
 	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication;
 	- **(q)** information about the transaction, attempted transaction, importation or exportation, received by the Centre from an institution or agency under an agreement or arrangement referred to in section 56, that constitutes the institution’s or agency’s reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence;
 	- **(r)** the name, address, electronic mail address and telephone number of every trustees and every known beneficiary and settlor of a trust referred to in paragraph (a);
 	- **(s)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
 	- **(t)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
-> 2001, c. 41, s. 68; 2006, c. 12, s. 27; 2014, c. 20, s. 283; 2017, c. 20, s. 430.
+> 2001, c. 41, s. 68; 2006, c. 12, s. 27; 2014, c. 20, s. 283; 2017, c. 20, s. 430; 2019, c. 29, s. 108.
 
 
 
@@ -2059,12 +2063,12 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(l)** the number and types of reports on which a disclosure is based;
 	- **(m)** the number and categories of persons or entities that made those reports;
 	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation;
-	- **(o)** information about the importation or exportation that was reported to the Centre under section 20;
+	- **(o)** information about the importation or exportation sent to the Centre under Part 2;
 	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication;
 	- **(q)** the name, address, electronic mail address and telephone number of every trustee and every known beneficiary and settlor of a trust referred to in paragraph (a);
 	- **(r)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
 	- **(s)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
-> 2001, c. 41, s. 68; 2006, c. 12, s. 28; 2014, c. 20, s. 284; 2017, c. 20, s. 432.
+> 2001, c. 41, s. 68; 2006, c. 12, s. 28; 2014, c. 20, s. 284; 2017, c. 20, s. 432; 2019, c. 29, s. 109.
 
 
 
@@ -2987,10 +2991,17 @@ The order must be complied with within the period following the service of the o
 
 - **(4)** In an appeal, the Court shall take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person or entity of information referred to in subsection 55(1).
 
+**Exception**
+
+- **(4.1)** Subsection (4) does not apply to the following information:
+	- **(a)** the name of the person or entity that was served with the notice of violation;
+	- **(b)** the nature of the violation; and
+	- **(c)** the amount of the penalty imposed.
+
 **Powers of Court**
 
 - **(5)** On an appeal, the Court may confirm, set aside or, subject to any regulations made under paragraph 73.1(1)(c), vary the decision of the Director.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40; 2019, c. 29, s. 110.
 
 
 
@@ -3002,8 +3013,15 @@ The order must be complied with within the period following the service of the o
 
 **Publication**
 
-**73.22** When proceedings in respect of a violation are ended, the Centre may make public the nature of the violation, the name of the person or entity that committed it, and the amount of the penalty imposed.
-> 2006, c. 12, s. 40.
+**73.22** In the following cases, the Centre shall make public, as soon as feasible, the nature of the violation or the default, as the case may be, the name of the person or entity and the amount of the applicable penalty:
+- **(a)** a person or entity is deemed to have committed a violation under subsection 73.15(1) or (3);
+- **(b)** a person or entity is served with a notice of a decision made under subsection 73.15(2) indicating that they have committed a violation;
+- **(c)** a person or entity enters into a compliance agreement with the Centre;
+- **(d)** a person or entity is issued a notice of default in respect of a compliance agreement they have entered into with the Centre and they
+	- **(i)** pay the amount they are liable to pay under subsection 73.18(1),
+	- **(ii)** are served with a notice of a decision made under subsection 73.19(2) confirming the Centre’s decision that the compliance agreement has not been complied with, or
+	- **(iii)** are deemed under subsection 73.19(3) to have not complied with the compliance agreement.
+> 2006, c. 12, s. 40; 2019, c. 29, s. 111.
 
 
 
