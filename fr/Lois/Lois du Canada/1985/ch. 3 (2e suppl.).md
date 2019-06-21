@@ -983,17 +983,30 @@ La présente définition s’applique également à toute personne que le membre
 
 
 
+**Activités du ministre de la Justice**
+
+**25.2** Le ministre de la Justice peut mener des activités relatives à toute question visée par la présente loi, notamment effectuer des travaux de recherche.
+> 2019, ch. 16, art. 26
+
+
+
+
+
 **Règlements**
 
 **26** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de la présente loi, notamment :
-	- **a)** en ce qui concerne la création et la mise en oeuvre d’un bureau d’enregistrement des actions en divorce au Canada;
-	- **b)** en vue d’assurer l’uniformité des règles établies en vertu de l’article 25.
+- **(1)** Le gouverneur en conseil peut prendre des règlements pour l’application de la présente loi, notamment des règlements :
+	- **a)** concernant l’établissement, le mandat et le fonctionnement d’un bureau d’enregistrement des actions en divorce;
+	- **b)** visant à assurer l’uniformité des règles établies en vertu de l’article 25;
+	- **c)** concernant le régime de fixation d’un montant ou d’un nouveau montant des aliments pour enfants par les services provinciaux des aliments pour enfants au titre des articles 25.01 et 25.1;
+	- **d)** concernant toute mesure d’ordre réglementaire prévue par la présente loi.
 
 **Primauté des règlements**
 
-- **(2)** Les règlements pris en vertu du paragraphe (1) en vue d’assurer l’uniformité des règles l’emportent sur celles-ci.
+- **(2)** Les règlements pris en vertu de l’alinéa (1)b) l’emportent sur les règles établies en vertu de l’article 25.
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 262019, ch. 16, art. 27
+
 
 
 
@@ -1010,7 +1023,7 @@ La présente définition s’applique également à toute personne que le membre
 	- **e)** régir les changements de situation au titre desquels les ordonnances modificatives des ordonnances alimentaires au profit d’un enfant peuvent être rendues;
 	- **f)** régir la détermination du revenu pour l’application des lignes directrices;
 	- **g)** autoriser le tribunal à attribuer un revenu pour l’application des lignes directrices;
-	- **h)** régir la communication de renseignements sur le revenu et prévoir les sanctions afférentes à la non-communication de tels renseignements.
+	- **h)** régir la communication de renseignements se rapportant à une ordonnance pour les aliments d’un enfant et prévoir les sanctions et autres conséquences afférentes au défaut de communication.
 
 **Principe**
 
@@ -1022,7 +1035,7 @@ La présente définition s’applique également à toute personne que le membre
 	- **a)** de l’ordonnance ou de l’ordonnance provisoire rendue au titre de l’article 15.1;
 	- **b)** de l’ordonnance modificative de l’ordonnance alimentaire au profit d’un enfant;
 	- **c)** de l’ordonnance ou de l’ordonnance provisoire rendue au titre de l’article 19.
-> 1997, ch. 1, art. 11
+> 1997, ch. 1, art. 112019, ch. 16, art. 28
 
 
 
@@ -1040,12 +1053,7 @@ La présente définition s’applique également à toute personne que le membre
 
 
 
-
-**Examen et rapport**
-
-**28** Le ministre de la Justice procède à l’examen détaillé, d’une part, de l’application des lignes directrices fédérales sur les pensions alimentaires pour enfants et, d’autre part, de la détermination des aliments pour enfants. Il dépose son rapport devant chaque chambre du Parlement dans les cinq ans suivant l’entrée en vigueur du présent article.
-> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 28; 1997, ch. 1, art. 12
-
+**28** [Abrogé, 2019, ch. 16, art. 29]
 
 
 
