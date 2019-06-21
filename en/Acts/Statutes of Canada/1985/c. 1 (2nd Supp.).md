@@ -4503,7 +4503,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 	- **(f)** will be used solely for a purpose relating to the supervision, evaluation or discipline of a specified person by Her Majesty in right of Canada in respect of a period during which the person was employed or engaged by, or occupied a position of responsibility in the service of, Her Majesty in right of Canada to administer or enforce this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or Part 2 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) to the extent that the information is relevant for that purpose;
 	- **(g)** is reasonably regarded by the official to be information that does not directly or indirectly identify any person;
 	- **(h)** is reasonably regarded by the official to be information relating to the national security or defence of Canada; or
-	- **(i)** is disclosed in accordance with the Security of Canada Information Sharing Act.
+	- **(i)** is disclosed in accordance with the [Security of Canada Information Disclosure Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md).
 
 **Provision of information to certain persons**
 
@@ -4585,7 +4585,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 5.
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 5; 2019, c. 13, s. 123(E).
 
 
 
