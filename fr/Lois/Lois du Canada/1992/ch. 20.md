@@ -46,6 +46,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***agent*** Employé du Service. (*staff member*)
 
+***autochtone*** S’agissant d’une personne, vise notamment toute personne issue d’une première nation, un Inuit ou un Métis. (*Indigenous*)
+
 ***commissaire*** Le commissaire du Service nommé au titre du paragraphe 6(1). (*Commissioner*)
 
 ***commission provinciale*** S’entend au sens de la partie II. (*provincial parole board*)
@@ -55,6 +57,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***détenu*** Personne qui, selon le cas :
 - **a)** se trouve dans un pénitencier par suite d’une condamnation, d’un ordre d’incarcération, d’un transfèrement ou encore d’une condition imposée par la Commission des libérations conditionnelles du Canada dans le cadre de la semi-liberté ou de la libération d’office;
 - **b)** après avoir été condamnée ou transférée au pénitencier, en est provisoirement absente soit parce qu’elle bénéficie d’une permission de sortir ou d’un placement à l’extérieur en vertu de la présente loi, soit pour d’autres raisons — à l’exception de la libération conditionnelle ou d’office — mais sous la supervision d’un agent ou d’une personne autorisée par le Service. (*inmate*)
+
+***évaluation de la santé mentale*** Évaluation de la santé mentale d’une personne effectuée par un professionnel de la santé ayant une formation de spécialiste reconnue en diagnostic et en traitement des troubles de la santé mentale, notamment un psychiatre, un psychologue, une infirmière psychiatrique ou un médecin en soins primaires formé en psychiatrie. (*mental health assessment*)
 
 ***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration publique fédérale dans la province en cause. (*working day*)
 
@@ -107,7 +111,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(4)** Pour l’application de la présente loi, relativement à une infraction donnée, n’est pas une victime et n’a pas le droit d’agir pour le compte de celle-ci le particulier qui est le délinquant.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52, 160 et 196; 2015, ch. 13, art. 45
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52, 160 et 196; 2015, ch. 13, art. 452019, ch. 27, art. 1
 
 
 
@@ -147,14 +151,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **4** Le Service est guidé, dans l’exécution du mandat visé à l’article 3, par les principes suivants :
 - **a)** l’exécution de la peine tient compte de toute information pertinente dont le Service dispose, notamment les motifs et recommandations donnés par le juge qui l’a prononcée, la nature et la gravité de l’infraction, le degré de responsabilité du délinquant, les renseignements obtenus au cours du procès ou de la détermination de la peine ou fournis par les victimes, les délinquants ou d’autres éléments du système de justice pénale, ainsi que les directives ou observations de la Commission des libérations conditionnelles du Canada en ce qui touche la libération;
 - **b)** il accroît son efficacité et sa transparence par l’échange, au moment opportun, de renseignements utiles avec les victimes, les délinquants et les autres éléments du système de justice pénale ainsi que par la communication de ses directives d’orientation générale et programmes correctionnels tant aux victimes et aux délinquants qu’au public;
-- **c)** il prend les mesures qui, compte tenu de la protection de la société, des agents et des délinquants, ne vont pas au-delà de ce qui est nécessaire et proportionnel aux objectifs de la présente loi;
+- **c)** il prend les mesures qui, compte tenu de la protection de la société, des agents et des délinquants, sont les moins privatives de liberté;
+- **c.1)** il envisage des solutions de rechange à la mise sous garde dans un pénitencier, notamment celles prévues aux articles 29 et 81;
+- **c.2)** il assure la prestation efficace des programmes offerts aux délinquants, notamment les programmes correctionnels et les programmes d’éducation, de formation professionnelle et de bénévolat, en vue d’améliorer l’accès aux solutions de rechange à la mise sous garde dans un pénitencier et de promouvoir la réadaptation;
 - **d)** le délinquant continue à jouir des droits reconnus à tout citoyen, sauf de ceux dont la suppression ou la restriction légitime est une conséquence nécessaire de la peine qui lui est infligée;
 - **e)** il facilite la participation du public aux questions relatives à ses activités;
 - **f)** ses décisions doivent être claires et équitables, les délinquants ayant accès à des mécanismes efficaces de règlement de griefs;
-- **g)** ses directives d’orientation générale, programmes et pratiques respectent les différences ethniques, culturelles et linguistiques, ainsi qu’entre les sexes, et tiennent compte des besoins propres aux femmes, aux autochtones, aux personnes nécessitant des soins de santé mentale et à d’autres groupes;
+- **g)** ses directives d’orientation générale, programmes et pratiques respectent les différences ethniques, culturelles, religieuses et linguistiques, ainsi qu’entre les sexes, l’orientation sexuelle, l’identité et l’expression de genre, et tiennent compte des besoins propres aux femmes, aux Autochtones, aux minorités visibles, aux personnes nécessitant des soins de santé mentale et à d’autres groupes;
 - **h)** il est attendu que les délinquants observent les règlements pénitentiaires et les conditions d’octroi des permissions de sortir, des placements à l’extérieur, des libérations conditionnelles ou d’office et des ordonnances de surveillance de longue durée et participent activement à la réalisation des objectifs énoncés dans leur plan correctionnel, notamment les programmes favorisant leur réadaptation et leur réinsertion sociale;
 - **i)** il veille au bon recrutement et à la bonne formation de ses agents, leur offre de bonnes conditions de travail dans un milieu exempt de pratiques portant atteinte à la dignité humaine, un plan de carrière avec la possibilité de se perfectionner ainsi que l’occasion de participer à l’élaboration des directives d’orientation générale et programmes correctionnels.
-> 1992, ch. 20, art. 4; 1995, ch. 42, art. 2(F); 2012, ch. 1, art. 54 et 160
+> 1992, ch. 20, art. 4; 1995, ch. 42, art. 2(F); 2012, ch. 1, art. 54 et 1602019, ch. 27, art. 2
 
 
 
@@ -492,14 +498,31 @@ La permission est accordée pour une période maximale de quinze jours.
 
 - **(1)** En cas de décès ou de blessure grave d’un détenu, le Service doit sans délai faire enquête — même si une autre est déjà en cours au titre de l’article 20 — et remettre un rapport au commissaire ou à son délégué.
 
-**Aide médicale à mourir**
+**Exceptions**
 
-- **(1.1)** Le paragraphe (1) ne s’applique pas dans le cas où le décès du détenu résulte du fait qu’il a reçu l’***aide médicale à mourir*** au sens de l’article 241.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en conformité avec l’article 241.2 de cette loi.
+- **(1.1)** Le paragraphe (1) ne s’applique pas dans les cas suivants :
+	- **a)** le décès du détenu résulte du fait qu’il a reçu l’aide médicale à mourir au sens de l’article 241.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en conformité avec l’article 241.2 de cette loi;
+	- **b)** un professionnel de la santé agréé avise par écrit le Service qu’il a des motifs raisonnables de croire que le détenu est décédé d’une mort naturelle.
 
 **Rapport à l’enquêteur correctionnel**
 
-- **(2)** Le Service remet à l’enquêteur correctionnel une copie du rapport.
-> 1992, ch. 20, art. 19; 2016, ch. 3, art. 8
+- **(2)** Le Service remet à l’enquêteur correctionnel, au sens de la partie III, une copie du rapport.
+> 1992, ch. 20, art. 19; 2016, ch. 3, art. 82019, ch. 27, art. 4
+
+
+
+
+
+**Examen de la qualité des soins**
+
+**19.1** 
+
+- **(1)** Lorsqu’un professionnel de la santé agréé avise par écrit le Service qu’il a des motifs raisonnables de croire qu’un détenu est décédé d’une mort naturelle, le Service doit sans délai faire effectuer un examen par un professionnel de la santé agréé employé par le Service — ou dont les services ont été retenus par celui-ci — afin d’évaluer la qualité des soins dispensés au détenu dans le pénitencier, même si une enquête est déjà en cours au titre de l’article 20. Le professionnel de la santé agréé remet un rapport d’examen au commissaire ou à son délégué.
+
+**Rapport à l’enquêteur correctionnel**
+
+- **(2)** Le Service remet à l’enquêteur correctionnel, au sens de la partie III, une copie du rapport d’examen.
+> 2019, ch. 27, art. 5
 
 
 
@@ -711,11 +734,11 @@ La permission est accordée pour une période maximale de quinze jours.
 
 **Incarcération : facteurs à prendre en compte**
 
-**28** Le Service doit s’assurer, dans la mesure du possible, que le pénitencier dans lequel est incarcéré le détenu constitue un milieu où seules existent les restrictions nécessaires, compte tenu des éléments suivants :
+**28** Le Service doit s’assurer, dans la mesure du possible, que le pénitencier dans lequel est incarcéré le détenu constitue un milieu où seules existent les restrictions les moins privatives de liberté pour celui-ci, compte tenu des éléments suivants :
 - **a)** le degré de garde et de surveillance nécessaire à la sécurité du public, à celle du pénitencier, des personnes qui s’y trouvent et du détenu;
 - **b)** la facilité d’accès à la collectivité à laquelle il appartient, à sa famille et à un milieu culturel et linguistique compatible;
-- **c)** l’existence de programmes et services qui lui conviennent et sa volonté d’y participer.
-> 1992, ch. 20, art. 28; 2012, ch. 1, art. 58
+- **c)** l’existence de programmes et de services qui lui conviennent et sa volonté d’y participer ou d’en bénéficier.
+> 1992, ch. 20, art. 28; 2012, ch. 1, art. 582019, ch. 27, art. 6
 
 
 
@@ -734,15 +757,24 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
-**Assignation**
+**Cotes de sécurité — pénitenciers ou secteurs**
+
+**29.1** Le commissaire peut attribuer à tout pénitencier ou secteur d’un pénitencier une cote de sécurité « sécurité minimale », « sécurité moyenne », « sécurité maximale », « niveaux de sécurité multiples » ou toute autre cote de sécurité réglementaire.
+> 2019, ch. 27, art. 8
+
+
+
+
+
+**Attribution de cote aux détenus**
 
 **30** 
 
-- **(1)** Le Service assigne une cote de sécurité selon les catégories dites maximale, moyenne et minimale à chaque détenu conformément aux règlements d’application de l’alinéa 96z.6).
+- **(1)** Le Service attribue une cote de sécurité selon les catégories dites maximale, moyenne et minimale à chaque détenu conformément aux règlements d’application de l’alinéa 96z.6).
 
 **Motifs**
 
-- **(2)** Le Service doit donner, par écrit, à chaque détenu les motifs à l’appui de l’assignation d’une cote de sécurité ou du changement de celle-ci.
+- **(2)** Le Service doit donner, par écrit, à chaque détenu les motifs à l’appui de l’attribution d’une cote de sécurité ou du changement de celle-ci.
 
 **Sous-catégories**
 
@@ -751,7 +783,7 @@ La permission est accordée pour une période maximale de quinze jours.
 **Motifs**
 
 - **(4)** Le commissaire ou l’agent désigné par lui doit donner à chaque détenu, par écrit, les motifs à l’appui de son classement dans une sous-catégorie ou de son transfert à une autre.
-> 1992, ch. 20, art. 30; 2012, ch. 1, art. 59
+> 1992, ch. 20, art. 30; 2012, ch. 1, art. 592019, ch. 27, art. 9(F)
 
 
 
@@ -1002,11 +1034,11 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
-**Fouilles discrètes ou par palpation**
+**Fouille discrète ou fouille par palpation ordinaires**
 
 **47** 
 
-- **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis, procéder à des fouilles discrètes ou par palpation sur des détenus.
+- **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis, procéder à la fouille discrète ou à la fouille par palpation ordinaires des détenus.
 
 **Idem**
 
@@ -1014,7 +1046,7 @@ La permission est accordée pour une période maximale de quinze jours.
 	- **a)** ce pouvoir est prévu par le contrat, tout en ne figurant pas parmi les services principaux à fournir;
 	- **b)** son exercice se justifie par la nature des services principaux;
 	- **c)** la personne qui l’exerce a reçu la formation réglementaire.
-> 1992, ch. 20, art. 47; 1995, ch. 42, art. 14(F)
+> 1992, ch. 20, art. 47; 1995, ch. 42, art. 14(F)2019, ch. 27, art. 13(F)
 
 
 
@@ -1160,9 +1192,11 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
-**Fouille sans motif précis**
+**Fouille discrète ou fouille par palpation ordinaires**
 
-**59** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis, procéder à la fouille discrète ou par palpation des visiteurs.
+**59** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis, procéder à la fouille discrète ou à la fouille par palpation ordinaires des visiteurs.
+> 1992, ch. 20, art. 592019, ch. 27, art. 17(F)
+
 
 
 
@@ -1196,11 +1230,11 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
-**Fouille sans motif précis**
+**Fouille ordinaire**
 
 **61** 
 
-- **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis et selon les modalités réglementaires, procéder à la fouille des véhicules qui se trouvent au pénitencier.
+- **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis et selon les modalités réglementaires, procéder à la fouille ordinaire des véhicules qui se trouvent au pénitencier.
 
 **Fouille : objet interdit**
 
@@ -1215,7 +1249,7 @@ La permission est accordée pour une période maximale de quinze jours.
 - **(4)** Le directeur peut, par écrit, autoriser un agent à procéder à la fouille des véhicules qui se trouvent au pénitencier, s’il est convaincu qu’il existe des motifs raisonnables de croire :
 	- **a)** d’une part, qu’en raison de la présence d’un objet interdit ou de tout élément de preuve relatif à la planification ou à la perpétration d’une infraction criminelle il existe une menace sérieuse à la vie ou à la sécurité de quiconque, ou à la sécurité du pénitencier;
 	- **b)** d’autre part, que la fouille est nécessaire afin d’enrayer la menace et de saisir l’objet ou l’élément de preuve.
-> 1992, ch. 20, art. 61; 2012, ch. 1, art. 65
+> 1992, ch. 20, art. 61; 2012, ch. 1, art. 652019, ch. 27, art. 19(F)
 
 
 
@@ -1236,9 +1270,11 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
-**Fouille sans motif précis**
+**Fouille discrète ou fouille par palpation ordinaires**
 
-**63** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis, procéder à la fouille, discrète ou par palpation, d’autres agents.
+**63** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis, procéder à la fouille discrète ou à la fouille par palpation ordinaires d’autres agents.
+> 1992, ch. 20, art. 632019, ch. 27, art. 20(F)
+
 
 
 
@@ -1426,19 +1462,41 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
-### Autochtones
+### Délinquants autochtones
 
 
 
 **Définitions**
 
-**79** Les définitions qui suivent s’appliquent aux articles 80 à 84.
+**79** Les définitions qui suivent s’appliquent aux articles 79.1 à 84.1.
 
-***autochtone*** Indien, Inuit ou Métis. (*aboriginal*)
+***corps dirigeant autochtone*** Conseil, gouvernement ou autre entité autorisé à agir pour le compte d’un groupe, d’une collectivité ou d’un peuple autochtones titulaires de droits reconnus et confirmés par l’article 35 de la Loi constitutionnelle de 1982. (*Indigenous governing body*)
 
-***collectivité autochtone*** Une nation autochtone, un conseil de bande, un conseil tribal ou une bande ainsi qu’une collectivité, une organisation ou un autre groupe dont la majorité des dirigeants sont autochtones. (*aboriginal community*)
+***organisme autochtone*** Organisme dont la majorité des dirigeants sont des Autochtones. (*Indigenous organization*)
 
-***services correctionnels*** Services ou programmes — y compris la prise en charge et la garde — destinés aux délinquants. (*correctional services*)
+***peuples autochtones du Canada*** S’entend au sens du paragraphe 35(2) de la Loi constitutionnelle de 1982. (*Indigenous peoples of Canada*)
+
+***services correctionnels*** Services ou programmes — y compris la prise en charge, la garde et la supervision — destinés aux délinquants. (*correctional services*)
+> 1992, ch. 20, art. 792019, ch. 27, art. 23
+
+
+
+
+
+**Éléments à prendre en considération**
+
+**79.1** 
+
+- **(1)** Dans le cadre de la prise de toute décision au titre de la présente loi concernant un délinquant autochtone, le Service tient compte des éléments suivants :
+	- **a)** les facteurs systémiques et historiques touchant les peuples autochtones du Canada;
+	- **b)** les facteurs systémiques et historiques qui ont contribué à la surreprésentation des Autochtones dans le système de justice pénal et qui peuvent avoir contribué aux démêlés du délinquant avec le système de justice pénale;
+	- **c)** l’identité et la culture autochtones du délinquant, notamment son passé familial et son historique d’adoption.
+
+**Exception : évaluation du risque**
+
+- **(2)** Les éléments énoncés aux alinéas (1)a) à c) ne sont pas pris en considération pour les décisions concernant l’évaluation du risque que représente un délinquant autochtone, sauf dans les cas où ces éléments pourraient abaisser le niveau de risque.
+> 2019, ch. 27, art. 23
+
 
 
 
@@ -1446,6 +1504,8 @@ La permission est accordée pour une période maximale de quinze jours.
 **Programmes**
 
 **80** Dans le cadre de l’obligation qui lui est imposée par l’article 76, le Service doit offrir des programmes adaptés aux besoins des délinquants autochtones.
+> 1992, ch. 20, art. 802019, ch. 27, art. 23
+
 
 
 
@@ -1454,16 +1514,16 @@ La permission est accordée pour une période maximale de quinze jours.
 
 **81** 
 
-- **(1)** Le ministre ou son délégué peut conclure avec une collectivité autochtone un accord prévoyant la prestation de services correctionnels aux délinquants autochtones et le paiement par lui de leurs coûts.
+- **(1)** Le ministre ou son délégué peut conclure avec tout corps dirigeant ou organisme autochtones un accord prévoyant la prestation de services correctionnels aux délinquants autochtones et le paiement par lui de leurs coûts.
 
 **Portée de l’accord**
 
-- **(2)** L’accord peut aussi prévoir la prestation de services correctionnels à un délinquant autre qu’un autochtone.
+- **(2)** L’accord peut aussi prévoir la prestation de services correctionnels à un délinquant autre qu’un Autochtone.
 
 **Transfert à la collectivité**
 
-- **(3)** En vertu de l’accord, le commissaire peut, avec le consentement des deux parties, confier le soin et la garde d’un délinquant à une collectivité autochtone.
-> 1992, ch. 20, art. 81; 1995, ch. 42, art. 21(F)
+- **(3)** En vertu de l’accord, le commissaire peut, avec le consentement des deux parties, confier le soin et la garde d’un délinquant au corps dirigeant ou à l’organisme autochtones compétents.
+> 1992, ch. 20, art. 81; 1995, ch. 42, art. 21(F)2019, ch. 27, art. 24
 
 
 
@@ -1473,11 +1533,13 @@ La permission est accordée pour une période maximale de quinze jours.
 
 **82** 
 
-- **(1)** Le Service constitue un Comité consultatif autochtone national et peut constituer des comités consultatifs autochtones régionaux ou locaux chargés de le conseiller sur la prestation de services correctionnels aux délinquants autochtones.
+- **(1)** Le Service constitue un comité consultatif autochtone national et peut constituer des comités consultatifs autochtones régionaux ou locaux chargés de le conseiller sur la prestation de services correctionnels aux délinquants autochtones.
 
 **Consultation par les comités**
 
-- **(2)** À cette fin, les comités consultent régulièrement les collectivités autochtones et toute personne compétente sur les questions autochtones.
+- **(2)** À cette fin, les comités consultent régulièrement les collectivités autochtones, les corps dirigeants autochtones, les organismes autochtones et toute personne compétente sur les questions autochtones.
+> 1992, ch. 20, art. 822019, ch. 27, art. 25
+
 
 
 
@@ -1486,19 +1548,25 @@ La permission est accordée pour une période maximale de quinze jours.
 
 **83** 
 
-- **(1)** Il est entendu que la spiritualité autochtone et les chefs spirituels ou aînés autochtones sont respectivement traités à égalité de statut avec toute autre religion et chef religieux.
+- **(1)** Il est entendu que la spiritualité autochtone et les chefs spirituels ou aînés autochtones sont respectivement traités à égalité de statut avec toute autre religion et tout autre chef religieux.
 
-**Obligation du Service en la matière**
+**Conseils**
 
-- **(2)** Le Service prend toutes mesures utiles pour offrir aux détenus les services d’un chef spirituel ou d’un aîné après consultation du Comité consultatif autochtone national et des comités régionaux et locaux concernés.
+- **(1.1)** S’il le juge indiqué dans les circonstances, le Service demande conseil à un chef spirituel ou un aîné authochtones dans la prestation de services correctionnels à un détenu autochtone, en particulier pour les questions de santé mentale et de comportement.
+
+**Obligation du Service**
+
+- **(2)** Le Service prend toutes mesures utiles pour offrir aux détenus autochtones les services d’un chef spirituel ou d’un aîné autochtones après consultation du comité consultatif autochtone national constitué en vertu de l’article 82 et des comités régionaux et locaux concernés.
+> 1992, ch. 20, art. 832019, ch. 27, art. 25
+
 
 
 
 
 **Libération dans une collectivité autochtone**
 
-**84** Avec le consentement du détenu qui exprime le souhait d’être libéré au sein d’une collectivité autochtone, le Service donne à celle-ci un préavis suffisant de l’examen en vue de la libération conditionnelle du détenu ou de la date de sa libération d’office, ainsi que la possibilité de soumettre un plan pour la libération du détenu et son intégration au sein de cette collectivité.
-> 1992, ch. 20, art. 84; 2012, ch. 1, art. 66
+**84** Avec le consentement du détenu qui exprime le souhait d’être libéré au sein d’une collectivité autochtone, le Service donne au corps dirigeant autochtone de celle-ci un préavis suffisant de l’examen en vue de la libération conditionnelle du détenu ou de la date de sa libération d’office, ainsi que la possibilité de soumettre un plan pour la libération du détenu et son intégration au sein de cette collectivité.
+> 1992, ch. 20, art. 84; 2012, ch. 1, art. 662019, ch. 27, art. 25
 
 
 
@@ -1506,8 +1574,8 @@ La permission est accordée pour une période maximale de quinze jours.
 
 **Plan de surveillance de longue durée**
 
-**84.1** Avec le consentement du délinquant qui est soumis à une ordonnance de surveillance de longue durée et qui sollicite une surveillance au sein d’une collectivité autochtone, le Service donne à celle-ci un préavis suffisant de la demande, ainsi que la possibilité de soumettre un plan pour la surveillance du délinquant et son intégration au sein de cette collectivité.
-> 1997, ch. 17, art. 15
+**84.1** Avec le consentement du délinquant qui est soumis à une ordonnance de surveillance de longue durée et qui sollicite une surveillance au sein d’une collectivité autochtone, le Service donne au corps dirigeant autochtone de celle-ci un préavis suffisant de la demande, ainsi que la possibilité de soumettre un plan pour la surveillance du délinquant et son intégration au sein de cette collectivité.
+> 1997, ch. 17, art. 152019, ch. 27, art. 25
 
 
 
@@ -1521,9 +1589,11 @@ La permission est accordée pour une période maximale de quinze jours.
 
 **85** Les définitions qui suivent s’appliquent aux articles 86 et 87.
 
-***soins de santé*** Soins médicaux, dentaires et de santé mentale dispensés par des professionnels de la santé agréés. (*health care*)
+***soins de santé*** Soins médicaux, dentaires et de santé mentale dispensés par des professionnels de la santé agréés ou par des personnes qui agissent sous la supervision de tels professionnels. (*health care*)
 
 ***soins de santé mentale*** Traitement des troubles de la pensée, de l’humeur, de la perception, de l’orientation ou de la mémoire qui altèrent considérablement le jugement, le comportement, le sens de la réalité ou l’aptitude à faire face aux exigences normales de la vie. (*mental health care*)
+> 1992, ch. 20, art. 852019, ch. 27, art. 26
+
 
 
 
@@ -1532,11 +1602,13 @@ La permission est accordée pour une période maximale de quinze jours.
 
 **86** 
 
-- **(1)** Le Service veille à ce que chaque détenu reçoive les soins de santé essentiels et qu’il ait accès, dans la mesure du possible, aux soins qui peuvent faciliter sa réadaptation et sa réinsertion sociale.
+- **(1)** Le Service veille à ce que chaque détenu reçoive les soins de santé essentiels et qu’il ait accès, dans la mesure du possible, aux soins de santé non essentiels.
 
 **Qualité des soins**
 
 - **(2)** La prestation des soins de santé doit satisfaire aux normes professionnelles reconnues.
+> 1992, ch. 20, art. 862019, ch. 27, art. 27
+
 
 
 
@@ -1728,7 +1800,7 @@ La permission est accordée pour une période maximale de quinze jours.
 	- **(iii)** la portée de chaque peine;
 - **j)** prévoyant la révision des décisions des personnes chargées d’instruire une accusation d’infraction disciplinaire;
 - **k)** prévoyant la nomination, la rémunération ainsi que les indemnités de séjour et de déplacement à verser à toute personne, autre qu’un agent, chargée d’instruire une accusation d’infraction disciplinaire ou conformément aux règlements d’application de l’alinéa j), de réviser une décision;
-- **l)** précisant la manière d’effectuer les inspections lors d’une fouille à nu, d’une fouille discrète ou par palpation, au sens de l’article 46;
+- **l)** précisant la manière d’effectuer les inspections lors d’une fouille à nu, d’une fouille discrète ou d’une fouille par palpation, au sens de l’article 46;
 - **m)** précisant la procédure à suivre pour les analyses d’urine et les conséquences des résultats de ces analyses;
 - **m.1)** autorisant le commissaire à établir des règles, par directive, sur les conséquences d’un refus de porter le dispositif de surveillance à distance visé à l’article 57.1 ou de son altération;
 - **n)** précisant les conséquences — en ce qui touche son droit de visite ou sa présence au pénitencier — du refus d’un visiteur de se soumettre à une fouille;
@@ -1751,14 +1823,14 @@ La permission est accordée pour une période maximale de quinze jours.
 - **z.3)** prévoyant la rémunération ainsi que les indemnités de séjour et de déplacement à verser aux membres des comités prévus au paragraphe 82(1);
 - **z.4)** en vue de la participation des membres de la collectivité aux activités du Service;
 - **z.5)** fixant la procédure à suivre en cas d’usage de force par un agent;
-- **z.6)** concernant l’assignation d’une cote de sécurité au détenu et le classement de celui-ci dans une sous-catégorie au titre de l’article 30 ainsi que les critères de détermination de la cote et de la sous-catégorie;
+- **z.6)** concernant l’attribution d’une cote de sécurité au détenu et le classement de celui-ci dans une sous-catégorie au titre de l’article 30 ainsi que les critères de détermination de la cote et de la sous-catégorie;
 - **z.7)** autorisant, dans les circonstances précisées, le directeur ou l’agent que celui-ci désigne à intercepter, surveiller ou empêcher les communications entre un détenu et toute autre personne;
 - **z.8)** concernant les permissions de sortir avec escorte et les placements à l’extérieur — notamment les circonstances dans lesquelles le directeur ou la Commission, selon le cas, peuvent accorder une permission de sortir au titre de l’article 17;
 - **z.9)** concernant les modalités d’une demande faite au commissaire conformément à l’article 26 et concernant la manière de traiter cette demande;
 - **z.10)** imposant des obligations ou des interdictions au Service pour l’application de toute disposition de la présente partie;
 - **z.11)** portant toute mesure d’ordre réglementaire prévue par la présente partie;
 - **z.12)** portant toute autre mesure d’application de la présente partie.
-> 1992, ch. 20, art. 96; 1995, ch. 42, art. 25 et 72(F); 2012, ch. 1, art. 69; 2014, ch. 36, art. 2(F)
+> 1992, ch. 20, art. 96; 1995, ch. 42, art. 25 et 72(F); 2012, ch. 1, art. 69; 2014, ch. 36, art. 2(F)2019, ch. 27, art. 31(F)
 
 
 
@@ -1810,11 +1882,13 @@ La permission est accordée pour une période maximale de quinze jours.
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
+***autochtone*** S’entend au sens de la partie 1. (*Indigenous*)
+
 ***commissaire*** S’entend au sens de la partie I. (*Commissioner*)
 
 ***Commission*** La Commission des libérations conditionnelles du Canada visée à l’article 103. Y sont assimilées les commissions provinciales en ce qui a trait à l’exercice de la compétence que leur attribue l’article 112 et aux dispositions qui leur ont été rendues applicables en vertu de l’article 113. (*Board*)
 
-***commission provinciale*** La Commission ontarienne des libérations conditionnelles, la Commission québécoise des libérations conditionnelles, la commission de la libération conditionnelle de la Colombie-Britannique ainsi que tout autre organisme provincial, ayant compétence en matière de libération conditionnelle, institué par la législature ou le lieutenant-gouverneur en conseil d’une province. (*provincial parole board*)
+***commission provinciale*** La Commission ontarienne des libérations conditionnelles et la Commission québécoise des libérations conditionnelles ainsi que tout autre organisme provincial, ayant compétence en matière de libération conditionnelle, institué par la législature ou le lieutenant-gouverneur en conseil d’une province. (*provincial parole board*)
 
 ***date de libération d’office*** Date calculée en conformité avec l’article 127. (*statutory release date*)
 
@@ -1868,7 +1942,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Délégation**
 
 - **(3)** Sauf disposition contraire prévue par la présente partie ou par règlement, les pouvoirs et fonctions conférés par celle-ci ou sous son régime au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable de l’établissement.
-> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155; 2012, ch. 1, art. 70, 160 et 197
+> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155; 2012, ch. 1, art. 70, 160 et 1972019, ch. 27, art. 32
 
 
 
@@ -1917,10 +1991,10 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **101** La Commission et les commissions provinciales sont guidées dans l’exécution de leur mandat par les principes suivants :
 - **a)** elles doivent tenir compte de toute l’information pertinente dont elles disposent, notamment les motifs et les recommandations du juge qui a infligé la peine, la nature et la gravité de l’infraction, le degré de responsabilité du délinquant, les renseignements obtenus au cours du procès ou de la détermination de la peine et ceux qui ont été obtenus des victimes, des délinquants ou d’autres éléments du système de justice pénale, y compris les évaluations fournies par les autorités correctionnelles;
 - **b)** elles accroissent leur efficacité et leur transparence par l’échange, au moment opportun, de renseignements utiles avec les victimes, les délinquants et les autres éléments du système de justice pénale et par la communication de leurs directives d’orientation générale et programmes tant aux victimes et aux délinquants qu’au grand public;
-- **c)** elles prennent les décisions qui, compte tenu de la protection de la société, ne vont pas au-delà de ce qui est nécessaire et proportionnel aux objectifs de la mise en liberté sous condition;
+- **c)** elles prennent les décisions qui, compte tenu de la protection de la société, sont les moins privatives de liberté;
 - **d)** elles s’inspirent des directives d’orientation générale qui leur sont remises et leurs membres doivent recevoir la formation nécessaire à la mise en oeuvre de ces directives;
 - **e)** de manière à assurer l’équité et la clarté du processus, les autorités doivent donner aux délinquants les motifs des décisions, ainsi que tous autres renseignements pertinents, et la possibilité de les faire réviser.
-> 1992, ch. 20, art. 101; 2012, ch. 1, art. 71
+> 1992, ch. 20, art. 101; 2012, ch. 1, art. 712019, ch. 27, art. 32.1
 
 
 
@@ -2207,7 +2281,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **a)** l’annulation paraît nécessaire et justifiée par suite de la violation d’une des conditions ou pour empêcher une telle violation;
 	- **b)** les motifs de la décision d’accorder la permission ont changé ou n’existent plus;
 	- **c)** on a procédé au réexamen du dossier à la lumière de renseignements qui ne pouvaient raisonnablement avoir été communiqués lors de l’octroi de la permission.
-> 1992, ch. 20, art. 116; 1993, ch. 34, art. 58(F); 1995, ch. 42, art. 32(F) et 71(F)
+> 1992, ch. 20, art. 116; 1993, ch. 34, art. 58(F); 1995, ch. 42, art. 32(F) et 71(F)2019, ch. 27, art. 33(A)
 
 
 
@@ -2721,7 +2795,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **(xiii)** paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans);
 - **b)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), commise à l’égard d’une personne âgée de moins de dix-huit ans et poursuivie par mise en accusation :
 	- **(i)** article 155 (inceste),
-	- **(ii)** article 159 (relations sexuelles anales),
+	- **(ii)** [Abrogé, 2019, ch. 25, art. 394]
 	- **(iii)** paragraphes 160(1) et (2) (bestialité ou usage de la force),
 	- **(iv)** article 271 (agression sexuelle),
 	- **(v)** article 272 (agression sexuelle armée, menaces contre une tierce personne ou infliction de lésions corporelles),
@@ -2749,7 +2823,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Détermination**
 
 - **(10)** Il n’est pas nécessaire, pour déterminer s’il existe des motifs raisonnables de croire que le délinquant commettra une infraction causant la mort ou un dommage grave à une autre personne, une infraction d’ordre sexuel à l’égard d’un enfant ou une infraction grave en matière de drogue, de préciser l’infraction.
-> 1992, ch. 20, art. 129; 1995, ch. 42, art. 44; 1998, ch. 35, art. 117; 2012, ch. 1, art. 84; 2014, ch. 25, art. 41
+> 1992, ch. 20, art. 129; 1995, ch. 42, art. 44; 1998, ch. 35, art. 117; 2012, ch. 1, art. 84; 2014, ch. 25, art. 412019, ch. 25, art. 394
 
 
 
@@ -3372,12 +3446,14 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Enregistrement sonore**
 
-- **(13)** La victime ou la personne visée au paragraphe 142(3) qui n’est pas présente à l’audience relative à l’examen visé aux alinéas (1)a) ou b) à titre d’observateur a le droit, sur demande et sous réserve des conditions imposées par la Commission, une fois l’audience terminée, d’écouter l’enregistrement sonore de celle-ci, à l’exception de toute partie de l’enregistrement qui, de l’avis de la Commission, risquerait vraisemblablement de mettre en danger la sécurité d’une personne ou de permettre de remonter à une source de renseignements obtenus de façon confidentielle.
+- **(13)** La victime ou la personne visée au paragraphe 142(3) a le droit, sur demande et sous réserve des conditions imposées par la Commission, une fois l’audience relative à l’examen visé aux alinéas (1)a) ou b) terminée, d’écouter l’enregistrement sonore de celle-ci, à l’exception de toute partie de l’enregistrement qui, de l’avis de la Commission :
+	- **a)** risquerait vraisemblablement de mettre en danger la sécurité d’une personne ou de permettre de remonter à une source de renseignements obtenus de façon confidentielle;
+	- **b)** ne devrait pas être entendue par la victime ou la personne visée au paragraphe 142(3) parce que l’intérêt de la victime ou de la personne ne justifierait nettement pas une éventuelle violation de la vie privée d’une personne.
 
 **Accès aux renseignements**
 
 - **(14)** Si un observateur est présent lors d’une audience ou si la victime ou la personne visée au paragraphe 142(3) a exercé ses droits au titre du paragraphe (13), les renseignements et documents qui y sont étudiés ou communiqués ne sont pas réputés être des documents accessibles au public aux fins de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) et de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
-> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96, ch. 19, art. 527; 2015, ch. 11, art. 4, ch. 13, art. 49
+> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96, ch. 19, art. 527; 2015, ch. 11, art. 4, ch. 13, art. 492019, ch. 27, art. 34
 
 
 
@@ -3700,12 +3776,12 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Directives égalitaires**
 
-- **(3)** Les directives établies en vertu du paragraphe (2) doivent respecter les différences ethniques, culturelles et linguistiques, ainsi qu’entre les sexes, et tenir compte des besoins propres aux femmes, aux autochtones et à d’autres groupes particuliers.
+- **(3)** Les directives établies en vertu du paragraphe (2) doivent respecter les différences ethniques, culturelles et linguistiques, ainsi qu’entre les sexes, et tenir compte des besoins propres aux femmes, aux Autochtones et à d’autres groupes particuliers.
 
 **Réunions du Bureau**
 
 - **(4)** Le président préside les réunions du Bureau.
-> 1992, ch. 20, art. 151; 1995, ch. 42, art. 58(F)
+> 1992, ch. 20, art. 151; 1995, ch. 42, art. 58(F)2019, ch. 27, art. 35
 
 
 
@@ -4574,10 +4650,7 @@ Il est alors autorisé à faire prêter serment.
 
 
 
-
-**Internement administratif**
-
-**220** Toute question relative à l’isolement préventif et aux infractions disciplinaires est, dès l’entrée en vigueur de l’article 214, régie sous le régime de la partie I de la présente loi.
+**220** [Abrogé, 2019, ch. 27, art. 36]
 
 
 
@@ -4776,7 +4849,7 @@ Il est alors autorisé à faire prêter serment.
 - **a.8)** article 83.2 (infraction au profit d’un groupe terroriste);
 - **a.9)** article 83.21 (charger une personne de se livrer à une activité pour un groupe terroriste);
 - **a.91)** article 83.22 (charger une personne de se livrer à une activité terroriste);
-- **a.92)** paragraphe 83.221(1) (préconiser ou fomenter la perpétration d’infractions de terrorisme);
+- **a.92)** article 83.221 (conseiller la commission d’une infraction de terrorisme);
 - **b)** paragraphe 85(1) (usage d’une arme à feu lors de la perpétration d’une infraction);
 - **b.1)** paragraphe 85(2) (usage d’une fausse arme à feu lors de la perpétration d’une infraction);
 - **c)** article 87 (braquer une arme à feu);
@@ -4788,7 +4861,7 @@ Il est alors autorisé à faire prêter serment.
 - **g)** article 153 (personnes en situation d’autorité);
 - **g.1)** article 153.1 (personnes en situation d’autorité);
 - **h)** article 155 (inceste);
-- **i)** article 159 (relations sexuelles anales);
+- **i)** [Abrogé, 2019, ch. 25, art. 395]
 - **j)** article 160 (bestialité, usage de la force, en présence d’un enfant ou incitation de ceux-ci);
 - **j.1)** article 163.1 (pornographie juvénile);
 - **k)** article 170 (père, mère ou tuteur qui sert d’entremetteur);
@@ -4904,7 +4977,7 @@ Il est alors autorisé à faire prêter serment.
 - **d)** article 7 (manquement à la responsabilité à l’étranger : chef militaire ou autre supérieur).
 
 
-> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104; 2014, ch. 25, art. 42; 2015, ch. 20, art. 30; 2018, ch. 21, art. 48 à 50
+> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104; 2014, ch. 25, art. 42; 2015, ch. 20, art. 30; 2018, ch. 21, art. 48 à 502019, ch. 13, art. 1582019, ch. 25, art. 395
 
 
 
