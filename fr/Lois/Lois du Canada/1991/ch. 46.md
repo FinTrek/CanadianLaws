@@ -3956,16 +3956,20 @@ Est exclu de la présente définition le document attestant un dépôt ou, dans 
 
 - **(4)** Sauf disposition contraire des règlements administratifs, toute personne participant à une assemblée de la manière prévue au paragraphe 136(2) et habile à y voter peut le faire par le moyen de communication téléphonique, électronique ou autre mis à sa disposition par la banque à cette fin.
 
-**Vote par voie de courrier**
+**Manière de voter**
 
-- **(5)** Les règlements administratifs d’une coopérative de crédit fédérale peuvent, sous réserve des règlements, autoriser les membres à exercer leur droit de vote par voie de courrier et fixer les conditions qui s’y appliquent.
+- **(5)** Les règlements administratifs d’une coopérative de crédit fédérale peuvent, sous réserve des règlements, autoriser les membres à exercer leur droit de vote avant la tenue de l’assemblée, de l’une ou de plusieurs des manières ci-après, et fixer les conditions qui s’y appliquent :
+	- **a)** par voie de courrier;
+	- **b)** en personne, à l’une de ses succursales;
+	- **c)** par voie téléphonique ou électronique;
+	- **d)** de toute autre manière prévue par règlement.
 
 **Règlements**
 
 - **(6)** Le gouverneur en conseil peut prendre des règlements :
 	- **a)** concernant la façon de voter par tout moyen de communication — téléphonique, électronique ou autre — lors d’une assemblée des actionnaires ou des membres ainsi que les exigences à respecter dans le cadre du vote;
-	- **b)** concernant les modalités du vote par voie de courrier des membres de la coopérative de crédit fédérale.
-> 1991, ch. 46, art. 151; 2005, ch. 54, art. 23; 2010, ch. 12, art. 1961.
+	- **b)** concernant les modalités du vote visé aux alinéas (5)a) à d) des membres de la coopérative de crédit fédérale.
+> 1991, ch. 46, art. 151; 2005, ch. 54, art. 23; 2010, ch. 12, art. 1961; 2019, ch. 29, art. 87.
 
 
 
@@ -4168,12 +4172,12 @@ Ne constituent pas une sollicitation :
 
 **156.04** 
 
-- **(1)** Sous réserve du paragraphe (2) et du paragraphe 140(2), la direction de la banque envoie, avec l’avis de l’assemblée des actionnaires, un formulaire de procuration en la forme réglementaire aux actionnaires qui ont le droit de recevoir l’avis.
+- **(1)** Sous réserve des paragraphes (2) et 140(2), la direction de la banque envoie, avec l’avis de l’assemblée des actionnaires, un formulaire de procuration conforme aux règlements aux actionnaires qui ont le droit de recevoir l’avis.
 
 **Exception**
 
 - **(2)** La direction de la banque n’ayant pas fait appel au public et qui compte au plus cinquante actionnaires habiles à voter lors d’une assemblée, les codétenteurs d’une action étant comptés comme un seul actionnaire, n’est pas tenue d’envoyer le formulaire de procuration prévu au paragraphe (1).
-> 1997, ch. 15, art. 10; 2005, ch. 54, art. 28.
+> 1997, ch. 15, art. 10; 2005, ch. 54, art. 28; 2019, ch. 29, art. 88.
 
 
 
@@ -4183,16 +4187,21 @@ Ne constituent pas une sollicitation :
 
 **156.05** 
 
-- **(1)** Les procurations ne peuvent être sollicitées qu’à l’aide de circulaires envoyées en la forme réglementaire :
-	- **a)** sous forme d’annexe ou de document distinct de l’avis de l’assemblée, en cas de sollicitation effectuée par la direction d’une banque ou pour son compte;
-	- **b)** dans les autres cas, par toute personne en désaccord qui doit y mentionner l’objet de la sollicitation.
-Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’objet de la sollicitation et, en cas d’application de l’alinéa b), à la banque.
+- **(1)** Les procurations ne peuvent être sollicitées qu’à l’aide de circulaires, conformes aux règlements, envoyées au vérificateur, aux actionnaires faisant l’objet de la sollicitation et, en cas d’application de l’alinéa b), à la banque ainsi :
+	- **a)** dans le cas d’une sollicitation effectuée par la direction de la banque ou pour son compte, sous forme d’annexe ou de document distinct de l’avis d’assemblée;
+	- **b)** dans les autres cas, dans une circulaire de procuration d’opposant qui mentionne l’objet de la sollicitation.
+
+**Exception : sollicitation restreinte**
+
+- **(1.1)** Malgré le paragraphe (1), il n’est pas nécessaire, sauf lorsque la sollicitation est effectuée par la direction ou pour son compte, d’envoyer des circulaires aux actionnaires dont les procurations sont sollicitées lorsque leur nombre ne dépasse pas quinze, les codétenteurs d’une action étant comptés comme un seul actionnaire.
+
+**Exception : sollicitation par diffusion publique**
+
+- **(1.2)** Malgré le paragraphe (1), il n’est pas nécessaire, sauf lorsque la sollicitation est effectuée par la direction ou pour son compte, d’envoyer des circulaires pour effectuer une sollicitation lorsque celle-ci est, dans les circonstances réglementaires, transmise par diffusion publique, discours ou publication.
 
 **Copie au surintendant**
 
-- **(2)** La personne qui envoie une circulaire de sollicitation, soit par la direction, soit par un opposant, doit en même temps adresser au surintendant :
-	- **a)** dans le premier cas, un exemplaire de la circulaire, accompagné du formulaire de procuration, de l’avis de l’assemblée et de tout autre document utile à l’assemblée;
-	- **b)** dans le second cas, un exemplaire de la circulaire, accompagné du formulaire de procuration et de tout autre document utile à l’assemblée.
+- **(2)** La personne qui envoie une circulaire de sollicitation émanant de la direction ou d’un opposant doit, en même temps, en envoyer un exemplaire au surintendant accompagné du formulaire de procuration, de tout autre document utile à l’assemblée et, dans le cas où elle émane de la direction, d’une copie de l’avis d’assemblée.
 
 **Dispense par le surintendant**
 
@@ -4200,8 +4209,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Publication des dispenses**
 
-- **(4)** Le surintendant expose dans un périodique accessible au public les motifs et les détails de chacune des dispenses accordées en vertu du paragraphe (3).
-> 1997, ch. 15, art. 10.
+- **(4)** Le surintendant publie, dans une publication destinée au grand public, un avis de chaque décision où il accorde une dispense en vertu du paragraphe (3).
+> 1997, ch. 15, art. 10; 2019, ch. 29, art. 89.
 
 
 
@@ -4269,10 +4278,13 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Exemption réglementaire**
+**Règlements**
 
-**156.071** Le gouverneur en conseil peut prendre des règlements concernant les conditions que doit remplir une banque afin d’être soustraite à l’application de toute exigence énoncée aux articles 156.02 à 156.07.
-> 2005, ch. 54, art. 31.
+**156.071** Le gouverneur en conseil peut prendre des règlements concernant :
+- **a)** les pouvoirs que peut accorder un actionnaire dans un formulaire de procuration;
+- **b)** le formulaire de procuration et la circulaire de procuration, notamment la forme et le contenu de ces documents;
+- **c)** les conditions que doit remplir une banque afin de se soustraire à l’application des exigences énoncées aux articles 156.02 à 156.07.
+> 2005, ch. 54, art. 31; 2019, ch. 29, art. 90.
 
 
 
