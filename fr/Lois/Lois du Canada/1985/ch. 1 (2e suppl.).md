@@ -4571,7 +4571,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlements**
 
 - **(15)** Le gouverneur en conseil peut, par règlement, déterminer les cas où des frais peuvent être exigés pour permettre l’accès à des renseignements ou pour en fournir, pour en faire des copies ou pour certifier la conformité de celles-ci sous le régime du présent article, ainsi que fixer le montant de ces frais.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2012, ch. 24, art. 92; 2013, ch. 40, art. 237; 2014, ch. 20, art. 366(A), ch. 32, art. 60; 2015, ch. 20, art. 5.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2012, ch. 24, art. 92; 2013, ch. 40, art. 237; 2014, ch. 20, art. 366(A), ch. 32, art. 60; 2015, ch. 20, art. 5; 2019, ch. 13, art. 123(A).
 
 
 
