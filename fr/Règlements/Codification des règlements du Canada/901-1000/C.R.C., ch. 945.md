@@ -3346,6 +3346,8 @@ et le produit de la multiplication faite aux termes de l’alinéa d) est le mon
 		- **(xxxvii)** de la catégorie 51, 6 pour cent,
 		- **(xxxviii)** de la catégorie 52, 100 pour cent,
 		- **(xxxix)** de la catégorie 53, 50 pour cent,
+		- **(xl)** de la catégorie 54, 30 pour cent,
+		- **(xli)** de la catégorie 55, 40 pour cent,
 de la fraction non amortie du coût en capital, pour lui, des biens de la catégorie, à la fin de l’année d’imposition (avant toute déduction en vertu du présent paragraphe pour l’année d’imposition);
 
 #### Catégorie 1
@@ -3359,14 +3361,22 @@ de la fraction non amortie du coût en capital, pour lui, des biens de la catég
 #### Catégorie 13
 
 	- **b)** au montant qu’il peut réclamer au titre du coût en capital, pour lui, d’un bien de la catégorie 13 de l’annexe II, sans dépasser :
-		- **(i)** dans le cas où le coût en capital du bien, sauf un bien visé aux sous-alinéas (2)a)(v), (vi) ou (vii), a été engagé au cours de l’année d’imposition et après le 12 novembre 1981, 50 pour cent du montant calculé pour l’année en conformité avec l’annexe III,
+		- **(i)** dans le cas où le coût en capital du bien a été engagé au cours de l’année d’imposition et après le 12 novembre 1981 :
+			- **(A)** si le bien est un bien relatif à l’incitatif à l’investissement accéléré et que le coût en capital du bien est engagé avant 2024, le moins élevé des montants suivants :
+				- **(I)** 150 pour cent du montant calculé pour l’année conformément à l’annexe III,
+				- **(II)** le montant visé à l’alinéa 1b) de l’annexe III,
+			- **(B)** si le bien n’est pas un bien relatif à l’incitatif à l’investissement accéléré et n’est pas visé à l’un des sous-alinéas b)(iii) à (v) de l’élément F de la troisième formule figurant au paragraphe (2), 50 pour cent du montant calculé pour l’année en conformité avec l’annexe III,
 		- **(ii)** dans les autres cas, le montant calculé pour l’année en conformité avec l’annexe III,
 pour l’application du présent alinéa et de l’annexe III, le coût en capital d’un bien pour un contribuable est réputé avoir été engagé au moment où le bien est devenu prêt à être mis en service par le contribuable;
 
 #### Catégorie 14
 
 	- **c)** au montant qu’il peut réclamer à l’égard de biens de la catégorie 14 de l’annexe II sans dépasser le moindre
-		- **(i)** de l’ensemble des montants obtenus pour l’année en répartissant ce que chacun des biens lui a coûté en capital sur la durée utile restant aux biens au moment où le coût a été encouru, et
+		- **(i)** du total des montants suivants :
+			- **(A)** l’ensemble des montants obtenus pour l’année en répartissant le coût en capital pour le contribuable de chacun des biens sur leur durée utile restante au moment où le coût a été encouru,
+			- **(B)** s’agissant d’un bien relatif à l’incitatif à l’investissement accéléré, le produit de la multiplication de la fraction du montant obtenu en vertu de la division (A) qui se rapporte au bien par, selon le cas :
+				- **(I)** 0,5, si le bien devient prêt à être mis en service au cours de l’année et avant 2024,
+				- **(II)** 0,25, si le bien devient prêt à être mis en service au cours de l’année et après 2023,
 		- **(ii)** du coût en capital non déprécié, pour lui, des biens de la catégorie à la fin de l’année d’imposition (avant d’opérer quelque déduction en vertu du présent paragraphe pour l’année d’imposition);
 
 #### Déductions supplémentaires — catégorie 14.1
@@ -3498,7 +3508,7 @@ sans dépasser le moindre,
 et, aux fins du présent alinéa et de l’alinéa t), l’expression ***biens désignés*** d’une catégorie vise
 		- **(iii)** les biens de la catégorie acquis par lui avant le 13 novembre 1981,
 		- **(iv)** les biens réputés être des biens désignés de la catégorie en vertu de l’alinéa (2.1)g) ou (2.2)j),
-		- **(v)** les biens visés aux sous-alinéas (2)a)(v), (vi) ou (vii),
+		- **(v)** les biens visés à l’un des sous-alinéas b)(iii) à (v) de l’élément F de la troisième formule figurant au paragraphe (2),
 pour l’application du présent alinéa :
 		- **(vi)** ***opération désignée*** s’entend d’une opération à laquelle s’appliquent les paragraphes 85(5), 87(1), 88(1), 97(4) ou 98(3) ou (5) de la Loi,
 		- **(vii)** sous réserve de l’alinéa (2.2)j), un bien est réputé avoir été acquis par un contribuable au moment où il est devenu prêt à être mis en service par celui-ci;
@@ -3511,7 +3521,12 @@ pour l’application du présent alinéa :
 		- **(ii)** un bien compris dans une catégorie prescrite distincte par l’effet du paragraphe 13(14) de la Loi,
 		- **(iii)** un bien qui a été constitué en catégorie prescrite en vertu du paragraphe 24(2) du chapitre 91 des Statuts du Canada de 1966-67,
 lequel montant ne peut toutefois dépasser le moins élevé des montants suivants :
-		- **(iv)** dans le cas d’un bien, sauf un bien visé aux sous-alinéas (2)a)(v), (vi) ou (vii), qui a été acquis au cours de l’année d’imposition et après le 12 novembre 1981, 16 2/3 pour cent du coût en capital du bien pour le contribuable; dans les autres cas, 33 1/3 pour cent de ce coût,
+		- **(iv)** le produit de la multiplication du coût en capital du bien pour lui par, selon le cas :
+			- **(A)** 50 pour cent, dans le cas d’un bien relatif à l’incitatif à l’investissement accéléré acquis au cours de l’année et avant 2024,
+			- **(B)** 16 2/3 pour cent, dans le cas d’un bien acquis au cours de l’année qui n’est :
+				- **(I)** ni un bien relatif à l’incitatif à l’investissement accéléré,
+				- **(II)** ni un bien visé à l’un des sous-alinéas b)(iii) à (v) de l’élément F de la troisième formule figurant au paragraphe (2),
+			- **(C)** 33 1/3 pour cent, dans les autres cas,
 		- **(v)** la fraction non amortie du coût en capital, pour le contribuable, des biens de la catégorie à la fin de l’année d’imposition avant d’opérer toute déduction en vertu du présent alinéa pour l’année,
 pour l’application du sous-alinéa (iv), un bien est réputé avoir été acquis par un contribuable au moment où il est devenu prêt à être mis en service par celui-ci pour l’application de la Loi;
 
@@ -3812,19 +3827,89 @@ les règles suivantes s’appliquent :
 #### Biens acquis dans l’année
 
 
-- **(2)** La somme qu’un contribuable peut déduire pour une année d’imposition en application du paragraphe (1) au titre de biens d’une catégorie de l’annexe II est déterminée comme si la fraction non amortie du coût en capital, pour lui, à la fin de l’année (avant d’effectuer toute déduction en application du paragraphe (1) pour l’année) des biens de la catégorie était diminuée d’une somme égale à 50 pour cent de l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
-	- **a)** le total des sommes dont chacune représente une somme qui est ajoutée à la fraction non amortie du coût en capital, pour le contribuable, des biens d’une catégorie de l’annexe II par l’effet, selon le cas :
-		- **(i)** de l’élément A de la formule figurant à la définition de ***fraction non amortie du coût en capital*** au paragraphe 13(21) de la Loi, au titre d’un bien acquis au cours de l’année ou devenu prêt à être mis en service par le contribuable au cours de l’année,
-		- **(ii)** des éléments C ou D de la formule figurant à la définition de ***fraction non amortie du coût en capital*** au paragraphe 13(21) de la Loi, au titre d’une somme remboursée au cours de l’année,
-à l’exception des biens suivants :
-		- **(iii)** ceux visés à l’alinéa (1)v), à l’alinéa w) de la catégorie 10 ou à l’un des alinéas a) à c), e) à i), k), l) et p) à s) de la catégorie 12,
-		- **(iv)** ceux compris dans l’une des catégories 13, 14, 15, 23, 24, 27, 29, 34 et 52,
-		- **(v)** dans le cas où le contribuable est une société visée au paragraphe (16) tout au long de l’année, ceux qui constituent des biens de location déterminés du contribuable à ce moment,
-		- **(vi)** ceux qui sont réputés acquis par le contribuable au cours d’une année d’imposition antérieure en application de l’alinéa 16.1(1)b) de la Loi relativement à un bail dont les biens faisaient l’objet immédiatement avant le moment auquel le contribuable les a acquis pour la dernière fois,
-		- **(vii)** ceux qui sont considérés comme devenus prêts à être mis en service par le contribuable au cours de l’année par l’effet des alinéas 13(27)b) ou (28)c) de la Loi;
-	- **b)** le total des sommes dont chacune représente une somme qui est déduite de la fraction non amortie du coût en capital, pour le contribuable, des biens de la catégorie par l’effet, selon le cas :
-		- **(i)** des éléments F ou G de la formule figurant à la définition de ***fraction non amortie du coût en capital*** au paragraphe 13(21) de la Loi, au titre de biens qui ont fait l’objet d’une disposition au cours de l’année,
-		- **(ii)** de l’élément J de la formule figurant à la définition de ***fraction non amortie du coût en capital*** au paragraphe 13(21) de la Loi, au titre d’une somme que le contribuable a reçue ou avait le droit de recevoir au cours de l’année.
+- **(2)** Le montant qu’un contribuable peut déduire pour une année d’imposition en application du paragraphe (1) au titre de biens d’une catégorie de l’annexe II est déterminé comme si la fraction non amortie du coût en capital, pour lui, à la fin de l’année d’imposition (avant d’opérer toute déduction en application du paragraphe (1) pour l’année d’imposition) des biens de la catégorie était rajustée par l’ajout du montant positif ou négatif obtenu par la formule suivante :
+```
+A(B) – 0,5(C)
+```
+où :
+- **A** représente, relativement à un bien de la catégorie qui devient prêt à être mis en service par le contribuable au cours de l’année d’imposition et qui est un bien relatif à l’incitatif à l’investissement accéléré ou un bien compris dans la catégorie 54 ou 55 :
+- **a)** si le bien n’est pas compris à l’alinéa (1)v) ou dans l’une des catégories 12, 13, 14, 15, 43.1, 43.2, 53, 54 et 55 ou dans la catégorie 43 dans les circonstances prévues à l’alinéa d) :
+- **(i)** 0,5, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,
+- **(ii)** 0, à l’égard de biens qui deviennent prêts à être mis en service après 2023,
+- **b)** s’agissant de la catégorie 43.1 :
+- **(i)** 2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,
+- **(ii)** 1 1/2, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,
+- **(iii)** 5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2025,
+- **c)** s’agissant de la catégorie 43.2 :
+- **(i)** 1, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,
+- **(ii)** 0,5, à l’égard de biens qui deviennent prêts à être mis en service en 2024,
+- **(iii)** 0, dans les autres cas,
+- **d)** si le bien est compris dans la catégorie 53 ou, à l’égard d’un bien acquis après 2025, est compris dans la catégorie 43 et aurait été compris dans la catégorie 53 s’il avait été acquis en 2025 :
+- **(i)** 1, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,
+- **(ii)** 0,5, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,
+- **(iii)** 5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2025,
+- **e)** s’agissant de la catégorie 54 :
+- **(i)** 2 1/3, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,
+- **(ii)** 1 1/2, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,
+- **(iii)** 5/6, à l’égard de biens qui deviennent prêts à être mis en service après 2025,
+- **f)** s’agissant de la catégorie 55 :
+- **(i)** 1 1/2, à l’égard de biens qui deviennent prêts à être mis en service avant 2024,
+- **(ii)** 7/8, à l’égard de biens qui deviennent prêts à être mis en service en 2024 ou en 2025,
+- **(iii)** 3/8, à l’égard de biens qui deviennent prêts à être mis en service après 2025,
+- **g)** 0, dans les autres cas;
+- **B** le montant obtenu, à l’égard de la catégorie, par la formule suivante :
+```
+D – E
+```
+où :
+- **D** représente le total des montants dont chacun est un montant compris à l’élément A de la formule figurant à la définition de fraction non amortie du coût en capital au paragraphe 13(21) de la Loi au titre d’un bien relatif à l’incitatif à l’investissement accéléré ou d’un bien compris dans la catégorie 54 ou 55, selon le cas, qui est devenu prêt à être mis en service par le contribuable au cours de l’année d’imposition,
+- **E** l’excédent éventuel de la valeur de l’élément G sur la valeur de l’élément F de la formule figurant à l’élément C;
+- **C** le montant obtenu, à l’égard de la catégorie, par la formule suivante :
+```
+F – G
+```
+où :
+- **F** représente le total des montants dont chacun, à la fois :
+- **a)** est ajouté à la fraction non amortie du coût en capital, pour le contribuable, des biens de la catégorie par l’effet, selon le cas :
+- **(i)** de l’élément A de la formule figurant à la définition de fraction non amortie du coût en capital au paragraphe 13(21) de la Loi, au titre d’un bien (sauf un bien relatif à l’incitatif à l’investissement accéléré) acquis ou devenu prêt à être mis en service par le contribuable au cours de l’année d’imposition,
+- **(ii)** des éléments C ou D de la formule figurant à la définition de fraction non amortie du coût en capital au paragraphe 13(21) de la Loi, au titre d’un montant remboursé au cours de l’année d’imposition,
+- **b)** n’est pas relatif aux biens suivants :
+- **(i)** ceux visés à l’alinéa (1)v), à l’alinéa w) de la catégorie 10 ou à l’un des alinéas a) à c), e) à i), k), l) et p) à s) de la catégorie 12,
+- **(ii)** ceux compris dans l’une des catégories 13, 14, 15, 23, 24, 27, 29, 34, 52, 54 et 55,
+- **(iii)** dans le cas où le contribuable est une société visée au paragraphe (16) tout au long de l’année d’imposition, ceux qui constituent des biens de location déterminés du contribuable au moment en cause,
+- **(iv)** ceux que le contribuable est réputé avoir acquis au cours d’une année d’imposition antérieure en application de l’alinéa 16.1(1)b) de la Loi relativement à un bail dont les biens faisaient l’objet immédiatement avant le moment auquel le contribuable les a acquis pour la dernière fois,
+- **(v)** ceux qui sont considérés comme devenus prêts à être mis en service par le contribuable au cours de l’année d’imposition par l’effet des alinéas 13(27)b) ou (28)c) de la Loi,
+- **G** le total des montants dont chacun représente un montant qui est déduit de la fraction non amortie du coût en capital, pour le contribuable, des biens de la catégorie par l’effet, selon le cas :
+- **a)** des éléments F ou G de la formule figurant à la définition de fraction non amortie du coût en capital au paragraphe 13(21) de la Loi, au titre de biens qui ont fait l’objet d’une disposition au cours de l’année d’imposition,
+- **b)** de l’élément J de la formule figurant à la définition de fraction non amortie du coût en capital au paragraphe 13(21) de la Loi, au titre d’un montant que le contribuable a reçu ou avait le droit de recevoir au cours de l’année d’imposition.
+
+**Années de chevauchement**
+
+- **(2.01)** Pour l’application du paragraphe (2) :
+	- **a)** si l’année d’imposition commence en 2023 et se termine en 2024, le facteur obtenu pour l’élément A de la première formule au paragraphe (2) est remplacé par le facteur obtenu par la formule suivante :
+```
+(A(B) + C(D))/(B + D)
+```
+où :
+- **A** représente le facteur obtenu par ailleurs pour l’élément A de la première formule figurant au paragraphe (2) pour 2023,
+- **B** le montant qui serait obtenu pour l’élément D de la deuxième formule figurant au paragraphe (2) si les seuls biens qui devenaient prêts à être mis en service par le contribuable au cours de l’année d’imposition étaient ceux qui deviennent prêts à être mis en service en 2023,
+- **C** le facteur obtenu par ailleurs pour l’élément A de la première formule figurant au paragraphe (2) pour 2024,
+- **D** le montant qui serait obtenu pour l’élément D de la deuxième formule figurant au paragraphe (2) si les seuls biens qui devenaient prêts à être mis en service par le contribuable au cours de l’année d’imposition étaient ceux qui deviennent prêts à être mis en service en 2024;
+	- **b)** si l’année d’imposition commence en 2025 et se termine en 2026, le facteur obtenu pour l’élément A de la première formule figurant au paragraphe (2) est remplacé par le facteur obtenu par la formule suivante :
+```
+(A(B) + C(D))/(B + D)
+```
+où :
+- **A** représente le facteur obtenu par ailleurs pour l’élément A de la première formule figurant au paragraphe (2) pour 2025,
+- **B** le montant qui serait obtenu pour l’élément D de la deuxième formule figurant au paragraphe (2) si les seuls biens qui devenaient prêts à être mis en service par le contribuable au cours de l’année d’imposition étaient ceux qui deviennent prêts à être mis en service en 2025,
+- **C** le facteur obtenu par ailleurs pour l’élément A de la première formule figurant au paragraphe (2) pour 2026,
+- **D** le montant qui serait obtenu pour l’élément D de la deuxième formule figurant au paragraphe (2) si les seuls biens qui devenaient prêts à être mis en service par le contribuable au cours de l’année d’imposition étaient ceux qui deviennent prêts à être mis en service en 2026.
+
+**Dépenses avant le 21 novembre 2018**
+
+- **(2.02)** Pour l’application du paragraphe (2), quant à un bien d’une catégorie de l’annexe II qui n’est un bien relatif à l’incitatif à l’investissement accéléré d’un contribuable que par l’effet du sous-alinéa 1104(4)b)(i) :
+	- **a)** d’une part, aucun montant n’est à inclure relativement au bien dans le calcul de la valeur de l’élément D de la deuxième formule figurant au paragraphe (2) relativement à la catégorie dans la mesure où le montant inclut des dépenses engagées par toute personne ou société de personnes avant le 21 novembre 2018, à moins que la personne ou la société de personnes de qui le contribuable a acquis le bien n’ait aucun lien de dépendance avec le contribuable et ne détienne le bien à titre de bien à porter à l’inventaire;
+	- **b)** d’autre part, tout montant exclu du montant obtenu pour l’élément D de la deuxième formule figurant au paragraphe (2) relativement à la catégorie par l’effet de l’alinéa a) est à inclure dans le calcul de la valeur de l’élément F de la troisième formule figurant au paragraphe (2) relativement à la catégorie, à moins qu’aucun montant relativement au bien n’y soit ainsi inclus du fait que le bien n’est pas un bien relatif à l’incitatif à l’investissement accéléré du contribuable.
 
 - **(2.1)** Lorsque le contribuable a, après le 12 novembre 1981 et avant 1983, acquis un bien d’une catégorie de l’annexe II ou contracté un coût en capital à l’égard d’un tel bien et
 	- **a)** qu’il était tenu d’acquérir le bien en vertu des modalités d’une entente écrite conclue avant le 13 novembre 1981 (ou, lorsque le bien est un bien visé à la catégorie 31 de l’annexe II, avant 1982),
@@ -3848,7 +3933,7 @@ et
 et se terminant à la date où il a été acquis par le contribuable, ou
 	- **g)** que les règles prévues au paragraphe (2.1) ou au présent paragraphe s’appliquent à l’égard du bien aux fins de l’établissement du montant visé au paragraphe (1) que la personne de qui le contribuable a acquis le bien avait le droit de déduire,
 les règles suivantes s’appliquent :
-	- **h)** aucune somme ne peut être incluse en vertu de l’alinéa (2)a) à l’égard du bien;
+	- **h)** aucune somme ne peut être incluse dans le calcul de la valeur de l’élément F de la troisième formule figurant au paragraphe (2) à l’égard du bien;
 	- **i)** lorsque le bien est un bien auquel s’applique l’alinéa (1)b), cet alinéa doit, à l’égard du bien, être interprété comme suit : « au montant, sans dépasser le montant calculé pour l’année en conformité de l’annexe III, qu’il peut réclamer à l’égard du coût en capital, pour lui, d’un bien de la catégorie 13 de l’annexe II »;
 	- **j)** s’il s’agit d’un bien d’une catégorie à laquelle l’alinéa (1)ta) s’applique, les règles suivantes s’appliquent :
 		- **(i)** le bien est réputé être un bien désigné de la catégorie,
@@ -3865,13 +3950,13 @@ les règles suivantes s’appliquent :
 			- **(B)** selon le cas :
 				- **(I)** le moment où il est devenu prêt à être mis en service par la personne de laquelle le contribuable l’a acquis, déterminé compte non tenu des alinéas 13(27)c) et (28)d) de la Loi,
 				- **(II)** le moment où il est devenu prêt à être mis en service par le premier cédant dans une série de transferts du même bien auquel le présent paragraphe s’applique, déterminé compte non tenu des alinéas 13(27)c) et (28)d) de la Loi;
-	- **k)** lorsque le bien est un bien visé à l’alinéa (1)v), le sous-alinéa (iv) de cet alinéa doit, à l’égard du bien, être interprété comme s’il y était fait mention de « 33 1/3 pour cent du coût en capital du bien pour lui, ou ».
+	- **k)** si le bien est un bien visé à l’alinéa (1)v), le sous-alinéa (1)v)(iv) est remplacé par « 33 1/3 pour cent du coût en capital du bien pour lui, ».
 
 - **(2.21)** Dans le cas où un contribuable est réputé, par la Loi, avoir disposé d’un bien et l’avoir acquis ou acquis de nouveau, les règles suivantes s’appliquent :
 	- **a)** pour l’application de l’alinéa (2.2)e) et des paragraphes 1100(19), 1101(lad) et 1102(14) et (14.1), le bien est réputé avoir été acquis ou acquis de nouveau d’une personne avec laquelle le contribuable avait un lien de dépendance à la date de l’acquisition ou de la nouvelle acquisition;
 	- **b)** pour l’application des alinéas (2.2)f) et g), le contribuable est réputé être la personne de qui il a acquis ou acquis de nouveau le bien.
 
-- **(2.3)** Lorsque le contribuable a fait la disposition d’un bien et qu’en vertu de l’alinéa (2.2)h), aucune somme n’a été incluse en vertu de l’alinéa (2)a) à l’égard du bien, aucune somme ne doit être incluse par le contribuable en vertu de l’alinéa (2)b) à l’égard de la disposition du bien.
+- **(2.3)** Si le contribuable a disposé d’un bien et que, par l’effet de l’alinéa (2.2)h), aucune somme n’est à inclure dans le calcul de la valeur de l’élément F de la troisième formule figurant au paragraphe (2) à l’égard du bien par la personne qui en a fait l’acquisition, aucune somme n’est à inclure par le contribuable dans le calcul de la valeur de l’élément G de la troisième formule figurant au paragraphe (2) à l’égard de la disposition du bien.
 
 - **(2.4)** Aux fins du paragraphe (2), lorsqu’un contribuable a fait la disposition d’un bien visé à la catégorie 10 de l’annexe II, qui serait admissible à titre de bien visé à l’alinéa e) de la catégorie 16 de l’annexe II s’il avait été acquis après le 12 novembre 1981, le produit de la disposition du bien est réputé être le produit de la disposition d’un bien visé à la catégorie 16 de l’annexe II et non d’un bien visé à la catégorie 10 de l’annexe II.
 
@@ -4124,7 +4209,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383, ch. 40, art. 100; 2015, ch. 36, art. 21; DORS/2015-117, art. 1; 2016, ch. 12, art. 78.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383, ch. 40, art. 100; 2015, ch. 36, art. 21; DORS/2015-117, art. 1; 2016, ch. 12, art. 78; 2019, ch. 29, art. 52.
 
 
 
@@ -4628,7 +4713,7 @@ jusqu’au lieu d’affaires du négociant; (*initial transportation charges*)
 #### Biens acquis par transfert, fusion ou liquidation
 
 
-- **(14)** Sous réserve des paragraphes (14.11) et (14.12), pour l’application de la présente partie et de l’annexe II, lorsqu’un bien est acquis par un contribuable :
+- **(14)** Sous réserve des paragraphes (14.11) à (14.13), pour l’application de la présente partie et de l’annexe II, lorsqu’un bien est acquis par un contribuable :
 	- **a)** soit dans le cadre d’une réorganisation à l’égard de laquelle tout dividende reçu par une société serait soustrait à l’application du paragraphe 55(2) de la Loi à cause de l’alinéa 55(3)b) de la Loi,
 	- **a.1) à c)** [Abrogés, DORS/90-22, art. 3]
 	- **d)** soit d’une personne avec laquelle il a un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, à la date de l’acquisition du bien, et
@@ -4644,6 +4729,8 @@ les biens, immédiatement avant leur acquisition par le contribuable, étaient d
 - **(14.12)** Si un contribuable acquiert un bien, sauf un bien de sables bitumineux, après le 20 mars 2013 et dans des circonstances où le paragraphe (14) s’applique et que le bien était un bien amortissable qui a été inclus dans la catégorie 41, par l’effet de ses alinéas a) ou a.1), par la personne ou la société de personnes de qui le contribuable a acquis le bien, les règles ci-après s’appliquent :
 	- **a)** de ce bien, ne peut être incluse dans la catégorie 41 du contribuable que sa partie dont le coût en capital pour le contribuable correspond soit à la fraction non amortie du coût en capital des biens de cette catégorie pour la personne ou la société de personnes immédiatement avant la disposition du bien par la personne ou société de personnes, soit, s’il est moins élevé, au montant appliqué en réduction de cette fraction non amortie du coût en capital par suite de cette disposition;
 	- **b)** est incluse dans la catégorie 41.2 du contribuable la partie du bien qui n’est pas celle qui a été incluse dans la catégorie 41 du contribuable par l’effet de l’alinéa a).
+
+- **(14.13)** Le paragraphe (14) ne s’applique pas si le contribuable acquiert le bien d’une personne à l’égard de laquelle le bien est un véhicule zéro émission compris dans la catégorie 54 ou 55.
 
 #### Coûts de lotissement
 
@@ -4721,6 +4808,8 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 
 - **(20)** Pour l’application des paragraphes 1100(2.2) et (19), 1101(lad) et 1102(14), est réputé ne pas avoir un lien de dépendance avec une autre personne à l’égard de l’acquisition d’un bien le contribuable qui serait, s’il était fait abstraction du présent paragraphe, réputé avoir un lien de dépendance avec l’autre personne en raison d’une opération ou d’une série d’opérations dont il est raisonnable de croire que le principal objet était de faire en sorte qu’un ou plusieurs de ces paragraphes s’appliquent à l’acquisition du bien.
 
+- **(20.1)** Pour l’application du paragraphe 1104(4), est réputé avoir un lien de dépendance avec une autre personne ou société de personnes à l’égard de l’acquisition d’un ou de plusieurs biens le contribuable qui serait, en l’absence du présent paragraphe, réputé ne pas avoir de lien de dépendance avec l’autre personne ou société de personnes en raison d’une opération ou d’une série d’opérations dont il est raisonnable de croire que le principal objet était de faire en sorte que ces biens soient admissibles à titre de biens relatifs à l’incitatif à l’investissement accéléré.
+
 - **(21)** Dans le cas où un contribuable a acquis un bien compris dans la catégorie 43.1 de l’annexe II dans les circonstances visées aux divisions b)(iii)(A) et (B) ou e)(iii)(A) et (B) de cette catégorie, les règles suivantes s’appliquent :
 	- **a)** la partie du bien, déterminée en fonction du coût en capital, qui est égale ou inférieure au coût en capital du bien pour la personne de qui le bien a été acquis est comprise dans cette catégorie;
 	- **b)** la partie du bien, déterminée en fonction du coût en capital, qui dépasse le coût en capital du bien pour cette personne n’est pas comprise dans cette catégorie.
@@ -4740,7 +4829,11 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 
 
 - **(25)** Pour l’application de la présente partie et de l’annexe II, si le bâtiment non résidentiel admissible d’un contribuable était en construction le 19 mars 2007, la partie de son coût en capital que le contribuable a engagée avant cette date est réputée avoir été engagée par lui le 19 mars 2007 sauf s’il choisit de soustraire ce coût à l’application du présent paragraphe dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bâtiment est acquis.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3; DORS/2011-9, art. 3; DORS/2011-195, art. 5(F); 2013, ch. 33, art. 35, ch. 40, art. 102.
+
+- **(26)** Pour l’application de la définition de véhicule zéro émission au paragraphe 248(1) de la Loi :
+	- **a)** est une condition visée par règlement le fait que le véhicule à moteur ait une capacité de batterie d’au moins 7 kWh;
+	- **b)** est un programme visé par règlement l’incitatif fédéral à l’achat annoncé le 19 mars 2019.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3; DORS/2011-9, art. 3; DORS/2011-195, art. 5(F); 2013, ch. 33, art. 35, ch. 40, art. 102; 2019, ch. 29, art. 53.
 
 
 
@@ -4823,6 +4916,8 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 
 - **(2i)** Un contribuable peut, relativement à tout bien compris par ailleurs dans la catégorie 7 de l’annexe II par l’effet de l’alinéa h) de cette catégorie et auquel l’alinéa 1100(1)z.1a) et le paragraphe 1101(5d), ou l’alinéa 1100(1)z.1c) et le paragraphe 1101(5d.2), s’appliqueraient si la catégorie 35 de cette annexe s’appliquait au bien, choisir que le bien soit compris dans la catégorie 35 plutôt que dans la catégorie 7. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle le bien a été acquis.
 
+- **(2j)** Un contribuable peut, dans la déclaration de revenu qu’il présente au ministre au plus tard à la date d’échéance de production qui lui est applicable pour l’année d’imposition au cours de laquelle il acquiert un bien, choisir de ne pas inclure le bien dans la catégorie 54 ou 55 de l’annexe II, selon le cas.
+
 #### Règles sur le choix
 
 
@@ -4831,7 +4926,7 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 - **(4)** Le choix prévu aux alinéas 1102(8)d) ou (9)d) et au présent article entre en vigueur le premier jour de l’année d’imposition qu’il vise et s’applique à cette année ainsi qu’aux années d’imposition postérieures.
 
 - **(5)** Le choix prévu aux paragraphes (1) ou (2) se fait par l’envoi, par courrier recommandé, d’une lettre à cet effet au centre fiscal où le contribuable produit habituellement les déclarations requises par l’article 150 de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 9; DORS/82-265, art. 3; DORS/83-340, art. 3; DORS/90-22, art. 4; DORS/91-196, art. 3; DORS/91-673, art. 3; DORS/94-170, art. 3; DORS/97-377, art. 3; DORS/2005-371, art. 3; DORS/2007-116, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 9; DORS/82-265, art. 3; DORS/83-340, art. 3; DORS/90-22, art. 4; DORS/91-196, art. 3; DORS/91-673, art. 3; DORS/94-170, art. 3; DORS/97-377, art. 3; DORS/2005-371, art. 3; DORS/2007-116, art. 2; 2019, ch. 29, art. 54.
 
 
 
@@ -5055,7 +5150,17 @@ et pour l’application de la présente définition :
 
 ***mine de minéral industriel*** comprend une tourbière ou un gisement de tourbe mais ne comprend pas une ressource minérale. (*industrial mineral mine*)
 
-- **(4)** [Abrogé, DORS/79-670, art. 3]
+- **(4)** Pour l’application de la présente partie et des annexes II à VI, ***bien relatif à l’incitatif à l’investissement accéléré*** s’entend d’un bien d’un contribuable (sauf les biens compris dans les catégories 54 ou 55) qui :
+	- **a)** d’une part, est acquis par le contribuable après le 20 novembre 2018 et devient prêt à être mis en service avant 2028;
+	- **b)** d’autre part, répond à l’une des conditions suivantes :
+		- **(i)** le bien, à la fois :
+			- **(A)** n’a pas été utilisé à quelque fin que ce soit avant son acquisition par le contribuable,
+			- **(B)** n’est pas un bien relativement auquel un montant a été déduit en application de l’alinéa 20(1)a) ou du paragraphe 20(16) de la Loi par une autre personne ou société de personnes,
+		- **(ii)** le bien :
+			- **(A)** n’a pas été acquis dans des circonstances où :
+				- **(I)** un montant est réputé avoir été admis en déduction ou déduit en vertu de l’alinéa 20(1)a) de la Loi au titre du bien dans le calcul du revenu du contribuable pour des années d’imposition antérieures,
+				- **(II)** la fraction non amortie du coût en capital d’un bien amortissable du contribuable d’une catégorie prescrite a été réduite d’un montant déterminé en fonction de l’excédent du coût en capital du bien pour le contribuable sur son coût indiqué,
+			- **(B)** antérieurement, n’a pas été la propriété du contribuable ou d’une personne ou société de personnes avec laquelle il avait un lien de dépendance à tout moment où la personne ou la société de personnes était propriétaire du bien ou en a fait l’acquisition, ou n’a pas été acquis par lui ou par une telle personne ou société de personnes.
 
 #### Opérations minières
 
@@ -5262,7 +5367,11 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
 
 - **(17)** Tout bien qui pourrait par ailleurs être inclus dans les catégories 43.1 ou 43.2 de l’annexe II par un contribuable est réputé ne pas pouvoir être inclus dans ces catégories si, à la fois :
-	- **a)** il est inclus dans la catégorie 43.1 par l’effet de son sous-alinéa c)(i) ou il est visé à l’un des sous-alinéas d)(vii) à (ix), (xi), (xiii), (xiv) et (xvi) de cette catégorie ainsi qu’à l’alinéa a) de la catégorie 43.2;
+	- **a)** il est, selon le cas :
+		- **(i)** inclus dans la catégorie 43.1 par l’effet de son sous-alinéa c)(i),
+		- **(ii)** visé :
+			- **(A)** soit à l’un des sous-alinéas d)(vii) à (ix), (xi), (xiii), (xiv), (xvi) et (xvii) de la catégorie 43.1,
+			- **(B)** soit à l’alinéa a) de la catégorie 43.2;
 	- **b)** au moment où il devient prêt à être mis en service par le contribuable, celui-ci ne satisfait pas aux exigences des lois et règlements en matière d’environnement, applicables relativement au bien, de l’une des entités suivantes :
 		- **(i)** le Canada ou l’une de ses provinces ou municipalités,
 		- **(ii)** un organisme municipal ou public remplissant une fonction gouvernementale au Canada.
@@ -5277,7 +5386,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 			- **(B)** dans les autres cas, le revenu qu’il est raisonnable d’attribuer à la liquéfaction de gaz naturel à l’installation de liquéfaction admissible,
 		- **(ii)** à l’égard de laquelle les seules déductions permises dans le calcul de son revenu étaient celles attribuables au revenu visé au sous-alinéa (i) et, s’il s’agit du revenu visé à la division (i)(A), celles-ci doivent être raisonnablement attribuables au revenu gagné après l’arrivée du gaz naturel à l’installation de liquéfaction admissible;
 	- **b)** s’il s’agit du revenu visé à la division a)(i)(A), le contribuable avait acquis le gaz naturel ayant été liquéfié à un coût égal à la juste valeur marchande du gaz naturel au moment de son arrivée dans l’installation de liquéfaction admissible.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61; 2013, ch. 40, art. 103; 2014, ch. 39, art. 85; DORS/2015-117, art. 3; 2017, ch. 33, art. 91.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61; 2013, ch. 40, art. 103; 2014, ch. 39, art. 85; DORS/2015-117, art. 3; 2017, ch. 33, art. 91; 2019, ch. 29, art. 55.
 
 
 
@@ -5372,7 +5481,8 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **b)** le Protocole d’entente entre le gouvernement du Canada et le gouvernement de Hong Kong, région administrative spéciale, République populaire de Chine, relativement à la coproduction cinématographique et audiovisuelle;
 	- **c)** l’Énoncé commun de politique relative à la coproduction cinématographique, télévisuelle et vidéo par le Japon et le Canada;
 	- **d)** le Protocole d’entente entre le gouvernement du Canada et le gouvernement de la République de Corée sur la coproduction télévisuelle;
-	- **e)** l’Accord relatif aux relations dans le domaine de l’audiovisuel entre le gouvernement du Canada et le gouvernement de la République de Malte.
+	- **e)** l’Accord relatif aux relations dans le domaine de l’audiovisuel entre le gouvernement du Canada et le gouvernement de la République de Malte;
+	- **f)** le Protocole d’entente entre le gouvernement du Canada et les gouvernements respectifs des communautés flamande, française et germanophone du Royaume de Belgique relativement à la coproduction audiovisuelle.
 
 #### Production cinématographique ou magnétoscopique canadienne
 
@@ -5460,7 +5570,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 - **(12)** Pour l’application de la définition de ***titulaire du droit d’auteur*** au paragraphe (1) :
 	- **a)** le droit d’une personne de recevoir une partie des revenus provenant d’une production cinématographique ou magnétoscopique ou une partie du produit de disposition d’un intérêt ou, pour l’application du droit civil, d’un droit sur une telle production ne constitue pas en soi un intérêt ou un droit à titre de titulaire du droit d’auteur sur la production;
 	- **b)** il est entendu que la concession d’une licence exclusive, au sens de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), ne constitue pas une cession du droit d’auteur.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2; 2013, ch. 34, art. 385; DORS/2015-61, art. 1; DORS/2016-262, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2; 2013, ch. 34, art. 385; DORS/2015-61, art. 1; DORS/2016-262, art. 1; 2019, ch. 29, art. 56.
 
 
 
@@ -14297,6 +14407,14 @@ où
 	- **(i)** au moment de l’acquisition, si elle a été acquise,
 	- **(ii)** au moment de la conclusion du bail, si elle a été louée.
 
+- **(1.1)** Pour l’application de l’alinéa 13(7)i) de la Loi, est fixé relativement à une voiture de tourisme zéro émission d’un contribuable le montant obtenu par la formule suivante :
+```
+A + B
+```
+où :
+- **A** représente 55 000 $;
+- **B** la somme qui aurait été payable au titre des taxes de vente fédérale et provinciale sur l’acquisition de la voiture si elle avait été acquise par le contribuable à un coût correspondant à la valeur de l’élément A, avant l’application des taxes de vente fédérale et provinciale.
+
 - **(2)** Le montant fixé pour l’application de l’élément A de l’article 67.2 de la Loi est de 300 $ dans le cas d’une automobile acquise soit après août 1989 et avant 1997, soit après 2000.
 
 - **(3)** Le montant fixé pour l’application de l’élément A à l’alinéa 67.3a) de la Loi, à l’égard de l’année d’imposition d’un preneur, correspond au montant suivant :
@@ -14315,7 +14433,7 @@ où
 - **B** les taxes de vente fédérale et provinciale qui auraient été payables sur un paiement mensuel aux termes du bail au cours de l’année d’imposition du preneur si le bail avait prévu des paiements mensuels, avant ces taxes, d’un montant égal à l’élément A.
 
 - **(4)** Le montant fixé pour l’application de l’élément C à l’alinéa 67.3b) de la Loi correspond, dans le cas d’une automobile louée aux termes d’un bail conclu après août 1989, à 100/85 du montant calculé selon le paragraphe (1) pour cette automobile.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/94-128, art. 2; DORS/95-244, art. 7; DORS/99-239, art. 3; DORS/2000-326, art. 3; DORS/2001-253, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/94-128, art. 2; DORS/95-244, art. 7; DORS/99-239, art. 3; DORS/2000-326, art. 3; DORS/2001-253, art. 3; 2019, ch. 29, art. 59.
 
 
 
@@ -15217,11 +15335,28 @@ où
 		- **(iv)** il est raisonnable de considérer que le rajustement a été effectué pour augmenter la rémunération du particulier pour l’année déterminée et ainsi tenir compte de tout ou partie des augmentations de la moyenne des traitements et salaires entre cette année et l’année du calcul des prestations viagères du particulier,
 la formule ne prévoit pas le rajustement de la rémunération du particulier pour l’année déterminée;
 	- **i)** lorsque les prestations viagères du particulier sont fonction du maximum des gains annuels ouvrant droit à pension pour des années civiles autres que l’année donnée, le maximum des gains annuels ouvrant droit à pension pour chacune de ces années est égal à ce maximum pour l’année donnée;
-	- **j)** lorsque les prestations viagères du particulier sont fonction du montant réel de la pension qui lui est payable aux termes du régime institué par le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions au sens de l’article 3 de cette loi, cette pension, calculée sur une année, est égale à l’un ou l’autre des montants suivants :
+	- **j)** lorsque les prestations viagères du particulier sont uniquement fonction du montant réel de la pension qui lui est payable aux termes de l’alinéa 46(1)a) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’une disposition semblable d’un régime provincial de pensions au sens de l’article 3 de cette loi, cette pension, calculée sur une année, est égale à l’un ou l’autre des montants suivants :
 		- **(i)** 25 pour cent du moins élevé du maximum des gains annuels ouvrant droit à pension pour l’année donnée et de l’un des montants suivants :
 			- **(A)** si le particulier rend des services à plein temps tout au long de l’année donnée à des employeurs qui participent au régime, le total des montants représentant chacun la rémunération que le particulier reçoit pendant l’année donnée d’un tel employeur,
 			- **(B)** sinon, le montant qui serait vraisemblablement calculé selon la division (A) si le particulier avait rendu des services à plein temps tout au long de l’année donnée à des employeurs qui participent au régime,
 		- **(ii)** au choix de l’administrateur du régime, un autre montant calculé selon une méthode qui permet d’estimer cette pension et qui vraisemblablement donne des résultats à peu près semblables à ceux obtenus selon le sous-alinéa (i);
+	- **j.1)** lorsque les prestations viagères du particulier sont fonction du montant réel de la pension qui lui est payable aux termes des alinéas 46(1)a) et b) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’une disposition semblable d’un régime provincial de pensions au sens de l’article 3 de cette loi, cette pension, calculée sur une année, est égale à l’un ou l’autre des montants suivants :
+		- **(i)** le montant obtenu par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente :
+		- **(A)** pour 2018 et les années antérieures, 0,25,
+		- **(B)** pour 2019, 0,2625,
+		- **(C)** pour 2020, 0,275,
+		- **(D)** pour 2021, 0,29165,
+		- **(E)** pour 2022, 0,3125,
+		- **(F)** pour 2023 et les années suivantes, 1/3,
+- **B** le maximum des gains annuels ouvrant droit à pension pour l’année donnée ou, s’il est moins élevé, celui des montants suivants qui est applicable :
+		- **(A)** si le particulier rend des services tout au long de l’année donnée à temps plein à des employeurs qui participent au régime, le total des montants dont chacun représente sa rémunération pour l’année donnée provenant d’un tel employeur,
+		- **(B)** sinon, le montant qui, selon ce qu’il est raisonnable de considérer, serait déterminé selon la division (A) si le particulier avait rendu des services tout au long de l’année donnée à temps plein à des employeurs qui participent au régime,
+		- **(ii)** au choix de l’administrateur du régime, tout autre montant calculé selon une méthode qui permet d’estimer cette pension et qui vraisemblablement donne des résultats à peu près semblables à ceux obtenus selon le sous-alinéa (i);
 	- **k)** lorsque les prestations viagères du particulier sont fonction de la pension qui lui est payable en vertu de la partie I de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), le montant de cette pension pour chaque année civile est égal au total des montants représentant chacun la pleine pension qui est payable en vertu de cette partie pour un mois de l’année donnée;
 	- **l)** sauf autorisation contraire du ministre donnée par écrit, lorsque les prestations viagères du particulier sont fonction de prestations (à l’exception des prestations de pension de l’État et des prestations semblables d’un pays étranger) payables aux termes d’une autre disposition à cotisations ou à prestations déterminées d’un régime de pension ou aux termes d’un régime de participation différée aux bénéfices, ces prestations portent au maximum les prestations viagères du particulier;
 	- **m)** lorsque les prestations viagères du particulier comprendraient par ailleurs des prestations que le régime doit prévoir en application d’une disposition déterminée d’une loi fédérale ou provinciale, selon l’article 8513, ou des prestations qu’il devrait prévoir si une telle disposition s’appliquait à l’ensemble des participants au régime, il n’est pas tenu compte de telles prestations;
@@ -15296,7 +15431,7 @@ sa rétribution est calculée comme s’il avait reçu pour la période une rém
 
 
 - **(11)** S’il est raisonnable de considérer que les modalités de la disposition à prestations déterminées d’un régime de pension agréé ont été établies ou modifiées de sorte que le crédit de pension d’un particulier pour une année civile dans le cadre de la disposition serait, sans le présent paragraphe, réduit par suite de l’application de l’alinéa (3)g), cet alinéa ne s’applique pas au calcul de la pension normalisée prévue pour le particulier par la disposition pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 3; DORS/2001-67, art. 1; DORS/2001-188, art. 6; 2017, ch. 33, art. 101.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 3; DORS/2001-67, art. 1; DORS/2001-188, art. 6; 2017, ch. 33, art. 101; 2019, ch. 29, art. 60.
 
 
 
@@ -22988,11 +23123,11 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 **(A)** ils sont utilisés par le contribuable, ou par son preneur, principalement pour chauffer un liquide ou un gaz en circulation active et constituent :
 
-**(I)** soit du matériel de chauffage solaire actif, y compris le matériel de ce type qui consiste en capteurs solaires en surface, en matériel de conversion de l’énergie solaire, en chauffe-eau solaires, en matériel de stockage d’énergie, en matériel de commande et en matériel conçu pour assurer la jonction entre le matériel de chauffage solaire et d’autres types de matériel de chauffage,
+**(I)** soit du matériel de chauffage solaire actif, y compris le matériel de ce type qui consiste en capteurs solaires en surface, en matériel de conversion de l’énergie solaire, en chauffe-eau solaires, en matériel de stockage d’énergie thermique, en matériel de commande et en matériel conçu pour assurer la jonction entre le matériel de chauffage solaire et d’autres types de matériel de chauffage,
 
 
 
-**(II)** soit du matériel qui fait partie d’un système de pompe géothermique qui transfère la chaleur vers le sol ou l’eau souterraine, ou émanant de ceux-ci (mais non vers l’eau de surface tels une rivière, un lac ou un océan, ou émanant de ceux-ci) et qui, au moment de l’installation, répond aux normes de l’Association canadienne de normalisation en matière de conception et d’installation des systèmes géothermiques, y compris le matériel de ce type qui consiste en tuyauterie (incluant la tuyauterie hors-sol ou souterraine et le coût de forage d’un puits ou de creusement d’une tranchée en vue de l’installation de cette tuyauterie), en matériel de conversion d’énergie, en matériel de stockage d’énergie, en matériel de commande et en matériel conçu pour assurer la jonction entre le système et d’autres types de matériel de chauffage ou de climatisation,
+**(II)** soit du matériel qui fait partie d’un système de pompe géothermique qui transfère la chaleur vers le sol ou l’eau souterraine, ou émanant de ceux-ci (mais non vers l’eau de surface tels une rivière, un lac ou un océan, ou émanant de ceux-ci) et qui, au moment de l’installation, répond aux normes de l’Association canadienne de normalisation en matière de conception et d’installation des systèmes géothermiques, y compris le matériel de ce type qui consiste en tuyauterie (incluant la tuyauterie hors-sol ou souterraine et le coût de forage d’un puits ou de creusement d’une tranchée en vue de l’installation de cette tuyauterie), en matériel de conversion d’énergie, en matériel de stockage d’énergie thermique, en matériel de commande et en matériel conçu pour assurer la jonction entre le système et d’autres types de matériel de chauffage ou de climatisation,
 
 
 
@@ -23036,7 +23171,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 **(B)** est composé d’une éolienne, de matériel générateur d’électricité et du matériel connexe, notamment :
 
-**(I)** le matériel de commande, de conditionnement et de stockage dans des batteries,
+**(I)** le matériel de commande et de conditionnement,
 
 
 
@@ -23060,7 +23195,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(vi)** du matériel photovoltaïque fixe qui est utilisé par le contribuable, ou par son preneur, principalement pour produire de l’énergie électrique à partir d’énergie solaire et qui est composé de piles ou de modules solaires et du matériel connexe, y compris les inverseurs, le matériel de commande, de conditionnement et de stockage dans des batteries, les supports et le matériel de transmission, mais à l’exclusion :
+**(vi)** du matériel photovoltaïque fixe qui est utilisé par le contribuable, ou par son preneur, principalement pour produire de l’énergie électrique à partir d’énergie solaire et qui est composé de piles ou de modules solaires et du matériel connexe, y compris les inverseurs, le matériel de commande et de conditionnement, les supports et le matériel de transmission, mais à l’exclusion :
 
 **(A)** des bâtiments ou des parties de bâtiment (sauf les piles ou modules solaires qui sont intégrés à un bâtiment),
 
@@ -23112,7 +23247,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(xii)** des piles à combustible stationnaires utilisées par le contribuable ou par son preneur, utilisant de l’hydrogène produit uniquement par du matériel auxiliaire d’électrolyse (ou, s’il s’agit d’une pile à combustible réversible, par la pile proprement dite) qui utilise de l’électricité produite en totalité ou en presque totalité par du matériel photovoltaïque ou hydro-électrique, ou du matériel de conversion de l’énergie cinétique du vent, du contribuable ou de son preneur, ainsi que du matériel auxiliaire de pile à combustible, à l’exclusion des bâtiments et autres constructions, du matériel de transmission, du matériel de distribution, du matériel auxiliaire générateur d’électricité et des biens compris par ailleurs dans les catégories 10 ou 17,
+**(xii)** des piles à combustible stationnaires utilisées par le contribuable ou par son preneur, utilisant de l’hydrogène produit uniquement par du matériel auxiliaire d’électrolyse (ou, s’il s’agit d’une pile à combustible réversible, par la pile proprement dite) qui utilise de l’électricité produite en totalité ou en presque totalité par l’énergie cinétique de l’eau en mouvement, l’énergie des vagues ou l’énergie marémotrice (autrement qu’en détournant ou en entravant l’écoulement naturel de l’eau ou autrement qu’au moyen de barrières physiques ou d’ouvrages comparables à des barrages), ou par du matériel géothermique, photovoltaïque ou hydro-électrique, ou du matériel de conversion de l’énergie cinétique du vent, du contribuable ou de son preneur, ainsi que du matériel auxiliaire de pile à combustible, à l’exclusion des bâtiments et autres constructions, du matériel de transmission, du matériel de distribution, du matériel auxiliaire générateur d’électricité et des biens compris par ailleurs dans les catégories 10 ou 17,
 
 
 
@@ -23136,7 +23271,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(xiv)** des biens qui sont utilisés par le contribuable, ou par son preneur, principalement pour produire de l’électricité à partir de l’énergie cinétique de l’eau en mouvement, de l’énergie des vagues ou de l’énergie marémotrice (autrement qu’en détournant ou en entravant l’écoulement naturel de l’eau ou autrement qu’au moyen de barrières physiques ou d’ouvrages comparables à des barrages), y compris les supports, le matériel de commande, de conditionnement et de stockage dans des batteries, les câbles sous-marins et le matériel de transmission, mais à l’exclusion des bâtiments, du matériel de distribution, du matériel auxiliaire de production d’électricité, des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 s’il n’était pas tenu compte de son sous-alinéa a.1)(i),
+**(xiv)** des biens qui sont utilisés par le contribuable, ou par son preneur, principalement pour produire de l’électricité à partir de l’énergie cinétique de l’eau en mouvement, de l’énergie des vagues ou de l’énergie marémotrice (autrement qu’en détournant ou en entravant l’écoulement naturel de l’eau ou autrement qu’au moyen de barrières physiques ou d’ouvrages comparables à des barrages), y compris les supports, le matériel de commande et de conditionnement, les câbles sous-marins et le matériel de transmission, mais à l’exclusion des bâtiments, du matériel de distribution, du matériel auxiliaire de production d’électricité, des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 s’il n’était pas tenu compte de son sous-alinéa a.1)(i),
 
 
 
@@ -23157,6 +23292,66 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 **(xvi)** du matériel que le contribuable, ou son preneur, utilise principalement pour produire du gaz de gazéification (sauf celui qui est converti en biocarburants liquides ou en produits chimiques), y compris les canalisations connexes (incluant les ventilateurs et les compresseurs), le matériel de séparation d’air, le matériel de stockage, le matériel servant à sécher ou à broyer les combustibles résiduaires admissibles, le matériel de manutention des cendres, le matériel servant à valoriser le gaz de gazéification en biométhane ainsi que le matériel servant à éliminer les produits non combustibles et les contaminants du gaz de gazéification, mais à l’exclusion des bâtiments ou d’autres constructions, du matériel de rejet de la chaleur (comme les condensateurs et les systèmes d’eau de refroidissement), et du matériel servant à convertir le gaz de gazéification en biocarburants liquides ou produits chimiques et des biens compris par ailleurs dans les catégories 10 ou 17,
+
+
+
+**(xvii)** du matériel que le contribuable, ou son preneur, utilise pour recharger des véhicules électriques, y compris les bornes de recharge, les transformateurs, les panneaux de distribution et de commande, les disjoncteurs, les conduites et le câblage connexe, à l’égard duquel les énoncés ci-après se vérifient :
+
+**(A)** le matériel est situé :
+
+**(I)** soit du côté charge d’un compteur d’électricité utilisé aux fins de facturation par un service d’électricité,
+
+
+
+**(II)** soit du côté génératrice d’un compteur d’électricité utilisé afin de mesurer l’électricité produite par le contribuable ou par son preneur, selon le cas,
+
+
+
+
+
+**(B)** plus de 75 % de la puissance électrique maximale du matériel est destinée à recharger des véhicules électriques,
+
+
+
+**(C)** le matériel est :
+
+**(I)** soit une borne de recharge pour véhicules électriques (sauf un bâtiment) qui fournit une puissance continue supérieure à 10 kilowatts,
+
+
+
+**(II)** soit utilisé principalement en rapport avec une ou plusieurs bornes de recharge pour véhicules électriques (sauf des bâtiments) dont chacune fournit une puissance continue supérieure à 10 kilowatts,
+
+
+
+
+
+
+
+**(xviii)** des biens fixes donnés destinés au stockage d’énergie à l’égard desquels les énoncés ci-après se vérifient :
+
+**(A)** ils sont utilisés par le contribuable, ou par son preneur, principalement aux fins de stockage d’énergie électrique et :
+
+**(I)** d’une part, ils comprennent les piles, le matériel de stockage à air comprimé, les volants d’inertie, le matériel auxiliaire (y compris le matériel de commande et de conditionnement) et les constructions connexes,
+
+
+
+**(II)** d’autre part, ils ne comprennent pas les bâtiments, les centrales hydroélectriques d’accumulation par pompage, les barrages et réservoirs hydroélectriques, les biens servant exclusivement de source d’énergie électrique d’appoint, les batteries de véhicules à moteur, les systèmes de piles à combustible dans le cadre desquels l’hydrogène est produit au moyen du reformage du méthane à la vapeur, ainsi que les biens par ailleurs compris dans les catégories 10 ou 17,
+
+
+
+
+
+**(B)** l’un des énoncés ci-après se vérifie à l’égard de ces biens donnés :
+
+**(I)** si l’énergie électrique à être stockée est consommée en rapport avec un bien du contribuable ou de son preneur, selon le cas, les biens donnés sont visés à l’alinéa c) ou le seraient si cet alinéa s’appliquait compte non tenu du présent sous-alinéa,
+
+
+
+**(II)** les biens donnés remplissent l’exigence selon laquelle l’efficacité du système de stockage d’énergie électrique qui les comprend — calculée d’après la quantité d’énergie électrique qui est fournie au système ou produite par lui — est supérieure à 50 %;
+
+
+
+
 
 
 
@@ -23201,7 +23396,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70; 2013, ch. 40, art. 119; 2014, ch. 39, art. 90; 2017, ch. 33, art. 104.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70; 2013, ch. 40, art. 119; 2014, ch. 39, art. 90; 2017, ch. 33, art. 104; 2019, ch. 29, art. 61.
 
 
 
@@ -23210,14 +23405,46 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 Les biens acquis après le 22 février 2005 et avant 2025 (sauf les biens qui, avant leur acquisition, ont été inclus dans une autre catégorie par un contribuable) qui seraient compris par ailleurs dans la catégorie 43.1 :
 
-**a)** si le passage « 6 000 BTU » à la division c)(i)(B) de cette catégorie était remplacé par « 4 750 BTU »;
+**a)** autrement que par l’effet de l’alinéa d) de cette catégorie, si le passage « 6 000 BTU » à la division c)(i)(B) de cette catégorie était remplacé par « 4 750 BTU »;
 
 
 
-**b)** par l’effet de l’alinéa d) de cette catégorie.
+**b)** par l’effet de l’alinéa d) de cette catégorie, si, à la fois :
+
+**(i)** le passage « 6 000 BTU » à la division c)(i)(B) de cette catégorie était remplacé par « 4 750 BTU »,
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2006-117, art. 13; DORS/2009-115, art. 8; 2018, ch. 12, art. 45.
+
+**(ii)** les subdivisions d)(xvii)(C)(I) et (II) de cette catégorie étaient remplacées par ce qui suit :
+
+
+
+**(I)** soit une borne de recharge pour véhicules électriques (sauf un bâtiment) qui fournit une puissance continue d’au moins 90 kilowatts,
+
+
+
+**(II)** soit utilisé, à la fois :
+
+**1** principalement en rapport avec une ou plusieurs bornes de recharge pour véhicules électriques (sauf des bâtiments) dont chacune fournit une puissance continue supérieure à 10 kilowatts,
+
+
+
+**2** en rapport avec une ou plusieurs bornes de recharge pour véhicules électriques (sauf des bâtiments) dont chacune fournit une puissance continue d’au moins 90 kilowatts,
+
+
+
+
+
+
+
+
+
+**(iii)** la division d)(xviii)(B) de cette catégorie s’appliquait compte non tenu de sa subdivision (II).
+
+
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2006-117, art. 13; DORS/2009-115, art. 8; 2018, ch. 12, art. 45; 2019, ch. 29, art. 62.
 
 
 
@@ -23466,6 +23693,22 @@ Les biens acquis après 2015 et avant 2026 qui ne sont pas compris dans la caté
 
 
 
+**CATÉGORIE 54** 
+
+Les biens qui sont des véhicules zéro émission qui ne sont pas compris dans la catégorie 16 ou 55.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2019, ch. 29, art. 63.
+
+
+
+
+**CATÉGORIE 55** 
+
+Les biens qui sont des véhicules zéro émission qui autrement seraient compris dans la catégorie 16.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2019, ch. 29, art. 63.
+
+
+
+
 
 
 ### **ANNEXE III** 
@@ -23504,12 +23747,16 @@ Les biens acquis après 2015 et avant 2026 qui ne sont pas compris dans la caté
 **(articles 1100 et 1101)**
 ## Déductions pour amortissement — catégorie 15
 **1** Aux fins de l’alinéa 1100(1)f), le montant qui peut être déduit dans le calcul du revenu d’un contribuable pour une année d’imposition à l’égard de biens prévus dans la catégorie 15 de l’annexe II est le moindre
-- **a)** d’un montant calculé d’après un taux par corde, par pied de planche ou par mètre cube coupé au cours de l’année d’imposition;
+- **a)** de celui des montants ci-après qui est applicable :
+	- **(i)** si le bien est un bien relatif à l’incitatif à l’investissement accéléré acquis au cours de l’année :
+		- **(A)** si le bien est acquis avant 2024, le produit de 1,5 par un montant calculé d’après un taux par corde, par pied de planche ou par mètre cube coupé au cours de l’année d’imposition,
+		- **(B)** si le bien est acquis après 2023, le produit de 1,25 par un montant calculé d’après un taux par corde, par pied de planche ou par mètre cube coupé au cours de l’année d’imposition,
+	- **(ii)** sinon, un montant calculé d’après un taux par corde, par pied de planche ou par mètre cube coupé au cours de l’année d’imposition;
 - **b)** du coût en capital non déprécié, pour le contribuable, des biens de cette catégorie à la fin de l’année d’imposition (avant d’opérer quelque déduction en vertu de l’article 1100 pour l’année d’imposition).
 
 
 **2** Lorsque tous les biens de la catégorie sont utilisés aux fins d’une concession forestière ou d’une section de celle-ci, le taux par corde, par pied de planche ou par mètre cube correspond au quotient obtenu en divisant :
-- **a)** le coût en capital non déprécié, pour le contribuable, des biens à la fin de l’année d’imposition (avant d’opérer quelque déduction en vertu de l’article 1100 pour l’année d’imposition)
+- **a)** le coût en capital non déprécié, pour le contribuable, des biens à la fin de l’année d’imposition (avant d’opérer quelque déduction en vertu de l’article 1100 pour l’année d’imposition et calculé compte non tenu du sous-alinéa 1a)(i)),
 par
 - **b)** le nombre de cordes, de pieds de planche ou de mètres cubes de bois de la concession ou de la section de celle-ci au début de l’année d’imposition, obtenu par déduction de la quantité coupée jusqu’alors du montant indiqué par le dernier relevé.
 
@@ -23517,7 +23764,7 @@ par
 **3** Lorsqu’une partie des biens de la catégorie est utilisée en rapport avec une concession forestière ou section de celle-ci et qu’une autre partie desdits biens est utilisée en rapport avec une autre concession ou section de celle-ci un taux distinct doit être calculé pour chaque partie des biens de la manière prévue à l’article 2 de la présente annexe, comme si chaque partie des biens constituait les seuls biens du contribuable de cette catégorie.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1092, art. 22(F); DORS/94-140, art. 30 et 31.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1092, art. 22(F); DORS/94-140, art. 30 et 31; 2019, ch. 29, art. 64; 2019, ch. 29, art. 65.
 
 
 
@@ -23530,14 +23777,27 @@ par
 - **b)** du coût en capital non déprécié, pour le contribuable, de la mine ou du droit à la fin de l’année d’imposition (avant d’opérer quelque déduction en vertu de l’article 1100).
 
 
-**2** Lorsqu’une allocation n’a pas été accordée au contribuable à l’égard de la mine ou du droit pour une année d’imposition antérieure, le taux applicable à l’année d’imposition est un montant déterminé par la division du coût en capital de la mine ou du droit, pour le contribuable, moins la valeur résiduaire, s’il en est, par
-- **a)** dans tout cas où le contribuable a acquis le droit d’extraire seulement un nombre spécifié d’unités, le nombre spécifié d’unités de matériaux qu’il a acquis le droit d’extraire; et
-- **b)** dans tout autre cas, le nombre d’unités de matériaux commercialement exploitables que la mine contenait, suivant une estimation, lorsque l’acquisition de la mine ou du droit a été faite.
+**2** Lorsqu’une allocation n’a pas été accordée au contribuable à l’égard de la mine ou du droit pour une année d’imposition antérieure, le taux applicable à l’année d’imposition correspond au taux obtenu par la formule suivante :
+```
+A(B − C)/D
+```
+où :
+- **A** représente :
+- **a)** 1,5, si le bien est un bien relatif à l’incitatif à l’investissement accéléré acquis avant 2024,
+- **b)** 1,25, si le bien est un bien relatif à l’incitatif à l’investissement accéléré acquis après 2023,
+- **c)** 1, dans les autres cas;
+- **B** le coût en capital de la mine ou du droit pour le contribuable;
+- **C** la valeur résiduaire, s’il en est, de la mine ou du droit;
+- **D**  :
+- **a)** si le contribuable a acquis le droit d’extraire seulement un nombre spécifié d’unités, le nombre spécifié d’unités de matériaux qu’il a acquis le droit d’extraire,
+- **b)** dans les autres cas, le nombre d’unités de matériaux commercialement exploitables que la mine contenait, suivant une estimation, au moment de l’acquisition de la mine ou du droit.
 
 
 **3** Lorsqu’une allocation a été accordée au contribuable à l’égard de la mine ou du droit au cours d’une année d’imposition antérieure, le taux applicable à l’année d’imposition est
-- **a)** lorsque l’alinéa b) ne s’applique pas, le taux employé pour déterminer l’allocation de la plus récente année pour laquelle il a été accordé une allocation; et
-- **b)** lorsqu’il a été établi que le nombre d’unités de matériaux restant à extraire dans l’année d’imposition antérieure différait effectivement de la quantité qui a été employée pour déterminer le taux de l’année antérieure mentionnée à l’alinéa a), ou lorsqu’il a été établi que le coût en capital de la mine ou du droit diffère sensiblement du montant qui a été employé pour déterminer le taux de ladite année antérieure, un taux déterminé par la division du coût en capital non déprécié, pour le contribuable, de la mine ou du droit au commencement de l’année moins la valeur résiduaire, s’il en est, par
+- **a)** si l’alinéa b) ne s’applique pas :
+	- **(i)** si l’article 2 s’est appliqué au cours de l’année précédente au calcul du taux servant à déterminer l’allocation pour l’année, le taux qui aurait été obtenu en vertu de l’article 2 si l’alinéa c) de l’élément A de la formule figurant à cet article s’appliquait,
+	- **(ii)** sinon, le taux servant à déterminer l’allocation de la plus récente année pour laquelle il a été accordé une allocation;
+- **b)** lorsqu’il est établi que le nombre d’unités de matériaux restant à extraire au cours de l’année d’imposition antérieure diffère effectivement de la quantité ayant servi à déterminer le taux de l’année antérieure mentionnée à l’alinéa a), ou lorsqu’il est établi que le coût en capital de la mine ou du droit diffère sensiblement du montant qui a servi à déterminer le taux de cette année antérieure, un taux déterminé par la division du montant qui correspondrait au coût en capital non déprécié, pour le contribuable, de la mine ou du droit au début de l’année, si l’alinéa c) de l’élément A de la formule figurant à l’article 2 s’était appliqué relativement à chaque année d’imposition précédente, moins la valeur résiduaire, s’il en est, par :
 	- **(i)** dans tout cas où le contribuable a acquis le droit d’extraire seulement un nombre spécifié d’unités, le nombre d’unités de matériaux commercialement exploitables qu’il avait, au commencement de l’année le droit d’extraire, et
 	- **(ii)** dans tout autre cas, le nombre d’unités de matériaux commercialement exploitables restant, suivant une estimation, dans la mine au commencement de l’année.
 
@@ -23550,7 +23810,7 @@ par
 **5** Dans la présente annexe, ***valeur résiduaire*** signifie la valeur estimative des biens si tous les matériaux commercialement exploitables en étaient enlevés.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1092, art. 23(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1092, art. 23(F); 2019, ch. 29, art. 66; 2019, ch. 29, art. 67.
 
 
 
@@ -23567,16 +23827,27 @@ par
 - **b)** du coût en capital non déprécié, en ce qui concerne le contribuable, (avant toute déduction autorisée par l’article 1100 pour l’année) de la concession forestière ou du droit à la fin de l’année.
 
 
-**2** S’il n’a pas été accordé de déduction au contribuable à l’égard de la concession ou du droit pour une année d’imposition antérieure, le taux de l’année d’imposition est un montant déterminé par la division
-- **a)** du coût en capital de la concession ou du droit en ce qui concerne le contribuable, moins l’ensemble de la valeur résiduelle de la concession forestière et de tout montant que le contribuable a dépensé après le commencement de son année d’imposition 1949 et qui est compris dans le coût en capital, en ce qui le concerne, de la concession forestière ou du droit, pour relevés, voyages d’exploration ou mise au point d’imprimés, cartes ou plans en vue d’obtenir un permis ou un droit de coupe de bois,
-par
-- **b)** la quantité de bois de la concession ou la quantité de bois que le contribuable a le droit de couper, selon le cas, exprimée en cordes, en pieds de planche ou en mètres cubes et déterminée par un relevé.
+**2** S’il n’a pas été accordé de déduction au contribuable à l’égard de la concession ou du droit pour une année d’imposition antérieure, le taux de l’année d’imposition correspond au taux obtenu par la formule suivante :
+```
+A(B − (C + D))/E
+```
+où :
+- **A** représente :
+- **a)** 1,5, si le bien est un bien relatif à l’incitatif à l’investissement accéléré acquis avant 2024,
+- **b)** 1,25, si le bien est un bien relatif à l’incitatif à l’investissement accéléré acquis après 2023,
+- **c)** 1, dans les autres cas;
+- **B** le coût en capital pour le contribuable de la concession ou du droit;
+- **C** la valeur résiduelle de la concession forestière;
+- **D** le total des montants dépensés par le contribuable après le début de son année d’imposition 1949 qui sont compris dans le coût en capital pour lui de la concession forestière ou du droit, pour relevés, voyages d’exploration ou mise au point d’imprimés, cartes ou plans en vue d’obtenir un permis ou un droit de coupe de bois;
+- **E** la quantité de bois de la concession ou la quantité de bois que le contribuable a le droit de couper, selon le cas, exprimée en cordes, en pieds de planche ou en mètres cubes et déterminée par un relevé.
 
 
 **3** S’il a été accordé une déduction au contribuable à l’égard de la concession ou du droit dans une année d’imposition antérieure, le taux de l’année d’imposition est
-- **a)** lorsque l’alinéa b) ne s’applique pas, le taux utilisé dans l’établissement de la déduction pour la plus récente année ayant fait l’objet d’une déduction; et
+- **a)** si l’alinéa b) ne s’applique pas :
+	- **(i)** si l’article 2 s’est appliqué au cours de l’année précédente au calcul du taux servant à déterminer la déduction pour l’année, le taux qui aurait été obtenu en vertu de l’article 2 si l’alinéa c) de l’élément A de la formule figurant à cet article s’appliquait,
+	- **(ii)** dans les autres cas, le taux servant à déterminer la déduction pour la plus récente année ayant fait l’objet d’une déduction;
 - **b)** lorsqu’il a été établi que la quantité de bois qui était dans la concession ou que le contribuable avait le droit de couper était, en réalité, sensiblement différente de la quantité utilisée dans l’établissement du taux de l’année antérieure mentionnée à l’alinéa a), ou lorsqu’il a été établi que le coût en capital de la concession ou du droit est sensiblement différent du montant qui a été utilisé dans l’établissement du taux de cette année antérieure, le taux déterminé par la division
-	- **(i)** du coût en capital non déprécié, en ce qui concerne le contribuable, de la concession ou du droit au commencement de l’année moins la valeur résiduelle,
+	- **(i)** le montant qui correspondrait au coût en capital non déprécié, pour le contribuable, de la concession ou du droit au début de l’année, si l’alinéa c) de l’élément A de la formule figurant à l’article 2 s’était appliqué relativement à chaque année d’imposition précédente, moins la valeur résiduelle,
 par
 	- **(ii)** la quantité estimative de bois restante qui se trouve dans la concession ou que le contribuable a le droit de couper, selon le cas, exprimée en cordes, en pieds de planche ou en mètres cubes, au début de l’année.
 
@@ -23589,7 +23860,7 @@ par
 **5** Dans la présente annexe, ***valeur résiduelle*** signifie la valeur estimative des biens si le bois commerçable en était enlevé.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1092, art. 24(F); DORS/94-140, art. 32 à 34.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1092, art. 24(F); DORS/94-140, art. 32 à 34; 2019, ch. 29, art. 68; 2019, ch. 29, art. 69.
 
 
 
