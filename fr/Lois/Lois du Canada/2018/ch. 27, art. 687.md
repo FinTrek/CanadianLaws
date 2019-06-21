@@ -13,25 +13,5 @@ Sanctionnée sur le 13 décembre 2018
 ----------
 
 
-
-
-
-
-
-
-
-
-**Titre abrégé**
-
-**1** Loi sur la réduction de la pauvreté.
-
-
-
-
-**Cibles de réduction de la pauvreté**
-
-**2** Les cibles de réduction de la pauvreté au Canada que le gouvernement du Canada souhaite atteindre sont les suivantes :
-- **a)** 20 % par rapport au taux de pauvreté de 2015, d’ici 2020;
-- **b)** 50 % par rapport au taux de pauvreté de 2015, d’ici 2030.
-
+[Abrogée, 2019, ch. 29, art. 316]
 
