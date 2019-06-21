@@ -78,8 +78,10 @@
 **Contents of agreements**
 
 **4** Every agreement with a province under section 3 must provide for
-- **(a)** the establishment of safeguards in the province for the protection of information released under this Part; and
-- **(b)** the designation of the provincial information bank or banks that, subject to this Part, must be searched before information may be released under this Part.
+- **(a)** the establishment of safeguards in the province for the protection of information released under this Part.
+- **(b)** [Repealed, 2019, c. 16, s. 44]
+> R.S., 1985, c. 4 (2nd Supp.), s. 4; 2019, c. 16, s. 44.
+
 
 
 
@@ -265,26 +267,28 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 
 
 
-**Transfer of information between information banks**
+**Release of information — information banks**
 
-**18** Subject to the regulations, information in any information banks that may be searched under this Part may be released by one information bank director to the other information bank director to assist that other director in conducting a search under this Part.
+**18** Subject to the regulations, information in an information bank may be released by one information bank director to another information bank director or to the Minister to assist in conducting a search under this Part.
+> R.S., 1985, c. 4 (2nd Supp.), s. 18; 2019, c. 16, s. 47.
+
 
 
 
 
 **Transmission of information to Minister**
 
-**19** Where information requested in an application under section 13 is found in an information bank that may be searched under this Part, the information bank director of that information bank shall cause to be transmitted to the Minister, in accordance with the regulations, all information obtained during any search conducted pursuant to section 17.
-> R.S., 1985, c. 4 (2nd Supp.), s. 19; 1993, c. 8, s. 12.
+**19** If information requested under this Part is found in an information bank, the information bank director of that information bank shall cause to be transmitted to the Minister, in accordance with the regulations, all information obtained during the search.
+> R.S., 1985, c. 4 (2nd Supp.), s. 19; 1993, c. 8, s. 12; 2019, c. 16, s. 47.
 
 
 
 
 
-**New information**
+**Release of information by Minister**
 
-**19.1** Where new information is obtained during a periodic search, the Minister shall not release the information to an applicant under section 13 unless the Minister is satisfied that the applicant still requires the information for the reasons set out in the application.
-> 1993, c. 8, s. 12.
+**19.1** Subject to section 20, the Minister shall release to the applicant the information transmitted to the Minister under this Part.
+> 1993, c. 8, s. 12; 2019, c. 16, s. 47.
 
 
 
@@ -312,20 +316,20 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 
 **22** The Governor in Council may make regulations
 - **(a)** prescribing the form of an application for the release of information under this Part and the information that must be contained therein;
-- **(a.1)** prescribing the manner in which an application for the searching of information banks and the release of information under this Part may be made;
+- **(a.1)** prescribing the time and manner in which an application for the searching of information banks and the release of information under this Part may be made;
 - **(b)** designating, for the purposes of section 15, the information banks that may be searched under this Part;
-- **(c)** setting out the manner in which searches for information under this Part are to be conducted;
+- **(c)** setting out the time and manner in which searches for information under this Part are to be conducted;
 - **(d)** prescribing the conditions under which information may be released under section 18 by one information bank director to the other information bank director;
 - **(e)** establishing the procedures to be followed for the transmission to the Minister of information found in any information bank searched under this Part; and
 - **(f)** generally, for carrying out the purposes and provisions of this Part.
-> R.S., 1985, c. 4 (2nd Supp.), s. 22; 1997, c. 1, s. 20.
+> R.S., 1985, c. 4 (2nd Supp.), s. 22; 1997, c. 1, s. 20; 2019, c. 16, s. 49(E).
 
 
 
 
 
 **PART II** 
-## Garnishment of Federal Moneys to Satisfy Support Orders and Support Provisions
+## Garnishment of Federal Moneys to Satisfy Orders
 
 
 
@@ -341,7 +345,7 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 
 ***garnishable moneys*** means moneys authorized to be paid by Her Majesty by or under such Acts of Parliament or provisions thereof or programs thereunder as are designated by the regulations; (*sommes saisissables*)
 
-***garnishee summons*** includes any document or court order of similar nature; (*bref de saisie-arrêt*)
+***garnishee summons*** includes any document that is of a similar nature to a garnishee summons, including a court order and a document in respect of maintenance, alimony or support issued by a provincial enforcement service; (*bref de saisie-arrêt*)
 
 ***garnishment*** includes attachment; (***Version anglaise seulement***)
 
@@ -351,7 +355,9 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 
 ***Minister*** means the Minister of Justice; (*ministre*)
 
-***provincial garnishment law*** means the law of a province relating to garnishment as it applies to the enforcement of support orders and support provisions; (*droit provincial en matière de saisie-arrêt*)
+***provincial enforcement service*** has the same meaning as in section 2; (*autorité provinciale*)
+
+***provincial garnishment law*** means the law of a province relating to garnishment as it applies to the enforcement of orders; (*droit provincial en matière de saisie-arrêt*)
 
 ***support order*** means an order or judgment for maintenance, alimony or family financial support that is enforceable in any province; (*ordonnance alimentaire*)
 
@@ -360,7 +366,7 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 **Refund of tax payable to client not discounter**
 
 - **(2)** Notwithstanding the acquisition by a discounter from a client of a right to a refund of tax for the purposes of the [Tax Rebate Discounting Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-3.md), the refund of tax remains, for the purposes of this Part, payable to the client and not the discounter.
-> R.S., 1985, c. 4 (2nd Supp.), s. 23; 1992, c. 1, s. 66; 1993, c. 8, s. 13(F).
+> R.S., 1985, c. 4 (2nd Supp.), s. 23; 1992, c. 1, s. 66; 1993, c. 8, s. 13(F); 2019, c. 16, s. 51.
 
 
 
@@ -395,7 +401,9 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 
 **Location of garnishable moneys**
 
-**27** For the purposes of this Part, garnishable moneys are deemed to be located in the jurisdiction of every court requested to issue a garnishee summons in respect thereof.
+**27** For the purposes of this Part, garnishable moneys are deemed to be located in the province in which a garnishee summons is issued in respect of the moneys.
+> R.S., 1985, c. 4 (2nd Supp.), s. 27; 2019, c. 16, s. 53.
+
 
 
 
@@ -430,18 +438,15 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 
 
 
-**Garnishee summons of continuing effect**
+**Her Majesty no longer bound**
 
-**30** Subject to section 31, where a garnishee summons of continuing effect is served on the Minister under this Part and garnishable moneys become payable to the judgment debtor in the five year period during which Her Majesty is bound by the garnishee summons, Her Majesty shall, at the expiration of that period, continue to be bound in accordance with the garnishee summons in respect of all subsequent payments of garnishable moneys to the judgment debtor that are authorized by the same Act of Parliament, provision thereof or program thereunder that authorized the payments of the garnishable moneys to the judgment debtor in the period during which Her Majesty was originally bound by the garnishee summons.
-> R.S., 1985, c. 4 (2nd Supp.), s. 30; 1993, c. 8, s. 15.
-
-
+**30** A garnishee summons against a judgment debtor ceases to bind Her Majesty after the periods and in the circumstances specified in the regulations.
+> R.S., 1985, c. 4 (2nd Supp.), s. 30; 1993, c. 8, s. 15; 2019, c. 16, s. 55.
 
 
 
-**Limitation**
 
-**31** Her Majesty shall cease to be bound under section 30 in respect of any garnishable moneys authorized by any particular Act of Parliament, provision thereof or program thereunder if no such moneys become payable to the judgment debtor for any period of one hundred and eighty consecutive days.
+**31** [Repealed, 2019, c. 16, s. 55]
 
 
 
@@ -466,14 +471,13 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 
 **Method of service**
 
-**34** In addition to any method of service permitted in accordance with provincial garnishment law, service of documents on the Minister under this Part may be effected by registered mail or by any other method prescribed in the regulations.
+**34** In addition to any method of service permitted in accordance with provincial garnishment law, service of documents on the Minister under this Part may be effected by any method prescribed by the regulations.
+> R.S., 1985, c. 4 (2nd Supp.), s. 34; 2019, c. 16, s. 56.
 
 
 
 
-**Service by registered mail**
-
-**35** Where service of a document on the Minister under this Part is effected by registered mail, the document shall be deemed to be served on the day of its receipt by the Minister.
+**35** [Repealed, 2019, c. 16, s. 56]
 
 
 
@@ -484,8 +488,8 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 
 **Notice to ministers**
 
-**36** Forthwith after receipt of the documents referred to in section 28, the Minister shall notify every minister responsible for garnishable moneys of the service thereof and provide each such minister with such information as may be necessary to assist that other minister in determining whether any garnishable moneys are payable to the judgment debtor.
-> R.S., 1985, c. 4 (2nd Supp.), s. 36; 1993, c. 8, s. 16.
+**36** Immediately after being served with the documents referred to in section 28, the Minister shall notify every minister who is responsible for garnishable moneys of the service of the documents and shall provide them with the information that may be necessary to assist them in determining whether any garnishable moneys are payable to the judgment debtor.
+> R.S., 1985, c. 4 (2nd Supp.), s. 36; 1993, c. 8, s. 16; 2019, c. 16, s. 57.
 
 
 
@@ -493,7 +497,18 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 
 **Initial report by ministers**
 
-**37** Forthwith after being notified pursuant to section 36, each minister responsible for garnishable moneys shall report to the Minister on whether such moneys are payable or are foreseeably payable to the judgment debtor.
+**37** Immediately after being notified under section 36, each minister who is responsible for garnishable moneys shall report to the Minister on whether those moneys are payable or are foreseeably payable to the judgment debtor.
+> R.S., 1985, c. 4 (2nd Supp.), s. 37; 2019, c. 16, s. 57.
+
+
+
+
+
+**Demand under [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)**
+
+**37.1** For the purposes of section 37, if the Minister of National Revenue knows or suspects that garnishable moneys would be payable to a judgment debtor were the debtor to file a return of income for a taxation year, that Minister may, in accordance with subsection 150(2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), demand that the debtor file a return of income for that taxation year.
+> 2019, c. 16, s. 57.
+
 
 
 
@@ -514,7 +529,9 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 
 **Right to search information banks**
 
-**40** Subject to the regulations, every minister responsible for garnishable moneys is entitled to have any of the information banks that may be searched under Part I searched for any information that minister deems necessary to confirm the identity of any judgment debtor.
+**40** Subject to the regulations, the Minister and every minister responsible for garnishable moneys is entitled to have any of the information banks that may be searched under Part I searched for any information necessary to confirm the identity of any judgment debtor.
+> R.S., 1985, c. 4 (2nd Supp.), s. 40; 2019, c. 16, s. 58.
+
 
 
 
@@ -526,13 +543,17 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 **Response time**
 
 **41** The Minister, on behalf of Her Majesty, shall respond to every garnishee summons within the time prescribed by the regulations.
+> R.S., 1985, c. 4 (2nd Supp.), s. 41; 2019, c. 16, s. 59(F).
 
 
 
 
-**Methods of response to garnishee summons**
 
-**42** In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Minister may respond to a garnishee summons by registered mail or by any other method prescribed by the regulations.
+**Methods of response**
+
+**42** In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Minister may respond to a garnishee summons by any method prescribed by the regulations.
+> R.S., 1985, c. 4 (2nd Supp.), s. 42; 2019, c. 16, s. 60.
+
 
 
 
@@ -540,6 +561,8 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 **Response by registered mail**
 
 **43** Where the Minister responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md) shall be received in evidence and is, unless the contrary is shown, proof that the Minister has responded to the garnishee summons.
+> R.S., 1985, c. 4 (2nd Supp.), s. 43; 2019, c. 16, s. 61(F).
+
 
 
 
@@ -556,7 +579,9 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 
 **Effect of payment to provincial enforcement service**
 
-- **(2)** Where a payment to a provincial enforcement service as defined in section 2 is permitted under the provincial garnishment law of the province of a provincial enforcement service, a payment to the provincial enforcement service by the Minister is, to the extent of the payment, a good and sufficient discharge of Her Majesty’s liability under this Part and under the legislation governing the garnishable moneys.
+- **(2)** If provincial garnishment law permits a payment to a provincial enforcement service of the province, a payment to the provincial enforcement service by the Minister is, to the extent of the payment, a good and sufficient discharge of Her Majesty’s liability under this Part and under the legislation governing the garnishable moneys.
+> R.S., 1985, c. 4 (2nd Supp.), s. 44; 2019, c. 16, s. 62.
+
 
 
 
@@ -567,8 +592,8 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 
 **Notice to judgment debtor**
 
-**45** Where a garnishee summons is served on the Minister under this Part, the Minister shall, in the form, within the time and in the manner prescribed by the regulations, notify the judgment debtor named in the garnishee summons of that service.
-> R.S., 1985, c. 4 (2nd Supp.), s. 45; 1993, c. 8, s. 17.
+**45** If a garnishee summons is served on the Minister under this Part, the Minister may notify the judgment debtor named in the garnishee summons of that service.
+> R.S., 1985, c. 4 (2nd Supp.), s. 45; 1993, c. 8, s. 17; 2019, c. 16, s. 63.
 
 
 
@@ -578,20 +603,24 @@ binds Her Majesty for five years in respect of all garnishable moneys payable to
 
 
 
-### Recovery of Payments
+### Recovery of Excess Payments
 
 
 
 **Payments to judgment debtor**
 
-**49** Where a judgment debtor is paid any garnishable moneys to which he is not entitled by reason of garnishment proceedings permitted under this Part, the amount thereof is a debt due to Her Majesty by the judgment debtor and may be recovered as such in accordance with the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or the legislation governing the particular garnishable moneys paid to the judgment debtor.
+**49** If a judgment debtor is paid any garnishable moneys to which the judgment debtor is not entitled by reason of garnishment proceedings permitted under this Part, the amount that is paid is a debt due to Her Majesty by the judgment debtor and may be recovered as such in accordance with the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or the legislation governing the particular garnishable moneys paid to the judgment debtor.
+> R.S., 1985, c. 4 (2nd Supp.), s. 49; 2019, c. 16, s. 64(E).
+
 
 
 
 
 **Payments to party that instituted proceedings**
 
-**50** Subject to section 51, where garnishable moneys are paid under this Part to or for the benefit of a party that instituted garnishment proceedings permitted under this Part in excess of the amount that should be paid to or for the benefit of that party, the amount thereof is a debt due to Her Majesty by that party and may be recovered as such in accordance with the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or by deduction or set-off against any garnishable moneys payable to or for the benefit of that party under this Part.
+**50** Subject to section 51, if garnishable moneys are paid under this Part to or for the benefit of a party that instituted garnishment proceedings permitted under this Part in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to Her Majesty by that party and may be recovered as such in accordance with the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or by way of deduction from, or set-off or compensation against, any garnishable moneys payable to or for the benefit of that party under this Part.
+> R.S., 1985, c. 4 (2nd Supp.), s. 50; 2019, c. 16, s. 65.
+
 
 
 
@@ -675,7 +704,9 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 **Chargeable against judgment debtor**
 
-**59** Subject to any regulations respecting the remittance thereof, the fee referred to in section 58 is a debt due to Her Majesty by the judgment debtor and may, subject to section 60, be recovered by deduction or set-off against any garnishable moneys payable to the judgment debtor.
+**59** Subject to any regulations respecting the remittance of the fee referred to in section 58, it is a debt due to Her Majesty by the judgment debtor and may, subject to section 60, be recovered by way of deduction from, or set-off or compensation against, any garnishable moneys payable to the judgment debtor.
+> R.S., 1985, c. 4 (2nd Supp.), s. 59; 2019, c. 16, s. 67.
+
 
 
 
@@ -683,6 +714,8 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 **Restriction**
 
 **60** The fee referred to in section 58 may not be recovered out of any garnishable moneys to be used to honour a garnishee summons.
+> R.S., 1985, c. 4 (2nd Supp.), s. 60; 2019, c. 16, s. 68(F).
+
 
 
 
@@ -695,18 +728,19 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 **61** The Governor in Council may make regulations
 - **(a)** designating Acts of Parliament, provisions thereof and programs thereunder for the purposes of the definition garnishable moneys;
-- **(a.1)** prescribing the percentage of the amount of garnishable moneys, in relation to the Act of Parliament or provision thereof or program thereunder by or under which the garnishable moneys are authorized to be paid, that is to be exempt from the enforcement of support orders and support provisions;
+- **(a.1)** prescribing the percentage of the amount of garnishable moneys, in relation to the Act of Parliament, the provision of that Act or the program under that Act by or under which the garnishable moneys are authorized to be paid, that is to be exempt from the enforcement of orders;
 - **(b)** prescribing the form of the application referred to in paragraph 28(c);
 - **(c)** prescribing the period of time before which Her Majesty becomes bound by the service of the documents referred to in section 28;
+- **(c.1)** specifying periods and circumstances for the purposes of section 30;
 - **(d)** specifying the place where service of documents on the Minister must be effected in connection with garnishment proceedings permitted under this Part;
-- **(e)** prescribing the methods in which service of documents in connection with garnishment proceedings permitted under this Part may be effected on the Minister;
+- **(e)** respecting the methods of service of documents and providing for the day on which service of documents on the Minister is deemed to be effected;
 - **(f)** respecting the conducting of searches for the purposes of this Part of the information banks that may be searched under Part I;
-- **(g)** prescribing the time within which and the methods by which the Minister must respond to garnishee summonses;
+- **(g)** respecting the methods by which the Minister may respond to garnishee summonses and prescribing the time within which the Minister must do so;
 - **(h)** prescribing the form of the notification referred to in section 45 and the time within which and the manner in which it must be sent;
-- **(i)** prescribing a fee in respect of the processing of garnishee summonses and the manner of collecting the fee;
+- **(i)** prescribing a fee in respect of the processing of garnishee summonses and the time and manner of collecting the fee;
 - **(j)** respecting the remission, in whole or in part, of the fee referred to in section 58; and
 - **(k)** generally, for carrying out the purposes and provisions of this Part.
-> R.S., 1985, c. 4 (2nd Supp.), s. 61; 1993, c. 8, s. 18.
+> R.S., 1985, c. 4 (2nd Supp.), s. 61; 1993, c. 8, s. 18; 2019, c. 16, s. 69.
 
 
 
@@ -727,7 +761,7 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 ***appropriate Minister*** means a minister of the Crown in right of Canada who is responsible for the issuance of any type or class of licence set out in the schedule. (*ministre compétent*)
 
-***debtor*** means a person who is in arrears under a support order or a support provision. (*débiteur*)
+***debtor*** means a person who is in arrears under a support order. (*débiteur*)
 
 ***licence*** means a licence, a permit, a certificate or an authorization of any kind, and includes a passport within the meaning of section 2 of the [Canadian Passport Order](/en/Regulations/Statutory%20Instruments/81/86.md). (*autorisation*)
 
@@ -735,9 +769,9 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 ***Minister*** means the Minister of Justice. (*ministre*)
 
-***persistent arrears***, in respect of a support order or support provision, means
-- **(a)** arrears in any amount where the arrears are due to the failure to make in full the payments required in respect of any three payment periods, within the meaning of the support order or the support provision, or
-- **(b)** accumulated arrears of $3000 or more. (*être en défaut de façon répétée*)
+***persistent arrears***, in respect of a support order, means
+- **(a)** arrears in any amount due to the failure to make in full the payments required in respect of any three payment periods, within the meaning of the support order, or
+- **(b)** accumulated arrears of $3,000 or more. (*être en défaut de façon répétée*)
 
 ***prescribed*** means prescribed by the regulations. (***Version anglaise seulement***)
 
@@ -745,10 +779,10 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 ***schedule licence*** means a licence of a type or class set out in the schedule. (*autorisation visée*)
 
-***support order*** has the meaning assigned by subsection 23(1). (*ordonnance alimentaire*)
+***support order*** means an order, judgment, decision or agreement — whether interim or final — that is enforceable in a province for maintenance, alimony or support. (*ordonnance alimentaire*)
 
-***support provision*** means a provision in an agreement relating to the payment of maintenance or family financial support that is enforceable under provincial law. (*disposition alimentaire*)
-> R.S., 1985, c. 4 (2nd Supp.), s. 62; 1997, c. 1, s. 22.
+***support provision***[Repealed, 2019, c. 16, s. 70]
+> R.S., 1985, c. 4 (2nd Supp.), s. 62; 1997, c. 1, s. 22; 2019, c. 16, s. 70.
 
 
 
@@ -756,8 +790,8 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 **Amendments to schedule**
 
-**63** The Governor in Council may, by order, add to or delete from the schedule any type or class of licence that may be issued to an individual under an Act of Parliament or under an order made pursuant to a prerogative of the Crown.
-> R.S., 1985, c. 4 (2nd Supp.), s. 63; 1997, c. 1, s. 22.
+**63** The Governor in Council may, by order, amend the schedule to add to or delete any type or class of licence that may be issued to an individual under an Act of Parliament or under a prerogative of the Crown.
+> R.S., 1985, c. 4 (2nd Supp.), s. 63; 1997, c. 1, s. 22; 2019, c. 16, s. 71.
 
 
 
@@ -769,8 +803,8 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 **Purpose of Part**
 
-**64** The purpose of this Part is to help provincial enforcement services enforce support orders and support provisions by providing for the denial of certain licences to debtors who are in persistent arrears.
-> R.S., 1985, c. 4 (2nd Supp.), s. 64; 1997, c. 1, s. 22.
+**64** The purpose of this Part is to help provincial enforcement services enforce support orders by providing for the denial of certain licences to debtors who are in persistent arrears.
+> R.S., 1985, c. 4 (2nd Supp.), s. 64; 1997, c. 1, s. 22; 2019, c. 16, s. 72.
 
 
 
@@ -806,7 +840,7 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 **67** 
 
-- **(1)** Where a debtor is in persistent arrears under a support order or a support provision, a provincial enforcement service may apply to the Minister that the following actions be taken against the debtor:
+- **(1)** If a debtor is in persistent arrears, a provincial enforcement service may apply to the Minister requesting that the following actions be taken:
 	- **(a)** that no new schedule licences be issued to the debtor;
 	- **(b)** that all schedule licences held by the debtor be suspended; and
 	- **(c)** that schedule licences held by the debtor not be renewed.
@@ -835,7 +869,7 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 **Deemed receipt**
 
 - **(5)** A notice referred to in subsection (3) is deemed to have been received by a debtor ten days after it is sent to the debtor.
-> 1997, c. 1, s. 22.
+> 1997, c. 1, s. 22; 2019, c. 16, s. 73.
 
 
 
@@ -849,6 +883,15 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 **68** Immediately on the receipt of a licence denial application and the affidavit referred to in subsection 67(3), the Minister shall inform each appropriate Minister of the receipt of the application, and shall provide the appropriate Minister with such information as may be necessary to help the appropriate Minister determine whether the debtor to whom the application relates is the holder of a schedule licence.
 > 1997, c. 1, s. 22.
+
+
+
+
+
+**Right to search information banks**
+
+**68.1** Subject to the regulations, the Minister and the appropriate Minister are entitled to have any of the information banks that may be searched under Part I searched for any information necessary to confirm the identity of the debtor.
+> 2019, c. 16, s. 75.
 
 
 
@@ -909,15 +952,15 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 - **(1)** A provincial enforcement service shall immediately request that all actions taken under this Part in respect of a debtor be terminated where
 	- **(a)** the provincial enforcement service is satisfied that the debtor
-		- **(i)** is no longer in arrears under all support orders and support provisions against the debtor that have been enforced by a licence denial application,
-		- **(ii)** is complying, in respect of all support orders and support provisions against the debtor that have been enforced by a licence denial application, with a payment plan that the provincial enforcement service considers reasonable, or
+		- **(i)** is no longer in arrears under all support orders against the debtor that are enforced by a licence denial application,
+		- **(ii)** is complying, in respect of those support orders, with a payment plan that the provincial enforcement service considers reasonable, or
 		- **(iii)** is unable to pay the amount in arrears and that the application of this Part against the debtor is not reasonable in the circumstances; or
-	- **(b)** the provincial enforcement service ceases to enforce all support orders and support provisions against the debtor that have been enforced by a licence denial application.
+	- **(b)** the provincial enforcement service ceases to enforce those support orders against the debtor.
 
 **Prescribed manner**
 
 - **(2)** A request under subsection (1) must be made to the Minister in the prescribed manner.
-> 1997, c. 1, s. 22.
+> 1997, c. 1, s. 22; 2019, c. 16, s. 76.
 
 
 
@@ -965,16 +1008,7 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 
 
-
-### No Liability
-
-
-
-**No liability**
-
-**77** No action lies against Her Majesty in right of Canada, any Minister of the Crown in right of Canada or any officer or employee of Her Majesty in right of Canada for anything done or omitted to be done, or purported to be done or omitted to be done, in good faith in the administration of this Part or the discharge of any obligation, power or duty under this Part.
-> 1997, c. 1, s. 22.
-
+**77** [Repealed, 2019, c. 16, s. 77]
 
 
 
@@ -985,15 +1019,43 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 **Regulations**
 
-**78** The Governor in Council may make regulations prescribing anything that by this Part is to be or may be prescribed.
-> 1997, c. 1, s. 22.
+**78** The Governor in Council may make regulations
+- **(a)** respecting the conducting of searches for the purposes of this Part of the information banks that may be searched under Part I;
+- **(b)** prescribing anything that by this Part is to be or may be prescribed.
+> 1997, c. 1, s. 22; 2019, c. 16, s. 78.
 
 
 
 
 
 **PART IV** 
-## Release Authorization and Confidentiality
+## General Provisions
+
+
+
+### No Liability
+
+
+
+**No liability**
+
+**78.1** No action lies against Her Majesty in right of Canada, any Minister of the Crown in right of Canada or any officer or employee of Her Majesty in right of Canada for anything done or omitted to be done, or purported to be done or omitted to be done, in good faith in the exercise of any power or performance of any duty under Part I or III.
+> 2019, c. 16, s. 79.
+
+
+
+
+
+### Research
+
+
+
+**Matters governed by this Act**
+
+**78.2** The Minister may undertake research related to matters governed by this Act.
+> 2019, c. 16, s. 79.
+
+
 
 
 
@@ -1019,8 +1081,8 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 
 **Prohibition**
 
-**80** No officer or employee of Her Majesty, and no person who is hired on a contractual basis by Her Majesty to assist in the administration of this Act, who obtains any information pursuant to this Act shall, except as provided in this Act, knowingly communicate or knowingly allow the information to be communicated to any person, or knowingly allow any person to inspect or have access to any statement or other writing containing the information.
-> 1997, c. 1, s. 22.
+**80** An officer or employee of, or person who is hired on a contractual basis by, Her Majesty in right of Canada who obtains personal information, as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), under this Act shall not, except in performing their duties under this Act or if so authorized under another Act of Parliament, knowingly communicate the information or allow it to be communicated to any person, or knowingly allow any person to inspect or have access to any statement or other writing containing the information.
+> 1997, c. 1, s. 22; 2019, c. 16, s. 80.
 
 
 
