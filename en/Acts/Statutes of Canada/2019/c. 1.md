@@ -2355,7 +2355,7 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 
-**139** [Amendments]
+**139** [Repealed before coming into force, 2019, c. 28, s. 195]
 
 
 
