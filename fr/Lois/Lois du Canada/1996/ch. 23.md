@@ -2848,6 +2848,32 @@ plus de 13 %
 
 
 
+**Paiement excédentaire : retenue réputée ne pas avoir été faite**
+
+**82.01** 
+
+- **(1)** Sous réserve du paragraphe (2), le montant retenu par l’employeur en vertu du paragraphe 82(1) pour une année postérieure à 2015 à l’égard d’un paiement excédentaire effectué à titre de rétribution payée, par suite d’une erreur d’écriture, administrative ou systémique, à un assuré est réputé, pour l’application de la présente loi, ne pas avoir été retenu si, à la fois :
+	- **a)** avant la fin de la troisième année suivant l’année civile de la retenue :
+		- **(i)** d’une part, l’employeur choisit de faire appliquer le présent article à l’égard du montant,
+		- **(ii)** d’autre part, l’assuré a remboursé l’employeur ou a pris des mesures pour le rembourser;
+	- **b)** l’employeur n’a pas remis un questionnaire ayant pour effet de corriger le paiement excédentaire avant de faire le choix prévu au sous-alinéa a)(i);
+	- **c)** les conditions supplémentaires fixées par le ministre ont été remplies.
+
+**Calcul du montant**
+
+- **(2)** Pour l’application du paragraphe (1), le montant qui est réputé ne pas avoir été retenu est le montant retenu par l’employeur ou, s’il est moins élevé, le montant obtenu au moyen de la formule suivante :
+```
+A − B
+```
+où :
+- **A** représente la somme des montants retenus par l’employeur au titre des cotisations ouvrières de l’assuré pour l’année en cause;
+- **B** la somme des montants que l’employeur aurait retenus au titre des cotisations ouvrières de l’assuré pour cette année, s’il n’avait pas effectué le paiement excédentaire visé au paragraphe (1).
+> 2019, ch. 29, art. 50.
+
+
+
+
+
 **Succession d’employeurs**
 
 **82.1** L’employeur qui, au cours d’une année postérieure à 2003, succède directement à un autre employeur, à l’égard d’un employé, par suite de la formation ou de la dissolution d’une personne morale ou de l’acquisition, avec le consentement de l’employeur précédent ou par effet de la loi, de tout ou partie d’une entreprise de celui-ci, peut tenir compte, pour l’application de l’article 82, des sommes retenues, versées, payées ou remises pour l’année sous le régime de la présente loi par l’employeur précédent à l’égard de l’employé pour l’année comme s’il les avait retenues, versées, payées ou remises lui-même. Le cas échéant, il ne peut tenir compte de telles sommes à l’égard de la cotisation patronale sans en tenir compte à l’égard de la cotisation ouvrière.
@@ -3187,6 +3213,10 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 - **(3)** Malgré les autres dispositions de la présente partie, lorsqu’une personne ou un employeur présente une demande au ministre et le convainc que, pour une année, la somme retenue sur la rétribution de cette personne, ou versée par l’employeur pour elle, selon le cas, dépasse la somme à retenir ou à verser pour l’année — ou n’aurait pas dû être retenue ou versée — , le ministre peut, si cette demande est faite dans les trois ans qui suivent la fin de cette année, rembourser l’excédent — ou la somme — ainsi retenu ou versé.
 
+**Remboursement des sommes visées à l’article 82.01**
+
+- **(3.1)** Le ministre peut rembourser à l’employeur le montant que celui-ci a versé et qui, en application de l’article 82.01, est réputé ne pas avoir été retenu, si l’employeur lui en fait la demande au plus tard dans les trois ans suivant la fin de l’année pour laquelle le versement a été effectué.
+
 **Remboursement : rémunération assurable ne dépassant pas 2 000 $**
 
 - **(4)** Lorsque la rémunération assurable d’un assuré ne dépasse pas 2 000 $ au cours d’une année, l’ensemble de toutes les retenues faites par un ou plusieurs employeurs sur cette rémunération au titre des cotisations ouvrières de l’année doivent lui être remboursées par le ministre.
@@ -3379,8 +3409,8 @@ où :
 
 **Aucun intérêt**
 
-- **(13.1)** Malgré le paragraphe (13), aucun intérêt n’est exigible sur les remboursements versés en vertu des paragraphes (8.7), (8.91), (8.94), (8.97) ou (8.98).
-> 1996, ch. 23, art. 96; 1997, ch. 26, art. 90; 1998, ch. 21, art. 104; 2011, ch. 24, art. 160; 2012, ch. 19, art. 615, ch. 31, art. 307; 2013, ch. 40, art. 135; 2014, ch. 39, art. 225.
+- **(13.1)** Malgré le paragraphe (13), aucun intérêt n’est exigible sur tout remboursement versé en vertu des paragraphes (3.1), (8.7), (8.91), (8.94), (8.97) ou (8.98) ou sur le montant d’un tel remboursement qui, en vertu de la présente loi, est imputé sur une autre créance.
+> 1996, ch. 23, art. 96; 1997, ch. 26, art. 90; 1998, ch. 21, art. 104; 2011, ch. 24, art. 160; 2012, ch. 19, art. 615, ch. 31, art. 307; 2013, ch. 40, art. 135; 2014, ch. 39, art. 225; 2019, ch. 29, art. 51.
 
 
 
