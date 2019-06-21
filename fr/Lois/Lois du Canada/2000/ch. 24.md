@@ -564,11 +564,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Crédit**
 
 **31** Le ministre des Travaux publics et des Services gouvernementaux verse au Fonds pour les crimes contre l’humanité :
-- **a)** le montant net provenant de l’aliénation des biens visés aux paragraphes 4(1) à (3) de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md) qui :
+- **a)** le montant net provenant de la disposition des biens visés aux paragraphes 4(1) à (3) de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md) qui :
 	- **(i)** sont des produits de la criminalité, au sens du paragraphe 462.3(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), obtenus par la perpétration d’une infraction visée à la présente loi, ou qui en proviennent directement ou indirectement,
-	- **(ii)** ont été confisqués au profit de Sa Majesté et aliénés par lui;
+	- **(ii)** ont été confisqués au profit de Sa Majesté et dont il a disposé;
 - **b)** les amendes versées ou perçues en application du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en remplacement des biens visés à l’alinéa a).
-> 2000, ch. 24, art. 31; 2001, ch. 32, art. 61.
+> 2000, ch. 24, art. 31; 2001, ch. 32, art. 61; 2019, ch. 29, art. 122(F).
 
 
 
@@ -576,7 +576,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application : [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md)**
 
-**32** Les alinéas 9d), e) et f) et les articles 10, 11 et 13 à 16 de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md) ne s’appliquent pas aux biens, au produit de leur aliénation et aux amendes visés à l’article 31.
+**32** Les alinéas 9d), e) et f) et les articles 10, 11 et 13 à 16 de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md) ne s’appliquent pas aux biens, au produit de leur disposition et aux amendes visés à l’article 31.
+> 2000, ch. 24, art. 32; 2019, ch. 29, art. 123(F).
+
 
 
 
