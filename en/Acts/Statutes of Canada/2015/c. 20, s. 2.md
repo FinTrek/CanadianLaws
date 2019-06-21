@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20s.%202.md)
 
-# Security of Canada Information Sharing Act
+# Security of Canada Information Disclosure Act
 
 **S.C. 2015, c. 20, s. 2**
 
@@ -27,12 +27,14 @@ Whereas Canada is not to be used as a conduit for the carrying out of activities
 
 Whereas protecting Canada and its people against activities that undermine the security of Canada often transcends the mandate and capability of any one Government of Canada institution;
 
-Whereas Parliament recognizes that information needs to be shared — and disparate information needs to be collated — in order to enable the Government to protect Canada and its people against activities that undermine the security of Canada;
+Whereas Parliament recognizes that information needs to be disclosed — and disparate information needs to be collated — in order to enable the Government to protect Canada and its people against activities that undermine the security of Canada;
 
-Whereas information in respect of activities that undermine the security of Canada is to be shared in a manner that is consistent with the Canadian Charter of Rights and Freedoms and the protection of privacy;
+Whereas Government of Canada institutions are accountable for the effective and responsible disclosure of information in a manner that respects the Canadian Charter of Rights and Freedoms, the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) and other laws regarding the protection of privacy;
 
-And whereas Government of Canada institutions are accountable for the effective and responsible sharing of information;
+And whereas an explicit authority will facilitate the effective and responsible disclosure of information to protect the security of Canada;
 
+
+> 2015, c. 20, s. 2 “Preamble”; 2019, c. 13, s. 113.
 
 
 Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
@@ -48,7 +50,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Short title**
 
-**1** This Act may be cited as the Security of Canada Information Sharing Act.
+**1** This Act may be cited as the Security of Canada Information Disclosure Act.
+> 2015, c. 20, s. 2 “1”; 2019, c. 13, s. 114(E).
+
 
 
 
@@ -59,28 +63,32 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Definitions**
 
-**2** The following definitions apply in this Act.
+**2** 
 
-***activity that undermines the security of Canada*** means any activity, including any of the following activities, if it undermines the sovereignty, security or territorial integrity of Canada or the lives or the security of the people of Canada:
-- **(a)** interference with the capability of the Government of Canada in relation to intelligence, defence, border operations, public safety, the administration of justice, diplomatic or consular relations, or the economic or financial stability of Canada;
+- **(1)** The following definitions apply in this Act.
+
+***activity that undermines the security of Canada*** means any activity that undermines the sovereignty, security or territorial integrity of Canada or threatens the lives or the security of people in Canada or of any individual who has a connection to Canada and who is outside Canada. For greater certainty, it includes
+- **(a)** interference with the capability of the Government of Canada in relation to intelligence, defence, border operations or public safety;
 - **(b)** changing or unduly influencing a government in Canada by force or unlawful means;
 - **(c)** espionage, sabotage or covert foreign-influenced activities;
 - **(d)** terrorism;
 - **(e)** proliferation of nuclear, chemical, radiological or biological weapons;
-- **(f)** interference with critical infrastructure;
-- **(g)** interference with the global information infrastructure, as defined in section 273.61 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
-- **(h)** an activity that causes serious harm to a person or their property because of that person’s association with Canada; and
-- **(i)** an activity that takes place in Canada and undermines the security of another state.
-
-For greater certainty, it does not include advocacy, protest, dissent and artistic expression. (*activité portant atteinte à la sécurité du Canada*)
+- **(f)** significant or widespread interference with critical infrastructure;
+- **(g)** significant or widespread interference with the global information infrastructure, as defined in section 273.61 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); and
+- **(h)** conduct that takes place in Canada and that undermines the security of another state. (*activité portant atteinte à la sécurité du Canada)*
+- **(i)** [Repealed, 2019, c. 13, s. 115]
 
 ***Government of Canada institution*** means
 - **(a)** a government institution — as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) — other than one that is listed in Schedule 1; or
 - **(b)** an institution that is listed in Schedule 2. (*institution fédérale*)
 
-***people of Canada*** means
-- **(a)** the people in Canada; or
-- **(b)** any citizen, as defined in subsection 2(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md) — or any permanent resident, as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) — who is outside Canada. (*population du Canada*)
+***people of Canada***[Repealed, 2019, c. 13, s. 115]
+
+**Exception**
+
+- **(2)** For the purposes of this Act, advocacy, protest, dissent or artistic expression is not an activity that undermines the security of Canada unless carried on in conjunction with an activity that undermines the security of Canada.
+> 2015, c. 20, s. 2 “2”; 2019, c. 13, s. 115.
+
 
 
 
@@ -91,19 +99,23 @@ For greater certainty, it does not include advocacy, protest, dissent and artist
 
 **Purpose**
 
-**3** The purpose of this Act is to encourage and facilitate the sharing of information among Government of Canada institutions in order to protect Canada against activities that undermine the security of Canada.
+**3** The purpose of this Act is to encourage and facilitate the disclosure of information between Government of Canada institutions in order to protect Canada against activities that undermine the security of Canada.
+> 2015, c. 20, s. 2 “3”; 2019, c. 13, s. 116(E).
+
 
 
 
 
 **Guiding principles**
 
-**4** Information sharing under this Act is to be guided by the following principles:
-- **(a)** effective and responsible information sharing protects Canada and Canadians;
-- **(b)** respect for caveats on and originator control over shared information is consistent with effective and responsible information sharing;
-- **(c)** entry into information-sharing arrangements is appropriate when Government of Canada institutions share information regularly;
-- **(d)** the provision of feedback as to how shared information is used and as to whether it is useful in protecting against activities that undermine the security of Canada facilitates effective and responsible information sharing; and
+**4** The disclosure of information under this Act is to be guided by the following principles:
+- **(a)** effective and responsible disclosure of information protects Canada and Canadians;
+- **(b)** respect for caveats on and originator control over disclosed information is consistent with effective and responsible disclosure of information;
+- **(c)** entry into an information-sharing arrangement is appropriate when a Government of Canada institution regularly discloses information to the same Government of Canada institution;
+- **(d)** the provision of feedback as to how disclosed information is used and as to whether it is useful in protecting against activities that undermine the security of Canada facilitates effective and responsible information disclosure; and
 - **(e)** only those within an institution who exercise its jurisdiction or carry out its responsibilities in respect of activities that undermine the security of Canada ought to receive information that is disclosed under this Act.
+> 2015, c. 20, s. 2 “4”; 2019, c. 13, s. 117.
+
 
 
 
@@ -112,22 +124,47 @@ For greater certainty, it does not include advocacy, protest, dissent and artist
 
 
 
-**Disclosure of information**
+**Disclosure of information to institution listed in Schedule 3**
 
 **5** 
 
-- **(1)** Subject to any provision of any other Act of Parliament, or of any regulation made under such an Act, that prohibits or restricts the disclosure of information, a Government of Canada institution may, on its own initiative or on request, disclose information to the head of a recipient Government of Canada institution whose title is listed in Schedule 3, or their delegate, if the information is relevant to the recipient institution’s jurisdiction or responsibilities under an Act of Parliament or another lawful authority in respect of activities that undermine the security of Canada, including in respect of their detection, identification, analysis, prevention, investigation or disruption.
+- **(1)** Subject to any provision of any other Act of Parliament, or of any regulation made under such an Act, that prohibits or restricts the disclosure of information, a Government of Canada institution may, on its own initiative or on request, disclose information to the head of a recipient Government of Canada institution whose title is listed in Schedule 3, or to a person designated by the head of that recipient institution, if the disclosing institution is satisfied that
+	- **(a)** the disclosure will contribute to the exercise of the recipient institution’s jurisdiction, or the carrying out of its responsibilities, under an Act of Parliament or another lawful authority, in respect of activities that undermine the security of Canada; and
+	- **(b)** the disclosure will not affect any person’s privacy interest more than is reasonably necessary in the circumstances.
 
-**Further disclosure under subsection (1)**
+**Statement regarding accuracy and reliability**
 
-- **(2)** Information received under subsection (1) may be further disclosed under that subsection.
+- **(2)** An institution that discloses information under subsection (1) must, at the time of the disclosure, also provide information regarding its accuracy and the reliability of the manner in which it was obtained.
+> 2015, c. 20, s. 2 “5”; 2019, c. 13, s. 118.
 
 
 
 
-**Further disclosure — other than under this Act**
 
-**6** For greater certainty, the use and further disclosure, other than under this Act, of information that is disclosed under subsection 5(1) are neither authorized nor prohibited by this Act, but must be done in accordance with the law, including any legal requirements, restrictions and prohibitions.
+**Requirement to destroy or return**
+
+**5.1** 
+
+- **(1)** A Government of Canada institution must, as soon as feasible after receiving it under section 5, destroy or return any personal information, as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), that is not necessary for the institution to exercise its jurisdiction, or to carry out its responsibilities, under an Act of Parliament or another lawful authority, in respect of activities that undermine the security of Canada.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply if the retention of the information is required by law.
+
+**[Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md)**
+
+- **(3)** Subsection (1) does not apply to the Canadian Security Intelligence Service in respect of any information that relates to the performance of its duties and functions under section 12 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
+> 2019, c. 13, s. 118.
+
+
+
+
+
+**Clarification**
+
+**6** Nothing in section 5 or 5.1 is to be construed as authorizing the collection or use of any information that is disclosed under section 5.
+> 2015, c. 20, s. 2 “6”; 2019, c. 13, s. 118.
+
 
 
 
@@ -141,6 +178,15 @@ For greater certainty, it does not include advocacy, protest, dissent and artist
 
 
 
+**Clarification**
+
+**7.1** For greater certainty, for the purpose of paragraph 8(2)(b) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the authority in this Act to disclose information includes the authority to disclose personal information, as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
+> 2019, c. 13, s. 118.1.
+
+
+
+
+
 **Non-derogation**
 
 **8** Nothing in this Act limits or affects any authority to disclose information under another Act of Parliament or a provincial Act, at common law or under the royal prerogative.
@@ -148,13 +194,35 @@ For greater certainty, it does not include advocacy, protest, dissent and artist
 
 
 
-## Protection from Civil Proceedings
+## Record Keeping
 
 
 
-**No civil proceedings**
+**Obligation — disclosing institution**
 
-**9** No civil proceedings lie against any person for their disclosure in good faith of information under this Act.
+**9** 
+
+- **(1)** Every Government of Canada institution that discloses information under this Act must prepare and keep records that set out
+	- **(a)** a description of the information;
+	- **(b)** the name of the individual who authorized its disclosure;
+	- **(c)** the name of the recipient Government of Canada institution;
+	- **(d)** the date on which it was disclosed;
+	- **(e)** a description of the information that was relied on to satisfy the disclosing institution that the disclosure was authorized under this Act; and
+	- **(f)** any other information specified by the regulations.
+
+**Obligation — recipient institution**
+
+- **(2)** Every Government of Canada institution that receives information under this Act must prepare and keep records that set out
+	- **(a)** a description of the information;
+	- **(b)** the name of the institution that disclosed it;
+	- **(c)** the name or position of the head of the recipient institution — or of the person designated by the head — who received the information;
+	- **(d)** the date on which it was received by the recipient institution;
+	- **(e)** whether the information has been destroyed or returned under subsection 5.1(1);
+	- **(f)** if the information has been destroyed under subsection 5.1(1), the date on which it was destroyed;
+	- **(g)** if the information was returned under subsection 5.1(1) to the institution that disclosed it, the date on which it was returned; and
+	- **(h)** any other information specified by the regulations.
+> 2015, c. 20, s. 2 “9”; 2019, c. 13, s. 119.
+
 
 
 
@@ -169,8 +237,8 @@ For greater certainty, it does not include advocacy, protest, dissent and artist
 
 - **(1)** The Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations for carrying out the purposes and provisions of this Act, including regulations
 	- **(a)** respecting the manner of disclosure under section 5;
-	- **(b)** requiring records to be kept and retained in respect of that disclosure; and
-	- **(c)** respecting the manner in which those records are kept and retained.
+	- **(b)** specifying information for the purposes of paragraph 9(1)(f) or (2)(f); and
+	- **(c)** respecting the manner in which records that are required by subsection 9(1) or (2) are to be prepared and kept and specifying the period during which they are to be kept.
 
 **Amendments to Schedules 1 and 2**
 
@@ -179,6 +247,8 @@ For greater certainty, it does not include advocacy, protest, dissent and artist
 **Amendments to Schedule 3**
 
 - **(3)** The Governor in Council may make an order adding the name of a Government of Canada institution and the title of its head to Schedule 3, deleting the name of an institution and the title of its head from that Schedule or amending the name of an institution or the title of a head that is listed in that Schedule. An addition is authorized only if the institution has jurisdiction or responsibilities under an Act of Parliament or another lawful authority in respect of activities that undermine the security of Canada, including in respect of their detection, identification, analysis, prevention, investigation or disruption.
+> 2015, c. 20, s. 2 “10”; 2019, c. 13, s. 120.
+
 
 
 
