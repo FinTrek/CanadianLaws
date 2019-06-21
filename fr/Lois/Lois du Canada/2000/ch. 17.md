@@ -89,8 +89,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** messager;
 	- **b)** effets;
 	- **c)** banque fictive;
-	- **d)** renseignements identificateurs, pour l’application du paragraphe 54.1(3).
-> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145; 2006, ch. 12, art. 1; 2010, ch. 12, art. 1862; 2014, ch. 20, art. 254; 2017, ch. 20, art. 407.
+	- **d)** renseignements identificateurs, pour l’application du paragraphe 54.1(3);
+	- **e)** monnaie virtuelle;
+	- **f)** commerce de monnaie virtuelle.
+> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145; 2006, ch. 12, art. 1; 2010, ch. 12, art. 1862; 2014, ch. 20, art. 254; 2017, ch. 20, art. 407; 2019, ch. 29, art. 104.
 
 
 
@@ -278,7 +280,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mesures — autres personnes**
 
-- **(2.1)** Si elle fait affaire avec une personne visée aux alinéas (1)b) ou c) et qu’elle considère, en se fondant sur l’évaluation visée au paragraphe 9.6(2), que cette personne présente un risque élevé de commettre une infraction de recyclage des produits de la criminalité ou une infraction de financement des activités terroristes, la personne ou entité prend les mesures prévues par règlement.
+- **(2.1)** Si elle fait affaire avec une personne visée aux alinéas (1)b) ou c) et qu’elle considère, en se fondant sur l’évaluation visée au paragraphe 9.6(2), qu’il y a un risque élevé de perpétration d’une infraction de recyclage des produits de la criminalité ou d’une infraction de financement des activités terroristes, la personne ou entité prend les mesures prévues par règlement.
 
 **Définitions**
 
@@ -310,7 +312,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **i)** chef ou président d’un parti politique représenté au sein de l’assemblée législative;
 - **j)** titulaire d’un poste ou d’une charge visés par règlement;
 - **k)** maire. (*politically exposed domestic person*)
-> 2006, ch. 12, art. 8; 2014, ch. 20, art. 258; 2017, ch. 20, art. 439.
+> 2006, ch. 12, art. 8; 2014, ch. 20, art. 258; 2017, ch. 20, art. 439; 2019, ch. 29, art. 105.
 
 
 
@@ -358,10 +360,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Télévirements**
 
 **9.5** Il incombe à toute personne ou entité mentionnée à l’article 5 et visée par règlement, relativement aux télévirements réglementaires effectués dans le cours de ses activités financières :
-- **a)** d’inclure avec le télévirement les nom, adresse et, le cas échéant, numéro de compte ou tout autre numéro de référence du client qui demande le télévirement et tout renseignement prévu par règlement;
+- **a)** d’inclure avec le télévirement les nom, adresse et, le cas échéant, numéro de compte ou tout autre numéro de référence de la personne ou de l’entité qui demande le télévirement et tout renseignement prévu par règlement;
 - **b)** de prendre des mesures raisonnables afin de veiller à ce que ces renseignements accompagnent tout télévirement qu’elle reçoit;
 - **c)** de prendre toute autre mesure prévue par règlement.
-> 2006, ch. 12, art. 8.
+> 2006, ch. 12, art. 8; 2019, ch. 29, art. 106.
 
 
 
@@ -1262,8 +1264,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Limitation du montant versé**
 
-- **(2)** En cas de vente ou autre forme d’aliénation des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)a) ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de l’aliénation, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 29; 2006, ch. 12, art. 15.
+- **(2)** En cas de vente ou autre forme de disposition des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)a) ne peut être supérieur au produit éventuel de la vente ou de la disposition, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de la disposition, aucun paiement n’est effectué.
+> 2000, ch. 17, art. 29; 2006, ch. 12, art. 15; 2019, ch. 29, art. 124(F).
 
 
 
@@ -1285,8 +1287,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Limitation du montant versé**
 
-- **(4)** En cas de vente ou autre forme d’aliénation des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme qui peut être versée en vertu du paragraphe (3) ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de l’aliénation, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 30; 2001, ch. 41, art. 139; 2002, ch. 8, art. 161; 2006, ch. 12, art. 16; 2017, ch. 20, art. 427.
+- **(4)** En cas de vente ou autre forme de disposition des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme qui peut être versée en vertu du paragraphe (3) ne peut être supérieur au produit éventuel de la vente ou de la disposition, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de la disposition, aucun paiement n’est effectué.
+> 2000, ch. 17, art. 30; 2001, ch. 41, art. 139; 2002, ch. 8, art. 161; 2006, ch. 12, art. 16; 2017, ch. 20, art. 427; 2019, ch. 29, art. 125(F).
 
 
 
@@ -1375,8 +1377,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Limitation du montant versé**
 
-- **(2)** En cas de vente ou autre forme d’aliénation des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)b) ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de l’aliénation, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 35; 2005, ch. 38, art. 127; 2006, ch. 12, art. 20.
+- **(2)** En cas de vente ou autre forme de disposition des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)b) ne peut être supérieur au produit éventuel de la vente ou de la disposition, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de la disposition, aucun paiement n’est effectué.
+> 2000, ch. 17, art. 35; 2005, ch. 38, art. 127; 2006, ch. 12, art. 20; 2019, ch. 29, art. 126(F).
 
 
 
@@ -1861,7 +1863,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **55** 
 
-- **(1)** Sous réserve des paragraphes (3) et (6.1), des articles 52, 55.1, 56.1 et 56.2, du paragraphe 58(1) et des articles 65 à 65.1 et 68.1 de la présente loi et du paragraphe 12(1) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), il est interdit au Centre de communiquer les renseignements :
+- **(1)** Sous réserve des paragraphes (3) et (6.1), des articles 52, 53.1, 55.1, 56.1 et 56.2, du paragraphe 58(1) et des articles 65 à 65.1 et 68.1 de la présente loi et du paragraphe 12(1) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), il est interdit au Centre de communiquer les renseignements :
 	- **a)** contenus dans une déclaration visée à l’article 7;
 	- **a.1)** contenus dans une déclaration visée à l’article 7.1;
 	- **b)** contenus dans une déclaration visée à l’article 9;
@@ -1883,6 +1885,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 - **(3)** S’il a des motifs raisonnables de soupçonner, à la lumière de l’analyse et de l’appréciation faite en application de l’alinéa 54(1)c), qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, le Centre communique les renseignements désignés :
 	- **a)** aux forces policières compétentes;
 	- **b)** à l’Agence du revenu du Canada, si en outre il a des motifs raisonnables de soupçonner que les renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction, consommée ou non, relative à l’obtention illicite d’un remboursement ou d’un crédit ou à l’évasion fiscale, y compris le non-paiement de droits, définie par une loi fédérale dont l’application relève du ministre du Revenu national;
+	- **b.01)** à l’Agence du revenu du Québec, si en outre il a des motifs raisonnables de soupçonner que les renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction, consommée ou non, relative à l’obtention illicite d’un remboursement ou d’un crédit ou à l’évasion fiscale, définie par une loi fédérale ou de la législature du Québec dont l’application relève du ministre du Revenu du Québec;
 	- **b.1)** à l’Agence des services frontaliers du Canada, si en outre il a des motifs raisonnables de soupçonner que les renseignements se rapportent à une infraction, consommée ou non, d’évasion fiscale — y compris le non-paiement de droits — définie par une loi fédérale dont l’application relève de l’Agence;
 	- **c)** à l’Agence du revenu du Canada, si en outre il soupçonne, pour des motifs raisonnables, que les renseignements sont utiles :
 		- **(i)** pour établir si un organisme de bienfaisance enregistré au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) a cessé de se conformer aux exigences de cette loi relatives à son enregistrement comme tel,
@@ -1894,6 +1897,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **d)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles pour établir si une personne est visée aux articles 34 à 42 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’ils se rapportent à une infraction prévue aux articles 91, 117 à 119, 126 et 127 de cette loi;
 	- **e)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction qui consiste dans la contrebande — ou la tentative de contrebande — de marchandises passibles de droits ou à une infraction qui a trait à des marchandises dont l’importation ou l’exportation est prohibée, contrôlée ou réglementée en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale;
 	- **f)** au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le mandat de ce centre visé à l’alinéa 273.64(1)a) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+	- **f.1)** au Bureau de la concurrence, si en outre il a des motifs raisonnables de soupçonner que les renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction, consommée ou non, prévue par la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md), la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md), la [Loi sur l’étiquetage des textiles](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-10.md) ou la [Loi sur le poinçonnage des métaux précieux](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-19.md);
 	- **g)** à un organisme chargé de l’application de la législation en valeurs mobilières d’une province, si en outre il a des motifs raisonnables de soupçonner que les renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction à cette législation.
 
 **Exception**
@@ -1931,13 +1935,13 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **l)** le nombre et les types de déclarations sur lesquelles une communication est fondée;
 	- **m)** le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
 	- **n)** les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation;
-	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui figurent dans le rapport visé à l’article 20;
+	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui ont été transmis au Centre sous le régime de la partie 2;
 	- **p)** lorsqu’il s’agit d’un télévirement au sens du [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/184.md), les renseignements relatifs à une opération financière contenus dans une déclaration visée à l’article 9 s’ils sont des précisions relatives au paiement au client bénéficiaire, au sens donné à ce terme par la *Society for Worldwide Interbank Financial Telecommunication*;
 	- **q)** les renseignements relatifs à l’opération financière effectuée ou tentée, à l’importation ou à l’exportation qui sont reçus par le Centre par l’entremise d’un organisme en vertu d’un accord visé à l’article 56 et sur lesquels reposent les motifs raisonnables de cet organisme de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire;
 	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
 	- **s)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
 	- **t)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
-> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167; 2017, ch. 20, art. 429.
+> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167; 2017, ch. 20, art. 429; 2019, ch. 29, art. 107.
 
 
 
@@ -1975,13 +1979,13 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **l)** le nombre et les types de déclarations sur lesquelles une communication est fondée;
 	- **m)** le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
 	- **n)** les indices de toute infraction de recyclage des produits de la criminalité, d’infraction de financement des activités terroristes ou de menaces envers la sécurité du Canada entachant l’opération financière, l’importation ou l’exportation;
-	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui figurent dans le rapport visé à l’article 20;
+	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui ont été transmis au Centre sous le régime de la partie 2;
 	- **p)** lorsqu’il s’agit d’un télévirement au sens du [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/184.md), les renseignements relatifs à une opération financière contenus dans une déclaration visée à l’article 9, s’ils sont des précisions relatives au paiement au client bénéficiaire, au sens donné à ce terme par la Society for Worldwide Interbank Financial Telecommunication;
 	- **q)** les renseignements relatifs à l’opération financière effectuée ou tentée, à l’importation ou à l’exportation qui sont reçus par le Centre par l’entremise d’un organisme en vertu d’un accord visé à l’article 56 et sur lesquels reposent les motifs raisonnables de cet organisme de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire;
 	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
 	- **s)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
 	- **t)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
-> 2001, ch. 41, art. 68; 2006, ch. 12, art. 27; 2014, ch. 20, art. 283; 2017, ch. 20, art. 430.
+> 2001, ch. 41, art. 68; 2006, ch. 12, art. 27; 2014, ch. 20, art. 283; 2017, ch. 20, art. 430; 2019, ch. 29, art. 108.
 
 
 
@@ -2055,12 +2059,12 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **l)** le nombre et les types de déclarations sur lesquelles une communication est fondée;
 	- **m)** le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
 	- **n)** les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation;
-	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui figurent dans le rapport visé à l’article 20;
+	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui ont été transmis au Centre sous le régime de la partie 2;
 	- **p)** lorsqu’il s’agit d’un télévirement au sens du [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/184.md), les renseignements relatifs à une opération financière contenus dans une déclaration visée à l’article 9, s’ils sont des précisions relatives au paiement au client bénéficiaire, au sens donné à ce terme par la *Society for Worldwide Interbank Financial Telecommunication*;
 	- **q)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
 	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
 	- **s)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
-> 2001, ch. 41, art. 68; 2006, ch. 12, art. 28; 2014, ch. 20, art. 284; 2017, ch. 20, art. 432.
+> 2001, ch. 41, art. 68; 2006, ch. 12, art. 28; 2014, ch. 20, art. 284; 2017, ch. 20, art. 432; 2019, ch. 29, art. 109.
 
 
 
@@ -2981,10 +2985,17 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 - **(4)** À l’occasion d’un appel, la Cour fédérale prend toutes les précautions possibles, notamment en ordonnant le huis clos si elle le juge indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements visés au paragraphe 55(1).
 
+**Exception**
+
+- **(4.1)** Le paragraphe (4) ne s’applique pas aux renseignements suivants :
+	- **a)** le nom de l’intéressé à qui est signifié le procès-verbal;
+	- **b)** la nature de la violation;
+	- **c)** le montant de la pénalité imposée.
+
 **Pouvoir de la Cour fédérale**
 
 - **(5)** Saisie de l’appel, la Cour fédérale confirme, annule ou, sous réserve des règlements pris en vertu de l’alinéa 73.1(1)c), modifie la décision.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40; 2019, ch. 29, art. 110.
 
 
 
@@ -2996,8 +3007,15 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Publication**
 
-**73.22** Au terme de la procédure en violation, le Centre peut rendre public la nature de la violation, le nom de son auteur et la pénalité imposée.
-> 2006, ch. 12, art. 40.
+**73.22** Dans les cas ci-après, le Centre rend publics, dans les meilleurs délais, la nature de la violation ou le défaut, selon le cas, le nom de l’intéressé et la pénalité applicable :
+- **a)** il y a aveu de responsabilité à l’égard de la violation par application des paragraphes 73.15(1) ou (3);
+- **b)** l’intéressé reçoit signification d’un avis d’une décision prise au titre du paragraphe 73.15(2) portant qu’il a commis une violation;
+- **c)** l’intéressé conclut une transaction avec le Centre;
+- **d)** l’intéressé reçoit signification d’un avis de défaut d’exécution de la transaction et, selon le cas :
+	- **(i)** il paie la pénalité à laquelle il est tenu en application du paragraphe 73.18(1),
+	- **(ii)** il reçoit signification d’un avis d’une décision prise au titre du paragraphe 73.19(2) confirmant l’inexécution de la transaction,
+	- **(iii)** la transaction est réputée non exécutée par application du paragraphe 73.19(3).
+> 2006, ch. 12, art. 40; 2019, ch. 29, art. 111.
 
 
 
