@@ -310,12 +310,12 @@ the justice may issue a warrant authorizing the representative of the National A
 - **(3)** No person in possession of privileged information or documents shall knowingly, without the written consent of the person from whom they were obtained, communicate them or allow them to be communicated to any person, or allow any person to have access to them, except
 	- **(a)** for the purpose of the enforcement of this Act or of giving effect to the Convention;
 	- **(b)** pursuant to an obligation of the Government of Canada under the Convention; or
-	- **(c)** in the case where the information or documents are disclosed in accordance with the Security of Canada Information Sharing Act.
+	- **(c)** in the case where the information or documents are disclosed in accordance with the [Security of Canada Information Disclosure Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md).
 
 **Evidence in legal proceedings**
 
 - **(4)** Notwithstanding any other Act or law, no person shall be required, in connection with any legal proceedings, to produce any statement or other record containing privileged information or documents, or to give evidence relating to them, unless the proceedings relate to the enforcement of this Act.
-> 1995, c. 25, s. 17; 2015, c. 20, s. 7.
+> 1995, c. 25, s. 17; 2015, c. 20, s. 7; 2019, c. 13, s. 125(E).
 
 
 
