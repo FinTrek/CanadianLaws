@@ -957,41 +957,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Dépôt des projets de règlement**
-
-**62.1** 
-
-- **(1)** Le gouverneur en conseil ne peut prendre de règlement en vertu de l’article 62 à moins que le ministre n’ait fait déposer le projet de règlement devant les deux chambres du Parlement.
-
-**Rapport du comité**
-
-- **(2)** Le comité compétent, d’après le règlement de chacune des chambres, est automatiquement saisi du projet de règlement et peut effectuer une enquête ou tenir des audiences publiques à cet égard et faire rapport de ses conclusions à la chambre.
-
-**Prise des règlements**
-
-- **(3)** Le gouverneur en conseil peut prendre un règlement en vertu de l’article 62 dans les cas suivants :
-	- **a)** aucune des deux chambres du Parlement n’a donné son agrément au rapport de son comité au sujet du projet de règlement avant l’expiration du trentième jour de séance de la chambre ou du cent soixantième jour civil, le premier en date étant à retenir, suivant le dépôt du projet de règlement, auquel cas le règlement pris doit être conforme au projet déposé;
-	- **b)** les deux chambres du Parlement ont donné leur agrément au rapport de leurs comités respectifs approuvant le projet de règlement tel quel ou avec des modifications au même effet, auquel cas le règlement pris doit être conforme au projet agréé.
-
-**Définition de « jour de séance »**
-
-- **(4)** Pour l’application du présent article, tout jour où siège la chambre est un jour de séance.
+**62.1** [Abrogé, 2019, ch. 29, art. 220]
 
 
 
-
-**Exceptions**
-
-**62.2** 
-
-- **(1)** L’obligation de dépôt ne s’applique pas si le ministre estime :
-	- **a)** soit que, le projet de règlement n’apportant pas de modification de fond notable à des règlements existants, l’article 62.1 ne devrait pas s’appliquer;
-	- **b)** soit que la prise du règlement doit se faire sans délai pour la protection de la santé ou de la sécurité publiques.
-
-**Notification au Parlement**
-
-- **(2)** Le ministre fait déposer devant chaque chambre du Parlement une déclaration énonçant les motifs sur lesquels il se fonde pour ne pas déposer le projet de règlement.
+**62.2** [Abrogé, 2019, ch. 29, art. 220]
 
 
 
