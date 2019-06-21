@@ -965,41 +965,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Proposed regulations to be laid before both Houses of Parliament**
-
-**62.1** 
-
-- **(1)** The Governor in Council may not make a regulation under section 62 unless the Minister has first caused the proposed regulation to be laid before both Houses of Parliament.
-
-**Report by committee**
-
-- **(2)** A proposed regulation that is laid before a House of Parliament is deemed to be automatically referred to the appropriate committee of that House, as determined by the rules of that House, and the committee may conduct inquiries or public hearings with respect to the proposed regulation and report its findings to that House.
-
-**Making of regulations**
-
-- **(3)** The Governor in Council may make a regulation under section 62 only if
-	- **(a)** neither House has concurred in any report from its committee respecting the proposed regulation before the end of 30 sitting days or 160 calendar days, whichever is earlier, after the day on which the proposed regulation was laid before that House, in which case the regulation may be made only in the form laid; or
-	- **(b)** both Houses have concurred in reports from their committees approving the proposed regulation or a version of it amended to the same effect, in which case the regulation may be made only in the form concurred in.
-
-**Meaning of “sitting day”**
-
-- **(4)** For the purpose of this section, “sitting day” means a day on which the House in question sits.
+**62.1** [Repealed, 2019, c. 29, s. 220]
 
 
 
-
-**Exceptions**
-
-**62.2** 
-
-- **(1)** A regulation may be made without being laid before each House of Parliament if the Minister is of the opinion that
-	- **(a)** the changes made by the regulation to an existing regulation are so immaterial or insubstantial that section 62.1 should not apply in the circumstances; or
-	- **(b)** the regulation must be made immediately in order to protect the health or safeguard the safety of the public.
-
-**Explanation**
-
-- **(2)** If a regulation is made without being laid before each House of Parliament, the Minister shall cause to be laid before each House a statement of the reasons why it was not.
+**62.2** [Repealed, 2019, c. 29, s. 220]
 
 
 
