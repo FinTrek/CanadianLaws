@@ -312,7 +312,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve lors de poursuites judiciaires**
 
 - **(4)** Malgré toute autre loi ou règle de droit, nul n’est tenu de communiquer oralement ou par écrit ces renseignements ou documents dans le cadre d’une procédure judiciaire qui ne concerne pas l’application de la présente loi.
-> 1995, ch. 25, art. 17; 2015, ch. 20, art. 7.
+> 1995, ch. 25, art. 17; 2015, ch. 20, art. 7; 2019, ch. 13, art. 125(A).
 
 
 
