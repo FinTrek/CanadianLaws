@@ -567,20 +567,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Dispositions transitoires
 
 
-
-**Non-exercice par l’office du Wekeezhii de ses attributions**
-
-**95** 
-
-- **(1)** L’Office des terres et des eaux du Wekeezhii constitué par l’article 57.1 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), édicté par l’article 31 de la présente loi, ne peut exercer, pour une période de six mois suivant l’entrée en vigueur de celle-ci, les attributions visées aux articles 58.1 et 59, aux paragraphes 60(1) et (2), aux articles 79.1 à 79.3, 80.1 et 88 et au paragraphe 89(2) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md).
-
-**Attributions de l’office du Wekeezhii exercées par un autre office**
-
-- **(2)** Pendant cette période, malgré le paragraphe 102(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), l’Office des terres et des eaux de la vallée du Mackenzie exerce les attributions conférées à l’Office des terres et des eaux du Wekeezhii au titre des articles 58.1, 79.1 à 79.3, 80.1 et 88 et du paragraphe 89(2) de cette loi.
-
-**Compétence exclusive**
-
-- **(3)** Pendant cette période, malgré le paragraphe 32(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) et l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), la Cour suprême des Territoires du Nord-Ouest a compétence exclusive en première instance pour connaître de toute question relative à la compétence de l’Office des terres et des eaux du Wekeezhii, qu’elle soit soulevée ou non par une demande du même type que celle visée à ce paragraphe.
+**95** [Abrogé, 2019, ch. 19, art. 81]
 
 
 
