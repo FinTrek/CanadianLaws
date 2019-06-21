@@ -135,7 +135,7 @@ Assented to on 14 December 2012
 
 **8** 
 
-- **(1)** Before a person who proposes to carry on any work, undertaking or activity, for the purpose of the construction of the bridge, parkway or any related work and for which an authorization referred to in paragraphs 35(2)(b) or (c) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) would have been required but for section 3, begins to carry on the work, undertaking or activity, they must file with the Minister a plan that includes all measures to be taken to mitigate the harm to fish that are part of a commercial, recreational or Aboriginal fishery, or to fish that support such a fishery resulting from the carrying on of the work, undertaking or activity.
+- **(1)** Before a person who proposes to carry on any work, undertaking or activity, for the purpose of the construction of the bridge, parkway or any related work and for which an authorization referred to in paragraphs 35(2)(b) or (c) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) would have been required but for section 3, begins to carry on the work, undertaking or activity, they must file with the Minister a plan that includes all measures to be taken to mitigate the harm to fish that are part of a commercial, recreational or Indigenous fishery, or to fish that support such a fishery resulting from the carrying on of the work, undertaking or activity.
 
 **Obligation to consult**
 
@@ -148,7 +148,7 @@ Assented to on 14 December 2012
 **Transitional provision**
 
 - **(4)** If a plan was filed with respect to a work, undertaking or activity under subsection (1) as it read before the coming into force of this subsection, then, as of that coming into force, that subsection (1) continues to apply with respect to that work, undertaking or activity.
-> 2012, c. 31, ss. 179 “8”, 184
+> 2012, c. 31, ss. 179 “8”, 1842019, c. 14, s. 58(E)
 
 
 
