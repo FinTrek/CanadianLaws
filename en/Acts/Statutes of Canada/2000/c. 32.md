@@ -10335,7 +10335,7 @@ In Banff National Park of Canada, the following described area:
 
 
 
-The whole of Parcel DZ as shown on Plan 69749 in the Canada Lands Surveys Records at Ottawa, a copy of which has been deposited in the Land Titles Office for the South Alberta Land Registration District at Calgary under number 8510449, said parcel containing 2192 hectares, more or less.
+The whole of Parcels JM, JN, JO, JP, JQ, JR and JS and the Temple Road and Lipalian Mountain avalanche areas as shown on Plans 107416, 107417, 107418, 107419 and 107420 in the Canada Lands Surveys Records at Ottawa, copies of which have been deposited in the Alberta Land Titles Office at Calgary under numbers 1811569, 1811571, 1811573, 1811574 and 1812006, said parcels containing 1660.7 hectares, more or less.
 
 
 
@@ -10346,7 +10346,7 @@ In Banff National Park of Canada, the following described area:
 
 
 
-The whole of Parcel EY as shown on Plan 74099 in the Canada Lands Surveys Records at Ottawa, a copy of which has been deposited in the Land Titles Office for the South Alberta Land Registration District at Calgary under number 9210231, said parcel containing 300.06 hectares, more or less.
+The whole of parcel HY and parcels JA, JB, JC and JD as shown on Plan numbers 102068 and 102069 respectively in the Canada Lands Surveys Records at Ottawa, copies of which have been deposited in the Alberta Land Titles Office at Calgary under numbers 1312143 and 1312144 respectively, said parcels containing 260.33 hectares, more or less.
 
 
 
@@ -10371,6 +10371,6 @@ In Riding Mountain National Park of Canada, the following described area:
 All that parcel of land shown as Mount Agassiz Ski Resort on Plan 64217 in the Canada Lands Surveys Records at Ottawa, a copy of which is filed in the Land Titles Office in Neepawa as 6406, said parcel containing 141.64 hectares, more or less.
 
 
-> 2000, c. 32, Sch. 5; 2013, c. 28, s. 15.
+> 2000, c. 32, Sch. 5; 2013, c. 28, s. 15; 2019, c. 29, s. 332.
 
 
