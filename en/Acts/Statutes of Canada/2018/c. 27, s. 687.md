@@ -13,25 +13,5 @@ Assented to on 13 December 2018
 ----------
 
 
-
-
-
-
-
-
-
-
-**Short title**
-
-**1** This Act may be cited as the Poverty Reduction Act.
-
-
-
-
-**Poverty reduction targets**
-
-**2** The targets for poverty reduction in Canada to which the Government of Canada aspires are the following:
-- **(a)** 20% below the level of poverty in 2015 by 2020; and
-- **(b)** 50% below the level of poverty in 2015 by 2030.
-
+[Repealed, 2019, c. 29, s. 316]
 
