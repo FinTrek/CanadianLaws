@@ -57,6 +57,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***analyste*** Personne désignée à titre d’analyste en vertu de l’article 11. (*analyst*)
 
+***ATHC*** Acide delta-9-tétrahydrocannabinolique. (*THCA*)
+
 ***bâtonnet de tabac*** Rouleau de tabac ou article de tabac de forme tubulaire destiné à être fumé — à l’exclusion des cigares — et nécessitant une certaine préparation avant d’être consommé. Chaque tranche de 60 mm ou de 650 mg d’un bâtonnet de tabac dépassant respectivement 90 mm de longueur ou 800 mg, ainsi que la fraction restante, le cas échéant, compte pour un bâtonnet de tabac. (*tobacco stick*)
 
 ***bière*** Bière ou liqueur de malt, au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md). (*beer*)
@@ -68,6 +70,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***boutique hors taxes à l’étranger*** Magasin de vente au détail situé dans un pays étranger qui est autorisé par les lois du pays à vendre des marchandises en franchise de certains droits et taxes aux particuliers sur le point de quitter le pays. (*foreign duty free shop*)
 
 ***cannabis*** S’entend au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*cannabis*) 
+
+***cannabis frais*** S’entend au sens du paragraphe 1(1) du [Règlement sur le cannabis](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/144.md). (*fresh cannabis*)
+
+***cannabis séché*** S’entend au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*dried cannabis*)
 
 ***centre de remplissage libre-service*** Local où, conformément aux lois de la province où il est situé, de l’alcool est fourni à partir d’un contenant spécial marqué, en vue d’être emballé par l’acheteur. (*bottle-your-own premises*)
 
@@ -234,8 +240,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 Cependant, n’est pas comprise à la présente définition toute substance, matière ou chose exclue par règlement. (*cannabis product*)
 
 ***produit du cannabis à faible teneur en THC*** Produit du cannabis :
-- **a)** constitué entièrement de cannabis d’une catégorie visée aux articles 1 à 3 de l’annexe 4 de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
-- **b)** dont aucune partie ne compte plus que la limite maximale de rendement de 0,3 % de THC p/p, compte tenu du potentiel de transformation de l’acide delta-9-tétrahydrocannabinolique en THC, tel que déterminé conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*low-THC cannabis product*)
+- **a)** constitué entièrement d’une des substances suivantes :
+	- **(i)** cannabis frais,
+	- **(ii)** cannabis séché,
+	- **(iii)** huile qui contient une chose visée aux articles 1 ou 3 de l’annexe 1 de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) et qui est à l’état liquide à la température de 22 ± 2 °C;
+- **b)** dont aucune partie ne compte plus que la limite maximale de rendement de 0,3 % de THC p/p, compte tenu du potentiel de transformation de l’ATHC en THC, tel que déterminé conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*low-THC cannabis product*)
 
 ***produit du tabac*** Le tabac fabriqué, le tabac en feuilles emballé et les cigares. (*tobacco product*)
 
@@ -265,7 +274,7 @@ où :
 - **(i)** la contrepartie, déterminée pour l’application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), pour le produit du cannabis,
 - **(ii)** toute contrepartie additionnelle, déterminée pour l’application de cette partie, pour le contenant qui renferme le produit du cannabis,
 - **(iii)** tout montant de contrepartie, déterminé pour l’application de cette partie, s’ajoutant aux montants visés aux sous-alinéas (i) et (ii), qu’il soit exigible au même moment ou à un autre moment, notamment tout montant prélevé pour la publicité, le financement, le paiement de commissions ou à quelque autre titre, ou destiné à y pourvoir,
-- **B** le pourcentage prévu à l’article 2 de l’annexe 7,
+- **B** le pourcentage prévu à l’alinéa 2a) de l’annexe 7,
 - **C** :
 - **(i)** si un droit additionnel sur le cannabis relativement à une province déterminée est imposé sur le produit du cannabis, le pourcentage visé par règlement relativement à la province,
 - **(ii)** sinon, 0 %;
@@ -292,6 +301,8 @@ où :
 ***tabac partiellement fabriqué*** Tabac fabriqué qui est du tabac haché ou du tabac ayant subi moins de transformations que le tabac haché. (*partially manufactured tobacco*)
 
 ***THC*** Δ<sup>9</sup>-tétrahydrocannabinol (tétrahydro-6a,7,8,10a hydroxy-1 triméthyl-6,6,9 pentyl-3 6H-dibenzo[b,d]pyranne-(6aR, 10aR)). (*THC*) 
+
+***THC total*** Relativement à un produit du cannabis, la quantité totale, en milligrammes, de THC que le produit du cannabis pourrait produire, compte tenu du potentiel de transformation de l’ATHC en THC, tel que déterminé conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*total THC*)
 
 ***timbre d’accise*** Timbre d’accise de tabac ou timbre d’accise de cannabis. (*excise stamp*) 
 
@@ -334,7 +345,7 @@ où :
 - **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume. (*wine*)
 
 ***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant. (*ferment-on-premises facility*)
-> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38, ch. 25, art. 107; 2011, ch. 15, art. 9; 2018, ch. 12, art. 69.
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38, ch. 25, art. 107; 2011, ch. 15, art. 9; 2018, ch. 12, art. 69; 2019, ch. 29, art. 81.
 
 
 
@@ -4032,9 +4043,11 @@ où :
 
 
 
-**Modification de la Loi**
+**Intérêts**
 
-**172** Il est entendu que, si la présente loi fait l’objet d’une modification qui entre en vigueur un jour antérieur à la date de sanction du texte modificatif, ou s’applique à compter de ce jour, les dispositions de la présente loi qui portent sur le calcul et le paiement d’intérêts s’appliquent à la modification comme si elle avait été sanctionnée ce jour-là.
+**172** Il est entendu que, si une modification apportée à la présente loi, ou une modification ou un texte législatif afférent à cette loi, entre en vigueur un jour antérieur à la date de sanction ou de promulgation de la modification ou du texte, ou s’applique à compter de ce jour, les dispositions de la présente loi et de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), selon le cas, qui portent sur le calcul et le paiement d’intérêts s’appliquent à la modification ou au texte comme s’il avait été sanctionné ou promulgué ce jour-là.
+> 2002, ch. 22, art. 172; 2019, ch. 29, art. 82.
+
 
 
 
@@ -5180,7 +5193,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 
 **Menaces à la sécurité**
 
-- **(6.5)** Un fonctionnaire peut fournir les renseignements ci-après au responsable d’une institution fédérale destinataire figurant à l’annexe 3 de la [Loi sur la communication d’information ayant trait à la sécurité du Canada](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%202.md), ou à son délégué :
+- **(6.5)** Un fonctionnaire peut fournir les renseignements ci-après au responsable d’une institution fédérale destinataire figurant à l’annexe 3 de la [Loi sur la communication d’information ayant trait à la sécurité du Canada](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%202.md), ou à un fonctionnaire que le responsable de l’institution désigne pour l’application de cette loi :
 	- **a)** des renseignements confidentiels, s’il existe des motifs raisonnables de soupçonner qu’ils seraient utiles aux fins suivantes :
 		- **(i)** toute enquête visant à vérifier si les activités d’une personne sont de nature à constituer des menaces envers la sécurité du Canada, au sens de l’article 2 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md),
 		- **(ii)** toute enquête visant à établir si l’une des infractions ci-après peut avoir été commise :
@@ -5215,7 +5228,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
-> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8; 2016, ch. 7, art. 75; 2018, ch. 12, art. 78, ch. 27, art. 66.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8; 2016, ch. 7, art. 75; 2018, ch. 12, art. 78, ch. 27, art. 66; 2019, ch. 13, art. 126.
 
 
 
@@ -5751,14 +5764,14 @@ où :
 où :
 - **A** représente la plus élevée des sommes suivantes :
 - **a)** la somme déterminée selon l’article 1 de l’annexe 7, dans sa version applicable au moment de la contravention, relativement aux produits du cannabis auxquels la contravention se rapporte,
-- **b)** la somme obtenue en multipliant la juste valeur marchande au moment de la contravention des produits du cannabis auxquels la contravention se rapporte par le pourcentage visé à l’article 4 de l’annexe 7, dans sa version applicable à ce moment;
+- **b)** la somme obtenue en multipliant la juste valeur marchande, au moment de la contravention, des produits du cannabis auxquels la contravention se rapporte par le pourcentage visé à l’alinéa 4a) de l’annexe 7, dans sa version applicable à ce moment;
 - **B** :
 - **a)** si la contravention a lieu dans une province déterminée, 300 % de la valeur de l’élément A,
 - **b)** sinon, zéro;
 - **C** :
 - **a)** si la contravention a lieu dans une province déterminée visée par règlement, 200 % de la somme déterminée à l’alinéa b) de l’élément A,
 - **b)** sinon, zéro.
-> 2018, ch. 12, art. 84, ch. 27, art. 67.
+> 2018, ch. 12, art. 84, ch. 27, art. 67; 2019, ch. 29, art. 83.
 
 
 
@@ -5792,14 +5805,14 @@ où :
 où :
 - **A** représente la plus élevée des sommes suivantes :
 - **a)** la somme déterminée selon l’article 1 de l’annexe 7, dans sa version applicable au moment de la contravention, relativement aux produits du cannabis auxquels la contravention se rapporte,
-- **b)** la somme obtenue en multipliant la juste valeur marchande au moment de la contravention des produits du cannabis auxquels la contravention se rapporte par le pourcentage visé à l’article 4 de l’annexe 7, dans sa version applicable à ce moment;
+- **b)** la somme obtenue en multipliant la juste valeur marchande, au moment de la contravention, des produits du cannabis auxquels la contravention se rapporte par le pourcentage visé à l’alinéa 4a) de l’annexe 7, dans sa version applicable à ce moment;
 - **B** :
 - **a)** si la contravention a lieu dans une province déterminée, 300 % de la valeur de l’élément A,
 - **b)** sinon, zéro;
 - **C** :
 - **a)** si la contravention a lieu dans une province déterminée visée par règlement, 200 % de la somme déterminée à l’alinéa b) de l’élément A,
 - **b)** sinon, zéro.
-> 2018, ch. 12, art. 86, ch. 27, art. 68.
+> 2018, ch. 12, art. 86, ch. 27, art. 68; 2019, ch. 29, art. 84.
 
 
 
@@ -5870,10 +5883,10 @@ où :
 - **(2)** La pénalité pour chaque timbre d’accise dont il ne peut être rendu compte est égale à ce qui suit :
 	- **a)** en ce qui concerne le timbre d’accise de tabac, le droit qui serait imposé sur un produit du tabac pour lequel le timbre a été émis en vertu du paragraphe 25.1(1);
 	- **b)** en ce qui concerne le timbre d’accise de cannabis, cinq fois le total des sommes suivantes :
-		- **(i)** le montant exprimé en dollars prévu à l’alinéa 1a) de l’annexe 7,
-		- **(ii)** trois fois le montant exprimé en dollars prévu à l’alinéa 1a) de l’annexe 7 si le timbre vise une province déterminée,
+		- **(i)** le montant exprimé en dollars prévu au sous-alinéa 1a)(i) de l’annexe 7,
+		- **(ii)** trois fois le montant exprimé en dollars prévu au sous-alinéa 1a)(i) de l’annexe 7 si le timbre vise une province déterminée,
 		- **(iii)** cinq dollars si le timbre vise une province déterminée visée par règlement.
-> 2010, ch. 12, art. 44; 2018, ch. 12, art. 87.
+> 2010, ch. 12, art. 44; 2018, ch. 12, art. 87; 2019, ch. 29, art. 85.
 
 
 
@@ -8042,34 +8055,66 @@ Vin :
 ### **ANNEXE 7** 
 **(articles 2, 158.19, 158.21,158.24 à 158.27, 158.31, 158.34, 218.1, 233.1, 234.1 et 238.1)**
 ## Droit sur les produits du cannabis
-**1** Tout produit du cannabis produit au Canada ou importé, le total des montants suivants :
+**1** Tout produit du cannabis produit au Canada ou importé :
 
-**a)** 0,25 $ le gramme de matière florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis;
+**a)** dans le cas du cannabis séché, du cannabis frais, des plantes de cannabis et des graines provenant d’une plante de cannabis, le total des montants suivants :
 
-
-
-**b)** 0,075 $ le gramme de matière non florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis;
+**(i)** 0,25 $ le gramme de matière florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis,
 
 
 
-**c)** 0,25 $ la graine viable incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis;
+**(ii)** 0,075 $ le gramme de matière non florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis,
 
 
 
-**d)** 0,25 $ la plante de cannabis à l’état végétatif incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis.
+**(iii)** 0,25 $ la graine viable incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis,
+
+
+
+**(iv)** 0,25 $ la plante de cannabis à l’état végétatif incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis;
 
 
 
 
-**2** Tout produit du cannabis produit au Canada : le montant obtenu en multipliant la somme passible de droits pour le produit du cannabis par 2,5 %.
+
+**b)** dans les autres cas, 0,0025 $ par milligramme de THC total du produit du cannabis.
 
 
-**3** Tout produit du cannabis importé : le montant obtenu en multipliant la valeur du produit du cannabis par 2,5 %.
 
 
-**4** Tout produit du cannabis utilisé pour soi ou égaré : le montant obtenu en multipliant la juste valeur marchande du produit du cannabis par 2,5 %.
+**2** Tout produit du cannabis produit au Canada : le montant obtenu en multipliant la somme passible de droits pour le produit du cannabis par celui des pourcentages suivants qui est applicable :
+
+**a)** dans le cas du cannabis séché, du cannabis frais, des plantes de cannabis et des graines provenant d’une plante de cannabis, 2,5 %;
 
 
-> 2002, ch. 22, ann. 7; 2018, ch. 12, art. 93.
+
+**b)** dans les autres cas, 0 %.
+
+
+
+
+**3** Tout produit du cannabis importé : le montant obtenu en multipliant la valeur du produit du cannabis par celui des pourcentages suivants qui est applicable :
+
+**a)** dans le cas du cannabis séché, du cannabis frais, des plantes de cannabis et des graines provenant d’une plante de cannabis, 2,5 %;
+
+
+
+**b)** dans les autres cas, 0 %.
+
+
+
+
+**4** Tout produit du cannabis utilisé pour soi ou égaré : le montant obtenu en multipliant la juste valeur marchande du produit du cannabis par celui des pourcentages suivants qui est applicable :
+
+**a)** dans le cas du cannabis séché, du cannabis frais, des plantes de cannabis et des graines provenant d’une plante de cannabis, 2,5 %;
+
+
+
+**b)** dans les autres cas, 0 %.
+
+
+
+
+> 2002, ch. 22, ann. 7; 2018, ch. 12, art. 93; 2019, ch. 29, art. 86.
 
 
