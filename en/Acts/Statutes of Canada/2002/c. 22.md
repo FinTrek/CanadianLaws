@@ -107,6 +107,8 @@ but does not include a prescribed substance, material or thing. (*produit du c
 
 ***denatured alcohol*** means any prescribed grade of denatured alcohol made from spirits in accordance with the prescribed specification for that grade. (*alcool dénaturé*)
 
+***dried cannabis*** has the same meaning as in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*cannabis séché*)
+
 ***dutiable amount***, in respect of a cannabis product, means
 - **(a)** if paragraph (b) does not apply, the amount determined by the formula
 ```
@@ -117,7 +119,7 @@ where
 - **(i)** the consideration, as determined for the purposes of Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), for the cannabis product,
 - **(ii)** any additional consideration, as determined for the purposes of that Part, for the container in which the cannabis product is contained, and
 - **(iii)** any amount of consideration, as determined for the purposes of that Part, that is in addition to the amounts referred to in subparagraphs (i) and (ii), whether payable at the same or any other time, including, but not limited to, any amount charged for or to make provision for advertising, financing, commissions or any other matter,
-- **B** is the percentage set out in section 2 of Schedule 7, and
+- **B** is the percentage set out in paragraph 2(a) of Schedule 7, and
 - **C** is
 - **(i)** if additional cannabis duty in respect of a specified province is imposed on the cannabis product, the prescribed percentage in respect of the specified province, or
 - **(ii)** in any other case, 0%; and
@@ -159,6 +161,8 @@ where
 
 ***foreign ships’ stores*** means tobacco products taken on board a vessel or aircraft while the vessel or aircraft is outside Canada and that are intended for consumption by or sale to the passengers or crew while the passengers and crew are on board the vessel or aircraft. (*provisions de bord à l’étranger*)
 
+***fresh cannabis*** has the same meaning as in subsection 1(1) of the [Cannabis Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/144.md). (*cannabis frais*)
+
 ***Her Majesty*** means Her Majesty in right of Canada. (*Sa Majesté*)
 
 ***import*** means to import into Canada. (*importation*)
@@ -188,8 +192,11 @@ where
 - **(b)** a comprehensive tax information exchange agreement that Canada has entered into and that has effect, in respect of another country or jurisdiction. (*accord international désigné*)
 
 ***low-THC cannabis product*** means a cannabis product
-- **(a)** consisting entirely of cannabis of a class referred to in any of items 1 to 3 of Schedule 4 to the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md); and
-- **(b)** any part of which does not have a maximum yield of more than 0.3% THC w/w, taking into account the potential to convert delta-9-tetrahydrocannabinolic acid into THC, as determined in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*produit du cannabis à faible teneur en THC*)
+- **(a)** consisting entirely of
+	- **(i)** fresh cannabis,
+	- **(ii)** dried cannabis, or
+	- **(iii)** oil that contains anything referred to in item 1 or 3 of Schedule 1 to the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) and that is in liquid form at a temperature of 22 ± 2°C; and
+- **(b)** any part of which does not have a maximum yield of more than 0.3% THC w/w, taking into account the potential to convert THCA into THC, as determined in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*produit du cannabis à faible teneur en THC*)
 
 ***manufacture***, in respect of a tobacco product, includes any step in the preparation or working up of raw leaf tobacco into the tobacco product. It includes packing, stemming, reconstituting, converting or packaging the raw leaf tobacco or tobacco product. (*fabrication*)
 
@@ -310,6 +317,8 @@ where
 
 ***THC*** means Δ<sup>9</sup>-tetrahydrocannabinol ((6aR, 10aR)-6a, 7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo [b,d] pyran-1-ol). (*THC*)
 
+***THCA*** means delta-9-tetrahydrocannabinolic acid. (*ATHC*)
+
 ***tobacco dealer*** means a person, other than a tobacco licensee, who purchases for resale, sells or offers to sell raw leaf tobacco on which duty is not imposed under this Act. (*commerçant de tabac*)
 
 ***tobacco excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) and that has not been cancelled under section 25.5. (*timbre d’accise de tabac*)
@@ -324,6 +333,8 @@ where
 
 ***tobacco stick*** means any roll or tubular construction of tobacco intended for smoking, other than a cigar, that requires further preparation to be consumed. If a tobacco stick exceeds 90 mm in length or 800 mg, each portion of 60 mm or less or each portion of 650 mg or less, respectively, is considered to be a separate stick. (*bâtonnet de tabac*)
 
+***total THC*** of a cannabis product means the total quantity of THC, in milligrams, that the cannabis product could yield, taking into account the potential to convert THCA into THC, as determined in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*THC total*)
+
 ***vegetative cannabis plant*** means a cannabis plant, including a seedling, that has not yet produced reproductive structures, including flowers, fruits or seeds. (*plante de cannabis à l’état végétatif*)
 
 ***viable seed*** means a viable seed of a cannabis plant that is not an industrial hemp plant. (*graine viable*)
@@ -337,7 +348,7 @@ where
 - **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume. (*vin*)
 
 ***wine licensee*** means a person who holds a wine licence issued under section 14. (*titulaire de licence de vin*)
-> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38, c. 25, s. 107; 2011, c. 15, s. 9; 2018, c. 12, s. 69.
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38, c. 25, s. 107; 2011, c. 15, s. 9; 2018, c. 12, s. 69; 2019, c. 29, s. 81.
 
 
 
@@ -4037,9 +4048,11 @@ where
 
 
 
-**Application of interest provisions if Act amended**
+**Application of interest provisions**
 
-**172** For greater certainty, if a provision of an Act amends this Act and provides that the amendment comes into force on, or applies as of, a particular day that is before the day on which the provision is assented to, the provisions of this Act that relate to the calculation and payment of interest apply in respect of the amendment as though the provision had been assented to on the particular day.
+**172** For greater certainty, if an amendment to this Act, or an amendment or enactment that relates to this Act, comes into force on, or applies as of, a particular day that is before the day on which the amendment or enactment is assented to or promulgated, the provisions of this Act and of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), as the case may be, that relate to the calculation and payment of interest apply in respect of the amendment or enactment as though it had been assented to or promulgated on the particular day.
+> 2002, c. 22, s. 172; 2019, c 29, s. 82.
+
 
 
 
@@ -5211,7 +5224,7 @@ It excludes information that does not directly or indirectly reveal the identity
 
 **Threats to security**
 
-- **(6.5)** An official may provide to the head, or their delegate, of a recipient Government of Canada institution listed in Schedule 3 to the Security of Canada Information Sharing Act
+- **(6.5)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the Security of Canada Information Disclosure Act, or to an official designated for the purposes of that Act by the head of that recipient institution,
 	- **(a)** confidential information, if there are reasonable grounds to suspect that the information would be relevant to
 		- **(i)** an investigation of whether the activity of any person may constitute threats to the security of Canada, as defined in section 2 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md), or
 		- **(ii)** an investigation of whether any of the following offences may have been committed:
@@ -5246,7 +5259,7 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
-> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8; 2016, c. 7, s. 75; 2018, c. 12, s. 78, c. 27, s. 66.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8; 2016, c. 7, s. 75; 2018, c. 12, s. 78, c. 27, s. 66; 2019, c. 13, s. 126.
 
 
 
@@ -5784,14 +5797,14 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 where
 - **A** is the greater of
 - **(a)** the amount determined under section 1 of Schedule 7, as that section read at the time the contravention occurred, in respect of the cannabis products to which the contravention relates, and
-- **(b)** the amount obtained by multiplying the fair market value, at the time the contravention occurred, of the cannabis products to which the contravention relates by the percentage set out in section 4 of Schedule 7, as that section read at that time;
+- **(b)** the amount obtained by multiplying the fair market value, at the time the contravention occurred, of the cannabis products to which the contravention relates by the percentage set out in paragraph 4(a) of Schedule 7, as that paragraph read at that time;
 - **B** is
 - **(a)** if the contravention occurred in a specified province, 300% of the amount determined for A, and
 - **(b)** in any other case, 0; and
 - **C** is
 - **(a)** if the contravention occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
 - **(b)** in any other case, 0.
-> 2018, c. 12, s. 84, c. 27, s. 67.
+> 2018, c. 12, s. 84, c. 27, s. 67; 2019, c. 29, s. 83.
 
 
 
@@ -5825,14 +5838,14 @@ where
 where
 - **A** is the greater of
 - **(a)** the amount determined under section 1 of Schedule 7, as that section read at the time the contravention occurred, in respect of the cannabis products to which the contravention relates, and
-- **(b)** the amount obtained by multiplying the fair market value, at the time the contravention occurred, of the cannabis products to which the contravention relates by the percentage set out in section 4 of Schedule 7, as that section read at that time;
+- **(b)** the amount obtained by multiplying the fair market value, at the time the contravention occurred, of the cannabis products to which the contravention relates by the percentage set out in paragraph 4(a) of Schedule 7, as that paragraph read at that time;
 - **B** is
 - **(a)** if the contravention occurred in a specified province, 300% of the amount determined for A, and
 - **(b)** in any other case, 0; and
 - **C** is
 - **(a)** if the contravention occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
 - **(b)** in any other case, 0.
-> 2018, c. 12, s. 86, c. 27, s. 68.
+> 2018, c. 12, s. 86, c. 27, s. 68; 2019, c. 29, s. 84.
 
 
 
@@ -5903,10 +5916,10 @@ where
 - **(2)** The amount of the penalty for each excise stamp that cannot be accounted for is equal to
 	- **(a)** in the case of a tobacco excise stamp, the duty that would be imposed on a tobacco product for which the stamp was issued under subsection 25.1(1); or
 	- **(b)** in the case of a cannabis excise stamp, five times the total of the following amounts:
-		- **(i)** the dollar amount set out in paragraph 1(a) of Schedule 7,
-		- **(ii)** if the stamp is in respect of a specified province, three times the dollar amount set out in paragraph 1(a) of Schedule 7, and
+		- **(i)** the dollar amount set out in subparagraph 1(a)(i) of Schedule 7,
+		- **(ii)** if the stamp is in respect of a specified province, three times the dollar amount set out in subparagraph 1(a)(i) of Schedule 7, and
 		- **(iii)** if the stamp is in respect of a prescribed specified province, $5.00.
-> 2010, c. 12, s. 44; 2018, c. 12, s. 87.
+> 2010, c. 12, s. 44; 2018, c. 12, s. 87; 2019, c. 29, s. 85.
 
 
 
@@ -8101,34 +8114,66 @@ Wine:
 ### **SCHEDULE 7** 
 **(Sections 2, 158.19, 158.21, 158.24 to 158.27, 158.31, 158.34, 218.1, 233.1, 234.1 and 238.1)**
 ## Duty on Cannabis Products
-**1** Any cannabis product produced in Canada or imported: the amount equal to the total of
+**1** Any cannabis product produced in Canada or imported: the amount equal to
 
-**(a)** $0.25 per gram of flowering material included in the cannabis product or used in the production of the cannabis product,
+**(a)** in the case of dried cannabis, fresh cannabis, cannabis plants and cannabis plant seeds, the total of
 
-
-
-**(b)** $0.075 per gram of non-flowering material included in the cannabis product or used in the production of the cannabis product,
+**(i)** $0.25 per gram of flowering material included in the cannabis product or used in the production of the cannabis product,
 
 
 
-**(c)** $0.25 per viable seed included in the cannabis product or used in the production of the cannabis product, and
+**(ii)** $0.075 per gram of non-flowering material included in the cannabis product or used in the production of the cannabis product,
 
 
 
-**(d)** $0.25 per vegetative cannabis plant included in the cannabis product or used in the production of the cannabis product.
+**(iii)** $0.25 per viable seed included in the cannabis product or used in the production of the cannabis product, and
+
+
+
+**(iv)** $0.25 per vegetative cannabis plant included in the cannabis product or used in the production of the cannabis product; and
 
 
 
 
-**2** Any cannabis product produced in Canada: the amount obtained by multiplying the dutiable amount for the cannabis product by 2.5%.
+
+**(b)** in any other case, $0.0025 per milligram of the total THC of the cannabis product.
 
 
-**3** Any imported cannabis product: the amount obtained by multiplying the value of the cannabis product by 2.5%.
 
 
-**4** Any cannabis product taken for use or unaccounted for: the amount obtained by multiplying the fair market value of the cannabis product by 2.5%.
+**2** Any cannabis product produced in Canada: the amount obtained by multiplying the dutiable amount for the cannabis product by
+
+**(a)** in the case of dried cannabis, fresh cannabis, cannabis plants and cannabis plant seeds, 2.5%; and
 
 
-> 2002, c. 22, Sch. 7; 2018, c. 12, s. 93.
+
+**(b)** in any other case, 0%.
+
+
+
+
+**3** Any imported cannabis product: the amount obtained by multiplying the value of the cannabis product by
+
+**(a)** in the case of dried cannabis, fresh cannabis, cannabis plants and cannabis plant seeds, 2.5%; and
+
+
+
+**(b)** in any other case, 0%.
+
+
+
+
+**4** Any cannabis product taken for use or unaccounted for: the amount obtained by multiplying the fair market value of the cannabis product by
+
+**(a)** in the case of dried cannabis, fresh cannabis, cannabis plants and cannabis plant seeds, 2.5%; and
+
+
+
+**(b)** in any other case, 0%.
+
+
+
+
+> 2002, c. 22, Sch. 7; 2018, c. 12, s. 93; 2019, c. 29, s. 86.
 
 
