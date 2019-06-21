@@ -374,10 +374,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Implementation of right of representation of other aboriginal peoples**
+**Implementation of right of representation of other Aboriginal peoples**
 
-**15** Despite any provision of this Act respecting members of a board, if an aboriginal people has a right under a land claim agreement to representation on that board in relation to a decision of the board that might affect an area used by that aboriginal people that is outside the board’s area of jurisdiction, the board shall, in accordance with that land claim agreement, determine how to implement that right.
-> 1998, c. 25, s. 15; 2005, c. 1, s. 22.
+**15** Despite any provision of this Act respecting members of a board, if an Aboriginal people has a right under a land claim agreement to representation on that board in relation to a decision of the board that might affect an area used by that Aboriginal people that is outside the board’s area of jurisdiction, the board shall, in accordance with that land claim agreement, determine how to implement that right, so long as the number of members who are either nominated by a first nation, nominated or appointed by the Tlicho Government or appointed following consultation by the federal Minister with the first nations of the regions of the Mackenzie Valley outside the settlement areas and Wekeezhii, as the case may be, and who are temporarily appointed to implement that right remains equal to the number of other members not including the chairperson.
+> 1998, c. 25, s. 15; 2005, c. 1, s. 22; 2019, c. 19, s. 2.
 
 
 
@@ -1142,6 +1142,25 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Acting after expiry of term**
+
+**57.3** 
+
+- **(1)** If the chairperson of a board is of the opinion that it is necessary for a member of that board to continue to act after the expiry of the member’s term in order for the board to make a decision in relation to the issuance, amendment, renewal or cancellation of a permit or licence, as the case may be, the chairperson may request in writing that the federal Minister authorize the member to act in relation to that matter until a decision is made. For the purpose of the appointment of a replacement, the office of the member is deemed to be vacant as soon as their term expires.
+
+**Request**
+
+- **(2)** The request shall be made at least two months before the day on which the member’s term expires.
+
+**Deemed acceptance**
+
+- **(3)** If the federal Minister neither accepts nor rejects the request within two months after the day on which it is made, the request is deemed to be accepted.
+> 2019, c. 19, s. 3.
+
+
+
+
+
 **Objectives — Gwich’in and Sahtu Land and Water Boards**
 
 **58** The Gwich’in Land and Water Board and the Sahtu Land and Water Board shall regulate the use of land and waters and the deposit of waste so as to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit for residents of their respective management areas and of the Mackenzie Valley and for all Canadians.
@@ -1308,8 +1327,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Final decision**
 
-**67** Subject to sections 32 and 72.13, or any approval requirement under any territorial law with respect to the issuance, renewal, amendment or cancellation of a licence, every decision or order of a board is final and binding.
-> 1998, c. 25, s. 67; 2014, c. 2, s. 141.
+**67** Subject to sections 32 and 72.13, subsections 125(1.2) and (4) and any approval requirement under any territorial law with respect to the issuance, renewal, amendment or cancellation of a licence, every decision or order of a board is final and binding.
+> 1998, c. 25, s. 67; 2014, c. 2, s. 141; 2019, c. 19, s. 4.
 
 
 
@@ -2146,6 +2165,28 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
+### Cost Recovery
+
+
+
+**Obligation to pay**
+
+**79.4** 
+
+- **(1)** The applicant or a licensee shall pay to the federal Minister the following amounts and costs relating to the consideration of an application for a licence or for the amendment, renewal or cancellation of a licence:
+	- **(a)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of a board or of its members;
+	- **(b)** any costs incurred by a board for services that are prescribed by the regulations and that are provided to it by a third party; and
+	- **(c)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of the federal Minister.
+
+**Debt due to Her Majesty**
+
+- **(2)** The amounts and costs that a person is to pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
+> 2019, c. 19, s. 5.
+
+
+
+
+
 ### Access to Construction Materials
 
 
@@ -2217,7 +2258,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Consultation with boards**
 
 **82** The federal Minister shall consult the boards with respect to the amendment of this Act or the making or amendment of any instrument under this Act.
-> 1998, c. 25, s. 82; 2005, c. 1, s. 47; 2014, c. 2, s. 174.
+> 1998, c. 25, s. 82; 2005, c. 1, s. 47; 2014, c. 2, s. 174; 2019, c. 19, s. 6(F).
 
 
 
@@ -2325,16 +2366,15 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Notice**
 
-- **(4)** If an inspector considers it reasonable to do so, an inspector shall give the Gwich’in or Sahtu First Nation prior notice of entry by the inspector on its first nation lands.
+- **(4)** An inspector shall, if it is reasonable to do so, give prior notice of their entry to
+	- **(a)** the Gwich’in or Sahtu First Nation, if the entry is on its first nation lands;
+	- **(b)** the Tlicho Government, if the entry is on Tlicho lands; or
+	- **(c)** the Déline Got’ine Government, if the entry is on Déline lands.
 
-**Notice to Tlicho Government**
+- **(5)** [Repealed, 2019, c. 19, s. 7]
 
-- **(5)** An inspector shall, if it is reasonable to do so, give the Tlicho Government prior notice of entry by the inspector on Tlicho lands.
-
-**Notice to Déline Got’ine Government**
-
-- **(6)** An inspector shall, if it is reasonable to do so, give the Déline Got’ine Government prior notice of entry by the inspector on Déline lands.
-> 1998, c. 25, s. 85; 2005, c. 1, s. 48; 2014, c. 2, s. 177; 2015, c. 24, s. 31.
+- **(6)** [Repealed, 2019, c. 19, s. 7]
+> 1998, c. 25, s. 85; 2005, c. 1, s. 48; 2014, c. 2, s. 177; 2015, c. 24, s. 31; 2019, c. 19, s. 7.
 
 
 
@@ -2603,6 +2643,24 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(3)** Regulations made under subsection (1) may vary according to any criterion or combination of criteria, including the use of waters, the purpose, quantity and rate of that use, and the quantities, concentrations and types of waste deposited.
 > 2014, c. 2, s. 182.
+
+
+
+
+
+**Regulations respecting cost recovery**
+
+**90.31** The Governor in Council may, following consultation by the federal Minister with first nations, the Tlicho Government, the territorial Minister and the boards, make regulations respecting the recovery of amounts and costs for the purposes of section 79.4, including prescribing the amounts and services for the purposes of that section and exempting any class of applicants or licensees from the application of that section.
+> 2019, c. 19, s. 8.
+
+
+
+
+
+**Regulations respecting consultation**
+
+**90.32** The Governor in Council may, following consultation by the federal Minister with first nations, the Tlicho Government, the territorial Minister and the boards, make regulations establishing requirements respecting any consultation that may be undertaken under this Part, whether or not it is expressly provided for, by any person or entity with a first nation, the Tlicho First Nation, the Tlicho Government or an Aboriginal people who uses an area outside the Mackenzie Valley, including the manner in which it is to be conducted, and providing for the delegation of certain procedural aspects of that consultation.
+> 2019, c. 19, s. 8.
 
 
 
@@ -2921,10 +2979,10 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(3)** For the purposes of this Part, references to a permit in section 90, in the regulations made pursuant to that section and in sections 90.1, 90.2 and 92 include a permit as defined in subsection (1).
 
-**Meaning of licence**
+**Reference to “licence”**
 
-- **(4)** For the purposes of this Part, a reference to a licence in section 90.3, in the regulations made under that section and in sections 72.02 and 92.02 to 92.04 include a licence as defined in subsection (1).
-> 1998, c. 25, s. 96; 2005, c. 1, s. 55; 2014, c. 2, s. 194.
+- **(4)** For the purposes of this Part, a reference to “licence” in section 90.3, in the regulations made under that section and in sections 72.02, 79.4 and 92.02 to 92.04 includes a licence as defined in subsection (1).
+> 1998, c. 25, s. 96; 2005, c. 1, s. 55; 2014, c. 2, s. 194; 2019, c. 19, s. 9.
 
 
 
@@ -2986,7 +3044,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Applicable provisions**
 
-- **(3)** The provisions of Part 1 respecting the appointment, tenure and removal from office of members of a board and respecting the chairperson of a board, and the provisions of Part 3 respecting the appointment of members of a board, the quorum of a board and its main office, continue to apply to a regional panel.
+- **(3)** For greater certainty, the provisions of Part 1 respecting the appointment, term of office and removal from office of members of a board and respecting the chairperson of a board, and the provisions of Part 3 respecting the appointment of members of a board, the quorum of a board, its main office and members acting after the expiry of their term, continue to apply to a regional panel.
 
 **Composition**
 
@@ -2994,7 +3052,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(a)** two members appointed following consultation by the federal Minister with the first nations and the Tlicho Government;
 	- **(b)** one member appointed on the nomination of the territorial Minister; and
 	- **(c)** one other member.
-> 1998, c. 25, s. 99; 2005, c. 1, s. 56.
+> 1998, c. 25, s. 99; 2005, c. 1, s. 56; 2019, c. 19, s. 10.
 
 
 
@@ -3091,7 +3149,22 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-**105** [Repealed, 2014, c. 2, s. 196]
+
+**Acting after expiry of term**
+
+**105** 
+
+- **(1)** If the chairperson of the Board is of the opinion that it is necessary for a member of the Board to continue to act after the expiry of that member’s term in order for the Board to make a decision in relation to the issuance, amendment, renewal or cancellation of a permit or licence, as the case may be, the chairperson may request in writing that the federal Minister authorize the member to act in relation to that matter until a decision is made. For the purpose of the appointment of a replacement, the office of the member is deemed to be vacant as soon as their term expires.
+
+**Request**
+
+- **(2)** The request shall be made at least two months before the day on which the member’s term expires.
+
+**Deemed acceptance**
+
+- **(3)** If the federal Minister neither accepts nor rejects the request within two months after the day on which it is made, the request is deemed to be accepted.
+> 1998, c. 25, s. 105; 2014, c. 2, s. 196; 2019, c. 19, s. 11.
+
 
 
 
@@ -3237,6 +3310,32 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
+### Cost Recovery
+
+
+
+**Regulations apply**
+
+**109.3** Regulations made under section 90.31 apply to the recovery of amounts and costs relating to the consideration of an application for a licence issued by the Board or for the amendment, renewal or cancellation of a licence as if a reference to “licence” in those regulations were a reference to a licence as defined in subsection 96(1).
+> 2019, c. 19, s. 12.
+
+
+
+
+
+### Consultations
+
+
+
+**Regulations apply**
+
+**109.4** Regulations made under section 90.32 apply to any consultation that is undertaken by any person or entity in relation to the issuance, amendment, renewal, suspension or cancellation of a licence, permit or other authorization by the Board as if a reference to “licence” or “permit” in those regulations were a reference to a licence or permit as defined in subsection 96(1).
+> 2019, c. 19, s. 12.
+
+
+
+
+
 ### Enforcement
 
 
@@ -3337,6 +3436,25 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Main office**
 
 **113** The main office of the Review Board shall be at Yellowknife or at such other place in the Mackenzie Valley as is designated by the Governor in Council.
+
+
+
+
+**Acting after expiry of term**
+
+**113.1** 
+
+- **(1)** If the chairperson of the Review Board is of the opinion that it is necessary for a member of the Review Board to continue to act after the expiry of that member’s term in relation to an environmental assessment, an environment impact review or an examination of impact on the environment that stands in lieu of an environmental impact review, as the case may be, of a proposal for a development, the chairperson may request in writing that the federal Minister authorize the member to act in relation to that proposal until the requirements of this Part in relation to that environmental assessment, environmental impact review or examination have been fulfilled. For the purpose of the appointment of a replacement, the office of the member is deemed to be vacant as soon as their term expires.
+
+**Request**
+
+- **(2)** The request shall be made at least two months before the day on which the member’s term expires.
+
+**Deemed acceptance**
+
+- **(3)** If the federal Minister neither accepts nor rejects the request within two months after the day on which it is made, the request is deemed to be accepted.
+> 2019, c. 19, s. 14.
+
 
 
 
@@ -3558,11 +3676,45 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(a)** determine and report to the Review Board whether, in its opinion, the development might have a significant adverse impact on the environment or might be a cause of public concern; and
 	- **(b)** where it so determines in the affirmative, refer the proposal to the Review Board for an environmental assessment.
 
+**Delay**
+
+- **(1.1)** If the body determines under subsection (1) that the development will not have a significant adverse impact on the environment and will not be a cause of public concern,
+	- **(a)** a regulatory authority, a designated regulatory agency or the Tlicho Government shall not issue a licence, permit or other authorization for the development before the end of 10 days after the day on which the Review Board receives the report of the determination; or
+	- **(b)** if no licence, permit or other authorization is required under any federal, territorial or Tlicho law for the development, the person or body that proposes to carry it out shall not proceed before the end of 10 days after the day on which the Review Board receives the report of the determination.
+
+**Boards established under Part 3 or 4**
+
+- **(1.2)** If a board established under Part 3 or 4 is the body that determines under subsection (1) that the development will not have a significant adverse impact on the environment and will not be a cause of public concern, that board may issue a licence, permit or other authorization for the development before the end of 10 days after the day on which the Review Board receives the report of the determination but that licence, permit or other authorization shall come into force only after the end of that 10-day period and if no referral under subsection 126(2) or (3) has been made during that period.
+
+**Computation of time**
+
+- **(1.3)** If more than one body conducts a preliminary screening in respect of a development and they each determine that the development will not have a significant adverse impact on the environment and will not be a cause of public concern, the 10-day period referred to in subsections (1.1) and (1.2) begins after the day on which the Review Board receives the last of their reports of determination.
+
 **Within local government territory**
 
 - **(2)** Where a proposed development is wholly within the boundaries of a local government, a body that conducts a preliminary screening of the proposal shall
 	- **(a)** determine and report to the Review Board whether, in its opinion, the development is likely to have a significant adverse impact on air, water or renewable resources or might be a cause of public concern; and
 	- **(b)** where it so determines in the affirmative, refer the proposal to the Review Board for an environmental assessment.
+
+**Delay**
+
+- **(3)** If a body determines under subsection (2) that the development is unlikely to have a significant adverse impact on air, water or renewable resources and will not be a cause of public concern,
+	- **(a)** a regulatory authority, a designated regulatory agency or the Tlicho Government shall not issue a licence, permit or other authorization for the development before the end of 10 days after the day on which the Review Board receives the report of the determination; or
+	- **(b)** if no licence, permit or other authorization is required under any federal, territorial or Tlicho law for the development, the person or body that proposes to carry it out shall not proceed before the end of 10 days after the day on which the Review Board receives the report of the determination.
+
+**Boards established under Part 3 or 4**
+
+- **(4)** If a board established under Part 3 or 4 is the body that determines under subsection (2) that the development is unlikely to have a significant adverse impact on air, water or renewable resources and will not be a cause of public concern, that board may issue a licence, permit or other authorization for the development before the end of 10 days after the day on which the Review Board receives the report of the determination but that licence, permit or other authorization shall come into force only after the end of that 10-day period and if no referral under subsection 126(2) or (3) has been made during that period.
+
+**Computation of time**
+
+- **(5)** If more than one body conducts a preliminary screening in respect of a development and they each determine that the development is unlikely to have a significant adverse impact on air, water or renewable resources and will not be a cause of public concern, the 10-day period referred to in subsections (3) and (4) begins after the day on which the Review Board receives the last of their reports of determination.
+
+**Copy of report**
+
+- **(6)** A body that conducts a preliminary screening of a proposal shall provide a copy of its report to the person or body that proposes to carry out the development.
+> 1998, c. 25, s. 125; 2019, c. 19, s. 17.
+
 
 
 
@@ -4319,6 +4471,34 @@ before the expiration of ten days after receiving the report of the Review Board
 
 
 
+### Cost Recovery
+
+
+
+**Obligation to pay**
+
+**142.01** 
+
+- **(1)** The person or body that proposes to carry out the development shall pay to the federal Minister the following amounts and costs relating to an environmental assessment, an environmental impact review or an examination — carried out by a review panel, or a joint panel, established jointly by the Review Board and any other person or body — that stands in lieu of an environmental impact review:
+	- **(a)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of the Review Board or its members or of members of the Review Board’s review panels or of a review panel or a joint panel;
+	- **(b)** any costs incurred by the Review Board for services that are prescribed by the regulations and that are provided to it by a third party; and
+	- **(c)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of the federal Minister.
+
+**Scope**
+
+- **(2)** For the purposes of subsection (1), the services, powers, duties or functions described in that subsection are limited to those provided, exercised or performed
+	- **(a)** during the period that begins when a proposed development is referred to the Review Board under section 125, or when a person or body that proposes to carry out a development is given notice under subsection 126(5), and ends when a copy of the final decision under the process set out in this Part is issued to that person or body; or
+	- **(b)** during any period prescribed by the regulations that is within the period referred to in paragraph (a).
+
+**Debt due to Her Majesty**
+
+- **(3)** The amounts and costs that a person or body that proposes to carry out a development is to pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
+> 2019, c. 19, s. 30.
+
+
+
+
+
 ### Public Register
 
 
@@ -4402,17 +4582,32 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(c)** exempting any development or class of development from a preliminary screening for a reason referred to in paragraph 124(1)(a) or (b);
 	- **(d)** prescribing the form of the register to be maintained by the Review Board under section 142.1 and the information to be entered in it, and respecting the fees, if any, to be paid to examine the register or to obtain copies from it;
 	- **(e)** fixing a period for the purposes of subsection 138.1(2) and respecting mediation referred to in that subsection;
-	- **(f)** fixing the period within which a matter may be referred to arbitration under subsection 138.1(3) and respecting arbitration under that subsection; and
-	- **(g)** fixing a period for the purposes of subsections 138.1(4) and 141(4).
+	- **(f)** fixing the period within which a matter may be referred to arbitration under subsection 138.1(3) and respecting arbitration under that subsection;
+	- **(g)** fixing a period for the purposes of subsections 138.1(4) and 141(4);
+	- **(h)** respecting the recovery of amounts and costs for the purposes of section 142.01, including prescribing the amounts, services and period for the purposes of that section and exempting any class of person or body that proposes to carry out the development from the application of that section; and
+	- **(i)** establishing requirements respecting any consultation that may be undertaken under this Part, whether or not it is expressly provided for, with a first nation, the Tlicho First Nation, the Tlicho Government or an Aboriginal people who uses an area outside the Mackenzie Valley, including the manner in which it is to be conducted, and providing for the delegation of certain procedural aspects of that consultation.
 
 **Consultation with Review Board**
 
-- **(2)** Regulations may only be made under paragraph (1)(a), (d), (e), (f) or (g), or amended under paragraph (1)(b) or (c), following consultation by the federal Minister with the Review Board.
+- **(2)** Regulations may only be made under any of paragraphs (1)(a) and (d) to (i), and regulations made under paragraph (1)(b) or (c) may only be amended, following consultation by the federal Minister with the Review Board.
+
+**Consultation with boards established under Parts 3 and 4**
+
+- **(2.1)** In addition, the federal Minister shall consult the boards established under Parts 3 and 4 before making or amending any regulations under paragraph (1)(i) that relate to any consultation undertaken by one of those boards in relation to a preliminary screening.
 
 **Exemptions**
 
 - **(3)** No development is to be exempted for a reason set out in paragraph 124(1)(b) if it is a designated project or belongs to a class of designated projects, within the meaning of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), by virtue of regulations made under paragraph 84(a) of that Act.
-> 1998, c. 25, s. 143; 2005, c. 1, s. 90; 2014, c. 2, s. 226.
+> 1998, c. 25, s. 143; 2005, c. 1, s. 90; 2014, c. 2, s. 226; 2019, c. 19, s. 32.
+
+
+
+
+
+**Incorporation by reference — limitation removed**
+
+**143.1** The limitation set out in paragraph 18.1(2)(a) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) to the effect that a document must be incorporated as it exists on a particular date does not apply to the powers to make regulations under this Part.
+> 2019, c. 19, s. 33.
 
 
 
@@ -4428,6 +4623,485 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(2)** Policy directions of general application governing an agency, or the power to approve, vary or rescind an agency’s decisions, do not constitute specific control or direction for the purposes of subsection (1).
 > 1998, c. 25, s. 144; 2005, c. 1, s. 91.
+
+
+
+
+
+**PART 5.1** 
+## Administrative Monetary Penalties
+
+
+
+### Interpretation
+
+
+
+**Definitions**
+
+**144.1** The following definitions apply in this Part.
+
+***board*** has the same meaning as in section 51 or subsection 96(1), as the case may be. (*office*)
+
+***inspector*** means a person designated as an inspector under section 84 or 142.24. (*inspecteur*)
+
+***management area*** has the same meaning as in section 51. (*zone de gestion*)
+
+***penalty*** means an administrative monetary penalty imposed under this Part for a violation. (*pénalité*)
+
+***review body*** means
+- **(a)** with respect to a violation relating to Part 3 that is designated as such by a regulation made under paragraph 144.11(1)(a),
+	- **(i)** the Gwich’in Land and Water Board, if the violation was committed in its management area,
+	- **(ii)** the Sahtu Land and Water Board, if the violation was committed in its management area,
+	- **(iii)** the Wekeezhii Land and Water Board, if the violation was committed in its management area, or
+	- **(iv)** the Mackenzie Valley Land and Water Board, if the violation was committed in an area outside any management area;
+- **(b)** despite subparagraphs (a)(i) to (iii), the Mackenzie Valley Land and Water Board, if the violation relating to Part 3 that was committed in a management area is a failure to comply with a term or condition of any licence, permit or other authorization issued by that Board or a contravention of any order, direction or decision made or given in relation to such a licence, permit or other authorization; and
+- **(c)** with respect to a violation relating to Part 5 that is designated as such by a regulation made under paragraph 144.11(1)(a), the federal Minister. (*réviseur*)
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### Federal Minister’s Powers
+
+
+
+**Regulations**
+
+**144.11** 
+
+- **(1)** The federal Minister may, with the approval of the Governor in Council and following consultation with the Gwich’in and Sahtu First Nations and the Tlicho Government, make regulations for the purposes of sections 144.12 to 144.31, including regulations
+	- **(a)** designating as a violation that may be proceeded with in accordance with this Act
+		- **(i)** the contravention of any specified provision of this Act or of any of its regulations,
+		- **(ii)** the contravention of any order, direction or decision, whether of a specified class or not, made or given under this Act, or
+		- **(iii)** the failure to comply with a term or condition, whether of a specified class or not, of any licence, permit or other authorization or development certificate or amended development certificate issued under this Act;
+	- **(b)** respecting the determination of or the method of determining the amount payable as the penalty, which may be different for individuals and other persons, for each violation;
+	- **(c)** establishing the form and content of notices of violation;
+	- **(d)** respecting the service of documents required or authorized under this Act, including the manner and proof of service and the circumstances under which documents are presumed to be served;
+	- **(e)** respecting the review by a review body in respect of a notice of violation; and
+	- **(f)** respecting the publication of the nature of a violation, the name of the person who committed it and the amount of the penalty.
+
+**Maximum amount of penalty**
+
+- **(2)** The amount that may be determined under any regulations made under paragraph (1)(b) as the penalty for each violation shall not be more than $25,000 in the case of an individual, and $100,000 in the case of any other person.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### Violations
+
+
+
+**Who may issue notices**
+
+**144.12** Inspectors are authorized to issue notices of violation.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Violation and penalty**
+
+**144.13** 
+
+- **(1)** Every person who contravenes or fails to comply with a provision, order, direction, decision, term or condition designated under paragraph 144.11(1)(a) commits a violation and is liable to a penalty in the amount that is determined in accordance with the regulations.
+
+**Purpose of penalty**
+
+- **(2)** The purpose of the penalty is to promote compliance with this Act and not to punish.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Liability of directors, officers, etc.**
+
+**144.14** If a corporation commits a violation, any director, officer or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to the violation and is liable to a penalty in the amount that is determined in accordance with the regulations, whether or not the corporation has been proceeded against in accordance with this Act.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Proof of violation**
+
+**144.15** In any proceedings under this Act against a person in relation to a violation, it is sufficient proof of the violation to establish that it was committed by an employee or agent or mandatary of the person, whether or not the employee or the agent or mandatary is identified or proceeded against in accordance with this Act.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Issuance and service of notice of violation**
+
+**144.16** 
+
+- **(1)** If an inspector has reasonable grounds to believe that a person has committed a violation, the inspector may issue a notice of violation and cause it to be served on the person.
+
+**Contents**
+
+- **(2)** The notice of violation shall
+	- **(a)** name the person who is believed to have committed the violation;
+	- **(b)** set out the relevant facts of the violation;
+	- **(c)** set out the amount of the penalty;
+	- **(d)** inform the person of their right to request a review with respect to the facts of the violation or the amount of the penalty, and of the period within which that right shall be exercised;
+	- **(e)** inform the person of the time and manner of paying the penalty; and
+	- **(f)** inform the person that, if they do not pay the penalty or exercise their right referred to in paragraph (d), they are considered to have committed the violation and are liable to the penalty.
+
+**Copy of notice of violation**
+
+- **(3)** The inspector shall, without delay after issuing the notice of violation, provide a copy of it,
+	- **(a)** with respect to a violation relating to Part 3, to the board that may act as the review body and the federal Minister; or
+	- **(b)** with respect to a violation relating to Part 5, to the federal Minister and
+		- **(i)** the board that has jurisdiction over a management area, if the development is carried out wholly within that management area; or
+		- **(ii)** the board established under Part 4, if the development is carried out in more than one management area, in a management area and an area outside any management area, or wholly outside any management area.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### Rules About Violations
+
+
+
+**Certain defences not available**
+
+**144.17** 
+
+- **(1)** A person named in a notice of violation does not have a defence by reason that the person
+	- **(a)** exercised due diligence to prevent the commission of the violation; or
+	- **(b)** reasonably and honestly believed in the existence of facts that, if true, would exonerate the person.
+
+**Common law principles**
+
+- **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Continuing violation**
+
+**144.18** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Violation or offence**
+
+**144.19** 
+
+- **(1)** Proceeding with any act or omission as a violation under this Act precludes proceeding with it as an offence under this Act, and proceeding with it as an offence under this Act precludes proceeding with it as a violation under this Act.
+
+**Violations not offences**
+
+- **(2)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Limitation period**
+
+**144.2** No notice of violation is to be issued more than two years after the day on which the federal Minister becomes aware of the acts or omissions that constitute the alleged violation.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### Reviews
+
+
+
+**Request for review**
+
+**144.21** A person who is served with a notice of violation may, within 30 days after the notice is served or within any longer period prescribed by the regulations, make a request to the review body for a review of the facts of the violation or the amount of the penalty, or both.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Correction or cancellation of notice of violation**
+
+**144.22** At any time before a request for a review in respect of a notice of violation is received by the review body, an inspector may cancel the notice of violation or correct an error in it.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Review**
+
+**144.23** On receipt of a request for a review in respect of a notice of violation, the review body shall conduct the review.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Witnesses**
+
+**144.24** 
+
+- **(1)** If the review body is a board, it may, when conducting its review, summon any person to appear as a witness and order the witness to give evidence orally or in writing and produce any documents and things that it considers necessary for the purpose of the review.
+
+**Enforcement of summonses and orders**
+
+- **(2)** Any summons issued or order made under subsection (1) may be made a summons or an order of the Federal Court or of the superior court of a province and is enforceable in the same manner as a summons or an order of that court.
+
+**Procedure**
+
+- **(3)** To make a summons issued or an order made under subsection (1) a summons or an order of the Federal Court or of the superior court of a province, the usual practice and procedure of the court in such matters may be followed or a certified copy of the summons or order may be filed with the court’s registrar and the summons or order then becomes a summons or an order of that court.
+
+**Fees for witnesses**
+
+- **(4)** A witness who is served with a summons is entitled to receive the fees and allowances to which persons who are summoned to appear as witnesses before the Federal Court are entitled.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Determination**
+
+**144.25** 
+
+- **(1)** The review body shall determine, as the case may be, whether the person committed the violation or whether the amount of the penalty for the violation was determined in accordance with the regulations, or both.
+
+**Correction of penalty**
+
+- **(2)** If the review body determines that the amount of the penalty for the violation was not determined in accordance with the regulations, the review body shall correct it.
+
+**Review of facts — burden of proof**
+
+- **(3)** If the facts of a violation are reviewed, the inspector who issued the notice of violation shall establish, on a balance of probabilities, that the person named in it committed the violation identified in it.
+
+**Written reasons**
+
+- **(4)** The review body shall make a determination in writing, with reasons, and cause it to be served on the person who requested the review.
+
+**Determination final — board**
+
+- **(5)** A determination made under this section by a board acting as a review body is final and binding and, except for judicial review under section 32, is not subject to appeal or to review by any court.
+
+**Determination final — federal Minister**
+
+- **(6)** A determination made under this section by the federal Minister acting as a review body is final and binding and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal or to review by any court.
+
+**Liability**
+
+- **(7)** If the review body determines that the person who requested the review committed the violation, the person who requested the review is liable to the penalty as set out in the determination.
+
+**Copy of determination**
+
+- **(8)** The review body shall, without delay after making the determination, provide a copy of it to
+	- **(a)** the federal Minister, if the review body is a board; or
+	- **(b)** the board to which a copy of the notice of violation was provided under subsection 144.16(3), if the review body is the federal Minister.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### Responsibility
+
+
+
+**Payment**
+
+**144.26** If a person pays the penalty set out in a notice of violation, the person is considered to have committed the violation and proceedings in respect of it are ended.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Failure to act**
+
+**144.27** A person who neither pays the penalty within the period set out in the notice of violation — nor requests a review within the period referred to in section 144.21 — is considered to have committed the violation and is liable to the penalty.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### Recovery of Penalties
+
+
+
+**Debt due to Her Majesty**
+
+**144.28** 
+
+- **(1)** A penalty constitutes a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
+
+**Limitation period or prescription**
+
+- **(2)** No proceedings to recover the debt are to be instituted more than five years after the day on which the debt becomes payable.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Certificate**
+
+**144.29** 
+
+- **(1)** The federal Minister may issue a certificate of non-payment certifying the unpaid amount of any debt referred to in subsection 144.28(1).
+
+**Registration**
+
+- **(2)** Registration in any court of competent jurisdiction of a certificate of non-payment has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### General
+
+
+
+**Authenticity of documents**
+
+**144.3** In the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 144.16(1) is presumed to be authentic and is proof of its contents in any proceeding in respect of a violation.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Publication related to violation**
+
+**144.31** 
+
+- **(1)** Subject to subsection (2) and any regulations, the board that received a copy of the notice of violation under subsection 144.16(3) — whether acting as a review body or not — may make public the nature of a violation, the name of the person who committed it and the amount of the penalty.
+
+**Restriction of publication**
+
+- **(2)** The board may only make that information public if
+	- **(a)** the person named in the notice of violation has paid the penalty set out in the notice;
+	- **(b)** the person has not requested a review within the period referred to in section 144.21; or
+	- **(c)** the review body has determined that the person who requested the review committed the violation.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**PART 5.2** 
+## Regional Studies
+
+
+
+### Committee Studying Impact of Works and Activities
+
+
+
+**Establishment**
+
+**144.32** 
+
+- **(1)** The federal Minister may establish a committee to conduct a study of the impact of existing or future works or activities carried out in a region of the Mackenzie Valley.
+
+**Appointment of members**
+
+- **(2)** The federal Minister shall appoint one or more persons as members of the committee.
+
+**Mandate**
+
+- **(3)** The federal Minister shall establish the committee’s terms of reference after seeking and considering the advice of the territorial government and, if the study examines works or activities affecting any first nation or the Tlicho First Nation, the advice of that first nation or the Tlicho Government, as the case may be.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Conflict of interest**
+
+**144.33** 
+
+- **(1)** A person shall not be appointed, or continue, as a member of the committee if doing so would place them in a material conflict of interest.
+
+**Status or entitlements under agreement**
+
+- **(2)** A person is not placed in a material conflict of interest merely because of any status or entitlement conferred on them under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a land claim.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Other participants in study**
+
+**144.34** The federal Minister, if he or she considers it appropriate, may enter into an agreement or arrangement with any person or body that possesses knowledge or expertise that is relevant to the study to participate in the study.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Elements to consider**
+
+**144.35** In conducting its study, the committee shall consider any traditional knowledge and scientific information that is made available to it.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Information**
+
+**144.36** Subject to any other federal or territorial law, the committee may obtain, from any board established by this Act or from any department or agency of the federal or territorial government, any information in the possession of the board, department or agency that is required for it to conduct its study.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### Joint Committee
+
+
+
+**Establishment**
+
+**144.37** If the federal Minister is of the opinion that it is appropriate to conduct a study of the impact of existing or future works or activities carried out in a region of the Mackenzie Valley and in a region contiguous to it, the federal Minister may enter into an agreement or arrangement with an authority responsible for the examination of environmental effects in that region respecting the establishment of a joint committee to conduct the study and the manner in which the study is to be conducted.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+### Report
+
+
+
+**Report to federal Minister**
+
+**144.38** On completion of its study, the committee or joint committee shall provide a report to the federal Minister, who shall make it available to the public.
+> 2019, c. 19, s. 35.
+
+
+
+
+
+**Consideration of report**
+
+**144.39** The report must be considered in the exercise or performance under this Act of any powers, duties or functions of the boards established under subsections 36(1), 38(1), 54(1), 56(1), 57.1(1) and 99(1), the Mackenzie Valley Environmental Impact Review Board, its review panels, or a review panel or a joint panel established jointly by the Review Board and any other person or body, and of any body conducting a preliminary screening of a proposal for a development under section 124.
+> 2019, c. 19, s. 35.
 
 
 
