@@ -1147,8 +1147,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-**44** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a land code or First Nation laws.
-> 1999, c. 24, s. 44; 2012, c. 19, s. 652(E).
+**44** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a land code, First Nation laws or an order made under subsection 25.1(1).
+> 1999, c. 24, s. 44; 2012, c. 19, s. 652(E); 2019, c. 29, s. 384.
 
 
 
