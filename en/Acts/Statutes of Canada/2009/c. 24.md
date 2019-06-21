@@ -1167,50 +1167,11 @@ In the absence of evidence to the contrary, the certificate or report is proof o
 
 
 
-
-**Proposed regulations to be laid before Parliament**
-
-**66.1** 
-
-- **(1)** Before a regulation is made under section 66, the Minister shall lay the proposed regulation before each House of Parliament.
-
-**Report by committee**
-
-- **(2)** A proposed regulation that is laid before Parliament shall be referred to the appropriate committee of each House, as determined by the rules of that House, and the committee may review the proposed regulation and report its findings to that House.
-
-**Standing Committee on Health**
-
-- **(2.1)** The committee of the House of Commons referred to in subsection (2) shall be the Standing Committee on Health or, in the event that there is not a Standing Committee on Health, the appropriate committee of the House.
-
-**Making of regulations**
-
-- **(3)** A regulation may not be made before the earliest of
-	- **(a)** 30 sitting days after the proposed regulation is laid before Parliament,
-	- **(b)** 160 calendar days after the proposed regulation is laid before Parliament, and
-	- **(c)** the day after each appropriate committee has reported its findings with respect to the proposed regulation.
-
-**Explanation**
-
-- **(4)** The Minister shall take into account any report of the committee of either House. If a regulation does not incorporate a recommendation of the committee of either House, the Minister shall lay before that House a statement of the reasons for not incorporating it.
-
-**Alteration**
-
-- **(5)** A proposed regulation that has been laid before Parliament need not again be so laid prior to the making of the regulation, whether it has been altered or not.
+**66.1** [Repealed, 2019, c. 29, s. 221]
 
 
 
-
-**Exceptions**
-
-**66.2** 
-
-- **(1)** A regulation may be made without being laid before either House of Parliament if the Minister is of the opinion that
-	- **(a)** the changes made by the regulation to an existing regulation are so immaterial or insubstantial that section 66.1 should not apply in the circumstances; or
-	- **(b)** the regulation must be made immediately in order to protect the health or safety of any person.
-
-**Notice of opinion**
-
-- **(2)** If a regulation is made without being laid before Parliament, the Minister shall lay before each House of Parliament a statement of the Minister’s reasons.
+**66.2** [Repealed, 2019, c. 29, s. 221]
 
 
 
