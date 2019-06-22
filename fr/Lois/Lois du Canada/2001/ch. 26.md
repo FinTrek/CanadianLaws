@@ -3584,29 +3584,109 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Installations de manutention d’hydrocarbures
+
+
+
+**Notification des activités proposées**
+
+**167.1** Sous réserve des règlements, la personne qui se propose d’exploiter une installation de manutention d’hydrocarbures d’une catégorie établie par règlement avise le ministre, dans le délai réglementaire, des activités liées au chargement ou au déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci qu’elle se propose d’exercer, et fournit à ce dernier tout renseignement ou document prévu par règlement. Elle lui fournit aussi tout renseignement ou document, à sa demande et dans le délai qu’il précise.
+> 2014, ch. 29, art. 60.
+
+
+
+
+
+**Présentation des plans de prévention et d’urgence**
+
+**167.2** 
+
+- **(1)** Sous réserve des règlements, la personne qui se propose d’exploiter une installation de manutention d’hydrocarbures d’une catégorie établie par règlement présente au ministre, au moins quatre-vingt-dix jours avant le commencement des activités liées au chargement ou au déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci, ou dans tout autre délai que ce dernier précise :
+	- **a)** un plan de prévention de la pollution par les hydrocarbures visant à éviter le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments, qui satisfait aux exigences prévues par règlement;
+	- **b)** un plan d’urgence contre la pollution par les hydrocarbures visant à contrer le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments, qui satisfait aux exigences prévues par règlement.
+
+**Fourniture de renseignements ou documents**
+
+- **(2)** Elle fournit aussi au ministre tout renseignement ou document, à sa demande et dans le délai qu’il précise.
+
+**Interdiction de commencer des activités**
+
+- **(3)** Elle ne peut commencer à exercer des activités liées au chargement ou au déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci que si les plans satisfont aux exigences prévues par règlement.
+> 2014, ch. 29, art. 60.
+
+
+
+
+
+**Notification des activités d’exploitation**
+
+**167.3** Sous réserve des règlements, l’exploitant d’une installation de manutention d’hydrocarbures d’une catégorie établie par règlement avise le ministre, dans les quatre-vingt-dix jours suivant l’entrée en vigueur du présent article, des activités liées au chargement ou au déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci qu’il exerce, et fournit à ce dernier tout renseignement ou document prévu par règlement. Il lui fournit aussi tout renseignement ou document, à sa demande et dans le délai qu’il précise.
+> 2014, ch. 29, art. 60.
+
+
+
+
+
+**Présentation des plans**
+
+**167.4** Sous réserve des règlements et s’ils n’ont pas déjà été présentés au titre du paragraphe 167.2(1), l’exploitant d’une installation de manutention d’hydrocarbures d’une catégorie établie par règlement est tenu de présenter au ministre, dans le délai prévu par règlement, un plan de prévention de la pollution par les hydrocarbures visant à éviter le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments et un plan d’urgence contre la pollution par les hydrocarbures visant à contrer le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments, qui satisfont aux exigences prévues par règlement. Il lui fournit aussi tout renseignement ou document, à sa demande et dans le délai qu’il précise.
+> 2014, ch. 29, art. 60.
+
+
+
+
+
 **Exigences pour les installations de manutention d’hydrocarbures**
 
 **168** 
 
-- **(1)** L’exploitant d’une installation de manutention d’hydrocarbures d’une catégorie réglementaire est tenu, à la fois :
+- **(1)** Sous réserve des règlements, l’exploitant d’une installation de manutention d’hydrocarbures d’une catégorie établie par règlement est tenu :
 	- **a)** de conclure une entente avec un organisme d’intervention à l’égard de toute quantité d’hydrocarbures chargée ou déchargée d’un bâtiment à l’installation à un moment donné, dans la limite maximale réglementaire;
 	- **b)** d’avoir sur les lieux une déclaration, en la forme établie par le ministre :
-		- **(i)** précisant les modalités d’observation par l’exploitant des règlements pris en vertu de l’alinéa 182a),
+		- **(i)** précisant les modalités d’observation par l’exploitant des règlements pris en vertu de l’alinéa 182(1)a),
 		- **(ii)** confirmant la conclusion de l’entente,
 		- **(iii)** identifiant toute personne qui est autorisée à mettre à exécution l’entente et le plan d’urgence contre la pollution par les hydrocarbures prévu à l’alinéa d);
-	- **c)** d’avoir sur les lieux un plan de prévention de la pollution par les hydrocarbures qui satisfait aux exigences réglementaires visant à éviter le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments;
-	- **d)** d’avoir sur les lieux un plan d’urgence contre la pollution par les hydrocarbures qui satisfait aux exigences réglementaires visant à contrer le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments;
+	- **c)** d’avoir sur les lieux un plan de prévention de la pollution par les hydrocarbures à jour visant à éviter le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments, qui satisfait aux exigences prévues par règlement;
+	- **c.1)** de présenter au ministre le plan de prévention de la pollution par les hydrocarbures à jour, dans le délai et dans les circonstances prévues par règlement;
+	- **d)** d’avoir sur les lieux un plan d’urgence contre la pollution par les hydrocarbures à jour visant à contrer le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments, qui satisfait aux exigences prévues par règlement;
+	- **d.1)** de présenter au ministre le plan d’urgence contre la pollution par les hydrocarbures à jour, dans le délai et dans les circonstances prévues par règlement;
 	- **e)** d’avoir à sa disposition, pour usage immédiat en cas de rejet d’hydrocarbures pendant le chargement ou le déchargement d’un bâtiment, la procédure, l’équipement et les ressources prévus par règlement.
 
-**Dispositions inapplicables à certaines catégories d’installations**
-
-- **(2)** L’alinéa (1)a) et les sous-alinéas (1)b)(ii) et (iii) ne s’appliquent pas aux catégories d’installations de manutention d’hydrocarbures prévues par règlement.
+- **(2)** [Abrogé, 2014, ch. 29, art. 61]
 
 **Obligation de prendre des mesures raisonnables : installations de manutention d’hydrocarbures**
 
 - **(3)** Il incombe à tout exploitant d’une installation de manutention d’hydrocarbures visée au paragraphe (1) de prendre des mesures raisonnables pour mettre à exécution :
 	- **a)** le plan de prévention de la pollution par les hydrocarbures visé à l’alinéa (1)c);
 	- **b)** en cas d’événement de pollution par les hydrocarbures, le plan d’urgence contre la pollution par les hydrocarbures visé à l’alinéa (1)d).
+> 2001, ch. 26, art. 168; 2014, ch. 29, art. 61.
+
+
+
+
+
+**Notification de changements proposés aux activités**
+
+**168.01** 
+
+- **(1)** Sous réserve des règlements, l’exploitant d’une installation de manutention d’hydrocarbures d’une catégorie établie par règlement qui se propose d’apporter ou de permettre que soient apportés des changements aux activités liées au chargement ou au déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci avise le ministre des changements en question, au moins cent quatre-vingts jours avant de les apporter ou de permettre qu’ils le soient, notamment dans les cas suivants :
+	- **a)** changement du taux de transbordement d’hydrocarbures de l’installation de manutention d’hydrocarbures, dans le cas où il aurait pour effet de changer la catégorie établie par règlement à laquelle celle-ci appartient;
+	- **b)** changement de la conception de l’installation de manutention d’hydrocarbures ou changement apporté à l’équipement de celle-ci;
+	- **c)** changement du type d’hydrocarbures ou de la composition des hydrocarbures visés par les activités de chargement ou de déchargement.
+
+**Fourniture de renseignements ou documents**
+
+- **(2)** Il fournit au ministre tout renseignement ou document prévu par règlement et lui fournit aussi tout renseignement ou document, à sa demande et dans le délai qu’il précise.
+
+**Révision des plans**
+
+- **(3)** Il est tenu de réviser le plan de prévention de la pollution par les hydrocarbures et le plan d’urgence contre la pollution par les hydrocarbures et de présenter ceux-ci au ministre au moins quatre-vingt-dix jours avant d’apporter les changements ou de permettre que soient apportés les changements ou dans tout autre délai que le ministre précise.
+
+**Interdiction d’apporter les changements proposés aux activités**
+
+- **(4)** Il ne peut apporter les changements ou permettre qu’ils le soient que si les plans révisés satisfont aux exigences prévues par règlement.
+> 2014, ch. 29, art. 62.
+
 
 
 
@@ -4096,12 +4176,28 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Règlements**
 
-**182** Le gouverneur en conseil peut par règlement, sur recommandation du ministre, prendre toute mesure d’application de la présente partie, notamment :
-- **a)** indiquer dans quelles circonstances les exploitants d’une installation de manutention d’hydrocarbures doivent rendre compte des rejets ou des risques de rejets de polluants, la façon d’en rendre compte et les personnes à qui en rendre compte;
-- **b)** prévoir la délivrance, la modification, la suspension, le rétablissement, l’annulation ou le renouvellement de l’agrément visé à l’article 169;
-- **c)** régir le mode de calcul des droits proposés par les organismes d’intervention et les personnes qui présentent la demande d’agrément visée au paragraphe 169(1) ainsi que les fins auxquelles de tels droits peuvent être imposés dans le cadre des ententes visées aux alinéas 167(1)a) ou 168(1)a), préalablement à la notification prévue au paragraphe 170(1);
-- **d)** régir l’établissement par les organismes d’intervention de comités formés de personnes ayant conclu des ententes avec eux et la fourniture à ces comités de renseignements sur les droits, projetés ou en vigueur;
-- **e)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
+**182** 
+
+- **(1)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre, prendre toute mesure d’application de la présente partie, notamment :
+	- **a)** indiquer dans quelles circonstances les exploitants d’une installation de manutention d’hydrocarbures doivent rendre compte des rejets ou des risques de rejets de polluants, la façon d’en rendre compte et les personnes à qui en rendre compte;
+	- **b)** prévoir la délivrance, la modification, la suspension, le rétablissement, l’annulation ou le renouvellement de l’agrément visé à l’article 169;
+	- **c)** régir le mode de calcul des droits proposés par les organismes d’intervention et les personnes qui présentent la demande d’agrément visée au paragraphe 169(1) ainsi que les fins auxquelles de tels droits peuvent être imposés dans le cadre des ententes visées aux alinéas 167(1)a) ou 168(1)a), préalablement à la notification prévue au paragraphe 170(1);
+	- **d)** régir l’établissement par les organismes d’intervention de comités formés de personnes ayant conclu des ententes avec eux et la fourniture à ces comités de renseignements sur les droits, projetés ou en vigueur;
+	- **d.1)** établir des catégories d’installations de manutention d’hydrocarbures et prévoir lesquelles des exigences prévues aux articles 167.1 à 168.01 s’appliquent aux exploitants d’installations de manutention d’hydrocarbures de chacune de ces catégories ou aux personnes qui se proposent de les exploiter;
+	- **d.2)** régir les plans de prévention de la pollution par les hydrocarbures et les plans d’urgence contre la pollution par les hydrocarbures, notamment les délais dans lesquels les plans doivent être présentés au ministre et les circonstances où les plans à jour doivent lui être présentés;
+	- **d.3)** régir la procédure, l’équipement et les ressources visés à l’alinéa 168(1)e) et à l’article 168.3;
+	- **d.4)** régir les renseignements et documents visés aux articles 167.1 et 167.3 et au paragraphe 168.01(2), notamment les délais dans lesquels ils doivent être fournis au ministre;
+	- **e)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
+
+**Désignation**
+
+- **(2)** Malgré les règlements, le ministre peut désigner une installation de manutention d’hydrocarbures d’une catégorie établie par règlement comme appartenant à une autre catégorie établie par règlement ou une installation de manutention d’hydrocarbures n’appartenant à aucune catégorie établie par règlement comme appartenant à une catégorie établie par règlement.
+
+**Notification**
+
+- **(3)** Le ministre notifie la désignation à l’exploitant de l’installation visée au paragraphe (2).
+> 2001, ch. 26, art. 182; 2014, ch. 29, art. 69.
+
 
 
 
@@ -4116,10 +4212,17 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 - **(1)** Commet une infraction la personne ou le bâtiment qui contrevient :
 	- **a)** à l’alinéa 167(1)a) (conclusion d’une entente);
+	- **a.1)** au paragraphe 167.2(1) (présentation des plans de prévention et d’urgence);
+	- **a.2)** au paragraphe 167.2(3) (interdiction de commencer des activités);
+	- **a.3)** à l’article 167.4 (présentation des plans);
 	- **b)** à l’alinéa 168(1)a) (conclusion d’une entente);
+	- **b.1)** à l’alinéa 168(1)c.1) (présentation du plan de prévention à jour);
+	- **b.2)** à l’alinéa 168(1)d.1) (présentation du plan d’urgence à jour);
 	- **c)** à l’alinéa 168(1)e) (obligation d’avoir à sa disposition la procédure, l’équipement et les ressources);
 	- **d)** à l’alinéa 168(3)a) (prise de mesures raisonnables pour mettre à exécution le plan de prévention);
 	- **e)** à l’alinéa 168(3)b) (prise de mesures raisonnables pour mettre à exécution le plan d’urgence);
+	- **e.01)** au paragraphe 168.01(3) (révision des plans);
+	- **e.02)** au paragraphe 168.01(4) (interdiction d’apporter les changements proposés aux activités);
 	- **e.1)** à un ordre donné en vertu de l’article 168.1 (mise à jour ou révision des plans);
 	- **e.2)** à un ordre donné en vertu de l’alinéa 168.3b) (prise de mesures);
 	- **f)** à l’alinéa 171b) (obligation d’avoir l’équipement et les ressources prévus par les règlements à l’endroit précisé);
@@ -4145,9 +4248,14 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 - **(1)** Commet une infraction la personne ou le bâtiment qui contrevient :
 	- **a)** à l’alinéa 167(1)b) (obligation d’avoir à bord une déclaration);
+	- **a.1)** à l’article 167.1 (notification des activités proposées);
+	- **a.2)** au paragraphe 167.2(2) (fourniture de renseignements ou documents);
+	- **a.3)** à l’article 167.3 (notification des activités d’exploitation);
 	- **b)** à l’alinéa 168(1)b) (obligation d’avoir sur les lieux une déclaration);
 	- **c)** à l’alinéa 168(1)c) (obligation d’avoir sur les lieux un plan de prévention);
 	- **d)** à l’alinéa 168(1)d) (obligation d’avoir sur les lieux un plan d’urgence);
+	- **d.01)** au paragraphe 168.01(1) (notification de changements proposés aux activités);
+	- **d.02)** au paragraphe 168.01(2) (fourniture de renseignements ou documents);
 	- **d.1)** à un ordre donné en vertu de l’article 168.2 (fourniture de renseignements);
 	- **e)** à l’alinéa 171a) (établissement d’un plan d’intervention);
 	- **f)** à l’alinéa 171c) (obligation de fournir ou d’assurer la formation réglementaire);
