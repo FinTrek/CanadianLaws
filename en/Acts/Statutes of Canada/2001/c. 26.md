@@ -3604,29 +3604,109 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
+### Oil Handling Facilities
+
+
+
+**Notification of proposed operations**
+
+**167.1** Subject to the regulations, a person who proposes to operate an oil handling facility of a class established by the regulations shall, within the prescribed time, notify the Minister of the proposed operations relating to the loading or unloading of oil to or from vessels and shall submit to the Minister any information or documents required by the regulations and, within the time specified by the Minister, any information or documents requested by the Minister.
+> 2014, c. 29, s. 60.
+
+
+
+
+
+**Submission of plans**
+
+**167.2** 
+
+- **(1)** Subject to the regulations, a person who proposes to operate an oil handling facility of a class established by the regulations shall, at least 90 days before the day on which the oil handling facility’s operations relating to the loading or unloading of oil to or from vessels will begin — or within any other time specified by the Minister — submit to the Minister
+	- **(a)** an oil pollution prevention plan to prevent a discharge of oil during the loading or unloading of a vessel, which meets the requirements set out in the regulations; and
+	- **(b)** an oil pollution emergency plan to respond to a discharge of oil during the loading or unloading of a vessel, which meets the requirements set out in the regulations.
+
+**Submission of information or documents**
+
+- **(2)** A person referred to in subsection (1) shall submit to the Minister any information or documents requested by the Minister, within the time specified by the Minister.
+
+**Prohibition against beginning operations**
+
+- **(3)** A person referred to in subsection (1) shall not begin operations relating to the loading or unloading of oil to or from vessels unless the plans submitted under subsection (1) meet the requirements set out in the regulations.
+> 2014, c. 29, s. 60.
+
+
+
+
+
+**Notification of operations**
+
+**167.3** Subject to the regulations, the operator of an oil handling facility of a class established by the regulations shall notify the Minister of the oil handling facility’s operations relating to the loading or unloading of oil to or from vessels within 90 days after the day on which this section comes into force and shall submit to the Minister any information or documents required by the regulations and, within the time specified by the Minister, any information or documents requested by the Minister.
+> 2014, c. 29, s. 60.
+
+
+
+
+
+**Submission of plans**
+
+**167.4** Subject to the regulations, unless the plans have already been submitted under subsection 167.2(1), the operator of an oil handling facility of a class established by the regulations shall submit to the Minister, within the time set out in the regulations, an oil pollution prevention plan to prevent a discharge of oil during the loading or unloading of a vessel and an oil pollution emergency plan to respond to a discharge of oil during the loading or unloading of a vessel — which meet the requirements set out in the regulations — and shall submit to the Minister any information or documents requested by the Minister, within the time specified by the Minister.
+> 2014, c. 29, s. 60.
+
+
+
+
+
 **Oil handling facilities — requirements**
 
 **168** 
 
-- **(1)** The operator of an oil handling facility of a prescribed class shall
+- **(1)** Subject to the regulations, the operator of an oil handling facility of a class established by the regulations shall
 	- **(a)** have an arrangement with a response organization in respect of any quantity of oil that is, at any time, involved in being loaded or unloaded to or from a vessel at the oil handling facility, to a prescribed maximum quantity;
 	- **(b)** have on site a declaration in the form specified by the Minister that
-		- **(i)** describes the manner in which the operator will comply with the regulations made under paragraph 182(a),
+		- **(i)** describes the manner in which the operator will comply with the regulations made under paragraph 182(1)(a),
 		- **(ii)** confirms that the arrangement has been made, and
 		- **(iii)** identifies every person who is authorized to implement the arrangement and the oil pollution emergency plan referred to in paragraph (d);
-	- **(c)** have on site an oil pollution prevention plan that meets the prescribed requirements to prevent a discharge of oil during the loading or unloading of a vessel;
-	- **(d)** have on site an oil pollution emergency plan that meets the prescribed requirements to respond to a discharge of oil during the loading or unloading of a vessel; and
-	- **(e)** have the prescribed procedures, equipment and resources available for immediate use in the event of a discharge of oil during the loading or unloading of a vessel.
+	- **(c)** have on site an up-to-date oil pollution prevention plan to prevent a discharge of oil during the loading or unloading of a vessel, which meets the requirements set out in the regulations;
+	- **(c.1)** submit the up-to-date oil pollution prevention plan to the Minister within the time and in the circumstances set out in the regulations;
+	- **(d)** have on site an up-to-date oil pollution emergency plan to respond to a discharge of oil during the loading or unloading of a vessel, which meets the requirements set out in the regulations;
+	- **(d.1)** submit the up-to-date oil pollution emergency plan to the Minister within the time and in the circumstances set out in the regulations; and
+	- **(e)** have the procedures, equipment and resources required by the regulations available for immediate use in the event of a discharge of oil during the loading or unloading of a vessel.
 
-**Certain provisions do not apply to prescribed classes**
-
-- **(2)** Paragraph (1)(a) and subparagraphs (1)(b)(ii) and (iii) do not apply in respect of prescribed classes of oil handling facilities.
+- **(2)** [Repealed, 2014, c. 29, s. 61]
 
 **Duty to take reasonable measures — oil handling facilities**
 
 - **(3)** The operator of an oil handling facility referred to in subsection (1) shall take reasonable measures to implement
 	- **(a)** the oil pollution prevention plan referred to in paragraph (1)(c); and
 	- **(b)** in respect of an oil pollution incident, the oil pollution emergency plan referred to in paragraph (1)(d).
+> 2001, c. 26, s. 168; 2014, c. 29, s. 61.
+
+
+
+
+
+**Notification of proposed change to operations**
+
+**168.01** 
+
+- **(1)** Subject to the regulations, an operator of an oil handling facility of a class established by the regulations that proposes to make a change, or permit a change to be made, to the oil handling facility’s operations relating to the loading or unloading of oil to or from vessels shall — at least 180 days before the day on which it makes the change or permits the change to be made — notify the Minister of the change, including any of the following changes:
+	- **(a)** a change in the oil handling facility’s transfer rate, if the change would result in the oil handling facility becoming part of a different class established by the regulations;
+	- **(b)** a change in the design of the oil handling facility, or a change in the oil handling facility’s equipment; or
+	- **(c)** a change in the type or composition of oil that is loaded or unloaded to or from vessels.
+
+**Submission of information or documents**
+
+- **(2)** The operator referred to in subsection (1) shall submit to the Minister any information or documents required by the regulations and, within the time specified by the Minister, any information or documents requested by the Minister.
+
+**Revise plans**
+
+- **(3)** The operator referred to in subsection (1) shall revise the oil pollution prevention plan and the oil pollution emergency plan and submit the revised plans to the Minister at least 90 days before making the change or permitting the change to be made, or within any other time specified by the Minister.
+
+**Prohibition against making changes**
+
+- **(4)** An operator shall not make a change referred to in subsection (1) or permit one to be made unless the plans submitted under subsection (3) meet the requirements set out in the regulations.
+> 2014, c. 29, s. 62.
+
 
 
 
@@ -4117,12 +4197,28 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Regulations**
 
-**182** The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Part, including regulations
-- **(a)** respecting the circumstances in which operators of oil handling facilities shall report discharges or anticipated discharges of pollutants, the manner of making the reports and the persons to whom the reports shall be made;
-- **(b)** respecting the issuance, amendment, suspension, reinstatement, cancellation or renewal of certificates referred to in section 169;
-- **(c)** respecting the purposes for which fees may be charged in relation to an arrangement referred to in paragraph 167(1)(a) or 168(1)(a) and the manner in which response organizations and persons who make an application under subsection 169(1) must calculate proposed fees before notifying the Minister of the fees under subsection 170(1);
-- **(d)** respecting the establishment by response organizations of committees of persons who have arrangements with them and the provision to the committees of information regarding fees and proposed fees; and
-- **(e)** prescribing anything that by this Part is to be prescribed.
+**182** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Part, including regulations
+	- **(a)** respecting the circumstances in which operators of oil handling facilities shall report discharges or anticipated discharges of pollutants, the manner of making the reports and the persons to whom the reports shall be made;
+	- **(b)** respecting the issuance, amendment, suspension, reinstatement, cancellation or renewal of certificates referred to in section 169;
+	- **(c)** respecting the purposes for which fees may be charged in relation to an arrangement referred to in paragraph 167(1)(a) or 168(1)(a) and the manner in which response organizations and persons who make an application under subsection 169(1) must calculate proposed fees before notifying the Minister of the fees under subsection 170(1);
+	- **(d)** respecting the establishment by response organizations of committees of persons who have arrangements with them and the provision to the committees of information regarding fees and proposed fees;
+	- **(d.1)** establishing classes of oil handling facilities and determining which of the requirements set out in sections 167.1 to 168.01 apply to the operators of, or to persons who propose to operate, oil handling facilities of each class;
+	- **(d.2)** respecting oil pollution prevention plans and oil pollution emergency plans, including the time within which the plans shall be submitted to the Minister and the circumstances in which up-to-date plans shall be submitted to the Minister;
+	- **(d.3)** respecting the procedures, equipment and resources referred to in paragraph 168(1)(e) and section 168.3;
+	- **(d.4)** respecting the information and documents referred to in sections 167.1 and 167.3 and subsection 168.01(2), including the time within which the information and documents shall be submitted to the Minister; and
+	- **(e)** prescribing anything that by this Part is to be prescribed.
+
+**Designation**
+
+- **(2)** Despite the regulations, the Minister may designate an oil handling facility that is part of a class established by the regulations to be part of a different class established by the regulations or an oil handling facility that is not part of a class established by the regulations to be part of one of those classes.
+
+**Notification**
+
+- **(3)** The Minister shall notify the operator of an oil handling facility of any designation made in respect of it under subsection (2).
+> 2001, c. 26, s. 182; 2014, c. 29, s. 69.
+
 
 
 
@@ -4137,10 +4233,17 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(1)** Every person who, or vessel that, contravenes any of the following commits an offence:
 	- **(a)** paragraph 167(1)(a) (have an arrangement);
+	- **(a.1)** subsection 167.2(1) (submission of oil pollution prevention plan and oil pollution emergency plan);
+	- **(a.2)** subsection 167.2(3) (prohibition against beginning operations);
+	- **(a.3)** section 167.4 (submission of plans);
 	- **(b)** paragraph 168(1)(a) (have an arrangement);
+	- **(b.1)** paragraph 168(1)(c.1) (submission of up-to-date oil pollution prevention plan);
+	- **(b.2)** paragraph 168(1)(d.1) (submission of up-to-date oil pollution emergency plan);
 	- **(c)** paragraph 168(1)(e) (have procedures, equipment and resources available for immediate use);
 	- **(d)** paragraph 168(3)(a) (implement oil pollution prevention plan);
 	- **(e)** paragraph 168(3)(b) (implement oil pollution emergency plan);
+	- **(e.01)** subsection 168.01(3) (revise plans);
+	- **(e.02)** subsection 168.01(4) (prohibition against making changes);
 	- **(e.1)** a direction given under section 168.1 (to update or revise plans);
 	- **(e.2)** a direction given under paragraph 168.3(b) (to take measures);
 	- **(f)** paragraph 171(b) (have equipment and resources at the site);
@@ -4166,9 +4269,14 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(1)** Every person who, or vessel that, contravenes any of the following commits an offence:
 	- **(a)** paragraph 167(1)(b) (have a declaration on board);
+	- **(a.1)** section 167.1 (notification of proposed operations);
+	- **(a.2)** subsection 167.2(2) (submission of information or documents);
+	- **(a.3)** section 167.3 (notification of operations);
 	- **(b)** paragraph 168(1)(b) (have a declaration on site);
 	- **(c)** paragraph 168(1)(c) (have oil pollution prevention plan on site);
 	- **(d)** paragraph 168(1)(d) (have oil pollution emergency plan on site);
+	- **(d.01)** subsection 168.01(1) (notification of proposed change to operations);
+	- **(d.02)** subsection 168.01(2) (submission of information or documents);
 	- **(d.1)** a direction given under section 168.2 (to provide information);
 	- **(e)** paragraph 171(a) (have a response plan);
 	- **(f)** paragraph 171(c) (provide or arrange for training);
