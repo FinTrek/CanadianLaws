@@ -2990,17 +2990,93 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 
 
-**92** [Repealed, 1995, c. 41, s. 24]
-
-
-
-**93 and 94** [Repealed, 1997, c. 36, s. 181]
-
-
-
 
 **PART V** 
-## Exportation
+## Collection of Information About Persons and Goods
+
+
+
+### Persons Leaving Canada
+
+
+
+**Information**
+
+**92** 
+
+- **(1)** In relation to any person who is leaving Canada or who has left Canada, the Agency may collect, from a prescribed source, in the prescribed circumstances, within the prescribed time and in the prescribed manner, the following information:
+	- **(a)** the surname, first name and middle names, the date of birth, the citizenship or nationality and the sex of the person;
+	- **(b)** the type of travel document that identifies the person, the name of the country or organization that issued the travel document and the travel document number; and
+	- **(c)** the date, time and place of the person’s departure from Canada and, if the person arrives in the United States, the date, time and place of their arrival.
+
+**Regulations**
+
+- **(2)** The Governor in Council may make regulations for the purposes of subsection (1), including regulations
+	- **(a)** prescribing the sources from which the information may be collected;
+	- **(b)** respecting the circumstances in which the information may be collected; and
+	- **(c)** respecting the time within which and the manner in which the information may be collected.
+> R.S., 1985, c. 1 (2nd Supp.), s. 92; 1995, c. 41, s. 24; 2018, c. 30, s. 2.
+
+
+
+
+
+**Information given to Agency**
+
+**93** 
+
+- **(1)** With respect to a prescribed conveyance that departs or is expected to depart from a place inside Canada and that has a final destination outside of Canada, a prescribed person shall give the Agency, in the prescribed circumstances, within the prescribed time and in the prescribed manner,
+	- **(a)** in relation to the conveyance or its travel route, the last place inside Canada from which it departed, regardless of whether persons boarded the conveyance at that place, the date and time of that departure and any prescribed information; and
+	- **(b)** in relation to any person on board or expected to be on board that conveyance, the following information:
+		- **(i)** the surname, first name and middle names, the date of birth, the citizenship or nationality and the sex of the person,
+		- **(ii)** the type of travel document that identifies the person, the name of the country or organization that issued the travel document and the travel document number, and
+		- **(iii)** any unique passenger reference assigned to the person by the prescribed person.
+
+**Notification**
+
+- **(2)** The Minister may issue a notification to any person who is required to give information under subsection (1) to require the person to take any specified measure with respect to the information.
+
+**Obligation to comply**
+
+- **(3)** The person to whom the notification is issued shall comply with the notification.
+
+**Provision of information despite restriction**
+
+- **(4)** Any restriction under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) on the disclosure of information does not apply to a person who is required to give information under subsection (1).
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations for the purposes of this section, including regulations
+	- **(a)** prescribing the information that must be given under paragraph (1)(a);
+	- **(b)** respecting the conveyances in relation to which information must be given under subsection (1);
+	- **(c)** prescribing the persons or classes of persons who must give the information under subsection (1);
+	- **(d)** respecting the circumstances in which the information must be given under subsection (1); and
+	- **(e)** respecting the time within which and the manner in which the information must be given under subsection (1).
+> R.S., 1985, c. 1 (2nd Supp.), s. 93; 1992, c. 28, s. 24; 1993, c. 25, s. 79; 1995, c. 41, s. 25; 1997, c. 36, s. 181; 2018, c. 30, s. 2.
+
+
+
+
+
+**Retention of collected information**
+
+**93.1** Subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), information collected under sections 92 and 93 shall be retained by the Agency for a period of not more than 15 years beginning on the day on which the information is collected.
+> 2018, c. 30, s. 2.
+
+
+
+
+
+**Obligation to answer questions**
+
+**94** Every person who is leaving Canada shall, if requested to do so by an officer, present themselves to an officer and answer truthfully any questions asked by an officer in the performance of their duties under this or any other Act of Parliament.
+> R.S., 1985, c. 1 (2nd Supp.), s. 94; 1995, c. 41, s. 26; 1997, c. 36, s. 181; 2018, c. 30, s. 2.
+
+
+
+
+
+### Exportation of Goods
 
 
 
@@ -3008,13 +3084,31 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 **95** 
 
-- **(1)** Subject to paragraph (2)(a), all goods that are exported shall be reported at such time and place and in such manner as may be prescribed.
+- **(1)** Subject to subsection (1.1) and regulations made under paragraph (2)(a), all goods that are exported shall be reported at any prescribed time and place and in any prescribed manner.
+
+**Exception — entering or leaving temporarily**
+
+- **(1.1)** Subject to regulations made under paragraphs (2)(c) and (d), subsection (1) does not apply in respect of goods on board a conveyance
+	- **(a)** that enters Canadian waters, including the inland waters, or the airspace over Canada directly from outside Canada and then leaves Canada, as long as
+		- **(i)** in the case of a conveyance other than an aircraft, the conveyance did not anchor, moor or make contact with another conveyance while in Canadian waters, including the inland waters, or
+		- **(ii)** in the case of an aircraft, the conveyance did not land while in Canada; or
+	- **(b)** that leaves Canadian waters, including the inland waters, or the airspace over Canada and then re-enters Canada, as long as
+		- **(i)** in the case of a conveyance other than an aircraft, the conveyance did not anchor, moor or make contact with another conveyance while outside Canada, or
+		- **(ii)** in the case of an aircraft, the conveyance did not land while outside Canada.
+
+**Powers of officer**
+
+- **(1.2)** However, an officer may require that goods that are exempted under subsection (1.1) or regulations made under paragraph (2)(a) be reported under subsection (1).
+
+- **(1.3)** [Repealed, 2017, c. 11, s. 7]
 
 **Regulations**
 
-- **(2)** The Governor in Council may prescribe
-	- **(a)** the classes of goods that are exempted from the requirements of subsection (1) and the circumstances in which any of those classes of goods are not so exempted; and
-	- **(b)** the classes of persons who are required to report goods under subsection (1) and the circumstances in which they are so required.
+- **(2)** The Governor in Council may make regulations
+	- **(a)** prescribing the classes of goods that are exempted from the requirements of subsection (1) and the circumstances in which any of those classes of goods are not so exempted;
+	- **(b)** prescribing the classes of persons who are required to report goods under subsection (1) and the circumstances in which they are so required;
+	- **(c)** prescribing the circumstances in which goods, or classes of goods, on board a conveyance, or a class of conveyances, are required to be reported despite subsection (1.1); and
+	- **(d)** defining the expression “make contact with another conveyance” for the purposes of subsection (1.1) and prescribing the circumstances in which a conveyance or class of conveyances makes contact with another conveyance.
 
 **Obligation to answer questions and present goods**
 
@@ -3025,7 +3119,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Written report**
 
 - **(4)** If goods are required to be reported in writing, they shall be reported in the prescribed form containing the prescribed information or in such form containing such information as is satisfactory to the Minister.
-> R.S., 1985, c. 1 (2nd Supp.), s. 95; 2001, c. 25, s. 55.
+> R.S., 1985, c. 1 (2nd Supp.), s. 95; 2001, c. 25, s. 55; 2017, c. 11, s. 7; 2018, c. 30, s. 3.
 
 
 
@@ -3343,19 +3437,19 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 
 
-**Detention of and lien on imported or exported goods**
+**Detention of imported or exported goods**
 
 **97.25** 
 
-- **(1)** Any goods reported for exportation under section 95 or imported by or on behalf of a debtor are subject to a lien for the amount owed by the debtor and may be detained by an officer at the expense of the debtor until that amount is paid.
+- **(1)** Any goods that are to be exported, that have been reported under section 95 or that have been imported, by or on behalf of a debtor, are subject to a lien or hypothec for the amount owed by the debtor and may be detained by an officer at the expense of the debtor until that amount is paid.
 
 **Conveyances**
 
-- **(2)** Any conveyance used for the importation of goods in respect of which a notice under section 109.3 has been served is subject to a lien for the amount owed by the debtor and may be detained by an officer at the expense of the person on whom the notice was served until the amount set out in the notice is paid.
+- **(2)** Any conveyance used for the importation or exportation of goods in respect of which a notice has been served under section 109.3 is subject to a lien or hypothec for the amount owed by the debtor and may be detained by an officer at the expense of the person on whom the notice was served until the amount set out in the notice is paid.
 
 **Sale of detained goods**
 
-- **(3)** Subject to the regulations, the Minister, on giving 30 days’ notice in writing to the debtor at the debtor’s latest known address, may direct that any good imported or reported for exportation by or on behalf of the debtor, or any conveyance, that has been detained be sold
+- **(3)** Subject to the regulations, the Minister, on giving 30 days’ notice in writing to the debtor at the debtor’s latest known address, may direct that any good imported or to be exported, or any good reported under section 95, by or on behalf of the debtor, or any conveyance, that has been detained be sold
 	- **(a)** if the good is spirits or specially denatured alcohol, to a spirits licensee;
 	- **(b)** if the good is wine, to a wine licensee;
 	- **(c)** if the good is raw leaf tobacco or a tobacco product, to a tobacco licensee;
@@ -3369,7 +3463,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 **Proceeds of sale**
 
 - **(4)** The proceeds of any sale shall be applied to amounts owed by the debtor, any expenses incurred by Her Majesty in right of Canada in respect of the goods sold and any duties on the goods and the surplus, if any, shall be paid to the debtor.
-> 2001, c. 25, s. 58; 2007, c. 18, s. 136; 2010, c. 12, s. 49.
+> 2001, c. 25, s. 58; 2007, c. 18, s. 136; 2010, c. 12, s. 49; 2018, c. 30, s. 4.
 
 
 
@@ -4251,7 +4345,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 - **(1)** An officer may
 	- **(a)** at any time up to the time of release, examine any goods that have been imported and open or cause to be opened any package or container of imported goods and take samples of imported goods in reasonable amounts;
 	- **(b)** at any time up to the time of release, examine any mail that has been imported and, subject to this section, open or cause to be opened any such mail that the officer suspects on reasonable grounds contains any goods referred to in the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), or any goods the importation of which is prohibited, controlled or regulated under any other Act of Parliament, and take samples of anything contained in such mail in reasonable amounts;
-	- **(c)** at any time up to the time of exportation, examine any goods that have been reported under section 95 and open or cause to be opened any package or container of such goods and take samples of such goods in reasonable amounts;
+	- **(c)** at any time up to the time of exportation, examine any goods that are to be exported or that have been reported under section 95 and open or cause to be opened any package or container of those goods and take samples of those goods in reasonable amounts;
 	- **(c.1)** at any time up to the time of exportation, examine any mail that is to be exported and, subject to this section, open or cause to be opened any such mail that the officer suspects on reasonable grounds contains any goods the exportation of which is prohibited, controlled or regulated under any Act of Parliament, and take samples of anything contained in such mail in reasonable amounts;
 	- **(d)** where the officer suspects on reasonable grounds that an error has been made in the tariff classification, value for duty or quantity of any goods accounted for under section 32, or where a refund or drawback is requested in respect of any goods under this Act or pursuant to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), examine the goods and take samples thereof in reasonable amounts;
 	- **(d.1)** where the officer suspects on reasonable grounds that an error has been made with respect to the origin claimed or determined for any goods accounted for under section 32, examine the goods and take samples thereof in reasonable amounts;
@@ -4263,7 +4357,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Samples**
 
 - **(4)** Samples taken pursuant to subsection (1) shall be disposed of in such manner as the Minister may direct.
-> R.S., 1985, c. 1 (2nd Supp.), s. 99; 1988, c. 65, s. 79; 2001, c. 25, s. 59; 2017, c. 7, s. 52.
+> R.S., 1985, c. 1 (2nd Supp.), s. 99; 1988, c. 65, s. 79; 2001, c. 25, s. 59; 2017, c. 7, s. 52; 2018, c. 30, s. 5.
 
 
 
@@ -4522,7 +4616,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 		- **(ii)** Her Majesty in right of a province on account of taxes payable to the province if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province;
 	- **(g.1)** an official of the Canada Revenue Agency solely for a purpose relating to the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 	- **(h)** counsel, as defined in subsection 84(4) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), in accordance with subsection 84(3) of that Act and subject to subsection 84(3.1) of that Act, except that the word “information” in those subsections is to be read as a reference to the words “customs information”;
-	- **(i)** an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), if the information relates to the movement of people into and out of Canada;
+	- **(i)** an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), if the information relates to the movement of people into and out of Canada;
 	- **(j)** an official of the Department of Citizenship and Immigration solely for the purpose of administering or enforcing
 		- **(i)** the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md) or the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), if the information relates to the movement of people into and out of Canada, or
 		- **(ii)** the law of Canada respecting passports or other travel documents;
@@ -4585,7 +4679,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 5; 2019, c. 13, s. 123(E).
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 5; 2018, c. 30, s. 6; 2019, c. 13, s. 123(E).
 
 
 
@@ -5778,9 +5872,17 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 
 
-**Smuggling**
+**Smuggling — into Canada**
 
-**159** Every person commits an offence who smuggles or attempts to smuggle into Canada, whether clandestinely or not, any goods subject to duties, or any goods the importation of which is prohibited, controlled or regulated by or pursuant to this or any other Act of Parliament.
+**159** 
+
+- **(1)** Every person commits an offence who smuggles or attempts to smuggle into Canada, whether clandestinely or not, any goods that are subject to duties, or any goods the importation of which is prohibited, controlled or regulated under this or any other Act of Parliament.
+
+**Smuggling — out of Canada**
+
+- **(2)** Every person commits an offence who smuggles or attempts to smuggle out of Canada, whether clandestinely or not, any goods that are subject to duties, or any goods the exportation of which is prohibited, controlled or regulated under this or any other Act of Parliament.
+> R.S., 1985, c. 1 (2nd Supp.), s. 159; 2018, c. 30, s. 7.
+
 
 
 
@@ -5801,14 +5903,14 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 **160** 
 
-- **(1)** Every person who contravenes section 11, 12, 13, 15 or 16, subsection 20(1), section 31 or 40, subsection 43(2), 95(1) or (3), 103(3) or 107(2) or section 153, 155, 156 or 159.1 or commits an offence under section 159 or knowingly contravenes an order referred to in subsection 107(11)
+- **(1)** Every person who contravenes section 11, 12, 13, 15 or 16, subsection 20(1), section 31 or 40, subsection 43(2), section 94, subsection 95(1) or (3), 103(3) or 107(2) or section 153, 155, 156 or 159.1 or commits an offence under subsection 159(1) or (2) or knowingly contravenes an order referred to in subsection 107(11)
 	- **(a)** is guilty of an offence punishable on summary conviction and liable to a fine of not more than fifty thousand dollars or to imprisonment for a term not exceeding six months or to both that fine and that imprisonment; or
 	- **(b)** is guilty of an indictable offence and liable to a fine of not more than five hundred thousand dollars or to imprisonment for a term not exceeding five years or to both that fine and that imprisonment.
 
 **Court order — subsection 43(2)**
 
 - **(2)** If a person has been convicted by a court of an offence under subsection (1) for a contravention of subsection 43(2), the court may make any order that it considers appropriate in order to enforce compliance with that subsection.
-> R.S., 1985, c. 1 (2nd Supp.), s. 160; 1993, c. 25, s. 88, c. 44, s. 107; 2001, c. 25, s. 82.
+> R.S., 1985, c. 1 (2nd Supp.), s. 160; 1993, c. 25, s. 88, c. 44, s. 107; 2001, c. 25, s. 82; 2018, c. 30, s. 8.
 
 
 
