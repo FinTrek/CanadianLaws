@@ -2979,17 +2979,93 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 
 
-**92** [Abrogé, 1995, ch. 41, art. 24]
-
-
-
-**93 et 94** [Abrogés, 1997, ch. 36, art. 181]
-
-
-
 
 **PARTIE V** 
-## Exportation
+## Collecte de renseignements sur les personnes et les marchandises
+
+
+
+### Personnes quittant le Canada
+
+
+
+**Renseignements**
+
+**92** 
+
+- **(1)** L’Agence peut, dans les circonstances réglementaires et selon les modalités réglementaires de temps ou autres, recueillir auprès de toute source visée par règlement les renseignements ci-après à l’égard de toute personne quittant ou ayant quitté le Canada :
+	- **a)** ses nom, prénoms, date de naissance, citoyenneté ou nationalité et sexe;
+	- **b)** le type de document de voyage qui l’identifie ainsi que le nom du pays ou de l’organisation qui a délivré le document et le numéro de celui-ci;
+	- **c)** les date, heure et lieu de son départ du Canada et, si elle est arrivée aux États-Unis, les date, heure et lieu de son arrivée.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements d’application du paragraphe (1), notamment des règlements :
+	- **a)** désignant les sources auprès desquelles les renseignements peuvent être recueillis;
+	- **b)** concernant les circonstances dans lesquelles les renseignements peuvent être recueillis;
+	- **c)** concernant les délais et modalités de collecte des renseignements.
+> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 92; 1995, ch. 41, art. 24; 2018, ch. 30, art. 2.
+
+
+
+
+
+**Renseignements fournis à l’Agence**
+
+**93** 
+
+- **(1)** S’agissant d’un moyen de transport visé par règlement qui quitte un endroit au Canada ou est censé quitter un endroit au Canada pour une destination finale à l’extérieur du Canada, toute personne visée par règlement fournit à l’Agence, dans les circonstances réglementaires et selon les modalités réglementaires de temps ou autres :
+	- **a)** à l’égard de ce moyen de transport ou de son itinéraire, les renseignements réglementaires ainsi que le lieu du dernier point de départ du moyen de transport au Canada, peu importe si des personnes sont montées à bord ou non, et la date et l’heure du départ;
+	- **b)** à l’égard de toute personne qui est ou devrait être à son bord, les renseignements suivants :
+		- **(i)** ses nom, prénoms, date de naissance, citoyenneté ou nationalité et sexe,
+		- **(ii)** le type de document de voyage qui l’identifie ainsi que le nom du pays ou de l’organisation qui a délivré le document et le numéro de celui-ci,
+		- **(iii)** la référence unique de passager qui lui est attribuée par la personne visée par règlement.
+
+**Notification**
+
+- **(2)** Le ministre peut donner à toute personne qui fournit des renseignements en application du paragraphe (1) une notification lui enjoignant de prendre toute mesure précisée à leur égard.
+
+**Obligation de se conformer**
+
+- **(3)** La personne qui reçoit une notification doit s’y conformer.
+
+**Communication malgré une interdiction**
+
+- **(4)** Les limites prévues par la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) à l’égard de la communication de renseignements ne s’appliquent pas à la personne qui est tenue de fournir des renseignements en application du paragraphe (1).
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut prendre des règlements d’application du présent article, notamment des règlements :
+	- **a)** précisant les renseignements à fournir en application de l’alinéa (1)a);
+	- **b)** concernant les moyens de transport à l’égard desquels les renseignements doivent être fournis en application du paragraphe (1);
+	- **c)** prévoyant les personnes ou catégories de personnes tenues de fournir les renseignements en application de ce paragraphe;
+	- **d)** concernant les circonstances dans lesquelles les renseignements doivent être fournis en application de ce paragraphe;
+	- **e)** concernant les délais et modalités de fourniture des renseignements visés à ce paragraphe.
+> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 93; 1992, ch. 28, art. 24; 1993, ch. 25, art. 79; 1995, ch. 41, art. 25; 1997, ch. 36, art. 181; 2018, ch. 30, art. 2.
+
+
+
+
+
+**Conservation des renseignements recueillis**
+
+**93.1** Sous réserve de l’article 6 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), les renseignements recueillis au titre des articles 92 et 93 sont conservés par l’Agence pour une période maximale de quinze ans à compter de la date à laquelle ils sont recueillis.
+> 2018, ch. 30, art. 2.
+
+
+
+
+
+**Obligation de répondre aux questions**
+
+**94** La personne quittant le Canada est tenue, à la demande de tout agent, de se présenter devant un agent et de répondre véridiquement aux questions qu’un agent lui pose dans l’exercice des fonctions qui lui sont conférées sous le régime de la présente loi ou d’une autre loi fédérale.
+> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 94; 1995, ch. 41, art. 26; 1997, ch. 36, art. 181; 2018, ch. 30, art. 2.
+
+
+
+
+
+### Exportation de marchandises
 
 
 
@@ -2997,13 +3073,31 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **95** 
 
-- **(1)** Sous réserve de l’alinéa (2)a), toutes les marchandises exportées doivent être déclarées selon les modalités réglementaires de temps, de lieu et de forme.
+- **(1)** Sous réserve du paragraphe (1.1) et des règlements pris en vertu de l’alinéa (2)a), toutes les marchandises exportées doivent être déclarées selon les modalités réglementaires de temps, de lieu et de forme.
+
+**Exception – entrée ou sortie temporaire**
+
+- **(1.1)** Sous réserve des règlements pris en vertu des alinéas (2)c) et d), le paragraphe (1) ne s’applique pas aux marchandises se trouvant à bord d’un moyen de transport qui :
+	- **a)** entre, directement depuis l’extérieur du Canada, dans les eaux canadiennes, y compris les eaux internes, ou dans l’espace aérien du Canada et quitte ensuite le Canada, tant que :
+		- **(i)** s’agissant d’un moyen de transport autre qu’un aéronef, celui-ci n’a ni amarré, ni mouillé l’ancre, ni établi de contact avec un autre moyen de transport, alors qu’il se trouvait dans les eaux canadiennes, y compris les eaux internes,
+		- **(ii)** s’agissant d’un aéronef, celui-ci n’a pas atterri alors qu’il se trouvait au Canada;
+	- **b)** quitte les eaux canadiennes, y compris les eaux internes, ou l’espace aérien du Canada, et entre ensuite à nouveau au Canada, tant que :
+		- **(i)** s’agissant d’un moyen de transport autre qu’un aéronef, celui-ci n’a ni amarré, ni mouillé l’ancre, ni établi de contact avec un autre moyen de transport, alors qu’il se trouvait à l’extérieur du Canada,
+		- **(ii)** s’agissant d’un aéronef, celui-ci n’a pas atterri alors qu’il se trouvait à l’extérieur du Canada.
+
+**Pouvoir de l’agent**
+
+- **(1.2)** Toutefois, l’agent peut exiger que des marchandises soient déclarées en application du paragraphe (1), même si celles-ci sont exemptées au titre du paragraphe (1.1) ou des règlements pris en vertu de l’alinéa (2)a).
+
+- **(1.3)** [Abrogé, 2017, ch. 11, art. 7]
 
 **Règlements**
 
 - **(2)** Le gouverneur en conseil peut, par règlement :
-	- **a)** désigner les catégories de marchandises exemptées des dispositions du paragraphe (1) et déterminer les circonstances où certaines de ces catégories ne sont pas exemptées;
-	- **b)** désigner les catégories de personnes tenues de déclarer des marchandises en application du paragraphe (1) et déterminer les circonstances des déclarations.
+	- **a)** désigner les catégories de marchandises qui sont exemptées des exigences du paragraphe (1) et déterminer les circonstances dans lesquelles certaines de ces catégories ne sont pas exemptées;
+	- **b)** désigner les catégories de personnes qui sont tenues de déclarer des marchandises en application du paragraphe (1) et prévoir les circonstances dans lesquelles elles sont tenues de le faire;
+	- **c)** prévoir les circonstances dans lesquelles des marchandises ou des catégories de marchandises qui se trouvent à bord de moyens de transport, ou de catégories de ceux-ci, doivent être déclarées malgré le paragraphe (1.1);
+	- **d)** définir l’expression « établir un contact avec un autre moyen de transport » pour l’application du paragraphe (1.1) ainsi que prévoir les circonstances dans lesquelles un moyen de transport ou une catégorie de moyens de transport établit un tel contact.
 
 **Obligations du déclarant**
 
@@ -3014,7 +3108,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Déclaration écrite**
 
 - **(4)** Les déclarations de marchandises à faire par écrit sont à établir avec les renseignements et en la forme réglementaires ou satisfaisants pour le ministre.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 95; 2001, ch. 25, art. 55.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 95; 2001, ch. 25, art. 55; 2017, ch. 11, art. 7; 2018, ch. 30, art. 3.
 
 
 
@@ -3330,19 +3424,19 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 
 
-**Gage et rétention**
+**Rétention**
 
 **97.25** 
 
-- **(1)** Les marchandises déclarées pour l’exportation en vertu de l’article 95 ou importées par ou pour un débiteur sont affectées à la garantie de la somme dont le débiteur est redevable et peuvent être retenues par l’agent aux frais du destinataire jusqu’au paiement de la somme.
+- **(1)** Les marchandises qui sont destinées à l’exportation, déclarées conformément à l’article 95 ou importées, par ou pour un débiteur, sont affectées à la garantie de la somme dont le débiteur est redevable et peuvent être retenues par l’agent aux frais du destinataire jusqu’au paiement de la somme.
 
-**Transport**
+**Moyens de transport**
 
-- **(2)** Tout moyen de transport utilisé pour l’importation de marchandises pour lesquelles un avis visé à l’article 109.3 a été signifié est affecté à la garantie de la somme dont le débiteur est redevable et peut être retenu par l’agent aux frais de la personne qui a reçu l’avis jusqu’au paiement de la somme visée dans l’avis.
+- **(2)** Tout moyen de transport utilisé pour l’importation ou l’exportation de marchandises pour lesquelles l’avis prévu à l’article 109.3 a été signifié est affecté à la garantie de la somme dont le débiteur est redevable et peut être retenu par l’agent aux frais de la personne qui a reçu l’avis jusqu’au paiement de la somme visée dans celui-ci.
 
 **Vente des marchandises retenues**
 
-- **(3)** Sous réserve des règlements applicables, le ministre peut, sur préavis écrit de trente jours envoyé au débiteur à sa dernière adresse connue, ordonner que toute marchandise importée ou déclarée pour l’exportation par ou pour le débiteur, ou tout moyen de transport, retenu en vertu des paragraphes (1) ou (2) soit vendu :
+- **(3)** Sous réserve des règlements, le ministre peut, sur préavis écrit de trente jours envoyé au débiteur à sa dernière adresse connue, ordonner que toute marchandise importée ou destinée à l’exportation, ou déclarée conformément à l’article 95, par ou pour le débiteur, ou tout moyen de transport, retenu soit vendu :
 	- **a)** s’il s’agit de spiritueux ou d’alcool spécialement dénaturé, à un titulaire de licence de spiritueux;
 	- **b)** s’il s’agit de vin, à un titulaire de licence de vin;
 	- **c)** s’il s’agit de tabac en feuilles ou d’un produit du tabac, à un titulaire de licence de tabac;
@@ -3356,7 +3450,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Produit de la vente**
 
 - **(4)** Le produit de la vente est affecté au paiement des sommes dont le débiteur est redevable, des frais supportés par Sa Majesté du chef du Canada relativement aux marchandises vendues et des droits frappant celles-ci, le solde éventuel étant versé au débiteur.
-> 2001, ch. 25, art. 58; 2007, ch. 18, art. 136; 2010, ch. 12, art. 49.
+> 2001, ch. 25, art. 58; 2007, ch. 18, art. 136; 2010, ch. 12, art. 49; 2018, ch. 30, art. 4.
 
 
 
@@ -4237,7 +4331,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 - **(1)** L’agent peut :
 	- **a)** tant qu’il n’y a pas eu dédouanement, examiner toutes marchandises importées et en ouvrir ou faire ouvrir tous colis ou contenants, ainsi qu’en prélever des échantillons en quantités raisonnables;
 	- **b)** tant qu’il n’y a pas eu dédouanement, examiner les envois d’origine étrangère et, sous réserve des autres dispositions du présent article, les ouvrir ou faire ouvrir s’il soupçonne, pour des motifs raisonnables, qu’ils contiennent des marchandises visées dans le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou des marchandises d’importation prohibée, contrôlée ou réglementée en vertu de toute autre loi fédérale, ainsi que prélever des échantillons de leur contenu en quantités raisonnables;
-	- **c)** tant qu’il n’y a pas eu exportation, examiner toutes marchandises déclarées conformément à l’article 95 et en ouvrir ou faire ouvrir tous colis ou contenants, ainsi qu’en prélever des échantillons en quantités raisonnables;
+	- **c)** tant qu’il n’y a pas eu exportation, examiner toutes marchandises destinées à l’exportation ou déclarées conformément à l’article 95 et en ouvrir ou faire ouvrir tous colis ou contenants, ainsi qu’en prélever des échantillons en quantités raisonnables;
 	- **c.1)** tant qu’il n’y a pas eu exportation, examiner les envois destinés à l’exportation et, sous réserve des autres dispositions du présent article, les ouvrir ou faire ouvrir s’il soupçonne, pour des motifs raisonnables, qu’ils contiennent des marchandises d’exportation prohibée, contrôlée ou réglementée en vertu de toute autre loi fédérale, ainsi que prélever des échantillons de leur contenu en quantités raisonnables;
 	- **d)** examiner les marchandises au sujet desquelles il soupçonne, pour des motifs raisonnables, qu’il y a eu une erreur de classement tarifaire, de valeur en douane ou d’indication quantitative dans la déclaration en détail ou la déclaration provisoire dont elles ont fait l’objet conformément à l’article 32 ou pour lesquelles est demandé un remboursement ou un drawback en vertu de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), ainsi qu’en prélever des échantillons en quantités raisonnables;
 	- **d.1)** examiner les marchandises au sujet desquelles il soupçonne, pour des motifs raisonnables, qu’il y a eu une erreur sur leur origine dans la déclaration en détail ou la déclaration provisoire dont elles ont fait l’objet conformément à l’article 32, ainsi qu’en prélever des échantillons en quantités raisonnables;
@@ -4249,7 +4343,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Échantillons**
 
 - **(4)** Il est disposé des échantillons prélevés conformément au paragraphe (1) suivant les instructions du ministre.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 99; 1988, ch. 65, art. 79; 2001, ch. 25, art. 59; 2017, ch. 7, art. 52.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 99; 1988, ch. 65, art. 79; 2001, ch. 25, art. 59; 2017, ch. 7, art. 52; 2018, ch. 30, art. 5.
 
 
 
@@ -4508,7 +4602,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 		- **(ii)** soit de Sa Majesté du chef d’une province s’il s’agit de taxes ou d’impôts provinciaux visés par une entente entre le Canada et la province en vertu de laquelle le Canada est autorisé à percevoir les impôts ou taxes pour le compte de la province;
 	- **g.1)** à un fonctionnaire de l’Agence du revenu du Canada, uniquement pour l’application ou l’exécution du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 	- **h)** à un avocat, au sens du paragraphe 84(4) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), conformément aux exigences énoncées au paragraphe 84(3) de cette loi et sous réserve du paragraphe 84(3.1) de la même loi, la mention dans ces dispositions de « les renseignements auxquels ce paragraphe s’applique » et de « renseignements » valant mention de « renseignements douaniers »;
-	- **i)** à un fonctionnaire du ministère de l’Emploi et du Développement social, uniquement pour l’application ou l’exécution de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), si le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
+	- **i)** à un fonctionnaire du ministère de l’Emploi et du Développement social, uniquement pour l’application ou l’exécution de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), si le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
 	- **j)** à un fonctionnaire du ministère de la Citoyenneté et de l’Immigration, uniquement pour l’application ou l’exécution :
 		- **(i)** soit de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) ou de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), lorsque le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada,
 		- **(ii)** soit du droit fédéral en matière de passeports ou autres documents de voyage;
@@ -4571,7 +4665,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlements**
 
 - **(15)** Le gouverneur en conseil peut, par règlement, déterminer les cas où des frais peuvent être exigés pour permettre l’accès à des renseignements ou pour en fournir, pour en faire des copies ou pour certifier la conformité de celles-ci sous le régime du présent article, ainsi que fixer le montant de ces frais.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2012, ch. 24, art. 92; 2013, ch. 40, art. 237; 2014, ch. 20, art. 366(A), ch. 32, art. 60; 2015, ch. 20, art. 5; 2019, ch. 13, art. 123(A).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2012, ch. 24, art. 92; 2013, ch. 40, art. 237; 2014, ch. 20, art. 366(A), ch. 32, art. 60; 2015, ch. 20, art. 5; 2018, ch. 30, art. 6; 2019, ch. 13, art. 123(A).
 
 
 
@@ -5756,9 +5850,17 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 
 
-**Contrebande**
+**Contrebande : introduction au Canada**
 
-**159** Constitue une infraction le fait d’introduire ou de tenter d’introduire en fraude au Canada, par contrebande ou non clandestinement, des marchandises passibles de droits ou dont l’importation est prohibée, contrôlée ou réglementée en vertu de la présente loi ou de toute autre loi fédérale.
+**159** 
+
+- **(1)** Constitue une infraction le fait d’introduire ou de tenter d’introduire au Canada par contrebande, clandestinement ou non, des marchandises passibles de droits ou dont l’importation est prohibée, contrôlée ou réglementée sous le régime de la présente loi ou de toute autre loi fédérale.
+
+**Contrebande : sortie du Canada**
+
+- **(2)** Constitue une infraction le fait de faire sortir ou de tenter de faire sortir du Canada par contrebande, clandestinement ou non, des marchandises passibles de droits ou dont l’exportation est prohibée, contrôlée ou réglementée sous le régime de la présente loi ou de toute autre loi fédérale.
+> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 159; 2018, ch. 30, art. 7.
+
 
 
 
@@ -5779,14 +5881,14 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **160** 
 
-- **(1)** Quiconque contrevient aux articles 11, 12, 13, 15 ou 16, au paragraphe 20(1), aux articles 31 ou 40, aux paragraphes 43(2), 95(1) ou (3), 103(3) ou 107(2) ou aux articles 153, 155, 156 ou 159.1, commet l’infraction prévue à l’article 159 ou contrevient sciemment à une ordonnance visée au paragraphe 107(11) encourt, sur déclaration de culpabilité :
+- **(1)** Quiconque contrevient aux articles 11, 12, 13, 15 ou 16, au paragraphe 20(1), aux articles 31 ou 40, au paragraphe 43(2), à l’article 94, aux paragraphes 95(1) ou (3),103(3) ou 107(2) ou aux articles 153, 155, 156 ou 159.1, commet l’infraction prévue aux paragraphes 159(1) ou (2) ou contrevient sciemment à une ordonnance visée au paragraphe 107(11) encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de cinquante mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de cinq cent mille dollars et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
 
 **Ordonnance d’exécution**
 
 - **(2)** Le tribunal qui déclare une personne coupable, en vertu du paragraphe (1), de l’infraction visée au paragraphe 43(2) peut rendre toute ordonnance qu’il estime indiquée pour qu’il soit remédié au défaut qui constitue l’infraction.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 160; 1993, ch. 25, art. 88, ch. 44, art. 107; 2001, ch. 25, art. 82.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 160; 1993, ch. 25, art. 88, ch. 44, art. 107; 2001, ch. 25, art. 82; 2018, ch. 30, art. 8.
 
 
 
