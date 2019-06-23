@@ -103,8 +103,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Annual report**
 
-**7** The Minister shall cause to be laid before each House of Parliament by March 31 of each year or, if that House is not then sitting, on any of the thirty days next thereafter that it is sitting, a report of operations for the previous calendar year, containing a general summary of all actions taken under the authority of this Act, including their sustainable development aspects within the meaning of Article 2 of the Agreement, and their human rights aspects.
-> 1991, c. 12, s. 7; 1993, c. 34, s. 66.
+**7** The Minister shall cause to be laid before each House of Parliament within one year after the end of each fiscal year or, if either House is not sitting, on any of the first five days on which that House of Parliament is sitting, a report of operations containing a general summary of all actions taken under the authority of this Act, including their sustainable development aspects within the meaning of Article 2 of the Agreement, and their human rights aspects.
+> 1991, c. 12, s. 7; 1993, c. 34, s. 66; 2018, c. 27, s. 655.
 
 
 
