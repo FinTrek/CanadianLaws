@@ -119,27 +119,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** Le ministre ou le ministre compétent fait déposer devant chaque chambre du Parlement, dans les six mois suivant la fin de chaque exercice ou, si celle-ci ne siège pas, dans les cinq premiers jours de séance ultérieurs, un rapport contenant les éléments suivants :
+- **(1)** Le ministre ou le ministre compétent fait déposer devant chaque chambre du Parlement, dans l’année qui suit la fin de chaque exercice ou, si celle-ci ne siège pas, dans les cinq premiers jours de séance ultérieurs, un rapport contenant les éléments suivants :
 	- **a)** le montant total que le gouvernement du Canada a consacré à l’aide au développement officielle pendant l’exercice précédent;
 	- **b)** un résumé des activités ou des projets entrepris sous le régime de la présente loi;
-	- **c)** un résumé du rapport annuel présenté aux termes de la [Loi sur les accords de Bretton Woods et des accords connexes](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-7.md);
-	- **d)** un résumé des observations faites par les représentants canadiens au sujet des priorités et des politiques des Institutions de Bretton Woods.
+	- **c)** un résumé des activités entreprises sous le régime de la [Loi sur les accords de Bretton Woods et des accords connexes](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-7.md) qui ont favorisé l’application de la présente loi.
+	- **d)** [Abrogé, 2018, ch. 27, art. 658]
 	- **e)** [Abrogé, 2013, ch. 33, art. 193]
 
 **Rapport statistique**
 
 - **(2)** Le ministre publie un rapport statistique sur l’octroi d’aide au développement officielle dans un délai d’un an suivant la fin de chaque exercice.
 
-**Rapport au Parlement**
+- **(3)** [Abrogé, 2018, ch. 27, art. 658]
 
-- **(3)** En plus d’établir le rapport prévu à l’article 13 de la [Loi sur les accords de Bretton Woods et des accords connexes](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-7.md), le ministre des Finances apporte les éléments suivants au rapport déposé au Parlement aux termes du paragraphe (1) :
-	- **a)** la prise de position du Canada dans le cadre des résolutions adoptées par le Conseil des gouverneurs des Institutions de Bretton Woods;
-	- **b)** un résumé de la façon dont les activités du Canada aux termes de la [Loi sur les accords de Bretton Woods et des accords connexes](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-7.md) ont favorisé l’application de la présente loi.
-
-**Interdiction de communication**
-
-- **(4)** Par dérogation aux paragraphes (1) et (3), ne peuvent faire l’objet d’un rapport au titre du présent article les renseignements dont la communication est interdite par les politiques des Institutions de Bretton Woods.
-> 2008, ch. 17, art. 5; 2013, ch. 33, art. 193.
+- **(4)** [Abrogé, 2018, ch. 27, art. 658]
+> 2008, ch. 17, art. 5; 2013, ch. 33, art. 193; 2018, ch. 27, art. 658.
 
 
 
