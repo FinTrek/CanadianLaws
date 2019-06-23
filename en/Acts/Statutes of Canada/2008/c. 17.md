@@ -119,27 +119,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **5** 
 
-- **(1)** The Minister or the competent minister shall cause to be submitted to each House of Parliament, within six months after the termination of each fiscal year or, if that House is not then sitting, on any of the first five days next thereafter that the House is sitting, a report containing
+- **(1)** The Minister or the competent minister shall cause to be laid before each House of Parliament within one year after the end of each fiscal year or, if either House is not sitting, on any of the first five days on which that House of Parliament is sitting, a report containing
 	- **(a)** the total amount spent by the Government of Canada on official development assistance in the previous fiscal year;
 	- **(b)** a summary of any activity or initiative taken under this Act;
-	- **(c)** a summary of the annual report submitted under the [Bretton Woods and Related Agreements Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-7.md); and
-	- **(d)** a summary of any representation made by Canadian representatives with respect to priorities and policies of the Bretton Woods Institutions.
+	- **(c)** a summary of Canada’s activities under the [Bretton Woods and Related Agreements Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-7.md) that have contributed to carrying out the purpose of this Act.
+	- **(d)** [Repealed, 2018, c. 27, s. 658]
 	- **(e)** [Repealed, 2013, c. 33, s. 193]
 
 **Statistical report**
 
 - **(2)** The Minister shall issue a statistical report on the disbursement of official development assistance within one year after the end of each fiscal year.
 
-**Report to Parliament**
+- **(3)** [Repealed, 2018, c. 27, s. 658]
 
-- **(3)** The Minister of Finance shall, in addition to preparing the report required under section 13 of the [Bretton Woods and Related Agreements Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-7.md), contribute the following to the report submitted to Parliament under subsection (1):
-	- **(a)** the position taken by Canada on any resolution that is adopted by the Board of Governors of the Bretton Woods Institutions; and
-	- **(b)** a summary of the manner in which Canada’s activities under the [Bretton Woods and Related Agreements Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-7.md) have contributed to carrying out the purpose of this Act.
-
-**Information not to be disclosed**
-
-- **(4)** Despite subsections (1) and (3), information shall not be reported under this section if its disclosure is prohibited by the policies of the Bretton Woods Institutions.
-> 2008, c. 17, s. 5; 2013, c. 33, s. 193.
+- **(4)** [Repealed, 2018, c. 27, s. 658]
+> 2008, c. 17, s. 5; 2013, c. 33, s. 193; 2018, c. 27, s. 658.
 
 
 
