@@ -103,8 +103,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rapport annuel**
 
-**7** Le ministre fait déposer devant chaque chambre du Parlement, au plus tard le 31 mars ou, si celle-ci ne siège pas, dans les trente jours de séance ultérieurs, un rapport d’activité pour l’année civile précédente contenant un résumé général des opérations effectuées sous le régime de la présente loi, y compris des éléments concernant le développement durable au sens de l’article 2 de l’Accord et les droits de la personne.
-> 1991, ch. 12, art. 7; 1993, ch. 34, art. 66.
+**7** Le ministre fait déposer devant chaque chambre du Parlement, dans l’année qui suit la fin de chaque exercice ou, si celle-ci ne siège pas, dans les cinq premiers jours de séance ultérieurs, un rapport d’activité contenant un résumé général des opérations effectuées sous le régime de la présente loi, y compris des éléments concernant le développement durable au sens de l’article 2 de l’Accord et les droits de la personne.
+> 1991, ch. 12, art. 7; 1993, ch. 34, art. 66; 2018, ch. 27, art. 655.
 
 
 
