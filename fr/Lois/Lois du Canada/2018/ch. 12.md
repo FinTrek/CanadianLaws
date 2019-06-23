@@ -1340,7 +1340,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind28ED_hq_22341'>[*]</a></sup>**239** La présente sous-section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind28ED_hq_22341'><sup>*</sup></a>: [Note : Sous-section A non en vigueur.]<br />
+<a name='fn_Ind28ED_hq_22341'><sup>*</sup></a>: [Note : Sous-section A en vigueur le 23 juin 2019, *voir* TR/2019-48.]<br />
 
 
 
@@ -1382,7 +1382,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind58B0_hq_22342'>[*]</a></sup>**244** La présente sous-section, exception faite de l’article 243, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind58B0_hq_22342'><sup>*</sup></a>: [Note : Sous-section B, exception faite de l’article 243, non en vigueur.]<br />
+<a name='fn_Ind58B0_hq_22342'><sup>*</sup></a>: [Note : Sous-section B, exception faite de l’article 243, en vigueur le 23 juin 2019, *voir* TR/2019-48.]<br />
 
 
 
