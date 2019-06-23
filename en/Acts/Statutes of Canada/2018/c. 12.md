@@ -1340,7 +1340,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndED7A_hq_22325'>[*]</a></sup>**239** This Subdivision comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndED7A_hq_22325'><sup>*</sup></a>: [Note: Subdivision A not in force.]<br />
+<a name='fn_IndED7A_hq_22325'><sup>*</sup></a>: [Note: Subdivision A in force June 23, 2019, *see* SI/2019-48.]<br />
 
 
 
@@ -1382,7 +1382,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind72AA_hq_22326'>[*]</a></sup>**244** This Subdivision, other than section 243, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind72AA_hq_22326'><sup>*</sup></a>: [Note: Subdivision B, other than section 243, not in force.]<br />
+<a name='fn_Ind72AA_hq_22326'><sup>*</sup></a>: [Note: Subdivision B, other than section 243, in force June 23, 2019, *see* SI/2019-48.]<br />
 
 
 
