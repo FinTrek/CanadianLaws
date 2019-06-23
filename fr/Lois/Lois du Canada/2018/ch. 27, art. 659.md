@@ -8,7 +8,7 @@
 Sanctionnée sur le 13 décembre 2018
 
 ```
-[Édictée par l’article 659 du chapitre 27 des Lois du Canada (2018), non en vigueur.]
+[Édictée par l’article 659 du chapitre 27 des Lois du Canada (2018), en vigueur le 23 juin 2019, voir TR/2019-45.]
 ```
 ----------
 
