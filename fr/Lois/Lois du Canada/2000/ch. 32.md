@@ -10325,6 +10325,17 @@ Dans le parc national du Mont-Riding du Canada, la zone suivante :
 La totalité du lopin représentant la station de ski du mont Agassiz sur le plan numéro 64217 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été déposée au Bureau des titres de biens-fonds à Neepawa, sous le numéro 6406, ledit lopin renfermant environ 141,64 hectares.
 
 
-> 2000, ch. 32, ann. 5; 2013, ch. 28, art. 15; 2019, ch. 29, art. 332.
+
+### Station de ski de Sunshine Village
+
+
+Dans le parc national Banff du Canada, la zone suivante :
+
+
+
+La totalité du lopin JT ainsi que des zones avalancheuses 1 et 2 et de l’emprise de la fibre optique indiqués sur les plans numéros 107995, 107996 et 108040 déposés aux Archives d’arpentage des terres du Canada, à Ottawa, dont des copies ont été déposées au Bureau des titres de biens-fonds de l’Alberta, à Calgary, sous les numéros 1910580, 1910581 et 1910678, ces lopin, zones et emprise renfermant environ 1 062 hectares.
+
+
+> 2000, ch. 32, ann. 5; 2013, ch. 28, art. 15; 2019, ch. 29, art. 332; DORS/2019-255, art. 1.
 
 
