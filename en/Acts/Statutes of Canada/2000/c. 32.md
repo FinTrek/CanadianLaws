@@ -10371,6 +10371,13 @@ In Riding Mountain National Park of Canada, the following described area:
 All that parcel of land shown as Mount Agassiz Ski Resort on Plan 64217 in the Canada Lands Surveys Records at Ottawa, a copy of which is filed in the Land Titles Office in Neepawa as 6406, said parcel containing 141.64 hectares, more or less.
 
 
-> 2000, c. 32, Sch. 5; 2013, c. 28, s. 15; 2019, c. 29, s. 332.
+
+### Sunshine Village Ski Area
+
+In Banff National Park of Canada, the following described area:
+
+The whole of parcel JT and avalanche areas 1 and 2 and the fibre optic right-of-way as shown on Plans 107995, 107996 and 108040 in the Canada Lands Surveys Records at Ottawa, copies of which have been deposited in the Alberta Land Titles Office in Calgary under numbers 1910580, 1910581 and 1910678, said parcel, areas and right-of-way containing 1062 hectares, more or less.
+
+> 2000, c. 32, Sch. 5; 2013, c. 28, s. 15; 2019, c. 29, s. 332; SOR/2019-255, s. 1.
 
 
