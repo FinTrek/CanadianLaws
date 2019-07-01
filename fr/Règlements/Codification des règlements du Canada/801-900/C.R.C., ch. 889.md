@@ -1238,6 +1238,15 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 ### **ANNEXE 3** 
 **(paragraphe 5(2))**
 ## Grades des grains
+
+**Arrondissement**
+
+**1** Aux fins de la détermination des caractéristiques des grains, toute valeur calculée à l’égard d’un critère prévu à la présente annexe doit :
+- **a)** si le critère est exprimé par un nombre entier, être arrondie au nombre entier le plus proche et, en cas d’équidistance entre deux nombres entiers, au nombre entier supérieur;
+- **b)** si le critère est exprimé par un nombre décimal comportant une seule décimale, être arrondie au dixième le plus proche et, en cas d’équidistance entre deux dixièmes, au dixième supérieur;
+- **c)** si le critère est exprimé par un nombre décimal comportant deux décimales, être arrondie au centième le plus proche et, en cas d’équidistance entre deux centièmes, au centième supérieur.
+
+
 #### TABLEAU 1
 <table>
 <h4>Blé roux de printemps, Ouest canadien (CWRS)</h4>
@@ -3734,59 +3743,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-#### TABLEAU 38
-<table>
-<h4>Blé rouge, Est canadien (CER)</h4>
-<tr>
-<th>Nom de grade</th>
-<th>Norme de qualité</th>
-<th>Limites maximales</th>
-</tr>
-<tr>
-<th>Poids spécifique minimum</th>
-<th>Variété</th>
-<th>Condition</th>
-<th>Matières étrangères</th>
-<th>Classes contrastantes</th>
-</tr>
-<tr>
-<th>Matières autres que des céréales</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hl</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>CER n<sup>o</sup> 1</td>
-<td>75</td>
-<td>Toute variété de blé rouge enregistrée autre que la classe fourragère</td>
-<td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
-<td>0,2</td>
-<td>0,75</td>
-<td>1</td>
-</tr>
-<tr>
-<td>CER n<sup>o</sup> 2</td>
-<td>72</td>
-<td>Toute variété de blé rouge enregistrée autre que la classe fourragère</td>
-<td>Passablement bien mûri, raisonnablement exempt de grains fortement endommagés</td>
-<td>0,3</td>
-<td>1,5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>CER n<sup>o</sup> 3</td>
-<td>69</td>
-<td>Toute variété de blé rouge enregistrée autre que la classe fourragère</td>
-<td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
-<td>0,5</td>
-<td>3,5</td>
-<td>5</td>
-</tr>
-</table>
+
+**TABLEAU 38** 
+## [Abrogé, DORS/2019-211, art. 26]
 
 #### TABLEAU 39
 <table>
@@ -3819,7 +3778,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CERS désignée comme telle par arrêté de la Commission</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>1</td>
 </tr>
 <tr>
@@ -3839,6 +3798,15 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>0,5</td>
 <td>3,5</td>
 <td>5</td>
+</tr>
+<tr>
+<td>CERS n<sup>o</sup> 4</td>
+<td>65</td>
+<td>Toute variété de la classe CERS désignée comme telle par arrêté de la Commission</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CEOW ou d’un mélange des deux</td>
 </tr>
 </table>
 
@@ -3873,7 +3841,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CEHRW désignée comme telle par arrêté de la Commission</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>1</td>
 </tr>
 <tr>
@@ -3893,6 +3861,15 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>0,5</td>
 <td>3,5</td>
 <td>5</td>
+</tr>
+<tr>
+<td>CEHRW n<sup>o</sup> 4</td>
+<td>65</td>
+<td>Toute variété de la classe CEHRW désignée comme telle par arrêté de la Commission</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CEOW ou d’un mélange des deux</td>
 </tr>
 </table>
 
@@ -3927,7 +3904,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CESRW désignée comme telle par arrêté de la Commission</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>1</td>
 </tr>
 <tr>
@@ -3947,6 +3924,15 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>0,5</td>
 <td>3,5</td>
 <td>5</td>
+</tr>
+<tr>
+<td>CESRW n<sup>o</sup> 4</td>
+<td>65</td>
+<td>Toute variété de la classe CESRW désignée comme telle par arrêté de la Commission</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CEOW ou d’un mélange des deux</td>
 </tr>
 </table>
 
@@ -3984,7 +3970,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CEWW désignée comme telle par arrêté de la Commission</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
-<td>1</td>
+<td>1,0</td>
 <td>1</td>
 <td>5</td>
 </tr>
@@ -3994,7 +3980,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CEWW désignée comme telle par arrêté de la Commission</td>
 <td>Passablement bien mûri, peut être modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
-<td>2</td>
+<td>2,0</td>
 <td>2</td>
 <td>6</td>
 </tr>
@@ -4004,65 +3990,25 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CEWW désignée comme telle par arrêté de la Commission</td>
 <td>Peut être immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,5</td>
-<td>3</td>
+<td>3,0</td>
 <td>3</td>
 <td>10</td>
+</tr>
+<tr>
+<td>CEWW n<sup>o</sup> 4</td>
+<td>65</td>
+<td>Toute variété de la classe CEWW désignée comme telle par arrêté de la Commission</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10 % de blé dur ambré ou de blé autre (CEOW) ou d’un mélange des deux</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CEOW ou d’un mélange des deux</td>
 </tr>
 </table>
 
-#### TABLEAU 43
-<table>
-<h4>Blé tendre blanc de printemps, Est canadien (CESWS)</h4>
-<tr>
-<th>Nom de grade</th>
-<th>Norme de qualité</th>
-<th>Limites maximales</th>
-</tr>
-<tr>
-<th>Poids spécifique minimum</th>
-<th>Variété</th>
-<th>Condition</th>
-<th>Matières étrangères</th>
-<th>Blé d’autres classes</th>
-</tr>
-<tr>
-<th>Matières autres que des céréales</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hl</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>CESWS n<sup>o</sup> 1</td>
-<td>78</td>
-<td>Toute variété de la classe CESWS désignée comme telle par arrêté de la Commission</td>
-<td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
-<td>0,2</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>CESWS n<sup>o</sup> 2</td>
-<td>74</td>
-<td>Toute variété de la classe CESWS désignée comme telle par arrêté de la Commission</td>
-<td>Passablement bien mûri, peut être modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
-<td>0,3</td>
-<td>2</td>
-<td>6</td>
-</tr>
-<tr>
-<td>CESWS n<sup>o</sup> 3</td>
-<td>69</td>
-<td>Toute variété de la classe CESWS désignée comme telle par arrêté de la Commission</td>
-<td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
-<td>0,5</td>
-<td>3</td>
-<td>10</td>
-</tr>
-</table>
+
+**TABLEAU 43** 
+## [Abrogé, DORS/2019-211, art. 26]
 
 #### TABLEAU 44
 <table>
@@ -4093,7 +4039,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Fourrager EC</td>
 <td>65</td>
 <td>Toute classe ou variété de blé autre que le blé dur ambré</td>
-<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>Odeur raisonnablement agréable, peut être immature ou abîmé par les intempéries</td>
 <td>1</td>
 <td>10</td>
 <td>10</td>
@@ -4136,10 +4082,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>EC n<sup>o</sup> 1</td>
 <td>51</td>
 <td>Bonne couleur naturelle, 98 % de gruau sain</td>
-<td>Aucune</td>
+<td>0,0</td>
 <td>2</td>
-<td>0,75</td>
-<td>0,75</td>
+<td>0,8</td>
+<td>0,8</td>
 <td>1</td>
 <td>2</td>
 </tr>
@@ -4160,8 +4106,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Couleur passable, 94 % de gruau sain</td>
 <td>0,5</td>
 <td>6</td>
-<td>3</td>
-<td>3</td>
+<td>3,0</td>
+<td>3,0</td>
 <td>3</td>
 <td>6</td>
 </tr>
@@ -4169,12 +4115,12 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>EC n<sup>o</sup> 4</td>
 <td>43</td>
 <td>Couleur médiocre, 92 % de gruau sain</td>
-<td>1</td>
+<td>1,0</td>
+<td>8 exclut la gelée</td>
+<td>8,0</td>
+<td>8,0</td>
 <td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
+<td>8 exclut la gelée</td>
 </tr>
 </table>
 
@@ -4278,7 +4224,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Odeur raisonnablement agréable, peut être atteinte par la gelée, tachée par les intempéries ou autrement endommagée</td>
 <td>0,2</td>
 <td>2,5</td>
-<td>1</td>
+<td>1,0</td>
 <td>2,5</td>
 </tr>
 <tr>
@@ -4286,9 +4232,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>54</td>
 <td>Odeur passablement agréable, exclue des autres grades en raison de grains immatures ou fortement endommagés</td>
 <td>0,2</td>
-<td>8</td>
+<td>8,0</td>
 <td>2,5</td>
-<td>10</td>
+<td>10,0</td>
 </tr>
 <tr>
 <td>Grains nus, EC n<sup>o</sup> 1</td>
@@ -4296,7 +4242,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Odeur raisonnablement agréable, peut être atteinte par la gelée, tachée par les intempéries ou autrement endommagée</td>
 <td>0,2</td>
 <td>2,5</td>
-<td>1</td>
+<td>1,0</td>
 <td>2,5</td>
 </tr>
 <tr>
@@ -4304,9 +4250,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>65</td>
 <td>Odeur passablement agréable, exclue des autres grades en raison de grains immatures ou fortement endommagés</td>
 <td>0,2</td>
-<td>8</td>
+<td>8,0</td>
 <td>2,5</td>
-<td>10</td>
+<td>10,0</td>
 </tr>
 </table>
 
@@ -4402,7 +4348,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>EC n<sup>o</sup> 1</td>
 <td>72</td>
 <td>Bien mûri, presque exempt de grains abîmés par les intempéries</td>
-<td>1,5</td>
+<td>2</td>
 <td>0,05</td>
 <td>0,5</td>
 <td>2</td>
@@ -4412,8 +4358,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>69</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains abîmés par les intempéries</td>
 <td>3</td>
-<td>0,2</td>
-<td>1</td>
+<td>0,20</td>
+<td>1,0</td>
 <td>5</td>
 </tr>
 <tr>
@@ -4422,7 +4368,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Exclu des grades supérieurs en raison de grains endommagés</td>
 <td>10</td>
 <td>0,33</td>
-<td>2</td>
+<td>2,0</td>
 <td>10</td>
 </tr>
 </table>
@@ -4455,9 +4401,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>65</td>
 <td>Toute variété de la classe de graine de lin, Est canadien désignée comme telle par arrêté de la Commission</td>
 <td>Mûre, odeur agréable</td>
-<td>Au plus 1 % d’autres graines qui ne sont pas facilement séparées de la graine de lin, à être évaluées comme impuretés</td>
-<td>0,2</td>
-<td>12,5</td>
+<td>Au plus 1,0 % d’autres graines qui ne sont pas facilement séparées de la graine de lin, à être évaluées comme impuretés</td>
+<td>0,1</td>
+<td>13</td>
 </tr>
 <tr>
 <td>EC n<sup>o</sup> 2</td>
@@ -4465,7 +4411,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe de graine de lin, Est canadien désignée comme telle par arrêté de la Commission</td>
 <td>Raisonnablement bien mûrie, odeur agréable</td>
 <td>Au plus 1,5 % d’autres graines qui ne sont pas facilement séparées de la graine de lin, à être évaluées comme impuretés</td>
-<td>0,5</td>
+<td>0,2</td>
 <td>25</td>
 </tr>
 <tr>
@@ -4473,8 +4419,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Aucun minimum</td>
 <td>Toute variété de graine de lin</td>
 <td>Exclue des grades supérieurs en raison du poids léger ou de graines endommagées, peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur nettement sure, rance ou de moisi, ni d’odeur qui révèle une forte détérioration</td>
-<td>Au plus 2 % d’autres graines qui ne sont pas facilement séparées de la graine de lin, à être évaluées comme impuretés</td>
-<td>10</td>
+<td>Au plus 2,0 % d’autres graines qui ne sont pas facilement séparées de la graine de lin, à être évaluées comme impuretés</td>
+<td>10,0</td>
 <td>Aucune limite</td>
 </tr>
 </table>
@@ -4574,7 +4520,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>EC n<sup>o</sup> 4</td>
 <td>62</td>
 <td>Frais, odeur agréable</td>
-<td>1</td>
+<td>1,0</td>
 <td>10</td>
 <td>7</td>
 </tr>
@@ -4582,7 +4528,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>EC n<sup>o</sup> 5</td>
 <td>58</td>
 <td>Peut avoir une légère odeur, mais aucune odeur sure ou de moisi</td>
-<td>3</td>
+<td>3,0</td>
 <td>15</td>
 <td>12</td>
 </tr>
@@ -4680,7 +4626,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de grains vitreux durs</th>
+<th>Minimum de grains vitreux durs</th>
 <th>Condition</th>
 <th>Matières étrangères</th>
 <th>Blé d’autres classes ou variétés</th>
@@ -4693,6 +4639,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <th>kg/hl</th>
+<th>%</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4714,10 +4661,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>77</td>
 <td>Toute variété de la classe CEAD désignée comme telle par arrêté de la Commission</td>
 <td>60</td>
-<td>Raisonnablement bien mûri, raisonnablement exempt de grains fortement</td>
+<td>Raisonnablement bien mûri, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
 <td>1,5</td>
-<td>3,5</td>
+<td>4</td>
 <td>10</td>
 </tr>
 <tr>
@@ -4727,18 +4674,18 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>40</td>
 <td>Passablement bien mûri, peut être modérément abîmé par les intempéries ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,5</td>
-<td>2</td>
+<td>2,0</td>
 <td>5</td>
 <td>15</td>
 </tr>
 <tr>
-<td>Blé dur fourrager EC</td>
+<td>CEAD n<sup>o</sup> 4</td>
 <td>65</td>
 <td>Toute variété de blé dur ambré</td>
 <td>Aucun minimum</td>
-<td>Odeur raisonnablement agréable, exclu des grades supérieurs en raison du poids léger ou des grains endommagés</td>
-<td>1</td>
-<td>10</td>
+<td>Odeur raisonnablement agréable, exclu des grades supérieurs en raison du poids léger ou de grains endommagés</td>
+<td>1,0</td>
+<td>10,0</td>
 <td>49</td>
 <td>Aucune limite</td>
 </tr>
@@ -4831,17 +4778,19 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 
 #### TABLEAU 57
 <table>
-<h4>Blé de force blanc de printemps, Est canadien (CEHWS)</h4>
+<h4>Blé autre, Est canadien (CEOW)</h4>
 <tr>
 <th>Nom de grade</th>
 <th>Norme de qualité</th>
-<th>Limites maximales de matières étrangères</th>
-<th>Classes contrastantes</th>
+<th>Limites maximales des matières étrangères</th>
 </tr>
 <tr>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
 <th>Condition</th>
+<th></th>
+</tr>
+<tr>
 <th>Matières autres que des céréales</th>
 <th>Total</th>
 </tr>
@@ -4849,34 +4798,30 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>kg/hl</th>
 <th>%</th>
 <th>%</th>
-<th>%</th>
 </tr>
 <tr>
-<td>CEHWS n<sup>o</sup> 1</td>
-<td>75</td>
-<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission</td>
-<td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
-<td>0,2</td>
-<td>0,75</td>
-<td>1</td>
-</tr>
-<tr>
-<td>CEHWS n<sup>o</sup> 2</td>
-<td>72</td>
-<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission</td>
+<td>CEOW n<sup>o</sup> 1</td>
+<td>74</td>
+<td>Toute variété de la classe CEOW désignée comme telle par arrêté de la Commission</td>
 <td>Passablement bien mûri, peut être modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
-<td>1,50</td>
-<td>3</td>
+<td>1,5</td>
 </tr>
 <tr>
-<td>CEHWS n<sup>o</sup> 3</td>
+<td>CEOW n<sup>o</sup> 2</td>
 <td>69</td>
-<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission</td>
+<td>Toute variété de la classe CEOW désignée comme telle par arrêté de la Commission</td>
 <td>Peut être immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,5</td>
-<td>3,50</td>
-<td>5</td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>CEOW n<sup>o</sup> 3</td>
+<td>65</td>
+<td>Toute variété de la classe CEOW désignée comme telle par arrêté de la Commission</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1,0</td>
+<td>10,0</td>
 </tr>
 </table>
 
@@ -4884,59 +4829,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 **TABLEAU 58** 
 ## [Abrogé, DORS/2016-204, art. 12]
 
-#### TABLEAU 59
-<table>
-<h4>Blé de force blanc d’hiver, Est canadien (CEHWW)</h4>
-<tr>
-<th>Nom de grade</th>
-<th>Norme de qualité</th>
-<th>Limites maximales</th>
-</tr>
-<tr>
-<th>Poids spécifique minimum</th>
-<th>Variété</th>
-<th>Condition</th>
-<th>Matières étrangères</th>
-<th>Classes contrastantes</th>
-</tr>
-<tr>
-<th>Matières autres que des céréales</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hl</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>CEHWW n<sup>o</sup> 1</td>
-<td>76</td>
-<td>Toute variété de la classe CEHWW désignée comme telle par arrêté de la Commission</td>
-<td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
-<td>0,2</td>
-<td>0,75</td>
-<td>1</td>
-</tr>
-<tr>
-<td>CEHWW n<sup>o</sup> 2</td>
-<td>74</td>
-<td>Toute variété de la classe CEHWW désignée comme telle par arrêté de la Commission</td>
-<td>Passablement bien mûri, peut être modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
-<td>0,3</td>
-<td>1,5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>CEHWW n<sup>o</sup> 3</td>
-<td>69</td>
-<td>Toute variété de la classe CEHWW désignée comme telle par arrêté de la Commission</td>
-<td>Peut être immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
-<td>0,5</td>
-<td>3,5</td>
-<td>5</td>
-</tr>
-</table>
+
+**TABLEAU 59** 
+## [Abrogé, DORS/2019-211, art. 37]
 
 #### TABLEAU 60
 <table>
@@ -5055,7 +4950,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup> 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1; DORS/2016-204, art. 1 à 13.
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup> 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1; DORS/2016-204, art. 1 à 13; DORS/2019-211, art. 1; DORS/2019-211, art. 26; DORS/2019-211, art. 27; DORS/2019-211, art. 28; DORS/2019-211, art. 29; DORS/2019-211, art. 30; DORS/2019-211, art. 31; DORS/2019-211, art. 32; DORS/2019-211, art. 34; DORS/2019-211, art. 36; DORS/2019-211, art. 37.
 
 
 
