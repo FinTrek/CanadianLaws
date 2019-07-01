@@ -6076,6 +6076,14 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>4</td>
 <td>Saskatchewan</td>
 </tr>
+<tr>
+<td>5</td>
+<td>Yukon</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Nunavut</td>
+</tr>
 </table>
 
 
@@ -6124,7 +6132,7 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 
 
 
-> 2018, ch. 12, art. 186 « ann. 1 »; DORS/2018-212; DORS/2019-79, art. 1.
+> 2018, ch. 12, art. 186 « ann. 1 »; DORS/2018-212; DORS/2019-79, art. 1; DORS/2019-79, art. 2.
 
 
 
@@ -6177,6 +6185,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0498</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>2</td>
 <td>carburéacteur</td>
 <td>$/litre</td>
@@ -6204,6 +6224,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0516</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>3</td>
 <td>butane</td>
 <td>$/litre</td>
@@ -6226,6 +6258,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0356</td>
@@ -6258,6 +6302,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0204</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
 <td>5</td>
 <td>liquides de gaz</td>
 <td>$/litre</td>
@@ -6280,6 +6336,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0333</td>
@@ -6312,6 +6380,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0442</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
 <td>7</td>
 <td>mazout lourd</td>
 <td>$/litre</td>
@@ -6334,6 +6414,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0637</td>
@@ -6366,6 +6458,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0516</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
 <td>9</td>
 <td>mazout léger</td>
 <td>$/litre</td>
@@ -6388,6 +6492,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0537</td>
@@ -6420,6 +6536,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0220</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
 <td>11</td>
 <td>naphta</td>
 <td>$/litre</td>
@@ -6442,6 +6570,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0451</td>
@@ -6474,6 +6614,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0767</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
 <td>13</td>
 <td>pentanes plus</td>
 <td>$/litre</td>
@@ -6496,6 +6648,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0356</td>
@@ -6528,6 +6692,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0310</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
 <td>15</td>
 <td>gaz de four à coke</td>
 <td>$/mètre cube</td>
@@ -6550,6 +6726,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0140</td>
@@ -6582,6 +6770,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0391</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
 <td>17</td>
 <td>gaz naturel non commercialisable</td>
 <td>$/mètre cube</td>
@@ -6604,6 +6804,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0517</td>
@@ -6636,6 +6848,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0540</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
 <td>19</td>
 <td>coke</td>
 <td>$/tonne</td>
@@ -6658,6 +6882,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>63,59</td>
@@ -6690,6 +6926,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>45,03</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
 <td>21</td>
 <td>charbon à pouvoir calorifique inférieur</td>
 <td>$/tonne</td>
@@ -6717,6 +6965,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>35,45</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
 <td>22</td>
 <td>déchet combustible</td>
 <td>$/tonne</td>
@@ -6739,6 +6999,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>39,95</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>39,95</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>39,95</td>
@@ -6790,6 +7062,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0747</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>2</td>
 <td>carburéacteur</td>
 <td>$/litre</td>
@@ -6817,6 +7101,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0775</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>3</td>
 <td>butane</td>
 <td>$/litre</td>
@@ -6839,6 +7135,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0534</td>
@@ -6871,6 +7179,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0306</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
 <td>5</td>
 <td>liquides de gaz</td>
 <td>$/litre</td>
@@ -6893,6 +7213,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0499</td>
@@ -6925,6 +7257,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0663</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
 <td>7</td>
 <td>mazout lourd</td>
 <td>$/litre</td>
@@ -6947,6 +7291,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0956</td>
@@ -6979,6 +7335,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0775</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
 <td>9</td>
 <td>mazout léger</td>
 <td>$/litre</td>
@@ -7001,6 +7369,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0805</td>
@@ -7033,6 +7413,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0329</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
 <td>11</td>
 <td>naphta</td>
 <td>$/litre</td>
@@ -7055,6 +7447,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0676</td>
@@ -7087,6 +7491,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1151</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
 <td>13</td>
 <td>pentanes plus</td>
 <td>$/litre</td>
@@ -7109,6 +7525,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0534</td>
@@ -7141,6 +7569,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0464</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
 <td>15</td>
 <td>gaz de four à coke</td>
 <td>$/mètre cube</td>
@@ -7163,6 +7603,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0210</td>
@@ -7195,6 +7647,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0587</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
 <td>17</td>
 <td>gaz naturel non commercialisable</td>
 <td>$/mètre cube</td>
@@ -7217,6 +7681,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0776</td>
@@ -7249,6 +7725,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0810</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
 <td>19</td>
 <td>coke</td>
 <td>$/tonne</td>
@@ -7271,6 +7759,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>95,39</td>
@@ -7303,6 +7803,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>67,55</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
 <td>21</td>
 <td>charbon à pouvoir calorifique inférieur</td>
 <td>$/tonne</td>
@@ -7330,6 +7842,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>53,17</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
 <td>22</td>
 <td>déchet combustible</td>
 <td>$/tonne</td>
@@ -7352,6 +7876,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>59,92</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>59,92</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>59,92</td>
@@ -7403,6 +7939,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0995</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>2</td>
 <td>carburéacteur</td>
 <td>$/litre</td>
@@ -7430,6 +7978,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1033</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>3</td>
 <td>butane</td>
 <td>$/litre</td>
@@ -7452,6 +8012,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0712</td>
@@ -7484,6 +8056,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0408</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
 <td>5</td>
 <td>liquides de gaz</td>
 <td>$/litre</td>
@@ -7506,6 +8090,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0666</td>
@@ -7538,6 +8134,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0884</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
 <td>7</td>
 <td>mazout lourd</td>
 <td>$/litre</td>
@@ -7560,6 +8168,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,1275</td>
@@ -7592,6 +8212,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1033</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
 <td>9</td>
 <td>mazout léger</td>
 <td>$/litre</td>
@@ -7614,6 +8246,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,1073</td>
@@ -7646,6 +8290,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0439</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
 <td>11</td>
 <td>naphta</td>
 <td>$/litre</td>
@@ -7668,6 +8324,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0902</td>
@@ -7700,6 +8368,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1535</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
 <td>13</td>
 <td>pentanes plus</td>
 <td>$/litre</td>
@@ -7722,6 +8402,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0712</td>
@@ -7754,6 +8446,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0619</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
 <td>15</td>
 <td>gaz de four à coke</td>
 <td>$/mètre cube</td>
@@ -7776,6 +8480,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0280</td>
@@ -7808,6 +8524,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0783</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
 <td>17</td>
 <td>gaz naturel non commercialisable</td>
 <td>$/mètre cube</td>
@@ -7830,6 +8558,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,1034</td>
@@ -7862,6 +8602,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1080</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
 <td>19</td>
 <td>coke</td>
 <td>$/tonne</td>
@@ -7884,6 +8636,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>127,19</td>
@@ -7916,6 +8680,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>90,07</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
 <td>21</td>
 <td>charbon à pouvoir calorifique inférieur</td>
 <td>$/tonne</td>
@@ -7943,6 +8719,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>70,90</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
 <td>22</td>
 <td>déchet combustible</td>
 <td>$/tonne</td>
@@ -7965,6 +8753,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>79,89</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>79,89</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>79,89</td>
@@ -8016,6 +8816,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1244</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>2</td>
 <td>carburéacteur</td>
 <td>$/litre</td>
@@ -8043,6 +8855,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1291</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>3</td>
 <td>butane</td>
 <td>$/litre</td>
@@ -8065,6 +8889,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0890</td>
@@ -8097,6 +8933,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0509</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
 <td>5</td>
 <td>liquides de gaz</td>
 <td>$/litre</td>
@@ -8119,6 +8967,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0832</td>
@@ -8151,6 +9011,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1105</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
 <td>7</td>
 <td>mazout lourd</td>
 <td>$/litre</td>
@@ -8173,6 +9045,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,1593</td>
@@ -8205,6 +9089,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1291</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
 <td>9</td>
 <td>mazout léger</td>
 <td>$/litre</td>
@@ -8227,6 +9123,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,1341</td>
@@ -8259,6 +9167,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0549</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
 <td>11</td>
 <td>naphta</td>
 <td>$/litre</td>
@@ -8281,6 +9201,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,1127</td>
@@ -8313,6 +9245,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1919</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
 <td>13</td>
 <td>pentanes plus</td>
 <td>$/litre</td>
@@ -8335,6 +9279,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0890</td>
@@ -8367,6 +9323,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0774</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
 <td>15</td>
 <td>gaz de four à coke</td>
 <td>$/mètre cube</td>
@@ -8389,6 +9357,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,0350</td>
@@ -8421,6 +9401,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,0979</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
 <td>17</td>
 <td>gaz naturel non commercialisable</td>
 <td>$/mètre cube</td>
@@ -8443,6 +9435,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>0,1293</td>
@@ -8475,6 +9479,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>0,1350</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
 <td>19</td>
 <td>coke</td>
 <td>$/tonne</td>
@@ -8497,6 +9513,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>158,99</td>
@@ -8529,6 +9557,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>112,58</td>
 </tr>
 <tr>
+<td>**e)** Yukon
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
 <td>21</td>
 <td>charbon à pouvoir calorifique inférieur</td>
 <td>$/tonne</td>
@@ -8551,6 +9591,18 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </tr>
 <tr>
 <td>**d)** Saskatchewan
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
 
 </td>
 <td>88,62</td>
@@ -8582,12 +9634,24 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 </td>
 <td>99,87</td>
 </tr>
+<tr>
+<td>**e)** Yukon
+
+</td>
+<td>99,87</td>
+</tr>
+<tr>
+<td>**f)** Nunavut
+
+</td>
+<td>99,87</td>
+</tr>
 </table>
 
 **TABLEAU 5** [Abrogé, DORS/2019-79, art. 3]
 
 
-> 2018, ch. 12, art. 186 « ann. 2 »; DORS/2019-79, art. 3.
+> 2018, ch. 12, art. 186 « ann. 2 »; DORS/2019-79, art. 3; DORS/2019-79, art. 4.
 
 
 
