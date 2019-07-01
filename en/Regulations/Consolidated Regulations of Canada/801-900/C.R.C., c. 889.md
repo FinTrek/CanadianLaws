@@ -1238,6 +1238,15 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 ### **SCHEDULE 3** 
 **(Subsection 5(2))**
 ## Grades of Grain
+
+**Rounding**
+
+**1** For the purpose of determining the characteristics of a grain, any value that is calculated in relation to a criterion set out in this schedule shall be:
+- **(a)** if the criterion is expressed as a whole number, rounded to the nearest whole number or, if the value is equidistant between two whole numbers, rounded up to the nearest whole number;
+- **(b)** if the criterion is expressed as a decimal in tenths of a whole number, rounded to the nearest tenth of a whole number, or if the value is equidistant between two consecutive tenths, rounded up to the nearest tenth of a whole number; and
+- **(c)** if the criterion is expressed as a decimal in hundredths of a whole number, rounded to the nearest hundredth of a whole number, or if the value is equidistant between two consecutive hundredths, rounded up to the nearest hundredth of a whole number.
+
+
 #### TABLE 1
 <table>
 <h4>Wheat, Canada Western Red Spring (CWRS)</h4>
@@ -3716,59 +3725,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 </table>
 
-#### TABLE 38
-<table>
-<h4>Wheat, Canada Eastern Red (CER)</h4>
-<tr>
-<th>Grade Name</th>
-<th>Standard of Quality</th>
-<th>Maximum Limits of</th>
-</tr>
-<tr>
-<th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
-<th>Foreign Material</th>
-<th>Contrasting Classes</th>
-</tr>
-<tr>
-<th>Matter Other Than Cereal Grains</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hL</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>No. 1 CER</td>
-<td>75</td>
-<td>Any registered variety of red wheat excluding Feed class</td>
-<td>Reasonably well matured, reasonably free from damaged kernels</td>
-<td>0.2</td>
-<td>0.75</td>
-<td>1</td>
-</tr>
-<tr>
-<td>No. 2 CER</td>
-<td>72</td>
-<td>Any registered variety of red wheat excluding Feed class</td>
-<td>Fairly well matured, reasonably free from severely damaged kernels</td>
-<td>0.3</td>
-<td>1.5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>No. 3 CER</td>
-<td>69</td>
-<td>Any registered variety of red wheat excluding Feed class</td>
-<td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
-<td>0.5</td>
-<td>3.5</td>
-<td>5</td>
-</tr>
-</table>
+
+**TABLE 38** 
+## [Repealed, SOR/2019-211, s. 26]
 
 #### TABLE 39
 <table>
@@ -3801,7 +3760,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CERS designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>1</td>
 </tr>
 <tr>
@@ -3821,6 +3780,15 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.5</td>
 <td>3.5</td>
 <td>5</td>
+</tr>
+<tr>
+<td>No. 4 CERS</td>
+<td>65</td>
+<td>Any variety of the class CERS designated as such by order of the Commission</td>
+<td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10%, either alone or in combination with each other, amber durum and any variety of the class CEOW</td>
 </tr>
 </table>
 
@@ -3855,7 +3823,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CEHRW designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>1</td>
 </tr>
 <tr>
@@ -3875,6 +3843,15 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.5</td>
 <td>3.5</td>
 <td>5</td>
+</tr>
+<tr>
+<td>No. 4 CEHRW</td>
+<td>65</td>
+<td>Any variety of the class CEHRW designated as such by order of the Commission</td>
+<td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10%, either alone or in combination with each other, amber durum and any variety of the class CEOW</td>
 </tr>
 </table>
 
@@ -3909,7 +3886,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CESRW designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>1</td>
 </tr>
 <tr>
@@ -3929,6 +3906,15 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.5</td>
 <td>3.5</td>
 <td>5</td>
+</tr>
+<tr>
+<td>No. 4 CESRW</td>
+<td>65</td>
+<td>Any variety of the class CESRW designated as such by order of the Commission</td>
+<td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10%, either alone or in combination with each other, amber durum and any variety of the class CEOW</td>
 </tr>
 </table>
 
@@ -3966,7 +3952,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CEWW designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>1</td>
+<td>1.0</td>
 <td>1</td>
 <td>5</td>
 </tr>
@@ -3976,7 +3962,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CEWW designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
-<td>2</td>
+<td>2.0</td>
 <td>2</td>
 <td>6</td>
 </tr>
@@ -3986,65 +3972,25 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CEWW designated as such by order of the Commission</td>
 <td>May be immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
-<td>3</td>
+<td>3.0</td>
 <td>3</td>
 <td>10</td>
+</tr>
+<tr>
+<td>No. 4 CEWW</td>
+<td>65</td>
+<td>Any variety of the class CEWW designated as such by order of the Commission</td>
+<td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10%, either alone or in combination with each other, amber durum and any variety of the class CEOW</td>
+<td>10%, either alone or in combination with each other, amber durum and any variety of the class CEOW</td>
 </tr>
 </table>
 
-#### TABLE 43
-<table>
-<h4>Wheat, Canada Eastern Soft White Spring (CESWS)</h4>
-<tr>
-<th>Grade Name</th>
-<th>Standard of Quality</th>
-<th>Maximum Limits of</th>
-</tr>
-<tr>
-<th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
-<th>Foreign Material</th>
-<th>Wheats of Other Classes</th>
-</tr>
-<tr>
-<th>Matter Other Than Cereal Grains</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hL</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>No. 1 CESWS</td>
-<td>78</td>
-<td>Any variety of the class CESWS designated as such by order of the Commission</td>
-<td>Reasonably well matured, reasonably free from damaged kernels</td>
-<td>0.2</td>
-<td>1.0</td>
-<td>3</td>
-</tr>
-<tr>
-<td>No. 2 CESWS</td>
-<td>74</td>
-<td>Any variety of the class CESWS designated as such by order of the Commission</td>
-<td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
-<td>0.3</td>
-<td>2.0</td>
-<td>6</td>
-</tr>
-<tr>
-<td>No. 3 CESWS</td>
-<td>69</td>
-<td>Any variety of the class CESWS designated as such by order of the Commission</td>
-<td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
-<td>0.5</td>
-<td>3.0</td>
-<td>10</td>
-</tr>
-</table>
+
+**TABLE 43** 
+## [Repealed, SOR/2019-211, s. 26]
 
 #### TABLE 44
 <table>
@@ -4075,7 +4021,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>CE Feed</td>
 <td>65</td>
 <td>Any class or variety of wheat excluding amber durum</td>
-<td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
+<td>Reasonably sweet, may be immature or weather damaged</td>
 <td>1</td>
 <td>10</td>
 <td>10</td>
@@ -4117,10 +4063,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 CE</td>
 <td>51</td>
 <td>Good natural colour, 98% sound groats</td>
-<td>Nil</td>
+<td>0.0</td>
 <td>2</td>
-<td>0.75</td>
-<td>0.75</td>
+<td>0.8</td>
+<td>0.8</td>
 <td>1</td>
 <td>2</td>
 </tr>
@@ -4141,8 +4087,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Fair colour, 94% sound groats</td>
 <td>0.5</td>
 <td>6</td>
-<td>3</td>
-<td>3</td>
+<td>3.0</td>
+<td>3.0</td>
 <td>3</td>
 <td>6</td>
 </tr>
@@ -4150,12 +4096,12 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 4 CE</td>
 <td>43</td>
 <td>Poor colour, 92% sound groats</td>
-<td>1</td>
+<td>1.0</td>
+<td>8, excluding frost</td>
+<td>8.0</td>
+<td>8.0</td>
 <td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
+<td>8, excluding frost</td>
 </tr>
 </table>
 
@@ -4258,7 +4204,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Reasonably sweet, may be frost-damaged, weather-stained or otherwise damaged</td>
 <td>0.2</td>
 <td>2.5</td>
-<td>1</td>
+<td>1.0</td>
 <td>2.5</td>
 </tr>
 <tr>
@@ -4266,9 +4212,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>54</td>
 <td>Fairly sweet, excluded from other grades of barley on account of immature or severely damaged kernels</td>
 <td>0.2</td>
-<td>8</td>
+<td>8.0</td>
 <td>2.5</td>
-<td>10</td>
+<td>10.0</td>
 </tr>
 <tr>
 <td>No. 1 CE Hulless</td>
@@ -4276,7 +4222,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Reasonably sweet, may be frost-damaged, weather-stained or otherwise damaged</td>
 <td>0.2</td>
 <td>2.5</td>
-<td>1</td>
+<td>1.0</td>
 <td>2.5</td>
 </tr>
 <tr>
@@ -4284,9 +4230,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>65</td>
 <td>Fairly sweet, excluded from other grades of barley on account of immature or severely damaged kernels</td>
 <td>0.2</td>
-<td>8</td>
+<td>8.0</td>
 <td>2.5</td>
-<td>10</td>
+<td>10.0</td>
 </tr>
 </table>
 
@@ -4381,7 +4327,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 CE</td>
 <td>72</td>
 <td>Well matured, practically free from weather-damaged kernels</td>
-<td>1.5</td>
+<td>2</td>
 <td>0.05</td>
 <td>0.5</td>
 <td>2</td>
@@ -4391,8 +4337,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>69</td>
 <td>Reasonably well matured, reasonably free from weather-damaged kernels</td>
 <td>3</td>
-<td>0.2</td>
-<td>1</td>
+<td>0.20</td>
+<td>1.0</td>
 <td>5</td>
 </tr>
 <tr>
@@ -4401,7 +4347,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Excluded from higher grades on account of damaged kernels</td>
 <td>10</td>
 <td>0.33</td>
-<td>2</td>
+<td>2.0</td>
 <td>10</td>
 </tr>
 </table>
@@ -4434,9 +4380,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>65</td>
 <td>Any variety of the class Flaxseed, Canada Eastern designated as such by order of the Commission</td>
 <td>Mature and sweet</td>
-<td>Not more than 1% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
-<td>0.2</td>
-<td>12.5</td>
+<td>Not more than 1.0% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>0.1</td>
+<td>13</td>
 </tr>
 <tr>
 <td>No. 2 CE</td>
@@ -4444,7 +4390,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class Flaxseed, Canada Eastern designated as such by order of the Commission</td>
 <td>Reasonably well matured and sweet</td>
 <td>Not more than 1.5% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
-<td>0.5</td>
+<td>0.2</td>
 <td>25</td>
 </tr>
 <tr>
@@ -4452,8 +4398,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No minimum</td>
 <td>Any variety of flaxseed</td>
 <td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low-quality seed, not distinctly sour, musty or rancid, or any odour that would indicate serious deterioration</td>
-<td>Not more than 2% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
-<td>10</td>
+<td>Not more than 2.0% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>10.0</td>
 <td>No limit</td>
 </tr>
 </table>
@@ -4553,7 +4499,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 4 CE</td>
 <td>62</td>
 <td>Cool and sweet</td>
-<td>1</td>
+<td>1.0</td>
 <td>10</td>
 <td>7</td>
 </tr>
@@ -4561,7 +4507,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 5 CE</td>
 <td>58</td>
 <td>May have a slight odour, not sour or musty</td>
-<td>3</td>
+<td>3.0</td>
 <td>15</td>
 <td>12</td>
 </tr>
@@ -4698,7 +4644,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Reasonably well matured, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>3.5</td>
+<td>4</td>
 <td>10</td>
 </tr>
 <tr>
@@ -4708,18 +4654,18 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>40</td>
 <td>Fairly well matured, may be moderately weather-damaged or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.5</td>
-<td>2</td>
+<td>2.0</td>
 <td>5</td>
 <td>15</td>
 </tr>
 <tr>
-<td>CE Feed Durum</td>
+<td>No. 4 CEAD</td>
 <td>65</td>
 <td>Any variety of amber durum wheat</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from higher grades on account of light weight or damaged kernels</td>
-<td>1</td>
-<td>10</td>
+<td>1.0</td>
+<td>10.0</td>
 <td>49</td>
 <td>No limit</td>
 </tr>
@@ -4813,17 +4759,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 
 #### TABLE 57
 <table>
-<h4>Wheat, Canada Eastern Hard White Spring (CEHWS)</h4>
+<h4>Wheat, Canada Eastern Other Wheats (CEOW)</h4>
 <tr>
 <th>Grade Name</th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of Foreign Material</th>
-<th>Contrasting Classes</th>
 </tr>
 <tr>
 <th>Minimum Test Weight</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
+<th></th>
+</tr>
+<tr>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 </tr>
@@ -4831,34 +4779,30 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>kg/hL</th>
 <th>%</th>
 <th>%</th>
-<th>%</th>
 </tr>
 <tr>
-<td>No. 1 CEHWS</td>
-<td>75</td>
-<td>Any variety of the class CEHWS designated as such by order of the Commission</td>
-<td>Reasonably well matured, reasonably free from damaged kernels</td>
-<td>0.2</td>
-<td>0.75</td>
-<td>1</td>
-</tr>
-<tr>
-<td>No. 2 CEHWS</td>
-<td>72</td>
-<td>Any variety of the class CEWHS designated as such by order of the Commission</td>
+<td>No. 1 CEOW</td>
+<td>74</td>
+<td>Any variety of the class CEOW designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>3</td>
 </tr>
 <tr>
-<td>No. 3 CEHWS</td>
+<td>No. 2 CEOW</td>
 <td>69</td>
-<td>Any variety of the class CEHWS designated as such by order of the Commission</td>
+<td>Any variety of the class CEOW designated as such by order of the Commission</td>
 <td>May be immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>5</td>
+</tr>
+<tr>
+<td>No. 3 CEOW</td>
+<td>65</td>
+<td>Any variety of the class CEOW designated as such by order of the Commission</td>
+<td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
+<td>1.0</td>
+<td>10.0</td>
 </tr>
 </table>
 
@@ -4866,59 +4810,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 **TABLE 58** 
 ## [Repealed, SOR/2016-204, s. 12]
 
-#### TABLE 59
-<table>
-<h4>Wheat, Canada Eastern Hard White Winter (CEHWW)</h4>
-<tr>
-<th>Grade Name</th>
-<th>Standard of Quality</th>
-<th>Maximum Limits of</th>
-</tr>
-<tr>
-<th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
-<th>Foreign Material</th>
-<th>Contrasting Classes</th>
-</tr>
-<tr>
-<th>Matter Other Than Cereal Grains</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hL</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>No. 1 CEHWW</td>
-<td>76</td>
-<td>Any variety of the class CEHWW designated as such by order of the Commission</td>
-<td>Reasonably well matured, reasonably free from damaged kernels</td>
-<td>0.2</td>
-<td>0.75</td>
-<td>1</td>
-</tr>
-<tr>
-<td>No. 2 CEHWW</td>
-<td>74</td>
-<td>Any variety of the class CEHWW designated as such by order of the Commission</td>
-<td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
-<td>0.3</td>
-<td>1.5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>No. 3 CEHWW</td>
-<td>69</td>
-<td>Any variety of the class CEHWW designated as such by order of the Commission</td>
-<td>May be immature or weather-damaged, moderately free from severely damaged kernels</td>
-<td>0.5</td>
-<td>3.5</td>
-<td>5</td>
-</tr>
-</table>
+
+**TABLE 59** 
+## [Repealed, SOR/2019-211, s. 37]
 
 #### TABLE 60
 <table>
@@ -5044,7 +4938,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 </table>
 
-> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1; SOR/2014-150, ss. 1 to 4; SOR/2014-194, s. 1; SOR/2016-204, ss. 1 to 13.
+> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1; SOR/2014-150, ss. 1 to 4; SOR/2014-194, s. 1; SOR/2016-204, ss. 1 to 13; SOR/2019-211, s. 1; SOR/2019-211, s. 26; SOR/2019-211, s. 27; SOR/2019-211, s. 28; SOR/2019-211, s. 29; SOR/2019-211, s. 30; SOR/2019-211, s. 31; SOR/2019-211, s. 32; SOR/2019-211, s. 34; SOR/2019-211, s. 36; SOR/2019-211, s. 37.
 
 
 
