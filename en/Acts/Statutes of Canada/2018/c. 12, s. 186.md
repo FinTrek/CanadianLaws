@@ -6124,6 +6124,14 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>4</td>
 <td>Saskatchewan</td>
 </tr>
+<tr>
+<td>5</td>
+<td>Yukon</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Nunavut</td>
+</tr>
 </table>
 
 
@@ -6172,7 +6180,7 @@ but nothing in this subsection limits the liability of the transferor under this
 
 
 
-> 2018, c. 12, s. 186 “Sch. 1”; SOR/2018-212; SOR/2019-79, s. 1.
+> 2018, c. 12, s. 186 “Sch. 1”; SOR/2018-212; SOR/2019-79, s. 1; SOR/2019-79, s. 2.
 
 
 
@@ -6225,6 +6233,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0498</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>2</td>
 <td>Aviation turbo fuel</td>
 <td>$/litre</td>
@@ -6252,6 +6272,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0516</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Butane</td>
 <td>$/litre</td>
@@ -6274,6 +6306,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0356</td>
@@ -6306,6 +6350,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0204</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0204</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0204</td>
+</tr>
+<tr>
 <td>5</td>
 <td>Gas liquids</td>
 <td>$/litre</td>
@@ -6328,6 +6384,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0333</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0333</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0333</td>
@@ -6360,6 +6428,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0442</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0442</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0442</td>
+</tr>
+<tr>
 <td>7</td>
 <td>Heavy fuel oil</td>
 <td>$/litre</td>
@@ -6382,6 +6462,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0637</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0637</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0637</td>
@@ -6414,6 +6506,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0516</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0516</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0516</td>
+</tr>
+<tr>
 <td>9</td>
 <td>Light fuel oil</td>
 <td>$/litre</td>
@@ -6436,6 +6540,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0537</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0537</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0537</td>
@@ -6468,6 +6584,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0220</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0220</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0220</td>
+</tr>
+<tr>
 <td>11</td>
 <td>Naphtha</td>
 <td>$/litre</td>
@@ -6490,6 +6618,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0451</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0451</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0451</td>
@@ -6522,6 +6662,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0767</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0767</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0767</td>
+</tr>
+<tr>
 <td>13</td>
 <td>Pentanes plus</td>
 <td>$/litre</td>
@@ -6544,6 +6696,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0356</td>
@@ -6576,6 +6740,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0310</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0310</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0310</td>
+</tr>
+<tr>
 <td>15</td>
 <td>Coke oven gas</td>
 <td>$/cubic metre</td>
@@ -6598,6 +6774,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0140</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0140</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0140</td>
@@ -6630,6 +6818,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0391</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0391</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0391</td>
+</tr>
+<tr>
 <td>17</td>
 <td>Non-marketable natural gas</td>
 <td>$/cubic metre</td>
@@ -6652,6 +6852,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0517</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0517</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0517</td>
@@ -6684,6 +6896,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0540</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0540</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0540</td>
+</tr>
+<tr>
 <td>19</td>
 <td>Coke</td>
 <td>$/tonne</td>
@@ -6706,6 +6930,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>63.59</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>63.59</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>63.59</td>
@@ -6738,6 +6974,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>45.03</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>45.03</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>45.03</td>
+</tr>
+<tr>
 <td>21</td>
 <td>Low heat value coal</td>
 <td>$/tonne</td>
@@ -6765,6 +7013,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>35.45</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>35.45</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>35.45</td>
+</tr>
+<tr>
 <td>22</td>
 <td>Combustible waste</td>
 <td>$/tonne</td>
@@ -6787,6 +7047,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>39.95</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>39.95</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>39.95</td>
@@ -6838,6 +7110,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0747</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>2</td>
 <td>Aviation turbo fuel</td>
 <td>$/litre</td>
@@ -6865,6 +7149,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0775</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Butane</td>
 <td>$/litre</td>
@@ -6887,6 +7183,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0534</td>
@@ -6919,6 +7227,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0306</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0306</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0306</td>
+</tr>
+<tr>
 <td>5</td>
 <td>Gas liquids</td>
 <td>$/litre</td>
@@ -6941,6 +7261,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0499</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0499</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0499</td>
@@ -6973,6 +7305,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0663</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0663</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0663</td>
+</tr>
+<tr>
 <td>7</td>
 <td>Heavy fuel oil</td>
 <td>$/litre</td>
@@ -6995,6 +7339,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0956</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0956</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0956</td>
@@ -7027,6 +7383,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0775</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0775</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0775</td>
+</tr>
+<tr>
 <td>9</td>
 <td>Light fuel oil</td>
 <td>$/litre</td>
@@ -7049,6 +7417,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0805</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0805</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0805</td>
@@ -7081,6 +7461,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0329</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0329</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0329</td>
+</tr>
+<tr>
 <td>11</td>
 <td>Naphtha</td>
 <td>$/litre</td>
@@ -7103,6 +7495,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0676</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0676</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0676</td>
@@ -7135,6 +7539,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1151</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1151</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.1151</td>
+</tr>
+<tr>
 <td>13</td>
 <td>Pentanes plus</td>
 <td>$/litre</td>
@@ -7157,6 +7573,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0534</td>
@@ -7189,6 +7617,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0464</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0464</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0464</td>
+</tr>
+<tr>
 <td>15</td>
 <td>Coke oven gas</td>
 <td>$/cubic metre</td>
@@ -7211,6 +7651,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0210</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0210</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0210</td>
@@ -7243,6 +7695,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0587</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0587</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0587</td>
+</tr>
+<tr>
 <td>17</td>
 <td>Non-marketable natural gas</td>
 <td>$/cubic metre</td>
@@ -7265,6 +7729,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0776</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0776</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0776</td>
@@ -7297,6 +7773,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0810</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0810</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0810</td>
+</tr>
+<tr>
 <td>19</td>
 <td>Coke</td>
 <td>$/tonne</td>
@@ -7319,6 +7807,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>95.39</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>95.39</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>95.39</td>
@@ -7351,6 +7851,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>67.55</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>67.55</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>67.55</td>
+</tr>
+<tr>
 <td>21</td>
 <td>Low heat value coal</td>
 <td>$/tonne</td>
@@ -7378,6 +7890,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>53.17</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>53.17</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>53.17</td>
+</tr>
+<tr>
 <td>22</td>
 <td>Combustible waste</td>
 <td>$/tonne</td>
@@ -7400,6 +7924,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>59.92</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>59.92</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>59.92</td>
@@ -7451,6 +7987,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0995</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>2</td>
 <td>Aviation turbo fuel</td>
 <td>$/litre</td>
@@ -7478,6 +8026,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1033</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Butane</td>
 <td>$/litre</td>
@@ -7500,6 +8060,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0712</td>
@@ -7532,6 +8104,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0408</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0408</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0408</td>
+</tr>
+<tr>
 <td>5</td>
 <td>Gas liquids</td>
 <td>$/litre</td>
@@ -7554,6 +8138,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0666</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0666</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0666</td>
@@ -7586,6 +8182,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0884</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0884</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0884</td>
+</tr>
+<tr>
 <td>7</td>
 <td>Heavy fuel oil</td>
 <td>$/litre</td>
@@ -7608,6 +8216,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.1275</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1275</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.1275</td>
@@ -7640,6 +8260,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1033</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1033</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.1033</td>
+</tr>
+<tr>
 <td>9</td>
 <td>Light fuel oil</td>
 <td>$/litre</td>
@@ -7662,6 +8294,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.1073</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1073</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.1073</td>
@@ -7694,6 +8338,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0439</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0439</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0439</td>
+</tr>
+<tr>
 <td>11</td>
 <td>Naphtha</td>
 <td>$/litre</td>
@@ -7716,6 +8372,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0902</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0902</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0902</td>
@@ -7748,6 +8416,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1535</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1535</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.1535</td>
+</tr>
+<tr>
 <td>13</td>
 <td>Pentanes plus</td>
 <td>$/litre</td>
@@ -7770,6 +8450,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0712</td>
@@ -7802,6 +8494,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0619</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0619</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0619</td>
+</tr>
+<tr>
 <td>15</td>
 <td>Coke oven gas</td>
 <td>$/cubic metre</td>
@@ -7824,6 +8528,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0280</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0280</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0280</td>
@@ -7856,6 +8572,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0783</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0783</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0783</td>
+</tr>
+<tr>
 <td>17</td>
 <td>Non-marketable natural gas</td>
 <td>$/cubic metre</td>
@@ -7878,6 +8606,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.1034</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1034</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.1034</td>
@@ -7910,6 +8650,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1080</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1080</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.1080</td>
+</tr>
+<tr>
 <td>19</td>
 <td>Coke</td>
 <td>$/tonne</td>
@@ -7932,6 +8684,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>127.19</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>127.19</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>127.19</td>
@@ -7964,6 +8728,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>90.07</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>90.07</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>90.07</td>
+</tr>
+<tr>
 <td>21</td>
 <td>Low heat value coal</td>
 <td>$/tonne</td>
@@ -7991,6 +8767,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>70.90</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>70.90</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>70.90</td>
+</tr>
+<tr>
 <td>22</td>
 <td>Combustible waste</td>
 <td>$/tonne</td>
@@ -8013,6 +8801,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>79.89</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>79.89</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>79.89</td>
@@ -8064,6 +8864,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1244</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>2</td>
 <td>Aviation turbo fuel</td>
 <td>$/litre</td>
@@ -8091,6 +8903,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1291</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Butane</td>
 <td>$/litre</td>
@@ -8113,6 +8937,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0890</td>
@@ -8145,6 +8981,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0509</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0509</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0509</td>
+</tr>
+<tr>
 <td>5</td>
 <td>Gas liquids</td>
 <td>$/litre</td>
@@ -8167,6 +9015,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0832</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0832</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0832</td>
@@ -8199,6 +9059,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1105</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1105</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.1105</td>
+</tr>
+<tr>
 <td>7</td>
 <td>Heavy fuel oil</td>
 <td>$/litre</td>
@@ -8221,6 +9093,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.1593</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1593</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.1593</td>
@@ -8253,6 +9137,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1291</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1291</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.1291</td>
+</tr>
+<tr>
 <td>9</td>
 <td>Light fuel oil</td>
 <td>$/litre</td>
@@ -8275,6 +9171,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.1341</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1341</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.1341</td>
@@ -8307,6 +9215,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0549</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0549</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0549</td>
+</tr>
+<tr>
 <td>11</td>
 <td>Naphtha</td>
 <td>$/litre</td>
@@ -8329,6 +9249,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.1127</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1127</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.1127</td>
@@ -8361,6 +9293,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1919</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1919</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.1919</td>
+</tr>
+<tr>
 <td>13</td>
 <td>Pentanes plus</td>
 <td>$/litre</td>
@@ -8383,6 +9327,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0890</td>
@@ -8415,6 +9371,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0774</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0774</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0774</td>
+</tr>
+<tr>
 <td>15</td>
 <td>Coke oven gas</td>
 <td>$/cubic metre</td>
@@ -8437,6 +9405,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.0350</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0350</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.0350</td>
@@ -8469,6 +9449,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.0979</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.0979</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.0979</td>
+</tr>
+<tr>
 <td>17</td>
 <td>Non-marketable natural gas</td>
 <td>$/cubic metre</td>
@@ -8491,6 +9483,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>0.1293</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1293</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>0.1293</td>
@@ -8523,6 +9527,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>0.1350</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>0.1350</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>0.1350</td>
+</tr>
+<tr>
 <td>19</td>
 <td>Coke</td>
 <td>$/tonne</td>
@@ -8545,6 +9561,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>158.99</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>158.99</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>158.99</td>
@@ -8577,6 +9605,18 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>112.58</td>
 </tr>
 <tr>
+<td>**(e)** Yukon
+
+</td>
+<td>112.58</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>112.58</td>
+</tr>
+<tr>
 <td>21</td>
 <td>Low heat value coal</td>
 <td>$/tonne</td>
@@ -8599,6 +9639,18 @@ but nothing in this subsection limits the liability of the transferor under this
 </tr>
 <tr>
 <td>**(d)** Saskatchewan
+
+</td>
+<td>88.62</td>
+</tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>88.62</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
 
 </td>
 <td>88.62</td>
@@ -8630,12 +9682,24 @@ but nothing in this subsection limits the liability of the transferor under this
 </td>
 <td>99.87</td>
 </tr>
+<tr>
+<td>**(e)** Yukon
+
+</td>
+<td>99.87</td>
+</tr>
+<tr>
+<td>**(f)** Nunavut
+
+</td>
+<td>99.87</td>
+</tr>
 </table>
 
 **TABLE 5** [Repealed, SOR/2019-79, s. 3]
 
 
-> 2018, c. 12, s. 186 “Sch. 2”; SOR/2019-79, s. 3.
+> 2018, c. 12, s. 186 “Sch. 2”; SOR/2019-79, s. 3; SOR/2019-79, s. 4.
 
 
 
