@@ -682,6 +682,392 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **62** Roseau River Anishinabe First Nation
 - **63** Tseycum First Nation
 - **64** Beecher Bay First Nation
-> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1; SOR/2016-215, s. 1; SOR/2016-217, s. 1; SOR/2016-219, s. 1; SOR/2016-221, s. 1; SOR/2016-223, s. 1; SOR/2016-225, s. 1; SOR/2016-237, s. 1; SOR/2016-246, s. 1; SOR/2016-248, s. 1; SOR/2016-250, s. 1; SOR/2016-264, s. 1; SOR/2016-266, s. 1; SOR/2016-330, s. 1; SOR/2016-332, s. 1; SOR/2016-334, s. 1; SOR/2017-3, s. 1; SOR/2017-5, s. 1; SOR/2017-30, s. 1; SOR/2017-32, s. 1; SOR/2017-34, s. 1; SOR/2017-64, s. 1; SOR/2017-66, s. 1; SOR/2017-97, s. 1; SOR/2017-99, s. 1; SOR/2017-102, s. 1; SOR/2017-152, s. 1; SOR/2017-153, s. 1; SOR/2017-188, s. 1; SOR/2017-190, s. 1; SOR/2017-240, s. 1; SOR/2017-242, s. 1; SOR/2018-30, s. 1; SOR/2018-74, s. 1; SOR/2018-91, s. 1; SOR/2018-93, s. 1; SOR/2018-95, s. 1; SOR/2018-106, s. 1; SOR/2018-154, s. 1; SOR/2018-173, s. 1; SOR/2018-175, s. 1; SOR/2018-181, s. 1; SOR/2018-200, s. 1; SOR/2018-267, s. 1; SOR/2019-9, s. 1; SOR/2019-14, s. 1; SOR/2019-28, s. 1; SOR/2019-30, s. 1; SOR/2019-141, s. 1; SOR/2019-205, s. 1.
+- **65** Berens River First Nation
+> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1; SOR/2016-215, s. 1; SOR/2016-217, s. 1; SOR/2016-219, s. 1; SOR/2016-221, s. 1; SOR/2016-223, s. 1; SOR/2016-225, s. 1; SOR/2016-237, s. 1; SOR/2016-246, s. 1; SOR/2016-248, s. 1; SOR/2016-250, s. 1; SOR/2016-264, s. 1; SOR/2016-266, s. 1; SOR/2016-330, s. 1; SOR/2016-332, s. 1; SOR/2016-334, s. 1; SOR/2017-3, s. 1; SOR/2017-5, s. 1; SOR/2017-30, s. 1; SOR/2017-32, s. 1; SOR/2017-34, s. 1; SOR/2017-64, s. 1; SOR/2017-66, s. 1; SOR/2017-97, s. 1; SOR/2017-99, s. 1; SOR/2017-102, s. 1; SOR/2017-152, s. 1; SOR/2017-153, s. 1; SOR/2017-188, s. 1; SOR/2017-190, s. 1; SOR/2017-240, s. 1; SOR/2017-242, s. 1; SOR/2018-30, s. 1; SOR/2018-74, s. 1; SOR/2018-91, s. 1; SOR/2018-93, s. 1; SOR/2018-95, s. 1; SOR/2018-106, s. 1; SOR/2018-154, s. 1; SOR/2018-173, s. 1; SOR/2018-175, s. 1; SOR/2018-181, s. 1; SOR/2018-200, s. 1; SOR/2018-267, s. 1; SOR/2019-9, s. 1SOR/2019-14, s. 1SOR/2019-28, s. 1SOR/2019-30, s. 1SOR/2019-141, s. 1SOR/2019-205, s. 1SOR/2019-271, s. 1
+
+
+
+
+## RELATED PROVISIONS
+
+######           — SOR/2015-136, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Madawaska Maliseet First Nation is fixed as August 27, 2015.
+
+
+
+######           — SOR/2015-149, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Micmacs of Gesgapegiag is fixed as August 20, 2015.
+
+
+
+######           — SOR/2015-208, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the English River First Nation is fixed as October 26, 2015.
+
+
+
+######           — SOR/2015-218, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Bunibonibee Cree Nation is fixed as December 3, 2015.
+
+
+
+######           — SOR/2016-2, s. 2, as amended by SOR/2016-28
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election is fixed as
+- **(a)** March 31, 2016 for the council of the George Gordon First Nation;
+- **(b)** March 18, 2016 for the council of the Red Pheasant First Nation; and
+- **(c)** April 13, 2016 for the council of the Pabineau First Nation.
+
+
+
+######           — SOR/2016-53, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Membertou First Nation is fixed as June 15, 2016.
+
+
+
+######           — SOR/2016-55, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of The Key First Nation is fixed as October 1, 2016.
+
+
+
+######           — SOR/2016-57, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Stswecemc Xgattem First Nation is fixed as June 8, 2016.
+
+
+
+######           — SOR/2016-110, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Ashcroft Band is fixed as November 7, 2016.
+
+
+
+######           — SOR/2016-112, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Burns Lake Band is fixed as October 21, 2016.
+
+
+
+######           — SOR/2016-114, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Chippewas of Rama First Nation is fixed as September 2, 2016.
+
+
+
+######           — SOR/2016-116, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Indian Island Band is fixed as November 17, 2016.
+
+
+
+######           — SOR/2016-118, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Waycobah First Nation is fixed as August 18, 2016.
+
+
+
+######           — SOR/2016-215, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Gull Bay Band is fixed as November 26, 2016.
+
+
+
+######           — SOR/2016-217, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Wuskwi Sipihk First Nation is fixed as October 14, 2016.
+
+
+
+######           — SOR/2016-219, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Musqueam Indian Band is fixed as November 30, 2016.
+
+
+
+######           — SOR/2016-221, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Chippewas of Georgina Island is fixed as March 21, 2017.
+
+
+
+######           — SOR/2016-223, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Nooaitch Indian Band is fixed as November 21, 2016.
+
+
+
+######           — SOR/2016-225, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of Eskasoni is fixed as October 13, 2016.
+
+
+
+######           — SOR/2016-237, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Skownan First Nation is fixed as November 3, 2016.
+
+
+
+######           — SOR/2016-246, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Tobique First Nation is fixed as November 28, 2016.
+
+
+
+######           — SOR/2016-248, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Canoe Lake Cree First Nation is fixed as December 16, 2016.
+
+
+
+######           — SOR/2016-250, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Beaver First Nation is fixed as November 29, 2016.
+
+
+
+######           — SOR/2016-264, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Pine Creek First Nation is fixed as January 4, 2017.
+
+
+
+######           — SOR/2016-266, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Flying Dust First Nation is fixed as December 5, 2016.
+
+
+
+######           — SOR/2016-330, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Fishing Lake First Nation is fixed as February 26, 2017.
+
+
+
+######           — SOR/2016-332, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Mistawasis Nehiyawak First Nation is fixed as April 7, 2017.
+
+
+
+######           — SOR/2016-334, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Waywayseecappo First Nation is fixed as February 24, 2017.
+
+
+
+######           — SOR/2017-3, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Birdtail Sioux First Nation is fixed as March 30, 2017.
+
+
+
+######           — SOR/2017-5, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Tla-o-qui-aht First Nations is fixed as May 9, 2018.
+
+
+
+######           — SOR/2017-30, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Songhees Nation is fixed as June 22, 2017.
+
+
+
+######           — SOR/2017-32, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Pic Mobert First Nation is fixed as July 27, 2017.
+
+
+
+######           — SOR/2017-34, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Gitwangak Band is fixed as May 8, 2017.
+
+
+
+######           — SOR/2017-64, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Ahtahkakoop Band is fixed as June 16, 2017.
+
+
+
+######           — SOR/2017-66, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Gitsegukla Band is fixed as July 7, 2017.
+
+
+
+######           — SOR/2017-97, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Moose Deer Point First Nation is fixed as August 1, 2017.
+
+
+
+######           — SOR/2017-99, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Black River First Nation is fixed as August 2, 2017.
+
+
+
+######           — SOR/2017-102, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Oromocto First Nation is fixed as August 4, 2017.
+
+
+
+######           — SOR/2017-152, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Sakimay First Nations is fixed as September 6, 2017.
+
+
+
+######           — SOR/2017-153, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Pheasant Rump Nakota First Nation is fixed as September 15, 2017.
+
+
+
+######           — SOR/2017-188, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Fort Folly First Nation is fixed as November 23, 2017.
+
+
+
+######           — SOR/2017-190, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Day Star First Nation is fixed as November 15, 2017.
+
+
+
+######           — SOR/2017-240, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Kingsclear First Nation is fixed as February 20, 2018.
+
+
+
+######           — SOR/2017-242, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Elsipogtog First Nation is fixed as February 10, 2018.
+
+
+
+######           — SOR/2018-30, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Eel Ground First Nation is fixed as May 10, 2018.
+
+
+
+######           — SOR/2018-74, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Lake St. Martin First Nation is fixed as July 4, 2018.
+
+
+
+######           — SOR/2018-91, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Metepenagiag Mi’kmaq Nation is fixed as July 16, 2018.
+
+
+
+######           — SOR/2018-93, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Wagmatcook First Nation is fixed as July 4, 2018.
+
+
+
+######           — SOR/2018-95, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Nigigoonsiminikaaning First Nation is fixed as July 18, 2018.
+
+
+
+######           — SOR/2018-106, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Potlotek First Nation is fixed as August 5, 2018.
+
+
+
+######           — SOR/2018-154, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Dakota Tipi First Nation is fixed as August 31, 2018.
+
+
+
+######           — SOR/2018-173, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Shuswap Indian Band is fixed as November 1, 2018.
+
+
+
+######           — SOR/2018-175, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Paul First Nation is fixed as November 2, 2018.
+
+
+
+######           — SOR/2018-181, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Biinjitiwaabik Zaaging Anishinaabek is fixed as November 17, 2018.
+
+
+
+######           — SOR/2018-200, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Woodstock First Nation is fixed as December 6, 2018.
+
+
+
+######           — SOR/2018-267, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Peguis First Nation is fixed as March 23, 2019.
+
+
+
+######           — SOR/2019-9, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Makwa Sahgaiehcan First Nation is fixed as February 18, 2019.
+
+
+
+######           — SOR/2019-14, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Roseau River Anishinabe First Nation is fixed as March 11, 2019.
+
+
+
+######           — SOR/2019-28, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Keeseekoowenin First Nation is fixed as April 8, 2019.
+
+
+
+######           — SOR/2019-30, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Fort William First Nation is fixed as April 15, 2019.
+
+
+
+######           — SOR/2019-141, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Tseycum First Nation is fixed as July 25, 2019.
+
+
+
+######           — SOR/2019-205, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Beecher Bay First Nation is fixed as October 8, 2019.
+
+
+
+######           — SOR/2019-271, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Berens River First Nation is fixed as November 15, 2019.
+
 
 
