@@ -680,6 +680,392 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **62** Première Nation anishinabe de la rivière Roseau
 - **63** Première Nation Tseycum
 - **64** Première Nation de la baie Beecher
-> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1; DORS/2016-215, art. 1; DORS/2016-217, art. 1; DORS/2016-219, art. 1; DORS/2016-221, art. 1; DORS/2016-223, art. 1; DORS/2016-225, art. 1; DORS/2016-237, art. 1; DORS/2016-246, art. 1; DORS/2016-248, art. 1; DORS/2016-250, art. 1; DORS/2016-264, art. 1; DORS/2016-266, art. 1; DORS/2016-330, art. 1; DORS/2016-332, art. 1; DORS/2016-334, art. 1; DORS/2017-3, art. 1; DORS/2017-5, art. 1; DORS/2017-30, art. 1; DORS/2017-32, art. 1; DORS/2017-34, art. 1; DORS/2017-64, art. 1; DORS/2017-66, art. 1; DORS/2017-97, art. 1; DORS/2017-99, art. 1; DORS/2017-102, art. 1; DORS/2017-152, art. 1; DORS/2017-153, art. 1; DORS/2017-188, art. 1; DORS/2017-190, art. 1; DORS/2017-240, art. 1; DORS/2017-242, art. 1; DORS/2018-30, art. 1; DORS/2018-74, art. 1; DORS/2018-91, art. 1; DORS/2018-93, art. 1; DORS/2018-95, art. 1; DORS/2018-106, art. 1; DORS/2018-154, art. 1; DORS/2018-173, art. 1; DORS/2018-175, art. 1; DORS/2018-181, art. 1; DORS/2018-200, art. 1; DORS/2018-267, art. 1; DORS/2019-9, art. 1; DORS/2019-14, art. 1; DORS/2019-28, art. 1; DORS/2019-30, art. 1; DORS/2019-141, art. 1; DORS/2019-205, art. 1.
+- **65** Première Nation de Berens River
+> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1; DORS/2016-215, art. 1; DORS/2016-217, art. 1; DORS/2016-219, art. 1; DORS/2016-221, art. 1; DORS/2016-223, art. 1; DORS/2016-225, art. 1; DORS/2016-237, art. 1; DORS/2016-246, art. 1; DORS/2016-248, art. 1; DORS/2016-250, art. 1; DORS/2016-264, art. 1; DORS/2016-266, art. 1; DORS/2016-330, art. 1; DORS/2016-332, art. 1; DORS/2016-334, art. 1; DORS/2017-3, art. 1; DORS/2017-5, art. 1; DORS/2017-30, art. 1; DORS/2017-32, art. 1; DORS/2017-34, art. 1; DORS/2017-64, art. 1; DORS/2017-66, art. 1; DORS/2017-97, art. 1; DORS/2017-99, art. 1; DORS/2017-102, art. 1; DORS/2017-152, art. 1; DORS/2017-153, art. 1; DORS/2017-188, art. 1; DORS/2017-190, art. 1; DORS/2017-240, art. 1; DORS/2017-242, art. 1; DORS/2018-30, art. 1; DORS/2018-74, art. 1; DORS/2018-91, art. 1; DORS/2018-93, art. 1; DORS/2018-95, art. 1; DORS/2018-106, art. 1; DORS/2018-154, art. 1; DORS/2018-173, art. 1; DORS/2018-175, art. 1; DORS/2018-181, art. 1; DORS/2018-200, art. 1; DORS/2018-267, art. 1; DORS/2019-9, art. 1DORS/2019-14, art. 1DORS/2019-28, art. 1DORS/2019-30, art. 1DORS/2019-141, art. 1DORS/2019-205, art. 1DORS/2019-271, art. 1
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — DORS/2015-136, art. 2
+
+**2** En vertu du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la première nation Madawaska Maliseet First Nation est fixée au 27 août 2015.
+
+
+
+######           — DORS/2015-149, art. 2
+
+**2** En vertu du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la première nation Micmacs of Gesgapegiag est fixée au 20 août 2015.
+
+
+
+######           — DORS/2015-208, art. 2
+
+**2** En vertu du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la première nation English River First Nation est fixée au 26 octobre 2015.
+
+
+
+######           — DORS/2015-218, art. 2
+
+**2** En vertu du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la première nation Bunibonibee Cree Nation est fixée au 3 décembre 2015.
+
+
+
+######           — DORS/2016-2, art. 2, modifié par DORS/2016-28
+
+**2** En vertu du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection est fixée :
+- **a)** au 31 mars 2016 pour le conseil de la première nation George Gordon First Nation;
+- **b)** au 18 mars 2016 pour le conseil de la première nation Red Pheasant First Nation;
+- **c)** au 13 avril 2016 pour le conseil de la Première Nation de Pabineau.
+
+
+
+######           — DORS/2016-53, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Membertou est fixée au 15 juin 2016.
+
+
+
+######           — DORS/2016-55, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Key est fixée au 1<sup>er</sup> octobre 2016.
+
+
+
+######           — DORS/2016-57, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Stswecemc Xgattem est fixée au 8 juin 2016.
+
+
+
+######           — DORS/2016-110, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la bande d’Ashcroft est fixée au 7 novembre 2016.
+
+
+
+######           — DORS/2016-112, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la bande de Burns Lake est fixée au 21 octobre 2016.
+
+
+
+######           — DORS/2016-114, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation des Chippewas de Rama est fixée au 2 septembre 2016.
+
+
+
+######           — DORS/2016-116, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la bande d’Indian Island est fixée au 17 novembre 2016.
+
+
+
+######           — DORS/2016-118, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Waycobah est fixée au 18 août 2016.
+
+
+
+######           — DORS/2016-215, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la bande de Gull Bay est fixée au 26 novembre 2016.
+
+
+
+######           — DORS/2016-217, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Wuskwi Sipihk est fixée au 14 octobre 2016.
+
+
+
+######           — DORS/2016-219, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Bande indienne des Musqueams est fixée au 30 novembre 2016.
+
+
+
+######           — DORS/2016-221, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil des Chippewas de Georgina Island est fixée au 21 mars 2017.
+
+
+
+######           — DORS/2016-223, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Bande indienne Nooaitch est fixée au 21 novembre 2016.
+
+
+
+######           — DORS/2016-225, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil d’Eskasoni est fixée au 13 octobre 2016.
+
+
+
+######           — DORS/2016-237, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Skownan est fixée au 3 novembre 2016.
+
+
+
+######           — DORS/2016-246, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Tobique est fixée au 28 novembre 2016.
+
+
+
+######           — DORS/2016-248, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations1, la date de la première élection du conseil de la Première Nation des Cris de Canoe Lake est fixée au 16 décembre 2016.
+
+
+
+######           — DORS/2016-250, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations1, la date de la première élection du conseil de la Première Nation Beaver est fixée au 29 novembre 2016.
+
+
+
+######           — DORS/2016-264, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Pine Creek est fixée au 4 janvier 2017.
+
+
+
+######           — DORS/2016-266, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Flying Dust est fixée au 5 décembre 2016.
+
+
+
+######           — DORS/2016-330, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation du lac Fishing est fixée au 26 février 2017.
+
+
+
+######           — DORS/2016-332, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la première nation Mistawasis Nehiyawak est fixée au 7 avril 2017.
+
+
+
+######           — DORS/2016-334, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Waywayseecappo est fixée au 24 février 2017.
+
+
+
+######           — DORS/2017-3, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation des Sioux Birdtail est fixée au 30 mars 2017.
+
+
+
+######           — DORS/2017-5, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil des Premières Nations des Tlaoquiahts est fixée au 9 mai 2018.
+
+
+
+######           — DORS/2017-30, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Nation des Songhees est fixée au 22 juin 2017.
+
+
+
+######           — DORS/2017-32, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Pic Mobert est fixée au 27 juillet 2017.
+
+
+
+######           — DORS/2017-34, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Bande des Gitwangaks est fixée au 8 mai 2017.
+
+
+
+######           — DORS/2017-64, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la bande Ahtahkakoop est fixée au 16 juin 2017.
+
+
+
+######           — DORS/2017-66, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Bande Gitsegukla est fixée au 7 juillet 2017.
+
+
+
+######           — DORS/2017-97, art. 2
+
+**2** Conformément au paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Moose Deer Point est fixée au 1<sup>er</sup> août 2017.
+
+
+
+######           — DORS/2017-99, art. 2
+
+**2** Conformément au paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Black River est fixée au 2 août 2017.
+
+
+
+######           — DORS/2017-102, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation d’Oromocto est fixée au 4 août 2017.
+
+
+
+######           — DORS/2017-152, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil des Premières Nations Sakimay est fixée au 6 septembre 2017.
+
+
+
+######           — DORS/2017-153, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation nakota Pheasant Rump est fixée au 15 septembre 2017.
+
+
+
+######           — DORS/2017-188, art. 2
+
+**2** Conformément au paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation du Fort-Folly est fixée au 23 novembre 2017.
+
+
+
+######           — DORS/2017-190, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Day Star est fixée au 15 novembre 2017.
+
+
+
+######           — DORS/2017-240, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Kingsclear est fixée au 20 février 2018.
+
+
+
+######           — DORS/2017-242, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Elsipogtog est fixée au 10 février 2018.
+
+
+
+######           — DORS/2018-30, art. 2
+
+**2** Conformément au paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation d’Eel Ground est fixée au 10 mai 2018.
+
+
+
+######           — DORS/2018-74, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation du lac Saint-Martin est fixée au 4 juillet 2018.
+
+
+
+######           — DORS/2018-91, art. 2
+
+**2** Conformément au paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Nation micmaque Metepenagiag est fixée au 16 juillet 2018.
+
+
+
+######           — DORS/2018-93, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Wagmatcook est fixée au 4 juillet 2018.
+
+
+
+######           — DORS/2018-95, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Nigigoonsiminikaaning est fixée au 18 juillet 2018.
+
+
+
+######           — DORS/2018-106, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Potlotek est fixée au 5 août 2018.
+
+
+
+######           — DORS/2018-154, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Dakota Tipi est fixée au 31 août 2018.
+
+
+
+######           — DORS/2018-173, art. 2
+
+**2** Conformément au paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Bande indienne Shuswap est fixée au 1<sup>er</sup> novembre 2018.
+
+
+
+######           — DORS/2018-175, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Paul est fixée au 2 novembre 2018.
+
+
+
+######           — DORS/2018-181, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de Biinjitiwaabik Zaaging Anishinaabek est fixée au 17 novembre 2018.
+
+
+
+######           — DORS/2018-200, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Woodstock est fixée au 6 décembre 2018.
+
+
+
+######           — DORS/2018-267, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Peguis est fixée au 23 mars 2019.
+
+
+
+######           — DORS/2019-9, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Makwa Sahgaiehcan est fixée au 18 février 2019.
+
+
+
+######           — DORS/2019-14, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation anishinabe de la rivière Roseau est fixée au 11 mars 2019.
+
+
+
+######           — DORS/2019-28, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Keeseekoowenin est fixée au 8 avril 2019.
+
+
+
+######           — DORS/2019-30, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation du fort William est fixée au 15 avril 2019.
+
+
+
+######           — DORS/2019-141, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Tseycum est fixée au 25 juillet 2019.
+
+
+
+######           — DORS/2019-205, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de la baie Beecher est fixée au 8 octobre 2019.
+
+
+
+######           — DORS/2019-271, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Berens River est fixée au 15 novembre 2019.
+
 
 
