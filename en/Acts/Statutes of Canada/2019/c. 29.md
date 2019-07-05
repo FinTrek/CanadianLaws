@@ -35,7 +35,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> R.S., c. 1 (5th Supp.).
+> R.S., c. 1 (5th Supp.)
 **
 
 ### [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)
@@ -215,7 +215,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> R.S., c. C-8.
+> R.S., c. C-8
 **
 
 ### [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md)
@@ -254,7 +254,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> R.S., c. C-51.
+> R.S., c. C-51
 **
 
 ### [Cultural Property Export and Import Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-51.md)
@@ -270,7 +270,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> 1996, c. 23.
+> 1996, c. 23
 **
 
 ### [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md)
@@ -286,7 +286,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> C.R.C., c. 945.
+> C.R.C., c. 945
 **
 
 ### [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md)
@@ -371,7 +371,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> R.S., c. E-15.
+> R.S., c. E-15
 **
 
 ### [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md)
@@ -419,7 +419,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> SOR/91-51; SOR/2006-162, s. 6.
+> SOR/91-51; SOR/2006-162, s. 6
 **
 
 ### [Streamlined Accounting (GST/HST) Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/51.md)
@@ -432,7 +432,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **PART 3** 
 **
-> 2002, c. 22.
+> 2002, c. 22
 **
 
 ## [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md)
@@ -475,7 +475,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **SUBDIVISION A** 
 **
-> 1991, c. 46.
+> 1991, c. 46
 **
 
 #### [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md)
@@ -503,7 +503,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> 2005, c. 54.
+> 2005, c. 54
 **
 
 ##### An Act to amend certain Acts in relation to financial institutions
@@ -524,7 +524,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **SUBDIVISION B** 
 **
-> R.S., c. C-21; 2001, c. 9, s. 218.
+> R.S., c. C-21; 2001, c. 9, s. 218
 **
 
 #### [Canadian Payments Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-21.md)
@@ -571,7 +571,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **SUBDIVISION A** 
 **
-> R.S., c. C-44; 1994, c. 24, s. 1(F).
+> R.S., c. C-44; 1994, c. 24, s. 1(F)
 **
 
 #### [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md)
@@ -603,7 +603,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> 2018, c. 27 or royal assent.
+> 2018, c. 27 or royal assent
 **
 
 <sup><a href='#fn_2019-c29_E_transform_hq_25530'>[*]</a></sup>**102** This Subdivision comes into force on the later of the day on which section 183 of the Budget Implementation Act, 2018, No. 2 comes into force and the day on which this Act receives royal assent.
@@ -615,7 +615,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **SUBDIVISION B** 
 **
-> R.‍S.‍, c. C-46.
+> R.‍S.‍, c. C-46
 **
 
 #### [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)
@@ -628,7 +628,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **SUBDIVISION C** 
 **
-> 2000, c. 17; 2001, c. 41, s. 48.
+> 2000, c. 17; 2001, c. 41, s. 48
 **
 
 #### [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md)
@@ -669,7 +669,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **SUBDIVISION D** 
 **
-> 1993, c. 37.
+> 1993, c. 37
 **
 
 #### [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md)
@@ -721,7 +721,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> R.S., c. C-46.
+> R.S., c. C-46
 **
 
 ###### [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)
@@ -733,7 +733,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> 2000, c. 24.
+> 2000, c. 24
 **
 
 ###### [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md)
@@ -749,7 +749,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> 2000, c. 17; 2001, c. 41, s. 48.
+> 2000, c. 17; 2001, c. 41, s. 48
 **
 
 ###### [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md)
@@ -770,7 +770,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **DIVISION 3** 
 **
-> 1995, c. 44.
+> 1995, c. 44
 **
 
 ### [Employment Equity Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2044.md)
@@ -921,7 +921,7 @@ where
 
 
 **
-> R.S., c. B-3; 1992, c. 27, s. 2.
+> R.S., c. B-3; 1992, c. 27, s. 2
 **
 
 #### [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md)
@@ -941,7 +941,7 @@ where
 
 
 **
-> R.S., c. C-36.
+> R.S., c. C-36
 **
 
 #### [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md)
@@ -969,7 +969,7 @@ where
 
 
 **
-> R.S., c. C-44; 1994, c. 24, s. 1(F).
+> R.S., c. C-44; 1994, c. 24, s. 1(F)
 **
 
 #### [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md)
@@ -993,7 +993,7 @@ where
 
 
 **
-> R.S., c. 32 (2nd Supp.).
+> R.S., c. 32 (2nd Supp.)
 **
 
 #### [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md)
@@ -1061,7 +1061,7 @@ where
 
 **DIVISION 6** 
 **
-> R.S., c. C-8.
+> R.S., c. C-8
 **
 
 ### [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md)
@@ -1093,7 +1093,7 @@ where
 
 **DIVISION 7** 
 **
-> R.S., c. O-9.
+> R.S., c. O-9
 **
 
 ### [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md)
@@ -1110,7 +1110,7 @@ where
 
 
 **
-> R.S., c. C-17.
+> R.S., c. C-17
 **
 
 #### [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md)
@@ -1122,7 +1122,7 @@ where
 
 
 **
-> R.S., c. P-36.
+> R.S., c. P-36
 **
 
 #### [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)
@@ -1134,7 +1134,7 @@ where
 
 
 **
-> R.S., c. R-11.
+> R.S., c. R-11
 **
 
 #### [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md)
@@ -1152,7 +1152,7 @@ where
 
 **SUBDIVISION A** 
 **
-> R.S., c. B-3; 1992, c. 27, s. 2.
+> R.S., c. B-3; 1992, c. 27, s. 2
 **
 
 #### [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md)
@@ -1169,7 +1169,7 @@ where
 
 **SUBDIVISION B** 
 **
-> R.S., c. E-4.
+> R.S., c. E-4
 **
 
 #### [Electricity and Gas Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-4.md)
@@ -1182,7 +1182,7 @@ where
 
 **SUBDIVISION C** 
 **
-> R.S., c. F-27.
+> R.S., c. F-27
 **
 
 #### [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md)
@@ -1308,7 +1308,7 @@ where
 
 **SUBDIVISION D** 
 **
-> R.S., c. I-3.
+> R.S., c. I-3
 **
 
 #### [Importation of Intoxicating Liquors Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-3.md)
@@ -1337,7 +1337,7 @@ where
 
 **SUBDIVISION E** 
 **
-> R.S., c. P-19.
+> R.S., c. P-19
 **
 
 #### [Precious Metals Marking Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-19.md)
@@ -1350,7 +1350,7 @@ where
 
 **SUBDIVISION F** 
 **
-> R.S., c. T-10.
+> R.S., c. T-10
 **
 
 #### [Textile Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-10.md)
@@ -1363,7 +1363,7 @@ where
 
 **SUBDIVISION G** 
 **
-> R.S., c. W-6.
+> R.S., c. W-6
 **
 
 #### [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md)
@@ -1409,7 +1409,7 @@ where
 
 **SUBDIVISION H** 
 **
-> R.S., c. 24 (3rd Supp.), Part III.
+> R.S., c. 24 (3rd Supp.), Part III
 **
 
 #### [Hazardous Materials Information Review Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2024%20(3rd%20Supp.),%20Part%20III.md)
@@ -1492,7 +1492,7 @@ where
 
 **Representations**
 
-**210** If, before the commencement day, a notice was published in the Canada Gazette in accordance with paragraph 12(1)(a) of the [Hazardous Materials Information Review Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2024%20(3rd%20Supp.),%20Part%20III.md), as that paragraph read immediately before that day, and section 201 of this Act comes into force before the end of the period specified in the notice, an affected party that wishes to make written representations with respect to the claim for exemption in question and the safety data sheet or label to which it relates may, within the period specified in the notice but on or after the commencement day, make those representations to the Minister of Health.
+**210** If, before the commencement day, a notice was published in the [Canada Gazette](http://www.gazette.gc.ca/) in accordance with paragraph 12(1)(a) of the [Hazardous Materials Information Review Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2024%20(3rd%20Supp.),%20Part%20III.md), as that paragraph read immediately before that day, and section 201 of this Act comes into force before the end of the period specified in the notice, an affected party that wishes to make written representations with respect to the claim for exemption in question and the safety data sheet or label to which it relates may, within the period specified in the notice but on or after the commencement day, make those representations to the Minister of Health.
 
 
 
@@ -1524,7 +1524,7 @@ where
 
 **SUBDIVISION I** 
 **
-> 1996, c. 10.
+> 1996, c. 10
 **
 
 #### [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md)
@@ -1558,10 +1558,10 @@ where
 
 **SUBDIVISION J** 
 **
-> 2002, c. 28.
+> 2002, c. 28
 **
 
-#### [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md)
+#### [Pest Control Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-9.md)
 
 
 **217** [Amendments]
@@ -1579,7 +1579,7 @@ where
 
 **SUBDIVISION K** 
 **
-> 2005, c. 20.
+> 2005, c. 20
 **
 
 #### [Quarantine Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2020.md)
@@ -1592,7 +1592,7 @@ where
 
 **SUBDIVISION L** 
 **
-> 2009, c. 24.
+> 2009, c. 24
 **
 
 #### [Human Pathogens and Toxins Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2024.md)
@@ -1605,7 +1605,7 @@ where
 
 **DIVISION 10** 
 **
-> R.S., c. R-10.
+> R.S., c. R-10
 **
 
 ### [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)
@@ -1646,7 +1646,7 @@ where
 
 **DIVISION 11** 
 **
-> R.S., c. P-14.
+> R.S., c. P-14
 **
 
 ### [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md)
@@ -1863,7 +1863,7 @@ where
 
 
 **
-> R.S., c. A-12.
+> R.S., c. A-12
 **
 
 ##### [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md)
@@ -1875,7 +1875,7 @@ where
 
 
 **
-> 2001, c. 29.
+> 2001, c. 29
 **
 
 ##### [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md)
@@ -1943,7 +1943,7 @@ where
 
 
 **
-> R.S., c. A-2.
+> R.S., c. A-2
 **
 
 ##### [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md)
@@ -1971,7 +1971,7 @@ where
 
 
 **
-> R.S., c. F-11.
+> R.S., c. F-11
 **
 
 ##### [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)
@@ -1983,7 +1983,7 @@ where
 
 
 **
-> 1996, c. 10.
+> 1996, c. 10
 **
 
 ##### [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md)
@@ -1995,7 +1995,7 @@ where
 
 
 **
-> 2015, c. 20, s. 11.
+> 2015, c. 20, s. 11
 **
 
 ##### [Secure Air Travel Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%2011.md)
@@ -2024,9 +2024,9 @@ where
 
 <a name='fn_2019-c29_E_transform_hq_25544'><sup>*</sup></a>: [Note: Sections 271 to 275, 277 and 278 not in force.]<br />
 
-**Canada Gazette**
+**[Canada Gazette](http://www.gazette.gc.ca/)**
 
-- **(3)** The Minister of Transport must publish in the Canada Gazette a notice of the transfer date, as defined in subsection 2(1) of the [Security Screening Services Commercialization Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2029,%20s.%20270.md), as soon as feasible after that date.
+- **(3)** The Minister of Transport must publish in the [Canada Gazette](http://www.gazette.gc.ca/) a notice of the transfer date, as defined in subsection 2(1) of the [Security Screening Services Commercialization Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2029,%20s.%20270.md), as soon as feasible after that date.
 
 **Order in council**
 
@@ -2045,7 +2045,7 @@ where
 
 **DIVISION 13** 
 **
-> 2014, c. 29, s. 2.
+> 2014, c. 29, s. 2
 **
 
 ### [Aviation Industry Indemnity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2029,%20s.%202.md)
@@ -2094,7 +2094,7 @@ where
 
 **DIVISION 14** 
 **
-> 2001, c. 29.
+> 2001, c. 29
 **
 
 ### [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md)
@@ -2130,7 +2130,7 @@ where
 
 
 **
-> R.S., c. C-29.
+> R.S., c. C-29
 **
 
 ##### [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md)
@@ -2150,7 +2150,7 @@ where
 
 
 **
-> 2001, c. 27.
+> 2001, c. 27
 **
 
 ##### [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md)
@@ -2170,7 +2170,7 @@ where
 
 
 **
-> R.S., c. A-1.
+> R.S., c. A-1
 **
 
 ##### [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md)
@@ -2182,7 +2182,7 @@ where
 
 
 **
-> R.S., c. P-21.
+> R.S., c. P-21
 **
 
 ##### [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md)
@@ -2222,7 +2222,7 @@ where
 
 **DIVISION 16** 
 **
-> 2001, c. 27.
+> 2001, c. 27
 **
 
 ### [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md)
@@ -2292,7 +2292,7 @@ where
 
 **DIVISION 17** 
 **
-> R.S., c. F-7; 2002, c. 8, s. 14.
+> R.S., c. F-7; 2002, c. 8, s. 14
 **
 
 ### [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md)
@@ -2305,7 +2305,7 @@ where
 
 **DIVISION 18** 
 **
-> R.S., c. N-11.
+> R.S., c. N-11
 **
 
 ### [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md)
@@ -2378,7 +2378,7 @@ where
 
 **DIVISION 21** 
 **
-> 2005, c. 21; 2017, c. 20, s. 270.
+> 2005, c. 21; 2017, c. 20, s. 270
 **
 
 ### [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md)
@@ -2422,7 +2422,7 @@ where
 
 
 **
-> R.S., c. S-23.
+> R.S., c. S-23
 **
 
 #### [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md)
@@ -2438,7 +2438,7 @@ where
 
 
 **
-> 1994, c. 28.
+> 1994, c. 28
 **
 
 #### [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md)
@@ -2466,7 +2466,7 @@ where
 
 **DIVISION 23** 
 **
-> 2000, c. 32.
+> 2000, c. 32
 **
 
 ### [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md)
@@ -2512,7 +2512,7 @@ where
 
 **DIVISION 24** 
 **
-> 1998, c. 31.
+> 1998, c. 31
 **
 
 ### [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md)
@@ -2714,7 +2714,7 @@ where
 
 
 **
-> R.S., c. A-1.
+> R.S., c. A-1
 **
 
 ###### [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md)
@@ -2734,7 +2734,7 @@ where
 
 
 **
-> R.S., c. F-11.
+> R.S., c. F-11
 **
 
 ###### [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)
@@ -2770,7 +2770,7 @@ where
 
 
 **
-> R.S., c. I-5.
+> R.S., c. I-5
 **
 
 ###### [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)
@@ -2786,7 +2786,7 @@ where
 
 
 **
-> R.S., c. P-21.
+> R.S., c. P-21
 **
 
 ###### [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md)
@@ -2806,7 +2806,7 @@ where
 
 
 **
-> R.S., c. S-3.
+> R.S., c. S-3
 **
 
 ###### [Salaries Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-3.md)
@@ -2818,7 +2818,7 @@ where
 
 
 **
-> R.S., c. W-4.
+> R.S., c. W-4
 **
 
 ###### [Dominion Water Power Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-4.md)
@@ -2830,7 +2830,7 @@ where
 
 
 **
-> 1991, c. 30.
+> 1991, c. 30
 **
 
 ###### [Public Sector Compensation Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2030.md)
@@ -2846,7 +2846,7 @@ where
 
 
 **
-> 1994, c. 35.
+> 1994, c. 35
 **
 
 ###### [Yukon First Nations Self-Government Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2035.md)
@@ -2858,7 +2858,7 @@ where
 
 
 **
-> 1991, c. 50; 2001, c. 4, s. 10.
+> 1991, c. 50; 2001, c. 4, s. 10
 **
 
 ###### [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md)
@@ -2870,7 +2870,7 @@ where
 
 
 **
-> 2013, c. 7.
+> 2013, c. 7
 **
 
 ###### [First Nations Financial Transparency Act](/en/Acts/Statutes%20of%20Canada/2013/c.%207.md)
@@ -2886,7 +2886,7 @@ where
 
 
 **
-> 2014, c. 38.
+> 2014, c. 38
 **
 
 ###### [Indian Act Amendment and Replacement Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2038.md)
@@ -2982,7 +2982,7 @@ where
 
 
 **
-> 1999, c. 24.
+> 1999, c. 24
 **
 
 ##### [First Nations Land Management Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2024.md)
@@ -2994,7 +2994,7 @@ where
 
 
 **
-> 2005, c. 48.
+> 2005, c. 48
 **
 
 ##### [First Nations Oil and Gas and Moneys Management Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2048.md)
@@ -3006,7 +3006,7 @@ where
 
 
 **
-> 2018, c. 27, s. 675.
+> 2018, c. 27, s. 675
 **
 
 ##### [Addition of Lands to Reserves and Reserve Creation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2027,%20s.%20675.md)
