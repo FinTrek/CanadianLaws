@@ -35,7 +35,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. 1 (5<sup>e</sup> suppl.).
+> L.R., ch. 1 (5<sup>e</sup> suppl.)
 **
 
 ### [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)
@@ -215,7 +215,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. C-8.
+> L.R., ch. C-8
 **
 
 ### [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md)
@@ -254,7 +254,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. C-51.
+> L.R., ch. C-51
 **
 
 ### [Loi sur l’exportation et l’importation de biens culturels](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-51.md)
@@ -270,7 +270,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 1996, ch. 23.
+> 1996, ch. 23
 **
 
 ### [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md)
@@ -286,7 +286,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> C.R.C., ch. 945.
+> C.R.C., ch. 945
 **
 
 ### [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md)
@@ -371,7 +371,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. E-15.
+> L.R., ch. E-15
 **
 
 ### [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md)
@@ -419,7 +419,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> DORS/91-51; DORS/2006-162, art. 6.
+> DORS/91-51; DORS/2006-162, art. 6
 **
 
 ### [Règlement sur la comptabilité abrégée (TPS/TVH)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/91/51.md)
@@ -432,7 +432,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **PARTIE 3** 
 **
-> 2002, ch. 22.
+> 2002, ch. 22
 **
 
 ## [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md)
@@ -475,7 +475,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **SOUS-SECTION A** 
 **
-> 1991, ch. 46.
+> 1991, ch. 46
 **
 
 #### [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md)
@@ -503,7 +503,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2005, ch. 54.
+> 2005, ch. 54
 **
 
 ##### Loi modifiant certaines lois relatives aux institutions financières
@@ -524,7 +524,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **SOUS-SECTION B** 
 **
-> L.R., ch. C-21; 2001, ch. 9, art. 218.
+> L.R., ch. C-21; 2001, ch. 9, art. 218
 **
 
 #### [Loi canadienne sur les paiements](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-21.md)
@@ -571,7 +571,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **SOUS-SECTION A** 
 **
-> L.R., ch. C-44; 1994, ch. 24, art. 1(F).
+> L.R., ch. C-44; 1994, ch. 24, art. 1(F)
 **
 
 #### [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md)
@@ -603,7 +603,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2018, ch. 27 ou sanction.
+> 2018, ch. 27 ou sanction
 **
 
 <sup><a href='#nbp_2019-c29_F_transform_hq_24187'>[*]</a></sup>**102** La présente sous-section entre en vigueur à la date d’entrée en vigueur de l’article 183 de la Loi no 2 d’exécution du budget de 2018 ou, si elle est postérieure, à la date de sanction de la présente loi.
@@ -615,7 +615,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **SOUS-SECTION B** 
 **
-> L.R., ch. C-46.
+> L.R., ch. C-46
 **
 
 #### [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)
@@ -628,7 +628,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **SOUS-SECTION C** 
 **
-> 2000, ch. 17; 2001, ch. 41, art. 48.
+> 2000, ch. 17; 2001, ch. 41, art. 48
 **
 
 #### [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md)
@@ -669,7 +669,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **SOUS-SECTION D** 
 **
-> 1993, ch. 37.
+> 1993, ch. 37
 **
 
 #### [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md)
@@ -721,7 +721,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. C-46.
+> L.R., ch. C-46
 **
 
 ###### [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)
@@ -733,7 +733,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2000, ch. 24.
+> 2000, ch. 24
 **
 
 ###### [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md)
@@ -749,7 +749,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2000, ch. 17; 2001, ch. 41, art. 48.
+> 2000, ch. 17; 2001, ch. 41, art. 48
 **
 
 ###### [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md)
@@ -770,7 +770,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **SECTION 3** 
 **
-> 1995, ch. 44.
+> 1995, ch. 44
 **
 
 ### [Loi sur l’équité en matière d’emploi](/fr/Lois/Lois%20du%20Canada/1995/ch.%2044.md)
@@ -921,7 +921,7 @@ où :
 
 
 **
-> L.R., ch. B-3; 1992, ch. 27, art. 2.
+> L.R., ch. B-3; 1992, ch. 27, art. 2
 **
 
 #### [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md)
@@ -941,7 +941,7 @@ où :
 
 
 **
-> L.R., ch. C-36.
+> L.R., ch. C-36
 **
 
 #### [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md)
@@ -969,7 +969,7 @@ où :
 
 
 **
-> L.R., ch. C-44; 1994, ch. 24, art. 1(F).
+> L.R., ch. C-44; 1994, ch. 24, art. 1(F)
 **
 
 #### [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md)
@@ -993,7 +993,7 @@ où :
 
 
 **
-> L.R., ch. 32 (2<sup>e</sup> suppl.).
+> L.R., ch. 32 (2<sup>e</sup> suppl.)
 **
 
 #### [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md)
@@ -1061,7 +1061,7 @@ où :
 
 **SECTION 6** 
 **
-> L.R., ch. C-8.
+> L.R., ch. C-8
 **
 
 ### [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md)
@@ -1093,7 +1093,7 @@ où :
 
 **SECTION 7** 
 **
-> L.R., ch. O-9.
+> L.R., ch. O-9
 **
 
 ### [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md)
@@ -1110,7 +1110,7 @@ où :
 
 
 **
-> L.R., ch. C-17.
+> L.R., ch. C-17
 **
 
 #### [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md)
@@ -1122,7 +1122,7 @@ où :
 
 
 **
-> L.R., ch. P-36.
+> L.R., ch. P-36
 **
 
 #### [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)
@@ -1134,7 +1134,7 @@ où :
 
 
 **
-> L.R., ch. R-11.
+> L.R., ch. R-11
 **
 
 #### [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md)
@@ -1152,7 +1152,7 @@ où :
 
 **SOUS-SECTION A** 
 **
-> L.R., ch. B-3; 1992, ch. 27, art. 2.
+> L.R., ch. B-3; 1992, ch. 27, art. 2
 **
 
 #### [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md)
@@ -1169,7 +1169,7 @@ où :
 
 **SOUS-SECTION B** 
 **
-> L.R., ch. E-4.
+> L.R., ch. E-4
 **
 
 #### [Loi sur l’inspection de l’électricité et du gaz](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-4.md)
@@ -1182,7 +1182,7 @@ où :
 
 **SOUS-SECTION C** 
 **
-> L.R., ch. F-27.
+> L.R., ch. F-27
 **
 
 #### [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md)
@@ -1308,7 +1308,7 @@ où :
 
 **SOUS-SECTION D** 
 **
-> L.R., ch. I-3.
+> L.R., ch. I-3
 **
 
 #### [Loi sur l’importation des boissons enivrantes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-3.md)
@@ -1337,7 +1337,7 @@ où :
 
 **SOUS-SECTION E** 
 **
-> L.R., ch. P-19.
+> L.R., ch. P-19
 **
 
 #### [Loi sur le poinçonnage des métaux précieux](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-19.md)
@@ -1350,7 +1350,7 @@ où :
 
 **SOUS-SECTION F** 
 **
-> L.R., ch. T-10.
+> L.R., ch. T-10
 **
 
 #### [Loi sur l’étiquetage des textiles](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-10.md)
@@ -1363,7 +1363,7 @@ où :
 
 **SOUS-SECTION G** 
 **
-> L.R., ch. W-6.
+> L.R., ch. W-6
 **
 
 #### [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md)
@@ -1409,7 +1409,7 @@ où :
 
 **SOUS-SECTION H** 
 **
-> L.R., ch. 24 (3<sup>e</sup> suppl.), partie III.
+> L.R., ch. 24 (3<sup>e</sup> suppl.), partie III
 **
 
 #### [Loi sur le contrôle des renseignements relatifs aux matières dangereuses](/fr/Lois/Lois%20du%20Canada/1985/ch.%2024%20(3e%20suppl.),%20Partie%20III.md)
@@ -1492,7 +1492,7 @@ où :
 
 **Avis**
 
-**210** Si un avis est publié avant la date de référence dans la Gazette du Canada conformément à l’alinéa 12(1)a) de la [Loi sur le contrôle des renseignements relatifs aux matières dangereuses](/fr/Lois/Lois%20du%20Canada/1985/ch.%2024%20(3e%20suppl.),%20Partie%20III.md), dans sa version antérieure à cette date, et que l’article 201 de la présente loi entre en vigueur avant la fin du délai qui est spécifié dans l’avis, la partie touchée qui veut présenter des observations par écrit sur la demande de dérogation et la fiche de données de sécurité ou l’étiquette en cause peut, à partir de la date de référence et jusqu’à l’expiration du délai spécifié dans l’avis, présenter ses observations au ministre de la Santé.
+**210** Si un avis est publié avant la date de référence dans la [Gazette du Canada](http://www.gazette.gc.ca/) conformément à l’alinéa 12(1)a) de la [Loi sur le contrôle des renseignements relatifs aux matières dangereuses](/fr/Lois/Lois%20du%20Canada/1985/ch.%2024%20(3e%20suppl.),%20Partie%20III.md), dans sa version antérieure à cette date, et que l’article 201 de la présente loi entre en vigueur avant la fin du délai qui est spécifié dans l’avis, la partie touchée qui veut présenter des observations par écrit sur la demande de dérogation et la fiche de données de sécurité ou l’étiquette en cause peut, à partir de la date de référence et jusqu’à l’expiration du délai spécifié dans l’avis, présenter ses observations au ministre de la Santé.
 
 
 
@@ -1524,7 +1524,7 @@ où :
 
 **SOUS-SECTION I** 
 **
-> 1996, ch. 10.
+> 1996, ch. 10
 **
 
 #### [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md)
@@ -1558,7 +1558,7 @@ où :
 
 **SOUS-SECTION J** 
 **
-> 2002, ch. 28.
+> 2002, ch. 28
 **
 
 #### [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md)
@@ -1579,7 +1579,7 @@ où :
 
 **SOUS-SECTION K** 
 **
-> 2005, ch. 20.
+> 2005, ch. 20
 **
 
 #### [Loi sur la mise en quarantaine](/fr/Lois/Lois%20du%20Canada/2005/ch.%2020.md)
@@ -1592,7 +1592,7 @@ où :
 
 **SOUS-SECTION L** 
 **
-> 2009, ch. 24.
+> 2009, ch. 24
 **
 
 #### [Loi sur les agents pathogènes humains et les toxines](/fr/Lois/Lois%20du%20Canada/2009/ch.%2024.md)
@@ -1605,7 +1605,7 @@ où :
 
 **SECTION 10** 
 **
-> L.R., ch. R-10.
+> L.R., ch. R-10
 **
 
 ### [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md)
@@ -1646,7 +1646,7 @@ où :
 
 **SECTION 11** 
 **
-> L.R., ch. P-14.
+> L.R., ch. P-14
 **
 
 ### [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md)
@@ -1863,7 +1863,7 @@ où :
 
 
 **
-> L.R., ch. A-12.
+> L.R., ch. A-12
 **
 
 ##### [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md)
@@ -1875,7 +1875,7 @@ où :
 
 
 **
-> 2001, ch. 29.
+> 2001, ch. 29
 **
 
 ##### [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md)
@@ -1943,7 +1943,7 @@ où :
 
 
 **
-> L.R., ch. A-2.
+> L.R., ch. A-2
 **
 
 ##### [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md)
@@ -1971,7 +1971,7 @@ où :
 
 
 **
-> L.R., ch. F-11.
+> L.R., ch. F-11
 **
 
 ##### [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)
@@ -1983,7 +1983,7 @@ où :
 
 
 **
-> 1996, ch.10.
+> 1996, ch.10
 **
 
 ##### [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md)
@@ -1995,7 +1995,7 @@ où :
 
 
 **
-> 2015, ch. 20, art. 11.
+> 2015, ch. 20, art. 11
 **
 
 ##### [Loi sur la sûreté des déplacements aériens](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%2011.md)
@@ -2024,9 +2024,9 @@ où :
 
 <a name='nbp_2019-c29_F_transform_hq_24199'><sup>*</sup></a>: [Note : Articles 271 à 275, 277 et 278 non en vigueur.]<br />
 
-**Gazette du Canada**
+**[Gazette du Canada](http://www.gazette.gc.ca/)**
 
-- **(3)** Le ministre des Transports publie, dans la Gazette du Canada, un avis de la date de cession, au sens du paragraphe 2(1) de la [Loi sur la commercialisation des services de contrôle de sûreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20270.md) dès que possible après cette date.
+- **(3)** Le ministre des Transports publie, dans la [Gazette du Canada](http://www.gazette.gc.ca/), un avis de la date de cession, au sens du paragraphe 2(1) de la [Loi sur la commercialisation des services de contrôle de sûreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20270.md) dès que possible après cette date.
 
 **Décret**
 
@@ -2045,7 +2045,7 @@ où :
 
 **SECTION 13** 
 **
-> 2014, ch. 29, art. 2.
+> 2014, ch. 29, art. 2
 **
 
 ### [Loi sur l’indemnisation de l’industrie aérienne](/fr/Lois/Lois%20du%20Canada/2014/ch.%2029,%20art.%202.md)
@@ -2094,7 +2094,7 @@ où :
 
 **SECTION 14** 
 **
-> 2001, ch. 29.
+> 2001, ch. 29
 **
 
 ### [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md)
@@ -2130,7 +2130,7 @@ où :
 
 
 **
-> L.R., ch. C-29.
+> L.R., ch. C-29
 **
 
 ##### [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md)
@@ -2150,7 +2150,7 @@ où :
 
 
 **
-> 2001, ch. 27.
+> 2001, ch. 27
 **
 
 ##### [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md)
@@ -2170,7 +2170,7 @@ où :
 
 
 **
-> L.R., ch. A-1.
+> L.R., ch. A-1
 **
 
 ##### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
@@ -2182,7 +2182,7 @@ où :
 
 
 **
-> L.R., ch. P-21.
+> L.R., ch. P-21
 **
 
 ##### [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)
@@ -2222,7 +2222,7 @@ où :
 
 **SECTION 16** 
 **
-> 2001, ch. 27.
+> 2001, ch. 27
 **
 
 ### [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md)
@@ -2292,7 +2292,7 @@ où :
 
 **SECTION 17** 
 **
-> L.R., ch. F-7; 2002, ch. 8, art. 14.
+> L.R., ch. F-7; 2002, ch. 8, art. 14
 **
 
 ### [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md)
@@ -2305,7 +2305,7 @@ où :
 
 **SECTION 18** 
 **
-> L.R., ch. N-11.
+> L.R., ch. N-11
 **
 
 ### [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md)
@@ -2378,7 +2378,7 @@ où :
 
 **SECTION 21** 
 **
-> 2005, ch. 21; 2017, ch. 20, art. 270.
+> 2005, ch. 21; 2017, ch. 20, art. 270
 **
 
 ### [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md)
@@ -2422,7 +2422,7 @@ où :
 
 
 **
-> L.R., ch. S-23.
+> L.R., ch. S-23
 **
 
 #### [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md)
@@ -2438,7 +2438,7 @@ où :
 
 
 **
-> 1994, ch. 28.
+> 1994, ch. 28
 **
 
 #### [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md)
@@ -2466,7 +2466,7 @@ où :
 
 **SECTION 23** 
 **
-> 2000, ch. 32.
+> 2000, ch. 32
 **
 
 ### [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md)
@@ -2512,7 +2512,7 @@ où :
 
 **SECTION 24** 
 **
-> 1998, ch. 31.
+> 1998, ch. 31
 **
 
 ### [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md)
@@ -2714,7 +2714,7 @@ où :
 
 
 **
-> L.R., ch. A-1.
+> L.R., ch. A-1
 **
 
 ###### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
@@ -2734,7 +2734,7 @@ où :
 
 
 **
-> L.R., ch. F-11.
+> L.R., ch. F-11
 **
 
 ###### [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)
@@ -2770,7 +2770,7 @@ où :
 
 
 **
-> L.R., ch. I-5.
+> L.R., ch. I-5
 **
 
 ###### [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)
@@ -2786,7 +2786,7 @@ où :
 
 
 **
-> L.R., ch. P-21.
+> L.R., ch. P-21
 **
 
 ###### [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)
@@ -2806,7 +2806,7 @@ où :
 
 
 **
-> L.R., ch. S-3.
+> L.R., ch. S-3
 **
 
 ###### [Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md)
@@ -2818,7 +2818,7 @@ où :
 
 
 **
-> L.R., ch. W-4.
+> L.R., ch. W-4
 **
 
 ###### [Loi sur les forces hydrauliques du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-4.md)
@@ -2830,7 +2830,7 @@ où :
 
 
 **
-> 1991, ch. 30.
+> 1991, ch. 30
 **
 
 ###### [Loi sur la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/1991/ch.%2030.md)
@@ -2846,7 +2846,7 @@ où :
 
 
 **
-> 1994, ch. 35.
+> 1994, ch. 35
 **
 
 ###### [Loi sur l’autonomie gouvernementale des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2035.md)
@@ -2858,7 +2858,7 @@ où :
 
 
 **
-> 1991, ch. 50; 2001, ch. 4, art. 10.
+> 1991, ch. 50; 2001, ch. 4, art. 10
 **
 
 ###### [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md)
@@ -2870,7 +2870,7 @@ où :
 
 
 **
-> 2013, ch. 7.
+> 2013, ch. 7
 **
 
 ###### [Loi sur la transparence financière des Premières Nations](/fr/Lois/Lois%20du%20Canada/2013/ch.%207.md)
@@ -2886,7 +2886,7 @@ où :
 
 
 **
-> 2014, ch. 38.
+> 2014, ch. 38
 **
 
 ###### [Loi sur la modification et le remplacement de la Loi sur les Indiens](/fr/Lois/Lois%20du%20Canada/2014/ch.%2038.md)
@@ -2982,7 +2982,7 @@ où :
 
 
 **
-> 1999, ch. 24.
+> 1999, ch. 24
 **
 
 ##### [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md)
@@ -2994,7 +2994,7 @@ où :
 
 
 **
-> 2005, ch. 48.
+> 2005, ch. 48
 **
 
 ##### [Loi sur la gestion du pétrole et du gaz et des fonds des Premières Nations](/fr/Lois/Lois%20du%20Canada/2005/ch.%2048.md)
@@ -3006,7 +3006,7 @@ où :
 
 
 **
-> 2018, ch. 27, art. 675.
+> 2018, ch. 27, art. 675
 **
 
 ##### [Loi sur l’ajout de terres aux réserves et la création de réserves](/fr/Lois/Lois%20du%20Canada/2018/ch.%2027,%20art.%20675.md)
