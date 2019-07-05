@@ -25,7 +25,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Short title**
 
 **1** This Act may be cited as the Veterans Well-being Act.
-> 2005, c. 21, s. 1; 2017, c. 20, s. 270.
+> 2005, c. 21, s. 1; 2017, c. 20, s. 270
 
 
 
@@ -134,7 +134,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deeming — medical assistance in dying**
 
 - **(7)** For the purposes of this Act, if a member or a veteran receives medical assistance in dying, that member or veteran is deemed to have died as a result of the illness, disease or disability for which they were determined to be eligible to receive that assistance, in accordance with paragraph 241.2(3)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2005, c. 21, s. 2; 2015, c. 36, s. 206; 2016, c. 3, s. 9, c. 7, s. 97; 2017, c. 20, s. 271; 2018, c. 12, s. 123.
+> 2005, c. 21, s. 2; 2015, c. 36, s. 206; 2016, c. 3, s. 9, c. 7, s. 97; 2017, c. 20, s. 2712018, c. 12, s. 123
 
 
 
@@ -147,7 +147,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Purpose**
 
 **2.1** The purpose of this Act is to recognize and fulfil the obligation of the people and Government of Canada to show just and due appreciation to members and veterans for their service to Canada. This obligation includes providing services, assistance and compensation to members and veterans who have been injured or have died as a result of military service and extends to their spouses or common-law partners or survivors and orphans. This Act shall be liberally interpreted so that the recognized obligation may be fulfilled.
-> 2015, c. 36, s. 207.
+> 2015, c. 36, s. 207
 
 
 
@@ -191,7 +191,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(5)** A spouse or common-law partner of a veteran who completed basic training and who was released from the Canadian Forces on or after April 1, 2006 may receive career transition services until the later of
 	- **(a)** March 31, 2020, and
 	- **(b)** the second anniversary of the day on which the veteran was released.
-> 2005, c. 21, s. 3; 2011, c. 12, s. 3; 2017, c. 20, s. 272; 2018, c. 12, s. 124.
+> 2005, c. 21, s. 3; 2011, c. 12, s. 3; 2017, c. 20, s. 2722018, c. 12, s. 124
 
 
 
@@ -210,7 +210,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Development of plan**
 
 - **(3)** In developing a career transition plan, the Minister shall have regard to any prescribed principles.
-> 2005, c. 21, s. 4; 2011, c. 12, s. 4; 2017, c. 20, s. 273.
+> 2005, c. 21, s. 4; 2011, c. 12, s. 4; 2017, c. 20, s. 273
 
 
 
@@ -219,7 +219,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Suspend or cancel**
 
 **5** The Minister may, in the prescribed circumstances, suspend or cancel the provision of career transition services to a person under this Part.
-> 2005, c. 21, s. 5; 2011, c. 12, s. 5; 2017, c. 20, s. 274.
+> 2005, c. 21, s. 5; 2011, c. 12, s. 5; 2017, c. 20, s. 274
 
 
 
@@ -230,7 +230,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **5.1** The Governor in Council may make regulations
 - **(a)** respecting the career transition services that may be provided under this Part; and
 - **(b)** defining residence and defining intervals of absence from Canada that shall be deemed not to have interrupted residence in Canada for the purposes of subsections 3(2) to (4).
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 274
 
 
 
@@ -241,22 +241,37 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Definitions**
+
+**5.11** The following definitions apply in this Part.
+
+***regular force*** has the same meaning as in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*force régulière*)
+
+***reserve force*** has the same meaning as in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*force de réserve*)
+
+***Supplementary Reserve*** has the meaning assigned by article 2.034 of the Queen’s Regulations and Orders for the Canadian Forces. (*Réserve supplémentaire*)
+
+***veteran*** means a former member or a member of the Supplementary Reserve. (*vétéran*)
+> 2019, c. 29, s. 318
+
+
+
+
+
 **Eligibility — veterans**
 
 **5.2** 
 
 - **(1)** The Minister may, on application, pay an education and training benefit to a veteran in accordance with section 5.3 or 5.5 if the veteran
 	- **(a)** served for a total of at least six years in the regular force, in the reserve force or in both; and
-	- **(b)** was honourably released from the Canadian Forces on or after April 1, 2006.
+	- **(b)** was honourably released from the Canadian Forces on or after April 1, 2006 or was transferred from the regular force or another subcomponent of the reserve force to the Supplementary Reserve on or after that date.
 
 **Maximum cumulative amount**
 
 - **(2)** The maximum cumulative amount that the Minister may pay to a veteran is $40,000 or, if the veteran served for a total of at least 12 years in the regular force, in the reserve force or in both, $80,000.
 
-**Definitions**
-
-- **(3)** In this section, regular force and reserve force have the same meanings as in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
-> 2017, c. 20, s. 274.
+- **(3)** [Repealed, 2019, c. 29, s. 319]
+> 2017, c. 20, s. 2742019, c. 29, s. 319
 
 
 
@@ -290,7 +305,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(5)** The day on which the payment is to be made must be no earlier than the 60th day before
 	- **(a)** the day on which fees for the education or training are due to be paid to the institution in respect of the period of study; or
 	- **(b)** the day on which the period of study begins, if the institution fixes no day on which the fees are due.
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 274
 
 
 
@@ -299,7 +314,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Education and training completion bonus**
 
 **5.4** On application, the Minister may pay, over and above an education and training benefit, an education and training completion bonus in the prescribed amount to a veteran who receives a degree, diploma, certification or designation in respect of which they received a payment of an education and training benefit under section 5.3.
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 274
 
 
 
@@ -334,7 +349,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(6)** The day on which the payment is to be made must be no earlier than the 60th day before
 	- **(a)** the day on which fees for the education or training are due to be paid to the provider; or
 	- **(b)** the day on which the education or training begins, if the provider fixes no day on which the fees are due.
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 274
 
 
 
@@ -342,8 +357,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **No payment to member**
 
-**5.6** For greater certainty, the Minister is not permitted to pay an education and training benefit to a person who is a member.
-> 2017, c. 20, s. 274.
+**5.6** For greater certainty, the Minister is not permitted to pay an education and training benefit to a person who is a member unless that person is a member of the Supplementary Reserve.
+> 2017, c. 20, s. 2742019, c. 29, s. 320
 
 
 
@@ -352,7 +367,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No payment — other services or benefit**
 
 **5.7** The Minister is not permitted to pay an education and training benefit to a veteran if they are being provided with rehabilitation services under Part 2, or are entitled to a Canadian Forces income support benefit under that Part.
-> 2017, c. 20, s. 274; 2018, c. 12, s. 125.
+> 2017, c. 20, s. 2742018, c. 12, s. 125
 
 
 
@@ -361,7 +376,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitation — incarceration**
 
 **5.8** If a veteran is incarcerated in a correctional institution and is not responsible for paying their living expenses, the Minister may limit the amount of an education and training benefit payable to the veteran to the amount that is, in the Minister’s opinion, required to allow the veteran to participate in the education or training.
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 274
 
 
 
@@ -371,9 +386,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **5.9** 
 
-- **(1)** An education and training benefit ceases to be payable to a veteran on the later of
-	- **(a)** April 1, 2028, and
-	- **(b)** the day after the 10th anniversary of the day on which the veteran was last released from the Canadian Forces.
+- **(1)** An education and training benefit ceases to be payable to a veteran on the day after the 10th anniversary of the later of
+	- **(a)** the day on which the veteran was last honourably released from the regular force or from a subcomponent of the reserve force other than the Supplementary Reserve; and
+	- **(b)** the day on which the veteran was last transferred to the Supplementary Reserve.
+
+**Exception — minimum period**
+
+- **(1.1)** Despite subsection (1),
+	- **(a)** an education and training benefit is payable until at least April 1, 2028 to a veteran who is eligible for the benefit on April 1, 2018; and
+	- **(b)** an education and training benefit is payable until at least July 5, 2029 to a veteran who is a member of the Supplementary Reserve on July 5, 2019.
+
+**Exception — release from Supplementary Reserve**
+
+- **(1.2)** Despite subsection (1), an education and training benefit is payable until at least the 10th anniversary of the day on which a veteran was honourably released from the Supplementary Reserve if the veteran was honourably released from the Supplementary Reserve during the period beginning on April 1, 2018 and ending on July 4, 2019.
 
 **Education or training ending after cessation**
 
@@ -382,7 +407,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(3)** Despite subsection (1), the Minister may, in the prescribed circumstances, pay an education and training benefit after it would otherwise cease to be payable.
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 2742019, c. 29, s. 321
 
 
 
@@ -391,7 +416,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitation**
 
 **5.91** The Minister is not permitted to pay an education and training benefit to a veteran after the day on which they receive the last of the payments totalling the maximum cumulative amount to which they are entitled on that day, despite any adjustment to the maximum cumulative amount that is made under the regulations after that day.
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 274
 
 
 
@@ -400,7 +425,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Suspension or cancellation**
 
 **5.92** The Minister may, in the prescribed circumstances, suspend the payment of an education and training benefit or cancel the benefit.
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 274
 
 
 
@@ -415,7 +440,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d)** defining educational institution for the purposes of paragraph 5.3(1)(a);
 - **(e)** prescribing the education or training that may or may not be approved by the Minister under section 5.5; and
 - **(f)** defining what constitutes incarceration in a correctional institution for the purposes of section 5.8.
-> 2017, c. 20, s. 274.
+> 2017, c. 20, s. 274
 
 
 
@@ -471,7 +496,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Presumption**
 
 - **(3)** For the purposes of subsections (1) and 18(1), a veteran’s physical or mental health problem is deemed to have resulted primarily from service in the Canadian Forces if, as a result of the health problem, the veteran suffers from a disability for which a disability award has been granted, pain and suffering compensation has been granted under section 45 or a pension has been granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
-> 2005, c. 21, s. 8; 2018, c. 12, s. 126.
+> 2005, c. 21, s. 82018, c. 12, s. 126
 
 
 
@@ -490,7 +515,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(3)** Subsection (1) does not apply in respect of a veteran who was within a prescribed class at the time that the physical or mental health problem leading to the release manifested itself.
-> 2005, c. 21, s. 9; 2018, c. 12, s. 127.
+> 2005, c. 21, s. 92018, c. 12, s. 127
 
 
 
@@ -519,7 +544,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(4)** In developing a rehabilitation plan, the Minister shall have regard to any prescribed principles and factors and be guided by current research in the field of rehabilitation.
 
 - **(5)** [Repealed, 2018, c. 12, s. 129]
-> 2005, c. 21, s. 10; 2018, c. 12, s. 129.
+> 2005, c. 21, s. 102018, c. 12, s. 129
 
 
 
@@ -536,7 +561,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Continuation**
 
 - **(2)** If a veteran dies after an application made under subsection (1) has been approved, the survivor continues to be eligible to receive rehabilitation services and vocational assistance under that subsection.
-> 2005, c. 21, s. 11; 2016, c. 7, s. 80; 2018, c. 12, s. 130.
+> 2005, c. 21, s. 11; 2016, c. 7, s. 802018, c. 12, s. 130
 
 
 
@@ -547,7 +572,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **12** The Minister may, on application, provide rehabilitation services and vocational assistance to a member’s or a veteran’s survivor, if the member or veteran dies as a result of
 - **(a)** a service-related injury or disease; or
 - **(b)** a non-service-related injury or disease that was aggravated by service.
-> 2005, c. 21, s. 12; 2011, c. 12, s. 6.
+> 2005, c. 21, s. 12; 2011, c. 12, s. 6
 
 
 
@@ -687,7 +712,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Non-application — paragraph (7)(a)**
 
 - **(10)** Paragraph (7)(a) does not apply to a veteran who has attained the age of 65 years.
-> 2005, c. 21, s. 18; 2015, c. 36, s. 208; 2016, c. 7, s. 81; 2018, c. 12, s. 131.
+> 2005, c. 21, s. 18; 2015, c. 36, s. 208; 2016, c. 7, s. 812018, c. 12, s. 131
 
 
 
@@ -718,7 +743,7 @@ where
 - **(3)** If regulations made under paragraph (2)(a) provide for the periodic adjustment of a veteran’s monthly military salary in accordance with a career progression factor, that periodic adjustment may only be applied if the Minister determines under subsection 18(5) that the veteran has a diminished earning capacity, and it shall not be applied after the earlier of
 	- **(a)** the last day of the prescribed number of years of service of the veteran in the Canadian Forces, and
 	- **(b)** the day before the day on which the veteran attains the age of 60 years.
-> 2005, c. 21, s. 19; 2016, c. 7, s. 82; 2018, c. 12, s. 132.
+> 2005, c. 21, s. 19; 2016, c. 7, s. 822018, c. 12, s. 132
 
 
 
@@ -741,7 +766,7 @@ where
 - **(2)** The Governor in Council may make regulations
 	- **(a)** providing for the periodic adjustment of the amount determined for A in subsection (1); and
 	- **(b)** respecting the determination, for the purpose of the description of B in subsection (1), of an amount payable to a class of veterans for a month.
-> 2018, c. 12, s. 133.
+> 2018, c. 12, s. 133
 
 
 
@@ -756,7 +781,7 @@ where
 **Non-compliance**
 
 - **(2)** If a veteran who is required by the Minister to undergo a medical examination or an assessment fails without reasonable excuse to do so, the Minister may suspend the payment of the income replacement benefit. If the veteran continues to fail to undergo the medical examination or the assessment for a period of 30 days after the day on which payment of the benefit is suspended, the Minister may cancel the benefit.
-> 2005, c. 21, s. 20; 2016, c. 7, s. 83; 2018, c. 12, s. 133.
+> 2005, c. 21, s. 20; 2016, c. 7, s. 832018, c. 12, s. 133
 
 
 
@@ -765,7 +790,7 @@ where
 **Suspension or cancellation**
 
 **21** The Minister may, in the prescribed circumstances, suspend the payment of an income replacement benefit that is payable under section 18 or cancel the benefit.
-> 2005, c. 21, s. 21; 2018, c. 12, s. 133.
+> 2005, c. 21, s. 212018, c. 12, s. 133
 
 
 
@@ -796,7 +821,7 @@ where
 	- **(b)** to the orphan, on the earlier of
 		- **(i)** the first day of the month after the month in which the orphan is no longer an orphan, and
 		- **(ii)** the first day of the month after the month in which the orphan dies.
-> 2005, c. 21, s. 22; 2018, c. 12, s. 133.
+> 2005, c. 21, s. 222018, c. 12, s. 133
 
 
 
@@ -842,7 +867,7 @@ where
 - **(5)** If regulations made under paragraph (4)(a) provide for the periodic adjustment of a member’s or a veteran’s monthly military salary in accordance with a career progression factor, that periodic adjustment shall not be applied after the earlier of
 	- **(a)** the last day of the prescribed number of years of service of the member or veteran in the Canadian Forces, and
 	- **(b)** the day before the day the member or veteran, if alive, would have attained the age of 60 years.
-> 2005, c. 21, s. 23; 2016, c. 7, s. 84; 2018, c. 12, s. 134.
+> 2005, c. 21, s. 23; 2016, c. 7, s. 842018, c. 12, s. 134
 
 
 
@@ -861,7 +886,7 @@ where
 **Lump sum**
 
 - **(2)** The benefit is to be paid as a lump sum.
-> 2005, c. 21, s. 24; 2018, c. 12, s. 135.
+> 2005, c. 21, s. 242018, c. 12, s. 135
 
 
 
@@ -883,7 +908,7 @@ where
 		- **(i)** the survivor is entitled to 50% of the income replacement benefit, and
 		- **(ii)** the orphans are entitled, as a class, to 50% of the income replacement benefit, divided equally among them;
 	- **(c)** if there are one or more orphans but no survivor, each of those orphans is entitled to the amount obtained by dividing the income replacement benefit by the number of those orphans.
-> 2005, c. 21, s. 25; 2018, c. 12, s. 135.
+> 2005, c. 21, s. 252018, c. 12, s. 135
 
 
 
@@ -908,7 +933,7 @@ where
 	- **(b)** to the orphan, on the earlier of
 		- **(i)** the first day of the month after the month in which the orphan is no longer an orphan, and
 		- **(ii)** the first day of the month after the month in which the orphan dies.
-> 2005, c. 21, s. 26; 2018, c. 12, s. 135.
+> 2005, c. 21, s. 262018, c. 12, s. 135
 
 
 
@@ -940,7 +965,7 @@ where
 - **(4)** The Governor in Council may make regulations
 	- **(a)** providing for the periodic adjustment of the income replacement benefit calculated in accordance with subsection (1); and
 	- **(b)** respecting the determination, for the purpose of subsection (3), of an amount payable to a class of survivors for a month.
-> 2018, c. 12, s. 135.
+> 2018, c. 12, s. 135
 
 
 
@@ -949,7 +974,7 @@ where
 **Suspension or cancellation**
 
 **26.2** The Minister may, in the prescribed circumstances, suspend the payment of an income replacement benefit that is payable under section 22 or 26 or cancel the benefit.
-> 2018, c. 12, s. 135.
+> 2018, c. 12, s. 135
 
 
 
@@ -965,7 +990,7 @@ where
 - **(a)** the veteran is no longer entitled to the income replacement benefit;
 - **(b)** the veteran meets the prescribed employment-related criteria; and
 - **(c)** in the month in which the application is made, a calculation made under subsection 37(1) in respect of the veteran would result in an amount greater than zero.
-> 2005, c. 21, s. 27; 2018, c. 12, s. 136.
+> 2005, c. 21, s. 272018, c. 12, s. 136
 
 
 
@@ -1065,7 +1090,7 @@ where
 	- **(a)** the last day of the month in which the veteran or survivor ceases to participate in a career transition services program referred to in subsection (1), unless the veteran or survivor is exempt from the application of that subsection,
 	- **(b)** the last day of the month in which the veteran or survivor no longer meets the prescribed employment-related criteria, and
 	- **(c)** the last day of the month in which a calculation made under subsection 37(1) in respect of the veteran or survivor would result in an amount equal to or less than zero.
-> 2005, c. 21, s. 35; 2011, c. 12, s. 7.
+> 2005, c. 21, s. 35; 2011, c. 12, s. 7
 
 
 
@@ -1164,7 +1189,7 @@ where
 - **(e)** respecting the payment of expenses arising out of a person’s participation in a rehabilitation plan or a vocational assistance plan; and
 - **(f)** defining residence and defining intervals of absence from Canada that shall be deemed not to have interrupted residence in Canada for the purposes of sections 33 and 34.
 - **(g)** [Repealed, 2018, c. 12, s. 138]
-> 2005, c. 21, s. 41; 2015, c. 36, s. 211; 2016, c. 7, s. 87; 2018, c. 12, s. 138.
+> 2005, c. 21, s. 41; 2015, c. 36, s. 211; 2016, c. 7, s. 872018, c. 12, s. 138
 
 
 
@@ -1182,7 +1207,7 @@ where
 **Non-application of this Part**
 
 **42** This Part, other than sections 44.1, 44.2 and 56.6 to 56.8, does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
-> 2005, c. 21, s. 42; 2015, c. 36, s. 213; 2017, c. 20, s. 276; 2018, c. 12, s. 140.
+> 2005, c. 21, s. 42; 2015, c. 36, s. 213; 2017, c. 20, s. 2762018, c. 12, s. 140
 
 
 
@@ -1225,7 +1250,7 @@ where
 **Regulations**
 
 - **(3)** The Governor in Council may, for the purpose of subsection 44.1(1), make regulations respecting the determination of what constitutes a sudden and single incident.
-> 2015, c. 36, s. 214.
+> 2015, c. 36, s. 214
 
 
 
@@ -1234,7 +1259,7 @@ where
 **Amount of benefit**
 
 **44.2** The amount of the critical injury benefit that is payable to a member or veteran shall be the amount set out in column 2 of item 2.2 of Schedule 2.
-> 2015, c. 36, s. 214.
+> 2015, c. 36, s. 214
 
 
 
@@ -1259,7 +1284,7 @@ where
 **Compensable fraction**
 
 - **(2)** Pain and suffering compensation may be paid under paragraph (1)(b) only in respect of that fraction of a disability, measured in fifths, that represents the extent to which the injury or disease was aggravated by service.
-> 2005, c. 21, s. 45; 2018, c. 12, s. 142.
+> 2005, c. 21, s. 452018, c. 12, s. 142
 
 
 
@@ -1278,7 +1303,7 @@ where
 **Compensable fraction**
 
 - **(2)** If a disability results from an injury or a disease that is deemed to be a service-related injury or disease, pain and suffering compensation may be paid under subsection 45(1) only in respect of that fraction of the disability, measured in fifths, that represents the extent to which that injury or disease is a consequence of another injury or disease that is, or is deemed to be, a service-related injury or disease.
-> 2005, c. 21, s. 46; 2015, c. 36, s. 215; 2018, c. 12, s. 143.
+> 2005, c. 21, s. 46; 2015, c. 36, s. 2152018, c. 12, s. 143
 
 
 
@@ -1293,7 +1318,7 @@ where
 **Extent of disability**
 
 - **(2)** The member’s or veteran’s extent of disability in respect of that other paired organ or limb shall be considered to be 50% of the extent of disability at which the member or veteran would have been assessed if the loss of, the permanent loss of the use of or the impairment of that paired organ or limb had occurred in circumstances in which pain and suffering compensation would have been payable under section 45.
-> 2005, c. 21, s. 47; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 472018, c. 12, s. 144
 
 
 
@@ -1312,7 +1337,7 @@ where
 **Compensable fraction — consequential injury or disease**
 
 - **(3)** In the case of an injury or a disease that is a consequence of another injury or disease, pain and suffering compensation may be paid under subsection (1) only in respect of that fraction of the disability that has been determined in accordance with subsection 46(2).
-> 2005, c. 21, s. 48; 2011, c. 12, s. 10; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 48; 2011, c. 12, s. 102018, c. 12, s. 144
 
 
 
@@ -1327,7 +1352,7 @@ where
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(2)** The instructions and table of disabilities are exempt from the application of sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2005, c. 21, s. 49; 2011, c. 12, s. 11; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 49; 2011, c. 12, s. 112018, c. 12, s. 144
 
 
 
@@ -1348,7 +1373,7 @@ where
 **Fraction**
 
 - **(2)** For the purpose of determining the extent of disability in subsection (1), if a disability award or pain and suffering compensation was paid or may be paid only in respect of a fraction of a disability, then only that fraction of the disability shall be taken into account.
-> 2005, c. 21, s. 50; 2011, c. 12, s. 12; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 50; 2011, c. 12, s. 122018, c. 12, s. 144
 
 
 
@@ -1369,7 +1394,7 @@ where
 **Additional payment deemed to be compensation**
 
 - **(3)** The additional payment is deemed to be compensation for the purposes of sections 88 to 90 and 92 and subsection 93(1).
-> 2005, c. 21, s. 51; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 512018, c. 12, s. 144
 
 
 
@@ -1380,7 +1405,7 @@ where
 **52** Subject to section 52.1, pain and suffering compensation ceases to be payable under section 45, 47 or 48 on the earlier of
 - **(a)** the first day of the month after the month in which the member or veteran makes an election under section 53, and
 - **(b)** the first day of the month after the month in which the member or veteran dies.
-> 2005, c. 21, s. 52; 2016, c. 7, s. 88; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 52; 2016, c. 7, s. 882018, c. 12, s. 144
 
 
 
@@ -1389,7 +1414,7 @@ where
 **Suspension or cancellation**
 
 **52.1** The Minister may, in the prescribed circumstances, suspend the payment of pain and suffering compensation that is payable under section 45, 47 or 48 or cancel the pain and suffering compensation.
-> 2011, c. 12, s. 13; 2018, c. 12, s. 144.
+> 2011, c. 12, s. 132018, c. 12, s. 144
 
 
 
@@ -1416,7 +1441,7 @@ where
 **Election irrevocable**
 
 - **(3)** An election made under subsection (1) is irrevocable and applies in respect of the member’s or veteran’s total extent of disability for which pain and suffering compensation is payable when the election is made.
-> 2005, c. 21, s. 53; 2016, c. 7, s. 89; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 53; 2016, c. 7, s. 892018, c. 12, s. 144
 
 
 
@@ -1425,7 +1450,7 @@ where
 **Death of member or veteran**
 
 **54** If a member or a veteran to whom pain and suffering compensation is payable under section 45, 47 or 48 dies, the Minister may, on application, pay as a lump sum, in accordance with section 56.1, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, any pain and suffering compensation that would have been payable to the member or veteran under section 53 if they had made the election under that section on the day before their death.
-> 2005, c. 21, s. 54; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 542018, c. 12, s. 144
 
 
 
@@ -1440,7 +1465,7 @@ where
 **Rights of survivor and dependent child**
 
 - **(2)** The survivor or dependent child has, in respect of the application referred to in subsection (1), all of the rights that the member or veteran would have had had they lived.
-> 2005, c. 21, s. 55; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 552018, c. 12, s. 144
 
 
 
@@ -1449,7 +1474,7 @@ where
 **Death of member or veteran — no application made**
 
 **56** If a member or a veteran dies before they make an application for pain and suffering compensation under section 45, 47 or 48, the Minister may, on application, pay as a lump sum, in accordance with section 56.1, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, pain and suffering compensation in an amount equal to the amount, set out in column 4 of Schedule 3, that corresponds to the monthly amount of pain and suffering compensation, set out in column 3 of that Schedule, that would have been payable to the member or veteran under section 45, 47 or 48 if the member or veteran had lived and had made the application.
-> 2005, c. 21, s. 56; 2011, c. 12, s. 14; 2018, c. 12, s. 144.
+> 2005, c. 21, s. 56; 2011, c. 12, s. 142018, c. 12, s. 144
 
 
 
@@ -1463,7 +1488,7 @@ where
 	- **(i)** the survivor is entitled to 50% of the pain and suffering compensation, and
 	- **(ii)** the persons who were dependent children are entitled, as a class, to 50% of the pain and suffering compensation, divided equally among them;
 - **(c)** if there are one or more persons who were dependent children but no survivor, each of those children is entitled to the amount obtained by dividing the pain and suffering compensation by the number of those children.
-> 2018, c. 12, s. 144.
+> 2018, c. 12, s. 144
 
 
 
@@ -1472,7 +1497,7 @@ where
 **Deemed extent of disability**
 
 **56.2** For the purposes of sections 55 and 56, if a member or a veteran dies as a result of an injury or a disease for which a disability award has been paid or for which pain and suffering compensation has been paid, is payable or would be payable and their death occurs more than 30 days after the day on which the injury occurred or the disease was contracted or the injury or disease was aggravated, the member or veteran is deemed to have been assessed, on the day before their death, as having an extent of disability of 100% in respect of that injury or disease.
-> 2018, c. 12, s. 144.
+> 2018, c. 12, s. 144
 
 
 
@@ -1481,7 +1506,7 @@ where
 **Reduction**
 
 **56.3** If an amount is paid or payable to a person from a prescribed source in respect of a death or disability for which pain and suffering compensation is payable, the Minister may reduce the pain and suffering compensation that is payable to the person by an amount determined in accordance with the regulations.
-> 2018, c. 12, s. 144.
+> 2018, c. 12, s. 144
 
 
 
@@ -1496,7 +1521,7 @@ where
 **Compensable fraction**
 
 - **(2)** For the purpose of determining the extent of disability, if a disability award or pain and suffering compensation was paid or may be paid only in respect of a fraction of a disability, or if only a fraction of a disability is pensionable under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), then only that fraction of the disability shall be taken into account.
-> 2018, c. 12, s. 144.
+> 2018, c. 12, s. 144
 
 
 
@@ -1511,7 +1536,7 @@ where
 **No pain and suffering compensation — inseparable for purpose of assessment**
 
 - **(2)** No pain and suffering compensation shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the Minister determines that the injury or disease, or the aggravation, is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
-> 2018, c. 12, s. 144.
+> 2018, c. 12, s. 144
 
 
 
@@ -1570,7 +1595,7 @@ where
 - **(9)** Subject to section 56.8, additional pain and suffering compensation ceases to be payable on the earlier of
 	- **(a)** the first day of the month after the month in which the Minister determines that the veteran is no longer entitled to the additional pain and suffering compensation, and
 	- **(b)** the first day of the month after the month in which the veteran dies.
-> 2018, c. 12, s. 144.
+> 2018, c. 12, s. 144
 
 
 
@@ -1579,7 +1604,7 @@ where
 **Examination or assessment**
 
 **56.7** The Minister may, for the purpose of determining whether a veteran continues to be entitled to additional pain and suffering compensation under section 56.6 or for the purpose of determining whether the extent of the veteran’s permanent and severe impairment has changed, require the veteran to undergo a medical examination or an assessment by a person specified by the Minister.
-> 2018, c. 12, s. 144.
+> 2018, c. 12, s. 144
 
 
 
@@ -1588,7 +1613,7 @@ where
 **Suspension or cancellation**
 
 **56.8** The Minister may, in the prescribed circumstances, suspend the payment of additional pain and suffering compensation or cancel the additional pain and suffering compensation.
-> 2018, c. 12, s. 144.
+> 2018, c. 12, s. 144
 
 
 
@@ -1665,7 +1690,7 @@ where
 **Specially made apparel**
 
 - **(5)** If a member or a veteran has received a disability award or pain and suffering compensation for a disability that requires the wearing of specially made apparel, the Minister may, on application, in addition to any other allowance that may be payable under this section, pay a clothing allowance on account of the purchase of the apparel.
-> 2005, c. 21, s. 60; 2018, c. 12, s. 145.
+> 2005, c. 21, s. 602018, c. 12, s. 145
 
 
 
@@ -1697,7 +1722,7 @@ where
 - **(a)** respecting the rules of evidence and evidentiary presumptions relating to applications for a critical injury benefit, pain and suffering compensation or a death benefit;
 - **(b)** respecting the determination, for the purpose of section 56.3, of an amount by which pain and suffering compensation may be reduced; and
 - **(c)** respecting what constitutes a permanent and severe impairment, the manner of determining whether a veteran has a permanent and severe impairment and the extent of the permanent and severe impairment.
-> 2005, c. 21, s. 63; 2015, c. 36, s. 216; 2018, c. 12, s. 146.
+> 2005, c. 21, s. 63; 2015, c. 36, s. 2162018, c. 12, s. 146
 
 
 
@@ -1777,7 +1802,7 @@ where
 - **(3)** In deciding whether a designated person plays an essential role in the provision or coordination of the ongoing care to the veteran in the veteran’s home, the Minister shall consider only prescribed factors.
 
 - **(4)** [Repealed, 2017, c. 20, s. 279]
-> 2015, c. 36, s. 217; 2017, c. 20, s. 279; 2018, c. 12, s. 147.
+> 2015, c. 36, s. 217; 2017, c. 20, s. 2792018, c. 12, s. 147
 
 
 
@@ -1786,7 +1811,7 @@ where
 **Amount of benefit**
 
 **65.2** The monthly amount of a caregiver recognition benefit that is payable to a designated person shall be the amount set out in column 2 of item 5 of Schedule 2.
-> 2015, c. 36, s. 217; 2017, c. 20, s. 280.
+> 2015, c. 36, s. 217; 2017, c. 20, s. 280
 
 
 
@@ -1795,7 +1820,7 @@ where
 **Only one designated person**
 
 **65.21** A veteran may, for the purpose of subsection 65.1(1), designate only one person at a time.
-> 2017, c. 20, s. 280.
+> 2017, c. 20, s. 280
 
 
 
@@ -1812,7 +1837,7 @@ where
 - **(2)** If a veteran, by means of a new application for a caregiver recognition benefit, replaces the designated person with a new designated person, the caregiver recognition benefit begins to be payable to the new designated person on the later of
 	- **(a)** the first day of the month in which the new application is made, and
 	- **(b)** the day on which the benefit ceases to be payable to the previously designated person.
-> 2017, c. 20, s. 280.
+> 2017, c. 20, s. 280
 
 
 
@@ -1824,7 +1849,7 @@ where
 - **(a)** the first day of the month after the month in which the conditions of eligibility set out in paragraphs 65.1(1)(a) to (d) are no longer met,
 - **(b)** the first day of the month after the month in which the veteran makes a new application to replace the designated person with a new designated person, or
 - **(c)** the first day of the month after the month in which the veteran or the designated person dies.
-> 2017, c. 20, s. 280.
+> 2017, c. 20, s. 280
 
 
 
@@ -1839,7 +1864,7 @@ where
 **Change in circumstances — designated person**
 
 - **(2)** A designated person shall inform the Minister if there is any change in circumstances relating to the conditions of eligibility set out in paragraph 65.1(1)(c) or if the veteran who designated the person dies.
-> 2017, c. 20, s. 280.
+> 2017, c. 20, s. 280
 
 
 
@@ -1848,7 +1873,7 @@ where
 **Assessment**
 
 **65.3** The Minister may, for the purpose of determining whether a designated person may continue to receive a caregiver recognition benefit, require the veteran who designated the person to undergo an assessment by a person specified by the Minister.
-> 2015, c. 36, s. 217; 2017, c. 20, s. 280.
+> 2015, c. 36, s. 217; 2017, c. 20, s. 280
 
 
 
@@ -1857,7 +1882,7 @@ where
 **Suspension or cancellation**
 
 **65.31** The Minister may, in the prescribed circumstances, suspend the payment of a caregiver recognition benefit or cancel the benefit.
-> 2017, c. 20, s. 280.
+> 2017, c. 20, s. 280
 
 
 
@@ -1868,7 +1893,7 @@ where
 **65.4** The Governor in Council may make regulations
 - **(a)** defining ***care*** for the purposes of paragraphs 65.1(1)(b) and (c) and subsections 65.1(2) and (3); and
 - **(b)** defining ***home*** for the purposes of paragraph 65.1(1)(c) and subsection 65.1(3).
-> 2015, c. 36, s. 217.
+> 2015, c. 36, s. 217
 
 
 
@@ -1999,7 +2024,7 @@ where
 **Regulations**
 
 - **(2)** The Governor in Council may make regulations respecting the payment of those expenses.
-> 2005, c. 21, s. 74; 2018, c. 12, s. 148(E).
+> 2005, c. 21, s. 742018, c. 12, s. 148(E)
 
 
 
@@ -2019,7 +2044,7 @@ where
 **Information and guidance**
 
 **75.1** In order to aid a member or a veteran in their transition to civilian life, the Minister may provide them with information and guidance regarding the services, assistance and compensation for which they may be eligible taking into consideration their particular circumstances.
-> 2015, c. 36, s. 218.
+> 2015, c. 36, s. 218
 
 
 
@@ -2028,7 +2053,7 @@ where
 **Application from member before transition**
 
 **75.2** The Minister may consider an application for any services, assistance or compensation under this Act from a member, make a decision in respect of the application and conduct any required assessment even though the member may not be eligible for that service, assistance or compensation until they become a veteran.
-> 2015, c. 36, s. 218.
+> 2015, c. 36, s. 218
 
 
 
@@ -2053,7 +2078,7 @@ where
 **Refusal to consider**
 
 - **(3)** If a time is prescribed for making an application, the Minister shall refuse to consider an application made after that time unless the Minister is of the opinion that the reasons for the delay are reasonable in the circumstances.
-> 2005, c. 21, s. 76; 2011, c. 12, s. 15.
+> 2005, c. 21, s. 76; 2011, c. 12, s. 15
 
 
 
@@ -2114,7 +2139,7 @@ where
 **Waiver cancelled**
 
 - **(6)** A waiver is cancelled on the day on which the Minister notifies the person that they are required to make an application.
-> 2017, c. 20, s. 281.
+> 2017, c. 20, s. 281
 
 
 
@@ -2129,7 +2154,7 @@ where
 **Effect of cancelling waiver**
 
 - **(2)** Despite subsection (1), if the waiver is cancelled after the day on which the Minister receives the person’s notice of their decision to accept the waiver, no application is deemed to have been made.
-> 2017, c. 20, s. 281.
+> 2017, c. 20, s. 281
 
 
 
@@ -2183,7 +2208,7 @@ where
 	- **(ii)** another international organization or another country, pursuant to an international agreement;
 - **(d)** to the Department of Employment and Social Development, to the extent that the disclosure is required for the administration of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); and
 - **(e)** to the Correctional Service of Canada, to the extent that the disclosure is required for the administration of the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md).
-> 2005, c. 21, ss. 81, 116; 2012, c. 19, s. 695; 2013, c. 40, s. 237.
+> 2005, c. 21, ss. 81, 116; 2012, c. 19, s. 695; 2013, c. 40, s. 237
 
 
 
@@ -2194,7 +2219,7 @@ where
 **82** The Minister may, for the purpose of determining whether a person is entitled to an income replacement benefit or a Canadian Forces income support benefit under this Act,
 - **(a)** collect the person’s Social Insurance Number; and
 - **(b)** disclose that person’s Social Insurance Number to any department or agency of the Government of Canada.
-> 2005, c. 21, s. 82; 2015, c. 36, s. 219; 2018, c. 12, s. 149.
+> 2005, c. 21, s. 82; 2015, c. 36, s. 2192018, c. 12, s. 149
 
 
 
@@ -2207,7 +2232,7 @@ where
 **Review of decision under Part 1, 1.1, 2 or 3.1**
 
 **83** Subject to the regulations, the Minister may, on application or on the Minister’s own motion, review a decision made under Part 1, 1.1, 2 or 3.1 or under this section.
-> 2005, c. 21, s. 83; 2015, c. 36, s. 220; 2017, c. 20, s. 282.
+> 2005, c. 21, s. 83; 2015, c. 36, s. 220; 2017, c. 20, s. 282
 
 
 
@@ -2262,7 +2287,7 @@ where
 - **(3)** For the purposes of subsections (1) and (2), ***survivor***, in relation to a deceased person, means
 	- **(a)** their spouse who was, at the time of the person’s death, residing with them; or
 	- **(b)** the person who was, at the time of the person’s death, cohabiting with them in a conjugal relationship and had done so for a period of at least one year.
-> 2017, c. 20, s. 283.
+> 2017, c. 20, s. 283
 
 
 
@@ -2304,7 +2329,7 @@ where
 **Recovery of overpayments**
 
 - **(5)** If a person retains any amount of a member’s or a veteran’s compensation paid after the member’s or veteran’s death and to which the member or veteran was not entitled, that amount may be deducted from any compensation paid to that person.
-> 2005, c. 21, s. 88; 2015, c. 36, s. 221; 2016, c. 7, s. 97; 2017, c. 20, s. 284; 2018, c. 12, s. 150.
+> 2005, c. 21, s. 88; 2015, c. 36, s. 221; 2016, c. 7, s. 97; 2017, c. 20, s. 2842018, c. 12, s. 150
 
 
 
@@ -2330,7 +2355,7 @@ where
 **Interest**
 
 **90** No interest shall be paid in respect of any compensation that is payable under this Act.
-> 2005, c. 21, s. 90; 2011, c. 12, s. 16; 2018, c. 12, s. 151.
+> 2005, c. 21, s. 90; 2011, c. 12, s. 162018, c. 12, s. 151
 
 
 
@@ -2394,7 +2419,7 @@ where
 - **(j)** prescribing any matter required or authorized by this Act to be prescribed;
 - **(j.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined; and
 - **(k)** generally, for carrying out the purposes and provisions of this Act.
-> 2005, c. 21, s. 94; 2011, c. 12, s. 17; 2015, c. 36, s. 222; 2016, c. 7, s. 97; 2017, c. 20, s. 285; 2018, c. 12, s. 152.
+> 2005, c. 21, s. 94; 2011, c. 12, s. 17; 2015, c. 36, s. 222; 2016, c. 7, s. 97; 2017, c. 20, s. 2852018, c. 12, s. 152
 
 
 
@@ -2405,7 +2430,7 @@ where
 **94.01** The Governor in Council may make regulations
 - **(a)** respecting the provision of information or documents to the Minister by a person who may be entitled to an amount under any of sections 100 to 103 of the Budget Implementation Act, 2016, No. 1; and
 - **(b)** providing for the reimbursement of fees for financial advice obtained by a person in relation to an amount that is paid or payable to them under any of sections 100 to 103 of that Act.
-> 2016, c. 7, s. 90.
+> 2016, c. 7, s. 90
 
 
 
@@ -2414,7 +2439,7 @@ where
 **Retroactive application of regulations**
 
 **94.1** Regulations made in respect of the caregiver recognition benefit under sections 65.4 and 94 may, if they so provide, be retroactive.
-> 2015, c. 36, s. 223; 2017, c. 20, s. 286; 2018, c. 12, s. 153.
+> 2015, c. 36, s. 223; 2017, c. 20, s. 2862018, c. 12, s. 153
 
 
 
@@ -2473,7 +2498,7 @@ where
 ***indexed*** means adjusted annually on January 1 in accordance with the annual percentage increase to the Consumer Price Index, rounded to the next 0.10%, for the year ending on October 31 of the previous year. (*indexé*)
 
 ***new Act*** means this Act as it reads on April 1, 2019. (*nouvelle loi*)
-> 2005, c. 21, s. 98; 2016, c. 7, s. 91; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 982016, c. 7, s. 912018, c. 12, s. 157
 
 
 
@@ -2538,7 +2563,7 @@ where
 **Application of subsection 88(4)**
 
 - **(9)** Subsection 88(4) applies to an amount paid under subsection (6).
-> 2005, c. 21, s. 99; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 992018, c. 12, s. 157
 
 
 
@@ -2547,7 +2572,7 @@ where
 **Pending applications — earnings loss benefit and rehabilitation services**
 
 **100** If, before April 1, 2019, a veteran made an application — in respect of a physical or a mental health problem — for an earnings loss benefit under subsection 18(1) of the former Act and for rehabilitation services or vocational assistance under section 8 or 9 of that Act but the Minister did not make a determination in respect of either of those applications before that date, then the veteran is deemed to have made an application for an income replacement benefit under subsection 18(1) of the new Act on that date.
-> 2005, c. 21, s. 100; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1002018, c. 12, s. 157
 
 
 
@@ -2562,7 +2587,7 @@ where
 **Approved applications — payment of benefit**
 
 - **(2)** If the Minister approves the application, the Minister shall pay to the veteran, under section 18 of the former Act, the earnings loss benefit that they are entitled to, but only for the period beginning on the day on which the benefit begins to be payable under subsection 18(2) of that Act and ending on March 31, 2019.
-> 2005, c. 21, s. 101; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1012018, c. 12, s. 157
 
 
 
@@ -2585,7 +2610,7 @@ where
 **Non-application of subsection (1)**
 
 - **(3)** Subsection (1) does not apply to a veteran if the final determination referred to in that subsection is made after the day on which the veteran attains the age of 65 years.
-> 2005, c. 21, s. 102; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1022018, c. 12, s. 157
 
 
 
@@ -2600,7 +2625,7 @@ where
 	- **(ii)** the Minister shall pay to the veteran, under section 18 of the former Act, the earnings loss benefit that they are entitled to, but only for the period beginning on the day referred to in subparagraph (i) and ending on the earlier of March 31, 2019 and the day on which the veteran attains the age of 65 years, and
 	- **(iii)** if the veteran attained the age of 65 years in the period beginning on the day referred to in subparagraph (i) and ending on March 30, 2019, the veteran is deemed to have made an application for a retirement income security benefit under subsection 40.1(1) of the former Act on the day on which they attained the age of 65 years; and
 - **(c)** if a career impact allowance was payable to the veteran under subsection 38(1) of the former Act on March 31, 2019 and the Minister, before April 1, 2019, made a determination to deny the veteran’s application for an increase to the career impact allowance made under subsection 38(3) of this Act as it read at any time before that date and if the Minister’s determination is not the subject of a review under section 83 on March 31, 2019 and the veteran did not, before April 1, 2019, make a new application for an increase to the career impact allowance under that subsection 38(3), then the veteran is deemed to have made an application for an increase to the career impact allowance under subsection 38(3) of the former Act on March 31, 2019.
-> 2005, c. 21, s. 103; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1032018, c. 12, s. 157
 
 
 
@@ -2609,7 +2634,7 @@ where
 **Members — determination deemed not to have been made**
 
 **104** If, before April 1, 2019, the Minister made a determination in respect of an application for an earnings loss benefit made by a member under subsection 18(1) of the former Act and the member was not released from the Canadian Forces before March 31, 2019, then the application and the determination are deemed not to have been made.
-> 2005, c. 21, s. 104; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1042018, c. 12, s. 157
 
 
 
@@ -2618,7 +2643,7 @@ where
 **Members — pending applications**
 
 **105** If, before April 1, 2019, a member made an application for an earnings loss benefit under subsection 18(1) of the former Act but the Minister did not make a determination in respect of the application before that date and the member was not released from the Canadian Forces before March 31, 2019, then the application is deemed not to have been made.
-> 2005, c. 21, s. 105; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1052018, c. 12, s. 157
 
 
 
@@ -2665,7 +2690,7 @@ where
 **Indexation**
 
 - **(7)** For the purposes of subsections (2) and (5), the amount of the earnings loss benefit referred to in those subsections, and for the purposes of subsection (3), the amount determined by the formula set out in that subsection, is to be indexed until the time the income replacement benefit is payable.
-> 2005, c. 21, s. 106; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1062018, c. 12, s. 157
 
 
 
@@ -2684,7 +2709,7 @@ where
 **Deemed application for retirement income security benefit**
 
 - **(3)** If the earnings loss benefit that is paid to a survivor referred to in subsection (2) ceases to be payable before March 31, 2019, the survivor is deemed to have made an application for a retirement income security benefit under subsection 40.4(1) of the former Act on the day on which the member or veteran, if alive, would have attained the age of 65 years.
-> 2005, c. 21, s. 107; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1072018, c. 12, s. 157
 
 
 
@@ -2701,7 +2726,7 @@ where
 **Deemed application for retirement income security benefit**
 
 - **(2)** If the earnings loss benefit that is paid to a survivor referred to in paragraph (1)(b) ceases to be payable before March 31, 2019, the survivor is deemed to have made an application for a retirement income security benefit under subsection 40.4(1) of the former Act on the day on which the member or veteran, if alive, would have attained the age of 65 years.
-> 2005, c. 21, s. 108; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1082018, c. 12, s. 157
 
 
 
@@ -2736,7 +2761,7 @@ where
 **Application of subsection 88(4)**
 
 - **(5)** Subsection 88(4) applies to an amount paid under subsection (1).
-> 2005, c. 21, s. 109; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1092018, c. 12, s. 157
 
 
 
@@ -2761,7 +2786,7 @@ where
 **Approved applications — payment of increase**
 
 - **(4)** If the Minister approves the application, the Minister shall increase the career impact allowance that is payable to the veteran under section 38 of the former Act by the amount set out in item 2.1, column 2, of Schedule 2 to the former Act, but only for the period beginning on the day on which the increase begins to be payable under section 39 of that Act and ending on March 31, 2019.
-> 2005, c. 21, s. 110; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1102018, c. 12, s. 157
 
 
 
@@ -2781,7 +2806,7 @@ where
 - **(2)** If, before April 1, 2019, the Minister made a determination to deny an application for an increase to the career impact allowance made by a veteran under subsection 38(3) of this Act as it read at any time before that date but, as a result of a review of the determination under section 83, the Minister makes a final determination, on or after April 1, 2019, to approve the application for the increase, then,
 	- **(a)** if the final determination is made after March 31, 2020, it is deemed to have been made on that date; and
 	- **(b)** the Minister shall increase the career impact allowance that is payable to the veteran under section 38 of the former Act by the amount set out in item 2.1, column 2, of Schedule 2 to that Act, but only for the period beginning on the day on which the increase begins to be payable under section 39 of that Act and ending on March 31, 2019.
-> 2005, c. 21, s. 111; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1112018, c. 12, s. 157
 
 
 
@@ -2795,7 +2820,7 @@ where
 	- **(i)** the day on which the application for the allowance was made under that subsection 38(1),
 	- **(ii)** the day that is one year before the day on which the final determination is made, and
 	- **(iii)** the day after the day on which the veteran was released from the Canadian Forces.
-> 2005, c. 21, s. 112; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1122018, c. 12, s. 157
 
 
 
@@ -2814,7 +2839,7 @@ where
 **Members — determination under subsection 38(3) of former Act**
 
 - **(2)** If, before April 1, 2019, the Minister made a determination in respect of an application for an increase to the career impact allowance made by a member under subsection 38(3) of this Act as it read at any time before April 1, 2019 and the member was not released from the Canadian Forces before March 31, 2019, then the application and the Minister’s determination are deemed not to have been made.
-> 2005, c. 21, s. 113; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1132018, c. 12, s. 157
 
 
 
@@ -2829,7 +2854,7 @@ where
 **Members — pending applications for increase**
 
 - **(2)** If, before April 1, 2019, a member made an application for an increase to the career impact allowance under subsection 38(3) of this Act as it read at any time before April 1, 2019 but the Minister did not make a determination in respect of the application before that date and the member was not released from the Canadian Forces before March 31, 2019, then the application is deemed not to have been made.
-> 2005, c. 21, s. 114; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1142018, c. 12, s. 157
 
 
 
@@ -2885,7 +2910,7 @@ where
 **Application of subsection 88(4)**
 
 - **(8)** Subsection 88(4) applies to an amount paid under subsection (5).
-> 2005, c. 21, s. 115; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1152018, c. 12, s. 157
 
 
 
@@ -2900,7 +2925,7 @@ where
 **Approved applications — payment of benefit**
 
 - **(2)** If the Minister approves the application, the Minister shall pay to the veteran under section 40.1 of the former Act the retirement income security benefit that they are entitled to, but only for the period beginning on the day on which the benefit begins to be payable under subsection 40.1(2) of that Act and ending on March 31, 2019.
-> 2005, c. 21, s. 116; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1162018, c. 12, s. 157
 
 
 
@@ -2915,7 +2940,7 @@ where
 **Approved applications — payment of benefit**
 
 - **(2)** If the Minister approves the application, the Minister shall pay to the veteran, under section 40.2 of the former Act, the retirement income security benefit that they are entitled to, but only for the period beginning on the day on which the benefit begins to be payable under subsection 40.2(2) of that Act and ending on March 31, 2019.
-> 2005, c. 21, s. 117; 2018, c. 12, s. 157.
+> 2005, c. 21, s. 1172018, c. 12, s. 157
 
 
 
@@ -2951,7 +2976,7 @@ where
 **Indexation**
 
 - **(4)** For the purposes of subsection (3), the amount of the income replacement benefit referred to in that subsection and the amount determined for A referred to in that subsection are to be indexed until the time the income replacement benefit is payable.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -2973,7 +2998,7 @@ where
 **Indexation**
 
 - **(3)** For the purposes of subsection (2), the amount, referred to in that subsection, that is one half of the amount determined for A is to be indexed until the time the income replacement benefit is payable.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -2992,7 +3017,7 @@ where
 **Veteran died in March 2019**
 
 - **(3)** If the veteran in respect of whom a survivor made an application referred to in subsection (1) died in the month of March 2019, the survivor is deemed not to have made that application.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3007,7 +3032,7 @@ where
 **Approved applications — payment of benefit**
 
 - **(2)** If the Minister approves the application, the Minister shall pay to the survivor, under section 40.4 of the former Act, the retirement income security benefit that they are entitled to, but only for the period beginning on the day on which the benefit begins to be payable under subsection 40.4(2) of that Act and ending on March 31, 2019.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3018,7 +3043,7 @@ where
 **122** If, before April 1, 2019, the Minister made a determination to deny an application for a retirement income security benefit made by a survivor under subsection 40.3(1) of the former Act but, as a result of a review of the determination under section 83, the Minister makes a final determination, on or after April 1, 2019, to approve the application for the benefit, then,
 - **(a)** if the final determination is made after March 31, 2020, it is deemed to have been made on that date; and
 - **(b)** the Minister shall pay to the survivor, under section 40.3 of the former Act, the retirement income security benefit that they are entitled to, but only for the period beginning on the day on which the benefit begins to be payable under subsection 40.3(2) of that Act and ending on March 31, 2019.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3035,7 +3060,7 @@ where
 		- **(A)** the day referred to in paragraph 26(2)(a) of the new Act is April 1, 2019,
 		- **(B)** the monthly amount of the income replacement benefit that is payable to the survivor under section 26 of the new Act is determined under section 26.1 of that Act, subject to subsection 118(2), and
 		- **(C)** subsection 26.1(2) of the new Act does not apply.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3060,7 +3085,7 @@ where
 **Reduction**
 
 - **(3)** The amount payable to the veteran is to be reduced by any amount of the supplementary retirement benefit that the veteran received before April 1, 2019.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3078,7 +3103,7 @@ where
 **Calculation of amount**
 
 - **(2)** The amount payable to the survivor under subsection (1) is an amount equal to 2% of the total amount of the earnings loss benefit that would have been payable to the veteran under section 18 of the former Act until their death, had any amounts that were payable to the veteran from prescribed sources referred to in subsection 19(1) of that Act not been taken into account.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3099,7 +3124,7 @@ where
 	- **(b)** in the case of a veteran’s survivor, 2% of the sum of the following amounts:
 		- **(i)** the total amount of the earnings loss benefit that would have been payable to the veteran under section 18 of the former Act until their death, had any amounts that were payable to the veteran from prescribed sources referred to in subsection 19(1) of that Act not been taken into account, and
 		- **(ii)** the total amount of the earnings loss benefit that would have been payable to the survivor under subsection 22 of the former Act until March 31, 2019, had any amounts that were payable to the survivor from prescribed sources referred to in subsection 23(3) of that Act not been taken into account.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3108,7 +3133,7 @@ where
 **Lump sum**
 
 **127** An amount that is to be paid under any of sections 124 to 126 is to be paid as a lump sum.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3117,7 +3142,7 @@ where
 **Power to require information or document**
 
 **128** The Minister may, for the purposes of establishing a person’s entitlement to an amount under any of sections 124 to 126, require that person to provide the Minister with any information or document specified by the Minister.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3126,7 +3151,7 @@ where
 **Deeming**
 
 **129** An amount paid or payable under any of sections 124 to 126 is deemed to be compensation for the purposes of sections 88 to 90 and subsection 93(1).
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3139,7 +3164,7 @@ where
 **Definition of former Act**
 
 **130** In sections 131 and 132, ***former Act*** means this Act as it read immediately before April 1, 2019.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3169,7 +3194,7 @@ where
 	- **(a)** respecting the determination of an amount of interest for the purposes of the description of C in paragraph 52.1(1)(b) of the former Act;
 	- **(b)** respecting the determination of lump sums for the purpose of subsections 52.1(5) and (6) of that Act; and
 	- **(c)** prescribing any matter required or authorized by section 52.1 of that Act to be prescribed.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3218,7 +3243,7 @@ where
 **Application of subsection 88(4)**
 
 - **(7)** Subsection 88(4) applies to an amount paid under subsection (1).
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3255,7 +3280,7 @@ where
 **Protected amount**
 
 - **(4)** For every month after the month of April 2019 for which the veteran is entitled, as a result of subsection (2), to additional pain and suffering compensation under section 56.6 of the new Act, the amount of additional pain and suffering compensation that is payable to the veteran under that section is not to be less than the amount of additional pain and suffering compensation that is payable for the month of April 2019.
-> 2018, c. 12, s. 157.
+> 2018, c. 12, s. 157
 
 
 
@@ -3304,7 +3329,7 @@ where
 </tr>
 </table>
 
-> 2005, c. 21, Sch. 1; 2016, c. 7, s. 92.
+> 2005, c. 21, Sch. 1; 2016, c. 7, s. 92
 
 
 
@@ -3360,7 +3385,7 @@ where
 </tr>
 </table>
 
-> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19; 2015, c. 36, ss. 224, 225; 2016, c. 7, ss. 93 to 95, 97; 2017, c. 20, s. 287; 2018, c. 12, s. 158; 2018, c. 12, s. 159.
+> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19; 2015, c. 36, ss. 224, 225; 2016, c. 7, ss. 93 to 95, 97; 2017, c. 20, s. 2872018, c. 12, s. 1582018, c. 12, s. 159
 
 
 
@@ -3535,7 +3560,7 @@ where
 </tr>
 </table>
 
-> 2005, c. 21, Sch. 3; 2016, c. 7, s. 96; 2018, c. 12, s. 160.
+> 2005, c. 21, Sch. 3; 2016, c. 7, s. 962018, c. 12, s. 160
 
 
 
@@ -3568,6 +3593,479 @@ where
 </tr>
 </table>
 
-> 2018, c. 12, s. 161.
+> 2018, c. 12, s. 161
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2011, c. 12, s. 20.1
+
+
+**Review**
+
+**20.1** Within two years after the day on which this section comes into force, a comprehensive review of the provisions and operations of this Act must be undertaken by any committees of the Senate and of the House of Commons that are designated or established by the Senate and the House of Commons for that purpose.
+
+
+
+######           — 2016, c. 3, s. 9.1
+
+
+**Mature minors, advance requests and mental illness**
+
+**9.1** 
+
+- **(1)** The Minister of Justice and the Minister of Health must, no later than 180 days after the day on which this Act receives royal assent, initiate one or more independent reviews of issues relating to requests by mature minors for medical assistance in dying, to advance requests and to requests where mental illness is the sole underlying medical condition.
+
+- **(2)** The Minister of Justice and the Minister of Health must, no later than two years after the day on which a review is initiated, cause one or more reports on the review, including any findings or recommendations resulting from it, to be laid before each House of Parliament.
+
+
+
+######           — 2016, c. 3, s. 10
+
+
+**Review by committee**
+
+**10** 
+
+- **(1)** At the start of the fifth year after the day on which this Act receives royal assent, the provisions enacted by this Act are to be referred to the committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for the purpose of reviewing the provisions.
+
+**Report**
+
+- **(2)** The committee to which the provisions are referred is to review them and the state of palliative care in Canada and submit a report to the House or Houses of Parliament of which it is a committee, including a statement setting out any changes to the provisions that the committee recommends.
+
+
+
+######           — 2016, c. 7, s. 98, as amended by 2017, c. 20, s. 292
+
+
+**Period before October 1, 2016**
+
+**98** 
+
+- **(1)** For greater certainty, the amount of an earnings loss benefit that is payable in respect of a period before October 1, 2016 is to be determined in accordance with subsection 19(1) or 23(1) of the Veterans Well-being Act and the regulations made under subsection 19(2) or 23(4) of that Act, as those provisions of that Act and those regulations read during the period in respect of which the benefit is payable, regardless of the date on which the benefit is paid.
+
+**Period after September 30, 2016**
+
+- **(2)** The amount of an earnings loss benefit that is payable in respect of a period after September 30, 2016 is to be determined as if subsections 19(1) and 23(1) of the Veterans Well-being Act and the regulations made under subsections 19(2) and 23(4) of that Act — as those provisions of that Act and those regulations read during the period in respect of which the benefit is payable — had been in force since April 1, 2006, regardless of whether or not the veteran or the member’s or veteran’s survivor or orphan was in receipt of an earnings loss benefit before October 1, 2016.
+
+
+
+######           — 2016, c. 7, s. 99, as amended by 2017, c. 20, s. 292 and 2018, c. 12, s. 183
+
+
+**Definitions**
+
+**99** The following definitions apply in this section and sections 100 to 111.
+
+***Act*** means
+- **(a)** in this section and sections 100 to 103, the Veterans Well-being Act as it read on April 1, 2017; and
+- **(b)** in sections 107, 110 and 111, the Veterans Well-being Act. (*Loi*)
+
+***dependent child*** has the same meaning as in subsection 2(1) of the Act. (*enfant à charge*)
+
+***Minister*** means the Minister of Veterans Affairs. (*ministre*) 
+
+***survivor*** has the same meaning as in subsection 2(1) of the Act. (*survivant*) 
+
+
+
+######           — 2016, c. 7, s. 100
+
+
+**Member or veteran who received disability award**
+
+**100** 
+
+- **(1)** The Minister must pay to a member or a veteran who received, in whole or in part, a disability award under section 45, 47 or 48 of the Act before April 1, 2017, and who is alive on April 1, 2017, an amount determined in accordance with the formula
+```
+A − B
+```
+where
+- **A** is the amount set out in column 3 of Schedule 3 to the Act, as that Schedule read on April 1, 2017, that corresponds to the member’s or veteran’s extent of disability, as set out in column 2, for which the disability award was received, reduced — for every calendar year from 2016 until the year in which the disability award was received — by a percentage calculated in accordance with the method of calculating the percentages by which the amounts set out in Schedule 3 to the Act are periodically adjusted; and
+- **B** is the amount of the disability award that was payable to the member or the veteran under subsection 52(1) of the Act.
+
+**Death of member or veteran before amount paid**
+
+- **(2)** If the member or veteran dies before the amount is paid under subsection (1), the Minister must pay that amount, in accordance with section 55 of the Act, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child.
+
+
+
+######           — 2016, c. 7, s. 101
+
+
+**Death of member or veteran before April 1, 2017**
+
+**101** If a member or a veteran who received, in whole or in part, a disability award under section 45, 47 or 48 of the Act before April 1, 2017 dies before that day, the Minister must pay, in accordance with section 55 of the Act, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child — if that survivor or person is alive on April 1, 2017 — an amount determined in accordance with the formula
+```
+A − B
+```
+where
+- **A** is the amount set out in column 3 of Schedule 3 to the Act, as that Schedule read on April 1, 2017, that corresponds to the member’s or veteran’s extent of disability, as set out in column 2, for which the disability award was received, reduced — for every calendar year from 2016 until the year in which the disability award was received — by a percentage calculated in accordance with the method of calculating the percentages by which the amounts set out in Schedule 3 to the Act are periodically adjusted; and
+- **B** is the amount of the disability award that was payable to the member or the veteran under subsection 52(1) of the Act.
+
+
+
+######           — 2016, c. 7, s. 102
+
+
+**Disability award received by survivor or dependent child**
+
+**102** The Minister must pay, in accordance with section 55 of the Act, to a person who received a disability award under subsection 50(1) or (2) of the Act before April 1, 2017, and who is alive on April 1, 2017, an amount determined in accordance with the formula
+```
+A − B
+```
+where
+- **A** is the amount set out in column 3 of Schedule 3 to the Act, as that Schedule read on April 1, 2017, that corresponds to the member’s or veteran’s extent of disability, as set out in column 2, for which the disability award was received, reduced — for every calendar year from 2016 until the year in which the disability award was received — by a percentage calculated in accordance with the method of calculating the percentages by which the amounts set out in Schedule 3 to the Act are periodically adjusted; and
+- **B** is the amount of the disability award that was payable under subsection 52(1) of the Act.
+
+
+
+######           — 2016, c. 7, s. 103
+
+
+**Death benefit**
+
+**103** The Minister must pay, in accordance with section 59 of the Act, to a person who received a death benefit under section 57 of the Act before April 1, 2017, and who is alive on April 1, 2017, an amount determined in accordance with the formula
+```
+A − B
+```
+where
+- **A** is the amount set out in item 3, column 2, of Schedule 2 to the Act, as that Schedule read on April 1, 2017, reduced — for every calendar year from 2016 until the year in which the death benefit was received — by a percentage calculated in accordance with the method of calculating the percentages by which the amount set out in item 3, column 2, is periodically adjusted; and
+- **B** is the amount of the death benefit that was payable under subsection 58(1) of the Act.
+
+
+
+######           — 2016, c. 7, s. 104
+
+
+**Application**
+
+**104** Sections 100 to 102 apply in respect of each disability award received by or in respect of a member or a veteran.
+
+
+
+######           — 2016, c. 7, s. 105
+
+
+**Amount of award or benefit equal to zero**
+
+**105** For the purposes of sections 100 to 103, a person is considered to have received a disability award or a death benefit even if the amount that was paid to them was equal to zero.
+
+
+
+######           — 2016, c. 7, s. 106
+
+
+**Lump sum**
+
+**106** An amount that is to be paid under any of sections 100 to 103 is to be paid as a lump sum.
+
+
+
+######           — 2016, c. 7, s. 107
+
+
+**Power to require information**
+
+**107** The Minister may, for the purposes of establishing a person’s entitlement to an amount under any of sections 100 to 103, require a person who may be entitled to an amount to provide to the Minister the information or documents set out in the regulations made under the Act.
+
+
+
+######           — 2016, c. 7, s. 108
+
+
+**Information to be made available to Minister**
+
+**108** Personal information, as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), held by a government institution, as defined in that section, is, if requested by the Minister, to be made available to the Minister for the purposes of sections 100 to 103.
+
+
+
+######           — 2016, c. 7, s. 109
+
+
+**Entitlement ceases on death**
+
+**109** If a person to whom an amount is to be paid under any of sections 100 to 103 dies before the amount is paid, that person’s entitlement to the amount ceases on their death.
+
+
+
+######           — 2016, c. 7, s. 110
+
+
+**Amount deemed to be compensation**
+
+**110** An amount paid or payable under any of sections 100 to 103 is deemed, for the purposes of sections 89 and 90 of the Act, to be compensation as defined in subsection 2(1) of the Act.
+
+
+
+######           — 2016, c. 7, s. 111, as amended by 2018, c. 12, s. 184
+
+
+**[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)**
+
+**111** An amount paid or payable under any of sections 100 to 103 is deemed, for the purposes of paragraph 81(1)(d.1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), to be pain and suffering compensation or a death benefit, as the case may be, payable to the taxpayer under Part 3 of the Act.
+
+
+
+######           — 2017, c. 20, s. 293
+
+
+**Payment or reimbursement**
+
+**293** 
+
+- **(1)** On or after April 1, 2018, the Minister of Veterans Affairs may, in accordance with Part 1 of the Veterans Well-being Act and the regulations, as they read immediately before that day, pay or reimburse fees that are in respect of career transition services provided under that Part before that day.
+
+**Application of section 87.1**
+
+- **(2)** Section 87.1 of the Veterans Well-being Act applies with respect to an amount payable under subsection (1) to a person to whom career transition services were provided.
+
+
+
+######           — 2017, c. 20, s. 294
+
+
+**Services before April 1, 2018**
+
+**294** A person who is entitled, on March 31, 2018, to receive career transition services under the Veterans Well-being Act need not re-apply for career transition services under section 3 of that Act, as it reads on April 1, 2018, if they meet the requirements of that section.
+
+
+
+######           — 2017, c. 20, s. 295
+
+
+**Cessation of family caregiver relief benefits**
+
+**295** 
+
+- **(1)** Subject to subsection (2), all family caregiver relief benefits under Part 3.1 of the Veterans Well-being Act as it read on March 31, 2018 cease to be payable on April 1, 2018.
+
+**Applications made before April 1, 2018**
+
+- **(2)** An application for a family caregiver relief benefit that is made under subsection 65.1(1) of the Veterans Well-being Act as it read on March 31, 2018 and that is received by the Minister before April 1, 2018 is to be dealt with in accordance with that Act as it read on March 31, 2018. If the application is approved, the veteran is entitled to the benefit for only one year.
+
+
+
+######           — 2017, c. 20, s. 296
+
+
+**April 1, 2006**
+
+**296** Paragraph 94(j.1) of the Canadian Forces Members and Veterans Re-establishment and Compensation Act is deemed to have come into force on April 1, 2006.
+
+
+
+######           — 2018, c. 12, s. 162
+
+
+**Definitions**
+
+**162** The following definitions apply in sections 163 to 177.
+
+***common-law partner*** has the same meaning as in subsection 2(1) of the Veterans Well-being Act. (*conjoint de fait*)
+
+***dependent child*** has the same meaning as in subsection 2(1) of the Veterans Well-being Act. (*enfant à charge*)
+
+***former Act*** means the Veterans Well-being Act as it read immediately before April 1, 2019. (*ancienne loi*)
+
+***member*** has the same meaning as in subsection 2(1) of the Veterans Well-being Act. (*militaire*)
+
+***Minister*** means the Minister of Veterans Affairs. (*ministre*)
+
+***new Act*** means the Veterans Well-being Act as it reads on April 1, 2019. (*nouvelle loi*)
+
+***survivor*** has the same meaning as in subsection 2(1) of the Veterans Well-being Act. (*survivant*)
+
+***veteran*** has the same meaning as in subsection 2(1) of the Veterans Well-being Act. (*vétéran*)
+
+
+
+######           — 2018, c. 12, s. 163
+
+
+**Veterans — determination before April 1, 2019**
+
+**163** If, before April 1, 2019, the Minister made a determination in respect of an application for rehabilitation services or vocational assistance made by a veteran under section 9 of the former Act, then section 10 of the former Act applies to the veteran in respect of the application.
+
+
+
+######           — 2018, c. 12, s. 164
+
+
+**Veterans — applications pending April 1, 2019**
+
+**164** If, before April 1, 2019, a veteran made an application for rehabilitation services or vocational assistance under section 9 of the former Act but the Minister did not make a determination in respect of the application before that date, then the Minister must make the determination in respect of the application under that section. Section 10 of the former Act applies to the veteran in respect of the application.
+
+
+
+######           — 2018, c. 12, s. 165
+
+
+**Spouses and common-law partners — April 1, 2019**
+
+**165** Section 11 of the former Act applies to a veteran’s spouse or common-law partner if the Minister, before April 1, 2019,
+- **(a)** approved an application for rehabilitation services made by the veteran under section 9 of the former Act; and
+- **(b)** determined, based on an assessment of the veteran’s needs, that the veteran would not benefit from vocational rehabilitation as a result of their having a diminished earning capacity that is due to the physical or mental health problem in respect of which the rehabilitation services were approved.
+
+
+
+######           — 2018, c. 12, s. 166
+
+
+**Members — determination before April 1, 2019**
+
+**166** If, before April 1, 2019, the Minister made a determination in respect of an application for rehabilitation services or vocational assistance made by a member under section 9 of the former Act and the member was not released from the Canadian Forces before March 31, 2019, then the determination is deemed not to have been made and the member is deemed to have made an application under section 9 of the new Act on April 1, 2019.
+
+
+
+######           — 2018, c. 12, s. 170
+
+
+**Limitation — veterans**
+
+**170** A veteran who is receiving vocational assistance under Part 2 of the Veterans Well-being Act is not eligible for career transition services or an education and training benefit under that Act.
+
+
+
+######           — 2018, c. 12, s. 171
+
+
+**Pending applications**
+
+**171** If, before April 1, 2019, a veteran made an application for a Canadian Forces income support benefit under section 27 of the former Act but the Minister did not make a determination in respect of the application before that date, then the Minister must make the determination in respect of the application under that section.
+
+
+
+######           — 2018, c. 12, s. 172
+
+
+**Applications made on or after April 1, 2019**
+
+**172** If, on or after April 1, 2019, a veteran makes an application for a Canadian Forces income support benefit under section 27 of the new Act and, before the day on which the application is made, the veteran has not received an income replacement benefit under section 18 of that Act, then the Minister must make the determination in respect of the application under that section 27 but any reference to the income replacement benefit in that section is to be read as a reference to the earnings loss benefit.
+
+
+
+######           — 2018, c. 12, s. 173
+
+
+**Adjustment of Schedule 3**
+
+**173** On April 1, 2019, the amounts set out in column 4 of Schedule 3 to the new Act are deemed to have been adjusted on January 1, 2019 in the same manner as the amounts set out in column 3 of Schedule 3 to the former Act were adjusted on January 1, 2019.
+
+
+
+######           — 2018, c. 12, s. 174
+
+
+**Pending applications — member or veteran**
+
+**174** 
+
+- **(1)** If, before April 1, 2019, a member or a veteran made an application for a disability award under section 45, 47 or 48 of the former Act but the Minister did not make a determination in respect of the application before that date, then the member or veteran is deemed to have made an application for pain and suffering compensation under section 45, 47 or 48 of the new Act, as the case may be, on April 1, 2019.
+
+**No determination**
+
+- **(2)** For the purposes of subsection (1), the Minister did not make a determination in respect of an application if the Minister did not assess the member’s or veteran’s extent of disability in respect of the application.
+
+
+
+######           — 2018, c. 12, s. 175
+
+
+**Pending applications — survivor or dependent child**
+
+**175** 
+
+- **(1)** If, before April 1, 2019, a survivor or a person who was, at the time of a member’s or a veteran’s death, a dependent child made an application for a disability award under subsection 50(1) of the former Act but the Minister did not make a determination in respect of the application before that date, then the survivor or person is deemed to have made an application for pain and suffering compensation under section 56 of the new Act on April 1, 2019.
+
+**No determination**
+
+- **(2)** For the purposes of subsection (1), the Minister did not make a determination in respect of an application if the Minister did not assess the member’s or veteran’s extent of disability in respect of the application.
+
+
+
+######           — 2018, c. 12, s. 176
+
+
+**Deceased member or veteran**
+
+**176** If a member or a veteran who made an application for a disability award under section 45, 47 or 48 of the former Act dies before the Minister makes a determination in respect of the application and, on March 31, 2019, the Minister has not made a determination to pay, under subsection 50(2) of the former Act, the disability award to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the Minister may pay pain and suffering compensation to the survivor or person under subsection 55(1) of the new Act as if the member or veteran had made an application for pain and suffering compensation under section 45, 47 or 48 of the new Act, as the case may be, on April 1, 2019.
+
+
+
+######           — 2018, c. 12, s. 177
+
+
+**Review, appeal and reconsideration — disability award**
+
+**177** Any review, appeal or reconsideration that is continued on or commenced on or after April 1, 2019, in relation to a determination made before that date in respect of an application for a disability award made under the former Act is to be conducted as if the determination was a determination in respect of an application for pain and suffering compensation made on that date under the new Act.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2018, c. 12, s. 128
+
+**128** Section 9 of the Act is repealed.
+
+
+
+######           — 2018, c. 12, s. 129
+
+**129** 
+
+- **(1)** [In force]
+
+- **(2)** Subsection 10(1) of the Act is replaced by the following:
+
+**Assessment of needs**
+
+**10** 
+
+- **(1)** The Minister shall, on approving an application made under section 8, assess the veteran’s medical rehabilitation, psycho-social rehabilitation and vocational rehabilitation needs.
+
+
+
+- **(3)** [In force]
+
+- **(4)** Subsection 10(3) of the Act is replaced by the following:
+
+**Limitation**
+
+- **(3)** The only physical or mental health problem that may be addressed in the rehabilitation plan is a physical or a mental health problem resulting primarily from service in the Canadian Forces that is creating a barrier to re-establishment in civilian life.
+
+- **(5)** [In force]
+
+
+
+######           — 2018, c. 12, s. 167
+
+
+**Veterans — determination on or after April 1, 2019 but before April 1, 2024**
+
+**167** If, on or after April 1, 2019 but before April 1, 2024, the Minister made a determination in respect of an application for services related to medical rehabilitation or psycho-social rehabilitation made by a veteran under section 9 of the new Act, then section 10 of the new Act applies to the veteran in respect of the application.
+
+
+
+######           — 2018, c. 12, s. 168
+
+
+**Veterans — applications pending April 1, 2024**
+
+**168** If, on or after April 1, 2019 but before April 1, 2024, a veteran made an application for services related to medical rehabilitation or psycho-social rehabilitation under section 9 of the new Act but the Minister did not make a determination in respect of the application before April 1, 2024, then the Minister must make the determination in respect of the application under that section. Section 10 of the new Act applies to the veteran in respect of the application.
+
+
+
+######           — 2018, c. 12, s. 169
+
+
+**Members — determination made on or after April 1, 2019 but before April 1, 2024**
+
+**169** If, on or after April 1, 2019 but before April 1, 2024, the Minister made a determination in respect of an application for services related to medical rehabilitation or psycho-social rehabilitation made by a member under section 9 of the new Act and the member was not released from the Canadian Forces before March 31, 2024, then the determination is deemed not to have been made.
+
 
 
