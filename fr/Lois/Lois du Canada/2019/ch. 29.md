@@ -2337,7 +2337,7 @@ où :
 
 <sup><a href='#nbp_2019-c29_F_transform_hq_24205'>[*]</a></sup>**314** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='nbp_2019-c29_F_transform_hq_24205'><sup>*</sup></a>: [Note : Section 19 non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24205'><sup>*</sup></a>: [Note : Section 19 en vigueur le 9 juillet 2019, *voir* TR/2019-62.]<br />
 
 
 
@@ -2371,7 +2371,7 @@ où :
 
 <sup><a href='#nbp_2019-c29_F_transform_hq_24206'>[*]</a></sup>**317** Les articles 9 à 12 de la [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20315.md), édictés par l’article 315 de la présente loi, entrent en vigueur à la date fixée par décret.
 
-<a name='nbp_2019-c29_F_transform_hq_24206'><sup>*</sup></a>: [Note : Articles 9 à 12 de la [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20315.md), édictés par l’article 315, non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24206'><sup>*</sup></a>: [Note : Articles 9 à 12 de la [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20315.md), édictés par l’article 315, en vigueur le 9 juillet 2019, *voir* TR/2019-58.]<br />
 
 
 
