@@ -2337,7 +2337,7 @@ where
 
 <sup><a href='#fn_2019-c29_E_transform_hq_25550'>[*]</a></sup>**314** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c29_E_transform_hq_25550'><sup>*</sup></a>: [Note: Division 19 not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25550'><sup>*</sup></a>: [Note: Division 19 in force July 9, 2019, *see* SI/2019-62.]<br />
 
 
 
@@ -2371,7 +2371,7 @@ where
 
 <sup><a href='#fn_2019-c29_E_transform_hq_25551'>[*]</a></sup>**317** Sections 9 to 12 of the [Poverty Reduction Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2029,%20s.%20315.md), as enacted by section 315 of this Act, come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c29_E_transform_hq_25551'><sup>*</sup></a>: [Note: Sections 9 to 12 of the [Poverty Reduction Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2029,%20s.%20315.md), as enacted by section 315, not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25551'><sup>*</sup></a>: [Note: Sections 9 to 12 of the [Poverty Reduction Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2029,%20s.%20315.md), as enacted by section 315, in force July 9, 2019, *see* SI/2019-58.]<br />
 
 
 
