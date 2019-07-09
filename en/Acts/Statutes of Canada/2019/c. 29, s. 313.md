@@ -8,7 +8,7 @@
 Assented to on 21 June 2019
 
 ```
-[Enacted by section 313 of chapter 29 of the Statutes of Canada, 2019, not in force.]
+[Enacted by section 313 of chapter 29 of the Statutes of Canada, 2019, in force July 9, 2019, see SI/2019-62.]
 ```
 ----------
 
