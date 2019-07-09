@@ -8,7 +8,7 @@
 Sanctionnée sur le 21 juin 2019
 
 ```
-[Édictée par l’article 315 du chapitre 29 des Lois du Canada (2019), articles 9 à 12 non en vigueur.]
+[Édictée par l’article 315 du chapitre 29 des Lois du Canada (2019), articles 9 à 12 en vigueur le 9 juillet 2019, voir TR/2019-58.]
 ```
 ----------
 
