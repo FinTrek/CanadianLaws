@@ -1639,7 +1639,7 @@ where
 
 <sup><a href='#fn_2019-c29_E_transform_hq_25541'>[*]</a></sup>**224** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c29_E_transform_hq_25541'><sup>*</sup></a>: [Note: Division 10 not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25541'><sup>*</sup></a>: [Note: Division 10 in force July 10, 2019, *see* SI/2019-64.]<br />
 
 
 
