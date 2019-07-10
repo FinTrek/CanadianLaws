@@ -773,7 +773,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** Pour l’application du présent règlement, si un document disponible dans les deux langues officielles est incorporé par renvoi avec ses modifications successives, la modification apportée à ce document dans l’une des langues officielles n’est pas incorporée tant que la modification correspondante n’est pas apportée dans l’autre langue officielle.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1; DORS/2017-104, art. 1; DORS/2018-43, art. 1; DORS/2018-143-2, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1; DORS/2017-104, art. 1; DORS/2018-43, art. 1; DORS/2018-143-2, art. 1
 
 
 
@@ -783,7 +783,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 
 **2.1** Lorsque le système métrique ou impérial est utilisé pour l’application, à l’égard d’un véhicule donné, d’une partie d’un article du présent règlement ou d’une partie d’une disposition d’un document de normes techniques, le même système doit être utilisé pour l’application au véhicule de toute autre partie de cet article ou de cette disposition.
-> DORS/79-263, art. 1; DORS/82-482, art. 1; DORS/96-366, art. 2; DORS/2009-318, art. 2.
+> DORS/79-263, art. 1; DORS/82-482, art. 1; DORS/96-366, art. 2; DORS/2009-318, art. 2
 
 
 
@@ -793,7 +793,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 
 **2.2** Aux fins de calcul du nombre de roues d’une motocyclette ou d’un véhicule à trois roues, deux roues montées sur le même essieu sont assimilées à une roue si la distance entre le centre de leur surface de contact avec le sol est inférieure à 460 mm.
-> DORS/2003-272, art. 2; DORS/2009-318, art. 2; DORS/2011-264, art. 2.
+> DORS/2003-272, art. 2; DORS/2009-318, art. 2; DORS/2011-264, art. 2
 
 
 
@@ -811,7 +811,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 - **(3)** Si un siège pliant ou amovible est placé à un ou plusieurs emplacements pour fauteuil roulant, le plus élevé des nombres suivants doit être retenu pour l’application du paragraphe (1) :
 	- **a)** le nombre de places assises désignées que compte ce siège;
 	- **b)** le nombre d’emplacements pour fauteuil roulant.
-> DORS/2009-318, art. 2; DORS/2011-264, art. 2.
+> DORS/2009-318, art. 2; DORS/2011-264, art. 2
 
 
 
@@ -856,7 +856,7 @@ où :
 
 
 - **(6)** Jusqu’au 1<sup>er</sup> septembre 2020, le nombre de places assises désignées visé au paragraphe (5) peut être conforme aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/2009-318, art. 2; DORS/2011-264, art. 2; DORS/2018-143-2, art. 2.
+> DORS/2009-318, art. 2; DORS/2011-264, art. 2; DORS/2018-143-2, art. 2
 
 
 
@@ -872,7 +872,7 @@ où :
 	- **b)** des places assises désignées prévues sont remplacées par des emplacements pour fauteuil roulant.
 
 - **(2)** Pour l’établissement de la catégorie réglementaire d’un véhicule qui résulte de la modification d’un autobus par le remplacement de places assises désignées par des emplacements pour fauteuil roulant, chacun de ces emplacements peut, au choix du fabricant, être considéré comme étant équivalent à quatre emplacements aux fins de calcul du nombre désigné de places assises.
-> DORS/2011-264, art. 2.
+> DORS/2011-264, art. 2
 
 
 
@@ -882,7 +882,7 @@ où :
 
 
 **3** Pour l’application du paragraphe 3(2) de la Loi, le ministre peut, sur demande d’une entreprise, autoriser celle-ci au moyen du formulaire prévu à l’annexe II, à apposer la marque nationale de sécurité.
-> DORS/79-491, art. 1; DORS/82-482, art. 2; DORS/95-147, art. 2; DORS/2017-57, art. 1.
+> DORS/79-491, art. 1; DORS/82-482, art. 2; DORS/95-147, art. 2; DORS/2017-57, art. 1
 
 
 
@@ -898,14 +898,14 @@ où :
 - **(1.1)** Le véhicule incomplet est une catégorie de véhicules à laquelle s’applique le présent règlement.
 
 - **(2)** À l’exception des autobus, les catégories réglementaires visées aux paragraphes (1) et (1.1) ne comprennent pas les véhicules qui ont été fabriqués 15 ans et plus avant la date de leur importation au Canada.
-> DORS/82-482, art. 3; DORS/88-268, art. 2; DORS/95-147, art. 2; DORS/2002-55, art. 2.
+> DORS/82-482, art. 3; DORS/88-268, art. 2; DORS/95-147, art. 2; DORS/2002-55, art. 2
 
 
 
 
 
 ## Exigences relatives à la sécurité et aux émissions
-> [DORS/97-376, art. 1]
+> DORS/97-376, art. 1
 
 
 
@@ -920,7 +920,7 @@ où :
 - **(2.1)** [Abrogé, DORS/2003-2, art. 46]
 
 - **(3)** Les véhicules incomplets doivent être conformes aux normes énoncées aux annexes IV, V.1 et VI pour les véhicules complets dans la mesure où elles régissent les pièces dont les véhicules incomplets sont munis.
-> DORS/95-147, art. 2; DORS/97-376, art. 2; DORS/2002-55, art. 3; DORS/2003-2, art. 46; DORS/2003-272, art. 3.
+> DORS/95-147, art. 2; DORS/97-376, art. 2; DORS/2002-55, art. 3; DORS/2003-2, art. 46; DORS/2003-272, art. 3
 
 
 
@@ -948,7 +948,7 @@ où :
 - **(3)** Les déclarations faites conformément au paragraphe (2) :
 	- **a)** sont déposées auprès du ministre avant que le véhicule soit transporté ou livré;
 	- **b)** dans le cas de l’entreprise dont la production mondiale annuelle est de 2 500 véhicules ou plus, peuvent être déposées auprès du ministre trimestriellement.
-> DORS/95-494, art. 1.
+> DORS/95-494, art. 1
 
 
 
@@ -962,7 +962,7 @@ où :
 - **b)** la capacité de chargement;
 - **c)** le produit du nombre désigné de places assises par 54 kg, dans le cas d’un autobus scolaire, ou par 68 kg, dans tout autre cas;
 - **d)** dans le cas d’un véhicule équipé pour servir de logement ou muni d’installations sanitaires, la masse de ses réservoirs d’eau douce, d’eau chaude et de propane remplis mais non des réservoirs d’eaux usées.
-> DORS/98-125, art. 2; DORS/2008-258, art. 2.
+> DORS/98-125, art. 2; DORS/2008-258, art. 2
 
 
 
@@ -976,7 +976,7 @@ où :
 - **(1)** La vitesse maximale d’une motocyclette doit être mesurée conformément à la norme ISO 7117:1995 de l’Organisation internationale de normalisation, intitulée Motocycles — Mesurage de la vitesse maximale.
 
 - **(2)** Le terme *motocycles* employé dans la norme ISO 7117:1995 de l’Organisation internationale de normalisation, intitulée Motocycles — Mesurage de la vitesse maximale, s’entend au sens de ***motocyclette*** au paragraphe 2(1) du présent règlement.
-> DORS/2011-263, art. 2.
+> DORS/2011-263, art. 2
 
 
 
@@ -1075,7 +1075,7 @@ où :
 	- **b)** le titre abrégé du décret de dispense.
 
 - **(12) et (13)** [Abrogés, DORS/2000-182, art. 2]
-> DORS/79-940, art. 2; DORS/81-455, art. 1; DORS/82-482, art. 4; DORS/87-660, art. 2; DORS/88-268, art. 3; DORS/91-528, art. 1; DORS/93-146, art. 2; DORS/95-147, art. 2; DORS/98-125, art. 3; DORS/2000-182, art. 2; DORS/2000-304, art. 2; DORS/2002-55, art. 4 et 21; DORS/2003-272, art. 4; DORS/2004-250, art. 2; DORS/2005-342, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 3; DORS/2015-23, art. 2; DORS/2016-318, art. 2.
+> DORS/79-940, art. 2; DORS/81-455, art. 1; DORS/82-482, art. 4; DORS/87-660, art. 2; DORS/88-268, art. 3; DORS/91-528, art. 1; DORS/93-146, art. 2; DORS/95-147, art. 2; DORS/98-125, art. 3; DORS/2000-182, art. 2; DORS/2000-304, art. 2; DORS/2002-55, art. 4 et 21; DORS/2003-272, art. 4; DORS/2004-250, art. 2; DORS/2005-342, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 3; DORS/2015-23, art. 2; DORS/2016-318, art. 2
 
 
 
@@ -1103,7 +1103,7 @@ où :
 		- **(iii)** une mention indiquant que la conformité à la norme est impossible à déterminer compte tenu des pièces dont est muni le véhicule incomplet et que le fabricant de véhicules incomplets ne fait aucune déclaration quant à la conformité du véhicule à cette norme.
 
 - **(2)** Le document doit être conservé dans un contenant à l’épreuve des intempéries fixé au véhicule dans un endroit bien en vue et d’accès facile, ou il peut être envoyé directement, selon le cas, au fabricant à l’étape finale, au fabricant intermédiaire ou à tout autre acheteur.
-> DORS/2002-55, art. 5.
+> DORS/2002-55, art. 5
 
 
 
@@ -1133,7 +1133,7 @@ où :
 - **(3)** Dans le cas d’un châssis nu ou d’un châssis-auvent, l’étiquette informative peut être apposée sur la colonne de direction, à un endroit bien en vue et d’accès facile.
 
 - **(4)** Le dessin visé à l’alinéa (1)g) peut figurer sur une étiquette apposée sur le véhicule à côté de l’étiquette informative du fabricant de véhicules incomplets.
-> DORS/2002-55, art. 5; DORS/2005-342, art. 2; DORS/2008-258, art. 4.
+> DORS/2002-55, art. 5; DORS/2005-342, art. 2; DORS/2008-258, art. 4
 
 
 
@@ -1150,7 +1150,7 @@ où :
 	- **a)** ses nom et adresse postale;
 	- **b)** une description claire et précise de toutes les modifications qu’il a effectuées sur le véhicule incomplet;
 	- **c)** si l’une des modifications affecte la validité de l’une des mentions faites par le fabricant de véhicules incomplets conformément à l’alinéa 6.1(1)g), une indication des modifications qui doivent être apportées aux mentions pour tenir compte des modifications effectuées par le fabricant intermédiaire.
-> DORS/2002-55, art. 5.
+> DORS/2002-55, art. 5
 
 
 
@@ -1177,7 +1177,7 @@ où :
 - **(4)** Le fabricant intermédiaire qui augmente le PNBV ou les PNBE au-delà des valeurs visées aux alinéas 6.1(1)d) et e) doit veiller à ce que les nouveaux poids nominaux soient indiqués sur l’étiquette informative qu’il appose et soient, selon le cas :
 	- **a)** augmentés conformément aux recommandations écrites du fabricant de véhicules incomplets ou, le cas échéant, d’un autre fabricant précédent;
 	- **b)** dans les limites du poids en charge des pièces du véhicule, une fois que le véhicule est chargé pour l’usage auquel il est destiné en tant que véhicule complet.
-> DORS/2002-55, art. 5.
+> DORS/2002-55, art. 5
 
 
 
@@ -1193,7 +1193,7 @@ où :
 	- **b)** une description claire et précise de toutes les modifications qu’il a effectuées sur le véhicule incomplet.
 
 - **(2)** Le fabricant à l’étape finale doit conserver et mettre à la disposition du ministre, sur demande, la documentation de véhicule incomplet visée au paragraphe (1) et aux articles 6.1 et 6.3 durant une période d’au moins cinq ans après la date à laquelle il a effectué sa dernière opération de fabrication sur le véhicule.
-> DORS/2002-55, art. 5.
+> DORS/2002-55, art. 5
 
 
 
@@ -1213,7 +1213,7 @@ où :
 - **(2)** Si le fabricant à l’étape finale augmente le PNBV ou les PNBE au-delà des valeurs visées aux alinéas 6.1(1)d) et e) et au paragraphe 6.4(4), ou si de nouveaux poids nominaux sont indiqués sur l’étiquette informative du fabricant intermédiaire, il doit veiller à ce que les nouveaux poids nominaux soient indiqués sur l’étiquette de conformité du véhicule complet et soient, selon le cas :
 	- **a)** augmentés conformément aux recommandations écrites du fabricant de véhicules incomplets ou, le cas échéant, d’un autre fabricant précédent;
 	- **b)** dans les limites du poids en charge des pièces du véhicule, une fois que le véhicule est chargé pour l’usage auquel il est destiné en tant que véhicule complet.
-> DORS/2002-55, art. 5.
+> DORS/2002-55, art. 5
 
 
 
@@ -1226,7 +1226,7 @@ où :
 	- **(ii)** en creux, en relief ou d’une couleur contrastant avec celle du fond de l’étiquette,
 	- **(iii)** en majuscules et en chiffres d’au moins 2 mm de hauteur;
 - **d)** indiquer le nom ou le symbole de l’unité dans le cas de valeurs en unités métriques.
-> DORS/82-482, art. 5; DORS/95-147, art. 2; DORS/2002-55, art. 6.
+> DORS/82-482, art. 5; DORS/95-147, art. 2; DORS/2002-55, art. 6
 
 
 
@@ -1258,7 +1258,7 @@ où :
 - **(2)** Le dessin visé à l’alinéa (1)c) peut figurer sur une étiquette qui est apposée sur le véhicule à côté de l’étiquette de conformité.
 
 - **(3)** Dans le cas d’une autocaravane ou d’une remorque de camping, les renseignements visés au sous-alinéa (1)c)(vi) peuvent figurer sur une étiquette distincte apposée sur le véhicule à côté de l’étiquette de conformité ou à un endroit bien en vue ou d’accès facile.
-> DORS/90-805, art. 2; DORS/91-425, art. 3; DORS/92-173, art. 2 et 5; DORS/95-147, art. 2; DORS/98-125, art. 5; DORS/2002-55, art. 8; DORS/2006-94, art. 4(A); DORS/2018-143-2, art. 3.
+> DORS/90-805, art. 2; DORS/91-425, art. 3; DORS/92-173, art. 2 et 5; DORS/95-147, art. 2; DORS/98-125, art. 5; DORS/2002-55, art. 8; DORS/2006-94, art. 4(A); DORS/2018-143-2, art. 3
 
 
 
@@ -1269,14 +1269,14 @@ où :
 
 **10** 
 
-- **(1)** Pour chaque véhicule sur lequel la marque nationale de sécurité est apposée ou qui est importé au Canada, l’entreprise tient, par écrit ou sous forme électronique ou optique facilement lisible, les dossiers visés à l’alinéa 5(1)g) de la Loi qui démontrent que le véhicule est conforme aux normes réglementaires qui lui sont applicables et les conserve pour une période d’au moins cinq ans suivant la date de fabrication ou d’importation.
+- **(1)** L’entreprise tient, pour chaque véhicule sur lequel elle appose la marque nationale de sécurité ou qu’elle importe au Canada, les dossiers visés à l’alinéa 5(1)g) de la Loi. Elle conserve ces dossiers, soit sur support papier, soit sur support électronique facilement lisible, pour une période d’au moins cinq ans après la date de fabrication ou d’importation du véhicule.
 
 - **(2)** L’entreprise qui fait tenir par une personne les dossiers visés au paragraphe (1) conserve les nom et adresse de celle-ci.
 
 - **(3)** Sur demande écrite d’un inspecteur, l’entreprise envoie à celui-ci une copie des dossiers visés au paragraphe (1), dans l’une ou l’autre langue officielle :
 	- **a)** dans les 30 jours ouvrables qui suivent la date de mise à la poste de la demande;
 	- **b)** dans le cas où les dossiers doivent être traduits, dans les 45 jours ouvrables qui suivent la date de mise à la poste de la demande.
-> DORS/79-940, art. 3; DORS/87-450, art. 1; DORS/88-536, art. 1; DORS/95-147, art. 2; DORS/98-524, art. 2; DORS/2008-104, art. 2; DORS/2009-32, art. 1; DORS/2013-117, art. 2.
+> DORS/79-940, art. 3; DORS/87-450, art. 1; DORS/88-536, art. 1; DORS/95-147, art. 2; DORS/98-524, art. 2; DORS/2008-104, art. 2; DORS/2009-32, art. 1; DORS/2013-117, art. 2DORS/2019-253, art. 1
 
 
 
@@ -1315,7 +1315,7 @@ où :
 	- **g)** une mention indiquant que le véhicule sera achevé suivant les instructions fournies.
 
 - **(6)** Toute personne qui importe un véhicule importé temporairement à des fins spéciales au Canada doit, avant de le faire, soumettre au ministre une déclaration, signée par elle ou par son représentant dûment autorisé, qui contient les renseignements visés à l’annexe VII.
-> DORS/79-940, art. 4; DORS/88-536, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 2; DORS/97-376, art. 3; DORS/2000-182, art. 3; DORS/2002-55, art. 9; DORS/2003-2, art. 47.
+> DORS/79-940, art. 4; DORS/88-536, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 2; DORS/97-376, art. 3; DORS/2000-182, art. 3; DORS/2002-55, art. 9; DORS/2003-2, art. 47
 
 
 
@@ -1388,7 +1388,7 @@ où :
 		- **(iii)** en majuscules et en chiffres d’au moins 2 mm de haut.
 
 - **(10)** Si une des étiquettes de conformité visées à l’alinéa (3)a) n’est pas apposée sur le véhicule, une mention indiquant que le véhicule a été fabriqué conformément aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication est apposée sur l’étiquette visée au paragraphe (8) ou sur une étiquette distincte à côté de celle-ci.
-> DORS/80-441, art. 1; DORS/95-147, art. 2; DORS/96-90, art. 1; DORS/2000-304, art. 3; DORS/2002-55, art. 10; DORS/2003-272, art. 5; DORS/2006-94, art. 4(A); DORS/2007-307, art. 1; DORS/2016-318, art. 3.
+> DORS/80-441, art. 1; DORS/95-147, art. 2; DORS/96-90, art. 1; DORS/2000-304, art. 3; DORS/2002-55, art. 10; DORS/2003-272, art. 5; DORS/2006-94, art. 4(A); DORS/2007-307, art. 1; DORS/2016-318, art. 3
 
 
 
@@ -1447,7 +1447,7 @@ où :
 - **(5)** Lorsque le gouverneur en conseil a pris un décret de dispense à l’égard d’un modèle de véhicule en vertu de l’article 9 de la Loi, l’entreprise doit apposer solidement sur le pare-brise ou la fenêtre latérale des véhicules de ce modèle, une étiquette qui précise :
 	- **a)** les dispositifs du véhicule et, par numéro et titre, les normes qui sont visés par la dispense;
 	- **b)** le titre abrégé du décret de dispense.
-> DORS/86-995, art. 1; DORS/89-481, art. 1; DORS/90-805, art. 3; DORS/95-147, art. 2.
+> DORS/86-995, art. 1; DORS/89-481, art. 1; DORS/90-805, art. 3; DORS/95-147, art. 2
 
 
 
@@ -1461,45 +1461,226 @@ où :
 - **(2)** L’entreprise qui désire obtenir une nouvelle dispense à l’échéance de la dispense visée au paragraphe 13(4) doit communiquer, par écrit, au ministre :
 	- **a)** les renseignements visés à ce paragraphe;
 	- **b)** le nombre total de véhicules vendus au Canada en vertu de la dispense qui vient à échéance.
-> DORS/95-147, art. 2.
+> DORS/95-147, art. 2
 
 
 
 
 
-## Renseignements relatifs aux défauts
+## Avis de défaut
 
 
 **15** 
 
-- **(1)** L’avis de défaut prévu à l’article 10 de la Loi contient les renseignements suivants :
-	- **a)** le nom de l’entreprise qui donne l’avis de défaut;
-	- **b)** la catégorie réglementaire de chaque véhicule visé par l’avis de défaut, la marque, le modèle, l’année de modèle et le numéro d’identification du véhicule, sa période de fabrication et tout autre renseignement nécessaire pour en permettre l’identification;
-	- **c)** le pourcentage estimatif des véhicules susceptibles de comporter le défaut;
-	- **d)** une description du défaut;
-	- **e)** une estimation du risque en découlant pour la sécurité des personnes;
-	- **f)** un exposé des mesures à prendre pour corriger le défaut.
+- **(1)** Pour l’application du paragraphe 10(1) de la Loi, est une personne visée toute personne, autre que le premier usager, qui a reçu un véhicule de l’entreprise.
 
-- **(2)** L’avis de défaut est donné par écrit et, lorsqu’il est destiné à une personne autre que le ministre, il est donné :
-	- **a)** soit dans les deux langues officielles;
-	- **b)** soit, si celle-ci est connue, dans la langue officielle du choix de la personne.
+- **(2)** L’avis de défaut prévu au paragraphe 10(1) de la Loi est donné par écrit, soit sur support papier, soit sur support électronique, et ce :
+	- **a)** s’agissant de l’avis donné au ministre, dans l’une des langues officielles;
+	- **b)** s’agissant de l’avis donné au propriétaire actuel du véhicule ou à une personne visée, selon le cas :
+		- **(i)** dans la langue officielle du choix de la personne, si elle est connue,
+		- **(ii)** dans les deux langues officielles.
 
-- **(3)** Pour l’application du paragraphe 10(1) de la Loi, la personne qui a reçu de l’entreprise le véhicule est une personne visée.
+- **(3)** L’entreprise donne l’avis de défaut au propriétaire actuel du véhicule et à la personne visée le plus tôt possible, mais au plus tard soixante jours après la date à laquelle elle a donné avis du défaut au ministre.
 
-- **(4)** L’avis de défaut est donné au propriétaire actuel, et à la personne qui a reçu de l’entreprise le véhicule, le plus tôt possible après que l’entreprise a constaté l’existence du défaut, mais au plus tard 60 jours après la date où elle l’a constatée.
+- **(4)** L’avis de défaut donné au ministre contient les renseignements suivants :
+	- **a)** le nom de l’entreprise et ses coordonnées pour la correspondance;
+	- **b)** le numéro, le titre ou tout autre moyen d’identification attribué par l’entreprise à l’avis;
+	- **c)** pour chaque véhicule susceptible d’avoir le défaut, la catégorie réglementaire, la marque, le modèle, l’année de modèle et tout autre renseignement nécessaire pour en permettre l’identification;
+	- **d)** la période pendant laquelle les véhicules ont été fabriqués;
+	- **e)** le nombre estimatif de véhicules qui pourraient présenter le défaut;
+	- **f)** le pourcentage estimatif des véhicules visés à l’alinéa e) qui ont le défaut;
+	- **g)** une description de la nature du défaut, y compris ses causes et ses facteurs contributifs, si ceux-ci sont connus, et de l’endroit où il se trouve;
+	- **h)** les dispositifs et pièces du véhicule qui peuvent être affectés par le défaut;
+	- **i)** une chronologie des principaux événements qui ont permis de conclure à l’existence du défaut;
+	- **j)** tous les renseignements pertinents — avec la date de leur réception — que l’entreprise a utilisés pour conclure à l’existence du défaut, notamment un résumé des réclamations au titre de la garantie, des rapports sur le terrain et des rapports de service;
+	- **k)** une description du risque pour la sécurité humaine qui découle du défaut;
+	- **l)** une description des mesures correctives à prendre à l’égard du défaut et la façon de les mettre en oeuvre;
+	- **m)** les précautions qui peuvent être prises pour réduire au minimum le risque pour la sécurité jusqu’à ce que les mesures correctives soient mises en oeuvre;
+	- **n)** la date à laquelle l’entreprise prévoit envoyer l’avis de défaut au propriétaire actuel du véhicule et celle à laquelle elle prévoit envoyer l’avis de défaut à la personne visée.
 
-- **(5)** Au plus tard 60 jours après la date où elle donne l’avis de défaut au ministre en application du paragraphe 10(1) de la Loi, l’entreprise lui présente un rapport contenant, en plus des renseignements visés au paragraphe (1), les renseignements suivants :
-	- **a)** le nombre de véhicules visés par l’avis de défaut et le nombre de ces véhicules dans chaque catégorie réglementaire;
-	- **b)** une chronologie des principaux événements qui ont permis de déterminer l’existence du défaut;
-	- **c)** des exemplaires des avis, bulletins et autres circulaires publiés par l’entreprise au sujet du défaut;
-	- **d)** une description détaillée de la nature du défaut et de l’endroit où il se trouve, accompagnée, s’il y en a, des diagrammes ou des illustrations qui s’y rapportent.
+- **(5)** L’entreprise n’est pas tenue de fournir au ministre les renseignements prévus aux alinéas (4)i), j), l) et m) s’ils ne sont pas disponibles à la date à laquelle l’avis est donné, mais elle les lui fournit dès qu’elle les obtient.
 
-- **(6)** Après avoir présenté le rapport visé au paragraphe (5), l’entreprise présente au ministre, au cours des deux années qui suivent la date où elle lui donne l’avis de défaut, des rapports trimestriels contenant les renseignements suivants :
-	- **a)** le numéro, le titre ou tout autre moyen d’identification attribués par l’entreprise à l’avis de défaut;
-	- **b)** le nombre révisé de véhicules visés par l’avis de défaut, le cas échéant;
-	- **c)** les dates où des avis de défaut ont été donnés aux propriétaires actuels des véhicules touchés;
-	- **d)** le nombre ou pourcentage total des véhicules qui ont fait l’objet de mesures correctives, y compris ceux qui n’ont exigé qu’une inspection.
-> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3; DORS/2009-318, art. 3; DORS/2013-117, art. 3; DORS/2015-111, art. 1.
+- **(6)** L’avis de défaut donné au propriétaire actuel du véhicule contient les renseignements suivants :
+	- **a)** le nom de l’entreprise;
+	- **b)** la marque, le modèle, l’année de modèle et le numéro d’identification du véhicule;
+	- **c)** les énoncés suivants :
+		- **(i)** « Le présent avis vous est envoyé conformément aux exigences de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md). »,
+		- **(ii)** « La présente a pour but de vous informer que votre véhicule est susceptible d’avoir un défaut qui pourrait porter atteinte à la sécurité humaine. »;
+	- **d)** le numéro, le titre ou tout autre moyen d’identification attribué par l’entreprise à l’avis;
+	- **e)** le numéro du rappel de sécurité automobile attribué par le ministère des Transports;
+	- **f)** une description de la nature du défaut, y compris ses causes, et de l’endroit où il se trouve;
+	- **g)** les dispositifs et pièces du véhicule qui peuvent être affectés par le défaut;
+	- **h)** les conditions d’utilisation ou les autres facteurs qui peuvent causer le mauvais fonctionnement du dispositif ou de la pièce du véhicule;
+	- **i)** les signes précurseurs, le cas échéant, de tout mauvais fonctionnement qui peut survenir à cause du défaut;
+	- **j)** une description du risque pour la sécurité humaine qui découle du défaut;
+	- **k)** la mention que le défaut pourrait causer une collision, le cas échéant;
+	- **l)** si le défaut n’est pas de nature à causer une collision, le type de blessure qu’il peut causer;
+	- **m)** une description des mesures correctives à prendre à l’égard du défaut et la façon de les mettre en oeuvre, y compris :
+		- **(i)** une description générale des travaux nécessaires,
+		- **(ii)** une estimation du temps requis pour prendre les mesures correctives,
+		- **(iii)** la mention que l’entreprise assumera les coûts des mesures correctives ou l’estimation de ces coûts pour le propriétaire actuel du véhicule,
+		- **(iv)** des renseignements permettant d’identifier les personnes qui peuvent mettre en oeuvre les mesures correctives;
+	- **n)** les précautions qui peuvent être prises pour réduire au minimum le risque pour la sécurité jusqu’à ce que les mesures correctives soient mises en oeuvre;
+	- **o)** la mention que, s’il a loué le véhicule, le propriétaire actuel doit envoyer au locataire une copie de l’avis et de tout avis subséquent, dans les dix jours ouvrables suivant la date de leur réception.
+
+- **(7)** L’entreprise n’est pas tenue de fournir au propriétaire actuel les renseignements prévus à l’alinéa (6)m) s’ils ne sont pas disponibles à la date à laquelle l’avis est donné, mais elle les lui fournit :
+	- **a)** soit dès qu’ils sont disponibles;
+	- **b)** soit en même temps qu’elle fournit les renseignements exigés par le paragraphe 10.4(1) de la Loi.
+
+- **(8)** Les mots « RAPPEL », « SÉCURITÉ », « *SAFETY* » et « *RECALL* » sont clairement visibles :
+	- **a)** sur l’enveloppe, ou à travers la fenêtre de celle-ci, en lettres majuscules et dans une police dont la taille est plus grande que celle utilisée pour l’adresse du destinataire, si l’avis de défaut est donné au propriétaire actuel sur support papier;
+	- **b)** dans l’objet de la communication, en lettres majuscules, si l’avis de défaut est donné au propriétaire actuel sur support électronique.
+
+- **(9)** L’avis de défaut donné à une personne visée contient les renseignements suivants :
+	- **a)** le nom de l’entreprise;
+	- **b)** pour chaque véhicule susceptible d’avoir le défaut, la marque, le modèle, l’année de modèle, le numéro d’identification et tout autre renseignement nécessaire pour en permettre l’identification;
+	- **c)** le numéro, le titre ou tout autre moyen d’identification attribué par l’entreprise à l’avis;
+	- **d)** une description de la nature du défaut, y compris ses causes, et de l’endroit où il se trouve;
+	- **e)** les conditions d’utilisation ou les autres facteurs qui peuvent causer le mauvais fonctionnement du dispositif ou de la pièce du véhicule;
+	- **f)** une description du risque pour la sécurité humaine qui découle du défaut;
+	- **g)** une description des mesures correctives à prendre à l’égard du défaut et la façon de les mettre en oeuvre;
+	- **h)** les précautions qui peuvent être prises pour réduire au minimum le risque pour la sécurité jusqu’à ce que les mesures correctives soient mises en oeuvre.
+
+- **(10)** L’entreprise n’est pas tenue de fournir à la personne visée le numéro d’identification exigé par l’alinéa (9)b) si ce numéro est affiché sur le site Web de l’entreprise avec le numéro, le titre ou l’autre moyen d’identification attribué par l’entreprise à l’avis de défaut qui y est associé.
+
+- **(11)** L’entreprise n’est pas tenue de fournir à la personne visée les renseignements prévus à l’alinéa (9)g) s’ils ne sont pas disponibles à la date à laquelle l’avis est donné, mais elle les lui fournit dès qu’elle les obtient.
+> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3; DORS/2009-318, art. 3; DORS/2013-117, art. 3; DORS/2015-111, art. 1DORS/2019-253, art. 2
+
+
+
+
+
+## Avis de non-conformité
+
+
+**15.01** 
+
+- **(1)** Pour l’application du paragraphe 10.1(1) de la Loi, est une personne visée toute personne, autre que le premier usager, qui a reçu un véhicule de l’entreprise.
+
+- **(2)** L’avis de non-conformité prévu au paragraphe 10.1(1) de la Loi est donné par écrit, soit sur support papier, soit sur support électronique, et ce :
+	- **a)** s’agissant de l’avis donné au ministre, dans l’une des langues officielles;
+	- **b)** s’agissant de l’avis donné au propriétaire actuel du véhicule ou à une personne visée, selon le cas :
+		- **(i)** dans la langue officielle du choix de la personne, si elle est connue,
+		- **(ii)** dans les deux langues officielles.
+
+- **(3)** Sauf si l’avis de non-conformité contient la déclaration prévue au sous-alinéa (4)j)(i), l’entreprise donne l’avis de non-conformité au propriétaire actuel du véhicule et à la personne visée le plus tôt possible, mais au plus tard soixante jours après la date à laquelle elle a donné l’avis de non-conformité au ministre.
+
+- **(3.1)** Si l’avis de non-conformité contient la déclaration prévue au sous-alinéa (4)j)(i) et que le ministre avise l’entreprise qu’il n’est pas convaincu que la non-conformité n’a aucune conséquence sur la sécurité, l’entreprise donne l’avis de non-conformité au propriétaire actuel du véhicule et à la personne visée le plus tôt possible après la date à laquelle elle reçoit la décision du ministre, mais au plus tard soixante jours après cette date.
+
+- **(4)** L’avis de non-conformité donné au ministre contient les renseignements suivants :
+	- **a)** le nom de l’entreprise et ses coordonnées pour la correspondance;
+	- **b)** le numéro, le titre ou tout autre moyen d’identification attribué par l’entreprise à l’avis;
+	- **c)** pour chaque véhicule susceptible d’être non conforme, la catégorie réglementaire, la marque, le modèle, l’année de modèle et tout autre renseignement nécessaire pour en permettre l’identification;
+	- **d)** la période pendant laquelle les véhicules ont été fabriqués;
+	- **e)** le nombre estimatif de véhicules qui pourraient être non conformes;
+	- **f)** le pourcentage estimatif des véhicules visés à l’alinéa e) qui sont non conformes;
+	- **g)** une description de la non-conformité, y compris l’exigence réglementaire en question, ses causes et ses facteurs contributifs, si ceux-ci sont connus;
+	- **h)** les dispositifs et pièces du véhicule qui peuvent être affectés par la non-conformité;
+	- **i)** la chronologie des principaux événements qui ont permis de conclure à la non-conformité, y compris les résultats d’essais, les observations, les inspections et tout autre renseignement pertinent;
+	- **j)** selon le cas :
+		- **(i)** une déclaration selon laquelle la non-conformité n’a aucune conséquence sur la sécurité, ainsi que des renseignements détaillés à l’appui de cette déclaration,
+		- **(ii)** une description du risque pour la sécurité humaine qui découle de la non-conformité;
+	- **k)** une description des mesures correctives à prendre à l’égard de la non-conformité et la façon de les mettre en oeuvre;
+	- **l)** les précautions qui peuvent être prises pour réduire au minimum le risque jusqu’à ce que les mesures correctives soient mises en oeuvre;
+	- **m)** la date à laquelle l’entreprise prévoit envoyer l’avis de non-conformité au propriétaire actuel du véhicule et celle à laquelle elle prévoit envoyer l’avis de non-conformité à la personne visée.
+
+- **(5)** L’entreprise n’est pas tenue de fournir au ministre les renseignements prévus aux alinéas (4)i), k) et l) s’ils ne sont pas disponibles à la date à laquelle l’avis est donné, mais elle les lui fournit dès qu’elle les obtient.
+
+- **(5.1)** L’entreprise n’est pas tenue de fournir au ministre les renseignements prévus à l’alinéa (4)m) si l’avis de non-conformité contient la déclaration prévue au sous-alinéa (4)j)(i) mais, si le ministre l’avise qu’il n’est pas convaincu que la non-conformité n’a aucune conséquence sur la sécurité, elle les lui fournit au plus tard cinq jours ouvrables après la date à laquelle elle reçoit la décision du ministre.
+
+- **(6)** L’avis de non-conformité donné au propriétaire actuel du véhicule contient les renseignements suivants :
+	- **a)** le nom de l’entreprise;
+	- **b)** la marque, le modèle, l’année de modèle et le numéro d’identification du véhicule;
+	- **c)** les énoncés suivants :
+		- **(i)** « Le présent avis vous est envoyé conformément aux exigences de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md). »,
+		- **(ii)** « La présente a pour but de vous informer que votre véhicule est susceptible d’être non conforme aux exigences du Règlement sur la sécurité des véhicules automobiles et que la non-conformité pourrait porter atteinte à la sécurité humaine. »;
+	- **d)** le numéro, le titre ou tout autre moyen d’identification attribué par l’entreprise à l’avis;
+	- **e)** le numéro du rappel de sécurité automobile attribué par le ministère des Transports;
+	- **f)** une description de la non-conformité, y compris ses causes;
+	- **g)** les dispositifs et pièces du véhicule qui peuvent être affectés par la non-conformité;
+	- **h)** les conditions d’utilisation ou les autres facteurs qui peuvent causer le mauvais fonctionnement du dispositif ou de la pièce du véhicule;
+	- **i)** les signes précurseurs, le cas échéant, de tout mauvais fonctionnement qui peut survenir à cause de la non-conformité;
+	- **j)** une description du risque pour la sécurité humaine qui découle de la non-conformité, le cas échéant;
+	- **k)** la mention que la non-conformité pourrait causer une collision, le cas échéant;
+	- **l)** si la non-conformité n’est pas de nature à causer une collision, le type de blessure qu’elle peut causer;
+	- **m)** une description des mesures correctives à prendre à l’égard de la non-conformité et la façon de les mettre en oeuvre, y compris :
+		- **(i)** une description générale des travaux nécessaires,
+		- **(ii)** une estimation du temps requis pour prendre les mesures correctives,
+		- **(iii)** la mention que l’entreprise assumera les coûts des mesures correctives ou l’estimation de ces coûts pour le propriétaire actuel du véhicule,
+		- **(iv)** des renseignements permettant d’identifier les personnes qui peuvent mettre en oeuvre les mesures correctives;
+	- **n)** les précautions qui peuvent être prises pour réduire au minimum le risque pour la sécurité jusqu’à ce que les mesures correctives soient mises en oeuvre;
+	- **o)** la mention que, s’il a loué le véhicule, le propriétaire actuel doit envoyer au locataire une copie de l’avis et de tout avis subséquent, dans les dix jours ouvrables suivant la date de leur réception.
+
+- **(7)** L’entreprise n’est pas tenue de fournir au propriétaire actuel les renseignements prévus à l’alinéa (6)m) s’ils ne sont pas disponibles à la date à laquelle l’avis est donné, mais elle les lui fournit :
+	- **a)** soit dès qu’ils sont disponibles;
+	- **b)** soit en même temps qu’elle fournit les renseignements exigés par le paragraphe 10.4(1) de la Loi.
+
+- **(8)** Les mots « RAPPEL », « SÉCURITÉ », « *SAFETY* » et « *RECALL* » sont clairement visibles :
+	- **a)** sur l’enveloppe, ou à travers la fenêtre de celle-ci, en lettres majuscules et dans une police dont la taille est plus grande que celle utilisée pour l’adresse du destinataire, si l’avis de non-conformité est donné au propriétaire actuel sur support papier;
+	- **b)** dans l’objet de la communication, en lettres majuscules, si l’avis de non-conformité est donné au propriétaire actuel sur support électronique.
+
+- **(9)** L’avis de non-conformité donné à une personne visée contient les renseignements suivants :
+	- **a)** le nom de l’entreprise;
+	- **b)** pour chaque véhicule susceptible d’être non conforme, la marque, le modèle, l’année de modèle, le numéro d’identification et tout autre renseignement nécessaire pour en permettre l’identification;
+	- **c)** le numéro, le titre ou tout autre moyen d’identification attribué par l’entreprise à l’avis;
+	- **d)** une description de la non-conformité, y compris ses causes;
+	- **e)** les conditions d’utilisation ou les autres facteurs qui peuvent causer le mauvais fonctionnement du dispositif ou de la pièce du véhicule;
+	- **f)** une description du risque pour la sécurité humaine qui découle de la non-conformité, le cas échéant;
+	- **g)** une description des mesures correctives à prendre à l’égard de la non-conformité et la façon de les mettre en oeuvre;
+	- **h)** les précautions qui peuvent être prises pour réduire au minimum le risque pour la sécurité jusqu’à ce que les mesures correctives soient mises en oeuvre.
+
+- **(10)** L’entreprise n’est pas tenue de fournir à la personne visée le numéro d’identification exigé par l’alinéa (9)b) si ce numéro est affiché sur le site Web de l’entreprise avec le numéro, le titre ou l’autre moyen d’identification attribué par l’entreprise à l’avis de non-conformité qui y est associé.
+
+- **(11)** L’entreprise n’est pas tenue de fournir à la personne visée les renseignements prévus à l’alinéa (9)g) s’ils ne sont pas disponibles à la date à laquelle l’avis est donné, mais elle les lui fournit dès qu’elle les obtient.
+> DORS/2019-253, art. 2
+
+
+
+
+
+## Rapports
+
+
+**15.02** 
+
+- **(1)** Dans les cinq jours ouvrables suivant la date à laquelle l’entreprise commence à envoyer l’avis de défaut ou l’avis de non-conformité aux propriétaires actuels, elle transmet au ministre un rapport qui comporte les documents et renseignements suivants :
+	- **a)** une copie de l’avis;
+	- **b)** un exemplaire de l’enveloppe utilisée pour l’envoi de l’avis;
+	- **c)** la date à laquelle l’entreprise a commencé à envoyer l’avis;
+	- **d)** la date à laquelle l’entreprise a terminé, ou prévoit terminer, l’envoi de l’avis;
+	- **e)** le nombre de véhicules visés par l’avis;
+	- **f)** le numéro d’identification de chaque véhicule susceptible d’avoir le défaut ou d’être non conforme à moins que ces renseignements soient transmis au ministre en application de l’alinéa (3)a) ou soient affichés conformément aux paragraphes 15(10) ou 15.01(10).
+
+- **(2)** Malgré l’alinéa (1)b), l’entreprise n’est pas tenue de transmettre au ministre un exemplaire de l’enveloppe si elle utilise une enveloppe dont un exemplaire a déjà été transmis au ministre et si le rapport précise la date de cette transmission.
+
+- **(3)** Dans les cinq jours ouvrables suivant la date à laquelle l’entreprise commence à envoyer l’avis de défaut ou l’avis de non-conformité aux personnes visées, elle transmet au ministre un rapport qui comporte les documents et renseignements suivants :
+	- **a)** une copie de l’avis;
+	- **b)** le nombre de véhicules visés par l’avis, si aucun avis n’est envoyé à des propriétaires actuels.
+
+- **(4)** Pendant cinq ans à compter du soixantième jour qui suit la date à laquelle l’entreprise donne un avis au ministre au titre des paragraphes 10(1) ou 10.1(1) de la Loi, l’entreprise transmet au ministre, dans les cinq jours ouvrables suivant la date de leur envoi aux destinataires, une copie des communications ci-après en précisant la date d’envoi aux destinataires :
+	- **a)** les communications envoyées à plus d’un propriétaire actuel à l’égard du défaut ou de la non-conformité;
+	- **b)** les communications envoyées à plus d’une personne visée à l’égard :
+		- **(i)** d’une part, des renseignements exigés par les paragraphes 15(9) ou 15.01(9),
+		- **(ii)** d’autre part, du défaut ou de la non-conformité.
+> DORS/2019-253, art. 2
+
+
+
+
+**15.03** 
+
+- **(1)** Pour l’application de l’article 10.2 de la Loi, l’entreprise qui donne un avis de défaut ou un avis de non-conformité à un propriétaire actuel ou à une personne visée transmet au ministre des rapports trimestriels qui contiennent les renseignements suivants :
+	- **a)** le numéro du rappel de sécurité automobile attribué par le ministère des Transports;
+	- **b)** le numéro, le titre ou tout autre moyen d’identification que l’entreprise a attribué à l’avis;
+	- **c)** le nombre de véhicules visés par l’avis et la date à laquelle elle a mis ce nombre à jour;
+	- **d)** le nombre de véhicules qui ont fait l’objet de mesures correctives, y compris ceux qui n’ont nécessité qu’une inspection, et la date à laquelle elle a calculé ce nombre.
+
+- **(2)** L’entreprise transmet les rapports trimestriels au ministre selon le calendrier ci-après pendant deux ans à compter du soixantième jour qui suit la date à laquelle elle lui donne un avis au titre des paragraphes 10(1) ou 10.1(1) de la Loi :
+	- **a)** pour le trimestre du 1<sup>er</sup> janvier au 31 mars, au plus tard le 30 avril;
+	- **b)** pour le trimestre du 1<sup>er</sup> avril au 30 juin, au plus tard le 30 juillet;
+	- **c)** pour le trimestre du 1<sup>er</sup> juillet au 30 septembre, au plus tard le 30 octobre;
+	- **d)** pour le trimestre du 1<sup>er</sup> octobre au 31 décembre, au plus tard le 30 janvier de l’année suivante.
+> DORS/2019-253, art. 2
 
 
 
@@ -1513,7 +1694,7 @@ où :
 - **(1)** Des documents contenant des méthodes d’essai de sécurité des véhicules automobiles sont publiés par le ministère des Transports sous le titre principal Méthode d’essai, suivi d’un numéro d’identification, d’un titre descriptif et de la date de publication.
 
 - **(2)** [Abrogé, DORS/2008-104, art. 4]
-> DORS/97-141, art. 2; DORS/97-421, art. 16; DORS/2008-104, art. 4.
+> DORS/97-141, art. 2; DORS/97-421, art. 16; DORS/2008-104, art. 4
 
 
 
@@ -1527,13 +1708,13 @@ où :
 - **(1)** Pour l’application de l’article 12 de la Loi, tout document de normes techniques, y compris toute modification apportée à ce document, est publié par le ministère des Transports et porte le titre principal Document de normes techniques, suivi d’un numéro d’identification, d’un titre descriptif et de la date de publication.
 
 - **(2)** [Abrogé, DORS/2008-104, art. 5]
-> DORS/96-366, art. 3; DORS/97-421, art. 16; DORS/2008-104, art. 5.
+> DORS/96-366, art. 3; DORS/97-421, art. 16; DORS/2008-104, art. 5
 
 
 
 
-**17** Le ministère des Transports publie un avis dans la Partie I de la Gazette du Canada chaque fois qu’il modifie un document de normes techniques.
-> DORS/96-366, art. 3.
+**17** Le ministère des Transports publie un avis dans la Partie I de la [Gazette du Canada](http://www.gazette.gc.ca/) chaque fois qu’il modifie un document de normes techniques.
+> DORS/96-366, art. 3
 
 
 
@@ -1549,7 +1730,9 @@ où :
 - **(2)** Le manuel de l’usager doit être disponible dans les deux langues officielles.
 
 - **(3)** S’il est disponible uniquement sous forme électronique ou optique, le manuel de l’usager doit pouvoir être utilisé dans l’habitacle à l’aide d’un dispositif qui est installé dans le véhicule ou dont celui-ci est pourvu.
-> DORS/2013-9, art. 2.
+
+- **(4)** À compter du 1<sup>er</sup> septembre 2020, le manuel de l’usager doit contenir des instructions sur la façon dont le propriétaire d’un véhicule peut communiquer avec le ministère des Transports pour signaler une préoccupation concernant la sécurité du véhicule.
+> DORS/2013-9, art. 2DORS/2019-253, art. 3
 
 
 
@@ -1571,7 +1754,7 @@ où :
 ***(Section 6 and paragraphs 6.2(1)(g) and 6.4(1)(e))* / (article 6 et alinéas 6.2(1)g) et 6.4(1)e))**
 > Image: Contour d’un cercle avec une feuille d’érable au centre et les mots CANADA NSVAC TRANSPORT CMVSS inscrits sur la courbure intérieure du cercle
 
-> DORS/95-147, art. 3; DORS/2002-55, art. 11.
+> DORS/95-147, art. 3; DORS/2002-55, art. 11
 
 
 
@@ -1605,7 +1788,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 
 
 <p>_________________________<br />pour le ministre des Transports, de l’Infrastructure et des Collectivités<br /></p>
-> DORS/95-147, art. 4; DORS/2008-104, art. 6.
+> DORS/95-147, art. 4; DORS/2008-104, art. 6
 
 
 
@@ -2859,14 +3042,14 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-277, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8; DORS/2017-104, art. 2; DORS/2017-231, art. 1; DORS/2018-43, art. 2 et 3.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-277, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8; DORS/2017-104, art. 2; DORS/2017-231, art. 1; DORS/2018-43, art. 2 et 3
 
 
 
 
 ### **ANNEXE IV** 
 **(paragraphes 2(1) et 2.4(5) et articles 5, 6 et 12)**
-> [DORS/95-147, art. 6; DORS/2011-264, art. 4].
+> [DORS/95-147, art. 6; DORS/2011-264, art. 4]
 
 
 **PARTIE I** 
@@ -3525,13 +3708,13 @@ ou
 </tr>
 </table>
 
-> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3; DORS/2017-104, art. 3 à 5; DORS/2017-231, art. 2.
+> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3; DORS/2017-104, art. 3 à 5; DORS/2017-231, art. 2
 
 
 
 
 ### Fonctions de la commande de la boîte de vitesses (norme 102)
-> [DORS/97-421, art. 3]
+> DORS/97-421, art. 3
 
 
 **102** 
@@ -3560,7 +3743,7 @@ ou
 - **(7)** Dans le cas de voitures de tourisme, de véhicules à trois roues, de véhicules de tourisme à usages multiples et de camions qui ont un PNBV d’au plus 4 536 kg et sont munis d’une boîte de vitesses manuelle, le réglage du commutateur d’allumage dans la position de démarrage du moteur ne doit pas faire démarrer un moteur utilisé pour la propulsion du véhicule tant qu’il n’y a pas débrayage ou que la chaîne cinématique n’est pas désactivée d’une autre façon.
 
 - **(8)** Dans le présent article, ***chaîne cinématique*** s’entend de l’ensemble des organes qui transmettent la force motrice depuis le moteur jusqu’aux roues motrices.
-> DORS/95-164, art. 4; DORS/97-421, art. 4 et 22(F); DORS/2003-189, art. 1; DORS/2003-272, art. 34; DORS/2006-94, art. 4(A); DORS/2007-246, art. 2.
+> DORS/95-164, art. 4; DORS/97-421, art. 4 et 22(F); DORS/2003-189, art. 1; DORS/2003-272, art. 34; DORS/2006-94, art. 4(A); DORS/2007-246, art. 2
 
 
 
@@ -3600,7 +3783,7 @@ ou
 	- **f)** le ventilateur du dégivreur peut être mis en marche à n’importe quel moment;
 	- **g)** la vitesse du vent ne doit pas dépasser 3 km/h;
 	- **h)** la température de la chambre d’essai et la vitesse du vent sont mesurées après que le moteur ait été mis en marche, au point extrême de l’avant du véhicule ou à un point placé à 91,4 cm (36 po) de la base du pare-brise, si ce dernier point est situé plus à l’avant, à mi-distance entre l’extrémité supérieure et l’extrémité inférieure du pare-brise, sur l’axe du véhicule.
-> DORS/97-264, art. 1; DORS/2003-272, art. 8; DORS/2008-104, art. 9.
+> DORS/97-264, art. 1; DORS/2003-272, art. 8; DORS/2008-104, art. 9
 
 
 
@@ -3843,7 +4026,7 @@ ou
 </tr>
 </table>
 
-> DORS/94-670, art. 2(F); DORS/97-264, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 9; DORS/2006-94, art. 4(A); DORS/2008-104, art. 10.
+> DORS/94-670, art. 2(F); DORS/97-264, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 9; DORS/2006-94, art. 4(A); DORS/2008-104, art. 10
 
 
 
@@ -3859,13 +4042,13 @@ ou
 - **(3)** La mention qui figure à la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
 
 - **(4) à (6)** [Abrogés, DORS/2015-24, art. 4]
-> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1; DORS/2009-318, art. 19(F); DORS/2011-238, art. 1; DORS/2015-24, art. 4.
+> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1; DORS/2009-318, art. 19(F); DORS/2011-238, art. 1; DORS/2015-24, art. 4
 
 
 
 
 ### Boyaux de frein (Norme 106)
-> [DORS/93-561, art. 3; DORS/2011-238, art. 1]
+> DORS/93-561, art. 3; DORS/2011-238, art. 1
 
 
 **106** 
@@ -3914,7 +4097,7 @@ ou
 
 
 - **(3)** [Abrogé, DORS/2014-307, art. 1]
-> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6; DORS/2009-318, art. 8; DORS/2009-330, art. 1; DORS/2011-238, art. 1; DORS/2014-307, art. 1.
+> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6; DORS/2009-318, art. 8; DORS/2009-330, art. 1; DORS/2011-238, art. 1; DORS/2014-307, art. 1
 
 
 
@@ -4128,7 +4311,7 @@ ou
 
 
 - **(35)** Malgré les paragraphes (1) à (34), tout véhicule peut, jusqu’au 31 août 2019, être conforme aux exigences du présent article qui sont applicables à un système d’éclairage ou à un dispositif réfléchissant, dans leur version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12; DORS/2009-330, art. 2; DORS/2014-307, art. 2; DORS/2015-23, art. 3; DORS/2018-43, art. 4.
+> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12; DORS/2009-330, art. 2; DORS/2014-307, art. 2; DORS/2015-23, art. 3; DORS/2018-43, art. 4
 
 
 
@@ -4193,7 +4376,7 @@ ou
 
 > Image: Figure montrant un exemple bilingue d’étiquette de pression de gonflage des pneus qui comporte les renseignements exigés par l’alinéa 110(2)a).
 
-> DORS/79-339, art. 3; DORS/79-940, art. 7; DORS/87-448, art. 1; DORS/2003-272, art. 12; DORS/2008-258, art. 8; DORS/2014-82, art. 1; DORS/2014-307, art. 3.
+> DORS/79-339, art. 3; DORS/79-940, art. 7; DORS/87-448, art. 1; DORS/2003-272, art. 12; DORS/2008-258, art. 8; DORS/2014-82, art. 1; DORS/2014-307, art. 3
 
 
 
@@ -4230,7 +4413,7 @@ ou
 	- **c)** le rayon de courbure en tout point ne varie pas de plus de 12,5 pour cent de la moyenne de cinq mesures de rayon de courbure prises sur la surface réfléchissante à au moins 6 mm (0,25 po) du contour de l’image réfléchie.
 
 ##### Voitures de tourisme et véhicules à trois roues
-> [DORS/2003-272, art. 13]
+> DORS/2003-272, art. 13
 
 
 
@@ -4403,7 +4586,7 @@ où :
 NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES FORMULES VISÉES AU PARAGRAPHE 111(22)
 
 
-> DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A); DORS/2008-72, art. 2; DORS/2017-57, art. 2; DORS/2017-231, art. 3 et 4.
+> DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A); DORS/2008-72, art. 2; DORS/2017-57, art. 2; DORS/2017-231, art. 3 et 4
 
 
 
@@ -4423,7 +4606,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES 
 - **(2)** Le capot d’un véhicule doit être muni d’un système d’attache.
 
 - **(3)** Tout véhicule muni d’un capot qui s’ouvre par son extrémité antérieure et qui peut, dans n’importe quelle position, obstruer complètement ou partiellement le champ de vision vers l’avant du conducteur à travers le pare-brise doit avoir un système d’attache du capot à deux crans ou deux systèmes d’attache du capot.
-> DORS/79-306, art. 4; DORS/79-940, art. 7; DORS/2000-182, art. 6.
+> DORS/79-306, art. 4; DORS/79-940, art. 7; DORS/2000-182, art. 6
 
 
 
@@ -4524,7 +4707,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES 
 	- **b)** pour l’application du paragraphe 8.2.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
 	- **c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
 	- **d)** les renvois au paragraphe 8.4 ne s’appliquent pas.
-> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1; DORS/2014-82, art. 2; DORS/2014-307, art. 4; DORS/2017-57, art. 8.
+> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1; DORS/2014-82, art. 2; DORS/2014-307, art. 4; DORS/2017-57, art. 8
 
 
 
@@ -4893,13 +5076,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 </tr>
 </table>
 
-> DORS/79-940, art. 7; DORS/82-753, art. 3; DORS/87-660, art. 5; DORS/88-268, art. 7; DORS/88-535, art. 1; DORS/92-545, art. 3; DORS/94-670, art. 2(F); DORS/97-532, art. 3; DORS/2000-182, art. 7; DORS/2000-241, art. 1; DORS/2000-304, art. 5; DORS/2002-55, art. 14; DORS/2003-272, art. 15; DORS/2004-250, art. 3; DORS/2006-94, art. 4(A); DORS/2008-72, art. 3(A); DORS/2009-33, art. 2.
+> DORS/79-940, art. 7; DORS/82-753, art. 3; DORS/87-660, art. 5; DORS/88-268, art. 7; DORS/88-535, art. 1; DORS/92-545, art. 3; DORS/94-670, art. 2(F); DORS/97-532, art. 3; DORS/2000-182, art. 7; DORS/2000-241, art. 1; DORS/2000-304, art. 5; DORS/2002-55, art. 14; DORS/2003-272, art. 15; DORS/2004-250, art. 3; DORS/2006-94, art. 4(A); DORS/2008-72, art. 3(A); DORS/2009-33, art. 2
 
 
 
 
 ### Liquides de frein pour véhicules automobiles (Norme 116)
-> [DORS/93-561, art. 5; DORS/97-421, art. 7(F); DORS/2011-238, art. 2]
+> DORS/93-561, art. 5; DORS/97-421, art. 7(F); DORS/2011-238, art. 2
 
 
 **116** 
@@ -4963,7 +5146,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 - **(3)** [Abrogé, DORS/2014-307, art. 5]
-> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7; DORS/2009-318, art. 9 et 10; DORS/2011-238, art. 2; DORS/2014-307, art. 5.
+> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7; DORS/2009-318, art. 9 et 10; DORS/2011-238, art. 2; DORS/2014-307, art. 5
 
 
 
@@ -4977,7 +5160,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> octobre 2010 n’ont pas à être conformes aux exigences de la disposition S6 du DNT 118.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 6]
-> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A); DORS/2007-180, art. 8; DORS/2011-238, art. 2; DORS/2014-307, art. 6.
+> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A); DORS/2007-180, art. 8; DORS/2011-238, art. 2; DORS/2014-307, art. 6
 
 
 
@@ -5015,7 +5198,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(5)** Dans le cas des véhicules munis de pneus pour camion léger, le symbole d’identification de la limite de charge doit figurer soit sur l’étiquette de conformité exigée par l’article 6 du présent règlement, soit sur l’étiquette informative relative aux pneus.
 
 - **(6)** [Abrogé, DORS/2014-307, art. 7]
-> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A); DORS/2008-258, art. 9; DORS/2013-198, art. 15; DORS/2014-82, art. 3; DORS/2014-307, art. 7.
+> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A); DORS/2008-258, art. 9; DORS/2013-198, art. 15; DORS/2014-82, art. 3; DORS/2014-307, art. 7
 
 
 
@@ -5044,7 +5227,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(6)** L’essai qui concerne la force de freinage statique sur les freins de stationnement et qui est visé à la disposition S5.6.1 du DNT 121 doit être effectué dans les deux directions, vers l’avant et vers l’arrière.
 
 - **(7)** [Abrogé, DORS/2014-307, art. 8]
-> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2; DORS/2009-318, art. 19(F); DORS/2013-220, art. 1; DORS/2014-307, art. 8.
+> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2; DORS/2009-318, art. 19(F); DORS/2013-220, art. 1; DORS/2014-307, art. 8
 
 
 
@@ -5106,13 +5289,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 - **(19)** Malgré les paragraphes (1) à (18), toute motocyclette peut, jusqu’au 1<sup>er</sup> septembre 2016, être conforme aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3; DORS/2014-82, art. 4; DORS/2015-24, art. 5; DORS/2015-111, art. 2; DORS/2017-57, art. 8.
+> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3; DORS/2014-82, art. 4; DORS/2015-24, art. 5; DORS/2015-111, art. 2; DORS/2017-57, art. 8
 
 
 
 
 ### Commandes et affichages des motocyclettes (Norme 123)
-> [DORS/93-31, art. 4; DORS/2007-180, art. 9; DORS/2011-238, art. 3]
+> DORS/93-31, art. 4; DORS/2007-180, art. 9; DORS/2011-238, art. 3
 
 
 
@@ -5171,7 +5354,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(22)** Pour l’application des paragraphes (16) à (21) :
 	- **a)** dans la version anglaise du règlement n<sup>o</sup> 60 des Nations Unies, les mentions « *audible warning device* », « *driving-beam* » et « *passing-beam* » valent respectivement mention de « *horn* », « *upper beam* » et « *lower beam* »;
 	- **b)** dans la version française du règlement n<sup>o</sup> 60 des Nations Unies, toute mention de « compteur de vitesse » vaut mention de « indicateur de vitesse ».
-> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11; DORS/2011-238, art. 3; DORS/2014-307, art. 9; DORS/2017-57, art. 3.
+> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11; DORS/2011-238, art. 3; DORS/2014-307, art. 9; DORS/2017-57, art. 3
 
 
 
@@ -5183,7 +5366,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 124 — Systèmes de commande d’accélération, avec ses modifications successives.
 
 - **(2)** [Abrogé, DORS/2014-307, art. 10]
-> DORS/79-940, art. 7; DORS/2007-180, art. 10; DORS/2011-238, art. 3; DORS/2014-307, art. 10.
+> DORS/79-940, art. 7; DORS/2007-180, art. 10; DORS/2011-238, art. 3; DORS/2014-307, art. 10
 
 
 
@@ -5200,7 +5383,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 	- **c)** le paragraphe 4.1.1 de cette annexe doit être lu comme exigeant que la température ambiante soit comprise entre 7 et 40 °C;
 	- **d)** le paragraphe 4.2.2.2 de cette annexe ne s’applique pas;
 	- **e)** les pneumatiques mentionnés au paragraphe 4.3.3 de cette annexe sont ceux installés sur le véhicule avant sa vente au premier usager.
-> DORS/2013-55, art. 1; DORS/2014-307, art. 11; DORS/2017-57, art. 4; DORS/2017-104, art. 6.
+> DORS/2013-55, art. 1; DORS/2014-307, art. 11; DORS/2017-57, art. 4; DORS/2017-104, art. 6
 
 
 
@@ -5214,13 +5397,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(2)** Le mot « ARRÊT » peut figurer à la place du mot « *STOP* » ou avec celui-ci, de la manière précisée pour le mot « *STOP* » à la disposition S5.2.2 du DNT 131.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 12]
-> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3; DORS/2011-238, art. 3; DORS/2014-307, art. 12; DORS/2015-23, art. 4.
+> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3; DORS/2011-238, art. 3; DORS/2014-307, art. 12; DORS/2015-23, art. 4
 
 
 
 
 ### Systèmes de freinage de véhicules légers (Norme 135)
-> [DORS/2001-35, art. 5; DORS/2011-238, art. 3]
+> DORS/2001-35, art. 5; DORS/2011-238, art. 3
 
 
 **135** 
@@ -5234,7 +5417,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(4)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
 
 - **(5) à (7)** [Abrogés, DORS/2015-24, art. 6]
-> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F); DORS/2011-238, art. 3; DORS/2015-24, art. 6.
+> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F); DORS/2011-238, art. 3; DORS/2015-24, art. 6
 
 
 
@@ -5252,7 +5435,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(2)** Malgré la FMVSS 136, le paragraphe (1) s’applique aux autobus scolaires.
 
 - **(3)** Le présent article s’applique aux véhicules fabriqués aux dates prévues à la FMVSS 136, ou après celles-ci.
-> DORS/2017-104, art. 7.
+> DORS/2017-104, art. 7
 
 
 
@@ -5344,7 +5527,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(10)** Tout accoudoir escamotable dans le dossier du siège ou entre deux sièges doit
 	- **a)** être conforme aux prescriptions du paragraphe (9); ou
 	- **b)** être fait ou recouvert d’un matériau amortissant.
-> DORS/83-138, art. 2; DORS/86-453, art. 2; DORS/92-689, art. 1; DORS/94-374, art. 5(F); DORS/94-692, art. 2(F); DORS/97-447, art. 4; DORS/2006-94, art. 4(A).
+> DORS/83-138, art. 2; DORS/86-453, art. 2; DORS/92-689, art. 1; DORS/94-374, art. 5(F); DORS/94-692, art. 2(F); DORS/97-447, art. 4; DORS/2006-94, art. 4(A)
 
 
 
@@ -5352,7 +5535,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 ### Appuie-tête
 
 **202** Les véhicules de tourisme à usages multiples, autobus ou camions ayant un PNBV d’au plus 4 536 kg, les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 202 — Appuie-tête (DNT 202), avec ses modifications successives.
-> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F); DORS/2009-122, art. 1; DORS/2014-82, art. 5; DORS/2014-307, art. 13.
+> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F); DORS/2009-122, art. 1; DORS/2014-82, art. 5; DORS/2014-307, art. 13
 
 
 
@@ -5372,7 +5555,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(4)** Les paragraphes (2) et (3) ne s’appliquent pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
 - **(5)** [Abrogé, DORS/2014-307, art. 14]
-> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A); DORS/2009-121, art. 2; DORS/2013-9, art. 3; DORS/2014-307, art. 14.
+> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A); DORS/2009-121, art. 2; DORS/2013-9, art. 3; DORS/2014-307, art. 14
 
 
 
@@ -5388,7 +5571,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(3)** Le paragraphe (1) ne s’applique pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
 - **(4)** [Abrogé, DORS/2014-307, art. 15]
-> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5; DORS/2009-121, art. 2; DORS/2013-9, art. 4; DORS/2014-307, art. 15.
+> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5; DORS/2009-121, art. 2; DORS/2013-9, art. 4; DORS/2014-307, art. 15
 
 
 
@@ -5429,7 +5612,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(13)** Chaque pièce de vitrage installée dans un véhicule doit porter, d’une manière lisible et permanente :
 	- **a)** d’une part, la marque applicable exigée à l’article 7 de la norme de sécurité ANSI Z26 — 1996;
 	- **b)** d’autre part, une marque codée approuvée, laquelle est attribuée par le ministre au fabricant de vitrages, en lettres et en chiffres d’au moins 1,8 mm de hauteur.
-> DORS/82-656, art. 4; DORS/84-336, art. 1; DORS/86-161, art. 2; DORS/88-268, art. 11; DORS/93-5, art. 3(F); DORS/94-670, art. 2(F); DORS/94-717, art. 2; DORS/2002-55, art. 16; DORS/2002-187, art. 2; DORS/2003-272, art. 22; DORS/2004-250, art. 4; DORS/2006-94, art. 4(A); DORS/2017-57, art. 5(F).
+> DORS/82-656, art. 4; DORS/84-336, art. 1; DORS/86-161, art. 2; DORS/88-268, art. 11; DORS/93-5, art. 3(F); DORS/94-670, art. 2(F); DORS/94-717, art. 2; DORS/2002-55, art. 16; DORS/2002-187, art. 2; DORS/2003-272, art. 22; DORS/2004-250, art. 4; DORS/2006-94, art. 4(A); DORS/2017-57, art. 5(F)
 
 
 
@@ -5445,7 +5628,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(2)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 des Nations Unies, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 16]
-> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1; DORS/2013-220, art. 2; DORS/2014-307, art. 16; DORS/2017-57, art. 6 et 8.
+> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1; DORS/2013-220, art. 2; DORS/2014-307, art. 16; DORS/2017-57, art. 6 et 8
 
 
 
@@ -5461,13 +5644,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(3)** Dans le cas des camions et véhicules de tourisme à usages multiples ayant un PNBV supérieur à 4 536 kg et des autocaravanes, n’est pas considéré comme étant une place assise désignée le siège étiqueté conformément à la disposition S4.4 du DNT 207.
 
 - **(4)** [Abrogé, DORS/2014-307, art. 17]
-> DORS/2011-264, art. 5; DORS/2014-307, art. 17; DORS/2016-318, art. 9.
+> DORS/2011-264, art. 5; DORS/2014-307, art. 17; DORS/2016-318, art. 9
 
 
 
 
 ### Protection des occupants en cas de collision frontale (Norme 208)
-> [DORS/2013-9, art. 5]
+> DORS/2013-9, art. 5
 
 
 
@@ -5621,13 +5804,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 - **(26)** Jusqu’au 1<sup>er</sup> septembre 2020, les autobus peuvent être conformes aux exigences applicables du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6; DORS/2014-307, art. 18; DORS/2016-318, art. 10; DORS/2018-143-2, art. 4.
+> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6; DORS/2014-307, art. 18; DORS/2016-318, art. 10; DORS/2018-143-2, art. 4
 
 
 
 
 ### Ceintures de sécurité (Norme 209)
-> [DORS/95-536, art. 7(F); DORS/2011-238, art. 4]
+> DORS/95-536, art. 7(F); DORS/2011-238, art. 4
 
 
 **209** 
@@ -5690,7 +5873,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(9)** Les exigences relatives au dépôt de la corrosion qui sont prévues à la disposition S4.3a)(2) du DNT 209 ne s’appliquent pas.
 
 - **(10)** La ceinture de sécurité de type 1 ou de type 2 qui inclut un limiteur de charge et qui n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
-> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12; DORS/2011-238, art. 4; DORS/2013-117, art. 6; DORS/2016-318, art. 11.
+> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12; DORS/2011-238, art. 4; DORS/2013-117, art. 6; DORS/2016-318, art. 11
 
 
 
@@ -5714,13 +5897,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 - **(4)** Jusqu’au 1<sup>er</sup> septembre 2020, les ancrages de ceinture de sécurité visés au paragraphe (1) et les manuels de l’usager visés au paragraphe (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/90-588, art. 3; DORS/93-5, art. 5; DORS/97-447, art. 7; DORS/2003-57, art. 1, 3(F) et 4(F); DORS/2003-272, art. 25; DORS/2006-94, art. 4(A); DORS/2007-180, art. 14; DORS/2008-72, art. 7; DORS/2011-264, art. 6; DORS/2018-143-2, art. 5.
+> DORS/90-588, art. 3; DORS/93-5, art. 5; DORS/97-447, art. 7; DORS/2003-57, art. 1, 3(F) et 4(F); DORS/2003-272, art. 25; DORS/2006-94, art. 4(A); DORS/2007-180, art. 14; DORS/2008-72, art. 7; DORS/2011-264, art. 6; DORS/2018-143-2, art. 5
 
 
 
 
 ### Ancrages d’attache prêts à utiliser pour les ensembles de retenue et les sièges d’appoint (Norme 210.1)
-> [DORS/2013-117, art. 7]
+> DORS/2013-117, art. 7
 
 
 
@@ -6022,13 +6205,13 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 </tr>
 </table>
 
-> DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26; DORS/2006-94, art. 2 et 4(A); DORS/2007-180, art. 15; DORS/2008-72, art. 8; DORS/2013-117, art. 8.
+> DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26; DORS/2006-94, art. 2 et 4(A); DORS/2007-180, art. 15; DORS/2008-72, art. 8; DORS/2013-117, art. 8
 
 
 
 
 ### Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des sièges d’appoint (Norme 210.2)
-> [DORS/2013-117, art. 9]
+> DORS/2013-117, art. 9
 
 
 
@@ -6333,7 +6516,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 </tr>
 </table>
 
-> DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4; DORS/2006-94, art. 3 et 4(A); DORS/2008-72, art. 9; DORS/2008-104, art. 17; DORS/2013-117, art. 10.
+> DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4; DORS/2006-94, art. 3 et 4(A); DORS/2008-72, art. 9; DORS/2008-104, art. 17; DORS/2013-117, art. 10
 
 
 
@@ -6350,7 +6533,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 - **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 212, avec ses modifications successives.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 19]
-> DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F); DORS/2009-121, art. 3; DORS/2013-9, art. 7; DORS/2014-307, art. 19.
+> DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F); DORS/2009-121, art. 3; DORS/2013-9, art. 7; DORS/2014-307, art. 19
 
 
 
@@ -6465,7 +6648,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 - **(23)** [Abrogé, DORS/2014-307, art. 20]
 
 - **(24)** Jusqu’au 1<sup>er</sup> septembre 2013, les ensembles intégrés de retenue et les sièges d’appoint intégrés peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18; DORS/2013-117, art. 11; DORS/2014-307, art. 20; DORS/2018-143-2, art. 6.
+> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18; DORS/2013-117, art. 11; DORS/2014-307, art. 20; DORS/2018-143-2, art. 6
 
 
 
@@ -6504,7 +6687,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 
 - **(5)** Malgré les paragraphes (1) à (4), les véhicules visés au paragraphe (1) peuvent, jusqu’au 1<sup>er</sup> septembre 2018, être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28; DORS/2006-94, art. 4(A); DORS/2007-180, art. 17; DORS/2016-254, art. 2.
+> DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28; DORS/2006-94, art. 4(A); DORS/2007-180, art. 17; DORS/2016-254, art. 2
 
 
 
@@ -6520,7 +6703,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 - **(2)** Jusqu’au 31 août 2009, les voitures de tourisme peuvent être conformes aux exigences du présent article dans sa version actuelle ou dans sa version antérieure à l’entrée en vigueur du présent règlement.
 
 - **(3)** À compter du 1<sup>er</sup> septembre 2009, les voitures de tourisme doivent être conformes aux exigences du présent article.
-> DORS/79-338, art. 1; DORS/79-940, art. 8; DORS/91-692, art. 5; DORS/94-692, art. 2(F); DORS/97-421, art. 22(F); DORS/2008-199, art. 1; DORS/2017-57, art. 8.
+> DORS/79-338, art. 1; DORS/79-940, art. 8; DORS/91-692, art. 5; DORS/94-692, art. 2(F); DORS/97-421, art. 22(F); DORS/2008-199, art. 1; DORS/2017-57, art. 8
 
 
 
@@ -6536,7 +6719,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 - **(3)** Jusqu’au 31 août 2016, les véhicules visés aux paragraphes (1) et (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date à laquelle la présente version de l’article entre en vigueur.
 
 - **(4)** [Abrogé, DORS/2014-307, art. 21]
-> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A); DORS/2009-291, art. 4; DORS/2014-82, art. 6; DORS/2014-307, art. 21.
+> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A); DORS/2009-291, art. 4; DORS/2014-82, art. 6; DORS/2014-307, art. 21
 
 
 
@@ -6752,7 +6935,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 > Image: Diagramme montrant une forme de tête avec mesures et descriptions
 
-> DORS/80-159, art. 1; DORS/86-978, art. 1; DORS/87-176, art. 1; DORS/92-122, art. 1; DORS/94-374, art. 5; DORS/94-692, art. 2; DORS/98-524, art. 4(F); DORS/99-215, art. 1(F); DORS/2009-330, art. 5; DORS/2018-143-2, art. 7.
+> DORS/80-159, art. 1; DORS/86-978, art. 1; DORS/87-176, art. 1; DORS/92-122, art. 1; DORS/94-374, art. 5; DORS/94-692, art. 2; DORS/98-524, art. 4(F); DORS/99-215, art. 1(F); DORS/2009-330, art. 5; DORS/2018-143-2, art. 7
 
 
 
@@ -6766,7 +6949,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 - **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 219, avec ses modifications successives.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 22]
-> DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F); DORS/2009-121, art. 4; DORS/2013-9, art. 8; DORS/2014-307, art. 22.
+> DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F); DORS/2009-121, art. 4; DORS/2013-9, art. 8; DORS/2014-307, art. 22
 
 
 
@@ -6780,7 +6963,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 - **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, qui sont fabriqués en deux étapes ou plus et qui ne sont pas fabriqués à partir d’un châssis-cabine, et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 220 ou du DNT 216, lequel est mentionné à l’article 216 de la présente annexe.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 23]
-> DORS/79-940, art. 9; DORS/2009-291, art. 5; DORS/2014-82, art. 7; DORS/2014-307, art. 23.
+> DORS/79-940, art. 9; DORS/2009-291, art. 5; DORS/2014-82, art. 7; DORS/2014-307, art. 23
 
 
 
@@ -6821,7 +7004,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 - **(7)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNBV de 4 536 kg ou moins peuvent être conformes au présent article.
 
 - **(8)** Après le 14 janvier 2002, les autobus scolaires doivent être conformes au présent article.
-> DORS/80-160, art. 2; DORS/97-421, art. 17; DORS/2001-36, art. 1.
+> DORS/80-160, art. 2; DORS/97-421, art. 17; DORS/2001-36, art. 1
 
 
 
@@ -6838,7 +7021,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 
 - **(3)** Jusqu’au 1<sup>er</sup> septembre 2020, les autobus scolaires peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/80-161, art. 4; DORS/86-453, art. 3; DORS/91-593, art. 1; DORS/2018-143-2, art. 8.
+> DORS/80-161, art. 4; DORS/86-453, art. 3; DORS/91-593, art. 1; DORS/2018-143-2, art. 8
 
 
 
@@ -6974,7 +7157,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 </tr>
 </table>
 
-> DORS/2004-195, art. 2; DORS/2008-104, art. 19; DORS/2013-220, art. 3.
+> DORS/2004-195, art. 2; DORS/2008-104, art. 19; DORS/2013-220, art. 3
 
 
 
@@ -7014,7 +7197,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 - **(6)** Les mentions prévues aux sous-alinéas (3)b)(i) et (ii) et aux alinéas (4)b) et (5)b) doivent être reproduites dans le manuel de l’usager.
 
 - **(7)** Il est entendu qu’une seule des mentions applicables prévues aux sous-alinéas (3)b)(i) et (ii) et à l’alinéa (5)b) n’a à être affichée dans le véhicule si l’ensemble de celui-ci n’a pas à être conforme aux exigences du DNT 226.
-> DORS/2016-277, art. 2; DORS/2018-143-2, art. 9(A).
+> DORS/2016-277, art. 2; DORS/2018-143-2, art. 9(A)
 
 
 
@@ -7031,7 +7214,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 - **(2)** Les autobus scolaires d’un PNBV de plus de 4 536 kg qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du DNT 301.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 24]
-> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10; DORS/2009-79, art. 5; DORS/2011-238, art. 5; DORS/2014-307, art. 24.
+> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10; DORS/2009-79, art. 5; DORS/2011-238, art. 5; DORS/2014-307, art. 24
 
 
 
@@ -7068,7 +7251,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 - **(4)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit indiquer au ministre, sur demande, la version de la norme visée au paragraphe (3) à laquelle le véhicule est conforme.
 
 - **(5)** [Abrogé, DORS/2004-89, art. 2]
-> DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2; DORS/2008-104, art. 20; DORS/2014-307, art. 25; DORS/2016-318, art. 12.
+> DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2; DORS/2008-104, art. 20; DORS/2014-307, art. 25; DORS/2016-318, art. 12
 
 
 
@@ -7115,7 +7298,7 @@ où :
 - **(5)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit indiquer au ministre, sur demande, la version des normes visées aux paragraphes (3) et (4) auxquelles le véhicule est conforme.
 
 - **(6)** [Abrogé, DORS/2004-89, art. 3]
-> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21; DORS/2013-220, art. 4; DORS/2014-307, art. 26; DORS/2016-318, art. 13.
+> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21; DORS/2013-220, art. 4; DORS/2014-307, art. 26; DORS/2016-318, art. 13
 
 
 
@@ -7142,7 +7325,7 @@ où :
 - **(6)** [Abrogé, DORS/2017-57, art. 7]
 
 - **(7)** Les motocyclettes construites avant le 1<sup>er</sup> septembre 2004 n’ont pas à être conformes au présent article.
-> DORS/2003-272, art. 31; DORS/2017-57, art. 7.
+> DORS/2003-272, art. 31; DORS/2017-57, art. 7
 
 
 
@@ -7154,13 +7337,13 @@ où :
 - **(1)** Les matériaux intérieurs des voitures de tourisme, des véhicules de tourisme à usages multiples, des camions, des autobus et des véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
 
 - **(2)** [Abrogé, DORS/2014-307, art. 27]
-> DORS/78-525, art. 2; DORS/79-262, art. 1(F); DORS/2007-180, art. 18; DORS/2011-238, art. 6; DORS/2014-307, art. 27.
+> DORS/78-525, art. 2; DORS/79-262, art. 1(F); DORS/2007-180, art. 18; DORS/2011-238, art. 6; DORS/2014-307, art. 27
 
 
 
 
 ### Déversement d’électrolyte et protection contre les décharges électriques (Norme 305)
-> [DORS/2009-318, art. 13(F); DORS/2011-238, art. 6]
+> DORS/2009-318, art. 13(F); DORS/2011-238, art. 6
 
 
 **305** 
@@ -7174,7 +7357,7 @@ où :
 - **(4) et (5)** [Abrogés, DORS/2018-143-2, art. 10]
 
 - **(6)** [Abrogé, DORS/2014-307, art. 28]
-> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13; DORS/2011-238, art. 6; DORS/2014-307, art. 28; DORS/2018-143-2, art. 10.
+> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13; DORS/2011-238, art. 6; DORS/2014-307, art. 28; DORS/2018-143-2, art. 10
 
 
 
@@ -7190,7 +7373,7 @@ où :
 - **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, porte arrière s’entend au sens du DNT 401.
 
 - **(4)** [Abrogé, DORS/2014-307, art. 29]
-> DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14; DORS/2011-238, art. 6; DORS/2014-307, art. 29.
+> DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14; DORS/2011-238, art. 6; DORS/2014-307, art. 29
 
 
 
@@ -7212,7 +7395,7 @@ où :
 - **(5)** Le panneau doit être apposé de sorte qu’il ne soit ni masqué ni obstrué par une partie du véhicule ou une pièce conçue pour y être attachée.
 
 - **(6)** [Abrogé, DORS/2014-307, art. 30]
-> DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12; DORS/2008-229, art. 3; DORS/2011-238, art. 6; DORS/2014-307, art. 30.
+> DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12; DORS/2008-229, art. 3; DORS/2011-238, art. 6; DORS/2014-307, art. 30
 
 
 
@@ -7287,7 +7470,7 @@ où :
 </tr>
 </table>
 
-> DORS/2003-272, art. 33; DORS/2007-180, art. 20.
+> DORS/2003-272, art. 33; DORS/2007-180, art. 20
 
 
 
@@ -7315,13 +7498,13 @@ où :
 - **(3)** Le poids total en charge pour les pièces visées aux alinéas 2a) et b)
 	- **a)** doit être mesuré au point de contact pneu-sol; et
 	- **b)** à l’exception des remorques lourdes, doit correspondre au poids total en charge pour service continu, indiqué par les fabricants respectifs de ces pièces.
-> DORS/79-940, art. 10; DORS/97-421, art. 14(A).
+> DORS/79-940, art. 10; DORS/97-421, art. 14(A)
 
 
 
 
 ### Normes régissant les véhicules conformes aux normes américaines
-> [DORS/91-425, art. 3; DORS/92-173, art. 5]
+> DORS/91-425, art. 3; DORS/92-173, art. 5
 
 
 **902** [Abrogé, DORS/95-147, art. 11]
@@ -7396,7 +7579,7 @@ où :
 	- **b)** avoir une largeur d’au moins 5 cm, mesurée latéralement;
 	- **c)** être accessible des deux côtés du chariot de conversion de type C;
 	- **d)** être à au plus 50 cm de l’attelage du chariot de conversion de type C.
-> DORS/93-146, art. 4; DORS/2008-104, art. 22.
+> DORS/93-146, art. 4; DORS/2008-104, art. 22
 
 
 
@@ -7421,7 +7604,7 @@ où :
 		- **(i)** une charge de 400 kN appliquée dans la direction longitudinale,
 		- **(ii)** une charge de 100 kN appliquée dans la direction verticale,
 		- **(iii)** une charge de 40 kN appliquée dans la direction latérale.
-> DORS/93-146, art. 4; DORS/2008-104, art. 23.
+> DORS/93-146, art. 4; DORS/2008-104, art. 23
 
 
 
@@ -7449,7 +7632,7 @@ où :
 - **M** la capacité de charge de la remorque, exprimée en kilogrammes, laquelle correspond à la différence entre le poids nominal brut du véhicule et la masse à vide du véhicule.
 
 - **(4)** Les dispositifs d’ancrage des chargements de remorque, correspondant au nombre minimal visé au paragraphe (3), doivent, lorsqu’ils sont mis à l’essai conformément à la Méthode d’essai 905 - Dispositifs d’ancrage des chargements de remorque (août 1998), résister à une force d’au moins 67 000 N appliquée verticalement vers le haut.
-> DORS/98-595, art. 2.
+> DORS/98-595, art. 2
 
 
 
@@ -7459,7 +7642,7 @@ où :
 **906** Toute remorque pour motoneige doit être munie, à la fois :
 - **a)** d’une ou de plusieurs barres de fixation transversales placées de manière à pouvoir fixer les skis d’autant de motoneiges que la remorque peut transporter;
 - **b)** de points d’attache auxquels chacune de ces motoneiges peut être attachée par des cordes ou des courroies et qui sont d’une résistance suffisante pour supporter une force de 2224,11 N (500 lb) appliquée séparément sur chacun des points dans n’importe quelle direction.
-> DORS/2003-359, art. 4.
+> DORS/2003-359, art. 4
 
 
 
@@ -7522,14 +7705,14 @@ où :
 - **(2)** Pour l’application du présent article, les exigences du règlement des Nations Unies visé au paragraphe (1) relatives au processus d’homologation ne s’appliquent pas.
 
 
-> DORS/97-141, art. 4; DORS/97-421, art. 15; DORS/2002-55, art. 20; DORS/2005-342, art. 6; DORS/2009-318, art. 15, 16(F), 17 et 18; DORS/2016-318, art. 14; DORS/2017-57, art. 8.
+> DORS/97-141, art. 4; DORS/97-421, art. 15; DORS/2002-55, art. 20; DORS/2005-342, art. 6; DORS/2009-318, art. 15, 16(F), 17 et 18; DORS/2016-318, art. 14; DORS/2017-57, art. 8
 
 
 
 
 ### **ANNEXE VI** 
 **(article 5)**
-> [DORS/95-147, art. 13].
+> [DORS/95-147, art. 13]
 
 **1200** [Abrogé, DORS/96-360, art. 1]
 
@@ -7556,7 +7739,7 @@ où :
 	- **b)** les instructions qui sont fournies avec les motoneiges.
 
 - **(7)** Les motoneiges doivent être munies de projecteurs qui demeurent allumés lorsque le moteur est en marche.
-> DORS/87-497, art. 3; DORS/87-660, art. 6; DORS/96-360, art. 2; DORS/97-532, art. 4; DORS/2000-182, art. 9; DORS/2003-359, art. 5; DORS/2016-318, art. 15.
+> DORS/87-497, art. 3; DORS/87-660, art. 6; DORS/96-360, art. 2; DORS/97-532, art. 4; DORS/2000-182, art. 9; DORS/2003-359, art. 5; DORS/2016-318, art. 15
 
 
 
@@ -7685,7 +7868,7 @@ déclaration sont vrais et que le véhicule sera utilisé :
 
 
 <a name='footnote2_f'><sup>*</sup></a>: Note : Le paragraphe 7(5) de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md) interdit à l’auteur de la déclaration visée à l’alinéa 7(1)a) de cette loi d’utiliser le véhicule en cause ou de s’en départir contrairement à la déclaration.<br />
-> DORS/95-147, art. 14; DORS/2000-182, art. 10 à 12.
+> DORS/95-147, art. 14; DORS/2000-182, art. 10 à 12
 
 
 
@@ -7739,6 +7922,26 @@ déclaration sont vrais et que le véhicule sera utilisé :
 ### Alberta
 
 - **25** Coutts
-> DORS/95-147, art. 14.
+> DORS/95-147, art. 14
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######                     — DORS/98-457, art. 4
+
+**4** Le présent règlement entre en vigueur :
+- **a)** dans le cas des voitures de tourisme, le 1<sup>er</sup> septembre 1999;
+- **b)** dans le cas des véhicules de tourisme à usages multiples et des camions, le 1<sup>er</sup> septembre 2000.
+
+
+
+######                     — DORS/2000-44
+
+**4** Le présent règlement entre en vigueur :
+- **a)** dans le cas des voitures de tourisme, à la date de son enregistrement;
+- **b)** dans le cas des véhicules de tourisme à usages multiples et des camions, le 1<sup>er</sup> septembre 2000.
+
 
 
