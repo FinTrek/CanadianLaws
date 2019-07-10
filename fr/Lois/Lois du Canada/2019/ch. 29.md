@@ -1639,7 +1639,7 @@ où :
 
 <sup><a href='#nbp_2019-c29_F_transform_hq_24196'>[*]</a></sup>**224** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='nbp_2019-c29_F_transform_hq_24196'><sup>*</sup></a>: [Note : Section 10 non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24196'><sup>*</sup></a>: [Note : Section 10 en vigueur le 10 juillet 2019, *voir* TR/2019-64.]<br />
 
 
 
