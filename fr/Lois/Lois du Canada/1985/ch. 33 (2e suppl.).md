@@ -36,6 +36,15 @@
 
 
 
+**[Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md)**
+
+**2.1** Il est entendu que la personne visée à l’article 2 qui n’a pas le droit de présenter un grief au titre de l’article 62 et qui subit des préjudices physiques ou psychologiques, des dommages matériels ou des pertes économiques — ou est autrement lésée — par suite d’une contravention à une disposition applicable des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) peut présenter une plainte au titre du paragraphe 94(1) de cette loi.
+> 2019, ch. 10, art. 154
+
+
+
+
+
 **PARTIE I** 
 ## Relations de travail
 
@@ -1126,7 +1135,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 	- **c)** son congédiement, à l’exception du renvoi à la suite d’une période de stage consécutive à une première nomination;
 	- **d)** sa rétrogradation;
 	- **e)** en cas de refus de nomination, l’évaluation de l’employeur sur son aptitude vis-à-vis des exigences du poste;
-	- **f)** sous réserve du paragraphe 5(3), sa classification par l’employeur.
+	- **f)** sous réserve du paragraphe 5(3), sa classification par l’employeur;
+	- **g)** la contravention par l’employeur à une disposition applicable des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md), si l’employé subit des préjudices physiques ou psychologiques, des dommages matériels ou des pertes économiques — ou est autrement lésé — par suite de cette contravention.
 
 **Approbation de l’agent négociateur**
 
@@ -1135,6 +1145,23 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Délai**
 
 - **(3)** Le grief fondé sur l’alinéa (1)f) ne peut être tranché sous le régime de la présente partie que si les faits à l’origine du grief surviennent ou persistent plus d’un an après son entrée en vigueur.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 632019, ch. 10, art. 155
+
+
+
+
+
+**Avis au commissaire à l’accessibilité**
+
+**63.1** 
+
+- **(1)** La partie qui soulève, dans le cadre du renvoi à l’arbitrage d’un grief, une question liée à la contravention à une disposition des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md), en donne avis, conformément aux règlements, au commissaire à l’accessibilité au sens de l’article 2 de cette loi.
+
+**Observations du commissaire à l’accessibilité**
+
+- **(2)** Dans les cas où il est avisé dans le cadre du paragraphe (1), le commissaire à l’accessibilité peut, dans le cadre de l’arbitrage, présenter ses observations relativement à la question soulevée.
+> 2019, ch. 10, art. 156
+
 
 
 
@@ -1195,7 +1222,11 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Précision sur l’arbitre**
 
 - **(4)** Cet arbitre ne peut ni être commissaire, ni avoir un intérêt direct ou indirect dans le grief ou dans l’instruction ou le règlement de celui-ci; toutefois, dans le cadre de l’arbitrage, il dispose de tous les pouvoirs de la Commission, sauf celui de prendre des règlements en vertu de l’article 12 de la présente loi ou de l’article 36 de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md).
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 66; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 432; 2017, ch. 9, art. 56
+
+**Commissaire tranche le grief**
+
+- **(5)** Malgré l’article 65 et les paragraphes (1) et (2), seul un commissaire peut trancher le grief portant sur le point visé à l’alinéa 63(1)g).
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 66; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 432; 2017, ch. 9, art. 562019, ch. 10, art. 157
 
 
 
@@ -1203,8 +1234,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **Pouvoirs de l’arbitre**
 
-**66.1** Dans le cas d’un grief qui peut être renvoyé à l’arbitrage au titre des alinéas 63(1)a), b) ou c), l’arbitre est investi des pouvoirs de la Commission prévus à l’alinéa 15d) de la présente loi et aux alinéas 20a) et d) à f) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) pour l’audition ou le règlement de tout grief qui lui est soumis.
-> 1992, ch. 1, art. 111; 2013, ch. 40, art. 433; 2017, ch. 9, art. 56
+**66.1** Dans le cas d’un grief qui peut être renvoyé à l’arbitrage au titre de l’un des alinéas 63(1)a) à c) et g), l’arbitre est investi des pouvoirs de la Commission prévus à l’alinéa 15d) de la présente loi et aux alinéas 20a) et d) à f) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) pour l’audition ou le règlement de tout grief qui lui est soumis.
+> 1992, ch. 1, art. 111; 2013, ch. 40, art. 433; 2017, ch. 9, art. 562019, ch. 10, art. 158
 
 
 
@@ -1227,6 +1258,17 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Décision définitive et obligatoire**
 
 - **(3)** Sauf dans le cas d’un grief qui peut être renvoyé à l’arbitrage au titre de l’article 63, la décision rendue au dernier palier de la procédure applicable en la matière est finale et obligatoire, et aucune autre mesure ne peut être prise sous le régime de la présente partie à l’égard du grief ainsi tranché.
+
+
+
+
+**[Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md)**
+
+**67.1** L’arbitre peut, relativement au grief portant sur le point visé à l’alinéa 63(1)g) :
+- **a)** interpréter et appliquer la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md);
+- **b)** rendre les ordonnances prévues à l’article 102 de cette loi.
+> 2019, ch. 10, art. 159
+
 
 
 
@@ -1343,6 +1385,7 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 - **(3)** La Commission peut prendre des règlements régissant l’arbitrage des griefs, notamment en ce qui concerne :
 	- **a)** le mode et le délai de renvoi d’un grief à l’arbitrage après sa présentation jusqu’au dernier palier inclusivement;
+	- **a.1)** la manière de donner au commissaire à l’accessibilité l’avis visé à l’article 63.1;
 	- **b)** le mode et le délai d’institution des conseils d’arbitrage;
 	- **c)** la procédure à suivre par les arbitres;
 	- **d)** la forme des décisions rendues par les arbitres.
@@ -1350,6 +1393,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Désignation par l’employeur de personnes à tous les paliers**
 
 - **(4)** Pour l’application des dispositions de la présente partie concernant les griefs, l’employeur désigne les personnes dont la décision en cette matière constitue un palier de la procédure applicable, y compris le dernier. En cas de doute, il communique par écrit les noms de ces personnes à quiconque voulant déposer un grief, ou à la Commission.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 712019, ch. 10, art. 160
+
 
 
 
