@@ -47,7 +47,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Short title**
 
 **1** This Act may be cited as the Federal Public Sector Labour Relations Act.
-> 2003, c. 22, s. 2 “1”; 2017, c. 9, s. 2.
+> 2003, c. 22, s. 2 “1”; 2017, c. 9, s. 2
 
 
 
@@ -156,7 +156,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Reference to employee organization**
 
 - **(6)** Unless the context otherwise requires, a reference to an employee organization includes a reference to a council of employee organizations, and a reference to an employee organization within the meaning of paragraph (a) or (b), as the case may be, of the definition employee organization in subsection 2(1) includes a reference to a council formed by two or more employee organizations within the meaning of that paragraph.
-> 2003, c. 22, ss. 2 “2”, 243; 2013, c. 40, s. 366; 2014, c. 20, ss. 472, 481; 2017, c. 9, ss. 3, 56.
+> 2003, c. 22, ss. 2 “2”, 243; 2013, c. 40, s. 366; 2014, c. 20, ss. 472, 481; 2017, c. 9, ss. 3, 56
 
 
 
@@ -204,7 +204,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** A position that is necessary for the employer to provide essential services for the purposes of paragraph (a) of the definition essential services agreement in subsection (1) includes a position the occupant of which is required, at any time,
 	- **(a)** to perform the duties of the position that relate to the provision of essential services; or
 	- **(b)** to be available during his or her off-duty hours to report to work without delay to perform those duties if required to do so by the employer.
-> 2003, c. 22, s. 2 “4”; 2013, c. 40, s. 294; 2017, c. 9, s. 4; 2018, c. 24, s. 1.
+> 2003, c. 22, s. 2 “4”; 2013, c. 40, s. 294; 2017, c. 9, s. 4; 2018, c. 24, s. 1
 
 
 
@@ -244,7 +244,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Right of Commissioner of Royal Canadian Mounted Police preserved**
 
 **7.1** Nothing in this Act is to be construed as affecting the right or authority of the Commissioner of the Royal Canadian Mounted Police under the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) to ensure that police operations are effective.
-> 2017, c. 9, s. 4.1.
+> 2017, c. 9, s. 4.1
 
 
 
@@ -287,7 +287,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Facilities and administrative support**
 
 - **(2)** The Chief Administrator of the Administrative Tribunals Support Service of Canada is to provide facilities and administrative support to the National Joint Council.
-> 2003, c. 22, s. 2 “11”; 2014, c. 20, s. 481.
+> 2003, c. 22, s. 2 “11”; 2014, c. 20, s. 481
 
 
 
@@ -301,7 +301,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Administration of Act**
 
 **12** The Board administers this Act and it may exercise the powers and perform the duties and functions that are conferred or imposed on it by this Act, or as are incidental to the attainment of the objects of this Act, including the making of orders requiring compliance with this Act, with regulations made under it or with decisions made in respect of a matter coming before the Board.
-> 2003, c. 22, s. 2 “12”; 2013, c. 40, s. 367.
+> 2003, c. 22, s. 2 “12”; 2013, c. 40, s. 367
 
 
 
@@ -310,7 +310,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Adjudication services**
 
 **13** The Board is to provide adjudication services that consist of the hearing of applications and complaints made under this Part and Division 1 of Part 2.1, the referral of grievances to adjudication in accordance with Part 2 and Division 2 of Part 2.1 and the hearing of matters brought before the Board under Part 3.
-> 2003, c. 22, s. 2 “13”; 2013, c. 40, ss. 295, 367; 2017, c. 9, s. 5.
+> 2003, c. 22, s. 2 “13”; 2013, c. 40, ss. 295, 367; 2017, c. 9, s. 5
 
 
 
@@ -323,7 +323,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(b)** assisting parties in the management of the relations resulting from the implementation of collective agreements;
 - **(c)** mediating in relation to grievances; and
 - **(d)** assisting the Chairperson in discharging his or her responsibilities under this Act.
-> 2003, c. 22, s. 2 “14”; 2013, c. 40, s. 367.
+> 2003, c. 22, s. 2 “14”; 2013, c. 40, s. 367
 
 
 
@@ -342,7 +342,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(d)** subject to any limitations that the Governor in Council may establish in the interests of defence or security, enter any premises of the employer where work is being or has been done by employees, inspect and view any work, material, machinery, appliance or article in the premises and require any person in the premises to answer all questions relating to the matter before it;
 - **(e)** subject to any limitations that the Governor in Council may establish in the interests of defence or security, enter any premises of the employer for the purpose of conducting representation votes during working hours; and
 - **(f)** authorize any person to do anything that the Board may do under paragraphs (a) to (e) and require the person to report to it on what the person has done.
-> 2003, c. 22, s. 2 “16”; 2013, c. 40, ss. 296, 367.
+> 2003, c. 22, s. 2 “16”; 2013, c. 40, ss. 296, 367
 
 
 
@@ -453,7 +453,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(ii)** evidence of objection by employees to certification of an employee organization, and
 	- **(iii)** evidence of signification by employees that they no longer wish to be represented by an employee organization; and
 - **(m)** any other matter that is incidental or conducive to the attainment of the objects of this Part or Division 1 of Part 2.1.
-> 2003, c. 22, s. 2 “39”; 2013, c. 40, ss. 297, 368; 2017, c. 9, s. 6; 2018, c. 24, s. 2.
+> 2003, c. 22, s. 2 “39”; 2013, c. 40, ss. 297, 368; 2017, c. 9, s. 6; 2018, c. 24, s. 2
 
 
 
@@ -543,7 +543,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Right to apply**
 
 **54** Subject to section 55, an employee organization within the meaning of paragraph (a) of the definition employee organization in subsection 2(1) that seeks to be certified as bargaining agent for a group of employees that it considers constitutes a unit that is appropriate for collective bargaining may apply to the Board, in accordance with the regulations, for certification as bargaining agent for the proposed bargaining unit. The Board must notify the employer of the application without delay.
-> 2003, c. 22, s. 2 “54”; 2017, c. 9, s. 7.
+> 2003, c. 22, s. 2 “54”; 2017, c. 9, s. 7
 
 
 
@@ -576,7 +576,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **56** After being notified of an application for certification made in accordance with this Part or Division 1 of Part 2.1, the employer is not authorized, except under a collective agreement or with the consent of the Board, to alter the terms and conditions of employment that are applicable to the employees in the proposed bargaining unit and that may be included in a collective agreement until
 - **(a)** the application has been withdrawn by the employee organization or dismissed by the Board; or
 - **(b)** 30 days have elapsed after the day on which the Board certifies the employee organization as the bargaining agent for the unit.
-> 2003, c. 22, s. 2 “56”; 2017, c. 9, s. 8.
+> 2003, c. 22, s. 2 “56”; 2017, c. 9, s. 8
 
 
 
@@ -635,7 +635,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Content of application**
 
 - **(2)** The application must set out every position that the employer considers to be a position referred to in any of paragraphs (1)(a) to (h).
-> 2003, c. 22, ss. 2 “59”, 275; 2017, c. 9, s. 9.
+> 2003, c. 22, ss. 2 “59”, 275; 2017, c. 9, s. 9
 
 
 
@@ -701,7 +701,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Membership in council of employee organizations**
 
 - **(3)** For the purpose of paragraph (1)(a), membership in any employee organization that forms part of a council of employee organizations is deemed to be membership in the council.
-> 2003, c. 22, s. 2 “64”; 2014, c. 40, s. 9; 2017, c. 9, ss. 10, 70, c. 12, s. 8.
+> 2003, c. 22, s. 2 “64”; 2014, c. 40, s. 9; 2017, c. 9, ss. 10, 70, c. 12, s. 8
 
 
 
@@ -718,7 +718,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** When the Board orders that a representation vote be taken, it must
 	- **(a)** determine the employees who are eligible to vote; and
 	- **(b)** make any arrangements and give any directions that it considers necessary for the proper conduct of the vote, including the preparation of ballots, the method of casting and counting ballots and the custody and sealing of ballot boxes.
-> 2003, c. 22, s. 2 “65”; 2014, c. 40, s. 10; 2017, c. 12, s. 9.
+> 2003, c. 22, s. 2 “65”; 2014, c. 40, s. 10; 2017, c. 12, s. 9
 
 
 
@@ -753,7 +753,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** the employee organization is substituted as a party to any collective agreement or arbitral award that affects any employees in the bargaining unit, to the extent that the agreement or award relates to those employees, in the place of the bargaining agent named in the collective agreement or its successor;
 - **(d)** the employee organization is deemed to be the bargaining agent for the purposes of section 107; and
 - **(e)** the employee organization is substituted as a party to any essential services agreement that is in force, in the place of the bargaining agent named in the agreement or its successor.
-> 2003, c. 22, s. 2 “67”; 2013, c. 40, s. 299; 2018, c. 24, s. 3.
+> 2003, c. 22, s. 2 “67”; 2013, c. 40, s. 299; 2018, c. 24, s. 3
 
 
 
@@ -794,7 +794,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Limitation**
 
 - **(3)** Despite subsection (1), the Board is not permitted to review the structure of the bargaining unit determined under section 238.14.
-> 2003, c. 22, s. 2 “70”; 2017, c. 9, s. 11.
+> 2003, c. 22, s. 2 “70”; 2017, c. 9, s. 11
 
 
 
@@ -915,7 +915,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Inquiry and votes**
 
 - **(3)** Before making a determination on the application, the Board may make any inquiry or direct that a representation vote be taken among the employees to be affected by the determination. The provisions of subsection 65(2) apply in relation to the taking of the vote.
-> 2003, c. 22, s. 2 “79”; 2013, c. 40, s. 300; 2017, c. 9, s. 12; 2018, c. 24, s. 4.
+> 2003, c. 22, s. 2 “79”; 2013, c. 40, s. 300; 2017, c. 9, s. 12; 2018, c. 24, s. 4
 
 
 
@@ -1075,7 +1075,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **When application may be made**
 
 - **(2)** The application may be made only during the period in which an application for certification of an employee organization may be made under section 55 in respect of employees in the bargaining unit.
-> 2003, c. 22, s. 2 “94”; 2014, c. 40, s. 11; 2017, c. 12, s. 10.
+> 2003, c. 22, s. 2 “94”; 2014, c. 40, s. 11; 2017, c. 12, s. 10
 
 
 
@@ -1084,7 +1084,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Taking of representation vote**
 
 **95** After the application is made, the Board may order that a representation vote be taken to determine whether a majority of the employees in the bargaining unit no longer wish to be represented by the employee organization that is the bargaining agent for that bargaining unit. The provisions of subsection 65(2) apply in relation to the taking of the vote.
-> 2003, c. 22, s. 2 “95”; 2014, c. 40, s. 12; 2017, c. 12, s. 11.
+> 2003, c. 22, s. 2 “95”; 2014, c. 40, s. 12; 2017, c. 12, s. 11
 
 
 
@@ -1093,7 +1093,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Revocation of certification**
 
 **96** If, after hearing the application, the Board is satisfied that a majority of the employees in the bargaining unit no longer wish to be represented by the employee organization, it must revoke the certification of the employee organization as the bargaining agent.
-> 2003, c. 22, s. 2 “96”; 2014, c. 40, s. 12; 2017, c. 12, s. 11.
+> 2003, c. 22, s. 2 “96”; 2014, c. 40, s. 12; 2017, c. 12, s. 11
 
 
 
@@ -1131,7 +1131,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Additional circumstances**
 
 - **(2)** The circumstances set out in subsection (1) apply in addition to the circumstances in which a certification may be revoked under sections 94 to 99 and section 238.17.
-> 2003, c. 22, s. 2 “100”; 2017, c. 9, s. 13.
+> 2003, c. 22, s. 2 “100”; 2017, c. 9, s. 13
 
 
 
@@ -1149,7 +1149,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Determination of rights of bargaining agent**
 
 - **(2)** If the certification of an employee organization is revoked by the Board under section 96, any of sections 98 to 100 or section 238.17, the Board must, on application by the employee organization or any employee organization that is substituted in the place of a bargaining agent under paragraph 67(c), determine any question as to any right or duty of the employee organization or of the substituted employee organization.
-> 2003, c. 22, s. 2 “101”; 2013, c. 40, s. 301; 2017, c. 9, s. 14; 2018, c. 24, s. 5.
+> 2003, c. 22, s. 2 “101”; 2013, c. 40, s. 301; 2017, c. 9, s. 14; 2018, c. 24, s. 5
 
 
 
@@ -1180,7 +1180,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Period during which process to apply**
 
 - **(3)** The process recorded by the Board applies to the bargaining unit for the resolution of all disputes from the day on which a notice to bargain collectively in respect of the bargaining unit is given after the process is chosen, and it applies until the process is changed in accordance with section 104.
-> 2003, c. 22, s. 2 “103”; 2013, c. 40, s. 302; 2018, c. 24, s. 6.
+> 2003, c. 22, s. 2 “103”; 2013, c. 40, s. 302; 2018, c. 24, s. 6
 
 
 
@@ -1199,7 +1199,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Effective date and duration**
 
 - **(3)** A change in the process for the resolution of a dispute becomes effective on the day that a notice to bargain collectively is given after the change is recorded and remains in force until the process is changed in accordance with this section.
-> 2003, c. 22, s. 2 “104”; 2013, c. 40, s. 302; 2018, c. 24, s. 6.
+> 2003, c. 22, s. 2 “104”; 2013, c. 40, s. 302; 2018, c. 24, s. 6
 
 
 
@@ -1235,7 +1235,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Copy of notice to Board**
 
 - **(3)** A party that has given a notice to bargain collectively to another party must send a copy of the notice to the Board.
-> 2003, c. 22, s. 2 “105”; 2013, c. 40, s. 303; 2018, c. 24, s. 7.
+> 2003, c. 22, s. 2 “105”; 2013, c. 40, s. 303; 2018, c. 24, s. 7
 
 
 
@@ -1259,7 +1259,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **107** Unless the parties otherwise agree, and subject to section 132, after the notice to bargain collectively is given, each term and condition of employment applicable to the employees in the bargaining unit to which the notice relates that may be included in a collective agreement, and that is in force on the day the notice is given, is continued in force and must be observed by the employer, the bargaining agent for the bargaining unit and the employees in the bargaining unit until a collective agreement is entered into in respect of that term or condition or
 - **(a)** if the process for the resolution of a dispute is arbitration, an arbitral award is rendered; or
 - **(b)** if the process for the resolution of a dispute is conciliation, a strike could be declared or authorized without contravening subsection 194(1).
-> 2003, c. 22, s. 2 “107”; 2013, c. 40, s. 304; 2018, c. 24, s. 8.
+> 2003, c. 22, s. 2 “107”; 2013, c. 40, s. 304; 2018, c. 24, s. 8
 
 
 
@@ -1353,7 +1353,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **113** A collective agreement that applies to a bargaining unit — other than a bargaining unit determined under section 238.14 — must not, directly or indirectly, alter or eliminate any existing term or condition of employment or establish any new term or condition of employment if
 - **(a)** doing so would require the enactment or amendment of any legislation by Parliament, except for the purpose of appropriating money required for the implementation of the term or condition; or
 - **(b)** the term or condition is one that has been or may be established under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) or the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md).
-> 2003, c. 22, s. 2 “113”; 2017, c. 9, s. 15.
+> 2003, c. 22, s. 2 “113”; 2017, c. 9, s. 15
 
 
 
@@ -1366,7 +1366,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Agreement is binding**
 
 **114** Subject to and for the purposes of this Part and Division 1 of Part 2.1, a collective agreement is binding on the employer, the bargaining agent and every employee in the bargaining unit on and after the day on which it has effect. To the extent that the collective agreement deals with matters referred to in section 12 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the collective agreement is also binding, on and after that day, on every deputy head responsible for any portion of the federal public administration that employs employees in the bargaining unit.
-> 2003, c. 22, s. 2 “114”; 2017, c. 9, s. 16.
+> 2003, c. 22, s. 2 “114”; 2017, c. 9, s. 16
 
 
 
@@ -1416,7 +1416,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of Division**
 
 **119** This Division applies to the employer and the bargaining agent for a bargaining unit when the process for the resolution of a dispute applicable to the bargaining unit is conciliation.
-> 2003, c. 22, s. 2 “119”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “119”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1425,7 +1425,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Employer determines levels of service**
 
 **120** The employer has the exclusive right to determine the level at which an essential service is to be provided to the public, or a segment of the public, at any time, including the extent to which and the frequency with which the service is to be provided. Nothing in this Division is to be construed as limiting that right.
-> 2003, c. 22, s. 2 “120”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “120”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1442,7 +1442,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** For the purposes of subsection (1), the number of employees in the bargaining unit that are necessary to provide the essential service is to be determined
 	- **(a)** without regard to the availability of other persons to provide the essential service during a strike; and
 	- **(b)** on the basis that the employer is not required to change, in order to provide the essential service during a strike, the manner in which the employer operates normally, including the normal hours of work, the extent of the employer’s use of overtime and the equipment used in the employer’s operations.
-> 2003, c. 22, s. 2 “121”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “121”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1457,7 +1457,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Timing**
 
 - **(2)** The notice may be given at any time but not later than 20 days after the day a notice to bargain collectively is given.
-> 2003, c. 22, s. 2 “122”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “122”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1498,7 +1498,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application relating to specific position**
 
 - **(7)** If the application relates to a specific position to be identified in the essential services agreement, the employer’s proposal in respect of the position is to prevail, unless the position is determined by the Board not to be of the type necessary for the employer to provide essential services.
-> 2003, c. 22, s. 2 “123”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “123”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1507,7 +1507,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Coming into force of agreement**
 
 **124** The essential services agreement comes into force on the day it is signed by the parties or, in the case of an essential services agreement that the employer and the bargaining agent are deemed to have entered into by an order made under paragraph 123(3)(b), the day the order was made.
-> 2003, c. 22, s. 2 “124”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “124”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1516,7 +1516,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Duration**
 
 **125** An essential services agreement continues in force until the parties jointly determine that there are no employees in the bargaining unit who occupy positions that are necessary for the employer to provide essential services.
-> 2003, c. 22, s. 2 “125”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “125”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1531,7 +1531,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Timing**
 
 - **(2)** If a collective agreement or arbitral award is in force, the notice may be given at any time except that, if a notice to bargain collectively has been given with a view to renewing or revising the collective agreement, the notice may only be given during the 60 days following the day the notice to bargain collectively was given.
-> 2003, c. 22, s. 2 “126”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “126”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1570,7 +1570,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application relating to specific position**
 
 - **(7)** If the application relates to a specific position to be identified in the essential services agreement, the employer’s proposal in respect of the position is to prevail, unless the position is determined by the Board not to be of the type necessary for the employer to provide essential services.
-> 2003, c. 22, s. 2 “127”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “127”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1579,7 +1579,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Coming into force of amendment**
 
 **128** An amendment to an essential services agreement comes into force on the day the agreement containing the amendment is signed by the parties or, in the case of an amendment made by order of the Board under subsection 127(3), the day the order was made.
-> 2003, c. 22, s. 2 “128”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “128”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1594,7 +1594,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Effect of notice**
 
 - **(2)** On the filing of the notice, the replacement position is deemed to be a position identified in the essential services agreement and the position it replaced is deemed to be no longer identified.
-> 2003, c. 22, s. 2 “129”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “129”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1609,7 +1609,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Notification of change**
 
 - **(2)** A notice given under this section remains valid so long as the employee continues to occupy the position unless the employer notifies the employee that the position occupied by the employee is no longer necessary for the employer to provide essential services.
-> 2003, c. 22, s. 2 “130”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “130”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1618,7 +1618,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Emergency application**
 
 **131** Despite any provision in this Division, if either the employer or the bargaining agent is of the opinion that a temporary amendment to an essential services agreement, or its suspension, is necessary because of an emergency but the parties are unable to agree to do so, either of them may, at any time, apply to the Board for an order temporarily amending, or suspending, the agreement.
-> 2003, c. 22, s. 2 “131”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “131”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1627,7 +1627,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Duty to observe terms and conditions**
 
 **132** Unless the parties otherwise agree, every term and condition of employment applicable to employees in a bargaining unit in respect of which a notice to bargain collectively is given that may be included in a collective agreement and that is in force on the day the notice is given remains in force in respect of any employee who occupies a position that is identified in an essential services agreement and must be observed by the employer, the bargaining agent for the bargaining unit and the employee until a collective agreement is entered into.
-> 2003, c. 22, s. 2 “132”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “132”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1636,7 +1636,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Extension of time**
 
 **133** The Board may, on the application of either party, extend any period referred to in this Division.
-> 2003, c. 22, s. 2 “133”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “133”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1645,7 +1645,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Filing of essential services agreement**
 
 **134** Either party to an essential services agreement may file a copy of it with the Board. When filed, it has the same effect as an order of the Board.
-> 2003, c. 22, s. 2 “134”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+> 2003, c. 22, s. 2 “134”; 2013, c. 40, s. 305; 2018, c. 24, s. 9
 
 
 
@@ -1665,7 +1665,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **135** This Division applies to the employer and the bargaining agent for a bargaining unit whenever
 - **(a)** the process for the resolution of a dispute applicable to the bargaining unit is arbitration; and
 - **(b)** the parties have bargained in good faith with a view to entering into a collective agreement but are unable to reach agreement on a term or condition of employment that may be included in an arbitral award.
-> 2003, c. 22, s. 2 “135”; 2013, c. 40, s. 306(F).
+> 2003, c. 22, s. 2 “135”; 2013, c. 40, s. 306(F)
 
 
 
@@ -1806,7 +1806,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Subsequent agreement**
 
 - **(2)** If, before an arbitral award is made, the parties reach agreement on any matter in dispute that is referred to arbitration and enter into a collective agreement in respect of that matter, that matter is deemed not to have been referred to the arbitration board and no arbitral award may be made in respect of it.
-> 2003, c. 22, s. 2 “144”; 2017, c. 9, s. 17.
+> 2003, c. 22, s. 2 “144”; 2017, c. 9, s. 17
 
 
 
@@ -1845,7 +1845,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Delegation**
 
 - **(2)** The arbitration board may authorize any person to exercise any of its powers set out in paragraphs 16(c) and (d) of this Act and paragraphs 20(d) and (e) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md), and require that person to report to it on the exercise of those powers.
-> 2003, c. 22, s. 2 “147”; 2013, c. 40, s. 371; 2017, c. 9, s. 56.
+> 2003, c. 22, s. 2 “147”; 2013, c. 40, s. 371; 2017, c. 9, s. 56
 
 
 
@@ -1863,7 +1863,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** the need to maintain appropriate relationships with respect to compensation and other terms and conditions of employment as between different classification levels within an occupation and as between occupations in the public service;
 - **(d)** the need to establish compensation and other terms and conditions of employment that are fair and reasonable in relation to the qualifications required, the work performed, the responsibility assumed and the nature of the services rendered; and
 - **(e)** the state of the Canadian economy and the Government of Canada’s fiscal circumstances.
-> 2003, c. 22, s. 2 “148”; 2013, c. 40, s. 307; 2018, c. 24, s. 10.
+> 2003, c. 22, s. 2 “148”; 2013, c. 40, s. 307; 2018, c. 24, s. 10
 
 
 
@@ -1880,7 +1880,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Award to be signed**
 
 - **(2)** The arbitral award must be signed by the chairperson of the arbitration board, or by the single member, as the case may be, and a copy must be sent to the Chairperson.
-> 2003, c. 22, s. 2 “149”; 2013, c. 40, s. 309; 2018, c. 24, s. 11.
+> 2003, c. 22, s. 2 “149”; 2013, c. 40, s. 309; 2018, c. 24, s. 11
 
 
 
@@ -1900,7 +1900,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Matters not negotiated**
 
 - **(2)** The arbitral award may not deal with a term or condition of employment that was not the subject of negotiation between the parties during the period before arbitration was requested.
-> 2003, c. 22, s. 2 “150”; 2017, c. 9, s. 18.
+> 2003, c. 22, s. 2 “150”; 2017, c. 9, s. 18
 
 
 
@@ -1942,7 +1942,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Binding effect**
 
 **154** Subject to and for the purposes of this Part and Division 1 of Part 2.1, as of the day on which it is made, the arbitral award binds the employer and the bargaining agent that are parties to it and the employees in the bargaining unit in respect of which the bargaining agent has been certified. To the extent that it deals with matters referred to in section 12 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the arbitral award is also binding, on and after that day, on every deputy head responsible for any portion of the federal public administration that employs employees in the bargaining unit.
-> 2003, c. 22, s. 2 “154”; 2017, c. 9, s. 19.
+> 2003, c. 22, s. 2 “154”; 2017, c. 9, s. 19
 
 
 
@@ -2037,7 +2037,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **160** This Division applies to the employer and the bargaining agent for a bargaining unit whenever
 - **(a)** the process for the resolution of a dispute applicable to the bargaining unit is conciliation; and
 - **(b)** the parties have bargained in good faith with a view to entering into a collective agreement, but are unable to reach agreement on a term or condition of employment that may be included in a collective agreement.
-> 2003, c. 22, s. 2 “160”; 2013, c. 40, s. 311(F).
+> 2003, c. 22, s. 2 “160”; 2013, c. 40, s. 311(F)
 
 
 
@@ -2117,7 +2117,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Request for commission of three members**
 
 - **(2)** The public interest commission is to consist of three members only if one of the parties requests it.
-> 2003, c. 22, s. 2 “164”; 2013, c. 40, s. 312; 2018, c. 24, s. 13.
+> 2003, c. 22, s. 2 “164”; 2013, c. 40, s. 312; 2018, c. 24, s. 13
 
 
 
@@ -2134,7 +2134,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** The list must set out
 	- **(a)** the names of all eligible persons jointly recommended by the parties; and
 	- **(b)** if the Chairperson is of the opinion that the parties have not jointly recommended a sufficient number of persons, the names of any other eligible persons whom the Chairperson considers suitable.
-> 2003, c. 22, s. 2 “165”; 2013, c. 40, s. 313; 2018, c. 24, s. 14.
+> 2003, c. 22, s. 2 “165”; 2013, c. 40, s. 313; 2018, c. 24, s. 14
 
 
 
@@ -2149,7 +2149,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Appointment**
 
 - **(2)** After receiving the list, the Minister must, without delay, appoint a person named in the list.
-> 2003, c. 22, s. 2 “166”; 2013, c. 40, s. 313; 2018, c. 24, s. 14.
+> 2003, c. 22, s. 2 “166”; 2013, c. 40, s. 313; 2018, c. 24, s. 14
 
 
 
@@ -2176,7 +2176,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Appointment**
 
 - **(5)** After receiving the list, the Minister must, without delay, appoint a person named in the list as the chairperson and third member of the public interest commission.
-> 2003, c. 22, s. 2 “167”; 2013, c. 40, s. 314; 2018, c. 24, s. 15.
+> 2003, c. 22, s. 2 “167”; 2013, c. 40, s. 314; 2018, c. 24, s. 15
 
 
 
@@ -2211,7 +2211,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Vacancy — commission with three members**
 
 - **(2)** If a vacancy occurs in the membership of a public interest commission that consists of three members before the commission makes a report to the Chairperson, the vacancy must be filled by the Minister, on the recommendation of the Chairperson, by appointment in the manner provided for in section 167 for the selection of the person in respect of whom the vacancy arose.
-> 2003, c. 22, s. 2 “170”; 2013, c. 40, s. 315; 2018, c. 24, s. 16.
+> 2003, c. 22, s. 2 “170”; 2013, c. 40, s. 315; 2018, c. 24, s. 16
 
 
 
@@ -2257,7 +2257,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Delegation**
 
 - **(2)** The public interest commission may authorize any person to exercise any of its powers set out in paragraphs 16(c) and (d) of this Act and paragraphs 20(d) and (e) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md), and require that person to report to it on the exercise of those powers.
-> 2003, c. 22, s. 2 “174”; 2013, c. 40, s. 372; 2017, c. 9, s. 56.
+> 2003, c. 22, s. 2 “174”; 2013, c. 40, s. 372; 2017, c. 9, s. 56
 
 
 
@@ -2271,7 +2271,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** the need to maintain appropriate relationships with respect to compensation and other terms and conditions of employment as between different classification levels within an occupation and as between occupations in the public service;
 - **(d)** the need to establish compensation and other terms and conditions of employment that are fair and reasonable in relation to the qualifications required, the work performed, the responsibility assumed and the nature of the services rendered; and
 - **(e)** the state of the Canadian economy and the Government of Canada’s fiscal circumstances.
-> 2003, c. 22, s. 2 “175”; 2013, c. 40, s. 316; 2018, c. 24, s. 17.
+> 2003, c. 22, s. 2 “175”; 2013, c. 40, s. 316; 2018, c. 24, s. 17
 
 
 
@@ -2292,7 +2292,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Report to be signed**
 
 - **(2)** The report must be signed by the chairperson of the public interest commission, or by the single member, as the case may be.
-> 2003, c. 22, s. 2 “176”; 2013, c. 40, s. 317; 2018, c. 24, s. 18.
+> 2003, c. 22, s. 2 “176”; 2013, c. 40, s. 317; 2018, c. 24, s. 18
 
 
 
@@ -2331,7 +2331,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Reconsideration of matters contained in report**
 
 **179** The Chairperson may direct the public interest commission to reconsider and clarify or amplify its report or any part of the report.
-> 2003, c. 22, s. 2 “179”; 2013, c. 40, s. 318; 2018, c. 24, s. 19.
+> 2003, c. 22, s. 2 “179”; 2013, c. 40, s. 318; 2018, c. 24, s. 19
 
 
 
@@ -2382,7 +2382,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Eligibility**
 
 - **(6)** A person is not eligible to be appointed as a person who makes a final and binding determination under this section if the person has, at any time during the six months before their date of appointment, acted in respect of any matter concerning employer-employee relations as solicitor, counsel or agent of the employer or of any employee organization that has an interest in the term or condition referred for final and binding determination.
-> 2003, c. 22, s. 2 “182”; 2013, c. 40, s. 319; 2018, c. 24, s. 20.
+> 2003, c. 22, s. 2 “182”; 2013, c. 40, s. 319; 2018, c. 24, s. 20
 
 
 
@@ -2496,7 +2496,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(6)** The employer or a person does not commit an unfair labour practice under any of paragraphs (1)(a) or (b) or (2)(a) to (c) by reason only of any act or thing done or omitted in relation to a person who occupies, or is proposed to occupy, a managerial or confidential position or to a person who is an officer as defined in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) or who occupies a position held by such an officer.
-> 2003, c. 22, s. 2 “186”; 2017, c. 9, s. 21.
+> 2003, c. 22, s. 2 “186”; 2017, c. 9, s. 21
 
 
 
@@ -2520,7 +2520,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(i)** testified or otherwise participated or may testify or otherwise participate in a proceeding under this Part or Part 2 or 2.1,
 	- **(ii)** made an application or filed a complaint under this Part or Division 1 of Part 2.1 or presented a grievance under Part 2 or Division 2 of Part 2.1, or
 	- **(iii)** exercised any right under this Part or Part 2 or 2.1.
-> 2003, c. 22, s. 2 “188”; 2017, c. 9, s. 22.
+> 2003, c. 22, s. 2 “188”; 2017, c. 9, s. 22
 
 
 
@@ -2537,7 +2537,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(2)** A person does not commit an unfair labour practice referred to in subsection (1) by reason of any act or thing done or omitted in relation to a person who occupies, or who is proposed to occupy, a managerial or confidential position or to a person who is an officer as defined in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) or who occupies a position held by such an officer.
-> 2003, c. 22, s. 2 “189”; 2017, c. 9, s. 23.
+> 2003, c. 22, s. 2 “189”; 2017, c. 9, s. 23
 
 
 
@@ -2579,7 +2579,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(4)** The Board may, on application to it by a complainant, determine a complaint in respect of an alleged failure by an employee organization to comply with paragraph 188(b) or (c) that has not been presented as a grievance or appeal to the employee organization, if the Board is satisfied that
 	- **(a)** the action or circumstance giving rise to the complaint is such that the complaint should be dealt with without delay; or
 	- **(b)** the employee organization has not given the complainant ready access to a grievance or appeal procedure.
-> 2003, c. 22, s. 2 “190”; 2013, c. 40, s. 320; 2018, c. 24, s. 21.
+> 2003, c. 22, s. 2 “190”; 2013, c. 40, s. 320; 2018, c. 24, s. 21
 
 
 
@@ -2598,7 +2598,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Burden of proof**
 
 - **(3)** If a complaint is made in writing under subsection 190(1) in respect of an alleged failure by the employer or any person acting on behalf of the employer to comply with subsection 186(2), the written complaint is itself evidence that the failure actually occurred and, if any party to the complaint proceedings alleges that the failure did not occur, the burden of proving that it did not is on that party.
-> 2003, c. 22, s. 2 “191”; 2017, c. 9, s. 24.
+> 2003, c. 22, s. 2 “191”; 2017, c. 9, s. 24
 
 
 
@@ -2626,7 +2626,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Person acting on behalf of employee organization**
 
 - **(3)** If the order is directed to a person who has acted or purported to act on behalf of an employee organization, the order must also be directed to the chief officer of that employee organization.
-> 2003, c. 22, s. 2 “192”; 2013, c. 40, s. 321; 2017, c. 9, s. 25(E); 2018, c. 24, s. 22.
+> 2003, c. 22, s. 2 “192”; 2013, c. 40, s. 321; 2017, c. 9, s. 25(E); 2018, c. 24, s. 22
 
 
 
@@ -2687,7 +2687,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Essential services**
 
 - **(2)** No employee organization shall declare or authorize a strike the effect of which is or would be to involve the participation of any employee who occupies a position that is necessary under an essential services agreement for the employer to provide essential services, and no officer or representative of an employee organization shall counsel or procure the participation of those employees in a strike.
-> 2003, c. 22, s. 2 “194”; 2013, c. 40, s. 322; 2018, c. 24, s. 23.
+> 2003, c. 22, s. 2 “194”; 2013, c. 40, s. 322; 2018, c. 24, s. 23
 
 
 
@@ -2730,7 +2730,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(s)** is included in a bargaining unit whose bargaining agent has conducted a secret ballot vote in accordance with section 184 and
 	- **(i)** the bargaining agent has not received the approval of a majority of the employees who voted, or
 	- **(ii)** if the bargaining agent has received the approval of a majority of the employees who voted and the bargaining agent has declared or authorized the strike after 60 clear days have elapsed, or after any longer period that may be agreed to in writing by the bargaining agent and the employer has elapsed, since the day the vote was held.
-> 2003, c. 22, s. 2 “196”; 2013, c. 40, s. 323; 2018, c. 24, s. 24.
+> 2003, c. 22, s. 2 “196”; 2013, c. 40, s. 323; 2018, c. 24, s. 24
 
 
 
@@ -2798,7 +2798,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Obstruction**
 
 **199** No person shall impede or prevent or attempt to impede or prevent an employee from entering or leaving the employee’s place of work if the employee occupies a position that is necessary under an essential services agreement for the employer to provide essential services.
-> 2003, c. 22, s. 2 “199”; 2013, c. 40, s. 324; 2018, c. 24, s. 25.
+> 2003, c. 22, s. 2 “199”; 2013, c. 40, s. 324; 2018, c. 24, s. 25
 
 
 
@@ -2811,7 +2811,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Counselling in respect of peace officer duties**
 
 **199.1** No employee organization and no officer or representative of an employee organization shall counsel any RCMP member or reservist not to carry out their duties as a peace officer.
-> 2017, c. 9, s. 26.
+> 2017, c. 9, s. 26
 
 
 
@@ -2852,7 +2852,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Prosecution of employee organization**
 
 - **(4)** A prosecution for an offence under any of subsections (1) to (3) may be brought against an employee organization and in the name of that organization and, for the purposes of the prosecution, the employee organization is deemed to be a person.
-> 2003, c. 22, s. 2 “202”; 2017, c. 9, s. 27.
+> 2003, c. 22, s. 2 “202”; 2017, c. 9, s. 27
 
 
 
@@ -2861,7 +2861,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Officers and representatives of employee organizations**
 
 **203** Every officer or representative of an employee organization who contravenes subsection 194(1) or section 199.1 is guilty of an offence and liable on summary conviction to a fine of not more than $10,000.
-> 2003, c. 22, s. 2 “203”; 2017, c. 9, s. 28.
+> 2003, c. 22, s. 2 “203”; 2017, c. 9, s. 28
 
 
 
@@ -2917,7 +2917,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** Every reference in this Part to an ***employee*** includes a former employee for the purposes of any provisions of this Part respecting grievances with respect to
 	- **(a)** any disciplinary action resulting in suspension, or any termination of employment, under paragraph 12(1)(c), (d) or (e) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
 	- **(b)** in the case of a separate agency, any disciplinary action resulting in suspension, or any termination of employment, under paragraph 12(2)(c) or (d) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or under any provision of any Act of Parliament, or any regulation, order or other instrument made under the authority of an Act of Parliament, respecting the powers or functions of the separate agency.
-> 2003, c. 22, s. 2 “206”; 2014, c. 20, s. 481; 2017, c. 9, s. 29.
+> 2003, c. 22, s. 2 “206”; 2014, c. 20, s. 481; 2017, c. 9, s. 29
 
 
 
@@ -3002,7 +3002,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Designation**
 
 - **(3)** The Governor in Council may, by order, designate any separate agency for the purposes of paragraph (1)(d).
-> 2003, c. 22, s. 2 “209”; 2017, c. 9, s. 30.
+> 2003, c. 22, s. 2 “209”; 2017, c. 9, s. 30
+
+
+
+
+
+**Reference to adjudication**
+
+**209.1** In addition to his or her rights under section 209, an employee, other than an employee who occupies a managerial or confidential position or who is not otherwise represented by a bargaining agent, may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee’s satisfaction if the employee has suffered physical or psychological harm, property damage or economic loss as the result of — or has otherwise been adversely affected by — the contravention of a provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), and the grievance is related to that contravention.
+> 2019, c. 10, s. 184
 
 
 
@@ -3021,11 +3030,28 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Notice to Accessibility Commissioner**
+
+**210.1** 
+
+- **(1)** When an individual grievance has been referred to adjudication and a party to the grievance raises an issue involving the contravention of a provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), that party must, in accordance with the regulations, give notice of the issue to the Accessibility Commissioner, as defined in section 2 of that Act.
+
+**Standing of Accessibility Commissioner**
+
+- **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
+> 2019, c. 10, s. 185
+
+
+
+
+
 **Exception**
 
-**211** Nothing in section 209 is to be construed or applied as permitting the referral to adjudication of an individual grievance with respect to
+**211** Nothing in section 209 or 209.1 is to be construed or applied as permitting the referral to adjudication of an individual grievance with respect to
 - **(a)** any termination of employment under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md); or
 - **(b)** any deployment under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), other than the deployment of the employee who presented the grievance.
+> 2003, c. 22, s. 2 “211”2019, c. 10, s. 186
+
 
 
 
@@ -3054,8 +3080,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Decision final and binding**
 
-**214** If an individual grievance has been presented up to and including the final level in the grievance process and it is not one that under section 209 or 238.25 may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Act and no further action under this Act may be taken on it.
-> 2003, c. 22, s. 2 “214”; 2017, c. 9, s. 31.
+**214** If an individual grievance has been presented up to and including the final level in the grievance process and it is not one that under section 209, 209.1 or 238.25 may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Act and no further action under this Act may be taken on it.
+> 2003, c. 22, s. 2 “214”; 2017, c. 9, s. 312019, c. 10, s. 187
 
 
 
@@ -3131,6 +3157,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 #### Withdrawal from Group Grievance
+
+
+
+**Notice to Accessibility Commissioner**
+
+**217.1** 
+
+- **(1)** When a group grievance has been referred to adjudication and a party to the grievance raises an issue involving the contravention of a provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), that party must, in accordance with the regulations, give notice of the issue to the Accessibility Commissioner, as defined in section 2 of that Act.
+
+**Standing of Accessibility Commissioner**
+
+- **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
+> 2019, c. 10, s. 188
+
+
 
 
 
@@ -3213,6 +3254,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Notice to Accessibility Commissioner**
+
+**222.1** 
+
+- **(1)** When a policy grievance has been referred to adjudication and a party to the grievance raises an issue involving the contravention of a provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), that party must, in accordance with the regulations, give notice of the issue to the Accessibility Commissioner, as defined in section 2 of that Act.
+
+**Standing of Accessibility Commissioner**
+
+- **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
+> 2019, c. 10, s. 189
+
+
+
+
+
 **Notice**
 
 **223** 
@@ -3233,7 +3289,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Conference**
 
 - **(3)** The Chairperson may, at any time after receipt of the notice, direct the parties to attend a conference in order to attempt to settle or simplify the issues in dispute.
-> 2003, c. 22, s. 2 “223”; 2013, c. 40, s. 374.
+> 2003, c. 22, s. 2 “223”; 2013, c. 40, s. 374
 
 
 
@@ -3263,7 +3319,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Compliance with procedures**
 
 **225** No grievance may be referred to adjudication until the grievance has been presented at all required levels in accordance with the applicable grievance process.
-> 2003, c. 22, s. 2 “225”; 2013, c. 40, s. 375.
+> 2003, c. 22, s. 2 “225”; 2013, c. 40, s. 375
 
 
 
@@ -3283,9 +3339,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** An adjudicator or the Board may, in relation to any matter referred to adjudication,
 	- **(a)** interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) and any other Act of Parliament relating to employment matters, other than the provisions of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) that are related to the right to equal pay for work of equal value, whether or not there is a conflict between the Act being interpreted and applied and the collective agreement, if any;
-	- **(b)** give relief in accordance with paragraph 53(2)(e) or subsection 53(3) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md); and
+	- **(a.1)** interpret and apply the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md);
+	- **(b)** give relief in accordance with paragraph 53(2)(e) or subsection 53(3) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md);
+	- **(b.1)** give relief in accordance with section 102 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md); and
 	- **(c)** award interest in the case of grievances involving termination, demotion, suspension or financial penalty at a rate and for a period that the adjudicator or the Board, as the case may be, considers appropriate.
-> 2003, c. 22, s. 2 “226”; 2013, c. 40, s. 376; 2017, c. 9, s. 56.
+> 2003, c. 22, s. 2 “226”; 2013, c. 40, s. 376; 2017, c. 9, s. 562019, c. 10, s. 190
 
 
 
@@ -3316,7 +3374,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Decision where majority cannot agree**
 
 - **(4)** If a majority of members of the board of adjudication cannot agree on the making of a decision, the decision of the chairperson of the board is deemed to be the decision of the board.
-> 2003, c. 22, s. 2 “228”; 2013, c. 40, s. 378.
+> 2003, c. 22, s. 2 “228”; 2013, c. 40, s. 378
 
 
 
@@ -3325,7 +3383,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Decision requiring amendment**
 
 **229** An adjudicator’s or the Board’s decision may not have the effect of requiring the amendment of a collective agreement or an arbitral award.
-> 2003, c. 22, s. 2 “229”; 2013, c. 40, s. 379.
+> 2003, c. 22, s. 2 “229”; 2013, c. 40, s. 379
 
 
 
@@ -3334,7 +3392,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Determination of reasonableness of opinion**
 
 **230** In the case of an employee in the core public administration or an employee of a separate agency designated under subsection 209(3), in making a decision in respect of an employee’s individual grievance relating to a termination of employment or demotion for unsatisfactory performance, an adjudicator or the Board, as the case may be, must determine the termination or demotion to have been for cause if the opinion of the deputy head that the employee’s performance was unsatisfactory is determined by the adjudicator or the Board to have been reasonable.
-> 2003, c. 22, s. 2 “230”; 2013, c. 40, s. 379.
+> 2003, c. 22, s. 2 “230”; 2013, c. 40, s. 379
 
 
 
@@ -3345,7 +3403,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **231** An adjudicator or the Board, when seized of a grievance referred to in subparagraph 209(1)(c)(ii), may determine any question relating to whether
 - **(a)** consent to being deployed was a condition of the employee’s employment; or
 - **(b)** the employee harassed another person in the course of the employee’s employment.
-> 2003, c. 22, s. 2 “231”; 2013, c. 40, s. 380.
+> 2003, c. 22, s. 2 “231”; 2013, c. 40, s. 380
 
 
 
@@ -3357,7 +3415,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** declaring the correct interpretation, application or administration of a collective agreement or an arbitral award;
 - **(b)** declaring that the collective agreement or arbitral award has been contravened; and
 - **(c)** requiring the employer or bargaining agent, as the case may be, to interpret, apply or administer the collective agreement or arbitral award in a specified manner.
-> 2003, c. 22, s. 2 “232”; 2013, c. 40, s. 381.
+> 2003, c. 22, s. 2 “232”; 2013, c. 40, s. 381
 
 
 
@@ -3366,7 +3424,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **No review by court**
 
 **233** Subsections 34(1) and (3) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md) apply, with any necessary modifications, to an adjudicator’s orders and decisions.
-> 2003, c. 22, s. 2 “233”; 2013, c. 40, s. 382; 2017, c. 9, s. 56.
+> 2003, c. 22, s. 2 “233”; 2013, c. 40, s. 382; 2017, c. 9, s. 56
 
 
 
@@ -3387,7 +3445,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Effect of filing**
 
 - **(3)** An order of an adjudicator or the Board becomes an order of the Federal Court when a certified copy of it is filed in that court, and it may subsequently be enforced as such.
-> 2003, c. 22, s. 2 “234”; 2013, c. 40, s. 382; 2017, c. 9, s. 56.
+> 2003, c. 22, s. 2 “234”; 2013, c. 40, s. 382; 2017, c. 9, s. 56
 
 
 
@@ -3410,7 +3468,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Recovery**
 
 - **(3)** Any amount that by subsection (2) is payable to the Board by a bargaining agent may be recovered as a debt due to Her Majesty in right of Canada. The bargaining agent is deemed to be a person for the purposes of this subsection.
-> 2003, c. 22, s. 2 “235”; 2013, c. 40, s. 383.
+> 2003, c. 22, s. 2 “235”; 2013, c. 40, s. 383
 
 
 
@@ -3452,6 +3510,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(d)** the time within which a grievance may be presented at any level in a grievance process;
 	- **(e)** the circumstances in which any level below the final level in a grievance process may be eliminated;
 	- **(f)** the manner in which and the time within which a grievance may be referred to adjudication after it has been presented up to and including the final level in the grievance process;
+	- **(f.1)** the manner of giving notice of an issue to the Accessibility Commissioner under this Part;
 	- **(g)** the establishment of rules of procedure for the hearing of a grievance;
 	- **(h)** the specification of the time within which and the persons to whom notices and other documents must be sent or given under this Part or Division 2 of Part 2.1, and when the notices are deemed to have been sent, given or received; and
 	- **(i)** the manner of giving notice of an issue to the Canadian Human Rights Commission under this Part.
@@ -3459,7 +3518,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of regulations**
 
 - **(2)** Regulations made under subsection (1) respecting individual, group or policy grievances do not apply in respect of employees included in a bargaining unit for which a bargaining agent has been certified by the Board to the extent that the regulations are inconsistent with any provisions contained in a collective agreement entered into by the bargaining agent and the employer applicable to those employees.
-> 2003, c. 22, s. 2 “237”; 2017, c. 9, s. 32.
+> 2003, c. 22, s. 2 “237”; 2017, c. 9, s. 322019, c. 10, s. 191
 
 
 
@@ -3492,7 +3551,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Definition of RCMP member**
 
 - **(2)** In Division 2 of this Part, ***RCMP member*** has the meaning assigned by the definition member in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3506,14 +3565,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Inconsistency — clarification**
 
-- **(2)** Without limiting the generality of subsection (1), section 58 and subsections 208(1) and 209(1) and (2) are inconsistent with this Part.
+- **(2)** Without limiting the generality of subsection (1), section 58, subsections 208(1) and 209(1) and (2) and section 209.1 are inconsistent with this Part.
 
 **Clarification**
 
 - **(3)** For greater certainty,
 	- **(a)** the provisions of Part 1, in so far as they are applicable, apply to employees who are RCMP members or reservists unless there is an indication to the contrary; and
 	- **(b)** the provisions of Part 2, in so far as they are applicable, apply to employees who are RCMP members, as defined in subsection 238.01(2), or reservists unless there is an indication to the contrary.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 332019, c. 10, s. 192
 
 
 
@@ -3522,7 +3581,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Employer’s right preserved**
 
 **238.03** Nothing in this Act is to be construed as affecting the right or authority of the Treasury Board to determine categories of members as defined in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3531,7 +3590,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Duties preserved**
 
 **238.04** Nothing in this Act is to be construed as affecting any duties of members as defined in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) who are peace officers, or any duties of reservists who are peace officers, including duties imposed under that Act.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3544,7 +3603,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Board’s additional duty**
 
 **238.05** In administering this Act and in exercising the powers and performing the duties and functions that are conferred or imposed on it by this Act, or as are incidental to the attainment of the objects of this Act, including the making of orders requiring compliance with this Act, with regulations made under it or with decisions made in respect of a matter coming before the Board, the Board must, in matters concerning RCMP members and reservists, take into account the unique role of the Royal Canadian Mounted Police as a police organization in protecting public safety and national security and its need to deploy its members and reservists as it sees fit.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3568,7 +3627,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Maximum period of adjournment**
 
 - **(2)** No adjournment may be for a period of more than 90 days. However, the RCMP Commissioner or the employer may request more than one adjournment in relation to a matter.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3607,7 +3666,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Former judge to have access**
 
 - **(7)** The former judge is to have access to the information about which an objection is made under subsection (1) for the purposes of the review.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3642,7 +3701,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Review**
 
 - **(7)** The RCMP Commissioner’s objection is not subject to review except to the extent and in the manner provided under this section.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3657,7 +3716,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **No summons**
 
 - **(2)** The former judge, or any person acting on their behalf or under their direction, is not, in respect of any matter coming to the knowledge of the former judge or that person as a result of exercising a power or performing a duty or function of the former judge, a competent or compellable witness in any proceeding other than a prosecution for an offence under this Act, the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md) or section 132 or 136 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3666,7 +3725,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Use of information**
 
 **238.1** Information about which an objection is made under subsection 238.07(1) that is disclosed by the RCMP Commissioner to the Board or to a party in connection with the matter or proceeding that gave rise to the objection may be used only in connection with that matter or proceeding.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3675,7 +3734,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Memorandum of understanding**
 
 **238.11** The Chairperson and the RCMP Commissioner may enter into a memorandum of understanding setting out principles and procedures respecting the disclosure of information referred to in subsection 238.07(1) and the protection of that information if it is disclosed.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3694,7 +3753,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Section prevails**
 
 - **(3)** This section applies despite subsection 13(1) of the [Auditor General Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-17.md) and subsection 79.3(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md).
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3722,7 +3781,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(3)** For greater certainty,
 	- **(a)** for the purposes of subsection (2), participation by an employee organization in the National Joint Council is not considered to be an affiliation with a bargaining agent or other association that does not have as its primary mandate the representation of police officers; and
 	- **(b)** no application is permitted to be made under section 54 in respect of employees who are RCMP members or reservists.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3731,7 +3790,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Determination of unit**
 
 **238.14** If an application for certification is made under subsection 238.13(1), the Board must determine that the group that consists exclusively of all the employees who are RCMP members and all the employees who are reservists constitutes the single, national bargaining unit that is appropriate for collective bargaining.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3740,7 +3799,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Limitation**
 
 **238.15** An employee organization that is certified as the bargaining agent for the bargaining unit determined under section 238.14 is not entitled to seek to be certified as bargaining agent for any other group of employees.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3749,7 +3808,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Limitation**
 
 **238.16** Despite section 58, the Board does not have jurisdiction to determine that an employee who is not an RCMP member or a reservist is included in the bargaining unit determined under section 238.14.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3770,7 +3829,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** For greater certainty,
 	- **(a)** for the purposes of subsection (1), participation by an employee organization in the National Joint Council is not considered to be an affiliation with a bargaining agent or other association that does not have as its primary mandate the representation of police officers; and
 	- **(b)** the circumstances set out in subsection (1) apply in addition to the circumstances in which a certification may be revoked under sections 94 to 100.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3783,7 +3842,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Arbitration**
 
 **238.18** Sections 103 and 104 do not apply to disputes between the employer and the bargaining agent for the bargaining unit determined under section 238.14. The process for the resolution of those disputes is arbitration.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3798,7 +3857,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **238.19** A collective agreement that applies to the bargaining unit determined under section 238.14 must not, directly or indirectly, alter or eliminate any existing term or condition of employment or establish any new term or condition of employment if
 - **(a)** doing so would require the enactment or amendment of any legislation by Parliament, except for the purpose of appropriating money required for the implementation of the term or condition; or
 - **(b)** the term or condition is one that has been or may be established under the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md), the [Royal Canadian Mounted Police Pension Continuation Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20R-10.md), the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) or the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md).
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3811,7 +3870,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Non-application of Divisions 8, 10 and 11 of Part 1**
 
 **238.2** Divisions 8, 10 and 11 of Part 1 do not apply in respect of the bargaining unit determined under section 238.14.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3824,7 +3883,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Arbitral award — additional factor**
 
 **238.21** In addition to the factors set out in section 148, the arbitration board may, if relevant to making a determination under that section in regards to a collective agreement that applies to the bargaining unit determined under section 238.14, take into account the impact of the determination on the operational effectiveness of the Royal Canadian Mounted Police.
-> 2017, c. 9, s. 33; 2018, c. 24, s. 26.
+> 2017, c. 9, s. 33; 2018, c. 24, s. 26
 
 
 
@@ -3844,7 +3903,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Clarification**
 
 - **(2)** For greater certainty, subsection 150(2) applies in respect of the arbitral award.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3859,7 +3918,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **238.23** The Governor in Council may make regulations
 - **(a)** prescribing the oath of secrecy referred to in subsection 238.07(5); and
 - **(b)** respecting the measures that are to be taken by the Board or a party to protect the information referred to in subsection 238.07(1) that the Board or the party has received from the RCMP Commissioner in connection with any matter or proceeding before the Board under this Division or Part 1 that concerns a person who is or was an RCMP member or a reservist, and respecting the disclosure of that information by the Board or the party to other persons or entities.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3877,7 +3936,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Limited right to grieve**
 
 **238.24** Subject to subsections 208(2) to (7), an employee who is an RCMP member is entitled to present an individual grievance only if they feel aggrieved by the interpretation or application, in respect of the employee, of a provision of a collective agreement or arbitral award.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3892,7 +3951,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Agreement required**
 
 - **(2)** Before referring an individual grievance to adjudication, the employee must obtain the approval of their bargaining agent to represent the employee in the adjudication proceedings.
-> 2017, c. 9, s. 33.
+
+**Grievance related to accessibility**
+
+- **(3)** If a grievance referred to in subsection (1) is related to the contravention of a provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), an employee who is an RCMP member may refer the grievance to adjudication only if the employee has suffered physical or psychological harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — the contravention.
+> 2017, c. 9, s. 332019, c. 10, s. 193
 
 
 
@@ -3911,7 +3974,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Maximum period of adjournment**
 
 - **(2)** No adjournment may be for a period of more than 90 days. However, the RCMP Commissioner or the employer may request more than one adjournment in relation to a matter.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3950,7 +4013,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Former judge to have access**
 
 - **(7)** The former judge is to have access to the information about which an objection is made under subsection (1) for the purposes of the review.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -3985,7 +4048,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Review**
 
 - **(7)** The RCMP Commissioner’s objection is not subject to review except to the extent and in the manner provided under this section.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -4000,7 +4063,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **No summons**
 
 - **(2)** The former judge, or any person acting on their behalf or under their direction, is not, in respect of any matter coming to the knowledge of the former judge or that person as a result of exercising a power or performing a duty or function of the former judge, a competent or compellable witness in any proceeding other than a prosecution for an offence under this Act, the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md) or section 132 or 136 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -4009,7 +4072,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Use of information**
 
 **238.3** Information about which an objection is made under subsection 238.27(1) that is disclosed by the RCMP Commissioner to an adjudicator or the Board, as the case may be, or to a party in connection with the matter or proceeding that gave rise to the objection may be used only in connection with that matter or proceeding.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -4018,7 +4081,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Memorandum of understanding**
 
 **238.31** The Chairperson and the RCMP Commissioner may enter into a memorandum of understanding setting out principles and procedures respecting the disclosure of information referred to in subsection 238.27(1) and the protection of that information if it is disclosed.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -4037,7 +4100,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Section prevails**
 
 - **(3)** This section applies despite subsection 13(1) of the [Auditor General Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-17.md) and subsection 79.3(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md).
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -4050,7 +4113,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Consideration**
 
 **238.33** In considering a grievance that concerns an employee who is an RCMP member or a reservist, the adjudicator or the Board, as the case may be, must take into account the unique role of the Royal Canadian Mounted Police as a police organization in protecting public safety and national security and its need to deploy its members and reservists as it sees fit.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -4065,7 +4128,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **238.34** The Governor in Council may make regulations
 - **(a)** prescribing the oath of secrecy referred to in subsection 238.27(5); and
 - **(b)** respecting the measures that are to be taken by an adjudicator or the Board, as the case may be, or a party to protect the information referred to in subsection 238.27(1) that the adjudicator, the Board or the party has received from the RCMP Commissioner in connection with any matter or proceeding before the adjudicator or the Board under this Division or Part 2 that concerns a person who is or was an RCMP member or a reservist, and respecting the disclosure of that information by the adjudicator, the Board or the party to other persons or entities.
-> 2017, c. 9, s. 33.
+> 2017, c. 9, s. 33
 
 
 
@@ -4102,7 +4165,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(v)** a “trade union” is to be read as a reference to an employee organization within the meaning of subsection 2(1) and includes, unless the context otherwise requires, a council of employee organizations within the meaning of that subsection;
 - **(b)** section 156 of that Act does not apply in respect of the Federal Public Sector Labour Relations and Employment Board; and
 - **(c)** the provisions of this Act apply, with any necessary modifications, in respect of matters brought before the Federal Public Sector Labour Relations and Employment Board.
-> 2003, c. 22, s. 2 “240”; 2013, c. 40, s. 384; 2017, c. 9, ss. 34, 57.
+> 2003, c. 22, s. 2 “240”; 2013, c. 40, s. 384; 2017, c. 9, ss. 34, 57
 
 
 
@@ -4150,7 +4213,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Evidence respecting information obtained**
 
 **243** Members of arbitration boards, members of public interest commissions, mediators, adjudicators and persons seized of referrals under subsection 182(1) are not competent or compellable to appear as witnesses in any civil action, suit or other proceeding respecting information obtained in the discharge of their functions under this Act.
-> 2003, c. 22, s. 2 “243”; 2013, c. 40, s. 385.
+> 2003, c. 22, s. 2 “243”; 2013, c. 40, s. 385
 
 
 
@@ -4162,7 +4225,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** notes or draft orders or decisions of an adjudicator;
 - **(b)** notes or draft reports of a mediator, a public interest commission or a person authorized or designated by the Board to assist in resolving a complaint or issue in dispute before the Board; and
 - **(c)** notes or a draft arbitral award of an arbitration board.
-> 2003, c. 22, s. 2 “244”; 2013, c. 40, s. 386.
+> 2003, c. 22, s. 2 “244”; 2013, c. 40, s. 386
 
 
 
@@ -4171,7 +4234,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Criminal or civil proceedings**
 
 **245** No criminal or civil proceedings lie against a member of an arbitration board, a member of a public interest commission, a mediator, an adjudicator or a person seized of a referral under subsection 182(1) for anything done  —  or omitted to be done  —  or reported or said in good faith in the course of the exercise or performance or purported exercise or performance of any power, duty or function under this Act.
-> 2003, c. 22, s. 2 “245”; 2013, c. 40, s. 387.
+> 2003, c. 22, s. 2 “245”; 2013, c. 40, s. 387
 
 
 
@@ -4205,7 +4268,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Party to pay**
 
 - **(3)** If a public interest commission consists of three members, the remuneration and expenses to be paid to the member of the commission nominated, or deemed to be nominated, by a party is to be paid by that party.
-> 2003, c. 22, s. 2 “247”; 2013, c. 40, s. 337.
+> 2003, c. 22, s. 2 “247”; 2013, c. 40, s. 337
 
 
 
@@ -4218,7 +4281,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Payment of witness fees**
 
 **248** A person who is summoned by an arbitration board, a public interest commission or an adjudicator to attend as a witness at any proceeding under this Act is entitled to receive fees and allowances for so attending that are equal to those to which the person would be entitled if summoned to attend before the Federal Court.
-> 2003, c. 22, s. 2 “248”; 2013, c. 40, s. 389.
+> 2003, c. 22, s. 2 “248”; 2013, c. 40, s. 389
 
 
 
@@ -4231,7 +4294,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Facilities and human resources**
 
 **249** The Chief Administrator of the Administrative Tribunals Support Service of Canada must provide members of arbitration boards, members of public interest commissions, mediators, adjudicators and persons seized of referrals under subsection 182(1) with the facilities and human resources necessary to enable them to carry out their functions under this Act.
-> 2003, c. 22, s. 2 “249”; 2014, c. 20, s. 481.
+> 2003, c. 22, s. 2 “249”; 2014, c. 20, s. 481
 
 
 
@@ -4265,5 +4328,921 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Review**
 
 **252** Five years after the day on which this section comes into force, the minister designated by the Governor in Council for the purposes of this section must cause a review of this Act and its administration and operation to be conducted, and cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2003, c. 22, s. 36
+
+
+**Definitions**
+
+**36** 
+
+- **(1)** The following definitions apply in this Division.
+
+***Chairperson*** means the Chairperson of the new Board. (*président*)
+
+***former Act*** means the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md), being chapter P-35 of the Revised Statutes of Canada, 1985. (*ancienne loi*)
+
+***former Board*** means the Public Service Staff Relations Board established by section 11 of the former Act. (*ancienne Commission*)
+
+***new Act*** means the Public Service Labour Relations Act, enacted by section 2 of this Act. (*nouvelle loi*)
+
+***new Board*** means the Public Service Labour Relations Board established by section 12 of the new Act. (*nouvelle Commission*)
+
+**Meaning of other words**
+
+- **(2)** Words and expressions used in this Division have the same meaning as in the former Act or the new Act, as the context requires.
+
+
+
+######           — 2003, c. 22, s. 37
+
+
+**Certain members continue**
+
+**37** Each member of the former Board, other than the Deputy Chairpersons, holding office immediately before the day on which section 12 of the new Act comes into force continues to hold office and is deemed to have been appointed under that section to hold office for the remainder of the term for which he or she had been appointed before the coming into force of that section.
+
+
+
+######           — 2003, c. 22, s. 38
+
+
+**Deputy Chairpersons**
+
+**38** The Deputy Chairpersons of the former Board cease to hold office on the day on which section 12 of the new Act comes into force.
+
+
+
+######           — 2003, c. 22, s. 39
+
+
+**Transfer of proceedings**
+
+**39** 
+
+- **(1)** Subject to this Division, any proceeding that the former Board was seized of immediately before the day on which section 12 of the new Act comes into force is transferred to the new Board to be disposed of in accordance with the new Act.
+
+**Continuing jurisdiction of Deputy Chairperson**
+
+- **(2)** A Deputy Chairperson of the former Board may, at the request of the Chairperson, continue to hear, consider or decide any matter that was before the Deputy Chairperson before the day on which section 12 of the new Act comes into force and in respect of which there was any proceeding in which he or she participated.
+
+**Powers**
+
+- **(3)** For the purposes of subsection (2), a Deputy Chairperson may exercise any of the powers of a panel of the new Board.
+
+**Refusal to complete duties**
+
+- **(4)** If a Deputy Chairperson who was a member of a panel refuses to continue to hear, consider or decide any matter referred to in subsection (2), the chairperson of the panel may continue to hear, consider or decide the matter or the Chairperson may remove that matter from the panel and hear, consider or decide that matter or assign a Vice-Chairperson or a panel of the new Board to do so on any terms and conditions that the Chairperson may specify for the protection and preservation of the rights and interests of the parties.
+
+**Supervision by Chairperson**
+
+- **(5)** The Chairperson has supervision over and direction of the work of any Deputy Chairperson who continues to hear, consider or decide a matter under subsection (2).
+
+
+
+######           — 2003, c. 22, s. 40
+
+
+**Fees and expenses**
+
+**40** A Deputy Chairperson of the former Board who continues to hear, consider or decide a matter under subsection 39(2)
+- **(a)** is to be paid the fees for his or her services that may be fixed by the Governor in Council; and
+- **(b)** is entitled to be paid reasonable travel and living expenses incurred in the course of providing services during any period of absence from his or her ordinary place of residence.
+
+
+
+######           — 2003, c. 22, s. 41
+
+
+**Limitation period**
+
+**41** The Chairperson may withdraw from a Deputy Chairperson of the former Board any matter referred to in subsection 39(2) that is not disposed of within one year after the day on which section 12 of the new Act comes into force and determine the matter or assign it to a panel of the new Board on any terms and conditions that the Chairperson may specify for the protection and preservation of the rights and interests of the parties.
+
+
+
+######           — 2003, c. 22, s. 42
+
+
+**Secretary of former Board**
+
+**42** 
+
+- **(1)** The person who, immediately before the day on which section 48 of the new Act comes into force, held the office of secretary of the former Board is deemed to have been appointed to the office of Executive Director of the new Board, without prejudice to any salary and benefits he or she may receive by virtue of having held that office before that day.
+
+**Officers and employees**
+
+- **(2)** Nothing in the new Act affects the status of any person who was an officer or employee of the former Board immediately before the day on which section 49 of the new Act comes into force, except that, as of that day, the person is an officer or employee, as the case may be, of the new Board.
+
+
+
+######           — 2003, c. 22, s. 43
+
+
+**Rights and obligations transferred**
+
+**43** All rights and property held by or in the name of or in trust for the former Board and all obligations and liabilities of the former Board are deemed to be rights, property, obligations and liabilities of the new Board.
+
+
+
+######           — 2003, c. 22, s. 44
+
+
+**References**
+
+**44** Every reference to the former Board in a deed, contract or other document executed by the former Board in its own name is to be read as a reference to the new Board, unless the context otherwise requires.
+
+
+
+######           — 2003, c. 22, s. 45
+
+
+**Transfer of appropriations**
+
+**45** Any amount appropriated, for the fiscal year that includes the day on which section 12 of the new Act comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the public service of Canada for the former Board and that, on that day, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the public service of Canada for the new Board.
+
+
+
+######           — 2003, c. 22, s. 46
+
+
+**Continuation of legal proceedings**
+
+**46** Any action, suit or other proceeding, to which the former Board is a party, that is pending in any court on the day on which section 12 of the new Act comes into force may be continued by or against the new Board in the like manner and to the same extent as it could have been continued by or against the former Board.
+
+
+
+######           — 2003, c. 22, s. 47
+
+
+**Decisions, etc., continued**
+
+**47** Every decision, order, determination and declaration made by the former Board is deemed to have been made by the new Board and may be enforced as such.
+
+
+
+######           — 2003, c. 22, s. 48
+
+
+**Certification continued**
+
+**48** 
+
+- **(1)** Each employee organization that, immediately before the day on which section 64 of the new Act comes into force, was certified as the bargaining agent for a bargaining unit continues to be certified as the bargaining agent for the bargaining unit.
+
+**Effects of certification**
+
+- **(2)** Section 67 of the new Act applies as though the employee organization had been certified under the new Act.
+
+
+
+######           — 2003, c. 22, s. 49
+
+
+**Legal officers**
+
+**49** 
+
+- **(1)** For the purposes of the new Act, including any application under section 58 of the new Act, an employee who, on or after the day on which the definition managerial or confidential position in subsection 2(1) of that Act comes into force, is employed as a legal officer in the Department of Justice or the Canada Customs and Revenue Agency is deemed not to be included in any unit determined, in accordance with the former Act, to constitute a unit of employees appropriate for collective bargaining.
+
+**New application required**
+
+- **(2)** For greater certainty, any employee organization that wishes to represent employees in a bargaining unit that includes one or more employees referred to in subsection (1) must proceed by way of an application under section 54 of the new Act.
+
+
+
+######           — 2003, c. 22, s. 50
+
+
+**Certain positions continued**
+
+**50** Every position that was a position referred to in any of paragraphs (a), (b), (e), (f) and (g) of the definition managerial or confidential position in subsection 2(1) of the former Act immediately before the day on which the definition managerial or confidential position in subsection 2(1) of the new Act comes into force is deemed, as of that day, to be a managerial or confidential position within the meaning of subsection 2(1) of the new Act.
+
+
+
+######           — 2003, c. 22, s. 51
+
+
+**Process for resolution of disputes**
+
+**51** The process for resolution of a dispute specified by a bargaining agent for a bargaining unit and recorded by the former Board continues to be the process applicable to that bargaining unit until it is changed in accordance with the new Act.
+
+
+
+######           — 2003, c. 22, s. 52
+
+
+**Collective agreements**
+
+**52** Every collective agreement entered into under the former Act that is in force immediately before the day on which the definition collective agreement in subsection 2(1) of the new Act comes into force is deemed to be a collective agreement entered into under the new Act and continues in force until its term expires.
+
+
+
+######           — 2003, c. 22, s. 53
+
+
+**Arbitral awards**
+
+**53** Every arbitral award made under the former Act that is in force immediately before the day on which the definition arbitral award in subsection 2(1) of the new Act comes into force is deemed to be an arbitral award made under the new Act and continues in force until its term expires.
+
+
+
+######           — 2003, c. 22, s. 54
+
+
+**Conciliators**
+
+**54** Every person appointed as a conciliator under section 53 of the former Act before the day on which that section is repealed may continue to act after that day in accordance with that section and section 54 of the former Act, as those sections read immediately before that day, except that the references to “Chairperson” in section 54 of the former Act are to be read as references to the Chairperson of the new Board.
+
+
+
+######           — 2003, c. 22, s. 55
+
+
+**Fact finders**
+
+**55** Every person appointed as a fact finder under section 54.1 of the former Act before the day on which that section is repealed may continue to act after that day in accordance with section 54.4 of the former Act, as that section read immediately before that day and sections 54.1 to 54.6 of the former Act, as those sections read immediately before that day, apply after that day to the parties being assisted by the fact finder, except that the references in those sections to
+- **(a)** “Board” are to be read as references to the new Board; and
+- **(b)** “Chairperson” are to be read as references to the Chairperson of the new Board.
+
+
+
+######           — 2003, c. 22, s. 56
+
+
+**Section 61 of the former Act**
+
+**56** Every person to whom terms and conditions were referred under section 61 of the former Act before the day on which that section is repealed may continue to act after that day in accordance with the provisions of the former Act as they read immediately before that day.
+
+
+
+######           — 2003, c. 22, s. 57
+
+
+**Arbitration**
+
+**57** 
+
+- **(1)** The following rules apply to requests for arbitration made before the day on which section 136 of the new Act comes into force and for which no arbitral award had been made before that day:
+	- **(a)** if no arbitration board had been established or arbitrator appointed before that day, the request is to be dealt with as though it had been made under section 136 of the new Act;
+	- **(b)** if an arbitrator had been appointed before that day, the arbitrator is deemed to be an arbitration board consisting of a single member established under section 139 of the new Act and the arbitration is to continue in accordance with Division 9 of Part 1 of the new Act; and
+	- **(c)** if an arbitration board had been established before that day, the arbitration board is deemed to be an arbitration board consisting of three members established under section 140 of the new Act and the arbitration is to continue in accordance with Division 9 of Part 1 of the new Act.
+
+**Restriction**
+
+- **(2)** For greater certainty, an arbitral award may be made under subsection (1) only in respect of a term or condition of employment that could have been embodied in an arbitral award made under the former Act as it read immediately before the day on which section 140 of the new Act comes into force.
+
+
+
+######           — 2003, c. 22, s. 58
+
+
+**Provisions of former Act apply**
+
+**58** 
+
+- **(1)** If, before the day on which section 105 of the new Act comes into force, a notice to bargain collectively was given under the former Act in respect of a bargaining unit for which the process for resolution of a dispute is conciliation and no collective agreement was entered into before that day as a result of the notice, paragraphs (a) to (c) apply to the employer, the bargaining agent for the bargaining unit and every employee in the bargaining unit until a collective agreement is entered into:
+	- **(a)** sections 76 to 90.1 and sections 102 to 107 of the former Act, as those sections read immediately before that day, apply on and after that day, except that references in those sections to
+		- **(i)** “Board” are to be read as references to the new Board,
+		- **(ii)** “Chairperson” are to be read as references to the Chairperson of the new Board, and
+		- **(iii)** “Minister” are to be read as references to the Minister within the meaning of subsection 2(1) of the new Act;
+	- **(b)** a designation review panel established before that day may continue to act on and after that day; and
+	- **(c)** a conciliation commissioner appointed or a conciliation board established before that day may continue to act on and after that day.
+
+**Non-application**
+
+- **(2)** For greater certainty, if subsection (1) applies to the employer, the bargaining agent for the bargaining unit and every employee in the bargaining unit, Divisions 8, 10, 11 and 14 of Part 1 of the new Act do not apply to them until a collective agreement is entered into.
+
+
+
+######           — 2003, c. 22, s. 59
+
+
+**Complaints referred to in par. 23(1)(b) of former Act**
+
+**59** Every complaint referred to in paragraph 23(1)(b) of the former Act that was not finally disposed of by the former Board before the day on which section 221 of the new Act comes into force is deemed, for the purpose of the new Act, to be a policy grievance that has been referred to adjudication and, if a panel of the former Board had commenced to hear the complaint, that panel is, subject to section 39, deemed to be an adjudicator or a board of adjudication, as the case may be.
+
+
+
+######           — 2003, c. 22, s. 60
+
+
+**Complaints referred to in par. 23(1)(c) of former Act**
+
+**60** Complaints referred to in paragraph 23(1)(c) of the former Act that were not finally disposed of by the former Board before the day on which section 234 of the new Act comes into force are deemed to have been withdrawn immediately before that day.
+
+
+
+######           — 2003, c. 22, s. 61
+
+
+**Former Act applies**
+
+**61** 
+
+- **(1)** Subject to subsection (5), every grievance presented in accordance with the former Act that was not finally dealt with before the day on which section 208 of the new Act comes into force is to be dealt with on and after that day in accordance with the provisions of the former Act, as they read immediately before that day.
+
+**Adjudicators**
+
+- **(2)** For the purposes of subsection (1), an adjudicator under the former Act may continue to hear, consider or decide any grievance referred to him or her before the day on which section 209 of the new Act comes into force, except that if the adjudicator was a member of the former Board, he or she may do so only if requested to do so by the Chairperson.
+
+**Supervision by Chairperson**
+
+- **(3)** The Chairperson has supervision over and direction of the work of any member of the former Board who continues to hear, consider or decide a grievance under subsection (2).
+
+**Refusal to complete duties**
+
+- **(4)** If an adjudicator under the former Act refuses to continue to hear, consider or decide a grievance referred to in subsection (2), the Chairperson may, on any terms and conditions that the Chairperson may specify for the protection and preservation of the rights and interests of the parties, refer the grievance to a member of the new Board.
+
+**Appointment after commencement day**
+
+- **(5)** If a grievance referred to in subsection (1) is referred to adjudication after the day on which section 209 of the new Act comes into force, the provisions of the new Act apply with respect to the appointment of the adjudicator.
+
+**Powers**
+
+- **(6)** For the purposes of subsections (2) and (5), the adjudicator may exercise any of the powers an adjudicator under the former Act could have exercised under that Act.
+
+
+
+######           — 2003, c. 22, s. 62
+
+
+**Fees and expenses**
+
+**62** Each adjudicator under the former Act who continues to hear, consider or decide a grievance under subsection 61(2) who, at the time of his or her appointment, was a member of the former Board or an adjudicator referred to in paragraph 95(2)(a.1) of the former Act
+- **(a)** is to be paid the fees that may be fixed by the Governor in Council; and
+- **(b)** is entitled to be paid reasonable travel and living expenses incurred while doing so during any period of absence from his or her ordinary place of residence.
+
+
+
+######           — 2003, c. 22, s. 63
+
+
+**Limitation period**
+
+**63** The Chairperson may withdraw from any member of the former Board any grievance referred to in subsection 61(2) that is not disposed of within one year after the day on which section 209 of the new Act comes into force and the Chairperson may, on any terms and conditions that he or she may specify for the protection and preservation of the rights and interests of the parties, refer the matter to a member of the new Board.
+
+
+
+######           — 2003, c. 22, s. 64
+
+
+**Events giving rise to individual grievances**
+
+**64** Subject to regulations made under section 237 of the new Act or any applicable collective agreement or arbitral award, an individual grievance may be presented on or after the day on which section 208 of the new Act comes into force in respect of any event that occurred before that day and that would have given rise to a right to grieve under section 91 of the former Act, as that section read immediately before that day.
+
+
+
+######           — 2003, c. 22, s. 65
+
+
+**Events giving rise to policy grievances**
+
+**65** Subject to regulations made under section 237 of the new Act or any applicable collective agreement or arbitral award, a policy grievance may be presented on or after the day on which section 220 of the new Act comes into force in respect of any event that occurred before that day if the matter could have been referred to the former Board under section 99 of the former Act, as that section read immediately before that day.
+
+
+
+######           — 2003, c. 22, s. 66
+
+
+**Former adjudication orders**
+
+**66** Every order made by an adjudicator under the former Act is deemed to be an order made by an adjudicator under the new Act and may be enforced as such.
+
+
+
+######           — 2009, c. 2, s. 396(3)
+
+
+**Powers of Board**
+
+**396** 
+
+- **(3)** The Board has, in relation to a complaint referred to it, in addition to the powers conferred on it under the Public Service Labour Relations Act, the power to interpret and apply sections 7, 10 and 11 of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), and the Equal Wages Guidelines, 1986, in respect of employees, even after the coming into force of section 399.
+
+
+
+######           — 2013, c. 40, s. 338, as amended by 2014, c. 20, s. 309
+
+
+**Definitions**
+
+**338** 
+
+- **(1)** The following definitions apply in this section.
+
+***commencement day*** means the day on which this Act receives royal assent. (*date de référence*)
+
+***the Act*** means the Public Service Labour Relations Act. (*Loi*)
+
+**Words and expressions**
+
+- **(2)** Unless the context otherwise requires, words and expressions used in this section have the same meaning as in the Act.
+
+**Application of provisions enacted by this Act**
+
+- **(3)** Subject to subsections (4) to (7), the provisions of the Act, as enacted by sections 294 to 306, subsection 307(1), sections 308 to 314, subsection 316(1) and sections 317 to 324 also apply in respect of the following bargaining units:
+	- **(a)** a bargaining unit in respect of which a notice to commence bargaining collectively with a view to entering into, renewing or revising a collective agreement has been given before the commencement day;
+	- **(b)** a bargaining unit that is bound by a collective agreement or arbitral award that is in force on the commencement day and that expires on that day or at any time after that day, and in respect of which no notice to bargain collectively has been given before the commencement day; and
+	- **(c)** a bargaining unit in respect of which no notice to bargain collectively for the purpose of entering into a first collective agreement has been given before the commencement day.
+
+**Arbitration board established**
+
+- **(4)** Subject to subsections (6) and (7), the provisions of the Act, as they read immediately before the commencement day, continue to apply in respect of a bargaining unit that is referred to in paragraph (3)(a) until an arbitral award is made in respect of the bargaining unit if, before the commencement day,
+	- **(a)** a request for arbitration was made by the employer or the bargaining agent for the bargaining unit; and
+	- **(b)** the Chairperson had notified the parties of the establishment of an arbitration board.
+
+**Public interest commission established**
+
+- **(5)** Subject to subsections (6) and (7), the provisions of the Act, as they read immediately before the commencement day, continue to apply in respect of a bargaining unit that is referred to in paragraph (3)(a) until a collective agreement is entered into by parties if, before the commencement day,
+	- **(a)** a request for conciliation was made by the employer or the bargaining agent for the bargaining unit; and
+	- **(b)** the Chairperson had notified the parties of the establishment of a public interest commission.
+
+**No essential services agreement**
+
+- **(6)** Despite subsections (4) and (5), if, before the commencement day, arbitration or conciliation has been chosen by the bargaining agent representing a bargaining unit that is referred to in paragraph (3)(a) or (b) as the process for the resolution of disputes to which it may be a party and if, before that day, no essential services agreement has been entered into by the employer and the bargaining agent in relation to that bargaining unit, then,
+	- **(a)** if no notification referred to in paragraph (4)(b) or (5)(b) had been given before December 12, 2013, the process for the resolution of disputes is conciliation; and
+	- **(b)** sections 120 and 121 of the Act, as enacted by section 305, apply except that, despite subsection 121(3) of the Act, as enacted by section 305, the notice that is referred to in subsection 121(1) of the Act, as enacted by section 305, must be given not later than 12 months after the commencement day.
+
+**Essential services agreement entered into**
+
+- **(7)** Despite subsections (4) and (5), if, before the commencement day, arbitration or conciliation has been chosen by the bargaining agent representing a bargaining unit that is referred to in paragraph (3)(a) or (b) as the process for the resolution of disputes to which it may be a party and if, before that day, an essential services agreement has been entered into by the employer and the bargaining agent in relation to that bargaining unit, then, the process for the resolution of disputes is
+	- **(a)** arbitration, if 80% or more of the positions in the bargaining unit were, immediately before the commencement day, necessary for the employer to provide an essential service; and
+	- **(b)** conciliation, if less than 80% of the positions in the bargaining unit were, immediately before the commencement day, necessary for the employer to provide an essential service.
+
+**Non-application**
+
+- **(7.1)** Subsection (7) does not apply if the notification referred to in paragraph (4)(b) or (5)(b) had been given before December 12, 2013.
+
+**Application of subsection 105(2)**
+
+- **(8)** Subsection 105(2) of the Act, as that subsection read immediately before the commencement day, continues to apply in respect of a bargaining unit referred to in paragraph (3)(b) until an arbitral award is made or a collective agreement is entered into in respect of a bargaining unit.
+
+**Positions — essential services agreement**
+
+- **(9)** Despite subsections (4) and (5), if a bargaining unit is bound by an essential services agreement immediately before the commencement day,
+	- **(a)** sections 120 and 121 of the Act, as enacted by section 305, apply except that, despite subsection 121(3) of the Act, as enacted by section 305, the notice that is referred to in subsection 121(1) of the Act, as enacted by section 305, must be given not later than 12 months after the commencement day; and
+	- **(b)** every position that is identified in the agreement as being necessary for the employer to provide essential services is deemed to be a position designated by the employer under section 120 of the Act, as enacted by section 305.
+For greater certainty, subsection 124(1) of the Act, as enacted by section 305, does not apply in respect of any position referred to in paragraph (b).
+
+**For greater certainty**
+
+- **(10)** For greater certainty,
+	- **(a)** every essential services agreement between the employer and a bargaining agent that is in force immediately before the commencement day is deemed to have ceased to have effect on the commencement day; and
+	- **(b)** every essential services agreement that is entered into by the employer and a bargaining agent after the commencement day ceases to apply on the day on which a collective agreement is entered into by the employer and the bargaining agent.
+
+
+
+######           — 2013, c. 40, s. 391
+
+
+**Definitions**
+
+**391** The following definitions apply in sections 392 to 402.
+
+***former Board*** means the Public Service Labour Relations Board that is established by section 12 of the Public Service Labour Relations Act, as that Act read immediately before the day on which subsection 366(1) of this Act comes into force. (*ancienne Commission*)
+
+***new Board*** means the Public Service Labour Relations and Employment Board that is established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act. (*nouvelle Commission*)
+
+
+
+######           — 2013, c. 40, s. 392
+
+
+**Appointments terminated**
+
+**392** 
+
+- **(1)** Members of the former Board cease to hold office on the day on which subsection 366(1) of this Act comes into force.
+
+**No compensation**
+
+- **(2)** Despite the provisions of any contract, agreement or order, no person who was appointed to hold office as a part-time member of the former Board has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office by the operation of this Division.
+
+
+
+######           — 2013, c. 40, s. 393
+
+
+**Continuation of proceedings**
+
+**393** Subject to section 394, every proceeding commenced under the Public Service Labour Relations Act before the day on which subsection 366(1) of this Act comes into force is to be taken up and continued under and in conformity with that Act, as it is amended by this Division.
+
+
+
+######           — 2013, c. 40, s. 394
+
+
+**Persons employed by Public Service Staffing Tribunal**
+
+**394** Every proceeding commenced under Part 1 or 2 of the Public Service Labour Relations Act before the day on which subsection 366(1) of this Act comes into force that relates to a person who is employed by the Public Service Staffing Tribunal — continued by subsection 88(1) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), as that Act read immediately before the day on which subsection 366(1) of this Act comes into force — and that was not finally disposed of by the former Board before that day is deemed to have been discontinued immediately before that day.
+
+
+
+######           — 2013, c. 40, s. 395
+
+
+**Continuation — members of former Board**
+
+**395** 
+
+- **(1)** A member of the former Board — other than an adjudicator referred to in paragraph 223(2)(d) of the Public Service Labour Relations Act, as that Act read immediately before the day on which subsection 366(1) of this Act comes into force — may, at the request of the Chairperson of the new Board, continue to hear and decide any matter that was before the member before that day.
+
+**Powers**
+
+- **(2)** For the purposes of subsection (1), a member of the former Board exercises the same powers, and performs the same duties and functions, as a panel of the new Board.
+
+**Refusal to complete duties**
+
+- **(3)** If a member of the former Board refuses to continue to hear or decide any matter referred to in subsection (1), the Chairperson of the new Board may assign it to a panel of the new Board in accordance with section 37 of the Public Service Labour Relations and Employment Board Act on any terms and conditions that the Chairperson may specify for the protection and preservation of the rights and interests of the parties.
+
+**Supervision by Chairperson of new Board**
+
+- **(4)** The Chairperson of the new Board has supervision over and direction of the work of any member of the former Board who continues to hear and decide a matter referred to in subsection (1).
+
+**Remuneration and expenses**
+
+- **(5)** A member of the former Board who continues to hear and decide a matter referred to in subsection (1)
+	- **(a)** is to be paid the remuneration for their services that may be fixed by the Governor in Council; and
+	- **(b)** is entitled to be paid reasonable travel and living expenses incurred in the course of providing services during any period of absence from their ordinary place of residence.
+
+**Limitation**
+
+- **(6)** The Chairperson of the new Board may withdraw from a member of the former Board a matter referred to in subsection (1) that is not disposed of within one year after the day on which subsection 366(1) of this Act comes into force and assign it to a panel of the new Board in accordance with section 37 of the Public Service Labour Relations and Employment Board Act on any terms and conditions that the Chairperson of the new Board may specify for the protection and preservation of the rights and interests of the parties.
+
+
+
+######           — 2013, c. 40, s. 396
+
+
+**Continuation — former Board member adjudicators**
+
+**396** 
+
+- **(1)** An adjudicator referred to in paragraph 223(2)(d) of the Public Service Labour Relations Act, as that Act read immediately before the day on which subsection 366(1) of this Act comes into force, may, at the request of the Chairperson of the new Board, continue to hear and decide any grievance that was before the adjudicator before that day.
+
+**Powers**
+
+- **(2)** For the purposes of subsection (1), the adjudicator exercises the same powers as an adjudicator under the Public Service Labour Relations Act, as that Act read immediately before the day on which subsection 366(1) of this Act comes into force.
+
+**Refusal to complete duties**
+
+- **(3)** If an adjudicator refuses to continue to hear or decide a grievance referred to in subsection (1), the new Board is seized of the grievance.
+
+**Supervision by Chairperson of new Board**
+
+- **(4)** The Chairperson of the new Board has supervision over and direction of the work of any adjudicator who continues to hear and decide a grievance referred to in subsection (1).
+
+**Remuneration and expenses**
+
+- **(5)** An adjudicator who continues to hear and decide a grievance referred to in subsection (1)
+	- **(a)** is to be paid the remuneration for their services that may be fixed by the Governor in Council; and
+	- **(b)** is entitled to be paid reasonable travel and living expenses incurred in the course of providing services during any period of absence from their ordinary place of residence.
+
+**Limitation**
+
+- **(6)** The Chairperson of the new Board may withdraw from an adjudicator a grievance referred to in subsection (1) that is not disposed of within one year after the day on which subsection 366(1) of this Act comes into force. If the Chairperson of the new Board withdraws the grievance, the new Board becomes seized of it.
+
+
+
+######           — 2013, c. 40, s. 397
+
+
+**Persons employed by former Board**
+
+**397** Nothing in this Division affects the status of any person who was employed by the former Board immediately before the day on which subsection 366(1) of this Act comes into force, except that, as of that day, the person is employed by the new Board.
+
+
+
+######           — 2013, c. 40, s. 398
+
+
+**Rights and obligations transferred**
+
+**398** All rights and property held by or in the name of or in trust for the former Board and all obligations and liabilities of the former Board are deemed to be rights, property, obligations and liabilities of the new Board.
+
+
+
+######           — 2013, c. 40, s. 399
+
+
+**References**
+
+**399** Every reference to the former Board in a deed, contract or other document executed or, in Quebec, signed by the former Board in its own name is to be read as a reference to the new Board, unless the context requires otherwise.
+
+
+
+######           — 2013, c. 40, s. 400
+
+
+**Continuation of legal proceedings**
+
+**400** Any action, suit or other proceeding to which the former Board is a party that is pending in any court on the day on which subsection 366(1) of this Act comes into force may be continued by or against the new Board in the same manner and to the same extent as it could have been continued by or against the former Board.
+
+
+
+######           — 2013, c. 40, s. 401
+
+
+**Commencement of legal proceedings**
+
+**401** Any action, suit or other legal proceeding in respect of an obligation or liability incurred by the former Board may be brought against the new Board in any court that would have had jurisdiction if the action, suit or other legal proceeding had been brought against the former Board.
+
+
+
+######           — 2013, c. 40, s. 402
+
+
+**Orders and decisions continued**
+
+**402** Every order or decision made by the former Board is deemed to have been made by the new Board and may be enforced as such.
+
+
+
+######           — 2017, c. 9, s. 61
+
+
+**Definitions**
+
+**61** 
+
+- **(1)** The following definitions apply in this section and sections 62 to 64.
+
+***former Act*** means the Public Service Labour Relations Act, as it read immediately before the coming into force of section 2. (*ancienne loi*)
+
+***member*** has the same meaning as in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md). (*membre*)
+
+***reservist*** means a person who is appointed as a reservist under regulations made under subsection 11(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md). (*réserviste*)
+
+**Same meaning**
+
+- **(2)** Unless the context requires otherwise, words and expressions used in sections 62 to 64 have the same meaning as in subsection 2(1) of the former Act.
+
+
+
+######           — 2017, c. 9, s. 62
+
+
+**Individual grievances**
+
+**62** 
+
+- **(1)** Any individual grievance presented by a member under subsection 208(1) of the former Act, before the day on which section 238.24 of the Federal Public Sector Labour Relations Act, as enacted by section 33, comes into force, that is not related to the interpretation or application, in respect of the member, of a provision of a collective agreement or arbitral award, is deemed never to have been presented, and any decision made in respect of such a grievance or any decision made on a review of the decision is deemed never to have had effect.
+
+**Extension of limitation period**
+
+- **(2)** For the purpose of presenting a grievance or taking any other process of redress under the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), and despite any provision of that Act, if an individual grievance has been deemed under subsection (1) never to have been presented, or if any decision on such a grievance has been deemed under that subsection never to have had effect, the member who presented the individual grievance has, if the subject matter of the grievance or other redress is the same as the subject matter of the individual grievance, 30 days from the day on which section 33 comes into force to present that grievance or to take that other process of redress.
+
+**Limitation**
+
+- **(3)** Subsection (2) applies only in the case of an individual grievance that, if it had been presented under the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) or if another process of redress under that Act had been taken, would have been presented within the time established under that Act to present the grievance or take the other process of redress.
+
+
+
+######           — 2017, c. 9, s. 63
+
+
+**Existing applications for certification**
+
+**63** 
+
+- **(1)** If, before the day on which section 238.13 of the Federal Public Sector Labour Relations Act, as enacted by section 33, comes into force, an employee organization makes an application under section 54 of the former Act to be certified as bargaining agent for a group of employees that includes employees who are members appointed to a rank, or employees who are reservists, the employee organization must not be certified as bargaining agent for the group, unless
+	- **(a)** the group consists exclusively of all the employees who are members appointed to a rank, other than officers as defined in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), and all the employees who are reservists; and
+	- **(b)** the employee organization — and, in the case of a council of employee organizations, each employee organization forming the council — meets the following requirements:
+		- **(i)** it has as its primary mandate the representation of employees who are members appointed to a rank, other than officers as defined in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md),
+		- **(ii)** it is not affiliated with a bargaining agent or other association that does not have as its primary mandate the representation of police officers, and
+		- **(iii)** it is not certified as the bargaining agent for any other group of employees.
+
+**Clarification**
+
+- **(2)** For greater certainty, for the purposes of subsection (1), participation by an employee organization in the National Joint Council is not considered to be an affiliation with a bargaining agent or other association that does not have as its primary mandate the representation of police officers.
+
+**Certification of no effect**
+
+- **(3)** If an employee organization is certified as the bargaining agent for a bargaining unit contrary to subsection (1), that decision or any decision made on a review of the decision is deemed never to have had effect.
+
+**Certification in respect of any other group**
+
+- **(4)** If, before the day on which section 33 comes into force, an employee organization that meets the requirements set out in paragraph (1)(b) is certified as the bargaining agent for the group described in paragraph (1)(a), any decision made before that day in respect of an application made by that employee organization to be certified as bargaining agent for any other group of employees is deemed never to have had effect.
+
+**Existing application for certification**
+
+- **(5)** If, before the day on which section 33 comes into force, an employee organization that meets the requirements set out in paragraph (1)(b) is certified as the bargaining agent for the bargaining unit composed of the group described in paragraph (1)(a), on that day, the employee organization’s application for certification made under section 54 of the former Act is deemed to have been an application for certification made under subsection 238.13(1) of the Federal Public Sector Labour Relations Act, as enacted by section 33, instead of under that section 54, and that bargaining unit is deemed to have been determined under section 238.14 of the Federal Public Sector Labour Relations Act.
+
+**Existing application for certification**
+
+- **(6)** If, on or after the day on which section 33 comes into force, an employee organization that meets the requirements set out in paragraph (1)(b) is certified as the bargaining agent for the bargaining unit composed of the group described in paragraph (1)(a), and the employee organization made the application for certification under section 54 of the former Act, on being so certified the employee organization’s application for certification is deemed to have been an application for certification made under subsection 238.13(1) of the Federal Public Sector Labour Relations Act, as enacted by section 33, instead of under that section 54, and that bargaining unit is deemed to have been determined under section 238.14 of the Federal Public Sector Labour Relations Act.
+
+
+
+######           — 2017, c. 9, s. 64
+
+
+**Membership in bargaining unit — members and reservists**
+
+**64** 
+
+- **(1)** Any application that is made under section 58 of the former Act before the day on which section 238.16 of the Federal Public Sector Labour Relations Act, as enacted by section 33, comes into force, in regards to whether members appointed to a rank or reservists are included in a bargaining unit, other than a bargaining unit composed of the group described in paragraph 63(1)(a), is deemed never to have been made, and any decision made in respect of the application or on any review of the decision is deemed never to have had effect.
+
+**Membership in bargaining unit — other employees**
+
+- **(2)** Any application that is made under section 58 of the former Act before the day on which section 238.16 of the Federal Public Sector Labour Relations Act, as enacted by section 33, comes into force, in regards to whether any employee other than a member appointed to a rank or a reservist is included in a bargaining unit composed of the group described in paragraph 63(1)(a) for which an employee organization that meets the requirements set out in paragraph 63(1)(b) is certified as the bargaining agent, is deemed never to have been made, and any decision made in respect of the application or on any review of the decision is deemed never to have had effect.
+
+
+
+######           — 2017, c. 9, s. 65
+
+
+**Published date**
+
+**65** As of the date published by the Treasury Board in the [Canada Gazette](http://www.gazette.gc.ca/) under subsection 86(1) of the Enhancing Royal Canadian Mounted Police Accountability Act, a reference in subsections 63(1) and 64(1) and (2) to a member appointed to a rank is to be read as a reference to a member.
+
+
+
+######           — 2017, c. 12, s. 16
+
+
+**Public Service Labour Relations Act — existing applications**
+
+**16** If the Public Service Labour Relations and Employment Board has, during the period beginning on June 16, 2015 and ending immediately before the day on which section 8 comes into force, received an application for certification referred to in paragraph 64(1.1)(a) of the Public Service Labour Relations Act or an application for a declaration made under subsection 94(1) of that Act, and the application has not been finally disposed of before that coming into force, that applicationis to be dealt with and disposed of in accordance with that Act as it read immediately before that coming into force.
+
+
+
+######           — 2018, c. 24, s. 27
+
+
+**Definitions**
+
+**27** 
+
+- **(1)** The following definitions apply in this section.
+
+***commencement day*** means the day on which this Act receives royal assent. (*date de référence*)
+
+***the Act*** means the Federal Public Sector Labour Relations Act. (*Loi*)
+
+**Words and expressions**
+
+- **(2)** Unless the context requires otherwise, words and expressions used in this section have the same meaning as in the Act.
+
+- **(3)** If, before the commencement day, the employer or a bargaining agent representing a bargaining unit has filed a notice to bargain and neither party has requested arbitration by a notice made under subsection 136(1) of the Act or conciliation by a request made under subsection 162(1) of the Act, the provisions of the Act, as amended from time to time on or after the commencement day, apply.
+
+- **(4)** If, before the commencement day, the employer or a bargaining agent representing a bargaining unit has given a notice to bargain collectively and either party has requested arbitration by a notice made under subsection 136(1) of the Act and no proceedings referred to in subsection 146(1) of the Act have taken place before the commencement day, the provisions of the Act, as amended from time to time on or after the commencement day, apply.
+
+- **(5)** If, before the commencement day, the employer or a bargaining agent representing a bargaining unit has given a notice to bargain collectively and either party has requested conciliation by request made under subsection 162(1) of the Act and no proceedings referred to in subsection 173(1) of the Act have taken place before the commencement day, the provisions of the Act, as amended from time to time on or after the commencement day, apply.
+
+- **(6)** If, before the commencement day, the employer or a bargaining agent representing a bargaining unit has given a notice to bargain and either party has requested arbitration by a notice made under subsection 136(1) of the Act and any proceedings referred to in subsection 146(1) of the Act have taken place before the commencement day, the provisions of the Act, as they read immediately before the commencement day, apply.
+
+- **(7)** If, before the commencement day, the employer or a bargaining agent representing a bargaining unit has given a notice to bargain and either party has requested conciliation by request made under subsection 162(1) of the Act and any proceedings referred to in subsection 173(1) of the Act have taken place before the commencement day, the provisions of the Act, as they read immediately before the commencement day, together with subsection 194(2) of the Act, as amended by subsection 23(2) of this Act, apply.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2009, c. 2, s. 401, as amended by 2017, c. 9, par. 66(1)(a)
+
+**401** Subsection 208(3) of the Federal Public Sector Labour Relations Act is replaced by the following:
+
+**Limitation**
+
+- **(3)** An employee may not present an individual grievance in respect of any matter related to equal pay for work of equal value or any other matter referred to in the [Public Sector Equitable Compensation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%202,%20s.%20394.md).
+
+
+
+######           — 2009, c. 2, s. 402, as amended by 2017, c. 9, par. 66(1)(a)
+
+**402** Subsection 215(5) of the Federal Public Sector Labour Relations Act is replaced by the following:
+
+**Limitation**
+
+- **(5)** A bargaining agent may not present a group grievance in respect of any matter related to equal pay for work of equal value or any other matter referred to in the [Public Sector Equitable Compensation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%202,%20s.%20394.md).
+
+
+
+######           — 2009, c. 2, s. 403, as amended by 2017, c. 9, par. 66(1)(a)
+
+**403** Subsection 220(3) of the Federal Public Sector Labour Relations Act is replaced by the following:
+
+**Limitation**
+
+- **(3)** Neither the employer nor a bargaining agent may present a policy grievance in respect of any matter related to equal pay for work of equal value or any other matter referred to in the [Public Sector Equitable Compensation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%202,%20s.%20394.md).
+
+
+
+######           — 2009, c. 2, s. 404, as amended by 2013, c. 40, s. 469(6), 2014, c. 39, s. 385 and 2017, c. 9, par. 66(1)(a)
+
+**404** Paragraph 226(2)(a) of the Federal Public Sector Labour Relations Act is replaced by the following:
+
+- **(a)** interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) and any other Act of Parliament relating to employment matters, other than the provisions of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) that are related to the right to equal pay for work of equal value and the [Public Sector Equitable Compensation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%202,%20s.%20394.md), whether or not there is a conflict between the Act being interpreted and applied and the collective agreement, if any;
+
+
+
+
+
+######           — 2013, c. 40, s. 469(1), par. (2)(b), as amended by 2017, c. 9, s. 69(7)
+
+
+**
+> 2009, c. 2
+**
+
+**469** 
+
+- **(1)** In this section, ***other Act*** means the [Budget Implementation Act, 2009](/en/Acts/Statutes%20of%20Canada/2009/c.%202.md).
+
+- **(2)** If section 367 of this Act comes into force before section 400 of the other Act, then
+	- **(b)** on the day on which the [Public Sector Equitable Compensation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%202,%20s.%20394.md) comes into force, sections 13 and 14 of the second Act are replaced by the following:
+
+**Adjudication services**
+
+**13** The Board is to provide adjudication services that consist of the hearing of applications and complaints made under this Part and Division 1 of Part 2.1, the referral of grievances to adjudication in accordance with Part 2 and Division 2 of Part 2.1 and the hearing of matters brought before the Board under Part 3. The Board is also to provide adjudication services in accordance with the [Public Sector Equitable Compensation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%202,%20s.%20394.md).
+
+
+
+**Mediation services**
+
+**14** The Board is to provide mediation services that consist of
+	- **(a)** assisting parties in the negotiation of collective agreements and their renewal;
+	- **(b)** assisting parties in the management of the relations resulting from the implementation of collective agreements;
+	- **(c)** mediating in relation to grievances; and
+	- **(d)** assisting the Chairperson in discharging his or her responsibilities under this Act.
+The Board is also to provide mediation services in accordance with the [Public Sector Equitable Compensation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%202,%20s.%20394.md).
+
+
+
+
+
+######           — 2017, c. 9, ss. 67(1), (2)
+
+
+**
+> 2013, c. 18
+**
+
+**67** 
+
+- **(1)** The following definitions apply in this section.
+
+***other Act*** means the Act enacted by section 2 of chapter 22 of the Statutes of Canada, 2003, as amended from time to time. (*autre loi*)
+
+
+***published date*** means the date published by the Treasury Board in the [Canada Gazette](http://www.gazette.gc.ca/) under subsection 86(1) of the Enhancing Royal Canadian Mounted Police Accountability Act. (*date publiée*)
+
+
+- **(2)** If subsection 3(3) and section 30 of this Act come into force before the published date, then, on the published date,
+	- **(a)** the definition ***RCMP member*** in subsection 2(1) of the other Act is replaced by the following:
+
+
+***RCMP member*** has the meaning assigned by the definition member in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md). (*membre de la GRC*)
+
+
+
+	- **(b)** the portion of subsection 209(1) of the other Act before paragraph (a) is replaced by the following:
+
+**Reference to adjudication**
+
+**209** 
+
+	- **(1)** An employee who is not an RCMP member may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee’s satisfaction if the grievance is related to
+
+
+	- **(c)** section 238.01 of the other Act is replaced by the following:
+
+**Definition of RCMP Commissioner**
+
+**238.01** In this Part, ***RCMP Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
+
+
+	- **(d)** subsection 238.02(3) of the other Act is replaced by the following:
+
+**Clarification**
+
+	- **(3)** For greater certainty, the provisions of Parts 1 and 2, in so far as they are applicable, apply to employees who are RCMP members or reservists unless there is an indication to the contrary.
+
+
+
+######           — 2018, c. 27, s. 431(2)
+
+**431** 
+
+- **(2)** Subsection 396(3) of the Act is replaced by the following:
+
+**Powers of Board**
+
+- **(3)** The Board has, in relation to a complaint referred to it, in addition to the powers conferred on it under the Federal Public Sector Labour Relations Act, the power to interpret and apply sections 7, 10 and 11 of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), and the [Equal Wages Guidelines, 1986](/en/Regulations/Statutory%20Orders%20and%20Regulations/86/1082.md), in respect of employees, even after the coming into force of subsection 425(1) of the Budget Implementation Act 2018, No. 2.
+
+
+
+######           — 2018, c. 27, s. 431(4)
+
+**431** 
+
+- **(4)** Section 396 of the Act is repealed.
+
 
 
