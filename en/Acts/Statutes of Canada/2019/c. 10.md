@@ -318,7 +318,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(f)** spend any money that it receives through its activities, in the fiscal year in which the money is received or in the subsequent fiscal year;
 - **(g)** acquire any money, securities or other personal or movable property by gift or bequest and expend, administer or dispose of the property subject to the terms, if any, on which the gift or bequest was made; and
 - **(h)** undertake any other activities that it considers conducive to the furtherance of its mandate and the exercise of its powers.
-> 2019, c. 10, s. 19; 2019, c. 10, s. 205(E).
+> 2019, c. 10, s. 192019, c. 10, s. 205(E)
 
 
 
@@ -791,7 +791,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(2)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the Canada Gazette and the reasons for the making of the order must be made available to the public.
+- **(2)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and the reasons for the making of the order must be made available to the public.
 
 
 
@@ -919,7 +919,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the Canada Gazette and the reasons for the making of the order must be made available to the public.
+- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and the reasons for the making of the order must be made available to the public.
 
 
 
@@ -1075,7 +1075,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(2)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the Canada Gazette and the reasons for the making of the order must be made available to the public.
+- **(2)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and the reasons for the making of the order must be made available to the public.
 
 
 
@@ -1203,7 +1203,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the Canada Gazette and the reasons for the making of the order must be made available to the public.
+- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and the reasons for the making of the order must be made available to the public.
 
 
 
@@ -1361,7 +1361,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(2)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the Canada Gazette and the reasons for the making of the order must be made available to the public.
+- **(2)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and the reasons for the making of the order must be made available to the public.
 
 
 
@@ -1492,7 +1492,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the Canada Gazette and the reasons for the making of the order must be made available to the public.
+- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and the reasons for the making of the order must be made available to the public.
 
 
 
@@ -1624,7 +1624,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the Canada Gazette and the reasons for the making of the order must be made available to the public.
+- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and the reasons for the making of the order must be made available to the public.
 
 
 
@@ -2500,7 +2500,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under paragraph (1)(a), but the order must be published in the Canada Gazette and the reasons for the making of the order must be made available to the public.
+- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under paragraph (1)(a), but the order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and the reasons for the making of the order must be made available to the public.
 
 
 
@@ -2922,7 +2922,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> R.S., c. C-22.
+> R.S., c. C-22
 **
 
 ### [Canadian Radio-television and Telecommunications Commission Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-22.md)
@@ -2934,7 +2934,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> R.S., c. H-6.
+> R.S., c. H-6
 **
 
 ### [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md)
@@ -2966,7 +2966,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> R.S., c. 33 (2nd Supp.).
+> R.S., c. 33 (2nd Supp.)
 **
 
 ### [Parliamentary Employment and Staff Relations Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2033%20(2nd%20Supp.).md)
@@ -3002,7 +3002,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> 1991, c. 11.
+> 1991, c. 11
 **
 
 ### [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md)
@@ -3014,7 +3014,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> 1993, c. 38.
+> 1993, c. 38
 **
 
 ### [Telecommunications Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2038.md)
@@ -3038,7 +3038,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> 1996, c. 10.
+> 1996, c. 10
 **
 
 ### [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md)
@@ -3118,7 +3118,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> 2003, c. 22, s. 2; 2017 c. 9, s. 2.
+> 2003, c. 22, s. 2; 2017 c. 9, s. 2
 **
 
 ### [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md)
@@ -3166,7 +3166,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> 2003, c. 22, ss. 12 and 13.
+> 2003, c. 22, ss. 12 and 13
 **
 
 ### [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)
@@ -3207,7 +3207,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> R.S., c. A-1.
+> R.S., c. A-1
 **
 
 #### [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md)
@@ -3219,7 +3219,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> R.S., c. F-11.
+> R.S., c. F-11
 **
 
 #### [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)
@@ -3239,7 +3239,7 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 
 **
-> R.S., c. P-21.
+> R.S., c. P-21
 **
 
 #### [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md)
@@ -3267,6 +3267,6 @@ The order ceases to have effect on the earlier of the end of the period of three
 
 <sup><a href='#fn_2019-c10_E_transform_hq_25493'>[*]</a></sup>**206** The provisions of this Act, other than section 205, come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c10_E_transform_hq_25493'><sup>*</sup></a>: [Note: Act, other than section 205, not in force.]<br />
+<a name='fn_2019-c10_E_transform_hq_25493'><sup>*</sup></a>: [Note: Act, other than section 205, in force July 11, 2019, *see* SI/2019-55.]<br />
 
 
