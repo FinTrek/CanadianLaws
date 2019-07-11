@@ -320,7 +320,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** employer, au cours de l’exercice où elle les reçoit ou de l’exercice subséquent, les recettes provenant de ses activités;
 - **g)** acquérir, par don ou legs, des meubles et des biens personnels, notamment sous forme d’argent ou de valeurs, et les employer, les gérer ou en disposer, sous réserve des conditions éventuelles dont ces libéralités sont assorties;
 - **h)** effectuer toute autre activité qu’elle estime utile à la réalisation de sa mission et à l’exercice de ses attributions.
-> 2019, ch. 10, art. 19; 2019, ch. 10, art. 205(A).
+> 2019, ch. 10, art. 192019, ch. 10, art. 205(A)
 
 
 
@@ -514,7 +514,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoir de nomination**
 
-**33** Le personnel nécessaire à l’exécution des travaux de l’organisation de normalisation est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+**33** Le personnel nécessaire à l’exécution des travaux de l’organisation de normalisation est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 
 
@@ -793,7 +793,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(2)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’ordonnance prise en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’ordonnance est toutefois publiée dans la Gazette du Canada et les motifs de sa prise sont rendus publics.
+- **(2)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’ordonnance prise en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’ordonnance est toutefois publiée dans la [Gazette du Canada](http://www.gazette.gc.ca/) et les motifs de sa prise sont rendus publics.
 
 
 
@@ -921,7 +921,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la Gazette du Canada et les motifs de sa prise sont rendus publics.
+- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) et les motifs de sa prise sont rendus publics.
 
 
 
@@ -1077,7 +1077,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(2)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’ordonnance prise en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’ordonnance est toutefois publiée dans la Gazette du Canada et les motifs de sa prise sont rendus publics.
+- **(2)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’ordonnance prise en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’ordonnance est toutefois publiée dans la [Gazette du Canada](http://www.gazette.gc.ca/) et les motifs de sa prise sont rendus publics.
 
 
 
@@ -1205,7 +1205,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la Gazette du Canada et les motifs de sa prise sont rendus publics.
+- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) et les motifs de sa prise sont rendus publics.
 
 
 
@@ -1363,7 +1363,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(2)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la Gazette du Canada et les motifs de sa prise sont rendus publics.
+- **(2)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) et les motifs de sa prise sont rendus publics.
 
 
 
@@ -1494,7 +1494,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la Gazette du Canada et les motifs de sa prise sont rendus publics.
+- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) et les motifs de sa prise sont rendus publics.
 
 
 
@@ -1626,7 +1626,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la Gazette du Canada et les motifs de sa prise sont rendus publics.
+- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu du paragraphe (1) à l’égard d’une entité réglementée. L’arrêté est toutefois publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) et les motifs de sa prise sont rendus publics.
 
 
 
@@ -2029,9 +2029,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le fonctionnaire, au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), qui est un membre de la GRC ne peut déposer une plainte relative à la contravention à une disposition des règlements pris en vertu du paragraphe 117(1) s’il a le droit de présenter un grief individuel au titre de l’article 238.24 de cette loi à l’égard de cette contravention, compte non tenu du paragraphe 208(2) de la même loi.
 
-**Exception : [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
+**Exception : [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md)**
 
-- **(4)** Un individu ne peut déposer une plainte relative à la contravention à une disposition des règlements pris en vertu du paragraphe 117(1) s’il a le droit de présenter une plainte à l’égard de cette contravention en vertu des articles 65 ou 77 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **(4)** Un individu ne peut déposer une plainte relative à la contravention à une disposition des règlements pris en vertu du paragraphe 117(1) s’il a le droit de présenter une plainte à l’égard de cette contravention en vertu des articles 65 ou 77 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 **Avis**
 
@@ -2491,7 +2491,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu de l’alinéa (1)a). L’arrêté est toutefois publié dans la Gazette du Canada et les motifs de sa prise sont rendus publics.
+- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté pris en vertu de l’alinéa (1)a). L’arrêté est toutefois publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) et les motifs de sa prise sont rendus publics.
 
 
 
@@ -2913,7 +2913,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> L.R., ch. C-22.
+> L.R., ch. C-22
 **
 
 ### [Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-22.md)
@@ -2925,7 +2925,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> L.R., ch. H-6.
+> L.R., ch. H-6
 **
 
 ### [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md)
@@ -2957,7 +2957,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> L.R., ch. 33 (2<sup>e</sup> suppl.).
+> L.R., ch. 33 (2<sup>e</sup> suppl.)
 **
 
 ### [Loi sur les relations de travail au Parlement](/fr/Lois/Lois%20du%20Canada/1985/ch.%2033%20(2e%20suppl.).md)
@@ -2993,7 +2993,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> 1991, ch. 11.
+> 1991, ch. 11
 **
 
 ### [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md)
@@ -3005,7 +3005,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> 1993, ch. 38.
+> 1993, ch. 38
 **
 
 ### [Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/1993/ch.%2038.md)
@@ -3029,7 +3029,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> 1996, ch. 10.
+> 1996, ch. 10
 **
 
 ### [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md)
@@ -3109,7 +3109,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> 2003, ch. 22, art. 2; 2017, ch. 9, art. 2.
+> 2003, ch. 22, art. 2; 2017, ch. 9, art. 2
 **
 
 ### [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md)
@@ -3157,10 +3157,10 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> 2003, ch. 22, art. 12 et 13.
+> 2003, ch. 22, art. 12 et 13
 **
 
-### [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)
+### [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md)
 
 
 **194** [Modifications]
@@ -3198,7 +3198,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> L.R., ch. A-1.
+> L.R., ch. A-1
 **
 
 #### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
@@ -3210,7 +3210,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> L.R., ch. F-11.
+> L.R., ch. F-11
 **
 
 #### [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)
@@ -3230,7 +3230,7 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 
 **
-> L.R., ch. P-21.
+> L.R., ch. P-21
 **
 
 #### [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)
@@ -3258,6 +3258,6 @@ L’arrêté cesse d’avoir effet à la date d’expiration de la période de t
 
 <sup><a href='#nbp_2019-c10_F_transform_hq_24163'>[*]</a></sup>**206** Les dispositions de la présente loi, à l’exception de l’article 205, entrent en vigueur à la date fixée par décret.
 
-<a name='nbp_2019-c10_F_transform_hq_24163'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 205, non en vigueur.]<br />
+<a name='nbp_2019-c10_F_transform_hq_24163'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 205, en vigueur le 11 juillet 2019, *voir* TR/2019-55.]<br />
 
 
