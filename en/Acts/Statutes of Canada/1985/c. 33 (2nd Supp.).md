@@ -39,6 +39,15 @@ and, except as provided in this Act, nothing in any other Act of Parliament that
 
 
 
+**[Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md)**
+
+**2.1** For greater certainty, a person who is referred to in section 2 and who is not entitled to present a grievance under section 62 may file a complaint under subsection 94(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) with respect to a contravention of an applicable provision of regulations made under subsection 117(1) of that Act if the person has suffered physical or psychological harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — that contravention.
+> 2019, c. 10, s. 154
+
+
+
+
+
 **PART I** 
 ## Staff Relations
 
@@ -1138,8 +1147,9 @@ the employee is entitled, subject to subsection (2), to present the grievance at
 	- **(b)** disciplinary action against the employee resulting in suspension or a financial penalty,
 	- **(c)** the termination of employment of the employee, other than rejection on probation in respect of an initial appointment,
 	- **(d)** demotion of the employee,
-	- **(e)** where the employee has been denied an appointment, the employer’s evaluation of the skill, fitness and ability of the employee with respect to the employee’s qualification for the appointment, or
-	- **(f)** subject to subsection 5(3), the employer’s classification of the employee,
+	- **(e)** where the employee has been denied an appointment, the employer’s evaluation of the skill, fitness and ability of the employee with respect to the employee’s qualification for the appointment,
+	- **(f)** subject to subsection 5(3), the employer’s classification of the employee, or
+	- **(g)** the contravention by the employer of any applicable provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), if the employee has suffered physical or psychological harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — the contravention,
 and the grievance has not been dealt with to the satisfaction of the employee, the employee may refer the grievance to adjudication.
 
 **Approval of bargaining agent**
@@ -1149,6 +1159,23 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **Commencement of certain grievance adjudication**
 
 - **(3)** A grievance with respect to a matter referred to in paragraph (1)(f) shall not be adjudicated under this Part unless the circumstances that cause the grievance are in existence after the day that is one year after this Part comes into force.
+> R.S., 1985, c. 33 (2nd Supp.), s. 632019, c. 10, s. 155
+
+
+
+
+
+**Notice to Accessibility Commissioner**
+
+**63.1** 
+
+- **(1)** When a grievance has been referred to adjudication and a party to the grievance raises an issue involving the contravention of any provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), that party must, in accordance with the regulations, give notice of the issue to the Accessibility Commissioner, as defined in section 2 of that Act.
+
+**Submissions of Accessibility Commissioner**
+
+- **(2)** If the Accessibility Commissioner is notified of an issue under subsection (1), he or she may make submissions during the adjudication with respect to that issue.
+> 2019, c. 10, s. 156
+
 
 
 
@@ -1213,7 +1240,11 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 - **(4)** A person selected to adjudicate a grievance respecting a matter referred to in paragraph 63(1)(d), (e) or (f)
 	- **(a)** shall not be a member of the Board but has, for the purposes of the adjudication, all the powers, rights and privileges of the Board other than the power to make regulations under section 12 of this Act or section 36 of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md); and
 	- **(b)** shall not have any direct interest in or in connection with the grievance, its handling or its disposition.
-> R.S., 1985, c. 33 (2nd Supp.), s. 66; 2003, c. 22, s. 187(E); 2013, c. 40, s. 432; 2017, c. 9, s. 56
+
+**Adjudication by members**
+
+- **(5)** Despite section 65 and subsections (1) and (2), only members of the Board may adjudicate grievances respecting a matter referred to in paragraph 63(1)(g).
+> R.S., 1985, c. 33 (2nd Supp.), s. 66; 2003, c. 22, s. 187(E); 2013, c. 40, s. 432; 2017, c. 9, s. 562019, c. 10, s. 157
 
 
 
@@ -1221,8 +1252,8 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 **Powers of adjudicator**
 
-**66.1** An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in paragraph 63(1)(a), (b) or (c) that is referred to adjudication, the powers that the Board has under paragraph 15(d) of this Act and paragraphs 20(a) and (d) to (f) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md), in relation to the hearing or determination of a proceeding before it.
-> 1992, c. 1, s. 111; 2013, c. 40, s. 433; 2017, c. 9, s. 56
+**66.1** An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in any of paragraphs 63(1)(a) to (c) and (g) that is referred to adjudication, the powers that the Board has under paragraph 15(d) of this Act and paragraphs 20(a) and (d) to (f) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md), in relation to the hearing or determination of a proceeding before it.
+> 1992, c. 1, s. 111; 2013, c. 40, s. 433; 2017, c. 9, s. 562019, c. 10, s. 158
 
 
 
@@ -1245,6 +1276,17 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **Binding effect**
 
 - **(3)** Where a grievance has been presented up to and including the final level in the grievance process and is not one that under section 63 may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Part and no further action under this Part may be taken thereon.
+
+
+
+
+**[Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md)**
+
+**67.1** An adjudicator may, in relation to the adjudication of a grievance respecting a matter referred to in paragraph 63(1)(g),
+- **(a)** interpret and apply the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md); and
+- **(b)** give relief in accordance with section 102 of that Act.
+> 2019, c. 10, s. 159
+
 
 
 
@@ -1361,6 +1403,7 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 - **(3)** The Board may make regulations in relation to the adjudication of grievances, including regulations respecting
 	- **(a)** the manner in which and the time within which a grievance may be referred to adjudication after it has been presented up to and including the final level in the grievance process;
+	- **(a.1)** the manner of giving notice of an issue to the Accessibility Commissioner under section 63.1;
 	- **(b)** the manner in which and the time within which boards of adjudication are to be established;
 	- **(c)** the procedure to be followed by adjudicators; and
 	- **(d)** the form of decisions rendered by adjudicators.
@@ -1368,6 +1411,8 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **Employer to designate persons at final or any level**
 
 - **(4)** For the purposes of any provision of this Part respecting grievances, an employer shall designate the person whose decision on a grievance constitutes the final or any level in the grievance process and the employer shall, in any case of doubt, by notice in writing advise any person wishing to present a grievance, or the Board, of the person whose decision thereon constitutes the final or any level in the process.
+> R.S., 1985, c. 33 (2nd Supp.), s. 712019, c. 10, s. 160
+
 
 
 
