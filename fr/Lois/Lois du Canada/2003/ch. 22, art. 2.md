@@ -47,7 +47,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titre abrégé**
 
 **1** Loi sur les relations de travail dans le secteur public fédéral.
-> 2003, ch. 22, art. 2 « 1 »; 2017, ch. 9, art. 2.
+> 2003, ch. 22, art. 2 « 1 »; 2017, ch. 9, art. 2
 
 
 
@@ -147,7 +147,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Emploi à titre occasionnel**
 
-- **(4)** Pour l’application de l’alinéa f) de la définition de fonctionnaire au paragraphe (1) et de l’alinéa e) de la définition de ce terme au paragraphe 206(1), la personne employée dans la partie de la fonction publique dans laquelle les nominations relèvent exclusivement de la Commission de la fonction publique est une personne employée à titre occasionnel si elle a été nommée en vertu de l’article 50 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **(4)** Pour l’application de l’alinéa f) de la définition de fonctionnaire au paragraphe (1) et de l’alinéa e) de la définition de ce terme au paragraphe 206(1), la personne employée dans la partie de la fonction publique dans laquelle les nominations relèvent exclusivement de la Commission de la fonction publique est une personne employée à titre occasionnel si elle a été nommée en vertu de l’article 50 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 **Mention des titulaires des postes**
 
@@ -156,7 +156,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mention d’organisation syndicale**
 
 - **(6)** Sauf indication contraire du contexte, la mention de organisation syndicale vaut mention de regroupement d’organisations syndicales et la mention de organisation syndicale visée à l’alinéa a) ou b), selon le cas, de la définition de ce terme au paragraphe 2(1) vaut mention d’un regroupement résultant de l’union de plusieurs organisations syndicales au sens de cet alinéa.
-> 2003, ch. 22, art. 2 « 2 » et 243; 2013, ch. 40, art. 366; 2014, ch. 20, art. 472 et 481; 2017, ch. 9, art. 3 et 56.
+> 2003, ch. 22, art. 2 « 2 » et 243; 2013, ch. 40, art. 366; 2014, ch. 20, art. 472 et 481; 2017, ch. 9, art. 3 et 56
 
 
 
@@ -204,7 +204,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Pour l’application de l’alinéa a) de la définition de entente sur les services essentiels, au paragraphe (1), un poste est notamment nécessaire pour permettre à l’employeur de fournir les services essentiels si son titulaire est tenu :
 	- **a)** soit d’accomplir des fonctions qui sont liées à la fourniture de services essentiels;
 	- **b)** soit d’être disponible, pendant ses heures libres, si l’employeur lui demande de se présenter au travail sans délai pour accomplir ces fonctions.
-> 2003, ch. 22, art. 2 « 4 »; 2013, ch. 40, art. 294; 2017, ch. 9, art. 4; 2018, ch. 24, art. 1.
+> 2003, ch. 22, art. 2 « 4 »; 2013, ch. 40, art. 294; 2017, ch. 9, art. 4; 2018, ch. 24, art. 1
 
 
 
@@ -244,7 +244,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien du droit du commissaire de la Gendarmerie royale du Canada**
 
 **7.1** La présente loi n’a pas pour effet de porter atteinte au droit ou à l’autorité du commissaire de la Gendarmerie royale du Canada qui lui sont conférés sous le régime de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) afin d’assurer des opérations policières efficaces.
-> 2017, ch. 9, art. 4.1.
+> 2017, ch. 9, art. 4.1
 
 
 
@@ -287,7 +287,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Installations et soutien administratif**
 
 - **(2)** L’administrateur en chef du Service canadien d’appui aux tribunaux administratifs fournit des installations et des services de soutien administratif au Conseil national mixte.
-> 2003, ch. 22, art. 2 « 11 »; 2014, ch. 20, art. 481.
+> 2003, ch. 22, art. 2 « 11 »; 2014, ch. 20, art. 481
 
 
 
@@ -301,7 +301,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Attributions de la Commission**
 
 **12** La Commission met en oeuvre la présente loi et exerce les attributions que celle-ci lui confère ou qu’implique la réalisation de ses objets, notamment en rendant des ordonnances qui en exigent l’observation, celle des règlements pris sous son régime ou des décisions qu’elle rend sur les questions dont elle est saisie.
-> 2003, ch. 22, art. 2 « 12 »; 2013, ch. 40, art. 367.
+> 2003, ch. 22, art. 2 « 12 »; 2013, ch. 40, art. 367
 
 
 
@@ -310,7 +310,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Services d’arbitrage**
 
 **13** La Commission offre des services d’arbitrage comprenant l’audition des demandes et des plaintes au titre de la présente partie et de la section 1 de la partie 2.1, le renvoi des griefs à l’arbitrage au titre de la partie 2 et de la section 2 de la partie 2.1 ainsi que l’instruction des affaires dont elle est saisie au titre de la partie 3.
-> 2003, ch. 22, art. 2 « 13 »; 2013, ch. 40, art. 295 et 367; 2017, ch. 9, art. 5.
+> 2003, ch. 22, art. 2 « 13 »; 2013, ch. 40, art. 295 et 367; 2017, ch. 9, art. 5
 
 
 
@@ -323,7 +323,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** l’appui apporté aux parties dans le cadre de la gestion des relations qui découlent de leur mise en oeuvre;
 - **c)** la médiation relative aux griefs;
 - **d)** l’appui apporté au président dans le cadre de l’exercice des fonctions que lui confère la présente loi.
-> 2003, ch. 22, art. 2 « 14 »; 2013, ch. 40, art. 367.
+> 2003, ch. 22, art. 2 « 14 »; 2013, ch. 40, art. 367
 
 
 
@@ -342,7 +342,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans des locaux ou sur des terrains de l’employeur où des fonctionnaires exécutent ou ont exécuté un travail, procéder à l’examen de tout ouvrage, matériau, outillage, appareil ou objet s’y trouvant, ainsi qu’à celui du travail effectué dans ces lieux, et obliger quiconque à répondre aux questions qu’elle lui pose relativement à l’affaire dont elle est saisie;
 - **e)** sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans les locaux ou sur des terrains de l’employeur pour y tenir des scrutins de représentation pendant les heures de travail;
 - **f)** déléguer à quiconque les pouvoirs qu’elle détient en vertu des alinéas a) à e) et exiger éventuellement un rapport sur l’exercice de ces pouvoirs.
-> 2003, ch. 22, art. 2 « 16 »; 2013, ch. 40, art. 296 et 367.
+> 2003, ch. 22, art. 2 « 16 »; 2013, ch. 40, art. 296 et 367
 
 
 
@@ -453,7 +453,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** la preuve de l’opposition des fonctionnaires à l’accréditation d’une organisation syndicale,
 	- **(iii)** la preuve de l’expression de la volonté de ces fonctionnaires de ne plus être représentés par une organisation syndicale;
 - **m)** toute mesure utile ou connexe à la réalisation des objets de la présente partie ou de la section 1 de la partie 2.1.
-> 2003, ch. 22, art. 2 « 39 »; 2013, ch. 40, art. 297 et 368; 2017, ch. 9, art. 6; 2018, ch. 24, art. 2.
+> 2003, ch. 22, art. 2 « 39 »; 2013, ch. 40, art. 297 et 368; 2017, ch. 9, art. 6; 2018, ch. 24, art. 2
 
 
 
@@ -543,7 +543,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit de demander l’accréditation**
 
 **54** Sous réserve de l’article 55, toute organisation syndicale, au sens de l’alinéa a) de la définition de ce terme au paragraphe 2(1), peut solliciter son accréditation comme agent négociateur pour un groupe de fonctionnaires qui, selon elle, constitue une unité habile à négocier collectivement. Elle doit alors faire la demande à la Commission en conformité avec les règlements et celle-ci avise l’employeur de la demande sans délai.
-> 2003, ch. 22, art. 2 « 54 »; 2017, ch. 9, art. 7.
+> 2003, ch. 22, art. 2 « 54 »; 2017, ch. 9, art. 7
 
 
 
@@ -576,7 +576,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **56** Après notification d’une demande d’accréditation faite en conformité avec la présente partie ou la section 1 de la partie 2.1, l’employeur ne peut modifier les conditions d’emploi applicables aux fonctionnaires de l’unité de négociation proposée et pouvant figurer dans une convention collective, sauf si les modifications se font conformément à une convention collective ou sont approuvées par la Commission. Cette interdiction s’applique, selon le cas :
 - **a)** jusqu’au retrait de la demande par l’organisation syndicale ou au rejet de celle-ci par la Commission;
 - **b)** jusqu’à l’expiration du délai de trente jours suivant la date d’accréditation de l’organisation syndicale.
-> 2003, ch. 22, art. 2 « 56 »; 2017, ch. 9, art. 8.
+> 2003, ch. 22, art. 2 « 56 »; 2017, ch. 9, art. 8
 
 
 
@@ -635,7 +635,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contenu de la demande**
 
 - **(2)** La demande de l’employeur mentionne tous les postes qu’il considère comme des postes visés à l’un ou l’autre des alinéas (1)a) à h).
-> 2003, ch. 22, art. 2 « 59 » et 275; 2017, ch. 9, art. 9.
+> 2003, ch. 22, art. 2 « 59 » et 275; 2017, ch. 9, art. 9
 
 
 
@@ -701,7 +701,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Adhésion à un regroupement d’organisations syndicales**
 
 - **(3)** Pour l’application de l’alinéa (1)a), l’adhésion à une organisation syndicale membre d’un regroupement d’organisations syndicales vaut adhésion au regroupement.
-> 2003, ch. 22, art. 2 « 64 »; 2014, ch. 40, art. 9; 2017, ch. 9, art. 10 et 70, ch. 12, art. 8.
+> 2003, ch. 22, art. 2 « 64 »; 2014, ch. 40, art. 9; 2017, ch. 9, art. 10 et 70, ch. 12, art. 8
 
 
 
@@ -718,7 +718,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** La Commission doit, lorsqu’elle ordonne la tenue d’un scrutin de représentation, prendre les dispositions suivantes :
 	- **a)** elle précise quels sont les fonctionnaires qui ont le droit de voter;
 	- **b)** elle prend les mesures et donne les instructions qui lui semblent nécessaires en vue de la régularité du scrutin de représentation, notamment en ce qui concerne la préparation des bulletins de vote, les modes de scrutin et de dépouillement, et la garde et le scellage des urnes.
-> 2003, ch. 22, art. 2 « 65 »; 2014, ch. 40, art. 10; 2017, ch. 12, art. 9.
+> 2003, ch. 22, art. 2 « 65 »; 2014, ch. 40, art. 10; 2017, ch. 12, art. 9
 
 
 
@@ -753,7 +753,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** substitution de l’organisation syndicale — en qualité de partie à toute convention collective ou décision arbitrale s’appliquant à des fonctionnaires de l’unité de négociation, mais à l’égard de ces fonctionnaires seulement — à l’agent négociateur nommément désigné dans la convention collective ou à tout successeur de celui-ci;
 - **d)** assimilation de l’organisation syndicale à l’agent négociateur, pour l’application de l’article 107;
 - **e)** substitution de l’organisation syndicale — en qualité de partie à toute entente sur les services essentiels en vigueur — à l’agent négociateur nommément désigné dans l’entente ou à tout successeur de celui-ci.
-> 2003, ch. 22, art. 2 « 67 »; 2013, ch. 40, art. 299; 2018, ch. 24, art. 3.
+> 2003, ch. 22, art. 2 « 67 »; 2013, ch. 40, art. 299; 2018, ch. 24, art. 3
 
 
 
@@ -794,7 +794,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réserve**
 
 - **(3)** Malgré le paragraphe (1), la Commission ne peut réviser la structure de l’unité de négociation définie à l’article 238.14.
-> 2003, ch. 22, art. 2 « 70 »; 2017, ch. 9, art. 11.
+> 2003, ch. 22, art. 2 « 70 »; 2017, ch. 9, art. 11
 
 
 
@@ -915,7 +915,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enquêtes et scrutin**
 
 - **(3)** La Commission peut, avant de rendre sa décision, faire des enquêtes et ordonner la tenue d’un scrutin de représentation parmi les fonctionnaires concernés. Le paragraphe 65(2) s’applique à la tenue du scrutin.
-> 2003, ch. 22, art. 2 « 79 »; 2013, ch. 40, art. 300; 2017, ch. 9, art. 12; 2018, ch. 24, art. 4.
+> 2003, ch. 22, art. 2 « 79 »; 2013, ch. 40, art. 300; 2017, ch. 9, art. 12; 2018, ch. 24, art. 4
 
 
 
@@ -1075,7 +1075,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dates de présentation de la demande**
 
 - **(2)** La demande ne peut être présentée qu’au cours de la période pendant laquelle il est permis, aux termes de l’article 55, de solliciter l’accréditation à l’égard des fonctionnaires de l’unité de négociation.
-> 2003, ch. 22, art. 2 « 94 »; 2014, ch. 40, art. 11; 2017, ch. 12, art. 10.
+> 2003, ch. 22, art. 2 « 94 »; 2014, ch. 40, art. 11; 2017, ch. 12, art. 10
 
 
 
@@ -1084,7 +1084,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Tenue d’un scrutin de représentation**
 
 **95** Saisie de la demande, la Commission peut, en prenant les dispositions prévues au paragraphe 65(2), ordonner la tenue d’un scrutin de représentation, afin d’établir si la majorité des fonctionnaires de l’unité de négociation ne souhaitent plus être représentés par l’organisation syndicale qui en est l’agent négociateur.
-> 2003, ch. 22, art. 2 « 95 »; 2014, ch. 40, art. 12; 2017, ch. 12, art. 11.
+> 2003, ch. 22, art. 2 « 95 »; 2014, ch. 40, art. 12; 2017, ch. 12, art. 11
 
 
 
@@ -1093,7 +1093,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation de l’accréditation**
 
 **96** Si, après audition de la demande, la Commission est convaincue du bien-fondé de celle-ci, elle révoque l’accréditation de l’organisation syndicale en cause.
-> 2003, ch. 22, art. 2 « 96 »; 2014, ch. 40, art. 12; 2017, ch. 12, art. 11.
+> 2003, ch. 22, art. 2 « 96 »; 2014, ch. 40, art. 12; 2017, ch. 12, art. 11
 
 
 
@@ -1131,7 +1131,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Circonstances additionnelles**
 
 - **(2)** Les circonstances de révocation prévues aux articles 94 à 99 et 238.17 s’appliquent aussi dans le cas d’un regroupement d’organisations syndicales.
-> 2003, ch. 22, art. 2 « 100 »; 2017, ch. 9, art. 13.
+> 2003, ch. 22, art. 2 « 100 »; 2017, ch. 9, art. 13
 
 
 
@@ -1149,7 +1149,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détermination des droits de l’agent négociateur**
 
 - **(2)** Sur demande de l’une ou l’autre des organisations syndicales en cause, la Commission tranche toute question relative aux droits et obligations de l’agent négociateur dont elle vient de révoquer l’accréditation au titre de l’article 96, de l’un des articles 98 à 100 ou de l’article 238.17 ou, le cas échéant, de l’organisation syndicale substituée à l’agent négociateur en vertu de l’alinéa 67c).
-> 2003, ch. 22, art. 2 « 101 »; 2013, ch. 40, art. 301; 2017, ch. 9, art. 14; 2018, ch. 24, art. 5.
+> 2003, ch. 22, art. 2 « 101 »; 2013, ch. 40, art. 301; 2017, ch. 9, art. 14; 2018, ch. 24, art. 5
 
 
 
@@ -1180,7 +1180,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Durée d’application du mode de règlement des différends**
 
 - **(3)** Le mode de règlement des différends enregistré par la Commission vaut, jusqu’à sa modification au titre de l’article 104, pour l’unité de négociation concernée à compter du jour où l’avis de négocier collectivement est donné pour la première fois après le choix du mode par l’agent négociateur.
-> 2003, ch. 22, art. 2 « 103 »; 2013, ch. 40, art. 302; 2018, ch. 24, art. 6.
+> 2003, ch. 22, art. 2 « 103 »; 2013, ch. 40, art. 302; 2018, ch. 24, art. 6
 
 
 
@@ -1199,7 +1199,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Date d’application et durée**
 
 - **(3)** La modification prend effet à la date du premier avis de négocier collectivement qui suit son enregistrement; elle reste en vigueur jusqu’à la modification du mode de règlement des différends conformément au présent article.
-> 2003, ch. 22, art. 2 « 104 »; 2013, ch. 40, art. 302; 2018, ch. 24, art. 6.
+> 2003, ch. 22, art. 2 « 104 »; 2013, ch. 40, art. 302; 2018, ch. 24, art. 6
 
 
 
@@ -1235,7 +1235,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copie à la Commission**
 
 - **(3)** Copie de l’avis est adressée à la Commission par la partie qui a donné l’avis.
-> 2003, ch. 22, art. 2 « 105 »; 2013, ch. 40, art. 303; 2018, ch. 24, art. 7.
+> 2003, ch. 22, art. 2 « 105 »; 2013, ch. 40, art. 303; 2018, ch. 24, art. 7
 
 
 
@@ -1259,7 +1259,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **107** Une fois l’avis de négocier collectivement donné, sauf entente à l’effet contraire entre les parties aux négociations et sous réserve de l’article 132, les parties, y compris les fonctionnaires de l’unité de négociation, sont tenues de respecter chaque condition d’emploi qui peut figurer dans une convention collective et qui est encore en vigueur au moment où l’avis de négocier a été donné, et ce, jusqu’à la conclusion d’une convention collective comportant cette condition ou :
 - **a)** dans le cas où le mode de règlement des différends est l’arbitrage, jusqu’à ce que la décision arbitrale soit rendue;
 - **b)** dans le cas où le mode de règlement des différends est le renvoi à la conciliation, jusqu’à ce qu’une grève puisse être déclarée ou autorisée, le cas échéant, sans qu’il y ait contravention au paragraphe 194(1).
-> 2003, ch. 22, art. 2 « 107 »; 2013, ch. 40, art. 304; 2018, ch. 24, art. 8.
+> 2003, ch. 22, art. 2 « 107 »; 2013, ch. 40, art. 304; 2018, ch. 24, art. 8
 
 
 
@@ -1352,8 +1352,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **113** La convention collective qui régit une unité de négociation qui n’est pas définie à l’article 238.14 ne peut pas avoir pour effet direct ou indirect de modifier, de supprimer ou d’établir :
 - **a)** une condition d’emploi de manière que cela nécessiterait l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
-- **b)** une condition d’emploi qui a été ou pourrait être établie sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md).
-> 2003, ch. 22, art. 2 « 113 »; 2017, ch. 9, art. 15.
+- **b)** une condition d’emploi qui a été ou pourrait être établie sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md).
+> 2003, ch. 22, art. 2 « 113 »; 2017, ch. 9, art. 15
 
 
 
@@ -1366,7 +1366,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Caractère obligatoire de la convention**
 
 **114** Pour l’application de la présente partie et de la section 1 de la partie 2.1 et sous réserve des autres dispositions de la présente partie et de cette section, la convention collective lie l’employeur, l’agent négociateur et les fonctionnaires de l’unité de négociation à compter de la date de son entrée en vigueur. Elle lie aussi, à compter de cette date, tout administrateur général responsable d’un secteur de l’administration publique fédérale dont font partie des fonctionnaires de l’unité de négociation, dans la mesure où elle porte sur des questions prévues à l’article 12 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 2003, ch. 22, art. 2 « 114 »; 2017, ch. 9, art. 16.
+> 2003, ch. 22, art. 2 « 114 »; 2017, ch. 9, art. 16
 
 
 
@@ -1416,7 +1416,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 **119** La présente section s’applique à l’employeur et à l’agent négociateur représentant une unité de négociation dans le cas où le mode de règlement des différends applicable à celle-ci est la conciliation.
-> 2003, ch. 22, art. 2 « 119 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 119 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1425,7 +1425,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Niveau de services par l’employeur**
 
 **120** L’employeur a le droit exclusif de fixer le niveau auquel un service essentiel doit être fourni à tout ou partie du public, notamment dans quelle mesure et selon quelle fréquence il doit être fourni. Aucune disposition de la présente section ne peut être interprétée de façon à porter atteinte à ce droit.
-> 2003, ch. 22, art. 2 « 120 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 120 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1442,7 +1442,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Pour l’application du paragraphe (1), le nombre de fonctionnaires de l’unité de négociation nécessaires à la fourniture d’un service essentiel est calculé :
 	- **a)** compte non tenu de la disponibilité d’autres personnes pour fournir ce service essentiel durant une grève;
 	- **b)** compte tenu du fait que l’employeur n’est pas obligé de changer le cours normal de ses opérations afin de fournir ce service essentiel pendant une grève, notamment en ce qui concerne les heures normales de travail, la mesure dans laquelle l’employeur a recours aux heures supplémentaires et le matériel que celui-ci utilise dans le cadre de ses opérations.
-> 2003, ch. 22, art. 2 « 121 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 121 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1457,7 +1457,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai**
 
 - **(2)** L’avis est donné au plus tard vingt jours après la date à laquelle un avis de négociation collective est donné.
-> 2003, ch. 22, art. 2 « 122 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 122 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1498,7 +1498,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Demande relative à un poste**
 
 - **(7)** Si la demande porte sur un poste en particulier à nommer dans l’entente, la proposition de l’employeur à cet égard l’emporte, sauf si la Commission décide que le poste en question n’est pas du type de ceux qui sont nécessaires pour permettre à l’employeur de fournir les services essentiels.
-> 2003, ch. 22, art. 2 « 123 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 123 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1507,7 +1507,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entrée en vigueur de l’entente**
 
 **124** L’entente sur les services essentiels entre en vigueur à la date de sa signature par les parties ou, dans le cas où elle est réputée avoir été conclue en vertu d’une ordonnance prise au titre de l’alinéa 123(3)b), à la date de celle-ci.
-> 2003, ch. 22, art. 2 « 124 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 124 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1516,7 +1516,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Durée de l’entente**
 
 **125** L’entente sur les services essentiels demeure en vigueur jusqu’à ce que les parties décident conjointement qu’aucun des fonctionnaires de l’unité de négociation n’occupe un poste nécessaire pour permettre à l’employeur de fournir de tels services.
-> 2003, ch. 22, art. 2 « 125 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 125 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1531,7 +1531,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai**
 
 - **(2)** L’avis est donné au cours de la période de validité d’une convention collective entre les parties ou d’une décision arbitrale ou, si un avis de négociation collective en vue du renouvellement ou de la révision de la convention collective est donné, dans les soixante jours suivant celui-ci.
-> 2003, ch. 22, art. 2 « 126 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 126 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1570,7 +1570,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Demande relative à un poste**
 
 - **(7)** Si la demande porte sur un poste en particulier à nommer dans l’entente, la proposition de l’employeur à cet égard l’emporte, sauf si la Commission décide que le poste en question n’est pas du type de ceux qui sont nécessaires pour permettre à l’employeur de fournir les services essentiels.
-> 2003, ch. 22, art. 2 « 127 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 127 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1579,7 +1579,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entrée en vigueur de la modification**
 
 **128** La modification de l’entente sur les services essentiels entre en vigueur à la date de la signature par les parties de l’entente la comportant ou, dans le cas où elle est faite par une ordonnance prise au titre du paragraphe 127(3), à la date de celle-ci.
-> 2003, ch. 22, art. 2 « 128 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 128 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1594,7 +1594,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet de l’avis**
 
 - **(2)** Une fois l’avis donné, le nouveau poste est réputé être nommé dans l’entente et celui qu’il remplace ne plus l’y être.
-> 2003, ch. 22, art. 2 « 129 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 129 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1609,7 +1609,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation de l’avis**
 
 - **(2)** L’avis donné au titre du présent article demeure en vigueur tant que le fonctionnaire occupe le poste, sauf révocation de l’avis par avis subséquent donné à celui-ci par l’employeur et précisant que son poste n’est plus nécessaire à la fourniture par l’employeur des services essentiels.
-> 2003, ch. 22, art. 2 « 130 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 130 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1618,7 +1618,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révision d’urgence de l’entente**
 
 **131** Malgré les autres dispositions de la présente section, si l’une des parties — employeur ou agent négociateur — estime qu’il est nécessaire, en raison d’une situation d’urgence, de modifier temporairement ou de suspendre l’entente sur les services essentiels mais qu’il leur est impossible de s’entendre à ce sujet, l’une ou l’autre de celles-ci peut à tout moment demander à la Commission de modifier temporairement ou de suspendre l’entente par ordonnance.
-> 2003, ch. 22, art. 2 « 131 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 131 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1627,7 +1627,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de respecter les conditions d’emploi**
 
 **132** Sauf entente à l’effet contraire entre les parties, toute condition d’emploi qui peut figurer dans une convention collective et qui est encore en vigueur au moment où l’avis de négocier a été donné continue de s’appliquer aux fonctionnaires qui occupent un poste nécessaire, aux termes de l’entente sur les services essentiels, pour permettre à l’employeur de fournir ces services et lie les parties, y compris les fonctionnaires en question, jusqu’à la conclusion d’une convention collective.
-> 2003, ch. 22, art. 2 « 132 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 132 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1636,7 +1636,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prorogation**
 
 **133** La Commission peut, sur demande de l’une ou l’autre partie, proroger tout délai prévu par la présente section.
-> 2003, ch. 22, art. 2 « 133 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 133 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1645,7 +1645,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépôt de l’entente auprès de la Commission**
 
 **134** L’une ou l’autre partie à l’entente sur les services essentiels peut en déposer une copie auprès de la Commission. L’entente, une fois déposée, est assimilée à une ordonnance de celle-ci.
-> 2003, ch. 22, art. 2 « 134 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9.
+> 2003, ch. 22, art. 2 « 134 »; 2013, ch. 40, art. 305; 2018, ch. 24, art. 9
 
 
 
@@ -1665,7 +1665,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **135** La présente section s’applique à l’employeur et à l’agent négociateur représentant une unité de négociation dans le cas où :
 - **a)** d’une part, le mode de règlement des différends applicable à l’unité de négociation est l’arbitrage;
 - **b)** d’autre part, les parties ont négocié de bonne foi en vue de conclure une convention collective, mais n’ont pu s’entendre sur une condition d’emploi qui peut figurer dans une décision arbitrale.
-> 2003, ch. 22, art. 2 « 135 »; 2013, ch. 40, art. 306(F).
+> 2003, ch. 22, art. 2 « 135 »; 2013, ch. 40, art. 306(F)
 
 
 
@@ -1806,7 +1806,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entente ultérieure**
 
 - **(2)** Toute question renvoyée à l’arbitrage est réputée ne pas l’avoir été et ne peut faire l’objet de la décision arbitrale dans le cas où, avant qu’une telle décision n’ait été rendue, les parties arrivent à s’entendre et concluent une convention collective réglant la question.
-> 2003, ch. 22, art. 2 « 144 »; 2017, ch. 9, art. 17.
+> 2003, ch. 22, art. 2 « 144 »; 2017, ch. 9, art. 17
 
 
 
@@ -1845,7 +1845,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(2)** Le conseil d’arbitrage peut déléguer les pouvoirs prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20d) et e) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) et assortir ou non cette délégation d’une obligation de faire rapport.
-> 2003, ch. 22, art. 2 « 147 »; 2013, ch. 40, art. 371; 2017, ch. 9, art. 56.
+> 2003, ch. 22, art. 2 « 147 »; 2013, ch. 40, art. 371; 2017, ch. 9, art. 56
 
 
 
@@ -1863,7 +1863,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** la nécessité de maintenir des rapports convenables, quant à la rémunération et aux autres conditions d’emploi, entre les divers échelons au sein d’une même profession et entre les diverses professions au sein de la fonction publique;
 - **d)** la nécessité d’établir une rémunération et d’autres conditions d’emploi justes et raisonnables compte tenu des qualifications requises, du travail accompli, de la responsabilité assumée et de la nature des services rendus;
 - **e)** l’état de l’économie canadienne et la situation fiscale de l’État fédéral.
-> 2003, ch. 22, art. 2 « 148 »; 2013, ch. 40, art. 307; 2018, ch. 24, art. 10.
+> 2003, ch. 22, art. 2 « 148 »; 2013, ch. 40, art. 307; 2018, ch. 24, art. 10
 
 
 
@@ -1880,7 +1880,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Signature**
 
 - **(2)** La décision arbitrale est signée par le président du conseil d’arbitrage ou par le membre unique, selon le cas; un exemplaire en est transmis au président de la Commission.
-> 2003, ch. 22, art. 2 « 149 »; 2013, ch. 40, art. 309; 2018, ch. 24, art. 11.
+> 2003, ch. 22, art. 2 « 149 »; 2013, ch. 40, art. 309; 2018, ch. 24, art. 11
 
 
 
@@ -1892,7 +1892,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La décision arbitrale qui régit une unité de négociation qui n’est pas définie à l’article 238.14 ne peut pas avoir pour effet direct ou indirect de modifier, de supprimer ou d’établir une condition d’emploi :
 	- **a)** soit de manière à nécessiter ou entraîner l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
-	- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md);
+	- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md);
 	- **c)** soit qui porte sur des normes, procédures ou méthodes régissant la nomination, l’évaluation, l’avancement, la mutation, le renvoi en cours de stage ou la mise en disponibilité des fonctionnaires;
 	- **d)** soit, dans le cas d’un organisme distinct, qui porte sur le licenciement, sauf le licenciement imposé pour manquement à la discipline ou inconduite;
 	- **e)** soit de manière que cela aurait une incidence sur l’organisation de la fonction publique, l’attribution de fonctions aux postes et aux personnes employées au sein de celle-ci et leur classification.
@@ -1900,7 +1900,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Questions exclues**
 
 - **(2)** Sont exclues du champ de la décision arbitrale les conditions d’emploi n’ayant pas fait l’objet de négociations entre les parties avant que ne soit demandé l’arbitrage.
-> 2003, ch. 22, art. 2 « 150 »; 2017, ch. 9, art. 18.
+> 2003, ch. 22, art. 2 « 150 »; 2017, ch. 9, art. 18
 
 
 
@@ -1942,7 +1942,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet obligatoire**
 
 **154** Dans le cadre de la présente partie et de la section 1 de la partie 2.1, la décision arbitrale lie l’employeur et l’agent négociateur qui y sont parties, ainsi que les fonctionnaires de l’unité de négociation à l’égard de laquelle l’agent négociateur a été accrédité, à compter de la date à laquelle elle a été rendue. Elle lie aussi, à compter de cette date, tout administrateur général responsable d’un secteur de l’administration publique fédérale dont font partie des fonctionnaires de l’unité de négociation, dans la mesure où elle porte sur des questions prévues à l’article 12 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 2003, ch. 22, art. 2 « 154 »; 2017, ch. 9, art. 19.
+> 2003, ch. 22, art. 2 « 154 »; 2017, ch. 9, art. 19
 
 
 
@@ -2037,7 +2037,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **160** La présente section s’applique à l’employeur et à l’agent négociateur représentant une unité de négociation dans le cas où :
 - **a)** d’une part, le mode de règlement des différends applicable à l’unité de négociation est la conciliation;
 - **b)** d’autre part, les parties ont négocié de bonne foi en vue de conclure une convention collective, mais n’ont pu s’entendre sur une condition d’emploi pouvant figurer dans une convention collective.
-> 2003, ch. 22, art. 2 « 160 »; 2013, ch. 40, art. 311(F).
+> 2003, ch. 22, art. 2 « 160 »; 2013, ch. 40, art. 311(F)
 
 
 
@@ -2117,7 +2117,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Trois membres à la demande des parties**
 
 - **(2)** La commission se compose de trois membres si une des parties en fait la demande.
-> 2003, ch. 22, art. 2 « 164 »; 2013, ch. 40, art. 312; 2018, ch. 24, art. 13.
+> 2003, ch. 22, art. 2 « 164 »; 2013, ch. 40, art. 312; 2018, ch. 24, art. 13
 
 
 
@@ -2134,7 +2134,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** La liste contient :
 	- **a)** les noms des personnes admissibles recommandées conjointement par les parties;
 	- **b)** si le président estime que les parties n’ont pas conjointement recommandé un nombre suffisant de personnes, les noms d’autres personnes admissibles que le président estime compétentes.
-> 2003, ch. 22, art. 2 « 165 »; 2013, ch. 40, art. 313; 2018, ch. 24, art. 14.
+> 2003, ch. 22, art. 2 « 165 »; 2013, ch. 40, art. 313; 2018, ch. 24, art. 14
 
 
 
@@ -2149,7 +2149,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nomination par le ministre**
 
 - **(2)** Dès qu’il reçoit la liste, le ministre nomme une personne dont le nom y figure.
-> 2003, ch. 22, art. 2 « 166 »; 2013, ch. 40, art. 313; 2018, ch. 24, art. 14.
+> 2003, ch. 22, art. 2 « 166 »; 2013, ch. 40, art. 313; 2018, ch. 24, art. 14
 
 
 
@@ -2176,7 +2176,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nomination par le ministre**
 
 - **(5)** Dès qu’il reçoit la liste, le ministre nomme une personne dont le nom y figure.
-> 2003, ch. 22, art. 2 « 167 »; 2013, ch. 40, art. 314; 2018, ch. 24, art. 15.
+> 2003, ch. 22, art. 2 « 167 »; 2013, ch. 40, art. 314; 2018, ch. 24, art. 15
 
 
 
@@ -2211,7 +2211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vacance d’un des trois membres**
 
 - **(2)** S’il se produit une vacance parmi les trois membres formant la commission de l’intérêt public avant que celle-ci n’ait rendu sa décision, le ministre, sur la recommandation du président, y pourvoit en procédant à une nomination de la manière prévue à l’article 167 pour le choix du titulaire du poste vacant.
-> 2003, ch. 22, art. 2 « 170 »; 2013, ch. 40, art. 315; 2018, ch. 24, art. 16.
+> 2003, ch. 22, art. 2 « 170 »; 2013, ch. 40, art. 315; 2018, ch. 24, art. 16
 
 
 
@@ -2257,7 +2257,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(2)** La commission de l’intérêt public peut déléguer les pouvoirs prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20d) et e) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) et assortir ou non cette délégation d’une obligation de faire rapport.
-> 2003, ch. 22, art. 2 « 174 »; 2013, ch. 40, art. 372; 2017, ch. 9, art. 56.
+> 2003, ch. 22, art. 2 « 174 »; 2013, ch. 40, art. 372; 2017, ch. 9, art. 56
 
 
 
@@ -2271,7 +2271,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** la nécessité de maintenir des rapports convenables, quant à la rémunération et aux autres conditions d’emploi, entre les divers échelons au sein d’une même profession et entre les diverses professions au sein de la fonction publique;
 - **d)** la nécessité d’établir une rémunération et d’autres conditions d’emploi justes et raisonnables, compte tenu des qualifications requises, du travail accompli, de la responsabilité assumée et de la nature des services rendus;
 - **e)** l’état de l’économie canadienne et la situation fiscale de l’État fédéral.
-> 2003, ch. 22, art. 2 « 175 »; 2013, ch. 40, art. 316; 2018, ch. 24, art. 17.
+> 2003, ch. 22, art. 2 « 175 »; 2013, ch. 40, art. 316; 2018, ch. 24, art. 17
 
 
 
@@ -2292,7 +2292,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Signature**
 
 - **(2)** Le rapport est signé par le président de la commission de l’intérêt public ou par le membre unique, selon le cas.
-> 2003, ch. 22, art. 2 « 176 »; 2013, ch. 40, art. 317; 2018, ch. 24, art. 18.
+> 2003, ch. 22, art. 2 « 176 »; 2013, ch. 40, art. 317; 2018, ch. 24, art. 18
 
 
 
@@ -2304,7 +2304,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le rapport ne peut directement ou indirectement recommander la modification, la suppression ou l’établissement d’une condition d’emploi :
 	- **a)** soit de manière à nécessiter ou entraîner l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
-	- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md);
+	- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md);
 	- **c)** soit qui porte sur des normes, règles ou méthodes régissant la nomination, l’évaluation, l’avancement, la mutation, le renvoi en cours de stage ou la mise en disponibilité des fonctionnaires;
 	- **d)** soit, dans le cas d’un organisme distinct, qui porte sur le licenciement, sauf le licenciement imposé pour manquement à la discipline ou inconduite.
 
@@ -2331,7 +2331,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réexamen des questions contenues dans le rapport**
 
 **179** Le président peut ordonner à la commission de l’intérêt public de réexaminer et de clarifier ou de développer tout ou partie de son rapport.
-> 2003, ch. 22, art. 2 « 179 »; 2013, ch. 40, art. 318; 2018, ch. 24, art. 19.
+> 2003, ch. 22, art. 2 « 179 »; 2013, ch. 40, art. 318; 2018, ch. 24, art. 19
 
 
 
@@ -2382,7 +2382,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Admissibilité**
 
 - **(6)** Ne peut être saisie d’un renvoi au mode substitutif de règlement des différends la personne qui, dans les six mois précédant la nomination, a fait fonction de conseiller juridique ou de mandataire de l’employeur ou de toute organisation syndicale intéressée en matière de relations de travail.
-> 2003, ch. 22, art. 2 « 182 »; 2013, ch. 40, art. 319; 2018, ch. 24, art. 20.
+> 2003, ch. 22, art. 2 « 182 »; 2013, ch. 40, art. 319; 2018, ch. 24, art. 20
 
 
 
@@ -2494,7 +2494,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(6)** Aucune action ou omission ne saurait constituer un manquement à l’un des alinéas (1)a) et b) et (2)a) à c) si elle vise le titulaire d’un poste de direction ou de confiance, la personne proposée pour un tel poste, l’officier, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), ou la personne qui occupe un poste détenu par un tel officier.
-> 2003, ch. 22, art. 2 « 186 »; 2017, ch. 9, art. 21.
+> 2003, ch. 22, art. 2 « 186 »; 2017, ch. 9, art. 21
 
 
 
@@ -2518,7 +2518,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** elle a participé, à titre de témoin ou autrement, à une procédure prévue par la présente partie ou les parties 2 ou 2.1, ou pourrait le faire,
 	- **(ii)** elle a soit présenté une demande ou déposé une plainte sous le régime de la présente partie ou de la section 1 de la partie 2.1, soit déposé un grief sous le régime de la partie 2 ou de la section 2 de la partie 2.1,
 	- **(iii)** elle a exercé un droit prévu par la présente partie ou les parties 2 ou 2.1.
-> 2003, ch. 22, art. 2 « 188 »; 2017, ch. 9, art. 22.
+> 2003, ch. 22, art. 2 « 188 »; 2017, ch. 9, art. 22
 
 
 
@@ -2535,7 +2535,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** Aucune action ou omission ne saurait constituer une pratique déloyale visée au paragraphe (1) si elle vise le titulaire d’un poste de direction ou de confiance, la personne proposée pour un tel poste, l’officier, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), ou la personne qui occupe un poste détenu par un tel officier.
-> 2003, ch. 22, art. 2 « 189 »; 2017, ch. 9, art. 23.
+> 2003, ch. 22, art. 2 « 189 »; 2017, ch. 9, art. 23
 
 
 
@@ -2577,7 +2577,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** La Commission peut, sur demande, statuer sur la plainte visée au paragraphe (3) bien que celle-ci n’ait pas fait l’objet d’un grief ou d’un appel si elle est convaincue :
 	- **a)** soit que les faits donnant lieu à la plainte sont tels qu’il devrait être statué sans délai sur celle-ci;
 	- **b)** soit que l’organisation syndicale n’a pas donné au plaignant la possibilité de recourir facilement à une procédure de grief ou d’appel.
-> 2003, ch. 22, art. 2 « 190 »; 2013, ch. 40, art. 320; 2018, ch. 24, art. 21.
+> 2003, ch. 22, art. 2 « 190 »; 2013, ch. 40, art. 320; 2018, ch. 24, art. 21
 
 
 
@@ -2596,7 +2596,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Charge de la preuve**
 
 - **(3)** La présentation par écrit, au titre du paragraphe 190(1), de toute plainte faisant état d’une contravention, par l’employeur ou la personne agissant pour son compte, du paragraphe 186(2), constitue une preuve de la contravention; il incombe dès lors à la partie qui nie celle-ci de prouver le contraire.
-> 2003, ch. 22, art. 2 « 191 »; 2017, ch. 9, art. 24.
+> 2003, ch. 22, art. 2 « 191 »; 2017, ch. 9, art. 24
 
 
 
@@ -2624,7 +2624,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personne agissant pour le compte d’une organisation syndicale**
 
 - **(3)** Lorsqu’elle vise une personne qui a agi ou prétendu agir pour le compte d’une organisation syndicale, l’ordonnance est en outre adressée au dirigeant attitré de l’organisation.
-> 2003, ch. 22, art. 2 « 192 »; 2013, ch. 40, art. 321; 2017, ch. 9, art. 25(A); 2018, ch. 24, art. 22.
+> 2003, ch. 22, art. 2 « 192 »; 2013, ch. 40, art. 321; 2017, ch. 9, art. 25(A); 2018, ch. 24, art. 22
 
 
 
@@ -2683,7 +2683,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Services essentiels**
 
 - **(2)** Il est interdit à toute organisation syndicale de déclarer ou d’autoriser une grève à l’égard d’une unité de négociation donnée, et à tout dirigeant ou représentant d’une telle organisation de conseiller ou susciter la déclaration ou l’autorisation d’une telle grève, ou encore la participation de fonctionnaires à une telle grève, quand celle-ci a ou aurait pour effet d’y faire participer tout fonctionnaire qui occupe un poste nécessaire, aux termes d’une entente sur les services essentiels, pour permettre à l’employeur de fournir ces services.
-> 2003, ch. 22, art. 2 « 194 »; 2013, ch. 40, art. 322; 2018, ch. 24, art. 23.
+> 2003, ch. 22, art. 2 « 194 »; 2013, ch. 40, art. 322; 2018, ch. 24, art. 23
 
 
 
@@ -2724,7 +2724,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **s)** s’il appartient à une unité de négociation à l’égard de laquelle l’agent négociateur a tenu le vote au scrutin secret en conformité avec l’article 184 et que :
 	- **(i)** soit la grève n’a pas été approuvée par la majorité des votants,
 	- **(ii)** soit la grève a été approuvée par la majorité des votants et elle a été déclarée ou autorisée par l’agent négociateur plus de soixante jours francs après la tenue du vote ou, si l’agent négociateur et l’employeur se sont entendus par écrit sur une période plus longue, après l’expiration de celle-ci.
-> 2003, ch. 22, art. 2 « 196 »; 2013, ch. 40, art. 323; 2018, ch. 24, art. 24.
+> 2003, ch. 22, art. 2 « 196 »; 2013, ch. 40, art. 323; 2018, ch. 24, art. 24
 
 
 
@@ -2792,7 +2792,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obstruction**
 
 **199** Il est interdit d’empêcher ou de tenter d’empêcher un fonctionnaire donné d’entrer dans son lieu de travail ou d’en sortir lorsque celui-ci occupe un poste nécessaire, au titre d’une entente sur les services essentiels, pour permettre à l’employeur de fournir de tels services.
-> 2003, ch. 22, art. 2 « 199 »; 2013, ch. 40, art. 324; 2018, ch. 24, art. 25.
+> 2003, ch. 22, art. 2 « 199 »; 2013, ch. 40, art. 324; 2018, ch. 24, art. 25
 
 
 
@@ -2805,7 +2805,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conseils relatifs à l’exercice des fonctions d’agent de la paix**
 
 **199.1** Il est interdit à toute organisation syndicale ainsi qu’à leurs dirigeants ou représentants de conseiller aux membres de la GRC ou aux réservistes de ne pas exercer leurs fonctions d’agent de la paix.
-> 2017, ch. 9, art. 26.
+> 2017, ch. 9, art. 26
 
 
 
@@ -2846,7 +2846,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Poursuite d’une organisation syndicale**
 
 - **(4)** L’organisation syndicale peut être poursuivie sous son nom pour une infraction visée à l’un des paragraphes (1) à (3). Le cas échéant, elle est réputée être une personne.
-> 2003, ch. 22, art. 2 « 202 »; 2017, ch. 9, art. 27.
+> 2003, ch. 22, art. 2 « 202 »; 2017, ch. 9, art. 27
 
 
 
@@ -2855,7 +2855,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dirigeants et représentants**
 
 **203** Le dirigeant ou représentant d’une organisation syndicale qui contrevient au paragraphe 194(1) ou à l’article 199.1 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de dix mille dollars.
-> 2003, ch. 22, art. 2 « 203 »; 2017, ch. 9, art. 28.
+> 2003, ch. 22, art. 2 « 203 »; 2017, ch. 9, art. 28
 
 
 
@@ -2911,7 +2911,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs aux anciens fonctionnaires en ce qui concerne :
 	- **a)** les mesures disciplinaires portant suspension, ou les licenciements, visés aux alinéas 12(1)c), d) ou e) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **b)** dans le cas d’un organisme distinct, les mesures disciplinaires portant suspension, ou les licenciements, visés aux alinéas 12(2)c) ou d) de cette loi ou à toute loi fédérale ou à tout texte d’application de celle-ci, concernant les attributions de l’organisme.
-> 2003, ch. 22, art. 2 « 206 »; 2014, ch. 20, art. 481; 2017, ch. 9, art. 29.
+> 2003, ch. 22, art. 2 « 206 »; 2014, ch. 20, art. 481; 2017, ch. 9, art. 29
 
 
 
@@ -2986,7 +2986,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** soit une mesure disciplinaire entraînant le licenciement, la rétrogradation, la suspension ou une sanction pécuniaire;
 	- **c)** soit, s’il est un fonctionnaire de l’administration publique centrale :
 		- **(i)** la rétrogradation ou le licenciement imposé sous le régime soit de l’alinéa 12(1)d) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) pour rendement insuffisant, soit de l’alinéa 12(1)e) de cette loi pour toute raison autre que l’insuffisance du rendement, un manquement à la discipline ou une inconduite,
-		- **(ii)** la mutation sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) sans son consentement alors que celui-ci était nécessaire;
+		- **(ii)** la mutation sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md) sans son consentement alors que celui-ci était nécessaire;
 	- **d)** soit la rétrogradation ou le licenciement imposé pour toute raison autre qu’un manquement à la discipline ou une inconduite, s’il est un fonctionnaire d’un organisme distinct désigné au titre du paragraphe (3).
 
 **Application de l’alinéa (1)a)**
@@ -2996,7 +2996,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Désignation**
 
 - **(3)** Le gouverneur en conseil peut par décret désigner, pour l’application de l’alinéa (1)d), tout organisme distinct.
-> 2003, ch. 22, art. 2 « 209 »; 2017, ch. 9, art. 30.
+> 2003, ch. 22, art. 2 « 209 »; 2017, ch. 9, art. 30
+
+
+
+
+
+**Renvoi d’un grief à l’arbitrage**
+
+**209.1** Outre les droits qui lui sont accordés au titre de l’article 209, le fonctionnaire qui n’occupe pas un poste de direction ou de confiance ou qui n’est pas autrement représenté par un agent négociateur peut, après l’avoir porté jusqu’au dernier palier de la procédure applicable sans avoir obtenu satisfaction, renvoyer à l’arbitrage tout grief individuel s’il a subi des préjudices physiques ou psychologiques, des dommages matériels ou des pertes économiques — ou a été autrement lésé — par suite d’une contravention à une disposition des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) et que le grief est relatif à cette contravention.
+> 2019, ch. 10, art. 184
 
 
 
@@ -3015,11 +3024,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Avis au commissaire à l’accessibilité**
+
+**210.1** 
+
+- **(1)** La partie qui soulève une question liée à une contravention à une disposition des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) dans le cadre du renvoi à l’arbitrage d’un grief individuel en donne avis au commissaire à l’accessibilité, au sens de l’article 2 de cette loi, conformément aux règlements.
+
+**Observations du Commissaire**
+
+- **(2)** Le commissaire à l’accessibilité peut, dans le cadre de l’arbitrage, présenter ses observations relativement à la question soulevée.
+> 2019, ch. 10, art. 185
+
+
+
+
+
 **Exclusion**
 
-**211** L’article 209 n’a pas pour effet de permettre le renvoi à l’arbitrage d’un grief individuel portant sur :
-- **a)** soit tout licenciement prévu sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md);
+**211** Les articles 209 et 209.1 n’ont pas pour effet de permettre le renvoi à l’arbitrage d’un grief individuel portant sur :
+- **a)** soit tout licenciement prévu sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md);
 - **b)** soit toute mutation effectuée sous le régime de cette loi, sauf celle du fonctionnaire qui a présenté le grief.
+> 2003, ch. 22, art. 2 « 211 »2019, ch. 10, art. 186
+
 
 
 
@@ -3048,8 +3074,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décision définitive et obligatoire**
 
-**214** Sauf dans le cas du grief individuel qui peut être renvoyé à l’arbitrage au titre des articles 209 ou 238.25, la décision rendue au dernier palier de la procédure applicable en la matière est définitive et obligatoire et aucune autre mesure ne peut être prise sous le régime de la présente loi à l’égard du grief en cause.
-> 2003, ch. 22, art. 2 « 214 »; 2017, ch. 9, art. 31.
+**214** Sauf dans le cas du grief individuel qui peut être renvoyé à l’arbitrage au titre des articles 209, 209.1 ou 238.25, la décision rendue au dernier palier de la procédure applicable en la matière est définitive et obligatoire et aucune autre mesure ne peut être prise sous le régime de la présente loi à l’égard du grief en cause.
+> 2003, ch. 22, art. 2 « 214 »; 2017, ch. 9, art. 312019, ch. 10, art. 187
 
 
 
@@ -3125,6 +3151,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 #### Retrait
+
+
+
+**Avis au commissaire à l’accessibilité**
+
+**217.1** 
+
+- **(1)** La partie qui soulève une question liée à une contravention à une disposition des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) dans le cadre du renvoi à l’arbitrage d’un grief collectif en donne avis au commissaire à l’accessibilité, au sens de l’article 2 de cette loi, conformément aux règlements.
+
+**Observations du Commissaire**
+
+- **(2)** Le commissaire à l’accessibilité peut, dans le cadre de l’arbitrage, présenter ses observations relativement à la question soulevée.
+> 2019, ch. 10, art. 188
+
+
 
 
 
@@ -3207,6 +3248,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Avis au commissaire à l’accessibilité**
+
+**222.1** 
+
+- **(1)** La partie qui soulève une question liée à une contravention à une disposition des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) dans le cadre du renvoi à l’arbitrage d’un grief de principe en donne avis au commissaire à l’accessibilité, au sens de l’article 2 de cette loi, conformément aux règlements.
+
+**Observations du Commissaire**
+
+- **(2)** Le commissaire à l’accessibilité peut, dans le cadre de l’arbitrage, présenter ses observations relativement à la question soulevée.
+> 2019, ch. 10, art. 189
+
+
+
+
+
 **Avis**
 
 **223** 
@@ -3227,7 +3283,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réunion**
 
 - **(3)** Après réception de l’avis, le président peut ordonner aux parties de participer à une réunion en vue de régler ou de simplifier les questions en litige.
-> 2003, ch. 22, art. 2 « 223 »; 2013, ch. 40, art. 374.
+> 2003, ch. 22, art. 2 « 223 »; 2013, ch. 40, art. 374
 
 
 
@@ -3257,7 +3313,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Observation de la procédure**
 
 **225** Le renvoi d’un grief à l’arbitrage ne peut avoir lieu qu’après la présentation du grief à tous les paliers requis conformément à la procédure applicable.
-> 2003, ch. 22, art. 2 « 225 »; 2013, ch. 40, art. 375.
+> 2003, ch. 22, art. 2 « 225 »; 2013, ch. 40, art. 375
 
 
 
@@ -3277,9 +3333,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’arbitre de grief et la Commission peuvent, pour instruire toute affaire dont ils sont saisis :
 	- **a)** interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de cette loi sur le droit à la parité salariale pour l’exécution de fonctions équivalentes, ainsi que toute autre loi fédérale relative à l’emploi, même si la loi en cause entre en conflit avec une convention collective;
+	- **a.1)** interpréter et appliquer la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md);
 	- **b)** rendre les ordonnances prévues à l’alinéa 53(2)e) ou au paragraphe 53(3) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md);
+	- **b.1)** rendre les ordonnances prévues à l’article 102 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md);
 	- **c)** dans le cas du grief portant sur le licenciement, la rétrogradation, la suspension ou une sanction pécuniaire, adjuger des intérêts au taux et pour la période qu’ils estiment justifiés.
-> 2003, ch. 22, art. 2 « 226 »; 2013, ch. 40, art. 376; 2017, ch. 9, art. 56.
+> 2003, ch. 22, art. 2 « 226 »; 2013, ch. 40, art. 376; 2017, ch. 9, art. 562019, ch. 10, art. 190
 
 
 
@@ -3310,7 +3368,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision en cas de partage**
 
 - **(4)** Lorsqu’il n’y a pas de majorité, la décision du président du conseil constitue la décision du conseil.
-> 2003, ch. 22, art. 2 « 228 »; 2013, ch. 40, art. 378.
+> 2003, ch. 22, art. 2 « 228 »; 2013, ch. 40, art. 378
 
 
 
@@ -3319,7 +3377,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision entraînant une modification**
 
 **229** La décision de l’arbitre de grief ou de la Commission ne peut avoir pour effet d’exiger la modification d’une convention collective ou d’une décision arbitrale.
-> 2003, ch. 22, art. 2 « 229 »; 2013, ch. 40, art. 379.
+> 2003, ch. 22, art. 2 « 229 »; 2013, ch. 40, art. 379
 
 
 
@@ -3328,7 +3386,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision sur le caractère raisonnable de l’avis**
 
 **230** Saisi d’un grief individuel portant sur le licenciement ou la rétrogradation pour rendement insuffisant d’un fonctionnaire de l’administration publique centrale ou d’un organisme distinct désigné au titre du paragraphe 209(3), l’arbitre de grief ou la Commission, selon le cas, doit décider que le licenciement ou la rétrogradation étaient motivés s’il conclut qu’il était raisonnable que l’administrateur général estime le rendement du fonctionnaire insuffisant.
-> 2003, ch. 22, art. 2 « 230 »; 2013, ch. 40, art. 379.
+> 2003, ch. 22, art. 2 « 230 »; 2013, ch. 40, art. 379
 
 
 
@@ -3339,7 +3397,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **231** Saisi du grief mentionné au sous-alinéa 209(1)c)(ii), l’arbitre de grief ou la Commission peut décider de la question de savoir si :
 - **a)** soit l’acceptation d’être muté faisait partie des conditions d’emploi du poste du fonctionnaire;
 - **b)** soit le fonctionnaire a harcelé une autre personne dans l’exercice de ses fonctions.
-> 2003, ch. 22, art. 2 « 231 »; 2013, ch. 40, art. 380.
+> 2003, ch. 22, art. 2 « 231 »; 2013, ch. 40, art. 380
 
 
 
@@ -3351,7 +3409,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** donner l’interprétation ou l’application exacte de la convention collective ou de la décision arbitrale;
 - **b)** conclure qu’il a été contrevenu à la convention collective ou à la décision arbitrale;
 - **c)** enjoindre à l’employeur ou à l’agent négociateur, selon le cas, d’interpréter ou d’appliquer la convention collective ou la décision arbitrale selon les modalités qu’il fixe.
-> 2003, ch. 22, art. 2 « 232 »; 2013, ch. 40, art. 381.
+> 2003, ch. 22, art. 2 « 232 »; 2013, ch. 40, art. 381
 
 
 
@@ -3360,7 +3418,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Impossibilité de révision par un tribunal**
 
 **233** Les paragraphes 34(1) et (3) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) s’appliquent, avec les adaptations nécessaires, à la décision ou à l’ordonnance de l’arbitre de grief.
-> 2003, ch. 22, art. 2 « 233 »; 2013, ch. 40, art. 382; 2017, ch. 9, art. 56.
+> 2003, ch. 22, art. 2 « 233 »; 2013, ch. 40, art. 382; 2017, ch. 9, art. 56
 
 
 
@@ -3381,7 +3439,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet de l’enregistrement**
 
 - **(3)** En vue de son exécution, l’ordonnance, dès le dépôt à la Cour fédérale de la copie certifiée conforme, est assimilée à une ordonnance rendue par celle-ci.
-> 2003, ch. 22, art. 2 « 234 »; 2013, ch. 40, art. 382; 2017, ch. 9, art. 56.
+> 2003, ch. 22, art. 2 « 234 »; 2013, ch. 40, art. 382; 2017, ch. 9, art. 56
 
 
 
@@ -3404,7 +3462,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Recouvrement**
 
 - **(3)** Toute somme que l’agent négociateur est tenu de payer à la Commission aux termes du paragraphe (2) constitue une créance de Sa Majesté du chef du Canada et peut être recouvrée à ce titre. L’agent négociateur est réputé être une personne pour l’application du présent paragraphe.
-> 2003, ch. 22, art. 2 « 235 »; 2013, ch. 40, art. 383.
+> 2003, ch. 22, art. 2 « 235 »; 2013, ch. 40, art. 383
 
 
 
@@ -3446,6 +3504,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** leur délai de présentation pour chaque palier de la procédure applicable;
 	- **e)** les circonstances permettant d’éliminer, pour leur présentation, tel ou tel palier inférieur ou intermédiaire;
 	- **f)** le mode et le délai de leur renvoi à l’arbitrage après leur présentation jusqu’au dernier palier inclusivement;
+	- **f.1)** les modalités applicables aux avis donnés au commissaire à l’accessibilité sous le régime de la présente partie;
 	- **g)** l’établissement de règles de procédure pour leur audition;
 	- **h)** le délai d’envoi des avis et autres documents au titre de la présente partie ou de la section 2 de la partie 2.1, ainsi que leurs destinataires et la date où ils sont réputés avoir été donnés et reçus;
 	- **i)** les modalités applicables aux avis donnés à la Commission canadienne des droits de la personne sous le régime de la présente partie.
@@ -3453,7 +3512,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction à l’application des règlements**
 
 - **(2)** Les clauses d’une convention collective conclue à l’égard des fonctionnaires d’une unité de négociation par l’agent négociateur accrédité pour celle-ci et par l’employeur l’emportent sur les dispositions incompatibles des règlements pris en vertu du paragraphe (1) au sujet des griefs individuels, collectifs ou de principe.
-> 2003, ch. 22, art. 2 « 237 »; 2017, ch. 9, art. 32.
+> 2003, ch. 22, art. 2 « 237 »; 2017, ch. 9, art. 322019, ch. 10, art. 191
 
 
 
@@ -3486,7 +3545,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de membre de la GRC**
 
 - **(2)** À la section 2 de la présente partie, ***membre de la GRC*** s’entend d’un membre au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3500,14 +3559,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Précision sur l’incompatibilité**
 
-- **(2)** Pour l’application du paragraphe (1), sont notamment incompatibles avec la présente partie, l’article 58 et les paragraphes 208(1) et 209(1) et (2).
+- **(2)** Pour l’application du paragraphe (1), sont notamment incompatibles avec la présente partie, l’article 58, les paragraphes 208(1) et 209(1) et (2) et l’article 209.1.
 
 **Précision**
 
 - **(3)** Il est entendu que :
 	- **a)** les dispositions de la partie 1, dans la mesure où elles sont applicables, s’appliquent aux fonctionnaires qui sont des membres de la GRC ou des réservistes, à moins d’indication contraire;
 	- **b)** les dispositions de la partie 2, dans la mesure où elles sont applicables, s’appliquent aux fonctionnaires qui sont des membres de la GRC, au sens du paragraphe 238.01(2), ou des réservistes, à moins d’indication contraire.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 332019, ch. 10, art. 192
 
 
 
@@ -3516,7 +3575,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien des droits**
 
 **238.03** La présente loi n’a pas pour effet de porter atteinte au droit ou à l’autorité du Conseil du Trésor quant à la détermination des catégories de membres, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3525,7 +3584,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien des obligations**
 
 **238.04** La présente loi n’a pas pour effet de porter atteinte aux obligations des membres, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), ou des réservistes, qui ont qualité d’agent de la paix, notamment celles qui leur incombent sous le régime de cette loi.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3538,7 +3597,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation additionnelle de la Commission**
 
 **238.05** Lorsqu’elle met en oeuvre la présente loi et exerce les attributions que celle-ci lui confère ou qu’implique la réalisation de ses objets, notamment en rendant des ordonnances qui en exigent l’observation, celle des règlements pris sous son régime ou des décisions qu’elle rend sur les questions dont elle est saisie, la Commission doit, en ce qui touche les questions concernant les membres de la GRC et les réservistes, tenir compte, d’une part, du rôle unique de la Gendarmerie royale du Canada en tant qu’organisation policière à l’égard de la protection de la sécurité publique et de la sécurité nationale et, d’autre part, du besoin de celle-ci de procéder à des mutations de ses membres et de ses réservistes lorsqu’elle l’estime indiqué.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3562,7 +3621,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Durée maximale de l’ajournement**
 
 - **(2)** L’ajournement est d’une durée maximale de quatre-vingt-dix jours. Toutefois, le Commissaire de la GRC ou l’employeur peut demander plus d’un ajournement pour une même affaire.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3601,7 +3660,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit d’accès de l’ancien juge**
 
 - **(7)** Aux fins d’examen, l’ancien juge a accès aux renseignements qui font l’objet d’une opposition au titre du paragraphe (1).
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3636,7 +3695,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révision**
 
 - **(7)** L’objection du Commissaire de la GRC n’est susceptible de révision que dans la mesure et selon les modalités prévues au présent article.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3651,7 +3710,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-assignation**
 
 - **(2)** En ce qui concerne les questions portées à leur connaissance dans l’exercice des pouvoirs et fonctions conférés à l’ancien juge, celui-ci et les personnes agissant pour son compte ou sous sa direction ne peuvent être contraints à témoigner et ne sont des témoins compétents que dans le cadre des poursuites intentées pour une infraction prévue par la présente loi ou par la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md) ou dans celles intentées sur le fondement des articles 132 ou 136 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3660,7 +3719,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Utilisation des renseignements**
 
 **238.1** Les renseignements qui ont fait l’objet d’une opposition au titre du paragraphe 238.07(1) et qui sont communiqués par le Commissaire de la GRC à la Commission ou à une partie dans le cadre de la question ou de l’affaire pour laquelle l’objection a été soulevée ne peuvent être utilisés qu’à l’égard de cette question ou de cette affaire.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3669,7 +3728,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Protocole d’entente**
 
 **238.11** Le président et le Commissaire de la GRC peuvent conclure un protocole d’entente qui établit les principes et la procédure relatifs à la communication de renseignements visés au paragraphe 238.07(1) et à leur protection en cas de communication.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3688,7 +3747,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application prévalente**
 
 - **(3)** Le présent article s’applique malgré le paragraphe 13(1) de la [Loi sur le vérificateur général](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-17.md) et le paragraphe 79.3(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md).
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3716,7 +3775,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Il est entendu que :
 	- **a)** pour l’application du paragraphe (2), la participation d’une organisation syndicale au Conseil national mixte n’est pas considérée comme une affiliation à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers;
 	- **b)** une demande d’accréditation au titre de l’article 54 ne peut être faite à l’égard des fonctionnaires qui sont des membres de la GRC ou des réservistes.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3725,7 +3784,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de l’unité**
 
 **238.14** Saisie d’une demande d’accréditation conforme au paragraphe 238.13(1), la Commission définit l’unique unité nationale habile à négocier collectivement comme étant le groupe composé exclusivement de l’ensemble des fonctionnaires qui sont des membres de la GRC et des fonctionnaires qui sont des réservistes.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3734,7 +3793,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réserve**
 
 **238.15** L’organisation syndicale accréditée comme agent négociateur pour l’unité de négociation définie à l’article 238.14 ne peut solliciter l’accréditation pour aucun autre groupe de fonctionnaires.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3743,7 +3802,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réserve**
 
 **238.16** Malgré l’article 58, la Commission n’a pas la compétence pour se prononcer sur l’appartenance de tout fonctionnaire qui n’est pas un membre de la GRC ou un réserviste à l’unité de négociation définie à l’article 238.14.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3764,7 +3823,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Il est entendu que :
 	- **a)** pour l’application du paragraphe (1), la participation d’une organisation syndicale au Conseil national mixte n’est pas considérée comme une affiliation à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers;
 	- **b)** les circonstances de révocation prévues au paragraphe (1) s’ajoutent à celles prévues aux articles 94 à 100.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3777,7 +3836,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Arbitrage**
 
 **238.18** Les articles 103 et 104 ne s’appliquent pas aux différends entre l’employeur et l’agent négociateur de l’unité de négociation définie à l’article 238.14. Le mode de règlement de tels différends est l’arbitrage.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3791,8 +3850,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **238.19** La convention collective qui régit l’unité de négociation définie à l’article 238.14 ne peut pas avoir pour effet direct ou indirect de modifier, de supprimer ou d’établir une condition d’emploi :
 - **a)** soit de manière à nécessiter l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
-- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), de la [Loi sur la continuation des pensions de la Gendarmerie royale du Canada](/fr/Lois/Lois%20du%20Canada/1970/ch.%20R-10.md), de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md).
-> 2017, ch. 9, art. 33.
+- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), de la [Loi sur la continuation des pensions de la Gendarmerie royale du Canada](/fr/Lois/Lois%20du%20Canada/1970/ch.%20R-10.md), de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md).
+> 2017, ch. 9, art. 33
 
 
 
@@ -3805,7 +3864,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application des sections 8, 10 et 11 de la partie 1**
 
 **238.2** Les sections 8, 10 et 11 de la partie 1 ne s’appliquent pas à l’unité de négociation définie à l’article 238.14.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3818,7 +3877,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décisions arbitrales — facteur additionnel**
 
 **238.21** Si cela est pertinent pour la prise de ses décisions visées à l’article 148 à l’égard de la convention collective qui régit l’unité de négociation définie à l’article 238.14, le conseil d’arbitrage peut prendre en compte, en plus des facteurs prévus à l’article 148, les conséquences de la décision sur l’efficacité opérationnelle de la Gendarmerie royale du Canada.
-> 2017, ch. 9, art. 33; 2018, ch. 24, art. 26.
+> 2017, ch. 9, art. 33; 2018, ch. 24, art. 26
 
 
 
@@ -3830,7 +3889,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La décision arbitrale qui régit l’unité de négociation définie à l’article 238.14 ne peut pas avoir pour effet direct ou indirect de modifier, de supprimer ou d’établir une condition d’emploi :
 	- **a)** soit de manière à nécessiter ou entraîner l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
-	- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), de la [Loi sur la continuation des pensions de la Gendarmerie royale du Canada](/fr/Lois/Lois%20du%20Canada/1970/ch.%20R-10.md), de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md);
+	- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), de la [Loi sur la continuation des pensions de la Gendarmerie royale du Canada](/fr/Lois/Lois%20du%20Canada/1970/ch.%20R-10.md), de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md);
 	- **c)** soit d’une manière qui, selon le cas :
 		- **(i)** aurait une incidence sur l’organisation de la fonction publique, les catégories de membres, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), l’attribution de fonctions aux postes et aux personnes employées au sein de la fonction publique et leur classification,
 		- **(ii)** porterait atteinte au droit ou à l’autorité du commissaire de la Gendarmerie royale du Canada qui lui sont conférés sous le régime de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) afin d’assurer des opérations policières efficaces.
@@ -3838,7 +3897,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(2)** Il est entendu que le paragraphe 150(2) s’applique à la décision arbitrale.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3853,7 +3912,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **238.23** Le gouverneur en conseil peut, par règlement, prévoir :
 - **a)** le serment du secret visé au paragraphe 238.07(5);
 - **b)** les mesures qui doivent être prises par la Commission ou une partie pour protéger les renseignements visés au paragraphe 238.07(1) reçus du Commissaire de la GRC dans le cadre de toute question ou affaire dont la Commission est saisie au titre de la présente section ou de la partie 1 et qui concerne une personne qui est ou était un membre de la GRC ou un réserviste, et régir la communication de ces renseignements par la Commission ou la partie à d’autres personnes ou entités.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3871,7 +3930,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit limité de présenter un grief**
 
 **238.24** Sous réserve des paragraphes 208(2) à (7), le fonctionnaire membre de la GRC a le droit de présenter un grief individuel seulement lorsqu’il s’estime lésé par l’interprétation ou l’application à son égard de toute disposition d’une convention collective ou d’une décision arbitrale.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3886,7 +3945,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation requise**
 
 - **(2)** Pour que le fonctionnaire puisse renvoyer à l’arbitrage le grief individuel, il faut que son agent négociateur accepte de le représenter dans la procédure d’arbitrage.
-> 2017, ch. 9, art. 33.
+
+**Grief relatif à l’accessibilité**
+
+- **(3)** Si le grief visé au paragraphe (1) est relatif à une contravention à une disposition des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md), le fonctionnaire membre de la GRC peut seulement le renvoyer à l’arbitrage que s’il a subi des préjudices physiques ou psychologiques, des dommages matériels ou des pertes économiques — ou a été autrement lésé — par suite de cette contravention.
+> 2017, ch. 9, art. 332019, ch. 10, art. 193
 
 
 
@@ -3905,7 +3968,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Durée maximale de l’ajournement**
 
 - **(2)** L’ajournement est d’une durée maximale de quatre-vingt-dix jours. Toutefois, le Commissaire de la GRC ou l’employeur peut demander plus d’un ajournement pour une même affaire.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3944,7 +4007,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit d’accès de l’ancien juge**
 
 - **(7)** Aux fins d’examen, l’ancien juge a accès aux renseignements qui font l’objet d’une opposition au titre du paragraphe (1).
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3979,7 +4042,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révision**
 
 - **(7)** L’objection du Commissaire de la GRC n’est susceptible de révision que dans la mesure et selon les modalités prévues au présent article.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -3994,7 +4057,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-assignation**
 
 - **(2)** En ce qui concerne les questions portées à leur connaissance dans l’exercice des pouvoirs et fonctions conférés à l’ancien juge, celui-ci et les personnes agissant pour son compte ou sous sa direction ne peuvent être contraints à témoigner et ne sont des témoins compétents que dans le cadre des poursuites intentées pour une infraction prévue par la présente loi ou par la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md) ou dans celles intentées sur le fondement des articles 132 ou 136 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -4003,7 +4066,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Utilisation des renseignements**
 
 **238.3** Les renseignements qui ont fait l’objet d’une opposition au titre du paragraphe 238.27(1) et qui sont communiqués par le Commissaire de la GRC à l’arbitre de grief ou à la Commission, selon le cas, ou à une partie, dans le cadre de la question ou de l’affaire pour laquelle l’objection a été soulevée ne peuvent être utilisés qu’à l’égard de cette question ou de cette affaire.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -4012,7 +4075,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Protocole d’entente**
 
 **238.31** Le président et le Commissaire de la GRC peuvent conclure un protocole d’entente qui établit les principes et la procédure relatifs à la communication de renseignements visés au paragraphe 238.27(1) et à leur protection en cas de communication.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -4031,7 +4094,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application prévalente**
 
 - **(3)** Le présent article s’applique malgré le paragraphe 13(1) de la [Loi sur le vérificateur général](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-17.md) et le paragraphe 79.3(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md).
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -4044,7 +4107,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Considération : organisation policière**
 
 **238.33** Lors de l’étude d’un grief concernant un fonctionnaire qui est un membre de la GRC ou un réserviste, l’arbitre de grief ou la Commission, selon le cas, tient compte, d’une part, du rôle unique de la Gendarmerie royale du Canada en tant qu’organisation policière à l’égard de la protection de la sécurité publique et de la sécurité nationale et, d’autre part, du besoin de celle-ci de procéder à des mutations de ses membres ou de ses réservistes lorsqu’elle l’estime indiqué.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -4059,7 +4122,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **238.34** Le gouverneur en conseil peut, par règlement, prévoir :
 - **a)** le serment du secret visé au paragraphe 238.27(5);
 - **b)** les mesures qui doivent être prises par l’arbitre de grief ou la Commission, selon le cas, ou une partie pour protéger les renseignements visés au paragraphe 238.27(1) reçus du Commissaire dans le cadre de toute question ou affaire dont l’arbitre de grief ou la Commission est saisi au titre de la présente section ou de la partie 2 et qui concerne une personne qui est ou était un membre de la GRC ou un réserviste, et régir la communication de ces renseignements par l’arbitre de grief, la Commission ou la partie à d’autres personnes ou entités.
-> 2017, ch. 9, art. 33.
+> 2017, ch. 9, art. 33
 
 
 
@@ -4096,7 +4159,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(v)** « syndicat » s’entend de l’organisation syndicale au sens du paragraphe 2(1) et s’entend en outre, sauf indication contraire du contexte, de tout regroupement d’organisations syndicales au sens de ce paragraphe;
 - **b)** l’article 156 de cette loi ne s’applique pas à la Commission des relations de travail et de l’emploi dans le secteur public fédéral;
 - **c)** les dispositions de la présente loi s’appliquent, avec les adaptations nécessaires, aux affaires instruites par la Commission des relations de travail et de l’emploi dans le secteur public fédéral.
-> 2003, ch. 22, art. 2 « 240 »; 2013, ch. 40, art. 384; 2017, ch. 9, art. 34 et 57.
+> 2003, ch. 22, art. 2 « 240 »; 2013, ch. 40, art. 384; 2017, ch. 9, art. 34 et 57
 
 
 
@@ -4144,7 +4207,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve concernant les renseignements obtenus**
 
 **243** Les membres d’une commission de l’intérêt public ou d’un conseil d’arbitrage, les arbitres de grief, les médiateurs et les personnes saisies d’un renvoi en vertu du paragraphe 182(1) ne sont pas habiles à témoigner ni contraignables au civil relativement à des renseignements obtenus dans l’accomplissement des fonctions que leur confère la présente loi.
-> 2003, ch. 22, art. 2 « 243 »; 2013, ch. 40, art. 385.
+> 2003, ch. 22, art. 2 « 243 »; 2013, ch. 40, art. 385
 
 
 
@@ -4156,7 +4219,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** les notes ou les avant-projets d’ordonnance ou de décision de tout arbitre de grief;
 - **b)** les notes ou les avant-projets de rapport de tout médiateur, de toute commission de l’intérêt public ou de toute personne autorisée ou désignée par la Commission pour aider à régler des plaintes ou des questions en litige devant la Commission;
 - **c)** les notes ou les avant-projets de décision arbitrale d’un conseil d’arbitrage.
-> 2003, ch. 22, art. 2 « 244 »; 2013, ch. 40, art. 386.
+> 2003, ch. 22, art. 2 « 244 »; 2013, ch. 40, art. 386
 
 
 
@@ -4165,7 +4228,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Poursuites civiles ou pénales**
 
 **245** Les membres d’une commission de l’intérêt public ou d’un conseil d’arbitrage, les arbitres de grief, les médiateurs et les personnes saisies d’un renvoi en vertu du paragraphe 182(1) bénéficient de l’immunité civile ou pénale pour les actes accomplis ou omis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel de leurs attributions.
-> 2003, ch. 22, art. 2 « 245 »; 2013, ch. 40, art. 387.
+> 2003, ch. 22, art. 2 « 245 »; 2013, ch. 40, art. 387
 
 
 
@@ -4199,7 +4262,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération et indemnités à payer par la partie**
 
 - **(3)** Si la commission de l’intérêt public se compose de trois membres, la rémunération et les indemnités à payer aux membres dont la nomination a été faite sur proposition d’une partie, ou réputée ainsi faite, le sont par cette partie.
-> 2003, ch. 22, art. 2 « 247 »; 2013, ch. 40, art. 337.
+> 2003, ch. 22, art. 2 « 247 »; 2013, ch. 40, art. 337
 
 
 
@@ -4212,7 +4275,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Paiement des indemnités des témoins**
 
 **248** Quiconque est assigné devant l’arbitre de grief, le conseil d’arbitrage ou la commission de l’intérêt public, dans le cadre de toute instance entamée sous le régime de la présente loi, a droit pour sa comparution aux frais et indemnités accordés aux témoins assignés devant la Cour fédérale.
-> 2003, ch. 22, art. 2 « 248 »; 2013, ch. 40, art. 389.
+> 2003, ch. 22, art. 2 « 248 »; 2013, ch. 40, art. 389
 
 
 
@@ -4225,7 +4288,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Installations et ressources humaines**
 
 **249** L’administrateur en chef du Service canadien d’appui aux tribunaux administratifs fournit aux commissions de l’intérêt public, aux conseils d’arbitrage, aux arbitres de griefs, aux médiateurs et aux personnes saisies d’un renvoi aux termes du paragraphe 182(1) les installations et les ressources humaines qui sont nécessaires à l’accomplissement de leurs fonctions en application de la présente loi.
-> 2003, ch. 22, art. 2 « 249 »; 2014, ch. 20, art. 481.
+> 2003, ch. 22, art. 2 « 249 »; 2014, ch. 20, art. 481
 
 
 
@@ -4259,5 +4322,913 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Examen**
 
 **252** Cinq ans après la date d’entrée en vigueur du présent article, le ministre désigné par le gouverneur en conseil pour l’application du présent article veille à ce que la présente loi et son application fassent l’objet d’un examen et fait déposer un rapport de l’examen devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la fin de l’examen.
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2003, ch. 22, art. 36
+
+
+**Définitions**
+
+**36** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente section.
+
+***ancienne Commission*** La Commission des relations de travail dans la fonction publique constituée en vertu de l’article 11 de l’ancienne loi. (*former Board*)
+
+***ancienne loi*** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), chapitre P-35 des Lois révisées du Canada (1985). (*former Act*)
+
+***nouvelle Commission*** La Commission des relations de travail dans la fonction publique créée par l’article 12 de la nouvelle loi. (*new Board*)
+
+***nouvelle loi*** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) édictée par l’article 2 de la présente loi. (*new Act*)
+
+***président*** Le président de la nouvelle Commission. (*Chairperson*)
+
+**Terminologie**
+
+- **(2)** Sauf indication contraire, les termes de la présente section s’entendent au sens de l’ancienne ou de la nouvelle loi, selon le cas.
+
+
+
+######           — 2003, ch. 22, art. 37
+
+
+**Maintien en poste**
+
+**37** Les membres de l’ancienne Commission, à l’exception des présidents suppléants, qui sont en fonctions à l’entrée en vigueur de l’article 12 de la nouvelle loi continuent d’exercer leur charge jusqu’à l’expiration de leur mandat comme s’ils avaient été nommés en vertu de cet article.
+
+
+
+######           — 2003, ch. 22, art. 38
+
+
+**Cessation de fonctions**
+
+**38** Les présidents suppléants de l’ancienne Commission cessent d’occuper leurs fonctions à la date d’entrée en vigueur de l’article 12 de la nouvelle loi.
+
+
+
+######           — 2003, ch. 22, art. 39
+
+
+**Transfert des pouvoirs de l’ancienne Commission**
+
+**39** 
+
+- **(1)** Sous réserve des autres dispositions de la présente section, les affaires dont l’ancienne Commission était saisie à l’entrée en vigueur de l’article 12 de la nouvelle loi se poursuivent devant la nouvelle Commission qui en décide conformément à la nouvelle loi.
+
+**Conclusion des causes en instance**
+
+- **(2)** Un président suppléant de l’ancienne Commission peut, à la demande du président, continuer l’instruction de toute affaire qui lui a été soumise avant la date d’entrée en vigueur de l’article 12 de la nouvelle loi et a déjà fait l’objet d’une procédure à laquelle il a participé.
+
+**Pouvoirs**
+
+- **(3)** Pour l’application du paragraphe (2), le président suppléant de l’ancienne Commission jouit des pouvoirs d’une formation de la nouvelle Commission.
+
+**Dessaisissement**
+
+- **(4)** En cas de refus d’un président suppléant membre d’une formation de continuer l’instruction d’une affaire visée au paragraphe (2), le président de la formation peut la continuer seul ou en dessaisir la formation et s’en charger lui-même ou la confier à un vice-président ou à une formation de la nouvelle Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+**Autorité du président**
+
+- **(5)** Le président suppléant qui continue l’instruction d’une affaire au titre du paragraphe (2) agit sous l’autorité du président de la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 40
+
+
+**Honoraires**
+
+**40** Le président suppléant de l’ancienne Commission a droit, pour l’instruction des affaires visées au paragraphe 39(2) :
+- **a)** aux honoraires que peut fixer le gouverneur en conseil;
+- **b)** aux frais de déplacement et de séjour entraînés par l’accomplissement de ses fonctions hors de son lieu habituel de résidence.
+
+
+
+######           — 2003, ch. 22, art. 41
+
+
+**Date limite**
+
+**41** Le président peut dessaisir un président suppléant de l’ancienne Commission de toute affaire visée au paragraphe 39(2) qui n’est pas réglée dans l’année qui suit la date d’entrée en vigueur de l’article 12 de la nouvelle loi et se charger lui-même de son instruction ou la confier à une formation de la nouvelle Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+
+
+######           — 2003, ch. 22, art. 42
+
+
+**Maintien en poste : secrétaire**
+
+**42** 
+
+- **(1)** La personne qui, à l’entrée en vigueur de l’article 48 de la nouvelle loi, exerce la charge de secrétaire de l’ancienne Commission est maintenue en poste sous le titre de directeur général de la nouvelle Commission sans que soient touchés la rémunération et les avantages qui découlent de l’exercice de sa charge avant cette entrée en vigueur.
+
+**Maintien en poste : dirigeants et employés**
+
+- **(2)** La nouvelle loi ne change rien à la situation des personnes qui sont dirigeants ou employés de l’ancienne Commission à l’entrée en vigueur de son article 49, à la différence près que, à compter de cette entrée en vigueur, ils sont dirigeants ou employés de la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 43
+
+
+**Transfert des droits et obligations**
+
+**43** Les droits et biens de l’ancienne Commission, ceux qui sont détenus en son nom ou en fiducie pour elle, ainsi que ses obligations et engagements, sont réputés être ceux de la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 44
+
+
+**Renvois**
+
+**44** Sauf indication contraire du contexte, dans tous les contrats, actes et documents signés par l’ancienne Commission sous son nom, les renvois à celle-ci valent renvois à la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 45
+
+
+**Transfert de crédits**
+
+**45** Les sommes affectées — et non engagées — , pour l’exercice en cours à la date d’entrée en vigueur de l’article 12 de la nouvelle loi, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’administration publique fédérale à l’égard de l’ancienne Commission sont réputées être affectées aux dépenses de celle-ci à l’égard de la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 46
+
+
+**Procédures judiciaires en cours**
+
+**46** La nouvelle Commission prend la suite de l’ancienne Commission, au même titre et dans les mêmes conditions que celle-ci, comme partie aux procédures judiciaires en cours à la date d’entrée en vigueur de l’article 12 de la nouvelle loi.
+
+
+
+######           — 2003, ch. 22, art. 47
+
+
+**Maintien des décisions**
+
+**47** Les décisions — notamment les ordonnances, déterminations ou déclarations — rendues par l’ancienne Commission sont réputées l’avoir été par la nouvelle Commission, notamment pour ce qui est de leur exécution.
+
+
+
+######           — 2003, ch. 22, art. 48
+
+
+**Accréditation**
+
+**48** 
+
+- **(1)** Toute organisation syndicale qui, à l’entrée en vigueur de l’article 64 de la nouvelle loi, était accréditée comme agent négociateur pour une unité de négociation continue d’être accréditée comme agent négociateur pour cette unité de négociation.
+
+**Effets de l’accréditation**
+
+- **(2)** L’article 67 de la nouvelle loi s’applique comme si l’organisation syndicale avait été accréditée sous le régime de la nouvelle loi.
+
+
+
+######           — 2003, ch. 22, art. 49
+
+
+**Conseillers juridiques**
+
+**49** 
+
+- **(1)** Pour l’application de la nouvelle loi, notamment l’article 58 de celle-ci, le fonctionnaire qui, à la date d’entrée en vigueur de la définition de poste de direction ou de confiance au paragraphe 2(1) de cette loi, ou par la suite, occupe un poste de conseiller juridique du ministère de la Justice ou de l’Agence des douanes et du revenu du Canada est réputé ne pas faire partie d’une unité dont il a été déclaré, sous le régime de l’ancienne loi, qu’elle constitue une unité habile à négocier collectivement.
+
+**Nouvelle demande obligatoire**
+
+- **(2)** Il est entendu que l’organisation syndicale qui entend représenter des fonctionnaires d’une unité de négociation qui comprend un ou plusieurs fonctionnaires visés au paragraphe (1) doit présenter la demande prévue à l’article 54 de la nouvelle loi.
+
+
+
+######           — 2003, ch. 22, art. 50
+
+
+**Maintien de certains postes de direction ou de confiance**
+
+**50** Tout poste qui, à l’entrée en vigueur de la définition de poste de direction ou de confiance au paragraphe 2(1) de la nouvelle loi, était un poste visé à l’un des alinéas a), b), e), f) et g) de la définition de poste de direction ou de confiance au paragraphe 2(1) de l’ancienne loi est réputé, à compter de cette entrée en vigueur, être un poste de direction ou de confiance au sens de la définition de ce terme au paragraphe 2(1) de la nouvelle loi.
+
+
+
+######           — 2003, ch. 22, art. 51
+
+
+**Mode de règlement des différends**
+
+**51** Le mode de règlement des différends enregistré par l’ancienne Commission vaut, jusqu’à sa modification en conformité avec la nouvelle loi, pour l’unité de négociation concernée.
+
+
+
+######           — 2003, ch. 22, art. 52
+
+
+**Maintien en vigueur des conventions collectives**
+
+**52** La convention collective conclue sous le régime de l’ancienne loi, si elle est en vigueur à l’entrée en vigueur de la définition de convention collective, au paragraphe 2(1) de la nouvelle loi, est réputée avoir été conclue sous le régime de celle-ci et demeure en vigueur jusqu’à la date prévue pour son expiration.
+
+
+
+######           — 2003, ch. 22, art. 53
+
+
+**Maintien en vigueur des décisions arbitrales**
+
+**53** La décision arbitrale rendue sous le régime de l’ancienne loi, si elle est en vigueur à l’entrée en vigueur de la définition de décision arbitrale, au paragraphe 2(1) de la nouvelle loi, est réputée avoir été rendue sous le régime de celle-ci et demeure en vigueur jusqu’à la date prévue pour son expiration.
+
+
+
+######           — 2003, ch. 22, art. 54
+
+
+**Conciliateur**
+
+**54** La personne nommée conciliateur en vertu de l’article 53 de l’ancienne loi avant la date d’abrogation de celui-ci peut, après cette date, continuer d’agir à ce titre conformément à cet article et à l’article 54 de l’ancienne loi, dans leur version antérieure à cette date, la mention de « président » à l’article 54 valant toutefois mention du président de la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 55
+
+
+**Enquêteur**
+
+**55** La personne nommée enquêteur en vertu de l’article 54.1 de l’ancienne loi avant la date d’abrogation de celui-ci peut, après cette date, continuer d’agir à ce titre conformément à l’article 54.4 de cette loi, dans sa version antérieure à cette date. Les articles 54.1 à 54.6 de l’ancienne loi s’appliquent alors à l’enquête, la mention de « Commission » et de « président » dans ces articles valant toutefois respectivement mention de la nouvelle Commission et du président de celle-ci.
+
+
+
+######           — 2003, ch. 22, art. 56
+
+
+**Application de l’article 61 de l’ancienne loi**
+
+**56** La personne à qui est renvoyée une question aux termes de l’article 61 de l’ancienne loi avant la date d’abrogation de celui-ci peut statuer sur la question après cette date conformément à cette loi, dans sa version antérieure à cette date.
+
+
+
+######           — 2003, ch. 22, art. 57
+
+
+**Arbitrage**
+
+**57** 
+
+- **(1)** Les règles ci-après s’appliquent aux demandes d’arbitrage présentées avant la date d’entrée en vigueur de l’article 136 de la nouvelle loi et qui n’ont fait l’objet d’aucune décision arbitrale :
+	- **a)** si aucun conseil d’arbitrage n’a été créé ni aucun arbitre nommé avant cette date, il est décidé de la demande comme si elle avait été présentée en vertu de cet article;
+	- **b)** si un arbitre a été nommé avant cette date, celui-ci est réputé être un conseil d’arbitrage à membre unique créé aux termes de l’article 139 de la nouvelle loi et il est décidé de la demande conformément à la section 9 de la partie 1 de cette loi;
+	- **c)** si un conseil d’arbitrage a été créé avant cette date, celui-ci est réputé être un conseil d’arbitrage de trois membres créé aux termes de l’article 140 de la nouvelle loi et il est décidé de la demande conformément à la section 9 de la partie 1 de cette loi.
+
+**Restriction**
+
+- **(2)** Il est entendu que la décision arbitrale rendue au titre du paragraphe (1) ne peut porter que sur une condition d’emploi susceptible d’être incluse dans une décision arbitrale rendue au titre de l’ancienne loi, dans sa version antérieure à la date d’entrée en vigueur de l’article 140 de la nouvelle loi.
+
+
+
+######           — 2003, ch. 22, art. 58
+
+
+**Application de dispositions de l’ancienne loi**
+
+**58** 
+
+- **(1)** Si, avant la date d’entrée en vigueur de l’article 105 de la nouvelle loi, un avis de négociation collective a été donné sous le régime de l’ancienne loi à l’égard d’une unité de négociation qui a choisi la conciliation comme mode de règlement des différends mais qu’une convention collective n’a pas été conclue avant cette date, les alinéas ci-après s’appliquent à l’employeur, à l’agent négociateur de l’unité de négociation et aux fonctionnaires de celle-ci jusqu’à la conclusion de la convention collective :
+	- **a)** les articles 76 à 90.1 et les articles 102 à 107 de l’ancienne loi, dans leur version antérieure à cette date, s’appliquent à compter de cette date, sauf que les mentions dans ces articles de « Commission », de « président » et de « ministre » valent respectivement mention de la nouvelle Commission, du président de celle-ci et du ministre au sens de la définition de ministre, au paragraphe 2(1) de la nouvelle loi;
+	- **b)** le comité d’examen constitué avant cette date peut continuer ses travaux à compter de celle-ci;
+	- **c)** le commissaire-conciliateur nommé avant cette date ou le bureau de conciliation établi avant cette date peut continuer ses travaux à compter de celle-ci.
+
+**Non-application**
+
+- **(2)** Il est entendu que, s’ils sont assujettis au paragraphe (1), l’employeur, l’agent négociateur de l’unité de négociation et les fonctionnaires de celle-ci ne sont pas assujettis aux sections 8, 10, 11 et 14 de la partie 1 de la nouvelle loi jusqu’à la conclusion de la convention collective.
+
+
+
+######           — 2003, ch. 22, art. 59
+
+
+**Plaintes visées à l’alinéa 23(1)b) de l’ancienne loi**
+
+**59** Les plaintes visées à l’alinéa 23(1)b) de l’ancienne loi qui sont pendantes devant l’ancienne Commission à l’entrée en vigueur de l’article 221 de la nouvelle loi sont réputées, pour l’application de cette loi, être des griefs de principe renvoyés à l’arbitrage et, dans le cas où une formation de l’ancienne Commission avait commencé à instruire la plainte, la formation est réputée, sous réserve de l’article 39, être un arbitre de grief ou un conseil d’arbitrage de grief, selon le cas.
+
+
+
+######           — 2003, ch. 22, art. 60
+
+
+**Plaintes visées à l’alinéa 23(1)c) de l’ancienne loi**
+
+**60** Les plaintes visées à l’alinéa 23(1) c) de l’ancienne loi qui sont pendantes devant l’ancienne Commission à l’entrée en vigueur de l’article 234 de la nouvelle loi sont réputées, pour l’application de cette loi, avoir été retirées à cette entrée en vigueur.
+
+
+
+######           — 2003, ch. 22, art. 61
+
+
+**Application de l’ancienne loi**
+
+**61** 
+
+- **(1)** Sous réserve du paragraphe (5), il est statué conformément à l’ancienne loi, dans sa version antérieure à la date d’entrée en vigueur de l’article 208 de la nouvelle loi, sur les griefs présentés sous le régime de l’ancienne loi s’ils n’ont pas encore fait l’objet d’une décision définitive à cette date.
+
+**Arbitres de grief**
+
+- **(2)** Pour l’application du paragraphe (1), l’arbitre de grief choisi sous le régime de l’ancienne loi et saisi d’un grief avant l’entrée en vigueur de l’article 209 de la nouvelle loi, peut continuer l’instruction de celui-ci. Si l’arbitre est un membre de l’ancienne Commission, il ne peut continuer l’instruction du grief que si le président le lui demande.
+
+**Autorité du président**
+
+- **(3)** Le membre de l’ancienne Commission qui continue l’instruction d’un grief au titre du paragraphe (2) agit sous l’autorité du président.
+
+**Dessaisissement**
+
+- **(4)** En cas de refus d’un arbitre de grief de continuer l’instruction d’un grief au titre du paragraphe (2), le président peut renvoyer le grief à un membre de la nouvelle Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+**Arbitrage postérieur à la date de référence**
+
+- **(5)** Si le grief visé au paragraphe (1) est renvoyé à l’arbitrage après la date d’entrée en vigueur de l’article 209 de la nouvelle loi, l’arbitre de grief qui en est saisi est choisi conformément à la nouvelle loi.
+
+**Pouvoirs**
+
+- **(6)** Pour l’application des paragraphes (2) et (5), l’arbitre de grief jouit des pouvoirs dont disposait un arbitre de grief sous le régime de l’ancienne loi.
+
+
+
+######           — 2003, ch. 22, art. 62
+
+
+**Honoraires**
+
+**62** Pour l’instruction d’un grief au titre du paragraphe 61(2), l’arbitre de grief choisi sous le régime de l’ancienne loi qui, au moment où il a été choisi, était un membre de l’ancienne Commission ou un arbitre visé à l’alinéa 95(2) a.1) de l’ancienne loi a droit :
+- **a)** aux honoraires que peut fixer le gouverneur en conseil;
+- **b)** aux frais de déplacement et de séjour entraînés par l’accomplissement de ses fonctions hors de son lieu habituel de résidence.
+
+
+
+######           — 2003, ch. 22, art. 63
+
+
+**Date limite**
+
+**63** Le président peut dessaisir tout membre de l’ancienne Commission de tout grief visé au paragraphe 61(2) qui n’est pas tranché dans l’année qui suit la date d’entrée en vigueur de l’article 209 de la nouvelle loi et renvoyer le grief à un membre de la nouvelle Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+
+
+######           — 2003, ch. 22, art. 64
+
+
+**Faits antérieurs — griefs individuels**
+
+**64** Sous réserve des règlements pris en vertu de l’article 237 de la nouvelle loi et de toute convention collective ou décision arbitrale applicable, un grief individuel peut être présenté à la date d’entrée en vigueur de l’article 208 de la nouvelle loi ou par la suite, à l’égard de faits survenus avant cette date et qui auraient pu donner lieu à un grief au titre de l’article 91 de l’ancienne loi, dans sa version antérieure à cette date.
+
+
+
+######           — 2003, ch. 22, art. 65
+
+
+**Faits antérieurs — griefs de principe**
+
+**65** Sous réserve des règlements pris sous le régime de l’article 237 de la nouvelle loi et de toute convention collective ou décision arbitrale applicable, un grief de principe peut être présenté à la date d’entrée en vigueur de l’article 220 de la nouvelle loi ou par la suite, à l’égard de faits survenus avant cette date dans le cas où l’affaire aurait pu être renvoyée à l’ancienne Commission au titre de l’article 99 de l’ancienne loi, dans sa version antérieure à cette date.
+
+
+
+######           — 2003, ch. 22, art. 66
+
+
+**Anciennes décisions arbitrales**
+
+**66** Les décisions rendues par les arbitres de grief sous le régime de l’ancienne loi sont réputées avoir été rendues par des arbitres de grief sous le régime de la nouvelle loi, notamment pour ce qui est de leur exécution.
+
+
+
+######           — 2009, ch. 2, par. 396(3)
+
+
+**Pouvoirs de la Commission**
+
+**396** 
+
+- **(3)** La Commission dispose, pour statuer sur les plaintes, en plus des pouvoirs que lui confère la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), du pouvoir d’interpréter et d’appliquer les articles 7, 10 et 11 de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) et l’Ordonnance de 1986 sur la parité salariale, même après l’entrée en vigueur de l’article 399.
+
+
+
+######           — 2013, ch. 40, art. 338, modifié par 2014, ch. 20, art. 309
+
+
+**Définitions**
+
+**338** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***date de référence*** Date à laquelle la présente loi reçoit la sanction royale. (*commencement day*)
+
+***Loi*** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md). (*the Act*)
+
+**Terminologie**
+
+- **(2)** Sauf indication contraire du contexte, les termes du présent article s’entendent au sens de la Loi.
+
+**Application des dispositions édictées par la présente loi**
+
+- **(3)** Sous réserve des paragraphes (4) à (7), les dispositions de la Loi édictées par les articles 294 à 306, le paragraphe 307(1), les articles 308 à 314, le paragraphe 316(1) et les articles 317 à 324 s’appliquent également à toute unité de négociation :
+	- **a)** à l’égard de laquelle un avis de négocier collectivement en vue de la conclusion, du renouvellement ou de la révision d’une convention collective a été donné avant la date de référence;
+	- **b)** qui est liée par une convention collective ou une décision arbitrale en vigueur à la date de référence — laquelle convention ou décision expire à cette date ou après celle-ci — et à l’égard de laquelle aucun avis de négocier collectivement n’a été donné avant la date de référence;
+	- **c)** à l’égard de laquelle aucun avis de négocier collectivement pour la conclusion d’une première convention collective n’a été donné avant la date de référence.
+
+**Établissement du conseil d’arbitrage**
+
+- **(4)** Sous réserve des paragraphes (6) et (7), les dispositions de la Loi, dans leur version antérieure à la date de référence, continuent de s’appliquer à toute unité de négociation visée à l’alinéa (3)a) jusqu’à ce qu’une décision arbitrale soit rendue à son égard, si les conditions ci-après sont réunies avant cette date :
+	- **a)** une demande d’arbitrage a été présentée par l’employeur ou l’agent négociateur représentant l’unité de négociation;
+	- **b)** le président a avisé les parties de l’établissement d’un conseil d’arbitrage.
+
+**Établissement de la commission de l’intérêt public**
+
+- **(5)** Sous réserve des paragraphes (6) et (7), les dispositions de la Loi, dans leur version antérieure à la date de référence, continuent de s’appliquer à toute unité de négociation visée à l’alinéa (3)a) jusqu’à ce qu’une convention collective soit conclue par les parties, si les conditions ci-après sont réunies avant cette date :
+	- **a)** une demande de conciliation a été faite par l’employeur ou l’agent négociateur représentant l’unité de négociation;
+	- **b)** le président a avisé les parties de l’établissement d’une commission de l’intérêt public.
+
+**Aucune entente sur les services essentiels**
+
+- **(6)** Malgré les paragraphes (4) et (5), si, avant la date de référence, l’arbitrage ou la conciliation a été choisi par l’agent négociateur représentant une unité de négociation visée aux alinéas (3)a) ou b) comme mode de règlement des différends applicable à tout différend auquel il peut être partie, mais qu’aucune entente sur les services essentiels n’a été conclue entre celui-ci et l’employeur à l’égard de l’unité de négociation, alors :
+	- **a)** si, avant le 12 décembre 2013, aucun avis visé aux alinéas (4)b) ou (5)b) n’a été donné, le mode de règlement des différends est la conciliation;
+	- **b)** les articles 120 et 121 de la Loi, édictés par l’article 305, s’appliquent sauf que, malgré le paragraphe 121(3) de la Loi, édicté par l’article 305, l’employeur a douze mois après la date de référence pour donner l’avis visé au paragraphe 121(1) de la Loi, édicté par cet article 305.
+
+**Entente sur les services essentiels en vigueur**
+
+- **(7)** Malgré les paragraphes (4) et (5), si, avant la date de référence, l’arbitrage ou la conciliation a été choisi par l’agent négociateur représentant une unité de négociation visée aux alinéas (3)a) ou b) comme mode de règlement des différends applicable à tout différend auquel il peut être partie et qu’une entente sur les services essentiels a été conclue entre celui-ci et l’employeur à l’égard de l’unité de négociation, le mode de règlement applicable à celle-ci est :
+	- **a)** l’arbitrage, si au moins quatre-vingts pour cent des postes de l’unité de négociation étaient, avant la date de référence, nécessaires à la fourniture d’un service essentiel;
+	- **b)** la conciliation, si ce pourcentage était de moins de quatre-vingts pour cent.
+
+**Précision**
+
+- **(7.1)** Le paragraphe (7) ne s’applique pas si l’avis visé aux alinéas (4)b) ou (5)b) a été donné avant le 12 décembre 2013.
+
+**Application du paragraphe 105(2)**
+
+- **(8)** Le paragraphe 105(2) de la Loi, dans sa version antérieure à la date de référence, continue de s’appliquer à l’unité de négociation visée à l’alinéa (3)b) jusqu’à ce qu’une décision arbitrale ait été rendue ou qu’une convention collective ait été conclue à son égard.
+
+**Postes — entente sur les services essentiels**
+
+- **(9)** Malgré les paragraphes (4) et (5), si une unité de négociation est liée par une entente sur les services essentiels avant la date de référence :
+	- **a)** les articles 120 et 121 de la Loi, édictés par l’article 305, s’appliquent sauf que, malgré le paragraphe 121(3) de la Loi, édicté par l’article 305, l’employeur a douze mois après la date de référence pour donner l’avis visé au paragraphe 121(1) de la Loi, édicté par cet article 305;
+	- **b)** les postes qui y sont précisés comme étant nécessaires pour permettre à l’employeur de fournir les services essentiels sont réputés des postes désignés en vertu de l’article 120 de la Loi, édicté par l’article 305.
+Il est entendu que le paragraphe 124(1) de la Loi, édicté par l’article 305, ne s’applique pas aux postes visés à l’alinéa b).
+
+**Précision**
+
+- **(10)** Il est entendu que :
+	- **a)** les ententes sur les services essentiels conclues entre l’employeur et un agent négociateur et en vigueur avant la date de référence sont réputées avoir cessé d’avoir effet à cette date;
+	- **b)** les ententes sur les services essentiels conclues entre l’employeur et un agent négociateur après la date de référence cessent de s’appliquer dès qu’une convention collective est conclue entre eux.
+
+
+
+######           — 2013, ch. 40, art. 391
+
+
+**Définitions**
+
+**391** Les définitions qui suivent s’appliquent aux articles 392 à 402.
+
+***ancienne Commission*** La Commission des relations de travail dans la fonction publique, créée par l’article 12 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), dans sa version antérieure à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi. (*former Board*)
+
+***nouvelle Commission*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique. (*new Board*)
+
+
+
+######           — 2013, ch. 40, art. 392
+
+
+**Fin des mandats**
+
+**392** 
+
+- **(1)** Le mandat des commissaires de l’ancienne Commission prend fin à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi.
+
+**Absence de droit à réclamation**
+
+- **(2)** Malgré les dispositions de tout contrat, accord ou décret, les personnes nommées commissaires à temps partiel de l’ancienne Commission n’ont aucun droit de réclamer ou de recevoir une compensation, des dommages-intérêts, une indemnité ou toute autre forme de dédommagement de Sa Majesté du chef du Canada ou de ses employés ou mandataires parce que leur mandat a pris fin ou en raison de l’abolition de leur poste par application de la présente section.
+
+
+
+######           — 2013, ch. 40, art. 393
+
+
+**Poursuite des instances**
+
+**393** Sous réserve de l’article 394, toute instance engagée au titre de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) avant la date d’entrée en vigueur du paragraphe 366(1) de la présente loi se poursuit sans autres formalités en conformité avec cette loi, dans sa forme modifiée par la présente section.
+
+
+
+######           — 2013, ch. 40, art. 394
+
+
+**Personnel du Tribunal de la dotation de la fonction publique**
+
+**394** Toute instance engagée au titre des parties 1 ou 2 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) avant la date d’entrée en vigueur du paragraphe 366(1) de la présente loi, qui concerne un membre du personnel du Tribunal de la dotation de la fonction publique — maintenu par le paragraphe 88(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), dans sa version antérieure à cette date — et qui est en cours devant l’ancienne Commission à cette date est réputée avoir été retirée à cette date.
+
+
+
+######           — 2013, ch. 40, art. 395
+
+
+**Conclusion des affaires en instance — anciens commissaires**
+
+**395** 
+
+- **(1)** Tout commissaire de l’ancienne Commission — autre que l’arbitre de grief visé à l’alinéa 223(2)d) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), dans sa version antérieure à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi — peut, à la demande du président de la nouvelle Commission, continuer à entendre et trancher toute affaire dont il a été saisi avant cette date.
+
+**Attributions**
+
+- **(2)** Pour l’application du paragraphe (1), le commissaire de l’ancienne Commission a les mêmes attributions qu’une formation de la nouvelle Commission.
+
+**Refus**
+
+- **(3)** En cas de refus du commissaire de l’ancienne Commission de continuer à entendre ou trancher une affaire visée au paragraphe (1), le président de la nouvelle Commission peut la confier, au titre de l’article 37 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique, à une formation de la nouvelle Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+**Autorité du président**
+
+- **(4)** Le commissaire de l’ancienne Commission qui continue à entendre et trancher une affaire au titre du paragraphe (1) agit sous l’autorité du président de la nouvelle Commission.
+
+**Rémunération**
+
+- **(5)** Le commissaire de l’ancienne Commission a droit, pour entendre et trancher une affaire visée au paragraphe (1) :
+	- **a)** à la rémunération que peut fixer le gouverneur en conseil;
+	- **b)** aux frais de déplacement et de séjour entraînés par l’accomplissement de ses fonctions hors de son lieu habituel de résidence.
+
+**Date limite**
+
+- **(6)** Le président de la nouvelle Commission peut dessaisir un commissaire de l’ancienne Commission de toute affaire visée au paragraphe (1) qui n’est pas réglée dans l’année suivant la date d’entrée en vigueur du paragraphe 366(1) de la présente loi et la confier, au titre de l’article 37 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique, à une formation de la nouvelle Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+
+
+######           — 2013, ch. 40, art. 396
+
+
+**Conclusion des affaires en instance — anciens arbitres de grief**
+
+**396** 
+
+- **(1)** Tout arbitre de grief visé à l’alinéa 223(2)d) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), dans sa version antérieure à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi, peut, à la demande du président de la nouvelle Commission, continuer à entendre et trancher tout grief dont il a été saisi avant cette date.
+
+**Attributions**
+
+- **(2)** Pour l’application du paragraphe (1), l’arbitre de grief jouit des pouvoirs dont disposait un arbitre de grief sous le régime de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), dans sa version antérieure à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi.
+
+**Refus**
+
+- **(3)** En cas de refus de l’arbitre de grief de continuer à entendre ou trancher un grief visé au paragraphe (1), la nouvelle Commission s’en saisit.
+
+**Autorité du président**
+
+- **(4)** L’arbitre de grief qui continue à entendre et trancher un grief au titre du paragraphe (1) agit sous l’autorité du président de la nouvelle Commission.
+
+**Rémunération**
+
+- **(5)** L’arbitre de grief a droit, pour entendre et trancher un grief visé au paragraphe (1) :
+	- **a)** à la rémunération que peut fixer le gouverneur en conseil;
+	- **b)** aux frais de déplacement et de séjour entraînés par l’accomplissement de ses fonctions hors de son lieu habituel de résidence.
+
+**Date limite**
+
+- **(6)** Le président de la nouvelle Commission peut dessaisir un arbitre de grief de tout grief visé au paragraphe (1) qui n’est pas réglé dans l’année suivant la date d’entrée en vigueur du paragraphe 366(1) de la présente loi. Le cas échéant, la nouvelle Commission s’en saisit.
+
+
+
+######           — 2013, ch. 40, art. 397
+
+
+**Personnel de l’ancienne Commission**
+
+**397** La présente section ne change rien à la situation des membres du personnel de l’ancienne Commission à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi, à la différence près que, à compter de cette date, ils sont membres du personnel de la nouvelle Commission.
+
+
+
+######           — 2013, ch. 40, art. 398
+
+
+**Transfert des droits et obligations**
+
+**398** Les droits et biens de l’ancienne Commission, ceux qui sont détenus en son nom ou en fiducie ou en fidéicommis pour elle ainsi que ses obligations et engagements sont réputés être ceux de la nouvelle Commission.
+
+
+
+######           — 2013, ch. 40, art. 399
+
+
+**Renvois**
+
+**399** Sauf indication contraire du contexte, dans tous les contrats, actes et documents passés ou signés en conformité avec toutes les formalités requises par l’ancienne Commission sous son nom, les renvois à celle-ci valent renvois à la nouvelle Commission.
+
+
+
+######           — 2013, ch. 40, art. 400
+
+
+**Procédures judiciaires en cours**
+
+**400** La nouvelle Commission prend la suite de l’ancienne Commission, au même titre et dans les mêmes conditions que celle-ci, comme partie aux procédures judiciaires en cours à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi.
+
+
+
+######           — 2013, ch. 40, art. 401
+
+
+**Nouvelles poursuites judiciaires**
+
+**401** Les poursuites judiciaires relatives aux obligations ou aux engagements de l’ancienne Commission peuvent être intentées contre la nouvelle Commission devant tout tribunal qui aurait eu compétence pour en être saisi si elles avaient été intentées contre l’ancienne Commission.
+
+
+
+######           — 2013, ch. 40, art. 402
+
+
+**Maintien des décisions et ordonnances**
+
+**402** Les décisions ou ordonnances rendues par l’ancienne Commission sont réputées l’avoir été par la nouvelle Commission, notamment pour ce qui est de leur exécution.
+
+
+
+######           — 2017, ch. 9, art. 61
+
+
+**Définitions**
+
+**61** 
+
+- **(1)** Les définitions qui suivent s’appliquent aux articles 62 à 64.
+
+***ancienne loi*** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) dans sa version avant l’entrée en vigueur de l’article 2. (*former Act*)
+
+***membre*** Membre au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md). (*member*)
+
+***réserviste*** Personne nommée à titre de réserviste en application des règlements pris en vertu du paragraphe 11(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md). (*reservist*)
+
+**Interprétation**
+
+- **(2)** Sauf indication contraire du contexte, les termes figurant aux articles 62 à 64 s’entendent au sens du paragraphe 2(1) de l’ancienne loi.
+
+
+
+######           — 2017, ch. 9, art. 62
+
+
+**Griefs individuels**
+
+**62** 
+
+- **(1)** Tout grief individuel présenté par un membre au titre du paragraphe 208(1) de l’ancienne loi, avant la date d’entrée en vigueur de l’article 238.24 de la Loi sur les relations de travail dans le secteur public fédéral, édicté par l’article 33, qui ne vise pas l’interprétation ou l’application à l’égard de ce membre de toute disposition d’une convention collective ou d’une décision arbitrale, est réputé n’avoir jamais été présenté, et toute décision qui en découle ou qui découle de sa révision est réputée n’avoir jamais pris effet.
+
+**Délai de présentation prorogé**
+
+- **(2)** Si, aux termes du paragraphe (1), un grief individuel est réputé n’avoir jamais été présenté ou une décision qui découle de ce grief est réputée n’avoir jamais pris effet, le membre qui a présenté le grief individuel a, malgré toute disposition contraire de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), trente jours à compter de la date d’entrée en vigueur de l’article 33 pour présenter le grief ou engager toute autre procédure pour réparer le préjudice sous le régime de cette loi, à la condition que le grief ou la procédure porte sur les mêmes faits que le grief individuel.
+
+**Réserve**
+
+- **(3)** Le paragraphe (2) s’applique dans le seul cas où le grief individuel aurait, s’il avait été présenté ou si une autre procédure pour réparer le préjudice avait été engagée sous le régime de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), été présenté dans le délai établit sous le régime de cette loi pour présenter le grief ou pour engager la procédure en cause.
+
+
+
+######           — 2017, ch. 9, art. 63
+
+
+**Demande d’accréditation en cours**
+
+**63** 
+
+- **(1)** Lorsqu’avant la date d’entrée en vigueur de l’article 238.13 de la Loi sur les relations de travail dans le secteur public fédéral, édicté par l’article 33, une organisation syndicale sollicite son accréditation en vertu de l’article 54 de l’ancienne loi comme agent négociateur pour un groupe composé notamment de fonctionnaires qui sont des membres nommés à un grade ou qui sont des réservistes, l’accréditation de l’organisation ne peut être accordée sauf si, à la fois :
+	- **a)** le groupe est composé exclusivement de l’ensemble des fonctionnaires qui sont des membres nommés à un grade, à l’exclusion des officiers au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), et des fonctionnaires qui sont des réservistes;
+	- **b)** cette organisation syndicale — et, dans le cas d’un regroupement d’organisations syndicales, chacune de celles-ci — remplit les conditions suivantes :
+		- **(i)** avoir pour mission principale de représenter les fonctionnaires qui sont des membres nommés à un grade, à l’exclusion des officiers, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md),
+		- **(ii)** ne pas être affiliée à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers,
+		- **(iii)** n’être accréditée comme agent négociateur pour aucun autre groupe de fonctionnaires.
+
+**Précision**
+
+- **(2)** Il est entendu que, pour l’application du paragraphe (1), la participation d’une organisation syndicale au Conseil national mixte n’est pas considérée comme une affiliation à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers.
+
+**Accréditation sans effet**
+
+- **(3)** Dans le cas où l’organisation syndicale a été accréditée comme agent négociateur d’une unité de négociation contrairement au paragraphe (1), cette décision ou celle qui découle de sa révision est réputée n’avoir jamais pris effet.
+
+**Accréditation de tout autre groupe**
+
+- **(4)** Si, avant la date d’entrée en vigueur de l’article 33, une organisation syndicale qui remplit les conditions énumérées à l’alinéa (1)b) est accréditée comme agent négociateur pour le groupe visé à l’alinéa (1)a), toute décision rendue avant cette date à l’égard d’une demande d’accréditation comme agent négociateur pour tout autre groupe de fonctionnaires de la part de cette organisation est réputée n’avoir jamais pris effet.
+
+**Demande d’accréditation en cours**
+
+- **(5)** Si, avant la date d’entrée en vigueur de l’article 33, une organisation syndicale qui remplit les conditions énumérées à l’alinéa (1)b) est accréditée comme agent négociateur pour l’unité de négociation composée du groupe visé à l’alinéa (1)a), la demande d’accréditation de l’organisation syndicale faite en vertu de l’article 54 de l’ancienne loi est, à cette date, réputée avoir été faite en vertu du paragraphe 238.13(1) de la Loi sur les relations de travail dans le secteur public fédéral, édicté par l’article 33, plutôt qu’en vertu de cet article 54 et l’unité de négociation est réputée avoir été définie au titre de l’article 238.14 de cette dernière loi.
+
+**Demande d’accréditation en cours**
+
+- **(6)** Si, à compter de la date d’entrée en vigueur de l’article 33, une organisation syndicale qui remplit les conditions prévues à l’alinéa (1)b) est accréditée comme agent négociateur pour l’unité de négociation composée du groupe visé à l’alinéa (1)a), la demande d’accréditation de l’organisation syndicale faite en vertu de l’article 54 de l’ancienne loi est, lorsqu’elle est accordée, réputée avoir été faite en vertu du paragraphe 238.13(1) de la Loi sur les relations de travail dans le secteur public fédéral, édicté par l’article 33, plutôt qu’en vertu de cet article 54 et l’unité de négociation est réputée avoir été définie au titre de l’article 238.14 de cette dernière loi.
+
+
+
+######           — 2017, ch. 9, art. 64
+
+
+**Appartenance à une unité de négociation — membre et réserviste**
+
+**64** 
+
+- **(1)** Toute demande présentée en vertu de l’article 58 de l’ancienne loi, avant la date d’entrée en vigueur de l’article 238.16 de la Loi sur les relations de travail dans le secteur public fédéral, édicté par l’article 33, portant sur l’appartenance de tout membre nommé à un grade ou de tout réserviste à une unité de négociation autre qu’une unité de négociation composée du groupe visé à l’alinéa 63(1)a) est réputée n’avoir jamais été présentée et toute décision qui découle de la demande ou qui découle de sa révision est réputée n’avoir jamais pris effet.
+
+**Appartenance à une unité de négociation — autre fonctionnaire**
+
+- **(2)** Toute demande présentée en vertu de l’article 58 de l’ancienne loi, avant la date d’entrée en vigueur de l’article 238.16 de la Loi sur les relations de travail dans le secteur public fédéral, édicté par l’article 33, portant sur l’appartenance de tout fonctionnaire, autre qu’un membre nommé à un grade ou qu’un réserviste, à une unité de négociation composée du groupe visé à l’alinéa 63(1)a) pour lequel est accréditée l’organisation syndicale qui remplit les conditions énumérées à l’alinéa 63(1)b) est réputée n’avoir jamais été présentée et toute décision qui découle de la demande ou qui découle de sa révision est réputée n’avoir jamais pris effet.
+
+
+
+######           — 2017, ch. 9, art. 65
+
+
+**Date publiée**
+
+**65** À compter de la date publiée par le Conseil du Trésor dans la [Gazette du Canada](http://www.gazette.gc.ca/) en vertu du paragraphe 86(1) de la Loi visant à accroître la responsabilité de la Gendarmerie royale du Canada, la mention de membre nommé à un grade aux paragraphes 63(1) ou 64(1) ou (2) vaut mention de membre.
+
+
+
+######           — 2017, ch. 12, art. 16
+
+
+**[Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) — demandes en instance**
+
+**16** Est régie par la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) dans sa version antérieure à la date d’entrée en vigueur de l’article 8 toute demande prévue à l’alinéa 64(1.1)a) de cette loi ou présentée en vertu du paragraphe 94(1) de celle-ci dont la Commission des relations de travail et de l’emploi dans la fonction publique est saisie pendant la période qui commence le 16 juin 2015 et qui se termine à l’expiration du jour précédant cette date d’entrée en vigueur et dont il n’a pas été décidé définitivement avant cette date d’entrée en vigueur.
+
+
+
+######           — 2018, ch. 24, art. 27
+
+
+**Définitions**
+
+**27** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***date de référence*** Date à laquelle la présente loi reçoit la sanction royale. *(commencement day)*
+
+***Loi*** La Loi sur les relations de travail dans le secteur public fédéral. *(the Act)*
+
+**Terminologie**
+
+- **(2)** Sauf indication contraire du contexte, les termes du présent article s’entendent au sens de la Loi.
+
+- **(3)** Si, avant la date de référence, l’employeur ou l’agent négociateur représentant une unité de négociation a donné un avis de négocier collectivement et qu’aucune des parties n’a demandé le renvoi à l’arbitrage par un avis donné aux termes du paragraphe 136(1) de la Loi ou à la conciliation par une demande visée au paragraphe 162(1) de la Loi, les dispositions de la Loi dans leurs versions modifiées à la date de référence ou postérieurement s’appliquent.
+
+- **(4)** Si, avant la date de référence, l’employeur ou l’agent négociateur représentant une unité de négociation a donné un avis de négocier collectivement, qu’une des parties a demandé l’arbitrage par un avis donné aux termes du paragraphe 136(1) de la Loi et qu’aucune séance visée au paragraphe 146(1) de la Loi n’a été tenue, les dispositions de la Loi dans leurs versions modifiées à la date de référence ou postérieurement s’appliquent.
+
+- **(5)** Si, avant la date de référence, l’employeur ou l’agent négociateur représentant une unité de négociation a donné un avis de négocier collectivement, qu’une des parties a demandé la conciliation aux termes du paragraphe 162(1) de la Loi et qu’aucune séance visée au paragraphe 173(1) de la Loi n’a été tenue, les dispositions de la Loi dans leurs versions modifiées à la date de référence ou postérieurement s’appliquent.
+
+- **(6)** Si, avant la date de référence, l’employeur ou l’agent négociateur représentant une unité de négociation a donné un avis de négocier collectivement, qu’une des parties a demandé l’arbitrage par un avis donné aux termes du paragraphe 136(1) de la Loi et qu’une séance visée au paragraphe 146(1) de la Loi a été tenue, les dispositions de la Loi dans sa version antérieure à la date de référence s’appliquent.
+
+- **(7)** Si, avant la date de référence, l’employeur ou l’agent négociateur représentant une unité de négociation a donné un avis de négocier collectivement, qu’une des parties a demandé le renvoi à la conciliation aux termes du paragraphe 162(1) de la Loi et qu’une séance visée au paragraphe 173(1) de la Loi a été tenue, les dispositions de la Loi dans sa version antérieure à la date de référence ainsi que le paragraphe 194(2) de la Loi, dans sa version modifiée par le paragraphe 23(2) de la présente loi, s’appliquent.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2009, ch. 2, art. 401, modifié par 2017, ch. 9, al. 66(1)a)
+
+**401** Le paragraphe 208(3) de la Loi sur les relations de travail dans le secteur public fédéral est remplacé par ce qui suit :
+
+**Réserve**
+
+- **(3)** Le fonctionnaire ne peut présenter de grief individuel relativement à toute question liée à la parité salariale pour l’exécution de fonctions équivalentes ou à toute autre question mentionnée dans la [Loi sur l’équité dans la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/2009/ch.%202,%20art.%20394.md).
+
+
+
+######           — 2009, ch. 2, art. 402, modifié par 2017, ch. 9, al. 66(1)a)
+
+**402** Le paragraphe 215(5) de la Loi sur les relations de travail dans le secteur public fédéral est remplacé par ce qui suit :
+
+**Réserve**
+
+- **(5)** L’agent négociateur ne peut présenter de grief collectif relativement à toute question liée à la parité salariale pour l’exécution de fonctions équivalentes ou à toute autre question mentionnée dans la [Loi sur l’équité dans la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/2009/ch.%202,%20art.%20394.md).
+
+
+
+######           — 2009, ch. 2, art. 403, modifié par 2017, ch. 9, al. 66(1)a)
+
+**403** Le paragraphe 220(3) de la Loi sur les relations de travail dans le secteur public fédéral est remplacé par ce qui suit :
+
+**Réserve**
+
+- **(3)** L’employeur ou l’agent négociateur ne peut présenter de grief de principe relativement à toute question liée à la parité salariale pour l’exécution de fonctions équivalentes ou à toute autre question mentionnée dans la [Loi sur l’équité dans la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/2009/ch.%202,%20art.%20394.md).
+
+
+
+######           — 2009, ch. 2, art. 404, modifié par 2013, ch. 40, par. 469(6), 2014, ch. 39, art. 385 et 2017, ch. 9, al. 66(1)a)
+
+**404** L’alinéa 226(2)a) de la Loi sur les relations de travail dans le secteur public fédéral est remplacé par ce qui suit :
+
+- **a)** interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de cette loi sur le droit à la parité salariale pour l’exécution de fonctions équivalentes, ainsi que toute autre loi fédérale relative à l’emploi, à l’exception de la [Loi sur l’équité dans la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/2009/ch.%202,%20art.%20394.md), même si la loi en cause entre en conflit avec une convention collective;
+
+
+
+
+
+######           — 2013, ch. 40, par. 469(1) et al. (2)b), modifié par 2017, ch. 9, par. 69(7)
+
+
+**
+> 2009, ch. 2
+**
+
+**469** 
+
+- **(1)** Au présent article, « autre loi » s’entend de la [Loi d’exécution du budget de 2009](/fr/Lois/Lois%20du%20Canada/2009/ch.%202.md).
+
+- **(2)** Si l’article 367 de la présente loi entre en vigueur avant l’article 400 de l’autre loi :
+	- **b)** à la date d’entrée en vigueur de la [Loi sur l’équité dans la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/2009/ch.%202,%20art.%20394.md), les articles 13 et 14 de la deuxième loi sont remplacés par ce qui suit :
+
+**Services d’arbitrage**
+
+**13** La Commission offre des services d’arbitrage comprenant l’audition des demandes et des plaintes au titre de la présente partie et de la section 1 de la partie 2.1, le renvoi des griefs à l’arbitrage au titre de la partie 2 et de la section 2 de la partie 2.1 ainsi que l’instruction des affaires dont elle est saisie au titre de la partie 3. Elle offre également des services d’arbitrage en conformité avec la [Loi sur l’équité dans la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/2009/ch.%202,%20art.%20394.md).
+
+
+
+**Services de médiation**
+
+**14** La Commission offre des services de médiation comprenant :
+	- **a)** l’appui apporté aux parties dans le cadre de la négociation et du renouvellement des conventions collectives;
+	- **b)** l’appui apporté aux parties dans le cadre de la gestion des relations qui découlent de leur mise en oeuvre;
+	- **c)** la médiation relative aux griefs;
+	- **d)** l’appui apporté au président dans le cadre de l’exercice des fonctions que lui confère la présente loi.
+Elle offre également des services de médiation en conformité avec la [Loi sur l’équité dans la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/2009/ch.%202,%20art.%20394.md).
+
+
+
+
+
+######           — 2017, ch. 9, par. 67(1) et (2)
+
+
+**
+> 2013, ch. 18
+**
+
+**67** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***autre loi*** La loi édictée par l’article 2 du chapitre 22 des Lois du Canada (2003), avec ses modifications successives. (*other Act*)
+
+***date publiée*** Date publiée par le Conseil du Trésor dans la [Gazette du Canada](http://www.gazette.gc.ca/) en vertu du paragraphe 86(1) de la Loi visant à accroître la responsabilité de la Gendarmerie royale du Canada. (*published date*)
+
+- **(2)** Si la date d’entrée en vigueur du paragraphe 3(3) et de l’article 30 de la présente loi précède la date publiée, à la date publiée :
+	- **a)** la définition de ***membre de la GRC***, au paragraphe 2(1) de l’autre loi, est remplacée par ce qui suit :
+
+
+***membre de la GRC*** Membre, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md). (*RCMP member*)
+
+
+	- **b)** le passage du paragraphe 209(1) de l’autre loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Renvoi d’un grief à l’arbitrage**
+
+**209** 
+
+	- **(1)** Après l’avoir porté jusqu’au dernier palier de la procédure applicable sans avoir obtenu satisfaction, le fonctionnaire qui n’est pas un membre de la GRC peut renvoyer à l’arbitrage tout grief individuel portant sur :
+
+
+	- **c)** l’article 238.01 de l’autre loi est remplacé par ce qui suit :
+
+**Définition de Commissaire de la GRC**
+
+**238.01** Dans la présente partie, ***Commissaire de la GRC*** s’entend du commissaire de la Gendarmerie royale du Canada.
+
+
+	- **d)** le paragraphe 238.02(3) de l’autre loi est remplacé par ce qui suit :
+
+**Précision**
+
+	- **(3)** Il est entendu que les dispositions des parties 1 et 2, dans la mesure où elles sont applicables, s’appliquent aux fonctionnaires qui sont des membres de la GRC ou des réservistes, à moins d’indication contraire.
+
+
+
+######           — 2018, ch. 27, par. 431(2)
+
+**431** 
+
+- **(2)** Le paragraphe 396(3) de la même loi est remplacé par ce qui suit :
+
+**Pouvoirs de la Commission**
+
+- **(3)** La Commission dispose, pour statuer sur les plaintes, en plus des pouvoirs que lui confère la Loi sur les relations de travail dans le secteur public fédéral, du pouvoir d’interpréter et d’appliquer les articles 7, 10 et 11 de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) et l’[Ordonnance de 1986 sur la parité salariale](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/86/1082.md), même après l’entrée en vigueur du paragraphe 425(1) de la Loi no 2 d’exécution du budget de 2018.
+
+
+
+######           — 2018, ch. 27, par. 431(4)
+
+**431** 
+
+- **(4)** L’article 396 de la même loi est abrogé.
+
 
 
