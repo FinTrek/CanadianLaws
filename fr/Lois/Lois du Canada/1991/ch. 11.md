@@ -79,7 +79,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interprétation**
 
 - **(3)** L’interprétation et l’application de la présente loi doivent se faire de manière compatible avec la liberté d’expression et l’indépendance, en matière de journalisme, de création et de programmation, dont jouissent les entreprises de radiodiffusion.
-> 1991, ch. 11, art. 2; 1993, ch. 38, art. 81; 1995, ch. 11, art. 43.
+> 1991, ch. 11, art. 2; 1993, ch. 38, art. 81; 1995, ch. 11, art. 43
 
 
 
@@ -172,7 +172,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entreprises de télécommunication**
 
 - **(4)** Il demeure entendu que la présente loi ne s’applique pas aux entreprises de télécommunication — au sens de la [Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/1993/ch.%2038.md) — n’agissant qu’à ce titre.
-> 1991, ch. 11, art. 4; 1993, ch. 38, art. 82; 1996, ch. 31, art. 57.
+> 1991, ch. 11, art. 4; 1993, ch. 38, art. 82; 1996, ch. 31, art. 57
 
 
 
@@ -211,7 +211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Équité en matière d’emploi**
 
 - **(4)** Les entreprises de radiodiffusion qui sont assujetties à la [Loi sur l’équité en matière d’emploi](/fr/Lois/Lois%20du%20Canada/1995/ch.%2044.md) ne relèvent pas des pouvoirs du Conseil pour ce qui est de la réglementation et de la surveillance du domaine de l’équité en matière d’emploi.
-> 1991, ch. 11, art. 5; 1995, ch. 44, art. 46.
+> 1991, ch. 11, art. 5; 1995, ch. 44, art. 46
 
 
 
@@ -257,7 +257,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Le ministre fait publier dans la Gazette du Canada et déposer devant chaque chambre du Parlement un projet du décret que le gouverneur en conseil se propose de prendre au titre de l’article 7. Le projet publié est assorti d’un avis invitant les intéressés à faire leurs observations à cet égard au ministre.
+- **(1)** Le ministre fait publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) et déposer devant chaque chambre du Parlement un projet du décret que le gouverneur en conseil se propose de prendre au titre de l’article 7. Le projet publié est assorti d’un avis invitant les intéressés à faire leurs observations à cet égard au ministre.
 
 **Renvoi**
 
@@ -307,7 +307,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exemptions**
 
 - **(4)** Le Conseil soustrait, par ordonnance et aux conditions qu’il juge indiquées, les exploitants d’entreprise de radiodiffusion de la catégorie qu’il précise à toute obligation découlant soit de la présente partie, soit de ses règlements d’application, dont il estime l’exécution sans conséquence majeure sur la mise en oeuvre de la politique canadienne de radiodiffusion.
-> 1991, ch. 11, art. 9; 1994, ch. 26, art. 10(F).
+> 1991, ch. 11, art. 9; 1994, ch. 26, art. 10(F)
 
 
 
@@ -336,7 +336,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication et observations**
 
-- **(3)** Les projets de règlement sont publiés dans la Gazette du Canada, les titulaires de licences et autres intéressés se voyant accorder la possibilité de présenter leurs observations à cet égard.
+- **(3)** Les projets de règlement sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/), les titulaires de licences et autres intéressés se voyant accorder la possibilité de présenter leurs observations à cet égard.
 
 
 
@@ -369,7 +369,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication et observations**
 
-- **(5)** Les projets de règlement sont publiés dans la Gazette du Canada, les titulaires de licences et autres intéressés se voyant accorder la possibilité de présenter au Conseil leurs observations à cet égard.
+- **(5)** Les projets de règlement sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/), les titulaires de licences et autres intéressés se voyant accorder la possibilité de présenter au Conseil leurs observations à cet égard.
 
 
 
@@ -381,16 +381,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le Conseil peut connaître de toute question pour laquelle il estime :
 	- **a)** soit qu’il y a eu ou aura manquement — par omission ou commission — aux termes d’une licence, à la présente partie ou aux ordonnances, décisions ou règlements pris par lui en application de celle-ci;
 	- **a.1)** soit qu’il y a ou a eu manquement à l’article 34.1;
+	- **a.2)** soit qu’il y a ou a eu manquement — par omission ou commission — aux articles 42 à 44 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md);
 	- **b)** soit qu’il peut avoir à rendre une décision ou ordonnance ou à donner une permission, sanction ou approbation dans le cadre de la présente partie ou de ses textes d’application.
 
 **Ordres et interdiction**
 
-- **(2)** Le Conseil peut, par ordonnance, soit imposer l’exécution, sans délai ou dans le délai et selon les modalités qu’il détermine, des obligations découlant de la présente partie ou des ordonnances, décisions ou règlements pris par lui ou des licences attribuées par lui en application de celle-ci, soit interdire ou faire cesser quoi que ce soit qui y contrevient ou contrevient à l’article 34.1.
+- **(2)** Le Conseil peut, par ordonnance, soit imposer l’exécution, sans délai ou dans le délai et selon les modalités qu’il détermine, des obligations découlant de la présente partie ou des ordonnances, décisions ou règlements pris par lui ou des licences attribuées par lui en application de celle-ci ou des articles 42 à 44 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md), soit interdire ou faire cesser quoi que ce soit qui y contrevient ou contrevient à l’article 34.1.
 
 **Réexamen par le Conseil**
 
 - **(3)** Toute personne touchée par l’ordonnance d’un comité chargé, en application de l’article 20, d’entendre et de décider d’une question visée au paragraphe (1) peut, dans les trente jours suivant l’ordonnance, demander au Conseil de réexaminer la décision ou les conclusions du comité, lesquelles peuvent être annulées ou modifiées par le Conseil, après ou sans nouvelle audition.
-> 1991, ch. 11, art. 12; 2014, ch. 39, art. 191.
+> 1991, ch. 11, art. 12; 2014, ch. 39, art. 1912019, ch. 10, art. 161
 
 
 
@@ -474,7 +475,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Lieu**
 
 - **(4)** Les audiences publiques se tiennent, au Canada, au lieu désigné par le président du Conseil.
-> 1991, ch. 11, art. 18; 2001, ch. 34, art. 32(A).
+> 1991, ch. 11, art. 18; 2001, ch. 34, art. 32(A)
 
 
 
@@ -482,7 +483,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-**19** Le Conseil donne avis, dans la Gazette du Canada et dans un ou plusieurs journaux largement diffusés dans la région touchée ou susceptible de l’être, de toute demande d’attribution, de modification ou de renouvellement de licences — à l’exception des licences d’exploitation temporaire d’un réseau — reçue par lui, des audiences publiques à tenir par le Conseil et de ses décisions à cet égard.
+**19** Le Conseil donne avis, dans la [Gazette du Canada](http://www.gazette.gc.ca/) et dans un ou plusieurs journaux largement diffusés dans la région touchée ou susceptible de l’être, de toute demande d’attribution, de modification ou de renouvellement de licences — à l’exception des licences d’exploitation temporaire d’un réseau — reçue par lui, des audiences publiques à tenir par le Conseil et de ses décisions à cet égard.
 
 
 
@@ -504,7 +505,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation**
 
 - **(4)** Les membres du comité doivent consulter le Conseil — et peuvent aussi consulter les agents de celui-ci — afin d’assurer l’uniformité de l’interprétation de la politique canadienne de radiodiffusion, des objectifs prévus au paragraphe 5(2) et des règlements d’application des articles 10 et 11.
-> 1991, ch. 11, art. 20; 2001, ch. 34, art. 32(A); 2010, ch. 12, art. 1710.
+> 1991, ch. 11, art. 20; 2001, ch. 34, art. 32(A); 2010, ch. 12, art. 1710
 
 
 
@@ -538,7 +539,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contravention : sanction**
 
 - **(4)** Les licences attribuées, modifiées ou renouvelées en contravention avec le présent article sont sans effet.
-> 1991, ch. 11, art. 22; 1995, ch. 1, art. 31.
+> 1991, ch. 11, art. 22; 1995, ch. 1, art. 31
 
 
 
@@ -564,7 +565,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication et dépôt**
 
-- **(5)** Les instructions sont publiées sans délai dans la Gazette du Canada et déposées devant chaque chambre du Parlement dans les quinze jours de séance de celle-ci suivant leur établissement.
+- **(5)** Les instructions sont publiées sans délai dans la [Gazette du Canada](http://www.gazette.gc.ca/) et déposées devant chaque chambre du Parlement dans les quinze jours de séance de celle-ci suivant leur établissement.
 
 
 
@@ -583,7 +584,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Transmission et publication de la décision**
 
-- **(3)** Copie de la décision de révocation ou de suspension d’une licence et de ses motifs est sans délai adressée par courrier recommandé affranchi à toutes les personnes entendues à l’audience publique ou ayant présenté des observations verbales relativement à celle-ci. Le résumé de la décision et des motifs est simultanément publié dans la Gazette du Canada et dans un ou plusieurs journaux largement diffusés dans la région touchée ou susceptible de l’être.
+- **(3)** Copie de la décision de révocation ou de suspension d’une licence et de ses motifs est sans délai adressée par courrier recommandé affranchi à toutes les personnes entendues à l’audience publique ou ayant présenté des observations verbales relativement à celle-ci. Le résumé de la décision et des motifs est simultanément publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) et dans un ou plusieurs journaux largement diffusés dans la région touchée ou susceptible de l’être.
 
 
 
@@ -621,7 +622,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication et dépôt**
 
-- **(3)** Les décrets pris en application du présent article sont publiés sans délai dans la Gazette du Canada et copie en est déposée devant chaque chambre du Parlement dans les quinze jours de séance suivant leur prise.
+- **(3)** Les décrets pris en application du présent article sont publiés sans délai dans la [Gazette du Canada](http://www.gazette.gc.ca/) et copie en est déposée devant chaque chambre du Parlement dans les quinze jours de séance suivant leur prise.
 
 **Consultation**
 
@@ -768,7 +769,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 **34.1** Il est interdit à toute personne qui exploite une entreprise de radiodiffusion d’imposer des frais à un abonné pour l’obtention de factures papier.
-> 2014, ch. 39, art. 192.
+> 2014, ch. 39, art. 192
 
 
 
@@ -779,7 +780,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **34.2** Quiconque contrevient à l’article 34.1 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire :
 - **a)** dans le cas d’une personne physique, une amende maximale de vingt-cinq mille dollars pour la première infraction et de cinquante mille dollars en cas de récidive;
 - **b)** dans le cas d’une personne morale, une amende maximale de deux cent cinquante mille dollars pour la première infraction et de cinq cent mille dollars en cas de récidive.
-> 2014, ch. 39, art. 192.
+> 2014, ch. 39, art. 192
 
 
 
@@ -788,7 +789,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 **34.3** La poursuite d’une infraction visée à l’article 34.2 se prescrit par deux ans à compter de la perpétration.
-> 2014, ch. 39, art. 192.
+> 2014, ch. 39, art. 192
 
 
 
@@ -853,7 +854,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prolongation de mandat**
 
 - **(5)** Par dérogation aux paragraphes (3) et (4) s’il n’est pas pourvu à leur succession, le mandat des administrateurs se prolonge jusqu’à la nomination de leur remplaçant.
-> 1991, ch. 11, art. 36; 1995, ch. 29, art. 4.
+> 1991, ch. 11, art. 36; 1995, ch. 29, art. 4
 
 
 
@@ -1047,7 +1048,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indépendance**
 
 - **(5)** La Société jouit, dans la réalisation de sa mission et l’exercice de ses pouvoirs, de la liberté d’expression et de l’indépendance en matière de journalisme, de création et de programmation.
-> 1991, ch. 11, art. 46; 2014, ch. 20, art. 366(A).
+> 1991, ch. 11, art. 462014, ch. 20, art. 366(A)
 
 
 
@@ -1066,7 +1067,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Plafond**
 
 - **(3)** Le passif réel de la Société résultant des prêts qui lui ont été consentis sous le régime des paragraphes (1) et (2) ne peut dépasser 220 000 000 $, ce montant pouvant toutefois être augmenté par une loi de crédits.
-> 1994, ch. 18, art. 18; 2009, ch. 31, art. 23.
+> 1994, ch. 18, art. 18; 2009, ch. 31, art. 23
 
 
 
@@ -1195,7 +1196,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application de la partie VII de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
 **52.1** Par dérogation à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), la partie VII de cette loi ne s’applique pas aux dettes contractées par la Société.
-> 1994, ch. 18, art. 19.
+> 1994, ch. 18, art. 19
 
 
 
@@ -1245,7 +1246,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Projet à long terme**
 
 - **(8)** Le Conseil du Trésor peut approuver un poste du budget d’investissement pour un ou plusieurs exercices suivant celui visé par celui-ci.
-> 1991, ch. 11, art. 54; 1994, ch. 18, art. 20.
+> 1991, ch. 11, art. 54; 1994, ch. 18, art. 20
 
 
 
@@ -1333,7 +1334,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapports au ministre**
 
 - **(7)** Le conseil d’administration remet au ministre les rapports des opérations financières de la Société demandés par celui-ci.
-> 1991, ch. 11, art. 60; 2005, ch. 30, art. 41.
+> 1991, ch. 11, art. 60; 2005, ch. 30, art. 41
 
 
 
@@ -1408,7 +1409,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** les renseignements chiffrés sur les résultats de la Société et, le cas échéant, ceux de ses filiales à cent pour cent, par rapport à ses objectifs;
 	- **e)** les autres renseignements relatifs aux opérations financières de celle-ci exigés par le ministre ou la présente partie.
 La présentation du rapport met en évidence les principales activités de la Société et, le cas échéant, de ses filiales à cent pour cent.
-> 1991, ch. 11, art. 71; 2005, ch. 30, art. 43.
+> 1991, ch. 11, art. 71; 2005, ch. 30, art. 43
 
 
 
@@ -1510,6 +1511,19 @@ La présentation du rapport met en évidence les principales activités de la So
 
 
 **3** Licences attribuées relativement à l’exploitation par la Société des stations de radio ou de télévision qui lui appartiennent.
+
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 1995, ch. 29, art. 5
+
+
+**Cessation des fonctions**
+
+**5** Par dérogation au paragraphe 36(5) de la même loi, les personnes qui étaient administrateurs de la Société Radio-Canada avant la date d’entrée en vigueur de l’article 4 de la présente loi en raison de la prolongation de leur mandat au titre de ce paragraphe cessent d’occuper leur fonction à compter de cette date.
 
 
 
