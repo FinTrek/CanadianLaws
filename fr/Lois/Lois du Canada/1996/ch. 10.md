@@ -64,7 +64,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conventions ou accords internationaux sur les services aériens**
 
 - **(3)** En cas d’incompatibilité ou de conflit entre une convention internationale ou un accord international sur les services aériens dont le Canada est signataire et les dispositions de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md), la convention ou l’accord l’emporte dans la mesure de l’incompatibilité ou du conflit.
-> 1996, ch. 10, art. 4; 2007, ch. 19, art. 1.
+> 1996, ch. 10, art. 4; 2007, ch. 19, art. 1
 
 
 
@@ -80,9 +80,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** la concurrence et les forces du marché, au sein des divers modes de transport et entre eux, sont les principaux facteurs en jeu dans la prestation de services de transport viables et efficaces;
 - **b)** la réglementation et les mesures publiques stratégiques sont utilisées pour l’obtention de résultats de nature économique, environnementale ou sociale ou de résultats dans le domaine de la sûreté et de la sécurité que la concurrence et les forces du marché ne permettent pas d’atteindre de manière satisfaisante, sans pour autant favoriser indûment un mode de transport donné ou en réduire les avantages inhérents;
 - **c)** les prix et modalités ne constituent pas un obstacle abusif au trafic à l’intérieur du Canada ou à l’exportation des marchandises du Canada;
-- **d)** le système de transport est accessible sans obstacle abusif à la circulation des personnes, y compris les personnes ayant une déficience;
+- **d)** le système de transport est accessible sans obstacle abusif à la circulation de tous;
+- **d.1)** le système de transport est accessible sans obstacle aux personnes handicapées;
 - **e)** les secteurs public et privé travaillent ensemble pour le maintien d’un système de transport intégré.
-> 1996, ch. 10, art. 5; 2007, ch. 19, art. 2.
+> 1996, ch. 10, art. 5; 2007, ch. 19, art. 22019, ch. 10, art. 166
 
 
 
@@ -138,7 +139,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** les compagnies de chemin de fer, au sens de l’article 87, désignées par règlement. (*class 1 rail carrier*)
 
 ***vice-président*** Le vice-président de l’Office. (*Vice-Chairperson*)
-> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A); 2015, ch. 3, art. 29, ch. 31, art. 2; 2018, ch. 10, art. 2.
+> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A); 2015, ch. 3, art. 29, ch. 31, art. 2; 2018, ch. 10, art. 2
 
 
 
@@ -151,7 +152,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir du gouverneur en conseil**
 
 **6.1** Le gouverneur en conseil peut, par règlement, désigner toute compagnie de chemin de fer pour l’application de l’alinéa g) de la définition de transporteur ferroviaire de catégorie 1.
-> 2018, ch. 10, art. 3.
+> 2018, ch. 10, art. 3
 
 
 
@@ -174,7 +175,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(3)** Il est entendu que les personnes à qui le ministre délègue des attributions qui lui sont conférées au titre d’une loi fédérale peuvent, dans l’exercice de leurs attributions, utiliser les moyens électroniques que le ministre met à leur disposition ou qu’il précise.
-> 2019, ch. 29, art. 214.
+> 2019, ch. 29, art. 214
 
 
 
@@ -186,7 +187,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** faire une demande ou prendre une décision;
 - **b)** fournir un avis;
 - **c)** soumettre un document.
-> 2019, ch. 29, art. 214.
+> 2019, ch. 29, art. 214
 
 
 
@@ -197,7 +198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **6.4** Pour l’application d’une loi fédérale dont le ministre assure l’exécution ou le contrôle d’application, l’exigence de fournir une signature ou des renseignements sur un support papier, sous le régime d’une telle loi, est respectée si les conditions suivantes sont réunies :
 - **a)** la version électronique de la signature ou des renseignements est fournie par les moyens électroniques que le ministre met à la disposition des intéressés ou qu’il précise;
 - **b)** toute autre condition prévue par un règlement pris en vertu de l’alinéa 6.5a) a été observée.
-> 2019, ch. 29, art. 214.
+> 2019, ch. 29, art. 214
 
 
 
@@ -210,7 +211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** prévoir les circonstances dans lesquelles une personne qui a l’obligation de fournir une signature ou des renseignements sous le régime d’une loi dont le ministre assure l’exécution ou le contrôle d’application est tenue de le faire par voie électronique et préciser les moyens électroniques pour ce faire;
 - **c)** permettre au ministre d’autoriser ou d’exiger l’utilisation de moyens, électroniques ou non, autres que ceux prévus en application de l’alinéa b) et prévoir les circonstances dans lesquelles le ministre peut le faire;
 - **d)** prévoir le lieu, la date et l’heure où la version électronique des renseignements est réputée envoyée ou reçue.
-> 2019, ch. 29, art. 214.
+> 2019, ch. 29, art. 214
 
 
 
@@ -242,7 +243,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Président et vice-président**
 
 - **(3)** Le gouverneur en conseil choisit le président et le vice-président de l’Office parmi les membres nommés en vertu du paragraphe (2).
-> 1996, ch. 10, art. 7; 2001, ch. 27, art. 221; 2007, ch. 19, art. 3; 2015, ch. 3, art. 30(A).
+> 1996, ch. 10, art. 7; 2001, ch. 27, art. 221; 2007, ch. 19, art. 3; 2015, ch. 3, art. 30(A)
 
 
 
@@ -261,7 +262,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Continuation de mandat**
 
 - **(3)** Le président peut autoriser un membre nommé en vertu du paragraphe 7(2) qui cesse d’exercer ses fonctions à continuer, après la date d’expiration de son mandat, à entendre toute question dont il se trouve saisi à cette date. À cette fin, le membre est réputé être membre de l’Office mais son statut n’empêche pas la nomination de cinq membres en vertu du paragraphe 7(2) ou de trois membres temporaires en vertu du paragraphe 9(1).
-> 1996, ch. 10, art. 8; 2007, ch. 19, art. 4; 2015, ch. 3, art. 31(A).
+> 1996, ch. 10, art. 8; 2007, ch. 19, art. 4; 2015, ch. 3, art. 31(A)
 
 
 
@@ -307,7 +308,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cession d’intérêts**
 
 - **(3)** Le membre nommé en vertu du paragraphe 7(2) qui est investi d’intérêts visés au paragraphe (1) par l’ouverture d’une succession doit les céder entièrement dans les trois mois suivant la saisine.
-> 1996, ch. 10, art. 10; 2015, ch. 3, art. 32(A).
+> 1996, ch. 10, art. 10; 2015, ch. 3, art. 32(A)
 
 
 
@@ -343,7 +344,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(3)** Pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), les membres sont réputés appartenir à l’administration publique fédérale.
-> 1996, ch. 10, art. 12; 2003, ch. 22, art. 224(A) et 225(A); 2015, ch. 3, art. 33(A).
+> 1996, ch. 10, art. 12; 2003, ch. 22, art. 224(A) et 225(A); 2015, ch. 3, art. 33(A)
 
 
 
@@ -425,7 +426,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Lieu de résidence des membres**
 
 - **(2)** Les membres nommés au titre du paragraphe 7(2) résident dans la région de la capitale nationale délimitée à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md) ou dans la périphérie de cette région définie par le gouverneur en conseil.
-> 1996, ch. 10, art. 18; 2007, ch. 19, art. 5; 2008, ch. 21, art. 61.
+> 1996, ch. 10, art. 18; 2007, ch. 19, art. 5; 2008, ch. 21, art. 61
 
 
 
@@ -437,7 +438,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **Secrétaire et personnel**
 
-**19** Le secrétaire de l’Office et le personnel nécessaire à l’exécution des travaux de celui-ci sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+**19** Le secrétaire de l’Office et le personnel nécessaire à l’exécution des travaux de celui-ci sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 
 
@@ -547,7 +548,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 - **(4)** L’Office peut, notamment sous condition, apporter ou autoriser toute modification aux procédures prises devant lui.
 
 - **(5)** [Abrogé, 2008, ch. 5, art. 1]
-> 1996, ch. 10, art. 27; 2008, ch. 5, art. 1; 2018, ch. 10, art. 4(A).
+> 1996, ch. 10, art. 27; 2008, ch. 5, art. 1; 2018, ch. 10, art. 4(A)
 
 
 
@@ -617,7 +618,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Faculté d’exécution**
 
 - **(4)** L’Office peut toujours faire exécuter lui-même ses décisions ou arrêtés, même s’ils ont été homologués par une cour.
-> 1996, ch. 10, art. 33; 2002, ch. 8, art. 122; 2006, ch. 11, art. 17; 2007, ch. 19, art. 6.
+> 1996, ch. 10, art. 33; 2002, ch. 8, art. 122; 2006, ch. 11, art. 17; 2007, ch. 19, art. 6
 
 
 
@@ -691,7 +692,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Dépôt de l’accord conclu**
 
 - **(7)** L’accord éventuellement conclu au terme de la médiation peut être déposé devant l’Office; le cas échéant, il est assimilé à un arrêté de l’Office en vue de son exécution.
-> 2007, ch. 19, art. 7.
+> 2007, ch. 19, art. 7
 
 
 
@@ -716,7 +717,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Impossibilité d’agir**
 
 - **(3)** La personne qui exerce les attributions conférées au titre de l’alinéa (1)b) ou du paragraphe (2) ne peut agir dans le cadre de procédures devant l’Office relativement aux questions à l’égard desquelles elle a fourni des renseignements, des conseils ou des services de règlement informel de différends.
-> 2018, ch. 10, art. 5.
+> 2018, ch. 10, art. 5
 
 
 
@@ -743,7 +744,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Impossibilité d’agir**
 
 - **(3)** La personne qui agit à titre de médiateur ou d’arbitre ne peut agir dans le cadre d’autres procédures devant l’Office à l’égard des questions qui ont fait l’objet de la médiation ou de l’arbitrage.
-> 2007, ch. 19, art. 7; 2008, ch. 5, art. 8 et 9; 2015, ch. 31, art. 3.
+> 2007, ch. 19, art. 7; 2008, ch. 5, art. 8 et 9; 2015, ch. 31, art. 3
 
 
 
@@ -826,9 +827,22 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 	- **a)** les demandes qui lui ont été présentées et ses conclusions à leur égard;
 	- **b)** ses conclusions concernant les questions ou les objets à l’égard desquels il a agi à la demande du ministre.
 
-**Évaluation de la loi**
+**Contenu**
 
-- **(2)** L’Office joint à ce rapport son évaluation de l’effet de la présente loi et des difficultés rencontrées dans l’application de celle-ci.
+- **(2)** Le rapport contient notamment :
+	- **a)** l’évaluation de l’Office de l’effet de la présente loi et des difficultés rencontrées dans l’application de celle-ci;
+	- **b)** les renseignements, au regard de l’année en cause, concernant les éléments ci-après, y compris leur nombre :
+		- **(i)** les inspections menées, au titre de la présente loi, à toute fin liée à la vérification du respect ou à la prévention du non-respect des dispositions des règlements pris en vertu du paragraphe 170(1) ou de l’un des articles 60 à 62 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md),
+		- **(ii)** les arrêtés pris en vertu de l’article 181.2,
+		- **(iii)** les arrêtés pris en vertu de l’article 26 pour ordonner à quiconque d’accomplir un acte ou de s’en abstenir lorsque l’accomplissement ou l’abstention sont prévus par l’une des dispositions des règlements pris en vertu du paragraphe 170(1) ou l’un des articles 60 à 62 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md),
+		- **(iv)** les procès-verbaux dressés en vertu de l’article 180 relativement à la violation prévue au paragraphe 177(3),
+		- **(v)** les enquêtes tenues au titre des articles 172, 172.1 ou 172.3;
+	- **c)** les observations de l’Office concernant la question de savoir si les renseignements visés à l’alinéa b) révèlent des questions systémiques ou émergentes relatives à toute question de transport qui relève de la compétence législative du Parlement et qui a trait aux possibilités de déplacement des personnes handicapées;
+	- **d)** tout autre renseignement prévu par règlement pris en vertu du paragraphe (2.01).
+
+**Règlements**
+
+- **(2.01)** Pour l’application de l’alinéa (2)d), le gouverneur en conseil peut, par règlement, prévoir des renseignements concernant toute question de transport qui relève de la compétence législative du Parlement et qui a trait aux possibilités de déplacement des personnes handicapées.
 
 **Transport ferroviaire**
 
@@ -841,7 +855,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Dépôt**
 
 - **(3)** Dans les trente jours de séance de chaque chambre du Parlement suivant la réception du rapport par le ministre, celui-ci le fait déposer devant elle.
-> 1996, ch. 10, art. 42; 2013, ch. 31, art. 2; 2018, ch. 10, art. 6.
+> 1996, ch. 10, art. 42; 2013, ch. 31, art. 2; 2018, ch. 10, art. 62019, ch. 10, art. 167
 
 
 
@@ -960,7 +974,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Résumé des conclusions**
 
 - **(3)** L’Office rend public un résumé de ses conclusions qui ne contient aucun renseignement confidentiel.
-> 1996, ch. 10, art. 49; 2018, ch. 10, art. 8.
+> 1996, ch. 10, art. 49; 2018, ch. 10, art. 8
 
 
 
@@ -1033,7 +1047,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Consultations**
 
 - **(5)** Le ministre peut consulter l’Office et Statistique Canada avant de prendre un règlement en vertu du présent article.
-> 1996, ch. 10, art. 50; 1998, ch. 10, art. 163; 1999, ch. 31, art. 36(A); 2000, ch. 16, art. 1; 2007, ch. 19, art. 8; 2013, ch. 31, art. 3(F); 2018, ch. 10, art. 9.
+> 1996, ch. 10, art. 50; 1998, ch. 10, art. 163; 1999, ch. 31, art. 36(A); 2000, ch. 16, art. 1; 2007, ch. 19, art. 8; 2013, ch. 31, art. 3(F); 2018, ch. 10, art. 9
 
 
 
@@ -1059,8 +1073,8 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **Ni enregistrement ni publication**
 
-- **(5)** Il est entendu que le document incorporé par renvoi n’a pas à être transmis pour enregistrement ni à être publié dans la Gazette du Canada du seul fait de son incorporation.
-> 2013, ch. 31, art. 4; 2018, ch. 10, art. 10.
+- **(5)** Il est entendu que le document incorporé par renvoi n’a pas à être transmis pour enregistrement ni à être publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) du seul fait de son incorporation.
+> 2013, ch. 31, art. 4; 2018, ch. 10, art. 10
 
 
 
@@ -1069,7 +1083,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Pouvoir existant non restreint**
 
 **50.02** Il est entendu que l’octroi dans la présente loi d’un pouvoir exprès d’incorporer par renvoi ne restreint pas le pouvoir qui existe par ailleurs de recourir à l’incorporation par renvoi dans un règlement pris en vertu de la présente loi.
-> 2013, ch. 31, art. 4.
+> 2013, ch. 31, art. 4
 
 
 
@@ -1078,7 +1092,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Renseignements déjà fournis**
 
 **50.1** Pour l’application des paragraphes 50(1) ou (1.01), le ministre peut demander, au ministère ou à l’organisme fédéral à qui les renseignements ont déjà été fournis, de les lui communiquer.
-> 2007, ch. 19, art. 9; 2018, ch. 10, art. 11.
+> 2007, ch. 19, art. 9; 2018, ch. 10, art. 11
 
 
 
@@ -1110,7 +1124,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Obligation de ceux à qui les renseignements sont communiqués**
 
 - **(4)** La personne à qui le ministre communique des renseignements qui sont confidentiels en application de la présente loi ne peut, sciemment, les communiquer à son tour; elle prend les mesures nécessaires pour en préserver le caractère confidentiel.
-> 1996, ch. 10, art. 51; 2000, ch. 16, art. 2; 2007, ch. 19, art. 10; 2018, ch. 10, art. 12.
+> 1996, ch. 10, art. 51; 2000, ch. 16, art. 2; 2007, ch. 19, art. 10; 2018, ch. 10, art. 12
 
 
 
@@ -1119,7 +1133,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Publication**
 
 **51.1** Malgré le paragraphe 51(1), le ministre peut rendre publics les renseignements prévus à l’alinéa 50(2)d).
-> 2018, ch. 10, art. 13.
+> 2018, ch. 10, art. 13
 
 
 
@@ -1128,7 +1142,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Renseignements confidentiels — Office**
 
 **51.2** Les renseignements qui doivent être fournis à l’Office au titre des règlements pris en vertu de l’alinéa 50(1.01)a) deviennent confidentiels dès leur réception par celui-ci. Nul ne peut, sciemment, les communiquer sans l’autorisation de la personne qui les a fournis, sauf dans le cadre d’une poursuite pour infraction à l’article 173.
-> 2018, ch. 10, art. 13.
+> 2018, ch. 10, art. 13
 
 
 
@@ -1137,7 +1151,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Utilisation des renseignements**
 
 **51.3** Les renseignements fournis au ministre ou à l’Office au titre des règlements pris en vertu de l’alinéa 50(1.01)a) ne peuvent être utilisés par l’Office que dans le but d’établir le prix de l’interconnexion de longue distance visé à l’alinéa 134(1)a). Malgré le paragraphe 51(4) et l’article 51.2, l’Office peut, dans le même but, les communiquer sous forme de compilation.
-> 2018, ch. 10, art. 13.
+> 2018, ch. 10, art. 13
 
 
 
@@ -1152,7 +1166,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Renseignements reçus du ministre**
 
 - **(2)** Le paragraphe 51(4) ne s’applique pas à la publication, en application du paragraphe (1), des renseignements reçus du ministre.
-> 2018, ch. 10, art. 13.
+> 2018, ch. 10, art. 13
 
 
 
@@ -1176,7 +1190,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 	- **c)** de la mesure dans laquelle les transporteurs et les modes de transport ont été indemnisés, directement ou indirectement, du coût des ressources, installations et services qu’ils sont tenus de mettre à la disposition du public;
 	- **c.1)** des perspectives à long terme et des tendances dans le domaine des transports au Canada;
 	- **d)** de toute autre question de transport que le ministre estime indiquée.
-> 1996, ch. 10, art. 52; 2007, ch. 19, art. 11.
+> 1996, ch. 10, art. 52; 2007, ch. 19, art. 11
 
 
 
@@ -1213,7 +1227,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Dépôt du rapport**
 
 - **(6)** Le ministre fait déposer une copie du rapport devant chaque chambre du Parlement dans les trente premiers jours de séance de celle-ci suivant sa réception.
-> 1996, ch. 10, art. 53; 2007, ch. 19, art. 12.
+> 1996, ch. 10, art. 53; 2007, ch. 19, art. 12
 
 
 
@@ -1254,7 +1268,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Rapport**
 
 - **(6)** L’Office ou la personne, selon le cas, fait rapport au ministre dans les cent cinquante jours suivant la date où celui-ci l’a chargé de l’étude ou dans le délai plus long qu’il peut lui accorder.
-> 2007, ch. 19, art. 13.
+> 2007, ch. 19, art. 13
 
 
 
@@ -1308,7 +1322,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Obligation de se conformer aux conditions**
 
 - **(10)** Toute personne assujettie aux conditions visées aux paragraphes (7) ou (8) est tenue de s’y conformer.
-> 2007, ch. 19, art. 13.
+> 2007, ch. 19, art. 13
 
 
 
@@ -1317,7 +1331,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Qualité de Canadien**
 
 **53.3** Dans le cas où la transaction visée au paragraphe 53.1(1) porte sur une entreprise de transport aérien, l’Office vérifie si la transaction donnerait lieu à une entreprise de transport aérien ayant la qualité de Canadien au sens du paragraphe 55(1).
-> 2007, ch. 19, art. 13.
+> 2007, ch. 19, art. 13
 
 
 
@@ -1332,7 +1346,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Ordonnance en cas de contravention des conditions**
 
 - **(2)** En cas de contravention au paragraphe 53.2(10) à l’égard de conditions portant sur l’empêchement ou la diminution éventuels de la concurrence, toute cour supérieure peut, à la demande du commissaire, enjoindre au contrevenant de mettre fin à la contravention ou d’y remédier et rendre toute autre ordonnance qu’elle estime indiquée, notamment obliger une personne à se départir d’éléments d’actif. Le commissaire avise le ministre avant de présenter la demande.
-> 2007, ch. 19, art. 13.
+> 2007, ch. 19, art. 13
 
 
 
@@ -1343,7 +1357,7 @@ Elles peuvent proposer des modifications à la transaction.
 **53.5** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre :
 - **a)** prévoir les renseignements à inclure dans l’avis mentionné au paragraphe 53.1(1);
 - **b)** exempter toute catégorie de transactions de l’application des articles 53.1 à 53.3.
-> 2007, ch. 19, art. 13.
+> 2007, ch. 19, art. 13
 
 
 
@@ -1372,7 +1386,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Non-application des articles 174 et 175**
 
 - **(5)** Les articles 174 et 175 ne s’appliquent pas aux infractions visées aux paragraphes (1) et (2).
-> 2007, ch. 19, art. 13.
+> 2007, ch. 19, art. 13
 
 
 
@@ -1389,7 +1403,7 @@ Elles peuvent proposer des modifications à la transaction.
 ***entente*** S’entend d’une entente ou d’un accord, autre qu’une transaction visée au paragraphe 53.1(1), entre au moins deux entreprises de transport qui offrent des services aériens, au sens du paragraphe 55(1), à destination, en provenance ou à l’intérieur du Canada et visant la coordination de tout aspect de l’exploitation ou de la commercialisation de tels services — prix, itinéraires, horaires, capacité, services accessoires ou autres — et le partage des coûts ou des revenus ou autres ressources ou avantages. (*arrangement*)
 
 ***partie*** Toute personne se proposant de conclure ou ayant conclu une entente à l’égard de laquelle un avis a été donné au titre du paragraphe 53.71(1). (*party*)
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1428,7 +1442,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Question importante d’intérêt public**
 
 - **(8)** S’il estime que l’entente soulève d’importantes questions d’intérêt public, celle-ci est soumise au processus d’examen prévu à l’article 53.73.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1437,7 +1451,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Interdiction**
 
 **53.72** Lorsqu’un avis a été donné au titre du paragraphe 53.71(1), il est interdit de conclure l’entente visée sans avoir obtenu l’autorisation du ministre au titre du paragraphe 53.73(8).
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1476,7 +1490,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Décision définitive relative à son autorisation**
 
 - **(8)** Dans les trente jours suivant la date de réception de la réponse prévue au paragraphe (7), le ministre rend une décision définitive et rend public un sommaire de sa décision qui ne comporte aucun renseignement confidentiel. Il peut, s’il est convaincu que l’entente servirait l’intérêt public, autoriser celle-ci selon les conditions, portant sur les questions d’intérêt public et de concurrence, qu’il estime indiquées.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1485,7 +1499,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Qualité de Canadien**
 
 **53.74** L’autorisation donnée par le ministre en vertu du paragraphe 53.73(8) ne dispense en rien l’entreprise de transport qui offre des services aériens au sens du paragraphe 55(1) de l’exigence d’avoir la qualité de Canadien au sens de ce paragraphe.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1494,7 +1508,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Modification ou annulation des conditions**
 
 **53.75** Le ministre peut, après avoir consulté le commissaire de la concurrence, modifier ou annuler les conditions de l’autorisation, à la demande de toute partie tenue de s’y conformer. Il rend public un sommaire de sa décision qui ne comporte aucun renseignement confidentiel.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1511,7 +1525,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Aucun renseignement confidentiel rendu public**
 
 - **(2)** S’il autorise la modification au titre de l’alinéa (1)a), le ministre rend public un sommaire de cette décision qui ne comporte aucun renseignement confidentiel.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1530,7 +1544,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Maintien de l’autorisation**
 
 - **(3)** Si, après avoir consulté le commissaire de la concurrence, le ministre décide que l’entente sert toujours l’intérêt public, l’autorisation est maintenue sous réserve des conditions ou des modifications aux conditions existantes qu’il peut préciser pour répondre aux préoccupations visées au paragraphe (1).
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1539,7 +1553,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Obligation de se conformer aux conditions**
 
 **53.78** Toute personne assujettie aux conditions visées au paragraphe 53.73(8), à l’article 53.75, à l’alinéa 53.76a) ou au paragraphe 53.77(3) est tenue de s’y conformer.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1556,7 +1570,7 @@ Elles peuvent proposer des modifications à la transaction.
 - **(2)** Le ministre peut aussi révoquer l’autorisation donnée à l’égard d’une entente dans l’un ou l’autre des cas suivants :
 	- **a)** l’entente est modifiée de façon importante sans autorisation préalable;
 	- **b)** le ministre n’est plus convaincu, compte tenu de la réponse des parties aux préoccupations visées au paragraphe 53.77(1), que l’entente sert l’intérêt public.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1575,7 +1589,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Conséquence du retrait**
 
 - **(3)** L’article 53.72 cesse de s’appliquer à l’entente à l’égard de laquelle un avis a été donné au titre du paragraphe 53.71(1) si cet avis est retiré ou réputé l’être.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1584,7 +1598,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Prorogation des délais**
 
 **53.81** À la demande des parties ou de sa propre initiative, le ministre peut proroger les délais prévus aux articles 53.71, 53.73 ou 53.77 s’il l’estime justifié dans les circonstances, notamment lorsque l’entente est exceptionnellement complexe.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1593,7 +1607,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Ordonnance**
 
 **53.82** En cas de contravention aux articles 53.72 ou 53.78, toute cour supérieure peut, à la demande du ministre, enjoindre au contrevenant de mettre fin à la contravention ou d’y remédier et rendre toute autre ordonnance qu’elle estime indiquée, notamment pour obliger une personne à se départir d’éléments d’actif. Le ministre avise le commissaire de la concurrence avant de présenter la demande.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1616,7 +1630,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Non-application des articles 174 et 175**
 
 - **(4)** Les articles 174 et 175 ne s’appliquent pas à l’infraction visée au paragraphe (1).
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1641,7 +1655,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Dépenses**
 
 - **(4)** Le ministre peut dépenser les sommes ainsi déposées au cours de l’exercice où elles sont versées ou de l’exercice suivant.
-> 2018, ch. 10, art. 14.
+> 2018, ch. 10, art. 14
 
 
 
@@ -1737,7 +1751,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Contrôle de fait**
 
 - **(4)** Il demeure entendu que le paragraphe (2) n’a pas pour effet de modifier le sens de l’expression « contrôle de fait » dans la définition de Canadien au paragraphe (1).
-> 1996, ch. 10, art. 55; 2000, ch. 15, art. 1; 2001, ch. 27, art. 222; 2018, ch. 10, art. 15.
+> 1996, ch. 10, art. 55; 2000, ch. 15, art. 1; 2001, ch. 27, art. 222; 2018, ch. 10, art. 15
 
 
 
@@ -1764,7 +1778,7 @@ Elles peuvent proposer des modifications à la transaction.
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(5)** Les arrêtés ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1996, ch. 10, art. 56; 2007, ch. 19, art. 14; 2018, ch. 10, art. 16.
+> 1996, ch. 10, art. 56; 2007, ch. 19, art. 14; 2018, ch. 10, art. 16
 
 
 
@@ -1819,7 +1833,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Opérations visant le service**
 
 **59** La vente, directe ou indirecte, et l’offre publique de vente, au Canada, d’un service aérien sont subordonnées à la détention, pour celui-ci, d’une licence en règle délivrée sous le régime de la présente partie.
-> 1996, ch. 10, art. 59; 2007, ch. 19, art. 16.
+> 1996, ch. 10, art. 59; 2007, ch. 19, art. 16
 
 
 
@@ -1870,7 +1884,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Publication**
 
 - **(3)** Dès que possible, le ministre rend le nom de la personne bénéficiant de l’exemption et la durée de celle-ci accessibles au public par Internet ou par tout autre moyen qu’il estime indiqué.
-> 1996, ch. 10, art. 62; 2013, ch. 31, art. 5.
+> 1996, ch. 10, art. 62; 2013, ch. 31, art. 5
 
 
 
@@ -1924,7 +1938,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Définition de service aérien régulier sans escale**
 
 - **(4)** Au présent article, ***service aérien régulier sans escale*** s’entend d’un service aérien sans escale offert entre deux points soit régulièrement, soit conformément à un horaire publié.
-> 1996, ch. 10, art. 64; 2000, ch. 15, art. 3. ; 2007, ch. 19, art. 17.
+> 1996, ch. 10, art. 64; 2000, ch. 15, art. 3. ; 2007, ch. 19, art. 17
 
 
 
@@ -1933,7 +1947,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Plaintes relatives aux infractions**
 
 **65** L’Office, saisi d’une plainte formulée par écrit à l’encontre d’un licencié, peut, s’il constate que celui-ci ne s’est pas conformé à l’article 64 et que les circonstances permettent à celui-ci de se conformer à l’arrêté, ordonner à celui-ci de rétablir le service pour la période, d’au plus cent vingt jours après la date de son constat, qu’il estime indiquée, et selon la fréquence qu’il peut fixer.
-> 1996, ch. 10, art. 65; 2007, ch. 19, art. 18.
+> 1996, ch. 10, art. 65; 2007, ch. 19, art. 18
 
 
 
@@ -1980,7 +1994,7 @@ Elles peuvent proposer des modifications à la transaction.
 	- **a)** les renseignements qui constituent un secret industriel;
 	- **b)** les renseignements dont la divulgation risquerait vraisemblablement de causer des pertes financières importantes à la personne qui les a fournis ou de nuire à sa compétitivité;
 	- **c)** les renseignements dont la divulgation risquerait vraisemblablement d’entraver des négociations — contractuelles ou autres — menées par la personne qui les a fournis.
-> 1996, ch. 10, art. 66; 2000, ch. 15, art. 4; 2007, ch. 19, art. 19.
+> 1996, ch. 10, art. 66; 2000, ch. 15, art. 4; 2007, ch. 19, art. 19
 
 
 
@@ -2007,7 +2021,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Exemplaire du tarif**
 
 - **(4)** Il fournit un exemplaire de tout ou partie de ses tarifs sur demande et paiement de frais non supérieurs au coût de reproduction de l’exemplaire.
-> 1996, ch. 10, art. 67; 2000, ch. 15, art. 5; 2007, ch. 19, art. 20.
+> 1996, ch. 10, art. 67; 2000, ch. 15, art. 5; 2007, ch. 19, art. 20
 
 
 
@@ -2019,7 +2033,7 @@ Elles peuvent proposer des modifications à la transaction.
 - **a)** d’appliquer un prix, un taux, des frais ou d’autres conditions de transport figurant au tarif;
 - **b)** d’indemniser toute personne lésée des dépenses qu’elle a supportées consécutivement à la non-application du prix, du taux, des frais ou des autres conditions qui figuraient au tarif;
 - **c)** de prendre toute autre mesure corrective indiquée.
-> 2000, ch. 15, art. 6; 2007, ch. 19, art. 21.
+> 2000, ch. 15, art. 6; 2007, ch. 19, art. 21
 
 
 
@@ -2034,7 +2048,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Interdiction d’annoncer**
 
 - **(2)** Il est interdit au titulaire d’une licence intérieure d’annoncer ou d’appliquer une condition de transport suspendue ou annulée.
-> 2000, ch. 15, art. 6; 2007, ch. 19, art. 22(F).
+> 2000, ch. 15, art. 6; 2007, ch. 19, art. 22(F)
 
 
 
@@ -2043,7 +2057,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Personne lésée**
 
 **67.3** Malgré les articles 67.1 et 67.2, seule une personne lésée peut déposer une plainte contre le titulaire d’une licence intérieure relativement à toute condition de transport visant une obligation prévue par un règlement pris en vertu du paragraphe 86.11(1).
-> 2018, ch. 10, art. 17.
+> 2018, ch. 10, art. 17
 
 
 
@@ -2052,7 +2066,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Application de la décision à d’autres passagers**
 
 **67.4** L’Office peut, dans la mesure qu’il estime indiquée, rendre applicable à une partie ou à l’ensemble des passagers du même vol que le plaignant, tout ou partie de sa décision relative à la plainte de celui-ci portant sur une condition de transport visant une obligation prévue par un règlement pris en vertu de l’alinéa 86.11(1)b).
-> 2018, ch. 10, art. 17.
+> 2018, ch. 10, art. 17
 
 
 
@@ -2075,7 +2089,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Double à conserver**
 
 - **(3)** Le titulaire d’une licence intérieure est tenu de conserver, au moins trois ans après son expiration, un double du contrat et d’en fournir un exemplaire à l’Office pendant cette période s’il lui en fait la demande.
-> 1996, ch. 10, art. 68; 2000, ch. 15, art. 7; 2007, ch. 19, art. 23.
+> 1996, ch. 10, art. 68; 2000, ch. 15, art. 7; 2007, ch. 19, art. 23
 
 
 
@@ -2106,7 +2120,7 @@ Elles peuvent proposer des modifications à la transaction.
 - **(3)** Peut détenir une telle licence le non-Canadien qui :
 	- **a)** a fait l’objet, de la part d’un gouvernement étranger ou du mandataire de celui-ci, d’une désignation l’habilitant à exploiter un service aérien aux termes d’un accord ou d’une entente entre ce gouvernement et celui du Canada;
 	- **b)** détient en outre, à l’égard du service, un document délivré par un gouvernement étranger, ou par son mandataire, équivalant à une licence internationale service régulier.
-> 1996, ch. 10, art. 69; 2013, ch. 31, art. 6.
+> 1996, ch. 10, art. 69; 2013, ch. 31, art. 6
 
 
 
@@ -2215,7 +2229,7 @@ Elles peuvent proposer des modifications à la transaction.
 **Délivrance, modification et annulation de permis**
 
 **75.1** La délivrance d’un permis d’affrètement international à un licencié, de même que la modification ou l’annulation d’un tel permis, est faite en conformité avec les règlements pris en vertu de l’alinéa 86(1)e).
-> 2007, ch. 19, art. 24.
+> 2007, ch. 19, art. 24
 
 
 
@@ -2307,7 +2321,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(3)** L’exemption ne peut avoir pour effet de soustraire quiconque aux dispositions de l’article 69 qui exigent, en vue de permettre la détention d’une licence pour l’exploitation d’un service international régulier, selon le cas :
 	- **a)** la désignation d’un Canadien, par le ministre, l’habilitant à détenir une telle licence;
 	- **b)** la désignation d’un non-Canadien, par un gouvernement étranger ou un mandataire de celui-ci, l’habilitant à exploiter un service aérien aux termes d’un accord ou d’une entente entre ce gouvernement et celui du Canada.
-> 1996, ch. 10, art. 80; 2013, ch. 31, art. 7.
+> 1996, ch. 10, art. 80; 2013, ch. 31, art. 7
 
 
 
@@ -2383,7 +2397,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Inclusion dans le rapport annuel**
 
 - **(6)** L’Office inclut dans son rapport annuel le nombre et la nature des plaintes déposées au titre de la présente partie, le nom des transporteurs visés par celles-ci, la manière dont elles ont été traitées et les tendances systémiques qui se sont manifestées.
-> 2000, ch. 15, art. 7.1; 2007, ch. 19, art. 25.
+> 2000, ch. 15, art. 7.1; 2007, ch. 19, art. 25
 
 
 
@@ -2423,7 +2437,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(2)** Les obligations imposées par la présente partie relativement à la qualité de Canadien, au document d’aviation canadien et à la police d’assurance responsabilité réglementaire en matière de service aérien ne peuvent faire l’objet de l’exemption prévue à l’alinéa (1)l).
 
 - **(3)** [Abrogé, 2007, ch. 19, art. 26]
-> 1996, ch. 10, art. 86; 2000, ch. 15, art. 8; 2007, ch. 19, art. 26; 2018, ch. 10, art. 18.
+> 1996, ch. 10, art. 86; 2000, ch. 15, art. 8; 2007, ch. 19, art. 26; 2018, ch. 10, art. 18
 
 
 
@@ -2442,7 +2456,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Précisions**
 
 - **(3)** Les règlements peuvent également préciser, pour l’application du paragraphe (2), les types de coûts, frais, droits et taxes visés à ce paragraphe.
-> 2007, ch. 19, art. 27.
+> 2007, ch. 19, art. 27
 
 
 
@@ -2476,7 +2490,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Obligations réputées figurer au tarif**
 
 - **(4)** Les obligations du transporteur prévues par un règlement pris en vertu du paragraphe (1) sont réputées figurer au tarif du transporteur dans la mesure où le tarif ne prévoit pas des conditions de transport plus avantageuses que ces obligations.
-> 2018, ch. 10, art. 19.
+> 2018, ch. 10, art. 19
 
 
 
@@ -2485,7 +2499,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Textes d’application**
 
 **86.2** Les textes d’application de la présente partie peuvent être conditionnels ou absolus, assortis ou non de réserves, et de portée générale ou limitée quant aux zones, personnes, objets ou catégories de personnes ou d’objets visés.
-> 2007, ch. 19, art. 27.
+> 2007, ch. 19, art. 27
 
 
 
@@ -2548,7 +2562,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 ***terres*** Y sont assimilés les intérêts fonciers et, pour la province de Québec, les droits du locataire d’une terre. (*land*)
 
 ***transport*** ou ***trafic*** Le transport des marchandises et l’emploi du matériel nécessaire à ces fins. (*traffic*)
-> 1996, ch. 10, art. 87; 2007, ch. 19, art. 28; 2015, ch. 31, art. 4; 2018, ch. 10, art. 20.
+> 1996, ch. 10, art. 87; 2007, ch. 19, art. 28; 2015, ch. 31, art. 4; 2018, ch. 10, art. 20
 
 
 
@@ -2609,7 +2623,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 	- **a)** en vertu d’un acte de fiducie ou d’hypothèque;
 	- **b)** à la demande du détenteur d’une hypothèque, d’une obligation ou d’une débenture grevant tout ou partie du chemin de fer;
 	- **c)** dans le cadre de toute autre procédure régulière.
-> 1996, ch. 10, art. 90; 2015, ch. 31, art. 5.
+> 1996, ch. 10, art. 90; 2015, ch. 31, art. 5
 
 
 
@@ -2661,7 +2675,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Règlement pris par le gouverneur en conseil**
 
 - **(4)** Le gouverneur en conseil peut, par règlement, modifier l’annexe IV pour en supprimer ou y ajouter une catégorie d’exploitation de chemin de fer et un niveau minimal d’assurance responsabilité ou pour y modifier une telle catégorie — notamment par adjonction ou suppression de facteurs qui en définissent la portée — ou un tel niveau.
-> 1996, ch. 10, art. 92; 2015, ch. 31, art. 6.
+> 1996, ch. 10, art. 92; 2015, ch. 31, art. 6
 
 
 
@@ -2681,7 +2695,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(2)** Il peut également modifier le certificat d’aptitude du titulaire :
 	- **a)** à qui est accordée une autorisation au titre de l’alinéa 116(4)e);
 	- **b)** à qui il accorde un droit au titre de l’article 138.
-> 1996, ch. 10, art. 93; 2000, ch. 16, art. 3.
+> 1996, ch. 10, art. 93; 2000, ch. 16, art. 3
 
 
 
@@ -2706,7 +2720,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Autoassurance**
 
 - **(3)** Pour l’application de l’alinéa (1)b), le montant de l’autoassurance ne peut excéder le montant maximal que le titulaire du certificat d’aptitude peut maintenir compte tenu de sa capacité financière.
-> 2015, ch. 31, art. 7.
+> 2015, ch. 31, art. 7
 
 
 
@@ -2717,7 +2731,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **94** Le titulaire d’un certificat d’aptitude est tenu d’aviser l’Office par écrit et sans délai :
 - **a)** de l’annulation de l’assurance responsabilité ou de toute modification de celle-ci;
 - **b)** de toute modification en matière de construction ou d’exploitation pouvant avoir une incidence sur l’assurance responsabilité.
-> 1996, ch. 10, art. 94; 2015, ch. 31, art. 7.
+> 1996, ch. 10, art. 94; 2015, ch. 31, art. 7
 
 
 
@@ -2726,7 +2740,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Enquête**
 
 **94.1** L’Office peut faire enquête pour vérifier si le titulaire d’un certificat d’aptitude se conforme à l’article 93.1.
-> 2015, ch. 31, art. 7.
+> 2015, ch. 31, art. 7
 
 
 
@@ -2735,7 +2749,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Suspension ou annulation du certificat d’aptitude**
 
 **94.2** L’Office suspend ou annule le certificat d’aptitude s’il établit que son titulaire ne se conforme pas à l’article 93.1.
-> 2015, ch. 31, art. 7.
+> 2015, ch. 31, art. 7
 
 
 
@@ -2781,7 +2795,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **a)** les obligations qui lui incombent au titre des articles 113 et 114, le cas échéant;
 - **b)** ses besoins en matière d’exploitation;
 - **c)** le lieu de construction ou d’exploitation du chemin de fer.
-> 2007, ch. 19, art. 29.
+> 2007, ch. 19, art. 29
 
 
 
@@ -2802,7 +2816,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(3)** Les lignes directrices ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2007, ch. 19, art. 29.
+> 2007, ch. 19, art. 29
 
 
 
@@ -2817,7 +2831,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Restriction**
 
 - **(2)** S’il a publié des lignes directrices au titre de l’alinéa 95.2(1)b), l’Office ne peut procéder à l’examen de la plainte que s’il est convaincu que toutes les mesures de coopération prévues par celles-ci ont été appliquées.
-> 2007, ch. 19, art. 29.
+> 2007, ch. 19, art. 29
 
 
 
@@ -2826,7 +2840,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Sociétés de transport publiques**
 
 **95.4** Les articles 95.1 à 95.3 s’appliquent, avec les adaptations nécessaires, aux sociétés de transport publiques.
-> 2007, ch. 19, art. 29.
+> 2007, ch. 19, art. 29
 
 
 
@@ -3002,7 +3016,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Effet du dépôt**
 
 - **(2)** L’accomplissement de cette formalité rend facultatif le dépôt, l’enregistrement ou le classement requis par toute autre loi à cet effet; une fois déposé, le document, la copie ou le résumé est opposable aux tiers.
-> 1996, ch. 10, art. 104; 1999, ch. 31, art. 38(A); 2007, ch. 19, art. 30.
+> 1996, ch. 10, art. 104; 1999, ch. 31, art. 38(A); 2007, ch. 19, art. 30
 
 
 
@@ -3027,7 +3041,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(3)** Le dépôt rend facultatif le dépôt, l’enregistrement et le classement requis par toute autre loi à cet effet; une fois déposé, le document est opposable aux tiers.
 
 - **(4)** [Abrogé, 2007, ch. 19, art. 31]
-> 1996, ch. 10, art. 105; 2007, ch. 19, art. 31.
+> 1996, ch. 10, art. 105; 2007, ch. 19, art. 31
 
 
 
@@ -3043,7 +3057,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **a)** régir le dépôt de copies des documents visés aux articles 104 et 105;
 - **b)** régir le contenu et la forme des résumés visés à ces articles;
 - **c)** prévoir les effets que produit au Canada le dépôt, l’enregistrement ou le classement à l’étranger de documents constatant soit l’une ou l’autre des opérations visées à l’alinéa 105(1)a), soit la révision, la cession ou la libération d’un tel document.
-> 2007, ch. 19, art. 32.
+> 2007, ch. 19, art. 32
 
 
 
@@ -3093,7 +3107,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 ***transporteur de liaison*** Compagnie de chemin de fer, transporteur local exclu, qui effectue du transport à destination ou à partir d’un lieu de correspondance sur une partie d’un parcours continu. (*connecting carrier*)
 
 ***transporteur local*** Transporteur ferroviaire de catégorie 1 qui effectue du transport à destination ou à partir d’un lieu de correspondance à un point d’origine ou à un point de destination qu’il dessert exclusivement. (*local carrier*)
-> 1996, ch. 10, art. 111; 2018, ch. 10, art. 22.
+> 1996, ch. 10, art. 111; 2018, ch. 10, art. 22
 
 
 
@@ -3140,7 +3154,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Contrat confidentiel**
 
 - **(4)** Un expéditeur et une compagnie peuvent s’entendre, par contrat confidentiel ou autre accord écrit, sur les moyens à prendre par la compagnie pour s’acquitter de ses obligations.
-> 1996, ch. 10, art. 113; 2015, ch. 31, art. 8; 2018, ch. 10, art. 59(F).
+> 1996, ch. 10, art. 113; 2015, ch. 31, art. 8; 2018, ch. 10, art. 59(F)
 
 
 
@@ -3240,7 +3254,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Compagnie non soustraite**
 
 - **(6)** Sous réserve des stipulations d’un contrat confidentiel visé au paragraphe 113(4) ou d’un tarif où figurent, en application du paragraphe 136.4(1), les termes établis par un arrêté d’interconnexion de longue distance, une compagnie n’est pas soustraite à une action intentée en vertu du paragraphe (5) par un avis, une condition ou une déclaration, si le dommage allégué est causé par la négligence ou les omissions de la compagnie ou d’un de ses employés.
-> 1996, ch. 10, art. 116; 2000, ch. 16, art. 4; 2014, ch. 8, art. 5.1; 2018, ch. 10, art. 23 et 95.
+> 1996, ch. 10, art. 116; 2000, ch. 16, art. 4; 2014, ch. 8, art. 5.1; 2018, ch. 10, art. 23 et 95
 
 
 
@@ -3285,7 +3299,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Conservation**
 
 - **(5)** Elle conserve le tarif en archive pour une période minimale de trois ans après son annulation.
-> 1996, ch. 10, art. 117; 2018, ch. 10, art. 24.
+> 1996, ch. 10, art. 117; 2018, ch. 10, art. 24
 
 
 
@@ -3314,7 +3328,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 	- **a)** les prix mentionnés sont les prix licites de la compagnie et, sous réserve du paragraphe (1), prennent effet à la date indiquée dans le tarif;
 	- **b)** le tarif remplace tout ou partie des tarifs antérieurs dans la mesure où il comporte une modification du prix;
 	- **c)** chaque compagnie propriétaire ou exploitante d’une ligne de chemin de fer visée par le tarif doit exiger les prix mentionnés jusqu’à la cessation d’effet de ceux-ci, ou jusqu’au remplacement du tarif, au titre de la présente loi.
-> 1996, ch. 10, art. 119; 2008, ch. 5, art. 2.
+> 1996, ch. 10, art. 119; 2008, ch. 5, art. 2
 
 
 
@@ -3360,7 +3374,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Précision**
 
 - **(7)** Il est entendu que le présent article ne s’applique pas aux prix relatifs au transport.
-> 2008, ch. 5, art. 3.
+> 2008, ch. 5, art. 3
 
 
 
@@ -3483,7 +3497,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Arbitrage**
 
 - **(2)** Toute demande d’arbitrage au titre de l’article 161 sur une question faisant l’objet d’un contrat confidentiel est subordonnée à l’assentiment de toutes les parties au contrat.
-> 1996, ch. 10, art. 126; 2013, ch. 31, art. 8; 2018, ch. 10, art. 25.
+> 1996, ch. 10, art. 126; 2013, ch. 31, art. 8; 2018, ch. 10, art. 25
 
 
 
@@ -3512,7 +3526,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Agrandissement des limites**
 
 - **(4)** Sur demande formée au titre du paragraphe (1), l’Office peut statuer que, dans un cas particulier où le point d’origine ou le point de destination du trafic est situé à plus de trente kilomètres d’un lieu de correspondance et où il est d’avis que, dans les circonstances, le point d’origine ou le point de destination est suffisamment près du lieu de correspondance, le point d’origine ou le point de destination, selon le cas, est réputé situé à l’intérieur de cette distance.
-> 1996, ch. 10, art. 127; 2018, ch. 10, art. 26 et 95.
+> 1996, ch. 10, art. 127; 2018, ch. 10, art. 26 et 95
 
 
 
@@ -3540,8 +3554,8 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **Publication du prix**
 
-- **(5)** L’Office fait publier le prix dans la Gazette du Canada au plus tard le 31 décembre précédant le début de l’année civile durant laquelle il s’appliquera.
-> 2018, ch. 10, art. 27.
+- **(5)** L’Office fait publier le prix dans la [Gazette du Canada](http://www.gazette.gc.ca/) au plus tard le 31 décembre précédant le début de l’année civile durant laquelle il s’appliquera.
+> 2018, ch. 10, art. 27
 
 
 
@@ -3567,7 +3581,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Révision des limites**
 
 - **(5)** L’Office révise les règlements à intervalles de cinq ans à compter de la date de leur prise ou à intervalles plus rapprochés si les circonstances le justifient.
-> 1996, ch. 10, art. 128; 2014, ch. 8, art. 7; 2018, ch. 10, art. 28.
+> 1996, ch. 10, art. 128; 2014, ch. 8, art. 7; 2018, ch. 10, art. 28
 
 
 
@@ -3576,7 +3590,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Demande de renseignements**
 
 **128.1** Au plus tard le 31 août de chaque année, la compagnie de chemin de fer fournit à l’Office, en la forme et selon les modalités précisées par celui-ci, les renseignements ou documents qu’il estime nécessaires à l’exercice de ses attributions au titre de l’article 127.1.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3623,7 +3637,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 	- **a)** le point d’origine du transport est situé au Québec et au nord de cet axe;
 	- **b)** l’expéditeur a accès aux lignes d’un seul transporteur ferroviaire de catégorie 1 au point d’origine;
 	- **c)** le lieu de correspondance le plus proche est situé dans cet axe.
-> 1996, ch. 10, art. 129; 2018, ch. 10, art. 29 et 95.
+> 1996, ch. 10, art. 129; 2018, ch. 10, art. 29 et 95
 
 
 
@@ -3644,7 +3658,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 	- **a)** le point de raccordement visé à l’alinéa (1)c) est réputé être le point d’origine ou le point de destination, selon le cas;
 	- **b)** le point de raccordement visé à l’alinéa (1)c) est réputé desservi exclusivement par le transporteur ferroviaire de catégorie 1 visé à cet alinéa;
 	- **c)** le transporteur ferroviaire de catégorie 1 visé à l’alinéa (1)c) est réputé être le transporteur local.
-> 1996, ch. 10, art. 130; 2018, ch. 10, art. 29.
+> 1996, ch. 10, art. 130; 2018, ch. 10, art. 29
 
 
 
@@ -3653,7 +3667,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Transfert de lignes**
 
 **131** Il demeure entendu que le transfert des droits de propriété ou d’exploitation sur une ligne en application de la section V ou de l’article 158 de la Loi de 1987 sur les transports nationaux ne limite pas le droit de l’expéditeur de demander un arrêté d’interconnexion de longue distance.
-> 1996, ch. 10, art. 131; 2018, ch. 10, art. 29.
+> 1996, ch. 10, art. 131; 2018, ch. 10, art. 29
 
 
 
@@ -3664,7 +3678,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **132** La demande d’arrêté d’interconnexion de longue distance contient :
 - **a)** d’une part, l’engagement pris par l’expéditeur envers le transporteur local de faire transporter, conformément à l’arrêté, les marchandises par rail entre celui du point d’origine ou du point de destination qui est desservi exclusivement par ce transporteur et le lieu de correspondance le plus proche, situé au Canada, avec un transporteur de liaison;
 - **b)** d’autre part, le parcours continu choisi par l’expéditeur.
-> 1996, ch. 10, art. 132; 2018, ch. 10, art. 29.
+> 1996, ch. 10, art. 132; 2018, ch. 10, art. 29
 
 
 
@@ -3673,7 +3687,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Demande rejetée**
 
 **133** L’Office rejette la demande d’arrêté d’interconnexion de longue distance si l’expéditeur ne le convainc pas que des efforts ont été déployés pour régler les questions soulevées dans la demande.
-> 1996, ch. 10, art. 133; 2018, ch. 10, art. 29.
+> 1996, ch. 10, art. 133; 2018, ch. 10, art. 29
 
 
 
@@ -3694,7 +3708,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(2)** L’Office ne peut prendre l’arrêté si la distance entre celui du point d’origine ou du point de destination qui est desservi exclusivement par le transporteur ferroviaire de catégorie 1 et le lieu de correspondance le plus proche, situé au Canada, avec un transporteur de liaison dépasse la plus grande des distances suivantes :
 	- **a)** 1 200 km;
 	- **b)** cinquante pour cent de la distance totale du transport par rail au Canada.
-> 1996, ch. 10, art. 134; 2018, ch. 10, art. 29.
+> 1996, ch. 10, art. 134; 2018, ch. 10, art. 29
 
 
 
@@ -3728,7 +3742,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Facteurs à prendre en compte — prix**
 
 - **(4)** Pour établir le prix visé à l’alinéa (1)b), l’Office tient compte des facteurs prévus au paragraphe (3), de la densité du trafic sur les lignes du transporteur local sur lesquelles celui-ci effectue le transport et des investissements à long terme requis sur ces lignes.
-> 1996, ch. 10, art. 135; 2018, ch. 10, art. 29 et 95.
+> 1996, ch. 10, art. 135; 2018, ch. 10, art. 29 et 95
 
 
 
@@ -3749,7 +3763,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(3)** Pour l’application des paragraphes (1) et (2) :
 	- **a)** si le transport passe par un port au Canada en vue de l’importation au Canada, ce port est le point d’origine;
 	- **b)** si le transport passe par un port au Canada en vue de l’exportation du Canada, ce port est le point de destination.
-> 1996, ch. 10, art. 136; 2018, ch. 10, art. 29.
+> 1996, ch. 10, art. 136; 2018, ch. 10, art. 29
 
 
 
@@ -3758,7 +3772,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Lieu de correspondance le plus proche**
 
 **136.1** Le lieu de correspondance le plus proche situé au Canada établi par l’Office est celui le plus proche du point d’origine ou du point de destination desservi exclusivement par le transporteur local du transport effectué dans la direction la plus judicieuse de l’origine à la destination sur le parcours continu, sauf si le transporteur local peut établir que ce lieu de correspondance ne peut pas être utilisé pour des raisons techniques.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3767,7 +3781,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Moyens à prendre**
 
 **136.2** Pour établir les moyens à prendre par le transporteur local pour s’acquitter de ses obligations prévues par les articles 113 et 114, l’Office tient compte des éléments prévus aux alinéas 116(1.2)a) à i).
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3776,7 +3790,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Durée**
 
 **136.3** L’arrêté d’interconnexion de longue distance s’applique aux parties pendant un an à compter de sa date, sauf accord entre elles à l’effet contraire.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3791,7 +3805,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Exemption de publication**
 
 - **(2)** Le paragraphe 117(3) ne s’applique pas à l’égard de ce tarif.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3800,7 +3814,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Exclusion de l’arbitrage**
 
 **136.5** Les questions relatives au transport visé par un arrêté d’interconnexion de longue distance ne peuvent pas être soumises à l’arbitrage prévu à l’article 161.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3825,7 +3839,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Portion des frais en immobilisations**
 
 - **(4)** Si le trafic visé par l’arrêté est transporté par plusieurs transporteurs de liaison, les frais en immobilisations sont répartis entre ces transporteurs en fonction de la proportion du trafic que chacun d’eux transporte.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3834,7 +3848,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Règlements**
 
 **136.7** Le gouverneur en conseil peut, par règlement, prévoir pour l’application de l’alinéa 129(3)k) des cas où l’expéditeur ne peut demander à l’Office de prendre un arrêté d’interconnexion de longue distance.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3843,7 +3857,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Suspension de l’application**
 
 **136.8** S’il est d’avis que l’application des articles 129 à 136.7 a des répercussions importantes sur la viabilité financière d’une compagnie de chemin de fer, le gouverneur en conseil peut, par décret, suspendre l’application de ces articles pour la période qu’il précise.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3868,7 +3882,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Obligations de la compagnie**
 
 - **(3)** Il est entendu que le fait pour la compagnie de chemin de fer de supprimer un lieu de correspondance au titre du paragraphe (2) ne la relève pas de ses obligations prévues par les articles 113 et 114.
-> 2018, ch. 10, art. 29.
+> 2018, ch. 10, art. 29
 
 
 
@@ -3893,7 +3907,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Règlements**
 
 - **(3)** Pour l’application de l’alinéa (2)b), l’Office peut, par règlement, régir les modalités du traitement, entre une compagnie de chemin de fer et un expéditeur, de la question visée au paragraphe (2).
-> 1996, ch. 10, art. 137; 2015, ch. 31, art. 9; 2018, ch. 10, art. 30.
+> 1996, ch. 10, art. 137; 2015, ch. 31, art. 9; 2018, ch. 10, art. 30
 
 
 
@@ -3902,7 +3916,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Plaintes**
 
 **137.1** Saisi d’une plainte, l’Office peut, s’il constate qu’une compagnie de chemin de fer ne se conforme pas au paragraphe 137(1), ordonner à celle-ci de prendre les mesures qu’il estime indiquées pour qu’elle se conforme à ce paragraphe.
-> 2018, ch. 10, art. 31.
+> 2018, ch. 10, art. 31
 
 
 
@@ -4007,7 +4021,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Obligation en cas de transfert**
 
 - **(4)** La compagnie de chemin de fer qui transfère, notamment par vente ou bail, ses droits de propriété ou d’exploitation sur une partie d’un embranchement tributaire du transport du grain mentionné à l’annexe I à une personne qui entend l’exploiter doit continuer d’exploiter la portion restante pendant les trois ans suivant le transfert, sauf si le ministre conclut que cela n’est pas dans l’intérêt public.
-> 1996, ch. 10, art. 141; 2000, ch. 16, art. 5; 2007, ch. 19, art. 35; 2018, ch. 10, art. 32.
+> 1996, ch. 10, art. 141; 2000, ch. 16, art. 5; 2007, ch. 19, art. 35; 2018, ch. 10, art. 32
 
 
 
@@ -4030,7 +4044,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Groupes communautaires**
 
 - **(3)** Si le gouvernement fédéral, un gouvernement provincial, une administration municipale ou un groupe communautaire appuyé par écrit par un tel gouvernement ou une telle administration a informé par écrit une compagnie de chemin de fer qu’il serait intéressé à acquérir, en vue d’en continuer l’exploitation, tout ou partie d’un embranchement tributaire du transport du grain mentionné à l’annexe I et figurant dans le plan de la compagnie à titre de ligne dont elle a l’intention de cesser, en tout ou en partie, l’exploitation, le paragraphe (2) ne s’applique pas et la compagnie doit sans délai suivre les étapes visées à l’article 143.
-> 1996, ch. 10, art. 142; 2000, ch. 16, art. 6; 2018, ch. 10, art. 33.
+> 1996, ch. 10, art. 142; 2000, ch. 16, art. 6; 2018, ch. 10, art. 33
 
 
 
@@ -4053,7 +4067,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 	- **b)** soit que l’article 96 s’applique aux terres sur lesquelles la ligne est située soit qu’il ne s’applique pas à celles-ci.
 
 - **(4)** [Abrogé, 2007, ch. 19, art. 36]
-> 1996, ch. 10, art. 143; 2007, ch. 19, art. 36; 2018, ch. 10, art. 34.
+> 1996, ch. 10, art. 143; 2007, ch. 19, art. 36; 2018, ch. 10, art. 34
 
 
 
@@ -4094,7 +4108,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Défaut par l’intéressé de négocier de bonne foi**
 
 - **(7)** Saisi d’une plainte écrite formulée par la compagnie, l’Office peut décider que la compagnie n’est plus tenue de négocier avec l’intéressé s’il conclut que celui-ci ne négocie pas de bonne foi.
-> 1996, ch. 10, art. 144; 2000, ch. 16, art. 7; 2007, ch. 19, art. 37; 2018, ch. 10, art. 35.
+> 1996, ch. 10, art. 144; 2000, ch. 16, art. 7; 2007, ch. 19, art. 37; 2018, ch. 10, art. 35
 
 
 
@@ -4115,7 +4129,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(3)** La déclaration visée au paragraphe (2) cesse d’avoir effet si, selon le cas :
 	- **a)** VIA Rail Canada Inc. cesse d’exploiter un service passagers sur cette partie de la ligne;
 	- **b)** la ligne cesse d’être exploitée.
-> 2007, ch. 19, art. 38.
+> 2007, ch. 19, art. 38
 
 
 
@@ -4170,7 +4184,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Valeur nette de récupération**
 
 - **(5)** Si les parties ne peuvent s’entendre, dans les quatre-vingt-dix jours suivant l’acceptation de l’offre, sur la valeur nette de récupération, l’Office la détermine, sur demande de l’une d’elles.
-> 1996, ch. 10, art. 145; 2007, ch. 19, art. 39; 2018, ch. 10, art. 36.
+> 1996, ch. 10, art. 145; 2007, ch. 19, art. 39; 2018, ch. 10, art. 36
 
 
 
@@ -4189,7 +4203,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Non-obligation**
 
 - **(2)** En cas de transfert — notamment par vente ou bail — par la compagnie de la ligne ou de droits qu’elle y détient, en vertu d’une convention résultant du processus établi en vertu des articles 143 à 145 ou autrement, la compagnie cessionnaire n’a plus d’obligation en vertu de la présente loi relativement à l’exploitation de la ligne ou à son utilisation par la société de transport publique, et ce à compter de la date de signature de l’acte de transfert.
-> 1996, ch. 10, art. 146; 2007, ch. 19, art. 40; 2018, ch. 10, art. 37.
+> 1996, ch. 10, art. 146; 2007, ch. 19, art. 40; 2018, ch. 10, art. 37
 
 
 
@@ -4204,7 +4218,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Absence d’obligation**
 
 - **(2)** Le cas échéant, la compagnie de chemin de fer qui choisit de suivre le processus établi en vertu des articles 143 à 145 n’est pas assujettie au paragraphe 142(2) à l’égard de la ligne ou des droits d’exploitation et elle n’a pas d’obligation en vertu de la présente loi relativement à l’exploitation de la ligne de chemin de fer.
-> 2008, ch. 5, art. 4.
+> 2008, ch. 5, art. 4
 
 
 
@@ -4213,7 +4227,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Exception**
 
 **146.02** Malgré l’article 146.01, si une ligne de chemin de fer ou les droits d’exploitation d’une ligne font retour à la compagnie de chemin de fer visée à cet article, les droits et obligations découlant, avant le retour, de tout accord auquel sont parties le propriétaire de la ligne ou le détenteur des droits d’exploitation et une société de transport publique, au sens de l’article 87, relativement à l’exploitation d’un service de passagers sur la ligne sont, sauf avis contraire donné par la société avant le retour, dévolus dès le retour à la compagnie de chemin de fer qui est alors tenue de reprendre l’exploitation de la ligne.
-> 2008, ch. 5, art. 8.
+> 2008, ch. 5, art. 8
 
 
 
@@ -4228,7 +4242,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Indemnisation**
 
 - **(2)** Si la compagnie à laquelle s’applique le paragraphe 146.01(1) ne reprend pas l’exploitation d’un embranchement tributaire du transport du grain mentionné à l’annexe I dans le délai prévu à ce paragraphe et qu’aucune convention de transfert n’est conclue au titre du processus établi en vertu des articles 143 à 145, la compagnie effectue les versements annuels prévus au paragraphe (1) à compter du lendemain du dernier jour où l’offre aurait pu être acceptée au titre de l’article 145.
-> 2000, ch. 16, art. 8; 2007, ch. 19, art. 41(F); 2008, ch. 5, art. 5.
+> 2000, ch. 16, art. 8; 2007, ch. 19, art. 41(F); 2008, ch. 5, art. 5
 
 
 
@@ -4281,7 +4295,7 @@ Cette offre leur est faite simultanément.
 **Avis à l’Office**
 
 - **(8)** Si l’offre n’est pas acceptée, la compagnie peut démonter la voie d’évitement ou l’épi à la condition d’en aviser l’Office.
-> 2007, ch. 19, art. 42.
+> 2007, ch. 19, art. 42
 
 
 
@@ -4304,7 +4318,7 @@ Cette offre leur est faite simultanément.
 **Frais**
 
 - **(4)** Le demandeur est tenu de rembourser à l’Office les frais afférents à sa demande.
-> 2007, ch. 19, art. 42.
+> 2007, ch. 19, art. 42
 
 
 
@@ -4313,7 +4327,7 @@ Cette offre leur est faite simultanément.
 **Emprises**
 
 **146.4** Les articles 146.2 et 146.3 s’appliquent, avec les adaptations nécessaires, aux emprises qui sont situées dans les régions métropolitaines ou sur le territoire desservi par une administration de transport de banlieue, sur lesquelles se trouvaient des voies d’évitement ou des épis qui ont été démontés, et que la compagnie de chemin de fer entend transférer, notamment par vente ou bail.
-> 2007, ch. 19, art. 42.
+> 2007, ch. 19, art. 42
 
 
 
@@ -4322,7 +4336,7 @@ Cette offre leur est faite simultanément.
 **Gares de voyageurs**
 
 **146.5** Les articles 146.2 et 146.3 s’appliquent également, avec les adaptations nécessaires, aux gares de voyageurs situées au Canada que la compagnie de chemin de fer entend transférer, notamment par vente ou bail, ou démonter.
-> 2007, ch. 19, art. 42.
+> 2007, ch. 19, art. 42
 
 
 
@@ -4331,7 +4345,7 @@ Cette offre leur est faite simultanément.
 **Plaintes**
 
 **146.6** Saisi d’une plainte, l’Office peut, s’il constate qu’une compagnie de chemin de fer ne se conforme pas à la présente section, ordonner à celle-ci de prendre les mesures qu’il estime indiquées pour qu’elle s’y conforme.
-> 2018, ch. 10, art. 38.
+> 2018, ch. 10, art. 38
 
 
 
@@ -4371,7 +4385,7 @@ Cette offre leur est faite simultanément.
 ***région de l’Ouest*** La partie du Canada située à l’ouest du méridien qui coupe la limite est de la ville de Thunder Bay, y compris toute la province du Manitoba. (*Western Division*)
 
 ***wagon-trémie du gouvernement***[Abrogée, 2018, ch. 10, art. 39]
-> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2001, ch. 26, art. 282; 2005, ch. 24, art. 3; 2011, ch. 25, art. 60; 2018, ch. 10, art. 39.
+> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2001, ch. 26, art. 282; 2005, ch. 24, art. 3; 2011, ch. 25, art. 60; 2018, ch. 10, art. 39
 
 
 
@@ -4401,7 +4415,7 @@ Cette offre leur est faite simultanément.
 **Interdiction**
 
 - **(2)** Il est interdit à une compagnie de chemin de fer régie de fixer dans un tarif, pour le mouvement de grain par wagon unique à partir d’un point de livraison sur un de ses embranchements, un taux supérieur de trois pour cent à un taux pour wagon unique figurant dans les tarifs établis par elle pour le mouvement du même type de grain dans des circonstances et sur une distance sensiblement analogues à partir du point de livraison sur une de ses lignes principales le plus rapproché, en ligne droite, du point de livraison sur l’embranchement.
-> 1996, ch. 10, art. 149, ch. 18, art. 41; 2000, ch. 16, art. 10.
+> 1996, ch. 10, art. 149, ch. 18, art. 41; 2000, ch. 16, art. 10
 
 
 
@@ -4441,7 +4455,7 @@ Cette offre leur est faite simultanément.
 **Calcul du revenu des compagnies**
 
 - **(6)** L’Office calcule le montant du revenu de chaque compagnie de chemin de fer régie pour le mouvement du grain au cours d’une campagne agricole au plus tard le 31 décembre de la campagne suivante.
-> 1996, ch. 10, art. 150; 2000, ch. 16, art. 10; 2018, ch. 10, art. 40.
+> 1996, ch. 10, art. 150; 2000, ch. 16, art. 10; 2018, ch. 10, art. 40
 
 
 
@@ -4495,7 +4509,7 @@ où
 **Ajustements**
 
 - **(6)** Malgré le paragraphe (5), l’Office effectue les ajustements visés à l’alinéa (4)c) lorsqu’il l’estime indiqué, et détermine la date de prise d’effet de l’indice ainsi ajusté.
-> 1996, ch. 10, art. 151; 2000, ch. 16, art. 10; 2007, ch. 19, art. 43; 2018, ch. 10, art. 41.
+> 1996, ch. 10, art. 151; 2000, ch. 16, art. 10; 2007, ch. 19, art. 43; 2018, ch. 10, art. 41
 
 
 
@@ -4516,7 +4530,7 @@ où
 **Publication**
 
 - **(3)** Dès que la compagnie de chemin de fer régie fournit au ministre un rapport en application des paragraphes (1) ou (2), elle le publie sur son site Internet.
-> 2018, ch. 10, art. 42.
+> 2018, ch. 10, art. 42
 
 
 
@@ -4539,7 +4553,7 @@ où
 **Suppression de la liste**
 
 - **(3)** Elle ne peut supprimer une voie d’évitement de la liste qu’à l’expiration d’un délai de soixante jours suivant la publication d’un avis à cet effet dans un journal à grande diffusion dans la région concernée.
-> 2008, ch. 5, art. 6.
+> 2008, ch. 5, art. 6
 
 
 
@@ -4559,7 +4573,7 @@ où
 	- **(iii)** la longueur moyenne des mouvements de grain effectués au cours de l’année de référence;
 - **c)** prévoir une pénalité pour l’application du paragraphe 150(2) et régir le versement de celle-ci et de l’excédent pour l’application de ce paragraphe;
 - **d)** prendre toute autre mesure réglementaire pour l’application de la présente section.
-> 1996, ch. 10, art. 152; 2000, ch. 16, art. 10.
+> 1996, ch. 10, art. 152; 2000, ch. 16, art. 10
 
 
 
@@ -4583,7 +4597,7 @@ où
 **Demande**
 
 - **(2)** En cas de différend survenant entre une société de transport publique et une compagnie de chemin de fer sur toute question soulevée dans le cadre de la mise en oeuvre de l’accord et concernant une question que l’Office a réglée, l’une ou l’autre des parties peut, à la suite d’efforts raisonnables faits pour régler le différend, demander à celui-ci de trancher la question.
-> 2007, ch. 19, art. 44.
+> 2007, ch. 19, art. 44
 
 
 
@@ -4603,7 +4617,7 @@ où
 	- **c)** les frais supportés par la compagnie en raison des améliorations faites en vue de l’utilisation de ses chemins de fer, terres, installations, équipements ou services par la société;
 	- **d)** une contribution raisonnable de la société aux frais fixes de la compagnie;
 	- **e)** la valeur des avantages que la compagnie retire des investissements faits par la société.
-> 2007, ch. 19, art. 44.
+> 2007, ch. 19, art. 44
 
 
 
@@ -4612,7 +4626,7 @@ où
 **Durée de la décision**
 
 **152.3** La décision prise par l’Office au titre de la demande visée au paragraphe 152.1(1) lie les parties pendant les cinq années suivant sa prise ou pour la période spécifiée dont conviennent les parties.
-> 2007, ch. 19, art. 44.
+> 2007, ch. 19, art. 44
 
 
 
@@ -4633,7 +4647,7 @@ où
 **Exception**
 
 - **(2)** Sur demande de la compagnie ou de la société, l’Office peut soustraire tout ou partie de l’accord à l’application de l’alinéa (1)b) au motif que sa divulgation causerait vraisemblablement un préjudice au demandeur.
-> 2007, ch. 19, art. 44.
+> 2007, ch. 19, art. 44
 
 
 
@@ -4661,7 +4675,7 @@ où
 ***marchandise désignée*** Selon le cas : 
 - **a)** le pétrole brut;
 - **b)** toute marchandise désignée par règlement. (*designated good*)
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4670,7 +4684,7 @@ où
 **Application**
 
 **152.6** La présente section ne s’applique qu’aux compagnies de chemin de fer titulaires d’un certificat d’aptitude délivré au titre de l’alinéa 92(1)*b*) relativement à l’exploitation de chemin de fer visée par ce certificat.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4693,7 +4707,7 @@ où
 **Non-application**
 
 - **(3)** La limite de responsabilité prévue au paragraphe (1) ne s’applique pas à la compagnie de chemin de fer s’il est prouvé que l’accident ferroviaire est attribuable au fait — acte ou omission — de la compagnie de chemin de fer commis soit dans l’intention de provoquer l’accident, soit avec insouciance et tout en sachant que l’accident se produirait probablement.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4702,7 +4716,7 @@ où
 **Aucune preuve de faute ou de négligence**
 
 **152.8** La responsabilité de la compagnie de chemin de fer prévue au paragraphe 152.7(1) n’est pas subordonnée à la preuve d’une faute ou d’une négligence.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4711,7 +4725,7 @@ où
 **Responsabilité en vertu d’une autre loi**
 
 **152.9** La compagnie de chemin de fer dont la responsabilité est engagée, en l’absence de preuve de faute ou de négligence, pour le même accident ferroviaire en application du paragraphe 152.7(1) et de toute autre loi est responsable en application de ce paragraphe jusqu’à concurrence de la limite de responsabilité la plus élevée entre la limite prévue à ce paragraphe et celle prévue par l’autre loi. Si l’autre loi ne prévoit aucune limite, la limite prévue à ce paragraphe ne s’applique pas à cette compagnie de chemin de fer.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4740,7 +4754,7 @@ où
 **Frais non recouvrables en vertu de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)**
 
 - **(4)** Les frais recouvrables par Sa Majesté du chef du Canada ou d’une province au titre de la présente section ne peuvent être recouvrés au titre du paragraphe 42(1) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
-> 1996, ch. 10, art. 153; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10.
+> 1996, ch. 10, art. 153; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10
 
 
 
@@ -4751,7 +4765,7 @@ où
 **153.1** La compagnie de chemin de fer n’est pas tenue pour responsable en application du paragraphe 152.7(1) si elle démontre :
 - **a)** soit que l’accident ferroviaire résulte d’un acte de guerre, d’hostilités, d’une guerre civile ou d’une insurrection;
 - **b)** soit qu’un autre moyen de défense prévu par règlement s’applique.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4774,7 +4788,7 @@ où
 **Poursuites : perte de la valeur de non-usage**
 
 - **(4)** Seule Sa Majesté du chef du Canada ou d’une province peut engager des poursuites pour le recouvrement de la perte de la valeur de non-usage prévue à l’alinéa 153(1)c).
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4783,7 +4797,7 @@ où
 **Droits de la compagnie de chemin de fer envers les tiers**
 
 **153.3** La présente section n’a pas pour effet de porter atteinte aux recours que la compagnie de chemin de fer peut exercer contre des tiers.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4818,7 +4832,7 @@ où
 	- **b)** les sommes payées sur le Trésor en application du paragraphe 154.2(3);
 	- **c)** les sommes versées en application du paragraphe 155(1);
 	- **d)** les sommes et les dépens accordés par un tribunal au terme d’un appel interjeté en vertu du paragraphe 154.9(2) ou de l’article 155.1.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4827,7 +4841,7 @@ où
 **Intérêts à porter au crédit de la Caisse**
 
 **153.5** Le ministre des Finances fait porter au crédit de la Caisse des intérêts — calculés au taux et selon les modalités fixés par le gouverneur en conseil — sur le solde créditeur de la Caisse.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4836,7 +4850,7 @@ où
 **Transfert du Trésor**
 
 **153.6** En cas d’insuffisance de fonds dans la Caisse pour payer toute somme qui est débitée de celle-ci au titre de l’un des alinéas 153.4(3)b) à d), le ministre des Finances peut, sous réserve des modalités qu’il estime indiquées, ordonner que soit portée au débit du Trésor et au crédit de la Caisse une somme suffisante pour y remédier.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4863,7 +4877,7 @@ où
 **Prolongation du mandat**
 
 - **(4)** S’il n’est pas pourvu à la succession de l’administrateur, le mandat de celui-ci se prolonge jusqu’à la date de nomination de son remplaçant ou, si elle est antérieure, jusqu’à celle fixée par le gouverneur en conseil.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4882,7 +4896,7 @@ où
 **Mandat renouvelable**
 
 - **(3)** Le mandat de l’administrateur adjoint est renouvelable.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4897,7 +4911,7 @@ où
 **Absence ou empêchement de l’administrateur**
 
 - **(2)** En cas d’absence ou d’empêchement de l’administrateur ou de vacance de son poste, la suppléance est assumée par l’administrateur adjoint.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4906,7 +4920,7 @@ où
 **Démission**
 
 **154** La démission de l’administrateur ou de l’administrateur adjoint prend effet au moment où le ministre en reçoit un avis écrit ou, si elle est postérieure, à la date que précise l’avis.
-> 1996, ch. 10, art. 154; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10.
+> 1996, ch. 10, art. 154; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10
 
 
 
@@ -4921,7 +4935,7 @@ où
 **Conséquences d’une contravention**
 
 - **(2)** Le mandat de l’administrateur ou de l’administrateur adjoint qui contrevient au paragraphe (1) prend fin à la date fixée par le gouverneur en conseil, au plus tard trente jours après la date de la réception par le ministre d’un avis l’informant de la contravention; celle-ci n’a aucun effet sur la validité des actions accomplies par l’administrateur ou l’administrateur adjoint en vertu de la présente section entre la date de la contravention et celle où son mandat prend fin.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4944,7 +4958,7 @@ où
 **Taxation**
 
 - **(4)** Les officiers taxateurs de la Cour fédérale peuvent, à la demande du ministre de la Justice, taxer les comptes de frais — à l’exception des frais visés au paragraphe (2) — engagés par l’administrateur et l’administrateur adjoint dans l’exercice des attributions que leur confère la présente section comme si l’administrateur ou l’administrateur adjoint représentait Sa Majesté dans une instance devant ce tribunal.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4953,7 +4967,7 @@ où
 **Assistance**
 
 **154.3** Dans l’exercice des attributions que lui confère la présente section, l’administrateur peut obtenir les avis et l’assistance techniques, professionnels et autres qu’il juge nécessaires.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4972,7 +4986,7 @@ où
 **Fardeau de la preuve**
 
 - **(2)** Le demandeur n’est pas tenu de démontrer que les pertes, dommages ou frais sont le résultat d’un accident ferroviaire, mais l’administrateur rejette la demande s’il est convaincu du contraire.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -4987,7 +5001,7 @@ où
 **Taux**
 
 - **(2)** Les intérêts sont calculés au taux fixé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et applicable aux sommes à verser par le ministre du Revenu national à titre de remboursement de paiements en trop d’impôt en application de cette loi.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5010,7 +5024,7 @@ où
 - **(3)** L’administrateur réduit proportionnellement ou éteint la créance s’il est convaincu que l’événement à l’origine de celle-ci résulte :
 	- **a)** soit d’une action ou omission du demandeur commise dans l’intention d’entraîner des dommages, des pertes ou des frais;
 	- **b)** soit de la négligence du demandeur.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5025,7 +5039,7 @@ où
 **Offre d’indemnisation — plus d’une compagnie de chemin de fer**
 
 - **(2)** Si plus d’une compagnie de chemin de fer est responsable, en application du paragraphe 152.7(1), des pertes, dommages et frais prévus au paragraphe 153(1) et résultant de l’accident ferroviaire auquel se rapporte la demande présentée en vertu de l’article 154.4, l’administrateur fait une offre d’indemnisation pour la partie de la demande qu’il juge bien fondée et n’ayant pas encore fait l’objet d’une indemnisation par les compagnies de chemin de fer, s’il est convaincu que celles-ci ont versé, à l’égard des pertes, dommages ou frais prévus au paragraphe 153(1) et résultant de l’accident, un dédommagement équivalant ou supérieur au total des niveaux minimaux d’assurance responsabilité dont l’exploitation des différents chemins de fer impliqués dans l’accident ferroviaire doit bénéficier selon l’obligation prévue à l’alinéa 93.1(1)b) qui incombe à chacune des compagnies.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5034,7 +5048,7 @@ où
 **Pouvoirs de l’administrateur**
 
 **154.8** Aux fins d’enquête et d’évaluation et afin d’établir le montant du dédommagement qu’une compagnie de chemin de fer a versé à l’égard de l’accident ferroviaire auquel se rapporte la demande, l’administrateur a les pouvoirs d’un commissaire nommé en vertu de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md).
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5049,7 +5063,7 @@ où
 **Appel devant la Cour fédérale — suffisance**
 
 - **(2)** Le demandeur peut, avant la fin du délai applicable prévu au paragraphe (1), interjeter appel devant la Cour fédérale en ce qui concerne la suffisance de l’offre.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5077,7 +5091,7 @@ où
 **Précision**
 
 - **(4)** Si la limite de responsabilité de toute compagnie de chemin de fer à l’égard de l’accident ferroviaire auquel se rapporte l’offre d’indemnisation est, par l’effet de l’article 152.9, plus élevée que la limite de responsabilité prévue au paragraphe 152.7(1), l’alinéa (2)c) n’a pas pour effet d’autoriser l’administrateur à recouvrer auprès de la compagnie de chemin de fer une somme supérieure à la différence entre les deux limites.
-> 1996, ch. 10, art. 155; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10.
+> 1996, ch. 10, art. 155; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10
 
 
 
@@ -5086,7 +5100,7 @@ où
 **Appel devant la Cour fédérale — rejet**
 
 **155.1** Le demandeur peut, dans les soixante jours suivant la réception d’un avis de l’administrateur l’informant du rejet de sa demande, interjeter appel devant la Cour fédérale.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5105,7 +5119,7 @@ où
 **Qualité de partie**
 
 - **(2)** L’administrateur est partie à toute instance visée au paragraphe (1) et peut comparaître afin de prendre les mesures qu’il juge indiquées pour la bonne administration de la Caisse.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5118,7 +5132,7 @@ où
 **Contribution — pétrole brut**
 
 **155.3** La contribution associée au transport de pétrole brut par chemin de fer est de 1,65 $ par tonne pour l’année se terminant le 31 mars 2016 et est rajustée chaque année conformément à l’article 155.4.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5145,8 +5159,8 @@ où
 
 **Publication de la contribution rajustée**
 
-- **(4)** Dès que la contribution associée au transport de pétrole brut est rajustée conformément au présent article, le ministre la fait publier dans la Gazette du Canada et elle devient alors admissible en preuve dans toute action; la contribution ainsi publiée fait foi de la contribution pour l’année en question.
-> 2015, ch. 31, art. 10.
+- **(4)** Dès que la contribution associée au transport de pétrole brut est rajustée conformément au présent article, le ministre la fait publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) et elle devient alors admissible en preuve dans toute action; la contribution ainsi publiée fait foi de la contribution pour l’année en question.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5155,7 +5169,7 @@ où
 **Contribution — transport réglementaire**
 
 **155.5** À l’exclusion du transport de pétrole brut par chemin de fer, le montant et la méthode de calcul de la contribution associée au transport de toute marchandise — ou de toute marchandise relevant d’une catégorie de marchandises — qui est précisée par règlement sont établis par règlement.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5170,7 +5184,7 @@ où
 **Abrogation**
 
 - **(2)** Le ministre abroge l’arrêté dès que possible lorsqu’une somme équivalant à celle portée au débit du Trésor au titre de l’article 153.6 est créditée au Trésor à partir du solde créditeur de la Caisse et qu’il est convaincu que les modalités établies à l’égard de l’inscription de cette somme au débit du Trésor en vertu de cet article ont été respectées.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5193,7 +5207,7 @@ où
 **Définition de trimestre**
 
 - **(4)** Pour l’application du présent article, ***trimestre*** s’entend de toute période de trois mois débutant le premier jour de janvier, d’avril, de juillet ou d’octobre.
-> 2015, ch. 31, art. 10; 2018, ch. 10, art. 59(F).
+> 2015, ch. 31, art. 10; 2018, ch. 10, art. 59(F)
 
 
 
@@ -5208,7 +5222,7 @@ où
 **Paiement partiel**
 
 - **(2)** En cas de versement partiel, la période de calcul des intérêts sur le montant payé se termine la veille de la date de réception de celui-ci par le receveur général.
-> 2015, ch. 31, art. 10; 2018, ch. 10, art. 43.
+> 2015, ch. 31, art. 10; 2018, ch. 10, art. 43
 
 
 
@@ -5217,7 +5231,7 @@ où
 **Créance de Sa Majesté**
 
 **155.81** Les sommes à verser en application du paragraphe 155.7(1) et de l’article 155.8 constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement auprès de la compagnie de chemin de fer peut être poursuivi devant tout tribunal compétent.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5226,7 +5240,7 @@ où
 **Demande de renseignements**
 
 **155.82** Le ministre peut exiger qu’une compagnie de chemin de fer lui fournisse, en la forme et dans le délai qu’il précise, tout renseignement ou document qu’il estime nécessaire pour assurer le respect de la présente section.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5241,7 +5255,7 @@ où
 **Aucune conséquence sur le rajustement annuel**
 
 - **(2)** L’arrêté pris en vertu du paragraphe (1) n’a aucun effet sur l’application de l’article 155.4 à l’égard de toute contribution.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5264,7 +5278,7 @@ où
 **Examen**
 
 - **(3)** Elles doivent, à toute heure convenable, permettre aux personnes désignées par le ministre en vertu du paragraphe 155.85(1) d’examiner les registres et livres comptables, ainsi que les comptes et pièces justificatives nécessaires à la vérification des renseignements qui s’y trouvent; elles doivent aussi leur fournir les moyens nécessaires à cet examen.
-> 2015, ch. 31, art. 10; 2018, ch. 10, art. 59(F).
+> 2015, ch. 31, art. 10; 2018, ch. 10, art. 59(F)
 
 
 
@@ -5279,7 +5293,7 @@ où
 **Certificat**
 
 - **(2)** Le ministre remet à la personne qu’il désigne un certificat attestant sa qualité que celle-ci présente, sur demande, au propriétaire, à l’occupant ou au responsable du lieu visité en vertu du paragraphe 155.86(1).
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5310,7 +5324,7 @@ où
 **Assistance**
 
 - **(4)** Le propriétaire ou le responsable du lieu, ainsi que quiconque s’y trouve, sont tenus de prêter à la personne désignée toute l’assistance qu’elle peut valablement exiger pour lui permettre d’exercer des attributions que lui confère le présent article, et de lui fournir les documents, les renseignements et l’accès aux données qu’elle peut valablement exiger.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5328,7 +5342,7 @@ où
 	- **a)** la maison d’habitation est un lieu visé au paragraphe 155.86(1);
 	- **b)** l’entrée est nécessaire pour l’application de ce paragraphe;
 	- **c)** soit l’occupant a refusé l’entrée à la personne désignée, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il sera impossible d’obtenir son consentement.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5337,7 +5351,7 @@ où
 **Rapport au ministre**
 
 **155.88** Au terme de l’inspection, la personne désignée rédige un rapport qu’elle transmet au ministre.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5352,7 +5366,7 @@ où
 **Avis d’une demande de prorogation**
 
 - **(2)** La personne qui avait la garde du document emporté doit être avisée de toute demande de prorogation du délai prévue au paragraphe (1).
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5361,7 +5375,7 @@ où
 **Copies**
 
 **155.9** Les copies de documents, faites en vertu du paragraphe 155.86(2) et paraissant certifiées conformes par le ministre, sont admissibles en preuve lors d’une poursuite pour une infraction relative à la contravention d’une disposition de la présente section ou à la contravention d’un arrêté ou d’une disposition d’un règlement pris en vertu de la présente section et, sauf preuve contraire, font foi de leur contenu.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5376,7 +5390,7 @@ où
 **Entrave**
 
 - **(2)** Il est interdit d’entraver sciemment l’action d’une personne dans l’exercice des attributions que lui confère l’article 155.86.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5400,7 +5414,7 @@ où
 	- **a)** l’exercice par lui et l’administrateur adjoint des attributions que leur confère la présente section se fait avec efficacité et en conformité avec la présente section;
 	- **b)** les actifs qu’ils utilisent sont protégés et contrôlés;
 	- **c)** les ressources financières, humaines et matérielles qu’ils utilisent sont gérées de façon économique et efficiente.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5424,7 +5438,7 @@ où
 **Définition de exercice**
 
 - **(3)** Au présent article, ***exercice*** s’entend de la période commençant le 1<sup>er</sup> avril et se terminant le 31 mars de l’année suivante.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5455,7 +5469,7 @@ où
 **Désaccord**
 
 - **(6)** Les désaccords entre l’examinateur et l’administrateur sur le plan d’examen sont tranchés par le ministre.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5472,7 +5486,7 @@ où
 - **(2)** Le rapport comporte notamment les éléments suivants :
 	- **a)** un énoncé indiquant si, selon l’examinateur et compte tenu des critères établis en conformité avec le paragraphe 155.94(5), il peut être garanti que, dans la mesure du possible, les moyens et méthodes étudiés n’ont pas de défauts graves;
 	- **b)** un énoncé indiquant dans quelle mesure l’examinateur s’est fié aux résultats d’une vérification interne.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5489,7 +5503,7 @@ où
 - **(2)** À la demande de l’examinateur, l’administrateur :
 	- **a)** fournit les renseignements et les éclaircissements que l’examinateur estime nécessaires pour lui permettre d’établir les rapports exigés par la présente section et qu’il peut normalement fournir;
 	- **b)** recueille auprès de l’administrateur adjoint, des employés ou mandataires, de leurs prédécesseurs ou de tout administrateur précédent, les renseignements et les éclaircissements que ces personnes peuvent normalement fournir et que l’examinateur estime nécessaires pour lui permettre d’établir les rapports exigés par la présente section et les fournir à l’examinateur.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5509,7 +5523,7 @@ où
 - **e)** régir la conservation et le dépôt, auprès du ministre, par les compagnies de chemin de fer, de renseignements concernant tout transport qu’elles ont effectué et auquel est associée une contribution prévue aux articles 155.3, 155.5 ou 155.6;
 - **f)** [Abrogé, 2018, ch. 10, art. 44]
 - **g)** prendre toute autre mesure d’application de la présente section.
-> 2015, ch. 31, art. 10; 2018, ch. 10, art. 44.
+> 2015, ch. 31, art. 10; 2018, ch. 10, art. 44
 
 
 
@@ -5522,7 +5536,7 @@ où
 **Articles 26 et 37**
 
 **155.98** Pour l’application des articles 26 et 37, la présente section est réputée ne pas faire partie de la loi fédérale visée à ces articles.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10
 
 
 
@@ -5589,7 +5603,7 @@ où
 **Renseignements sur les coûts**
 
 - **(5)** Au plus tard le 31 août de chaque année, la Compagnie des chemins de fer nationaux du Canada et la Compagnie de chemin de fer Canadien Pacifique fournissent à l’Office, en la forme et selon les modalités précisées par celui-ci, les données financières ou statistiques — notamment les données relatives aux frais unitaires et aux unités de production — et les renseignements à l’appui pour l’année civile qui précède dont il a besoin pour effectuer le calcul des frais sous le régime de la présente partie.
-> 1996, ch. 10, art. 157; 2018, ch. 10, art. 45.
+> 1996, ch. 10, art. 157; 2018, ch. 10, art. 45
 
 
 
@@ -5614,7 +5628,7 @@ où
 **Fonctions et attributions**
 
 - **(3)** L’organisme ou la personne ou catégorie de personnes peut, dans la mesure spécifiée dans l’accord, exercer les fonctions et les attributions nécessaires à l’exécution de la loi.
-> 1996, ch. 10, art. 157.1; 2003, ch. 22, art. 224(A); 2007, ch. 19, art. 46; 2012, ch. 7, art. 39.
+> 1996, ch. 10, art. 157.1; 2003, ch. 22, art. 224(A); 2007, ch. 19, art. 46; 2012, ch. 7, art. 39
 
 
 
@@ -5623,7 +5637,7 @@ où
 **Accords avec des autorités provinciales**
 
 **158** Le ministre peut conclure avec toute autorité provinciale un accord autorisant celle-ci à réglementer la construction et l’exploitation de tout chemin de fer ainsi que les prix et conditions visant les services; le cas échéant, l’autorité exerce ce pouvoir de la même manière et dans la même mesure que celui qu’elle peut exercer à l’égard d’un chemin de fer relevant de sa compétence.
-> 1996, ch. 10, art. 158; 2007, ch. 19, art. 47; 2012, ch. 7, art. 40.
+> 1996, ch. 10, art. 158; 2007, ch. 19, art. 47; 2012, ch. 7, art. 40
 
 
 
@@ -5667,7 +5681,7 @@ où
 **Compagnies de chemin de fer**
 
 **160** Les articles 161 à 169 s’appliquent également, avec les adaptations nécessaires, aux prix appliqués ou proposés par une compagnie de chemin de fer et aux conditions qu’elle impose pour la fourniture de services à une autre compagnie de chemin de fer se livrant au transport de passagers qui n’est pas une société de transport publique au sens de l’article 87.
-> 1996, ch. 10, art. 160; 2008, ch. 5, art. 8.
+> 1996, ch. 10, art. 160; 2008, ch. 5, art. 8
 
 
 
@@ -5695,7 +5709,7 @@ où
 **Soumission d’une question pour arbitrage**
 
 - **(4)** La soumission d’une question à l’Office pour arbitrage ne constitue pas une procédure devant l’Office.
-> 1996, ch. 10, art. 161; 2000, ch. 16, art. 11; 2018, ch. 10, art. 46.
+> 1996, ch. 10, art. 161; 2000, ch. 16, art. 11; 2018, ch. 10, art. 46
 
 
 
@@ -5714,7 +5728,7 @@ où
 **Non-observation du paragraphe (1)**
 
 - **(3)** Si une partie ne se conforme pas au paragraphe (1), la dernière offre de l’autre partie est réputée celle que l’arbitre choisit au titre du paragraphe 165(1).
-> 2000, ch. 16, art. 12.
+> 2000, ch. 16, art. 12
 
 
 
@@ -5741,7 +5755,7 @@ où
 **Soutien**
 
 - **(2)** À la demande de l’arbitre, l’Office lui offre, moyennant remboursement des frais, le soutien administratif, technique et juridique voulu.
-> 1996, ch. 10, art. 162; 2000, ch. 16, art. 13.
+> 1996, ch. 10, art. 162; 2000, ch. 16, art. 13
 
 
 
@@ -5750,7 +5764,7 @@ où
 **Décision portant atteinte à l’arbitrage**
 
 **162.1** S’il rend une décision ou prend un arrêté sur une demande présentée par un transporteur relativement à une affaire soumise à l’Office pour arbitrage avant que l’arbitre en soit saisi et que la décision ou l’arrêté porte atteinte à l’arbitrage, l’Office peut, par arrêté, en plus de tout autre arrêté qu’il peut prendre ou de toute autre décision qu’il peut rendre, mettre fin à l’arbitrage, l’assujettir aux conditions qu’il fixe ou annuler la décision de l’arbitre.
-> 2000, ch. 16, art. 14.
+> 2000, ch. 16, art. 14
 
 
 
@@ -5800,7 +5814,7 @@ où
 - **a)** l’expéditeur et le transporteur disposent de sept jours à compter du renvoi de l’affaire à l’arbitrage pour déposer une réponse à la dernière offre de l’autre partie;
 - **b)** sous réserve de l’alinéa c), l’arbitre rend sa décision sur le fondement des dernières offres et des réponses des parties;
 - **c)** s’il l’estime nécessaire, l’arbitre peut inviter les parties à lui présenter oralement des observations ou à comparaître devant lui pour lui fournir des renseignements.
-> 2000, ch. 16, art. 15; 2018, ch. 10, art. 47.
+> 2000, ch. 16, art. 15; 2018, ch. 10, art. 47
 
 
 
@@ -5828,8 +5842,8 @@ où :
 
 **Publication du montant maximal rajusté**
 
-- **(3)** Il incombe à l’Office de calculer le montant maximal rajusté conformément au paragraphe (1) et de le faire publier dans la Gazette du Canada au plus tard le 31 mars précédant le début de la période triennale durant laquelle le montant maximal rajusté s’appliquera; le montant ainsi publié fait foi du montant maximal pour cette période de trois ans.
-> 2018, ch. 10, art. 48.
+- **(3)** Il incombe à l’Office de calculer le montant maximal rajusté conformément au paragraphe (1) et de le faire publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) au plus tard le 31 mars précédant le début de la période triennale durant laquelle le montant maximal rajusté s’appliquera; le montant ainsi publié fait foi du montant maximal pour cette période de trois ans.
+> 2018, ch. 10, art. 48
 
 
 
@@ -5869,7 +5883,7 @@ où :
 **Paiement**
 
 - **(7)** Les montants exigibles visés à l’alinéa (6)b) sont payables sans délai à qui y a droit.
-> 1996, ch. 10, art. 165; 2000, ch. 16, art. 16; 2018, ch. 10, art. 49.
+> 1996, ch. 10, art. 165; 2000, ch. 16, art. 16; 2018, ch. 10, art. 49
 
 
 
@@ -5917,7 +5931,7 @@ où :
 **Publication de la liste**
 
 - **(3)** L’Office fait porter la liste d’arbitres à la connaissance des représentants des expéditeurs et des transporteurs dans tout le pays.
-> 1996, ch. 10, art. 169; 2000, ch. 16, art. 17..
+> 1996, ch. 10, art. 169; 2000, ch. 16, art. 17.
 
 
 
@@ -5950,7 +5964,7 @@ où :
 **Impossibilité d’agir**
 
 - **(6)** La personne qui agit à titre de médiateur ne peut agir dans le cadre d’autres procédures à l’égard d’aucune question ayant fait l’objet de la médiation.
-> 2008, ch. 5, art. 7.
+> 2008, ch. 5, art. 7
 
 
 
@@ -5984,7 +5998,7 @@ où :
 	- **a)** le délai est de vingt jours pour l’application du paragraphe 161.1(1);
 	- **b)** l’arbitre peut proroger les délais prévus aux paragraphes 163(3) et (4) et à l’alinéa 164.1a) s’il l’estime indiqué;
 	- **c)** la décision de l’arbitre est, par dérogation à l’alinéa 165(2)b), rendue dans les cent vingt jours suivant la date de réception par l’Office de la demande d’arbitrage ou, dans le cas de la demande entendue conformément à l’article 164.1, dans les quatre-vingt-dix jours suivant cette date, sauf accord entre les parties à l’effet contraire.
-> 2008, ch. 5, art. 7.
+> 2008, ch. 5, art. 7
 
 
 
@@ -6015,7 +6029,7 @@ où :
 **Présomption**
 
 - **(6)** Si aucune demande n’est présentée par le transporteur dans le délai prévu au paragraphe (1), les conditions visées au paragraphe 169.2(2) sont réputées remplies.
-> 2008, ch. 5, art. 7.
+> 2008, ch. 5, art. 7
 
 
 
@@ -6060,7 +6074,7 @@ où :
 **Précision**
 
 - **(4)** Il est entendu que l’arbitrage ne peut porter sur les prix relatifs au transport.
-> 2013, ch. 31, art. 11; 2014, ch. 8, art. 8; 2018, ch. 10, art. 50 et 95.
+> 2013, ch. 31, art. 11; 2014, ch. 8, art. 8; 2018, ch. 10, art. 50 et 95
 
 
 
@@ -6080,7 +6094,7 @@ où :
 **Signification**
 
 - **(2)** L’expéditeur signifie un exemplaire de la demande d’arbitrage à la compagnie de chemin de fer le jour où il la soumet à l’Office.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6097,7 +6111,7 @@ où :
 **Contenu de l’avis**
 
 - **(2)** L’avis contient l’énoncé prévu à l’alinéa 169.32(1)a), la description prévue à l’alinéa 169.32(1)b) et, si l’engagement prévu à l’alinéa 169.32(1)c) sera contenu dans la demande d’arbitrage, une description de celui-ci.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6129,7 +6143,7 @@ où :
 **Une seule proposition**
 
 - **(5)** Si une partie ne se conforme pas au paragraphe (1), la proposition de l’autre partie constitue la décision de l’arbitre au titre de l’article 169.37.
-> 2013, ch. 31, art. 11; 2018, ch. 10, art. 51.
+> 2013, ch. 31, art. 11; 2018, ch. 10, art. 51
 
 
 
@@ -6152,7 +6166,7 @@ où :
 **Nature de l’arbitrage**
 
 - **(4)** L’arbitrage ne constitue pas une procédure devant l’Office.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6171,7 +6185,7 @@ où :
 **Questions**
 
 - **(3)** Chaque partie peut poser des questions à l’autre de la manière que l’arbitre estime indiquée dans les circonstances.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6203,7 +6217,7 @@ où :
 **Efficacité**
 
 - **(3)** L’arbitre établit les modalités concernant les sommes visées à l’alinéa 169.31(1)c.1) de façon à encourager l’efficacité du transport des marchandises de l’expéditeur et l’amélioration du rendement du système de chemin de fer et de façon à ce que ces modalités soient équitables tant pour l’expéditeur que pour la compagnie de chemin de fer.
-> 2013, ch. 31, art. 11; 2018, ch. 10, art. 52.
+> 2013, ch. 31, art. 11; 2018, ch. 10, art. 52
 
 
 
@@ -6233,7 +6247,7 @@ où :
 **Copie de la décision**
 
 - **(5)** L’arbitre fournit à l’Office une copie de sa décision.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6256,7 +6270,7 @@ où :
 **Frais liés à l’arbitrage**
 
 - **(4)** Les frais liés à l’arbitrage comprennent également ceux supportés par l’Office lorsque l’un de ses membres ou une personne faisant partie de son personnel agit à titre d’arbitre et qu’il ne fixe pas ses honoraires au titre du paragraphe (1).
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6271,7 +6285,7 @@ où :
 **Divulguation restreinte**
 
 - **(2)** Malgré le paragraphe (1), l’Office peut, dans l’exercice de ses attributions sous le régime de la présente loi, communiquer les renseignements visés par l’avis.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6280,7 +6294,7 @@ où :
 **Abandon des procédures**
 
 **169.41** Dans le cas où, avant la décision de l’arbitre, les parties avisent l’Office ou l’arbitre qu’elles s’accordent pour renoncer à l’arbitrage, les procédures sont abandonnées sur-le-champ.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6299,7 +6313,7 @@ où :
 **Publication de la liste**
 
 - **(3)** L’Office publie la liste sur son site Internet.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
@@ -6322,14 +6336,27 @@ où :
 **Délai pour statuer**
 
 - **(3)** L’Office statue sur la demande présentée en vertu du paragraphe (1) aussi rapidement que possible et en tout état de cause dans les trente-cinq jours suivant sa réception.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11
 
 
 
 
 
 **PARTIE V** 
-## Transport des personnes ayant une déficience
+## Transport des personnes handicapées
+
+
+
+**Définitions**
+
+**169.5** Les définitions qui suivent s’appliquent à l’alinéa 5d.1) et à la présente partie.
+
+***handicap*** Déficience notamment physique, intellectuelle, cognitive, mentale ou sensorielle, trouble d’apprentissage ou de la communication ou limitation fonctionnelle, de nature permanente, temporaire ou épisodique, manifeste ou non et dont l’interaction avec un obstacle nuit à la participation pleine et égale d’une personne dans la société. (*disability*)
+
+***obstacle*** Tout élément — notamment celui qui est de nature physique ou architecturale, qui est relatif à l’information, aux communications, aux comportements ou à la technologie ou qui est le résultat d’une politique ou d’une pratique — qui nuit à la participation pleine et égale dans la société des personnes ayant des déficiences notamment physiques, intellectuelles, cognitives, mentales ou sensorielles, des troubles d’apprentissage ou de la communication ou des limitations fonctionnelles. (*barrier*)
+> 2019, ch. 10, art. 169
+
+
 
 
 
@@ -6337,10 +6364,10 @@ où :
 
 **170** 
 
-- **(1)** L’Office peut prendre des règlements afin d’éliminer tous obstacles abusifs, dans le réseau de transport assujetti à la compétence législative du Parlement, aux possibilités de déplacement des personnes ayant une déficience et peut notamment, à cette occasion, régir :
+- **(1)** L’Office peut, après consultation du ministre, prendre des règlements afin de reconnaître ou d’éliminer les obstacles ou de prévenir de nouveaux obstacles — notamment des obstacles dans les domaines de l’environnement bâti, des technologies de l’information et des communications ainsi que de la conception et de la prestation de programmes et de services —, dans le réseau de transport assujetti à la compétence législative du Parlement, aux possibilités de déplacement des personnes handicapées et peut notamment, à cette occasion, régir :
 	- **a)** la conception et la construction des moyens de transport ainsi que des installations et locaux connexes — y compris les commodités et l’équipement qui s’y trouvent —, leur modification ou la signalisation dans ceux-ci ou leurs environs;
 	- **b)** la formation du personnel des transporteurs ou de celui employé dans ces installations et locaux;
-	- **c)** toute mesure concernant les tarifs, taux, prix, frais et autres conditions de transport applicables au transport et aux services connexes offerts aux personnes ayant une déficience;
+	- **c)** toute mesure concernant les tarifs, taux, prix, frais et autres conditions de transport applicables au transport et aux services connexes offerts aux personnes handicapées;
 	- **d)** la communication d’information à ces personnes.
 
 **Incorporation par renvoi**
@@ -6351,12 +6378,23 @@ où :
 
 - **(3)** L’Office peut, par arrêté pris avec l’agrément du gouverneur en conseil, soustraire à l’application de certaines dispositions des règlements les personnes, les moyens de transport, les installations ou locaux connexes ou les services qui y sont désignés.
 
+**Exemption**
+
+- **(4)** Sur demande et après consultation du ministre, l’Office peut, par arrêté et aux conditions qu’il estime nécessaires :
+	- **a)** soustraire toute personne à l’application de toute disposition des règlements pris en vertu du paragraphe (1) s’il est convaincu que la personne a pris ou prendra des mesures — au moins équivalentes à celles qui doivent être prises au titre de cette disposition — pour éliminer les obstacles ou pour prévenir de nouveaux obstacles;
+	- **b)** soustraire toute catégorie de personnes à l’application de toute disposition des règlements pris en vertu du paragraphe (1) s’il est convaincu que les personnes appartenant à la catégorie ont pris ou prendront des mesures — au moins équivalentes à celles qui doivent être prises au titre de cette disposition — pour éliminer les obstacles ou pour prévenir de nouveaux obstacles.
+L’arrêté cesse d’avoir effet à la date d’expiration de la période de trois ans commençant à la date de sa prise ou, si elle est antérieure, à la date d’expiration de toute période fixée dans celui-ci.
+> 1996, ch. 10, art. 1702019, ch. 10, art. 170
+
+
 
 
 
 **Coordination**
 
-**171** L’Office et la Commission canadienne des droits de la personne sont tenus de veiller à la coordination de leur action en matière de transport des personnes ayant une déficience pour favoriser l’adoption de lignes de conduite complémentaires et éviter les conflits de compétence.
+**171** L’Office et la Commission canadienne des droits de la personne sont tenus de veiller à la coordination de leur action en matière de transport des personnes handicapées pour favoriser l’adoption de lignes de conduite complémentaires et éviter les conflits de compétence.
+> 1996, ch. 10, art. 1712019, ch. 10, art. 171(F)
+
 
 
 
@@ -6365,15 +6403,85 @@ où :
 
 **172** 
 
-- **(1)** Même en l’absence de disposition réglementaire applicable, l’Office peut, sur demande, enquêter sur toute question relative à l’un des domaines visés au paragraphe 170(1) pour déterminer s’il existe un obstacle abusif aux possibilités de déplacement des personnes ayant une déficience.
+- **(1)** Même en l’absence de disposition réglementaire applicable, l’Office peut, sur demande, enquêter sur toute question relative à l’un des domaines visés au paragraphe 170(1) pour déterminer s’il existe un obstacle abusif aux possibilités de déplacement des personnes handicapées.
+
+**Décision positive de l’Office**
+
+- **(2)** En cas de décision positive, l’Office peut exiger :
+	- **a)** la prise de mesures correctives indiquées;
+	- **b)** le versement d’une indemnité destinée à couvrir les frais supportés par une personne handicapée en raison de l’obstacle en cause, notamment les frais occasionnés par le recours à d’autres biens, services ou moyens d’hébergement;
+	- **c)** le versement d’une indemnité pour les pertes de salaire subies par une telle personne en raison de l’obstacle;
+	- **d)** le versement d’une indemnité — dont le montant maximal, rajusté chaque année conformément à l’article 172.2, est de 20 000 $ — pour les souffrances et douleurs subies par une telle personne en raison de l’obstacle;
+	- **e)** le versement d’une indemnité — dont le montant maximal, rajusté chaque année conformément à l’article 172.2, est de 20 000 $ — s’il en vient à la conclusion que l’obstacle résulte d’un acte délibéré ou inconsidéré.
+
+**Conformité aux règlements**
+
+- **(3)** Si l’Office est convaincu de la conformité du service du transporteur avec les dispositions réglementaires applicables, il peut rendre une décision positive mais peut seulement exiger la prise de mesures correctives indiquées.
+> 1996, ch. 10, art. 1722019, ch. 10, art. 172
+
+
+
+
+
+**Enquête — paragraphe 170(1)**
+
+**172.1** 
+
+- **(1)** L’Office peut, sur demande, enquêter sur toute question relative aux règlements pris en vertu du paragraphe 170(1) pour déterminer si le demandeur a subi des préjudices physiques ou psychologiques, des dommages matériels ou des pertes économiques — ou a été autrement lésé — par suite d’une contravention à l’une des dispositions de ces règlements.
 
 **Décision de l’Office**
 
-- **(2)** L’Office rend une décision négative à l’issue de son enquête s’il est convaincu de la conformité du service du transporteur aux dispositions réglementaires applicables en l’occurrence.
+- **(2)** En cas de décision positive à l’issue de l’enquête, l’Office peut exiger :
+	- **a)** la prise de mesures correctives indiquées;
+	- **b)** le versement au demandeur d’une indemnité destinée à couvrir les frais supportés par lui en raison de la contravention en cause, notamment les frais occasionnés par le recours à d’autres biens, services ou moyens d’hébergement;
+	- **c)** le versement au demandeur d’une indemnité pour les pertes de salaire subies par lui en raison de la contravention;
+	- **d)** le versement au demandeur d’une indemnité — dont le montant maximal, rajusté chaque année conformément à l’article 172.2, est de 20 000 $ — pour les souffrances et douleurs subies par lui en raison de la contravention;
+	- **e)** le versement au demandeur d’une indemnité — dont le montant maximal, rajusté chaque année conformément à l’article 172.2, est de 20 000 $ — s’il en vient à la conclusion que la contravention résulte d’un acte délibéré ou inconsidéré.
+> 2019, ch. 10, art. 172
 
-**Décision de l’Office**
 
-- **(3)** En cas de décision positive, l’Office peut exiger la prise de mesures correctives indiquées ou le versement d’une indemnité destinée à couvrir les frais supportés par une personne ayant une déficience en raison de l’obstacle en cause, ou les deux.
+
+
+
+**Rajustement annuel**
+
+**172.2** 
+
+- **(1)** Pour l’application des alinéas 172(2)d) et e) et 172.1(2)d) et e), le montant maximal est rajusté chaque année de telle sorte qu’il devient égal, pour toute année civile subséquente à l’année civile au cours de laquelle le présent article entre en vigueur, au produit des éléments suivants :
+	- **a)** le montant maximal pour cette année civile subséquente si aucun rajustement n’avait été fait à son égard aux termes du présent article;
+	- **b)** le rapport entre l’indice des prix à la consommation pour l’année civile qui précède l’année civile pour laquelle le rajustement est calculé et cet indice des prix en ce qui concerne l’année civile précédant l’année civile précédente.
+
+**Indice des prix à la consommation**
+
+- **(2)** Pour l’application du paragraphe (1), toute mention de l’***indice des prix à la consommation*** s’entend, pour une période de douze mois, de la moyenne des indices des prix à la consommation pour le Canada pour chaque mois de cette période, publiés par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md).
+
+**Publication**
+
+- **(3)** Dès que le montant maximal est rajusté conformément au présent article, l’Office le publie.
+
+**Intérêts**
+
+- **(4)** L’Office peut accorder des intérêts sur l’indemnité visée à l’un des alinéas 172(2)b) et c) et 172.1(2)b) et c) au taux et pour la période qu’il estime indiqués.
+> 2019, ch. 10, art. 172
+
+
+
+
+
+**Enquêtes : transport des personnes handicapées**
+
+**172.3** L’Office peut d’office, sur approbation du ministre et aux conditions que celui-ci estime indiquées, enquêter sur toute question de transport qui relève de la compétence législative du Parlement et qui a trait aux possibilités de déplacement des personnes handicapées.
+> 2019, ch. 10, art. 172
+
+
+
+
+
+**Fonds de participation**
+
+**172.4** L’Office peut créer un programme d’aide financière visant à faciliter la participation de personnes handicapées aux audiences tenues pour les fins des enquêtes tenues au titre des articles 172, 172.1 ou 172.3.
+> 2019, ch. 10, art. 172
+
 
 
 
@@ -6430,7 +6538,7 @@ où :
 **Définition de Tribunal**
 
 **176.1** Pour l’application des articles 180.1 à 180.7, ***Tribunal*** s’entend du Tribunal d’appel des transports du Canada, constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md).
-> 2007, ch. 19, art. 48.
+> 2007, ch. 19, art. 48
 
 
 
@@ -6467,8 +6575,10 @@ où :
 
 - **(2.2)** Toute contravention au paragraphe 155.7(1) ou à l’un des paragraphes 155.84(1) à (3) constitue une violation au titre des articles 179 et 180. Le montant maximal de la sanction applicable à chaque contravention est de 100 000 $.
 
-- **(3)** [Abrogé, 2014, ch. 8, art. 9]
-> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12; 2014, ch. 8, art. 9; 2015, ch. 31, art. 11; 2018, ch. 10, art. 53.
+**Paragraphe 170(1) et [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md)**
+
+- **(3)** Toute contravention à l’une des dispositions des règlements pris en vertu du paragraphe 170(1) ou à l’un des paragraphes 60(1) à (4) et (7), 61(1) à (3) et 62(1) à (3) et (6) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) constitue une violation au titre des articles 179 et 180. Le montant maximal de la sanction applicable à chaque contravention est de 250 000 $.
+> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12; 2014, ch. 8, art. 9; 2015, ch. 31, art. 11; 2018, ch. 10, art. 532019, ch. 10, art. 173
 
 
 
@@ -6478,7 +6588,7 @@ où :
 
 **178** 
 
-- **(1)** L’Office, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1) ou (2.1), ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(2), (2.01) ou (2.2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
+- **(1)** L’Office, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1), (2.1) ou (3), ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(2), (2.01) ou (2.2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
 
 **Attributions des agents**
 
@@ -6490,12 +6600,55 @@ où :
 
 **Pouvoir**
 
-- **(4)** En vue de déterminer si une violation a été commise, l’agent peut exiger la communication, pour examen ou reproduction totale ou partielle, de tout document ou données informatiques qui, à son avis, contient des renseignements utiles à l’application de la présente loi.
+- **(4)** En vue de déterminer si une violation a été commise, l’agent peut exiger la communication, pour examen ou reproduction totale ou partielle, de tout document ou données informatiques qui, à son avis, contient des renseignements utiles à l’application de la présente loi ou de l’un des articles 60 à 62 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md).
 
 **Assistance**
 
-- **(5)** La personne à qui l’agent demande la communication de documents ou données informatiques est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
-> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13; 2014, ch. 8, art. 10; 2015, ch. 31, art. 12 et 38; 2018, ch. 10, art. 54 et 96.
+- **(5)** La personne à qui l’agent demande la communication de documents ou données informatiques est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger quant à l’application de la présente loi ou de l’un des articles 60 à 62 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md).
+> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13; 2014, ch. 8, art. 10; 2015, ch. 31, art. 12 et 38; 2018, ch. 10, art. 54 et 962019, ch. 10, art. 174
+
+
+
+
+
+**Autres pouvoirs : paragraphe 170(1) et [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md)**
+
+**178.1** 
+
+- **(1)** L’agent verbalisateur qui visite un lieu à toute fin liée à la vérification du respect ou à la prévention du non-respect des dispositions des règlements pris en vertu du paragraphe 170(1) ou de l’un des articles 60 à 62 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) peut, à cette fin :
+	- **a)** ouvrir et examiner tout emballage ou autre contenant trouvé dans le lieu;
+	- **b)** examiner toute chose trouvée dans le lieu;
+	- **c)** examiner les registres, rapports, données électroniques et autres documents trouvés dans le lieu et les reproduire en tout ou en partie;
+	- **d)** utiliser ou voir à ce que soit utilisé, pour examen des données électroniques visées à l’alinéa c), tout système informatique se trouvant dans le lieu;
+	- **e)** reproduire ou faire reproduire, notamment sous forme d’imprimé, tout document contenu dans les données électroniques visées à l’alinéa c);
+	- **f)** emporter, pour examen ou reproduction, les registres, rapports et autres documents visés à l’alinéa c), de même que tout document tiré des données électroniques conformément à l’alinéa e);
+	- **g)** utiliser ou voir à ce que soit utilisé, pour reproduction de documents, tout appareil de reproduction se trouvant dans le lieu;
+	- **h)** prendre des photographies, effectuer des enregistrements et faire des croquis;
+	- **i)** ordonner au propriétaire de toute chose visée par les dispositions des règlements pris en vertu du paragraphe 170(1) ou l’un des articles 60 à 62 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) et se trouvant dans le lieu, ou à la personne qui en a la possession, de la déplacer ou, aussi longtemps que nécessaire, de ne pas la déplacer ou d’en limiter le déplacement;
+	- **j)** ordonner au propriétaire de tout moyen de transport se trouvant dans le lieu ou à la personne qui en a la possession, d’arrêter le moyen de transport, de le déplacer ou, aussi longtemps que nécessaire, de ne pas le déplacer ou d’en limiter le déplacement;
+	- **k)** ordonner à quiconque se trouvant dans le lieu d’établir son identité, à la satisfaction de l’agent;
+	- **l)** ordonner à quiconque se trouvant dans le lieu de reprendre l’exercice d’une activité nécessaire à l’inspection ou de cesser celle qui l’entrave.
+
+**Moyens de télécommunication**
+
+- **(2)** Pour l’exercice, à toute fin prévue au paragraphe (1), du pouvoir de visite conféré à l’agent au titre du paragraphe 178(2), est considéré comme une visite d’un lieu le fait d’y accéder à distance par un moyen de télécommunication.
+
+**Limite : lieu non accessible au public**
+
+- **(3)** L’agent qui, par un moyen de télécommunication, accède à distance à un lieu non accessible au public est tenu de veiller à ce que le propriétaire ou le responsable du lieu en ait connaissance et de limiter la durée de sa présence à distance à ce qui est nécessaire à toute fin prévue au paragraphe (1).
+
+**Individus accompagnant l’agent**
+
+- **(4)** L’agent peut être accompagné des individus qu’il estime nécessaires pour l’aider dans l’exercice de ses attributions au titre du présent article.
+
+**Droit de passage sur une propriété privée**
+
+- **(5)** L’agent et tout individu l’accompagnant peuvent, afin d’accéder au lieu visé au paragraphe (1), pénétrer dans une propriété privée — à l’exclusion de toute maison d’habitation — et y circuler. Il est entendu que ces personnes ne peuvent encourir de poursuite à cet égard.
+
+**Assistance**
+
+- **(6)** Le propriétaire ou le responsable du lieu, ainsi que tout individu qui s’y trouve, sont tenus de prêter à l’agent toute l’assistance raisonnable et de lui donner les renseignements qu’il peut valablement exiger.
+> 2019, ch. 10, art. 175
 
 
 
@@ -6505,7 +6658,7 @@ où :
 
 **179** 
 
-- **(1)** Toute contravention à un texte désigné au titre de l’article 177 constitue une violation pour laquelle le contrevenant s’expose à la sanction établie conformément à cet article.
+- **(1)** Toute contravention à un texte désigné au titre de l’article 177 constitue une violation pour laquelle le contrevenant s’expose à la sanction établie conformément à cet article ou, s’agissant d’une contravention à un texte désigné au titre du paragraphe 177(3), soit à la sanction établie conformément à ce paragraphe, soit à un avertissement visé au sous-alinéa 180b)(i).
 
 - **(1.1)** [Abrogé, 2014, ch. 8, art. 11]
 
@@ -6516,7 +6669,7 @@ où :
 **Nature de la violation**
 
 - **(3)** Les violations n’ont pas valeur d’infractions; en conséquence nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 1996, ch. 10, art. 179; 2007, ch. 19, art. 51(F); 2014, ch. 8, art. 11.
+> 1996, ch. 10, art. 179; 2007, ch. 19, art. 51(F); 2014, ch. 8, art. 112019, ch. 10, art. 176
 
 
 
@@ -6524,36 +6677,54 @@ où :
 
 **Verbalisation**
 
-**180** L’agent verbalisateur qui croit qu’une violation a été commise peut dresser un procès-verbal qu’il signifie au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant de la sanction à payer, ainsi que le délai et les modalités de paiement.
-> 1996, ch. 10, art. 180; 2001, ch. 29, art. 52; 2007, ch. 19, art. 52; 2018, ch. 10, art. 55.
+**180** L’agent verbalisateur qui croit qu’une violation a été commise peut dresser un procès-verbal qu’il signifie au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés :
+- **a)** dans le cas d’une contravention autre que celle visée à l’alinéa b), le montant de la sanction à payer;
+- **b)** dans le cas d’une contravention à l’une des dispositions des règlements pris en vertu du paragraphe 170(1) ou à l’un des paragraphes 60(1) à (4) et (7), 61(1) à (3) et 62(1) à (3) et (6) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) :
+	- **(i)** soit un avertissement,
+	- **(ii)** soit le montant de la sanction à payer et le montant inférieur à la sanction imposée prévu au procès-verbal dont le paiement, dans le délai et selon les modalités qui y sont prévus, vaut règlement;
+- **c)** le délai et les modalités de paiement du montant de la sanction, le cas échéant.
+> 1996, ch. 10, art. 180; 2001, ch. 29, art. 52; 2007, ch. 19, art. 52; 2018, ch. 10, art. 552019, ch. 10, art. 177
 
 
 
 
 
-**Option**
+**Options**
 
-**180.1** Le destinataire du procès-verbal doit soit payer la sanction, soit déposer auprès du Tribunal une requête en révision des faits reprochés ou du montant de la sanction.
-> 2007, ch. 19, art. 52.
+**180.1** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3), le destinataire du procès-verbal doit soit payer le montant de la sanction, soit déposer auprès du Tribunal une requête en révision des faits reprochés ou de ce montant.
+
+**Paragraphe 170(1) ou [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) — avertissement**
+
+- **(2)** Le destinataire d’un procès-verbal comportant un avertissement peut déposer auprès de l’Office une requête en révision des faits reprochés.
+
+**Paragraphe 170(1) ou [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) — sanction**
+
+- **(3)** Le destinataire d’un procès-verbal prévoyant le montant d’une sanction relativement à la violation prévue au paragraphe 177(3) doit :
+	- **a)** soit payer ce montant ou le montant inférieur qui est prévu au procès-verbal;
+	- **b)** soit déposer auprès du Tribunal une requête en révision des faits reprochés ou du montant de la sanction;
+	- **c)** soit demander, dans le délai et selon les modalités qui y sont prévus, à l’Office de conclure une transaction en vue de la bonne observation de la disposition des règlements ou de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) qui fait l’objet de la violation.
+> 2007, ch. 19, art. 522019, ch. 10, art. 177
 
 
 
 
 
-**Paiement de la sanction**
+**Paiement du montant prévu**
 
-**180.2** Lorsque le destinataire du procès-verbal paie la somme requise dans les délais et selon les modalités qui y sont prévues, le ministre accepte ce paiement en règlement de la sanction imposée; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre l’intéressé pour la même contravention.
-> 2007, ch. 19, art. 52.
-
-
+**180.2** Si le destinataire d’un procès-verbal prévoyant le montant d’une sanction paie ce montant — ou, si le destinataire est assujetti au paragraphe 180.1(3), le montant inférieur qui est prévu au procès-verbal —, dans le délai et selon les modalités qui y sont prévues, le ministre accepte ce paiement en règlement de la sanction imposée; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre l’intéressé pour la même contravention.
+> 2007, ch. 19, art. 522019, ch. 10, art. 177
 
 
 
-**Requête en révision**
+
+
+**Requête en révision — sanction**
 
 **180.3** 
 
-- **(1)** Le destinataire du procès-verbal qui veut faire réviser la décision du ministre à l’égard des faits reprochés ou du montant de la sanction dépose une requête auprès du Tribunal à l’adresse indiquée dans le procès-verbal, au plus tard à la date limite qui y est indiquée, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+- **(1)** Le destinataire d’un procès-verbal prévoyant le montant d’une sanction qui veut faire réviser les faits reprochés ou le montant de la sanction dépose une requête auprès du Tribunal à l’adresse indiquée au procès-verbal, au plus tard à la date limite qui y est indiquée, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
 
 **Audience**
 
@@ -6570,17 +6741,12 @@ où :
 **Intéressé non tenu de témoigner**
 
 - **(5)** L’intéressé n’est pas tenu de témoigner à l’audience.
-> 2007, ch. 19, art. 52.
+> 2007, ch. 19, art. 522019, ch. 10, art. 178
 
 
 
 
-
-**Omission de payer la sanction ou de présenter une requête**
-
-**180.4** L’omission, par l’intéressé, de payer la pénalité dans les délais et selon les modalités prévus dans le procès-verbal et de présenter une requête en révision vaut déclaration de responsabilité à l’égard de la contravention. Sur demande, le ministre peut alors obtenir du Tribunal un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
-> 2007, ch. 19, art. 52.
-
+**180.4** [Abrogé, 2019, ch. 10, art. 179]
 
 
 
@@ -6590,7 +6756,7 @@ où :
 **180.5** Après audition des parties, le membre du Tribunal informe sans délai l’intéressé et le ministre de sa décision. S’il décide :
 - **a)** qu’il n’y a pas eu contravention, sous réserve de l’article 180.6, nulle autre poursuite ne peut être intentée à cet égard sous le régime de la présente partie;
 - **b)** qu’il y a eu contravention, il les informe également de la somme qu’il fixe et qui doit être payée au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
-> 2007, ch. 19, art. 52; 2018, ch. 10, art. 56.
+> 2007, ch. 19, art. 52; 2018, ch. 10, art. 56
 
 
 
@@ -6613,7 +6779,115 @@ où :
 **Avis**
 
 - **(4)** S’il statue qu’il y a eu contravention, le comité en informe sans délai l’intéressé. Il l’informe également de la somme qu’il fixe et qui doit être payée au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
-> 2007, ch. 19, art. 52; 2018, ch. 10, art. 57.
+> 2007, ch. 19, art. 52; 2018, ch. 10, art. 57
+
+
+
+
+
+**Requête en révision — avertissement**
+
+**180.61** 
+
+- **(1)** Le destinataire d’un procès-verbal comportant un avertissement qui veut faire réviser les faits reprochés dépose une requête en révision des faits reprochés auprès de l’Office à l’adresse indiquée au procès-verbal, au plus tard à la date limite qui y est indiquée, ou dans le délai supérieur éventuellement accordé à sa demande par l’Office.
+
+**Charge de la preuve**
+
+- **(2)** Il incombe à l’agent verbalisateur d’établir que l’intéressé a contrevenu à la disposition des règlements ou de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) visée par le procès-verbal.
+
+**Décision de l’Office**
+
+- **(3)** À l’issue de la révision, l’Office informe sans délai l’intéressé et l’agent verbalisateur de sa décision. S’il décide qu’il n’y a pas eu contravention, aucune autre poursuite ne peut être intentée à cet égard au titre de la présente partie contre l’intéressé.
+
+**Présomption**
+
+- **(4)** L’omission, par le destinataire, de présenter une requête en révision vaut déclaration de responsabilité à l’égard de la contravention.
+> 2019, ch. 10, art. 180
+
+
+
+
+
+**Conclusion d’une transaction**
+
+**180.62** 
+
+- **(1)** Sur demande du destinataire présentée au titre de l’alinéa 180.1(3)c), l’Office peut conclure une transaction qui, d’une part, est subordonnée aux conditions qu’il estime indiquées, notamment au dépôt d’une sûreté raisonnable — dont le montant et la nature doivent lui agréer — en garantie de l’exécution de la transaction, et, d’autre part, peut prévoir la réduction partielle ou totale du montant de la sanction.
+
+**Présomption**
+
+- **(2)** La conclusion de la transaction vaut déclaration de responsabilité à l’égard de la contravention.
+
+**Avis d’exécution**
+
+- **(3)** S’il est convaincu que le destinataire a exécuté la transaction, l’Office en avise celui-ci. Sur notification de l’avis :
+	- **a)** aucune poursuite ne peut être intentée au titre de la présente partie contre le destinataire pour la même contravention;
+	- **b)** la sûreté est remise à ce dernier.
+
+**Avis de défaut d’exécution**
+
+- **(4)** S’il estime la transaction inexécutée, l’Office fait signifier au destinataire un avis de défaut qui l’informe soit qu’il est tenu, dans le délai et selon les modalités qui y sont prévus, de payer, au lieu du montant de la sanction imposée initialement et sans qu’il soit tenu compte du plafond fixé au paragraphe 177(3), un montant correspondant au double de ce montant, soit qu’il y aura confiscation de la sûreté au profit de Sa Majesté du chef du Canada.
+
+**Effet de l’inexécution**
+
+- **(5)** Sur signification de l’avis de défaut :
+	- **a)** s’agissant d’un avis informant le destinataire qu’il est tenu de payer le montant qui y est prévu, ce dernier perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction et il est tenu de payer ce montant dans le délai et selon les modalités prévus dans l’avis;
+	- **b)** s’agissant d’un avis l’informant qu’il y aura confiscation de la sûreté, cette confiscation s’opère au profit de Sa Majesté du chef du Canada et aucune poursuite ne peut être intentée au titre de la présente partie contre le destinataire pour la même contravention.
+
+**Paiement**
+
+- **(6)** Si le destinataire paie le montant prévu dans l’avis dans le délai et selon les modalités qui y sont prévus, l’Office accepte ce paiement en règlement de la somme due; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre le destinataire pour la même contravention.
+
+**Délégation**
+
+- **(7)** L’Office peut, dans les limites qu’il fixe, déléguer à toute personne le pouvoir que lui confère le paragraphe (1).
+
+**Certificat**
+
+- **(8)** Chaque personne à qui le pouvoir visé au paragraphe (7) est délégué reçoit un certificat, en la forme établie par l’Office, attestant sa qualité.
+> 2019, ch. 10, art. 180
+
+
+
+
+
+**Refus de transiger**
+
+**180.63** 
+
+- **(1)** Si l’Office refuse de transiger à la suite d’une demande présentée au titre de l’alinéa 180.1(3)c), le destinataire est tenu, selon les modalités prévues au procès-verbal et dans le délai qui y est prévu ou le délai supérieur précisé par l’Office, de payer le montant de la sanction imposée initialement.
+
+**Paiement**
+
+- **(2)** Si le destinataire paie le montant visé au paragraphe (1), l’Office accepte ce paiement en règlement de la sanction imposée et celui-ci vaut déclaration de responsabilité à l’égard de la contravention; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre le destinataire pour la même contravention.
+
+**Présomption**
+
+- **(3)** Le défaut de paiement par le destinataire dans le délai et selon les modalités prévus au paragraphe (1) vaut déclaration de responsabilité à l’égard de la contravention.
+> 2019, ch. 10, art. 180
+
+
+
+
+
+**Certificat**
+
+**180.64** 
+
+- **(1)** L’omission, par le destinataire assujetti au paragraphe 180.1(1), de payer le montant de la sanction prévu au procès-verbal, dans le délai et selon les modalités qui y sont prévus, et de déposer une requête en révision vaut déclaration de responsabilité à l’égard de la contravention. Le ministre peut alors obtenir du Tribunal un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrit ce montant.
+
+**Paragraphe 170(1) ou la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md)**
+
+- **(2)** L’omission, par le destinataire assujetti au paragraphe 180.1(3), de payer le montant de la sanction prévu au procès-verbal ou tout montant inférieur qui y est prévu, dans le délai et selon les modalités qui y sont prévus, de déposer une requête en révision et de présenter une demande en vue de la conclusion d’une transaction vaut déclaration de responsabilité à l’égard de la contravention. L’Office peut alors obtenir du Tribunal un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrit le montant de la sanction prévu au procès-verbal.
+
+**Avis de défaut d’exécution**
+
+- **(3)** Si le destinataire de l’avis de défaut visé au paragraphe 180.62(4) omet de payer le montant qui est prévu dans l’avis dans le délai et selon les modalités qui y sont prévus, l’Office peut obtenir du Tribunal un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrit ce montant.
+
+**Refus de transiger**
+
+- **(4)** Si l’Office refuse de transiger avec le destinataire qui a présenté une demande au titre de l’alinéa 180.1(3)c) et que ce dernier omet de payer le montant de la sanction imposée initialement dans le délai et selon les modalités prévus au paragraphe 180.63(1), l’Office peut obtenir du Tribunal un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrit ce montant.
+> 2019, ch. 10, art. 180
 
 
 
@@ -6623,7 +6897,7 @@ où :
 
 **180.7** 
 
-- **(1)** Sur présentation à la juridiction supérieure, une fois le délai d’appel expiré, la décision sur l’appel rendue ou le délai pour payer la sanction ou déposer une requête en révision expiré, selon le cas, le certificat visé à l’article 180.4, à l’alinéa 180.5b) ou au paragraphe 180.6(4) est enregistré. Dès lors, il devient exécutoire et toute procédure d’exécution peut être engagée, le certificat étant assimilé à un jugement de cette juridiction obtenu par Sa Majesté du chef du Canada contre la personne désignée dans le certificat pour une dette dont le montant y est indiqué.
+- **(1)** Sur présentation à la juridiction supérieure, une fois que le délai pour payer le montant de la sanction prévu au procès-verbal ou le montant prévu dans l’avis de défaut est expiré, le délai pour payer le montant de la sanction au titre du paragraphe 180.63(1) est expiré, le délai pour déposer une requête en révision est expiré, le délai d’appel est expiré ou la décision sur l’appel est rendue, selon le cas, le certificat visé à l’alinéa 180.5b), au paragraphe 180.6(4) ou à l’article 180.64 est enregistré. Dès lors, il devient exécutoire et toute procédure d’exécution peut être engagée, le certificat étant assimilé à un jugement de cette juridiction obtenu par Sa Majesté du chef du Canada contre la personne désignée dans le certificat pour une dette dont le montant y est indiqué.
 
 **Recouvrement des frais**
 
@@ -6632,7 +6906,7 @@ où :
 **Fonds publics**
 
 - **(3)** Les sommes reçues par le ministre ou le Tribunal au titre du présent article sont assimilées à des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 2007, ch. 19, art. 52.
+> 2007, ch. 19, art. 522019, ch. 10, art. 181
 
 
 
@@ -6642,12 +6916,12 @@ où :
 
 **180.8** 
 
-- **(1)** S’il s’agit d’une contravention à un texte désigné au titre du paragraphe 177(1), la mention du ministre aux articles 180.3 à 180.7 vaut mention de l’Office ou de la personne que l’Office peut désigner.
+- **(1)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(1) ou (3), la mention du ministre aux articles 180.3 à 180.7 vaut mention de l’Office ou de la personne que l’Office peut désigner.
 
 **Délégation ministérielle**
 
 - **(2)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(2), (2.01) ou (2.2), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
-> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14; 2014, ch. 8, art. 12; 2015, ch. 31, art. 13 et 38; 2018, ch. 10, art. 58 et 96.
+> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14; 2014, ch. 8, art. 12; 2015, ch. 31, art. 13 et 38; 2018, ch. 10, art. 58 et 962019, ch. 10, art. 182
 
 
 
@@ -6656,6 +6930,44 @@ où :
 **Prescription**
 
 **181** Les poursuites pour violation se prescrivent par douze mois à compter du fait générateur de l’action.
+
+
+
+
+**Publication**
+
+**181.1** L’Office peut publier des renseignements concernant toute contravention à un texte désigné au titre de l’article 177, et ce, afin d’encourager le respect de la présente loi et des articles 60 à 62 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md).
+> 2019, ch. 10, art. 183
+
+
+
+
+
+### Arrêtés de communication
+
+
+
+**Pouvoir d’ordonner la communication de documents**
+
+**181.2** 
+
+- **(1)** L’Office peut, par arrêté, à toute fin liée à la vérification du respect ou à la prévention du non-respect des dispositions des règlements pris en vertu du paragraphe 170(1) — ou de l’un des articles 60 à 62 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) — ordonner à toute personne tenue de se conformer à toute disposition de ces règlements, aux fins d’examen ou de reproduction, de lui communiquer, selon les modalités qu’il précise, les registres, rapports, données électroniques ou autres documents dont il a des motifs raisonnables de croire qu’ils contiennent des renseignements utiles à cette fin.
+
+**Données**
+
+- **(2)** L’Office peut :
+	- **a)** reproduire, en tout ou en partie, un registre, un rapport, des données électroniques ou tout autre document communiqué au titre du paragraphe (1);
+	- **b)** reproduire ou faire reproduire, notamment sous forme d’imprimé, tout document contenu dans ces données.
+
+**Délégation**
+
+- **(3)** L’Office peut, dans les limites qu’il fixe, déléguer à toute personne les pouvoirs que lui confèrent les paragraphes (1) et (2).
+
+**Certificat**
+
+- **(4)** Chaque personne à qui le pouvoir visé au paragraphe (3) est délégué reçoit un certificat, en la forme établie par l’Office, attestant sa qualité.
+> 2019, ch. 10, art. 183
+
 
 
 
@@ -6674,7 +6986,7 @@ où :
 
 
 **
-> Abrogation de L.R., ch. R-3.
+> Abrogation de L.R., ch. R-3
 **
 
 **185** 
@@ -6730,7 +7042,7 @@ où :
 
 **Définition de fonctionnaire**
 
-- **(2)** Pour l’application du présent article, ***fonctionnaire*** s’entend au sens du paragraphe 2(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **(2)** Pour l’application du présent article, ***fonctionnaire*** s’entend au sens du paragraphe 2(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 
 
@@ -7340,9 +7652,9 @@ où :
 </tr>
 </table>
 
-> 1996, c. 10, Sch. I; 2000, c. 16, s. 18.
+> 1996, c. 10, Sch. I; 2000, c. 16, s. 18
 
-> 1996, ch. 10, ann. I; 2000, ch. 16, art. 18.
+> 1996, ch. 10, ann. I; 2000, ch. 16, art. 18
 
 
 
@@ -7536,7 +7848,7 @@ Tourteau de tournesol
 Triticale
 
 
-> 1996, ch. 10, ann. II; 2018, ch. 10, art. 59.1.
+> 1996, ch. 10, ann. II; 2018, ch. 10, art. 59.1
 
 
 
@@ -7547,7 +7859,7 @@ Triticale
 1005, 1008, 1016, 1017, 1023, 1026, 1040, 1045, 1048, 1050, 1051, 1052, 1053, 1062, 1064, 1067, 1069, 1071, 1076, 1079, 1082, 1092, 1098, 1135, 1143, 1163, 1182, 1185, 1238, 1239, 1244, 1251, 1259, 1380, 1510, 1541, 1560, 1569, 1580, 1581, 1582, 1583, 1589, 1595, 1605, 1612, 1613, 1614, 1647, 1660, 1670, 1672, 1695, 1722, 1741, 1744, 1745, 1746, 1749, 1752, 1754, 1809, 1810, 1828, 1829, 1831, 1834, 1838, 1859, 1892, 1911, 1953, 1955, 1967, 1975, 1994, 2032, 2186, 2188, 2189, 2190, 2191, 2192, 2194, 2195, 2196, 2197, 2198, 2199, 2202, 2204, 2232, 2285, 2334, 2337, 2382, 2407, 2417, 2418, 2420, 2421, 2438, 2442, 2474, 2477, 2478, 2480, 2481, 2482, 2483, 2484, 2485, 2486, 2487, 2488, 2521, 2534, 2548, 2605, 2606, 2644, 2646, 2668, 2676, 2692, 2740, 2742, 2743, 2826, 2901, 2983, 3023, 3057, 3079, 3083, 3160, 3162, 3168, 3169, 3246, 3275, 3276, 3278, 3279, 3280, 3281, 3294, 3300, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310, 3318, 3355, 3381, 3382, 3383, 3384, 3385, 3386, 3387, 3388, 3389, 3390, 3488, 3489, 3490, 3491, 3512, 3514, 3515, 3516, 3517, 3518, 3519, 3520, 3521, 3522, 3523, 3524, 3525, 3526
 
 
-> 1996, ch. 10, ann. III; 2000, ch. 16, art. 19; 2015, ch. 31, art. 14.
+> 1996, ch. 10, ann. III; 2000, ch. 16, art. 19; 2015, ch. 31, art. 14
 
 
 
@@ -7588,6 +7900,339 @@ Triticale
 </tr>
 </table>
 
-> 1996, ch. 10, ann. IV; 2000, ch. 16, art. 19; 2015, ch. 31, art. 14 à 16.
+> 1996, ch. 10, ann. IV; 2000, ch. 16, art. 19; 2015, ch. 31, art. 14 à 16
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2007, ch. 19, art. 55
+
+
+**Accords conclus avant l’entrée en vigueur de l’article 44**
+
+**55** 
+
+- **(1)** L’article 152.1 de la Loi sur les transports au Canada, édicté par l’article 44 de la présente loi, ne s’applique pas aux accords conclus avant l’entrée en vigueur de cet article 44.
+
+**Exception**
+
+- **(2)** Dans le cadre de tout accord qu’elle a conclu avec une compagnie de chemin de fer avant l’entrée en vigueur de l’article 44 de la présente loi, VIA Rail Canada Inc. peut, malgré le paragraphe (1), demander à l’Office des transports du Canada de régler toute question concernant la priorité des trains exploités par les parties à l’accord. Pour rendre sa décision, ce dernier tient compte de l’intérêt public et des besoins d’exploitation des parties, l’article 152.2 de la Loi sur les transports au Canada, édicté par l’article 44 de la présente loi, s’appliquant, avec les adaptations nécessaires, à toute somme éventuelle à payer par VIA Rail Canada Inc. Les dispositions de la décision l’emportent sur les dispositions incompatibles de l’accord.
+
+
+
+######           — 2007, ch. 19, art. 56
+
+
+**Membres en fonctions**
+
+**56** 
+
+- **(1)** Malgré les articles 3 à 5 de la présente loi, les membres de l’Office des transports du Canada — dont le président et le vice-président — en fonctions à l’entrée en vigueur de ces articles continuent d’exercer leur charge, en conformité avec les conditions de leur nomination, jusqu’à l’expiration de leur mandat.
+
+**Nouvelles nominations**
+
+- **(2)** Malgré l’article 3 de la présente loi, aucune nomination ne peut être faite en vertu du paragraphe 7(2) de la Loi sur les transports au Canada et aucun mandat ne peut être renouvelé en vertu du paragraphe 8(2) de cette loi avant que le nombre de membres en fonctions — autres que le président et le vice-président — ne soit inférieur à trois.
+
+**Président et vice-président**
+
+- **(3)** Malgré le paragraphe (2) et l’article 3 de la présente loi, le gouverneur en conseil peut nommer des membres choisis par lui en vertu du paragraphe 7(3) de la Loi sur les transports au Canada — ou renouveler leur mandat —, pour exercer la charge de président et de vice-président de l’Office des transports du Canada.
+
+
+
+######           — 2007, ch. 19, art. 57
+
+
+**Ajustement de l’indice des prix composite afférent au volume**
+
+**57** Malgré le paragraphe 151(5) de la Loi sur les transports au Canada, l’Office des transports du Canada effectue une seule fois, à la demande du ministre des Transports et à la date fixée par l’Office, l’ajustement de l’indice des prix composite afférent au volume pour tenir compte des coûts supportés par les compagnies de chemin de fer régies, au sens de l’article 147 de cette loi, pour l’entretien des wagons-trémies servant au mouvement du grain, au sens de cet article 147.
+
+
+
+######           — 2007, ch. 19, art. 58
+
+
+**Agents de police nommés en vertu de l’article 158 de la Loi sur les transports au Canada**
+
+**58** Les agents de police nommés en vertu de l’article 158 de la Loi sur les transports au Canada qui sont en fonctions à l’entrée en vigueur de l’article 54 de la présente loi sont réputés avoir été nommés en vertu de l’article 44 de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md), édicté par cet article 54.
+
+
+
+######           — 2012, ch. 7, art. 41
+
+
+**Accords prorogés**
+
+**41** Les accords conclus ou les désignations faites en vertu de l’article 157.1 de la Loi sur les transports au Canada relativement aux questions visées à l’article 6.1 de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md), édicté par l’article 6, sont prorogés jusqu’à ce qu’ils soient remplacés par un accord conclu ou fait en vertu de cet article 6.1.
+
+
+
+######           — 2012, ch. 7, art. 42
+
+
+**Accords prorogés**
+
+**42** Les accords conclus en vertu de l’article 158 de la Loi sur les transports au Canada relativement aux questions visées à l’article 6.2 de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md), édicté par l’article 6, sont prorogés jusqu’à ce qu’ils soient remplacés par un accord conclu en vertu de cet article 6.2.
+
+
+
+######           — 2015, ch. 31, art. 36
+
+
+**Certificats d’aptitude**
+
+**36** Le certificat d’aptitude qui a été délivré au titre du paragraphe 92(1) de la Loi sur les transports au Canada, dans sa version antérieure à la date d’entrée en vigueur de l’article 6, et qui est en cours de validité à cette date est réputé, à compter de celle-ci et jusqu’à la date de son annulation :
+- **a)** avoir été délivré au titre de l’alinéa 92(1)a) de cette loi, dans sa version édictée par cet article, en ce qui concerne l’exploitation de chemin de fer visant un service ferroviaire de passagers ou la construction de chemin de fer à l’égard desquelles il a été délivré;
+- **b)** avoir été délivré au titre de l’alinéa 92(1)b) de cette loi, dans sa version édictée par cet article, en ce qui concerne l’exploitation de chemin de fer ne visant pas un service ferroviaire de passagers à l’égard de laquelle il a été délivré.
+
+
+
+######           — 2015, ch. 31, art. 37
+
+
+**Règlements**
+
+**37** À la date d’entrée en vigueur de l’article 6, les alinéas 3b) et c) et 4b) du [Règlement sur l’assurance responsabilité civile relative aux chemins de fer](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/337.md) continuent de s’appliquer — et ce jusqu’à ce que des règlements soient pris en vertu de l’alinéa 92(3)b) de la Loi sur les transports au Canada — à un projet d’exploitation de chemin de fer visé à cet alinéa 92(3)b) pour permettre à l’Office des transports du Canada de déterminer, pour l’application de l’alinéa 92(1)b) de cette loi, si le projet bénéficiera — notamment au moyen de l’autoassurance — du niveau minimal d’assurance responsabilité applicable prévu à l’annexe IV de cette loi.
+
+
+
+######           — 2018, ch. 10, art. 75
+
+
+**Définition de Loi**
+
+**75** 
+
+- **(1)** Au présent article et aux articles 76 à 81, ***Loi*** s’entend de la Loi sur les transports au Canada.
+
+**Terminologie**
+
+- **(2)** Sauf indication contraire du contexte, les termes des articles 76 à 81 s’entendent au sens de la Loi.
+
+
+
+######           — 2018, ch. 10, art. 76
+
+
+**Renseignements — prix de l’interconnexion de longue distance**
+
+**76** 
+
+- **(1)** Le présent article s’applique jusqu’à l’entrée en vigueur du premier règlement pris en vertu de l’alinéa 50(1.01)a) de la Loi.
+
+**Renseignements à fournir**
+
+- **(2)** Le transporteur ferroviaire de catégorie 1 fournit au ministre, en la forme et de la manière que celui-ci peut préciser, un rapport comportant les éléments ci-après relativement à tout transport de marchandises effectué par wagon :
+	- **a)** le nom de l’expéditeur;
+	- **b)** le nom du propriétaire du wagon;
+	- **c)** les lettres et le numéro qui identifient le wagon;
+	- **d)** une indication à savoir si le wagon fait partie d’une rame de wagons bénéficiant d’une prime et, si c’est le cas, le nombre de wagons qui sont transportés ensemble dans la rame pour laquelle la prime est consentie;
+	- **e)** une indication à savoir si les marchandises lui sont transférées, selon l’origine ferroviaire, d’un camion ou d’un bâtiment, au sens de l’article 2 de la Loi de 2001 sur la marine marchande du Canada, et si elles sont transférées, selon la destination ferroviaire, à un camion ou à un bâtiment;
+	- **f)** la date et l’heure auxquelles le transport du wagon commence et se termine;
+	- **g)** le code d’emplacement géographique de l’emplacement où le transport du wagon commence et celui de l’emplacement où il se termine, le code alphanumérique correspondant à la province ou à l’État où le transport commence et celui correspondant à la province ou à l’État où il se termine et, s’il y a lieu, le code d’emplacement géographique du point de raccordement où le wagon est transféré à un autre transporteur ferroviaire ou lui est transféré par un autre transporteur ferroviaire, le code d’identification de cet autre transporteur et celui du transporteur ferroviaire d’origine ou de destination du transport;
+	- **h)** le code unifié des marchandises, le code de type d’équipement utilisé, l’indicateur de trafic intermodal, le nombre d’unités intermodales transportées par le wagon, le nombre de tonnes de marchandises et, si le wagon franchit la frontière canado-américaine, le code alphanumérique correspondant aux mouvements d’importation ou d’exportation et le code d’identification du point de passage transfrontalier;
+	- **i)** si le wagon transporte des marchandises dangereuses, le numéro ONU attribué aux marchandises par le Comité d’experts des Nations Unies sur le transport des marchandises dangereuses ou le code de marchandises dangereuses attribué aux marchandises par l’organisme appelé *Association of American Railroads, Bureau of Explosives*;
+	- **j)** une indication à savoir si le prix du transport figure dans un tarif ou un contrat confidentiel et, s’il figure dans un tarif, le numéro de ce tarif;
+	- **k)** une indication à savoir si le prix du transport est établi par un arrêté d’interconnexion de longue distance;
+	- **l)** une indication à savoir si l’expéditeur a pris un engagement relatif au volume du transport envers le transporteur ferroviaire de catégorie 1 et, le cas échéant, le volume prévu dans l’engagement;
+	- **m)** les recettes brutes des feuilles de route réalisées pour le wagon et le nombre de milles à l’égard desquels ces recettes ont été réalisées;
+	- **n)** la part des recettes brutes des feuilles de route réalisées pour le wagon par le transporteur ferroviaire de catégorie 1 et le nombre de milles à l’égard desquels cette part des recettes a été réalisée;
+	- **o)** la part des recettes brutes des feuilles de route réalisées par le wagon — calculée sans tenir compte de la valeur des frais, des primes, des rabais et des sommes payées par le transporteur ferroviaire de catégorie 1 à un autre transporteur ferroviaire — qu’a reçue le transporteur ferroviaire de catégorie 1 pour la portion du transport effectuée au Canada et le nombre de milles à l’égard desquels cette part des recettes a été réalisée;
+	- **p)** la valeur des frais, des primes, des rabais et des sommes payées par le transporteur ferroviaire de catégorie 1 à un autre transporteur ferroviaire visés à l’alinéa o);
+	- **q)** une indication à savoir si le wagon est utilisé pour le mouvement du grain au sens de l’article 147 de la Loi;
+	- **r)** le type de train dont le wagon fait partie;
+	- **s)** le code alphanumérique de chacun des trains dont le wagon fait partie;
+	- **t)** à l’égard de chacun des trains dont le wagon fait partie, le code d’emplacement géographique de l’emplacement ainsi que les date et heure où le transport du wagon commence, le code d’emplacement géographique de l’emplacement ainsi que les date et heure où ce transport se termine et la distance parcourue par le wagon.
+
+**Délai**
+
+- **(3)** Le transporteur ferroviaire de catégorie 1 fournit les renseignements sur une base mensuelle au plus tard le dernier jour du mois qui suit le mois sur lequel les renseignements portent.
+
+**Premier rapport**
+
+- **(4)** Au plus tard le dernier jour du mois qui suit le mois de l’entrée en vigueur du présent article, le transporteur ferroviaire de catégorie 1 fournit au ministre le rapport visé au paragraphe (2) pour chacun des mois compris dans la période commençant le 1<sup>er</sup> août 2016 et se terminant le dernier jour du mois de l’entrée en vigueur du présent article.
+
+**Fiction**
+
+- **(5)** Les renseignements fournis au ministre en application du paragraphe (2) sont réputés exigés au titre des règlements pris en vertu de l’alinéa 50(1.01)a) de la Loi.
+
+
+
+######           — 2018, ch. 10, art. 77
+
+
+**Renseignements — indicateurs de service et de rendement**
+
+**77** 
+
+- **(1)** Le présent article s’applique jusqu’à l’entrée en vigueur du premier règlement pris en vertu de l’alinéa 50(1.01)b) de la Loi.
+
+**Renseignements à fournir**
+
+- **(2)** Le transporteur ferroviaire de catégorie 1 fournit au ministre, en la forme et de la manière que celui-ci peut préciser, un rapport comportant les renseignements visés aux sous-alinéas 1250.2(a)(1) à (8) du titre 49 du Code of Federal Regulations des États-Unis, avec ses modifications successives.
+
+**Adaptations**
+
+- **(3)** Pour l’application du paragraphe (2), les dispositions visées font l’objet des adaptations suivantes :
+	- **a)** la mention « *should* » vaut mention de « *must* »;
+	- **b)** la mention « *railroad* » vaut mention de « *class 1 rail carrier* », sauf indication contraire du contexte;
+	- **c)** la mention « *state* » vaut mention de « province »;
+	- **d)** la mention « *dedicated train service* » vaut mention de « *dedicated train program and fleet integration program* »;
+	- **e)** il n’est pas tenu compte du passage suivant du sous-alinéa 1250.2(a)(7) : « *aggregated for the following STCCs : 01131 (barley), 01132 (corn), 01133 (oats), 01135 (rye), 01136 (sorghum grains), 01137 (wheat), 01139 (grain, not elsewhere classified), 01144 (soybeans), 01341 (beans, dry), 01342 (peas, dry), and 01343 (cowpeas, lentils, or lupines)* ».
+
+**Explication**
+
+- **(4)** Le transporteur ferroviaire de catégorie 1 explique, dans le premier rapport qu’il fournit, la méthode utilisée pour obtenir les données contenues dans le rapport. L’explication comporte notamment la définition de train-bloc utilisée pour faire rapport, laquelle doit être fondée sur les pratiques habituelles du transporteur. Si cette méthode change, notamment en ce qui concerne la définition de train-bloc, le transporteur explique la nouvelle méthode dans le premier rapport pour lequel elle est utilisée.
+
+**Délai**
+
+- **(5)** Le transporteur ferroviaire de catégorie 1 fournit le rapport, pour chaque période de sept jours commençant le samedi et se terminant le vendredi, au plus tard cinq jours après le vendredi visé par le rapport.
+
+**Premier rapport**
+
+- **(6)** Le premier rapport vise la période de sept jours commençant le samedi qui suit le jour de l’entrée en vigueur du présent article.
+
+**Fiction**
+
+- **(7)** Les renseignements fournis au ministre en application du paragraphe (2) sont réputés être des renseignements exigés au titre des règlements pris en vertu de l’alinéa 50(1.01)b) de la Loi.
+
+
+
+######           — 2018, ch. 10, art. 78
+
+
+**Ententes conclues avant l’entrée en vigueur de l’article 14**
+
+**78** Les personnes qui ont conclu une entente, au sens de l’article 53.7 de la Loi, avant l’entrée en vigueur de l’article 14, peuvent tout de même donner un avis de l’entente au titre du paragraphe 53.71(1) de cette loi comme si cette entente n’avait pas encore été conclue, auquel cas l’article 53.72 de cette loi ne s’y applique pas.
+
+
+
+######           — 2018, ch. 10, art. 79
+
+
+**Prix par wagon pour l’interconnexion**
+
+**79** 
+
+- **(1)** Jusqu’au 31 décembre de l’année où l’Office exerce pour la première fois le pouvoir prévu au paragraphe 127.1(1) de la Loi, le prix par wagon fixé en vertu de l’alinéa 128(1)b) de la Loi, dans sa version antérieure à la date d’entrée en vigueur du paragraphe 28(1), demeure applicable et ce prix est réputé avoir été fixé en application de l’article 127.1 de la Loi.
+
+**Premier exercice du pouvoir**
+
+- **(2)** Si l’article 127.1 de la Loi entre en vigueur après le 1<sup>er</sup> août d’une année civile, l’Office n’est pas tenu d’exercer le pouvoir prévu au paragraphe 127.1(1) de la Loi avant le 1<sup>er</sup> décembre de l’année civile suivante.
+
+
+
+######           — 2018, ch. 10, art. 80
+
+
+**Indice des prix composite afférent au volume**
+
+**80** 
+
+- **(1)** Pour la campagne agricole en cours à la sanction de la présente loi, l’élément F de la formule figurant au paragraphe 151(1) de la Loi applicable à chaque compagnie de chemin de fer régie est l’indice des prix composite afférent au volume, tel qu’il est déterminé par l’Office conformément à l’article 151 de la Loi dans sa version antérieure à ce jour.
+
+**Indice des prix composite afférent au volume**
+
+- **(2)** Les règles ci-après s’appliquent à la détermination de l’élément F de la formule figurant au paragraphe 151(1) de la Loi pour la campagne agricole qui suit celle en cours le jour de la sanction de la présente loi :
+	- **a)** avant d’effectuer la détermination, l’Office rajuste l’indice des prix composite afférent au volume prévu au paragraphe (1) pour tenir compte des coûts supportés par les compagnies de chemin de fer régies pour générer les revenus visés aux alinéas 150(3)d) et e) de la Loi;
+	- **b)** l’indice des prix composite afférent au volume est déterminé par l’Office, pour chacune des compagnies de chemin de fer régies, conformément à l’article 151 de la Loi, dans sa version modifiée par la présente loi, sur la base de l’indice rajusté conformément à l’alinéa a).
+
+**Nouvelle détermination**
+
+- **(3)** Si l’Office a déjà, avant le jour de la sanction de la présente loi, déterminé l’indice des prix composite afférent au volume pour la campagne agricole qui suit celle en cours ce jour-là, il doit le déterminer de nouveau conformément au paragraphe (2).
+
+
+
+######           — 2018, ch. 10, art. 81
+
+
+**Premier rajustement du montant maximal des frais**
+
+**81** Au plus tard le 31 mars 2021, l’Office rajuste pour la première fois, conformément à l’article 164.2 de la Loi, le montant maximal prévu à l’article 164.1 de cette loi. Le montant maximal rajusté s’applique à la période triennale commençant le 1<sup>er</sup> avril 2021.
+
+
+
+######           — 2018, ch. 10, art. 81.1 et al. 95(6)c)
+
+
+**Rétablissement des règlements — conditions d’exploitation**
+
+**81.1** Le [Règlement sur les conditions d’exploitation visées par l’arbitrage ferroviaire portant sur le niveau de services](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2014/192.md), exception faite des articles 6 et 7 de celui-ci, dans sa version antérieure à la date d’entrée en vigueur du paragraphe 8(2) de la Loi sur le transport ferroviaire équitable pour les producteurs de grain, est rétabli et est réputé avoir été pris en vertu du paragraphe 169.31(1.1) de la Loi sur les transports au Canada dans sa version modifiée par la présente loi.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 29, art. 215
+
+**215** La même loi est modifiée par adjonction, après l’article 6.5, de ce qui suit :
+
+## Exemptions
+
+
+**Exemption**
+
+**6.6** 
+
+- **(1)** Toute personne peut, selon les modalités précisées par le ministre, faire une demande au ministre afin d’obtenir un arrêté en vue d’exempter toute personne ou tout objet, individuellement ou par catégorie, de l’application de toute disposition d’une loi fédérale dont il assure l’exécution ou le contrôle d’application ou de tout texte pris sous le régime d’une telle loi.
+
+**Renseignements**
+
+- **(2)** Sur réception de la demande, le ministre peut exiger du demandeur les renseignements dont il a besoin pour la traiter et l’évaluer.
+
+**Créance de Sa Majesté du chef du Canada**
+
+- **(3)** Le ministre peut refuser de traiter ou d’évaluer une demande si le demandeur n’a pas payé une somme qui constitue, sous le régime de toute loi fédérale dont le ministre assure l’exécution ou le contrôle d’application, une créance de Sa Majesté du chef du Canada.
+
+
+
+**Arrêté**
+
+**6.7** 
+
+- **(1)** Le ministre peut, par arrêté, aux conditions qu’il estime indiquées et pour une période n’excédant pas cinq ans, exempter une personne ou un objet, individuellement ou par catégorie, de l’application de toute disposition d’une loi fédérale dont il assure l’exécution ou le contrôle d’application ou de tout texte pris sous le régime d’une telle loi si, de l’avis du ministre, l’exemption est, compte tenu des objectifs de la loi, dans l’intérêt public et qu’elle favorise l’innovation dans le domaine des transports par l’entremise de la recherche, du développement ou d’essais.
+
+**Prolongation**
+
+- **(2)** Il peut, par arrêté et aux conditions qu’il estime indiquées, prolonger la durée de l’exemption, une seule fois, pour une autre période d’au plus cinq ans.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux arrêtés pris, en application du présent article, à l’égard d’une seule personne ou d’un seul objet.
+
+**Accessibilité**
+
+- **(4)** Le ministre veille à ce que l’arrêté visé au paragraphe (3) soit accessible au public, sauf s’il estime que cela est contre-indiqué, notamment pour des raisons de sécurité ou de sûreté ou pour la protection de renseignements confidentiels ou personnels.
+
+**Exemption en vertu d’une autre loi**
+
+- **(5)** Il est entendu que la prise de l’arrêté visé au paragraphe (1) n’empêche ni ne limite l’exercice de tout pouvoir d’exempter sous le régime de toute loi fédérale dont le ministre assure l’exécution ou le contrôle d’application et vice-versa.
+
+
+
+**Recouvrement**
+
+**6.8** Le ministre peut recouvrer les coûts afférents au traitement et à l’évaluation d’une demande visée à l’article 6.6 et peut refuser de prendre l’arrêté demandé jusqu’à ce que les coûts soient recouvrés.
+
+
+
+
+
+######           — 2019, ch. 29, art. 277
+
+
+**
+> 2007, ch. 19, par. 8(4)
+**
+
+**277** Le sous-alinéa 50(1.1)c)(i) de la Loi sur les transports au Canada est remplacé par ce qui suit :
+
+	- **(i)** l’administration de contrôle désignée, au sens du paragraphe 2(1) de la [Loi sur la commercialisation des services de contrôle de sûreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20270.md),
+
+
+
 
 
