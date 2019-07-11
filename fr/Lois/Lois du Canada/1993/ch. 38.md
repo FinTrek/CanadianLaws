@@ -90,7 +90,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de point d’arrivée du réseau**
 
 - **(2)** Le Conseil peut définir l’expression point d’arrivée du réseau pour les besoins de la définition de installation de transmission au paragraphe (1).
-> 1993, ch. 38, art. 2; 1995, ch. 1, art. 62; 1998, ch. 8, art. 1; 2004, ch. 25, art. 174.
+> 1993, ch. 38, art. 2; 1995, ch. 1, art. 62; 1998, ch. 8, art. 1; 2004, ch. 25, art. 174
 
 
 
@@ -121,7 +121,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Assujettissement à la loi**
 
 **5** Le fiduciaire, le syndic, le séquestre, l’administrateur du bien d’autrui ou toute autre personne qui gère ou exploite une installation de transmission d’une entreprise canadienne sous l’autorité d’un tribunal ou en application d’un acte juridique est assujetti à la présente loi.
-> 1993, ch. 38, art. 5; 2004, ch. 25, art. 175.
+> 1993, ch. 38, art. 5; 2004, ch. 25, art. 175
 
 
 
@@ -178,7 +178,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualité d’intéressé**
 
 - **(3)** La décision du Conseil en ce qui touche la qualité d’intéressé est obligatoire et définitive.
-> 1993, ch. 38, art. 9; 1999, ch. 31, art. 196(F)..
+> 1993, ch. 38, art. 9; 1999, ch. 31, art. 196(F).
 
 
 
@@ -188,7 +188,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** Le ministre fait publier dans la Gazette du Canada et déposer devant chaque chambre du Parlement le projet de décret visé à l’article 8, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
+- **(1)** Le ministre fait publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) et déposer devant chaque chambre du Parlement le projet de décret visé à l’article 8, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
 
 **Consultation**
 
@@ -258,7 +258,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(4)** Dès réception de la demande, le ministre publie un avis dans la Gazette du Canada faisant état de la réception et indiquant où la demande, ou toute autre demande ou observation présentées en réponse à celle-ci peuvent être consultées et où il peut en être obtenu copie.
+- **(4)** Dès réception de la demande, le ministre publie un avis dans la [Gazette du Canada](http://www.gazette.gc.ca/) faisant état de la réception et indiquant où la demande, ou toute autre demande ou observation présentées en réponse à celle-ci peuvent être consultées et où il peut en être obtenu copie.
 
 **Décret de renvoi**
 
@@ -305,7 +305,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication des projets d’arrêté**
 
-- **(3)** Les projets d’arrêté visés au présent article sont publiés dans la Gazette du Canada au moins soixante jours avant la date prévue pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
+- **(3)** Les projets d’arrêté visés au présent article sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) au moins soixante jours avant la date prévue pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
 
 **Idem**
 
@@ -378,7 +378,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Affilié**
 
 - **(9)** Pour déterminer les revenus annuels provenant de la fourniture de services de télécommunication au Canada pour l’application du présent article, sont également visés les revenus provenant de la fourniture de tels services au Canada par tout affilié — au sens prévu au paragraphe 35(3) — de l’entreprise canadienne.
-> 1993, ch. 38, art. 16; 1998, ch. 8, art. 2; 2010, ch. 12, art. 2184; 2012, ch. 19, art. 595.
+> 1993, ch. 38, art. 16; 1998, ch. 8, art. 2; 2010, ch. 12, art. 2184; 2012, ch. 19, art. 595
 
 
 
@@ -397,7 +397,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Licence obligatoire — services de télécommunication**
 
 - **(2)** Les fournisseurs de services de télécommunication ne peuvent fournir les services de télécommunication internationale d’une catégorie précisée par le Conseil, sauf en conformité avec une licence de services de télécommunication internationale.
-> 1998, ch. 8, art. 3.
+> 1998, ch. 8, art. 3
 
 
 
@@ -406,7 +406,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Demandes**
 
 **16.2** Les demandes d’attribution, de renouvellement ou de modification d’une licence de services de télécommunication internationale se font selon les modalités prévues par le Conseil et doivent être accompagnées des renseignements exigés par celui-ci ainsi que du paiement des droits fixés aux termes du paragraphe 68(1).
-> 1998, ch. 8, art. 3.
+> 1998, ch. 8, art. 3
 
 
 
@@ -439,7 +439,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incessibilité**
 
 - **(6)** Sauf sur consentement du Conseil, la licence n’est pas transférable.
-> 1998, ch. 8, art. 3.
+> 1998, ch. 8, art. 3
 
 
 
@@ -454,7 +454,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consentement du titulaire**
 
 - **(2)** Il peut en outre suspendre ou révoquer la licence sur demande du titulaire ou avec son consentement.
-> 1998, ch. 8, art. 3.
+> 1998, ch. 8, art. 3
 
 
 
@@ -474,7 +474,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Demandes**
 
 **18** Les demandes d’attribution, de renouvellement ou de modification d’une licence de câble sous-marin international sont à faire selon les modalités réglementaires et doivent être accompagnées des renseignements réglementaires et du paiement des droits fixés par règlement ou, le cas échéant, calculés selon le mode de calcul réglementaire.
-> 1993, ch. 38, art. 18; 1999, ch. 31, art. 197(F).
+> 1993, ch. 38, art. 18; 1999, ch. 31, art. 197(F)
 
 
 
@@ -497,7 +497,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modification, renouvellement et incessibilité**
 
 - **(4)** La licence de câble sous-marin international peut être modifiée ou renouvelée sur demande du titulaire, mais, sauf sur consentement du ministre, elle n’est pas transférable.
-> 1993, ch. 38, art. 19; 1998, ch. 8, art. 4.
+> 1993, ch. 38, art. 19; 1998, ch. 8, art. 4
 
 
 
@@ -562,12 +562,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication des projets de règlement**
 
-- **(4)** Les projets de règlement visés au présent article sont publiés dans la Gazette du Canada au moins soixante jours avant la date prévue pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
+- **(4)** Les projets de règlement visés au présent article sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) au moins soixante jours avant la date prévue pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
 
 **Idem**
 
 - **(5)** Une seule publication suffit, que le projet ait ou non été modifié.
-> 1993, ch. 38, art. 22; 1998, ch. 8, art. 5; 1999, ch. 31, art. 198(F); 2004, ch. 25, art. 176.
+> 1993, ch. 38, art. 22; 1998, ch. 8, art. 5; 1999, ch. 31, art. 198(F); 2004, ch. 25, art. 176
 
 
 
@@ -603,7 +603,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** de protection de la vie privée de ces usagers;
 - **c)** d’accès aux services d’urgence;
 - **d)** d’accès par toute personne handicapée aux services de télécommunication.
-> 2014, ch. 39, art. 193.
+> 2014, ch. 39, art. 193
 
 
 
@@ -626,7 +626,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Tarifs non-approuvés**
 
 - **(4)** Le Conseil peut cependant entériner l’imposition ou la perception de tarifs qui ne figurent dans aucune tarification approuvée par lui s’il est convaincu soit qu’il s’agit là d’un cas particulier le justifiant, notamment d’erreur, soit qu’ils ont été imposés ou perçus par l’entreprise canadienne, en conformité avec le droit provincial, avant que les activités de celle-ci soient régies par une loi fédérale.
-> 1993, ch. 38, art. 25; 1999, ch. 31, art. 199(F).
+> 1993, ch. 38, art. 25; 1999, ch. 31, art. 199(F)
 
 
 
@@ -667,7 +667,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(6)** Le présent article n’a pas pour effet d’empêcher l’entreprise canadienne de fournir, gratuitement ou moyennant un tarif réduit, des services de télécommunication soit à ses administrateurs, dirigeants, employés et anciens employés soit, avec l’agrément du Conseil, à des organismes de bienfaisance, à des personnes défavorisées ou à toute personne.
-> 1993, ch. 38, art. 27; 2014, ch. 20, art. 239.
+> 1993, ch. 38, art. 27; 2014, ch. 20, art. 239
 
 
 
@@ -684,7 +684,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Factures papier**
 
 **27.2** Il est interdit à toute personne qui fournit des services de télécommunication d’imposer des frais à un abonné pour l’obtention de factures papier.
-> 2014, ch. 39, art. 194.
+> 2014, ch. 39, art. 194
 
 
 
@@ -703,7 +703,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(3)** Le Conseil tient compte, dans l’attribution des canaux de satellite, du rôle de l’entreprise canadienne en matière de télécommunication et des contraintes auxquelles elle précise avoir à faire face dans son activité.
-> 1993, ch. 38, art. 28; 1999, ch. 31, art. 200(F).
+> 1993, ch. 38, art. 28; 1999, ch. 31, art. 200(F)
 
 
 
@@ -712,7 +712,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation d’accords**
 
 **29** Est subordonnée à leur approbation par le Conseil la prise d’effet des accords et ententes — oraux ou écrits — conclus entre une entreprise canadienne et une autre entreprise de télécommunication sur soit l’acheminement de télécommunications par leurs installations de télécommunication respectives, soit la gestion ou l’exploitation de celles-ci, ou de l’une d’entre elles, ou d’autres installations qui y sont interconnectées, soit encore la répartition des tarifs et des autres recettes entre elles.
-> 1993, ch. 38, art. 29; 1999, ch. 31, art. 201(F).
+> 1993, ch. 38, art. 29; 1999, ch. 31, art. 201(F)
 
 
 
@@ -776,7 +776,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet de l’abstention**
 
 - **(4)** Le Conseil doit déclarer que les articles 24, 25, 27, 29 et 31 ne s’appliquent pas aux entreprises canadiennes dans la mesure où ils sont incompatibles avec toute décision prise par lui au titre du présent article.
-> 1993, ch. 38, art. 34; 1999, ch. 31, art. 202(F).
+> 1993, ch. 38, art. 34; 1999, ch. 31, art. 202(F)
 
 
 
@@ -831,7 +831,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication**
 
 - **(3)** Le Conseil transmet, sur demande, les renseignements reçus au ministre ou au statisticien en chef du Canada.
-> 1993, ch. 38, art. 37; 1999, ch. 31, art. 203(F).
+> 1993, ch. 38, art. 37; 1999, ch. 31, art. 203(F)
 
 
 
@@ -887,7 +887,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inadmissibilité en preuve**
 
 - **(6)** Les renseignements désignés comme confidentiels, à l’exception de ceux dont la communication a été effectuée ou exigée aux termes du présent article, ne sont pas admissibles en preuve lors de poursuites judiciaires sauf en cas de poursuite soit pour défaut de communiquer des renseignements en application de la présente loi ou d’une loi spéciale, soit pour faux, parjure ou fausse déclaration lors de leur communication.
-> 1993, ch. 38, art. 39; 2003, ch. 22, art. 224(A); 2010, ch. 23, art. 88; 2014, ch. 39, art. 195.
+> 1993, ch. 38, art. 39; 2003, ch. 22, art. 224(A); 2010, ch. 23, art. 88; 2014, ch. 39, art. 195
 
 
 
@@ -925,7 +925,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Malgré le paragraphe (1), le Conseil ne peut interdire ni réglementer l’utilisation par qui que ce soit des installations de télécommunication de l’entreprise canadienne en vue de la fourniture de télécommunications non sollicitées si celles-ci sont :
 	- **a)** soit des messages électroniques commerciaux assujettis à l’article 6 de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md);
 	- **b)** soit des messages électroniques commerciaux visés au paragraphe 6(5) de cette loi, sauf s’ils sont aussi visés au paragraphe 6(8) de la même loi.
-> 1993, ch. 38, art. 41; 2010, ch. 23, art. 89.
+> 1993, ch. 38, art. 41; 2010, ch. 23, art. 89
 
 
 
@@ -934,7 +934,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Liste d’exclusion nationale**
 
 **41.1** Les articles 41.2 à 41.7 créent un cadre législatif pour la gestion d’une liste d’exclusion nationale.
-> 2005, ch. 50, art. 1.
+> 2005, ch. 50, art. 1
 
 
 
@@ -946,7 +946,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** gérer des systèmes informatiques, administratifs ou opérationnels et des banques de données;
 - **b)** trancher toute question et rendre toute ordonnance en ce qui touche ces systèmes et banques de données;
 - **c)** mener des enquêtes pour décider s’il y a eu contravention à une ordonnance rendue au titre de cet article.
-> 2005, ch. 50, art. 1; 2012, ch. 19, art. 596.
+> 2005, ch. 50, art. 1; 2012, ch. 19, art. 596
 
 
 
@@ -969,7 +969,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Une publication suffit**
 
 - **(4)** Une seule publication suffit, que le projet ait ou non été modifié.
-> 2012, ch. 19, art. 597.
+> 2012, ch. 19, art. 597
 
 
 
@@ -992,7 +992,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation**
 
 - **(4)** Le Conseil peut, par écrit, révoquer la délégation; la révocation est réputée ne pas constituer une décision.
-> 2005, ch. 50, art. 1; 2012, ch. 19, art. 598.
+> 2005, ch. 50, art. 1; 2012, ch. 19, art. 598
 
 
 
@@ -1005,7 +1005,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le délégataire peut imposer des tarifs pour l’exercice des pouvoirs qui lui sont délégués.
 
 - **(2)** [Abrogé, 2012, ch. 19, art. 599]
-> 2005, ch. 50, art. 1; 2012, ch. 19, art. 599.
+> 2005, ch. 50, art. 1; 2012, ch. 19, art. 599
 
 
 
@@ -1020,7 +1020,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception — droits**
 
 - **(2)** Toutefois, les droits imposés par règlement au titre du paragraphe 41.21(1) et perçus par le délégataire sont des fonds publics lorsqu’ils sont versés au crédit du receveur général.
-> 2012, ch. 19, art. 600.
+> 2012, ch. 19, art. 600
 
 
 
@@ -1029,7 +1029,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs du Conseil**
 
 **41.5** Le Conseil peut régir les tarifs imposés par le délégataire, notamment en les subordonnant à son approbation préalable, et les modalités d’exercice des pouvoirs qu’il lui a délégués.
-> 2005, ch. 50, art. 1.
+> 2005, ch. 50, art. 1
 
 
 
@@ -1048,7 +1048,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépôt du rapport**
 
 - **(3)** Le ministre fait déposer une copie du rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
-> 2005, ch. 50, art. 1.
+> 2005, ch. 50, art. 1
 
 
 
@@ -1095,7 +1095,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(5)** Les paragraphes (3) et (4) ne s’appliquent pas à la personne faisant la télécommunication visée à l’alinéa (1)f).
-> 2005, ch. 50, art. 1.
+> 2005, ch. 50, art. 1
 
 
 
@@ -1139,7 +1139,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accès**
 
 - **(5)** Lorsqu’il ne peut, à des conditions qui lui sont acceptables, avoir accès à la structure de soutien d’une ligne de transmission construite sur une voie publique ou un autre lieu public, le fournisseur de services au public peut demander au Conseil le droit d’y accéder en vue de la fourniture de ces services; le Conseil peut assortir l’autorisation des conditions qu’il juge indiquées.
-> 1993, ch. 38, art. 43; 1999, ch. 31, art. 204(F).
+> 1993, ch. 38, art. 43; 1999, ch. 31, art. 204(F)
 
 
 
@@ -1157,7 +1157,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Drainage et tuyaux**
 
 **45** Sur demande d’une administration municipale ou de toute autre administration publique, ou du propriétaire d’un terrain, le Conseil peut permettre, aux conditions qu’il estime indiquées, des travaux de drainage ou de canalisation sur le terrain servant aux lignes de transmission d’une entreprise canadienne ou les terrains servant à leur exploitation, ou au-dessus, au-dessous ou aux abords de ces terrains.
-> 1993, ch. 38, art. 45; 1999, ch. 31, art. 205(F).
+> 1993, ch. 38, art. 45; 1999, ch. 31, art. 205(F)
 
 
 
@@ -1180,7 +1180,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Créance de Sa Majesté**
 
 - **(4)** Les frais occasionnés par l’exercice — relativement au bien-fonds, à l’intérêt ou au droit — des attributions conférées au procureur général du Canada par la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md) constituent une créance de Sa Majesté du chef du Canada sur l’entreprise canadienne concernée dont le recouvrement peut être poursuivi devant tout tribunal compétent.
-> 1993, ch. 38, art. 46; 2004, ch. 25, art. 177.
+> 1993, ch. 38, art. 46; 2004, ch. 25, art. 177
 
 
 
@@ -1195,7 +1195,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **46.1** S’il conclut que cela facilitera l’interfonctionnement des réseaux de télécommunication canadiens, le Conseil peut :
 - **a)** gérer les systèmes informatiques, administratifs ou opérationnels et les banques de données relatives au fonctionnement des réseaux de télécommunication, ainsi que les ressources en matière de numérotage servant à l’exploitation des réseaux de télécommunication, y compris la partie du Plan de numérotage nord-américain y afférente;
 - **b)** trancher toute question et rendre toute ordonnance en ce qui touche à ces systèmes, banques de données et ressources.
-> 1998, ch. 8, art. 6.
+> 1998, ch. 8, art. 6
 
 
 
@@ -1218,7 +1218,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation**
 
 - **(4)** Le Conseil peut, par écrit, révoquer la délégation; la révocation est réputée ne pas constituer une décision.
-> 1998, ch. 8, art. 6.
+> 1998, ch. 8, art. 6
 
 
 
@@ -1237,7 +1237,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Propriété des sommes perçues**
 
 - **(3)** Malgré la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), les sommes perçues par le délégataire sont réputées ne pas être des fonds publics.
-> 1998, ch. 8, art. 6.
+> 1998, ch. 8, art. 6
 
 
 
@@ -1248,7 +1248,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **46.4** Le Conseil peut :
 - **a)** régir les modalités de fourniture de services sur toute question mentionnée à l’alinéa 46.1a);
 - **b)** régir les tarifs imposés par toute personne qui fournit de tels services, notamment en les subordonnant à son approbation préalable.
-> 1998, ch. 8, art. 6.
+> 1998, ch. 8, art. 6
 
 
 
@@ -1267,7 +1267,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs du Conseil**
 
 - **(3)** Il peut régir les tarifs imposés par le gestionnaire pour la gestion du fonds, notamment en les subordonnant à son approbation préalable, ainsi que la manière de gérer ce fonds.
-> 1998, ch. 8, art. 6.
+> 1998, ch. 8, art. 6
 
 
 
@@ -1295,9 +1295,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le Conseil peut, d’office ou sur demande d’un intéressé, instruire et trancher toute question relative à une interdiction, obligation ou autorisation découlant de la partie II, sauf en ce qui a trait aux câbles sous-marins internationaux, de la partie III, de la présente partie ou d’une loi spéciale; il doit par ailleurs faire enquête sur toute question qui lui est soumise en application de l’article 14.
 
+**Enquête — accessibilité**
+
+- **(1.1)** Le Conseil peut, d’office ou sur demande d’un intéressé, instruire et trancher toute question relative à une interdiction, obligation ou autorisation découlant des articles 51 à 53 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md).
+
 **Intéressé**
 
 - **(2)** La décision du Conseil en ce qui touche la qualité d’intéressé est obligatoire et définitive.
+> 1993, ch. 38, art. 482019, ch. 10, art. 162
+
 
 
 
@@ -1318,7 +1324,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoir de contrainte**
 
-**51** Le Conseil peut ordonner à quiconque d’accomplir un acte ou de s’en abstenir, conformément aux modalités de temps et autres qu’il précise, selon que cet acte est imposé ou interdit sous le régime de la présente loi ou d’une loi spéciale.
+**51** Le Conseil peut ordonner à quiconque d’accomplir un acte ou de s’en abstenir, conformément aux modalités de temps et autres qu’il précise, selon que cet acte est imposé ou interdit sous le régime de la présente loi, des articles 51 à 53 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) ou d’une loi spéciale.
+> 1993, ch. 38, art. 512019, ch. 10, art. 163
+
 
 
 
@@ -1490,7 +1498,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Observations du Conseil**
 
 - **(6)** Le Conseil a le droit de présenter des observations pendant l’instruction de la demande d’autorisation et ensuite à toute étape de la procédure d’appel; les frais ne peuvent cependant être mis à sa charge ou à celle des conseillers.
-> 1993, ch. 38, art. 64; 1999, ch. 31, art. 206(F).
+> 1993, ch. 38, art. 64; 1999, ch. 31, art. 206(F)
 
 
 
@@ -1502,7 +1510,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Admission d’office**
 
-**65** Les décisions du Conseil ou les tarifications qu’il approuve sont admises d’office dès lors qu’elles sont publiées dans la Gazette du Canada sur son ordre ou avec son autorisation.
+**65** Les décisions du Conseil ou les tarifications qu’il approuve sont admises d’office dès lors qu’elles sont publiées dans la [Gazette du Canada](http://www.gazette.gc.ca/) sur son ordre ou avec son autorisation.
 
 
 
@@ -1524,7 +1532,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Certificats**
 
 - **(4)** Les certificats censés signés par le secrétaire du Conseil et portant le sceau de celui-ci font foi de leur contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature.
-> 1993, ch. 38, art. 66; 2001, ch. 34, art. 32(A); 2004, ch. 25, art. 178.
+> 1993, ch. 38, art. 66; 2001, ch. 34, art. 32(A); 2004, ch. 25, art. 178
 
 
 
@@ -1553,7 +1561,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incorporation par renvoi**
 
 - **(3)** Il peut être précisé, dans le règlement qui incorpore par renvoi notamment des normes ou des règles, qu’elles sont incorporées avec leurs modifications successives.
-> 1993, ch. 38, art. 67; 1998, ch. 8, art. 7.
+> 1993, ch. 38, art. 67; 1998, ch. 8, art. 7
 
 
 
@@ -1576,7 +1584,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **69** 
 
-- **(1)** Les projets de règlement visés aux articles 67 et 68 sont publiés dans la Gazette du Canada au moins soixante jours avant la date prévue pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au Conseil leurs observations à cet égard.
+- **(1)** Les projets de règlement visés aux articles 67 et 68 sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) au moins soixante jours avant la date prévue pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au Conseil leurs observations à cet égard.
 
 **Idem**
 
@@ -1597,7 +1605,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 **69.1** La présente partie s’applique aux appareils de télécommunication pouvant être reliés à un réseau de télécommunication d’une entreprise canadienne et utilisés dans les locaux d’un abonné d’un service de télécommunication.
-> 1998, ch. 8, art. 8.
+> 1998, ch. 8, art. 8
 
 
 
@@ -1616,7 +1624,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Normes et spécifications**
 
 - **(2)** Il est interdit de se livrer aux mêmes activités à l’égard de tout appareil de télécommunication qui ne respecte pas les spécifications techniques ou les normes de marquage qui lui sont imposées en application des articles 69.3 ou 69.4.
-> 1998, ch. 8, art. 8; 2014, ch. 39, art. 196.
+> 1998, ch. 8, art. 8; 2014, ch. 39, art. 196
 
 
 
@@ -1658,7 +1666,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(ii)** soit que l’enregistrement a été obtenu sous de fausses représentations,
 		- **(iii)** soit que l’appareil de télécommunication ne respecte pas les spécifications techniques ou les normes de marquage qui lui sont applicables;
 	- **c)** il donne un avis écrit de suspension ou de révocation au titulaire de l’enregistrement, mais sans nécessairement lui accorder la possibilité de lui présenter des observations, lorsque celui-ci n’a pas satisfait à une demande de paiement des droits ou intérêts dus.
-> 1998, ch. 8, art. 8; 2014, ch. 39, art. 197.
+> 1998, ch. 8, art. 8; 2014, ch. 39, art. 197
 
 
 
@@ -1687,7 +1695,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incorporation par renvoi**
 
 - **(2)** Il est entendu qu’il peut être précisé, dans le règlement d’application du paragraphe (1) qui incorpore par renvoi des spécifications — classifications, normes ou modalités —, qu’elles sont incorporées avec leurs modifications successives.
-> 1998, ch. 8, art. 8; 2014, ch. 39, art. 198.
+> 1998, ch. 8, art. 8; 2014, ch. 39, art. 198
 
 
 
@@ -1739,7 +1747,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **71** 
 
-- **(1)** Le Conseil peut désigner à titre d’inspecteur les personnes qu’il estime qualifiées pour vérifier le respect ou prévenir le non-respect des dispositions de la présente loi ou d’une loi spéciale qu’il est chargé de faire appliquer ou encore des dispositions de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) et de l’exécution des décisions qu’il a rendues sous le régime de la présente loi.
+- **(1)** Le Conseil peut désigner à titre d’inspecteur les personnes qu’il estime qualifiées pour vérifier le respect ou prévenir le non-respect des dispositions de la présente loi, d’une loi spéciale qu’il est chargé de faire appliquer, de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), des articles 51 à 53 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) et l’exécution des décisions qu’il a rendues sous le régime de la présente loi.
 
 **Désignation**
 
@@ -1752,7 +1760,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs**
 
 - **(4)** L’inspecteur peut, dans le cadre de sa mission :
-	- **a)** à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, d’une loi spéciale ou de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), entrer à toute heure convenable dans tout lieu s’il a des motifs raisonnables de croire que s’y trouvent des objets, des documents ou des renseignements, examiner ceux-ci et les emporter pour examen ou reproduction;
+	- **a)** à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, d’une loi spéciale, de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) ou des articles 51 à 53 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md), entrer à toute heure convenable dans tout lieu s’il a des motifs raisonnables de croire que s’y trouvent des objets, des documents ou des renseignements, examiner ceux-ci et les emporter pour examen ou reproduction;
 	- **b)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour vérifier les données qu’il contient ou auxquelles il donne accès;
 	- **c)** à partir de ces données, reproduire ou faire reproduire tout document sous forme d’imprimé ou toute autre forme intelligible qu’il peut emporter pour examen ou reproduction;
 	- **d)** utiliser le matériel de reproduction et les moyens de communication du lieu.
@@ -1778,14 +1786,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation d’information**
 
-- **(9)** S’il croit qu’une personne détient des renseignements qu’il juge nécessaires pour la vérification du respect ou à la prévention du non-respect de la présente loi, d’une loi spéciale ou de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), l’inspecteur peut, par avis, l’obliger à les lui communiquer, selon les modalités, notamment de temps et de forme, que précise l’avis.
+- **(9)** S’il croit qu’une personne détient des renseignements qu’il juge nécessaires pour lui permettre de vérifier le respect ou de prévenir le non-respect de la présente loi, d’une loi spéciale, de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) ou des articles 51 à 53 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) l’inspecteur peut, par avis, l’obliger à les lui communiquer, selon les modalités, notamment de temps et de forme, que précise l’avis.
 
 **Entrave et fausses déclarations**
 
 - **(10)** Il est interdit :
 	- **a)** d’entraver volontairement l’action de l’inspecteur dans l’exercice de ses fonctions;
 	- **b)** de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
-> 1993, ch. 38, art. 71; 1999, ch. 31, art. 207(F); 2014, ch. 12, art. 137, ch. 39, art. 200 et 209.
+> 1993, ch. 38, art. 71; 1999, ch. 31, art. 207(F); 2014, ch. 12, art. 137, ch. 39, art. 200 et 2092019, ch. 10, art. 164
 
 
 
@@ -1808,7 +1816,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Les paragraphes (1) et (2) ne s’appliquent pas aux actions intentées pour rupture de contrat portant sur la fourniture de services de télécommunication ni aux actions en dommages-intérêts relatives aux tarifs imposés ou perçus par les entreprises canadiennes.
-> 1993, ch. 38, art. 72; 2001, ch. 4, art. 122(F).
+> 1993, ch. 38, art. 72; 2001, ch. 4, art. 122(F)
 
 
 
@@ -1820,10 +1828,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Violation**
 
-**72.001** Toute contravention à une disposition de la présente loi — autre que les articles 17 et 69.2 — ou des règlements ou à une décision prise par le Conseil sous le régime de la présente loi — autre qu’une mesure prise en vertu de l’article 41 — constitue une violation exposant son auteur à une pénalité dont le montant maximal est :
+**72.001** Toute contravention à une disposition de la présente loi — autre que les articles 17 et 69.2 — ou des règlements, à une décision prise par le Conseil sous le régime de la présente loi — autre qu’une mesure prise en vertu de l’article 41 — ou à l’un des paragraphes 51(1) à (4) et (7), 52(1) à (3) et 53(1) à (3) et (6) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) constitue une violation exposant son auteur à une pénalité dont le montant maximal est :
 - **a)** dans le cas d’une personne physique, de vingt-cinq mille dollars et de cinquante mille dollars en cas de récidive;
 - **b)** dans les autres cas, de dix millions de dollars et de quinze millions de dollars en cas de récidive.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 2012019, ch. 10, art. 165
 
 
 
@@ -1844,7 +1852,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **But de la pénalité**
 
 - **(2)** L’imposition de la pénalité vise non pas à punir, mais à favoriser le respect de la présente loi, des règlements ou des décisions prises par le Conseil sous le régime de la présente loi.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -1853,7 +1861,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Procédures**
 
 **72.003** Malgré le paragraphe 72.005(1), le Conseil peut imposer une pénalité dans la décision qu’il prend dans le cadre d’une affaire dont il est saisi en vertu de la présente loi et dans laquelle il conclut qu’il y a eu contravention à une disposition, à un règlement ou à une décision visés à l’article 72.001.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -1864,7 +1872,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **72.004** Le Conseil peut :
 - **a)** désigner, individuellement ou au titre de leur appartenance à telle catégorie, les agents autorisés à dresser des procès-verbaux pour une violation ou les personnes autorisées à accepter un engagement;
 - **b)** établir pour chaque violation un sommaire la caractérisant dans les procès-verbaux.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -1882,7 +1890,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le montant de la pénalité à payer;
 	- **b)** la faculté qu’a l’auteur présumé soit de payer la pénalité, soit de présenter des observations relativement à la violation ou à la pénalité, et ce, dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le Conseil —, ainsi que les autres modalités d’exercice de cette faculté;
 	- **c)** le fait que le non-exercice de cette faculté dans le délai imparti vaut aveu de responsabilité et peut entraîner l’imposition de la pénalité.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -1914,7 +1922,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-respect**
 
 - **(5)** Le non-respect d’un engagement constitue une violation.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -1937,7 +1945,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copie de la décision et droits de l’intéressé**
 
 - **(4)** Le Conseil fait signifier à l’intéressé copie de la décision prise au titre des paragraphes (2) ou (3) et l’avise par la même occasion de son droit de présenter une demande de révision en vertu de l’article 62 ou de présenter une demande d’autorisation d’interjeter appel au titre de l’article 64.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -1946,7 +1954,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Administrateurs, dirigeants et mandataires des personnes morales**
 
 **72.008** En cas de commission par une personne morale d’une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont responsables de la violation, que la personne morale fasse ou non l’objet de procédures en violation.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -1978,7 +1986,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enregistrement à la Cour fédérale**
 
 - **(5)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -1993,7 +2001,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Attestation du secrétaire du Conseil**
 
 - **(2)** Tout document apparemment délivré par le secrétaire du Conseil et attestant la date où les éléments sont parvenus à la connaissance du Conseil fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -2004,7 +2012,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **72.0092** Le Conseil peut rendre publics :
 - **a)** le nom de la personne qui a contracté un engagement, la nature de celui-ci, notamment les actes ou omissions et les dispositions ou décisions en cause, les conditions qu’il comporte et, le cas échéant, le montant de la pénalité;
 - **b)** le nom de l’auteur de la violation, la nature de la violation, notamment les actes ou omissions et les dispositions ou décisions en cause, et le montant de la pénalité.
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -2016,7 +2024,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** exclure de l’application de l’article 72.001 toute disposition de la présente loi ou des règlements ou toute décision;
 - **b)** pour l’application de l’alinéa 72.002(1)e), établir d’autres critères applicables à la détermination du montant de la pénalité;
 - **c)** régir les engagements visés au paragraphe 72.006(1).
-> 2014, ch. 39, art. 201.
+> 2014, ch. 39, art. 201
 
 
 
@@ -2031,7 +2039,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **72.01** Toute contravention ou tout manquement à une mesure prise par le Conseil au titre de l’article 41 et toute contravention à l’une ou l’autre des dispositions de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) constituent une violation exposant son auteur à une pénalité dont le montant peut atteindre :
 - **a)** dans le cas d’une personne physique, 1 500 $;
 - **b)** dans le cas d’une personne morale, 15 000 $.
-> 2005, ch. 50, art. 2; 2014, ch. 12, art. 138.
+> 2005, ch. 50, art. 2; 2014, ch. 12, art. 138
 
 
 
@@ -2044,7 +2052,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Violation continue**
 
 **72.03** Il est compté une violation distincte pour chacun des jours au cours desquels se continue une violation.
-> 2005, ch. 50, art. 2.
+> 2005, ch. 50, art. 2
 
 
 
@@ -2061,7 +2069,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Certificat**
 
 - **(2)** L’agent verbalisateur reçoit un certificat attestant sa qualité qu’il présente, sur demande, à toute personne apparemment responsable du lieu visité.
-> 2005, ch. 50, art. 2.
+> 2005, ch. 50, art. 2
 
 
 
@@ -2087,7 +2095,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la pénalité prévue pour la violation;
 	- **b)** la faculté qu’a l’auteur présumé soit de payer la pénalité, soit de présenter au Conseil des observations relativement à la violation, et ce dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le Con-seil —, ainsi que les modalités d’exercice de cette faculté;
 	- **c)** le fait que le non-exercice de cette faculté dans le délai imparti vaut aveu de responsabilité et permet au Conseil d’imposer la pénalité.
-> 2005, ch. 50, art. 2.
+> 2005, ch. 50, art. 2
 
 
 
@@ -2110,7 +2118,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis de décision et des droits de l’intéressé**
 
 - **(4)** Le Conseil fait signifier à l’intéressé une copie de la décision prise au titre des paragraphes (2) ou (3) et l’avise par la même occasion de son droit de faire une demande de révision en vertu de l’article 62 ou de présenter une demande d’autorisation d’interjeter appel au titre de l’article 64.
-> 2005, ch. 50, art. 2; 2014, ch. 39, art. 205.
+> 2005, ch. 50, art. 2; 2014, ch. 39, art. 205
 
 
 
@@ -2137,7 +2145,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enregistrement à la Cour fédérale**
 
 - **(5)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
-> 2005, ch. 50, art. 2.
+> 2005, ch. 50, art. 2
 
 
 
@@ -2160,7 +2168,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Certificat du secrétaire du Conseil**
 
 - **(2)** Tout document apparemment délivré par le secrétaire du Conseil et attestant la date où les éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
-> 2005, ch. 50, art. 2.
+> 2005, ch. 50, art. 2
 
 
 
@@ -2169,7 +2177,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 **72.13** Le Conseil peut procéder à la publication de la nature de la violation, du nom de son auteur et de la pénalité.
-> 2005, ch. 50, art. 2.
+> 2005, ch. 50, art. 2
 
 
 
@@ -2182,7 +2190,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Admissibilité en preuve**
 
 **72.14** Dans les procédures en violation, le procès-verbal ou la copie de la décision apparemment signifié en application des paragraphes 72.005(1), 72.007(4), 72.07(1) ou 72.08(4), selon le cas, est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
-> 2005, ch. 50, art. 2; 2014, ch. 39, art. 207.
+> 2005, ch. 50, art. 2; 2014, ch. 39, art. 207
 
 
 
@@ -2197,7 +2205,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Principes de la common law**
 
 - **(2)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi ou à la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) s’appliquent à l’égard de toute violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
-> 2005, ch. 50, art. 2; 2014, ch. 12, art. 142.1, ch. 39, art. 207 et 209.
+> 2005, ch. 50, art. 2; 2014, ch. 12, art. 142.1, ch. 39, art. 207 et 209
 
 
 
@@ -2206,7 +2214,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Responsabilité indirecte : employeurs et mandants**
 
 **72.16** L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou de son mandat, selon le cas, que l’auteur de la violation fasse ou non l’objet de procédure en violation.
-> 2014, ch. 39, art. 207.
+> 2014, ch. 39, art. 207
 
 
 
@@ -2215,7 +2223,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cumul interdit**
 
 **72.17** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction à la présente loi ou à la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), la procédure en violation et la procédure pénale s’excluent l’une l’autre.
-> 2014, ch. 12, art. 143.1, ch. 39, art. 207 et 209.
+> 2014, ch. 12, art. 143.1, ch. 39, art. 207 et 209
 
 
 
@@ -2224,7 +2232,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 **72.18** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2014, ch. 39, art. 207.
+> 2014, ch. 39, art. 207
 
 
 
@@ -2233,7 +2241,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application de l’article 12**
 
 **72.19** L’article 12 ne s’applique pas aux décisions du Conseil prises au titre des paragraphes 72.007(2) ou (3) ou 72.08(2) ou (3) ni à la partie de la décision prise en vertu de l’article 72.003 qui concerne la conclusion qu’il y a eu contravention et l’imposition d’une pénalité.
-> 2014, ch. 39, art. 207.
+> 2014, ch. 39, art. 207
 
 
 
@@ -2242,7 +2250,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Groupe considéré comme une personne morale**
 
 **72.2** Pour l’application des articles 71 et 72.01 à 72.19, un groupe, au sens de l’article 348.01 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), est considéré comme une personne morale.
-> 2014, ch. 12, art. 143, ch. 39, art. 209.
+> 2014, ch. 12, art. 143, ch. 39, art. 209
 
 
 
@@ -2298,7 +2306,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Groupe considéré comme une personne morale**
 
 - **(9)** Pour l’application du présent article, un groupe, au sens de l’article 348.01 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), est considéré comme une personne morale.
-> 1993, ch. 38, art. 73; 1998, ch. 8, art. 9; 2002, ch. 17, art. 30; 2014, ch. 12, art. 144, ch. 39, art. 208.
+> 1993, ch. 38, art. 73; 1998, ch. 8, art. 9; 2002, ch. 17, art. 30; 2014, ch. 12, art. 144, ch. 39, art. 208
 
 
 
@@ -2323,7 +2331,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(2)** Le cas échéant, il fait publier un avis de la confiscation dans la Gazette du Canada.
+- **(2)** Le cas échéant, il fait publier un avis de la confiscation dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Requête**
 
@@ -2347,7 +2355,7 @@ Le tribunal peut, dans ce cas, ordonner soit la remise de l’appareil en cause 
 **Frais**
 
 - **(7)** Les personnes déclarées coupables à l’égard des objets confisqués au titre du présent article sont solidairement responsables des frais — liés à la visite, à la saisie, à la confiscation ou à la disposition — supportés par Sa Majesté lorsqu’ils excèdent le produit de leur disposition.
-> 1998, ch. 8, art. 10; 2001, ch. 4, art. 123; 2004, ch. 25, art. 179.
+> 1998, ch. 8, art. 10; 2001, ch. 4, art. 123; 2004, ch. 25, art. 179
 
 
 
@@ -2384,7 +2392,7 @@ Le tribunal peut, dans ce cas, ordonner soit la remise de l’appareil en cause 
 **Présomption**
 
 - **(2)** Les lignes de transmission construites, sur une voie publique ou dans un autre lieu public — ou au-dessus, au-dessous ou aux abords de ceux-ci — , par une entreprise canadienne dont les activités n’étaient alors pas régies par une loi fédérale sont réputées l’avoir été avec l’agrément prévu au paragraphe 43(3).
-> 1993, ch. 38, art. 76; 1999, ch. 31, art. 208(F)..
+> 1993, ch. 38, art. 76; 1999, ch. 31, art. 208(F).
 
 
 
@@ -2440,5 +2448,68 @@ Le tribunal peut, dans ce cas, ordonner soit la remise de l’appareil en cause 
 <sup><a href='#T-3.4_fr_2'>[*]</a></sup>**134** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
 <a name='T-3.4_fr_2'><sup>*</sup></a>: [Note : Loi en vigueur le 25 octobre 1993, *voir* TR/93-101.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 1995, ch. 1, par. 62(4)
+
+
+
+**Idem**
+
+- **(4)** Dans les textes d’application de la [Loi sur la radiocommunication](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-2.md) ou de la Loi sur les télécommunications, la mention du ministre des Communications vaut mention, sauf indication contraire du contexte, du ministre de l’Industrie.
+
+
+
+######           — 2005, ch. 50, art. 2.1
+
+
+**Examen**
+
+**2.1** Trois ans après l’entrée en vigueur de la présente loi, le comité de la Chambre des communes, du Sénat ou des deux chambres désigné ou constitué à cette fin entreprend l’examen de l’application des dispositions édictées par la présente loi.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2010, ch. 23, par. 89(2)
+
+**89** 
+
+- **(2)** Le paragraphe 41(2) de la même loi, édicté par le paragraphe (1), est remplacé par ce qui suit :
+
+**Exception**
+
+- **(2)** Malgré le paragraphe (1), le Conseil ne peut interdire ni, sauf dans la mesure prévue au paragraphe (3), réglementer l’utilisation par qui que ce soit des installations de télécommunication de l’entreprise canadienne en vue de la fourniture de télécommunications non sollicitées si celles-ci sont des messages électroniques commerciaux assujettis à la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md) ou visés au paragraphe 6(5) de cette loi.
+
+**Réglementation**
+
+- **(3)** Pour l’application du paragraphe (2), le Conseil peut, à l’égard des catégories de télécommunications mentionnées au paragraphe (4), réglementer :
+	- **a)** les heures pendant lesquelles les installations de télécommunication de l’entreprise canadienne peuvent être utilisées par une personne;
+	- **b)** les coordonnées que doit fournir la personne visée au paragraphe (2), les circonstances dans lesquelles elle est tenue de les fournir et la personne à qui elle doit les fournir;
+	- **c)** les télécommunications destinées aux personnes offrant des services médicaux ou d’urgence;
+	- **d)** les télécommunications pour lesquelles un préposé n’est pas immédiatement disponible lorsque le destinataire prend la communication.
+
+**Catégories de télécommunications**
+
+- **(4)** Les catégories de télécommunications visées au paragraphe (3) sont les suivantes :
+	- **a)** les messages qui consistent, en tout ou en partie, en des communications vocales bilatérales qu’ont entre elles, en direct, des personnes physiques;
+	- **b)** les messages envoyés par fac-similé à un compte téléphone;
+	- **c)** les enregistrements de la parole envoyés à un compte téléphone.
+
+
+
+######           — 2010, ch. 23, art. 90
+
+
+**2005, ch. 50, art. 1**
+
+**90** Les articles 41.1 à 41.7 de la même loi sont abrogés.
+
 
 
