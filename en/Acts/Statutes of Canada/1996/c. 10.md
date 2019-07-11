@@ -64,7 +64,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **International agreements respecting air services**
 
 - **(3)** In the event of any inconsistency or conflict between an international agreement or convention respecting air services to which Canada is a party and the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md), the provisions of the agreement or convention prevail to the extent of the inconsistency or conflict.
-> 1996, c. 10, s. 4; 2007, c. 19, s. 1.
+> 1996, c. 10, s. 4; 2007, c. 19, s. 1
 
 
 
@@ -80,9 +80,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** competition and market forces, both within and among the various modes of transportation, are the prime agents in providing viable and effective transportation services;
 - **(b)** regulation and strategic public intervention are used to achieve economic, safety, security, environmental or social outcomes that cannot be achieved satisfactorily by competition and market forces and do not unduly favour, or reduce the inherent advantages of, any particular mode of transportation;
 - **(c)** rates and conditions do not constitute an undue obstacle to the movement of traffic within Canada or to the export of goods from Canada;
-- **(d)** the transportation system is accessible without undue obstacle to the mobility of persons, including persons with disabilities; and
+- **(d)** the transportation system is accessible without undue obstacle to the mobility of all persons;
+- **(d.1)** the transportation system is accessible without barriers to persons with disabilities; and
 - **(e)** governments and the private sector work together for an integrated transportation system.
-> 1996, c. 10, s. 5; 2007, c. 19, s. 2.
+> 1996, c. 10, s. 5; 2007, c. 19, s. 22019, c. 10, s. 166
 
 
 
@@ -138,7 +139,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***TIH (Toxic Inhalation Hazard) material*** means a gas or substance that is included in Class 2.3 of the [Transportation of Dangerous Goods Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/286.md) or that, under paragraph 2.28(c) of those Regulations, is included in Class 6.1 of those Regulations. It includes a dangerous good with a UN number that is set out in Column 1 of the Dangerous Goods List in Chapter 3.2 of the Recommendations on the Transport of Dangerous Goods – Model Regulations, Eighteenth revised edition, 2013, published by the United Nations and that is listed in Schedule III; (*matière toxique par inhalation*)
 
 ***Vice-Chairperson*** means the Vice-Chairperson of the Agency. (*vice-président*)
-> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E); 2015, c. 3, s. 29, c. 31, s. 2; 2018, c. 10, s. 2.
+> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E); 2015, c. 3, s. 29, c. 31, s. 2; 2018, c. 10, s. 2
 
 
 
@@ -151,7 +152,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Governor in Council**
 
 **6.1** The Governor in Council may make regulations specifying railway companies for the purpose of paragraph (g) of the definition class 1 rail carrier.
-> 2018, c. 10, s. 3.
+> 2018, c. 10, s. 3
 
 
 
@@ -174,7 +175,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Delegate**
 
 - **(3)** For greater certainty, a person who has been authorized by the Minister to do anything that may be done by the Minister under an Act of Parliament, may do so using the electronic means that are made available or specified by the Minister.
-> 2019, c. 29, s. 214.
+> 2019, c. 29, s. 214
 
 
 
@@ -186,7 +187,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** making an application, request or decision;
 - **(b)** giving notice; and
 - **(c)** submitting a document.
-> 2019, c. 29, s. 214.
+> 2019, c. 29, s. 214
 
 
 
@@ -197,7 +198,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **6.4** For the purposes of an Act of Parliament that the Minister administers or enforces, a requirement under that Act to provide a signature or to provide information in a paper-based format is met if
 - **(a)** an electronic version of the signature or information is provided by electronic means that are made available or specified by the Minister; and
 - **(b)** any other condition that is provided for in regulations made under paragraph 6.5(a) is met.
-> 2019, c. 29, s. 214.
+> 2019, c. 29, s. 214
 
 
 
@@ -210,7 +211,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** setting out the circumstances in which a person who must provide a signature or information under an Act that the Minister administers or enforces is required to do so using electronic means and specifying those means;
 - **(c)** authorizing the Minister to permit or direct the use of electronic means, other than those referred to in paragraph (b), or non-electronic means and setting out the circumstances in which the Minister may do so; and
 - **(d)** respecting the date and time when, and the place where, the electronic version of information is deemed to be sent or received.
-> 2019, c. 29, s. 214.
+> 2019, c. 29, s. 214
 
 
 
@@ -242,7 +243,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Chairperson and Vice-Chairperson**
 
 - **(3)** The Governor in Council shall designate one of the members appointed under subsection (2) to be the Chairperson of the Agency and one of the other members appointed under that subsection to be the Vice-Chairperson of the Agency.
-> 1996, c. 10, s. 7; 2001, c. 27, s. 221; 2007, c. 19, s. 3; 2015, c. 3, s. 30(E).
+> 1996, c. 10, s. 7; 2001, c. 27, s. 221; 2007, c. 19, s. 3; 2015, c. 3, s. 30(E)
 
 
 
@@ -261,7 +262,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Continuation in office**
 
 - **(3)** If a member appointed under subsection 7(2) ceases to hold office, the Chairperson may authorize the member to continue to hear any matter that was before the member on the expiry of the member’s term of office and that member is deemed to be a member of the Agency, but that person’s status as a member does not preclude the appointment of up to five members under subsection 7(2) or up to three temporary members under subsection 9(1).
-> 1996, c. 10, s. 8; 2007, c. 19, s. 4; 2015, c. 3, s. 31(E).
+> 1996, c. 10, s. 8; 2007, c. 19, s. 4; 2015, c. 3, s. 31(E)
 
 
 
@@ -307,7 +308,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Disposal of conflict of interest**
 
 - **(3)** If an interest referred to in subsection (1) vests in a member appointed under subsection 7(2) for the benefit of the member by will or succession, the member shall, within three months after the vesting, absolutely dispose of the interest.
-> 1996, c. 10, s. 10; 2015, c. 3, s. 32(E).
+> 1996, c. 10, s. 10; 2015, c. 3, s. 32(E)
 
 
 
@@ -343,7 +344,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Accident compensation**
 
 - **(3)** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), a member is deemed to be an employee in the federal public administration.
-> 1996, c. 10, s. 12; 2003, c. 22, ss. 224(E), 225(E); 2015, c. 3, s. 33(E).
+> 1996, c. 10, s. 12; 2003, c. 22, ss. 224(E), 225(E); 2015, c. 3, s. 33(E)
 
 
 
@@ -425,7 +426,7 @@ and in either case, the quorum in respect of the matter is deemed never to have 
 **Residence of members**
 
 - **(2)** The members appointed under subsection 7(2) shall reside in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md) or within any distance of it that the Governor in Council determines.
-> 1996, c. 10, s. 18; 2007, c. 19, s. 5; 2008, c. 21, s. 61.
+> 1996, c. 10, s. 18; 2007, c. 19, s. 5; 2008, c. 21, s. 61
 
 
 
@@ -547,7 +548,7 @@ and in either case, the quorum in respect of the matter is deemed never to have 
 - **(4)** The Agency may, on terms or otherwise, make or allow any amendments in any proceedings before it.
 
 - **(5)** [Repealed, 2008, c. 5, s. 1]
-> 1996, c. 10, s. 27; 2008, c. 5, s. 1; 2018, c. 10, s. 4(E).
+> 1996, c. 10, s. 27; 2008, c. 5, s. 1; 2018, c. 10, s. 4(E)
 
 
 
@@ -621,7 +622,7 @@ and the Agency may direct that the whole or any portion of the order shall have 
 **Option to enforce**
 
 - **(4)** The Agency may, before or after one of its decisions or orders is made an order of a court, enforce the decision or order by its own action.
-> 1996, c. 10, s. 33; 2002, c. 8, s. 122; 2006, c. 11, s. 17; 2007, c. 19, s. 6.
+> 1996, c. 10, s. 33; 2002, c. 8, s. 122; 2006, c. 11, s. 17; 2007, c. 19, s. 6
 
 
 
@@ -695,7 +696,7 @@ and the Agency may direct that the whole or any portion of the order shall have 
 **Filing of mediation agreement**
 
 - **(7)** An agreement that is reached as a result of mediation may be filed with the Agency and, after filing, is enforceable as if it were an order of the Agency.
-> 2007, c. 19, s. 7.
+> 2007, c. 19, s. 7
 
 
 
@@ -720,7 +721,7 @@ and the Agency may direct that the whole or any portion of the order shall have 
 **Person not to act in proceedings**
 
 - **(3)** A person who exercises the powers or performs the duties or functions under paragraph (1)(b) or subsection (2) shall not act in any proceedings before the Agency that are related to an issue in respect of which the person provided information, guidance or informal dispute resolution services.
-> 2018, c. 10, s. 5.
+> 2018, c. 10, s. 5
 
 
 
@@ -747,7 +748,7 @@ and the Agency may direct that the whole or any portion of the order shall have 
 **Mediator not to act in other proceedings**
 
 - **(3)** The person who acts as mediator or arbitrator may not act in any other proceedings before the Agency in relation to any matter that was at issue in the mediation or arbitration.
-> 2007, c. 19, s. 7; 2008, c. 5, ss. 8, 9; 2015, c. 31, s. 3.
+> 2007, c. 19, s. 7; 2008, c. 5, ss. 8, 9; 2015, c. 31, s. 3
 
 
 
@@ -830,9 +831,22 @@ and the Agency may direct that the whole or any portion of the order shall have 
 	- **(a)** applications to the Agency and the findings on them; and
 	- **(b)** the findings of the Agency in regard to any matter or thing respecting which the Agency has acted on the request of the Minister.
 
-**Assessment of Act**
+**Additional content**
 
-- **(2)** The Agency shall include in every report referred to in subsection (1) the Agency’s assessment of the operation of this Act and any difficulties observed in the administration of this Act.
+- **(2)** The Agency shall include in every report referred to in subsection (1)
+	- **(a)** the Agency’s assessment of the operation of this Act and any difficulties observed in the administration of this Act;
+	- **(b)** in respect of the year to which the report relates, information about, including the number of, the following:
+		- **(i)** inspections conducted under this Act for a purpose related to verifying compliance or preventing non-compliance with any provision of regulations made under subsection 170(1) or with any of sections 60 to 62 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md),
+		- **(ii)** orders made under section 181.2,
+		- **(iii)** orders, in writing, made under section 26 that require any person to do or to refrain from doing any thing that they are or may be required to do or are prohibited from doing under any provision of regulations made under subsection 170(1) or any of sections 60 to 62 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md),
+		- **(iv)** notices of violation issued under section 180 that identify a violation referred to in subsection 177(3), and
+		- **(v)** inquiries made under any of sections 172, 172.1 and 172.3;
+	- **(c)** the Agency’s observations about whether the information referred to in paragraph (b) discloses any systemic or emerging issues in respect of any matter or thing that concerns transportation to which the legislative authority of Parliament extends and that relates to the mobility of persons with disabilities; and
+	- **(d)** any other information prescribed by regulations made under subsection (2.01).
+
+**Regulations**
+
+- **(2.01)** For the purpose of paragraph (2)(d), the Governor in Council may make regulations prescribing information about any matter or thing that concerns transportation to which the legislative authority of Parliament extends and that relates to the mobility of persons with disabilities.
 
 **Railway transportation**
 
@@ -845,7 +859,7 @@ and the Agency may direct that the whole or any portion of the order shall have 
 **Tabling of report**
 
 - **(3)** The Minister shall have a copy of each report made under this section laid before each House of Parliament on any of the first thirty days on which that House is sitting after the Minister receives it.
-> 1996, c. 10, s. 42; 2013, c. 31, s. 2; 2018, c. 10, s. 6.
+> 1996, c. 10, s. 42; 2013, c. 31, s. 2; 2018, c. 10, s. 62019, c. 10, s. 167
 
 
 
@@ -966,7 +980,7 @@ for each day the person contravenes the order.
 **Summary of findings**
 
 - **(3)** The Agency shall make public a summary of its findings that does not include any confidential information.
-> 1996, c. 10, s. 49; 2018, c. 10, s. 8.
+> 1996, c. 10, s. 49; 2018, c. 10, s. 8
 
 
 
@@ -1039,7 +1053,7 @@ for each day the person contravenes the order.
 **Consultations**
 
 - **(5)** The Minister may consult with the Agency or Statistics Canada before making any regulation under this section.
-> 1996, c. 10, s. 50; 1998, c. 10, s. 163; 1999, c. 31, s. 36(E); 2000, c. 16, s. 1; 2007, c. 19, s. 8; 2013, c. 31, s. 3(F); 2018, c. 10, s. 9.
+> 1996, c. 10, s. 50; 1998, c. 10, s. 163; 1999, c. 31, s. 36(E); 2000, c. 16, s. 1; 2007, c. 19, s. 8; 2013, c. 31, s. 3(F); 2018, c. 10, s. 9
 
 
 
@@ -1065,8 +1079,8 @@ for each day the person contravenes the order.
 
 **No registration or publication**
 
-- **(5)** For greater certainty, a document that is incorporated by reference is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
-> 2013, c. 31, s. 4; 2018, c. 10, s. 10.
+- **(5)** For greater certainty, a document that is incorporated by reference is not required to be transmitted for registration or published in the [Canada Gazette](http://www.gazette.gc.ca/) by reason only that it is incorporated by reference.
+> 2013, c. 31, s. 4; 2018, c. 10, s. 10
 
 
 
@@ -1075,7 +1089,7 @@ for each day the person contravenes the order.
 **Existing power not limited**
 
 **50.02** For greater certainty, an express power in this Act to incorporate by reference does not limit the power that otherwise exists to incorporate by reference in a regulation made under this Act.
-> 2013, c. 31, s. 4.
+> 2013, c. 31, s. 4
 
 
 
@@ -1084,7 +1098,7 @@ for each day the person contravenes the order.
 **Information already provided**
 
 **50.1** For the purposes of subsection 50(1) or (1.01), if any information referred to in that subsection has already been provided to a department or agency of the Government of Canada, the Minister may request that department or agency to provide the information to the Minister.
-> 2007, c. 19, s. 9; 2018, c. 10, s. 11.
+> 2007, c. 19, s. 9; 2018, c. 10, s. 11
 
 
 
@@ -1116,7 +1130,7 @@ for each day the person contravenes the order.
 **Requirement for other persons to maintain confidentiality**
 
 - **(4)** Any person who receives information from the Minister that is confidential under this Act shall not knowingly disclose that information and shall take the measures necessary to maintain its confidentiality.
-> 1996, c. 10, s. 51; 2000, c. 16, s. 2; 2007, c. 19, s. 10; 2018, c. 10, s. 12.
+> 1996, c. 10, s. 51; 2000, c. 16, s. 2; 2007, c. 19, s. 10; 2018, c. 10, s. 12
 
 
 
@@ -1125,7 +1139,7 @@ for each day the person contravenes the order.
 **Publication**
 
 **51.1** Despite subsection 51(1), the Minister may make the information referred to in paragraph 50(2)(d) public.
-> 2018, c. 10, s. 13.
+> 2018, c. 10, s. 13
 
 
 
@@ -1134,7 +1148,7 @@ for each day the person contravenes the order.
 **Confidentiality of information — Agency**
 
 **51.2** Information that is required to be provided to the Agency in accordance with regulations made under paragraph 50(1.01)(a) is, when it is received by the Agency, confidential and shall not knowingly be disclosed or made available by any person without the authorization of the person who provided the information, except for the purpose of a prosecution of a contravention of section 173.
-> 2018, c. 10, s. 13.
+> 2018, c. 10, s. 13
 
 
 
@@ -1143,7 +1157,7 @@ for each day the person contravenes the order.
 **Use of information**
 
 **51.3** Information that is provided to the Minister or the Agency in accordance with regulations made under paragraph 50(1.01)(a) is only to be used by the Agency for the purpose of determining the long-haul interswitching rate referred to in paragraph 134(1)(a) and, despite subsection 51(4) and section 51.2, the Agency may, for that purpose, communicate the information in an aggregated form.
-> 2018, c. 10, s. 13.
+> 2018, c. 10, s. 13
 
 
 
@@ -1158,7 +1172,7 @@ for each day the person contravenes the order.
 **Information received from Minister**
 
 - **(2)** Subsection 51(4) does not apply to the publication, in accordance with subsection (1), of information that is received from the Minister.
-> 2018, c. 10, s. 13.
+> 2018, c. 10, s. 13
 
 
 
@@ -1182,7 +1196,7 @@ for each day the person contravenes the order.
 	- **(c)** the extent to which carriers and modes of transportation received compensation, indirectly and directly, for the resources, facilities and services that were required to be provided as an imposed public duty;
 	- **(c.1)** the long term outlook and trends in transportation in Canada; and
 	- **(d)** any other transportation matters that the Minister considers appropriate.
-> 1996, c. 10, s. 52; 2007, c. 19, s. 11.
+> 1996, c. 10, s. 52; 2007, c. 19, s. 11
 
 
 
@@ -1219,7 +1233,7 @@ for each day the person contravenes the order.
 **Tabling of report**
 
 - **(6)** The Minister shall have a copy of the report laid before each House of Parliament on any of the first thirty days on which that House is sitting after the Minister receives it.
-> 1996, c. 10, s. 53; 2007, c. 19, s. 12.
+> 1996, c. 10, s. 53; 2007, c. 19, s. 12
 
 
 
@@ -1260,7 +1274,7 @@ for each day the person contravenes the order.
 **Report**
 
 - **(6)** The Agency or person, as the case may be, shall report to the Minister within 150 days after being directed under subsection (5), or within any longer period that the Minister may allow.
-> 2007, c. 19, s. 13.
+> 2007, c. 19, s. 13
 
 
 
@@ -1314,7 +1328,7 @@ The parties may propose revisions to the transaction.
 **Compliance with terms and conditions**
 
 - **(10)** Every person who is subject to terms and conditions shall comply with them.
-> 2007, c. 19, s. 13.
+> 2007, c. 19, s. 13
 
 
 
@@ -1323,7 +1337,7 @@ The parties may propose revisions to the transaction.
 **Canadian**
 
 **53.3** The Agency shall determine whether a proposed transaction referred to in subsection 53.1(1) that involves an air transportation undertaking would result in an undertaking that is Canadian as defined in subsection 55(1).
-> 2007, c. 19, s. 13.
+> 2007, c. 19, s. 13
 
 
 
@@ -1338,7 +1352,7 @@ The parties may propose revisions to the transaction.
 **Order of divestiture — application by Commissioner**
 
 - **(2)** If a person contravenes subsection 53.2(10) with respect to a term or condition that relates to potential prevention or lessening of competition, a superior court may, on application by the Commissioner, order the person to cease the contravention or do any thing that is required to be done, and may make any other order that it considers appropriate, including an order requiring the divestiture of assets. The Commissioner shall notify the Minister before making an application.
-> 2007, c. 19, s. 13.
+> 2007, c. 19, s. 13
 
 
 
@@ -1349,7 +1363,7 @@ The parties may propose revisions to the transaction.
 **53.5** The Governor in Council may, on the recommendation of the Minister, make regulations
 - **(a)** specifying information required in a notice under subsection 53.1(1); and
 - **(b)** exempting classes of transactions from the application of sections 53.1 to 53.3.
-> 2007, c. 19, s. 13.
+> 2007, c. 19, s. 13
 
 
 
@@ -1378,7 +1392,7 @@ The parties may propose revisions to the transaction.
 **Sections 174 and 175 do not apply**
 
 - **(5)** Sections 174 and 175 do not apply in respect of an offence committed under subsection (1) or (2).
-> 2007, c. 19, s. 13.
+> 2007, c. 19, s. 13
 
 
 
@@ -1395,7 +1409,7 @@ The parties may propose revisions to the transaction.
 ***arrangement*** means an agreement or arrangement, other than a transaction referred to in subsection 53.1(1), involving two or more transportation undertakings providing air services, as defined in subsection 55(1), to, from or within Canada, to coordinate on any aspect of the operation or marketing of such services, including prices, routes, schedules, capacity or ancillary services and to share costs or revenues or other resources or benefits. (*entente*)
 
 ***party*** means any person who proposes to enter into or has entered into an arrangement for which a notice has been given under subsection 53.71(1). (*partie*)
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1434,7 +1448,7 @@ The parties may propose revisions to the transaction.
 **Significant public interest considerations**
 
 - **(8)** If the Minister is of the opinion that the proposed arrangement raises significant considerations with respect to the public interest, the arrangement is subject to the review process set out in section 53.73.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1443,7 +1457,7 @@ The parties may propose revisions to the transaction.
 **Prohibition**
 
 **53.72** If a notice has been given under subsection 53.71(1), the proposed arrangement shall not be completed without the Minister’s authorization under subsection 53.73(8).
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1482,7 +1496,7 @@ The parties may propose revisions to the transaction.
 **Final decision**
 
 - **(8)** The Minister shall, within 30 days after the day on which he or she receives a response from the parties under subsection (7), render a final decision and make public a summary of that decision that does not include any confidential information. The Minister may, if satisfied that the proposed arrangement is in the public interest, authorize it and specify any terms and conditions relating to the public interest and competition that the Minister considers appropriate.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1491,7 +1505,7 @@ The parties may propose revisions to the transaction.
 **Canadian**
 
 **53.74** An authorization given by the Minister under subsection 53.73(8) does not affect any requirement that a transportation undertaking providing air services, as defined in subsection 55(1), be Canadian, as defined in that subsection.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1500,7 +1514,7 @@ The parties may propose revisions to the transaction.
 **Varying or rescinding terms and conditions**
 
 **53.75** On application by any party who is subject to terms and conditions of an authorization, the Minister may, after consulting with the Commissioner of Competition, vary or rescind the terms and conditions and shall make public a summary of that decision that does not include any confidential information.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1517,7 +1531,7 @@ The parties may propose revisions to the transaction.
 **No confidential information made public**
 
 - **(2)** If the Minister authorizes the amendment under paragraph (1)(a), he or she shall make public a summary of that decision that does not include any confidential information.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1536,7 +1550,7 @@ The parties may propose revisions to the transaction.
 **Continuing the authorization**
 
 - **(3)** If, after consulting with the Commissioner, the Minister determines that the arrangement is still in the public interest, the authorization is continued subject to any new or amended terms and conditions specified by the Minister to address the concerns referred to in subsection (1).
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1545,7 +1559,7 @@ The parties may propose revisions to the transaction.
 **Obligation to comply with terms and conditions**
 
 **53.78** Every person who is subject to terms and conditions under subsection 53.73(8), section 53.75, paragraph 53.76(a) or subsection 53.77(3) shall comply with them.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1562,7 +1576,7 @@ The parties may propose revisions to the transaction.
 - **(2)** The Minister may also revoke the authorization of an arrangement if
 	- **(a)** that arrangement is significantly amended without prior authorization; or
 	- **(b)** the Minister, after considering any response of the parties to the concerns raised under subsection 53.77(1), is no longer satisfied that the arrangement is in the public interest.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1581,7 +1595,7 @@ The parties may propose revisions to the transaction.
 **Effect of withdrawal**
 
 - **(3)** If a notice given under subsection 53.71(1) is withdrawn or is deemed to have been withdrawn, section 53.72 no longer applies to the proposed arrangement.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1590,7 +1604,7 @@ The parties may propose revisions to the transaction.
 **Extension of time**
 
 **53.81** The Minister may, at the request of the parties or on the Minister’s own initiative, extend any period specified in section 53.71, 53.73 or 53.77 if the Minister considers it appropriate in the circumstances, including when the arrangement is exceptionally complex.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1599,7 +1613,7 @@ The parties may propose revisions to the transaction.
 **Order**
 
 **53.82** If a person contravenes sections 53.72 or 53.78, a superior court may, on application by the Minister, order the person to cease the contravention or do any thing that is required to be done, and may make any other order that it considers appropriate, including an order requiring the divestiture of assets. The Minister shall notify the Commissioner of Competition before making an application.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1622,7 +1636,7 @@ The parties may propose revisions to the transaction.
 **Sections 174 and 175 do not apply**
 
 - **(4)** Sections 174 and 175 do not apply in respect of an offence committed under subsection (1).
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1647,7 +1661,7 @@ The parties may propose revisions to the transaction.
 **Spending authority**
 
 - **(4)** The Minister may spend the amounts deposited under subsection (3) in the fiscal year in which they are paid or in the next fiscal year.
-> 2018, c. 10, s. 14.
+> 2018, c. 10, s. 14
 
 
 
@@ -1752,7 +1766,7 @@ The parties may propose revisions to the transaction.
 **Control in fact**
 
 - **(4)** For greater certainty, nothing in subsection (2) shall be construed to affect the meaning of the expression “controlled in fact” in the definition Canadian in subsection (1).
-> 1996, c. 10, s. 55; 2000, c. 15, s. 1; 2001, c. 27, s. 222; 2018, c. 10, s. 15.
+> 1996, c. 10, s. 55; 2000, c. 15, s. 1; 2001, c. 27, s. 222; 2018, c. 10, s. 15
 
 
 
@@ -1779,7 +1793,7 @@ The parties may propose revisions to the transaction.
 **Not a statutory instrument**
 
 - **(5)** The order is not a statutory instrument within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1996, c. 10, s. 56; 2007, c. 19, s. 14; 2018, c. 10, s. 16.
+> 1996, c. 10, s. 56; 2007, c. 19, s. 14; 2018, c. 10, s. 16
 
 
 
@@ -1837,7 +1851,7 @@ The parties may propose revisions to the transaction.
 **Prohibition re sale**
 
 **59** No person shall sell, cause to be sold or publicly offer for sale in Canada an air service unless, if required under this Part, a person holds a licence issued under this Part in respect of that service and that licence is not suspended.
-> 1996, c. 10, s. 59; 2007, c. 19, s. 16.
+> 1996, c. 10, s. 59; 2007, c. 19, s. 16
 
 
 
@@ -1888,7 +1902,7 @@ The parties may propose revisions to the transaction.
 **Publication**
 
 - **(3)** The Minister must, as soon as feasible, make the name of the person who is exempted and the exemption’s duration accessible to the public through the Internet or by any other means that the Minister considers appropriate.
-> 1996, c. 10, s. 62; 2013, c. 31, s. 5.
+> 1996, c. 10, s. 62; 2013, c. 31, s. 5
 
 
 
@@ -1942,7 +1956,7 @@ The parties may propose revisions to the transaction.
 **Definition of non-stop scheduled air service**
 
 - **(4)** In this section, ***non-stop scheduled air service*** means an air service operated between two points without any stops in accordance with a published timetable or on a regular basis.
-> 1996, c. 10, s. 64; 2000, c. 15, s. 3; 2007, c. 19, s. 17.
+> 1996, c. 10, s. 64; 2000, c. 15, s. 3; 2007, c. 19, s. 17
 
 
 
@@ -1953,7 +1967,7 @@ The parties may propose revisions to the transaction.
 **65** Where, on complaint in writing to the Agency by any person, the Agency finds that a licensee has failed to comply with section 64 and that it is practicable in the circumstances for the licensee to comply with an order under this section, the Agency may, by order, direct the licensee to reinstate the service referred to in that section
 - **(a)** for such a period, not exceeding 120 days after the date of the finding by the Agency, as the Agency deems appropriate; and
 - **(b)** at such a frequency as the Agency may specify.
-> 1996, c. 10, s. 65; 2007, c. 19, s. 18.
+> 1996, c. 10, s. 65; 2007, c. 19, s. 18
 
 
 
@@ -2000,7 +2014,7 @@ The parties may propose revisions to the transaction.
 	- **(a)** information that constitutes a trade secret;
 	- **(b)** information the disclosure of which would likely cause material financial loss to, or prejudice to the competitive position of, the person providing the information or on whose behalf it is provided; and
 	- **(c)** information the disclosure of which would likely interfere with contractual or other negotiations being conducted by the person providing the information or on whose behalf it is provided.
-> 1996, c. 10, s. 66; 2000, c. 15, s. 4; 2007, c. 19, s. 19.
+> 1996, c. 10, s. 66; 2000, c. 15, s. 4; 2007, c. 19, s. 19
 
 
 
@@ -2027,7 +2041,7 @@ The parties may propose revisions to the transaction.
 **Copy of tariff on payment of fee**
 
 - **(4)** The holder of a domestic licence shall provide a copy or excerpt of its tariffs to any person on request and on payment of a fee not exceeding the cost of making the copy or excerpt.
-> 1996, c. 10, s. 67; 2000, c. 15, s. 5; 2007, c. 19, s. 20.
+> 1996, c. 10, s. 67; 2000, c. 15, s. 5; 2007, c. 19, s. 20
 
 
 
@@ -2039,7 +2053,7 @@ The parties may propose revisions to the transaction.
 - **(a)** apply a fare, rate, charge or term or condition of carriage that is set out in its tariffs;
 - **(b)** compensate any person adversely affected for any expenses they incurred as a result of the licensee’s failure to apply a fare, rate, charge or term or condition of carriage that was set out in its tariffs; and
 - **(c)** take any other appropriate corrective measures.
-> 2000, c. 15, s. 6; 2007, c. 19, s. 21.
+> 2000, c. 15, s. 6; 2007, c. 19, s. 21
 
 
 
@@ -2054,7 +2068,7 @@ The parties may propose revisions to the transaction.
 **Prohibition on advertising**
 
 - **(2)** The holder of a domestic licence shall not advertise or apply any term or condition of carriage that is suspended or has been disallowed.
-> 2000, c. 15, s. 6; 2007, c. 19, s. 22(F).
+> 2000, c. 15, s. 6; 2007, c. 19, s. 22(F)
 
 
 
@@ -2063,7 +2077,7 @@ The parties may propose revisions to the transaction.
 **Person affected**
 
 **67.3** Despite sections 67.1 and 67.2, a complaint against the holder of a domestic license related to any term or condition of carriage concerning any obligation prescribed by regulations made under subsection 86.11(1) may only be filed by a person adversely affected.
-> 2018, c. 10, s. 17.
+> 2018, c. 10, s. 17
 
 
 
@@ -2072,7 +2086,7 @@ The parties may propose revisions to the transaction.
 **Applying decision to other passengers**
 
 **67.4** The Agency may, to the extent that it considers it appropriate, make applicable to some or to all passengers of the same flight as the complainant all or part of its decision respecting a complaint related to any term or condition of carriage concerning any obligation prescribed by regulations made under paragraph 86.11(1)(b).
-> 2018, c. 10, s. 17.
+> 2018, c. 10, s. 17
 
 
 
@@ -2095,7 +2109,7 @@ The parties may propose revisions to the transaction.
 **Retention of contract required**
 
 - **(3)** The holder of a domestic licence who is a party to the contract shall retain a copy of it for a period of not less than three years after it has ceased to have effect and, on request made within that period, shall provide a copy of it to the Agency.
-> 1996, c. 10, s. 68; 2000, c. 15, s. 7; 2007, c. 19, s. 23.
+> 1996, c. 10, s. 68; 2000, c. 15, s. 7; 2007, c. 19, s. 23
 
 
 
@@ -2126,7 +2140,7 @@ The parties may propose revisions to the transaction.
 - **(3)** A non-Canadian is eligible to hold a scheduled international licence if the non-Canadian
 	- **(a)** has been designated by a foreign government or an agent of a foreign government to operate an air service under the terms of an agreement or arrangement between that government and the Government of Canada; and
 	- **(b)** holds, in respect of the air service, a document issued by a foreign government or agent that, in respect of the service to be provided under the document, is equivalent to a scheduled international licence.
-> 1996, c. 10, s. 69; 2013, c. 31, s. 6.
+> 1996, c. 10, s. 69; 2013, c. 31, s. 6
 
 
 
@@ -2239,7 +2253,7 @@ The parties may propose revisions to the transaction.
 **Issuance, amendment and cancellation of permits**
 
 **75.1** The issuance of a permit for the operation of an international charter to a licensee and the amendment or cancellation of the permit shall be made in accordance with regulations made under paragraph 86(1)(e).
-> 2007, c. 19, s. 24.
+> 2007, c. 19, s. 24
 
 
 
@@ -2334,7 +2348,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(3)** No exemption shall be granted under subsection (1) that has the effect of relieving a person from the provisions of section 69 that require, in order to be eligible to hold a scheduled international licence,
 	- **(a)** a Canadian to be designated by the Minister to hold such a licence; or
 	- **(b)** a non-Canadian to be designated by a foreign government or an agent of a foreign government to operate an air service under the terms of an agreement or arrangement between that government and the Government of Canada.
-> 1996, c. 10, s. 80; 2013, c. 31, s. 7.
+> 1996, c. 10, s. 80; 2013, c. 31, s. 7
 
 
 
@@ -2413,7 +2427,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Part of annual report**
 
 - **(6)** The Agency shall, as part of its annual report, indicate the number and nature of the complaints filed under this Part, the names of the carriers against whom the complaints were made, the manner complaints were dealt with and the systemic trends observed.
-> 2000, c. 15, s. 7.1; 2007, c. 19, s. 25.
+> 2000, c. 15, s. 7.1; 2007, c. 19, s. 25
 
 
 
@@ -2453,7 +2467,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(2)** No regulation shall be made under paragraph (1)(l) that has the effect of relieving a person from any provision of this Part that requires a person to be a Canadian and to have a Canadian aviation document and prescribed liability insurance coverage in respect of an air service.
 
 - **(3)** [Repealed, 2007, c. 19, s. 26]
-> 1996, c. 10, s. 86; 2000, c. 15, s. 8; 2007, c. 19, s. 26; 2018, c. 10, s. 18.
+> 1996, c. 10, s. 86; 2000, c. 15, s. 8; 2007, c. 19, s. 26; 2018, c. 10, s. 18
 
 
 
@@ -2472,7 +2486,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Regulations may prescribe**
 
 - **(3)** Without limiting the generality of subsection (1), the regulations may prescribe what are costs, fees, charges and taxes for the purposes of subsection (2).
-> 2007, c. 19, s. 27.
+> 2007, c. 19, s. 27
 
 
 
@@ -2506,7 +2520,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Obligations deemed to be in tariffs**
 
 - **(4)** The carrier’s obligations established by a regulation made under subsection (1) are deemed to form part of the terms and conditions set out in the carrier’s tariffs in so far as the carrier’s tariffs do not provide more advantageous terms and conditions of carriage than those obligations.
-> 2018, c. 10, s. 19.
+> 2018, c. 10, s. 19
 
 
 
@@ -2515,7 +2529,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Regulations and orders**
 
 **86.2** A regulation or order made under this Part may be conditional or unconditional or qualified or unqualified and may be general or restricted to a specific area, person or thing or group or class of persons or things.
-> 2007, c. 19, s. 27.
+> 2007, c. 19, s. 27
 
 
 
@@ -2578,7 +2592,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(b)** to the north by latitude 50.83° N,
 - **(c)** to the west by longitude 128.45° W, and
 - **(d)** to the south by the Canada-United States border. (*axe Vancouver-Kamloops*)
-> 1996, c. 10, s. 87; 2007, c. 19, s. 28; 2015, c. 31, s. 4; 2018, c. 10, s. 20.
+> 1996, c. 10, s. 87; 2007, c. 19, s. 28; 2015, c. 31, s. 4; 2018, c. 10, s. 20
 
 
 
@@ -2639,7 +2653,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 	- **(a)** under a trust deed or mortgage;
 	- **(b)** at the instance of the holders of a mortgage, bond or debenture for the payment of which a charge has been created on the railway or portion; or
 	- **(c)** under any other lawful proceeding.
-> 1996, c. 10, s. 90; 2015, c. 31, s. 5.
+> 1996, c. 10, s. 90; 2015, c. 31, s. 5
 
 
 
@@ -2691,7 +2705,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Regulations made by Governor in Council**
 
 - **(4)** The Governor in Council may, by regulation, amend Schedule IV by deleting or adding a class of railway operations and an amount of minimum liability insurance coverage or by amending such a class — including by adding or deleting factors that define its scope — or such an amount.
-> 1996, c. 10, s. 92; 2015, c. 31, s. 6.
+> 1996, c. 10, s. 92; 2015, c. 31, s. 6
 
 
 
@@ -2711,7 +2725,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(2)** The Agency may vary a certificate of fitness when it
 	- **(a)** makes an order under paragraph 116(4)(e) that requires a railway company to grant a right to the holder of the certificate; or
 	- **(b)** grants a right under section 138 to the holder of the certificate.
-> 1996, c. 10, s. 93; 2000, c. 16, s. 3.
+> 1996, c. 10, s. 93; 2000, c. 16, s. 3
 
 
 
@@ -2736,7 +2750,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Self-insurance**
 
 - **(3)** For the purpose of paragraph (1)(b), the amount of self-insurance must not exceed the maximum amount of self-insurance that the holder of the certificate of fitness can sustain based on its financial capability.
-> 2015, c. 31, s. 7.
+> 2015, c. 31, s. 7
 
 
 
@@ -2747,7 +2761,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **94** The holder of a certificate of fitness shall notify the Agency in writing without delay
 - **(a)** if the liability insurance coverage is cancelled or altered; or
 - **(b)** if there are any changes to the construction or operation that may affect the liability insurance coverage.
-> 1996, c. 10, s. 94; 2015, c. 31, s. 7.
+> 1996, c. 10, s. 94; 2015, c. 31, s. 7
 
 
 
@@ -2756,7 +2770,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Inquiry**
 
 **94.1** The Agency may make an inquiry to determine whether a holder of a certificate of fitness complies with section 93.1.
-> 2015, c. 31, s. 7.
+> 2015, c. 31, s. 7
 
 
 
@@ -2765,7 +2779,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Suspension or cancellation of certificate of fitness**
 
 **94.2** The Agency shall suspend or cancel a certificate of fitness if it determines that the holder of the certificate has failed to comply with section 93.1.
-> 2015, c. 31, s. 7.
+> 2015, c. 31, s. 7
 
 
 
@@ -2811,7 +2825,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(a)** its obligations under sections 113 and 114, if applicable;
 - **(b)** its operational requirements; and
 - **(c)** the area where the construction or operation takes place.
-> 2007, c. 19, s. 29.
+> 2007, c. 19, s. 29
 
 
 
@@ -2832,7 +2846,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Not statutory instruments**
 
 - **(3)** The guidelines are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2007, c. 19, s. 29.
+> 2007, c. 19, s. 29
 
 
 
@@ -2847,7 +2861,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Restriction**
 
 - **(2)** If the Agency has published guidelines under paragraph 95.2(1)(b), it must first satisfy itself that the collaborative measures set out in the guidelines have been exhausted in respect of the noise or vibration complained of before it conducts any investigation or hearing in respect of the complaint.
-> 2007, c. 19, s. 29.
+> 2007, c. 19, s. 29
 
 
 
@@ -2856,7 +2870,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Public passenger service providers**
 
 **95.4** Sections 95.1 to 95.3 apply, with any modifications that are necessary, to public passenger service providers.
-> 2007, c. 19, s. 29.
+> 2007, c. 19, s. 29
 
 
 
@@ -3034,7 +3048,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Effect of deposit**
 
 - **(2)** Once the deposit is made, the mortgage or hypothec, security agreement, assignment or other document need not be deposited, registered or filed under any other law or statute respecting real or personal property, and the deposited document is valid against all persons.
-> 1996, c. 10, s. 104; 1999, c. 31, s. 38(E); 2007, c. 19, s. 30.
+> 1996, c. 10, s. 104; 1999, c. 31, s. 38(E); 2007, c. 19, s. 30
 
 
 
@@ -3059,7 +3073,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(3)** Once the deposit is made, the document need not be deposited, registered or filed under any other law or statute respecting real or personal property, and the document is valid against all persons.
 
 - **(4)** [Repealed, 2007, c. 19, s. 31]
-> 1996, c. 10, s. 105; 2007, c. 19, s. 31.
+> 1996, c. 10, s. 105; 2007, c. 19, s. 31
 
 
 
@@ -3075,7 +3089,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(a)** the depositing of copies of documents under sections 104 and 105;
 - **(b)** the form and content of summaries to be deposited under those sections; and
 - **(c)** the effects, in Canada, of the deposit, registration or filing in other countries of documents evidencing any transaction referred to in paragraph 105(1)(a) or of documents evidencing amendments, assignments or discharges of those documents.
-> 2007, c. 19, s. 32.
+> 2007, c. 19, s. 32
 
 
 
@@ -3131,7 +3145,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 ***long-haul interswitching rate*** means a rate determined by the Agency in accordance with paragraph 134(1)(a); (***Version anglaise seulement***)
 
 ***service obligations*** means obligations under section 113 or 114. (***Version anglaise seulement***)
-> 1996, c. 10, s. 111; 2018, c. 10, s. 22.
+> 1996, c. 10, s. 111; 2018, c. 10, s. 22
 
 
 
@@ -3178,7 +3192,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Confidential contract between company and shipper**
 
 - **(4)** A shipper and a railway company may, by means of a confidential contract or other written agreement, agree on the manner in which the obligations under this section are to be fulfilled by the company.
-> 1996, c. 10, s. 113; 2015, c. 31, s. 8; 2018, c. 10, s. 59(F).
+> 1996, c. 10, s. 113; 2015, c. 31, s. 8; 2018, c. 10, s. 59(F)
 
 
 
@@ -3284,7 +3298,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Company not relieved**
 
 - **(6)** Subject to the terms of a confidential contract referred to in subsection 113(4) or a tariff that sets out, in accordance with subsection 136.4(1), terms established in a long-haul interswitching order, a company is not relieved from an action taken under subsection (5) by any notice, condition or declaration if the damage claimed in the action arises from any negligence or omission of the company or any of its employees.
-> 1996, c. 10, s. 116; 2000, c. 16, s. 4; 2014, c. 8, s. 5.1; 2018, c. 10, ss. 23, 95.
+> 1996, c. 10, s. 116; 2000, c. 16, s. 4; 2014, c. 8, s. 5.1; 2018, c. 10, ss. 23, 95
 
 
 
@@ -3329,7 +3343,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Record of tariff**
 
 - **(5)** The railway company shall keep a record of the tariff for at least three years after its cancellation.
-> 1996, c. 10, s. 117; 2018, c. 10, s. 24.
+> 1996, c. 10, s. 117; 2018, c. 10, s. 24
 
 
 
@@ -3358,7 +3372,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 	- **(a)** the rates are the lawful rates of the railway company and, subject to subsection (1), they take effect on the date stated in the tariff;
 	- **(b)** the tariff supersedes any preceding tariff or any portion of it in so far as any rate in the tariff is varied; and
 	- **(c)** a railway company that owns or operates a railway line in respect of which the tariff is issued shall charge the rates in the tariff until they expire or until the tariff is superseded by a new tariff.
-> 1996, c. 10, s. 119; 2008, c. 5, s. 2.
+> 1996, c. 10, s. 119; 2008, c. 5, s. 2
 
 
 
@@ -3404,7 +3418,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Clarification**
 
 - **(7)** For greater certainty, this section does not apply to rates for the movement of traffic.
-> 2008, c. 5, s. 3.
+> 2008, c. 5, s. 3
 
 
 
@@ -3529,7 +3543,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **No investigation or arbitration of confidential contracts**
 
 - **(2)** No party to a confidential contract is entitled to submit a matter governed by the contract to the Agency for final offer arbitration under section 161, without the consent of all the parties to the contract.
-> 1996, c. 10, s. 126; 2013, c. 31, s. 8; 2018, c. 10, s. 25.
+> 1996, c. 10, s. 126; 2013, c. 31, s. 8; 2018, c. 10, s. 25
 
 
 
@@ -3558,7 +3572,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Extension of interswitching limits**
 
 - **(4)** On the application of a person referred to in subsection (1), the Agency may deem a point of origin or destination of a movement of traffic in any particular case to be within 30 km of an interchange if the Agency is of the opinion that, in the circumstances, the point of origin or destination is reasonably close to the interchange.
-> 1996, c. 10, s. 127; 2018, c. 10, ss. 26, 95.
+> 1996, c. 10, s. 127; 2018, c. 10, ss. 26, 95
 
 
 
@@ -3586,8 +3600,8 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 **Interswitching rate to be published**
 
-- **(5)** The Agency shall cause the interswitching rate to be published in the Canada Gazette no later than December 31 before the beginning of the calendar year for which the rate applies.
-> 2018, c. 10, s. 27.
+- **(5)** The Agency shall cause the interswitching rate to be published in the [Canada Gazette](http://www.gazette.gc.ca/) no later than December 31 before the beginning of the calendar year for which the rate applies.
+> 2018, c. 10, s. 27
 
 
 
@@ -3613,7 +3627,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Review of interswitching regulations**
 
 - **(5)** The Agency shall review the regulations when the circumstances warrant and at least once in every five year period after the regulations are made.
-> 1996, c. 10, s. 128; 2014, c. 8, s. 7; 2018, c. 10, s. 28.
+> 1996, c. 10, s. 128; 2014, c. 8, s. 7; 2018, c. 10, s. 28
 
 
 
@@ -3622,7 +3636,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Power to require information**
 
 **128.1** No later than August 31 of every year, a railway company shall provide to the Agency, in the form and manner specified by the Agency, the information or documents that the Agency considers necessary to exercise its powers or perform its duties or functions under section 127.1.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3669,7 +3683,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 	- **(a)** the point of origin of the movement of the shipper’s traffic is located in Quebec and north of the Quebec-Windsor corridor;
 	- **(b)** the shipper has access to the lines of only one class 1 rail carrier at the point of origin; and
 	- **(c)** the nearest interchange is located in the Quebec–Windsor corridor.
-> 1996, c. 10, s. 129; 2018, c. 10, ss. 29, 95.
+> 1996, c. 10, s. 129; 2018, c. 10, ss. 29, 95
 
 
 
@@ -3690,7 +3704,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 	- **(a)** the junction referred to in paragraph (1)(c) is deemed to be the point of origin or the point of destination, as the case may be;
 	- **(b)** the junction referred to in paragraph (1)(c) is deemed to be served exclusively by the class 1 rail carrier referred to in that paragraph; and
 	- **(c)** the class 1 rail carrier referred to in paragraph (1)(c) is deemed to be the local carrier.
-> 1996, c. 10, s. 130; 2018, c. 10, s. 29.
+> 1996, c. 10, s. 130; 2018, c. 10, s. 29
 
 
 
@@ -3699,7 +3713,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Transferred railway lines**
 
 **131** For greater certainty, the transfer of a railway line, or an operating interest in it, under Division V or section 158 of the National Transportation Act, 1987 does not affect the right of a shipper to apply for a long-haul interswitching order.
-> 1996, c. 10, s. 131; 2018, c. 10, s. 29.
+> 1996, c. 10, s. 131; 2018, c. 10, s. 29
 
 
 
@@ -3710,7 +3724,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **132** The shipper shall, in its application for a long-haul interswitching order,
 - **(a)** provide an undertaking to the local carrier to move the traffic by rail with the local carrier between the point of origin or destination that is served exclusively by the local carrier and the nearest interchange in Canada with a connecting carrier in accordance with the long-haul interswitching order; and
 - **(b)** indicate the continuous route that the shipper has chosen for the movement of the shipper’s traffic.
-> 1996, c. 10, s. 132; 2018, c. 10, s. 29.
+> 1996, c. 10, s. 132; 2018, c. 10, s. 29
 
 
 
@@ -3719,7 +3733,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Dismissal of application**
 
 **133** The Agency shall dismiss the application for a long-haul interswitching order if the shipper does not demonstrate, to the Agency’s satisfaction, that an attempt has been made to resolve the matters referred to in the application.
-> 1996, c. 10, s. 133; 2018, c. 10, s. 29.
+> 1996, c. 10, s. 133; 2018, c. 10, s. 29
 
 
 
@@ -3740,7 +3754,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(2)** The Agency shall not make a long-haul interswitching order if the movement of the shipper’s traffic between the point of origin or destination that is served exclusively by the class 1 rail carrier and the nearest interchange in Canada exceeds the greater of
 	- **(a)** 1 200 km; and
 	- **(b)** 50% of the total number of kilometres over which the traffic is moved by rail in Canada.
-> 1996, c. 10, s. 134; 2018, c. 10, s. 29.
+> 1996, c. 10, s. 134; 2018, c. 10, s. 29
 
 
 
@@ -3774,7 +3788,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Factors to consider — rate**
 
 - **(4)** The Agency shall determine the rate described in paragraph (1)(b) by having regard to the factors described in subsection (3), the density of traffic on the lines of the local carrier on which the traffic is to be moved and any long-term investment needed in those lines.
-> 1996, c. 10, s. 135; 2018, c. 10, ss. 29, 95.
+> 1996, c. 10, s. 135; 2018, c. 10, ss. 29, 95
 
 
 
@@ -3795,7 +3809,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(3)** For the purposes of subsections (1) and (2),
 	- **(a)** if the traffic is to be moved through a port in Canada for import into Canada, that port is the point of origin; and
 	- **(b)** if the traffic is to be moved through a port in Canada for export out of Canada, that port is the point of destination.
-> 1996, c. 10, s. 136; 2018, c. 10, s. 29.
+> 1996, c. 10, s. 136; 2018, c. 10, s. 29
 
 
 
@@ -3804,7 +3818,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Nearest interchange**
 
 **136.1** The Agency shall determine the nearest interchange in Canada to be the one nearest to the point of origin or destination, whichever is served exclusively by the local carrier, in the reasonable direction of the movement of the traffic from the point of origin to the point of destination on the continuous route, unless the local carrier can demonstrate that the interchange cannot be used for engineering reasons.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3813,7 +3827,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Service obligations**
 
 **136.2** The Agency shall determine the manner in which the local carrier is to fulfil its service obligations by having regard to the considerations set out in paragraphs 116(1.2)(a) to (i).
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3822,7 +3836,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Duration of order**
 
 **136.3** The long-haul interswitching order applies to the parties for a period of one year as of the date of the order, unless the parties agree otherwise.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3837,7 +3851,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Publication not required**
 
 - **(2)** Subsection 117(3) does not apply in respect of the tariff.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3846,7 +3860,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **No final offer arbitration**
 
 **136.5** If a long-haul interswitching order is made by the Agency, the shipper is not entitled to submit any matter related to the movement of the traffic that is the subject of the order to the Agency for final offer arbitration under section 161.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3871,7 +3885,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Share of capital cost**
 
 - **(4)** If more than one connecting carrier moves the traffic that is the subject of the order, the capital cost is to be shared between the connecting carriers based on each connecting carrier’s share of the amount of traffic moved.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3880,7 +3894,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Regulations**
 
 **136.7** The Governor in Council may, for the purpose of paragraph 129(3)(k), make regulations specifying cases in which a shipper is not entitled to apply for a long-haul interswitching order.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3889,7 +3903,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Suspension of operation**
 
 **136.8** If the Governor in Council is of the opinion that the financial viability of a railway company is seriously affected by the operation of sections 129 to 136.7, the Governor in Council may, by order, suspend the operation of those sections during the period specified in the order.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3914,7 +3928,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Service obligations**
 
 - **(3)** For greater certainty, the removal of an interchange under subsection (2) does not relieve a railway company from its service obligations.
-> 2018, c. 10, s. 29.
+> 2018, c. 10, s. 29
 
 
 
@@ -3939,7 +3953,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Regulations**
 
 - **(3)** For the purposes of paragraph (2)(b), the Agency may make regulations respecting the manner in which a railway company’s liability under subsection (2) is to be dealt with between a company and a shipper.
-> 1996, c. 10, s. 137; 2015, c. 31, s. 9; 2018, c. 10, s. 30.
+> 1996, c. 10, s. 137; 2015, c. 31, s. 9; 2018, c. 10, s. 30
 
 
 
@@ -3948,7 +3962,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 **Complaints**
 
 **137.1** If, after receiving a complaint, the Agency finds that a railway company is not complying with subsection 137(1), the Agency may order it to take any measures that the Agency considers appropriate to comply with that subsection.
-> 2018, c. 10, s. 31.
+> 2018, c. 10, s. 31
 
 
 
@@ -4058,7 +4072,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Continued operation of a portion of a line**
 
 - **(4)** A railway company that sells, leases or otherwise transfers a portion of a grain-dependent branch line listed in Schedule I, or its operating interest in such a portion, to a person who intends to operate the portion shall continue to operate the remaining portion for three years, unless the Minister determines that it is not in the public interest for the company to do so.
-> 1996, c. 10, s. 141; 2000, c. 16, s. 5; 2007, c. 19, s. 35; 2018, c. 10, s. 32.
+> 1996, c. 10, s. 141; 2000, c. 16, s. 5; 2007, c. 19, s. 35; 2018, c. 10, s. 32
 
 
 
@@ -4083,7 +4097,7 @@ request two or more railway companies to consider the joint or common use of a r
 - **(3)** Subsection (2) does not apply and a railway company shall without delay take the steps described in section 143 if
 	- **(a)** the federal government, a provincial, municipal or district government or a community-based group endorsed in writing by such a government has written to the company to express an interest in acquiring all or a portion of a grain-dependent branch line that is listed in Schedule I for the purpose of continuing to operate that line or portion of a line; and
 	- **(b)** that line or portion of a line is indicated on the company’s plan as being a line or a portion of a line that the company intends to take steps to discontinue operating.
-> 1996, c. 10, s. 142; 2000, c. 16, s. 6; 2018, c. 10, s. 33.
+> 1996, c. 10, s. 142; 2000, c. 16, s. 6; 2018, c. 10, s. 33
 
 
 
@@ -4108,7 +4122,7 @@ request two or more railway companies to consider the joint or common use of a r
 	- **(b)** an indication as to whether or not section 96 applies to the land on which that railway line is located.
 
 - **(4)** [Repealed, 2007, c. 19, s. 36]
-> 1996, c. 10, s. 143; 2007, c. 19, s. 36; 2018, c. 10, s. 34.
+> 1996, c. 10, s. 143; 2007, c. 19, s. 36; 2018, c. 10, s. 34
 
 
 
@@ -4149,7 +4163,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Remedy if bad faith by an interested person**
 
 - **(7)** If, on complaint in writing by the railway company, the Agency finds that the interested person is not negotiating in good faith, the Agency may order that the railway company is no longer required to negotiate with the person.
-> 1996, c. 10, s. 144; 2000, c. 16, s. 7; 2007, c. 19, s. 37; 2018, c. 10, s. 35.
+> 1996, c. 10, s. 144; 2000, c. 16, s. 7; 2007, c. 19, s. 37; 2018, c. 10, s. 35
 
 
 
@@ -4170,7 +4184,7 @@ request two or more railway companies to consider the joint or common use of a r
 - **(3)** The declaration referred to in subsection (2) ceases to have effect if
 	- **(a)** VIA Rail Canada Inc. ceases to operate a passenger rail service on the portion of railway line to which the declaration relates; or
 	- **(b)** the operation of the railway line is discontinued.
-> 2007, c. 19, s. 38.
+> 2007, c. 19, s. 38
 
 
 
@@ -4227,7 +4241,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Net salvage value**
 
 - **(5)** If a government or an urban transit authority accepts the offer, but cannot agree with the railway company on the net salvage value within 90 days after the acceptance, the Agency may, on the application of the government or urban transit authority or the railway company, determine the net salvage value.
-> 1996, c. 10, s. 145; 2007, c. 19, s. 39; 2018, c. 10, s. 36.
+> 1996, c. 10, s. 145; 2007, c. 19, s. 39; 2018, c. 10, s. 36
 
 
 
@@ -4246,7 +4260,7 @@ request two or more railway companies to consider the joint or common use of a r
 **No obligation**
 
 - **(2)** If the railway line, or any interest of the railway company in it, is sold, leased or otherwise transferred by an agreement entered into through the process set out in sections 143 to 145 or otherwise, the railway company that conveyed the railway line has no obligations under this Act in respect of the operation of the railway line as and from the date the sale, lease or other transfer was completed and has no obligations with respect to any operations by any public passenger service provider over the railway line as and from that date.
-> 1996, c. 10, s. 146; 2007, c. 19, s. 40; 2018, c. 10, s. 37.
+> 1996, c. 10, s. 146; 2007, c. 19, s. 40; 2018, c. 10, s. 37
 
 
 
@@ -4261,7 +4275,7 @@ request two or more railway companies to consider the joint or common use of a r
 **No condition or obligation**
 
 - **(2)** If a railway line or operating interest in a railway line returns to a railway company that transferred it and the company decides to follow the process set out in sections 143 to 145 in respect of the railway line or operating interest, the company is not subject to subsection 142(2) in respect of the railway line or operating interest and has no obligations under this Act in respect of the operation of the railway line.
-> 2008, c. 5, s. 4.
+> 2008, c. 5, s. 4
 
 
 
@@ -4270,7 +4284,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Exception**
 
 **146.02** Despite section 146.01, if a railway line or operating interest in a railway line returns to a railway company referred to in that section and, before the day on which the return takes place, an agreement was in force between the person or entity that owned the railway line or had the operating interest in the railway line immediately before the return and a public passenger service provider as defined in section 87 in respect of the operation of a passenger rail service on that railway line, then, unless the public passenger service provider indicates otherwise before that day, the rights and obligations of the person or entity under the agreement in respect of the operation of that service on that line vest, as of that day, in the railway company and the railway company shall resume operations of the railway line.
-> 2008, c. 5, s. 8.
+> 2008, c. 5, s. 8
 
 
 
@@ -4285,7 +4299,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Compensation**
 
 - **(2)** If a railway company to which subsection 146.01(1) applies does not resume operations on a grain-dependent branch line listed in Schedule I within the period provided for in that subsection and does not enter into an agreement for the sale, lease or other transfer of that railway line, or applicable interest in that railway line, after following the process set out in sections 143 to 145, the railway company shall, beginning on the day after the last day on which its offer could have been accepted under section 145, make the annual payments referred to in subsection (1).
-> 2000, c. 16, s. 8; 2007, c. 19, s. 41(F); 2008, c. 5, s. 5.
+> 2000, c. 16, s. 8; 2007, c. 19, s. 41(F); 2008, c. 5, s. 5
 
 
 
@@ -4337,7 +4351,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Dismantling permitted**
 
 - **(8)** If the offer is not accepted, the railway company may dismantle the siding or spur on providing notice to the Agency.
-> 2007, c. 19, s. 42.
+> 2007, c. 19, s. 42
 
 
 
@@ -4360,7 +4374,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Costs**
 
 - **(4)** The applicant shall reimburse the Agency’s costs associated with the application.
-> 2007, c. 19, s. 42.
+> 2007, c. 19, s. 42
 
 
 
@@ -4369,7 +4383,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Railway rights of way**
 
 **146.4** Sections 146.2 and 146.3 apply, with any modifications that are necessary, to railway rights-of-way, that are located in metropolitan areas or within the territory served by any urban transit authority and in respect of which the sidings and spurs have been dismantled, that a railway company plans to sell, lease or otherwise transfer.
-> 2007, c. 19, s. 42.
+> 2007, c. 19, s. 42
 
 
 
@@ -4378,7 +4392,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Passenger railway stations**
 
 **146.5** Sections 146.2 and 146.3 apply, with any modifications that are necessary, to passenger railway stations in Canada that a railway company plans to sell, lease or otherwise transfer or dismantle.
-> 2007, c. 19, s. 42.
+> 2007, c. 19, s. 42
 
 
 
@@ -4387,7 +4401,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Complaints**
 
 **146.6** If, after receiving a complaint, the Agency finds that a railway company is not complying with this Division, the Agency may order it to take any measures that the Agency considers appropriate to comply with this Division.
-> 2018, c. 10, s. 38.
+> 2018, c. 10, s. 38
 
 
 
@@ -4431,7 +4445,7 @@ request two or more railway companies to consider the joint or common use of a r
 ***prescribed railway company*** means the Canadian National Railway Company, the Canadian Pacific Railway Company and any railway company that may be specified in the regulations; (*compagnie de chemin de fer régie*)
 
 ***Western Division*** means the part of Canada lying west of the meridian passing through the eastern boundary of the City of Thunder Bay, including the whole of the Province of Manitoba. (*région de l’Ouest*)
-> 1996, c. 10, s. 147; 2000, c. 16, s. 9; 2001, c. 26, s. 282; 2005, c. 24, s. 3; 2011, c. 25, s. 60; 2018, c. 10, s. 39.
+> 1996, c. 10, s. 147; 2000, c. 16, s. 9; 2001, c. 26, s. 282; 2005, c. 24, s. 3; 2011, c. 25, s. 60; 2018, c. 10, s. 39
 
 
 
@@ -4461,7 +4475,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Prohibition**
 
 - **(2)** No prescribed railway company shall establish a single car rate in a tariff in respect of the movement of grain from a grain delivery point on one of its branch lines that is more than three per cent higher than any single car rate in its tariffs for the movement of the same type of grain under substantially similar conditions for a substantially similar distance from the grain delivery point on one of its main lines that is nearest, as measured in a straight line, to the grain delivery point on the branch line.
-> 1996, c. 10, s. 149, c. 18, s. 41; 2000, c. 16, s. 10.
+> 1996, c. 10, s. 149, c. 18, s. 41; 2000, c. 16, s. 10
 
 
 
@@ -4501,7 +4515,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Agency to determine revenue**
 
 - **(6)** The Agency shall make the determination of a prescribed railway company’s revenues for the movement of grain in a crop year on or before December 31 of the following crop year.
-> 1996, c. 10, s. 150; 2000, c. 16, s. 10; 2018, c. 10, s. 40.
+> 1996, c. 10, s. 150; 2000, c. 16, s. 10; 2018, c. 10, s. 40
 
 
 
@@ -4555,7 +4569,7 @@ where
 **Making of adjustments**
 
 - **(6)** Despite subsection (5), the Agency shall make the adjustments referred to in paragraph (4)(c) at any time that it considers appropriate and determine the date when the adjusted index takes effect.
-> 1996, c. 10, s. 151; 2000, c. 16, s. 10; 2007, c. 19, s. 43; 2018, c. 10, s. 41.
+> 1996, c. 10, s. 151; 2000, c. 16, s. 10; 2007, c. 19, s. 43; 2018, c. 10, s. 41
 
 
 
@@ -4576,7 +4590,7 @@ where
 **Publication**
 
 - **(3)** The prescribed railway company shall publish the reports referred to in subsections (1) and (2) on its Internet site at the same time that they are provided to the Minister.
-> 2018, c. 10, s. 42.
+> 2018, c. 10, s. 42
 
 
 
@@ -4599,7 +4613,7 @@ where
 **Removal from list**
 
 - **(3)** The railway company may remove a siding from the list only after the expiry of 60 days after the publication of a notice of its intention to do so in a newspaper of general circulation in the area where the siding is located.
-> 2008, c. 5, s. 6.
+> 2008, c. 5, s. 6
 
 
 
@@ -4619,7 +4633,7 @@ where
 	- **(iii)** the average length of haul for the movement of grain in the base year;
 - **(c)** specifying a penalty for the purposes of subsection 150(2) and respecting the paying out of the penalty and the excess amount; and
 - **(d)** for carrying out the purposes and provisions of this Division.
-> 1996, c. 10, s. 152; 2000, c. 16, s. 10.
+> 1996, c. 10, s. 152; 2000, c. 16, s. 10
 
 
 
@@ -4643,7 +4657,7 @@ where
 **Application**
 
 - **(2)** Whenever a public passenger service provider and a railway company are unable to agree in respect of any matter raised in the context of the implementation of any matter previously decided by the Agency, either the public passenger service provider or the railway company may, after reasonable efforts to resolve the matter have been made, apply to the Agency to decide the matter.
-> 2007, c. 19, s. 44.
+> 2007, c. 19, s. 44
 
 
 
@@ -4663,7 +4677,7 @@ where
 	- **(c)** the cost of any improvements made by the railway company in relation to the public passenger service provider’s use of the railway company’s railway, land, equipment, facilities or services;
 	- **(d)** a reasonable contribution towards the railway company’s constant costs; and
 	- **(e)** the value of any benefits that would accrue to the railway company from any investment made by the public passenger service provider.
-> 2007, c. 19, s. 44.
+> 2007, c. 19, s. 44
 
 
 
@@ -4672,7 +4686,7 @@ where
 **Duration of decision**
 
 **152.3** Any decision of the Agency in respect of an application made under subsection 152.1(1) is binding on the parties for a period of five years after the day on which the decision is made, or for any other period agreed to by the parties that is specified in the decision.
-> 2007, c. 19, s. 44.
+> 2007, c. 19, s. 44
 
 
 
@@ -4693,7 +4707,7 @@ where
 **Exclusion**
 
 - **(2)** The Agency may, on application by a railway company or a public passenger service provider, exclude an agreement, or any specified portion of an agreement, from the application of paragraph (1)(b) on the grounds that harm would likely result to the applicant if the agreement, or the specified portion, were to be disclosed.
-> 2007, c. 19, s. 44.
+> 2007, c. 19, s. 44
 
 
 
@@ -4721,7 +4735,7 @@ where
 ***railway accident*** means any accident or incident that is associated with the operation,
 - **(a)** on a railway, whether or not that railway is within the legislative authority of Parliament, by a railway company, of rolling stock that contains a designated good that the company carries on a shipper’s behalf; or
 - **(b)** on a railway, by a person other than a railway company, of rolling stock that contains a designated good that the person carries on behalf of a person who sends or receives goods. (*accident ferroviaire*)
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4730,7 +4744,7 @@ where
 **Application**
 
 **152.6** This Division applies only to a railway company that holds a certificate of fitness that was issued under paragraph 92(1)(b) in respect of the operation of a railway for which that certificate was issued.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4753,7 +4767,7 @@ where
 **Non-application**
 
 - **(3)** The limit of liability referred to in subsection (1) does not apply to the railway company if it is proved that the railway accident resulted from any act or omission of that company that was committed either with intent to cause the accident or recklessly and with the knowledge that the accident would probably result.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4762,7 +4776,7 @@ where
 **No proof of fault or negligence**
 
 **152.8** A railway company’s liability under subsection 152.7(1) does not depend on proof of fault or negligence.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4771,7 +4785,7 @@ where
 **Liability under another Act**
 
 **152.9** If a railway company is liable, without proof of fault or negligence, under subsection 152.7(1) and under any other Act with respect to the same railway accident, the company is liable under that subsection up to the greater of the limit of liability for an amount that is referred to in that subsection and the limit up to which the company is liable under the other Act. If the other Act does not set out a limit of liability, the limit set out in that subsection does not apply.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4800,7 +4814,7 @@ where
 **Costs and expenses not recoverable under [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md)**
 
 - **(4)** The costs and expenses that are recoverable by Her Majesty in right of Canada or a province under this Division are not recoverable under subsection 42(1) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
-> 1996, c. 10, s. 153; 2000, c. 16, s. 10; 2015, c. 31, s. 10.
+> 1996, c. 10, s. 153; 2000, c. 16, s. 10; 2015, c. 31, s. 10
 
 
 
@@ -4811,7 +4825,7 @@ where
 **153.1** A railway company is not liable under subsection 152.7(1) if it establishes that
 - **(a)** the railway accident resulted from an act of war, hostilities, civil war or insurrection; or
 - **(b)** any other defence set out in the regulations applies.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4834,7 +4848,7 @@ where
 **Proceedings — loss of non-use value**
 
 - **(4)** Only Her Majesty in right of Canada or a province may institute proceedings to recover a loss of non-use value described in paragraph 153(1)(c).
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4843,7 +4857,7 @@ where
 **Railway company’s rights against third parties**
 
 **153.3** Nothing in this Division shall be construed as limiting or restricting any right of recourse that a railway company may have against another person.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4878,7 +4892,7 @@ where
 	- **(b)** every amount paid out of the Consolidated Revenue Fund under subsection 154.2(3);
 	- **(c)** every amount paid as a result of subsection 155(1); and
 	- **(d)** the amount of any judgment and any costs awarded as the result of an appeal made under subsection 154.9(2) or section 155.1.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4887,7 +4901,7 @@ where
 **Interest to be credited to Fund**
 
 **153.5** The Minister of Finance shall cause to be credited to the Fund interest, calculated in the manner and at the rate determined by the Governor in Council, on the balance of that Fund.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4896,7 +4910,7 @@ where
 **Consolidated Revenue Fund**
 
 **153.6** If the amount to the credit of the Fund is insufficient to pay any amount that is charged to the Fund under any of paragraphs 153.4(3)(b) to (d), the Minister of Finance may, subject to any terms and conditions that he or she considers appropriate, direct that a sum equal to the amount required to be paid be charged to the Consolidated Revenue Fund and credited to the Fund.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4923,7 +4937,7 @@ where
 **Continuation in office**
 
 - **(4)** If an Administrator is not appointed to take office on the expiry of the incumbent Administrator’s term, the incumbent continues to hold office until the earlier of the day fixed by the Governor in Council and the day on which a successor is appointed.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4942,7 +4956,7 @@ where
 **Reappointment**
 
 - **(3)** The Deputy Administrator is eligible for reappointment on the expiry of his or her term of office.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4957,7 +4971,7 @@ where
 **Administrator’s absence or incapacity**
 
 - **(2)** If the Administrator is absent or incapacitated or the office of Administrator is vacant, the Deputy Administrator has all the powers, duties and functions of the Administrator.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -4966,7 +4980,7 @@ where
 **Resignation**
 
 **154** The resignation of an Administrator or Deputy Administrator becomes effective at the time that the Minister receives a written resignation from him or her or at the time specified in the resignation, whichever is later.
-> 1996, c. 10, s. 154; 2000, c. 16, s. 10; 2015, c. 31, s. 10.
+> 1996, c. 10, s. 154; 2000, c. 16, s. 10; 2015, c. 31, s. 10
 
 
 
@@ -4981,7 +4995,7 @@ where
 **Effect of contravention**
 
 - **(2)** If the Administrator or Deputy Administrator contravenes subsection (1), his or her appointment is terminated on a day fixed by the Governor in Council that is not later than 30 days after the day on which the notice of the contravention is received by the Minister, but the contravention does not affect the validity of any act performed by the Administrator or Deputy Administrator, as the case may be, under this Division between the day on which the contravention occurred and the day on which the appointment is terminated.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5004,7 +5018,7 @@ where
 **Taxation**
 
 - **(4)** The Federal Court’s assessment officers may, at the Minister of Justice’s request, tax any account for costs and expenses, other than expenses referred to in subsection (2), incurred by the Administrator and the Deputy Administrator in exercising their powers or performing their duties and functions under this Division as if they were acting for Her Majesty in proceedings in that Court.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5013,7 +5027,7 @@ where
 **Assistance**
 
 **154.3** The Administrator may, for the purpose of exercising his or her powers or performing his or her duties and functions under this Division, obtain any professional, technical or other advice or assistance that he or she considers necessary.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5032,7 +5046,7 @@ where
 **Burden of proof**
 
 - **(2)** The claimant is not required to satisfy the Administrator that the loss, damage, cost or expense resulted from the railway accident, but the Administrator shall dismiss the claim if he or she is satisfied that the loss, damage, cost or expense did not result from the railway accident.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5047,7 +5061,7 @@ where
 **Rate**
 
 - **(2)** The rate for the purposes of subsection (1) is the rate prescribed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5070,7 +5084,7 @@ where
 - **(3)** The Administrator shall reduce or nullify any amount of a claim that he or she would have otherwise assessed in proportion to the degree to which he or she is satisfied that the claim resulted from
 	- **(a)** an act done or omitted to be done by the claimant with the intent to incur a loss, damage, cost or expense; or
 	- **(b)** the claimant’s negligence.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5085,7 +5099,7 @@ where
 **Offer of compensation — more than one railway company**
 
 - **(2)** If two or more railway companies are liable under subsection 152.7(1) for the losses, damages, costs or expenses described in subsection 153(1) that resulted from the railway accident to which a claim made under section 154.4 relates, the Administrator shall — if he or she is satisfied that the railway companies have paid, in respect of all losses, damages, costs or expenses described in subsection 153(1) that resulted from the railway accident, an amount equal to or greater than the sum that is equal to the total of the amount of the minimum liability insurance coverage that each of the railway companies was required to maintain under paragraph 93.1(1)(b) for the operation of its railway involved in the railway accident — make an offer of compensation to the claimant for whatever portion of the claim that the Administrator finds to be established and for which the railway companies have not provided compensation.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5094,7 +5108,7 @@ where
 **Administrator’s powers**
 
 **154.8** For the purpose of investigating and assessing a claim and determining the amount, if any, that a railway company has paid as compensation in relation to the railway accident to which the claim relates, the Administrator has the powers of a commissioner under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5109,7 +5123,7 @@ where
 **Appeal to Federal Court — adequacy**
 
 - **(2)** The claimant may, before the expiry of the applicable period under subsection (1), appeal the adequacy of the offer to the Federal Court.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5137,7 +5151,7 @@ where
 **Clarification**
 
 - **(4)** If a railway company’s limit of liability for the railway accident to which the offer of compensation relates is, by reason of section 152.9, higher than its limit of liability under subsection 152.7(1), nothing in paragraph (2)(c) is to be construed as permitting the Administrator to recover from the railway company an amount that is greater than the difference between the two limits of liability.
-> 1996, c. 10, s. 155; 2000, c. 16, s. 10; 2015, c. 31, s. 10.
+> 1996, c. 10, s. 155; 2000, c. 16, s. 10; 2015, c. 31, s. 10
 
 
 
@@ -5146,7 +5160,7 @@ where
 **Appeal to Federal Court — notice of dismissal**
 
 **155.1** A claimant who has received a notification that the Administrator has dismissed their claim may, within 60 days after receiving the notification, appeal the dismissal to the Federal Court.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5165,7 +5179,7 @@ where
 **Administrator is party**
 
 - **(2)** The Administrator is a party to the proceedings referred to in subsection (1) and may appear for the purpose of taking any measure that he or she considers appropriate for the proper administration of the Fund.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5178,7 +5192,7 @@ where
 **Levy — crude oil**
 
 **155.3** The levy for the carriage, on a railway, of crude oil is $1.65 per tonne in the year ending on March 31, 2016, adjusted annually in accordance with section 155.4.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5205,8 +5219,8 @@ where
 
 **Adjusted levy to be published**
 
-- **(4)** The Minister shall cause the levy for the carriage of crude oil that is adjusted in accordance with this section to be published in the Canada Gazette as soon as it is available, and the levy so published is admissible in any proceedings as conclusive proof of the levy for the year in question.
-> 2015, c. 31, s. 10.
+- **(4)** The Minister shall cause the levy for the carriage of crude oil that is adjusted in accordance with this section to be published in the [Canada Gazette](http://www.gazette.gc.ca/) as soon as it is available, and the levy so published is admissible in any proceedings as conclusive proof of the levy for the year in question.
+> 2015, c. 31, s. 10
 
 
 
@@ -5215,7 +5229,7 @@ where
 **Levy — other traffic**
 
 **155.5** The levy for the carriage, on a railway, of any traffic, other than crude oil, that is specified in the regulations — or for the carriage of any traffic or any class of traffic, other than crude oil, that is specified in the regulations — is the amount specified in the regulations, or calculated in accordance with them.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5230,7 +5244,7 @@ where
 **Revocation**
 
 - **(2)** If such an order is made, the Minister shall revoke it as soon as feasible after an amount equal to the amount charged to the Consolidated Revenue Fund under section 153.6 has been credited to the Consolidated Revenue Fund out of amounts standing to the credit of the Fund and the Minister is satisfied that the terms and conditions in relation to the charging of that amount under that section have been met.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5255,7 +5269,7 @@ where
 **Meaning of calendar quarter**
 
 - **(4)** In this section, ***calendar quarter*** means a three-month period that begins on the first day of January, April, July or October.
-> 2015, c. 31, s. 10; 2018, c. 10, s. 59(F).
+> 2015, c. 31, s. 10; 2018, c. 10, s. 59(F)
 
 
 
@@ -5270,7 +5284,7 @@ where
 **Partial payment**
 
 - **(2)** If a partial payment is made, the period for which interest is payable in respect of the amount paid ends on the day before the day on which the partial payment is received by the Receiver General.
-> 2015, c. 31, s. 10; 2018, c. 10, s. 43.
+> 2015, c. 31, s. 10; 2018, c. 10, s. 43
 
 
 
@@ -5279,7 +5293,7 @@ where
 **Debt due to Her Majesty**
 
 **155.81** All amounts payable under subsection 155.7(1) and section 155.8 are debts due to Her Majesty in right of Canada and are recoverable in any court of competent jurisdiction from the railway company that is required to pay them.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5288,7 +5302,7 @@ where
 **Power to require information**
 
 **155.82** The Minister may direct that a railway company provide, in the specified form and within the specified period, information or documents that he or she considers necessary for the purposes of ensuring compliance with this Division.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5303,7 +5317,7 @@ where
 **Annual adjustment of levy unaffected**
 
 - **(2)** The making of an order under subsection (1) does not affect the operation of section 155.4 in respect of any levy.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5326,7 +5340,7 @@ where
 **Examination of records**
 
 - **(3)** Every railway company that is required by subsection (1) to keep records and books of account shall, at all reasonable times, make the records and books of account, and every account or voucher that is necessary to verify the information contained in them, available to any person designated under subsection 155.85(1) and give that person every facility that is necessary to examine them.
-> 2015, c. 31, s. 10; 2018, c. 10, s. 59(F).
+> 2015, c. 31, s. 10; 2018, c. 10, s. 59(F)
 
 
 
@@ -5341,7 +5355,7 @@ where
 **Certificate of designation**
 
 - **(2)** Every person who is designated under subsection (1) is to be provided with a certificate of their designation that must be produced, on request, to the owner, occupier or person in charge of any place referred to in subsection 155.86(1) when the designated person enters the place.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5372,7 +5386,7 @@ where
 **Assistance**
 
 - **(4)** The owner or person in charge of the place and every person in the place shall give all assistance that is reasonably required to enable the designated person to exercise their powers or perform their duties or functions under this section and shall provide any documents or information, and access to any data, that is reasonably required.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5390,7 +5404,7 @@ where
 	- **(a)** the dwelling-house is a place referred to in subsection 155.86(1);
 	- **(b)** entry to the dwelling-house is necessary for the purpose of that subsection; and
 	- **(c)** entry was refused by the occupant or there are reasonable grounds to believe that entry will be refused by, or that consent to entry cannot be obtained from, the occupant.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5399,7 +5413,7 @@ where
 **Report to Minister**
 
 **155.88** On the conclusion of an inspection, the designated person shall provide a written report of their findings to the Minister.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5414,7 +5428,7 @@ where
 **Notice of application for extension of time**
 
 - **(2)** An application to a judge for a direction under subsection (1) may only be made on notice to the person from whose custody the document is removed.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5423,7 +5437,7 @@ where
 **Copies of documents**
 
 **155.9** A document purporting to be certified by the Minister to be a copy of a document made under subsection 155.86(2) is admissible in evidence in any prosecution for an offence in respect of a contravention of a provision of this Division or of a regulation made under this Division — or in respect of a contravention of an order made under this Division — and, in the absence of evidence to the contrary, is proof of its contents.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5438,7 +5452,7 @@ where
 **Obstruction**
 
 - **(2)** No person shall knowingly obstruct or hinder a person who is exercising powers or performing duties or functions under section 155.86.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5462,7 +5476,7 @@ where
 	- **(a)** the Administrator’s and Deputy Administrator’s powers, duties and functions under this Division are exercised and performed effectively and in accordance with this Division;
 	- **(b)** the assets used by them are safeguarded and controlled; and
 	- **(c)** the financial, human and physical resources used by them are managed economically and efficiently.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5486,7 +5500,7 @@ where
 **Definition of fiscal year**
 
 - **(3)** In this section, ***fiscal year*** means the period that begins on April 1 in one calendar year and that ends on March 31 in the next calendar year.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5517,7 +5531,7 @@ where
 **Resolution of disagreements**
 
 - **(6)** Any disagreement between the examiner and the Administrator with respect to the plan is to be resolved by the Minister.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5534,7 +5548,7 @@ where
 - **(2)** The examiner’s report must include
 	- **(a)** a statement as to whether, in their opinion, with respect to the criteria established under subsection 155.94(5), there is reasonable assurance that there are no significant deficiencies in the systems and practices examined; and
 	- **(b)** a statement of the extent to which they relied on internal audits.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5553,7 +5567,7 @@ where
 - **(2)** At the examiner’s request, the Administrator shall
 	- **(a)** provide any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Division and that the Administrator is reasonably able to provide; and
 	- **(b)** obtain from any former Administrator or the present or any former Deputy Administrator — or from any present or any former employee or agent or mandatary of the present or former Administrator or Deputy Administrator — any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Division and that any of those persons are reasonably able to provide, and then provide the examiner with the information and explanations so obtained.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5573,7 +5587,7 @@ where
 - **(e)** respecting the keeping, by railway companies, of information in relation to their carriage of any traffic in respect of which there is a levy under section 155.3 or 155.5, or a levy imposed by an order made under section 155.6, and the filing of that information with the Minister;
 - **(f)** [Repealed, 2018, c. 10, s. 44]
 - **(g)** generally for carrying out the purposes and provisions of this Division.
-> 2015, c. 31, s. 10; 2018, c. 10, s. 44.
+> 2015, c. 31, s. 10; 2018, c. 10, s. 44
 
 
 
@@ -5586,7 +5600,7 @@ where
 **Sections 26 and 37**
 
 **155.98** For the purposes of sections 26 and 37, this Division is deemed not to be a part of an Act of Parliament that is referred to in those sections.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10
 
 
 
@@ -5655,7 +5669,7 @@ where
 **Costing information**
 
 - **(5)** No later than August 31 of every year, the Canadian National Railway Company and the Canadian Pacific Railway Company shall provide to the Agency, in the form and manner specified by the Agency, all unit costs, output units and other financial, statistical and supporting information for the preceding calendar year that is required for the determination of costs by the Agency under this Part.
-> 1996, c. 10, s. 157; 2018, c. 10, s. 45.
+> 1996, c. 10, s. 157; 2018, c. 10, s. 45
 
 
 
@@ -5680,7 +5694,7 @@ where
 **Functions, duties and powers**
 
 - **(3)** The designated body, person or class of persons may perform any function or duty and exercise any powers necessary for the enforcement of the law, to the extent specified in the agreement.
-> 1996, c. 10, s. 157.1; 2003, c. 22, s. 224(E); 2007, c. 19, s. 46; 2012, c. 7, s. 39.
+> 1996, c. 10, s. 157.1; 2003, c. 22, s. 224(E); 2007, c. 19, s. 46; 2012, c. 7, s. 39
 
 
 
@@ -5689,7 +5703,7 @@ where
 **Agreements made with provincial authorities**
 
 **158** The Minister may enter into an agreement with a provincial authority to authorize the provincial authority to regulate the construction and operation of a railway as well as the rates and conditions of service in the same manner and to the same extent as it may regulate a railway within its jurisdiction.
-> 1996, c. 10, s. 158; 2007, c. 19, s. 47; 2012, c. 7, s. 40.
+> 1996, c. 10, s. 158; 2007, c. 19, s. 47; 2012, c. 7, s. 40
 
 
 
@@ -5733,7 +5747,7 @@ where
 **Rail passenger services**
 
 **160** Sections 161 to 169 also apply, with any modifications that the circumstances require, in respect of the rates charged or proposed to be charged by, and in respect of any of the conditions associated with the provision of services by, a railway company to any other railway company engaged in passenger rail services, except a public passenger service provider as defined in section 87.
-> 1996, c. 10, s. 160; 2008, c. 5, s. 8.
+> 1996, c. 10, s. 160; 2008, c. 5, s. 8
 
 
 
@@ -5761,7 +5775,7 @@ where
 **Final offer arbitration not a proceeding**
 
 - **(4)** A final offer arbitration is not a proceeding before the Agency.
-> 1996, c. 10, s. 161; 2000, c. 16, s. 11; 2018, c. 10, s. 46.
+> 1996, c. 10, s. 161; 2000, c. 16, s. 11; 2018, c. 10, s. 46
 
 
 
@@ -5780,7 +5794,7 @@ where
 **If no final offer from a party**
 
 - **(3)** If one party does not submit a final offer in accordance with subsection (1), the final offer submitted by the other party is deemed to be the final offer selected by the arbitrator under subsection 165(1).
-> 2000, c. 16, s. 12.
+> 2000, c. 16, s. 12
 
 
 
@@ -5807,7 +5821,7 @@ where
 **Assistance by Agency**
 
 - **(2)** The Agency may, at the request of the arbitrator, provide administrative, technical and legal assistance to the arbitrator on a cost recovery basis.
-> 1996, c. 10, s. 162; 2000, c. 16, s. 13.
+> 1996, c. 10, s. 162; 2000, c. 16, s. 13
 
 
 
@@ -5818,7 +5832,7 @@ where
 **162.1** The Agency may, in addition to any other decision or order it may make, order that an arbitration be discontinued, that it be continued subject to the terms and conditions that the Agency may fix or that the decision of the arbitrator be set aside if
 - **(a)** the Agency makes a decision or an order arising out of an application that is in respect of a matter submitted to the Agency for a final offer arbitration and that is filed by a carrier before the matter is referred to arbitration; and
 - **(b)** the decision or order affects the arbitration.
-> 2000, c. 16, s. 14.
+> 2000, c. 16, s. 14
 
 
 
@@ -5868,7 +5882,7 @@ where
 - **(a)** within seven days after a matter is referred to an arbitrator, the shipper and the carrier may file with the arbitrator a response to the final offer of the other party;
 - **(b)** subject to paragraph (c), the arbitrator shall decide the matter on the basis of the final offers and any response filed under paragraph (a); and
 - **(c)** if the arbitrator considers it necessary, the arbitrator may invite the parties to make oral representations or may ask the parties to appear before him or her to provide further information.
-> 2000, c. 16, s. 15; 2018, c. 10, s. 47.
+> 2000, c. 16, s. 15; 2018, c. 10, s. 47
 
 
 
@@ -5896,8 +5910,8 @@ where
 
 **Maximum amount to be published**
 
-- **(3)** The Agency shall adjust the maximum amount in accordance with subsection (1) and cause it to be published in the Canada Gazette no later than March 31 before the commencement of the three-year period for which the maximum amount applies, and that published amount is conclusive proof of the maximum amount for that three-year period.
-> 2018, c. 10, s. 48.
+- **(3)** The Agency shall adjust the maximum amount in accordance with subsection (1) and cause it to be published in the [Canada Gazette](http://www.gazette.gc.ca/) no later than March 31 before the commencement of the three-year period for which the maximum amount applies, and that published amount is conclusive proof of the maximum amount for that three-year period.
+> 2018, c. 10, s. 48
 
 
 
@@ -5937,7 +5951,7 @@ where
 **Payment by party**
 
 - **(7)** Moneys and interest referred to in paragraph (6)(b) that are owed by a party pursuant to a decision of the arbitrator shall be paid without delay to the other party.
-> 1996, c. 10, s. 165; 2000, c. 16, s. 16; 2018, c. 10, s. 49.
+> 1996, c. 10, s. 165; 2000, c. 16, s. 16; 2018, c. 10, s. 49
 
 
 
@@ -5987,7 +6001,7 @@ where
 **Publication of list**
 
 - **(3)** The Agency shall have the list of persons made known to representatives of shippers and carriers throughout Canada.
-> 1996, c. 10, s. 169; 2000, c. 16, s. 17.
+> 1996, c. 10, s. 169; 2000, c. 16, s. 17
 
 
 
@@ -6020,7 +6034,7 @@ where
 **Mediator not to act in other proceedings**
 
 - **(6)** The person who acts as mediator may not act in any other proceedings in relation to any matter that was at issue in the mediation.
-> 2008, c. 5, s. 7.
+> 2008, c. 5, s. 7
 
 
 
@@ -6054,7 +6068,7 @@ where
 	- **(a)** the period referred to in subsection 161.1(1) is 20 days;
 	- **(b)** the arbitrator may, if he or she considers it necessary, extend any of the periods referred to in subsections 163(3) and (4) and paragraph 164.1(a); and
 	- **(c)** the decision of the arbitrator shall, despite paragraph 165(2)(b), be rendered within 120 days or, in the case of an arbitration conducted in accordance with section 164.1, 90 days after the day on which the submission for the final offer arbitration is received by the Agency unless the parties agree otherwise.
-> 2008, c. 5, s. 7.
+> 2008, c. 5, s. 7
 
 
 
@@ -6085,7 +6099,7 @@ where
 **Deemed conformity**
 
 - **(6)** If no application referred to in subsection (1) is filed within the limit set out in that subsection, the matter submitted jointly is deemed to conform to the requirements of subsection 169.2(2).
-> 2008, c. 5, s. 7.
+> 2008, c. 5, s. 7
 
 
 
@@ -6130,7 +6144,7 @@ where
 **Clarification**
 
 - **(4)** For greater certainty, a rate for the movement of the traffic is not to be subject to arbitration.
-> 2013, c. 31, s. 11; 2014, c. 8, s. 8; 2018, c. 10, ss. 50, 95.
+> 2013, c. 31, s. 11; 2014, c. 8, s. 8; 2018, c. 10, ss. 50, 95
 
 
 
@@ -6150,7 +6164,7 @@ where
 **Copy of submission served**
 
 - **(2)** The shipper must serve a copy of the submission on the railway company on the day on which it submits the matters to the Agency for arbitration.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6167,7 +6181,7 @@ where
 **Content of notice**
 
 - **(2)** The notice must contain the descriptions referred to in paragraphs 169.32(1)(a) and (b) and, if the shipper’s submission will contain an undertaking described in paragraph 169.32(1)(c), a description of that undertaking.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6199,7 +6213,7 @@ where
 **If no proposal from party**
 
 - **(5)** If one party does not submit a proposal in accordance with subsection (1), the proposal submitted by the other party is the arbitrator’s decision made under section 169.37.
-> 2013, c. 31, s. 11; 2018, c. 10, s. 51.
+> 2013, c. 31, s. 11; 2018, c. 10, s. 51
 
 
 
@@ -6222,7 +6236,7 @@ where
 **Arbitration not proceeding**
 
 - **(4)** The arbitration is not a proceeding before the Agency.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6241,7 +6255,7 @@ where
 **Questions**
 
 - **(3)** Each party may direct questions to the other in the manner that the arbitrator considers appropriate.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6273,7 +6287,7 @@ where
 **Efficiency**
 
 - **(3)** The arbitrator shall establish a term with respect to an amount described in paragraph 169.31(1)(c.1) in a manner that encourages the efficient movement of the shipper’s traffic and the performance of the railway system and that is balanced between the shipper and the railway company.
-> 2013, c. 31, s. 11; 2018, c. 10, s. 52.
+> 2013, c. 31, s. 11; 2018, c. 10, s. 52
 
 
 
@@ -6303,7 +6317,7 @@ where
 **Copy of decision to Agency**
 
 - **(5)** The arbitrator must provide the Agency with a copy of his or her decision.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6326,7 +6340,7 @@ where
 **Cost related to arbitration**
 
 - **(4)** Costs related to the arbitration also include the cost to the Agency when a member or a person on the staff of the Agency acts as an arbitrator and the Agency does not fix a fee for that arbitrator under subsection (1).
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6341,7 +6355,7 @@ where
 **Limited disclosure**
 
 - **(2)** Despite subsection (1), the Agency may, in the exercise of its powers or in the performance of its duties and functions under this Act, disclose any information that a party advised the Agency and the arbitrator it wishes to keep confidential.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6350,7 +6364,7 @@ where
 **Termination of proceedings**
 
 **169.41** If, before the arbitrator makes his or her decision, the parties advise the Agency or the arbitrator that they agree that the matters being arbitrated should be withdrawn from arbitration, any proceedings in respect of those matters are immediately terminated.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6369,7 +6383,7 @@ where
 **Publication of list**
 
 - **(3)** The Agency must publish the list on its Internet site.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6392,7 +6406,7 @@ where
 **Period for making decision**
 
 - **(3)** The Agency must make a decision on the railway company’s application made under subsection (1) as soon as feasible but not later than 35 days after the day on which it receives the application.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11
 
 
 
@@ -6403,11 +6417,24 @@ where
 
 
 
+**Definitions**
+
+**169.5** The following definitions apply in paragraph 5(d.1) and this Part.
+
+***barrier*** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with an impairment, including a physical, mental, intellectual, cognitive, learning, communication or sensory impairment or a functional limitation. (*obstacle*)
+
+***disability*** means any impairment, including a physical, mental, intellectual, cognitive, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, or evident or not, that, in interaction with a barrier, hinders a person’s full and equal participation in society. (*handicap*)
+> 2019, c. 10, s. 169
+
+
+
+
+
 **Regulations**
 
 **170** 
 
-- **(1)** The Agency may make regulations for the purpose of eliminating undue obstacles in the transportation network under the legislative authority of Parliament to the mobility of persons with disabilities, including regulations respecting
+- **(1)** The Agency may, after consulting with the Minister, make regulations for the purpose of identifying or removing barriers or preventing new barriers — particularly barriers in the built environment, information and communication technologies and the design and delivery of programs and services — in the transportation network under the legislative authority of Parliament to the mobility of persons with disabilities, including regulations respecting
 	- **(a)** the design, construction or modification of, and the posting of signs on, in or around, means of transportation and related facilities and premises, including equipment used in them;
 	- **(b)** the training of personnel employed at or in those facilities or premises or by carriers;
 	- **(c)** tariffs, rates, fares, charges and terms and conditions of carriage applicable in respect of the transportation of persons with disabilities or incidental services; and
@@ -6421,29 +6448,110 @@ where
 
 - **(3)** The Agency may, with the approval of the Governor in Council, make orders exempting specified persons, means of transportation, services or related facilities and premises from the application of regulations made under subsection (1).
 
+**Exemption**
+
+- **(4)** On application and after consulting with the Minister, the Agency may, by order, on any terms that it considers necessary,
+	- **(a)** exempt a person from the application of regulations made under subsection (1) if the Agency is satisfied that the person has taken or will take measures — at least equivalent to those that must be taken under the provisions of the regulations for which an exemption is to be granted — to remove barriers or to prevent new barriers; or
+	- **(b)** exempt a class of persons from the application of regulations made under subsection (1) if the Agency is satisfied that all the members of the class have taken or will take measures — at least equivalent to those that must be taken under the provisions of the regulations for which an exemption is to be granted — to remove barriers or to prevent new barriers.
+The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
+> 1996, c. 10, s. 1702019, c. 10, s. 170
+
+
 
 
 
 **Coordination**
 
 **171** The Agency and the Canadian Human Rights Commission shall coordinate their activities in relation to the transportation of persons with disabilities in order to foster complementary policies and practices and to avoid jurisdictional conflicts.
+> 1996, c. 10, s. 1712019, c. 10, s. 171(F)
 
 
 
 
-**Inquiry re obstacles to persons with disabilities**
+
+**Inquiry — barriers to mobility**
 
 **172** 
 
-- **(1)** The Agency may, on application, inquire into a matter in relation to which a regulation could be made under subsection 170(1), regardless of whether such a regulation has been made, in order to determine whether there is an undue obstacle to the mobility of persons with disabilities.
-
-**Compliance with regulations**
-
-- **(2)** Where the Agency is satisfied that regulations made under subsection 170(1) that are applicable in relation to a matter have been complied with or have not been contravened, the Agency shall determine that there is no undue obstacle to the mobility of persons with disabilities.
+- **(1)** The Agency may, on application, inquire into a matter in relation to which a regulation could be made under subsection 170(1), regardless of whether such a regulation has been made, in order to determine whether there is an undue barrier to the mobility of persons with disabilities.
 
 **Remedies**
 
-- **(3)** On determining that there is an undue obstacle to the mobility of persons with disabilities, the Agency may require the taking of appropriate corrective measures or direct that compensation be paid for any expense incurred by a person with a disability arising out of the undue obstacle, or both.
+- **(2)** On determining that there is an undue barrier to the mobility of persons with disabilities, the Agency may do one or more of the following:
+	- **(a)** require the taking of appropriate corrective measures;
+	- **(b)** direct that compensation be paid for any expense incurred by a person with a disability arising out of the barrier, including for any costs of obtaining alternative goods, services or accommodation;
+	- **(c)** direct that compensation be paid for any wages that a person with a disability was deprived of as a result of the barrier;
+	- **(d)** direct that compensation be paid up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, for any pain and suffering experienced by a person with a disability arising out of the barrier;
+	- **(e)** direct that compensation be paid up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, if the Agency determines that the barrier is the result of a wilful or reckless practice.
+
+**Compliance with regulations**
+
+- **(3)** If the Agency is satisfied that regulations made under subsection 170(1) that are applicable in relation to a matter have been complied with or have not been contravened, the Agency may determine that there is an undue barrier in relation to that matter but if it does so, it may only require the taking of appropriate corrective measures.
+> 1996, c. 10, s. 1722019, c. 10, s. 172
+
+
+
+
+
+**Inquiry — subsection 170(1)**
+
+**172.1** 
+
+- **(1)** The Agency may, on application, inquire into a matter concerning any regulations made under subsection 170(1) to determine if the applicant has suffered physical or psychological harm, property damage or economic loss arising out of — or has otherwise been adversely affected by — a contravention of any provision of those regulations.
+
+**Remedies**
+
+- **(2)** On determining that an applicant has suffered physical or psychological harm, property damage or economic loss arising out of — or has otherwise been adversely affected by — a contravention referred to in subsection (1), the Agency may do one or more of the following:
+	- **(a)** require the taking of appropriate corrective measures;
+	- **(b)** direct that compensation be paid to the applicant for any expense incurred by them arising out of the contravention, including for any costs of obtaining alternative goods, services or accommodation;
+	- **(c)** direct that compensation be paid to the applicant for any wages that they were deprived of as a result of the contravention;
+	- **(d)** direct that compensation be paid to the applicant up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, for any pain and suffering experienced by them arising out of the contravention;
+	- **(e)** direct that compensation be paid to the applicant up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, if the Agency determines that the contravention is the result of a wilful or reckless practice.
+> 2019, c. 10, s. 172
+
+
+
+
+
+**Annual adjustment**
+
+**172.2** 
+
+- **(1)** For the purpose of paragraphs 172(2)(d) and (e) and 172.1(2)(d) and (e), the maximum amount shall be adjusted annually so that in any calendar year following the one during which this section comes into force it is equivalent to the product of
+	- **(a)** the amount that would have been the maximum amount for that following calendar year if no adjustment had been made under this section with respect to that year, and
+	- **(b)** the ratio that the Consumer Price Index for the preceding calendar year bears to the Consumer Price Index for the calendar year next before that preceding calendar year.
+
+**Consumer Price Index**
+
+- **(2)** For the purpose of subsection (1), a reference to the Consumer Price Index for any 12-month period means the average of the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for each month in that 12-month period.
+
+**Publication of adjusted amount**
+
+- **(3)** When a maximum amount is adjusted in accordance with this section, the Agency shall publish the maximum amount as so adjusted as soon as it is determined.
+
+**Interest**
+
+- **(4)** A direction to pay compensation under any of paragraphs 172(2)(b) and (c) and 172.1(2)(b) and (c) may include an award of interest at a rate and for a period that the Agency considers appropriate.
+> 2019, c. 10, s. 172
+
+
+
+
+
+**Inquiry — transportation of persons with disabilities**
+
+**172.3** The Agency may on its own initiative, with the Minister’s approval and on any terms that he or she considers appropriate, inquire into any matter or thing that concerns transportation to which the legislative authority of Parliament extends and that relates to the mobility of persons with disabilities.
+> 2019, c. 10, s. 172
+
+
+
+
+
+**Participant funding program**
+
+**172.4** The Agency may establish a participant funding program to facilitate the participation of persons with disabilities in hearings that are held for the purposes of inquiries made under section 172, 172.1 or 172.3.
+> 2019, c. 10, s. 172
+
 
 
 
@@ -6500,7 +6608,7 @@ where
 **Definition of Tribunal**
 
 **176.1** For the purposes of sections 180.1 to 180.7, ***Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md).
-> 2007, c. 19, s. 48.
+> 2007, c. 19, s. 48
 
 
 
@@ -6542,8 +6650,10 @@ as a provision, requirement or condition the contravention of which may be proce
 
 - **(2.2)** The contravention of subsection 155.7(1) or any of subsections 155.84(1) to (3) may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $100,000.
 
-- **(3)** [Repealed, 2014, c. 8, s. 9]
-> 1996, c. 10, s. 177; 2007, c. 19, s. 49; 2013, c. 31, s. 12; 2014, c. 8, s. 9; 2015, c. 31, s. 11; 2018, c. 10, s. 53.
+**Subsection 170(1) and [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md)**
+
+- **(3)** The contravention of any provision of any regulation made under subsection 170(1) — or the contravention of any of subsections 60(1) to (4) and (7), 61(1) to (3) and 62(1) to (3) and (6) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) — may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $250,000.
+> 1996, c. 10, s. 177; 2007, c. 19, s. 49; 2013, c. 31, s. 12; 2014, c. 8, s. 9; 2015, c. 31, s. 11; 2018, c. 10, s. 532019, c. 10, s. 173
 
 
 
@@ -6553,7 +6663,7 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **178** 
 
-- **(1)** The Agency, in respect of a violation referred to in subsection 177(1) or (2.1), or the Minister, in respect of a violation referred to in subsection 177(2), (2.01) or (2.2), may
+- **(1)** The Agency, in respect of a violation referred to in subsection 177(1), (2.1) or (3), or the Minister, in respect of a violation referred to in subsection 177(2), (2.01) or (2.2), may
 	- **(a)** designate persons, or classes of persons, as enforcement officers who are authorized to issue notices of violation; and
 	- **(b)** establish the form and content of notices of violation.
 
@@ -6567,12 +6677,55 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **Powers of designated persons**
 
-- **(4)** For the purposes of determining whether a violation referred to in section 177 has been committed, a person designated as an enforcement officer pursuant to paragraph (1)(a) may require any person to produce for examination or reproduction all or part of any document or electronically stored data that the enforcement officer believes on reasonable grounds contain any information relevant to the enforcement of this Act.
+- **(4)** For the purposes of determining whether a violation referred to in section 177 has been committed, a person designated as an enforcement officer under paragraph (1)(a) may require any person to produce for examination or reproduction all or part of any document or electronically stored data that the enforcement officer believes on reasonable grounds contain any information relevant to the enforcement of this Act or any of sections 60 to 62 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
 
 **Assistance to enforcement officers**
 
-- **(5)** Any person from whom documents or data are requested pursuant to subsection (4) shall provide all such reasonable assistance as is in their power to enable the enforcement officer making the request to carry out the enforcement officer’s duties and shall furnish such information as the enforcement officer reasonably requires for the purposes of this Act.
-> 1996, c. 10, s. 178; 2007, c. 19, s. 50; 2013, c. 31, s. 13; 2014, c. 8, s. 10; 2015, c. 31, ss. 12, 38; 2018, c. 10, ss. 54, 96.
+- **(5)** Any person from whom documents or data are requested under subsection (4) shall provide all reasonable assistance in their power to enable the enforcement officer making the request to carry out the enforcement officer’s duties and shall furnish any information that the enforcement officer reasonably requires for the purposes of this Act or any of sections 60 to 62 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
+> 1996, c. 10, s. 178; 2007, c. 19, s. 50; 2013, c. 31, s. 13; 2014, c. 8, s. 10; 2015, c. 31, ss. 12, 38; 2018, c. 10, ss. 54, 962019, c. 10, s. 174
+
+
+
+
+
+**Other powers — subsection 170(1) and [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md)**
+
+**178.1** 
+
+- **(1)** An enforcement officer who enters a place for a purpose related to verifying compliance or preventing non-compliance with any provision of regulations made under subsection 170(1) or with any of sections 60 to 62 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) may, for that purpose,
+	- **(a)** open and examine any receptacle or package found in the place;
+	- **(b)** examine anything found in the place;
+	- **(c)** examine any record, report, electronic data or other document that is found in the place and make copies of it or take extracts from it;
+	- **(d)** use or cause to be used any computer system at the place to examine any electronic data referred to in paragraph (c);
+	- **(e)** reproduce any document from any electronic data referred to in paragraph (c), or cause it to be reproduced, in the form of a printout or other output;
+	- **(f)** take the record, report or other document referred to in paragraph (c) or the printout or other output referred to in paragraph (e) for examination or copying;
+	- **(g)** use or cause to be used any copying equipment at the place to make copies of any document;
+	- **(h)** take photographs and make recordings and sketches;
+	- **(i)** order the owner or person having possession of any thing to which any provision of regulations made under subsection 170(1) or any of sections 60 to 62 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) apply that is found in that place to move it or, for any time that may be necessary, not to move it or to restrict its movement;
+	- **(j)** order the owner or person having possession of any conveyance that is found in the place to stop the conveyance, to move it or, for any time that may be necessary, not to move it or to restrict its movement;
+	- **(k)** order any person in that place to establish their identity to the enforcement officer’s satisfaction; and
+	- **(l)** order a person in that place to start any activity that is necessary for the purpose of the inspection or to stop any activity that impedes the inspection.
+
+**Means of telecommunication**
+
+- **(2)** For the purpose of the exercise, for the purpose referred to in subsection (1), of the power of entry conferred under subsection 178(2), an enforcement officer is considered to have entered a place when accessing it remotely by a means of telecommunication.
+
+**Limitation — place not accessible to the public**
+
+- **(3)** An enforcement officer who, by a means of telecommunication, accesses remotely a place that is not accessible to the public must do so with the knowledge of the owner or person in charge of the place and must be remotely in the place for no longer than the period necessary for the purpose referred to in subsection (1).
+
+**Accompanying individual**
+
+- **(4)** An enforcement officer may be accompanied by any other individual the officer believes is necessary to help them exercise their powers or perform their duties or functions under this section.
+
+**Entering private property**
+
+- **(5)** An enforcement officer and any individual accompanying them may enter and pass through private property, other than a dwelling-house on that property, in order to gain entry to a place referred to in subsection (1). For greater certainty, they are not liable for doing so.
+
+**Assistance**
+
+- **(6)** The owner or other person in charge of a place entered by an enforcement officer for the purpose referred to in subsection (1) and every individual found in the place must give the enforcement officer all reasonable assistance in the individual’s power and provide the enforcement officer with any information that the enforcement officer may reasonably require.
+> 2019, c. 10, s. 175
 
 
 
@@ -6582,7 +6735,7 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **179** 
 
-- **(1)** Every person who contravenes a provision, requirement or condition designated under section 177 commits a violation and is liable to a penalty fixed pursuant to that section.
+- **(1)** Every person who contravenes a provision, requirement or condition designated under section 177 commits a violation and is liable to a penalty fixed under that section or, in the case of a contravention referred to in subsection 177(3), either a penalty fixed under that subsection or a warning under subparagraph 180(b)(i).
 
 - **(1.1)** [Repealed, 2014, c. 8, s. 11]
 
@@ -6593,7 +6746,7 @@ as a provision, requirement or condition the contravention of which may be proce
 **Nature of violation**
 
 - **(3)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply.
-> 1996, c. 10, s. 179; 2007, c. 19, s. 51(F); 2014, c. 8, s. 11.
+> 1996, c. 10, s. 179; 2007, c. 19, s. 51(F); 2014, c. 8, s. 112019, c. 10, s. 176
 
 
 
@@ -6601,38 +6754,54 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **Issuance of notice of violation**
 
-**180** If a person designated as an enforcement officer under paragraph 178(1)(a) believes that a person has committed a violation, the enforcement officer may issue and serve on the person a notice of violation that names the person, identifies the violation and sets out
-- **(a)** the penalty for the violation that the person is liable to pay; and
-- **(b)** the particulars concerning the time for paying and the manner of paying the penalty.
-> 1996, c. 10, s. 180; 2001, c. 29, s. 52; 2007, c. 19, s. 52; 2018, c. 10, s. 55.
+**180** If a person designated as an enforcement officer under paragraph 178(1)(a) believes that a person has committed a violation, the enforcement officer may issue, and shall serve on the person, a notice of violation that names the person, identifies the violation and
+- **(a)** in the case of a contravention other than one referred to in paragraph (b), sets out the penalty for the violation that the person is liable to pay;
+- **(b)** in the case of a contravention of any provision of any regulation made under subsection 170(1) or a contravention of any of subsections 60(1) to (4) and (7), 61(1) to (3) and 62(1) to (3) and (6) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md)
+	- **(i)** contains a warning, or
+	- **(ii)** sets out the penalty for the violation that the person is liable to pay, and a lesser amount that may be paid in complete satisfaction of the amount of the penalty if paid within the time and in the manner set out in the notice; and
+- **(c)** sets out the particulars concerning the time for paying and the manner of paying the penalty, if there is one.
+> 1996, c. 10, s. 180; 2001, c. 29, s. 52; 2007, c. 19, s. 52; 2018, c. 10, s. 552019, c. 10, s. 177
 
 
 
 
 
-**Option**
+**Options**
 
-**180.1** A person who has been served with a notice of violation must either pay the amount of the penalty specified in the notice or file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty.
-> 2007, c. 19, s. 52.
+**180.1** 
+
+- **(1)** Subject to subsections (2) and (3), a person who has been served with a notice of violation must either pay the amount of the penalty specified in the notice or file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty.
+
+**Subsection 170(1) or [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) — warning**
+
+- **(2)** A person who has been served with a notice of violation that contains a warning may file with the Agency a written request for a review of the facts of the alleged contravention.
+
+**Subsection 170(1) or Accessible Canada Act  — penalty**
+
+- **(3)** A person who has been served with a notice of violation that identifies a violation referred to in subsection 177(3) and that sets out a penalty for the violation must
+	- **(a)** pay the amount of the penalty — or the lesser amount — specified in the notice;
+	- **(b)** file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty; or
+	- **(c)** request, within the time and in the manner set out in the notice, to enter into a compliance agreement with the Agency for the purpose of ensuring the person’s compliance with the provision of the regulations or of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) to which the violation relates.
+> 2007, c. 19, s. 522019, c. 10, s. 177
 
 
 
 
 
-**Payment of specified amount precludes further proceedings**
+**Payment of specified amount**
 
-**180.2** If a person who is served with a notice of violation pays the amount specified in the notice in accordance with the particulars set out in it, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention.
-> 2007, c. 19, s. 52.
-
-
+**180.2** If a person who is served with a notice of violation that sets out a penalty pays the amount of the penalty — or, in the case of a person to whom subsection 180.1(3) applies, the lesser amount — specified in the notice in accordance with the particulars set out in it, the Minister shall accept the amount in complete satisfaction of the amount of the penalty and no further proceedings under this Part shall be taken against the person in respect of the contravention.
+> 2007, c. 19, s. 522019, c. 10, s. 177
 
 
 
-**Request for review of determination**
+
+
+**Request for review — penalty**
 
 **180.3** 
 
-- **(1)** A person who is served with a notice of violation and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice.
+- **(1)** A person who is served with a notice of violation that sets out a penalty and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice.
 
 **Time and place for review**
 
@@ -6649,17 +6818,12 @@ as a provision, requirement or condition the contravention of which may be proce
 **Person not compelled to testify**
 
 - **(5)** A person who is alleged to have contravened a designated provision is not required, and shall not be compelled, to give any evidence or testimony in the matter.
-> 2007, c. 19, s. 52.
+> 2007, c. 19, s. 522019, c. 10, s. 178
 
 
 
 
-
-**Certificate**
-
-**180.4** If a person neither pays the amount of the penalty in accordance with the particulars set out in the notice of violation nor files a request for a review under subsection 180.3(1), the person is deemed to have committed the contravention alleged in the notice, and the Minister may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount of the penalty specified in the notice.
-> 2007, c. 19, s. 52.
-
+**180.4** [Repealed, 2019, c. 10, s. 179]
 
 
 
@@ -6669,7 +6833,7 @@ as a provision, requirement or condition the contravention of which may be proce
 **180.5** If, at the conclusion of a review under section 180.3, the member of the Tribunal who conducts the review determines that
 - **(a)** the person has not contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall without delay inform the person and the Minister of the determination and, subject to section 180.6, no further proceedings under this Part shall be taken against the person in respect of the alleged contravention; or
 - **(b)** the person has contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall without delay inform the person and the Minister of the determination and of the amount determined by the member of the Tribunal to be payable by the person in respect of the contravention and, if the amount is not paid to the Tribunal by or on behalf of the person within the time that the member of the Tribunal may allow, the member of the Tribunal shall issue to the Minister a certificate in the form that may be established by the Governor in Council, setting out the amount required to be paid by the person.
-> 2007, c. 19, s. 52; 2018, c. 10, s. 56.
+> 2007, c. 19, s. 52; 2018, c. 10, s. 56
 
 
 
@@ -6692,7 +6856,122 @@ as a provision, requirement or condition the contravention of which may be proce
 **Certificate**
 
 - **(4)** If the appeal panel finds that a person has contravened the designated provision, the panel shall without delay inform the person of the finding and of the amount determined by the panel to be payable by the person in respect of the contravention and, if the amount is not paid to the Tribunal by or on behalf of the person within the time allowed by the Tribunal, the Tribunal shall issue to the Minister a certificate in the form that may be established by the Governor in Council, setting out the amount required to be paid by the person.
-> 2007, c. 19, s. 52; 2018, c. 10, s. 57.
+> 2007, c. 19, s. 52; 2018, c. 10, s. 57
+
+
+
+
+
+**Request for review — warning**
+
+**180.61** 
+
+- **(1)** A person who is served with a notice of violation that contains a warning and who wishes to have the facts of the alleged contravention reviewed shall, on or before the date specified in the notice or within any further time that the Agency on application may allow, file a written request for a review with the Agency at the address set out in that notice.
+
+**Burden of proof**
+
+- **(2)** The burden of establishing that a person has contravened the provision of the regulations or of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) to which a notice of violation relates is on an enforcement officer.
+
+**Determination by Agency**
+
+- **(3)** At the conclusion of a review, the Agency shall without delay inform the person who is alleged to have contravened the provision and the enforcement officer of its determination. If the Agency determines that the person has not contravened the provision, no further proceedings under this Part shall be taken against the person in respect of the alleged contravention.
+
+**Deeming**
+
+- **(4)** If a person does not file a request for a review under subsection (1), the person is deemed to have committed the contravention alleged in the notice of violation.
+> 2019, c. 10, s. 180
+
+
+
+
+
+**Entering into compliance agreements**
+
+**180.62** 
+
+- **(1)** After considering a request made under paragraph 180.1(3)(c), the Agency may enter into a compliance agreement, as described in that paragraph, with the person making the request on any terms that the Agency considers appropriate. The terms may
+	- **(a)** include a provision for the deposit of reasonable security, in a form and amount satisfactory to the Agency, as a guarantee that the person will comply with the compliance agreement; and
+	- **(b)** provide for the reduction, in whole or in part, of the amount of the penalty.
+
+**Deeming**
+
+- **(2)** A person who enters into a compliance agreement is, on doing so, deemed to have committed the contravention in respect of which the compliance agreement was entered into.
+
+**Notice of compliance**
+
+- **(3)** If the Agency is satisfied that a person who has entered into a compliance agreement has complied with it, the Agency shall cause a notice of compliance to be provided to the person and, once it is provided,
+	- **(a)** no further proceedings under this Part shall be taken against the person in respect of the contravention; and
+	- **(b)** any security given under the compliance agreement shall be returned to them.
+
+**Notice of default**
+
+- **(4)** If the Agency is of the opinion that a person who has entered into a compliance agreement has not complied with it, the Agency shall cause a notice of default to be served on the person informing them of one of the following:
+	- **(a)** that instead of being liable to pay the amount of the penalty specified in the notice of violation in respect of which the compliance agreement was entered into, they are liable to pay, within the time and in the manner set out in the notice of default and without taking account of the limit set out in subsection 177(3), an amount that is twice the amount of that penalty;
+	- **(b)** that the security, if any, given under the compliance agreement is forfeited to Her Majesty in right of Canada.
+
+**Effect of notice of default**
+
+- **(5)** Once a person is served with a notice of default,
+	- **(a)** if the notice provides that the person is liable to pay the amount specified in the notice, the person may not deduct from that amount any amount they spent under the compliance agreement and they are liable to pay the amount specified in the notice within the time and in the manner set out in it; and
+	- **(b)** if the notice provides for the forfeiture of the security given under the compliance agreement, that security is forfeited to Her Majesty in right of Canada and no further proceedings under this Part shall be taken against the person in respect of the contravention.
+
+**Effect of payment**
+
+- **(6)** If the person pays the amount specified in the notice of default within the time and in the manner set out in it, the Agency shall accept the amount in complete satisfaction of the amount owing in respect of the contravention and no further proceedings under this Part shall be taken against the person in respect of the contravention.
+
+**Delegation**
+
+- **(7)** The Agency may delegate its powers under subsection (1) to any person, subject to any restrictions or limitations that it may specify.
+
+**Certificate of delegation**
+
+- **(8)** Each person to whom powers are delegated under subsection (7) must be provided with a certificate of delegation in a form established by the Agency.
+> 2019, c. 10, s. 180
+
+
+
+
+
+**Refusal to enter compliance agreement**
+
+**180.63** 
+
+- **(1)** If the Agency refuses to enter into a compliance agreement requested under paragraph 180.1(3)(c), the person who made the request is liable to pay, in the manner specified in the notice of violation and within the time specified in it or any longer period specified by the Agency, the amount of the penalty specified in the notice of violation.
+
+**Effect of payment**
+
+- **(2)** If the person pays the amount specified in the notice of violation,
+	- **(a)** they are deemed to have committed the contravention in respect of which the amount is paid;
+	- **(b)** the Agency shall accept the amount in complete satisfaction of the amount of the penalty; and
+	- **(c)** no further proceedings under this Part shall be taken against the person in respect of the contravention.
+
+**Deeming**
+
+- **(3)** If the person does not pay the amount specified in the notice of violation within the time and in the manner set out in subsection (1), they are deemed to have committed the contravention alleged in the notice of violation.
+> 2019, c. 10, s. 180
+
+
+
+
+
+**Certificate**
+
+**180.64** 
+
+- **(1)** If a person to whom subsection 180.1(1) applies neither pays the amount of the penalty specified in the notice of violation in accordance with the particulars set out in the notice nor files a request for a review under subsection 180.3(1), the person is deemed to have committed the contravention alleged in the notice of violation and the Minister may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount of the penalty specified in that notice.
+
+**Subsection 170(1) or [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md)**
+
+- **(2)** If a person to whom subsection 180.1(3) applies does not pay the amount of the penalty — or the lesser amount — specified in the notice of violation in accordance with the particulars set out in it, file a request for a review under subsection 180.3(1) or make a request to enter into a compliance agreement under paragraph 180.1(3)(c), the person is deemed to have committed the contravention alleged in the notice of violation and the Agency may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount of the penalty specified in that notice.
+
+**Notice of default**
+
+- **(3)** If a person who has been served with a notice of default under subsection 180.62(4) that specifies an amount does not pay the amount within the time and in the manner set out in the notice, the Agency may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount specified in that notice.
+
+**Refusal to enter into compliance agreement**
+
+- **(4)** If the Agency refuses a person’s request under paragraph 180.1(3)(c) to enter into a compliance agreement, and the person does not pay the amount of the penalty specified in the notice of violation within the time and in the manner required by subsection 180.63(1), the Agency may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount of the penalty specified in that notice.
+> 2019, c. 10, s. 180
 
 
 
@@ -6702,7 +6981,7 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **180.7** 
 
-- **(1)** If the time limit for the payment of an amount determined by the Minister in a notice of violation has expired, the time limit for the request for a review has expired, the time limit for an appeal has expired, or an appeal has been disposed of, on production in any superior court, a certificate issued under section 180.4, paragraph 180.5(b) or subsection 180.6(4) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
+- **(1)** If the time limit for the payment of the amount of a penalty specified in a notice of violation has expired, the time limit for the payment of an amount specified in a notice of default has expired, the time limit specified for payment of an amount under subsection 180.63(1) has expired, the time limit for the request for a review has expired, the time limit for an appeal has expired, or an appeal has been disposed of, as the case may be, on production in any superior court, a certificate issued under paragraph 180.5(b), subsection 180.6(4) or section 180.64 shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
 
 **Recovery of costs and charges**
 
@@ -6711,7 +6990,7 @@ as a provision, requirement or condition the contravention of which may be proce
 **Amounts received deemed public moneys**
 
 - **(3)** An amount received by the Minister or the Tribunal under this section is deemed to be public money within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
-> 2007, c. 19, s. 52.
+> 2007, c. 19, s. 522019, c. 10, s. 181
 
 
 
@@ -6721,12 +7000,12 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **180.8** 
 
-- **(1)** In the case of a violation referred to in subsection 177(1), every reference to the “Minister” in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
+- **(1)** In the case of a violation referred to in subsection 177(1) or (3), every reference to the “Minister” in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
 
 **Delegation by Minister**
 
 - **(2)** In the case of a violation referred to in subsection 177(2), (2.01) or (2.2), the Minister may delegate to the Agency any power, duty or function conferred on him or her under this Part.
-> 2007, c. 19, s. 52; 2013, c. 31, s. 14; 2014, c. 8, s. 12; 2015, c. 31, ss. 13, 38; 2018, c. 10, ss. 58, 96.
+> 2007, c. 19, s. 52; 2013, c. 31, s. 14; 2014, c. 8, s. 12; 2015, c. 31, ss. 13, 38; 2018, c. 10, ss. 58, 962019, c. 10, s. 182
 
 
 
@@ -6735,6 +7014,44 @@ as a provision, requirement or condition the contravention of which may be proce
 **Time limit for proceedings**
 
 **181** Proceedings in respect of a violation may be instituted not later than twelve months after the time when the subject-matter of the proceedings arose.
+
+
+
+
+**Publication**
+
+**181.1** The Agency may publish information about any violation referred to in section 177, for the purpose of encouraging compliance with this Act and sections 60 to 62 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
+> 2019, c. 10, s. 183
+
+
+
+
+
+### Production Order
+
+
+
+**Power to order production**
+
+**181.2** 
+
+- **(1)** The Agency may, by order, for a purpose related to verifying compliance or preventing non-compliance with any provision of regulations made under subsection 170(1) or with any of sections 60 to 62 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), direct any person who is required to comply with any provision of those regulations to produce, within the time and in the manner specified by the Agency, for examination or copying, any record, report, electronic data or other document that the Agency has reasonable grounds to believe contains information that is relevant to that purpose.
+
+**Copies**
+
+- **(2)** The Agency may
+	- **(a)** make copies or take extracts from any record, report, electronic data or other document produced under an order made under subsection (1); and
+	- **(b)** reproduce any document from electronic data referred to in paragraph (a), or cause it to be reproduced, in the form of a printout or other output.
+
+**Delegation**
+
+- **(3)** The Agency may delegate its powers under subsections (1) and (2) to any person, subject to any restrictions or limitations that it may specify.
+
+**Certificate of delegation**
+
+- **(4)** Each person to whom powers are delegated under subsection (3) must be provided with a certificate of delegation in a form established by the Agency.
+> 2019, c. 10, s. 183
+
 
 
 
@@ -6753,7 +7070,7 @@ as a provision, requirement or condition the contravention of which may be proce
 
 
 **
-> Repeal of R.S., c. R-3.
+> Repeal of R.S., c. R-3
 **
 
 **185** 
@@ -7424,9 +7741,9 @@ on the terms and conditions specified in the order for the protection and preser
 </tr>
 </table>
 
-> 1996, c. 10, Sch. I; 2000, c. 16, s. 18.
+> 1996, c. 10, Sch. I; 2000, c. 16, s. 18
 
-> 1996, ch. 10, ann. I; 2000, ch. 16, art. 18.
+> 1996, ch. 10, ann. I; 2000, ch. 16, art. 18
 
 
 
@@ -7620,7 +7937,7 @@ Wheat, rolled
 Wheat germ
 
 
-> 1996, c. 10, Sch. II; 2018, c. 10, s. 59.1.
+> 1996, c. 10, Sch. II; 2018, c. 10, s. 59.1
 
 
 
@@ -7631,7 +7948,7 @@ Wheat germ
 1005, 1008, 1016, 1017, 1023, 1026, 1040, 1045, 1048, 1050, 1051, 1052, 1053, 1062, 1064, 1067, 1069, 1071, 1076, 1079, 1082, 1092, 1098, 1135, 1143, 1163, 1182, 1185, 1238, 1239, 1244, 1251, 1259, 1380, 1510, 1541, 1560, 1569, 1580, 1581, 1582, 1583, 1589, 1595, 1605, 1612, 1613, 1614, 1647, 1660, 1670, 1672, 1695, 1722, 1741, 1744, 1745, 1746, 1749, 1752, 1754, 1809, 1810, 1828, 1829, 1831, 1834, 1838, 1859, 1892, 1911, 1953, 1955, 1967, 1975, 1994, 2032, 2186, 2188, 2189, 2190, 2191, 2192, 2194, 2195, 2196, 2197, 2198, 2199, 2202, 2204, 2232, 2285, 2334, 2337, 2382, 2407, 2417, 2418, 2420, 2421, 2438, 2442, 2474, 2477, 2478, 2480, 2481, 2482, 2483, 2484, 2485, 2486, 2487, 2488, 2521, 2534, 2548, 2605, 2606, 2644, 2646, 2668, 2676, 2692, 2740, 2742, 2743, 2826, 2901, 2983, 3023, 3057, 3079, 3083, 3160, 3162, 3168, 3169, 3246, 3275, 3276, 3278, 3279, 3280, 3281, 3294, 3300, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310, 3318, 3355, 3381, 3382, 3383, 3384, 3385, 3386, 3387, 3388, 3389, 3390, 3488, 3489, 3490, 3491, 3512, 3514, 3515, 3516, 3517, 3518, 3519, 3520, 3521, 3522, 3523, 3524, 3525, 3526
 
 
-> 1996, c. 10, Sch. III; 2000, c. 16, s. 19; 2015, c. 31, s. 14.
+> 1996, c. 10, Sch. III; 2000, c. 16, s. 19; 2015, c. 31, s. 14
 
 
 
@@ -7672,6 +7989,339 @@ Wheat germ
 </tr>
 </table>
 
-> 1996, c. 10, Sch. IV; 2000, c. 16, s. 19; 2015, c. 31, ss. 14 to 16.
+> 1996, c. 10, Sch. IV; 2000, c. 16, s. 19; 2015, c. 31, ss. 14 to 16
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2007, c. 19, s. 55
+
+
+**Agreements entered into prior to the coming into force of section 44**
+
+**55** 
+
+- **(1)** Section 152.1 of the Canada Transportation Act, as enacted by section 44 of this Act, does not apply in respect of agreements entered into before the day on which section 44 of this Act comes into force.
+
+**Exception**
+
+- **(2)** Despite subsection (1), in the case of an agreement between VIA Rail Canada Inc. and a railway company that was entered into before the day on which section 44 of this Act comes into force, Via Rail Canada Inc. may apply to the Canadian Transportation Agency to decide any matter respecting the priority to be given to the trains of any of the parties to the agreement. In making its decision, the Agency shall have regard to the public interest and to the operational requirements of the parties to the agreement. Section 152.2 of the Canada Transportation Act, as enacted by section 44 of this Act, applies, with any modifications that are necessary, if the Agency, as part of its decision, fixes an amount to be paid by Via Rail Canada Inc. In the event of any inconsistency between the Agency’s decision and the provisions of the agreement, the Agency’s decision prevails to the extent of the inconsistency.
+
+
+
+######           — 2007, c. 19, s. 56
+
+
+**Members continued**
+
+**56** 
+
+- **(1)** Despite sections 3 to 5 of this Act, the members of the Canadian Transportation Agency, including its Chairperson and Vice-Chairperson, who hold office on the coming into force of those sections continue to hold office according to the conditions of their appointments, until the expiry of their respective terms.
+
+**Temporary limitation on appointment of new members**
+
+- **(2)** Despite section 3 of this Act, the Governor in Council may not appoint or reappoint members of the Canadian Transportation Agency under subsection 7(2) or subsection 8(2), respectively, of the Canada Transportation Act until the number of members of the Agency, other than the Chairperson and the Vice-Chairperson, is less than three.
+
+**Exception for appointment of Chairperson and Vice-Chairperson**
+
+- **(3)** Despite subsection (2) and section 3 of this Act, the Governor in Council may appoint or reappoint members of the Canadian Transportation Agency to be designated as the Chairperson or the Vice-Chairperson of the Agency under subsection 7(3) of the Canada Transportation Act.
+
+
+
+######           — 2007, c. 19, s. 57
+
+
+**Adjustment to the volume-related composite price index**
+
+**57** Despite subsection 151(5) of the Canada Transportation Act, the Canadian Transportation Agency shall, once only, on request of the Minister of Transport and on the date set by the Agency, adjust the volume-related composite price index to reflect costs incurred by the prescribed railway companies, as defined in section 147 of that Act, for the maintenance of hopper cars used for the movement of grain, as defined in section 147 of that Act.
+
+
+
+######           — 2007, c. 19, s. 58
+
+
+**Police constables appointed under section 158 of the Canada Transportation Act**
+
+**58** Every police constable appointed under section 158 of the Canada Transportation Act who holds office on the day on which section 54 of this Act comes into force is deemed to have been appointed under section 44 of the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md), as enacted by section 54 of this Act.
+
+
+
+######           — 2012, c. 7, s. 41
+
+
+**Agreements continued**
+
+**41** An agreement entered into or a designation made under section 157.1 of the Canada Transportation Act in respect of any matter referred to in section 6.1 of the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md), as enacted by section 6, continues in force in accordance with its terms until it is replaced by an agreement entered into under that section 6.1.
+
+
+
+######           — 2012, c. 7, s. 42
+
+
+**Agreements continued**
+
+**42** An agreement entered into under section 158 of the Canada Transportation Act in respect of any matter referred to in section 6.2 of the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md), as enacted by section 6, continues in force in accordance with its terms until it is replaced by an agreement entered into under that section 6.2.
+
+
+
+######           — 2015, c. 31, s. 36
+
+
+**Certificates of fitness**
+
+**36** A certificate of fitness that was issued under subsection 92(1) of the Canada Transportation Act, as that subsection read immediately before the day on which section 6 comes into force, and that is valid on that day is deemed, as of that day but only until the day on which it is cancelled, to have been issued
+- **(a)** under paragraph 92(1)(a) of that Act, as enacted by that section, in respect of the operation of a railway that relates to a passenger rail service or a construction of a railway, and for which the certificate was issued; or
+- **(b)** under paragraph 92(1)(b) of that Act, as enacted by that section, in respect of the operation of a railway that does not relate to a passenger rail service and for which the certificate was issued.
+
+
+
+######           — 2015, c. 31, s. 37
+
+
+**Regulations**
+
+**37** On the day on which section 6 comes into force, paragraphs 3(b) and (c) and 4(b) of the [Railway Third Party Liability Insurance Coverage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/337.md) continue to apply — until regulations are made under paragraph 92(3)(b) of the Canada Transportation Act — in respect of the proposed operation of a railway referred to in that paragraph 92(3)(b) to allow the Canadian Transportation Agency to determine, for the purposes of paragraph 92(1)(b) of that Act, whether there will be, for the proposed operation, the applicable minimum liability insurance coverage, which includes any self-insurance, as set out in Schedule IV to that Act.
+
+
+
+######           — 2018, c. 10, s. 75
+
+
+**Definition of Act**
+
+**75** 
+
+- **(1)** In this section and in sections 76 to 81, ***Act*** means the Canada Transportation Act.
+
+**Words and expressions**
+
+- **(2)** Unless the context otherwise requires, words and expressions used in sections 76 to 81 have the same meaning as in the Act.
+
+
+
+######           — 2018, c. 10, s. 76
+
+
+**Information — long-haul interswitching rate**
+
+**76** 
+
+- **(1)** This section applies until the first regulation made under paragraph 50(1.01)(a) of the Act comes into force.
+
+**Provision of information**
+
+- **(2)** A class 1 rail carrier shall provide to the Minister, in the form and manner that the Minister may specify, a report indicating the following information with respect to any traffic that is moved by a railway car:
+	- **(a)** the name of the shipper;
+	- **(b)** the name of the owner of the railway car;
+	- **(c)** the letters and number that identify the railway car;
+	- **(d)** an indication as to whether the railway car moves in a block that receives an incentive and if it is, the number of railway cars moved together as the block for which the incentive is received;
+	- **(e)** an indication as to whether the railway car transports traffic that is, based on the rail origin, transferred from a truck or vessel, as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), or, based on the rail destination, transferred to a truck or vessel;
+	- **(f)** the date and time at which the movement of the railway car begins and ends;
+	- **(g)** the geographic location codes of the locations where the movement of the railway car begins and ends, the alphanumeric codes that identify the province or state in which the movement begins and ends, and, if applicable, the geographic location code of any junction at which the railway car is transferred to or from another rail carrier, the code that identifies that other rail carrier and the code that identifies the rail carrier on which the movement begins or ends;
+	- **(h)** the standard transportation commodity code, the code that identifies the type of equipment used, the intermodal traffic indicator, the number of intermodal units carried by the car and the commodity tonnage and, if the railway car moves across the Canada-United States border, the alphanumeric code that identifies imports and exports and the code that identifies the border crossing location;
+	- **(i)** if the railway car transports dangerous goods, the UN number assigned to the goods by the United Nations Committee of Experts on the Transport of Dangerous Goods or the Hazardous Material Response Code assigned to the goods by the Association of American Railroads, Bureau of Explosives;
+	- **(j)** an indication as to whether the rate that applies in respect of the movement of the traffic is set out in a tariff or a confidential contract, and, in the case of a tariff, the tariff number;
+	- **(k)** an indication as to whether a long‑haul interswitching rate applies in respect of the movement of the traffic;
+	- **(l)** an indication as to whether the shipper has provided the class 1 rail carrier with an undertaking with respect to the volume of the movement of the traffic, and if so, the volume in respect of which the undertaking was made;
+	- **(m)** the gross waybill revenue earned for the railway car and the number of miles in respect of which the revenue is derived;
+	- **(n)** the portion of the gross waybill revenue earned by the class 1 rail carrier for the railway car and the number of miles in respect of which the portion is derived;
+	- **(o)** 	the portion of the gross waybill revenue — excluding the value of charges, incentives, rebates and amounts paid by the class 1 rail carrier to other rail carriers — earned by the class 1 rail carrier for the railway car for the portion of the movement in Canada and the number of miles in respect of which the portion is derived;
+	- **(p)** the value of the charges, incentives, rebates and amounts paid by the class 1 rail carrier to other rail carriers referred to in paragraph (o);
+	- **(q)** an indication as to whether the railway car is used for the movement of grain, as defined in section 147 of the Act;
+	- **(r)** each type of train that the railway car is part of;
+	- **(s)** the alphanumeric identification code of each train that the railway car is part of; and
+	- **(t)** in respect of each train that the railway car is part of, the geographic location code of the location where the movement of the railway car begins and ends, the date and time the movement of the railway car begins and ends and the distance travelled by the railway car.
+
+**Time limit**
+
+- **(3)** The class 1 rail carrier shall provide the information described in subsection (2) on a monthly basis, no later than the last day of the month following the month to which the information relates.
+
+**First report**
+
+- **(4)** No later than the last day of the month following the month in which this section comes into force, the class 1 rail carrier shall provide to the Minister a report described in subsection (2) for each month in the period that begins August 1, 2016 and that ends on the last day of the month in which this section comes into force.
+
+**Deeming**
+
+- **(5)** Information provided to the Minister under subsection (2) is deemed to be information required by regulations made under paragraph 50(1.01)(a) of the Act.
+
+
+
+######           — 2018, c. 10, s. 77
+
+
+**Information — service and performance indicators**
+
+**77** 
+
+- **(1)** This section applies until the first regulation made under paragraph 50(1.01)(b) of the Act comes into force.
+
+**Information to be provided**
+
+- **(2)** A class 1 rail carrier shall provide to the Minister, in the form and manner that the Minister may specify, a report containing the information specified in paragraphs 1250.2(a)(1) to (8) of Title 49 of the United States Code of Federal Regulations as amended from time to time.
+
+**Adaptations**
+
+- **(3)** For the purpose of subsection (2), the provisions of the United States Code of Federal Regulations are adapted as follows:
+	- **(a)** a reference to “should” is to be read as “must”;
+	- **(b)** unless the context requires otherwise, a reference to “railroad” is to be read as “class 1 rail carrier”;
+	- **(c)** a reference to “state” is to be read as “province”;
+	- **(d)** a reference to “dedicated train service” is to be read as “dedicated train program and fleet integration program”; and
+	- **(e)** paragraph 1250.2(a)(7) is to be read without reference to “aggregated for the following STCCs: 01131 (barley), 01132 (corn), 01133 (oats), 01135 (rye), 01136 (sorghum grains), 01137 (wheat), 01139 (grain, not elsewhere classified), 01144 (soybeans), 01341 (beans, dry), 01342 (peas, dry) and 01343 (cowpeas, lentils, or lupines)”.
+
+**Explanation**
+
+- **(4)** A class 1 rail carrier shall, in its first report, provide an explanation of the methodology it used to derive the data, including the definition of unit train used by the class 1 rail carrier. The definition of unit train shall be based on the class 1 rail carrier’s normal business practices. If the methodology changes, the class 1 rail carrier shall provide an updated explanation of its methodology in any subsequent report in which that methodology is used for the first time, including any updated definition of unit train.
+
+**Time limit**
+
+- **(5)** The class 1 rail carrier shall provide the report for each period of seven days commencing on Saturday and ending on Friday, no later than five days after the last day of the period of seven days to which the information relates.
+
+**First report**
+
+- **(6)** The first report that is to be provided by a class 1 rail carrier is to contain information related to the seven day period that commences on the first Saturday that follows the day on which this section comes into force.
+
+**Deeming**
+
+- **(7)** Information provided to the Minister under subsection (2) is deemed to be information required by regulations made under paragraph 50(1.01)(b) of the Act.
+
+
+
+######           — 2018, c. 10, s. 78
+
+
+**Arrangements concluded before coming into force of section 14**
+
+**78** Persons that have entered into an arrangement, as defined in section 53.7 of the Act, before the day on which section 14 comes into force, may still provide a notice of the arrangement under subsection 53.71(1) of that Act as though the arrangement had not been entered into, in which case section 53.72 of that Act does not apply to that arrangement.
+
+
+
+######           — 2018, c. 10, s. 79
+
+
+**Interswitching rate**
+
+**79** 
+
+- **(1)** Until December 31 of the first year in which the Agency makes a determination of the interswitching rate under subsection 127.1(1) of the Act, the interswitching rate determined under paragraph 128(1)(b) of the Act as it read immediately before the day on which subsection 28(1) comes into force continues to apply and is deemed to be a rate determined by the Agency in accordance with section 127.1 of the Act.
+
+**First determination**
+
+- **(2)** If section 127.1 of the Act comes into force after August 1 of any calendar year, the Agency is not required to determine the interswitching rate in accordance with subsection 127.1(1) until December 1 of the following calendar year.
+
+
+
+######           — 2018, c. 10, s. 80
+
+
+**Volume-related composite price index**
+
+**80** 
+
+- **(1)** For the crop year in which this Act receives royal assent, the value of F in subsection 151(1) of the Act that applies to each prescribed railway company is to be the volume-related composite price index for that crop year that was determined by the Agency in accordance with section 151 of the Act as it read immediately before the day on which this Act receives royal assent.
+
+**Volume-related composite price index**
+
+- **(2)** For the purpose of determining the value of F in subsection 151(1) of the Act for the crop year that follows the crop year in which this Act receives royal assent,
+	- **(a)** immediately before making the determination, the Agency shall adjust the volume-related composite price index described in subsection (1) to reflect costs incurred by the prescribed railway companies to earn the revenue described in paragraphs 150(3)(d) and (e) of the Act; and
+	- **(b)** the volume-related composite price index that applies to each prescribed railway company shall be determined by the Agency in accordance with section 151 of the Act as amended by this Act, based on the volume-related composite price index adjusted in accordance with paragraph (a).
+
+**Redetermination**
+
+- **(3)** If, before the day on which this Act receives royal assent, the Agency has already determined the volume-related composite price index for the crop year that follows the crop year in which this Act receives royal assent, the Agency shall redetermine the volume-related composite price index for that crop year in accordance with subsection (2).
+
+
+
+######           — 2018, c. 10, s. 81
+
+
+**First adjustment to maximum amount of freight charges**
+
+**81** No later than March 31, 2021, the Agency shall, in accordance with section 164.2 of the Act, make the first adjustment to the maximum amount referred to in section 164.1 of the Act. The adjusted amount applies for the three-year period starting April 1, 2021.
+
+
+
+######           — 2018, c. 10, s. 81.1 and par. 95(6)(c)
+
+
+**Revival of regulations — operational terms**
+
+**81.1** The [Regulations on Operational Terms for Rail Level of Services Arbitration](/en/Regulations/Statutory%20Orders%20and%20Regulations/2014/192.md), except sections 6 and 7 of those regulations, as they read immediately before the day on which subsection 8(2) of the Fair Rail for Grain Farmers Act comes into force, are revived and are deemed to be regulations made under subsection 169.31(1.1) of the Canada Transportation Act as amended by this Act.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 29, s. 215
+
+**215** The Act is amended by adding the following after section 6.5:
+
+## Exemptions
+
+
+**Application**
+
+**6.6** 
+
+- **(1)** A person may, in the form and manner specified by the Minister, apply to the Minister for an order that exempts any person or thing, or class of persons or things, from the application of any provision of an Act of Parliament that the Minister administers or enforces or any provision of an instrument made under that Act.
+
+**Information**
+
+- **(2)** The Minister may, on receiving the application, require the provision of any information that is necessary for the Minister to process and assess the application.
+
+**Debts to Her Majesty**
+
+- **(3)** The Minister may refuse to process or assess the application if the applicant has not paid an amount that, under an Act of Parliament that the Minister administers or enforces, constitutes a debt due to Her Majesty in right of Canada.
+
+
+
+**Order**
+
+**6.7** 
+
+- **(1)** The Minister may, by order, exempt, for a period of not more than five years and subject to any conditions that the Minister considers appropriate, any person or thing, or class of persons or things, from the application of any provision of an Act of Parliament that the Minister administers or enforces or any provision of an instrument made under that Act, if the Minister is of the opinion that the exemption, having regard to the purposes of that Act, is in the public interest and that the exemption promotes innovation in transportation through research, development or testing.
+
+**Extension**
+
+- **(2)** The Minister may, by order, extend the period of an exemption once, for a further period of not more than five years, subject to any conditions that the Minister considers appropriate.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under this section that applies to a single person or thing.
+
+**Accessibility**
+
+- **(4)** The Minister shall ensure that an order referred to in subsection (3) is accessible to the public unless the Minister is of the opinion that it would be inappropriate for reasons that include safety or security considerations or the protection of confidential or personal information.
+
+**Exemptions under other Act**
+
+- **(5)** For greater certainty, the making of an order under subsection (1) does not preclude or limit the exercise of a power to exempt under an Act of Parliament that is administered or enforced by the Minister and vice versa.
+
+
+
+**Cost recovery**
+
+**6.8** The Minister may recover any costs associated with the processing and assessing of an application under section 6.6 and may refuse to make the order requested until those costs are recovered from the applicant.
+
+
+
+
+
+######           — 2019, c. 29, s. 277
+
+
+**
+> 2007, c. 19, s. 8(4)
+**
+
+**277** Subparagraph 50(1.1)(c)(i) of the Canada Transportation Act is replaced by the following:
+
+	- **(i)** the designated screening authority, as defined in subsection 2(1) of the [Security Screening Services Commercialization Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2029,%20s.%20270.md),
+
+
+
 
 
