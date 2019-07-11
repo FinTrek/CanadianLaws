@@ -79,7 +79,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Interpretation**
 
 - **(3)** This Act shall be construed and applied in a manner that is consistent with the freedom of expression and journalistic, creative and programming independence enjoyed by broadcasting undertakings.
-> 1991, c. 11, s. 2; 1993, c. 38, s. 81; 1995, c. 11, s. 43.
+> 1991, c. 11, s. 2; 1993, c. 38, s. 81; 1995, c. 11, s. 43
 
 
 
@@ -179,7 +179,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Idem**
 
 - **(4)** For greater certainty, this Act does not apply to any telecommunications common carrier, as defined in the [Telecommunications Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2038.md), when acting solely in that capacity.
-> 1991, c. 11, s. 4; 1993, c. 38, s. 82; 1996, c. 31, s. 57.
+> 1991, c. 11, s. 4; 1993, c. 38, s. 82; 1996, c. 31, s. 57
 
 
 
@@ -218,7 +218,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Employment equity**
 
 - **(4)** Where a broadcasting undertaking is subject to the [Employment Equity Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2044.md), the powers granted to the Commission under this Act do not extend to the regulation or supervision of matters concerning employment equity in relation to that broadcasting undertaking.
-> 1991, c. 11, s. 5; 1995, c. 44, s. 46.
+> 1991, c. 11, s. 5; 1995, c. 44, s. 46
 
 
 
@@ -267,7 +267,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **8** 
 
 - **(1)** Where the Governor in Council proposes to make an order under section 7, the Minister shall cause the proposed order to be
-	- **(a)** published by notice in the Canada Gazette, which notice shall invite interested persons to make representations to the Minister with respect to the proposed order; and
+	- **(a)** published by notice in the [Canada Gazette](http://www.gazette.gc.ca/), which notice shall invite interested persons to make representations to the Minister with respect to the proposed order; and
 	- **(b)** laid before each House of Parliament.
 
 **Referral to committee**
@@ -320,7 +320,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exemptions**
 
 - **(4)** The Commission shall, by order, on such terms and conditions as it deems appropriate, exempt persons who carry on broadcasting undertakings of any class specified in the order from any or all of the requirements of this Part or of a regulation made under this Part where the Commission is satisfied that compliance with those requirements will not contribute in a material manner to the implementation of the broadcasting policy set out in subsection 3(1).
-> 1991, c. 11, s. 9; 1994, c. 26, s. 10(F).
+> 1991, c. 11, s. 9; 1994, c. 26, s. 10(F)
 
 
 
@@ -349,7 +349,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Publication of proposed regulation**
 
-- **(3)** A copy of each regulation that the Commission proposes to make under this section shall be published in the Canada Gazette and a reasonable opportunity shall be given to licensees and other interested persons to make representations to the Commission with respect thereto.
+- **(3)** A copy of each regulation that the Commission proposes to make under this section shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and a reasonable opportunity shall be given to licensees and other interested persons to make representations to the Commission with respect thereto.
 
 
 
@@ -382,7 +382,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Publication of proposed regulations**
 
-- **(5)** A copy of each regulation that the Commission proposes to make under this section shall be published in the Canada Gazette and a reasonable opportunity shall be given to licensees and other interested persons to make representations to the Commission with respect thereto.
+- **(5)** A copy of each regulation that the Commission proposes to make under this section shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and a reasonable opportunity shall be given to licensees and other interested persons to make representations to the Commission with respect thereto.
 
 
 
@@ -393,18 +393,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** Where it appears to the Commission that
 	- **(a)** any person has failed to do any act or thing that the person is required to do pursuant to this Part or to any regulation, licence, decision or order made or issued by the Commission under this Part, or has done or is doing any act or thing in contravention of this Part or of any such regulation, licence, decision or order,
-	- **(a.1)** any person has done or is doing any act or thing in contravention of section 34.1, or
+	- **(a.1)** any person has done or is doing any act or thing in contravention of section 34.1,
+	- **(a.2)** any person has failed to do any act or thing that the person is required to do under sections 42 to 44 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) or has done or is doing any act or thing in contravention of any of those sections, or
 	- **(b)** the circumstances may require the Commission to make any decision or order or to give any approval that it is authorized to make or give under this Part or under any regulation or order made under this Part,
 the Commission may inquire into, hear and determine the matter.
 
 **Mandatory orders**
 
-- **(2)** The Commission may, by order, require any person to do, without delay or within or at any time and in any manner specified by the Commission, any act or thing that the person is or may be required to do under this Part or any regulation, licence, decision or order made or issued by the Commission under this Part and may, by order, forbid the doing or continuing of any act or thing that is contrary to this Part, to any such regulation, licence, decision or order or to section 34.1.
+- **(2)** The Commission may, by order, require any person to do, without delay or within or at any time and in any manner specified by the Commission, any act or thing that the person is or may be required to do under this Part, under any regulation, licence, decision or order made or issued by the Commission under this Part or under any of sections 42 to 44 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) and may, by order, forbid the doing or continuing of any act or thing that is contrary to this Part, to any such regulation, licence, decision or order, to section 34.1 or to any of sections 42 to 44 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
 
 **Referral to Commission**
 
 - **(3)** Where an inquiry under subsection (1) is heard by a panel established under subsection 20(1) and the panel issues an order pursuant to subsection (2) of this section, any person who is affected by the order may, within thirty days after the making thereof, apply to the Commission to reconsider any decision or finding made by the panel, and the Commission may rescind or vary any order or decision made by the panel or may re-hear any matter before deciding it.
-> 1991, c. 11, s. 12; 2014, c. 39, s. 191.
+> 1991, c. 11, s. 12; 2014, c. 39, s. 1912019, c. 10, s. 161
 
 
 
@@ -492,7 +493,7 @@ the Commission may inquire into, hear and determine the matter.
 **Place of hearing**
 
 - **(4)** A public hearing under this section may be held at such place in Canada as the Chairperson of the Commission may designate.
-> 1991, c. 11, s. 18; 2001, c. 34, s. 32(E).
+> 1991, c. 11, s. 18; 2001, c. 34, s. 32(E)
 
 
 
@@ -504,7 +505,7 @@ the Commission may inquire into, hear and determine the matter.
 - **(a)** any application received by it for the issue, amendment or renewal of a licence, other than a licence to carry on a temporary network operation,
 - **(b)** any decision made by it to issue, amend or renew a licence, and
 - **(c)** any public hearing to be held by it under section 18
-to be published in the Canada Gazette and in one or more newspapers of general circulation within any area affected or likely to be affected by the application, decision or matter to which the public hearing relates.
+to be published in the [Canada Gazette](http://www.gazette.gc.ca/) and in one or more newspapers of general circulation within any area affected or likely to be affected by the application, decision or matter to which the public hearing relates.
 
 
 
@@ -526,7 +527,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Consultation**
 
 - **(4)** The members of a panel established under subsection (1) shall consult with the Commission, and may consult with any officer of the Commission, for the purpose of ensuring a consistency of interpretation of the broadcasting policy set out in subsection 3(1), the regulatory policy set out in subsection 5(2) and the regulations made by the Commission under sections 10 and 11.
-> 1991, c. 11, s. 20; 2001, c. 34, s. 32(E); 2010, c. 12, s. 1710.
+> 1991, c. 11, s. 20; 2001, c. 34, s. 32(E); 2010, c. 12, s. 1710
 
 
 
@@ -566,7 +567,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Issue, etc., contravening this section**
 
 - **(4)** Any licence issued, amended or renewed in contravention of this section is of no force or effect.
-> 1991, c. 11, s. 22; 1995, c. 1, s. 31.
+> 1991, c. 11, s. 22; 1995, c. 1, s. 31
 
 
 
@@ -592,7 +593,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 
 **Publication and tabling of directive**
 
-- **(5)** A directive issued by the Minister under subsection (3) shall be published forthwith in the Canada Gazette and shall be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the directive is issued.
+- **(5)** A directive issued by the Minister under subsection (3) shall be published forthwith in the [Canada Gazette](http://www.gazette.gc.ca/) and shall be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the directive is issued.
 
 
 
@@ -603,7 +604,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 
 - **(1)** No licence shall be suspended or revoked under this Part unless the licensee applies for or consents to the suspension or revocation or, in any other case, unless, after a public hearing in accordance with section 18, the Commission is satisfied that
 	- **(a)** the licensee has contravened or failed to comply with any condition of the licence or with any order made under subsection 12(2) or any regulation made under this Part; or
-	- **(b)** the licence was, at any time within the two years immediately preceding the date of publication in the Canada Gazette of the notice of the public hearing, held by a person to whom the licence could not have been issued at that time by virtue of a direction to the Commission issued by the Governor in Council under this Act.
+	- **(b)** the licence was, at any time within the two years immediately preceding the date of publication in the [Canada Gazette](http://www.gazette.gc.ca/) of the notice of the public hearing, held by a person to whom the licence could not have been issued at that time by virtue of a direction to the Commission issued by the Governor in Council under this Act.
 
 **Licences of Corporation**
 
@@ -611,7 +612,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 
 **Publication of decision**
 
-- **(3)** A copy of a decision of the Commission relating to the suspension or revocation of a licence, together with written reasons for the decision, shall, forthwith after the making of the decision, be forwarded by prepaid registered mail to all persons who were heard at or made any oral representations in connection with the hearing held under subsection (1), and a summary of the decision and of the reasons for the decision shall, at the same time, be published in the Canada Gazette and in one or more newspapers of general circulation within any area affected or likely to be affected by the decision.
+- **(3)** A copy of a decision of the Commission relating to the suspension or revocation of a licence, together with written reasons for the decision, shall, forthwith after the making of the decision, be forwarded by prepaid registered mail to all persons who were heard at or made any oral representations in connection with the hearing held under subsection (1), and a summary of the decision and of the reasons for the decision shall, at the same time, be published in the [Canada Gazette](http://www.gazette.gc.ca/) and in one or more newspapers of general circulation within any area affected or likely to be affected by the decision.
 
 
 
@@ -649,7 +650,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 
 **Publication and tabling**
 
-- **(3)** An order made under subsection (1) or (2) shall be published forthwith in the Canada Gazette and a copy thereof shall be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the making of the order.
+- **(3)** An order made under subsection (1) or (2) shall be published forthwith in the [Canada Gazette](http://www.gazette.gc.ca/) and a copy thereof shall be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the making of the order.
 
 **Consultation**
 
@@ -799,7 +800,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Prohibition**
 
 **34.1** No person who carries on a broadcasting undertaking shall charge a subscriber for providing the subscriber with a paper bill.
-> 2014, c. 39, s. 192.
+> 2014, c. 39, s. 192
 
 
 
@@ -810,7 +811,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **34.2** Every person who contravenes section 34.1 is guilty of an offence punishable on summary conviction and is liable
 - **(a)** in the case of an individual, to a fine not exceeding $25,000 for a first offence and not exceeding $50,000 for each subsequent offence; or
 - **(b)** in the case of a corporation, to a fine not exceeding $250,000 for a first offence and not exceeding $500,000 for each subsequent offence.
-> 2014, c. 39, s. 192.
+> 2014, c. 39, s. 192
 
 
 
@@ -819,7 +820,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Limitation**
 
 **34.3** No proceedings for an offence under section 34.2 are to be instituted more than two years after the time when the subject-matter of the proceedings arose.
-> 2014, c. 39, s. 192.
+> 2014, c. 39, s. 192
 
 
 
@@ -884,7 +885,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Continuation in office**
 
 - **(5)** Notwithstanding subsections (3) and (4), if a director is not appointed to take office on the expiration of the term of office of an incumbent director, the incumbent director continues in office until a successor is appointed.
-> 1991, c. 11, s. 36; 1995, c. 29, s. 4.
+> 1991, c. 11, s. 36; 1995, c. 29, s. 4
 
 
 
@@ -1081,7 +1082,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Independence**
 
 - **(5)** The Corporation shall, in the pursuit of its objects and in the exercise of its powers, enjoy freedom of expression and journalistic, creative and programming independence.
-> 1991, c. 11, s. 46; 2014, c. 20, s. 366(E).
+> 1991, c. 11, s. 462014, c. 20, s. 366(E)
 
 
 
@@ -1102,7 +1103,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 - **(3)** The total indebtedness outstanding in respect of borrowings under subsections (1) and (2) shall not exceed
 	- **(a)** $220,000,000; or
 	- **(b)** such greater amount as may be authorized for the purposes of this subsection by Parliament under an appropriation Act.
-> 1994, c. 18, s. 18; 2009, c. 31, s. 23.
+> 1994, c. 18, s. 18; 2009, c. 31, s. 23
 
 
 
@@ -1235,7 +1236,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Part VII of [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) not to apply**
 
 **52.1** Notwithstanding the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), Part VII of that Act does not apply to a debt incurred by the Corporation.
-> 1994, c. 18, s. 19.
+> 1994, c. 18, s. 19
 
 
 
@@ -1292,7 +1293,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Approval of multi-year items**
 
 - **(8)** The Treasury Board may approve any item in a capital budget submitted pursuant to paragraph (3)(b) for any financial year or years following the financial year for which the budget is submitted.
-> 1991, c. 11, s. 54; 1994, c. 18, s. 20.
+> 1991, c. 11, s. 54; 1994, c. 18, s. 20
 
 
 
@@ -1380,7 +1381,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Reports to Minister**
 
 - **(7)** The Board shall make to the Minister such reports of the financial affairs of the Corporation as the Minister requires.
-> 1991, c. 11, s. 60; 2005, c. 30, s. 41.
+> 1991, c. 11, s. 60; 2005, c. 30, s. 41
 
 
 
@@ -1455,7 +1456,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 	- **(d)** quantitative information respecting the performance of the Corporation, including its wholly-owned subsidiaries, if any, relative to the Corporation’s objectives, and
 	- **(e)** such other information in respect of the financial affairs of the Corporation as is required by this Part or by the Minister to be included therein,
 and shall be prepared in a form that clearly sets out information according to the major businesses or activities of the Corporation and its wholly-owned subsidiaries, if any.
-> 1991, c. 11, s. 71; 2005, c. 30, s. 43.
+> 1991, c. 11, s. 71; 2005, c. 30, s. 43
 
 
 
@@ -1557,6 +1558,19 @@ and shall be prepared in a form that clearly sets out information according to t
 
 
 **3** Any licence issued in connection with the operation of any radio or television station owned and operated by the Corporation.
+
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 1995, c. 29, s. 5
+
+
+**Directors cease to hold office**
+
+**5** Notwithstanding subsection 36(5) of the Act, every person who was a director of the Canadian Broadcasting Corporation immediately before the coming into force of section 4 of this Act by reason of that subsection shall cease to hold office on the coming into force of section 4 of this Act.
 
 
 
