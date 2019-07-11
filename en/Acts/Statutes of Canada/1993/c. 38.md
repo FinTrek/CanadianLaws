@@ -96,7 +96,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of network termination point**
 
 - **(2)** The Commission may define the expression network termination point for purposes of the definition transmission facility in subsection (1).
-> 1993, c. 38, s. 2; 1995, c. 1, s. 62; 1998, c. 8, s. 1; 2004, c. 25, s. 174.
+> 1993, c. 38, s. 2; 1995, c. 1, s. 62; 1998, c. 8, s. 1; 2004, c. 25, s. 174
 
 
 
@@ -127,7 +127,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application**
 
 **5** A trustee, trustee in bankruptcy, receiver, sequestrator, manager, administrator of the property of another or any other person who, under the authority of any court, or any legal instrument or act, operates any transmission facility of a Canadian carrier is subject to this Act.
-> 1993, c. 38, s. 5; 2004, c. 25, s. 175.
+> 1993, c. 38, s. 5; 2004, c. 25, s. 175
 
 
 
@@ -184,7 +184,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Interested persons**
 
 - **(3)** The decision of the Commission that a person is or is not an interested person is binding and conclusive.
-> 1993, c. 38, s. 9; 1999, c. 31, s. 196(F).
+> 1993, c. 38, s. 9; 1999, c. 31, s. 196(F)
 
 
 
@@ -194,7 +194,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **10** 
 
-- **(1)** The Minister shall have an order proposed to be made under section 8 published in the Canada Gazette and laid before each House of Parliament, and a reasonable opportunity shall be given to interested persons to make representations to the Minister with respect to the proposed order.
+- **(1)** The Minister shall have an order proposed to be made under section 8 published in the [Canada Gazette](http://www.gazette.gc.ca/) and laid before each House of Parliament, and a reasonable opportunity shall be given to interested persons to make representations to the Minister with respect to the proposed order.
 
 **Consultation**
 
@@ -266,7 +266,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Notice of petition**
 
-- **(4)** On receipt of a petition, the Minister shall publish in the Canada Gazette a notice of its receipt indicating where the petition and any petition or submission made in response to it may be inspected and copies of them obtained.
+- **(4)** On receipt of a petition, the Minister shall publish in the [Canada Gazette](http://www.gazette.gc.ca/) a notice of its receipt indicating where the petition and any petition or submission made in response to it may be inspected and copies of them obtained.
 
 **Order for reference back**
 
@@ -315,7 +315,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Publication of proposed orders**
 
-- **(3)** Any order proposed to be made under this section shall be published in the Canada Gazette at least sixty days before its proposed effective date, and a reasonable opportunity shall be given to interested persons to make representations to the Minister with respect to the proposed order.
+- **(3)** Any order proposed to be made under this section shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) at least sixty days before its proposed effective date, and a reasonable opportunity shall be given to interested persons to make representations to the Minister with respect to the proposed order.
 
 **Modification after publication**
 
@@ -388,7 +388,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Affiliates**
 
 - **(9)** For the purposes of determining annual revenues from the provision of telecommunications services in Canada under this section, the annual revenues of a Canadian carrier include the annual revenues from the provision of telecommunications services in Canada of its affiliates as defined in subsection 35(3).
-> 1993, c. 38, s. 16; 1998, c. 8, s. 2; 2010, c. 12, s. 2184; 2012, c. 19, s. 595.
+> 1993, c. 38, s. 16; 1998, c. 8, s. 2; 2010, c. 12, s. 2184; 2012, c. 19, s. 595
 
 
 
@@ -407,7 +407,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Licence required — classes of service**
 
 - **(2)** No telecommunications service provider shall, except in accordance with an international telecommunications service licence, provide international telecommunications services that are within a class of telecommunications services specified by the Commission.
-> 1998, c. 8, s. 3.
+> 1998, c. 8, s. 3
 
 
 
@@ -416,7 +416,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application**
 
 **16.2** An application for the issuance, renewal or amendment of an international telecommunications service licence must be made in the form and manner and with the information specified by the Commission, and be accompanied by the fee prescribed under subsection 68(1).
-> 1998, c. 8, s. 3.
+> 1998, c. 8, s. 3
 
 
 
@@ -449,7 +449,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Transfer**
 
 - **(6)** A licence is not transferable except with the consent of the Commission.
-> 1998, c. 8, s. 3.
+> 1998, c. 8, s. 3
 
 
 
@@ -464,7 +464,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Consent of licensee**
 
 - **(2)** The Commission may suspend or revoke a licence with the consent of, or on application by, the licensee.
-> 1998, c. 8, s. 3.
+> 1998, c. 8, s. 3
 
 
 
@@ -484,7 +484,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application**
 
 **18** An application for the issuance, renewal or amendment of an international submarine cable licence must be made in the prescribed form and manner and be accompanied by the prescribed information and the prescribed fee or a fee calculated in the prescribed manner.
-> 1993, c. 38, s. 18; 1999, c. 31, s. 197(F).
+> 1993, c. 38, s. 18; 1999, c. 31, s. 197(F)
 
 
 
@@ -507,7 +507,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Amendment, renewal and transfer**
 
 - **(4)** An international submarine cable licence may be amended or renewed on application by the licensee, but a licence is not transferable except with the consent of the Minister.
-> 1993, c. 38, s. 19; 1998, c. 8, s. 4.
+> 1993, c. 38, s. 19; 1998, c. 8, s. 4
 
 
 
@@ -574,12 +574,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Publication of proposed regulations**
 
-- **(4)** Any regulations proposed to be made under this section shall be published in the Canada Gazette at least sixty days before their proposed effective date, and a reasonable opportunity shall be given to interested persons to make representations to the Minister with respect to the proposed regulations.
+- **(4)** Any regulations proposed to be made under this section shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) at least sixty days before their proposed effective date, and a reasonable opportunity shall be given to interested persons to make representations to the Minister with respect to the proposed regulations.
 
 **Idem**
 
 - **(5)** Proposed regulations that are modified after publication need not be published again under subsection (4).
-> 1993, c. 38, s. 22; 1998, c. 8, s. 5; 1999, c. 31, s. 198(F); 2004, c. 25, s. 176.
+> 1993, c. 38, s. 22; 1998, c. 8, s. 5; 1999, c. 31, s. 198(F); 2004, c. 25, s. 176
 
 
 
@@ -615,7 +615,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** protection of the privacy of those users;
 - **(c)** access to emergency services; and
 - **(d)** access to telecommunications services by persons with disabilities.
-> 2014, c. 39, s. 193.
+> 2014, c. 39, s. 193
 
 
 
@@ -640,7 +640,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(4)** Notwithstanding subsection (1), the Commission may ratify the charging of a rate by a Canadian carrier otherwise than in accordance with a tariff approved by the Commission if the Commission is satisfied that the rate
 	- **(a)** was charged because of an error or other circumstance that warrants the ratification; or
 	- **(b)** was imposed in conformity with the laws of a province before the operations of the carrier were regulated under any Act of Parliament.
-> 1993, c. 38, s. 25; 1999, c. 31, s. 199(F).
+> 1993, c. 38, s. 25; 1999, c. 31, s. 199(F)
 
 
 
@@ -683,7 +683,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(6)** Notwithstanding subsections (1) and (2), a Canadian carrier may provide telecommunications services at no charge or at a reduced rate
 	- **(a)** to the carrier’s directors, officers, employees or former employees; or
 	- **(b)** with the approval of the Commission, to any charitable organization or disadvantaged person or other person.
-> 1993, c. 38, s. 27; 2014, c. 20, s. 239.
+> 1993, c. 38, s. 27; 2014, c. 20, s. 239
 
 
 
@@ -700,7 +700,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Paper bill**
 
 **27.2** Any person who provides telecommunications services shall not charge a subscriber for providing the subscriber with a paper bill.
-> 2014, c. 39, s. 194.
+> 2014, c. 39, s. 194
 
 
 
@@ -721,7 +721,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Idem**
 
 - **(3)** Before the Commission exercises its power under subsection (2), it shall take into account the carrier’s role as a telecommunications common carrier and any operational constraints identified by the carrier.
-> 1993, c. 38, s. 28; 1999, c. 31, s. 200(F).
+> 1993, c. 38, s. 28; 1999, c. 31, s. 200(F)
 
 
 
@@ -733,7 +733,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** the interchange of telecommunications by means of their telecommunications facilities;
 - **(b)** the management or operation of either or both of their facilities or any other facilities with which either or both are connected; or
 - **(c)** the apportionment of rates or revenues between the carriers.
-> 1993, c. 38, s. 29; 1999, c. 31, s. 201(F).
+> 1993, c. 38, s. 29; 1999, c. 31, s. 201(F)
 
 
 
@@ -798,7 +798,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Effect of forbearance**
 
 - **(4)** The Commission shall declare that sections 24, 25, 27, 29 and 31 do not apply to a Canadian carrier to the extent that those sections are inconsistent with a determination of the Commission under this section.
-> 1993, c. 38, s. 34; 1999, c. 31, s. 202(F).
+> 1993, c. 38, s. 34; 1999, c. 31, s. 202(F)
 
 
 
@@ -855,7 +855,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Transmittal**
 
 - **(3)** The Commission shall, on request, provide the Minister or the Chief Statistician of Canada with any information submitted to the Commission.
-> 1993, c. 38, s. 37; 1999, c. 31, s. 203(F).
+> 1993, c. 38, s. 37; 1999, c. 31, s. 203(F)
 
 
 
@@ -916,7 +916,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Information inadmissible**
 
 - **(6)** Designated information that is not disclosed or required to be disclosed under this section is not admissible in evidence in any judicial proceedings except proceedings for failure to submit information required to be submitted under this Act or any special Act or for forgery, perjury or false declaration in relation to the submission of the information.
-> 1993, c. 38, s. 39; 2003, c. 22, s. 224(E); 2010, c. 23, s. 88; 2014, c. 39, s. 195.
+> 1993, c. 38, s. 39; 2003, c. 22, s. 224(E); 2010, c. 23, s. 88; 2014, c. 39, s. 195
 
 
 
@@ -954,7 +954,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 - **(2)** Despite subsection (1), the Commission may not prohibit or regulate the use by any person of the telecommunications facilities of a Canadian carrier for the provision of unsolicited telecommunications, if the telecommunication is
 	- **(a)** a commercial electronic message to which section 6 of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) applies; or
 	- **(b)** a commercial electronic message referred to in subsection 6(5) of that Act, except to the extent that it is one referred to in subsection 6(8) of that Act.
-> 1993, c. 38, s. 41; 2010, c. 23, s. 89.
+> 1993, c. 38, s. 41; 2010, c. 23, s. 89
 
 
 
@@ -963,7 +963,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Do not call list**
 
 **41.1** Sections 41.2 to 41.7 create a legislative framework for a national do not call list.
-> 2005, c. 50, s. 1.
+> 2005, c. 50, s. 1
 
 
 
@@ -975,7 +975,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 - **(a)** administer databases or information, administrative or operational systems;
 - **(b)** determine any matter, and make any order, with respect to the databases or the information, administrative or operational systems; and
 - **(c)** conduct investigations to determine whether there has been a contravention of any order made under that section.
-> 2005, c. 50, s. 1; 2012, c. 19, s. 596.
+> 2005, c. 50, s. 1; 2012, c. 19, s. 596
 
 
 
@@ -998,7 +998,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Modification after publication**
 
 - **(4)** Proposed regulations that are modified after publication need not be published again under subsection (3).
-> 2012, c. 19, s. 597.
+> 2012, c. 19, s. 597
 
 
 
@@ -1021,7 +1021,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Revocation of delegation**
 
 - **(4)** The Commission may, in writing, revoke a delegation of powers. A revocation is deemed not to be a decision of the Commission.
-> 2005, c. 50, s. 1; 2012, c. 19, s. 598.
+> 2005, c. 50, s. 1; 2012, c. 19, s. 598
 
 
 
@@ -1034,7 +1034,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 - **(1)** A delegate may charge rates for exercising delegated powers.
 
 - **(2)** [Repealed, 2012, c. 19, s. 599]
-> 2005, c. 50, s. 1; 2012, c. 19, s. 599.
+> 2005, c. 50, s. 1; 2012, c. 19, s. 599
 
 
 
@@ -1049,7 +1049,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Exception — fees**
 
 - **(2)** However, any fees that are prescribed under subsection 41.21(1) and collected by the delegate are public money when they are paid to the Receiver General.
-> 2012, c. 19, s. 600.
+> 2012, c. 19, s. 600
 
 
 
@@ -1058,7 +1058,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Regulation of rates and delegated powers**
 
 **41.5** The Commission may regulate the rates charged by a delegate, whether by requiring pre-approval of the rates or otherwise, and the manner in which the delegate exercises any of the delegated powers.
-> 2005, c. 50, s. 1.
+> 2005, c. 50, s. 1
 
 
 
@@ -1077,7 +1077,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Tabling of report**
 
 - **(3)** The Minister shall cause a copy of the report referred to in subsection (1) to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister receives the report.
-> 2005, c. 50, s. 1.
+> 2005, c. 50, s. 1
 
 
 
@@ -1124,7 +1124,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Exception**
 
 - **(5)** Subsections (3) and (4) do not apply in respect of a person making a telecommunication referred to in paragraph (1)(f).
-> 2005, c. 50, s. 1.
+> 2005, c. 50, s. 1
 
 
 
@@ -1168,7 +1168,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Access by others**
 
 - **(5)** Where a person who provides services to the public cannot, on terms acceptable to that person, gain access to the supporting structure of a transmission line constructed on a highway or other public place, that person may apply to the Commission for a right of access to the supporting structure for the purpose of providing such services and the Commission may grant the permission subject to any conditions that the Commission determines.
-> 1993, c. 38, s. 43; 1999, c. 31, s. 204(F).
+> 1993, c. 38, s. 43; 1999, c. 31, s. 204(F)
 
 
 
@@ -1186,7 +1186,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Drainage and utilities**
 
 **45** On application by a municipality or other public authority, or by an owner of land, the Commission may authorize the construction of drainage works or the laying of utility pipes on, over, under or along a transmission line of a Canadian carrier or any lands used for the purposes of a transmission line, subject to any conditions that the Commission determines.
-> 1993, c. 38, s. 45; 1999, c. 31, s. 205(F).
+> 1993, c. 38, s. 45; 1999, c. 31, s. 205(F)
 
 
 
@@ -1212,7 +1212,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Liability to Crown for expenses**
 
 - **(4)** The expenses incurred in carrying out any function of the Attorney General of Canada under the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) in relation to any land or any interest or right in land referred to in subsection (3) constitute a debt due to Her Majesty in right of Canada by the Canadian carrier and are recoverable in a court of competent jurisdiction.
-> 1993, c. 38, s. 46; 2004, c. 25, s. 177.
+> 1993, c. 38, s. 46; 2004, c. 25, s. 177
 
 
 
@@ -1229,7 +1229,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 	- **(i)** databases or information, administrative or operational systems related to the functioning of telecommunications networks, or
 	- **(ii)** numbering resources used in the functioning of telecommunications networks, including the portion of the North American Numbering Plan resources that relates to Canadian telecommunications networks; and
 - **(b)** determine any matter and make any order with respect to the databases, information, administrative or operational systems or numbering resources.
-> 1998, c. 8, s. 6.
+> 1998, c. 8, s. 6
 
 
 
@@ -1252,7 +1252,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Revocation of delegation**
 
 - **(4)** The Commission may, in writing, revoke a delegation of powers. A revocation is deemed not to be a decision of the Commission.
-> 1998, c. 8, s. 6.
+> 1998, c. 8, s. 6
 
 
 
@@ -1271,7 +1271,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) does not apply**
 
 - **(3)** Notwithstanding the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), money collected by a delegate is deemed not to be public money.
-> 1998, c. 8, s. 6.
+> 1998, c. 8, s. 6
 
 
 
@@ -1282,7 +1282,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **46.4** The Commission may regulate
 - **(a)** the manner in which any person provides services relating to any of the matters referred to in paragraph 46.1(a); and
 - **(b)** the rates, whether by requiring pre-approval of the rates or otherwise, charged by the person.
-> 1998, c. 8, s. 6.
+> 1998, c. 8, s. 6
 
 
 
@@ -1303,7 +1303,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 - **(3)** The Commission may regulate
 	- **(a)** the manner in which the administrator administers the fund; and
 	- **(b)** the rates, whether by requiring pre-approval of the rates or otherwise, charged by the administrator for administering the fund.
-> 1998, c. 8, s. 6.
+> 1998, c. 8, s. 6
 
 
 
@@ -1333,9 +1333,15 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 - **(1)** The Commission may, on application by any interested person or on its own motion, inquire into and make a determination in respect of anything prohibited, required or permitted to be done under Part II, except in relation to international submarine cables, Part III or this Part or under any special Act, and the Commission shall inquire into any matter on which it is required to report or take action under section 14.
 
+**Accessibility inquiries**
+
+- **(1.1)** The Commission may, on application by any interested person or on its own motion, inquire into and make a determination in respect of anything prohibited, required or permitted to be done under sections 51 to 53 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
+
 **Interested persons**
 
 - **(2)** The decision of the Commission that a person is or is not an interested person is binding and conclusive.
+> 1993, c. 38, s. 482019, c. 10, s. 162
+
 
 
 
@@ -1356,7 +1362,9 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **Mandatory and restraining orders**
 
-**51** The Commission may order a person, at or within any time and subject to any conditions that it determines, to do anything the person is required to do under this Act or any special Act, and may forbid a person to do anything that the person is prohibited from doing under this Act or any special Act.
+**51** The Commission may order a person, at or within any time and subject to any conditions that it determines, to do anything the person is required to do under this Act, under sections 51 to 53 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) or under any special Act, and may forbid a person to do anything that the person is prohibited from doing under this Act, under those sections of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) or under any special Act.
+> 1993, c. 38, s. 512019, c. 10, s. 163
+
 
 
 
@@ -1533,7 +1541,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Argument by Commission**
 
 - **(6)** The Commission is entitled to be heard on an application for leave to appeal and at any stage of an appeal, but costs may not be awarded against it or any of its members.
-> 1993, c. 38, s. 64; 1999, c. 31, s. 206(F).
+> 1993, c. 38, s. 64; 1999, c. 31, s. 206(F)
 
 
 
@@ -1545,7 +1553,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **Judicial notice**
 
-**65** A decision of the Commission or a tariff approved by the Commission that is published in the Canada Gazette by or with leave of the Commission shall be judicially noticed.
+**65** A decision of the Commission or a tariff approved by the Commission that is published in the [Canada Gazette](http://www.gazette.gc.ca/) by or with leave of the Commission shall be judicially noticed.
 
 
 
@@ -1567,7 +1575,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Certificate**
 
 - **(4)** A certificate appearing to be signed by the secretary to the Commission and bearing the Commission’s seal is evidence of its contents without proof of the signature.
-> 1993, c. 38, s. 66; 2001, c. 34, s. 32(E); 2004, c. 25, s. 178.
+> 1993, c. 38, s. 66; 2001, c. 34, s. 32(E); 2004, c. 25, s. 178
 
 
 
@@ -1596,7 +1604,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Incorporation by reference**
 
 - **(3)** Regulations made by the Commission incorporating any standard or enactment by reference may incorporate it as amended from time to time.
-> 1993, c. 38, s. 67; 1998, c. 8, s. 7.
+> 1993, c. 38, s. 67; 1998, c. 8, s. 7
 
 
 
@@ -1619,7 +1627,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **69** 
 
-- **(1)** Any regulations proposed to be made under section 67 or 68 shall be published in the Canada Gazette at least sixty days before their proposed effective date, and a reasonable opportunity shall be given to interested persons to make representations to the Commission with respect to the proposed regulations.
+- **(1)** Any regulations proposed to be made under section 67 or 68 shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) at least sixty days before their proposed effective date, and a reasonable opportunity shall be given to interested persons to make representations to the Commission with respect to the proposed regulations.
 
 **Idem**
 
@@ -1642,7 +1650,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **69.1** This Part applies to telecommunications apparatus that can be
 - **(a)** connected to telecommunications networks of Canadian carriers; and
 - **(b)** used by a telecommunications service subscriber at their premises.
-> 1998, c. 8, s. 8.
+> 1998, c. 8, s. 8
 
 
 
@@ -1661,7 +1669,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Specifications and markings**
 
 - **(2)** No person shall distribute, lease, offer for sale, sell or import any telecommunications apparatus for which technical specifications or markings are required under section 69.3 or 69.4, unless the apparatus complies with those requirements.
-> 1998, c. 8, s. 8; 2014, c. 39, s. 196.
+> 1998, c. 8, s. 8; 2014, c. 39, s. 196
 
 
 
@@ -1703,7 +1711,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 		- **(ii)** the registration was obtained through misrepresentation, or
 		- **(iii)** the apparatus does not comply with the applicable technical specifications or markings; or
 	- **(c)** on giving written notice of suspension or revocation to the registrant, without having to give the registrant an opportunity to make representations to the Minister with respect to the notice, if the registrant has failed to comply with a request to pay fees or interest due.
-> 1998, c. 8, s. 8; 2014, c. 39, s. 197.
+> 1998, c. 8, s. 8; 2014, c. 39, s. 197
 
 
 
@@ -1732,7 +1740,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Incorporation by reference**
 
 - **(2)** For greater certainty, a regulation made under subsection (1) incorporating by reference a classification, standard, procedure or other specification may incorporate the classification, standard, procedure or specification as amended from time to time.
-> 1998, c. 8, s. 8; 2014, c. 39, s. 198.
+> 1998, c. 8, s. 8; 2014, c. 39, s. 198
 
 
 
@@ -1786,7 +1794,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **71** 
 
-- **(1)** The Commission may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act or any special Act for which the Commission is responsible, with the provisions of Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), and with the decisions of the Commission under this Act.
+- **(1)** The Commission may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act or any special Act for which the Commission is responsible, with the provisions of Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), with sections 51 to 53 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) and with the decisions of the Commission under this Act.
 
 **Designation of inspectors**
 
@@ -1799,7 +1807,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Powers of inspectors**
 
 - **(4)** An inspector may, subject to subsection (5), for the purposes for which the inspector was designated an inspector,
-	- **(a)** enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), and examine the document, information or thing or remove it for examination or reproduction;
+	- **(a)** enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) or sections 51 to 53 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), and examine the document, information or thing or remove it for examination or reproduction;
 	- **(b)** make use of, or cause to be made use of, any computer system at the place to examine any data contained in or available to the system;
 	- **(c)** reproduce any document, or cause it to be reproduced, from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
 	- **(d)** use any copying equipment or means of communication in the place.
@@ -1825,14 +1833,14 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **Information requirement**
 
-- **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
+- **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) or sections 51 to 53 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
 
 **Obstruction, false information**
 
 - **(10)** No person shall
 	- **(a)** resist or wilfully obstruct the inspector in carrying out his or her duties; or
 	- **(b)** knowingly make a false or misleading statement, either orally or in writing, to the inspector.
-> 1993, c. 38, s. 71; 1999, c. 31, s. 207(F); 2014, c. 12, s. 137, c. 39, ss. 200, 209.
+> 1993, c. 38, s. 71; 1999, c. 31, s. 207(F); 2014, c. 12, s. 137, c. 39, ss. 200, 2092019, c. 10, s. 164
 
 
 
@@ -1855,7 +1863,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Exception**
 
 - **(3)** Nothing in subsection (1) or (2) applies to any action for breach of a contract to provide telecommunications services or any action for damages in relation to a rate charged by a Canadian carrier.
-> 1993, c. 38, s. 72; 2001, c. 4, s. 122(F).
+> 1993, c. 38, s. 72; 2001, c. 4, s. 122(F)
 
 
 
@@ -1867,10 +1875,10 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **Commission of violation**
 
-**72.001** Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation or decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, constitutes a violation and the person who commits the violation is liable
+**72.001** Every contravention of a provision of this Act, other than section 17 or 69.2, every contravention of a regulation or decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, and every contravention of any of subsections 51(1) to (4) and (7), 52(1) to (3) and 53(1) to (3) and (6) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md) constitutes a violation and the person who commits the violation is liable
 - **(a)** in the case of an individual, to an administrative monetary penalty not exceeding $25,000 and, for a subsequent contravention, a penalty not exceeding $50,000; or
 - **(b)** in any other case, to an administrative monetary penalty not exceeding $10,000,000 and, for a subsequent contravention, a penalty not exceeding $15,000,000.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 2012019, c. 10, s. 165
 
 
 
@@ -1891,7 +1899,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Purpose of penalty**
 
 - **(2)** The purpose of the penalty is to promote compliance with this Act, the regulations or the decisions made by the Commission under this Act, and not to punish.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -1900,7 +1908,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Procedures**
 
 **72.003** Despite subsection 72.005(1), the Commission may impose a penalty in a decision in the course of a proceeding before it under this Act in which it finds that there has been a contravention of a provision, a regulation or a decision referred to in section 72.001.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -1911,7 +1919,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **72.004** The Commission may
 - **(a)** designate a person, or class of persons, that is authorized to issue notices of violation or accept an undertaking; and
 - **(b)** establish, in respect of each violation, a short-form description to be used in notices of violation.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -1929,7 +1937,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 	- **(a)** the penalty that the person is liable to pay;
 	- **(b)** a statement as to the right of the person, within 30 days after the day on which the notice is served, or within any longer period that the Commission specifies, to pay the penalty or to make representations with respect to the violation and the penalty, and the manner for doing so; and
 	- **(c)** a statement indicating that if the person does not pay the penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the penalty may be imposed.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -1961,7 +1969,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Failure to respect undertaking**
 
 - **(5)** Failure to respect an undertaking constitutes a violation.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -1984,7 +1992,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Copy of decision and notice of rights**
 
 - **(4)** The Commission shall cause a copy of any decision made under subsection (2) or (3) to be issued and served on the person together with a notice of the person’s right to apply for a review under section 62 or for leave to appeal under section 64.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -1993,7 +2001,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Officer, director or agent or mandatary of corporations**
 
 **72.008** An officer, director or agent or mandatary of a corporation that commits a violation is liable for the violation if they directed, authorized, assented to, acquiesced in or participated in the commission of the violation, whether or not the corporation is proceeded against.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -2025,7 +2033,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Registration in Federal Court**
 
 - **(5)** Registration in the Federal Court of a certificate made under subsection (4) has the same effect as a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -2040,7 +2048,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Certificate of secretary to Commission**
 
 - **(2)** A document appearing to have been issued by the secretary to the Commission, certifying the day on which the subject-matter of any proceedings became known to the Commission, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -2051,7 +2059,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **72.0092** The Commission may make public
 - **(a)** the name of a person who enters into an undertaking, the nature of the undertaking including the acts or omissions, the provisions or the decisions at issue, the conditions included in the undertaking and, if applicable, the amount of the penalty; and
 - **(b)** the name of a person who committed the violation, the nature of the violation including the acts or omissions and provisions or decisions at issue and the amount of the penalty.
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -2063,7 +2071,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 - **(a)** exempting from the application of section 72.001 any provision of this Act or the regulations or any decision;
 - **(b)** for the purpose of paragraph 72.002(1)(e), establishing other factors to be considered in determining the amount of the penalty; and
 - **(c)** respecting undertakings entered into under subsection 72.006(1).
-> 2014, c. 39, s. 201.
+> 2014, c. 39, s. 201
 
 
 
@@ -2078,7 +2086,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **72.01** Every contravention of a prohibition or requirement of the Commission under section 41 and every contravention of any provision of Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) constitutes a violation and the person who commits the violation is liable
 - **(a)** in the case of an individual, to an administrative monetary penalty of up to $1,500; or
 - **(b)** in the case of a corporation, to an administrative monetary penalty of up to $15,000.
-> 2005, c. 50, s. 2; 2014, c. 12, s. 138.
+> 2005, c. 50, s. 2; 2014, c. 12, s. 138
 
 
 
@@ -2091,7 +2099,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Continuing violation**
 
 **72.03** A violation that is continued on more than one day constitutes a separate violation in respect of each day during which it is continued.
-> 2005, c. 50, s. 2.
+> 2005, c. 50, s. 2
 
 
 
@@ -2108,7 +2116,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Certificate**
 
 - **(2)** A person designated under paragraph (1)(a) shall be provided with a certificate of designation, which certificate must be presented at the request of any person appearing to be in charge of any place entered by the designated person.
-> 2005, c. 50, s. 2.
+> 2005, c. 50, s. 2
 
 
 
@@ -2134,7 +2142,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 	- **(a)** the penalty for the violation as set out in section 72.01;
 	- **(b)** the right of the person, within 30 days after the notice is served, or within any longer period that the Commission specifies, to pay the penalty or to make representations to the Commission with respect to the violation, and the manner for doing so; and
 	- **(c)** the fact that, if the person does not pay the penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the Commission may impose the penalty.
-> 2005, c. 50, s. 2.
+> 2005, c. 50, s. 2
 
 
 
@@ -2157,7 +2165,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Copy of decision and notice of rights**
 
 - **(4)** The Commission must cause a copy of any decision made under subsection (2) or (3) to be issued and served on the person together with a notice of the person’s right to apply for a review under section 62 or for leave to appeal under section 64.
-> 2005, c. 50, s. 2; 2014, c. 39, s. 205.
+> 2005, c. 50, s. 2; 2014, c. 39, s. 205
 
 
 
@@ -2184,7 +2192,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Registration in Federal Court**
 
 - **(5)** Registration in the Federal Court of a certificate made under subsection (4) has the same effect as a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
-> 2005, c. 50, s. 2.
+> 2005, c. 50, s. 2
 
 
 
@@ -2207,7 +2215,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Certificate of secretary to the Commission**
 
 - **(2)** A document appearing to have been issued by the secretary to the Commission, certifying the day on which the subject-matter of any proceedings became known to the Commission, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
-> 2005, c. 50, s. 2.
+> 2005, c. 50, s. 2
 
 
 
@@ -2216,7 +2224,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Publication**
 
 **72.13** The Commission may make public the nature of a violation, the name of the person who committed it, and the amount of the administrative monetary penalty.
-> 2005, c. 50, s. 2.
+> 2005, c. 50, s. 2
 
 
 
@@ -2229,7 +2237,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Evidence**
 
 **72.14** In a proceeding in respect of a violation, a notice purporting to be served under subsection 72.005(1) or 72.07(1) or a copy of a decision purporting to be served under subsection 72.007(4) or 72.08(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
-> 2005, c. 50, s. 2; 2014, c. 39, s. 207.
+> 2005, c. 50, s. 2; 2014, c. 39, s. 207
 
 
 
@@ -2244,7 +2252,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Common law principles**
 
 - **(2)** Every rule and principle of the common law that makes any circumstance a justification or excuse in relation to a charge for an offence under this Act or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) applies in respect of a violation to the extent that it is not inconsistent with this Act.
-> 2005, c. 50, s. 2; 2014, c. 12, s. 142.1, c. 39, ss. 207, 209.
+> 2005, c. 50, s. 2; 2014, c. 12, s. 142.1, c. 39, ss. 207, 209
 
 
 
@@ -2253,7 +2261,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Vicarious liability — acts of employees, agents and mandataries**
 
 **72.16** A person is liable for a violation that is committed by an employee of the person acting in the course of the employee’s employment, or by an agent or mandatary of the person acting within the scope of the agent’s or mandatary’s authority, whether or not the employee or agent or mandatary who actually committed the violation is identified or proceeded against.
-> 2014, c. 39, s. 207.
+> 2014, c. 39, s. 207
 
 
 
@@ -2262,7 +2270,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **How act or omission may be proceeded with**
 
 **72.17** If an act or omission can be proceeded with either as a violation or as an offence under this Act or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), proceeding in one manner precludes proceeding in the other.
-> 2014, c. 12, s. 143.1, c. 39, ss. 207, 209.
+> 2014, c. 12, s. 143.1, c. 39, ss. 207, 209
 
 
 
@@ -2271,7 +2279,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **For greater certainty**
 
 **72.18** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply.
-> 2014, c. 39, s. 207.
+> 2014, c. 39, s. 207
 
 
 
@@ -2280,7 +2288,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Section 12 does not apply**
 
 **72.19** Section 12 does not apply in respect of any decision of the Commission made under subsection 72.007(2) or (3) or 72.08(2) or (3) or the portion of the decision made under section 72.003 relating to the finding of a contravention and the imposition of a penalty.
-> 2014, c. 39, s. 207.
+> 2014, c. 39, s. 207
 
 
 
@@ -2289,7 +2297,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Group considered corporation**
 
 **72.2** For the purposes of sections 71 and 72.01 to 72.19, a group as defined in section 348.01 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) is considered to be a corporation.
-> 2014, c. 12, s. 143, c. 39, s. 209.
+> 2014, c. 12, s. 143, c. 39, s. 209
 
 
 
@@ -2347,7 +2355,7 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 **Group considered corporation**
 
 - **(9)** For the purposes of this section, a group as defined in section 348.01 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) is considered to be a corporation.
-> 1993, c. 38, s. 73; 1998, c. 8, s. 9; 2002, c. 17, s. 30; 2014, c. 12, s. 144, c. 39, s. 208.
+> 1993, c. 38, s. 73; 1998, c. 8, s. 9; 2002, c. 17, s. 30; 2014, c. 12, s. 144, c. 39, s. 208
 
 
 
@@ -2372,7 +2380,7 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 
 **Notice of forfeiture**
 
-- **(2)** If apparatus is ordered to be forfeited under subsection (1), the Minister shall cause a notice of the forfeiture to be published in the Canada Gazette.
+- **(2)** If apparatus is ordered to be forfeited under subsection (1), the Minister shall cause a notice of the forfeiture to be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Application by person claiming interest or right**
 
@@ -2395,7 +2403,7 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 **Liability for costs**
 
 - **(7)** Any persons convicted in respect of the forfeited apparatus are jointly and severally, or solidarily, liable for all the costs of inspection, seizure, forfeiture or disposition incurred by Her Majesty that exceed any proceeds of the disposition of the apparatus that have been forfeited to Her Majesty under this section.
-> 1998, c. 8, s. 10; 2001, c. 4, s. 123; 2004, c. 25, s. 179.
+> 1998, c. 8, s. 10; 2001, c. 4, s. 123; 2004, c. 25, s. 179
 
 
 
@@ -2432,7 +2440,7 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 **Deemed permission**
 
 - **(2)** A transmission line that was constructed by a Canadian carrier on, over, under or along a highway or other public place while the carrier’s operations were not being regulated under an Act of Parliament shall be deemed to have been constructed with the consent referred to in subsection 43(3).
-> 1993, c. 38, s. 76; 1999, c. 31, s. 208(F).
+> 1993, c. 38, s. 76; 1999, c. 31, s. 208(F)
 
 
 
@@ -2488,5 +2496,68 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 <sup><a href='#T-3.4_en_2'>[*]</a></sup>**134** This Act or any provision thereof shall come into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='T-3.4_en_2'><sup>*</sup></a>: [Note: Act in force October 25, 1993, *see* SI/93-101.]<br />
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 1995, c. 1, s. 62(4)
+
+
+
+**Idem**
+
+- **(4)** Every reference to the Minister of Communications in any order, regulation or other instrument made under the [Radiocommunication Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-2.md) or the Telecommunications Act shall, unless the context otherwise requires, be read as a reference to the Minister of Industry.
+
+
+
+######           — 2005, c. 50, s. 2.1
+
+
+**Review**
+
+**2.1** Three years after this Act comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing the administration and operation of the provisions enacted by this Act.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2010, c. 23, s. 89(2)
+
+**89** 
+
+- **(2)** Subsection 41(2) of the Act, as enacted by subsection (1), is replaced by the following:
+
+**Exception**
+
+- **(2)** Despite subsection (1), the Commission may not prohibit — or, except to the extent provided by subsection (3), regulate — the use by any person of the telecommunications facilities of a Canadian carrier for the provision of unsolicited telecommunications, if the telecommunication is a commercial electronic message to which [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) applies or a commercial electronic message referred to in subsection 6(5) of that Act.
+
+**Regulation**
+
+- **(3)** For the purposes of subsection (2), the Commission may regulate, with respect to the types of telecommunications described in subsection (4),
+	- **(a)** the hours during which the telecommunications facilities of a Canadian carrier may be used by any person;
+	- **(b)** the contact information to be provided by a person referred to in subsection (2) and the circumstances in which and persons to whom it must be provided;
+	- **(c)** telecommunications made to medical or emergency services; and
+	- **(d)** telecommunications where a live operator is not immediately available when the recipient of the telecommunication connects to it.
+
+**Types of telecommunications**
+
+- **(4)** For the purposes of subsection (3), the types of telecommunications are those that are
+	- **(a)** in whole or in part, interactive two-way voice communications between individuals;
+	- **(b)** sent by means of a facsimile to a telephone account; or
+	- **(c)** voice recordings sent to a telephone account.
+
+
+
+######           — 2010, c. 23, s. 90
+
+
+**2005, c. 50, s. 1**
+
+**90** Sections 41.1 to 41.7 of the Act are repealed.
+
 
 
