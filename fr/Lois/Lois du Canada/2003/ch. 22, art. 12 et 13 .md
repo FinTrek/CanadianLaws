@@ -123,7 +123,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Abus de pouvoir**
 
 - **(4)** Il est entendu que, pour l’application de la présente loi, on entend notamment par ***abus de pouvoir*** la mauvaise foi et le favoritisme personnel.
-> 2003, ch. 22, art. 12 « 2 » et 271; 2005, ch. 16, art. 17; 2013, ch. 40, art. 403; 2017, ch. 9, art. 48.
+> 2003, ch. 22, art. 12 « 2 » et 271; 2005, ch. 16, art. 17; 2013, ch. 40, art. 403; 2017, ch. 9, art. 48
 
 
 
@@ -293,7 +293,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation par la Commission**
 
 **14** Sur demande ou lorsqu’elle le juge utile, la Commission consulte l’employeur ou toute organisation syndicale accréditée comme agent négociateur au titre de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) sur les lignes directrices relatives à la façon de faire et de révoquer les nominations et sur les principes régissant les priorités de nomination ou les mises en disponibilité.
-> 2003, ch. 22, art. 12 « 14 »; 2017, ch. 9, art. 55.
+> 2003, ch. 22, art. 12 « 14 »; 2017, ch. 9, art. 55
 
 
 
@@ -425,7 +425,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **h)** fixer les modalités et les délais relatifs aux allégations, et les modalités relatives à la conduite des enquêtes, visées par la partie 7;
 	- **i)** prévoir, pour l’application de l’article 64, les modalités relatives aux mises en disponibilité et la façon de choisir les fonctionnaires qui seront mis en disponibilité;
 	- **j)** prévoir les circonstances pour l’application de l’article 50.2.
-> 2003, ch. 22, art. 12 « 22 »; 2006, ch. 9, art. 100; 2013, ch. 18, art. 59; 2015, ch. 5, art. 2.
+> 2003, ch. 22, art. 12 « 22 »; 2006, ch. 9, art. 100; 2013, ch. 18, art. 59; 2015, ch. 5, art. 2
 
 
 
@@ -502,7 +502,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **27** Sur demande ou lorsqu’il le juge utile, l’employeur consulte :
 - **a)** la Commission ou toute organisation syndicale accréditée comme agent négociateur au titre de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) au sujet des règlements pris en vertu des alinéas 26(1)b) ou d) ou des lignes directrices correspondantes établies aux termes du paragraphe 26(2);
 - **b)** toute organisation syndicale ainsi accréditée au sujet des règlements pris en vertu des alinéas 26(1)a) ou c), des lignes directrices correspondantes établies aux termes du paragraphe 26(2) ou des normes de qualification établies en vertu du paragraphe 31(1).
-> 2003, ch. 22, art. 12 « 27 »; 2017, ch. 9, art. 55.
+> 2003, ch. 22, art. 12 « 27 »; 2017, ch. 9, art. 55
 
 
 
@@ -631,7 +631,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Annulation**
 
 - **(5)** Le gouverneur en conseil peut, sur recommandation de la Commission, annuler toute mesure prise en vertu du paragraphe (4).
-> 2003, ch. 22, art. 12 « 35 »; 2013, ch. 40, art. 404.
+> 2003, ch. 22, art. 12 « 35 »; 2013, ch. 40, art. 404
 
 
 
@@ -656,7 +656,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de militaire**
 
 - **(3)** Au présent article, ***militaire*** s’entend de la personne qui est enrôlée dans les Forces canadiennes.
-> 2005, ch. 21, art. 115; 2015, ch. 5, art. 3.
+> 2005, ch. 21, art. 115; 2015, ch. 5, art. 3
 
 
 
@@ -677,7 +677,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exceptions**
 
 - **(3)** Pour l’application de l’alinéa (1)a), si des critères concernant l’appartenance à un groupe désigné au sens de l’article 3 de la [Loi sur l’équité en matière d’emploi](/fr/Lois/Lois%20du%20Canada/1995/ch.%2044.md) sont fixés en vertu de l’article 34, la personne doit y satisfaire.
-> 2015, ch. 5, art. 4.
+> 2015, ch. 5, art. 4
 
 
 
@@ -688,7 +688,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **35.2** La personne qui a été, pendant au moins trois ans, employée dans le cabinet d’un ministre ou du titulaire des charges de leader de l’Opposition au Sénat ou de chef de l’Opposition à la Chambre des communes, ou employée successivement dans deux ou trois de ces cabinets :
 - **a)** peut participer, pendant une période d’un an à partir de la date de sa cessation d’emploi, à tout processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise tous les fonctionnaires, pourvu qu’elle satisfasse aux autres critères fixés, le cas échéant, en vertu de cet article;
 - **b)** a le droit de présenter une plainte en vertu de l’article 77.
-> 2006, ch. 9, art. 101.
+> 2006, ch. 9, art. 101
 
 
 
@@ -699,7 +699,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **35.3** La personne employée au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au bureau du commissaire aux conflits d’intérêts et à l’éthique, au Service de protection parlementaire ou au bureau du directeur parlementaire du budget :
 - **a)** peut participer à tout processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise tous les fonctionnaires, pourvu qu’elle satisfasse aux autres critères fixés, le cas échéant, en vertu de cet article;
 - **b)** a le droit de présenter une plainte en vertu de l’article 77.
-> 2006, ch. 9, art. 101; 2015, ch. 36, art. 151; 2017, ch. 20, art. 186.
+> 2006, ch. 9, art. 101; 2015, ch. 36, art. 151; 2017, ch. 20, art. 186
 
 
 
@@ -728,7 +728,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exceptions au mérite**
 
 **38** L’alinéa 30(2)b) ne s’applique pas dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 39.1 (priorité — militaire des Forces canadiennes), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance de la Commission des relations de travail et de l’emploi) ou des règlements pris en vertu de l’alinéa 22(2)a).
-> 2003, ch. 22, art. 12 « 38 »; 2006, ch. 9, art. 102; 2013, ch. 40, art. 414; 2015, ch. 5, art. 5 et 14.
+> 2003, ch. 22, art. 12 « 38 »; 2006, ch. 9, art. 102; 2013, ch. 40, art. 414; 2015, ch. 5, art. 5 et 14
 
 
 
@@ -754,7 +754,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limite de cinq ans**
 
 - **(3)** Dans le cas de l’ancien combattant visé à l’alinéa f) de la définition de ***ancien combattant***, à l’annexe, l’ordre établi au paragraphe (1) est valide pour la période de cinq ans suivant la date de libération de l’ancien combattant.
-> 2003, ch. 22, art. 12 « 39 »; 2015, ch. 5, art. 6.
+> 2003, ch. 22, art. 12 « 39 »; 2015, ch. 5, art. 6
 
 
 
@@ -769,7 +769,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualifications essentielles**
 
 - **(2)** La personne a une priorité de nomination à tout poste pour lequel, selon la Commission, elle possède les qualifications essentielles visées à l’alinéa 30(2)a).
-> 2015, ch. 5, art. 7.
+> 2015, ch. 5, art. 7
 
 
 
@@ -803,7 +803,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordre des priorités**
 
 - **(6)** Les nominations des personnes visées aux paragraphes (1) et (4) se font selon l’ordre de ces paragraphes; l’ordre de nomination des personnes visées par chacun de ces paragraphes est déterminé par la Commission.
-> 2003, ch. 22, art. 12 « 41 »; 2006, ch. 9, art. 103.
+> 2003, ch. 22, art. 12 « 41 »; 2006, ch. 9, art. 103
 
 
 
@@ -818,7 +818,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** Par dérogation au paragraphe (1), l’administrateur général se conforme aux mesures de restructuration des effectifs prises par l’employeur ou celles figurant dans les accords sur le réaménagement des effectifs, s’il ne peut réintégrer le fonctionnaire dans son poste antérieur en raison d’une restructuration des effectifs.
-> 2008, ch. 15, art. 6.
+> 2008, ch. 15, art. 6
 
 
 
@@ -834,7 +834,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion de la priorité**
 
 **43** Malgré les articles 39.1, 40 et 41 et les règlements pris en vertu de l’alinéa 22(2)a), la Commission peut, lorsqu’elle est d’avis que la nomination d’une personne qui a droit à une priorité de nomination en vertu de l’une de ces dispositions aurait pour effet d’accorder à une autre personne le droit à une priorité de nomination, décider de ne pas appliquer cette disposition dans ce cas.
-> 2003, ch. 22, art. 12 « 43 »; 2015, ch. 5, art. 8.
+> 2003, ch. 22, art. 12 « 43 »; 2015, ch. 5, art. 8
 
 
 
@@ -930,7 +930,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception — bureau du directeur général des élections**
 
 **50.1** Malgré le paragraphe 50(2), l’employé occasionnel peut être nommé au bureau du directeur général des élections — y compris les secteurs de l’administration publique fédérale faisant partie de ce bureau dans lesquels les employés visés à l’article 509.3 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) occupent un poste — en vue d’une élection tenue en vertu de cette loi, ou d’un référendum tenu en vertu de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md), pour une période ne dépassant pas 165 jours ouvrables par année civile.
-> 2007, ch. 21, art. 40; 2018, ch. 31, art. 379.
+> 2007, ch. 21, art. 402018, ch. 31, art. 379
 
 
 
@@ -945,7 +945,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révision**
 
 - **(2)** La Commission peut effectuer annuellement une révision de l’exercice de l’autorité de nommer des employés occasionnels de la Gendarmerie royale du Canada pour une période dépassant quatre-vingt-dix jours ouvrables au cours de l’année civile précédente.
-> 2013, ch. 18, art. 60.
+> 2013, ch. 18, art. 60
 
 
 
@@ -1005,7 +1005,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application des droits de priorité**
 
 - **(2)** L’administrateur général peut procéder à des mutations sans égard aux droits de nomination prévus à l’article 39.1, aux paragraphes 41(1) et (4) ou aux règlements pris en vertu de l’alinéa 22(2)a).
-> 2003, ch. 22, art. 12 « 53 »; 2006, ch. 9, art. 104; 2015, ch. 5, art. 9.
+> 2003, ch. 22, art. 12 « 53 »; 2006, ch. 9, art. 104; 2015, ch. 5, art. 9
 
 
 
@@ -1183,7 +1183,23 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Précision**
 
 - **(8)** Les ordonnances prévues à l’alinéa 53(2)e) et au paragraphe 53(3) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) peuvent faire partie des mesures correctives.
-> 2003, ch. 22, art. 12 « 65 »; 2013, ch. 40, art. 414.
+
+**Avis au commissaire à l’accessibilité**
+
+- **(9)** Le plaignant qui soulève une question liée à une contravention à une disposition des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) en donne avis au commissaire à l’accessibilité, au sens de l’article 2 de cette loi, selon le cas, conformément aux règlements de la Commission des relations de travail et de l’emploi.
+
+**Commissaire à l’accessibilité**
+
+- **(10)** Dans les cas où il est avisé dans le cadre du paragraphe (9), le commissaire à l’accessibilité peut présenter ses observations à la Commission des relations de travail et de l’emploi  relativement à la question soulevée.
+
+**Application de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md)**
+
+- **(11)** Lorsqu’elle décide si la plainte est fondée, la Commission des relations de travail et de l’emploi peut interpréter et appliquer la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md).
+
+**Précision**
+
+- **(12)** Les ordonnances prévues à l’article 102 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) peuvent faire partie des mesures correctives.
+> 2003, ch. 22, art. 12 « 65 »; 2013, ch. 40, art. 4142019, ch. 10, art. 194
 
 
 
@@ -1293,7 +1309,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Plaintes à la Commission des relations de travail et de l’emploi **
 
 **74** La personne dont la nomination est révoquée par la Commission en vertu du paragraphe 67(1) ou par l’administrateur général en vertu des paragraphes 15(3) ou 67(2) peut, selon les modalités et dans le délai fixés par règlement de la Commission des relations de travail et de l’emploi , présenter à celle-ci une plainte selon laquelle la révocation n’était pas raisonnable.
-> 2003, ch. 22, art. 12 « 74 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 74 »; 2013, ch. 40, art. 414
 
 
 
@@ -1302,7 +1318,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Droit de se faire entendre**
 
 **75** Le plaignant, la Commission et l’administrateur général, ou leurs représentants, ont le droit de se faire entendre par la Commission des relations de travail et de l’emploi .
-> 2003, ch. 22, art. 12 « 75 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 75 »; 2013, ch. 40, art. 414
 
 
 
@@ -1311,7 +1327,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Annulation de la révocation**
 
 **76** Si elle juge la plainte fondée, la Commission des relations de travail et de l’emploi  peut ordonner à la Commission ou à l’administrateur général, selon le cas, d’annuler la révocation.
-> 2003, ch. 22, art. 12 « 76 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 76 »; 2013, ch. 40, art. 414
 
 
 
@@ -1339,7 +1355,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Exclusion**
 
 - **(3)** La Commission des relations de travail et de l’emploi  ne peut entendre les allégations portant qu’il y a eu fraude dans le processus de nomination ou que la nomination ou la proposition de nomination a résulté de l’exercice d’une influence politique.
-> 2003, ch. 22, art. 12 « 77 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 77 »; 2013, ch. 40, art. 414
 
 
 
@@ -1348,7 +1364,16 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Avis à la Commission canadienne des droits de la personne**
 
 **78** Le plaignant qui soulève une question liée à l’interprétation ou à l’application de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) en donne avis à la Commission canadienne des droits de la personne conformément aux règlements de la Commission des relations de travail et de l’emploi .
-> 2003, ch. 22, art. 12 « 78 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 78 »; 2013, ch. 40, art. 414
+
+
+
+
+
+**Avis au commissaire à l’accessibilité**
+
+**78.1** Le plaignant qui soulève une question liée à une contravention à une disposition des règlements pris en vertu du paragraphe 117(1) de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) en donne avis au commissaire à l’accessibilité, au sens de l’article 2 de cette loi, conformément aux règlements de la Commission des relations de travail et de l’emploi.
+> 2019, ch. 10, art. 195
 
 
 
@@ -1363,7 +1388,11 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Commission canadienne des droits de la personne**
 
 - **(2)** Dans les cas où elle est avisée dans le cadre de l’article 78, la Commission canadienne des droits de la personne peut présenter ses observations à la Commission des relations de travail et de l’emploi  relativement à la question soulevée.
-> 2003, ch. 22, art. 12 « 79 »; 2013, ch. 40, art. 414.
+
+**Commissaire à l’accessibilité**
+
+- **(3)** Dans les cas où il est avisé dans le cadre de l’article 78.1, le commissaire à l’accessibilité peut présenter ses observations à la Commission des relations de travail et de l’emploi relativement à la question soulevée.
+> 2003, ch. 22, art. 12 « 79 »; 2013, ch. 40, art. 4142019, ch. 10, art. 196
 
 
 
@@ -1372,7 +1401,16 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Application de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md)**
 
 **80** Lorsqu’elle décide si la plainte est fondée, la Commission des relations de travail et de l’emploi peut interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de celle-ci sur le droit à la parité salariale pour l’exécution de fonctions équivalentes.
-> 2003, ch. 22, art. 12 « 80 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 80 »; 2013, ch. 40, art. 414
+
+
+
+
+
+**Application de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md)**
+
+**80.1** Lorsqu’elle décide si la plainte est fondée en application de l’article 77, la Commission des relations de travail et de l’emploi peut interpréter et appliquer la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md).
+> 2019, ch. 10, art. 197
 
 
 
@@ -1387,7 +1425,11 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Précision**
 
 - **(2)** Les ordonnances prévues à l’alinéa 53(2)e) et au paragraphe 53(3) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) peuvent faire partie des mesures correctives.
-> 2003, ch. 22, art. 12 « 81 »; 2013, ch. 40, art. 414.
+
+**Précision**
+
+- **(3)** Les ordonnances prévues à l’article 102 de la [Loi canadienne sur l’accessibilité](/fr/Lois/Lois%20du%20Canada/2019/ch.%2010.md) peuvent faire partie des mesures correctives.
+> 2003, ch. 22, art. 12 « 81 »; 2013, ch. 40, art. 4142019, ch. 10, art. 198
 
 
 
@@ -1396,7 +1438,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Restriction**
 
 **82** La Commission des relations de travail et de l’emploi ne peut ordonner à la Commission de faire une nomination ou d’entreprendre un nouveau processus de nomination.
-> 2003, ch. 22, art. 12 « 82 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 82 »; 2013, ch. 40, art. 414
 
 
 
@@ -1408,7 +1450,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 - **a)** la personne qui a présenté la plainte en vertu de l’article 77;
 - **b)** la personne qui a fait l’objet de la proposition de nomination ou de la nomination visées au paragraphe 77(1);
 - **c)** toute autre personne qui est directement touchée par l’application des mesures correctives.
-> 2003, ch. 22, art. 12 « 83 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 83 »; 2013, ch. 40, art. 414
 
 
 
@@ -1419,7 +1461,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **84** Si elle juge la plainte visée à l’article 83 fondée, la Commission des relations de travail et de l’emploi peut :
 - **a)** ordonner à la Commission ou à l’administrateur général de révoquer la nomination consécutive à la prise des mesures correctives ou de ne pas faire la nomination, selon le cas;
 - **b)** donner à la Commission ou à l’administrateur général les directives qu’elle estime indiquées pour l’application des mesures correctives.
-> 2003, ch. 22, art. 12 « 84 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 84 »; 2013, ch. 40, art. 414
 
 
 
@@ -1428,7 +1470,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Droit de se faire entendre**
 
 **85** Dans le cas d’une plainte présentée en vertu de l’article 83, les personnes mentionnées à cet article, la personne qui a été nommée ou qui a fait l’objet d’une proposition de nomination en conséquence de l’application des mesures correctives, l’administrateur général et la Commission, ou leurs représentants, ont le droit de se faire entendre par la Commission des relations de travail et de l’emploi.
-> 2003, ch. 22, art. 12 « 85 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 85 »; 2013, ch. 40, art. 414
 
 
 
@@ -1444,7 +1486,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Absence du droit de présenter une plainte**
 
 **87** Aucune plainte ne peut être présentée en vertu de l’article 77 dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 39.1 (priorité — militaire des Forces canadiennes), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance de la Commission des relations de travail et de l’emploi) ou des règlements pris en vertu de l’alinéa 22(2)a).
-> 2003, ch. 22, art. 12 « 87 »; 2006, ch. 9, art. 105; 2013, ch. 40, art. 414; 2015, ch. 5, art. 10 et 14.
+> 2003, ch. 22, art. 12 « 87 »; 2006, ch. 9, art. 105; 2013, ch. 40, art. 414; 2015, ch. 5, art. 10 et 14
 
 
 
@@ -1462,7 +1504,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Plaintes**
 
 **88** La Commission des relations de travail et de l’emploi instruit les plaintes présentées en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83 et statue sur elles.
-> 2003, ch. 22, art. 12 « 88 »; 2013, ch. 40, art. 405.
+> 2003, ch. 22, art. 12 « 88 »; 2013, ch. 40, art. 405
 
 
 
@@ -1471,7 +1513,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Pouvoirs**
 
 **89** La Commission des relations de travail et de l’emploi peut, dans le cadre de toute plainte qui lui est présentée, sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans des locaux ou sur des terrains de l’employeur où des fonctionnaires exécutent ou ont exécuté un travail, procéder à l’examen de tout ouvrage, matériau, outillage, appareil ou objet s’y trouvant, ainsi qu’à celui du travail effectué dans ces lieux, et obliger quiconque à répondre aux questions qu’elle lui pose relativement à la plainte.
-> 2003, ch. 22, art. 12 « 89 »; 2013, ch. 40, art. 405.
+> 2003, ch. 22, art. 12 « 89 »; 2013, ch. 40, art. 405
 
 
 
@@ -1518,7 +1560,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Médiation par un membre**
 
 - **(2)** Le fait pour un membre d’agir à titre de médiateur au cours de l’instruction de la plainte ne l’empêche de continuer à agir pour trancher les questions qui n’ont pas été réglées que si la Commission ou les personnes qui ont le droit de se faire entendre par la Commission des relations de travail et de l’emploi s’y opposent.
-> 2003, ch. 22, art. 12 « 97 »; 2013, ch. 40, art. 414.
+> 2003, ch. 22, art. 12 « 97 »; 2013, ch. 40, art. 414
 
 
 
@@ -1563,7 +1605,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Effet**
 
 - **(3)** En vue de son exécution, l’ordonnance, dès le dépôt à la Cour fédérale de la copie certifiée conforme, est assimilée à une ordonnance rendue par celle-ci.
-> 2003, ch. 22, art. 12 « 103 »; 2013, ch. 40, art. 407; 2017, ch. 9, art. 56.
+> 2003, ch. 22, art. 12 « 103 »; 2013, ch. 40, art. 407; 2017, ch. 9, art. 56
 
 
 
@@ -1572,7 +1614,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Transmission de la décision**
 
 **103.1** La Commission des relations de travail et de l’emploi statue sur la plainte présentée en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83 et transmet à la Commission et à toute personne qui a exercé son droit de se faire entendre à l’égard de la plainte copie de la décision et, le cas échéant, des motifs écrits de celle-ci, ainsi que de toute ordonnance qu’elle rend en l’espèce.
-> 2013, ch. 40, art. 407.
+> 2013, ch. 40, art. 407
 
 
 
@@ -1585,7 +1627,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Inhabilité à témoigner**
 
 **104** Les personnes qui offrent des services de médiation au titre de la présente partie ne sont pas habiles à témoigner ni contraignables au civil quant aux renseignements qu’ils ont obtenus dans l’accomplissement des fonctions que leur confère la présente partie.
-> 2003, ch. 22, art. 12 « 104 »; 2013, ch. 40, art. 407.
+> 2003, ch. 22, art. 12 « 104 »; 2013, ch. 40, art. 407
 
 
 
@@ -1596,7 +1638,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **105** Les documents ci-après ne peuvent être communiqués sans le consentement de leur auteur :
 - **a)** [Abrogé, 2013, ch. 40, art. 408]
 - **b)** les notes de quiconque offre des services de médiation au titre de la présente partie.
-> 2003, ch. 22, art. 12 « 105 »; 2013, ch. 40, art. 408.
+> 2003, ch. 22, art. 12 « 105 »; 2013, ch. 40, art. 408
 
 
 
@@ -1624,8 +1666,9 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 - **a)** les modalités et le délai de présentation des plaintes présentées en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83;
 - **b) et c)** [Abrogés, 2013, ch. 40, art. 411]
 - **d)** les modalités applicables aux avis donnés à la Commission canadienne des droits de la personne en application du paragraphe 65(5) ou de l’article 78;
+- **d.1)** les modalités applicables aux avis donnés au commissaire à l’accessibilité en application du paragraphe 65(9) ou de l’article 78.1;
 - **e)** la communication de renseignements obtenus dans le cadre de la présente loi au cours d’un processus de nomination ou de l’instruction de plaintes.
-> 2003, ch. 22, art. 12 « 109 »; 2013, ch. 40, art. 411 et 414.
+> 2003, ch. 22, art. 12 « 109 »; 2013, ch. 40, art. 411 et 4142019, ch. 10, art. 199
 
 
 
@@ -1672,7 +1715,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Administrateur général**
 
 - **(2)** Pour l’application de la présente partie, les commissaires nommés aux termes du paragraphe 4(5) sont considérés comme des administrateurs généraux.
-> 2003, ch. 22, art. 12 « 111 » et 272; 2013, ch. 40, art. 413; 2014, ch. 2, art. 55, ch. 20, art. 474.
+> 2003, ch. 22, art. 12 « 111 » et 272; 2013, ch. 40, art. 413; 2014, ch. 2, art. 55, ch. 20, art. 474
 
 
 
@@ -1774,7 +1817,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **Avis**
 
-**116** Dès qu’elle accorde la permission aux termes du paragraphe 114(4), le congé aux termes du paragraphe 114(5) ou la permission aux termes du paragraphe 115(2), la Commission fait publier un avis de sa décision et du nom du fonctionnaire concerné dans la Gazette du Canada.
+**116** Dès qu’elle accorde la permission aux termes du paragraphe 114(4), le congé aux termes du paragraphe 114(5) ou la permission aux termes du paragraphe 115(2), la Commission fait publier un avis de sa décision et du nom du fonctionnaire concerné dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 
 
@@ -1915,7 +1958,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Activités politiques**
 
 - **(2)** Il est entendu que les dispositions de la partie 7 applicables aux administrateurs généraux s’appliquent aux personnes nommées à ce titre ou à titre de sous-ministre en vertu du paragraphe (1) et que les dispositions de cette partie applicables aux fonctionnaires s’appliquent aux autres personnes nommées en vertu de ce paragraphe.
-> 2006, ch. 9, art. 106.
+> 2006, ch. 9, art. 106
 
 
 
@@ -2085,6 +2128,442 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 	- **b)** le 15 août 1945 en ce qui concerne les opérations sur le théâtre de guerre du Pacifique.
 
 
-> 2003, ch. 22, art. 12 « ann. »; 2015, ch. 5, art. 11 et 12.
+> 2003, ch. 22, art. 12 « ann. »; 2015, ch. 5, art. 11 et 12
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2003, ch. 22, art. 68
+
+
+**Définitions**
+
+**68** Les définitions qui suivent s’appliquent à la présente section.
+
+***ancienne Commission*** La Commission de la fonction publique constituée par le paragraphe 3(1) de l’ancienne loi. (*former Commission*)
+
+***ancienne loi*** La Loi sur l’emploi dans la fonction publique, chapitre P-33 des Lois révisées du Canada (1985). (*former Act*)
+
+***loi modifiée*** L’ancienne loi, dans sa version modifiée par la section 2 de la partie 3 de la présente loi. (*amended Act*)
+
+***nouvelle Commission*** La Commission de la fonction publique constituée par le paragraphe 3(1) de la loi modifiée. (*new Commission*)
+
+***nouvelle loi*** La Loi sur l’emploi dans la fonction publique édictée par les articles 12 et 13 de la présente loi. (*new Act*)
+
+
+
+######           — 2003, ch. 22, art. 69
+
+
+**Priorités**
+
+**69** Toute personne qui a droit à une priorité de nomination sous le régime de la loi modifiée à l’entrée en vigueur du paragraphe 29(1) de la nouvelle loi continue d’avoir droit à une priorité de nomination sous le régime de la nouvelle loi pour la durée et selon l’ordre de nomination prévus sous le régime de la loi modifiée.
+
+
+
+######           — 2003, ch. 22, art. 70
+
+
+**Concours et nominations**
+
+**70** L’entrée en vigueur du paragraphe 29(1) de la nouvelle loi est sans effet sur la tenue des concours déjà ouverts ou sur les procédures de sélection en cours sous le régime de la loi modifiée.
+
+
+
+######           — 2003, ch. 22, art. 71
+
+
+**Listes d’admissibilité**
+
+**71** Les listes d’admissibilité établies sous le régime de la loi modifiée avant l’entrée en vigueur du paragraphe 29(1) de la nouvelle loi continuent d’être valides pour la durée fixée au titre du paragraphe 17(2) de la loi modifiée, jusqu’à concurrence de six mois suivant cette entrée en vigueur.
+
+
+
+######           — 2003, ch. 22, art. 72
+
+
+**Appels**
+
+**72** Les appels interjetés dans le délai fixé en vertu de l’article 21 de la loi modifiée et en instance à l’entrée en vigueur du paragraphe 77(1) de la nouvelle loi sont entendus et tranchés en conformité avec la loi modifiée.
+
+
+
+######           — 2003, ch. 22, art. 73
+
+
+**Mutation**
+
+**73** Les plaintes déposées dans le délai et selon les modalités fixés au titre de l’article 34.3 de la loi modifiée et en instance à l’entrée en vigueur du sous-alinéa 209(1) c)(ii) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), édictée par l’article 2 de la présente loi, sont entendues et tranchées en conformité avec la loi modifiée.
+
+
+
+######           — 2003, ch. 22, art. 74
+
+
+**Vérifications**
+
+**74** 
+
+- **(1)** Toute vérification commencée en vertu de l’article 7.1 de la loi modifiée et en cours à l’entrée en vigueur de l’article 17 de la nouvelle loi est continuée et doit être menée à terme conformément à la loi modifiée.
+
+**Enquêtes**
+
+- **(2)** Toute enquête commencée en vertu de l’article 7.1 de la loi modifiée et en instance à la date d’entrée en vigueur de l’article 66 de la nouvelle loi est continuée et doit être menée à terme conformément à la loi modifiée.
+
+
+
+######           — 2003, ch. 22, art. 75
+
+
+**Avis de mise en disponibilité**
+
+**75** Le fonctionnaire qui, à l’entrée en vigueur de l’article 64 de la nouvelle loi, avait déjà été informé aux termes des règlements pris en vertu du paragraphe 29(1) de la loi modifiée qu’il serait mis en disponibilité mais qui ne l’a pas été continue d’être régi par l’article 29 de la loi modifiée.
+
+
+
+######           — 2003, ch. 22, art. 76
+
+
+**Stagiaires**
+
+**76** 
+
+- **(1)** Le fonctionnaire qui, à l’entrée en vigueur de l’article 61 de la nouvelle loi, est considéré comme un stagiaire dans le cadre de l’article 28 de la loi modifiée conserve ce statut pour le reste de la période fixée par règlement pris au titre de cet article 28.
+
+**Renvoi**
+
+- **(2)** Après l’entrée en vigueur de l’article 62 de la nouvelle loi, le paragraphe 28(2) de la loi modifiée continue de s’appliquer au fonctionnaire qui, à l’entrée en vigueur de l’article 62 de la nouvelle loi, était considéré comme un stagiaire dans le cadre de l’article 28 de l’ancienne loi.
+
+
+
+######           — 2003, ch. 22, art. 77
+
+
+**Cessation de fonctions**
+
+**77** Le président et les autres commissaires de l’ancienne Commission cessent d’occuper leurs fonctions à la date d’entrée en vigueur du paragraphe 3(1) de la loi modifiée.
+
+
+
+######           — 2003, ch. 22, art. 78
+
+
+**Lignes directrices, actes de délégation, etc.**
+
+**78** Les règlements pris et les lignes directrices, directives, actes de délégation ou d’exemption et autres actes établis par l’ancienne Commission avant la date d’entrée en vigueur du paragraphe 3(1) de la loi modifiée sont réputés être ceux de la nouvelle Commission à compter de cette date.
+
+
+
+######           — 2003, ch. 22, art. 79
+
+
+**Maintien en poste des fonctionnaires de la Commission**
+
+**79** Sous réserve des paragraphes 87(2) et (3) de la présente loi, la loi modifiée ne change rien à la situation des fonctionnaires de l’ancienne Commission à l’entrée en vigueur de son paragraphe 3(1), à la différence près que, à compter de cette entrée en vigueur, ils sont fonctionnaires de la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 80
+
+
+**Transfert des droits et obligations**
+
+**80** Les droits et biens de l’ancienne Commission, ceux qui sont détenus en son nom ou en fiducie pour elle, ainsi que ses obligations et engagements, sont réputés être ceux de la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 81
+
+
+**Renvois**
+
+**81** Sauf indication contraire du contexte, dans tous les contrats, actes et documents signés par l’ancienne Commission sous son nom, les renvois à celle-ci valent renvois à la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 82
+
+
+**Transfert de crédits**
+
+**82** Les sommes affectées — et non engagées — pour l’exercice en cours à la date d’entrée en vigueur du paragraphe 3(1) de la loi modifiée, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’administration publique fédérale à l’égard de l’ancienne Commission sont réputées être affectées aux dépenses de celle-ci à l’égard de la nouvelle Commission.
+
+
+
+######           — 2003, ch. 22, art. 83
+
+
+**Procédures judiciaires en cours**
+
+**83** La nouvelle Commission prend la suite de l’ancienne Commission, au même titre et dans les mêmes conditions que celle-ci, comme partie aux procédures judiciaires en cours à la date d’entrée en vigueur du paragraphe 3(1) de la loi modifiée et auxquelles l’ancienne Commission est partie.
+
+
+
+######           — 2005, ch. 38, art. 16, modifié par 2005, ch. 38, al. 144(8)a)(A)
+
+
+**Définitions**
+
+**16** Les définitions qui suivent s’appliquent aux articles 17 à 19 et 21 à 28.
+
+***ancienne agence*** Le secteur de l’administration publique fédérale appelé Agence des services frontaliers du Canada. (*former agency*)
+
+***décret C.P. 2003-2064*** Le décret C.P. 2003-2064 du 12 décembre 2003 portant le numéro d’enregistrement TR/2003-216. (*order P.C. 2003-2064*)
+
+***nouvelle agence*** L’Agence des services frontaliers du Canada constituée par le paragraphe 3(1). (*new agency*)
+
+
+
+######           — 2005, ch. 38, al. 19(1)h)
+
+
+**Mentions**
+
+**19** 
+
+- **(1)** La mention de l’ancienne agence dans les textes ci-après vaut mention de la nouvelle agence :
+	- **h)** tout décret pris en vertu de la définition de ministères au paragraphe 2(1) de la Loi sur l’emploi dans la fonction publique.
+
+
+
+######           — 2005, ch. 38, al. 19(2)b)
+
+
+**Administrateur général**
+
+**19** 
+
+- **(2)** La désignation de toute personne à titre d’administrateur général de l’ancienne agence dans les textes ci-après vaut désignation du président de la nouvelle agence à titre d’administrateur général de celle-ci :
+	- **b)** tout décret pris en vertu de la définition de administrateur général au paragraphe 2(1) de la Loi sur l’emploi dans la fonction publique.
+
+
+
+######           — 2006, ch. 5, art. 16
+
+
+**Définitions**
+
+**16** Les définitions qui suivent s’appliquent aux articles 17 à 19.
+
+***ancienne agence*** Le secteur de l’administration publique fédérale appelé l’Agence de la santé publique du Canada. (*former agency*)
+
+***nouvelle agence*** L’Agence de la santé publique du Canada constituée par l’article 3. (*new agency*)
+
+
+
+######           — 2006, ch. 5, art. 19
+
+
+**Mentions**
+
+**19** 
+
+- **(1)** La mention de l’ancienne agence dans les dispositions ci-après vaut mention de la nouvelle agence :
+	- **g)** tout décret pris en vertu de la définition de ministères au paragraphe 2(1) de la Loi sur l’emploi dans la fonction publique.
+
+**Administrateur général**
+
+- **(2)** La désignation de toute personne à titre d’administrateur général de l’ancienne agence dans tout décret pris en vertu de l’alinéa 29e) de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md) ou de la définition de administrateur général au paragraphe 2(1) de la Loi sur l’emploi dans la fonction publique vaut désignation de l’administrateur en chef à titre d’administrateur général de la nouvelle agence.
+
+
+
+######           — 2006, ch. 9, art. 107
+
+
+**Personnel ministériel**
+
+**107** Les personnes visées aux paragraphes 41(2) et (3) de la Loi sur l’emploi dans la fonction publique, dans leur version antérieure à l’entrée en vigueur du paragraphe 103(1) de la présente loi, continuent de bénéficier, conformément à ces paragraphes, de la priorité de nomination pendant une période d’un an après la date de leur cessation d’emploi si celle-ci est antérieure à la date d’entrée en vigueur du présent article.
+
+
+
+######           — 2012, ch. 19, art. 743
+
+
+**Employés de l’Agence**
+
+**743** Les employés de l’Agence ayant été informés qu’ils seraient mis en disponibilité conformément au paragraphe 64(1) de la Loi sur l’emploi dans la fonction publique sont, pour l’application de toute mesure de réaménagement des effectifs prise à leur égard, transférés au ministère de la Santé à la date d’entrée en vigueur de l’article 722.
+
+
+
+######           — 2012, ch. 31, art. 285
+
+
+**Décret**
+
+**285** 
+
+- **(1)** Avant l’entrée en vigueur de l’article 275, le gouverneur en conseil peut, par décret pris sur recommandation du Conseil du Trésor, prévoir que des personnes nommées conformément à l’article 38 de la [Loi sur le contrôle des renseignements relatifs aux matières dangereuses](/fr/Lois/Lois%20du%20Canada/1985/ch.%2024%20(3e%20suppl.),%20Partie%20III.md) — ou des catégories de celles-ci — occuperont, à compter de l’entrée en vigueur du décret, leur poste au sein du ministère de la Santé.
+
+**Transfert**
+
+- **(2)** Les personnes nommées conformément à l’article 38 de la [Loi sur le contrôle des renseignements relatifs aux matières dangereuses](/fr/Lois/Lois%20du%20Canada/1985/ch.%2024%20(3e%20suppl.),%20Partie%20III.md) qui ont été informées qu’elles seraient mises en disponibilité conformément au paragraphe 64(1) de la Loi sur l’emploi dans la fonction publique et qui ne font pas l’objet d’un décret pris en application du paragraphe (1) sont, pour l’application de toute mesure de réaménagement des effectifs à leur égard, transférées au ministère de la Santé à la date d’entrée en vigueur de l’article 275.
+
+
+
+######           — 2013, ch. 18, art. 86
+
+
+**Nominations réputées**
+
+**86** 
+
+- **(1)** Le Conseil du Trésor peut publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) une date à laquelle tout membre, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), tel que défini à cette date, qui ne fait partie d’aucune catégorie déterminée par le Conseil du Trésor en vertu de l’article 20.1 de cette loi est, à compter de cette date, réputé avoir été nommé en vertu de la Loi sur l’emploi dans la fonction publique.
+
+**Effet de la publication**
+
+- **(2)** Toute personne qui est membre, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), qui ne fait partie d’aucune catégorie déterminée par le Conseil du Trésor en vertu de l’article 20.1 de cette loi, cesse d’être un membre au sens de ce paragraphe 2(1) à la date publiée dans la [Gazette du Canada](http://www.gazette.gc.ca/) en vertu du paragraphe (1).
+
+**Période de stage**
+
+- **(3)** Si la personne visée par le paragraphe (2) n’était pas stagiaire au titre de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) à la date publiée dans la [Gazette du Canada](http://www.gazette.gc.ca/) en vertu du paragraphe (1), l’article 61 de la Loi sur l’emploi dans la fonction publique ne s’applique pas à son égard.
+
+**Période de stage**
+
+- **(4)** Si la personne visée par le paragraphe (2) était stagiaire au titre de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) à la date publiée dans la [Gazette du Canada](http://www.gazette.gc.ca/) en vertu du paragraphe (1), la période pendant laquelle elle est considérée comme stagiaire en vertu de l’article 61 de la Loi sur l’emploi dans la fonction publique est la période excédant la période de stage qu’elle a terminée au titre de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
+
+
+
+######           — 2013, ch. 40, art. 415
+
+
+**Définitions**
+
+**415** Les définitions qui suivent s’appliquent aux articles 416 à 424.
+
+***Tribunal*** Le Tribunal de la dotation de la fonction publique maintenu par le paragraphe 88(1) de la Loi sur l’emploi dans la fonction publique, dans sa version antérieure à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi. (*Tribunal*)
+
+***Commission*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique. (*Board*)
+
+
+
+######           — 2013, ch. 40, art. 416
+
+
+**Fin des mandats**
+
+**416** 
+
+- **(1)** Le mandat des membres du Tribunal prend fin à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi.
+
+**Absence de droit à réclamation**
+
+- **(2)** Malgré les dispositions de tout contrat, accord ou décret, les personnes nommées membres à temps partiel du Tribunal n’ont aucun droit de réclamer ou de recevoir une compensation, des dommages-intérêts, une indemnité ou toute autre forme de dédommagement de Sa Majesté du chef du Canada ou de ses employés ou mandataires parce que leur mandat a pris fin ou en raison de l’abolition de leur poste par application de la présente section.
+
+
+
+######           — 2013, ch. 40, art. 417
+
+
+**Poursuite des instances**
+
+**417** Sous réserve du paragraphe 418(1), toute instance engagée à l’égard des plaintes présentées en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83 de la Loi sur l’emploi dans la fonction publique avant la date d’entrée en vigueur du paragraphe 366(1) de la présente loi se poursuit sans autres formalités en conformité avec cette loi, dans sa forme modifiée par la présente section.
+
+
+
+######           — 2013, ch. 40, art. 418
+
+
+**Conclusion des affaires en instance — anciens membres**
+
+**418** 
+
+- **(1)** Tout membre du Tribunal peut, à la demande du président de la Commission, continuer à instruire et trancher une plainte qui lui a été présentée avant la date d’entrée en vigueur du paragraphe 366(1) de la présente loi.
+
+**Attributions**
+
+- **(2)** Pour l’application du paragraphe (1), le membre du Tribunal a les mêmes attributions qu’une formation de la Commission.
+
+**Refus**
+
+- **(3)** En cas de refus du membre de continuer à instruire ou trancher une plainte visée au paragraphe (1), le président de la Commission peut la confier, au titre de l’article 37 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique, à une formation de la Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+**Autorité du président**
+
+- **(4)** Le membre qui continue à instruire et trancher une plainte au titre du paragraphe (1) agit sous l’autorité du président de la Commission.
+
+**Rémunération**
+
+- **(5)** Le membre a droit, pour entendre et trancher une plainte visée au paragraphe (1) :
+	- **a)** à la rémunération que peut fixer le gouverneur en conseil;
+	- **b)** aux frais de déplacement et de séjour entraînés par l’accomplissement de ses fonctions hors de son lieu habituel de résidence.
+
+**Date limite**
+
+- **(6)** Le président de la Commission peut dessaisir le membre de toute plainte visée au paragraphe (1) qui n’est pas réglée dans l’année suivant la date d’entrée en vigueur du paragraphe 366(1) de la présente loi et la confier, au titre de l’article 37 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique, à une formation de la Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+
+
+######           — 2013, ch. 40, art. 419
+
+
+**Personnel du Tribunal**
+
+**419** La présente section ne change rien à la situation des membres du personnel du Tribunal à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi, à la différence près que, à compter de cette date, ils sont membres du personnel de la Commission.
+
+
+
+######           — 2013, ch. 40, art. 420
+
+
+**Transfert des droits et obligations**
+
+**420** Les droits et biens du Tribunal, ceux qui sont détenus en son nom ou en fiducie ou en fidéicommis pour lui ainsi que ses obligations et engagements sont réputés être ceux de la Commission.
+
+
+
+######           — 2013, ch. 40, art. 421
+
+
+**Renvois**
+
+**421** Sauf indication contraire du contexte, dans tous les contrats, actes et documents passés ou signés en conformité avec toutes les formalités requises par le Tribunal sous son nom, les renvois à celui-ci valent renvois à la Commission.
+
+
+
+######           — 2013, ch. 40, art. 422
+
+
+**Procédures judiciaires en cours**
+
+**422** La Commission prend la suite du Tribunal, au même titre et dans les mêmes conditions que celui-ci, comme partie aux procédures judiciaires en cours à la date d’entrée en vigueur du paragraphe 366(1) de la présente loi.
+
+
+
+######           — 2013, ch. 40, art. 423
+
+
+**Nouvelles poursuites judiciaires**
+
+**423** Les poursuites judiciaires relatives aux obligations ou aux engagements du Tribunal peuvent être intentées contre la Commissin devant tout tribunal qui aurait eu compétence pour en être saisi si elles avaient été intentées contre le Tribunal.
+
+
+
+######           — 2013, ch. 40, art. 424
+
+
+**Maintien des décisions et ordonnances**
+
+**424** Les décisions ou ordonnances rendues par le Tribunal sont réputées l’avoir été par la Commission, notamment pour ce qui est de leur exécution.
+
+
+
+######           — 2015, ch. 5, art. 13
+
+
+**Priorité**
+
+**13** 
+
+- **(1)** L’article 39.1 de la Loi sur l’emploi dans la fonction publique s’applique à toute personne visée à l’un ou l’autre des alinéas 8(1)a) à e) du [Règlement sur l’emploi dans la fonction publique](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2005/334.md) qui a eu droit à une priorité au titre de l’article 8 de ce règlement à un moment donné pendant la période commençant le 1<sup>er</sup> avril 2012 et se terminant le jour précédant la date d’entrée en vigueur de la présente loi et qui a été libérée des Forces canadiennes pour des raisons médicales attribuables, selon la décision du ministre des Anciens Combattants, au service sauf si, pendant cette période, elle a été nommée à un poste dans la fonction publique pour une période indéterminée ou a refusé une telle nomination sans motif valable et suffisant.
+
+**Durée du droit**
+
+- **(2)** Pour l’application du paragraphe (1), le droit à la priorité établi à l’article 39.1 de la Loi sur l’emploi dans la fonction publique se termine au premier en date des jours suivants :
+	- **a)** le jour qui tombe cinq ans après la date d’entrée en vigueur de la présente loi;
+	- **b)** le jour où la personne est nommée à un poste dans la fonction publique pour une période indéterminée;
+	- **c)** le jour où elle refuse une telle nomination sans motif valable et suffisant.
+
 
 
