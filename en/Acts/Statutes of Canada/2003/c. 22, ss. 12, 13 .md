@@ -119,7 +119,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **References to abuse of authority**
 
 - **(4)** For greater certainty, a reference in this Act to abuse of authority shall be construed as including bad faith and personal favouritism.
-> 2003, c. 22, ss. 12 “2”, 271; 2005, c. 16, s. 17; 2013, c. 40, s. 403; 2017, c. 9, s. 48.
+> 2003, c. 22, ss. 12 “2”, 271; 2005, c. 16, s. 17; 2013, c. 40, s. 403; 2017, c. 9, s. 48
 
 
 
@@ -289,7 +289,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Consultation by Commission**
 
 **14** The Commission shall, on request or if it considers consultation necessary or desirable, consult with the employer or any employee organization certified as a bargaining agent under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) with respect to policies respecting the manner of making and revoking appointments or with respect to the principles governing lay-offs or priorities for appointment.
-> 2003, c. 22, s. 12 “14”; 2017, c. 9, s. 55.
+> 2003, c. 22, s. 12 “14”; 2017, c. 9, s. 55
 
 
 
@@ -421,7 +421,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(h)** prescribing the manner in which and the period within which allegations are to be made, and the manner in which investigations are to be conducted under Part 7;
 	- **(i)** respecting the manner of laying off employees and the manner of selecting employees to be laid off, for the purposes of section 64; and
 	- **(j)** prescribing circumstances for the purposes of section 50.2.
-> 2003, c. 22, s. 12 “22”; 2006, c. 9, s. 100; 2013, c. 18, s. 59; 2015, c. 5, s. 2.
+> 2003, c. 22, s. 12 “22”; 2006, c. 9, s. 100; 2013, c. 18, s. 59; 2015, c. 5, s. 2
 
 
 
@@ -500,7 +500,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **27** An employer shall, on request or if it considers consultation necessary or desirable,
 - **(a)** consult with the Commission, or any employee organization certified as a bargaining agent under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), with respect to regulations made under paragraph 26(1)(b) or (d) or corresponding policies made under subsection 26(2), as the case may be; and
 - **(b)** consult with any employee organization so certified with respect to regulations made under paragraph 26(1)(a) or (c) or corresponding policies made under subsection 26(2), as the case may be, or with respect to any standards established under subsection 31(1).
-> 2003, c. 22, s. 12 “27”; 2017, c. 9, s. 55.
+> 2003, c. 22, s. 12 “27”; 2017, c. 9, s. 55
 
 
 
@@ -629,7 +629,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Revocation**
 
 - **(5)** The Governor in Council may, on the recommendation of the Commission, revoke any designation under subsection (4).
-> 2003, c. 22, s. 12 "35"; 2013, c. 40, s. 404.
+> 2003, c. 22, s. 12 "35"; 2013, c. 40, s. 404
 
 
 
@@ -654,7 +654,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Definition of member**
 
 - **(3)** In this section, ***member*** means a person who is enrolled in the Canadian Forces.
-> 2005, c. 21, s. 115; 2015, c. 5, s. 3.
+> 2005, c. 21, s. 115; 2015, c. 5, s. 3
 
 
 
@@ -675,7 +675,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(3)** For the purpose of paragraph (1)(a), if a criterion in relation to belonging to any of the designated groups, as defined in section 3 of the [Employment Equity Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2044.md), is established under section 34, the person shall meet that criterion.
-> 2015, c. 5, s. 4.
+> 2015, c. 5, s. 4
 
 
 
@@ -686,7 +686,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **35.2** A person who has been employed for at least three years in the office of a minister or of a person holding the recognized position of Leader of the Opposition in the Senate or Leader of the Opposition in the House of Commons, or in any of those offices successively,
 - **(a)** may, during a period of one year after they cease to be so employed, participate in an advertised appointment process for which the organizational criterion established under section 34 entitles all employees to be considered, as long as they meet the other criteria, if any, established under that section; and
 - **(b)** has the right to make a complaint under section 77.
-> 2006, c. 9, s. 101.
+> 2006, c. 9, s. 101
 
 
 
@@ -697,7 +697,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **35.3** A person employed in the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer
 - **(a)** may participate in an advertised appointment process for which the organizational criterion established under section 34 entitles all employees to be considered, as long as the person meets the other criteria, if any, established under that section; and
 - **(b)** has the right to make a complaint under section 77.
-> 2006, c. 9, s. 101; 2015, c. 36, s. 151; 2017, c. 20, s. 186.
+> 2006, c. 9, s. 101; 2015, c. 36, s. 151; 2017, c. 20, s. 186
 
 
 
@@ -726,7 +726,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exceptions to merit**
 
 **38** Paragraph 30(2)(b) does not apply in relation to any appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 39.1 (priority — members of the Canadian Forces) or 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Board order), or under any regulations made under paragraph 22(2)(a).
-> 2003, c. 22, s. 12 “38”; 2006, c. 9, s. 102; 2013, c. 40, s. 414; 2015, c. 5, ss. 5, 14.
+> 2003, c. 22, s. 12 “38”; 2006, c. 9, s. 102; 2013, c. 40, s. 414; 2015, c. 5, ss. 5, 14
 
 
 
@@ -752,7 +752,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Limit of five years**
 
 - **(3)** With respect to a veteran referred to in paragraph (f) of the definition ***veteran*** within the meaning of the schedule, the order of appointment set out in subsection (1) is valid for a period of five years after the veteran’s date of release.
-> 2003, c. 22, s. 12 "39"; 2015, c. 5, s. 6.
+> 2003, c. 22, s. 12 "39"; 2015, c. 5, s. 6
 
 
 
@@ -767,7 +767,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Essential qualifications**
 
 - **(2)** A person referred to in subsection (1) has a priority for appointment with respect to any position if the Commission is satisfied that the person meets the essential qualifications referred to in paragraph 30(2)(a).
-> 2015, c. 5, s. 7.
+> 2015, c. 5, s. 7
 
 
 
@@ -801,7 +801,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Order of priorities**
 
 - **(6)** Persons described in subsection (1) shall be appointed in priority to persons described in subsection (4), and persons described in each of those subsections shall be appointed in the order determined by the Commission.
-> 2003, c. 22, s. 12 “41”; 2006, c. 9, s. 103.
+> 2003, c. 22, s. 12 “41”; 2006, c. 9, s. 103
 
 
 
@@ -816,7 +816,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Workforce adjustment**
 
 - **(2)** Despite subsection (1), if a deputy head is not able to reinstate the employee in that position by reason of a workforce adjustment, the workforce adjustment measures that are established by the employer or the measures that are set out in agreements relating to workforce adjustment apply.
-> 2008, c. 15, s. 6.
+> 2008, c. 15, s. 6
 
 
 
@@ -832,7 +832,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Non-application of priority provisions**
 
 **43** Despite sections 39.1, 40 and 41 and any regulations made under paragraph 22(2)(a), if the Commission considers that the appointment of a person who has a right to be appointed in priority to other persons under any of those provisions will result in another person having a priority right, the Commission may decide not to apply that provision in that case.
-> 2003, c. 22, s. 12 "43"; 2015, c. 5, s. 8.
+> 2003, c. 22, s. 12 "43"; 2015, c. 5, s. 8
 
 
 
@@ -928,7 +928,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception — Office of the Chief Electoral Officer**
 
 **50.1** Despite subsection 50(2), the maximum period of employment of casual workers appointed in the Office of the Chief Electoral Officer — including the portions of the federal public administration in that Office in which the employees referred to in section 509.3 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) occupy their positions — for the purposes of an election held under that Act or a referendum held under the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md) is 165 working days in one calendar year.
-> 2007, c. 21, s. 40; 2018, c. 31, s. 379.
+> 2007, c. 21, s. 402018, c. 31, s. 379
 
 
 
@@ -943,7 +943,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Review**
 
 - **(2)** The Commission may, on an annual basis, conduct a review of the exercise of the authority to appoint casual workers to the Royal Canadian Mounted Police for more than 90 working days during the preceding calendar year.
-> 2013, c. 18, s. 60.
+> 2013, c. 18, s. 60
 
 
 
@@ -1003,7 +1003,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exceptions to priority rights**
 
 - **(2)** A deputy head may deploy a person without regard to any other person’s right to be appointed under section 39.1 or subsection 41(1) or (4) or any regulations made under paragraph 22(2)(a).
-> 2003, c. 22, s. 12 “53”; 2006, c. 9, s. 104; 2015, c. 5, s. 9.
+> 2003, c. 22, s. 12 “53”; 2006, c. 9, s. 104; 2015, c. 5, s. 9
 
 
 
@@ -1181,7 +1181,23 @@ and the employee ceases to be an employee at the end of that notice period.
 **Relief for discrimination**
 
 - **(8)** Corrective action may include an order for relief in accordance with paragraph 53(2)(e) or subsection 53(3) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
-> 2003, c. 22, s. 12 "65"; 2013, c. 40, s. 414.
+
+**Notice to Accessibility Commissioner**
+
+- **(9)** If a complaint raises an issue involving the contravention of a provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), the complainant shall, in accordance with the regulations of the Board, notify the Accessibility Commissioner, as defined in section 2 of that Act.
+
+**Accessibility Commissioner**
+
+- **(10)** If the Accessibility Commissioner is notified of an issue under subsection (9), he or she may make submissions to the Board with respect to that issue.
+
+**Application of [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md)**
+
+- **(11)** In considering whether a complaint is substantiated, the Board may interpret and apply the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
+
+**Relief**
+
+- **(12)** Corrective action may include an order for relief in accordance with section 102 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
+> 2003, c. 22, s. 12 "65"; 2013, c. 40, s. 4142019, c. 10, s. 194
 
 
 
@@ -1291,7 +1307,7 @@ and the employee ceases to be an employee at the end of that notice period.
 **Complaint**
 
 **74** A person whose appointment is revoked by the Commission under subsection 67(1) or by the deputy head under subsection 15(3) or 67(2) may, in the manner and within the period provided by the Board’s regulations, make a complaint to the Board that the revocation was unreasonable.
-> 2003, c. 22, s. 12 "74"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "74"; 2013, c. 40, s. 414
 
 
 
@@ -1300,7 +1316,7 @@ and the employee ceases to be an employee at the end of that notice period.
 **Right to be heard**
 
 **75** Where a complaint is made under section 74, the complainant, the deputy head and the Commission — or their representatives — are entitled to be heard by the Board.
-> 2003, c. 22, s. 12 "75"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "75"; 2013, c. 40, s. 414
 
 
 
@@ -1309,7 +1325,7 @@ and the employee ceases to be an employee at the end of that notice period.
 **Revocation set aside**
 
 **76** Where the Board finds a complaint under section 74 to be substantiated, it may order the Commission or the deputy head, as the case may be, to set aside the revocation.
-> 2003, c. 22, s. 12 "76"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "76"; 2013, c. 40, s. 414
 
 
 
@@ -1337,7 +1353,7 @@ and the employee ceases to be an employee at the end of that notice period.
 **Excluded grounds**
 
 - **(3)** The Board may not consider an allegation that fraud occurred in an appointment process or that an appointment or proposed appointment was not free from political influence.
-> 2003, c. 22, s. 12 "77"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "77"; 2013, c. 40, s. 414
 
 
 
@@ -1346,7 +1362,16 @@ and the employee ceases to be an employee at the end of that notice period.
 **Notice to Canadian Human Rights Commission**
 
 **78** Where a complaint raises an issue involving the interpretation or application of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), the complainant shall, in accordance with the regulations of the Board, notify the Canadian Human Rights Commission of the issue.
-> 2003, c. 22, s. 12 "78"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "78"; 2013, c. 40, s. 414
+
+
+
+
+
+**Notice to Accessibility Commissioner**
+
+**78.1** If a complaint raises an issue involving the contravention of a provision of regulations made under subsection 117(1) of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md), the complainant shall, in accordance with the regulations of the Board, notify the Accessibility Commissioner, as defined in section 2 of that Act.
+> 2019, c. 10, s. 195
 
 
 
@@ -1361,7 +1386,11 @@ and the employee ceases to be an employee at the end of that notice period.
 **Canadian Human Rights Commission**
 
 - **(2)** Where the Canadian Human Rights Commission is notified of an issue pursuant to section 78, it may make submissions to the Board with respect to that issue.
-> 2003, c. 22, s. 12 "79"; 2013, c. 40, s. 414.
+
+**Accessibility Commissioner**
+
+- **(3)** If the Accessibility Commissioner is notified of an issue under section 78.1, he or she may make submissions to the Board with respect to that issue.
+> 2003, c. 22, s. 12 "79"; 2013, c. 40, s. 4142019, c. 10, s. 196
 
 
 
@@ -1370,7 +1399,16 @@ and the employee ceases to be an employee at the end of that notice period.
 **Application of [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md)**
 
 **80** In considering whether a complaint under section 77 is substantiated, the Board may interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), other than its provisions relating to the right to equal pay for work of equal value.
-> 2003, c. 22, s. 12 "80"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "80"; 2013, c. 40, s. 414
+
+
+
+
+
+**Application of [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md)**
+
+**80.1** In considering whether a complaint under section 77 is substantiated, the Board may interpret and apply the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
+> 2019, c. 10, s. 197
 
 
 
@@ -1385,7 +1423,11 @@ and the employee ceases to be an employee at the end of that notice period.
 **Relief for discrimination**
 
 - **(2)** Corrective action taken under subsection (1) may include an order for relief in accordance with paragraph 53(2)(e) or subsection 53(3) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
-> 2003, c. 22, s. 12 "81"; 2013, c. 40, s. 414.
+
+**Relief**
+
+- **(3)** Corrective action taken under subsection (1) may include an order for relief in accordance with section 102 of the [Accessible Canada Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2010.md).
+> 2003, c. 22, s. 12 "81"; 2013, c. 40, s. 4142019, c. 10, s. 198
 
 
 
@@ -1394,7 +1436,7 @@ and the employee ceases to be an employee at the end of that notice period.
 **Restrictions**
 
 **82** The Board may not order the Commission to make an appointment or to conduct a new appointment process.
-> 2003, c. 22, s. 12 "82"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "82"; 2013, c. 40, s. 414
 
 
 
@@ -1407,7 +1449,7 @@ and the employee ceases to be an employee at the end of that notice period.
 - **(b)** the person who was the subject of the appointment or proposed appointment referred to in subsection 77(1), or
 - **(c)** any other person directly affected by the implementation of the corrective action,
 on the grounds that the person was not appointed or proposed for appointment by reason of an abuse of authority by the Commission or deputy head in the implementation of the corrective action.
-> 2003, c. 22, s. 12 "83"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "83"; 2013, c. 40, s. 414
 
 
 
@@ -1418,7 +1460,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **84** Where the Board finds a complaint under section 83 to be substantiated, it may
 - **(a)** order the Commission or the deputy head to revoke the appointment made as a result of the implementation of the corrective action, or not to make the appointment, as the case may be; and
 - **(b)** give the Commission or the deputy head any directions that it considers appropriate with respect to the implementation of the corrective action.
-> 2003, c. 22, s. 12 "84"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "84"; 2013, c. 40, s. 414
 
 
 
@@ -1427,7 +1469,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Right to be heard**
 
 **85** In the consideration of a complaint made under section 83, the persons entitled to be heard by the Board are the persons entitled to make a complaint under that section in respect of the corrective action, the person appointed or proposed for appointment as a result of the corrective action, the deputy head and the Commission, or their representatives.
-> 2003, c. 22, s. 12 "85"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "85"; 2013, c. 40, s. 414
 
 
 
@@ -1443,7 +1485,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **No right to complain**
 
 **87** No complaint may be made under section 77 in respect of an appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 39.1 (priority — members of the Canadian Forces) or 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Board order) or under any regulations made under paragraph 22(2)(a).
-> 2003, c. 22, s. 12 “87”; 2006, c. 9, s. 105; 2013, c. 40, s. 414; 2015, c. 5, ss. 10, 14.
+> 2003, c. 22, s. 12 “87”; 2006, c. 9, s. 105; 2013, c. 40, s. 414; 2015, c. 5, ss. 10, 14
 
 
 
@@ -1461,7 +1503,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Complaints**
 
 **88** The Board is to consider and dispose of complaints made under subsection 65(1) and sections 74, 77 and 83.
-> 2003, c. 22, s. 12 "88"; 2013, c. 40, s. 405.
+> 2003, c. 22, s. 12 "88"; 2013, c. 40, s. 405
 
 
 
@@ -1470,7 +1512,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Powers**
 
 **89** Subject to any limitations that the Governor in Council may establish in the interests of defence or security, the Board has, in relation to a complaint, the power to enter any premises of an employer where work is being or has been done by employees, inspect and view any work, material, machinery, appliances or articles in the premises and require any person in the premises to answer all questions relating to the complaint.
-> 2003, c. 22, s. 12 "89"; 2013, c. 40, s. 405.
+> 2003, c. 22, s. 12 "89"; 2013, c. 40, s. 405
 
 
 
@@ -1517,7 +1559,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Member as mediator**
 
 - **(2)** The provision of mediation services by a member at any stage of hearing a complaint does not prevent that member from continuing to hear the complaint with respect to any issues that have not been resolved, unless the Commission or any person entitled to be heard objects to that member continuing.
-> 2003, c. 22, s. 12 "97"; 2013, c. 40, s. 414.
+> 2003, c. 22, s. 12 "97"; 2013, c. 40, s. 414
 
 
 
@@ -1562,7 +1604,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Effect of filing**
 
 - **(3)** An order of the Board becomes an order of the Federal Court when a certified copy of it is filed in that court, and it may subsequently be enforced as such.
-> 2003, c. 22, s. 12 “103”; 2013, c. 40, s. 407; 2017, c. 9, s. 56.
+> 2003, c. 22, s. 12 “103”; 2013, c. 40, s. 407; 2017, c. 9, s. 56
 
 
 
@@ -1571,7 +1613,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Copy of decision provided**
 
 **103.1** The Board shall render a decision on a complaint made under subsection 65(1) or section 74, 77 or 83 and provide a copy of it  —  including any written reasons  —  and any accompanying order to the Commission and to each person who exercised the right to be heard on the complaint.
-> 2013, c. 40, s. 407.
+> 2013, c. 40, s. 407
 
 
 
@@ -1584,7 +1626,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Certain persons not compellable as witnesses**
 
 **104** Persons providing mediation services under this Part are not competent or compellable to appear as witnesses in any civil action, suit or other proceeding respecting information obtained in the discharge of their functions under this Part.
-> 2003, c. 22, s. 12 "104"; 2013, c. 40, s. 407.
+> 2003, c. 22, s. 12 "104"; 2013, c. 40, s. 407
 
 
 
@@ -1595,7 +1637,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **105** None of the following may be disclosed without the consent of the person who made them:
 - **(a)** [Repealed, 2013, c. 40, s. 408]
 - **(b)** notes of any person providing mediation services under this Part.
-> 2003, c. 22, s. 12 "105"; 2013, c. 40, s. 408.
+> 2003, c. 22, s. 12 "105"; 2013, c. 40, s. 408
 
 
 
@@ -1622,9 +1664,10 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **109** The Board may make regulations respecting
 - **(a)** the manner in which and the time within which a complaint may be made under subsection 65(1) or section 74, 77 or 83;
 - **(b) and (c)** [Repealed, 2013, c. 40, s. 411]
-- **(d)** the manner of giving notice of an issue to the Canadian Human Rights Commission under subsection 65(5) or section 78; and
+- **(d)** the manner of giving notice of an issue to the Canadian Human Rights Commission under subsection 65(5) or section 78;
+- **(d.1)** the manner of giving notice of an issue to the Accessibility Commissioner under subsection 65(9) or section 78.1; and
 - **(e)** the disclosure of information obtained in the course of an appointment process or a complaint proceeding under this Act.
-> 2003, c. 22, s. 12 "109"; 2013, c. 40, ss. 411, 414.
+> 2003, c. 22, s. 12 "109"; 2013, c. 40, ss. 411, 4142019, c. 10, s. 199
 
 
 
@@ -1671,7 +1714,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Meaning of deputy head**
 
 - **(2)** For the purposes of this Part, ***deputy head*** includes a Commissioner appointed under subsection 4(5).
-> 2003, c. 22, ss. 12 “111”, 272; 2013, c. 40, s. 413; 2014, c. 2, s. 55, c. 20, s. 474.
+> 2003, c. 22, ss. 12 “111”, 272; 2013, c. 40, s. 413; 2014, c. 2, s. 55, c. 20, s. 474
 
 
 
@@ -1773,7 +1816,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 **Notice**
 
-**116** On granting an employee permission under subsection 114(4), leave under subsection 114(5) or permission under subsection 115(2), the Commission shall cause notice that it has done so, together with the name of that employee, to be published in the Canada Gazette.
+**116** On granting an employee permission under subsection 114(4), leave under subsection 114(5) or permission under subsection 115(2), the Commission shall cause notice that it has done so, together with the name of that employee, to be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 
 
@@ -1914,7 +1957,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Application of Part 7**
 
 - **(2)** For greater certainty, the provisions of Part 7 applicable to deputy heads apply to persons appointed as such or as deputy ministers under subsection (1), and the provisions of that Part applicable to employees apply to other persons appointed under subsection (1).
-> 2006, c. 9, s. 106.
+> 2006, c. 9, s. 106
 
 
 
@@ -2085,6 +2128,442 @@ and who, in the course of that service, performed duties outside of the Western 
 	- **(b)** in respect of service in connection with operations in the Pacific Theatre of War, on August 15, 1945.
 
 
-> 2003, c. 22, s. 12 “Sch.”; 2015, c. 5, ss. 11, 12.
+> 2003, c. 22, s. 12 “Sch.”; 2015, c. 5, ss. 11, 12
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2003, c. 22, s. 68
+
+
+**Definitions**
+
+**68** The following definitions apply in this Division.
+
+***amended Act*** means the former Act as amended by Division 2 of Part 3 of this Act. (*loi modifiée*)
+
+***former Act*** means the Public Service Employment Act, being chapter P-33 of the Revised Statutes of Canada, 1985. (*ancienne loi*)
+
+***former Commission*** means the Public Service Commission established by subsection 3(1) of the former Act. (*ancienne Commission*)
+
+***new Act*** means the Public Service Employment Act, enacted by sections 12 and 13 of this Act. (*nouvelle loi*)
+
+***new Commission*** means the Public Service Commission established by subsection 3(1) of the amended Act. (*nouvelle Commission*)
+
+
+
+######           — 2003, c. 22, s. 69
+
+
+**Priorities**
+
+**69** Every person who has a priority for appointment under the amended Act on the coming into force of subsection 29(1) of the new Act continues to have priority for appointment under the new Act for the period, and in the order, provided for by or under the amended Act.
+
+
+
+######           — 2003, c. 22, s. 70
+
+
+**Pending competitions and appointments**
+
+**70** The coming into force of subsection 29(1) of the new Act does not affect any competition or other selection process being conducted under the amended Act.
+
+
+
+######           — 2003, c. 22, s. 71
+
+
+**Eligibility lists**
+
+**71** An eligibility list made under the amended Act that is valid on the coming into force of subsection 29(1) of the new Act continues to be valid for the period provided for under subsection 17(2) of the amended Act, to a maximum of six months after the coming into force of subsection 29(1) of the new Act.
+
+
+
+######           — 2003, c. 22, s. 72
+
+
+**Pending appeals**
+
+**72** An appeal taken within the period provided for under section 21 of the amended Act and not finally disposed of on the coming into force of subsection 77(1) of the new Act must be dealt with and disposed of in accordance with the amended Act.
+
+
+
+######           — 2003, c. 22, s. 73
+
+
+**Pending deployment recourse**
+
+**73** A complaint made within the time and manner provided for under section 34.3 of the amended Act and not finally disposed of on the coming into force of subparagraph 209(1)(c)(ii) of the Public Service Labour Relations Act, as enacted by section 2 of this Act, must be dealt with and disposed of in accordance with the amended Act.
+
+
+
+######           — 2003, c. 22, s. 74
+
+
+**Audits**
+
+**74** 
+
+- **(1)** Any audit commenced under section 7.1 of the amended Act that has not been completed on the coming into force of section 17 of the new Act must be dealt with and disposed of in accordance with the amended Act.
+
+**Investigations**
+
+- **(2)** Any investigation commenced under section 7.1 of the amended Act that has not been completed on the coming into force of section 66 of the new Act must be dealt with and disposed of in accordance with the amended Act.
+
+
+
+######           — 2003, c. 22, s. 75
+
+
+**Notice of lay-off**
+
+**75** If, prior to the coming into force of section 64 of the new Act, an employee was informed under regulations made under subsection 29(1) of the amended Act that he or she would be laid off but was not laid off, section 29 of the amended Act continues to apply to the employee.
+
+
+
+######           — 2003, c. 22, s. 76
+
+
+**Employees on probation**
+
+**76** 
+
+- **(1)** Every employee who was considered to be on probation under section 28 of the amended Act immediately prior to the coming into force of section 61 of the new Act continues to be on probation until the end of any period that was established by regulation under section 28 of the amended Act.
+
+**Rejection**
+
+- **(2)** After the coming into force of section 62 of the new Act, subsection 28(2) of the amended Act continues to apply in respect of any employee who was considered to be on probation under section 28 of the former Act immediately before the coming into force of section 62 of the new Act.
+
+
+
+######           — 2003, c. 22, s. 77
+
+
+**Cessation of office**
+
+**77** The President and members of the former Commission cease to hold office on the day on which subsection 3(1) of the amended Act comes into force.
+
+
+
+######           — 2003, c. 22, s. 78
+
+
+**Policies, delegation instruments, etc.**
+
+**78** The regulations, policies, directives, instruments of delegation and other instruments issued by the former Commission before the day on which subsection 3(1) of the amended Act comes into force are deemed to be those of the new Commission on that day.
+
+
+
+######           — 2003, c. 22, s. 79
+
+
+**Status of Commission employees**
+
+**79** Subject to subsections 87(2) and (3) of this Act, nothing in the amended Act affects the status of any person who was an employee of the former Commission immediately before the day on which subsection 3(1) of the amended Act comes into force, except that, as of that day, the person is an employee of the new Commission.
+
+
+
+######           — 2003, c. 22, s. 80
+
+
+**Rights and obligations transferred**
+
+**80** All rights and property held by or in the name of or in trust for the former Commission and all obligations and liabilities of the former Commission are deemed to be rights, property, obligations and liabilities of the new Commission.
+
+
+
+######           — 2003, c. 22, s. 81
+
+
+**References**
+
+**81** Every reference to the former Commission in a deed, contract or other document executed by the former Commission in its own name is to be read as a reference to the new Commission, unless the context otherwise requires.
+
+
+
+######           — 2003, c. 22, s. 82
+
+
+**Transfer of appropriations**
+
+**82** Any amount appropriated, for the fiscal year that includes the day on which subsection 3(1) of the amended Act comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the public service of Canada for the former Commission and that, on that day, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the public service of Canada for the new Commission.
+
+
+
+######           — 2003, c. 22, s. 83
+
+
+**Continuation of legal proceedings**
+
+**83** Any action, suit or other proceeding, to which the former Commission is a party, that is pending in any court on the day on which subsection 3(1) of the amended Act comes into force may be continued by or against the new Commission in the like manner and to the same extent as it could have been continued by or against the former Commission.
+
+
+
+######           — 2005, c. 38, s. 16, as amended by 2005, c. 38, par. 144(8)(a)(E)
+
+
+**Definitions**
+
+**16** The following definitions apply in sections 17 to 19 and 21 to 28.
+
+***former agency*** means the portion of the federal public administration known as the Canada Border Services Agency. (*ancienne agence*)
+
+***new agency*** means the Canada Border Services Agency established under subsection 3(1). (*nouvelle agence*)
+
+***order P.C. 2003-2064*** means Order in Council P.C. 2003-2064 of December 12, 2003, registered as SI/2003-216. (*décret C.P. 2003-2064*)
+
+
+
+######           — 2005, c. 38, par. 19(1)(h)
+
+
+**References**
+
+**19** 
+
+- **(1)** A reference to the former agency in any of the following is deemed to be a reference to the new agency:
+	- **(h)** any order of the Governor in Council made under the definition department in subsection 2(1) of the Public Service Employment Act.
+
+
+
+######           — 2005, c. 38, par. 19(2)(b)
+
+
+**Deputy head**
+
+**19** 
+
+- **(2)** The designation of a person as deputy head of the former agency in any of the following is deemed to be a designation of the President of the new agency as deputy head of that agency:
+	- **(b)** any order of the Governor in Council made under the definition deputy head in subsection 2(1) of the Public Service Employment Act.
+
+
+
+######           — 2006, c. 5, s. 16
+
+
+**Definitions**
+
+**16** The following definitions apply in sections 17 to 19.
+
+***former agency*** means the portion of the federal public administration known as the Public Health Agency of Canada. (*ancienne agence*)
+
+***new agency*** means the Public Health Agency of Canada established under section 3. (*nouvelle agence*)
+
+
+
+######           — 2006, c. 5, s. 19
+
+
+**References**
+
+**19** 
+
+- **(1)** A reference to the former agency in any of the following schedules and orders is deemed to be a reference to the new agency:
+	- **(g)** any order of the Governor in Council made pursuant to the definition department in subsection 2(1) of the Public Service Employment Act.
+
+**Deputy head**
+
+- **(2)** The designation of a person as deputy head of the former agency in any order of the Governor in Council made pursuant to paragraph 29(e) of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md) or to the definition deputy head in subsection 2(1) of the Public Service Employment Act is deemed to be a designation of the Chief Public Health Officer as deputy head of the new agency.
+
+
+
+######           — 2006, c. 9, s. 107
+
+
+**Employees of ministers’ offices**
+
+**107** A person referred to in subsection 41(2) or (3) of the Public Service Employment Act, as it read on the coming into force of subsection 103(1) of this Act, shall continue to be given priority for appointment in accordance with subsection 41(2) or (3), as the case may be, for a period of one year following the day on which the person ceased to be employed if that day is prior to the coming into force of this section.
+
+
+
+######           — 2012, c. 19, s. 743
+
+
+**Employees of Agency**
+
+**743** Any employee of the Agency who has been advised that they will be laid off in accordance with subsection 64(1) of the Public Service Employment Act is, for the purpose of any workforce adjustment measure taken with respect to them, transferred to the Department of Health on the day on which section 722 comes into force.
+
+
+
+######           — 2012, c. 31, s. 285
+
+
+**Order**
+
+**285** 
+
+- **(1)** Before section 275 comes into force, the Governor in Council may, by order made on the recommendation of the Treasury Board, declare that any person appointed under section 38 of the [Hazardous Materials Information Review Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2024%20(3rd%20Supp.),%20Part%20III.md) or any class of those persons shall, on the coming into force of the order, occupy their positions in the Department of Health.
+
+**Transfer**
+
+- **(2)** Any person appointed under section 38 of the [Hazardous Materials Information Review Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2024%20(3rd%20Supp.),%20Part%20III.md) who has been advised that they will be laid off in accordance with subsection 64(1) of the Public Service Employment Act and who is not the subject of an order made under subsection (1) is, for the purpose of any workforce adjustment measure taken with respect to the person, transferred to the Department of Health on the day on which section 275 comes into force.
+
+
+
+######           — 2013, c. 18, s. 86
+
+
+**Publication of date**
+
+**86** 
+
+- **(1)** The Treasury Board may publish in the [Canada Gazette](http://www.gazette.gc.ca/) a date on which every member, as defined in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), as that definition reads on that date, who does not form part of any category determined under section 20.1 of that Act is deemed, as of that date, to be a person appointed under the Public Service Employment Act.
+
+**Effect of publication**
+
+- **(2)** Every person who is a member, as defined in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), who does not form part of any category determined under section 20.1 of that Act ceases to be a member, as defined in that subsection 2(1), on the date published in the [Canada Gazette](http://www.gazette.gc.ca/) under subsection (1).
+
+**Person not on probation**
+
+- **(3)** Section 61 of the Public Service Employment Act does not apply to a person to whom subsection (2) applies if the person was not on probation under the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) immediately before the date published in the [Canada Gazette](http://www.gazette.gc.ca/) under subsection (1).
+
+**Person on probation**
+
+- **(4)** Section 61 of the Public Service Employment Act applies to a person to whom subsection (2) applies if the person was on probation under the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) immediately before the date published in the [Canada Gazette](http://www.gazette.gc.ca/) under subsection (1), except that time the person is on probation under that section 61 is the time the person would be on probation under that section less any amount of time the person was on probation under the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) immediately before that date.
+
+
+
+######           — 2013, c. 40, s. 415
+
+
+**Definitions**
+
+**415** The following definitions apply in sections 416 to 424.
+
+***Board*** means the Public Service Labour Relations and Employment Board that is established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act. (*Commission*)
+
+***Tribunal*** means the Public Service Staffing Tribunal that is continued by subsection 88(1) of the Public Service Employment Act, as that Act read immediately before the day on which subsection 366(1) of this Act comes into force. (*Tribunal*)
+
+
+
+######           — 2013, c. 40, s. 416
+
+
+**Appointments terminated**
+
+**416** 
+
+- **(1)** Members of the Tribunal cease to hold office on the day on which subsection 366(1) of this Act comes into force.
+
+**No compensation**
+
+- **(2)** Despite the provisions of any contract, agreement or order, no person who was appointed to hold office as a part-time member of the Tribunal has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office by the operation of this Division.
+
+
+
+######           — 2013, c. 40, s. 417
+
+
+**Continuation of proceedings**
+
+**417** Subject to subsection 418(1), every proceeding commenced with respect to a complaint made under subsection 65(1) or sections 74, 77 or 83 of the Public Service Employment Act before the day on which subsection 366(1) of this Act comes into force is to be taken up and continued under and in conformity with that Act, as it is amended by this Division.
+
+
+
+######           — 2013, c. 40, s. 418
+
+
+**Continuation — member of Tribunal**
+
+**418** 
+
+- **(1)** A member of the Tribunal may, at the request of the Chairperson of the Board, continue to consider and dispose of any complaint that was before the member before the day on which subsection 366(1) of this Act comes into force.
+
+**Powers**
+
+- **(2)** For the purposes of subsection (1), a member of the Tribunal exercises the same powers, and performs the same duties and functions, as a panel of the Board.
+
+**Refusal to complete duties**
+
+- **(3)** If a member of the Tribunal refuses to continue to consider or dispose of a complaint referred to in subsection (1), the Chairperson of the Board may assign it to a panel of the Board in accordance with section 37 of the Public Service Labour Relations and Employment Board Act, on any terms and conditions that the Chairperson of the Board may specify for the protection and preservation of the rights and interests of the parties.
+
+**Supervision by Chairperson of Board**
+
+- **(4)** The Chairperson of the Board has supervision over and direction of the work of any member of the Tribunal who continues to consider and dispose of a complaint referred to in subsection (1).
+
+**Remuneration and expenses**
+
+- **(5)** A member of the Tribunal who continues to consider and dispose of a complaint referred to in subsection (1)
+	- **(a)** is to be paid the remuneration for their services that may be fixed by the Governor in Council; and
+	- **(b)** is entitled to be paid reasonable travel and living expenses incurred in the course of providing services during any period of absence from their ordinary place of residence.
+
+**Limitation**
+
+- **(6)** The Chairperson of the Board may withdraw from a member of the Tribunal a complaint referred to in subsection (1) that is not disposed of within one year after the day on which subsection 366(1) of this Act comes into force and assign it to a panel of the Board in accordance with section 37 of the Public Service Labour Relations and Employment Board Act, on any terms and conditions that the Chairperson of the Board may specify for the protection and preservation of the rights and interests of the parties.
+
+
+
+######           — 2013, c. 40, s. 419
+
+
+**Persons employed by Tribunal**
+
+**419** Nothing in this Division affects the status of any person who, immediately before the day on which subsection 366(1) of this Act comes into force, is employed by the Tribunal, except that, as of that day, the person is employed by the Board.
+
+
+
+######           — 2013, c. 40, s. 420
+
+
+**Rights and obligations transferred**
+
+**420** All rights and property held by or in the name of or in trust for the Tribunal and all obligations and liabilities of the Tribunal are deemed to be rights, property, obligations and liabilities of the Board.
+
+
+
+######           — 2013, c. 40, s. 421
+
+
+**References**
+
+**421** Every reference to the Tribunal in a deed, contract or other document executed or, in Quebec, signed by the Tribunal in its own name is to be read as a reference to the Board, unless the context requires otherwise.
+
+
+
+######           — 2013, c. 40, s. 422
+
+
+**Continuation of legal proceedings**
+
+**422** Any action, suit or other proceeding to which the Tribunal is a party that is pending in any court on the day on which subsection 366(1) of this Act comes into force may be continued by or against the Board in the same manner and to the same extent as it could have been continued by or against the Tribunal.
+
+
+
+######           — 2013, c. 40, s. 423
+
+
+**Commencement of legal proceedings**
+
+**423** Any action, suit or other legal proceeding in respect of an obligation or liability incurred by the Tribunal may be brought against the Board in any court that would have had jurisdiction if the action, suit or other legal proceeding had been brought against the Tribunal.
+
+
+
+######           — 2013, c. 40, s. 424
+
+
+**Orders and decisions continued**
+
+**424** Every order or decision made by the Tribunal is deemed to have been made by the Board and may be enforced as such.
+
+
+
+######           — 2015, c. 5, s. 13
+
+
+**Priority**
+
+**13** 
+
+- **(1)** Section 39.1 of the Public Service Employment Act applies to a person who is described in any of paragraphs 8(1)(a) to (e) of the [Public Service Employment Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2005/334.md), who has had an entitlement to a priority under section 8 of those Regulations at any time during the period that begins on April 1, 2012 and ends on the day before the day on which this Act comes into force and who has been released from the Canadian Forces for medical reasons that the Minister of Veterans Affairs determines are attributable to service, unless, during that period, the person has been appointed to a position in the public service for an indeterminate period or declined such an appointment without good and sufficient reason.
+
+**Entitlement period**
+
+- **(2)** For the purposes of subsection (1), the entitlement to the priority established by section 39.1 of the Public Service Employment Act ends on the earliest of
+	- **(a)** the day that is five years after the day on which this Act comes into force,
+	- **(b)** the day on which the person is appointed to a position in the public service for an indeterminate period, and
+	- **(c)** the day on which the person declines an appointment to a position in the public service for an indeterminate period without good and sufficient reason.
+
 
 
