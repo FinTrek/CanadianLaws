@@ -46,14 +46,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Committee*** means the National Security and Intelligence Committee of Parliamentarians established by section 4. (*Comité*)
 
-***department*** means, except in subsection 25(2), a department named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), a division or branch of the federal public administration — other than a review body — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act or the Canadian Forces. (*ministère*)
+***department*** means, except in subsection 25(2), a department named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), a division or branch of the federal public administration — other than a review body or the office of the Intelligence Commissioner — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act or the Canadian Forces. (*ministère*)
 
 ***review body*** means
-- **(a)** the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md);
-- **(b)** the Commissioner of the Communications Security Establishment appointed under subsection 273.63(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); or
-- **(c)** the Security Intelligence Review Committee established by subsection 34(1) of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md). (*organisme de surveillance*)
+- **(a)** the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md); or
+- **(b)** the National Security and Intelligence Review Agency. (*organisme de surveillance*)
+- **(c)** [Repealed, 2019, c. 13, s. 49]
 
 ***Secretariat*** means the Secretariat of the National Security and Intelligence Committee of Parliamentarians established by subsection 24(1). (*Secrétariat*)
+> 2017, c. 15, s. 22019, c. 13, s. 492019, c. 13, s. 75
+
 
 
 
@@ -224,9 +226,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The information includes information that is protected by litigation privilege or by solicitor-client privilege or the professional secrecy of advocates and notaries.
 
+**For greater certainty**
+
+- **(2.1)** For greater certainty, the disclosure to the Committee under this section of any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of those privileges or that secrecy.
+
 **Inconsistency or conflict**
 
 - **(3)** In the event of any inconsistency or conflict between subsection (1) and any provision of an Act of Parliament other than this Act, subsection (1) prevails to the extent of the inconsistency or conflict.
+> 2017, c. 15, s. 132019, c. 13, s. 49
+
 
 
 
@@ -285,10 +293,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Review bodies informed of decision**
 
-- **(3)** If the appropriate Minister makes the decision in respect of any of the following information, he or she must provide the decision and reasons to,
-	- **(a)** in the case of information under the control of the Royal Canadian Mounted Police, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police;
-	- **(b)** in the case of information under the control of the Communications Security Establishment, the Commissioner of the Communications Security Establishment; and
-	- **(c)** in the case of information under the control of the Canadian Security Intelligence Service, the Security Intelligence Review Committee.
+- **(3)** The appropriate Minister must provide the decision and reasons to the National Security and Intelligence Review Agency and, in the case of information under the control of the Royal Canadian Mounted Police, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police.
+> 2017, c. 15, s. 162019, c. 13, s. 49
+
 
 
 
@@ -396,9 +403,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Provision of information to review bodies**
 
 **23** The Committee may provide,
-- **(a)** to the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, information that is obtained from — or that is created by the Committee from information obtained from — the Royal Canadian Mounted Police and that is related to the fulfilment of that review body’s mandate;
-- **(b)** to the Commissioner of the Communications Security Establishment, information that is obtained from — or that is created by the Committee from information obtained from — the Communications Security Establishment and that is related to the fulfilment of that review body’s mandate; or
-- **(c)** to the Security Intelligence Review Committee, information that is obtained from — or that is created by the Committee from information obtained from — the Canadian Security Intelligence Service and that is related to the fulfilment of that review body’s mandate.
+- **(a)** to the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, information that is obtained from — or that is created by the Committee from information obtained from — the Royal Canadian Mounted Police and that is related to the fulfilment of that review body’s mandate; or
+- **(b)** to the National Security and Intelligence Review Agency, information that is related to the fulfilment of that review body’s mandate under paragraphs 8(1)(a) to (c) of the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md).
+- **(c)** [Repealed, 2019, c. 13, s. 49]
+> 2017, c. 15, s. 232019, c. 13, s. 49
+
 
 
 
