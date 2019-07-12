@@ -8,7 +8,7 @@
 Sanctionnée sur le 21 juin 2019
 
 ```
-[Édictée par l’article 50 du chapitre 13 des Lois du Canada (2019), non en vigueur.]
+[Édictée par l’article 50 du chapitre 13 des Lois du Canada (2019), en vigueur le 12 juillet 2019, voir TR/2019-67.]
 ```
 ----------
 
@@ -105,7 +105,7 @@ Sanctionnée sur le 21 juin 2019
 
 **Activités politiques**
 
-- **(3)** La partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’applique au commissaire et à ses employés. Pour l’application de cette partie, le commissaire est réputé être un administrateur général au sens du paragraphe 2(1) de cette loi et ses employés, des fonctionnaires, au sens de ce paragraphe.
+- **(3)** La partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md) s’applique au commissaire et à ses employés. Pour l’application de cette partie, le commissaire est réputé être un administrateur général au sens du paragraphe 2(1) de cette loi et ses employés, des fonctionnaires, au sens de ce paragraphe.
 
 
 
@@ -302,7 +302,11 @@ Sanctionnée sur le 21 juin 2019
 
 **Droit de recevoir les rapports**
 
-**24** Le commissaire a le droit d’obtenir un exemplaire de tout rapport — présenté par l’Office de surveillance des activités en matière de sécurité nationale et de renseignement au titre des paragraphes 32(1) ou 33(1) ou des articles 34 ou 35 de la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md) —, ou de tout extrait d’un tel rapport, dans la mesure où le rapport ou l’extrait concerne les attributions du commissaire.
+**24** Le commissaire a le droit d’obtenir un exemplaire des rapports ci-après, ou de tout extrait de ces rapports, dans la mesure où les rapports ou les extraits concernent les attributions du commissaire :
+- **a)** les rapports spéciaux présentés par le Comité des parlementaires sur la sécurité nationale et le renseignement au titre du paragraphe 21(2) de la [Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](/fr/Lois/Lois%20du%20Canada/2017/ch.%2015.md);
+- **b)** les rapports présentés par l’Office de surveillance des activités en matière de sécurité nationale et de renseignement au titre des paragraphes 32(1) ou 33(1) ou des articles 34 ou 35 de la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md).
+> 2019, ch. 13, art. 50 « 24 »2019, ch. 13, art. 75
+
 
 
 
@@ -321,5 +325,142 @@ Sanctionnée sur le 21 juin 2019
 **Absence de droits**
 
 **26** Le commissaire n’a pas de droit d’accès aux renseignements confidentiels du Conseil privé de la Reine pour le Canada dont la divulgation pourrait être refusée au titre de l’article 39 de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md).
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 13, art. 51
+
+
+**Définitions**
+
+**51** Les définitions qui suivent s’appliquent aux articles 52 à 59.
+
+***ancien commissaire*** S’entend du commissaire du Centre de la sécurité des télécommunications nommé en vertu du paragraphe 273.63(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), dans sa version antérieure à la date d’entrée en vigueur de l’article 68. (*former Commissioner*)
+
+***nouveau commissaire*** S’entend du commissaire au renseignement visé par la Loi sur le commissaire au renseignement. (*new Commissioner*)
+
+
+
+######           — 2019, ch. 13, art. 52
+
+
+**Ancien commissaire**
+
+**52** La personne qui occupe le poste d’ancien commissaire à l’entrée en vigueur du présent article devient, à compter de cette entrée en vigueur et jusqu’à l’expiration de son mandat, le nouveau commissaire comme si elle avait été nommée à ce poste en application du paragraphe 4(1) de la Loi sur le commissaire au renseignement.
+
+
+
+######           — 2019, ch. 13, art. 53
+
+
+**Situation inchangée**
+
+**53** 
+
+- **(1)** La présente loi ne change rien à la situation des membres du personnel qui, à l’entrée en vigueur du présent article, occupaient un poste au sein du bureau de l’ancien commissaire, à cette différence près que, à compter de cette entrée en vigueur, ils occupent ce poste au sein du bureau du nouveau commissaire.
+
+**Précision**
+
+- **(2)** Il est entendu que la situation d’un membre du personnel vise également le fait qu’il occupait ou non un poste de direction ou de confiance.
+
+
+
+######           — 2019, ch. 13, art. 54
+
+
+**Attributions**
+
+**54** Tout membre du personnel visé à l’article 53 qui, à l’entrée en vigueur de cet article, était autorisé par l’ancien commissaire à exercer toute attribution demeure autorisé à l’exercer au sein du bureau du nouveau commissaire.
+
+
+
+######           — 2019, ch. 13, art. 55
+
+
+**Transfert de crédits**
+
+**55** Les sommes affectées — et non déboursées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi fédérale, aux dépenses du bureau de l’ancien commissaire sont réputées être affectées aux dépenses du bureau du nouveau commissaire.
+
+
+
+######           — 2019, ch. 13, art. 56
+
+
+**Biens, droits et obligations**
+
+**56** Sous réserve de l’article 15, les biens et les droits de Sa Majesté du chef du Canada dont la gestion était confiée au bureau de l’ancien commissaire ainsi que les biens, les droits et les obligations de celui-ci sont transférés au bureau du nouveau commissaire.
+
+
+
+######           — 2019, ch. 13, art. 57
+
+
+**Contrat**
+
+**57** 
+
+- **(1)** Le contrat relatif à la fourniture de services ou de matériels au bureau de l’ancien commissaire conclu par ce dernier est réputé être conclu par le nouveau commissaire.
+
+**Renvoi**
+
+- **(2)** Sauf indication contraire du contexte, dans les contrats visés au paragraphe (1), les renvois à l’ancien commissaire valent renvoi au nouveau commissaire.
+
+
+
+######           — 2019, ch. 13, art. 58
+
+
+**Nouvelles instances**
+
+**58** 
+
+- **(1)** Les instances judiciaires ou administratives relatives aux obligations supportées ou aux engagements pris par l’ancien commissaire, à l’exception des instances qui concernent des examens et des enquêtes effectués par celui-ci, peuvent être intentées contre le nouveau commissaire devant tout tribunal qui aurait eu compétence pour être saisi des instances si elles avaient été intentées contre l’ancien commissaire.
+
+**Instances en cours**
+
+- **(2)** Le nouveau commissaire prend la suite de l’ancien commissaire, au même titre et dans les mêmes conditions que celui-ci, comme partie aux instances judiciaires ou administratives en cours à la date d’entrée en vigueur du présent article, à l’exception des instances qui concernent des examens et des enquêtes effectués par l’ancien commissaire, et auxquelles celui-ci est partie.
+
+
+
+######           — 2019, ch. 13, art. 59
+
+
+**Absence de droit à réclamation**
+
+**59** Malgré les dispositions de tout contrat, accord ou décret, la personne nommée pour occuper le poste de l’ancien commissaire n’a aucun droit de réclamer ou de recevoir une compensation, des dommages-intérêts, une indemnité ou toute autre forme de dédommagement de Sa Majesté du chef du Canada ou de ses employés ou mandataires parce que son mandat a pris fin ou en raison de l’abolition de son poste par application de l’article 68.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 13, art. 82
+
+
+**Mentions**
+
+**82** 
+
+- **(1)** La mention de l’ancien ministère dans les textes ci-après vaut mention du nouveau ministère :
+	- **a)** l’annexe I de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), sous l’intertitre « Autres institutions fédérales »;
+	- **b)** les annexes I.1, V et VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **c)** l’annexe de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), sous l’intertitre « Autres institutions fédérales »;
+	- **d)** l’annexe de la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md);
+	- **e)** l’annexe 3 de la Loi sur la communication d’information ayant trait à la sécurité du Canada;
+	- **f)** la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md);
+	- **g)** la Loi sur le commissaire au renseignement.
+
+**Autres mentions**
+
+- **(1.1)** La mention de l’ancien ministère dans toute loi fédérale, autre qu’une loi visée au paragraphe (1), et dans ses textes d’application vaut mention, sauf indication contraire du contexte, du nouveau ministère.
+
+**Administrateur général**
+
+- **(2)** La désignation de toute personne à titre d’administrateur général de l’ancien ministère dans tout décret pris en vertu de l’article 55 de la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md) vaut désignation du chef du nouveau ministère à titre d’administrateur général de celui-ci.
+
 
 
