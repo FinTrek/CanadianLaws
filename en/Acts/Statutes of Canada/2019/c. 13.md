@@ -225,7 +225,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. A-1.
+> R.S., c. A-1
 **
 
 #### [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md)
@@ -241,7 +241,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S. c. C-5.
+> R.S. c. C-5
 **
 
 #### [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md)
@@ -253,7 +253,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. C-23.
+> R.S., c. C-23
 **
 
 #### [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md)
@@ -273,7 +273,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. C-29.
+> R.S., c. C-29
 **
 
 #### [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md)
@@ -289,7 +289,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. F-11.
+> R.S., c. F-11
 **
 
 #### [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)
@@ -325,7 +325,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. H-6.
+> R.S., c. H-6
 **
 
 #### [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md)
@@ -341,7 +341,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. O-5; 2001, c. 41, s. 25.
+> R.S., c. O-5; 2001, c. 41, s. 25
 **
 
 #### [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md)
@@ -361,7 +361,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. P-21.
+> R.S., c. P-21
 **
 
 #### [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md)
@@ -385,7 +385,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. P-36.
+> R.S., c. P-36
 **
 
 #### [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)
@@ -397,7 +397,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. R-10.
+> R.S., c. R-10
 **
 
 #### [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)
@@ -417,7 +417,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 1991, c. 30.
+> 1991, c. 30
 **
 
 #### [Public Sector Compensation Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2030.md)
@@ -433,7 +433,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 2000, c. 17; 2001, c. 41, s. 48.
+> 2000, c. 17; 2001, c. 41, s. 48
 **
 
 #### [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md)
@@ -588,7 +588,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. A-1.
+> R.S., c. A-1
 **
 
 #### [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md)
@@ -600,7 +600,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. C-5.
+> R.S., c. C-5
 **
 
 #### [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md)
@@ -612,7 +612,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. C-23.
+> R.S., c. C-23
 **
 
 #### [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md)
@@ -624,7 +624,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. F-11.
+> R.S., c. F-11
 **
 
 #### [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)
@@ -652,7 +652,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. N-5.
+> R.S., c. N-5
 **
 
 #### [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md)
@@ -668,7 +668,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. O-5.
+> R.S., c. O-5
 **
 
 #### [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md)
@@ -680,7 +680,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. P-21.
+> R.S., c. P-21
 **
 
 #### [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md)
@@ -692,7 +692,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. P-36.
+> R.S., c. P-36
 **
 
 #### [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)
@@ -704,7 +704,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 2015, c. 20, s. 2.
+> 2015, c. 20, s. 2
 **
 
 #### [Security of Canada Information Disclosure Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md)
@@ -826,7 +826,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. N-5.
+> R.S., c. N-5
 **
 
 ### [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md)
@@ -842,7 +842,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. N-5.
+> R.S., c. N-5
 **
 
 #### [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md)
@@ -854,7 +854,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 1991, c. 30.
+> 1991, c. 30
 **
 
 #### [Public Sector Compensation Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2030.md)
@@ -874,7 +874,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 2000, c. 17; 2001, c. 41, s. 48.
+> 2000, c. 17; 2001, c. 41, s. 48
 **
 
 #### [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md)
@@ -886,7 +886,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 2015, c. 20, s. 2.
+> 2015, c. 20, s. 2
 **
 
 #### [Security of Canada Information Disclosure Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md)
@@ -911,7 +911,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **PART 4** 
 **
-> R.S., c. C-23.
+> R.S., c. C-23
 **
 
 ## [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md)
@@ -1020,10 +1020,10 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **PART 5** 
 **
-> 2015, c. 20, s. 2.
+> 2015, c. 20, s. 2
 **
 
-## Security of Canada Information Sharing Act
+## [Security of Canada Information Sharing Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md)
 
 
 
@@ -1076,7 +1076,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. E-15.
+> R.S., c. E-15
 **
 
 #### [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md)
@@ -1088,7 +1088,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. F-15.
+> R.S., c. F-15
 **
 
 #### [Department of Fisheries and Oceans Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-15.md)
@@ -1100,7 +1100,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. 1 (2nd Supp.).
+> R.S., c. 1 (2nd Supp.)
 **
 
 #### [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md)
@@ -1112,7 +1112,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> R.S., c. 1 (5th Supp.).
+> R.S., c. 1 (5th Supp.)
 **
 
 #### [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)
@@ -1124,7 +1124,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 1995, c. 25.
+> 1995, c. 25
 **
 
 #### [Chemical Weapons Convention Implementation Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2025.md)
@@ -1136,7 +1136,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 2002, c. 22.
+> 2002, c. 22
 **
 
 #### [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md)
@@ -1149,7 +1149,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **PART 6** 
 **
-> 2015, c. 20, s. 11.
+> 2015, c. 20, s. 11
 **
 
 ## [Secure Air Travel Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%2011.md)
@@ -1221,7 +1221,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **PART 7** 
 **
-> R.S., c. C-46.
+> R.S., c. C-46
 **
 
 ## [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)
@@ -1329,7 +1329,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **
-> 1992, c. 20.
+> 1992, c. 20
 **
 
 ### Consequential Amendment to the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md)
@@ -1342,7 +1342,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **PART 8** 
 **
-> 2002, c. 1.
+> 2002, c. 1
 **
 
 ## [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md)
@@ -1432,7 +1432,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_2019-c13_E_transform_hq_25605'>[*]</a></sup>**169** Parts 1 and 2, other than sections 48, 49, 74 and 75, come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c13_E_transform_hq_25605'><sup>*</sup></a>: [Note: Parts 1 and 2, other than sections 48, 49, 74 and 75, not in force.]<br />
+<a name='fn_2019-c13_E_transform_hq_25605'><sup>*</sup></a>: [Note: Parts 1 and 2, other than sections 48, 49, 74 and 75, in force July 12, 2019, *see* SI/2019-67.]<br />
 
 
 
