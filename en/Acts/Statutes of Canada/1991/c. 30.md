@@ -70,7 +70,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Expiration of compensation plans**
 
 - **(2)** For the purposes of this Act, where a compensation plan does not provide for an expiration date, the plan shall be deemed to expire on the day before the day on which wage rates under the plan would normally be revised.
-> 1991, c. 30, s. 2; 1993, c. 13, s. 2; 1994, c. 18, s. 2; 1996, c. 18, s. 12.
+> 1991, c. 30, s. 2; 1993, c. 13, s. 2; 1994, c. 18, s. 2; 1996, c. 18, s. 12
 
 
 
@@ -112,7 +112,7 @@ and the staff, directors, members and officers shall, for the purposes of this A
 **Exclusion**
 
 - **(4)** For greater certainty, this Act does not apply to persons engaged as independent contractors.
-> 1991, c. 30, s. 3; 1993, c. 13, s. 3; 2015, c. 36, s. 150; 2017, c. 20, s. 185.
+> 1991, c. 30, s. 3; 1993, c. 13, s. 3; 2015, c. 36, s. 150; 2017, c. 20, s. 185
 
 
 
@@ -154,7 +154,7 @@ and the staff, directors, members and officers shall, for the purposes of this A
 **Particular case**
 
 - **(3)** Each of the compensation plans for the persons mentioned in subsection 3(3.1) that was in effect on December 10, 1992 shall be extended for a period of forty-eight months beginning on the day immediately following the day on which the compensation plan would, but for this subsection, expire.
-> 1991, c. 30, s. 5; 1993, c. 13, s. 4; 1994, c. 18, s. 3.
+> 1991, c. 30, s. 5; 1993, c. 13, s. 4; 1994, c. 18, s. 3
 
 
 
@@ -212,7 +212,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 **Work sharing agreement**
 
 - **(6)** Nothing in this section affects any work sharing agreement that is approved for the purposes of section 24 of the Unemployment Insurance Act.
-> 1991, c. 30, s. 7; 1993, c. 13, s. 5; 1994, c. 18, s. 4.
+> 1991, c. 30, s. 7; 1993, c. 13, s. 5; 1994, c. 18, s. 4
 
 
 
@@ -245,7 +245,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 ***Work Force Adjustment Directive*** means the Work Force Adjustment Directive issued on the recommendation of the National Joint Council of the Public Service and with the approval of the Treasury Board, that came into force on December 15, 1991, as amended from time to time in accordance with subsections 7.3(2) and (3). (*Directive sur le réaménagement des effectifs*)
 
 <a name='P-31.6_en_3'><sup>*</sup></a>: [Note: Subsection 7.1(3), as enacted by 1995, c. 17, s. 2, ceases to be in force June 22, 1998, *see* 1995, c. 17, s. 6.]<br />
-> 1994, c. 18, s. 5; 1995, c. 17, s. 2.
+> 1994, c. 18, s. 5; 1995, c. 17, s. 2
 
 
 
@@ -270,7 +270,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 - **(3)** The Treasury Board may authorize the deputy head of a department or the chief executive officer of any portion of the public service to exercise and perform, in such manner and subject to such terms and conditions as the Treasury Board directs, any of the powers, duties and functions of the Treasury Board under subsection (1).
 
 <a name='P-31.6_en_4'><sup>*</sup></a>: [Note: Section 7.2, as enacted by 1995, c. 17, s. 3, ceases to be in force June 22, 1998, *see* 1995, c. 17, s. 6.]<br />
-> 1995, c. 17, s. 3.
+> 1995, c. 17, s. 3
 
 
 
@@ -302,7 +302,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 - **(5)** Notwithstanding any other Act of Parliament or any collective agreement or arbitral award that incorporates by reference the Work Force Adjustment Directive and any amendments thereto, any amendment to the Directive made pursuant to subsection (3) is incorporated by reference in the collective agreement or arbitral award, subject to such modifications as are required by that Act and the collective agreement or arbitral award.
 
 <a name='P-31.6_en_5'><sup>*</sup></a>: [Note: Section 7.3, as enacted by 1995, c. 17, s. 3, ceases to be in force June 22, 1998, *see* 1995, c. 17, s. 6.]<br />
-> 1995, c. 17, s. 3.
+> 1995, c. 17, s. 3
 
 
 
@@ -319,7 +319,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 - **(2)** Any change to a compensation plan made by the Governor in Council pursuant to subsection (1) ceases to have effect on the expiration of three years after the coming into force of this section.
 
 <a name='P-31.6_en_6'><sup>*</sup></a>: [Note: Section 7.4, as enacted by 1995, c. 17, s. 3, ceases to be in force June 22, 1998, *see* 1995, c. 17, s. 6.]<br />
-> 1995, c. 17, s. 3.
+> 1995, c. 17, s. 3
 
 
 
@@ -353,7 +353,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 		- **(v)** the Governor and Deputy Governor of the Bank of Canada.
 
 <a name='P-31.6_en_7'><sup>*</sup></a>: [Note: Section 8, as enacted by 1995, c. 17, s. 4, ceases to be in force June 22, 1998, *see* 1995, c. 17, s. 6.]<br />
-> 1991, c. 30, s. 8; 1993, c. 13, s. 6; 1995, c. 17, s. 4.
+> 1991, c. 30, s. 8; 1993, c. 13, s. 6; 1995, c. 17, s. 4
 
 
 
@@ -362,7 +362,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 **Performance pay**
 
 **8.1** Notwithstanding section 8, the Treasury Board may, on or after July 1, 1996, amend the terms and conditions relating to merit or performance increases, in-range increases or performance bonuses of a compensation plan that is extended under section 5 or 6 or in respect of which section 11 applies.
-> 1996, c. 18, s. 13.
+> 1996, c. 18, s. 13
 
 
 
@@ -371,7 +371,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 **Members of the Canadian Forces**
 
 **8.2** Notwithstanding any other provision of this Act, on or after April 1, 1996, the wage rates in effect under the compensation plan in respect of non-commissioned members of the Canadian Forces may be increased by an amount not exceeding 2.2 per cent in the manner in which the plan was established.
-> 1996, c. 18, s. 13.
+> 1996, c. 18, s. 13
 
 
 
@@ -398,7 +398,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 **Idem**
 
 - **(4)** Notwithstanding any other Act of Parliament, each of the compensation plans for the persons mentioned in subsection 3(3.1) shall be deemed to include a provision to the effect that the wage rates in effect under the plan on the day on which the plan would, but for subsection 5(3), expire shall not be increased for the forty-eight month period immediately following that day.
-> 1991, c. 30, s. 9; 1993, c. 13, s. 7; 1994, c. 18, s. 6.
+> 1991, c. 30, s. 9; 1993, c. 13, s. 7; 1994, c. 18, s. 6
 
 
 
@@ -436,7 +436,7 @@ sections 5 and 6 do not apply in respect of the previous compensation plan and t
 	- **(b)** deemed to include provisions to the effect that
 		- **(i)** the wage rates in effect under the plan on the day on which the plan would, but for this subsection, expire shall not be increased for the forty-eight month period immediately following that day, and
 		- **(ii)** the terms and conditions of the plan, collective agreement or arbitral award, other than wage rates, in effect on the day on which the plan, collective agreement or arbitral award would, but for this subsection, expire, shall continue in force without change for the forty-eight month period immediately following that day.
-> 1991, c. 30, s. 11; 1993, c. 13, s. 8; 1994, c. 18, s. 7.
+> 1991, c. 30, s. 11; 1993, c. 13, s. 8; 1994, c. 18, s. 7
 
 
 
@@ -721,6 +721,8 @@ National Film Board<br />- <i>Office national du film</i>
 
 National Research Council of Canada<br />- <i>Conseil national de recherches du Canada</i>
 
+National Security and Intelligence Review Agency Secretariat<br />- <i>Secrétariat de l’Office de surveillance des activités en matière de sécurité nationale et de renseignement</i>
+
 National Transportation Agency<br />- <i>Office national des transports</i>
 
 Natural Sciences and Engineering Research Council<br />- <i>Conseil de recherches en sciences naturelles et en génie</i>
@@ -763,8 +765,6 @@ Royal Canadian Mounted Police External Review Committee<br />- <i>Comité extern
 
 Science Council of Canada<br />- <i>Conseil des Sciences du Canada</i>
 
-Security Intelligence Review Committee<br />- <i>Comité de surveillance des activités de renseignements de sécurité</i>
-
 Social Sciences and Humanities Research Council<br />- <i>Conseil de recherches en sciences humaines</i>
 
 Social Security Tribunal<br />- <i>Tribunal de la sécurité sociale</i>
@@ -782,7 +782,7 @@ Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des tran
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295; 2013, c. 18, ss. 57, 58, c. 33, ss. 188 to 190, c. 40, ss. 232, 233, 464, 465; 2014, c. 20, s. 459; 2015, c. 3, s. 149; 2017, c. 9, s. 57; 2018, c. 27, ss. 673, 674.
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295; 2013, c. 18, ss. 57, 58, c. 33, ss. 188 to 190, c. 40, ss. 232, 233, 464, 465; 2014, c. 20, s. 459; 2015, c. 3, s. 149; 2017, c. 9, s. 57; 2018, c. 27, ss. 673, 6742019, c. 13, s. 442019, c. 13, s. 45
 
 
 
@@ -818,6 +818,87 @@ National Gallery of Canada<br />- <i>Musée des Beaux-arts du Canada</i>
 National Museum of Science and Technology<br />- <i>Musée national des sciences et de la technologie</i>
 
 Old Port of Montreal Corporation Inc.<br />- <i>Société immobilière du Canada (Le Vieux-Port de Montréal) Limitée</i>
-> 1991, c. 30, Sch. II; 2001, c. 34, s. 16; 2008, c. 9, s. 12; 2010, c. 7, s. 11; 2013, c. 38, ss. 21, 22; 2014, c. 20, s. 191.
+> 1991, c. 30, Sch. II; 2001, c. 34, s. 16; 2008, c. 9, s. 12; 2010, c. 7, s. 11; 2013, c. 38, ss. 21, 22; 2014, c. 20, s. 191
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 1993, c. 13, s. 26
+
+
+**Application of sections 2 to 8**
+
+**26** Notwithstanding subsections 29(1) and (2), no person shall be found guilty on account of any act or omission that, at the time of the act or omission, did not constitute an offence under any law of Canada.
+
+
+
+######           — 1995, c. 17, s. 5
+
+
+**Transitional**
+
+**5** Where, before or after the coming into force of section 3 of this Act but before that section ceases to be in force, an employee of a department or portion of the public service designated pursuant to paragraph 7.2(1)(a) of the Public Sector Compensation Act, as enacted by section 3 of this Act, becomes a surplus employee referred to in paragraph 7.2(1)(b) of the Public Sector Compensation Act, as enacted by section 3 of this Act, but has not yet ceased to be such an employee, the employee, on the coming into force of section 3 of this Act, becomes subject to the program within the meaning of section 7.2 of the Public Sector Compensation Act, as enacted by section 3 of this Act, and that section continues to apply to that employee, whether or not that section ceases to be in force.
+
+
+
+######           — 1995, c. 17, s. 6
+
+
+**Expiration**
+
+**6** The provisions of the Public Sector Compensation Act, as enacted by this Part, cease to be in force on the expiration of three years after the coming into force of this section.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 13, s. 85
+
+**85** Subsection 7.1(1) of the French version of the Public Sector Compensation Act is replaced by the following:
+
+**Programme de réduction du personnel civil**
+
+**7.1** 
+
+- **(1)** *Par dérogation à la présente loi ou à toute autre loi fédérale, à l’exception de la [Loi canadienne sur les droits de la personne](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), le Conseil du Trésor peut fixer les conditions du Programme de réduction du personnel civil découlant du budget du 22 février 1994 et, conformément à ce programme, offrir ou donner des sommes aux salariés — ou pour leur compte — engagés pour une durée indéterminée par le ministère de la Défense nationale, le Centre de la sécurité des télécommunications ou le service de Protection civile du Canada.*
+
+
+
+
+
+######           — 2019, c. 13, s. 86
+
+**86** Schedule I to the Act is amended by striking out the following under the heading “Other Portions of the Public Service”:
+
+Communications Security Establishment, Department of National Defence<br />- <i>Centre de la sécurité des télécommunications, ministère de la Défense nationale</i>
+
+
+
+######           — 2019, c. 13, s. 87
+
+**87** Schedule I to the Act is amended by adding, in alphabetical order, the following under the heading “Other Portions of the Public Service”:
+
+Communications Security Establishment<br />- <i>Centre de la sécurité des télécommunications</i>
+
+
+
+######           — 2019, c. 28, s. 160
+
+**160** Schedule I to the Public Sector Compensation Act is amended by striking out the following under the heading “Other Portions of the Public Service”:
+
+National Energy Board<br />- <i>Office national de l’énergie</i>
+
+
+
+######           — 2019, c. 28, s. 161
+
+**161** Schedule I to the Act is amended by adding the following, in alphabetical order, under the heading “Other Portions of the Public Service”:
+
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
+
 
 
