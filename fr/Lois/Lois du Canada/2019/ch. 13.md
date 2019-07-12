@@ -227,7 +227,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. A-1.
+> L.R., ch. A-1
 **
 
 #### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
@@ -243,7 +243,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. C-5.
+> L.R., ch. C-5
 **
 
 #### [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md)
@@ -255,7 +255,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. C-23.
+> L.R., ch. C-23
 **
 
 #### [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md)
@@ -275,7 +275,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. C-29.
+> L.R., ch. C-29
 **
 
 #### [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md)
@@ -291,7 +291,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. F-11.
+> L.R., ch. F-11
 **
 
 #### [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)
@@ -327,7 +327,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. H-6.
+> L.R., ch. H-6
 **
 
 #### [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md)
@@ -343,7 +343,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. O-5; 2001, ch. 41, art. 25.
+> L.R., ch. O-5; 2001, ch. 41, art. 25
 **
 
 #### [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md)
@@ -363,7 +363,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. P-21.
+> L.R., ch. P-21
 **
 
 #### [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)
@@ -387,7 +387,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. P-36.
+> L.R., ch. P-36
 **
 
 #### [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)
@@ -399,7 +399,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. R-10.
+> L.R., ch. R-10
 **
 
 #### [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md)
@@ -419,7 +419,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 1991, ch. 30.
+> 1991, ch. 30
 **
 
 #### [Loi sur la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/1991/ch.%2030.md)
@@ -435,7 +435,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2000, ch. 17; 2001, ch. 41, art. 48.
+> 2000, ch. 17; 2001, ch. 41, art. 48
 **
 
 #### [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md)
@@ -590,7 +590,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. A-1.
+> L.R., ch. A-1
 **
 
 #### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
@@ -602,7 +602,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. C-5.
+> L.R., ch. C-5
 **
 
 #### [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md)
@@ -614,7 +614,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. C-23.
+> L.R., ch. C-23
 **
 
 #### [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md)
@@ -626,7 +626,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. F-11.
+> L.R., ch. F-11
 **
 
 #### [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)
@@ -654,7 +654,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. N-5.
+> L.R., ch. N-5
 **
 
 #### [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md)
@@ -670,7 +670,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. O-5.
+> L.R., ch. O-5
 **
 
 #### [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md)
@@ -682,7 +682,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. P-21.
+> L.R., ch. P-21
 **
 
 #### [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)
@@ -694,7 +694,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. P-36.
+> L.R., ch. P-36
 **
 
 #### [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)
@@ -706,7 +706,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2015, ch. 20, art. 2.
+> 2015, ch. 20, art. 2
 **
 
 #### [Loi sur la communication d’information ayant trait à la sécurité du Canada](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%202.md)
@@ -828,7 +828,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. N-5.
+> L.R., ch. N-5
 **
 
 ### [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md)
@@ -844,7 +844,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. N-5.
+> L.R., ch. N-5
 **
 
 #### [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md)
@@ -856,7 +856,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 1991, ch. 30.
+> 1991, ch. 30
 **
 
 #### [Loi sur la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/1991/ch.%2030.md)
@@ -876,7 +876,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2000, ch. 17; 2001, ch. 41, art. 48.
+> 2000, ch. 17; 2001, ch. 41, art. 48
 **
 
 #### [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md)
@@ -888,7 +888,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2015, ch. 20, art. 2.
+> 2015, ch. 20, art. 2
 **
 
 #### [Loi sur la communication d’information ayant trait à la sécurité du Canada](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%202.md)
@@ -913,7 +913,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **PARTIE 4** 
 **
-> L.R., ch. C-23.
+> L.R., ch. C-23
 **
 
 ## [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md)
@@ -1022,7 +1022,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **PARTIE 5** 
 **
-> 2015, ch. 20, art. 2.
+> 2015, ch. 20, art. 2
 **
 
 ## [Loi sur la communication d’information ayant trait à la sécurité du Canada](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%202.md)
@@ -1078,7 +1078,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. E-15.
+> L.R., ch. E-15
 **
 
 #### [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md)
@@ -1090,7 +1090,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. F-15.
+> L.R., ch. F-15
 **
 
 #### [Loi sur le ministère des Pêches et des Océans](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-15.md)
@@ -1102,7 +1102,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. 1 (2<sup>e</sup> suppl.) .
+> L.R., ch. 1 (2<sup>e</sup> suppl.) 
 **
 
 #### [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md)
@@ -1114,7 +1114,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> L.R., ch. 1 (5<sup>e</sup> suppl.) .
+> L.R., ch. 1 (5<sup>e</sup> suppl.) 
 **
 
 #### [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)
@@ -1126,7 +1126,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 1995, ch. 25.
+> 1995, ch. 25
 **
 
 #### [Loi de mise en oeuvre de la Convention sur les armes chimiques](/fr/Lois/Lois%20du%20Canada/1995/ch.%2025.md)
@@ -1138,7 +1138,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2002, ch. 22.
+> 2002, ch. 22
 **
 
 #### [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md)
@@ -1151,7 +1151,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **PARTIE 6** 
 **
-> 2015, ch. 20, art. 11.
+> 2015, ch. 20, art. 11
 **
 
 ## [Loi sur la sûreté des déplacements aériens](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%2011.md)
@@ -1223,7 +1223,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **PARTIE 7** 
 **
-> L.R., ch. C-46.
+> L.R., ch. C-46
 **
 
 ## [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)
@@ -1331,7 +1331,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 1992, ch. 20.
+> 1992, ch. 20
 **
 
 ### Modification corrélative à la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md)
@@ -1344,7 +1344,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **PARTIE 8** 
 **
-> 2002, ch. 1.
+> 2002, ch. 1
 **
 
 ## [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)
@@ -1434,7 +1434,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#nbp_2019-c13_F_transform_hq_24279'>[*]</a></sup>**169** Les parties 1 et 2, à l’exception des articles 48, 49, 74 et 75, entrent en vigueur à la date fixée par décret.
 
-<a name='nbp_2019-c13_F_transform_hq_24279'><sup>*</sup></a>: [Note : Parties 1 et 2, à l’exception des articles 48, 49, 74 et 75, non en vigueur.]<br />
+<a name='nbp_2019-c13_F_transform_hq_24279'><sup>*</sup></a>: [Note : Parties 1 et 2, à l’exception des articles 48, 49, 74 et 75, en vigueur le 12 juillet 2019, *voir* TR/2019-67.]<br />
 
 
 
