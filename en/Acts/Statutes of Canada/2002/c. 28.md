@@ -48,7 +48,7 @@ AND WHEREAS Canada must be able to fulfil its international obligations in relat
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
-> 2002, c. 28, Preamble; 2016, c. 9, s. 32..
+> 2002, c. 28, Preamble; 2016, c. 9, s. 32.
 
 
 
@@ -162,7 +162,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Acceptable risks**
 
 - **(2)** For the purposes of this Act, the health or environmental risks of a pest control product are acceptable if there is reasonable certainty that no harm to human health, future generations or the environment will result from exposure to or use of the product, taking into account its conditions or proposed conditions of registration.
-> 2002, c. 28, s. 2; 2016, c. 9, s. 33.
+> 2002, c. 28, s. 2; 2016, c. 9, s. 33
 
 
 
@@ -196,7 +196,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(b)** seek to minimize health and environmental risks posed by pest control products and encourage the development and implementation of innovative, sustainable pest management strategies by facilitating access to pest control products that pose lower risks and by other appropriate measures;
 	- **(c)** encourage public awareness in relation to pest control products by informing the public, facilitating public access to relevant information and public participation in the decision-making process; and
 	- **(d)** ensure that only those pest control products that are determined to be of acceptable value are approved for use in Canada.
-> 2002, c. 28, s. 4; 2016, c. 9, s. 34.
+> 2002, c. 28, s. 4; 2016, c. 9, s. 34
 
 
 
@@ -281,7 +281,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(9)** A person who contravenes any provision of this section is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 6; 2016, c. 9, s. 35.
+> 2002, c. 28, s. 6; 2016, c. 9, s. 35
 
 
 
@@ -352,7 +352,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Representations**
 
 - **(10)** For the purposes of subsection (9), the Minister shall, before making the determination, give the applicant a reasonable opportunity to make representations in respect of the information referred to in that subsection.
-> 2002, c. 28, s. 7; 2017, c. 6, s. 109.
+> 2002, c. 28, s. 7; 2017, c. 6, s. 109
 
 
 
@@ -386,7 +386,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Former registrants**
 
 - **(6)** The obligation under subsection (5) to retain and report sales information in respect of a pest control product continues to apply to a former registrant after that product ceases to be registered.
-> 2002, c. 28, s. 8; 2016, c. 9, s. 36.
+> 2002, c. 28, s. 8; 2016, c. 9, s. 36
 
 
 
@@ -517,7 +517,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Evaluation of pest control product**
 
 - **(6)** After the re-evaluation is initiated, the Minister shall, in accordance with the regulations, if any, conduct any evaluations that the Minister considers necessary with respect to the health or environmental risks or the value of the pest control product and shall carry out the consultations required by section 28.
-> 2002, c. 28, s. 16; 2017, c. 6, s. 110.
+> 2002, c. 28, s. 16; 2017, c. 6, s. 110
 
 
 
@@ -556,7 +556,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **New or amended consultation statement**
 
 - **(8)** If the Minister expands the scope of a re-evaluation or special review under subsection (7) after the consultation statement relating to the re-evaluation or special review has been made public under subsection 28(2), the Minister shall make public a new or amended consultation statement under that subsection that takes into account the aspect referred to in subsection (7).
-> 2002, c. 28, s. 17; 2019, c. 29, s. 217.
+> 2002, c. 28, s. 172019, c. 29, s. 217
 
 
 
@@ -574,7 +574,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** the Minister made public under subsection 28(5) a decision statement respecting a re-evaluation of, or a special review in relation to, that product;
 	- **(b)** the aspect of the product that would otherwise prompt a special review was addressed by the re-evaluation or special review referred to in paragraph (a); and
 	- **(c)** the Minister determines that there is no additional information in relation to the health or environmental risks of the product that provides the Minister with reasonable grounds to believe that those risks are unacceptable.
-> 2019, c. 29, s. 218.
+> 2019, c. 29, s. 218
 
 
 
@@ -585,7 +585,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **17.2** The Minister shall make public each of the following decisions and the reasons for it:
 - **(a)** a decision made under subsection 17(7) to expand the scope of a re-evaluation or special review to include an aspect that would otherwise prompt a new special review under subsection 17(2);
 - **(b)** a decision made under subsection 17.1(1) or (2) not to initiate a special review in relation to an aspect that would otherwise prompt such a review under subsection 17(2).
-> 2019, c. 29, s. 218.
+> 2019, c. 29, s. 218
 
 
 
@@ -614,7 +614,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Evaluation of pest control product**
 
 - **(4)** After the special review is initiated, the Minister shall, in accordance with the regulations, if any, evaluate only the aspects of the pest control product that are within the scope of the special review and shall carry out the consultations required by section 28.
-> 2002, c. 28, s. 18; 2017, c. 6, s. 111; 2019, c. 29, s. 219.
+> 2002, c. 28, s. 18; 2017, c. 6, s. 1112019, c. 29, s. 219
 
 
 
@@ -917,7 +917,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(8)** Every person who knowingly provides false or misleading information in connection with an authorization is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 33; 2016, c. 9, s. 37.
+> 2002, c. 28, s. 33; 2016, c. 9, s. 37
 
 
 
@@ -988,7 +988,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Information to be placed in Register**
 
 - **(9)** A review panel shall give the information submitted to it to the Minister, who shall place it in the Register.
-> 2002, c. 28, s. 35; 2016, c. 9, s. 38.
+> 2002, c. 28, s. 35; 2016, c. 9, s. 38
 
 
 
@@ -1086,6 +1086,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+## Product Safety Information for Unregistered Products
+
+
+
+**Provision of safety information**
+
+**41.1** A person who is authorized by the regulations to import an unregistered pest control product solely for the purpose of export or for a prescribed purpose and who imports such a product for that purpose shall provide, in accordance with the regulations, to workplaces where the pest control product is handled or stored, product safety information for the product that complies with the prescribed requirements.
+> 2016, c. 9, s. 39
+
+
+
+
+
 ## Access to Information
 
 
@@ -1143,9 +1156,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** the information referred to in subsection (6), as soon as reasonably practicable;
 	- **(b)** memoranda of understanding among federal government departments relating to the regulation of pest control products;
 	- **(c)** reports of international harmonization activities relating to the regulation of pest control products;
-	- **(d)** regulations and proposed regulations under this Act when published in the Canada Gazette; and
+	- **(d)** regulations and proposed regulations under this Act when published in the [Canada Gazette](http://www.gazette.gc.ca/); and
 	- **(e)** policies, guidelines and codes of practice relating to the regulation of pest control products when proposed for public consultation, and their final texts when adopted.
-> 2002, c. 28, s. 42; 2018, c. 27, s. 275.
+> 2002, c. 28, s. 42; 2018, c. 27, s. 275
 
 
 
@@ -1261,7 +1274,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(7)** Every person who contravenes subsection (6) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 44; 2016, c. 9, s. 40.
+> 2002, c. 28, s. 44; 2016, c. 9, s. 40
 
 
 
@@ -1290,7 +1303,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Inspector’s certificate of designation**
 
 - **(3)** An inspector shall be provided with a certificate in a form established by the Minister certifying the inspector’s designation and, on entering any place under the authority of this Act, the inspector shall show the certificate to the person in charge of the place if the person requests proof of the designation.
-> 2002, c. 28, s. 45; 2016, c. 9, s. 42.
+> 2002, c. 28, s. 45; 2016, c. 9, s. 42
 
 
 
@@ -1311,7 +1324,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(3)** Every person who contravenes this section is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 46; 2016, c. 9, s. 43.
+> 2002, c. 28, s. 46; 2016, c. 9, s. 43
 
 
 
@@ -1343,7 +1356,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(4)** Every person who contravenes subsection (2) or (3) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 47; 2016, c. 9, s. 44.
+> 2002, c. 28, s. 47; 2016, c. 9, s. 44
 
 
 
@@ -1386,7 +1399,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(4)** Every person who fails to do anything the person was ordered to do by an inspector under paragraphs (1)(c), (d), (d.3) or (d.7) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 48; 2016, c. 9, s. 45.
+> 2002, c. 28, s. 48; 2016, c. 9, s. 45
 
 
 
@@ -1413,7 +1426,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Telewarrant**
 
 - **(4)** If an inspector believes that it would be impracticable to appear personally to make an application for a warrant under subsection (2), a warrant may be issued by telephone or other means of telecommunication, on information submitted by telephone or other means of telecommunication, and section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies for that purpose, with any necessary modifications.
-> 2002, c. 28, s. 49; 2016, c. 9, s. 46.
+> 2002, c. 28, s. 49; 2016, c. 9, s. 46
 
 
 
@@ -1432,7 +1445,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(2)** Every person who contravenes subsection (1) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 50; 2016, c. 9, s. 47.
+> 2002, c. 28, s. 50; 2016, c. 9, s. 47
 
 
 
@@ -1449,7 +1462,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(2)** Every person who fails to do anything the person was ordered to do by an inspector under subsection (1) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 51; 2016, c. 9, s. 48.
+> 2002, c. 28, s. 51; 2016, c. 9, s. 48
 
 
 
@@ -1465,7 +1478,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(a)** was used in a contravention of a provision of this Act or the regulations;
 - **(b)** is something in relation to which a provision of this Act or the regulations was contravened; or
 - **(c)** was obtained by the contravention of a provision of this Act or the regulations.
-> 2002, c. 28, s. 52; 2016, c. 9, s. 49.
+> 2002, c. 28, s. 52; 2016, c. 9, s. 49
 
 
 
@@ -1506,7 +1519,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(5)** Every person who contravenes subsection (4) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 53; 2016, c. 9, s. 51.
+> 2002, c. 28, s. 53; 2016, c. 9, s. 51
 
 
 
@@ -1515,7 +1528,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Release of seized thing**
 
 **53.1** If an inspector is satisfied that the provisions of this Act and the regulations that apply with respect to a pest control product or other thing seized under this Act have been complied with, the product or thing must be released.
-> 2016, c. 9, s. 52.
+> 2016, c. 9, s. 52
 
 
 
@@ -1530,7 +1543,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Order for return**
 
 - **(2)** If the Review Tribunal or court, as the case may be, is satisfied that sufficient evidence exists or may reasonably be obtained without the continued detention of the pest control product or other thing, the Tribunal or court may order it to be returned to the applicant, subject to any conditions the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required.
-> 2016, c. 9, ss. 52, 72.
+> 2016, c. 9, ss. 52, 72
 
 
 
@@ -1563,7 +1576,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Forfeiture**
 
 - **(5)** If a person is notified under subsection (4) that they may consent to the forfeiture of the pest control product and the person consents to its forfeiture, the product is forfeited to Her Majesty in right of Canada and may be disposed of, as the Minister may direct, at the person’s expense.
-> 2016, c. 9, s. 52.
+> 2016, c. 9, s. 52
 
 
 
@@ -1606,7 +1619,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(6)** Every person who fails to comply with an order in the notice is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 54; 2016, c. 9, s. 52.
+> 2002, c. 28, s. 54; 2016, c. 9, s. 52
 
 
 
@@ -1631,7 +1644,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Disposition**
 
 - **(3)** A seized pest control product or other thing that is forfeited under subsection (1) may be disposed of, as the Minister may direct, at the expense of its owner or the person having possession, care or control of it at the time of its seizure.
-> 2016, c. 9, s. 52.
+> 2016, c. 9, s. 52
 
 
 
@@ -1652,7 +1665,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(3)** A pest control product or other thing that is forfeited under subsection (2) may be disposed of as the Minister directs, at the expense of,
 	- **(a)** if it was not seized, its owner; or
 	- **(b)** if it was seized, its owner or the person having possession, care or control of it at the time of its seizure.
-> 2002, c. 28, s. 55; 2012, c. 24, s. 106; 2016, c. 9, ss. 52, 72.
+> 2002, c. 28, s. 55; 2012, c. 24, s. 106; 2016, c. 9, ss. 52, 72
 
 
 
@@ -1669,7 +1682,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(2)** A seized pest control product or other thing may be
 	- **(a)** detained pending the payment of any fine or penalty imposed on its owner or the person having possession, care or control of it at the time of seizure; or
 	- **(b)** sold in satisfaction of the fine or penalty.
-> 2002, c. 28, s. 56; 2016, c. 9, s. 52.
+> 2002, c. 28, s. 56; 2016, c. 9, s. 52
 
 
 
@@ -1688,7 +1701,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Disposition**
 
 - **(3)** A pest control product or other thing that is forfeited under subsection (1) may be disposed of, as the Minister may direct, at the expense of its owner or the person having possession, care or control of it at the time of its seizure.
-> 2016, c. 9, s. 52.
+> 2016, c. 9, s. 52
 
 
 
@@ -1725,7 +1738,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Prosecutions**
 
 - **(5)** An order under subsection (1) may be given whether or not the person has been charged with an offence relating to the contravention, but if the person is charged, the order may be confirmed, varied or rescinded by the court that tries the offence.
-> 2002, c. 28, s. 57; 2016, c. 9, ss. 54, 62(E).
+> 2002, c. 28, s. 57; 2016, c. 9, ss. 54, 62(E)
 
 
 
@@ -1766,7 +1779,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(4)** Every person who fails to comply with an order in a notice delivered under subsection (3) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
-> 2002, c. 28, s. 59; 2016, c. 9, ss. 55, 62(E).
+> 2002, c. 28, s. 59; 2016, c. 9, ss. 55, 62(E)
 
 
 
@@ -1832,7 +1845,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Effect of amendment**
 
 - **(13)** When the decision under subsection (10) is to amend an order, the notice of that decision under subsection (11) is deemed, for the purpose of section 61, to have been delivered under subsection 53(2), 57(3) or 59(3), as the case may be, and the amended order is subject to review under this section.
-> 2002, c. 28, s. 60; 2016, c. 9, s. 62(E).
+> 2002, c. 28, s. 60; 2016, c. 9, s. 62(E)
 
 
 
@@ -1845,7 +1858,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Application for court order**
 
 **61** If a person fails to comply with an order in respect of which notice has been delivered under subsection 53(2), 57(3) or 59(3), the Minister may apply to the Federal Court or any other court of competent jurisdiction for an order requiring the person to comply with the notice or authorizing an inspector to take any measures the court considers necessary to ensure compliance with the notice.
-> 2002, c. 28, s. 61; 2016, c. 9, s. 62(E).
+> 2002, c. 28, s. 61; 2016, c. 9, s. 62(E)
 
 
 
@@ -1882,7 +1895,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply**
 
 - **(6)** For greater certainty, the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of notices or other documents delivered under this Act.
-> 2002, c. 28, s. 62; 2016, c. 9, s. 57.
+> 2002, c. 28, s. 62; 2016, c. 9, s. 57
 
 
 
@@ -1895,7 +1908,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Recovery of fees**
 
 **63** Her Majesty in right of Canada may recover, as a debt due to Her Majesty in right of Canada, any fee or charge that applies in relation to the administration of the provisions of this Act or the regulations.
-> 2002, c. 28, s. 63; 2016, c. 9, s. 58.
+> 2002, c. 28, s. 63; 2016, c. 9, s. 58
 
 
 
@@ -1906,7 +1919,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **64** Her Majesty in right of Canada may recover, as a debt due to Her Majesty in right of Canada, any costs incurred by Her Majesty in right of Canada in relation to anything required or authorized under this Act, including
 - **(a)** the inspection, treatment, testing or analysis of a place, pest control product or other thing or the storage, movement, seizure, detention, forfeiture, disposition or return of a pest control product or other thing;
 - **(b)** any enforcement or risk-control measures taken by the Minister or an inspector under this Act.
-> 2002, c. 28, s. 64; 2016, c. 9, s. 58.
+> 2002, c. 28, s. 64; 2016, c. 9, s. 58
 
 
 
@@ -1915,7 +1928,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Time limit**
 
 **64.1** Proceedings to recover a debt due to Her Majesty in right of Canada under this Act shall not be commenced later than five years after the debt became payable.
-> 2016, c. 9, s. 58.
+> 2016, c. 9, s. 58
 
 
 
@@ -1930,7 +1943,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Judgment**
 
 - **(2)** On production to the Federal Court, a certificate made under subsection (1) shall be registered in that Court and, when registered, has the same force and effect, and all proceedings may be taken on the certificate, as if it were a judgment obtained in that Court for a debt of the amount specified in the certificate and all reasonable costs and charges attendant in the registration of the certificate.
-> 2016, c. 9, s. 58.
+> 2016, c. 9, s. 58
 
 
 
@@ -1972,7 +1985,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Regulations**
 
 - **(5)** Regulations made by the Minister of Justice under section 9 of the [Commercial Arbitration Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2017%20(2nd%20Supp.).md) apply to an arbitration referred to in subsection (3) unless the parties otherwise agree.
-> 2002, c. 28, s. 66; 2017, c. 6, s. 112.
+> 2002, c. 28, s. 66; 2017, c. 6, s. 112
 
 
 
@@ -2053,7 +2066,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 ***North American Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md). (*Accord de libre-échange nord-américain*)
 
 ***WTO Agreement*** has the same meaning as Agreement in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md). (*Accord sur l’OMC*)
-> 2002, c. 28, s. 67; 2016, c. 9, s. 59; 2017, c. 6, s. 113.
+> 2002, c. 28, s. 67; 2016, c. 9, s. 59; 2017, c. 6, s. 113
 
 
 
@@ -2079,13 +2092,13 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Contravention of unpublished order**
 
-- **(3)** No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order or reasonable steps had been taken to bring the purport of the interim order to the notice of those persons likely to be affected by it.
+- **(3)** No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the [Canada Gazette](http://www.gazette.gc.ca/) unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order or reasonable steps had been taken to bring the purport of the interim order to the notice of those persons likely to be affected by it.
 
 **Exemption form [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(4)** An interim order
 	- **(a)** is exempt from the application of sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md); and
-	- **(b)** shall be published in the Canada Gazette within 23 days after it is made.
+	- **(b)** shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) within 23 days after it is made.
 
 **Deeming**
 
@@ -2098,7 +2111,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **House not sitting**
 
 - **(7)** In order to comply with subsection (6), the interim order may be sent to the Clerk of the House if the House is not sitting.
-> 2004, c. 15, s. 111.1.
+> 2004, c. 15, s. 111.1
 
 
 
@@ -2155,7 +2168,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Due diligence**
 
 **69.1** A person is not to be found guilty of an offence under this Act — other than an offence under section 30 or subsection 33(8), 40(1) or 44(7), an offence under subsection 47(4) as it relates to a contravention of subsection 47(3) or an offence under subsection 68(3) or 70(3) — if they establish that they exercised all due diligence to prevent the commission of the offence.
-> 2016, c. 9, s. 60.
+> 2016, c. 9, s. 60
 
 
 
@@ -2189,7 +2202,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **71** In a prosecution for an offence under this Act — other than an offence under section 30 or subsection 33(8), 40(1) or 44(7), an offence under subsection 47(4) as it relates to a contravention of subsection 47(3) or an offence under subsection 68(3) or 70(3) — it is sufficient proof of the offence to establish that it was committed by an employee or agent or mandatary of the accused, whether or not the employee or agent or mandatary is identified or has been prosecuted for the offence, unless the accused establishes that
 - **(a)** the offence was committed without the knowledge or consent of the accused; and
 - **(b)** the accused exercised all due diligence to prevent its commission.
-> 2002, c. 28, s. 71; 2016, c. 9, s. 61.
+> 2002, c. 28, s. 71; 2016, c. 9, s. 61
 
 
 
@@ -2376,5 +2389,47 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 <sup><a href='#P-9.01_en_1'>[*]</a></sup>**90** The provisions of this Act, and the provisions of any Act as enacted by this Act, come into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='P-9.01_en_1'><sup>*</sup></a>: [Note: Act in force June 28, 2006, *see* SI/2006-93.]<br />
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2016, c. 9, s. 68
+
+
+**Section 54 of Pest Control Products Act**
+
+**68** Section 54 of the Pest Control Products Act, as it read immediately before the day on which section 52 of this Act comes into force, continues to apply to a pest control product seized under the Pest Control Products Act before that day.
+
+
+
+######           — 2016, c. 9, s. 69
+
+
+**Sections 60 and 61 of Pest Control Products Act**
+
+**69** Sections 60 and 61 of the Pest Control Products Act, as they read immediately before the day on which section 62 of this Act comes into force, continue to apply to a requirement in respect of which a notice has been delivered under subsection 53(2), 57(3) or 59(3) of the Pest Control Products Act, as it read immediately before that day.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2016, c. 9, ss. 36(2), (3)
+
+**36** 
+
+- **(2)** Subsection 8(3) of the Act is repealed.
+
+- **(3)** Section 8 of the Act is amended by adding the following after subsection (4):
+
+**Product safety information**
+
+- **(4.1)** Subject to the regulations and as a condition of registration, the registrant of a pest control product shall,
+	- **(a)** provide, in accordance with the regulations, to workplaces where the pest control product is manufactured, handled, stored or used, product safety information that complies with the prescribed requirements; or
+	- **(b)** make available, in accordance with the regulations, to persons who manufacture, handle, store or use the pest control product, product safety information that complies with the prescribed requirements.
+
 
 
