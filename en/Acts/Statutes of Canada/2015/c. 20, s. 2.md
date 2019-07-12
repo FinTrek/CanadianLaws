@@ -34,7 +34,7 @@ Whereas Government of Canada institutions are accountable for the effective and 
 And whereas an explicit authority will facilitate the effective and responsible disclosure of information to protect the security of Canada;
 
 
-> 2015, c. 20, s. 2 “Preamble”; 2019, c. 13, s. 113.
+> 2015, c. 20, s. 2 “Preamble”2019, c. 13, s. 113
 
 
 Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
@@ -51,7 +51,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Short title**
 
 **1** This Act may be cited as the Security of Canada Information Disclosure Act.
-> 2015, c. 20, s. 2 “1”; 2019, c. 13, s. 114(E).
+> 2015, c. 20, s. 2 “1”2019, c. 13, s. 114(E)
 
 
 
@@ -87,7 +87,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(2)** For the purposes of this Act, advocacy, protest, dissent or artistic expression is not an activity that undermines the security of Canada unless carried on in conjunction with an activity that undermines the security of Canada.
-> 2015, c. 20, s. 2 “2”; 2019, c. 13, s. 115.
+> 2015, c. 20, s. 2 “2”2019, c. 13, s. 115
 
 
 
@@ -100,7 +100,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Purpose**
 
 **3** The purpose of this Act is to encourage and facilitate the disclosure of information between Government of Canada institutions in order to protect Canada against activities that undermine the security of Canada.
-> 2015, c. 20, s. 2 “3”; 2019, c. 13, s. 116(E).
+> 2015, c. 20, s. 2 “3”2019, c. 13, s. 116(E)
 
 
 
@@ -114,7 +114,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** entry into an information-sharing arrangement is appropriate when a Government of Canada institution regularly discloses information to the same Government of Canada institution;
 - **(d)** the provision of feedback as to how disclosed information is used and as to whether it is useful in protecting against activities that undermine the security of Canada facilitates effective and responsible information disclosure; and
 - **(e)** only those within an institution who exercise its jurisdiction or carry out its responsibilities in respect of activities that undermine the security of Canada ought to receive information that is disclosed under this Act.
-> 2015, c. 20, s. 2 “4”; 2019, c. 13, s. 117.
+> 2015, c. 20, s. 2 “4”2019, c. 13, s. 117
 
 
 
@@ -135,7 +135,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Statement regarding accuracy and reliability**
 
 - **(2)** An institution that discloses information under subsection (1) must, at the time of the disclosure, also provide information regarding its accuracy and the reliability of the manner in which it was obtained.
-> 2015, c. 20, s. 2 “5”; 2019, c. 13, s. 118.
+> 2015, c. 20, s. 2 “5”2019, c. 13, s. 118
 
 
 
@@ -154,7 +154,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **[Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md)**
 
 - **(3)** Subsection (1) does not apply to the Canadian Security Intelligence Service in respect of any information that relates to the performance of its duties and functions under section 12 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
-> 2019, c. 13, s. 118.
+> 2019, c. 13, s. 118
 
 
 
@@ -163,7 +163,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Clarification**
 
 **6** Nothing in section 5 or 5.1 is to be construed as authorizing the collection or use of any information that is disclosed under section 5.
-> 2015, c. 20, s. 2 “6”; 2019, c. 13, s. 118.
+> 2015, c. 20, s. 2 “6”2019, c. 13, s. 118
 
 
 
@@ -181,7 +181,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Clarification**
 
 **7.1** For greater certainty, for the purpose of paragraph 8(2)(b) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the authority in this Act to disclose information includes the authority to disclose personal information, as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
-> 2019, c. 13, s. 118.1.
+> 2019, c. 13, s. 118.1
 
 
 
@@ -221,7 +221,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 	- **(f)** if the information has been destroyed under subsection 5.1(1), the date on which it was destroyed;
 	- **(g)** if the information was returned under subsection 5.1(1) to the institution that disclosed it, the date on which it was returned; and
 	- **(h)** any other information specified by the regulations.
-> 2015, c. 20, s. 2 “9”; 2019, c. 13, s. 119.
+> 2015, c. 20, s. 2 “9”2019, c. 13, s. 119
 
 
 
@@ -247,7 +247,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Amendments to Schedule 3**
 
 - **(3)** The Governor in Council may make an order adding the name of a Government of Canada institution and the title of its head to Schedule 3, deleting the name of an institution and the title of its head from that Schedule or amending the name of an institution or the title of a head that is listed in that Schedule. An addition is authorized only if the institution has jurisdiction or responsibilities under an Act of Parliament or another lawful authority in respect of activities that undermine the security of Canada, including in respect of their detection, identification, analysis, prevention, investigation or disruption.
-> 2015, c. 20, s. 2 “10”; 2019, c. 13, s. 120.
+> 2015, c. 20, s. 2 “10”2019, c. 13, s. 120
 
 
 
@@ -262,8 +262,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 ### **SCHEDULE 2** 
 **(Section 2 and subsection 10(2))**
 ## Additional Institutions
+> 2015, c. 20, s. 2 “Sch. 2”2019, c. 13, s. 73
 
-Office of the Communications Security Establishment Commissioner<br />- <i>Bureau du commissaire du Centre de la sécurité des télécommunications</i>
 
 
 
@@ -383,6 +383,46 @@ Royal Canadian Mounted Police<br />- <i>Gendarmerie royale du Canada</i></td>
 </tr>
 </table>
 
-> 2015, c. 20, ss. 2 “Sch. 3”, 9.
+> 2015, c. 20, ss. 2 “Sch. 3”, 9
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 13, s. 82
+
+
+**References**
+
+**82** 
+
+- **(1)** A reference to the former department in any of the following is deemed to be a reference to the new department:
+	- **(a)** Schedule I to the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) under the heading “Other Government Institutions”;
+	- **(b)** Schedules I.1, V and VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+	- **(c)** the schedule to the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) under the heading “Other Government Institutions”;
+	- **(d)** the schedule to the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md);
+	- **(e)** Schedule 3 to the Security of Canada Information Disclosure Act;
+	- **(f)** the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md); and
+	- **(g)** the [Intelligence Commissioner Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2050.md).
+
+**Other references**
+
+- **(1.1)** Unless the context requires otherwise, every reference to the former department in any Act of Parliament, other than an Act referred to in subsection (1), or in any order, regulation or other instrument made under an Act of Parliament is deemed to be a reference to the new department.
+
+**Deputy head**
+
+- **(2)** The designation of a person as deputy head of the former department in any order of the Governor in Council made under section 55 of the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md) is deemed to be a designation of the Chief of the new department as deputy head of that department.
+
+
+
+######           — 2019, c. 13, s. 89
+
+**89** Paragraph (g) of the definition ***activity that undermines the security of Canada*** in subsection 2(1) of the Security of Canada Information Disclosure Act is replaced by the following:
+
+- **(g)** significant or widespread interference with the global information infrastructure, as defined in section 2 of the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md); and
+
+
+
 
 
