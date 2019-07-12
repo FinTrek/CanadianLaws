@@ -8,7 +8,7 @@
 Assented to on 21 June 2019
 
 ```
-[Enacted by section 2 of chapter 13 of the Statutes of Canada, 2019, not in force.]
+[Enacted by section 2 of chapter 13 of the Statutes of Canada, 2019, in force July 12, 2019, see SI/2019-67.]
 ```
 ----------
 
@@ -54,7 +54,11 @@ Assented to on 21 June 2019
 
 ***Review Agency*** means the National Security and Intelligence Review Agency established under section 3. (*Office de surveillance*)
 
-***review body*** means the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md). (*organisme de surveillance*)
+***review body*** means
+- **(a)** the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md); or
+- **(b)** the National Security and Intelligence Committee of Parliamentarians. (*organisme de surveillance*)
+> 2019, c. 13, s. 2 “2”2019, c. 13, s. 49
+
 
 
 
@@ -212,7 +216,9 @@ Assented to on 21 June 2019
 - **(a)** in relation to a complaint made under subsection 16(1), any information that relates to the complaint and that is in the possession or under the control of the Canadian Security Intelligence Service or the Communications Security Establishment;
 - **(b)** in relation to a complaint made under subsection 17(1), any information that relates to the complaint and that is in the possession or under the control of the Canadian Security Intelligence Service or the Communications Security Establishment;
 - **(c)** in relation to a complaint made under subsection 18(3), any information that relates to the complaint and that is in the possession or under the control of the deputy head concerned, the Canadian Security Intelligence Service or the Communications Security Establishment; and
-- **(d)** in relation to a complaint referred to it under subsection 45.53(4.1) or 45.67(2.1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), any information that relates to the complaint and that is in the possession or under the control of the review body, the Royal Canadian Mounted Police, the Canadian Security Intelligence Service or the Communications Security Establishment.
+- **(d)** in relation to a complaint referred to it under subsection 45.53(4.1) or 45.67(2.1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), any information that relates to the complaint and that is in the possession or under the control of the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), the Royal Canadian Mounted Police, the Canadian Security Intelligence Service or the Communications Security Establishment.
+> 2019, c. 13, s. 2 “10”2019, c. 13, s. 49
+
 
 
 
@@ -247,7 +253,9 @@ Assented to on 21 June 2019
 
 **Cooperation**
 
-**13** The Review Agency and the review body are to take all reasonable steps to cooperate with each other to avoid any unnecessary duplication of work by the Agency and the review body in relation to the fulfilment of their respective mandates.
+**13** The Review Agency and each review body are to take all reasonable steps to cooperate with each other to avoid any unnecessary duplication of work by the Review Agency and that review body in relation to the fulfilment of their respective mandates.
+> 2019, c. 13, s. 2 “13”2019, c. 13, s. 49
+
 
 
 
@@ -256,24 +264,45 @@ Assented to on 21 June 2019
 
 **14** 
 
-- **(1)** Despite any provision of any other Act of Parliament — including section 45.47 of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) — and subject to subsection (2), the review body may provide to the Review Agency information that is in its possession or under its control and that is related, in the review body’s opinion, to the fulfilment of the Agency’s mandate under paragraphs 8(1)(a) to (c).
+- **(1)** Despite any provision of any other Act of Parliament — including section 45.47 of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) — and subject to subsection (2), a review body may provide to the Review Agency information that is in its possession or under its control and that is related, in the review body’s opinion, to the fulfilment of the Agency’s mandate under paragraphs 8(1)(a) to (c).
 
 **Exception**
 
 - **(2)** The review body must not provide to the Review Agency information that is referred to in section 12.
+> 2019, c. 13, s. 2 “14”2019, c. 13, s. 49(E)
 
 
 
 
-**Provision of information to review body**
+
+**Civilian Review and Complaints Commission**
 
 **15** 
 
-- **(1)** The Review Agency may provide to the review body information that is obtained from — or that is created by the Agency from information obtained from — the Royal Canadian Mounted Police and that is related, in the Agency’s opinion, to the fulfilment of the review body’s mandate under subsection 45.34(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+- **(1)** The Review Agency may provide to the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police information that is obtained from — or that is created by the Agency from information obtained from — the Royal Canadian Mounted Police and that is related, in the Agency’s opinion, to the fulfilment of that review body’s mandate under subsection 45.34(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
 
 **Exception**
 
 - **(2)** The Review Agency must not provide to the review body information that is referred to in subsection 45.42(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+> 2019, c. 13, s. 2 “15”2019, c. 13, s. 49
+
+
+
+
+
+**National Security and Intelligence Committee of Parliamentarians**
+
+**15.1** 
+
+- **(1)** The Review Agency may provide to the National Security and Intelligence Committee of Parliamentarians information that is related, in the Agency’s opinion, to the fulfilment of that review body’s mandate under section 8 of the [National Security and Intelligence Committee of Parliamentarians Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2015.md).
+
+**Exception**
+
+- **(2)** The Review Agency must not provide to the review body
+	- **(a)** information that is referred to in section 14 of the [National Security and Intelligence Committee of Parliamentarians Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2015.md); or
+	- **(b)** information that is the subject of a decision that has been provided to the Review Agency under subsection 16(3) of that Act.
+> 2019, c. 13, s. 49
+
 
 
 
@@ -794,5 +823,235 @@ Assented to on 21 June 2019
 - **(a)** a federal Minister as the Minister responsible for this Act;
 - **(b)** any person to act as deputy head of a portion of the federal public administration for the purposes of paragraph (e) of the definition deputy head in section 2; and
 - **(c)** a commissioner appointed under the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md) to act as deputy head of an inquiry for the purposes of paragraph (f) of the definition deputy head in section 2.
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 13, s. 3
+
+
+**Definitions**
+
+**3** The following definitions apply in sections 4 to 17.
+
+***former Commissioner*** means the Commissioner of the Communications Security Establishment appointed under subsection 273.63(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), as it read immediately before the coming into force of section 68. (*ancien commissaire*)
+
+***former Committee*** means the Security Intelligence Review Committee established by subsection 34(1) of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md), as it read immediately before the coming into force of section 2. (*ancien comité*)
+
+***new Agency*** means the National Security and Intelligence Review Agency. (*nouvel office*)
+
+
+
+######           — 2019, c. 13, s. 4
+
+
+**Chairman of former Committee**
+
+**4** 
+
+- **(1)** The person who, immediately before the day on which section 2 comes into force, held office as Chairman of the former Committee ceases to be Chairman and is continued in office as a member of the new Agency for the remainder of the term for which he or she was appointed.
+
+**Members of former Committee**
+
+- **(2)** The members of the former Committee who, immediately before the day on which section 2 comes into force, held office are continued in office as members of the new Agency for the remainder of the term for which they were appointed.
+
+**Chair of new Agency**
+
+- **(3)** As soon as feasible after the day on which section 2 comes into force, the Governor in Council must designate, under subsection 4(5) of the National Security and Intelligence Review Agency Act, the Chair of the new Agency from among the members who continue in office under subsection (1) or (2) or who are appointed under subsection 4(1) of that Act.
+
+
+
+######           — 2019, c. 13, s. 5
+
+
+**Employment continued — staff**
+
+**5** 
+
+- **(1)** Nothing in this Part is to be construed as affecting the status of any person who, immediately before the day on which section 2 comes into force, occupies a position in the former Committee, except that the person is to, as of that day, occupy their position in the Secretariat of the new Agency.
+
+**Managerial or confidential position**
+
+- **(2)** For greater certainty, a person’s status includes whether or not they occupy a managerial or confidential position.
+
+
+
+######           — 2019, c. 13, s. 6
+
+
+**Powers, duties and functions**
+
+**6** A person referred to in section 5 whom the former Committee has authorized to exercise certain powers or perform certain duties or functions relating to a matter before that former Committee, on the day on which section 2 comes into force, retains the authority to exercise those powers and perform those duties and functions.
+
+
+
+######           — 2019, c. 13, s. 7
+
+
+**Appropriations**
+
+**7** Any money that is appropriated by an Act of Parliament, for the fiscal year in which section 2 comes into force, to defray any expenditure of the former Committee and that, on the day on which section 2 comes into force, is unexpended is deemed, on that day, to be an amount appropriated to defray any expenditure of the new Agency.
+
+
+
+######           — 2019, c. 13, s. 8
+
+
+**Rights and obligations**
+
+**8** All rights and property of the former Committee and of Her Majesty in right of Canada that are under the administration and control of the former Committee and all obligations of the former Committee are transferred to the new Agency.
+
+
+
+######           — 2019, c. 13, s. 9
+
+
+**Contracts**
+
+**9** A contract respecting the provision of services or materiel to the former Committee entered into before the day on which section 2 comes into force is deemed to have been entered into by the executive director of the Secretariat of the new Agency.
+
+
+
+######           — 2019, c. 13, s. 10
+
+
+**Information — former Committee**
+
+**10** The former Committee must transfer to the new Agency all information under its control, including information that relates to a complaint before that former Committee, or to any review or investigation that is being undertaken by that Committee, immediately before the day on which section 2 comes into force.
+
+
+
+######           — 2019, c. 13, s. 11
+
+
+**Complaints — former Committee**
+
+**11** 
+
+- **(1)** The new Agency becomes seized of any complaint made to the former Committee before the day on which section 2 comes into force and that complaint is deemed to have been made to the new Agency.
+
+**Reports and matters**
+
+- **(2)** The new Agency becomes seized of any report made under section 19 of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), and any matter referred under section 45 of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), to the former Committee before the day on which section 2 comes into force and that report or matter is deemed to have been made or referred, as the case may be, to the new Agency.
+
+
+
+######           — 2019, c. 13, s. 12
+
+
+**First report**
+
+**12** 
+
+- **(1)** The first report that the new Agency submits under each of subsections 32(1) and 38(1) of the National Security and Intelligence Review Agency Act must include information in respect of any period for which the former Committee has not yet submitted a report under section 53 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md), as it read immediately before the coming into force of section 2.
+
+**First report — Communications Security Establishment**
+
+- **(2)** The first report that the new Agency submits under each of subsections 33(1) and 38(1) of the National Security and Intelligence Review Agency Act must include information in respect of any period for which the former Commissioner has not yet submitted a report under subsection 273.63(3) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), as it read immediately before the coming into force of section 2.
+
+
+
+######           — 2019, c. 13, s. 13
+
+
+**Commencement of proceedings**
+
+**13** 
+
+- **(1)** Any action, suit or other legal or administrative proceeding that could have been brought against the former Committee may be brought against the new Agency in any court that would have had jurisdiction if the action, suit or proceeding had been brought against the former Committee.
+
+**Pending proceedings**
+
+- **(2)** Any action, suit or other legal or administrative proceeding to which the former Committee is a party that is pending immediately before the day on which section 2 comes into force may be continued by or against the new Agency in the same manner and to the same extent as it could have been continued by or against the former Committee.
+
+
+
+######           — 2019, c. 13, s. 14
+
+
+**No compensation**
+
+**14** Despite the provisions of any contract, agreement or order, no person appointed to hold office as Chairman or as a member of the former Committee has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent or mandatary of Her Majesty for ceasing to hold that office or for the abolition of that office by the operation of this Part.
+
+
+
+######           — 2019, c. 13, s. 15
+
+
+**Information — former Commissioner**
+
+**15** The former Commissioner must transfer to the new Agency all information under his or her control, including information that relates to a complaint before that former Commissioner, or to any review or investigation that is being undertaken by that former Commissioner, immediately before the day on which section 2 comes into force.
+
+
+
+######           — 2019, c. 13, s. 16
+
+
+**Complaints — former Commissioner**
+
+**16** The new Agency becomes seized of any complaint made to the former Commissioner before the day on which section 2 comes into force and that complaint is deemed to have been made to the new Agency.
+
+
+
+######           — 2019, c. 13, s. 17
+
+
+**Commencement of proceedings**
+
+**17** 
+
+- **(1)** Any action, suit or other legal or administrative proceeding, relating to a review or an investigation, that could have been brought against the former Commissioner may be brought against the new Agency in any court that would have had jurisdiction if the action, suit or proceeding had been brought against the former Commissioner.
+
+**Pending proceedings**
+
+- **(2)** Any action, suit or other legal or administrative proceeding to which the former Commissioner is a party that relates to a review or an investigation and that is pending immediately before the day on which section 2 comes into force may be continued by or against the new Agency in the same manner and to the same extent as it could have been continued by or against the former Commissioner.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 13, s. 48
+
+
+**
+> Part 3 of this Act
+**
+
+**48** On the first day on which both sections 2 and 76 of this Act are in force, subsection 17(2) of the National Security and Intelligence Review Agency Act is replaced by the following:
+
+**Other redress available**
+
+- **(2)** The Review Agency must not investigate a complaint in respect of which the complainant is entitled to seek redress by means of a grievance procedure established under the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md) or the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+
+
+
+######           — 2019, c. 13, s. 82
+
+
+**References**
+
+**82** 
+
+- **(1)** A reference to the former department in any of the following is deemed to be a reference to the new department:
+	- **(a)** Schedule I to the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) under the heading “Other Government Institutions”;
+	- **(b)** Schedules I.1, V and VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+	- **(c)** the schedule to the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) under the heading “Other Government Institutions”;
+	- **(d)** the schedule to the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md);
+	- **(e)** Schedule 3 to the [Security of Canada Information Disclosure Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md);
+	- **(f)** the National Security and Intelligence Review Agency Act; and
+	- **(g)** the [Intelligence Commissioner Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2050.md).
+
+**Other references**
+
+- **(1.1)** Unless the context requires otherwise, every reference to the former department in any Act of Parliament, other than an Act referred to in subsection (1), or in any order, regulation or other instrument made under an Act of Parliament is deemed to be a reference to the new department.
+
+**Deputy head**
+
+- **(2)** The designation of a person as deputy head of the former department in any order of the Governor in Council made under section 55 of the National Security and Intelligence Review Agency Act is deemed to be a designation of the Chief of the new department as deputy head of that department.
+
 
 
