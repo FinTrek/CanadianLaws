@@ -36,7 +36,7 @@ que les institutions fédérales sont garantes d’une communication d’informa
 qu’un pouvoir explicite facilitera la communication d’information responsable et efficace, de façon à protéger la sécurité du Canada,
 
 
-> 2015, ch. 20, art. 2 « préambule »; 2019, ch. 13, art. 113.
+> 2015, ch. 20, art. 2 « préambule »2019, ch. 13, art. 113
 
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
@@ -53,7 +53,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titre abrégé**
 
 **1** Loi sur la communication d’information ayant trait à la sécurité du Canada.
-> 2015, ch. 20, art. 2 « 1 »; 2019, ch. 13, art. 114(A).
+> 2015, ch. 20, art. 2 « 1 »2019, ch. 13, art. 114(A)
 
 
 
@@ -89,7 +89,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** Pour l’application de la présente loi, sauf si elles ont un lien avec une activité portant atteinte à la sécurité du Canada, les activités de défense d’une cause, de protestation, de manifestation d’un désaccord ou d’expression artistique ne sont pas des activités portant atteinte à la sécurité du Canada.
-> 2015, ch. 20, art. 2 « 2 »; 2019, ch. 13, art. 115.
+> 2015, ch. 20, art. 2 « 2 »2019, ch. 13, art. 115
 
 
 
@@ -102,7 +102,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Objet**
 
 **3** La présente loi a pour objet d’encourager les institutions fédérales à communiquer entre elles de l’information et de faciliter une telle communication, afin de protéger le Canada contre des activités portant atteinte à la sécurité du Canada.
-> 2015, ch. 20, art. 2 « 3 »; 2019, ch. 13, art. 116(A).
+> 2015, ch. 20, art. 2 « 3 »2019, ch. 13, art. 116(A)
 
 
 
@@ -116,7 +116,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** la conclusion d’une entente de communication d’information convient lorsqu’une institution fédérale communique régulièrement de l’information à la même institution fédérale;
 - **d)** la fourniture de rétroaction sur la façon dont l’information qui est communiquée est utilisée et sur son utilité en matière de protection contre des activités portant atteinte à la sécurité du Canada facilite une communication d’information responsable et efficace;
 - **e)** seuls ceux qui, au sein d’une institution, exercent la compétence ou les attributions de celle-ci à l’égard d’activités portant atteinte à la sécurité du Canada devraient recevoir l’information communiquée en vertu de la présente loi.
-> 2015, ch. 20, art. 2 « 4 »; 2019, ch. 13, art. 117.
+> 2015, ch. 20, art. 2 « 4 »2019, ch. 13, art. 117
 
 
 
@@ -137,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Déclaration concernant l’exactitude et la fiabilité**
 
 - **(2)** L’institution qui communique de l’information en vertu du paragraphe (1) doit également fournir, au moment de la communication, des renseignements sur l’exactitude de l’information et la fiabilité quant à la façon dont celle-ci a été obtenue.
-> 2015, ch. 20, art. 2 « 5 »; 2019, ch. 13, art. 118.
+> 2015, ch. 20, art. 2 « 5 »2019, ch. 13, art. 118
 
 
 
@@ -156,7 +156,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md)**
 
 - **(3)** Le paragraphe (1) ne s’applique pas au Service canadien du renseignement de sécurité à l’égard de ceux de ces renseignements qui se rapportent à l’exercice de ses fonctions aux termes de l’article 12 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md).
-> 2019, ch. 13, art. 118.
+> 2019, ch. 13, art. 118
 
 
 
@@ -165,7 +165,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 **6** Les articles 5 et 5.1 n’ont pas pour effet d’autoriser la collecte ou l’utilisation de l’information communiquée au titre de l’article 5.
-> 2015, ch. 20, art. 2 « 6 »; 2019, ch. 13, art. 118.
+> 2015, ch. 20, art. 2 « 6 »2019, ch. 13, art. 118
 
 
 
@@ -183,7 +183,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 **7.1** Il est entendu que, pour l’application de l’alinéa 8(2)b) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le pouvoir de communiquer de l’information au titre de la présente loi comprend celui de communiquer des renseignements personnels, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
-> 2019, ch. 13, art. 118.1.
+> 2019, ch. 13, art. 118.1
 
 
 
@@ -223,7 +223,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f)** si l’information a été détruite au titre du paragraphe 5.1(1), la date de la destruction;
 	- **g)** si l’information a été remise au titre du paragraphe 5.1(1) à l’institution fédérale qui l’a communiquée, la date de la remise;
 	- **h)** tout autre renseignement précisé par règlement.
-> 2015, ch. 20, art. 2 « 9 »; 2019, ch. 13, art. 119.
+> 2015, ch. 20, art. 2 « 9 »2019, ch. 13, art. 119
 
 
 
@@ -249,7 +249,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modification de l’annexe 3**
 
 - **(3)** Le gouverneur en conseil peut, par décret, ajouter le nom d’une institution fédérale et le titre de son responsable à l’annexe 3, supprimer de cette annexe le nom d’une institution et le titre de son responsable ou modifier le nom d’une institution ou le titre d’un responsable qui figure à cette annexe. Il ne peut y avoir ajout que si l’institution est compétente ou a des attributions au titre d’une loi fédérale ou d’une autre autorité légitime à l’égard d’activités portant atteinte à la sécurité du Canada, notamment en ce qui touche la détection, l’identification, l’analyse, la prévention ou la perturbation de ces activités ou une enquête sur celles-ci.
-> 2015, ch. 20, art. 2 « 10 »; 2019, ch. 13, art. 120.
+> 2015, ch. 20, art. 2 « 10 »2019, ch. 13, art. 120
 
 
 
@@ -264,8 +264,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### **ANNEXE 2** 
 **(article 2 et paragraphe 10(2))**
 ## Institutions supplémentaires
+> 2015, ch. 20, art. 2 « ann. 2 »2019, ch. 13, art. 73
 
-Bureau du commissaire du Centre de la sécurité des télécommunications <br />- <i>Office of the Communications Security Establishment Commissioner </i>
 
 
 
@@ -385,6 +385,46 @@ Service canadien du renseignement de sécurité<br />- <i>Canadian Security Inte
 </tr>
 </table>
 
-> 2015, ch. 20, art. 2 « ann. 3 » et 9.
+> 2015, ch. 20, art. 2 « ann. 3 » et 9
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 13, art. 82
+
+
+**Mentions**
+
+**82** 
+
+- **(1)** La mention de l’ancien ministère dans les textes ci-après vaut mention du nouveau ministère :
+	- **a)** l’annexe I de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), sous l’intertitre « Autres institutions fédérales »;
+	- **b)** les annexes I.1, V et VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **c)** l’annexe de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), sous l’intertitre « Autres institutions fédérales »;
+	- **d)** l’annexe de la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md);
+	- **e)** l’annexe 3 de la Loi sur la communication d’information ayant trait à la sécurité du Canada;
+	- **f)** la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md);
+	- **g)** la [Loi sur le commissaire au renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2050.md).
+
+**Autres mentions**
+
+- **(1.1)** La mention de l’ancien ministère dans toute loi fédérale, autre qu’une loi visée au paragraphe (1), et dans ses textes d’application vaut mention, sauf indication contraire du contexte, du nouveau ministère.
+
+**Administrateur général**
+
+- **(2)** La désignation de toute personne à titre d’administrateur général de l’ancien ministère dans tout décret pris en vertu de l’article 55 de la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md) vaut désignation du chef du nouveau ministère à titre d’administrateur général de celui-ci.
+
+
+
+######           — 2019, ch. 13, art. 89
+
+**89** L’alinéa g) de la définition de ***activité portant atteinte à la sécurité du Canada*** au paragraphe 2(1) de la Loi sur la communication d’information ayant trait à la sécurité du Canada est remplacé par ce qui suit :
+
+- **g)** entraver de manière considérable ou à grande échelle le fonctionnement de l’infrastructure mondiale de l’information, au sens de l’article 2 de la [Loi sur le Centre de la sécurité des télécommunications](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2076.md);
+
+
+
 
 
