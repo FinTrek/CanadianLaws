@@ -25,7 +25,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Short title**
 
 **1** This Act may be cited as the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.
-> 2000, c. 17, s. 1; 2001, c. 41, s. 48.
+> 2000, c. 17, s. 1; 2001, c. 41, s. 48
 
 
 
@@ -94,7 +94,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** identifying information, for the purposes of subsection 54.1(3);
 	- **(e)** virtual currency; and
 	- **(f)** dealing in virtual currencies.
-> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1; 2010, c. 12, s. 1862; 2014, c. 20, s. 254; 2017, c. 20, s. 407; 2019, c. 29, s. 104.
+> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1; 2010, c. 12, s. 1862; 2014, c. 20, s. 254; 2017, c. 20, s. 4072019, c. 29, s. 104
 
 
 
@@ -114,7 +114,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** to respond to the threat posed by organized crime by providing law enforcement officials with the information they need to deprive criminals of the proceeds of their criminal activities, while ensuring that appropriate safeguards are put in place to protect the privacy of persons with respect to personal information about themselves;
 - **(c)** to assist in fulfilling Canada’s international commitments to participate in the fight against transnational crime, particularly money laundering, and the fight against terrorist activity; and
 - **(d)** to enhance Canada’s capacity to take targeted measures to protect its financial system and to facilitate Canada’s efforts to mitigate the risk that its financial system could be used as a vehicle for money laundering and the financing of terrorist activities.
-> 2000, c. 17, s. 3; 2001, c. 41, s. 50; 2010, c. 12, s. 1863; 2014, c. 20, s. 255.
+> 2000, c. 17, s. 3; 2001, c. 41, s. 50; 2010, c. 12, s. 1863; 2014, c. 20, s. 255
 
 
 
@@ -161,7 +161,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(k.3)** the board of a fair or of an exhibition, or the operator of a concession leased by such a board, that, in accordance with paragraph 207(1)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games;
 - **(l)** departments and agents or mandataries of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that issue or sell money orders to, or redeem them from, the public or that sell prescribed precious metals, while carrying out a prescribed activity; and
 - **(m)** for the purposes of section 7, employees of a person or entity referred to in any of paragraphs (a) to (l).
-> 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3; 2014, c. 20, s. 256; 2017, c. 20, s. 408; 2018, c. 29, s. 78.
+> 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3; 2014, c. 20, s. 256; 2017, c. 20, s. 408; 2018, c. 29, s. 78
 
 
 
@@ -174,7 +174,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Record keeping**
 
 **6** Every person or entity referred to in section 5 shall keep records in accordance with the regulations.
-> 2000, c. 17, s. 6; 2006, c. 12, s. 4; 2017, c. 20, s. 409.
+> 2000, c. 17, s. 6; 2006, c. 12, s. 4; 2017, c. 20, s. 409
 
 
 
@@ -183,7 +183,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Verifying identity**
 
 **6.1** Every person or entity referred to in section 5 shall verify the identity of a person or entity in accordance with the regulations.
-> 2006, c. 12, s. 4; 2017, c. 20, s. 409.
+> 2006, c. 12, s. 4; 2017, c. 20, s. 409
 
 
 
@@ -198,7 +198,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **7** Subject to section 10.1, every person or entity referred to in section 5 shall, in accordance with the regulations, report to the Centre every financial transaction that occurs or that is attempted in the course of their activities and in respect of which there are reasonable grounds to suspect that
 - **(a)** the transaction is related to the commission or the attempted commission of a money laundering offence; or
 - **(b)** the transaction is related to the commission or the attempted commission of a terrorist activity financing offence.
-> 2000, c. 17, s. 7; 2001, c. 41, s. 52; 2006, c. 12, s. 5; 2017, c. 20, s. 410.
+> 2000, c. 17, s. 7; 2001, c. 41, s. 52; 2006, c. 12, s. 5; 2017, c. 20, s. 410
 
 
 
@@ -213,7 +213,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitation**
 
 - **(2)** Subsection (1) does not apply to prescribed persons or entities, or prescribed classes of persons or entities, in respect of prescribed transactions or property, or classes of transactions or property, if the prescribed conditions are met.
-> 2001, c. 41, s. 52; 2006, c. 12, s. 6; 2017, c. 20, s. 411.
+> 2001, c. 41, s. 52; 2006, c. 12, s. 6; 2017, c. 20, s. 411
 
 
 
@@ -222,7 +222,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No disclosure of reports**
 
 **8** No person or entity shall disclose that they have made, are making or will make a report under section 7, or disclose the contents of such a report, with the intent to prejudice a criminal investigation, whether or not a criminal investigation has begun.
-> 2000, c. 17, s. 8; 2017, c. 20, s. 412.
+> 2000, c. 17, s. 8; 2017, c. 20, s. 412
 
 
 
@@ -243,7 +243,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **List of persons**
 
 - **(3)** Every person or entity referred to in section 5 shall establish and maintain a list, in the prescribed form and manner, of their clients in respect of whom a report would have been required under subsection (1) were it not for subsection (2). However, a person or an entity may choose to report a client’s transactions under subsection (1) instead of maintaining the list in respect of that client.
-> 2000, c. 17, s. 9; 2006, c. 12, s. 7; 2010, c. 12, s. 1864; 2017, c. 20, s. 413.
+> 2000, c. 17, s. 9; 2006, c. 12, s. 7; 2010, c. 12, s. 1864; 2017, c. 20, s. 413
 
 
 
@@ -252,7 +252,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Reports under other Acts**
 
 **9.1** Subject to section 9, every person or entity that is required to make a report to the Centre under another Act of Parliament or any regulations under it shall make the report in the form and manner and within the period prescribed under this Act for a report under that Act.
-> 2001, c. 41, s. 53; 2017, c. 20, s. 414.
+> 2001, c. 41, s. 53; 2017, c. 20, s. 414
 
 
 
@@ -261,7 +261,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Inability to verify identity**
 
 **9.2** No person or entity that is referred to in section 5 shall open an account for a client if the person or entity cannot verify the identity of the client in accordance with the regulations.
-> 2006, c. 12, s. 8; 2017, c. 20, s. 414.
+> 2006, c. 12, s. 8; 2017, c. 20, s. 414
 
 
 
@@ -314,7 +314,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(h)** judge of a supreme court, constitutional court or other court of last resort;
 - **(i)** leader or president of a political party represented in a legislature; or
 - **(j)** holder of any prescribed office or position. (*étranger politiquement vulnérable*)
-> 2006, c. 12, s. 8; 2014, c. 20, s. 258; 2017, c. 20, s. 439; 2019, c. 29, s. 105.
+> 2006, c. 12, s. 8; 2014, c. 20, s. 258; 2017, c. 20, s. 4392019, c. 29, s. 105
 
 
 
@@ -329,7 +329,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of correspondent banking relationship**
 
 - **(2)** For the purposes of this section, ***correspondent banking relationship*** means a relationship created by an agreement or arrangement under which an entity referred to in paragraph 5(a), (b), (d) or (e) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a person or entity referred to in paragraph 5(h.1) services such as international electronic funds transfers, cash management, cheque clearing and any prescribed services.
-> 2014, c. 20, s. 258.
+> 2014, c. 20, s. 258
 
 
 
@@ -353,7 +353,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of correspondent banking relationship**
 
 - **(3)** For the purposes of this section, ***correspondent banking relationship*** means a relationship created by an agreement or arrangement under which an entity referred to in any of paragraphs 5(a), (b), (d) and (e) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a prescribed foreign entity services such as international electronic funds transfers, cash management, cheque clearing and any prescribed services.
-> 2006, c. 12, s. 8; 2014, c. 20, s. 259; 2017, c. 20, s. 415.
+> 2006, c. 12, s. 8; 2014, c. 20, s. 259; 2017, c. 20, s. 415
 
 
 
@@ -365,7 +365,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** include with the transfer the name, address and account number or other reference number, if any, of the person or entity that requested it, and any prescribed information;
 - **(b)** take reasonable measures to ensure that any transfer that the person or entity receives includes that information; and
 - **(c)** take any prescribed measures.
-> 2006, c. 12, s. 8; 2019, c. 29, s. 106.
+> 2006, c. 12, s. 82019, c. 29, s. 106
 
 
 
@@ -384,7 +384,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Special measures**
 
 - **(3)** If, at any time, the person or entity considers that the risk referred to in subsection (2) is high, or in the prescribed circumstances, the person or entity shall take the special measures referred to in the regulations.
-> 2006, c. 12, s. 8; 2010, c. 12, s. 1865; 2017, c. 20, s. 416.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1865; 2017, c. 20, s. 416
 
 
 
@@ -409,7 +409,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Records and reporting**
 
 - **(4)** If the application by a foreign branch or a foreign subsidiary of a policy referred to in subsection (1) is not permitted by or would conflict with the laws of the foreign state in which the branch or subsidiary is located, the entity shall keep, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
-> 2006, c. 12, s. 8; 2010, c. 12, s. 1866; 2014, c. 20, s. 260; 2017, c. 20, s. 418.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1866; 2014, c. 20, s. 260; 2017, c. 20, s. 418
 
 
 
@@ -424,7 +424,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Affiliation**
 
 - **(2)** For the purposes of subsection (1), an entity is affiliated with another entity if one of them is wholly owned by the other, if both are wholly owned by the same entity or if their financial statements are consolidated.
-> 2006, c. 12, s. 8; 2010, c. 12, s. 1866; 2014, c. 20, s. 260.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1866; 2014, c. 20, s. 260
 
 
 
@@ -433,7 +433,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Immunity**
 
 **10** No criminal or civil proceedings lie against a person or an entity for making a report in good faith under section 7, 7.1 or 9, or for providing the Centre with information about suspicions of money laundering or of the financing of terrorist activities.
-> 2000, c. 17, s. 10; 2001, c. 41, s. 53.
+> 2000, c. 17, s. 10; 2001, c. 41, s. 53
 
 
 
@@ -442,7 +442,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Non-application to legal counsel**
 
 **10.1** Sections 7 and 9 do not apply to persons or entities referred to in paragraph 5(i) or (j) who are, as the case may be, legal counsel or legal firms, when they are providing legal services.
-> 2006, c. 12, s. 9; 2010, c. 12, s. 1867(F).
+> 2006, c. 12, s. 9; 2010, c. 12, s. 1867(F)
 
 
 
@@ -451,7 +451,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Solicitor-client privilege or professional secrecy**
 
 **11** Nothing in this Act requires a legal counsel to disclose any communication that is subject to solicitor-client privilege or, in Quebec, the professional secrecy of legal counsel.
-> 2000, c. 17, s. 11; 2010, c. 12, s. 1868(E); 2013, c. 40, ss. 279, 281(E).
+> 2000, c. 17, s. 11; 2010, c. 12, s. 1868(E); 2013, c. 40, ss. 279, 281(E)
 
 
 
@@ -468,7 +468,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Registration requirement**
 
 **11.1** Except as otherwise prescribed by regulation, every person or entity referred to in paragraph 5(h), those referred to in paragraph 5(l) that issue or sell money orders to, or redeem them from, the public, and every other person or entity that is referred to in section 5 and that is prescribed must be registered with the Centre in accordance with this section and sections 11.11 to 11.2.
-> 2006, c. 12, s. 10; 2017, c. 20, s. 419.
+> 2006, c. 12, s. 10; 2017, c. 20, s. 419
 
 
 
@@ -500,7 +500,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Revocation of registration**
 
 - **(2)** If the Centre becomes aware that a person or entity referred to in subsection (1) is registered, the Centre shall revoke the registration and shall, without delay, inform the person or entity of the revocation.
-> 2006, c. 12, s. 11; 2014, c. 20, s. 262; 2017, c. 20, s. 420; 2018, c. 16, s. 183.
+> 2006, c. 12, s. 11; 2014, c. 20, s. 262; 2017, c. 20, s. 420; 2018, c. 16, s. 183
 
 
 
@@ -515,7 +515,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Agents, mandataries and branches**
 
 - **(2)** Any agent, mandatary or branch included on the list is not required to register with the Centre when they are acting in that capacity.
-> 2006, c. 12, s. 11; 2017, c. 20, s. 421.
+> 2006, c. 12, s. 11; 2017, c. 20, s. 421
 
 
 
@@ -524,7 +524,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Changes to information**
 
 **11.13** An applicant or a person or entity registered with the Centre shall notify the Centre, in the prescribed form and manner, of any change to the information provided in the application or of any newly obtained information that should have been included in the application within 30 days after the day on which the applicant or the registered person or entity becomes aware of the change or obtains the new information.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -539,7 +539,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Denial of application**
 
 - **(2)** If the applicant does not provide the Centre with the clarifications within the 30 days, the Centre may deny the application and shall, without delay, inform the applicant of the denial.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -548,7 +548,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Notice of registration**
 
 **11.15** The applicant is registered with the Centre once the Centre adds the applicant to the registry referred to in subsection 54.1(1). The Centre shall, without delay, send the applicant notice of their registration.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -557,7 +557,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Denial of application**
 
 **11.16** The Centre shall deny the application of any person or entity referred to in subsection 11.11(1) and shall, without delay, inform the applicant of the denial.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -572,7 +572,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Revocation of registration**
 
 - **(2)** If the registered person or entity does not provide the Centre with the clarifications within the 30 days, the Centre may revoke the registration and shall, without delay, inform the person or entity of the revocation.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -581,7 +581,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Written reasons**
 
 **11.18** Any decision to deny an application or revoke a registration must be in writing with reasons.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -590,7 +590,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Renewal of registration**
 
 **11.19** A registered person or entity shall renew their registration in the prescribed form and manner every two years or within any longer prescribed period.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -599,7 +599,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Cessation of activity**
 
 **11.2** When a registered person or entity ceases an activity for which they are registered, they shall notify the Centre in the prescribed form and manner within 30 days after the day on which they cease the activity.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -622,7 +622,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Decision of Director**
 
 - **(3)** The Director may either confirm the decision or substitute his or her own decision, and shall, without delay, serve notice of the decision with reasons on the person or entity, together with notice of the right of appeal under subsection 11.4(1).
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -645,7 +645,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Precautions against disclosure**
 
 - **(3)** In an appeal, the Court shall take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person or entity of information referred to in subsection 55(1).
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11
 
 
 
@@ -663,7 +663,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of foreign entity**
 
 **11.41** In this Part, ***foreign entity*** means an entity, other than an entity referred to in section 5, that is incorporated or formed by or under the laws of a foreign state, including its subsidiaries, if any, and that does not carry on business in Canada, if it carries out activities similar to those of entities referred to in any of paragraphs 5(a) to (g) or activities referred to in paragraph 5(h) or (h.1).
-> 2010, c. 12, s. 1869; 2014, c. 20, s. 267; 2017, c. 20, s. 422.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 267; 2017, c. 20, s. 422
 
 
 
@@ -706,7 +706,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Terms and conditions**
 
 - **(5)** The Minister may impose any terms and conditions in the directive that the Minister considers appropriate.
-> 2010, c. 12, s. 1869; 2014, c. 20, s. 268; 2017, c. 20, s. 423.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 268; 2017, c. 20, s. 423
 
 
 
@@ -715,7 +715,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Duty to comply**
 
 **11.43** The person or entity to which a directive under this Part applies shall comply with it within the time and in the manner specified in the directive.
-> 2010, c. 12, s. 1869.
+> 2010, c. 12, s. 1869
 
 
 
@@ -730,7 +730,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Records and reporting**
 
 - **(2)** If compliance with a directive by a branch or a subsidiary is not permitted by or would conflict with the laws of the foreign state in which the branch or subsidiary is located, the entity shall keep, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict, and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
-> 2010, c. 12, s. 1869; 2014, c. 20, s. 269; 2017, c. 20, s. 424.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 269; 2017, c. 20, s. 424
 
 
 
@@ -743,7 +743,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Inconsistency**
 
 **11.46** In the event of any inconsistency or conflict between a directive issued under this Part and a regulation made under this Act, the directive prevails to the extent of the inconsistency or conflict.
-> 2010, c. 12, s. 1869.
+> 2010, c. 12, s. 1869
 
 
 
@@ -751,8 +751,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-**11.47** A directive issued under this Part is not a statutory instrument within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it must be published in the Canada Gazette.
-> 2010, c. 12, s. 1869.
+**11.47** A directive issued under this Part is not a statutory instrument within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it must be published in the [Canada Gazette](http://www.gazette.gc.ca/).
+> 2010, c. 12, s. 1869
 
 
 
@@ -767,7 +767,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Relevant circumstance**
 
 - **(2)** In reviewing a directive, the Minister may take into account any circumstance that the Minister considers relevant.
-> 2010, c. 12, s. 1869.
+> 2010, c. 12, s. 1869
 
 
 
@@ -797,7 +797,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(i)** an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state or foreign entity on the ground that the state’s or entity’s anti-money laundering or anti-terrorist financing measures are ineffective or insufficient, and
 		- **(ii)** there is a risk that money laundering activities or terrorist financing activities may be carried out in that foreign state or by means of that foreign entity; or
 	- **(b)** if the anti-money laundering or anti-terrorist financing measures that a foreign state or a foreign entity has implemented are ineffective or insufficient, the risk of money laundering activities or terrorist financing activities being carried out in that foreign state or by means of that foreign entity is significant and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
-> 2010, c. 12, s. 1869.
+> 2010, c. 12, s. 1869
 
 
 
@@ -812,7 +812,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Relevant circumstances**
 
 - **(2)** In reviewing a regulation, the Minister may take into account any circumstance that the Minister considers relevant.
-> 2010, c. 12, s. 1869.
+> 2010, c. 12, s. 1869
 
 
 
@@ -821,7 +821,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Foreign branches**
 
 **11.6** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that its foreign branches comply with any regulation made under subsection 11.49(1) to the extent it is permitted by, and does not conflict with, the laws of the foreign state in which the branch is located.
-> 2010, c. 12, s. 1869; 2014, c. 20, s. 270; 2017, c. 20, s. 426.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 270; 2017, c. 20, s. 426
 
 
 
@@ -840,7 +840,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Amendment, etc.**
 
 - **(3)** The Minister may amend, suspend, revoke or reinstate a permit.
-> 2010, c. 12, s. 1869.
+> 2010, c. 12, s. 1869
 
 
 
@@ -858,7 +858,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of officer**
 
 **11.8** In this Part, ***officer*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
-> 2014, c. 20, s. 271.
+> 2014, c. 20, s. 271
 
 
 
@@ -896,7 +896,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Sending reports to Centre**
 
 - **(5)** The Canada Border Services Agency shall send the reports they receive under subsection (1) to the Centre. It shall also create an electronic version of the information contained in each report, in the format specified by the Centre, and send it to the Centre by the electronic means specified by the Centre.
-> 2000, c. 17, s. 12; 2001, c. 41, s. 54; 2006, c. 12, s. 12(F); 2014, c. 20, s. 272.
+> 2000, c. 17, s. 12; 2001, c. 41, s. 54; 2006, c. 12, s. 12(F); 2014, c. 20, s. 272
 
 
 
@@ -934,7 +934,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Forfeiture and report to Centre**
 
 - **(5)** Currency or monetary instruments that are retained by an officer under subsection (1) are forfeited to Her Majesty in right of Canada at the end of the period referred to in that subsection, and the officer shall send any incomplete report in respect of the forfeited currency or monetary instruments made under subsection 12(1) to the Centre.
-> 2000, c. 17, s. 14; 2018, c. 27, s. 175.
+> 2000, c. 17, s. 14; 2018, c. 27, s. 175
 
 
 
@@ -965,7 +965,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Search by same sex**
 
 - **(4)** No person shall be searched under this section by a person who is not of the same sex, and if there is no officer of the same sex at the place where the search is to take place, an officer may authorize any suitable person of the same sex to perform the search.
-> 2000, c. 17, s. 15; 2001, c. 41, s. 55.
+> 2000, c. 17, s. 15; 2001, c. 41, s. 55
 
 
 
@@ -980,7 +980,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Search of baggage**
 
 - **(2)** An officer may, in order to determine whether there are, in baggage, currency or monetary instruments that are of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, search the baggage, examine anything in it and open or cause to be opened any package or container in it and direct that the baggage be moved to a customs office or other suitable place for the search, examination or opening.
-> 2000, c. 17, s. 16; 2001, c. 41, s. 56; 2006, c. 12, s. 13.
+> 2000, c. 17, s. 16; 2001, c. 41, s. 56; 2006, c. 12, s. 13
 
 
 
@@ -993,7 +993,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 - **(1)** An officer may examine any mail that is being imported or exported and open or cause to be opened any such mail that the officer suspects on reasonable grounds contains currency or monetary instruments of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1).
 
 - **(2) and (3)** [Repealed, 2017, c. 7, s. 53]
-> 2000, c. 17, s. 17; 2001, c. 41, s. 57; 2017, c. 7, s. 53.
+> 2000, c. 17, s. 17; 2001, c. 41, s. 57; 2017, c. 7, s. 53
 
 
 
@@ -1023,7 +1023,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Service of notice**
 
 - **(4)** The service of a notice under paragraph (3)(b) is sufficient if it is sent by registered mail addressed to the exporter.
-> 2000, c. 17, s. 18; 2001, c. 32, s. 71, c. 41, ss. 58, 134.
+> 2000, c. 17, s. 18; 2001, c. 32, s. 71, c. 41, ss. 58, 134
 
 
 
@@ -1046,7 +1046,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Report to President and the Centre**
 
 **20** If the currency or monetary instruments have been seized under section 18, the officer who seized them shall without delay report the circumstances of the seizure to the President and to the Centre.
-> 2000, c. 17, s. 20; 2005, c. 38, s. 127.
+> 2000, c. 17, s. 20; 2005, c. 38, s. 127
 
 
 
@@ -1077,7 +1077,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Non-mailable matter**
 
 - **(5)** Any non-mailable matter found by an officer in mail made available to the officer under this section shall be dealt with in accordance with the regulations made under the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md).
-> 2000, c. 17, s. 21; 2001, c. 41, s. 59.
+> 2000, c. 17, s. 21; 2001, c. 41, s. 59
 
 
 
@@ -1096,7 +1096,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **When seizure or payment of a penalty**
 
 - **(2)** An officer who seizes currency or monetary instruments or is paid a penalty under subsection 18(2) shall send the currency or monetary instruments or the penalty, as the case may be, to the Minister of Public Works and Government Services.
-> 2000, c. 17, s. 22; 2001, c. 41, s. 60.
+> 2000, c. 17, s. 22; 2001, c. 41, s. 60
 
 
 
@@ -1120,7 +1120,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Review of forfeiture**
 
 **24** The forfeiture of currency or monetary instruments seized under this Part is final and is not subject to review or to be set aside or otherwise dealt with except to the extent and in the manner provided by sections 24.1 and 25.
-> 2000, c. 17, s. 24; 2006, c. 12, s. 14.
+> 2000, c. 17, s. 24; 2006, c. 12, s. 14
 
 
 
@@ -1137,7 +1137,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Interest**
 
 - **(2)** If an amount is refunded to a person or entity under paragraph (1)(a), the person or entity shall be given interest on that amount at the prescribed rate for the period beginning on the day after the day on which the amount was paid by that person or entity and ending on the day on which it was refunded.
-> 2006, c. 12, s. 14; 2014, c. 20, s. 273.
+> 2006, c. 12, s. 14; 2014, c. 20, s. 273
 
 
 
@@ -1146,7 +1146,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Request for Minister’s decision**
 
 **25** A person from whom currency or monetary instruments were seized under section 18, or the lawful owner of the currency or monetary instruments, may, within 90 days after the date of the seizure, request a decision of the Minister as to whether subsection 12(1) was contravened, by giving notice to the Minister in writing or by any other means satisfactory to the Minister.
-> 2000, c. 17, s. 25; 2001, c. 41, s. 61; 2014, c. 20, s. 274.
+> 2000, c. 17, s. 25; 2001, c. 41, s. 61; 2014, c. 20, s. 274
 
 
 
@@ -1178,7 +1178,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 		- **(i)** within the period provided in section 25, they were unable to act or to instruct another person to act in their name or had a *bona fide* intention to request a decision,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2014, c. 20, s. 274.
+> 2014, c. 20, s. 274
 
 
 
@@ -1208,7 +1208,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 		- **(i)** within the period provided in section 25, they were unable to act or to instruct another person to act in their name or had a *bona fide* intention to request a decision,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2014, c. 20, s. 274.
+> 2014, c. 20, s. 274
 
 
 
@@ -1223,7 +1223,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Evidence**
 
 - **(2)** The person on whom a notice is served under subsection (1) may, within 30 days after the notice is served, furnish any evidence in the matter that they desire to furnish.
-> 2000, c. 17, s. 26; 2005, c. 38, s. 127.
+> 2000, c. 17, s. 26; 2005, c. 38, s. 127
 
 
 
@@ -1242,7 +1242,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Notice of decision**
 
 - **(3)** The Minister shall, without delay after making a decision, serve on the person who requested it a written notice of the decision together with the reasons for it.
-> 2000, c. 17, s. 27; 2001, c. 41, s. 62.
+> 2000, c. 17, s. 27; 2001, c. 41, s. 62
 
 
 
@@ -1268,7 +1268,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Limit on amount paid**
 
 - **(2)** The total amount paid under paragraph (1)(a) shall, if the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 29; 2006, c. 12, s. 15; 2019, c. 29, s. 124(F).
+> 2000, c. 17, s. 29; 2006, c. 12, s. 152019, c. 29, s. 124(F)
 
 
 
@@ -1291,7 +1291,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Limit on amount paid**
 
 - **(4)** If the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), the total amount that can be paid under subsection (3) shall not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161; 2006, c. 12, s. 16; 2017, c. 20, s. 427; 2019, c. 29, s. 125(F).
+> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161; 2006, c. 12, s. 16; 2017, c. 20, s. 4272019, c. 29, s. 125(F)
 
 
 
@@ -1300,7 +1300,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Service of notices**
 
 **31** The service of the President’s notice under section 26 or the notice of the Minister’s decision under section 27 is sufficient if it is sent by registered mail addressed to the person on whom it is to be served at their latest known address.
-> 2000, c. 17, s. 31; 2005, c. 38, s. 127.
+> 2000, c. 17, s. 31; 2005, c. 38, s. 127
 
 
 
@@ -1337,7 +1337,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 	- **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench;
 	- **(e)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court; and
 	- **(f)** in Nunavut, the Nunavut Court of Justice.
-> 2000, c. 17, s. 32; 2001, c. 41, s. 63; 2005, c. 38, s. 127; 2006, c. 12, s. 17; 2015, c. 3, s. 148.
+> 2000, c. 17, s. 32; 2001, c. 41, s. 63; 2005, c. 38, s. 127; 2006, c. 12, s. 17; 2015, c. 3, s. 148
 
 
 
@@ -1350,7 +1350,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 - **(b)** that the applicant is innocent of any complicity in the contravention of subsection 12(1) that resulted in the seizure and of any collusion in relation to that contravention, and
 - **(c)** that the applicant exercised all reasonable care to ensure that any person permitted to obtain possession of the currency or monetary instruments seized would report them in accordance with subsection 12(1),
 the applicant is entitled to an order declaring that their interest or right is not affected by the seizure and declaring the nature and extent of their interest or right at the time of the contravention.
-> 2000, c. 17, s. 33; 2006, c. 12, s. 18.
+> 2000, c. 17, s. 33; 2006, c. 12, s. 18
 
 
 
@@ -1365,7 +1365,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Definition of court of appeal**
 
 - **(2)** In this section, ***court of appeal*** means, in the province in which an order referred to in subsection (1) is made, the court of appeal for that province as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2000, c. 17, s. 34; 2006, c. 12, s. 19(E).
+> 2000, c. 17, s. 34; 2006, c. 12, s. 19(E)
 
 
 
@@ -1382,7 +1382,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Limit on amount paid**
 
 - **(2)** The total amount paid under paragraph (1)(b) shall, if the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 35; 2005, c. 38, s. 127; 2006, c. 12, s. 20; 2019, c. 29, s. 126(F).
+> 2000, c. 17, s. 35; 2005, c. 38, s. 127; 2006, c. 12, s. 202019, c. 29, s. 126(F)
 
 
 
@@ -1436,7 +1436,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Definition of official**
 
 - **(6)** In this section and section 37, ***official*** means a person who obtained or who has or had access to information referred to in subsection (1) in the course of exercising powers or performing duties and functions under this Part.
-> 2000, c. 17, s. 36; 2001, c. 41, s. 64; 2006, c. 12, s. 22; 2014, c. 20, s. 275.
+> 2000, c. 17, s. 36; 2001, c. 41, s. 64; 2006, c. 12, s. 22; 2014, c. 20, s. 275
 
 
 
@@ -1468,7 +1468,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Information received by the Centre**
 
 - **(3)** The information received under an agreement or arrangement referred to in subsection (1) shall be sent to the Centre and, for the purposes of any provision of this Act dealing with the confidentiality of information or the collection or use of information by the Centre, is deemed to be information set out in a report made under section 12.
-> 2000, c. 17, s. 38; 2005, c. 38, ss. 125, 139.
+> 2000, c. 17, s. 38; 2005, c. 38, ss. 125, 139
 
 
 
@@ -1477,7 +1477,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Agreements with foreign states**
 
 **38.1** The Minister, with the consent of the Minister designated for the purpose of section 42, may enter into an agreement or arrangement in writing with the government of a foreign state, or an institution or agency of that state, that has powers and duties similar to those of the Canada Border Services Agency, whereby the Canada Border Services Agency may, if it has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, provide information set out in a report made under section 20 to that government, institution or agency.
-> 2006, c. 12, s. 23.
+> 2006, c. 12, s. 23
 
 
 
@@ -1496,7 +1496,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **President’s duties**
 
 - **(2)** The President may authorize an officer or a class of officers to exercise powers or perform duties of the President under this Part.
-> 2000, c. 17, s. 39; 2005, c. 38, s. 127.
+> 2000, c. 17, s. 39; 2005, c. 38, s. 127
 
 
 
@@ -1519,7 +1519,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 - **(c)** ensures that personal information under its control is protected from unauthorized disclosure;
 - **(d)** operates to enhance public awareness and understanding of matters related to money laundering and the financing of terrorist activities; and
 - **(e)** ensures compliance with Parts 1 and 1.1.
-> 2000, c. 17, s. 40; 2001, c. 41, s. 65; 2010, c. 12, s. 1870; 2014, c. 20, s. 276.
+> 2000, c. 17, s. 40; 2001, c. 41, s. 65; 2010, c. 12, s. 1870; 2014, c. 20, s. 276
 
 
 
@@ -1595,7 +1595,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Accident compensation**
 
 **44** The Director and the employees of the Centre are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 2000, c. 17, s. 44; 2003, c. 22, s. 224(E).
+> 2000, c. 17, s. 44; 2003, c. 22, s. 224(E)
 
 
 
@@ -1664,7 +1664,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(b)** set the terms and conditions of employment for employees, including termination of employment for cause, and assign to them their duties;
 	- **(c)** notwithstanding section 112 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), in accordance with the mandate approved by the Treasury Board, fix the remuneration of the employees of the Centre; and
 	- **(d)** provide for any other matters that the Director considers necessary for effective human resources management in the Centre.
-> 2000, c. 17, s. 49; 2003, c. 22, ss. 190, 223(A); 2017, c. 9, s. 55.
+> 2000, c. 17, s. 49; 2003, c. 22, ss. 190, 223(A); 2017, c. 9, s. 55
 
 
 
@@ -1673,7 +1673,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Political activities**
 
 **50** Part 7 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) applies to the Director and employees of the Centre. For the purposes of that Part, the Director is deemed to be a deputy head, and the employees are deemed to be employees, as defined in subsection 2(1) of that Act.
-> 2000, c. 17, s. 50; 2003, c. 22, s. 242.
+> 2000, c. 17, s. 50; 2003, c. 22, s. 242
 
 
 
@@ -1686,7 +1686,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Authority to provide services**
 
 **51** When a department in, or other portion of, the federal public administration specified in Schedule I, IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) is authorized to provide services to another department in or portion of the federal public administration specified in one of those Schedules, it may enter into an agreement to provide those services to the Centre if it considers it appropriate to do so.
-> 2000, c. 17, s. 51; 2003, c. 22, s. 191.
+> 2000, c. 17, s. 51; 2003, c. 22, s. 191
 
 
 
@@ -1720,7 +1720,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Disclosure of information to advisor**
 
 - **(4)** The Director shall disclose to a person engaged under subsection 42(4), in the form and manner that the person directs, any information obtained by the Centre in the administration and enforcement of this Act, or any information prepared by the Centre from that information, that the person considers relevant for the purpose of advising the Minister on any matter referred to in subsection 42(2).
-> 2000, c. 17, s. 52; 2010, c. 12, s. 1871; 2014, c. 20, s. 277.
+> 2000, c. 17, s. 52; 2010, c. 12, s. 1871; 2014, c. 20, s. 277
 
 
 
@@ -1739,7 +1739,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Clarification**
 
 - **(2)** For greater certainty, if information referred to in subsection (1) is contained in a document, whether in written form or in any other form, that is otherwise required to be disclosed under section 52, the Director shall provide the document with that information excluded.
-> 2000, c. 17, s. 53; 2014, c. 20, s. 278.
+> 2000, c. 17, s. 53; 2014, c. 20, s. 278
 
 
 
@@ -1754,7 +1754,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Director may disclose information**
 
 - **(2)** If the Director is of the opinion that information received or collected by the Centre under paragraph 54(1)(a) or (b), or any analysis conducted by the Centre under paragraph 54(1)(c), would assist the Minister in carrying out the Minister’s powers and duties under Part 1.1, the Director may disclose that information or analysis to the Minister or any officer of the Department of Finance whom the Director considers appropriate.
-> 2010, c. 12, s. 1872; 2014, c. 20, s. 278.
+> 2010, c. 12, s. 1872; 2014, c. 20, s. 278
 
 
 
@@ -1769,7 +1769,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Clarification**
 
 - **(2)** For greater certainty, if information referred to in subsection (1) is contained in a document, whether in written form or in any other form, that is otherwise required or permitted to be disclosed under section 53.1, the Director shall provide the document with that information excluded.
-> 2010, c. 12, s. 1872; 2014, c. 20, s. 278.
+> 2010, c. 12, s. 1872; 2014, c. 20, s. 278
 
 
 
@@ -1787,7 +1787,16 @@ the applicant is entitled to an order declaring that their interest or right is 
 **No disclosure without consent**
 
 - **(2)** The Director shall not disclose the information that was provided to the Centre in confidence before having obtained the consent referred to in subsection (1).
-> 2010, c. 12, s. 1872; 2014, c. 20, s. 279; 2017, c. 20, s. 428.
+> 2010, c. 12, s. 1872; 2014, c. 20, s. 279; 2017, c. 20, s. 428
+
+
+
+
+
+**[National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md)**
+
+**53.4** The Director shall, at the request of the Minister or an officer of the Department of Finance, disclose to the Minister or the officer, as the case may be, in the form and manner that the Minister or officer directs, any information under the control of the Centre that would assist the Minister in exercising his or her powers or performing his or her duties or functions under the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md).
+> 2019, c. 13, s. 46
 
 
 
@@ -1795,8 +1804,8 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **[National Security and Intelligence Committee of Parliamentarians Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2015.md)**
 
-**53.4** The Director shall, at the request of the Minister or an officer of the Department of Finance, disclose to the Minister or the officer, as the case may be, in the form and manner that the Minister or officer directs, any information under the control of the Centre that would assist the Minister in exercising his or her powers or performing his or her duties or functions under the [National Security and Intelligence Committee of Parliamentarians Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2015.md).
-> 2017, c. 15, s. 47.
+**53.5** The Director shall, at the request of the Minister or an officer of the Department of Finance, disclose to the Minister or the officer, as the case may be, in the form and manner that the Minister or officer directs, any information under the control of the Centre that would assist the Minister in exercising his or her powers or performing his or her duties or functions under the [National Security and Intelligence Committee of Parliamentarians Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2015.md).
+> 2017, c. 15, s. 472019, c. 13, s. 49
 
 
 
@@ -1822,7 +1831,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Destruction of certain information**
 
 - **(2)** The Centre shall destroy any information contained in a document, whether in written form or in any other form, that it receives that purports to be a report made under section 7, 7.1, 9 or 12, made in accordance with a directive issued under Part 1.1, sent under subsection 14(5) or referred to in section 9.1, and that it determines, in the normal course of its activities, relates to a financial transaction or circumstance that is not required to be reported to the Centre under this Act, and shall destroy any information voluntarily provided to the Centre by the public that it determines, in the normal course of its activities, is not about suspicions of money laundering or the financing of terrorist activities. The Centre shall destroy the information within a reasonable time after the determination is made.
-> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42, c. 15, s. 100; 2006, c. 12, s. 24; 2010, c. 12, s. 1873; 2014, c. 20, s. 280.
+> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42, c. 15, s. 100; 2006, c. 12, s. 24; 2010, c. 12, s. 1873; 2014, c. 20, s. 280
 
 
 
@@ -1853,7 +1862,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Retention of information**
 
 - **(6)** Subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall retain information referred to in subsection (4) for 10 years beginning on the day on which the Centre denies the registration of an applicant, on which a registered person or entity notifies the Centre that they have ceased their activities, or on which a person or entity is no longer registered with the Centre.
-> 2006, c. 12, s. 25; 2014, c. 20, s. 281.
+> 2006, c. 12, s. 25; 2014, c. 20, s. 281
 
 
 
@@ -1867,7 +1876,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **55** 
 
-- **(1)** Subject to subsections (3) and (6.1), sections 52, 53.1, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall not disclose the following:
+- **(1)** Subject to subsections (3) and (6.1), sections 52, 53.4, 53.5, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall not disclose the following:
 	- **(a)** information set out in a report made under section 7;
 	- **(a.1)** information set out in a report made under section 7.1;
 	- **(b)** information set out in a report made under section 9;
@@ -1945,7 +1954,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(r)** the name, address, electronic mail address and telephone number of every trustee and every known beneficiary and settlor of a trust referred to in paragraph (a);
 	- **(s)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
 	- **(t)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
-> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282; 2015, c. 36, s. 167; 2017, c. 20, s. 429; 2019, c. 29, s. 107.
+> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282; 2015, c. 36, s. 167; 2017, c. 20, s. 4292019, c. 13, s. 472019, c. 13, s. 492019, c. 29, s. 107
 
 
 
@@ -1989,7 +1998,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(r)** the name, address, electronic mail address and telephone number of every trustees and every known beneficiary and settlor of a trust referred to in paragraph (a);
 	- **(s)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
 	- **(t)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
-> 2001, c. 41, s. 68; 2006, c. 12, s. 27; 2014, c. 20, s. 283; 2017, c. 20, s. 430; 2019, c. 29, s. 108.
+> 2001, c. 41, s. 68; 2006, c. 12, s. 27; 2014, c. 20, s. 283; 2017, c. 20, s. 4302019, c. 29, s. 108
 
 
 
@@ -2010,7 +2019,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 - **(3)** Agreements or arrangements entered into under subsection (1) or (2) must
 	- **(a)** restrict the use of information to purposes relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence; and
 	- **(b)** stipulate that the information be treated in a confidential manner and not be further disclosed without the express consent of the Centre.
-> 2000, c. 17, s. 56; 2001, c. 41, s. 68; 2017, c. 20, s. 431.
+> 2000, c. 17, s. 56; 2001, c. 41, s. 68; 2017, c. 20, s. 431
 
 
 
@@ -2068,7 +2077,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(q)** the name, address, electronic mail address and telephone number of every trustee and every known beneficiary and settlor of a trust referred to in paragraph (a);
 	- **(r)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
 	- **(s)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
-> 2001, c. 41, s. 68; 2006, c. 12, s. 28; 2014, c. 20, s. 284; 2017, c. 20, s. 432; 2019, c. 29, s. 109.
+> 2001, c. 41, s. 68; 2006, c. 12, s. 28; 2014, c. 20, s. 284; 2017, c. 20, s. 4322019, c. 29, s. 109
 
 
 
@@ -2077,7 +2086,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Usefulness of information**
 
 **56.2** When the Centre receives information from an institution or agency under an agreement or arrangement referred to in subsection 56(1) or (2), the Centre may provide it with an evaluation of whether the information is useful to the Centre.
-> 2006, c. 12, s. 29.
+> 2006, c. 12, s. 29
 
 
 
@@ -2106,7 +2115,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Limitation**
 
 - **(2)** The Centre shall not disclose under subsection (1) any information that would directly or indirectly identify an individual who provided a report or information to the Centre, or a person or an entity about whom a report or information was provided.
-> 2000, c. 17, s. 58; 2001, c. 41, s. 69; 2010, c. 12, s. 1875; 2014, c. 20, s. 285.
+> 2000, c. 17, s. 58; 2001, c. 41, s. 69; 2010, c. 12, s. 1875; 2014, c. 20, s. 285
 
 
 
@@ -2121,7 +2130,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Limitation**
 
 - **(2)** The Centre shall not disclose under subsection (1) any information that would directly or indirectly identify any person or entity other than a foreign entity as defined in section 11.41.
-> 2010, c. 12, s. 1876; 2014, c. 20, s. 286.
+> 2010, c. 12, s. 1876; 2014, c. 20, s. 286
 
 
 
@@ -2136,7 +2145,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Search warrants**
 
 - **(2)** Despite any other Act, no search warrant may be issued in respect of the Centre.
-> 2000, c. 17, s. 59; 2001, c. 41, s. 70; 2006, c. 12, s. 30.
+> 2000, c. 17, s. 59; 2001, c. 41, s. 70; 2006, c. 12, s. 30
 
 
 
@@ -2231,7 +2240,7 @@ The order must be complied with within the period following the service of the o
 ***judge*** means a provincial court judge as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a judge as defined in subsection 462.3(1) of that Act. (*juge*)
 
 ***police officer*** means any officer, constable or other person employed for the preservation and maintenance of the public peace. (*policier*)
-> 2000, c. 17, s. 60; 2001, c. 12, s. 3, c. 32, s. 72, c. 41, s. 71; 2006, c. 12, s. 31.
+> 2000, c. 17, s. 60; 2001, c. 12, s. 3, c. 32, s. 72, c. 41, s. 71; 2006, c. 12, s. 31
 
 
 
@@ -2315,7 +2324,7 @@ The order must be complied with within the period following the service of the o
 **Definition of judge**
 
 - **(16)** In this section, ***judge*** means a judge of the Federal Court designated by the Chief Justice of the Federal Court for the purposes of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
-> 2001, c. 41, s. 72; 2005, c. 10, s. 34; 2006, c. 12, s. 32.
+> 2001, c. 41, s. 72; 2005, c. 10, s. 34; 2006, c. 12, s. 32
 
 
 
@@ -2324,7 +2333,7 @@ The order must be complied with within the period following the service of the o
 **Hearing of applications**
 
 **60.2** An application under subsection 60.1(2) to a judge for a production order, or an objection under subsection 60.1(7), shall be heard in private in accordance with regulations made under section 28 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
-> 2001, c. 41, s. 72.
+> 2001, c. 41, s. 72
 
 
 
@@ -2409,7 +2418,7 @@ The order must be complied with within the period following the service of the o
 **Definition of judge**
 
 - **(16)** For the purposes of this section, ***judge*** means a provincial court judge as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a judge as defined in subsection 462.3(1) of that Act.
-> 2006, c. 12, s. 33.
+> 2006, c. 12, s. 33
 
 
 
@@ -2439,7 +2448,7 @@ The order must be complied with within the period following the service of the o
 **Assistance to Centre**
 
 - **(2)** The owner or person in charge of premises referred to in subsection (1) and every person found there shall give the authorized person all reasonable assistance to enable them to carry out their responsibilities and shall furnish them with any information with respect to the administration of Part 1 or 1.1 or the regulations under it that they may reasonably require.
-> 2000, c. 17, s. 62; 2010, c. 12, s. 1882.
+> 2000, c. 17, s. 62; 2010, c. 12, s. 1882
 
 
 
@@ -2461,7 +2470,7 @@ The order must be complied with within the period following the service of the o
 **Areas that may be entered**
 
 - **(3)** For greater certainty, an authorized person who enters a dwelling-house under authority of a warrant may enter only a room or part of a room in which the person believes on reasonable grounds that a person or an entity referred to in section 5 is carrying on its business, profession or activity.
-> 2000, c. 17, s. 63; 2010, c. 12, s. 1882.
+> 2000, c. 17, s. 63; 2010, c. 12, s. 1882
 
 
 
@@ -2476,7 +2485,7 @@ The order must be complied with within the period following the service of the o
 **Obligation to provide information**
 
 - **(2)** The person or entity on whom the notice is served shall provide, in accordance with the notice, the documents or other information with respect to the administration of Part 1 or 1.1 that the authorized person may reasonably require.
-> 2006, c. 12, s. 34; 2010, c. 12, s. 1882.
+> 2006, c. 12, s. 34; 2010, c. 12, s. 1882
 
 
 
@@ -2539,7 +2548,7 @@ The order must be complied with within the period following the service of the o
 **Waiver of claim of privilege**
 
 - **(10)** If a legal counsel has made a claim that a named client or former client of the legal counsel has a solicitor-client privilege in respect of a document, the legal counsel shall at the same time communicate to the authorized person the client’s latest known address so that the authorized person may endeavour to advise the client of the claim of privilege that has been made on their behalf and may by doing so give the client an opportunity, if it is practicable within the time limited by this section, to waive the privilege before the matter is to be decided by a judge.
-> 2000, c. 17, s. 64; 2001, c. 12, s. 4; 2006, c. 12, s. 35(E).
+> 2000, c. 17, s. 64; 2001, c. 12, s. 4; 2006, c. 12, s. 35(E)
 
 
 
@@ -2562,7 +2571,7 @@ The order must be complied with within the period following the service of the o
 **Compliance of persons or entities**
 
 - **(4)** For the purpose of ensuring compliance with Parts 1 and 1.1, the Centre shall receive information voluntarily provided to it by a person or entity — other than an agency or body referred to in subsection (2) — relating to the compliance with Part 1 or 1.1 of persons or entities referred to in section 5.
-> 2000, c. 17, s. 65; 2004, c. 15, s. 101; 2006, c. 12, s. 36; 2010, c. 12, s. 1882; 2013, c. 40, ss. 280, 281; 2014, c. 20, s. 287.
+> 2000, c. 17, s. 65; 2004, c. 15, s. 101; 2006, c. 12, s. 36; 2010, c. 12, s. 1882; 2013, c. 40, ss. 280, 281; 2014, c. 20, s. 287
 
 
 
@@ -2581,7 +2590,7 @@ The order must be complied with within the period following the service of the o
 **Limitation**
 
 - **(3)** The Centre shall not disclose any information under subsection (1) that would directly or indirectly identify a client of a person or entity referred to in section 5.
-> 2014, c. 20, s. 288.
+> 2014, c. 20, s. 288
 
 
 
@@ -2600,7 +2609,7 @@ The order must be complied with within the period following the service of the o
 **Limitation**
 
 - **(3)** The Centre shall not disclose any information under subsection (1) that would directly or indirectly identify a client of a person or entity referred to in section 5.
-> 2014, c. 20, s. 289.
+> 2014, c. 20, s. 289
 
 
 
@@ -2622,7 +2631,7 @@ The order must be complied with within the period following the service of the o
 **Usefulness of information**
 
 - **(3)** When the Centre receives information from an institution, agency or organization under an agreement or arrangement, the Centre may provide it with an evaluation of whether the information is useful to the Centre.
-> 2006, c. 12, s. 37; 2017, c. 20, s. 433.
+> 2006, c. 12, s. 37; 2017, c. 20, s. 433
 
 
 
@@ -2645,7 +2654,7 @@ The order must be complied with within the period following the service of the o
 **Limitation**
 
 - **(3)** Despite subsection (1), only the Minister may enter into an agreement or arrangement referred to in subsection 56(1).
-> 2000, c. 17, s. 66; 2014, c. 20, s. 290.
+> 2000, c. 17, s. 66; 2014, c. 20, s. 290
 
 
 
@@ -2654,7 +2663,7 @@ The order must be complied with within the period following the service of the o
 **Choice of service providers**
 
 **67** Despite section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Centre may, with the approval of the Governor in Council given on the recommendation of the Treasury Board, procure goods and services, including legal services, from outside the federal public administration.
-> 2000, c. 17, s. 67; 2003, c. 22, s. 224(E).
+> 2000, c. 17, s. 67; 2003, c. 22, s. 224(E)
 
 
 
@@ -2674,7 +2683,7 @@ The order must be complied with within the period following the service of the o
 **Filing of documents**
 
 **68.1** The Centre may, for the purpose of any action, suit or other legal proceedings brought or taken under this Act, file with the court any documents containing information referred to in subsection 55(1).
-> 2014, c. 20, s. 291.
+> 2014, c. 20, s. 291
 
 
 
@@ -2719,7 +2728,7 @@ The order must be complied with within the period following the service of the o
 - **(2)** The report referred to in subsection (1) shall include
 	- **(a)** a description of the management guidelines and policies of the Centre for the protection of human rights and freedoms; and
 	- **(b)** information on the performance by the Centre of its duties and functions, including any statistics by which that performance is measured.
-> 2000, c. 17, s. 71; 2014, c. 20, s. 292.
+> 2000, c. 17, s. 71; 2014, c. 20, s. 292
 
 
 
@@ -2734,7 +2743,7 @@ The order must be complied with within the period following the service of the o
 **Review by Privacy Commissioner**
 
 - **(2)** Every two years beginning on the day on which this section comes into force, the Privacy Commissioner, appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), shall review the measures taken by the Centre to protect information it receives or collects under this Act and shall, within three months after the review, submit a report on those measures to the Speaker of the Senate and the Speaker of the House of Commons, who shall each table the report in the House over which he or she presides without delay after receiving it or, if that House is not then sitting, on any of the first 15 days on which that House is sitting after the Speaker receives it.
-> 2000, c. 17, s. 72; 2006, c. 12, s. 38.
+> 2000, c. 17, s. 72; 2006, c. 12, s. 38
 
 
 
@@ -2768,7 +2777,7 @@ The order must be complied with within the period following the service of the o
 	- **(z) and (z.1)** [Repealed, 2017, c. 20, s. 434]
 
 - **(2) and (3)** [Repealed, 2001, c. 41, s. 73]
-> 2000, c. 17, s. 73; 2001, c. 41, s. 73; 2006, c. 12, s. 39; 2010, c. 12, s. 1877; 2014, c. 20, s. 294; 2017, c. 20, s. 434.
+> 2000, c. 17, s. 73; 2001, c. 41, s. 73; 2006, c. 12, s. 39; 2010, c. 12, s. 1877; 2014, c. 20, s. 294; 2017, c. 20, s. 434
 
 
 
@@ -2798,7 +2807,7 @@ The order must be complied with within the period following the service of the o
 **Maximum penalties**
 
 - **(2)** The maximum penalty for a violation is $100,000 if the violation is committed by a person and $500,000 if the violation is committed by an entity.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2807,7 +2816,7 @@ The order must be complied with within the period following the service of the o
 **Criteria for penalty**
 
 **73.11** Except if a penalty is fixed under paragraph 73.1(1)(c), the amount of a penalty shall, in each case, be determined taking into account that penalties have as their purpose to encourage compliance with this Act rather than to punish, the harm done by the violation and any other criteria that may be prescribed by regulation.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2816,7 +2825,7 @@ The order must be complied with within the period following the service of the o
 **How contravention may be proceeded with**
 
 **73.12** If a contravention that is designated under paragraph 73.1(1)(a) can be proceeded with either as a violation or as an offence under this Act, proceeding in one manner precludes proceeding in the other.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2833,7 +2842,7 @@ The order must be complied with within the period following the service of the o
 - **(2)** If the Centre believes on reasonable grounds that a person or entity has committed a violation, the Centre may
 	- **(a)** issue and cause to be served on the person or entity a notice of violation; or
 	- **(b)** issue and cause to be served on the person or entity a notice of violation with an offer to reduce by half the penalty proposed in the notice if the person or entity enters into a compliance agreement with the Centre in respect of the provision to which the violation relates.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2855,7 +2864,7 @@ The order must be complied with within the period following the service of the o
 **Administrative corrections**
 
 - **(2)** If a notice of violation contains any error or omission, the Centre may serve a corrected notice of violation on the person or entity at any time during the period referred to in paragraph (1)(b).
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2878,7 +2887,7 @@ The order must be complied with within the period following the service of the o
 **Notice of decision and right of appeal**
 
 - **(4)** The Director shall cause notice of any decision made under subsection (2) or the penalty imposed under subsection (3) to be issued and served on the person or entity together with, in the case of a decision made under subsection (2) in respect of a serious violation or very serious violation, notice of the right of appeal under subsection 73.21(1).
-> 2006, c. 12, s. 40; 2017, c. 20, s. 435(F).
+> 2006, c. 12, s. 40; 2017, c. 20, s. 435(F)
 
 
 
@@ -2903,7 +2912,7 @@ The order must be complied with within the period following the service of the o
 **Extension of period**
 
 - **(3)** The Centre may extend the period referred to in paragraph (1)(a) if the Centre is satisfied that the person or entity with which the compliance agreement was entered into is unable to comply with it within that period for reasons beyond their control.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2912,7 +2921,7 @@ The order must be complied with within the period following the service of the o
 **Compliance agreement complied with**
 
 **73.17** If the Centre considers that a compliance agreement has been complied with, the Centre shall serve a notice to that effect on the person or entity and, on the service of the notice, no further proceedings may be taken against the person or entity with respect to the violation.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2931,7 +2940,7 @@ The order must be complied with within the period following the service of the o
 **No set-off or compensation**
 
 - **(3)** On the service of a notice of default, the person or entity served has no right of set-off or compensation against any amount that they spent under the compliance agreement.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2954,7 +2963,7 @@ The order must be complied with within the period following the service of the o
 **Notice of decision and right of appeal**
 
 - **(4)** The Director shall cause notice of the decision to be issued and served on the person or entity together with, in the case of a serious violation or very serious violation, notice of the right of appeal under subsection 73.21(1).
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -2963,7 +2972,7 @@ The order must be complied with within the period following the service of the o
 **Deemed violation**
 
 **73.2** A person or entity that enters into a compliance agreement is deemed to have committed the violation in respect of which the agreement was entered into.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3001,7 +3010,7 @@ The order must be complied with within the period following the service of the o
 **Powers of Court**
 
 - **(5)** On an appeal, the Court may confirm, set aside or, subject to any regulations made under paragraph 73.1(1)(c), vary the decision of the Director.
-> 2006, c. 12, s. 40; 2019, c. 29, s. 110.
+> 2006, c. 12, s. 402019, c. 29, s. 110
 
 
 
@@ -3021,7 +3030,7 @@ The order must be complied with within the period following the service of the o
 	- **(i)** pay the amount they are liable to pay under subsection 73.18(1),
 	- **(ii)** are served with a notice of a decision made under subsection 73.19(2) confirming the Centre’s decision that the compliance agreement has not been complied with, or
 	- **(iii)** are deemed under subsection 73.19(3) to have not complied with the compliance agreement.
-> 2006, c. 12, s. 40; 2019, c. 29, s. 111.
+> 2006, c. 12, s. 402019, c. 29, s. 111
 
 
 
@@ -3040,7 +3049,7 @@ The order must be complied with within the period following the service of the o
 **Non-application of section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
 - **(2)** Section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of any obligation or prohibition under this Act whose contravention is a violation under this Act.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3055,7 +3064,7 @@ The order must be complied with within the period following the service of the o
 **Common law principles**
 
 - **(2)** Every rule and principle of the common law that renders any circumstance a justification or an excuse in relation to a charge for an offence applies in respect of a violation to the extent that it is not inconsistent with this Act.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3078,7 +3087,7 @@ The order must be complied with within the period following the service of the o
 **Proceeds payable to Receiver General**
 
 - **(3)** A penalty paid or recovered under this Part is payable to and shall be remitted to the Receiver General.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3093,7 +3102,7 @@ The order must be complied with within the period following the service of the o
 **Registration in Federal Court**
 
 - **(2)** Registration in the Federal Court of a certificate made under subsection (1) has the same effect as a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3112,7 +3121,7 @@ The order must be complied with within the period following the service of the o
 **Use of information**
 
 - **(3)** The other party shall not use the information referred to in subsection (2) for any purpose other than collecting the penalties.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3121,7 +3130,7 @@ The order must be complied with within the period following the service of the o
 **Interest**
 
 **73.28** If a person or entity fails to remit a penalty payable under this Part to the Receiver General, the person or entity shall pay to the Receiver General interest on the amount of the penalty. The interest shall be calculated at the prescribed rate for the period beginning on the first day after the day on which the amount was required to be paid and ending on the day on which the amount is paid.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3142,7 +3151,7 @@ The order must be complied with within the period following the service of the o
 **Discharge of liability**
 
 - **(3)** The receipt of the Director is a good and sufficient discharge of the original liability to the extent of the payment.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3157,7 +3166,7 @@ The order must be complied with within the period following the service of the o
 **Effect of write-off**
 
 - **(2)** The writing off of a penalty or interest under this section does not affect any right of Her Majesty to collect or recover the penalty or interest.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3170,7 +3179,7 @@ The order must be complied with within the period following the service of the o
 **Evidence**
 
 **73.4** In a proceeding in respect of a violation or a prosecution for an offence, a notice of violation purporting to be issued under subsection 73.13(2), a notice of decision purporting to be issued under subsection 73.15(4) or 73.19(4), a notice of default purporting to be issued under subsection 73.18(1) or a certificate purporting to be made under subsection 73.26(1) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3185,7 +3194,7 @@ The order must be complied with within the period following the service of the o
 **Certificate of Centre**
 
 - **(2)** A document appearing to have been issued by the Centre, certifying the day on which the subject-matter of any proceedings became known to the Centre, is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40
 
 
 
@@ -3209,7 +3218,7 @@ The order must be complied with within the period following the service of the o
 - **(2)** Every person or entity that knowingly contravenes section 11.43, except insofar as it relates to any required reporting measure as contemplated by paragraph 11.42(2)(e) and specified in a directive issued under subsection 11.42(1), is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both.
-> 2000, c. 17, s. 74; 2006, c. 12, s. 41; 2010, c. 12, s. 1878; 2014, c. 20, s. 295.
+> 2000, c. 17, s. 74; 2006, c. 12, s. 41; 2010, c. 12, s. 1878; 2014, c. 20, s. 295
 
 
 
@@ -3228,7 +3237,7 @@ The order must be complied with within the period following the service of the o
 **Defence for employees**
 
 - **(2)** No employee of a person or an entity shall be convicted of an offence under subsection (1) in respect of a transaction or proposed transaction that they reported to their superior or in respect of property whose existence they reported to their superior.
-> 2000, c. 17, s. 75; 2001, c. 41, s. 74; 2010, c. 12, s. 1879.
+> 2000, c. 17, s. 75; 2001, c. 41, s. 74; 2010, c. 12, s. 1879
 
 
 
@@ -3256,7 +3265,7 @@ The order must be complied with within the period following the service of the o
 **Due diligence defence**
 
 - **(3)** No person or entity shall be convicted of an offence under subsection (1) or (2) if they establish that they exercised due diligence to prevent its commission.
-> 2000, c. 17, s. 77; 2010, c. 12, s. 1880.
+> 2000, c. 17, s. 77; 2010, c. 12, s. 1880
 
 
 
@@ -3267,7 +3276,7 @@ The order must be complied with within the period following the service of the o
 **77.1** Every person or entity that provides information to the Centre under section 11.12, 11.13, 11.14 or 11.3 and that knowingly makes any false or misleading statement or knowingly provides false or misleading information to a person responsible for carrying out functions under this Act is guilty of an offence and liable
 - **(a)** on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than six months, or to both; or
 - **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both.
-> 2006, c. 12, s. 42.
+> 2006, c. 12, s. 42
 
 
 
@@ -3285,7 +3294,7 @@ The order must be complied with within the period following the service of the o
 **79** In a prosecution for an offence under section 75, 77 or 77.1,
 - **(a)** it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or has been prosecuted for the offence; and
 - **(b)** no person shall be found guilty of the offence if they establish that they exercised due diligence to prevent its commission.
-> 2000, c. 17, s. 79; 2006, c. 12, s. 43.
+> 2000, c. 17, s. 79; 2006, c. 12, s. 43
 
 
 
@@ -3294,7 +3303,7 @@ The order must be complied with within the period following the service of the o
 **Exemption**
 
 **80** A peace officer or a person acting under the direction of a peace officer is not guilty of an offence under any of sections 74 to 77 if the peace officer or person does any of the things mentioned in those sections for the purpose of investigating a money laundering offence or a terrorist activity financing offence.
-> 2000, c. 17, s. 80; 2001, c. 41, s. 75.
+> 2000, c. 17, s. 80; 2001, c. 41, s. 75
 
 
 
@@ -3303,7 +3312,7 @@ The order must be complied with within the period following the service of the o
 **Time limitation**
 
 **81** Proceedings under paragraph 74(1)(a), 74(2)(a), 75(1)(a) or 76(a), subsection 77(1) or (2), or paragraph 77.1(a) may be instituted within, but not after, five years after the time when the subject-matter of the proceedings arose.
-> 2000, c. 17, s. 81; 2006, c. 12, s. 44; 2010, c. 12, s. 1881.
+> 2000, c. 17, s. 81; 2006, c. 12, s. 44; 2010, c. 12, s. 1881
 
 
 
@@ -3367,5 +3376,372 @@ The order must be complied with within the period following the service of the o
 <sup><a href='#P-24.501_en_3'>[*]</a></sup>**99** The provisions of this Act, other than section 97, come into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='P-24.501_en_3'><sup>*</sup></a>: [Note: Section 97 in force on assent June 29, 2000; sections 1 to 4, 38 and 40 to 44, subsection 45(1), sections 46 to 53, paragraphs 54 (b) to (d), subsections 55(1), (2) and (6) and sections 56 to 61, 66 to 82, 84, 85, 90 and 91 in force July 5, 2000, *see* SI/2000-55; sections 5, 7, 8, 10 and 11, the portion of section 54 before paragraph (b), subsections 55(3) to (5.1) and (7) and section 89 in force October 28, 2001, *see* SI/2001-88; sections 6 and 9, subsection 45(2) and sections 62 to 65, 83 and 98 in force June 12, 2002, *see* SI/2002-84; sections 12 to 37 and 39 in force January 6, 2003, *see* SI/2002-153; sections 86 to 88 and 92 to 96 in force March 31, 2004, *see* SI/2004-39.]<br />
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2014, c. 20, s. 256(2), as amended by 2017, c. 20, s. 436
+
+
+**
+> 2006, c. 12, s. 3(1)
+**
+
+**256** 
+
+- **(2)** Paragraph 5(h) of the Act is replaced by the following:
+
+- **(h)** persons and entities that have a place of business in Canada and that are engaged in the business of providing at least one of the following services:
+	- **(i)** foreign exchange dealing,
+	- **(ii)** remitting funds or transmitting funds by any means or through any person, entity or electronic funds transfer network,
+	- **(iii)** issuing or redeeming money orders, traveller’s cheques or other similar negotiable instruments except for cheques payable to a named person or entity,
+	- **(iv)** dealing in virtual currencies, or
+	- **(v)** any prescribed service;
+- **(h.1)** persons and entities that do not have a place of business in Canada, that are engaged in the business of providing at least one of the following services that is directed at persons or entities in Canada, and that provide those services to their clients in Canada:
+	- **(i)** foreign exchange dealing,
+	- **(ii)** remitting funds or transmitting funds by any means or through any person, entity or electronic funds transfer network,
+	- **(iii)** issuing or redeeming money orders, traveller’s cheques or other similar negotiable instruments except for cheques payable to a named person or entity,
+	- **(iv)** dealing in virtual currencies, or
+	- **(v)** any prescribed service;
+
+
+
+
+
+######           — 2014, c. 20, s. 257
+
+**257** The Act is amended by adding the following after section 5:
+
+**Clarification**
+
+**5.1** For greater certainty, this Part does not apply to persons or entities referred to in paragraph 5(h.1) in respect of the services they provide to persons or entities outside Canada.
+
+
+
+
+
+######           — 2014, c. 20, s. 261
+
+
+**
+> 2006, c. 12, s. 10
+**
+
+**261** Section 11.1 of the Act is replaced by the following:
+
+**Registration requirement**
+
+**11.1** Except as otherwise provided in the regulations, every person or entity referred to in paragraph 5(h) or (h.1), those referred to in paragraph 5(l) that sell money orders to the public, and every other person or entity that is referred to in section 5 and that is prescribed must be registered with the Centre in accordance with this section and sections 11.11 to 11.2.
+
+
+
+
+
+######           — 2014, c. 20, s. 262(3)
+
+**262** 
+
+- **(3)** Subsection 11.11(1) of the Act is amended by adding the following after paragraph (e):
+
+- **(e.1)** a person or entity referred to in paragraph 5(h.1) that, having committed a violation, or a series of minor violations, under this Act that is classified as a serious violation or a very serious violation and being liable to a penalty for it, and 30 days having elapsed since the day on which all proceedings in respect of the violation are ended, has still not paid the penalty together with any interest imposed under section 73.28; or
+
+
+
+
+
+######           — 2014, c. 20, s. 263
+
+
+**
+> 2006, c. 12, s. 11
+**
+
+**263** Subsection 11.12(1) of the Act is replaced by the following:
+
+**Application for registration**
+
+**11.12** 
+
+- **(1)** An application for registration shall be submitted to the Centre in the prescribed form and manner and shall include
+	- **(a)** a list of the applicant’s agents, mandataries or branches that are engaged, on behalf of the applicant, in the activities referred to in paragraph 5(h) or (h.1), in selling money orders to the public if the applicant is a person or entity referred to in paragraph 5(l), or in any prescribed activities;
+	- **(b)** if the applicant is a person referred to in paragraph 5(h.1)
+		- **(i)** the name and address for service of an individual who resides in Canada and who is authorized to accept, on behalf of the person, notices that are served or caused to be served by the Centre under this Act,
+		- **(ii)** a document that sets out the person’s record of criminal convictions, or states that the person does not have one, that is issued by a competent authority of the foreign state in which the person resides, and, if the document is made in a language other than English or French, a translation of it into one of those languages attested to by a person who is recognized as a certified translator by a provincial organization or body that is competent under provincial law to issue such certifications;
+	- **(c)** if the applicant is an entity referred to in paragraph 5(h.1)
+		- **(i)** the name and address for service of an individual who resides in Canada and who is authorized to accept, on behalf of the entity, notices that are served or caused to be served by the Centre under this Act, and
+		- **(ii)** for each of the chief executive officer, the president and the directors of the entity and for each person who owns or controls, directly or indirectly, 20% or more of the entity or the shares of the entity, a document that sets out the person’s record of criminal convictions, or states that the person does not have one, and that is issued by a competent authority of the foreign state in which the person resides, and, if the document is made in a language other than English or French, a translation of it into one of those languages attested to by a person who is recognized as a certified translator by a provincial organization or body that is competent under provincial law to issue such certifications; and
+	- **(d)** any prescribed information.
+
+
+
+
+
+######           — 2014, c. 20, s. 264
+
+
+**
+> 2006, c. 12, s. 11
+**
+
+**264** Section 11.13 of the Act is renumbered as subsection 11.13(1) and is amended by adding the following:
+
+**Denial or revocation**
+
+- **(2)** If the name or address for service of a person referred to in subparagraph 11.12(1)(b)(i) or (c)(i) changes, and an applicant or registered person or entity who is or was required to provide the information described in paragraph 11.12(1)(b) or (c) does not, within the period provided in subsection (1), provide the Centre with the new name or address for service, the Centre shall without delay after becoming aware of that fact deny the application, or revoke the registration, as the case may be, and shall, without delay, inform the applicant or registered person or entity of the denial or revocation.
+
+
+
+######           — 2014, c. 20, s. 265
+
+
+**
+> 2006, c. 12, s. 11
+**
+
+**265** Subsection 11.14(1) of the Act is replaced by the following:
+
+**Clarifications — applicant**
+
+**11.14** 
+
+- **(1)** An applicant shall provide the Centre, in the prescribed form and manner, with any clarifications that the Centre may request in respect of the information described in subsection 11.12(1) within 30 days after the day on which the request is made.
+
+
+
+
+
+######           — 2014, c. 20, s. 266
+
+
+**
+> 2006, c. 12, s. 11
+**
+
+**266** Subsection 11.17(1) of the Act is replaced by the following:
+
+**Clarifications — registrant**
+
+**11.17** 
+
+- **(1)** A registered person or entity shall provide the Centre, in the prescribed form and manner, with any clarifications that the Centre may request in respect of the information described in subsection 11.12(1) within 30 days after the day on which the request is made.
+
+
+
+
+
+######           — 2014, c. 20, s. 293
+
+**293** The Act is amended by adding the following after section 72:
+
+### Service of Notices
+
+
+**Authorized person**
+
+**72.1** The service of a notice by or on behalf of the Centre on a person or entity referred to in paragraph 5(h.1) is sufficient if it is served on the person who is indicated in the application for registration, or in accordance with subsection 11.13(1), as being authorized to accept, on behalf of the person or entity referred to in that paragraph, notices that are served or caused to be served by the Centre under this Act.
+
+
+
+
+
+######           — 2014, c. 20, s. 296
+
+**296** The portion of subsection 74(1) of the Act before paragraph (a) is replaced by the following:
+
+**General offences**
+
+**74** 
+
+- **(1)** Every person or entity that knowingly contravenes any of sections 6, 6.1 and 9.1 to 9.31, subsection 9.4(2), sections 9.5 to 9.7, 11.1, 11.43, 11.44 and 11.6, subsections 12(1) and (4) and 36(1), section 37, subsections 55(1) and (2), section 57 and subsections 62(2), 63.1(2) and 64(3) or the regulations is guilty of an offence and liable
+
+
+
+
+
+######           — 2017, c. 20, s. 408(1)
+
+**408** 
+
+- **(1)** Section 5 of the Act is amended by adding the following after paragraph (e):
+
+- **(e.1)** trust companies incorporated or formed by or under a provincial Act that are not regulated by a provincial Act;
+
+
+
+
+
+######           — 2017, c. 20, ss. 415(2), (3)
+
+**415** 
+
+- **(2)** The portion of subsection 9.4(1) of the Act before paragraph (a) is replaced by the following:
+
+**Correspondent banking**
+
+**9.4** 
+
+- **(1)** Every entity referred to in any of paragraphs 5(a), (b), (d), (e) and (e.1) and every other entity that is referred to in section 5 and that is prescribed shall take the measures referred to in the regulations in respect of any correspondent banking relationship it enters into with a prescribed foreign entity and shall take the following measures before entering into such a correspondent banking relationship:
+
+
+
+- **(3)** Subsection 9.4(3) of the Act is replaced by the following:
+
+**Definition of correspondent banking relationship**
+
+- **(3)** For the purposes of this section, ***correspondent banking relationship*** means a relationship created by an agreement or arrangement under which an entity referred to in any of paragraphs 5(a), (b), (d), (e) and (e.1) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a prescribed foreign entity prescribed services or international electronic funds transfers, cash management or cheque clearing services.
+
+
+
+######           — 2017, c. 20, s. 417
+
+**417** The Act is amended by adding the following after section 9.6:
+
+**Measures and information: paragraph 5(e.1)**
+
+**9.61** 
+
+- **(1)** Every entity referred to in paragraph 5(e.1) shall take the prescribed measures related to the program referred to in subsection 9.6(1) and shall provide the prescribed information to the Centre in the prescribed circumstances.
+
+**Service**
+
+- **(2)** An entity referred to in paragraph 5(e.1) must provide to the Centre the name and address for service of a person who resides in Canada and who is authorized to accept, on behalf of the entity, notices that are served or caused to be served by the Centre under this Act.
+
+**Authorized person**
+
+- **(3)** The service of a notice by or on behalf of the Centre on an entity referred to in paragraph 5(e.1) is sufficient if it is served on the person whose name is provided under subsection (2).
+
+
+
+
+
+######           — 2017, c. 20, s. 423(1)
+
+**423** 
+
+- **(1)** Subsection 11.42(1) of the Act is replaced by the following:
+
+**Minister’s written directive**
+
+**11.42** 
+
+- **(1)** In addition to any other measure required by this Act, the Minister may, by written directive, require any person or entity referred to in section 5 to take, in order to safeguard the integrity of Canada’s financial system, any measure specified in the directive with respect to any financial transaction, or any financial transaction within a class of financial transactions, originating from or bound for any foreign state, foreign entity or entity referred to in paragraph 5(e.1), that occurs or is attempted in the course of their activities, or with respect to any activity that is related to any such financial transaction or class of financial transactions.
+
+
+
+
+
+######           — 2017, c. 20, s. 423(3)
+
+**423** 
+
+- **(3)** Paragraphs 11.42(4)(a) and (b) of the Act are replaced by the following:
+
+- **(a)** an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state, foreign entity or entity referred to in paragraph 5(e.1) on the ground that the state’s or entity’s anti-money laundering or anti-terrorist financing measures are ineffective or insufficient; or
+- **(b)** the anti-money laundering or anti-terrorist financing measures that a foreign state, a foreign entity or an entity referred to in paragraph 5(e.1) has implemented are ineffective or insufficient and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
+
+
+
+
+
+######           — 2017, c. 20, s. 425
+
+**425** 
+
+- **(1)** Paragraph 11.49(1)(a) of the Act is replaced by the following:
+
+- **(a)** imposing a limitation or a prohibition on any person or entity referred to in section 5, with respect to entering into, undertaking or facilitating, directly or indirectly, any financial transaction, or any financial transaction within a class of financial transactions, originating from or bound for any foreign state, foreign entity or entity referred to in paragraph 5(e.1);
+
+
+
+- **(2)** Paragraphs 11.49(3)(a) and (b) of the Act are replaced by the following:
+
+- **(a)** if
+	- **(i)** an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state, foreign entity or entity referred to in paragraph 5(e.1) on the ground that the state’s or entity’s anti-money laundering or anti-terrorist financing measures are ineffective or insufficient, and
+	- **(ii)** there is a risk that money laundering activities or terrorist financing activities may be carried out in that foreign state or by means of that foreign entity or entity referred to in paragraph 5(e.1); or
+- **(b)** if the anti-money laundering or anti-terrorist financing measures that a foreign state, a foreign entity or an entity referred to in paragraph 5(e.1) has implemented are ineffective or insufficient, the risk of money laundering activities or terrorist financing activities being carried out in that foreign state or by means of that foreign entity or entity referred to in paragraph 5(e.1) is significant and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
+
+
+
+
+
+######           — 2017, c. 20, s. 438
+
+**438** Section 9.31 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, as enacted by section 258 of the Act, is replaced by the following:
+
+**Prohibition if unregistered**
+
+**9.31** 
+
+- **(1)** No entity referred to in paragraph 5(a), (b), (d), (e) or (e.1) and no other entity that is referred to in section 5 and that is prescribed shall open or maintain an account for, or have a correspondent banking relationship with, a person or entity referred to in paragraph 5(h.1) unless that person or entity is registered with the Centre under section 11.1.
+
+**Definition of correspondent banking relationship**
+
+- **(2)** For the purposes of this section, ***correspondent banking relationship*** means a relationship created by an agreement or arrangement under which an entity referred to in paragraph 5(a), (b), (d), (e) or (e.1) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a person or entity referred to in paragraph 5(h.1) prescribed services or international electronic funds transfers, cash management or cheque clearing services.
+
+
+
+
+
+######           — 2017, c. 20, ss. 439(1), (6), (8)
+
+
+**
+> 2014, c. 20
+**
+
+**439** 
+
+- **(1)** In this section, ***other Act*** means the [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md).
+
+- **(6)** On the first day on which both section 261 of the other Act and section 419 of this Act are in force, section 11.1 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act is replaced by the following:
+
+**Registration requirement**
+
+**11.1** Except as otherwise prescribed by regulation, every person or entity referred to in paragraph 5(h) or (h.1), those referred to in paragraph 5(l) that issue or sell money orders to, or redeem them from, the public, and every other person or entity that is referred to in section 5 and that is prescribed must be registered with the Centre in accordance with this section and sections 11.11 to 11.2.
+
+
+
+- **(8)** If section 421 of this Act comes into force before section 263 of the other Act, then, on the day on which that section 263 comes into force, paragraph 11.12(1)(a) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act is replaced by the following:
+
+- **(a)** a list of the applicant’s agents or mandataries or branches that are engaged, on behalf of the applicant, in the activities referred to in paragraph 5(h) or (h.1), in issuing or selling money orders to, or redeeming them from, the public if the applicant is a person or entity referred to in paragraph 5(l), or in any prescribed activities;
+
+
+
+
+
+######           — 2017, c. 20, s. 440(1), par. (3)(b)
+
+
+**
+> 2014, c. 39
+**
+
+**440** 
+
+- **(1)** In this section, ***other Act*** means the Economic Action Plan 2014 Act, No. 2.
+
+- **(3)** If section 422 of this Act comes into force before section 250 of the other Act, then
+	- **(b)** on the day on which subsection 256(2) of the [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md) comes into force, section 11.41 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act is replaced by the following:
+
+**Definition of foreign entity**
+
+**11.41** In this Part, ***foreign entity*** means
+	- **(a)** an entity referred to in paragraph 5(h.1); or
+	- **(b)** an entity, other than an entity referred to in section 5, that is incorporated or formed by or under the laws of a foreign state, including its subsidiaries, if any, and that does not carry on business in Canada, if it carries out activities similar to those of entities referred to in any of paragraphs 5(a) to (g) or activities referred to in paragraph 5(h) or (h.1).
+
+
+
+
+
+######           — 2019, c. 13, s. 88
+
+**88** Paragraph 55(3)(f) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act is replaced by the following:
+
+- **(f)** the Communications Security Establishment, if the Centre also determines that the information is relevant to the foreign intelligence aspect of the Communications Security Establishment’s mandate, referred to in section 16 of the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md); and
+
+
+
 
 
