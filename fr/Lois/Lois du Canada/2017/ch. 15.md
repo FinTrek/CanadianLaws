@@ -39,7 +39,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Comité*** Le Comité des parlementaires sur la sécurité nationale et le renseignement, constitué par l’article 4. (*Committee*)
 
-***ministère*** Sauf au paragraphe 25(2), s’entend de tout ministère mentionné à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), de tout secteur de l’administration publique fédérale — autre qu’un organisme de surveillance — mentionné à la colonne I de l’annexe I.1 de cette loi, de toute personne morale mentionnée à l’annexe II de cette loi, de toute société d’État mère au sens du paragraphe 83(1) de la même loi ou des Forces canadiennes. (*department*)
+***ministère*** Sauf au paragraphe 25(2), s’entend de tout ministère mentionné à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), de tout secteur de l’administration publique fédérale — autre qu’un organisme de surveillance ou le bureau du commissaire au renseignement — mentionné à la colonne I de l’annexe I.1 de cette loi, de toute personne morale mentionnée à l’annexe II de cette loi, de toute société d’État mère au sens du paragraphe 83(1) de la même loi ou des Forces canadiennes. (*department*)
 
 ***ministre compétent***
 - **a)** Dans le cas d’un ministère mentionné à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le ministre chargé de son administration;
@@ -50,10 +50,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***organisme de surveillance***
 - **a)** La Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada, constituée par le paragraphe 45.29(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md);
-- **b)** le commissaire du Centre de la sécurité des télécommunications, nommé en vertu du paragraphe 273.63(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
-- **c)** le comité de surveillance des activités de renseignement de sécurité, constitué par le paragraphe 34(1) de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md). (*review body*)
+- **b)** l’Office de surveillance des activités en matière de sécurité nationale et de renseignement. (*review body*)
+- **c)** [Abrogé, 2019, ch. 13, art. 49]
 
 ***Secrétariat*** Le Secrétariat du Comité des parlementaires sur la sécurité nationale et le renseignement, constitué par le paragraphe 24(1). (*Secretariat*)
+> 2017, ch. 15, art. 22019, ch. 13, art. 492019, ch. 13, art. 75
+
 
 
 
@@ -224,9 +226,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Ces renseignements comprennent les renseignements protégés par le privilège relatif au litige ou par le secret professionnel de l’avocat ou du notaire.
 
+**Précision**
+
+- **(2.1)** Il est entendu que la communication au Comité, au titre du présent article, de renseignements protégés par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige ne constitue pas une renonciation au secret professionnel ou au privilège.
+
 **Incompatibilité ou conflit**
 
 - **(3)** Le paragraphe (1) l’emporte en cas d’incompatibilité ou de conflit avec toute disposition d’une loi fédérale autre que la présente loi.
+> 2017, ch. 15, art. 132019, ch. 13, art. 49
+
 
 
 
@@ -283,12 +291,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** S’il refuse de communiquer un renseignement au Comité en vertu du paragraphe (1), le ministre compétent informe celui-ci de sa décision et des motifs de celle-ci.
 
-**Organisme de surveillance informé de la décision**
+**Organismes de surveillance informés de la décision**
 
-- **(3)** Si la décision vise l’un des renseignements ci-après, le ministre compétent communique la décision et les motifs :
-	- **a)** s’agissant d’un renseignement qui relève de la Gendarmerie royale du Canada, à la Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada;
-	- **b)** s’agissant d’un renseignement qui relève du Centre de la sécurité des télécommunications, au commissaire du Centre de la sécurité des télécommunications;
-	- **c)** s’agissant d’un renseignement qui relève du Service canadien du renseignement de sécurité, au comité de surveillance des activités de renseignement de sécurité.
+- **(3)** Le ministre compétent communique la décision et les motifs à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement et, s’il s’agit d’un renseignement qui relève de la Gendarmerie royale du Canada, à la Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada.
+> 2017, ch. 15, art. 162019, ch. 13, art. 49
+
 
 
 
@@ -397,8 +404,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **23** Le Comité peut communiquer :
 - **a)** à la Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada tout renseignement qu’il a obtenu de la Gendarmerie royale du Canada — ou qu’il a créé à partir d’un renseignement ainsi obtenu — et qui est lié à l’exercice du mandat de la Commission;
-- **b)** au commissaire du Centre de la sécurité des télécommunications tout renseignement qu’il a obtenu du Centre de la sécurité des télécommunications — ou qu’il a créé à partir d’un renseignement ainsi obtenu — et qui est lié à l’exercice du mandat du commissaire;
-- **c)** au comité de surveillance des activités de renseignement de sécurité tout renseignement qu’il a obtenu du Service canadien du renseignement de sécurité — ou qu’il a créé à partir d’un renseignement ainsi obtenu — et qui est lié à l’exercice du mandat du comité.
+- **b)** à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement tout renseignement qui est lié à l’exercice des attributions conférées à cet office par les alinéas 8(1)a) à c) de la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md).
+- **c)** [Abrogé, 2019, ch. 13, art. 49]
+> 2017, ch. 15, art. 232019, ch. 13, art. 49
+
 
 
 
@@ -473,7 +482,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Personnel**
 
-**30** Le personnel du Secrétariat est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+**30** Le personnel du Secrétariat est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 
 
