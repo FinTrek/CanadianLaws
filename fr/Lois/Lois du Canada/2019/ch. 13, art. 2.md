@@ -8,7 +8,7 @@
 Sanctionnée sur le 21 juin 2019
 
 ```
-[Édictée par l’article 2 du chapitre 13 des Lois du Canada (2019), non en vigueur.]
+[Édictée par l’article 2 du chapitre 13 des Lois du Canada (2019), en vigueur le 12 juillet 2019, voir TR/2019-67.]
 ```
 ----------
 
@@ -54,7 +54,11 @@ Sanctionnée sur le 21 juin 2019
 
 ***Office de surveillance*** L’Office de surveillance des activités en matière de sécurité nationale et de renseignement, constitué par l’article 3. (*Review Agency*)
 
-***organisme de surveillance*** La Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada, constituée par le paragraphe 45.29(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md). (*review body*)
+***organisme de surveillance***
+- **a)** La Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada, constituée par le paragraphe 45.29(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md);
+- **b)** le Comité des parlementaires sur la sécurité nationale et le renseignement. (*review body*)
+> 2019, ch. 13, art. 2 « 2 »2019, ch. 13, art. 49
+
 
 
 
@@ -212,7 +216,9 @@ Sanctionnée sur le 21 juin 2019
 - **a)** relativement à une plainte présentée au titre du paragraphe 16(1), les informations liées à la plainte qui relèvent du Service canadien du renseignement de sécurité ou du Centre de la sécurité des télécommunications ou qui sont en la possession de l’un d’eux;
 - **b)** relativement à une plainte présentée au titre du paragraphe 17(1), les informations liées à la plainte qui relèvent du Service canadien du renseignement de sécurité ou du Centre de la sécurité des télécommunications ou qui sont en la possession de l’un d’eux;
 - **c)** relativement à une plainte présentée au titre du paragraphe 18(3), les informations liées à la plainte qui relèvent de l’administrateur général concerné, du Service canadien du renseignement de sécurité ou du Centre de la sécurité des télécommunications ou qui sont en la possession de l’un d’eux;
-- **d)** relativement à une plainte qui lui est renvoyée au titre des paragraphes 45.53(4.1) ou 45.67(2.1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), les informations liées à la plainte qui relèvent de l’organisme de surveillance, de la Gendarmerie royale du Canada, du Service canadien du renseignement de sécurité ou du Centre de la sécurité des télécommunications ou qui sont en la possession de l’un d’eux.
+- **d)** relativement à une plainte qui lui est renvoyée au titre des paragraphes 45.53(4.1) ou 45.67(2.1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), les informations liées à la plainte qui relèvent de la Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada, constituée par le paragraphe 45.29(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), de la Gendarmerie royale du Canada, du Service canadien du renseignement de sécurité ou du Centre de la sécurité des télécommunications ou qui sont en la possession de l’un d’eux.
+> 2019, ch. 13, art. 2 « 10 »2019, ch. 13, art. 49
+
 
 
 
@@ -247,7 +253,9 @@ Sanctionnée sur le 21 juin 2019
 
 **Coopération**
 
-**13** L’Office de surveillance et l’organisme de surveillance prennent toute mesure raisonnable pour coopérer afin d’éviter que l’exercice du mandat de l’Office de surveillance ne fasse double emploi avec l’exercice du mandat de l’organisme de surveillance.
+**13** L’Office de surveillance et chacun des organismes de surveillance prennent toute mesure raisonnable pour coopérer afin d’éviter que l’exercice du mandat de l’Office de surveillance ne fasse double emploi avec l’exercice du mandat de l’un ou l’autre des organismes de surveillance.
+> 2019, ch. 13, art. 2 « 13 »2019, ch. 13, art. 49
+
 
 
 
@@ -261,19 +269,40 @@ Sanctionnée sur le 21 juin 2019
 **Exception**
 
 - **(2)** Il ne peut lui communiquer une information visée à l’article 12.
+> 2019, ch. 13, art. 2 « 14 »2019, ch. 13, art. 49(A)
 
 
 
 
-**Communication d’informations à l’organisme de surveillance**
+
+**Commission civile d’examen et de traitement des plaintes**
 
 **15** 
 
-- **(1)** L’Office de surveillance peut communiquer à l’organisme de surveillance les informations qu’il a obtenues de la Gendarmerie royale du Canada — ou qu’il a créées à partir d’une information ainsi obtenue — s’il estime qu’elles sont liées à l’exercice des attributions conférées à l’organisme de surveillance par le paragraphe 45.34(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
+- **(1)** L’Office de surveillance peut communiquer à la Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada les informations qu’il a obtenues de la Gendarmerie royale du Canada — ou qu’il a créées à partir d’une information ainsi obtenue — s’il estime qu’elles sont liées à l’exercice des attributions conférées à cette commission par le paragraphe 45.34(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
 
 **Exception**
 
 - **(2)** Il ne peut lui communiquer un renseignement visé au paragraphe 45.42(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
+> 2019, ch. 13, art. 2 « 15 »2019, ch. 13, art. 49
+
+
+
+
+
+**Comité des parlementaires sur la sécurité nationale et le renseignement**
+
+**15.1** 
+
+- **(1)** L’Office de surveillance peut communiquer au Comité des parlementaires sur la sécurité nationale et le renseignement toute information qu’il estime liée à l’exercice du mandat conféré à ce comité par l’article 8 de la [Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](/fr/Lois/Lois%20du%20Canada/2017/ch.%2015.md).
+
+**Exception**
+
+- **(2)** Il ne peut lui communiquer :
+	- **a)** des renseignements visés à l’article 14 de la [Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](/fr/Lois/Lois%20du%20Canada/2017/ch.%2015.md);
+	- **b)** des renseignements visés par une décision qui lui a été communiquée en application du paragraphe 16(3) de cette loi.
+> 2019, ch. 13, art. 49
+
 
 
 
@@ -685,7 +714,7 @@ Sanctionnée sur le 21 juin 2019
 
 **Activités politiques**
 
-- **(3)** La partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’applique au directeur général et aux employés du Secrétariat. Pour l’application de cette partie, le directeur général est réputé être un ***administrateur général*** au sens du paragraphe 2(1) de cette loi, et les employés du Secrétariat, des fonctionnaires, au sens de ce paragraphe.
+- **(3)** La partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md) s’applique au directeur général et aux employés du Secrétariat. Pour l’application de cette partie, le directeur général est réputé être un ***administrateur général*** au sens du paragraphe 2(1) de cette loi, et les employés du Secrétariat, des fonctionnaires, au sens de ce paragraphe.
 
 
 
@@ -794,5 +823,235 @@ Sanctionnée sur le 21 juin 2019
 - **a)** tout ministre fédéral à titre de ministre chargé de l’application de la présente loi;
 - **b)** toute personne à titre d’administrateur général d’un secteur de l’administration publique fédérale pour l’application de l’alinéa e) de la définition de administrateur général à l’article 2;
 - **c)** tout commissaire nommé en vertu de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) à titre d’administrateur général d’une enquête pour l’application de l’alinéa f) de la définition de administrateur général à l’article 2.
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 13, art. 3
+
+
+**Définitions**
+
+**3** Les définitions qui suivent s’appliquent aux articles 4 à 17.
+
+***ancien comité*** Le comité de surveillance des activités de renseignement de sécurité constitué par le paragraphe 34(1) de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md), dans sa version antérieure à l’entrée en vigueur de l’article 2. (*former Committee*)
+
+***ancien commissaire*** Le commissaire du Centre de la sécurité des télécommunications nommé en vertu du paragraphe 273.63(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), dans sa version antérieure à l’entrée en vigueur de l’article 68. (*former Commissioner*)
+
+***nouvel office*** L’Office de surveillance des activités en matière de sécurité nationale et de renseignement. (*new Agency*)
+
+
+
+######           — 2019, ch. 13, art. 4
+
+
+**Président de l’ancien comité**
+
+**4** 
+
+- **(1)** La personne qui, à l’entrée en vigueur de l’article 2, est président de l’ancien comité cesse de l’être mais est maintenue en poste comme membre du nouvel office jusqu’à l’expiration de son mandat.
+
+**Membres de l’ancien comité**
+
+- **(2)** Les membres de l’ancien comité qui sont en fonctions à l’entrée en vigueur de l’article 2 sont maintenus en poste comme membre du nouvel office jusqu’à l’expiration de leur mandat.
+
+**Désignation du président du nouvel office**
+
+- **(3)** Dans les meilleurs délais après l’entrée en vigueur de l’article 2, le gouverneur en conseil désigne, en vertu du paragraphe 4(5) de la Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement, le président du nouvel office parmi les membres visés aux paragraphes (1) ou (2) ou nommés en vertu du paragraphe 4(1) de cette loi.
+
+
+
+######           — 2019, ch. 13, art. 5
+
+
+**Personnel de l’ancien comité**
+
+**5** 
+
+- **(1)** La présente partie ne change rien à la situation des membres du personnel qui, à l’entrée en vigueur de l’article 2, occupent un poste au sein de l’ancien comité, à la différence près que, à compter de cette entrée en vigueur, ils l’occupent au sein du secrétariat du nouvel office.
+
+**Poste de direction ou de confiance**
+
+- **(2)** Il est entendu que la situation d’un membre du personnel vise également le fait qu’il occupe ou non un poste de direction ou de confiance.
+
+
+
+######           — 2019, ch. 13, art. 6
+
+
+**Attributions**
+
+**6** Tout membre du personnel visé à l’article 5 qui est autorisé par l’ancien comité à exercer toute attribution relativement à une affaire dont ce dernier est saisi avant la date d’entrée en vigueur de l’article 2 le demeure.
+
+
+
+######           — 2019, ch. 13, art. 7
+
+
+**Transfert de crédits**
+
+**7** Les sommes affectées — et non déboursées —, pour l’exercice en cours à l’entrée en vigueur de l’article 2, par toute loi fédérale, aux dépenses de l’ancien comité sont réputées avoir été affectées aux dépenses du nouvel office.
+
+
+
+######           — 2019, ch. 13, art. 8
+
+
+**Transfert des droits et obligations**
+
+**8** Les biens et les droits de Sa Majesté du chef du Canada dont la gestion était confiée à l’ancien comité ainsi que les biens, les droits et les obligations de celui-ci sont transférés au nouvel office.
+
+
+
+######           — 2019, ch. 13, art. 9
+
+
+**Contrat**
+
+**9** Le contrat relatif à la fourniture de services ou de matériel à l’ancien comité conclu avant la date d’entrée en vigueur de l’article 2 est réputé avoir été conclu par le directeur général du secrétariat du nouvel office.
+
+
+
+######           — 2019, ch. 13, art. 10
+
+
+**Informations — ancien comité**
+
+**10** L’ancien comité remet toute information relevant de lui au nouvel office, notamment les informations relatives aux plaintes dont il est saisi avant la date d’entrée en vigueur de l’article 2 ou aux examens et enquêtes en cours à cette date.
+
+
+
+######           — 2019, ch. 13, art. 11
+
+
+**Plaintes — ancien comité**
+
+**11** 
+
+- **(1)** Le nouvel office est saisi des plaintes présentées à l’ancien comité avant la date d’entrée en vigueur de l’article 2 et celles-ci sont réputées avoir été présentées au nouvel office.
+
+**Rapports et affaires**
+
+- **(2)** Le nouvel office est saisi des rapports visés à l’article 19 de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) et des affaires visées à l’article 45 de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) transmis, avant la date d’entrée en vigueur de l’article 2, à l’ancien comité et ces rapports et affaires sont réputés avoir été transmis au nouvel office.
+
+
+
+######           — 2019, ch. 13, art. 12
+
+
+**Premiers rapports**
+
+**12** 
+
+- **(1)** Le premier rapport présenté par le nouvel office en application du paragraphe 32(1) de la Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement et le premier rapport présenté par celui-ci en application du paragraphe 38(1) de cette loi visent notamment toute période à l’égard de laquelle l’ancien comité n’a pas encore présenté de rapport en application de l’article 53 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md), dans sa version antérieure à l’entrée en vigueur de l’article 2.
+
+**Premiers rapports — Centre de la sécurité des télécommunications**
+
+- **(2)** Le premier rapport présenté par le nouvel office en application du paragraphe 33(1) de la Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement et le premier rapport présenté par celui-ci en application du paragraphe 38(1) de cette loi visent notamment toute période à l’égard de laquelle l’ancien commissaire n’a pas encore présenté de rapport en application du paragraphe 273.63(3) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), dans sa version antérieure à l’entrée en vigueur de l’article 2.
+
+
+
+######           — 2019, ch. 13, art. 13
+
+
+**Nouvelles instances**
+
+**13** 
+
+- **(1)** Les instances judiciaires ou administratives qui auraient pu être intentées contre l’ancien comité peuvent être intentées contre le nouvel office devant tout tribunal qui aurait eu compétence pour être saisi des instances si elles avaient été intentées contre l’ancien comité.
+
+**Instances en cours**
+
+- **(2)** Le nouvel office prend la suite de l’ancien comité, au même titre et dans les mêmes conditions que celui-ci, comme partie aux instances judiciaires ou administratives en cours à l’entrée en vigueur de l’article 2 et auxquelles l’ancien comité est partie.
+
+
+
+######           — 2019, ch. 13, art. 14
+
+
+**Absence de droit à réclamation**
+
+**14** Malgré les dispositions de tout contrat, accord ou décret, la personne nommée président de l’ancien comité et les personnes nommées membres de l’ancien comité n’ont aucun droit de réclamer ou de recevoir une compensation, des dommages-intérêts, une indemnité ou toute autre forme de dédommagement de Sa Majesté du chef du Canada ou de ses employés ou mandataires parce que leur mandat a pris fin ou en raison de l’abolition de leur poste par application de la présente partie.
+
+
+
+######           — 2019, ch. 13, art. 15
+
+
+**Informations — ancien commissaire**
+
+**15** L’ancien commissaire remet au nouvel office toute information relevant de lui, notamment les informations relatives aux plaintes dont il est saisi avant la date d’entrée en vigueur de l’article 2 ou aux examens et enquêtes en cours à cette date.
+
+
+
+######           — 2019, ch. 13, art. 16
+
+
+**Plaintes — ancien commissaire**
+
+**16** Le nouvel office est saisi des plaintes présentées à l’ancien commissaire avant la date d’entrée en vigueur de l’article 2 et celles-ci sont réputées avoir été présentées au nouvel office.
+
+
+
+######           — 2019, ch. 13, art. 17
+
+
+**Nouvelles instances**
+
+**17** 
+
+- **(1)** Les instances judiciaires ou administratives qui auraient pu être intentées contre l’ancien commissaire et qui concernent les examens ou enquêtes peuvent être intentées contre le nouvel office devant tout tribunal qui aurait eu compétence pour être saisi des instances si elles avaient été intentées contre l’ancien commissaire.
+
+**Instances en cours**
+
+- **(2)** Le nouvel office prend la suite de l’ancien commissaire, au même titre et dans les mêmes conditions que celui-ci, comme partie aux instances judiciaires ou administratives en cours à l’entrée en vigueur de l’article 2 qui concernent les examens et enquêtes auxquelles l’ancien commissaire est partie.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 13, art. 48
+
+
+**
+> Partie 3 de la présente loi
+**
+
+**48** Dès le premier jour où l’article 2 et l’article 76 de la présente loi sont tous deux en vigueur, le paragraphe 17(2) de la Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement est remplacé par ce qui suit :
+
+**Restriction**
+
+- **(2)** L’Office de surveillance ne peut enquêter sur une plainte qui constitue un grief susceptible d’être réglé par la procédure de griefs établie en vertu de la [Loi sur le Centre de la sécurité des télécommunications](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2076.md) ou de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+
+
+
+######           — 2019, ch. 13, art. 82
+
+
+**Mentions**
+
+**82** 
+
+- **(1)** La mention de l’ancien ministère dans les textes ci-après vaut mention du nouveau ministère :
+	- **a)** l’annexe I de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), sous l’intertitre « Autres institutions fédérales »;
+	- **b)** les annexes I.1, V et VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **c)** l’annexe de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), sous l’intertitre « Autres institutions fédérales »;
+	- **d)** l’annexe de la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md);
+	- **e)** l’annexe 3 de la Loi sur la communication d’information ayant trait à la sécurité du Canada;
+	- **f)** la Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement;
+	- **g)** la [Loi sur le commissaire au renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2050.md).
+
+**Autres mentions**
+
+- **(1.1)** La mention de l’ancien ministère dans toute loi fédérale, autre qu’une loi visée au paragraphe (1), et dans ses textes d’application vaut mention, sauf indication contraire du contexte, du nouveau ministère.
+
+**Administrateur général**
+
+- **(2)** La désignation de toute personne à titre d’administrateur général de l’ancien ministère dans tout décret pris en vertu de l’article 55 de la Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement vaut désignation du chef du nouveau ministère à titre d’administrateur général de celui-ci.
+
 
 
