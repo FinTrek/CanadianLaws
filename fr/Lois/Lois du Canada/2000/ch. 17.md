@@ -25,7 +25,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titre abrégé**
 
 **1** Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes.
-> 2000, ch. 17, art. 1; 2001, ch. 41, art. 48.
+> 2000, ch. 17, art. 1; 2001, ch. 41, art. 48
 
 
 
@@ -92,7 +92,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** renseignements identificateurs, pour l’application du paragraphe 54.1(3);
 	- **e)** monnaie virtuelle;
 	- **f)** commerce de monnaie virtuelle.
-> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145; 2006, ch. 12, art. 1; 2010, ch. 12, art. 1862; 2014, ch. 20, art. 254; 2017, ch. 20, art. 407; 2019, ch. 29, art. 104.
+> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145; 2006, ch. 12, art. 1; 2010, ch. 12, art. 1862; 2014, ch. 20, art. 254; 2017, ch. 20, art. 4072019, ch. 29, art. 104
 
 
 
@@ -112,7 +112,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** de combattre le crime organisé en fournissant aux responsables de l’application de la loi les renseignements leur permettant de priver les criminels du produit de leurs activités illicites, tout en assurant la mise en place des garanties nécessaires à la protection de la vie privée des personnes à l’égard des renseignements personnels les concernant;
 - **c)** d’aider le Canada à remplir ses engagements internationaux dans la lutte contre le crime transnational, particulièrement le recyclage des produits de la criminalité, et la lutte contre les activités terroristes;
 - **d)** de renforcer la capacité du Canada de prendre des mesures ciblées pour protéger son système financier et de faciliter les efforts qu’il déploie pour réduire le risque que ce système puisse servir de véhicule pour le recyclage des produits de la criminalité et le financement des activités terroristes.
-> 2000, ch. 17, art. 3; 2001, ch. 41, art. 50; 2010, ch. 12, art. 1863; 2014, ch. 20, art. 255.
+> 2000, ch. 17, art. 3; 2001, ch. 41, art. 50; 2010, ch. 12, art. 1863; 2014, ch. 20, art. 255
 
 
 
@@ -159,7 +159,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **k.3)** le conseil d’une foire ou d’une exposition, ou l’exploitant d’une concession louée auprès du conseil, qui, dans le cadre de l’alinéa 207(1)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes;
 - **l)** les ministères et les mandataires de Sa Majesté du chef du Canada ou d’une province qui acceptent des dépôts, qui émettent ou vendent des mandats-poste au public ou les rachètent du public ou qui vendent des métaux précieux réglementaires, lorsqu’ils exercent les activités prévues par règlement;
 - **m)** les employés des personnes et entités visées à l’un des alinéas a) à l), pour l’application de l’article 7.
-> 2000, ch. 17, art. 5; 2001, ch. 41, art. 51; 2006, ch. 12, art. 3; 2014, ch. 20, art. 256; 2017, ch. 20, art. 408; 2018, ch. 29, art. 78.
+> 2000, ch. 17, art. 5; 2001, ch. 41, art. 51; 2006, ch. 12, art. 3; 2014, ch. 20, art. 256; 2017, ch. 20, art. 408; 2018, ch. 29, art. 78
 
 
 
@@ -172,7 +172,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Tenue de documents**
 
 **6** Il incombe à toute personne ou entité visée à l’article 5 de tenir des documents conformément aux règlements.
-> 2000, ch. 17, art. 6; 2006, ch. 12, art. 4; 2017, ch. 20, art. 409.
+> 2000, ch. 17, art. 6; 2006, ch. 12, art. 4; 2017, ch. 20, art. 409
 
 
 
@@ -181,7 +181,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification d’identité**
 
 **6.1** La personne ou entité visée à l’article 5 est tenue de vérifier l’identité d’une personne ou entité conformément aux règlements.
-> 2006, ch. 12, art. 4; 2017, ch. 20, art. 409.
+> 2006, ch. 12, art. 4; 2017, ch. 20, art. 409
 
 
 
@@ -196,7 +196,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **7** Il incombe, sous réserve de l’article 10.1, à toute personne ou entité visée à l’article 5 de déclarer au Centre, conformément aux règlements, toute opération financière qu’on a effectuée ou tentée dans le cours de ses activités et à l’égard de laquelle il y a des motifs raisonnables de soupçonner qu’elle est liée à la perpétration — réelle ou tentée —, selon le cas :
 - **a)** d’une infraction de recyclage des produits de la criminalité;
 - **b)** d’une infraction de financement des activités terroristes.
-> 2000, ch. 17, art. 7; 2001, ch. 41, art. 52; 2006, ch. 12, art. 5; 2017, ch. 20, art. 410.
+> 2000, ch. 17, art. 7; 2001, ch. 41, art. 52; 2006, ch. 12, art. 5; 2017, ch. 20, art. 410
 
 
 
@@ -211,7 +211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exemption**
 
 - **(2)** Le paragraphe (1) ne s’applique pas aux personnes ou entités — ou aux catégories de personnes ou d’entités — visées par règlement à l’égard d’opérations, de catégories d’opérations, de biens ou de catégories de biens visés par règlement, si les conditions réglementaires sont remplies.
-> 2001, ch. 41, art. 52; 2006, ch. 12, art. 6; 2017, ch. 20, art. 411.
+> 2001, ch. 41, art. 52; 2006, ch. 12, art. 6; 2017, ch. 20, art. 411
 
 
 
@@ -220,7 +220,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Confidentialité**
 
 **8** Nul ne peut révéler qu’il a fait, fait ou fera une déclaration en application de l’article 7 ou en dévoiler le contenu dans l’intention de nuire à une enquête criminelle en cours ou à venir.
-> 2000, ch. 17, art. 8; 2017, ch. 20, art. 412.
+> 2000, ch. 17, art. 8; 2017, ch. 20, art. 412
 
 
 
@@ -241,7 +241,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Liste des exemptions**
 
 - **(3)** Il incombe à toute personne ou entité visée à l’article 5 de dresser et de maintenir, selon les modalités réglementaires, une liste des clients à l’égard desquels elle aurait été tenue, n’était le paragraphe (2), de faire une déclaration en application du paragraphe (1). Néanmoins, elle peut choisir de se conformer au paragraphe (1) à l’égard d’un client au lieu d’inscrire celui-ci sur une telle liste.
-> 2000, ch. 17, art. 9; 2006, ch. 12, art. 7; 2010, ch. 12, art. 1864; 2017, ch. 20, art. 413.
+> 2000, ch. 17, art. 9; 2006, ch. 12, art. 7; 2010, ch. 12, art. 1864; 2017, ch. 20, art. 413
 
 
 
@@ -250,7 +250,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Déclaration**
 
 **9.1** Sous réserve de l’article 9, il incombe à toute personne ou entité qui est tenue de faire une déclaration au Centre sous le régime d’une autre loi fédérale de la faire selon les modalités et dans le délai réglementaires prescrits sous le régime de la présente loi.
-> 2001, ch. 41, art. 53; 2017, ch. 20, art. 414.
+> 2001, ch. 41, art. 53; 2017, ch. 20, art. 414
 
 
 
@@ -259,7 +259,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Impossibilité de vérifier l’identité**
 
 **9.2** Il est interdit à toute personne ou entité visée à l’article 5 d’ouvrir un compte pour lequel elle ne peut vérifier l’identité du client en conformité avec les règlements.
-> 2006, ch. 12, art. 8; 2017, ch. 20, art. 414.
+> 2006, ch. 12, art. 8; 2017, ch. 20, art. 414
 
 
 
@@ -312,7 +312,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **i)** chef ou président d’un parti politique représenté au sein de l’assemblée législative;
 - **j)** titulaire d’un poste ou d’une charge visés par règlement;
 - **k)** maire. (*politically exposed domestic person*)
-> 2006, ch. 12, art. 8; 2014, ch. 20, art. 258; 2017, ch. 20, art. 439; 2019, ch. 29, art. 105.
+> 2006, ch. 12, art. 8; 2014, ch. 20, art. 258; 2017, ch. 20, art. 4392019, ch. 29, art. 105
 
 
 
@@ -327,7 +327,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de relation de correspondant bancaire**
 
 - **(2)** Pour l’application du présent article, ***relation de correspondant bancaire*** s’entend de la relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d) et e) ou une autre entité mentionnée à l’article 5 et visée par règlement s’engage à fournir à une personne ou entité visée à l’alinéa 5h.1) des services tels les télévirements internationaux, la gestion de trésorerie, la compensation de chèques et tout service prévu par règlement.
-> 2014, ch. 20, art. 258.
+> 2014, ch. 20, art. 258
 
 
 
@@ -351,7 +351,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de relation de correspondant bancaire**
 
 - **(3)** Pour l’application du présent article, ***relation de correspondant bancaire*** s’entend de la relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d) et e) ou une autre entité mentionnée à l’article 5 et visée par règlement s’engage à fournir à une entité étrangère visée par règlement des services tels les télévirements internationaux, la gestion de trésorerie, la compensation de chèques et tout autre service prévu par règlement.
-> 2006, ch. 12, art. 8; 2014, ch. 20, art. 259; 2017, ch. 20, art. 415.
+> 2006, ch. 12, art. 8; 2014, ch. 20, art. 259; 2017, ch. 20, art. 415
 
 
 
@@ -363,7 +363,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** d’inclure avec le télévirement les nom, adresse et, le cas échéant, numéro de compte ou tout autre numéro de référence de la personne ou de l’entité qui demande le télévirement et tout renseignement prévu par règlement;
 - **b)** de prendre des mesures raisonnables afin de veiller à ce que ces renseignements accompagnent tout télévirement qu’elle reçoit;
 - **c)** de prendre toute autre mesure prévue par règlement.
-> 2006, ch. 12, art. 8; 2019, ch. 29, art. 106.
+> 2006, ch. 12, art. 82019, ch. 29, art. 106
 
 
 
@@ -382,7 +382,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mesures spéciales**
 
 - **(3)** La personne ou entité prend les mesures spéciales prévues par règlement dans les circonstances réglementaires ou si, à un moment donné, elle estime que les risques visés au paragraphe (2) sont élevés.
-> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1865; 2017, ch. 20, art. 416.
+> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1865; 2017, ch. 20, art. 416
 
 
 
@@ -407,7 +407,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Tenue de documents**
 
 - **(4)** L’entité tient un document où sont consignés, en application de l’article 6, les cas où une de ses succursales étrangères ou de ses filiales étrangères ne peut pas mettre en application un principe visé au paragraphe (1) parce que cela n’est pas permis par les lois de l’État étranger où la succursale étrangère ou la filiale étrangère se trouve ou entrerait en conflit avec les lois de cet État étranger, motifs à l’appui, et les signale dans un délai raisonnable au Centre et à l’autorité ou à l’organisme principal de surveillance ou de réglementation dont elle relève sous le régime d’une loi fédérale ou provinciale.
-> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866; 2014, ch. 20, art. 260; 2017, ch. 20, art. 418.
+> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866; 2014, ch. 20, art. 260; 2017, ch. 20, art. 418
 
 
 
@@ -422,7 +422,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Même groupe**
 
 - **(2)** Pour l’application du paragraphe (1), sont du même groupe les entités dont l’une est entièrement propriétaire de l’autre, celles qui sont entièrement la propriété de la même entité ou celles dont les états financiers sont consolidés.
-> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866; 2014, ch. 20, art. 260.
+> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866; 2014, ch. 20, art. 260
 
 
 
@@ -431,7 +431,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Immunité**
 
 **10** Nul ne peut être poursuivi pour avoir fait de bonne foi une déclaration au titre des articles 7, 7.1 ou 9 ou pour avoir fourni au Centre des renseignements qui se rapportent à des soupçons de recyclage des produits de la criminalité ou de financement des activités terroristes.
-> 2000, ch. 17, art. 10; 2001, ch. 41, art. 53.
+> 2000, ch. 17, art. 10; 2001, ch. 41, art. 53
 
 
 
@@ -440,7 +440,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application aux conseillers juridiques**
 
 **10.1** Les articles 7 et 9 ne s’appliquent pas aux personnes ni aux entités visées aux alinéas 5i) ou j) qui sont, selon le cas, des conseillers juridiques ou des cabinets juridiques, lorsqu’elles fournissent des services juridiques.
-> 2006, ch. 12, art. 9; 2010, ch. 12, art. 1867(F).
+> 2006, ch. 12, art. 9; 2010, ch. 12, art. 1867(F)
 
 
 
@@ -449,7 +449,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Secret professionnel**
 
 **11** La présente loi n’a pas pour effet de porter atteinte au secret professionnel du conseiller juridique.
-> 2000, ch. 17, art. 11; 2010, ch. 12, art. 1868(A); 2013, ch. 40, art. 279 et 281(A).
+> 2000, ch. 17, art. 11; 2010, ch. 12, art. 1868(A); 2013, ch. 40, art. 279 et 281(A)
 
 
 
@@ -466,7 +466,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de s’inscrire**
 
 **11.1** Sauf si un règlement le prévoit autrement, sont inscrites auprès du Centre, en conformité avec le présent article et les articles 11.11 à 11.2, les personnes ou entités visées à l’alinéa 5h), celles visées à l’alinéa 5l) qui émettent ou vendent au public des mandats-poste ou les rachètent du public ainsi que toutes celles qui sont visées à l’article 5 et visées par règlement.
-> 2006, ch. 12, art. 10; 2017, ch. 20, art. 419.
+> 2006, ch. 12, art. 10; 2017, ch. 20, art. 419
 
 
 
@@ -498,7 +498,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation**
 
 - **(2)** Si le Centre prend connaissance du fait qu’une personne ou entité visée au paragraphe (1) est inscrite, il révoque l’inscription et en avise sans délai la personne ou entité.
-> 2006, ch. 12, art. 11; 2014, ch. 20, art. 262; 2017, ch. 20, art. 420; 2018, ch. 16, art. 183.
+> 2006, ch. 12, art. 11; 2014, ch. 20, art. 262; 2017, ch. 20, art. 420; 2018, ch. 16, art. 183
 
 
 
@@ -513,7 +513,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mandataires et succursales**
 
 - **(2)** Les mandataires et succursales qui figurent sur la liste ne sont pas tenus de s’inscrire auprès du Centre pour les activités qu’ils exercent à ce titre.
-> 2006, ch. 12, art. 11; 2017, ch. 20, art. 421.
+> 2006, ch. 12, art. 11; 2017, ch. 20, art. 421
 
 
 
@@ -522,7 +522,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modifications**
 
 **11.13** Dans les trente jours suivant la date où il prend connaissance de toute modification des renseignements fournis dans sa demande ou qu’il obtient de nouveaux renseignements qui auraient dû y figurer, le demandeur ou l’inscrit, selon le cas, communique les renseignements modifiés ou nouveaux au Centre selon les modalités réglementaires.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -537,7 +537,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Refus**
 
 - **(2)** Faute par le demandeur d’obtempérer dans le délai prévu au paragraphe (1), le Centre peut refuser la demande et, le cas échéant, en avise sans délai le demandeur.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -546,7 +546,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Confirmation**
 
 **11.15** L’inscription auprès du Centre prend effet dès qu’elle est faite sur le registre visé au paragraphe 54.1(1); le Centre avise sans délai le demandeur de l’inscription.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -555,7 +555,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Demande refusée**
 
 **11.16** Le Centre refuse la demande d’inscription de la personne ou entité visée au paragraphe 11.11(1) et l’en avise sans délai.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -570,7 +570,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation**
 
 - **(2)** Si l’inscrit ne lui fournit pas les précisions dans le délai prévu au paragraphe (1), le Centre peut révoquer son inscription et, le cas échéant, l’en avise sans délai.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -579,7 +579,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision écrite et motivée**
 
 **11.18** La décision de refuser une demande d’inscription ou de révoquer une inscription est écrite et motivée.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -588,7 +588,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renouvellement de l’inscription**
 
 **11.19** Tout inscrit auprès du Centre est tenu de renouveler son inscription, selon les modalités réglementaires, tous les deux ans ou dans le délai plus long prévu par règlement.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -597,7 +597,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cessation d’activité**
 
 **11.2** Tout inscrit auprès du Centre qui cesse une activité pour laquelle il est inscrit est tenu d’en aviser le Centre, selon les modalités réglementaires, dans les trente jours suivant la cessation.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -620,7 +620,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision du directeur**
 
 - **(3)** Il peut soit confirmer la décision soit y substituer sa propre décision. Il fait signifier sans délai sa décision, motifs à l’appui, à l’intéressé, et avise celui-ci par la même occasion de son droit d’interjeter appel en vertu du paragraphe 11.4(1).
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -643,7 +643,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Huis clos**
 
 - **(3)** À l’occasion d’un appel, la Cour fédérale prend toutes les précautions possibles, notamment en ordonnant le huis clos si elle le juge indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements prévus au paragraphe 55(1).
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11
 
 
 
@@ -661,7 +661,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de entité étrangère**
 
 **11.41** Pour l’application de la présente partie, ***entité étrangère*** s’entend d’une entité, à l’exception d’une entité visée à l’article 5, qui est constituée en personne morale ou formée sous le régime de la législation d’un État étranger, notamment toute filiale de celle-ci, et qui n’exerce pas ses activités au Canada, dans le cas où elle exerce des activités semblables à celles des entités visées à l’un des alinéas 5a) à g) ou à celles prévues aux alinéas 5h) ou h.1).
-> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 267; 2017, ch. 20, art. 422.
+> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 267; 2017, ch. 20, art. 422
 
 
 
@@ -704,7 +704,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conditions**
 
 - **(5)** Il peut assortir la directive des conditions qu’il estime appropriées.
-> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 268; 2017, ch. 20, art. 423.
+> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 268; 2017, ch. 20, art. 423
 
 
 
@@ -713,7 +713,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de se conformer**
 
 **11.43** La personne ou l’entité visée par la directive donnée au titre de la présente partie est tenue de s’y conformer selon les modalités de temps et autres qui y sont précisées.
-> 2010, ch. 12, art. 1869.
+> 2010, ch. 12, art. 1869
 
 
 
@@ -728,7 +728,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Tenue de documents**
 
 - **(2)** L’entité tient un document où sont consignés, en application de l’article 6, les cas où une de ses succursales ou de ses filiales ne peut se conformer à une directive parce que cela n’est pas permis par les lois de l’État étranger où se trouve la succursale ou la filiale dans lequel elle se trouve ou entrerait en conflit avec les lois de cet État étranger, motifs à l’appui, les signale dans un délai raisonnable au Centre et à l’autorité ou à l’organisme principal de surveillance ou de réglementation dont elle relève sous le régime d’une loi fédérale ou provinciale.
-> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 269; 2017, ch. 20, art. 424.
+> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 269; 2017, ch. 20, art. 424
 
 
 
@@ -741,7 +741,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité**
 
 **11.46** La directive qui a été donnée au titre de la présente partie l’emporte sur tout règlement incompatible pris en vertu de la présente loi.
-> 2010, ch. 12, art. 1869.
+> 2010, ch. 12, art. 1869
 
 
 
@@ -749,8 +749,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**11.47** La directive donnée au titre de la présente partie n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, elle doit être publiée dans la Gazette du Canada.
-> 2010, ch. 12, art. 1869.
+**11.47** La directive donnée au titre de la présente partie n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, elle doit être publiée dans la [Gazette du Canada](http://www.gazette.gc.ca/).
+> 2010, ch. 12, art. 1869
 
 
 
@@ -765,7 +765,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise en compte de facteurs**
 
 - **(2)** Dans le cadre de l’examen, le ministre peut prendre en compte tout facteur qu’il estime pertinent.
-> 2010, ch. 12, art. 1869.
+> 2010, ch. 12, art. 1869
 
 
 
@@ -795,7 +795,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(i)** d’une part, une organisation, un organisme, une association ou une coalition de niveau international ou un groupe d’États — tel le Groupe d’action financière — dont le Canada est membre appelle ses membres à prendre des mesures à l’égard d’un État étranger ou d’une entité étrangère pour le motif que celles prises par cet État ou cette entité pour lutter contre le recyclage des produits de la criminalité ou le financement des activités terroristes sont inefficaces ou inadéquates,
 		- **(ii)** d’autre part, des activités de recyclage des produits de la criminalité ou de financement des activités terroristes risquent d’être exercées dans l’État étranger ou par l’entremise de l’entité étrangère;
 	- **b)** le fait que les mesures prises par un État étranger ou une entité étrangère pour lutter contre le recyclage des produits de la criminalité ou le financement des activités terroristes sont inefficaces ou inadéquates et que le risque que des activités de recyclage des produits de la criminalité ou de financement des activités terroristes soient exercées dans l’État étranger ou par l’entremise de l’entité étrangère est élevé, ce qui, selon le ministre, pourrait porter atteinte à l’intégrité ou poser un risque d’atteinte à la réputation du système financier canadien.
-> 2010, ch. 12, art. 1869.
+> 2010, ch. 12, art. 1869
 
 
 
@@ -810,7 +810,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise en compte de facteurs**
 
 - **(2)** Dans le cadre de l’examen, le ministre peut prendre en compte tout facteur qu’il estime pertinent.
-> 2010, ch. 12, art. 1869.
+> 2010, ch. 12, art. 1869
 
 
 
@@ -819,7 +819,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Succursales étrangères**
 
 **11.6** Toute entité visée à l’un des alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), veille à ce que ses succursales étrangères se conforment, lorsque cela est permis par les lois de l’État étranger où se trouve la succursale et n’entre pas en conflit avec celles-ci, à tout règlement pris en vertu du paragraphe 11.49(1).
-> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 270; 2017, ch. 20, art. 426.
+> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 270; 2017, ch. 20, art. 426
 
 
 
@@ -838,7 +838,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modification, suspension, annulation ou rétablissement**
 
 - **(3)** Le ministre peut modifier, suspendre, annuler ou rétablir le permis.
-> 2010, ch. 12, art. 1869.
+> 2010, ch. 12, art. 1869
 
 
 
@@ -856,7 +856,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de agent**
 
 **11.8** Dans la présente partie, ***agent*** s’entend au sens de ***agent*** et ***agent des douanes*** au paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
-> 2014, ch. 20, art. 271.
+> 2014, ch. 20, art. 271
 
 
 
@@ -894,7 +894,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transmission au Centre**
 
 - **(5)** L’Agence des services frontaliers du Canada fait parvenir au Centre les déclarations recueillies en application du paragraphe (1) et établit, dans la forme prévue par le Centre, une version électronique des renseignements contenus dans chaque déclaration qu’elle transmet au Centre par les moyens électroniques prévus par celui-ci.
-> 2000, ch. 17, art. 12; 2001, ch. 41, art. 54; 2006, ch. 12, art. 12(F); 2014, ch. 20, art. 272.
+> 2000, ch. 17, art. 12; 2001, ch. 41, art. 54; 2006, ch. 12, art. 12(F); 2014, ch. 20, art. 272
 
 
 
@@ -932,7 +932,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Confiscation**
 
 - **(5)** Les espèces ou effets retenus en vertu du paragraphe (1) sont confisqués au profit de Sa Majesté du chef du Canada à l’expiration de la période visée à ce paragraphe et l’agent transmet au Centre toute déclaration incomplète entreprise dans le cadre du paragraphe 12(1) à l’égard de ces espèces ou effets.
-> 2000, ch. 17, art. 14; 2018, ch. 27, art. 175.
+> 2000, ch. 17, art. 14; 2018, ch. 27, art. 175
 
 
 
@@ -962,7 +962,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Identité de sexe**
 
 - **(4)** L’agent ne peut fouiller une personne de sexe opposé. Faute de collègue du même sexe que celle-ci sur le lieu de la fouille, il peut autoriser toute personne de ce sexe présentant les qualités voulues à y procéder.
-> 2000, ch. 17, art. 15; 2001, ch. 41, art. 55.
+> 2000, ch. 17, art. 15; 2001, ch. 41, art. 55
 
 
 
@@ -977,7 +977,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fouille des bagages**
 
 - **(2)** L’agent peut, afin de vérifier si des espèces ou des effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) se trouvent parmi des bagages et n’ont pas été déclarés conformément à ce paragraphe, fouiller les bagages, examiner toute chose qui s’y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire les bagages à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
-> 2000, ch. 17, art. 16; 2001, ch. 41, art. 56; 2006, ch. 12, art. 13.
+> 2000, ch. 17, art. 16; 2001, ch. 41, art. 56; 2006, ch. 12, art. 13
 
 
 
@@ -990,7 +990,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Un agent peut examiner tout envoi destiné à l’importation ou à l’exportation et ouvrir ou faire ouvrir ceux dont il soupçonne, pour des motifs raisonnables, qu’ils contiennent des espèces ou effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1).
 
 - **(2) et (3)** [Abrogés, 2017, ch. 7, art. 53]
-> 2000, ch. 17, art. 17; 2001, ch. 41, art. 57; 2017, ch. 7, art. 53.
+> 2000, ch. 17, art. 17; 2001, ch. 41, art. 57; 2017, ch. 7, art. 53
 
 
 
@@ -1020,7 +1020,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Signification de l’avis**
 
 - **(4)** Il suffit, pour que l’avis visé à l’alinéa (3)b) soit considéré comme signifié, qu’il soit envoyé en recommandé à l’exportateur.
-> 2000, ch. 17, art. 18; 2001, ch. 32, art. 71, ch. 41, art. 58 et 134.
+> 2000, ch. 17, art. 18; 2001, ch. 32, art. 71, ch. 41, art. 58 et 134
 
 
 
@@ -1043,7 +1043,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapport au président et au Centre**
 
 **20** L’agent qui a saisi les espèces ou effets en vertu de l’article 18 fait aussitôt un rapport au président et au Centre sur les circonstances de la saisie.
-> 2000, ch. 17, art. 20; 2005, ch. 38, art. 127.
+> 2000, ch. 17, art. 20; 2005, ch. 38, art. 127
 
 
 
@@ -1074,7 +1074,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Objets inadmissibles**
 
 - **(5)** Il est disposé conformément aux règlements d’application de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md) des objets inadmissibles que l’agent trouve dans le courrier soumis à son contrôle.
-> 2000, ch. 17, art. 21; 2001, ch. 41, art. 59.
+> 2000, ch. 17, art. 21; 2001, ch. 41, art. 59
 
 
 
@@ -1093,7 +1093,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Saisie ou paiement d’une pénalité**
 
 - **(2)** En cas de saisie d’espèces ou d’effets ou de paiement d’une pénalité réglementaire aux termes du paragraphe 18(2), l’agent les remet au ministre des Travaux publics et des Services gouvernementaux.
-> 2000, ch. 17, art. 22; 2001, ch. 41, art. 60.
+> 2000, ch. 17, art. 22; 2001, ch. 41, art. 60
 
 
 
@@ -1117,7 +1117,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conditions de révision**
 
 **24** La saisie-confiscation d’espèces ou d’effets effectuée en vertu de la présente partie est définitive et n’est susceptible de révision, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues aux articles 24.1 et 25.
-> 2000, ch. 17, art. 24; 2006, ch. 12, art. 14.
+> 2000, ch. 17, art. 24; 2006, ch. 12, art. 14
 
 
 
@@ -1134,7 +1134,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérêt**
 
 - **(2)** La somme qui est remboursée à une personne ou entité en vertu de l’alinéa (1)a) est majorée des intérêts au taux réglementaire, calculés à compter du lendemain du jour du paiement de la somme par celle-ci jusqu’à celui de son remboursement.
-> 2006, ch. 12, art. 14; 2014, ch. 20, art. 273.
+> 2006, ch. 12, art. 14; 2014, ch. 20, art. 273
 
 
 
@@ -1143,7 +1143,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Demande de révision**
 
 **25** La personne entre les mains de qui ont été saisis des espèces ou effets en vertu de l’article 18 ou leur propriétaire légitime peut, dans les quatre-vingt-dix jours suivant la saisie, demander au ministre au moyen d’un avis écrit ou de toute autre manière que celui-ci juge indiquée de décider s’il y a eu contravention au paragraphe 12(1).
-> 2000, ch. 17, art. 25; 2001, ch. 41, art. 61; 2014, ch. 20, art. 274.
+> 2000, ch. 17, art. 25; 2001, ch. 41, art. 61; 2014, ch. 20, art. 274
 
 
 
@@ -1175,7 +1175,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(i)** au cours du délai prévu à l’article 25, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de demander qu’une décision soit rendue,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2014, ch. 20, art. 274.
+> 2014, ch. 20, art. 274
 
 
 
@@ -1205,7 +1205,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(i)** au cours du délai prévu à l’article 25, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de demander qu’une décision soit rendue,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2014, ch. 20, art. 274.
+> 2014, ch. 20, art. 274
 
 
 
@@ -1220,7 +1220,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Moyens de preuve**
 
 - **(2)** Le demandeur dispose de trente jours à compter de la signification de l’avis pour produire tous moyens de preuve à l’appui de ses prétentions.
-> 2000, ch. 17, art. 26; 2005, ch. 38, art. 127.
+> 2000, ch. 17, art. 26; 2005, ch. 38, art. 127
 
 
 
@@ -1239,7 +1239,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis de la décision**
 
 - **(3)** Le ministre signifie sans délai par écrit à la personne qui a fait la demande un avis de la décision, motifs à l’appui.
-> 2000, ch. 17, art. 27; 2001, ch. 41, art. 62.
+> 2000, ch. 17, art. 27; 2001, ch. 41, art. 62
 
 
 
@@ -1265,7 +1265,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Limitation du montant versé**
 
 - **(2)** En cas de vente ou autre forme de disposition des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)a) ne peut être supérieur au produit éventuel de la vente ou de la disposition, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de la disposition, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 29; 2006, ch. 12, art. 15; 2019, ch. 29, art. 124(F).
+> 2000, ch. 17, art. 29; 2006, ch. 12, art. 152019, ch. 29, art. 124(F)
 
 
 
@@ -1288,7 +1288,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Limitation du montant versé**
 
 - **(4)** En cas de vente ou autre forme de disposition des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme qui peut être versée en vertu du paragraphe (3) ne peut être supérieur au produit éventuel de la vente ou de la disposition, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de la disposition, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 30; 2001, ch. 41, art. 139; 2002, ch. 8, art. 161; 2006, ch. 12, art. 16; 2017, ch. 20, art. 427; 2019, ch. 29, art. 125(F).
+> 2000, ch. 17, art. 30; 2001, ch. 41, art. 139; 2002, ch. 8, art. 161; 2006, ch. 12, art. 16; 2017, ch. 20, art. 4272019, ch. 29, art. 125(F)
 
 
 
@@ -1297,7 +1297,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Signification des avis**
 
 **31** Il suffit, pour que les avis visés aux articles 26 et 27 soient considérés comme respectivement signifiés par le président ou le ministre, qu’il en soit fait envoi en recommandé à la dernière adresse connue du destinataire.
-> 2000, ch. 17, art. 31; 2005, ch. 38, art. 127.
+> 2000, ch. 17, art. 31; 2005, ch. 38, art. 127
 
 
 
@@ -1334,7 +1334,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **d)** dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta, de la Cour du Banc de la Reine;
 	- **e)** dans la province de Terre-Neuve-et-Labrador, de la Section de première instance de la Cour suprême;
 	- **f)** dans le Nunavut, de la Cour de justice du Nunavut.
-> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63; 2005, ch. 38, art. 127; 2006, ch. 12, art. 17; 2015, ch. 3, art. 148.
+> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63; 2005, ch. 38, art. 127; 2006, ch. 12, art. 17; 2015, ch. 3, art. 148
 
 
 
@@ -1346,7 +1346,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 - **a)** il a acquis son droit ou ses intérêts de bonne foi avant la contravention;
 - **b)** il est innocent de toute complicité relativement à la contravention qui a entraîné la saisie ou de toute collusion à l’égard de la contravention;
 - **c)** il a pris des précautions suffisantes concernant toute personne admise à la possession des espèces ou effets saisis pour que ceux-ci soient déclarés conformément au paragraphe 12(1).
-> 2000, ch. 17, art. 33; 2006, ch. 12, art. 18.
+> 2000, ch. 17, art. 33; 2006, ch. 12, art. 18
 
 
 
@@ -1361,7 +1361,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Définition de cour d’appel**
 
 - **(2)** Au présent article, ***cour d’appel*** s’entend de la cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe (1).
-> 2000, ch. 17, art. 34; 2006, ch. 12, art. 19(A).
+> 2000, ch. 17, art. 34; 2006, ch. 12, art. 19(A)
 
 
 
@@ -1378,7 +1378,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Limitation du montant versé**
 
 - **(2)** En cas de vente ou autre forme de disposition des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)b) ne peut être supérieur au produit éventuel de la vente ou de la disposition, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de la disposition, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 35; 2005, ch. 38, art. 127; 2006, ch. 12, art. 20; 2019, ch. 29, art. 126(F).
+> 2000, ch. 17, art. 35; 2005, ch. 38, art. 127; 2006, ch. 12, art. 202019, ch. 29, art. 126(F)
 
 
 
@@ -1432,7 +1432,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Définition de fonctionnaire**
 
 - **(6)** Au présent article et à l’article 37, ***fonctionnaire*** s’entend de toute personne qui a obtenu des renseignements visés au paragraphe (1) ou y a ou a eu accès dans l’exercice des attributions qui lui sont conférées sous le régime de la présente partie.
-> 2000, ch. 17, art. 36; 2001, ch. 41, art. 64; 2006, ch. 12, art. 22; 2014, ch. 20, art. 275.
+> 2000, ch. 17, art. 36; 2001, ch. 41, art. 64; 2006, ch. 12, art. 22; 2014, ch. 20, art. 275
 
 
 
@@ -1464,7 +1464,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Assimilation**
 
 - **(3)** Les renseignements obtenus en vertu d’un accord visé au paragraphe (1) sont envoyés au Centre et, pour l’application de toute disposition de la présente loi sur la confidentialité des renseignements ou la collecte ou l’utilisation de ceux-ci par le Centre, sont réputés être des renseignements figurant dans une déclaration faite au titre de l’article 12.
-> 2000, ch. 17, art. 38; 2005, ch. 38, art. 125 et 139.
+> 2000, ch. 17, art. 38; 2005, ch. 38, art. 125 et 139
 
 
 
@@ -1473,7 +1473,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Accord avec des États étrangers**
 
 **38.1** Le ministre, avec le consentement du ministre chargé de l’application de l’article 42, peut conclure, avec le gouvernement d’un État étranger ou un organisme de celui-ci dont les attributions sont similaires à celles de l’Agence des services frontaliers du Canada, un accord écrit stipulant que celle-ci peut fournir à ce gouvernement ou à cet organisme les renseignements qui figurent dans le rapport visé à l’article 20, si elle a des motifs raisonnables de soupçonner que ces renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes.
-> 2006, ch. 12, art. 23.
+> 2006, ch. 12, art. 23
 
 
 
@@ -1492,7 +1492,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Attributions du président**
 
 - **(2)** Le président peut autoriser un agent ou une catégorie d’agents à exercer les pouvoirs et fonctions qui lui sont conférés en vertu de la présente partie.
-> 2000, ch. 17, art. 39; 2005, ch. 38, art. 127.
+> 2000, ch. 17, art. 39; 2005, ch. 38, art. 127
 
 
 
@@ -1515,7 +1515,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 - **c)** assure la protection nécessaire aux renseignements personnels qui relèvent de lui;
 - **d)** sensibilise le public aux questions liées au recyclage des produits de la criminalité et au financement des activités terroristes;
 - **e)** procède à des contrôles d’application des parties 1 et 1.1.
-> 2000, ch. 17, art. 40; 2001, ch. 41, art. 65; 2010, ch. 12, art. 1870; 2014, ch. 20, art. 276.
+> 2000, ch. 17, art. 40; 2001, ch. 41, art. 65; 2010, ch. 12, art. 1870; 2014, ch. 20, art. 276
 
 
 
@@ -1591,7 +1591,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Indemnisation**
 
 **44** Le directeur et les employés du Centre sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 2000, ch. 17, art. 44; 2003, ch. 22, art. 224(A).
+> 2000, ch. 17, art. 44; 2003, ch. 22, art. 224(A)
 
 
 
@@ -1660,7 +1660,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **b)** fixer les conditions d’emploi — notamment en ce qui concerne le licenciement motivé — des employés et leur assigner des tâches;
 	- **c)** malgré l’article 112 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), conformément au mandat approuvé par le Conseil du Trésor, fixer la rémunération des employés du Centre;
 	- **d)** régler toute autre question dans la mesure où il l’estime nécessaire pour la bonne gestion des ressources humaines du Centre.
-> 2000, ch. 17, art. 49; 2003, ch. 22, art. 190 et 223(A); 2017, ch. 9, art. 55.
+> 2000, ch. 17, art. 49; 2003, ch. 22, art. 190 et 223(A); 2017, ch. 9, art. 55
 
 
 
@@ -1668,8 +1668,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Activités politiques**
 
-**50** Le directeur et les employés du Centre sont, pour l’application de la partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), réputés être respectivement administrateur général et fonctionnaires au sens du paragraphe 2(1) de cette loi.
-> 2000, ch. 17, art. 50; 2003, ch. 22, art. 242.
+**50** Le directeur et les employés du Centre sont, pour l’application de la partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), réputés être respectivement administrateur général et fonctionnaires au sens du paragraphe 2(1) de cette loi.
+> 2000, ch. 17, art. 50; 2003, ch. 22, art. 242
 
 
 
@@ -1682,7 +1682,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Pouvoir**
 
 **51** Le ministère ou le secteur de l’administration publique fédérale visé à l’une des annexes I, IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) peut, s’il l’estime indiqué, conclure avec le Centre un accord visant à fournir à celui-ci les services qu’il est autorisé à fournir à tout autre ministère ou secteur visé à l’une de ces annexes.
-> 2000, ch. 17, art. 51; 2003, ch. 22, art. 191.
+> 2000, ch. 17, art. 51; 2003, ch. 22, art. 191
 
 
 
@@ -1716,7 +1716,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Communication de renseignements au conseiller**
 
 - **(4)** Le directeur communique à la personne dont les services ont été retenus au titre du paragraphe 42(4), selon les modalités qu’elle précise, les renseignements que celle-ci estime utiles pour conseiller le ministre sur les matières mentionnées à ce paragraphe et qui sont obtenus par le Centre dans le cadre de l’exécution et du contrôle d’application de la présente loi ou qui sont préparés par le Centre à partir de ces renseignements que celle-ci estime utiles pour conseiller le ministre sur les matières mentionnées à ce paragraphe.
-> 2000, ch. 17, art. 52; 2010, ch. 12, art. 1871; 2014, ch. 20, art. 277.
+> 2000, ch. 17, art. 52; 2010, ch. 12, art. 1871; 2014, ch. 20, art. 277
 
 
 
@@ -1735,7 +1735,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Précision**
 
 - **(2)** Il est entendu que si les renseignements visés au paragraphe (1) se trouvent dans un document — quel qu’en soit la forme ou le support — qui doit être communiqué en application de l’article 52, le directeur fournit le document sans ces renseignements.
-> 2000, ch. 17, art. 53; 2014, ch. 20, art. 278.
+> 2000, ch. 17, art. 53; 2014, ch. 20, art. 278
 
 
 
@@ -1750,7 +1750,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Pouvoir du directeur de communiquer des renseignements**
 
 - **(2)** S’il est d’avis que les renseignements recueillis par le Centre en application des alinéas 54(1)a) ou b) — ou les analyses effectuées par celui-ci en application de l’alinéa 54(1)c) — sont susceptibles d’aider le ministre à exercer les attributions que lui confère la partie 1.1, le directeur peut les communiquer au ministre ou à un fonctionnaire du ministère des Finances qu’il estime qualifié.
-> 2010, ch. 12, art. 1872; 2014, ch. 20, art. 278.
+> 2010, ch. 12, art. 1872; 2014, ch. 20, art. 278
 
 
 
@@ -1765,7 +1765,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Précision**
 
 - **(2)** Il est entendu que si les renseignements visés au paragraphe (1) se trouvent dans un document — quel que soit la forme ou le support — qui doit ou peut être communiqué au titre de l’article 53.1, le directeur fournit le document sans ces renseignements.
-> 2010, ch. 12, art. 1872; 2014, ch. 20, art. 278.
+> 2010, ch. 12, art. 1872; 2014, ch. 20, art. 278
 
 
 
@@ -1783,7 +1783,16 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Consentement**
 
 - **(2)** Le directeur ne peut communiquer au ministre l’information transmise au Centre à titre confidentiel qu’après avoir obtenu le consentement prévu au paragraphe (1).
-> 2010, ch. 12, art. 1872; 2014, ch. 20, art. 279; 2017, ch. 20, art. 428.
+> 2010, ch. 12, art. 1872; 2014, ch. 20, art. 279; 2017, ch. 20, art. 428
+
+
+
+
+
+**[Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md)**
+
+**53.4** Le directeur communique, sur demande, au ministre ou à un fonctionnaire du ministère des Finances, selon les modalités que le ministre ou le fonctionnaire précise, les renseignements qui relèvent du Centre qui sont susceptibles d’aider le ministre à exercer les attributions que lui confère la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md).
+> 2019, ch. 13, art. 46
 
 
 
@@ -1791,8 +1800,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **[Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](/fr/Lois/Lois%20du%20Canada/2017/ch.%2015.md)**
 
-**53.4** Le directeur communique, sur demande, au ministre ou à un fonctionnaire du ministère des Finances, selon les modalités que le ministre ou le fonctionnaire précise, les renseignements qui relèvent du Centre et qui sont susceptibles d’aider le ministre à exercer les attributions que lui confère la [Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](/fr/Lois/Lois%20du%20Canada/2017/ch.%2015.md).
-> 2017, ch. 15, art. 47.
+**53.5** Le directeur communique, sur demande, au ministre ou à un fonctionnaire du ministère des Finances, selon les modalités que le ministre ou le fonctionnaire précise, les renseignements qui relèvent du Centre et qui sont susceptibles d’aider le ministre à exercer les attributions que lui confère la [Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](/fr/Lois/Lois%20du%20Canada/2017/ch.%2015.md).
+> 2017, ch. 15, art. 472019, ch. 13, art. 49
 
 
 
@@ -1818,7 +1827,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Destruction de certains renseignements**
 
 - **(2)** Le Centre détruit dans un délai raisonnable les renseignements qu’il a reçus qui se trouvent dans un document — quel qu’en soit la forme ou le support — et qui sont présentés comme un rapport ou une déclaration visé aux articles 7, 7.1, 9 ou 12, une directive donnée au titre de la partie 1.1, une déclaration incomplète transmise conformément au paragraphe 14(5) ou un rapport visé à l’article 9.1 lorsqu’il conclut, dans le cours normal de ses activités, que ces renseignements se rapportent à une opération financière ou à un cas dont la présente loi n’exige pas qu’ils lui soient communiqués dans un rapport ou une déclaration ou, si ces renseignements lui sont fournis volontairement par le public, qu’ils ne se rapportent pas à des soupçons de recyclage des produits de la criminalité ou de financement des activités terroristes.
-> 2000, ch. 17, art. 54; 2001, ch. 12, art. 1, ch. 41, art. 66; 2004, ch. 11, art. 42, ch. 15, art. 100; 2006, ch. 12, art. 24; 2010, ch. 12, art. 1873; 2014, ch. 20, art. 280.
+> 2000, ch. 17, art. 54; 2001, ch. 12, art. 1, ch. 41, art. 66; 2004, ch. 11, art. 42, ch. 15, art. 100; 2006, ch. 12, art. 24; 2010, ch. 12, art. 1873; 2014, ch. 20, art. 280
 
 
 
@@ -1849,7 +1858,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Conservation de renseignements**
 
 - **(6)** Sous réserve de l’article 6 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), il conserve les renseignements visés au paragraphe (4) pendant dix ans à compter de la date où l’inscription d’un demandeur est refusée, où l’inscrit l’avise de la cessation de ses activités ou à laquelle une personne ou entité n’est plus inscrite.
-> 2006, ch. 12, art. 25; 2014, ch. 20, art. 281.
+> 2006, ch. 12, art. 25; 2014, ch. 20, art. 281
 
 
 
@@ -1863,7 +1872,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **55** 
 
-- **(1)** Sous réserve des paragraphes (3) et (6.1), des articles 52, 53.1, 55.1, 56.1 et 56.2, du paragraphe 58(1) et des articles 65 à 65.1 et 68.1 de la présente loi et du paragraphe 12(1) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), il est interdit au Centre de communiquer les renseignements :
+- **(1)** Sous réserve des paragraphes (3) et (6.1), des articles 52, 53.4, 53.5, 55.1, 56.1 et 56.2, du paragraphe 58(1) et des articles 65 à 65.1 et 68.1 de la présente loi et du paragraphe 12(1) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), il est interdit au Centre de communiquer les renseignements :
 	- **a)** contenus dans une déclaration visée à l’article 7;
 	- **a.1)** contenus dans une déclaration visée à l’article 7.1;
 	- **b)** contenus dans une déclaration visée à l’article 9;
@@ -1941,7 +1950,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
 	- **s)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
 	- **t)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
-> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167; 2017, ch. 20, art. 429; 2019, ch. 29, art. 107.
+> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167; 2017, ch. 20, art. 4292019, ch. 13, art. 472019, ch. 13, art. 492019, ch. 29, art. 107
 
 
 
@@ -1985,7 +1994,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
 	- **s)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
 	- **t)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
-> 2001, ch. 41, art. 68; 2006, ch. 12, art. 27; 2014, ch. 20, art. 283; 2017, ch. 20, art. 430; 2019, ch. 29, art. 108.
+> 2001, ch. 41, art. 68; 2006, ch. 12, art. 27; 2014, ch. 20, art. 283; 2017, ch. 20, art. 4302019, ch. 29, art. 108
 
 
 
@@ -2006,7 +2015,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 - **(3)** Les accords conclus :
 	- **a)** précisent les fins auxquelles les renseignements peuvent être utilisés, lesquelles doivent être utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire;
 	- **b)** prévoient que les renseignements seront traités de manière confidentielle et ne seront pas autrement communiqués sans le consentement exprès du Centre.
-> 2000, ch. 17, art. 56; 2001, ch. 41, art. 68; 2017, ch. 20, art. 431.
+> 2000, ch. 17, art. 56; 2001, ch. 41, art. 68; 2017, ch. 20, art. 431
 
 
 
@@ -2064,7 +2073,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **q)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
 	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
 	- **s)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
-> 2001, ch. 41, art. 68; 2006, ch. 12, art. 28; 2014, ch. 20, art. 284; 2017, ch. 20, art. 432; 2019, ch. 29, art. 109.
+> 2001, ch. 41, art. 68; 2006, ch. 12, art. 28; 2014, ch. 20, art. 284; 2017, ch. 20, art. 4322019, ch. 29, art. 109
 
 
 
@@ -2073,7 +2082,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Utilité de renseignements**
 
 **56.2** Le Centre peut fournir à l’organisme lui ayant communiqué des renseignements au titre d’un accord visé aux paragraphes 56(1) ou (2) une évaluation de leur utilité pour lui.
-> 2006, ch. 12, art. 29.
+> 2006, ch. 12, art. 29
 
 
 
@@ -2102,7 +2111,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Restrictions**
 
 - **(2)** Toutefois, le Centre ne peut divulguer aucun renseignement visé au paragraphe (1) qui permettrait d’identifier, même indirectement, l’individu qui a présenté une déclaration ou communiqué des renseignements au Centre ou une personne ou entité à l’égard de qui une déclaration a été faite ou des renseignements ont été communiqués.
-> 2000, ch. 17, art. 58; 2001, ch. 41, art. 69; 2010, ch. 12, art. 1875; 2014, ch. 20, art. 285.
+> 2000, ch. 17, art. 58; 2001, ch. 41, art. 69; 2010, ch. 12, art. 1875; 2014, ch. 20, art. 285
 
 
 
@@ -2117,7 +2126,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Exception**
 
 - **(2)** Toutefois, le Centre ne peut divulguer aucun renseignement visé au paragraphe (1) qui permettrait d’identifier, même indirectement, une personne ou une entité, à l’exception d’une entité étrangère, au sens de l’article 11.41.
-> 2010, ch. 12, art. 1876; 2014, ch. 20, art. 286.
+> 2010, ch. 12, art. 1876; 2014, ch. 20, art. 286
 
 
 
@@ -2132,7 +2141,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Mandat de perquisition**
 
 - **(2)** Malgré toute autre loi, le Centre ne peut faire l’objet d’aucun mandat de perquisition.
-> 2000, ch. 17, art. 59; 2001, ch. 41, art. 70; 2006, ch. 12, art. 30.
+> 2000, ch. 17, art. 59; 2001, ch. 41, art. 70; 2006, ch. 12, art. 30
 
 
 
@@ -2227,7 +2236,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 ***policier*** S’entend d’un officier ou d’un agent de police ou de toute autre personne chargée du maintien de l’ordre public. (*police officer*)
 
 ***procureur général*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*Attorney General*)
-> 2000, ch. 17, art. 60; 2001, ch. 12, art. 3, ch. 32, art. 72, ch. 41, art. 71; 2006, ch. 12, art. 31.
+> 2000, ch. 17, art. 60; 2001, ch. 12, art. 3, ch. 32, art. 72, ch. 41, art. 71; 2006, ch. 12, art. 31
 
 
 
@@ -2311,7 +2320,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Définition**
 
 - **(16)** Au présent article, ***juge*** s’entend d’un juge de la Cour fédérale, nommé par son juge en chef, pour l’application de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md).
-> 2001, ch. 41, art. 72; 2005, ch. 10, art. 34; 2006, ch. 12, art. 32.
+> 2001, ch. 41, art. 72; 2005, ch. 10, art. 34; 2006, ch. 12, art. 32
 
 
 
@@ -2320,7 +2329,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Audition des demandes**
 
 **60.2** La demande d’ordonnance présentée à un juge en vertu du paragraphe 60.1(2), ou une opposition en vertu du paragraphe 60.1(7), est entendue à huis clos en conformité avec les règlements pris en vertu de l’article 28 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md).
-> 2001, ch. 41, art. 72.
+> 2001, ch. 41, art. 72
 
 
 
@@ -2405,7 +2414,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Définition de juge**
 
 - **(16)** Pour l’application du présent article, ***juge*** s’entend du juge d’une cour provinciale, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), et du juge au sens du paragraphe 462.3(1) de cette loi.
-> 2006, ch. 12, art. 33.
+> 2006, ch. 12, art. 33
 
 
 
@@ -2435,7 +2444,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Assistance au Centre**
 
 - **(2)** L’exploitant du local visité, ainsi que quiconque s’y trouve, est tenu de prêter à la personne autorisée toute l’assistance possible dans l’exercice de ses fonctions et lui donner les renseignements qu’elle peut valablement exiger quant à l’application de la partie 1 ou 1.1 ou de ses règlements.
-> 2000, ch. 17, art. 62; 2010, ch. 12, art. 1882.
+> 2000, ch. 17, art. 62; 2010, ch. 12, art. 1882
 
 
 
@@ -2457,7 +2466,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Parties visées par la perquisition**
 
 - **(3)** Il est entendu que, lors de la visite d’une habitation, la personne autorisée ne peut visiter que les parties d’une pièce où, à son avis, fondé sur des motifs raisonnables, la personne ou l’entité visée à l’article 5 exploite son entreprise ou exerce sa profession ou son activité.
-> 2000, ch. 17, art. 63; 2010, ch. 12, art. 1882.
+> 2000, ch. 17, art. 63; 2010, ch. 12, art. 1882
 
 
 
@@ -2472,7 +2481,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Obligation de fournir de l’information**
 
 - **(2)** La personne ou l’entité à qui l’avis est signifié doit fournir, en conformité avec celui-ci, les documents ou autre information que la personne autorisée peut valablement exiger quant à l’application de la partie 1 ou 1.1.
-> 2006, ch. 12, art. 34; 2010, ch. 12, art. 1882.
+> 2006, ch. 12, art. 34; 2010, ch. 12, art. 1882
 
 
 
@@ -2535,7 +2544,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Renonciation au secret professionnel**
 
 - **(10)** Le conseiller juridique qui fait valoir au nom d’un client actuel ou antérieur, nommément désigné, le secret professionnel du conseiller juridique en ce qui concerne un document doit en même temps communiquer la dernière adresse connue de ce client à la personne autorisée, afin que celle-ci puisse, d’une part, chercher à informer le client du secret professionnel qui est invoqué en son nom et, d’autre part, lui donner l’occasion, si la chose est matériellement possible dans le délai mentionné au présent article, de renoncer à faire valoir le secret professionnel avant que la question ne soit soumise à la décision d’un juge.
-> 2000, ch. 17, art. 64; 2001, ch. 12, art. 4; 2006, ch. 12, art. 35(A).
+> 2000, ch. 17, art. 64; 2001, ch. 12, art. 4; 2006, ch. 12, art. 35(A)
 
 
 
@@ -2558,7 +2567,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Observation par les personnes et entités**
 
 - **(4)** Afin d’assurer l’observation des parties 1 et 1.1, le Centre reçoit tout renseignement qui lui est communiqué volontairement par une personne ou entité — à l’exception des organismes visés au paragraphe (2) — et qui se rapporte à l’observation de l’une ou l’autre de ces parties par les personnes et entités visées à l’article 5.
-> 2000, ch. 17, art. 65; 2004, ch. 15, art. 101; 2006, ch. 12, art. 36; 2010, ch. 12, art. 1882; 2013, ch. 40, art. 280 et 281; 2014, ch. 20, art. 287.
+> 2000, ch. 17, art. 65; 2004, ch. 15, art. 101; 2006, ch. 12, art. 36; 2010, ch. 12, art. 1882; 2013, ch. 40, art. 280 et 281; 2014, ch. 20, art. 287
 
 
 
@@ -2577,7 +2586,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Limite**
 
 - **(3)** Le Centre ne peut divulguer aucun renseignement visé au paragraphe (1) qui permettrait d’identifier, même indirectement, un client d’une personne ou entité visée à l’article 5.
-> 2014, ch. 20, art. 288.
+> 2014, ch. 20, art. 288
 
 
 
@@ -2596,7 +2605,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Limite**
 
 - **(3)** Le Centre ne peut divulguer aucun renseignement visé au paragraphe (1) qui permettrait d’identifier, même indirectement, un client d’une personne ou entité visée à l’article 5.
-> 2014, ch. 20, art. 289.
+> 2014, ch. 20, art. 289
 
 
 
@@ -2618,7 +2627,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Utilité des renseignements**
 
 - **(3)** Il peut fournir à l’organisme ou à l’organisation lui ayant communiqué des renseignements au titre de l’accord une évaluation de leur utilité pour lui.
-> 2006, ch. 12, art. 37; 2017, ch. 20, art. 433.
+> 2006, ch. 12, art. 37; 2017, ch. 20, art. 433
 
 
 
@@ -2641,7 +2650,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Limites**
 
 - **(3)** Malgré le paragraphe (1), seul le ministre peut conclure un accord visé au paragraphe 56(1).
-> 2000, ch. 17, art. 66; 2014, ch. 20, art. 290.
+> 2000, ch. 17, art. 66; 2014, ch. 20, art. 290
 
 
 
@@ -2650,7 +2659,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Choix de fournisseurs**
 
 **67** Par dérogation à l’article 9 de la [Loi sur le ministère des Travaux publics et des Services gouvernementaux](/fr/Lois/Lois%20du%20Canada/1996/ch.%2016.md), le Centre peut, avec l’agrément du gouverneur en conseil donné sur recommandation du Conseil du Trésor, obtenir des biens et services, notamment des services juridiques, à l’extérieur de l’administration publique fédérale.
-> 2000, ch. 17, art. 67; 2003, ch. 22, art. 224(A).
+> 2000, ch. 17, art. 67; 2003, ch. 22, art. 224(A)
 
 
 
@@ -2670,7 +2679,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Dépôt de documents**
 
 **68.1** Dans toute procédure judiciaire engagée sous le régime de la présente loi, le Centre peut déposer auprès du tribunal des documents contenant des renseignements visés au paragraphe 55(1).
-> 2014, ch. 20, art. 291.
+> 2014, ch. 20, art. 291
 
 
 
@@ -2715,7 +2724,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 - **(2)** Le rapport comprend notamment :
 	- **a)** une description des lignes directrices et politiques de gestion du Centre portant sur la protection des droits et libertés de la personne;
 	- **b)** des renseignements sur le rendement du Centre dans l’exercice de ses fonctions, notamment des données statistiques qui permettent de mesurer ce rendement.
-> 2000, ch. 17, art. 71; 2014, ch. 20, art. 292.
+> 2000, ch. 17, art. 71; 2014, ch. 20, art. 292
 
 
 
@@ -2730,7 +2739,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Examen par le Commissaire à la protection de la vie privée**
 
 - **(2)** Tous les deux ans à compter de la date d’entrée en vigueur du présent article, le Commissaire à la protection de la vie privée, nommé au titre de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), procède à l’examen des mesures prises par le Centre en vue de protéger les renseignements qu’il recueille en application de la présente loi, et, dans les trois mois suivant l’examen, il remet un rapport à l’égard de ces mesures au président de chaque chambre, qui le dépose immédiatement devant la chambre qu’il préside ou, si elle ne siège pas, dans les quinze premiers jours de séance ultérieurs.
-> 2000, ch. 17, art. 72; 2006, ch. 12, art. 38.
+> 2000, ch. 17, art. 72; 2006, ch. 12, art. 38
 
 
 
@@ -2764,7 +2773,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 	- **z) et z.1)** [Abrogés, 2017, ch. 20, art. 434]
 
 - **(2) et (3)** [Abrogés, 2001, ch. 41, art. 73]
-> 2000, ch. 17, art. 73; 2001, ch. 41, art. 73; 2006, ch. 12, art. 39; 2010, ch. 12, art. 1877; 2014, ch. 20, art. 294; 2017, ch. 20, art. 434.
+> 2000, ch. 17, art. 73; 2001, ch. 41, art. 73; 2006, ch. 12, art. 39; 2010, ch. 12, art. 1877; 2014, ch. 20, art. 294; 2017, ch. 20, art. 434
 
 
 
@@ -2794,7 +2803,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Plafond de la pénalité**
 
 - **(2)** La pénalité maximale pour une violation est de 100 000 $ si l’auteur est une personne physique et de 500 000 $ si l’auteur est une entité.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2803,7 +2812,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Critères**
 
 **73.11** Sauf s’il est fixé en application de l’alinéa 73.1(1)c), le montant de la pénalité est déterminé, dans chaque cas, compte tenu du caractère non punitif de la pénalité, celle-ci étant destinée à encourager l’observation de la présente loi, de la gravité du tort causé et de tout autre critère prévu par règlement.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2812,7 +2821,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Précision**
 
 **73.12** S’agissant d’une contravention désignée au titre de l’alinéa 73.1(1)a) et qualifiable à la fois de violation et d’infraction à la présente loi, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2829,7 +2838,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 - **(2)** Le Centre peut, s’il a des motifs raisonnables de croire qu’une violation a été commise :
 	- **a)** soit dresser un procès-verbal qu’il fait signifier à l’auteur présumé;
 	- **b)** soit dresser un procès-verbal qu’il fait signifier à l’auteur présumé avec une offre de réduire de moitié la pénalité qui figure au procès-verbal si celui-ci accepte de conclure avec lui une transaction visant l’observation de la disposition enfreinte.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2851,7 +2860,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Erreur ou omission**
 
 - **(2)** Si le procès-verbal contient une erreur ou une omission, le Centre peut durant la période visée à l’alinéa (1)b) en signifier à l’auteur présumé une version corrigée.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2874,7 +2883,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Avis de décision et droit d’appel**
 
 - **(4)** Le directeur fait signifier à l’auteur de la violation la décision prise au titre du paragraphe (2) ou la pénalité imposée en vertu du paragraphe (3) et, dans le cas de la décision prise au titre du paragraphe (2), l’avise par la même occasion de son droit d’interjeter appel en vertu du paragraphe 73.21(1) dans le cas d’une violation grave ou très grave.
-> 2006, ch. 12, art. 40; 2017, ch. 20, art. 435(F).
+> 2006, ch. 12, art. 40; 2017, ch. 20, art. 435(F)
 
 
 
@@ -2897,7 +2906,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Prorogation du délai**
 
 - **(3)** S’il estime que l’intéressé ne peut exécuter la transaction dans le délai imparti pour des raisons indépendantes de sa volonté, le Centre peut proroger celui-ci.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2906,7 +2915,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Avis d’exécution**
 
 **73.17** Lorsqu’il est d’avis que l’intéressé a exécuté la transaction, le Centre lui signifie un avis en ce sens. Aucune autre procédure ne peut dès lors être intentée contre l’intéressé pour la même violation.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2925,7 +2934,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Effet de l’inexécution**
 
 - **(3)** Sur signification de l’avis, l’intéressé perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2948,7 +2957,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Avis de décision et droit d’appel**
 
 - **(4)** Le directeur fait signifier à l’intéressé sa décision et l’avise par la même occasion de son droit d’interjeter appel en vertu du paragraphe 73.21(1) dans le cas d’une violation grave ou très grave.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2957,7 +2966,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Commission de la violation**
 
 **73.2** L’intéressé qui conclut une transaction est réputé avoir commis la violation en cause.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -2995,7 +3004,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Pouvoir de la Cour fédérale**
 
 - **(5)** Saisie de l’appel, la Cour fédérale confirme, annule ou, sous réserve des règlements pris en vertu de l’alinéa 73.1(1)c), modifie la décision.
-> 2006, ch. 12, art. 40; 2019, ch. 29, art. 110.
+> 2006, ch. 12, art. 402019, ch. 29, art. 110
 
 
 
@@ -3015,7 +3024,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 	- **(i)** il paie la pénalité à laquelle il est tenu en application du paragraphe 73.18(1),
 	- **(ii)** il reçoit signification d’un avis d’une décision prise au titre du paragraphe 73.19(2) confirmant l’inexécution de la transaction,
 	- **(iii)** la transaction est réputée non exécutée par application du paragraphe 73.19(3).
-> 2006, ch. 12, art. 40; 2019, ch. 29, art. 111.
+> 2006, ch. 12, art. 402019, ch. 29, art. 111
 
 
 
@@ -3034,7 +3043,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Non-application de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
 - **(2)** L’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ne s’applique pas aux obligations ou interdictions prévues par la présente loi dont la contravention constitue une violation aux termes de celle-ci.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3049,7 +3058,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Principes de la common law**
 
 - **(2)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction s’appliquent à l’égard d’une violation, sauf dans la mesure où ils sont incompatibles avec la présente loi.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3072,7 +3081,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Receveur général**
 
 - **(3)** Toute pénalité perçue sous le régime de la présente partie est versée au receveur général.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3087,7 +3096,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Enregistrement en Cour fédérale**
 
 - **(2)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais d’enregistrement afférents.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3106,7 +3115,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Utilisation des renseignements**
 
 - **(3)** Cette autre partie ne peut utiliser les renseignements visés au paragraphe (2) que dans la mesure où elle en a besoin pour percevoir les pénalités.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3115,7 +3124,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Intérêts**
 
 **73.28** La pénalité exigible au titre de la présente partie porte intérêt, au taux réglementaire, à compter du lendemain de l’expiration du délai de versement et jusqu’au jour du versement.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3134,7 +3143,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Quittance**
 
 - **(3)** Le reçu du directeur constitue une quittance valable et suffisante de l’obligation envers le débiteur de Sa Majesté, à concurrence du versement.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3149,7 +3158,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Effet de la radiation**
 
 - **(2)** La radiation ne porte pas atteinte au droit de Sa Majesté de recouvrer la pénalité ou les intérêts en cause.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3162,7 +3171,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Admissibilité du procès-verbal de violation**
 
 **73.4** Dans toute procédure en violation ou poursuite pour infraction, le procès-verbal apparemment signifié en vertu du paragraphe 73.13(2), la décision apparemment signifiée en vertu des paragraphes 73.15(4) ou 73.19(4), l’avis de défaut apparemment signifié en vertu du paragraphe 73.18(1) et le certificat de non-paiement apparemment établi en vertu du paragraphe 73.26(1) sont admissibles en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3177,7 +3186,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Certificat du Centre**
 
 - **(2)** Tout document apparemment délivré par le Centre et attestant la date où ces éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40
 
 
 
@@ -3201,7 +3210,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 - **(2)** Toute personne ou entité qui contrevient sciemment à l’article 11.43, sauf pour ce qui est de toute mesure de déclaration visée à l’alinéa 11.42(2)e) exigée au titre de la directive prévue au paragraphe 11.42(1), commet une infraction passible, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
 	- **b)** par mise en accusation, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
-> 2000, ch. 17, art. 74; 2006, ch. 12, art. 41; 2010, ch. 12, art. 1878; 2014, ch. 20, art. 295.
+> 2000, ch. 17, art. 74; 2006, ch. 12, art. 41; 2010, ch. 12, art. 1878; 2014, ch. 20, art. 295
 
 
 
@@ -3220,7 +3229,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Moyen de défense pour les employés**
 
 - **(2)** Les employés d’une personne ou d’une entité ne peuvent être déclarés coupables d’une infraction visée au paragraphe (1) relative à une opération réelle ou projetée ou à des biens s’ils ont porté à la connaissance de leur supérieur l’opération en cause ou l’existence des biens.
-> 2000, ch. 17, art. 75; 2001, ch. 41, art. 74; 2010, ch. 12, art. 1879.
+> 2000, ch. 17, art. 75; 2001, ch. 41, art. 74; 2010, ch. 12, art. 1879
 
 
 
@@ -3248,7 +3257,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Disculpation**
 
 - **(3)** Nul ne peut être déclaré coupable d’une infraction aux paragraphes (1) ou (2) s’il est établi qu’il a exercé la diligence convenable pour l’empêcher.
-> 2000, ch. 17, art. 77; 2010, ch. 12, art. 1880.
+> 2000, ch. 17, art. 77; 2010, ch. 12, art. 1880
 
 
 
@@ -3259,7 +3268,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **77.1** Toute personne ou entité qui fournit des renseignements au Centre au titre des articles 11.12, 11.13, 11.14 ou 11.3 et qui sciemment fait une déclaration fausse ou trompeuse ou fournit un renseignement faux ou trompeur à une personne chargée de l’application de la présente loi commet une infraction passible, sur déclaration de culpabilité :
 - **a)** par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
 - **b)** par mise en accusation, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
-> 2006, ch. 12, art. 42.
+> 2006, ch. 12, art. 42
 
 
 
@@ -3275,7 +3284,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Perpétration par un employé ou mandataire**
 
 **79** Dans les poursuites pour infraction aux articles 75, 77 et 77.1, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par un employé ou un mandataire de celui-ci, que cet employé ou mandataire ait été ou non identifié ou poursuivi. Toutefois, nul ne peut être déclaré coupable de l’infraction s’il prouve qu’il a exercé la diligence convenable pour l’empêcher.
-> 2000, ch. 17, art. 79; 2006, ch. 12, art. 43.
+> 2000, ch. 17, art. 79; 2006, ch. 12, art. 43
 
 
 
@@ -3284,7 +3293,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Exemption**
 
 **80** N’est pas coupable des infractions prévues aux articles 74 à 77 l’agent de la paix ni la personne agissant sous sa direction qui accomplit l’un des actes mentionnés à ces articles dans le cadre d’une enquête portant sur une infraction de recyclage des produits de la criminalité ou une infraction de financement des activités terroristes.
-> 2000, ch. 17, art. 80; 2001, ch. 41, art. 75.
+> 2000, ch. 17, art. 80; 2001, ch. 41, art. 75
 
 
 
@@ -3293,7 +3302,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Prescription**
 
 **81** Les poursuites fondées sur les alinéas 74(1)a), 74(2)a), 75(1)a) ou 76a), les paragraphes 77(1) ou (2) ou l’alinéa 77.1a) se prescrivent par cinq ans à compter du fait en cause.
-> 2000, ch. 17, art. 81; 2006, ch. 12, art. 44; 2010, ch. 12, art. 1881.
+> 2000, ch. 17, art. 81; 2006, ch. 12, art. 44; 2010, ch. 12, art. 1881
 
 
 
@@ -3357,5 +3366,372 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 <sup><a href='#P-24.501_fr_3'>[*]</a></sup>**99** Les dispositions de la présente loi, sauf l’article 97, entrent en vigueur à la date ou aux dates fixées par décret.
 
 <a name='P-24.501_fr_3'><sup>*</sup></a>: [Note : Article 97 en vigueur à la sanction le 29 juin 2000; articles 1 à 4, 38 et 40 à 44, paragraphe 45(1), articles 46 à 53, alinéas 54 b) à d), paragraphes 55(1), (2) et (6) et articles 56 à 61, 66 à 82, 84, 85, 90 et 91 en vigueur le 5 juillet 2000, *voir* TR/2000-55; articles 5, 7, 8, 10 et 11, passage de l’article 54 qui précède l’alinéa b), paragraphes 55(3) à (5.1) et (7) et article 89 en vigueur le 28 octobre 2001, *voir* TR/2001-88; articles 6 et 9, paragraphe 45(2) et articles 62 à 65, 83 et 98 en vigueur le 12 juin 2002, *voir* TR/2002-84; articles 12 à 37 et 39 en vigueur le 6 janvier 2003, *voir* TR/2002-153; articles 86 à 88 et 92 à 96 en vigueur le 31 mars 2004, *voir* TR/2004-39.]<br />
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2014, ch. 20, par. 256(2), modifié par 2017, ch. 20, art. 436
+
+
+**
+> 2006, ch. 12, par. 3(1)
+**
+
+**256** 
+
+- **(2)** L’alinéa 5h) de la même loi est remplacé par ce qui suit :
+
+- **h)** les personnes et entités qui ont un établissement au Canada et qui se livrent à la fourniture de l’un des services suivants :
+	- **(i)** les opérations de change,
+	- **(ii)** la remise de fonds ou la transmission de fonds par tout moyen ou par l’intermédiaire d’une personne, d’une entité ou d’un réseau de télévirement,
+	- **(iii)** l’émission ou le rachat de mandats-poste, de chèques de voyage ou d’autres titres négociables semblables, à l’exclusion des chèques libellés au nom d’une personne ou d’une entité,
+	- **(iv)** le commerce de monnaie virtuelle,
+	- **(v)** tout service prévu par règlement;
+- **h.1)** les personnes et entités qui n’ont pas d’établissement au Canada et qui se livrent à la fourniture, à l’intention de personnes ou entités se trouvant au Canada, de l’un des services ci-après et qui les fournissent à leurs clients se trouvant au Canada :
+	- **(i)** les opérations de change,
+	- **(ii)** la remise de fonds ou la transmission de fonds par tout moyen ou par l’intermédiaire d’une personne, d’une entité ou d’un réseau de télévirement,
+	- **(iii)** l’émission ou le rachat de mandats-poste, de chèques de voyage ou d’autres titres négociables semblables, à l’exclusion des chèques libellés au nom d’une personne ou d’une entité,
+	- **(iv)** le commerce de monnaie virtuelle,
+	- **(v)** tout service prévu par règlement;
+
+
+
+
+
+######           — 2014, ch. 20, art. 257
+
+**257** La même loi est modifiée par adjonction, après l’article 5, de ce qui suit :
+
+**Précision**
+
+**5.1** Il est entendu que la présente partie ne s’applique pas aux personnes et entités visées à l’alinéa 5h.1) relativement aux services qu’ils fournissent à des personnes ou entités se trouvant à l’étranger.
+
+
+
+
+
+######           — 2014, ch. 20, art. 261
+
+
+**
+> 2006, ch. 12, art. 10
+**
+
+**261** L’article 11.1 de la même loi est remplacé par ce qui suit :
+
+**Obligation de s’inscrire**
+
+**11.1** Sauf disposition contraire des règlements, sont inscrites auprès du Centre, en conformité avec le présent article et les articles 11.11 à 11.2, les personnes ou entités visées aux alinéas 5h) ou h.1), celles visées à l’alinéa 5l) qui vendent des mandats-poste au public ainsi que toutes celles qui sont mentionnées à l’article 5 et visées par règlement.
+
+
+
+
+
+######           — 2014, ch. 20, par. 262(3)
+
+**262** 
+
+- **(3)** Le paragraphe 11.11(1) de la même loi est modifié par adjonction, après l’alinéa e), de ce qui suit :
+
+- **e.1)** une personne ou entité visée à l’alinéa 5h.1) qui a commis une violation à la loi qualifiée de grave ou très grave ou une série de violations mineures assimilées à une violation grave ou très grave pour laquelle une pénalité est imposée et qui, à l’expiration d’un délai de trente jours suivant la fin de la procédure en violation, n’a pas encore payé la pénalité ni les intérêts prévus à l’article 73.28;
+
+
+
+
+
+######           — 2014, ch. 20, art. 263
+
+
+**
+> 2006, ch. 12, art. 11
+**
+
+**263** Le paragraphe 11.12(1) de la même loi est remplacé par ce qui suit :
+
+**Demande d’inscription**
+
+**11.12** 
+
+- **(1)** La demande d’inscription est présentée au Centre selon les modalités réglementaires et est accompagnée :
+	- **a)** d’une liste des mandataires ou succursales du demandeur qui se livrent, pour le compte de celui-ci, aux activités visées aux alinéas 5h) ou h.1), à la vente de mandats-poste au public si le demandeur est une personne ou entité visée à l’alinéa 5l) ou à toute autre activité visée par règlement;
+	- **b)** lorsque le demandeur est une personne visée à l’alinéa 5h.1) :
+		- **(i)** du nom et de l’adresse, aux fins de signification, d’un individu qui réside au Canada et qui est autorisé à accepter, au nom de la personne, des avis signifiés par le Centre en vertu de la présente loi ou que celui-ci fait signifier en vertu de celle-ci,
+		- **(ii)** d’un document qui fait état des condamnations criminelles portées à son dossier — ou attestant l’absence de dossier — délivré par une autorité compétente de l’État étranger où elle réside et, si le document est dans une langue autre que le français ou l’anglais, d’une traduction en français ou en anglais attestée par une personne qui détient une certification professionnelle pour agir en tant que traducteur agréé qui lui a été délivrée par un organisme provincial autorisé en vertu de la législation provinciale;
+	- **c)** lorsque le demandeur est une entité visée à l’alinéa 5h.1) :
+		- **(i)** du nom et de l’adresse, aux fins de signification, d’un individu qui réside au Canada et qui est autorisé à accepter, au nom de l’entité, des avis signifiés par le Centre en vertu de la présente loi ou que celui-ci fait signifier en vertu de celle-ci,
+		- **(ii)** pour le premier dirigeant de l’entité, son président, chacun de ses administrateurs et toute personne qui détient ou contrôle, directement ou indirectement, au moins vingt pour cent de l’entité ou au moins vingt pour cent des actions de celle-ci, d’un document pour chacun de ceux-ci qui fait état des condamnations criminelles portées au dossier — ou attestant l’absence de dossier — et qui est délivré par une autorité compétente de l’État étranger où chacun de ceux-ci réside et, si le document est dans une langue autre que le français ou l’anglais, d’une traduction en français ou en anglais attestée par une personne qui détient une certification professionnelle pour agir en tant que traducteur agréé qui lui a été délivrée par un organisme provincial autorisé en vertu de la législation provinciale;
+	- **d)** de tout autre renseignement prévu par règlement.
+
+
+
+
+
+######           — 2014, ch. 20, art. 264
+
+
+**
+> 2006, ch. 12, art. 11
+**
+
+**264** L’article 11.13 de la même loi devient le paragraphe 11.13(1) et est modifié par adjonction de ce qui suit :
+
+**Refus ou révocation**
+
+- **(2)** Si le nom ou l’adresse visé aux sous-alinéas 11.12(1)b)(i) ou c)(i) est modifié et que le demandeur ou la personne ou l’entité qui est tenue de fournir les renseignements visés aux alinéas 11.12(1)b) ou c) ne fournit pas le nouveau nom ou la nouvelle adresse au Centre dans le délai prévu au paragraphe (1), le Centre, au moment où il prend connaissance de ce fait, refuse ou révoque sans délai son inscription, selon le cas, et en avise sans délai l’intéressé.
+
+
+
+######           — 2014, ch. 20, art. 265
+
+
+**
+> 2006, ch. 12, art. 11
+**
+
+**265** Le paragraphe 11.14(1) de la même loi est remplacé par ce qui suit :
+
+**Précisions : demandeur**
+
+**11.14** 
+
+- **(1)** Le demandeur apporte à sa demande d’inscription les précisions requises par le Centre relativement aux renseignements visés au paragraphe 11.12(1) et les lui transmet, selon les modalités réglementaires, dans les trente jours suivant la requête de celui-ci.
+
+
+
+
+
+######           — 2014, ch. 20, art. 266
+
+
+**
+> 2006, ch. 12, art. 11
+**
+
+**266** Le paragraphe 11.17(1) de la même loi est remplacé par ce qui suit :
+
+**Précisions : inscrit**
+
+**11.17** 
+
+- **(1)** Tout inscrit fournit les précisions requises par le Centre relativement aux renseignements visés au paragraphe 11.12(1) et les lui transmet, selon les modalités réglementaires, dans les trente jours suivant la requête de celui-ci.
+
+
+
+
+
+######           — 2014, ch. 20, art. 293
+
+**293** La même loi est modifiée par adjonction, après l’article 72, de ce qui suit :
+
+### Signification
+
+
+**Personne autorisée**
+
+**72.1** S’agissant d’une personne ou entité visée à l’alinéa 5h.1), il suffit, pour que les avis soient considérés comme signifiés par le Centre ou à sa demande, qu’ils soient signifiés à la personne dont le nom est indiqué dans la demande d’inscription — ou qui est fourni conformément au paragraphe 11.13(1) — qui est autorisée à accepter, au nom de la personne ou entité visée à cet alinéa, des avis signifiés par le Centre en vertu de la présente loi ou que celui-ci fait signifier en vertu de celle-ci.
+
+
+
+
+
+######           — 2014, ch. 20, art. 296
+
+**296** Le passage du paragraphe 74(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Infractions générales**
+
+**74** 
+
+- **(1)** Toute personne ou entité qui contrevient sciemment à l’un ou l’autre des articles 6, 6.1 et 9.1 à 9.31, du paragraphe 9.4(2), des articles 9.5 à 9.7, 11.1, 11.43, 11.44 et 11.6, des paragraphes 12(1) et (4) et 36(1), de l’article 37, des paragraphes 55(1) et (2), de l’article 57 et des paragraphes 62(2), 63.1(2) et 64(3) ou aux règlements commet une infraction passible, sur déclaration de culpabilité :
+
+
+
+
+
+######           — 2017, ch. 20, par. 408(1)
+
+**408** 
+
+- **(1)** L’article 5 de la même loi est modifié par adjonction, après l’alinéa e), de ce qui suit :
+
+- **e.1)** les sociétés de fiducie, formées ou constituées en personne morale en vertu d’une loi provinciale, qui ne sont pas régies par une loi provinciale;
+
+
+
+
+
+######           — 2017, ch. 20, par. 415(2) et (3)
+
+**415** 
+
+- **(2)** Le passage du paragraphe 9.4(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Correspondant bancaire**
+
+**9.4** 
+
+- **(1)** Il incombe à toute entité visée aux alinéas 5a), b), d), e) ou e.1) et à toute autre entité visée à l’article 5 et visée par règlement de prendre les mesures visées par règlement dans le cadre d’une relation de correspondant bancaire avec une entité étrangère visée par règlement et de prendre les mesures ci-après avant d’établir avec une entité étrangère visée par règlement une relation de correspondant bancaire :
+
+
+
+- **(3)** Le paragraphe 9.4(3) de la même loi est remplacé par ce qui suit :
+
+**Définition de relation de correspondant bancaire**
+
+- **(3)** Pour l’application du présent article, ***relation de correspondant bancaire*** s’entend de la relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d), e) ou e.1) ou une autre entité visée à l’article 5 et visée par règlement s’engage à fournir à une entité étrangère visée par règlement des services prévus par règlement ou des services de télévirements internationaux, de gestion de trésorerie ou de compensation de chèques.
+
+
+
+######           — 2017, ch. 20, art. 417
+
+**417** La même loi est modifiée par adjonction, après l’article 9.6, de ce qui suit :
+
+**Mesures et renseignements : alinéa 5e.1)**
+
+**9.61** 
+
+- **(1)** Il incombe à toute entité visée à l’alinéa 5e.1) de prendre les mesures réglementaires liées au programme visé au paragraphe 9.6(1) et de fournir au Centre les renseignements réglementaires dans les cas prévus par règlement.
+
+**Signification**
+
+- **(2)** Il incombe à toute entité visée à l’alinéa 5e.1) de fournir, aux fins de signification, les nom et adresse d’une personne qui réside au Canada et qui est autorisée à accepter, au nom de l’entité, des avis signifiés par le Centre au titre de la présente loi ou que celui-ci fait signifier au titre de cette loi.
+
+**Personne autorisée**
+
+- **(3)** S’agissant d’une entité visée à l’alinéa 5e.1), il suffit, pour que les avis soient considérés comme signifiés par le Centre ou à sa demande, qu’ils soient signifiés à la personne dont le nom est fourni conformément au paragraphe (2).
+
+
+
+
+
+######           — 2017, ch. 20, par. 423(1)
+
+**423** 
+
+- **(1)** Le paragraphe 11.42(1) de la même loi est remplacé par ce qui suit :
+
+**Directive ministérielle**
+
+**11.42** 
+
+- **(1)** En sus de toute autre mesure prévue par la présente loi, le ministre peut, au moyen d’une directive écrite, et ce, afin de protéger l’intégrité du système financier canadien, enjoindre à toute personne ou entité visée à l’article 5 de prendre toute mesure que le ministre précise concernant toute opération financière — ou toute opération financière faisant partie d’une catégorie d’opérations financières — qui émane d’un État étranger, d’une entité étrangère ou d’une entité visée à l’alinéa 5e.1) ou qui est destinée à l’un ou l’autre et qui est effectuée ou tentée dans le cours des activités de la personne ou entité ou concernant toute activité qui est liée à l’une de ces opérations.
+
+
+
+
+
+######           — 2017, ch. 20, par. 423(3)
+
+**423** 
+
+- **(3)** Les alinéas 11.42(4)a) et b) de la même loi sont remplacés par ce qui suit :
+
+- **a)** le fait qu’une organisation, un organisme, une association ou une coalition de niveau international ou un groupe d’États — tel le Groupe d’action financière — dont le Canada est membre appelle ses membres à prendre des mesures à l’égard d’un État étranger, d’une entité étrangère ou d’une entité visée à l’alinéa 5e.1) pour le motif que celles prises par cet État ou cette entité pour lutter contre le recyclage des produits de la criminalité ou le financement des activités terroristes sont inefficaces ou inadéquates;
+- **b)** le fait que les mesures prises par un État étranger, une entité étrangère ou une entité visée à l’alinéa 5e.1) pour lutter contre le recyclage des produits de la criminalité ou le financement des activités terroristes sont inefficaces ou inadéquates, ce qui, selon le ministre, pourrait porter atteinte à l’intégrité ou poser un risque d’atteinte à la réputation du système financier canadien.
+
+
+
+
+
+######           — 2017, ch. 20, art. 425
+
+**425** 
+
+- **(1)** L’alinéa 11.49(1)a) de la même loi est remplacé par ce qui suit :
+
+- **a)** interdire à toute personne ou entité visée à l’article 5 d’effectuer ou de faciliter, directement ou indirectement, toute opération financière — ou toute opération financière faisant partie d’une catégorie d’opérations financières — qui émane d’un État étranger, d’une entité étrangère ou d’une entité visée à l’alinéa 5e.1) ou qui est destinée à l’un ou l’autre, ou à y prendre part, ou lui imposer des restrictions à cet égard;
+
+
+
+- **(2)** Les alinéas 11.49(3)a) et b) de la même loi sont remplacés par ce qui suit :
+
+- **a)** le fait que :
+	- **(i)** d’une part, une organisation, un organisme, une association ou une coalition de niveau international ou un groupe d’États — tel le Groupe d’action financière — dont le Canada est membre appelle ses membres à prendre des mesures à l’égard d’un État étranger, d’une entité étrangère ou d’une entité visée à l’alinéa 5e.1) pour le motif que celles prises par cet État ou cette entité pour lutter contre le recyclage des produits de la criminalité ou le financement des activités terroristes sont inefficaces ou inadéquates,
+	- **(ii)** d’autre part, des activités de recyclage des produits de la criminalité ou de financement des activités terroristes risquent d’être exercées dans l’État étranger ou par l’entremise de l’entité étrangère ou de l’entité visée à l’alinéa 5e.1);
+- **b)** le fait que les mesures prises par un État étranger, une entité étrangère ou une entité visée à l’alinéa 5e.1) pour lutter contre le recyclage des produits de la criminalité ou le financement des activités terroristes sont inefficaces ou inadéquates et que le risque que des activités de recyclage des produits de la criminalité ou de financement des activités terroristes soient exercées dans l’État étranger ou par l’entremise de l’entité étrangère ou de l’entité visée à l’alinéa 5e.1) est élevé, ce qui, selon le ministre, pourrait porter atteinte à l’intégrité ou poser un risque d’atteinte à la réputation du système financier canadien.
+
+
+
+
+
+######           — 2017, ch. 20, art. 438
+
+**438** L’article 9.31 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, édicté par l’article 258 de la [Loi no 1 sur le plan d’action économique de 2014](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020.md), est remplacé par ce qui suit :
+
+**Interdiction : absence d’inscription**
+
+**9.31** 
+
+- **(1)** Il est interdit à toute entité visée aux alinéas 5a), b), d), e) ou e.1) et à toute autre entité visée à l’article 5 et visée par règlement d’ouvrir ou de maintenir un compte pour une personne ou entité visée à l’alinéa 5h.1) ou d’avoir une relation de correspondant bancaire avec cette personne ou entité, à moins que cette personne ou entité ne soit inscrite auprès du Centre en application de l’article 11.1.
+
+**Définition de relation de correspondant bancaire**
+
+- **(2)** Pour l’application du présent article, ***relation de correspondant bancaire*** s’entend de la relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d), e) ou e.1) ou une autre entité visée à l’article 5 et visée par règlement s’engage à fournir à une personne ou entité visée à l’alinéa 5h.1) des services prévus par règlement ou des services de télévirements internationaux, de gestion de trésorerie ou de compensation de chèques.
+
+
+
+
+
+######           — 2017, ch. 20, par. 439(1), (6) et (8)
+
+
+**
+> 2014, ch. 20
+**
+
+**439** 
+
+- **(1)** Au présent article, ***autre loi*** s’entend de la [Loi no 1 sur le plan d’action économique de 2014](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020.md).
+
+- **(6)** Dès le premier jour où l’article 261 de l’autre loi et l’article 419 de la présente loi sont tous deux en vigueur, l’article 11.1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes est remplacé par ce qui suit :
+
+**Obligation de s’inscrire**
+
+**11.1** Sauf disposition contraire des règlements, sont inscrites auprès du Centre, en conformité avec le présent article et les articles 11.11 à 11.2, les personnes ou entités visées aux alinéas 5h) ou h.1), celles visées à l’alinéa 5l) qui émettent ou vendent des mandats-poste au public ou les rachètent du public ainsi que toutes celles qui sont visées à l’article 5 et visées par règlement.
+
+
+
+- **(8)** Si l’article 421 de la présente loi entre en vigueur avant l’article 263 de l’autre loi, à la date d’entrée en vigueur de cet article 263, l’alinéa 11.12(1)a) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes est remplacé par ce qui suit :
+
+- **a)** d’une liste des mandataires ou succursales du demandeur qui se livrent, pour le compte de celui-ci, aux activités visées aux alinéas 5h) ou h.1), à l’émission ou à la vente de mandats-poste au public ou à leur rachat du public si le demandeur est une personne ou entité visée à l’alinéa 5l) ou à toute autre activité visée par règlement;
+
+
+
+
+
+######           — 2017, ch. 20, par. 440(1) et al. (3)b)
+
+
+**
+> 2014, ch. 39
+**
+
+**440** 
+
+- **(1)** Au présent article, ***autre loi*** s’entend de la Loi no 2 sur le plan d’action économique de 2014.
+
+- **(3)** Si l’article 422 de la présente loi entre en vigueur avant l’article 250 de l’autre loi :
+	- **b)** à la date d’entrée en vigueur du paragraphe 256(2) de la [Loi no 1 sur le plan d’action économique de 2014](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020.md), l’article 11.41 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes est remplacé par ce qui suit :
+
+**Définition de entité étrangère**
+
+**11.41** Pour l’application de la présente partie, ***entité étrangère*** s’entend, selon le cas :
+	- **a)** d’une entité visée à l’alinéa 5h.1);
+	- **b)** d’une entité, à l’exception d’une entité visée à l’article 5, qui est constituée en personne morale ou formée sous le régime de la législation d’un État étranger, notamment toute filiale de celle-ci, et qui n’exerce pas ses activités au Canada, dans le cas où elle exerce des activités semblables à celles des entités visées à l’un des alinéas 5a) à g) ou à celles prévues aux alinéas 5h) ou h.1).
+
+
+
+
+
+######           — 2019, ch. 13, art. 88
+
+**88** L’alinéa 55(3)f) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes est remplacé par ce qui suit :
+
+- **f)** au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le volet de son mandat, visé à l’article 16 de la [Loi sur le Centre de la sécurité des télécommunications](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2076.md), touchant le renseignement étranger;
+
+
+
 
 
