@@ -53,7 +53,7 @@ que le Canada doit être en mesure de remplir ses obligations internationales li
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
-> 2002, ch. 28, préambule; 2016, ch. 9, art. 32..
+> 2002, ch. 28, préambule; 2016, ch. 9, art. 32.
 
 
 
@@ -163,7 +163,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Risques acceptables**
 
 - **(2)** Pour l’application de la présente loi, les risques sanitaires ou environnementaux d’un produit antiparasitaire sont acceptables s’il existe une certitude raisonnable qu’aucun dommage à la santé humaine, aux générations futures ou à l’environnement ne résultera de l’exposition au produit ou de l’utilisation de celui-ci, compte tenu des conditions d’homologation proposées ou fixées.
-> 2002, ch. 28, art. 2; 2016, ch. 9, art. 33.
+> 2002, ch. 28, art. 2; 2016, ch. 9, art. 33
 
 
 
@@ -197,7 +197,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** tenter de réduire au minimum les risques sanitaires et environnementaux que présentent les produits antiparasitaires et d’encourager le développement et la mise en oeuvre de stratégies de lutte antiparasitaire durables et innovatrices — en facilitant l’accès à des produits antiparasitaires à risque réduit — et d’autres mesures indiquées;
 	- **c)** sensibiliser le public aux produits antiparasitaires en l’informant, en favorisant son accès aux renseignements pertinents et en encourageant sa participation au processus de prise de décision;
 	- **d)** veiller à ce que seuls les produits antiparasitaires dont la valeur a été déterminée comme acceptable soient approuvés pour utilisation au Canada.
-> 2002, ch. 28, art. 4; 2016, ch. 9, art. 34.
+> 2002, ch. 28, art. 4; 2016, ch. 9, art. 34
 
 
 
@@ -282,7 +282,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(9)** Quiconque contrevient à toute disposition du présent article commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 6; 2016, ch. 9, art. 35.
+> 2002, ch. 28, art. 6; 2016, ch. 9, art. 35
 
 
 
@@ -353,7 +353,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Observations**
 
 - **(10)** Pour l’application du paragraphe (9) et avant de prendre une décision définitive, le ministre donne au demandeur la possibilité de présenter ses observations sur les renseignements visés à ce paragraphe.
-> 2002, ch. 28, art. 7; 2017, ch. 6, art. 109.
+> 2002, ch. 28, art. 7; 2017, ch. 6, art. 109
 
 
 
@@ -387,7 +387,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Anciens titulaires**
 
 - **(6)** L’obligation visée au paragraphe (5) d’établir et de conserver un registre des renseignements sur les ventes d’un produit antiparasitaire et de transmettre un rapport sur ces renseignements continue de s’appliquer à un ancien titulaire après que ce produit cesse d’être homologué.
-> 2002, ch. 28, art. 8; 2016, ch. 9, art. 36.
+> 2002, ch. 28, art. 8; 2016, ch. 9, art. 36
 
 
 
@@ -514,7 +514,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Évaluation du produit**
 
 - **(6)** Une fois le processus de réévaluation enclenché, le ministre procède, en conformité avec les éventuels règlements, aux évaluations qu’il juge nécessaires en ce qui concerne la valeur du produit ou les risques sanitaires ou environnementaux qu’il présente et procède aux consultations exigées par l’article 28.
-> 2002, ch. 28, art. 16; 2017, ch. 6, art. 110.
+> 2002, ch. 28, art. 16; 2017, ch. 6, art. 110
 
 
 
@@ -553,7 +553,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Énoncé de consultation nouveau ou modifié**
 
 - **(8)** S’il étend la portée d’une réévaluation ou d’un examen spécial au titre du paragraphe (7) après avoir rendu public l’énoncé de consultation relatif à la réévaluation ou à l’examen spécial au titre du paragraphe 28(2), le ministre rend public au titre de ce paragraphe un énoncé de consultation nouveau ou modifié qui tient compte de l’aspect visé au paragraphe (7).
-> 2002, ch. 28, art. 17; 2019, ch. 29, art. 217.
+> 2002, ch. 28, art. 172019, ch. 29, art. 217
 
 
 
@@ -571,7 +571,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** il a rendu public un énoncé de décision au titre du paragraphe 28(5) en ce qui a trait à la réévaluation du produit ou à l’examen spécial relatif au produit;
 	- **b)** l’aspect du produit qui aurait justifié l’examen spécial était visé par la réévaluation ou l’examen spécial visé à l’alinéa a);
 	- **c)** il conclut qu’il n’y a pas de renseignements supplémentaires au sujet de risques sanitaires ou environnementaux que présente le produit qui feraient en sorte qu’il aurait des motifs raisonnables de croire que ces risques sont inacceptables.
-> 2019, ch. 29, art. 218.
+> 2019, ch. 29, art. 218
 
 
 
@@ -582,7 +582,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **17.2** Le ministre rend publiques les décisions ci-après ainsi que les motifs de celles-ci :
 - **a)** les décisions prises au titre du paragraphe 17(7) d’étendre la portée d’une réévaluation ou d’un examen spécial à l’aspect qui aurait justifié un nouvel examen spécial au titre du paragraphe 17(2);
 - **b)** les décisions prises au titre des paragraphes 17.1(1) ou (2) de ne pas procéder à un examen spécial relatif à l’aspect qui aurait justifié un tel examen au titre du paragraphe 17(2).
-> 2019, ch. 29, art. 218.
+> 2019, ch. 29, art. 218
 
 
 
@@ -609,7 +609,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Évaluation du produit**
 
 - **(4)** Une fois le processus d’examen spécial enclenché, le ministre, en conformité avec les éventuels règlements, évalue uniquement les aspects du produit visés par l’examen spécial et procède aux consultations exigées par l’article 28.
-> 2002, ch. 28, art. 18; 2017, ch. 6, art. 111; 2019, ch. 29, art. 219.
+> 2002, ch. 28, art. 18; 2017, ch. 6, art. 1112019, ch. 29, art. 219
 
 
 
@@ -904,7 +904,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(8)** Quiconque fournit sciemment des renseignements faux ou trompeurs relativement à l’autorisation d’exportation commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 33; 2016, ch. 9, art. 37.
+> 2002, ch. 28, art. 33; 2016, ch. 9, art. 37
 
 
 
@@ -975,7 +975,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inscription au Registre**
 
 - **(9)** Les renseignements fournis à la commission sont remis au ministre, qui les verse au Registre.
-> 2002, ch. 28, art. 35; 2016, ch. 9, art. 38.
+> 2002, ch. 28, art. 35; 2016, ch. 9, art. 38
 
 
 
@@ -1073,6 +1073,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Renseignements sur la sécurité des produits antiparasitaires non homologués
+
+
+
+**Renseignements sur la sécurité**
+
+**41.1** Toute personne qui est autorisée par les règlements à importer un produit antiparasitaire non homologué uniquement à des fins d’exportation ou uniquement à des fins réglementaires et qui l’importe aux fins autorisées fournit, en conformité avec les règlements, aux lieux de travail où celui-ci est manipulé ou stocké, des renseignements sur la sécurité du produit qui sont conformes aux exigences réglementaires.
+> 2016, ch. 9, art. 39
+
+
+
+
+
 ## Accès à l’information
 
 
@@ -1128,9 +1141,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** les renseignements visés au paragraphe (6), dès qu’il est possible en pratique de le faire;
 	- **b)** les protocoles d’entente entre ministères fédéraux visant la réglementation des produits antiparasitaires;
 	- **c)** les rapports des activités d’harmonisation internationale visant la réglementation des produits antiparasitaires;
-	- **d)** les règlements et projets de règlement émanant de la présente loi et publiés dans la Gazette du Canada;
+	- **d)** les règlements et projets de règlement émanant de la présente loi et publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/);
 	- **e)** les politiques, lignes directrices et codes de pratique visant la réglementation des produits antiparasitaires, lorsqu’ils sont proposés pour consultation publique, et leur texte définitif une fois adoptés.
-> 2002, ch. 28, art. 42; 2018, ch. 27, art. 275.
+> 2002, ch. 28, art. 42; 2018, ch. 27, art. 275
 
 
 
@@ -1242,7 +1255,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(7)** Quiconque contrevient au paragraphe (6) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 44; 2016, ch. 9, art. 40.
+> 2002, ch. 28, art. 44; 2016, ch. 9, art. 40
 
 
 
@@ -1260,7 +1273,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **45** 
 
-- **(1)** Sous réserve du paragraphe (2), les nominations aux fonctions d’inspecteur ou d’analyste effectuées dans le cadre de la présente loi et des règlements doivent être conformes à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **(1)** Sous réserve du paragraphe (2), les nominations aux fonctions d’inspecteur ou d’analyste effectuées dans le cadre de la présente loi et des règlements doivent être conformes à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 **Désignation**
 
@@ -1269,7 +1282,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Certificat**
 
 - **(3)** L’inspecteur reçoit un certificat établi en la forme prévue par le ministre, attestant sa qualité; il est tenu de le présenter, sur demande, au responsable des lieux visités dans le cadre de la présente loi.
-> 2002, ch. 28, art. 45; 2016, ch. 9, art. 42.
+> 2002, ch. 28, art. 45; 2016, ch. 9, art. 42
 
 
 
@@ -1290,7 +1303,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Quiconque contrevient au présent article commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 46; 2016, ch. 9, art. 43.
+> 2002, ch. 28, art. 46; 2016, ch. 9, art. 43
 
 
 
@@ -1322,7 +1335,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** Quiconque contrevient aux paragraphes (2) ou (3) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 47; 2016, ch. 9, art. 44.
+> 2002, ch. 28, art. 47; 2016, ch. 9, art. 44
 
 
 
@@ -1366,7 +1379,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(4)** Quiconque ne fait pas ce que lui ordonne l’inspecteur en vertu des alinéas (1)c), d), d.3) ou d.7) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 48; 2016, ch. 9, art. 45.
+> 2002, ch. 28, art. 48; 2016, ch. 9, art. 45
 
 
 
@@ -1392,7 +1405,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Télémandats**
 
 - **(4)** L’inspecteur qui considère qu’il serait peu commode de se présenter en personne devant le juge de paix pour y demander le mandat visé au paragraphe (2) peut demander qu’il lui soit décerné par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique alors avec les adaptations nécessaires.
-> 2002, ch. 28, art. 49; 2016, ch. 9, art. 46.
+> 2002, ch. 28, art. 49; 2016, ch. 9, art. 46
 
 
 
@@ -1409,7 +1422,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(2)** Quiconque contrevient au paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 50; 2016, ch. 9, art. 47.
+> 2002, ch. 28, art. 50; 2016, ch. 9, art. 47
 
 
 
@@ -1426,7 +1439,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(2)** Quiconque ne fait pas ce que lui ordonne l’inspecteur en vertu du paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 51; 2016, ch. 9, art. 48.
+> 2002, ch. 28, art. 51; 2016, ch. 9, art. 48
 
 
 
@@ -1439,7 +1452,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Pouvoir de saisie**
 
 **52** L’inspecteur peut saisir et retenir tout produit antiparasitaire ou autre objet dont il a des motifs raisonnables de croire qu’il a servi ou est lié à une contravention de toute disposition de la présente loi ou des règlements ou qu’il a été obtenu dans le cadre d’une telle contravention.
-> 2002, ch. 28, art. 52; 2016, ch. 9, art. 49.
+> 2002, ch. 28, art. 52; 2016, ch. 9, art. 49
 
 
 
@@ -1478,7 +1491,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(5)** Quiconque contrevient au paragraphe (4) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 53; 2016, ch. 9, art. 51.
+> 2002, ch. 28, art. 53; 2016, ch. 9, art. 51
 
 
 
@@ -1487,7 +1500,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Mainlevée de saisie**
 
 **53.1** Si l’inspecteur est convaincu que les dispositions de la présente loi et des règlements applicables au produit antiparasitaire ou autre objet saisi en vertu de la présente loi ont été respectées, il est donné mainlevée de la saisie.
-> 2016, ch. 9, art. 52.
+> 2016, ch. 9, art. 52
 
 
 
@@ -1502,7 +1515,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Ordonnance de restitution**
 
 - **(2)** La juridiction peut faire droit à la demande si elle est convaincue qu’il existe ou qu’il peut être obtenu suffisamment d’éléments de preuve pour rendre inutile la rétention du produit antiparasitaire ou autre objet, sous réserve des conditions jugées utiles pour assurer sa conservation dans un but ultérieur.
-> 2016, ch. 9, art. 52 et 72.
+> 2016, ch. 9, art. 52 et 72
 
 
 
@@ -1535,7 +1548,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Confiscation**
 
 - **(5)** Si l’intéressé est avisé au titre du paragraphe (4) qu’il peut consentir à la confiscation du produit antiparasitaire et y consent, il y a confiscation au profit de Sa Majesté du chef du Canada et il peut être disposé du produit, aux frais de l’intéressé, conformément aux instructions du ministre.
-> 2016, ch. 9, art. 52.
+> 2016, ch. 9, art. 52
 
 
 
@@ -1578,7 +1591,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(6)** Quiconque contrevient à l’ordre qui lui a été remis sous forme d’avis commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 54; 2016, ch. 9, art. 52.
+> 2002, ch. 28, art. 54; 2016, ch. 9, art. 52
 
 
 
@@ -1603,7 +1616,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Disposition**
 
 - **(3)** En cas de confiscation de l’objet saisi, il peut en être disposé, aux frais du propriétaire ou de la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie, conformément aux instructions du ministre.
-> 2016, ch. 9, art. 52.
+> 2016, ch. 9, art. 52
 
 
 
@@ -1624,7 +1637,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(3)** Il peut être disposé du produit antiparasitaire ou autre objet confisqué en vertu du paragraphe (2), conformément aux instructions du ministre :
 	- **a)** à défaut de saisie, aux frais du propriétaire;
 	- **b)** en cas de saisie, aux frais du propriétaire ou de la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie.
-> 2002, ch. 28, art. 55; 2012, ch. 24, art. 106; 2016, ch. 9, art. 52 et 72.
+> 2002, ch. 28, art. 55; 2012, ch. 24, art. 106; 2016, ch. 9, art. 52 et 72
 
 
 
@@ -1639,7 +1652,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Exception**
 
 - **(2)** Le produit antiparasitaire ou autre objet saisi peut être retenu jusqu’au paiement de l’amende ou de la pénalité infligée au propriétaire de l’objet ou à la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie, ou il peut être vendu et le produit de la vente affecté au paiement de l’amende ou de la pénalité.
-> 2002, ch. 28, art. 56; 2016, ch. 9, art. 52.
+> 2002, ch. 28, art. 56; 2016, ch. 9, art. 52
 
 
 
@@ -1658,7 +1671,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Disposition**
 
 - **(3)** En cas de confiscation de l’objet, il peut en être disposé, conformément aux instructions du ministre, aux frais du propriétaire ou de la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie.
-> 2016, ch. 9, art. 52.
+> 2016, ch. 9, art. 52
 
 
 
@@ -1695,7 +1708,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Poursuites**
 
 - **(5)** L’ordre peut être donné même si aucune inculpation n’a été formulée contre le contrevenant; en cas d’inculpation, le tribunal qui juge la contravention peut le confirmer, le modifier ou l’annuler.
-> 2002, ch. 28, art. 57; 2016, ch. 9, art. 54 et 62(A).
+> 2002, ch. 28, art. 57; 2016, ch. 9, art. 54 et 62(A)
 
 
 
@@ -1734,7 +1747,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(4)** Quiconque contrevient à l’ordre qui lui a été remis commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
-> 2002, ch. 28, art. 59; 2016, ch. 9, art. 55 et 62(A).
+> 2002, ch. 28, art. 59; 2016, ch. 9, art. 55 et 62(A)
 
 
 
@@ -1800,7 +1813,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Effet de la modification**
 
 - **(13)** Lorsque la décision mentionnée au paragraphe (10) modifie l’ordre, l’avis de la décision est réputé, pour l’application de l’article 61, avoir été remis conformément aux paragraphes 53(2), 57(3) ou 59(3), et l’ordre modifié est susceptible de révision conformément au présent article.
-> 2002, ch. 28, art. 60; 2016, ch. 9, art. 62(A).
+> 2002, ch. 28, art. 60; 2016, ch. 9, art. 62(A)
 
 
 
@@ -1813,7 +1826,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Demande**
 
 **61** Si la personne visée n’exécute pas l’ordre remis conformément aux paragraphes 53(2), 57(3) ou 59(3), le ministre peut demander à la Cour fédérale ou à tout autre tribunal compétent de lui ordonner de s’y soumettre ou d’autoriser l’inspecteur à prendre les mesures que le tribunal estime nécessaires à son respect.
-> 2002, ch. 28, art. 61; 2016, ch. 9, art. 62(A).
+> 2002, ch. 28, art. 61; 2016, ch. 9, art. 62(A)
 
 
 
@@ -1848,7 +1861,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(6)** Il est entendu que la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux avis et autres documents remis en application de la présente loi.
-> 2002, ch. 28, art. 62; 2016, ch. 9, art. 57.
+> 2002, ch. 28, art. 62; 2016, ch. 9, art. 57
 
 
 
@@ -1861,7 +1874,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Recouvrement des droits**
 
 **63** Sa Majesté du chef du Canada peut recouvrer, à titre de créance de Sa Majesté du chef du Canada, tout droit lié à l’application des dispositions de la présente loi ou des règlements.
-> 2002, ch. 28, art. 63; 2016, ch. 9, art. 58.
+> 2002, ch. 28, art. 63; 2016, ch. 9, art. 58
 
 
 
@@ -1872,7 +1885,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **64** Sa Majesté du chef du Canada peut également recouvrer, à titre de créance de Sa Majesté du chef du Canada, les frais exposés par elle et liés aux mesures prises sous le régime de la présente loi, notamment en ce qui touche :
 - **a)** l’inspection, le traitement, les essais ou les analyses d’un lieu, d’un produit antiparasitaire ou de tout autre objet, ou encore le stockage, le déplacement, la saisie, la rétention, la confiscation, la disposition ou la restitution d’un produit ou d’un objet;
 - **b)** les mesures d’application ou de contrôle de risques prises par le ministre ou l’inspecteur sous le régime de la présente loi.
-> 2002, ch. 28, art. 64; 2016, ch. 9, art. 58.
+> 2002, ch. 28, art. 64; 2016, ch. 9, art. 58
 
 
 
@@ -1881,7 +1894,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Prescription**
 
 **64.1** Le recouvrement au titre de la présente loi de toute créance de Sa Majesté du chef du Canada se prescrit par cinq ans à compter de la date à laquelle la créance est devenue exigible.
-> 2016, ch. 9, art. 58.
+> 2016, ch. 9, art. 58
 
 
 
@@ -1896,7 +1909,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Enregistrement en Cour fédérale**
 
 - **(2)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
-> 2016, ch. 9, art. 58.
+> 2016, ch. 9, art. 58
 
 
 
@@ -1938,7 +1951,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Règlements**
 
 - **(5)** Les règlements pris par le ministre de la Justice en vertu de l’article 9 de la [Loi sur l’arbitrage commercial](/fr/Lois/Lois%20du%20Canada/1985/ch.%2017%20(2e%20suppl.).md) s’appliquent à toute procédure d’arbitrage visée au paragraphe (3) à moins d’avis contraire des parties.
-> 2002, ch. 28, art. 66; 2017, ch. 6, art. 112.
+> 2002, ch. 28, art. 66; 2017, ch. 6, art. 112
 
 
 
@@ -2019,7 +2032,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 ***Accord de libre-échange nord-américain*** Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*North American Free Trade Agreement*)
 
 ***Accord sur l’OMC*** Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md). (*WTO Agreement*)
-> 2002, ch. 28, art. 67; 2016, ch. 9, art. 59; 2017, ch. 6, art. 113.
+> 2002, ch. 28, art. 67; 2016, ch. 9, art. 59; 2017, ch. 6, art. 113
 
 
 
@@ -2045,11 +2058,11 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Violation d’un arrêté non publié**
 
-- **(3)** Nul ne peut être condamné pour violation d’un arrêté d’urgence qui, à la date du fait reproché, n’avait pas été publié dans la Gazette du Canada, sauf s’il est établi qu’à cette date l’arrêté avait été porté à sa connaissance ou des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
+- **(3)** Nul ne peut être condamné pour violation d’un arrêté d’urgence qui, à la date du fait reproché, n’avait pas été publié dans la [Gazette du Canada](http://www.gazette.gc.ca/), sauf s’il est établi qu’à cette date l’arrêté avait été porté à sa connaissance ou des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
 
 **Dérogation à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(4)** L’arrêté est soustrait à l’application des articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) et publié dans la Gazette du Canada dans les vingt-trois jours suivant sa prise.
+- **(4)** L’arrêté est soustrait à l’application des articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) et publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dans les vingt-trois jours suivant sa prise.
 
 **Présomption**
 
@@ -2062,7 +2075,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Communication au greffier**
 
 - **(7)** Il suffit, pour se conformer à l’obligation prévue au paragraphe (6), de communiquer la copie de l’arrêté au greffier de la chambre dans le cas où celle-ci ne siège pas.
-> 2004, ch. 15, art. 111.1.
+> 2004, ch. 15, art. 111.1
 
 
 
@@ -2119,7 +2132,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Disculpation — précautions voulues**
 
 **69.1** Nul ne peut être déclaré coupable d’une infraction prévue par la présente loi — autre qu’une infraction prévue à l’article 30 ou aux paragraphes 33(8), 40(1) ou 44(7), une infraction prévue au paragraphe 47(4) en ce qui concerne une contravention au paragraphe 47(3) ou une infraction prévue aux paragraphes 68(3) ou 70(3) — s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
-> 2016, ch. 9, art. 60.
+> 2016, ch. 9, art. 60
 
 
 
@@ -2151,7 +2164,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Infraction commise par un employé ou un mandataire**
 
 **71** Dans les poursuites pour une infraction à la présente loi — autre qu’une infraction prévue à l’article 30 ou aux paragraphes 33(8), 40(1) ou 44(7), une infraction prévue au paragraphe 47(4) en ce qui concerne une contravention au paragraphe 47(3) ou une infraction prévue aux paragraphes 68(3) ou 70(3) —, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un employé ou un mandataire de l’accusé, que cet employé ou mandataire ait été ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement et qu’il avait pris toutes les précautions voulues pour l’empêcher.
-> 2002, ch. 28, art. 71; 2016, ch. 9, art. 61.
+> 2002, ch. 28, art. 71; 2016, ch. 9, art. 61
 
 
 
@@ -2338,5 +2351,47 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 <sup><a href='#P-9.01_s90_f'>[*]</a></sup>**90** Les dispositions de la présente loi ou celles de toute autre loi édictées par elle entrent en vigueur à la date ou aux dates fixées par décret.
 
 <a name='P-9.01_s90_f'><sup>*</sup></a>: [Note : Loi en vigueur le 28 juin 2006, *voir* TR/2006-93.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2016, ch. 9, art. 68
+
+
+**Article 54 de la Loi sur les produits antiparasitaires**
+
+**68** L’article 54 de la Loi sur les produits antiparasitaires, dans sa version antérieure à la date d’entrée en vigueur de l’article 52 de la présente loi, continue de s’appliquer à tout produit antiparasitaire ou autre objet saisi sous le régime de la Loi sur les produits antiparasitaires avant cette date.
+
+
+
+######           — 2016, ch. 9, art. 69
+
+
+**Articles 60 et 61 de la Loi sur les produits antiparasitaires**
+
+**69** Les articles 60 et 61 de la Loi sur les produits antiparasitaires, dans leur version antérieure à la date d’entrée en vigueur de l’article 62 de la présente loi, continuent de s’appliquer aux ordres remis au titre des paragraphes 53(2), 57(3) ou 59(3) de la Loi sur les produits antiparasitaires, dans leur version antérieure à cette date.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2016, ch. 9, par. 36(2) et (3)
+
+**36** 
+
+- **(2)** Le paragraphe 8(3) de la même loi est abrogé.
+
+- **(3)** L’article 8 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+**Renseignements sur la sécurité**
+
+- **(4.1)** Sous réserve des règlements, comme condition d’homologation, le titulaire d’un produit antiparasitaire, selon le cas :
+	- **a)** fournit, en conformité avec les règlements, aux lieux de travail où celui-ci est fabriqué, manipulé, stocké ou utilisé, des renseignements sur la sécurité du produit antiparasitaire qui sont conformes aux exigences réglementaires;
+	- **b)** met ces renseignements, en conformité avec les règlements, à la disposition des personnes qui fabriquent, manipulent, stockent ou utilisent le produit antiparasitaire.
+
 
 
