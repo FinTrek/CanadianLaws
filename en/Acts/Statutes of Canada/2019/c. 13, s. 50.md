@@ -8,7 +8,7 @@
 Assented to on 21 June 2019
 
 ```
-[Enacted by section 50 of chapter 13 of the Statutes of Canada, 2019, not in force.]
+[Enacted by section 50 of chapter 13 of the Statutes of Canada, 2019, in force July 12, 2019, see SI/2019-67.]
 ```
 ----------
 
@@ -302,7 +302,11 @@ Assented to on 21 June 2019
 
 **Entitlement to reports**
 
-**24** The Commissioner is entitled to receive a copy of a report, or part of one, submitted by the National Security and Intelligence Review Agency under subsection 32(1) or 33(1) or section 34 or 35 of the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md), if the report or part relates to the Commissioner’s powers, duties or functions.
+**24** The Commissioner is entitled to receive a copy of the following reports, or of a part of the reports, if the report or part in question relates to the Commissioner’s powers, duties or functions:
+- **(a)** a special report submitted by the National Security and Intelligence Committee of Parliamentarians under subsection 21(2) of the [National Security and Intelligence Committee of Parliamentarians Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2015.md); and
+- **(b)** a report submitted by the National Security and Intelligence Review Agency under subsection 32(1) or 33(1) or section 34 or 35 of the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md).
+> 2019, c. 13, s. 50 “24”2019, c. 13, s. 75
+
 
 
 
@@ -321,5 +325,142 @@ Assented to on 21 June 2019
 **No entitlement**
 
 **26** The Commissioner is not entitled to have access to information that is a confidence of the Queen’s Privy Council for Canada the disclosure of which could be refused under section 39 of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md).
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 13, s. 51
+
+
+**Definitions**
+
+**51** The following definitions apply in sections 52 to 59.
+
+***former Commissioner*** means the Commissioner of the Communications Security Establishment appointed under subsection 273.63(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), as it read immediately before the coming into force of section 68. (*ancien commissaire*)
+
+***new Commissioner*** means the Intelligence Commissioner under the Intelligence Commissioner Act. (*nouveau commissaire*)
+
+
+
+######           — 2019, c. 13, s. 52
+
+
+**Former Commissioner**
+
+**52** The person occupying the position of the former Commissioner immediately before the day on which this section comes into force is, on that day and for the remainder of the term for which he or she was appointed to that position, to become the new Commissioner as if he or she had been appointed under subsection 4(1) of the Intelligence Commissioner Act.
+
+
+
+######           — 2019, c. 13, s. 53
+
+
+**Status continued**
+
+**53** 
+
+- **(1)** Nothing in this Act is to be construed as affecting the status of a person who, immediately before the day on which this section comes into force, occupied a position with the office of the former Commissioner, except that the person is to occupy their position in the office of the new Commissioner on that day.
+
+**For greater certainty**
+
+- **(2)** For greater certainty, a person’s status includes whether or not they occupy a managerial or confidential position.
+
+
+
+######           — 2019, c. 13, s. 54
+
+
+**Powers, duties and functions**
+
+**54** A person referred to in section 53 who was authorized, immediately before the day on which that section comes into force, by the former Commissioner to exercise certain powers or perform certain duties and functions retains the authority to exercise those powers and perform those duties and functions in the office of the new Commissioner.
+
+
+
+######           — 2019, c. 13, s. 55
+
+
+**Appropriations**
+
+**55** Any money that is appropriated by an Act of Parliament, for the fiscal year in which this section comes into force, to defray any expenditure of the office of the former Commissioner and that, on the day on which this section comes into force, is unexpended is deemed, on that day, to be an amount appropriated to defray any expenditure of the office of the new Commissioner.
+
+
+
+######           — 2019, c. 13, s. 56
+
+
+**Rights, property and obligations**
+
+**56** Subject to section 15, all rights and property of the office of the former Commissioner and of Her Majesty in right of Canada that are under the administration and control of the office of the former Commissioner and all obligations of the office of the former Commissioner are transferred to the office of the new Commissioner.
+
+
+
+######           — 2019, c. 13, s. 57
+
+
+**Contracts**
+
+**57** 
+
+- **(1)** A contract respecting the provision of materiel or services to the office of the former Commissioner that was entered into by that Commissioner is deemed to have been entered into by the new Commissioner.
+
+**References**
+
+- **(2)** Unless the context otherwise requires, every reference to the former Commissioner in a contract referred to in subsection (1) is to be read as a reference to the new Commissioner.
+
+
+
+######           — 2019, c. 13, s. 58
+
+
+**Commencement of proceedings**
+
+**58** 
+
+- **(1)** Any action, suit or other legal or administrative proceeding in respect of an obligation or liability incurred by the former Commissioner, other than one relating to a complaint or a review before him or her, may be brought against the new Commissioner in any court that would have had jurisdiction if the action, suit or other legal proceeding had been brought against the former Commissioner.
+
+**Pending proceedings**
+
+- **(2)** Any action, suit or other legal or administrative proceeding to which the former Commissioner is a party, other than one relating to a complaint or a review before him or her, and that is pending immediately before the day on which this section comes into force may be continued by or against the new Commissioner in the same manner and to the same extent as it could have been continued by or against the former Commissioner.
+
+
+
+######           — 2019, c. 13, s. 59
+
+
+**No compensation**
+
+**59** Despite the provisions of any contract, agreement or order, the person appointed to hold office as the former Commissioner has no right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office by the operation of section 68.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 13, s. 82
+
+
+**References**
+
+**82** 
+
+- **(1)** A reference to the former department in any of the following is deemed to be a reference to the new department:
+	- **(a)** Schedule I to the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) under the heading “Other Government Institutions”;
+	- **(b)** Schedules I.1, V and VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+	- **(c)** the schedule to the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) under the heading “Other Government Institutions”;
+	- **(d)** the schedule to the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md);
+	- **(e)** Schedule 3 to the [Security of Canada Information Disclosure Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md);
+	- **(f)** the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md); and
+	- **(g)** the Intelligence Commissioner Act.
+
+**Other references**
+
+- **(1.1)** Unless the context requires otherwise, every reference to the former department in any Act of Parliament, other than an Act referred to in subsection (1), or in any order, regulation or other instrument made under an Act of Parliament is deemed to be a reference to the new department.
+
+**Deputy head**
+
+- **(2)** The designation of a person as deputy head of the former department in any order of the Governor in Council made under section 55 of the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md) is deemed to be a designation of the Chief of the new department as deputy head of that department.
+
 
 
