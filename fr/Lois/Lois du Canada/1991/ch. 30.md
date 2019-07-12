@@ -63,14 +63,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** dans le cas du salarié dont le taux de salaire tout en dépassant 27 000 $ ne dépasse pas 27 500 $, à la fraction de 500 $ qui correspond à l’excédent de son taux de salaire sur 27 000 $;
 - **d)** soit l’éventuel versement, dans les circonstances qui découlent du transfert prévu à l’alinéa 11(2)g.1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), d’une indemnité de départ ou de crédits de congés payés acquis mais non utilisés. (*compensation*)
 
-***salarié*** Personne qui a droit à une rétribution ou à un taux de salaire fixe ou vérifiable pour les fonctions dont elle s’acquitte. La présente définition exclut les personnes visées par le [Règlement sur l’embauchage à l’étranger](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/152.md) ainsi que celles recrutées sur place à l’étranger et dont les postes sont exemptés, en tout ou en partie, de l’application de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) conformément à l’article 41 de cette loi. (*employee*)
+***salarié*** Personne qui a droit à une rétribution ou à un taux de salaire fixe ou vérifiable pour les fonctions dont elle s’acquitte. La présente définition exclut les personnes visées par le [Règlement sur l’embauchage à l’étranger](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/152.md) ainsi que celles recrutées sur place à l’étranger et dont les postes sont exemptés, en tout ou en partie, de l’application de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md) conformément à l’article 41 de cette loi. (*employee*)
 
 ***taux de salaire*** Taux unique de salaire ou fourchette salariale, y compris les rajustements de coût de la vie, ou, à défaut de ce taux ou de cette fourchette, tout montant fixe ou vérifiable de salaire. Sont exclus de la présente définition les allocations, bonis, primes, indemnités ou autres avantages versés dans des circonstances déterminées par arrêté du Conseil du Trésor. (*wage rate*)
 
 **Expiration des régimes de rémunération**
 
 - **(2)** À moins qu’il ne comporte une date d’expiration, un régime de rémunération est, pour l’application de la présente loi, réputé expirer la veille du jour où les taux de salaire qu’il prévoit seraient normalement révisés.
-> 1991, ch. 30, art. 2; 1993, ch. 13, art. 2; 1994, ch. 18, art. 2; 1996, ch. 18, art. 12.
+> 1991, ch. 30, art. 2; 1993, ch. 13, art. 2; 1994, ch. 18, art. 2; 1996, ch. 18, art. 12
 
 
 
@@ -112,7 +112,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 **Exclusion**
 
 - **(4)** Il demeure entendu que la présente loi ne s’applique pas aux personnes engagées à titre d’entrepreneurs indépendants.
-> 1991, ch. 30, art. 3; 1993, ch. 13, art. 3; 2015, ch. 36, art. 150; 2017, ch. 20, art. 185.
+> 1991, ch. 30, art. 3; 1993, ch. 13, art. 3; 2015, ch. 36, art. 150; 2017, ch. 20, art. 185
 
 
 
@@ -154,7 +154,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 **Cas particulier**
 
 - **(3)** Le régime de rémunération des personnes visées au paragraphe 3(3.1) en vigueur au 10 décembre 1992 est prorogé de quatre ans à compter de la date prévue, en l’absence du présent paragraphe, pour son expiration.
-> 1991, ch. 30, art. 5; 1993, ch. 13, art. 4; 1994, ch. 18, art. 3.
+> 1991, ch. 30, art. 5; 1993, ch. 13, art. 4; 1994, ch. 18, art. 3
 
 
 
@@ -204,7 +204,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 **Travail partagé**
 
 - **(6)** Le présent article ne porte nullement atteinte aux accords de partage de travail approuvés dans le cadre de l’article 24 de la Loi sur l’assurance-chômage.
-> 1991, ch. 30, art. 7; 1993, ch. 13, art. 5; 1994, ch. 18, art. 4.
+> 1991, ch. 30, art. 7; 1993, ch. 13, art. 5; 1994, ch. 18, art. 4
 
 
 
@@ -220,7 +220,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 
 - <sup><a href='#P-31.6_fr_1'>[*]</a></sup>**(2)** À compter de la date d’entrée en vigueur de l’article 7.2, les dispositions suivantes s’appliquent :
 	- **a)** une somme visée au paragraphe (1) ne peut être offerte ou donnée, dans le cadre du Programme de réduction du personnel civil, à un salarié — ou pour son compte — engagé pour une durée indéterminée par le ministère de la Défense nationale ou le service de la Protection civile du Canada que s’il est fonctionnaire excédentaire au sens de la Directive sur le réaménagement des effectifs;
-	- **b)** le salarié visé à l’alinéa a) et à qui une somme a été offerte dans le cadre du paragraphe (1), avant ou après cette date, mais qui n’a pas perdu sa qualité de fonctionnaire au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) devient assujetti au programme et à l’article 7.2; le paiement est toutefois effectué selon le montant et les conditions et modalités applicables aux termes du Programme de réduction du personnel civil et aucune somme ne peut lui être offerte ou donnée dans le cadre de l’article 7.2.
+	- **b)** le salarié visé à l’alinéa a) et à qui une somme a été offerte dans le cadre du paragraphe (1), avant ou après cette date, mais qui n’a pas perdu sa qualité de fonctionnaire au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md) devient assujetti au programme et à l’article 7.2; le paiement est toutefois effectué selon le montant et les conditions et modalités applicables aux termes du Programme de réduction du personnel civil et aucune somme ne peut lui être offerte ou donnée dans le cadre de l’article 7.2.
 
 <a name='P-31.6_fr_1'><sup>*</sup></a>: [Note : Le paragraphe 7.1(2), tel qu’édicté par 1995, ch. 17, art. 2, cesse d’avoir effet le 22 juin 1998, *voir* 1995, ch. 17, art. 6.]<br />
 
@@ -235,7 +235,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 ***programme*** Le programme, découlant du budget du 27 février 1995, concernant les primes de départ anticipé, le statut d’excédentaire non payé, la mise en disponibilité et des questions connexes. (*program*)
 
 <a name='P-31.6_fr_2'><sup>*</sup></a>: [Note : Le paragraphe 7.1(3), tel qu’édicté par 1995, ch. 17, art. 2, cesse d’avoir effet le 22 juin 1998, *voir* 1995, ch. 17, art. 6.]<br />
-> 1994, ch. 18, art. 5; 1995, ch. 17, art. 2.
+> 1994, ch. 18, art. 5; 1995, ch. 17, art. 2
 
 
 
@@ -253,14 +253,14 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 
 **Effet de la mise en disponibilité**
 
-- **(2)** Le fonctionnaire, au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), mis en disponibilité conformément au sous-alinéa (1)b)(ii) perd sa qualité de fonctionnaire; il bénéficie toutefois des droits et avantages auxquels la mise en disponibilité lui donne par ailleurs droit en vertu de cette loi.
+- **(2)** Le fonctionnaire, au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), mis en disponibilité conformément au sous-alinéa (1)b)(ii) perd sa qualité de fonctionnaire; il bénéficie toutefois des droits et avantages auxquels la mise en disponibilité lui donne par ailleurs droit en vertu de cette loi.
 
 **Délégation**
 
 - **(3)** Le Conseil du Trésor peut, aux conditions et selon les modalités qu’il fixe, déléguer telle des attributions que lui confère le paragraphe (1) à l’administrateur général d’un ministère ou au premier dirigeant d’un secteur de l’administration publique.
 
 <a name='P-31.6_fr_3'><sup>*</sup></a>: [Note : L’article 7.2, tel qu’édicté par 1995, ch. 17, art. 3, cesse d’avoir effet le 22 juin 1998, *voir* 1995, ch. 17, art. 6.]<br />
-> 1995, ch. 17, art. 3.
+> 1995, ch. 17, art. 3
 
 
 
@@ -292,7 +292,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 - **(5)** Malgré les autres lois fédérales et les conventions collectives ou décisions arbitrales qui incorporent par renvoi, dans sa version éventuellement modifiée, la Directive sur le réaménagement des effectifs, les modifications apportées dans le cadre du paragraphe (3) sont incorporées par renvoi à ces conventions ou décisions, sous réserve des adaptations exigées par ces lois, conventions ou décisions.
 
 <a name='P-31.6_fr_4'><sup>*</sup></a>: [Note : L’article 7.3, tel qu’édicté par 1995, ch. 17, art. 3, cesse d’avoir effet le 22 juin 1998, *voir* 1995, ch. 17, art. 6.]<br />
-> 1995, ch. 17, art. 3.
+> 1995, ch. 17, art. 3
 
 
 
@@ -309,7 +309,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 - **(2)** Les modifications visées au paragraphe (1) cessent d’avoir effet trois ans après l’entrée en vigueur du présent article.
 
 <a name='P-31.6_fr_5'><sup>*</sup></a>: [Note : L’article 7.4, tel qu’édicté par 1995, ch. 17, art. 3, cesse d’avoir effet le 22 juin 1998, *voir* 1995, ch. 17, art. 6.]<br />
-> 1995, ch. 17, art. 3.
+> 1995, ch. 17, art. 3
 
 
 
@@ -336,7 +336,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 	- **b)** par l’employeur compétent, dans le cas des régimes s’appliquant aux entités visées à l’alinéa 3(1)c), au personnel des membres du Sénat et de la Chambre des communes, au directeur général des élections, au commissaire aux langues officielles ainsi qu’au gouverneur et au sous-gouverneur de la Banque du Canada.
 
 <a name='P-31.6_fr_6'><sup>*</sup></a>: [Note : L’article 8, tel qu’édicté par 1995, ch. 17, art. 4, cesse d’avoir effet le 22 juin 1998, *voir* 1995, ch. 17, art. 6.]<br />
-> 1991, ch. 30, art. 8; 1993, ch. 13, art. 6; 1995, ch. 17, art. 4.
+> 1991, ch. 30, art. 8; 1993, ch. 13, art. 6; 1995, ch. 17, art. 4
 
 
 
@@ -345,7 +345,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 **Rémunération au rendement**
 
 **8.1** Le Conseil du Trésor peut, à compter du 1<sup>er</sup> juillet 1996, modifier les conditions et modalités d’un régime de rémunération prorogé en vertu des articles 5 ou 6 ou visé à l’article 11 relatives aux augmentations fondées sur le mérite ou le rendement, aux augmentations à l’intérieur des fourchettes salariales ou aux primes de rendement.
-> 1996, ch. 18, art. 13.
+> 1996, ch. 18, art. 13
 
 
 
@@ -354,7 +354,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 **Augmentation pour les militaires**
 
 **8.2** À compter du 1<sup>er</sup> avril 1996, les dispositions du régime de compensation des militaires du rang des Forces canadiennes peuvent être modifiées, selon les mêmes modalités que celles qui s’appliquent à l’établissement du régime, pour prévoir une augmentation du taux de salaire prévu par le régime de 2,2 % au maximum.
-> 1996, ch. 18, art. 13.
+> 1996, ch. 18, art. 13
 
 
 
@@ -381,7 +381,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 **Idem**
 
 - **(4)** Par dérogation à toute autre loi fédérale, le régime de rémunération des personnes visées au paragraphe 3(3.1) est réputé comporter une disposition prévoyant que les taux de salaire en vigueur à la date où, en l’absence du paragraphe 5(3), il aurait expiré ne peuvent être augmentés pendant les quatre années qui suivent cette date.
-> 1991, ch. 30, art. 9; 1993, ch. 13, art. 7; 1994, ch. 18, art. 6.
+> 1991, ch. 30, art. 9; 1993, ch. 13, art. 7; 1994, ch. 18, art. 6
 
 
 
@@ -419,7 +419,7 @@ Le gouverneur en conseil peut, sur recommandation du Conseil du Trésor, modifie
 	- **b)** sont réputés comprendre une disposition prévoyant :
 		- **(i)** que les taux de salaire en vigueur à la date où, en l’absence du présent paragraphe, le régime aurait expiré ne peuvent être augmentés pendant les quatre années qui suivent cette date,
 		- **(ii)** que les dispositions du régime, de la convention collective ou de la décision arbitrale qui ne visent pas les taux de salaire et sont en vigueur à la date où, en l’absence du présent paragraphe, l’un ou l’autre aurait expiré demeurent en vigueur sans modification pendant les quatre années qui suivent cette date.
-> 1991, ch. 30, art. 11; 1993, ch. 13, art. 8; 1994, ch. 18, art. 7.
+> 1991, ch. 30, art. 11; 1993, ch. 13, art. 8; 1994, ch. 18, art. 7
 
 
 
@@ -650,8 +650,6 @@ Centre canadien d’hygiène et de sécurité au travail<br />- <i>Canadian Cent
 
 Centre de la sécurité des télécommunications, ministère de la Défense nationale<br />- <i>Communications Security Establishment, Department of National Defence</i>
 
-Comité de surveillance des activités de renseignements de sécurité<br />- <i>Security Intelligence Review Committee</i>
-
 Comité externe d’examen de la Gendarmerie royale du Canada<br />- <i>Royal Canadian Mounted Police External Review Committee</i>
 
 Commissariat aux langues officielles<br />- <i>Office of the Commissioner of Official Languages</i>
@@ -736,6 +734,8 @@ Résidence de Son Excellence le Gouverneur général (personnel rémunéré sur 
 
 Secrétariat canadien<br />- <i>Canadian Secretariat</i>
 
+Secrétariat de l’Office de surveillance des activités en matière de sécurité nationale et de renseignement<br />- <i>National Security and Intelligence Review Agency Secretariat</i>
+
 Secrétariat des conférences intergouvernementales canadiennes<br />- <i>Canadian Intergovernmental Conference Secretariat</i>
 
 Secrétariat des relations fédérales-provinciales<br />- <i>Federal-Provincial Relations Office</i>
@@ -765,7 +765,7 @@ Tribunal de la concurrence<br />- <i>Competition Tribunal</i>
 Tribunal de la sécurité sociale<br />- <i>Social Security Tribunal</i>
 
 Tribunal des anciens combattants (révision et appel)<br />- <i>Veterans Review and Appeal Board</i>
-> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 1, art. 160, ch. 19, art. 279, 280, 592 et 693, ch. 31, art. 295; 2013, ch. 18, art. 57 et 58, ch. 33, art. 188 à 190, ch. 40, art. 232, 233, 464 et 465; 2014, ch. 20, art. 459; 2015, ch. 3, art. 149; 2017, ch. 9, art. 57; 2018, ch. 27, art. 673 et 674.
+> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 1, art. 160, ch. 19, art. 279, 280, 592 et 693, ch. 31, art. 295; 2013, ch. 18, art. 57 et 58, ch. 33, art. 188 à 190, ch. 40, art. 232, 233, 464 et 465; 2014, ch. 20, art. 459; 2015, ch. 3, art. 149; 2017, ch. 9, art. 57; 2018, ch. 27, art. 673 et 6742019, ch. 13, art. 442019, ch. 13, art. 45
 
 
 
@@ -801,6 +801,87 @@ Office canadien des provendes<br />- <i>Canadian Livestock Feed Board</i>
 Société de construction des musées du Canada Inc.<br />- <i>Canada Museums Construction Corporation Inc.</i>
 
 Société immobilière du Canada (Le Vieux-Port de Montréal) Limitée<br />- <i>Old Port of Montreal Corporation Inc.</i>
-> 1991, ch. 30, ann. II; 2001, ch. 34, art. 16; 2008, ch. 9, art. 12; 2010, ch. 7, art. 11; 2013, ch. 38, art. 21 et 22; 2014, ch. 20, art. 191.
+> 1991, ch. 30, ann. II; 2001, ch. 34, art. 16; 2008, ch. 9, art. 12; 2010, ch. 7, art. 11; 2013, ch. 38, art. 21 et 22; 2014, ch. 20, art. 191
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 1993, ch. 13, art. 26
+
+
+**Application des articles 2 à 8**
+
+**26** Malgré les paragraphes 29(1) et (2), nul ne peut être déclaré coupable en raison d’une action ou omission qui, au moment où elle est survenue, ne constituait pas une infraction d’après le droit du Canada.
+
+
+
+######           — 1995, ch. 17, art. 5
+
+
+**Disposition transitoire**
+
+**5** Le salarié d’un ministère ou secteur de l’administration publique désigné dans le cadre de l’alinéa 7.2(1)a) — dans sa version édictée par l’article 3 de la présente loi — de la Loi sur la rémunération du secteur public qui est, avant ou après l’entrée en vigueur de l’article 3 de la présente loi et avant sa cessation d’effet, fonctionnaire excédentaire dans le cadre de l’alinéa 7.2(1)b) de la Loi sur la rémunération du secteur public, dans sa version édictée par l’article 3 de la présente loi, mais qui n’a pas perdu sa qualité de salarié, de fonctionnaire ou d’employé, selon le cas, est assujetti au programme au sens de cet article 7.2 à cette entrée en vigueur et le demeure malgré la cessation d’effet de l’article 3.
+
+
+
+######           — 1995, ch. 17, art. 6
+
+
+**Cessation d’effet**
+
+**6** Les dispositions de la Loi sur la rémunération du secteur public édictées par la présente partie cessent d’avoir effet trois ans après l’entrée en vigueur du présent article.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 13, art. 85
+
+**85** Le paragraphe 7.1(1) de la version française de la Loi sur la rémunération du secteur public est remplacé par ce qui suit :
+
+**Programme de réduction du personnel civil**
+
+**7.1** 
+
+- **(1)** Par dérogation à la présente loi ou à toute autre loi fédérale, à l’exception de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), le Conseil du Trésor peut fixer les conditions du Programme de réduction du personnel civil découlant du budget du 22 février 1994 et, conformément à ce programme, offrir ou donner des sommes aux salariés — ou pour leur compte — engagés pour une durée indéterminée par le ministère de la Défense nationale, le Centre de la sécurité des télécommunications ou le service de Protection civile du Canada.
+
+
+
+
+
+######           — 2019, ch. 13, art. 86
+
+**86** L’annexe I de la même loi est modifiée par suppression, sous l’intertitre « Administrations fédérales », de ce qui suit :
+
+Centre de la sécurité des télécommunications, ministère de la Défense nationale<br />- <i>Communications Security Establishment, Department of National Defence</i>
+
+
+
+######           — 2019, ch. 13, art. 87
+
+**87** L’annexe I de la même loi est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « Administrations fédérales », de ce qui suit :
+
+Centre de la sécurité des télécommunications<br />- <i>Communications Security Establishment</i>
+
+
+
+######           — 2019, ch. 28, art. 160
+
+**160** L’annexe I de la Loi sur la rémunération du secteur public est modifiée par suppression, sous l’intertitre « Administrations fédérales », de ce qui suit :
+
+Office national de l’énergie<br />- <i>National Energy Board</i>
+
+
+
+######           — 2019, ch. 28, art. 161
+
+**161** L’annexe I de la même loi est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « Administrations fédérales », de ce qui suit :
+
+Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
+
 
 
