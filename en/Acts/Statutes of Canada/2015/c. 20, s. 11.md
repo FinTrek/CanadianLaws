@@ -122,11 +122,37 @@ Assented to on 18 June 2015
 
 
 
+**Exemption power — urgent situations, etc.**
+
+**7.1** 
+
+- **(1)** The Minister may, by order, on any terms that may be specified in the order, exempt an air carrier or a class of air carriers from the application of subsection 6(2) or of a provision of the regulations with respect to any flight specified in the order if, in his or her opinion,
+	- **(a)** the urgency of a situation or circumstances beyond the air carrier’s control would make it difficult for it to comply with that subsection or provision; and
+	- **(b)** the exemption is not likely to adversely affect transportation security.
+
+**Exemption from [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(2)** An order made under subsection (1) is exempt from the application of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2019, c. 13, s. 128
+
+
+
+
+
+**Exemption power — tests**
+
+**7.2** The Minister may, by order, for any period and on any terms that may be specified in the order, exempt an air carrier or a class of air carriers from the application of a provision of the regulations to allow for the conduct of tests, including tests of new kinds of technologies and tests of alternative measures to those set out in the provision, so as to allow him or her to determine whether any changes to the regulations are required as a result, if, in his or her opinion, the exemption is not likely to adversely affect transportation security.
+> 2019, c. 13, s. 128
+
+
+
+
+
 **List**
 
 **8** 
 
-- **(1)** The Minister may establish a list on which is placed the given name, the surname, any known alias, the date of birth and the gender of any person who the Minister has reasonable grounds to suspect will
+- **(1)** The Minister may establish a list on which is placed the surname, first name and middle names, any alias, the date of birth and the gender of any person, and any other information that is prescribed by regulation that serves to identify the person, if the Minister has reasonable grounds to suspect that the person will
 	- **(a)** engage or attempt to engage in an act that would threaten transportation security; or
 	- **(b)** travel by air for the purpose of committing an act or omission that
 		- **(i)** is an offence under section 83.18, 83.19 or 83.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or an offence referred to in paragraph (c) of the definition ***terrorism offence*** in section 2 of that Act, or
@@ -145,7 +171,7 @@ Assented to on 18 June 2015
 **Exemption from [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(4)** The list is exempt from the application of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2015, c. 20, s. 11 “8”; 2019, c. 13, s. 129.
+> 2015, c. 20, s. 11 “8”2019, c. 13, s. 129
 
 
 
@@ -201,6 +227,15 @@ Assented to on 18 June 2015
 
 
 
+**Disclosure to parent**
+
+**12.1** The Minister may disclose to a child’s parent, or to a child’s guardian or tutor if they have the rights and responsibilities of a parent in relation to the child, that the child is not a listed person.
+> 2019, c. 13, s. 131
+
+
+
+
+
 **Minister of Transport**
 
 **13** The Minister of Transport may, for the purposes of assisting the Minister in the administration and enforcement of this Act,
@@ -249,7 +284,9 @@ Assented to on 18 June 2015
 
 **Deemed decision**
 
-- **(6)** If the Minister does not make a decision in respect of the application within 90 days after the day on which the application is received, or within any further period that is agreed on by the Minister and the applicant, the Minister is deemed to have decided not to remove the applicant’s name from the list.
+- **(6)** If the Minister does not make a decision in respect of the application within a period of 120 days after the day on which the application is received — or within a further period of 120 days, if the Minister does not have sufficient information to make a decision and he or she notifies the applicant of the extension within the first 120-day period — the Minister is deemed to have decided to remove the applicant’s name from the list.
+> 2015, c. 20, s. 11 “15”2019, c. 13, s. 134
+
 
 
 
@@ -266,9 +303,7 @@ Assented to on 18 June 2015
 
 **Application**
 
-- **(2)** A listed person who has been denied transportation as a result of a direction made under section 9 may appeal to a judge only after a decision referred to in section 15 is rendered and within 60 days after the earlier of
-	- **(a)** the day on which the notice of the decision referred to in subsection 15(5) is received, and
-	- **(b)** the day on which the Minister is deemed to have made a decision under subsection 15(6).
+- **(2)** A listed person who has been denied transportation as a result of a direction made under section 9 may appeal a decision referred to in section 15 to a judge within 60 days after the day on which the notice of the decision referred to in subsection 15(5) is received.
 
 **Extension**
 
@@ -297,6 +332,8 @@ Assented to on 18 June 2015
 **Definition of judge**
 
 - **(7)** In this section, ***judge*** means the Chief Justice of the Federal Court or a judge of that Court designated by the Chief Justice.
+> 2015, c. 20, s. 11 “16”2019, c. 13, s. 135
+
 
 
 
@@ -341,14 +378,18 @@ Assented to on 18 June 2015
 - **(2)** It is prohibited to disclose whether or not any individual is or was a listed person, except
 	- **(a)** for the purposes of sections 10 to 16;
 	- **(b)** as required to enforce any law of Canada or a province or to carry out a lawful activity;
-	- **(c)** for the purpose of complying with a subpoena or document issued or order made by a court, person or body with jurisdiction to compel the production of information or for the purpose of complying with rules of court relating to the production of information; or
-	- **(d)** in the case where an individual discloses that he or she is or was a listed person.
+	- **(c)** for the purpose of complying with a subpoena or document issued or order made by a court, person or body with jurisdiction to compel the production of information or for the purpose of complying with rules of court relating to the production of information;
+	- **(d)** in the case where an individual discloses that he or she is or was a listed person; or
+	- **(e)** if the Minister has disclosed under section 12.1 that the individual is not a listed person, in the case where anyone further discloses that information.
 
 **Prohibition — air carriers**
 
 - **(3)** Despite subsection (2), it is prohibited for an air carrier or an operator of an aviation reservation system to disclose any information relating to a listed person, or whether or not any individual is or was a listed person, except
-	- **(a)** for the purposes of sections 6, 13 and 30; or
-	- **(b)** for the purpose of complying with a subpoena or document issued or order made by a court, person or body with jurisdiction to compel the production of information or for the purpose of complying with rules of court relating to the production of information.
+	- **(a)** for the purposes of sections 6, 13 and 30;
+	- **(b)** for the purpose of complying with a subpoena or document issued or order made by a court, person or body with jurisdiction to compel the production of information or for the purpose of complying with rules of court relating to the production of information; or
+	- **(c)** if the Minister has disclosed under section 12.1 that the individual is not a listed person, in the case where anyone further discloses that information.
+> 2015, c. 20, s. 11 “20”2019, c. 13, s. 137
+
 
 
 
@@ -530,5 +571,207 @@ Assented to on 18 June 2015
 **33** Section 16 applies to any decision in respect of a listed person made before the day on which this Act comes into force
 - **(a)** by the Minister under paragraph 4.81(1)(b) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) following the transfer of the Minister of Transport’s powers, duties and functions to the Minister by Order in Council P.C. 2011-34 of February 1, 2011, registered as SI/2011-10; or
 - **(b)** by the Minister of Transport under section 4.76 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 13, s. 139
+
+
+**Continued application**
+
+**139** Subsection 15(6) of the Secure Air Travel Act, as it read immediately before the day on which this section comes into force, continues to apply in respect of any application made under subsection 15(1) of that Act before that day.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 13, s. 127
+
+**127** Subsection 6(2) of the Secure Air Travel Act is replaced by the following:
+
+**Duty to provide information to Minister**
+
+- **(2)** An air carrier must provide to the Minister within any time and in any manner that may be prescribed by regulation, the following information about each person who is on board or expected to be on board an aircraft for any flight prescribed by regulation, if that information is in the air carrier’s control:
+	- **(a)** their surname, first name and middle names;
+	- **(b)** their date of birth;
+	- **(c)** their gender; and
+	- **(d)** any other information that is prescribed by regulation.
+
+**Deemed fulfilment of duty**
+
+- **(3)** If the information that an air carrier is required to provide under subsection (2) is provided to the Minister by an operator of an aviation reservation system, within any time and in any manner that may be prescribed for the purpose of that subsection, the air carrier is deemed to have provided that information to the Minister under that subsection.
+
+**Duty to provide information on request**
+
+- **(4)** An air carrier or an operator of an aviation reservation system, as the case may be, must provide to the Minister or the Minister of Transport, or to any person or entity referred to in any of paragraphs 10(b) to (f) who is prescribed by regulation, the information that is requested by that Minister, person or entity about any person who is on board or expected to be on board an aircraft for any flight prescribed by regulation, if the information is in the air carrier’s or operator’s control.
+
+**Limitation — Minister and Minister of Transport**
+
+- **(5)** The Minister or the Minister of Transport may request, under subsection (4), only information that is set out in the schedule to the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or is prescribed by regulation, and he or she may request that information only in respect of a listed person or a person who he or she has reason to believe is a listed person.
+
+**Limitation — other persons or entities**
+
+- **(6)** Any person or entity referred to in any of paragraphs 10(b) to (f) who is prescribed by regulation may request, under subsection (4), only information that is set out in the schedule to the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or is prescribed by regulation, and they may request that information only in respect of a listed person or a person who they have reason to believe is a listed person and only if the information is to be used for the purpose of assisting the Minister in the administration and enforcement of this Act.
+
+
+
+######           — 2019, c. 13, s. 130
+
+**130** Sections 11 and 12 of the Act are replaced by the following:
+
+**Pre-flight verification of identity**
+
+**10.1** The Minister may, for the purpose of issuing a unique identifier to a person to assist with the verification of their identity before a flight, collect any personal information that they provide.
+
+
+
+**Identification of listed persons**
+
+**10.2** The Minister may, for the purpose of identifying listed persons who are on board or expected to be on board an aircraft,
+- **(a)** collect the information that is provided under subsection 6(2) or deemed to have been provided under subsection 6(3); and
+- **(b)** collect the information that is provided under subsection 6(4).
+
+
+
+**Disclosure of information provided under subsection 6(2)**
+
+**10.3** 
+
+- **(1)** The Minister may disclose information that is provided under subsection 6(2) or deemed to have been provided under subsection 6(3)
+	- **(a)** for the purpose of obtaining assistance in identifying listed persons who are on board or expected to be on board an aircraft, if the information relates to a person who the Minister has reason to believe is a listed person; and
+	- **(b)** for the purpose of complying with a subpoena or document issued or order made by a court, person or body with jurisdiction to compel the production of information or with rules of court relating to the production of information.
+
+**Listed persons**
+
+- **(2)** Subject to section 12, the Minister may, for the purpose of ensuring transportation security or preventing the travel referred to in paragraph 8(1)(b), disclose information that is provided under subsection 6(2) or deemed to have been provided under subsection 6(3), if the information relates to a listed person.
+
+
+
+**Disclosure of other information**
+
+**11** Subject to section 12, the Minister may, for the purpose of ensuring transportation security or preventing the travel referred to in paragraph 8(1)(b), disclose information that is obtained in the exercise or performance of his or her powers, duties or functions under this Act, other than information that is provided under subsection 6(2) or deemed to have been provided under subsection 6(3).
+
+
+
+**Foreign states**
+
+**12** The Minister may enter into a written arrangement with the government of a foreign state, an institution of such a government or an international organization relating to the disclosure of any information that he or she is, under subsection 10.3(2) or section 11, permitted to disclose, and may disclose the list, in whole or in part, to the state, institution or organization only in accordance with the arrangement.
+
+
+
+
+
+######           — 2019, c. 13, s. 132
+
+**132** Paragraph 13(b) of the Act is replaced by the following:
+
+- **(b)** collect from air carriers and operators of aviation reservation systems any information that is provided under subsection 6(4);
+
+
+
+
+
+######           — 2019, c. 13, s. 133
+
+**133** Section 14 of the Act is replaced by the following:
+
+**Canada Border Services Agency**
+
+**14** The Canada Border Services Agency may assist the Minister in the administration and enforcement of this Act, including by disclosing to him or her and to any other person or entity referred to in section 10 information that is collected from air carriers and operators of aviation reservation systems in respect of a listed person or of a person about whom the Minister or the Minister of Transport has informed that Agency that he or she has reason to believe that the person is a listed person.
+
+
+
+
+
+######           — 2019, c. 13, s. 136
+
+**136** Sections 18 and 19 of the Act are replaced by the following:
+
+**Information destruction — Minister**
+
+**18** 
+
+- **(1)** Despite any other Act of Parliament, including the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Minister must, within seven days after the day on which a flight prescribed by regulation departs or, if the flight is cancelled, within seven days after the day on which it is cancelled, destroy any document or record containing the following information about a person who is or was on board or was expected to be on board an aircraft for the flight, unless that information is reasonably required for the purposes of this Act:
+	- **(a)** any information that is provided to the Minister under subsection 6(2) or is deemed to have been provided to the Minister under subsection 6(3);
+	- **(b)** any information that is provided to the Minister under subsection 6(4); and
+	- **(c)** any information that is disclosed to the Minister under paragraph 13(d), if that information was originally provided to the Minister of Transport under subsection 6(4).
+
+**Information destruction — Minister of Transport, etc.**
+
+- **(2)** Despite any other Act of Parliament, including the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Minister of Transport and any person or entity who is prescribed by regulation for the purpose of subsection 6(4) must, within seven days after the day on which a flight prescribed by regulation departs or, if the flight is cancelled, within seven days after the day on which it is cancelled, destroy any document or record containing information about a person who is or was on board or was expected to be on board an aircraft for the flight that is provided to that Minister, person or entity under subsection 6(4), unless that information is reasonably required for the purposes of this Act.
+
+**Information destruction — section 10 persons and entities**
+
+- **(3)** Despite any other Act of Parliament, including the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Minister and any other person or entity referred to in section 10 must, within seven days after the day on which a flight prescribed by regulation departs or, if the flight is cancelled, within seven days after the day on which it is cancelled, destroy any document or record containing any of the following information about a person who is or was on board or was expected to be on board an aircraft for the flight that is disclosed to that Minister, person or entity under section 10, unless that information is reasonably required for the purposes of this Act:
+	- **(a)** information that was originally provided to the Minister under subsection 6(2) or is deemed to have been provided to the Minister under subsection 6(3); and
+	- **(b)** information that was originally provided to the Minister, the Minister of Transport or any other person or entity under subsection 6(4).
+
+
+
+**Rights preserved**
+
+**19** For greater certainty, nothing in this Act limits or prohibits the collection, use, disclosure or retention of any information if that collection, use, disclosure or retention is otherwise lawful.
+
+
+
+
+
+######           — 2019, c. 13, s. 137
+
+**137** 
+
+- **(1)** Subsection 20(1) of the Act is replaced by the following:
+
+**Prohibition — list**
+
+**20** 
+
+- **(1)** It is prohibited to disclose the list, except as required for the purposes of sections 10, 11, 12 and 13.
+
+
+
+- **(2)** [In force]
+
+- **(3)** Paragraph 20(2)(a) of the Act is replaced by the following:
+
+- **(a)** for the purposes of sections 10 and 10.3 to 16;
+
+
+
+- **(4) and (5)** [In force]
+
+- **(6)** Paragraph 20(3)(a) of the Act is replaced by the following:
+
+- **(a)** for the purposes of sections 6 and 30;
+
+
+
+- **(7)** [In force]
+
+
+
+######           — 2019, c. 13, s. 138
+
+**138** Paragraph 32(b) of the Act is replaced by the following:
+
+- **(b)** respecting the use and protection of directions made under section 9 and the use and protection of information that is provided by the Minister or the Minister of Transport to air carriers and to operators of aviation reservation systems;
+
+
+
+
+
+######           — 2019, c. 29, s. 278
+
+**278** Paragraph 28(1)(a) of the Secure Air Travel Act is replaced by the following:
+
+- **(a)** enter any place, including any aircraft, aerodrome or other aviation facility or any premises used by the designated screening authority, as defined in subsection 2(1) of the [Security Screening Services Commercialization Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2029,%20s.%20270.md), for the purposes of making inspections or audits relating to the verification of compliance with this Act, regardless of whether or not the inspection or audit relates to that place or to the person who possesses, occupies or controls it; and
+
+
+
 
 
