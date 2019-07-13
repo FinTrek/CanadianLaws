@@ -8,7 +8,7 @@
 Sanctionnée sur le 21 juin 2019
 
 ```
-[Édictée par l’article 49.1 du chapitre 13 des Lois du Canada (2019), non en vigueur.]
+[Édictée par l’article 49.1 du chapitre 13 des Lois du Canada (2019), en vigueur le 13 juillet 2019, voir TR/2019-71.]
 ```
 ----------
 
@@ -79,10 +79,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** à l’égard d’une société d’État mère au sens du paragraphe 83(1) de cette loi, le ministre de tutelle au sens de ce paragraphe;
 - **e)** à l’égard des Forces canadiennes, le ministre de la Défense nationale. (*appropriate Minister*)
 
-***organisme de surveillance***
-- **a)** La Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada, constituée par le paragraphe 45.29(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md);
-- **b)** le commissaire du Centre de la sécurité des télécommunications, nommé en vertu du paragraphe 273.63(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
-- **c)** le comité de surveillance des activités de renseignement de sécurité, constitué par le paragraphe 34(1) de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md). (*review body*)
+***organisme de surveillance***[Abrogée, 2019, ch. 13, art. 49.2]
+> 2019, ch. 13, art. 49.1 « 2 »2019, ch. 13, art. 49.2
+
 
 
 
@@ -138,7 +137,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Copie des instructions**
 
-**6** L’administrateur général fournit une copie des instructions qui lui ont été données au titre de l’article 3 au Comité des parlementaires sur la sécurité nationale et le renseignement et, le cas échéant, à l’organisme de surveillance compétent, dès que possible après les avoir reçues.
+**6** L’administrateur général fournit une copie des instructions qui lui ont été données au titre de l’article 3 au Comité des parlementaires sur la sécurité nationale et le renseignement, à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement et, le cas échéant, à la Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada, dès que possible après les avoir reçues.
+> 2019, ch. 13, art. 49.1 « 6 »2019, ch. 13, art. 49.2
+
 
 
 
@@ -166,11 +167,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Dès que possible après avoir reçu le rapport visé à l’article 7, le ministre compétent en fournit copie au Comité des parlementaires sur la sécurité nationale et le renseignement et, le cas échéant, à l’organisme de surveillance compétent.
+- **(1)** Dès que possible après avoir reçu le rapport visé à l’article 7, le ministre compétent en fournit copie au Comité des parlementaires sur la sécurité nationale et le renseignement, à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement et, le cas échéant, à la Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada.
 
 **Restriction**
 
-- **(2)** La copie ne peut contenir des renseignements que le Comité ou l’organisme n’est pas en droit de recevoir.
+- **(2)** La copie ne peut contenir des renseignements que le Comité, l’Office de surveillance ou la Commission n’est pas en droit de recevoir.
+> 2019, ch. 13, art. 49.1 « 8 »2019, ch. 13, art. 49.2
+
 
 
 
