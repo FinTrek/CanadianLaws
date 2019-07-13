@@ -180,11 +180,17 @@ Assented to on 21 June 2019
 	- **(b)** the Communications Security Establishment; and
 	- **(c)** any other department if the ministerial direction relates to national security or intelligence.
 
+**[Avoiding Complicity in Mistreatment by Foreign Entities Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2049.1.md)**
+
+- **(2.2)** In the course of its review of activities carried out by departments, the Review Agency must, each calendar year, review the implementation of all directions issued under the [Avoiding Complicity in Mistreatment by Foreign Entities Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2049.1.md).
+
 **Findings and recommendations**
 
 - **(3)** In the course of its reviews, the Review Agency may make any finding or recommendation that it considers appropriate, including findings and recommendations relating to
 	- **(a)** a department’s compliance with the law and any applicable ministerial directions; and
 	- **(b)** the reasonableness and necessity of a department’s exercise of its powers.
+> 2019, c. 13, s. 2 “8”2019, c. 13, s. 49.2
+
 
 
 
