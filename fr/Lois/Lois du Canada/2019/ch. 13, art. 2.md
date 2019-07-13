@@ -180,11 +180,17 @@ Sanctionnée sur le 21 juin 2019
 	- **b)** au Centre de la sécurité des télécommunications;
 	- **c)** à tout autre ministère, si elles concernent la sécurité nationale ou le renseignement.
 
+**[Loi visant à éviter la complicité dans les cas de mauvais traitements infligés par des entités étrangères](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2049.1.md)**
+
+- **(2.2)** Dans le cadre de l’examen des activités des ministères, l’Office de surveillance examine, chaque année civile, la mise en oeuvre des instructions données en vertu de la [Loi visant à éviter la complicité dans les cas de mauvais traitements infligés par des entités étrangères](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2049.1.md).
+
 **Conclusions et recommandations**
 
 - **(3)** Dans le cadre des examens qu’il effectue, l’Office de surveillance peut formuler les conclusions et recommandations qu’il estime indiquées, notamment en ce qui a trait :
 	- **a)** au respect par les ministères de la loi et des instructions et directives ministérielles applicables;
 	- **b)** au caractère raisonnable et à la nécessité de l’exercice par les ministères de leurs pouvoirs.
+> 2019, ch. 13, art. 2 « 8 »2019, ch. 13, art. 49.2
+
 
 
 
