@@ -1441,7 +1441,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_2019-c13_E_transform_hq_25606'>[*]</a></sup>**169.1** Part 1.1, other than section 49.2, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c13_E_transform_hq_25606'><sup>*</sup></a>: [Note: Part 1.1, other than section 49.2, not in force.]<br />
+<a name='fn_2019-c13_E_transform_hq_25606'><sup>*</sup></a>: [Note: Part 1.1, other than section 49.2, in force July 13, 2019, *see* SI/2019-71.]<br />
 
 
 
@@ -1461,13 +1461,13 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - <sup><a href='#fn_2019-c13_E_transform_hq_25608'>[*]</a></sup>**(1)** Sections 94, 96, 97, 102, 107 and 108 and the provisions enacted by them and sections 110 and 111 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c13_E_transform_hq_25608'><sup>*</sup></a>: [Note: Sections 94, 96, 97, 102, 107 and 108 and the provisions enacted by them and sections 110 and 111 not in force.]<br />
+<a name='fn_2019-c13_E_transform_hq_25608'><sup>*</sup></a>: [Note: Sections 94, 96, 97, 102, 107 and 108 and the provisions enacted by them and sections 110 and 111 in force July 13, 2019, *see* SI/2019-71.]<br />
 
 **Order in council**
 
 - <sup><a href='#fn_2019-c13_E_transform_hq_25609'>[*]</a></sup>**(2)** Section 101 comes into force on a day to be fixed by order of the Governor in Council, but that day must not be earlier than the day fixed under section 169.
 
-<a name='fn_2019-c13_E_transform_hq_25609'><sup>*</sup></a>: [Note: Section 101 not in force.]<br />
+<a name='fn_2019-c13_E_transform_hq_25609'><sup>*</sup></a>: [Note: Section 101 in force July 13, 2019, *see* SI/2019-71.]<br />
 
 
 
@@ -1495,7 +1495,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(3)** Subsection 129(2) is deemed to have come into force on August 1, 2015.
 
-<a name='fn_2019-c13_E_transform_hq_25611'><sup>*</sup></a>: [Note: Sections 127, 128, subsection 129(1) and sections 130 to 139 not in force.]<br />
+<a name='fn_2019-c13_E_transform_hq_25611'><sup>*</sup></a>: [Note: Sections 127, 130, 132, 133 and 136, subsections 137(1), (3) and (6) and section 138 not in force; section 128, subsection 129(1), sections 131, 134 and 135, subsections 137(2), (4), (5) and (7) and section 139 in force July 13, 2019, *see* SI/2019-71.]<br />
 
 
 
