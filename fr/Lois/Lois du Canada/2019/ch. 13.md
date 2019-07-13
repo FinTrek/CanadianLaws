@@ -1443,7 +1443,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#nbp_2019-c13_F_transform_hq_24280'>[*]</a></sup>**169.1** La partie 1.1, à l’exception de l’article 49.2, entre en vigueur à la date fixée par décret. 
 
-<a name='nbp_2019-c13_F_transform_hq_24280'><sup>*</sup></a>: [Note : Partie 1.1, à l’exception de l’article 49.2, non en vigueur.]<br />
+<a name='nbp_2019-c13_F_transform_hq_24280'><sup>*</sup></a>: [Note : Partie 1.1, à l’exception de l’article 49.2, en vigueur le 13 juillet 2019, *voir* TR/2019-71.]<br />
 
 
 
@@ -1463,13 +1463,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#nbp_2019-c13_F_transform_hq_24282'>[*]</a></sup>**(1)** Les articles 94, 96, 97, 102, 107 et 108, les dispositions édictées par ceux-ci et les articles 110 et 111 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_2019-c13_F_transform_hq_24282'><sup>*</sup></a>: [Note : Articles 94, 96, 97, 102, 107 et 108, les dispositions édictées par ceux-ci et articles 110 et 111 non en vigueur.]<br />
+<a name='nbp_2019-c13_F_transform_hq_24282'><sup>*</sup></a>: [Note : Articles 94, 96, 97, 102, 107 et 108, les dispositions édictées par ceux-ci et articles 110 et 111 en vigueur le 13 juillet 2019, *voir* TR/2019-71.]<br />
 
 **Décret**
 
 - <sup><a href='#nbp_2019-c13_F_transform_hq_24283'>[*]</a></sup>**(2)** L’article 101 entre en vigueur à la date fixée par décret, laquelle ne peut être antérieure à celle visée à l’article 169.
 
-<a name='nbp_2019-c13_F_transform_hq_24283'><sup>*</sup></a>: [Note : Article 101 non en vigueur.]<br />
+<a name='nbp_2019-c13_F_transform_hq_24283'><sup>*</sup></a>: [Note : Article 101 en vigueur le 13 juillet 2019, *voir* TR/2019-71.]<br />
 
 
 
@@ -1497,7 +1497,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le paragraphe 129(2) est réputé être entré en vigueur le 1<sup>er</sup> août 2015.
 
-<a name='nbp_2019-c13_F_transform_hq_24285'><sup>*</sup></a>: [Note : Articles 127, 128, paragraphe 129(1) et articles 130 à 139 non en vigueur.]<br />
+<a name='nbp_2019-c13_F_transform_hq_24285'><sup>*</sup></a>: [Note : Articles 127, 130, 132, 133 et 136, paragraphes 137(1), (3) et (6) et article 138 non en vigueur; article 128, paragraphe 129(1), articles 131, 134 et 135, paragraphes 137(2), (4), (5) et (7) et article 139 en vigueur le 13 juillet 2019, *voir* TR/2019-71.]<br />
 
 
 
