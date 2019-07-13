@@ -8,7 +8,7 @@
 Assented to on 21 June 2019
 
 ```
-[Enacted by section 49.1 of chapter 13 of the Statutes of Canada, 2019, not in force.]
+[Enacted by section 49.1 of chapter 13 of the Statutes of Canada, 2019, in force July 13, 2019, see SI/2019-71.]
 ```
 ----------
 
@@ -77,10 +77,9 @@ Now therefore, Her Majesty, by and with the advice and consent of the Senate and
 
 ***mistreatment*** means torture or other cruel, inhuman or degrading treatment or punishment, within the meaning of the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, signed at New York on December 10, 1984. (*mauvais traitements*)
 
-***review body*** means
-- **(a)** the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md);
-- **(b)** the Commissioner of the Communications Security Establishment appointed under subsection 273.63(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); or
-- **(c)** the Security Intelligence Review Committee established by subsection 34(1) of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md). (*organisme de surveillance*)
+***review body***[Repealed, 2019, c. 13, s. 49.2]
+> 2019, c. 13, s. 49.1 “2”2019, c. 13, s. 49.2
+
 
 
 
@@ -136,7 +135,9 @@ Now therefore, Her Majesty, by and with the advice and consent of the Senate and
 
 **Copy to be provided**
 
-**6** Every deputy head to whom directions have been issued under section 3 must, as soon as feasible after receiving them, provide a copy of the directions to the National Security and Intelligence Committee of Parliamentarians and, if applicable, to the relevant review body.
+**6** Every deputy head to whom directions have been issued under section 3 must, as soon as feasible after receiving them, provide a copy of the directions to the National Security and Intelligence Committee of Parliamentarians, the National Security and Intelligence Review Agency and, if applicable, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police.
+> 2019, c. 13, s. 49.1 “6”2019, c. 13, s. 49.2
+
 
 
 
@@ -164,11 +165,13 @@ Now therefore, Her Majesty, by and with the advice and consent of the Senate and
 
 **8** 
 
-- **(1)** As soon as feasible after receiving a report under section 7, the appropriate Minister must provide a copy of it to the National Security and Intelligence Committee of Parliamentarians and, if applicable, to the relevant review body.
+- **(1)** As soon as feasible after receiving a report under section 7, the appropriate Minister must provide a copy of it to the National Security and Intelligence Committee of Parliamentarians, the National Security and Intelligence Review Agency and, if applicable, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police.
 
 **Restriction**
 
-- **(2)** The copy must not contain any information that the Committee or the relevant review body is not entitled to receive.
+- **(2)** The copy must not contain any information that the Committee, the Agency or the Commission is not entitled to receive.
+> 2019, c. 13, s. 49.1 “8”2019, c. 13, s. 49.2
+
 
 
 
