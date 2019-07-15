@@ -70,7 +70,7 @@ Sanctionnée sur le 25 mars 2014
 
 ***ligne de démarcation*** La ligne de délimitation décrite à l’annexe 18 de l’accord. (*line of delimitation*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Affaires du Nord. (*Minister*)
 
 ***partie autochtone*** Organisation autochtone qui est une partie à l’accord. (*Aboriginal party*)
 
@@ -94,6 +94,8 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 ***terres visées par un règlement*** Terres des Territoires du Nord-Ouest dont le titre est acquis par une organisation autochtone au titre d’une entente de règlement. (*settlement lands*)
 
 ***Territoires du Nord-Ouest*** La partie du Canada située au nord du soixantième parallèle de latitude nord et à l’ouest de la limite décrite à l’annexe I de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md), à l’exclusion du Yukon. (*Northwest Territories*)
+> 2014, ch. 2, art. 2 « 2 »2019, ch. 29, art. 374
+
 
 
 
@@ -117,7 +119,7 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 
 **Publication du décret**
 
-- **(2)** Le décret de nomination est publié dans la Gazette du Canada.
+- **(2)** Le décret de nomination est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Instructions**
 
@@ -139,7 +141,7 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 **Intérim**
 
 - **(2)** En cas d’absence ou d’empêchement du commissaire adjoint ou de vacance de son poste, l’intérim est assuré par le juge en chef de la Cour suprême des Territoires du Nord-Ouest.
-> 2014, ch. 2, art. 2 « 5 »; 2017, ch. 33, art. 258.
+> 2014, ch. 2, art. 2 « 5 »; 2017, ch. 33, art. 258
 
 
 
@@ -841,7 +843,7 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 **Montant de l’indemnité**
 
 - **(5)** La personne ainsi choisie établit la valeur des améliorations par un moyen semblable à l’établissement de la valeur réelle juste de l’amélioration — au moment où le gouverneur en conseil reprend ou obtient, du fait de la renonciation du commissaire, la gestion et la maîtrise des terres —, déterminée conformément à la méthode de calcul de la valeur réelle juste des améliorations foncières prévue dans les lois de la législature d’application générale relatives aux évaluations de taxes foncières. Le montant de l’indemnité doit correspondre à cette valeur.
-> 2014, ch. 2, art. 2 « 59 »; 2017, ch. 26, art. 55(F).
+> 2014, ch. 2, art. 2 « 59 »; 2017, ch. 26, art. 55(F)
 
 
 
@@ -917,7 +919,7 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 **Prolongation du mandat de l’assemblée législative**
 
 - **(2)** Par dérogation au paragraphe (1), la période durant laquelle les membres visés à ce paragraphe poursuivent leur mandat peut être prolongée jusqu’à concurrence de cinq ans à compter de la date fixée pour le retour des brefs relatifs à la dernière élection générale tenue en vertu de l’ancienne loi, dans l’éventualité où la période électorale de la prochaine élection générale se tenant après l’entrée en vigueur de l’article 1 chevaucherait la période électorale des élections générales devant avoir lieu à la date fixée conformément au paragraphe 56.1(2) ou à l’article 56.2 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md). Toutefois, le commissaire peut dissoudre l’assemblée législative avant la fin de la période de prolongation.
-> 2014, ch. 2, art. 2 « 65 », ch. 39, art. 224.
+> 2014, ch. 2, art. 2 « 65 », ch. 39, art. 224
 
 
 
@@ -959,7 +961,7 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 	- **(ii)** soit est visé au sous-alinéa (i) et est renouvelé ou remplace un permis visé à ce sous-alinéa ou y succède, si le droit au renouvellement, au remplacement ou à la succession existait à cette date.
 
 Il est entendu que sont également visés les droits et intérêts mentionnés aux alinéas a), b), c) ou d) et constituant des charges ainsi que les intérêts visant des terres situées dans la région intracôtière aux termes du paragraphe 117.2(1) de la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md). (*existing interest*)
-> 2014, ch. 2, art. 2 « 68 »; 2017, ch. 26, art. 56(F).
+> 2014, ch. 2, art. 2 « 68 »; 2017, ch. 26, art. 56(F)
 
 
 
@@ -1036,7 +1038,7 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 **Indemnisation : obligations au titre de l’accord**
 
 - **(2)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant d’un manquement de sa part ou de celle de ses employés et mandataires aux obligations que lui impose l’accord relativement aux fonctionnaires fédéraux.
-> 2014, ch. 2, art. 2 « 73 »; 2017, ch. 26, art. 57(F).
+> 2014, ch. 2, art. 2 « 73 »; 2017, ch. 26, art. 57(F)
 
 
 
@@ -1059,7 +1061,7 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 **Indemnisation des parties autochtones**
 
 - **(2)** Le gouvernement du Canada indemnise la partie autochtone, ainsi que les employés et mandataires de celle-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires et qui sont survenus à l’égard de mesures d’assainissement exécutées au titre de l’accord sur des terres de cette partie autochtone visées par un règlement.
-> 2014, ch. 2, art. 2 « 74 »; 2017, ch. 26, art. 58(F).
+> 2014, ch. 2, art. 2 « 74 »; 2017, ch. 26, art. 58(F)
 
 
 
@@ -1068,7 +1070,7 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 **Réserve : consentement écrit**
 
 **75** En cas de règlement hors cour, les gouvernements du Canada et des Territoires du Nord-Ouest, les parties autochtones et leurs employés et mandataires ne peuvent être indemnisés en application des articles 73 ou 74 sans le consentement écrit du gouvernement qui est tenu d’indemniser.
-> 2014, ch. 2, art. 2 « 75 »; 2017, ch. 26, art. 59(F).
+> 2014, ch. 2, art. 2 « 75 »; 2017, ch. 26, art. 59(F)
 
 
 
@@ -1124,5 +1126,24 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 
 
 **80** [Modification]
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2014, ch. 2, art. 2 « 80 » [en vigueur mais n’a pas encore eu son effet]
+
+
+**Abrogation des paragraphes 4(3) et (4)**
+
+**80** Les paragraphes 4(3) et (4) sont abrogés dix ans après la date de l’entrée en vigueur de l’article 1.
+
+
+
+######           — 2019, ch. 28, art. 185
+
+**185** Au paragraphe 22(2) de la Loi sur les Territoires du Nord-Ouest, « Office national de l’énergie » est remplacé par « Régie canadienne de l’énergie », avec les adaptations nécessaires.
+
 
 
