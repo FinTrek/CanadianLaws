@@ -48,9 +48,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Rapport du ministre**
+**Rapport des ministres**
 
-**2** Le ministre des Affaires indiennes et du Nord canadien présente au comité de la Chambre des communes chargé d’étudier les questions relatives aux affaires autochtones, dans les dix premiers jours de séance de celle-ci au cours de chaque année civile, un rapport portant sur le travail accompli par son ministère en collaboration avec les Premières Nations et les autres parties intéressées en vue de l’élaboration d’une nouvelle loi destinée à remplacer la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+**2** Le ministre des Services aux Autochtones présente au comité de la Chambre des communes chargé d’étudier les questions relatives aux affaires autochtones, dans les dix premiers jours de séance de celle-ci au cours de chaque année civile, un rapport portant sur le travail accompli par son ministère en collaboration avec les Premières Nations et les autres parties intéressées en vue de l’élaboration d’une nouvelle loi destinée à remplacer la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+> 2014, ch. 38, art. 22019, ch. 29, art. 370
+
 
 
 
