@@ -43,13 +43,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Commission*** La Commission d’énergie du Nord canadien constituée en vertu de la Loi sur la Commission d’énergie du Nord canadien. (*Commission*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Affaires du Nord. (*Minister*)
 
 ***Société*** La société *Yukon Power Corporation*, filiale en toute propriété de la *Yukon Development Corporation*, constituée par une ordonnance du territoire du Yukon. (*Corporation*)
 
 ***société d’électricité*** La société *The Yukon Electrical Company Limited* constituée en vertu des lois du territoire du Yukon. (*Electrical Company*)
 
 ***terres territoriales*** Les terres du territoire du Yukon qui sont dévolues à Sa Majesté du chef du Canada ou que le gouvernement fédéral est autorisé à aliéner, que les terres aient ou non été soustraites à l’aliénation prévue à l’alinéa 19a) de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md). (*territorial lands*)
+> 1987, ch. 9, art. 22019, ch. 29, art. 374
+
 
 
 
@@ -98,7 +100,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dispense de droits**
 
 - **(3)** Malgré la [Loi sur les eaux du Yukon](/fr/Lois/Lois%20du%20Canada/1992/ch.%2040.md), le ministre peut, avec l’approbation du gouverneur en conseil, par arrêté dispenser la Société de l’obligation de payer les droits afférents à l’utilisation des eaux ou au dépôt de déchets en conformité avec un permis prévu à cette loi.
-> 1987, ch. 9, art. 5; 1992, ch. 40, art. 50.
+> 1987, ch. 9, art. 5; 1992, ch. 40, art. 50
 
 
 
@@ -234,5 +236,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#nbp_N-24.5_f_hq_13376'>[*]</a></sup>**17** Les articles 6, 9 et 12 à 16 entrent en vigueur à la date ou aux dates fixées par proclamation.
 
 <a name='nbp_N-24.5_f_hq_13376'><sup>*</sup></a>: [Note : Articles 6, 9 et 12 à 16 en vigueur le 4 juin 1987, *voir* TR/87-127.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 1992, ch. 40, par. 50(3)
+
+
+
+**Arrêtés**
+
+- **(3)** Restent en vigueur les arrêtés pris sous le régime du paragraphe 5(3) de la Loi autorisant l’aliénation de biens de la Commission d’énergie du Nord canadien situés au Yukon avant l’entrée en vigueur de la présente loi.
+
 
 
