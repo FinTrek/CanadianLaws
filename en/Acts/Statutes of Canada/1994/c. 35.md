@@ -31,7 +31,7 @@ AND WHEREAS the Government of Canada has undertaken to recommend to Parliament t
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
-> 1994, c. 35, Preamble; 2002, c. 7, s. 260..
+> 1994, c. 35, Preamble; 2002, c. 7, s. 260.
 
 
 
@@ -64,7 +64,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***first nation*** means a first nation named in column II of Schedule I; (*première nation*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations; (*ministre*)
 
 ***predecessor band***, in relation to a first nation, means the band or bands, within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), named in column I of Schedule I opposite the name of the first nation appearing in column II of that Schedule; (*bande antérieure*)
 
@@ -77,7 +77,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***Yukon enactment*** means a law of general application enacted pursuant to the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md); (*loi territoriale*)
 
 ***Yukon Government*** means the Commissioner of Yukon acting with the consent of the Executive Council of Yukon. (*gouvernement du Yukon*)
-> 1994, c. 35, s. 2; 2002, c. 7, s. 261.
+> 1994, c. 35, s. 2; 2002, c. 7, s. 2612019, c. 29, s. 373
 
 
 
@@ -119,7 +119,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Notice**
 
-- **(3)** The Minister shall publish in the Canada Gazette notice of the day on which a self-government agreement is brought into effect under subsection (2).
+- **(3)** The Minister shall publish in the [Canada Gazette](http://www.gazette.gc.ca/) notice of the day on which a self-government agreement is brought into effect under subsection (2).
 
 
 
@@ -217,7 +217,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(7)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of laws enacted by a first nation.
-> 1994, c. 35, s. 10; 2002, c. 17, s. 31(F).
+> 1994, c. 35, s. 10; 2002, c. 17, s. 31(F)
 
 
 
@@ -241,7 +241,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(3)** The power of a first nation under paragraph (1)(c) to enact laws in relation to the administration of justice is suspended until the earlier of
 	- **(a)** the effective date of an agreement respecting the administration of justice entered into between the parties to the first nation’s self-government agreement, and
 	- **(b)** the expiration of any interim period provided by the self-government agreement for the purpose of reaching an agreement respecting the administration of justice.
-> 1994, c. 35, s. 11; 2002, c. 7, s. 262.
+> 1994, c. 35, s. 11; 2002, c. 7, s. 262
 
 
 
@@ -256,7 +256,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Agreements with local governments**
 
 - **(2)** Where a first nation’s self-government agreement so provides, the Yukon Government or a municipal corporation in Yukon may agree to the exercise by the first nation of any of the powers referred to in subsection (1), for which that Government or corporation has responsibility, in respect of portions of settlement land identified in the agreement.
-> 1994, c. 35, s. 12; 2002, c. 7, s. 263(E).
+> 1994, c. 35, s. 12; 2002, c. 7, s. 263(E)
 
 
 
@@ -277,7 +277,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(3)** Notwithstanding subsection (2), until the earlier of the events referred to in that subsection, and to the extent provided by a first nation’s self-government agreement, a fine not exceeding $300,000 may be imposed on a person convicted of an offence under a law of the first nation enacted pursuant to paragraph 11(1)(c) in relation to
 	- **(a)** the use of settlement land and of natural resources on settlement land; or
 	- **(b)** the control or prevention of pollution and the protection of the environment.
-> 1994, c. 35, s. 13; 2003, c. 7, s. 130.
+> 1994, c. 35, s. 13; 2003, c. 7, s. 130
 
 
 
@@ -294,7 +294,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(b)** the Territorial Court of Yukon has exclusive original jurisdiction in relation to the prosecution of offences under laws enacted by the first nation;
 - **(c)** offences under those laws shall be prosecuted in accordance with the Summary Convictions Act (Yukon), as amended from time to time, as if they were offences under Yukon enactments, by prosecutors appointed by the Yukon Government; and
 - **(d)** terms of imprisonment imposed for offences under those laws shall be served in a correctional facility in accordance with the Corrections Act (Yukon), as amended from time to time.
-> 1994, c. 35, s. 14; 2002, c. 7, s. 264.
+> 1994, c. 35, s. 14; 2002, c. 7, s. 264
 
 
 
@@ -309,7 +309,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Federal Court of Appeal or Federal Court**
 
 - **(2)** Nothing in this Act shall be construed so as to limit the jurisdiction of the Federal Court of Appeal or the Federal Court.
-> 1994, c. 35, s. 15; 2002, c. 7, s. 265, c. 8, s. 180.
+> 1994, c. 35, s. 15; 2002, c. 7, s. 265, c. 8, s. 180
 
 
 
@@ -342,7 +342,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** in respect of any reserve, within the meaning of that Act, of a predecessor band of the first nation situated outside Yukon, and
 	- **(b)** in respect of any rights, titles, interests, obligations, assets and liabilities of the predecessor band outside Yukon,
 as if the first nation were a band and as if citizens of the first nation registered or entitled to be registered as Indians were members of that band, within the meaning of that Act.
-> 1994, c. 35, s. 17; 2002, c. 7, s. 266.
+> 1994, c. 35, s. 17; 2002, c. 7, s. 266
 
 
 
@@ -370,7 +370,7 @@ as if the first nation were a band and as if citizens of the first nation regist
 **Application of [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md)**
 
 - **(2)** The provisions of Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part.
-> 1999, c. 26, s. 35.
+> 1999, c. 26, s. 35
 
 
 
@@ -499,7 +499,7 @@ as if those lands were reserves of a band within the meaning of that Act and as 
 **Taxation exemption — Indians enrolled**
 
 - **(3)** During the transition period of a first nation, income of an Indian who is enrolled under the first nation’s final agreement and is resident in the Yukon is exempt from taxation under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), if the *situs* of the income is on a reserve.
-> 2006, c. 4, s. 98.
+> 2006, c. 4, s. 98
 
 
 
@@ -529,11 +529,11 @@ as if those lands were reserves of a band within the meaning of that Act and as 
 
 **25** The Minister shall cause a copy of each self-government agreement that is brought into effect and of any amendment made to such an agreement, certified by the Minister to be a true copy, to be deposited in
 - **(a)** the Library and Archives of Canada;
-- **(b)** the library of the Department of Indian Affairs and Northern Development situated in the National Capital Region;
+- **(b)** the library of the Department of Crown-Indigenous Relations and Northern Affairs situated in the National Capital Region;
 - **(c)** such regional offices of the Government of Canada situated in Yukon as the Minister considers advisable;
 - **(d)** the central registry of laws of first nations established under section 10, if any; and
 - **(e)** such other places as the Minister considers advisable.
-> 1994, c. 35, s. 25; 2002, c. 7, s. 267; 2004, c. 11, s. 51.
+> 1994, c. 35, s. 25; 2002, c. 7, s. 267; 2004, c. 11, s. 512019, c. 29, s. 371(E)
 
 
 
@@ -589,13 +589,15 @@ as if those lands were reserves of a band within the meaning of that Act and as 
 
 **32** 
 
-- **(1)** Notwithstanding subsection 17(1), the Minister may continue to exercise any authority under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that the Minister has, immediately before a first nation’s self-government agreement is brought into effect, in relation to the administration of the property of
+- **(1)** Notwithstanding subsection 17(1), the Minister of Indigenous Services may continue to exercise any authority under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that the Minister of Indigenous Services has, immediately before a first nation’s self-government agreement is brought into effect, in relation to the administration of the property of
 	- **(a)** a minor child of a citizen of the first nation who is registered or entitled to be registered as an Indian; or
 	- **(b)** a citizen registered or entitled to be registered as an Indian who has been found to be mentally incompetent.
 
 **Transfer to trustee**
 
-- **(2)** The property of a person referred to in subsection (1), including moneys held in the Consolidated Revenue Fund, may be transferred in trust for that person or that person’s estate on terms agreed to by the Minister and the first nation.
+- **(2)** The property of a person referred to in subsection (1), including moneys held in the Consolidated Revenue Fund, may be transferred in trust for that person or that person’s estate on terms agreed to by the Minister of Indigenous Services and the first nation.
+> 1994, c. 35, s. 322019, c. 29, s. 366
+
 
 
 
@@ -707,7 +709,7 @@ as if those lands were reserves of a band within the meaning of that Act and as 
 </tr>
 </table>
 
-> 1994, c. 35, Sch. I; 1999, c. 31, s. 226.
+> 1994, c. 35, Sch. I; 1999, c. 31, s. 226
 
 
 
@@ -748,7 +750,7 @@ Kwanlin Dun First Nation
 Carcross/Tagish First Nation
 
 
-> 1994, c. 35, Sch. II; SOR/97-451, 456; SOR/98-425; SOR/2002-134; SOR/2004-9; SOR/2005-69, 403.
+> 1994, c. 35, Sch. II; SOR/97-451, 456; SOR/98-425; SOR/2002-134; SOR/2004-9; SOR/2005-69, 403
 
 
 
@@ -944,6 +946,6 @@ Carcross/Tagish First Nation
 **3** The implementation of any taxation agreement entered into by the first nation and the Yukon Government
 
 
-> 1994, c. 35, Sch. III; 2002, c. 7, ss. 268(E), 269(F).
+> 1994, c. 35, Sch. III; 2002, c. 7, ss. 268(E), 269(F)
 
 
