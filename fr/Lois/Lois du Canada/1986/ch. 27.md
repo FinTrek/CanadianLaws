@@ -60,13 +60,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***district*** Le district de l’administration indienne sechelte reconnu par l’article 17. (*District*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***terres secheltes*** Les terres transférées à la bande sous le régime de l’article 23 et celles que le gouverneur ainsi que le lieutenant-gouverneur de la Colombie-Britannique en conseil déclarent être des terres secheltes pour l’application de la présente loi. (*Sechelt lands*)
 
 **Précision**
 
 - **(2)** Il demeure entendu que ne sont pas secheltes les terres visées à la définition de terres secheltes dont le titre de propriété a été cédé, notamment par vente.
+> 1986, ch. 27, art. 22019, ch. 29, art. 373
+
 
 
 
@@ -203,7 +205,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-**13** Le ministre fait publier dans la Gazette du Canada la constitution et toute modification de celle-ci aussitôt après la prise d’un décret qui en prononce l’entrée en vigueur sous le régime de la présente loi.
+**13** Le ministre fait publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) la constitution et toute modification de celle-ci aussitôt après la prise d’un décret qui en prononce l’entrée en vigueur sous le régime de la présente loi.
 
 
 
@@ -670,5 +672,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#S-6.6_fr_1'>[*]</a></sup>**61** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par proclamation.
 
 <a name='S-6.6_fr_1'><sup>*</sup></a>: [Note : Loi, sauf articles 17 à 20, en vigueur le 9 octobre l986, *voir* TR/86-193; articles 17 à 20 en vigueur, *voir* TR/88-48.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 29, par. 373(3)
+
+
+
+**Autres mentions du ministre**
+
+- **(3)** Sauf indication contraire du contexte, aux articles 12 et 13 de la Loi sur l’autonomie gouvernementale de la bande indienne sechelte, le mot « ministre » vaut mention du ministre des Relations Couronne-Autochtones.
+
 
 
