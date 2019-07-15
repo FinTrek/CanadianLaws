@@ -120,7 +120,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **8.1** Malgré toute autre disposition de la présente loi ou toute disposition de l’accord, le gouverneur en conseil peut, afin de donner à la première nation de Westbank la possibilité de profiter des dispositions de la [Loi sur la gestion financière des premières nations](/fr/Lois/Lois%20du%20Canada/2005/ch.%209.md) ou d’obtenir les services d’un organisme constitué par celle-ci, prendre les règlements qu’il estime nécessaires, et notamment :
 - **a)**  adapter toute disposition de cette loi ou des règlements pris en vertu de celle-ci;
 - **b)**  restreindre l’application de toute disposition de cette loi ou des règlements pris en vertu de celle-ci.
-> 2005, ch. 9, art. 153; 2012, ch. 19, art. 680.
+> 2005, ch. 9, art. 153; 2012, ch. 19, art. 680
 
 
 
@@ -182,7 +182,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements et décrets**
 
-**13** Le gouverneur en conseil peut, sur recommandation du ministre des Affaires indiennes et du Nord canadien présentée après que ce dernier a pris en compte les observations du conseil, prendre les règlements et décrets qu’il estime utiles à la mise en oeuvre de l’accord.
+**13** Le gouverneur en conseil peut, sur recommandation du ministre des Relations Couronne-Autochtones présentée après que ce dernier a pris en compte les observations du conseil, prendre les règlements et décrets qu’il estime utiles à la mise en oeuvre de l’accord.
+> 2004, ch. 17, art. 132019, ch. 29, art. 373
+
 
 
 
@@ -198,11 +200,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **14.1** 
 
-- **(1)** Pour l’application du paragraphe 29(3) de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md), l’avis du conseil au sujet de l’exécution des travaux et de l’établissement des plans relativement aux terres de Westbank se substitue à celui du ministre des Affaires indiennes et du Nord canadien.
+- **(1)** Pour l’application du paragraphe 29(3) de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md), l’avis du conseil au sujet de l’exécution des travaux et de l’établissement des plans relativement aux terres de Westbank se substitue à celui du ministre des Relations Couronne-Autochtones.
 
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique toutefois pas en ce qui touche les limites séparant les terres de Westbank d’autres terres.
+> 2004, ch. 17, art. 14.12019, ch. 29, art. 373
+
 
 
 
@@ -213,7 +217,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** à Bibliothèque et Archives du Canada;
 - **b)** à la bibliothèque de son ministère située dans la région de la capitale nationale;
 - **c)** au bureau de son ministère situé le plus près des terres de Westbank.
-> 2004, ch. 17, art. 15 et 21.
+> 2004, ch. 17, art. 15 et 21
 
 
 
@@ -272,5 +276,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#W-6.2_f_22'>[*]</a></sup>**22** Les dispositions de la présente loi, à l’exception des articles 20 et 21, entrent en vigueur à la date fixée par décret.
 
 <a name='W-6.2_f_22'><sup>*</sup></a>: [Note : Articles 20 et 21 en vigueur à la sanction le 6 mai 2004; loi, à l’exception des articles 20 et 21, en vigueur le 1<sup>er</sup> avril 2005, *voir* TR/2005-18.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 29, par. 371(3)
+
+
+
+**Autre mention du ministère des Affaires indiennes et du Nord canadien**
+
+- **(3)** Sauf indication contraire du contexte, dans la version anglaise de l’alinéa 15b) de la Loi sur l’autonomie gouvernementale de la première nation de Westbank, la mention « *Department of Indian Affairs and Northern Development* » vaut mention de « *Department of Crown-Indigenous Relations and Northern Affairs* ».
+
+
+
+######           — 2019, ch. 29, al. 373(2)e)
+
+
+
+**Autres mentions du ministre des Affaires indiennes et du Nord canadien**
+
+- **(2)** Sauf indication contraire du contexte, dans les passages ci-après, la mention du ministre des Affaires indiennes et du Nord canadien vaut mention, avec les éventuelles adaptations grammaticales, du ministre des Relations Couronne-Autochtones :
+	- **e)** le passage de l’article 15 de la Loi sur l’autonomie gouvernementale de la première nation de Westbank précédant l’alinéa a);
+
 
 
