@@ -49,9 +49,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***member*** has the same meaning as ***member of a band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*membre*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations. (*ministre*)
 
 ***remuneration*** means any salaries, wages, commissions, bonuses, fees, honoraria and dividends and any other monetary benefits — other than the reimbursement of expenses — and non-monetary benefits. (*rémunération*)
+> 2013, c. 7, s. 22019, c. 29, s. 368
+
 
 
 
@@ -156,7 +158,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Internet site — Minister**
 
-**9** The Minister must publish the documents referred to in paragraphs 7(1)(a) to (d) on the Department of Indian Affairs and Northern Development’s Internet site without delay after the First Nation has provided him or her with those documents or they have been published under subsection 8(1).
+**9** The Minister must publish the documents referred to in paragraphs 7(1)(a) to (d) on the Internet site of the Department of Crown-Indigenous Relation and Northern Affairs without delay after the First Nation has provided him or her with those documents or they have been published under subsection 8(1).
+> 2013, c. 7, s. 92019, c. 29, s. 369
+
 
 
 
@@ -206,5 +210,36 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deeming**
 
 - **(2)** An amount withheld under paragraph (1)(b) is deemed to be an amount that is due or owing for the purposes of section 37.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 29, s. 368(2)
+
+**368** 
+
+- **(2)** The definition ***Minister*** in section 2 of the Act is replaced by the following:
+
+
+***Minister*** means the Minister of Indigenous Services. (*ministre*)
+
+
+
+
+
+######           — 2019, c. 29, s. 369(2)
+
+**369** 
+
+- **(2)** Section 9 of the Act is replaced by the following:
+
+**Internet site — Minister**
+
+**9** The Minister must publish the documents referred to in paragraphs 7(1)(a) to (d) on the Internet site of the Department of Indigenous Services without delay after the First Nation has provided him or her with those documents or they have been published under subsection 8(1).
+
+
+
 
 
