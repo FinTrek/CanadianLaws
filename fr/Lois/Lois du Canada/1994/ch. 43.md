@@ -87,7 +87,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***mines*** Toutes les mines, en exploitation ou non. (*mines*)
 
-***ministre fédéral*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre fédéral*** Le ministre des Affaires du Nord. (*Minister*)
 
 ***ministre territorial*** Selon le cas, le ministre du Yukon désigné pour l’application des différentes dispositions de la présente loi par le commissaire du Yukon. (*Territorial Minister*)
 
@@ -133,7 +133,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***terre non désignée*** Toute terre du Yukon — y compris ses eaux — non visée par un règlement de revendication territoriale. Y sont assimilés les mines et les minéraux — à l’exclusion des matières spécifiées — des terres désignées de catégorie B ou en fief simple; terre non visée par un règlement dans l’accord définitif. (*non-settlement land*)
 
 ***territoire traditionnel*** Pour ce qui concerne une première nation, la région du Yukon désignée comme son territoire traditionnel sur la carte figurant à cette fin à l’appendice B de son accord définitif. (*traditional territory*)
-> 1994, ch. 43, art. 2; 1999, ch. 31, art. 227.
+> 1994, ch. 43, art. 2; 1999, ch. 31, art. 2272019, ch. 29, art. 374
 
 
 
@@ -203,7 +203,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** celles de la décision écrite prise par une autorité fédérale aux termes des articles 75, 76 ou 77 de la [Loi sur l’évaluation environnementale et socioéconomique au Yukon](/fr/Lois/Lois%20du%20Canada/2003/ch.%207.md) que cette dernière est tenue de mettre en oeuvre aux termes du paragraphe 82(2) de cette loi;
 	- **b)** celles de la décision écrite prise par le ministre territorial sous le régime des mêmes articles que les autorités territoriales et les municipalités sont tenues de mettre en oeuvre aux termes du paragraphe 83(2) de cette loi;
 	- **c)** celles de la décision écrite prise par une première nation sous le régime de ces articles que cette dernière est tenue de mettre en oeuvre aux termes des paragraphes 84(2) ou (3) de cette loi.
-> 1994, ch. 43, art. 5; 2003, ch. 7, art. 131.
+> 1994, ch. 43, art. 5; 2003, ch. 7, art. 131
 
 
 
@@ -283,7 +283,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-incompatibilité**
 
 - **(3)** Ne sont pas incompatibles avec le poste de membre ou la participation à une formation de l’Office le statut d’Indien du Yukon ou le fait de détenir un intérêt foncier au Yukon.
-> 1994, ch. 43, art. 10; 2013, ch. 14, art. 12.
+> 1994, ch. 43, art. 10; 2013, ch. 14, art. 12
 
 
 
@@ -308,7 +308,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Occupation du poste**
 
 - **(3)** Sauf révocation motivée de la part du ministre fédéral — notamment pour un motif prévu par règlement administratif pris en application de l’alinéa 18a) —, les membres exercent leurs fonctions à titre inamovible.
-> 1994, ch. 43, art. 11; 2013, ch. 14, art. 13.
+> 1994, ch. 43, art. 11; 2013, ch. 14, art. 13
 
 
 
@@ -348,7 +348,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation des accidents du travail**
 
 - **(3)** Ils sont réputés être agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et occuper un emploi au sein de l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 1994, ch. 43, art. 15; 2003, ch. 22, art. 224(A).
+> 1994, ch. 43, art. 15; 2003, ch. 22, art. 224(A)
 
 
 
@@ -357,7 +357,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Faits accomplis de bonne foi**
 
 **15.1** Les membres de l’Office et les membres du personnel bénéficient de l’immunité judiciaire pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice, même présumé, de leurs fonctions au titre de la présente loi.
-> 2013, ch. 14, art. 14.
+> 2013, ch. 14, art. 14
 
 
 
@@ -398,7 +398,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** régir l’affectation des membres aux formations chargées d’instruire les demandes dont il est saisi;
 - **b.1)** régir l’exercice des fonctions par un membre à l’égard d’une affaire après l’expiration de son mandat;
 - **c)** de façon générale, régir la conduite et la gestion de ses affaires internes.
-> 1994, ch. 43, art. 18; 2013, ch. 14, art. 15.
+> 1994, ch. 43, art. 18; 2013, ch. 14, art. 15
 
 
 
@@ -473,7 +473,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 - **(5)** Le vérificateur de l’Office vérifie chaque année les comptes, états financiers et opérations financières de l’Office, et présente son rapport à celui-ci et au ministre fédéral.
-> 1994, ch. 43, art. 23; 2012, ch. 19, art. 185; 2013, ch. 14, art. 16; 2017, ch. 26, art. 62.
+> 1994, ch. 43, art. 23; 2012, ch. 19, art. 185; 2013, ch. 14, art. 16; 2017, ch. 26, art. 62
 
 
 
@@ -690,7 +690,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** l’adjudication et la taxation des frais et dépens, et notamment :
 	- **(i)** pour fixer le tarif des frais et dépens que peut réclamer, en vertu de l’article 68, toute partie à une demande,
 	- **(ii)** concernant les circonstances pouvant justifier la dérogation au tarif.
-> 1994, ch. 43, art. 40; 1998, ch. 5, art. 15(F).
+> 1994, ch. 43, art. 40; 1998, ch. 5, art. 15(F)
 
 
 
@@ -700,11 +700,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **41** 
 
-- **(1)** Au moins trente jours avant l’établissement d’une règle, l’Office en donne avis dans la Gazette du Canada, ainsi que dans un journal qui, à son avis, jouit d’une vaste distribution au Yukon; il y invite les intéressés à présenter par écrit, dans ce délai, leurs observations à cet égard.
+- **(1)** Au moins trente jours avant l’établissement d’une règle, l’Office en donne avis dans la [Gazette du Canada](http://www.gazette.gc.ca/), ainsi que dans un journal qui, à son avis, jouit d’une vaste distribution au Yukon; il y invite les intéressés à présenter par écrit, dans ce délai, leurs observations à cet égard.
 
 **Dispense**
 
-- **(2)** Il n’est pas nécessaire de publier de nouvel avis relativement au projet de règle qui a été modifié à la suite d’observations, mais le texte définitif de la règle doit être publié dans la Gazette du Canada dès son établissement.
+- **(2)** Il n’est pas nécessaire de publier de nouvel avis relativement au projet de règle qui a été modifié à la suite d’observations, mais le texte définitif de la règle doit être publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dès son établissement.
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
@@ -863,7 +863,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication de l’ordonnance**
 
-**49** L’Office publie l’ordonnance rendue en application de l’article 47 dans la Gazette du Canada et de toute autre façon permettant le mieux, à son avis, de la porter à la connaissance des intéressés.
+**49** L’Office publie l’ordonnance rendue en application de l’article 47 dans la [Gazette du Canada](http://www.gazette.gc.ca/) et de toute autre façon permettant le mieux, à son avis, de la porter à la connaissance des intéressés.
 
 
 
@@ -1079,10 +1079,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **59** Les définitions qui suivent s’appliquent au présent article et aux articles 60 à 62.
 
 ***réserve*** Selon le cas :
-- **a)** réserve consignée dans les registres des biens fonciers du Programme des affaires du Nord du ministère des Affaires indiennes et du Nord canadien;
+- **a)** réserve consignée dans les registres des biens fonciers du Programme des affaires du Nord du ministère des Services aux Autochtones;
 - **b)** relativement à une terre placée sous la gestion et la maîtrise du commissaire du Yukon, réserve consignée et inscription portée dans les registres des biens fonciers de la Direction de l’aménagement des terres du ministère des Services aux agglomérations et du Transport du Yukon. (*reservation*)
 
 ***terre*** Y est assimilé tout droit ou intérêt foncier reconnu en droit. (*land*)
+> 1994, ch. 43, art. 592019, ch. 29, art. 372
+
 
 
 
@@ -1197,7 +1199,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordonnance**
 
 **65** À la demande soit de la personne — autre que le gouvernement — qui est titulaire d’un droit ou d’un intérêt sur la surface d’une terre non désignée, soit de la personne — autre que le gouvernement — en droit d’exercer un droit d’accès lié à un droit minier (ou minéral) sur la même terre et découlant des dispositions d’une loi de la Législature du Yukon visées par un règlement d’application de l’alinéa 78f), l’Office tranche, par ordonnance, tout différend entre ces personnes sur l’interprétation de l’une ou l’autre de ces dispositions en ce qui concerne la portée et l’exercice du droit d’accès. L’ordonnance ne lie que les parties à l’instance.
-> 1994, ch. 43, art. 65; 1998, ch. 5, art. 16; 2002, ch. 7, art. 270.
+> 1994, ch. 43, art. 65; 1998, ch. 5, art. 16; 2002, ch. 7, art. 270
 
 
 
@@ -1290,7 +1292,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à l’ordonnance rendue en application des articles 55, 60, 63 ou 65.
-> 1994, ch. 43, art. 75; 1998, ch. 5, art. 17(F).
+> 1994, ch. 43, art. 75; 1998, ch. 5, art. 17(F)
 
 
 
@@ -1329,7 +1331,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mesures provisoires**
 
 - **(6)** Saisie d’une demande de contrôle judiciaire, la cour peut prendre les mesures provisoires qu’elle estime indiquées avant de rendre sa décision définitive.
-> 1994, ch. 43, art. 76; 2002, ch. 8, art. 181, ch. 10, art. 192(F) et 202(F).
+> 1994, ch. 43, art. 76; 2002, ch. 8, art. 181, ch. 10, art. 192(F) et 202(F)
 
 
 
@@ -1372,7 +1374,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f.1)** [Abrogé, 2002, ch. 7, art. 271]
 - **g)** autoriser l’Office à exercer les attributions que lui confère l’accord définitif relativement à telle parcelle de terre désignée;
 - **h)** de façon générale, prendre toute autre mesure d’application de la présente loi.
-> 1994, ch. 43, art. 78; 1998, ch. 5, art. 18; 2002, ch. 7, art. 271.
+> 1994, ch. 43, art. 78; 1998, ch. 5, art. 18; 2002, ch. 7, art. 271
 
 
 
@@ -1511,7 +1513,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **11** L’accord sur l’autonomie en matière d’administration publique conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et la première nation de Carcross/Tagish — représentée par le chef de la première nation de Carcross/Tagish —, et signé le 22 octobre 2005.
 
 
-> 1994, ch. 43, ann. I; DORS/98-178; DORS/99-14; DORS/2002-378; DORS/2004-10; DORS/2005-70, 402.
+> 1994, ch. 43, ann. I; DORS/98-178; DORS/99-14; DORS/2002-378; DORS/2004-10; DORS/2005-70, 402
 
 
 
@@ -1691,6 +1693,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2012, ch. 19, art. 201
+
+
+**Loi sur l’Office des droits de surface du Yukon**
+
+**201** L’obligation prévue au paragraphe 23(5) de la Loi sur l’Office des droits de surface du Yukon, dans sa version antérieure à la date de sanction de la présente loi, continue de s’appliquer à l’égard de l’exercice commençant le 1<sup>er</sup> avril 2011, mais ne s’applique à l’égard d’aucun exercice subséquent.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2002, ch. 7, art. 283
+
+
+**Abrogation**
+
+**283** La Loi sur l’Office des droits de surface du Yukon, chapitre 43 des Lois du Canada (1994), est abrogée.
+
+
+
+######           — 2019, ch. 28, art. 163
+
+**163** À l’article 55 de la Loi sur l’Office des droits de surface du Yukon, « [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) » est remplacé par « [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) ».
 
 
 
