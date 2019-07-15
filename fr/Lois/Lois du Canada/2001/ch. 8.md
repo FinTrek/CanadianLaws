@@ -311,11 +311,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **21** 
 
-- **(1)** Pour l’application du paragraphe 29(3) de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md), l’avis du conseil au sujet de l’exécution des travaux et de l’établissement des plans relativement au territoire provisoire de Kanesatake se substitue à celui du ministre des Affaires indiennes et du Nord canadien.
+- **(1)** Pour l’application du paragraphe 29(3) de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md), l’avis du conseil au sujet de l’exécution des travaux et de l’établissement des plans relativement au territoire provisoire de Kanesatake se substitue à celui du ministre des Services aux Autochtones.
 
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique toutefois pas en ce qui touche les limites séparant ce territoire d’autres terres.
+> 2001, ch. 8, art. 212019, ch. 29, art. 375
+
 
 
 
@@ -370,6 +372,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **4** Les terres décrites à l’article 2.1.1 de l’accord de gestion conclu le 30 juin 1999 entre Sa Majesté du chef du Canada et la société de développement Orihwa’shon :a de Kanesatake
+
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 29, par. 372(2)
+
+
+
+**Autre mention du ministère des Affaires indiennes et du Nord canadien**
+
+- **(2)** Sauf indication contraire du contexte, dans la version anglaise du passage du paragraphe 22(1) de la Loi sur le gouvernement du territoire provisoire de Kanesatake qui précède l’alinéa a), la mention « *Department of Indian Affairs and Northern Development* » vaut mention de « *Department of Indigenous Services* ».
+
+
+
+######           — 2019, ch. 29, par. 375(2)
+
+
+
+**Autre mention du ministre des Affaires indiennes et du Nord canadien**
+
+- **(2)** Sauf indication contraire du contexte, dans le passage du paragraphe 22(1) de la Loi sur le gouvernement du territoire provisoire de Kanesatake précédant l’alinéa a), la mention du ministre des Affaires indiennes et du Nord canadien vaut mention du ministre des Services aux Autochtones.
 
 
 
