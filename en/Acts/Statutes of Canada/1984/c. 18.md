@@ -17,7 +17,7 @@ Assented to on 14 June 1984
 Whereas the Government of Canada is obligated, pursuant to section 7 of the Northeastern Quebec Agreement, to recommend to Parliament special legislation to provide for an orderly and efficient system of Naskapi local government, for the administration, management and control of Category IA-N land by the Naskapi band, and for the protection of certain individual and collective rights under the said agreement;
 
 And whereas this Act is not intended to preclude the Naskapi from benefitting from future legislative or other measures respecting Indian government in Canada that are not incompatible with the said agreement;
-> 1984, c. 18, Preamble; 2018, c. 4, s. 3..
+> 1984, c. 18, Preamble; 2018, c. 4, s. 3.
 
 
 
@@ -36,7 +36,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Short title**
 
 **1** This Act may be cited as the Naskapi and the Cree-Naskapi Commission Act.
-> 1984, c. 18, s. 1; 2018, c. 4, s. 4.
+> 1984, c. 18, s. 1; 2018, c. 4, s. 4
 
 
 
@@ -100,7 +100,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***member*** means a member of the band as provided in section 20; (*membre*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations; (*ministre*)
 
 ***Naskapi band***[Repealed, 2018, c. 4, s. 5]
 
@@ -137,7 +137,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **References to Quebec statutes**
 
 - **(4)** Unless otherwise indicated in this Act, a reference to an Act of the legislature of Quebec or to a provision thereof is a reference to that Act or provision as amended from time to time.
-> 1984, c. 18, s. 2; 2009, c. 12, s. 1; 2018, c. 4, ss. 5, 122(E).
+> 1984, c. 18, s. 2; 2009, c. 12, s. 1; 2018, c. 4, ss. 5, 122(E)2019, c. 29, s. 373
 
 
 
@@ -174,7 +174,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
 **5** Except for the purpose of determining which of the Naskapi beneficiaries are Indians within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) does not apply to the band, nor does it apply on or in respect of Category IA-N land.
-> 1984, c. 18, s. 5; 2018, c. 4, s. 6.
+> 1984, c. 18, s. 5; 2018, c. 4, s. 6
 
 
 
@@ -189,7 +189,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **6** A by-law of the band made under this Act may have application within the following territorial limits:
 - **(a)** the band’s Category IA-N land; and
 - **(b)** Category III land situated within the perimeter of the band’s Category IA-N land and the ownership of which was ceded by letters patent or by any other method prior to January 31, 1978.
-> 1984, c. 18, s. 6; 2018, c. 4, s. 8.
+> 1984, c. 18, s. 6; 2018, c. 4, s. 8
 
 
 
@@ -198,7 +198,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **By-law may require licence or permit**
 
 **7** A by-law of the band made under this Act may require the holding of a licence or permit and may provide for the issuance thereof and the fees therefor.
-> 1984, c. 18, s. 7; 2018, c. 4, s. 8.
+> 1984, c. 18, s. 7; 2018, c. 4, s. 8
 
 
 
@@ -207,7 +207,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **By-law may prohibit activities**
 
 **8** A by-law of the band made under this Act may prohibit an activity.
-> 1984, c. 18, s. 8; 2018, c. 4, s. 8.
+> 1984, c. 18, s. 8; 2018, c. 4, s. 8
 
 
 
@@ -216,7 +216,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) not to apply**
 
 **9** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to a by-law or resolution of the band made under this Act.
-> 1984, c. 18, s. 9; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 9; 2018, c. 4, s. 122(E)
 
 
 
@@ -264,7 +264,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(b)** a corporation or other body established pursuant to the Northeastern Quebec Agreement;
 	- **(c)** a corporation or other body the majority of whose shareholders or members are Naskapi beneficiaries; or
 	- **(d)** a corporation or other body in which Naskapi beneficiaries participate, as shareholders or members or otherwise, and that is prescribed.
-> 1984, c. 18, s. 11; 2018, c. 4, s. 10.
+> 1984, c. 18, s. 11; 2018, c. 4, s. 10
 
 
 
@@ -307,7 +307,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Name**
 
 - **(2)** The band may be designated by any of its names mentioned in paragraphs (1)(a) to (c).
-> 1984, c. 18, s. 14; 2018, c. 4, s. 12.
+> 1984, c. 18, s. 14; 2018, c. 4, s. 12
 
 
 
@@ -325,8 +325,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Effective date of by-law**
 
-- **(2)** A by-law made under subsection (1) and approved by the Governor in Council takes effect on the date of its publication in the Canada Gazette or on such later date as is specified in the by-law.
-> 1984, c. 18, s. 16; 2018, c. 4, s. 13.
+- **(2)** A by-law made under subsection (1) and approved by the Governor in Council takes effect on the date of its publication in the [Canada Gazette](http://www.gazette.gc.ca/) or on such later date as is specified in the by-law.
+> 1984, c. 18, s. 16; 2018, c. 4, s. 13
 
 
 
@@ -351,7 +351,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Membership of band**
 
 **20** The members of the band are the Naskapi beneficiaries.
-> 1984, c. 18, s. 20; 2018, c. 4, s. 14.
+> 1984, c. 18, s. 20; 2018, c. 4, s. 14
 
 
 
@@ -363,7 +363,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** shall be deemed to be a member of the band for the purposes of paragraph 21(f), section 45, subsection 55(1), paragraphs 90(2)(a) and (b) and subsections 94(3) and (4) and 103(1);
 - **(b)** shall, if 18 years of age or over and not under curatorship under the laws of the Province, be deemed to be an elector of the band for the purposes of section 63, subparagraph 66(1)(a)(i) and sections 68 and 75, but is not eligible to be elected chief of the band; and
 - **(c)** shall, if 18 years of age or over and not under curatorship under the laws of the Province, be deemed to be an elector of the band for the purposes of section 81, except where the matter submitted to a vote is a matter referred to in Part VI, VII, VIII or IX.
-> 1984, c. 18, s. 20.1; 2018, c. 4, s. 15.
+> 1984, c. 18, s. 20.1; 2018, c. 4, s. 15
 
 
 
@@ -386,7 +386,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(h)** to establish and administer services, programs and projects for members of the band and other residents of Category IA-N land and residents of the Category III land referred to in paragraph 6(b);
 - **(i)** to promote and preserve the culture, values and traditions of the Naskapi; and
 - **(j)** to exercise the powers and carry out the duties conferred or imposed on the band or on its predecessor [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) band by any Act of Parliament or regulations made thereunder, and by the Northeastern Quebec Agreement.
-> 1984, c. 18, s. 21; 2018, c. 4, s. 17.
+> 1984, c. 18, s. 21; 2018, c. 4, s. 17
 
 
 
@@ -409,7 +409,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Band may own shares in corporations**
 
 - **(3)** Notwithstanding subsection (2), the band may own shares in corporations that carry on commercial activities.
-> 1984, c. 18, s. 22; 2018, c. 4, ss. 18(E), 122(E), 123.
+> 1984, c. 18, s. 22; 2018, c. 4, ss. 18(E), 122(E), 123
 
 
 
@@ -428,7 +428,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of certain other Acts**
 
 - **(3)** Where provisions of an Act of Parliament specifically applicable to corporations, other than the Acts mentioned in subsections (1) and (2), would apply to the band, the Governor in Council may by order declare that such Act or any provision thereof does not apply to the band.
-> 1984, c. 18, s. 23; 2009, c. 23, ss. 322, 352; 2018, c. 4, ss. 19, 122(E), 134.
+> 1984, c. 18, s. 23; 2009, c. 23, ss. 322, 352; 2018, c. 4, ss. 19, 122(E), 134
 
 
 
@@ -441,7 +441,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Head office of band**
 
 **24** The head office of the band shall be located at such place on its Category IA-N land as is fixed by the band.
-> 1984, c. 18, s. 24; 2018, c. 4, s. 20.
+> 1984, c. 18, s. 24; 2018, c. 4, s. 20
 
 
 
@@ -454,7 +454,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Band council**
 
 **25** The council of the band is a continuing body consisting of the council members holding office pursuant to Part II.
-> 1984, c. 18, s. 25; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 25; 2018, c. 4, s. 122(E)
 
 
 
@@ -463,7 +463,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Band acts through its council**
 
 **26** The band shall act through its council in exercising its powers and carrying out its duties under this Act.
-> 1984, c. 18, s. 26; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 26; 2018, c. 4, s. 122(E)
 
 
 
@@ -472,7 +472,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Resolutions and by-laws**
 
 **27** The council shall act by resolution, except where required to act by by-law.
-> 1984, c. 18, s. 27; 2018, c. 4, s. 21(E).
+> 1984, c. 18, s. 27; 2018, c. 4, s. 21(E)
 
 
 
@@ -481,7 +481,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Chief**
 
 **28** The chief of the band is the band’s principal representative and chief executive officer and shall perform any duties assigned to him or her by the regulations and the by-laws of the band.
-> 1984, c. 18, s. 28; 2018, c. 4, s. 21(E).
+> 1984, c. 18, s. 28; 2018, c. 4, s. 21(E)
 
 
 
@@ -496,7 +496,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Duties and powers of deputy chief**
 
 - **(2)** The deputy chief shall perform the duties assigned to him by the regulations and the by-laws of the band, and, in the event that the chief is absent or incapacitated or if the office of chief is vacant, has and may exercise all the powers and duties of the chief.
-> 1984, c. 18, s. 29; 2018, c. 4, s. 22(E).
+> 1984, c. 18, s. 29; 2018, c. 4, s. 22(E)
 
 
 
@@ -516,7 +516,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Use of Naskapi language at council meetings**
 
 **31** In addition to any other rights relating to the use of the Naskapi language, the band may conduct its council meetings in the Naskapi language.
-> 1984, c. 18, s. 31; 2018, c. 4, s. 23.
+> 1984, c. 18, s. 31; 2018, c. 4, s. 23
 
 
 
@@ -531,7 +531,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Versions adopted in more than one language**
 
 - **(2)** Where a by-law is enacted or a resolution is adopted in more than one of the English, French or Naskapi languages, all versions in which it is enacted or adopted are equally authoritative.
-> 1984, c. 18, s. 32; 2018, c. 4, s. 23.
+> 1984, c. 18, s. 32; 2018, c. 4, s. 23
 
 
 
@@ -554,7 +554,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Where general election called**
 
 - **(4)** Notwithstanding the length of the term of office of council members fixed pursuant to section 64 or 65 and notwithstanding the band’s obligation under subsection 76(1), where a general election of the band is called, the council of the band in office immediately before the calling of that general election continues in office until the date fixed for that general election.
-> 1984, c. 18, s. 33; 2018, c. 4, s. 24(E).
+> 1984, c. 18, s. 33; 2018, c. 4, s. 24(E)
 
 
 
@@ -586,7 +586,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Where tied vote**
 
 - **(3)** In the event of a tied vote, the chairman may, except where disqualified from voting under section 38, cast a second vote to determine the question.
-> 1984, c. 18, s. 35; 2018, c. 4, s. 25(E).
+> 1984, c. 18, s. 35; 2018, c. 4, s. 25(E)
 
 
 
@@ -609,7 +609,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Decorum**
 
 - **(3)** The chairman of a council meeting may cause to be expelled and excluded from that meeting any person whom he considers guilty of improper conduct at the meeting.
-> 1984, c. 18, s. 37; 2018, c. 4, s. 27(E).
+> 1984, c. 18, s. 37; 2018, c. 4, s. 27(E)
 
 
 
@@ -644,7 +644,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(6)** A council member who contravenes subsection (1) or (3) is guilty of an offence.
 
 - **(7)** [Repealed, 2018, c. 4, s. 28]
-> 1984, c. 18, s. 38; 2018, c. 4, s. 28.
+> 1984, c. 18, s. 38; 2018, c. 4, s. 28
 
 
 
@@ -653,7 +653,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **By-laws respecting council meetings**
 
 **39** The band may make by-laws respecting procedures relating to council meetings, including, without limiting the generality of the foregoing, by-laws respecting notices of meetings, agenda, procedure at meetings and voting.
-> 1984, c. 18, s. 39; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 39; 2018, c. 4, s. 122(E)
 
 
 
@@ -678,7 +678,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Powers of committees**
 
 - **(3)** Committees may exercise only advisory or administrative functions and are responsible to the council for the performance of their functions.
-> 1984, c. 18, s. 40; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 40; 2018, c. 4, s. 122(E)
 
 
 
@@ -704,7 +704,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Employment agreements**
 
 - **(3)** The band may enter into employment agreements with its officers and employees.
-> 1984, c. 18, s. 41; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 41; 2018, c. 4, s. 122(E)
 
 
 
@@ -732,7 +732,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Duties of band treasurer**
 
 **43** The band treasurer is the chief financial officer of the band, and is responsible for the receipt and deposit of band moneys and for all aspects of the financial administration of the band.
-> 1984, c. 18, s. 43; 2018, c. 4, s. 29(E).
+> 1984, c. 18, s. 43; 2018, c. 4, s. 29(E)
 
 
 
@@ -747,7 +747,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Failure to comply**
 
 - **(2)** Any person who fails to comply with subsection (1) is guilty of an offence.
-> 1984, c. 18, s. 44; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 44; 2018, c. 4, s. 122(E)
 
 
 
@@ -823,7 +823,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Payment in forms other than money**
 
 - **(6)** The band may accept payment of a tax referred to in paragraph (1)(h) or a user charge referred to in paragraph (1)(i) in a form other than money.
-> 1984, c. 18, s. 45; 2018, c. 4, ss. 30, 122(E), 123.
+> 1984, c. 18, s. 45; 2018, c. 4, ss. 30, 122(E), 123
 
 
 
@@ -841,7 +841,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Where plan approved by electors**
 
 - **(2)** Where a land use plan or resource use plan adopted pursuant to subsection (1) has been approved by the electors of the band at a special band meeting or referendum at which at least twenty-five per cent of the electors voted on the matter, any by-law or resolution of the band, whether made or adopted previously or subsequently, that is inconsistent with such land use plan or resource use plan is inoperative to the extent of the inconsistency.
-> 1984, c. 18, s. 46; 2018, c. 4, s. 31.
+> 1984, c. 18, s. 46; 2018, c. 4, s. 31
 
 
 
@@ -858,7 +858,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Approval of band electors required**
 
 - **(2)** A zoning by-law other than one described in paragraph (1)(b) is subject to the approval of the electors of the band at a special band meeting or referendum at which at least fifteen per cent of the electors vote on the matter.
-> 1984, c. 18, s. 47; 2018, c. 4, ss. 122(E), 123.
+> 1984, c. 18, s. 47; 2018, c. 4, ss. 122(E), 123
 
 
 
@@ -891,7 +891,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Minister may disallow certain by-laws**
 
 - **(5)** A by-law described in paragraph (1)(b) shall come into force on the day on which a copy thereof, certified by the band secretary, is received by the Minister, but the Minister may disallow the by-law at any time within ninety days after receiving it.
-> 1984, c. 18, s. 48; 2018, c. 4, ss. 32, 122(E).
+> 1984, c. 18, s. 48; 2018, c. 4, ss. 32, 122(E)
 
 
 
@@ -906,7 +906,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Agreement with Government of Quebec**
 
 - **(2)** By-laws may be made under subsection (1) only if an agreement is entered into between the band and the Government of Quebec.
-> 2018, c. 4, s. 33.
+> 2018, c. 4, s. 33
 
 
 
@@ -944,7 +944,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Non-compliance**
 
 - **(4)** Non-compliance with this section does not invalidate a by-law or resolution.
-> 1984, c. 18, s. 50; 2018, c. 4, ss. 34, 122(E).
+> 1984, c. 18, s. 50; 2018, c. 4, ss. 34, 122(E)
 
 
 
@@ -959,7 +959,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Idem**
 
 - **(2)** Where a resolution is required to be approved by the electors of the band at a special band meeting or referendum, that resolution comes into force on the day on which such approval is given or on such later day as is specified in the resolution.
-> 1984, c. 18, s. 51; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 51; 2018, c. 4, s. 122(E)
 
 
 
@@ -974,7 +974,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Coming into force of by-laws**
 
 - **(2)** A by-law enacted by the band shall come into force on the day on which it is posted, whether or not it is posted within the time set out in subsection (1), or on such day, subsequent to the day on which it is posted, as may be specified in the by-law.
-> 1984, c. 18, s. 52; 2018, c. 4, ss. 35, 122(E).
+> 1984, c. 18, s. 52; 2018, c. 4, ss. 35, 122(E)
 
 
 
@@ -1004,7 +1004,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Obtaining copies of by-laws and resolutions**
 
 **54** Any person is entitled to obtain a copy of a by-law or resolution of the band on payment of such reasonable fee as is fixed by the band.
-> 1984, c. 18, s. 54; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 54; 2018, c. 4, s. 122(E)
 
 
 
@@ -1023,7 +1023,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Exclusion of Federal Court’s jurisdiction**
 
 - **(2)** Notwithstanding the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Federal Court does not have the jurisdiction to hear applications described in subsection (1).
-> 1984, c. 18, s. 55; 2002, c. 8, s. 133(E); 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 55; 2002, c. 8, s. 133(E); 2018, c. 4, s. 122(E)
 
 
 
@@ -1076,7 +1076,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Existing council of [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Naskapi band**
 
 **61** Subject to section 62, the council of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Naskapis de Schefferville band that is in office pursuant to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) immediately before the coming into force of this Part becomes the council of the band on the coming into force of this Part, and continues in office as such until the expiration of its term of office under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or until a day two years after the coming into force of this Part, whichever occurs first.
-> 1984, c. 18, s. 61; 2018, c. 4, s. 36.
+> 1984, c. 18, s. 61; 2018, c. 4, s. 36
 
 
 
@@ -1085,7 +1085,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Provisions of this Act to apply**
 
 **62** For the transitional period described in section 61, the council has the powers and duties of a band council elected under this Act, and the provisions of this Act and the regulations apply, with such modifications as the circumstances require, to the council as if it had been elected under this Act.
-> 1984, c. 18, s. 62; 2018, c. 4, s. 36.
+> 1984, c. 18, s. 62; 2018, c. 4, s. 36
 
 
 
@@ -1153,7 +1153,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Exception**
 
 - **(2)** An elector who is appointed a Returning Officer or a Deputy or Assistant Returning Officer under section 71 in respect of an election is not entitled to vote in that election.
-> 1984, c. 18, s. 63; 2018, c. 4, s. 37.
+> 1984, c. 18, s. 63; 2018, c. 4, s. 37
 
 
 
@@ -1166,7 +1166,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Election by-law**
 
 **64** Subject to section 65 and subsection 66(1), the band may make by-laws respecting the election and term of office of its council members.
-> 1984, c. 18, s. 64; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 64; 2018, c. 4, s. 122(E)
 
 
 
@@ -1243,7 +1243,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 - **(d)** is a judge to which the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md) applies or is a Crown prosecutor;
 - **(e)** is, on the day fixed for the holding of the election for that office, undergoing a term of imprisonment as a result of having been convicted of an indictable offence; or
 - **(f)** resides on the Matimekosh Reserve.
-> 1984, c. 18, s. 68; 2018, c. 4, s. 38.
+> 1984, c. 18, s. 68; 2018, c. 4, s. 38
 
 
 
@@ -1263,7 +1263,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 - **(c)** the office-holder’s term of office expires, whether pursuant to this Act, a by-law made under section 64 or regulations made under paragraph 67(1)(a);
 - **(d)** the office-holder resides on the Matimekosh Reserve; or
 - **(e)** the office is declared vacant pursuant to section 70.
-> 1984, c. 18, s. 69; 2018, c. 4, s. 39.
+> 1984, c. 18, s. 69; 2018, c. 4, s. 39
 
 
 
@@ -1303,7 +1303,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Absence, etc., of both Returning Officer and Deputy Returning Officer**
 
 - **(4)** In the event of the absence or incapacity of both the Returning Officer and the Deputy Returning Officer or if both such offices are vacant, the band secretary has and may exercise all the powers and duties of the Returning Officer.
-> 1984, c. 18, s. 71; 2018, c. 4, s. 40(E).
+> 1984, c. 18, s. 71; 2018, c. 4, s. 40(E)
 
 
 
@@ -1325,7 +1325,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 - **(a)** is convicted of contravening a regulation made under paragraph 67(1)(b);
 - **(b)** commences a term of imprisonment as a result of having been convicted of an indictable offence; or
 - **(c)** is under curatorship under the laws of the Province.
-> 1984, c. 18, s. 73; 2018, c. 4, s. 41.
+> 1984, c. 18, s. 73; 2018, c. 4, s. 41
 
 
 
@@ -1344,7 +1344,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Band may call general election**
 
 - **(2)** The band may hold a general election at any time.
-> 1984, c. 18, s. 74; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 74; 2018, c. 4, s. 122(E)
 
 
 
@@ -1367,7 +1367,7 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 	- **(b)** the majority of those voting vote in favour of holding a general election, and
 	- **(c)** the majority referred to in paragraph (b) consists of at least one-third of the total number of electors of the band,
 the band shall forthwith hold a general election.
-> 1984, c. 18, s. 75; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 75; 2018, c. 4, s. 122(E)
 
 
 
@@ -1402,7 +1402,7 @@ the band shall forthwith hold a general election.
 **Term of appointed council member**
 
 - **(7)** A council member appointed pursuant to subsection (5) remains in office for the balance of the term in respect of which the vacancy occurred.
-> 1984, c. 18, s. 76; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 76; 2018, c. 4, s. 122(E)
 
 
 
@@ -1417,7 +1417,7 @@ the band shall forthwith hold a general election.
 **Idem**
 
 - **(2)** Where the band fails to hold an election or a special band meeting pursuant to subsection 76(4) within ten days after its obligation to do so has arisen, the Returning Officer of the band shall hold the election or special band meeting.
-> 1984, c. 18, s. 77; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 77; 2018, c. 4, s. 122(E)
 
 
 
@@ -1467,7 +1467,7 @@ the band shall forthwith hold a general election.
 **Effect on office-holder**
 
 - **(9)** A council member whose election is contested under this section is entitled to remain in office until such time as the judge has declared his election invalid under subsection (7).
-> 1984, c. 18, s. 78; 2018, c. 4, s. 42(E).
+> 1984, c. 18, s. 78; 2018, c. 4, s. 42(E)
 
 
 
@@ -1488,7 +1488,7 @@ the band shall forthwith hold a general election.
 **Use of Naskapi language**
 
 **80** In addition to any other rights relating to the use of the Naskapi language, the band may conduct ordinary band meetings, special band meetings and referenda in the Naskapi language.
-> 1984, c. 18, s. 80; 2018, c. 4, s. 43.
+> 1984, c. 18, s. 80; 2018, c. 4, s. 43
 
 
 
@@ -1497,7 +1497,7 @@ the band shall forthwith hold a general election.
 **Each elector may vote**
 
 **81** Each elector of the band is entitled to vote in respect of any matter submitted to a vote at an ordinary band meeting, special band meeting or referendum.
-> 1984, c. 18, s. 81; 2018, c. 4, s. 44(E).
+> 1984, c. 18, s. 81; 2018, c. 4, s. 44(E)
 
 
 
@@ -1516,7 +1516,7 @@ the band shall forthwith hold a general election.
 **By-laws respecting ordinary band meetings**
 
 - **(2)** The band may make by-laws respecting ordinary band meetings, including, without limiting the generality of the foregoing, by-laws respecting the calling of meetings, the conduct of meetings, quorums, voting, and the preparation and keeping of records of votes taken.
-> 1984, c. 18, s. 82; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 82; 2018, c. 4, s. 122(E)
 
 
 
@@ -1537,7 +1537,7 @@ the band shall forthwith hold a general election.
 **Abstentions**
 
 - **(2)** In any vote at a special band meeting or referendum, an elector who does not cast an affirmative vote or a negative vote or who spoils his ballot shall be deemed not to have voted.
-> 1984, c. 18, s. 83; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 83; 2018, c. 4, s. 122(E)
 
 
 
@@ -1546,7 +1546,7 @@ the band shall forthwith hold a general election.
 **Notice of special band meeting or referendum**
 
 **84** Where the band wishes to hold a special band meeting or a referendum, it shall cause to be posted in a public place in the community, at least ten days prior to the date fixed for such meeting or referendum, a notice specifying the date, time and place of the special band meeting or referendum and containing a brief description of the matters to be decided at that special band meeting or referendum.
-> 1984, c. 18, s. 84; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 84; 2018, c. 4, s. 122(E)
 
 
 
@@ -1590,7 +1590,7 @@ the band shall forthwith hold a general election.
 **Copy of by-law to Minister**
 
 - **(4)** The band shall forward to the Minister a copy of any by-law made under this section, within thirty days after its enactment.
-> 1984, c. 18, s. 86; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 86; 2018, c. 4, s. 122(E)
 
 
 
@@ -1640,7 +1640,7 @@ the band shall forthwith hold a general election.
 **Idem**
 
 - **(4)** Where a by-law is made under subsection (2), the period between the end of the fiscal year in which the by-law came into force and the commencement of the fiscal year provided for in the by-law shall be deemed to be a separate fiscal year for the purposes of this Part.
-> 1984, c. 18, s. 89; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 89; 2018, c. 4, s. 122(E)
 
 
 
@@ -1680,7 +1680,7 @@ the band shall forthwith hold a general election.
 **Where inconsistency with budget**
 
 - **(7)** Where a by-law or resolution referred to in subsection (5) is inconsistent with the band’s budget or a supplementary budget, the by-law or resolution shall so state, but a non-compliance with this subsection does not affect the validity of the by-law or resolution.
-> 1984, c. 18, s. 90; 2009, c. 12, s. 10; 2018, c. 4, ss. 46, 122(E).
+> 1984, c. 18, s. 90; 2009, c. 12, s. 10; 2018, c. 4, ss. 46, 122(E)
 
 
 
@@ -1709,7 +1709,7 @@ the band shall forthwith hold a general election.
 	- **(b)** having control or possession of those books or records, fails to give all reasonable assistance to that person.
 
 - **(2.1)** [Repealed, 2018, c. 4, s. 47]
-> 1984, c. 18, s. 91; 2009, c. 12, s. 11; 2018, c. 4, ss. 47, 122(E).
+> 1984, c. 18, s. 91; 2009, c. 12, s. 11; 2018, c. 4, ss. 47, 122(E)
 
 
 
@@ -1721,7 +1721,7 @@ the band shall forthwith hold a general election.
 - **(a)** a balance sheet;
 - **(b)** a statement of revenues and expenditures and a comparison of these with the amounts stated in the band’s budget and any supplementary budget; and
 - **(c)** any other information necessary for a fair presentation of the financial position of the band.
-> 1984, c. 18, s. 92; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 92; 2018, c. 4, s. 122(E)
 
 
 
@@ -1762,7 +1762,7 @@ the band shall forthwith hold a general election.
 **Band to pay remuneration**
 
 - **(6)** In all cases the auditor’s remuneration shall be paid by the band.
-> 1984, c. 18, s. 93; 2009, c. 12, s. 12; 2018, c. 4, ss. 48, 122(E).
+> 1984, c. 18, s. 93; 2009, c. 12, s. 12; 2018, c. 4, ss. 48, 122(E)
 
 
 
@@ -1785,7 +1785,7 @@ the band shall forthwith hold a general election.
 **Copy of auditor’s report to be made available for inspection**
 
 - **(4)** The band shall make a copy of the auditor’s report available at the head office of the band, for inspection by members of the band at reasonable hours.
-> 1984, c. 18, s. 94; 2009, c. 12, s. 13; 2018, c. 4, ss. 49, 122(E).
+> 1984, c. 18, s. 94; 2009, c. 12, s. 13; 2018, c. 4, ss. 49, 122(E)
 
 
 
@@ -1823,7 +1823,7 @@ is guilty of an offence.
 **Repayment of loan**
 
 - **(3)** Where a source of revenue has been identified pursuant to subparagraph (2)(a)(iii), moneys received by the band from that source shall be applied to the repayment of the loan in question.
-> 1984, c. 18, s. 96; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 96; 2018, c. 4, s. 122(E)
 
 
 
@@ -1844,7 +1844,7 @@ is guilty of an offence.
 **Idem**
 
 - **(3)** The band may not borrow on a long-term basis until regulations made under section 98 are in force.
-> 1984, c. 18, s. 97; 2018, c. 4, ss. 50, 122(E).
+> 1984, c. 18, s. 97; 2018, c. 4, ss. 50, 122(E)
 
 
 
@@ -1853,7 +1853,7 @@ is guilty of an offence.
 **Regulations re long-term borrowing**
 
 **98** The Governor in Council may make regulations respecting long-term borrowing by the band.
-> 1984, c. 18, s. 98; 2018, c. 4, s. 51.
+> 1984, c. 18, s. 98; 2018, c. 4, s. 51
 
 
 
@@ -1866,7 +1866,7 @@ is guilty of an offence.
 **By-laws re contracts and tenders**
 
 **99** The band may make by-laws respecting procedures for the awarding of contracts and the calling of tenders in relation thereto, and such by-laws may take into account the preferential contract and employment benefits for Naskapi beneficiaries contained in the Northeastern Quebec Agreement or established pursuant to that agreement.
-> 1984, c. 18, s. 99; 2018, c. 4, s. 52.
+> 1984, c. 18, s. 99; 2018, c. 4, s. 52
 
 
 
@@ -1905,7 +1905,7 @@ is guilty of an offence.
 **Idem**
 
 - **(7)** The Minister’s power under subsection (6) applies also at the expiration of the term of appointment of an administrator appointed or re-appointed under that subsection.
-> 1984, c. 18, s. 100; 2009, c. 12, s. 14; 2018, c. 4, ss. 53, 122(E).
+> 1984, c. 18, s. 100; 2009, c. 12, s. 14; 2018, c. 4, ss. 53, 122(E)
 
 
 
@@ -1919,7 +1919,7 @@ is guilty of an offence.
 **General prohibition against residing, etc.**
 
 **101** No person may reside on, enter or remain on Category IA-N land otherwise than in accordance with a residence or access right under this Part.
-> 1984, c. 18, s. 101; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 101; 2018, c. 4, s. 123
 
 
 
@@ -1934,7 +1934,7 @@ is guilty of an offence.
 **By-laws respecting the exercise of residence and access rights**
 
 - **(2)** The band may make by-laws for the purpose of regulating, on its Category IA-N land, the exercise of residence or access rights conferred by sections 103 to 106, but, except in the case of an authorization to reside under paragraph 103(2)(a) or an authorization of access under paragraph 105(5)(e), such a by-law may not, notwithstanding section 8, unreasonably restrict or, except as provided by subsection 103(3), effectively deny any such residence or access right.
-> 1984, c. 18, s. 102; 2018, c. 4, s. 55.
+> 1984, c. 18, s. 102; 2018, c. 4, s. 55
 
 
 
@@ -1964,7 +1964,7 @@ is guilty of an offence.
 **Band’s control over number of outsiders**
 
 - **(3)** The band may prohibit a person described in paragraph (2)(d) from residing on its Category IA-N land where the number of such persons would be such as to significantly alter the demographic composition of the community.
-> 1984, c. 18, s. 103; 2018, c. 4, s. 56.
+> 1984, c. 18, s. 103; 2018, c. 4, s. 56
 
 
 
@@ -1973,7 +1973,7 @@ is guilty of an offence.
 **Pre-Agreement residence and occupation rights not affected**
 
 **104** A person who is not a Naskapi beneficiary and was, immediately before January 31, 1978, residing on or occupying, by virtue of a right of residence or occupancy, land that became Category IA-N land by virtue of the Northeastern Quebec Agreement, and continues to reside on or occupy that land by virtue of that right at the coming into force of this Part, may continue to reside on or occupy that land in accordance with that right until the expiry of that right.
-> 1984, c. 18, s. 104; 2009, c. 12, s. 15; 2018, c. 4, s. 57.
+> 1984, c. 18, s. 104; 2009, c. 12, s. 15; 2018, c. 4, s. 57
 
 
 
@@ -2002,7 +2002,7 @@ is guilty of an offence.
 	- **(c)** a person who has an authorization for commercial exploitation of forest resources referred to in subsection 111(2);
 	- **(d)** a holder of a mining right or other subsurface right referred to in section 115 or a person exercising a right under subsection 113(3); and
 	- **(e)** a person authorized in writing by the band or by a by-law of the band.
-> 1984, c. 18, s. 105; 2009, c. 12, s. 16; 2018, c. 4, s. 58.
+> 1984, c. 18, s. 105; 2009, c. 12, s. 16; 2018, c. 4, s. 58
 
 
 
@@ -2011,7 +2011,7 @@ is guilty of an offence.
 **Public’s access to public facilities**
 
 **106** Any member of the public is permitted access to the public facilities and installations mentioned in section 191.45 of An Act respecting the land regime in the James Bay and New Quebec territories (Quebec), where all or any part of such a facility or installation is located on Category IA-N land.
-> 1984, c. 18, s. 106; 2018, c. 4, s. 59.
+> 1984, c. 18, s. 106; 2018, c. 4, s. 59
 
 
 
@@ -2020,7 +2020,7 @@ is guilty of an offence.
 **Matimekosh Reserve**
 
 **107** Despite the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), a Naskapi beneficiary who, immediately before the coming into force of this section, resided on the Matimekosh Reserve has the right to continue to reside on, and enjoy access to and movement about, that reserve, subject to subsection 20.25A of the Northeastern Quebec Agreement.
-> 1984, c. 18, s. 107; 2018, c. 4, s. 59.
+> 1984, c. 18, s. 107; 2018, c. 4, s. 59
 
 
 
@@ -2038,7 +2038,7 @@ is guilty of an offence.
 **Other remedies preserved**
 
 - **(2)** Subsection (1) does not affect any right or remedy that, but for that subsection, would be available in respect of a contravention of section 101.
-> 1984, c. 18, s. 108; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 108; 2018, c. 4, s. 123
 
 
 
@@ -2058,7 +2058,7 @@ is guilty of an offence.
 **Band’s rights — land and resources**
 
 - **(2)** Subject to this Act, the band has the exclusive use and benefit of its Category IA-N land and the natural resources thereof, and may administer, manage, control, use and enjoy that land and the natural resources thereof for community, commercial, industrial, residential or other purposes, as if it were the owner thereof.
-> 1984, c. 18, s. 109; 2018, c. 4, s. 60.
+> 1984, c. 18, s. 109; 2018, c. 4, s. 60
 
 
 
@@ -2071,7 +2071,7 @@ is guilty of an offence.
 **Band ownership of soapstone deposits**
 
 **110** All deposits of soapstone, and any other similar material used for traditional arts and crafts of the Naskapi on Category IA-N land of the band are the property of the band.
-> 1984, c. 18, s. 110; 2018, c. 4, s. 61.
+> 1984, c. 18, s. 110; 2018, c. 4, s. 61
 
 
 
@@ -2094,7 +2094,7 @@ is guilty of an offence.
 **Right of member of band**
 
 - **(3)** Subject to any by-law of the band made under section 45 restricting or prohibiting the use of forest resources, a member of the band may use forest resources on Category IA-N land of the band for personal or community purposes.
-> 1984, c. 18, s. 111; 2018, c. 4, s. 62.
+> 1984, c. 18, s. 111; 2018, c. 4, s. 62
 
 
 
@@ -2107,7 +2107,7 @@ is guilty of an offence.
 **Gravel**
 
 **112** Where it has obtained a permit pursuant to section 191.38 of An Act respecting the land regime in the James Bay and New Quebec territories (Quebec), the band may use, in accordance with that permit, gravel and other similar material generally used for personal or community earthworks.
-> 1984, c. 18, s. 112; 2018, c. 4, s. 63.
+> 1984, c. 18, s. 112; 2018, c. 4, s. 63
 
 
 
@@ -2139,7 +2139,7 @@ is guilty of an offence.
 	- **(a)** the giving by the band of the consent referred to in subsection (2);
 	- **(b)** a grant by the band of a right or interest in its Category IA-N land in connection with the giving of the consent referred to in subsection (2); and
 	- **(c)** the band’s agreement as to the type and amount of the compensation referred to in subsection (2).
-> 1984, c. 18, s. 113; 2009, c. 12, s. 17; 2018, c. 4, ss. 64, 122(E).
+> 1984, c. 18, s. 113; 2009, c. 12, s. 17; 2018, c. 4, ss. 64, 122(E)
 
 
 
@@ -2152,7 +2152,7 @@ is guilty of an offence.
 **Holders of prior rights or titles to minerals**
 
 **115** A holder of a right or title (including a mining claim, development licence, exploration permit, mining concession and mining lease) to minerals (“minerals” as defined in the Mining Act (Quebec) as it read on January 31, 1978) granted before January 31, 1978 on land surrounded by or adjacent to land that subsequently became Category IA-N land pursuant to the Northeastern Quebec Agreement may, subject to subsections 116(3) and (4), use that Category IA-N land to the extent necessary for the exercise of his or her right or title.
-> 1984, c. 18, s. 115; 2009, c. 12, s. 19; 2018, c. 4, s. 65.
+> 1984, c. 18, s. 115; 2009, c. 12, s. 19; 2018, c. 4, s. 65
 
 
 
@@ -2179,7 +2179,7 @@ is guilty of an offence.
 **Procedure re replacement land**
 
 - **(5)** Where compensation is payable under paragraph (4)(a), sections 125 and 126 apply, with such modifications as the circumstances require.
-> 1984, c. 18, s. 116; 2009, c. 12, s. 20; 2018, c. 4, s. 66.
+> 1984, c. 18, s. 116; 2009, c. 12, s. 20; 2018, c. 4, s. 66
 
 
 
@@ -2219,7 +2219,7 @@ but that person was not a holder of a right or interest in that land or building
 **Certain restrictions applicable**
 
 - **(7)** Subsections 132(2) and (4) and section 137 apply, with any modifications that the circumstances require, in respect of a grant by the band of a right or interest in land pursuant to subsection (4) or (6).
-> 1984, c. 18, s. 117; 2009, c. 12, s. 21; 2018, c. 4, s. 68.
+> 1984, c. 18, s. 117; 2009, c. 12, s. 21; 2018, c. 4, s. 68
 
 
 
@@ -2248,7 +2248,7 @@ but that person was not a holder of a right or interest in that land or building
 **Quebec [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md)**
 
 - **(2)** The [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) (Quebec) applies to expropriations under this Part, except to the extent that it is inconsistent with or in conflict with this Act, in which case this Act prevails to the extent of the inconsistency or conflict.
-> 1984, c. 18, s. 119; 2018, c. 4, s. 69.
+> 1984, c. 18, s. 119; 2018, c. 4, s. 69
 
 
 
@@ -2274,7 +2274,7 @@ but that person was not a holder of a right or interest in that land or building
 		- **(iii)** Category II-N land, in the case of an expropriation of Category IA-N land or of a servitude over Category IA-N land
 and has been unable to do so at a cost substantially equivalent to or lower than the cost of locating the pipeline or transmission line on Category IA-N land; and
 	- **(b)** the pipeline or transmission line is to be located as far as possible from the centre of any residential area located on Category IA-N land.
-> 1984, c. 18, s. 120; 2018, c. 4, s. 70.
+> 1984, c. 18, s. 120; 2018, c. 4, s. 70
 
 
 
@@ -2293,7 +2293,7 @@ and has been unable to do so at a cost substantially equivalent to or lower than
 **Expropriation in full ownership required in certain cases**
 
 - **(3)** Where the expropriation of a servitude for the establishment of a service or structure mentioned in subsection 120(1) would effectively prevent the use or enjoyment by the band or its members of the land on which the service or structure is to be established, the expropriating authority may not expropriate the servitude in question but may only expropriate the land in full ownership.
-> 1984, c. 18, s. 121; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 121; 2018, c. 4, s. 123
 
 
 
@@ -2320,7 +2320,7 @@ and has been unable to do so at a cost substantially equivalent to or lower than
 **Compensation in money**
 
 - **(5)** Notwithstanding subsections (2) and (4), the expropriating authority may compensate the band exclusively in money in the circumstances described in the third paragraph of section 191.22 of An Act respecting the land regime in the James Bay and New Quebec territories (Quebec).
-> 1984, c. 18, s. 122; 2018, c. 4, ss. 71, 122(E).
+> 1984, c. 18, s. 122; 2018, c. 4, ss. 71, 122(E)
 
 
 
@@ -2329,7 +2329,7 @@ and has been unable to do so at a cost substantially equivalent to or lower than
 **Where no compensation payable**
 
 **123** The band is not entitled to any compensation where the expropriation is for a purpose mentioned in paragraph 120(1)(a), (b), (c) or (e) and the service or structure in question is of direct benefit to the members of the band as a community or to a significant portion of the band’s Category IA-N land.
-> 1984, c. 18, s. 123; 2018, c. 4, s. 72.
+> 1984, c. 18, s. 123; 2018, c. 4, s. 72
 
 
 
@@ -2364,7 +2364,7 @@ and has been unable to do so at a cost substantially equivalent to or lower than
 **Factors to be considered**
 
 - **(6)** In determining whether a service or structure is one described in paragraph (1)(b), (c) or (d) or whether a service or structure not described in subsection (1) is of direct benefit to the members of the band as a community or to a significant portion of the band’s Category IA-N land, regard shall be had to the potential use by the members of the band as a community of the service or structure, the advantages of the service or structure to the members of the band as a community, and the anticipated benefit of the service or structure to the Category IA-N land of the band.
-> 1984, c. 18, s. 124; 2018, c. 4, ss. 73, 122(E).
+> 1984, c. 18, s. 124; 2018, c. 4, ss. 73, 122(E)
 
 
 
@@ -2385,7 +2385,7 @@ and has been unable to do so at a cost substantially equivalent to or lower than
 	- **(e)** where no agreement is reached between Quebec and the band as to the selection of replacement land within one hundred and twenty days after service of the expropriation notice (where the band has not contested the right to expropriate) or after the final judgment on the right to expropriate (where the band has contested that right), the compensation to the band shall be in the form of money instead of replacement land, and where the parties cannot agree on the amount of money, which amount must be approved by the electors of the band at a special band meeting or referendum at which at least twenty-five per cent of the electors voted on the matter, section 127 applies.
 
 - **(2)** [Repealed, 2018, c. 4, s. 74]
-> 1984, c. 18, s. 125; 2018, c. 4, s. 74.
+> 1984, c. 18, s. 125; 2018, c. 4, s. 74
 
 
 
@@ -2397,7 +2397,7 @@ and has been unable to do so at a cost substantially equivalent to or lower than
 - **(a)** the band has been compensated with replacement land pursuant to paragraph 116(4)(a) or subsection 122(2) or (4), or
 - **(b)** no compensation was paid to the band pursuant to section 123,
 and subsequently the expropriated land is no longer required by the expropriating authority for the purpose for which it was expropriated, Canada and Quebec shall forthwith, if requested by the band by resolution approved by the electors of the band at a special band meeting or referendum at which at least 25% of the electors voted on the matter, take the necessary measures to reclassify the expropriated land as Category IA-N land, and, in the situation described in paragraph (a), shall take the necessary measures to return the replacement land to its former classification.
-> 1984, c. 18, s. 126; 2018, c. 4, s. 75.
+> 1984, c. 18, s. 126; 2018, c. 4, s. 75
 
 
 
@@ -2406,7 +2406,7 @@ and subsequently the expropriated land is no longer required by the expropriatin
 **Determination of amount of money compensation referrable to Administrative Tribunal of Quebec**
 
 **127** Where compensation is payable wholly or partly in money pursuant to subsection 122(3) or (4) or paragraph 125(1)(e), and the parties cannot agree on the amount of such compensation, the amount shall be determined by the Administrative Tribunal of Quebec in accordance with the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) (Quebec), unless the parties submit the matter to final and binding arbitration.
-> 1984, c. 18, s. 127; 2018, c. 4, s. 75.
+> 1984, c. 18, s. 127; 2018, c. 4, s. 75
 
 
 
@@ -2435,7 +2435,7 @@ and subsequently the expropriated land is no longer required by the expropriatin
 	- **(ii)** the day on which an agreement on money compensation is concluded,
 	- **(iii)** the day on which, failing an agreement as to replacement land, an agreement on money compensation pursuant to paragraph 125(1)(e) is concluded, and
 	- **(iv)** the day of the final judgment on the amount of money compensation, where the amount of money compensation is not agreed on.
-> 1984, c. 18, s. 129; 2018, c. 4, ss. 76, 123.
+> 1984, c. 18, s. 129; 2018, c. 4, ss. 76, 123
 
 
 
@@ -2463,7 +2463,7 @@ and subsequently the expropriated land is no longer required by the expropriatin
 ***Civil Codes***
 
 - **(3)** In construing the nature and extent of the rights and interests listed in subsection 132(1), reference shall be had to the Civil Code of Quebec and the Civil Code of Lower Canada to the extent that they are not inconsistent with this Act or with the provisions of the grant of that right or interest.
-> 1984, c. 18, s. 130; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 130; 2018, c. 4, s. 123
 
 
 
@@ -2472,7 +2472,7 @@ and subsequently the expropriated land is no longer required by the expropriatin
 **Quebec landlord and tenant law**
 
 **131** Unless otherwise provided in the lease, provincial laws relating to the rights and obligations of lessors and lessees do not apply to a lease for residential purposes of a building situated on Category IA-N land.
-> 1984, c. 18, s. 131; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 131; 2018, c. 4, s. 123
 
 
 
@@ -2499,7 +2499,7 @@ and subsequently the expropriated land is no longer required by the expropriatin
 **How term computed**
 
 - **(4)** For the purposes of subsections (2) and (3), any period in respect of which a grantee has a right of renewal shall be deemed to be included in the original term of the grant.
-> 1984, c. 18, s. 132; 2018, c. 4, ss. 122(E), 123.
+> 1984, c. 18, s. 132; 2018, c. 4, ss. 122(E), 123
 
 
 
@@ -2551,7 +2551,7 @@ unless explicit permission for such use is included in the terms of the grant or
 - **(2)** Permission to use Category IA-N land for a purpose mentioned in paragraph (1)(a) or (b), whether included in the terms of the grant or subsequently given by the band, requires the approval of the electors of the band at a special band meeting or referendum at which
 	- **(a)** at least ten per cent of the electors of the band voted on the matter, in the case of permission for a period of less than twenty-five years; or
 	- **(b)** at least twenty-five per cent of the electors of the band voted on the matter, in the case of permission for a period of twenty-five years or more.
-> 1984, c. 18, s. 135; 2018, c. 4, ss. 78, 123.
+> 1984, c. 18, s. 135; 2018, c. 4, ss. 78, 123
 
 
 
@@ -2600,7 +2600,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Removal and demolition of building**
 
 - **(9)** Where the band removes or demolishes a building within one year after becoming the owner thereof pursuant to subsection (8), the former superficiary is liable for reasonable costs incurred by the band in so removing or demolishing the building and in restoring the land, within that one year period, as near as possible to the state that it was in at the commencement of the term of the superficie.
-> 1984, c. 18, s. 136; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 136; 2018, c. 4, s. 122(E)
 
 
 
@@ -2623,7 +2623,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Approval for deemed transfer of corporation’s right or interest**
 
 - **(3)** Where a transfer of a right or interest of a corporation in Category IA-N land of the band is deemed to have occurred by virtue of subsection 130(2) as a result of a change in the effective voting control of the corporation and that change in the effective voting control had not been previously authorized by the band pursuant to subsection (1) or (2), as the case may be, that right or interest of the corporation reverts to the band as of the date of the change in effective voting control of the corporation.
-> 1984, c. 18, s. 137; 2018, c. 4, ss. 79(E), 122(E).
+> 1984, c. 18, s. 137; 2018, c. 4, ss. 79(E), 122(E)
 
 
 
@@ -2636,7 +2636,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Consultation requirements before certain projects undertaken**
 
 **138** The band shall consult with the department or agency of the Government of Quebec or other person designated by Quebec and the Minister before permitting a person other than a Naskapi beneficiary, a body composed of a majority of Naskapi beneficiaries, or a party to the Northeastern Quebec Agreement to develop a project of a regional or provincial nature on the band’s Category IA-N land.
-> 1984, c. 18, s. 138; 2009, c. 12, s. 22; 2018, c. 4, s. 80.
+> 1984, c. 18, s. 138; 2009, c. 12, s. 22; 2018, c. 4, s. 80
 
 
 
@@ -2653,7 +2653,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Mode of allocation and fee**
 
 - **(2)** The allocation of land by the band pursuant to subsection (1) shall be effected by way of servitude, lease or similar contract, and for a fee not exceeding one dollar.
-> 1984, c. 18, s. 139; 2009, c. 12, s. 23; 2018, c. 4, ss. 81, 122(E).
+> 1984, c. 18, s. 139; 2009, c. 12, s. 23; 2018, c. 4, ss. 81, 122(E)
 
 
 
@@ -2662,7 +2662,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **No prescription**
 
 **140** No right or interest in Category IA-N land may be acquired by prescription.
-> 1984, c. 18, s. 140; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 140; 2018, c. 4, s. 123
 
 
 
@@ -2686,7 +2686,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Granting of rights or interests under other Parts of Act**
 
 - **(2)** For greater certainty, the granting of rights or interests by the band in its Category IA-N land pursuant to any other Part of this Act does not constitute a cession within the meaning of this Part.
-> 1984, c. 18, s. 141; 2018, c. 4, s. 83.
+> 1984, c. 18, s. 141; 2018, c. 4, s. 83
 
 
 
@@ -2701,7 +2701,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Conditional or unconditional cession**
 
 - **(2)** A cession may either be unconditional or may be subject to such terms and conditions as are contained in the Instrument of Cession.
-> 1984, c. 18, s. 142; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 142; 2018, c. 4, s. 122(E)
 
 
 
@@ -2745,7 +2745,7 @@ unless explicit permission for such use is included in the terms of the grant or
 	- **(a)** the time and place of the referendum;
 	- **(b)** a reasonably accurate description of the land subject to the proposed cession; and
 	- **(c)** the principal terms and conditions of the proposed cession.
-> 1984, c. 18, s. 144; 2018, c. 4, s. 84.
+> 1984, c. 18, s. 144; 2018, c. 4, s. 84
 
 
 
@@ -2764,7 +2764,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Compensation for extinguished registered rights or interests**
 
 - **(3)** Holders of registered rights or interests in or on Category IA-N land, or in buildings located thereon, whose rights or interests have been extinguished by virtue of subsection (2) are entitled to fair compensation by the band for the value (as of the time of the delivery of the notice pursuant to paragraph 144(2)(a)) of the extinguished right or interest, and the amount of compensation, if not agreed on by the band and the holder of the right or interest, shall be determined in accordance with regulations made under Part XI as if that right or interest had been expropriated by the band.
-> 1984, c. 18, s. 145; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 145; 2018, c. 4, s. 123
 
 
 
@@ -2775,7 +2775,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **146** Where the band has approved a cession pursuant to section 144, it shall cause to be submitted to the Minister or to such person as is designated by the Minister, within twenty days after the date of the referendum in which the cession was approved or such longer period as may be authorized by the Minister,
 - **(a)** a written statement of the officer responsible for the conduct of the referendum certifying the results of the vote taken therein; and
 - **(b)** a document specifically designated as an Instrument of Cession, in prescribed form, executed by at least two council members of the band, describing the cession that was approved in the referendum.
-> 1984, c. 18, s. 146; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 146; 2018, c. 4, s. 122(E)
 
 
 
@@ -2791,7 +2791,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Effect of cession**
 
 **148** As of the effective date of a cession, the land ceded ceases to be Category IA-N land.
-> 1984, c. 18, s. 148; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 148; 2018, c. 4, s. 123
 
 
 
@@ -2800,7 +2800,7 @@ unless explicit permission for such use is included in the terms of the grant or
 **Land registry system**
 
 **149** The band shall, within sixty days of the effective date of a cession, deposit the Instrument of Cession in the land registry office referred to in Part X, but non-compliance with this section does not affect the validity or effective date of the cession.
-> 1984, c. 18, s. 149; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 149; 2018, c. 4, s. 122(E)
 
 
 
@@ -2825,7 +2825,7 @@ is not enforceable against a third party unless it is registered in accordance w
 **Enforceability of hypothecs**
 
 - **(2)** A hypothec granted after the coming into force of this Part on an interest in Category IA-N land or in a building situated thereon is not enforceable against that interest unless it is registered in accordance with the regulations made under section 151.
-> 1984, c. 18, s. 150; 2018, c. 4, ss. 85, 122(E), 123.
+> 1984, c. 18, s. 150; 2018, c. 4, ss. 85, 122(E), 123
 
 
 
@@ -2842,7 +2842,7 @@ is not enforceable against a third party unless it is registered in accordance w
 - **(f)** the registering of surveys of Category IA-N land;
 - **(g)** the cancellation of instruments registered in the land registry system; and
 - **(h)** the keeping by the land registry offices of non-registrable documents for the purpose of facilitating the management or administration of Category IA-N land or of buildings situated thereon.
-> 1984, c. 18, s. 151; 2018, c. 4, ss. 86, 123.
+> 1984, c. 18, s. 151; 2018, c. 4, ss. 86, 123
 
 
 
@@ -2868,7 +2868,7 @@ together with evidence of the approval of the electors of the band where such is
 **Deposit does not constitute registration**
 
 - **(3)** For greater certainty, the deposit of a document under subsection (1) does not constitute registration of that document.
-> 1984, c. 18, s. 152; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 152; 2018, c. 4, s. 122(E)
 
 
 
@@ -2885,7 +2885,7 @@ together with evidence of the approval of the electors of the band where such is
 - **(a)** a right or interest of Canada or Quebec;
 - **(b)** a right conferred by section 115; and
 - **(c)** a servitude expropriated by an expropriating authority under Part VII.
-> 1984, c. 18, s. 153; 2018, c. 4, s. 88.
+> 1984, c. 18, s. 153; 2018, c. 4, s. 88
 
 
 
@@ -2894,7 +2894,7 @@ together with evidence of the approval of the electors of the band where such is
 **Acquisition by mutual agreement**
 
 **154** The right of the band to expropriate pursuant to this Part does not restrict any right that the band has under this Act to acquire, by mutual agreement, rights or interests in land or buildings.
-> 1984, c. 18, s. 154; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 154; 2018, c. 4, s. 122(E)
 
 
 
@@ -2903,7 +2903,7 @@ together with evidence of the approval of the electors of the band where such is
 **Compensation**
 
 **155** The band shall, subject to and in accordance with regulations made under section 156, pay compensation to holders of rights or interests expropriated pursuant to this Part.
-> 1984, c. 18, s. 155; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 155; 2018, c. 4, s. 122(E)
 
 
 
@@ -2918,7 +2918,7 @@ together with evidence of the approval of the electors of the band where such is
 	- **(i)** the right of the band to expropriate,
 	- **(ii)** the right of the expropriated party to compensation, and
 	- **(iii)** the amount of compensation.
-> 1984, c. 18, s. 156; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 156; 2018, c. 4, s. 122(E)
 
 
 
@@ -2940,7 +2940,7 @@ together with evidence of the approval of the electors of the band where such is
 ***member*** means a member of the Commission; (*commissaire*)
 
 ***representation*** includes a complaint. (***Version anglaise seulement***)
-> 1984, c. 18, s. 157; 2018, c. 4, s. 90.
+> 1984, c. 18, s. 157; 2018, c. 4, s. 90
 
 
 
@@ -2955,7 +2955,7 @@ together with evidence of the approval of the electors of the band where such is
 **Chairman**
 
 - **(2)** The Governor in Council shall designate one member of the Commission as Chairman.
-> 1984, c. 18, s. 158; 2018, c. 4, s. 91.
+> 1984, c. 18, s. 158; 2018, c. 4, s. 91
 
 
 
@@ -2964,7 +2964,7 @@ together with evidence of the approval of the electors of the band where such is
 **Eligibility**
 
 **159** A council member, officer, employee or agent of a Cree First Nation or the Naskapi band is not eligible to be appointed or to continue to serve as a member of the Commission.
-> 1984, c. 18, s. 159; 2018, c. 4, s. 92.
+> 1984, c. 18, s. 159; 2018, c. 4, s. 92
 
 
 
@@ -2995,7 +2995,7 @@ together with evidence of the approval of the electors of the band where such is
 **Remuneration of members**
 
 - **(6)** Members of the Commission shall be paid such remuneration as is fixed by the Governor in Council.
-> 1984, c. 18, s. 160; 2018, c. 4, s. 93.
+> 1984, c. 18, s. 160; 2018, c. 4, s. 93
 
 
 
@@ -3004,7 +3004,7 @@ together with evidence of the approval of the electors of the band where such is
 **Head office**
 
 **161** The head office of the Commission shall be in the City of Val d’Or, Quebec or at such other place as the Governor in Council, on the recommendation of the Cree Nation Government and the Naskapi band, may designate.
-> 1984, c. 18, s. 161; 2018, c. 4, s. 94.
+> 1984, c. 18, s. 161; 2018, c. 4, s. 94
 
 
 
@@ -3027,7 +3027,7 @@ together with evidence of the approval of the electors of the band where such is
 **Financial**
 
 - **(4)** The remuneration of the members of the Commission and of persons employed or engaged under subsection (1) shall be paid out of money appropriated by Parliament for that purpose.
-> 1984, c. 18, s. 162; 2003, c. 22, s. 224(E).
+> 1984, c. 18, s. 162; 2003, c. 22, s. 224(E)
 
 
 
@@ -3053,7 +3053,7 @@ together with evidence of the approval of the electors of the band where such is
 **Commission may delegate its powers**
 
 **164** The Commission may, by unanimous decision of its members, delegate its powers or duties, except the power referred to in subsection 163(3), to one or more of its members.
-> 1984, c. 18, s. 164; 2018, c. 4, s. 95.
+> 1984, c. 18, s. 164; 2018, c. 4, s. 95
 
 
 
@@ -3082,7 +3082,7 @@ together with evidence of the approval of the electors of the band where such is
 **Commission to state grounds for refusal**
 
 - **(4)** Where the Commission refuses to investigate a representation or discontinues an investigation, it shall forthwith, in writing, so inform the person who made the representation, stating and explaining on which of the grounds set out in subsection (2) or (3) the Commission’s decision was based.
-> 1984, c. 18, s. 165; 2018, c. 4, s. 96.
+> 1984, c. 18, s. 165; 2018, c. 4, s. 96
 
 
 
@@ -3106,7 +3106,7 @@ together with evidence of the approval of the electors of the band where such is
 **Identity of person who made representation**
 
 - **(3)** Where a person making a representation to the Commission under this Part so requests, the Commission shall not identify that person in any proceeding under this Part or in any report under section 170.
-> 1984, c. 18, s. 166; 2009, c. 12, s. 24; 2018, c. 4, s. 97.
+> 1984, c. 18, s. 166; 2009, c. 12, s. 24; 2018, c. 4, s. 97
 
 
 
@@ -3171,7 +3171,7 @@ together with evidence of the approval of the electors of the band where such is
 **Application of Part**
 
 **173** This Part applies only in respect of the succession of a Naskapi beneficiary who dies after the coming into force of this Part and who, at the time of his or her death, was domiciled on Category IA-N land.
-> 1984, c. 18, s. 173; 2018, c. 4, s. 99.
+> 1984, c. 18, s. 173; 2018, c. 4, s. 99
 
 
 
@@ -3197,7 +3197,7 @@ together with evidence of the approval of the electors of the band where such is
 ***traditional property*** means
 - **(a)** all movable property, excluding money, normally used in the exercise of the right to harvest referred to in An Act respecting hunting and fishing rights in the James Bay and New Quebec territories (Quebec), other than movable property used in commercial fishing, and includes, without limiting the generality of the foregoing, vehicles, boats, motors, guns, traps and camping equipment, and
 - **(b)** animal products or by-products that are the product of the exercise of the right to harvest described in paragraph (a). (*biens traditionnels*)
-> 1984, c. 18, s. 174; 2018, c. 4, s. 100.
+> 1984, c. 18, s. 174; 2018, c. 4, s. 100
 
 
 
@@ -3206,7 +3206,7 @@ together with evidence of the approval of the electors of the band where such is
 **Lawful heirs on intestate succession**
 
 **175** For purposes of intestate succession, a surviving consort and a surviving child are included in the class of lawful heirs of a deceased Naskapi beneficiary.
-> 1984, c. 18, s. 175; 2018, c. 4, s. 101.
+> 1984, c. 18, s. 175; 2018, c. 4, s. 101
 
 
 
@@ -3223,7 +3223,7 @@ together with evidence of the approval of the electors of the band where such is
 **Wills accepted by Minister**
 
 - **(2)** The Minister may accept as a will any written instrument signed by a Naskapi beneficiary, or bearing his or her mark, in which he or she indicates his or her wishes or intention with respect to the disposition of his or her property on his or her death.
-> 1984, c. 18, s. 176; 2018, c. 4, s. 102.
+> 1984, c. 18, s. 176; 2018, c. 4, s. 102
 
 
 
@@ -3235,7 +3235,7 @@ together with evidence of the approval of the electors of the band where such is
 - **(a)** a succession composed wholly or partly of movable, immovable or traditional property located on Category IA-N land, or
 - **(b)** a succession in which persons suffering legal incapacity are interested
 are not required to be made in authentic form as required by Article 599a of the Civil Code of Lower Canada, but must be in the form prescribed under this Act.
-> 1984, c. 18, s. 177; 2018, c. 4, s. 123.
+> 1984, c. 18, s. 177; 2018, c. 4, s. 123
 
 
 
@@ -3250,7 +3250,7 @@ are not required to be made in authentic form as required by Article 599a of the
 **Legal guardians**
 
 - **(2)** Legal guardians by virtue of subsection (1) shall act jointly, except where one of them is deceased or under a legal incapacity or fails for any reason to act within a reasonable time, in which case the other may act alone.
-> 1984, c. 18, s. 178; 2018, c. 4, s. 103.
+> 1984, c. 18, s. 178; 2018, c. 4, s. 103
 
 
 
@@ -3259,7 +3259,7 @@ are not required to be made in authentic form as required by Article 599a of the
 **Vacant succession**
 
 **179** Where a Naskapi beneficiary dies leaving no lawful heirs or where all the heirs renounce the succession, the deceased’s movable and immovable property become the property of the band, unless the band renounces such succession, in which case it shall be dealt with as a vacant succession.
-> 1984, c. 18, s. 179; 2018, c. 4, s. 104.
+> 1984, c. 18, s. 179; 2018, c. 4, s. 104
 
 
 
@@ -3268,7 +3268,7 @@ are not required to be made in authentic form as required by Article 599a of the
 **Intestacy**
 
 **180** On an intestacy of a Naskapi beneficiary, a majority of the lawful heirs may appoint the band to administer or provide for the administration of the succession (except as regards traditional property), in which case the band may charge a fee for its services.
-> 1984, c. 18, s. 180; 2018, c. 4, s. 104.
+> 1984, c. 18, s. 180; 2018, c. 4, s. 104
 
 
 
@@ -3287,7 +3287,7 @@ are not required to be made in authentic form as required by Article 599a of the
 **Powers of family council**
 
 - **(2)** The family council referred to in subsection (1) may dispose of the deceased’s traditional property in accordance with its decision, and may appoint a willing individual to administer the deceased’s estate accordingly.
-> 1984, c. 18, s. 181; 2018, c. 4, s. 105.
+> 1984, c. 18, s. 181; 2018, c. 4, s. 105
 
 
 
@@ -3305,7 +3305,7 @@ are not required to be made in authentic form as required by Article 599a of the
 **Where no survivors in immediate family**
 
 - **(2)** Where a deceased Naskapi beneficiary leaves no survivors described in subsection (1), the family council of the deceased shall consist of the three closest surviving relatives of the age of majority, as determined in accordance with the law of the Province, who are ordinarily resident in the Territory as defined in section 2 of the [James Bay and Northern Quebec Native Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1976-77/c.%2032.md).
-> 1984, c. 18, s. 182; 2018, c. 4, s. 106(E).
+> 1984, c. 18, s. 182; 2018, c. 4, s. 106(E)
 
 
 
@@ -3314,7 +3314,7 @@ are not required to be made in authentic form as required by Article 599a of the
 **Where family council deadlocked**
 
 **183** Where the family council is unable to reach a decision on the disposition of any part of the deceased’s traditional property, it may request the council of the band to appoint one or more willing persons to act as the deceased’s family council in respect of that part of the deceased’s traditional property on whose disposition the family council had been unable to reach a decision.
-> 1984, c. 18, s. 183; 2018, c. 4, s. 107.
+> 1984, c. 18, s. 183; 2018, c. 4, s. 107
 
 
 
@@ -3333,7 +3333,7 @@ are not required to be made in authentic form as required by Article 599a of the
 	- **(b)** for any reason a family council cannot be formed, or
 	- **(c)** the family council has not met within one year after the deceased’s death,
 the council of the band shall act as the deceased’s family council.
-> 1984, c. 18, s. 184; 2018, c. 4, s. 108.
+> 1984, c. 18, s. 184; 2018, c. 4, s. 108
 
 
 
@@ -3342,7 +3342,7 @@ the council of the band shall act as the deceased’s family council.
 **Effect of disposition**
 
 **185** A disposition of any traditional property of a deceased Naskapi beneficiary by the deceased’s family council pursuant to this Part passes the property in question to the recipient as of the moment when the recipient takes possession of the property, and any debt in respect of that property thenceforth becomes the responsibility of the recipient.
-> 1984, c. 18, s. 185; 2018, c. 4, s. 109(E).
+> 1984, c. 18, s. 185; 2018, c. 4, s. 109(E)
 
 
 
@@ -3351,7 +3351,7 @@ the council of the band shall act as the deceased’s family council.
 **Where a recipient renounces traditional property**
 
 **186** Where any person designated by the family council of a deceased Naskapi beneficiary to receive the deceased’s traditional property pursuant to this Part renounces the property in question before taking possession of it, and no other person is designated by the family council within six months of such renunciation, the disposition of that property shall thenceforth be governed by the laws of the Province relating to intestate succession.
-> 1984, c. 18, s. 186; 2018, c. 4, s. 109(E).
+> 1984, c. 18, s. 186; 2018, c. 4, s. 109(E)
 
 
 
@@ -3377,7 +3377,7 @@ the council of the band shall act as the deceased’s family council.
 	- **(b)** that is purchased by Canada after the coming into force of this Part with money appropriated by Parliament for the use and benefit of Indians or the band, or
 	- **(c)** that is given, after the coming into force of this Part, to Indians or to the band under a treaty or agreement between the band and Canada
 shall be deemed always to be situated on Category IA-N land.
-> 1984, c. 18, s. 187; 2009, c. 12, s. 25; 2018, c. 4, s. 110.
+> 1984, c. 18, s. 187; 2009, c. 12, s. 25; 2018, c. 4, s. 110
 
 
 
@@ -3396,7 +3396,7 @@ shall be deemed always to be situated on Category IA-N land.
 - **(2)** Notwithstanding any other Act of Parliament or of the legislature of any province,
 	- **(a)** neither an Indian nor the band is subject to taxation in respect of the ownership, occupation, possession or use of any property described in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property; and
 	- **(b)** no succession duty, inheritance tax or estate duty is payable on the death of any Indian in respect of any such property or the succession thereto if the property passes to an Indian.
-> 1984, c. 18, s. 188; 2018, c. 4, ss. 111, 122(E).
+> 1984, c. 18, s. 188; 2018, c. 4, ss. 111, 122(E)
 
 
 
@@ -3439,7 +3439,7 @@ shall be deemed always to be situated on Category IA-N land.
 	- **(b)** an Indian ordinarily resident on Category IA-N land, or
 	- **(c)** the band
 under an agreement whereby the right of property or right of possession thereto remains wholly or in part in the seller may exercise his or her rights under that agreement notwithstanding that the movable property is situated on Category IA-N land.
-> 1984, c. 18, s. 190; 2009, c. 12, s. 26; 2018, c. 4, s. 112.
+> 1984, c. 18, s. 190; 2009, c. 12, s. 26; 2018, c. 4, s. 112
 
 
 
@@ -3452,7 +3452,7 @@ under an agreement whereby the right of property or right of possession thereto 
 - **(b)** that is purchased after the coming into force of this Part with money appropriated by Parliament or by the legislature of Quebec for the use and benefit of Indians, Naskapi beneficiaries, or the band, or
 - **(c)** that is, after the coming into force of this Part, provided to Naskapi beneficiaries or the band under a treaty or agreement between the band and Canada
 shall be deemed always to be situated on Category IA-N land.
-> 1984, c. 18, s. 191; 2009, c. 12, s. 27; 2018, c. 4, s. 113.
+> 1984, c. 18, s. 191; 2009, c. 12, s. 27; 2018, c. 4, s. 113
 
 
 
@@ -3468,7 +3468,7 @@ shall be deemed always to be situated on Category IA-N land.
 	- **(b)** is owned by the Naskapi Development Corporation, and
 	- **(c)** was purchased with money appropriated by Parliament or by the legislature of Quebec for the use and benefit of Indians, Naskapi beneficiaries or the band
 shall, for the purposes of section 190, be deemed always to be the property of the band.
-> 1984, c. 18, s. 192; 2018, c. 4, s. 114.
+> 1984, c. 18, s. 192; 2018, c. 4, s. 114
 
 
 
@@ -3487,7 +3487,7 @@ shall, for the purposes of section 190, be deemed always to be the property of t
 **Waiver by band**
 
 - **(3)** The band may, in writing, waive the exemption conferred by subsection 190(2) in favour of any person, on such terms and conditions as are agreed to by the parties, subject to the approval of the waiver and the terms and conditions thereof by the electors of the band at a special band meeting or referendum at which at least twenty-five per cent of the electors voted on the matter.
-> 1984, c. 18, s. 193; 2018, c. 4, ss. 115, 122(E).
+> 1984, c. 18, s. 193; 2018, c. 4, ss. 115, 122(E)
 
 
 
@@ -3532,7 +3532,7 @@ for the provision of policing services on its Category IA-N land.
 **Jurisdiction of police forces**
 
 - **(2)** A police force and the members thereof providing policing services pursuant to an agreement made under subsection (1) have jurisdiction over the Category IA-N land of the band for the purposes of enforcing the applicable laws of Canada and Quebec and the applicable by-laws of the band.
-> 1984, c. 18, s. 196; 2009, c. 12, s. 29; 2018, c. 4, ss. 117, 123.
+> 1984, c. 18, s. 196; 2009, c. 12, s. 29; 2018, c. 4, ss. 117, 123
 
 
 
@@ -3546,7 +3546,7 @@ for the provision of policing services on its Category IA-N land.
 **Offences under Act**
 
 **197** Every person who commits an offence under subsection 38(6), section 44, subsection 91(2), section 95, subsection 100(4) or section 108 is liable on summary conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding six months or to both.
-> 1984, c. 18, s. 197; 2009, c. 12, s. 30; 2018, c. 4, s. 118.
+> 1984, c. 18, s. 197; 2009, c. 12, s. 30; 2018, c. 4, s. 118
 
 
 
@@ -3578,7 +3578,7 @@ for the provision of policing services on its Category IA-N land.
 **Idem**
 
 - **(3)** A by-law made under paragraph 45(1)(h) may not impose a term of imprisonment for non-payment of taxes.
-> 1984, c. 18, s. 199; 2009, c. 12, s. 31; 2018, c. 4, s. 119.
+> 1984, c. 18, s. 199; 2009, c. 12, s. 31; 2018, c. 4, s. 119
 
 
 
@@ -3587,7 +3587,7 @@ for the provision of policing services on its Category IA-N land.
 **Alternative procedure — ticketing scheme**
 
 **199.1** In addition to the summary conviction procedures of Part XXVII of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a proceeding in respect of a contravention indicated in the by-laws made under section 48.1 of this Act may be commenced in accordance with the ticketing scheme established by those by-laws.
-> 2018, c. 4, s. 120.
+> 2018, c. 4, s. 120
 
 
 
@@ -3613,7 +3613,7 @@ for the provision of policing services on its Category IA-N land.
 **References to [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
 - **(3)** The words in parenthesis in paragraph (1)(b) form no part of that paragraph but shall be deemed to have been inserted for convenience of reference only.
-> 1984, c. 18, s. 200; 2018, c. 4, s. 121.
+> 1984, c. 18, s. 200; 2018, c. 4, s. 121
 
 
 
@@ -3642,7 +3642,7 @@ for the provision of policing services on its Category IA-N land.
 **No fee permitted**
 
 - **(2)** The chief and band secretary shall not charge any fee or other compensation whatsoever for acting as a commissioner of oaths pursuant to subsection (1).
-> 1984, c. 18, s. 202; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 202; 2018, c. 4, s. 122(E)
 
 
 
@@ -3661,7 +3661,7 @@ for the provision of policing services on its Category IA-N land.
 **Admissibility of certified copies**
 
 - **(3)** In every case in which an original document could be received in evidence, a certified copy of that document issued under subsection (1) is receivable in evidence without proof of the signature or the official character of the person or persons appearing to have signed the document.
-> 1984, c. 18, s. 203; 2018, c. 4, s. 122(E).
+> 1984, c. 18, s. 203; 2018, c. 4, s. 122(E)
 
 
 
@@ -3685,5 +3685,58 @@ for the provision of policing services on its Category IA-N land.
 <sup><a href='#C-45.7_en_1'>[*]</a></sup>**218** This Act, or any provision thereof, shall come into force on a day or days to be fixed by proclamation.
 
 <a name='C-45.7_en_1'><sup>*</sup></a>: [Note: Act, except sections 36 and 157 to 172, in force July 3, 1984, sections 36 and 157 to 172 in force December 1, 1984, *see* SI/84-129.]<br />
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2009, c. 12, s. 32
+
+
+**Publication**
+
+**32** The Minister of Indian Affairs and Northern Development shall publish, in the [Canada Gazette](http://www.gazette.gc.ca/), a notice of the date that any land is set aside by the Governor in Council as Category IA land for the exclusive use and benefit of the collectivity known as the Crees of Oujé-Bougoumou, as soon as feasible after that land is set aside.
+
+
+
+######           — 2018, c. 4, s. 124
+
+
+**Cree-Naskapi Commission’s report to Parliament**
+
+**124** 
+
+- **(1)** The Cree-Naskapi Commission may prepare and submit to the Minister of Indian Affairs and Northern Development a last report in English, French, Cree and Naskapi, for the period beginning on the day that follows the end of the period for which the 2016 Report of the Cree-Naskapi Commission was completed and ending on the day on which section 98 comes into force, on the implementation of the Cree-Naskapi (of Quebec) Act, and the Minister shall cause the report to be laid before each House of Parliament on any of the first 10 days on which that House is sitting after the day on which the Minister receives it.
+
+**Circulation of report**
+
+- **(2)** As soon as feasible after the report is laid before each House of Parliament, the Minister shall send a copy of the report to the Cree Nation Government, the Naskapi Development Corporation, the council of each Cree First Nation and the council of the Naskapi band.
+
+**Definitions**
+
+- **(3)** The following definitions apply in this section.
+
+***Cree First Nation*** has the same meaning as in subsection 2(2) of the [Cree Nation of Eeyou Istchee Governance Agreement Act](/en/Acts/Statutes%20of%20Canada/2018/c.%204,%20s.%201.md). (*première nation crie*)
+
+***Cree-Naskapi Commission*** means the Commission established by section 158 of the Naskapi and the Cree-Naskapi Commission Act. (*Commission crie-naskapie*)
+
+***Cree Nation Government*** has the same meaning as in subsection 2(1) of the [Cree Nation of Eeyou Istchee Governance Agreement Act](/en/Acts/Statutes%20of%20Canada/2018/c.%204,%20s.%201.md). (*Gouvernement de la nation crie*)
+
+***Naskapi band*** has the same meaning as in subsection 2(1) of the Naskapi and the Cree-Naskapi Commission Act. (*bande naskapie*)
+
+***Naskapi Development Corporation*** has the same meaning as in subsection 2(1) of the Naskapi and the Cree-Naskapi Commission Act. (*Société de développement des Naskapis*)
+
+
+
+######           — 2019, c. 29, par. 373(2)(g)
+
+
+
+**Other references to Minister of Indian Affairs and Northern Development**
+
+- **(2)** Unless the context requires otherwise, every reference to the “Minister of Indian Affairs and Northern Development” is, with any grammatical adaptations, to be read as a reference to the “Minister of Crown-Indigenous Relations” in the following provisions:
+	- **(g)** section 32 of An Act to amend the Cree-Naskapi (of Quebec) Act, chapter 12 of the Statutes of Canada, 2009.
+
 
 
