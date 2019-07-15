@@ -868,7 +868,9 @@ where
 
 **Maximum payment of $2,200,000,000**
 
-**130** Despite section 161 of the Keeping Canada’s Economy and Jobs Growing Act, as amended by section 233 of the [Economic Action Plan 2013 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2013/c.%2033.md), there may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Infrastructure and Communities or the Minister of State (Indigenous Services), in accordance with terms and conditions approved by the Treasury Board, in addition to the sum referred to in that section 161, a sum not exceeding $2,200,000,000 to provinces, territories, municipalities, municipal associations, provincial, territorial and municipal entities and First Nations for the purpose of municipal, regional and First Nations infrastructure.
+**130** Despite section 161 of the Keeping Canada’s Economy and Jobs Growing Act, as amended by section 233 of the [Economic Action Plan 2013 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2013/c.%2033.md), there may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Infrastructure and Communities or the Minister of Indigenous Services, in accordance with terms and conditions approved by the Treasury Board, in addition to the sum referred to in that section 161, a sum not exceeding $2,200,000,000 to provinces, territories, municipalities, municipal associations, provincial, territorial and municipal entities and First Nations for the purpose of municipal, regional and First Nations infrastructure.
+> 2019, c. 29, ss. 130, 381
+
 
 
 
@@ -2564,7 +2566,7 @@ where
 
 <sup><a href='#fn_2019-c29_E_transform_hq_25553'>[*]</a></sup>**336.1** This Subdivision comes into force on a day to be fixed by order of the Governor in Council, but no later than July 15, 2019.
 
-<a name='fn_2019-c29_E_transform_hq_25553'><sup>*</sup></a>: [Note: Subdivision A not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25553'><sup>*</sup></a>: [Note: Subdivision A in force July 15, 2019.]<br />
 
 
 
@@ -2590,7 +2592,7 @@ where
 
 <sup><a href='#fn_2019-c29_E_transform_hq_25554'>[*]</a></sup>**337.1** This Subdivision comes into force on a day to be fixed by order of the Governor in Council, but no later than July 15, 2019.
 
-<a name='fn_2019-c29_E_transform_hq_25554'><sup>*</sup></a>: [Note: Subdivision B not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25554'><sup>*</sup></a>: [Note: Subdivision B in force July 15, 2019.]<br />
 
 
 
@@ -2971,7 +2973,7 @@ where
 
 - **(2)** Subsections 368(2) and 369(2) come into force on a day to be fixed by order of the Governor in Council, but that day must not be earlier than the day on which subsections 368(1) and 369(1) come into force.
 
-<a name='fn_2019-c29_E_transform_hq_25555'><sup>*</sup></a>: [Note: Subdivision C, except for sections 376 to 381, not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25555'><sup>*</sup></a>: [Note: Subdivision C, except for subsections 368(2) and 369(2) and sections 376 to 381, in force July 15, 2019.]<br />
 
 
 
