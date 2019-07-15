@@ -74,7 +74,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***minerals*** means precious and base metals and other non-living, naturally occurring substances, whether solid, liquid or gaseous, and includes coal, oil and gas, but does not include water. (*minéraux*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Northern Affairs. (*ministre*)
 
 ***specified substances*** means construction stone, sand, gravel, limestone, marble, gypsum, shale, clay, volcanic ash, earth, soil, diatomaceous earth, ochre, marl, peat and carving stone. (*matières spécifiées*)
 
@@ -83,6 +83,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Meaning of Nunavut Settlement Area**
 
 - **(2)** In this Act, ***Nunavut Settlement Area*** has the meaning assigned to that expression by section 3.1.1 of the Agreement.
+> 2002, c. 10, s. 22019, c. 29, s. 374
+
 
 
 
@@ -157,7 +159,7 @@ However, it does not include navigation or any other use connected with shipping
 - **(d)** water that has been subjected to a treatment or change described by the regulations. (*déchet*)
 
 ***waters*** means inland waters, whether in a liquid or solid state, on or below the surface of land. (*eaux*)
-> 2002, c. 10, ss. 4, 200; 2013, c. 14, s. 5; 2015, c. 19, s. 41.
+> 2002, c. 10, ss. 4, 200; 2013, c. 14, s. 5; 2015, c. 19, s. 41
 
 
 
@@ -543,7 +545,7 @@ However, it does not include navigation or any other use connected with shipping
 **Audit**
 
 - **(4)** The accounts, financial statements and financial transactions of the Board shall be audited annually by the auditor of the Board and, where the Minister requests, the Auditor General of Canada. The auditor and, where applicable, the Auditor General of Canada shall make a report of the audit to the Board and the Minister.
-> 2002, c. 10, s. 32; 2017, c. 26, s. 62.
+> 2002, c. 10, s. 32; 2017, c. 26, s. 62
 
 
 
@@ -597,7 +599,7 @@ However, it does not include navigation or any other use connected with shipping
 
 - **(5)** As soon as possible after the rule or by-law has been made, the Board shall
 	- **(a)** publish it in a newspaper or other periodical that, in the opinion of the Board, has a large circulation in Nunavut; and
-	- **(b)** publish a notice in the Canada Gazette that the rule or by-law has been made, indicating the newspaper or periodical in which it has been published.
+	- **(b)** publish a notice in the [Canada Gazette](http://www.gazette.gc.ca/) that the rule or by-law has been made, indicating the newspaper or periodical in which it has been published.
 
 
 
@@ -622,7 +624,7 @@ However, it does not include navigation or any other use connected with shipping
 **Review by Nunavut Planning Commission**
 
 - **(2)** In order to avoid unnecessary duplication and to ensure that projects are dealt with in a timely manner, the Board shall cooperate and coordinate its consideration of applications with the Nunavut Planning Commission’s review of projects under sections 76 to 85 of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md) for conformity with any applicable land use plans approved under subsection 55(1) of that Act.
-> 2002, c. 10, s. 36; 2013, c. 14, s. 6.
+> 2002, c. 10, s. 36; 2013, c. 14, s. 6
 
 
 
@@ -637,7 +639,7 @@ However, it does not include navigation or any other use connected with shipping
 **Joint hearings**
 
 - **(2)** The Board may, in lieu of conducting a separate public hearing in respect of a licence in connection with a project for which a public hearing is to be held by the Nunavut Impact Review Board or the panel referred to in subsection (1), as the case may be, conduct, in relation to the project, a joint hearing with that Board or panel or participate in the hearing of that Board or panel.
-> 2002, c. 10, s. 37; 2013, c. 14, s. 7.
+> 2002, c. 10, s. 37; 2013, c. 14, s. 7
 
 
 
@@ -661,7 +663,7 @@ However, it does not include navigation or any other use connected with shipping
 **Non-renewal, etc.**
 
 - **(3)** Licences issued under subsection (2) must not be renewed or amended if the responsible Minister, as defined in subsection 73(1) of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md), has come to a decision under Part 3 of that Act that the project to which the activities in question relate either is not to proceed or could be modified and an amended project proposal submitted to the Commission or the responsible authority within the meaning of section 163 of that Act, as the case may be.
-> 2002, c. 10, s. 38; 2013, c. 14, s. 8.
+> 2002, c. 10, s. 38; 2013, c. 14, s. 8
 
 
 
@@ -737,12 +739,12 @@ However, it does not include navigation or any other use connected with shipping
 
 **43.1** 
 
-- **(1)** The Board shall give notice of its intention to consider, on its own initiative, the amendment of a condition of a licence under subparagraph 43(1)(b)(ii) or (iii) or the cancellation of a licence under subparagraph 43(1)(c)(ii) or (iii), by publishing a notice on its Internet site, in the public registry, in the Canada Gazette or in a newspaper or other periodical that, in its opinion, has a large circulation in Nunavut.
+- **(1)** The Board shall give notice of its intention to consider, on its own initiative, the amendment of a condition of a licence under subparagraph 43(1)(b)(ii) or (iii) or the cancellation of a licence under subparagraph 43(1)(c)(ii) or (iii), by publishing a notice on its Internet site, in the public registry, in the [Canada Gazette](http://www.gazette.gc.ca/) or in a newspaper or other periodical that, in its opinion, has a large circulation in Nunavut.
 
 **Exception**
 
 - **(2)** Subsection (1) does not apply if the Board, with the consent of the Minister, declares the amendment or the cancellation to be required on an emergency basis.
-> 2015, c. 19, s. 42.
+> 2015, c. 19, s. 42
 
 
 
@@ -770,7 +772,7 @@ However, it does not include navigation or any other use connected with shipping
 **45** The term of a licence or any renewal shall not exceed
 - **(a)** 25 years, in the case of a type A licence respecting a class of appurtenant undertakings that is prescribed by the regulations or in the case of a type B licence; or
 - **(b)** the anticipated duration of the appurtenant undertaking, in the case of a type A licence other than one described in paragraph (a).
-> 2002, c. 10, s. 45; 2015, c. 19, s. 43.
+> 2002, c. 10, s. 45; 2015, c. 19, s. 43
 
 
 
@@ -924,7 +926,7 @@ The Board shall take the representations into account.
 **Authority and validity**
 
 **55.1** The failure of the Minister or the Board to exercise a power or perform a duty or function within a period provided for under this Part does not terminate their authority to do so nor does it invalidate any document prepared or submitted or any decision or action taken in the exercise or performance of their powers, duties or functions.
-> 2015, c. 19, s. 44.
+> 2015, c. 19, s. 44
 
 
 
@@ -937,7 +939,7 @@ The Board shall take the representations into account.
 **Type A licence and type B licence if public hearing held**
 
 **55.2** In the case of an application for the issuance, renewal or amendment of a type A licence, or a type B licence in connection with which a public hearing is held, or in the case where the Board intends to consider, on its own initiative, the amendment of such a licence, the Board, subject to section 55.31, shall make a decision within a period of nine months after the day on which the application is made or on which notice of the Board’s intention is published under subsection 43.1(1).
-> 2015, c. 19, s. 44.
+> 2015, c. 19, s. 44
 
 
 
@@ -946,7 +948,7 @@ The Board shall take the representations into account.
 **Day on which application is made**
 
 **55.3** An application is considered to be made on the day on which the Board is satisfied that the application meets all the requirements under subsections 48(1) and (2).
-> 2015, c. 19, s. 44.
+> 2015, c. 19, s. 44
 
 
 
@@ -959,7 +961,7 @@ The Board shall take the representations into account.
 **Commencement of time limit**
 
 **55.31** If the Board is cooperating and coordinating with the Nunavut Planning Commission under subsection 36(2) or with the Nunavut Impact Review Board, a federal environmental assessment panel or a joint panel under subsection 37(1), the time limit referred to in section 55.2 does not begin to run until the Nunavut Planning Commission, Nunavut Impact Review Board, federal environmental assessment panel or joint panel, as the case may be, has completed its screening or review of the project.
-> 2015, c. 19, ss. 44, 55.
+> 2015, c. 19, ss. 44, 55
 
 
 
@@ -968,7 +970,7 @@ The Board shall take the representations into account.
 **Excluded period — information or studies required**
 
 **55.4** If the Board requires an applicant or a licensee to provide information or studies, the period that, in the Board’s opinion, is taken by the applicant or licensee to comply with that requirement is not included in the calculation of the time limit under section 55.2 or its extension.
-> 2015, c. 19, s. 44.
+> 2015, c. 19, s. 44
 
 
 
@@ -982,7 +984,7 @@ The Board shall take the representations into account.
 - **(c)** if the Board determines that an applicant is required to pay the compensation referred to in paragraph 60(1)(a) or to enter into a compensation agreement referred to in paragraph 60(1)(b), until the requirements of paragraph 60(1)(a) or (b), as the case may be, are met;
 - **(d)** if the Board determines that an applicant is required to enter into a compensation agreement referred to in paragraph 63(1)(a) or to pay the compensation referred to in paragraph 63(1)(b), until the requirements of paragraph 63(1)(a) or (b), as the case may be, are met; or
 - **(e)** if the Board receives notice under subsection 78(1) or 79.2(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), until the requirements of subsection 78(3) or 79.2(3) of that Act, as the case may be, have been met.
-> 2015, c. 19, s. 44.
+> 2015, c. 19, s. 44
 
 
 
@@ -1001,7 +1003,7 @@ The Board shall take the representations into account.
 **Extension of time limit by Governor in Council**
 
 - **(2)** The Governor in Council may, by order, on the recommendation of the Minister, further extend the time limit any number of times by periods of any length.
-> 2015, c. 19, s. 44.
+> 2015, c. 19, s. 44
 
 
 
@@ -1040,7 +1042,7 @@ The Board shall take the representations into account.
 	- **(b)** to the applicant or licensee;
 	- **(c)** where the affected waters are ones in respect of which section 63 applies, to the designated Inuit organization; and
 	- **(d)** to any other person with a right to compensation under section 58 or 60.
-> 2002, c. 10, s. 56; 2015, c. 19, s. 45.
+> 2002, c. 10, s. 56; 2015, c. 19, s. 45
 
 
 
@@ -1096,7 +1098,7 @@ The Board shall take the representations into account.
 **Inuit-owned land**
 
 - **(3)** Where subsection 63(1) applies in respect of adverse effects on any person described in subparagraphs (1)(a)(i) to (vi) that are caused by a use of waters or a deposit of waste that may substantially alter the quality, quantity or flow of waters flowing through Inuit-owned land, subsection (1) does not apply in respect of those effects for which compensation has already been paid, has been agreed to be paid or has been determined by the Board pursuant to subsection 63(1).
-> 2002, c. 10, s. 60; 2014, c. 2, s. 53.
+> 2002, c. 10, s. 60; 2014, c. 2, s. 53
 
 
 
@@ -1232,7 +1234,7 @@ The Board shall take the representations into account.
 **Terms and Conditions**
 
 - **(3)** The Board shall, to the extent of its jurisdiction and authority under this Act to do so, incorporate the terms and conditions referred to in subsection 136(1) of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md) in a licence that is issued in respect of the use of waters or deposit of waste or the appurtenant undertaking to which that use or deposit relates.
-> 2002, c. 10, s. 70; 2013, c. 14, s. 9.
+> 2002, c. 10, s. 70; 2013, c. 14, s. 9
 
 
 
@@ -1324,7 +1326,7 @@ The Board shall take the representations into account.
 **Arrangement to be taken into account under subsection 76(1)**
 
 - **(3)** The Board shall take into account the written arrangement when it determines the amount of the security required to be furnished and maintained by the applicant, licensee or prospective assignee under subsection 76(1).
-> 2015, c. 19, s. 46.
+> 2015, c. 19, s. 46
 
 
 
@@ -1481,7 +1483,7 @@ and the owner or interested person accepts the undertaking, the undertaking is d
 **Debt due to Her Majesty**
 
 - **(2)** The amounts and costs that the applicant or a licensee must pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
-> 2015, c. 19, s. 47.
+> 2015, c. 19, s. 47
 
 
 
@@ -1543,7 +1545,7 @@ and the owner or interested person accepts the undertaking, the undertaking is d
 **Variation in regulations**
 
 - **(4)** Regulations made under subsection (1) may vary, among water management areas established under paragraph (1)(a), according to the use of waters, the purpose of that use and the quantity and rate of flow of waters used, and the quantities, concentrations and types of waste deposited or any other criteria.
-> 2002, c. 10, s. 82; 2015, c. 19, s. 48.
+> 2002, c. 10, s. 82; 2015, c. 19, s. 48
 
 
 
@@ -1696,7 +1698,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 - **(2)** Every person who commits an offence under subsection (1) is liable on summary conviction,
 	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
 	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
-> 2002, c. 10, s. 90; 2015, c. 19, s. 49.
+> 2002, c. 10, s. 90; 2015, c. 19, s. 49
 
 
 
@@ -1715,7 +1717,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 - **(2)** Every licensee who commits an offence under subsection (1) is liable on summary conviction,
 	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
 	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
-> 2015, c. 19, s. 49.
+> 2015, c. 19, s. 49
 
 
 
@@ -1734,7 +1736,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 - **(2)** Every licensee who commits an offence under subsection (1) is liable on summary conviction
 	- **(a)** for a first offence, to a fine not exceeding $37,500 or to imprisonment for a term not exceeding six months, or to both; and
 	- **(b)** for a second or subsequent offence, to a fine not exceeding $75,000 or to imprisonment for a term not exceeding six months, or to both.
-> 2015, c. 19, s. 49.
+> 2015, c. 19, s. 49
 
 
 
@@ -1743,7 +1745,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Continuing offences**
 
 **90.3** An offence under subsection 90(1), 90.1(1) or 90.2(1) that is committed or continued on more than one day constitutes a separate offence for each day on which it is committed or continued.
-> 2015, c. 19, s. 49.
+> 2015, c. 19, s. 49
 
 
 
@@ -1758,7 +1760,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Application**
 
 - **(2)** Subsection (1) applies only to previous convictions on indictment, to previous convictions on summary conviction and to previous convictions under any similar procedure under any Act of the legislature of a province.
-> 2015, c. 19, s. 49.
+> 2015, c. 19, s. 49
 
 
 
@@ -1769,7 +1771,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **91** Any person is guilty of an offence punishable on summary conviction who
 - **(a)** contravenes subsection 86(4) or any regulations made under paragraph 82(1)(o), (p) or (q); or
 - **(b)** wilfully obstructs or otherwise interferes with a licensee or any person acting on behalf of a licensee in the exercise of the licensee’s rights under this Part, except as authorized under this or any other Act of Parliament.
-> 2002, c. 10, s. 91; 2015, c. 19, s. 50.
+> 2002, c. 10, s. 91; 2015, c. 19, s. 50
 
 
 
@@ -1778,7 +1780,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Limitation period or prescription**
 
 **92** No proceedings in respect of an offence under this Part are to be instituted more than five years after the day on which the Minister becomes aware of the acts or omissions that constitute the alleged offence.
-> 2002, c. 10, s. 92; 2015, c. 19, s. 51.
+> 2002, c. 10, s. 92; 2015, c. 19, s. 51
 
 
 
@@ -1793,7 +1795,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Civil remedy not affected**
 
 - **(2)** No civil remedy for any act or omission is affected because the act or omission is an offence under this Part.
-> 2002, c. 10, s. 93; 2015, c. 19, s. 52.
+> 2002, c. 10, s. 93; 2015, c. 19, s. 52
 
 
 
@@ -1843,7 +1845,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Maximum amount of penalty**
 
 - **(2)** The amount that may be determined under any regulations made under paragraph (1)(b) as the penalty for each violation must not be more than $25,000, in the case of an individual, and $100,000 in the case of any other person.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1856,7 +1858,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Function of inspectors**
 
 **94.02** Persons who are designated as inspectors under subsection 85(1) are authorized to issue notices of violation.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1871,7 +1873,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Purpose of penalty**
 
 - **(2)** The purpose of the penalty is to promote compliance with this Part and not to punish.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1880,7 +1882,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Liability of directors, officers, etc.**
 
 **94.04** If a corporation commits a violation, any director, officer or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to the violation and is liable to a penalty in the amount that is determined in accordance with the regulations, whether or not the corporation has been proceeded against in accordance with this Part.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1889,7 +1891,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Proof of violation**
 
 **94.05** In any proceedings under this Part against a person in relation to a violation, it is sufficient proof of the violation to establish that it was committed by an employee or agent or mandatary of the person, whether or not the employee or agent or mandatary is identified or proceeded against in accordance with this Part.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1910,7 +1912,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 	- **(d)** inform the person of their right to request a review with respect to the violation or the amount of the penalty, and of the period within which that right must be exercised;
 	- **(e)** inform the person of the time and manner of paying the penalty; and
 	- **(f)** inform the person that, if they do not pay the penalty or exercise their right referred to in paragraph (d), they are considered to have committed the violation and are liable to the penalty.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1931,7 +1933,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Common law principles**
 
 - **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Part applies in respect of a violation to the extent that it is not inconsistent with this Part.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1940,7 +1942,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Continuing violation**
 
 **94.08** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1955,7 +1957,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Violations not offences**
 
 - **(2)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1964,7 +1966,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Limitation period or prescription**
 
 **94.1** No notice of violation is to be issued more than two years after the day on which the Minister becomes aware of the acts or omissions that constitute the alleged violation.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1977,7 +1979,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Right to request review**
 
 **94.11** A person who is served with a notice of violation may — within 30 days after the day on which it is served or within any longer period that is prescribed by the regulations — make a request to the Minister for a review of the amount of the penalty or the facts of the violation, or both.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1986,7 +1988,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Correction or cancellation of notice of violation**
 
 **94.12** At any time before a request for a review in respect of a notice of violation is received by the Minister, an inspector may cancel the notice of violation or correct an error in it.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -1995,7 +1997,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Review**
 
 **94.13** On receipt of a request for a review in respect of a notice of violation, the Minister shall conduct the review.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2022,7 +2024,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Determination final**
 
 - **(5)** A determination made under this section is final and binding and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal or to review by any court.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2031,7 +2033,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Burden of proof**
 
 **94.15** If the facts of a violation are reviewed, the inspector who issued the notice of violation shall establish, on a balance of probabilities, that the person named in it committed the violation identified in it.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2044,7 +2046,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Payment**
 
 **94.16** If a person pays the penalty, the person is considered to have committed the violation and proceedings in respect of it are ended. The Minister shall immediately notify the Board of the violation.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2053,7 +2055,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Failure to act**
 
 **94.17** A person that neither pays the penalty within the period set out in the notice of violation nor requests a review within the period referred to in section 94.11 is considered to have committed the violation and is liable to the penalty. The Minister shall immediately notify the Board of the violation.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2072,7 +2074,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Limitation period or prescription**
 
 - **(2)** No proceedings to recover the debt are to be instituted more than five years after the day on which the debt becomes payable.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2087,7 +2089,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Registration of certificate**
 
 - **(2)** Registration of a certificate of non-payment in any court of competent jurisdiction has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2100,7 +2102,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Authenticity of documents**
 
 **94.2** In the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 94.06(1) is presumed to be authentic and is proof of its contents in any proceeding in respect of a violation.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2109,7 +2111,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Publication**
 
 **94.3** The Board shall make public the nature of a violation, the name of the person who committed it and the amount of the penalty.
-> 2015, c. 19, s. 53.
+> 2015, c. 19, s. 53
 
 
 
@@ -2391,7 +2393,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Audit**
 
 - **(4)** The accounts, financial statements and financial transactions of the Tribunal shall be audited annually by the Auditor General of Canada. The Auditor General of Canada shall make a report of the audit to the Tribunal and the Minister.
-> 2002, c. 10, s. 114; 2017, c. 26, s. 62.
+> 2002, c. 10, s. 114; 2017, c. 26, s. 62
 
 
 
@@ -2626,7 +2628,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 
 - **(5)** As soon as possible after the rule has been made, the Tribunal shall
 	- **(a)** publish it in a newspaper or other periodical that, in the opinion of the Tribunal, has a large circulation in Nunavut; and
-	- **(b)** publish a notice in the Canada Gazette that the rule has been made, indicating the newspaper or periodical in which it has been published.
+	- **(b)** publish a notice in the [Canada Gazette](http://www.gazette.gc.ca/) that the rule has been made, indicating the newspaper or periodical in which it has been published.
 
 
 
@@ -2991,7 +2993,7 @@ It does not include any wildlife measure or use approved in accordance with Arti
 **Definitions from [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md)**
 
 - **(3)** For the purposes of the definition ***developer*** in subsection (1) and for the purposes of sections 153 and 154, the words ***discharge***, ***oil***, ***owner*** and ***ship*** have the same meaning as in section 91 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
-> 2002, c. 10, s. 152; 2009, c. 21, s. 22.
+> 2002, c. 10, s. 152; 2009, c. 21, s. 22
 
 
 
@@ -3043,7 +3045,7 @@ It does not include any wildlife measure or use approved in accordance with Arti
 **Subrogation**
 
 - **(3)** The Administrator of the Ship-source Oil Pollution Fund is subrogated, to the extent of any payment made by the Fund under subsection (2), to any rights of the claimant in respect of the loss or damage for which that payment was made and, for that purpose, the Administrator may maintain an action in the Administrator’s name or in the name of the claimant.
-> 2002, c. 10, s. 154; 2009, c. 21, s. 23.
+> 2002, c. 10, s. 154; 2009, c. 21, s. 23
 
 
 
@@ -3184,7 +3186,7 @@ that may result from any delay in carrying out the terms of an order determining
 **166** Subject to sections 167 to 169 and the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), a determination of the Tribunal on the following questions is final and binding:
 - **(a)** on any question of fact within its jurisdiction; and
 - **(b)** in an application under section 155, on any question in relation to loss or damage described in subsection 153(1).
-> 2002, c. 10, ss. 166, 201.
+> 2002, c. 10, ss. 166, 201
 
 
 
@@ -3504,6 +3506,33 @@ For the purposes of the definition ***designated Inuit organization***, the foll
 ### **SCHEDULE 2** 
 **(Section 18)**
 I, ____________, do solemnly affirm (or swear) that I will faithfully, truly, impartially and honestly and to the best of my judgment, skill and ability, execute and perform the duties required of me as a member of the Nunavut Water Board. (So help me God.)
+
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2015, c. 19, s. 54
+
+
+**Time limits**
+
+**54** With respect to an application for the issuance, renewal or amendment of a licence that was submitted before the day on which section 44 comes into force, the time limits referred to in section 55.2 of the Nunavut Waters and Nunavut Surface Rights Tribunal Act begin to run from the day of that coming into force.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 28, s. 173
+
+**173** Subsection 77(10) of the Nunavut Waters and Nunavut Surface Rights Tribunal Act is replaced by the following:
+
+**Duties of registrars**
+
+- **(10)** The provisions of section 210 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) relating to plans, profiles and books of reference deposited with land registrars under that Act and the duties of land registrars with respect to those plans, profiles and books, in so far as they are reasonably applicable and not inconsistent with this Part, apply in respect of copies of documents deposited under subsection (9).
 
 
 
