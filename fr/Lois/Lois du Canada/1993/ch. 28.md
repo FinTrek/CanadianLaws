@@ -37,12 +37,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Affaires du Nord. (*Minister*)
 
 ***terres domaniales*** Les terres du Nunavut qui appartiennent à Sa Majesté du chef du Canada ou que le gouvernement du Canada a le pouvoir d’aliéner; y sont assimilés les droits réels afférents. (*public land*)
 
 ***Tunngavik*** La Nunavut Tunngavik Incorporated, société sans capital-actions constituée en vertu de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), S.R.C. 1970, ch. C-32, ou ses successeurs ou ayants droit. (*Tunngavik*)
-> 1993, ch. 28, art. 2; 1998, ch. 15, art. 1.
+> 1993, ch. 28, art. 2; 1998, ch. 15, art. 12019, ch. 29, art. 374
 
 
 
@@ -62,7 +62,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **3** Est constituée en territoire, sous la dénomination de Nunavut, la partie du Canada :
 - **a)** située, d’une part, au nord du soixantième parallèle et à l’est de la limite dont le tracé figure à l’annexe I, à l’exclusion des régions appartenant au Québec ou à Terre-Neuve-et-Labrador;
 - **b)** comprenant, d’autre part, les îles de la baie d’Hudson, de la baie James et de la baie Ungava, à l’exclusion de celles qui appartiennent au Manitoba, à l’Ontario ou au Québec.
-> 1993, ch. 28, art. 3; 2015, ch. 3, art. 172.
+> 1993, ch. 28, art. 3; 2015, ch. 3, art. 172
 
 
 
@@ -95,7 +95,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication du décret**
 
-- **(2)** Le décret de nomination est publié dans la Gazette du Canada.
+- **(2)** Le décret de nomination est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 
 
@@ -137,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Absence ou empêchement du commissaire et du commissaire adjoint**
 
 **10** En cas d’absence ou d’empêchement du commissaire et du commissaire adjoint, ou de vacance simultanée de leur poste, l’intérim est assuré par le juge en chef de la Cour de justice.
-> 1993, ch. 28, art. 10; 1999, ch. 3, art. 1; 2017, ch. 33, art. 256.
+> 1993, ch. 28, art. 10; 1999, ch. 3, art. 1; 2017, ch. 33, art. 256
 
 
 
@@ -183,7 +183,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nombre de députés et circonscriptions électorales**
 
 **14** La législature peut légiférer pour fixer le nombre de députés et définir les circonscriptions électorales du territoire, avec leur dénomination propre.
-> 1993, ch. 28, art. 14; 1998, ch. 15, art. 2.
+> 1993, ch. 28, art. 14; 1998, ch. 15, art. 2
 
 
 
@@ -196,7 +196,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Les brefs relatifs aux élections législatives sont délivrés sur l’ordre du commissaire et selon ses instructions.
 
 - **(2)** [Abrogé, 1998, ch. 15, art. 3]
-> 1993, ch. 28, art. 15; 1998, ch. 15, art. 3.
+> 1993, ch. 28, art. 15; 1998, ch. 15, art. 3
 
 
 
@@ -352,7 +352,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** ce qui constitue ou est réputé constituer un emprunt;
 	- **b)** les entités — individuellement ou au titre de leur appartenance à une catégorie donnée — dont les emprunts doivent être pris en compte;
 	- **c)** la façon d’établir la valeur des emprunts.
-> 1993, ch. 28, art. 27; 2012, ch. 19, art. 215.
+> 1993, ch. 28, art. 27; 2012, ch. 19, art. 215
 
 
 
@@ -392,7 +392,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres règles de droit**
 
 - **(4)** Les règles de droit — autres que les ordonnances visées au paragraphe (1) et leurs textes d’application — en vigueur dans les Territoires du Nord-Ouest à la date d’entrée en vigueur de l’article 3 continuent de s’appliquer au Nunavut, dans la mesure où elles peuvent s’y appliquer et ne sont pas par la suite abrogées, modifiées ou rendues inopérantes pour celui-ci.
-> 1993, ch. 28, art. 29; 1998, ch. 15, art. 4.
+> 1993, ch. 28, art. 29; 1998, ch. 15, art. 4
 
 
 
@@ -401,7 +401,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits et autorisations**
 
 **29.1** L’entrée en vigueur de l’article 3 est sans effet sur la validité ou les modalités des droits, formalités et autorisations — agréments, permis, licences et autres — fondés sur les ordonnances des Territoires du Nord-Ouest ou leurs textes d’application et précédant la date d’entrée en vigueur de cet article. Ces droits, formalités et autorisations sont, dans la mesure où ils sont en vigueur à cette date, réputés, pour ce qui concerne le Nunavut, être fondés sur les lois de la législature ou leurs textes d’application.
-> 1998, ch. 15, art. 4.
+> 1998, ch. 15, art. 4
 
 
 
@@ -416,7 +416,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transmission de documents**
 
 - **(2)** Si le fonctionnaire, le tribunal, la circonscription territoriale ou le lieu désigné sous le régime d’une loi fédérale ou d’une loi de la législature pour recevoir un document ou objet transmis n’existent pas au Nunavut, le commissaire peut en fixer le destinataire ou accorder une dispense de transmission. La transmission à ce destinataire ou la dispense a valeur légale.
-> 1993, ch. 28, art. 30; 1998, ch. 15, art. 4.
+> 1993, ch. 28, art. 30; 1998, ch. 15, art. 4
 
 
 
@@ -447,7 +447,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Durée des fonctions**
 
 - **(3)** Ils sont inamovibles, sauf révocation par le gouverneur en conseil sur adresse du Sénat et de la Chambre des communes. La limite d’âge pour l’occupation de leur charge est de soixante-quinze ans.
-> 1993, ch. 28, art. 31; 1998, ch. 15, art. 5; 1999, ch. 3, art. 2.
+> 1993, ch. 28, art. 31; 1998, ch. 15, art. 5; 1999, ch. 3, art. 2
 
 
 
@@ -460,7 +460,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Juges d’office**
 
 **32** Les juges — autres que les juges adjoints — de la Cour suprême du Yukon et de la Cour suprême des Territoires du Nord-Ouest sont d’office juges de la Cour de justice du Nunavut.
-> 1993, ch. 28, art. 32; 1999, ch. 3, art. 3; 2002, ch. 7, art. 222.
+> 1993, ch. 28, art. 32; 1999, ch. 3, art. 3; 2002, ch. 7, art. 222
 
 
 
@@ -483,7 +483,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs**
 
 - **(4)** Les juges adjoints exercent, pendant la durée de leur charge, toutes les attributions des juges de la Cour, auxquels ils sont assimilés.
-> 1993, ch. 28, art. 33; 1999, ch. 3, art. 4.
+> 1993, ch. 28, art. 33; 1999, ch. 3, art. 4
 
 
 
@@ -498,7 +498,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exercice des attributions**
 
 - **(2)** Il est entendu que les pouvoirs et fonctions sont exercés par les juges de la Cour en leur qualité de juges de juridiction supérieure.
-> 1993, ch. 28, art. 34; 1999, ch. 3, art. 5.
+> 1993, ch. 28, art. 34; 1999, ch. 3, art. 5
 
 
 
@@ -517,7 +517,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise à exécution des décisions**
 
 - **(3)** Les décisions et ordonnances judiciaires rendues dans une instance tenue en dehors du Nunavut et visée par le présent article peuvent être exécutées sur place ou en tout autre lieu, à l’intérieur ou à l’extérieur du territoire, selon les instructions du juge saisi. Les fonctionnaires compétents du Nunavut ont tous les pouvoirs nécessaires pour l’exécution au lieu fixé, même en dehors du territoire.
-> 1993, ch. 28, art. 35; 1999, ch. 3, art. 6.
+> 1993, ch. 28, art. 35; 1999, ch. 3, art. 6
 
 
 
@@ -530,7 +530,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Lieu des séances**
 
 **36** La Cour d’appel du Nunavut peut siéger dans les limites du Nunavut et, sauf disposition contraire des lois de la législature édictées après la date d’entrée en vigueur de l’article 3, en tout autre lieu du Canada.
-> 1993, ch. 28, art. 36; 1998, ch. 15, art. 6.
+> 1993, ch. 28, art. 36; 1998, ch. 15, art. 6
 
 
 
@@ -559,7 +559,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordonnance sur les langues officielles**
 
 **38** La loi de la législature reproduisant pour le Nunavut, conformément au paragraphe 29(1), l’ordonnance des Territoires du Nord-Ouest intitulée [Loi sur les langues officielles](/fr/Lois/Lois%20du%20Canada/1985/ch.%2031%20(4e%20suppl.).md) et édictée le 28 juin 1984 ne peut être abrogée, modifiée ou rendue inopérante par la législature sans l’agrément du Parlement, donné sous forme de résolution, lorsque la mesure aurait pour effet de porter atteinte aux droits et services prévus par cette ordonnance dans sa version modifiée le 26 juin 1986.
-> 1993, ch. 28, art. 38; 1998, ch. 15, art. 7.
+> 1993, ch. 28, art. 38; 1998, ch. 15, art. 7
 
 
 
@@ -630,7 +630,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(iii)** l’état des recettes et dépenses pour l’exercice,
 	- **(iv)** l’évolution de la situation financière au cours de l’exercice;
 - **b)** les autres renseignements ou documents nécessaires à l’appui des documents visés à l’alinéa a), ou dont la production est exigée par le ministre ou sous le régime d’une loi de la législature.
-> 1993, ch. 28, art. 45; 1998, ch. 15, art. 8; 2017, ch. 26, art. 62.
+> 1993, ch. 28, art. 45; 1998, ch. 15, art. 8; 2017, ch. 26, art. 62
 
 
 
@@ -647,7 +647,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Questions soumises à l’assemblée**
 
 - **(2)** Le vérificateur du territoire signale en outre, parmi les questions soumises à la vérification, toutes celles qui, à son avis, méritent d’être portées à l’attention de l’assemblée.
-> 1993, ch. 28, art. 46; 2017, ch. 26, art. 62.
+> 1993, ch. 28, art. 46; 2017, ch. 26, art. 62
 
 
 
@@ -735,7 +735,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Date limite**
 
 - **(3)** Le présent article ne s’applique que si l’acte de transfert est signé avant le 1<sup>er</sup> avril 2004.
-> 1998, ch. 15, art. 9.
+> 1998, ch. 15, art. 9
 
 
 
@@ -813,7 +813,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Absence, empêchement ou vacance**
 
 - **(4)** En cas d’absence ou d’empêchement du commissaire provisoire ou de vacance de son poste, le ministre peut, après consultation du gouvernement des Territoires du Nord-Ouest et de Tunngavik, désigner un intérimaire pour agir jusqu’à ce que le titulaire reprenne l’exercice de ses fonctions ou jusqu’à la nomination de son remplaçant en conformité avec le paragraphe (1).
-> 1993, ch. 28, art. 71; 1998, ch. 15, art. 11.
+> 1993, ch. 28, art. 71; 1998, ch. 15, art. 11
 
 
 
@@ -845,7 +845,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modification des méthodes et procédés**
 
 - **(3)** Le gouvernement du Nunavut peut annuler, modifier ou remplacer, à son appréciation, les modalités fixées en application de l’alinéa (1)c).
-> 1993, ch. 28, art. 72; 1998, ch. 15, art. 12.
+> 1993, ch. 28, art. 72; 1998, ch. 15, art. 12
 
 
 
@@ -896,7 +896,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** aux conditions prévues par tout contrat applicable à la détention et à l’utilisation de ces renseignements par l’administration des Territoires du Nord-Ouest, comme si le gouvernement du Nunavut était partie à ce contrat;
 	- **b)** à toute règle de droit fédérale applicable à la détention et à l’utilisation de ces renseignements par l’administration des Territoires du Nord-Ouest;
 	- **c)** aux lois de la législature applicables à la détention et à l’utilisation de tels renseignements par l’administration du Nunavut.
-> 1993, ch. 28, art. 73; 1998, ch. 15, art. 13.
+> 1993, ch. 28, art. 73; 1998, ch. 15, art. 13
 
 
 
@@ -917,7 +917,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise d’effet**
 
 - **(3)** Les décrets d’application du paragraphe (1) sont pris au plus tard à la date d’entrée en vigueur de l’article 3 et prennent effet à cette date.
-> 1998, ch. 15, art. 14.
+> 1998, ch. 15, art. 14
 
 
 
@@ -926,7 +926,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en oeuvre des programmes**
 
 **74** Les gouvernements du Canada et des Territoires du Nord-Ouest sont habilités à mettre en oeuvre tout programme ayant fait l’objet d’un accord visé à l’alinéa 73(1)a.1).
-> 1993, ch. 28, art. 74; 1998, ch. 15, art. 14.
+> 1993, ch. 28, art. 74; 1998, ch. 15, art. 14
 
 
 
@@ -953,7 +953,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entrée en vigueur**
 
 - **(5)** Le paragraphe (4) est réputé être entré en vigueur le 26 novembre 1996 et les contrats passés par le commissaire provisoire avant l’entrée en vigueur du présent article sont réputés fondés sur la présente loi dans la mesure de leur validité au regard de celui-ci.
-> 1993, ch. 28, art. 75; 1998, ch. 15, art. 15.
+> 1993, ch. 28, art. 75; 1998, ch. 15, art. 15
 
 
 
@@ -989,7 +989,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délivrance des brefs**
 
 - **(2)** Pour les premières élections législatives, les brefs sont, sous réserve des règles de droit applicables, délivrés au plus tard trente jours après la date d’entrée en vigueur de l’article 3.
-> 1998, ch. 15, art. 16.
+> 1998, ch. 15, art. 16
 
 
 
@@ -1003,7 +1003,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis du décret**
 
-- **(2)** Un avis du projet de décret est à publier dans la Gazette du Canada au moins trente jours avant sa prise, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard. L’avis peut validement avoir été publié avant l’entrée en vigueur du présent article.
+- **(2)** Un avis du projet de décret est à publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) au moins trente jours avant sa prise, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard. L’avis peut validement avoir été publié avant l’entrée en vigueur du présent article.
 
 **Exception**
 
@@ -1012,7 +1012,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Direction des élections**
 
 - **(4)** La direction des premières élections législatives est assurée par le directeur général des élections des Territoires du Nord-Ouest.
-> 1998, ch. 15, art. 16.
+> 1998, ch. 15, art. 16
 
 
 
@@ -1031,7 +1031,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Statut des candidats élus**
 
 - **(3)** Il est entendu que les candidats élus avant la date d’entrée en vigueur de l’article 3 ne peuvent, à quelque fin que ce soit, être considérés comme faisant partie de l’Assemblée législative du Nunavut avant l’institution de celle-ci en vertu de l’article 13.
-> 1998, ch. 15, art. 16.
+> 1998, ch. 15, art. 16
 
 
 
@@ -1040,7 +1040,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Habileté à siéger au Conseil des T.N.-O.**
 
 **76.04** Par dérogation à toute autre règle de droit, jusqu’à la date d’entrée en vigueur de l’article 3, le fait de se porter candidat ou d’être déclaré élu dans le cadre des premières élections ne rend pas inhabile à siéger ou à voter au Conseil des Territoires du Nord-Ouest.
-> 1998, ch. 15, art. 16.
+> 1998, ch. 15, art. 16
 
 
 
@@ -1083,7 +1083,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Objet du partage**
 
 - **(6)** Le partage ordonné par la Cour suprême des Territoires du Nord-Ouest doit, dans la mesure du possible, avoir pour effet de placer chacune des parties dans l’état où elle se trouverait s’il avait eu lieu à la date d’entrée en vigueur de l’article 3.
-> 1998, ch. 15, art. 16; 1999, ch. 3, art. 7.
+> 1998, ch. 15, art. 16; 1999, ch. 3, art. 7
 
 
 
@@ -1102,7 +1102,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cadres et employés**
 
 - **(3)** Les cadres et employés de ces organismes, ainsi que les titulaires des charges visées, qui sont en poste à la date d’entrée en vigueur de l’article 3 sont maintenus dans leurs postes respectifs en conformité avec leurs conditions de nomination ou d’occupation, et sont réputés exercer leurs fonctions sous le régime des lois de la législature.
-> 1998, ch. 15, art. 16.
+> 1998, ch. 15, art. 16
 
 
 
@@ -1117,7 +1117,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Expiration**
 
 - **(2)** Pour ce qui concerne le Nunavut, ces conventions expirent suivant leurs dispositions ou celles des règles de droit applicables à moins que, avant la date prévue pour leur expiration, leurs parties ne conviennent d’une date ultérieure, laquelle ne peut toutefois être postérieure au 31 mars 2000.
-> 1998, ch. 15, art. 16.
+> 1998, ch. 15, art. 16
 
 
 
@@ -1144,7 +1144,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Affaires judiciaires**
 
 - **(4)** Le présent article ne s’applique pas aux instances visées à l’article 76.1.
-> 1998, ch. 15, art. 16.
+> 1998, ch. 15, art. 16
 
 
 
@@ -1163,7 +1163,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(3)** Il est entendu que les nouveaux procès, et les recours les frappant, sont assimilés aux recours visés au paragraphe (2).
-> 1998, ch. 15, art. 16; 1999, ch. 3, art. 8.
+> 1998, ch. 15, art. 16; 1999, ch. 3, art. 8
 
 
 
@@ -1182,7 +1182,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(3)** Le dossier transféré est réputé avoir été constitué par la Cour de justice du Nunavut. De même, tout acte ou document — y compris toute décision ou ordonnance — émanant, relativement à l’instance, d’une juridiction des Territoires du Nord-Ouest est réputé émaner de la Cour.
-> 1998, ch. 15, art. 16; 1999, ch. 3, art. 9.
+> 1998, ch. 15, art. 16; 1999, ch. 3, art. 9
 
 
 
@@ -1203,7 +1203,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exécution des décisions**
 
 - **(3)** Les décisions et ordonnances judiciaires rendues dans une instance introduite dans les Territoires du Nord-Ouest avant l’entrée en vigueur de l’article 3 peuvent être exécutées en tout lieu au Nunavut ou dans les Territoires du Nord-Ouest, selon les instructions de la juridiction saisie. Les fonctionnaires compétents du territoire où la décision ou l’ordonnance est exécutée ont tous les pouvoirs nécessaires à cette fin.
-> 1998, ch. 15, art. 16; 1999, ch. 3, art. 10.
+> 1998, ch. 15, art. 16; 1999, ch. 3, art. 10
 
 
 
@@ -1218,7 +1218,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Affaires en instance**
 
 - **(2)** Ils continuent toutefois d’occuper les fonctions de juge de paix pour les Territoires du Nord-Ouest et d’exercer les attributions afférentes au Nunavut relativement à toute instance visée au paragraphe 76.1(2).
-> 1998, ch. 15, art. 16.
+> 1998, ch. 15, art. 16
 
 
 
