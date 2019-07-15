@@ -117,7 +117,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***mesures de contrôle*** Mesures prises en vue d’effectuer un contrôle soit des effets sur l’environnement ou la vie socioéconomique, soit de l’efficacité des mesures d’atténuation. (*effects monitoring*)
 
-***ministre fédéral*** Soit le ministre des Affaires indiennes et du Nord canadien, soit tout autre membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*federal minister*)
+***ministre fédéral*** Soit le ministre des Affaires du Nord, soit tout autre membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*federal minister*)
 
 ***ministre territorial*** Le membre du Conseil exécutif du Yukon que désigne le commissaire du Yukon — avec l’agrément de ce conseil — pour l’application de la présente loi. (*territorial minister*)
 
@@ -168,7 +168,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sens particulier de attribution**
 
 - **(3)** Dans la présente loi, la mention de l’attribution de droits fonciers ne vaut mention que de celle effectuée en vertu d’un pouvoir discrétionnaire.
-> 2003, ch. 7, art. 2 et 133(A).
+> 2003, ch. 7, art. 2 et 133(A)2019, ch. 29, art. 374
 
 
 
@@ -218,7 +218,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application**
 
 **6** La [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas au Yukon.
-> 2003, ch. 7, art. 6; 2015, ch. 19, art. 2.
+> 2003, ch. 7, art. 6; 2015, ch. 19, art. 2
 
 
 
@@ -269,7 +269,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation des premières nations**
 
 - **(6)** Le Conseil consulte les premières nations avant de faire une proposition.
-> 2003, ch. 7, art. 8; 2015, ch. 19, art. 3.
+> 2003, ch. 7, art. 8; 2015, ch. 19, art. 3
 
 
 
@@ -305,7 +305,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fonctions postérieures au mandat**
 
 - **(4)** S’il est aussi membre du comité de direction qui effectue la préétude d’un projet de développement ou d’un comité restreint qui en étudie un, le membre dont le mandat expire avant qu’une décision écrite ne soit rendue par chacun des décisionnaires auxquels le comité en question a communiqué des recommandations à l’égard de ce projet peut, en conformité avec les règlements administratifs de l’Office — ou, en l’absence de règlements administratifs applicables, avec les instructions du président —, continuer à exercer ses fonctions relativement à cette préétude ou étude jusqu’à ce que ces décisions écrites soient rendues. En ce qui concerne la nomination de son remplaçant, la vacance du poste est réputée survenir dès l’expiration du mandat.
-> 2003, ch. 7, art. 10; 2015, ch. 19, art. 4.
+> 2003, ch. 7, art. 10; 2015, ch. 19, art. 4
 
 
 
@@ -328,7 +328,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fonctions postérieures à la révocation**
 
 - **(4)** S’il est aussi membre du comité de direction qui effectue la préétude d’un projet de développement ou d’un comité restreint qui en étudie un, le membre qui est révoqué en application du paragraphe (2) avant qu’une décision écrite ne soit rendue par chacun des décisionnaires auxquels le comité en question a communiqué des recommandations à l’égard de ce projet peut, en conformité avec les règlements administratifs de l’Office — ou, en l’absence de règlements administratifs applicables, avec les instructions du président —, continuer à exercer ses fonctions relativement à cette préétude ou étude jusqu’à ce que ces décisions écrites soient rendues. En ce qui concerne la nomination de son remplaçant, la vacance du poste est réputée survenir dès la révocation.
-> 2003, ch. 7, art. 11; 2015, ch. 19, art. 5.
+> 2003, ch. 7, art. 11; 2015, ch. 19, art. 5
 
 
 
@@ -367,7 +367,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(3)** Les membres de l’Office et son personnel sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et occuper un emploi au sein de l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 2003, ch. 7, art. 14, ch. 22, art. 277(A).
+> 2003, ch. 7, art. 14, ch. 22, art. 277(A)
 
 
 
@@ -449,7 +449,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** L’ordonnance est soustraite à l’application des articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). L’Office fait toutefois publier un avis de sa prise dans la Gazette du Canada, dans un périodique qui, à son avis, est largement diffusé au Yukon et, si les circonscriptions touchées recouvrent toute partie du territoire des Gwich’in Tetlit, dans un périodique distribué dans la région désignée des Gwich’in visée dans l’accord gwich’in.
+- **(3)** L’ordonnance est soustraite à l’application des articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). L’Office fait toutefois publier un avis de sa prise dans la [Gazette du Canada](http://www.gazette.gc.ca/), dans un périodique qui, à son avis, est largement diffusé au Yukon et, si les circonscriptions touchées recouvrent toute partie du territoire des Gwich’in Tetlit, dans un périodique distribué dans la région désignée des Gwich’in visée dans l’accord gwich’in.
 
 
 
@@ -466,7 +466,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(3)** Le ministre fédéral donne avis de la désignation et de toute modification de celle-ci dans la Gazette du Canada, dans un périodique qui, à son avis, est largement diffusé au Yukon et, si la circonscription touchée recouvre toute partie du territoire des Gwich’in Tetlit, dans un périodique distribué dans la région désignée des Gwich’in visée dans l’accord gwich’in.
+- **(3)** Le ministre fédéral donne avis de la désignation et de toute modification de celle-ci dans la [Gazette du Canada](http://www.gazette.gc.ca/), dans un périodique qui, à son avis, est largement diffusé au Yukon et, si la circonscription touchée recouvre toute partie du territoire des Gwich’in Tetlit, dans un périodique distribué dans la région désignée des Gwich’in visée dans l’accord gwich’in.
 
 
 
@@ -545,7 +545,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 - **(3)** Les comptes, états financiers et opérations financières de l’Office sont vérifiés chaque année par le vérificateur de l’Office et, sur demande du ministre fédéral, par le vérificateur général du Canada. Les rapports de vérification sont présentés à l’Office et au ministre fédéral dans les meilleurs délais.
-> 2003, ch. 7, art. 28; 2017, ch. 26, art. 62.
+> 2003, ch. 7, art. 28; 2017, ch. 26, art. 62
 
 
 
@@ -591,7 +591,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Catégories particulières**
 
 - **(4)** Les règles établies en vertu du présent article peuvent prévoir différents types de préétudes et d’études pour diverses catégories soit de projets de développement, d’ouvrages ou de plans, soit d’activités à l’extérieur du Yukon.
-> 2003, ch. 7, art. 30; 2015, ch. 19, art. 6.
+> 2003, ch. 7, art. 30; 2015, ch. 19, art. 6
 
 
 
@@ -626,7 +626,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règles particulières**
 
 - **(5)** Tout bureau désigné peut établir ses propres règles d’examen, mais les dispositions des règles établies en vertu des paragraphes (1) à (3) l’emportent en cas d’incompatibilité.
-> 2003, ch. 7, art. 31; 2015, ch. 19, art. 7.
+> 2003, ch. 7, art. 31; 2015, ch. 19, art. 7
 
 
 
@@ -659,7 +659,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **34** 
 
-- **(1)** Au moins soixante jours avant l’établissement de règles, l’Office ou le bureau désigné, selon le cas, en donne avis dans la Gazette du Canada, dans un périodique qui, à son avis, est largement diffusé au Yukon et dans un périodique distribué dans la région désignée des Gwich’in visée dans l’accord gwich’in. L’avis invite toute personne à présenter par écrit, dans les soixante jours suivant la publication, ses observations à cet égard.
+- **(1)** Au moins soixante jours avant l’établissement de règles, l’Office ou le bureau désigné, selon le cas, en donne avis dans la [Gazette du Canada](http://www.gazette.gc.ca/), dans un périodique qui, à son avis, est largement diffusé au Yukon et dans un périodique distribué dans la région désignée des Gwich’in visée dans l’accord gwich’in. L’avis invite toute personne à présenter par écrit, dans les soixante jours suivant la publication, ses observations à cet égard.
 
 **Dispense**
 
@@ -667,7 +667,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication des règles**
 
-- **(3)** Le texte définitif des règles est publié dans la Gazette du Canada dès leur établissement.
+- **(3)** Le texte définitif des règles est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dès leur établissement.
 
 
 
@@ -678,7 +678,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** régir la conduite et la gestion de ses affaires internes;
 - **b)** établir, pour la révocation des membres visée au paragraphe 11(1), des motifs autres que ceux du droit commun;
 - **c)** régir l’exercice des fonctions d’un membre pour l’application des paragraphes 10(4) et 11(4).
-> 2003, ch. 7, art. 35; 2015, ch. 19, art. 8.
+> 2003, ch. 7, art. 35; 2015, ch. 19, art. 8
 
 
 
@@ -797,7 +797,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres points pertinents**
 
 - **(4)** Le bureau désigné, le comité de direction et le comité restreint peuvent en outre tenir compte de tout point qu’ils jugent pertinent.
-> 2003, ch. 7, art. 42; 2015, ch. 19, art. 9.
+> 2003, ch. 7, art. 42; 2015, ch. 19, art. 9
 
 
 
@@ -828,7 +828,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise en compte des travaux antérieurs**
 
 - **(6)** Le bureau désigné, le comité de direction ou le comité restreint chargé de l’évaluation du projet de développement visé par la nouvelle proposition tiennent compte des travaux d’évaluation antérieurs effectués au titre de la présente loi à l’égard du projet et peuvent s’appuyer sur ceux-ci.
-> 2003, ch. 7, art. 43; 2015, ch. 19, art. 10.
+> 2003, ch. 7, art. 43; 2015, ch. 19, art. 10
 
 
 
@@ -878,7 +878,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mandat et validité des actes**
 
 **46.1** Le défaut du ministre fédéral, du ministre de l’Environnement, du ministre territorial, de l’Office, d’un décisionnaire, d’un bureau désigné, d’un comité de direction, d’un comité restreint ou d’un comité mixte d’exercer ses attributions dans le délai prévu sous le régime de la présente loi n’a pas pour effet de mettre fin à son mandat ni d’invalider les documents préparés ou présentés dans l’exercice de ses attributions ou les décisions et mesures prises dans le cadre de celles-ci.
-> 2015, ch. 19, art. 11.
+> 2015, ch. 19, art. 11
 
 
 
@@ -901,7 +901,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** une autorité territoriale, une municipalité, un organisme administratif autonome territorial ou une première nation en est le promoteur, dans les cas où la délivrance d’une autorisation ou l’attribution de droits fonciers serait nécessaire à son exercice si le promoteur était un particulier;
 	- **c)** l’autorisation d’une autorité publique, d’un organisme administratif autonome, d’une municipalité ou d’une première nation, ou l’attribution, par ceux-ci, de droits fonciers est nécessaire à son exercice;
 	- **d)** l’autorisation du gouverneur en conseil est nécessaire à son exercice.
-> 2003, ch. 7, art. 47; 2015, ch. 19, art. 12.
+> 2003, ch. 7, art. 47; 2015, ch. 19, art. 12
 
 
 
@@ -933,7 +933,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** une région qui contient une ressource patrimoniale — autre qu’un document — ou en constitue une et qui, de ce fait, fait l’objet soit d’un régime de protection en vertu d’un texte législatif fédéral ou territorial ou d’un texte législatif d’une première nation, soit d’une recommandation en ce sens dans un plan d’aménagement régional applicable en vertu d’un accord définitif;
 	- **b)** une zone spéciale de gestion dont fait mention un accord définitif ou dont l’établissement est prévu par celui-ci;
 	- **c)** une région où des espèces animales ou végétales rares, menacées, en voie de disparition ou en péril — aux termes d’un texte législatif fédéral ou territorial ou d’un texte législatif d’une première nation — ont leur habitat.
-> 2003, ch. 7, art. 48; 2015, ch. 19, art. 13.
+> 2003, ch. 7, art. 48; 2015, ch. 19, art. 13
 
 
 
@@ -977,7 +977,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification**
 
 - **(4)** Le comité de direction notifie au ministre de l’Environnement toute proposition qui lui est soumise visant un projet de développement relevant d’un décisionnaire fédéral.
-> 2003, ch. 7, art. 50; 2015, ch. 19, art. 15.
+> 2003, ch. 7, art. 50; 2015, ch. 19, art. 15
 
 
 
@@ -1073,7 +1073,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication de documents**
 
 - **(5)** Le bureau désigné adresse au comité de direction copie de tous les documents en sa possession relatifs au projet de développement qui fait l’objet du renvoi.
-> 2003, ch. 7, art. 56; 2015, ch. 19, art. 16; 2017, ch. 34, art. 3.
+> 2003, ch. 7, art. 56; 2015, ch. 19, art. 16; 2017, ch. 34, art. 3
 
 
 
@@ -1129,7 +1129,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification**
 
 - **(4)** Le comité de direction notifie par écrit la décision d’ordonner l’étude, motifs à l’appui, au promoteur, aux premières nations consultées en application du paragraphe 50(3), ainsi qu’aux autorités publiques, organismes administratifs autonomes et premières nations l’ayant avisé de leur intérêt dans le projet de développement ou dans les projets de même catégorie.
-> 2003, ch. 7, art. 58; 2015, ch. 19, art. 17; 2017, ch. 34, art. 4.
+> 2003, ch. 7, art. 58; 2015, ch. 19, art. 17; 2017, ch. 34, art. 4
 
 
 
@@ -1138,7 +1138,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cas particulier : rejet d’une recommandation**
 
 **59** Dans le cas où un décisionnaire l’avise par écrit, dans les quinze jours qui suivent sa réception, qu’il rejette la recommandation faite par le comité de direction et portant dispense d’étude, le comité de direction est tenu d’ordonner l’étude du projet de développement.
-> 2003, ch. 7, art. 59; 2015, ch. 19, art. 18.
+> 2003, ch. 7, art. 59; 2015, ch. 19, art. 18
 
 
 
@@ -1201,7 +1201,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification par le ministre de l’Environnement**
 
 - **(4)** Le ministre de l’Environnement peut aussi, après la communication d’une conclusion négative au titre du paragraphe (2), procéder lui-même à la vérification qui y est prévue. S’il en vient à une conclusion différente et en avise le comité de direction dans les trente jours suivant cette communication, celui-ci est tenu de lui faire une demande au titre de l’alinéa (1)b).
-> 2003, ch. 7, art. 61; 2015, ch. 19, art. 19.
+> 2003, ch. 7, art. 61; 2015, ch. 19, art. 19
 
 
 
@@ -1210,7 +1210,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Acquiescement à la demande**
 
 **62** Le ministre de l’Environnement dispose d’un délai de trente jours après la réception de la demande qui lui est faite au titre de l’alinéa 61(1)b) pour notifier au comité de direction s’il y acquiesce ou non.
-> 2003, ch. 7, art. 62; 2015, ch. 19, art. 19.
+> 2003, ch. 7, art. 62; 2015, ch. 19, art. 19
 
 
 
@@ -1266,7 +1266,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** ordonne aux autres membres ou à certains d’entre eux de poursuivre l’étude;
 	- **b)** nomme un remplaçant et ordonne au comité de poursuivre ou de recommencer l’étude;
 	- **c)** établit un nouveau comité restreint qu’il charge de recommencer l’étude.
-> 2003, ch. 7, art. 65; 2015, ch. 19, art. 20.
+> 2003, ch. 7, art. 65; 2015, ch. 19, art. 20
 
 
 
@@ -1310,7 +1310,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(3)** Il est entendu que la coordination des examens n’a pas pour effet de permettre à un comité restreint de faire une recommandation portant sur la partie du projet de développement devant être réalisée à l’extérieur du Yukon.
-> 2015, ch. 19, art. 21.
+> 2015, ch. 19, art. 21
 
 
 
@@ -1347,7 +1347,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(5)** Les membres du comité mixte sont indemnisés, par la personne ou l’organisme mentionné dans l’accord, de tous les dommages-intérêts mis à leur charge en cette qualité et des frais entraînés par toute demande qui leur est adressée en ce sens s’ils ont agi avec intégrité et de bonne foi pour servir au mieux les intérêts du comité. Sont cependant exclues les sommes versées, sans l’agrément du ministre fédéral et celui de cette personne ou de cet organisme, à la suite d’un règlement amiable.
-> 2003, ch. 7, art. 67; 2015, ch. 19, art. 22.
+> 2003, ch. 7, art. 67; 2015, ch. 19, art. 22
 
 
 
@@ -1443,7 +1443,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication des recommandations**
 
 - **(5)** Les recommandations sont communiquées par écrit, motifs à l’appui, avec copie au promoteur.
-> 2003, ch. 7, art. 72; 2015, ch. 19, art. 23; 2017, ch. 34, art. 6.
+> 2003, ch. 7, art. 72; 2015, ch. 19, art. 23; 2017, ch. 34, art. 6
 
 
 
@@ -1473,7 +1473,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Recommandation du bureau désigné ou du comité mixte**
 
 **75** Le décisionnaire est tenu, dans sa décision écrite prise dans le délai réglementaire, d’accepter, de modifier ou de rejeter la recommandation qui lui est faite par le bureau désigné ou le comité mixte.
-> 2003, ch. 7, art. 75; 2015, ch. 19, art. 25.
+> 2003, ch. 7, art. 75; 2015, ch. 19, art. 25
 
 
 
@@ -1492,7 +1492,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet**
 
 - **(3)** Sur réception de l’avis, tout autre décisionnaire met fin à l’étude de la recommandation et quiconque est tenu, en vertu des articles 82 à 88, de mettre en oeuvre une décision écrite s’abstient de prendre toute mesure visant à permettre la réalisation du projet de développement en question.
-> 2003, ch. 7, art. 76; 2015, ch. 19, art. 26.
+> 2003, ch. 7, art. 76; 2015, ch. 19, art. 26
 
 
 
@@ -1511,7 +1511,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nouvelle décision écrite**
 
 - **(3)** Chacun de ces décisionnaires peut, dans sa décision écrite prise dans le délai réglementaire, accepter, rejeter ou modifier les nouvelles recommandations. Cette nouvelle décision se substitue à toute décision antérieure prise par lui sur le sujet.
-> 2003, ch. 7, art. 77; 2015, ch. 19, art. 27; 2017, ch. 34, art. 7.
+> 2003, ch. 7, art. 77; 2015, ch. 19, art. 27; 2017, ch. 34, art. 7
 
 
 
@@ -1571,7 +1571,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Office d’aménagement**
 
 - **(2)** Copie de la décision écrite autorisant la réalisation d’un projet de développement non conforme au plan d’aménagement régional visé à l’article 44 est adressée à l’office d’aménagement concerné ainsi qu’à quiconque a approuvé le plan d’aménagement.
-> 2003, ch. 7, art. 81 et 133; 2015, ch. 19, art. 28.
+> 2003, ch. 7, art. 81 et 133; 2015, ch. 19, art. 28
 
 
 
@@ -1634,7 +1634,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits relatifs aux eaux**
 
 **86** L’organisme compétent en matière de droits relatifs aux eaux ne peut procéder à l’attribution ou au renouvellement de tels droits, sous le régime des textes législatifs territoriaux — ou assortir ceux-ci de conditions — qu’en conformité avec les décisions écrites prises par les décisionnaires fédéraux ou celles devant être mises en oeuvre par les autorités fédérales, les autorités territoriales, les municipalités et les premières nations aux termes des paragraphes 83(2) ou 84(2) ou (3).
-> 2003, ch. 7, art. 86 et 133.
+> 2003, ch. 7, art. 86 et 133
 
 
 
@@ -1673,7 +1673,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 **88.1** Il est entendu qu’un organisme administratif autonome, une autorité publique ou une première nation peut, dans la mesure de ses pouvoirs et de ses compétences respectifs, assortir les décisions écrites de conditions supplémentaires ou plus rigoureuses.
-> 2015, ch. 19, art. 29.
+> 2015, ch. 19, art. 29
 
 
 
@@ -1788,7 +1788,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Créances de Sa Majesté**
 
 - **(3)** Les sommes et les frais que le promoteur est tenu de verser au titre du paragraphe (1) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
-> 2015, ch. 19, art. 30.
+> 2015, ch. 19, art. 30
 
 
 
@@ -2178,7 +2178,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 **Obtention de renseignements**
 
 - **(3)** Le comité de direction peut, sous réserve de toute autre loi fédérale, de tout texte législatif territorial ou de tout texte législatif d’une première nation, obtenir de toute première nation, de toute autorité publique ou de tout organisme administratif autonome les renseignements qui sont en leur possession et dont il a besoin dans le cadre de toute étude ou de toutes recherches.
-> 2003, ch. 7, art. 112; 2015, ch. 19, art. 31.
+> 2003, ch. 7, art. 112; 2015, ch. 19, art. 31
 
 
 
@@ -2193,7 +2193,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 **Recommandations**
 
 - **(2)** Le destinataire du rapport tient pleinement et équitablement compte des recommandations qui y sont formulées.
-> 2003, ch. 7, art. 113; 2015, ch. 19, art. 32.
+> 2003, ch. 7, art. 113; 2015, ch. 19, art. 32
 
 
 
@@ -2227,7 +2227,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 **Renvoi de questions par l’Office**
 
 **115** L’Office peut, à la demande d’un bureau désigné, du comité de direction, d’un comité restreint ou mixte ou d’un décisionnaire, déférer toute question de droit ou de compétence soulevée dans le cadre des instances tenues sous le régime de la présente loi à la Cour suprême du Yukon.
-> 2003, ch. 7, art. 115 et 133(A).
+> 2003, ch. 7, art. 115 et 133(A)
 
 
 
@@ -2236,7 +2236,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 **Demande de contrôle judiciaire**
 
 **116** Indépendamment de la compétence exclusive accordée par l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), le procureur général du Canada, le ministre territorial ou quiconque est directement touché par l’affaire peut présenter une demande à la Cour suprême du Yukon afin d’obtenir, contre l’Office, un bureau désigné, le comité de direction, un comité restreint ou mixte ou un décisionnaire, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
-> 2003, ch. 7, art. 116 et 132.
+> 2003, ch. 7, art. 116 et 132
 
 
 
@@ -2264,7 +2264,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 - **a)** un registre où sont versés tous les documents produits, recueillis ou reçus par le comité de direction et les comités restreints ou mixtes relativement aux évaluations ainsi que tous les documents qu’il reçoit en application du paragraphe 91(1);
 - **b)** la liste des projets de développement, des ouvrages, des autres activités et des plans qui font ou ont fait l’objet d’une évaluation par un bureau désigné, le comité de direction ou un comité restreint ou mixte, avec mention du lieu de réalisation, d’exploitation, d’exercice ou de mise en oeuvre et de leur état d’avancement;
 - **c)** un document indiquant les autorisations, les droits fonciers et l’aide financière ayant fait l’objet de la notification prévue à l’article 89.
-> 2003, ch. 7, art. 118; 2015, ch. 19, art. 33(A).
+> 2003, ch. 7, art. 118; 2015, ch. 19, art. 33(A)
 
 
 
@@ -2319,7 +2319,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 - **e)** régir les consultations entre décisionnaires visées au paragraphe 78(1);
 - **f)** établir des catégories de plans pouvant être soumis à l’étude d’un comité restreint en vertu du paragraphe 105(1);
 - **g)** mettre sur pied un programme de financement afin de permettre la participation des personnes ou groupes qu’il précise aux études de projets de développement.
-> 2003, ch. 7, art. 122; 2015, ch. 19, art. 35.
+> 2003, ch. 7, art. 122; 2015, ch. 19, art. 35
 
 
 
@@ -2328,7 +2328,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 **Pouvoir du gouverneur en conseil**
 
 **122.1** Le gouverneur en conseil peut, après consultation, par le ministre fédéral, du ministre territorial, des premières nations, du Conseil et de l’Office, prendre des règlements concernant le recouvrement des coûts pour l’application de l’article 93.1, notamment pour prévoir des services et des sommes et pour soustraire à l’application de cet article toute catégorie de promoteurs ou de projets de développement.
-> 2015, ch. 19, art. 36.
+> 2015, ch. 19, art. 36
 
 
 
@@ -2340,7 +2340,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 - **a)** ajouter à la partie 1 de l’annexe le nom de tout organisme chargé, aux termes d’un texte législatif fédéral autre que la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), de délivrer des autorisations dont les conditions ne sont pas susceptibles d’être modifiées par le gouverneur en conseil ou un ministre du gouvernement fédéral;
 - **b)** ajouter à la partie 2 de l’annexe le nom de tout organisme chargé, sous le régime de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), de délivrer des autorisations dont les conditions ne sont pas susceptibles d’être modifiées par le commissaire du Yukon ou un ministre du gouvernement territorial;
 - **c)** supprimer de l’annexe le nom de tout organisme.
-> 2003, ch. 7, art. 123; 2015, ch. 19, art. 37(F).
+> 2003, ch. 7, art. 123; 2015, ch. 19, art. 37(F)
 
 
 
@@ -2483,6 +2483,135 @@ Office national de l’énergie<br />- <i>National Energy Board</i>
 
 
 
-> 2003, ch. 7, ann.; 2015, ch. 19, art. 38.
+> 2003, ch. 7, ann.; 2015, ch. 19, art. 38
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2015, ch. 19, art. 39
+
+
+**Projet de développement en cours**
+
+**39** 
+
+- **(1)** Sous réserve du paragraphe (2), la Loi sur l’évaluation environnementale et socioéconomique au Yukon, dans sa version antérieure à la date de sanction de la présente loi, continue de s’appliquer aux propositions visant un projet de développement soumises avant cette date.
+
+**Délais**
+
+- **(2)** L’article 46.1 et les paragraphes 56(1) à (1.3), 58(1) à (1.3) et 72(4.1) à (4.4) de la Loi sur l’évaluation environnementale et socioéconomique au Yukon, dans leur version à la date de sanction de la présente loi, s’appliquent relativement à tout projet de développement dont l’examen, la préétude ou l’étude a été entrepris avant cette date et pour lequel aucune décision n’a été prise, les délais et prolongations qui sont mentionnés dans ces paragraphes commençant à courir à compter de cette date.
+
+
+
+######           — 2015, ch. 19, art. 40
+
+
+**Pipe-line du Nord**
+
+**40** La Loi sur l’évaluation environnementale et socioéconomique au Yukon, dans sa version antérieure à la date de sanction de la présente loi, continue de s’appliquer au pipe-line visé par la [Loi sur le pipe-line du Nord](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-26.md).
+
+
+
+######           — 2017, ch. 34, art. 9
+
+**9** L’article 39 de la Loi sur l’amélioration de la réglementation au Yukon et au Nunavut est remplacé par ce qui suit :
+
+**Projet de développement en cours**
+
+**39** La Loi sur l’évaluation environnementale et socioéconomique au Yukon, dans sa version antérieure au 18 juin 2015, continue de s’appliquer aux propositions visant un projet de développement soumises avant cette date.
+
+
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2003, ch. 7, par. 133(1), (2) et (4)
+
+
+**[Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md)**
+
+**133** 
+
+- **(1)** À l’entrée en vigueur de l’article 283 de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), chapitre 7 des Lois du Canada (2002) (appelée « autre loi » au présent article), ou, si elle est postérieure, à la date de sanction de la présente loi, la définition de ***autorisation***, au paragraphe 2(1) de la présente loi, est remplacée par ce qui suit :
+
+
+***autorisation*** Toute forme d’autorisation — notamment un permis — délivrée ou accordée soit par le gouverneur en conseil, une autorité publique, un organisme administratif autonome ou une municipalité, soit par une première nation en vertu d’un accord définitif ou de ses textes législatifs. Sont exclues les ordonnances d’accès rendues par l’organisme établi par les textes législatifs territoriaux et compétent en matière de droits de surface ainsi que l’autorisation accordée, en ce qui touche l’accès à des terres désignées, par une première nation dans les circonstances où une telle ordonnance pourrait être rendue. (*authorization*)
+
+
+
+- **(2)** À l’entrée en vigueur de l’article 283 de l’autre loi ou, si elle est postérieure, à la date de sanction de la présente loi, les définitions de ***autorité fédérale***, ***autorité territoriale*** et ***terres désignées***, au paragraphe 2(1) de la présente loi, sont respectivement remplacées par ce qui suit :
+
+
+***autorité fédérale*** Ministre du gouvernement fédéral ainsi que toute personne ou tout organisme remplissant des fonctions administratives sous le régime d’une loi fédérale, exception faite de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), de la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md) et de la [Loi sur l’autonomie gouvernementale des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2035.md). Sont exclus le gouverneur en conseil et les organismes administratifs autonomes. (*federal agency*)
+
+***autorité territoriale*** Membre du Conseil exécutif du Yukon, ainsi que toute personne ou tout organisme remplissant des fonctions administratives sous le régime de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md). Sont exclus les organismes administratifs autonomes, les municipalités et l’organisme établi par les textes législatifs territoriaux et compétent en matière de droits de surface. (*territorial agency*)
+
+***terres désignées*** Les terres gwich’in tetlit ainsi que les terres qui, aux termes d’un accord définitif ou d’une ordonnance de l’organisme établi par les textes législatifs territoriaux et compétent en matière de droits de surface, sont soit affectées aux catégories A ou B, soit détenues en fief simple, ou qui sont tenues pour telles aux termes d’un accord sur l’autonomie gouvernementale. Sont exclus les étendues d’eau ainsi que les mines et les minéraux visés par la définition de ***terres non désignées***. (*settlement land*)
+
+
+
+- **(4)** À l’entrée en vigueur de l’article 283 de l’autre loi ou à celle de la partie 2 de la présente loi, selon ce qui se produit en dernier lieu, l’alinéa 81(1)g) de la présente loi est remplacé par ce qui suit :
+
+- **g)** à l’organisme compétent en matière de droits de surface dans les cas où il est appelé, en vertu des textes législatifs territoriaux, à rendre une ordonnance d’accès relativement au projet de développement;
+
+
+
+
+
+######           — 2019, ch. 28, art. 176
+
+**176** L’article 87 de la Loi sur l’évaluation environnementale et socioéconomique au Yukon est remplacé par ce qui suit :
+
+**Organismes administratifs autonomes fédéraux**
+
+**87** 
+
+- **(1)** Les organismes administratifs autonomes fédéraux ne peuvent ordonner la réalisation d’un projet de développement, ni prendre de mesure visant à permettre celle-ci, avant la prise, par tout décisionnaire fédéral et, dans le cas de la Régie canadienne de l’énergie, par le ministre territorial, d’une décision écrite au titre des articles 75, 76 ou 77.
+
+**Mise en oeuvre des décisions écrites**
+
+- **(2)** Ces organismes — exception faite de la Régie canadienne de l’énergie — sont tenus, dans la mesure du possible, d’une part, de veiller à mettre en oeuvre, en ce qui touche tant l’ordre de réaliser le projet de développement que la prise de mesures visant à en permettre la réalisation, la décision écrite prise par tout décisionnaire fédéral et, d’autre part, de veiller à la conformité avec cette décision de toute autorisation qu’ils délivrent à cette fin. Les motifs justifiant la non-conformité doivent être communiqués par écrit au décisionnaire.
+
+**Commission de la Régie canadienne de l’énergie**
+
+- **(3)** La Commission de la Régie canadienne de l’énergie tient compte, en ce qui touche tant l’ordre de réaliser un projet de développement que l’attribution d’une autorisation nécessaire à la réalisation de celui-ci, de la décision écrite prise par tout décisionnaire fédéral ou par le ministre territorial à cet égard. Les motifs justifiant la non-conformité de l’autorisation doivent être communiqués par écrit à ces derniers.
+
+**Régie canadienne de l’énergie**
+
+- **(4)** La Régie canadienne de l’énergie tient compte, en ce qui touche l’attribution d’une aide financière à l’égard d’un projet de développement, de la décision prise par tout décisionnaire fédéral ou par le ministre territorial à cet égard.
+
+
+
+
+
+######           — 2019, ch. 28, art. 177
+
+**177** La partie 1 de l’annexe de la même loi est modifiée par suppression, sous l’intertitre « Organismes administratifs autonomes fédéraux », de ce qui suit :
+
+Office national de l’énergie<br />- <i>National Energy Board</i>
+
+
+
+######           — 2019, ch. 28, art. 178
+
+**178** La partie 1 de l’annexe de la même loi est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « Organismes administratifs autonomes fédéraux », de ce qui suit :
+
+Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
+
+
+
+######           — 2019, ch. 28, al. 188b)
+
+
+**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
+
+**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
+- **b)** l’article 6 de la Loi sur l’évaluation environnementale et socioéconomique au Yukon;
+
 
 
