@@ -46,7 +46,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Framework Agreement*** means the Saskatchewan Treaty Land Entitlement Framework Agreement entered into on September 22, 1992, pursuant to which Canada’s outstanding treaty land entitlement obligations are to be fulfilled in respect of those bands that are parties to that Agreement, certain provisions of which are set out in Schedule II; (*accord-cadre*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
+***Minister*** means the Minister of Indigenous Services; (*ministre*)
 
 ***Nekaneet Agreement*** means the Nekaneet Treaty Land Entitlement Settlement Agreement entered into on September 23, 1992, pursuant to which Canada’s outstanding treaty land entitlement obligations are fulfilled in respect of the Nekaneet band, certain provisions of which are set out in Schedule III; (*accord Nekaneet*)
 
@@ -57,7 +57,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definitions**
 
 - **(2)** Words and expressions that are not defined in this Act have the same meaning as in the NRTA Amendment Agreement.
-> 1993, c. 11, s. 2; 2002, c. 3, s. 11.
+> 1993, c. 11, s. 2; 2002, c. 3, s. 112019, c. 29, s. 375
 
 
 
@@ -79,7 +79,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** an agreement is entered into with an Indian band of Saskatchewan in settlement of a treaty land entitlement claim on the same or substantially the same basis as the Framework Agreement, and
 	- **(b)** in connection with the agreement referred to in paragraph (a), the Government of Canada and the Government of Saskatchewan enter into an agreement in the same or substantially the same form as the NRTA Amendment Agreement,
 the agreement between the Government of Canada and the Government of Saskatchewan referred to in paragraph (b) is hereby confirmed and shall take effect according to its terms.
-> 1993, c. 11, s. 3; 2002, c. 3, s. 12.
+> 1993, c. 11, s. 3; 2002, c. 3, s. 12
 
 
 
@@ -169,7 +169,7 @@ the agreement between the Government of Canada and the Government of Saskatchewa
 	- **(a)** an agreement is entered into with one or more Indian bands of Saskatchewan in settlement of a treaty land entitlement claim on the same or substantially the same basis as the Framework Agreement, and
 	- **(b)** an Indian band referred to in paragraph (a) assents or agrees, under paragraph 3(a) or (b) of the [Claim Settlements (Alberta and Saskatchewan) Implementation Act](/en/Acts/Statutes%20of%20Canada/2002/c.%203.md), to the application of that Act in relation to the agreement referred to in paragraph (a),
 this section does not apply, or thereupon ceases to apply, as the case may be, to the agreement referred to in paragraph (a) in so far as the agreement affects the Indian band so assenting or agreeing.
-> 1993, c. 11, s. 9; 2002, c. 3, s. 13.
+> 1993, c. 11, s. 9; 2002, c. 3, s. 13
 
 
 
@@ -194,8 +194,8 @@ this section does not apply, or thereupon ceases to apply, as the case may be, t
 
 **Application of Act to other agreements**
 
-- **(2)** Where an agreement is entered into with an Indian band of Saskatchewan in settlement of a treaty land entitlement claim on the same or substantially the same basis as the Framework Agreement, the Minister shall, having regard to subsection 9(4), cause a notice to be published in the Canada Gazette confirming the extent to which this Act applies to that agreement.
-> 1993, c. 11, s. 11; 2002, c. 3, s. 14.
+- **(2)** Where an agreement is entered into with an Indian band of Saskatchewan in settlement of a treaty land entitlement claim on the same or substantially the same basis as the Framework Agreement, the Minister shall, having regard to subsection 9(4), cause a notice to be published in the [Canada Gazette](http://www.gazette.gc.ca/) confirming the extent to which this Act applies to that agreement.
+> 1993, c. 11, s. 11; 2002, c. 3, s. 14
 
 
 
@@ -987,6 +987,30 @@ Subject to applicable legislation, the Band and Saskatchewan acknowledge that th
 
 
 Any provision of this Article which is found by a court of competent jurisdiction to conflict with or derogate from Treaty rights of the Band or its Members shall, to the extent of such conflict or derogation, be deemed to be null and void and of no further force or effect whatsoever.
+
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 29, s. 375(3)
+
+
+
+**Other reference to Minister**
+
+- **(3)** Unless the context requires otherwise, the reference to the “Minister” is to be read as a reference to the “Minister of Indigenous Services” in subsection 11(2) of the Saskatchewan Treaty Land Entitlement Act.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2018, c. 27, s. 679
+
+**679** Section 9 of the Saskatchewan Treaty Land Entitlement Act is repealed.
 
 
 
