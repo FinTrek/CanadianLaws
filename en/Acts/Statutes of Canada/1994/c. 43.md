@@ -98,7 +98,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 ***mines*** means mines, opened and unopened; (*mines*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre fédéral*)
+***Minister*** means the Minister of Northern Affairs; (*ministre fédéral*)
 
 ***navigable water*** means a stream, river, lake, sea or other body of water, used or capable of being used by the public for navigation by boats, kayaks, canoes, rafts or other small craft, or log booms on a continuous or seasonal basis, and includes any parts of those bodies of water interrupted by occasional natural obstructions or bypassed by portages; (*navigable*)
 
@@ -143,7 +143,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 - **(j)** White River First Nation; (*première nation*)
 
 ***Yukon Indian person*** means a person enrolled as such under a final agreement. (*Indien du Yukon*)
-> 1994, c. 43, s. 2; 1999, c. 31, s. 227.
+> 1994, c. 43, s. 2; 1999, c. 31, s. 2272019, c. 29, s. 374
 
 
 
@@ -213,7 +213,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 	- **(a)** a decision document issued under section 75, 76 or 77 of the [Yukon Environmental and Socio-economic Assessment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%207.md) by a federal agency that the federal agency is required to implement under subsection 82(2) of that Act;
 	- **(b)** a decision document that is issued under those sections by the territorial minister, to the extent that a territorial agency or municipal government is required to implement it under subsection 83(2) of that Act; and
 	- **(c)** a decision document that is issued under those sections by a first nation, to the extent that the first nation is required to implement it under subsections 84(2) and (3) of that Act.
-> 1994, c. 43, s. 5; 2003, c. 7, s. 131.
+> 1994, c. 43, s. 5; 2003, c. 7, s. 131
 
 
 
@@ -293,7 +293,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 **No disqualification**
 
 - **(3)** No person is disqualified from being appointed or continuing as a member of the Board or of a panel of the Board by reason only of being a Yukon Indian person or having an interest in land in the Yukon Territory.
-> 1994, c. 43, s. 10; 2013, c. 14, s. 12.
+> 1994, c. 43, s. 10; 2013, c. 14, s. 12
 
 
 
@@ -316,7 +316,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 **Tenure**
 
 - **(3)** A member holds office during good behaviour, but may be removed by the Minister for cause or for a ground set out in the by-laws of the Board made pursuant to paragraph 18(a).
-> 1994, c. 43, s. 11; 2013, c. 14, s. 13.
+> 1994, c. 43, s. 11; 2013, c. 14, s. 13
 
 
 
@@ -356,7 +356,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 **Workers compensation**
 
 - **(3)** A member is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 1994, c. 43, s. 15; 2003, c. 22, s. 224(E).
+> 1994, c. 43, s. 15; 2003, c. 22, s. 224(E)
 
 
 
@@ -365,7 +365,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 **Acts done in good faith**
 
 **15.1** No action lies against a member or an employee of the Board for anything done or omitted to be done in good faith in the performance, or purported performance, of any function under this Act.
-> 2013, c. 14, s. 14.
+> 2013, c. 14, s. 14
 
 
 
@@ -406,7 +406,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 - **(b)** respecting the assignment of members to panels of the Board;
 - **(b.1)** in the case of a member whose term has expired, respecting the member’s ability to continue to perform their functions in relation to a matter for which a hearing is held; and
 - **(c)** generally, respecting the conduct and management of the internal administrative affairs of the Board.
-> 1994, c. 43, s. 18; 2013, c. 14, s. 15.
+> 1994, c. 43, s. 18; 2013, c. 14, s. 15
 
 
 
@@ -481,7 +481,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 **Audit**
 
 - **(5)** The auditor of the Board shall audit the accounts, financial statements and financial transactions of the Board annually and shall make a report of the audit to the Board and to the Minister.
-> 1994, c. 43, s. 23; 2012, c. 19, s. 185; 2013, c. 14, s. 16; 2017, c. 26, s. 62.
+> 1994, c. 43, s. 23; 2012, c. 19, s. 185; 2013, c. 14, s. 16; 2017, c. 26, s. 62
 
 
 
@@ -698,7 +698,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 - **(c)** respecting the allowance of costs, including rules
 	- **(i)** establishing a schedule of fees and other expenses incurred by a party in relation to applications to or hearings before the Board that may be allowed as part of that party’s costs under section 68, and
 	- **(ii)** respecting the circumstances under which the Board may allow costs with respect to matters dealt with in the schedule of fees and other expenses on a basis other than that established by the schedule.
-> 1994, c. 43, s. 40; 1998, c. 5, s. 15(F).
+> 1994, c. 43, s. 40; 1998, c. 5, s. 15(F)
 
 
 
@@ -708,11 +708,11 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 **41** 
 
-- **(1)** At least thirty days before making a rule, the Board shall give notice of the proposed rule in the Canada Gazette and in a periodical that, in the opinion of the Board, has a large circulation in the Yukon and shall, in the notice, invite interested persons to make representations in writing to it with respect to the rule within thirty days after publication.
+- **(1)** At least thirty days before making a rule, the Board shall give notice of the proposed rule in the [Canada Gazette](http://www.gazette.gc.ca/) and in a periodical that, in the opinion of the Board, has a large circulation in the Yukon and shall, in the notice, invite interested persons to make representations in writing to it with respect to the rule within thirty days after publication.
 
 **Exception**
 
-- **(2)** Notice of a proposed rule need not be published more than once pursuant to subsection (1), whether or not the rule is amended after the publication as a result of representations made to the Board, but the rules shall be published in the Canada Gazette immediately after they are made.
+- **(2)** Notice of a proposed rule need not be published more than once pursuant to subsection (1), whether or not the rule is amended after the publication as a result of representations made to the Board, but the rules shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) immediately after they are made.
 
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
@@ -871,7 +871,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 **Publication of order**
 
-**49** The Board shall publish each order made under section 47 in the Canada Gazette and in such other manner as, in its opinion, will best bring it to the attention of those persons affected by it.
+**49** The Board shall publish each order made under section 47 in the [Canada Gazette](http://www.gazette.gc.ca/) and in such other manner as, in its opinion, will best bring it to the attention of those persons affected by it.
 
 
 
@@ -1093,8 +1093,10 @@ and includes works, machinery, plants and buildings below or above ground belong
 ***land*** includes any interest in land recognized by law; (*terre*)
 
 ***reservation*** means
-- **(a)** a reservation made in the land records of the Northern Affairs Program of the Department of Indian Affairs and Northern Development, or
+- **(a)** a reservation made in the land records of the Northern Affairs Program of the Department of Indigenous Services, or
 - **(b)** in the case of land under the administration and control of the Commissioner of the Yukon Territory, a reservation or notation made in the land records of the Lands Branch of the Department of Community and Transportation Services of the Government of the Yukon Territory. (*réserve*)
+> 1994, c. 43, s. 592019, c. 29, s. 372
+
 
 
 
@@ -1211,7 +1213,7 @@ and includes works, machinery, plants and buildings below or above ground belong
 **65** In the case of a dispute respecting access to non-settlement land between the following persons, the Board shall, on application of either person, make an order interpreting a provision described in paragraph (b) in relation to the right of access for purposes of the dispute:
 - **(a)** a person, other than Government, who has an interest or right in the surface of the land; and
 - **(b)** a person, other than Government, who has, in relation to a mineral right, a right of access on the land under any provision of a law of the Legislature of Yukon identified in regulations made pursuant to paragraph 78(f).
-> 1994, c. 43, s. 65; 1998, c. 5, s. 16; 2002, c. 7, s. 270.
+> 1994, c. 43, s. 65; 1998, c. 5, s. 16; 2002, c. 7, s. 270
 
 
 
@@ -1306,7 +1308,7 @@ and includes works, machinery, plants and buildings below or above ground belong
 **Exception**
 
 - **(2)** The Board may not review under this section an order made under section 55, 60, 63 or 65.
-> 1994, c. 43, s. 75; 1998, c. 5, s. 17(F).
+> 1994, c. 43, s. 75; 1998, c. 5, s. 17(F)
 
 
 
@@ -1345,7 +1347,7 @@ and includes works, machinery, plants and buildings below or above ground belong
 **Interim orders**
 
 - **(6)** On an application for judicial review, the Supreme Court may make such interim orders as it considers appropriate pending final disposition of the application.
-> 1994, c. 43, s. 76; 2002, c. 8, s. 181, c. 10, ss. 192(F), 202(F).
+> 1994, c. 43, s. 76; 2002, c. 8, s. 181, c. 10, ss. 192(F), 202(F)
 
 
 
@@ -1388,7 +1390,7 @@ and includes works, machinery, plants and buildings below or above ground belong
 - **(f.1)** [Repealed, 2002, c. 7, s. 271]
 - **(g)** authorizing the Board to exercise the additional powers or perform the additional duties or functions specified in a final agreement in relation to any particular parcel of settlement land; and
 - **(h)** generally for carrying the purposes and provisions of this Act into effect.
-> 1994, c. 43, s. 78; 1998, c. 5, s. 18; 2002, c. 7, s. 271.
+> 1994, c. 43, s. 78; 1998, c. 5, s. 18; 2002, c. 7, s. 271
 
 
 
@@ -1527,7 +1529,7 @@ and includes works, machinery, plants and buildings below or above ground belong
 **11** The agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Carcross/Tagish First Nation as represented by the Chief of the Carcross/Tagish First Nation, signed on October 22, 2005, respecting government by and for the First Nation.
 
 
-> 1994, c. 43, Sch. I; SOR/98-178; SOR/99-14; SOR/2002-378; SOR/2004-10; SOR/2005-70, 402.
+> 1994, c. 43, Sch. I; SOR/98-178; SOR/99-14; SOR/2002-378; SOR/2004-10; SOR/2005-70, 402
 
 
 
@@ -1715,6 +1717,38 @@ and the exercise of the right does not result in a significant alteration of tha
 
 
 
+
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2012, c. 19, s. 201
+
+
+**Yukon Surface Rights Board Act**
+
+**201** The obligation under subsection 23(5) of the Yukon Surface Rights Board Act, as that subsection read immediately before the day on which this Act receives royal assent, continues to apply in respect of the fiscal year beginning on April 1, 2011 but does not apply in respect of any subsequent fiscal year.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2002, c. 7, s. 283
+
+
+**Repeal**
+
+**283** The Yukon Surface Rights Board Act, chapter 43 of the Statutes of Canada, 1994, is repealed.
+
+
+
+######           — 2019, c. 28, s. 163
+
+**163** Section 55 of the Yukon Surface Rights Board Act is amended by replacing “[National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md)” with “[Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md)”.
 
 
 
