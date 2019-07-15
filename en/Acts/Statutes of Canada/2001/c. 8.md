@@ -316,11 +316,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **21** 
 
-- **(1)** For the purposes of subsection 29(3) of the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md), in relation to lands in the Kanesatake Mohawk interim land base, the survey and plans must be satisfactory to the Council rather than to the Minister of Indian Affairs and Northern Development.
+- **(1)** For the purposes of subsection 29(3) of the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md), in relation to lands in the Kanesatake Mohawk interim land base, the survey and plans must be satisfactory to the Council rather than to the Minister of Indigenous Services.
 
 **Exception**
 
 - **(2)** Subsection (1) does not apply in relation to boundaries between the Kanesatake Mohawk interim land base and other lands.
+> 2001, c. 8, s. 212019, c. 29, s. 375
+
 
 
 
@@ -375,6 +377,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **4** Lands described in Article 2.1.1 of the Management Agreement entered into between Her Majesty in right of Canada and Kanesatake Orihwa’shon:a Development Corporation on June 30, 1999
+
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 29, s. 372(2)
+
+
+
+**Other reference to Department of Indian Affairs and Northern Development**
+
+- **(2)** Unless the context requires otherwise, the reference to the “Department of Indian Affairs and Northern Development” is to be read as a reference to the “Department of Indigenous Services” in the English version of the portion of subsection 22(1) of the Kanesatake Interim Land Base Governance Act before paragraph (a).
+
+
+
+######           — 2019, c. 29, s. 375(2)
+
+
+
+**Other reference to Minister of Indian Affairs and Northern Development**
+
+- **(2)** Unless the context requires otherwise, the reference to the “Minister of Indian Affairs and Northern Development” is to be read as a reference to the “Minister of Indigenous Services” in the portion of subsection 22(1) of the Kanesatake Interim Land Base Governance Act before paragraph (a).
 
 
 
