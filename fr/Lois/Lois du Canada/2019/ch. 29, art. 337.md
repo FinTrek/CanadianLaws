@@ -291,3 +291,81 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** les renseignements confidentiels du Conseil privé de la Reine pour le Canada, définis au paragraphe 39(2) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md).
 
 
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 29, art. 341
+
+
+**Ministre des Relations Couronne-Autochtones**
+
+**341** 
+
+- **(1)** La personne occupant, à la date d’entrée en vigueur du présent article, la charge de ministre des Affaires indiennes et du Nord canadien est, à compter de cette date, réputée être le ministre visé à l’article 4 de la Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord, édictée par l’article 337 de la présente loi.
+
+**Ministre des Affaires du Nord**
+
+- **(2)** La personne occupant, à la date d’entrée en vigueur du présent article, la charge de ministre d’État délégué auprès du ministre des Affaires indiennes et du Nord canadien est, à compter de cette date, réputée être le ministre visé au paragraphe 11(1) de la Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord, édictée par l’article 337 de la présente loi.
+
+**Sous-ministre**
+
+- **(3)** La personne occupant, à la date d’entrée en vigueur du présent article, la charge de sous-ministre des Affaires indiennes et du Nord canadien est réputée avoir été nommée à cette date, en vertu de l’article 5 de la Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord, édictée par l’article 337 de la présente loi, sous-ministre des Relations Couronne-Autochtones.
+
+**Titulaires d’un poste**
+
+- **(4)** La présente loi ne change rien à la situation des personnes qui, à la date d’entrée en vigueur du présent article, occupent un poste — ou y sont affectées — au sein du ministère des Affaires indiennes et du Nord canadien, à la différence près que, à compter de cette date, elles occupent leur poste — ou y sont affectées — au sein du ministère des Relations Couronne-Autochtones et des Affaires du Nord.
+
+
+
+######           — 2019, ch. 29, art. 342
+
+
+**Transfert de crédits**
+
+**342** Les sommes affectées — et non déboursées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi de crédits, aux dépenses de l’administration publique fédérale à l’égard du ministère des Affaires indiennes et du Nord canadien sont, à compter de cette date, réputées être affectées aux dépenses de l’administration publique fédérale à l’égard du ministère des Relations Couronne-Autochtones et des Affaires du Nord.
+
+
+
+######           — 2019, ch. 29, art. 343
+
+
+**Validation des actes et décisions : relations Couronne-Autochtones**
+
+**343** Les actes accomplis et les décisions — notamment les approbations données à l’égard de permis délivrés — prises par la personne occupant la charge de ministre des Affaires indiennes et du Nord canadien pendant la période commençant le 30 novembre 2017 et se terminant à la date d’entrée en vigueur de l’article 337 de la présente loi sont, dans la mesure de leur validité au regard de la Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord, édictée par cet article 337, ou de toute autre loi fédérale, réputés fondés sur la Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord ou cette autre loi fédérale, selon le cas.
+
+
+
+######           — 2019, ch. 29, art. 344
+
+
+**Validation des actes et décisions : Affaires du Nord**
+
+**344** Les actes accomplis et les décisions — notamment les approbations données à l’égard de permis délivrés — prises par la personne occupant la charge de ministre d’État délégué auprès du ministre des Affaires indiennes et du Nord canadien pendant la période commençant le 30 novembre 2017 et se terminant à la date d’entrée en vigueur de l’article 337 de la présente loi sont, dans la mesure de leur validité au regard de la Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord, édictée par cet article 337, ou de toute autre loi fédérale, réputés fondés sur la Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord ou cette autre loi fédérale, selon le cas.
+
+
+
+######           — 2019, ch. 29, art. 345
+
+
+**Mentions dans certains accords**
+
+**345** 
+
+- **(1)** Sauf indication contraire du contexte, à l’entrée en vigueur de l’article 337, dans les accords sur les revendications territoriales, sur les revendications particulières ou sur l’autonomie gouvernementale, la mention du ministre des Affaires indiennes et du Nord canadien ou du ministère des Affaires indiennes et du Nord canadien vaut mention du ministre des Relations Couronne-Autochtones ou du ministère des Relations Couronne-Autochtones et des Affaires du Nord, selon le cas.
+
+**Mentions dans d’autres documents**
+
+- **(2)** Sauf indication contraire du contexte, à l’entrée en vigueur des articles 336 et 337, dans les contrats, actes, accords — autres que ceux visés au paragraphe (1) — ou autres documents, la mention du ministre des Affaires indiennes et du Nord canadien ou du ministère des Affaires indiennes et du Nord canadien vaut mention du ministre des Relations Couronne-Autochtones, du ministre des Affaires du Nord, du ministre des Services aux Autochtones, du ministère des Relations Couronne-Autochtones et des Affaires du Nord ou du ministère des Services aux Autochtones, selon le cas.
+
+
+
+######           — 2019, ch. 29, art. 346
+
+
+**Règlements**
+
+**346** Le gouverneur en conseil peut prendre les règlements qu’il estime nécessaires en ce qui concerne toute autre mesure transitoire qui découle de l’entrée en vigueur de la présente loi.
+
+
+
