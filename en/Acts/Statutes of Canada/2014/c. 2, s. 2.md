@@ -62,7 +62,7 @@ Assented to on 25 March 2014
 
 ***minerals*** means precious or base metals or other non-living naturally occurring substances — including coal, but not including oil, gas or water — that are, or were before their production, part of the land, whether solid, liquid or gaseous. (*ressources minérales*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Northern Affairs. (*ministre*)
 
 ***Northwest Territories*** means that part of Canada that is north of the 60th parallel of north latitude, west of the boundary described in Schedule I to the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md) and not within Yukon. (*Territoires du Nord-Ouest*)
 
@@ -98,6 +98,8 @@ It does not include lands that lie seaward of the line of delimitation, other th
 ***Tlicho Agreement*** means the Agreement as defined in section 2 of the [Tlicho Land Claims and Self-Government Act](/en/Acts/Statutes%20of%20Canada/2005/c.%201.md). (*accord tlicho*)
 
 ***waters*** means any inland waters — whether in a liquid or frozen state — that are on or below the surface of lands that are situated in the onshore. (*eaux*)
+> 2014, c. 2, s. 2 “2”2019, c. 29, s. 374
+
 
 
 
@@ -126,7 +128,7 @@ It does not include lands that lie seaward of the line of delimitation, other th
 
 **Publication of order**
 
-- **(2)** The order appointing the Commissioner must be published in the Canada Gazette.
+- **(2)** The order appointing the Commissioner must be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Instructions**
 
@@ -148,7 +150,7 @@ It does not include lands that lie seaward of the line of delimitation, other th
 **Absence, inability or vacancy**
 
 - **(2)** The Chief Justice of the Supreme Court of the Northwest Territories is authorized to act as Deputy Commissioner during the Deputy Commissioner’s absence or inability or when that office is vacant.
-> 2014, c. 2, s. 2 “5”; 2017, c. 33, s. 258.
+> 2014, c. 2, s. 2 “5”; 2017, c. 33, s. 258
 
 
 
@@ -864,7 +866,7 @@ It does not include lands that lie seaward of the line of delimitation, other th
 **Amount of compensation**
 
 - **(5)** That person must determine that value on a basis similar to the determination of the fair actual value of the improvements — at the time the Governor in Council takes or has relinquished to it the administration and control of the lands — calculated in accordance with the method for calculating the fair actual value of improvements to land set out in a law of general application of the Legislature relating to the assessment of taxes on real property. That value is the amount of compensation.
-> 2014, c. 2, s. 2 “59”; 2017, c. 26, s. 55(F).
+> 2014, c. 2, s. 2 “59”; 2017, c. 26, s. 55(F)
 
 
 
@@ -944,7 +946,7 @@ It does not include lands that lie seaward of the line of delimitation, other th
 **Extension of period of Legislative Assembly**
 
 - **(2)** Despite subsection (1), if the election period for the first general election after the coming into force of section 1 would overlap with the election period for a general election to be held under subsection 56.1(2) or section 56.2 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), the period during which the members referred to in subsection (1) continue in office as members of the Legislative Assembly may be extended until five years from the date fixed for the return of the writs at the last general election under the former Act, but the Commissioner may dissolve the Legislative Assembly before then.
-> 2014, c. 2, s. 2 "65", c. 39, s. 224.
+> 2014, c. 2, s. 2 "65", c. 39, s. 224
 
 
 
@@ -986,7 +988,7 @@ It does not include lands that lie seaward of the line of delimitation, other th
 	- **(ii)** is a renewal, replacement or successor of such a licence if a right to that renewal, replacement or successor exists immediately before that coming into force.
 
 For greater certainty, it includes a right or interest referred to in paragraph (a), (b), (c), (d) or (e) that is an encumbering right, as well as an interest referred to in subsection 117.2(1) of the [Canada Petroleum Resources Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2036%20(2nd%20Supp.).md) that is in respect of the portion of those lands situated in the onshore. (*intérêt existant*)
-> 2014, c. 2, s. 2 “68”; 2017, c. 26, s. 56(F).
+> 2014, c. 2, s. 2 “68”; 2017, c. 26, s. 56(F)
 
 
 
@@ -1063,7 +1065,7 @@ For greater certainty, it includes a right or interest referred to in paragraph 
 **Indemnification — obligations under Agreement**
 
 - **(2)** The Government of the Northwest Territories must indemnify the Government of Canada, or any of its employees or agents, against all costs, charges and expenses, including amounts paid to settle an action or satisfy a judgment, that are reasonably incurred in respect of any claim, action or other proceeding brought against the Government of Canada, or any of its employees or agents, arising out of a failure by the Government of the Northwest Territories, or any of its employees or agents, to meet its obligations under the Agreement in respect of a federal employee.
-> 2014, c. 2, s. 2 “73”; 2017, c. 26, s. 57(F).
+> 2014, c. 2, s. 2 “73”; 2017, c. 26, s. 57(F)
 
 
 
@@ -1086,7 +1088,7 @@ For greater certainty, it includes a right or interest referred to in paragraph 
 **Indemnification — Aboriginal party**
 
 - **(2)** The Government of Canada must indemnify an Aboriginal party, or any of its employees or agents, against all costs, charges and expenses, including amounts paid to settle an action or satisfy a judgement, that are reasonably incurred in respect of any claim, action or other proceeding brought against that Aboriginal party, or any of its employees or agents, arising out of any act or omission of the Government of Canada, or any of its employees or agents, occurring in respect of remediation performed under the Agreement on that Aboriginal party’s settlement lands.
-> 2014, c. 2, s. 2 “74”; 2017, c. 26, s. 58(F).
+> 2014, c. 2, s. 2 “74”; 2017, c. 26, s. 58(F)
 
 
 
@@ -1095,7 +1097,7 @@ For greater certainty, it includes a right or interest referred to in paragraph 
 **Limitation on indemnification**
 
 **75** The Government of Canada, the Government of the Northwest Territories or an Aboriginal party — or an employee or agent of any of them — is not entitled to be indemnified under section 73 or 74 if the claim, action or proceeding is settled out of court without the written consent of the Government that is required to provide the indemnity.
-> 2014, c. 2, s. 2 “75”; 2017, c. 26, s. 59(F).
+> 2014, c. 2, s. 2 “75”; 2017, c. 26, s. 59(F)
 
 
 
@@ -1155,5 +1157,24 @@ For greater certainty, it includes a right or interest referred to in paragraph 
 
 
 **80** [Amendment]
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2014, c. 2, s. 2 "80" [in force but has not yet had its effect]
+
+
+**Repeal — subsections 4(3) and (4)**
+
+**80** Subsections 4(3) and (4) are repealed 10 years after the day on which section 1 comes into force.
+
+
+
+######           — 2019, c. 28, s. 185
+
+**185** Subsection 22(2) of the Northwest Territories Act is amended by replacing “National Energy Board” with “Canadian Energy Regulator”.
+
 
 
