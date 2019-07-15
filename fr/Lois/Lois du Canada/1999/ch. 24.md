@@ -27,7 +27,7 @@ que la ratification de cet accord-cadre par Sa Majesté est subordonnée à l’
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
-> 1999, ch. 24, préambule; 2018, ch. 27, art. 352..
+> 1999, ch. 24, préambule; 2018, ch. 27, art. 352.
 
 
 
@@ -74,7 +74,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***membre de la première nation*** Personne dont le nom apparaît sur la liste de bande relative à la première nation ou qui a droit à ce que son nom y figure. (*First Nation member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***permis*** S’agissant des terres de la première nation :
 - **a)** situées au Canada mais ailleurs qu’au Québec, tout droit d’usage ou d’occupation portant sur celles-ci ou toute permission au même effet, autre qu’un intérêt;
@@ -97,7 +97,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pas un accord sur des revendications territoriales**
 
 - **(3)** Il est entendu que ni l’accord-cadre ni la présente loi constitue un accord sur des revendications territoriales au sens de l’article 35 de la Loi constitutionnelle de 1982.
-> 1999, ch. 24, art. 2; 2007, ch. 17, art. 1; 2012, ch. 19, art. 627 et 652(A); 2018, ch. 27, art. 353.
+> 1999, ch. 24, art. 2; 2007, ch. 17, art. 1; 2012, ch. 19, art. 627 et 652(A); 2018, ch. 27, art. 3532019, ch. 29, art. 373
 
 
 
@@ -137,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** la présente loi et l’accord-cadre n’ont pas pour effet de modifier le titre de propriété des terres de la première nation;
 - **b)** les terres d’une réserve auxquelles s’applique le code foncier continuent d’être mises de côté à l’usage et au profit de la première nation concernée;
 - **c)** les terres d’une réserve auxquelles s’applique le code foncier continuent d’être des terres réservées aux Indiens au sens de la catégorie 24 de l’article 91 de la Loi constitutionnelle de 1867.
-> 1999, ch. 24, art. 5; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 354.
+> 1999, ch. 24, art. 5; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 354
 
 
 
@@ -146,7 +146,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Terres mises de côté**
 
 **5.1** Il est entendu que les terres mises de côté auxquelles s’applique le code foncier ne sont pas des réserves.
-> 2018, ch. 27, art. 354.
+> 2018, ch. 27, art. 354
 
 
 
@@ -191,7 +191,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** précise les droits ou intérêts et les permis qui ont été accordés par Sa Majesté relativement aux terres en question ainsi que la date et les autres modalités du transfert, à la première nation, des droits et obligations de Sa Majesté à l’égard de ceux-ci;
 	- **c)** établit un régime d’évaluation environnementale applicable aux projets d’exploitation devant être mis en oeuvre sur les terres en question jusqu’à la prise de textes législatifs sur le sujet;
 	- **d)** prévoit tout autre élément pertinent.
-> 1999, ch. 24, art. 6; 2007, ch. 17, art. 2; 2012, ch. 19, art. 628 et 652(A); 2018, ch. 27, art. 355.
+> 1999, ch. 24, art. 6; 2007, ch. 17, art. 2; 2012, ch. 19, art. 628 et 652(A); 2018, ch. 27, art. 355
 
 
 
@@ -224,7 +224,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entrée en vigueur des codes fonciers**
 
 - **(5)** Pour l’application de l’article 16, du paragraphe 31(2) et des articles 34, 38 et 39 à l’égard d’une réserve visée au paragraphe (1), l’entrée en vigueur du code foncier est réputée être la date d’entrée en vigueur des modifications apportées aux codes fonciers en application du paragraphe (2).
-> 2018, ch. 27, art. 356.
+> 2018, ch. 27, art. 356
 
 
 
@@ -233,7 +233,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Arpentage facultatif**
 
 **6.1** L’arpenteur général peut, s’il l’estime indiqué, arpenter ou faire arpenter, en vertu de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md), les terres à l’égard desquelles une description est préparée en vertu des alinéas 6(1)a) ou 6.01(1)b).
-> 2012, ch. 19, art. 629; 2018, ch. 27, art. 356.
+> 2012, ch. 19, art. 629; 2018, ch. 27, art. 356
 
 
 
@@ -254,7 +254,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** L’exclusion est invalide si elle a pour effet d’assujettir un bail, quelque autre intérêt ou quelque droit à plus d’un régime de gestion.
 
 - **(3)** [Abrogé, 2012, ch. 19, art. 630]
-> 1999, ch. 24, art. 7; 2007, ch. 17, art. 3; 2012, ch. 19, art. 630 et 652(A); 2018, ch. 27, art. 357.
+> 1999, ch. 24, art. 7; 2007, ch. 17, art. 3; 2012, ch. 19, art. 630 et 652(A); 2018, ch. 27, art. 357
 
 
 
@@ -273,7 +273,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réserve — effets de l’exclusion**
 
 - **(3)** L’exclusion n’a pas pour effet d’empêcher la première nation ou Sa Majesté de faire valoir, dans le cadre de toute action, poursuite ou autre procédure, que les terres en question font partie de la réserve ou de la parcelle de terres mises de côté.
-> 2012, ch. 19, art. 631; 2018, ch. 27, art. 358.
+> 2012, ch. 19, art. 631; 2018, ch. 27, art. 358
 
 
 
@@ -282,7 +282,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ajout de terres auparavant exclues**
 
 **7.2** La première nation est tenue de modifier le code foncier de façon à y ajouter la description de la partie de la réserve, de la parcelle de terres mises de côté ou des terres, selon le cas, auparavant exclues, si elle et le ministre concluent que l’exclusion au titre des paragraphes 7(1) ou 7.1(1) n’est plus justifiée. L’accord spécifique doit être modifié en conséquence.
-> 2012, ch. 19, art. 631; 2018, ch. 27, art. 359.
+> 2012, ch. 19, art. 631; 2018, ch. 27, art. 359
 
 
 
@@ -304,7 +304,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Différends**
 
 - **(2)** Le vérificateur est en outre chargé de régler les différends qui surviennent, avant l’entrée en vigueur du code foncier, entre la première nation et le ministre relativement soit aux modalités de transfert des pouvoirs et fonctions en matière de gestion, soit à l’exclusion de toute partie d’une réserve ou d’une parcelle de terres mises de côté de l’application du code foncier.
-> 1999, ch. 24, art. 8; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 360.
+> 1999, ch. 24, art. 8; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 360
 
 
 
@@ -313,7 +313,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nomination de l’agent de ratification**
 
 **8.1** La première nation peut nommer un agent de ratification chargé de décider de la conformité du déroulement de la consultation populaire avec le mécanisme ayant fait l’objet de l’attestation prévue à l’alinéa 8(1)a).
-> 2018, ch. 27, art. 361.
+> 2018, ch. 27, art. 361
 
 
 
@@ -328,7 +328,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motifs**
 
 - **(2)** En cas de conclusion défavorable, il consigne aussi ses motifs, qu’il joint à sa décision.
-> 1999, ch. 24, art. 9; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 9; 2012, ch. 19, art. 652(A)
 
 
 
@@ -359,7 +359,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titulaires de droits ou intérêts**
 
 - **(4)** Il est en outre tenu de prendre, en temps utile avant le scrutin, les mesures indiquées pour porter la présente loi, le projet de code foncier et la date prévue pour le scrutin à la connaissance de tout autre titulaire de droits ou intérêts sur les terres en question.
-> 1999, ch. 24, art. 10; 2007, ch. 17, art. 4; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 362.
+> 1999, ch. 24, art. 10; 2007, ch. 17, art. 4; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 362
 
 
 
@@ -378,7 +378,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapport**
 
 - **(3)** Il adresse à la première nation et au ministre, dans les quinze jours suivant la clôture du scrutin, son rapport au sujet du déroulement.
-> 1999, ch. 24, art. 11; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 11; 2012, ch. 19, art. 652(A)
 
 
 
@@ -387,7 +387,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Agent de ratification**
 
 **11.1** Si un agent de ratification est nommé en vertu de l’article 8.1, il exerce les attributions du vérificateur prévues à l’article 11. Il doit également adresser le rapport visé au paragraphe 11(3) au vérificateur.
-> 2018, ch. 27, art. 363.
+> 2018, ch. 27, art. 363
 
 
 
@@ -404,7 +404,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Le conseil peut, par résolution, fixer :
 	- **a)** un taux de participation minimum;
 	- **b)** un taux d’approbation supérieur à celui prévu au paragraphe (1).
-> 1999, ch. 24, art. 12; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 363.
+> 1999, ch. 24, art. 12; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 363
 
 
 
@@ -419,7 +419,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dénonciation**
 
 - **(2)** Tout électeur peut, dans les cinq jours suivant la clôture du scrutin, informer le vérificateur de toute irrégularité dont a été entaché le déroulement du scrutin.
-> 1999, ch. 24, art. 13; 2012, ch. 19, art. 632; 2018, ch. 27, art. 364.
+> 1999, ch. 24, art. 13; 2012, ch. 19, art. 632; 2018, ch. 27, art. 364
 
 
 
@@ -444,7 +444,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(3)** Une fois sa validité attestée par le vérificateur, le code est réputé dûment approuvé par la première nation.
-> 1999, ch. 24, art. 14; 2012, ch. 19, art. 633(A) et 652(A); 2018, ch. 27, art. 365.
+> 1999, ch. 24, art. 14; 2012, ch. 19, art. 633(A) et 652(A); 2018, ch. 27, art. 365
 
 
 
@@ -467,7 +467,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Code foncier disponible au public**
 
 - **(2)** Après l’entrée en vigueur du code foncier de la première nation ou d’une modification apportée au code, la première nation publie le code, sans délai, sur son site Internet, si elle en a un, et met un exemplaire du code à la disposition de toute personne qui en fait la demande.
-> 1999, ch. 24, art. 15; 2012, ch. 19, art. 634 et 652(A); 2018, ch. 27, art. 366.
+> 1999, ch. 24, art. 15; 2012, ch. 19, art. 634 et 652(A); 2018, ch. 27, art. 366
 
 
 
@@ -494,7 +494,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Désignations en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
 
 - **(5)** Les modalités de toute désignation faite en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) avant la date d’entrée en vigueur du code foncier, n’ont pas pour effet de faire obstacle à la modification après cette date, par la première nation et le détenteur d’un droit ou intérêt ou d’un permis détenus relativement aux terres de la première nation, de ce droit ou intérêt ou de ce permis.
-> 1999, ch. 24, art. 16; 2007, ch. 17, art. 5; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 367.
+> 1999, ch. 24, art. 16; 2007, ch. 17, art. 5; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 367
 
 
 
@@ -538,7 +538,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Organe de gestion**
 
 - **(4)** Tout organe mis sur pied en vue de la gestion des terres de la première nation est une entité juridique dotée de la capacité d’une personne physique.
-> 1999, ch. 24, art. 18; 2007, ch. 17, art. 7; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 18; 2007, ch. 17, art. 7; 2012, ch. 19, art. 652(A)
 
 
 
@@ -553,7 +553,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décharge : Sa Majesté**
 
 - **(2)** Sa Majesté ne peut être tenue pour responsable des faits — actes ou omissions — commis par la première nation ou son délégué en la matière à l’égard de la gestion des fonds provenant du compte de revenu ou du compte en capital transférés à la première nation sous le régime de la présente loi.
-> 1999, ch. 24, art. 19; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 369.
+> 1999, ch. 24, art. 19; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 369
 
 
 
@@ -629,7 +629,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***époux*** S’entend au sens du paragraphe 2(1) de la [Loi sur les foyers familiaux situés dans les réserves et les droits ou intérêts matrimoniaux](/fr/Lois/Lois%20du%20Canada/2013/ch.%2020.md). (*spouse*)
 
 ***foyer familial*** La construction à caractère permanent ou non, située sur les terres de la première nation, où les époux ou conjoints de fait résident habituellement ou, en cas de cessation de la cohabitation ou de décès de l’un d’eux, où ils résidaient habituellement à la date de la cessation ou du décès. Si la construction est aussi normalement utilisée à des fins autres que résidentielles, la présente définition vise uniquement la partie de la construction qui peut raisonnablement être considérée comme nécessaire à des fins résidentielles. (*family home*)
-> 1999, ch. 24, art. 20; 2007, ch. 17, art. 8; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 370.
+> 1999, ch. 24, art. 20; 2007, ch. 17, art. 8; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 370
 
 
 
@@ -648,7 +648,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Régime d’évaluation environnementale**
 
 - **(3)** Les textes législatifs doivent, dans la mesure prévue par l’accord-cadre, établir, en conformité avec celui-ci, un régime d’évaluation environnementale applicable aux projets d’exploitation devant être réalisés sur les terres de la première nation et dont celle-ci est le promoteur ou le commanditaire ou qui nécessitent son approbation ou sont assujettis à son pouvoir de réglementation.
-> 1999, ch. 24, art. 21; 2012, ch. 19, art. 635.
+> 1999, ch. 24, art. 21; 2012, ch. 19, art. 635
 
 
 
@@ -670,7 +670,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** engager ses propres procureurs;
 	- **b)** conclure avec le gouvernement d’une province un accord prévoyant le recours aux procureurs provinciaux;
 	- **c)** conclure avec Sa Majesté un accord prévoyant le recours aux mandataires de celle-ci.
-> 1999, ch. 24, art. 22; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 371.
+> 1999, ch. 24, art. 22; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 371
 
 
 
@@ -679,7 +679,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve**
 
 **23** La copie d’un texte législatif paraissant certifiée conforme par un fonctionnaire de la première nation — ou, dans le cas d’un texte législatif applicable à la partie des terres de la première nation qui est une réserve visée au paragraphe 6.01(1), par un fonctionnaire de l’une ou l’autre des premières nations visées à ce paragraphe — fait foi, dans le cadre de toute procédure, de la date de prise qui y est inscrite sans qu’il soit nécessaire de prouver l’authenticité de la signature ou la qualité officielle du signataire.
-> 1999, ch. 24, art. 23; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 372.
+> 1999, ch. 24, art. 23; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 372
 
 
 
@@ -706,7 +706,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Tribunal compétent**
 
 - **(5)** À défaut de nomination de juges de paix, c’est le tribunal compétent de la province où les terres de la première nation sont situées qui est chargé de veiller à l’application des textes législatifs.
-> 1999, ch. 24, art. 24; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 24; 2012, ch. 19, art. 652(A)
 
 
 
@@ -732,7 +732,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** la nomination, la rémunération et les attributions des fonctionnaires nécessaires à la tenue du registre;
 	- **d)** la conservation par ceux-ci des documents non susceptibles d’enregistrement;
 	- **e)** le transfert de la tenue du registre à toute personne ou à tout organisme et la communication de renseignements personnels au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) à cette fin.
-> 1999, ch. 24, art. 25; 2007, ch. 17, art. 9; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 373.
+> 1999, ch. 24, art. 25; 2007, ch. 17, art. 9; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 373
 
 
 
@@ -769,7 +769,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entrée en vigueur du code foncier**
 
 - **(6)** Pour l’application des articles 16, 34 et 38 à l’égard des terres de la première nation visées par l’arrêté, l’entrée en vigueur du code foncier est réputée être la date de la prise de l’arrêté.
-> 2018, ch. 27, art. 374.
+> 2018, ch. 27, art. 374
 
 
 
@@ -792,7 +792,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(4)** La première nation est tenue d’indemniser Sa Majesté des pertes attribuables à de tels faits.
-> 2018, ch. 27, art. 374.
+> 2018, ch. 27, art. 374
 
 
 
@@ -811,7 +811,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Expropriation**
 
 - **(2)** Par ailleurs, seuls Sa Majesté et la première nation peuvent procéder à l’expropriation de droits ou intérêts sur ces terres, et ce en conformité avec l’accord-cadre et la présente loi.
-> 1999, ch. 24, art. 26; 2007, ch. 17, art. 10; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 26; 2007, ch. 17, art. 10; 2012, ch. 19, art. 652(A)
 
 
 
@@ -834,7 +834,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation populaire**
 
 - **(4)** Il doit être approuvé par les membres de la première nation selon les modalités prévues par le code foncier, puis réalisé conformément à l’accord-cadre.
-> 1999, ch. 24, art. 27; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 375.
+> 1999, ch. 24, art. 27; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 375
 
 
 
@@ -865,7 +865,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlement des différends**
 
 - **(6)** Les différends relatifs à l’indemnisation sont réglés selon le système mis sur pied à cette fin par la première nation en conformité avec l’accord-cadre.
-> 1999, ch. 24, art. 28; 2007, ch. 17, art. 11; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 28; 2007, ch. 17, art. 11; 2012, ch. 19, art. 652(A)
 
 
 
@@ -900,7 +900,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai**
 
 - **(6)** Le gouverneur en conseil ne peut donner son agrément avant l’expiration du délai prévu au paragraphe (5) ou, en cas de renvoi à un conciliateur, avant que celui-ci ait remis son rapport.
-> 1999, ch. 24, art. 29; 2007, ch. 17, art. 12; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 29; 2007, ch. 17, art. 12; 2012, ch. 19, art. 652(A)
 
 
 
@@ -911,7 +911,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **30** Dans les cas où l’expropriation par Sa Majesté ne vise pas l’intégralité du droit ou de l’intérêt de la première nation sur les terres en question :
 - **a)** celles-ci demeurent des terres de la première nation assujetties aux dispositions de son code foncier et de ses textes législatifs qui sont compatibles avec les conditions de l’expropriation;
 - **b)** la première nation a le droit de continuer de les occuper et de les utiliser pour autant qu’elle ne contrevienne pas aux conditions de l’expropriation.
-> 1999, ch. 24, art. 30; 2007, ch. 17, art. 13; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 30; 2007, ch. 17, art. 13; 2012, ch. 19, art. 652(A)
 
 
 
@@ -948,7 +948,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limite**
 
 - **(6)** Le recouvrement de toute réclamation ou la réalisation de tout grèvement, relativement aux intérêts expropriés par Sa Majesté, ne peuvent être poursuivis que jusqu’à concurrence de l’indemnité versée au titre du présent article. Au Québec, le recouvrement de tout droit, charge ou réclamation relativement aux droits expropriés par Sa Majesté ne peut être poursuivi que jusqu’à concurrence de l’indemnité versée au titre du présent article.
-> 1999, ch. 24, art. 31; 2007, ch. 17, art. 14; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 376.
+> 1999, ch. 24, art. 31; 2007, ch. 17, art. 14; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 376
 
 
 
@@ -967,7 +967,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Différend**
 
 - **(3)** En cas de différend relatif aux modalités visées au paragraphe (1), la première nation ou l’expropriant peut renvoyer l’affaire à un arbitre en conformité avec l’accord-cadre.
-> 1999, ch. 24, art. 32; 2007, ch. 17, art. 15; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 32; 2007, ch. 17, art. 15; 2012, ch. 19, art. 652(A)
 
 
 
@@ -976,7 +976,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md)**
 
 **33** Les dispositions de la présente loi l’emportent, en ce qui touche l’expropriation de droits ou intérêts sur les terres de la première nation par Sa Majesté, sur les dispositions incompatibles de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md).
-> 1999, ch. 24, art. 33; 2007, ch. 17, art. 16; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 33; 2007, ch. 17, art. 16; 2012, ch. 19, art. 652(A)
 
 
 
@@ -1003,7 +1003,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(4)** La première nation est tenue d’indemniser Sa Majesté des pertes attribuables à de tels faits.
-> 1999, ch. 24, art. 34; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 34; 2012, ch. 19, art. 652(A)
 
 
 
@@ -1016,7 +1016,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Immunité**
 
 **35** Les vérificateurs, agents de ratification, arbitres, conciliateurs ou médiateurs nommés sous le régime de l’accord-cadre ou de la présente loi ainsi que les membres de tout organe constitué sous le régime de l’article 38 de l’accord-cadre bénéficient de l’immunité en matière civile ou pénale pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions qui leur sont conférés sous le régime de l’accord-cadre ou de la présente loi.
-> 1999, ch. 24, art. 35; 2018, ch. 27, art. 377.
+> 1999, ch. 24, art. 35; 2018, ch. 27, art. 377
 
 
 
@@ -1035,7 +1035,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contrôle judiciaire**
 
 - **(3)** Malgré ce qui est prévu aux paragraphes (1) et (2), le procureur général du Canada ou quiconque est directement touché par l’affaire peut présenter à la Cour fédérale une demande de contrôle judiciaire, pour l’un des motifs prévus aux alinéas 18.1(4)a) ou b) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), afin d’obtenir, contre l’arbitre, le vérificateur, l’agent de ratification ou le conciliateur, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
-> 1999, ch. 24, art. 36; 2002, ch. 8, art. 182; 2018, ch. 27, art. 377.
+> 1999, ch. 24, art. 36; 2002, ch. 8, art. 182; 2018, ch. 27, art. 377
 
 
 
@@ -1073,7 +1073,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application étendue**
 
 - **(3)** Le code foncier peut par ailleurs étendre l’application du paragraphe 89(1.1) de cette loi — même en partie seulement — à tout autre bail ou intérêt à bail relatif aux terres d’une réserve auxquelles il s’applique.
-> 1999, ch. 24, art. 38; 2007, ch. 17, art. 17; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 378.
+> 1999, ch. 24, art. 38; 2007, ch. 17, art. 17; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 378
 
 
 
@@ -1088,7 +1088,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Redevances**
 
 - **(2)** Sans que soit limitée la portée générale de ce qui précède, les dispositions de cette loi prévoyant le paiement de redevances à Sa Majesté en fiducie pour les premières nations s’appliquent malgré toute autre disposition de la présente loi.
-> 1999, ch. 24, art. 39; 2007, ch. 17, art. 18; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 379.
+> 1999, ch. 24, art. 39; 2007, ch. 17, art. 18; 2012, ch. 19, art. 652(A); 2018, ch. 27, art. 379
 
 
 
@@ -1103,7 +1103,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pêche, oiseaux migrateurs ou espèces menacées d’extinction**
 
 - **(2)** Il est aussi entendu que la présente loi n’a pas pour effet d’étendre ou de restreindre quelque droit ou pouvoir que ce soit en matière de pêche, d’oiseaux migrateurs ou d’espèces menacées d’extinction.
-> 1999, ch. 24, art. 40; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 40; 2012, ch. 19, art. 652(A)
 
 
 
@@ -1116,7 +1116,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md)**
 
 **42** La [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md) continue de s’appliquer aux terres de la première nation, à la différence, toutefois, que les mesures visant la réquisition ou l’usage de ces terres doivent être prises au moyen d’un décret explicite à cet égard.
-> 1999, ch. 24, art. 42; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 42; 2012, ch. 19, art. 652(A)
 
 
 
@@ -1131,7 +1131,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Expropriation**
 
 - **(2)** Les dispositions de la présente loi en matière d’expropriation l’emportent sur les dispositions incompatibles de la [Loi sur l’énergie nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-16.md).
-> 1999, ch. 24, art. 43 et 47; 2012, ch. 19, art. 652(A).
+> 1999, ch. 24, art. 43 et 47; 2012, ch. 19, art. 652(A)
 
 
 
@@ -1140,7 +1140,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 **44** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas au code foncier, aux textes législatifs et aux arrêtés pris en application du paragraphe 25.1(1).
-> 1999, ch. 24, art. 44; 2012, ch. 19, art. 652(A); 2019, ch. 29, art. 384.
+> 1999, ch. 24, art. 44; 2012, ch. 19, art. 652(A)2019, ch. 29, art. 384
 
 
 
@@ -1167,7 +1167,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suppression**
 
 - **(4)** Le ministre peut, par arrêté, supprimer des annexes 1 ou 2 le nom d’une première nation et supprimer de l’annexe 2 la date d’entrée en vigueur du code foncier applicable à des terres de cette première nation, si celle-ci n’est plus assujettie à la présente loi aux termes d’un accord sur des revendications territoriales ou sur l’autonomie gouvernementale.
-> 1999, ch. 24, art. 45; 2012, ch. 19, art. 636; 2018, ch. 27, art. 380.
+> 1999, ch. 24, art. 45; 2012, ch. 19, art. 636; 2018, ch. 27, art. 380
 
 
 
@@ -1199,7 +1199,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation d’informer les membres**
 
 - **(2)** Le conseil d’une première nation doit, au moins trente jours avant la modification de l’accord spécifique, informer les membres de la première nation de son intention de modifier l’accord et de la somme totale des fonds détenus par Sa Majesté à l’usage et au profit de la première nation ou de ses membres.
-> 2018, ch. 27, art. 382.
+> 2018, ch. 27, art. 382
 
 
 
@@ -1704,7 +1704,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </tr>
 </table>
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; 2014, ch. 11, art. 25; DORS/2014-89, 268; DORS/2016-27, 67; DORS/2017-46; 2018, ch. 27, art. 383.
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; 2014, ch. 11, art. 25; DORS/2014-89, 268; DORS/2016-27, 67; DORS/2017-46; 2018, ch. 27, art. 383
 
 
 
@@ -2069,6 +2069,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </tr>
 </table>
 
-> 2018, ch. 27, art. 383.
+> 2018, ch. 27, art. 383
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2008, ch. 32, art. 22
+
+
+**Intérêts existants : Loi sur la gestion des terres des premières nations**
+
+**22** Malgré l’article 13, les intérêts sur les terres de l’ancienne réserve de Tsawwassen accordés ou approuvés sous le régime de la Loi sur la gestion des terres des premières nations et existants à la date d’entrée en vigueur de l’accord sont maintenus, ainsi que les conditions dont ils sont assortis, à moins qu’un intérêt de remplacement soit accordé conformément au chapitre 4 de l’accord.
+
+
+
+######           — 2008, ch. 32, art. 24
+
+
+**Indemnisation de la Première Nation de Tsawwassen**
+
+**24** Tant que la Loi sur la gestion des terres des premières nations demeure en vigueur, Sa Majesté du chef du Canada est tenue, à compter de la date d’entrée en vigueur de l’accord, d’indemniser la Première Nation de Tsawwassen à l’égard des terres de l’ancienne réserve de Tsawwassen, selon les mêmes conditions et modalités que celles qui seraient applicables si cette loi continuait de s’appliquer à l’égard de ces terres.
+
+
+
+######           — 2008, ch. 32, art. 25
+
+
+**Registres des terres**
+
+**25** À compter de la date d’entrée en vigueur de l’accord, les inscriptions et dossiers relatifs aux terres tsawwassennes figurant dans tout registre des terres en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ou de la Loi sur la gestion des terres des premières nations sont sans effet.
+
 
 
