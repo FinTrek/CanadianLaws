@@ -49,7 +49,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi autochtone*** Loi visée au paragraphe 9(1). (*First Nation law*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***première nation participante*** Bande dont le nom figure à l’annexe. (*participating First Nation*)
 
@@ -58,6 +58,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Terminologie : [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
 
 - **(2)** Sauf indication contraire du contexte, les autres termes utilisés dans la présente loi s’entendent au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+> 2006, ch. 10, art. 22019, ch. 29, art. 373
+
 
 
 
@@ -479,4 +481,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### **ANNEXE** 
 **(paragraphe 2(1) et articles 5 et 6)**
 ## Premières nations participantes
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 29, al. 371(2)f)
+
+
+
+**Autres mentions du ministère des Affaires indiennes et du Nord canadien**
+
+- **(2)** Sauf indication contraire du contexte, dans les passages ci-après, la mention du ministère des Affaires indiennes et du Nord canadien vaut mention, avec les éventuelles adaptations grammaticales, du ministère des Relations Couronne-Autochtones et des Affaires du Nord :
+	- **f)** le paragraphe 25(2) de la Loi sur la compétence des premières nations en matière d’éducation en Colombie-Britannique.
+
+
 
