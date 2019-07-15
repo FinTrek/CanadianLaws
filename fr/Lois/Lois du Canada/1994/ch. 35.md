@@ -33,7 +33,7 @@ que le gouvernement du Canada s’est engagé à recommander l’adoption par le
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
-> 1994, ch. 35, préambule; 2002, ch. 7, art. 260..
+> 1994, ch. 35, préambule; 2002, ch. 7, art. 260.
 
 
 
@@ -74,12 +74,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi territoriale*** Loi d’application générale édictée aux termes de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md). (*Yukon enactment*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***première nation*** Première nation dont le nom figure à la colonne II de l’annexe I. (*first nation*)
 
 ***terres désignées*** Terres visées par le règlement, au sens de l’accord définitif. (*settlement land*)
-> 1994, ch. 35, art. 2; 2002, ch. 7, art. 261.
+> 1994, ch. 35, art. 2; 2002, ch. 7, art. 2612019, ch. 29, art. 373
 
 
 
@@ -121,7 +121,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(3)** Le ministre fait publier la date de prise d’effet de l’accord visé au paragraphe (2) dans la Gazette du Canada.
+- **(3)** Le ministre fait publier la date de prise d’effet de l’accord visé au paragraphe (2) dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 
 
@@ -219,7 +219,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(7)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux textes législatifs de la première nation.
-> 1994, ch. 35, art. 10; 2002, ch. 17, art. 31(F).
+> 1994, ch. 35, art. 10; 2002, ch. 17, art. 31(F)
 
 
 
@@ -243,7 +243,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** En matière d’administration de la justice, le pouvoir visé à l’alinéa (1)c) est subordonné à l’arrivée du premier des deux termes suivants :
 	- **a)** soit la date de la prise d’effet d’un accord particulier sur l’administration de la justice entre les parties à l’accord;
 	- **b)** soit l’échéance du délai prévu par ce dernier pour en convenir.
-> 1994, ch. 35, art. 11; 2002, ch. 7, art. 262.
+> 1994, ch. 35, art. 11; 2002, ch. 7, art. 262
 
 
 
@@ -258,7 +258,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accords locaux**
 
 - **(2)** Elle peut légiférer à l’égard des matières ou des terres désignées soustraites à sa compétence par l’accord si l’administration compétente — le gouvernement du Yukon ou une municipalité de ce territoire — en convient.
-> 1994, ch. 35, art. 12; 2002, ch. 7, art. 263(A).
+> 1994, ch. 35, art. 12; 2002, ch. 7, art. 263(A)
 
 
 
@@ -279,7 +279,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Entre-temps, toutefois, les textes législatifs édictés par la première nation au titre de l’alinéa 11(1) c) peuvent prévoir, si son accord le lui permet, une amende maximale de 300 000 $ dans les matières suivantes :
 	- **a)** l’utilisation des terres désignées et de leurs ressources naturelles;
 	- **b)** la prévention de la pollution, la lutte contre celle-ci et la protection de l’environnement.
-> 1994, ch. 35, art. 13; 2003, ch. 7, art. 130.
+> 1994, ch. 35, art. 13; 2003, ch. 7, art. 130
 
 
 
@@ -296,7 +296,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** la Cour territoriale du Yukon a compétence exclusive en première instance à l’égard des poursuites pour des infractions à ces textes législatifs;
 - **c)** ces poursuites sont menées en conformité avec la Loi sur les poursuites sommaires du territoire du Yukon, dans sa version éventuellement modifiée, par les procureurs nommés par le gouvernement du Yukon, au même titre qu’une infraction à une loi territoriale;
 - **d)** les peines d’emprisonnement imposées pour des infractions à ces textes législatifs sont purgées dans un établissement correctionnel en conformité avec la Loi sur les services correctionnels du territoire du Yukon, dans sa version éventuellement modifiée.
-> 1994, ch. 35, art. 14; 2002, ch. 7, art. 264.
+> 1994, ch. 35, art. 14; 2002, ch. 7, art. 264
 
 
 
@@ -311,7 +311,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cour d’appel fédérale ou Cour fédérale**
 
 - **(2)** La présente loi ne peut avoir pour effet de limiter la compétence de la Cour d’appel fédérale ou de la Cour fédérale.
-> 1994, ch. 35, art. 15; 2002, ch. 7, art. 265, ch. 8, art. 180.
+> 1994, ch. 35, art. 15; 2002, ch. 7, art. 265, ch. 8, art. 180
 
 
 
@@ -341,7 +341,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(3)** Elle s’applique également, sauf pour ses articles 74 à 80, et sous réserve des dispositions de l’accord définitif concernant l’application de son article 87, à la réserve — au sens de cette loi — de la bande antérieure de la première nation située à l’extérieur du Yukon ainsi qu’à l’égard des droits et obligations de cette bande ayant leur origine à l’extérieur de ce territoire. La première nation est, le cas échéant, réputée une « bande » et ses citoyens inscrits ou qui ont droit à l’inscription sont réputés des « membres de la bande » au sens de la même loi.
-> 1994, ch. 35, art. 17; 2002, ch. 7, art. 266.
+> 1994, ch. 35, art. 17; 2002, ch. 7, art. 266
 
 
 
@@ -369,7 +369,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md)**
 
 - **(2)** Les dispositions de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) s’appliquent, avec les adaptations nécessaires, aux demandes de remboursement et aux montants remboursés en application du paragraphe (1) comme si le remboursement était prévu par la section VI de cette partie.
-> 1999, ch. 26, art. 35.
+> 1999, ch. 26, art. 35
 
 
 
@@ -492,7 +492,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exonération fiscale — Indiens inscrits en vertu de l’accord définitif**
 
 - **(3)** Est exonéré de l’impôt prévu par la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), au cours de la période de transition, le revenu de tout Indien résidant au Yukon qui est inscrit en vertu de l’accord définitif de la première nation, dont le *situs* est dans une réserve.
-> 2006, ch. 4, art. 98.
+> 2006, ch. 4, art. 98
 
 
 
@@ -524,7 +524,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** aux bureaux régionaux de ce ministère situés au Yukon, selon que le ministre l’estime opportun;
 - **d)** au recueil commun des textes législatifs des premières nations créé par l’article 10, s’il y a lieu;
 - **e)** en tout autre lieu qu’il estime opportun.
-> 1994, ch. 35, art. 25; 2002, ch. 7, art. 267; 2004, ch. 11, art. 51.
+> 1994, ch. 35, art. 25; 2002, ch. 7, art. 267; 2004, ch. 11, art. 512019, ch. 29, art. 371(A)
 
 
 
@@ -580,13 +580,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **32** 
 
-- **(1)** Malgré le paragraphe 17(1), le ministre garde les attributions qui lui incombent aux termes de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) après la prise d’effet de l’accord à l’égard de l’administration :
+- **(1)** Malgré le paragraphe 17(1), le ministre des Services aux Autochtones garde les attributions qui lui incombent aux termes de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) après la prise d’effet de l’accord à l’égard de l’administration :
 	- **a)** des biens d’un enfant mineur d’un citoyen d’une première nation inscrit à titre d’Indien ou qui a droit de l’être;
 	- **b)** des biens d’un citoyen inscrit à titre d’Indien ou qui a droit de l’être et qui a été jugé inapte.
 
 **Fiducie**
 
-- **(2)** Les biens visés au paragraphe (1), y compris les sommes détenues au Trésor, peuvent être confiés à un fiduciaire pour le bénéfice de la personne visée aux alinéas (1)a) ou b) ou de sa succession aux conditions convenues par le ministre et la première nation.
+- **(2)** Les biens visés au paragraphe (1), y compris les sommes détenues au Trésor, peuvent être confiés à un fiduciaire pour le bénéfice de la personne visée aux alinéas (1)a) ou b) ou de sa succession aux conditions convenues par le ministre des Services aux Autochtones et la première nation.
+> 1994, ch. 35, art. 322019, ch. 29, art. 366
+
 
 
 
@@ -698,7 +700,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </tr>
 </table>
 
-> 1994, ch. 35, ann. I; 1999, ch. 31, art. 226.
+> 1994, ch. 35, ann. I; 1999, ch. 31, art. 226
 
 
 
@@ -739,7 +741,7 @@ La Première Nation de Kwanlin Dun
 La première nation de Carcross/Tagish
 
 
-> 1994, ch. 35, ann. II; DORS/97-451, 456; DORS/98-425; DORS/2002-134; DORS/2004-9; DORS/2005-69, 403.
+> 1994, ch. 35, ann. II; DORS/97-451, 456; DORS/98-425; DORS/2002-134; DORS/2004-9; DORS/2005-69, 403
 
 
 
@@ -935,6 +937,6 @@ La première nation de Carcross/Tagish
 **3** La mise en oeuvre de mesures prises en application d’un accord fiscal conclu entre la première nation et le gouvernement du Yukon.
 
 
-> 1994, ch. 35, ann. III; 2002, ch. 7, art. 268(A) et 269(F).
+> 1994, ch. 35, ann. III; 2002, ch. 7, art. 268(A) et 269(F)
 
 
