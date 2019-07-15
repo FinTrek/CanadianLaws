@@ -102,7 +102,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 It excludes interests or rights that were received from a person as a gift or legacy or on devise or descent, and interests or rights that can be traced to those interests or rights. (*droits ou intérêts matrimoniaux*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Indigenous Services. (*ministre*)
 
 ***peace officer*** means a person referred to in paragraph (c) of the definition ***peace officer*** in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).  (*agent de la paix*)
 
@@ -127,6 +127,8 @@ It excludes interests or rights that were received from a person as a gift or le
 **Kanesatake**
 
 - **(6)** For the purposes of this Act, a reference to a reserve is also a reference to the Kanesatake Mohawk interim land base as defined in subsection 2(1) of the [Kanesatake Interim Land Base Governance Act](/en/Acts/Statutes%20of%20Canada/2001/c.%208.md).
+> 2013, c. 20, s. 22019, c. 29, s. 375
+
 
 
 
@@ -320,7 +322,7 @@ It excludes interests or rights that were received from a person as a gift or le
 **Notice on coming into force**
 
 - **(6)** If a First Nation in respect of which the Minister has made a declaration enacts the First Nation laws referred to in section 7 under that section or under the self-government agreement, and those laws come into force, the First Nation must notify the Minister in writing without delay.
-> 2013, c. 20, s. 12; 2018, c. 27, s. 384.
+> 2013, c. 20, s. 12; 2018, c. 27, s. 384
 
 
 
