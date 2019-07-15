@@ -46,9 +46,11 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Report by Minister**
+**Report by Ministers**
 
-**2** Within the first 10 sitting days of the House of Commons in every calendar year, the Minister of Indian Affairs and Northern Development must report to the House of Commons committee responsible for Aboriginal affairs on the work undertaken by his or her department in collaboration with First Nations and other interested parties to develop new legislation to replace the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+**2** Within the first 10 sitting days of the House of Commons in every calendar year, the Minister of Indigenous Services must report to the House of Commons committee responsible for Aboriginal affairs on the work undertaken by his or her department in collaboration with First Nations and other interested parties to develop new legislation to replace the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+> 2014, c. 38, s. 22019, c. 29, s. 370
+
 
 
 
