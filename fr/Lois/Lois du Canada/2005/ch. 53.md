@@ -58,7 +58,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***fonctionnaire provincial*** Ministre d’une province ou personne employée par celle-ci ou personne nommée à un organisme provincial ou employée par celui-ci. (*provincial official*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Services aux Autochtones. (*Minister*)
 
 ***organisme provincial*** Organisme constitué par un texte législatif d’une province. (*provincial body*)
 
@@ -69,7 +69,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Province**
 
 - **(2)** Dans la présente loi, ***province*** s’entend de la province où sont situées les terres de réserve en cause.
-> 2005, ch. 53, art. 2; 2010, ch. 6, art. 2.
+> 2005, ch. 53, art. 2; 2010, ch. 6, art. 22019, ch. 29, art. 375
 
 
 
@@ -113,7 +113,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incorporation par renvoi**
 
 - **(3)** Les règlements peuvent incorporer par renvoi, avec ses modifications successives, tout texte législatif d’une province et y apporter les adaptations que le gouverneur en conseil estime nécessaires.
-> 2005, ch. 53, art. 3; 2010, ch. 6, art. 3; 2012, ch. 19, art. 63.
+> 2005, ch. 53, art. 3; 2010, ch. 6, art. 3; 2012, ch. 19, art. 63
 
 
 
@@ -156,7 +156,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incorporation par renvoi**
 
 - **(4)** Les règlements peuvent incorporer par renvoi, avec ses modifications successives, tout texte législatif de la province, compte tenu des adaptations que le gouverneur en conseil estime nécessaires.
-> 2010, ch. 6, art. 4.
+> 2010, ch. 6, art. 4
 
 
 
@@ -177,7 +177,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application**
 
 - **(3)** Le paragraphe (1) ne s’applique pas à la modification ou l’abrogation des règlements pris en vertu des articles 3 ou 4.1.
-> 2005, ch. 53, art. 5; 2010, ch. 6, art. 5.
+> 2005, ch. 53, art. 5; 2010, ch. 6, art. 5
 
 
 
@@ -193,7 +193,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prépondérance du règlement**
 
 **7** Les règlements pris en vertu des articles 3 ou 4.1 l’emportent, sauf disposition contraire de ces règlements, sur tout texte législatif ou règlement administratif incompatible pris par une première nation.
-> 2005, ch. 53, art. 7; 2010, ch. 6, art. 6.
+> 2005, ch. 53, art. 7; 2010, ch. 6, art. 6
 
 
 
@@ -206,7 +206,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 **8** Les textes pris par un fonctionnaire ou organisme provincial sous le régime d’un texte législatif de la province incorporé par renvoi dans un règlement pris en vertu des articles 3 ou 4.1 ne sont pas assujettis à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2005, ch. 53, art. 8; 2010, ch. 6, art. 6.
+> 2005, ch. 53, art. 8; 2010, ch. 6, art. 6
 
 
 
@@ -221,7 +221,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Appel ou contrôle judiciaire devant les tribunaux de la province**
 
 - **(2)** Sauf disposition contraire des règlements pris en vertu des articles 3 ou 4.1, l’exercice de toute attribution conférée par un texte législatif de la province qui est incorporé par renvoi dans un règlement est susceptible d’appel ou de contrôle judiciaire devant les tribunaux de la province, de la manière et dans les circonstances prévues par le droit de la province.
-> 2005, ch. 53, art. 9; 2010, ch. 6, art. 6.
+> 2005, ch. 53, art. 9; 2010, ch. 6, art. 6
 
 
 
@@ -243,7 +243,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **11** À l’égard des actes ou omissions survenant dans l’exercice des attributions conférées par un règlement pris en vertu des articles 3 ou 4.1 :
 - **a)** Sa Majesté du chef du Canada bénéficie des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont Sa Majesté du chef de la province bénéficierait dans l’exercice de ces attributions en vertu du droit de la province;
 - **b)** la personne ou l’organisme exerçant ces attributions bénéficient, sauf disposition contraire de ces règlements, des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont ils bénéficieraient s’ils exerçaient celles-ci en vertu du droit de la province.
-> 2005, ch. 53, art. 11; 2010, ch. 6, art. 7.
+> 2005, ch. 53, art. 11; 2010, ch. 6, art. 7
 
 
 
@@ -259,7 +259,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enregistrement, substitution ou extinction**
 
 **12.1** Aucune activité relative à l’enregistrement du titre ou du droit de propriété de Sa Majesté ou d’une première nation — ou des droits ou intérêts pouvant être enregistrés qui sont visés à l’alinéa 4.1(2)i) — ou à la substitution ou à l’extinction des droits ou intérêts sur les terres de réserve en application des règlements pris en vertu de l’article 4.1 ne peut servir de fondement à aucun recours civil contre Sa Majesté du chef du Canada ou d’une province, tout fonctionnaire ou organisme fédéral ou provincial ou toute personne agissant pour le compte de l’un ou l’autre d’entre eux.
-> 2010, ch. 6, art. 8.
+> 2010, ch. 6, art. 8
 
 
 
@@ -274,5 +274,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#F-11.64_s13_f'>[*]</a></sup>**13** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
 <a name='F-11.64_s13_f'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> avril 2006, *voir* TR/2006-57.]<br />
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 28, al. 188d)
+
+
+**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
+
+**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
+- **d)** l’alinéa 3(2)n) de la Loi sur le développement commercial et industriel des premières nations;
+
 
 
