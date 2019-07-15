@@ -120,7 +120,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **8.1 ** Notwithstanding any provision of this Act or the Agreement, for the purpose of enabling the Westbank First Nation to benefit from the provisions of the [First Nations Fiscal Management Act](/en/Acts/Statutes%20of%20Canada/2005/c.%209.md) or obtain the services of any body established under that Act, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
 - **(a)** adapting any provision of that Act or of any regulation made under that Act; and
 - **(b)** restricting the application of any provision of that Act or of any regulation made under that Act.
-> 2005, c. 9, s. 153; 2012, c. 19, s. 680.
+> 2005, c. 9, s. 153; 2012, c. 19, s. 680
 
 
 
@@ -184,7 +184,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations and orders**
 
-**13** The Governor in Council may, on the recommendation of the Minister of Indian Affairs and Northern Development made after consideration of any representations of the council, make any regulations or orders that the Governor in Council considers necessary or advisable for the purpose of carrying out the provisions of the Agreement.
+**13** The Governor in Council may, on the recommendation of the Minister of Crown-Indigenous Relations made after consideration of any representations of the council, make any regulations or orders that the Governor in Council considers necessary or advisable for the purpose of carrying out the provisions of the Agreement.
+> 2004, c. 17, s. 132019, c. 29, s. 373
+
 
 
 
@@ -200,11 +202,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **14.1** 
 
-- **(1)** For the purposes of subsection 29(3) of the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md), in relation to Westbank lands, surveys and plans must be satisfactory to the council rather than to the Minister of Indian Affairs and Northern Development.
+- **(1)** For the purposes of subsection 29(3) of the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md), in relation to Westbank lands, surveys and plans must be satisfactory to the council rather than to the Minister of Crown-Indigenous Relations.
 
 **Exception**
 
 - **(2)** Subsection (1) does not apply in relation to boundaries between Westbank lands and other lands.
+> 2004, c. 17, s. 14.12019, c. 29, s. 373
+
 
 
 
@@ -215,7 +219,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** the Library and Archives of Canada;
 - **(b)** the library of the Department of Indian Affairs and Northern Development situated in the National Capital Region; and
 - **(c)** the office of that Department situated nearest to Westbank lands.
-> 2004, c. 17, ss. 15, 21.
+> 2004, c. 17, ss. 15, 21
 
 
 
@@ -274,5 +278,30 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <sup><a href='#W-6.2_e_22'>[*]</a></sup>**22** The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council.
 
 <a name='W-6.2_e_22'><sup>*</sup></a>: [Note: Sections 20 and 21 in force on assent May 6, 2004; Act, other than sections 20 and 21, in force April 1, 2005, *see* SI/2005-18.]<br />
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 29, s. 371(3)
+
+
+
+**Other reference to Department of Indian Affairs and Northern Development**
+
+- **(3)** Unless the context requires otherwise, the reference to the “Department of Indian Affairs and Northern Development” is to be read as a reference to the “Department of Crown-Indigenous Relations and Northern Affairs” in the English version of paragraph 15(b) of the Westbank First Nation Self-Government Act.
+
+
+
+######           — 2019, c. 29, par. 373(2)(e)
+
+
+
+**Other references to Minister of Indian Affairs and Northern Development**
+
+- **(2)** Unless the context requires otherwise, every reference to the “Minister of Indian Affairs and Northern Development” is, with any grammatical adaptations, to be read as a reference to the “Minister of Crown-Indigenous Relations” in the following provisions:
+	- **(e)** the portion of section 15 of the Westbank First Nation Self-Government Act before paragraph (a);
+
 
 
