@@ -104,7 +104,7 @@ Sont exclus de la présente définition les droits ou intérêts qui sont reçus
 
 ***membre de la première nation*** Personne dont le nom apparaît sur la liste de bande de la première nation ou qui a droit à ce que son nom y figure. (*First Nation member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Services aux Autochtones. (*Minister*)
 
 ***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*First Nation*)
 
@@ -129,6 +129,8 @@ Sont exclus de la présente définition les droits ou intérêts qui sont reçus
 **Kanesatake**
 
 - **(6)** Pour l’application de la présente loi, la mention de « réserve » vaut également mention du territoire provisoire de Kanesatake au sens du paragraphe 2(1) de la [Loi sur le gouvernement du territoire provisoire de Kanesatake](/fr/Lois/Lois%20du%20Canada/2001/ch.%208.md).
+> 2013, ch. 20, art. 22019, ch. 29, art. 375
+
 
 
 
@@ -319,7 +321,7 @@ Sont exclus de la présente définition les droits ou intérêts qui sont reçus
 **Avis au ministre**
 
 - **(6)** À l’entrée en vigueur des textes législatifs mentionnés à l’article 7 qu’une telle première nation adopte en vertu de cet article ou de l’accord, la première nation en avise sans délai le ministre par écrit.
-> 2013, ch. 20, art. 12; 2018, ch. 27, art. 384.
+> 2013, ch. 20, art. 12; 2018, ch. 27, art. 384
 
 
 
