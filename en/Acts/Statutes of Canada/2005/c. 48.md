@@ -76,7 +76,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 ***managed area*** means a managed area as described in section 25. (*secteur aménagé*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Indigenous Services. (*ministre*)
 
 ***oil*** means any hydrocarbon that can be extracted or recovered in liquid form from surface or subsurface deposits, other than condensate, or that can be extracted or recovered from bitumen, bituminous sands, oil sands or oil shale. (*pétrole*)
 
@@ -99,7 +99,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Expressions in [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
 - **(3)** Unless the context otherwise requires, words and expressions used in this Act have the same meaning as in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
-> 2005, c. 48, s. 2; 2012, c. 19, s. 61.
+> 2005, c. 48, s. 2; 2012, c. 19, s. 612019, c. 29, s. 375
 
 
 
@@ -351,7 +351,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Change of name**
 
 - **(2)** On receipt of a resolution of a first nation’s council advising of a change in the name of the first nation, the Minister may, by order, amend Schedule 1 accordingly.
-> 2005, c. 48, s. 22; 2019, c. 29, s. 385.
+> 2005, c. 48, s. 222019, c. 29, s. 385
 
 
 
@@ -698,7 +698,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **48** Books and accounts shall be maintained for a first nation’s oil and gas moneys, and annual financial statements shall be prepared in respect of those moneys, in accordance with the generally accepted accounting principles of the Chartered Professional Accountants of Canada, by
 - **(a)** the council of the first nation if no trust is established to hold its oil and gas moneys; or
 - **(b)** the trustees of the trust and the council of the first nation if a trust is established.
-> 2005, c. 48, s. 48; 2017, c. 26, s. 62.
+> 2005, c. 48, s. 48; 2017, c. 26, s. 62
 
 
 
@@ -709,7 +709,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **49** Books and accounts shall be maintained for moneys that have been paid to a first nation under sections 30 and 31, and annual financial statements shall be prepared in respect of those moneys, in accordance with the generally accepted accounting principles of the Chartered Professional Accountants of Canada, by
 - **(a)** the council of the first nation if an account is established to hold moneys so paid; or
 - **(b)** the trustees of the trust and the council of the first nation if a trust is established to hold those moneys.
-> 2005, c. 48, s. 49; 2017, c. 26, s. 62.
+> 2005, c. 48, s. 49; 2017, c. 26, s. 62
 
 
 
@@ -724,7 +724,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Access to statements**
 
 - **(2)** Financial statements, as audited under subsection (1), shall be made available to first nation members within 120 days after the end of the fiscal year, and a copy shall be provided to any member on payment of a fee not exceeding the cost of providing the copy.
-> 2005, c. 48, s. 50; 2017, c. 26, s. 62.
+> 2005, c. 48, s. 50; 2017, c. 26, s. 62
 
 
 
@@ -906,7 +906,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Comparable standards**
 
 - **(3)** The requirements of any regulations made under subsection (1) must be generally comparable with those applicable in similar circumstances under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
-> 2005, c. 48, s. 63; 2012, c. 19, s. 62.
+> 2005, c. 48, s. 63; 2012, c. 19, s. 62
 
 
 
@@ -935,6 +935,35 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **1** Kawacatoose First Nation
 
 
-> 2005, c. 48, Sch. 2; SOR/2014-64.
+> 2005, c. 48, Sch. 2; SOR/2014-64
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 28, s. 179
+
+
+**
+> 2012, c. 19, s. 61
+**
+
+**179** Subsection 2(2) of the First Nations Oil and Gas and Moneys Management Act is replaced by the following:
+
+**Expressions in [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)**
+
+- **(2)** In this Act, ***environment*** has the same meaning as in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) and ***environmental effects*** has the same meaning as in section 81 of that Act.
+
+
+
+######           — 2019, c. 28, par. 188(c)
+
+
+**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
+
+**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
+- **(c)** subsection 63(3) of the First Nations Oil and Gas and Moneys Management Act;
+
 
 
