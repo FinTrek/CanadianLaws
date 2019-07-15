@@ -165,7 +165,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Competent minister**
 
 - **(3)** A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates.
-> 2002, c. 29, ss. 2, 141.1; 2005, c. 2, s. 14.
+> 2002, c. 29, ss. 2, 141.1; 2005, c. 2, s. 14
 
 
 
@@ -228,7 +228,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** The role of the Canadian Endangered Species Conservation Council is to
 	- **(a)** provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and
 	- **(b)** coordinate the activities of the various governments represented on the Council relating to the protection of species at risk.
-> 2002, c. 29, s. 7; 2005, c. 2, s. 15.
+> 2002, c. 29, s. 7; 2005, c. 2, s. 15
 
 
 
@@ -251,7 +251,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Agreement and reporting obligation**
 
 - **(3)** The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister.
-> 2002, c. 29, s. 8; 2005, c. 2, s. 16.
+> 2002, c. 29, s. 8; 2005, c. 2, s. 16
 
 
 
@@ -275,7 +275,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Advisory committees to assist Council**
 
 - **(2)** The Minister may, after consultation with the Minister responsible for the Parks Canada Agency, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council’s role.
-> 2002, c. 29, s. 9; 2005, c. 2, s. 17.
+> 2002, c. 29, s. 9; 2005, c. 2, s. 17
 
 
 
@@ -487,7 +487,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Content**
 
 - **(2)** The Minister may, after consultation with COSEWIC, the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports.
-> 2002, c. 29, s. 21; 2005, c. 2, s. 18.
+> 2002, c. 29, s. 21; 2005, c. 2, s. 18
 
 
 
@@ -502,7 +502,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 - **(2)** The Minister may, after consultation with the Minister responsible for the Parks Canada Agency, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC.
-> 2002, c. 29, s. 22; 2005, c. 2, s. 19.
+> 2002, c. 29, s. 22; 2005, c. 2, s. 19
 
 
 
@@ -608,7 +608,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Notice**
 
 - **(4)** COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment. A copy of the assessment must be included in the public registry.
-> 2002, c. 29, s. 28; 2005, c. 2, s. 20.
+> 2002, c. 29, s. 28; 2005, c. 2, s. 20
 
 
 
@@ -832,7 +832,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 - **(4)** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(e) prescribing matters to be included in a recovery strategy.
-> 2002, c. 29, s. 41; 2005, c. 2, s. 21.
+> 2002, c. 29, s. 41; 2005, c. 2, s. 21
 
 
 
@@ -954,7 +954,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(f) prescribing matters to be included in an action plan.
-> 2002, c. 29, s. 49; 2005, c. 2, s. 22.
+> 2002, c. 29, s. 49; 2005, c. 2, s. 22
 
 
 
@@ -1019,7 +1019,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Consultation**
 
-- **(2)** If the competent minister is of the opinion that a regulation would affect a reserve or any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), he or she must consult the Minister of Indian Affairs and Northern Development and the band before making the regulation.
+- **(2)** If the competent minister is of the opinion that a regulation would affect a reserve or any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), he or she must consult the Minister of Indigenous Services and the band before making the regulation.
 
 **Consultation**
 
@@ -1038,6 +1038,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(6)** Subsection (5) does not apply
 	- **(a)** in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md) and their habitat; or
 	- **(b)** in respect of land under the authority of the Minister or the Parks Canada Agency.
+> 2002, c. 29, s. 532019, c. 29, s. 375
+
 
 
 
@@ -1087,11 +1089,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Protected areas**
 
-- **(2)** If the critical habitat or a portion of the critical habitat is in a national park of Canada named and described in Schedule 1 to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), the Rouge National Urban Park established by the [Rouge National Urban Park Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2010.md), a marine protected area under the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md), a migratory bird sanctuary under the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md) or a national wildlife area under the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md), the competent Minister must, within 90 days after the recovery strategy or action plan that identified the critical habitat is included in the public registry, publish in the Canada Gazette a description of the critical habitat or portion that is in that park, area or sanctuary.
+- **(2)** If the critical habitat or a portion of the critical habitat is in a national park of Canada named and described in Schedule 1 to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), the Rouge National Urban Park established by the [Rouge National Urban Park Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2010.md), a marine protected area under the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md), a migratory bird sanctuary under the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md) or a national wildlife area under the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md), the competent Minister must, within 90 days after the recovery strategy or action plan that identified the critical habitat is included in the public registry, publish in the [Canada Gazette](http://www.gazette.gc.ca/) a description of the critical habitat or portion that is in that park, area or sanctuary.
 
 **Application**
 
-- **(3)** If subsection (2) applies, subsection (1) applies to the critical habitat or the portion of the critical habitat described in the Canada Gazette under subsection (2) 90 days after the description is published in the Canada Gazette.
+- **(3)** If subsection (2) applies, subsection (1) applies to the critical habitat or the portion of the critical habitat described in the [Canada Gazette](http://www.gazette.gc.ca/) under subsection (2) 90 days after the description is published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Application**
 
@@ -1119,7 +1121,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Consultation**
 
-- **(7)** If the competent minister is of the opinion that an order under subsection (4) or (5.1) would affect a reserve or any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), he or she must consult the Minister of Indian Affairs and Northern Development and the band before making the order under subsection (4) or the recommendation under subsection (5.2).
+- **(7)** If the competent minister is of the opinion that an order under subsection (4) or (5.1) would affect a reserve or any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), he or she must consult the Minister of Indigenous Services and the band before making the order under subsection (4) or the recommendation under subsection (5.2).
 
 **Consultation**
 
@@ -1128,7 +1130,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Consultation**
 
 - **(9)** If the competent minister is of the opinion that an order under subsection (4) or (5.1) would affect land that is under the authority of another federal minister, other than a competent minister, he or she must consult the other federal minister before making the order under subsection (4) or the recommendation under subsection (5.2).
-> 2002, c. 29, s. 58; 2015, c. 10, s. 60.
+> 2002, c. 29, s. 58; 2015, c. 10, s. 602019, c. 29, s. 375
 
 
 
@@ -1154,11 +1156,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Consultation**
 
-- **(5)** If the competent minister is of the opinion that a regulation would affect a reserve or any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), he or she must consult the Minister of Indian Affairs and Northern Development and the band before recommending the making of the regulation.
+- **(5)** If the competent minister is of the opinion that a regulation would affect a reserve or any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), he or she must consult the Minister of Indigenous Services and the band before recommending the making of the regulation.
 
 **Consultation**
 
 - **(6)** If the competent minister is of the opinion that a regulation would affect an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, he or she must consult the wildlife management board before recommending the making of the regulation.
+> 2002, c. 29, s. 592019, c. 29, s. 375
+
 
 
 
@@ -1346,7 +1350,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Consultation**
 
-- **(2)** If the competent minister is of the opinion that a regulation would affect a reserve or any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), he or she must consult the Minister of Indian Affairs and Northern Development and the band before recommending the making of the regulation.
+- **(2)** If the competent minister is of the opinion that a regulation would affect a reserve or any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), he or she must consult the Minister of Indigenous Services and the band before recommending the making of the regulation.
 
 **Consultation**
 
@@ -1365,6 +1369,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(6)** Subsection (5) does not apply
 	- **(a)** in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md) and their habitat; or
 	- **(b)** in respect of land under the authority of the Minister or the Parks Canada Agency.
+> 2002, c. 29, s. 712019, c. 29, s. 375
+
 
 
 
@@ -1440,7 +1446,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** respecting time limits for issuing or renewing permits, or for refusing to do so;
 	- **(b)** specifying the circumstances under which any of those time limits does not apply; and
 	- **(c)** authorizing the competent minister to extend any of those time limits or to decide that a time limit does not apply, when the competent minister considers that it is appropriate to do so.
-> 2002, c. 29, s. 73; 2005, c. 2, s. 23; 2012, c. 19, s. 163.
+> 2002, c. 29, s. 73; 2005, c. 2, s. 23; 2012, c. 19, s. 163
 
 
 
@@ -1451,7 +1457,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **74** An agreement, permit, licence, order or other similar document authorizing a person or organization to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made by the competent minister under another Act of Parliament has the same effect as an agreement or permit under subsection 73(1) if
 - **(a)** before it is entered into, issued or made, the competent minister is of the opinion that the requirements of subsections 73(2) to (6.1) are met; and
 - **(b)** after it is entered into, issued or made, the competent minister complies with the requirements of subsection 73(7).
-> 2002, c. 29, s. 74; 2012, c. 19, s. 164.
+> 2002, c. 29, s. 74; 2012, c. 19, s. 164
 
 
 
@@ -1496,7 +1502,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of section 58**
 
 - **(2)** For greater certainty, section 58 applies even though a licence, a permit or any other authorization has been issued in accordance with subsection (1).
-> 2002, c. 29, s. 77; 2012, c. 19, s. 165.
+> 2002, c. 29, s. 77; 2012, c. 19, s. 165
 
 
 
@@ -1513,7 +1519,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Interpretation**
 
 - **(2)** For the purpose of subsection (1), the references to “competent minister” in subsections 73(2), (3), (6) and (7) are to be read as references to “provincial minister” or “territorial minister”, as the case may be.
-> 2002, c. 29, s. 78; 2012, c. 19, s. 166.
+> 2002, c. 29, s. 78; 2012, c. 19, s. 166
 
 
 
@@ -1522,7 +1528,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Clarification — renewals**
 
 **78.1** For greater certainty, a reference in any of sections 73 to 78 to the entering into, issuing, making or approving of any agreement, permit, licence, order or other similar document or authorization, includes renewing it, and a reference in any of those sections or in paragraph 97(1)(c) to any such document or authorization includes one that has been renewed.
-> 2012, c. 19, s. 167.
+> 2012, c. 19, s. 167
 
 
 
@@ -1552,7 +1558,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** a designated project as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) or a project as defined in section 66 of that Act;
 - **(b)** a project as defined in subsection 2(1) of the [Yukon Environmental and Socio-economic Assessment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%207.md); or
 - **(c)** a development as defined in subsection 111(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md). (*projet*)
-> 2002, c. 29, s. 79; 2012, c. 19, s. 59; 2017, c. 26, s. 49(F).
+> 2002, c. 29, s. 79; 2012, c. 19, s. 59; 2017, c. 26, s. 49(F)
 
 
 
@@ -1661,7 +1667,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 **84** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph 83(5)(g).
-> 2002, c. 29, s. 84; 2005, c. 2, s. 24.
+> 2002, c. 29, s. 84; 2005, c. 2, s. 24
 
 
 
@@ -1964,7 +1970,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Definition of non-profit corporation**
 
 - **(7)** For the purposes of subsection (1.1), ***non-profit corporation*** means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation.
-> 2002, c. 29, s. 97; 2012, c. 19, s. 168.
+> 2002, c. 29, s. 97; 2012, c. 19, s. 168
 
 
 
@@ -1973,7 +1979,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Officers, etc., of corporations**
 
 **98** If a corporation commits an offence, any officer, director or agent or mandatary of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
-> 2002, c. 29, s. 98; 2015, c. 3, s. 153(E).
+> 2002, c. 29, s. 98; 2015, c. 3, s. 153(E)
 
 
 
@@ -1982,7 +1988,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Offences by employees or agents or mandataries**
 
 **99** In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee or an agent or mandatary of the accused, whether or not the employee, agent or mandatary has been prosecuted for the offence.
-> 2002, c. 29, s. 99; 2015, c. 3, s. 153(E).
+> 2002, c. 29, s. 99; 2015, c. 3, s. 153(E)
 
 
 
@@ -2315,7 +2321,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 **121** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations respecting the form of the public registry, the keeping of the public registry and access to it.
-> 2002, c. 29, s. 121; 2005, c. 2, s. 25.
+> 2002, c. 29, s. 121; 2005, c. 2, s. 25
 
 
 
@@ -2324,7 +2330,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Protection from proceedings**
 
 **122** Despite any other Act of Parliament, no civil or criminal proceedings may be brought against Her Majesty in right of Canada, the Minister, the Minister responsible for the Parks Canada Agency, the Minister of Fisheries and Oceans or any person acting on behalf of or under the direction of any of them for the full or partial disclosure in good faith of any notice or other document through the public registry or any consequences of its disclosure.
-> 2002, c. 29, s. 122; 2005, c. 2, s. 25.
+> 2002, c. 29, s. 122; 2005, c. 2, s. 25
 
 
 
@@ -2368,7 +2374,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Recovery of fees**
 
 - **(2)** A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
-> 2002, c. 29, s. 125; 2005, c. 2, s. 26.
+> 2002, c. 29, s. 125; 2005, c. 2, s. 26
 
 
 
@@ -2388,7 +2394,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(e)** enforcement and compliance actions taken, including the response to any requests for investigation;
 - **(f)** regulations and emergency orders made under this Act; and
 - **(g)** any other matters that the Minister considers relevant.
-> 2002, c. 29, s. 126; 2012, c. 19, s. 169.
+> 2002, c. 29, s. 126; 2012, c. 19, s. 169
 
 
 
@@ -3933,7 +3939,7 @@ Mountain Crab-eye (*Acroscyphus sphaerophoroides*)<br />- <i>Acroscyphe des mont
 Waterfan, Western (*Peltigera gowardii*)<br />- <i>Peltigère éventail d’eau de l’Ouest</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229; SOR/2018-10, 112; SOR/2019-52, s. 1; SOR/2019-52, s. 2; SOR/2019-52, s. 3; SOR/2019-52, s. 4; SOR/2019-52, s. 5; SOR/2019-52, s. 6; SOR/2019-52, s. 7; SOR/2019-52, s. 8; SOR/2019-52, s. 9; SOR/2019-52, s. 10; SOR/2019-52, s. 11; SOR/2019-52, s. 12; SOR/2019-52, s. 13; SOR/2019-52, s. 14; SOR/2019-52, s. 15; SOR/2019-52, s. 16; SOR/2019-52, s. 17; SOR/2019-52, s. 18; SOR/2019-52, s. 19; SOR/2019-52, s. 20; SOR/2019-52, s. 21; SOR/2019-52, s. 22; SOR/2019-145, s. 1; SOR/2019-145, s. 2; SOR/2019-145, s. 3; SOR/2019-145, s. 4; SOR/2019-145, s. 5; SOR/2019-145, s. 6.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229; SOR/2018-10, 112SOR/2019-52, s. 1SOR/2019-52, s. 2SOR/2019-52, s. 3SOR/2019-52, s. 4SOR/2019-52, s. 5SOR/2019-52, s. 6SOR/2019-52, s. 7SOR/2019-52, s. 8SOR/2019-52, s. 9SOR/2019-52, s. 10SOR/2019-52, s. 11SOR/2019-52, s. 12SOR/2019-52, s. 13SOR/2019-52, s. 14SOR/2019-52, s. 15SOR/2019-52, s. 16SOR/2019-52, s. 17SOR/2019-52, s. 18SOR/2019-52, s. 19SOR/2019-52, s. 20SOR/2019-52, s. 21SOR/2019-52, s. 22SOR/2019-145, s. 1SOR/2019-145, s. 2SOR/2019-145, s. 3SOR/2019-145, s. 4SOR/2019-145, s. 5SOR/2019-145, s. 6
 
 
 
@@ -4019,7 +4025,7 @@ Sculpin, Deepwater (*Myoxocephalus thompsoni*) Great Lakes population<br />- <i>
 ##### Plants
 
 
-> 2002, c. 29, Sch. 2; SOR/2005-14, ss. 54 to 60; SOR/2005-224, ss. 33 to 36; SOR/2006-60, s. 3; SOR/2006-189, ss. 27 to 29.
+> 2002, c. 29, Sch. 2; SOR/2005-14, ss. 54 to 60; SOR/2005-224, ss. 33 to 36; SOR/2006-60, s. 3; SOR/2006-189, ss. 27 to 29
 
 
 
@@ -4144,6 +4150,75 @@ Cryptic Paw (*Nephroma occultum*)<br />- <i>Lichen cryptique</i>
 Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseudocyphellie des forêts surannées</i>
 
 Seaside Bone (*Hypogymnia heterophylla*)<br />- <i>Hypogymnie maritime</i>
-> 2002, c. 29, Sch. 3; SOR/2005-14, ss. 61 to 65; SOR/2005-224, ss. 37 to 40; SOR/2006-60, s. 4; SOR/2006-189, ss. 30 to 35.
+> 2002, c. 29, Sch. 3; SOR/2005-14, ss. 61 to 65; SOR/2005-224, ss. 37 to 40; SOR/2006-60, s. 4; SOR/2006-189, ss. 30 to 35
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 25, s. 400
+
+**400** Paragraph 108(1)(e) of the Species at Risk Act is replaced by the following:
+
+- **(e)** the person and the Attorney General have concluded an agreement respecting the alternative measures within 180 days after the person has, with respect to the offence, been served with a summons, been issued an appearance notice or a release order or entered into an undertaking;
+
+
+
+
+
+######           — 2019, c. 28, s. 174
+
+
+**
+> 2012, c. 19, s. 165
+**
+
+**174** Subsection 77(1.1) of the Species at Risk Act is repealed.
+
+
+
+######           — 2019, c. 28, s. 175
+
+
+**
+> 2012, c. 19, s. 59(1)
+**
+
+**175** 
+
+- **(1)** Subsection 79(1) of the Act is replaced by the following:
+
+**Notification of Minister**
+
+**79** 
+
+- **(1)** Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted, and every authority who makes a determination under paragraph 82(a) or (b) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) in relation to a project, must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat.
+
+
+
+**
+> 2012, c. 19, s. 59(2)
+**
+
+- **(2)** The definition ***person*** in subsection 79(3) of the Act is replaced by the following:
+
+
+***person*** includes an association, an organization, a federal authority as defined in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md), and any body that is set out in Schedule 4 to that Act. (*personne*)
+
+
+
+**
+> 2012, c. 19, s. 59(2)
+**
+
+- **(3)** Paragraph (a) of the definition ***project*** in subsection 79(3) of the Act is replaced by the following:
+
+
+***project*** means
+- **(a)** a designated project as defined in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) or a project as defined in section 81 of that Act;
+
+
+
 
 
