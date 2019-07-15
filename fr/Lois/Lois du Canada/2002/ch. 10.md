@@ -68,7 +68,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***minéraux*** Les métaux précieux ou communs et les autres matières naturelles inertes, qu’ils soient à l’état solide, liquide ou gazeux, à l’exclusion de l’eau. Sont compris parmi les minéraux le charbon et les hydrocarbures — pétrole et gaz. (*minerals*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Affaires du Nord. (*Minister*)
 
 ***organisation inuit désignée***
 - **a)** Sous réserve de l’alinéa b), soit Tunngavik, soit, pour l’application de telle disposition de la présente loi figurant à l’annexe 1, l’organisation désignée, pour l’exercice de la fonction prévue par la disposition correspondante de l’Accord, dans le registre public que tient Tunngavik conformément à l’Accord;
@@ -83,6 +83,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Terminologie : région du Nunavut**
 
 - **(2)** Dans la présente loi, *région du Nunavut* s’entend au sens de l’article 3.1.1 de l’Accord.
+> 2002, ch. 10, art. 22019, ch. 29, art. 374
+
 
 
 
@@ -148,7 +150,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***utilisation*** S’agissant des eaux, utilisation directe ou indirecte de toute nature — notamment l’utilisation de l’énergie hydraulique et des ressources géothermiques —, y compris leur détournement ou leur barrage, ainsi que la modification de leur débit, de leurs rives ou de leur lit, que leur existence soit saisonnière ou non; sont toutefois exclues la navigation, ainsi que toute autre forme d’utilisation des eaux liée à une activité assujettie à la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*use*)
 
 ***zones marines*** S’entend des eaux, recouvertes de glace ou non, de la région du Nunavut — à l’exclusion des eaux internes —, ainsi que de leur fond et de leur sous-sol. (*marine area*)
-> 2002, ch. 10, art. 4 et 200; 2013, ch. 14, art. 5; 2015, ch. 19, art. 41.
+> 2002, ch. 10, art. 4 et 200; 2013, ch. 14, art. 5; 2015, ch. 19, art. 41
 
 
 
@@ -528,7 +530,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 - **(4)** Les comptes, états financiers et opérations financières de l’Office sont vérifiés annuellement par le vérificateur de celui-ci et, à la demande du ministre, par le vérificateur général du Canada. Le rapport du vérificateur de l’Office et, le cas échéant, celui du vérificateur général sont présentés à l’Office et au ministre.
-> 2002, ch. 10, art. 32; 2017, ch. 26, art. 62.
+> 2002, ch. 10, art. 32; 2017, ch. 26, art. 62
 
 
 
@@ -582,7 +584,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** Dès l’établissement de la règle ou du règlement administratif, l’Office :
 	- **a)** les publie dans un journal ou autre périodique qui, à son avis, jouit d’une vaste distribution au Nunavut;
-	- **b)** publie dans la Gazette du Canada un avis de leur établissement qui indique en outre dans quel journal ou périodique la règle ou le règlement administratif a été publié.
+	- **b)** publie dans la [Gazette du Canada](http://www.gazette.gc.ca/) un avis de leur établissement qui indique en outre dans quel journal ou périodique la règle ou le règlement administratif a été publié.
 
 
 
@@ -607,7 +609,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Examen des projets par la Commission d’aménagement**
 
 - **(2)** Afin d’éviter les pertes de temps et le double emploi, l’Office collabore également avec la Commission en vue de coordonner l’examen des demandes dont il est saisi et l’examen des projets par la Commission — conformément aux articles 76 à 85 de la [Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut](/fr/Lois/Lois%20du%20Canada/2013/ch.%2014,%20art.%202.md) — au regard des plans d’aménagement applicables qui ont été approuvés en vertu du paragraphe 55(1) de cette loi.
-> 2002, ch. 10, art. 36; 2013, ch. 14, art. 6.
+> 2002, ch. 10, art. 36; 2013, ch. 14, art. 6
 
 
 
@@ -622,7 +624,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enquêtes conjointes**
 
 - **(2)** L’Office peut, au lieu de tenir sa propre enquête publique relativement à un permis lié à un projet dont est saisie une autorité visée au paragraphe (1), tenir avec celle-ci une enquête publique conjointe ou participer à l’enquête publique tenue par elle.
-> 2002, ch. 10, art. 37; 2013, ch. 14, art. 7.
+> 2002, ch. 10, art. 37; 2013, ch. 14, art. 7
 
 
 
@@ -646,7 +648,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-renouvellement**
 
 - **(3)** Les permis ne peuvent cependant être renouvelés ou modifiés si le ministre compétent, au sens du paragraphe 73(1) de la Loisur l’aménagement du territoire et l’évaluation des projets au Nunavut, a décidé au titre de la partie 3 de cette loi que le projet auquel se rapportent les activités en question pourrait être modifié — et faire l’objet d’une proposition modifiée transmise à la Commission d’aménagement ou à l’autorité compétente, au sens de l’article 163 de cette loi, selon le cas — ou ne doit pas être réalisé.
-> 2002, ch. 10, art. 38; 2013, ch. 14, art. 8.
+> 2002, ch. 10, art. 38; 2013, ch. 14, art. 8
 
 
 
@@ -722,12 +724,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **43.1** 
 
-- **(1)** L’Office annonce son intention d’examiner, de sa propre initiative, la possibilité soit de modifier toute condition d’un permis en vertu des sous-alinéas 43(1)b)(ii) ou (iii), soit d’annuler un permis en vertu des sous-alinéas 43(1)c)(ii) ou (iii), par publication d’un avis sur son site Internet, dans le registre public, dans la Gazette du Canada ou dans un journal ou autre périodique qui, selon lui, jouit d’une vaste distribution au Nunavut.
+- **(1)** L’Office annonce son intention d’examiner, de sa propre initiative, la possibilité soit de modifier toute condition d’un permis en vertu des sous-alinéas 43(1)b)(ii) ou (iii), soit d’annuler un permis en vertu des sous-alinéas 43(1)c)(ii) ou (iii), par publication d’un avis sur son site Internet, dans le registre public, dans la [Gazette du Canada](http://www.gazette.gc.ca/) ou dans un journal ou autre périodique qui, selon lui, jouit d’une vaste distribution au Nunavut.
 
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas lorsque l’Office déclare, avec le consentement du ministre, que la modification ou l’annulation est urgente et nécessaire.
-> 2015, ch. 19, art. 42.
+> 2015, ch. 19, art. 42
 
 
 
@@ -755,7 +757,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **45** La durée des permis ou de chacun de leur renouvellement ne peut excéder :
 - **a)** vingt-cinq ans, dans le cas des permis de type A à l’égard des catégories d’entreprises principales prévues par règlement et des permis de type B;
 - **b)** la durée prévue de l’entreprise principale en cause, dans le cas des autres permis de type A.
-> 2002, ch. 10, art. 45; 2015, ch. 19, art. 43.
+> 2002, ch. 10, art. 45; 2015, ch. 19, art. 43
 
 
 
@@ -909,7 +911,7 @@ Il tient compte des observations ainsi reçues.
 **Mandat et validité des actes**
 
 **55.1** Le fait par le ministre ou l’Office de ne pas exercer ses attributions dans le délai prévu par la présente partie n’a pas pour effet de mettre fin à son mandat ni d’invalider les documents préparés ou présentés dans l’exercice de ses attributions ou les décisions et mesures prises dans le cadre de celles-ci.
-> 2015, ch. 19, art. 44.
+> 2015, ch. 19, art. 44
 
 
 
@@ -922,7 +924,7 @@ Il tient compte des observations ainsi reçues.
 **Permis de type A et de type B en cas d’enquête publique**
 
 **55.2** Sous réserve de l’article 55.31, l’Office rend sa décision à l’égard d’une demande de délivrance, de renouvellement ou de modification d’un permis de type A ou d’un permis de type B qui fait l’objet d’une enquête publique ou de l’examen, de sa propre initiative, de la modification d’un tel permis, dans les neuf mois suivant la date de présentation de la demande ou de la publication de l’avis prévu au paragraphe 43.1(1).
-> 2015, ch. 19, art. 44.
+> 2015, ch. 19, art. 44
 
 
 
@@ -931,7 +933,7 @@ Il tient compte des observations ainsi reçues.
 **Date de présentation réputée**
 
 **55.3** La demande est réputée présentée à la date à laquelle l’Office est convaincu qu’elle respecte les exigences prévues sous le régime des paragraphes 48(1) et (2).
-> 2015, ch. 19, art. 44.
+> 2015, ch. 19, art. 44
 
 
 
@@ -944,7 +946,7 @@ Il tient compte des observations ainsi reçues.
 **Début du délai**
 
 **55.31** Dans le cas où l’Office collabore avec une commission ou une formation en application des paragraphes 36(2) ou 37(1), le délai prévu à l’article 55.2 ne court pas tant qu’elle n’a pas terminé l’examen, l’examen préalable ou l’examen approfondi, selon le cas.
-> 2015, ch. 19, art. 44 et 55.
+> 2015, ch. 19, art. 44 et 55
 
 
 
@@ -953,7 +955,7 @@ Il tient compte des observations ainsi reçues.
 **Période exclue du délai : fourniture de renseignements ou d’études**
 
 **55.4** Dans le cas où l’Office exige du demandeur ou du titulaire du permis qu’il lui fournisse des renseignements ou des études, la période prise, à son avis, par le demandeur ou le titulaire, pour remplir l’exigence n’est pas comprise dans le calcul du délai prévu à l’article 55.2 ou de sa prolongation.
-> 2015, ch. 19, art. 44.
+> 2015, ch. 19, art. 44
 
 
 
@@ -967,7 +969,7 @@ Il tient compte des observations ainsi reçues.
 - **c)** dans le cas où il décide que le demandeur est tenu de verser une indemnité au titre de l’alinéa 60(1)a) ou de conclure un accord d’indemnisation au titre de l’alinéa 60(1)b), tant que les conditions prévues à l’un ou l’autre de ces alinéas, selon le cas, ne sont pas remplies;
 - **d)** dans le cas où il décide que le demandeur est tenu de conclure un accord d’indemnisation au titre de l’alinéa 63(1)a) ou de verser une indemnité au titre de l’alinéa 63(1)b), tant que les conditions prévues à l’un ou l’autre de ces alinéas, selon le cas, ne sont pas remplies;
 - **e)** dans le cas où une notification lui a été faite en application des paragraphes 78(1) ou 79.2(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), tant que les conditions prévues aux paragraphes 78(3) ou 79.2(3) de cette loi ne sont pas remplies.
-> 2015, ch. 19, art. 44.
+> 2015, ch. 19, art. 44
 
 
 
@@ -986,7 +988,7 @@ Il tient compte des observations ainsi reçues.
 **Prolongation du délai par le gouverneur en conseil**
 
 - **(2)** Le gouverneur en conseil peut, par décret pris sur la recommandation du ministre, accorder une ou plusieurs prolongations supplémentaires de toute durée.
-> 2015, ch. 19, art. 44.
+> 2015, ch. 19, art. 44
 
 
 
@@ -1025,7 +1027,7 @@ Il tient compte des observations ainsi reçues.
 	- **b)** au demandeur ou au titulaire du permis visé;
 	- **c)** lorsque l’article 63 s’applique aux eaux visées, à l’organisation inuit désignée;
 	- **d)** à toute personne ayant droit à une indemnité au titre des articles 58 ou 60.
-> 2002, ch. 10, art. 56; 2015, ch. 19, art. 45.
+> 2002, ch. 10, art. 56; 2015, ch. 19, art. 45
 
 
 
@@ -1083,7 +1085,7 @@ Il tient compte des observations ainsi reçues.
 **Terres inuit**
 
 - **(3)** Si le paragraphe 63(1) s’applique à l’égard de nuisances causées à des personnes mentionnées aux sous-alinéas (1)a)(i) à (vi) par des activités — utilisation des eaux ou rejet de déchets — qui peuvent modifier d’une façon importante la qualité, la quantité ou le débit des eaux traversant une terre inuit, le paragraphe (1) ne s’applique pas à l’égard de telles de ces nuisances à l’égard desquelles une indemnité a déjà été versée ou il a été convenu qu’elle serait versée ou a été fixée par l’Office au titre du paragraphe 63(1).
-> 2002, ch. 10, art. 60; 2014, ch. 2, art. 53.
+> 2002, ch. 10, art. 60; 2014, ch. 2, art. 53
 
 
 
@@ -1219,7 +1221,7 @@ Il tient compte des observations ainsi reçues.
 **Conditions**
 
 - **(3)** L’Office est tenu, dans la mesure de ses pouvoirs et de sa compétence au titre de la présente loi, d’assortir le permis qu’il délivre relativement à l’activité visée ou à l’entreprise principale des conditions visées au paragraphe 136(1) de la [Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut](/fr/Lois/Lois%20du%20Canada/2013/ch.%2014,%20art.%202.md).
-> 2002, ch. 10, art. 70; 2013, ch. 14, art. 9.
+> 2002, ch. 10, art. 70; 2013, ch. 14, art. 9
 
 
 
@@ -1311,7 +1313,7 @@ Il tient compte des observations ainsi reçues.
 **Montant de la sûreté prévue au paragraphe 76(1)**
 
 - **(3)** L’Office tient compte de l’entente lorsqu’il détermine le montant de la sûreté qui doit être fournie et maintenue en vertu du paragraphe 76(1).
-> 2015, ch. 19, art. 46.
+> 2015, ch. 19, art. 46
 
 
 
@@ -1466,7 +1468,7 @@ Il tient compte des observations ainsi reçues.
 **Créances de Sa Majesté**
 
 - **(2)** Les frais et les sommes que l’intéressé est tenu de payer en application du paragraphe (1) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
-> 2015, ch. 19, art. 47.
+> 2015, ch. 19, art. 47
 
 
 
@@ -1526,7 +1528,7 @@ Il tient compte des observations ainsi reçues.
 **Variation des règlements**
 
 - **(4)** Les règlements pris en application du paragraphe (1) peuvent varier selon les zones de gestion des eaux constituées sous le régime de l’alinéa (1)a), en fonction de critères tels que la forme d’utilisation des eaux, le but de l’utilisation ou la quantité ou le régime utilisés, ou encore la quantité, la concentration et le type de déchets rejetés.
-> 2002, ch. 10, art. 82; 2015, ch. 19, art. 48.
+> 2002, ch. 10, art. 82; 2015, ch. 19, art. 48
 
 
 
@@ -1670,7 +1672,7 @@ Il tient compte des observations ainsi reçues.
 - **(2)** Quiconque commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
 	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
 	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
-> 2002, ch. 10, art. 90; 2015, ch. 19, art. 49.
+> 2002, ch. 10, art. 90; 2015, ch. 19, art. 49
 
 
 
@@ -1689,7 +1691,7 @@ Il tient compte des observations ainsi reçues.
 - **(2)** Quiconque commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
 	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
 	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
-> 2015, ch. 19, art. 49.
+> 2015, ch. 19, art. 49
 
 
 
@@ -1708,7 +1710,7 @@ Il tient compte des observations ainsi reçues.
 - **(2)** Quiconque commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
 	- **a)** pour une première infraction, d’une amende maximale de 37 500 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
 	- **b)** en cas de récidive, d’une amende maximale de 75 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
-> 2015, ch. 19, art. 49.
+> 2015, ch. 19, art. 49
 
 
 
@@ -1717,7 +1719,7 @@ Il tient compte des observations ainsi reçues.
 **Infractions continues**
 
 **90.3** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue toute infraction prévue aux paragraphes 90(1), 90.1(1) ou 90.2(1).
-> 2015, ch. 19, art. 49.
+> 2015, ch. 19, art. 49
 
 
 
@@ -1732,7 +1734,7 @@ Il tient compte des observations ainsi reçues.
 **Réserve**
 
 - **(2)** Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
-> 2015, ch. 19, art. 49.
+> 2015, ch. 19, art. 49
 
 
 
@@ -1743,7 +1745,7 @@ Il tient compte des observations ainsi reçues.
 **91** Commet une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque :
 - **a)** contrevient au paragraphe 86(4) ou à un règlement pris en vertu des alinéas 82(1)o), p) ou q);
 - **b)** sauf dans la mesure permise par la présente partie ou une autre loi fédérale, gêne ou entrave volontairement et de quelque façon l’action d’un titulaire de permis ou de quiconque agit en son nom dans l’exercice des droits que lui confère la présente partie.
-> 2002, ch. 10, art. 91; 2015, ch. 19, art. 50.
+> 2002, ch. 10, art. 91; 2015, ch. 19, art. 50
 
 
 
@@ -1752,7 +1754,7 @@ Il tient compte des observations ainsi reçues.
 **Prescription**
 
 **92** Les poursuites relatives à une infraction à la présente partie se prescrivent par cinq ans à compter de la date où le ministre a eu connaissance des faits reprochés.
-> 2002, ch. 10, art. 92; 2015, ch. 19, art. 51.
+> 2002, ch. 10, art. 92; 2015, ch. 19, art. 51
 
 
 
@@ -1767,7 +1769,7 @@ Il tient compte des observations ainsi reçues.
 **Recours civils**
 
 - **(2)** La qualification d’un acte ou d’une omission à titre d’infraction à la présente partie ne fait obstacle à aucun recours civil.
-> 2002, ch. 10, art. 93; 2015, ch. 19, art. 52.
+> 2002, ch. 10, art. 93; 2015, ch. 19, art. 52
 
 
 
@@ -1815,7 +1817,7 @@ Il tient compte des observations ainsi reçues.
 **Plafond : montant de la pénalité**
 
 - **(2)** Le montant de la pénalité établi en application d’un règlement pris en vertu de l’alinéa (1)b) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à 25 000 $ et, dans le cas des autres personnes, à 100 000 $.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1828,7 +1830,7 @@ Il tient compte des observations ainsi reçues.
 **Attributions**
 
 **94.02** Les inspecteurs, désignés en vertu du paragraphe 85(1), sont autorisés à agir à titre d’agents verbalisateurs.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1843,7 +1845,7 @@ Il tient compte des observations ainsi reçues.
 **But de la pénalité**
 
 - **(2)** L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser le respect de la présente partie.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1852,7 +1854,7 @@ Il tient compte des observations ainsi reçues.
 **Participants à la violation : dirigeants, administrateurs et mandataires**
 
 **94.04** Si une personne morale commet une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation et s’exposent à une pénalité dont le montant est déterminé conformément aux règlements, que la personne fasse ou non l’objet d’une procédure en violation engagée au titre de la présente partie.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1861,7 +1863,7 @@ Il tient compte des observations ainsi reçues.
 **Preuve**
 
 **94.05** Dans les procédures en violation engagées au titre de la présente partie, il suffit, pour prouver la violation, d’établir qu’elle a été commise par un employé ou un mandataire de l’auteur de la violation, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1882,7 +1884,7 @@ Il tient compte des observations ainsi reçues.
 	- **d)** la faculté qu’a le prétendu auteur de la violation de demander une révision en ce qui a trait à la violation ou au montant de la pénalité, ainsi que le délai pour ce faire;
 	- **e)** les délais et modalités de paiement de la pénalité;
 	- **f)** le fait que le prétendu auteur de la violation, s’il ne fait pas de demande de révision ou s’il ne paie pas la pénalité, est réputé avoir commis la violation et est tenu du paiement de cette pénalité.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1901,7 +1903,7 @@ Il tient compte des observations ainsi reçues.
 **Principes de common law**
 
 - **(2)** Les règles et principes de common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente partie s’appliquent à l’égard d’une violation dans la mesure de leur compatibilité avec la présente partie.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1910,7 +1912,7 @@ Il tient compte des observations ainsi reçues.
 **Violation continue**
 
 **94.08** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1925,7 +1927,7 @@ Il tient compte des observations ainsi reçues.
 **Précision**
 
 - **(2)** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1934,7 +1936,7 @@ Il tient compte des observations ainsi reçues.
 **Prescription**
 
 **94.1** Le délai dans lequel le procès-verbal peut être dressé est de deux ans à compter de la date où le ministre a eu connaissance des faits reprochés.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1947,7 +1949,7 @@ Il tient compte des observations ainsi reçues.
 **Droit de faire une demande de révision**
 
 **94.11** Le prétendu auteur de la violation peut, dans les trente jours suivant la signification d’un procès-verbal ou dans tout délai supérieur prévu dans les règlements, saisir le ministre d’une demande de révision du montant de la pénalité ou des faits quant à la violation, ou des deux.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1956,7 +1958,7 @@ Il tient compte des observations ainsi reçues.
 **Annulation ou correction du procès-verbal**
 
 **94.12** Tant que le ministre n’est pas saisi d’une demande de révision du procès-verbal, tout inspecteur peut soit l’annuler, soit corriger toute erreur qu’il contient.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1965,7 +1967,7 @@ Il tient compte des observations ainsi reçues.
 **Révision**
 
 **94.13** Sur réception de la demande de révision, le ministre procède à la révision.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -1992,7 +1994,7 @@ Il tient compte des observations ainsi reçues.
 **Décision définitive**
 
 - **(5)** La décision est définitive et exécutoire et, sous réserve du contrôle judiciaire prévu par la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), n’est pas susceptible d’appel ou de révision en justice.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -2001,7 +2003,7 @@ Il tient compte des observations ainsi reçues.
 **Fardeau de la preuve**
 
 **94.15** En cas de révision portant sur les faits, il incombe à l’inspecteur qui a dressé le procès-verbal d’établir, selon la prépondérance des probabilités, que le demandeur a commis la violation qui y est mentionnée.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -2014,7 +2016,7 @@ Il tient compte des observations ainsi reçues.
 **Paiement**
 
 **94.16** Vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure le paiement de la pénalité. Le cas échéant, le ministre avise immédiatement l’Office de la violation.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -2023,7 +2025,7 @@ Il tient compte des observations ainsi reçues.
 **Défaut**
 
 **94.17** Vaut aveu de responsabilité, en cas de non-paiement de la pénalité dans le délai prévu dans le procès-verbal, le fait de ne pas demander de révision dans le délai prévu à l’article 94.11. Le cas échéant, le contrevenant est tenu du paiement de la pénalité, et le ministre avise immédiatement l’Office de la violation.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -2042,7 +2044,7 @@ Il tient compte des observations ainsi reçues.
 **Prescription**
 
 - **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -2057,7 +2059,7 @@ Il tient compte des observations ainsi reçues.
 **Enregistrement**
 
 - **(2)** L’enregistrement à tout tribunal compétent confère au certificat de non-paiement valeur de jugement pour la somme visée et les frais afférents à l’enregistrement.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -2070,7 +2072,7 @@ Il tient compte des observations ainsi reçues.
 **Authenticité de documents**
 
 **94.2** Dans les procédures pour violation, le document qui paraît être un procès-verbal dressé en application du paragraphe 94.06(1) fait foi, sauf preuve contraire, de son authenticité et de son contenu.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -2079,7 +2081,7 @@ Il tient compte des observations ainsi reçues.
 **Publication**
 
 **94.3** L’Office procède à la publication de la nature de la violation, du nom de son auteur et du montant de la pénalité.
-> 2015, ch. 19, art. 53.
+> 2015, ch. 19, art. 53
 
 
 
@@ -2357,7 +2359,7 @@ Il tient compte des observations ainsi reçues.
 **Vérification**
 
 - **(4)** Le vérificateur général du Canada vérifie chaque année les comptes, états financiers et opérations financières du Tribunal, et présente son rapport à celui-ci et au ministre.
-> 2002, ch. 10, art. 114; 2017, ch. 26, art. 62.
+> 2002, ch. 10, art. 114; 2017, ch. 26, art. 62
 
 
 
@@ -2590,7 +2592,7 @@ Il tient compte des observations ainsi reçues.
 
 - **(5)** Dès l’établissement de la règle, le Tribunal :
 	- **a)** la publie dans un journal ou autre périodique qui, à son avis, jouit d’une vaste distribution au Nunavut;
-	- **b)** publie dans la Gazette du Canada un avis de son établissement qui indique en outre dans quel journal ou périodique la règle a été publiée.
+	- **b)** publie dans la [Gazette du Canada](http://www.gazette.gc.ca/) un avis de son établissement qui indique en outre dans quel journal ou périodique la règle a été publiée.
 
 
 
@@ -2942,7 +2944,7 @@ Sont exclues de la présente définition les formes d’utilisation des ressourc
 **Terminologie : [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md)**
 
 - **(3)** Dans la définition de ***entrepreneur***, au paragraphe (1), ainsi qu’aux articles 153 et 154, ***propriétaire***, ***navire***, ***rejet*** et ***hydrocarbures*** s’entendent au sens de l’article 91 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md).
-> 2002, ch. 10, art. 152; 2009, ch. 21, art. 22.
+> 2002, ch. 10, art. 152; 2009, ch. 21, art. 22
 
 
 
@@ -2994,7 +2996,7 @@ Sont exclues de la présente définition les formes d’utilisation des ressourc
 **Subrogation**
 
 - **(3)** Dans la limite de l’indemnité versée par la Caisse au titre du paragraphe (2), l’administrateur de celle-ci est subrogé dans les droits du réclamant à l’égard des pertes ou dommages visés; il peut notamment intenter une action au nom de celui-ci ou en son propre nom.
-> 2002, ch. 10, art. 154; 2009, ch. 21, art. 23.
+> 2002, ch. 10, art. 154; 2009, ch. 21, art. 23
 
 
 
@@ -3129,7 +3131,7 @@ Sont exclues de la présente définition les formes d’utilisation des ressourc
 **Chose jugée**
 
 **166** Sous réserve des articles 167 à 169 et de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), la décision du Tribunal sur une question de fait relevant de sa compétence a force de chose jugée. Il en va de même, dans le cadre de la demande formée en vertu de l’article 155, de toute question relative aux pertes ou dommages mentionnés au paragraphe 153(1).
-> 2002, ch. 10, art. 166 et 201.
+> 2002, ch. 10, art. 166 et 201
 
 
 
@@ -3442,6 +3444,33 @@ Liste des dispositions de la présente loi et des dispositions correspondantes d
 ### **ANNEXE 2** 
 **(article 18)**
 Moi, ____________, je déclare solennellement (ou jure) que j’exercerai avec fidélité, sans parti-pris, honnêtement et au mieux de mon jugement et de mon habileté les fonctions qui m’incombent en qualité de membre de l’Office des eaux du Nunavut. (Ainsi Dieu me soit en aide.)
+
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2015, ch. 19, art. 54
+
+
+**Délais**
+
+**54** Les délais prévus à l’article 55.2 de la Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut commencent à courir à la date d’entrée en vigueur de l’article 44 relativement aux demandes de délivrance, de renouvellement ou de modification de permis présentées avant cette date.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 28, art. 173
+
+**173** Le paragraphe 77(10) de la Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut est remplacé par ce qui suit :
+
+**Fonctions des directeurs de l’enregistrement**
+
+- **(10)** Les dispositions de l’article 210 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) concernant, d’une part, les plans, profils et livres de renvoi confiés par cette loi aux directeurs de l’enregistrement et, d’autre part, les fonctions de ces personnes à cet égard s’appliquent, dans la mesure où elles le peuvent et ne sont pas incompatibles avec la présente partie, aux copies déposées en application du paragraphe (9).
 
 
 
