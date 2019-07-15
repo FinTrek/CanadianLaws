@@ -76,7 +76,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***membre de la première nation*** Personne dont le nom apparaît sur la liste de bande de la première nation ou qui a droit à ce que son nom y figure. (*first nation member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Services aux Autochtones. (*Minister*)
 
 ***pétrole*** Tout hydrocarbure, sauf le condensat, qui peut être extrait ou récupéré, sous forme liquide, de gisements en affleurement ou souterrains ou qui peut être extrait ou récupéré de sables pétrolifères, du bitume ou de sables ou schistes bitumineux. (*oil*)
 
@@ -101,7 +101,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Terminologie**
 
 - **(3)** Sauf indication contraire, les autres termes de la présente loi s’entendent au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
-> 2005, ch. 48, art. 2; 2012, ch. 19, art. 61.
+> 2005, ch. 48, art. 2; 2012, ch. 19, art. 612019, ch. 29, art. 375
 
 
 
@@ -353,7 +353,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Changement de nom**
 
 - **(2)** Le ministre peut, par arrêté, modifier l’annexe 1 sur réception d’une résolution du conseil de la première nation l’informant de la modification de son nom.
-> 2005, ch. 48, art. 22; 2019, ch. 29, art. 385.
+> 2005, ch. 48, art. 222019, ch. 29, art. 385
 
 
 
@@ -700,7 +700,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **48** La tenue des livres comptables relatifs aux recettes pétrolières ou gazières et l’établissement chaque année des états financiers afférents selon les principes comptables généralement reconnus de Comptables professionnels agréés du Canada incombent :
 - **a)** si aucune fiducie n’a été constituée, au conseil de la première nation;
 - **b)** dans le cas contraire, aux fiduciaires et au conseil de la première nation.
-> 2005, ch. 48, art. 48; 2017, ch. 26, art. 62.
+> 2005, ch. 48, art. 48; 2017, ch. 26, art. 62
 
 
 
@@ -711,7 +711,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **49** La tenue des livres comptables relatifs aux fonds versés aux termes des articles 30 et 31 et l’établissement chaque année des états financiers afférents selon les principes comptables généralement reconnus de Comptables professionnels agréés du Canada incombent :
 - **a)** si un compte a été ouvert, au conseil de la première nation;
 - **b)** si une fiducie a été constituée, aux fiduciaires et au conseil de la première nation.
-> 2005, ch. 48, art. 49; 2017, ch. 26, art. 62.
+> 2005, ch. 48, art. 49; 2017, ch. 26, art. 62
 
 
 
@@ -726,7 +726,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copies**
 
 - **(2)** Les états financiers vérifiés sont mis à la disposition des membres de la première nation dans les cent vingt jours suivant la fin de l’exercice. Une copie leur est fournie moyennant le paiement de droits dont le montant ne dépasse pas le coût supporté pour la fourniture de la copie.
-> 2005, ch. 48, art. 50; 2017, ch. 26, art. 62.
+> 2005, ch. 48, art. 50; 2017, ch. 26, art. 62
 
 
 
@@ -908,7 +908,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(3)** Les exigences prévues par les règlements pris en vertu du paragraphe (1) doivent être comparables de façon générale avec celles qui sont établies pour des circonstances semblables en vertu de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
-> 2005, ch. 48, art. 63; 2012, ch. 19, art. 62.
+> 2005, ch. 48, art. 63; 2012, ch. 19, art. 62
 
 
 
@@ -937,6 +937,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **1** Première Nation de Kawacatoose
 
 
-> 2005, ch. 48, ann. 2; DORS/2014-64.
+> 2005, ch. 48, ann. 2; DORS/2014-64
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 28, art. 179
+
+
+**
+> 2012, ch.19, art. 61
+**
+
+**179** Le paragraphe 2(2) de la Loi sur la gestion du pétrole et du gaz et des fonds des Premières Nations est remplacé par ce qui suit :
+
+**Terminologie**
+
+- **(2)** Dans la présente loi, ***environnement*** s’entend au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) et ***effets environnementaux*** s’entend au sens de l’article 81 de cette loi.
+
+
+
+######           — 2019, ch. 28, al. 188c)
+
+
+**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
+
+**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
+- **c)** le paragraphe 63(3) de la Loi sur la gestion du pétrole et du gaz et des fonds des Premières Nations;
+
 
 
