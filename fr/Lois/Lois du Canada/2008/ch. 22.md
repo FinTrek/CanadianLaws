@@ -60,7 +60,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***indemnité maximale*** La somme maximale prévue à l’alinéa 20(1)b). (*claim limit*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***partie*** S’agissant d’une revendication particulière, tout revendicateur, Sa Majesté ou toute province ou première nation à qui la qualité de partie est accordée aux termes des articles 23 ou 24. (*party*)
 
@@ -76,6 +76,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Sa Majesté*** Sa Majesté du chef du Canada. (*Crown*)
 
 ***Tribunal*** Le Tribunal des revendications particulières constitué par le paragraphe 6(1). (*Tribunal*)
+> 2008, ch. 22, art. 22019, ch. 29, art. 373
+
 
 
 
@@ -239,7 +241,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(5)** La non-publication des règles dans la First Nations Gazette ne porte pas atteinte à leur validité.
-> 2008, ch. 22, art. 12; 2014, ch. 20, art. 470.
+> 2008, ch. 22, art. 12; 2014, ch. 20, art. 470
 
 
 
@@ -341,12 +343,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Pour l’application du paragraphe (1), le ministre :
 	- **a)** établit la norme minimale acceptable relativement au type de renseignements à fournir pour le dépôt des revendications, ainsi que des modalités acceptables de forme et de présentation de ceux-ci;
-	- **b)** affiche le texte de cette norme sur le site Internet du ministère des Affaires indiennes et du Nord canadien;
+	- **b)** affiche le texte de cette norme sur le site Internet du ministère des Relations Couronne-Autochtones et des Affaires du Nord;
 	- **c)** avise par écrit la première nation de la date du dépôt de la revendication.
 
 **Validité du dépôt**
 
 - **(3)** La revendication n’est déposée auprès du ministre que si elle lui est présentée en conformité avec la norme et les modalités établies en application de l’alinéa (2)a).
+> 2008, ch. 22, art. 162019, ch. 29, art. 371
+
 
 
 
@@ -859,6 +863,18 @@ Entente sur l’autonomie gouvernementale du Conseil des Ta’an Kwach’an<br /
 Entente sur l’autonomie gouvernementale du conseil des Tlingits de Teslin<br />- <i>Teslin Tlingit Council Self-Government Agreement</i>
 
 
-> 2008, ch. 22, ann., ch. 32, art. 31; 2009, ch. 18, art. 24; 2014, ch. 11, art. 26; 2018, ch. 4, art. 133.
+> 2008, ch. 22, ann., ch. 32, art. 31; 2009, ch. 18, art. 24; 2014, ch. 11, art. 26; 2018, ch. 4, art. 133
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2013, ch. 25, art. 24
+
+**24** La partie 1 de l’annexe de la Loi sur le Tribunal des revendications particulières est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+Loi sur l’accord définitif concernant la Première Nation de Yale<br />- <i>Yale First Nation Final Agreement Act</i>
+
 
 
