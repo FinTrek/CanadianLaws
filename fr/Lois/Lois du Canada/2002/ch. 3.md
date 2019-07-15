@@ -39,11 +39,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** en Alberta, le sable et le gravier de surface et les redevances afférentes;
 - **b)** en Saskatchewan, tout le sable et le gravier et les redevances afférentes. (*mines and minerals*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***première nation*** Bande au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*first nation*)
 
 ***réserve*** S’entend au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*reserve*)
+> 2002, ch. 3, art. 22019, ch. 29, art. 373
+
 
 
 
