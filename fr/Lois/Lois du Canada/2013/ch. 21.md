@@ -58,7 +58,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***fonctionnaire provincial*** Employé d’une province. Sont assimilés aux fonctionnaires provinciaux les ministres provinciaux et les personnes nommées aux organismes provinciaux ou employées par ceux-ci. (*provincial official*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Services aux Autochtones. (*Minister*)
 
 ***organisme provincial*** Organisme constitué par une loi provinciale. (*provincial body*)
 
@@ -77,6 +77,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 - **(2)** Le gouverneur en conseil peut prendre des règlements prévoyant, pour l’application de la présente loi, qu’une bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) est une première nation et que les terres délimitées par ces règlements sont les terres d’une première nation.
+> 2013, ch. 21, art. 22019, ch. 29, art. 375
+
 
 
 
