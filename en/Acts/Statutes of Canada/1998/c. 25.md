@@ -63,7 +63,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(b)** all organic and inorganic matter and living organisms; and
 - **(c)** the interacting natural systems that include components referred to in paragraphs (a) and (b). (*environnement*)
 
-***federal Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre fédéral*)
+***federal Minister*** means the Minister of Northern Affairs. (*ministre fédéral*)
 
 ***first nation*** means the Gwich’in First Nation, the Sahtu First Nation or bodies representing other Dene or Metis of the North Slave, South Slave or Deh Cho region of the Mackenzie Valley, but does not include the Tlicho First Nation or the Tlicho Government. (*première nation*)
 
@@ -112,7 +112,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***Tlicho law*** means a law enacted by the Tlicho Government. (*loi tlicho*)
 
 ***Wekeezhii*** means the area described in part 2 of the appendix to chapter 1 of the Tlicho Agreement. (*Wekeezhii*)
-> 1998, c. 25, s. 2; 2000, c. 32, s. 50; 2002, c. 7, s. 205(E); 2005, c. 1, s. 15; 2014, c. 2, s. 113; 2015, c. 24, s. 22.
+> 1998, c. 25, s. 2; 2000, c. 32, s. 50; 2002, c. 7, s. 205(E); 2005, c. 1, s. 15; 2014, c. 2, s. 113; 2015, c. 24, s. 222019, c. 29, s. 374
 
 
 
@@ -159,7 +159,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(b)** a department, agency or office of the federal or the territorial government;
 	- **(c)** a board or other public body established by or under an Act of Parliament or by a territorial law; or
 	- **(d)** any other entity.
-> 1998, c. 25, s. 4; 2005, c. 1, s. 16; 2014, c. 2, s. 114; 2015, c. 24, s. 23.
+> 1998, c. 25, s. 4; 2005, c. 1, s. 16; 2014, c. 2, s. 114; 2015, c. 24, s. 23
 
 
 
@@ -174,7 +174,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Aboriginal rights**
 
 - **(2)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982.
-> 1998, c. 25, s. 5; 2015, c. 24, s. 24.
+> 1998, c. 25, s. 5; 2015, c. 24, s. 24
 
 
 
@@ -183,7 +183,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Agreement between Tlicho Government and another aboriginal people**
 
 **5.1** The rights of the Tlicho First Nation, Tlicho citizens and the Tlicho Government under this Act are subject to the provisions of any agreement entered into between the Tlicho Government and an aboriginal people, other than the Tlicho First Nation, under 2.7.3 of chapter 2 of the Tlicho Agreement.
-> 2005, c. 1, s. 17.
+> 2005, c. 1, s. 17
 
 
 
@@ -215,7 +215,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 - **(3)** The Governor in Council may, by regulation, exempt a period or time limit set out in the regulations, other than those referred to in paragraph 2(a), from the application of subsection (1).
-> 2014, c. 2, s. 115.
+> 2014, c. 2, s. 115
 
 
 
@@ -235,7 +235,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application to Her Majesty**
 
 **7** This Act is binding on Her Majesty in right of Canada or a province, except that Her Majesty in right of Canada is not required to pay any fee prescribed by regulations made under paragraph 90.3(1)(k) or subparagraph 90.3(2)(a)(i).
-> 1998, c. 25, s. 7; 2014, c. 2, s. 116.
+> 1998, c. 25, s. 7; 2014, c. 2, s. 116
 
 
 
@@ -244,7 +244,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Waters vested in Her Majesty**
 
 **7.1** Subject to any rights, powers or privileges granted or preserved under the [Dominion Water Power Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-4.md), the property in and the right to the use and flow of all waters are vested in Her Majesty in right of Canada.
-> 2014, c. 2, s. 116.
+> 2014, c. 2, s. 116
 
 
 
@@ -253,7 +253,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Other Acts, etc., to be complied with**
 
 **7.2** For greater certainty, nothing in this Act, the regulations or a licence or permit, as defined in section 51, authorizes a person to contravene or fail to comply with any other Act or any regulation or order made under it, except as provided in that other Act, regulation or order.
-> 2014, c. 2, s. 116.
+> 2014, c. 2, s. 116
 
 
 
@@ -268,7 +268,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Review of Act**
 
 - **(2)** The federal Minister shall, in the course of any negotiations with a first nation relating to self-government, review the pertinent provisions of this Act in consultation with that first nation.
-> 1998, c. 25, s. 8; 2005, c. 1, s. 18; 2015, c. 24, s. 25.
+> 1998, c. 25, s. 8; 2005, c. 1, s. 18; 2015, c. 24, s. 25
 
 
 
@@ -315,7 +315,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** Except in the case of the Wekeezhii Land and Water Board, the federal Minister may appoint
 	- **(a)** alternate members selected from persons nominated for that purpose by a first nation, or selected following consultation with first nations, to act in the event of the absence or incapacity of members appointed on such nomination or following such consultation, respectively; and
 	- **(b)** alternate members agreed to by the territorial Minister to act in the event of the absence or incapacity of members other than members referred to in paragraph (a).
-> 1998, c. 25, s. 11; 2005, c. 1, s. 19.
+> 1998, c. 25, s. 11; 2005, c. 1, s. 19
 
 
 
@@ -338,7 +338,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Absence or incapacity of chairperson**
 
 - **(3)** The board may designate a member to act as its chairperson during the absence or incapacity of the chairperson or a vacancy in the office of chairperson, and that person while so acting may exercise the powers and shall perform the duties of the chairperson.
-> 1998, c. 25, s. 12; 2005, c. 1, s. 20.
+> 1998, c. 25, s. 12; 2005, c. 1, s. 20
 
 
 
@@ -368,7 +368,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Removal by Tlicho Government after consultation**
 
 - **(4)** A member of the Wekeezhii Land and Water Board who has been appointed by the Tlicho Government may not be removed from office except after consultation by the Tlicho Government with the Board and the federal Minister.
-> 1998, c. 25, s. 14; 2005, c. 1, s. 21.
+> 1998, c. 25, s. 14; 2005, c. 1, s. 21
 
 
 
@@ -377,7 +377,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Implementation of right of representation of other Aboriginal peoples**
 
 **15** Despite any provision of this Act respecting members of a board, if an Aboriginal people has a right under a land claim agreement to representation on that board in relation to a decision of the board that might affect an area used by that Aboriginal people that is outside the board’s area of jurisdiction, the board shall, in accordance with that land claim agreement, determine how to implement that right, so long as the number of members who are either nominated by a first nation, nominated or appointed by the Tlicho Government or appointed following consultation by the federal Minister with the first nations of the regions of the Mackenzie Valley outside the settlement areas and Wekeezhii, as the case may be, and who are temporarily appointed to implement that right remains equal to the number of other members not including the chairperson.
-> 1998, c. 25, s. 15; 2005, c. 1, s. 22; 2019, c. 19, s. 2.
+> 1998, c. 25, s. 15; 2005, c. 1, s. 222019, c. 19, s. 2
 
 
 
@@ -392,7 +392,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Status or entitlements under agreement**
 
 - **(2)** A member of a board is not placed in a material conflict of interest merely because of any status or entitlement conferred on the member under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands or under the Déline Agreement.
-> 1998, c. 25, s. 16; 2005, c. 1, s. 23; 2015, c. 24, s. 26.
+> 1998, c. 25, s. 16; 2005, c. 1, s. 23; 2015, c. 24, s. 26
 
 
 
@@ -407,7 +407,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Expenses**
 
 - **(2)** Such members shall be paid such travel and living expenses, incurred by them while absent from their ordinary place of residence in the course of performing their duties, as are consistent with directives of the Treasury Board.
-> 1998, c. 25, s. 17; 2005, c. 1, s. 24; 2014, c. 2, s. 123.
+> 1998, c. 25, s. 17; 2005, c. 1, s. 24; 2014, c. 2, s. 123
 
 
 
@@ -429,7 +429,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Benefits**
 
 **19** The members of a board and its employees are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 1998, c. 25, s. 19; 2003, c. 22, s. 224(E).
+> 1998, c. 25, s. 19; 2003, c. 22, s. 224(E)
 
 
 
@@ -438,7 +438,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Protection from personal liability**
 
 **20** The members and employees of a board are not liable for anything done or omitted to be done in good faith in the exercise or performance or purported exercise or performance of any powers, duties or functions under this Act.
-> 1998, c. 25, s. 20; 2014, c. 2, s. 124.
+> 1998, c. 25, s. 20; 2014, c. 2, s. 124
 
 
 
@@ -464,7 +464,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Government information**
 
 **22** Subject to any other federal or territorial law and to any Tlicho law or Déline law, a board may obtain from any department or agency of the federal or territorial government, the Tlicho Government or the Déline Got’ine Government any information in the possession of the department, agency, Tlicho Government or Déline Got’ine Government that the board requires for the performance of its functions.
-> 1998, c. 25, s. 22; 2005, c. 1, s. 25; 2015, c. 24, s. 27.
+> 1998, c. 25, s. 22; 2005, c. 1, s. 25; 2015, c. 24, s. 27
 
 
 
@@ -480,7 +480,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Hearings**
 
 **24** In addition to hearings that a board is authorized or required to hold under this Act, a board may conduct any hearings that it considers to be desirable for the purpose of carrying out any of its functions.
-> 1998, c. 25, s. 24; 2005, c. 1, s. 26; 2014, c. 2, s. 125(F).
+> 1998, c. 25, s. 24; 2005, c. 1, s. 26; 2014, c. 2, s. 125(F)
 
 
 
@@ -495,7 +495,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(d)** committees, or similar bodies, established for the management of protected areas as defined in any of the land claim agreements;
 - **(e)** renewable resources boards established under any of the land claim agreements; and
 - **(f)** land use planning bodies established for Wekeezhii or any part of Wekeezhii.
-> 2005, c. 1, s. 26; 2014, c. 2, s. 126(F).
+> 2005, c. 1, s. 26; 2014, c. 2, s. 126(F)
 
 
 
@@ -533,7 +533,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Funding**
 
 - **(5)** The federal Minister may establish funding arrangements with each board specifying the manner in which funding will be made available pursuant to a budget approved by the federal Minister.
-> 1998, c. 25, s. 26; 2017, c. 26, s. 62.
+> 1998, c. 25, s. 26; 2017, c. 26, s. 62
 
 
 
@@ -584,7 +584,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication of notice**
 
-- **(2)** Before making rules under this section, a board shall publish notice of its intention in the Canada Gazette and in a newspaper circulated in the Mackenzie Valley, inviting interested persons to submit written representations to the board with respect to the proposed rules within thirty days after the publication of notice.
+- **(2)** Before making rules under this section, a board shall publish notice of its intention in the [Canada Gazette](http://www.gazette.gc.ca/) and in a newspaper circulated in the Mackenzie Valley, inviting interested persons to submit written representations to the board with respect to the proposed rules within thirty days after the publication of notice.
 
 **No further notice**
 
@@ -599,14 +599,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of rules under section 30, a land use plan or amendment to a land use plan under Part 2, rules under subsection 49(2), guidelines or policies under section 65, policy directions under subsection 50.1(1) or 83(1), (2) or (2.1), directions under section 106, policy directions under section 109 or 109.1 or subsection 142.2(1) or guidelines under section 120.
 
-**Notice in Canada Gazette**
+**Notice in [Canada Gazette](http://www.gazette.gc.ca/)**
 
-- **(2)** A notice shall be published in the Canada Gazette immediately after policy directions are received by a board, a land use plan or amendment thereto is approved, or any other instrument referred to in subsection (1) is made or issued, stating that copies thereof are available to the public at the main office of the board and at such other locations as the board considers appropriate.
+- **(2)** A notice shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) immediately after policy directions are received by a board, a land use plan or amendment thereto is approved, or any other instrument referred to in subsection (1) is made or issued, stating that copies thereof are available to the public at the main office of the board and at such other locations as the board considers appropriate.
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(3)** For greater certainty, licences and permits issued by a board under Part 3 or 4, either before or after the coming into force of this subsection, as enacted by subsection 128(3) of the Northwest Territories Devolution Act, are not statutory instruments as defined in the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1998, c. 25, s. 31; 2005, c. 1, s. 27; 2014, c. 2, s. 128; 2015, c. 24, s. 28.
+> 1998, c. 25, s. 31; 2005, c. 1, s. 27; 2014, c. 2, s. 128; 2015, c. 24, s. 28
 
 
 
@@ -619,7 +619,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exclusive original jurisdiction**
 
 **32** Despite section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Supreme Court of the Northwest Territories has exclusive original jurisdiction to hear and determine an application for any relief against a board by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition by the Attorney General of Canada, the Attorney General of the Northwest Territories or anyone directly affected by the matter in respect of which relief is sought.
-> 1998, c. 25, s. 32; 2002, c. 8, s. 182; 2005, c. 1, s. 28; 2014, c. 2, s. 129.
+> 1998, c. 25, s. 32; 2002, c. 8, s. 182; 2005, c. 1, s. 28; 2014, c. 2, s. 129
 
 
 
@@ -644,7 +644,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of Part 2**
 
 **34** Subject to subsection 46(2), this Part does not apply in respect of lands in a settlement area that comprise a park to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies, that have been acquired pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) or that are situated within the boundaries of a local government.
-> 1998, c. 25, s. 34; 2000, c. 32, s. 51.
+> 1998, c. 25, s. 34; 2000, c. 32, s. 51
 
 
 
@@ -762,7 +762,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Public hearings**
 
 - **(2)** A planning board may hold public hearings in relation to a proposed land use plan after publishing in the settlement area and in adjoining settlement areas in the Mackenzie Valley a notice specifying the times and places of the hearings and the procedure to be followed.
-> 1998, c. 25, s. 42; 2014, c. 2, s. 130(F).
+> 1998, c. 25, s. 42; 2014, c. 2, s. 130(F)
 
 
 
@@ -832,7 +832,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **National parks and historic sites**
 
 - **(2)** In particular, measures carried out by a department or agency of government leading to the establishment of a park subject to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), and the acquisition of lands pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md), in a settlement area shall be carried out in accordance with the applicable land use plan.
-> 1998, c. 25, s. 46; 2000, c. 32, s. 52.
+> 1998, c. 25, s. 46; 2000, c. 32, s. 52
 
 
 
@@ -918,7 +918,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Conflict**
 
 - **(3)** If there is a conflict between the policy directions given under this section and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
-> 2014, c. 2, s. 131.
+> 2014, c. 2, s. 131
 
 
 
@@ -989,7 +989,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***water management area*** means a water management area established by the Governor in Council by regulations made under subparagraph 90.3(1)(a)(i). (*zone de gestion des eaux*)
 
 ***waters*** means any inland waters, whether in a liquid or frozen state, on or below the surface of land. (*eaux*)
-> 1998, c. 15, s. 48, c. 25, s. 51; 2005, c. 1, s. 29; 2014, c. 2, s. 132.
+> 1998, c. 15, s. 48, c. 25, s. 51; 2005, c. 1, s. 29; 2014, c. 2, s. 132
 
 
 
@@ -1008,7 +1008,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Consultation with authority**
 
 - **(3)** A board shall consult a responsible authority referred to in subsection (2) before issuing a licence, permit or authorization for a use of land or waters or deposit of waste that may have an effect in the portion of the management area in which the authority is responsible.
-> 1998, c. 25, s. 52; 2000, c. 32, s. 53; 2005, c. 1, s. 30.
+> 1998, c. 25, s. 52; 2000, c. 32, s. 53; 2005, c. 1, s. 30
 
 
 
@@ -1040,7 +1040,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Federal area — deletion**
 
 - **(2)** If the Government of Canada ceases to be responsible for the Management — as defined in the Northwest Territories Lands and Resources Devolution Agreement that was made on June 25, 2013 — of a waste site, the federal Minister shall immediately notify the board in writing.
-> 2014, c. 2, s. 135.
+> 2014, c. 2, s. 135
 
 
 
@@ -1123,7 +1123,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Quorum**
 
 - **(4)** A quorum of the Board consists of three members, or any larger number that is determined by the Board, including one of the members appointed by the Tlicho Government or in accordance with any agreement referred to in subsection (2) and one of the members appointed by the federal Minister, other than the chairperson.
-> 2005, c. 1, s. 31.
+> 2005, c. 1, s. 31
 
 
 
@@ -1132,7 +1132,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Main office**
 
 **57.2** The main office of the Board shall be located in Wekeezhii.
-> 2005, c. 1, s. 31.
+> 2005, c. 1, s. 31
 
 
 
@@ -1155,7 +1155,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Deemed acceptance**
 
 - **(3)** If the federal Minister neither accepts nor rejects the request within two months after the day on which it is made, the request is deemed to be accepted.
-> 2019, c. 19, s. 3.
+> 2019, c. 19, s. 3
 
 
 
@@ -1164,7 +1164,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Objectives — Gwich’in and Sahtu Land and Water Boards**
 
 **58** The Gwich’in Land and Water Board and the Sahtu Land and Water Board shall regulate the use of land and waters and the deposit of waste so as to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit for residents of their respective management areas and of the Mackenzie Valley and for all Canadians.
-> 1998, c. 25, s. 58; 2005, c. 1, s. 32.
+> 1998, c. 25, s. 58; 2005, c. 1, s. 32
 
 
 
@@ -1173,7 +1173,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Objectives — Wekeezhii Land and Water Board**
 
 **58.1** The Wekeezhii Land and Water Board shall regulate the use of land and waters and the deposit of waste so as to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit generally for all Canadians and in particular for residents of its management area.
-> 2005, c. 1, s. 32.
+> 2005, c. 1, s. 32
 
 
 
@@ -1188,7 +1188,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Subsurface rights**
 
 - **(2)** For greater certainty, the jurisdiction of a board under subsection (1) includes a use of land that is required for the exercise of subsurface rights.
-> 1998, c. 25, s. 59; 2005, c. 1, s. 33.
+> 1998, c. 25, s. 59; 2005, c. 1, s. 33
 
 
 
@@ -1213,7 +1213,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Suspension power**
 
 - **(2)** A board may suspend a licence in respect of a federal area for a specified period, or until terms and conditions specified by it are complied with, if the licensee contravenes a provision of this Part or a term or condition of the licence.
-> 1998, c. 15, s. 48, c. 25, s. 60; 2002, c. 10, s. 178; 2005, c. 1, s. 34; 2014, c. 2, ss. 110, 138, 139.
+> 1998, c. 15, s. 48, c. 25, s. 60; 2002, c. 10, s. 178; 2005, c. 1, s. 34; 2014, c. 2, ss. 110, 138, 139
 
 
 
@@ -1224,7 +1224,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **60.1** In exercising its powers, a board shall consider
 - **(a)** the importance of conservation to the well-being and way of life of the aboriginal peoples of Canada to whom section 35 of the Constitution Act, 1982 applies and who use an area of the Mackenzie Valley; and
 - **(b)** any traditional knowledge and scientific information that is made available to it.
-> 2005, c. 1, s. 35.
+> 2005, c. 1, s. 35
 
 
 
@@ -1239,7 +1239,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Conformity with land use plan — Wekeezhii Board**
 
 - **(2)** The Wekeezhii Land and Water Board may not issue, amend or renew a licence, permit or authorization except in accordance with any land use plan, established under a federal, territorial or Tlicho law, that is applicable to any part of its management area.
-> 1998, c. 25, s. 61; 2005, c. 1, s. 35.
+> 1998, c. 25, s. 61; 2005, c. 1, s. 35
 
 
 
@@ -1248,7 +1248,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Conformity with Tlicho laws — Wekeezhii Board**
 
 **61.1** The Wekeezhii Land and Water Board may not exercise its discretionary powers relating to the use of Tlicho lands except in accordance with any Tlicho laws enacted under 7.4.2 of chapter 7 of the Tlicho Agreement.
-> 2005, c. 1, s. 35.
+> 2005, c. 1, s. 35
 
 
 
@@ -1282,7 +1282,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Consultation with Déline Got’ine Government**
 
 - **(5)** The Sahtu Land and Water Board shall consult the Déline Got’ine Government before issuing, amending or renewing any licence, permit or authorization for a use of Déline lands or waters on those lands or a deposit of waste on those lands or in those waters.
-> 1998, c. 25, s. 63; 2005, c. 1, s. 36; 2015, c. 24, s. 29.
+> 1998, c. 25, s. 63; 2005, c. 1, s. 36; 2015, c. 24, s. 29
 
 
 
@@ -1297,7 +1297,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Wildlife resources**
 
 - **(2)** A board shall seek and consider the advice of the renewable resources board established by the land claim agreement applicable in its management area respecting the presence of wildlife and wildlife habitat that might be affected by a use of land or waters or a deposit of waste proposed in an application for a licence or permit.
-> 1998, c. 25, s. 64; 2005, c. 1, s. 37.
+> 1998, c. 25, s. 64; 2005, c. 1, s. 37
 
 
 
@@ -1312,7 +1312,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Guidelines and policies — licences**
 
 - **(2)** Subject to the regulations and any territorial law, a board may establish guidelines and policies respecting licences, including their issuance under this Part.
-> 1998, c. 25, s. 65; 2014, c. 2, s. 140.
+> 1998, c. 25, s. 65; 2014, c. 2, s. 140
 
 
 
@@ -1328,7 +1328,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Final decision**
 
 **67** Subject to sections 32 and 72.13, subsections 125(1.2) and (4) and any approval requirement under any territorial law with respect to the issuance, renewal, amendment or cancellation of a licence, every decision or order of a board is final and binding.
-> 1998, c. 25, s. 67; 2014, c. 2, s. 141; 2019, c. 19, s. 4.
+> 1998, c. 25, s. 67; 2014, c. 2, s. 1412019, c. 19, s. 4
 
 
 
@@ -1347,7 +1347,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Copies of contents of register**
 
 - **(3)** A board shall, on request and on payment of any fee prescribed by the regulations, make available copies of information contained in the register.
-> 1998, c. 25, s. 68; 2005, c. 1, s. 38; 2014, c. 2, s. 141.
+> 1998, c. 25, s. 68; 2005, c. 1, s. 38; 2014, c. 2, s. 141
 
 
 
@@ -1363,7 +1363,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** the territorial Minister, in the case of land of which the Commissioner of the Northwest Territories has administration and control;
 - **(b)** the minister of the Government of Canada having administration and control of the land in the case of any land under that minister’s administration and control; or
 - **(c)** the owner of the land, in any other case.
-> 1998, c. 25, s. 69; 2014, c. 2, s. 142.
+> 1998, c. 25, s. 69; 2014, c. 2, s. 142
 
 
 
@@ -1427,7 +1427,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Duties in certain cases**
 
 - **(3)** If any person diverts waters for a purpose set out in paragraph (2)(c), the person shall, when the need for the diversion has ceased, discontinue the diversion and, in so far as possible, restore the original channel conditions.
-> 1998, c. 25, s. 72; 2014, c. 2, s. 145.
+> 1998, c. 25, s. 72; 2014, c. 2, s. 145
 
 
 
@@ -1448,7 +1448,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Duty to report unlawful deposits of waste**
 
 - **(3)** If waste is deposited in contravention of this section, every person who owns the waste or has the charge, management or control of it — or who caused or contributed to the deposit — shall, without delay, in accordance with the regulations, if any, made under paragraph 90.3(1)(o), report the deposit to the person or authority designated under that paragraph or, if no such person or authority has been designated, to an inspector designated under subsection 84(1).
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1457,7 +1457,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exemption — Tlicho communities**
 
 **72.02** Sections 72 and 72.01 do not apply in respect of a use of waters or a deposit of waste in a Tlicho community if the local government of that community has enacted a bylaw providing that a licence is not required for that type of use or deposit.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1522,7 +1522,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(c)** the extent and duration of the adverse effect, including the incremental adverse effect;
 	- **(d)** the extent of the use of waters by persons who would be adversely affected; and
 	- **(e)** nuisance, inconvenience and noise.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1573,7 +1573,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Licence conditions deemed amended**
 
 - **(7)** If regulations referred to in subsection (3), (4), (5) or (6) are made or amended after the issuance of a licence in respect of a federal area, the conditions of the licence are deemed to be amended to the extent, if any, that is necessary to comply, or remain in compliance, with that subsection.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1596,7 +1596,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Costs**
 
 - **(3)** Unless otherwise determined by the Nunavut Water Board, costs incurred by the designated Inuit organization as a result of a request referred to in subparagraph (1)(b)(i) shall be paid by the applicant.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1605,7 +1605,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Negotiation to be in good faith**
 
 **72.06** A board shall not consider a request referred to in subparagraph 72.05(1)(b)(i) unless the requester has negotiated in good faith and has been unable to reach an agreement.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1620,7 +1620,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(d)** the cultural attachment of Inuit to the affected Inuit-owned land, including waters;
 - **(e)** the peculiar and special value of the affected Inuit-owned land, including waters; and
 - **(f)** any interference with Inuit rights derived from the Agreement or otherwise.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1629,7 +1629,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Periodic review and payment**
 
 **72.08** Unless otherwise agreed by the designated Inuit organization and the applicant, a determination of compensation made under paragraph 72.05(1)(b) shall provide, having due regard to the nature and duration of the use of waters or deposit of waste, for the periodic review and periodic payment of that compensation.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1650,7 +1650,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Interpretation**
 
 - **(2)** For greater certainty, sections 72.05 to 72.08 apply in respect of a body of water that delineates a boundary between Inuit-owned land and other land and that body of water is not located entirely on Inuit-owned land.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1667,7 +1667,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Information and studies**
 
 - **(2)** The board shall require an applicant for a licence to provide the board with the information and studies concerning the use of waters or deposit of waste proposed by the applicant that will enable the board to evaluate any qualitative and quantitative effects of the use or deposit on waters.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1698,7 +1698,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(5)** Any portion of the security that, in the federal Minister’s opinion, will not be required under subsection (2) shall be refunded without delay to the licensee or assignor, as the case may be, if the federal Minister is satisfied that
 	- **(a)** the appurtenant undertaking has been permanently closed or permanently abandoned; or
 	- **(b)** the licence has been assigned.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1730,7 +1730,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(3)** An application to cancel a licence shall be in the form and contain the information that is,
 	- **(a)** if the licence applies with respect to a federal area, prescribed by the regulations; and
 	- **(b)** if the licence applies with respect to lands outside a federal area, required under any territorial law.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1739,7 +1739,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Approval to issue, renew, amend or cancel**
 
 **72.13** A board may issue, renew, amend or cancel — in respect of a federal area or lands outside a federal area — a type A licence, or a type B licence in connection with which a public hearing is held by the board with respect to its issuance, renewal, amendment or cancellation, only with the approval of the federal Minister.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1758,7 +1758,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Licence not otherwise assignable**
 
 - **(3)** Except as provided in this section, a licence in respect of a federal area is not assignable.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1791,7 +1791,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** if, after giving notice of a public hearing under section 72.16, the board receives no notification on or before the 10th day before the day of the proposed hearing that any person or body intends to appear and make representations and the applicant or the licensee, as the case may be, consents in writing to the disposition of the matter without a public hearing;
 	- **(b)** if, in the case of a renewal of a type A licence, the licensee has filed with the board an application for renewal in accordance with the regulations made under paragraphs 90.3(1)(d) and (e) and the term of the renewal or renewals granted by the board does not exceed 60 days in the aggregate; or
 	- **(c)** if, in the case of an amendment to a type A licence under which the use, flow or quality of waters would be altered, the board, with the consent of the federal Minister, declares the amendment to be required on an emergency basis.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1814,7 +1814,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(4)** Subsections (1) to (3) do not apply in respect of an application for the amendment of a licence if a board, with the consent of the federal Minister in respect of a federal area or in accordance with any territorial law in respect of lands outside a federal area, declares the amendment to be required on an emergency basis.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1833,7 +1833,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(3)** Subsections (1) and (2) do not apply in respect of an application for the amendment of a licence if a board, with the consent of the federal Minister in respect of a federal area or in accordance with any territorial law in respect of lands outside a federal area, declares the amendment to be required on an emergency basis.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1860,7 +1860,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Absence of decision**
 
 - **(5)** If the federal Minister does not notify the board whether or not the decision is approved within the time limit referred to in subsection (3) or (4), whichever is applicable, the federal Minister is deemed to have given approval.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1869,7 +1869,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Time limit — other type B licences**
 
 **72.19** With respect to a federal area or lands outside a federal area, on an application for the issuance, renewal or amendment of a type B licence in connection with which no public hearing is held or if the board intends to consider, on its own initiative, the renewal or amendment of such a licence, the board shall make a decision within a period of nine months after the day on which the application is made or on which notice of the board’s intention is published under subsection 72.17(1) or (2).
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1878,7 +1878,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Time limit — other licences**
 
 **72.2** On an application for the issuance, renewal or amendment of a licence in respect of lands outside a federal area — other than a type A or type B licence — or, if the board intends to consider, on its own initiative, the renewal or amendment of such a licence, the board shall make a decision within a period of nine months after the day on which the application is made or on which notice of the board’s intention is published under subsection 72.17(2).
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1889,7 +1889,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **72.21** An application for the issuance, renewal or amendment of a licence is considered to be made on the day on which the board is satisfied that the application is in the form, and contains all of the information,
 - **(a)** if the licence applies with respect to a federal area, prescribed by the regulations; and
 - **(b)** if the licence applies with respect to lands outside a federal area, required under any territorial law.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1904,7 +1904,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Excluded period — environmental assessment, etc.**
 
 - **(2)** If the proposed use of waters or deposit of waste to which the application or the licence relates is part of a proposed development in respect of which an environmental assessment, an environmental impact review or an examination of impacts on the environment that stands in lieu of an environmental impact review is conducted under Part 5, then the period that is taken to complete that assessment, review or examination is not included in the calculation of the time limit under subsection 72.18(1), section 72.19 or 72.2 or of its extension.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1917,7 +1917,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(b)** if the board is not permitted to issue a licence except in accordance with subsection 72.05(1), until the applicant has entered into a compensation agreement under paragraph 72.05(1)(a) or until a determination of compensation has been made under paragraph 72.05(1)(b), as the case may be;
 - **(c)** if the board is not permitted to issue a licence with respect to lands outside a federal area except in accordance with any compensation requirement under any territorial law, until the requirement has been fulfilled; or
 - **(d)** if the board determines that the applicant is required to enter into a compensation agreement under section 77 or 79.1, until the applicant satisfies the board that they have done so or the board has determined, under section 79 or 79.3, the compensation payable by the applicant.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1932,7 +1932,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Extension of time limit by Governor in Council**
 
 - **(2)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (1) any number of times.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1941,7 +1941,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Reasons — decisions and orders**
 
 **72.25** A board shall issue, and make available to the public, written reasons for its decisions or orders relating to any licence, or any application for a licence, in respect of a federal area or lands outside a federal area.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1964,7 +1964,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Renewal or assignment of a licence or authorization**
 
 - **(3)** Subject to subsection (2), a licence or authorization that has been renewed or assigned shall, for the purposes of this section, be deemed to be a continuation of the original licence or authorization.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1979,7 +1979,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Rights protected**
 
 - **(2)** A person is not barred from exercising any rights conferred by subsection (1) merely because of having been paid the compensation referred to in subsection 72.03(5), or because of having been paid compensation under paragraph 72.11(2)(a) or under a compensation agreement referred to in subparagraph 72.03(5)(a)(ii).
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -1988,7 +1988,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Copies of licences**
 
 **72.28** A board shall provide the territorial Minister with copies of licences issued under this Part and of any decisions and orders relating to such licences.
-> 2014, c. 2, s. 145.
+> 2014, c. 2, s. 145
 
 
 
@@ -2007,7 +2007,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Use without licence — Tlicho citizens**
 
 - **(2)** Despite sections 72 and 72.01 or any territorial law — and subject to any applicable Tlicho laws and, in relation to waters that are on settlement lands, any limitations under the applicable land claim agreement that are of the same type as those that apply in relation to waters on Tlicho lands — Tlicho citizens have the right to use water in the part of Monfwi Gogha De Niitlee that is in the Northwest Territories without a licence, for purposes of wildlife harvesting under 10.1.1 of chapter 10 of the Tlicho Agreement, for purposes of transportation related to such wildlife harvesting and for heritage, cultural or spiritual purposes of the Tlicho First Nation.
-> 1998, c. 25, s. 73; 2005, c. 1, s. 39; 2014, c. 2, s. 163.
+> 1998, c. 25, s. 73; 2005, c. 1, s. 39; 2014, c. 2, s. 163
 
 
 
@@ -2016,7 +2016,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exclusive right**
 
 **74** Despite section 7.1, the Gwich’in and Sahtu First Nations have the exclusive right to the use of waters when on or flowing through their first nation lands and to the deposit of waste in relation to those waters in accordance with the other provisions of this Part or any territorial law, as the case may be.
-> 1998, c. 25, s. 74; 2014, c. 2, s. 163.
+> 1998, c. 25, s. 74; 2014, c. 2, s. 163
 
 
 
@@ -2035,7 +2035,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** there is no alternative that could reasonably satisfy the requirements of the applicant;
 - **(b)** there are no reasonable measures by which the applicant could avoid the interference; and
 - **(c)** in the case of a licence, the requirements of section 77 are satisfied.
-> 1998, c. 25, s. 76; 2005, c. 1, s. 40.
+> 1998, c. 25, s. 76; 2005, c. 1, s. 40
 
 
 
@@ -2050,7 +2050,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **77** The Gwich’in Land and Water Board or the Sahtu Land and Water Board may not issue, amend or renew a licence pursuant to section 76 unless
 - **(a)** the applicant and the first nation enter into an agreement to compensate the first nation for any loss or damage resulting from any substantial alteration to the quality, quantity or rate of flow of waters when on or flowing through its first nation lands, or waters adjacent to its first nation lands; or
 - **(b)** the applicant or the first nation applies to the board for a determination pursuant to subsection 79(1).
-> 1998, c. 25, s. 77; 2005, c. 1, s. 41.
+> 1998, c. 25, s. 77; 2005, c. 1, s. 41
 
 
 
@@ -2074,7 +2074,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(3)** Notwithstanding any other Act, a water authority that is notified by a board under subsection (1) may not authorize the proposed use of waters or deposit of waste unless
 	- **(a)** the applicant and the first nation have entered into an agreement to compensate the first nation for any loss or damage resulting from the alteration; or
 	- **(b)** the applicant or the first nation applies to the board for a determination pursuant to subsection 79(1).
-> 1998, c. 15, s. 48, c. 25, s. 78; 2000, c. 32, s. 54; 2005, c. 1, s. 42.
+> 1998, c. 15, s. 48, c. 25, s. 78; 2000, c. 32, s. 54; 2005, c. 1, s. 42
 
 
 
@@ -2095,7 +2095,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(b)** the nuisance or inconvenience to the first nation, including noise, that may result on first nation lands;
 	- **(c)** the effect on wildlife harvesting carried on by the first nation; and
 	- **(d)** any other factor that the board considers relevant in the circumstances.
-> 1998, c. 25, s. 79; 2005, c. 1, s. 43.
+> 1998, c. 25, s. 79; 2005, c. 1, s. 43
 
 
 
@@ -2110,7 +2110,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **79.1** The Wekeezhii Land and Water Board may not issue, amend or renew a licence for the use of waters or the deposit of waste if, in its opinion, that use or deposit is likely to substantially alter the quality, quantity or rate of flow of waters when on or flowing through Tlicho lands or waters adjacent to Tlicho lands unless
 - **(a)** the Board is satisfied that there is no alternative that could reasonably satisfy the requirements of the applicant and that there are no reasonable measures by which the applicant could avoid the alteration; and
 - **(b)** the applicant has entered into an agreement with the Tlicho Government to compensate the Tlicho First Nation for any loss or damage that may be caused by the alteration, or the applicant or the Tlicho Government has applied to the Board under subsection 79.3(1) for a determination of compensation for that loss or damage.
-> 2005, c. 1, s. 44.
+> 2005, c. 1, s. 44
 
 
 
@@ -2134,7 +2134,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(3)** Despite any other Act, a water authority that is notified by the Board under subsection (1) may not authorize the proposed use of waters or deposit of waste unless
 	- **(a)** the applicant and the Tlicho Government have entered into an agreement to compensate the Tlicho First Nation for any loss or damage that may be caused by the alteration; or
 	- **(b)** the applicant or the Tlicho Government applies to the Board under subsection 79.3(1) for a determination.
-> 2005, c. 1, s. 44.
+> 2005, c. 1, s. 44
 
 
 
@@ -2159,7 +2159,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Form of compensation**
 
 - **(3)** The compensation may be in the form of a lump sum payment or periodic payments or non-monetary compensation, including replacement of, or substitution for, damaged or lost property or relocation of Tlicho citizens or their property, or any combination of those forms of compensation.
-> 2005, c. 1, s. 44.
+> 2005, c. 1, s. 44
 
 
 
@@ -2181,7 +2181,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Debt due to Her Majesty**
 
 - **(2)** The amounts and costs that a person is to pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
-> 2019, c. 19, s. 5.
+> 2019, c. 19, s. 5
 
 
 
@@ -2210,7 +2210,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Settlement lands outside settlement area**
 
 - **(4)** Where first nation lands from which construction materials are requested are situated outside the first nation’s settlement area but within the Northwest Territories, the board shall consult the resource management authority having jurisdiction in respect of those lands before making any determination under subsection (3).
-> 1998, c. 25, s. 80; 2005, c. 1, s. 45.
+> 1998, c. 25, s. 80; 2005, c. 1, s. 45
 
 
 
@@ -2241,7 +2241,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Reference to Board by Tlicho Government**
 
 - **(5)** In the case of a dispute referred to in paragraph (4)(d), an application for its resolution may also be made to the Board by the Tlicho Government after it has participated in mediation under chapter 6 of the Tlicho Agreement.
-> 2005, c. 1, s. 46.
+> 2005, c. 1, s. 46
 
 
 
@@ -2258,7 +2258,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Consultation with boards**
 
 **82** The federal Minister shall consult the boards with respect to the amendment of this Act or the making or amendment of any instrument under this Act.
-> 1998, c. 25, s. 82; 2005, c. 1, s. 47; 2014, c. 2, s. 174; 2019, c. 19, s. 6(F).
+> 1998, c. 25, s. 82; 2005, c. 1, s. 47; 2014, c. 2, s. 1742019, c. 19, s. 6(F)
 
 
 
@@ -2301,7 +2301,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Conflict between legislation and policy directions**
 
 - **(6)** If there is a conflict between policy directions given by the federal Minister, the Tlicho Government or the Déline Got’ine Government under this section and the provisions of any Act of Parliament, of any regulations made under an Act of Parliament or of any territorial law, those provisions prevail to the extent of the conflict.
-> 1998, c. 25, s. 83; 2005, c. 1, s. 47; 2014, c. 2, s. 175; 2015, c. 24, s. 30.
+> 1998, c. 25, s. 83; 2005, c. 1, s. 47; 2014, c. 2, s. 175; 2015, c. 24, s. 30
 
 
 
@@ -2324,7 +2324,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Designation — analyst**
 
 - **(2)** The federal Minister may designate any qualified person as an analyst for the purposes of this Part.
-> 1998, c. 25, s. 84; 2014, c. 2, s. 177.
+> 1998, c. 25, s. 84; 2014, c. 2, s. 177
 
 
 
@@ -2374,7 +2374,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(5)** [Repealed, 2019, c. 19, s. 7]
 
 - **(6)** [Repealed, 2019, c. 19, s. 7]
-> 1998, c. 25, s. 85; 2005, c. 1, s. 48; 2014, c. 2, s. 177; 2015, c. 24, s. 31; 2019, c. 19, s. 7.
+> 1998, c. 25, s. 85; 2005, c. 1, s. 48; 2014, c. 2, s. 177; 2015, c. 24, s. 312019, c. 19, s. 7
 
 
 
@@ -2392,7 +2392,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(a)** the dwelling-house is a place referred to in subsection 85(1);
 	- **(b)** entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with this Part or orders made under section 86 or 86.1; and
 	- **(c)** entry was refused by the occupant or there are reasonable grounds to believe that entry will be refused or that consent to entry cannot be obtained from the occupant.
-> 2014, c. 2, s. 177.
+> 2014, c. 2, s. 177
 
 
 
@@ -2407,7 +2407,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Person accompanying inspector**
 
 - **(2)** A person may, at the inspector’s request, accompany the inspector to assist them in gaining entry to the place referred to in subsection 85(1) and is not liable for doing so.
-> 2014, c. 2, s. 177.
+> 2014, c. 2, s. 177
 
 
 
@@ -2416,7 +2416,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Use of force**
 
 **85.3** In executing a warrant to enter a dwelling-house, an inspector is not permitted to use force unless the use of force has been specifically authorized in the warrant and the inspector is accompanied by a peace officer.
-> 2014, c. 2, s. 177.
+> 2014, c. 2, s. 177
 
 
 
@@ -2441,7 +2441,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(3)** An order shall be provided in the form of a written notice and shall include
 	- **(a)** a statement of the reasons for the order; and
 	- **(b)** the time and manner in which the order is to be carried out.
-> 1998, c. 25, s. 86; 2014, c. 2, s. 177.
+> 1998, c. 25, s. 86; 2014, c. 2, s. 177
 
 
 
@@ -2463,7 +2463,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(2)** The order shall be provided in the form of a written notice and shall include
 	- **(a)** a statement of the reasons for the order; and
 	- **(b)** the time and manner in which the order is to be carried out.
-> 2014, c. 2, s. 177.
+> 2014, c. 2, s. 177
 
 
 
@@ -2478,7 +2478,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Recovery of Her Majesty’s costs**
 
 - **(2)** Any portion of the reasonable costs incurred by Her Majesty in right of Canada in the taking of measures under subsection (1) constitutes a debt due to Her Majesty recoverable from the person in a court of competent jurisdiction or by recourse to any security furnished under section 71 or 72.11, as the case may be.
-> 2014, c. 2, s. 177.
+> 2014, c. 2, s. 177
 
 
 
@@ -2497,7 +2497,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **False statements or information**
 
 - **(3)** It is prohibited to knowingly make a false or misleading statement or knowingly provide false or misleading information in connection with any matter under this Act to an inspector who is exercising their powers or performing their duties and functions under this Act.
-> 1998, c. 25, s. 87; 2014, c. 2, s. 177.
+> 1998, c. 25, s. 87; 2014, c. 2, s. 177
 
 
 
@@ -2506,7 +2506,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Review by board**
 
 **88** A board shall, if so requested by a person who is subject to an order made by an inspector under subsection 86(1) or (2) or section 86.1, review that order without delay and confirm, vary or revoke it.
-> 1998, c. 25, s. 88; 2014, c. 2, s. 177.
+> 1998, c. 25, s. 88; 2014, c. 2, s. 177
 
 
 
@@ -2525,7 +2525,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Recovery of Her Majesty’s costs**
 
 - **(2)** Any portion of the reasonable costs incurred by Her Majesty in right of Canada in the taking of measures under subsection (1), to the extent that the incurring of those costs was based on subparagraph (1)(b)(i), constitutes a debt due to Her Majesty recoverable from the person in a court of competent jurisdiction or by recourse to any security furnished under section 72.11.
-> 1998, c. 25, s. 89; 2005, c. 1, s. 49; 2014, c. 2, s. 177.
+> 1998, c. 25, s. 89; 2005, c. 1, s. 49; 2014, c. 2, s. 177
 
 
 
@@ -2552,7 +2552,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(l)** respecting the restoration of lands to which a permit applies;
 - **(m)** authorizing a board or an inspector to relieve permittees from specified obligations under the regulations; and
 - **(n)** authorizing a board or an inspector to require permittees to submit reports to them on specified matters.
-> 1998, c. 25, s. 90; 2005, c. 1, s. 50.
+> 1998, c. 25, s. 90; 2005, c. 1, s. 50
 
 
 
@@ -2561,7 +2561,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Prohibition — Tlicho lands**
 
 **90.1** Even if the regulations do not require a permit or authorization under Part 3 or 4 for a particular use of land, no person shall use Tlicho lands without such a permit or authorization if one is required by a Tlicho law for uses of that type.
-> 2005, c. 1, s. 51.
+> 2005, c. 1, s. 51
 
 
 
@@ -2570,7 +2570,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Prohibition  — Déline lands**
 
 **90.11** Even if the regulations do not require a permit or other authorization under Part 3 or 4 for a particular use of land, a person shall not use Déline lands without such a permit or authorization if one is required by a Déline law for uses of that type.
-> 2015, c. 24, s. 32.
+> 2015, c. 24, s. 32
 
 
 
@@ -2579,7 +2579,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Exception**
 
 **90.2** Despite the regulations, a permit or other authorization under Part 3 or 4 for a particular use of land in a Tlicho community is not required if the local government of that community has enacted a bylaw providing that one is not required for uses of that type.
-> 2005, c. 1, s. 51; 2014, c. 2, s. 182.
+> 2005, c. 1, s. 51; 2014, c. 2, s. 182
 
 
 
@@ -2588,7 +2588,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Exception**
 
 **90.21** Despite the regulations, a permit or other authorization under Part 3 or 4 for a particular use of lands in the Community of Déline, as described in schedule B to the Déline Agreement, is not required if a Déline law provides that one is not required for uses of that type.
-> 2015, c. 24, s. 33.
+> 2015, c. 24, s. 33
 
 
 
@@ -2642,7 +2642,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Regulations may vary**
 
 - **(3)** Regulations made under subsection (1) may vary according to any criterion or combination of criteria, including the use of waters, the purpose, quantity and rate of that use, and the quantities, concentrations and types of waste deposited.
-> 2014, c. 2, s. 182.
+> 2014, c. 2, s. 182
 
 
 
@@ -2651,7 +2651,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Regulations respecting cost recovery**
 
 **90.31** The Governor in Council may, following consultation by the federal Minister with first nations, the Tlicho Government, the territorial Minister and the boards, make regulations respecting the recovery of amounts and costs for the purposes of section 79.4, including prescribing the amounts and services for the purposes of that section and exempting any class of applicants or licensees from the application of that section.
-> 2019, c. 19, s. 8.
+> 2019, c. 19, s. 8
 
 
 
@@ -2660,7 +2660,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Regulations respecting consultation**
 
 **90.32** The Governor in Council may, following consultation by the federal Minister with first nations, the Tlicho Government, the territorial Minister and the boards, make regulations establishing requirements respecting any consultation that may be undertaken under this Part, whether or not it is expressly provided for, by any person or entity with a first nation, the Tlicho First Nation, the Tlicho Government or an Aboriginal people who uses an area outside the Mackenzie Valley, including the manner in which it is to be conducted, and providing for the delegation of certain procedural aspects of that consultation.
-> 2019, c. 19, s. 8.
+> 2019, c. 19, s. 8
 
 
 
@@ -2706,8 +2706,8 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **No registration or publication**
 
-- **(9)** For greater certainty, a document that is incorporated by reference in the regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
-> 2014, c. 2, s. 182.
+- **(9)** For greater certainty, a document that is incorporated by reference in the regulation is not required to be transmitted for registration or published in the [Canada Gazette](http://www.gazette.gc.ca/) by reason only that it is incorporated by reference.
+> 2014, c. 2, s. 182
 
 
 
@@ -2718,7 +2718,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **91** A board may make rules
 - **(a)** specifying the period of time within which compensation agreements referred to in sections 77 and 78 must be entered into; and
 - **(b)** respecting the determination of matters in dispute under section 80 or 80.1.
-> 1998, c. 25, s. 91; 2005, c. 1, s. 52.
+> 1998, c. 25, s. 91; 2005, c. 1, s. 52
 
 
 
@@ -2745,7 +2745,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Effect of contravention of order**
 
 - **(3)** A disposition of all or any interests in any lands in a federal area in contravention of an order made under subsection (1), and a licence issued in contravention of an order made under subsection (2), is of no force or effect.
-> 2014, c. 2, s. 185.
+> 2014, c. 2, s. 185
 
 
 
@@ -2774,7 +2774,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(4)** Every person who contravenes subsection 87(1), (2) or (3), in relation to the use of land, is guilty of an offence and is liable on summary conviction
 	- **(a)** for a first offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding six months, or to both; and
 	- **(b)** for a second or subsequent offence, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding six months, or to both.
-> 1998, c. 25, s. 92; 2005, c. 1, s. 53; 2014, c. 2, s. 187.
+> 1998, c. 25, s. 92; 2005, c. 1, s. 53; 2014, c. 2, s. 187
 
 
 
@@ -2794,7 +2794,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(2)** Every person who is guilty of an offence under subsection (1) is liable on summary conviction,
 	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
 	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
-> 2014, c. 2, s. 188.
+> 2014, c. 2, s. 188
 
 
 
@@ -2813,7 +2813,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(2)** Every licensee who commits an offence under subsection (1) is liable on summary conviction,
 	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
 	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
-> 2014, c. 2, s. 188.
+> 2014, c. 2, s. 188
 
 
 
@@ -2832,7 +2832,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(2)** Every licensee who is guilty of an offence under subsection (1) is liable on summary conviction,
 	- **(a)** for a first offence, to a fine not exceeding $37,500 or to imprisonment for a term not exceeding six months, or to both; and
 	- **(b)** for a second or subsequent offence, to a fine not exceeding $75,000 or to imprisonment for a term not exceeding six months, or to both.
-> 2014, c. 2, s. 188.
+> 2014, c. 2, s. 188
 
 
 
@@ -2843,7 +2843,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **92.04** Every person is guilty of an offence punishable on summary conviction who
 - **(a)** contravenes or fails to comply with subsection 87(1), (2) or (3), in relation to the use of waters or the deposit of waste in a federal area, or any regulations made under paragraph 90.3(1)(p), (q) or (r); or
 - **(b)** except as authorized under this Part or any other Act of Parliament, wilfully obstructs or otherwise interferes with a licensee who holds a licence in respect of a federal area or any person acting on behalf of the licensee in the exercise of any rights granted to the licensee under this Part.
-> 2014, c. 2, s. 188.
+> 2014, c. 2, s. 188
 
 
 
@@ -2852,7 +2852,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Continuing offences**
 
 **92.05** An offence under subsection 92(1), 92.01(1), 92.02(1) or 92.03(1) that is committed or continued on more than one day constitutes a separate offence for each day on which it is committed or continued.
-> 2014, c. 2, s. 188.
+> 2014, c. 2, s. 188
 
 
 
@@ -2871,7 +2871,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Application**
 
 - **(2)** Subsections (1) and (1.1) apply only to previous convictions on indictment, to previous convictions on summary conviction and to previous convictions under any similar procedure under any Act of the legislature of a province.
-> 2014, c. 2, ss. 189, 190.
+> 2014, c. 2, ss. 189, 190
 
 
 
@@ -2880,7 +2880,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Limitation period or prescription**
 
 **93** No proceedings in respect of an offence under section 92, 92.01, 92.02, 92.03, 92.04 or 92.05 are to be instituted more than five years after the day on which the federal Minister becomes aware of the acts or omissions that constitute the alleged offence.
-> 1998, c. 25, s. 93; 2014, c. 2, s. 190.
+> 1998, c. 25, s. 93; 2014, c. 2, s. 190
 
 
 
@@ -2903,7 +2903,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Notice**
 
 - **(4)** No document referred to in this section is to be received in evidence unless the party intending to produce it has provided reasonable notice of that intention to the party against whom it is intended to be produced together with a copy of the document.
-> 2014, c. 2, s. 190.
+> 2014, c. 2, s. 190
 
 
 
@@ -2922,7 +2922,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Notice**
 
 - **(3)** No certificate is to be received in evidence under subsection (1) unless the party intending to produce it has provided reasonable notice of that intention to the party against whom it is intended to be produced together with a copy of the certificate.
-> 2014, c. 2, s. 190.
+> 2014, c. 2, s. 190
 
 
 
@@ -2942,7 +2942,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Fees**
 
 **95** Despite subsection 72.03(1) or any territorial law, the Gwich’in and Sahtu First Nations, the Tlicho Government and the Déline Got’ine Government are not required to pay any fee in respect of the use of waters or the deposit of waste for non-commercial purposes on their first nation lands, Tlicho lands or Déline lands as the case may be.
-> 1998, c. 25, s. 95; 2005, c. 1, s. 54; 2014, c. 2, s. 192; 2015, c. 24, s. 34.
+> 1998, c. 25, s. 95; 2005, c. 1, s. 54; 2014, c. 2, s. 192; 2015, c. 24, s. 34
 
 
 
@@ -2982,7 +2982,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Reference to “licence”**
 
 - **(4)** For the purposes of this Part, a reference to “licence” in section 90.3, in the regulations made under that section and in sections 72.02, 79.4 and 92.02 to 92.04 includes a licence as defined in subsection (1).
-> 1998, c. 25, s. 96; 2005, c. 1, s. 55; 2014, c. 2, s. 194; 2019, c. 19, s. 9.
+> 1998, c. 25, s. 96; 2005, c. 1, s. 55; 2014, c. 2, s. 1942019, c. 19, s. 9
 
 
 
@@ -3001,7 +3001,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Consultation with authority**
 
 - **(3)** The Board shall consult the responsible authority referred to in subsection (2) before issuing a licence, permit or authorization for a use of land or waters or deposit of waste that may have an effect in the portion of the Mackenzie Valley excluded by subsection (1) from the application of this Part.
-> 1998, c. 25, s. 97; 2000, c. 32, s. 68.
+> 1998, c. 25, s. 97; 2000, c. 32, s. 68
 
 
 
@@ -3052,7 +3052,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(a)** two members appointed following consultation by the federal Minister with the first nations and the Tlicho Government;
 	- **(b)** one member appointed on the nomination of the territorial Minister; and
 	- **(c)** one other member.
-> 1998, c. 25, s. 99; 2005, c. 1, s. 56; 2019, c. 19, s. 10.
+> 1998, c. 25, s. 99; 2005, c. 1, s. 562019, c. 19, s. 10
 
 
 
@@ -3089,7 +3089,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Objectives — Wekeezhii regional panel**
 
 - **(3)** The objectives of the regional panel referred to in subsection 99(2.1) are to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit generally for all Canadians and in particular for residents of its management area.
-> 2005, c. 1, s. 58.
+> 2005, c. 1, s. 58
 
 
 
@@ -3106,7 +3106,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(2)** A regional panel of the Board shall exercise
 	- **(a)** the powers and duties referred to in subsection (1) in respect of a use of land or waters or a deposit of waste that is to take place, and that is likely to have an impact, wholly within the management area of the regional panel; and
 	- **(b)** the powers conferred by sections 78, 79 and 79.2 to 80.1 on the board established under Part 3 for that management area.
-> 1998, c. 25, s. 102; 2005, c. 1, s. 58; 2014, c. 2, s. 195.
+> 1998, c. 25, s. 102; 2005, c. 1, s. 58; 2014, c. 2, s. 195
 
 
 
@@ -3135,7 +3135,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Decisions of regional panels**
 
 - **(5)** For greater certainty, a decision made by a regional panel of the Board on an application is a decision of the Board.
-> 1998, c. 25, s. 103; 2005, c. 1, s. 59.
+> 1998, c. 25, s. 103; 2005, c. 1, s. 59
 
 
 
@@ -3144,7 +3144,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Power of chairperson**
 
 **104** Applications referred to in subsection 103(1) shall be disposed of by three or more members of the Board designated by the chairperson for that purpose, including at least one of the members appointed to a regional panel — on the nomination of a first nation or by the Tlicho Government — or appointed to the Board following consultation with first nations and the Tlicho Government and at least one of the members of the Board not so appointed.
-> 1998, c. 25, s. 104; 2005, c. 1, s. 60.
+> 1998, c. 25, s. 104; 2005, c. 1, s. 60
 
 
 
@@ -3163,7 +3163,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Deemed acceptance**
 
 - **(3)** If the federal Minister neither accepts nor rejects the request within two months after the day on which it is made, the request is deemed to be accepted.
-> 1998, c. 25, s. 105; 2014, c. 2, s. 196; 2019, c. 19, s. 11.
+> 1998, c. 25, s. 1052014, c. 2, s. 1962019, c. 19, s. 11
 
 
 
@@ -3190,7 +3190,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(c)** a local government with respect to the amendment of bylaws enacted by that government regarding the use of land or waters or the deposit of waste;
 	- **(d)** the Tlicho Government with respect to the amendment of Tlicho laws regarding the use of Tlicho lands or waters on those lands or a deposit of waste on those lands or in those waters; and
 	- **(e)** the Déline Got’ine Government with respect to the amendment of any Déline law regarding the use of Déline lands or waters on those lands or regarding a deposit of waste on those lands or in those waters.
-> 2005, c. 1, s. 61; 2014, c. 2, s. 197; 2015, c. 24, s. 35.
+> 2005, c. 1, s. 61; 2014, c. 2, s. 197; 2015, c. 24, s. 35
 
 
 
@@ -3244,7 +3244,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Notice**
 
 - **(8)** A notice of the establishment of a regional panel under this section shall be published in a newspaper circulated in the Mackenzie Valley.
-> 1998, c. 25, s. 108; 2005, c. 1, s. 62.
+> 1998, c. 25, s. 108; 2005, c. 1, s. 62
 
 
 
@@ -3264,7 +3264,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Policy directions by the Tlicho Government**
 
 **109.1** The Tlicho Government may exercise the same powers and shall perform the same duties in relation to the Board and the regional panel of the Board referred to in subsection 99(2.1) as those that the Tlicho Government has under section 83 in relation to the Wekeezhii Land and Water Board.
-> 2005, c. 1, s. 63.
+> 2005, c. 1, s. 63
 
 
 
@@ -3277,7 +3277,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Policy directions by Déline Got’ine Government**
 
 **109.11** The Déline Got’ine Government may exercise the same powers and shall perform the same duties in relation to the Board and the regional panel of the Board referred to in subsection 99(2) as those that the Déline Got’ine Government has under section 83 in relation to the Sahtu Land and Water Board.
-> 2015, c. 24, s. 36.
+> 2015, c. 24, s. 36
 
 
 
@@ -3304,7 +3304,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Conflict between legislation and policy directions**
 
 - **(4)** If there is a conflict between policy directions given by the federal Minister under section 109 or by the Déline Got’ine Government under section 109.11 and the provisions of any Act of Parliament, of any regulations made under an Act of Parliament or of any territorial law, those provisions prevail to the extent of the conflict.
-> 2005, c. 1, s. 63; 2015, c. 24, s. 37.
+> 2005, c. 1, s. 63; 2015, c. 24, s. 37
 
 
 
@@ -3317,7 +3317,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Regulations apply**
 
 **109.3** Regulations made under section 90.31 apply to the recovery of amounts and costs relating to the consideration of an application for a licence issued by the Board or for the amendment, renewal or cancellation of a licence as if a reference to “licence” in those regulations were a reference to a licence as defined in subsection 96(1).
-> 2019, c. 19, s. 12.
+> 2019, c. 19, s. 12
 
 
 
@@ -3330,7 +3330,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Regulations apply**
 
 **109.4** Regulations made under section 90.32 apply to any consultation that is undertaken by any person or entity in relation to the issuance, amendment, renewal, suspension or cancellation of a licence, permit or other authorization by the Board as if a reference to “licence” or “permit” in those regulations were a reference to a licence or permit as defined in subsection 96(1).
-> 2019, c. 19, s. 12.
+> 2019, c. 19, s. 12
 
 
 
@@ -3343,7 +3343,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Inspector**
 
 **110** An inspector designated under subsection 84(1) may exercise and shall perform, in relation to the use of land or waters or the deposit of waste, the powers, duties and functions of an inspector under Part 3.
-> 1998, c. 25, s. 110; 2014, c. 2, s. 198.
+> 1998, c. 25, s. 110; 2014, c. 2, s. 198
 
 
 
@@ -3391,7 +3391,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Application**
 
 - **(2)** This Part applies in respect of developments to be carried out wholly or partly within the Mackenzie Valley and, except for section 142, does not apply in respect of developments wholly outside the Mackenzie Valley.
-> 1998, c. 25, s. 111; 2000, c. 32, s. 55; 2005, c. 1, s. 65.
+> 1998, c. 25, s. 111; 2000, c. 32, s. 55; 2005, c. 1, s. 65
 
 
 
@@ -3400,7 +3400,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Federal Minister — powers, duties and functions**
 
 **111.1** The federal Minister shall exercise the powers and perform the duties and functions of any responsible minister who is a minister of the Crown in right of Canada for the purposes of subsections 130(1) to (3) and sections 131.2, 135 and 137.2.
-> 2014, c. 2, s. 199.
+> 2014, c. 2, s. 199
 
 
 
@@ -3427,7 +3427,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Quorum**
 
 - **(4)** A quorum of the Review Board consists of five members, including two of the members appointed in accordance with subsection (2) and two of the members not so appointed other than the chairperson.
-> 1998, c. 25, s. 112; 2005, c. 1, s. 66.
+> 1998, c. 25, s. 112; 2005, c. 1, s. 66
 
 
 
@@ -3453,7 +3453,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Deemed acceptance**
 
 - **(3)** If the federal Minister neither accepts nor rejects the request within two months after the day on which it is made, the request is deemed to be accepted.
-> 2019, c. 19, s. 14.
+> 2019, c. 19, s. 14
 
 
 
@@ -3485,7 +3485,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Consideration of previous assessment activities**
 
 - **(2)** A person or body conducting a preliminary screening, an environmental assessment, an environmental impact review or an examination of impacts on the environment that stands in lieu of an environmental impact review in respect of a proposed development shall consider, and may rely on, any assessment activities previously carried out under this Part in respect of that development.
-> 1998, c. 25, s. 115; 2005, c. 1, s. 67; 2014, c. 2, s. 201.
+> 1998, c. 25, s. 115; 2005, c. 1, s. 67; 2014, c. 2, s. 201
 
 
 
@@ -3494,7 +3494,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Considerations**
 
 **115.1** In exercising its powers, the Review Board shall consider any traditional knowledge and scientific information that is made available to it.
-> 2005, c. 1, s. 68.
+> 2005, c. 1, s. 68
 
 
 
@@ -3505,7 +3505,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **116** The [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply in the Mackenzie Valley in respect of proposals for developments other than
 - **(a)** proposals referred to the Minister of the Environment pursuant to paragraph 130(1)(c), to the extent provided by that Act; or
 - **(b)** proposals that are the subject of agreements referred to in paragraph 141(2)(a) or (3)(b), to the extent provided by such agreements.
-> 1998, c. 25, s. 116; 2005, c. 1, s. 69; 2014, c. 2, s. 202.
+> 1998, c. 25, s. 116; 2005, c. 1, s. 69; 2014, c. 2, s. 202
 
 
 
@@ -3537,7 +3537,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Joint panels**
 
 - **(4)** Subsections (2) and (3) apply in respect of an examination of a proposal for a development by a review panel, or a joint panel, established jointly by the Review Board and any other person or body.
-> 1998, c. 25, s. 117; 2005, c. 1, s. 70.
+> 1998, c. 25, s. 117; 2005, c. 1, s. 70
 
 
 
@@ -3552,7 +3552,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Requirements**
 
 - **(2)** If the Gwich’in or Sahtu First Nation, the Tlicho Government, the Déline Got’ine Government, a local government or a department or agency of the federal or territorial government proposes to carry out a development that does not require a licence, permit or other authorization under any federal, territorial, Tlicho or Déline law, it shall comply with the requirements of this Part before taking any irrevocable action in relation to the development.
-> 1998, c. 25, s. 118; 2005, c. 1, s. 71; 2015, c. 24, s. 38.
+> 1998, c. 25, s. 118; 2005, c. 1, s. 71; 2015, c. 24, s. 38
 
 
 
@@ -3573,7 +3573,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(a)** for the determination of the scope of developments by the Review Board;
 - **(b)** for the form and content of reports made under this Part; and
 - **(c)** for the submission and distribution of environmental impact statements and for public notification of such submission pursuant to paragraphs 134(1)(b) and (c).
-> 1998, c. 25, s. 120; 2005, c. 1, s. 72.
+> 1998, c. 25, s. 120; 2005, c. 1, s. 72
 
 
 
@@ -3582,7 +3582,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Written reasons**
 
 **121** The Review Board, a review panel of the Review Board, a review panel or a joint panel established jointly by the Review Board and any other person or body, the federal Minister, a responsible minister, a designated regulatory agency, a regulatory authority, a department or agency of the federal or territorial government, a local government, the Gwich’in or Sahtu First Nation, the Tlicho Government or the Déline Got’ine Government shall issue and make available to the public written reasons for any decision or recommendation made under the process established by this Part.
-> 1998, c. 25, s. 121; 2005, c. 1, s. 73; 2015, c. 24, s. 39.
+> 1998, c. 25, s. 121; 2005, c. 1, s. 73; 2015, c. 24, s. 39
 
 
 
@@ -3607,7 +3607,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **123.1** In conducting a review or examination of the impact on the environment of a development, a review panel of the Review Board or a review panel, or a joint panel, established jointly by the Review Board and any other person or body,
 - **(a)** shall carry out any consultations that are required by any of the land claim agreements; and
 - **(b)** may carry out other consultations with any persons who use an area where the development might have an impact on the environment.
-> 2005, c. 1, s. 74.
+> 2005, c. 1, s. 74
 
 
 
@@ -3622,7 +3622,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Status or entitlements under agreement**
 
 - **(2)** A person is not placed in a material conflict of interest merely because of any status or entitlement conferred on the person under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands or under the Déline Agreement.
-> 2005, c. 1, s. 74; 2015, c. 24, s. 40.
+> 2005, c. 1, s. 74; 2015, c. 24, s. 40
 
 
 
@@ -3631,7 +3631,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Nominations**
 
 **123.3** In appointing a review panel of the Review Board or a review panel, or a joint panel, established jointly by the Review Board and any other person or body, the Review Board and those other persons or bodies shall comply with the requirements of land claim agreements respecting nominations for appointment.
-> 2005, c. 1, s. 74.
+> 2005, c. 1, s. 74
 
 
 
@@ -3662,7 +3662,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Cooperation**
 
 - **(4)** Where more than one body conducts a preliminary screening in respect of a development, any of them may consult the others, adopt another’s report or participate in a joint preliminary screening and, where one of them is a board established under Part 3 or 4, the others are not required to conduct a preliminary screening.
-> 1998, c. 25, s. 124; 2005, c. 1, s. 75.
+> 1998, c. 25, s. 124; 2005, c. 1, s. 75
 
 
 
@@ -3713,7 +3713,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Copy of report**
 
 - **(6)** A body that conducts a preliminary screening of a proposal shall provide a copy of its report to the person or body that proposes to carry out the development.
-> 1998, c. 25, s. 125; 2019, c. 19, s. 17.
+> 1998, c. 25, s. 1252019, c. 19, s. 17
 
 
 
@@ -3748,7 +3748,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Notice**
 
 - **(5)** The Review Board shall give notice of a referral of a proposal under subsection (2), or of its decision to conduct an environmental assessment under subsection (3), to the person or body that proposes to carry out the development.
-> 1998, c. 25, s. 126; 2005, c. 1, s. 76.
+> 1998, c. 25, s. 126; 2005, c. 1, s. 76
 
 
 
@@ -3764,7 +3764,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Consultation**
 
 **127.1** Before completing an environmental assessment of a proposal for a development that is to be carried out wholly or partly on first nation lands as defined in section 51 or on Tlicho lands, the Review Board shall consult the first nation on whose lands the development is to be carried out or, if the development is to be carried out on Tlicho lands, the Tlicho Government.
-> 2005, c. 1, s. 77.
+> 2005, c. 1, s. 77
 
 
 
@@ -3812,7 +3812,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Areas identified**
 
 - **(4)** The Review Board shall identify in its report any area within or outside the Mackenzie Valley in which the development is likely, in its opinion, to have a significant adverse impact or to be a cause of significant public concern and specify the extent to which that area is affected.
-> 1998, c. 25, s. 128; 2005, c. 1, s. 78; 2014, c. 2, s. 206.
+> 1998, c. 25, s. 128; 2005, c. 1, s. 78; 2014, c. 2, s. 206
 
 
 
@@ -3824,7 +3824,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(a)** a regulatory authority, a designated regulatory agency or the Tlicho Government shall not issue a licence, permit or other authorization for the development, and
 - **(b)** where no licence, permit or authorization is required under any federal, territorial or Tlicho law for the development, the person or body that proposes to carry it out shall not proceed,
 before the expiration of ten days after receiving the report of the Review Board.
-> 1998, c. 25, s. 129; 2005, c. 1, s. 79.
+> 1998, c. 25, s. 129; 2005, c. 1, s. 79
 
 
 
@@ -3903,7 +3903,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Effect of decision**
 
 - **(5)** The federal Minister and responsible ministers shall carry out a decision made under this section to the extent of their respective authorities. A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision made under this section shall act in conformity with the decision to the extent of their respective authorities.
-> 1998, c. 25, s. 130; 2005, c. 1, s. 80; 2014, c. 2, s. 208.
+> 1998, c. 25, s. 130; 2005, c. 1, s. 80; 2014, c. 2, s. 208
 
 
 
@@ -3952,7 +3952,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Additional information**
 
 - **(4)** If a designated regulatory agency considers any new information that was not before the Review Board, or any matter of public concern that was not referred to in the Review Board’s reasons, the new information or matter shall be identified in the decision made under this section and in any consultation under paragraph (1)(b).
-> 1998, c. 25, s. 131; 2014, c. 2, s. 209.
+> 1998, c. 25, s. 131; 2014, c. 2, s. 209
 
 
 
@@ -3973,7 +3973,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Additional information**
 
 - **(3)** If the Tlicho Government considers any new information that was not before the Review Board, or any matter of public concern that was not referred to in the Review Board’s reasons, the new information or matter shall be identified in the decision made under this section and in any consultation under paragraph (1)(b).
-> 2005, c. 1, s. 81.
+> 2005, c. 1, s. 81
 
 
 
@@ -3982,7 +3982,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Conservation**
 
 **131.2** In making a decision under paragraph 130(1)(b) or subsection 131(1) or 131.1(1), the federal Minister and the responsible ministers, a designated regulatory agency or the Tlicho Government, as the case may be, shall consider the importance of the conservation of the lands, waters and wildlife of the Mackenzie Valley on which the development might have an impact.
-> 2005, c. 1, s. 81.
+> 2005, c. 1, s. 81
 
 
 
@@ -4025,7 +4025,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Excluded period**
 
 - **(7)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Board’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (4) or of its extension.
-> 1998, c. 25, s. 132; 2005, c. 1, s. 82; 2014, c. 2, s. 212.
+> 1998, c. 25, s. 132; 2005, c. 1, s. 82; 2014, c. 2, s. 212
 
 
 
@@ -4047,7 +4047,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Coordination**
 
 **133.1** The Review Board shall to the extent possible coordinate any environmental impact review conducted by a review panel of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley with any examination of the environmental impact of that development conducted by another authority responsible for the examination of environmental effects of the part of the development to be carried out outside the Mackenzie Valley.
-> 2005, c. 1, s. 83.
+> 2005, c. 1, s. 83
 
 
 
@@ -4110,7 +4110,7 @@ before the expiration of ten days after receiving the report of the Review Board
 - **(7)** A copy of the report of a review panel shall be provided to
 	- **(a)** the Gwich’in First Nation, if the development is to be carried out wholly or partly on its first nation lands, as defined in section 51; and
 	- **(b)** the Sahtu First Nation, if the development is to be carried out wholly or partly on its first nation lands, as defined in section 51.
-> 1998, c. 25, s. 134; 2005, c. 1, s. 84; 2014, c. 2, s. 213.
+> 1998, c. 25, s. 134; 2005, c. 1, s. 84; 2014, c. 2, s. 213
 
 
 
@@ -4160,7 +4160,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Effect of decision**
 
 - **(2)** The federal Minister and responsible ministers shall carry out a decision made under section 135 to the extent of their respective authorities. A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision under that section shall act in conformity with the decision to the extent of their respective authorities.
-> 1998, c. 25, s. 136; 2005, c. 1, s. 85; 2014, c. 2, s. 214.
+> 1998, c. 25, s. 136; 2005, c. 1, s. 85; 2014, c. 2, s. 214
 
 
 
@@ -4201,7 +4201,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Effect of decision**
 
 - **(3)** A designated regulatory agency shall carry out, to the extent of its authority, any recommendation that it adopts.
-> 1998, c. 25, s. 137; 2014, c. 2, s. 215.
+> 1998, c. 25, s. 137; 2014, c. 2, s. 215
 
 
 
@@ -4222,7 +4222,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Effect of decision**
 
 - **(3)** The Tlicho Government shall carry out, to the extent of its authority, any recommendation that it adopts.
-> 2005, c. 1, s. 86.
+> 2005, c. 1, s. 86
 
 
 
@@ -4231,7 +4231,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Conservation**
 
 **137.2** In making a decision under subsection 135(1), 137(1) or 137.1(1), the federal Minister and the responsible ministers, a designated regulatory agency or the Tlicho Government, as the case may be, shall consider the importance of the conservation of the lands, waters and wildlife of the Mackenzie Valley on which the development might have an impact.
-> 2005, c. 1, s. 86.
+> 2005, c. 1, s. 86
 
 
 
@@ -4240,7 +4240,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Consultation**
 
 **137.3** Before making a decision under subsection 135(1), 137(1) or 137.1(1) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley, the person or body making the decision shall take into consideration any report in respect of the proposal that is submitted by a review panel established under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) and shall consult every responsible authority to whom the report is submitted under that Act.
-> 2005, c. 1, s. 86; 2014, c. 2, s. 217.
+> 2005, c. 1, s. 86; 2014, c. 2, s. 217
 
 
 
@@ -4290,7 +4290,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Excluded period**
 
 - **(6)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Review Board’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (3) or of its extension.
-> 1998, c. 25, s. 138; 2005, c. 1, s. 87; 2014, c. 2, s. 219.
+> 1998, c. 25, s. 138; 2005, c. 1, s. 87; 2014, c. 2, s. 219
 
 
 
@@ -4313,7 +4313,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Where no agreement**
 
 - **(4)** Despite subsections (1) to (3), if, within the period fixed by the regulations, an agreement has not been entered into under this section, a panel of the Review Board shall conduct an environmental impact review of the development, but the review shall be limited to the part of the development to be carried out in the Mackenzie Valley.
-> 2005, c. 1, s. 87; 2014, c. 2, s. 220.
+> 2005, c. 1, s. 87; 2014, c. 2, s. 220
 
 
 
@@ -4379,7 +4379,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Provisions applicable**
 
 - **(4)** An examination by a joint panel established under subsection (2) stands in lieu of an environmental impact review of the proposal and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
-> 1998, c. 25, s. 140; 2005, c. 1, s. 88; 2014, c. 2, s. 222.
+> 1998, c. 25, s. 140; 2005, c. 1, s. 88; 2014, c. 2, s. 222
 
 
 
@@ -4456,7 +4456,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Provisions applicable**
 
 - **(6)** An examination by a review panel or joint panel referred to in subsection (2) or (3) stands in lieu of an environmental impact review of the proposal referred to in that subsection and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
-> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E); 2005, c. 1, s. 89; 2014, c. 2, s. 223.
+> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E); 2005, c. 1, s. 89; 2014, c. 2, s. 223
 
 
 
@@ -4465,7 +4465,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Transregional impact**
 
 **142** Where a development proposed to be carried out wholly in a region of the Northwest Territories, Yukon or Nunavut adjacent to the Mackenzie Valley, or wholly in a province, might have a significant adverse impact on the environment in the Mackenzie Valley, the Review Board may, with the approval of the federal Minister, enter into an agreement with the authority responsible for the examination of the environmental effects of such developments in that region or province to provide for the participation of the Review Board in the examination of the environmental effects of the development by that authority.
-> 1998, c. 15, s. 48, c. 25, s. 142; 2002, c. 7, s. 207(E).
+> 1998, c. 15, s. 48, c. 25, s. 142; 2002, c. 7, s. 207(E)
 
 
 
@@ -4493,7 +4493,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Debt due to Her Majesty**
 
 - **(3)** The amounts and costs that a person or body that proposes to carry out a development is to pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
-> 2019, c. 19, s. 30.
+> 2019, c. 19, s. 30
 
 
 
@@ -4537,7 +4537,7 @@ before the expiration of ten days after receiving the report of the Review Board
 - **(6)** Sections 27, 28 and 44 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) apply to any information described in subsection 27(1) of that Act that the Review Board intends to be included in the register with any necessary modifications, including the following:
 	- **(a)** the information is deemed to be a record that the head of a government institution intends to disclose; and
 	- **(b)** any reference to the person who requested access shall be disregarded.
-> 2014, c. 2, s. 224.
+> 2014, c. 2, s. 224
 
 
 
@@ -4560,7 +4560,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Conflict**
 
 - **(3)** If there is a conflict between policy directions given under this section and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
-> 2014, c. 2, s. 224.
+> 2014, c. 2, s. 224
 
 
 
@@ -4598,7 +4598,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Exemptions**
 
 - **(3)** No development is to be exempted for a reason set out in paragraph 124(1)(b) if it is a designated project or belongs to a class of designated projects, within the meaning of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), by virtue of regulations made under paragraph 84(a) of that Act.
-> 1998, c. 25, s. 143; 2005, c. 1, s. 90; 2014, c. 2, s. 226; 2019, c. 19, s. 32.
+> 1998, c. 25, s. 143; 2005, c. 1, s. 90; 2014, c. 2, s. 2262019, c. 19, s. 32
 
 
 
@@ -4607,7 +4607,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Incorporation by reference — limitation removed**
 
 **143.1** The limitation set out in paragraph 18.1(2)(a) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) to the effect that a document must be incorporated as it exists on a particular date does not apply to the powers to make regulations under this Part.
-> 2019, c. 19, s. 33.
+> 2019, c. 19, s. 33
 
 
 
@@ -4622,7 +4622,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Exception**
 
 - **(2)** Policy directions of general application governing an agency, or the power to approve, vary or rescind an agency’s decisions, do not constitute specific control or direction for the purposes of subsection (1).
-> 1998, c. 25, s. 144; 2005, c. 1, s. 91.
+> 1998, c. 25, s. 144; 2005, c. 1, s. 91
 
 
 
@@ -4657,7 +4657,7 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(iv)** the Mackenzie Valley Land and Water Board, if the violation was committed in an area outside any management area;
 - **(b)** despite subparagraphs (a)(i) to (iii), the Mackenzie Valley Land and Water Board, if the violation relating to Part 3 that was committed in a management area is a failure to comply with a term or condition of any licence, permit or other authorization issued by that Board or a contravention of any order, direction or decision made or given in relation to such a licence, permit or other authorization; and
 - **(c)** with respect to a violation relating to Part 5 that is designated as such by a regulation made under paragraph 144.11(1)(a), the federal Minister. (*réviseur*)
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4685,7 +4685,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Maximum amount of penalty**
 
 - **(2)** The amount that may be determined under any regulations made under paragraph (1)(b) as the penalty for each violation shall not be more than $25,000 in the case of an individual, and $100,000 in the case of any other person.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4698,7 +4698,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Who may issue notices**
 
 **144.12** Inspectors are authorized to issue notices of violation.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4713,7 +4713,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Purpose of penalty**
 
 - **(2)** The purpose of the penalty is to promote compliance with this Act and not to punish.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4722,7 +4722,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Liability of directors, officers, etc.**
 
 **144.14** If a corporation commits a violation, any director, officer or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to the violation and is liable to a penalty in the amount that is determined in accordance with the regulations, whether or not the corporation has been proceeded against in accordance with this Act.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4731,7 +4731,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Proof of violation**
 
 **144.15** In any proceedings under this Act against a person in relation to a violation, it is sufficient proof of the violation to establish that it was committed by an employee or agent or mandatary of the person, whether or not the employee or the agent or mandatary is identified or proceeded against in accordance with this Act.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4760,7 +4760,7 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(b)** with respect to a violation relating to Part 5, to the federal Minister and
 		- **(i)** the board that has jurisdiction over a management area, if the development is carried out wholly within that management area; or
 		- **(ii)** the board established under Part 4, if the development is carried out in more than one management area, in a management area and an area outside any management area, or wholly outside any management area.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4781,7 +4781,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Common law principles**
 
 - **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4790,7 +4790,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Continuing violation**
 
 **144.18** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4805,7 +4805,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Violations not offences**
 
 - **(2)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4814,7 +4814,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Limitation period**
 
 **144.2** No notice of violation is to be issued more than two years after the day on which the federal Minister becomes aware of the acts or omissions that constitute the alleged violation.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4827,7 +4827,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Request for review**
 
 **144.21** A person who is served with a notice of violation may, within 30 days after the notice is served or within any longer period prescribed by the regulations, make a request to the review body for a review of the facts of the violation or the amount of the penalty, or both.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4836,7 +4836,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Correction or cancellation of notice of violation**
 
 **144.22** At any time before a request for a review in respect of a notice of violation is received by the review body, an inspector may cancel the notice of violation or correct an error in it.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4845,7 +4845,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Review**
 
 **144.23** On receipt of a request for a review in respect of a notice of violation, the review body shall conduct the review.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4868,7 +4868,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Fees for witnesses**
 
 - **(4)** A witness who is served with a summons is entitled to receive the fees and allowances to which persons who are summoned to appear as witnesses before the Federal Court are entitled.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4909,7 +4909,7 @@ before the expiration of ten days after receiving the report of the Review Board
 - **(8)** The review body shall, without delay after making the determination, provide a copy of it to
 	- **(a)** the federal Minister, if the review body is a board; or
 	- **(b)** the board to which a copy of the notice of violation was provided under subsection 144.16(3), if the review body is the federal Minister.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4922,7 +4922,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Payment**
 
 **144.26** If a person pays the penalty set out in a notice of violation, the person is considered to have committed the violation and proceedings in respect of it are ended.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4931,7 +4931,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Failure to act**
 
 **144.27** A person who neither pays the penalty within the period set out in the notice of violation — nor requests a review within the period referred to in section 144.21 — is considered to have committed the violation and is liable to the penalty.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4950,7 +4950,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Limitation period or prescription**
 
 - **(2)** No proceedings to recover the debt are to be instituted more than five years after the day on which the debt becomes payable.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4965,7 +4965,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Registration**
 
 - **(2)** Registration in any court of competent jurisdiction of a certificate of non-payment has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4978,7 +4978,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Authenticity of documents**
 
 **144.3** In the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 144.16(1) is presumed to be authentic and is proof of its contents in any proceeding in respect of a violation.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -4996,7 +4996,7 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(a)** the person named in the notice of violation has paid the penalty set out in the notice;
 	- **(b)** the person has not requested a review within the period referred to in section 144.21; or
 	- **(c)** the review body has determined that the person who requested the review committed the violation.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5024,7 +5024,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Mandate**
 
 - **(3)** The federal Minister shall establish the committee’s terms of reference after seeking and considering the advice of the territorial government and, if the study examines works or activities affecting any first nation or the Tlicho First Nation, the advice of that first nation or the Tlicho Government, as the case may be.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5039,7 +5039,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Status or entitlements under agreement**
 
 - **(2)** A person is not placed in a material conflict of interest merely because of any status or entitlement conferred on them under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a land claim.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5048,7 +5048,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Other participants in study**
 
 **144.34** The federal Minister, if he or she considers it appropriate, may enter into an agreement or arrangement with any person or body that possesses knowledge or expertise that is relevant to the study to participate in the study.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5057,7 +5057,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Elements to consider**
 
 **144.35** In conducting its study, the committee shall consider any traditional knowledge and scientific information that is made available to it.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5066,7 +5066,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Information**
 
 **144.36** Subject to any other federal or territorial law, the committee may obtain, from any board established by this Act or from any department or agency of the federal or territorial government, any information in the possession of the board, department or agency that is required for it to conduct its study.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5079,7 +5079,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Establishment**
 
 **144.37** If the federal Minister is of the opinion that it is appropriate to conduct a study of the impact of existing or future works or activities carried out in a region of the Mackenzie Valley and in a region contiguous to it, the federal Minister may enter into an agreement or arrangement with an authority responsible for the examination of environmental effects in that region respecting the establishment of a joint committee to conduct the study and the manner in which the study is to be conducted.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5092,7 +5092,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Report to federal Minister**
 
 **144.38** On completion of its study, the committee or joint committee shall provide a report to the federal Minister, who shall make it available to the public.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5101,7 +5101,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Consideration of report**
 
 **144.39** The report must be considered in the exercise or performance under this Act of any powers, duties or functions of the boards established under subsections 36(1), 38(1), 54(1), 56(1), 57.1(1) and 99(1), the Mackenzie Valley Environmental Impact Review Board, its review panels, or a review panel or a joint panel established jointly by the Review Board and any other person or body, and of any body conducting a preliminary screening of a proposal for a development under section 124.
-> 2019, c. 19, s. 35.
+> 2019, c. 19, s. 35
 
 
 
@@ -5139,7 +5139,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Role of first nations and Tlicho Government**
 
 - **(2)** Where a responsible authority is other than a minister of the Crown in right of Canada, the Gwich’in and Sahtu First Nations and the Tlicho Government are entitled to participate in the functions referred to in section 146 in the manner provided by the regulations.
-> 1998, c. 25, s. 147; 2005, c. 1, s. 92.
+> 1998, c. 25, s. 147; 2005, c. 1, s. 92
 
 
 
@@ -5170,7 +5170,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Participation by first nations and Tlicho Government**
 
 - **(5)** The Gwich’in and Sahtu First Nations and the Tlicho Government are entitled to participate in an environmental audit in the manner provided by the regulations.
-> 1998, c. 25, s. 148; 2005, c. 1, s. 93.
+> 1998, c. 25, s. 148; 2005, c. 1, s. 93
 
 
 
@@ -5189,7 +5189,7 @@ before the expiration of ten days after receiving the report of the Review Board
 - **(a)** respecting the collection of data and the analysis of data so collected and scientific data, traditional knowledge and other information, for the purposes of section 146;
 - **(b)** designating a person or body as the responsible authority for the purposes of this Part; and
 - **(c)** respecting the manner of participation of the Gwich’in and Sahtu First Nations and the Tlicho Government in the functions of a responsible authority that is not a minister of the Crown or in an environmental audit.
-> 1998, c. 25, s. 150; 2005, c. 1, s. 94.
+> 1998, c. 25, s. 150; 2005, c. 1, s. 94
 
 
 
@@ -5211,7 +5211,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Existing rights and interests**
 
 **152** Rights to the use of land under any lease, easement or other interest in land that was granted under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) or the regulations made under that Act, or under any territorial law, and that exist on December 22, 1998, with respect to a settlement area, or on March 31, 2000, with respect to any other portion of the Mackenzie Valley, continue in effect, subject to the terms and conditions of exercising those rights.
-> 1998, c. 25, s. 152; 2014, c. 2, s. 233.
+> 1998, c. 25, s. 152; 2014, c. 2, s. 233
 
 
 
@@ -5220,7 +5220,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Existing licences continued**
 
 **153** Licences issued under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) respecting a use of waters or deposit of waste in a settlement area that exist on December 22, 1998 — and, respecting a use of waters or deposit of waste in another portion of the Mackenzie Valley, that exist on March 31, 2000 — continue in effect and are deemed to be licences within the meaning of Part 3.
-> 1998, c. 25, s. 153; 2014, c. 2, s. 233.
+> 1998, c. 25, s. 153; 2014, c. 2, s. 233
 
 
 
@@ -5245,7 +5245,7 @@ before the expiration of ten days after receiving the report of the Review Board
 - **(1)** A person acting, before the coming into force of section 84, as an inspector for the purposes of regulations made pursuant to the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) is deemed to be an inspector designated under that section.
 
 - **(2)** [Repealed, 2014, c. 2, s. 235]
-> 1998, c. 25, s. 157; 2014, c. 2, s. 235.
+> 1998, c. 25, s. 157; 2014, c. 2, s. 235
 
 
 
@@ -5300,6 +5300,902 @@ before the expiration of ten days after receiving the report of the Review Board
 Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
 
 National Energy Board<br />- <i>Office national de l’énergie</i>
-> 1998, c. 25, Sch.; 2014, c. 2, s. 237.
+> 1998, c. 25, Sch.; 2014, c. 2, s. 237
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2005, c. 1, s. 95
+
+
+**Wekeezhii Land and Water Board**
+
+**95** 
+
+- **(1)** The Wekeezhii Land and Water Board established by section 57.1 of the Mackenzie Valley Resource Management Act, as enacted by section 31 of this Act, may not exercise its powers or perform its duties under sections 58.1 and 59, subsections 60(1) and (2), sections 79.1 to 79.3, 80.1 and 88 and subsection 89(2) of the Mackenzie Valley Resource Management Act until six months after the coming into force of this Act.
+
+**Mackenzie Valley Land and Water Board**
+
+- **(2)** Despite subsection 102(1) of the Mackenzie Valley Resource Management Act, the Mackenzie Valley Land and Water Board shall exercise the powers and perform the duties of the Wekeezhii Land and Water Board under sections 58.1, 79.1 to 79.3, 80.1 and 88 and subsection 89(2) of that Act during the period of six months after the coming into force of this Act.
+
+**Exclusive original jurisdiction**
+
+- **(3)** Despite subsection 32(1) of the Mackenzie Valley Resource Management Act and section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Supreme Court of the Northwest Territories has exclusive original jurisdiction to hear and determine any action or proceeding, whether or not by way of an application of a type referred to in subsection 32(1) of the Mackenzie Valley Resource Management Act, concerning the jurisdiction of the Wekeezhii Land and Water Board during the period of six months after the coming into force of this Act.
+
+
+
+######           — 2014, c. 2, s. 241
+
+
+**Definitions**
+
+**241** The following definitions apply in this section and in sections 242 to 252.
+
+***other Act*** means the Mackenzie Valley Resource Management Act. (*autre loi*)
+
+***regional panels*** means the Gwich’in Land and Water Board, the Sahtu Land and Water Board and the Wekeezhii Land and Water Board that are continued as regional panels of the Mackenzie Valley Land and Water Board by subsections 99(2) and (2.1) of the other Act, as those subsections read immediately before the day on which section 193 comes into force. (*formations régionales*)
+
+
+
+######           — 2014, c. 2, s. 247
+
+
+**Designation**
+
+**247** Any person who, immediately before the day on which section 177 comes into force, is designated as an inspector or analyst under subsection 35(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), is deemed, as of that day, to be designated as an inspector or analyst under section 84(1) or (2), respectively, of the other Act, as that subsection reads on that day.
+
+
+
+######           — 2014, c. 2, s. 248
+
+
+**Remedial measures**
+
+**248** Any direction that was given by an inspector under subsection 37(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) immediately before the day on which section 177 comes into force, and that is in respect of lands in the Mackenzie Valley that are in a federal area as defined in section 51 of the other Act as that section reads on that day, is deemed on that day to be an order made under subsection 86.1(1) of the other Act, as that subsection reads on that day.
+
+
+
+######           — 2014, c. 2, s. 249
+
+
+**Reservation of lands from disposition**
+
+**249** 
+
+- **(1)** Any order that was made by the Governor in Council under subsection 34(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), before the day on which section 185 comes into force, and that is in respect of interests in lands in the Mackenzie Valley that are in a federal area as defined in section 51 of the other Act as it reads on that day, is deemed, on that day, to be an order made under subsection 91.1(1) of the other Act, as enacted by that section 185.
+
+**Reservation of water rights**
+
+- **(2)** Any order that was made by the Governor in Council under subsection 34(2) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), before the day on which section 185 comes into force, and that was in respect of lands in the Mackenzie Valley that are in a federal area, as defined in section 51 of the other Act as it reads on that day, is deemed, on that day, to be an order made under subsection 91.1(2) of the other Act, as enacted by that section 185.
+
+
+
+######           — 2014, c. 2, s. 250
+
+
+**Time limits**
+
+**250** Any time limit that is applicable — on the day on which section 206 comes into force — to the exercise of a power or the performance of a duty or function, under Part 5 of the other Act, as it reads on that day, in relation to a proposal for a development, as defined in section 111 of the other Act, that was being undertaken immediately before the day on which that section 206 comes into force, is counted from that day.
+
+
+
+######           — 2014, c. 2, s. 252
+
+
+**Northwest Territories Waters Regulations**
+
+**252** The provisions of the Northwest Territories Waters Regulations, that are made under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), chapter 39 of the Statutes of Canada, 1992, that are in force immediately before the day on which section 182 comes into force, are deemed, as of that day, to have been made under the other Act and shall remain in force, to the extent that they are not inconsistent with the other Act, as it reads on that day, until they are repealed or replaced.
+
+
+
+######           — 2019, c. 19, s. 36
+
+
+**Definition of other Act**
+
+**36** 
+
+- **(1)** In this section, ***other Act*** means the Mackenzie Valley Resource Management Act.
+
+**Ongoing proposals for development**
+
+- **(2)** Part 5 of the other Act, as it read immediately before the day on which section 22 comes into force, continues to apply to a proposal for development, as defined in subsection 111(1) of the other Act, that, immediately before that day, was being considered by any of the following:
+	- **(a)** a designated regulatory agency, as defined in that subsection 111(1), for the purposes of sections 131 and 137 of the other Act, as those sections 131 and 137 read immediately before that day;
+	- **(b)** the Tlicho Government, as defined in section 2 of the other Act, for the purposes of sections 131.1 and 137.1 of the other Act, as those sections 131.1 and 137.1 read immediately before that day;
+	- **(c)** the federal Minister, as defined in section 2 of the other Act, and any responsible minister, as defined in that subsection 111(1);
+	- **(d)** the Mackenzie Valley Environmental Impact Review Board or one of its panels; or
+	- **(e)** a joint panel established under subsection 140(2) or paragraph 141(2)(b) or (3)(a) of the other Act or a review panel referred to in subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 19, s. 1
+
+
+**
+> 2014, c. 2, s. 116
+**
+
+**1** Section 7.2 of the Mackenzie Valley Resource Management Act is replaced by the following:
+
+**Other requirements to be complied with**
+
+**7.2** For greater certainty, nothing in this Act, the regulations or a licence or permit or development certificate or amended development certificate issued under this Act authorizes a person to contravene or fail to comply with any other Act or any regulation or order made under it, except as provided in that other Act, regulation or order.
+
+
+
+
+
+######           — 2019, c. 19, s. 13
+
+
+**
+> 2014, c. 2, s. 199
+**
+
+**13** Section 111.1 of the Act is replaced by the following:
+
+**Federal Minister — powers, duties and functions**
+
+**111.1** The federal Minister shall exercise the powers and perform the duties and functions of any responsible minister who is a minister of the Crown in right of Canada for the purposes of subsections 130(1) to (3), sections 131.2, 135 and 137.2 and subsection 142.21(10).
+
+
+
+
+
+######           — 2019, c. 19, s. 15
+
+**15** The Act is amended by adding the following after section 117:
+
+**Prohibition — person or body carrying out development**
+
+**117.1** 
+
+- **(1)** The person or body that proposes to carry out a development shall not carry it out, in whole or in part, unless
+	- **(a)** subject to subsection (2), the person or body receives a notice under subsection 124(1.1) in respect of the development;
+	- **(b)** subject to subsection (2), the development is exempted from preliminary screening under subsection 124(2);
+	- **(c)** subject to subsection (2), the person or body receives a copy of a report under subsection 125(6) stating that the development will not be a cause of public concern and either will not have a significant adverse impact on the environment or, in the case of a proposed development that is wholly within the boundaries of a local government, is unlikely to have a significant adverse impact on air, water or renewable resources;
+	- **(d)** in the case of a proposal for a development that is the subject of an environmental assessment under section 126, the person or body carries it out in accordance with the conditions included in a development certificate issued under section 131.3, or an amended development certificate issued under subsection 142.21(17), with respect to that development; or
+	- **(e)** in the case of a proposal for a development that is the subject of an environmental impact review under section 132, or an examination under section 138, 140 or 141, the person or body carries it out in accordance with the conditions included in a development certificate issued under section 137.4, or an amended development certificate issued under subsection 142.21(17), with respect to that development.
+
+**No contravention**
+
+- **(2)** A person or body may carry out a development, in whole or in part, if it is carried out within the period
+	- **(a)** starting on the day on which
+		- **(i)** the person or body receives a notice under subsection 124(1.1) with respect to the development,
+		- **(ii)** the development is exempted from preliminary screening under subsection 124(2), or
+		- **(iii)** the person or body receives a copy of a report under subsection 125(6) containing the conclusions set out in paragraph (1)(c) with respect to the development; and
+	- **(b)** ending on the day on which that person or body receives notice of a referral to an environmental assessment under subsection 126(5).
+
+**Exception**
+
+- **(3)** Subsection (1) does not apply if section 119 applies.
+
+
+
+
+
+######           — 2019, c. 19, s. 16
+
+**16** Section 124 of the Act is amended by adding the following after subsection (1):
+
+**Notice of exemption**
+
+- **(1.1)** If the development is exempted from preliminary screening for a reason referred to in paragraph (1)(a) or (b), the regulatory authority or designated regulatory agency shall so notify the person or body that proposes to carry out the development in writing.
+
+
+
+######           — 2019, c. 19, s. 18
+
+
+**
+> 2005, c. 1, s. 79
+**
+
+**18** Section 129 of the Act is repealed.
+
+
+
+######           — 2019, c. 19, s. 19
+
+
+**
+> 2005, c. 1, s. 80(2); 2014, c. 2, s. 208(4)(F)
+**
+
+**19** Subsection 130(5) of the Act is replaced by the following:
+
+**Effect of decision**
+
+- **(5)** The federal Minister and responsible ministers shall carry out a decision made under this section to the extent of their respective authorities. In addition, a first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision made under this section shall act in conformity with the decision — including by implementing the conditions set out in a development certificate issued under section 131.3, or an amended development certificate issued under subsection 142.21(17), in relation to the proposed development — to the extent of their respective authorities.
+
+
+
+######           — 2019, c. 19, s. 20
+
+**20** Section 131 of the Act is amended by adding the following after subsection (1.6):
+
+**Provision of decision**
+
+- **(1.7)** The designated regulatory agency shall provide a decision made under subsection (1) to the Review Board.
+
+
+
+######           — 2019, c. 19, s. 21
+
+**21** Section 131.1 of the Act is amended by adding the following after subsection (1):
+
+**Provision of decision**
+
+- **(1.1)** The Tlicho Government shall provide a decision made under subsection (1) to the Review Board.
+
+
+
+######           — 2019, c. 19, s. 22
+
+**22** The Act is amended by adding the following after section 131.2:
+
+**Development certificate**
+
+**131.3** 
+
+- **(1)** The Review Board shall issue a development certificate to the person or body that proposes to carry out the development if
+	- **(a)** the Review Board has made a determination under paragraph 128(1)(a) relating to that development and neither an order nor a referral is made under either paragraph 130(1)(a) or (c) relating to that development within 10 days after the day on which the Review Board receives confirmation that the federal Minister received its report relating to that determination made under subsection 128(2); or
+	- **(b)** the federal Minister and the responsible ministers adopt, under paragraph 130(1)(b), with or without modifications, the Review Board’s recommendation made under subparagraph 128(1)(b)(ii) and neither the designated regulatory agency nor the Tlicho Government rejects that recommendation under paragraph 131(1)(b) or 131.1(1)(b), respectively.
+
+**Content of certificate**
+
+- **(2)** A development certificate shall indicate that the environmental assessment of the development has been completed and that the person or body that proposes to carry out the development may carry it out if they comply with the conditions set out in the certificate, obtain any licence, permit or other authorization required under any Act of Parliament or any territorial law or Tlicho law and comply with any other requirements set out in such an Act or law.
+
+**Conditions**
+
+- **(3)** A development certificate issued under paragraph (1)(b) shall set out the conditions that the person or body that proposes to carry out the development is to comply with, namely, the implementation of the following measures:
+	- **(a)** if the federal Minister and the responsible ministers agree to adopt, without modifications, a recommendation made under subparagraph 128(1)(b)(ii), the measures that are to be implemented, in whole or in part, by that person or body as specified in the recommendation; or
+	- **(b)** if the federal Minister and the responsible ministers agree to adopt a recommendation made under subparagraph 128(1)(b)(ii) with modifications, the measures that are to be implemented, in whole or in part, by that person or body as specified by those ministers in their decision made under subparagraph 130(1)(b)(ii).
+
+**Time limit**
+
+- **(4)** A development certificate shall be issued,
+	- **(a)** in the case of paragraph (1)(a), within 20 days after the expiry of the 10-day time limit set out in that paragraph; or
+	- **(b)** in the case of paragraph (1)(b), within 30 days after the first day on which the Review Board has received all applicable decisions.
+
+**Extension of time limit**
+
+- **(5)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (4) by a maximum of 45 days to take into account circumstances that are specific to the proposal.
+
+**Provision of certificate**
+
+- **(6)** The Review Board shall provide a copy of the development certificate to the federal Minister and to every first nation, local government, regulatory authority and department and agency referred to in subsection 130(4).
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(7)** Development certificates are not statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+
+
+
+**Duty — regulatory authorities**
+
+**131.4** Each regulatory authority shall, to the extent of its authority to do so, incorporate the conditions referred to in subsection 131.3(3) into any licence, permit or other authorization that it issues, amends or renews.
+
+
+
+
+
+######           — 2019, c. 19, s. 23
+
+**23** 
+
+- **(1)** Subsection 136(1) of the Act is replaced by the following:
+
+**Distribution of decision**
+
+**136** 
+
+- **(1)** The federal Minister shall distribute a decision made under section 135 to the Review Board and to every first nation, local government, regulatory authority and department or agency of the territorial or federal government affected by the decision.
+
+
+
+**
+> 2005, c. 1, s. 85; 2014, c. 2, s. 214(3)(F)
+**
+
+- **(2)** Subsection 136(2) of the Act is replaced by the following:
+
+**Effect of decision**
+
+- **(2)** The federal Minister and responsible ministers shall carry out a decision made under section 135 to the extent of their respective authorities. In addition, a first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision made under that section shall act in conformity with the decision — including by implementing the conditions set out in a development certificate issued under section 137.4, or an amended development certificate issued under subsection 142.21(17), in relation to the proposed development — to the extent of their respective authorities.
+
+
+
+######           — 2019, c. 19, s. 24
+
+**24** Section 137 of the Act is amended by adding the following after subsection (2):
+
+**Provision of decision**
+
+- **(2.1)** The designated regulatory agency shall provide a decision made under subsection (1) to the Review Board.
+
+
+
+######           — 2019, c. 19, s. 25
+
+**25** Section 137.1 of the Act is amended by adding the following after subsection (2):
+
+**Provision of decision**
+
+- **(2.1)** The Tlicho Government shall provide a decision made under subsection (1) to the Review Board.
+
+
+
+######           — 2019, c. 19, s. 26
+
+**26** The Act is amended by adding the following after section 137.3:
+
+**Development certificate**
+
+**137.4** 
+
+- **(1)** The Review Board shall issue a development certificate to the person or body that proposes to carry out the development if
+	- **(a)** the federal Minister and the responsible ministers adopt, under subsection 135(1), with or without modifications, the review panel’s recommendation, set out in the report made under subsection 134(2), that the proposal for the development be approved, with or without mitigative or remedial measures or a follow-up program, and neither the designated regulatory agency nor the Tlicho Government rejects that recommendation under paragraph 137(1)(b) or 137.1(1)(b), respectively; or
+	- **(b)** the federal Minister and the responsible ministers reject, under subsection 135(1), the review panel’s recommendation, set out in the report made under subsection 134(2), that the proposal for the development be rejected and, if applicable, the designated regulatory agency and the Tlicho Government reject that recommendation under paragraph 137(1)(b) or 137.1(1)(b), respectively.
+
+**Content of certificate**
+
+- **(2)** A development certificate shall indicate that the environmental impact review of the development has been completed and that the person or body that proposes to carry out the development may carry it out if they comply with the conditions set out in the certificate, obtain any licence, permit or other authorization required under any Act of Parliament or any territorial law or Tlicho law and comply with any other requirements set out in such an Act or law.
+
+**Conditions**
+
+- **(3)** A development certificate shall set out the conditions that the person or body that proposes to carry out the development is to comply with, namely, the implementation of the following measures or programs:
+	- **(a)** if the federal Minister and the responsible ministers agree to adopt, without modifications, a recommendation made under subsection 134(2) to approve the proposal for the development with mitigative or remedial measures or a follow-up program, the measures or the program that is to be implemented, in whole or in part, by that person or body as specified in the recommendation;
+	- **(b)** if the federal Minister and the responsible ministers agree to adopt, with modifications, a recommendation made under subsection 134(2) to approve the proposal for the development with mitigative or remedial measures or a follow-up program, the measures or the program that is to be implemented, in whole or in part, by that person or body as specified by those ministers in their decision made under paragraph 135(1)(b);
+	- **(c)** if the federal Minister and the responsible ministers agree to adopt, with modifications, a recommendation made under subsection 134(2) to approve the proposal for the development without mitigative or remedial measures or a follow-up program, the measures or the program that is to be implemented, in whole or in part, by that person or body as specified by those ministers in their decision made under paragraph 135(1)(b); or
+	- **(d)** if the federal Minister and the responsible ministers agree to reject a recommendation made under subsection 134(2) to reject the proposal for the development, the mitigative or remedial measures or the follow-up program that is to be implemented, in whole or in part, by that person or body as specified by those ministers in their decision made under paragraph 135(1)(b).
+
+**Time limit**
+
+- **(4)** A development certificate shall be issued within 30 days after the first day on which the Review Board has received all applicable decisions.
+
+**Extension of time limit**
+
+- **(5)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (4) by a maximum of 45 days to take into account circumstances that are specific to the proposal.
+
+**Provision of certificate**
+
+- **(6)** The Review Board shall provide a copy of the development certificate to the federal Minister and to every first nation, local government, regulatory authority and department and agency referred to in subsection 136(2).
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(7)** Development certificates are not statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+
+
+
+**Duty — regulatory authorities**
+
+**137.5** Each regulatory authority shall, to the extent of its authority to do so, incorporate the conditions referred to in subsection 137.4(3) into any licence, permit or other authorization that it issues, amends or renews.
+
+
+
+
+
+######           — 2019, c. 19, s. 27
+
+
+**
+> 2005, c. 1, s. 87
+**
+
+**27** Subsection 138(2) of the Act is replaced by the following:
+
+**Provisions applicable**
+
+- **(2)** An examination by a review panel referred to in subsection (1) stands in lieu of an environmental impact review of the proposal and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 and 137.4 apply, with any modifications that are required, in respect of the examination, except that a recommendation of a panel shall not be referred back to the panel for further consideration.
+
+
+
+######           — 2019, c. 19, s. 28
+
+
+**
+> 2005, c. 1, s. 88
+**
+
+**28** Subsection 140(4) of the Act is replaced by the following:
+
+**Provisions applicable**
+
+- **(4)** An examination by a joint panel established under subsection (2) stands in lieu of an environmental impact review of the proposal and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 and 137.4 apply, with any modifications that are required, in respect of the examination, except that a recommendation of a panel shall not be referred back to the panel for further consideration.
+
+
+
+######           — 2019, c. 19, s. 29
+
+
+**
+> 2005, c. 1, s. 89(2)
+**
+
+**29** Subsection 141(6) of the Act is replaced by the following:
+
+**Provisions applicable**
+
+- **(6)** An examination by a review panel or joint panel referred to in subsection (2) or (3) stands in lieu of an environmental impact review of the proposal referred to in that subsection and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 and 137.4 apply, with any modifications that are required, in respect of the examination, except that a recommendation of a panel shall not be referred back to the panel for further consideration.
+
+
+
+######           — 2019, c. 19, s. 31
+
+**31** The Act is amended by adding the following after section 142.2:
+
+### Amendment of Certificate
+
+
+**Examination**
+
+**142.21** 
+
+- **(1)** With the approval of the federal Minister, the Review Board may, on its own initiative or at the request of the person or body to which a development certificate was issued under section 131.3 or 137.4 or any interested person, examine the conditions of that certificate if
+	- **(a)** the conditions are not achieving their intended purpose or are having effects that are significantly different from those anticipated at the time the certificate was issued;
+	- **(b)** the circumstances relating to the development are significantly different from those anticipated at the time the certificate was issued; or
+	- **(c)** technological developments or new information provides a more efficient method of achieving the intended purpose of the conditions.
+
+**Minister’s initiative**
+
+- **(2)** The Review Board shall examine the conditions set out in a development certificate that it has issued if the federal Minister is of the opinion that any of paragraphs (1)(a) to (c) applies and so advises the Review Board.
+
+**Notice**
+
+- **(3)** The Review Board shall notify the person or body and the federal Minister in writing of an examination undertaken under subsection (1) or the person or body of an examination undertaken under subsection (2).
+
+**Conduct of examination**
+
+- **(4)** The Review Board may conduct its examination of the conditions in the manner that it considers appropriate in the circumstances.
+
+**Report**
+
+- **(5)** Within five months after the day on which the federal Minister gives the Review Board his or her approval under subsection (1) or advises the Review Board of his or her opinion under subsection (2), the Review Board shall submit a written report to the federal Minister that contains
+	- **(a)** an assessment of the conditions in force; and
+	- **(b)** its recommendations as to the conditions that should apply in respect of the development.
+
+**Extension of time limit by federal Minister**
+
+- **(6)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (5) by a maximum of two months to take into account circumstances that are specific to the development.
+
+**Extension of time limit by Governor in Council**
+
+- **(7)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (6) any number of times.
+
+**Excluded period**
+
+- **(8)** If the Review Board requires the person or body to which the development certificate in question was issued to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Review Board’s opinion, to comply with the requirement is not included in the calculation of the time limit or of its extension.
+
+**Report to ministers**
+
+- **(9)** The federal Minister shall distribute the Review Board’s report to every responsible minister.
+
+**Ministers’ decision**
+
+- **(10)** The federal Minister and the responsible ministers may agree, in respect of each recommendation in that report, either to
+	- **(a)** accept it;
+	- **(b)** refer it back to the Review Board for further consideration; or
+	- **(c)** after consulting the Review Board, adopt it with modifications.
+
+**Distribution of decision**
+
+- **(11)** The federal Minister shall distribute a decision made under subsection (10) to the Review Board and to every first nation, local government, regulatory authority and department and agency of the federal or territorial government affected by the decision.
+
+**Time limits**
+
+- **(12)** The federal Minister shall distribute a decision made under this section within three months after the day on which the federal Minister receives the Review Board’s report under subsection (5).
+
+**Extension of time limit by federal Minister**
+
+- **(13)** The federal Minister may extend the time limit referred to in subsection (12) by a maximum of two months to take into account circumstances that are specific to the development.
+
+**Extension of time limit by Governor in Council**
+
+- **(14)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (13) any number of times.
+
+**Time limit — further consideration**
+
+- **(15)** If a recommendation is referred back to the Review Board for further consideration under paragraph (10)(b), the time taken for that referral and consideration is included in the calculation of the time limit set out in subsection (12) or of its extension.
+
+**Excluded period**
+
+- **(16)** If the federal Minister or the Review Board requires the person or body to which the development certificate in question was issued to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the federal Minister’s or the Review Board’s opinion, as the case may be, to comply with the requirement is not included in the calculation of the time limit under subsection (12) or of its extension.
+
+**Amended development certificate**
+
+- **(17)** Within 30 days after the day on which the Review Board receives the decision under subsection (10), it shall issue an amended development certificate that sets out the conditions contained in that decision.
+
+**Application**
+
+- **(18)** Subsections 131.3(2), (6) and (7) or subsections 137.4(2), (6) and (7) apply, as the case may be, to an amended development certificate.
+
+
+
+**Duty — regulatory authorities**
+
+**142.22** Each regulatory authority shall, to the extent of its authority to do so, incorporate the conditions referred to in subsection 142.21(17) into any licence, permit or other authorization that it issues, amends or renews.
+
+
+
+### Developments not Carried Out
+
+
+**Development certificate not valid**
+
+**142.23** 
+
+- **(1)** A development certificate issued under section 131.3 or 137.4 ceases to be valid five years after the day on which it is issued, if the proposed development for which the certificate is issued is not commenced within those five years.
+
+**Amended development certificate not valid**
+
+- **(2)** An amended development certificate issued under subsection 142.21(17) ceases to be valid five years after the day on which the certificate in relation to that development is issued under section 131.3 or 137.4, as the case may be, if the proposed development for which the certificate is issued is not commenced within those five years.
+
+**Prohibition**
+
+- **(3)** It is prohibited to carry out a proposed development, in whole or in part, if the development certificate or amended development certificate issued in relation to it has ceased to be valid.
+
+**New environmental assessment**
+
+- **(4)** If a development certificate or amended development certificate has ceased to be valid, the person or body that proposes to carry out the development may make a request to the Review Board that it conduct a new environmental assessment of the proposed development and, in that case, the proposal is deemed to be referred to the Review Board under section 125.
+
+**Consideration of previous assessment activities**
+
+- **(5)** In conducting the new environmental assessment, the Review Board shall consider, and may rely on, any assessment activities previously carried out under this Part in respect of the proposed development.
+
+
+
+### Administration and Enforcement
+
+
+#### Designation
+
+
+**Designation**
+
+**142.24** The federal Minister may designate any qualified person, or a class of qualified persons, as an inspector to exercise powers relating to verifying compliance or preventing non-compliance with this Part and orders made under section 142.29.
+
+
+
+#### Powers
+
+
+**Authority to enter**
+
+**142.25** 
+
+- **(1)** An inspector may, for the purpose of verifying compliance or preventing non-compliance with this Part or orders made under section 142.29, enter a place in which they have reasonable grounds to believe that a development is being carried out or a document or any thing relating to a development is located.
+
+**Powers on entry**
+
+- **(2)** The inspector may, for the purposes referred to in subsection (1),
+	- **(a)** examine anything in the place;
+	- **(b)** use any means of communication in the place or cause it to be used;
+	- **(c)** use any computer system in the place or cause it to be used to examine data contained in or available to that system;
+	- **(d)** prepare a document or cause one to be prepared based on the data;
+	- **(e)** use any copying equipment in the place or cause it to be used;
+	- **(f)** remove anything from the place for examination or copying;
+	- **(g)** take photographs and make recordings or sketches;
+	- **(h)** order the owner or person in charge of the place or any person at the place to establish their identity to the inspector’s satisfaction or to stop or start an activity;
+	- **(i)** order the owner or person having possession, care or control of anything in the place to not move it or to restrict its movement for as long as, in the inspector’s opinion, is necessary;
+	- **(j)** direct any person to put any machinery, vehicle or equipment in the place into operation or to cease operating it; and
+	- **(k)** prohibit or limit access to all or part of the place.
+
+**Certificate**
+
+- **(3)** The federal Minister shall provide every inspector with a certificate of designation. On entering any place, the inspector shall, if so requested, produce the certificate to the occupant or person in charge of the place.
+
+**Duty to assist**
+
+- **(4)** The owner or person in charge of the place and every person in it shall give all assistance that is reasonably required to enable the inspector to verify compliance or prevent non-compliance with this Part or orders made under section 142.29 and shall provide any documents, data or information that are reasonably required for that purpose.
+
+**Notice**
+
+- **(5)** An inspector shall, if it is reasonable to do so, give prior notice of their entry to
+	- **(a)** the Gwich’in or Sahtu First Nation, if the entry is on its first nation lands;
+	- **(b)** the Tlicho Government, if the entry is on Tlicho lands.
+
+
+
+**Warrant for dwelling-house**
+
+**142.26** 
+
+- **(1)** If the place referred to in subsection 142.25(1) is a dwelling-house, the inspector may only enter it with the occupant’s consent or under the authority of a warrant issued under subsection (2).
+
+**Authority to issue warrant**
+
+- **(2)** On *ex parte* application, a justice of the peace may issue a warrant authorizing the inspector who is named in it to enter a dwelling-house, subject to any conditions specified in the warrant, if the justice of the peace is satisfied by information on oath that
+	- **(a)** the dwelling-house is a place referred to in subsection 142.25(1);
+	- **(b)** entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with this Part or orders made under section 142.29; and
+	- **(c)** entry was refused by the occupant or there are reasonable grounds to believe that entry will be refused or that consent to entry cannot be obtained from the occupant.
+
+
+
+**Entering private property**
+
+**142.27** 
+
+- **(1)** For the purpose of gaining entry to a place referred to in subsection 142.25(1), an inspector may enter and pass through private property. For greater certainty, no person has a right to object to that use of the property and no warrant is required for the entry, unless the property is a dwelling-house.
+
+**Person accompanying inspector**
+
+- **(2)** A person may, at the inspector’s request, accompany the inspector to assist them in gaining entry to the place referred to in subsection 142.25(1) and is not liable for doing so.
+
+
+
+**Use of force**
+
+**142.28** In executing a warrant to enter a dwelling-house, an inspector is not permitted to use force unless the use of force has been specifically authorized in the warrant and the inspector is accompanied by a peace officer.
+
+
+
+#### Orders
+
+
+**Measures required**
+
+**142.29** 
+
+- **(1)** If an inspector has reasonable grounds to believe that there is a contravention of this Part, they may, among other things, order a person to
+	- **(a)** stop doing something that is in contravention of this Part or cause it to be stopped; or
+	- **(b)** take any measure that is necessary in order for the person to comply with this Part or to mitigate the effects of the contravention.
+
+**Notice**
+
+- **(2)** The order shall be provided in the form of a written notice and shall include
+	- **(a)** a statement of the reasons for the order; and
+	- **(b)** the time and manner in which the order is to be carried out.
+
+
+
+**Measures taken by inspector**
+
+**142.3** 
+
+- **(1)** If a person does not comply with an order made under section 142.29 within the time specified, the inspector may, on their own initiative, take the measures specified in the order.
+
+**Recovery of Her Majesty’s costs**
+
+- **(2)** Any portion of the reasonable costs incurred by Her Majesty in right of Canada in the taking of measures under subsection (1) constitutes a debt due to Her Majesty recoverable from the person in a court of competent jurisdiction.
+
+
+
+#### Coordination
+
+
+**Activities — inspectors**
+
+**142.31** An inspector shall coordinate their activities with those of any inspector designated under Part 3 and any person designated for the purposes of verifying compliance or preventing non-compliance with any other Act of Parliament or territorial law so as to ensure efficiency and avoid duplication.
+
+
+
+
+
+######           — 2019, c. 19, s. 34
+
+**34** The Act is amended by adding the following after section 144:
+
+### Prohibitions, Offences and Punishment
+
+
+**Obstruction**
+
+**144.01** It is prohibited to knowingly obstruct or hinder an inspector who is exercising their powers or performing their duties and functions under this Part.
+
+
+
+**False statements or information**
+
+**144.02** It is prohibited to knowingly make a false or misleading statement or knowingly provide false or misleading information in connection with any matter under this Part to any person who is exercising their powers or performing their duties and functions under this Part.
+
+
+
+**Offence**
+
+**144.03** 
+
+- **(1)** Every person or body that proposes to carry out a development and that contravenes section 117.1 and every person who contravenes subsection 142.23(3) or an order made under subsection 142.29(1) is guilty of an offence and is liable on summary conviction
+	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
+	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
+
+**Obstruction or false statements or information**
+
+- **(2)** Every person who contravenes section 144.01 or 144.02 is guilty of an offence and is liable on summary conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both.
+
+**Continuing offences**
+
+- **(3)** An offence under subsection (1) that is committed or continued on more than one day constitutes a separate offence for each day on which it is committed or continued.
+
+**Due diligence defence**
+
+- **(4)** No one is to be convicted of an offence under subsection (1) if they establish that they exercised due diligence to prevent the commission of the offence.
+
+
+
+**Limitation period or prescription**
+
+**144.04** No proceedings in respect of an offence under this Part are to be instituted more than five years after the day on which the federal Minister becomes aware of the acts or omissions that constitute the alleged offence.
+
+
+
+**Admissibility of evidence**
+
+**144.05** 
+
+- **(1)** In proceedings for an offence under this Part, a certificate, report or other document of the federal Minister, the Review Board, a regulatory authority, a designated regulatory agency or an inspector that is purported to have been signed by that person, board or authority is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and, in the absence of evidence to the contrary, is proof of the matters asserted in it.
+
+**Copies and extracts**
+
+- **(2)** In proceedings for an offence under this Part, a copy of or an extract from any document that is made by the federal Minister, the Review Board, a regulatory authority, a designated regulatory agency or an inspector that appears to have been certified under the signature of that person, board or authority as a true copy or extract is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and, in the absence of evidence to the contrary, has the same probative force as the original would have if it were proved in the ordinary way.
+
+**Presumed date of issue**
+
+- **(3)** A document referred to in this section is, in the absence of evidence to the contrary, presumed to have been issued on the date that it bears.
+
+**Notice**
+
+- **(4)** No document referred to in this section is to be received in evidence unless the party intending to produce it has provided reasonable notice of that intention to the party against whom it is intended to be produced together with a copy of the document.
+
+
+
+
+
+######           — 2019, c. 28, s. 164
+
+
+**
+> 2014, c. 2, s. 115(1)
+**
+
+**164** Paragraph 5.2(1)(j) of the Mackenzie Valley Resource Management Act is replaced by the following:
+
+- **(j)** a joint panel established under subsection 140(2) or paragraph 141(2)(b) or (3)(a) or a review panel referred to in subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md); and
+
+
+
+
+
+######           — 2019, c. 28, s. 165
+
+
+**
+> 2014, c. 2, s. 217
+**
+
+**165** Section 137.3 of the Act is replaced by the following:
+
+**Consultation**
+
+**137.3** Before making a decision under subsection 135(1), 137(1) or 137.1(1) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley, the person or body making the decision shall take into consideration any report in respect of the proposal that is submitted by a review panel established under the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) and shall consult the Impact Assessment Agency of Canada.
+
+
+
+
+
+######           — 2019, c. 28, s. 166
+
+
+**
+> 2014, c. 2, s. 219(1)
+**
+
+**166** 
+
+- **(1)** The portion of subsection 138(1) of the Act before paragraph (a) is replaced by the following:
+
+**Report by review panel — national interest referral**
+
+**138** 
+
+- **(1)** Within 15 months after the day on which a review panel that is the subject of an agreement entered into under subsection (3) or 138.1(1) is established under subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) in respect of a proposal for a development that was referred under paragraph 130(1)(c) of this Act, the review panel shall, in addition to satisfying the requirements of paragraph 51(1)(e) of that Act, submit the report of its recommendations to
+
+
+
+**
+> 2014, c. 2, s. 219(4)
+**
+
+- **(2)** Subsection 138(3) of the Act is replaced by the following:
+
+**Referral — paragraph 130(1)(c)**
+
+- **(3)** If a proposal for a development, other than a proposal to which section 138.1 applies, is referred to the Minister of the Environment under paragraph 130(1)(c), the Review Board shall, within three months after the day on which the proposal was referred to that Minister, enter into an agreement with him or her for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md).
+
+
+
+######           — 2019, c. 28, s. 167
+
+
+**
+> 2014, c. 2, s. 220
+**
+
+**167** Subsection 138.1(1) of the Act is replaced by the following:
+
+**Agreement — national interest referral**
+
+**138.1** 
+
+- **(1)** If a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii is referred to the Minister of the Environment under paragraph 130(1)(c), then the Review Board shall enter into an agreement with the Minister of the Environment for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md).
+
+
+
+
+
+######           — 2019, c. 28, s. 168
+
+
+**
+> 2014, c. 2, s. 223(1)
+**
+
+**168** 
+
+- **(1)** Paragraph 141(2)(a) of the Act is replaced by the following:
+
+- **(a)** enter into an agreement with the Minister of the Environment in accordance with subsection 39(1) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) to provide for an examination by a review panel, if that Act applies in respect of the development in the region or province referred to in subsection (1); and
+
+
+
+**
+> 2014, c. 2, s. 223(3)
+**
+
+- **(2)** Paragraph 141(3)(b) of the Act is replaced by the following:
+
+- **(b)** with the Minister of the Environment if that Minister is authorized under subsection 39(1) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) to enter into such an agreement.
+
+
+
+
+
+######           — 2019, c. 28, s. 169
+
+
+**
+> 2014, c. 2, s. 226(4)
+**
+
+**169** Subsection 143(3) of the Act is replaced by the following:
+
+**Exemptions**
+
+- **(3)** No development is to be exempted for a reason set out in paragraph 124(1)(b) if it is a designated project or belongs to a class of designated projects, within the meaning of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md), by virtue of regulations made under paragraph 109(1)(b) of that Act.
+
+
+
+######           — 2019, c. 28, s. 170
+
+**170** The schedule to the Act is amended by striking out the following:
+
+National Energy Board<br />- <i>Office national de l’énergie</i>
+
+
+
+######           — 2019, c. 28, s. 171
+
+**171** The schedule to the Act is amended by adding the following, in alphabetical order:
+
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
+
+
+
+######           — 2019, c. 28, par. 188(a)
+
+
+**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
+
+**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
+- **(a)** in the Mackenzie Valley Resource Management Act:
+	- **(i)** section 116, and
+	- **(ii)** paragraph 130(1)(c);
+
 
 
