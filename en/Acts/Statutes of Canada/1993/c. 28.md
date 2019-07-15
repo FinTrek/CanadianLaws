@@ -37,12 +37,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
+***Minister*** means the Minister of Northern Affairs; (*ministre*)
 
 ***public land*** means any land, and any interest in any land, in Nunavut that belongs to Her Majesty in right of Canada or of which the Government of Canada has power to dispose; (*terres domaniales*)
 
 ***Tunngavik*** means Nunavut Tunngavik Incorporated, a corporation without share capital incorporated under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), R.S.C. 1970, c. C-32, and any successor to that corporation. (*Tunngavik*)
-> 1993, c. 28, s. 2; 1998, c. 15, s. 1.
+> 1993, c. 28, s. 2; 1998, c. 15, s. 12019, c. 29, s. 374
 
 
 
@@ -62,7 +62,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **3** There is hereby established a territory of Canada, to be known as Nunavut, consisting of
 - **(a)** all that part of Canada north of the sixtieth parallel of north latitude and east of the boundary described in Schedule I that is not within Quebec or Newfoundland and Labrador; and
 - **(b)** the islands in Hudson Bay, James Bay and Ungava Bay that are not within Manitoba, Ontario or Quebec.
-> 1993, c. 28, s. 3; 2015, c. 3, s. 172.
+> 1993, c. 28, s. 3; 2015, c. 3, s. 172
 
 
 
@@ -95,7 +95,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Publication of order**
 
-- **(2)** The order in council appointing the Commissioner shall be published in the Canada Gazette.
+- **(2)** The order in council appointing the Commissioner shall be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 
 
@@ -137,7 +137,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Absence or incapacity**
 
 **10** If both the Commissioner and the Deputy Commissioner are absent, ill or unable to act or both those offices are vacant, the Chief Justice of the Nunavut Court of Justice has and may exercise and perform all of the powers, duties and functions of the Commissioner.
-> 1993, c. 28, s. 10; 1999, c. 3, s. 1; 2017, c. 33, s. 256.
+> 1993, c. 28, s. 10; 1999, c. 3, s. 1; 2017, c. 33, s. 256
 
 
 
@@ -183,7 +183,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Number of members and electoral districts**
 
 **14** The Legislature may make laws prescribing the number of members of the Assembly and describing and naming the electoral districts in Nunavut.
-> 1993, c. 28, s. 14; 1998, c. 15, s. 2.
+> 1993, c. 28, s. 14; 1998, c. 15, s. 2
 
 
 
@@ -196,7 +196,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** Writs for the election of members of the Assembly shall be issued on the instructions of the Commissioner.
 
 - **(2)** [Repealed, 1998, c. 15, s. 3]
-> 1993, c. 28, s. 15; 1998, c. 15, s. 3.
+> 1993, c. 28, s. 15; 1998, c. 15, s. 3
 
 
 
@@ -352,7 +352,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** what constitutes, or is deemed to constitute, borrowing;
 	- **(b)** the entities, or classes of entities, whose borrowings must be taken into account; and
 	- **(c)** the manner in which the value of a borrowing is determined.
-> 1993, c. 28, s. 27; 2012, c. 19, s. 215.
+> 1993, c. 28, s. 27; 2012, c. 19, s. 215
 
 
 
@@ -392,7 +392,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Other laws**
 
 - **(4)** The laws in force or having effect in the Northwest Territories on the day that section 3 comes into force, other than the ordinances and the laws made under them referred to in subsection (1), continue to be in force or to have effect in Nunavut to the extent that they can apply in Nunavut and in so far as they are not after that time repealed, amended, altered or rendered inoperable in respect of Nunavut.
-> 1993, c. 28, s. 29; 1998, c. 15, s. 4.
+> 1993, c. 28, s. 29; 1998, c. 15, s. 4
 
 
 
@@ -401,7 +401,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Rights or privileges**
 
 **29.1** The coming into force of section 3 does not affect a right, privilege, licence, permit, authorization, approval, certification, registration or filing, or any status provided, before the day that section 3 comes into force, by or under the ordinances of the Northwest Territories. On or after that day, to the extent that it was in force or had effect and applied immediately before that day in relation to Nunavut, it is deemed, in relation to Nunavut, to have been provided by or under the laws of the Legislature.
-> 1998, c. 15, s. 4.
+> 1998, c. 15, s. 4
 
 
 
@@ -416,7 +416,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Transmission of documents**
 
 - **(2)** If, in or under any Act of Parliament or any law of the Legislature, a document or thing is to be transmitted to a designated officer, court, territorial division or place and there is no person, court, territorial division or place so designated in Nunavut, the Commissioner may designate a person, court, territorial division or place to which the document or thing is to be transmitted or may dispense with the transmission, and the transmission or dispensation of transmission is lawful and valid.
-> 1993, c. 28, s. 30; 1998, c. 15, s. 4.
+> 1993, c. 28, s. 30; 1998, c. 15, s. 4
 
 
 
@@ -447,7 +447,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Tenure of office of judges**
 
 - **(3)** The judges of the superior courts in Nunavut hold office during good behaviour, but may be removed by the Governor in Council on address of the Senate and House of Commons and cease to hold office on attaining the age of seventy-five years.
-> 1993, c. 28, s. 31; 1998, c. 15, s. 5; 1999, c. 3, s. 2.
+> 1993, c. 28, s. 31; 1998, c. 15, s. 5; 1999, c. 3, s. 2
 
 
 
@@ -460,7 +460,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Ex officio judges**
 
 **32** A judge, other than a deputy judge, of the Supreme Court of Yukon and of the Supreme Court of the Northwest Territories is *ex officio* a judge of the Nunavut Court of Justice.
-> 1993, c. 28, s. 32; 1999, c. 3, s. 3; 2002, c. 7, s. 222.
+> 1993, c. 28, s. 32; 1999, c. 3, s. 3; 2002, c. 7, s. 222
 
 
 
@@ -483,7 +483,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Powers**
 
 - **(4)** A deputy judge, while in office, has and may exercise and perform all the powers, duties and functions of a judge of that Court and any reference to a judge of the Nunavut Court of Justice is deemed to include a reference to the deputy judge.
-> 1993, c. 28, s. 33; 1999, c. 3, s. 4.
+> 1993, c. 28, s. 33; 1999, c. 3, s. 4
 
 
 
@@ -498,7 +498,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Status when exercising power**
 
 - **(2)** For greater certainty, a power, duty or function exercised or performed under subsection (1) by a judge of the Nunavut Court of Justice is exercised or performed by that judge as a judge of a superior court.
-> 1993, c. 28, s. 34; 1999, c. 3, s. 5.
+> 1993, c. 28, s. 34; 1999, c. 3, s. 5
 
 
 
@@ -517,7 +517,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Enforcement of decisions**
 
 - **(3)** Any judgment, conviction, sentence or order pronounced or made in any proceedings held under this section outside Nunavut may be enforced or executed at the place at which it is pronounced or made or elsewhere, either in or outside Nunavut, as the judge of the Court may direct, and the proper officers of Nunavut have and may exercise all powers and authority necessary for the enforcement or execution thereof at the place where it is directed to be enforced or executed, notwithstanding that the place is not in Nunavut.
-> 1993, c. 28, s. 35; 1999, c. 3, s. 6.
+> 1993, c. 28, s. 35; 1999, c. 3, s. 6
 
 
 
@@ -530,7 +530,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Sittings**
 
 **36** The Court of Appeal of Nunavut may sit in Nunavut and, unless the laws of the Legislature made after the coming into force of section 3 provide otherwise, in any other place in Canada.
-> 1993, c. 28, s. 36; 1998, c. 15, s. 6.
+> 1993, c. 28, s. 36; 1998, c. 15, s. 6
 
 
 
@@ -559,7 +559,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Official languages ordinance**
 
 **38** The law of the Legislature that, under subsection 29(1), is the duplicate of the ordinance of the Northwest Territories entitled the [Official Languages Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2031%20(4th%20Supp.).md) may not be repealed, amended or otherwise rendered inoperable by the Legislature without the concurrence of Parliament by way of a resolution, if that repeal, amendment or measure that otherwise renders that law inoperable would have the effect of diminishing the rights and services provided for in that ordinance as enacted on June 28, 1984 and amended on June 26, 1986.
-> 1993, c. 28, s. 38; 1998, c. 15, s. 7.
+> 1993, c. 28, s. 38; 1998, c. 15, s. 7
 
 
 
@@ -630,7 +630,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(iii)** the revenues and expenditures for the fiscal year, and
 	- **(iv)** the changes in the financial position for the fiscal year; and
 - **(b)** any other information or statements that are required in support of the consolidated financial statements or that are required by the Minister or by or under any law of the Legislature.
-> 1993, c. 28, s. 45; 1998, c. 15, s. 8; 2017, c. 26, s. 62.
+> 1993, c. 28, s. 45; 1998, c. 15, s. 8; 2017, c. 26, s. 62
 
 
 
@@ -647,7 +647,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Other matters**
 
 - **(2)** The auditor of Nunavut shall call attention to any other matter falling within the scope of the audit made under subsection (1) that, in the opinion of the auditor, should be brought to the attention of the Assembly.
-> 1993, c. 28, s. 46; 2017, c. 26, s. 62.
+> 1993, c. 28, s. 46; 2017, c. 26, s. 62
 
 
 
@@ -735,7 +735,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitation**
 
 - **(3)** This section applies to a lease only if the instrument effecting the transfer is signed on or before March 31, 2004.
-> 1998, c. 15, s. 9.
+> 1998, c. 15, s. 9
 
 
 
@@ -813,7 +813,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Absence, incapacity or vacancy**
 
 - **(4)** In the event of the absence or incapacity of the Interim Commissioner, or if the office of Interim Commissioner is vacant, the Minister may, after consultation with the Government of the Northwest Territories and Tunngavik, appoint a person to act as Interim Commissioner until the Interim Commissioner resumes the exercise of the powers, duties and functions of that office or a replacement Interim Commissioner is appointed under subsection (1).
-> 1993, c. 28, s. 71; 1998, c. 15, s. 11.
+> 1993, c. 28, s. 71; 1998, c. 15, s. 11
 
 
 
@@ -845,7 +845,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Alteration, etc. of systems**
 
 - **(3)** The Government of Nunavut may alter, revoke or replace any system or process established pursuant to paragraph (1)(c).
-> 1993, c. 28, s. 72; 1998, c. 15, s. 12.
+> 1993, c. 28, s. 72; 1998, c. 15, s. 12
 
 
 
@@ -898,7 +898,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** the conditions contained in any contract entered into by the Government of the Northwest Territories that apply to the possession and use of the information, as if the Government of Nunavut were a party to the contract;
 	- **(b)** the conditions contained in any federal law that apply to the possession and use, by the Government of the Northwest Territories, of the information; and
 	- **(c)** all laws of the Legislature that apply to the possession and use of the information.
-> 1993, c. 28, s. 73; 1998, c. 15, s. 13.
+> 1993, c. 28, s. 73; 1998, c. 15, s. 13
 
 
 
@@ -919,7 +919,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Effective date**
 
 - **(3)** An order under subsection (1) may be made only on or before the day that section 3 comes into force, but it takes effect on that day.
-> 1998, c. 15, s. 14.
+> 1998, c. 15, s. 14
 
 
 
@@ -928,7 +928,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Carrying out of programs**
 
 **74** The Government of Canada or the Northwest Territories may carry out any programs in accordance with any agreement entered into under paragraph 73(1)(a.1).
-> 1993, c. 28, s. 74; 1998, c. 15, s. 14.
+> 1993, c. 28, s. 74; 1998, c. 15, s. 14
 
 
 
@@ -955,7 +955,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Supply contracts — coming into force**
 
 - **(5)** Subsection (4) is deemed to have come into force on November 26, 1996 and any contract entered into by the Interim Commissioner before this section comes into force is deemed to have been entered into under this Act, to the extent that the Interim Commissioner could enter into the contract under this section.
-> 1993, c. 28, s. 75; 1998, c. 15, s. 15.
+> 1993, c. 28, s. 75; 1998, c. 15, s. 15
 
 
 
@@ -991,7 +991,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Writs — when issued**
 
 - **(2)** Writs for the first elections of members of the Assembly shall, subject to the laws governing those elections, be issued no later than thirty days after the day that section 3 comes into force.
-> 1998, c. 15, s. 16.
+> 1998, c. 15, s. 16
 
 
 
@@ -1005,7 +1005,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Publication of order**
 
-- **(2)** A notice of a proposed order shall be published in the Canada Gazette at least thirty days before the order is made and an opportunity shall be given to interested persons to make representations to the Minister about the proposed order. The notice may be published before this section comes into force.
+- **(2)** A notice of a proposed order shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) at least thirty days before the order is made and an opportunity shall be given to interested persons to make representations to the Minister about the proposed order. The notice may be published before this section comes into force.
 
 **Exception**
 
@@ -1014,7 +1014,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Chief electoral officer**
 
 - **(4)** The chief electoral officer for the first elections of members of the Assembly is the Chief Electoral Officer of the Northwest Territories.
-> 1998, c. 15, s. 16.
+> 1998, c. 15, s. 16
 
 
 
@@ -1033,7 +1033,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Status of elected candidates**
 
 - **(3)** For greater certainty, a candidate who is elected, before the day that section 3 comes into force, is not, for any purpose, a member of the Assembly until the Assembly is established under section 13.
-> 1998, c. 15, s. 16.
+> 1998, c. 15, s. 16
 
 
 
@@ -1042,7 +1042,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Qualifications of members of Council of NWT**
 
 **76.04** Despite any other law, a member of the Council of the Northwest Territories may be a candidate, and be declared elected, in the first elections of members of the Assembly without affecting, before the day that section 3 comes into force, her or his qualifications to sit or vote as a member of the Council.
-> 1998, c. 15, s. 16.
+> 1998, c. 15, s. 16
 
 
 
@@ -1087,7 +1087,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Principles for division**
 
 - **(6)** A division made under paragraph (5)(b) must, to the extent possible, put each office or body into the position that it would have been in had a fair division of the assets and liabilities, and administered funds, occurred on the day that section 3 comes into force.
-> 1998, c. 15, s. 16; 1999, c. 3, s. 7.
+> 1998, c. 15, s. 16; 1999, c. 3, s. 7
 
 
 
@@ -1106,7 +1106,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Officers and employees**
 
 - **(3)** Persons who are, immediately before the day that section 3 comes into force, office holders or officers or employees of the offices and bodies referred to in subsection (1) continue, on and after that day, to occupy their respective positions, with the same tenure, but they are deemed to hold, and to have assumed, them under the laws of the Legislature.
-> 1998, c. 15, s. 16.
+> 1998, c. 15, s. 16
 
 
 
@@ -1121,7 +1121,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Expiry**
 
 - **(2)** In relation to Nunavut, a collective agreement referred to in subsection (1) expires in accordance with its terms and any laws that apply to it unless the parties to the collective agreement agree, before the expiry date, that the collective agreement expires on a later date that may not be later than March 31, 2000.
-> 1998, c. 15, s. 16.
+> 1998, c. 15, s. 16
 
 
 
@@ -1148,7 +1148,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception — judicial matters**
 
 - **(4)** This section does not apply to matters to which section 76.1 applies.
-> 1998, c. 15, s. 16.
+> 1998, c. 15, s. 16
 
 
 
@@ -1167,7 +1167,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **New trials**
 
 - **(3)** For greater certainty, an appeal or review mentioned in subsection (2) includes a new trial ordered and any appeal or review in relation to the new trial.
-> 1998, c. 15, s. 16; 1999, c. 3, s. 8.
+> 1998, c. 15, s. 16; 1999, c. 3, s. 8
 
 
 
@@ -1186,7 +1186,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deemed record, orders or decisions of Nunavut courts**
 
 - **(3)** A record that is transferred by an order made under subsection (2) is deemed to be part of the record of the Nunavut Court of Justice. Any order or decision made or document issued by a court, judge or justice of the Northwest Territories in relation to the matter that is transferred is deemed to have been made or issued by the Nunavut Court of Justice.
-> 1998, c. 15, s. 16; 1999, c. 3, s. 9.
+> 1998, c. 15, s. 16; 1999, c. 3, s. 9
 
 
 
@@ -1207,7 +1207,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Enforcement of decisions**
 
 - **(3)** Any judgment, conviction, sentence or order pronounced or made in any matter commenced in the Northwest Territories before the day section 3 comes into force may be enforced or executed at any place in Nunavut or the Northwest Territories as the court with jurisdiction over the matter may direct, and the proper officers of the territory in which the judgment, conviction, sentence or order is to be enforced or executed may exercise all powers and authority necessary for that purpose.
-> 1998, c. 15, s. 16; 1999, c. 3, s. 10.
+> 1998, c. 15, s. 16; 1999, c. 3, s. 10
 
 
 
@@ -1222,7 +1222,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Pending matters**
 
 - **(2)** In any matter referred to in subsection 76.1(2), the justices of the peace of the Northwest Territories referred to in subsection (1), despite their residency in Nunavut on and after the day that section 3 comes into force, continue to hold the office of justice of the peace of the Northwest Territories and to have and exercise, in Nunavut, the powers, duties or functions of justices of the peace of the Northwest Territories.
-> 1998, c. 15, s. 16.
+> 1998, c. 15, s. 16
 
 
 
