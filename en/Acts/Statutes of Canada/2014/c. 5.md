@@ -57,13 +57,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***member***, in relation to a participating First Nation, means a person whose name appears, or who is entitled to have their name appear, on the Band List maintained for that First Nation under section 8 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*membre*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Indigenous Services. (*ministre*)
 
 ***nomination meeting*** means a meeting held for the purpose of nominating candidates for an election. (*assemblée de mise en candidature*)
 
 ***participating First Nation*** means a First Nation that is named in the schedule. (*première nation participante*)
 
 ***reserve*** has the same meaning as in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*réserve*)
+> 2014, c. 5, s. 22019, c. 29, s. 375
+
 
 
 
