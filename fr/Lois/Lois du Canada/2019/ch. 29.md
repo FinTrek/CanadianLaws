@@ -868,7 +868,9 @@ où :
 
 **Paiement maximal de 2 200 000 000 $**
 
-**130** Malgré l’article 161 de la Loi sur le soutien de la croissance de l’économie et de l’emploi au Canada modifié par l’article 233 de la [Loi no 1 sur le plan d’action économique de 2013](/fr/Lois/Lois%20du%20Canada/2013/ch.%2033.md), à la demande du ministre de l’Infrastructure et des Collectivités ou du ministre d’État (Services aux Autochtones) et selon les modalités approuvées par le Conseil du Trésor, il peut être payé sur le Trésor, outre la somme visée à cet article 161, une somme n’excédant pas deux milliards deux cents millions de dollars aux provinces, aux territoires, aux municipalités, aux associations municipales, aux organismes provinciaux, territoriaux et municipaux et aux Premières Nations pour les infrastructures des municipalités, des régions et des Premières Nations.
+**130** Malgré l’article 161 de la Loi sur le soutien de la croissance de l’économie et de l’emploi au Canada modifié par l’article 233 de la [Loi no 1 sur le plan d’action économique de 2013](/fr/Lois/Lois%20du%20Canada/2013/ch.%2033.md), à la demande du ministre de l’Infrastructure et des Collectivités ou du ministre des Services aux Autochtones et selon les modalités approuvées par le Conseil du Trésor, il peut être payé sur le Trésor, outre la somme visée à cet article 161, une somme n’excédant pas deux milliards deux cents millions de dollars aux provinces, aux territoires, aux municipalités, aux associations municipales, aux organismes provinciaux, territoriaux et municipaux et aux Premières Nations pour les infrastructures des municipalités, des régions et des Premières Nations.
+> 2019, ch. 29, art. 130 et 381
+
 
 
 
@@ -2564,7 +2566,7 @@ où :
 
 <sup><a href='#nbp_2019-c29_F_transform_hq_24208'>[*]</a></sup>**336.1** La présente sous-section entre en vigueur à la date fixée par décret, mais au plus tard le 15 juillet 2019.
 
-<a name='nbp_2019-c29_F_transform_hq_24208'><sup>*</sup></a>: [Note : Sous-section A non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24208'><sup>*</sup></a>: [Note : Sous-section A en vigueur le 15 juillet 2019.]<br />
 
 
 
@@ -2590,7 +2592,7 @@ où :
 
 <sup><a href='#nbp_2019-c29_F_transform_hq_24209'>[*]</a></sup>**337.1** La présente sous-section entre en vigueur à la date fixée par décret, mais au plus tard le 15 juillet 2019.
 
-<a name='nbp_2019-c29_F_transform_hq_24209'><sup>*</sup></a>: [Note : Sous-section B non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24209'><sup>*</sup></a>: [Note : Sous-section B en vigueur le 15 juillet 2019.]<br />
 
 
 
@@ -2971,7 +2973,7 @@ où :
 
 - **(2)** Les paragraphes 368(2) et 369(2) entrent en vigueur à la date fixée par décret, laquelle ne peut être antérieure à la date d’entrée en vigueur des paragraphes 368(1) et 369(1).
 
-<a name='nbp_2019-c29_F_transform_hq_24210'><sup>*</sup></a>: [Note : Sous-section C, à l’exception des articles 376 à 381, non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24210'><sup>*</sup></a>: [Note : Sous-section C, à l’exception des paragraphes 368(2) et 369(2) et des articles 376 à 381, en vigueur le 15 juillet 2019.]<br />
 
 
 
