@@ -56,7 +56,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 ***first nation*** means a band as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*première nation*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Indigenous Services. (*ministre*)
 
 ***provincial body*** means a body established by the laws of a province. (*organisme provincial*)
 
@@ -67,7 +67,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **References to province**
 
 - **(2)** In this Act, references to a province, in relation to reserve lands, are to the province in which the reserve lands are situated.
-> 2005, c. 53, s. 2; 2010, c. 6, s. 2.
+> 2005, c. 53, s. 2; 2010, c. 6, s. 22019, c. 29, s. 375
 
 
 
@@ -111,7 +111,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Incorporation by reference**
 
 - **(3)** The regulations may incorporate by reference any laws of the province, as amended from time to time, with any adaptations that the Governor in Council considers necessary.
-> 2005, c. 53, s. 3; 2010, c. 6, s. 3; 2012, c. 19, s. 63.
+> 2005, c. 53, s. 3; 2010, c. 6, s. 3; 2012, c. 19, s. 63
 
 
 
@@ -154,7 +154,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Incorporation by reference**
 
 - **(4)** The regulations may incorporate by reference any laws of the province, as amended from time to time, with any adaptations that the Governor in Council considers necessary.
-> 2010, c. 6, s. 4.
+> 2010, c. 6, s. 4
 
 
 
@@ -175,7 +175,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Non-application**
 
 - **(3)** Subsection (1) does not apply to the amendment or repeal of regulations made under section 3 or 4.1.
-> 2005, c. 53, s. 5; 2010, c. 6, s. 5.
+> 2005, c. 53, s. 5; 2010, c. 6, s. 5
 
 
 
@@ -191,7 +191,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Conflict with first nation laws or by-laws**
 
 **7** Regulations made under section 3 or 4.1 prevail over any laws or by-laws made by a first nation to the extent of any conflict or inconsistency between them, unless those regulations provide otherwise.
-> 2005, c. 53, s. 7; 2010, c. 6, s. 6.
+> 2005, c. 53, s. 7; 2010, c. 6, s. 6
 
 
 
@@ -204,7 +204,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 **8** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to any instruments made by a provincial official or body under authority of a provincial law incorporated by reference in regulations made under section 3 or 4.1.
-> 2005, c. 53, s. 8; 2010, c. 6, s. 6.
+> 2005, c. 53, s. 8; 2010, c. 6, s. 6
 
 
 
@@ -219,7 +219,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Review or appeal in provincial courts**
 
 - **(2)** Unless otherwise provided by regulations made under section 3 or 4.1, where a power or duty is conferred or imposed by a provincial law that is incorporated by reference in the regulations, its exercise or performance pursuant to the regulations is subject to review by, or appeal to, the courts of the province in the same manner and to the same extent as if the provincial law applied of its own force.
-> 2005, c. 53, s. 9; 2010, c. 6, s. 6.
+> 2005, c. 53, s. 9; 2010, c. 6, s. 6
 
 
 
@@ -241,7 +241,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **11** In respect of any act or omission occurring in the exercise of a power or the performance of a duty under regulations made under section 3 or 4.1,
 - **(a)** Her Majesty in right of Canada is entitled to the same limits on liability, defences and immunities as apply to Her Majesty in right of the province under the laws of the province; and
 - **(b)** the person or body exercising the power or performing the duty is entitled, unless otherwise provided by the regulations, to the same limits on liability, defences and immunities as those that would apply to a person or body exercising such a power or performing such a duty under the laws of the province.
-> 2005, c. 53, s. 11; 2010, c. 6, s. 7.
+> 2005, c. 53, s. 11; 2010, c. 6, s. 7
 
 
 
@@ -257,7 +257,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Registration, substitution or extinguishment**
 
 **12.1** No civil proceeding may be brought against Her Majesty in right of Canada or a province, a federal or provincial official or body or a person acting on behalf of any of them, in relation to the registration of the title or ownership of Her Majesty or a first nation, or of any registrable interest or right referred to in paragraph 4.1(2)(i), or in relation to the substitution or extinguishment of any interest or right in reserve lands pursuant to regulations made under section 4.1.
-> 2010, c. 6, s. 8.
+> 2010, c. 6, s. 8
 
 
 
@@ -272,5 +272,19 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 <sup><a href='#F-11.64_e_s13'>[*]</a></sup>**13** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='F-11.64_e_s13'><sup>*</sup></a>: [Note: Act in force April 1, 2006, *see* SI/2006-57.]<br />
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 28, par. 188(d)
+
+
+**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
+
+**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
+- **(d)** paragraph 3(2)(n) of the First Nations Commercial and Industrial Development Act;
+
 
 
