@@ -39,11 +39,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***accord*** Tout accord conclu en vertu de l’article 7 entre le ministre et le gouvernement des Territoires du Nord-Ouest. (*Agreement*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Affaires du Nord. (*Minister*)
 
 ***Société*** La Commission d’énergie du Nord canadien constituée en vertu de la Loi sur la Commission d’énergie du Nord canadien et prorogée en vertu de l’article 3. (*Corporation*)
 
 ***terres territoriales*** Les terres des Territoires du Nord-Ouest qui sont dévolues à Sa Majesté du chef du Canada ou que le gouvernement fédéral est autorisé à aliéner, que les terres aient ou non été soustraites à l’aliénation prévue à l’alinéa 19a) de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md). (*territorial lands*)
+> 1988, ch. 12, art. 22019, ch. 29, art. 374
+
 
 
 
@@ -166,7 +168,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dispense de droits**
 
 **12** Le ministre peut par arrêté, avec l’agrément du gouverneur en conseil, dispenser la Société du paiement des droits prévus, pour l’utilisation des eaux ou le rejet de déchets, par le permis délivré à cet effet en application de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou de la partie 1 de la [Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut](/fr/Lois/Lois%20du%20Canada/2002/ch.%2010.md).
-> 1988, ch. 12, art. 12; 1992, ch. 39, art. 49; 2002, ch. 10, art. 179.
+> 1988, ch. 12, art. 12; 1992, ch. 39, art. 49; 2002, ch. 10, art. 179
 
 
 
@@ -261,5 +263,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#nbp_eev'>[*]</a></sup>**23** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
 <a name='nbp_eev'><sup>*</sup></a>: [Note : Loi en vigueur le 5 mai 1988, *voir* TR/88-84.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 1992, ch. 39, par. 49(2)
+
+**49** 
+
+- **(2)** Restent en vigueur les arrêtés pris sous le régime de l’article 12 de la Loi autorisant l’émission et la vente des actions de la Commission d’énergie du Nord canadien avant l’entrée en vigueur de la présente loi.
+
 
 
