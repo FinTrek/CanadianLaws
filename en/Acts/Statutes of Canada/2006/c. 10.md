@@ -51,13 +51,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***individual agreement*** means an agreement entered into between Her Majesty in right of Canada and a participating First Nation with respect to jurisdiction over education by the participating First Nation on First Nation land, and includes any amendments to the agreement made pursuant to its provisions. (*accord spécifique*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations. (*ministre*)
 
 ***participating First Nation*** means a band named in the schedule. (*première nation participante*)
 
 **Words and expressions in [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
 - **(2)** Unless the context otherwise requires, words and expressions used in this Act have the same meaning as in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+> 2006, c. 10, s. 22019, c. 29, s. 373
+
 
 
 
@@ -483,4 +485,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### **SCHEDULE** 
 **(Subsection 2(1) and sections 5 and 6)**
 ## Participating First Nations
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 29, par. 371(2)(f)
+
+
+
+**Other references to Department of Indian Affairs and Northern Development**
+
+- **(2)** Unless the context requires otherwise, every reference to the “Department of Indian Affairs and Northern Development” is, with any grammatical adaptations, to be read as a reference to the “Department of Crown-Indigenous Relations and Northern Affairs” in the following provisions:
+	- **(f)** subsection 25(2) of the First Nations Jurisdiction over Education in British Columbia Act.
+
+
 
