@@ -41,9 +41,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Corporation*** means the Northern Canada Power Commission, a corporation without share capital established by the Northern Canada Power Commission Act and continued by section 3; (*Société*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
+***Minister*** means the Minister of Northern Affairs; (*ministre*)
 
 ***territorial lands*** means lands in the Northwest Territories that are vested in Her Majesty in right of Canada or of which the Government of Canada has power to dispose, whether or not the lands have been withdrawn from disposal under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) pursuant to paragraph 19(a) of that Act. (*terres territoriales*)
+> 1988, c. 12, s. 22019, c. 29, s. 374
+
 
 
 
@@ -166,7 +168,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exemption from fees**
 
 **12** The Minister may, with the approval of the Governor in Council, make an order exempting the Corporation from the requirement to pay fees for the right to use waters or deposit waste under a licence under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or Part 1 of the [Nunavut Waters and Nunavut Surface Rights Tribunal Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2010.md).
-> 1988, c. 12, s. 12; 1992, c. 39, s. 49; 2002, c. 10, s. 179.
+> 1988, c. 12, s. 12; 1992, c. 39, s. 49; 2002, c. 10, s. 179
 
 
 
@@ -261,5 +263,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 <sup><a href='#fn_cif'>[*]</a></sup>**23** This Act or any provision thereof shall come into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='fn_cif'><sup>*</sup></a>: [Note: Act in force May 5, 1988, *see* SI/88-84].<br />
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 1992, c. 39, ss. 49(2)
+
+**49** 
+
+- **(2)** An order made under section 12 of the Northern Canada Power Commission (share issuance and sale authorization) Act before the coming into force of this Act continues in force as if it had been made under that section as amended by this Act.
+
 
 
