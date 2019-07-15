@@ -24,7 +24,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Short title**
 
-**1** This Act may be cited as the Manitoba Claim Settlements Implementation Act.
+**1** This Act may be cited as the [Manitoba Claim Settlements Implementation Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2033.md).
 
 
 
@@ -125,9 +125,11 @@ only in accordance with the Agreement.
 
 ***mines and minerals*** means mines and minerals, whether precious or base, and includes sand and gravel, oil and gas, and royalties derived from mines and minerals. (*mines et minéraux*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations. (*ministre*)
 
 ***reserve*** means a reserve within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*réserve*)
+> 2000, c. 33, s. 82019, c. 29, s. 373
+
 
 
 
@@ -161,7 +163,7 @@ only in accordance with the Agreement.
 	- **(a)** the agreement contemplates the continuation of rights or interests of that kind, and any requirement of the agreement with respect to the continuation of the right or interest has been satisfied;
 	- **(b)** the right or interest has been granted to the third party under the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md); or
 	- **(c)** the right or interest is granted to the third party in accordance with section 12 or 13.
-> 2000, c. 33, s. 11; 2001, c. 4, s. 165; 2002, c. 3, s. 8(F).
+> 2000, c. 33, s. 11; 2001, c. 4, s. 165; 2002, c. 3, s. 8(F)
 
 
 
@@ -191,7 +193,7 @@ designate conditionally or unconditionally, by way of a surrender to Her Majesty
 **Certain acts deemed to have been done under [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
 - **(5)** As of the time when the Minister sets apart any lands as a reserve under section 11, any right or interest in the lands that was designated by way of a surrender under subsection (1), and any resulting grant that was made under subsection (3), are deemed to have been designated or made, as the case may be, under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
-> 2000, c. 33, s. 12; 2002, c. 3, s. 9.
+> 2000, c. 33, s. 12; 2002, c. 3, s. 9
 
 
 
@@ -213,7 +215,7 @@ authorize, by permit in writing, any person for a period not exceeding one year 
 **Certain acts deemed to have been done under [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
 - **(3)** As of the time when the Minister sets apart any lands as a reserve under section 11, a permit issued under subsection (1) in relation to those lands, and any consent given under that subsection, are deemed to have been issued or given, as the case may be, under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
-> 2000, c. 33, s. 13; 2002, c. 3, s. 10.
+> 2000, c. 33, s. 13; 2002, c. 3, s. 10
 
 
 
@@ -258,6 +260,52 @@ Agreement entered into by the Sapotaweyak Cree Nation, dated September 11, 1997
 
 
 Agreement entered into by the Norway House Cree Nation, dated December 31, 1997
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2018, c. 27, s. 677
+
+
+**[Manitoba Claim Settlements Implementation Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2033.md)**
+
+**677** If the council of a First Nation has, by resolution, requested that the Minister set apart certain lands as a reserve under the [Manitoba Claim Settlements Implementation Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2033.md) and, on the day on which this section comes into force, those lands have not been set apart as a reserve,
+- **(a)** any designation or grant of an interest or right made under section 12 of the [Manitoba Claim Settlements Implementation Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2033.md), as it read immediately before this section comes into force, is deemed to have been made under section 5 of the [Addition of Lands to Reserves and Reserve Creation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2027,%20s.%20675.md);
+- **(b)** any ongoing process conducted under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), in accordance with [Manitoba Claim Settlements Implementation Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2033.md), for the purposes of a proposed designation, is continued in accordance with the [Addition of Lands to Reserves and Reserve Creation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2027,%20s.%20675.md); and
+- **(c)** any permit issued or any consent given under section 13 of the [Manitoba Claim Settlements Implementation Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2033.md), as it read immediately before this section comes into force, is deemed to have been issued or given, as the case may be, under section 6 of the [Addition of Lands to Reserves and Reserve Creation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2027,%20s.%20675.md).
+
+
+
+######           — 2018, c. 27, s. 680
+
+**680** The long title of the [Manitoba Claim Settlements Implementation Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2033.md) is replaced by the following:An Act respecting an agreement with the Norway House Cree Nation for the settlement of matters arising from the flooding of land
+
+
+
+######           — 2018, c. 27, s. 681
+
+**681** Section 1 of the Act is replaced by the following:
+
+**Short title**
+
+**1** This Act may be cited as the Manitoba Claim Settlement Implementation Act (Norway House Cree Nation).
+
+
+
+
+
+######           — 2018, c. 27, s. 682
+
+**682** Part 2 of the Act is repealed.
+
+
+
+######           — 2018, c. 27, s. 683
+
+**683** The schedule to the Act is repealed.
 
 
 
