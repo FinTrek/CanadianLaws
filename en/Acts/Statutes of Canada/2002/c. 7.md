@@ -59,7 +59,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***gas*** means natural gas and all substances produced in association with natural gas, but does not include oil or coal-bed methane. (*gaz*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Northern Affairs. (*ministre*)
 
 ***national park*** means a park and includes a park reserve as those terms are defined in subsection 2(1) of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md). (*parc national*)
 
@@ -72,6 +72,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***waters*** means any inland water, whether in a liquid or frozen state, on or below the surface of land. (*eaux*)
 
 ***Yukon*** means the territory consisting of the area described in Schedule 1. (*Yukon*)
+> 2002, c. 7, s. 22019, c. 29, s. 374
+
 
 
 
@@ -99,10 +101,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication of order**
 
-- **(2)** The order in council appointing the Commissioner shall be published in the Canada Gazette.
+- **(2)** The order in council appointing the Commissioner shall be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 - **(3)** [Repealed, 2002, c. 7, s. 68]
-> 2002, c. 7, ss. 4, 68.
+> 2002, c. 7, ss. 4, 68
 
 
 
@@ -117,7 +119,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Absence or inability**
 
 - **(2)** The Chief Justice of the Supreme Court of Yukon may act as Administrator during the Administrator’s absence or illness or other inability or when that office is vacant.
-> 2002, c. 7, s. 5; 2017, c. 33, s. 257.
+> 2002, c. 7, s. 5; 2017, c. 33, s. 257
 
 
 
@@ -383,7 +385,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** what constitutes, or is deemed to constitute, borrowing;
 	- **(b)** the entities, or classes of entities, whose borrowings must be taken into account; and
 	- **(c)** the manner in which the value of a borrowing is determined.
-> 2002, c. 7, s. 23; 2012, c. 19, s. 216.
+> 2002, c. 7, s. 23; 2012, c. 19, s. 216
 
 
 
@@ -494,7 +496,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(iv)** the changes in the financial position for the fiscal year;
 - **(b)** the opinion of the Auditor General of Canada referred to in subsection 34(1); and
 - **(c)** any other information or statements that are required in support of the consolidated financial statements by or under any law of the Legislature.
-> 2002, c. 7, s. 33; 2017, c. 26, s. 62.
+> 2002, c. 7, s. 33; 2017, c. 26, s. 62
 
 
 
@@ -511,7 +513,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Report**
 
 - **(2)** The Auditor General shall report to the Legislative Assembly any matter falling within the scope of the audit that, in his or her opinion, should be reported to the Assembly.
-> 2002, c. 7, s. 34; 2017, c. 26, ss. 46, 62.
+> 2002, c. 7, s. 34; 2017, c. 26, ss. 46, 62
 
 
 
@@ -767,15 +769,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication**
 
-- **(2)** After notification is given and at least 60 days before an order is made, the Minister shall publish in the Canada Gazette and in a newspaper that, in the opinion of the Minister, has a large circulation in Yukon notice of the proposed order. The order may not be made more than 120 days after the notice is published in the Canada Gazette.
+- **(2)** After notification is given and at least 60 days before an order is made, the Minister shall publish in the [Canada Gazette](http://www.gazette.gc.ca/) and in a newspaper that, in the opinion of the Minister, has a large circulation in Yukon notice of the proposed order. The order may not be made more than 120 days after the notice is published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Interim prohibition**
 
-- **(3)** The prohibition takes effect before an order is made under section 50 or 51 on publication of the notice of the proposed order in the Canada Gazette and continues for a period of 120 days unless, during that period, the Minister publishes in the Canada Gazette notice of the Minister’s intention not to recommend the proposed order. The Minister shall also publish during that period the notice of the Minister’s intention in a newspaper that, in the opinion of the Minister, has a large circulation in Yukon.
+- **(3)** The prohibition takes effect before an order is made under section 50 or 51 on publication of the notice of the proposed order in the [Canada Gazette](http://www.gazette.gc.ca/) and continues for a period of 120 days unless, during that period, the Minister publishes in the [Canada Gazette](http://www.gazette.gc.ca/) notice of the Minister’s intention not to recommend the proposed order. The Minister shall also publish during that period the notice of the Minister’s intention in a newspaper that, in the opinion of the Minister, has a large circulation in Yukon.
 
 **Consideration of representations**
 
-- **(4)** Before the Minister recommends that an order be made, the Minister shall consider any representations received within 60 days after the date of publication of the notice of the proposed order in the Canada Gazette.
+- **(4)** Before the Minister recommends that an order be made, the Minister shall consider any representations received within 60 days after the date of publication of the notice of the proposed order in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **If proposed order varied**
 
@@ -944,7 +946,7 @@ However, paragraph (b) does not apply to claims as defined in the [Yukon Placer 
 **Indemnification of first nations**
 
 - **(3)** The Yukon Government shall indemnify a first nation, or any of its employees or agents, against all costs, charges or expenses, including an amount paid to settle an action or satisfy a judgement, that are reasonably incurred by that first nation, or any of its employees or agents, in respect of any claim, action or other proceeding brought against the first nation, or any of its employees or agents, arising out of any act or omission of the Yukon Government, or any of its employees or agents, in respect of remediation work done on the first nation’s land as required by the Agreement.
-> 2002, c. 7, s. 64; 2017, c. 26, s. 47(F).
+> 2002, c. 7, s. 64; 2017, c. 26, s. 47(F)
 
 
 
@@ -969,7 +971,7 @@ However, paragraph (b) does not apply to claims as defined in the [Yukon Placer 
 **Indemnification of first nations**
 
 - **(3)** The Government of Canada shall indemnify a first nation, or any of its employees or agents, against all costs, charges or expenses, including an amount paid to settle an action or satisfy a judgement, that are reasonably incurred by that first nation, or any of its employees or agents, in respect of any claim, action or other proceeding brought against the first nation, or any of its employees or agents, arising out of any act or omission of the Government of Canada, or any of its employees or agents, in respect of remediation work done on the first nation’s land as required by the Agreement.
-> 2002, c. 7, s. 65; 2017, c. 26, s. 48(F).
+> 2002, c. 7, s. 65; 2017, c. 26, s. 48(F)
 
 
 
@@ -1084,6 +1086,259 @@ A line following the ordinary low water mark of the northern coast of the mainla
 
 
 **(c)** at Shoalwater Bay: a straight line from the most northeasterly point on the ordinary low water mark on the westerly extremity of the entrance of the said Bay to the most westerly point on the ordinary low water mark on the easterly extremity of the entrance of the said Bay.
+
+
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2002, c. 7, s. 69 [in force but has not yet had its effect]
+
+**69** 
+
+- **(1)** Subsection 22(1) of this Act is renumbered as section 22 and subsections 22(2) and (3) are repealed on the first day on which the final agreements of all first nations, within the meaning of the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), chapter 34 of the Statutes of Canada, 1994, are in effect.
+
+- **(2)** The Minister shall publish a notice of that day in the [Canada Gazette](http://www.gazette.gc.ca/).
+
+
+
+######           — 2002, c. 7, s. 70
+
+**70** Paragraph 33(b) of this Act is replaced by the following:
+
+- **(b)** the opinion of the Auditor General of Yukon referred to in subsection 34(1); and
+
+
+
+
+
+######           — 2002, c. 7, s. 71
+
+**71** This Act is amended by adding the following after section 33:
+
+### Auditor General of Yukon
+
+
+**Appointment of Auditor General**
+
+**33.1** 
+
+- **(1)** The Commissioner, with the consent of the Executive Council, shall appoint a qualified auditor as the Auditor General of Yukon.
+
+**Terms of appointment**
+
+- **(2)** The Auditor General of Yukon shall hold office during good behaviour for a term of 10 years, but may be removed by the Commissioner on address of the Legislative Assembly.
+
+**Appointment of Auditor General of Canada**
+
+- **(3)** The Auditor General of Canada may act as Auditor General of Yukon if the Auditor General of Canada is of the opinion that it will not interfere with his or her primary responsibilities. Sections 33.2, 37.2 and 37.4 do not apply if the Auditor General of Canada acts as Auditor General of Yukon.
+
+
+
+**Pension benefits**
+
+**33.2** The provisions of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), other than those relating to tenure of office, apply to the Auditor General of Yukon.
+
+
+
+**Duties**
+
+**33.3** The Auditor General of Yukon shall make such examinations and inquiries as the Auditor General considers necessary to enable him or her to report as required by this Act.
+
+
+
+
+
+######           — 2002, c. 7, s. 72
+
+**72** The portion of subsection 34(1) of this Act before paragraph (a) is replaced by the following:
+
+**Annual audit**
+
+**34** 
+
+- **(1)** The Auditor General of Yukon shall audit the accounts, including those related to the Yukon Consolidated Revenue Fund, and financial transactions of the Yukon Government in each fiscal year in accordance with auditing standards recommended by the Canadian Institute of Chartered Accountants or its successor and shall express his or her opinion as to whether
+
+
+
+
+
+######           — 2002, c. 7, s. 73
+
+**73** The portion of section 35 of this Act before paragraph (a) is replaced by the following:
+
+**Supplementary report**
+
+**35** The Auditor General of Yukon may, at any time, inquire into and submit a supplementary report to the Legislative Assembly about any matter relating to the activities of the Yukon Government, including whether
+
+
+
+
+
+######           — 2002, c. 7, s. 74
+
+**74** The portion of section 36 of this Act before paragraph (a) is replaced by the following:
+
+**Inquiry and report**
+
+**36** At the request of the Commissioner, made with the consent of the Executive Council, the Auditor General of Yukon may, if in his or her opinion it does not interfere with the Auditor General’s primary responsibilities, inquire into and report to the Legislative Assembly on
+
+
+
+
+
+######           — 2002, c. 7, s. 75
+
+**75** Section 37 of this Act is replaced by the following:
+
+**Access to information**
+
+**37** 
+
+- **(1)** Except as provided by any law made by the Legislature that expressly refers to this subsection, the Auditor General of Yukon is entitled to free access at all convenient times to information that relates to the fulfilment of his or her responsibilities and is entitled to require and receive from members of the public service of Yukon any information, reports and explanations that he or she considers necessary for that purpose.
+
+**Stationing of officers in departments**
+
+- **(2)** In order to carry out his or her duties more effectively, the Auditor General may station any person employed in his or her office in any portion of the public service of Yukon, and the Yukon Government shall provide the necessary office accommodation for that person.
+
+**Oath of secrecy**
+
+- **(3)** The Auditor General shall require every person employed in his or her office who is to examine, pursuant to this Act, the accounts of a portion of the public service of Yukon or of a corporation that is expressly declared under any law of the Legislature to be an agent of the Yukon Government to comply with any security requirements applicable to, and to take any oath of secrecy required to be taken by, persons employed in that public service or that corporation.
+
+**Powers of Auditor General**
+
+- **(4)** The Auditor General may, for the purpose of auditing the accounts of Yukon, in the same manner and to the same extent as a court of record, summon and enforce the attendance of witnesses and compel them to give oral and written evidence on oath and to produce such documents and things as the Auditor General considers necessary for a full review.
+
+
+
+**Auditor General may request information**
+
+**37.1** 
+
+- **(1)** The Auditor General of Yukon may request a corporation that is expressly declared under any law of the Legislature to be an agent of the Yukon Government to obtain and furnish such information and explanations from its present or former directors, officers, employees, agents and auditors or those of any of its subsidiaries as are, in the Auditor General’s opinion, necessary to fulfil his or her responsibilities.
+
+**Direction of the Commissioner**
+
+- **(2)** If, in the opinion of the Auditor General, a corporation fails to provide any or sufficient information or explanations in response to a request made under subsection (1), the Auditor General may so advise the Commissioner. The Commissioner may then, with the consent of the Executive Council, direct the officers of the corporation to give the Auditor General such information and explanations and access to any records, documents, books, accounts and vouchers of the corporation or any of its subsidiaries as is, in the opinion of the Auditor General, necessary to fulfil his or her responsibilities.
+
+**Reliance on audit reports of corporations**
+
+- **(3)** In order to fulfil his or her responsibilities, the Auditor General may rely on the report of a duly appointed auditor of a corporation referred to in subsection (1) or of any subsidiary of that corporation.
+
+
+
+**Appointment of officers, etc.**
+
+**37.2** 
+
+- **(1)** The Auditor General of Yukon shall appoint, in accordance with the laws of the Legislature governing employment in the public service of Yukon, such officers and employees as are necessary to enable him or her to perform the Auditor General’s duties.
+
+**Suspension or dismissal**
+
+- **(2)** The Auditor General may, in accordance with the laws referred to in subsection (1), suspend or dismiss from the performance of his or her duty any person employed in the Auditor General’s office.
+
+**Contract for professional services**
+
+- **(3)** The Auditor General may, within the total dollar limitations established for his or her office in appropriation laws, contract for professional services.
+
+**Delegation**
+
+- **(4)** The Auditor General may delegate any of his or her powers under this section to any person or organization that under a law of the Legislature is responsible for the management of the public service of Yukon.
+
+
+
+**Designation**
+
+**37.3** The Auditor General of Yukon may designate a member of his or her staff to sign on the Auditor General’s behalf any opinion that he or she is required to give and any report other than a report to the Legislative Assembly, and any member so signing an opinion or report shall indicate beneath his or her signature his or her position in the office of the Auditor General and the fact that he or she is signing on behalf of the Auditor General.
+
+
+
+**Special report**
+
+**37.4** The Auditor General of Yukon may make a special report to the Legislative Assembly if he or she is of the opinion that
+- **(a)** the amounts provided for his or her office in the estimates are inadequate to enable the Auditor General to fulfil his or her responsibilities; or
+- **(b)** the laws of the Legislature governing employment in the public service of Yukon may undermine the independence of the Office of the Auditor General or otherwise interfere with the performance of his or her duties.
+
+
+
+
+
+######           — 2002, c. 7, s. 76 [in force but has not yet had its effect]
+
+**76** 
+
+- **(1)** Section 55 of this Act is repealed on the day on which the National Energy Board gives leave to open the last section or part of the pipeline referred to in the [Northern Pipeline Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-26.md).
+
+- **(2)** The Minister shall publish a notice of that day in the [Canada Gazette](http://www.gazette.gc.ca/).
+
+
+
+######           — 2017, c. 26, ss. 72(1), (2)
+
+
+**
+> 2002, c. 7
+**
+
+**72** 
+
+- **(1)** In this section, other Act means the Yukon Act.
+
+- **(2)** If subparagraph 62(l)(ii) of this Act comes into force before section 72 of the other Act, then on the day on which that section 72 comes into force, the portion of subsection 34(1) of the other Act before paragraph (a) is replaced by the following:
+
+**Annual audit**
+
+**34** 
+
+- **(1)** The Auditor General of Yukon shall audit the accounts, including those related to the Yukon Consolidated Revenue Fund, and financial transactions of the Yukon Government in each fiscal year in accordance with auditing standards recommended by the Chartered Professional Accountants of Canada or its successor and shall express his or her opinion as to whether
+
+
+
+
+
+######           — 2019, c. 28, s. 172
+
+**172** Subsection 76(1) of the Yukon Act is amended by replacing “National Energy Board” with “Canadian Energy Regulator”.
+
+
+
+######           — 2019, c. 28, s. 190(2)
+
+**190** 
+
+- **(2)** If section 10 of this Act comes into force before section 210 of the other Act, then that section 210 and the heading before it are replaced by the following:
+
+#### [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md)
+
+**210** Subsection 318(1) of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) is replaced by the following:
+
+**Consent of Yukon first nation or Governor in Council**
+
+**318** 
+
+- **(1)** A company must not, if the Yukon first nation concerned does not consent to it, take possession of, use or occupy settlement land as defined in section 2 of the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md) or lands identified as such in a self-government agreement as defined in the [Yukon First Nations Self-Government Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2035.md) without the consent of the Governor in Council.
+
+
+
+
+
+
+
+######           — 2019, c. 28, s. 191(2)
+
+**191** 
+
+- **(2)** If section 10 of this Act comes into force before section 211 of the other Act, that section 211 is replaced by the following:
+**211** Section 328 of the Act is replaced by the following:
+
+**Regulatory powers regarding settlement land or Tetlit Gwich’in Yukon land**
+
+**328** The Governor in Council may, by regulation, designate the provisions of the laws of the Legislature of Yukon that apply if the Commission determines a compensation matter involving land referred to in section 318. Those provisions apply to the Commission as if it were the body established under those laws having jurisdiction with respect to surface rights.
+
+
 
 
 
