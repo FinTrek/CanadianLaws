@@ -226,3 +226,68 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(b)** the progress made towards the transfer of responsibilities referred to in paragraph 7(b).
 
 
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 29, s. 338
+
+
+**Minister**
+
+**338** 
+
+- **(1)** Any person who holds, immediately before the day on which this section comes into force, the office of Minister of State styled Minister of Indigenous Services is deemed, as of that day, to be the minister referred to in section 4 of the Department of Indigenous Services Act, as enacted by section 336.
+
+**Deputy Minister**
+
+- **(2)** Any person who holds, immediately before the day on which this section comes into force, the office of Special Adviser to the Minister of Indigenous Services, styled as Deputy Minister of Indigenous Services, is deemed to have been appointed on that day under section 5 of the Department of Indigenous Services Act, as enacted by section 336, as the Deputy Minister of Indigenous Services.
+
+**Persons who occupy a position**
+
+- **(3)** Nothing in this Act is to be construed as affecting the status of any person who, immediately before the day on which this section comes into force, occupies or is assigned to a position in the Department of Indigenous Services Canada, except that the person, as of that day, occupies or is assigned to their position in the Department of Indigenous Services.
+
+
+
+######           — 2019, c. 29, s. 339
+
+
+**Transfer of appropriations**
+
+**339** Any amount that is appropriated by an Act of Parliament for the fiscal year in which this section comes into force to defray the expenditures of the public service of Canada within the Department of Indigenous Services Canada and that is unexpended on the day on which this section comes into force is deemed to be an amount appropriated to defray the expenditures of the public service of Canada within the Department of Indigenous Services.
+
+
+
+######           — 2019, c. 29, s. 340
+
+
+**Validation of acts and decisions**
+
+**340** Any act taken or decision or determination — including any approval given in relation to the issuance of a licence — made by the person who holds the office of Minister of State styled Minister of Indigenous Services during the period beginning on November 30, 2017 and ending on the day on which section 336 comes into force is deemed, to the extent that it would have been valid under the Department of Indigenous Services Act, as enacted by that section 336, or any other Act of Parliament, to have been validly taken or made under the Department of Indigenous Services Act or that other Act of Parliament, as the case may be.
+
+
+
+######           — 2019, c. 29, s. 345
+
+
+**References — certain agreements**
+
+**345** 
+
+- **(1)** On the day on which section 337 comes into force, every reference to the Minister of Indian Affairs and Northern Development or Department of Indian Affairs and Northern Development in a land claims, specific claim or self-government agreement is, unless the context requires otherwise, to be read as a reference to the Minister of Crown-Indigenous Relations or Department of Crown-Indigenous Relations and Northern Affairs, as the case may be.
+
+**References — other documents**
+
+- **(2)** On the day on which both sections 336 and 337 come into force, every reference to the Minister of Indian Affairs and Northern Development or Department of Indian Affairs and Northern Development in any contract, instrument or act, agreement — other than an agreement referred to in subsection (1) — or other document is, unless the context requires otherwise, to be read as a reference to the Minister of Crown-Indigenous Relations, Minister of Northern Affairs, Minister of Indigenous Services, Department of Crown-Indigenous Relations and Northern Affairs or Department of Indigenous Services, as the case may be.
+
+
+
+######           — 2019, c. 29, s. 346
+
+
+**Regulations**
+
+**346** The Governor in Council may make any regulations that the Governor in Council considers necessary to provide for any other transitional matter arising from the coming into force of this Act.
+
+
+
