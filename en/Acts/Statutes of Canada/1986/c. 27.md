@@ -60,7 +60,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***District Council*** means the Sechelt Indian Government District Council established by subsection 19(1); (*conseil de district*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations; (*ministre*)
 
 ***Sechelt lands*** means
 - **(a)** lands transferred to the Band under section 23, and
@@ -69,6 +69,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Sechelt lands**
 
 - **(2)** For greater certainty, Sechelt lands do not include lands described in the definition “Sechelt lands” in subsection (1) where the lands have been sold or the title to the lands has been otherwise transferred.
+> 1986, c. 27, s. 22019, c. 29, s. 373
+
 
 
 
@@ -208,7 +210,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication**
 
-**13** The Minister shall cause to be published in the Canada Gazette the constitution or any amendment thereto forthwith on issuing an order declaring the constitution or amendment in force under this Act.
+**13** The Minister shall cause to be published in the [Canada Gazette](http://www.gazette.gc.ca/) the constitution or any amendment thereto forthwith on issuing an order declaring the constitution or amendment in force under this Act.
 
 
 
@@ -684,5 +686,19 @@ and may, on the advice of the Minister, by order revoke any such order.
 <sup><a href='#S-6.6_en_1'>[*]</a></sup>**61** This Act or any provision thereof shall come into force on a day or days to be fixed by proclamation.
 
 <a name='S-6.6_en_1'><sup>*</sup></a>: [Note: Act, except sections 17 to 20, in force October 9, 1986, *see* SI/86-193; sections 17 to 20 in force, *see* SI/88-48.]<br />
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 29, s. 373(3)
+
+
+
+**Other references to Minister**
+
+- **(3)** Unless the context requires otherwise, every reference to the “Minister” is to be read as a reference to the “Minister of Crown-Indigenous Relations” in sections 12 and 13 of the Sechelt Indian Band Self-Government Act.
+
 
 
