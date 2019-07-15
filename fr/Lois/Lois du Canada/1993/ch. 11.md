@@ -52,12 +52,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***bande de Nekaneet*** La bande indienne de Nekaneet de la Saskatchewan. (*Nekaneet band*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Services aux Autochtones. (*Minister*)
 
 **Terminologie**
 
 - **(2)** Les termes non définis dans la présente loi s’entendent au sens de l’accord modifiant la CTRN.
-> 1993, ch. 11, art. 2; 2002, ch. 3, art. 11.
+> 1993, ch. 11, art. 2; 2002, ch. 3, art. 112019, ch. 29, art. 375
 
 
 
@@ -78,7 +78,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Est confirmé et prend effet conformément à sa teneur l’accord conclu — avant ou après l’entrée en vigueur du présent article — entre le gouvernement du Canada et celui de la Saskatchewan relativement à un accord conclu avec une bande indienne de cette province en règlement d’une revendication fondée sur des droits fonciers issus de traités, si les conditions suivantes sont remplies :
 	- **a)** l’accord conclu avec la bande indienne est semblable ou identique à l’accord-cadre;
 	- **b)** l’accord conclu par ces gouvernements est semblable ou identique à l’accord modifiant la CTRN.
-> 1993, ch. 11, art. 3; 2002, ch. 3, art. 12.
+> 1993, ch. 11, art. 3; 2002, ch. 3, art. 12
 
 
 
@@ -163,7 +163,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application du présent article**
 
 - **(4)** Si une ou plusieurs bandes indiennes en Saskatchewan concluent un accord en règlement d’une revendication fondée sur des droits fonciers issus de traités qui est semblable ou identique à l’accord-cadre et si l’une de ces bandes consent, selon les alinéas 3a) ou b) de la [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications (Alberta et Saskatchewan)](/fr/Lois/Lois%20du%20Canada/2002/ch.%203.md), à l’application de celle-ci à l’accord, le présent article est inapplicable ou cesse de s’appliquer à l’accord dans la mesure où celui-ci touche la bande qui a ainsi consenti.
-> 1993, ch. 11, art. 9; 2002, ch. 3, art. 13.
+> 1993, ch. 11, art. 9; 2002, ch. 3, art. 13
 
 
 
@@ -186,8 +186,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application à d’autres accords**
 
-- **(2)** Si un accord semblable ou identique à l’accord-cadre est conclu avec une bande indienne en Saskatchewan en règlement d’une revendication fondée sur des droits fonciers issus de traités, le ministre fait publier, compte tenu du paragraphe 9(4), un avis confirmant dans quelle mesure la présente loi s’applique à l’accord. L’avis est publié dans la Gazette du Canada.
-> 1993, ch. 11, art. 11; 2002, ch. 3, art. 14.
+- **(2)** Si un accord semblable ou identique à l’accord-cadre est conclu avec une bande indienne en Saskatchewan en règlement d’une revendication fondée sur des droits fonciers issus de traités, le ministre fait publier, compte tenu du paragraphe 9(4), un avis confirmant dans quelle mesure la présente loi s’applique à l’accord. L’avis est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/).
+> 1993, ch. 11, art. 11; 2002, ch. 3, art. 14
 
 
 
@@ -995,6 +995,30 @@ Sous réserve des lois applicables, la bande et la Saskatchewan reconnaissent qu
 
 
 Si un tribunal compétent juge qu’une disposition du présent article contrevient ou déroge aux droits issus des traités de la bande ou aux droits de ses membres, la disposition en question doit, dans la mesure de son incompatibilité, être déclarée nulle et sans effet.
+
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 29, par. 375(3)
+
+
+
+**Autre mention du ministre**
+
+- **(3)** Sauf indication contraire du contexte, au paragraphe 11(2) de la Loi sur les droits fonciers issus de traités en Saskatchewan, le mot « ministre » vaut mention du ministre des Services aux Autochtones.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2018, ch. 27, art. 679
+
+**679** L’article 9 de la Loi sur les droits fonciers issus de traités en Saskatchewan est abrogé.
 
 
 
