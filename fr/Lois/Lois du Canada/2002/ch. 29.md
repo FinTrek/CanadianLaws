@@ -165,7 +165,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ministre compétent**
 
 - **(3)** La mention de ministre compétent dans une disposition de la présente loi vaut celle du ministre compétent à l’égard d’une espèce sauvage, ou des individus d’une telle espèce, auxquels la disposition s’applique.
-> 2002, ch. 29, art. 2 et 141.1; 2005, ch. 2, art. 14.
+> 2002, ch. 29, art. 2 et 141.1; 2005, ch. 2, art. 14
 
 
 
@@ -228,7 +228,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Le Conseil canadien pour la conservation des espèces en péril a pour mission :
 	- **a)** de diriger d’une façon générale les activités du COSEPAC, l’élaboration des programmes de rétablissement et l’élaboration et la mise en oeuvre des plans d’action;
 	- **b)** de coordonner les activités de protection des espèces en péril exercées par les divers gouvernements représentés au conseil.
-> 2002, ch. 29, art. 7; 2005, ch. 2, art. 15.
+> 2002, ch. 29, art. 7; 2005, ch. 2, art. 15
 
 
 
@@ -251,7 +251,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accord et rapport annuel**
 
 - **(3)** La délégation se fait par la conclusion d’un accord, entre le délégant et le délégataire, stipulant que ce dernier fait rapport annuellement au premier sur les activités qu’il exerce dans le cadre de l’accord. Est mise dans le registre une copie de l’accord dans les quarante-cinq jours suivant sa conclusion et une copie de tout rapport annuel dans les quarante-cinq jours suivant sa réception par le délégant.
-> 2002, ch. 29, art. 8; 2005, ch. 2, art. 16.
+> 2002, ch. 29, art. 8; 2005, ch. 2, art. 16
 
 
 
@@ -275,7 +275,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Comités consultatifs : Conseil**
 
 - **(2)** Après consultation du ministre responsable de l’Agence Parcs Canada, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, le ministre peut constituer un ou plusieurs comités pour conseiller ce dernier relativement à l’exécution de sa mission.
-> 2002, ch. 29, art. 9; 2005, ch. 2, art. 17.
+> 2002, ch. 29, art. 9; 2005, ch. 2, art. 17
 
 
 
@@ -487,7 +487,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contenu**
 
 - **(2)** Le ministre peut, par règlement pris après consultation du COSEPAC, du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, prévoir le contenu des rapports de situation.
-> 2002, ch. 29, art. 21; 2005, ch. 2, art. 18.
+> 2002, ch. 29, art. 21; 2005, ch. 2, art. 18
 
 
 
@@ -502,7 +502,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 - **(2)** Après consultation du ministre responsable de l’Agence Parcs Canada, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, le ministre peut prendre des règlements concernant la présentation des demandes au COSEPAC en vertu du paragraphe (1) et le traitement des demandes par celui-ci.
-> 2002, ch. 29, art. 22; 2005, ch. 2, art. 19.
+> 2002, ch. 29, art. 22; 2005, ch. 2, art. 19
 
 
 
@@ -608,7 +608,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification**
 
 - **(4)** Le COSEPAC remet une copie de l’évaluation à l’auteur de la demande, au ministre et au Conseil canadien pour la conservation des espèces en péril. Une copie de cette évaluation est mise dans le registre.
-> 2002, ch. 29, art. 28; 2005, ch. 2, art. 20.
+> 2002, ch. 29, art. 28; 2005, ch. 2, art. 20
 
 
 
@@ -832,7 +832,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlement**
 
 - **(4)** Sur recommandation faite par le ministre après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut prévoir par règlement, pour l’application de l’alinéa (1)e), les éléments additionnels à inclure dans un programme de rétablissement.
-> 2002, ch. 29, art. 41; 2005, ch. 2, art. 21.
+> 2002, ch. 29, art. 41; 2005, ch. 2, art. 21
 
 
 
@@ -954,7 +954,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlement**
 
 - **(2)** Sur recommandation faite par le ministre après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut prévoir par règlement, pour l’application de l’alinéa (1)f), les éléments additionnels à inclure dans un plan d’action.
-> 2002, ch. 29, art. 49; 2005, ch. 2, art. 22.
+> 2002, ch. 29, art. 49; 2005, ch. 2, art. 22
 
 
 
@@ -1019,7 +1019,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(2)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Affaires indiennes et du Nord canadien et la bande avant de le prendre.
+- **(2)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Services aux Autochtones et la bande avant de le prendre.
 
 **Consultation**
 
@@ -1038,6 +1038,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(6)** Le paragraphe (5) ne s’applique pas :
 	- **a)** à l’égard des individus d’une espèce aquatique ou d’une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), et de leur habitat;
 	- **b)** à l’égard des terres relevant du ministre ou de l’Agence Parcs Canada.
+> 2002, ch. 29, art. 532019, ch. 29, art. 375
+
 
 
 
@@ -1087,11 +1089,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Zone de protection**
 
-- **(2)** Si l’habitat essentiel ou une partie de celui-ci se trouve dans un parc national du Canada dénommé et décrit à l’annexe 1 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), le parc urbain national de la Rouge, créé par la [Loi sur le parc urbain national de la Rouge](/fr/Lois/Lois%20du%20Canada/2015/ch.%2010.md), une zone de protection marine sous le régime de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md), un refuge d’oiseaux migrateurs sous le régime de la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) ou une réserve nationale de la faune sous le régime de la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), le ministre compétent est tenu, dans les quatre-vingt-dix jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel, de publier dans la Gazette du Canada une description de l’habitat essentiel ou de la partie de celui-ci qui se trouve dans le parc, la zone, le refuge ou la réserve.
+- **(2)** Si l’habitat essentiel ou une partie de celui-ci se trouve dans un parc national du Canada dénommé et décrit à l’annexe 1 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), le parc urbain national de la Rouge, créé par la [Loi sur le parc urbain national de la Rouge](/fr/Lois/Lois%20du%20Canada/2015/ch.%2010.md), une zone de protection marine sous le régime de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md), un refuge d’oiseaux migrateurs sous le régime de la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) ou une réserve nationale de la faune sous le régime de la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), le ministre compétent est tenu, dans les quatre-vingt-dix jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel, de publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) une description de l’habitat essentiel ou de la partie de celui-ci qui se trouve dans le parc, la zone, le refuge ou la réserve.
 
 **Application**
 
-- **(3)** Le paragraphe (1) s’applique à l’habitat essentiel ou à la partie de celui-ci visés au paragraphe (2) après les quatre-vingt-dix jours suivant la publication de sa description dans la Gazette du Canada en application de ce paragraphe.
+- **(3)** Le paragraphe (1) s’applique à l’habitat essentiel ou à la partie de celui-ci visés au paragraphe (2) après les quatre-vingt-dix jours suivant la publication de sa description dans la [Gazette du Canada](http://www.gazette.gc.ca/) en application de ce paragraphe.
 
 **Application**
 
@@ -1119,7 +1121,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(7)** Si le ministre compétent estime que l’arrêté visé au paragraphe (4) ou le décret visé au paragraphe (5.1) touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Affaires indiennes et du Nord canadien et la bande avant de prendre l’arrêté au titre du paragraphe (4) ou de faire la recommandation au titre du paragraphe (5.2).
+- **(7)** Si le ministre compétent estime que l’arrêté visé au paragraphe (4) ou le décret visé au paragraphe (5.1) touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Services aux Autochtones et la bande avant de prendre l’arrêté au titre du paragraphe (4) ou de faire la recommandation au titre du paragraphe (5.2).
 
 **Consultation**
 
@@ -1128,7 +1130,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation**
 
 - **(9)** Si le ministre compétent estime que l’arrêté visé au paragraphe (4) ou le décret visé au paragraphe (5.1) touchera des terres relevant d’un autre ministre fédéral, sauf un ministre compétent, il est tenu de consulter cet autre ministre fédéral avant de prendre l’arrêté au titre du paragraphe (4) ou de faire la recommandation au titre du paragraphe (5.2).
-> 2002, ch. 29, art. 58; 2015, ch. 10, art. 60.
+> 2002, ch. 29, art. 58; 2015, ch. 10, art. 602019, ch. 29, art. 375
 
 
 
@@ -1154,11 +1156,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(5)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Affaires indiennes et du Nord canadien et la bande avant d’en recommander la prise.
+- **(5)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Services aux Autochtones et la bande avant d’en recommander la prise.
 
 **Consultation**
 
 - **(6)** Si le ministre compétent estime que le règlement touchera une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, il est tenu de consulter le conseil avant d’en recommander la prise.
+> 2002, ch. 29, art. 592019, ch. 29, art. 375
+
 
 
 
@@ -1346,7 +1350,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(2)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Affaires indiennes et du Nord canadien et la bande avant d’en recommander la prise.
+- **(2)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Services aux Autochtones et la bande avant d’en recommander la prise.
 
 **Consultation**
 
@@ -1365,6 +1369,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(6)** Le paragraphe (5) ne s’applique pas :
 	- **a)** à l’égard des individus d’une espèce aquatique ou d’une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), et de leur habitat;
 	- **b)** à l’égard des terres relevant du ministre ou de l’Agence Parcs Canada.
+> 2002, ch. 29, art. 712019, ch. 29, art. 375
+
 
 
 
@@ -1440,7 +1446,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** régir les délais à respecter pour délivrer ou renouveler le permis ou refuser de le faire;
 	- **b)** prévoir les circonstances où l’un ou l’autre de ces délais ne s’applique pas;
 	- **c)** autoriser le ministre compétent, dans les cas où il l’estime indiqué, à proroger l’un ou l’autre de ces délais ou à décider qu’il ne s’applique pas.
-> 2002, ch. 29, art. 73; 2005, ch. 2, art. 23; 2012, ch. 19, art. 163.
+> 2002, ch. 29, art. 73; 2005, ch. 2, art. 23; 2012, ch. 19, art. 163
 
 
 
@@ -1451,7 +1457,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **74** A le même effet qu’un accord ou permis visé au paragraphe 73(1) tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris par le ministre compétent en application d’une autre loi fédérale et ayant pour objet d’autoriser l’exercice d’une activité touchant une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus, si :
 - **a)** avant la conclusion, la délivrance ou la prise, le ministre compétent estime que les exigences des paragraphes 73(2) à (6.1) sont remplies;
 - **b)** après la conclusion, la délivrance ou la prise, le ministre compétent se conforme aux exigences du paragraphe 73(7).
-> 2002, ch. 29, art. 74; 2012, ch. 19, art. 164.
+> 2002, ch. 29, art. 74; 2012, ch. 19, art. 164
 
 
 
@@ -1496,7 +1502,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de l’interdiction**
 
 - **(2)** Il est entendu que l’article 58 s’applique même si l’autorisation a été délivrée ou l’agrément a été donné en conformité avec le paragraphe (1).
-> 2002, ch. 29, art. 77; 2012, ch. 19, art. 165.
+> 2002, ch. 29, art. 77; 2012, ch. 19, art. 165
 
 
 
@@ -1513,7 +1519,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interprétation**
 
 - **(2)** Pour l’application du paragraphe (1), la mention du ministre compétent aux paragraphes 73(2), (3), (6) et (7) vaut, selon le cas, mention du ministre provincial ou du ministre territorial.
-> 2002, ch. 29, art. 78; 2012, ch. 19, art. 166.
+> 2002, ch. 29, art. 78; 2012, ch. 19, art. 166
 
 
 
@@ -1522,7 +1528,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Clarification — renouvellement**
 
 **78.1** Il est entendu que la mention, aux articles 73 à 78, de la conclusion, de la délivrance, de la prise ou de l’agrément d’un accord, d’un permis, d’une licence ou d’un arrêté — ou de tout autre document ou autorisation semblable — vise notamment leur renouvellement et la mention, à ces articles et à l’alinéa 97(1)c), de l’un ou l’autre de ces documents ou autorisations vise notamment le document ou l’autorisation renouvelés.
-> 2012, ch. 19, art. 167.
+> 2012, ch. 19, art. 167
 
 
 
@@ -1552,7 +1558,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** Projet désigné au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ou projet au sens de l’article 66 de cette loi;
 - **b)** projet de développement au sens du paragraphe 2(1) de la [Loi sur l’évaluation environnementale et socioéconomique au Yukon](/fr/Lois/Lois%20du%20Canada/2003/ch.%207.md);
 - **c)** projet de développement au sens du paragraphe 111(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md). (*project*)
-> 2002, ch. 29, art. 79; 2012, ch. 19, art. 59; 2017, ch. 26, art. 49(F).
+> 2002, ch. 29, art. 79; 2012, ch. 19, art. 59; 2017, ch. 26, art. 49(F)
 
 
 
@@ -1661,7 +1667,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlement**
 
 **84** Sur recommandation faite par le ministre après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut, par règlement, prendre des mesures d’application de l’alinéa 83(5)g).
-> 2002, ch. 29, art. 84; 2005, ch. 2, art. 24.
+> 2002, ch. 29, art. 84; 2005, ch. 2, art. 24
 
 
 
@@ -1965,7 +1971,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 **Définition de personne morale sans but lucratif**
 
 - **(7)** Pour l’application du paragraphe (1.1), ***personne morale sans but lucratif*** s’entend d’une personne morale dont aucune partie du revenu n’est payable à un propriétaire, membre ou actionnaire de celle-ci, ou ne peut par ailleurs servir au profit personnel de ceux-ci.
-> 2002, ch. 29, art. 97; 2012, ch. 19, art. 168.
+> 2002, ch. 29, art. 97; 2012, ch. 19, art. 168
 
 
 
@@ -1974,7 +1980,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 **Dirigeants d’une personne morale**
 
 **98** En cas de perpétration d’une infraction par une personne morale, ceux de ses dirigeants, administrateurs, agents ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
-> 2002, ch. 29, art. 98; 2015, ch. 3, art. 153(A).
+> 2002, ch. 29, art. 98; 2015, ch. 3, art. 153(A)
 
 
 
@@ -1983,7 +1989,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 **Infraction : agent ou mandataire**
 
 **99** Dans les poursuites pour infraction, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son agent ou mandataire, que celui-ci ait ou non été poursuivi.
-> 2002, ch. 29, art. 99; 2015, ch. 3, art. 153(A).
+> 2002, ch. 29, art. 99; 2015, ch. 3, art. 153(A)
 
 
 
@@ -2316,7 +2322,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 **Règlements**
 
 **121** Sur recommandation faite par le ministre après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut, par règlement, fixer les modalités de forme et de tenue du registre, ainsi que les modalités d’accès à celui-ci.
-> 2002, ch. 29, art. 121; 2005, ch. 2, art. 25.
+> 2002, ch. 29, art. 121; 2005, ch. 2, art. 25
 
 
 
@@ -2325,7 +2331,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 **Immunité**
 
 **122** Malgré toute autre loi fédérale, Sa Majesté du chef du Canada de même que le ministre, le ministre responsable de l’Agence Parcs Canada et le ministre des Pêches et des Océans ainsi que les personnes qui agissent en leur nom ou sous leurs ordres bénéficient de l’immunité en matière civile ou pénale pour la communication totale ou partielle d’un avis ou autre document faite de bonne foi par la voie du registre ainsi que pour les conséquences qui en découlent.
-> 2002, ch. 29, art. 122; 2005, ch. 2, art. 25.
+> 2002, ch. 29, art. 122; 2005, ch. 2, art. 25
 
 
 
@@ -2369,7 +2375,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 **Recouvrement**
 
 - **(2)** Les frais et droits réglementaires constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
-> 2002, ch. 29, art. 125; 2005, ch. 2, art. 26.
+> 2002, ch. 29, art. 125; 2005, ch. 2, art. 26
 
 
 
@@ -2389,7 +2395,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 - **e)** les activités d’application et d’observation de la présente loi, y compris la suite donnée aux demandes d’enquête;
 - **f)** les règlements, décrets et arrêtés d’urgence pris en vertu de la présente loi;
 - **g)** tout autre sujet que le ministre juge pertinent.
-> 2002, ch. 29, art. 126; 2012, ch. 19, art. 169.
+> 2002, ch. 29, art. 126; 2012, ch. 19, art. 169
 
 
 
@@ -3934,7 +3940,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130, 229; DORS/2018-10, 112; DORS/2019-52, art. 1; DORS/2019-52, art. 2; DORS/2019-52, art. 3; DORS/2019-52, art. 4; DORS/2019-52, art. 5; DORS/2019-52, art. 6; DORS/2019-52, art. 7; DORS/2019-52, art. 8; DORS/2019-52, art. 9; DORS/2019-52, art. 10; DORS/2019-52, art. 11; DORS/2019-52, art. 12; DORS/2019-52, art. 13; DORS/2019-52, art. 14; DORS/2019-52, art. 15; DORS/2019-52, art. 16; DORS/2019-52, art. 17; DORS/2019-52, art. 18; DORS/2019-52, art. 19; DORS/2019-52, art. 20; DORS/2019-52, art. 21; DORS/2019-52, art. 22; DORS/2019-145, art. 1; DORS/2019-145, art. 2; DORS/2019-145, art. 3; DORS/2019-145, art. 4; DORS/2019-145, art. 5; DORS/2019-145, art. 6.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130, 229; DORS/2018-10, 112DORS/2019-52, art. 1DORS/2019-52, art. 2DORS/2019-52, art. 3DORS/2019-52, art. 4DORS/2019-52, art. 5DORS/2019-52, art. 6DORS/2019-52, art. 7DORS/2019-52, art. 8DORS/2019-52, art. 9DORS/2019-52, art. 10DORS/2019-52, art. 11DORS/2019-52, art. 12DORS/2019-52, art. 13DORS/2019-52, art. 14DORS/2019-52, art. 15DORS/2019-52, art. 16DORS/2019-52, art. 17DORS/2019-52, art. 18DORS/2019-52, art. 19DORS/2019-52, art. 20DORS/2019-52, art. 21DORS/2019-52, art. 22DORS/2019-145, art. 1DORS/2019-145, art. 2DORS/2019-145, art. 3DORS/2019-145, art. 4DORS/2019-145, art. 5DORS/2019-145, art. 6
 
 
 
@@ -4020,7 +4026,7 @@ Cisco à nageoires noires (*Coregonus nigripinnis*)<br />- <i>Cisco, Blackfin</i
 ##### Plantes
 
 
-> 2002, ch. 29, ann. 2; DORS/2005-14, art. 54 à 60; DORS/2005-224, art. 33 à 36; DORS/2006-60, art. 3; DORS/2006-189, art. 27 à 29.
+> 2002, ch. 29, ann. 2; DORS/2005-14, art. 54 à 60; DORS/2005-224, art. 33 à 36; DORS/2006-60, art. 3; DORS/2006-189, art. 27 à 29
 
 
 
@@ -4145,6 +4151,75 @@ Hypogymnie maritime (*Hypogymnia heterophylla*)<br />- <i>Seaside Bone</i>
 Lichen cryptique (*Nephroma occultum*)<br />- <i>Cryptic Paw</i>
 
 Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />- <i>Oldgrowth Specklebelly</i>
-> 2002, ch. 29, ann. 3; DORS/2005-14, art. 61 à 65; DORS/2005-224, art. 37 à 40; DORS/2006-60, art. 4; DORS/2006-189, art. 30 à 35.
+> 2002, ch. 29, ann. 3; DORS/2005-14, art. 61 à 65; DORS/2005-224, art. 37 à 40; DORS/2006-60, art. 4; DORS/2006-189, art. 30 à 35
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 25, art. 400
+
+**400** L’alinéa 108(1)e) de la Loi sur les espèces en péril est remplacé par ce qui suit :
+
+- **e)** il a conclu avec le procureur général un accord sur les mesures de rechange dans les cent quatre-vingts jours suivant la signification d’une sommation, la délivrance d’une citation à comparaître, la remise par lui d’une promesse ou la date à laquelle une ordonnance de mise en liberté a été rendue à son égard;
+
+
+
+
+
+######           — 2019, ch. 28, art. 174
+
+
+**
+> 2012, ch. 19, art. 165
+**
+
+**174** Le paragraphe 77(1.1) de la Loi sur les espèces en péril est abrogé.
+
+
+
+######           — 2019, ch. 28, art. 175
+
+
+**
+> 2012, ch. 19, par. 59(1)
+**
+
+**175** 
+
+- **(1)** Le paragraphe 79(1) de la même loi est remplacé par ce qui suit :
+
+**Notification du ministre**
+
+**79** 
+
+- **(1)** Toute personne qui est tenue, sous le régime d’une loi fédérale, de veiller à ce qu’il soit procédé à l’évaluation des effets environnementaux d’un projet et toute autorité qui prend une décision au titre des alinéas 82a) ou b) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) relativement à un projet notifient sans tarder le projet à tout ministre compétent s’il est susceptible de toucher une espèce sauvage inscrite ou son habitat essentiel.
+
+
+
+**
+> 2012, ch. 19, par. 59(2)
+**
+
+- **(2)** La définition de ***personne***, au paragraphe 79(3) de la même loi, est remplacée par ce qui suit :
+
+
+***personne*** S’entend notamment d’une association de personnes, d’une organisation, d’une autorité fédérale au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) et de tout organisme mentionné à l’annexe 4 de cette loi. (*person*)
+
+
+
+**
+> 2012, ch. 19, par. 59(2)
+**
+
+- **(3)** L’alinéa a) de la définition de ***projet***, au paragraphe 79(3) de la même loi est remplacé par ce qui suit :
+
+
+***projet***
+- **a)** Projet désigné au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ou projet au sens de l’article 81 de cette loi;
+
+
+
 
 
