@@ -55,7 +55,7 @@
 
 ***indivisaire*** Le possesseur d’une fraction enregistrée sous le régime de la partie VIII.
 
-***ministre*** Selon qu’il s’agit de terres domaniales dont les ressources naturelles sont placées sous la responsabilité administrative du ministre des Ressources naturelles ou sous celle du ministre des Affaires indiennes et du Nord canadien, l’un ou l’autre de ces ministres. (*Minister*)
+***ministre*** Selon qu’il s’agit de terres domaniales dont les ressources naturelles sont placées sous la responsabilité administrative du ministre des Ressources naturelles ou sous celle du ministre des Affaires du Nord, l’un ou l’autre de ces ministres. (*Minister*)
 
 ***périmètre de découverte exploitable*** Les terres domaniales objet d’une découverte exploitable et décrites dans une déclaration faite sous le régime des paragraphes 35(1) ou (2). (*commercial discovery area*)
 
@@ -83,7 +83,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 ***titre*** Ancien accord d’exploration, ancienne concession, ancien permis, ancien permis spécial de renouvellement, permis de prospection, licence de production ou attestation de découverte importante. (*interest*)
 
 ***titulaire*** Le possesseur d’un titre enregistré sous le régime de la partie VIII ou le groupe de tous les indivisaires d’un titre, selon le cas.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 2; 1993, ch. 28, art. 78; 1994, ch. 41, art. 13; 1996, ch. 31, art. 58; 1998, ch. 5, art. 13, ch. 15, art. 49; 2014, ch. 2, art. 35.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 2; 1993, ch. 28, art. 78; 1994, ch. 41, art. 13; 1996, ch. 31, art. 58; 1998, ch. 5, art. 13, ch. 15, art. 49; 2014, ch. 2, art. 352019, ch. 29, art. 374
 
 
 
@@ -108,7 +108,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Avis**
 
 **4** Les avis à donner sous le régime de la présente loi le sont sur formulaire, selon les modalités réglementaires.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 4; 1992, ch. 1, art. 144(F).
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 4; 1992, ch. 1, art. 144(F)
 
 
 
@@ -156,7 +156,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Traitement**
 
 - **(2)** Les membres d’un tel organisme consultatif reçoivent le traitement et ont droit aux indemnités que fixe le gouverneur en conseil.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 8; 1992, ch. 35, art. 34.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 8; 1992, ch. 35, art. 34
 
 
 
@@ -234,7 +234,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Exception**
 
 - **(4)** Le présent article n’a pas pour effet d’empêcher le ministre, s’il en a le pouvoir, de libérer quiconque de l’exécution d’obligations liées à un titre ou imposées par la présente loi ou ses règlements.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 12; 2015, ch. 4, art. 29(F); 2019, ch. 8, art. 19; 2019, ch. 19, art. 85.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 12; 2015, ch. 4, art. 29(F)2019, ch. 8, art. 192019, ch. 19, art. 85
 
 
 
@@ -270,7 +270,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Remboursement de la garantie**
 
 - **(6)** Si un titre visé au paragraphe (1) est abandonné ou annulé, le solde de la garantie relativement au titre est remboursé au titulaire par Sa Majesté du chef du Canada, déduction faite du montant correspondant à toute obligation non satisfaite par lui au moment de l’abandon ou de l’annulation.
-> 2019, ch. 8, art. 20.
+> 2019, ch. 8, art. 20
 
 
 
@@ -289,7 +289,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Aucun recours**
 
 - **(3)** À l’exception de toute indemnité accordée en vertu du présent article, nul ne peut réclamer ou recevoir quelque dédommagement de Sa Majesté du chef du Canada ou de ses préposés ou mandataires en rapport avec des droits, acquis ou dévolus, actuels ou éventuels, visés par l’abandon ou l’annulation de titres visés au paragraphe 12.1(1).
-> 2019, ch. 8, art. 20.
+> 2019, ch. 8, art. 20
 
 
 
@@ -411,7 +411,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **Formalités de publication**
 
-**19** Les avis que donne le ministre sous le régime des paragraphes 14(1), 15(2) ou (4), 17(2) ou 25(2) sont à publier dans la Gazette du Canada et telle publication qu’il estime indiquée. Par dérogation à ces paragraphes, l’avis peut ne contenir qu’un résumé des renseignements en cause accompagné d’une note indiquant qu’il est possible d’avoir accès au texte complet sur demande présentée au ministre.
+**19** Les avis que donne le ministre sous le régime des paragraphes 14(1), 15(2) ou (4), 17(2) ou 25(2) sont à publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) et telle publication qu’il estime indiquée. Par dérogation à ces paragraphes, l’avis peut ne contenir qu’un résumé des renseignements en cause accompagné d’une note indiquant qu’il est possible d’avoir accès au texte complet sur demande présentée au ministre.
 
 
 
@@ -430,7 +430,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Plan de retombées**
 
 **21** Aucune activité ne peut être entreprise sur des terres domaniales visées par un titre, avant que le ministre n’ait approuvé, à moins qu’il n’y renonce, un plan de retombées économiques pour l’activité en application du paragraphe 5.2(2) de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md).
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 21; 1992, ch. 35, art. 35.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 21; 1992, ch. 35, art. 35
 
 
 
@@ -572,7 +572,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Délégation**
 
 - **(8)** L’Office national de l’énergie peut déléguer les pouvoirs que lui confère le présent article à un de ses membres, dirigeants ou employés. Le mandat est à exercer conformément à la délégation.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 28; 1994, ch. 10, art. 16; 2015, ch. 4, art. 30(F).
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 28; 1994, ch. 10, art. 16; 2015, ch. 4, art. 30(F)
 
 
 
@@ -665,7 +665,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Définition de date d’abandon du puits**
 
 - **(5)** Pour l’application du paragraphe (3), la date d’abandon du puits est celle à laquelle le puits a été abandonné ou complété ou son exploitation suspendue conformément aux règlements applicables en matière de forage.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 33; 2015, ch. 4, art. 31.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 33; 2015, ch. 4, art. 31
 
 
 
@@ -714,7 +714,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Délégation**
 
 - **(5)** L’Office national de l’énergie peut déléguer les pouvoirs que lui confère le présent article à un de ses membres, dirigeants ou employés. Le mandat est à exercer conformément à la délégation.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 35; 1994, ch. 10, art. 17; 2015, ch. 4, art. 32.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 35; 1994, ch. 10, art. 17; 2015, ch. 4, art. 32
 
 
 
@@ -749,7 +749,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Prolongation — révocation**
 
 - **(6)** Le ministre peut prolonger le délai fixé dans un arrêté pris au titre du paragraphe (3) ou annuler l’arrêté.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 36; 2015, ch. 4, art. 33.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 36; 2015, ch. 4, art. 33
 
 
 
@@ -787,7 +787,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Conditions de la licence de production**
 
 - **(3)** La licence de production est établie sur formulaire et comporte les conditions compatibles avec la présente loi et ses règlements dont conviennent le ministre et le titulaire intéressé.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 38; 1993, ch. 47, art. 1.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 38; 1993, ch. 47, art. 1
 
 
 
@@ -873,7 +873,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Condition d’octroi**
 
 **44** Seules les personnes morales constituées au Canada peuvent être titulaires ou indivisaires d’une licence de production.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 44; 1993, ch. 47, art. 2.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 44; 1993, ch. 47, art. 2
 
 
 
@@ -1039,7 +1039,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Huis clos**
 
 - **(5)** L’audience peut, à la demande d’une partie, se dérouler à huis clos.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 63; 2002, ch. 8, art. 182.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 63; 2002, ch. 8, art. 182
 
 
 
@@ -1065,7 +1065,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Renvois à la Cour fédérale**
 
 **65** Le ministre et l’indivisaire peuvent demander à la Cour fédérale de trancher sous le régime du paragraphe 17(3) ou (4) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) toute question de droit, de fait ou de droit et de fait découlant de la présente partie dont ils conviennent par écrit.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 65; 2002, ch. 8, art. 182.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 65; 2002, ch. 8, art. 182
 
 
 
@@ -1135,7 +1135,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **71** Par dérogation aux autres dispositions de la présente loi ou à la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), le ministre peut, tant que dure le défaut — au sens des règlements — de payer un montant sous le régime de la présente partie :
 - **a)** refuser de délivrer tout nouveau titre au défaillant;
 - **b)** refuser d’autoriser sous le régime de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) toute activité sur les terres domaniales et suspendre toute autorisation déjà donnée.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 71; 1992, ch. 35, art. 37.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 71; 1992, ch. 35, art. 37
 
 
 
@@ -1146,10 +1146,10 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **72** Les articles 231 à 231.5 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent, compte tenu des adaptations de circonstance, à la mise en oeuvre de la présente partie et, notamment, comme si :
 - **a)** la mention de l’« impôt » était la mention d’une « redevance »;
 - **b)** la mention de « ministre » était la mention de « ministre » au sens de l’article 2 de la présente loi;
-- **c)** la mention de « l’Agence du revenu du Canada » était la mention, selon le cas, du « ministère des Ressources naturelles » ou du « ministère des Affaires indiennes et du Nord canadien »;
+- **c)** la mention de « l’Agence du revenu du Canada » était la mention, selon le cas, du « ministère des Ressources naturelles » ou du « ministère des Services aux Autochtones »;
 - **d)** la mention de la « Cour canadienne de l’impôt » était la mention de la « Cour fédérale »;
 - **e)** la mention d’une « déclaration de revenu » ou d’une « déclaration supplémentaire » était la mention de « rapports » ou « déclarations » déposés en application de la présente partie.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 72; 1994, ch. 41, art. 14; 1999, ch. 17, art. 113; 2005, ch. 38, art. 138.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 72; 1994, ch. 41, art. 14; 1999, ch. 17, art. 113; 2005, ch. 38, art. 1382019, ch. 29, art. 372
 
 
 
@@ -1203,10 +1203,10 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 ***fonds*** Fonds pour l’étude de l’environnement (RN) ou (AINC) visé au paragraphe 76(1). (*Fund*)
 
-***ministre*** Le ministre des Ressources naturelles ou le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Ressources naturelles ou le ministre des Affaires du Nord. (*Minister*)
 
 ***région*** Région désignée par règlement. (***French version only***)
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 75; 1994, ch. 41, art. 15.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 75; 1994, ch. 41, art. 152019, ch. 29, art. 374
 
 
 
@@ -1216,12 +1216,12 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **76** 
 
-- **(1)** Sont ouverts parmi les comptes du Canada un compte placé sous la responsabilité administrative du ministre des Ressources naturelles, appelé Fonds pour l’étude de l’environnement (RN) et un compte placé sous celle du ministre des Affaires indiennes et du Nord canadien, appelé Fonds pour l’étude de l’environnement (AINC); chaque compte doit comprendre un compte secondaire pour chaque région du territoire placé sous la responsabilité du ministre.
+- **(1)** Sont ouverts parmi les comptes du Canada un compte placé sous la responsabilité administrative du ministre des Ressources naturelles, appelé Fonds pour l’étude de l’environnement (RN) et un compte placé sous celle du ministre des Affaires du Nord, appelé Fonds pour l’étude de l’environnement (AINC); chaque compte doit comprendre un compte secondaire pour chaque région du territoire placé sous la responsabilité du ministre.
 
 **Objet des fonds**
 
 - **(2)** Les fonds ont pour objet de financer les études prévues sous le régime de la présente loi ou de toute autre loi fédérale portant sur l’environnement relativement aux activités de prospection, de mise en valeur et de production sur les terres domaniales.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 76; 1994, ch. 41, art. 16.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 76; 1994, ch. 41, art. 162019, ch. 29, art. 374
 
 
 
@@ -1289,7 +1289,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Frais**
 
 - **(7)** Les conseillers ont droit au paiement des frais de déplacement et de séjour entraînés par l’exercice des attributions du Conseil.
-> L.R. (1985), ch. 36 (2e suppl.), art. 78; 2003, ch. 22, art. 131(A).
+> L.R. (1985), ch. 36 (2e suppl.), art. 78; 2003, ch. 22, art. 131(A)
 
 
 
@@ -1344,7 +1344,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Recommandation**
 
 - **(2)** Les recommandations du Conseil ne lient pas le ministre.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 80; 1993, ch. 34, art. 16.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 80; 1993, ch. 34, art. 16
 
 
 
@@ -1431,9 +1431,9 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 ***cession de sûreté*** Avis de la cession totale ou partielle d’une sûreté à l’égard de laquelle un avis de sûreté a été enregistré en application de la présente partie. (*assignment of security interest*)
 
-***directeur*** La personne nommée par le ministre des Ressources naturelles ou par le ministre des Affaires indiennes et du Nord canadien, selon qu’il s’agit de terres dont les ressources naturelles sont placées sous la responsabilité administrative de l’un ou de l’autre. (*Registrar*)
+***directeur*** La personne nommée par le ministre des Ressources naturelles ou par le ministre des Affaires du Nord, selon qu’il s’agit de terres dont les ressources naturelles sont placées sous la responsabilité administrative de l’un ou de l’autre. (*Registrar*)
 
-***directeur adjoint*** La personne nommée par le ministre des Ressources naturelles ou par le ministre des Affaires indiennes et du Nord canadien, selon qu’il s’agit de terres dont les ressources naturelles sont placées sous la responsabilité administrative de l’un ou de l’autre. (*Deputy Registrar*)
+***directeur adjoint*** La personne nommée par le ministre des Ressources naturelles ou par le ministre des Affaires du Nord, selon qu’il s’agit de terres dont les ressources naturelles sont placées sous la responsabilité administrative de l’un ou de l’autre. (*Deputy Registrar*)
 
 ***mainlevée*** Avis de mainlevée, même partielle, d’un avis de sûreté ou d’une cession de priorité. (*discharge*)
 
@@ -1455,7 +1455,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Les cessionnaires sont réputés parties garanties**
 
 - **(2)** Lors de l’enregistrement d’une cession de sûreté, la mention faite à la présente partie d’une partie garantie vaut, à l’égard de l’avis de cession de la sûreté, mention du cessionnaire désigné dans la cession de sûreté.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 84, ch. 21 (4<sup>e</sup> suppl.), art. 3; 1991, ch. 46, art. 587; 1994, ch. 41, art. 17.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 84, ch. 21 (4<sup>e</sup> suppl.), art. 3; 1991, ch. 46, art. 587; 1994, ch. 41, art. 172019, ch. 29, art. 374
 
 
 
@@ -1824,7 +1824,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Exception — paragraphes (8) à (10)**
 
 - **(11)** Les paragraphes (8) à (10) ne s’appliquent pas à l’égard des catégories de renseignements visées aux alinéas (7)a) à e) et i).
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151; 2014, ch. 2, art. 36; 2015, ch. 4, art. 34.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151; 2014, ch. 2, art. 36; 2015, ch. 4, art. 34
 
 
 
@@ -1874,7 +1874,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Précautions à prendre contre la communication**
 
 - **(9)** Lors de procédures relatives au recours prévu au paragraphe (7), la Cour fédérale prend toutes les précautions possibles, notamment par la tenue d’audiences à huis clos si indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements qui, en application de la présente loi, sont protégés ou ne peuvent pas être communiqués.
-> 2015, ch. 4, art. 35.
+> 2015, ch. 4, art. 35
 
 
 
@@ -1901,7 +1901,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Décision**
 
 - **(3)** La décision de l’arbitre lie tous ceux qui y sont mentionnés à compter de la date à laquelle elle est rendue. Les conditions de la décision sont réputées être celles du titre en cause.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 103; 1992, ch. 35, art. 40.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 103; 1992, ch. 35, art. 40
 
 
 
@@ -1919,7 +1919,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Application**
 
 - **(2)** Les règlements peuvent s’appliquer à la totalité ou à telle portion des terres domaniales.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 104; 1992, ch. 35, art. 41.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 104; 1992, ch. 35, art. 41
 
 
 
@@ -1938,7 +1938,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Défaut**
 
 - **(2)** Par dérogation aux autres dispositions de la présente loi, si l’intéressé ne se conforme pas à l’avis dans le délai imparti, le ministre peut, par un arrêté assujetti à l’article 106 et s’il juge que le défaut justifie la mesure, annuler les titres ou la fraction en cause, auquel cas les terres domaniales sur lesquelles ils portaient deviennent des réserves de l’État.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 105; 1992, ch. 35, art. 42.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 105; 1992, ch. 35, art. 42
 
 
 
@@ -1991,7 +1991,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Contrôle judiciaire**
 
 - **(10)** La mesure objet d’une audition au titre du présent article peut aussi faire celui d’une demande de contrôle judiciaire aux termes de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 106; 1990, ch. 8, art. 47; 1992, ch. 35, art. 43; 2002, ch. 8, art. 182.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 106; 1990, ch. 8, art. 47; 1992, ch. 35, art. 43; 2002, ch. 8, art. 182
 
 
 
@@ -2024,12 +2024,12 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 **Publication des projets de règlement**
 
-- **(2)** Les projets de règlement que le gouverneur en conseil se propose de prendre en vertu du paragraphe (1) sont publiés dans la Gazette du Canada, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
+- **(2)** Les projets de règlement que le gouverneur en conseil se propose de prendre en vertu du paragraphe (1) sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/), les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
 
 **Exception**
 
 - **(3)** Ne sont pas visés les projets de règlement déjà publiés dans les conditions prévues au paragraphe (2), qu’ils aient été modifiés ou non à la suite d’observations présentées conformément à ce paragraphe.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 107; 2015, ch. 4, art. 36.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 107; 2015, ch. 4, art. 36
 
 
 
@@ -2117,7 +2117,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 - **(2)** Tous les titres régis par le [Règlement sur les terres pétrolifères et gazifères du Canada](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201518.md) et valides lors de l’entrée en vigueur du présent article continuent de l’être sous réserve des articles 113 à 116.
 
 - **(3) à (7)** [Abrogés, 1991, ch. 10, art. 20]
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 112; 1991, ch. 10, art. 19 et 20.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 112; 1991, ch. 10, art. 19 et 20
 
 
 
@@ -2165,7 +2165,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Idem**
 
 - **(5)** Par dérogation à toute autre disposition de la présente loi, l’accord de 1944, intitulé *Norman Wells Agreement*, et celui de 1983, intitulé *Norman Wells Expansion Agreement*, demeurent valides selon les mêmes modalités, compte tenu des modifications apportées par l’accord de 1994 intitulé *Norman Wells Amending Agreement*; les articles 1 à 117 ne sont applicables à aucun de ces accords.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 114; 1994, ch. 36, art. 1.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 114; 1994, ch. 36, art. 1
 
 
 
@@ -2229,7 +2229,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Précision**
 
 - **(6)** Ni la scission de titres en vertu du présent article, ni l’attribution de nouveaux numéros aux titres en résultant n’a pour effet de créer de nouveaux titres, les titres existants étant remplacés sans solution de continuité.
-> 1998, ch. 5, art. 14.
+> 1998, ch. 5, art. 14
 
 
 
@@ -2252,7 +2252,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Définition de région extracôtière**
 
 - **(4)** Au présent article, ***région extracôtière*** s’entend au sens de l’article 48.01 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md).
-> 2014, ch. 2, art. 37.
+> 2014, ch. 2, art. 37
 
 
 
@@ -2281,5 +2281,191 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Exception**
 
 - **(2)** L’article 116 est réputé être entré en vigueur le 5 mars 1982.
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 28, art. 147
+
+
+**
+> 1994, ch. 10, par. 16(3)
+**
+
+**147** Le paragraphe 28(7) de la Loi fédérale sur les hydrocarbures est remplacé par ce qui suit :
+
+**Procédure**
+
+- **(7)** La déclaration, sa modification et son annulation se font en conformité avec la procédure prévue à l’article 382 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
+
+
+
+######           — 2019, ch. 28, art. 148
+
+
+**
+> 1994, ch. 10, par. 17(2)
+**
+
+**148** Le paragraphe 35(4) de la même loi est remplacé par ce qui suit :
+
+**Procédure**
+
+- **(4)** La déclaration, sa modification et son annulation se font en conformité avec la procédure prévue à l’article 382 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
+
+
+
+######           — 2019, ch. 28, art. 149
+
+
+**
+> 1994, ch. 10, art. 18; 2007, ch. 35, art. 151
+**
+
+**149** 
+
+- **(1)** Les paragraphes 101(2) à (3) de la même loi sont remplacés par ce qui suit :
+
+**Renseignements protégés**
+
+- **(2)** Sous réserve des autres dispositions du présent article, les renseignements fournis pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à l’exception de sa partie 0.1, de leurs règlements ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) sont protégés, que leur fourniture soit obligatoire ou non.
+
+**Communication**
+
+- **(2.1)** Sous réserve des autres dispositions du présent article, les renseignements protégés au titre du paragraphe (2) ne peuvent, sciemment, être communiqués sans le consentement écrit de la personne qui les a fournis, si ce n’est pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) ou dans le cadre de procédures judiciaires à cet égard.
+
+**Production et preuve**
+
+- **(3)** Nul ne peut être tenu de communiquer les renseignements protégés au titre du paragraphe (2) au cours de procédures judiciaires qui ne visent pas l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
+
+**
+> 2015, ch. 4, par. 34(8)
+**
+
+- **(2)** Le passage du paragraphe 101(10) précédant l’alinéa a) de la même loi est remplacé par ce qui suit :
+
+**Renseignements communicables — sécurité ou protection de l’environnement**
+
+- **(10)** Sous réserve de l’article 101.1, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) peut communiquer tout ou partie des renseignements en matière de sécurité ou de protection de l’environnement fournis relativement à une demande faite au titre du paragraphe 5(1) de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à un permis de travaux ou autorisation délivrés en vertu de ce paragraphe ou fournis conformément à un règlement pris en vertu de cette loi. La Commission ou le délégué ne peut toutefois pas communiquer les renseignements à l’égard desquels il est convaincu :
+
+
+
+######           — 2019, ch. 28, art. 150
+
+
+**
+> 2015, ch. 4, art. 35
+**
+
+**150** 
+
+- **(1)** Le paragraphe 101.1(1) de la même loi est remplacé par ce qui suit :
+
+**Avis — paragraphe 101(10)**
+
+**101.1** 
+
+- **(1)** Avant de procéder à toute communication de renseignements en vertu du paragraphe 101(10), la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) fait tous les efforts raisonnables pour donner avis écrit de son intention à la personne qui les a fournis.
+
+
+
+**
+> 2015, ch. 4, art. 35
+**
+
+- **(2)** L’alinéa 101.1(3)a) de la même loi est remplacé par ce qui suit :
+
+- **a)** la mention de l’intention de la Commission de la Régie canadienne de l’énergie ou du délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) de communiquer des renseignements en vertu du paragraphe 101(10);
+
+
+
+**
+> 2015, ch. 4, art. 35
+**
+
+- **(3)** L’alinéa 101.1(3)c) de la même loi est remplacé par ce qui suit :
+
+- **c)** la mention du droit du destinataire de l’avis de présenter à la Commission ou au délégué, dans les vingt jours suivant la transmission de l’avis, ses observations par écrit quant aux raisons qui justifieraient un refus de communication totale ou partielle.
+
+
+
+**
+> 2015, ch. 4, art. 35
+**
+
+- **(4)** Le passage du paragraphe 101.1(4) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Observations des tiers et décision**
+
+- **(4)** Dans les cas où il a donné avis à une personne en application du paragraphe (1), la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) est tenu :
+
+**
+> 2015, ch. 4, art. 35
+**
+
+- **(5)** L’alinéa 101.1(4)a) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+- **(a)** give the person the opportunity to make, within 20 days after the day on which the notice is given, written representations to the Commission or the person as to why the information or documentation, or a portion of it, should not be disclosed; and
+
+
+
+**
+> 2015, ch. 4, art. 35
+**
+
+- **(6)** L’alinéa 101.1(5)b) de la même loi est remplacé par ce qui suit :
+
+- **b)** la mention qu’à défaut de l’exercice du recours en révision dans ce délai, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) communiquera les renseignements en cause.
+
+
+
+**
+> 2015, ch. 4, art. 35
+**
+
+- **(7)** Le paragraphe 101.1(6) de la même loi est remplacé par ce qui suit :
+
+**Communication des renseignements**
+
+- **(6)** Dans les cas où il décide, en vertu de l’alinéa (4)b), de communiquer des renseignements, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) donne suite à sa décision dès l’expiration des vingt jours suivant la transmission de l’avis prévu à cet alinéa, sauf si un recours en révision a été exercé en vertu du paragraphe (7).
+
+**
+> 2015, ch. 4, art. 35
+**
+
+- **(8)** Le paragraphe 101.1(7) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+**Review**
+
+- **(7)** Any person to whom the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after day on which the notice is given, apply to the Federal Court for a review of the decision.
+
+
+
+######           — 2019, ch. 28, art. 151
+
+
+**
+> 2015, ch. 4, par. 36(1)
+**
+
+**151** Les alinéas 107(1)c.1) et c.2) de la même loi sont remplacés par ce qui suit :
+
+- **c.1)** régir les droits ou redevances à payer pour les services ou les produits que la Commission de la Régie canadienne de l’énergie, le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou le ministre fournit sous le régime de la présente loi, ou leur méthode de calcul;
+- **c.2)** régir les droits ou redevances à payer par un titulaire ou un indivisaire relativement aux activités exercées par la Commission de la Régie canadienne de l’énergie, le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou le ministre sous le régime de la présente loi ou relativement à celle-ci, ou leur méthode de calcul;
+
+
+
+
+
+######           — 2019, ch. 28, art. 152
+
+**152** 
+
+- **(1)** Aux paragraphes 101(6.1) à (6.3) de la même loi, « Office national de l’énergie » et « Office » sont respectivement remplacés par « Régie canadienne de l’énergie » et « Régie », avec les adaptations nécessaires.
+
+- **(2)** Aux paragraphes 28(1), (2), (4) et (8), 33(1), 35(1), (2) et (5) et 36(1) de la même loi, « Office national de l’énergie » et « Office » sont respectivement remplacés par « Commission de la Régie canadienne de l’énergie » et « Commission », avec les adaptations nécessaires.
+
 
 
