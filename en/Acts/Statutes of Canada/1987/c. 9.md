@@ -47,9 +47,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Electrical Company*** means The Yukon Electrical Company Limited, a corporation incorporated under the laws of the Yukon Territory; (*société d’électricité*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
+***Minister*** means the Minister of Northern Affairs; (*ministre*)
 
 ***territorial lands*** means lands in the Yukon Territory that are vested in Her Majesty in right of Canada or of which the Government of Canada has power to dispose, whether or not the lands have been withdrawn from disposal under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) pursuant to paragraph 19(a) of that Act. (*terres territoriales*)
+> 1987, c. 9, s. 22019, c. 29, s. 374
+
 
 
 
@@ -98,7 +100,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exemption from fees**
 
 - **(3)** Notwithstanding the [Yukon Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2040.md), the Minister may, with the approval of the Governor in Council, make an order exempting the Corporation from the requirement to pay fees for the right to use waters or deposit waste pursuant to a licence under that Act.
-> 1987, c. 9, s. 5; 1992, c. 40, s. 50.
+> 1987, c. 9, s. 5; 1992, c. 40, s. 50
 
 
 
@@ -234,5 +236,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 <sup><a href='#fn_N-24.5_e_hq_13867'>[*]</a></sup>**17** Sections 6, 9 and 12 to 16 shall come into force on a day or days to be fixed by proclamation.
 
 <a name='fn_N-24.5_e_hq_13867'><sup>*</sup></a>: [Note: Sections 6, 9 and 12 to 16 in force June 4, 1987, *see* SI/87-127.]<br />
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 1992, c. 40, ss. 50(3)
+
+
+**Orders continued**
+
+**50** 
+
+- **(3)** An order made under subsection 5(3) of the Northern Canada Power Commission Yukon Assets Disposal Authorization Act before the coming into force of this Act continues in force as if it had been made under that subsection as amended by this Act.
+
 
 
