@@ -64,7 +64,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** lands the disposition of which is subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or the [First Nations Land Management Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2024.md); or
 - **(b)** in relation to a band specified in regulations made under subsection (2), the lands described in those regulations. (*terres*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Indigenous Services. (*ministre*)
 
 ***provincial body*** means a body established by a provincial Act. (*organisme provincial*)
 
@@ -75,6 +75,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 - **(2)** The Governor in Council may make regulations providing, for the purposes of this Act, that a band, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), is a First Nation and that lands described in those regulations are First Nation lands.
+> 2013, c. 21, s. 22019, c. 29, s. 375
+
 
 
 
