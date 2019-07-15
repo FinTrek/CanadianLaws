@@ -19,7 +19,7 @@ Attendu :
 que le gouvernement du Canada est tenu, aux termes du chapitre 7 de la Convention du Nord-Est québécois, de recommander au Parlement l’adoption d’une loi spéciale prévoyant, pour les Naskapis, un régime d’administration locale organisé et efficace, ainsi que l’administration, la régie et le contrôle par la bande naskapie des terres de catégorie IA-N, ainsi que la protection des droits individuels et collectifs prévus à cette convention;
 
 que la présente loi n’a pas pour objet d’empêcher les Naskapis de bénéficier de toute mesure législative ou autre, compatible avec la Convention, édictée à l’avenir en ce qui concerne le régime d’autonomie des Indiens du Canada,
-> 1984, ch. 18, préambule; 2018, ch. 4, art. 3..
+> 1984, ch. 18, préambule; 2018, ch. 4, art. 3.
 
 
 
@@ -38,7 +38,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titre abrégé**
 
 **1** Loi sur les Naskapis et la Commission crie-naskapie.
-> 1984, ch. 18, art. 1; 2018, ch. 4, art. 4.
+> 1984, ch. 18, art. 1; 2018, ch. 4, art. 4
 
 
 
@@ -98,7 +98,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***membre du conseil*** Le chef ou un conseiller de la bande. (*council member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***personne morale*** ou ***personnalité morale*** S’entendent au sens de « corporation » dans la Convention du Nord-Est québécois. (***French version only***)
 
@@ -137,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mention des lois du Québec**
 
 - **(4)** Sauf indication contraire de la présente loi, la mention d’une loi du Québec ou de telle de ses dispositions est celle de son état éventuellement modifié.
-> 1984, ch. 18, art. 2; 2009, ch. 12, art. 1; 2018, ch. 4, art. 5 et 122(A).
+> 1984, ch. 18, art. 2; 2009, ch. 12, art. 1; 2018, ch. 4, art. 5 et 122(A)2019, ch. 29, art. 373
 
 
 
@@ -174,7 +174,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
 
 **5** La [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ne s’applique à la bande ou aux terres de catégorie IA-N que pour déterminer lesquels des bénéficiaires naskapis sont des Indiens au sens de cette loi.
-> 1984, ch. 18, art. 5; 2018, ch. 4, art. 6.
+> 1984, ch. 18, art. 5; 2018, ch. 4, art. 6
 
 
 
@@ -189,7 +189,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **6** Les règlements administratifs de la bande pris en application de la présente loi peuvent s’appliquer dans les limites :
 - **a)** des terres de catégorie IA-N attribuées à la bande;
 - **b)** des terres de catégorie III situées dans le périmètre des terres de catégorie IA-N attribuées à la bande et dont la propriété a été cédée par lettres patentes ou par tout autre moyen avant le 31 janvier 1978.
-> 1984, ch. 18, art. 6; 2018, ch. 4, art. 8.
+> 1984, ch. 18, art. 6; 2018, ch. 4, art. 8
 
 
 
@@ -198,7 +198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Licences ou permis**
 
 **7** Les règlements administratifs de la bande pris en application de la présente loi peuvent exiger la détention de licences ou permis, prévoir la délivrance de ces documents et fixer les droits à verser à cet égard.
-> 1984, ch. 18, art. 7; 2018, ch. 4, art. 8.
+> 1984, ch. 18, art. 7; 2018, ch. 4, art. 8
 
 
 
@@ -207,7 +207,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 **8** Les règlements administratifs de la bande pris en application de la présente loi peuvent porter interdiction d’une activité donnée.
-> 1984, ch. 18, art. 8; 2018, ch. 4, art. 8.
+> 1984, ch. 18, art. 8; 2018, ch. 4, art. 8
 
 
 
@@ -216,7 +216,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 **9** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux règlements administratifs ni aux résolutions de la bande pris en application de la présente loi.
-> 1984, ch. 18, art. 9; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 9; 2018, ch. 4, art. 122(A)
 
 
 
@@ -264,7 +264,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** ni des personnes morales ou autres organismes constitués en vertu de la Convention du Nord-Est québécois;
 	- **c)** ni des personnes morales ou autres organismes composés en majorité, en qualité d’actionnaires ou de membres, de bénéficiaires naskapis;
 	- **d)** ni des personnes morales ou autres organismes visés par règlement dans lesquels des bénéficiaires naskapis ont une participation, notamment en qualité d’actionnaires ou de membres.
-> 1984, ch. 18, art. 11; 2018, ch. 4, art. 10.
+> 1984, ch. 18, art. 11; 2018, ch. 4, art. 10
 
 
 
@@ -307,7 +307,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Désignation**
 
 - **(2)** La bande peut être désignée par l’un ou l’autre des noms mentionnés aux alinéas (1)a) à c).
-> 1984, ch. 18, art. 14; 2018, ch. 4, art. 12.
+> 1984, ch. 18, art. 14; 2018, ch. 4, art. 12
 
 
 
@@ -325,8 +325,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prise d’effet du règlement administratif**
 
-- **(2)** Le règlement administratif pris en application du paragraphe (1) et approuvé par le gouverneur en conseil prend effet à la date de sa publication dans la Gazette du Canada ou à la date ultérieure qui y est mentionnée.
-> 1984, ch. 18, art. 16; 2018, ch. 4, art. 13.
+- **(2)** Le règlement administratif pris en application du paragraphe (1) et approuvé par le gouverneur en conseil prend effet à la date de sa publication dans la [Gazette du Canada](http://www.gazette.gc.ca/) ou à la date ultérieure qui y est mentionnée.
+> 1984, ch. 18, art. 16; 2018, ch. 4, art. 13
 
 
 
@@ -351,7 +351,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Appartenance à la bande**
 
 **20** Les membres de la bande sont les bénéficiaires naskapis.
-> 1984, ch. 18, art. 20; 2018, ch. 4, art. 14.
+> 1984, ch. 18, art. 20; 2018, ch. 4, art. 14
 
 
 
@@ -363,7 +363,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** a la qualité de membre de la bande pour l’application de l’alinéa 21f), de l’article 45, du paragraphe 55(1), des alinéas 90(2)a) et b) et des paragraphes 94(3) et (4) et 103(1);
 - **b)** a la qualité d’électeur de la bande pour l’application de l’article 63, du sous-alinéa 66(1)a)(i) et des articles 68 et 75, sans être éligible au poste de chef de celle-ci, si elle est âgée d’au moins dix-huit ans et n’est pas en curatelle sous le régime des lois de la province;
 - **c)** a la qualité d’électeur de la bande pour l’application de l’article 81, si elle est âgée d’au moins dix-huit ans et n’est pas en curatelle sous le régime des lois de la province, sauf lorsque la question qui fait l’objet du vote est mentionnée dans les parties VI, VII, VIII ou IX.
-> 1984, ch. 18, art. 20.1; 2018, ch. 4, art. 15.
+> 1984, ch. 18, art. 20.1; 2018, ch. 4, art. 15
 
 
 
@@ -386,7 +386,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **h)** d’assurer les services, programmes et projets voulus pour ses membres, pour les autres personnes résidant sur les terres de catégorie IA-N ainsi que pour les personnes résidant sur les terres de catégorie III qui sont visées à l’alinéa 6b);
 - **i)** de préserver et de promouvoir la culture, les valeurs et les traditions naskapies;
 - **j)** d’exercer les pouvoirs et fonctions que les lois fédérales ou leurs règlements ainsi que la Convention du Nord-Est québécois lui confèrent ou conféraient à la bande antérieure.
-> 1984, ch. 18, art. 21; 2018, ch. 4, art. 17.
+> 1984, ch. 18, art. 21; 2018, ch. 4, art. 17
 
 
 
@@ -409,7 +409,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Actions**
 
 - **(3)** Par dérogation au paragraphe (2) et indépendamment de la définition de personne morale à l’article 2, la bande peut détenir des actions de personnes morales exerçant des activités commerciales.
-> 1984, ch. 18, art. 22; 2018, ch. 4, art. 18(A), 122(A) et 123.
+> 1984, ch. 18, art. 22; 2018, ch. 4, art. 18(A), 122(A) et 123
 
 
 
@@ -428,7 +428,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres lois**
 
 - **(3)** Le gouverneur en conseil peut, par décret, soustraire la bande à l’application de dispositions, visant expressément les personnes morales, de lois fédérales, autres que celles qui sont mentionnées aux paragraphes (1) ou (2), qui lui seraient par ailleurs applicables.
-> 1984, ch. 18, art. 23; 2009, ch. 23, art. 322 et 352; 2018, ch. 4, art. 19, 122(A) et 134.
+> 1984, ch. 18, art. 23; 2009, ch. 23, art. 322 et 352; 2018, ch. 4, art. 19, 122(A) et 134
 
 
 
@@ -441,7 +441,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Siège de la bande**
 
 **24** La bande fixe son siège dans le périmètre des terres de catégorie IA-N qui lui sont attribuées.
-> 1984, ch. 18, art. 24; 2018, ch. 4, art. 20.
+> 1984, ch. 18, art. 24; 2018, ch. 4, art. 20
 
 
 
@@ -454,7 +454,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conseil**
 
 **25** Le conseil de la bande est un groupe permanent dont les membres occupent leur poste conformément à la partie II.
-> 1984, ch. 18, art. 25; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 25; 2018, ch. 4, art. 122(A)
 
 
 
@@ -463,7 +463,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rôle**
 
 **26** La bande exerce ses pouvoirs et fonctions par l’intermédiaire du conseil.
-> 1984, ch. 18, art. 26; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 26; 2018, ch. 4, art. 122(A)
 
 
 
@@ -472,7 +472,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Résolutions et règlements administratifs**
 
 **27** Le conseil prend ses décisions par résolution, sauf cas où il lui est imposé de le faire par règlement administratif.
-> 1984, ch. 18, art. 27; 2018, ch. 4, art. 21(A).
+> 1984, ch. 18, art. 27; 2018, ch. 4, art. 21(A)
 
 
 
@@ -481,7 +481,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Chef**
 
 **28** Le chef est le principal représentant et premier dirigeant de la bande; il exerce les fonctions qui lui sont attribuées soit par règlement, soit par règlement administratif.
-> 1984, ch. 18, art. 28; 2018, ch. 4, art. 21(A).
+> 1984, ch. 18, art. 28; 2018, ch. 4, art. 21(A)
 
 
 
@@ -496,7 +496,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Attributions du chef adjoint**
 
 - **(2)** Le chef adjoint exerce les fonctions qui lui sont attribuées soit par règlement, soit par règlement administratif; en cas d’absence ou d’empêchement du chef ou de vacance de son poste, il assure son intérim, avec plein exercice de ses pouvoirs et fonctions.
-> 1984, ch. 18, art. 29; 2018, ch. 4, art. 22(A).
+> 1984, ch. 18, art. 29; 2018, ch. 4, art. 22(A)
 
 
 
@@ -516,7 +516,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Usage de la langue naskapie**
 
 **31** Outre ses autres droits relatifs à l’usage de la langue naskapie, la bande peut tenir les assemblées du conseil en naskapi.
-> 1984, ch. 18, art. 31; 2018, ch. 4, art. 23.
+> 1984, ch. 18, art. 31; 2018, ch. 4, art. 23
 
 
 
@@ -531,7 +531,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Version adoptée en plusieurs langues**
 
 - **(2)** Dans les cas où les règlements administratifs ou les résolutions sont adoptés en plus d’une langue, les différentes versions font également foi.
-> 1984, ch. 18, art. 32; 2018, ch. 4, art. 23.
+> 1984, ch. 18, art. 32; 2018, ch. 4, art. 23
 
 
 
@@ -554,7 +554,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Tenue d’élections générales**
 
 - **(4)** En cas de tenue d’élections générales, le conseil sortant reste en place jusqu’à la date des élections, indépendamment de la durée du mandat de ses membres aux termes des articles 64 ou 65 et de l’obligation prévue au paragraphe 76(1).
-> 1984, ch. 18, art. 33; 2018, ch. 4, art. 24(A).
+> 1984, ch. 18, art. 33; 2018, ch. 4, art. 24(A)
 
 
 
@@ -586,7 +586,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cas de partage**
 
 - **(3)** En cas de partage, le président a voix prépondérante, sauf s’il n’a pu voter pour le motif prévu à l’article 38.
-> 1984, ch. 18, art. 35; 2018, ch. 4, art. 25(A).
+> 1984, ch. 18, art. 35; 2018, ch. 4, art. 25(A)
 
 
 
@@ -609,7 +609,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Discipline**
 
 - **(3)** Le président peut faire expulser de l’assemblée toute personne qu’il juge coupable de conduite inconvenante en cours de séance.
-> 1984, ch. 18, art. 37; 2018, ch. 4, art. 27(A).
+> 1984, ch. 18, art. 37; 2018, ch. 4, art. 27(A)
 
 
 
@@ -644,7 +644,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(6)** Commet une infraction tout membre du conseil qui contrevient aux paragraphes (1) ou (3).
 
 - **(7)** [Abrogé, 2018, ch. 4, art. 28]
-> 1984, ch. 18, art. 38; 2018, ch. 4, art. 28.
+> 1984, ch. 18, art. 38; 2018, ch. 4, art. 28
 
 
 
@@ -653,7 +653,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements administratifs concernant les assemblées du conseil**
 
 **39** La bande peut, par règlement administratif, régir la procédure applicable aux assemblées du conseil, notamment en ce qui concerne les avis de tenue des séances, les ordres du jour, la conduite des séances et les modalités de vote.
-> 1984, ch. 18, art. 39; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 39; 2018, ch. 4, art. 122(A)
 
 
 
@@ -678,7 +678,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs des comités**
 
 - **(3)** Les comités ne peuvent exercer que des fonctions consultatives ou administratives; ils sont responsables devant le conseil de l’accomplissement de ces fonctions.
-> 1984, ch. 18, art. 40; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 40; 2018, ch. 4, art. 122(A)
 
 
 
@@ -704,7 +704,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contrats de travail**
 
 - **(3)** La bande peut signer des contrats de travail avec ses cadres et employés.
-> 1984, ch. 18, art. 41; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 41; 2018, ch. 4, art. 122(A)
 
 
 
@@ -732,7 +732,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fonctions du trésorier**
 
 **43** Le trésorier est le directeur financier de la bande; à ce titre, il est chargé de son administration financière, et notamment de la recette et du dépôt de ses deniers.
-> 1984, ch. 18, art. 43; 2018, ch. 4, art. 29(A).
+> 1984, ch. 18, art. 43; 2018, ch. 4, art. 29(A)
 
 
 
@@ -747,7 +747,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inobservation**
 
 - **(2)** Quiconque contrevient au paragraphe (1) commet une infraction.
-> 1984, ch. 18, art. 44; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 44; 2018, ch. 4, art. 122(A)
 
 
 
@@ -822,7 +822,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Forme du paiement**
 
 - **(6)** La bande peut accepter que les impôts et les droits d’usage respectivement prévus aux alinéas (1)h) et i) soient acquittés sous forme non pécuniaire.
-> 1984, ch. 18, art. 45; 2018, ch. 4, art. 30, 122(A) et 123.
+> 1984, ch. 18, art. 45; 2018, ch. 4, art. 30, 122(A) et 123
 
 
 
@@ -840,7 +840,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation de plans par les électeurs**
 
 - **(2)** Les règlements administratifs et les résolutions pris avant ou après l’adoption des plans visés au paragraphe (1) et l’approbation de ceux-ci par vote en assemblée extraordinaire ou par référendum, avec un taux de participation au vote d’au moins vingt-cinq pour cent, ne s’appliquent que dans la mesure de leur compatibilité avec ces plans.
-> 1984, ch. 18, art. 46; 2018, ch. 4, art. 31.
+> 1984, ch. 18, art. 46; 2018, ch. 4, art. 31
 
 
 
@@ -857,7 +857,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation**
 
 - **(2)** Les règlements administratifs de zonage, à l’exception de ceux visés à l’alinéa (1)b), sont assujettis à approbation en assemblée extraordinaire ou par référendum avec un taux de participation au vote d’au moins quinze pour cent.
-> 1984, ch. 18, art. 47; 2018, ch. 4, art. 122(A) et 123.
+> 1984, ch. 18, art. 47; 2018, ch. 4, art. 122(A) et 123
 
 
 
@@ -890,7 +890,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Désaveu par le ministre**
 
 - **(5)** Les règlements administratifs visés à l’alinéa (1)b) entrent en vigueur à la date de réception par le ministre d’une copie de leur texte certifiée conforme par le secrétaire de la bande; le ministre peut toutefois les désavouer dans les quatre-vingt-dix jours suivant la réception.
-> 1984, ch. 18, art. 48; 2018, ch. 4, art. 32 et 122(A).
+> 1984, ch. 18, art. 48; 2018, ch. 4, art. 32 et 122(A)
 
 
 
@@ -905,7 +905,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accord avec le gouvernement du Québec**
 
 - **(2)** La prise de règlements administratifs en vertu du paragraphe (1) est subordonnée à la conclusion d’un accord entre la bande et le gouvernement du Québec.
-> 2018, ch. 4, art. 33.
+> 2018, ch. 4, art. 33
 
 
 
@@ -943,7 +943,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inobservation**
 
 - **(4)** L’inobservation des dispositions du présent article n’invalide pas un règlement administratif ni une résolution.
-> 1984, ch. 18, art. 50; 2018, ch. 4, art. 34 et 122(A).
+> 1984, ch. 18, art. 50; 2018, ch. 4, art. 34 et 122(A)
 
 
 
@@ -958,7 +958,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(2)** La résolution qui doit être approuvée par vote en assemblée extraordinaire ou par référendum entre en vigueur à la date de l’approbation ou à la date ultérieure qui y est précisée.
-> 1984, ch. 18, art. 51; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 51; 2018, ch. 4, art. 122(A)
 
 
 
@@ -973,7 +973,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entrée en vigueur**
 
 - **(2)** Le règlement entre en vigueur dès l’affichage, indépendamment de l’observation du délai d’une semaine, ou à la date ultérieure qui y est précisée.
-> 1984, ch. 18, art. 52; 2018, ch. 4, art. 35 et 122(A).
+> 1984, ch. 18, art. 52; 2018, ch. 4, art. 35 et 122(A)
 
 
 
@@ -1003,7 +1003,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copie des règlements administratifs et des résolutions**
 
 **54** Toute personne peut obtenir copie des règlements administratifs et des résolutions de la bande, contre versement de droits fixés dans des limites raisonnables par celle-ci.
-> 1984, ch. 18, art. 54; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 54; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1022,7 +1022,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-compétence de la Cour fédérale**
 
 - **(2)** Par dérogation à sa loi constitutive, la Cour fédérale n’a pas compétence pour connaître des demandes visées au paragraphe (1).
-> 1984, ch. 18, art. 55; 2002, ch. 8, art. 133(A); 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 55; 2002, ch. 8, art. 133(A); 2018, ch. 4, art. 122(A)
 
 
 
@@ -1075,7 +1075,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conseil naskapi en exercice**
 
 **61** Sous réserve de l’article 62, le conseil de la bande antérieure des Naskapis de Schefferville en exercice jusqu’à la date d’entrée en vigueur de la présente partie devient, à compter de cette date, le conseil de la bande. Il reste en exercice à ce titre jusqu’à la fin du mandat qui lui a été conféré sous le régime de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ou, au plus tard, pendant un délai de deux ans suivant la date visée ci-dessus.
-> 1984, ch. 18, art. 61; 2018, ch. 4, art. 36.
+> 1984, ch. 18, art. 61; 2018, ch. 4, art. 36
 
 
 
@@ -1084,7 +1084,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Assujettissement à la présente loi**
 
 **62** Pendant la période visée à l’article 61, le conseil de la bande est, pour ses pouvoirs et fonctions et pour l’application, compte tenu des adaptations de circonstance, de la présente loi et de ses règlements, assimilé au conseil élu sous le régime de cette loi.
-> 1984, ch. 18, art. 62; 2018, ch. 4, art. 36.
+> 1984, ch. 18, art. 62; 2018, ch. 4, art. 36
 
 
 
@@ -1152,7 +1152,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** L’électeur qui est nommé directeur du scrutin, scrutateur ou scrutateur adjoint en vertu de l’article 71 perd son droit de vote au scrutin auquel il est affecté.
-> 1984, ch. 18, art. 63; 2018, ch. 4, art. 37.
+> 1984, ch. 18, art. 63; 2018, ch. 4, art. 37
 
 
 
@@ -1165,7 +1165,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règle générale**
 
 **64** Sous réserve de l’article 65 et du paragraphe 66(1), la bande peut, par règlement administratif, régir l’élection et fixer le mandat des membres du conseil.
-> 1984, ch. 18, art. 64; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 64; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1242,7 +1242,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** n’est ni juge assujetti à la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md) ni procureur de la Couronne;
 - **e)** à la date du scrutin, ne purge pas une peine d’emprisonnement pour un acte criminel;
 - **f)** ne réside pas dans la réserve Matimekosh.
-> 1984, ch. 18, art. 68; 2018, ch. 4, art. 38.
+> 1984, ch. 18, art. 68; 2018, ch. 4, art. 38
 
 
 
@@ -1262,7 +1262,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** le mandat du titulaire prend fin en conformité avec la présente loi, avec un règlement administratif pris en application de l’article 64 ou des règlements pris en application de l’alinéa 67(1)a);
 - **d)** le titulaire réside dans la réserve Matimekosh;
 - **e)** le poste est déclaré vacant en application de l’article 70.
-> 1984, ch. 18, art. 69; 2018, ch. 4, art. 39.
+> 1984, ch. 18, art. 69; 2018, ch. 4, art. 39
 
 
 
@@ -1302,7 +1302,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Absence ou empêchement du directeur du scrutin et du scrutateur**
 
 - **(4)** En cas d’absence ou d’empêchement du directeur du scrutin et du scrutateur ou de vacance de ces deux postes, le secrétaire exerce la plénitude des pouvoirs et fonctions du directeur du scrutin.
-> 1984, ch. 18, art. 71; 2018, ch. 4, art. 40(A).
+> 1984, ch. 18, art. 71; 2018, ch. 4, art. 40(A)
 
 
 
@@ -1324,7 +1324,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** est déclaré coupable d’une infraction aux règlements pris en application de l’alinéa 67(1)b);
 - **b)** commence à purger une peine d’emprisonnement pour un acte criminel;
 - **c)** est en curatelle sous le régime des lois de la province.
-> 1984, ch. 18, art. 73; 2018, ch. 4, art. 41.
+> 1984, ch. 18, art. 73; 2018, ch. 4, art. 41
 
 
 
@@ -1343,7 +1343,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir de la bande de tenir des élections générales**
 
 - **(2)** La bande peut tenir des élections générales à tout moment.
-> 1984, ch. 18, art. 74; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 74; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1365,7 +1365,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** au moins cinquante pour cent des électeurs exercent leur droit de vote;
 	- **b)** la majorité des votants se prononce en faveur de la tenue d’élections générales;
 	- **c)** cette majorité est constituée par au moins un tiers des électeurs.
-> 1984, ch. 18, art. 75; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 75; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1400,7 +1400,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Durée du mandat**
 
 - **(7)** Les membres du conseil nommés conformément au paragraphe (5) occupent leur poste jusqu’à l’expiration du mandat à l’égard duquel il y a eu vacance.
-> 1984, ch. 18, art. 76; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 76; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1415,7 +1415,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(2)** Le directeur du scrutin tient les élections ou l’assemblée extraordinaire prévues au paragraphe 76(4) si la bande ne s’acquitte pas de son obligation dans un délai de dix jours à compter du moment où celle-ci a pris naissance.
-> 1984, ch. 18, art. 77; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 77; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1465,7 +1465,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien en poste**
 
 - **(9)** Le membre du conseil dont l’élection est contestée peut rester en poste jusqu’à la date de l’invalidation.
-> 1984, ch. 18, art. 78; 2018, ch. 4, art. 42(A).
+> 1984, ch. 18, art. 78; 2018, ch. 4, art. 42(A)
 
 
 
@@ -1486,7 +1486,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Usage de la langue naskapie**
 
 **80** Outre ses autres droits relatifs à l’usage de la langue naskapie, la bande peut tenir ses assemblées ordinaires ou extraordinaires ainsi que ses référendums en naskapi.
-> 1984, ch. 18, art. 80; 2018, ch. 4, art. 43.
+> 1984, ch. 18, art. 80; 2018, ch. 4, art. 43
 
 
 
@@ -1495,7 +1495,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit de suffrage**
 
 **81** Chaque électeur a droit de suffrage sur toute question mise aux voix en assemblée ordinaire ou extraordinaire ou par référendum.
-> 1984, ch. 18, art. 81; 2018, ch. 4, art. 44(A).
+> 1984, ch. 18, art. 81; 2018, ch. 4, art. 44(A)
 
 
 
@@ -1514,7 +1514,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements administratifs**
 
 - **(2)** La bande peut, par règlement administratif, régir ses assemblées ordinaires, notamment en ce qui concerne leur convocation, leur déroulement, leur quorum, ainsi que les votes, leur inscription et la tenue des registres correspondants.
-> 1984, ch. 18, art. 82; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 82; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1535,7 +1535,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Abstentions**
 
 - **(2)** Lors d’un vote en assemblée extraordinaire ou par référendum, le fait de ne se prononcer ni dans un sens ni dans un autre ou l’altération d’un bulletin de vote équivaut à une abstention.
-> 1984, ch. 18, art. 83; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 83; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1544,7 +1544,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis d’assemblée extraordinaire ou de référendum**
 
 **84** Au moins dix jours avant la date fixée pour une assemblée extraordinaire ou un référendum, la bande fait afficher en un lieu public de la localité un avis en indiquant la date, l’heure et le lieu et donnant une brève présentation des questions dont il faudra décider.
-> 1984, ch. 18, art. 84; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 84; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1588,7 +1588,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transmission au ministre**
 
 - **(4)** La bande transmet au ministre le texte des règlements administratifs qu’elle prend en application du présent article dans les trente jours suivant leur adoption.
-> 1984, ch. 18, art. 86; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 86; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1638,7 +1638,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(4)** L’intervalle entre cette clôture et cette ouverture constitue, pour l’application de la présente partie, un exercice distinct.
-> 1984, ch. 18, art. 89; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 89; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1678,7 +1678,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité avec le budget**
 
 - **(7)** Il doit être fait état, dans les règlements administratifs ou résolutions visés au paragraphe (5), des cas d’incompatibilité avec le budget ou un budget supplémentaire. Toutefois, l’inobservation du présent paragraphe n’invalide pas ces règlements ou résolutions.
-> 1984, ch. 18, art. 90; 2009, ch. 12, art. 10; 2018, ch. 4, art. 46 et 122(A).
+> 1984, ch. 18, art. 90; 2009, ch. 12, art. 10; 2018, ch. 4, art. 46 et 122(A)
 
 
 
@@ -1707,7 +1707,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** le détenteur ou le responsable de ces documents qui ne prête pas toute l’assistance possible à cette personne.
 
 - **(2.1)** [Abrogé, 2018, ch. 4, art. 47]
-> 1984, ch. 18, art. 91; 2009, ch. 12, art. 11; 2018, ch. 4, art. 47 et 122(A).
+> 1984, ch. 18, art. 91; 2009, ch. 12, art. 11; 2018, ch. 4, art. 47 et 122(A)
 
 
 
@@ -1719,7 +1719,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** le bilan;
 - **b)** l’état des revenus et des dépenses par rapport aux montants correspondants du budget et des éventuels budgets supplémentaires;
 - **c)** les autres renseignements nécessaires à une présentation sincère de sa situation financière.
-> 1984, ch. 18, art. 92; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 92; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1760,7 +1760,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de la bande**
 
 - **(6)** Dans tous les cas, la bande paie la rémunération du vérificateur.
-> 1984, ch. 18, art. 93; 2009, ch. 12, art. 12; 2018, ch. 4, art. 48 et 122(A).
+> 1984, ch. 18, art. 93; 2009, ch. 12, art. 12; 2018, ch. 4, art. 48 et 122(A)
 
 
 
@@ -1783,7 +1783,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(4)** Elle en tient un exemplaire, à son siège, à leur disposition, pour consultation à toute heure raisonnable.
-> 1984, ch. 18, art. 94; 2009, ch. 12, art. 13; 2018, ch. 4, art. 49 et 122(A).
+> 1984, ch. 18, art. 94; 2009, ch. 12, art. 13; 2018, ch. 4, art. 49 et 122(A)
 
 
 
@@ -1820,7 +1820,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Remboursement**
 
 - **(3)** Les ressources visées au sous-alinéa (2)a)(iii) doivent effectivement servir au remboursement des emprunts pour lesquels elles ont été déterminées.
-> 1984, ch. 18, art. 96; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 96; 2018, ch. 4, art. 122(A)
 
 
 
@@ -1841,7 +1841,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(3)** La bande ne peut contracter d’emprunts à long terme avant l’entrée en vigueur des règlements pris en application de l’article 98.
-> 1984, ch. 18, art. 97; 2018, ch. 4, art. 50 et 122(A).
+> 1984, ch. 18, art. 97; 2018, ch. 4, art. 50 et 122(A)
 
 
 
@@ -1850,7 +1850,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements sur les emprunts à long terme**
 
 **98** Le gouverneur en conseil peut, par règlement, régir les emprunts à long terme de la bande.
-> 1984, ch. 18, art. 98; 2018, ch. 4, art. 51.
+> 1984, ch. 18, art. 98; 2018, ch. 4, art. 51
 
 
 
@@ -1863,7 +1863,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements administratifs**
 
 **99** La bande peut, par règlement administratif, régir les modalités des appels d’offres et celles des attributions de marchés, en tenant compte, en ce qui concerne ce genre de contrats, des critères préférentiels et des avantages d’emploi prévus au profit des bénéficiaires naskapis dans la Convention du Nord-Est québécois ou en application de celle-ci.
-> 1984, ch. 18, art. 99; 2018, ch. 4, art. 52.
+> 1984, ch. 18, art. 99; 2018, ch. 4, art. 52
 
 
 
@@ -1902,7 +1902,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(7)** Le mandat de l’administrateur est renouvelable, et le ministre peut attribuer de nouveaux mandats.
-> 1984, ch. 18, art. 100; 2009, ch. 12, art. 14; 2018, ch. 4, art. 53 et 122(A).
+> 1984, ch. 18, art. 100; 2009, ch. 12, art. 14; 2018, ch. 4, art. 53 et 122(A)
 
 
 
@@ -1916,7 +1916,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction générale relative à la résidence**
 
 **101** Nul ne peut pénétrer, résider ou demeurer sur une terre de catégorie IA-N si ce n’est en conformité avec un droit de résidence et d’accès prévu à la présente partie.
-> 1984, ch. 18, art. 101; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 101; 2018, ch. 4, art. 123
 
 
 
@@ -1931,7 +1931,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements administratifs : droits de résidence et d’accès**
 
 - **(2)** La bande peut, par règlement administratif, régir l’exercice des droits de résidence ou d’accès visés aux articles 103 à 106 sur les terres de catégorie IA-N qui lui sont attribuées, mais, sous réserve des autorisations de résidence ou d’accès prévues respectivement aux alinéas 103(2)a) et 105(5)e), elle ne peut, malgré l’article 8, ainsi les restreindre abusivement ni, sauf cas prévu au paragraphe 103(3), les refuser effectivement.
-> 1984, ch. 18, art. 102; 2018, ch. 4, art. 55.
+> 1984, ch. 18, art. 102; 2018, ch. 4, art. 55
 
 
 
@@ -1961,7 +1961,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitation du nombre d’étrangers**
 
 - **(3)** La bande peut interdire aux personnes visées à l’alinéa (2)d) de résider sur les terres de catégorie IA-N qui lui sont attribuées dans le cas où leur nombre risquerait de modifier notablement la composition démographique de la communauté.
-> 1984, ch. 18, art. 103; 2018, ch. 4, art. 56.
+> 1984, ch. 18, art. 103; 2018, ch. 4, art. 56
 
 
 
@@ -1970,7 +1970,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien des droits acquis**
 
 **104** Les personnes qui ne sont pas des bénéficiaires naskapis et qui exerçaient, jusqu’au 31 janvier 1978, puis jusqu’à la date d’entrée en vigueur de la présente partie, des droits de résidence ou d’occupation sur des terres constituées, par la Convention du Nord-Est québécois, en terres de catégorie IA-N peuvent continuer à exercer ces droits jusqu’à l’extinction de ceux-ci.
-> 1984, ch. 18, art. 104; 2009, ch. 12, art. 15; 2018, ch. 4, art. 57.
+> 1984, ch. 18, art. 104; 2009, ch. 12, art. 15; 2018, ch. 4, art. 57
 
 
 
@@ -1999,7 +1999,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** les titulaires d’une autorisation d’exploitation forestière commerciale visée au paragraphe 111(2);
 	- **d)** les titulaires de droits relatifs aux minéraux ou d’autres droits tréfonciers visés à l’article 115 ou les personnes exerçant les droits prévus au paragraphe 113(3);
 	- **e)** les personnes à qui la bande a donné, soit simplement par écrit, soit par règlement administratif, une autorisation à cet effet.
-> 1984, ch. 18, art. 105; 2009, ch. 12, art. 16; 2018, ch. 4, art. 58.
+> 1984, ch. 18, art. 105; 2009, ch. 12, art. 16; 2018, ch. 4, art. 58
 
 
 
@@ -2008,7 +2008,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Installations publiques**
 
 **106** Le public a accès aux installations publiques mentionnées à l’article 191.45 de la Loi sur le régime des terres dans les territoires de la Baie James et du Nouveau-Québec (Québec), dans le cas où tout ou partie de ces installations se trouve sur des terres de catégorie IA-N.
-> 1984, ch. 18, art. 106; 2018, ch. 4, art. 59.
+> 1984, ch. 18, art. 106; 2018, ch. 4, art. 59
 
 
 
@@ -2017,7 +2017,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réserve Matimekosh**
 
 **107** Malgré la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), les bénéficiaires naskapis qui résidaient dans la réserve Matimekosh à l’entrée en vigueur du présent article ont le droit de continuer d’y résider, d’y avoir accès et de s’y déplacer, sous réserve de l’article 20.25A de la Convention du Nord-Est québécois.
-> 1984, ch. 18, art. 107; 2018, ch. 4, art. 59.
+> 1984, ch. 18, art. 107; 2018, ch. 4, art. 59
 
 
 
@@ -2034,7 +2034,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien des recours existants**
 
 - **(2)** Le paragraphe (1) n’a pas pour effet de porter atteinte aux droits et recours qui, en l’absence de ce paragraphe, seraient accessibles en cas de violation de l’article 101.
-> 1984, ch. 18, art. 108; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 108; 2018, ch. 4, art. 123
 
 
 
@@ -2054,7 +2054,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits de la bande sur ses terres et ressources**
 
 - **(2)** Sous réserve des autres dispositions de la présente loi, la bande a l’usage et le bénéfice exclusifs des terres de catégorie IA-N qui lui sont attribuées et des ressources naturelles qui s’y trouvent; à ce titre, elle dispose sur ces terres et ressources des droits d’administration, de régie, de contrôle, d’usage et de jouissance d’un propriétaire et peut les exercer à toutes fins utiles, notamment communautaires, commerciales, industrielles ou résidentielles.
-> 1984, ch. 18, art. 109; 2018, ch. 4, art. 60.
+> 1984, ch. 18, art. 109; 2018, ch. 4, art. 60
 
 
 
@@ -2067,7 +2067,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Propriété des dépôts de stéatite**
 
 **110** La bande a, sur les terres de catégorie IA-N qui lui sont attribuées, la propriété de tous les dépôts de stéatite et des autres matériaux analogues qui sont utilisés dans les travaux d’art et d’artisanat traditionnels des Naskapis.
-> 1984, ch. 18, art. 110; 2018, ch. 4, art. 61.
+> 1984, ch. 18, art. 110; 2018, ch. 4, art. 61
 
 
 
@@ -2090,7 +2090,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit des membres**
 
 - **(3)** Sous réserve des règlements administratifs pris en application de l’article 45 limitant ou interdisant l’usage des ressources forestières, les membres de la bande peuvent faire usage, à des fins personnelles ou communautaires, des ressources forestières des terres de catégorie IA-N qui sont attribuées à la bande.
-> 1984, ch. 18, art. 111; 2018, ch. 4, art. 62.
+> 1984, ch. 18, art. 111; 2018, ch. 4, art. 62
 
 
 
@@ -2103,7 +2103,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Gravier**
 
 **112** Si elle est titulaire d’un permis délivré conformément à l’article 191.38 de la Loi sur le régime des terres dans les territoires de la Baie James et du Nouveau-Québec (Québec), la bande peut, dans les conditions précisées par le permis, faire usage, à des fins personnelles ou communautaires, du gravier ainsi que des autres matériaux analogues employés généralement dans les travaux de terrassement.
-> 1984, ch. 18, art. 112; 2018, ch. 4, art. 63.
+> 1984, ch. 18, art. 112; 2018, ch. 4, art. 63
 
 
 
@@ -2135,7 +2135,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le consentement visé au paragraphe (2);
 	- **b)** l’octroi du droit ou de l’intérêt visé par ce consentement;
 	- **c)** la nature et le montant de l’indemnisation visée au paragraphe (2).
-> 1984, ch. 18, art. 113; 2009, ch. 12, art. 17; 2018, ch. 4, art. 64 et 122(A).
+> 1984, ch. 18, art. 113; 2009, ch. 12, art. 17; 2018, ch. 4, art. 64 et 122(A)
 
 
 
@@ -2148,7 +2148,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits acquis**
 
 **115** Le titulaire d’un droit ou d’un titre, notamment d’un claim, d’un permis de mise en valeur, d’un permis d’exploration, d’une concession minière ou d’un bail minier octroyé avant le 31 janvier 1978, relatif à des minéraux (au sens donné à « minéraux » par la Loi des mines (Québec), dans sa version à cette date) et portant sur un périmètre enclavé dans des terres, ou contigu à des terres, ultérieurement constituées en terres de catégorie IA-N aux termes de la Convention du Nord-Est québécois, peut, sous réserve des paragraphes 116(3) et (4), faire usage de ces terres dans la mesure nécessaire à l’exercice de son droit ou titre.
-> 1984, ch. 18, art. 115; 2009, ch. 12, art. 19; 2018, ch. 4, art. 65.
+> 1984, ch. 18, art. 115; 2009, ch. 12, art. 19; 2018, ch. 4, art. 65
 
 
 
@@ -2175,7 +2175,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnités foncières**
 
 - **(5)** Les articles 125 et 126 s’appliquent, compte tenu des adaptations de circonstance, aux indemnités foncières visées à l’alinéa (4)a).
-> 1984, ch. 18, art. 116; 2009, ch. 12, art. 20; 2018, ch. 4, art. 66.
+> 1984, ch. 18, art. 116; 2009, ch. 12, art. 20; 2018, ch. 4, art. 66
 
 
 
@@ -2207,7 +2207,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restrictions applicables**
 
 - **(7)** Les paragraphes 132(2) et (4) et l’article 137 s’appliquent, compte tenu des adaptations nécessaires, à l’octroi par la bande de droits ou d’intérêts sur des terres en application des paragraphes (4) ou (6).
-> 1984, ch. 18, art. 117; 2009, ch. 12, art. 21; 2018, ch. 4, art. 68.
+> 1984, ch. 18, art. 117; 2009, ch. 12, art. 21; 2018, ch. 4, art. 68
 
 
 
@@ -2236,7 +2236,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md) (Québec)**
 
 - **(2)** La [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md) du Québec régit, sauf incompatibilité avec la présente loi, les expropriations effectuées en application de la présente partie.
-> 1984, ch. 18, art. 119; 2018, ch. 4, art. 69.
+> 1984, ch. 18, art. 119; 2018, ch. 4, art. 69
 
 
 
@@ -2261,7 +2261,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(ii)** [Abrogé, 2018, ch. 4, art. 70]
 		- **(iii)** soit sur des terres de catégorie II-N, dans le cas de l’expropriation de terres de catégorie IA-N ou de l’établissement d’une servitude sur ces terres;
 	- **b)** il est prévu d’implanter l’ouvrage le plus loin possible du centre des zones résidentielles situées sur des terres de catégorie IA-N.
-> 1984, ch. 18, art. 120; 2018, ch. 4, art. 70.
+> 1984, ch. 18, art. 120; 2018, ch. 4, art. 70
 
 
 
@@ -2280,7 +2280,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(3)** L’autorité ne peut qu’exproprier des terres en pleine propriété dans les cas où l’établissement d’une servitude pour l’une des fins visées au paragraphe 120(1) priverait en fait la bande ou ses membres de leur droit d’usage ou de jouissance sur ces terres.
-> 1984, ch. 18, art. 121; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 121; 2018, ch. 4, art. 123
 
 
 
@@ -2307,7 +2307,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnité pécuniaire**
 
 - **(5)** Par dérogation aux paragraphes (2) et (4), l’autorité peut ne verser à la bande qu’une indemnité pécuniaire dans les circonstances visées au troisième alinéa de l’article 191.22 de la Loi sur le régime des terres dans les territoires de la Baie James et du Nouveau-Québec (Québec).
-> 1984, ch. 18, art. 122; 2018, ch. 4, art. 71 et 122(A).
+> 1984, ch. 18, art. 122; 2018, ch. 4, art. 71 et 122(A)
 
 
 
@@ -2316,7 +2316,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-indemnisation**
 
 **123** La bande n’a droit à aucune indemnité dans les cas où l’expropriation a pour objet l’une des fins visées aux alinéas 120(1)a), b), c) ou e) et que la réalisation de cette fin présente un avantage direct pour les membres de la bande en tant que communauté ou pour une partie considérable des terres de catégorie IA-N qui lui ont été attribuées.
-> 1984, ch. 18, art. 123; 2018, ch. 4, art. 72.
+> 1984, ch. 18, art. 123; 2018, ch. 4, art. 72
 
 
 
@@ -2351,7 +2351,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Éléments d’appréciation**
 
 - **(6)** Pour déterminer l’appartenance de la fin visée à l’une des catégories mentionnées aux alinéas (1)b) à d) ou pour apprécier le caractère d’avantage direct dans un cas d’espèce non prévu au paragraphe (1), il doit être tenu compte de l’usage que peuvent tirer les membres de la bande, en tant que communauté, de la réalisation de la fin en cause, des avantages qu’elle peut leur procurer et qu’elle peut donner aux terres de catégorie IA-N qui sont attribuées à la bande.
-> 1984, ch. 18, art. 124; 2018, ch. 4, art. 73 et 122(A).
+> 1984, ch. 18, art. 124; 2018, ch. 4, art. 73 et 122(A)
 
 
 
@@ -2372,7 +2372,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** faute d’accord sur l’indemnité foncière entre le Québec et la bande dans les cent vingt jours suivant, selon le cas, la signification de l’avis ou le jugement définitif, l’indemnité foncière est remplacée par une indemnité pécuniaire, dont le montant doit être approuvé en assemblée extraordinaire ou par référendum, avec un taux de participation au vote d’au moins vingt-cinq pour cent. En cas de désaccord des parties sur le montant, c’est l’article 127 qui s’applique.
 
 - **(2)** [Abrogé, 2018, ch. 4, art. 74]
-> 1984, ch. 18, art. 125; 2018, ch. 4, art. 74.
+> 1984, ch. 18, art. 125; 2018, ch. 4, art. 74
 
 
 
@@ -2381,7 +2381,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Reclassement des terres**
 
 **126** Le Canada et le Québec prennent sans délai les mesures nécessaires pour reclasser en terres de catégorie IA-N les terres expropriées dont l’autorité n’a plus besoin pour l’objet de l’expropriation, que la bande ait ou non reçu à cette occasion une indemnité foncière, selon qu’il s’agissait soit des cas prévus à l’alinéa 116(4)a) ou aux paragraphes 122(2) ou (4), soit des cas prévus à l’article 123. Ce reclassement est subordonné à une demande présentée à cet effet par la bande sur résolution approuvée en assemblée extraordinaire ou par référendum, avec un taux de participation au vote d’au moins vingt-cinq pour cent. Le cas échéant, les terres accordées à titre d’indemnité sont reclassées dans leur précédente catégorie.
-> 1984, ch. 18, art. 126; 2018, ch. 4, art. 75.
+> 1984, ch. 18, art. 126; 2018, ch. 4, art. 75
 
 
 
@@ -2390,7 +2390,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvoi du litige pécuniaire**
 
 **127** En cas de désaccord sur l’indemnité pécuniaire prévue aux paragraphes 122(3) ou (4) ou à l’alinéa 125(1)e), le montant est fixé par le Tribunal administratif du Québec conformément à la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md) (Québec), sauf si les parties conviennent d’un arbitrage définitif.
-> 1984, ch. 18, art. 127; 2018, ch. 4, art. 75.
+> 1984, ch. 18, art. 127; 2018, ch. 4, art. 75
 
 
 
@@ -2419,7 +2419,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** la date où est conclu l’accord sur l’indemnité pécuniaire,
 	- **(iii)** la date où, en cas de désaccord sur l’indemnité foncière, l’accord sur l’indemnité pécuniaire est conclu conformément à l’alinéa 125(1)e),
 	- **(iv)** la date du jugement définitif sur l’indemnité pécuniaire, s’il n’y a pas d’accord sur celle-ci.
-> 1984, ch. 18, art. 129; 2018, ch. 4, art. 76 et 123.
+> 1984, ch. 18, art. 129; 2018, ch. 4, art. 76 et 123
 
 
 
@@ -2447,7 +2447,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Codes civils***
 
 - **(3)** Sauf incompatibilité avec la présente loi ou les dispositions de l’acte de concession, il faut s’en rapporter au Code civil du Québec et au Code civil du Bas-Canada en ce qui a trait à la nature et à l’étendue des droits ou intérêts mentionnés au paragraphe 132(1).
-> 1984, ch. 18, art. 130; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 130; 2018, ch. 4, art. 123
 
 
 
@@ -2456,7 +2456,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Loi sur les propriétaires et locataires (Québec)**
 
 **131** Sauf disposition contraire du bail, les lois provinciales relatives aux droits et obligations des propriétaires et locataires ne s’appliquent pas au bail de résidence d’un bâtiment situé sur des terres de catégorie IA-N.
-> 1984, ch. 18, art. 131; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 131; 2018, ch. 4, art. 123
 
 
 
@@ -2483,7 +2483,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Période de reconduction**
 
 - **(4)** Les durées à prendre en compte pour l’application des paragraphes (2) et (3) comprennent toute période de reconduction prévue dans le titre accordant les concessions correspondantes.
-> 1984, ch. 18, art. 132; 2018, ch. 4, art. 122(A) et 123.
+> 1984, ch. 18, art. 132; 2018, ch. 4, art. 122(A) et 123
 
 
 
@@ -2532,7 +2532,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** L’autorisation, qu’elle soit donnée dans l’acte de concession ou ultérieurement, de faire usage des terres de catégorie IA-N à l’une des fins visées au paragraphe (1) est subordonnée à son approbation en assemblée extraordinaire ou par référendum avec un taux de participation au vote :
 	- **a)** d’au moins dix pour cent, lorsque l’autorisation est pour une durée de moins de vingt-cinq ans;
 	- **b)** d’au moins vingt-cinq pour cent, lorsque l’autorisation est pour une durée égale ou supérieure à vingt-cinq ans.
-> 1984, ch. 18, art. 135; 2018, ch. 4, art. 78 et 123.
+> 1984, ch. 18, art. 135; 2018, ch. 4, art. 78 et 123
 
 
 
@@ -2581,7 +2581,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de l’ancien superficiaire**
 
 - **(9)** Si la bande exécute elle-même les travaux prévus au paragraphe (3) dans l’année qui suit la date où elle devient propriétaire du bâtiment, l’ancien superficiaire est tenu au remboursement des frais raisonnables entraînés à cette occasion.
-> 1984, ch. 18, art. 136; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 136; 2018, ch. 4, art. 122(A)
 
 
 
@@ -2604,7 +2604,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation du transfert**
 
 - **(3)** Dans le cas prévu au paragraphe 130(2), les droits ou intérêts considérés comme transférés à une personne morale du fait de la modification de son contrôle réel font retour à la bande dès la date de la modification si celle-ci n’a pas fait au préalable l’objet de l’autorisation visée aux paragraphes (1) ou (2).
-> 1984, ch. 18, art. 137; 2018, ch. 4, art. 79(A) et 122(A).
+> 1984, ch. 18, art. 137; 2018, ch. 4, art. 79(A) et 122(A)
 
 
 
@@ -2617,7 +2617,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de consultations préalables**
 
 **138** La bande est tenue, avant d’autoriser des personnes qui ne sont ni des bénéficiaires naskapis ni des organismes composés en majorité de bénéficiaires naskapis, ni des parties à la Convention du Nord-Est québécois, à entreprendre, sur les terres de catégorie IA-N qui lui ont été attribuées, des projets d’intérêt régional ou provincial, de consulter tant le ministère, l’organisme ou la personne désignés par le Québec que le ministre.
-> 1984, ch. 18, art. 138; 2009, ch. 12, art. 22; 2018, ch. 4, art. 80.
+> 1984, ch. 18, art. 138; 2009, ch. 12, art. 22; 2018, ch. 4, art. 80
 
 
 
@@ -2634,7 +2634,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mode d’affectation et droits à acquitter**
 
 - **(2)** L’affectation visée au paragraphe (1) se fait par octroi de servitude ou de bail ou par tout autre moyen contractuel analogue, contre versement maximal de un dollar.
-> 1984, ch. 18, art. 139; 2009, ch. 12, art. 23; 2018, ch. 4, art. 81 et 122(A).
+> 1984, ch. 18, art. 139; 2009, ch. 12, art. 23; 2018, ch. 4, art. 81 et 122(A)
 
 
 
@@ -2643,7 +2643,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inapplicabilité de la prescription acquisitive**
 
 **140** Les droits ou intérêts sur les terres de catégorie IA-N ne peuvent s’acquérir par prescription.
-> 1984, ch. 18, art. 140; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 140; 2018, ch. 4, art. 123
 
 
 
@@ -2667,7 +2667,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Octroi de droits selon les autres parties de la loi**
 
 - **(2)** L’octroi de droits et intérêts effectué par la bande, sur les terres de catégorie IA-N qui lui sont attribuées, conformément aux autres parties de la présente loi ne constitue pas un abandon au sens de la présente partie.
-> 1984, ch. 18, art. 141; 2018, ch. 4, art. 83.
+> 1984, ch. 18, art. 141; 2018, ch. 4, art. 83
 
 
 
@@ -2682,7 +2682,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Abandon absolu ou conditionnel**
 
 - **(2)** L’abandon peut être absolu ou assujetti aux conditions énoncées dans l’acte d’abandon.
-> 1984, ch. 18, art. 142; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 142; 2018, ch. 4, art. 122(A)
 
 
 
@@ -2726,7 +2726,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** date, heure et lieu du référendum;
 	- **b)** description suffisamment précise des terres en cause;
 	- **c)** principales conditions de l’abandon.
-> 1984, ch. 18, art. 144; 2018, ch. 4, art. 84.
+> 1984, ch. 18, art. 144; 2018, ch. 4, art. 84
 
 
 
@@ -2745,7 +2745,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation des titulaires de droits enregistrés**
 
 - **(3)** Les titulaires de droits ou intérêts enregistrés sur des terres de catégorie IA-N ou sur des bâtiments qui y sont situés ont le droit, si ces droits ou intérêts sont éteints en application du paragraphe (2), de recevoir de la bande une juste indemnité, établie d’après la valeur des droits à la date de l’avis prévu à l’alinéa 144(2)a). En cas de désaccord entre la bande et les titulaires quant au montant de l’indemnité, celui-ci est déterminé selon les règlements pris en application de la partie XI comme s’il s’agissait de droits expropriés par la bande.
-> 1984, ch. 18, art. 145; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 145; 2018, ch. 4, art. 123
 
 
 
@@ -2756,7 +2756,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **146** Dans les vingt jours suivant la date du référendum où l’abandon a été approuvé conformément à l’article 144, ou dans le délai supérieur autorisé par le ministre, la bande adresse à celui-ci, ou à son délégué :
 - **a)** l’attestation écrite, établie par le responsable du référendum, des résultats du scrutin;
 - **b)** un document expressément intitulé « acte d’abandon », établi en la forme réglementaire, signé par au moins deux membres du conseil et donnant les éléments de l’abandon.
-> 1984, ch. 18, art. 146; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 146; 2018, ch. 4, art. 122(A)
 
 
 
@@ -2772,7 +2772,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Déclassement**
 
 **148** À la date de prise d’effet de l’abandon, les terres en cause cessent d’appartenir à la catégorie IA-N.
-> 1984, ch. 18, art. 148; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 148; 2018, ch. 4, art. 123
 
 
 
@@ -2781,7 +2781,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Service de l’Enregistrement**
 
 **149** Dans les soixante jours suivant la date de prise d’effet de l’abandon, la bande fait enregistrer l’acte auprès du service constitué en application de la partie X; toutefois, le défaut d’enregistrement n’entraîne pas l’invalidité de l’abandon ni ne porte atteinte à sa prise d’effet.
-> 1984, ch. 18, art. 149; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 149; 2018, ch. 4, art. 122(A)
 
 
 
@@ -2805,7 +2805,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Opposabilité des hypothèques**
 
 - **(2)** Les hypothèques accordées après l’entrée en vigueur de la présente partie sur des intérêts eux-mêmes détenus sur des terres de catégorie IA-N ou sur les bâtiments qui y sont situés n’ont d’effet sur ces intérêts que si elles sont enregistrées conformément aux règlements pris en application de l’article 151.
-> 1984, ch. 18, art. 150; 2018, ch. 4, art. 85, 122(A) et 123.
+> 1984, ch. 18, art. 150; 2018, ch. 4, art. 85, 122(A) et 123
 
 
 
@@ -2822,7 +2822,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** l’enregistrement de l’arpentage des terres de catégorie IA-N;
 - **g)** la radiation des actes enregistrés;
 - **h)** la conservation par les bureaux de l’Enregistrement des documents non susceptibles d’enregistrement, en vue de faciliter la gestion et l’administration des terres de catégorie IA-N ou des bâtiments qui y sont situés.
-> 1984, ch. 18, art. 151; 2018, ch. 4, art. 86 et 123.
+> 1984, ch. 18, art. 151; 2018, ch. 4, art. 86 et 123
 
 
 
@@ -2847,7 +2847,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-équivalence**
 
 - **(3)** Le dépôt prévu au paragraphe (1) n’équivaut pas à un enregistrement.
-> 1984, ch. 18, art. 152; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 152; 2018, ch. 4, art. 122(A)
 
 
 
@@ -2864,7 +2864,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** des droits ou intérêts du Canada ou du Québec;
 - **b)** des droits visés à l’article 115;
 - **c)** des servitudes établies par l’autorité en vertu de la partie VII.
-> 1984, ch. 18, art. 153; 2018, ch. 4, art. 88.
+> 1984, ch. 18, art. 153; 2018, ch. 4, art. 88
 
 
 
@@ -2873,7 +2873,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Acquisition de gré à gré**
 
 **154** La faculté d’expropriation conférée à la bande par la présente partie ne porte pas atteinte à sa faculté d’acquérir des droits ou intérêts immobiliers de gré à gré sous le régime de la présente loi.
-> 1984, ch. 18, art. 154; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 154; 2018, ch. 4, art. 122(A)
 
 
 
@@ -2882,7 +2882,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 **155** La bande est tenue, dans le cadre des règlements pris en application de l’article 156, d’indemniser les titulaires des droits ou intérêts expropriés en vertu de la présente partie.
-> 1984, ch. 18, art. 155; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 155; 2018, ch. 4, art. 122(A)
 
 
 
@@ -2897,7 +2897,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** de la faculté d’expropriation,
 	- **(ii)** du droit à l’indemnité,
 	- **(iii)** du montant de l’indemnité.
-> 1984, ch. 18, art. 156; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 156; 2018, ch. 4, art. 122(A)
 
 
 
@@ -2917,7 +2917,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Commission*** La Commission crie-naskapie constituée par l’article 158. (*Commission*)
 
 ***première nation crie*** S’entend au sens du paragraphe 2(2) de la [Loi sur l’accord concernant la gouvernance de la nation crie d’Eeyou Istchee](/fr/Lois/Lois%20du%20Canada/2018/ch.%204,%20art.%201.md). (*Cree First Nation*)
-> 1984, ch. 18, art. 157; 2018, ch. 4, art. 90.
+> 1984, ch. 18, art. 157; 2018, ch. 4, art. 90
 
 
 
@@ -2932,7 +2932,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Président**
 
 - **(2)** Le gouverneur en conseil choisit le président de la Commission parmi les commissaires.
-> 1984, ch. 18, art. 158; 2018, ch. 4, art. 91.
+> 1984, ch. 18, art. 158; 2018, ch. 4, art. 91
 
 
 
@@ -2941,7 +2941,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion**
 
 **159** Ni les membres du conseil ou les mandataires d’une première nation crie ou de la bande naskapie, ni les membres de son personnel ne peuvent faire partie de la Commission.
-> 1984, ch. 18, art. 159; 2018, ch. 4, art. 92.
+> 1984, ch. 18, art. 159; 2018, ch. 4, art. 92
 
 
 
@@ -2972,7 +2972,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération des commissaires**
 
 - **(6)** Les commissaires reçoivent la rémunération fixée par le gouverneur en conseil.
-> 1984, ch. 18, art. 160; 2018, ch. 4, art. 93.
+> 1984, ch. 18, art. 160; 2018, ch. 4, art. 93
 
 
 
@@ -2981,7 +2981,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Siège**
 
 **161** Le siège de la Commission est fixé à Val-d’Or (Québec), ou au lieu désigné par le gouverneur en conseil sur la recommandation du Gouvernement de la nation crie et de la bande naskapie.
-> 1984, ch. 18, art. 161; 2018, ch. 4, art. 94.
+> 1984, ch. 18, art. 161; 2018, ch. 4, art. 94
 
 
 
@@ -3004,7 +3004,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Origine de la rémunération**
 
 - **(4)** La rémunération des commissaires et des personnes engagées conformément au paragraphe (1) est payée sur les crédits affectés par le Parlement à cette fin.
-> 1984, ch. 18, art. 162; 2003, ch. 22, art. 224(A).
+> 1984, ch. 18, art. 162; 2003, ch. 22, art. 224(A)
 
 
 
@@ -3030,7 +3030,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation de pouvoirs**
 
 **164** La Commission peut, par décision unanime, déléguer ses pouvoirs et fonctions, sauf le pouvoir mentionné au paragraphe 163(3), à un ou plusieurs commissaires.
-> 1984, ch. 18, art. 164; 2018, ch. 4, art. 95.
+> 1984, ch. 18, art. 164; 2018, ch. 4, art. 95
 
 
 
@@ -3059,7 +3059,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motivation du refus**
 
 - **(4)** Dès qu’elle décide de ne pas entreprendre ou d’interrompre une enquête, la Commission en avise par écrit le réclamant, en indiquant laquelle des dispositions des paragraphes (2) ou (3) a motivé sa décision et en donnant toute précision complémentaire utile.
-> 1984, ch. 18, art. 165; 2018, ch. 4, art. 96.
+> 1984, ch. 18, art. 165; 2018, ch. 4, art. 96
 
 
 
@@ -3083,7 +3083,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Identité du réclamant**
 
 - **(3)** À la demande du réclamant, la Commission s’abstient de faire état de son identité au cours ou dans les actes de l’enquête, ainsi que dans les rapports prévus à l’article 170.
-> 1984, ch. 18, art. 166; 2009, ch. 12, art. 24; 2018, ch. 4, art. 97.
+> 1984, ch. 18, art. 166; 2009, ch. 12, art. 24; 2018, ch. 4, art. 97
 
 
 
@@ -3148,7 +3148,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Champ d’application de la présente partie**
 
 **173** La présente partie ne s’applique qu’à la succession d’un bénéficiaire naskapi décédé après l’entrée en vigueur de cette partie et domicilié, au moment de son décès, sur des terres de catégorie IA-N.
-> 1984, ch. 18, art. 173; 2018, ch. 4, art. 99.
+> 1984, ch. 18, art. 173; 2018, ch. 4, art. 99
 
 
 
@@ -3172,7 +3172,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***enfant*** Est considéré comme un enfant l’enfant adoptif, l’adoption pouvant avoir été :
 - **a)** soit réalisée conformément aux lois de la province ou reconnue par celles-ci;
 - **b)** soit réalisée conformément aux coutumes naskapies. (*child*)
-> 1984, ch. 18, art. 174; 2018, ch. 4, art. 100.
+> 1984, ch. 18, art. 174; 2018, ch. 4, art. 100
 
 
 
@@ -3181,7 +3181,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Successions ab intestat**
 
 **175** Dans le cas des successions *ab intestat*, le conjoint et le ou les enfants survivants d’un bénéficiaire naskapi décédé font partie de ses héritiers légitimes.
-> 1984, ch. 18, art. 175; 2018, ch. 4, art. 101.
+> 1984, ch. 18, art. 175; 2018, ch. 4, art. 101
 
 
 
@@ -3198,7 +3198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Testaments admis par le ministre**
 
 - **(2)** Le ministre peut admettre comme testament tout écrit signé par un bénéficiaire naskapi ou portant sa marque et dans lequel celui-ci indique ses intentions quant à la disposition de ses biens à son décès.
-> 1984, ch. 18, art. 176; 2018, ch. 4, art. 102.
+> 1984, ch. 18, art. 176; 2018, ch. 4, art. 102
 
 
 
@@ -3209,7 +3209,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **177** Par dérogation à l’article 599a du Code civil du Bas-Canada, doivent être en la forme réglementaire sans être obligatoirement authentiques les actes relatifs à l’acceptation ou au règlement d’une succession, ou à la renonciation à une succession :
 - **a)** composée en tout ou en partie de meubles, d’immeubles ou de biens traditionnels situés sur des terres de catégorie IA-N;
 - **b)** intéressant des personnes frappées d’une incapacité légale.
-> 1984, ch. 18, art. 177; 2018, ch. 4, art. 123.
+> 1984, ch. 18, art. 177; 2018, ch. 4, art. 123
 
 
 
@@ -3224,7 +3224,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exercice de la tutelle**
 
 - **(2)** La tutelle s’exerce conjointement. Toutefois, en cas de décès ou d’incapacité légale d’un tuteur ou de défaut par celui-ci d’agir avec la diligence voulue, l’autre peut l’exercer seul.
-> 1984, ch. 18, art. 178; 2018, ch. 4, art. 103.
+> 1984, ch. 18, art. 178; 2018, ch. 4, art. 103
 
 
 
@@ -3233,7 +3233,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vacance de succession**
 
 **179** À défaut d’héritiers légitimes ou lorsque ces derniers y renoncent, la succession d’un bénéficiaire naskapi est dévolue à la bande; si celle-ci y renonce, il en est disposé comme d’une succession vacante.
-> 1984, ch. 18, art. 179; 2018, ch. 4, art. 104.
+> 1984, ch. 18, art. 179; 2018, ch. 4, art. 104
 
 
 
@@ -3242,7 +3242,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Succession ab intestat**
 
 **180** Au décès *ab intestat* d’un bénéficiaire naskapi, les héritiers légitimes peuvent, à la majorité, charger la bande d’administrer ou de faire administrer la succession, sauf s’il s’agit de biens traditionnels. Le cas échéant, la bande peut exiger des frais pour ce service.
-> 1984, ch. 18, art. 180; 2018, ch. 4, art. 104.
+> 1984, ch. 18, art. 180; 2018, ch. 4, art. 104
 
 
 
@@ -3261,7 +3261,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs du conseil de famille**
 
 - **(2)** Le conseil de famille peut décider de la disposition des biens traditionnels du défunt et charger une personne consentante de donner suite à sa décision.
-> 1984, ch. 18, art. 181; 2018, ch. 4, art. 105.
+> 1984, ch. 18, art. 181; 2018, ch. 4, art. 105
 
 
 
@@ -3279,7 +3279,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Élargissement du conseil de famille**
 
 - **(2)** Faute de survivants parmi les personnes mentionnées au paragraphe (1), le conseil de famille du défunt se compose de trois de ses parents majeurs considérés comme les plus proches selon les lois de la province et résidant habituellement dans le « territoire » au sens donné à ce mot à l’article 2 de la [Loi sur le règlement des revendications des autochtones de la Baie James et du Nord québécois](/fr/Lois/Lois%20du%20Canada/1976-77/ch.%2032.md).
-> 1984, ch. 18, art. 182; 2018, ch. 4, art. 106(A).
+> 1984, ch. 18, art. 182; 2018, ch. 4, art. 106(A)
 
 
 
@@ -3288,7 +3288,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Situation d’impasse**
 
 **183** Le conseil de famille peut demander au conseil de la bande de charger une ou plusieurs personnes consentantes de se substituer à lui pour ce qui est des biens traditionnels au sujet de la disposition desquels il n’a pu en arriver à une décision.
-> 1984, ch. 18, art. 183; 2018, ch. 4, art. 107.
+> 1984, ch. 18, art. 183; 2018, ch. 4, art. 107
 
 
 
@@ -3306,7 +3306,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** absence de parents survivants;
 	- **b)** impossibilité de former le conseil de famille;
 	- **c)** défaut par le conseil de famille de se réunir dans l’année suivant le décès.
-> 1984, ch. 18, art. 184; 2018, ch. 4, art. 108.
+> 1984, ch. 18, art. 184; 2018, ch. 4, art. 108
 
 
 
@@ -3315,7 +3315,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transfert du titre**
 
 **185** Le cessionnaire désigné par le conseil de famille devient propriétaire des biens traditionnels au moment où il en prend possession; il est tenu dès lors des dettes qui s’y rattachent.
-> 1984, ch. 18, art. 185; 2018, ch. 4, art. 109(A).
+> 1984, ch. 18, art. 185; 2018, ch. 4, art. 109(A)
 
 
 
@@ -3324,7 +3324,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renonciation**
 
 **186** En cas de renonciation de la part du cessionnaire désigné avant sa mise en possession et en l’absence d’une nouvelle désignation par le conseil de famille dans les six mois suivant la renonciation, il est disposé des biens traditionnels selon les lois de la province applicables en matière de succession *ab intestat*.
-> 1984, ch. 18, art. 186; 2018, ch. 4, art. 109(A).
+> 1984, ch. 18, art. 186; 2018, ch. 4, art. 109(A)
 
 
 
@@ -3349,7 +3349,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** devenus la propriété de la bande en vertu de l’article 15, dans sa version en vigueur le 3 juillet 1984, après avoir été achetés par le Canada sur les crédits affectés à cette fin par le Parlement;
 	- **b)** achetés par le Canada, après l’entrée en vigueur de la présente partie, sur les crédits affectés par le Parlement à l’usage et au profit d’Indiens ou de la bande;
 	- **c)** donnés, après l’entrée en vigueur de la présente partie, aux Indiens ou à la bande en vertu d’un traité ou d’un accord conclu entre la bande et le Canada.
-> 1984, ch. 18, art. 187; 2009, ch. 12, art. 25; 2018, ch. 4, art. 110.
+> 1984, ch. 18, art. 187; 2009, ch. 12, art. 25; 2018, ch. 4, art. 110
 
 
 
@@ -3368,7 +3368,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Par dérogation à toute autre loi fédérale ou provinciale :
 	- **a)** nul Indien ni la bande ne sont assujettis à une taxation concernant la propriété, l’occupation, la possession ou l’usage d’un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l’un de ces biens;
 	- **b)** aucun droit de mutation par décès, taxe d’héritage ou droit de succession n’est exigible à la mort d’un Indien en ce qui concerne un bien de cette nature ou la succession audit bien, si ce dernier est transmis à un Indien.
-> 1984, ch. 18, art. 188; 2018, ch. 4, art. 111 et 122(A).
+> 1984, ch. 18, art. 188; 2018, ch. 4, art. 111 et 122(A)
 
 
 
@@ -3407,7 +3407,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vente conditionnelle**
 
 - **(5)** La personne qui conclut avec un bénéficiaire naskapi, un Indien résidant habituellement sur des terres de catégorie IA-N ou la bande un contrat aux termes duquel elle lui vend un bien meuble dont elle conserve en tout ou en partie le droit de propriété ou de possession peut exercer ce droit même si le bien est situé sur les terres de catégorie IA-N.
-> 1984, ch. 18, art. 190; 2009, ch. 12, art. 26; 2018, ch. 4, art. 112.
+> 1984, ch. 18, art. 190; 2009, ch. 12, art. 26; 2018, ch. 4, art. 112
 
 
 
@@ -3419,7 +3419,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** devenus la propriété de la bande en vertu de l’article 15, dans sa version en vigueur le 3 juillet 1984, après avoir été achetés sur les crédits affectés à cette fin par le Parlement;
 - **b)** achetés, après l’entrée en vigueur de la présente partie, sur les crédits affectés par le Parlement ou par la législature du Québec à l’usage et au bénéfice d’Indiens, de bénéficiaires naskapis ou de la bande;
 - **c)** fournis, après l’entrée en vigueur de la présente partie, à des bénéficiaires naskapis, ou à la bande, en vertu d’un traité ou d’un accord entre la bande et le Canada.
-> 1984, ch. 18, art. 191; 2009, ch. 12, art. 27; 2018, ch. 4, art. 113.
+> 1984, ch. 18, art. 191; 2009, ch. 12, art. 27; 2018, ch. 4, art. 113
 
 
 
@@ -3434,7 +3434,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** ils sont nécessaires à la mise en oeuvre d’un programme dont la coordination et l’exécution ont été déléguées par la bande, conformément aux pouvoirs qu’elle détient en l’espèce, à la Société de développement des Naskapis;
 	- **b)** ils appartiennent à la Société de développement des Naskapis;
 	- **c)** ils ont été achetés sur des crédits affectés par le Parlement ou la législature du Québec à l’usage et au bénéfice d’Indiens, de bénéficiaires naskapis ou de la bande.
-> 1984, ch. 18, art. 192; 2018, ch. 4, art. 114.
+> 1984, ch. 18, art. 192; 2018, ch. 4, art. 114
 
 
 
@@ -3453,7 +3453,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renonciation de la bande**
 
 - **(3)** La bande peut renoncer par écrit en faveur de quiconque, aux conditions convenues par les parties, à l’exemption prévue au paragraphe 190(2), sous réserve d’approbation de la renonciation et des conditions de celle-ci donnée en assemblée extraordinaire ou par référendum, avec un taux de participation au vote d’au moins vingt-cinq pour cent.
-> 1984, ch. 18, art. 193; 2018, ch. 4, art. 115 et 122(A).
+> 1984, ch. 18, art. 193; 2018, ch. 4, art. 115 et 122(A)
 
 
 
@@ -3497,7 +3497,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs des services de police**
 
 - **(2)** Les services de police, ainsi que leur personnel, détachés auprès de la bande en vertu des accords visés au paragraphe (1) ont compétence pour faire respecter les lois du Canada, les lois du Québec et les règlements administratifs de la bande applicables aux terres de catégorie IA-N.
-> 1984, ch. 18, art. 196; 2009, ch. 12, art. 29; 2018, ch. 4, art. 117 et 123.
+> 1984, ch. 18, art. 196; 2009, ch. 12, art. 29; 2018, ch. 4, art. 117 et 123
 
 
 
@@ -3511,7 +3511,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Infractions à la présente loi**
 
 **197** Quiconque commet l’infraction prévue au paragraphe 38(6), à l’article 44, au paragraphe 91(2), à l’article 95, au paragraphe 100(4) ou à l’article 108, encourt, sur déclaration sommaire de culpabilité, une amende maximale de deux mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines.
-> 1984, ch. 18, art. 197; 2009, ch. 12, art. 30; 2018, ch. 4, art. 118.
+> 1984, ch. 18, art. 197; 2009, ch. 12, art. 30; 2018, ch. 4, art. 118
 
 
 
@@ -3543,7 +3543,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(3)** Les règlements administratifs pris en application de l’alinéa 45(1)h) ne peuvent comporter de peine d’emprisonnement pour non-paiement d’impôts.
-> 1984, ch. 18, art. 199; 2009, ch. 12, art. 31; 2018, ch. 4, art. 119.
+> 1984, ch. 18, art. 199; 2009, ch. 12, art. 31; 2018, ch. 4, art. 119
 
 
 
@@ -3552,7 +3552,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autre mode de poursuite : régime de contraventions**
 
 **199.1** En plus de la procédure sommaire prévue par la partie XXVII du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), les poursuites à l’égard des infractions visées par les règlements administratifs pris en vertu de l’article 48.1 de la présente loi peuvent être intentées conformément au régime de contraventions établi par ces règlements administratifs.
-> 2018, ch. 4, art. 120.
+> 2018, ch. 4, art. 120
 
 
 
@@ -3578,7 +3578,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
 - **(3)** Les termes mis entre parenthèses à l’alinéa (1)b) ne font pas partie de la disposition, n’étant cités que pour des raisons de commodité.
-> 1984, ch. 18, art. 200; 2018, ch. 4, art. 121.
+> 1984, ch. 18, art. 200; 2018, ch. 4, art. 121
 
 
 
@@ -3607,7 +3607,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Gratuité**
 
 - **(2)** Ni le chef ni le secrétaire de la bande ne peuvent exiger de droits ou autres redevances au titre de leurs fonctions de commissaires aux serments.
-> 1984, ch. 18, art. 202; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 202; 2018, ch. 4, art. 122(A)
 
 
 
@@ -3626,7 +3626,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Admissibilité des copies en preuve**
 
 - **(3)** Dans le cas où les documents visés au paragraphe (1) sont admissibles en preuve, leurs copies certifiées conformes le sont également, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
-> 1984, ch. 18, art. 203; 2018, ch. 4, art. 122(A).
+> 1984, ch. 18, art. 203; 2018, ch. 4, art. 122(A)
 
 
 
@@ -3650,5 +3650,58 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#C-45.7_fr_1'>[*]</a></sup>**218** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par proclamation.
 
 <a name='C-45.7_fr_1'><sup>*</sup></a>: [Note : Loi, sauf articles 36 et 157 à 172, en vigueur le 3 juillet 1984, articles 36 et 157 à 172 en vigueur le 1<sup>er</sup> décembre 1984, *voir* TR/84-129.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2009, ch. 12, art. 32
+
+
+**Publication dans la [Gazette du Canada](http://www.gazette.gc.ca/)**
+
+**32** Le ministre des Affaires indiennes et du Nord canadien publie, dans les meilleurs délais, dans la [Gazette du Canada](http://www.gazette.gc.ca/), avis de la date où des terres ont été mises de côté par le gouverneur en conseil à titre de terres de catégorie IA à l’usage et au bénéfice exclusifs de la collectivité connue sous le nom de Cris de Oujé-Bougoumou.
+
+
+
+######           — 2018, ch. 4, art. 124
+
+
+**Rapport de la Commission crie-naskapie au Parlement**
+
+**124** 
+
+- **(1)** La Commission crie-naskapie peut établir, pour la période commençant à la date suivant la fin de la période visée par le Rapport 2016 de la Commission Crie-Naskapie et se terminant à la date d’entrée en vigueur de l’article 98, un dernier rapport, en français, en anglais, en cri et en naskapi, sur l’application de la Loi sur les Cris et les Naskapis du Québec. Elle adresse le rapport au ministre des Affaires indiennes et du Nord canadien et celui-ci le fait déposer devant chaque chambre du Parlement dans les dix premiers jours de séance suivant sa réception.
+
+**Diffusion du rapport**
+
+- **(2)** Dès le dépôt du rapport devant le Parlement, le ministre en adresse le texte au Gouvernement de la nation crie, à la Société de développement des Naskapis, au conseil de chaque première nation crie et au conseil de la bande naskapie.
+
+**Définitions**
+
+- **(3)** Les définitions qui suivent s’appliquent au présent article.
+
+***bande naskapie*** S’entend au sens du paragraphe 2(1) de la Loi sur les Naskapis et la Commission crie-naskapie. (*Naskapi band*)
+
+***Commission crie-naskapie*** La commission constituée par l’article 158 de la Loi sur les Naskapis et la Commission crie-naskapie. (*Cree-Naskapi Commission*)
+
+***Gouvernement de la nation crie*** S’entend au sens du paragraphe 2(1) de la [Loi sur l’accord concernant la gouvernance de la nation crie d’Eeyou Istchee](/fr/Lois/Lois%20du%20Canada/2018/ch.%204,%20art.%201.md). (*Cree Nation Government*)
+
+***première nation crie*** S’entend au sens du paragraphe 2(2) de la [Loi sur l’accord concernant la gouvernance de la nation crie d’Eeyou Istchee](/fr/Lois/Lois%20du%20Canada/2018/ch.%204,%20art.%201.md). (*Cree First Nation*)
+
+***Société de développement des Naskapis*** S’entend au sens du paragraphe 2(1) de la Loi sur les Naskapis et la Commission crie-naskapie. (*Naskapi Development Corporation*)
+
+
+
+######           — 2019, ch. 29, al. 373(2)g)
+
+
+
+**Autres mentions du ministre des Affaires indiennes et du Nord canadien**
+
+- **(2)** Sauf indication contraire du contexte, dans les passages ci-après, la mention du ministre des Affaires indiennes et du Nord canadien vaut mention, avec les éventuelles adaptations grammaticales, du ministre des Relations Couronne-Autochtones :
+	- **g)** l’article 32 de la Loi modifiant la Loi sur les Cris et les Naskapis du Québec, chapitre 12 des Lois du Canada (2009).
+
 
 
