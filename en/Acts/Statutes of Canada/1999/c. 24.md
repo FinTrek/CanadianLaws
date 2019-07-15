@@ -25,7 +25,7 @@ AND WHEREAS the Government of Canada is committed to implementing the United Nat
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
-> 1999, c. 24, preamble; 2018, c. 27, s. 352..
+> 1999, c. 24, preamble; 2018, c. 27, s. 352.
 
 
 
@@ -78,7 +78,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** in Canada elsewhere than in Quebec, any right of use or occupation of the land other than an interest in that land;
 - **(b)** in Quebec, any right to use or occupy the land other than a right as defined in this subsection. (*permis*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations. (*ministre*)
 
 ***project*** has the same meaning as in subsection 2(1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md). (*projet d’exploitation*)
 
@@ -93,7 +93,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Not land claims agreement**
 
 - **(3)** For greater certainty, neither the Framework Agreement nor this Act is a land claims agreement referred to in section 35 of the Constitution Act, 1982.
-> 1999, c. 24, s. 2; 2007, c. 17, s. 1; 2012, c. 19, ss. 627, 652(E); 2018, c. 27, s. 353.
+> 1999, c. 24, s. 2; 2007, c. 17, s. 1; 2012, c. 19, ss. 627, 652(E); 2018, c. 27, s. 3532019, c. 29, s. 373
 
 
 
@@ -133,7 +133,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** title to First Nation land is not affected by the Framework Agreement or this Act;
 - **(b)** reserve land to which a land code applies continues to be set apart for the use and benefit of the First Nation for which it was set apart; and
 - **(c)** reserve land to which a land code applies continues to be land reserved for the Indians within the meaning of Class 24 of section 91 of the Constitution Act, 1867.
-> 1999, c. 24, s. 5; 2012, c. 19, s. 652(E); 2018, c. 27, s. 354.
+> 1999, c. 24, s. 5; 2012, c. 19, s. 652(E); 2018, c. 27, s. 354
 
 
 
@@ -142,7 +142,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Lands set aside**
 
 **5.1** For greater certainty, lands set aside to which a land code applies are not a reserve.
-> 2018, c. 27, s. 354.
+> 2018, c. 27, s. 354
 
 
 
@@ -189,7 +189,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(b)** a description of the interests or rights and licences that have been granted by Her Majesty in or in relation to that land, and the date and other terms of the transfer to the First Nation of Her Majesty’s rights and obligations as grantor of those interests or rights and licences;
 	- **(c)** the environmental assessment process that will apply to projects on that land until the enactment of First Nation laws in relation to that subject; and
 	- **(d)** any other relevant matter.
-> 1999, c. 24, s. 6; 2007, c. 17, s. 2; 2012, c. 19, ss. 628, 652(E); 2018, c. 27, s. 355.
+> 1999, c. 24, s. 6; 2007, c. 17, s. 2; 2012, c. 19, ss. 628, 652(E); 2018, c. 27, s. 355
 
 
 
@@ -222,7 +222,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Coming into force of land code**
 
 - **(5)** For the purposes of section 16, subsection 31(2) and sections 34, 38 and 39, as they apply in relation to a reserve referred to in subsection (1), the coming into force of the land code is deemed to be the day on which the amendments to the land codes come into force in accordance with subsection (2).
-> 2018, c. 27, s. 356.
+> 2018, c. 27, s. 356
 
 
 
@@ -231,7 +231,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Survey not mandatory**
 
 **6.1** If the Surveyor General prepares or causes to be prepared a description of lands under paragraph 6(1)(a) or 6.01(1)(b), the Surveyor General may, if he or she considers it appropriate, survey or have those lands surveyed in accordance with the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md).
-> 2012, c. 19, s. 629; 2018, c. 27, s. 356.
+> 2012, c. 19, s. 629; 2018, c. 27, s. 356
 
 
 
@@ -252,7 +252,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** A portion of a reserve or of a parcel of lands set aside shall not be excluded from a land code if the exclusion would have the effect of placing the administration of a lease, other interest or a right in that land in more than one land management regime.
 
 - **(3)** [Repealed, 2012, c. 19, s. 630]
-> 1999, c. 24, s. 7; 2007, c. 17, s. 3; 2012, c. 19, ss. 630, 652(E); 2018, c. 27, s. 357.
+> 1999, c. 24, s. 7; 2007, c. 17, s. 3; 2012, c. 19, ss. 630, 652(E); 2018, c. 27, s. 357
 
 
 
@@ -271,7 +271,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Limitation — effects of exclusion**
 
 - **(3)** The exclusion of the land does not preclude the First Nation or Her Majesty from asserting in an action, a lawsuit or other proceeding that the land is part of the reserve or of the parcel of lands set aside.
-> 2012, c. 19, s. 631; 2018, c. 27, s. 358.
+> 2012, c. 19, s. 631; 2018, c. 27, s. 358
 
 
 
@@ -280,7 +280,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Inclusion of previously excluded land**
 
 **7.2** A First Nation shall amend the description of First Nation land in its land code to include a portion of a reserve or of a parcel of lands set aside that was excluded under subsection 7(1) or land that was excluded under subsection 7.1(1) if the First Nation and the Minister agree that the condition that justified the exclusion no longer exists, and the individual agreement shall be amended accordingly.
-> 2012, c. 19, s. 631; 2018, c. 27, s. 359.
+> 2012, c. 19, s. 631; 2018, c. 27, s. 359
 
 
 
@@ -302,7 +302,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Disputes**
 
 - **(2)** The verifier shall determine any dispute arising between a First Nation and the Minister before a land code comes into force regarding the terms of the transfer of administration of land or the exclusion of a portion of a reserve or of a parcel of lands set aside from the application of a land code.
-> 1999, c. 24, s. 8; 2012, c. 19, s. 652(E); 2018, c. 27, s. 360.
+> 1999, c. 24, s. 8; 2012, c. 19, s. 652(E); 2018, c. 27, s. 360
 
 
 
@@ -311,7 +311,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Appointment of ratification officer**
 
 **8.1** A First Nation may appoint a ratification officer who shall determine whether the conduct of a community approval process is in accordance with the process confirmed under paragraph 8(1)(a).
-> 2018, c. 27, s. 361.
+> 2018, c. 27, s. 361
 
 
 
@@ -326,7 +326,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Reasons**
 
 - **(2)** If the verifier determines that a proposed land code or a proposed community approval process is not in accordance with the Framework Agreement or this Act, the verifier shall give written reasons to the First Nation and the Minister.
-> 1999, c. 24, s. 9; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 9; 2012, c. 19, s. 652(E)
 
 
 
@@ -357,7 +357,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Third parties**
 
 - **(4)** If other persons have an interest or right in the land that is to be subject to the proposed land code, the council shall, within a reasonable time before the vote, take appropriate measures to inform those persons of the proposed land code, this Act and the date of the vote.
-> 1999, c. 24, s. 10; 2007, c. 17, s. 4; 2012, c. 19, s. 652(E); 2018, c. 27, s. 362.
+> 1999, c. 24, s. 10; 2007, c. 17, s. 4; 2012, c. 19, s. 652(E); 2018, c. 27, s. 362
 
 
 
@@ -376,7 +376,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Report**
 
 - **(3)** Within fifteen days after the conclusion of a vote, the verifier shall send to the First Nation and the Minister the verifier’s report on the conduct of the vote.
-> 1999, c. 24, s. 11; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 11; 2012, c. 19, s. 652(E)
 
 
 
@@ -385,7 +385,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Ratification officer**
 
 **11.1** If a ratification officer is appointed under section 8.1, he or she shall perform the duties and functions of the verifier that are set out in section 11. The ratification officer shall also send the report referred to in subsection 11(3) to the verifier.
-> 2018, c. 27, s. 363.
+> 2018, c. 27, s. 363
 
 
 
@@ -402,7 +402,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** A council may, by resolution,
 	- **(a)** fix the minimum percentage of eligible voters who are required to participate in a vote in order for the proposed land code and individual agreement to be approved; and
 	- **(b)** fix an approval rate that is greater than what is required by subsection (1).
-> 1999, c. 24, s. 12; 2012, c. 19, s. 652(E); 2018, c. 27, s. 363.
+> 1999, c. 24, s. 12; 2012, c. 19, s. 652(E); 2018, c. 27, s. 363
 
 
 
@@ -419,7 +419,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Report of irregularity**
 
 - **(2)** An eligible voter may, within five days after the conclusion of a vote, report any irregularity in the voting process to the verifier.
-> 1999, c. 24, s. 13; 2012, c. 19, s. 632; 2018, c. 27, s. 364.
+> 1999, c. 24, s. 13; 2012, c. 19, s. 632; 2018, c. 27, s. 364
 
 
 
@@ -444,7 +444,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Presumption**
 
 - **(3)** A certified land code is deemed to have been validly approved by the First Nation.
-> 1999, c. 24, s. 14; 2012, c. 19, ss. 633(E), 652(E); 2018, c. 27, s. 365.
+> 1999, c. 24, s. 14; 2012, c. 19, ss. 633(E), 652(E); 2018, c. 27, s. 365
 
 
 
@@ -467,7 +467,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Land code accessible to public**
 
 - **(2)** Without delay after the coming into force of the land code of a First Nation or of any amendment to the land code, the First Nation shall publish the land code on its website, if it has one. The First Nation shall also make a copy of it available, on request, to any person.
-> 1999, c. 24, s. 15; 2012, c. 19, ss. 634, 652(E); 2018, c. 27, s. 366.
+> 1999, c. 24, s. 15; 2012, c. 19, ss. 634, 652(E); 2018, c. 27, s. 366
 
 
 
@@ -494,7 +494,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Designations under [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
 - **(5)** The terms of any designations made under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) before the coming into force of a land code do not restrict the First Nation and the holder of an interest or right in or a licence in relation to First Nation land from modifying that interest, right or licence after the coming into force of the land code.
-> 1999, c. 24, s. 16; 2007, c. 17, s. 5; 2012, c. 19, s. 652(E); 2018, c. 27, s. 367.
+> 1999, c. 24, s. 16; 2007, c. 17, s. 5; 2012, c. 19, s. 652(E); 2018, c. 27, s. 367
 
 
 
@@ -538,7 +538,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Management body**
 
 - **(4)** A body established to manage First Nation land is a legal entity having the capacity, rights, powers and privileges of a natural person.
-> 1999, c. 24, s. 18; 2007, c. 17, s. 7; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 18; 2007, c. 17, s. 7; 2012, c. 19, s. 652(E)
 
 
 
@@ -553,7 +553,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Her Majesty not liable**
 
 - **(2)** Her Majesty is not liable in respect of anything done or omitted to be done in relation to the management of revenue moneys or capital moneys transferred to a First Nation under this Act by the First Nation or any person or body authorized by the First Nation to act in relation to those moneys.
-> 1999, c. 24, s. 19; 2012, c. 19, s. 652(E); 2018, c. 27, s. 369.
+> 1999, c. 24, s. 19; 2012, c. 19, s. 652(E); 2018, c. 27, s. 369
 
 
 
@@ -631,7 +631,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***family home*** means a structure — that need not be affixed but that must be situated on First Nation land — where the spouses or common-law partners habitually reside or, if they have ceased to cohabit or one of them has died, where they habitually resided on the day on which they ceased to cohabit or the death occurred. If the structure is normally used for a purpose in addition to a residential purpose, this definition includes only the portion of the structure that may reasonably be regarded as necessary for the residential purpose. (*foyer familial*)
 
 ***spouse*** has the same meaning as in subsection 2(1) of the [Family Homes on Reserves and Matrimonial Interests or Rights Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2020.md). (*époux*)
-> 1999, c. 24, s. 20; 2007, c. 17, s. 8; 2012, c. 19, s. 652(E); 2018, c. 27, s. 370.
+> 1999, c. 24, s. 20; 2007, c. 17, s. 8; 2012, c. 19, s. 652(E); 2018, c. 27, s. 370
 
 
 
@@ -650,7 +650,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Environmental assessment regime**
 
 - **(3)** First Nation laws respecting environmental assessment must, to the extent provided in the Framework Agreement, establish, in accordance with that Agreement, an environmental assessment regime that is applicable to all projects carried out on First Nation land that are approved, regulated, funded or undertaken by the First Nation.
-> 1999, c. 24, s. 21; 2012, c. 19, s. 635.
+> 1999, c. 24, s. 21; 2012, c. 19, s. 635
 
 
 
@@ -672,7 +672,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** retain its own prosecutors;
 	- **(b)** enter into an agreement with a provincial government for the use of provincial prosecutors; or
 	- **(c)** enter into an agreement with Her Majesty for the use of agents engaged by Her Majesty.
-> 1999, c. 24, s. 22; 2012, c. 19, s. 652(E); 2018, c. 27, s. 371.
+> 1999, c. 24, s. 22; 2012, c. 19, s. 652(E); 2018, c. 27, s. 371
 
 
 
@@ -681,7 +681,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Evidence**
 
 **23** In any proceedings, a copy of a First Nation law appearing to be certified as a true copy by an officer of the First Nation — or, in the case of a First Nation law that applies to First Nation land that is a reserve referred to in subsection 6.01(1), by an officer of any of the First Nations for whose use and benefit the reserve has been set apart — is, without proof of the officer’s signature or official character, evidence of its enactment on the date specified in the law.
-> 1999, c. 24, s. 23; 2012, c. 19, s. 652(E); 2018, c. 27, s. 372.
+> 1999, c. 24, s. 23; 2012, c. 19, s. 652(E); 2018, c. 27, s. 372
 
 
 
@@ -708,7 +708,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Courts of a province**
 
 - **(5)** If no justices of the peace are appointed for a First Nation, its First Nation laws shall be enforced through a court of competent jurisdiction of the province in which its First Nation land is situated.
-> 1999, c. 24, s. 24; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 24; 2012, c. 19, s. 652(E)
 
 
 
@@ -734,7 +734,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(c)** the appointment, remuneration, powers, functions and duties of officers and employees who administer the Register;
 	- **(d)** the keeping, by officers and employees, of documents that are not registrable; and
 	- **(e)** the transfer of the administration of the Register to any person or body and the disclosure of personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) for that purpose.
-> 1999, c. 24, s. 25; 2007, c. 17, s. 9; 2012, c. 19, s. 652(E); 2018, c. 27, s. 373.
+> 1999, c. 24, s. 25; 2007, c. 17, s. 9; 2012, c. 19, s. 652(E); 2018, c. 27, s. 373
 
 
 
@@ -771,7 +771,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Coming into force of land code**
 
 - **(6)** For the purposes of sections 16, 34 and 38, as those sections apply in relation to First Nation land that was the subject of the order, the coming into force of the land code is deemed to be the day on which the order is made.
-> 2018, c. 27, s. 374.
+> 2018, c. 27, s. 374
 
 
 
@@ -794,7 +794,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Indemnification of Her Majesty**
 
 - **(4)** The First Nation shall indemnify Her Majesty for any loss suffered by Her Majesty as a result of an act or omission described in subsection (3).
-> 2018, c. 27, s. 374.
+> 2018, c. 27, s. 374
 
 
 
@@ -813,7 +813,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Expropriation**
 
 - **(2)** Interests or rights in First Nation land may not be expropriated except by Her Majesty or a First Nation in accordance with the Framework Agreement and this Act.
-> 1999, c. 24, s. 26; 2007, c. 17, s. 10; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 26; 2007, c. 17, s. 10; 2012, c. 19, s. 652(E)
 
 
 
@@ -838,7 +838,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Community approval**
 
 - **(4)** The exchange of First Nation land must be approved by First Nation members in accordance with the land code of the First Nation and must be completed in accordance with the Framework Agreement.
-> 1999, c. 24, s. 27; 2012, c. 19, s. 652(E); 2018, c. 27, s. 375.
+> 1999, c. 24, s. 27; 2012, c. 19, s. 652(E); 2018, c. 27, s. 375
 
 
 
@@ -869,7 +869,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Resolution of disputes**
 
 - **(6)** Any dispute concerning compensation shall be determined according to the system for the resolution of such disputes established by a First Nation in accordance with the Framework Agreement.
-> 1999, c. 24, s. 28; 2007, c. 17, s. 11; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 28; 2007, c. 17, s. 11; 2012, c. 19, s. 652(E)
 
 
 
@@ -904,7 +904,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Time of consent**
 
 - **(6)** The Governor in Council may not consent to the expropriation before the expiration of the period referred to in subsection (5) or, if the First Nation has referred the matter to a neutral evaluator, before the neutral evaluator has reported on the matter.
-> 1999, c. 24, s. 29; 2007, c. 17, s. 12; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 29; 2007, c. 17, s. 12; 2012, c. 19, s. 652(E)
 
 
 
@@ -915,7 +915,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **30** If less than the full interest of a First Nation, or less than the entire right of a First Nation, in First Nation land is expropriated by Her Majesty,
 - **(a)** the land in which an interest or right is expropriated continues to be First Nation land and subject to the provisions of the land code and First Nation laws that are not inconsistent with the expropriation; and
 - **(b)** the First Nation continues to have the right to use and occupy that land except to the extent that the use and occupation is inconsistent with the expropriation.
-> 1999, c. 24, s. 30; 2007, c. 17, s. 13; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 30; 2007, c. 17, s. 13; 2012, c. 19, s. 652(E)
 
 
 
@@ -954,7 +954,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Limit**
 
 - **(6)** Any claim or encumbrance in respect of an interest expropriated by Her Majesty may only be made or discharged against the compensation paid under this section. In Quebec, any right, charge or claim in respect of a right expropriated by Her Majesty may only be made or discharged against the compensation paid under this section.
-> 1999, c. 24, s. 31; 2007, c. 17, s. 14; 2012, c. 19, s. 652(E); 2018, c. 27, s. 376.
+> 1999, c. 24, s. 31; 2007, c. 17, s. 14; 2012, c. 19, s. 652(E); 2018, c. 27, s. 376
 
 
 
@@ -973,7 +973,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Dispute**
 
 - **(3)** If the First Nation and the expropriating department or agency cannot agree on the terms and conditions of the return of the full interest or of the entire right, the First Nation or the department or agency may, in accordance with the Framework Agreement, refer the matter to an arbitrator.
-> 1999, c. 24, s. 32; 2007, c. 17, s. 15; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 32; 2007, c. 17, s. 15; 2012, c. 19, s. 652(E)
 
 
 
@@ -982,7 +982,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **[Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md)**
 
 **33** Without limiting the generality of section 37, in the event of any inconsistency or conflict between this Act and the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) in relation to the expropriation of interests or rights in First Nation land by Her Majesty, this Act prevails to the extent of the inconsistency or conflict.
-> 1999, c. 24, s. 33; 2007, c. 17, s. 16; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 33; 2007, c. 17, s. 16; 2012, c. 19, s. 652(E)
 
 
 
@@ -1009,7 +1009,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Indemnification of Her Majesty**
 
 - **(4)** The First Nation shall indemnify Her Majesty for any loss suffered by Her Majesty as a result of an act or omission described in subsection (3).
-> 1999, c. 24, s. 34; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 34; 2012, c. 19, s. 652(E)
 
 
 
@@ -1022,7 +1022,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Immunity**
 
 **35** No criminal or civil proceedings lie against an arbitrator, mediator, neutral evaluator, verifier or ratification officer appointed under the Framework Agreement or this Act or any member of a board established by section 38 of the Framework Agreement who is, in good faith, exercising a power or performing a duty or function in accordance with the Framework Agreement or this Act for anything done or omitted to be done during the course of the exercise or purported exercise of any power or the performance or purported performance of any duty or function of that person in accordance with the Framework Agreement or this Act.
-> 1999, c. 24, s. 35; 2018, c. 27, s. 377.
+> 1999, c. 24, s. 35; 2018, c. 27, s. 377
 
 
 
@@ -1041,7 +1041,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Review by Federal Court**
 
 - **(3)** Despite subsections (1) and (2), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) on any of the grounds referred to in paragraph 18.1(4)(a) or (b) of that Act for any relief against a verifier, ratification officer, arbitrator or neutral evaluator by way of an injunction or declaration or by way of an order in the nature of *certiorari*, prohibition, *mandamus* or *quo warranto*.
-> 1999, c. 24, s. 36; 2002, c. 8, s. 182; 2018, c. 27, s. 377.
+> 1999, c. 24, s. 36; 2002, c. 8, s. 182; 2018, c. 27, s. 377
 
 
 
@@ -1079,7 +1079,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application**
 
 - **(3)** A land code may extend the application of subsection 89(1.1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), or any portion of it, to other leasehold interests or leases in reserve land to which a land code applies.
-> 1999, c. 24, s. 38; 2007, c. 17, s. 17; 2012, c. 19, s. 652(E); 2018, c. 27, s. 378.
+> 1999, c. 24, s. 38; 2007, c. 17, s. 17; 2012, c. 19, s. 652(E); 2018, c. 27, s. 378
 
 
 
@@ -1096,7 +1096,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Royalties**
 
 - **(2)** For greater certainty, the provisions of the [Indian Oil and Gas Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-7.md) respecting the payment of royalties to Her Majesty in trust for a First Nation apply, despite any other provision of this Act, in respect of reserve land referred to in subsection (1).
-> 1999, c. 24, s. 39; 2007, c. 17, s. 18; 2012, c. 19, s. 652(E); 2018, c. 27, s. 379.
+> 1999, c. 24, s. 39; 2007, c. 17, s. 18; 2012, c. 19, s. 652(E); 2018, c. 27, s. 379
 
 
 
@@ -1111,7 +1111,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Migratory birds, endangered species, fisheries**
 
 - **(2)** For greater certainty, this Act does not extend or limit any right or power in relation to migratory birds, endangered species or fisheries.
-> 1999, c. 24, s. 40; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 40; 2012, c. 19, s. 652(E)
 
 
 
@@ -1124,7 +1124,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **[Emergencies Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2022%20(4th%20Supp.).md)**
 
 **42** The [Emergencies Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2022%20(4th%20Supp.).md) continues to apply to First Nation land except that any appropriation, requisition or use of First Nation land required under that Act must be expressly authorized by order of the Governor in Council.
-> 1999, c. 24, s. 42; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 42; 2012, c. 19, s. 652(E)
 
 
 
@@ -1139,7 +1139,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Expropriation provisions**
 
 - **(2)** In the event of any inconsistency or conflict between the provisions of this Act relating to expropriation and the [Nuclear Energy Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-16.md), the provisions of this Act prevail to the extent of the inconsistency or conflict.
-> 1999, c. 24, ss. 43, 47; 2012, c. 19, s. 652(E).
+> 1999, c. 24, ss. 43, 47; 2012, c. 19, s. 652(E)
 
 
 
@@ -1148,7 +1148,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 **44** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a land code, First Nation laws or an order made under subsection 25.1(1).
-> 1999, c. 24, s. 44; 2012, c. 19, s. 652(E); 2019, c. 29, s. 384.
+> 1999, c. 24, s. 44; 2012, c. 19, s. 652(E)2019, c. 29, s. 384
 
 
 
@@ -1175,7 +1175,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Deletion**
 
 - **(4)** The Minister may, by order, delete from Schedule 1 or 2 the name of a First Nation and delete from Schedule 2 the date on which a land code comes into force with respect to the First Nation’s lands, if that First Nation is no longer subject to this Act under the terms of a land claims agreement or a self-government agreement.
-> 1999, c. 24, s. 45; 2012, c. 19, s. 636; 2018, c. 27, s. 380.
+> 1999, c. 24, s. 45; 2012, c. 19, s. 636; 2018, c. 27, s. 380
 
 
 
@@ -1207,7 +1207,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Duty to inform members**
 
 - **(2)** The council of the First Nation shall, at least 30 days before the individual agreement is amended, inform the First Nation members of the council’s intention to amend the individual agreement and of the amount of capital moneys held by Her Majesty for the use and benefit of the First Nation or its First Nation members.
-> 2018, c. 27, s. 382.
+> 2018, c. 27, s. 382
 
 
 
@@ -1712,7 +1712,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 </tr>
 </table>
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; 2014, c. 11, s. 25; SOR/2014-89, 268; SOR/2016-27, 67; SOR/2017-46; 2018, c. 27, s. 383.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; 2014, c. 11, s. 25; SOR/2014-89, 268; SOR/2016-27, 67; SOR/2017-46; 2018, c. 27, s. 383
 
 
 
@@ -2077,6 +2077,37 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 </tr>
 </table>
 
-> 2018, c. 27, s. 383.
+> 2018, c. 27, s. 383
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2008, c. 32, s. 22
+
+
+**Existing interests — First Nations Land Management Act**
+
+**22** Despite section 13, if an interest in land in the Former Tsawwassen Reserve was granted or approved under the First Nations Land Management Act and exists on the effective date of the Agreement, the interest continues in effect in accordance with its terms and conditions unless a replacement interest is issued in accordance with Chapter 4 of the Agreement.
+
+
+
+######           — 2008, c. 32, s. 24
+
+
+**Indemnification of Tsawwassen First Nation**
+
+**24** For as long as the First Nations Land Management Act is in force, Her Majesty in right of Canada shall, as of the effective date of the Agreement, indemnify the Tsawwassen First Nation in respect of lands in the Former Tsawwassen Reserve in the same manner and under the same conditions as would be the case if that Act continued to apply to those lands.
+
+
+
+######           — 2008, c. 32, s. 25
+
+
+**Documents in land registries**
+
+**25** As of the effective date of the Agreement, registrations or records affecting Tsawwassen Lands that are registered or recorded in a land registry under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or the First Nations Land Management Act have no effect.
+
 
 
