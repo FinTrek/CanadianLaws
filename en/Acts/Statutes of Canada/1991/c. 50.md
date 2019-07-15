@@ -25,7 +25,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Short title**
 
 **1** This Act may be cited as the Federal Real Property and Federal Immovables Act.
-> 1991, c. 50, s. 1; 2001, c. 4, s. 10.
+> 1991, c. 50, s. 1; 2001, c. 4, s. 10
 
 
 
@@ -74,7 +74,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***Minister***, in relation to a department, means the Minister who, under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), is the appropriate Minister with respect to that department; (*ministre*)
 
 ***real property*** means land in any province other than Quebec, and land outside Canada, including mines and minerals, and buildings, structures, improvements and other fixtures on, above or below the surface of the land, and includes an interest therein. (*biens réels*)
-> 1991, c. 50, s. 2; 1992, c. 1, s. 157; 1995, c. 5, s. 26; 2001, c. 4, s. 11; 2003, c. 22, s. 224(E); 2013, c. 33, s. 191.
+> 1991, c. 50, s. 2; 1992, c. 1, s. 157; 1995, c. 5, s. 26; 2001, c. 4, s. 11; 2003, c. 22, s. 224(E); 2013, c. 33, s. 191
 
 
 
@@ -87,7 +87,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Authorization of officials**
 
 **3** Any Minister may authorize in writing an officer of the Minister’s department or of any other department, or any head of mission, to exercise on behalf of that Minister any power given by or under this Act to that Minister, including the power to sign an instrument or act.
-> 1991, c. 50, s. 3; 2001, c. 4, s. 12(E).
+> 1991, c. 50, s. 3; 2001, c. 4, s. 12(E)
 
 
 
@@ -100,7 +100,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition**
 
 **4** Subject to any other Act, no disposition or lease of federal real property or federal immovables shall be made and no licence shall be given in respect of any such property except in accordance with this Act.
-> 1991, c. 50, s. 4; 2001, c. 4, s. 13.
+> 1991, c. 50, s. 4; 2001, c. 4, s. 13
 
 
 
@@ -141,7 +141,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Effect of instrument or act**
 
 - **(7)** An instrument or act referred to in paragraph (1)(b) has the same force and effect as if the instrument or act were letters patent under the Great Seal.
-> 1991, c. 50, s. 5; 2001, c. 4, s. 15.
+> 1991, c. 50, s. 5; 2001, c. 4, s. 15
 
 
 
@@ -150,7 +150,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Execution of licences**
 
 **6** A licence in respect of federal real property or a federal immovable shall be signed by the Minister having the administration of the property.
-> 1991, c. 50, s. 6; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 6; 2001, c. 4, s. 16
 
 
 
@@ -165,7 +165,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Execution**
 
 - **(2)** A plan referred to in subsection (1) relating to any federal real property or federal immovable shall be signed by the Minister having the administration of the property and countersigned by the Minister of Justice.
-> 1991, c. 50, s. 7; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 7; 2001, c. 4, s. 16
 
 
 
@@ -182,7 +182,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** A grant of federal real property and a concession of federal immovables by letters patent or by an instrument or act referred to in paragraph 5(1)(b) shall take effect in accordance with the provisions of the letters patent, instrument or act or, if there is no provision for its taking effect, shall take effect,
 	- **(a)** where the letters patent are or the instrument or act is delivered on terms or subject to conditions, on their satisfaction or removal; and
 	- **(b)** in any other case, on delivery of the letters patent, instrument or act.
-> 1991, c. 50, s. 8; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 8; 2001, c. 4, s. 16
 
 
 
@@ -191,7 +191,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Words of limitation**
 
 **9** Where under the laws of a province other than Quebec an instrument transferring real property without words of limitation operates as an absolute transfer of all the transferor’s interest in the real property, a grant of federal real property in that province by letters patent or by an instrument referred to in paragraph 5(1)(b) operates as a conveyance of a fee simple or equivalent estate in the property although no words of limitation are used in the instrument, if Her Majesty has power to grant the fee simple or an equivalent estate in the property and no contrary intention is expressed in the instrument.
-> 1991, c. 50, s. 9; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 9; 2001, c. 4, s. 16
 
 
 
@@ -200,7 +200,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Grants or concessions to Her Majesty**
 
 **10** Her Majesty may grant federal real property and concede federal immovables to Herself.
-> 1991, c. 50, s. 10; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 10; 2001, c. 4, s. 16
 
 
 
@@ -215,7 +215,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Effect of grant, etc.**
 
 - **(2)** A grant, concession, vesting order or other conveyancing instrument or transfer act in favour of Her Majesty in respect of any real property or immovable belonging to Her Majesty in any right other than Canada results, on its acceptance, in Her Majesty having administration and control of the property.
-> 1991, c. 50, s. 11; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 11; 2001, c. 4, s. 16
 
 
 
@@ -227,7 +227,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** Her Majesty;
 - **(b)** any person through whom that interest or right was derived; or
 - **(c)** in the case of such a lessee, successor or assignee or person holding such an interest, any sublessee or licensee of that person.
-> 1991, c. 50, s. 12; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 12; 2001, c. 4, s. 16
 
 
 
@@ -240,7 +240,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Acquisition under provincial Act**
 
 **13** Except as expressly authorized by or under an Act of Parliament, no person acquires any federal real property or federal immovable by or under a provincial Act.
-> 1991, c. 50, s. 13; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 13; 2001, c. 4, s. 16
 
 
 
@@ -249,7 +249,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No title by prescription**
 
 **14** No person acquires any federal real property or federal immovable by prescription.
-> 1991, c. 50, s. 14; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 14; 2001, c. 4, s. 16
 
 
 
@@ -273,7 +273,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** The Governor in Council may, on the recommendation of the Minister of Justice and the Treasury Board, make regulations respecting
 	- **(a)** the referral of specified classes of transactions concerning real property or immovables within or outside Canada to the Minister of Justice for settlement and approval of the form and legal content of instruments or acts or for other purposes; and
 	- **(b)** the establishment and operation of a depository for the deposit of copies of instruments and acts relating to federal real property and federal immovables other than instruments and acts issued under the Great Seal.
-> 1991, c. 50, s. 15; 2001, c. 4, s. 16.
+> 1991, c. 50, s. 15; 2001, c. 4, s. 16
 
 
 
@@ -339,7 +339,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** real property or an immovable in a co-operative project, or
 	- **(c)** real property or an immovable in any similar project,
 that authorization also constitutes the authority for the acquisition of a share, membership interest or ownership interest in the relevant condominium corporation, syndicate of co-owners, co-operative corporation or similar corporation, to the extent that the acquisition of the share, membership interest or ownership interest is required by, or effected by, the law of the jurisdiction in which the project is situated.
-> 1991, c. 50, s. 16; 1994, c. 26, s. 31; 1999, c. 31, s. 96; 2001, c. 4, s. 18.
+> 1991, c. 50, s. 16; 1994, c. 26, s. 31; 1999, c. 31, s. 96; 2001, c. 4, s. 18
 
 
 
@@ -355,14 +355,14 @@ that authorization also constitutes the authority for the acquisition of a share
 
 - **(1.1)** Sections 13 to 16 and 19 of the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) apply in respect of federal real property in Yukon or the Northwest Territories that is under the administration of a minister or an agent corporation.
 
-**Administration — Minister of Indian Affairs and Northern Development**
+**Administration — Minister of Northern Affairs**
 
-- **(2)** If any federal real property in Nunavut or any federal real property that is described in subsection (1.1) is granted in fee simple under this Act, the Minister of Indian Affairs and Northern Development has the administration of any property and rights that are reserved from the grant by virtue of subsection (1) or (1.1).
+- **(2)** If any federal real property in Nunavut or any federal real property that is described in subsection (1.1) is granted in fee simple under this Act, the Minister of Northern Affairs has the administration of any property and rights that are reserved from the grant by virtue of subsection (1) or (1.1).
 
 **Administration — interest other than fee simple**
 
 - **(3)** If an interest — other than the fee simple in that federal real property — that is under the administration of a minister is granted under this Act, that minister retains the administration of the property and rights that are reserved from the grant by virtue of subsection (1) or (1.1).
-> 1991, c. 50, s. 17; 1993, c. 28, s. 78; 2001, c. 4, s. 19(F); 2002, c. 7, s. 171; 2014, c. 2, s. 42.
+> 1991, c. 50, s. 17; 1993, c. 28, s. 78; 2001, c. 4, s. 19(F); 2002, c. 7, s. 171; 2014, c. 2, s. 422019, c. 29, s. 367
 
 
 
@@ -397,7 +397,7 @@ that authorization also constitutes the authority for the acquisition of a share
 **Administration by corporation**
 
 - **(6)** If, by or under any Act or any order of the Governor in Council, a corporation has, by the use of any expression mentioned in subsection (2) or any similar expression, the right to the use of any federal real property or federal immovable, and no Minister has the administration of the property, the corporation has, for the purposes of paragraphs 16(1)(g) and (h) and (2)(g), the administration of that property.
-> 1991, c. 50, s. 18; 1999, c. 31, s. 97; 2001, c. 4, s. 20.
+> 1991, c. 50, s. 18; 1999, c. 31, s. 97; 2001, c. 4, s. 20
 
 
 
@@ -420,7 +420,7 @@ that authorization also constitutes the authority for the acquisition of a share
 **Deeming**
 
 - **(3)** Lands that on June 1, 1950 were lands in class one under the Ordnance and Admiralty Lands Act, chapter 115 of the Revised Statutes of Canada, 1927, shall be deemed to have been declared by the Governor in Council to be necessary for the defence of Canada.
-> 1991, c. 50, s. 19; 2001, c. 4, s. 21.
+> 1991, c. 50, s. 19; 2001, c. 4, s. 21
 
 
 
@@ -429,7 +429,7 @@ that authorization also constitutes the authority for the acquisition of a share
 **Grants or concessions to deceased persons not null or void**
 
 **20** A Crown grant that is issued to or in the name of a person who is deceased is not for that reason null or void, but the title to the real property or immovable intended to be granted or conceded vests in the heirs, assigns or successors, legatees or legatees by particular title, or other legal representatives of the deceased person according to the laws in force in the province in which the property is situated as if the Crown grant had issued to or in the name of the deceased person during the person’s lifetime.
-> 1991, c. 50, s. 20; 2001, c. 4, s. 22.
+> 1991, c. 50, s. 20; 2001, c. 4, s. 22
 
 
 
@@ -438,7 +438,7 @@ that authorization also constitutes the authority for the acquisition of a share
 **Correction of defective grants**
 
 **21** Where a Crown grant contains a clerical error, misnomer or incorrect or defective description, or where there is in a Crown grant an omission of the conditions of the grant, or where a Crown grant is defective for any other reason, the Minister of Justice may, if there is no adverse claim, direct the defective grant to be cancelled and a correct grant to be issued in lieu thereof, and the correct grant so issued has the same force and effect as if issued on the date of the cancelled grant.
-> 1991, c. 50, s. 21; 2001, c. 4, s. 23(F).
+> 1991, c. 50, s. 21; 2001, c. 4, s. 23(F)
 
 
 
@@ -457,7 +457,7 @@ that authorization also constitutes the authority for the acquisition of a share
 **Idem**
 
 - **(2)** No claim shall be made for relief under subsection (1) later than one year after the day on which the person making the claim becomes aware of the error.
-> 1991, c. 50, s. 22; 2001, c. 4, s. 24.
+> 1991, c. 50, s. 22; 2001, c. 4, s. 24
 
 
 
