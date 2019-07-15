@@ -68,7 +68,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 ***Minister*** means
 - **(a)** in relation to any lands in respect of which the Minister of Natural Resources has administrative responsibility for the natural resources therein, the Minister of Natural Resources, and
-- **(b)** in relation to any lands in respect of which the Minister of Indian Affairs and Northern Development has administrative responsibility for the natural resources therein, the Minister of Indian Affairs and Northern Development; (*ministre*)
+- **(b)** in relation to any lands in respect of which the Minister of Northern Affairs has administrative responsibility for the natural resources therein, the Minister of Northern Affairs; (*ministre*)
 
 ***oil*** means
 - **(a)** crude oil, regardless of gravity, produced at a well head in liquid form, and
@@ -87,7 +87,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 ***significant discovery*** means a discovery indicated by the first well on a geological feature that demonstrates by flow testing the existence of hydrocarbons in that feature and, having regard to geological and engineering factors, suggests the existence of an accumulation of hydrocarbons that has potential for sustained production; (*découverte importante*)
 
 ***significant discovery area*** means, in relation to a declaration of significant discovery made pursuant to subsection 28(1) or (2), those frontier lands described in the declaration. (*périmètre de découverte importante*)
-> R.S., 1985, c. 36 (2nd Supp.), s. 2; 1993, c. 28, s. 78; 1994, c. 41, s. 13; 1996, c. 31, s. 58; 1998, c. 5, s. 13, c. 15, s. 49; 2014, c. 2, s. 35.
+> R.S., 1985, c. 36 (2nd Supp.), s. 2; 1993, c. 28, s. 78; 1994, c. 41, s. 13; 1996, c. 31, s. 58; 1998, c. 5, s. 13, c. 15, s. 49; 2014, c. 2, s. 352019, c. 29, s. 374
 
 
 
@@ -112,7 +112,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Giving notice**
 
 **4** Where a notice is required to be given under this Act or the regulations, it shall be given in such form and manner as may be prescribed and shall contain such information as may be prescribed.
-> R.S., 1985, c. 36 (2nd Supp.), s. 4; 1992, c. 1, s. 144(F).
+> R.S., 1985, c. 36 (2nd Supp.), s. 4; 1992, c. 1, s. 144(F)
 
 
 
@@ -160,7 +160,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Remuneration**
 
 - **(2)** The members of any advisory body appointed under subsection (1) may be paid for their services such remuneration and expenses as are fixed by the Governor in Council.
-> R.S., 1985, c. 36 (2nd Supp.), s. 8; 1992, c. 35, s. 34.
+> R.S., 1985, c. 36 (2nd Supp.), s. 8; 1992, c. 35, s. 34
 
 
 
@@ -238,7 +238,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Relieving authority not affected**
 
 - **(4)** Nothing in this section affects the authority of the Minister to relieve a person from any requirement in relation to an interest or under this Act or the regulations.
-> R.S., 1985, c. 36 (2nd Supp.), s. 12; 2015, c. 4, s. 29(F); 2019, c. 8, s. 19; 2019, c. 19, s. 85.
+> R.S., 1985, c. 36 (2nd Supp.), s. 12; 2015, c. 4, s. 29(F)2019, c. 8, s. 192019, c. 19, s. 85
 
 
 
@@ -274,7 +274,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Return of deposit**
 
 - **(6)** If the interest referred to in subsection (1) is surrendered or cancelled, any deposit balance with respect to the interest held by Her Majesty in right of Canada on behalf of the interest owner shall be returned to the interest owner, less any liability, either direct or by way of indemnity, owed by the interest owner to Her Majesty in right of Canada at the time of the surrender or cancellation.
-> 2019, c. 8, s. 20.
+> 2019, c. 8, s. 20
 
 
 
@@ -293,7 +293,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **No compensation**
 
 - **(3)** A person shall not have any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any servant or agent or mandatary of Her Majesty in right of Canada for any acquired, vested, future or potential right or entitlement that is affected by a surrender or cancellation of an interest referred to in subsection 12.1(1), other than compensation that may be granted to an interest owner under this section.
-> 2019, c. 8, s. 20.
+> 2019, c. 8, s. 20
 
 
 
@@ -421,7 +421,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **Manner of publication of notices**
 
-**19** Any notice required to be published by the Minister pursuant to subsection 14(1), 15(2) or (4), 17(2) or 25(2) shall be published in the Canada Gazette and in any other publication the Minister deems appropriate and, notwithstanding those subsections, may contain only a summary of the information required to be published and a statement that the full text thereof is available for inspection by any person on request made to the Minister.
+**19** Any notice required to be published by the Minister pursuant to subsection 14(1), 15(2) or (4), 17(2) or 25(2) shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and in any other publication the Minister deems appropriate and, notwithstanding those subsections, may contain only a summary of the information required to be published and a statement that the full text thereof is available for inspection by any person on request made to the Minister.
 
 
 
@@ -440,7 +440,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Benefits plan**
 
 **21** No work or activity on any frontier lands that are subject to an interest shall be commenced until the Minister has approved, or waived the requirement of approval of, a benefits plan in respect of the work or activity pursuant to subsection 5.2(2) of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md).
-> R.S., 1985, c. 36 (2nd Supp.), s. 21; 1992, c. 35, s. 35.
+> R.S., 1985, c. 36 (2nd Supp.), s. 21; 1992, c. 35, s. 35
 
 
 
@@ -589,7 +589,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Delegation**
 
 - **(8)** The National Energy Board may delegate any of its powers under this section to a member, officer or employee of the Board, who shall exercise the powers in accordance with the terms of the delegation.
-> R.S., 1985, c. 36 (2nd Supp.), s. 28; 1994, c. 10, s. 16; 2015, c. 4, s. 30(F).
+> R.S., 1985, c. 36 (2nd Supp.), s. 28; 1994, c. 10, s. 16; 2015, c. 4, s. 30(F)
 
 
 
@@ -685,7 +685,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Definition of well termination date**
 
 - **(5)** For the purposes of subsection (3), ***well termination date*** means the date on which a well has been abandoned, completed or suspended in accordance with any applicable drilling regulations.
-> R.S., 1985, c. 36 (2nd Supp.), s. 33; 2015, c. 4, s. 31.
+> R.S., 1985, c. 36 (2nd Supp.), s. 33; 2015, c. 4, s. 31
 
 
 
@@ -734,7 +734,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Delegation**
 
 - **(5)** The National Energy Board may delegate any of its powers under this section to a member, officer or employee of the Board, who shall exercise the powers in accordance with the terms of the delegation.
-> R.S., 1985, c. 36 (2nd Supp.), s. 35; 1994, c. 10, s. 17; 2015, c. 4, s. 32.
+> R.S., 1985, c. 36 (2nd Supp.), s. 35; 1994, c. 10, s. 17; 2015, c. 4, s. 32
 
 
 
@@ -769,7 +769,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Extension of period**
 
 - **(6)** The Minister may extend the period specified in an order made under subsection (3) or may revoke the order.
-> R.S., 1985, c. 36 (2nd Supp.), s. 36; 2015, c. 4, s. 33.
+> R.S., 1985, c. 36 (2nd Supp.), s. 36; 2015, c. 4, s. 33
 
 
 
@@ -813,7 +813,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Terms and conditions of production licence**
 
 - **(3)** A production licence shall be in the form prescribed and may contain any terms and conditions, not inconsistent with this Act or the regulations, as may be agreed on by the Minister and the interest owner of the production licence.
-> R.S., 1985, c. 36 (2nd Supp.), s. 38; 1993, c. 47, s. 1.
+> R.S., 1985, c. 36 (2nd Supp.), s. 38; 1993, c. 47, s. 1
 
 
 
@@ -899,7 +899,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Qualification for production licence**
 
 **44** No production licence or share in a production licence may be held by any person other than a corporation incorporated in Canada.
-> R.S., 1985, c. 36 (2nd Supp.), s. 44; 1993, c. 47, s. 2.
+> R.S., 1985, c. 36 (2nd Supp.), s. 44; 1993, c. 47, s. 2
 
 
 
@@ -1067,7 +1067,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Hearing in private**
 
 - **(5)** Proceedings in an appeal to the Federal Court under subsection (1) may be held in private on request made to the Court by a party to the appeal.
-> R.S., 1985, c. 36 (2nd Supp.), s. 63; 2002, c. 8, s. 182.
+> R.S., 1985, c. 36 (2nd Supp.), s. 63; 2002, c. 8, s. 182
 
 
 
@@ -1093,7 +1093,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **References to Federal Court**
 
 **65** Where the Minister and the holder of a share in a production licence agree in writing that a question of law, fact or mixed law and fact arising under this Part should be determined by the Federal Court, that question shall be determined by the Court pursuant to subsection 17(3) or (4) of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
-> R.S., 1985, c. 36 (2nd Supp.), s. 65; 2002, c. 8, s. 182.
+> R.S., 1985, c. 36 (2nd Supp.), s. 65; 2002, c. 8, s. 182
 
 
 
@@ -1166,7 +1166,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **71** Notwithstanding any other provision of this Act or the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), where a person is in default in accordance with the regulations in the payment of any amount payable under this Part in respect of any interest issued in relation to any frontier lands, the Minister may, for so long as the amount remains unpaid, refuse
 - **(a)** to issue to that person any interest in relation to any frontier lands; and
 - **(b)** to authorize, pursuant to the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), that person to carry on any work or activity related to the exploration for or the production of petroleum on any frontier lands and may suspend any such authorization already given.
-> R.S., 1985, c. 36 (2nd Supp.), s. 71; 1992, c. 35, s. 37.
+> R.S., 1985, c. 36 (2nd Supp.), s. 71; 1992, c. 35, s. 37
 
 
 
@@ -1177,10 +1177,10 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **72** Sections 231 to 231.5 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) apply, with such modifications as the circumstances require, in respect of the administration and enforcement of this Part and, without restricting the generality of the foregoing, as if
 - **(a)** the references therein to “tax” were read as a reference to “royalty”;
 - **(b)** the references therein to “Minister” were read as a reference to “Minister” as defined in section 2 of this Act;
-- **(c)** the references therein to the “Canada Revenue Agency” were read as a reference to the “Department of Natural Resources” or the “Department of Indian Affairs and Northern Development”, whichever is applicable in the circumstances;
+- **(c)** the references therein to the “Canada Revenue Agency” were read as a reference to the “Department of Natural Resources” or the “Department of Indigenous Services”, whichever is applicable in the circumstances;
 - **(d)** the references therein to the “Tax Court of Canada” were read as a reference to the “Federal Court”; and
 - **(e)** the references therein to a “return of income or a supplementary return” were read as a reference to “a report or return” filed pursuant to this Part.
-> R.S., 1985, c. 36 (2nd Supp.), s. 72; 1994, c. 41, s. 14; 1999, c. 17, s. 113; 2005, c. 38, s. 138.
+> R.S., 1985, c. 36 (2nd Supp.), s. 72; 1994, c. 41, s. 14; 1999, c. 17, s. 113; 2005, c. 38, s. 1382019, c. 29, s. 372
 
 
 
@@ -1234,8 +1234,8 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 ***Fund*** means the Environmental Studies Research Fund (NR) established under subsection 76(1) or the Environmental Studies Research Fund (IAND) established under that subsection, or both, as the context requires; (*fonds*)
 
-***Minister*** means the Minister of Natural Resources or the Minister of Indian Affairs and Northern Development, or both, as the context requires. (*ministre*)
-> R.S., 1985, c. 36 (2nd Supp.), s. 75; 1994, c. 41, s. 15.
+***Minister*** means the Minister of Natural Resources or the Minister of Northern Affairs, or both, as the context requires. (*ministre*)
+> R.S., 1985, c. 36 (2nd Supp.), s. 75; 1994, c. 41, s. 152019, c. 29, s. 374
 
 
 
@@ -1247,12 +1247,12 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 - **(1)** There shall be established in the accounts of Canada
 	- **(a)** an account under the administrative responsibility of the Minister of Natural Resources, to be known as the Environmental Studies Research Fund (NR), which shall include a sub-account for each prescribed region of frontier lands within the area under that Minister’s responsibility; and
-	- **(b)** an account under the administrative responsibility of the Minister of Indian Affairs and Northern Development, to be known as the Environmental Studies Research Fund (IAND), which shall include a sub-account for each prescribed region of frontier lands within the area under that Minister’s responsibility.
+	- **(b)** an account under the administrative responsibility of the Minister of Northern Affairs, to be known as the Environmental Studies Research Fund (IAND), which shall include a sub-account for each prescribed region of frontier lands within the area under that Minister’s responsibility.
 
 **Purpose of Funds**
 
 - **(2)** The purpose of the Funds is to finance environmental and social studies pertaining to the manner in which, and the terms and conditions under which, exploration, development and production activities on frontier lands authorized under this Act or any other Act of Parliament should be conducted.
-> R.S., 1985, c. 36 (2nd Supp.), s. 76; 1994, c. 41, s. 16.
+> R.S., 1985, c. 36 (2nd Supp.), s. 76; 1994, c. 41, s. 162019, c. 29, s. 374
 
 
 
@@ -1320,7 +1320,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Expenses**
 
 - **(7)** Each member of the Board shall be paid reasonable travel and living expenses incurred by the member in the exercise of the powers and the performance of the duties and functions of the Board under this Part.
-> R.S., 1985, c. 36 (2nd Supp.), s. 78; 2003, c. 22, s. 131(E).
+> R.S., 1985, c. 36 (2nd Supp.), s. 78; 2003, c. 22, s. 131(E)
 
 
 
@@ -1381,7 +1381,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Recommendations**
 
 - **(2)** In fixing a rate under subsection (1), the Minister is not bound by a recommendation of the Board.
-> R.S., 1985, c. 36 (2nd Supp.), s. 80; 1993, c. 34, s. 16.
+> R.S., 1985, c. 36 (2nd Supp.), s. 80; 1993, c. 34, s. 16
 
 
 
@@ -1468,7 +1468,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 ***Deputy Registrar*** means
 - **(a)** in relation to any area in respect of which the Minister of Natural Resources has administrative responsibility for the natural resources therein, such person as that Minister may designate, and
-- **(b)** in relation to any area in respect of which the Minister of Indian Affairs and Northern Development has administrative responsibility for the natural resources therein, such person as that Minister may designate; (*directeur adjoint*)
+- **(b)** in relation to any area in respect of which the Minister of Northern Affairs has administrative responsibility for the natural resources therein, such person as that Minister may designate; (*directeur adjoint*)
 
 ***discharge*** means a notice of the discharge of a security notice or postponement and includes a partial discharge; (*mainlevée*)
 
@@ -1485,7 +1485,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 ***Registrar*** means
 - **(a)** in relation to any area in respect of which the Minister of Natural Resources has administrative responsibility for the natural resources therein, such person as that Minister may designate, and
-- **(b)** in relation to any area in respect of which the Minister of Indian Affairs and Northern Development has administrative responsibility for the natural resources therein, such person as that Minister may designate; (*directeur*)
+- **(b)** in relation to any area in respect of which the Minister of Northern Affairs has administrative responsibility for the natural resources therein, such person as that Minister may designate; (*directeur*)
 
 ***secured party*** means the person claiming a security interest under a security notice; (*partie garantie*)
 
@@ -1503,7 +1503,7 @@ and includes a security given under section 426 of the [Bank Act](/en/Acts/Statu
 **Assignees deemed secured parties**
 
 - **(2)** Where an assignment of security interest is registered under this Part, a reference in this Part to a secured party shall, in respect of the security notice to which the assignment of security interest relates, be read as a reference to the assignee named in the assignment of security interest.
-> R.S., 1985, c. 36 (2nd Supp.), s. 84, c. 21 (4th Supp.), s. 3; 1991, c. 46, s. 587; 1994, c. 41, s. 17.
+> R.S., 1985, c. 36 (2nd Supp.), s. 84, c. 21 (4th Supp.), s. 3; 1991, c. 46, s. 587; 1994, c. 41, s. 172019, c. 29, s. 374
 
 
 
@@ -1883,7 +1883,7 @@ have passed;
 **Exception**
 
 - **(11)** Subsections (8) to (10) do not apply in respect of the classes of information or documentation described in paragraphs (7)(a) to (e) and (i).
-> R.S., 1985, c. 36 (2nd Supp.), s. 101, c. 21 (4th Supp.), s. 4; 1992, c. 35, s. 38; 1994, c. 10, s. 18; 2007, c. 35, s. 151; 2014, c. 2, s. 36; 2015, c. 4, s. 34.
+> R.S., 1985, c. 36 (2nd Supp.), s. 101, c. 21 (4th Supp.), s. 4; 1992, c. 35, s. 38; 1994, c. 10, s. 18; 2007, c. 35, s. 151; 2014, c. 2, s. 36; 2015, c. 4, s. 34
 
 
 
@@ -1933,7 +1933,7 @@ have passed;
 **Court to take precautions against disclosing**
 
 - **(9)** In any proceedings before the Federal Court arising from an application made in accordance with subsection (7), the Court shall take every reasonable precaution, including, when appropriate, conducting hearings *in camera*, to avoid the disclosure by the Court or any person of any information or documentation that, under this Act, is privileged or is not to be disclosed.
-> 2015, c. 4, s. 35.
+> 2015, c. 4, s. 35
 
 
 
@@ -1962,7 +1962,7 @@ have passed;
 **Arbitration order**
 
 - **(3)** An order of an arbitrator made pursuant to arbitration under subsection (1) is binding on all interest holders specified in the order from the date specified in the order, and the terms and conditions of the order are deemed to be terms and conditions of the interest to which the matters relate.
-> R.S., 1985, c. 36 (2nd Supp.), s. 103; 1992, c. 35, s. 40.
+> R.S., 1985, c. 36 (2nd Supp.), s. 103; 1992, c. 35, s. 40
 
 
 
@@ -1980,7 +1980,7 @@ have passed;
 **Application of regulations**
 
 - **(2)** Regulations made under subsection (1) may apply generally to all frontier lands or any portion thereof.
-> R.S., 1985, c. 36 (2nd Supp.), s. 104; 1992, c. 35, s. 41.
+> R.S., 1985, c. 36 (2nd Supp.), s. 104; 1992, c. 35, s. 41
 
 
 
@@ -1999,7 +1999,7 @@ have passed;
 **Default**
 
 - **(2)** Notwithstanding anything in this Act, where an interest owner or holder fails to comply with a notice under subsection (1) within the period specified in the notice and the Minister considers that the failure to comply warrants cancellation of the interest of the interest owner or holder or any share in the interest held by the holder with respect to a portion only of the frontier lands subject to the interest, the Minister may, by order subject to section 106, cancel that interest or share, and where the interest or share is so cancelled, the frontier lands thereunder become Crown reserve lands.
-> R.S., 1985, c. 36 (2nd Supp.), s. 105; 1992, c. 35, s. 42.
+> R.S., 1985, c. 36 (2nd Supp.), s. 105; 1992, c. 35, s. 42
 
 
 
@@ -2052,7 +2052,7 @@ have passed;
 **Judicial review**
 
 - **(10)** Any order, decision or action in respect of which a hearing is held under this section is subject to judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
-> R.S., 1985, c. 36 (2nd Supp.), s. 106; 1990, c. 8, s. 47; 1992, c. 35, s. 43; 2002, c. 8, s. 182.
+> R.S., 1985, c. 36 (2nd Supp.), s. 106; 1990, c. 8, s. 47; 1992, c. 35, s. 43; 2002, c. 8, s. 182
 
 
 
@@ -2085,12 +2085,12 @@ have passed;
 
 **Publication of proposed regulations**
 
-- **(2)** Subject to subsection (3), a copy of each regulation that the Governor in Council proposes to make under this Act shall be published in the Canada Gazette and a reasonable opportunity shall be afforded to interested persons to make representations to the Minister with respect thereto.
+- **(2)** Subject to subsection (3), a copy of each regulation that the Governor in Council proposes to make under this Act shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and a reasonable opportunity shall be afforded to interested persons to make representations to the Minister with respect thereto.
 
 **Single publication required**
 
 - **(3)** No proposed regulation need be published more than once under subsection (2) whether or not it is altered or amended after such publication as a result of representations made by interested persons as provided in that subsection.
-> R.S., 1985, c. 36 (2nd Supp.), s. 107; 2015, c. 4, s. 36.
+> R.S., 1985, c. 36 (2nd Supp.), s. 107; 2015, c. 4, s. 36
 
 
 
@@ -2178,7 +2178,7 @@ have passed;
 - **(2)** All interests provided by the [Canada Oil and Gas Land Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201518.md) that are in force on the coming into force of this section continue in force subject to sections 113 to 116.
 
 - **(3) to (7)** [Repealed, 1991, c. 10, s. 20]
-> R.S., 1985, c. 36 (2nd Supp.), s. 112; 1991, c. 10, ss. 19, 20.
+> R.S., 1985, c. 36 (2nd Supp.), s. 112; 1991, c. 10, ss. 19, 20
 
 
 
@@ -2226,7 +2226,7 @@ have passed;
 **Idem**
 
 - **(5)** Notwithstanding any other provision of this Act, the Norman Wells Agreement of 1944 and the Norman Wells Expansion Agreement of 1983 shall continue in force in accordance with the terms and conditions of those Agreements, as amended by the Norman Wells Amending Agreement of 1994, and sections 1 to 117 do not apply to any of those Agreements.
-> R.S., 1985, c. 36 (2nd Supp.), s. 114; 1994, c. 36, s. 1.
+> R.S., 1985, c. 36 (2nd Supp.), s. 114; 1994, c. 36, s. 1
 
 
 
@@ -2290,7 +2290,7 @@ have passed;
 **Interpretation**
 
 - **(6)** The division of an interest and the assignment of new numbers under this section shall be construed as a continuation of that interest and not as the issuance of new interests.
-> 1998, c. 5, s. 14.
+> 1998, c. 5, s. 14
 
 
 
@@ -2313,7 +2313,7 @@ have passed;
 **Definition of offshore**
 
 - **(4)** In this section, ***offshore*** has the same meaning as in section 48.01 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md).
-> 2014, c. 2, s. 37.
+> 2014, c. 2, s. 37
 
 
 
@@ -2342,5 +2342,191 @@ have passed;
 **Idem**
 
 - **(2)** Section 116 shall be deemed to have come into force on March 5, 1982.
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 28, s. 147
+
+
+**
+> 1994, c. 10, s. 16(3)
+**
+
+**147** Subsection 28(7) of the Canada Petroleum Resources Act is replaced by the following:
+
+**Procedures**
+
+- **(7)** The procedures described in section 382 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) apply to the making, amendment and revocation of a declaration under this section.
+
+
+
+######           — 2019, c. 28, s. 148
+
+
+**
+> 1994, c. 10, s. 17(2)
+**
+
+**148** Subsection 35(4) of the Act is replaced by the following:
+
+**Procedures**
+
+- **(4)** The procedures described in section 382 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) apply to the making, amendment or revocation of a declaration under this section.
+
+
+
+######           — 2019, c. 28, s. 149
+
+
+**
+> 1994, c. 10, s. 18; 2007, c. 35, s. 151
+**
+
+**149** 
+
+- **(1)** Subsections 101(2) to (3) of the Act are replaced by the following:
+
+**Privileged information or documentation**
+
+- **(2)** Subject to this section, information or documentation is privileged if it is provided for the purposes of this Act or the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), other than Part 0.1 of that Act, or any regulation made under either Act, or for the purposes of Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md), whether or not the information or documentation is required to be provided.
+
+**Disclosure**
+
+- **(2.1)** Subject to this section, information or documentation that is privileged under subsection (2) shall not knowingly be disclosed without the consent in writing of the person who provided it, except for the purposes of the administration or enforcement of this Act, the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) or for the purposes of legal proceedings relating to its administration or enforcement.
+
+**Production and evidence**
+
+- **(3)** No person shall be required to produce or give evidence relating to any information or documentation that is privileged under subsection (2) in connection with any legal proceedings, other than proceedings relating to the administration or enforcement of this Act, the Oil and Gas Production and Conservation Act or Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md).
+
+**
+> 2015, c. 4, s. 34(8)
+**
+
+- **(2)** The portion of subsection 101(10) of the Act before paragraph (a) is replaced by the following:
+
+**Safety or environmental protection**
+
+- **(10)** Subject to section 101.1, the Commission of the Canadian Energy Regulator or a person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) may disclose all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 5(1) of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or to an operating licence or authorization that is issued under that subsection or provided in accordance with any regulation made under that Act. The Commission or person is not, however, permitted to disclose information or documentation if they are satisfied that
+
+
+
+######           — 2019, c. 28, s. 150
+
+
+**
+> 2015, c. 4, s. 35
+**
+
+**150** 
+
+- **(1)** Subsection 101.1(1) of the Act is replaced by the following:
+
+**Notice — subsection 101(10)**
+
+**101.1** 
+
+- **(1)** If the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) intends to disclose any information or documentation under subsection 101(10), they shall make every reasonable effort to give the person who provided it written notice of their intention to disclose it.
+
+
+
+**
+> 2015, c. 4, s. 35
+**
+
+- **(2)** Paragraph 101.1(3)(a) of the Act is replaced by the following:
+
+- **(a)** a statement that the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) intends to disclose information or documentation under subsection 101(10);
+
+
+
+**
+> 2015, c. 4, s. 35
+**
+
+- **(3)** Paragraph 101.1(3)(c) of the Act is replaced by the following:
+
+- **(c)** a statement that the person may, within 20 days after the day on which the notice is given, make written representations to the Commission or the person as to why the information or documentation, or a portion of it, should not be disclosed.
+
+
+
+**
+> 2015, c. 4, s. 35
+**
+
+- **(4)** The portion of subsection 101.1(4) of the Act before paragraph (a) is replaced by the following:
+
+**Representations**
+
+- **(4)** If a notice is given to a person under subsection (1), the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) shall
+
+**
+> 2015, c. 4, s. 35
+**
+
+- **(5)** Paragraph 101.1(4)(a) of the English version of the Act is replaced by the following:
+
+- **(a)** give the person the opportunity to make, within 20 days after the day on which the notice is given, written representations to the the Commission or the person as to why the information or documentation, or a portion of it, should not be disclosed; and
+
+
+
+**
+> 2015, c. 4, s. 35
+**
+
+- **(6)** Paragraph 101.1(5)(b) of the Act is replaced by the following:
+
+- **(b)** a statement that if no review is requested under subsection (7) within 20 days after the notice is given, the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) must disclose the information or documentation.
+
+
+
+**
+> 2015, c. 4, s. 35
+**
+
+- **(7)** Subsection 101.1(6) of the Act is replaced by the following:
+
+**Disclosure of information or documentation**
+
+- **(6)** If, under paragraph (4)(b), the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) decides to disclose the information or documentation, the Commission or the person must disclose it on the expiry of 20 days after a notice is given under that paragraph, unless a review of the decision is requested under subsection (7).
+
+**
+> 2015, c. 4, s. 35
+**
+
+- **(8)** Subsection 101.1(7) of the English version of the Act is replaced by the following:
+
+**Review**
+
+- **(7)** Any person to whom the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after day on which the notice is given, apply to the Federal Court for a review of the decision.
+
+
+
+######           — 2019, c. 28, s. 151
+
+
+**
+> 2015, c. 4, s. 36(1)
+**
+
+**151** Paragraphs 107(1)(c.1) and (c.2) of the Act are replaced by the following:
+
+- **(c.1)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid for the provision, by the Commission of the Canadian Energy Regulator, the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or the Minister, of a service or a product under this Act;
+- **(c.2)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid by a holder of an interest or a share in an interest in respect of any of activities under or related to this Act that are carried out by the Commission of the Canadian Energy Regulator, the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or the Minister;
+
+
+
+
+
+######           — 2019, c. 28, s. 152
+
+**152** 
+
+- **(1)** The Act is amended by replacing “National Energy Board” and “Board” with “Canadian Energy Regulator” and “Regulator”, respectively, in subsections 101(6.1) to (6.3).
+
+- **(2)** The Act is amended by replacing “National Energy Board” and “Board” with “Commission of the Canadian Energy Regulator” and “Commission”, respectively, in subsections 28(1), (2), (4) and (8), 33(1), 35(1), (2) and (5) and 36(1).
+
 
 
