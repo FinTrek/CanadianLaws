@@ -53,7 +53,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***membre*** Relativement à une première nation participante, personne dont le nom figure sur la liste de bande tenue pour cette première nation en application de l’article 8 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ou qui a droit à ce que son nom y figure. (*member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Services aux Autochtones. (*Minister*)
 
 ***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*First Nation*)
 
@@ -64,6 +64,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***président d’élection adjoint*** La personne nommée à ce titre en conformité avec les règlements. (*deputy electoral officer*)
 
 ***réserve*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*reserve*)
+> 2014, ch. 5, art. 22019, ch. 29, art. 375
+
 
 
 
