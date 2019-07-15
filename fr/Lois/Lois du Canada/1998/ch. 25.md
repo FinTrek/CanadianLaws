@@ -85,7 +85,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi tlicho*** Toute règle de droit établie par le gouvernement tlicho. (*Tlicho law*)
 
-***ministre fédéral*** Le ministre des Affaires indiennes et du Nord canadien. (*federal Minister*)
+***ministre fédéral*** Le ministre des Affaires du Nord. (*federal Minister*)
 
 ***ministre territorial*** Le ministre du gouvernement territorial désigné, par acte du Conseil exécutif des Territoires du Nord-Ouest, pour l’application de telle disposition de la présente loi. (*territorial Minister*)
 
@@ -114,7 +114,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***vallée du Mackenzie*** La partie des Territoires du Nord-Ouest située au nord du soixantième parallèle, à l’est de la limite du Yukon, au sud de la limite de la région inuvialuit désignée — au sens de l’accord mis en vigueur par la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md) — et à l’ouest de la limite de la région du Nunavut, au sens de la [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md). Est exclu le parc national Wood Buffalo du Canada. (*Mackenzie Valley*)
 
 ***Wekeezhii*** La zone décrite à la partie 2 de l’annexe du chapitre 1 de l’accord tlicho. (*Wekeezhii*)
-> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A); 2005, ch. 1, art. 15; 2014, ch. 2, art. 113; 2015, ch. 24, art. 22.
+> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A); 2005, ch. 1, art. 15; 2014, ch. 2, art. 113; 2015, ch. 24, art. 222019, ch. 29, art. 374
 
 
 
@@ -156,7 +156,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** tout ministère ou organisme administratif fédéral ou territorial;
 	- **c)** tout organisme public constitué sous le régime d’une loi fédérale ou d’une règle de droit territoriale;
 	- **d)** toute autre entité.
-> 1998, ch. 25, art. 4; 2005, ch. 1, art. 16; 2014, ch. 2, art. 114; 2015, ch. 24, art. 23.
+> 1998, ch. 25, art. 4; 2005, ch. 1, art. 16; 2014, ch. 2, art. 114; 2015, ch. 24, art. 23
 
 
 
@@ -171,7 +171,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits des autochtones**
 
 - **(2)** Il est entendu que la présente loi ne porte pas atteinte à la protection des droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada découlant de leur reconnaissance et de leur confirmation au titre de l’article 35 de la Loi constitutionnelle de 1982.
-> 1998, ch. 25, art. 5; 2015, ch. 24, art. 24.
+> 1998, ch. 25, art. 5; 2015, ch. 24, art. 24
 
 
 
@@ -180,7 +180,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accord entre le gouvernement tlicho et un peuple autochtone**
 
 **5.1** Les droits de la première nation tlicho, des citoyens tlichos et du gouvernement tlicho prévus par la présente loi sont assujettis à tout accord conclu entre le gouvernement tlicho et un peuple autochtone, autre que la première nation tlicho, en vertu de l’article 2.7.3 de l’accord tlicho.
-> 2005, ch. 1, art. 17.
+> 2005, ch. 1, art. 17
 
 
 
@@ -212,7 +212,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlement**
 
 - **(3)** Le gouverneur en conseil peut, par règlement, exclure tout délai réglementaire autre que celui visé à l’alinéa (2)a) de l’application du paragraphe (1).
-> 2014, ch. 2, art. 115.
+> 2014, ch. 2, art. 115
 
 
 
@@ -232,7 +232,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de Sa Majesté**
 
 **7** La présente loi lie Sa Majesté du chef du Canada ou d’une province mais n’a pas pour effet d’imposer à Sa Majesté du chef du Canada le paiement des droits fixés par règlement pris en vertu de l’alinéa 90.3(1)k) ou du sous-alinéa 90.3(2)a)(i).
-> 1998, ch. 25, art. 7; 2014, ch. 2, art. 116.
+> 1998, ch. 25, art. 7; 2014, ch. 2, art. 116
 
 
 
@@ -241,7 +241,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dévolution**
 
 **7.1** Sous réserve des droits, pouvoirs ou privilèges accordés sous le régime de la [Loi sur les forces hydrauliques du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-4.md) — ou sauvegardés par cette loi —, la propriété et le droit d’utilisation des eaux et de leur énergie motrice sont dévolus à Sa Majesté du chef du Canada.
-> 2014, ch. 2, art. 116.
+> 2014, ch. 2, art. 116
 
 
 
@@ -250,7 +250,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de respecter d’autres exigences**
 
 **7.2** Sauf dans la mesure autorisée par une autre loi, ses règlements ou un décret ou arrêté pris sous son régime, il est entendu que la présente loi, ses règlements ou un permis d’utilisation des eaux ou permis d’utilisation des terres, au sens de l’article 51, n’ont pas pour effet d’autoriser une personne à contrevenir à cette autre loi ou aux règlements, décrets ou arrêtés pris sous son régime, ou à ne pas s’y conformer.
-> 2014, ch. 2, art. 116.
+> 2014, ch. 2, art. 116
 
 
 
@@ -265,7 +265,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Examen de la loi**
 
 - **(2)** Il est aussi tenu, dans le cadre des négociations relatives à l’autonomie gouvernementale de toute première nation, de procéder, en collaboration avec celle-ci, à l’examen des dispositions pertinentes de la présente loi.
-> 1998, ch. 25, art. 8; 2005, ch. 1, art. 18; 2015, ch. 24, art. 25.
+> 1998, ch. 25, art. 8; 2005, ch. 1, art. 18; 2015, ch. 24, art. 25
 
 
 
@@ -310,7 +310,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suppléants**
 
 - **(2)** Il peut aussi nommer, soit parmi les candidats qui lui sont proposés à cet effet par les premières nations, soit après consultation de celles-ci, des suppléants chargés d’exercer, en cas d’absence ou d’incapacité, les fonctions des membres nommés sur telle proposition ou après telle consultation, selon le cas. Quant aux suppléants des autres membres, ils sont nommés par le ministre fédéral avec l’accord du ministre territorial. Le présent paragraphe ne s’applique pas à l’Office des terres et des eaux du Wekeezhii.
-> 1998, ch. 25, art. 11; 2005, ch. 1, art. 19.
+> 1998, ch. 25, art. 11; 2005, ch. 1, art. 19
 
 
 
@@ -333,7 +333,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérim**
 
 - **(3)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, l’intérim est assuré, avec plein exercice de ses attributions, par le membre que peut désigner l’office.
-> 1998, ch. 25, art. 12; 2005, ch. 1, art. 20.
+> 1998, ch. 25, art. 12; 2005, ch. 1, art. 20
 
 
 
@@ -363,7 +363,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation par le gouvernement tlicho après consultation**
 
 - **(4)** La révocation d’un membre de l’Office des terres et des eaux du Wekeezhii nommé par le gouvernement tlicho est subordonnée à la consultation, par celui-ci, de l’Office et du ministre fédéral.
-> 1998, ch. 25, art. 14; 2005, ch. 1, art. 21.
+> 1998, ch. 25, art. 14; 2005, ch. 1, art. 21
 
 
 
@@ -372,7 +372,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en œuvre du droit de représentation d’un autre peuple autochtone**
 
 **15** Malgré toute autre disposition de la présente loi concernant ses membres, l’office, pour la prise de toute décision qui peut toucher une région qui ne relève pas de sa compétence, détermine la manière de mettre en oeuvre, conformément à l’accord de revendication applicable, tout droit de représentation du peuple autochtone qui utilise les ressources de cette région conféré par cet accord, à la condition que le nombre de membres nommés sur la proposition d’une première nation, de membres nommés par le gouvernement tlicho ou sur la proposition du gouvernement tlicho, de membres nommés après consultation, par le ministre fédéral, des premières nations des régions de la vallée du Mackenzie situées à l’extérieur des régions désignées et du Wekeezhii et de membres dont la nomination temporaire est nécessaire pour mettre en oeuvre ce droit demeure égal au nombre des autres membres, exception faite du président.
-> 1998, ch. 25, art. 15; 2005, ch. 1, art. 22; 2019, ch. 19, art. 2.
+> 1998, ch. 25, art. 15; 2005, ch. 1, art. 222019, ch. 19, art. 2
 
 
 
@@ -387,7 +387,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Statut et droits conférés par accord**
 
 - **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in, de l’accord du Sahtu, de l’accord tlicho ou de tout autre accord relatif aux revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada, soit de l’accord de Deline.
-> 1998, ch. 25, art. 16; 2005, ch. 1, art. 23; 2015, ch. 24, art. 26.
+> 1998, ch. 25, art. 16; 2005, ch. 1, art. 23; 2015, ch. 24, art. 26
 
 
 
@@ -402,7 +402,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Frais**
 
 - **(2)** Ces membres sont indemnisés, selon des règles compatibles avec les directives du Conseil du Trésor, des frais de déplacement et de séjour faits dans l’exercice de leurs fonctions hors du lieu de leur résidence habituelle.
-> 1998, ch. 25, art. 17; 2005, ch. 1, art. 24; 2014, ch. 2, art. 123.
+> 1998, ch. 25, art. 17; 2005, ch. 1, art. 24; 2014, ch. 2, art. 123
 
 
 
@@ -424,7 +424,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 **19** Les membres de l’office et son personnel sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et occuper un emploi au sein de l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 1998, ch. 25, art. 19; 2003, ch. 22, art. 224(A).
+> 1998, ch. 25, art. 19; 2003, ch. 22, art. 224(A)
 
 
 
@@ -433,7 +433,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion de la responsabilité personnelle**
 
 **20** Les membres de l’office et son personnel ne peuvent être tenus pour personnellement responsables des faits — actes ou omissions — accomplis de bonne foi dans l’exercice, même présumé, des attributions prévues par la présente loi.
-> 1998, ch. 25, art. 20; 2014, ch. 2, art. 124.
+> 1998, ch. 25, art. 20; 2014, ch. 2, art. 124
 
 
 
@@ -459,7 +459,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renseignements**
 
 **22** L’office peut, sous réserve de toute autre règle de droit fédérale ou territoriale, de toute loi tlicho et de toute loi de Deline, obtenir des ministères et organismes des gouvernements fédéral et territorial, du gouvernement tlicho ou du gouvernement Gotine de Deline, les renseignements qui sont en leur possession et dont il a besoin pour l’exercice de ses attributions.
-> 1998, ch. 25, art. 22; 2005, ch. 1, art. 25; 2015, ch. 24, art. 27.
+> 1998, ch. 25, art. 22; 2005, ch. 1, art. 25; 2015, ch. 24, art. 27
 
 
 
@@ -475,7 +475,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Audiences**
 
 **24** L’office peut tenir, outre les audiences dont la tenue est prévue par la présente loi, celles qu’il estime utiles à l’exercice de ses attributions.
-> 1998, ch. 25, art. 24; 2005, ch. 1, art. 26; 2014, ch. 2, art. 125(F).
+> 1998, ch. 25, art. 24; 2005, ch. 1, art. 26; 2014, ch. 2, art. 125(F)
 
 
 
@@ -490,7 +490,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** les comités de gestion de zones protégées au sens d’un accord de revendication ou les organismes semblables;
 - **e)** les offices des ressources renouvelables constitués en vertu d’un accord de revendication;
 - **f)** les organismes d’aménagement territorial constitués pour le Wekeezhii ou une partie de celui-ci.
-> 2005, ch. 1, art. 26; 2014, ch. 2, art. 126(F).
+> 2005, ch. 1, art. 26; 2014, ch. 2, art. 126(F)
 
 
 
@@ -528,7 +528,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Financement**
 
 - **(5)** Le ministre fédéral peut conclure avec l’office une entente concernant son financement et précisant les modalités de versement des sommes prévues par le budget qu’il a approuvé.
-> 1998, ch. 25, art. 26; 2017, ch. 26, art. 62.
+> 1998, ch. 25, art. 26; 2017, ch. 26, art. 62
 
 
 
@@ -579,7 +579,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Préavis**
 
-- **(2)** L’office publie, dans la Gazette du Canada et dans un journal distribué dans la vallée du Mackenzie, un avis de son intention d’établir des règles qui invite les intéressés à présenter par écrit leurs observations à cet égard dans les trente jours suivant la publication.
+- **(2)** L’office publie, dans la [Gazette du Canada](http://www.gazette.gc.ca/) et dans un journal distribué dans la vallée du Mackenzie, un avis de son intention d’établir des règles qui invite les intéressés à présenter par écrit leurs observations à cet égard dans les trente jours suivant la publication.
 
 **Dispense**
 
@@ -594,14 +594,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux règles établies en vertu de l’article 30, au plan d’aménagement visé à la partie 2 et à ses modifications, aux règles établies au titre du paragraphe 49(2), aux principes directeurs et aux directives établis en vertu de l’article 65, aux instructions données en vertu des paragraphes 50.1(1) ou 83(1), (2) ou (2.1), aux lignes directrices visées à l’article 106, aux instructions données en vertu des articles 109 ou 109.1 ou du paragraphe 142.2(1) et aux directives établies en vertu de l’article 120.
 
-**Avis dans la Gazette du Canada**
+**Avis dans la [Gazette du Canada](http://www.gazette.gc.ca/)**
 
-- **(2)** Toutefois, dès soit la réception par l’office de ces instructions, soit l’agrément du plan d’aménagement ou de ses modifications, soit encore la prise des autres textes visés au paragraphe (1), un avis indiquant que des exemplaires sont mis à la disposition du public au siège de l’office et aux autres endroits que celui-ci estime appropriés doit être publié dans la Gazette du Canada.
+- **(2)** Toutefois, dès soit la réception par l’office de ces instructions, soit l’agrément du plan d’aménagement ou de ses modifications, soit encore la prise des autres textes visés au paragraphe (1), un avis indiquant que des exemplaires sont mis à la disposition du public au siège de l’office et aux autres endroits que celui-ci estime appropriés doit être publié dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(3)** Il est entendu que les permis d’utilisation des eaux et les permis d’utilisation des terres délivrés par un office sous le régime des parties 3 ou 4, avant ou après l’entrée en vigueur du présent paragraphe, dans sa version édictée par le paragraphe 128(3) de la Loi sur le transfert de responsabilités aux Territoires du Nord-Ouest, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1998, ch. 25, art. 31; 2005, ch. 1, art. 27; 2014, ch. 2, art. 128; 2015, ch. 24, art. 28.
+> 1998, ch. 25, art. 31; 2005, ch. 1, art. 27; 2014, ch. 2, art. 128; 2015, ch. 24, art. 28
 
 
 
@@ -614,7 +614,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Compétence exclusive**
 
 **32** Malgré l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), la Cour suprême des Territoires du Nord-Ouest a compétence exclusive en première instance pour connaître de toute demande faite par le procureur général du Canada, le procureur général des Territoires du Nord-Ouest ou quiconque est directement touché par l’affaire afin d’obtenir, contre l’office, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
-> 1998, ch. 25, art. 32; 2002, ch. 8, art. 182; 2005, ch. 1, art. 28; 2014, ch. 2, art. 129.
+> 1998, ch. 25, art. 32; 2002, ch. 8, art. 182; 2005, ch. 1, art. 28; 2014, ch. 2, art. 129
 
 
 
@@ -639,7 +639,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Champ d’application**
 
 **34** La présente partie ne s’applique pas, sous réserve du paragraphe 46(2), aux terres d’une région désignée qui soit constituent un parc régi par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), soit ont été acquises sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md), soit encore sont situées dans le territoire d’une administration locale.
-> 1998, ch. 25, art. 34; 2000, ch. 32, art. 51.
+> 1998, ch. 25, art. 34; 2000, ch. 32, art. 51
 
 
 
@@ -757,7 +757,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Audiences publiques**
 
 - **(2)** L’office peut tenir des audiences publiques au sujet du plan qu’il entend adopter; il publie, dans la région désignée et dans toute région désignée avoisinante de la vallée du Mackenzie, un avis indiquant les lieux, dates et heures des séances ainsi que la procédure qui y sera suivie.
-> 1998, ch. 25, art. 42; 2014, ch. 2, art. 130(F).
+> 1998, ch. 25, art. 42; 2014, ch. 2, art. 130(F)
 
 
 
@@ -825,7 +825,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Parcs nationaux, lieux historiques, etc.**
 
 - **(2)** Sans restreindre la généralité de ce qui précède, la prise de mesures, par un ministère ou un organisme gouvernemental, en vue de la constitution de parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) et l’acquisition de terres sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) sont effectuées en conformité avec le plan d’aménagement.
-> 1998, ch. 25, art. 46; 2000, ch. 32, art. 52.
+> 1998, ch. 25, art. 46; 2000, ch. 32, art. 52
 
 
 
@@ -911,7 +911,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité entre la loi et les instructions**
 
 - **(3)** Les dispositions des lois fédérales, de leurs règlements et les règles de droit territoriales l’emportent sur les instructions incompatibles données en vertu du présent article.
-> 2014, ch. 2, art. 131.
+> 2014, ch. 2, art. 131
 
 
 
@@ -971,7 +971,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***zone de gestion des eaux*** Zone de gestion des eaux constituée par règlement du gouverneur en conseil pris en vertu du sous-alinéa 90.3(1)a)(i). (*water management area*)
 
 ***zone fédérale*** S’entend de toute terre dont un ministre du gouvernement du Canada a la gestion et la maîtrise, ainsi que de toute terre sur laquelle est située une décharge publique dont la gestion, au sens de l’Entente sur le transfert des responsabilités liées aux terres et aux ressources des Territoires du Nord-Ouest, conclue le 25 juin 2013, relève du gouvernement du Canada. (*federal area*)
-> 1998, ch. 15, art. 48, ch. 25, art. 51; 2005, ch. 1, art. 29; 2014, ch. 2, art. 132.
+> 1998, ch. 15, art. 48, ch. 25, art. 51; 2005, ch. 1, art. 29; 2014, ch. 2, art. 132
 
 
 
@@ -990,7 +990,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation de l’autorité**
 
 - **(3)** De même, l’office est tenu de consulter cette autorité avant la délivrance de tout permis ou toute autorisation visant de telles activités susceptibles d’avoir des répercussions dans la région exemptée.
-> 1998, ch. 25, art. 52; 2000, ch. 32, art. 53; 2005, ch. 1, art. 30.
+> 1998, ch. 25, art. 52; 2000, ch. 32, art. 53; 2005, ch. 1, art. 30
 
 
 
@@ -1022,7 +1022,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Zone fédérale**
 
 - **(2)** Dès que la gestion, au sens de l’Entente sur le transfert des responsabilités liées aux terres et aux ressources des Territoires du Nord-Ouest, conclue le 25 juin 2013, d’une décharge publique cesse de relever du gouvernement du Canada, le ministre fédéral en avise l’office par écrit.
-> 2014, ch. 2, art. 135.
+> 2014, ch. 2, art. 135
 
 
 
@@ -1105,7 +1105,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Quorum**
 
 - **(4)** Le quorum est de trois membres ou du nombre supérieur fixé par l’Office, dont un membre nommé par le gouvernement tlicho ou conformément à tout accord visé au paragraphe (2) et un membre — autre que le président — nommé par le ministre fédéral.
-> 2005, ch. 1, art. 31.
+> 2005, ch. 1, art. 31
 
 
 
@@ -1114,7 +1114,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Siège**
 
 **57.2** Le siège de l’Office est fixé au Wekeezhii.
-> 2005, ch. 1, art. 31.
+> 2005, ch. 1, art. 31
 
 
 
@@ -1137,7 +1137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fiction juridique**
 
 - **(3)** Elle est réputée agréée si le ministre fédéral n’y donne pas suite dans les deux mois suivant sa présentation.
-> 2019, ch. 19, art. 3.
+> 2019, ch. 19, art. 3
 
 
 
@@ -1146,7 +1146,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mission de l’office gwich’in et de l’office du Sahtu**
 
 **58** L’Office gwich’in des terres et des eaux et l’Office des terres et des eaux du Sahtu ont pour mission de régir l’utilisation des terres et des eaux et le dépôt de déchets de manière à assurer la préservation, la mise en valeur et l’exploitation de ces ressources de la façon la plus avantageuse possible pour les habitants de leur zone de gestion respective, ceux de la vallée du Mackenzie et tous les Canadiens.
-> 1998, ch. 25, art. 58; 2005, ch. 1, art. 32.
+> 1998, ch. 25, art. 58; 2005, ch. 1, art. 32
 
 
 
@@ -1155,7 +1155,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mission de l’office du Wekeezhii**
 
 **58.1** L’Office des terres et des eaux du Wekeezhii a pour mission de régir l’utilisation des terres et des eaux et le dépôt de déchets de manière à assurer la préservation, la mise en valeur et l’exploitation de ces ressources de la façon la plus avantageuse possible pour tous les Canadiens et, en particulier, pour les habitants de sa zone de gestion.
-> 2005, ch. 1, art. 32.
+> 2005, ch. 1, art. 32
 
 
 
@@ -1170,7 +1170,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit souterrain**
 
 - **(2)** Il est entendu que l’utilisation des terres dans l’exercice d’un droit souterrain relève de la compétence de l’office au titre du paragraphe (1).
-> 1998, ch. 25, art. 59; 2005, ch. 1, art. 33.
+> 1998, ch. 25, art. 59; 2005, ch. 1, art. 33
 
 
 
@@ -1195,7 +1195,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir de suspension**
 
 - **(2)** L’office peut en outre suspendre tout permis d’utilisation des eaux visant une zone fédérale en cas de contravention, par le titulaire, des dispositions de la présente partie ou des conditions dont ce permis est assorti, et ce pour la période qu’il fixe ou jusqu’à ce que les conditions qu’il précise soient remplies.
-> 1998, ch. 15, art. 48, ch. 25, art. 60; 2002, ch. 10, art. 178; 2005, ch. 1, art. 34; 2014, ch. 2, art. 110, 138 et 139.
+> 1998, ch. 15, art. 48, ch. 25, art. 60; 2002, ch. 10, art. 178; 2005, ch. 1, art. 34; 2014, ch. 2, art. 110, 138 et 139
 
 
 
@@ -1204,7 +1204,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Éléments à considérer**
 
 **60.1** Dans l’exercice de ses pouvoirs, l’office tient compte, d’une part, de l’importance de préserver les ressources pour le bien-être et le mode de vie des peuples autochtones du Canada visés par l’article 35 de la Loi constitutionnelle de 1982 et qui utilisent les ressources d’une région de la vallée du Mackenzie et, d’autre part, des connaissances traditionnelles et des renseignements scientifiques mis à sa disposition.
-> 2005, ch. 1, art. 35.
+> 2005, ch. 1, art. 35
 
 
 
@@ -1219,7 +1219,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conformité avec quelque plan d’aménagement — office du Wekeezhii**
 
 - **(2)** L’Office des terres et des eaux du Wekeezhii ne peut, en ce qui touche les permis ou autres autorisations, procéder à toute délivrance, toute modification ou tout renouvellement incompatible avec quelque plan d’aménagement territorial établi en vertu d’une règle de droit fédérale ou territoriale ou d’une loi tlicho et applicable à quelque partie de sa zone de gestion.
-> 1998, ch. 25, art. 61; 2005, ch. 1, art. 35.
+> 1998, ch. 25, art. 61; 2005, ch. 1, art. 35
 
 
 
@@ -1228,7 +1228,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conformité avec toute loi tlicho — office du Wekeezhii**
 
 **61.1** L’Office des terres et des eaux du Wekeezhii ne peut exercer ses pouvoirs discrétionnaires relativement à l’utilisation des terres tlichos de manière incompatible avec toute loi tlicho établie en vertu de l’article 7.4.2 de l’accord tlicho.
-> 2005, ch. 1, art. 35.
+> 2005, ch. 1, art. 35
 
 
 
@@ -1262,7 +1262,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation du gouvernement Gotine de Deline**
 
 - **(5)** L’Office des terres et des eaux du Sahtu consulte le gouvernement Gotine de Deline avant de délivrer, de modifier ou de renouveler un permis ou une autorisation relativement à l’utilisation des terres de Deline ou des eaux qui s’y trouvent ou au dépôt de déchets dans ces lieux.
-> 1998, ch. 25, art. 63; 2005, ch. 1, art. 36; 2015, ch. 24, art. 29.
+> 1998, ch. 25, art. 63; 2005, ch. 1, art. 36; 2015, ch. 24, art. 29
 
 
 
@@ -1277,7 +1277,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ressources fauniques**
 
 - **(2)** Il doit de plus demander et étudier l’avis de l’office des ressources renouvelables constitué par l’accord de revendication au sujet des ressources fauniques et de leur habitat susceptibles d’être touchés par l’activité visée par la demande de permis.
-> 1998, ch. 25, art. 64; 2005, ch. 1, art. 37.
+> 1998, ch. 25, art. 64; 2005, ch. 1, art. 37
 
 
 
@@ -1292,7 +1292,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Principes directeurs et directives : permis d’utilisation des eaux**
 
 - **(2)** L’office peut, sous réserve des règlements et des règles de droit territoriales, établir des principes directeurs et des directives concernant les permis d’utilisation des eaux, notamment en ce qui touche leur délivrance sous le régime de la présente partie.
-> 1998, ch. 25, art. 65; 2014, ch. 2, art. 140.
+> 1998, ch. 25, art. 65; 2014, ch. 2, art. 140
 
 
 
@@ -1308,7 +1308,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Caractère définitif**
 
 **67** Sous réserve des articles 32 et 72.13, des paragraphes 125(1.2) et (4) et de toute exigence prévue par les règles de droit territoriales en matière d’agrément à l’égard de la délivrance, du renouvellement, de la modification ou de l’annulation des permis d’utilisation des eaux, les décisions et ordonnances de l’office sont définitives.
-> 1998, ch. 25, art. 67; 2014, ch. 2, art. 141; 2019, ch. 19, art. 4.
+> 1998, ch. 25, art. 67; 2014, ch. 2, art. 1412019, ch. 19, art. 4
 
 
 
@@ -1327,7 +1327,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copies d’extraits du registre**
 
 - **(3)** L’office fournit, sur demande et sur paiement des droits réglementaires, copie de renseignements contenus dans le registre.
-> 1998, ch. 25, art. 68; 2005, ch. 1, art. 38; 2014, ch. 2, art. 141.
+> 1998, ch. 25, art. 68; 2005, ch. 1, art. 38; 2014, ch. 2, art. 141
 
 
 
@@ -1343,7 +1343,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** dans les cas de terres dont le commissaire des Territoires du Nord-Ouest a la gestion et la maîtrise, le ministre territorial;
 - **b)** dans les cas de terres dont un ministre du gouvernement du Canada a la gestion et la maîtrise, ce ministre;
 - **c)** dans les autres cas, le propriétaire des terres.
-> 1998, ch. 25, art. 69; 2014, ch. 2, art. 142.
+> 1998, ch. 25, art. 69; 2014, ch. 2, art. 142
 
 
 
@@ -1405,7 +1405,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligations dans certains cas**
 
 - **(3)** Tout détournement des eaux éventuellement effectué dans les cas visés à l’alinéa (2)c) doit prendre fin — et, dans la mesure du possible, le cours original être rétabli — dès qu’il n’a plus de raison d’être.
-> 1998, ch. 25, art. 72; 2014, ch. 2, art. 145.
+> 1998, ch. 25, art. 72; 2014, ch. 2, art. 145
 
 
 
@@ -1424,7 +1424,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Déclaration des dépôts illégaux**
 
 - **(3)** En cas de dépôt de déchets contrevenant au présent article, quiconque a la propriété ou la maîtrise des déchets, ou a contribué au dépôt ou l’a causé, doit signaler sans délai le fait, conformément aux éventuels règlements pris en vertu de l’alinéa 90.3(1)o), à la personne ou autorité désignée en application des règlements pris en vertu de cet alinéa ou, à défaut, à un inspecteur désigné en application du paragraphe 84(1).
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1433,7 +1433,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception — collectivités tlichos**
 
 **72.02** Les articles 72 et 72.01 ne s’appliquent pas à l’égard de l’utilisation des eaux ou du dépôt de déchets dans une collectivité tlicho si un règlement municipal établi par l’administration locale de cette collectivité prévoit, à l’égard du type d’utilisation ou de dépôt projeté, qu’il n’est pas requis d’obtenir un permis d’utilisation des eaux.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1498,7 +1498,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** de l’importance et de la durée des effets négatifs, y compris les effets négatifs cumulatifs;
 	- **d)** de l’importance de l’utilisation des eaux par les personnes à qui elle nuirait;
 	- **e)** des nuisances, des inconvénients et du bruit.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1549,7 +1549,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption de modification**
 
 - **(7)** Les conditions sont réputées automatiquement modifiées, dans la mesure où cela est nécessaire pour l’application des paragraphes (3), (4), (5) ou (6), par la prise ou la modification, après la délivrance du permis d’utilisation des eaux, des règlements visés à ces paragraphes.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1572,7 +1572,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Frais**
 
 - **(3)** Sauf décision contraire de l’Office des eaux du Nunavut, les frais faits par l’organisation inuite désignée dans le cadre de la requête visée au sous-alinéa (1)b)(i) sont à la charge du demandeur.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1581,7 +1581,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Négociation de bonne foi**
 
 **72.06** L’office n’examine la requête visée au sous-alinéa 72.05(1)b)(i) que si le requérant a tenté, de bonne foi mais sans succès, de négocier un accord d’indemnisation.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1596,7 +1596,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** l’attachement culturel des Inuits aux terres inuites visées et aux eaux s’y trouvant;
 - **e)** la valeur particulière ou exceptionnelle des terres inuites visées et des eaux s’y trouvant;
 - **f)** toute atteinte causée aux droits des Inuits découlant de l’Accord ou de quelque autre source.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1605,7 +1605,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révision périodique**
 
 **72.08** Sauf entente à l’effet contraire entre l’organisation inuite désignée et le demandeur, l’indemnité fixée en vertu de l’alinéa 72.05(1)b) est versée sous forme de paiements périodiques et fait l’objet de révisions périodiques, compte tenu de la nature et de la durée de l’activité.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1624,7 +1624,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(2)** Il est entendu que les articles 72.05 à 72.08 s’appliquent aux plans d’eau qui délimitent des terres inuites et d’autres terres et qui ne sont pas situés entièrement sur des terres inuites.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1641,7 +1641,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renseignements et études**
 
 - **(2)** L’office doit exiger du demandeur qu’il lui communique les renseignements et les études relatives à l’utilisation des eaux ou au dépôt de déchets projeté qui lui permettront d’en évaluer les effets qualitatifs et quantitatifs sur les eaux.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1670,7 +1670,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Remboursement de la garantie**
 
 - **(5)** Dans les cas où le ministre fédéral est convaincu que l’entreprise en cause est définitivement fermée ou abandonnée ou que le permis d’utilisation des eaux a été cédé, la partie de la garantie qui, selon lui, n’est pas nécessaire pour l’application du paragraphe (2) est immédiatement remboursée au titulaire du permis ou au cédant, selon le cas.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1702,7 +1702,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Toute demande d’annulation d’un permis d’utilisation des eaux doit respecter, quant à sa forme et à son contenu :
 	- **a)** les modalités réglementaires, dans le cas où le permis faisant l’objet de la demande vise une zone fédérale;
 	- **b)** les modalités prévues par les règles de droit territoriales, dans le cas où le permis faisant l’objet de la demande vise des terres situées à l’extérieur d’une zone fédérale.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1713,7 +1713,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **72.13** La délivrance, le renouvellement, la modification et l’annulation des permis d’utilisation des eaux ci-après visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale sont subordonnés à l’agrément du ministre fédéral :
 - **a)** les permis de type A;
 - **b)** les permis de type B, dans le cas où l’office tient des audiences publiques à cet égard.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1732,7 +1732,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incessibilité sans autorisation**
 
 - **(3)** Sauf dans la mesure où le prévoit le présent article, le permis d’utilisation des eaux visant une zone fédérale n’est pas cessible.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1765,7 +1765,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le demandeur ou le titulaire du permis d’utilisation des eaux a accepté par écrit que l’office prenne sa décision sans audience publique, pourvu que personne, après la publication d’avis prévue à l’article 72.16, n’ait informé l’office, au plus tard le dixième jour précédant la date fixée pour l’audience, de son intention de comparaître et de présenter ses observations;
 	- **b)** l’office, saisi d’une demande de renouvellement d’un permis d’utilisation des eaux de type A par le titulaire faite conformément aux règlements pris en vertu des alinéas 90.3(1)d) et e), ne renouvelle le permis que pour une période totale de soixante jours;
 	- **c)** l’office, saisi d’une modification à un permis d’utilisation des eaux de type A qui aurait des répercussions sur l’utilisation, le cours ou la qualité de l’eau, déclare, avec le consentement du ministre fédéral, que la modification s’impose d’urgence.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1788,7 +1788,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(4)** Les paragraphes (1) à (3) ne s’appliquent pas à l’égard d’une demande de modification de permis d’utilisation des eaux lorsque l’office déclare, avec le consentement du ministre fédéral dans le cas d’une zone fédérale ou, en conformité avec les règles de droit territoriales, dans le cas des terres situées à l’extérieur d’une zone fédérale, que la modification s’impose d’urgence.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1807,7 +1807,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à l’égard d’une demande de modification de permis d’utilisation des eaux lorsque l’office déclare, avec le consentement du ministre fédéral dans le cas d’une zone fédérale, ou, en conformité avec les règles de droit territoriales, dans le cas d’une terre située à l’extérieur d’une zone fédérale, que la modification s’impose d’urgence.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1834,7 +1834,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Absence de décision**
 
 - **(5)** Faute d’avoir notifié son agrément ou son refus à l’office à l’expiration du délai de quarante-cinq jours ou de quatre-vingt-dix jours, selon le cas, suivant la réception de la décision, le ministre fédéral est réputé avoir donné son agrément.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1843,7 +1843,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délais — délivrance des autres permis d’utilisation des eaux de type B**
 
 **72.19** L’office rend sa décision à l’égard d’une demande de délivrance, de renouvellement ou de modification d’un permis d’utilisation des eaux de type B visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale qui ne fait pas l’objet d’une audience publique ou de l’examen, de sa propre initiative, du renouvellement ou de la modification d’un tel permis dans les neuf mois suivant la date de présentation de la demande ou de la publication de l’avis prévu aux paragraphes 72.17(1) ou (2).
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1852,7 +1852,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délais — délivrance des autres permis d’utilisation des eaux**
 
 **72.2** L’office rend sa décision à l’égard d’une demande de délivrance, de renouvellement ou de modification d’un permis d’utilisation des eaux — autre qu’un permis de type A ou de type B — visant des terres situées à l’extérieur d’une zone fédérale ou de l’examen, de sa propre initiative, du renouvellement ou de la modification d’un tel permis dans les neuf mois suivant la date de présentation de la demande ou de la publication de l’avis prévu au paragraphe 72.17(2).
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1863,7 +1863,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **72.21** La demande de délivrance, de renouvellement ou de modification d’un permis d’utilisation des eaux est réputée être présentée à la date à laquelle l’office est convaincu qu’elle respecte, quant à sa forme et à son contenu :
 - **a)** les modalités réglementaires, dans le cas où le permis faisant l’objet de la demande vise une zone fédérale;
 - **b)** les modalités prévues par les règles de droit territoriales, dans le cas où le permis faisant l’objet de la demande vise des terres situées à l’extérieur d’une zone fédérale.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1878,7 +1878,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Période exclue des délais — évaluations environnementales et études d’impact**
 
 - **(2)** Dans le cas où l’activité projetée — utilisation des eaux ou dépôt de déchets — visée par la demande ou le permis d’utilisation des eaux s’insère dans le cadre d’un projet de développement à propos duquel une évaluation environnementale, une étude d’impact ou un examen des répercussions environnementales qui tient lieu d’étude d’impact est effectuée sous le régime de la partie 5, la période prise pour compléter l’évaluation, l’étude ou l’examen n’est pas comprise dans le calcul des délais prévus au paragraphe 72.18(1) et aux articles 72.19 ou 72.2 ou de leur prolongation.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1891,7 +1891,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** dans le cas où l’office ne peut délivrer un permis qu’en conformité avec le paragraphe 72.05(1), le demandeur n’a pas conclu un accord d’indemnisation en application de l’alinéa 72.05(1)a) ou qu’une indemnité n’a pas été fixée en vertu de l’alinéa 15.1(1)b) de cette loi, selon le cas;
 - **c)** dans le cas où l’office ne peut délivrer un permis visant des terres situées à l’extérieur d’une zone fédérale qu’en conformité avec toute exigence requise en matière d’indemnité en application des règles de droit territoriales, cette exigence n’a pas été satisfaite;
 - **d)** dans le cas où l’office décide que le demandeur est tenu de conclure un accord d’indemnisation au titre des articles 77 ou 79.1, le demandeur n’a pas prouvé à l’office qu’il l’a conclu ou l’office n’a pas fixé l’indemnité prévue aux articles 79 ou 79.3.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1906,7 +1906,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prolongation du délai par le gouverneur en conseil**
 
 - **(2)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu paragraphe (1).
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1915,7 +1915,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motifs — décisions et ordonnances**
 
 **72.25** L’office motive par écrit et met à la disposition du public toutes les décisions ou ordonnances qu’il rend concernant un permis d’utilisation des eaux visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale ou une demande visant un tel permis.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1938,7 +1938,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renouvellement ou cession d’un permis ou d’une autorisation**
 
 - **(3)** Pour l’application du présent article et sous réserve du paragraphe (2), le permis ou l’autorisation renouvelé ou ayant fait l’objet d’une cession est assimilé au permis ou à l’autorisation original.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1953,7 +1953,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Protection des droits**
 
 - **(2)** Le fait d’avoir déjà reçu une indemnité dans le cadre du paragraphe 72.03(5) ou de l’alinéa 72.11(2)a) ou en vertu de l’accord visé au sous-alinéa 72.03(5)a)(ii) ne fait pas obstacle à l’exercice des droits prévus au paragraphe (1).
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1962,7 +1962,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copie des permis d’utilisation des eaux**
 
 **72.28** L’office fournit au ministre territorial une copie des permis d’utilisation des eaux qui sont délivrés sous le régime de la présente partie et de toute décision ou ordonnance rendue relativement à ceux-ci.
-> 2014, ch. 2, art. 145.
+> 2014, ch. 2, art. 145
 
 
 
@@ -1981,7 +1981,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Utilisation sans permis — citoyen tlicho**
 
 - **(2)** Malgré les articles 72 et 72.01 ou les règles de droit territoriales, tout citoyen tlicho a le droit d’utiliser les eaux se trouvant dans la partie du Monfwi gogha de niitlee comprise dans les Territoires du Nord-Ouest, sans permis d’utilisation des eaux, pour l’exploitation des ressources fauniques au titre de l’article 10.1.1 de l’accord tlicho, pour les activités de transport s’y rattachant ou à des fins patrimoniales, culturelles ou spirituelles propres à la première nation tlicho, sous réserve de toute loi tlicho applicable et, s’agissant des eaux se trouvant sur des terres désignées, des limites prévues dans l’accord de revendication applicable qui sont analogues aux limites relatives aux eaux se trouvant sur des terres tlichos.
-> 1998, ch. 25, art. 73; 2005, ch. 1, art. 39; 2014, ch. 2, art. 163.
+> 1998, ch. 25, art. 73; 2005, ch. 1, art. 39; 2014, ch. 2, art. 163
 
 
 
@@ -1990,7 +1990,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit exclusif**
 
 **74** Malgré l’article 7.1, les premières nations des Gwich’in et du Sahtu ont, en ce qui touche les eaux qui sont sur leurs terres ou qui les traversent, un droit exclusif d’utilisation ou de dépôt de déchets, le tout en conformité avec les autres dispositions de la présente partie ou des règles de droit territoriales, selon le cas.
-> 1998, ch. 25, art. 74; 2014, ch. 2, art. 163.
+> 1998, ch. 25, art. 74; 2014, ch. 2, art. 163
 
 
 
@@ -2009,7 +2009,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** il n’existe aucune autre solution permettant de satisfaire convenablement les besoins du demandeur;
 - **b)** il n’existe aucun moyen acceptable permettant d’éviter cette atteinte;
 - **c)** dans les cas de permis d’utilisation des eaux, les conditions prévues par l’article 77 sont remplies.
-> 1998, ch. 25, art. 76; 2005, ch. 1, art. 40.
+> 1998, ch. 25, art. 76; 2005, ch. 1, art. 40
 
 
 
@@ -2022,7 +2022,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délivrance, modification ou renouvellement de permis**
 
 **77** L’Office gwich’in des terres et des eaux ou l’Office des terres et des eaux du Sahtu, selon le cas, ne peut délivrer, modifier ou renouveler un permis d’utilisation des eaux dans les cas visés à l’article 76 que si le demandeur a conclu avec la première nation un accord d’indemnisation en ce qui touche les pertes ou les dommages résultant de toute altération importante de la qualité, de la quantité ou du débit des eaux qui sont sur les terres de cette dernière, qui les traversent ou qui y sont adjacentes, ou si la question de l’indemnité payable à la première nation a fait l’objet de la demande prévue au paragraphe 79(1).
-> 1998, ch. 25, art. 77; 2005, ch. 1, art. 41.
+> 1998, ch. 25, art. 77; 2005, ch. 1, art. 41
 
 
 
@@ -2043,7 +2043,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Condition préalable**
 
 - **(3)** Malgré toute autre loi fédérale, l’autorité de gestion des eaux qui fait l’objet de la notification prévue au paragraphe (1) ne peut délivrer l’autorisation que si le demandeur a conclu avec la première nation un accord d’indemnisation ou si la question de l’indemnité payable à la première nation a fait l’objet de la demande prévue au paragraphe 79(1).
-> 1998, ch. 15, art. 48, ch. 25, art. 78; 2000, ch. 32, art. 54; 2005, ch. 1, art. 42.
+> 1998, ch. 15, art. 48, ch. 25, art. 78; 2000, ch. 32, art. 54; 2005, ch. 1, art. 42
 
 
 
@@ -2062,7 +2062,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** les nuisances et inconvénients — notamment le bruit — que l’activité peut entraîner, pour la première nation, sur ses terres;
 	- **c)** les effets sur l’exploitation des ressources fauniques par la première nation;
 	- **d)** tout autre facteur qu’il estime pertinent dans les circonstances.
-> 1998, ch. 25, art. 79; 2005, ch. 1, art. 43.
+> 1998, ch. 25, art. 79; 2005, ch. 1, art. 43
 
 
 
@@ -2077,7 +2077,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **79.1** L’Office des terres et des eaux du Wekeezhii ne peut délivrer, modifier ou renouveler un permis d’utilisation des eaux s’il conclut que les activités — utilisation des eaux ou dépôt de déchets — auront vraisemblablement pour effet d’altérer de façon importante la qualité, la quantité ou le débit des eaux qui sont sur les terres tlichos, les traversent ou y sont adjacentes, sauf si les conditions ci-après sont réunies :
 - **a)** il estime qu’il n’existe aucune autre solution permettant de satisfaire raisonnablement les besoins du demandeur et aucun moyen raisonnable lui permettant d’éviter l’altération;
 - **b)** soit le demandeur a conclu avec le gouvernement tlicho un accord d’indemnisation de la première nation tlicho pour les pertes ou dommages susceptibles de résulter de cette altération, soit le demandeur ou le gouvernement tlicho a demandé à l’Office, aux termes du paragraphe 79.3(1), de fixer l’indemnité pour ces pertes ou dommages.
-> 2005, ch. 1, art. 44.
+> 2005, ch. 1, art. 44
 
 
 
@@ -2098,7 +2098,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Condition préalable**
 
 - **(3)** Malgré toute autre loi fédérale, l’autorité de gestion des eaux qui fait l’objet de la notification prévue au paragraphe (1) ne peut délivrer l’autorisation que si le demandeur a conclu avec le gouvernement tlicho un accord d’indemnisation ou si la question de l’indemnité à payer à la première nation tlicho a fait l’objet de la demande prévue au paragraphe 79.3(1).
-> 2005, ch. 1, art. 44.
+> 2005, ch. 1, art. 44
 
 
 
@@ -2120,7 +2120,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Forme de l’indemnité**
 
 - **(3)** L’indemnité peut prendre la forme d’une somme globale, de versements périodiques, d’une compensation non pécuniaire telle que le remplacement des biens perdus ou endommagés ou la substitution d’autres biens à ces derniers, la réinstallation de citoyens tlichos et le transport de leurs biens ou d’une combinaison de ces formes.
-> 2005, ch. 1, art. 44.
+> 2005, ch. 1, art. 44
 
 
 
@@ -2142,7 +2142,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Créances de Sa Majesté**
 
 - **(2)** Les sommes et les frais que l’intéressé est tenu de payer en application du paragraphe (1) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
-> 2019, ch. 19, art. 5.
+> 2019, ch. 19, art. 5
 
 
 
@@ -2169,7 +2169,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Terres extérieures à la région désignée**
 
 - **(4)** Dans les cas où les terres visées par la demande d’approvisionnement sont situées dans les Territoires du Nord-Ouest mais à l’extérieur de la région désignée de la première nation, l’office est tenu de consulter l’autorité de gestion des ressources ayant compétence sur ces terres avant de se prononcer en vertu du paragraphe (3).
-> 1998, ch. 25, art. 80; 2005, ch. 1, art. 45.
+> 1998, ch. 25, art. 80; 2005, ch. 1, art. 45
 
 
 
@@ -2200,7 +2200,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvoi à l’Office — gouverne­ment tlicho**
 
 - **(5)** Le gouvernement tlicho peut demander à l’Office, après avoir participé à la médiation prévue au chapitre 6 de l’accord tlicho, de trancher tout conflit visé à l’alinéa (4)d).
-> 2005, ch. 1, art. 46.
+> 2005, ch. 1, art. 46
 
 
 
@@ -2217,7 +2217,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation des offices**
 
 **82** Le ministre fédéral est tenu de consulter les offices en ce qui touche les propositions de modification de la présente loi et la prise ou les propositions de modification de ses textes d’application.
-> 1998, ch. 25, art. 82; 2005, ch. 1, art. 47; 2014, ch. 2, art. 174; 2019, ch. 19, art. 6(F).
+> 1998, ch. 25, art. 82; 2005, ch. 1, art. 47; 2014, ch. 2, art. 1742019, ch. 19, art. 6(F)
 
 
 
@@ -2260,7 +2260,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité entre la loi et les instructions**
 
 - **(6)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données en vertu du présent article.
-> 1998, ch. 25, art. 83; 2005, ch. 1, art. 47; 2014, ch. 2, art. 175; 2015, ch. 24, art. 30.
+> 1998, ch. 25, art. 83; 2005, ch. 1, art. 47; 2014, ch. 2, art. 175; 2015, ch. 24, art. 30
 
 
 
@@ -2283,7 +2283,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Désignation — analyste**
 
 - **(2)** Le ministre fédéral peut désigner toute personne qualifiée à titre d’analyste pour l’application de la présente partie.
-> 1998, ch. 25, art. 84; 2014, ch. 2, art. 177.
+> 1998, ch. 25, art. 84; 2014, ch. 2, art. 177
 
 
 
@@ -2330,7 +2330,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(5)** [Abrogé, 2019, ch. 19, art. 7]
 
 - **(6)** [Abrogé, 2019, ch. 19, art. 7]
-> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48; 2014, ch. 2, art. 177; 2015, ch. 24, art. 31; 2019, ch. 19, art. 7.
+> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48; 2014, ch. 2, art. 177; 2015, ch. 24, art. 312019, ch. 19, art. 7
 
 
 
@@ -2348,7 +2348,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la maison d’habitation est un lieu visé au paragraphe 85(1);
 	- **b)** l’entrée est nécessaire à la vérification du respect de la présente partie ou des ordres donnés en vertu de l’article 86 ou 86.1 ou à la prévention du non-respect de cette partie ou de ces ordres;
 	- **c)** soit l’occupant a refusé l’entrée à l’inspecteur, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
-> 2014, ch. 2, art. 177.
+> 2014, ch. 2, art. 177
 
 
 
@@ -2363,7 +2363,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personne accompagnant l’inspecteur**
 
 - **(2)** Toute personne peut, à la demande de l’inspecteur, accompagner celui-ci en vue de l’aider à accéder au lieu, et ce, sans encourir de poursuites à cet égard.
-> 2014, ch. 2, art. 177.
+> 2014, ch. 2, art. 177
 
 
 
@@ -2372,7 +2372,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Usage de la force**
 
 **85.3** L’inspecteur ne peut recourir à la force dans l’exécution d’un mandat autorisant l’entrée dans une maison d’habitation que si celui-ci en autorise expressément l’usage et qu’il est accompagné d’un agent de la paix.
-> 2014, ch. 2, art. 177.
+> 2014, ch. 2, art. 177
 
 
 
@@ -2395,7 +2395,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(3)** L’ordre est communiqué sous forme d’avis écrit précisant les motifs et les délais et modalités d’exécution.
-> 1998, ch. 25, art. 86; 2014, ch. 2, art. 177.
+> 1998, ch. 25, art. 86; 2014, ch. 2, art. 177
 
 
 
@@ -2415,7 +2415,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(2)** L’ordre est communiqué sous forme d’avis écrit précisant les motifs et les délais et modalités d’exécution.
-> 2014, ch. 2, art. 177.
+> 2014, ch. 2, art. 177
 
 
 
@@ -2430,7 +2430,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Recouvrement des frais**
 
 - **(2)** Les frais engagés par sa Majesté du chef du Canada au titre du paragraphe (1) constituent une créance de sa Majesté dont le recouvrement peut être poursuivi, devant tout tribunal compétent, contre la personne. Ils peuvent en outre être recouvrés sur la garantie visée aux articles 71 ou 72.11, selon le cas.
-> 2014, ch. 2, art. 177.
+> 2014, ch. 2, art. 177
 
 
 
@@ -2449,7 +2449,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Déclarations et renseignements faux ou trompeurs**
 
 - **(3)** Il est interdit de faire sciemment une déclaration fausse ou trompeuse ou de communiquer sciemment des renseignements faux ou trompeurs, relativement à toute question visée par la présente loi, à un inspecteur qui agit dans l’exercice de ses attributions au titre de celle-ci.
-> 1998, ch. 25, art. 87; 2014, ch. 2, art. 177.
+> 1998, ch. 25, art. 87; 2014, ch. 2, art. 177
 
 
 
@@ -2458,7 +2458,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révision par l’office**
 
 **88** Sur demande de toute personne visée par un ordre donné par l’inspecteur en vertu des paragraphes 86(1) ou (2) ou de l’article 86.1, l’office révise sans délai l’ordre et le confirme, le modifie ou l’annule.
-> 1998, ch. 25, art. 88; 2014, ch. 2, art. 177.
+> 1998, ch. 25, art. 88; 2014, ch. 2, art. 177
 
 
 
@@ -2477,7 +2477,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Recouvrement des frais**
 
 - **(2)** Les frais engagés par Sa Majesté du chef du Canada au titre du paragraphe (1) constituent une créance de Sa Majesté dont le recouvrement peut être poursuivi, devant tout tribunal compétent, contre la personne visée au sous-alinéa (1)b)(i). Ils peuvent en outre être recouvrés sur la garantie visée à l’article 72.11.
-> 1998, ch. 25, art. 89; 2005, ch. 1, art. 49; 2014, ch. 2, art. 177.
+> 1998, ch. 25, art. 89; 2005, ch. 1, art. 49; 2014, ch. 2, art. 177
 
 
 
@@ -2504,7 +2504,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **l)** régir la remise en état des terres visées par un permis;
 - **m)** permettre à l’office ou à l’inspecteur de soustraire les titulaires de permis à certaines obligations prévues par les règlements;
 - **n)** autoriser l’office ou l’inspecteur à exiger des titulaires de permis qu’ils lui communiquent un rapport sur les sujets qui y sont spécifiés.
-> 1998, ch. 25, art. 90; 2005, ch. 1, art. 50.
+> 1998, ch. 25, art. 90; 2005, ch. 1, art. 50
 
 
 
@@ -2513,7 +2513,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction — utilisation sans permis des terres tlichos**
 
 **90.1** Nul ne peut, même en l’absence d’exigence réglementaire à cet égard, utiliser les terres tlichos sans détenir un permis d’utilisation des terres ou une autorisation délivré sous le régime des parties 3 ou 4, selon le cas, si une loi tlicho l’exige.
-> 2005, ch. 1, art. 51.
+> 2005, ch. 1, art. 51
 
 
 
@@ -2522,7 +2522,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction — terres de Deline**
 
 **90.11** Nul ne peut, même en l’absence d’exigence réglementaire à cet égard, utiliser les terres de Deline sans détenir un permis d’utilisation des terres ou une autre autorisation délivré sous le régime des parties 3 ou 4, selon le cas, si une loi de Deline l’exige.
-> 2015, ch. 24, art. 32.
+> 2015, ch. 24, art. 32
 
 
 
@@ -2531,7 +2531,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 **90.2** Malgré les règlements, l’obtention d’un permis d’utilisation des terres ou d’une autre autorisation d’utilisation des terres délivré sous le régime des parties 3 ou 4, selon le cas, n’est pas nécessaire si un règlement municipal établi par l’administration locale de la collectivité tlicho prévoit une exemption à l’égard du type d’utilisation projetée.
-> 2005, ch. 1, art. 51; 2014, ch. 2, art. 182.
+> 2005, ch. 1, art. 51; 2014, ch. 2, art. 182
 
 
 
@@ -2540,7 +2540,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 **90.21** Malgré les règlements, l’obtention d’un permis d’utilisation des terres ou d’une autre autorisation d’utilisation des terres de la collectivité de Deline décrites à l’annexe B de l’accord de Deline, délivré sous le régime des parties 3 ou 4, selon le cas, n’est pas nécessaire si une loi de Deline prévoit une exemption à l’égard du type d’utilisation projetée.
-> 2015, ch. 24, art. 33.
+> 2015, ch. 24, art. 33
 
 
 
@@ -2593,7 +2593,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Variation des règlements**
 
 - **(3)** Les règlements pris en vertu du paragraphe (1) peuvent varier en fonction de certains critères, notamment l’utilisation des eaux autorisée, les fins de l’utilisation, la quantité et le régime utilisés, de même que la quantité, la concentration et le type de déchets déposés.
-> 2014, ch. 2, art. 182.
+> 2014, ch. 2, art. 182
 
 
 
@@ -2602,7 +2602,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements : recouvrement des coûts**
 
 **90.31** Le gouverneur en conseil peut, après consultation par le ministre fédéral des premières nations, du gouvernement tlicho, du ministre territorial et des offices, prendre des règlements concernant le recouvrement des sommes et des frais pour l’application de l’article 79.4, notamment afin de prévoir les sommes et les services pour l’application de cet article et de soustraire à son application toute catégorie de demandeurs ou de titulaires d’un permis visé à cet article.
-> 2019, ch. 19, art. 8.
+> 2019, ch. 19, art. 8
 
 
 
@@ -2611,7 +2611,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements : consultations**
 
 **90.32** Le gouverneur en conseil peut, après consultation par le ministre fédéral des premières nations, du gouvernement tlicho, du ministre territorial et des offices, prendre des règlements établissant des exigences concernant toute consultation menée par toute personne ou entité dans le cadre de la présente partie, expressément prévue ou non par celle-ci, auprès des premières nations, de la première nation tlicho, du gouvernement tlicho ou d’un peuple autochtone qui utilise les ressources d’une région située à l’extérieur de la vallée du Mackenzie, notamment les modalités de consultation, et prévoyant la délégation de certains aspects procéduraux de la consultation.
-> 2019, ch. 19, art. 8.
+> 2019, ch. 19, art. 8
 
 
 
@@ -2657,8 +2657,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Enregistrement ou publication non requis**
 
-- **(9)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
-> 2014, ch. 2, art. 182.
+- **(9)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements n’ont pas à être transmis pour enregistrement ni à être publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) du seul fait de leur incorporation.
+> 2014, ch. 2, art. 182
 
 
 
@@ -2667,7 +2667,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règles**
 
 **91** L’office peut établir des règles en ce qui touche soit le délai à respecter pour la conclusion de l’accord d’indemnisation visé aux articles 77 et 78, soit la résolution des conflits visés à l’article 80 ou 80.1.
-> 1998, ch. 25, art. 91; 2005, ch. 1, art. 52.
+> 1998, ch. 25, art. 91; 2005, ch. 1, art. 52
 
 
 
@@ -2694,7 +2694,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet d’une cession contraire au décret**
 
 - **(3)** La cession de tout ou partie des intérêts de toute terre d’une zone fédérale faite en contravention avec un décret pris en application du paragraphe (1), ou la délivrance d’un permis d’utilisation des eaux enfreignant un décret pris en application du paragraphe (2), est nulle et sans effet.
-> 2014, ch. 2, art. 185.
+> 2014, ch. 2, art. 185
 
 
 
@@ -2723,7 +2723,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** Quiconque contrevient aux paragraphes 87(1), (2) ou (3) en ce qui touche l’utilisation des terres commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire :
 	- **a)** pour une première infraction, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
 	- **b)** en cas de récidive, d’une amende maximale de 200 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
-> 1998, ch. 25, art. 92; 2005, ch. 1, art. 53; 2014, ch. 2, art. 187.
+> 1998, ch. 25, art. 92; 2005, ch. 1, art. 53; 2014, ch. 2, art. 187
 
 
 
@@ -2743,7 +2743,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Quiconque commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
 	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
 	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
-> 2014, ch. 2, art. 188.
+> 2014, ch. 2, art. 188
 
 
 
@@ -2762,7 +2762,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Le titulaire qui commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
 	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
 	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
-> 2014, ch. 2, art. 188.
+> 2014, ch. 2, art. 188
 
 
 
@@ -2781,7 +2781,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Le titulaire qui commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
 	- **a)** pour une première infraction, d’une amende maximale de 37 500 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
 	- **b)** en cas de récidive, d’une amende maximale de 75 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
-> 2014, ch. 2, art. 188.
+> 2014, ch. 2, art. 188
 
 
 
@@ -2792,7 +2792,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **92.04** Commet une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque :
 - **a)** contrevient aux paragraphes 87(1), (2) ou (3) en ce qui touche l’utilisation des eaux ou le dépôt de déchets dans une zone fédérale ou à tout règlement pris en vertu des alinéas 90.3(1)p), q) ou r);
 - **b)** sauf dans la mesure permise par la présente partie ou toute autre loi fédérale, entrave ou gêne volontairement de quelque autre façon l’action du titulaire d’un permis d’utilisation des eaux visant une zone fédérale ou de quiconque agit en son nom dans l’exercice des droits que lui confère la présente partie.
-> 2014, ch. 2, art. 188.
+> 2014, ch. 2, art. 188
 
 
 
@@ -2801,7 +2801,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Infractions continues**
 
 **92.05** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue toute infraction prévue aux paragraphes 92(1), 92.01(1), 92.02(1) ou 92.03(1).
-> 2014, ch. 2, art. 188.
+> 2014, ch. 2, art. 188
 
 
 
@@ -2820,7 +2820,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitation**
 
 - **(2)** Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
-> 2014, ch. 2, art. 189 et 190.
+> 2014, ch. 2, art. 189 et 190
 
 
 
@@ -2829,7 +2829,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 **93** Les poursuites relatives à une infraction visée aux articles 92, 92.01, 92.02, 92.03, 92.04 ou 92.05 se prescrivent par cinq ans à compter de la date où le ministre fédéral a eu connaissance des faits reprochés.
-> 1998, ch. 25, art. 93; 2014, ch. 2, art. 190.
+> 1998, ch. 25, art. 93; 2014, ch. 2, art. 190
 
 
 
@@ -2852,7 +2852,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Préavis**
 
 - **(4)** Ils ne sont reçus en preuve que si la partie qui entend les produire contre une autre lui donne un préavis suffisant, accompagné d’une copie de ceux-ci.
-> 2014, ch. 2, art. 190.
+> 2014, ch. 2, art. 190
 
 
 
@@ -2871,7 +2871,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Préavis**
 
 - **(3)** Le certificat n’est recevable en preuve que si la partie qui entend le produire contre une autre lui donne un préavis suffisant, accompagné d’une copie du certificat.
-> 2014, ch. 2, art. 190.
+> 2014, ch. 2, art. 190
 
 
 
@@ -2891,7 +2891,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits**
 
 **95** Malgré le paragraphe 72.03(1) et les règles de droit territoriales, les premières nations des Gwich’in et du Sahtu, le gouvernement tlicho et le gouvernement Gotine de Deline ne sont pas tenus de payer de droits pour l’utilisation des eaux ou le dépôt de déchets, à des fins non commerciales, sur leurs terres, les terres tlichos ou les terres de Deline, selon le cas.
-> 1998, ch. 25, art. 95; 2005, ch. 1, art. 54; 2014, ch. 2, art. 192; 2015, ch. 24, art. 34.
+> 1998, ch. 25, art. 95; 2005, ch. 1, art. 54; 2014, ch. 2, art. 192; 2015, ch. 24, art. 34
 
 
 
@@ -2931,7 +2931,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mention de « permis d’utilisation des eaux »**
 
 - **(4)** Pour l’application de la présente partie, la mention de « permis d’utilisation des eaux », à l’article 90.3 et dans les règlements pris en vertu de celui-ci, ainsi qu’aux articles 72.02, 79.4 et 92.02 à 92.04 vise également le permis d’utilisation des eaux au sens du paragraphe (1).
-> 1998, ch. 25, art. 96; 2005, ch. 1, art. 55; 2014, ch. 2, art. 194; 2019, ch. 19, art. 9.
+> 1998, ch. 25, art. 96; 2005, ch. 1, art. 55; 2014, ch. 2, art. 1942019, ch. 19, art. 9
 
 
 
@@ -2950,7 +2950,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation de l’autorité**
 
 - **(3)** De même, l’Office est tenu de consulter cette autorité avant leur délivrance de tout permis ou toute autorisation visant de telles activités susceptibles d’avoir des répercussions dans la région exemptée.
-> 1998, ch. 25, art. 97; 2000, ch. 32, art. 68.
+> 1998, ch. 25, art. 97; 2000, ch. 32, art. 68
 
 
 
@@ -3001,7 +3001,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** de deux membres nommés après consultation, par le ministre fédéral, des premières nations et du gouvernement tlicho;
 	- **b)** d’un membre nommé sur la proposition du ministre territorial;
 	- **c)** d’un autre membre.
-> 1998, ch. 25, art. 99; 2005, ch. 1, art. 56; 2019, ch. 19, art. 10.
+> 1998, ch. 25, art. 99; 2005, ch. 1, art. 562019, ch. 19, art. 10
 
 
 
@@ -3038,7 +3038,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mission de l’une des formations régionales**
 
 - **(3)** La formation régionale de l’Office visée au paragraphe 99(2.1) a pour mission d’assurer la préservation, la mise en valeur et l’exploitation des terres et des eaux de la façon la plus avantageuse possible pour tous les Canadiens et, en particulier, pour les habitants de sa zone de gestion.
-> 2005, ch. 1, art. 58.
+> 2005, ch. 1, art. 58
 
 
 
@@ -3053,7 +3053,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Compétence des formations régionales**
 
 - **(2)** Les attributions visées au paragraphe (1) sont exercées, en ce qui touche toute forme d’utilisation des terres ou des eaux ou de dépôt de déchets devant être réalisée entièrement dans les limites de sa zone de gestion, et devant vraisemblablement y avoir ses répercussions, par la formation régionale compétente. Celle-ci exerce aussi, malgré ce paragraphe, les attributions conférées aux offices par les articles 78, 79 et 79.2 à 80.1.
-> 1998, ch. 25, art. 102; 2005, ch. 1, art. 58; 2014, ch. 2, art. 195.
+> 1998, ch. 25, art. 102; 2005, ch. 1, art. 58; 2014, ch. 2, art. 195
 
 
 
@@ -3080,7 +3080,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision de la formation**
 
 - **(5)** Il est entendu que toute décision rendue par la formation régionale au sujet de la demande dont elle est saisie a la même validité qu’une décision de l’Office.
-> 1998, ch. 25, art. 103; 2005, ch. 1, art. 59.
+> 1998, ch. 25, art. 103; 2005, ch. 1, art. 59
 
 
 
@@ -3089,7 +3089,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir du président**
 
 **104** Le président désigne, pour l’instruction des demandes visées au paragraphe 103(1), au moins trois membres de l’Office, dont au moins un nommé sur la proposition des premières nations ou après consultation de celles-ci et du gouvernement tlicho — ou nommé par le gouvernement tlicho — et au moins un qui n’est pas ainsi nommé.
-> 1998, ch. 25, art. 104; 2005, ch. 1, art. 60.
+> 1998, ch. 25, art. 104; 2005, ch. 1, art. 60
 
 
 
@@ -3108,7 +3108,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fiction juridique**
 
 - **(3)** Elle est réputée agréée si le ministre fédéral n’y donne pas suite dans les deux mois suivant sa présentation.
-> 1998, ch. 25, art. 105; 2014, ch. 2, art. 196; 2019, ch. 19, art. 11.
+> 1998, ch. 25, art. 105; 2014, ch. 2, art. 1962019, ch. 19, art. 11
 
 
 
@@ -3130,7 +3130,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Recommandations à d’autres autorités**
 
 - **(2)** Il peut également, de sa propre initiative, faire des recommandations au ministre responsable, au ministre territorial et à toute administration locale, respectivement, selon qu’il s’agit de la modification d’une loi fédérale — ou de la prise ou de la modification de ses textes d’application, — d’une règle de droit territoriale ou d’un règlement municipal régissant l’utilisation des terres ou des eaux ou le dépôt de déchets. Il peut en outre faire des recommandations au gouvernement tlicho concernant la modification d’une loi tlicho régissant l’utilisation des terres tlichos ou des eaux qui s’y trouvent ou le dépôt de déchets dans ces lieux et au gouvernement Gotine de Deline concernant la modification d’une loi de Deline régissant l’utilisation des terres de Deline ou des eaux qui s’y trouvent ou le dépôt de déchets dans ces lieux.
-> 2005, ch. 1, art. 61; 2014, ch. 2, art. 197; 2015, ch. 24, art. 35.
+> 2005, ch. 1, art. 61; 2014, ch. 2, art. 197; 2015, ch. 24, art. 35
 
 
 
@@ -3184,7 +3184,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(8)** Un avis de la constitution de formations régionales supplémentaires sous le régime du présent article est publié dans un journal distribué dans la vallée du Mackenzie.
-> 1998, ch. 25, art. 108; 2005, ch. 1, art. 62.
+> 1998, ch. 25, art. 108; 2005, ch. 1, art. 62
 
 
 
@@ -3204,7 +3204,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Instructions du gouvernement tlicho**
 
 **109.1** Le gouvernement tlicho exerce, en ce qui touche l’Office et la formation régionale visée au paragraphe 99(2.1), les attributions qui sont les siennes aux termes de l’article 83 relativement à l’Office des terres et des eaux du Wekeezhii.
-> 2005, ch. 1, art. 63.
+> 2005, ch. 1, art. 63
 
 
 
@@ -3217,7 +3217,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Instructions du gouvernement Gotine de Deline**
 
 **109.11** Le gouvernement Gotine de Deline exerce, en ce qui touche l’Office et la formation régionale visée au paragraphe 99(2), les attributions qui sont les siennes aux termes de l’article 83 relativement à l’Office des terres et des eaux du Sahtu.
-> 2015, ch. 24, art. 36.
+> 2015, ch. 24, art. 36
 
 
 
@@ -3244,7 +3244,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité entre la loi et les instructions**
 
 - **(4)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu de l’article 109 ou le gouvernement Gotine de Deline en vertu de l’article 109.11.
-> 2005, ch. 1, art. 63; 2015, ch. 24, art. 37.
+> 2005, ch. 1, art. 63; 2015, ch. 24, art. 37
 
 
 
@@ -3257,7 +3257,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements applicables**
 
 **109.3** Les règlements pris en vertu de l’article 90.31 s’appliquent au recouvrement des sommes et des frais liés à l’examen des demandes de permis d’utilisation des eaux délivré par l’Office ou au renouvellement, à la modification ou à l’annulation des permis, la mention de « permis d’utilisation des eaux » dans ces règlements valant mention de ce terme au sens du paragraphe 96(1).
-> 2019, ch. 19, art. 12.
+> 2019, ch. 19, art. 12
 
 
 
@@ -3270,7 +3270,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements applicables**
 
 **109.4** Les règlements pris en vertu de l’article 90.32 s’appliquent aux consultations menées par toute personne ou entité en lien avec la délivrance, le renouvellement, la modification, la suspension ou l’annulation, par l’Office, d’un permis d’utilisation des terres ou des eaux ou d’une autre autorisation, la mention de « permis d’utilisation des eaux » et de « permis d’utilisation des terres » dans ces règlements valant mention de ces termes au sens du paragraphe 96(1).
-> 2019, ch. 19, art. 12.
+> 2019, ch. 19, art. 12
 
 
 
@@ -3283,7 +3283,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inspecteur des terres**
 
 **110** L’inspecteur désigné en vertu du paragraphe 84(1) exerce, en ce qui touche l’utilisation des terres ou des eaux et le dépôt de déchets, les attributions qui lui sont conférées en vertu de la partie 3.
-> 1998, ch. 25, art. 110; 2014, ch. 2, art. 198.
+> 1998, ch. 25, art. 110; 2014, ch. 2, art. 198
 
 
 
@@ -3329,7 +3329,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Champ d’application**
 
 - **(2)** La présente partie s’applique aux projets de développement devant être réalisés en tout ou en partie dans la vallée du Mackenzie et ne s’applique pas, à l’exception de l’article 142, aux projets devant être réalisés entièrement à l’extérieur de celle-ci.
-> 1998, ch. 25, art. 111; 2000, ch. 32, art. 55; 2005, ch. 1, art. 65.
+> 1998, ch. 25, art. 111; 2000, ch. 32, art. 55; 2005, ch. 1, art. 65
 
 
 
@@ -3338,7 +3338,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ministre fédéral : attributions**
 
 **111.1** Pour l’application des paragraphes 130(1) à (3) et des articles 131.2, 135 et 137.2, le ministre fédéral exerce les attributions de tout ministre compétent qui est un ministre du gouvernement fédéral.
-> 2014, ch. 2, art. 199.
+> 2014, ch. 2, art. 199
 
 
 
@@ -3365,7 +3365,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Quorum**
 
 - **(4)** Le quorum est de cinq membres, dont au moins deux nommés conformément au paragraphe (2) et au moins deux — outre le président — qui ne sont pas ainsi nommés.
-> 1998, ch. 25, art. 112; 2005, ch. 1, art. 66.
+> 1998, ch. 25, art. 112; 2005, ch. 1, art. 66
 
 
 
@@ -3391,7 +3391,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fiction juridique**
 
 - **(3)** Elle est réputée agréée si le ministre fédéral n’y donne pas suite dans les deux mois suivant sa présentation.
-> 2019, ch. 19, art. 14.
+> 2019, ch. 19, art. 14
 
 
 
@@ -3423,7 +3423,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise en compte des travaux antérieurs**
 
 - **(2)** Les personnes ou organes qui effectuent un examen préalable, une évaluation environnementale, une étude d’impact ou un examen des répercussions environnementales qui tient lieu d’étude d’impact relativement à un projet de développement tiennent compte des travaux d’évaluation déjà effectués au titre de la présente partie à l’égard du projet et peuvent s’appuyer sur ceux-ci.
-> 1998, ch. 25, art. 115; 2005, ch. 1, art. 67; 2014, ch. 2, art. 201.
+> 1998, ch. 25, art. 115; 2005, ch. 1, art. 67; 2014, ch. 2, art. 201
 
 
 
@@ -3432,7 +3432,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Éléments à considérer**
 
 **115.1** Dans l’exercice de ses pouvoirs, l’Office tient compte des connaissances traditionnelles et des renseignements scientifiques mis à sa disposition.
-> 2005, ch. 1, art. 68.
+> 2005, ch. 1, art. 68
 
 
 
@@ -3443,7 +3443,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **116** La [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas, dans la vallée du Mackenzie, aux projets de développement, sauf :
 - **a)** dans les cas où le ministre de l’Environnement a été saisi de l’affaire en vertu de l’alinéa 130(1)c), dans la mesure qui y est prévue;
 - **b)** dans les cas de projets faisant l’objet d’accords visés à l’alinéa 141(2)a) ou (3)b), dans la mesure prévue par ceux-ci.
-> 1998, ch. 25, art. 116; 2005, ch. 1, art. 69; 2014, ch. 2, art. 202.
+> 1998, ch. 25, art. 116; 2005, ch. 1, art. 69; 2014, ch. 2, art. 202
 
 
 
@@ -3475,7 +3475,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Éléments à examiner — examen conjoint**
 
 - **(4)** Les paragraphes (2) et (3) s’appliquent à l’égard de l’examen effectué par une formation conjointe ou une commission conjointe établie par l’Office et une autre autorité.
-> 1998, ch. 25, art. 117; 2005, ch. 1, art. 70.
+> 1998, ch. 25, art. 117; 2005, ch. 1, art. 70
 
 
 
@@ -3490,7 +3490,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exigences**
 
 - **(2)** Le promoteur — première nation des Gwich’in, première nation du Sahtu, gouvernement tlicho, gouvernement Gotine de Deline, administration locale, ministère ou organisme des gouvernements fédéral et territorial — d’un projet de développement pour lequel un tel permis ou une telle autorisation n’est pas requis ne peut prendre aucune mesure irrévocable à son égard avant que n’aient été remplies ces exigences.
-> 1998, ch. 25, art. 118; 2005, ch. 1, art. 71; 2015, ch. 24, art. 38.
+> 1998, ch. 25, art. 118; 2005, ch. 1, art. 71; 2015, ch. 24, art. 38
 
 
 
@@ -3511,7 +3511,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** l’évaluation de la portée des projets de développement;
 - **b)** la forme et le contenu des rapports à faire au titre de la présente partie;
 - **c)** en matière d’étude d’impact, le dépôt et la mise en circulation de l’énoncé des répercussions visé à l’alinéa 134(1)b) et la publication d’un avis de ce dépôt.
-> 1998, ch. 25, art. 120; 2005, ch. 1, art. 72.
+> 1998, ch. 25, art. 120; 2005, ch. 1, art. 72
 
 
 
@@ -3520,7 +3520,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication des motifs**
 
 **121** Sont consignés et mis à la disposition du public les motifs des décisions et des recommandations formulées, dans le cadre du processus mis en place par la présente partie, par l’Office, ses formations, les formations conjointes et les commissions conjointes établies par l’Office et une autre autorité, le ministre fédéral, tout ministre compétent, les organismes administratifs désignés, les autorités administratives, les ministères et organismes fédéraux ou territoriaux, les administrations locales, la première nation des Gwich’in, celle du Sahtu, le gouvernement tlicho ou le gouvernement Gotine de Deline.
-> 1998, ch. 25, art. 121; 2005, ch. 1, art. 73; 2015, ch. 24, art. 39.
+> 1998, ch. 25, art. 121; 2005, ch. 1, art. 73; 2015, ch. 24, art. 39
 
 
 
@@ -3543,7 +3543,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultations**
 
 **123.1** Au cours de l’étude d’impact ou de l’examen des répercussions environnementales d’un projet de développement, la formation de l’Office ou la formation conjointe ou la commission conjointe établie par l’Office et une autre autorité procède aux consultations exigées par les accords de revendication et, en outre, elle peut consulter toute personne qui utilise les ressources de la région où le projet peut avoir des répercussions sur l’environnement.
-> 2005, ch. 1, art. 74.
+> 2005, ch. 1, art. 74
 
 
 
@@ -3558,7 +3558,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Statut et droits conférés par accord**
 
 - **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in, de l’accord du Sahtu, de l’accord tlicho ou de tout autre accord sur des revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada, soit de l’accord de Deline.
-> 2005, ch. 1, art. 74; 2015, ch. 24, art. 40.
+> 2005, ch. 1, art. 74; 2015, ch. 24, art. 40
 
 
 
@@ -3567,7 +3567,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Propositions de nomination**
 
 **123.3** La nomination des membres de la formation de l’Office ou de ceux de la formation conjointe ou de la commission conjointe établie par l’Office et une autre autorité est effectuée conformément aux règles relatives aux propositions de nomination prévues dans les accords de revendication.
-> 2005, ch. 1, art. 74.
+> 2005, ch. 1, art. 74
 
 
 
@@ -3598,7 +3598,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Coopération**
 
 - **(4)** Les organes qui effectuent un examen préalable au sujet du même projet de développement peuvent se consulter, entériner leurs rapports respectifs ou procéder à un examen conjoint. Au surplus, si l’un d’eux est un office constitué en vertu des parties 3 ou 4, les autres sont soustraits à cette obligation en ce qui touche ce projet.
-> 1998, ch. 25, art. 124; 2005, ch. 1, art. 75.
+> 1998, ch. 25, art. 124; 2005, ch. 1, art. 75
 
 
 
@@ -3645,7 +3645,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copie du rapport**
 
 - **(6)** L’organe chargé de l’examen préalable fournit une copie du rapport au promoteur du projet.
-> 1998, ch. 25, art. 125; 2019, ch. 19, art. 17.
+> 1998, ch. 25, art. 1252019, ch. 19, art. 17
 
 
 
@@ -3680,7 +3680,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification**
 
 - **(5)** L’Office notifie au promoteur du projet de développement le renvoi effectué en vertu du paragraphe (2) ou son intention de procéder à l’évaluation environnementale sous le régime du paragraphe (3).
-> 1998, ch. 25, art. 126; 2005, ch. 1, art. 76.
+> 1998, ch. 25, art. 126; 2005, ch. 1, art. 76
 
 
 
@@ -3696,7 +3696,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation de la première nation ou du gouvernement tlicho**
 
 **127.1** L’Office consulte la première nation ou le gouvernement tlicho, selon le cas, avant de terminer l’évaluation environnementale d’un projet de développement devant être réalisé — même en partie — sur les terres de la première nation au sens de l’article 51 ou sur les terres tlichos.
-> 2005, ch. 1, art. 77.
+> 2005, ch. 1, art. 77
 
 
 
@@ -3744,7 +3744,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Régions touchées**
 
 - **(4)** Dans son rapport, l’Office précise la région — même située à l’extérieur de la vallée du Mackenzie — dans laquelle, à son avis, le projet aura vraisemblablement les répercussions visées à l’alinéa (1)b) ou sera vraisemblablement la cause des préoccupations visées à l’alinéa (1)c), ainsi que la mesure dans laquelle la région sera ainsi touchée.
-> 1998, ch. 25, art. 128; 2005, ch. 1, art. 78; 2014, ch. 2, art. 206.
+> 1998, ch. 25, art. 128; 2005, ch. 1, art. 78; 2014, ch. 2, art. 206
 
 
 
@@ -3753,7 +3753,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet suspensif**
 
 **129** En cas de déclaration prévue à l’alinéa 128(1)a), l’autorité administrative, l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement ou le gouvernement tlicho, selon le cas, ne peut procéder à leur délivrance avant l’expiration d’un délai de dix jours suivant la réception de la copie du rapport d’évaluation. Si la déclaration vise un projet pour lequel un tel permis ou une telle autorisation n’est pas nécessaire en vertu d’une règle de droit fédérale ou territoriale ou d’une loi tlicho, le promoteur ne peut en entreprendre la réalisation avant l’expiration du même délai.
-> 1998, ch. 25, art. 129; 2005, ch. 1, art. 79.
+> 1998, ch. 25, art. 129; 2005, ch. 1, art. 79
 
 
 
@@ -3830,7 +3830,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en oeuvre**
 
 - **(5)** Les premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe (4) sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en oeuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
-> 1998, ch. 25, art. 130; 2005, ch. 1, art. 80; 2014, ch. 2, art. 208.
+> 1998, ch. 25, art. 130; 2005, ch. 1, art. 80; 2014, ch. 2, art. 208
 
 
 
@@ -3877,7 +3877,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renseignements supplémentaires**
 
 - **(4)** L’organisme administratif désigné est tenu d’indiquer, au soutien de sa décision ou dans le cadre des consultations visées au paragraphe (1), les renseignements dont il tient compte et qui étaient inconnus de l’Office, ainsi que les questions d’intérêt public qu’il a étudiées et qui n’ont pas été soulevées par ce dernier.
-> 1998, ch. 25, art. 131; 2014, ch. 2, art. 209.
+> 1998, ch. 25, art. 131; 2014, ch. 2, art. 209
 
 
 
@@ -3896,7 +3896,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renseignements supplémentaires**
 
 - **(3)** Il est tenu d’indiquer, au soutien de sa décision ou dans le cadre des consultations visées au paragraphe (1), les renseignements dont il tient compte et qui étaient inconnus de l’Office, ainsi que les questions d’intérêt public qu’il a étudiées et qui n’ont pas été soulevées par ce dernier.
-> 2005, ch. 1, art. 81.
+> 2005, ch. 1, art. 81
 
 
 
@@ -3905,7 +3905,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Préservation des terres, des eaux et de la faune**
 
 **131.2** Pour la prise de toute décision en vertu de l’alinéa 130(1)b) ou des paragraphes 131(1) ou 131.1(1), le ministre fédéral et les ministres compétents, l’organisme administratif désigné ou le gouvernement tlicho, selon le cas, tiennent compte de l’importance de préserver les terres, les eaux et la faune de la vallée du Mackenzie qui peuvent être touchées par le projet de développement.
-> 2005, ch. 1, art. 81.
+> 2005, ch. 1, art. 81
 
 
 
@@ -3946,7 +3946,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Période exclue**
 
 - **(7)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (4) ou de sa prolongation.
-> 1998, ch. 25, art. 132; 2005, ch. 1, art. 82; 2014, ch. 2, art. 212.
+> 1998, ch. 25, art. 132; 2005, ch. 1, art. 82; 2014, ch. 2, art. 212
 
 
 
@@ -3968,7 +3968,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Coordination de l’étude d’impact avec tout examen**
 
 **133.1** L’Office veille, dans la mesure du possible, à ce que l’étude d’impact relative au projet de développement devant, à son avis, être réalisé en partie à l’extérieur de la vallée du Mackenzie soit coordonnée avec tout examen des effets sur l’environnement du projet effectué par l’organisme chargé de l’examen de cette partie du projet.
-> 2005, ch. 1, art. 83.
+> 2005, ch. 1, art. 83
 
 
 
@@ -4031,7 +4031,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(7)** Une copie du rapport est adressée :
 	- **a)** à la première nation des Gwich’in, dans le cas où le projet doit être réalisé — même en partie — sur les terres de cette première nation, au sens de l’article 51;
 	- **b)** à la première nation du Sahtu, dans le cas où le projet doit être réalisé — même en partie — sur les terres de cette première nation, au sens de l’article 51.
-> 1998, ch. 25, art. 134; 2005, ch. 1, art. 84; 2014, ch. 2, art. 213.
+> 1998, ch. 25, art. 134; 2005, ch. 1, art. 84; 2014, ch. 2, art. 213
 
 
 
@@ -4081,7 +4081,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en oeuvre**
 
 - **(2)** Les premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe (1) sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en oeuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
-> 1998, ch. 25, art. 136; 2005, ch. 1, art. 85; 2014, ch. 2, art. 214.
+> 1998, ch. 25, art. 136; 2005, ch. 1, art. 85; 2014, ch. 2, art. 214
 
 
 
@@ -4120,7 +4120,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en oeuvre**
 
 - **(3)** L’organisme administratif désigné est tenu, dans la mesure de sa compétence, de mettre en oeuvre toute recommandation qu’il accepte.
-> 1998, ch. 25, art. 137; 2014, ch. 2, art. 215.
+> 1998, ch. 25, art. 137; 2014, ch. 2, art. 215
 
 
 
@@ -4139,7 +4139,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en œuvre**
 
 - **(3)** Il est tenu, dans la mesure de sa compétence, de mettre en œuvre toute recommandation qu’il accepte.
-> 2005, ch. 1, art. 86.
+> 2005, ch. 1, art. 86
 
 
 
@@ -4148,7 +4148,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Préservation des terres, des eaux et de la faune**
 
 **137.2** Pour la prise de toute décision en vertu des paragraphes 135(1), 137(1) ou 137.1(1), le ministre fédéral et les ministres compétents, l’organisme administratif désigné ou le gouvernement tlicho, selon le cas, tiennent compte de l’importance de préserver les terres, les eaux et la faune de la vallée du Mackenzie qui peuvent être touchées par le projet de développement.
-> 2005, ch. 1, art. 86.
+> 2005, ch. 1, art. 86
 
 
 
@@ -4157,7 +4157,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation de toute autorité responsable**
 
 **137.3** Avant de prendre leur décision en vertu des paragraphes 135(1), 137(1) ou 137.1(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie, les personnes ou organismes concernés tiennent compte de tout rapport de la commission établie en vertu de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) concernant le projet et consultent toute autorité responsable qui doit recevoir un rapport en application de cette loi.
-> 2005, ch. 1, art. 86; 2014, ch. 2, art. 217.
+> 2005, ch. 1, art. 86; 2014, ch. 2, art. 217
 
 
 
@@ -4207,7 +4207,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Période exclue**
 
 - **(6)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (3) ou de sa prolongation.
-> 1998, ch. 25, art. 138; 2005, ch. 1, art. 87; 2014, ch. 2, art. 219.
+> 1998, ch. 25, art. 138; 2005, ch. 1, art. 87; 2014, ch. 2, art. 219
 
 
 
@@ -4230,7 +4230,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Portée de l’étude d’impact en l’absence d’un accord**
 
 - **(4)** Malgré les paragraphes (1) à (3), faute de conclusion, dans le délai réglementaire, de l’accord prévu au présent article, une formation de l’Office réalise une étude d’impact qui ne porte que sur les parties du projet devant être réalisées dans la vallée du Mackenzie.
-> 2005, ch. 1, art. 87; 2014, ch. 2, art. 220.
+> 2005, ch. 1, art. 87; 2014, ch. 2, art. 220
 
 
 
@@ -4294,7 +4294,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de certaines dispositions**
 
 - **(4)** L’examen effectué par cette formation conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe pour réexamen.
-> 1998, ch. 25, art. 140; 2005, ch. 1, art. 88; 2014, ch. 2, art. 222.
+> 1998, ch. 25, art. 140; 2005, ch. 1, art. 88; 2014, ch. 2, art. 222
 
 
 
@@ -4371,7 +4371,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de certaines dispositions**
 
 - **(6)** L’examen effectué par la formation conjointe ou la commission conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe ou à la commission conjointe pour réexamen.
-> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A); 2005, ch. 1, art. 89; 2014, ch. 2, art. 223.
+> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A); 2005, ch. 1, art. 89; 2014, ch. 2, art. 223
 
 
 
@@ -4380,7 +4380,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entente : projets réalisés à l’extérieur**
 
 **142** Dans les cas de projet de développement qui, d’une part, doit être entièrement réalisé soit dans une région des Territoires du Nord-Ouest, du Yukon ou du Nunavut voisine de la vallée du Mackenzie, soit dans une province, et, d’autre part, est susceptible d’avoir des répercussions négatives importantes sur l’environnement de cette vallée, l’Office peut, avec l’agrément du ministre fédéral, conclure avec l’organisme compétent de cette région ou de cette province une entente visant la participation de l’Office à l’examen effectué par cet organisme au sujet des effets sur l’environnement du projet.
-> 1998, ch. 15, art. 48, ch. 25, art. 142; 2002, ch. 7, art. 207(A).
+> 1998, ch. 15, art. 48, ch. 25, art. 142; 2002, ch. 7, art. 207(A)
 
 
 
@@ -4408,7 +4408,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Créances de Sa Majesté**
 
 - **(3)** Les sommes et les frais que le promoteur est tenu de payer en application du paragraphe (1) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
-> 2019, ch. 19, art. 30.
+> 2019, ch. 19, art. 30
 
 
 
@@ -4452,7 +4452,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(6)** Sous réserve des adaptations nécessaires, notamment de celles ci-après, les articles 27, 28 et 44 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) s’appliquent à tout renseignement visé au paragraphe 27(1) de cette loi que l’Office a l’intention de faire verser au registre :
 	- **a)** le renseignement est réputé constituer un document que le responsable d’une institution fédérale a l’intention de communiquer;
 	- **b)** il ne doit pas être tenu compte des mentions de la personne qui fait la demande de communication des renseignements.
-> 2014, ch. 2, art. 224.
+> 2014, ch. 2, art. 224
 
 
 
@@ -4475,7 +4475,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité entre la loi et les instructions**
 
 - **(3)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données en vertu du présent article.
-> 2014, ch. 2, art. 224.
+> 2014, ch. 2, art. 224
 
 
 
@@ -4513,7 +4513,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limite**
 
 - **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1)b) les projets de développement ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 84a) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
-> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90; 2014, ch. 2, art. 226; 2019, ch. 19, art. 32.
+> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90; 2014, ch. 2, art. 2262019, ch. 19, art. 32
 
 
 
@@ -4522,7 +4522,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incorporation par renvoi — restriction levée**
 
 **143.1** La restriction prévue à l’alinéa 18.1(2)a) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) selon laquelle le document doit être incorporé par renvoi dans sa version à une date donnée ne s’applique pas aux pouvoirs de prendre des règlements conférés par la présente partie.
-> 2019, ch. 19, art. 33.
+> 2019, ch. 19, art. 33
 
 
 
@@ -4537,7 +4537,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** Ne constituent pas les mesures visées au paragraphe (1) l’assujettissement à une orientation générale sous forme de directives d’application générale, l’approbation des décisions de l’organisme ou le fait de les modifier ou de les annuler.
-> 1998, ch. 25, art. 144; 2005, ch. 1, art. 91.
+> 1998, ch. 25, art. 144; 2005, ch. 1, art. 91
 
 
 
@@ -4572,7 +4572,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** dans le cas d’une violation relative à la partie 5 et désignée sous le régime de l’alinéa 144.11(1)a), le ministre fédéral. (*review body*)
 
 ***zone de gestion*** S’entend au sens de l’article 51. (*management area*)
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4600,7 +4600,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Plafond — montant de la pénalité**
 
 - **(2)** Le montant de la pénalité établi en application d’un règlement pris en vertu de l’alinéa (1)b) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à 25 000 $ et, dans le cas des autres personnes, à 100 000 $.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4613,7 +4613,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Agents verbalisateurs**
 
 **144.12** Les inspecteurs sont autorisés à agir à titre d’agents verbalisateurs.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4628,7 +4628,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **But de la pénalité**
 
 - **(2)** L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser le respect de la présente loi.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4637,7 +4637,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Participants à la violation : dirigeants, administrateurs et mandataires**
 
 **144.14** Si une personne morale commet une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation et s’exposent à une pénalité dont le montant est déterminé conformément aux règlements, que la personne morale fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4646,7 +4646,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve**
 
 **144.15** Dans les procédures en violation engagées au titre de la présente loi, il suffit, pour prouver la violation, d’établir qu’elle a été commise par un employé ou un mandataire de l’auteur de la violation, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4675,7 +4675,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** dans le cas d’une violation relative à la partie 5, au ministre fédéral et, selon le cas :
 		- **(i)** à l’office ayant compétence à l’égard de la zone de gestion où le projet est entièrement réalisé,
 		- **(ii)** à l’office constitué en vertu de la partie 4, si le projet est réalisé dans plus d’une zone de gestion, dans une zone de gestion et une région autre qu’une zone de gestion ou entièrement dans une région autre qu’une zone de gestion.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4694,7 +4694,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Principes de common law**
 
 - **(2)** Les règles et principes de common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard d’une violation dans la mesure de leur compatibilité avec la présente loi.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4703,7 +4703,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Violation continue**
 
 **144.18** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4718,7 +4718,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(2)** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4727,7 +4727,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 **144.2** Le délai dans lequel le procès-verbal peut être dressé est de deux ans à compter de la date où le ministre fédéral a eu connaissance des faits reprochés.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4740,7 +4740,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Demande de révision**
 
 **144.21** Le prétendu auteur de la violation peut, dans les trente jours suivant la signification d’un procès-verbal ou dans tout délai supérieur prévu dans les règlements, saisir le réviseur d’une demande de révision des faits quant à la violation ou du montant de la pénalité, ou des deux.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4749,7 +4749,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Annulation ou correction du procès-verbal**
 
 **144.22** Tant que le réviseur n’est pas saisi d’une demande de révision du procès-verbal, tout inspecteur peut soit l’annuler, soit corriger toute erreur qu’il contient.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4758,7 +4758,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révision**
 
 **144.23** Sur réception de la demande de révision, le réviseur procède à la révision.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4781,7 +4781,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnités**
 
 - **(4)** La personne citée à comparaître a droit aux indemnités applicables aux convocations de la Cour fédérale.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4820,7 +4820,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copie de la décision**
 
 - **(8)** Selon qu’il s’agit d’un office ou du ministre fédéral, le réviseur fournit une copie de sa décision, sans délai après l’avoir rendue, au ministre fédéral ou à l’office à qui une copie du procès-verbal est fournie en application du paragraphe 144.16(3), respectivement.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4833,7 +4833,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Paiement**
 
 **144.26** Vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure le paiement de la pénalité mentionnée au procès-verbal.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4842,7 +4842,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Défaut**
 
 **144.27** Vaut aveu de responsabilité, en cas de non-paiement de la pénalité dans le délai prévu dans le procès-verbal, le fait de ne pas demander de révision dans le délai prévu à l’article 144.21. Le cas échéant, l’auteur de la violation est tenu du paiement de la pénalité.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4861,7 +4861,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 - **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4876,7 +4876,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enregistrement**
 
 - **(2)** L’enregistrement à tout tribunal compétent confère au certificat de non-paiement valeur de jugement pour la somme visée et les frais afférents à l’enregistrement.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4889,7 +4889,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Authenticité de documents**
 
 **144.3** Dans les procédures pour violation, le document qui paraît être un procès-verbal dressé en vertu du paragraphe 144.16(1) fait foi, sauf preuve contraire, de son authenticité et de son contenu.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4907,7 +4907,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** l’auteur de la violation a payé la pénalité mentionnée dans le procès-verbal;
 	- **b)** il n’a pas fait une demande de révision dans le délai prévu à l’article 144.21;
 	- **c)** une décision défavorable a été rendue par le réviseur.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4935,7 +4935,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mandat**
 
 - **(3)** De plus, il fixe le mandat du comité après avoir demandé et tenu compte de l’avis du gouvernement territorial et, s’agissant d’une étude portant sur des ouvrages ou activités ayant une incidence sur une première nation ou sur la première nation tlicho, de l’avis de cette première nation ou du gouvernement tlicho, selon le cas.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4950,7 +4950,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Statut et droits conférés par accord**
 
 - **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwichin, de l’accord du Sahtu ou de l’accord tlicho, soit de tout autre accord relatif aux revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4959,7 +4959,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres participants à l’étude**
 
 **144.34** Le ministre fédéral peut, s’il l’estime indiqué, conclure un accord ou un arrangement avec toute personne ou tout organisme dont les connaissances ou l’expertise sont pertinentes en lien avec l’étude afin qu’il y participe.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4968,7 +4968,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Éléments à considérer**
 
 **144.35** Dans le cadre de l’étude, le comité tient compte des connaissances traditionnelles et des renseignements scientifiques mis à sa disposition.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4977,7 +4977,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renseignements**
 
 **144.36** Le comité peut, sous réserve de toute autre règle de droit fédérale ou territoriale, obtenir de tout office constitué par la présente loi et des ministères et organismes fédéraux et territoriaux les renseignements qui sont en leur possession et dont il a besoin pour procéder à l’étude.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -4990,7 +4990,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Constitution**
 
 **144.37** S’il estime indiqué de faire procéder à l’étude des répercussions d’ouvrages ou d’activités — actuels ou éventuels — réalisés dans une région de la vallée du Mackenzie et une région qui y est contiguë, le ministre fédéral peut conclure avec l’organisme compétent en matière d’examen des effets sur l’environnement dans cette région un accord ou un arrangement relatif à la constitution d’un comité conjoint chargé de procéder à l’étude et relatif aux modalités de l’étude.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -5003,7 +5003,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapport au ministre fédéral**
 
 **144.38** Au terme de l’étude, le comité ou comité conjoint adresse un rapport au ministre fédéral, qui le met à la disposition du public.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -5012,7 +5012,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise en compte du rapport**
 
 **144.39** Les offices constitués par les paragraphes 36(1), 38(1), 54(1), 56(1), 57.1(1) et 99(1), respectivement, l’Office d’examen des répercussions environnementales de la vallée du Mackenzie, ses formations, les formations conjointes et les commissions conjointes établies par cet office et une autre autorité, ainsi que les organes qui effectuent l’examen préalable d’un projet de développement en application de l’article 124, tiennent compte du rapport dans l’exercice de leurs attributions au titre de la présente loi.
-> 2019, ch. 19, art. 35.
+> 2019, ch. 19, art. 35
 
 
 
@@ -5050,7 +5050,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Participation des premières nations et du gouvernement tlicho**
 
 - **(2)** Dans les cas où ces attributions sont conférées à toute autre personne ou organisme, les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho participent à leur exercice en conformité avec les règlements.
-> 1998, ch. 25, art. 147; 2005, ch. 1, art. 92.
+> 1998, ch. 25, art. 147; 2005, ch. 1, art. 92
 
 
 
@@ -5081,7 +5081,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Participation des premières nations et du gouvernement tlicho**
 
 - **(5)** Les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho participent au processus de vérification en conformité avec les règlements.
-> 1998, ch. 25, art. 148; 2005, ch. 1, art. 93.
+> 1998, ch. 25, art. 148; 2005, ch. 1, art. 93
 
 
 
@@ -5100,7 +5100,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** la collecte de données et l’analyse de celles-ci, de données scientifiques, de connaissances traditionnelles et d’autres renseignements sous le régime de l’article 146;
 - **b)** l’attribution à toute personne ou organisme des pouvoirs et fonctions d’une autorité compétente;
 - **c)** la participation des premières nations des Gwich’in et du Sahtu et du gouvernement tlicho soit à l’exercice des attributions d’une autorité compétente — dans les cas où celles-ci n’ont pas été conférées à un ministre du gouvernement fédéral —, soit au processus de vérification.
-> 1998, ch. 25, art. 150; 2005, ch. 1, art. 94.
+> 1998, ch. 25, art. 150; 2005, ch. 1, art. 94
 
 
 
@@ -5122,7 +5122,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits existants**
 
 **152** Les droits d’utilisation des terres découlant d’un bail, d’une servitude ou d’un autre intérêt sur les terres accordé sous le régime soit de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md), soit d’une règle de droit territoriale, et, en ce qui touche une région désignée, existant le 22 décembre 1998 ou, en ce qui touche toute autre région de la vallée du Mackenzie, existant le 31 mars 2000, sont maintenus, ainsi que les conditions auxquelles leur exercice est assujetti.
-> 1998, ch. 25, art. 152; 2014, ch. 2, art. 233.
+> 1998, ch. 25, art. 152; 2014, ch. 2, art. 233
 
 
 
@@ -5131,7 +5131,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Permis d’utilisation des eaux existants**
 
 **153** Les permis délivrés sous le régime de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) en ce qui touche une région désignée et existant le 22 décembre 1998 ou, en ce qui touche toute autre région de la vallée du Mackenzie, existant le 31 mars 2000, sont maintenus et assimilés aux permis d’utilisation des eaux au sens de la partie 3.
-> 1998, ch. 25, art. 153; 2014, ch. 2, art. 233.
+> 1998, ch. 25, art. 153; 2014, ch. 2, art. 233
 
 
 
@@ -5156,7 +5156,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Toute personne qui, avant l’entrée en vigueur de l’article 84, remplit les fonctions d’un inspecteur pour l’application des règlements pris en vertu de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) est assimilée à un inspecteur désigné en vertu de cet article.
 
 - **(2)** [Abrogé, 2014, ch. 2, art. 235]
-> 1998, ch. 25, art. 157; 2014, ch. 2, art. 235.
+> 1998, ch. 25, art. 157; 2014, ch. 2, art. 235
 
 
 
@@ -5211,6 +5211,895 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 Commission canadienne de sûreté nucléaire<br />- <i>Canadian Nuclear Safety Commission</i>
 
 Office national de l’énergie<br />- <i>National Energy Board</i>
-> 1998, ch. 25, ann.; 2014, ch. 2, art. 237.
+> 1998, ch. 25, ann.; 2014, ch. 2, art. 237
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2005, ch. 1, art. 95
+
+
+**Non-exercice par l’office du Wekeezhii de ses attributions**
+
+**95** 
+
+- **(1)** L’Office des terres et des eaux du Wekeezhii constitué par l’article 57.1 de la Loi sur la gestion des ressources de la vallée du Mackenzie, édicté par l’article 31 de la présente loi, ne peut exercer, pour une période de six mois suivant l’entrée en vigueur de celle-ci, les attributions visées aux articles 58.1 et 59, aux paragraphes 60(1) et (2), aux articles 79.1 à 79.3, 80.1 et 88 et au paragraphe 89(2) de la Loi sur la gestion des ressources de la vallée du Mackenzie.
+
+**Attributions de l’office du Wekeezhii exercées par un autre office**
+
+- **(2)** Pendant cette période, malgré le paragraphe 102(1) de la Loi sur la gestion des ressources de la vallée du Mackenzie, l’Office des terres et des eaux de la vallée du Mackenzie exerce les attributions conférées à l’Office des terres et des eaux du Wekeezhii au titre des articles 58.1, 79.1 à 79.3, 80.1 et 88 et du paragraphe 89(2) de cette loi.
+
+**Compétence exclusive**
+
+- **(3)** Pendant cette période, malgré le paragraphe 32(1) de la Loi sur la gestion des ressources de la vallée du Mackenzie et l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), la Cour suprême des Territoires du Nord-Ouest a compétence exclusive en première instance pour connaître de toute question relative à la compétence de l’Office des terres et des eaux du Wekeezhii, qu’elle soit soulevée ou non par une demande du même type que celle visée à ce paragraphe.
+
+
+
+######           — 2014, ch. 2, art. 241
+
+
+**Définitions**
+
+**241** Les définitions qui suivent s’appliquent au présent article et aux articles 242 à 252.
+
+***autre loi*** La Loi sur la gestion des ressources de la vallée du Mackenzie. (*other Act*)
+
+***formations régionales*** L’Office gwich’in des terres et des eaux, l’Office des terres et des eaux du Sahtu et l’Office des terres et des eaux du Wekeezhii, qui sont devenus des formations régionales de l’Office des terres et des eaux de la vallée du Mackenzie en vertu des paragraphes 99(2) et (2.1) de l’autre loi, dans leur version antérieure à la date d’entrée en vigueur de l’article 193. (*regional panels*)
+
+
+
+######           — 2014, ch. 2, art. 247
+
+
+**Désignation**
+
+**247** Les personnes désignées à titre d’inspecteur ou d’analyste en vertu du paragraphe 35(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), avant la date d’entrée en vigueur de l’article 177, sont réputées, à cette date, être désignées à titre d’inspecteur ou d’analyste en vertu des paragraphes 84(1) et (2), respectivement, de l’autre loi, dans leur version à cette date.
+
+
+
+######           — 2014, ch. 2, art. 248
+
+
+**Réparation**
+
+**248** Toute prise de mesures ordonnée par un inspecteur en vertu du paragraphe 37(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), avant la date d’entrée en vigueur de l’article 177, à l’égard de terres de la vallée du Mackenzie qui sont situées dans une zone fédérale, au sens de l’article 51 de l’autre loi, dans sa version à cette date, est réputée, à cette date, avoir été ordonnée en vertu du paragraphe 86.1(1) de l’autre loi, dans sa version à cette date.
+
+
+
+######           — 2014, ch. 2, art. 249
+
+
+**Biens-fonds non cessibles**
+
+**249** 
+
+- **(1)** Les décrets pris par le gouverneur en conseil en vertu du paragraphe 34(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), avant la date d’entrée en vigueur de l’article 185, à l’égard d’intérêts dans des terres de la vallée du Mackenzie qui sont situées dans une zone fédérale, au sens de l’article 51 de l’autre loi, dans sa version à cette date, sont réputés, à cette date, avoir été pris en vertu du paragraphe 91.1(1) de l’autre loi, édicté par l’article 185.
+
+**Réserve à l’égard de droits d’utilisation des eaux**
+
+- **(2)** Les décrets pris par le gouverneur en conseil en vertu du paragraphe 34(2) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), avant la date d’entrée en vigueur de l’article 185, à l’égard de terres de la vallée du Mackenzie qui sont situées dans une zone fédérale, au sens de l’article 51 de l’autre loi, dans sa version à cette date, sont réputés, à cette date, avoir été pris en vertu du paragraphe 91.1(2) de l’autre loi, édicté par l’article 185.
+
+
+
+######           — 2014, ch. 2, art. 250
+
+
+**Délai**
+
+**250** Tout délai auquel est subordonné, à la date d’entrée en vigueur de l’article 206, l’exercice d’une attribution au titre de la partie 5 de l’autre loi, dans sa version à cette date, qui est liée à un projet de développement, au sens de l’article 111 de l’autre loi, entrepris avant cette date, commence à courir à compter de cette date.
+
+
+
+######           — 2014, ch. 2, art. 252
+
+
+**Règlement sur les eaux des Territoires du Nord-Ouest**
+
+**252** Les dispositions du Règlement sur les eaux des Territoires du Nord-Ouest pris en vertu de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), chapitre 39 des Lois du Canada (1992), qui sont en vigueur avant la date d’entrée en vigueur de l’article 182, sont réputées, à cette date, avoir été édictées par règlement pris en vertu de l’autre loi et demeurent en vigueur, dans la mesure où elles ne sont pas incompatibles avec l’autre loi, dans sa version à cette date, jusqu’à leur abrogation ou remplacement.
+
+
+
+######           — 2019, ch. 19, art. 36
+
+
+**Définition de autre loi**
+
+**36** 
+
+- **(1)** Au présent article, ***autre loi*** s’entend de la Loi sur la gestion des ressources de la vallée du Mackenzie.
+
+**Projet de développement en cours**
+
+- **(2)** La partie 5 de l’autre loi, dans sa version antérieure à la date d’entrée en vigueur de l’article 22, continue de s’appliquer au projet de développement, au sens du paragraphe 111(1) de l’autre loi, dont sont saisis, avant cette date :
+	- **a)** un organisme administratif désigné, au sens de ce paragraphe 111(1), pour l’application des articles 131 et 137 de l’autre loi, dans leur version antérieure à cette date;
+	- **b)** le gouvernement tlicho, au sens de l’article 2 de l’autre loi, pour l’application des articles 131.1 et 137.1 de l’autre loi, dans leur version antérieure à cette date;
+	- **c)** le ministre fédéral, au sens de cet article 2, et tout ministre compétent, au sens de ce paragraphe 111(1);
+	- **d)** l’Office d’examen des répercussions environnementales de la vallée du Mackenzie ou l’une de ses formations;
+	- **e)** une formation conjointe visée au paragraphe 140(2) ou aux alinéas 141(2)b) ou (3)a) de l’autre loi ou une commission visée au paragraphe 41(2) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 19, art. 1
+
+
+**
+> 2014, ch. 2, art. 116
+**
+
+**1** L’article 7.2 de la Loi sur la gestion des ressources de la vallée du Mackenzie est remplacé par ce qui suit :
+
+**Obligation de respecter d’autres exigences**
+
+**7.2** Sauf dans la mesure autorisée par une autre loi, ses règlements ou un décret ou arrêté pris sous son régime, il est entendu que la présente loi, ses règlements, un permis d’utilisation des eaux ou permis d’utilisation des terres délivré sous le régime de cette loi ou un certificat — original ou modifié — délivré en application de celle-ci n’ont pas pour effet d’autoriser une personne à contrevenir à cette autre loi ou aux règlements, décrets ou arrêtés pris sous son régime, ou à ne pas s’y conformer.
+
+
+
+
+
+######           — 2019, ch. 19, art. 13
+
+
+**
+> 2014, ch. 2, art. 199
+**
+
+**13** L’article 111.1 de la même loi est remplacé par ce qui suit :
+
+**Ministre fédéral : attributions**
+
+**111.1** Pour l’application des paragraphes 130(1) à (3), des articles 131.2, 135 et 137.2 et du paragraphe 142.21(10), le ministre fédéral exerce les attributions de tout ministre compétent qui est un ministre du gouvernement fédéral.
+
+
+
+
+
+######           — 2019, ch. 19, art. 15
+
+**15** La même loi est modifiée par adjonction, après l’article 117, de ce qui suit :
+
+**Interdiction — promoteur**
+
+**117.1** 
+
+- **(1)** Le promoteur d’un projet de développement ne peut réaliser — même en partie — le projet que si, selon le cas :
+	- **a)** sous réserve du paragraphe (2), il reçoit l’avis visé au paragraphe 124(1.1) relativement au projet;
+	- **b)** sous réserve du paragraphe (2), le projet est soustrait à l’examen préalable en application du paragraphe 124(2);
+	- **c)** sous réserve du paragraphe (2), le promoteur reçoit, en application du paragraphe 125(6), une copie du rapport d’examen indiquant que le projet ne sera pas la cause de préoccupations pour le public et soit qu’il n’aura pas de répercussions négatives importantes sur l’environnement, soit, s’il doit être entièrement réalisé dans le territoire d’une administration locale, qu’il n’aura vraisemblablement pas de répercussions négatives importantes sur l’air, l’eau ou les ressources renouvelables;
+	- **d)** dans le cas où le projet fait l’objet d’une évaluation environnementale en application de l’article 126, le promoteur le réalise en conformité avec les conditions énoncées dans le certificat original qui lui est délivré en application de l’article 131.3 ou le certificat modifié qui lui est délivré en application du paragraphe 142.21(17) relativement au projet;
+	- **e)** dans le cas où le projet fait l’objet d’une étude d’impact en application de l’article 132 ou d’un examen en application des articles 138, 140 ou 141, le promoteur le réalise en conformité avec les conditions énoncées dans le certificat original qui lui est délivré en application de l’article 137.4 ou le certificat modifié qui lui est délivré en application du paragraphe 142.21(17) relativement au projet.
+
+**Aucune contravention**
+
+- **(2)** Le promoteur peut réaliser — même en partie — le projet pendant la période :
+	- **a)** qui commence le jour où, selon le cas :
+		- **(i)** le promoteur reçoit l’avis visé au paragraphe 124(1.1) relativement au projet,
+		- **(ii)** le projet est soustrait à l’examen préalable en application du paragraphe 124(2),
+		- **(iii)** le promoteur reçoit, en application du paragraphe 125(6), une copie du rapport d’examen énonçant les conclusions visées à l’alinéa (1)c) relativement au projet;
+	- **b)** qui se termine le jour où le renvoi du projet à l’évaluation environnementale lui est notifié en application du paragraphe 126(5).
+
+**Exception**
+
+- **(3)** Le paragraphe (1) ne s’applique pas en cas d’application de l’article 119.
+
+
+
+
+
+######           — 2019, ch. 19, art. 16
+
+**16** L’article 124 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+**Avis**
+
+- **(1.1)** Si le projet est soustrait à l’examen préalable pour l’un des motifs mentionnés aux alinéas (1)a) ou b), l’autorité administrative ou l’organisme administratif désigné en avise par écrit le promoteur du projet.
+
+
+
+######           — 2019, ch. 19, art. 18
+
+
+**
+> 2005, ch. 1, art. 79
+**
+
+**18** L’article 129 de la même loi est abrogé.
+
+
+
+######           — 2019, ch. 19, art. 19
+
+
+**
+> 2005, ch. 1, par. 80(2); 2014, ch. 2, par. 208(4)(F)
+**
+
+**19** Le paragraphe 130(5) de la même loi est remplacé par ce qui suit :
+
+**Mise en oeuvre**
+
+- **(5)** La mise en oeuvre de la décision ministérielle incombe au ministre fédéral et aux ministres compétents. De plus, les premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe (4) sont tenus, dans la mesure de leur compétence, de se conformer à cette décision, notamment en respectant les conditions énoncées dans le certificat original délivré en application de l’article 131.3 ou le certificat modifié délivré en application du paragraphe 142.21(17) relativement au projet en cause.
+
+
+
+######           — 2019, ch. 19, art. 20
+
+**20** L’article 131 de la même loi est modifié par adjonction, après le paragraphe (1.6), de ce qui suit :
+
+**Communication de la décision**
+
+- **(1.7)** L’organisme administratif désigné communique à l’Office la décision prise en vertu du paragraphe (1).
+
+
+
+######           — 2019, ch. 19, art. 21
+
+**21** L’article 131.1 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+**Communication de la décision**
+
+- **(1.1)** Le gouvernement tlicho communique à l’Office la décision prise en vertu du paragraphe (1).
+
+
+
+######           — 2019, ch. 19, art. 22
+
+**22** La même loi est modifiée par adjonction, après l’article 131.2, de ce qui suit :
+
+**Certificat**
+
+**131.3** 
+
+- **(1)** L’Office délivre un certificat à l’égard du projet de développement et le remet au promoteur, si, selon le cas :
+	- **a)** il a fait la déclaration prévue à l’alinéa 128(1)a) relativement au projet et, dans les dix jours suivant celui où il reçoit confirmation de la réception par le ministre fédéral du rapport d’évaluation qui lui a été adressé en application du paragraphe 128(2) et qui contient la déclaration, le ministre fédéral et les ministres compétents n’ont pas pris la mesure visée aux alinéas 130(1)a) ou c) relativement au projet;
+	- **b)** le ministre fédéral et les ministres compétents acceptent, en vertu de l’alinéa 130(1)b), avec ou sans modifications, la recommandation faite par l’Office en vertu du sous-alinéa 128(1)b)(ii) et ni l’organisme administratif désigné, ni le gouvernement tlicho ne se sont prévalus des paragraphes 131(1) et 131.1(1), respectivement, pour la rejeter.
+
+**Précisions**
+
+- **(2)** Le certificat précise que l’évaluation environnementale du projet est terminée et que le promoteur peut réaliser le projet, à condition de respecter les conditions qui y sont énoncées, d’obtenir les permis et autres autorisations nécessaires sous le régime de toute loi fédérale, règle de droit territoriale ou loi tlicho et de se conformer aux autres exigences prévues par de telles lois ou règles de droit.
+
+**Conditions**
+
+- **(3)** Le certificat délivré en application de l’alinéa (1)b) énonce les conditions que le promoteur est tenu de respecter relativement au projet, lesquelles prévoient la mise en oeuvre des mesures suivantes :
+	- **a)** si le ministre fédéral et les ministres compétents ont accepté sans modification la recommandation faite en vertu du sous-alinéa 128(1)b)(ii), les mesures précisées dans celle-ci qui doivent être mises en oeuvre en tout ou en partie par le promoteur;
+	- **b)** s’ils ont accepté avec modifications la recommandation, les mesures qui doivent être mises en oeuvre en tout ou en partie par le promoteur et qui sont précisées dans la décision qu’ils ont prise en vertu de l’alinéa 130(1)b).
+
+**Délai**
+
+- **(4)** Le certificat est délivré :
+	- **a)** s’agissant de l’alinéa (1)a), dans les vingt jours suivant l’expiration du délai de dix jours visé à cet alinéa;
+	- **b)** s’agissant de l’alinéa (1)b), dans les trente jours suivant le premier jour où toutes les décisions en cause ont été communiquées à l’Office.
+
+**Prolongation du délai**
+
+- **(5)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus quarante-cinq jours le délai prévu au paragraphe (4) pour tenir compte des circonstances particulières du projet.
+
+**Communication du certificat**
+
+- **(6)** L’Office fournit une copie du certificat au ministre fédéral et aux premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe 130(4).
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(7)** Les certificats ne sont pas des textes réglementaires pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+
+
+**Obligation des autorités administratives**
+
+**131.4** Les autorités administratives sont tenues, dans la mesure de leurs compétences respectives, d’assortir les permis et autres autorisations qu’elles délivrent, modifient ou renouvellent des conditions visées au paragraphe 131.3(3).
+
+
+
+
+
+######           — 2019, ch. 19, art. 23
+
+**23** 
+
+- **(1)** Le paragraphe 136(1) de la même loi est remplacé par ce qui suit :
+
+**Communication de la décision ministérielle**
+
+**136** 
+
+- **(1)** Le ministre fédéral communique la décision prise en vertu de l’article 135 à l’Office, aux premières nations, administrations locales et autorités administratives touchées par celle-ci et aux ministères et organismes fédéraux et territoriaux concernés.
+
+
+
+**
+> 2005, ch. 1, art. 85; 2014, ch. 2, par. 214(3)(F)
+**
+
+- **(2)** Le paragraphe 136(2) de la même loi est remplacé par ce qui suit :
+
+**Mise en oeuvre**
+
+- **(2)** La mise en oeuvre de la décision ministérielle incombe au ministre fédéral et aux ministres compétents. De plus, les premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe (1) sont tenus, dans la mesure de leur compétence, de se conformer à cette décision, notamment en respectant les conditions énoncées dans le certificat original délivré en application de l’article 137.4 ou le certificat modifié délivré en application du paragraphe 142.21(17) relativement au projet en cause.
+
+
+
+######           — 2019, ch. 19, art. 24
+
+**24** L’article 137 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+**Communication de la décision**
+
+- **(2.1)** L’organisme administratif désigné communique à l’Office la décision prise en vertu du paragraphe (1).
+
+
+
+######           — 2019, ch. 19, art. 25
+
+**25** L’article 137.1 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+**Communication de la décision**
+
+- **(2.1)** Le gouvernement tlicho communique à l’Office la décision prise en vertu du paragraphe (1).
+
+
+
+######           — 2019, ch. 19, art. 26
+
+**26** La même loi est modifiée par adjonction, après l’article 137.3, de ce qui suit :
+
+**Certificat**
+
+**137.4** 
+
+- **(1)** L’Office délivre un certificat à l’égard du projet de développement et le remet au promoteur, si, selon le cas :
+	- **a)** le ministre fédéral et les ministres compétents acceptent, en vertu du paragraphe 135(1), avec ou sans modifications, la recommandation de la formation de l’Office — faite dans son rapport établi en vertu du paragraphe 134(2) — d’agréer le projet avec ou sans mesures correctives ou d’atténuation ou programme de suivi et ni l’organisme administratif désigné, ni le gouvernement tlicho ne se sont prévalus des paragraphes 137(1) et 137.1(1), respectivement, pour la rejeter;
+	- **b)** le ministre fédéral et les ministres compétents rejettent, en vertu du paragraphe 135(1), la recommandation de la formation de l’Office — faite dans son rapport établi en vertu du paragraphe 134(2) — de rejeter le projet et, s’il y a lieu, l’organisme administratif désigné et le gouvernement tlicho la rejettent en vertu des paragraphes 137(1) et 137.1(1), respectivement.
+
+**Précisions**
+
+- **(2)** Le certificat précise que l’étude d’impact du projet est terminée et que le promoteur peut réaliser le projet, à condition de respecter les conditions qui y sont énoncées, d’obtenir les permis et autres autorisations nécessaires sous le régime de toute loi fédérale, règle de droit territoriale ou loi tlicho et de se conformer aux autres exigences prévues par de telles lois ou règles de droit.
+
+**Conditions**
+
+- **(3)** Le certificat énonce les conditions que le promoteur est tenu de respecter relativement au projet, lesquelles prévoient la mise en oeuvre des mesures et programmes suivants :
+	- **a)** si le ministre fédéral et les ministres compétents ont accepté sans modification la recommandation d’agréer le projet avec mesures correctives ou d’atténuation ou programme de suivi, les mesures ou le programme de suivi précisés dans la recommandation qui doivent être mis en oeuvre en tout ou partie par le promoteur;
+	- **b)** s’ils ont accepté avec modifications la recommandation d’agréer le projet avec mesures correctives ou d’atténuation ou programme de suivi, les mesures ou le programme de suivi qui doivent être mis en oeuvre en tout ou en partie par le promoteur et qui sont précisés dans la décision qu’ils ont prise en vertu de l’alinéa 135(1)b);
+	- **c)** s’ils ont accepté avec modifications la recommandation d’agréer le projet sans mesures correctives ou d’atténuation ou programme de suivi, les mesures ou le programme de suivi qui doivent être mis en oeuvre en tout ou en partie par le promoteur et qui sont précisés dans la décision qu’ils ont prise en vertu de l’alinéa 135(1)b);
+	- **d)** s’ils ont rejeté la recommandation de rejeter le projet, les mesures correctives ou d’atténuation ou le programme de suivi qui doivent être mis en oeuvre en tout ou en partie par le promoteur et qui sont précisés dans la décision qu’ils ont prise en vertu de l’alinéa 135(1)b).
+
+**Délai**
+
+- **(4)** Le certificat est délivré dans les trente jours suivant le premier jour où toutes les décisions en cause ont été communiquées à l’Office.
+
+**Prolongation du délai**
+
+- **(5)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus quarante-cinq jours le délai prévu au paragraphe (4) pour tenir compte des circonstances particulières du projet.
+
+**Communication du certificat**
+
+- **(6)** L’Office fournit une copie du certificat au ministre fédéral et aux premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe 136(2).
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(7)** Les certificats ne sont pas des textes réglementaires pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+
+
+**Obligation des autorités administratives**
+
+**137.5** Les autorités administratives sont tenues, dans la mesure de leurs compétences respectives, d’assortir les permis et autres autorisations qu’elles délivrent, modifient ou renouvellent des conditions visées au paragraphe 137.4(3).
+
+
+
+
+
+######           — 2019, ch. 19, art. 27
+
+
+**
+> 2005, ch. 1, art. 87
+**
+
+**27** Le paragraphe 138(2) de la même loi est remplacé par ce qui suit :
+
+**Application de certaines dispositions**
+
+- **(2)** L’examen effectué par cette commission tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 et 137.4 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la commission pour réexamen.
+
+
+
+######           — 2019, ch. 19, art. 28
+
+
+**
+> 2005, ch. 1, art. 88
+**
+
+**28** Le paragraphe 140(4) de la même loi est remplacé par ce qui suit :
+
+**Application de certaines dispositions**
+
+- **(4)** L’examen effectué par cette formation conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 et 137.4 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe pour réexamen.
+
+
+
+######           — 2019, ch. 19, art. 29
+
+
+**
+> 2005, ch. 1, par. 89(2)
+**
+
+**29** Le paragraphe 141(6) de la même loi est remplacé par ce qui suit :
+
+**Application de certaines dispositions**
+
+- **(6)** L’examen effectué par la formation conjointe ou la commission conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 et 137.4 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe ou à la commission conjointe pour réexamen.
+
+
+
+######           — 2019, ch. 19, art. 31
+
+**31** La même loi est modifiée par adjonction, après l’article 142.2, de ce qui suit :
+
+### Modification du certificat
+
+
+**Examen des conditions : Office**
+
+**142.21** 
+
+- **(1)** Avec l’approbation du ministre fédéral, l’Office peut, de sa propre initiative ou sur demande du promoteur ou de tout intéressé, examiner les conditions prévues dans le certificat qu’il a délivré si, selon le cas :
+	- **a)** elles ne permettent pas d’atteindre leurs objectifs ou produisent des effets très différents de ceux prévus lors de la délivrance du certificat;
+	- **b)** le contexte dans lequel s’inscrit le projet de développement est très différent de celui qui était alors prévu;
+	- **c)** des progrès techniques ou de nouvelles connaissances offrent des moyens plus efficaces d’atteindre les objectifs en question.
+
+**Initiative ministérielle**
+
+- **(2)** L’Office examine également les conditions dans le cas où le ministre fédéral l’avise qu’il est parvenu à l’une ou l’autre des conclusions visées aux alinéas (1)a) à c).
+
+**Avis**
+
+- **(3)** Il avise par écrit le ministre fédéral de tout examen effectué en vertu du paragraphe (1) et le promoteur, de tout examen effectué en vertu des paragraphes (1) ou (2).
+
+**Modalités de l’examen**
+
+- **(4)** Il fixe les modalités de l’examen qu’il estime indiquées dans les circonstances.
+
+**Rapport**
+
+- **(5)** Dans les cinq mois suivant l’approbation visée au paragraphe (1) ou la réception de l’avis visé au paragraphe (2), il présente au ministre fédéral un rapport écrit faisant état :
+	- **a)** de son évaluation des conditions en vigueur;
+	- **b)** de ses recommandations quant aux conditions dont devrait être assortie la réalisation du projet.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(6)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (5) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(7)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (6).
+
+**Période exclue**
+
+- **(8)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
+
+**Rapport de l’Office**
+
+- **(9)** Le ministre fédéral transmet le rapport de l’Office à tout ministre compétent.
+
+**Décision ministérielle**
+
+- **(10)** Le ministre fédéral et les ministres compétents peuvent, d’un commun accord, à l’égard de chaque recommandation concernant les conditions, soit l’accepter, soit la renvoyer à l’Office pour réexamen, soit, après avoir consulté ce dernier, l’accepter avec modifications.
+
+**Communication de la décision**
+
+- **(11)** Le ministre fédéral est chargé de communiquer la décision ainsi rendue à l’Office, aux premières nations, administrations locales et autorités administratives touchées par celle-ci ainsi qu’aux ministères et organismes des gouvernements fédéral et territorial concernés.
+
+**Délai**
+
+- **(12)** La communication de la décision est faite dans les trois mois suivant la réception par le ministre fédéral du rapport de l’Office.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(13)** Le ministre fédéral peut prolonger d’au plus deux mois le délai prévu au paragraphe (12) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(14)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (13).
+
+**Délai : réexamen**
+
+- **(15)** Dans le cas où la recommandation est renvoyée à l’Office en vertu du paragraphe (10) pour réexamen, la période nécessaire au renvoi et au réexamen est comprise dans le calcul du délai visé au paragraphe (12) ou de sa prolongation.
+
+**Période exclue**
+
+- **(16)** Dans le cas où le ministre fédéral ou l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (12) ou de sa prolongation.
+
+**Certificat modifié**
+
+- **(17)** Dans les trente jours suivant la réception de la décision rendue en vertu du paragraphe (10), l’Office délivre à l’égard du projet un certificat modifié faisant état des conditions, énoncées dans la décision, dont est assortie sa réalisation.
+
+**Application**
+
+- **(18)** Les paragraphes 131.3(2), (6) et (7) ou 137.4(2), (6) et (7), selon le cas, s’appliquent au certificat modifié.
+
+
+
+**Obligation des autorités administratives**
+
+**142.22** Les autorités administratives sont tenues, dans la mesure de leurs compétences respectives, d’assortir les permis et autres autorisations qu’elles délivrent, modifient ou renouvellent des conditions visées au paragraphe 142.21(17).
+
+
+
+### Projets non réalisés
+
+
+**Certificat non valide**
+
+**142.23** 
+
+- **(1)** Tout certificat original délivré en application des articles 131.3 ou 137.4 cesse d’être valide cinq ans après la date de sa délivrance si la réalisation du projet n’a pas commencé dans ce délai.
+
+**Certificat modifié non valide**
+
+- **(2)** Tout certificat modifié délivré en application du paragraphe 142.21(17) relativement à un projet de développement cesse d’être valide cinq ans après la date de la délivrance du certificat original en application des articles 131.3 ou 137.4, selon le cas, relativement à ce projet si la réalisation du projet n’a pas commencé dans ce délai.
+
+**Interdiction**
+
+- **(3)** Il est interdit de réaliser — même en partie — le projet en question après la cessation de validité du certificat, original ou modifié.
+
+**Nouvelle évaluation environnementale**
+
+- **(4)** En cas de cessation de validité du certificat — original ou modifié —, le promoteur peut demander à l’Office de procéder à une nouvelle évaluation environnementale du projet; le cas échéant, l’affaire est réputée renvoyée à l’Office, au titre de l’article 125, pour qu’il procède à cette évaluation.
+
+**Prise en compte des travaux antérieurs**
+
+- **(5)** Dans le cadre de cette nouvelle évaluation environnementale, l’Office tient compte des travaux d’évaluation déjà effectués au titre de la présente partie à l’égard du projet et peut s’appuyer sur ceux-ci.
+
+
+
+### Exécution et contrôle d’application
+
+
+#### Désignation
+
+
+**Désignation**
+
+**142.24** Le ministre fédéral peut désigner toute personne qualifiée — individuellement ou au titre de son appartenance à une catégorie donnée — à titre d’inspecteur pour exercer des pouvoirs relativement à la vérification du respect de la présente partie ou des ordres donnés en vertu de l’article 142.29 ou à la prévention du non-respect de cette partie ou de ces ordres.
+
+
+
+#### Pouvoirs
+
+
+**Accès au lieu**
+
+**142.25** 
+
+- **(1)** L’inspecteur peut, pour vérifier le respect de la présente partie ou des ordres donnés en vertu de l’article 142.29 ou en prévenir le non-respect, entrer dans tout lieu s’il a des motifs raisonnables de croire qu’un projet de développement y est réalisé ou qu’un document ou une autre chose relatif à un projet de développement s’y trouve.
+
+**Autres pouvoirs**
+
+- **(2)** Il peut, à ces mêmes fins :
+	- **a)** examiner toute chose se trouvant dans le lieu;
+	- **b)** faire usage, directement ou indirectement, des moyens de communication se trouvant dans le lieu;
+	- **c)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour examiner les données qu’il contient ou auxquelles il donne accès;
+	- **d)** établir ou faire établir tout document à partir de ces données;
+	- **e)** faire usage, directement ou indirectement, du matériel de reproduction se trouvant dans le lieu;
+	- **f)** emporter toute chose se trouvant dans le lieu à des fins d’examen ou pour en faire des copies;
+	- **g)** prendre des photographies, effectuer des enregistrements et faire des croquis;
+	- **h)** ordonner au propriétaire ou au responsable du lieu ou à quiconque s’y trouve d’établir, à sa satisfaction, son identité ou d’arrêter ou de reprendre toute activité;
+	- **i)** ordonner au propriétaire de toute chose se trouvant dans le lieu ou à la personne qui en a la possession, la responsabilité ou la charge de ne pas la déplacer ou d’en limiter le déplacement pour la période de temps qu’il estime suffisante;
+	- **j)** ordonner à quiconque de faire fonctionner ou de cesser de faire fonctionner une machine, un véhicule ou de l’équipement se trouvant dans le lieu;
+	- **k)** interdire ou limiter l’accès à tout ou partie du lieu.
+
+**Certificat**
+
+- **(3)** Le ministre fédéral remet à chaque inspecteur un certificat attestant sa qualité; celui-ci le présente, sur demande, au responsable ou à l’occupant du lieu.
+
+**Assistance**
+
+- **(4)** Le propriétaire ou le responsable du lieu, ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance qu’il peut valablement exiger pour lui permettre de vérifier le respect de la présente partie ou des ordres donnés en vertu de l’article 142.29 ou d’en prévenir le non-respect, et de lui fournir les documents, données et renseignements qu’il peut valablement exiger.
+
+**Préavis**
+
+- **(5)** Dans les cas où il est indiqué de le faire, l’inspecteur donne aux premières nations des Gwichins ou du Sahtu ou au gouvernement tlicho un préavis de son intention de procéder à la visite des terres de la première nation ou des terres tlichos, selon le cas.
+
+
+
+**Mandat : maison d’habitation**
+
+**142.26** 
+
+- **(1)** Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois y entrer sans le consentement de l’occupant que s’il est muni d’un mandat décerné en vertu du paragraphe (2).
+
+**Délivrance du mandat**
+
+- **(2)** Sur demande *ex parte*, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à entrer dans une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions ci-après sont réunies :
+	- **a)** la maison d’habitation est un lieu visé au paragraphe 142.25(1);
+	- **b)** l’entrée est nécessaire à la vérification du respect de la présente partie ou des ordres donnés en vertu de l’article 142.29 ou à la prévention du non-respect de cette partie ou de ces ordres;
+	- **c)** soit l’occupant a refusé l’entrée à l’inspecteur, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
+
+
+
+**Entrée dans une propriété privée**
+
+**142.27** 
+
+- **(1)** L’inspecteur peut, pour accéder au lieu visé au paragraphe 142.25(1), entrer dans une propriété privée et y passer; il est entendu que nul ne peut s’y opposer et qu’aucun mandat n’est requis, sauf s’il s’agit d’une maison d’habitation.
+
+**Personne accompagnant l’inspecteur**
+
+- **(2)** Toute personne peut, à la demande de l’inspecteur, accompagner celui-ci en vue de l’aider à accéder au lieu, et ce, sans encourir de poursuites à cet égard.
+
+
+
+**Usage de la force**
+
+**142.28** L’inspecteur ne peut recourir à la force dans l’exécution d’un mandat autorisant l’entrée dans une maison d’habitation que si celui-ci en autorise expressément l’usage et qu’il est accompagné d’un agent de la paix.
+
+
+
+#### Ordres
+
+
+**Mesures exigées**
+
+**142.29** 
+
+- **(1)** S’il a des motifs raisonnables de croire qu’il y a contravention à la présente partie, l’inspecteur peut notamment ordonner à toute personne :
+	- **a)** de cesser de faire toute chose en contravention de la présente partie ou de la faire cesser;
+	- **b)** de prendre les mesures nécessaires pour se conformer à la présente partie ou pour atténuer les effets découlant de la contravention.
+
+**Avis**
+
+- **(2)** L’ordre est communiqué sous forme d’avis écrit précisant les motifs et les délais et modalités d’exécution.
+
+
+
+**Prise de mesures par l’inspecteur**
+
+**142.3** 
+
+- **(1)** Si la personne ne se conforme pas à l’ordre donné en vertu de l’article 142.29 dans le délai imparti, l’inspecteur peut, de sa propre initiative, prendre les mesures qui y sont précisées.
+
+**Recouvrement des frais**
+
+- **(2)** Les frais engagés par Sa Majesté du chef du Canada au titre du paragraphe (1) constituent une créance de Sa Majesté dont le recouvrement peut être poursuivi, devant tout tribunal compétent, contre la personne.
+
+
+
+#### Coordination
+
+
+**Activités des inspecteurs**
+
+**142.31** Les inspecteurs coordonnent leurs activités avec celles des inspecteurs désignés en vertu de la partie 3 et des personnes désignées pour vérifier le respect de toute autre loi fédérale ou de toute règle de droit territoriale — ou en prévenir le non-respect — par souci d’efficacité et pour éviter tout double emploi.
+
+
+
+
+
+######           — 2019, ch. 19, art. 34
+
+**34** La même loi est modifiée par adjonction, après l’article 144, de ce qui suit :
+
+### Interdictions, infractions et peines
+
+
+**Entrave**
+
+**144.01** Il est interdit d’entraver sciemment l’action de tout inspecteur dans l’exercice des attributions que lui confère la présente partie.
+
+
+
+**Déclarations et renseignements faux ou trompeurs**
+
+**144.02** Il est interdit de faire sciemment une déclaration fausse ou trompeuse ou de communiquer sciemment des renseignements faux ou trompeurs, relativement à toute question visée par la présente partie, à toute personne qui agit dans l’exercice des attributions que cette partie lui confère.
+
+
+
+**Infraction**
+
+**144.03** 
+
+- **(1)** Le promoteur d’un projet de développement qui contrevient à l’article 117.1 ou quiconque contrevient au paragraphe 142.23(3) ou à l’ordre donné en vertu du paragraphe 142.29(1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+
+**Entrave et déclarations et renseignements faux ou trompeurs**
+
+- **(2)** Quiconque contrevient aux articles 144.01 ou 144.02 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+
+**Infractions continues**
+
+- **(3)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction prévue au paragraphe (1).
+
+**Disculpation : précautions voulues**
+
+- **(4)** Nul ne peut être déclaré coupable de l’infraction prévue au paragraphe (1) s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+
+
+
+**Prescription**
+
+**144.04** Les poursuites visant une infraction à la présente partie se prescrivent par cinq ans à compter de la date où le ministre fédéral a eu connaissance des faits reprochés.
+
+
+
+**Admissibilité**
+
+**144.05** 
+
+- **(1)** Dans les poursuites pour infraction à la présente partie, le certificat, le rapport ou tout autre document paraissant signé par le ministre fédéral, l’Office, l’autorité administrative, l’organisme administratif désigné ou l’inspecteur est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
+
+**Copies ou extraits**
+
+- **(2)** De même, la copie ou l’extrait de documents établis par le ministre fédéral, l’Office, l’autorité administrative, l’organisme administratif désigné ou l’inspecteur et paraissant certifié conforme par lui est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la certification ni la qualité officielle du certificateur; sauf preuve contraire, il a la force probante d’un original dont l’authenticité serait prouvée de la manière habituelle.
+
+**Date**
+
+- **(3)** Sauf preuve contraire, les documents visés au présent article sont présumés avoir été établis à la date qu’ils portent.
+
+**Préavis**
+
+- **(4)** Ils ne sont reçus en preuve que si la partie qui entend les produire contre une autre lui donne un préavis suffisant, en y joignant une copie de ceux-ci.
+
+
+
+
+
+######           — 2019, ch. 28, art. 164
+
+
+**
+> 2014, ch. 2, par. 115(1) 
+**
+
+**164** L’alinéa 5.2(1)j) de la Loi sur la gestion des ressources de la vallée du Mackenzie est remplacé par ce qui suit :
+
+- **j)** une formation conjointe visée au paragraphe 140(2) ou aux alinéas 141(2)b) ou (3)a) ou une commission visée au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md);
+
+
+
+
+
+######           — 2019, ch. 28, art. 165
+
+
+**
+> 2014, ch. 2, art. 217
+**
+
+**165** L’article 137.3 de la même loi est remplacé par ce qui suit :
+
+**Consultation de toute autorité responsable**
+
+**137.3** Avant de prendre leur décision en vertu des paragraphes 135(1), 137(1) ou 137.1(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie, les personnes ou organismes concernés tiennent compte de tout rapport de la commission établie en vertu de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) concernant le projet et consultent l’Agence canadienne d’évaluation d’impact.
+
+
+
+
+
+######           — 2019, ch. 28, art. 166
+
+
+**
+> 2014, ch. 2, par. 219(1)
+**
+
+**166** 
+
+- **(1)** Le passage du paragraphe 138(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Rapport de la commission après un renvoi dans l’intérêt national**
+
+**138** 
+
+- **(1)** Outre ce qui est prévu à l’alinéa 51(1)e) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md), à la suite du renvoi effectué en vertu de l’alinéa 130(1)c) de la présente loi, la commission qui est constituée sous le régime du paragraphe 40(2) de cette loi et qui fait l’objet de l’accord visé aux paragraphes (3) ou 138.1(1) adresse son rapport dans les quinze mois suivant la date où elle a été ainsi constituée :
+
+
+
+**
+> 2014, ch. 2, par. 219(4)
+**
+
+- **(2)** Le paragraphe 138(3) de la même loi est remplacé par ce qui suit :
+
+**Renvoi : alinéa 130(1)c)**
+
+- **(3)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement, à l’exception d’un projet visé à l’article 138.1, l’Office doit conclure avec lui, dans les trois mois suivant la date où ce ministre a été saisi du projet, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
+
+
+
+######           — 2019, ch. 28, art. 167
+
+
+**
+> 2014, ch. 2, art. 220
+**
+
+**167** Le paragraphe 138.1(1) de la même loi est remplacé par ce qui suit :
+
+**Accord après un renvoi dans l’intérêt national**
+
+**138.1** 
+
+- **(1)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure avec lui un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
+
+
+
+
+
+######           — 2019, ch. 28, art. 168
+
+
+**
+> 2014, ch. 2, par. 223(1)
+**
+
+**168** 
+
+- **(1)** L’alinéa 141(2)a) de la même loi est remplacé par ce qui suit :
+
+- **a)** dans les cas où l’examen des répercussions environnementales est, dans la région voisine ou la province, régi par la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md), conclure avec le ministre de l’Environnement un accord conformément au paragraphe 39(1) de cette loi visant un examen par une commission conjointe;
+
+
+
+**
+> 2014, ch. 2, par. 223(3)
+**
+
+- **(2)** L’alinéa 141(3)b) de la même loi est remplacé par ce qui suit :
+
+- **b)** avec le ministre de l’Environnement, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci, dans les cas où ce ministre est habilité à conclure un accord en vertu du paragraphe 39(1) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
+
+
+
+
+
+######           — 2019, ch. 28, art. 169
+
+
+**
+> 2014, ch. 2, par. 226(4)
+**
+
+**169** Le paragraphe 143(3) de la même loi est remplacé par ce qui suit :
+
+**Limite**
+
+- **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1)b) les projets de développement ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 109(1)b) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
+
+
+
+######           — 2019, ch. 28, art. 170
+
+**170** L’annexe de la même loi est modifiée par suppression de ce qui suit :
+
+Office national de l’énergie<br />- <i>National Energy Board</i>
+
+
+
+######           — 2019, ch. 28, art. 171
+
+**171** L’annexe de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
+
+
+
+######           — 2019, ch. 28, al. 188a)
+
+
+**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
+
+**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
+- **a)** dans la Loi sur la gestion des ressources de la vallée du Mackenzie :
+	- **(i)** l’article 116,
+	- **(ii)** l’alinéa 130(1)c);
+
 
 
