@@ -47,11 +47,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***membre*** Membre d’une bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), sauf si elle est partie à un accord global sur l’autonomie gouvernementale mis en vigueur par une loi fédérale. (*First Nation*)
 
 ***rémunération*** Vise les salaires, traitements, commissions, bonis, droits, honoraires et dividendes, tout autre avantage pécuniaire — exception faite des remboursements de dépenses — et les avantages non pécuniaires. (*remuneration*)
+> 2013, ch. 7, art. 22019, ch. 29, art. 368
+
 
 
 
@@ -156,7 +158,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Site Internet : ministre**
 
-**9** Le ministre publie les documents visés aux alinéas 7(1)a) à d) dans le site Internet du ministère des Affaires indiennes et du Nord canadien, dès que possible après qu’ils lui aient été communiqués par la première nation ou qu’ils aient été publiés dans un site Internet en application du paragraphe 8(1).
+**9** Le ministre publie les documents visés aux alinéas 7(1)a) à d) dans le site Internet du ministère des Relations Couronne-Autochtones et des Affaires du Nord, dès que possible après qu’ils lui aient été communiqués par la première nation ou qu’ils aient été publiés dans un site Internet en application du paragraphe 8(1).
+> 2013, ch. 7, art. 92019, ch. 29, art. 369
+
 
 
 
@@ -206,5 +210,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fiction**
 
 - **(2)** Toute somme retenue en vertu de l’alinéa (1)b) est réputée être une somme exigible pour l’application de l’article 37.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 29, par. 368(2)
+
+**368** 
+
+- **(2)** La définition de ***ministre***, à l’article 2 de la même loi, est remplacée par ce qui suit :
+
+
+***ministre*** Le ministre des Services aux Autochtones. (*Minister*)
+
+
+
+
+
+######           — 2019, ch. 29, par. 369(2)
+
+**369** 
+
+- **(2)** L’article 9 de la même loi est remplacé par ce qui suit :
+
+**Site Internet : ministre**
+
+**9** Le ministre publie les documents visés aux alinéas 7(1)a) à d) dans le site Internet du ministère des Services aux Autochtones, dès que possible après qu’ils lui aient été communiqués par la première nation ou qu’ils aient été publiés dans un site Internet en application du paragraphe 8(1).
+
+
+
 
 
