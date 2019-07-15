@@ -24,7 +24,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Titre abrégé**
 
-**1** Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba.
+**1** [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba](/fr/Lois/Lois%20du%20Canada/2000/ch.%2033.md).
 
 
 
@@ -110,11 +110,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***mines et minéraux*** Les mines et les minéraux précieux et communs, y compris le sable et le gravier, le pétrole et le gaz, et les redevances afférentes. (*mines and minerals*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***première nation*** Bande au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*first nation*)
 
 ***réserve*** S’entend au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*reserve*)
+> 2000, ch. 33, art. 82019, ch. 29, art. 373
+
 
 
 
@@ -148,7 +150,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** l’accord applicable permet la prorogation de droits ou d’intérêts de cette nature et toute exigence prévue par celui-ci en matière de prorogation a été remplie;
 	- **b)** le droit ou l’intérêt a été concédé au tiers au titre de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md);
 	- **c)** il a été octroyé au tiers conformément aux articles 12 ou 13.
-> 2000, ch. 33, art. 11; 2001, ch. 4, art. 165; 2002, ch. 3, art. 8(F).
+> 2000, ch. 33, art. 11; 2001, ch. 4, art. 165; 2002, ch. 3, art. 8(F)
 
 
 
@@ -175,7 +177,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Certains actes réputés faits en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
 
 - **(5)** À compter de la mise de côté de terres à titre de réserve en vertu de l’article 11, tout droit ou intérêt désigné par voie de cession en vertu du paragraphe (1) est réputé l’avoir été en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et tout octroi visé au paragraphe (3) est réputé avoir été fait en vertu de cette loi.
-> 2000, ch. 33, art. 12; 2002, ch. 3, art. 9.
+> 2000, ch. 33, art. 12; 2002, ch. 3, art. 9
 
 
 
@@ -194,7 +196,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Certains actes réputés faits en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
 
 - **(3)** À compter de la mise de côté de terres à titre de réserve en vertu de l’article 11, le permis délivré en vertu du paragraphe (1) est réputé l’avoir été en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et le consentement visé à ce paragraphe est réputé un consentement donné en vertu de cette loi.
-> 2000, ch. 33, art. 13; 2002, ch. 3, art. 10.
+> 2000, ch. 33, art. 13; 2002, ch. 3, art. 10
 
 
 
@@ -239,6 +241,52 @@ Accord conclu par la nation crie de Sapotaweyak, en date du 11 septembre 1997
 
 
 Accord conclu par la nation crie de Norway House, en date du 31 décembre 1997
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2018, ch. 27, art. 677
+
+
+**[Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba](/fr/Lois/Lois%20du%20Canada/2000/ch.%2033.md)**
+
+**677** Si le conseil d’une première nation a pris une résolution demandant au ministre de mettre de côté à titre de réserve certaines terres conformément à la [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba](/fr/Lois/Lois%20du%20Canada/2000/ch.%2033.md) et que, à la date d’entrée en vigueur du présent article, ces terres n’ont pas été mises de côté, les règles ci-après s’appliquent :
+- **a)** toute désignation ou tout octroi d’un droit ou intérêt fait au titre de l’article 12 de la [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba](/fr/Lois/Lois%20du%20Canada/2000/ch.%2033.md), dans sa version antérieure à l’entrée en vigueur du présent article, est réputé avoir été fait au titre de l’article 5 de la [Loi sur l’ajout de terres aux réserves et la création de réserves](/fr/Lois/Lois%20du%20Canada/2018/ch.%2027,%20art.%20675.md);
+- **b)** toute démarche qui est en cours sous le régime de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), en application de la [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba](/fr/Lois/Lois%20du%20Canada/2000/ch.%2033.md), entreprise en vue d’obtenir une désignation, est continuée en application de la [Loi sur l’ajout de terres aux réserves et la création de réserves](/fr/Lois/Lois%20du%20Canada/2018/ch.%2027,%20art.%20675.md);
+- **c)** tout permis délivré ou consentement donné au titre de l’article 13 de la [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba](/fr/Lois/Lois%20du%20Canada/2000/ch.%2033.md), dans sa version antérieure à l’entrée en vigueur du présent article, est réputé l’avoir été au titre de l’article 6 de la [Loi sur l’ajout de terres aux réserves et la création de réserves](/fr/Lois/Lois%20du%20Canada/2018/ch.%2027,%20art.%20675.md).
+
+
+
+######           — 2018, ch. 27, art. 680
+
+**680** Le titre intégral de la [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba](/fr/Lois/Lois%20du%20Canada/2000/ch.%2033.md) est remplacé par ce qui suit :Loi concernant l’accord conclu avec la nation crie de Norway House sur le règlement de questions liées à la submersion de terres
+
+
+
+######           — 2018, ch. 27, art. 681
+
+**681** L’article 1 de la même loi est remplacé par ce qui suit :
+
+**Titre abrégé**
+
+**1** Loi sur la mise en oeuvre de mesures concernant le règlement de revendications au Manitoba (nation crie de Norway House).
+
+
+
+
+
+######           — 2018, ch. 27, art. 682
+
+**682** La partie 2 de la même loi est abrogée.
+
+
+
+######           — 2018, ch. 27, art. 683
+
+**683** L’annexe de la même loi est abrogée.
 
 
 
