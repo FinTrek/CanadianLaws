@@ -97,7 +97,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 ***federal independent regulatory agency*** means any body named in Part 1 of the schedule. (*organisme administratif autonome fédéral*)
 
-***federal minister*** means the Minister of Indian Affairs and Northern Development, unless another member of the Queen’s Privy Council for Canada is designated by the Governor in Council as the federal minister for the purposes of this Act. (*ministre fédéral*)
+***federal minister*** means the Minister of Northern Affairs, unless another member of the Queen’s Privy Council for Canada is designated by the Governor in Council as the federal minister for the purposes of this Act. (*ministre fédéral*)
 
 ***fee simple settlement land*** means land that is, or is to be treated as, fee simple settlement land, as referred to in the definition settlement land. (*terres désignées en fief simple*)
 
@@ -181,7 +181,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Grant of interest in land**
 
 - **(3)** In this Act, a reference to the granting of an interest in land includes only the granting of such an interest in circumstances where there is a discretion whether to grant it or not.
-> 2003, c. 7, ss. 2, 133(E).
+> 2003, c. 7, ss. 2, 133(E)2019, c. 29, s. 374
 
 
 
@@ -236,7 +236,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Non-application**
 
 **6** The [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply in Yukon.
-> 2003, c. 7, s. 6; 2015, c. 19, s. 2.
+> 2003, c. 7, s. 6; 2015, c. 19, s. 2
 
 
 
@@ -290,7 +290,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Consultation of first nations**
 
 - **(6)** The Council shall consult the first nations before nominating a person to the Board.
-> 2003, c. 7, s. 8; 2015, c. 19, s. 3.
+> 2003, c. 7, s. 8; 2015, c. 19, s. 3
 
 
 
@@ -326,7 +326,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Acting after expiry of term**
 
 - **(4)** If a member is a member of the executive committee or of a panel of the Board and, while that committee or panel is conducting a screening or review of a project, their term expires before a decision document is issued by each decision body to whom the committee or panel has made a recommendation in respect of that project, they may — in accordance with the by-laws of the Board or, in the absence of an applicable by-law, the direction of the Chairperson — continue to perform their functions in relation to that screening or review until those decision documents are issued. For the purpose of the appointment of a replacement, the member’s office is considered to be vacant as soon as their term expires.
-> 2003, c. 7, s. 10; 2015, c. 19, s. 4.
+> 2003, c. 7, s. 10; 2015, c. 19, s. 4
 
 
 
@@ -349,7 +349,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Acting after removal of member**
 
 - **(4)** If a member is a member of the executive committee or of a panel of the Board and, while that committee or panel is conducting a screening or review of a project, they are removed from office under subsection (2) before a decision document is issued by each decision body to whom the committee or panel has made a recommendation in respect of that project, they may — in accordance with the by-laws of the Board or, in the absence of an applicable by-law, the direction of the Chairperson — continue to perform their functions in relation to that screening or review until those decision documents are issued. For the purpose of the appointment of a replacement, the member’s office is considered to be vacant as soon as they are removed from office.
-> 2003, c. 7, s. 11; 2015, c. 19, s. 5.
+> 2003, c. 7, s. 11; 2015, c. 19, s. 5
 
 
 
@@ -388,7 +388,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Benefits**
 
 - **(3)** The members of the Board and its employees are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 2003, c. 7, s. 14, c. 22, s. 277(E).
+> 2003, c. 7, s. 14, c. 22, s. 277(E)
 
 
 
@@ -470,7 +470,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(3)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of an order altering boundaries, but the Board shall publish a notice of the order in the Canada Gazette, in a periodical that, in the Board’s opinion, has a large circulation in Yukon and, if any part of the affected assessment districts falls within the territory of the Tetlit Gwich’in, in a periodical distributed in the Gwich’in Settlement Area referred to in the Gwich’in Agreement.
+- **(3)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of an order altering boundaries, but the Board shall publish a notice of the order in the [Canada Gazette](http://www.gazette.gc.ca/), in a periodical that, in the Board’s opinion, has a large circulation in Yukon and, if any part of the affected assessment districts falls within the territory of the Tetlit Gwich’in, in a periodical distributed in the Gwich’in Settlement Area referred to in the Gwich’in Agreement.
 
 
 
@@ -487,7 +487,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Notice**
 
-- **(3)** The federal minister shall publish a notice of the selection of a community, or of any change in the selection, in the Canada Gazette, in a periodical that, in the federal minister’s opinion, has a large circulation in Yukon and, if any part of the affected assessment district falls within the territory of the Tetlit Gwich’in, in a periodical distributed in the Gwich’in Settlement Area referred to in the Gwich’in Agreement.
+- **(3)** The federal minister shall publish a notice of the selection of a community, or of any change in the selection, in the [Canada Gazette](http://www.gazette.gc.ca/), in a periodical that, in the federal minister’s opinion, has a large circulation in Yukon and, if any part of the affected assessment district falls within the territory of the Tetlit Gwich’in, in a periodical distributed in the Gwich’in Settlement Area referred to in the Gwich’in Agreement.
 
 
 
@@ -566,7 +566,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Audit**
 
 - **(3)** The accounts, financial statements and financial transactions of the Board shall be audited annually by the auditor of the Board and, where the federal minister requests, by the Auditor General of Canada. The auditor and, where applicable, the Auditor General of Canada shall, as soon as practicable, make a report of the audit to the Board and the federal minister.
-> 2003, c. 7, s. 28; 2017, c. 26, s. 62.
+> 2003, c. 7, s. 28; 2017, c. 26, s. 62
 
 
 
@@ -612,7 +612,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Categories of projects, etc.**
 
 - **(4)** Rules made under this section may provide for different types of screenings or reviews for different categories of projects, existing projects or plans, or activities outside Yukon, as the case may be.
-> 2003, c. 7, s. 30; 2015, c. 19, s. 6.
+> 2003, c. 7, s. 30; 2015, c. 19, s. 6
 
 
 
@@ -647,7 +647,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Rules made by designated office**
 
 - **(5)** A designated office may make rules with respect to the conduct of its evaluations, including rules respecting any of the matters specified in subsections (1) to (3), but rules made by the Board prevail over rules made by a designated office to the extent of any inconsistency.
-> 2003, c. 7, s. 31; 2015, c. 19, s. 7.
+> 2003, c. 7, s. 31; 2015, c. 19, s. 7
 
 
 
@@ -680,7 +680,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **34** 
 
-- **(1)** At least 60 days before making rules, the Board or a designated office shall publish a notice of any proposed rules in the Canada Gazette, in a periodical that, in its opinion, has a large circulation in Yukon and in a periodical distributed in the Gwich’in Settlement Area referred to in the Gwich’in Agreement and shall, in the notice, invite written representations to be made to it with respect to the proposed rules within 60 days after publication.
+- **(1)** At least 60 days before making rules, the Board or a designated office shall publish a notice of any proposed rules in the [Canada Gazette](http://www.gazette.gc.ca/), in a periodical that, in its opinion, has a large circulation in Yukon and in a periodical distributed in the Gwich’in Settlement Area referred to in the Gwich’in Agreement and shall, in the notice, invite written representations to be made to it with respect to the proposed rules within 60 days after publication.
 
 **Exception**
 
@@ -688,7 +688,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Publication of rules**
 
-- **(3)** Rules made by the Board or a designated office shall be published in the Canada Gazette immediately after they are made.
+- **(3)** Rules made by the Board or a designated office shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) immediately after they are made.
 
 
 
@@ -699,7 +699,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 - **(a)** for the conduct and management of its internal administrative affairs;
 - **(b)** specifying grounds for the removal of members from office other than for cause, for the purposes of subsection 11(1); and
 - **(c)** respecting the performance of a member’s functions for the purposes of subsections 10(4) and 11(4).
-> 2003, c. 7, s. 35; 2015, c. 19, s. 8.
+> 2003, c. 7, s. 35; 2015, c. 19, s. 8
 
 
 
@@ -818,7 +818,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Optional matters**
 
 - **(4)** A designated office, the executive committee or a panel of the Board may also take into consideration any matter that it considers relevant in the assessment of a project or existing project.
-> 2003, c. 7, s. 42; 2015, c. 19, s. 9.
+> 2003, c. 7, s. 42; 2015, c. 19, s. 9
 
 
 
@@ -849,7 +849,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Consideration of previous assessments**
 
 - **(6)** In conducting an assessment of the project to which the new proposal relates, a designated office, the executive committee or a panel of the Board must consider, and may rely on, any assessment activities previously carried out under this Act in respect of the project.
-> 2003, c. 7, s. 43; 2015, c. 19, s. 10.
+> 2003, c. 7, s. 43; 2015, c. 19, s. 10
 
 
 
@@ -899,7 +899,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Authority and validity**
 
 **46.1** The failure of the federal minister, the Minister of the Environment, the territorial minister, the Board, a decision body, a designated office, the executive committee, a panel of the Board or a joint panel to exercise a power or perform a duty or function within a period provided for under this Act does not terminate their authority to do so nor does it invalidate any document prepared or submitted or any decision or action taken in the exercise or performance of their powers, duties or functions.
-> 2015, c. 19, s. 11.
+> 2015, c. 19, s. 11
 
 
 
@@ -924,7 +924,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(b)** a territorial agency, municipal government, territorial independent regulatory agency or first nation is the proponent and an authorization or the grant of an interest in land would be required for the activity to be undertaken by a private individual;
 	- **(c)** an authorization or the grant of an interest in land by a government agency, independent regulatory agency, municipal government or first nation is required for the activity to be undertaken; or
 	- **(d)** an authorization by the Governor in Council is required for the activity to be undertaken.
-> 2003, c. 7, s. 47; 2015, c. 19, s. 12.
+> 2003, c. 7, s. 47; 2015, c. 19, s. 12
 
 
 
@@ -956,7 +956,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(a)** in an area that contains a heritage resource, other than a record only, or that is a heritage resource, and that is for that reason protected by federal, territorial or first nation law or that is identified, in a land use plan in effect under a final agreement, as an area that should be so protected;
 	- **(b)** in a special management area that is identified as such in a final agreement or that is established in accordance with a final agreement; or
 	- **(c)** in an area that forms the habitat for any species of plant or wildlife that is determined to be rare, threatened, endangered or at risk by or under federal, territorial or first nation law.
-> 2003, c. 7, s. 48; 2015, c. 19, s. 13.
+> 2003, c. 7, s. 48; 2015, c. 19, s. 13
 
 
 
@@ -1002,7 +1002,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Notification of Environment Minister**
 
 - **(4)** The executive committee shall notify the Minister of the Environment of any proposal submitted to it under paragraph (1)(a) for a project for which there is a federal decision body.
-> 2003, c. 7, s. 50; 2015, c. 19, s. 15.
+> 2003, c. 7, s. 50; 2015, c. 19, s. 15
 
 
 
@@ -1098,7 +1098,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Documentation**
 
 - **(5)** Where a designated office refers a project to the executive committee, it shall provide the executive committee with copies of its documentation relating to the project.
-> 2003, c. 7, s. 56; 2015, c. 19, s. 16; 2017, c. 34, s. 3.
+> 2003, c. 7, s. 56; 2015, c. 19, s. 16; 2017, c. 34, s. 3
 
 
 
@@ -1154,7 +1154,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Notice of reasons for review**
 
 - **(4)** Where the executive committee requires a review under paragraph (1)(d) or subsection (2), it shall provide written reasons for doing so to the proponent and any first nation consulted under subsection 50(3) as well as to any government agency, independent regulatory agency or first nation that has notified the executive committee of its interest in the project or in projects of that kind.
-> 2003, c. 7, s. 58; 2015, c. 19, s. 17; 2017, c. 34, s. 4.
+> 2003, c. 7, s. 58; 2015, c. 19, s. 17; 2017, c. 34, s. 4
 
 
 
@@ -1163,7 +1163,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Recommendation for non-referral rejected**
 
 **59** If the executive committee recommends that a project not be referred for a review, but that recommendation is rejected by a decision body for the project and the decision body so notifies the executive committee in writing within 15 days after receiving the recommendation, the executive committee shall require a review of the project.
-> 2003, c. 7, s. 59; 2015, c. 19, s. 18.
+> 2003, c. 7, s. 59; 2015, c. 19, s. 18
 
 
 
@@ -1228,7 +1228,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Determination by Minister of the Environment**
 
 - **(4)** After receiving a notification of the executive committee’s determination under paragraph (2)(b), the Minister of the Environment may consider and determine the same question and, if that Minister advises the executive committee of a contrary determination within 30 days after the notification, the executive committee shall make a request under paragraph (1)(b).
-> 2003, c. 7, s. 61; 2015, c. 19, s. 19.
+> 2003, c. 7, s. 61; 2015, c. 19, s. 19
 
 
 
@@ -1237,7 +1237,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Response to request**
 
 **62** The Minister of the Environment shall, within 30 days after receiving a request made under paragraph 61(1)(b), notify the executive committee whether he or she agrees to the request.
-> 2003, c. 7, s. 62; 2015, c. 19, s. 19.
+> 2003, c. 7, s. 62; 2015, c. 19, s. 19
 
 
 
@@ -1293,7 +1293,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(a)** direct some or all of the remaining members of the panel to resume the review;
 	- **(b)** appoint another member to the panel and direct the panel to resume or recommence the review; or
 	- **(c)** appoint a new panel and direct the panel to recommence the review.
-> 2003, c. 7, s. 65; 2015, c. 19, s. 20.
+> 2003, c. 7, s. 65; 2015, c. 19, s. 20
 
 
 
@@ -1339,7 +1339,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **For greater certainty**
 
 - **(3)** For greater certainty, the fact that a panel of the board is coordinating its review with another authority does not permit the panel to make a recommendation concerning the portion of the project to be carried out outside Yukon.
-> 2015, c. 19, s. 21.
+> 2015, c. 19, s. 21
 
 
 
@@ -1380,7 +1380,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Indemnification of panel members**
 
 - **(5)** The members of a joint panel shall be indemnified by the person or body referred to in paragraph (3)(e) for all damages awarded against them, for any settlement paid by them with the approval of the federal minister and that person or body and for all expenses reasonably incurred by them, in respect of any claim arising out of their functions as members that were carried out honestly and in good faith with a view to the best interests of the joint panel.
-> 2003, c. 7, s. 67; 2015, c. 19, s. 22.
+> 2003, c. 7, s. 67; 2015, c. 19, s. 22
 
 
 
@@ -1480,7 +1480,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Other recipient of recommendation**
 
 - **(5)** A recommendation of a panel of the Board or a joint panel shall be made in writing with reasons and a copy provided to the proponent.
-> 2003, c. 7, s. 72; 2015, c. 19, s. 23; 2017, c. 34, s. 6.
+> 2003, c. 7, s. 72; 2015, c. 19, s. 23; 2017, c. 34, s. 6
 
 
 
@@ -1510,7 +1510,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Decision on recommendation from designated office or joint panel**
 
 **75** If a designated office or a joint panel makes a recommendation to a decision body, the decision body shall issue a decision document within the period prescribed by the regulations accepting, rejecting or varying the recommendation.
-> 2003, c. 7, s. 75; 2015, c. 19, s. 25.
+> 2003, c. 7, s. 75; 2015, c. 19, s. 25
 
 
 
@@ -1533,7 +1533,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 - **(3)** On being notified under subsection (2),
 	- **(a)** every other decision body for the project shall discontinue its consideration of the recommendation; and
 	- **(b)** no person or body required under sections 82 to 88 to implement a decision document already issued shall take any action that would enable the project to be undertaken.
-> 2003, c. 7, s. 76; 2015, c. 19, s. 26.
+> 2003, c. 7, s. 76; 2015, c. 19, s. 26
 
 
 
@@ -1552,7 +1552,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **New recommendation**
 
 - **(3)** Every decision body shall, within the period prescribed by the regulations, issue a decision document accepting, rejecting or varying the new recommendation, and that decision document replaces any previous decision document issued by it in respect of the project.
-> 2003, c. 7, s. 77; 2015, c. 19, s. 27; 2017, c. 34, s. 7.
+> 2003, c. 7, s. 77; 2015, c. 19, s. 27; 2017, c. 34, s. 7
 
 
 
@@ -1612,7 +1612,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Decision not in conformity with land use plan**
 
 - **(2)** If a decision document allows a project to be undertaken not in conformity with a regional land use plan referred to in section 44, the decision body shall provide a copy of the decision document to the planning commission and to any person or body that approved the plan.
-> 2003, c. 7, ss. 81, 133; 2015, c. 19, s. 28.
+> 2003, c. 7, ss. 81, 133; 2015, c. 19, s. 28
 
 
 
@@ -1679,7 +1679,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **86** A body established by territorial law and having jurisdiction in relation to rights in respect of waters may not, under territorial law,
 - **(a)** grant or renew rights in respect of waters contrary to a decision document issued by a federal agency or a decision document that is to be implemented by a territorial agency, municipal government or first nation under subsection 83(2) or 84(2) or (3); or
 - **(b)** set terms of such rights that conflict with such a decision document, to the extent that the decision document is required to be implemented by a federal agency or a territorial agency, municipal government or first nation.
-> 2003, c. 7, ss. 86, 133.
+> 2003, c. 7, ss. 86, 133
 
 
 
@@ -1724,7 +1724,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **For greater certainty**
 
 **88.1** For greater certainty, an independent regulatory agency, a government agency or a first nation may impose, to the extent of its jurisdiction and authority to do so, terms and conditions that are in addition to, or more stringent than, those referred to in the decision documents.
-> 2015, c. 19, s. 29.
+> 2015, c. 19, s. 29
 
 
 
@@ -1842,7 +1842,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Debt due to Her Majesty**
 
 - **(3)** The amounts and costs that the proponent must pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
-> 2015, c. 19, s. 30.
+> 2015, c. 19, s. 30
 
 
 
@@ -2240,7 +2240,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 **Obtaining information**
 
 - **(3)** Subject to any other Act of Parliament, territorial law or first nation law, the executive committee may obtain from any first nation, government agency or independent regulatory agency any information in their possession that the executive committee requires for the purpose of conducting a study or research.
-> 2003, c. 7, s. 112; 2015, c. 19, s. 31.
+> 2003, c. 7, s. 112; 2015, c. 19, s. 31
 
 
 
@@ -2255,7 +2255,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 **Consideration of report**
 
 - **(2)** The minister or first nation shall give full and fair consideration to any recommendations of the executive committee.
-> 2003, c. 7, s. 113; 2015, c. 19, s. 32.
+> 2003, c. 7, s. 113; 2015, c. 19, s. 32
 
 
 
@@ -2289,7 +2289,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 **Court reference by Board**
 
 **115** At the request of a designated office, the executive committee, a panel of the Board, a joint panel or a decision body, the Board may refer a question of law or jurisdiction arising in any proceedings under this Act to the Supreme Court of Yukon.
-> 2003, c. 7, ss. 115, 133(E).
+> 2003, c. 7, ss. 115, 133(E)
 
 
 
@@ -2298,7 +2298,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 **Application for judicial review**
 
 **116** Notwithstanding the exclusive jurisdiction referred to in section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Attorney General of Canada, the territorial minister or anyone directly affected by the matter in respect of which relief is sought may make an application to the Supreme Court of Yukon for any relief against the Board, a designated office, the executive committee, a panel of the Board, a joint panel or a decision body, by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition.
-> 2003, c. 7, ss. 116, 132.
+> 2003, c. 7, ss. 116, 132
 
 
 
@@ -2326,7 +2326,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 - **(a)** a register containing all documents that are produced, collected or received by the executive committee, panels of the Board and joint panels in relation to assessments, together with any documents provided to them under subsection 91(1);
 - **(b)** a list of the projects, existing projects, other activities and plans for which an assessment is pending before, or has been completed by, the designated offices, the executive committee, panels of the Board and joint panels, together with their location and stage of assessment; and
 - **(c)** a record of authorizations, grants of interest in land and provisions of financial assistance in respect of which the Board has been notified under section 89.
-> 2003, c. 7, s. 118; 2015, c. 19, s. 33(E).
+> 2003, c. 7, s. 118; 2015, c. 19, s. 33(E)
 
 
 
@@ -2383,7 +2383,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 - **(e)** respecting the manner of consultation between decision bodies under subsection 78(1);
 - **(f)** specifying the types of plans that may be reviewed by a panel of the Board under subsection 105(1); and
 - **(g)** establishing a funding program to facilitate the participation of specified classes of persons or groups in reviews of projects.
-> 2003, c. 7, s. 122; 2015, c. 19, s. 35.
+> 2003, c. 7, s. 122; 2015, c. 19, s. 35
 
 
 
@@ -2392,7 +2392,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 **Power of Governor in Council**
 
 **122.1** The Governor in Council may, following consultation by the federal minister with the territorial minister, first nations, the Council and the Board, make regulations respecting the recovery of costs for the purposes of section 93.1, including prescribing amounts and services for that section and exempting any class of proponents or class of projects from the application of that section.
-> 2015, c. 19, s. 36.
+> 2015, c. 19, s. 36
 
 
 
@@ -2404,7 +2404,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 - **(a)** amend Part 1 of the schedule by adding to it the name of any body having power under a federal law, other than the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md), to issue authorizations whose terms and conditions are not subject to variation by the Governor in Council or a minister of the Crown;
 - **(b)** amend Part 2 of the schedule by adding to it the name of any body having the power under the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md) to issue authorizations whose terms and conditions are not subject to variation by the Commissioner of Yukon or by a minister of the territorial government; or
 - **(c)** amend the schedule by deleting the name of any body.
-> 2003, c. 7, s. 123; 2015, c. 19, s. 37(F).
+> 2003, c. 7, s. 123; 2015, c. 19, s. 37(F)
 
 
 
@@ -2547,6 +2547,139 @@ National Energy Board<br />- <i>Office national de l’énergie</i>
 
 
 
-> 2003, c. 7, Sch.; 2015, c. 19, s. 38.
+> 2003, c. 7, Sch.; 2015, c. 19, s. 38
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2015, c. 19, s. 39
+
+
+**Ongoing projects**
+
+**39** 
+
+- **(1)** Subject to subsection (2), the Yukon Environmental and Socio-economic Assessment Act, as it read immediately before the day on which this Act receives royal assent, continues to apply to a proposal for a project that was submitted before that day.
+
+**Time limits**
+
+- **(2)** Section 46.1 and subsections 56(1) to (1.3), 58(1) to (1.3) and 72(4.1) to (4.4) of the Yukon Environmental and Socio-economic Assessment Act, as they read on the day on which this Act receives royal assent, apply to any project in respect of which the evaluation, screening or review has begun before that day but no decision has yet been made, and the time limits, including any extensions, that are referred to in those subsections are counted from that day.
+
+
+
+######           — 2015, c. 19, s. 40
+
+
+**Northern Pipeline**
+
+**40** The Yukon Environmental and Socio-economic Assessment Act, as it read immediately before the day on which this Act receives royal assent, continues to apply to the pipeline that is referred to in the [Northern Pipeline Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-26.md).
+
+
+
+######           — 2017, c. 34, s. 9
+
+**9** Section 39 of the Yukon and Nunavut Regulatory Improvement Act is replaced by the following:
+
+**Ongoing projects**
+
+**39** The Yukon Environmental and Socio-economic Assessment Act, as it read immediately before June 18, 2015, continues to apply to a proposal for a project that was submitted before that day.
+
+
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2003, c. 7, ss. 133(1), (2), (4)
+
+
+**[Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md)**
+
+**133** 
+
+- **(1)** On the later of the day on which this Act is assented to and the day on which section 283 of the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md), chapter 7 of the Statutes of Canada, 2002 (the “other Act”), comes into force, the portion of the definition ***authorization*** after paragraph (b) in subsection 2(1) of this Act is replaced by the following:
+
+
+but does not include an access order issued by a body established by territorial law and having jurisdiction with respect to surface rights, or a consent given by a first nation for access to settlement land in circumstances where an access order could be issued by that body.
+
+
+
+- **(2)** On the later of the day on which this Act is assented to and the day on which section 283 of the other Act comes into force, the definitions ***federal agency***, ***settlement land*** and ***territorial agency*** in subsection 2(1) of this Act are replaced by the following:
+
+
+***federal agency*** means a minister of the federal government or a person or body carrying out a function of government under a federal law other than the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md), the [Yukon First Nations Self-Government Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2035.md) or the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), but does not include the Governor in Council or an independent regulatory agency. (*autorité fédérale*)
+
+***settlement land*** means land that is category A settlement land, category B settlement land or fee simple settlement land under a final agreement or under an order of a body established by territorial law and having jurisdiction with respect to surface rights, or land that is to be treated as such by virtue of a self-government agreement, and includes Tetlit Gwich’in Yukon land, but does not include water or mines and minerals defined to be non-settlement land. (*terres désignées*)
+
+***territorial agency*** means a member of the Executive Council of Yukon or a person or body carrying out a function of government under the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md), but does not include an independent regulatory agency, a municipal government or a body having jurisdiction with respect to surface rights. (*autorité territoriale*)
+
+
+
+- **(4)** On the later of the coming into force of Part 2 of this Act and section 283 of the other Act, paragraph 81(1)(g) of this Act is replaced by the following:
+
+- **(g)** a body established by territorial law and having jurisdiction with respect to surface rights, if an access order from that body is required for the project under territorial law;
+
+
+
+
+
+######           — 2019, c. 28, s. 176
+
+**176** Section 87 of the Yukon Environmental and Socio-economic Assessment Act is replaced by the following:
+
+**Federal independent regulatory agencies**
+
+**87** 
+
+- **(1)** A federal independent regulatory agency must not require that a project be undertaken or take any action that enables a project to be undertaken until every federal decision body for the project and, in the case of the Canadian Energy Regulator, the territorial minister has issued a decision document in respect of the project under section 75, 76 or 77.
+
+**Conformity with decision document**
+
+- **(2)** A federal independent regulatory agency, other than the Canadian Energy Regulator, must
+	- **(a)** when it requires that a project be undertaken or takes any action that enables a project to be undertaken, endeavour to the extent practicable to implement any decision document issued by a federal decision body; and
+	- **(b)** when it issues an authorization that enables a project to be undertaken, endeavour to the extent practicable to make the authorization conform with any decision document issued by a federal decision body, and provide written reasons to that decision body for any want of conformity.
+
+**Commission of the Canadian Energy Regulator**
+
+- **(3)** The Commission of the Canadian Energy Regulator must
+	- **(a)** when it requires that a project be undertaken, take into consideration any decision document issued by a federal decision body or the territorial minister; and
+	- **(b)** when it issues an authorization to enable a project to be undertaken, take into consideration any decision document issued by a federal decision body or the territorial minister and provide written reasons to the decision body or the minister for any want of conformity.
+
+**Canadian Energy Regulator**
+
+- **(4)** The Canadian Energy Regulator must take into consideration any decision document issued by a federal decision body or the territorial minister when it provides financial assistance for a project.
+
+
+
+
+
+######           — 2019, c. 28, s. 177
+
+**177** Part 1 of the schedule to the Act is amended by striking out the following under the heading “Federal Independent Regulatory Agencies”:
+
+National Energy Board<br />- <i>Office national de l’énergie</i>
+
+
+
+######           — 2019, c. 28, s. 178
+
+**178** Part 1 of the schedule to the Act is amended by adding the following, in alphabetical order, under the heading “Federal Independent Regulatory Agencies”:
+
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
+
+
+
+######           — 2019, c. 28, par. 188(b)
+
+
+**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
+
+**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
+- **(b)** section 6 of the Yukon Environmental and Socio-economic Assessment Act;
+
 
 
