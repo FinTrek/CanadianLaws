@@ -228,3 +228,68 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** d’autre part, des progrès réalisés en vue du transfert de responsabilités visé à l’alinéa 7b).
 
 
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 29, art. 338
+
+
+**Ministre**
+
+**338** 
+
+- **(1)** La personne occupant, à la date d’entrée en vigueur du présent article, la charge de ministre d’État portant le titre de ministre des Services aux autochtones est, à compter de cette date, réputée être le ministre visé à l’article 4 de la Loi sur le ministère des Services aux Autochtones, édictée par l’article 336 de la présente loi.
+
+**Sous-ministre**
+
+- **(2)** La personne occupant, à la date d’entrée en vigueur du présent article, la charge de conseiller spécial de la ministre des Services aux autochtones portant le titre de sous-ministre des Services aux autochtones est réputée avoir été nommée à cette date, en vertu de l’article 5 de la Loi sur le ministère des Services aux Autochtones, édictée par l’article 336 de la présente loi, sous-ministre des Services aux Autochtones.
+
+**Titulaires d’un poste**
+
+- **(3)** La présente loi ne change rien à la situation des personnes qui, à la date d’entrée en vigueur du présent article, occupent un poste — ou y sont affectées — au sein du ministère des Services aux Autochtones Canada, à la différence près que, à compter de cette date, elles occupent leur poste — ou y sont affectées — au sein du ministère des Services aux Autochtones.
+
+
+
+######           — 2019, ch. 29, art. 339
+
+
+**Transfert de crédits**
+
+**339** Les sommes affectées — et non déboursées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi de crédits, aux dépenses de l’administration publique fédérale à l’égard du ministère des Services aux Autochtones Canada sont, à compter de cette date, réputées être affectées aux dépenses de l’administration publique fédérale à l’égard du ministère des Services aux Autochtones.
+
+
+
+######           — 2019, ch. 29, art. 340
+
+
+**Validation des actes et décisions**
+
+**340** Les actes accomplis et les décisions — notamment les approbations données à l’égard de permis délivrés — prises par la personne occupant la charge de ministre d’État portant le titre de ministre des Services aux autochtones pendant la période commençant le 30 novembre 2017 et se terminant à la date d’entrée en vigueur de l’article 336 sont, dans la mesure de leur validité au regard de la Loi sur le ministère des Services aux Autochtones, édictée par cet article 336, ou de toute autre loi fédérale, réputés fondés sur la Loi sur le ministère des Services aux Autochtones ou cette autre loi fédérale, selon le cas.
+
+
+
+######           — 2019, ch. 29, art. 345
+
+
+**Mentions dans certains accords**
+
+**345** 
+
+- **(1)** Sauf indication contraire du contexte, à l’entrée en vigueur de l’article 337, dans les accords sur les revendications territoriales, sur les revendications particulières ou sur l’autonomie gouvernementale, la mention du ministre des Affaires indiennes et du Nord canadien ou du ministère des Affaires indiennes et du Nord canadien vaut mention du ministre des Relations Couronne-Autochtones ou du ministère des Relations Couronne-Autochtones et des Affaires du Nord, selon le cas.
+
+**Mentions dans d’autres documents**
+
+- **(2)** Sauf indication contraire du contexte, à l’entrée en vigueur des articles 336 et 337, dans les contrats, actes, accords — autres que ceux visés au paragraphe (1) — ou autres documents, la mention du ministre des Affaires indiennes et du Nord canadien ou du ministère des Affaires indiennes et du Nord canadien vaut mention du ministre des Relations Couronne-Autochtones, du ministre des Affaires du Nord, du ministre des Services aux Autochtones, du ministère des Relations Couronne-Autochtones et des Affaires du Nord ou du ministère des Services aux Autochtones, selon le cas.
+
+
+
+######           — 2019, ch. 29, art. 346
+
+
+**Règlements**
+
+**346** Le gouverneur en conseil peut prendre les règlements qu’il estime nécessaires en ce qui concerne toute autre mesure transitoire qui découle de l’entrée en vigueur de la présente loi.
+
+
+
