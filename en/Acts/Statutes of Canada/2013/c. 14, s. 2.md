@@ -81,7 +81,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** Tunngavik or, in respect of a provision of this Act, the organization designated in the public record, which is maintained by Tunngavik under the Agreement, as being responsible for the exercise of any power or the performance of any duty or function under the corresponding provision of the Agreement; or
 - **(b)** in respect of Inuit owned lands in the areas of equal use and occupancy, Makivik acting jointly with the organization determined under paragraph (a). (*organisation inuite désignée*)
 
-***federal Minister*** means, other than in the definition ***proponent*** in this subsection, section 68, the definition ***responsible Minister*** in subsection 73(1), subsections 135(5), 136(1) and 149(2), paragraph 152(1)(b), section 173 and subsection 189(1), the Minister of Indian Affairs and Northern Development. (*ministre fédéral*)
+***federal Minister*** means, other than in the definition proponent in this subsection, section 68, the definition responsible Minister in subsection 73(1), subsections 135(5), 136(1) and 149(2), paragraph 152(1)(b), section 173 and subsection 189(1), the Minister of Northern Affairs. (*ministre fédéral*)
 
 ***interested corporation or organization*** means, for the purposes of section 43 and subsections 50(2), 101(4) and 120(5), a corporation or other organization that has given written notice to the Commission, the Board or any federal environmental assessment panel, as the case may be, of its interest in providing comments. (*intéressée*)
 
@@ -130,6 +130,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Interpretation**
 
 - **(3)** For greater certainty, in this Act the issuance of a licence, permit or other authorization, includes a renewal, an amendment or an extension of its period of validity.
+> 2013, c. 14, s. 2 “2”2019, c. 29, s. 374
+
 
 
 
@@ -718,7 +720,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Notice**
 
-- **(5)** As soon as practicable after the by-law or rule has been made, the Commission or the Board must publish a notice that the by-law or rule has been made and is included in the public registry referred to in section 201 or 202, as the case may be, on its website, in the Canada Gazette and in a newspaper or other periodical that, in its opinion, has a large circulation in the designated area.
+- **(5)** As soon as practicable after the by-law or rule has been made, the Commission or the Board must publish a notice that the by-law or rule has been made and is included in the public registry referred to in section 201 or 202, as the case may be, on its website, in the [Canada Gazette](http://www.gazette.gc.ca/) and in a newspaper or other periodical that, in its opinion, has a large circulation in the designated area.
 
 
 
@@ -744,7 +746,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Audit**
 
 - **(4)** The accounts, financial statements and financial transactions of the Commission and the Board must be audited annually by the auditor of the Commission or the Board, as the case may be, and, on request by the federal Minister, the Auditor General of Canada. The auditor and, if applicable, the Auditor General of Canada must make a written report of the audit to the Commission or the Board and to the federal Minister.
-> 2013, c. 14, s. 2 “39”; 2017, c. 26, s. 62.
+> 2013, c. 14, s. 2 “39”; 2017, c. 26, s. 62
 
 
 
@@ -1210,13 +1212,15 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 ***responsible Minister*** means
 - **(a)** the federal minister or the territorial minister, as the case may be, who has the jurisdictional responsibility for authorizing a project to proceed; or
-- **(b)** the Minister of Indian Affairs and Northern Development, if there is no federal minister or territorial minister who has the responsibility referred to in paragraph (a). (*ministre compétent*)
+- **(b)** the Minister of Northern Affairs, if there is no federal minister or territorial minister who has the responsibility referred to in paragraph (a). (*ministre compétent*)
 
 ***traditional knowledge*** means the accumulated body of knowledge, observations and understandings about the environment, and about the relationship of living beings with one another and with the environment, that is rooted in the traditional way of life of Inuit of the designated area. (*connaissances traditionnelles*)
 
 **Interpretation**
 
 - **(2)** Paragraph (b) of the definition ***responsible Minister*** in subsection (1) applies if the responsibility for authorizing the project to proceed is under the sole jurisdiction of a designated regulatory agency set out in Schedule 2.
+> 2013, c. 14, s. 2 “73”2019, c. 29, s. 374
+
 
 
 
@@ -4147,4 +4151,34 @@ Nunavut Water Board<br />- <i>Office des eaux du Nunavut</i>
 ### **SCHEDULE 3** 
 **(Subsection 78(2), paragraph 155(1)(a) and subsections 166(2) and 230(4))**
 ## Classes of Works and Activities Exempt from Screening
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 28, s. 182
+
+**182** Schedule 2 to the Nunavut Planning and Project Assessment Act is amended by striking out the following:
+
+National Energy Board<br />- <i>Office national de l’énergie</i>
+
+
+
+######           — 2019, c. 28, s. 183
+
+**183** Schedule 2 to the Act is amended by adding the following, in alphabetical order:
+
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
+
+
+
+######           — 2019, c. 28, par. 188(f)
+
+
+**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
+
+**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
+- **(f)** section 7 of the Nunavut Planning and Project Assessment Act; and
+
+
 
