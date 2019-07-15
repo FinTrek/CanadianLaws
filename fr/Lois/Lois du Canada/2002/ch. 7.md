@@ -58,7 +58,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***gaz*** Le gaz naturel et toutes les substances produites avec lui, à l’exclusion du pétrole et du méthane de gisements houillers. (*gas*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
+***ministre fédéral*** Le ministre des Affaires du Nord. (*federal Minister*)
 
 ***parc national*** Parc ou réserve au sens du paragraphe 2(1) de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md). (*national park*)
 
@@ -69,6 +69,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Yukon*** Le territoire délimité à l’annexe 1. (*Yukon*)
 
 ***zone adjacente*** La zone située à l’extérieur du Yukon, entre celui-ci et la limite septentrionale décrite à l’annexe 2. (*adjoining area*)
+> 2002, ch. 7, art. 22019, ch. 29, art. 374
+
 
 
 
@@ -96,10 +98,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication du décret**
 
-- **(2)** Le décret de nomination est publié dans la Gazette du Canada.
+- **(2)** Le décret de nomination est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 - **(3)** [Abrogé, 2002, ch. 7, art. 68]
-> 2002, ch. 7, art. 4 et 68.
+> 2002, ch. 7, art. 4 et 68
 
 
 
@@ -114,7 +116,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérim**
 
 - **(2)** En cas d’absence ou d’empêchement de l’administrateur ou de vacance de son poste, l’intérim est assuré par le juge en chef de la Cour suprême du Yukon.
-> 2002, ch. 7, art. 5; 2017, ch. 33, art. 257.
+> 2002, ch. 7, art. 5; 2017, ch. 33, art. 257
 
 
 
@@ -380,7 +382,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** ce qui constitue ou est réputé constituer un emprunt;
 	- **b)** les entités — individuellement ou au titre de leur appartenance à une catégorie donnée — dont les emprunts doivent être pris en compte;
 	- **c)** la façon d’établir la valeur des emprunts.
-> 2002, ch. 7, art. 23; 2012, ch. 19, art. 216.
+> 2002, ch. 7, art. 23; 2012, ch. 19, art. 216
 
 
 
@@ -491,7 +493,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(iv)** l’évolution de la situation financière au cours de l’exercice;
 - **b)** les conclusions du vérificateur général du Canada au sujet des questions visées aux alinéas 34(1)a) et b);
 - **c)** les autres renseignements ou documents nécessaires à l’appui des états visés à l’alinéa a), ou dont la production est exigée sous le régime d’une loi de la législature.
-> 2002, ch. 7, art. 33; 2017, ch. 26, art. 62.
+> 2002, ch. 7, art. 33; 2017, ch. 26, art. 62
 
 
 
@@ -508,7 +510,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapport à l’assemblée**
 
 - **(2)** Le vérificateur général adresse à l’assemblée un rapport au sujet de toute question soumise à la vérification qui, à son avis, mérite d’être portée à son attention.
-> 2002, ch. 7, art. 34; 2017, ch. 26, art. 46 et 62.
+> 2002, ch. 7, art. 34; 2017, ch. 26, art. 46 et 62
 
 
 
@@ -757,15 +759,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Préavis**
 
-- **(2)** Il publie ensuite, dans la Gazette du Canada ainsi que dans un journal qui, à son avis, jouit d’une vaste distribution au Yukon, un préavis d’au moins soixante jours. Le décret ne peut être pris plus de cent vingt jours après la publication dans la Gazette du Canada.
+- **(2)** Il publie ensuite, dans la [Gazette du Canada](http://www.gazette.gc.ca/) ainsi que dans un journal qui, à son avis, jouit d’une vaste distribution au Yukon, un préavis d’au moins soixante jours. Le décret ne peut être pris plus de cent vingt jours après la publication dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Effet du préavis**
 
-- **(3)** L’interdiction s’applique, avant la prise du décret, à compter de la publication du préavis dans la Gazette du Canada et pour une durée de cent vingt jours, à moins que, dans ce délai, le ministre ne publie dans la Gazette du Canada et dans un journal qui, à son avis, jouit d’une vaste distribution au Yukon un avis d’abandon du projet de décret, celui-ci étant caduc dès la publication dans la Gazette du Canada.
+- **(3)** L’interdiction s’applique, avant la prise du décret, à compter de la publication du préavis dans la [Gazette du Canada](http://www.gazette.gc.ca/) et pour une durée de cent vingt jours, à moins que, dans ce délai, le ministre ne publie dans la [Gazette du Canada](http://www.gazette.gc.ca/) et dans un journal qui, à son avis, jouit d’une vaste distribution au Yukon un avis d’abandon du projet de décret, celui-ci étant caduc dès la publication dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Recommandation**
 
-- **(4)** Avant de recommander la prise du décret au gouverneur en conseil, le ministre tient compte des observations reçues dans les soixante jours qui suivent la publication du préavis dans la Gazette du Canada.
+- **(4)** Avant de recommander la prise du décret au gouverneur en conseil, le ministre tient compte des observations reçues dans les soixante jours qui suivent la publication du préavis dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Modification**
 
@@ -934,7 +936,7 @@ Sont cependant soustraits à l’alinéa b) les claims au sens de la Loi sur l�
 **Garantie envers les premières nations**
 
 - **(3)** Le gouvernement du Yukon s’engage à indemniser les premières nations, ainsi que les employés et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l’égard de la remise en état de lieux effectuée, en conformité avec l’accord, sur les terres de ces premières nations.
-> 2002, ch. 7, art. 64; 2017, ch. 26, art. 47(F).
+> 2002, ch. 7, art. 64; 2017, ch. 26, art. 47(F)
 
 
 
@@ -959,7 +961,7 @@ Sont cependant soustraits à l’alinéa b) les claims au sens de la Loi sur l�
 **Garantie envers les premières nations**
 
 - **(3)** Le gouvernement fédéral s’engage à indemniser les premières nations, ainsi que les employés et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l’égard de la remise en état de lieux effectuée, en conformité avec l’accord, sur les terres de ces premières nations.
-> 2002, ch. 7, art. 65; 2017, ch. 26, art. 48(F).
+> 2002, ch. 7, art. 65; 2017, ch. 26, art. 48(F)
 
 
 
@@ -1074,6 +1076,259 @@ La limite septentrionale de la zone adjacente correspond à la laisse de basse m
 
 
 **c)** à la baie Shoalwater, la limite correspond à une géodésique allant du point le plus au nord-est de la laisse de basse mer ordinaire, à l’extrémité ouest de l’entrée de la baie, jusqu’au point le plus à l’ouest de la laisse de basse mer ordinaire, à l’extrémité est de l’entrée de la baie.
+
+
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2002, ch. 7, art. 69 [en vigueur mais n’a pas encore eu son effet]
+
+**69** 
+
+- **(1)** Le paragraphe 22(1) de la présente loi devient l’article 22 et les paragraphes 22(2) et (3) sont abrogés à la date d’entrée en vigueur de tous les accords définitifs, au sens de la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), chapitre 34 des Lois du Canada (1994), visant les premières nations dont le nom figure à l’annexe de cette loi.
+
+- **(2)** Le ministre fait publier un avis de cette date dans la [Gazette du Canada](http://www.gazette.gc.ca/).
+
+
+
+######           — 2002, ch. 7, art. 70
+
+**70** L’alinéa 33b) de la présente loi est remplacé par ce qui suit :
+
+- **b)** les conclusions du vérificateur général du Yukon au sujet des questions visées aux alinéas 34(1)a) et b);
+
+
+
+
+
+######           — 2002, ch. 7, art. 71
+
+**71** La présente loi est modifiée par adjonction, après l’article 33, de ce qui suit :
+
+### Vérificateur général du Yukon
+
+
+**Nomination**
+
+**33.1** 
+
+- **(1)** Le commissaire nomme, avec l’agrément du Conseil exécutif, un vérificateur compétent appelé le vérificateur général du Yukon.
+
+**Mandat**
+
+- **(2)** Le vérificateur du Yukon occupe son poste à titre inamovible pour un mandat de dix ans, sous réserve de révocation par le commissaire sur demande de l’assemblée législative.
+
+**Vérificateur général du Canada**
+
+- **(3)** Le vérificateur général du Canada peut exercer les fonctions de vérificateur du Yukon dans les cas où il estime que cette mission n’entrave pas ses responsabilités principales. Le cas échéant, les articles 33.2, 37.2 et 37.4 ne s’appliquent pas.
+
+
+
+**Régime de pension**
+
+**33.2** Les dispositions de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), sauf celles relatives à la durée des fonctions, s’appliquent au vérificateur général du Yukon.
+
+
+
+**Examens et enquêtes**
+
+**33.3** Le vérificateur général du Yukon effectue les examens et enquêtes qu’il juge nécessaires pour lui permettre d’établir les rapports qu’exige la présente loi.
+
+
+
+
+
+######           — 2002, ch. 7, art. 72
+
+**72** Le passage du paragraphe 34(1) de la présente loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Vérification annuelle**
+
+**34** 
+
+- **(1)** À la fin de chaque exercice, le vérificateur général du Yukon vérifie, conformément aux normes de vérification recommandées par l’Institut canadien des comptables agréés ou tout organisme lui succédant, les comptes — y compris ceux qui ont trait au Trésor du Yukon — et les opérations financières publics du Yukon et indique si :
+
+
+
+
+
+######           — 2002, ch. 7, art. 73
+
+**73** Le passage de l’article 35 de la présente loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Rapport supplémentaire**
+
+**35** Le vérificateur général du Yukon peut faire des enquêtes au sujet des activités du gouvernement du Yukon et présenter à l’assemblée un rapport supplémentaire sur le sujet, notamment dans les cas suivants :
+
+
+
+
+
+######           — 2002, ch. 7, art. 74
+
+**74** Le passage de l’article 36 de la présente loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Enquête et rapport**
+
+**36** À la demande du commissaire faite avec l’agrément du Conseil exécutif, le vérificateur général du Yukon peut, s’il estime que la mission n’entrave pas ses responsabilités principales, enquêter et présenter un rapport à l’assemblée sur ce qui suit :
+
+
+
+
+
+######           — 2002, ch. 7, art. 75
+
+**75** L’article 37 de la présente loi est remplacé par ce qui suit :
+
+**Accès à l’information**
+
+**37** 
+
+- **(1)** Sauf dérogation expresse au présent paragraphe prévue par une loi de la législature, le vérificateur général du Yukon a le droit, à tout moment convenable, de prendre connaissance librement de tout renseignement se rapportant à l’exercice de ses fonctions; à cette fin, il peut exiger que les fonctionnaires du Yukon lui fournissent les renseignements, rapports et explications dont il a besoin.
+
+**Détachements**
+
+- **(2)** Le vérificateur général peut, pour remplir plus efficacement ses fonctions, détacher des employés de son bureau auprès de tout secteur de l’administration du Yukon. Celui-ci doit leur fournir les locaux et le matériel nécessaires.
+
+**Serment**
+
+- **(3)** Le vérificateur général doit exiger de tout employé de son bureau chargé, en vertu de la présente loi, d’examiner les comptes d’un secteur de l’administration du Yukon ou d’une société mandataire — aux termes d’une loi de la législature — du gouvernement du Yukon qu’il observe les normes de sécurité applicables aux employés de ce secteur ou de cette société et qu’il prête le serment de respecter le secret professionnel auquel ceux-ci sont astreints.
+
+**Pouvoirs du vérificateur**
+
+- **(4)** Le vérificateur général peut, aux fins de vérification des comptes du Yukon, assigner et contraindre les témoins à comparaître, à déposer verbalement ou par écrit sur la foi du serment et à produire les pièces qu’il juge indispensables en l’espèce, au même titre qu’une cour d’archives.
+
+
+
+**Demande de renseignements**
+
+**37.1** 
+
+- **(1)** Le vérificateur général du Yukon peut demander à toute société mandataire — aux termes d’une loi de la législature — du gouvernement du Yukon d’obtenir de ses administrateurs, dirigeants, employés, mandataires et vérificateurs anciens ou actuels ou de ceux de ses filiales, les renseignements et éclaircissements dont il estime avoir besoin dans l’exercice de ses fonctions et de les lui fournir.
+
+**Instructions du commissaire**
+
+- **(2)** Dans les cas où il estime qu’une société n’a pas donné des renseignements et éclaircissements satisfaisants à la suite d’une telle demande, le vérificateur général du Yukon peut en faire part au commissaire. Celui-ci peut alors, avec l’agrément du Conseil exécutif, ordonner aux dirigeants de cette société de fournir les renseignements et éclaircissements réclamés par le vérificateur général et de lui permettre de consulter les registres, documents, livres, comptes et pièces justificatives dont il estime avoir besoin dans l’exercice de ses fonctions.
+
+**Rapports des vérificateurs des sociétés**
+
+- **(3)** Le vérificateur général du Yukon peut, dans l’exercice de ses fonctions, se fier au rapport du vérificateur régulièrement nommé d’une société visée au paragraphe (1) ou de ses filiales.
+
+
+
+**Nomination du personnel**
+
+**37.2** 
+
+- **(1)** Le vérificateur général du Yukon nomme, en conformité avec les lois de la législature applicables en matière d’emploi dans la fonction publique du Yukon, le personnel dont il a besoin pour l’exercice de ses attributions.
+
+**Congédiement et suspension**
+
+- **(2)** Il peut, en conformité avec les mêmes lois, congédier ou suspendre tout membre de son personnel.
+
+**Marché de services professionnels**
+
+- **(3)** Il peut, dans la limite fixée pour son bureau par les lois de crédits de la législature, passer des marchés de services professionnels.
+
+**Délégation**
+
+- **(4)** Il peut déléguer les attributions qui lui sont conférées par le présent article à la personne ou l’organisme chargé par les lois de la législature de la gestion du personnel de la fonction publique territoriale.
+
+
+
+**Délégation**
+
+**37.3** Le vérificateur général du Yukon peut désigner, pour signer en son nom les opinions qu’il doit donner et les rapports — à l’exception de ceux destinés à l’assemblée —, un membre de son personnel qui devra, au-dessous de sa signature, indiquer son poste et préciser qu’il signe au nom du vérificateur général.
+
+
+
+**Rapport spécial**
+
+**37.4** Le vérificateur général du Yukon peut présenter un rapport spécial à l’assemblée dans les cas où, à son avis :
+- **a)** les sommes affectées à son bureau dans le budget des dépenses soumis à l’assemblée sont insuffisantes pour lui permettre de remplir ses fonctions;
+- **b)** l’application à son personnel des lois de la législature en matière d’emploi dans la fonction publique du Yukon risque de mettre en péril l’indépendance dont il jouit ou de compromettre autrement l’exécution de ses fonctions.
+
+
+
+
+
+######           — 2002, ch. 7, art. 76 [en vigueur mais n’a pas encore eu son effet]
+
+**76** 
+
+- **(1)** L’article 55 de la présente loi est abrogé à la date à laquelle l’Office national de l’énergie autorise la mise en service de la dernière section ou de la dernière partie du pipeline visé par la [Loi sur le pipe-line du Nord](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-26.md).
+
+- **(2)** Le ministre fait publier un avis de cette date dans la [Gazette du Canada](http://www.gazette.gc.ca/).
+
+
+
+######           — 2017, ch. 26, par. 72(1) et (2)
+
+
+**
+> 2002, ch. 7
+**
+
+**72** 
+
+- **(1)** Au présent article, ***autre loi*** s’entend de la Loi sur le Yukon.
+
+- **(2)** Si le sous-alinéa 62l)(ii) de la présente loi entre en vigueur avant l’article 72 de l’autre loi, à la date d’entrée en vigueur de cet article 72, le passage du paragraphe 34(1) de l’autre loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Vérification annuelle**
+
+**34** 
+
+- **(1)** À la fin de chaque exercice, le vérificateur général du Yukon vérifie, conformément aux normes de vérification recommandées par Comptables professionnels agréés du Canada ou tout organisme lui succédant, les comptes — y compris ceux qui ont trait au Trésor du Yukon — et les opérations financières publics du Yukon et indique si :
+
+
+
+
+
+######           — 2019, ch. 28, art. 172
+
+**172** Au paragraphe 76(1) de la Loi sur le Yukon, « Office national de l’énergie » est remplacé par « Régie canadienne de l’énergie », avec les adaptations nécessaires.
+
+
+
+######           — 2019, ch. 28, par. 190(2)
+
+**190** 
+
+- **(2)** Si l’article 10 de la présente loi entre en vigueur avant l’article 210 de l’autre loi, cet article 210 et l’intertitre qui le précède sont remplacés par ce qui suit :
+
+#### [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md)
+
+**210** Le paragraphe 318(1) de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) est remplacé par ce qui suit :
+
+**Consentement d’une première nation ou du gouverneur en conseil**
+
+**318** 
+
+- **(1)** Sauf avec le consentement de la première nation touchée, la compagnie ne peut prendre possession de terres désignées, au sens de l’article 2 de la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md) ou de terrains tenus pour telles aux termes d’un accord au sens de la [Loi sur l’autonomie gouvernementale des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2035.md), ni les utiliser ou les occuper, sans le consentement du gouverneur en conseil.
+
+
+
+
+
+
+
+######           — 2019, ch. 28, par. 191(2)
+
+**191** 
+
+- **(2)** Si l’article 10 de la présente loi entre en vigueur avant l’article 211 de l’autre loi, cet article 211 est remplacé par ce qui suit :
+**211** L’article 328 de la même loi est remplacé par ce qui suit :
+
+**Pouvoir réglementaire : terre désignée ou terre gwich’in tetlit du Yukon**
+
+**328** Le gouverneur en conseil peut, par règlement, désigner les dispositions des lois de la Législature du Yukon qui s’appliquent dans le cas où une question d’indemnité concerne un terrain visé à l’article 318. La Commission est dans ce cas assujetti à ces dispositions comme s’il s’agissait de l’organisme établi par ces lois et compétent en matière de droits de surface.
+
+
 
 
 
