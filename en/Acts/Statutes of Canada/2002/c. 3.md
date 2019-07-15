@@ -41,9 +41,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** in Alberta, sand and gravel that is on the surface of the land, and royalties derived from that sand and gravel; and
 - **(b)** in Saskatchewan, all sand and gravel, and royalties derived from sand and gravel. (*mines et minéraux*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations. (*ministre*)
 
 ***reserve*** means a reserve within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*réserve*)
+> 2002, c. 3, s. 22019, c. 29, s. 373
+
 
 
 
