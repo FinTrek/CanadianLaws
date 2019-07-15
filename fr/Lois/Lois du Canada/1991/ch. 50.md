@@ -25,7 +25,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titre abrégé**
 
 **1** Loi sur les immeubles fédéraux et les biens réels fédéraux.
-> 1991, ch. 50, art. 1; 2001, ch. 4, art. 10.
+> 1991, ch. 50, art. 1; 2001, ch. 4, art. 10
 
 
 
@@ -78,7 +78,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Sa Majesté*** Sa Majesté du chef du Canada. (*Her Majesty*)
 
 ***société mandataire*** Société mandataire au sens de l’article 83 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*agent corporation*)
-> 1991, ch. 50, art. 2; 1992, ch. 1, art. 157; 1995, ch. 5, art. 26; 2001, ch. 4, art. 11; 2003, ch. 22, art. 224(A); 2013, ch. 33, art. 191.
+> 1991, ch. 50, art. 2; 1992, ch. 1, art. 157; 1995, ch. 5, art. 26; 2001, ch. 4, art. 11; 2003, ch. 22, art. 224(A); 2013, ch. 33, art. 191
 
 
 
@@ -91,7 +91,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autorisation : fonctionnaires**
 
 **3** Tout ministre peut autoriser par écrit un fonctionnaire de son ministère ou d’un autre ministère, ou un chef de mission, à exercer en son nom les pouvoirs qui lui sont conférés sous le régime de la présente loi, notamment celui de signer un acte.
-> 1991, ch. 50, art. 3; 2001, ch. 4, art. 12(A).
+> 1991, ch. 50, art. 3; 2001, ch. 4, art. 12(A)
 
 
 
@@ -104,7 +104,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 **4** Sous réserve de toute autre loi, la disposition ou la location d’un immeuble fédéral ou d’un bien réel fédéral ou la délivrance d’un permis à son égard sont assujetties à la présente loi.
-> 1991, ch. 50, art. 4; 2001, ch. 4, art. 13.
+> 1991, ch. 50, art. 4; 2001, ch. 4, art. 13
 
 
 
@@ -145,7 +145,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Équivalence**
 
 - **(7)** Les actes visés à l’alinéa (1)b) ont la même valeur que des lettres patentes revêtues du grand sceau.
-> 1991, ch. 50, art. 5; 2001, ch. 4, art. 15.
+> 1991, ch. 50, art. 5; 2001, ch. 4, art. 15
 
 
 
@@ -154,7 +154,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Signature des permis**
 
 **6** Les permis qui concernent un immeuble fédéral ou un bien réel fédéral sont signés par le ministre chargé de la gestion du bien.
-> 1991, ch. 50, art. 6; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 6; 2001, ch. 4, art. 16
 
 
 
@@ -169,7 +169,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Signature**
 
 - **(2)** Les plans visés au paragraphe (1) et relatifs à des immeubles fédéraux ou des biens réels fédéraux sont signés par le ministre chargé de la gestion de ces biens et contresignés par le ministre de la Justice.
-> 1991, ch. 50, art. 7; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 7; 2001, ch. 4, art. 16
 
 
 
@@ -186,7 +186,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Une telle concession, par lettres patentes ou acte de concession visé à l’alinéa 5(1)b), prend effet conformément à ses dispositions ou, à défaut :
 	- **a)** en cas de conditions de délivrance, lorsqu’elles sont remplies ou levées;
 	- **b)** dans les autres cas, lors de la délivrance.
-> 1991, ch. 50, art. 8; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 8; 2001, ch. 4, art. 16
 
 
 
@@ -195,7 +195,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Termes de délimitation**
 
 **9** Dans une province autre que le Québec et sauf intention contraire expresse de l’acte translatif, il n’est pas obligatoire que la concession par lettres patentes ou par un acte mentionné à l’alinéa 5(1)b) d’un bien réel fédéral détenu en fief simple ou en vertu d’un domaine équivalent soit assortie de termes de délimitation pour concéder un tel fief ou domaine si, en vertu des lois de cette province, les actes translatifs de biens réels n’ont pas à en être assortis pour effectuer un transfert de tous les droits du cédant sur le bien visé, lorsque Sa Majesté a le pouvoir de concéder ces droits.
-> 1991, ch. 50, art. 9; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 9; 2001, ch. 4, art. 16
 
 
 
@@ -204,7 +204,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Concessions à Sa Majesté**
 
 **10** Sa Majesté peut se concéder des immeubles fédéraux et des biens réels fédéraux.
-> 1991, ch. 50, art. 10; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 10; 2001, ch. 4, art. 16
 
 
 
@@ -219,7 +219,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet de la concession, etc.**
 
 - **(2)** La concession, l’ordonnance de dévolution ou tout autre acte de transfert ou de transport à Sa Majesté d’un immeuble ou d’un bien réel qui appartient à Sa Majesté de tout autre chef que celui du Canada est, lors de son acceptation, un transfert de la gestion et de la maîtrise du bien.
-> 1991, ch. 50, art. 11; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 11; 2001, ch. 4, art. 16
 
 
 
@@ -231,7 +231,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** en faveur de Sa Majesté;
 - **b)** en faveur de la personne de qui provient le droit ou l’intérêt;
 - **c)** en ce qui concerne le locataire ou son ayant cause ou le cessionnaire ou le titulaire de l’intérêt découlant du bail, en faveur du sous-locataire de cette personne ou en faveur de la personne à qui ils ont délivré un permis.
-> 1991, ch. 50, art. 12; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 12; 2001, ch. 4, art. 16
 
 
 
@@ -244,7 +244,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Acquisition en vertu d’une loi provinciale**
 
 **13** Nul ne peut acquérir un immeuble fédéral ou un bien réel fédéral, sous le régime d’une loi provinciale, sauf si une loi fédérale l’y autorise expressément.
-> 1991, ch. 50, art. 13; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 13; 2001, ch. 4, art. 16
 
 
 
@@ -253,7 +253,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Imprescriptibilité**
 
 **14** Nul n’acquiert par prescription un immeuble fédéral ou un bien réel fédéral.
-> 1991, ch. 50, art. 14; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 14; 2001, ch. 4, art. 16
 
 
 
@@ -277,7 +277,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Le gouverneur en conseil peut, sur recommandation du ministre de la Justice et du Conseil du Trésor, prendre des règlements pour régir :
 	- **a)** le renvoi au ministre de la Justice de catégories déterminées d’opérations relatives à des immeubles ou des biens réels, au Canada ou à l’étranger, notamment pour l’établissement et l’approbation de tout acte, quant à sa forme et à sa teneur juridique;
 	- **b)** la création et la gestion d’un dépôt des copies des actes concernant les immeubles fédéraux et les biens réels fédéraux, à l’exception des actes délivrés sous le grand sceau.
-> 1991, ch. 50, art. 15; 2001, ch. 4, art. 16.
+> 1991, ch. 50, art. 15; 2001, ch. 4, art. 16
 
 
 
@@ -339,7 +339,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Acquisition d’actions**
 
 - **(7)** Lorsque l’acquisition ou la location d’un immeuble en copropriété divise, d’un bien réel en condominium, d’un immeuble ou d’un bien réel d’une coopérative ou d’un immeuble ou d’un bien réel de nature semblable est autorisée sous le régime de la présente loi, est aussi autorisée l’acquisition d’actions ou de parts de la personne morale — syndicat, coopérative ou autre — , ou de droits de membres ou de propriétaires sur cette personne morale, dans la mesure où l’exige la loi du lieu où est situé l’immeuble ou le bien réel ou dans la mesure où l’acquisition découle de celle-ci.
-> 1991, ch. 50, art. 16; 1994, ch. 26, art. 31; 1999, ch. 31, art. 96; 2001, ch. 4, art. 18.
+> 1991, ch. 50, art. 16; 1994, ch. 26, art. 31; 1999, ch. 31, art. 96; 2001, ch. 4, art. 18
 
 
 
@@ -355,14 +355,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1.1)** Ces articles s’appliquent aussi aux biens réels fédéraux situés au Yukon ou dans les Territoires du Nord-Ouest, et dont la gestion est confiée à un ministre ou à une société mandataire.
 
-**Gestion par le ministre des Affaires indiennes et du Nord canadien**
+**Gestion par le ministre des Affaires du Nord**
 
-- **(2)** Dans le cas des biens réels fédéraux soit situés au Nunavut, soit visés au paragraphe (1.1), et concédés en fief simple sous le régime de la présente loi, le ministre des Affaires indiennes et du Nord canadien est chargé de la gestion des biens réels et des droits sur ceux-ci qui, par application des paragraphes (1) et (1.1), font l’objet de réserves.
+- **(2)** Dans le cas des biens réels fédéraux soit situés au Nunavut, soit visés au paragraphe (1.1), et concédés en fief simple sous le régime de la présente loi, le ministre des Affaires du Nord est chargé de la gestion des biens réels et des droits sur ceux-ci qui, par application des paragraphes (1) et (1.1), font l’objet de réserves.
 
 **Gestion : intérêt autre que le droit de propriété**
 
 - **(3)** Lorsque tout intérêt autre que le droit de propriété en fief simple de tels biens réels fédéraux fait l’objet d’une concession sous le régime de la présente loi, le ministre chargé de leur gestion conserve la gestion de ces biens réels et des droits sur ceux-ci qui, par application des paragraphes (1) et (1.1), font l’objet de réserves.
-> 1991, ch. 50, art. 17; 1993, ch. 28, art. 78; 2001, ch. 4, art. 19(F); 2002, ch. 7, art. 171; 2014, ch. 2, art. 42.
+> 1991, ch. 50, art. 17; 1993, ch. 28, art. 78; 2001, ch. 4, art. 19(F); 2002, ch. 7, art. 171; 2014, ch. 2, art. 422019, ch. 29, art. 367
 
 
 
@@ -397,7 +397,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personnes morales**
 
 - **(6)** La personne morale qui, au titre d’une loi ou d’un décret du gouverneur en conseil, a droit à l’utilisation d’immeubles fédéraux ou de biens réels fédéraux — cette utilisation étant attribuée par des termes comme ceux mentionnés au paragraphe (2) — en a, pour l’application des alinéas 16(1)g) et h) et (2)g), la gestion à la condition que celle-ci n’ait pas été confiée à un ministre.
-> 1991, ch. 50, art. 18; 1999, ch. 31, art. 97; 2001, ch. 4, art. 20.
+> 1991, ch. 50, art. 18; 1999, ch. 31, art. 97; 2001, ch. 4, art. 20
 
 
 
@@ -420,7 +420,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(3)** Les terres qui, au 1<sup>er</sup> juin 1950, étaient des terres de la classe une en vertu de la Loi des terres de l’Artillerie et de l’Amirauté, chapitre 115 des Statuts revisés du Canada de 1927, sont réputées avoir été déclarées par le gouverneur en conseil nécessaires à la défense du Canada.
-> 1991, ch. 50, art. 19; 2001, ch. 4, art. 21.
+> 1991, ch. 50, art. 19; 2001, ch. 4, art. 21
 
 
 
@@ -429,7 +429,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Validité d’une concession à une personne décédée**
 
 **20** La concession de l’État octroyée à une personne décédée ou à son nom n’est pas nulle de ce fait; toutefois, le titre sur l’immeuble ou le bien réel est dévolu aux héritiers, ayants droit ou ayants cause, légataires ou légataires à titre particulier, ou autres représentants légaux du défunt, conformément aux lois en vigueur dans la province de situation du bien, comme si la concession avait été octroyée de son vivant.
-> 1991, ch. 50, art. 20; 2001, ch. 4, art. 22.
+> 1991, ch. 50, art. 20; 2001, ch. 4, art. 22
 
 
 
@@ -438,7 +438,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Correction**
 
 **21** Si la concession de l’État comporte une erreur d’écriture, une fausse appellation, une description incorrecte ou défectueuse de l’immeuble ou du bien réel, une omission dans les conditions ou tout autre vice, le ministre de la Justice peut, en l’absence de revendication contraire, ordonner que la concession défectueuse soit annulée et remplacée par une concession correcte; cette dernière a dès lors la même valeur que si elle avait été octroyée à la date de la concession annulée.
-> 1991, ch. 50, art. 21; 2001, ch. 4, art. 23(F).
+> 1991, ch. 50, art. 21; 2001, ch. 4, art. 23(F)
 
 
 
@@ -457,7 +457,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 - **(2)** Les revendications visées au présent article se prescrivent par un an suivant la date à laquelle l’intéressé apprend l’existence de l’erreur.
-> 1991, ch. 50, art. 22; 2001, ch. 4, art. 24.
+> 1991, ch. 50, art. 22; 2001, ch. 4, art. 24
 
 
 
