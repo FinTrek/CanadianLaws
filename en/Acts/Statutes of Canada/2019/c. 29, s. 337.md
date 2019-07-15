@@ -293,3 +293,81 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 	- **(d)** that is a confidence of the Queen’s Privy Council for Canada as defined in subsection 39(2) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md).
 
 
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 29, s. 341
+
+
+**Minister of Crown-Indigenous Relations**
+
+**341** 
+
+- **(1)** Any person who holds, immediately before the day on which this section comes into force, the office of Minister of Indian Affairs and Northern Development is deemed, as of that day, to be the minister referred to in section 4 of the Department of Crown-Indigenous Relations and Northern Affairs Act, as enacted by section 337.
+
+**Minister of Northern Affairs**
+
+- **(2)** Any person who holds, immediately before the day on which this section comes into force, the office of Minister of State to assist the Minister of Indian Affairs and Northern Development is deemed, as of that day, to be the minister referred to in subsection 11(1) of the Department of Crown-Indigenous Relations and Northern Affairs Act, as enacted by section 337.
+
+**Deputy Minister**
+
+- **(3)** Any person who holds, immediately before the day on which this section comes into force, the office of Deputy Minister of Indian Affairs and Northern Development is deemed to have been appointed on that day under section 5 of the Department of Crown-Indigenous Relations and Northern Affairs Act, as enacted by section 337, as the Deputy Minister of Crown-Indigenous Relations.
+
+**Persons who occupy a position**
+
+- **(4)** Nothing in this Act is to be construed as affecting the status of any person who, immediately before the day on which this section comes into force, occupies or is assigned to a position in the Department of Indian Affairs and Northern Development, except that the person, as of that day, occupies or is assigned to their position in the Department of Crown-Indigenous Relations and Northern Affairs.
+
+
+
+######           — 2019, c. 29, s. 342
+
+
+**Transfer of appropriations**
+
+**342** Any amount that is appropriated by an Act of Parliament for the fiscal year in which this section comes into force to defray the expenditures of the public service of Canada within the Department of Indian Affairs and Northern Development and that is unexpended on the day on which this section comes into force is deemed to be an amount appropriated for defraying the expenditures of the public service of Canada within the Department of Crown-Indigenous Relations and Northern Affairs.
+
+
+
+######           — 2019, c. 29, s. 343
+
+
+**Validation of acts and decisions — Crown-Indigenous Relations**
+
+**343** Any act taken or decision or determination — including any approval given in relation to the issuance of a licence — made by the person who holds the office of Minister of Indian Affairs and Northern Development during the period beginning on November 30, 2017 and ending on the day on which section 337 comes into force is deemed, to the extent that it would have been valid under the Department of Crown-Indigenous Relations and Northern Affairs Act, as enacted by that section 337, or any other Act of Parliament, to have been validly taken or made under the Department of Crown-Indigenous Relations and Northern Affairs Act or that other Act of Parliament, as the case may be.
+
+
+
+######           — 2019, c. 29, s. 344
+
+
+**Validation of acts and decisions — Northern Affairs**
+
+**344** Any act taken or decision or determination — including any approval given in relation to the issuance of a licence — made by the person who holds the office of Minister of State to assist the Minister of Indian Affairs and Northern Development during the period beginning on November 30, 2017 and ending on the day on which section 337 comes into force is deemed, to the extent that it would have been valid under the Department of Crown-Indigenous Relations and Northern Affairs Act, as enacted by that section 337, or any other Act of Parliament, to have been validly taken or made under the Department of Crown-Indigenous Relations and Northern Affairs Act or that other Act of Parliament, as the case may be.
+
+
+
+######           — 2019, c. 29, s. 345
+
+
+**References — certain agreements**
+
+**345** 
+
+- **(1)** On the day on which section 337 comes into force, every reference to the Minister of Indian Affairs and Northern Development or Department of Indian Affairs and Northern Development in a land claims, specific claim or self-government agreement is, unless the context requires otherwise, to be read as a reference to the Minister of Crown-Indigenous Relations or Department of Crown-Indigenous Relations and Northern Affairs, as the case may be.
+
+**References — other documents**
+
+- **(2)** On the day on which both sections 336 and 337 come into force, every reference to the Minister of Indian Affairs and Northern Development or Department of Indian Affairs and Northern Development in any contract, instrument or act, agreement — other than an agreement referred to in subsection (1) — or other document is, unless the context requires otherwise, to be read as a reference to the Minister of Crown-Indigenous Relations, Minister of Northern Affairs, Minister of Indigenous Services, Department of Crown-Indigenous Relations and Northern Affairs or Department of Indigenous Services, as the case may be.
+
+
+
+######           — 2019, c. 29, s. 346
+
+
+**Regulations**
+
+**346** The Governor in Council may make any regulations that the Governor in Council considers necessary to provide for any other transitional matter arising from the coming into force of this Act.
+
+
+
