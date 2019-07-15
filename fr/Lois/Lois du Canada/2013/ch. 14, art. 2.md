@@ -95,7 +95,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** Tout ministère, organisme ou autre secteur de l’administration publique fédérale;
 - **b)** tout ministère, organisme ou autre division de la fonction publique du Nunavut. (*department or agency*)
 
-***ministre fédéral*** Sauf à la définition de ***promoteur*** au présent paragraphe, à l’article 68, à la définition de ***ministre compétent*** au paragraphe 73(1), aux paragraphes 135(5), 136(1) et 149(2), à l’alinéa 152(1)b), à l’article 173 et au paragraphe 189(1), le ministre des Affaires indiennes et du Nord canadien. (*federal Minister*)
+***ministre fédéral*** Sauf à la définition de promoteur au présent paragraphe, à l’article 68, à la définition de ministre compétent au paragraphe 73(1), aux paragraphes 135(5), 136(1) et 149(2), à l’alinéa 152(1)b), à l’article 173 et au paragraphe 189(1), le ministre des Affaires du Nord. (*federal Minister*)
 
 ***ministre territorial*** Sauf à la définition de ***promoteur*** au présent paragraphe, à l’alinéa 19(2)d), à l’article 68, à la définition de ***ministre compétent*** au paragraphe 73(1), aux paragraphes 94(5), 135(5), 136(1) et 149(2), à l’alinéa 152(1)b), à l’article 173, au paragraphe 189(1) et à l’alinéa 200(2)c), le ministre de l’Environnement du Nunavut. (*territorial Minister*)
 
@@ -134,6 +134,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(3)** Dans la présente loi, il est entendu que la délivrance d’un permis et l’octroi d’une autorisation visent également leur renouvellement, leur modification ou la prorogation de leur période de validité.
+> 2013, ch. 14, art. 2 « 2 »2019, ch. 29, art. 374
+
 
 
 
@@ -720,7 +722,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(5)** Dès que possible après la prise du règlement administratif ou l’établissement de la règle, la commission publie dans son site Internet et dans un journal ou autre périodique qui, à son avis, jouit d’une vaste distribution dans la région désignée ainsi que dans la Gazette du Canada un avis à cet effet qui indique en outre que le règlement administratif ou la règle a été versé dans le registre public visé aux articles 201 ou 202, selon le cas.
+- **(5)** Dès que possible après la prise du règlement administratif ou l’établissement de la règle, la commission publie dans son site Internet et dans un journal ou autre périodique qui, à son avis, jouit d’une vaste distribution dans la région désignée ainsi que dans la [Gazette du Canada](http://www.gazette.gc.ca/) un avis à cet effet qui indique en outre que le règlement administratif ou la règle a été versé dans le registre public visé aux articles 201 ou 202, selon le cas.
 
 
 
@@ -746,7 +748,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 - **(4)** Les comptes, états financiers et opérations financières de la commission sont vérifiés annuellement par le vérificateur de celle-ci et, à la demande du ministre fédéral, par le vérificateur général du Canada. Le rapport écrit du vérificateur de la commission et, le cas échéant, celui du vérificateur général sont présentés à la commission et au ministre fédéral.
-> 2013, ch. 14, art. 2 « 39 »; 2017, ch. 26, art. 62.
+> 2013, ch. 14, art. 2 « 39 »; 2017, ch. 26, art. 62
 
 
 
@@ -1214,11 +1216,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ministre compétent***
 - **a)** Le ministre fédéral ou territorial, selon le cas, ayant compétence pour autoriser la réalisation de tel projet;
-- **b)** le ministre des Affaires indiennes et du Nord canadien, dans le cas où aucun ministre fédéral ou territorial n’a cette compétence. (*responsible Minister*)
+- **b)** le ministre des Affaires du Nord, dans le cas où aucun ministre fédéral ou territorial n’a cette compétence. (*responsible Minister*)
 
 **Disposition interprétative**
 
 - **(2)** L’alinéa b) de la définition de ***ministre compétent***, au paragraphe (1), vise notamment le cas où seul un organisme administratif désigné mentionné à l’annexe 2 a compétence pour autoriser la réalisation du projet.
+> 2013, ch. 14, art. 2 « 73 »2019, ch. 29, art. 374
+
 
 
 
@@ -4143,4 +4147,34 @@ Office national de l’énergie<br />- <i>National Energy Board</i>
 ### **ANNEXE 3** 
 **(paragraphe 78(2), alinéa 155(1)a) et paragraphes 166(2) et 230(4))**
 ## Catégories d’ouvrages ou d’activités exemptés de l’examen préalable
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 28, art. 182
+
+**182** L’annexe 2 de la Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut est modifiée par suppression de ce qui suit :
+
+Office national de l’énergie<br />- <i>National Energy Board</i>
+
+
+
+######           — 2019, ch. 28, art. 183
+
+**183** L’annexe 2 de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
+
+
+
+######           — 2019, ch. 28, al. 188f)
+
+
+**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
+
+**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
+- **f)** l’article 7 de la Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut;
+
+
 
