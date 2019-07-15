@@ -69,13 +69,15 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 ***land claims agreement*** has the same meaning as in subsection 35(3) of the Constitution Act, 1982. (*accord sur des revendications territoriales*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations. (*ministre*)
 
 ***party***, in respect of a specific claim, means any claimant, the Crown or any province or First Nation added as a party under section 23 or 24. (*partie*)
 
 ***specific claim*** means a claim that is filed under section 14. (*revendication particulière*)
 
 ***Tribunal*** means the Specific Claims Tribunal established by subsection 6(1). (*Tribunal*)
+> 2008, c. 22, s. 22019, c. 29, s. 373
+
 
 
 
@@ -241,7 +243,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Effect of failure to publish**
 
 - **(5)** Failure to publish the rules in the First Nations Gazette does not affect the validity of the rules.
-> 2008, c. 22, s. 12; 2014, c. 20, s. 470.
+> 2008, c. 22, s. 12; 2014, c. 20, s. 470
 
 
 
@@ -343,12 +345,14 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** For the purpose of subsection (1), the Minister shall
 	- **(a)** establish a reasonable minimum standard to be followed in relation to the kind of information required for any claim to be filed with the Minister, as well as a reasonable form and manner for presenting the information;
-	- **(b)** publish the standard on the Department of Indian Affairs and Northern Development’s Internet site; and
+	- **(b)** publish the standard on the Department of Crown-Indigenous Relations and Northern Affairs’ Internet site; and
 	- **(c)** notify the First Nation in writing of the date on which the claim was filed with the Minister.
 
 **Meeting minimum standard**
 
 - **(3)** A claim is to be filed with the Minister only if the information in it meets the minimum standard referred to in paragraph (2)(a) and is presented in the form and manner established under that paragraph.
+> 2008, c. 22, s. 162019, c. 29, s. 371
+
 
 
 
@@ -859,6 +863,18 @@ Tr’ondek Hwech’in Self-Government Agreement<br />- <i>Entente sur l’autono
 Vuntut Gwitchin First Nation Self-Government Agreement<br />- <i>Entente sur l’autonomie gouvernementale de la première nation des Gwitchin Vuntut</i>
 
 
-> 2008, c. 22, Sch., c. 32, s. 31; 2009, c. 18, s. 24; 2014, c. 11, s. 26; 2018, c. 4, s. 133.
+> 2008, c. 22, Sch., c. 32, s. 31; 2009, c. 18, s. 24; 2014, c. 11, s. 26; 2018, c. 4, s. 133
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2013, c. 25, s. 24
+
+**24** Part 1 of the schedule to the Specific Claims Tribunal Act is amended by adding the following in alphabetical order:
+
+Yale First Nation Final Agreement Act<br />- <i>Loi sur l’accord définitif concernant la Première Nation de Yale</i>
+
 
 
