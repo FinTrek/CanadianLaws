@@ -42,6 +42,8 @@ Sanctionnée sur le 25 novembre 2005
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
+***Conseil*** Le Conseil canadien des relations industrielles constitué par l’article 9 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md). (*Board*)
+
 ***salaire*** Sont assimilés au salaire les gages, la commission, la rémunération pour services fournis, l’indemnité de vacances, l’indemnité de préavis, l’indemnité de départ et toute autre somme prévue par règlement. (*wages*)
 
 ***salaire admissible***
@@ -75,7 +77,7 @@ Sanctionnée sur le 25 novembre 2005
 - **(5)** Malgré le paragraphe 4(5) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) :
 	- **a)** pour l’application de l’alinéa 6d), il est réputé n’exister aucun lien de dépendance si le ministre est convaincu, compte tenu des circonstances, notamment des modalités d’emploi de la personne physique auprès de son ancien employeur, de sa rétribution, ainsi que de la durée, la nature et l’importance du travail accompli, qu’il est raisonnable de conclure que celle-ci a conclu avec lui un contrat de travail en substance pareil à celui qu’elle aurait conclu n’eût été le lien de dépendance;
 	- **b)** pour l’application du paragraphe 21(4), les personnes physiques liées entre elles sont, sauf preuve contraire, réputées avoir un lien de dépendance tant qu’elles sont ainsi liées.
-> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342; 2011, ch. 24, art. 163; 2012, ch. 19, art. 697(A); 2017, ch. 26, art. 52; 2018, ch. 27, art. 627.
+> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342; 2011, ch. 24, art. 163; 2012, ch. 19, art. 697(A); 2017, ch. 20, art. 378, ch. 26, art. 52; 2018, ch. 27, art. 627
 
 
 
@@ -114,7 +116,7 @@ Sanctionnée sur le 25 novembre 2005
 - **b)** son ancien employeur est en faillite ou fait l’objet d’une mise sous séquestre;
 - **c)** elle est titulaire d’une créance au titre du salaire admissible sur son ancien employeur.
 - **d)** [Abrogé, 2009, ch. 2, art. 343]
-> 2005, ch. 47, art. 1 « 5 »; 2007, ch. 36, art. 84; 2009, ch. 2, art. 343.
+> 2005, ch. 47, art. 1 « 5 »; 2007, ch. 36, art. 84; 2009, ch. 2, art. 343
 
 
 
@@ -127,7 +129,7 @@ Sanctionnée sur le 25 novembre 2005
 - **b)** elle avait une participation lui assurant le contrôle, au sens des règlements, dans les affaires de son ancien employeur;
 - **c)** elle occupait un poste de cadre, au sens des règlements, auprès de son ancien employeur;
 - **d)** elle avait un lien de dépendance avec une personne physique occupant un poste de dirigeant ou d’administrateur auprès de son ancien employeur, ou de cadre auprès de celui-ci au sens des règlements, ou avec une personne qui avait une participation lui assurant le contrôle, au sens des règlements, dans les affaires de son ancien employeur.
-> 2005, ch. 47, art. 1 « 6 »; 2007, ch. 36, art. 85; 2009, ch. 2, art. 344; 2018, ch. 27, art. 630(F).
+> 2005, ch. 47, art. 1 « 6 »; 2007, ch. 36, art. 85; 2009, ch. 2, art. 344; 2018, ch. 27, art. 630(F)
 
 
 
@@ -146,7 +148,7 @@ Sanctionnée sur le 25 novembre 2005
 **Faillite et mise sous séquestre**
 
 - **(2)** Si l’ancien employeur à la fois est en faillite et fait l’objet d’une mise sous séquestre, le montant à verser est le plus élevé de celui qui est déterminé dans le cas de la faillite et de celui qui est déterminé dans le cas de la mise sous séquestre.
-> 2005, ch. 47, art. 1 « 7 »; 2007, ch. 36, art. 86; 2009, ch. 2, art. 345; 2017, ch. 26, art. 53; 2018, ch. 27, art. 631.
+> 2005, ch. 47, art. 1 « 7 »; 2007, ch. 36, art. 86; 2009, ch. 2, art. 345; 2017, ch. 26, art. 53; 2018, ch. 27, art. 631
 
 
 
@@ -159,7 +161,7 @@ Sanctionnée sur le 25 novembre 2005
 **Demande**
 
 **8** Pour obtenir des prestations, la personne physique présente une demande au ministre selon les modalités — de temps et autres — prévues par règlement.
-> 2005, ch. 47, art. 1 « 8 »; 2007, ch. 36, art. 87; 2018, ch. 27, art. 632(F).
+> 2005, ch. 47, art. 1 « 8 »; 2007, ch. 36, art. 87; 2018, ch. 27, art. 632(F)
 
 
 
@@ -168,7 +170,7 @@ Sanctionnée sur le 25 novembre 2005
 **Décision du ministre relativement à l’admissibilité**
 
 **9** Le ministre décide si le demandeur est admissible aux prestations et, le cas échéant, il en effectue le versement.
-> 2005, ch. 47, art. 1 « 9 »; 2007, ch. 36, art. 87.
+> 2005, ch. 47, art. 1 « 9 »; 2007, ch. 36, art. 87
 
 
 
@@ -183,7 +185,7 @@ Sanctionnée sur le 25 novembre 2005
 **Notification : syndic ou séquestre**
 
 - **(2)** Le ministre informe le syndic ou le séquestre de sa décision, qu’elle soit favorable ou non au demandeur.
-> 2005, ch. 47, art. 1 « 10 »; 2007, ch. 36, art. 87; 2018, ch. 27, art. 633.
+> 2005, ch. 47, art. 1 « 10 »; 2007, ch. 36, art. 87; 2018, ch. 27, art. 633
 
 
 
@@ -196,7 +198,7 @@ Sanctionnée sur le 25 novembre 2005
 **Demande de révision**
 
 **11** Le demandeur visé par la décision peut en demander la révision.
-> 2005, ch. 47, art. 1 « 11 »; 2007, ch. 36, art. 87.
+> 2005, ch. 47, art. 1 « 11 »; 2007, ch. 36, art. 87
 
 
 
@@ -205,7 +207,7 @@ Sanctionnée sur le 25 novembre 2005
 **Révision**
 
 **12** Le ministre peut confirmer, modifier ou infirmer sa décision et, s’il la modifie, il verse toute prestation à laquelle le demandeur est admissible par suite de la modification.
-> 2005, ch. 47, art. 1 « 12 »; 2007, ch. 36, art. 87.
+> 2005, ch. 47, art. 1 « 12 »; 2007, ch. 36, art. 87
 
 
 
@@ -214,7 +216,7 @@ Sanctionnée sur le 25 novembre 2005
 **Notification**
 
 **12.1** Le ministre informe le demandeur ainsi que le syndic ou le séquestre de la décision visée à l’article 12.
-> 2018, ch. 27, art. 634.
+> 2018, ch. 27, art. 634
 
 
 
@@ -223,28 +225,86 @@ Sanctionnée sur le 25 novembre 2005
 **Caractère définitif de la révision**
 
 **13** Sous réserve du droit d’appel prévu à l’article 14, toute confirmation, modification ou infirmation de la décision par le ministre est définitive et insusceptible de recours judiciaires.
-> 2005, ch. 47, art. 1 « 13 »; 2007, ch. 36, art. 87.
+> 2005, ch. 47, art. 1 « 13 »; 2007, ch. 36, art. 87
 
 
 
 
 
-## Appel devant un arbitre
+## Appel auprès du Conseil
+
+
+
+**Conseil**
+
+**13.1** Pour l’application des articles 14 à 20, le Conseil est considéré comme n’ayant pour membres que son président et ses vice-présidents.
+> 2017, ch. 20, art. 379
+
+
 
 
 
 **Appel sur une question de droit ou de compétence**
 
-**14** Le demandeur peut interjeter appel à un arbitre de la décision rendue par le ministre en vertu de l’article 12, et ce uniquement sur une question de droit ou de compétence.
-> 2005, ch. 47, art. 1 « 14 »; 2007, ch. 36, art. 87.
+**14** 
+
+- **(1)** Le demandeur peut interjeter appel auprès du Conseil de la décision prise par le ministre en vertu de l’article 12, et ce uniquement sur une question de droit ou de compétence.
+
+**Règlements**
+
+- **(2)** Le Conseil peut prendre des règlements pour régir les modalités — de temps et autres — applicables à la formation des appels.
+> 2005, ch. 47, art. 1 « 14 »; 2007, ch. 36, art. 872017, ch. 20, art. 379
 
 
 
 
 
-**Désignation d’un arbitre**
+**Assignation ou nomination**
 
-**15** L’appel est entendu par un arbitre désigné par le ministre.
+**14.1** 
+
+- **(1)** Une fois le Conseil saisi d’un appel, le président du Conseil soit assigne l’affaire à un membre du Conseil, soit nomme un arbitre externe pour statuer sur l’affaire.
+
+**Attributions**
+
+- **(2)** Les membres du Conseil et les arbitres externes exercent, relativement aux affaires qui leur sont assignées ou à l’égard desquelles ils sont nommés, toutes les attributions que l’un des articles 14 à 18 confère au Conseil, à l’exception du pouvoir prévu au paragraphe 14(2).
+
+**Décisions des membres ou arbitres externes**
+
+- **(3)** Les décisions rendues par les membres du Conseil ou les arbitres externes en vertu de l’un des articles 14 à 18 sont réputées être des décisions du Conseil.
+
+**Immunité**
+
+- **(4)** Les membres du Conseil et les arbitres externes bénéficient de l’immunité en matière civile et pénale pour les actes ou omissions faits de bonne foi dans l’exercice effectif ou censé tel des attributions qui leur sont conférées en vertu de l’un des articles 14 à 18.
+
+**Rémunération et indemnités — arbitres externes**
+
+- **(5)** Les arbitres externes reçoivent la rémunération et les indemnités fixées par le président du Conseil et sont indemnisés des frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de résidence.
+> 2017, ch. 20, art. 3792018, ch. 27, art. 652
+
+
+
+
+
+**Avis au ministre**
+
+**15** 
+
+- **(1)** Le Conseil informe le ministre, par écrit, lorsqu’un appel est interjeté et lui fournit copie de la demande d’appel.
+
+**Documents fournis au Conseil**
+
+- **(2)** Le ministre fournit au Conseil, à la demande de celui-ci, une copie des documents sur lesquels il s’est fondé pour prendre la décision dont il est fait appel.
+
+**Documents fournis au ministre**
+
+- **(3)** Le Conseil fournit au ministre, à la demande de celui-ci, une copie des documents déposés auprès du Conseil dans le cadre de l’appel.
+
+**Pouvoir du ministre**
+
+- **(4)** Le ministre peut, dans le cadre de l’appel, présenter au Conseil ses observations par écrit.
+> 2005, ch. 47, art. 1 « 15 »2017, ch. 20, art. 379
+
 
 
 
@@ -252,16 +312,16 @@ Sanctionnée sur le 25 novembre 2005
 **Appel sur dossier**
 
 **16** L’appel est tranché sur dossier et aucun nouvel élément de preuve n’est admissible.
-> 2005, ch. 47, art. 1 « 16 »; 2007, ch. 36, art. 88.
+> 2005, ch. 47, art. 1 « 16 »; 2007, ch. 36, art. 88
 
 
 
 
 
-**Décision de l’arbitre**
+**Décision du Conseil**
 
-**17** L’arbitre peut confirmer, modifier ou infirmer la décision rendue par le ministre en vertu de l’article 12. S’il la modifie, le ministre verse toute prestation à laquelle le demandeur est admissible par suite de la décision de l’arbitre.
-> 2005, ch. 47, art. 1 « 17 »; 2007, ch. 36, art. 88.
+**17** Le Conseil peut confirmer, modifier ou infirmer la décision prise par le ministre en vertu de l’article 12. S’il la modifie, le ministre verse toute prestation à laquelle le demandeur est admissible par suite de la décision du Conseil.
+> 2005, ch. 47, art. 1 « 17 »; 2007, ch. 36, art. 882017, ch. 20, art. 380
 
 
 
@@ -269,8 +329,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Remise de la décision**
 
-**18** L’arbitre transmet une copie de sa décision motivée aux parties à l’appel ainsi qu’au syndic ou au séquestre.
-> 2005, ch. 47, art. 1 « 18 »; 2018, ch. 27, art. 635.
+**18** Le Conseil transmet une copie de sa décision motivée aux parties à l’appel, au ministre ainsi qu’au syndic ou au séquestre.
+> 2005, ch. 47, art. 1 « 18 »; 2017, ch. 20, art. 380; 2018, ch. 27, art. 6352018, ch. 27, art. 652
 
 
 
@@ -278,8 +338,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Interdiction de recours extraordinaire**
 
-**19** Il n’est admis aucun recours — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action de l’arbitre prise en vertu de l’un des articles 14 à 18.
-> 2005, ch. 47, art. 1 « 19 »; 2007, ch. 36, art. 89; 2018, ch. 27, art. 636.
+**19** Il n’est admis aucun recours — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action du Conseil prise en vertu de l’un des articles 14 à 18.
+> 2005, ch. 47, art. 1 « 19 »; 2007, ch. 36, art. 89; 2017, ch. 20, art. 380; 2018, ch. 27, art. 6362018, ch. 27, art. 652
 
 
 
@@ -287,8 +347,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Caractère définitif des décisions**
 
-**20** Les décisions de l’arbitre sont définitives et insusceptibles de recours judiciaires.
-> 2005, ch. 47, art. 1 « 20 »; 2007, ch. 36, art. 89.
+**20** Les décisions du Conseil sont définitives et insusceptibles de recours judiciaires.
+> 2005, ch. 47, art. 1 « 20 »; 2007, ch. 36, art. 892017, ch. 20, art. 380
 
 
 
@@ -326,7 +386,7 @@ Sanctionnée sur le 25 novembre 2005
 - **(4)** Toute personne qui est en possession de renseignements visés à l’alinéa (1)d) ou a accès à de tels renseignements et qui fournit un service de la paie à un failli ou à une personne insolvable avec qui elle n’a aucun lien de dépendance est tenue :
 	- **a)** sur demande du syndic ou du séquestre, de lui fournir une description des renseignements visés à l’alinéa (1)d) qui sont en sa possession ou auxquels elle a accès et une estimation des frais liés à la fourniture de ces renseignements;
 	- **b)** sur demande du syndic ou du séquestre, de lui fournir les renseignements visés à l’alinéa (1)d) qui sont en sa possession ou auxquels elle a accès.
-> 2005, ch. 47, art. 1 « 21 »; 2007, ch. 36, art. 89; 2009, ch. 2, art. 346; 2018, ch. 27, art. 637.
+> 2005, ch. 47, art. 1 « 21 »; 2007, ch. 36, art. 89; 2009, ch. 2, art. 346; 2018, ch. 27, art. 637
 
 
 
@@ -335,7 +395,7 @@ Sanctionnée sur le 25 novembre 2005
 **Honoraires et dépenses**
 
 **22** Sous réserve de l’article 22.1, les honoraires et les dépenses entraînés par l’accomplissement des fonctions du syndic ou du séquestre en application de la présente loi sont à payer sur l’actif de l’employeur en faillite ou sur les biens de l’employeur insolvable, selon le cas.
-> 2005, ch. 47, art. 1 « 22 »; 2007, ch. 36, art. 89; 2018, ch. 27, art. 638.
+> 2005, ch. 47, art. 1 « 22 »; 2007, ch. 36, art. 89; 2018, ch. 27, art. 638
 
 
 
@@ -344,7 +404,7 @@ Sanctionnée sur le 25 novembre 2005
 **Paiement par le ministre**
 
 **22.1** Dans les circonstances réglementaires, le ministre acquitte les honoraires ou les dépenses du syndic ou du séquestre prévus par règlement entraînés par l’accomplissement de leurs fonctions en application de la présente loi ou par l’accomplissement de leurs attributions en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
-> 2018, ch. 27, art. 638.
+> 2018, ch. 27, art. 638
 
 
 
@@ -428,7 +488,7 @@ Sanctionnée sur le 25 novembre 2005
 **Accès aux renseignements**
 
 **27** En vue de déterminer l’admissibilité du demandeur au versement de prestations au titre de la présente loi, le ministre est en droit d’avoir accès, sur demande, aux renseignements personnels concernant le demandeur, recueillis ou obtenus par la Commission de l’assurance-emploi du Canada.
-> 2005, ch. 47, art. 1 « 27 » et 140; 2012, ch. 19, art. 312.
+> 2005, ch. 47, art. 1 « 27 » et 140; 2012, ch. 19, art. 312
 
 
 
@@ -441,7 +501,7 @@ Sanctionnée sur le 25 novembre 2005
 **Numéro d’assurance sociale**
 
 **29** Nul ne peut sciemment utiliser, communiquer ou permettre que soit communiqué le numéro d’assurance sociale d’une personne physique qui a été obtenu à une fin liée à une demande de prestations au titre de la présente loi, si ce n’est pour l’application de celle-ci ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
-> 2005, ch. 47, art. 1 « 29 »; 2007, ch. 36, art. 90; 2018, ch. 27, art. 640(F).
+> 2005, ch. 47, art. 1 « 29 »; 2007, ch. 36, art. 90; 2018, ch. 27, art. 640(F)
 
 
 
@@ -478,7 +538,7 @@ Sanctionnée sur le 25 novembre 2005
 **Non-versement ou versement partiel des prestations**
 
 **31.1** Si le ministre conclut qu’une personne physique n’a pas reçu tout ou partie des prestations auxquelles elle était admissible, il verse à celle-ci une somme égale aux prestations manquantes.
-> 2018, ch. 27, art. 641.
+> 2018, ch. 27, art. 641
 
 
 
@@ -501,7 +561,7 @@ Sanctionnée sur le 25 novembre 2005
 - **(2)** Le ministre informe le syndic ou le séquestre de sa décision et du montant du trop-perçu.
 
 - **(3)** [Abrogé, 2018, ch. 27, art. 642]
-> 2005, ch. 47, art. 1 « 32 »; 2007, ch. 36, art. 91; 2018, ch. 27, art. 642.
+> 2005, ch. 47, art. 1 « 32 »; 2007, ch. 36, art. 91; 2018, ch. 27, art. 642
 
 
 
@@ -510,7 +570,7 @@ Sanctionnée sur le 25 novembre 2005
 **Demande de révision**
 
 **32.1** La personne physique informée d’une décision visée au paragraphe 32(1) peut en demander la révision, sauf s’il s’agit d’une décision rendue à la suite d’une révision en vertu de l’article 12.
-> 2018, ch. 27, art. 643.
+> 2018, ch. 27, art. 643
 
 
 
@@ -519,7 +579,7 @@ Sanctionnée sur le 25 novembre 2005
 **Révision**
 
 **32.2** Le ministre peut confirmer, modifier ou infirmer sa décision rendue au titre du paragraphe 32(1).
-> 2018, ch. 27, art. 643.
+> 2018, ch. 27, art. 643
 
 
 
@@ -528,7 +588,7 @@ Sanctionnée sur le 25 novembre 2005
 **Notification**
 
 **32.3** Le ministre informe la personne physique ainsi que le syndic ou le séquestre de sa décision rendue en vertu de l’article 32.2.
-> 2018, ch. 27, art. 643.
+> 2018, ch. 27, art. 643
 
 
 
@@ -537,7 +597,16 @@ Sanctionnée sur le 25 novembre 2005
 **Caractère définitif de la révision**
 
 **32.4** Sous réserve du droit d’appel prévu à l’article 32.5, toute confirmation, modification ou infirmation de la décision rendue par le ministre est définitive et insusceptible de recours judiciaires.
-> 2018, ch. 27, art. 643.
+> 2018, ch. 27, art. 643
+
+
+
+
+
+**Conseil**
+
+**32.41** Pour l’application des articles 32.5 à 32.92, le Conseil est considéré comme n’ayant pour membres que son président et ses vice-présidents.
+> 2018, ch. 27, art. 644
 
 
 
@@ -545,17 +614,64 @@ Sanctionnée sur le 25 novembre 2005
 
 **Appel sur une question de droit ou de compétence**
 
-**32.5** La personne physique peut interjeter appel auprès d’un arbitre de la décision rendue par le ministre en vertu de l’article 32.2, et ce uniquement sur une question de droit ou de compétence.
-> 2018, ch. 27, art. 643.
+**32.5** 
+
+- **(1)** La personne physique peut interjeter appel auprès du Conseil de la décision rendue par le ministre en vertu de l’article 32.2, et ce uniquement sur une question de droit ou de compétence.
+
+**Règlements**
+
+- **(2)** Le Conseil peut prendre des règlements pour régir les modalités — de temps et autres — applicables à la formation des appels.
+> 2018, ch. 27, art. 6432018, ch. 27, art. 644
 
 
 
 
 
-**Désignation d’un arbitre**
+**Assignation ou nomination**
 
-**32.6** L’appel est entendu par un arbitre désigné par le ministre.
-> 2018, ch. 27, art. 643.
+**32.51** 
+
+- **(1)** Une fois le Conseil saisi d’un appel, le président du Conseil soit assigne l’affaire à un membre du Conseil, soit nomme un arbitre externe pour statuer sur l’affaire.
+
+**Attributions**
+
+- **(2)** Les membres du Conseil et les arbitres externes exercent, relativement aux affaires qui leur sont assignées ou à l’égard desquelles ils sont nommés, toutes les attributions que l’un des articles 32.5 à 32.9. confère au Conseil, à l’exception du pouvoir prévu au paragraphe 32.5(2).
+
+**Décisions des membres ou arbitres externes**
+
+- **(3)** Les décisions rendues par les membres du Conseil ou les arbitres externes en vertu de l’un des articles 32.5 à 32.9 sont réputées être des décisions du Conseil.
+
+**Immunité**
+
+- **(4)** Les membres du Conseil et les arbitres externes bénéficient de l’immunité en matière civile et pénale pour les actes ou omissions faits de bonne foi dans l’exercice effectif ou censé tel des attributions qui leur sont conférées en vertu de l’un des articles 32.5 à 32.9.
+
+**Rémunération et indemnités — arbitres externes**
+
+- **(5)** Les arbitres externes reçoivent la rémunération et les indemnités fixées par le président du Conseil et sont indemnisés des frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de résidence.
+> 2018, ch. 27, art. 644
+
+
+
+
+
+**Avis au ministre**
+
+**32.6** 
+
+- **(1)** Le Conseil informe le ministre, par écrit, lorsqu’un appel est interjeté et lui fournit copie de la demande d’appel.
+
+**Documents fournis au Conseil**
+
+- **(2)** Le ministre fournit au Conseil, à la demande de celui-ci, une copie des documents sur lesquels il s’est fondé pour prendre la décision dont il est fait appel.
+
+**Documents fournis au ministre**
+
+- **(3)** Le Conseil fournit au ministre, à la demande de celui-ci, une copie des documents déposés auprès du Conseil dans le cadre de l’appel.
+
+**Pouvoir du ministre**
+
+- **(4)** Le ministre peut, dans le cadre de l’appel, présenter au Conseil ses observations par écrit.
+> 2018, ch. 27, art. 6432018, ch. 27, art. 644
 
 
 
@@ -564,16 +680,16 @@ Sanctionnée sur le 25 novembre 2005
 **Appel sur dossier**
 
 **32.7** L’appel est tranché sur dossier et aucun nouvel élément de preuve n’est admissible.
-> 2018, ch. 27, art. 643.
+> 2018, ch. 27, art. 643
 
 
 
 
 
-**Décision de l’arbitre**
+**Décision du Conseil**
 
-**32.8** L’arbitre peut confirmer, modifier ou infirmer la décision rendue par le ministre en vertu de l’article 32.2.
-> 2018, ch. 27, art. 643.
+**32.8** Le Conseil peut confirmer, modifier ou infirmer la décision rendue par le ministre en vertu de l’article 32.2.
+> 2018, ch. 27, art. 6432018, ch. 27, art. 645
 
 
 
@@ -581,8 +697,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Remise de la décision**
 
-**32.9** L’arbitre transmet une copie de sa décision motivée aux parties à l’appel ainsi qu’au syndic ou au séquestre.
-> 2018, ch. 27, art. 643.
+**32.9** Le Conseil transmet une copie de sa décision motivée aux parties à l’appel, au ministre ainsi qu’au syndic ou au séquestre.
+> 2018, ch. 27, art. 6432018, ch. 27, art. 645
 
 
 
@@ -590,8 +706,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Interdiction de recours extraordinaire**
 
-**32.91** Il n’est admis aucun recours — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action de l’arbitre prise en vertu de l’un des articles 32.5 à 32.9.
-> 2018, ch. 27, art. 643.
+**32.91** Il n’est admis aucun recours — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action du Conseil prise en vertu de l’un des articles 32.5 à 32.9.
+> 2018, ch. 27, art. 6432018, ch. 27, art. 645
 
 
 
@@ -599,8 +715,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Caractère définitif des décisions**
 
-**32.92** Les décisions de l’arbitre sont définitives et insusceptibles de recours judiciaires.
-> 2018, ch. 27, art. 643.
+**32.92** Les décisions du Conseil sont définitives et insusceptibles de recours judiciaires.
+> 2018, ch. 27, art. 6432018, ch. 27, art. 645
 
 
 
@@ -615,7 +731,7 @@ Sanctionnée sur le 25 novembre 2005
 **Certificat de non-paiement**
 
 - **(2)** Le ministre peut établir un certificat de non-paiement pour toute partie de la créance visée au paragraphe (1). L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais d’enregistrement.
-> 2018, ch. 27, art. 643.
+> 2018, ch. 27, art. 643
 
 
 
@@ -624,7 +740,7 @@ Sanctionnée sur le 25 novembre 2005
 **Saisie-arrêt**
 
 **33** Le ministre peut, par avis écrit, ordonner à toute personne qui, selon lui, doit ou est sur le point de devoir verser une somme à une personne physique qui est débitrice d’une créance au titre du paragraphe 32.93(1) de remettre la somme au receveur général, en acquittement total ou partiel de la créance.
-> 2005, ch. 47, art. 1 « 33 »; 2007, ch. 36, art. 91; 2018, ch. 27, art. 643.
+> 2005, ch. 47, art. 1 « 33 »; 2007, ch. 36, art. 91; 2018, ch. 27, art. 643
 
 
 
@@ -633,7 +749,7 @@ Sanctionnée sur le 25 novembre 2005
 **Période de recouvrement**
 
 **34** Une créance ne peut être recouvrée en vertu du paragraphe 32.93(2) ou de l’article 33 qu’à l’expiration de la période pendant laquelle une révision peut être demandée au titre de l’article 32.1 ou, si la personne physique demande une révision pendant cette période, jusqu’à ce qu’il soit disposé de l’affaire.
-> 2005, ch. 47, art. 1 « 34 »; 2007, ch. 36, art. 92(A); 2018, ch. 27, art. 643.
+> 2005, ch. 47, art. 1 « 34 »; 2007, ch. 36, art. 92(A); 2018, ch. 27, art. 643
 
 
 
@@ -669,7 +785,7 @@ Sanctionnée sur le 25 novembre 2005
 **Actions en justice**
 
 - **(2)** Pour l’application du paragraphe (1), Sa Majesté du chef du Canada peut ester en justice sous son propre nom ou celui du titulaire de la créance.
-> 2005, ch. 47, art. 1 « 36 »; 2007, ch. 36, art. 93; 2018, ch. 27, art. 646.
+> 2005, ch. 47, art. 1 « 36 »; 2007, ch. 36, art. 93; 2018, ch. 27, art. 646
 
 
 
@@ -686,7 +802,7 @@ Sanctionnée sur le 25 novembre 2005
 **Éléments du salaire**
 
 - **(2)** Lorsqu’une personne — notamment un syndic ou un séquestre — effectue un versement en application de l’alinéa (1)b), la personne, le syndic ou le séquestre informe le ministre des différents éléments du salaire visés par le versement.
-> 2018, ch. 27, art. 647.
+> 2018, ch. 27, art. 647
 
 
 
@@ -695,7 +811,7 @@ Sanctionnée sur le 25 novembre 2005
 **Incessibilité**
 
 **37** Aucune somme à verser au titre de la présente loi ne peut être cédée, grevée, saisie, ni donnée en garantie ou faire l’objet d’un droit pouvant être exercé par anticipation, et toute opération en ce sens est nulle.
-> 2005, ch. 47, art. 1 « 37 »; 2007, ch. 36, art. 93.
+> 2005, ch. 47, art. 1 « 37 »; 2007, ch. 36, art. 93
 
 
 
@@ -729,7 +845,7 @@ Sanctionnée sur le 25 novembre 2005
 **Disculpation**
 
 - **(4)** Nul ne peut être déclaré coupable d’une infraction visée au paragraphe (2) s’il établit qu’il a fait preuve de la diligence voulue pour l’empêcher.
-> 2005, ch. 47, art. 1 « 38 »; 2007, ch. 36, art. 93.
+> 2005, ch. 47, art. 1 « 38 »; 2007, ch. 36, art. 93
 
 
 
@@ -744,7 +860,7 @@ Sanctionnée sur le 25 novembre 2005
 **Prescription**
 
 - **(2)** Les poursuites pour toute infraction visée au paragraphe (1) se prescrivent par deux ans à compter de la date du fait reproché.
-> 2005, ch. 47, art. 1 « 39 »; 2007, ch. 36, art. 93.
+> 2005, ch. 47, art. 1 « 39 »; 2007, ch. 36, art. 93
 
 
 
@@ -770,13 +886,13 @@ Sanctionnée sur le 25 novembre 2005
 - **d)** prévoir les sommes à défalquer pour l’application du paragraphe 7(1);
 - **e)** régir l’affectation des prestations versées aux différents éléments du salaire;
 - **f)** régir les modalités — de temps et autres — applicables à la présentation des demandes de prestations visée à l’article 8;
-- **g)** régir les modalités — de temps et autres — applicables aux demandes de révision visées aux articles 11 et 32.1 et à la formation des appels visés aux articles 14 et 32.5;
+- **g)** régir les modalités — de temps et autres — applicables aux demandes de révision visées aux articles 11 et 32.1;
 - **h)** prévoir les catégories de personnes physiques que le syndic ou le séquestre est dispensé d’informer en application de l’alinéa 21(1)c) et celles à qui il est dispensé de transmettre les renseignements visés à l’alinéa 21(1)d);
 - **i)** régir les renseignements que le syndic ou le séquestre est tenu de transmettre au ministre et à la personne physique pour l’application de l’alinéa 21(1)d), ainsi que régir les modalités — de temps et autres — applicables à leur fourniture;
 - **j)** régir les modalités — de temps et autres — applicables à la fourniture des renseignements visés à l’alinéa 21(1)c) et aux paragraphes 21(3) et (4);
 - **k)** prévoir les honoraires et dépenses visés à l’article 22.1 et les circonstances dans lesquelles ils doivent être acquittés;
 - **l)** prévoir les modalités — de temps et autres — applicables à la fourniture des avis au ministre en application des paragraphes 36(1.1) et (1.2) et les renseignements qu’ils doivent contenir.
-> 2005, ch. 47, art. 1 « 41 »; 2007, ch. 36, art. 94; 2009, ch. 2, art. 347; 2018, ch. 27, art. 648.
+> 2005, ch. 47, art. 1 « 41 »; 2007, ch. 36, art. 94; 2009, ch. 2, art. 347; 2017, ch. 20, art. 381; 2018, ch. 27, art. 6482018, ch. 27, art. 652
 
 
 
@@ -789,5 +905,237 @@ Sanctionnée sur le 25 novembre 2005
 **Examen**
 
 **42** Dans les cinq ans suivant la date d’entrée en vigueur du présent article, le ministre veille à ce que la présente loi et son application fassent l’objet d’un examen et fait déposer un rapport de l’examen devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la fin de l’examen.
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2005, ch. 47, art. 132, modifié par 2007, ch. 36, art. 107
+
+
+**Loi sur le Programme de protection des salariés**
+
+**132** La Loi sur le Programme de protection des salariés, édictée par l’article 1 de la présente loi, ne s’applique qu’à l’employeur :
+- **a)** soit qui fait faillite à la date d’entrée en vigueur de cet article ou par la suite;
+- **b)** soit dont la totalité ou une partie des biens est mise en la possession ou sous la responsabilité d’un séquestre à la date d’entrée en vigueur de cet article ou par la suite.
+
+
+
+######           — 2009, ch. 2, art. 357
+
+
+**Application**
+
+**357** Les dispositions de la Loi sur le Programme de protection des salariés et du [Règlement sur le Programme de protection des salariés](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2008/222.md), dans leur version modifiée par les articles 342 à 354, s’appliquent :
+- **a)** au salaire dû à une personne physique par un employeur qui fait faillite après le 26 janvier 2009;
+- **b)** au salaire dû à une personne physique par un employeur dont tout bien est mis en possession ou sous la responsabilité d’un séquestre, au sens du paragraphe 243(2) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), après le 26 janvier 2009.
+
+
+
+######           — 2011, ch. 24, art. 164
+
+
+**Disposition transitoire**
+
+**164** La Loi sur le Programme de protection des salariés, dans sa version modifiée par l’article 163, s’applique :
+- **a)** au salaire dû à une personne physique par un employeur qui a fait faillite après le 5 juin 2011;
+- **b)** au salaire dû à une personne physique par un employeur dont tout bien est mis en possession ou sous la responsabilité d’un séquestre, au sens du paragraphe 243(2) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), après le 5 juin 2011.
+
+
+
+######           — 2017, ch. 20, art. 391
+
+
+**Appels — admissibilité à des prestations**
+
+**391** La Loi sur le Programme de protection des salariés, dans sa version antérieure à la date d’entrée en vigueur du présent article, s’applique à l’égard des appels interjetés avant cette date au titre de l’article 14 de cette loi.
+
+
+
+######           — 2017, ch. 20, art. 393
+
+
+**Personnes occupant un poste**
+
+**393** 
+
+- **(1)** Les personnes qui, à l’entrée en vigueur du présent article, occupent un poste au sein du ministère de l’Emploi et du Développement social et exercent, en tout ou en partie, des attributions liées à celles du ministre du Travail aux termes des articles 14 à 20 de la Loi sur le Programme de protection des salariés, ou des attributions auxiliaires, occuperont leur poste au sein du Service canadien d’appui aux tribunaux administratifs à compter de la date fixée par décret.
+
+**Situation inchangée**
+
+- **(2)** Le paragraphe (1) ne change rien à la situation de ces personnes, à la différence près que, à compter de la date fixée par le décret visé au paragraphe (1), elles occupent leur poste au sein du Service canadien d’appui aux tribunaux administratifs.
+
+**Transferts de crédits**
+
+- **(3)** Les sommes affectées — et non déboursées — pour l’exercice en cours à la date fixée par le décret visé au paragraphe (1), par toute loi fédérale, aux dépenses du ministère de l’Emploi et du Développement social liées aux appels visés aux articles 14 à 20 de la Loi sur le Programme de protection des salariés sont réputées avoir été affectées aux dépenses du Service canadien d’appui aux tribunaux administratifs.
+
+
+
+######           — 2018, ch. 27, art. 649
+
+
+**Application : paragraphe 7(1)**
+
+**649** Le paragraphe 7(1) de la Loi sur le Programme de protection des salariés, dans sa version modifiée par le paragraphe 631(1), s’applique :
+- **a)** au salaire admissible dû à une personne physique par un employeur qui fait faillite après le 26 février 2018 mais avant la date d’entrée en vigueur du paragraphe 631(2);
+- **b)** au salaire admissible dû à une personne physique par un employeur dont des biens sont mis en possession ou sous la responsabilité d’un séquestre, au sens du paragraphe 243(2) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), après le 26 février 2018 mais avant la date d’entrée en vigueur du paragraphe 631(2).
+
+
+
+######           — 2018, ch. 27, art. 650
+
+
+**Application : définition de salaire admissible**
+
+**650** La définition de ***salaire admissible***, modifiée par les paragraphes 627(1) et (3), s’applique au salaire admissible dû à une personne physique par un employeur seulement si, selon le cas :
+- **a)** l’employeur fait faillite à la date d’entrée en vigueur de ces paragraphes ou après cette date;
+- **b)** des biens de l’employeur sont mis en possession ou sous la responsabilité d’un séquestre, au sens du paragraphe 243(2) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), à cette date ou après cette date.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2018, ch. 27, art. 626
+
+**626** Le titre intégral de la Loi sur le Programme de protection des salariés est remplacé par ce qui suit :Loi établissant un programme prévoyant le versement de prestations aux personnes physiques titulaires de créances salariales sur un employeur qui est insolvable
+
+
+
+######           — 2018, ch. 27, par. 627(2)
+
+**627** 
+
+- **(2)** L’alinéa a) de la définition de ***salaire admissible***, au paragraphe 2(1) de la même loi, est modifié par adjonction, après le sous-alinéa (ii), de ce qui suit :
+
+	- **(iii)** la période se terminant à la date de la décision du tribunal visée au paragraphe 5(5) et commençant :
+		- **(A)** soit à la date précédant de six mois la date du dépôt d’une proposition concordataire visant l’employeur et faite au titre de la section I de la partie III de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ou, s’il y a dépôt d’un avis d’intention, au titre de cette section, visant l’employeur, la date précédant de six mois la date du dépôt de l’avis,
+		- **(B)** soit à la date précédant de six mois la date de l’introduction de la plus récente procédure sous le régime de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md);
+
+
+
+
+
+######           — 2018, ch. 27, par. 627(5)
+
+**627** 
+
+- **(5)** L’article 2 de la même loi est modifié par adjonction, après le paragraphe (1.1), de ce qui suit :
+
+**Sens de syndic**
+
+- **(1.2)** Dans la présente loi, est assimilé au ***syndic*** le contrôleur, lequel s’entend au sens du paragraphe 2(1) de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md).
+
+
+
+######           — 2018, ch. 27, art. 628
+
+**628** L’article 4 de la même loi est remplacé par ce qui suit :
+
+**Établissement**
+
+**4** Est établi le Programme de protection des salariés prévoyant le versement de prestations aux personnes physiques titulaires de créances salariales sur un employeur insolvable.
+
+
+
+
+
+######           — 2018, ch. 27, art. 629
+
+**629** 
+
+- **(1)** L’alinéa 5b) de la même loi est remplacé par ce qui suit :
+
+- **b)** son ancien employeur, selon le cas :
+	- **(i)** est en faillite,
+	- **(ii)** fait l’objet d’une mise sous séquestre,
+	- **(iii)** fait l’objet d’une instance étrangère reconnue par un tribunal au titre du paragraphe 270(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) et, à la fois :
+		- **(A)** le tribunal décide, en vertu du paragraphe (2), que l’instance étrangère satisfait aux critères réglementaires,
+		- **(B)** un syndic est nommé,
+	- **(iv)** fait l’objet de procédures intentées au titre de la section I de la partie III de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ou sous le régime de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) et le tribunal décide, en vertu du paragraphe (5), que les critères réglementaires sont satisfaits;
+
+
+
+- **(2)** L’article 5 de la même loi devient le paragraphe 5(1) et est modifié par adjonction de ce qui suit :
+
+**Critères réglementaires : instance étrangère**
+
+- **(2)** À la demande de toute personne, le tribunal peut, dans le cadre d’une procédure visée à la partie XIII de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), décider que l’instance étrangère satisfait aux critères réglementaires. Dans l’affirmative, le tribunal peut nommer un syndic pour l’application de la présente loi.
+
+**Emploi au Canada**
+
+- **(3)** La personne physique admissible au versement de prestations au titre du sous-alinéa (1)b)(iii) ne peut recevoir de versement qu’à l’égard du salaire admissible gagné en cours d’emploi au Canada et qu’à l’égard de l’indemnité de préavis et de l’indemnité de départ se rapportant à cet emploi.
+
+**Faillite présumée**
+
+- **(4)** Pour l’application de la présente loi, si toutes les conditions visées au sous-alinéa (1)b)(iii) sont réunies, l’ancien employeur est réputé en faillite et la date de la faillite est réputée être le jour où toutes ces conditions sont réunies.
+
+**Critères réglementaires : autres procédures**
+
+- **(5)** À la demande de toute personne, le tribunal peut, dans le cadre d’une procédure commencée au titre de la section I de la partie III de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ou sous le régime de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md), décider que l’ancien employeur satisfait aux critères réglementaires.
+
+
+
+######           — 2018, ch. 27, par. 631(2)
+
+**631** 
+
+- **(2)** L’article 7 de la même loi est remplacé par ce qui suit :
+
+**Montant des prestations**
+
+**7** 
+
+- **(1)** Le montant des prestations à verser à une personne physique au titre de la présente loi est égal au salaire admissible qui lui est dû jusqu’à concurrence de la somme correspondant à sept fois le maximum de la rémunération hebdomadaire assurable, au sens de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
+
+**Défalcation**
+
+- **(1.1)** Sauf dans les circonstances réglementaires, le montant visé au paragraphe (1) fait l’objet d’une défalcation de toute somme prévue par règlement.
+
+**Montant le plus élevé**
+
+- **(2)** Si l’ancien employeur est visé par plus d’une des situations décrites à l’alinéa 5(1)b), le montant à verser est le plus élevé des montants déterminés à l’égard de chacune des situations.
+
+
+
+
+
+######           — 2018, ch. 27, art. 639
+
+**639** Les articles 22 et 22.1 de la même loi sont remplacés par ce qui suit :
+
+**Honoraires et dépenses**
+
+**22** Sous réserve de l’article 22.1, les honoraires et les dépenses entraînés par l’accomplissement des fonctions du syndic ou du séquestre en application de la présente loi sont à payer sur l’actif de l’employeur en faillite ou sur les biens de l’employeur insolvable ou par celui-ci.
+
+
+
+**Paiement par le ministre**
+
+**22.1** Dans les circonstances réglementaires, le ministre acquitte les honoraires ou les dépenses du syndic ou du séquestre prévus par règlement entraînés par l’accomplissement de leurs fonctions en application de la présente loi ou par l’accomplissement de leurs attributions en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ou de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md).
+
+
+
+
+
+######           — 2018, ch. 27, par. 648(1) et (2)
+
+**648** 
+
+- **(1)** L’alinéa 41b) de la même loi est remplacé par ce qui suit :
+
+- **b)** prévoir les motifs pour l’application de l’alinéa 5(1)a);
+- **b.1)** prévoir les critères pour l’application des paragraphes 5(2) et (5);
+
+
+
+- **(2)** L’alinéa 41d) de la même loi est remplacé par ce qui suit :
+
+- **d)** prévoir les circonstances et les sommes pour l’application du paragraphe 7(1.1);
+
+
+
 
 
