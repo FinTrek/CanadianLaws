@@ -573,7 +573,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **
-> 2016, ch. 7.
+> 2016, ch. 7
 **
 
 <sup><a href='#fn_Ind146B_hq_20477'>[*]</a></sup>**107
@@ -626,7 +626,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <a name='fn_IndBC3A_hq_20481'><sup>*</sup></a>: [Note : Article 110 en vigueur le 10 mai 2019, *voir* TR/2019-26.]<br />
 
 **
-> 2016, ch. 7 ou sanction.
+> 2016, ch. 7 ou sanction
 **
 
 - <sup><a href='#fn_IndBC3A_hq_20482'>[*]</a></sup>**(2)** L’article 111 entre en vigueur à la date d’entrée en vigueur de l’article 160 de la Loi no 1 d’exécution du budget de 2016 ou, si elle est postérieure, à la date de sanction de la présente loi.
@@ -1044,7 +1044,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-##### [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)
+##### [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md)
 
 
 **186** [Modification]
@@ -1780,7 +1780,7 @@ où :
 
 
 
-#### Loi sur la protection de la navigation
+#### [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md)
 
 
 **314** [Modification]
@@ -2200,13 +2200,13 @@ où :
 
 - <sup><a href='#fn_Ind10D2_hq_20496'>[*]</a></sup>**(1)** Les paragraphes 318(1), 320(1) et 322(1), l’article 323, les paragraphes 324(2) et 325(1) et (2), les articles 326 à 328, les paragraphes 329(1) et (2), les articles 330 à 337, le paragraphe 338(1), les articles 339 à 349 et 351 à 355, les paragraphes 356(2) et (3), 363(8) et 364(2), l’article 365, le paragraphe 368(1) et les articles 370, 378 à 383, 387 et 391 à 397 entrent en vigueur à la date fixée par décret, laquelle ne peut être antérieure aux dates fixées au titre des paragraphes (2) ou (6).
 
-<a name='fn_Ind10D2_hq_20496'><sup>*</sup></a>: [Note : Paragraphes 318(1), 320(1) et 322(1), article 323, paragraphes 324(2) et 325(1) et (2), articles 326 à 328, paragraphes 329(1) et (2), articles 330 à 337, paragraphe 338(1), articles 339 à 349 et 351 à 355, paragraphes 356(2) et (3), 363(8) et 364(2), article 365, paragraphe 368(1) et articles 370, 378 à 383, 387 et 391 à 397 non en vigueur.]<br />
+<a name='fn_Ind10D2_hq_20496'><sup>*</sup></a>: [Note : Paragraphes 318(1), 320(1) et 322(1), article 323, paragraphes 324(2) et 325(1) et (2), articles 326 à 328, paragraphes 329(1) et (2), articles 330 à 337, paragraphe 338(1), articles 339 à 349 et 351 à 355, paragraphes 356(2) et (3), 363(8) et 364(2), article 365, paragraphe 368(1) et articles 370, 378 à 383, 387 et 391 à 397 en vigueur le 29 juillet 2019, *voir* TR/2019-76.]<br />
 
 **Décret**
 
 - <sup><a href='#fn_Ind10D2_hq_20497'>[*]</a></sup>**(2)** Le paragraphe 318(2), l’article 319, les paragraphes 338(2) et 356(1) et l’article 384 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind10D2_hq_20497'><sup>*</sup></a>: [Note : Paragraphe 318(2), article 319, paragraphes 338(2) et 356(1) et article 384 non en vigueur.]<br />
+<a name='fn_Ind10D2_hq_20497'><sup>*</sup></a>: [Note : Paragraphe 318(2), article 319, paragraphes 338(2) et 356(1) et article 384 en vigueur le 29 juillet 2019, *voir* TR/2019-76.]<br />
 
 **Décret**
 
@@ -2460,7 +2460,7 @@ où :
 <a name='fn_Ind97AF_hq_20492'><sup>*</sup></a>: [Note : Paragraphes 408(1) et 415(2) et (3), article 417, paragraphes 423(1) et (3) et articles 425 et 438 non en vigueur.]<br />
 
 **
-> 2014, ch. 20 ou sanction.
+> 2014, ch. 20 ou sanction
 **
 
 - <sup><a href='#fn_Ind97AF_hq_20493'>[*]</a></sup>**(2)** L’article 434 entre en vigueur au lendemain de la date d’entrée en vigueur de l’article 258 de la [Loi no 1 sur le plan d’action économique de 2014](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020.md) ou, si elle est postérieure, à la date de sanction de la présente loi.
