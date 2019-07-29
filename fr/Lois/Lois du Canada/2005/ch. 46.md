@@ -27,7 +27,7 @@ que les fonctionnaires ont un devoir de loyauté envers leur employeur et béné
 que le gouvernement du Canada s’engage à adopter une charte des valeurs du service public énonçant les valeurs qui guident les fonctionnaires dans leur conduite et leurs activités professionnelles,
 
 
-> 2005, ch. 46, art. 59(A)..
+> 2005, ch. 46, art. 59(A).
 
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
@@ -100,7 +100,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Prise de représailles**
 
 - **(2)** Pour l’application de la présente loi, la mention de la personne ayant exercé des représailles vaut mention de la personne qui en a ordonné l’exercice.
-> 2005, ch. 46, art. 2 et 59; 2006, ch. 9, art. 194; 2010, ch. 12, art. 1678.
+> 2005, ch. 46, art. 2 et 59; 2006, ch. 9, art. 194; 2010, ch. 12, art. 1678
 
 
 
@@ -120,7 +120,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **a)** ajouter à l’annexe 1 le nom de toute société d’État ou de tout organisme public;
 - **b)** ajouter à l’annexe 2 ou en retrancher le nom de tout élément du secteur public habilité par la loi à mener des enquêtes sur d’autres éléments du secteur public;
 - **c)** ajouter à l’annexe 3 ou en retrancher toute disposition de toute loi fédérale.
-> 2005, ch. 46, art. 3; 2006, ch. 9, art. 196.
+> 2005, ch. 46, art. 3; 2006, ch. 9, art. 196
 
 
 
@@ -133,7 +133,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Diffusion de renseignements**
 
 **4** Le président du Conseil du Trésor encourage, dans les lieux de travail du secteur public, des pratiques conformes à la déontologie et un environnement favorable à la divulgation des actes répréhensibles, par la diffusion de renseignements sur la présente loi, son objet et son processus d’application, ainsi que par tout autre moyen qui lui semble indiqué.
-> 2005, ch. 46, art. 4; 2010, ch. 12, art. 1682.
+> 2005, ch. 46, art. 4; 2010, ch. 12, art. 1682
 
 
 
@@ -160,7 +160,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Dépôt du code de conduite au Parlement**
 
 - **(4)** Le président du Conseil du Trésor fait déposer le code de conduite que le Conseil du Trésor établit devant chaque chambre du Parlement au moins trente jours avant sa date d’entrée en vigueur.
-> 2005, ch. 46, art. 5; 2010, ch. 12, art. 1682.
+> 2005, ch. 46, art. 5; 2010, ch. 12, art. 1682
 
 
 
@@ -206,7 +206,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **e)** la contravention grave d’un code de conduite établi en vertu des articles 5 ou 6;
 - **f)** le fait de sciemment ordonner ou conseiller à une personne de commettre l’un des actes répréhensibles visés aux alinéas a) à e).
 - **g)** [Abrogé, 2006, ch. 9, art. 197]
-> 2005, ch. 46, art. 8; 2006, ch. 9, art. 197.
+> 2005, ch. 46, art. 8; 2006, ch. 9, art. 197
 
 
 
@@ -240,7 +240,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Rapport envoyé au dirigeant principal des ressources humaines**
 
 - **(4)** Les paragraphes (1) et (2) ne s’appliquent pas à l’administrateur général qui, après en avoir donné avis au dirigeant principal des ressources humaines nommé en vertu du paragraphe 6(2.1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), déclare que l’élément du secteur public dont il est responsable ne se prête pas, en raison de sa taille, à l’application efficace de ces paragraphes.
-> 2005, ch. 46, art. 10; 2006, ch. 9, art. 198; 2010, ch. 12, art. 1679; 2011, ch. 24, art. 177.
+> 2005, ch. 46, art. 10; 2006, ch. 9, art. 198; 2010, ch. 12, art. 1679; 2011, ch. 24, art. 177
 
 
 
@@ -260,7 +260,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Exception**
 
 - **(2)** L’alinéa (1)c) n’oblige pas l’administrateur général de mettre à la disposition du public de l’information dont la communication est restreinte sous le régime d’une loi fédérale.
-> 2005, ch. 46, art. 11; 2006, ch. 9, art. 199.
+> 2005, ch. 46, art. 11; 2006, ch. 9, art. 199
 
 
 
@@ -282,7 +282,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Restriction**
 
 - **(2)** La présente loi n’a pas pour effet d’autoriser le fonctionnaire à communiquer au commissaire des renseignements confidentiels du Conseil privé de la Reine pour le Canada visés par le paragraphe 39(1) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md) ou des renseignements protégés par le secret professionnel liant l’avocat à son client. En cas de communication de tels renseignements, le commissaire ne peut pas les utiliser.
-> 2005, ch. 46, art. 13; 2006, ch. 9, art. 200.
+> 2005, ch. 46, art. 13; 2006, ch. 9, art. 200
 
 
 
@@ -371,7 +371,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Interdiction**
 
 **19** Il est interdit d’exercer des représailles contre un fonctionnaire, ou d’en ordonner l’exercice.
-> 2005, ch. 46, art. 19; 2006, ch. 9, art. 201.
+> 2005, ch. 46, art. 19; 2006, ch. 9, art. 201
 
 
 
@@ -404,7 +404,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **(5)** Le membre ou l’ancien membre de la Gendarmerie royale du Canada ne peut présenter une plainte à l’égard d’une mesure prise en vertu de l’article 20.2 ou d’une question qui fait l’objet d’une enquête ou d’une procédure visées à la partie IV de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) que si les conditions suivantes sont réunies :
 	- **a)** il a épuisé les recours prévus par cette loi;
 	- **b)** il dépose la plainte dans les soixante jours suivant la date où il a épuisé ces recours.
-> 2006, ch. 9, art. 201; 2013, ch. 18, art. 61.
+> 2006, ch. 9, art. 201; 2013, ch. 18, art. 61
 
 
 
@@ -419,7 +419,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Délai relatif à la plainte**
 
 - **(2)** La plainte est déposée dans les soixante jours suivant la date d’entrée en vigueur de l’article 19.1 ou, si elle est postérieure, la date où le fonctionnaire a eu connaissance — ou, selon le commissaire, aurait dû avoir connaissance — des représailles.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -446,7 +446,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Restriction**
 
 - **(4)** Le commissaire n’est plus compétent pour statuer sur une plainte déposée par un membre ou ancien membre de la Gendarmerie royale du Canada si celui-ci a présenté une demande en révision judiciaire à l’égard de décisions rendues dans le cadre des recours visés au paragraphe 19.1(5).
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -475,7 +475,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Exception**
 
 - **(5)** Le paragraphe (4) ne s’applique pas dans le cas où le commissaire a décidé que la plainte est irrecevable au motif qu’elle n’est pas faite de bonne foi.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -509,7 +509,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Application**
 
 - **(5)** Le présent article s’applique malgré la partie IV de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -544,7 +544,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Application**
 
 - **(5)** Le présent article s’applique malgré la partie IV de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -563,7 +563,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Absence de formalisme**
 
 - **(2)** L’enquête est menée, dans la mesure du possible, sans formalisme et avec célérité.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -578,7 +578,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Avis aux autres personnes**
 
 - **(2)** Il peut aussi informer toute personne, notamment toute personne dont la conduite est mise en question par la plainte, de la tenue de l’enquête et lui faire connaître l’objet de la plainte.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -593,7 +593,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Collaboration insuffisante**
 
 - **(2)** S’il conclut qu’il ne peut terminer son enquête faute de collaboration des administrateurs généraux ou des fonctionnaires, l’enquêteur en fait rapport au commissaire conformément à l’article 20.3.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -620,7 +620,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Renseignements confidentiels**
 
 - **(4)** Les renseignements recueillis par le conciliateur sont confidentiels et ne peuvent être communiqués sans le consentement de la personne qui les a fournis.
-> 2005, ch. 46, art. 20; 2006, ch. 9, art. 201.
+> 2005, ch. 46, art. 20; 2006, ch. 9, art. 201
 
 
 
@@ -635,7 +635,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Règlement — sanctions disciplinaires**
 
 - **(2)** Le règlement prévoyant d’éventuelles sanctions disciplinaires à infliger à toute personne identifiée par l’enquêteur comme étant une des personnes qui ont exercé les représailles est subordonné à l’approbation de la personne en cause et de la personne qui a le pouvoir d’infliger les sanctions disciplinaires.
-> 2005, ch. 46, art. 20.1; 2006, ch. 9, art. 201.
+> 2005, ch. 46, art. 20.1; 2006, ch. 9, art. 201
 
 
 
@@ -658,7 +658,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Exécution du règlement**
 
 - **(4)** En vue de son exécution, le règlement approuvé par le commissaire peut, sur requête de celui-ci ou d’une partie à la Cour fédérale, être assimilé à une ordonnance de cette juridiction.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -671,7 +671,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Rapport de l’enquêteur**
 
 **20.3** L’enquêteur présente son rapport au commissaire le plus tôt possible après la fin de l’enquête.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -696,7 +696,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 	- **b)** l’enquête relative à la plainte ne peut être terminée faute de collaboration d’un administrateur général ou de fonctionnaires;
 	- **c)** la plainte doit être rejetée pour l’un des motifs énoncés aux alinéas 19.3(1)a) à d);
 	- **d)** il est dans l’intérêt public de présenter une demande au Tribunal compte tenu des circonstances relatives à la plainte.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -705,7 +705,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Rejet de la plainte**
 
 **20.5** Si, après réception du rapport d’enquête, le commissaire est d’avis, compte tenu des circonstances relatives à la plainte, que l’instruction de celle-ci par le Tribunal n’est pas justifiée, il rejette la plainte.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -720,7 +720,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **d)** la personne ou les personnes identifiées dans le rapport d’enquête comme étant celles qui auraient exercé les représailles;
 - **e)** la personne ou l’entité qui a le pouvoir d’infliger les sanctions disciplinaires à toute personne visée à l’alinéa d);
 - **f)** chaque personne, outre le plaignant, ou entité à qui a été envoyée la décision au titre du paragraphe 19.4(2) à l’égard de la plainte.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -773,7 +773,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Prolongation du mandat**
 
 - **(9)** Le membre dont le mandat est échu peut, avec l’agrément du président, terminer les affaires dont il est saisi. Il est alors réputé être un membre suppléant.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -790,7 +790,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Séances**
 
 **20.9** Le Tribunal tient ses réunions au Canada, aux date, heure et lieu qu’il estime indiqués pour la bonne exécution de ses travaux.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -822,12 +822,12 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **Publication préalable**
 
-- **(4)** Les règles proposées sont publiées dans la Gazette du Canada, et il est donné aux intéressés la possibilité de présenter des observations à leur sujet.
+- **(4)** Les règles proposées sont publiées dans la [Gazette du Canada](http://www.gazette.gc.ca/), et il est donné aux intéressés la possibilité de présenter des observations à leur sujet.
 
 **Modification**
 
 - **(5)** La modification des règles proposées n’entraîne cependant pas une nouvelle publication.
-> 2005, ch. 46, art. 21; 2006, ch. 9, art. 201.
+> 2005, ch. 46, art. 21; 2006, ch. 9, art. 201
 
 
 
@@ -846,7 +846,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Présidence**
 
 - **(2)** Le président assume lui-même la présidence de la formation collégiale ou, lorsqu’il n’en fait pas partie, la délègue à l’un des membres instructeurs.
-> 2005, ch. 46, art. 21.1; 2006, ch. 9, art. 201.
+> 2005, ch. 46, art. 21.1; 2006, ch. 9, art. 201
 
 
 
@@ -870,7 +870,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Indemnités : témoins**
 
 - **(3)** Les témoins assignés à comparaître peuvent, à l’appréciation du membre instructeur ou de la formation collégiale, recevoir les indemnités accordées aux témoins assignés devant la Cour fédérale.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -879,7 +879,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Huis clos**
 
 **21.3** Le Tribunal peut tenir ses séances à huis clos sur demande de toute partie, à condition que celle-ci lui en démontre la nécessité.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -901,7 +901,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Adjonction d’une partie**
 
 - **(3)** S’il est d’avis qu’une personne identifiée comme étant une personne qui aurait exercé des représailles peut être directement touchée par sa décision, le Tribunal peut la mettre en cause.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -932,7 +932,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Parties**
 
 - **(5)** Outre le commissaire, sont parties à la procédure pour l’application du paragraphe (4) chaque personne à l’égard de laquelle il entend demander qu’elle fasse l’objet de sanctions disciplinaires et la personne désignée par le Tribunal en vue de présenter des observations en matière disciplinaire pour le compte de la personne ou de l’entité à qui le Tribunal enjoindrait d’exécuter l’ordonnance.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -951,7 +951,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Limite imposée à la participation**
 
 - **(3)** Malgré le paragraphe (1), le Tribunal peut limiter la participation de la personne ou des personnes identifiées comme étant celles qui auraient exercé les représailles lors de la partie de la procédure qui traite uniquement de la prise de mesures de réparation à l’égard du plaignant.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -972,7 +972,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **[Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md)**
 
 - **(2)** Malgré les paragraphes 32(1) et 45.16(9) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), le Tribunal peut rendre une ordonnance au titre du paragraphe (1) à l’égard d’un membre de la Gendarmerie royale du Canada.
-> 2006, ch. 9, art. 201; 2013, ch. 18, art. 62.
+> 2006, ch. 9, art. 201; 2013, ch. 18, art. 62
 
 
 
@@ -1015,7 +1015,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **[Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md)**
 
 - **(7)** Malgré la partie IV de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), l’ordonnance rendue au titre du paragraphe (1) à l’égard d’un membre de la Gendarmerie royale du Canada peut être exécutée par le gouverneur en conseil ou le commissaire de la Gendarmerie royale du Canada.
-> 2006, ch. 9, art. 201; 2013, ch. 18, art. 63.
+> 2006, ch. 9, art. 201; 2013, ch. 18, art. 63
 
 
 
@@ -1032,7 +1032,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Exécution des ordonnances**
 
 - **(2)** L’ordonnance rendue par le Tribunal est assimilée, dès le dépôt auprès de la Cour fédérale de la copie certifiée conforme, à une ordonnance rendue par celle-ci et peut être exécutée comme telle.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201
 
 
 
@@ -1054,7 +1054,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **g)** examiner les résultats des enquêtes menées sur une divulgation ou commencées au titre de l’article 33 et faire rapport de ses conclusions aux divulgateurs et aux administrateurs généraux concernés;
 - **h)** présenter aux administrateurs généraux concernés des recommandations portant sur les mesures correctives à prendre et examiner les rapports faisant état des mesures correctives prises par les administrateurs généraux à la suite des recommandations;
 - **i)** recevoir et examiner les plaintes à l’égard des représailles, enquêter sur celles-ci et y donner suite.
-> 2005, ch. 46, art. 22; 2006, ch. 9, art. 202.
+> 2005, ch. 46, art. 22; 2006, ch. 9, art. 202
 
 
 
@@ -1071,7 +1071,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **(2)** Pour l’application du paragraphe (1) :
 	- **a)** le commissaire de la Gendarmerie royale du Canada ou son délégué n’agit pas à titre d’organisme chargé de l’application de la loi lorsqu’il exerce les pouvoirs prévus à l’article 20.2 de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md);
 	- **b)** la personne ou l’organisme saisi d’une question concernant une enquête ou une procédure visées à la partie IV de cette loi n’agit pas à titre d’organisme chargé de l’application de la loi.
-> 2005, ch. 46, art. 23; 2013, ch. 18, art. 64.
+> 2005, ch. 46, art. 23; 2013, ch. 18, art. 64
 
 
 
@@ -1100,7 +1100,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Avis**
 
 - **(3)** En cas de refus de donner suite à une divulgation ou de commencer une enquête, le commissaire en donne un avis motivé au divulgateur ou à la personne qui lui a communiqué les renseignements visés à l’article 33.
-> 2005, ch. 46, art. 24; 2006, ch. 9, art. 203 et 226; 2013, ch. 18, art. 65.
+> 2005, ch. 46, art. 24; 2006, ch. 9, art. 203 et 226; 2013, ch. 18, art. 65
 
 
 
@@ -1128,7 +1128,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Restrictions relatives à certaines enquêtes**
 
 - **(2)** Le commissaire ne peut déléguer qu’à un des quatre cadres ou employés du Commissariat à l’intégrité du secteur public qu’il désigne spécialement à cette fin la tenue d’une enquête qui met en cause, ou pourrait le faire, des renseignements relatifs aux relations internationales ou à la défense ou à la sécurité nationales ou à la détection, la prévention ou la répression d’activités criminelles, subversives ou hostiles.
-> 2005, ch. 46, art. 25; 2006, ch. 9, art. 203.
+> 2005, ch. 46, art. 25; 2006, ch. 9, art. 203
 
 
 
@@ -1179,7 +1179,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Rapports entre l’avocat et son client**
 
 - **(9)** Les rapports entre la personne qui se prévaut des services de consultation juridique prévue au présent article et le conseiller juridique qui donne la consultation sont ceux qui existent entre un avocat et son client.
-> 2006, ch. 9, art. 203.
+> 2006, ch. 9, art. 203
 
 
 
@@ -1198,7 +1198,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Absence de formalisme**
 
 - **(2)** Les enquêtes sont menées, dans la mesure du possible, sans formalisme et avec célérité.
-> 2005, ch. 46, art. 26; 2006, ch. 9, art. 204.
+> 2005, ch. 46, art. 26; 2006, ch. 9, art. 204
 
 
 
@@ -1217,7 +1217,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Droit de réponse**
 
 - **(3)** Le commissaire n’est pas obligé de tenir d’audience, et nul n’est en droit d’exiger d’être entendu par lui. Toutefois, si au cours de l’enquête, il estime qu’il peut y avoir des motifs suffisants pour faire un rapport ou une recommandation susceptibles de nuire à un particulier ou à un élément du secteur public, il prend, avant de clore l’enquête, les mesures indiquées pour leur donner toute possibilité de répondre aux allégations dont ils font l’objet et, à cette fin, de se faire représenter par un conseiller juridique ou par toute autre personne.
-> 2005, ch. 46, art. 27; 2006, ch. 9, art. 205(A).
+> 2005, ch. 46, art. 27; 2006, ch. 9, art. 205(A)
 
 
 
@@ -1232,7 +1232,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Application**
 
 - **(2)** Le paragraphe (1) s’applique par dérogation à toute restriction de communication de renseignements prévue sous le régime des autres lois fédérales.
-> 2005, ch. 46, art. 28; 2006, ch. 9, art. 206.
+> 2005, ch. 46, art. 28; 2006, ch. 9, art. 206
 
 
 
@@ -1251,7 +1251,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Avis de visite**
 
 - **(3)** Le commissaire doit, avant de visiter, dans l’exercice des pouvoirs visés au paragraphe (1), des lieux occupés par un élément du secteur public, en informer l’administrateur général responsable.
-> 2005, ch. 46, art. 29; 2006, ch. 9, art. 207.
+> 2005, ch. 46, art. 29; 2006, ch. 9, art. 207
 
 
 
@@ -1328,7 +1328,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Avis au commissaire**
 
 **36** Lorsqu’il fait un rapport à l’égard d’une enquête, le commissaire peut, s’il le juge à propos, demander à l’administrateur général concerné de lui donner avis, dans un délai déterminé, soit des mesures prises ou envisagées pour la mise en œuvre de ses recommandations, soit des motifs invoqués pour ne pas y donner suite.
-> 2005, ch. 46, art. 36; 2006, ch. 9, art. 208(A).
+> 2005, ch. 46, art. 36; 2006, ch. 9, art. 208(A)
 
 
 
@@ -1339,7 +1339,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **37** S’il l’estime nécessaire, le commissaire peut faire rapport sur toute question découlant d’une enquête au ministre responsable de l’élément du secteur public en cause ou au conseil d’administration ou autre organe de direction de la société d’État intéressée, selon le cas, notamment dans les cas suivants :
 - **a)** à son avis, il n’a pas été donné suite dans un délai raisonnable à une recommandation qu’il a faite;
 - **b)** il a pris connaissance, dans l’exercice de ses attributions, d’une situation qui, à son avis, présente un risque imminent, grave et précis pour la vie, la santé ou la sécurité humaines ou pour l’environnement.
-> 2005, ch. 46, art. 37; 2006, ch. 9, art. 209.
+> 2005, ch. 46, art. 37; 2006, ch. 9, art. 209
 
 
 
@@ -1389,7 +1389,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **(4)** Les rapports du commissaire sont, après leur dépôt, renvoyés devant le comité, soit du Sénat, soit de la Chambre des communes, soit mixte, chargé de l’examen de ces rapports.
 
 - **(5)** [Abrogé, 2006, ch. 9, art. 210]
-> 2005, ch. 46, art. 38; 2006, ch. 9, art. 210.
+> 2005, ch. 46, art. 38; 2006, ch. 9, art. 210
 
 
 
@@ -1417,7 +1417,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Dépôt du rapport**
 
 - **(4)** Le président du Conseil du Trésor fait déposer le rapport devant chacune des chambres du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
-> 2006, ch. 9, art. 211; 2010, ch. 12, art. 1680 et 1682; 2011, ch. 24, art. 178.
+> 2006, ch. 9, art. 211; 2010, ch. 12, art. 1680 et 1682; 2011, ch. 24, art. 178
 
 
 
@@ -1448,7 +1448,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Intérim**
 
 - **(4)** En cas d’absence ou d’empêchement du commissaire ou de vacance de son poste, le gouverneur en conseil peut confier l’intérim à toute personne compétente pour un mandat maximal de six mois et fixer la rémunération et les indemnités auxquelles cette personne aura droit.
-> 2005, ch. 46, art. 39; 2006, ch. 9, art. 119.
+> 2005, ch. 46, art. 39; 2006, ch. 9, art. 119
 
 
 
@@ -1496,7 +1496,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **39.3** 
 
-- **(1)** Le sous-commissaire et les autres membres du personnel dont le commissaire a besoin pour l’exercice des attributions que lui confère la présente loi sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **(1)** Le sous-commissaire et les autres membres du personnel dont le commissaire a besoin pour l’exercice des attributions que lui confère la présente loi sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 **Attributions du sous-com­missaire**
 
@@ -1509,7 +1509,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Assistance technique**
 
 - **(2)** Le commissaire peut retenir temporairement les services d’experts ou de spécialistes dont la compétence lui est utile dans l’exercice de ses attributions; il peut fixer, avec l’approbation du Conseil du Trésor, leur rémunération et leurs frais.
-> 2005, ch. 46, art. 39.3; 2006, ch. 9, art. 212.
+> 2005, ch. 46, art. 39.3; 2006, ch. 9, art. 212
 
 
 
@@ -1526,7 +1526,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Fausses déclarations**
 
 **40** Il est interdit, dans le cadre de la divulgation d’un acte répréhensible ou d’une enquête sous le régime de la présente loi, de faire sciemment une déclaration fausse ou trompeuse, oralement ou par écrit, à un supérieur hiérarchique, à l’agent supérieur ou au commissaire, ou aux personnes agissant en leur nom ou sous leur autorité.
-> 2005, ch. 46, art. 40; 2006, ch. 9, art. 214(A).
+> 2005, ch. 46, art. 40; 2006, ch. 9, art. 214(A)
 
 
 
@@ -1572,7 +1572,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Définition de employeur**
 
 - **(3)** Pour l’application du paragraphe (1), ne sont pas compris parmi les employeurs les employeurs au sein du secteur public.
-> 2006, ch. 9, art. 215.
+> 2006, ch. 9, art. 215
 
 
 
@@ -1595,7 +1595,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Définition de contrat**
 
 - **(3)** Pour l’application du présent article, ***contrat*** s’entend notamment de tout marché, de tout accord ayant trait à des biens réels ou à des immeubles, de tout prêt ou de toute subvention ou contribution; ne sont pas compris parmi les contrats les accords relatifs aux attributions d’un fonctionnaire ou d’une personne nommée par le gouverneur général ou un ministre.
-> 2006, ch. 9, art. 215.
+> 2006, ch. 9, art. 215
 
 
 
@@ -1610,7 +1610,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **42.3** Quiconque contrevient sciemment à l’article 19 ou contrevient à l’un des articles 40 à 42.2 commet une infraction et encourt, sur déclaration de culpabilité :
 - **a)** par mise en accusation, une amende maximale de 10 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines;
 - **b)** par procédure sommaire, une amende maximale de 5 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
-> 2006, ch. 9, art. 215.
+> 2006, ch. 9, art. 215
 
 
 
@@ -1663,7 +1663,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** au commissaire et aux personnes qui agissent en son nom ou sous son autorité, en ce qui concerne sa participation aux procédures devant le Tribunal;
 	- **b)** à la personne chargée d’enquêter sur une plainte en vertu de l’article 19.7, en ce qui concerne son enquête.
-> 2005, ch. 46, art. 46; 2006, ch. 9, art. 216.
+> 2005, ch. 46, art. 46; 2006, ch. 9, art. 216
 
 
 
@@ -1717,7 +1717,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 - **(4)** Avant de communiquer les renseignements en vertu du paragraphe (3), le commissaire :
 	- **a)** se conforme au paragraphe 38.02(1.1) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md);
 	- **b)** à moins que ceux-ci concernent exclusivement la vie privée d’une personne, consulte l’organisation concernée au premier chef par ces renseignements.
-> 2005, ch. 46, art. 49; 2006, ch. 9, art. 217.
+> 2005, ch. 46, art. 49; 2006, ch. 9, art. 217
 
 
 
@@ -1734,8 +1734,8 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **51** Sous réserve des paragraphes 19.1(4) et 21.8(4), la présente loi ne porte pas atteinte :
 - **a)** au droit du fonctionnaire de présenter un grief individuel en vertu du paragraphe 208(1) ou de l’article 238.24 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md);
-- **b)** au droit de l’arbitre de procéder à l’instruction d’une plainte sous le régime de l’article 242 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
-> 2005, ch. 46, art. 51; 2006, ch. 9, art. 218; 2017, ch. 9, art. 49.
+- **b)** au droit du Conseil canadien des relations industrielles de procéder à l’instruction d’une plainte sous le régime de l’article 242 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
+> 2005, ch. 46, art. 51; 2006, ch. 9, art. 218; 2017, ch. 9, art. 492017, ch. 20, art. 397
 
 
 
@@ -1773,7 +1773,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Assignation — autre élément du secteur public**
 
 - **(7)** Le fonctionnaire peut faire l’objet d’une assignation temporaire d’attributions au sein d’un autre élément du secteur public si l’administrateur de cet élément et le fonctionnaire y consentent et que les nouvelles attributions de ce dernier sont comparables à ses attributions régulières. Le cas échéant, l’assignation ne constitue ni des représailles ni une sanction disciplinaire.
-> 2006, ch. 9, art. 219.
+> 2006, ch. 9, art. 219
 
 
 
@@ -1791,7 +1791,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Droit d’action en justice**
 
 - **(2)** Il est entendu que la présente loi ne porte pas atteinte au droit d’intenter une action en justice dont peut jouir par ailleurs un fonctionnaire relativement aux faits — actions ou omissions — à l’origine d’un différend qui n’est pas lié à ses conditions d’emploi.
-> 2006, ch. 9, art. 219.
+> 2006, ch. 9, art. 219
 
 
 
@@ -1800,7 +1800,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Sous-com­missaire ou commissaire adjoint de la Gendarmerie royale du Canada**
 
 **51.3** Le commissaire de la Gendarmerie royale du Canada peut autoriser un sous-commissaire ou un commissaire adjoint de la Gendarmerie royale du Canada à exercer les attributions qu’il exerce à titre d’administrateur général pour l’application de l’article 11, du paragraphe 19.4(2), de l’alinéa 19.6(1)b), des paragraphes 19.8(1) et 19.9(1), des alinéas 22g) et h), des paragraphes 26(1), 27(1) et (3), 28(1) et 29(3) et des articles 36 et 50.
-> 2006, ch. 9, art. 219.
+> 2006, ch. 9, art. 219
 
 
 
@@ -1831,7 +1831,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Examen**
 
 **54** Cinq ans après l’entrée en vigueur du présent article, le président du Conseil du Trésor veille à ce que la présente loi et son application fassent l’objet d’un examen indépendant, et fait déposer un rapport de l’examen devant chaque chambre du Parlement dans les quinze premiers jours de séance de cette chambre suivant la fin de l’examen.
-> 2005, ch. 46, art. 54; 2010, ch. 12, art. 1682.
+> 2005, ch. 46, art. 54; 2010, ch. 12, art. 1682
 
 
 
@@ -1983,7 +1983,7 @@ Office d’investissement des régimes de pensions du secteur public<br />- <i>P
 Société Radio-Canada<br />- <i>Canadian Broadcasting Corporation</i>
 
 Téléfilm Canada<br />- <i>Telefilm Canada</i>
-> 2005, ch. 46, ann. 1; 2008, ch. 20, art. 3.
+> 2005, ch. 46, ann. 1; 2008, ch. 20, art. 3
 
 
 
@@ -2018,6 +2018,20 @@ Commissariat à la protection de la vie privée<br />- <i>Office of the Privacy 
 [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), article 129
 
 
-> 2005, ch. 46, ann. 3; 2014, ch. 39, art. 248.
+> 2005, ch. 46, ann. 3; 2014, ch. 39, art. 248
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2006, ch. 9, al. 120e)
+
+
+**Maintien en fonction**
+
+**120** L’entrée en vigueur des articles 109 à 111, 118 et 119 est sans effet sur le mandat des titulaires des charges ci-après, qui demeurent en fonctions et sont réputés avoir été nommés en vertu de la disposition mentionnée ci-après pour chacune, dans sa version modifiée par l’un ou l’autre de ces articles, selon le cas :
+- **e)** le commissaire à l’intégrité du secteur public nommé en vertu de l’article 39 de la Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles.
+
 
 
