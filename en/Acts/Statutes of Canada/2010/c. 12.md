@@ -2407,7 +2407,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 <sup><a href='#fn_Ind18F4_hq_9617'>[*]</a></sup>**1884** The provisions of this Part, other than sections 1874 and 1875, are deemed to have come into force immediately before the day on which the [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md) receives royal assent.
 
 <a name='fn_Ind18F4_hq_9617'><sup>*</sup></a>: [Note: Sections 1874 and 1875 in force February 14, 2011, *see* SI/2011-13; Part 14, other than sections 1874 and 1875, in force June 18, 2014.]<br />
-> 2010, c. 12, s. 1884; 2014, c. 20, s. 297.
+> 2010, c. 12, s. 1884; 2014, c. 20, s. 297
 
 
 
@@ -3693,7 +3693,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 **Not an agent**
 
 **2147** Canadian Nuclear Laboratories Ltd., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) on May 30, 2014, is not an agent of Her Majesty in right of Canada.
-> 2010, c. 12, s. 2147; 2014, c. 39, s. 378.
+> 2010, c. 12, s. 2147; 2014, c. 39, s. 378
 
 
 
@@ -3722,7 +3722,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 **For greater certainty**
 
 - **(5)** For greater certainty, regulations may be made under paragraph 42.1(1)(u) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) with respect to the employees who are deemed to be contributors under paragraph (1)(a).
-> 2010, c. 12, s. 2148; 2014, c. 39, s. 379.
+> 2010, c. 12, s. 2148; 2014, c. 39, s. 379
 
 
 
@@ -3878,27 +3878,27 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 ### Amendments to the Act
 
 
-**2172** [Amendment]
+**2172** [Repealed before coming into force, 2017, c. 20, s. 399]
 
 
 
-**2173** [Amendment]
+**2173** [Repealed before coming into force, 2017, c. 20, s. 399]
 
 
 
-**2174** [Amendment]
+**2174** [Repealed before coming into force, 2017, c. 20, s. 399]
 
 
 
-**2175** [Amendment]
+**2175** [Repealed before coming into force, 2017, c. 20, s. 399]
 
 
 
-**2176** [Amendments]
+**2176** [Repealed before coming into force, 2017, c. 20, s. 399]
 
 
 
-**2177** [Amendments]
+**2177** [Repealed before coming into force, 2017, c. 20, s. 399]
 
 
 
@@ -3919,7 +3919,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2336_hq_9621'>[*]</a></sup>**2179** Sections 2172 to 2177 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2336_hq_9621'><sup>*</sup></a>: [Note: Sections 2172 to 2177 not in force.]<br />
+<a name='fn_Ind2336_hq_9621'><sup>*</sup></a>: [Note: Sections 2172 to 2177 repealed before coming into force, *see* 2017, c. 20, s. 399.]<br />
 
 
 
@@ -4122,7 +4122,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 - **(1)** Sections 2185 to 2187 and 2190 to 2194 are deemed to have come into force on January 1, 2009.
 
 **
-> 2008, c. 28.
+> 2008, c. 28
 **
 
 - **(2)** Section 2188 comes into force on the day on which section 127 of the [Budget Implementation Act, 2008](/en/Acts/Statutes%20of%20Canada/2008/c.%2028.md) comes into force.
@@ -4151,6 +4151,19 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 ### **SCHEDULE 3** 
 **(Section 2161)**
 [Amendment]
+
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2012, c. 31, s. 96
+
+**96** The Input Tax Credit Allocation Methods (GST/HST) Regulations are deemed
+- **(a)** to have been made under section 277 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
+- **(b)** for the purposes of subsection 5(1) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), to have been transmitted to the Clerk of the Privy Council for registration; and
+- **(c)** to have met the publication requirements of subsection 11(1) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
 
 
 
