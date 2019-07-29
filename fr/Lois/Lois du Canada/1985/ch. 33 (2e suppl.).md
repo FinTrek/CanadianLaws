@@ -1592,47 +1592,182 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 
 **PARTIE III** 
-## Sécurité et santé au travail
+## Santé et sécurité au travail
 
 
 
-### Définition
+### Définitions
 
 
 
-**Définition de employeur**
+**Définitions**
 
-**87** À la présente partie, ***employeur*** s’entend au sens de l’article 85.
+**87** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
+
+***Commission*** S’entend au sens de l’article 3. (*Board*)
+
+***employé*** Personne attachée à un employeur. La présente définition vise également la personne qui exerce les fonctions reconnues de greffier du Sénat, de greffier de la Chambre des communes, de gentilhomme huissier de la verge noire, de sergent d’armes ou de conseiller parlementaire de la Chambre des communes. (*employee*)
+
+***employeur***
+- **a)** Le Sénat, représenté par la personne ou le comité qu’il désigne pour l’application de la présente partie par une règle ou un ordre;
+- **b)** la Chambre des communes, représentée par la personne ou le comité qu’elle désigne pour l’application de la présente partie par un ordre;
+- **c)** la Bibliothèque du Parlement, représentée par le bibliothécaire parlementaire agissant, sous réserve du paragraphe 74(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), au nom des deux chambres;
+- **d)** le bureau du conseiller sénatorial en éthique, représenté par le conseiller sénatorial en éthique;
+- **e)** le bureau du commissaire aux conflits d’intérêts et à l’éthique, représenté par le commissaire aux conflits d’intérêts et à l’éthique;
+- **f)** le Service de protection parlementaire, représenté par le directeur du Service de protection parlementaire agissant au nom des présidents des deux chambres;
+- **g)** le bureau du directeur parlementaire du budget, représenté par le directeur parlementaire du budget;
+- **h)** le député qui emploie une ou plusieurs personnes ou qui a sous sa direction ou sa responsabilité des documentalistes ou des personnes chargées de fonctions similaires affectés au service des députés d’un parti politique représenté à la Chambre des communes;
+- **i)** à l’égard de la personne qui exerce les fonctions reconnues de greffier du Sénat, de greffier de la Chambre des communes, de gentilhomme huissier de la verge noire, de sergent d’armes ou de conseiller parlementaire de la Chambre des communes, le Sénat ou la Chambre des communes, selon le cas, représenté par la personne ou le comité visé aux alinéas a) ou b);
+- **j)** toute autre personne qui est reconnue comme un employeur dans un règlement pris en vertu du paragraphe 19.5(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md) ou dans un règlement administratif pris en vertu de l’article 52.5 de cette loi. (*employer*)
+
+**Employeur**
+
+- **(2)** La définition de employeur au paragraphe (1) vise également quiconque agit pour le compte de l’employeur.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 872018, ch. 22, art. 21
 
 
 
 
-### Partie II du Code canadien du travail
+
+### Partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)
 
 
 
 **Application**
 
-**88** La partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’applique aux employés et, dans la mesure où il est responsable des lieux de travail, à l’employeur comme s’il était une entreprise fédérale et ses employés étaient les employés visés par cette partie; cependant, à cette fin :
-- **a)** en ce qui concerne la terminologie :
-	- **(i)** ***arbitrage*** s’entend d’un arbitrage au sens de la partie I de la présente loi,
-	- **(ii)** ***Conseil*** s’entend de la ***Commission*** et ***convention collective*** s’entend au sens de l’article 3 de la présente loi,
-	- **(iii)** ***syndicat*** s’entend d’une organisation syndicale au sens de l’article 3 de la présente loi;
-- **b)** l’article 156 de cette même partie ne s’applique pas à la Commission lorsqu’elle exerce l’une ou l’autre de ses attributions en ce qui concerne cette même partie;
-- **c)** les dispositions de la partie I de la présente loi s’appliquent, compte tenu des adaptations de circonstance, aux affaires dont est saisie la Commission au titre de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
+**88** 
+
+- **(1)** La partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), sauf les paragraphes 134(2) et (3) et les articles 152 et 153, s’applique à l’employeur et à ses employés comme si l’employeur était une entreprise fédérale et ses employés étaient les employés visés par cette partie; cependant, à cette fin :
+	- **a)** toute mention de :
+		- **(i)** ***arbitrage*** s’entend d’un arbitrage au sens de la partie I de la présente loi,
+		- **(ii)** ***Conseil*** s’entend de la Commission et ***convention collective*** s’entend au sens de l’article 3 de la présente loi,
+		- **(iii)** ***employé*** et ***employeur*** s’entendent au sens du paragraphe 87(1) de la présente loi,
+		- **(iv)** ***syndicat*** s’entend d’une organisation syndicale au sens de l’article 3 de la présente loi;
+	- **b)** la partie I s’applique, compte tenu des adaptations de circonstance, aux affaires dont est saisie la Commission au titre de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md);
+	- **c)** les affaires dont est saisie la Commission au titre de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ne peuvent être tranchées que par un commissaire au sens de l’article 3 de la présente loi.
+
+**Application : autres personnes**
+
+- **(2)** La présente partie s’applique également à toute personne qui n’est pas un employé et qui exerce pour un employeur des activités qui visent principalement à permettre à la personne d’acquérir des connaissances ou de l’expérience, ainsi qu’à l’employeur, comme si la personne était un employé de celui-ci.
+
+**[Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md)**
+
+- **(3)** Il est entendu que, sous réserve de l’article 2, la présente partie n’a pas pour effet de porter atteinte aux droits prévus par la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md).
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 882017, ch. 20, art. 3942018, ch. 22, art. 21
 
 
 
 
-## Entrée en vigueur
+
+**Sous-ministre du Travail**
+
+**88.01** 
+
+- **(1)** Pour l’application de la présente partie, le sous-ministre du Travail exerce les attributions du ministre du Travail prévues à la présente partie et à la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) concernant un sénateur ou son personnel ou un député ou ses employés.
+
+**Dépôt des ordres ou instructions**
+
+- **(2)** Lorsqu’il exerce les attributions prévues à l’article 88.3 ou à l’alinéa 88.4b), le sous-ministre remet au président du Sénat ou à celui de la Chambre des communes, ou aux deux, l’ordre ou l’instruction visé à cet article ou à cet alinéa pour dépôt devant leurs chambres respectives.
+> 2018, ch. 22, art. 21
 
 
 
-**Entrée en vigueur**
 
-<sup><a href='#P-1.3_fr_1'>[*]</a></sup>**89** Les parties I, II et III de la présente loi ou telle de ces parties entrent en vigueur à la date ou aux dates fixées par proclamation.
 
-<a name='P-1.3_fr_1'><sup>*</sup></a>: [Note : Partie I en vigueur le 24 décembre 1986, *voir* TR/87-21.]<br />
+**Avis du ministre aux présidents**
+
+**88.1** Le ministre du Travail avise le président du Sénat ou de la Chambre des communes, ou les deux, de son intention d’entrer, en vertu du paragraphe 141(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), dans tout lieu de travail sous l’entière autorité d’un employeur. Le ministre avise également le président du Sénat ou de la Chambre des communes, ou les deux, dès que possible, si :
+- **a)** il commence une enquête, au titre de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), relative à un employeur ou un employé;
+- **b)** il donne des ordres ou des instructions à un employeur ou à un employé au titre de cette partie.
+> 2018, ch. 22, art. 21
+
+
+
+
+
+**Avis de la Commission aux présidents**
+
+**88.2** 
+
+- **(1)** La Commission avise, dès que possible, le président du Sénat ou de la Chambre des communes, ou les deux, si :
+	- **a)** elle reçoit une plainte, au titre du paragraphe 133(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), relative à un employeur;
+	- **b)** un appel des instructions données à un employeur ou à un employé a été interjeté en vertu du paragraphe 146(1) de cette loi.
+
+**Pouvoirs du président**
+
+- **(2)** Dans le cas où le président est avisé qu’un appel a été interjeté :
+	- **a)** la Commission lui fournit, sur demande, une copie des documents déposés auprès d’elle dans le cadre de l’appel qui sont nécessaires pour que le président puisse exercer le droit prévu à l’alinéa b);
+	- **b)** le président peut, dans le cadre de l’appel, présenter à la Commission ses observations et des éléments de preuve.
+> 2018, ch. 22, art. 21
+
+
+
+
+
+**Défaut d’exécution des ordres ou instructions du ministre**
+
+**88.3** Le ministre du Travail fait déposer devant le Sénat ou la Chambre des communes, ou les deux, tout ordre ou instruction donné à un employeur ou à un employé au titre de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) si l’ordre ou l’instruction n’a pas été exécuté dans le délai qui y est fixé et qu’aucun appel de cet ordre ou instruction n’est interjeté dans le délai prévu dans cette partie. Le dépôt est fait dans un délai raisonnable après l’expiration du délai d’exécution ou du délai d’appel, si celui-ci expire en dernier.
+> 2018, ch. 22, art. 21
+
+
+
+
+
+**Circonstances exceptionnelles**
+
+**88.4** Si le ministre du Travail estime que des circonstances exceptionnelles exigent la prise de mesures immédiates pour prévenir une contravention à la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) par l’employeur ou l’employé :
+- **a)** le ministre fournit au président du Sénat ou de la Chambre des communes, ou aux deux, une copie de l’ordre ou de l’instruction donné à un employeur ou à un employé au titre de cette partie;
+- **b)** malgré l’article 88.3, le ministre peut faire déposer, avant l’expiration du délai d’appel, devant le Sénat ou la Chambre des communes, ou les deux, l’ordre ou l’instruction visé à l’alinéa a) qui n’a pas été exécuté dans le délai qui y est fixé.
+> 2018, ch. 22, art. 21
+
+
+
+
+
+**Défaut d’exécution des ordonnances, décisions ou instructions de la Commission**
+
+**88.5** Sur demande du ministre du Travail ou de toute personne concernée par l’ordonnance, la décision ou l’instruction et dans un délai raisonnable après la réception de la demande, la Commission fait déposer devant le Sénat ou la Chambre des communes, ou les deux, toute ordonnance ou décision qu’elle a rendue ou toute instruction qu’elle a donnée au titre de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) à l’égard d’un employeur ou d’un employé si l’ordonnance, la décision ou l’instruction n’a pas été exécutée dans le délai qui y est fixé.
+> 2018, ch. 22, art. 21
+
+
+
+
+
+**Pouvoirs, privilèges et immunités**
+
+**88.6** Il est entendu que les dispositions de la présente partie n’ont pas pour effet de restreindre de quelque façon les pouvoirs, privilèges et immunités du Sénat, de la Chambre des communes, des sénateurs et des députés ou d’autoriser l’exercice de toute attribution conférée par application de ces dispositions qui porterait atteinte, directement ou indirectement, aux affaires du Sénat ou de la Chambre des communes.
+> 2018, ch. 22, art. 21
+
+
+
+
+
+**Rapport annuel — Commission**
+
+**88.7** Au tout début de chaque année, la Commission soumet, dans les meilleurs délais, au ministre désigné à titre de ministre pour l’application de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md), un rapport portant sur ses activités pendant l’année précédente menées en vertu de la présente partie et, dans la mesure où elle s’applique aux employeurs et employés, au titre de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md). Celui-ci le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+> 2018, ch. 22, art. 21
+
+
+
+
+
+**Examen quinquennal**
+
+**88.8** 
+
+- **(1)** Cinq ans après l’entrée en vigueur de la présente partie, et tous les cinq ans par la suite, le ministre désigné à titre de ministre chargé de l’application de la présente loi commence l’examen de l’application des dispositions de cette partie relativement au harcèlement et à la violence. Suivant l’achèvement de l’examen, il prépare un rapport sur ce dernier.
+
+**Dépôt du rapport**
+
+- **(2)** Le ministre fait déposer le rapport devant chaque chambre du Parlement, dans les quinze premiers jours de séance de celle-ci, suivant son achèvement.
+> 2018, ch. 22, art. 21
+
+
+
+
+**89** [Abrogé, 2018, ch. 22, art. 21]
 
 
 
