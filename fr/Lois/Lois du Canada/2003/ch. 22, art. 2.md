@@ -4153,13 +4153,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **240** La partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’applique à la fonction publique et aux personnes qui y sont employées comme si la fonction publique était une entreprise fédérale visée par cette partie, sous réserve de ce qui suit :
 - **a)** en ce qui concerne la terminologie :
 	- **(i)** « arbitrage » renvoie à l’arbitrage des griefs sous le régime de la partie 2 ou de la section 2 de la partie 2.1,
-	- **(ii)** «  Conseil » s’entend de la Commission des relations de travail et de l’emploi dans le secteur public fédéral,
+	- **(ii)**  pour l’application des articles 133 et 134 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), ***Conseil*** s’entend de la Commission des relations de travail et de l’emploi dans la fonction publique,
 	- **(iii)** « convention collective » s’entend au sens du paragraphe 2(1),
 	- **(iv)** « employé » s’entend d’une personne employée dans la fonction publique,
 	- **(v)** « syndicat » s’entend de l’organisation syndicale au sens du paragraphe 2(1) et s’entend en outre, sauf indication contraire du contexte, de tout regroupement d’organisations syndicales au sens de ce paragraphe;
-- **b)** l’article 156 de cette loi ne s’applique pas à la Commission des relations de travail et de l’emploi dans le secteur public fédéral;
+- **b)** [Abrogé, 2017, ch. 20, art. 396]
 - **c)** les dispositions de la présente loi s’appliquent, avec les adaptations nécessaires, aux affaires instruites par la Commission des relations de travail et de l’emploi dans le secteur public fédéral.
-> 2003, ch. 22, art. 2 « 240 »; 2013, ch. 40, art. 384; 2017, ch. 9, art. 34 et 57
+> 2003, ch. 22, art. 2 « 240 »; 2013, ch. 40, art. 384; 2017, ch. 9, art. 34 et 572017, ch. 20, art. 396
 
 
 
