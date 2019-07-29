@@ -27,7 +27,7 @@ public servants owe a duty of loyalty to their employer and enjoy the right to f
 the Government of Canada commits to establishing a Charter of Values of Public Service setting out the values that should guide public servants in their work and professional conduct;
 
 
-> 2005, c. 46, s. 59(E)..
+> 2005, c. 46, s. 59(E).
 
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
@@ -100,7 +100,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Taking a reprisal**
 
 - **(2)** Every reference in this Act to a person who has taken a reprisal includes a person who has directed the reprisal to be taken.
-> 2005, c. 46, ss. 2, 59; 2006, c. 9, s. 194; 2010, c. 12, s. 1678.
+> 2005, c. 46, ss. 2, 59; 2006, c. 9, s. 194; 2010, c. 12, s. 1678
 
 
 
@@ -120,7 +120,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(a)** Schedule 1 by adding the name of any Crown corporation or other public body;
 - **(b)** Schedule 2 by adding or deleting the name of any portion of the public sector that has a statutory mandate to investigate other portions of the public sector; and
 - **(c)** Schedule 3 by adding or deleting any provision of any Act of Parliament.
-> 2005, c. 46, s. 3; 2006, c. 9, s. 196.
+> 2005, c. 46, s. 3; 2006, c. 9, s. 196
 
 
 
@@ -133,7 +133,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Promotion of ethical practices and dissemination of information**
 
 **4** The President of the Treasury Board must promote ethical practices in the public sector and a positive environment for disclosing wrongdoings by disseminating knowledge of this Act and information about its purposes and processes and by any other means that he or she considers appropriate.
-> 2005, c. 46, s. 4; 2010, c. 12, s. 1682.
+> 2005, c. 46, s. 4; 2010, c. 12, s. 1682
 
 
 
@@ -160,7 +160,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Code to be tabled**
 
 - **(4)** The President of the Treasury Board must cause the code of conduct established by the Treasury Board to be tabled before each House of Parliament at least 30 days before it comes into force.
-> 2005, c. 46, s. 5; 2010, c. 12, s. 1682.
+> 2005, c. 46, s. 5; 2010, c. 12, s. 1682
 
 
 
@@ -206,7 +206,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(e)** a serious breach of a code of conduct established under section 5 or 6; and
 - **(f)** knowingly directing or counselling a person to commit a wrongdoing set out in any of paragraphs (a) to (e).
 - **(g)** [Repealed, 2006, c. 9, s. 197]
-> 2005, c. 46, s. 8; 2006, c. 9, s. 197.
+> 2005, c. 46, s. 8; 2006, c. 9, s. 197
 
 
 
@@ -240,7 +240,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Exception**
 
 - **(4)** Subsections (1) and (2) do not apply to a chief executive if he or she declares, after giving notice to the Chief Human Resources Officer appointed under subsection 6(2.1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), that it is not practical to apply those subsections given the size of that portion of the public sector.
-> 2005, c. 46, s. 10; 2006, c. 9, s. 198; 2010, c. 12, s. 1679; 2011, c. 24, s. 177.
+> 2005, c. 46, s. 10; 2006, c. 9, s. 198; 2010, c. 12, s. 1679; 2011, c. 24, s. 177
 
 
 
@@ -260,7 +260,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Exception**
 
 - **(2)** Nothing in paragraph (1)(c) requires a chief executive to provide public access to information the disclosure of which is subject to any restriction created by or under any Act of Parliament.
-> 2005, c. 46, s. 11; 2006, c. 9, s. 199.
+> 2005, c. 46, s. 11; 2006, c. 9, s. 199
 
 
 
@@ -282,7 +282,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Exception**
 
 - **(2)** Nothing in this Act authorizes a public servant to disclose to the Commissioner a confidence of the Queen’s Privy Council for Canada in respect of which subsection 39(1) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md) applies or any information that is subject to solicitor-client privilege. The Commissioner may not use the confidence or information if it is disclosed.
-> 2005, c. 46, s. 13; 2006, c. 9, s. 200.
+> 2005, c. 46, s. 13; 2006, c. 9, s. 200
 
 
 
@@ -371,7 +371,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Prohibition against reprisal**
 
 **19** No person shall take any reprisal against a public servant or direct that one be taken against a public servant.
-> 2005, c. 46, s. 19; 2006, c. 9, s. 201.
+> 2005, c. 46, s. 19; 2006, c. 9, s. 201
 
 
 
@@ -404,7 +404,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(5)** A member or former member of the Royal Canadian Mounted Police may not make a complaint under subsection (1) in relation to any action under section 20.2, or any matter that is the subject of an investigation or proceeding under Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), unless
 	- **(a)** he or she has exhausted every procedure available under that Act for dealing with the action or matter; and
 	- **(b)** the complaint is filed within 60 days after those procedures have been exhausted.
-> 2006, c. 9, s. 201; 2013, c. 18, s. 61.
+> 2006, c. 9, s. 201; 2013, c. 18, s. 61
 
 
 
@@ -421,7 +421,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(2)** The public servant may file the complaint within 60 days after the later of
 	- **(a)** the day on which section 19.1 comes into force, and
 	- **(b)** the day on which he or she knew or, in the opinion of the Commissioner, ought to have known that the reprisal was taken.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -448,7 +448,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **No jurisdiction**
 
 - **(4)** The Commissioner ceases to have jurisdiction to deal with a complaint filed by a member or former member of the Royal Canadian Mounted Police if an application for judicial review of any decision relating to the procedures referred to in subsection 19.1(5) is made by the member.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -477,7 +477,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Exception**
 
 - **(5)** Subsection (4) does not apply if the Commissioner has decided not to deal with the complaint for the reason that it was not made in good faith.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -511,7 +511,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Application**
 
 - **(5)** This section applies despite Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -546,7 +546,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Application**
 
 - **(5)** This section applies despite Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -565,7 +565,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Informality**
 
 - **(2)** Investigations into complaints are to be conducted as informally and expeditiously as possible.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -580,7 +580,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Notice to others**
 
 - **(2)** The investigator may also notify any other person he or she considers appropriate, including every person whose conduct is called into question by the complaint, and inform the person of the substance of the complaint.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -595,7 +595,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Insufficient cooperation**
 
 - **(2)** If the investigator concludes that he or she is unable to complete an investigation because of insufficient cooperation on the part of chief executives or public servants, he or she must make a report to the Commissioner to that effect under section 20.3.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -622,7 +622,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Confidentiality**
 
 - **(4)** Any information received by a conciliator in the course of attempting to reach a settlement of a complaint is confidential and may not be disclosed except with the consent of the person who gave the information.
-> 2005, c. 46, s. 20; 2006, c. 9, s. 201.
+> 2005, c. 46, s. 20; 2006, c. 9, s. 201
 
 
 
@@ -637,7 +637,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Who may settle — disciplinary action**
 
 - **(2)** A settlement that relates to the disciplinary action, if any, that is to be imposed on a person identified by the investigator as being the person or one of the persons who took the alleged reprisal must be agreed to by the person identified by the investigator and the person with the authority to take the disciplinary action.
-> 2005, c. 46, s. 20.1; 2006, c. 9, s. 201.
+> 2005, c. 46, s. 20.1; 2006, c. 9, s. 201
 
 
 
@@ -660,7 +660,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Enforcement of settlement**
 
 - **(4)** A settlement approved by the Commissioner may, for the purpose of enforcement, be made an order of the Federal Court on application to that Court by the Commissioner or a party to the settlement.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -673,7 +673,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Investigator’s report to Commissioner**
 
 **20.3** As soon as possible after the conclusion of the investigation, the investigator must submit a report of his or her findings to the Commissioner.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -698,7 +698,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 	- **(b)** the investigation into the complaint could not be completed because of lack of cooperation on the part of one or more chief executives or public servants;
 	- **(c)** the complaint should be dismissed on any ground mentioned in paragraphs 19.3(1)(a) to (d); and
 	- **(d)** having regard to all the circumstances relating to the complaint, it is in the public interest to make an application to the Tribunal.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -707,7 +707,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Dismissal of complaint**
 
 **20.5** If, after receipt of the report, the Commissioner is of the opinion that an application to the Tribunal is not warranted in the circumstances, he or she must dismiss the complaint.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -722,7 +722,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(d)** the person or persons identified in the investigator’s report as being the person or persons who may have taken the alleged reprisal;
 - **(e)** the person or entity with the authority to take disciplinary action against any person referred to in paragraph (d); and
 - **(f)** every person, other than the complainant, or entity that was sent a notice under subsection 19.4(2) in respect of the complaint.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -775,7 +775,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Acting after expiration of appointment**
 
 - **(9)** A member of the Tribunal whose appointment expires may, with the approval of the Chairperson, conclude any hearing that the member has begun and he or she is deemed to be a temporary member of the Tribunal for the purpose.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -792,7 +792,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Sittings**
 
 **20.9** The Tribunal may sit at the times and at the places throughout Canada that it considers necessary or desirable for the proper conduct of its business.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -824,12 +824,12 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Publication of proposed rules**
 
-- **(4)** A copy of each rule that the Chairperson proposes to make must be published in the Canada Gazette, and a reasonable opportunity must be given to interested persons to make representations with respect to it.
+- **(4)** A copy of each rule that the Chairperson proposes to make must be published in the [Canada Gazette](http://www.gazette.gc.ca/), and a reasonable opportunity must be given to interested persons to make representations with respect to it.
 
 **Exception**
 
 - **(5)** A proposed rule need not be published more than once, whether or not it has been amended as a result of any representations.
-> 2005, c. 46, s. 21; 2006, c. 9, s. 201.
+> 2005, c. 46, s. 21; 2006, c. 9, s. 201
 
 
 
@@ -848,7 +848,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Chair of panel**
 
 - **(2)** If a panel of three members has been assigned, the Chairperson must designate one of them to chair the proceedings, but the Chairperson must chair the proceedings if he or she is a member of the panel.
-> 2005, c. 46, s. 21.1; 2006, c. 9, s. 201.
+> 2005, c. 46, s. 21.1; 2006, c. 9, s. 201
 
 
 
@@ -872,7 +872,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Witness fees**
 
 - **(3)** Any person summoned to attend a hearing is entitled, at the discretion of the member or panel, to receive the same fees and allowances as those paid to persons summoned to attend before the Federal Court.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -881,7 +881,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Hearing may be in camera**
 
 **21.3** A hearing before the Tribunal may be held *in camera* at the request of any party if the party establishes to the satisfaction of the Tribunal that the circumstances of the case so require.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -903,7 +903,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Addition of party**
 
 - **(3)** If the Tribunal is of the opinion that a person who has been identified as being a person who may have taken the alleged reprisal may be directly affected by a determination of the Tribunal, the Tribunal may add that person as a party.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -934,7 +934,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Parties**
 
 - **(5)** The parties in respect of proceedings held for the purpose of subsection (4) are the Commissioner, the person against whom the disciplinary action would be taken and, for the purpose of making submissions regarding disciplinary action on behalf of the person or entity who would be required to implement the order if it were made, any person designated by the Tribunal.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -953,7 +953,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Limitation — proceedings relating to remedy**
 
 - **(3)** With respect to the portions of proceedings that relate solely to the remedy, if any, to be ordered in favour of the complainant, the Tribunal may, despite subsection (1), limit the participation of any person or persons identified as being the person or persons who may have taken the alleged reprisal.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -974,7 +974,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
 
 - **(2)** The Tribunal may make an order under subsection (1) in relation to a member of the Royal Canadian Mounted Police despite subsections 32(1) and 45.16(9) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-> 2006, c. 9, s. 201; 2013, c. 18, s. 62.
+> 2006, c. 9, s. 201; 2013, c. 18, s. 62
 
 
 
@@ -1017,7 +1017,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
 
 - **(7)** An order made under subsection (1) in relation to a member of the Royal Canadian Mounted Police may be implemented by the Governor in Council or Commissioner of the Royal Canadian Mounted Police despite Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-> 2006, c. 9, s. 201; 2013, c. 18, s. 63.
+> 2006, c. 9, s. 201; 2013, c. 18, s. 63
 
 
 
@@ -1034,7 +1034,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Effect of filing**
 
 - **(2)** An order of the Tribunal becomes an order of the Federal Court when a certified copy of the order is filed in that court, and it may subsequently be enforced as such.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201
 
 
 
@@ -1056,7 +1056,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(g)** review the results of investigations into disclosures and those commenced under section 33 and report his or her findings to the persons who made the disclosures and to the appropriate chief executives;
 - **(h)** make recommendations to chief executives concerning the measures to be taken to correct wrongdoings and review reports on measures taken by chief executives in response to those recommendations; and
 - **(i)** receive, review, investigate and otherwise deal with complaints made in respect of reprisals.
-> 2005, c. 46, s. 22; 2006, c. 9, s. 202.
+> 2005, c. 46, s. 22; 2006, c. 9, s. 202
 
 
 
@@ -1073,7 +1073,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(2)** For the purpose of subsection (1),
 	- **(a)** the Commissioner of the Royal Canadian Mounted Police, or his or her delegate, is not acting as a law enforcement authority when taking any action under section 20.2 of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md); and
 	- **(b)** a person or body dealing with a matter in the course of an investigation or proceeding under Part IV of that Act is not dealing with the matter as a law enforcement authority.
-> 2005, c. 46, s. 23; 2013, c. 18, s. 64.
+> 2005, c. 46, s. 23; 2013, c. 18, s. 64
 
 
 
@@ -1102,7 +1102,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Notice of refusal**
 
 - **(3)** If the Commissioner refuses to deal with a disclosure or to commence an investigation, he or she must inform the person who made the disclosure, or who provided the information referred to in section 33, as the case may be, and give reasons why he or she did so.
-> 2005, c. 46, s. 24; 2006, c. 9, ss. 203, 226; 2013, c. 18, s. 65.
+> 2005, c. 46, s. 24; 2006, c. 9, ss. 203, 226; 2013, c. 18, s. 65
 
 
 
@@ -1130,7 +1130,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Restriction concerning certain investigations**
 
 - **(2)** The Commissioner may not delegate the conduct of an investigation that involves or may involve information relating to international relations, national defence, national security or the detection, prevention or suppression of criminal, subversive or hostile activities, except to one of a maximum of four officers or employees of the Office of the Public Sector Integrity Commissioner specifically designated by the Commissioner for the purpose of conducting those investigations.
-> 2005, c. 46, s. 25; 2006, c. 9, s. 203.
+> 2005, c. 46, s. 25; 2006, c. 9, s. 203
 
 
 
@@ -1181,7 +1181,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Solicitor-client basis**
 
 - **(9)** The relationship between the public servant or person to whom access to legal advice is provided under this section and the legal counsel providing the advice is that of solicitor and client.
-> 2006, c. 9, s. 203.
+> 2006, c. 9, s. 203
 
 
 
@@ -1200,7 +1200,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Informality**
 
 - **(2)** The investigations are to be conducted as informally and expeditiously as possible.
-> 2005, c. 46, s. 26; 2006, c. 9, s. 204.
+> 2005, c. 46, s. 26; 2006, c. 9, s. 204
 
 
 
@@ -1219,7 +1219,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Opportunity to answer allegations**
 
 - **(3)** It is not necessary for the Commissioner to hold any hearing and no person is entitled as of right to be heard by the Commissioner, but if at any time during the course of an investigation it appears to the Commissioner that there may be sufficient grounds to make a report or recommendation that may adversely affect any individual or any portion of the public sector, the Commissioner must, before completing the investigation, take every reasonable measure to give to that individual or the chief executive responsible for that portion of the public sector a full and ample opportunity to answer any allegation, and to be assisted or represented by counsel, or by any person, for that purpose.
-> 2005, c. 46, s. 27; 2006, c. 9, s. 205(E).
+> 2005, c. 46, s. 27; 2006, c. 9, s. 205(E)
 
 
 
@@ -1234,7 +1234,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Application**
 
 - **(2)** Subsection (1) applies despite any restriction created by or under any other Act of Parliament on the disclosure of information.
-> 2005, c. 46, s. 28; 2006, c. 9, s. 206.
+> 2005, c. 46, s. 28; 2006, c. 9, s. 206
 
 
 
@@ -1253,7 +1253,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Notice before entering premises**
 
 - **(3)** Before entering the premises of any portion of the public sector in the exercise of any powers under subsection (1), the Commissioner must notify the chief executive of that portion of the public sector.
-> 2005, c. 46, s. 29; 2006, c. 9, s. 207.
+> 2005, c. 46, s. 29; 2006, c. 9, s. 207
 
 
 
@@ -1330,7 +1330,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Request for notice of action**
 
 **36** In making a report to a chief executive in respect of an investigation, the Commissioner may, if he or she considers it appropriate to do so, request that the chief executive provide the Commissioner, within a time specified in the report, with notice of any action taken or proposed to be taken to implement the recommendations contained in the report or reasons why no such action has been or is proposed to be taken.
-> 2005, c. 46, s. 36; 2006, c. 9, s. 208(E).
+> 2005, c. 46, s. 36; 2006, c. 9, s. 208(E)
 
 
 
@@ -1341,7 +1341,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **37** If the Commissioner considers it necessary, he or she may report any matter that arises out of an investigation to the Minister responsible for the portion of the public sector concerned or, if the matter relates to a Crown corporation, to its board or governing council, including, but not limited to, when the Commissioner is of the opinion that
 - **(a)** action has not been taken within a reasonable time in respect of one of his or her recommendations; and
 - **(b)** a situation that has come to his or her attention in the course of carrying out his or her duties exists that constitutes an imminent risk of a substantial and specific danger to the life, health or safety of persons, or to the environment.
-> 2005, c. 46, s. 37; 2006, c. 9, s. 209.
+> 2005, c. 46, s. 37; 2006, c. 9, s. 209
 
 
 
@@ -1391,7 +1391,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(4)** After it is tabled, every report the Commissioner stands referred to the committee of the Senate, the House of Commons or both Houses of Parliament that may be designated or established for the purpose of reviewing the Commissioner’s reports.
 
 - **(5)** [Repealed, 2006, c. 9, s. 210]
-> 2005, c. 46, s. 38; 2006, c. 9, s. 210.
+> 2005, c. 46, s. 38; 2006, c. 9, s. 210
 
 
 
@@ -1419,7 +1419,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Report to Parliament**
 
 - **(4)** The President of the Treasury Board must cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the President of the Treasury Board receives the report.
-> 2006, c. 9, s. 211; 2010, c. 12, ss. 1680, 1682; 2011, c. 24, s. 178.
+> 2006, c. 9, s. 211; 2010, c. 12, ss. 1680, 1682; 2011, c. 24, s. 178
 
 
 
@@ -1450,7 +1450,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Interim appointment**
 
 - **(4)** In the event of the absence or incapacity of the Commissioner, or if that office is vacant, the Governor in Council may appoint any qualified person to hold that office in the interim for a term not exceeding six months, and that person shall, while holding office, be paid the salary or other remuneration and expenses that may be fixed by the Governor in Council.
-> 2005, c. 46, s. 39; 2006, c. 9, s. 119.
+> 2005, c. 46, s. 39; 2006, c. 9, s. 119
 
 
 
@@ -1511,7 +1511,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Technical assistance**
 
 - **(2)** The Commissioner may engage on a temporary basis the services of persons having technical or specialized knowledge of any matter relating to the Commissioner’s work to advise and assist the Commissioner in the performance of his or her duties and functions and, with the approval of the Treasury Board, may fix and pay the remuneration and expenses of those persons.
-> 2005, c. 46, s. 39.3; 2006, c. 9, s. 212.
+> 2005, c. 46, s. 39.3; 2006, c. 9, s. 212
 
 
 
@@ -1528,7 +1528,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **False statements**
 
 **40** No person shall, in a disclosure of a wrongdoing or in the course of any investigation under this Act, knowingly make a false or misleading statement, either orally or in writing, to a supervisor, a senior officer, the Commissioner or a person acting on behalf of or under the direction of any of them.
-> 2005, c. 46, s. 40; 2006, c. 9, s. 214(E).
+> 2005, c. 46, s. 40; 2006, c. 9, s. 214(E)
 
 
 
@@ -1574,7 +1574,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Meaning of employer**
 
 - **(3)** For the purpose of subsection (1), ***employer*** does not include an employer in the public sector.
-> 2006, c. 9, s. 215.
+> 2006, c. 9, s. 215
 
 
 
@@ -1597,7 +1597,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Meaning of contract**
 
 - **(3)** In this section, ***contract*** includes, but is not limited to, an agreement for the supply of goods or the provision of services, an agreement relating to real property or immoveables, a loan, a grant and a contribution, but does not include an agreement by a public servant, or by a person appointed by the Governor in Council or by a minister of the Crown, to perform the duties to which their employment or appointment relates.
-> 2006, c. 9, s. 215.
+> 2006, c. 9, s. 215
 
 
 
@@ -1612,7 +1612,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **42.3** Every person who knowingly contravenes section 19 or contravenes any of sections 40 to 42.2 commits an offence and is guilty of
 - **(a)** an indictable offence and liable to a fine of not more than $10,000 or to imprisonment for a term of not more than two years, or to both that fine and that imprisonment; or
 - **(b)** an offence punishable on summary conviction and liable to a fine of not more than $5,000 or to imprisonment for a term of not more than six months, or to both that fine and that imprisonment.
-> 2006, c. 9, s. 215.
+> 2006, c. 9, s. 215
 
 
 
@@ -1665,7 +1665,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(2)** Subsection (1) does not apply to
 	- **(a)** the Commissioner or any person acting on behalf of or under the direction of the Commissioner, with respect to the Commissioner’s participation in any proceedings before the Tribunal; or
 	- **(b)** a person designated as an investigator under section 19.7 with regard to his or her participation in the investigation for which he or she was so designated.
-> 2005, c. 46, s. 46; 2006, c. 9, s. 216.
+> 2005, c. 46, s. 46; 2006, c. 9, s. 216
 
 
 
@@ -1719,7 +1719,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(4)** Before disclosing any information as permitted by subsection (3), the Commissioner must
 	- **(a)** comply with subsection 38.02(1.1) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md); and
 	- **(b)** except for information that only affects the privacy interests of an individual, consult with the organization that has a primary interest in the information.
-> 2005, c. 46, s. 49; 2006, c. 9, s. 217.
+> 2005, c. 46, s. 49; 2006, c. 9, s. 217
 
 
 
@@ -1736,8 +1736,8 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **51** Subject to subsections 19.1(4) and 21.8(4), nothing in this Act is to be construed as prohibiting
 - **(a)** the presentation of an individual grievance under subsection 208(1) or section 238.24 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md); or
-- **(b)** an adjudicator from considering a complaint under section 242 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md).
-> 2005, c. 46, s. 51; 2006, c. 9, s. 218; 2017, c. 9, s. 49.
+- **(b)** the Canada Industrial Relations Board from considering a complaint under section 242 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md).
+> 2005, c. 46, s. 51; 2006, c. 9, s. 218; 2017, c. 9, s. 492017, c. 20, s. 397
 
 
 
@@ -1775,7 +1775,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Duties in other portion of the public sector**
 
 - **(7)** A public servant may be temporarily assigned duties in another portion of the public sector if both the chief executive of that other portion and the public servant consent to the assignment and the duties are comparable to the public servant’s normal duties. The assignment is deemed not to be a reprisal or a disciplinary action if the public servant’s consent is given.
-> 2006, c. 9, s. 219.
+> 2006, c. 9, s. 219
 
 
 
@@ -1793,7 +1793,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Rights of action**
 
 - **(2)** Nothing in this Act affects any right of action that a public servant may otherwise have in relation to any act or omission giving rise to a dispute that does not relate to his or her terms or conditions of employment.
-> 2006, c. 9, s. 219.
+> 2006, c. 9, s. 219
 
 
 
@@ -1802,7 +1802,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Authority to act for Commissioner of the Royal Canadian Mounted Police**
 
 **51.3** The Commissioner of the Royal Canadian Mounted Police may authorize a Deputy or Assistant Commissioner of the Royal Canadian Mounted Police to exercise the powers or perform the duties and functions of the Commissioner of the Royal Canadian Mounted Police as a chief executive in respect of section 11, subsection 19.4(2), paragraph 19.6(1)(b), subsections 19.8(1) and 19.9(1), paragraphs 22(g) and (h), subsections 26(1), 27(1) and (3), 28(1) and 29(3) and sections 36 and 50.
-> 2006, c. 9, s. 219.
+> 2006, c. 9, s. 219
 
 
 
@@ -1833,7 +1833,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Review**
 
 **54** Five years after this section comes into force, the President of the Treasury Board must cause to be conducted an independent review of this Act, and its administration and operation, and must cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
-> 2005, c. 46, s. 54; 2010, c. 12, s. 1682.
+> 2005, c. 46, s. 54; 2010, c. 12, s. 1682
 
 
 
@@ -1985,7 +1985,7 @@ National Arts Centre Corporation<br />- <i>Corporation du Centre national des Ar
 Public Sector Pension Investment Board<br />- <i>Office d’investissement des régimes de pensions du secteur public</i>
 
 Telefilm Canada<br />- <i>Téléfilm Canada</i>
-> 2005, c. 46, Sch. 1; 2008, c. 20, s. 3.
+> 2005, c. 46, Sch. 1; 2008, c. 20, s. 3
 
 
 
@@ -2020,6 +2020,20 @@ Office of the Privacy Commissioner of Canada <br />- <i>Commissariat à la prote
 [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md), section 129
 
 
-> 2005, c. 46, Sch. 3; 2014, c. 39, s. 248.
+> 2005, c. 46, Sch. 3; 2014, c. 39, s. 248
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2006, c. 9, par. 120(e)
+
+
+**Transitional — continuation in office**
+
+**120** A person who holds office under one of the following provisions immediately before the day on which this section comes into force continues in office and is deemed to have been appointed under that provision, as amended by sections 109 to 111, 118 and 119, to hold office for the remainder of the term for which he or she had been appointed:
+- **(e)** the Public Sector Integrity Commissioner under section 39 of the Public Servants Disclosure Protection Act.
+
 
 
