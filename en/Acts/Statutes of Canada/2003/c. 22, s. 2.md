@@ -4159,13 +4159,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **240** Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) applies to and in respect of the public service and persons employed in it as if the public service were a federal work, undertaking or business referred to in that Part except that, for the purpose of that application,
 - **(a)** any reference in that Part to
 	- **(i)** “arbitration” is to be read as a reference to adjudication under Part 2 or Division 2 of Part 2.1,
-	- **(ii)** the “Board” is to be read as a reference to the Federal Public Sector Labour Relations and Employment Board,
+	- **(ii)** for the purposes of sections 133 and 134 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), Board is to be read as a reference to the Public Service Labour Relations and Employment Board,
 	- **(iii)** a “collective agreement” is to be read as a reference to a collective agreement within the meaning of subsection 2(1),
 	- **(iv)** “employee” is to be read as a reference to a person employed in the public service, and
 	- **(v)** a “trade union” is to be read as a reference to an employee organization within the meaning of subsection 2(1) and includes, unless the context otherwise requires, a council of employee organizations within the meaning of that subsection;
-- **(b)** section 156 of that Act does not apply in respect of the Federal Public Sector Labour Relations and Employment Board; and
+- **(b)** [Repealed, 2017, c. 20, s. 396]
 - **(c)** the provisions of this Act apply, with any necessary modifications, in respect of matters brought before the Federal Public Sector Labour Relations and Employment Board.
-> 2003, c. 22, s. 2 “240”; 2013, c. 40, s. 384; 2017, c. 9, ss. 34, 57
+> 2003, c. 22, s. 2 “240”; 2013, c. 40, s. 384; 2017, c. 9, ss. 34, 572017, c. 20, s. 396
 
 
 
