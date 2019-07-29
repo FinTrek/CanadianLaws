@@ -573,7 +573,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **
-> 2016, c. 7.
+> 2016, c. 7
 **
 
 <sup><a href='#fn_Ind67A_hq_20448'>[*]</a></sup>**107** Section 103 comes into force on the day on which section 183 of the Budget Implementation Act, 2016, No. 1 comes into force.
@@ -625,7 +625,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 <a name='fn_Ind8F4F_hq_20449'><sup>*</sup></a>: [Note: Section 110 in force May 10, 2019, *see* SI/2019-26.]<br />
 
 **
-> 2016, c. 7 or royal assent.
+> 2016, c. 7 or royal assent
 **
 
 - <sup><a href='#fn_Ind8F4F_hq_20450'>[*]</a></sup>**(2)** Section 111 comes into force on the day on which section 160 of the Budget Implementation Act, 2016, No. 1 comes into force or, if it is later, on the day on which this Act receives royal assent.
@@ -1779,7 +1779,7 @@ where
 
 
 
-#### Navigation Protection Act
+#### [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)
 
 
 **314** [Amendment]
@@ -2200,14 +2200,14 @@ where
 - <sup><a href='#fn_Ind36F1_hq_20461'>[*]</a></sup>**(1)
 ** Subsections 318(1), 320(1) and 322(1), section 323, subsections 324(2) and 325(1) and (2), sections 326 to 328, subsections 329(1) and (2), sections 330 to 337, subsection 338(1), sections 339 to 349 and 351 to 355, subsections 356(2) and (3), 363(8) and 364(2), section 365, subsection 368(1) and sections 370, 378 to 383, 387 and 391 to 397 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the days fixed in accordance with subsections (2) and (6).
 
-<a name='fn_Ind36F1_hq_20461'><sup>*</sup></a>: [Note: Subsections 318(1), 320(1) and 322(1), section 323, subsections 324(2) and 325(1) and (2), sections 326 to 328, subsections 329(1) and (2), sections 330 to 337, subsection 338(1), sections 339 to 349 and 351 to 355, subsections 356(2) and (3), 363(8) and 364(2), section 365, subsection 368(1) and sections 370, 378 to 383, 387 and 391 to 397 not in force.]<br />
+<a name='fn_Ind36F1_hq_20461'><sup>*</sup></a>: [Note: Subsections 318(1), 320(1) and 322(1), section 323, subsections 324(2) and 325(1) and (2), sections 326 to 328, subsections 329(1) and (2), sections 330 to 337, subsection 338(1), sections 339 to 349 and 351 to 355, subsections 356(2) and (3), 363(8) and 364(2), section 365, subsection 368(1) and sections 370, 378 to 383, 387 and 391 to 397 in force July 29, 2019, *see* SI/2019-76.]<br />
 
 **Order in council**
 
 - <sup><a href='#fn_Ind36F1_hq_20455'>[*]</a></sup>**(2)
 ** Subsection 318(2), section 319, subsections 338(2) and 356(1) and section 384 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind36F1_hq_20455'><sup>*</sup></a>: [Note: Subsection 318(2), section 319, subsections 338(2) and 356(1) and section 384 not in force.]<br />
+<a name='fn_Ind36F1_hq_20455'><sup>*</sup></a>: [Note: Subsection 318(2), section 319, subsections 338(2) and 356(1) and section 384 in force July 29, 2019, *see* SI/2019-76.]<br />
 
 **Order in council**
 
@@ -2466,7 +2466,7 @@ where
 <a name='fn_IndC972_hq_20463'><sup>*</sup></a>: [Note: Subsection 408(1), subsections 415(2) and (3), section 417, subsections 423(1) and (3) and sections 425 and 438 not in force.]<br />
 
 **
-> 2014, c. 20 or royal assent.
+> 2014, c. 20 or royal assent
 **
 
 - <sup><a href='#fn_IndC972_hq_20462'>[*]</a></sup>**(2)** Section 434 comes into force on the day after the day on which section 258 of the [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md) comes into force or, if it is later, on the day on which this Act receives royal assent.
