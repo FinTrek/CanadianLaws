@@ -2407,7 +2407,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 <sup><a href='#fn_Ind46C0_hq_9622'>[*]</a></sup>**1884** Les dispositions de la présente partie entrent en vigueur à la date ou aux dates fixées par décret.
 
 <a name='fn_Ind46C0_hq_9622'><sup>*</sup></a>: [Note : Articles 1874 et 1875 en vigueur le 14 février 2011, *voir* TR/2011-13; les dispositions de la présente partie, à l’exception des articles 1874 et 1875, en vigueur le 18 juin 2014.]<br />
-> 2010, ch. 12, art. 1884; 2014, ch. 20, art. 297.
+> 2010, ch. 12, art. 1884; 2014, ch. 20, art. 297
 
 
 
@@ -3693,7 +3693,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 **Société non mandataire**
 
 **2147** La société Laboratoires Nucléaires Canadiens Ltée, constituée le 30 mai 2014 sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), n’est pas un mandataire de Sa Majesté du chef du Canada.
-> 2010, ch. 12, art. 2147; 2014, ch. 39, art. 378.
+> 2010, ch. 12, art. 2147; 2014, ch. 39, art. 378
 
 
 
@@ -3722,7 +3722,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 **Précision**
 
 - **(5)** Il est entendu que des règlements peuvent être pris en application de l’alinéa 42.1(1)u) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) à l’égard des employés réputés être des contributeurs en application de l’alinéa (1)a).
-> 2010, ch. 12, art. 2148; 2014, ch. 39, art. 379.
+> 2010, ch. 12, art. 2148; 2014, ch. 39, art. 379
 
 
 
@@ -3878,27 +3878,27 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 ### Modification de la loi
 
 
-**2172** [Modification]
+**2172** [Abrogé avant d’entrer en vigueur, 2017, ch. 20, art. 399]
 
 
 
-**2173** [Modification]
+**2173** [Abrogé avant d’entrer en vigueur, 2017, ch. 20, art. 399]
 
 
 
-**2174** [Modification]
+**2174** [Abrogé avant d’entrer en vigueur, 2017, ch. 20, art. 399]
 
 
 
-**2175** [Modification]
+**2175** [Abrogé avant d’entrer en vigueur, 2017, ch. 20, art. 399]
 
 
 
-**2176** [Modifications]
+**2176** [Abrogé avant d’entrer en vigueur, 2017, ch. 20, art. 399]
 
 
 
-**2177** [Modifications]
+**2177** [Abrogé avant d’entrer en vigueur, 2017, ch. 20, art. 399]
 
 
 
@@ -3919,7 +3919,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind38C9_hq_9627'>[*]</a></sup>**2179** Les articles 2172 à 2177 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind38C9_hq_9627'><sup>*</sup></a>: [Note : Articles 2172 à 2177 non en vigueur.]<br />
+<a name='fn_Ind38C9_hq_9627'><sup>*</sup></a>: [Note : Articles 2172 à 2177 abrogés avant d’entrer en vigueur, *voir* 2017, ch. 20, art. 399.]<br />
 
 
 
@@ -4122,7 +4122,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 - **(1)** Les articles 2185 à 2187 et 2190 à 2194 sont réputés être entrés en vigueur le 1<sup>er</sup> janvier 2009.
 
 **
-> 2008, ch. 28.
+> 2008, ch. 28
 **
 
 - **(2)** L’article 2188 entre en vigueur à la date d’entrée en vigueur de l’article 127 de la [Loi d’exécution du budget de 2008](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028.md).
@@ -4151,6 +4151,19 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 ### **ANNEXE 3** 
 **(article 2161)**
 [Modification]
+
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2012, ch. 31, art. 96
+
+**96** Le Règlement sur les méthodes d’attribution des crédits de taxe sur les intrants (TPS/TVH) est réputé, à la fois :
+- **a)** avoir été pris en vertu de l’article 277 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
+- **b)** pour l’application du paragraphe 5(1) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), avoir été transmis au greffier du Conseil privé pour enregistrement;
+- **c)** avoir rempli les exigences de publication prévues au paragraphe 11(1) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
 
 
 
