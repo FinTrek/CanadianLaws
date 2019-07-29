@@ -1610,7 +1610,7 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 
 **PART III** 
-## Occupational Safety and Health
+## Occupational Health and Safety
 
 
 
@@ -1618,39 +1618,174 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 
 
-**Definition of employer**
+**Definitions**
 
-**87** In this Part, ***employer*** has the same meaning as in section 85.
+**87** 
+
+- **(1)** The following definitions apply in this Part.
+
+***Board*** has the same meaning as in section 3. (*Commission*)
+
+***employee*** means a person employed by an employer and includes the person occupying the recognized position of Clerk of the Senate, Clerk of the House of Commons, Gentleman Usher of the Black Rod, Sergeant-at-Arms or Law Clerk and Parliamentary Counsel of the House of Commons. (*employé*)
+
+***employer*** means
+- **(a)** the Senate as represented by any committee or person that the Senate by its rules or orders designates for the purposes of this Part;
+- **(b)** the House of Commons as represented by any committee or person that the House of Commons by its orders designates for the purposes of this Part;
+- **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament;
+- **(d)** the office of the Senate Ethics Officer as represented by the Senate Ethics Officer;
+- **(e)** the office of the Conflict of Interest and Ethics Commissioner as represented by the Conflict of Interest and Ethics Commissioner;
+- **(f)** the Parliamentary Protective Service as represented by the Director of the Parliamentary Protective Service on behalf of the Speakers of the two Houses of Parliament;
+- **(g)** the office of the Parliamentary Budget Officer as represented by the Parliamentary Budget Officer;
+- **(h)** a member of the House of Commons who employs one or more persons or who has the direction or control of staff employed to provide research or associated services to the caucus members of a political party represented in the House of Commons;
+- **(i)** in the case of a person occupying the recognized position of Clerk of the Senate, Clerk of the House of Commons, Gentleman Usher of the Black Rod, Sergeant-at-Arms or Law Clerk and Parliamentary Counsel of the House of Commons, the Senate or the House of Commons, as the case may be, as represented by the committee or person described in paragraph (a) or (b); or
+- **(j)** any other person who is recognized as an employer in regulations made under subsection 19.5(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md) or by-laws made under section 52.5 of that Act. (*employeur*)
+
+**Meaning of employer**
+
+- **(2)** The definition employer in subsection (1) includes any person who acts on behalf of an employer.
+> R.S., 1985, c. 33 (2nd Supp.), s. 872018, c. 22, s. 21
 
 
 
 
-### Canada Labour Code (Part II)
+
+### [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) (Part II)
 
 
 
 **Application**
 
-**88** Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) applies to and in respect of persons employed by an employer and, to the extent that the employer controls the work place at which the persons are employed, to and in respect of the employer, in the same manner and to the same extent as if the employer were a federal work, undertaking or business and the persons were engaged in employment to and in respect of which the provisions of that Part apply except that, for the purpose of such application,
-- **(a)** any reference in that Part to
-	- **(i)** “arbitration” shall be read as a reference to adjudication within the meaning of Part I of this Act,
-	- **(ii)** the “Board” and “collective agreement” shall be read as references to those expressions as defined in section 3 of this Act, and
-	- **(iii)** a “trade union” shall be read as a reference to an employee organization within the meaning of section 3 of this Act;
-- **(b)** section 156 of that Part does not apply in respect of the Board in exercising or carrying out its powers, duties and functions in relation to that Part; and
-- **(c)** the provisions of Part I of this Act apply, with such modifications as the circumstances require, in respect of matters brought before the Board pursuant to Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) to the extent necessary to give effect to that purpose.
+**88** 
+
+- **(1)** Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), other than subsections 134(2) and (3) and sections 152 and 153, applies to and in respect of an employer and employees, in the same manner and to the same extent as if the employer were a federal work, undertaking or business and the employees were employees to and in respect of which that Part applies except that, for the purpose of that application,
+	- **(a)** any reference in that Part to
+		- **(i)** “arbitration” is to be read as a reference to adjudication within the meaning of Part I of this Act,
+		- **(ii)** “Board” and “collective agreement” are to be read as references to those expressions as defined in section 3 of this Act,
+		- **(iii)** “employee” and “employer” are to be read as references to those expressions as defined in subsection 87(1) of this Act, and
+		- **(iv)** “trade union” is to be read as a reference to an employee organization as defined in section 3 of this Act;
+	- **(b)** Part I of this Act applies, with any modifications that the circumstances require, in respect of matters brought before the Board under Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) to the extent necessary to give effect to that purpose; and
+	- **(c)** matters brought before the Board under Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) may be heard and determined only by a member as defined in section 3 of this Act.
+
+**Application to other persons**
+
+- **(2)** This Part also applies to any person who is not an employee but who performs for an employer activities whose primary purpose is to enable the person to acquire knowledge or experience, and to the employer, as if that person were an employee of the employer.
+
+**[Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md)**
+
+- **(3)** For greater certainty, subject to section 2, nothing in this Part shall be construed so as to abrogate or derogate from the rights provided for under the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
+> R.S., 1985, c. 33 (2nd Supp.), s. 882017, c. 20, s. 3942018, c. 22, s. 21
 
 
 
 
-## Coming into Force
+
+**Deputy Minister of Labour**
+
+**88.01** 
+
+- **(1)** For the purposes of this Part, the Deputy Minister of Labour shall exercise the powers and perform the duties and functions of the Minister of Labour under this Part and under Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) involving a member of the Senate or their staff or a member of the House of Commons or their employees.
+
+**Tabling of directions**
+
+- **(2)** If the Deputy Minister of Labour exercises the powers or performs the duties and functions set out in section 88.3 or paragraph 88.4(b), he or she shall provide the direction referred to in that section or that paragraph to the Speaker of the Senate or the Speaker of the House of Commons, or both, who shall each table the direction in the House over which he or she presides.
+> 2018, c. 22, s. 21
 
 
 
-**Coming into force**
 
-<sup><a href='#P-1.3_en_1'>[*]</a></sup>**89** Parts I, II and III of this Act or any of those Parts shall come into force on a day or days to be fixed by proclamation.
 
-<a name='P-1.3_en_1'><sup>*</sup></a>: [Note: Part I in force December 24, 1986, *see* SI/87-21.]<br />
+**Minister to notify Speakers**
+
+**88.1** The Minister of Labour shall notify the Speaker of the Senate or the Speaker of the House of Commons, or both, of the Minister’s intention to enter, under subsection 141(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), a work place controlled by an employer. The Minister shall also notify the Speaker of the Senate or the Speaker of the House of Commons, or both, as soon as possible after the Minister
+- **(a)** commences an investigation under Part II of that Act in relation to an employer or an employee; or
+- **(b)** issues a direction to an employer or an employee under that Part.
+> 2018, c. 22, s. 21
+
+
+
+
+
+**Board to notify Speakers**
+
+**88.2** 
+
+- **(1)** The Board shall notify the Speaker of the Senate or the Speaker of the House of Commons, or both, as soon as possible after
+	- **(a)** the Board receives a complaint under subsection 133(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) in relation to an employer; or
+	- **(b)** an appeal of a direction issued to an employer or an employee is brought under subsection 146(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md).
+
+**Power of Speakers**
+
+- **(2)** If the Speaker of the Senate or the Speaker of the House of Commons is notified that an appeal has been brought,
+	- **(a)** the Board shall, at the Speaker’s request, provide to the Speaker a copy of any document that is filed with the Board in the appeal and that is necessary to enable the Speaker to present evidence and make representations under paragraph (b); and
+	- **(b)** the Speaker may present evidence and make representations to the Board in the appeal.
+> 2018, c. 22, s. 21
+
+
+
+
+
+**Direction of Minister not complied with**
+
+**88.3** The Minister of Labour shall cause to be tabled in the Senate or the House of Commons, or both, a direction that is issued to an employer or an employee under Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) if the direction is not complied with within the period provided for in the direction and it is not appealed within the period provided for in that Part. The Minister shall cause the direction to be tabled within a reasonable time after the later of the expiry of the period for compliance and the expiry of the appeal period.
+> 2018, c. 22, s. 21
+
+
+
+
+
+**Exceptional circumstances**
+
+**88.4** If the Minister of Labour considers that exceptional circumstances require that immediate action be taken to prevent a contravention of Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) by an employer or an employee,
+- **(a)** the Minister shall provide a copy of any direction issued to an employer or an employee under that Part to the Speaker of the Senate or the Speaker of the House of Commons, or both; and
+- **(b)** despite section 88.3, the Minister may, before the expiry of the appeal period, cause to be tabled a direction referred to in paragraph (a) in the Senate or the House of Commons, or both, if that direction is not complied with within the period provided for in the direction.
+> 2018, c. 22, s. 21
+
+
+
+
+
+**Order, decision or direction of Board not complied with**
+
+**88.5** The Board shall, at the request of the Minister of Labour or any person affected by an order or decision made or a direction issued with respect to an employer or an employee by the Board under Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), cause the order, decision or direction to be tabled in the Senate or the House of Commons, or both, if it is not complied with within the period provided for in the order, decision or direction. The Board shall cause the order, decision or direction to be tabled within a reasonable time after receiving the request.
+> 2018, c. 22, s. 21
+
+
+
+
+
+**Powers, privileges and immunities**
+
+**88.6** For greater certainty, nothing in this Part shall be construed as limiting in any way the powers, privileges and immunities of the Senate and the House of Commons and their members or as authorizing the exercise of a power or the performance of a function or duty by virtue of this Part if the exercise of that power or the performance of that function or duty would interfere, directly or indirectly, with the business of the Senate or the House of Commons.
+> 2018, c. 22, s. 21
+
+
+
+
+
+**Annual report — Board**
+
+**88.7** The Board shall, as soon as possible after the end of each year, submit a report for that year on its activities under this Part and under Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as it applies to employers and employees, to the Minister designated as the Minister for the purposes of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md). The Minister shall cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives it.
+> 2018, c. 22, s. 21
+
+
+
+
+
+**Five-year review**
+
+**88.8** 
+
+- **(1)** Five years after the day on which this Part comes into force and every five years after that, the Minister designated as the Minister for the purposes of this Act shall commence a review of the application, in relation to harassment and violence, of the provisions of this Part. At the conclusion of the review, the Minister shall prepare a report on the review.
+
+**Report to be tabled**
+
+- **(2)** The Minister shall cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the report is completed.
+> 2018, c. 22, s. 21
+
+
+
+
+**89** [Repealed, 2018, c. 22, s. 21]
 
 
 
