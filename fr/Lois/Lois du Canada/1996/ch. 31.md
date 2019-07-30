@@ -78,7 +78,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** les navires, ainsi que les ancres, câbles d’ancrage et assises de sonde utilisés à leur égard;
 - **b)** les unités de forage en mer, les stations de pompage, les plates-formes de chargement, de production ou d’atterrissage, les installations sous-marines, les unités de logement ou d’entreposage, les dragues, les grues flottantes, les barges, les unités d’installation de canalisations et les canalisations, ainsi que les ancres, câbles d’ancrage et assises de sonde utilisés à leur égard;
 - **c)** les autres ouvrages désignés — ou qui font partie d’une catégorie désignée — sous le régime de l’alinéa 26(1)a). (*marine installation or structure*)
-> 1996, ch. 31, art. 2; 1993, ch. 28, art. 78; 1998, ch. 15, art. 35; 2002, ch. 7, art. 223; 2014, ch. 2, art. 46.
+> 1996, ch. 31, art. 2; 1993, ch. 28, art. 78; 1998, ch. 15, art. 35; 2002, ch. 7, art. 223; 2014, ch. 2, art. 46
 
 
 
@@ -287,7 +287,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(2)** Il est entendu que l’absence de règlement d’application du sous-alinéa 25a)(iv) n’a pas pour effet de restreindre la portée des droits que peut exercer le Canada au titre des alinéas (1)a) et b).
-> 1996, ch. 31, art. 17; 2015, ch. 3, art. 137(A).
+> 1996, ch. 31, art. 17; 2015, ch. 3, art. 137(A)
 
 
 
@@ -481,7 +481,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 
 **27** 
 
-- **(1)** Le projet de règlement d’application de l’alinéa 25b) ou de l’article 26 est publié dans la Gazette du Canada au moins soixante jours avant la date envisagée pour sa prise d’effet, les intéressés — notamment les provinces — se voyant accorder la possibilité de présenter leurs observations.
+- **(1)** Le projet de règlement d’application de l’alinéa 25b) ou de l’article 26 est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) au moins soixante jours avant la date envisagée pour sa prise d’effet, les intéressés — notamment les provinces — se voyant accorder la possibilité de présenter leurs observations.
 
 **Dispense**
 
@@ -611,7 +611,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 	- **b)** délimiter des zones dans des zones de protection marine;
 	- **c)** interdire l’exercice de catégories d’activités dans des zones de protection marine;
 	- **d)** prendre toute autre mesure compatible avec l’objet de la désignation.
-> 1996, ch. 31, art. 35; 2019, ch. 8, art. 4.
+> 1996, ch. 31, art. 352019, ch. 8, art. 4
 
 
 
@@ -652,7 +652,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 	- **a)** précisant l’espace maritime désigné par l’arrêté;
 	- **b)** résumant les consultations menées avant la prise de l’arrêté;
 	- **c)** résumant les renseignements, qui peuvent notamment être de nature environnementale, sociale, culturelle ou économique, dont il a tenu compte pour la prise de l’arrêté.
-> 2019, ch. 8, art. 5.
+> 2019, ch. 8, art. 5
 
 
 
@@ -661,7 +661,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Exercice des attributions**
 
 **35.2** Le gouverneur en conseil et le ministre ne peuvent utiliser l’absence de certitude scientifique concernant les risques que peut présenter l’exercice d’activités dans certains espaces maritimes comme prétexte pour remettre à plus tard l’exercice des attributions qui leur sont conférées par les paragraphes 35(3) ou 35.1(2) ou ne pas les exercer.
-> 2019, ch. 8, art. 5.
+> 2019, ch. 8, art. 5
 
 
 
@@ -678,7 +678,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Abrogation de l’arrêté**
 
 - **(2)** Le gouverneur en conseil peut abroger l’arrêté s’il prend un règlement visé à l’alinéa (1)a).
-> 2019, ch. 8, art. 5.
+> 2019, ch. 8, art. 5
 
 
 
@@ -701,7 +701,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Incompatibilité**
 
 - **(4)** Les dispositions du décret pris en vertu du paragraphe (1) l’emportent sur toute disposition incompatible de l’arrêté pris en vertu du paragraphe 35.1(2).
-> 1996, ch. 31, art. 36; 2019, ch. 8, art. 6.
+> 1996, ch. 31, art. 362019, ch. 8, art. 6
 
 
 
@@ -748,7 +748,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Entrave**
 
 - **(6)** Il est interdit d’entraver volontairement l’action des agents de l’autorité dans l’exercice de leurs fonctions ou de leur faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
-> 1996, ch. 31, art. 39; 2019, ch. 8, art. 8.
+> 1996, ch. 31, art. 392019, ch. 8, art. 8
 
 
 
@@ -806,7 +806,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 	- **a)** les circonstances prévues au paragraphe (1) existent;
 	- **b)** la visite est nécessaire pour l’application de la présente loi ou de ses règlements;
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
-> 1996, ch. 31, art. 39.1; 2019, ch. 8, art. 10.
+> 1996, ch. 31, art. 39.12019, ch. 8, art. 10
 
 
 
@@ -819,7 +819,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Ordre aux navires de se rendre en un lieu**
 
 **39.2** L’agent de l’autorité qui a des motifs raisonnables de croire qu’un navire ou une personne à son bord a commis, est en train de commettre ou est sur le point de commettre, dans les eaux canadiennes ou la zone économique exclusive du Canada, une infraction à la présente loi et que le navire a été ou est utilisé, ou est sur le point d’être utilisé dans le cadre de la perpétration de l’infraction peut ordonner au navire de se rendre en un lieu situé dans les eaux canadiennes ou la zone économique exclusive du Canada.
-> 1996, ch. 31, art. 39.2; 2019, ch. 8, art. 11.
+> 1996, ch. 31, art. 39.22019, ch. 8, art. 11
 
 
 
@@ -855,7 +855,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 	- **c)** est remis à Sa Majesté du chef du Canada la garantie — dont la forme est déterminée par le ministre — pour le paiement soit de l’amende maximale qui peut être imposée à chaque accusé en cas de condamnation et des autres frais engendrés par le procès, soit d’une somme inférieure approuvée par le ministre;
 	- **d)** il y a désistement de toutes les poursuites relatives à l’infraction qui a donné lieu à l’ordre;
 	- **e)** l’ordre a été annulé par un agent de l’autorité.
-> 2019, ch. 8, art. 11.
+> 2019, ch. 8, art. 11
 
 
 
@@ -906,7 +906,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(6)** L’ordre d’exécution n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2019, ch. 8, art. 11.
+> 2019, ch. 8, art. 11
 
 
 
@@ -921,7 +921,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Urgence**
 
 - **(2)** Pour l’application du paragraphe (1), il y a notamment urgence dans les cas où le délai pour donner un ordre d’exécution écrit qui satisfait aux exigences du paragraphe 39.22(5) risquerait de mettre en danger la vie humaine ou le milieu marin.
-> 2019, ch. 8, art. 11.
+> 2019, ch. 8, art. 11
 
 
 
@@ -936,7 +936,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Autres procédures**
 
 - **(2)** La communication ou l’exécution de l’ordre d’exécution n’empêche pas l’introduction de quelque procédure que ce soit contre l’intéressé dans le cadre de la présente loi ou de toute autre loi relativement à l’infraction visée au paragraphe 39.22(1).
-> 2019, ch. 8, art. 11.
+> 2019, ch. 8, art. 11
 
 
 
@@ -955,7 +955,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Responsabilité personnelle**
 
 - **(3)** La personne autre que tout intéressé visé au paragraphe 39.22(3) qui fournit aide ou conseils à l’agent de l’autorité quant à la prise des mesures énoncées dans l’ordre d’exécution ou qui prend, en application du paragraphe (1), les mesures autorisées ou requises par l’agent de l’autorité n’encourt aucune responsabilité personnelle, ni au civil ni au criminel, pour les actes ou omissions constatés à cette occasion, sauf s’il est établi qu’elle était de mauvaise foi.
-> 2019, ch. 8, art. 11.
+> 2019, ch. 8, art. 11
 
 
 
@@ -986,7 +986,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Prescription**
 
 - **(6)** Le recouvrement se prescrit par cinq ans à compter de la date où les faits à l’origine des créances sont survenus.
-> 2019, ch. 8, art. 11.
+> 2019, ch. 8, art. 11
 
 
 
@@ -1019,7 +1019,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Abandon**
 
 - **(4)** Le propriétaire légitime de tout objet saisi en application de la présente loi peut l’abandonner au profit de Sa Majesté du chef du Canada ou d’une province.
-> 1996, ch. 31, art. 39.3; 2003, ch. 22, art. 224(A); 2019, ch. 8, art. 12.
+> 1996, ch. 31, art. 39.3; 2003, ch. 22, art. 224(A)2019, ch. 8, art. 12
 
 
 
@@ -1035,7 +1035,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Frais**
 
 **39.5** Le propriétaire légitime et toute personne ayant légitimement droit à la possession des objets saisis, détenus, abandonnés ou confisqués au titre de la présente loi sont solidairement responsables des frais — liés à la visite, à l’abandon, à la saisie, à la détention, à la confiscation ou à l’aliénation — supportés par Sa Majesté du chef du Canada lorsqu’ils en excèdent le produit de l’aliénation.
-> 1996, ch. 31, art. 39.5; 2019, ch. 8, art. 13.
+> 1996, ch. 31, art. 39.52019, ch. 8, art. 13
 
 
 
@@ -1116,7 +1116,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Non-application**
 
 - **(6)** Les amendes minimales prévues au présent article ne s’appliquent pas relativement aux poursuites intentées conformément au paragraphe 39.93(1) ou en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md).
-> 1996, ch. 31, art. 39.6; 2019, ch. 8, art. 13.
+> 1996, ch. 31, art. 39.62019, ch. 8, art. 13
 
 
 
@@ -1125,7 +1125,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Responsabilité pénale : dirigeants, administrateurs et mandataires**
 
 **39.61** En cas de perpétration d’une infraction prévue à l’article 39.6 par une personne morale ou par un navire appartenant à une personne morale ou étant exploité par une telle personne, ceux des dirigeants, administrateurs ou mandataires de la personne morale qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue pour une personne physique aux termes de cet article, que la personne morale ou le navire, selon le cas, ait été ou non poursuivi ou condamné.
-> 2019, ch. 8, art. 13.
+> 2019, ch. 8, art. 13
 
 
 
@@ -1134,7 +1134,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Responsabilité pénale : propriétaire, exploitant, capitaine et mécanicien en chef**
 
 **39.62** En cas de perpétration d’une infraction prévue à l’article 39.6 par un navire, son propriétaire, exploitant, capitaine ou mécanicien en chef qui l’a ordonnée ou autorisée, ou qui y a consenti ou participé, est considéré comme coauteur de l’infraction et encourt, sur déclaration de culpabilité, la peine prévue pour une personne physique pour la perpétration d’une infraction aux termes de cet article, que le navire ait été ou non poursuivi ou condamné.
-> 2019, ch. 8, art. 13.
+> 2019, ch. 8, art. 13
 
 
 
@@ -1152,8 +1152,8 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 
 **Contravention à un décret non publié**
 
-- **(3)** Nul ne peut être déclaré coupable d’une contravention à un décret pris en vertu du paragraphe 36(1) qui, à la date du fait reproché, n’avait pas été publié dans la Gazette du Canada, sauf s’il est établi qu’à cette date les mesures nécessaires avaient été prises pour porter la substance du décret à la connaissance des personnes susceptibles d’être touchées par celui-ci.
-> 2019, ch. 8, art. 13.
+- **(3)** Nul ne peut être déclaré coupable d’une contravention à un décret pris en vertu du paragraphe 36(1) qui, à la date du fait reproché, n’avait pas été publié dans la [Gazette du Canada](http://www.gazette.gc.ca/), sauf s’il est établi qu’à cette date les mesures nécessaires avaient été prises pour porter la substance du décret à la connaissance des personnes susceptibles d’être touchées par celui-ci.
+> 2019, ch. 8, art. 13
 
 
 
@@ -1180,7 +1180,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Limitation**
 
 - **(5)** Le paragraphe (4) ne s’applique qu’aux infractions pour lesquelles le contrevenant a déjà été condamné et qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
-> 2019, ch. 8, art. 13.
+> 2019, ch. 8, art. 13
 
 
 
@@ -1189,7 +1189,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Allègement de l’amende minimale**
 
 **39.65** Le tribunal peut imposer une amende inférieure à l’amende minimale prévue à l’article 39.6 s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
-> 2019, ch. 8, art. 13.
+> 2019, ch. 8, art. 13
 
 
 
@@ -1204,7 +1204,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Recommandation du tribunal**
 
 - **(2)** Le tribunal qui fixe le montant de l’amende à porter au crédit du Fonds pour dommages à l’environnement peut recommander au ministre qu’une partie ou la totalité de celle-ci soit versée à la personne ou à l’organisation qu’il précise à l’une des fins prévues au paragraphe (1).
-> 2019, ch. 8, art. 13.
+> 2019, ch. 8, art. 13
 
 
 
@@ -1239,7 +1239,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Avis d’ordres liant le navire**
 
 - **(7)** Dans le cas de poursuites contre un navire pour contravention au paragraphe 39.21(4), l’avis de l’ordre de détention signifié conformément au paragraphe 39.21(3) est présumé avoir été signifié au navire et lie celui-ci.
-> 2019, ch. 8, art. 13.
+> 2019, ch. 8, art. 13
 
 
 
@@ -1280,7 +1280,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Motifs**
 
 - **(5)** Si le tribunal décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
-> 2019, ch. 8, art. 13.
+> 2019, ch. 8, art. 13
 
 
 
@@ -1328,7 +1328,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Créance de Sa Majesté**
 
 - **(2)** La somme à verser à Sa Majesté du chef du Canada en application de l’alinéa (1)j) constitue une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
-> 1996, ch. 31, art. 39.9; 2019, ch. 8, art. 14.
+> 1996, ch. 31, art. 39.92019, ch. 8, art. 14
 
 
 
@@ -1343,7 +1343,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Prononcé de la peine**
 
 - **(2)** Sur demande de la poursuite, le tribunal peut, lorsque la personne visée par l’ordonnance ne se conforme pas aux modalités de celle-ci ou est déclarée coupable d’une autre infraction à la présente loi dans les trois ans qui suivent la date de l’ordonnance, prononcer la peine qui aurait pu être infligée s’il n’y avait pas eu sursis.
-> 1996, ch. 31, art. 39.10; 2019, ch. 8, art. 15.
+> 1996, ch. 31, art. 39.102019, ch. 8, art. 15
 
 
 
@@ -1352,7 +1352,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 **Prescription**
 
 **39.92** Les poursuites visant une infraction punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par cinq ans à compter de la date de la perpétration de l’infraction.
-> 1996, ch. 31, art. 39.11; 2019, ch. 8, art. 16.
+> 1996, ch. 31, art. 39.112019, ch. 8, art. 16
 
 
 
@@ -1391,7 +1391,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 - **(5)** Le gouverneur en conseil peut, par règlement, déterminer :
 	- **a)** les infractions visées par le présent article ainsi que leur désignation dans le formulaire de contravention;
 	- **b)** le montant de l’amende afférente à concurrence de 2 000 $.
-> 1996, ch. 31, art. 39.12; 2003, ch. 22, art. 224(A); 2019, ch. 8, art. 17.
+> 1996, ch. 31, art. 39.12; 2003, ch. 22, art. 224(A)2019, ch. 8, art. 17
 
 
 
@@ -1434,14 +1434,14 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 		- **(iii)** de services de brise-glace et de surveillance des glaces,
 		- **(iv)** de services d’entretien des chenaux;
 	- **b)** le volet maritime du programme fédéral de recherche et de sauvetage;
-	- **c)** [Abrogé, 2005, ch. 29, art. 36]
+	- **c)** l’intervention à l’égard d’épaves et de navires dangereux ou délabrés;
 	- **d)** l’intervention environnementale en milieu marin;
 	- **e)** les services de navigation maritime et aérienne et les autres services maritimes fournis aux ministères et organismes fédéraux.
 
 **Obligation du ministre**
 
 - **(2)** Le ministre devra s’assurer que les services mentionnés aux sous-alinéas (1)a)(i) à (iv) sont dispensés de la manière la plus économique et la plus judicieuse possible.
-> 1996, ch. 31, art. 41; 1999, ch. 31, art. 170(F); 2005, ch. 29, art. 36.
+> 1996, ch. 31, art. 41; 1999, ch. 31, art. 170(F); 2005, ch. 29, art. 362019, ch. 1, art. 133
 
 
 
@@ -1543,7 +1543,7 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 
 **Publication**
 
-- **(2)** Dans les trente jours suivant la fixation d’un prix dans le cadre de la présente loi, le ministre publie celui-ci dans la Gazette du Canada et par tout autre moyen indiqué, notamment électronique, que le Conseil du Trésor peut, par règlement, autoriser.
+- **(2)** Dans les trente jours suivant la fixation d’un prix dans le cadre de la présente loi, le ministre publie celui-ci dans la [Gazette du Canada](http://www.gazette.gc.ca/) et par tout autre moyen indiqué, notamment électronique, que le Conseil du Trésor peut, par règlement, autoriser.
 
 **Renvoi en comité**
 
@@ -1615,5 +1615,15 @@ Le certificat est recevable en preuve sans qu’il soit nécessaire de prouver l
 <sup><a href='#O-2.4_fr_1'>[*]</a></sup>**109** Exception faite de l’article 53, la présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par décret.
 
 <a name='O-2.4_fr_1'><sup>*</sup></a>: [Note : Loi, sauf article 53, en vigueur le 31 janvier 1997, *voir* TR/97-21.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 8, art. 18
+
+**18** L’article 39.11 de la Loi sur les océans, dans sa version antérieure à la date d’entrée en vigueur de l’article 16 de la présente loi, continue de s’appliquer aux infractions perpétrées avant cette date.
+
 
 
