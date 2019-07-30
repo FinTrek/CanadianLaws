@@ -87,7 +87,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** à l’égard d’un bâtiment étranger, le capitaine. (*authorized representative*)
 
 ***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md). (*Tribunal*)
-> 2001, ch. 26, art. 2 et 323, ch. 29, art. 72; 2011, ch. 15, art. 37; 2014, ch. 29, art. 58.
+> 2001, ch. 26, art. 2 et 323, ch. 29, art. 72; 2011, ch. 15, art. 37; 2014, ch. 29, art. 58
 
 
 
@@ -103,7 +103,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 **4** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre des Transports, prendre toute mesure réglementaire prévue à l’article 2.
-> 2001, ch. 26, art. 4; 2005, ch. 29, art. 15.
+> 2001, ch. 26, art. 4; 2005, ch. 29, art. 15
 
 
 
@@ -173,7 +173,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** les paragraphes 10(2.1) et 35.1(1) s’appliquent aussi à l’égard :
 	- **(i)** des bâtiments étrangers dans les eaux de la zone économique exclusive du Canada,
 	- **(ii)** des embarcations de plaisance qui ne sont pas des bâtiments canadiens dans les eaux canadiennes ou dans les eaux de la zone économique exclusive du Canada.
-> 2001, ch. 26, art. 8; 2018, ch. 27, art. 688.
+> 2001, ch. 26, art. 8; 2018, ch. 27, art. 688
 
 
 
@@ -219,14 +219,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le ministre des Transports peut dispenser, aux conditions qu’il estime indiquées et pour une période donnée, tout bâtiment ou toute catégorie de bâtiments de l’application d’une disposition des parties 3 (personnel), 4 (sécurité) ou 9 (prévention de la pollution — ministère des Transports) s’il estime que, dans le cas d’un bâtiment ou de bâtiments d’une catégorie déterminée qui se trouvent dans les eaux canadiennes et se dirigent vers un port étranger ou en proviennent, la disposition est essentiellement similaire à celle d’une loi étrangère à laquelle le bâtiment ou la catégorie de bâtiments sont assujettis.
 
-**Publication — Gazette du Canada**
+**Publication — [Gazette du Canada](http://www.gazette.gc.ca/)**
 
-- **(4)** Chacune des dispenses prévues aux paragraphes (2), (2.1) et (3) fait l’objet d’un avis dans la Gazette du Canada.
+- **(4)** Chacune des dispenses prévues aux paragraphes (2), (2.1) et (3) fait l’objet d’un avis dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Autorisation**
 
 - **(5)** Le ministre des Transports ou le ministre des Pêches et des Océans peut, s’il le juge indiqué, autoriser un agent de l’administration publique fédérale ou un officier ou agent de police ou toute autre personne employée à la préservation de la paix publique, individuellement ou au titre de son appartenance à une catégorie, à exercer tout ou partie des attributions que lui confère la présente loi.
-> 2001, ch. 26, art. 10; 2003, ch. 22, art. 224(A); 2018, ch. 27, art. 689.
+> 2001, ch. 26, art. 10; 2003, ch. 22, art. 224(A); 2018, ch. 27, art. 689
 
 
 
@@ -256,16 +256,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Violation d’un arrêté non publié**
 
-- **(5)** Aucune sanction ne peut découler du non-respect d’un arrêté qui, au moment du fait reproché, n’avait pas été publié dans la Gazette du Canada, sauf s’il est établi qu’à ce moment l’arrêté avait été porté à la connaissance du contrevenant ou des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
+- **(5)** Aucune sanction ne peut découler du non-respect d’un arrêté qui, au moment du fait reproché, n’avait pas été publié dans la [Gazette du Canada](http://www.gazette.gc.ca/), sauf s’il est établi qu’à ce moment l’arrêté avait été porté à la connaissance du contrevenant ou des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(6)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté, mais celui-ci est publié dans la Gazette du Canada dans les vingt-trois jours suivant sa prise.
+- **(6)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté, mais celui-ci est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dans les vingt-trois jours suivant sa prise.
 
 **Dépôt devant les chambres du Parlement**
 
 - **(7)** Le ministre des Transports veille à ce qu’une copie de l’arrêté soit déposée devant chaque chambre du Parlement dans les quinze jours suivant sa prise. La copie est communiquée au greffier de cette chambre dans le cas où celle-ci ne siège pas.
-> 2018, ch. 27, art. 690.
+> 2018, ch. 27, art. 690
 
 
 
@@ -302,7 +302,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Immunité**
 
 - **(5)** Les inspecteurs sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
-> 2001, ch. 26, art. 11; 2014, ch. 29, art. 59.
+> 2001, ch. 26, art. 11; 2014, ch. 29, art. 59
 
 
 
@@ -415,7 +415,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** indiquant, dans le cas d’un document maritime pouvant être délivré sous le régime de la partie 3 (personnel) et dont le motif de refus est prévu aux alinéas (4)a), b), c) ou e), le lieu et la date limite, à savoir trente jours après l’envoi de l’avis, du dépôt d’une éventuelle requête en révision.
 
 - **(6)** [Abrogé, 2001, ch. 29, art. 72]
-> 2001, ch. 26, art. 16, ch. 29, art. 72; 2012, ch. 31, art. 156.
+> 2001, ch. 26, art. 16, ch. 29, art. 72; 2012, ch. 31, art. 156
 
 
 
@@ -446,7 +446,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(5)** Le conseiller peut :
 	- **a)** dans les cas visés à l’alinéa 16(4)e), confirmer la décision du ministre des Transports ou y substituer sa propre décision;
 	- **b)** dans les autres cas, confirmer la décision du ministre des Transports ou lui renvoyer l’affaire pour réexamen.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -500,7 +500,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Retour des documents**
 
 - **(2)** Dans le cas où un document maritime canadien est suspendu ou annulé, son titulaire doit, sur demande, le rendre au ministre des Transports.
-> 2001, ch. 26, art. 20, ch. 29, art. 72; 2012, ch. 31, art. 157.
+> 2001, ch. 26, art. 20, ch. 29, art. 72; 2012, ch. 31, art. 157
 
 
 
@@ -511,7 +511,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **20.1** Avant de suspendre ou d’annuler un document maritime canadien délivré sous le régime de la partie 3 (personnel), le ministre des Transports donne au titulaire un préavis de trente jours qui :
 - **a)** précise les motifs de la suspension ou de l’annulation;
 - **b)** indique, dans le cas où le motif de la décision est prévu aux alinéas 20(1)a), b), c), e) ou f) ou au sous-alinéa 20(1)g)(ii), le lieu et la date limite, à savoir trente jours après l’envoi du préavis, du dépôt d’une éventuelle requête en révision.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -534,7 +534,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision dans les quarante-huit heures**
 
 - **(4)** Le comité du Tribunal rend sa décision dans les quarante-huit heures suivant le dépôt de l’appel au Tribunal.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -545,7 +545,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **20.3** Sauf dans le cas d’un document maritime canadien suspendu ou annulé conformément à l’article 20.1, le ministre des Transports doit, immédiatement après avoir suspendu ou annulé un document maritime canadien ou en avoir refusé le renouvellement, envoyer à son titulaire un avis :
 - **a)** confirmant, motifs à l’appui, la suspension, l’annulation ou le refus de renouveler;
 - **b)** indiquant, dans le cas où le motif de la décision est prévu aux alinéas 20(1)a), b), c), e) ou f) ou au sous-alinéa 20(1)g)(ii), le lieu et la date limite, à savoir trente jours après l’envoi de l’avis, du dépôt d’une éventuelle requête en révision.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -582,7 +582,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(7)** Le conseiller peut :
 	- **a)** dans les cas visés à l’alinéa 20(1)e) ou aux sous-alinéas 20(1)f)(ii) ou (iii), confirmer la décision du ministre ou y substituer sa propre décision;
 	- **b)** dans les autres cas, confirmer la décision du ministre des Transports ou renvoyer l’affaire au ministre pour réexamen.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -603,7 +603,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Le comité du Tribunal peut :
 	- **a)** rejeter l’appel, ou y faire droit et substituer sa propre décision à celle rendue en vertu des alinéas 16.1(5)a) ou 20.4(7)a);
 	- **b)** rejeter l’appel ou renvoyer l’affaire au ministre des Transports pour réexamen, dans le cas d’une décision rendue en vertu des alinéas 16.1(5)b) ou 20.4(7)b).
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -719,7 +719,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision de la formation**
 
 - **(6)** Il est entendu que les décisions rendues par la formation valent décisions du Bureau.
-> 2001, ch. 26, art. 27; 2003, ch. 22, art. 224(A).
+> 2001, ch. 26, art. 27; 2003, ch. 22, art. 224(A)
 
 
 
@@ -859,7 +859,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interprétation**
 
 - **(7)** Il est entendu que les paragraphes (1) à (6) n’ont pas pour objet d’empêcher la prise de règlements incorporant par renvoi des documents autres que ceux visés par ces paragraphes.
-> 2001, ch. 26, art. 32; 2012, ch. 31, art. 158.
+> 2001, ch. 26, art. 32; 2012, ch. 31, art. 158
 
 
 
@@ -867,7 +867,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Moyen de défense**
 
-**33** Il est entendu qu’aucune sanction ne peut découler du non-respect d’une disposition d’un règlement dans laquelle un document est incorporé par renvoi, sauf s’il est prouvé que, au moment du fait reproché, le contrevenant avait facilement accès au document, des mesures raisonnables avaient été prises pour que les intéressés puissent y avoir accès ou celui-ci était publié dans la Gazette du Canada.
+**33** Il est entendu qu’aucune sanction ne peut découler du non-respect d’une disposition d’un règlement dans laquelle un document est incorporé par renvoi, sauf s’il est prouvé que, au moment du fait reproché, le contrevenant avait facilement accès au document, des mesures raisonnables avaient été prises pour que les intéressés puissent y avoir accès ou celui-ci était publié dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 
 
@@ -885,7 +885,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(2)** L’ordre n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2001, ch. 26, art. 34; 2018, ch. 27, art. 691.
+> 2001, ch. 26, art. 34; 2018, ch. 27, art. 691
 
 
 
@@ -907,9 +907,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(i)** les mettre en oeuvre à l’égard de personnes, de bâtiments ou d’installations de manutention d’hydrocarbures qu’ils ne visent pas,
 		- **(ii)** établir des normes plus sévères que celles qui y sont prévues,
 		- **(iii)** établir des normes supplémentaires ou complémentaires à celles qui y sont prévues dans le cas où il est convaincu qu’elles servent les objectifs de la convention, du protocole ou de la résolution;
-	- **e)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par la présente partie et les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et les règlements pris en vertu du paragraphe 136(1);
-	- **f)** régir les avis prévus par la présente partie et les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et les règlements pris en vertu du paragraphe 136(1);
-	- **g)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application de la présente partie et des parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 7 (épaves) sauf l’article 163, 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et des règlements pris en vertu de l’une de ces parties ou du paragraphe 136(1);
+	- **e)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par la présente partie et les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et les règlements pris en vertu du paragraphe 136(1);
+	- **f)** régir les avis prévus par la présente partie et les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et les règlements pris en vertu du paragraphe 136(1);
+	- **g)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application de la présente partie et des parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et des règlements pris en vertu de l’une de ces parties ou du paragraphe 136(1);
 	- **h)** préciser les services pour l’application de l’alinéa 36.1(1)d);
 	- **i)** préciser les services à l’égard desquels l’article 36.1 ne s’applique pas ou les circonstances dans lesquelles cet article ne s’applique pas.
 
@@ -927,7 +927,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par les parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties;
 	- **c)** régir les avis prévus par les parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties;
 	- **d)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application des parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties, et des règlements pris en vertu du paragraphe 136(2).
-> 2001, ch. 26, art. 35, ch. 29, art. 72; 2005, ch. 29, art. 16; 2012, ch. 31, art. 159.
+> 2001, ch. 26, art. 35, ch. 29, art. 72; 2005, ch. 29, art. 16; 2012, ch. 31, art. 1592019, ch. 1, art. 141
 
 
 
@@ -968,7 +968,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication de l’arrêté**
 
 - **(5)** Dès que possible après la prise d’un arrêté visé au paragraphe (2), le ministre des Transports publie un avis de la prise de celui-ci sur le site Web de son ministère ou par tout autre moyen qu’il estime indiqué.
-> 2018, ch. 27, art. 692.
+> 2018, ch. 27, art. 692
 
 
 
@@ -998,7 +998,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sûretés**
 
 - **(4)** Le ministre donne cependant mainlevée contre remise d’une garantie qu’il juge satisfaisante — équivalente aux sommes dues.
-> 2001, ch. 26, art. 36; 2012, ch. 31, art. 160(F).
+> 2001, ch. 26, art. 36; 2012, ch. 31, art. 160(F)
 
 
 
@@ -1025,7 +1025,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépense**
 
 - **(5)** Le ministre des Transports peut dépenser les sommes perçues au titre d’un accord conclu en vertu du paragraphe (1) au cours de l’exercice où elles sont perçues ou de l’exercice suivant.
-> 2017, ch. 20, art. 316.
+> 2017, ch. 20, art. 316
 
 
 
@@ -1048,7 +1048,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application de certains règlements**
 
 - **(3)** Sauf disposition contraire des règlements, les règlements pris en vertu de l’alinéa 35(1)g) ne s’appliquent pas à l’égard de la prestation, par une personne ou organisation qui ne fait pas partie de l’administration publique fédérale, de l’un ou l’autre des services visés aux alinéas (1)a) à d) dans l’exercice, aux termes d’un accord ou d’un arrangement conclu par le ministre des Transports en vertu de l’alinéa 10(1)c), d’attributions prévues sous le régime de la présente loi.
-> 2012, ch. 31, art. 161; 2017, ch. 20, art. 454.
+> 2012, ch. 31, art. 161; 2017, ch. 20, art. 454
 
 
 
@@ -1106,7 +1106,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt sur déclaration de culpabilité par procédure sommaire une amende maximale de 10 000 $.
-> 2001, ch. 26, art. 40; 2017, ch. 26, art. 40.
+> 2001, ch. 26, art. 40; 2017, ch. 26, art. 40
 
 
 
@@ -1123,7 +1123,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Peine**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
-> 2018, ch. 27, art. 693.
+> 2018, ch. 27, art. 693
 
 
 
@@ -1165,7 +1165,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contenu du Registre**
 
 - **(2)** Doivent être consignés sur le Registre les renseignements et la documentation que le registraire en chef précise à l’égard d’un bâtiment canadien ou d’une flotte immatriculée sous le régime de la présente partie, notamment sa description et son numéro matricule, les nom et adresse du propriétaire et, dans le cas d’un bâtiment qui n’est pas immatriculé dans la partie du Registre sur les petits bâtiments, le détail de toutes les hypothèques enregistrées à son égard.
-> 2001, ch. 26, art. 43; 2011, ch. 15, art. 38.
+> 2001, ch. 26, art. 43; 2011, ch. 15, art. 38
 
 
 
@@ -1211,7 +1211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Immatriculation obligatoire des bâtiments d’État**
 
 - **(3)** Tout bâtiment d’État doit être immatriculé sous le régime de la présente partie.
-> 2001, ch. 26, art. 46; 2011, ch. 15, art. 39.
+> 2001, ch. 26, art. 46; 2011, ch. 15, art. 39
 
 
 
@@ -1227,7 +1227,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** un employé ou un dirigeant au Canada d’une succursale de cette société exerçant des activités commerciales au Canada,
 	- **(iii)** une société de gestion de bâtiments constituée en vertu des lois du Canada ou d’une province;
 - **c)** le bâtiment dont une personne qualifiée a la possession exclusive aux termes d’un accord de financement en vertu duquel cette personne va en acquérir la propriété.
-> 2001, ch. 26, art. 47; 2011, ch. 15, art. 40.
+> 2001, ch. 26, art. 47; 2011, ch. 15, art. 40
 
 
 
@@ -1456,7 +1456,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis concernant le bâtiment en construction**
 
 - **(4)** Au plus tard trente jours après l’achèvement de la construction d’un bâtiment inscrit à titre de bâtiment en construction au Canada, la personne au nom de qui le bâtiment est inscrit en avise le registraire en chef et lui fournit les nom et adresse de son propriétaire.
-> 2001, ch. 26, art. 58; 2011, ch. 15, art. 41(F).
+> 2001, ch. 26, art. 58; 2011, ch. 15, art. 41(F)
 
 
 
@@ -1707,7 +1707,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve**
 
 - **(3)** Outre ces renseignements et cette documentation, le registraire en chef peut exiger toute preuve qu’il estime nécessaire, notamment une déclaration, pour établir que le groupe de bâtiments pourrait être immatriculé à titre de flotte.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1725,7 +1725,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Partie du Registre sur les petits bâtiments**
 
 - **(2)** Le cas échéant, la flotte est immatriculée dans la partie du Registre sur les petits bâtiments.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1763,7 +1763,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Actes ou omissions du représentant autorisé de la flotte**
 
 - **(7)** Le propriétaire d’une flotte est lié par les faits — actes ou omissions — de son représentant autorisé à l’égard des questions dont celui-ci est responsable au titre de la présente loi.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1775,7 +1775,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** appartenir au même propriétaire que les autres bâtiments de la flotte;
 - **b)** respecter les exigences mentionnées aux alinéas 75.02(1)b) et c);
 - **c)** correspondre à la description faite dans le certificat d’immatriculation de la flotte ou aux détails qui y sont indiqués.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1792,7 +1792,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** À moins d’être incorporé à une autre flotte, il cesse d’être immatriculé sous le régime de la présente partie dans les cas suivants :
 	- **a)** il survient un changement dans la propriété du bâtiment;
 	- **b)** il est modifié au point de ne plus correspondre à la description faite dans le certificat d’immatriculation de la flotte ou aux détails qui y sont indiqués.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1801,7 +1801,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation de l’immatriculation**
 
 **75.06** Le registraire en chef peut révoquer l’immatriculation d’un bâtiment canadien qui est incorporé à une flotte.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1816,7 +1816,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** l’article 62;
 - **e)** les paragraphes 63(1) et (2);
 - **f)** l’article 73.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1834,7 +1834,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Article 59**
 
 - **(2)** L’article 59 s’applique à l’égard des flottes; toutefois, la mention de l’article 58 vaut mention de l’article 75.1.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1849,7 +1849,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien des marques**
 
 - **(2)** Le représentant autorisé d’un flotte veille à ce que les marques de chacun des bâtiments de celle-ci demeurent en place.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1870,7 +1870,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Si, pour quelque raison que ce soit, une flotte n’a pas de représentant autorisé, son propriétaire avise le registraire en chef :
 	- **a)** de ce fait aussitôt que possible dans les circonstances;
 	- **b)** de tout fait mentionné aux paragraphes (1) ou (2) au plus tard trente jours après que celui-ci est survenu.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1893,7 +1893,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve**
 
 - **(3)** Le registraire en chef révoque l’immatriculation d’une flotte si la personne qui l’acquiert ne fournit pas, dans le délai réglementaire, une preuve — que le registraire en chef estime suffisante — qu’elle satisfait toujours aux exigences relatives à l’immatriculation prévues par la présente partie.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1902,7 +1902,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rétablissement**
 
 **75.12** Le registraire en chef peut rétablir l’immatriculation d’une flotte si, à son avis, celle-ci n’aurait pas dû être révoquée.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1911,7 +1911,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Remise du certificat d’immatriculation**
 
 **75.13** La personne ayant en sa possession un certificat d’immatriculation délivré à l’égard d’une flotte est tenue de le remettre à la personne qui a le droit d’exploiter la flotte.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1922,7 +1922,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **75.14** S’il survient un changement dans la propriété d’une flotte et que celle-ci satisfait toujours aux exigences relatives à l’immatriculation prévues par la présente partie :
 - **a)** le propriétaire de la flotte fournit au registraire en chef toute preuve que celui-ci estime nécessaire, notamment une déclaration, pour établir que la flotte satisfait toujours à ces exigences;
 - **b)** le registraire en chef modifie le Registre ainsi que le certificat d’immatriculation afin de tenir compte du changement.
-> 2011, ch. 15, art. 42.
+> 2011, ch. 15, art. 42
 
 
 
@@ -1935,7 +1935,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copies des inscriptions**
 
 **76** Toute personne peut, à l’égard d’un bâtiment ou d’une flotte, examiner les inscriptions sur le Registre ou en obtenir copie.
-> 2001, ch. 26, art. 76; 2011, ch. 15, art. 42.
+> 2001, ch. 26, art. 76; 2011, ch. 15, art. 42
 
 
 
@@ -1960,7 +1960,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **h.2)** autoriser le ministre à dispenser par arrêté, pour la période réglementaire, des bâtiments ou catégories de bâtiments de l’exigence relative à l’immatriculation prévue au paragraphe 46(1), aux conditions que le ministre estime indiquées, si celui-ci est d’avis que la sécurité maritime ne risque pas d’en être compromise, et autoriser celui-ci à modifier ou à révoquer toute dispense;
 - **h.3)** régir l’autorisation visée à l’alinéa h.2);
 - **i)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
-> 2001, ch. 26, art. 77; 2011, ch. 15, art. 43.
+> 2001, ch. 26, art. 77; 2011, ch. 15, art. 43
 
 
 
@@ -2016,7 +2016,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Infraction continue**
 
 - **(3)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction visée aux alinéas (1)a) ou c).
-> 2001, ch. 26, art. 79; 2011, ch. 15, art. 44.
+> 2001, ch. 26, art. 79; 2011, ch. 15, art. 44
 
 
 
@@ -2164,7 +2164,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personnes occupant un poste à bord**
 
 **87** Toute personne occupant à bord d’un bâtiment canadien un poste à l’égard duquel un brevet est exigé sous le régime de la présente partie doit être titulaire du brevet et en respecter les modalités.
-> 2001, ch. 26, art. 87; 2017, ch. 26, art. 41(F).
+> 2001, ch. 26, art. 87; 2017, ch. 26, art. 41(F)
 
 
 
@@ -2179,7 +2179,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Brevet étranger**
 
 - **(2)** Le ministre peut, à la demande d’une personne visée au paragraphe (1), délivrer un brevet d’aptitude relativement à certaines exigences prévues sous le régime de la présente loi au titulaire d’un brevet d’aptitude délivré en vertu de lois étrangères s’il est convaincu que les exigences afférentes à ce dernier brevet sont égales ou supérieures à celles prévues sous le régime de la présente loi. Il peut, au préalable, exiger que le titulaire subisse l’examen qu’il précise.
-> 2001, ch. 26, art. 88 et 323; 2017, ch. 26, art. 41(F).
+> 2001, ch. 26, art. 88 et 323; 2017, ch. 26, art. 41(F)
 
 
 
@@ -2194,7 +2194,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suspension ou révocation**
 
 - **(2)** Le brevet ainsi accepté peut, seulement en ce qui concerne sa validité au Canada, être suspendu ou révoqué par le ministre comme s’il s’agissait d’un document maritime canadien; le brevet ainsi suspendu ou révoqué doit être remis par le titulaire au ministre, qui le renvoie aussitôt à l’autorité qui l’a délivré.
-> 2001, ch. 26, art. 89; 2017, ch. 26, art. 41(F).
+> 2001, ch. 26, art. 89; 2017, ch. 26, art. 41(F)
 
 
 
@@ -2225,7 +2225,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(5)** Le titulaire du brevet est présumé avoir consenti à la communication au ministre des renseignements portant sur son état dans les circonstances qui sont mentionnées au paragraphe (1).
-> 2001, ch. 26, art. 90; 2017, ch. 26, art. 42(F).
+> 2001, ch. 26, art. 90; 2017, ch. 26, art. 42(F)
 
 
 
@@ -2379,7 +2379,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **k)** déterminer ce qui constitue une grave violation du contrat de travail;
 - **l)** régir toute question relative à la santé ou à la sécurité au travail à bord d’un bâtiment qui n’est pas régie par le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md);
 - **m)** régir le paiement et la répartition des gages des membres de l’équipage.
-> 2001, ch. 26, art. 100; 2017, ch. 26, art. 43(F).
+> 2001, ch. 26, art. 100; 2017, ch. 26, art. 43(F)
 
 
 
@@ -2617,7 +2617,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **116** Sous réserve des articles 135 (pouvoir de monter à bord d’un bâtiment), 175.1 (pouvoirs généraux de l’agent d’intervention environnementale), 196 et 198 (inspection — embarcations de plaisance), 200 (pouvoir de monter à bord d’un bâtiment) et 211 (visite de l’inspecteur) et de toute autre loi fédérale, nul ne peut monter à bord d’un bâtiment ou en débarquer — ou tenter de monter à bord d’un bâtiment ou d’en débarquer —, selon le cas :
 - **a)** à l’encontre des ordres du capitaine ou de la personne chargée de l’embarquement ou du débarquement des passagers ou sans son autorisation;
 - **b)** en l’absence de moyens d’embarquement ou de débarquement sécuritaires ou en cas d’obstruction de tels moyens.
-> 2001, ch. 26, art. 116; 2005, ch. 29, art. 17.
+> 2001, ch. 26, art. 116; 2005, ch. 29, art. 17
 
 
 
@@ -2693,7 +2693,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Infractions aux règlements**
 
 - **(5)** Malgré l’article 105, l’alinéa 121(1)s) s’applique à l’égard des infractions aux règlements pris sous le régime des paragraphes (3) ou (4).
-> 2001, ch. 26, art. 120; 2018, ch. 27, art. 694(A).
+> 2001, ch. 26, art. 120; 2018, ch. 27, art. 694(A)
 
 
 
@@ -2833,7 +2833,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(6)** Si le capitaine est incapable d’établir ou de maintenir une communication directe en raison d’une défectuosité de fonctionnement de l’équipement, le bâtiment qui se trouve dans une des situations mentionnées au paragraphe (4) doit :
 	- **a)** dans le cas où il se trouve dans un port ou un mouillage où l’équipement peut être réparé, y demeurer jusqu’à ce qu’il puisse rétablir ou maintenir la communication conformément aux règlements;
 	- **b)** dans le cas contraire, lorsqu’il est possible de le faire de façon sécuritaire, naviguer jusqu’au port ou mouillage raisonnablement sûr qui est situé le plus près sur sa route et y demeurer jusqu’à ce qu’il puisse rétablir ou maintenir la communication conformément aux règlements.
-> 2001, ch. 26, art. 126; 2003, ch. 22, art. 224(A).
+> 2001, ch. 26, art. 126; 2003, ch. 22, art. 224(A)
 
 
 
@@ -2897,7 +2897,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de se conformer aux ordres**
 
 - **(3)** Tout bâtiment dans les eaux canadiennes et toute personne à son bord et tout bâtiment, où qu’il soit, dont le capitaine est une personne qualifiée et toute personne à son bord sont tenus de se conformer aux ordres qui leur sont donnés en vertu du paragraphe (2).
-> 2001, ch. 26, art. 130; 2018, ch. 27, art. 695.
+> 2001, ch. 26, art. 130; 2018, ch. 27, art. 695
 
 
 
@@ -2987,7 +2987,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre :
 	- **a) et b)** [Abrogés, 2013, ch. 28, art. 10]
 	- **c)** régir les activités de recherche et de sauvetage maritimes.
-> 2001, ch. 26, art. 136; 2005, ch. 29, art. 18; 2013, ch. 28, art. 10.
+> 2001, ch. 26, art. 136; 2005, ch. 29, art. 18; 2013, ch. 28, art. 10
 
 
 
@@ -3044,7 +3044,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détention d’un bâtiment**
 
 - **(4)** Le ministre ou la personne qu’il désigne pour l’application du présent paragraphe peut ordonner la détention d’un bâtiment s’il a des motifs raisonnables de croire qu’une infraction visée au paragraphe (1) a été commise par ce bâtiment ou à son égard. Dans ce cas, l’article 222 (détention de bâtiments) s’applique avec les adaptations nécessaires.
-> 2001, ch. 26, art. 138; 2018, ch. 27, art. 696.
+> 2001, ch. 26, art. 138; 2018, ch. 27, art. 696
 
 
 
@@ -3059,132 +3059,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Définitions
+### Définition
 
 
 
-**Définitions**
+**Définition de ministre**
 
-**140** Les définitions qui suivent s’appliquent à la présente partie.
+**140** Dans la présente partie, ***ministre*** s’entend du ministre des Transports.
+> 2001, ch. 26, art. 1402019, ch. 1, art. 143
 
-***bâtiment appartenant à Sa Majesté*** Bâtiment dont Sa Majesté du chef du Canada est propriétaire ou a la possession exclusive. (*Crown vessel*)
 
-***ministre*** Le ministre des Transports. (*Minister*)
 
 
+**141** [Abrogé, 2019, ch. 1, art. 143]
 
 
-### Champ d’application
 
+**142** [Abrogé, 2019, ch. 1, art. 143]
 
 
-**Bâtiments**
 
-**141** La présente partie s’applique à l’égard des bâtiments immatriculés, enregistrés, inscrits ou faisant l’objet d’un permis sous le régime de la présente loi, où qu’ils soient, et de tous les bâtiments dans les eaux canadiennes.
+**143** [Abrogé, 2019, ch. 1, art. 143]
 
 
 
+**144** [Abrogé, 2019, ch. 1, art. 143]
 
-### Sauvetage
 
 
+**145** [Abrogé, 2019, ch. 1, art. 143]
 
-#### Convention internationale de 1989 sur l’assistance
 
 
+**146** [Abrogé, 2019, ch. 1, art. 143]
 
-**Convention sur l’assistance**
 
-**142** 
 
-- **(1)** Sauf réserve faite par le Canada et dont le texte figure à la partie 2 de l’annexe 3, la Convention internationale de 1989 sur l’assistance, signée à Londres le 28 avril 1989, et dont le texte figure à la partie 1 de l’annexe 3, est approuvée et a force de loi au Canada.
-
-**Incompatibilité**
-
-- **(2)** Les dispositions de la Convention l’emportent sur les dispositions incompatibles de la présente loi et des règlements.
-
-
-
-
-#### Sauvetage par des bâtiments appartenant à Sa Majesté
-
-
-
-**Droit à une indemnité de sauvetage**
-
-**143** 
-
-- **(1)** Sa Majesté du chef du Canada, le capitaine ou un membre d’équipage ne peut réclamer d’indemnité pour les services de sauvetage rendus au moyen d’un bâtiment appartenant à Sa Majesté que si celui-ci est spécialement muni d’appareils de renflouage ou est un remorqueur.
-
-**Exercice des droits et recours**
-
-- **(2)** Ils possèdent, à l’égard de ces services, les mêmes droits et recours que tout autre sauveteur qui aurait été propriétaire de ce bâtiment. Toutefois, aucune réclamation à l’égard de ces services, de la part du capitaine ou d’un membre de l’équipage, ne peut faire l’objet d’un jugement définitif sans la preuve que le gouverneur en conseil a donné son consentement à la poursuite de la réclamation.
-
-**Délai**
-
-- **(3)** Pour l’application du paragraphe (2), il suffit que le consentement du gouverneur en conseil intervienne avant le jugement définitif de la réclamation.
-
-**Preuve**
-
-- **(4)** Tout document paraissant donner le consentement du gouverneur en conseil pour l’application du paragraphe (2) en constitue une preuve.
-
-**Rejet en l’absence de consentement**
-
-- **(5)** Toute réclamation pour services de sauvetage poursuivie sans la preuve du consentement du gouverneur en conseil est rejetée avec dépens.
-
-
-
-
-**Pouvoir du gouverneur en conseil d’accepter des offres de règlement**
-
-**144** 
-
-- **(1)** Sur recommandation du procureur général du Canada, le gouverneur en conseil peut accepter, au nom de Sa Majesté du chef du Canada et du capitaine ou d’un membre d’équipage, des offres de règlement concernant les réclamations pour services de sauvetage rendus par des bâtiments appartenant à Sa Majesté.
-
-**Distribution**
-
-- **(2)** Le gouverneur en conseil peut déterminer le mode de répartition du produit des règlements effectués au titre du paragraphe (1).
-
-
-
-
-#### Prescription
-
-
-
-**Prescription**
-
-**145** 
-
-- **(1)** Les poursuites à l’égard de services de sauvetage se prescrivent par deux ans à compter de la date où les services ont été rendus.
-
-**Prorogation par le tribunal**
-
-- **(2)** Le tribunal compétent pour connaître d’une action visée par le présent article peut, conformément à ses règles de procédure, proroger le délai visé au paragraphe (1) dans la mesure et aux conditions qu’il estime indiquées.
-
-
-
-
-#### Aéronefs
-
-
-
-**Assimilation**
-
-**146** Pour l’application des dispositions de la présente partie relatives au sauvetage, les aéronefs sur les eaux canadiennes, ou au-dessus de celles-ci, sont assimilés à des bâtiments, avec les adaptations nécessaires.
-
-
-
-
-#### Droit à la compensation
-
-
-
-**Droit à la compensation non atteint**
-
-**147** L’observation des articles 130 (désignation de coordonnateurs de mission de recherche et de sauvetage), 131 (signaux de détresse) et 132 (secours) ne porte pas atteinte au droit du capitaine à la compensation de sauvetage ni à celui d’une autre personne.
-> 2001, ch. 26, art. 147; 2018, ch. 27, art. 697.
-
+**147** [Abrogé, 2019, ch. 1, art. 143]
 
 
 
@@ -3245,14 +3156,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre :
 	- **a)** régir le rapport à faire sur les accidents ou les événements dangereux survenant aux bâtiments ou à leur bord, qu’ils aient entraîné ou non des pertes de vies;
-	- **b)** supprimer de la partie 2 de l’annexe 3 toute réserve que le Canada retire;
+	- **b)** [Abrogé, 2019, ch. 1, art. 144]
 	- **c)** régir l’utilisation de photographies, de films, d’enregistrements vidéo ou d’images électroniques des restes des victimes d’accidents mettant en cause un bâtiment naufragé ou un aéronef naufragé dans l’eau;
 	- **d)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
 
-**Règlements — ministre et ministre responsable de l’Agence Parcs Canada**
-
-- **(2)** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre et du ministre responsable de l’Agence Parcs Canada, régir le sauvetage des épaves ou catégories d’épaves précisées par les règlements pris en vertu de l’alinéa 163(2)a).
-> 2001, ch. 26, art. 150; 2005, ch. 2, art. 8.
+- **(2)** [Abrogé, 2019, ch. 1, art. 144]
+> 2001, ch. 26, art. 150; 2005, ch. 2, art. 82019, ch. 1, art. 144
 
 
 
@@ -3283,216 +3192,66 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Commet une infraction la personne qui contrevient :
 	- **a)** à l’alinéa 148b) (omettre de prendre ou de donner des renseignements après un abordage);
-	- **b)** à toute disposition d’un règlement pris en vertu de l’alinéa 150(1)c) ou du paragraphe 150(2).
+	- **b)** à toute disposition d’un règlement pris en vertu de l’alinéa 150(1)c).
 
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt sur déclaration de culpabilité par procédure sommaire une amende maximale de 10 000 $.
+> 2001, ch. 26, art. 1522019, ch. 1, art. 145
+
 
 
 
 
 **PARTIE 7** 
-## Épaves
+## [Abrogée, 2019, ch. 1, art. 146]
 
 
+**153** [Abrogé, 2019, ch. 1, art. 146]
 
-### Définitions
 
 
+**154** [Abrogé, 2019, ch. 1, art. 146]
 
-**Définitions**
 
-**153** Les définitions qui suivent s’appliquent à la présente partie.
 
-***épave*** Sont compris parmi les épaves :
-- **a)** les épaves rejetées, flottantes, attachées à une bouée ou abandonnées ainsi que tous les objets qui se sont détachés d’un bâtiment naufragé, échoué ou en détresse ou qui se trouvaient à son bord;
-- **b)** les aéronefs naufragés dans des eaux et tous les objets qui se sont détachés d’un aéronef naufragé, échoué ou en détresse dans des eaux ou qui se trouvaient à son bord. (*wreck*)
+**155** [Abrogé, 2019, ch. 1, art. 146]
 
-***ministre*** Le ministre des Transports. (*Minister*)
-> 2001, ch. 26, art. 153; 2005, ch. 29, art. 19.
 
 
+**156** [Abrogé, 2019, ch. 1, art. 146]
 
 
 
-### Désignation des receveurs d’épaves
+**157** [Abrogé, 2019, ch. 1, art. 146]
 
 
 
-**Désignation**
+**158** [Abrogé, 2019, ch. 1, art. 146]
 
-**154** 
 
-- **(1)** Le ministre peut désigner des personnes ou catégories de personnes à titre de receveurs d’épaves.
 
-**Autorisation**
+**159** [Abrogé, 2019, ch. 1, art. 146]
 
-- **(2)** Le receveur d’épaves peut autoriser quiconque, individuellement ou au titre de son appartenance à une catégorie de personnes, à exercer ses attributions.
 
-**Immunité**
 
-- **(3)** Les receveurs d’épaves et les personnes autorisées à exercer leurs attributions en vertu du paragraphe (2) sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi aux termes de la présente partie.
+**160** [Abrogé, 2019, ch. 1, art. 146]
 
 
 
+**161** [Abrogé, 2019, ch. 1, art. 146]
 
-### Découverte d’épaves
 
 
+**162** [Abrogé, 2019, ch. 1, art. 146]
 
-**Obligation de la personne prenant possession d’une épave**
 
-**155** 
 
-- **(1)** La personne qui trouve et prend possession au Canada d’une épave dont le propriétaire n’est pas connu ou amène au Canada une telle épave, doit, le plus tôt possible :
-	- **a)** d’une part, en faire rapport au receveur d’épaves et lui fournir les documents et renseignements qu’il précise;
-	- **b)** d’autre part, prendre à l’égard de l’épave les mesures que le receveur d’épaves lui ordonne de prendre, notamment la lui remettre dans le délai qu’il fixe ou la garder en sa possession selon les modalités qu’il précise.
+**163** [Abrogé, 2019, ch. 1, art. 146]
 
-**Prise de mesures**
 
-- **(2)** Dans le cas où il est fait rapport d’une épave en vertu de l’alinéa (1)a), le receveur d’épaves peut prendre les mesures qu’il estime convenables pour en déterminer le propriétaire, notamment donner avis de la découverte de l’épave de la façon qu’il estime indiquée.
 
-**Discrétion**
-
-- **(3)** Le receveur d’épaves n’est pas tenu de prendre, ou d’ordonner la prise, de mesures à l’égard d’une épave.
-
-
-
-
-**Indemnité de sauvetage**
-
-**156** 
-
-- **(1)** La personne qui s’est conformée au paragraphe 155(1) a droit à l’indemnité de sauvetage fixée par le receveur d’épaves.
-
-**Nature de l’indemnité**
-
-- **(2)** L’indemnité de sauvetage est constituée de tout ou partie de l’épave ou du produit de la vente de celle-ci.
-
-
-
-
-**Interdictions**
-
-**157** Il est interdit d’avoir en sa possession, de cacher, de détruire ou d’aliéner, notamment par vente, une épave ou de prendre tout moyen pour cacher ou déguiser le fait qu’une chose est une épave, sachant qu’elle n’a pas fait l’objet du rapport prévu à l’alinéa 155(1)a).
-
-
-
-
-**Réclamation de l’épave**
-
-**158** Le receveur d’épaves est tenu de remettre l’épave ou, le cas échéant, le produit de l’aliénation de l’épave visée au paragraphe 160(1) à la personne qui en revendique la propriété et qui, à la fois :
-- **a)** lui a fait valoir son droit de propriété, selon les modalités que fixe le ministre, dans les quatre-vingt-dix jours suivant la date à laquelle l’épave a fait l’objet du rapport mentionné à l’alinéa 155(1)a);
-- **b)** l’a convaincu qu’elle en est le propriétaire;
-- **c)** a versé l’indemnité de sauvetage fixée par lui, les droits et les frais.
-
-
-
-
-**Demande incidente**
-
-**159** 
-
-- **(1)** Lorsque plusieurs personnes réclament une épave ou le produit de l’aliénation d’une épave ou qu’une personne conteste le montant ou la valeur de l’indemnité de sauvetage déterminée par le receveur d’épaves, tout tribunal ayant juridiction en matière civile jusqu’à concurrence de la valeur de l’épave ou du montant du produit en litige peut entendre l’affaire et en décider.
-
-**Restriction**
-
-- **(2)** Pour l’application du paragraphe (1), l’indemnité de sauvetage ne peut excéder la valeur de l’épave.
-
-
-
-
-### Aliénation ou destruction des épaves
-
-
-
-**Aliénation ou destruction des épaves**
-
-**160** 
-
-- **(1)** Le receveur d’épaves peut procéder ou faire procéder à l’aliénation ou à la destruction d’une épave :
-	- **a)** après l’expiration des quatre-vingt-dix jours suivant la date à laquelle elle a fait l’objet du rapport mentionné à l’alinéa 155(1)a);
-	- **b)** à tout moment s’il est d’avis que sa valeur est inférieure à 5 000 $ ou probablement inférieure aux frais d’entreposage ou qu’elle est périssable ou présente un risque pour la santé ou la sécurité publiques.
-
-**Conservation du produit de la vente**
-
-- **(2)** Le produit de l’aliénation visée à l’alinéa (1)b) est gardé par le receveur d’épaves pendant une période minimale de quatre-vingt-dix jours à compter de la date à laquelle l’épave a fait l’objet du rapport mentionné à l’alinéa 155(1)a).
-
-**Versement du produit de la vente**
-
-- **(3)** Dans le cas où nul n’a fait valoir son droit à l’épave au titre de l’alinéa 158a) ou dans le cas où une personne l’ayant fait valoir ne réussit pas à l’établir dans le délai que le receveur d’épaves estime indiqué, le produit de l’aliénation visée au paragraphe (1) est versé, après paiement de l’indemnité de sauvetage, des droits et des frais, au receveur général pour faire partie du Trésor.
-
-
-
-
-**Non-paiement de l’indemnité de sauvetage ou des droits ou frais**
-
-**161** Lorsqu’une personne a établi son droit à l’épave mais qu’elle néglige de verser ou de remettre, dans les trente jours qui suivent la notification du receveur d’épaves, l’indemnité de sauvetage, ou de verser les droits ou les frais y afférents, le receveur d’épaves peut aliéner ou détruire l’épave ou une partie de celle-ci; le cas échéant, il paie, sur le produit de l’aliénation, après acquittement des frais d’aliénation, de l’indemnité de sauvetage, des droits et des frais y afférents, et remet à la personne tout ce qui reste de l’épave ainsi que tout éventuel excédent du produit de l’aliénation.
-
-
-
-
-**Destruction, aliénation ou remise des épaves**
-
-**162** Sur destruction, aliénation ou remise d’une épave et, le cas échéant, sur paiement du produit de l’aliénation de celle-ci, par un receveur d’épaves conformément à la présente partie, le receveur d’épaves et les personnes autorisées à exercer ses attributions en vertu du paragraphe 154(2) sont dégagés de toute responsabilité à cet égard.
-
-
-
-
-### Règlements
-
-
-
-**Règlements — ministre**
-
-**163** 
-
-- **(1)** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre :
-	- **a)** soustraire toute région géographique à l’application de la présente partie;
-	- **b)** prendre toute mesure d’application de la présente partie.
-
-**Règlements — ministre et ministre responsable de l’Agence Parcs Canada**
-
-- **(2)** Le gouverneur en conseil peut, par règlement, sur recommandation conjointe du ministre et du ministre responsable de l’Agence Parcs Canada :
-	- **a)** spécifier les épaves ou catégories d’épaves qui ont une valeur patrimoniale;
-	- **b)** régir la protection et la conservation de ces épaves ou catégories d’épaves, notamment délivrer des permis autorisant leurs titulaires à y avoir accès;
-	- **c)** autoriser la désignation d’agents de l’autorité chargés de l’application des règlements d’application de la présente partie et prévoir leurs attributions;
-	- **d)** autoriser le ministre et le ministre responsable de l’Agence Parcs Canada à conclure conjointement des accords ou des arrangements relativement à l’application ou au contrôle d’application de toute disposition des règlements pris en vertu du présent paragraphe et à autoriser toute personne ou organisation avec qui un accord ou un arrangement est conclu à exercer les attributions prévues par ces règlements qui sont précisés dans l’accord ou l’arrangement;
-	- **e)** exempter des épaves ou catégories d’épaves ayant une valeur patrimoniale de l’application de toute disposition de la présente partie;
-	- **f)** soustraire toute région géographique à l’application des alinéas b) ou c);
-	- **g)** régir la fixation et le versement des droits et frais exigibles à l’égard des services rendus dans le cadre de l’application des règlements pris en vertu du présent paragraphe.
-
-**Créances de Sa Majesté**
-
-- **(3)** Les droits et les frais visés à l’alinéa (2)g) et les intérêts afférents constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
-> 2001, ch. 26, art. 163; 2005, ch. 2, art. 9.
-
-
-
-
-
-### Infractions et peines
-
-
-
-**Contravention à la loi et aux règlements**
-
-**164** 
-
-- **(1)** Commet une infraction la personne qui contrevient :
-	- **a)** à l’alinéa 155(1)a) (obligation de faire rapport au receveur d’épaves);
-	- **b)** à l’alinéa 155(1)b) (prise de mesures);
-	- **c)** à l’article 157 (possession, dissimulation, destruction ou aliénation d’une épave);
-	- **d)** à toute disposition d’un règlement pris en vertu de la présente partie.
-
-**Peines**
-
-- **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines.
-
-**Allégation dans les poursuites**
-
-- **(3)** Dans les poursuites engagées en vertu de la présente partie, il n’est pas nécessaire d’attribuer la propriété de l’épave à quelqu’un, ni d’établir que celle-ci provient d’un bâtiment déterminé.
+**164** [Abrogé, 2019, ch. 1, art. 146]
 
 
 
@@ -3525,7 +3284,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** l’eau qui contient une substance en quantité ou concentration telle — ou qui a été chauffée ou traitée ou transformée depuis son état naturel de façon telle — que son addition à l’eau produirait, directement ou non, une dégradation ou altération de la qualité de cette eau de façon à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains. (*pollutant*)
 
 ***rejet*** Rejet d’un polluant depuis un bâtiment, ou d’hydrocarbures depuis une installation de manutention d’hydrocarbures engagée dans des opérations de chargement ou de déchargement d’un bâtiment, qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion. (*discharge*)
-> 2001, ch. 26, art. 165; 2005, ch. 29, art. 21; 2018, ch. 27, art. 698.
+> 2001, ch. 26, art. 165; 2005, ch. 29, art. 21; 2018, ch. 27, art. 698
 
 
 
@@ -3577,8 +3336,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(4)** Chacune des dispenses fait l’objet d’un avis dans la Gazette du Canada.
-> 2001, ch. 26, art. 167; 2005, ch. 29, art. 22.
+- **(4)** Chacune des dispenses fait l’objet d’un avis dans la [Gazette du Canada](http://www.gazette.gc.ca/).
+> 2001, ch. 26, art. 167; 2005, ch. 29, art. 22
 
 
 
@@ -3591,7 +3350,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification des activités proposées**
 
 **167.1** Sous réserve des règlements, la personne qui se propose d’exploiter une installation de manutention d’hydrocarbures d’une catégorie établie par règlement avise le ministre, dans le délai réglementaire, des activités liées au chargement ou au déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci qu’elle se propose d’exercer, et fournit à ce dernier tout renseignement ou document prévu par règlement. Elle lui fournit aussi tout renseignement ou document, à sa demande et dans le délai qu’il précise.
-> 2014, ch. 29, art. 60.
+> 2014, ch. 29, art. 60
 
 
 
@@ -3612,7 +3371,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction de commencer des activités**
 
 - **(3)** Elle ne peut commencer à exercer des activités liées au chargement ou au déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci que si les plans satisfont aux exigences prévues par règlement.
-> 2014, ch. 29, art. 60.
+> 2014, ch. 29, art. 60
 
 
 
@@ -3621,7 +3380,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification des activités d’exploitation**
 
 **167.3** Sous réserve des règlements, l’exploitant d’une installation de manutention d’hydrocarbures d’une catégorie établie par règlement avise le ministre, dans les quatre-vingt-dix jours suivant l’entrée en vigueur du présent article, des activités liées au chargement ou au déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci qu’il exerce, et fournit à ce dernier tout renseignement ou document prévu par règlement. Il lui fournit aussi tout renseignement ou document, à sa demande et dans le délai qu’il précise.
-> 2014, ch. 29, art. 60.
+> 2014, ch. 29, art. 60
 
 
 
@@ -3630,7 +3389,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présentation des plans**
 
 **167.4** Sous réserve des règlements et s’ils n’ont pas déjà été présentés au titre du paragraphe 167.2(1), l’exploitant d’une installation de manutention d’hydrocarbures d’une catégorie établie par règlement est tenu de présenter au ministre, dans le délai prévu par règlement, un plan de prévention de la pollution par les hydrocarbures visant à éviter le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments et un plan d’urgence contre la pollution par les hydrocarbures visant à contrer le rejet d’hydrocarbures pendant le chargement ou le déchargement des bâtiments, qui satisfont aux exigences prévues par règlement. Il lui fournit aussi tout renseignement ou document, à sa demande et dans le délai qu’il précise.
-> 2014, ch. 29, art. 60.
+> 2014, ch. 29, art. 60
 
 
 
@@ -3659,7 +3418,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Il incombe à tout exploitant d’une installation de manutention d’hydrocarbures visée au paragraphe (1) de prendre des mesures raisonnables pour mettre à exécution :
 	- **a)** le plan de prévention de la pollution par les hydrocarbures visé à l’alinéa (1)c);
 	- **b)** en cas d’événement de pollution par les hydrocarbures, le plan d’urgence contre la pollution par les hydrocarbures visé à l’alinéa (1)d).
-> 2001, ch. 26, art. 168; 2014, ch. 29, art. 61.
+> 2001, ch. 26, art. 1682014, ch. 29, art. 61
 
 
 
@@ -3685,7 +3444,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction d’apporter les changements proposés aux activités**
 
 - **(4)** Il ne peut apporter les changements ou permettre qu’ils le soient que si les plans révisés satisfont aux exigences prévues par règlement.
-> 2014, ch. 29, art. 62.
+> 2014, ch. 29, art. 62
 
 
 
@@ -3694,7 +3453,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise à jour ou révision des plans**
 
 **168.1** Malgré toute autre disposition de la présente partie ou les règlements, le ministre peut ordonner à l’exploitant d’une installation de manutention d’hydrocarbures de mettre à jour ou de réviser le plan de prévention de la pollution par les hydrocarbures ou le plan d’urgence contre la pollution par les hydrocarbures et de lui présenter le plan à jour ou révisé dans le délai qu’il précise.
-> 2014, ch. 29, art. 63.
+> 2014, ch. 29, art. 63
 
 
 
@@ -3703,7 +3462,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fourniture de renseignements**
 
 **168.2** L’inspecteur de la sécurité maritime peut ordonner à quiconque de lui fournir les renseignements qu’il peut valablement exiger dans le cadre de l’application de la présente partie.
-> 2014, ch. 29, art. 63.
+> 2014, ch. 29, art. 63
 
 
 
@@ -3714,7 +3473,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **168.3** Le ministre peut, s’il a des motifs raisonnables de croire que l’installation de manutention d’hydrocarbures a rejeté, rejette ou pourrait rejeter des hydrocarbures, que le plan de prévention de la pollution par les hydrocarbures ou le plan d’urgence contre la pollution par les hydrocarbures de l’installation ne satisfait pas aux exigences prévues par règlement ou que l’exploitant de l’installation n’a pas à sa disposition, pour usage immédiat en cas de rejet d’hydrocarbures pendant le chargement ou le déchargement d’un bâtiment, la procédure, l’équipement et les ressources prévus par règlement :
 - **a)** surveiller l’application de toute mesure prise par toute personne en vue de prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution;
 - **b)** dans le cas où il l’estime nécessaire, ordonner à l’exploitant de prendre les mesures qu’il estime nécessaires pour prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution, notamment de cesser le chargement ou le déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci.
-> 2014, ch. 29, art. 63; 2018, ch. 27, art. 699.
+> 2014, ch. 29, art. 63; 2018, ch. 27, art. 699
 
 
 
@@ -3804,7 +3563,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fourniture de documents**
 
 **171.1** L’inspecteur de la sécurité maritime peut ordonner à l’organisme d’intervention de lui fournir tout document que celui-ci est tenu d’avoir aux termes de la présente partie.
-> 2014, ch. 29, art. 64.
+> 2014, ch. 29, art. 64
 
 
 
@@ -3877,7 +3636,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Le ministre des Pêches et des Océans remet à chaque agent d’intervention environnementale un certificat attestant sa qualité; l’agent dont les pouvoirs sont restreints au titre du paragraphe (1) reçoit un certificat où sont énumérés ceux qu’il est autorisé à exercer.
 
 - **(3)** [Abrogé, 2018, ch. 27, art. 700]
-> 2005, ch. 29, art. 23; 2018, ch. 27, art. 700.
+> 2005, ch. 29, art. 23; 2018, ch. 27, art. 700
 
 
 
@@ -3931,7 +3690,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(7)** Le certificat ou le rapport n’est recevable en preuve que si la partie qui entend le produire donne de son intention à la partie qu’elle vise un préavis suffisant, accompagné d’un double du certificat ou du rapport.
-> 2005, ch. 29, art. 23; 2018, ch. 27, art. 701.
+> 2005, ch. 29, art. 23; 2018, ch. 27, art. 701
 
 
 
@@ -3969,7 +3728,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restitution des documents et autres objets**
 
 - **(5)** Les documents ou autres objets obtenus ou emportés en vertu de l’alinéa (1) h) sont restitués dès qu’ils ne sont plus nécessaires pour l’inspection ou pour les procédures qui en découlent.
-> 2001, ch. 26, art. 176; 2005, ch. 29, art. 24; 2014, ch. 29, art. 67.
+> 2001, ch. 26, art. 176; 2005, ch. 29, art. 24; 2014, ch. 29, art. 67
 
 
 
@@ -4026,7 +3785,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(10)** Le ministre des Pêches et des Océans, une fois l’affaire réglée :
 	- **a)** peut utiliser le cautionnement pour rembourser, en tout ou en partie, à Sa Majesté du chef du Canada les frais qu’il a engagés pour la détention du bâtiment ainsi que l’amende infligée;
 	- **b)** restitue le cautionnement ou, si celui-ci a été utilisé au titre de l’alinéa a), tout éventuel reliquat lorsque les frais et l’amende ont été payés.
-> 2001, ch. 26, art. 177; 2005, ch. 29, art. 25.
+> 2001, ch. 26, art. 177; 2005, ch. 29, art. 25
 
 
 
@@ -4046,7 +3805,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** à la demande du propriétaire du quai — ou de la personne responsable du havre — où un bâtiment se trouve détenu, ordonner à la personne qui a ou semble avoir la responsabilité du bâtiment de le déplacer;
 - **c)** si la personne n’obtempère pas à l’ordre visé à l’alinéa b) et s’il est convaincu que le demandeur a contracté une assurance suffisante pour absorber le coût de tout incident susceptible de résulter du déplacement, autoriser le demandeur, aux frais du représentant autorisé ou, s’il n’y a pas de représentant autorisé, aux frais du propriétaire, à effectuer le déplacement.
 Ce ministre fixe les modalités de présentation de la demande de déplacement et donne à l’égard de celui-ci les instructions qu’il estime indiquées.
-> 2001, ch. 26, art. 179; 2005, ch. 29, art. 26.
+> 2001, ch. 26, art. 179; 2005, ch. 29, art. 26
 
 
 
@@ -4088,7 +3847,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Préséance**
 
 - **(4)** Les ordres donnés par le ministre des Pêches et des Océans en vertu de l’alinéa (1)c) l’emportent, dans la mesure de leur incompatibilité, sur les ordres ou les directives donnés sous le régime de toute loi fédérale.
-> 2001, ch. 26, art. 180; 2005, ch. 29, art. 27; 2018, ch. 27, art. 702.
+> 2001, ch. 26, art. 180; 2005, ch. 29, art. 27; 2018, ch. 27, art. 702
 
 
 
@@ -4111,7 +3870,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Indemnisation**
 
 - **(4)** Sa Majesté du chef du Canada peut indemniser le propriétaire des propriétés utilisées en application du paragraphe (3), ou toute personne jouissant, en vertu de la loi ou d’un contrat, des droits du propriétaire quant à la possession et à l’utilisation de ces propriétés, des pertes ou dommages causés par l’utilisation de ces propriétés en application de ce paragraphe qui excèdent les avantages que ce propriétaire ou cette personne tire de cette utilisation.
-> 2018, ch. 27, art. 703.
+> 2018, ch. 27, art. 703
 
 
 
@@ -4120,7 +3879,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 **180.2** Les ordres, ordonnances ou directives donnés par le ministre des Pêches et des Océans ou un agent d’intervention environnementale en application de la présente partie ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2018, ch. 27, art. 703.
+> 2018, ch. 27, art. 703
 
 
 
@@ -4153,7 +3912,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Définition de intervention**
 
 - **(4)** Au présent article, ***intervention*** s’entend de toutes les activités entreprises à la suite d’un rejet ou d’une menace grave et imminente de rejet d’un bâtiment ou d’une installation de manutention d’hydrocarbures, notamment les activités relatives ou afférentes à la surveillance et à l’évaluation des secteurs de pollution, à la mobilisation et à l’enlèvement d’équipement et de ressources d’intervention, aux barrières de confinement, au confinement, à la récupération, à la dispersion ou à la destruction du polluant, aux mesures d’atténuation et de remise en état du littoral, au transport et à l’élimination du polluant récupéré ou des déchets et à la planification et à la supervision des activités liées à l’intervention.
-> 2001, ch. 26, art. 181; 2014, ch. 29, art. 68; 2018, ch. 27, art. 704.
+> 2001, ch. 26, art. 181; 2014, ch. 29, art. 68; 2018, ch. 27, art. 704
 
 
 
@@ -4164,7 +3923,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **181.1** Les personnes ci-après n’encourent aucune responsabilité civile en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente partie :
 - **a)** les préposés de l’État, au sens de la définition de ces termes à l’article 2 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md);
 - **b)** les agents d’intervention environnementale.
-> 2018, ch. 27, art. 705.
+> 2018, ch. 27, art. 705
 
 
 
@@ -4196,7 +3955,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Notification**
 
 - **(3)** Le ministre notifie la désignation à l’exploitant de l’installation visée au paragraphe (2).
-> 2001, ch. 26, art. 182; 2014, ch. 29, art. 69.
+> 2001, ch. 26, art. 1822014, ch. 29, art. 69
 
 
 
@@ -4236,7 +3995,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
-> 2001, ch. 26, art. 183; 2005, ch. 29, art. 28; 2014, ch. 29, art. 70.
+> 2001, ch. 26, art. 183; 2005, ch. 29, art. 28; 2014, ch. 29, art. 70
 
 
 
@@ -4273,7 +4032,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines.
-> 2001, ch. 26, art. 184; 2014, ch. 29, art. 71.
+> 2001, ch. 26, art. 184; 2014, ch. 29, art. 71
 
 
 
@@ -4301,7 +4060,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 - **b)** l’eau qui contient une substance en quantité ou concentration telle — ou qui a été chauffée ou traitée ou transformée depuis son état naturel de façon telle — que son addition à l’eau produirait, directement ou non, une dégradation ou altération de la qualité de cette eau de façon à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains. (*pollutant*)
 
 ***rejet*** Rejet d’un polluant qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion. (*discharge*)
-> 2001, ch. 26, art. 185; 2005, ch. 29, art. 29; 2018, ch. 27, art. 706.
+> 2001, ch. 26, art. 185; 2005, ch. 29, art. 29; 2018, ch. 27, art. 706
 
 
 
@@ -4360,7 +4119,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 - **d)** ordonner au bâtiment de se rendre, de la façon et par la route qu’il spécifie, à l’endroit qu’il précise et, selon le cas :
 	- **(i)** d’y décharger le polluant,
 	- **(ii)** de s’y amarrer à quai, de mouiller ou de rester à cet endroit pour la période raisonnable qu’il indique.
-> 2001, ch. 26, art. 189; 2005, ch. 29, art. 30.
+> 2001, ch. 26, art. 189; 2005, ch. 29, art. 30
 
 
 
@@ -4392,7 +4151,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Application des règlements**
 
 - **(2)** Un bâtiment utilisable dans le cadre d’activités de forage, de production, de rationalisation de l’exploitation ou de traitement du pétrole ou du gaz n’est assujetti aux règlements pris en vertu du paragraphe (1) que si ceux-ci le prévoient et ont été pris sur recommandation conjointe du ministre et du ministre des Ressources naturelles.
-> 2001, ch. 26, art. 190; 2018, ch. 27, art. 707(A).
+> 2001, ch. 26, art. 190; 2018, ch. 27, art. 707(A)
 
 
 
@@ -4485,7 +4244,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 ***ministre*** Le ministre des Transports. (*Minister*)
 
 ***permis*** Permis délivré à l’égard d’une embarcation de plaisance sous le régime de la présente partie. (*licence*)
-> 2001, ch. 26, art. 194; 2005, ch. 29, art. 31.
+> 2001, ch. 26, art. 194; 2005, ch. 29, art. 31
 
 
 
@@ -4697,7 +4456,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 - **(2)** Le gouverneur en conseil peut, sur recommandation du ministre, prendre des règlements :
 	- **a)** régissant ou interdisant le rejet de polluants par les embarcations de plaisance;
 	- **b)** régissant le bruit émis par le moteur des embarcations de plaisance.
-> 2001, ch. 26, art. 207; 2015, ch. 3, art. 24(F).
+> 2001, ch. 26, art. 207; 2015, ch. 3, art. 24(F)
 
 
 
@@ -4758,11 +4517,11 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **210** Les définitions qui suivent s’appliquent à la présente partie.
 
 ***disposition visée*** Toute disposition de la présente loi ou des règlements dont le ministre est chargé de l’application, à l’exception :
-- **a)** du paragraphe 40(1), à l’égard de toute disposition d’un règlement pris en vertu de l’alinéa 35(1)e) relativement à l’une des parties 7 (épaves) et 10 (embarcations de plaisance);
-- **b)** des dispositions des parties 5 (services de navigation), 7 (épaves) et 10 (embarcations de plaisance) et de celles des règlements pris en vertu de ces parties, sauf les dispositions des règlements pris sous le régime de l’alinéa 136(1)f) dans la mesure où elles s’appliquent aux bâtiments canadiens ou aux bâtiments étrangers. (*relevant provision*)
+- **a)** du paragraphe 40(1), à l’égard de toute disposition d’un règlement pris en vertu de l’alinéa 35(1)e) relativement à la partie 10 (embarcations de plaisance);
+- **b)** des dispositions des parties 5 (services de navigation) et 10 (embarcations de plaisance) et de celles des règlements pris en vertu de ces parties, sauf les dispositions des règlements pris sous le régime de l’alinéa 136(1)f) dans la mesure où elles s’appliquent aux bâtiments canadiens ou aux bâtiments étrangers. (*relevant provision*)
 
 ***ministre*** Le ministre des Transports. (*Minister*)
-> 2001, ch. 26, art. 210; 2005, ch. 29, art. 32; 2014, ch. 29, art. 72.
+> 2001, ch. 26, art. 210; 2005, ch. 29, art. 32; 2014, ch. 29, art. 722019, ch. 1, art. 147
 
 
 
@@ -4819,7 +4578,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Restitution des documents et autres objets**
 
 - **(6)** Les documents et autres objets emportés en application de l’alinéa (4)j) sont restitués dans les meilleurs délais après qu’ils ne sont plus nécessaires aux fins prévues à cet alinéa.
-> 2001, ch. 26, art. 211; 2014, ch. 29, art. 73.
+> 2001, ch. 26, art. 211; 2014, ch. 29, art. 73
 
 
 
@@ -5081,12 +4840,9 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 
 
-
-**Bâtiment abandonné**
-
 **226** 
 
-- **(1)** Le ministre peut vendre un bâtiment réputé abandonné et remettre à l’acquéreur un titre de propriété libre des hypothèques ou autres créances pouvant grever le bâtiment au moment de la vente.
+- **(1)** [Abrogé, 2019, ch. 1, art. 148]
 
 **Défaut de paiement d’amendes ou de créances**
 
@@ -5107,6 +4863,8 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **(4)** Si le produit de la vente du bâtiment n’est pas suffisant pour payer les sommes visées au paragraphe (3), le ministre peut intenter des poursuites pour les sommes impayées :
 	- **a)** soit contre le représentant autorisé, dans le cas d’un bâtiment canadien;
 	- **b)** soit contre le propriétaire, dans le cas d’un bâtiment étranger.
+> 2001, ch. 26, art. 2262019, ch. 1, art. 148
+
 
 
 
@@ -5146,7 +4904,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Définition de violation**
 
 **228** Aux articles 229 à 244, ***violation*** s’entend de toute contravention à une disposition visée qualifiée de violation en vertu des règlements pris en vertu de la présente partie, ou à un ordre ou à une directive donné en vertu d’une telle disposition.
-> 2001, ch. 26, art. 228; 2014, ch. 29, art. 74.
+> 2001, ch. 26, art. 228; 2014, ch. 29, art. 74
 
 
 
@@ -5171,7 +4929,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Description abrégée**
 
 - **(3)** Il peut établir, pour toute violation, une description abrégée à utiliser dans les procès-verbaux.
-> 2001, ch. 26, art. 229, ch. 29, art. 72.
+> 2001, ch. 26, art. 229, ch. 29, art. 72
 
 
 
@@ -5186,7 +4944,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Requête en révision**
 
 - **(2)** Le contrevenant qui conclut une transaction peut, dans les quarante-huit heures suivant la signature de celle-ci, mais avant signification de l’avis de défaut visé à l’article 231.1, déposer auprès du Tribunal une requête en révision des faits reprochés, auquel cas la transaction est réputée être un procès-verbal et le contrevenant est réputé avoir déposé une requête en révision des faits reprochés et du montant de la sanction en vertu du paragraphe 232(1).
-> 2001, ch. 26, art. 230, ch. 29, art. 72.
+> 2001, ch. 26, art. 230, ch. 29, art. 72
 
 
 
@@ -5197,7 +4955,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **231** S’il estime que l’intéressé a exécuté la transaction, le ministre en avise celui-ci. Sur signification de l’avis :
 - **a)** aucune poursuite ne peut être intentée contre l’intéressé pour la même violation;
 - **b)** toute caution versée au titre de l’alinéa 229(1)a) est remise à l’intéressé.
-> 2001, ch. 26, art. 231, ch. 29, art. 72.
+> 2001, ch. 26, art. 231, ch. 29, art. 72
 
 
 
@@ -5218,7 +4976,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Effet de l’inexécution**
 
 - **(3)** Sur signification de l’avis de défaut, l’intéressé perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -5249,7 +5007,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Décision**
 
 - **(6)** Le conseiller peut confirmer la décision du ministre ou conclure que la transaction a été exécutée par le contrevenant.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -5260,7 +5018,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **231.3** La caution versée par le contrevenant au titre de l’alinéa 229(1)a) lui est remise :
 - **a)** en cas de signification de l’avis mentionné à l’article 231.1, si le contrevenant paie le double du montant de la sanction prévue par la transaction;
 - **b)** lorsque le conseiller ou le comité conclut respectivement au titre des articles 231.2 ou 232.2 que la transaction a été exécutée.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -5277,7 +5035,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Aucune requête**
 
 - **(2)** L’omission de déposer une requête en révision des faits reprochés vaut déclaration de responsabilité à l’égard de la violation.
-> 2001, ch. 26, art. 232, ch. 29, art. 72.
+> 2001, ch. 26, art. 232, ch. 29, art. 72
 
 
 
@@ -5300,7 +5058,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Décision**
 
 - **(4)** Le conseiller peut confirmer la décision du ministre ou, sous réserve des règlements pris en vertu de l’alinéa 244h), y substituer sa propre décision.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -5321,7 +5079,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **(3)** Le comité du Tribunal peut :
 	- **a)** dans le cas d’une décision visée au paragraphe 231.2(6), rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause;
 	- **b)** dans le cas d’une décision visée au paragraphe 232.1(4), rejeter l’appel ou y faire droit et, sous réserve des règlements pris en vertu de l’alinéa 244h), substituer sa propre décision à celle en cause.
-> 2001, ch. 29, art. 72.
+> 2001, ch. 29, art. 72
 
 
 
@@ -5349,7 +5107,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **b)** la somme devant être payée au titre de l’avis de défaut visé au paragraphe 231.1(1), à compter de la date de la signification de l’avis;
 - **c)** le montant de la sanction fixé par le conseiller dans le cadre de la requête prévue à l’article 232.1 ou par le comité dans le cadre de l’appel prévu à l’article 232.2, à compter de la date de la décision du conseiller ou du comité;
 - **d)** le montant des frais raisonnables engagés en vue du recouvrement d’une somme visée à l’un des alinéas a) à c).
-> 2001, ch. 26, art. 234, ch. 29, art. 72.
+> 2001, ch. 26, art. 234, ch. 29, art. 72
 
 
 
@@ -5364,7 +5122,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Enregistrement en Cour fédérale**
 
 - **(2)** La Cour fédérale enregistre tout certificat visé au paragraphe (1) déposé auprès d’elle. L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
-> 2001, ch. 26, art. 235, ch. 29, art. 72.
+> 2001, ch. 26, art. 235, ch. 29, art. 72
 
 
 
@@ -5450,7 +5208,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Sort de l’appel**
 
 - **(10)** Le comité du Tribunal peut rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen.
-> 2001, ch. 26, art. 239, ch. 29, art. 72.
+> 2001, ch. 26, art. 239, ch. 29, art. 72
 
 
 
@@ -5480,7 +5238,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Montant des peines en cas d’accord**
 
 **243** Dans le cas d’une violation pour contravention à une disposition des parties 4, 8 ou 9, ou des règlements pris sous leur régime, le montant des sanctions imposé au titre de l’alinéa 244h) est doublé si la violation visée est commise pendant la période de validité d’un accord ou arrangement — conclu par le ministre avec le représentant autorisé d’un bâtiment canadien — confiant à ce dernier ou à une personne ou à une organisation agissant pour son compte les inspections du bâtiment destinées à vérifier l’application de la disposition en question.
-> 2001, ch. 26, art. 243; 2018, ch. 27, art. 708.
+> 2001, ch. 26, art. 243; 2018, ch. 27, art. 708
 
 
 
@@ -5496,7 +5254,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **a)** régir l’octroi des congés aux bâtiments dans les ports au Canada;
 - **b)** régir les enquêtes sur les accidents mettant en cause des bâtiments, les allégations de contravention à une disposition visée ou les incidents mettant en cause des bâtiments, lesquels incidents, selon le ministre, ont compromis la sécurité de personnes;
 - **c)** régir la détention des bâtiments, y compris l’examen des ordonnances de détention;
-- **d)** indiquer dans quelles circonstances un bâtiment est réputé abandonné;
+- **d)** [Abrogé, 2019, ch. 1, art. 149]
 - **e)** régir la vente des bâtiments en vertu de l’article 226, y compris les mesures à prendre préalablement à celle-ci et la présentation, l’établissement et l’ordre de priorité des réclamations à l’égard des bâtiments;
 - **f)** désigner comme violation punissable au titre des articles 229 à 242 la contravention — si elle constitue une infraction à la présente loi — à une disposition visée ou à un ordre ou à une directive donné en vertu d’une telle disposition;
 - **g)** désigner les violations pour lesquelles il est compté des violations distinctes pour chacun des jours au cours desquels elles se continuent;
@@ -5504,7 +5262,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **i)** régir les procédures en matière d’urgence et de sécurité pour l’application de l’alinéa 211(4)d.1);
 - **j)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification ou notification des documents autorisés ou exigés par la présente partie;
 - **k)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
-> 2001, ch. 26, art. 244, ch. 29, art. 72; 2014, ch. 29, art. 75; 2018, ch. 27, art. 709.
+> 2001, ch. 26, art. 244, ch. 29, art. 72; 2014, ch. 29, art. 75; 2018, ch. 27, art. 7092019, ch. 1, art. 149
 
 
 
@@ -5547,7 +5305,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines.
-> 2001, ch. 26, art. 246; 2015, ch. 3, art. 25(F).
+> 2001, ch. 26, art. 246; 2015, ch. 3, art. 25(F)
 
 
 
@@ -5608,7 +5366,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Responsabilité à l’égard des marchandises**
 
 **250** Sous réserve de la partie 5 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md), les transporteurs sont tenus d’exercer le soin et la diligence voulus pour que les marchandises qui leur sont livrées pour être transportées par eau soient gardées en lieu sûr et ponctuellement transportées.
-> 2001, ch. 26, art. 250 et 324.
+> 2001, ch. 26, art. 250 et 324
 
 
 
@@ -5635,7 +5393,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Définition de arrimage**
 
 - **(4)** Au présent article, ***arrimage*** s’entend notamment de l’arrimage effectué par les soutiers, de l’acconage, du gabarage et de la fourniture de biens et services dans le cadre de l’arrimage.
-> 2001, ch. 26, art. 251; 2002, ch. 8, art. 195.
+> 2001, ch. 26, art. 251; 2002, ch. 8, art. 195
 
 
 
@@ -5654,7 +5412,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Preuve des ordres**
 
 - **(2)** Dans le cas de poursuites pour omission de se conformer à un ordre donné en vertu de la présente loi, est présumé avoir été donné au bâtiment l’ordre donné au capitaine, à un membre de l’équipage ou à toute personne qui a ou semble avoir la responsabilité du bâtiment.
-> 2001, ch. 26, art. 252; 2005, ch. 29, art. 33; 2014, ch. 29, art. 76.
+> 2001, ch. 26, art. 252; 2005, ch. 29, art. 33; 2014, ch. 29, art. 76
 
 
 
@@ -5767,7 +5525,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Pouvoir de détenir un bâtiment étranger qui a occasionné une avarie**
 
 **259** Si elle est convaincue qu’une avarie a, dans une partie quelconque du monde, été causée à des biens appartenant à Sa Majesté du chef du Canada ou d’une province ou à une personne qualifiée par la faute, exclusive ou non, d’un bâtiment étranger et que celui-ci se trouve dans les eaux canadiennes, la Cour fédérale peut, sur demande *ex parte*, délivrer une ordonnance à toute personne désignée par le tribunal, lui enjoignant de détenir le bâtiment jusqu’à ce que le demandeur ait été indemnisé de ses pertes ou dommages ou qu’une garantie, en la forme et pour la somme précisées par le tribunal, ait été déposée auprès de lui.
-> 2001, ch. 26, art. 259; 2015, ch. 3, art. 26(A).
+> 2001, ch. 26, art. 259; 2015, ch. 3, art. 26(A)
 
 
 
@@ -5835,7 +5593,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Compétence**
 
 **264** S’il ne réside pas de juge ayant compétence en matière de brefs de *certiorari* au lieu où a été déclarée la culpabilité ou rendue l’ordonnance ou près de ce lieu, en Ontario, un juge de la Cour supérieure de justice, en Nouvelle-Écosse, en Colombie-Britannique ou à l’Île-du-Prince-Édouard, un juge de la Cour suprême, à Terre-Neuve-et-Labrador, un juge de la Section de première instance de la Cour suprême ou, au Nouveau-Brunswick, au Manitoba, en Saskatchewan ou en Alberta, un juge de la Cour du Banc de la Reine peut être saisi de toute demande de suspension des procédures relatives à cette déclaration de culpabilité ou à cette ordonnance et rendre une décision.
-> 2001, ch. 26, art. 264; 2015, ch. 3, art. 27.
+> 2001, ch. 26, art. 264; 2015, ch. 3, art. 27
 
 
 
@@ -5894,8 +5652,8 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Responsabilité civile**
 
-**268.1** Malgré l’article 10 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md), les paragraphes 11(5) et 12(5), l’article 45, le paragraphe 154(3), l’alinéa 181.1a) et le paragraphe 195(3) ne dégagent pas l’État de la responsabilité civile — délictuelle ou extracontractuelle — qu’il serait autrement tenu d’assumer.
-> 2001, ch. 26, art. 268.1; 2014, ch. 29, art. 77; 2018, ch. 27, art. 710.
+**268.1** Malgré l’article 10 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md), les paragraphes 11(5) et 12(5), l’article 45, l’alinéa 181.1a) et le paragraphe 195(3) ne dégagent pas l’État de la responsabilité civile — délictuelle ou extracontractuelle — qu’il serait autrement tenu d’assumer.
+> 2001, ch. 26, art. 268.1; 2014, ch. 29, art. 772018, ch. 27, art. 710 et 7122019, ch. 1, art. 150
 
 
 
@@ -5979,7 +5737,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **272** Les bâtiments, à l’exception des embarcations de plaisance, qui sont inscrits sous le régime de l’article 108 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), à l’entrée en vigueur de la partie 2 sont réputés être inscrits dans la partie du registre sur les petits bâtiments mentionnée au paragraphe 43(1) :
 - **a)** soit jusqu’à ce qu’ils changent de propriétaire ou, à défaut, pendant les cinq années suivant l’entrée en vigueur de la partie 2;
 - **b)** soit, dans le cas d’un bâtiment à l’égard duquel un permis a été délivré en vertu de cette loi, jusqu’à l’expiration de celui-ci.
-> 2001, ch. 26, art. 272; 2015, ch. 3, art. 28(F).
+> 2001, ch. 26, art. 272; 2015, ch. 3, art. 28(F)
 
 
 
@@ -6012,7 +5770,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Règlements : embarcations de plaisance**
 
-- **(5)** Les bâtiments qui, à la date d’entrée en vigueur de la partie 10, étaient des embarcations de plaisance au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), sont réputés être des embarcations de plaisance au sens de l’article 2 de la présente loi jusqu’à ce qu’ils cessent d’être de tels bâtiments au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou, si elle survient plus tôt, jusqu’à l’abrogation du [Règlement sur les petits bâtiments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/91.md) pris en vertu de cette loi.
+- **(5)** Les bâtiments qui, à la date d’entrée en vigueur de la partie 10, étaient des embarcations de plaisance au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), sont réputés être des embarcations de plaisance au sens de l’article 2 de la présente loi jusqu’à ce qu’ils cessent d’être de tels bâtiments au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou, si elle survient plus tôt, jusqu’à l’abrogation du [Règlement sur les petits bâtiments](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201487.md) pris en vertu de cette loi.
 
 **Infraction**
 
@@ -6192,7 +5950,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **31** Convention du travail maritime, 2006
 
 
-> 2001, ch. 26, ann. 1; DORS/2007-109; DORS/2009-154; DORS/2019-136, art. 1.
+> 2001, ch. 26, ann. 1; DORS/2007-109; DORS/2009-154DORS/2019-136, art. 1
 
 
 
@@ -6210,726 +5968,86 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 
 ### **ANNEXE 3** 
-**(paragraphe 142(1) et alinéa 150(1)b))**
-## Assistance
+[Abrogée, 2019, ch. 1, art. 151]
 
-**PARTIE 1** 
-### Convention internationale de 1989 sur l’assistance
 
 
-LES ÉTATS PARTIES À LA PRÉSENTE CONVENTION,
 
+## DISPOSITIONS CONNEXES
 
+######           — 2012, ch. 31, art. 162
 
-RECONNAISSANT qu’il est souhaitable de fixer par voie de convention des règles internationales uniformes concernant les opérations d’assistance,
 
+**Fixation des droits — Loi de 2001 sur la marine marchande du Canada**
 
+**162** 
 
-NOTANT que d’importants éléments nouveaux et, en particulier, une préoccupation accrue pour la protection de l’environnement, ont démontré la nécessité de revoir les règles internationales contenues actuellement dans la Convention pour l’unification de certaines règles en matière d’assistance et de sauvetage maritimes, faite à Bruxelles le 23 septembre 1910,
+- **(1)** La société de classification qui fournit, durant la période commençant le 1<sup>er</sup> juillet 2007 et se terminant la veille de la date de sanction de la présente loi, l’un ou l’autre des services ci-après dans l’exercice, aux termes d’un accord ou d’un arrangement conclu par le ministre des Transports en vertu de l’alinéa 10(1)c) de la Loi de 2001 sur la marine marchande du Canada, d’attributions prévues sous le régime de cette loi peut fixer les droits qui doivent lui être versés pour ces services :
+	- **a)** les services liés à tout document maritime canadien;
+	- **b)** les services liés à toute approbation, homologation ou certification;
+	- **c)** la conduite d’essais ou la présence d’une personne à des essais.
 
+**Pas des fonds publics**
 
+- **(2)** Les droits ne constituent pas des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas à leur égard.
 
-CONSCIENTS de la contribution considérable que des opérations d’assistance efficaces et entreprises en temps utile peuvent apporter à la sécurité des navires et des autres biens en danger et à la protection de l’environnement,
+**Non-application de certains règlements**
 
+- **(3)** Les règlements pris en vertu de l’alinéa 35(1)g) de la Loi de 2001 sur la marine marchande du Canada ne s’appliquent pas à l’égard de la prestation, durant la période commençant le 1<sup>er</sup> juillet 2007 et se terminant la veille de la date de sanction de la présente loi, de l’un ou l’autre des services visés aux alinéas (1)a) à c) par une société de classification dans l’exercice, aux termes d’un accord ou d’un arrangement conclu par le ministre des Transports en vertu de l’alinéa 10(1)c) de cette loi, d’attributions prévues sous le régime de la même loi.
 
 
-CONVAINCUS de la nécessité de veiller à ce qu’il y ait des incitations adéquates pour les personnes qui entreprennent des opérations d’assistance à l’égard de navires et d’autres biens en danger,
 
+######           — 2012, ch. 31, art. 163
 
 
-SONT CONVENUS de ce qui suit :
+**Fixation des droits — [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md)**
 
+**163** 
 
+- **(1)** La société de classification qui fournit, durant la période commençant le 1<sup>er</sup> janvier 1999 et se terminant le 30 juin 2007, l’un ou l’autre des services ci-après dans l’exercice, aux termes d’un accord ou d’un arrangement conclu par le ministre des Transports en vertu de l’alinéa 8(1)c) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), d’attributions prévues sous le régime de cette loi peut fixer les droits qui doivent lui être versés pour ces services :
+	- **a)** les services liés à tout certificat d’inspection;
+	- **b)** les services liés à toute approbation, homologation ou certification;
+	- **c)** la conduite d’essais ou la présence d’une personne à des essais.
 
-**CHAPITRE I** 
-### Dispositions générales
+**Pas des fonds publics**
 
+- **(2)** Les droits ne constituent pas des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et ne sont pas assujettis au paragraphe 408(2) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md).
 
-**ARTICLE PREMIER** 
-### Définitions
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
+- **(3)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas à l’égard des droits.
 
-Aux fins de la présente Convention :
 
-**a)** ***Opération d’assistance*** signifie tout acte ou activité entrepris pour assister un navire ou tout autre bien en danger dans des eaux navigables ou dans n’importe quelles autres eaux.
 
+######           — 2012, ch. 31, art. 164
 
 
-**b)** ***Navire*** signifie tout bâtiment de mer, bateau ou engin, ou toute structure capable de naviguer.
+**Non-application de certains règlements**
 
+**164** Les règlements pris en vertu de l’alinéa 231(1)d), des paragraphes 408(1) ou (4) ou des alinéas 657(1)l) ou m) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ne s’appliquent pas à l’égard de la prestation, durant la période commençant le 1<sup>er</sup> janvier 1999 et se terminant le 30 juin 2007, de l’un ou l’autre des services visés aux alinéas 163(1)a) à c) par une société de classification dans l’exercice d’attributions prévues sous le régime de cette loi.
 
 
-**c)** ***Bien*** signifie tout bien qui n’est pas attaché de façon permanente et intentionnelle au littoral et comprend le fret en risque.
 
+######           — 2018, ch. 27, art. 711
 
 
-**d)** ***Dommage à l’environnement*** signifie un préjudice matériel important à la santé de l’homme, à la faune ou la flore marines ou aux ressources de la mer dans les eaux côtières ou intérieures ou dans les zones adjacentes, causé par pollution, contamination, incendie, explosion et de graves événements similaires.
+**Violation réputée**
 
+**711** 
 
+- **(1)** La contravention du paragraphe 10.1(4) de la Loi de 2001 sur la marine marchande du Canada (appelée « Loi » au présent article), tel qu’il est édicté par l’article 690 de la présente loi, est réputée être une violation pour l’application des articles 229 à 243 de la Loi et des dispositions de tout règlement pris en vertu de l’article 244 de cette loi.
 
-**e)** ***Paiement*** signifie le règlement de toute rémunération, récompense ou indemnité due en vertu de la présente Convention.
+**Pénalité**
 
+- **(2)** Le barème de pénalités pour la violation visée au paragraphe (1) est de 250 $ à 250 000 $.
 
+**Violation continue**
 
-**f)** ***Organisation*** signifie l’Organisation maritime internationale.
+- **(3)** Il est compté une violation distincte pour chacun des jours au cours desquels se continue la violation.
 
+**Abrogation**
 
-
-**g)** ***Secrétaire général*** signifie le Secrétaire général de l’Organisation.
-
-
-
-
-
-**ARTICLE 2** 
-### Application de la Convention
-
-
-La présente Convention s’applique chaque fois que des actions judiciaires ou arbitrales relatives aux questions traitées dans la présente Convention sont introduites dans un État Partie.
-
-
-
-**ARTICLE 3** 
-### Plates-formes et unités de forage
-
-
-La présente Convention ne s’applique pas aux plates-formes fixes ou flottantes ni aux unités mobiles de forage au large lorsque ces plates-formes ou unités sont affectées, là où elles se trouvent, à l’exploration, à l’exploitation ou à la production de ressources minérales du fond des mers.
-
-
-
-**ARTICLE 4** 
-### Navires appartenant à un État
-
-
-**1** Sans préjudice des dispositions de l’article 5, la présente Convention ne s’applique pas aux navires de guerre ou autres navires non commerciaux appartenant à un État ou exploités par lui et ayant droit, lors des opérations d’assistance, à l’immunité souveraine en vertu des principes généralement reconnus du droit international, à moins que cet État n’en décide autrement.
-
-
-
-**2** Lorsqu’un État Partie décide d’appliquer la Convention à ses navires de guerre ou autres navires décrits au paragraphe 1, il le notifie au Secrétaire général en précisant les modalités et les conditions de cette application.
-
-
-
-**ARTICLE 5** 
-### Opérations d’assistance effectuées sous le contrôle d’autorités publiques
-
-
-**1** La présente Convention ne porte atteinte à aucune des dispositions de la législation nationale ou d’une convention internationale relatives aux opérations d’assistance effectuées par des autorités publiques ou sous leur contrôle.
-
-
-
-**2** Toutefois, les assistants effectuant de telles opérations sont habilités à se prévaloir des droits et des recours prévus par la présente Convention pour les opérations d’assistance.
-
-
-
-**3** La mesure dans laquelle une autorité publique qui est obligée d’exécuter des opérations d’assistance peut se prévaloir des droits et des recours prévus par la présente Convention est déterminée par la législation de l’État où cette autorité est située.
-
-
-
-**ARTICLE 6** 
-### Contrats d’assistance
-
-
-**1** La présente Convention s’applique à toute opération d’assistance sauf dans la mesure où un contrat en dispose autrement, soit expressément, soit implicitement.
-
-
-
-**2** Le capitaine a le pouvoir de conclure des contrats d’assistance au nom du propriétaire du navire. Le capitaine ou le propriétaire du navire ont le pouvoir de conclure de tels contrats au nom du propriétaire des biens se trouvant à bord du navire.
-
-
-
-**3** Aucune disposition du présent article ne porte atteinte à l’application de l’article 7 ou à l’obligation de prévenir ou de limiter les dommages à l’environnement.
-
-
-
-**ARTICLE 7** 
-### Annulation et modifications des contrats
-
-
-Un contrat ou l’une quelconque de ses clauses peut être annulé ou modifié si :
-
-**a)** le contrat a été conclu sous une pression abusive ou sous l’influence du danger et que ses clauses ne sont pas équitables; ou si
-
-
-
-**b)** le paiement convenu en vertu du contrat est beaucoup trop élevé ou beaucoup trop faible pour les services effectivement rendus.
-
-
-
-
-
-**CHAPITRE II** 
-### Exécution des opérations d’assistance
-
-
-**ARTICLE 8** 
-### Obligations de l’assistant, du propriétaire et du capitaine
-
-
-**1** L’assistant a, envers le propriétaire du navire ou des autres biens en danger, l’obligation :
-
-**a)** d’effectuer les opérations d’assistance avec le soin voulu;
-
-
-
-**b)** lorsqu’il s’acquitte de l’obligation visée à l’alinéa a), d’agir avec le soin voulu pour prévenir ou limiter les dommages à l’environnement;
-
-
-
-**c)** chaque fois que les circonstances l’exigent raisonnablement, de chercher à obtenir l’aide d’autres assistants; et
-
-
-
-**d)** d’accepter l’intervention d’autres assistants lorsqu’il est raisonnablement prié de le faire par le capitaine ou le propriétaire du navire ou des autres biens en danger; il est néanmoins entendu que le montant de sa rémunération n’est pas affecté s’il s’avère que cette demande n’était pas raisonnable.
-
-
-
-
-
-**2** Le capitaine et le propriétaire du navire ou le propriétaire des autres biens en danger ont, envers l’assistant, l’obligation :
-
-**a)** de coopérer pleinement avec lui pendant les opérations d’assistance;
-
-
-
-**b)** ce faisant, d’agir avec le soin voulu pour prévenir ou limiter les dommages à l’environnement; et
-
-
-
-**c)** lorsque le navire ou les autres biens ont été conduits en lieu sûr, d’en accepter la restitution lorsque l’assistant le leur demande raisonnablement.
-
-
-
-
-
-**ARTICLE 9** 
-### Droits des États côtiers
-
-
-Aucune disposition de la présente Convention ne porte atteinte au droit de l’État côtier concerné de prendre des mesures, conformément aux principes généralement reconnus du droit international, afin de protéger son littoral ou les intérêts connexes contre la pollution ou une menace de pollution résultant d’un accident de mer, ou d’actes liés à un tel accident, dont on peut raisonnablement attendre des graves conséquences préjudiciables, et notamment au droit d’un État côtier de donner des instructions concernant les opérations d’assistance.
-
-
-
-**ARTICLE 10** 
-### Obligation de prêter assistance
-
-
-**1** Tout capitaine est tenu, autant qu’il peut le faire sans danger sérieux pour son navire et les personnes à bord, de prêter assistance à toute personne en danger de disparaître en mer.
-
-
-
-**2** Les États Parties prennent les mesures nécessaires pour faire observer l’obligation énoncée au paragraphe 1.
-
-
-
-**3** Le propriétaire du navire n’est pas responsable de la violation par le capitaine de l’obligation énoncée au paragraphe 1.
-
-
-
-**ARTICLE 11** 
-### Coopération
-
-
-Chaque fois qu’il édicte des règles ou prend des décisions sur des questions relatives à des opérations d’assistance, telles que l’admission dans les ports de navires en détresse ou la fourniture de moyens aux assistants, un État Partie prend en considération la nécessité d’une coopération entre les assistants, les autres parties intéressées et les autorités publiques, afin d’assurer une exécution efficace et réussie des opérations d’assistance pour sauver des vies ou des biens en danger, aussi bien que pour prévenir les dommages à l’environnement en général.
-
-
-
-**CHAPITRE III** 
-### Droits des assistants
-
-
-**ARTICLE 12** 
-### Conditions ouvrant droit à une rémunération
-
-
-**1** Les opérations d’assistance qui ont eu un résultat utile donnent droit à une rémunération.
-
-
-
-**2** Sauf disposition contraire, aucun paiement n’est dû en vertu de la présente Convention si les opérations d’assistance n’ont pas eu de résultat utile.
-
-
-
-**3** Les dispositions du présent chapitre s’appliquent même si le navire assisté et le navire assistant appartiennent au même propriétaire.
-
-
-
-**ARTICLE 13** 
-### Critères d’évaluation de la rémunération
-
-
-**1** La rémunération est fixée en vue d’encourager les opérations d’assistance compte tenu des critères suivants, sans égard à l’ordre dans lequel ils sont présentés ci-dessous :
-
-**a)** la valeur du navire et des autres biens sauvés;
-
-
-
-**b)** l’habileté et les efforts des assistants pour prévenir ou limiter les dommages à l’environnement;
-
-
-
-**c)** l’étendue du succès obtenu par l’assistant;
-
-
-
-**d)** la nature et l’importance du danger;
-
-
-
-**e)** l’habileté et les efforts des assistants pour sauver le navire, les autres biens et les vies humaines;
-
-
-
-**f)** le temps passé, les dépenses effectuées et les pertes subies par les assistants;
-
-
-
-**g)** le risque de responsabilité et les autres risques courus par les assistants ou leur matériel;
-
-
-
-**h)** la promptitude des services rendus;
-
-
-
-**i)** la disponibilité et l’usage de navires ou d’autres matériels destinés aux opérations d’assistance;
-
-
-
-**j)** l’état de préparation ainsi que l’efficacité et la valeur du matériel de l’assistant.
-
-
-
-
-
-**2** Le paiement d’une rémunération fixée conformément au paragraphe 1 doit être effectué par toutes les parties intéressées au navire et aux autres biens sauvés en proportion de leur valeur respective. Toutefois, un État Partie peut prévoir, dans sa législation nationale, que le paiement d’une rémunération doit être effectué par l’une des parties intéressées, étant entendu que cette partie a un droit de recours contre les autres parties pour leur part respective. Aucune disposition du présent article ne porte préjudice à l’exercice de tout droit de défense.
-
-
-
-**3** Les rémunérations, à l’exclusion de tous intérêts et frais juridiques récupérables qui peuvent être dus à cet égard, ne dépassent pas la valeur du navire et des autres biens sauvés.
-
-
-
-**ARTICLE 14** 
-### Indemnité spéciale
-
-
-**1** Si l’assistant a effectué des opérations d’assistance à l’égard d’un navire qui par lui-même ou par sa cargaison menaçait de causer des dommages à l’environnement et n’a pu obtenir en vertu de l’article 13 une rémunération équivalant au moins à l’indemnité spéciale calculée conformément au présent article, il a droit de la part du propriétaire du navire à une indemnité spéciale équivalant à ses dépenses telles qu’ici définies.
-
-
-
-**2** Si, dans les circonstances énoncées au paragraphe 1, l’assistant a prévenu ou limité les dommages à l’environnement par ses opérations d’assistance, l’indemnité spéciale due par le propriétaire à l’assistant en vertu du paragraphe 1 peut être augmentée jusqu’à un maximum de 30 % des dépenses engagées par l’assistant. Toutefois, si le tribunal le juge équitable et juste, compte tenu des critères pertinents énoncés au paragraphe 1 de l’article 13, il peut encore augmenter cette indemnité spéciale, mais l’augmentation totale ne doit en aucun cas représenter plus de 100 % des dépenses engagées par l’assistant.
-
-
-
-**3** Les dépenses de l’assistant visent, aux fins des paragraphes 1 et 2, les débours raisonnablement engagés par l’assistant dans les opérations d’assistance ainsi qu’une somme équitable pour le matériel et le personnel effectivement et raisonnablement utilisés dans les opérations d’assistance, compte tenu des critères énoncés aux alinéas h), i) et j) du paragraphe 1 de l’article 13.
-
-
-
-**4** L’indemnité totale visée au présent article n’est payée que dans le cas et dans la mesure où elle excède la rémunération pouvant être obtenue par l’assistant en vertu de l’article 13.
-
-
-
-**5** Si l’assistant a été négligent et n’a pu, de ce fait, prévenir ou limiter les dommages à l’environnement, il peut être privé de la totalité ou d’une partie de toute indemnité spéciale due en vertu du présent article.
-
-
-
-**6** Aucune disposition du présent article ne porte atteinte aux droits de recours du propriétaire du navire.
-
-
-
-**ARTICLE 15** 
-### Répartition entre assistants
-
-
-**1** La répartition entre assistants d’une rémunération visée à l’article 13 se fait sur la base des critères prévus dans cet article.
-
-
-
-**2** La répartition entre le propriétaire, le capitaine et les autres personnes au service de chaque navire assistant est déterminée par la législation du pavillon du navire. Si l’assistance n’a pas été effectuée à partir d’un navire, la répartition se fait suivant la législation régissant le contrat conclu entre l’assistant et ses préposés.
-
-
-
-**ARTICLE 16** 
-### Sauvetage des personnes
-
-
-**1** Aucune rémunération n’est due par les personnes dont les vies ont été sauvées, mais aucune disposition du présent article ne porte atteinte aux dispositions de la législation nationale en la matière.
-
-
-
-**2** Le sauveteur de vies humaines qui a participé aux services rendus à l’occasion de l’accident ayant donné lieu aux opérations d’assistance a droit à une part équitable du paiement alloué à l’assistant pour avoir sauvé le navire ou d’autres biens ou pour avoir prévenu ou limité les dommages à l’environnement.
-
-
-
-**ARTICLE 17** 
-### Services rendus en vertu de contrats existants
-
-
-Aucun paiement n’est dû en vertu des dispositions de la présente Convention à moins que les services rendus ne dépassent ce qui peut raisonnablement être considéré comme l’exécution normale d’un contrat conclu avant que le danger ne survienne.
-
-
-
-**ARTICLE 18** 
-### Conséquences de la faute de l’assistant
-
-
-Un assistant peut être privé de la totalité ou d’une partie du paiement dû en vertu de la présente Convention dans la mesure où les opérations d’assistance ont été rendues nécessaires ou plus difficiles par sa faute ou sa négligence, ou s’il s’est rendu coupable de fraude ou de malhonnêteté.
-
-
-
-**ARTICLE 19** 
-### Défense d’effectuer des opérations d’assistance
-
-
-Des services rendus malgré la défense expresse et raisonnable du propriétaire ou du capitaine du navire ou du propriétaire de tout autre bien en danger qui n’est pas et n’a pas été à bord du navire ne donne pas droit à paiement en vertu de la présente Convention.
-
-
-
-**CHAPITRE IV** 
-### Créances et actions
-
-
-**ARTICLE 20** 
-### Privilège maritime
-
-
-**1** Aucune disposition de la présente Convention ne porte atteinte au privilège maritime de l’assistant résultant d’une convention internationale ou de la législation nationale.
-
-
-
-**2** L’assistant ne peut pas faire valoir son privilège maritime lorsqu’une garantie suffisante lui a été dûment offerte ou fournie pour le montant de sa créance, intérêts et frais compris.
-
-
-
-**ARTICLE 21** 
-### Obligation de fournir une garantie
-
-
-**1** À la demande de l’assistant, la personne redevable d’un paiement en vertu de la présente Convention fournit une garantie suffisante au titre de la créance de l’assistant, intérêts et frais compris.
-
-
-
-**2** Sans préjudice des dispositions du paragraphe 1, le propriétaire du navire sauvé fait de son mieux pour obtenir des propriétaires de la cargaison, avant que celle-ci ne soit libérée, une garantie suffisante au titre des créances formées contre eux, intérêts et frais compris.
-
-
-
-**3** Le navire et les autres biens sauvés ne doivent pas, sans le consentement de l’assistant, être enlevés du premier port ou lieu où ils sont arrivés après l’achèvement des opérations d’assistance, jusqu’à ce qu’ait été constituée une garantie suffisante au titre de la créance de l’assistant sur le navire ou les biens concernés.
-
-
-
-**ARTICLE 22** 
-### Paiement provisoire
-
-
-**1** Le tribunal compétent pour statuer sur la créance de l’assistant peut, par une décision provisoire, ordonner que celui-ci reçoive un acompte équitable et juste, assorti de modalités, y compris d’une garantie s’il y a lieu, qui soient équitables et justes suivant les circonstances de l’affaire.
-
-
-
-**2** En cas de paiement provisoire en vertu du présent article, la garantie prévue à l’article 21 est réduite proportionnellement.
-
-
-
-**ARTICLE 23** 
-### Prescription des actions
-
-
-**1** Toute action en paiement en vertu de la présente Convention est prescrite si une procédure judiciaire ou arbitrale n’a pas été engagée dans un délai de deux ans. Le délai de prescription court du jour où les opérations d’assistance ont été terminées.
-
-
-
-**2** La personne contre laquelle une créance a été formée peut à tout moment, pendant le délai de prescription, prolonger celui-ci par une déclaration adressée au créancier. Le délai peut de la même façon être à nouveau prolongé.
-
-
-
-**3** Une action récursoire peut être intentée même après l’expiration du délai de prescription prévu aux paragraphes précédents, si elle est introduite dans le délai fixé par la législation de l’État où la procédure est engagée.
-
-
-
-**ARTICLE 24** 
-### Intérêts
-
-
-Le droit de l’assistant à des intérêts sur tout paiement dû en vertu de la présente Convention est déterminé par la législation de l’État où siège le tribunal saisi du litige.
-
-
-
-**ARTICLE 25** 
-### Cargaisons appartenant à un État
-
-
-À moins que l’État propriétaire n’y consente, aucune disposition de la présente Convention ne peut être invoquée pour saisir, arrêter ou détenir par une mesure de justice quelconque des cargaisons non commerciales appartenant à un État et ayant droit, lors des opérations d’assistance, à l’immunité souveraine en vertu des principes généralement reconnus du droit international, ni pour engager une action *in rem* à l’encontre de ces cargaisons.
-
-
-
-**ARTICLE 26** 
-### Cargaisons humanitaires
-
-
-Aucune disposition de la présente Convention ne peut être invoquée pour saisir, arrêter ou détenir des cargaisons humanitaires données par un État, si cet État a accepté de rémunérer les services d’assistance rendus à ces cargaisons.
-
-
-
-**ARTICLE 27** 
-### Publication des sentences arbitrales
-
-
-Les États Parties encouragent, dans la mesure du possible et avec le consentement des parties, la publication des sentences arbitrales rendues en matière d’assistance.
-
-
-
-**CHAPITRE V** 
-### Clauses finales
-
-
-**ARTICLE 28** 
-### Signature, ratification, acceptation, approbation et adhésion
-
-
-**1** La présente Convention est ouverte à la signature au Siège de l’Organisation du 1<sup>er</sup> juillet 1989 au 30 juin 1990. Elle reste ensuite ouverte à l’adhésion.
-
-
-
-**2** Les États peuvent exprimer leur consentement à être liés par la présente Convention par :
-
-**a)** signature sans réserve quant à la ratification, l’acceptation ou l’approbation; ou
-
-
-
-**b)** signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation; ou
-
-
-
-**c)** adhésion.
-
-
-
-
-
-**3** La ratification, l’acceptation, l’approbation ou l’adhésion s’effectuent par le dépôt d’un instrument à cet effet auprès du Secrétaire général.
-
-
-
-**ARTICLE 29** 
-### Entrée en vigueur
-
-
-**1** La présente Convention entre en vigueur un an après la date à laquelle quinze États ont exprimé leur consentement à être liés par elle.
-
-
-
-**2** Pour un État qui exprime son consentement à être lié par la présente Convention après que les conditions d’entrée en vigueur ont été remplies, ce consentement prend effet un an après la date à laquelle il a été exprimé.
-
-
-
-**ARTICLE 30** 
-### Réserves
-
-
-**1** Tout État peut, au moment de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion, se réserver le droit de ne pas appliquer les dispositions de la présente Convention :
-
-**a)** lorsque les opérations d’assistance ont lieu dans des eaux intérieures et que tous les navires en cause sont des bateaux de navigation intérieure;
-
-
-
-**b)** lorsque les opérations d’assistance ont lieu dans des eaux intérieures et qu’aucun navire n’est en cause;
-
-
-
-**c)** lorsque toutes les parties intéressées sont des nationaux de cet État;
-
-
-
-**d)** lorsqu’il s’agit d’un bien maritime culturel présentant un intérêt préhistorique, archéologique ou historique et qui se trouve au fond de la mer.
-
-
-
-
-
-**2** Une réserve faite au moment de la signature doit être confirmée lors de la ratification, de l’acceptation ou de l’approbation.
-
-
-
-**3** Tout État qui a formulé une réserve à l’égard de la présente Convention peut la retirer à tout moment au moyen d’une notification adressée au Secrétaire général. Ce retrait prend effet à la date à laquelle la notification est reçue. S’il est indiqué dans la notification que le retrait d’une réserve prendra effet à une date qui est précisée et que cette date est postérieure à celle de la réception de la notification par le Secrétaire général, le retrait prend effet à la date ainsi précisée.
-
-
-
-**ARTICLE 31** 
-### Dénonciation
-
-
-**1** La présente Convention peut être dénoncée par l’un quelconque des États Parties à tout moment après l’expiration d’une période d’un an à compter de la date à laquelle la présente Convention entre en vigueur à l’égard de cet État.
-
-
-
-**2** La dénonciation s’effectue au moyen du dépôt d’un instrument de dénonciation auprès du Secrétaire général.
-
-
-
-**3** La dénonciation prend effet un an après la date à laquelle le Secrétaire général a reçu l’instrument de dénonciation ou à l’expiration de tout délai plus long énoncé dans cet instrument.
-
-
-
-**ARTICLE 32** 
-### Révision et amendement
-
-
-**1** Une conférence peut être convoquée par l’Organisation en vue de réviser ou de modifier la présente Convention.
-
-
-
-**2** Le Secrétaire général convoque une conférence des États Parties à la présente Convention pour réviser ou modifier la Convention, à la demande de huit États Parties ou d’un quart des États Parties, si ce dernier chiffre est plus élevé.
-
-
-
-**3** Tout consentement à être lié par la présente Convention exprimé après la date d’entrée en vigueur d’un amendement à la présente Convention est réputé s’appliquer à la Convention telle que modifiée.
-
-
-
-**ARTICLE 33** 
-### Dépositaire
-
-
-**1** La présente Convention est déposée auprès du Secrétaire général.
-
-
-
-**2** Le Secrétaire général :
-
-**a)** informe tous les États qui ont signé la présente Convention ou y ont adhéré ainsi que tous les Membres de l’Organisation;
-
-**(i)** de toute nouvelle signature ou de tout dépôt d’un nouvel instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ainsi que de leur date;
-
-
-
-**(ii)** de la date de l’entrée en vigueur de la présente Convention;
-
-
-
-**(iii)** du dépôt de tout instrument de dénonciation de la présente Convention, ainsi que de la date à laquelle il a été reçu et de la date à laquelle la dénonciation prend effet;
-
-
-
-**(iv)** de tout amendement adopté conformément à l’article 32;
-
-
-
-**(v)** de la réception de toute réserve, déclaration ou notification faite en vertu de la présente Convention;
-
-
-
-
-
-**b)** transmet des copies certifiées conformes de la présente Convention à tous les États qui l’ont signée ou qui y ont adhéré.
-
-
-
-
-
-**3** Dès l’entrée en vigueur de la présente Convention, une copie certifiée conforme en est transmise par le Dépositaire au Secrétaire général de l’Organisation des Nations Unies pour être enregistrée et publiée conformément à l’article 102 de la Charte des Nations Unies.
-
-
-
-**ARTICLE 34** 
-### Langues
-
-
-La présente Convention est établie en un seul exemplaire original en langues anglaise, arabe, chinoise, espagnole, française et russe, chaque texte faisant également foi.
-
-
-
-EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont apposé leur signature à la présente Convention.
-
-
-
-FAIT À LONDRES ce vingt-huit avril mil neuf cent quatre-vingt-neuf.
-
-
-
-**DOCUMENT JOINT 1** 
-### **Interprétation commune concernant les articles 13 et 14 de la Convention internationale de 1989 sur l’assistance**
-
-
-Selon l’interprétation commune de la Conférence, lorsque le tribunal fixe une rémunération en vertu de l’article 13 et calcule une indemnité spéciale en vertu de l’article 14 de la Convention internationale de 1989 sur l’assistance, il n’est pas tenu de fixer une rémunération en vertu de l’article 13 jusqu’à concurrence de la valeur maximale du navire et des autres biens sauvés avant de calculer l’indemnité spéciale à verser en vertu de l’article 14.
-
-
-
-**DOCUMENT JOINT 2** 
-### **Résolution demandant la modification des Règles d’York et d’Anvers de 1974**
-
-
-LA CONFÉRENCE INTERNATIONALE DE 1989 SUR L’ASSISTANCE,
-
-
-
-AYANT ADOPTÉ la Convention internationale de 1989 sur l’assistance,
-
-
-
-CONSIDÉRANT que les paiements effectués conformément à l’article 14 ne sont pas destinés à être admis en avarie commune,
-
-
-
-PRIE le Secrétaire général de l’Organisation maritime internationale de prendre les mesures appropriées pour faire modifier rapidement les Règles d’York et d’Anvers de 1974 afin de veiller à ce que l’indemnité spéciale payée en vertu de l’article 14 ne soit pas assujettie à l’avarie commune.
-
-
-
-**DOCUMENT JOINT 3** 
-### **Résolution sur la coopération internationale pour la mise en oeuvre de la Convention internationale de 1989 sur l’assistance**
-
-
-LA CONFÉRENCE INTERNATIONALE DE 1989 SUR L’ASSISTANCE,
-
-
-
-AYANT ADOPTÉ la Convention internationale de 1989 sur l’assistance (ci-après dénommée « la Convention »),
-
-
-
-ESTIMANT souhaitable qu’un aussi grand nombre d’États que possible deviennent Parties à la Convention,
-
-
-
-RECONNAISSANT que l’entrée en vigueur de la Convention constituera un facteur supplémentaire important pour la protection du milieu marin,
-
-
-
-CONSIDÉRANT qu’une diffusion internationale et une large mise en oeuvre de la Convention sont d’une importance capitale pour la réalisation de ses objectifs,
-
-
-
-**I** RECOMMANDE
-
-**a)** que l’Organisation encourage la diffusion de la Convention en organisant des séminaires, des cours ou des colloques;
-
-
-
-**b)** que les instituts de formation créés sous les auspices de l’Organisation inscrivent l’étude de la Convention dans leurs programmes de cours;
-
-
-
-
-
-**II** PRIE
-
-**a)** les États Membres de communiquer à l’Organisation le texte des lois, ordonnances, décrets, règlements et autres instruments promulgués sur les diverses questions qui entrent dans le champ d’application de la Convention;
-
-
-
-**b)** les États Membres d’encourager, en consultation avec l’Organisation, l’octroi d’une aide aux États qui demandent une assistance technique pour l’élaboration des lois, ordonnances, décrets, règlements et autres instruments requis pour la mise en oeuvre de la Convention; et
-
-
-
-**c)** l’Organisation d’informer les États Membres de toute communication qu’elle pourrait recevoir en application du paragraphe II a) ci-dessus.
-
-
-
-
-
-**PARTIE 2** 
-### Réserves du Canada
-
-
-Le gouvernement du Canada se réserve le droit de ne pas mettre en application les dispositions de la Convention internationale de 1989 sur l’assistance lorsque les biens en cause sont des biens maritimes culturels présentant un intérêt préhistorique, archéologique ou historique et qu’ils se trouvent au fond de la mer.
+- **(4)** Le présent article est abrogé le jour de l’entrée en vigueur du règlement pris en vertu de l’article 244 de la Loi qui qualifie la contravention au paragraphe 10.1(4) de la Loi, tel qu’il est édicté par l’article 690 de la présente loi, de violation pour l’application de l’article 228 de la Loi.
 
 
 
