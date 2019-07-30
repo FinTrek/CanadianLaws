@@ -285,7 +285,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20; 2018, ch. 12, art. 115, ch. 16, art. 169, ch. 23, art. 20.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20; 2018, ch. 12, art. 115, ch. 16, art. 169, ch. 23, art. 20
 
 
 
@@ -313,7 +313,7 @@
 **Exemption**
 
 - **(3)** Le gouverneur en conseil peut, par règlement, d’une part exempter Sa Majesté, dans certains cas ou catégories de cas, des obligations de déclaration prévues aux articles 12 et 95 et, d’autre part, fixer les conditions auxquelles l’exemption est assujettie.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 3; 2002, ch. 22, art. 329.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 3; 2002, ch. 22, art. 329
 
 
 
@@ -326,7 +326,7 @@
 **Intérêts composés**
 
 **3.1** Les intérêts sont calculés au taux réglementaire ou au taux déterminé et composés quotidiennement. Dans le cas où des intérêts, calculés sur un montant en application d’une disposition de la présente loi, sont impayés le jour où, sans le présent article, ils cesseraient d’être ainsi calculés, des intérêts au taux déterminé sont calculés et composés quotidiennement sur les intérêts impayés, pour la période allant de ce jour jusqu’au jour de leur versement, et sont versés en conformité avec la disposition en question.
-> 1992, ch. 28, art. 2; 2001, ch. 25, art. 2.
+> 1992, ch. 28, art. 2; 2001, ch. 25, art. 2
 
 
 
@@ -335,7 +335,7 @@
 **Autorisation visant le taux réglementaire**
 
 **3.2** La personne tenue, en application d’une disposition de la présente loi, de payer des intérêts sur un montant au taux déterminé les paie plutôt au taux réglementaire si le ministre ou l’agent qu’il charge de l’application du présent article l’y autorise.
-> 1992, ch. 28, art. 2.
+> 1992, ch. 28, art. 2
 
 
 
@@ -354,7 +354,7 @@
 **Intérêts sur remboursement de pénalité ou d’intérêts**
 
 - **(2)** Quiconque est remboursé, par suite d’une renonciation ou d’une annulation visée au paragraphe (1), d’un montant de pénalité ou d’intérêts payé reçoit, en plus du remboursement, des intérêts au taux réglementaire, calculés sur le remboursement pour la période commençant le lendemain du paiement du montant et se terminant le jour de l’octroi du remboursement.
-> 1992, ch. 28, art. 2; 1995, ch. 41, art. 2; 2001, ch. 25, art. 3; 2005, ch. 38, art. 61.
+> 1992, ch. 28, art. 2; 1995, ch. 41, art. 2; 2001, ch. 25, art. 3; 2005, ch. 38, art. 61
 
 
 
@@ -373,7 +373,7 @@
 **Paiement en l’absence de garantie supplémentaire**
 
 - **(2)** Quiconque omet de se conformer à une demande de garantie supplémentaire dans le délai imparti est aussitôt redevable de l’excédent du montant dû — pour lequel la garantie donnée au ministre n’est plus suffisante — sur la valeur de cette garantie, déterminée par le ministre ou par l’agent qu’il charge de l’application du présent article.
-> 1992, ch. 28, art. 2; 2005, ch. 38, art. 62.
+> 1992, ch. 28, art. 2; 2005, ch. 38, art. 62
 
 
 
@@ -390,7 +390,7 @@
 - **b)** une coopérative de crédit;
 - **c)** une société autorisée par une loi fédérale ou provinciale à offrir des services de fiducie au public;
 - **d)** une société autorisée par une loi fédérale ou provinciale à recevoir des dépôts du public et qui offre des prêts sur nantissement d’immeubles ou de biens réels ou fait des placements sous forme de créances hypothécaires sur des immeubles ou des biens réels.
-> 2001, ch. 25, art. 4.
+> 2001, ch. 25, art. 4
 
 
 
@@ -410,7 +410,7 @@
 **Engagements**
 
 **4.1** Dans le cas des marchandises visées à l’alinéa 32(2)b), le ministre peut accepter d’un importateur ou d’un transporteur un engagement de remplir des obligations relativement à l’observation de la présente loi et des règlements.
-> 2001, ch. 25, art. 5.
+> 2001, ch. 25, art. 5
 
 
 
@@ -471,7 +471,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Frais**
 
 - **(6)** Le propriétaire ou l’exploitant d’un pont ou d’un tunnel international est tenu de toutes les dépenses entraînées pour le ministre en application du paragraphe (5), leur recouvrement pouvant être effectué conformément aux articles 143 à 145.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 6, ch. 26 (3<sup>e</sup> suppl.), art. 1; 2012, ch. 31, art. 265.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 6, ch. 26 (3<sup>e</sup> suppl.), art. 1; 2012, ch. 31, art. 265
 
 
 
@@ -495,7 +495,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Obligation de fournir des renseignements exacts**
 
 **7.1** Les renseignements fournis à un agent pour l’application et l’exécution de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), ou sous le régime d’une autre loi fédérale prohibant, contrôlant ou réglementant l’importation ou l’exportation de marchandises doivent être véridiques, exacts et complets.
-> 2001, ch. 25, art. 6.
+> 2001, ch. 25, art. 6
 
 
 
@@ -508,7 +508,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Déclaration**
 
 **8** Le ministre peut inclure sur tout formulaire une déclaration à signer par l’intéressé, où celui-ci atteste la véracité, l’exactitude et l’intégralité des renseignements qu’il a donnés.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 8; 2001, ch. 25, art. 7.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 8; 2001, ch. 25, art. 7
 
 
 
@@ -558,7 +558,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **a)** la fourniture de renseignements ou de formulaires à toute fin prévue par la présente loi ou le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), sous forme électronique ou autre, ainsi que la notification des personnes et la transmission de tout autre renseignement en application de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
 	- **b)** le versement de sommes, sous le régime de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), selon les instructions adressées par voie électronique;
 	- **c)** les modalités et l’étendue de l’application des dispositions de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de leurs règlements aux systèmes électroniques et l’adaptation de ces dispositions à cette fin.
-> 1997, ch. 36, art. 148; 2001, ch. 25, art. 8.
+> 1997, ch. 36, art. 148; 2001, ch. 25, art. 8
 
 
 
@@ -597,7 +597,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **f)** fixer les droits d’examen à acquitter et le montant des acomptes à verser à cet égard, ainsi que les conditions de remboursement de ces droits et acomptes;
 	- **g)** déterminer les documents à conserver par les courtiers en douane, ainsi que leur délai de conservation;
 	- **h)** déterminer les modalités et circonstances de suspension ou d’annulation, soit par le ministre, des agréments octroyés en vertu du paragraphe (1), soit par toute autre personne, des agréments octroyés par elle-même en vertu de ce paragraphe, ainsi que les circonstances de leur restitution par les titulaires.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 9; 2001, ch. 25, art. 9.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 9; 2001, ch. 25, art. 9
 
 
 
@@ -666,7 +666,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Pouvoir de l’agent**
 
 - **(7)** Même si une personne est titulaire d’une autorisation en vertu du paragraphe 11.1(1) ou est autorisée aux termes d’un règlement pris en vertu du paragraphe 11.1(3), un agent peut exiger d’elle qu’elle se présente devant lui conformément au paragraphe (1).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 11; 1996, ch. 31, art. 74; 2001, ch. 25, art. 10; 2012, ch. 19, art. 372; 2017, ch. 11, art. 2.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 11; 1996, ch. 31, art. 74; 2001, ch. 25, art. 10; 2012, ch. 19, art. 372; 2017, ch. 11, art. 2
 
 
 
@@ -695,7 +695,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
 - **(4)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais exigés pour la délivrance de l’autorisation visée au présent article s’ils constituent des frais réciproques régis par un accord international.
-> 2001, ch. 25, art. 11; 2010, ch. 25, art. 172; 2012, ch. 19, art. 373; 2017, ch. 20, art. 454.
+> 2001, ch. 25, art. 11; 2010, ch. 25, art. 172; 2012, ch. 19, art. 373; 2017, ch. 20, art. 454
 
 
 
@@ -710,7 +710,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Modification, suppression, etc.**
 
 - **(2)** Le ministre peut modifier, supprimer ou rétablir en tout temps une désignation faite en vertu du présent article.
-> 2001, ch. 25, art. 11.
+> 2001, ch. 25, art. 11
 
 
 
@@ -727,7 +727,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Modification, suspension, etc.**
 
 - **(2)** Le ministre peut modifier, suspendre, renouveler, annuler ou rétablir une autorisation.
-> 2001, ch. 25, art. 11; 2009, ch. 10, art. 2.
+> 2001, ch. 25, art. 11; 2009, ch. 10, art. 2
 
 
 
@@ -752,7 +752,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Non-application des paragraphes (1) et (1.1)**
 
 - **(2)** Les paragraphes (1) et (1.1) ne s’appliquent pas aux personnes qui doivent se présenter en vertu de l’article 11 ou déclarer des marchandises en vertu de l’article 12.
-> 2001, ch. 25, art. 11; 2009, ch. 10, art. 3.
+> 2001, ch. 25, art. 11; 2009, ch. 10, art. 3
 
 
 
@@ -764,7 +764,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 - **a)** désignant les personnes ou les catégories de personnes dont l’accès à une zone de contrôle des douanes peut être approuvé en vertu de l’alinéa 11.3(1)b);
 - **b)** concernant la manière dont une personne doit se présenter en vertu des alinéas 11.4(1)a) et (1.1)a) et déclarer des marchandises en vertu de l’alinéa 11.4(1)b).
 - **c) à e)** [Abrogés, 2009, ch. 10, art. 4]
-> 2001, ch. 25, art. 11; 2009, ch. 10, art. 4.
+> 2001, ch. 25, art. 11; 2009, ch. 10, art. 4
 
 
 
@@ -781,7 +781,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Modification, suppression, etc.**
 
 - **(2)** Le ministre peut modifier, supprimer ou rétablir en tout temps une désignation faite en vertu du présent article.
-> 2012, ch. 19, art. 481.
+> 2012, ch. 19, art. 481
 
 
 
@@ -790,7 +790,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Personne circulant dans un corridor de circulation mixte**
 
 **11.7** Toute personne circulant dans un corridor de circulation mixte doit se présenter devant un agent au bureau de douane le plus proche et déclarer si elle arrive d’un lieu situé au Canada ou à l’étranger.
-> 2012, ch. 19, art. 481.
+> 2012, ch. 19, art. 481
 
 
 
@@ -846,7 +846,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **a)** elles sont en la possession effective ou parmi les bagages d’une personne se trouvant à bord du moyen de transport par lequel elle est arrivée au Canada;
 	- **b)** elles ne sont pas passibles de droits;
 	- **c)** leur importation n’est pas prohibée par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), ni prohibée, contrôlée ou réglementée sous le régime d’une loi fédérale autre que la présente loi ou le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 12, ch. 41 (3<sup>e</sup> suppl.), art. 119; 1992, ch. 28, art. 3; 1996, ch. 31, art. 75; 1997, ch. 36, art. 149; 2001, ch. 25, art. 12; 2015, ch. 3, art. 60(F); 2017, ch. 11, art. 3.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 12, ch. 41 (3<sup>e</sup> suppl.), art. 119; 1992, ch. 28, art. 3; 1996, ch. 31, art. 75; 1997, ch. 36, art. 149; 2001, ch. 25, art. 12; 2015, ch. 3, art. 60(F); 2017, ch. 11, art. 3
 
 
 
@@ -857,7 +857,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **12.01** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application des articles 11 et 12, notamment :
 - **a)** prévoir les circonstances dans lesquelles des personnes, des marchandises ou des catégories de personnes ou de marchandises à bord de moyens de transport ou de catégories de moyens de transport doivent se présenter ou être déclarées, selon le cas, malgré les paragraphes 11(5) ou 12(5);
 - **b)** définir l’expression « établir un contact avec un autre moyen de transport » pour l’application des paragraphes 11(5) et 12(5) ainsi que prévoir les circonstances dans lesquelles un moyen de transport ou une catégorie de moyens de transport établit un tel contact.
-> 2017, ch. 11, art. 4.
+> 2017, ch. 11, art. 4
 
 
 
@@ -903,7 +903,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **e)** concernant les exigences et conditions auxquelles il doit être satisfait pour qu’un code de transporteur soit délivré;
 	- **f)** concernant les personnes ou catégories de personnes qui sont exemptées de l’obligation de détenir un code de transporteur valide;
 	- **g)** concernant les modalités de la suspension, de l’annulation ou du rétablissement d’un code de transporteur et les circonstances y donnant lieu.
-> 2009, ch. 10, art. 6; 2012, ch. 31, art. 266.
+> 2009, ch. 10, art. 6; 2012, ch. 31, art. 266
 
 
 
@@ -914,7 +914,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **13** La personne qui déclare, dans le cadre de l’article 12, des marchandises à l’intérieur ou à l’extérieur du Canada, ou qu’un agent intercepte en vertu de l’article 99.1 doit :
 - **a)** répondre véridiquement aux questions que lui pose l’agent sur les marchandises;
 - **b)** à la demande de l’agent, lui présenter les marchandises et les déballer, ainsi que décharger les moyens de transport et en ouvrir les parties, ouvrir ou défaire les colis et autres contenants que l’agent veut examiner.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 13; 2001, ch. 25, art. 13.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 13; 2001, ch. 25, art. 13
 
 
 
@@ -948,7 +948,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 **Déclaration et paiement des droits**
 
-- **(2)** Dans le cas d’épaves visées au paragraphe (1), remises à une personne conformément à l’article 158 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la personne :
+- **(2)** Dans le cas d’épaves visées au paragraphe (1), remises à une personne conformément à l’article 61 de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md), la personne :
 	- **a)** doit aussitôt en déclarer la remise à l’agent;
 	- **b)** est, dès la remise, redevable des droits afférents selon les taux applicables aux épaves lors de cette remise.
 
@@ -959,7 +959,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **b)** la cargaison, les provisions de bord et les agrès et apparaux de tout ou partie d’un navire qui s’en sont détachés;
 	- **c)** les biens des naufragés;
 	- **d)** les aéronefs accidentés, leurs débris et leur cargaison.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 16; 2001, ch. 26, art. 299.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 16; 2001, ch. 26, art. 2992019, ch. 1, art. 140
 
 
 
@@ -982,7 +982,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Solidarité du propriétaire et de l’importateur**
 
 - **(3)** Dès que l’importateur de marchandises dédouanées ou quiconque est autorisé à faire une déclaration en détail ou provisoire de marchandises conformément à l’alinéa 32(6)a) ou au paragraphe 32(7) devient redevable, en vertu de la présente loi, des droits afférents, la personne qui est propriétaire des marchandises au moment du dédouanement devient solidaire du paiement des droits.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 17; 1992, ch. 28, art. 4; 2001, ch. 25, art. 14; 2004, ch. 25, art. 120(A).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 17; 1992, ch. 28, art. 4; 2001, ch. 25, art. 14; 2004, ch. 25, art. 120(A)
 
 
 
@@ -1015,7 +1015,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Règlements**
 
 - **(4)** Le gouverneur en conseil peut, par règlement, fixer les cautions ou autres garanties susceptibles d’être souscrites par les personnes effectivement ou éventuellement redevables de droits au titre du présent article et déterminer les circonstances de la souscription.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 18; 2001, ch. 25, art. 15.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 18; 2001, ch. 25, art. 15
 
 
 
@@ -1054,7 +1054,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 - **(3)** Les provisions de bord enlevées en vertu de l’alinéa (1)c) et les marchandises exportées en vertu de l’alinéa (1)d) cessent, dès leur exportation, d’être frappées de droits.
 
 - **(4) et (5)** [Abrogés, 1995, ch. 41, art. 3]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 19; 1993, ch. 25, art. 69; 1995, ch. 41, art. 3; 1997, ch. 36, art. 150; 2001, ch. 25, art. 16.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 19; 1993, ch. 25, art. 69; 1995, ch. 41, art. 3; 1997, ch. 36, art. 150; 2001, ch. 25, art. 16
 
 
 
@@ -1073,7 +1073,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Règlements**
 
 - **(3)** Le gouverneur en conseil peut par règlement, sous réserve des conditions qui y sont prévues, exempter des personnes ou des marchandises, individuellement ou par catégorie, de l’application du paragraphe (1).
-> 1988, ch. 65, art. 67.
+> 1988, ch. 65, art. 67
 
 
 
@@ -1110,7 +1110,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Taux des droits**
 
 - **(3)** Le taux des droits payables sur les marchandises conformément au paragraphe (2) est celui qui leur est applicable au moment où elles font l’objet de la déclaration prévue à l’article 12.
-> L.R. (1985), ch. 1 (2<sup>e</sup>suppl.), art. 20; 1995, ch. 41, art. 4; 1997, ch. 36, art. 151; 2001, ch. 25, art. 17.
+> L.R. (1985), ch. 1 (2<sup>e</sup>suppl.), art. 20; 1995, ch. 41, art. 4; 1997, ch. 36, art. 151; 2001, ch. 25, art. 17
 
 
 
@@ -1134,7 +1134,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Exemption**
 
 - **(2)** Le ministre peut, à ses conditions, exempter toute personne ou catégorie de personnes de l’obligation de conserver, au Canada ou non, des documents, dans les cas où il l’estime inutile ou peu commode.
-> L.R. (1985), ch. 1 (2<sup>e</sup>suppl.), art. 22; 1995, ch. 41, art. 5; 2001, ch. 25, art. 18.
+> L.R. (1985), ch. 1 (2<sup>e</sup>suppl.), art. 22; 1995, ch. 41, art. 5; 2001, ch. 25, art. 18
 
 
 
@@ -1168,7 +1168,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Modification de l’agrément**
 
 - **(2)** Le ministre peut, sous réserve des règlements, modifier, suspendre, renouveler, annuler ou rétablir un agrément octroyé en vertu du paragraphe (1).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 24; 1993, ch. 25, art. 70; 1995, ch. 41, art. 6; 2001, ch. 16, art. 2; 2002, ch. 22, art. 330.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 24; 1993, ch. 25, art. 70; 1995, ch. 41, art. 6; 2001, ch. 16, art. 2; 2002, ch. 22, art. 330
 
 
 
@@ -1190,7 +1190,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Définition de droits**
 
 - **(2)** Au paragraphe (1), ***droits*** s’entend des droits ou taxes imposés par la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou tout autre texte de législation douanière.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 26; 1993, ch. 25, art. 71; 2002, ch. 22, art. 331.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 26; 1993, ch. 25, art. 71; 2002, ch. 22, art. 331
 
 
 
@@ -1225,7 +1225,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Inapplication de la définition de droits**
 
 - **(3)** La définition de ***droits*** au paragraphe 2(1) ne s’applique pas aux paragraphes (1) et (2).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 28; 1993, ch. 25, art. 72; 1995, ch. 39, art. 168; 2001, ch. 25, art. 19; 2002, ch. 22, art. 332 et 408.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 28; 1993, ch. 25, art. 72; 1995, ch. 39, art. 168; 2001, ch. 25, art. 19; 2002, ch. 22, art. 332 et 408
 
 
 
@@ -1252,7 +1252,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 - **l)** déterminer les circonstances dans lesquelles des marchandises ne sont pas reçues dans des entrepôts d’attente;
 - **m)** régir les renseignements à fournir par les exploitants de boutiques hors taxes;
 - **n)** autrement réglementer l’exploitation des entrepôts d’attente ou des boutiques hors taxes.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 30; 1993, ch. 25, art. 73; 1995, ch. 41, art. 7.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 30; 1993, ch. 25, art. 73; 1995, ch. 41, art. 7
 
 
 
@@ -1265,7 +1265,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Dédouanement**
 
 **31** Sous réserve de l’article 19, seul l’agent, dans l’exercice des fonctions que lui confère la présente loi ou une autre loi fédérale, peut, sauf s’il s’agit de marchandises dédouanées par lui ou par un autre agent, ou dédouanées de toute manière prévue par règlement, enlever des marchandises d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 31; 2001, ch. 25, art. 20.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 31; 2001, ch. 25, art. 20
 
 
 
@@ -1314,7 +1314,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Autorisation**
 
 - **(7)** Le ministre ou l’agent que le président charge de l’application du présent paragraphe peut autoriser une personne qui ne réside pas au Canada à faire une déclaration en détail ou provisoire de marchandises en vertu du présent article, dans les circonstances et dans les conditions prévues par règlement, au lieu de leur importateur ou de leur propriétaire.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 32; 1992, ch. 28, art. 5; 1995, ch. 41, art. 8; 2001, ch. 25, art. 21; 2005, ch. 38, art. 63.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 32; 1992, ch. 28, art. 5; 1995, ch. 41, art. 8; 2001, ch. 25, art. 21; 2005, ch. 38, art. 63
 
 
 
@@ -1333,7 +1333,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Règlements**
 
 - **(3)** Le gouverneur en conseil peut par règlement, sous réserve des conditions qui y sont prévues, exempter des personnes ou des marchandises, individuellement ou par catégorie, de l’application du paragraphe (1).
-> 1988, ch. 65, art. 68.
+> 1988, ch. 65, art. 68
 
 
 
@@ -1378,7 +1378,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Droits**
 
 - **(8)** Lorsque la déclaration d’un classement tarifaire devient défectueuse par suite d’un manquement visé au paragraphe (6), les droits ne comprennent pas, pour l’application de l’alinéa (2) b), les droits et taxes perçus au titre de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
-> 1993, ch. 44, art. 82; 1996, ch. 33, art. 29; 1997, ch. 14, art. 36, ch. 36, art. 152; 2001, ch. 25, art. 22; 2002, ch. 22, art. 333.
+> 1993, ch. 44, art. 82; 1996, ch. 33, art. 29; 1997, ch. 14, art. 36, ch. 36, art. 152; 2001, ch. 25, art. 22; 2002, ch. 22, art. 333
 
 
 
@@ -1390,7 +1390,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 - **a)** de la déclarer à un agent à un bureau de douane;
 - **b)** de faire une déclaration en détail des marchandises selon les modalités réglementaires et en la forme et avec les renseignements réglementaires;
 - **c)** de payer, à titre de droits, une somme égale au montant des droits dont auraient été passibles des marchandises semblables importées dans des conditions semblables à la même date.
-> 2001, ch. 25, art. 23.
+> 2001, ch. 25, art. 23
 
 
 
@@ -1411,7 +1411,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 - **(3)** Les droits visés au paragraphe (2) ne comprennent pas les droits perçus en vertu :
 	- **a)** du paragraphe 21.1(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), s’ils sont payés et perçus conformément au paragraphe 21.1(2) de cette loi;
 	- **b)** des paragraphes 21.2(1) et (2) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), s’ils sont payés et perçus conformément au paragraphe 21.2(3) de cette loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 33; 1992, ch. 28, art. 6; 2002, ch. 22, art. 334.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 33; 1992, ch. 28, art. 6; 2002, ch. 22, art. 334
 
 
 
@@ -1424,7 +1424,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Mise en demeure de faire une déclaration en détail**
 
 **33.2** Le destinataire d’une mise en demeure du ministre ou de l’agent que le président charge de l’application du présent article, signifiée à personne ou envoyée par courrier recommandé ou certifié, est tenu de faire, selon les modalités visées à l’alinéa 32(1)a) et dans le délai raisonnable fixé dans la mise en demeure, une déclaration en détail des marchandises indiquées dans la mise en demeure.
-> 1992, ch. 28, art. 7; 2005, ch. 38, art. 64.
+> 1992, ch. 28, art. 7; 2005, ch. 38, art. 64
 
 
 
@@ -1447,7 +1447,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Intérêts non exigibles**
 
 - **(3)** La personne qui verse, dans les trente jours suivant une intervention — détermination, révision ou réexamen — faite en vertu de la présente loi, les droits à payer en application des alinéas 59(3)a) ou 65(1)a) par suite de l’intervention n’a pas à payer d’intérêts sur les droits en application du paragraphe (1) pour la période commençant le lendemain de l’intervention et se terminant le jour du versement des droits. Il en est de même pour l’importateur au Canada qui verse dans le même délai les droits à payer en application de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) par suite d’une décision, d’une révision ou d’un réexamen faits en vertu de cette loi.
-> 1992, ch. 28, art. 7; 1994, ch. 47, art. 70; 1995, ch. 41, art. 9; 1997, ch. 36, art. 154; 2001, ch. 25, art. 26.
+> 1992, ch. 28, art. 7; 1994, ch. 47, art. 70; 1995, ch. 41, art. 9; 1997, ch. 36, art. 154; 2001, ch. 25, art. 26
 
 
 
@@ -1456,7 +1456,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Mise en demeure de payer**
 
 **33.5** Le destinataire d’une mise en demeure du ministre ou de l’agent que le président charge de l’application du présent article, signifiée à personne ou envoyée par courrier recommandé ou certifié, est tenu de verser, dans le délai raisonnable fixé dans la mise en demeure, toute somme due à titre de droits sur les marchandises indiquées dans la mise en demeure.
-> 1992, ch. 28, art. 7; 2005, ch. 38, art. 65.
+> 1992, ch. 28, art. 7; 2005, ch. 38, art. 65
 
 
 
@@ -1485,7 +1485,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **a)** le paiement doit être fait dans le délai prorogé;
 	- **b)** si le paiement est fait dans le délai prorogé, le paragraphe 33.4(1) s’applique au montant comme si le délai n’avait pas été prorogé, mais les intérêts à payer sur ce montant en application de ce paragraphe sont calculés au taux réglementaire plutôt qu’au taux déterminé;
 	- **c)** le délai est réputé ne pas avoir été prorogé si le paiement n’est pas fait dans le délai prorogé.
-> 1992, ch. 28, art. 7; 2001, ch. 25, art. 28; 2005, ch. 38, art. 66.
+> 1992, ch. 28, art. 7; 2001, ch. 25, art. 28; 2005, ch. 38, art. 66
 
 
 
@@ -1502,7 +1502,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Garanties et conditions de dédouanement**
 
 **35** Sauf dans les circonstances déterminées par règlement, le dédouanement prévu au paragraphe 32(2) ou (4) ou à l’article 33 est subordonné à la souscription des consignations, cautions ou autres garanties, ainsi qu’aux conditions, réglementaires.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 35; 1995, ch. 41, art. 11.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 35; 1995, ch. 41, art. 11
 
 
 
@@ -1515,7 +1515,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Obligation de marquage**
 
 **35.01** L’importation des marchandises qui doivent être marquées aux termes des règlements d’application de l’article 19 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) est subordonnée à leur marquage conformément à ces règlements.
-> 1993, ch. 44, art. 83; 1997, ch. 36, art. 155.
+> 1993, ch. 44, art. 83; 1997, ch. 36, art. 155
 
 
 
@@ -1540,7 +1540,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **c)** les marchandises importées ont été marquées d’une manière trompeuse de façon à induire une autre personne en erreur quant au pays ou à la zone géographique de leur origine.
 
 - **(5)** [Abrogé, 2001, ch. 25, art. 30]
-> 1993, ch. 44, art. 83; 1997, ch. 36, art. 156; 2001, ch. 25, art. 30; 2005, ch. 38, art. 67.
+> 1993, ch. 44, art. 83; 1997, ch. 36, art. 156; 2001, ch. 25, art. 30; 2005, ch. 38, art. 67
 
 
 
@@ -1580,7 +1580,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 - **(5)** Le traitement tarifaire préférentiel découlant d’un accord de libre-échange peut être refusé ou retiré à des marchandises pour lesquelles ce traitement est demandé dans le cas où leur importateur ou leur propriétaire, ou la personne tenue de justifier leur origine en application du présent article, ne se conforme pas à une disposition quelconque de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou des règlements d’application de l’une ou l’autre de ces lois concernant l’application de ce traitement à ces marchandises.
 
 - **(6)** [Abrogé, 1997, ch. 14, art. 37]
-> 1988, ch. 65, art. 69; 1992, ch. 28, art. 9; 1993, ch. 44, art. 84; 1996, ch. 33, art. 30; 1997, ch. 14, art. 37; 2012, ch. 18, art. 25(F); 2018, ch. 23, art. 21.
+> 1988, ch. 65, art. 69; 1992, ch. 28, art. 9; 1993, ch. 44, art. 84; 1996, ch. 33, art. 30; 1997, ch. 14, art. 37; 2012, ch. 18, art. 25(F); 2018, ch. 23, art. 21
 
 
 
@@ -1624,7 +1624,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Présomption**
 
 - **(4)** Pour l’application de la présente loi, le lieu du dépôt visé au présent article est assimilé à un bureau de douane.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 37; 1993, ch. 25, art. 74; 1995, ch. 41, art. 12; 1997, ch. 36, art. 157.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 37; 1993, ch. 25, art. 74; 1995, ch. 41, art. 12; 1997, ch. 36, art. 157
 
 
 
@@ -1639,7 +1639,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Paiement des frais**
 
 - **(2)** Seul l’agent peut enlever les marchandises en dépôt dans un lieu visé à l’article 37 sans qu’aient été payés les frais visés au paragraphe (1).
-> 1985, ch. 1 (2e suppl.), art. 38; 2004, ch. 25, art. 121(A).
+> 1985, ch. 1 (2e suppl.), art. 38; 2004, ch. 25, art. 121(A)
 
 
 
@@ -1654,7 +1654,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Frais**
 
 - **(2)** L’importateur des marchandises confisquées en application du paragraphe (1) et la personne qui en est le propriétaire au moment de la confiscation sont solidairement redevables des frais entraînés pour Sa Majesté du chef du Canada lorsqu’elle dispose des marchandises autrement que par vente.
-> 1985, ch. 1 (2e suppl.), art. 39; 2004, ch. 25, art. 122(A).
+> 1985, ch. 1 (2e suppl.), art. 39; 2004, ch. 25, art. 122(A)
 
 
 
@@ -1673,7 +1673,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Entrepôt de stockage**
 
 - **(2)** Les marchandises d’une catégorie déterminée par les règlements d’application du sous-alinéa 99f)(xii) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) restant dans un entrepôt de stockage à l’expiration du délai fixé par les règlements d’application du sous-alinéa 99f)(xi) de cette loi sont confisquées.
-> 1993, ch. 25, art. 75; 1995, ch. 41, art. 13; 1997, ch. 36, art. 158.
+> 1993, ch. 25, art. 75; 1995, ch. 41, art. 13; 1997, ch. 36, art. 158
 
 
 
@@ -1705,7 +1705,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Demande du ministre**
 
 - **(4)** Le ministre peut demander à la personne qui, selon lui, a manqué à ses obligations prévues au paragraphe (3) quant à la conservation de documents de se conformer à ce paragraphe.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 40; 1992, ch. 28, art. 10; 1993, ch. 44, art. 85; 1995, ch. 41, art. 15; 1997, ch. 36, art. 159; 2001, ch. 25, art. 31.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 40; 1992, ch. 28, art. 10; 1993, ch. 44, art. 85; 1995, ch. 41, art. 15; 1997, ch. 36, art. 159; 2001, ch. 25, art. 31
 
 
 
@@ -1756,7 +1756,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 - **(5)** Dans la mesure où un refus de pénétrer dans la maison d’habitation a été opposé ou pourrait l’être et où des documents ou biens sont gardés dans la maison d’habitation ou pourraient l’être, le juge qui n’est pas convaincu qu’il est nécessaire de pénétrer dans la maison d’habitation pour l’application ou l’exécution de la présente loi peut :
 	- **a)** ordonner à l’occupant de la maison d’habitation de permettre à l’agent d’avoir raisonnablement accès à tous documents ou biens qui sont gardés dans la maison d’habitation ou devraient y être gardés;
 	- **b)** rendre toute autre ordonnance indiquée en l’espèce pour l’application de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 42; 2001, ch. 25, art. 32; 2005, ch. 38, art. 68.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 42; 2001, ch. 25, art. 32; 2005, ch. 38, art. 68
 
 
 
@@ -1769,7 +1769,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Méthodes de vérification**
 
 **42.01** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article peut effectuer la vérification de l’origine des marchandises importées, autres que celles visées à l’article 42.1, ou la vérification de leur classement tarifaire ou de leur valeur en douane selon les modalités réglementaires; à cette fin, il a accès aux lieux désignés par règlement à toute heure convenable.
-> 1997, ch. 36, art. 160; 2001, ch. 25, art. 33; 2005, ch. 38, art. 69.
+> 1997, ch. 36, art. 160; 2001, ch. 25, art. 33; 2005, ch. 38, art. 69
 
 
 
@@ -1814,7 +1814,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **a.2)** s’agissant de l’AÉCG, l’État d’exportation — pays de l’Union européenne ou autre bénéficiaire de l’AÉCG — omet d’effectuer une vérification ou de fournir un rapport écrit indiquant si les marchandises sont originaires;
 	- **b)** l’agent ou l’autre personne visé au paragraphe (1.1) n’est pas en mesure d’établir si les marchandises sont originaires;
 	- **c)** tout autre cas prévu par règlement.
-> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24; 2017, ch. 6, art. 83, ch. 8, art. 21 et 43; 2018, ch. 23, art. 22.
+> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24; 2017, ch. 6, art. 83, ch. 8, art. 21 et 43; 2018, ch. 23, art. 22
 
 
 
@@ -1833,7 +1833,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Fondements de la déclaration**
 
 - **(2)** La déclaration prévue au paragraphe (1) énonce les faits et les éléments de droit sur lesquels elle est fondée.
-> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 162; 2012, ch. 18, art. 26(F); 2018, ch. 23, art. 23.
+> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 162; 2012, ch. 18, art. 26(F); 2018, ch. 23, art. 23
 
 
 
@@ -1866,7 +1866,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Information préjudiciable en vertu de l’ALÉCA**
 
 - **(5)** Lorsque l’exportateur de marchandises d’un État de l’AELÉ convainc le ministre qu’il s’est fondé de bonne foi, à son détriment, sur une décision de l’Agence ou de l’administration douanière d’un État de l’AELÉ concernant le classement tarifaire ou la valeur d’une matière non originaire utilisée dans la production de marchandises, la révision de l’origine rendue par l’Agence en ce qui concerne les marchandises pour lesquelles le traitement tarifaire préférentiel est réclamé en vertu de l’ALÉCA ne s’appliquera qu’à des importations de marchandises effectuées après la date de la révision.
-> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 163; 2001, ch. 25, art. 34(F), ch. 28, art. 27; 2009, ch. 6, art. 25; 2014, ch. 14, art. 24.
+> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 163; 2001, ch. 25, art. 34(F), ch. 28, art. 27; 2009, ch. 6, art. 25; 2014, ch. 14, art. 24
 
 
 
@@ -1887,7 +1887,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Refus ou retrait : certains pays**
 
 - **(2)** Malgré l’article 24 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), le ministre peut refuser ou retirer, sous réserve des conditions réglementaires, le traitement tarifaire préférentiel prévu par un accord mentionné à la colonne 1 de la partie 2 de l’annexe à des marchandises pour lesquelles ce traitement est demandé dans le cas où l’exportateur, le producteur, ou l’importateur visé par règlement, des marchandises a fait de fausses déclarations sur l’application de ce traitement à des marchandises identiques exportées, produites ou importées par lui pour lesquelles ce traitement avait été demandé.
-> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 164; 2001, ch. 28, art. 27; 2009, ch. 16, art. 32; 2010, ch. 4, art. 26; 2012, ch. 18, art. 27; 2018, ch. 23, art. 24.
+> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 164; 2001, ch. 28, art. 27; 2009, ch. 16, art. 32; 2010, ch. 4, art. 26; 2012, ch. 18, art. 27; 2018, ch. 23, art. 24
 
 
 
@@ -1914,7 +1914,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Application de l’article 232 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)**
 
 - **(3)** Les définitions de ***avocat*** et de ***privilège des communications entre client et avocat*** données au paragraphe 232(1), ainsi que le paragraphe 232(2), de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent aux demandes visées au paragraphe (1) comme si, au paragraphe 232(2), le renvoi à l’article 231.2 de cette loi était un renvoi au présent article.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 43; 2000, ch. 30, art. 160; 2001, ch. 25, art. 35.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 43; 2000, ch. 30, art. 160; 2001, ch. 25, art. 35
 
 
 
@@ -1940,7 +1940,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **b)** leur modification ou annulation, y compris la prise d’effet rétroactive de la modification ou de l’annulation;
 	- **c)** le pouvoir de l’agent d’exiger, dans le cadre d’une demande de décision anticipée, des renseignements supplémentaires;
 	- **d)** les cas où peut être reporté ou refusé le prononcé d’une décision anticipée.
-> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F); 2005, ch. 38, art. 71; 2009, ch. 6, art. 26, ch. 16, art. 33 et 56; 2010, ch. 4, art. 27; 2012, ch. 18, art. 28.
+> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F); 2005, ch. 38, art. 71; 2009, ch. 6, art. 26, ch. 16, art. 33 et 56; 2010, ch. 4, art. 27; 2012, ch. 18, art. 28
 
 
 
@@ -1962,7 +1962,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Taux des droits ad valorem**
 
 **44** Les droits, sauf les droits et taxes prévus par la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), qui sont imposés sur des marchandises selon un certain pourcentage se calculent par l’application du taux à une valeur déterminée conformément aux articles 45 à 55.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 44; 2002, ch. 22, art. 335.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 44; 2002, ch. 22, art. 335
 
 
 
@@ -2031,7 +2031,7 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 	- **g)** deux personnes dont l’une contrôle l’autre directement ou indirectement;
 	- **h)** plusieurs personnes dont une même personne possède, détient ou contrôle directement ou indirectement au moins cinq pour cent des actions ou parts émises et assorties du droit de vote;
 	- **i)** deux personnes dont l’une possède, détient ou contrôle directement ou indirectement au moins cinq pour cent des actions ou parts émises et assorties du droit de vote de l’autre.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 45; 1995, ch. 41, art. 17; 2000, ch. 12, art. 96.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 45; 1995, ch. 41, art. 17; 2000, ch. 12, art. 96
 
 
 
@@ -2139,7 +2139,7 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 **Inexactitude des renseignements**
 
 - **(7)** L’agent qui, lors de l’appréciation de la valeur en douane de marchandises, a des motifs raisonnables de douter de l’exactitude des renseignements sur lesquels est fondée la détermination de la valeur transactionnelle des marchandises prévue au paragraphe (4) détermine, conformément à la procédure réglementaire, que le présent article ne peut s’appliquer à l’appréciation de la valeur en douane des marchandises.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 48; 1994, ch. 47, art. 71; 1995, ch. 41, art. 18; 2002, ch. 22, art. 336; 2009, ch. 10, art. 7; 2014, ch. 20, art. 366(A).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 48; 1994, ch. 47, art. 71; 1995, ch. 41, art. 18; 2002, ch. 22, art. 336; 2009, ch. 10, art. 72014, ch. 20, art. 366(A)
 
 
 
@@ -2177,7 +2177,7 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 **Choix de la moindre valeur transactionnelle de marchandises identiques**
 
 - **(5)** Lorsqu’il existe, dans l’appréciation des marchandises, plusieurs valeurs transactionnelles afférentes soit à des marchandises identiques qui remplissent les conditions visées aux paragraphes (1) et (3), soit, à défaut, à des marchandises identiques qui remplissent l’une des conditions visées aux alinéas (2)a) à c) en plus des autres exigences prévues par le présent article et applicables en vertu du paragraphe (2), la valeur en douane des marchandises à apprécier se fonde sur la moindre de ces valeurs transactionnelles.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 49; 2009, ch. 10, art. 8.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 49; 2009, ch. 10, art. 8
 
 
 
@@ -2198,7 +2198,7 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 **Applicabilité de l’article 49**
 
 - **(2)** Les paragraphes 49(2) à (5) s’appliquent aux situations prévues au présent article et, en ce qui a trait aux marchandises semblables, l’expression « marchandises identiques » figurant à ces paragraphes désigne alors des marchandises semblables.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 50; 2009, ch. 10, art. 9.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 50; 2009, ch. 10, art. 9
 
 
 
@@ -2248,7 +2248,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 - **(6)** Dans le présent article, la date de l’importation des marchandises est, selon le cas :
 	- **a)** à l’égard de marchandises autres que celles visées à l’alinéa 32(2)b), la date à laquelle leur dédouanement est autorisé en application de la présente loi par un agent ou selon les modalités réglementaires;
 	- **b)** à l’égard de marchandises visées à l’alinéa 32(2)b), la date de réception de celles-ci à l’établissement de l’importateur, du propriétaire ou du destinataire.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 51; 2001, ch. 25, art. 37.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 51; 2001, ch. 25, art. 37
 
 
 
@@ -2306,7 +2306,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 **Marchandises exportées au Canada en passant par un autre pays**
 
 **54** Pour l’application des articles 45 à 55, les marchandises provenant d’un pays qui sont exportées au Canada en passant par un autre pays sont considérées, sous réserve des conditions réglementaires, comme ayant été expédiées directement au Canada à partir du premier pays.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 54; 2001, ch. 25, art. 38(F).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 54; 2001, ch. 25, art. 38(F)
 
 
 
@@ -2350,7 +2350,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 **Décision présumée**
 
 - **(2)** Dans le cas où l’agent ne rend pas sa décision au plus tard au moment de la déclaration en détail des marchandises prévue aux paragraphes 32(1), (3) ou (5), celles-ci sont réputées marquées conformément à l’article 35.01 sur le fondement des déclarations faites par l’auteur de la déclaration en détail.
-> 1993, ch. 44, art. 88; 1997, ch. 36, art. 165; 2001, ch. 25, art. 39; 2005, ch. 38, art. 72.
+> 1993, ch. 44, art. 88; 1997, ch. 36, art. 165; 2001, ch. 25, art. 39; 2005, ch. 38, art. 72
 
 
 
@@ -2366,7 +2366,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 - **a)** l’origine des marchandises importées est déterminée conformément à l’article 16 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et aux règlements d’application de cet article;
 - **b)** le classement tarifaire des marchandises importées est déterminé conformément aux articles 10 et 11 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), sauf indication contraire de cette loi;
 - **c)** la valeur en douane des marchandises importées est déterminée conformément aux articles 47 à 55 de la présente loi et à l’article 87 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
-> 1988, ch. 65, art. 70; 1997, ch. 36, art. 166; 2001, ch. 25, art. 40.
+> 1988, ch. 65, art. 70; 1997, ch. 36, art. 166; 2001, ch. 25, art. 40
 
 
 
@@ -2389,7 +2389,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 **Intervention à l’égard d’une détermination**
 
 - **(3)** La détermination faite en vertu du présent article n’est susceptible de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues aux articles 59 à 61.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 58; 1992, ch. 28, art. 11; 1997, ch. 36, art. 166; 2005, ch. 38, art. 73.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 58; 1992, ch. 28, art. 11; 1997, ch. 36, art. 166; 2005, ch. 38, art. 73
 
 
 
@@ -2426,7 +2426,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 **Intervention à l’égard d’une révision ou d’un réexamen**
 
 - **(6)** La révision ou le réexamen fait en vertu du présent article ne sont susceptibles de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues au paragraphe 59(1) ou aux articles 60 ou 61.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 59; 1997, ch. 36, art. 166; 2001, ch. 25, art. 41; 2005, ch. 38, art. 74.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 59; 1997, ch. 36, art. 166; 2001, ch. 25, art. 41; 2005, ch. 38, art. 74
 
 
 
@@ -2460,7 +2460,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 **Avis de la décision**
 
 - **(5)** Le président donne avis au demandeur, sans délai, de la décision qu’il a prise en application du paragraphe (4), motifs à l’appui.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 60; 1992, ch. 28, art. 12; 1997, ch. 36, art. 166; 1999, ch. 17, art. 127; 2001, ch. 25, art. 42; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 60; 1992, ch. 28, art. 12; 1997, ch. 36, art. 166; 1999, ch. 17, art. 127; 2001, ch. 25, art. 42; 2005, ch. 38, art. 85
 
 
 
@@ -2496,7 +2496,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 		- **(i)** au cours du délai prévu à l’article 60, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de présenter une demande de révision ou de réexamen,
 		- **(ii)** il serait juste et équitable de faire droit à la demande de prorogation,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 43; 2005, ch. 38, art. 85.
+> 2001, ch. 25, art. 43; 2005, ch. 38, art. 85
 
 
 
@@ -2527,7 +2527,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 		- **(i)** au cours du délai prévu à l’article 60, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de présenter une demande de révision ou de réexamen,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 43; 2005, ch. 38, art. 85; 2014, ch. 20, art. 446.
+> 2001, ch. 25, art. 43; 2005, ch. 38, art. 85; 2014, ch. 20, art. 446
 
 
 
@@ -2554,7 +2554,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Avis de la décision**
 
 - **(2)** Le président qui procède à une révision ou à un réexamen en application du présent article donne sans délai avis de sa décision, motifs à l’appui, aux personnes visées par règlement.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 61; 1992, ch. 28, art. 13; 1993, ch. 44, art. 92; 1997, ch. 36, art. 166; 1999, ch. 17, art. 127; 2001, ch. 25, art. 44; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 61; 1992, ch. 28, art. 13; 1993, ch. 44, art. 92; 1997, ch. 36, art. 166; 1999, ch. 17, art. 127; 2001, ch. 25, art. 44; 2005, ch. 38, art. 85
 
 
 
@@ -2563,7 +2563,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Intervention à l’égard d’une révision**
 
 **62** La révision ou le réexamen prévu aux articles 60 ou 61 n’est susceptible de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues à l’article 67.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 62; 1992, ch. 28, art. 14; 1993, ch. 44, art. 93; 1997, ch. 36, art. 166.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 62; 1992, ch. 28, art. 14; 1993, ch. 44, art. 93; 1997, ch. 36, art. 166
 
 
 
@@ -2586,7 +2586,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 - **(2)** Les sommes qu’une personne doit ou qui lui sont dues en application des paragraphes (1) ou 66(3) ou suite à une décision, une révision ou un réexamen faits en vertu de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) sur des marchandises, à l’exception des sommes pour lesquelles une garantie a été donnée, sont à payer immédiatement, même si appel a été interjeté en vertu de l’article 67 de la présente loi ou du paragraphe 61(1) de cette loi.
 
 - **(3)** [Abrogé, 1997, ch. 36, art. 167]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 65; 1992, ch. 28, art. 16; 1993, ch. 44, art. 96(A); 1997, ch. 36, art. 167; 2001, ch. 25, art. 45.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 65; 1992, ch. 28, art. 16; 1993, ch. 44, art. 96(A); 1997, ch. 36, art. 167; 2001, ch. 25, art. 45
 
 
 
@@ -2605,7 +2605,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Conformité des marques**
 
 - **(3)** Le présent article ne s’applique pas aux décisions qui portent sur la conformité des marques.
-> 1992, ch. 28, art. 17; 1997, ch. 36, art. 168; 2001, ch. 25, art. 46.
+> 1992, ch. 28, art. 17; 1997, ch. 36, art. 168; 2001, ch. 25, art. 46
 
 
 
@@ -2624,7 +2624,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Intérêts reçus avec le remboursement d’excédents**
 
 - **(3)** Quiconque reçoit un remboursement en vertu des alinéas 59(3)b) ou 65(1)b) de la présente loi ou en vertu de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) reçoit, en plus du remboursement, des intérêts au taux réglementaire, calculés sur les excédents pour la période commençant le lendemain du versement des excédents et se terminant le jour de leur remboursement.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 66; 1992, ch. 28, art. 18; 1997, ch. 36, art. 168; 2001, ch. 25, art. 47.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 66; 1992, ch. 28, art. 18; 1997, ch. 36, art. 168; 2001, ch. 25, art. 47
 
 
 
@@ -2642,12 +2642,12 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **Publication de l’avis d’appel**
 
-- **(2)** Avant de se prononcer sur l’appel prévu par le présent article, le Tribunal canadien du commerce extérieur tient une audience sur préavis d’au moins vingt et un jours publié dans la Gazette du Canada, et toute personne peut être entendue à l’appel si, au plus tard le jour de l’audience, elle a remis un acte de comparution au Tribunal.
+- **(2)** Avant de se prononcer sur l’appel prévu par le présent article, le Tribunal canadien du commerce extérieur tient une audience sur préavis d’au moins vingt et un jours publié dans la [Gazette du Canada](http://www.gazette.gc.ca/), et toute personne peut être entendue à l’appel si, au plus tard le jour de l’audience, elle a remis un acte de comparution au Tribunal.
 
 **Recours judiciaire**
 
 - **(3)** Le Tribunal canadien du commerce extérieur peut statuer sur l’appel prévu au paragraphe (1), selon la nature de l’espèce, par ordonnance, constatation ou déclaration, celles-ci n’étant susceptibles de recours, de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues à l’article 68.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 67, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 169; 1999, ch. 17, art. 127; 2001, ch. 25, art. 48(F); 2005, ch. 38, art. 85; 2014, ch. 20, art. 446.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 67, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 169; 1999, ch. 17, art. 127; 2001, ch. 25, art. 48(F); 2005, ch. 38, art. 85; 2014, ch. 20, art. 446
 
 
 
@@ -2676,7 +2676,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible,
 		- **(iv)** l’appel est fondé sur des motifs raisonnables.
-> 2001, ch. 25, art. 49; 2005, ch. 38, art. 85; 2014, ch. 20, art. 446.
+> 2001, ch. 25, art. 49; 2005, ch. 38, art. 85; 2014, ch. 20, art. 446
 
 
 
@@ -2694,7 +2694,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Issue du recours**
 
 - **(2)** La Cour d’appel fédérale peut statuer sur le recours, selon la nature de l’espèce, par ordonnance ou constatation, ou renvoyer l’affaire au Tribunal canadien du commerce extérieur pour une nouvelle audience.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 68, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1995, ch. 41, art. 20; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 68, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1995, ch. 41, art. 20; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85
 
 
 
@@ -2711,7 +2711,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 - **(2)** Le bénéficiaire d’un remboursement prévu au paragraphe (1) :
 	- **a)** dans le cas où, à la suite d’une révision ou d’un réexamen effectué par le président en vertu du sous-alinéa 61(1)a)(iii), une fraction de la somme remboursée devient due à titre de droits et d’intérêts, paie des intérêts au taux réglementaire, calculés sur les arriérés pour la période commençant le lendemain de l’octroi du remboursement et se terminant le jour du paiement intégral de la fraction due; toutefois, nul intérêt n’est payable sur les arriérés pour la période allant de la révision ou du réexamen jusqu’au versement de la fraction due si celle-ci est versée dans les trente jours suivant la révision ou le réexamen;
 	- **b)** dans le cas où, à la suite d’une révision ou d’un réexamen effectué par le président en vertu du sous-alinéa 61(1)a)(iii), la totalité ou une fraction de la somme remboursée n’est pas due à titre de droits et d’intérêts, reçoit des intérêts au taux réglementaire, calculés sur la somme non due pour la période commençant le lendemain du versement par le bénéficiaire de cette somme et se terminant le jour de son remboursement.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 69, ch. 1 (4<sup>e</sup> suppl.), art. 45(F); 1992, ch. 28, art. 19; 1997, ch. 36, art. 170; 1999, ch. 17, art. 127; 2001, ch. 25, art. 50(F); 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 69, ch. 1 (4<sup>e</sup> suppl.), art. 45(F); 1992, ch. 28, art. 19; 1997, ch. 36, art. 170; 1999, ch. 17, art. 127; 2001, ch. 25, art. 50(F); 2005, ch. 38, art. 85
 
 
 
@@ -2726,7 +2726,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Idem**
 
 - **(2)** Les articles 67 et 68 s’appliquent aux consultations visées au présent article comme s’il s’agissait des appels visés à l’article 67.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 70, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 171; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 70, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 171; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85
 
 
 
@@ -2758,7 +2758,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 - **e)** [Abrogé, 1992, ch. 51, art. 44]
 - **f)** dans la province de Terre-Neuve-et-Labrador, la Section de première instance de la Cour suprême;
 - **g)** au Nunavut, la Cour de justice. (*court*)
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 71, ch. 41 (3<sup>e</sup> suppl.), art. 120, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1990, ch. 16, art. 8, ch. 17, art. 16; 1992, ch. 1, art. 61, ch. 51, art. 44; 1997, ch. 36, art. 172; 1998, ch. 30, art. 12, 14; 1999, ch. 3, art. 59; 2002, ch. 7, art. 152; 2014, ch. 20, art. 445; 2015, ch. 3, art. 61.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 71, ch. 41 (3<sup>e</sup> suppl.), art. 120, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1990, ch. 16, art. 8, ch. 17, art. 16; 1992, ch. 1, art. 61, ch. 51, art. 44; 1997, ch. 36, art. 172; 1998, ch. 30, art. 12, 14; 1999, ch. 3, art. 59; 2002, ch. 7, art. 152; 2014, ch. 20, art. 445; 2015, ch. 3, art. 61
 
 
 
@@ -2767,7 +2767,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Garanties non admissibles**
 
 **72** Il ne peut être donné de garanties en application des alinéas 59(3)a) ou 65(1)a) ou du paragraphe 69(1) pour des montants dus à titre de surtaxes imposées en vertu des articles 53, 55, 60, 63, 68 ou 78 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de droits temporaires imposés en vertu de l’un ou l’autre des articles 69 à 76 de cette loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 72, ch. 41 (3<sup>e</sup> suppl.), art. 121; 1988, ch. 65, art. 71; 1993, ch. 44, art. 97; 1996, ch. 33, art. 35; 1997, ch. 14, art. 42, ch. 36, art. 173.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 72, ch. 41 (3<sup>e</sup> suppl.), art. 121; 1988, ch. 65, art. 71; 1993, ch. 44, art. 97; 1996, ch. 33, art. 35; 1997, ch. 14, art. 42, ch. 36, art. 173
 
 
 
@@ -2778,7 +2778,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **72.1** Les révisions ou réexamens, prévus au paragraphe 59(1) ou aux articles 60 ou 61, du classement tarifaire de marchandises importées, classées dans la position n<sup>o</sup> 98.26 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), sont restreints aux cas suivants :
 - **a)** le classement des marchandises dans un autre numéro tarifaire de cette position;
 - **b)** le classement dans un numéro tarifaire des Chapitres 1 à 97 de cette liste de toutes les marchandises faisant l’objet de la même déclaration en détail.
-> 1990, ch. 36, art. 1; 1997, ch. 36, art. 173.
+> 1990, ch. 36, art. 1; 1997, ch. 36, art. 173
 
 
 
@@ -2863,7 +2863,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Affectation du remboursement**
 
 - **(8)** Une personne d’une catégorie réglementaire peut, dans les quatre ans suivant la déclaration en détail prévue aux paragraphes 32(1), (3) ou (5), dans les cas et aux conditions réglementaires, affecter le montant d’un remboursement auquel elle a droit en vertu du présent article au paiement d’une somme dont elle est redevable ou dont elle peut devenir redevable au titre de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 74; 1988, ch. 65, art. 72; 1993, ch. 44, art. 98; 1996, ch. 33, art. 36; 1997, ch. 14, art. 43, ch. 36, art. 175; 1999, ch. 31, art. 71(F); 2001, ch. 25, art. 51, ch. 28, art. 29; 2002, ch. 22, art. 337; 2009, ch. 6, art. 27, ch. 16, art. 34 et 56; 2010, ch. 4, art. 28; 2012, ch. 18, art. 29.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 74; 1988, ch. 65, art. 72; 1993, ch. 44, art. 98; 1996, ch. 33, art. 36; 1997, ch. 14, art. 43, ch. 36, art. 175; 1999, ch. 31, art. 71(F); 2001, ch. 25, art. 51, ch. 28, art. 29; 2002, ch. 22, art. 337; 2009, ch. 6, art. 27, ch. 16, art. 34 et 56; 2010, ch. 4, art. 28; 2012, ch. 18, art. 29
 
 
 
@@ -2895,7 +2895,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Application des paragraphes 74(2) et (3) et 75(1)**
 
 - **(2)** Les paragraphes 74(2) et (3) et 75(1) s’appliquent, compte tenu des adaptations de circonstance, aux remboursements visés au présent article.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 76; 2001, ch. 25, art. 52(F).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 76; 2001, ch. 25, art. 52(F)
 
 
 
@@ -2908,7 +2908,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Résidus ou déchets vendables**
 
 **78** Dans les circonstances prévues par règlement, le montant des abattements ou remboursements accordés en vertu de la présente loi pour des marchandises en raison de leur destruction, de leur incorporation à d’autres marchandises ou d’une destination particulière subit, lorsque cette destruction, incorporation ou destination donne lieu à des résidus, déchets ou sous-produits vendables, une réduction déterminée selon les modalités réglementaires.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 78; 1992, ch. 1, art. 144(F).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 78; 1992, ch. 1, art. 144(F)
 
 
 
@@ -2924,7 +2924,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Exclusion**
 
 **79.1** Les remboursements de montants payés au titre de la taxe perçue en application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ne sont pas compris parmi les abattements et remboursements visés aux articles 78 et 79.
-> 1990, ch. 45, art. 20.
+> 1990, ch. 45, art. 20
 
 
 
@@ -2933,7 +2933,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Intérêts sur remboursements**
 
 **80** Les bénéficiaires de remboursements de droits prévus aux articles 74, 76 ou 79 reçoivent, en plus des remboursements, des intérêts au taux réglementaire, calculés sur ces remboursements pour la période commençant le quatre-vingt-onzième jour suivant la réception de la demande de remboursement conforme à l’alinéa 74(3)b) et se terminant le jour de l’octroi des remboursements.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 80; 1992, ch. 28, art. 20; 1997, ch. 36, art. 178; 2001, ch. 25, art. 53.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 80; 1992, ch. 28, art. 20; 1997, ch. 36, art. 178; 2001, ch. 25, art. 53
 
 
 
@@ -2942,7 +2942,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Intérêts sur les remboursements déjà octroyés**
 
 **80.1** Malgré le paragraphe 80(1), quiconque reçoit, en vertu de l’alinéa 74(1)g), un remboursement de droits en raison de la réduction des droits de douane en application d’un décret ou d’un règlement rétroactif pris par le gouverneur en conseil en application du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) reçoit, en plus du remboursement, des intérêts au taux réglementaire, calculés sur le remboursement pour la période commençant le lendemain du versement des droits et se terminant le jour de l’octroi du remboursement.
-> 1990, ch. 36, art. 3; 1992, ch. 28, art. 21; 1997, ch. 36, art. 179.
+> 1990, ch. 36, art. 3; 1992, ch. 28, art. 21; 1997, ch. 36, art. 179
 
 
 
@@ -2959,7 +2959,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 - **(2)** Dans le cas où les marchandises sont vendues, cédées ou affectées à un usage non conforme aux conditions imposées au titre d’un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou au titre de règlements pris en vertu de cette loi à l’égard d’un numéro tarifaire de cette liste, la personne qui reçoit un abattement ou un remboursement visé à l’alinéa 74(1)f) est tenue, dans les quatre-vingt-dix jours suivant le manquement :
 	- **a)** de signaler celui-ci à un agent d’un bureau de douane;
 	- **b)** de payer à Sa Majesté du chef du Canada la somme à laquelle elle n’avait pas droit et les intérêts qui lui ont été versés en application des articles 80 ou 80.1 sur cette somme.
-> 1997, ch. 36, art. 180; 2001, ch. 25, art. 54.
+> 1997, ch. 36, art. 180; 2001, ch. 25, art. 54
 
 
 
@@ -3004,7 +3004,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 	- **a)** désignant les sources auprès desquelles les renseignements peuvent être recueillis;
 	- **b)** concernant les circonstances dans lesquelles les renseignements peuvent être recueillis;
 	- **c)** concernant les délais et modalités de collecte des renseignements.
-> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 92; 1995, ch. 41, art. 24; 2018, ch. 30, art. 2.
+> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 92; 1995, ch. 41, art. 242018, ch. 30, art. 2
 
 
 
@@ -3041,7 +3041,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 	- **c)** prévoyant les personnes ou catégories de personnes tenues de fournir les renseignements en application de ce paragraphe;
 	- **d)** concernant les circonstances dans lesquelles les renseignements doivent être fournis en application de ce paragraphe;
 	- **e)** concernant les délais et modalités de fourniture des renseignements visés à ce paragraphe.
-> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 93; 1992, ch. 28, art. 24; 1993, ch. 25, art. 79; 1995, ch. 41, art. 25; 1997, ch. 36, art. 181; 2018, ch. 30, art. 2.
+> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 93; 1992, ch. 28, art. 24; 1993, ch. 25, art. 79; 1995, ch. 41, art. 25; 1997, ch. 36, art. 1812018, ch. 30, art. 2
 
 
 
@@ -3050,7 +3050,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Conservation des renseignements recueillis**
 
 **93.1** Sous réserve de l’article 6 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), les renseignements recueillis au titre des articles 92 et 93 sont conservés par l’Agence pour une période maximale de quinze ans à compter de la date à laquelle ils sont recueillis.
-> 2018, ch. 30, art. 2.
+> 2018, ch. 30, art. 2
 
 
 
@@ -3059,7 +3059,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Obligation de répondre aux questions**
 
 **94** La personne quittant le Canada est tenue, à la demande de tout agent, de se présenter devant un agent et de répondre véridiquement aux questions qu’un agent lui pose dans l’exercice des fonctions qui lui sont conférées sous le régime de la présente loi ou d’une autre loi fédérale.
-> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 94; 1995, ch. 41, art. 26; 1997, ch. 36, art. 181; 2018, ch. 30, art. 2.
+> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 94; 1995, ch. 41, art. 26; 1997, ch. 36, art. 1812018, ch. 30, art. 2
 
 
 
@@ -3108,7 +3108,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Déclaration écrite**
 
 - **(4)** Les déclarations de marchandises à faire par écrit sont à établir avec les renseignements et en la forme réglementaires ou satisfaisants pour le ministre.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 95; 2001, ch. 25, art. 55; 2017, ch. 11, art. 7; 2018, ch. 30, art. 3.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 95; 2001, ch. 25, art. 552017, ch. 11, art. 72018, ch. 30, art. 3
 
 
 
@@ -3127,7 +3127,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Règlements**
 
 - **(3)** Le gouverneur en conseil peut par règlement, sous réserve des conditions qui y sont prévues, exempter des personnes ou des marchandises, individuellement ou par catégorie, de l’application du paragraphe (1).
-> 1988, ch. 65, art. 77.
+> 1988, ch. 65, art. 77
 
 
 
@@ -3168,7 +3168,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Modification du certificat**
 
 - **(3)** La personne qui a rempli et signé le certificat et qui a des motifs de croire que celui-ci contient des renseignements inexacts communique sans délai à tout destinataire du certificat les renseignements corrigés.
-> 1988, ch. 65, art. 78; 1997, ch. 14, art. 44; 2001, ch. 25, art. 56(F); 2018, ch. 23, art. 25.
+> 1988, ch. 65, art. 78; 1997, ch. 14, art. 44; 2001, ch. 25, art. 56(F); 2018, ch. 23, art. 25
 
 
 
@@ -3187,7 +3187,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Idem**
 
 - **(2)** Le paragraphe 40(2) et les articles 42 et 43 s’appliquent, compte tenu des adaptations de circonstance, à la personne tenue de conserver des documents en vertu du paragraphe (1).
-> 1988, ch. 65, art. 78; 1993, ch. 44, art. 104; 1996, ch. 33, art. 38; 1997, ch. 14, art. 45; 2001, ch. 25, art. 57; 2018, ch. 23, art. 26.
+> 1988, ch. 65, art. 78; 1993, ch. 44, art. 104; 1996, ch. 33, art. 38; 1997, ch. 14, art. 45; 2001, ch. 25, art. 57; 2018, ch. 23, art. 26
 
 
 
@@ -3221,7 +3221,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Décision assimilée à la révision**
 
 - **(5)** Pour l’application de la présente loi, la décision prise en application de l’alinéa (3)b) est assimilée à la révision prévue à l’alinéa 59(1)a).
-> 2009, ch. 6, art. 28; 2017, ch. 6, art. 84, ch. 8, art. 22 et 43.
+> 2009, ch. 6, art. 28; 2017, ch. 6, art. 84, ch. 8, art. 22 et 43
 
 
 
@@ -3256,7 +3256,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 - **e)** est nommée à titre de curateur ou de tuteur aux biens d’un incapable.
 
 Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un créancier, en vertu d’un titre de créance, de gérer ou d’exploiter l’entreprise ou le bien d’un tiers, le créancier étant dès lors exclu. (*receiver*)
-> 2001, ch. 25, art. 58; 2005, ch. 38, art. 75.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 75
 
 
 
@@ -3276,8 +3276,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Publication**
 
-- **(2)** Tout décret pris pour l’application du paragraphe (1) est publié dans la partie II de la Gazette du Canada dans les meilleurs délais suivant sa prise.
-> 2005, ch. 38, art. 76 et 145.
+- **(2)** Tout décret pris pour l’application du paragraphe (1) est publié dans la partie II de la [Gazette du Canada](http://www.gazette.gc.ca/) dans les meilleurs délais suivant sa prise.
+> 2005, ch. 38, art. 76 et 145
 
 
 
@@ -3312,7 +3312,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Intérêts sur jugements**
 
 - **(6)** Les dispositions de la présente loi prévoyant le versement d’intérêts sur les paiements en souffrance s’appliquent, avec les adaptations nécessaires, à toute somme adjugée par un tribunal en vertu de la présente loi, notamment par certificat enregistré aux termes de l’article 97.24. Les intérêts sont recouvrables de la même manière que le principal.
-> 2001, ch. 25, art. 58; 2005, ch. 38, art. 77, 84 et 145.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 77, 84 et 145
 
 
 
@@ -3323,7 +3323,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **97.23** Le destinataire de l’avis visé au paragraphe 97.22(1) peut en appeler, dans les trente jours suivant l’envoi de l’avis, par voie d’action devant la Cour fédérale, à titre de demandeur, le ministre de la Sécurité publique et de la Protection civile étant le défendeur, si :
 - **a)** d’une part, il ne peut ou n’a pu, en l’espèce, se prévaloir du droit d’appel ou de recours prévu aux articles 67 ou 68;
 - **b)** d’autre part, l’avis ne concerne pas une cotisation visée à l’article 97.44.
-> 2001, ch. 25, art. 58; 2005, ch. 38, art. 84 et 145.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 84 et 145
 
 
 
@@ -3418,7 +3418,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 ***extrait*** Document délivré par la Cour fédérale et faisant preuve du contenu d’un certificat enregistré à l’égard d’un débiteur en vertu du paragraphe (2), notamment un bref de cette cour délivré au titre du certificat ou toute notification du document ou du bref. (*memorial*)
 
 ***enregistrement*** À l’égard d’un extrait, sont assimilés à l’enregistrement le dépôt et toute autre forme d’inscription. (*record*)
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3450,7 +3450,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Produit de la vente**
 
 - **(4)** Le produit de la vente est affecté au paiement des sommes dont le débiteur est redevable, des frais supportés par Sa Majesté du chef du Canada relativement aux marchandises vendues et des droits frappant celles-ci, le solde éventuel étant versé au débiteur.
-> 2001, ch. 25, art. 58; 2007, ch. 18, art. 136; 2010, ch. 12, art. 49; 2018, ch. 30, art. 4.
+> 2001, ch. 25, art. 58; 2007, ch. 18, art. 136; 2010, ch. 12, art. 492018, ch. 30, art. 4
 
 
 
@@ -3459,7 +3459,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Déduction ou compensation**
 
 **97.26** Le ministre peut exiger la retenue, aux fins de déduction ou de compensation, de toute somme qu’il précise sur les sommes dues à un débiteur par Sa Majesté du chef du Canada. La somme à payer à une personne au titre d’une disposition de la présente loi qui fait l’objet d’une telle retenue à un moment donné est réputée avoir été, à ce moment, versée au débiteur au titre de cette disposition et restituée par lui au titre de sa dette envers Sa Majesté.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3468,7 +3468,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Imputation d’un drawback, remboursement, etc.**
 
 **97.27** Le ministre de la Sécurité publique et de la Protection civile peut imputer le montant d’un drawback, d’un remboursement ou d’une exonération en vertu des articles 74 ou 76 de la présente loi ou des articles 89, 101 ou 113 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) sur toute somme dont une personne est redevable à Sa Majesté du chef du Canada ou du chef d’une province ou sur le point de l’être.
-> 2001, ch. 25, art. 58; 2005, ch. 38, art. 84 et 145.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 84 et 145
 
 
 
@@ -3526,7 +3526,7 @@ La somme ainsi versée est réputée avoir été prêtée, avancée ou payée au
 **Application à Sa Majesté du chef d’une province**
 
 - **(10)** Les dispositions de la présente partie prévoyant le paiement au receveur général, sur l’ordre du ministre, d’une somme qui serait par ailleurs prêtée, avancée ou payée soit à un débiteur aux termes de la présente partie, soit à son créancier garanti, s’appliquent à Sa Majesté du chef d’une province.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3579,7 +3579,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 ***conjoint de fait*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), la mention de « contribuable » valant mention de « débiteur ». (*common-law partner*)
 
 ***union de fait*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*common-law partnership*)
-> 2001, ch. 25, art. 58; 2002, ch. 22, art. 408.
+> 2001, ch. 25, art. 58; 2002, ch. 22, art. 408
 
 
 
@@ -3592,7 +3592,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Acquisition de biens du débiteur**
 
 **97.3** Pour recouvrer des sommes contre un débiteur, le ministre peut acheter ou autrement acquérir — et aliéner de la manière qu’il estime raisonnable — des droits sur les biens du débiteur que le ministre obtient le droit d’acquérir par suite de procédures judiciaires ou conformément à l’ordonnance d’un tribunal, ou qui sont offerts en vente ou peuvent être rachetés.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3607,7 +3607,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Récépissé du ministre**
 
 - **(2)** Le récépissé du ministre relatif aux sommes versées constitue une quittance valable et suffisante de l’obligation de restituer les sommes jusqu’à concurrence du versement.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3634,7 +3634,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Restriction**
 
 - **(5)** Le présent article ne s’applique pas aux biens mobiliers qui seraient insaisissables malgré la délivrance d’un bref d’exécution par une cour supérieure de la province dans laquelle la saisie est opérée.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3649,7 +3649,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Défaut de payer**
 
 - **(2)** Le ministre peut ordonner la saisie des biens mobiliers du débiteur, auquel cas les paragraphes 97.32(2) à (5) s’appliquent.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3689,7 +3689,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Garantie**
 
 - **(5)** Le ministre ne peut, pour recouvrer tout ou partie d’une somme à payer en vertu de la présente loi, prendre une mesure visée au paragraphe (1) si le débiteur a fourni au ministre de la Sécurité publique et de la Protection civile une garantie en présentant sa demande ou en interjetant appel de la décision de celui-ci ou de celle du président.
-> 2001, ch. 25, art. 58; 2002, ch. 8, art. 193; 2005, ch. 38, art. 78, 85 et 145.
+> 2001, ch. 25, art. 58; 2002, ch. 8, art. 193; 2005, ch. 38, art. 78, 85 et 145
 
 
 
@@ -3746,7 +3746,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Ordonnance sans appel**
 
 - **(12)** L’ordonnance visée au paragraphe (10) est sans appel.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3776,7 +3776,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Définition de failli**
 
 - **(2)** Au présent article, ***failli*** s’entend au sens du paragraphe 2(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
-> 2001, ch. 25, art. 58; 2004, ch. 25, art. 196.
+> 2001, ch. 25, art. 58; 2004, ch. 25, art. 196
 
 
 
@@ -3807,7 +3807,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 		- **(ii)** le paiement de toute somme par le séquestre ou la personne au titre de l’obligation éteint d’autant l’obligation;
 	- **e)** le séquestre est tenu de remplir, concernant l’actif pertinent pour la période où il agit à ce titre, les obligations qui incombent à la personne, comme si l’actif pertinent représentait les seuls biens, entreprises, affaires ou éléments d’actif de la personne;
 	- **f)** sauf renonciation écrite du ministre, le séquestre est tenu de remplir les obligations qui incombaient à la personne au titre de la présente loi avant la période où il agit à ce titre et que cette dernière n’a pas encore remplies à la date en question concernant les entreprises, les biens, les affaires ou les éléments d’actif de la personne qui auraient constitué l’actif pertinent si le séquestre avait agi à ce titre à leur égard.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3840,7 +3840,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Activités du fiduciaire**
 
 - **(5)** Pour l’application de la présente loi, tout acte accompli par la personne qui agit à titre de fiduciaire d’une fiducie est réputé accompli par la fiducie et non par cette personne.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3867,7 +3867,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Responsabilité**
 
 - **(4)** Le séquestre ou le représentant qui distribue des biens ou de l’argent sans obtenir le certificat requis concernant les sommes visées aux paragraphes (2) ou (3) est personnellement tenu au paiement de ces sommes jusqu’à concurrence de la valeur des biens ou de l’argent ainsi distribués.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3886,7 +3886,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Limite**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la fusion de personnes morales par suite soit de l’acquisition des biens d’une personne morale par une autre après l’achat de ces biens par celle-ci, soit de la distribution des biens à l’autre personne morale par suite de la liquidation de la première.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3895,7 +3895,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Liquidation**
 
 **97.41** Pour l’application de la présente loi, lorsqu’est liquidée une personne morale dont au moins 90 % des actions émises de chaque catégorie du capital-actions étaient la propriété d’une autre personne morale immédiatement avant la liquidation, l’autre personne morale est réputée être la même personne que celle qui est liquidée et en être le prolongement.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3918,7 +3918,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 		- **(i)** l’associé n’est tenu au paiement des sommes devenues exigibles avant cette période que jusqu’à concurrence des biens et de l’argent qui sont réputés être ceux de la société au regard des lois qui sont en vigueur dans la province dont relève la société,
 		- **(ii)** le paiement par la société ou par un de ses associés d’une somme au titre de l’obligation réduit d’autant la responsabilité solidaire;
 	- **b)** les autres obligations incombant à la société au titre de la présente loi survenues avant ou pendant la période visée à l’alinéa a) ou, si l’associé fait partie de la société au moment de la dissolution de celle-ci, les obligations qui découlent de cette dissolution.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3935,7 +3935,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 - **b)** si l’entité ne comporte pas de tels cadres, chaque membre de l’organe chargé d’administrer ses affaires;
 - **c)** si l’entité ne comporte pas de tels cadres ni de tel organe, chacun de ses membres.
 Le paiement ou l’exécution peut validement être fait par n’importe quel membre de l’entité.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -3982,7 +3982,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 **Révocation de la renonciation**
 
 - **(6)** La renonciation est révocable par son auteur sur préavis de six mois au ministre en la forme déterminée par celui-ci.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4001,7 +4001,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 **Irrégularités**
 
 - **(3)** L’appel d’une cotisation ne peut être accueilli au seul motif d’irrégularité, de vice de forme, d’omission ou d’erreur de la part d’une personne dans le cadre de l’application d’une disposition indicative de la présente partie.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4010,7 +4010,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 **Avis de cotisation**
 
 **97.46** Après avoir établi une cotisation à l’égard d’une personne, le ministre lui envoie un avis de cotisation.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4029,7 +4029,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 **Garantie pour opposition ou appel**
 
 - **(3)** Dans le cas où une personne fait opposition à une cotisation ou en interjette appel en vertu de la présente partie, le ministre doit accepter la garantie, d’un montant et sous une forme acceptables pour lui, qui lui est donnée par cette personne ou en son nom pour le paiement d’un montant en litige.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4085,7 +4085,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 **Avis de décision**
 
 - **(10)** Après avoir examiné de nouveau ou confirmé la cotisation, le ministre fait part de sa décision en envoyant un avis écrit à la personne qui a fait opposition.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4096,7 +4096,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 **97.49** La personne qui a présenté un avis d’opposition à une cotisation et à qui le ministre a envoyé un avis de nouvelle cotisation ou de cotisation supplémentaire concernant l’objet de l’avis d’opposition peut, dans les quatre-vingt-dix jours suivant cet envoi :
 - **a)** soit interjeter appel à la Cour canadienne de l’impôt;
 - **b)** soit, si un appel a déjà été interjeté, modifier cet appel en y joignant un appel concernant la nouvelle cotisation ou la cotisation supplémentaire, en la forme et selon les modalités fixées par cette cour.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4136,7 +4136,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 		- **(i)** dans le délai d’opposition par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention de faire opposition à la cotisation,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 58; 2005, ch. 38, art. 79.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 79
 
 
 
@@ -4171,7 +4171,7 @@ En cas d’application de l’alinéa a), la demande ne peut être présentée a
 		- **(i)** dans le délai d’opposition par ailleurs imparti par la présente partie, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention de faire opposition à la cotisation,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande fondée sur le paragraphe 97.5(1) a été présentée dès que possible.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4204,7 +4204,7 @@ En cas d’application de l’alinéa a), la demande ne peut être présentée a
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible,
 		- **(iv)** l’appel est fondé sur des motifs raisonnables.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4216,7 +4216,7 @@ En cas d’application de l’alinéa a), la demande ne peut être présentée a
 - **a)** la cotisation est confirmée par le ministre ou une nouvelle cotisation est établie;
 - **b)** un délai de cent quatre-vingt jours s’est écoulé depuis la production de l’avis d’opposition sans que le ministre n’ait notifié la personne du fait qu’il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
 En cas d’application de l’alinéa a), nul appel ne peut être interjeté après l’expiration d’un délai de quatre-vingt-dix jours suivant l’envoi d’un avis à la personne aux termes du paragraphe 97.48(10).
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4234,7 +4234,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Restriction**
 
 - **(2)** Malgré les articles 97.49 et 97.53, aucun appel ne peut être interjeté à la Cour canadienne de l’impôt pour faire annuler ou modifier une cotisation visant une question pour laquelle la personne a renoncé par écrit à son droit d’opposition ou d’appel.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4243,7 +4243,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Modalités de l’appel**
 
 **97.55** L’appel à la Cour canadienne de l’impôt fondé sur la présente partie est interjeté selon les modalités indiquées dans la [Loi sur la Cour canadienne de l’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-2.md) ou ses règlements d’application, sauf s’il s’agit d’un appel visé à l’article 18.3001 de cette loi.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4258,7 +4258,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Avis à la Cour canadienne de l’impôt**
 
 - **(2)** Immédiatement après avoir reçu l’avis d’appel, le commissaire adresse à la Cour canadienne de l’impôt et à l’appelant des copies des demandes, avis de cotisation, avis d’opposition et notifications qui ont rapport à l’appel. Dès lors, les copies font partie du dossier de la cour et font preuve de l’existence des documents et énoncés dont ils font état.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4267,7 +4267,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlement d’appel**
 
 **97.57** La Cour canadienne de l’impôt peut statuer sur un appel concernant une cotisation en le rejetant ou en l’accueillant. Dans ce dernier cas, elle peut annuler la cotisation ou la renvoyer au ministre pour nouvel examen et nouvelle cotisation.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4285,7 +4285,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 	- **a)** la période de quatre ans visée à l’alinéa 97.44(1)a);
 	- **b)** le délai de signification d’un avis d’opposition à une cotisation selon l’article 97.48;
 	- **c)** le délai d’appel prévu à l’article 97.53.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58
 
 
 
@@ -4343,7 +4343,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Échantillons**
 
 - **(4)** Il est disposé des échantillons prélevés conformément au paragraphe (1) suivant les instructions du ministre.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 99; 1988, ch. 65, art. 79; 2001, ch. 25, art. 59; 2017, ch. 7, art. 52; 2018, ch. 30, art. 5.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 99; 1988, ch. 65, art. 79; 2001, ch. 25, art. 59; 2017, ch. 7, art. 522018, ch. 30, art. 5
 
 
 
@@ -4360,7 +4360,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 - **(2)** L’agent qui intercepte une personne en vertu du paragraphe (1) peut :
 	- **a)** l’interroger;
 	- **b)** examiner les marchandises qu’elle a importées, en faire ouvrir les colis ou contenants et en prélever des échantillons en quantités raisonnables.
-> 2001, ch. 25, art. 60.
+> 2001, ch. 25, art. 60
 
 
 
@@ -4387,7 +4387,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Fouille — restrictions**
 
 - **(5)** L’agent ne peut fouiller une personne de sexe opposé. Faute de collègue du même sexe que celle-ci sur le lieu où la fouille sera effectuée, il peut autoriser toute personne de ce sexe présentant les qualités voulues à y procéder.
-> 2001, ch. 25, art. 60; 2009, ch. 10, art. 10.
+> 2001, ch. 25, art. 60; 2009, ch. 10, art. 10
 
 
 
@@ -4406,7 +4406,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Examen de marchandises**
 
 - **(3)** L’agent peut, en tout temps, ouvrir ou faire ouvrir, examiner et retenir toute marchandise ou tout bagage, colis ou contenant abandonné dans une zone de contrôle des douanes ou qui n’est en la possession de personne dans une telle zone.
-> 2001, ch. 25, art. 60; 2009, ch. 10, art. 11.
+> 2001, ch. 25, art. 60; 2009, ch. 10, art. 11
 
 
 
@@ -4418,7 +4418,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 - **a)** désignant les personnes et les catégories de personnes qui peuvent être fouillées en vertu du paragraphe 99.2(2);
 - **b)** concernant les circonstances dans lesquelles une fouille peut être effectuée, la manière d’effectuer la fouille et le type de fouille qui peut être effectuée dans ces circonstances, pour l’application du paragraphe 99.2(2);
 - **c)** concernant la manière selon laquelle un examen peut être effectué en vertu du paragraphe 99.3(1) et les machines, instruments, dispositifs et autres appareils et les catégories de ces appareils qui peuvent être utilisés pour cet examen.
-> 2001, ch. 25, art. 60.
+> 2001, ch. 25, art. 60
 
 
 
@@ -4429,7 +4429,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **99.5** S’il a des motifs raisonnables de soupçonner que la personne qui a déclaré en application de l’article 11.7 arriver d’un lieu situé au Canada est de fait arrivée d’un lieu situé à l’étranger, l’agent peut :
 - **a)** l’interroger;
 - **b)** examiner les marchandises qu’elle transporte, en faire ouvrir les colis ou contenants et en prélever des échantillons en quantités raisonnables.
-> 2012, ch. 19, art. 482.
+> 2012, ch. 19, art. 482
 
 
 
@@ -4665,7 +4665,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlements**
 
 - **(15)** Le gouverneur en conseil peut, par règlement, déterminer les cas où des frais peuvent être exigés pour permettre l’accès à des renseignements ou pour en fournir, pour en faire des copies ou pour certifier la conformité de celles-ci sous le régime du présent article, ainsi que fixer le montant de ces frais.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2012, ch. 24, art. 92; 2013, ch. 40, art. 237; 2014, ch. 20, art. 366(A), ch. 32, art. 60; 2015, ch. 20, art. 5; 2018, ch. 30, art. 6; 2019, ch. 13, art. 123(A).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2012, ch. 24, art. 92; 2013, ch. 40, art. 237; 2014, ch. 20, art. 366(A), ch. 32, art. 60; 2015, ch. 20, art. 52018, ch. 30, art. 62019, ch. 13, art. 123(A)
 
 
 
@@ -4680,7 +4680,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Communication malgré une interdiction**
 
 - **(2)** La personne qui doit fournir des renseignements réglementaires ou y donner accès en vertu du paragraphe (1) doit le faire malgré toute exception prévue par la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) à l’égard de la communication de tels renseignements.
-> 2001, ch. 25, art. 61; 2009, ch. 10, art. 12; 2012, ch. 31, art. 267.
+> 2001, ch. 25, art. 61; 2009, ch. 10, art. 12; 2012, ch. 31, art. 267
 
 
 
@@ -4730,7 +4730,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 - **(3)** Le gouverneur en conseil peut, par règlement :
 	- **a)** désigner toute disposition de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), ou de leurs règlements d’application;
 	- **b)** formuler les descriptions abrégées des dispositions désignées en vertu de l’alinéa a) et prévoir l’utilisation de ces descriptions.
-> 1993, ch. 25, art. 80; 1995, ch. 41, art. 29; 1997, ch. 36, art. 182; 2001, ch. 25, art. 62.
+> 1993, ch. 25, art. 80; 1995, ch. 41, art. 29; 1997, ch. 36, art. 182; 2001, ch. 25, art. 62
 
 
 
@@ -4752,7 +4752,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 	- **a)** soit enlève ou fait enlever, contrairement à la présente loi, au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou à leurs règlements d’application, des produits du tabac, des produits du cannabis ou des marchandises désignées d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes;
 	- **b)** soit vend ou utilise, contrairement à la présente loi, au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou à leurs règlements d’application, des produits du tabac ou des marchandises désignées désignés comme provisions de bord.
 Cette pénalité est égale soit au double du total des droits qui seraient payables sur des produits ou marchandises semblables dédouanés dans des conditions semblables au taux applicable à des produits ou marchandises semblables au moment de l’établissement de la pénalité, soit à un montant inférieur que le ministre peut fixer.
-> 1993, ch. 25, art. 80; 1995, ch. 41, art. 29; 1997, ch. 36, art. 184; 2018, ch. 12, art. 116.
+> 1993, ch. 25, art. 80; 1995, ch. 41, art. 29; 1997, ch. 36, art. 184; 2018, ch. 12, art. 116
 
 
 
@@ -4775,7 +4775,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 **Emploi de la description abrégée**
 
 - **(4)** Pour caractériser une contravention, il suffit d’en reporter sur l’avis de cotisation la description abrégée visée à l’alinéa 109.1(3)b) ou toute autre description qui n’en diffère pas quant au fond.
-> 1993, ch. 25, art. 80; 1995, ch. 41, art. 30; 2001, ch. 25, art. 63.
+> 1993, ch. 25, art. 80; 1995, ch. 41, art. 30; 2001, ch. 25, art. 63
 
 
 
@@ -4784,7 +4784,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 **Paiement de la pénalité**
 
 **109.4** La pénalité établie en vertu de l’article 109.3 est exigible à compter de la date de signification de l’avis de cotisation la concernant.
-> 1993, ch. 25, art. 80.
+> 1993, ch. 25, art. 80
 
 
 
@@ -4799,7 +4799,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 **Exception**
 
 - **(2)** Aucun intérêt n’est exigible si la pénalité est payée intégralement dans les trente jours suivant la date de l’avis.
-> 1993, ch. 25, art. 80; 2001, ch. 25, art. 64.
+> 1993, ch. 25, art. 80; 2001, ch. 25, art. 64
 
 
 
@@ -4867,7 +4867,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 **Situation urgente**
 
 - **(7)** Pour l’application du paragraphe (6), il y a notamment urgence dans les cas où le délai d’obtention du mandat risquerait soit de mettre en danger des personnes, soit d’entraîner la perte ou la destruction d’objets saisissables.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 111; 1992, ch. 1, art. 143(A).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 111; 1992, ch. 1, art. 143(A)
 
 
 
@@ -4900,7 +4900,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 **Moyens de preuve**
 
 - **(3)** Les objets ou documents saisis en vertu de la présente loi uniquement comme moyens de preuve sont restitués dès l’achèvement des procédures au cours desquelles il a pu en être fait usage.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 114; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 114; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85
 
 
 
@@ -4918,7 +4918,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 	- **a)** le saisi donne son accord pour une prolongation d’une durée déterminée;
 	- **b)** le juge de paix, estimant justifiée, eu égard aux circonstances, une demande présentée à cet effet, ordonne une prolongation d’une durée déterminée;
 	- **c)** sont intentées des procédures judiciaires au cours desquelles les documents saisis peuvent avoir à servir.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 115; 2001, ch. 25, art. 65.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 115; 2001, ch. 25, art. 65
 
 
 
@@ -4950,7 +4950,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 **Pas de restitution**
 
 - **(2)** Malgré le paragraphe (1), les spiritueux, le vin, l’alcool spécialement dénaturé, les préparations assujetties à des restrictions, le cannabis, le tabac en feuilles, les timbres d’accise et les produits du tabac qui sont saisis en vertu de la présente loi ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338; 2007, ch. 18, art. 137; 2010, ch. 12, art. 50; 2018, ch. 16, art. 170.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338; 2007, ch. 18, art. 137; 2010, ch. 12, art. 50; 2018, ch. 16, art. 170
 
 
 
@@ -4982,7 +4982,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 **Vente des marchandises saisies**
 
 - **(2)** Afin d’éviter les frais de garde des animaux, ou la détérioration des marchandises périssables, saisis en vertu de la présente loi, l’agent peut les vendre, après avoir donné au saisi ou à leur propriétaire toute possibilité de se les faire restituer dans les conditions prévues au paragraphe (1). Le cas échéant, le produit de la vente tient lieu de confiscation.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 119; 1995, ch. 41, art. 32; 1997, ch. 36, art. 186.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 119; 1995, ch. 41, art. 32; 1997, ch. 36, art. 186
 
 
 
@@ -5015,7 +5015,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 - **(3)** S’il est impossible de restituer des marchandises à une personne qui y aurait droit par ailleurs, il lui est versé la somme suivante :
 	- **a)** si les marchandises ont été vendues, le produit de la vente;
 	- **b)** sinon, la somme représentant la valeur des marchandises.
-> 1994, ch. 37, art. 9; 2002, ch. 22, art. 339; 2007, ch. 18, art. 138; 2010, ch. 12, art. 51.
+> 1994, ch. 37, art. 9; 2002, ch. 22, art. 339; 2007, ch. 18, art. 138; 2010, ch. 12, art. 51
 
 
 
@@ -5056,7 +5056,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **Conditions de révision**
 
 **123** La confiscation des marchandises ou des moyens de transport saisis en vertu de la présente loi, ou celle des sommes ou garanties qui en tiennent lieu, est définitive et n’est susceptible de révision, de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues aux articles 127.1 et 129.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 123; 2001, ch. 25, art. 66.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 123; 2001, ch. 25, art. 66
 
 
 
@@ -5107,7 +5107,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **Intérêt**
 
 - **(6)** Le destinataire de l’avis est tenu de payer, en plus de la somme mentionnée dans l’avis, des intérêts au taux réglementaire, calculés sur le solde impayé pour la période allant du lendemain de la signification de l’avis jusqu’au jour du paiement intégral de la somme. Toutefois, aucun intérêt n’est exigible si la somme est payée intégralement dans les trente jours suivant la date de l’avis.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 124; 1995, ch. 41, art. 33; 1997, ch. 36, art. 187; 2001, ch. 25, art. 67.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 124; 1995, ch. 41, art. 33; 1997, ch. 36, art. 187; 2001, ch. 25, art. 67
 
 
 
@@ -5134,7 +5134,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **Absence de révision ou d’appel**
 
 **126.1** Les articles 127 à 133 ne s’appliquent pas à la contravention soit du paragraphe 40(3) de la présente loi, par une personne visée à l’alinéa c) de ce paragraphe, ou de l’article 32.2 de la présente loi dans le cas visé au paragraphe 32.2(6), soit des paragraphes 95(1), 118(1) ou (2), 121(1) ou 122(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
-> 1995, ch. 41, art. 34; 1997, ch. 36, art. 188.
+> 1995, ch. 41, art. 34; 1997, ch. 36, art. 188
 
 
 
@@ -5143,7 +5143,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **Conditions de révision**
 
 **127** La créance de Sa Majesté résultant d’un avis signifié en vertu de l’article 109.3 ou d’une réclamation effectuée en vertu de l’article 124 est définitive et n’est susceptible de révision, de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues aux articles 127.1 et 129.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 127; 1993, ch. 25, art. 81; 2001, ch. 25, art. 68.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 127; 1993, ch. 25, art. 81; 2001, ch. 25, art. 68
 
 
 
@@ -5160,7 +5160,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **Intérêt**
 
 - **(2)** La somme qui est remboursée à une personne en vertu de l’alinéa (1)a) est majorée des intérêts au taux réglementaire, calculés à compter du lendemain du jour du paiement de la somme par cette personne jusqu’à celui de son remboursement.
-> 2001, ch. 25, art. 68; 2005, ch. 38, art. 81; 2009, ch. 10, art. 13(F); 2014, ch. 20, art. 172.
+> 2001, ch. 25, art. 68; 2005, ch. 38, art. 81; 2009, ch. 10, art. 13(F); 2014, ch. 20, art. 172
 
 
 
@@ -5169,7 +5169,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **Rapport au président**
 
 **128** L’agent qui a saisi des marchandises ou des moyens de transport en vertu de la présente loi ou qui a signifié ou fait signifier l’avis prévu aux articles 109.3 ou 124 fait aussitôt rapport au président des circonstances de l’affaire.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 128; 1993, ch. 25, art. 81; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 128; 1993, ch. 25, art. 81; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85
 
 
 
@@ -5188,7 +5188,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **Charge de la preuve**
 
 - **(2)** Il incombe à la personne qui prétend avoir présenté la demande visée au paragraphe (1) de prouver qu’elle l’a présentée.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 129; 1993, ch. 25, art. 82; 2001, ch. 25, art. 69; 2014, ch. 20, art. 173.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 129; 1993, ch. 25, art. 82; 2001, ch. 25, art. 69; 2014, ch. 20, art. 173
 
 
 
@@ -5220,7 +5220,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 		- **(i)** au cours du délai prévu à l’article 129, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de demander une décision,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 70.
+> 2001, ch. 25, art. 70
 
 
 
@@ -5251,7 +5251,7 @@ La demande fondée sur l’alinéa a) doit être présentée dans les quatre-vin
 		- **(i)** au cours du délai prévu à l’article 129, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de demander une décision,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 70.
+> 2001, ch. 25, art. 70
 
 
 
@@ -5270,7 +5270,7 @@ La demande fondée sur l’alinéa a) doit être présentée dans les quatre-vin
 **Affidavit**
 
 - **(3)** Les moyens de preuve visés au paragraphe (2) peuvent être produits par déclaration sous serment faite devant toute personne autorisée par une loi fédérale ou provinciale à faire prêter serment et à recevoir les déclarations sous serment.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 130; 1993, ch. 25, art. 83; 1999, ch. 17, art. 127; 2001, ch. 25, art. 71; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 130; 1993, ch. 25, art. 83; 1999, ch. 17, art. 127; 2001, ch. 25, art. 71; 2005, ch. 38, art. 85
 
 
 
@@ -5297,7 +5297,7 @@ La demande fondée sur l’alinéa a) doit être présentée dans les quatre-vin
 **Recours judiciaire**
 
 - **(3)** La décision rendue par le ministre en vertu du paragraphe (1) n’est susceptible d’appel, de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues au paragraphe 135(1).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 131; 1993, ch. 25, art. 84; 2001, ch. 25, art. 72.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 131; 1993, ch. 25, art. 84; 2001, ch. 25, art. 72
 
 
 
@@ -5316,7 +5316,7 @@ La demande fondée sur l’alinéa a) doit être présentée dans les quatre-vin
 - **(2)** Il est versé aux bénéficiaires de montants dont la restitution est autorisée en application du paragraphe (1), en plus des montants restitués, des intérêts au taux réglementaire, calculés sur ces montants pour la période commençant le lendemain du versement des montants et se terminant le jour de leur restitution.
 
 - **(3)** [Abrogé, 1992, ch. 28, art. 26]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 132; 1992, ch. 28, art. 26; 1993, ch. 25, art. 85; 2001, ch. 25, art. 73.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 132; 1992, ch. 28, art. 26; 1993, ch. 25, art. 85; 2001, ch. 25, art. 73
 
 
 
@@ -5371,7 +5371,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **(7)** Les personnes à qui une somme est réclamée en application des alinéas (1)c) ou (1.1)b) versent avec la somme réclamée des intérêts au taux réglementaire, calculés sur les arriérés pour la période commençant le lendemain de la signification de l’avis prévu au paragraphe 131(2) et se terminant le jour du paiement intégral de la somme. Toutefois, aucun intérêt n’est exigible si la pénalité est payée intégralement dans les trente jours suivant la signification de l’avis.
 
 - **(8)** [Abrogé, 1992, ch. 28, art. 27]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 133; 1992, ch. 28, art. 27; 1993, ch. 25, art. 86; 1995, ch. 41, art. 35; 1997, ch. 36, art. 189; 2001, ch. 25, art. 74.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 133; 1992, ch. 28, art. 27; 1993, ch. 25, art. 86; 1995, ch. 41, art. 35; 1997, ch. 36, art. 189; 2001, ch. 25, art. 74
 
 
 
@@ -5390,7 +5390,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Action ordinaire**
 
 - **(2)** La [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) et les règles prises aux termes de cette loi applicables aux actions ordinaires s’appliquent aux actions intentées en vertu du paragraphe (1), sous réserve des adaptations occasionnées par les règles particulières à ces actions.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 135; 1990, ch. 8, art. 49; 2002, ch. 8, art. 134.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 135; 1990, ch. 8, art. 49; 2002, ch. 8, art. 134
 
 
 
@@ -5406,7 +5406,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Signification des avis**
 
 **137** Il suffit, pour que l’avis des motifs visés à l’article 130 ou que l’avis de la décision visée à l’article 131 soient considérés comme respectivement signifiés par le président ou le ministre, qu’il en soit fait envoi en recommandé à la dernière adresse connue du destinataire.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 137; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 137; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85
 
 
 
@@ -5450,7 +5450,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 		- **(ii)** soit il avait véritablement l’intention de demander au ministre de rendre une décision;
 	- **b)** il serait juste et équitable de faire droit à la demande;
 	- **c)** la demande a été présentée dès que possible.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 138; 1992, ch. 1, art. 62, ch. 51, art. 45; 1998, ch. 30, art. 14; 1999, ch. 3, art. 60, ch. 17, art. 127; 2001, ch. 25, art. 75; 2014, ch. 20, art. 174; 2015, ch. 3, art. 62(F).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 138; 1992, ch. 1, art. 62, ch. 51, art. 45; 1998, ch. 30, art. 14; 1999, ch. 3, art. 60, ch. 17, art. 127; 2001, ch. 25, art. 75; 2014, ch. 20, art. 174; 2015, ch. 3, art. 62(F)
 
 
 
@@ -5462,7 +5462,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **a)** le demandeur a acquis son droit de bonne foi avant l’infraction ou l’utilisation;
 - **b)** il est innocent de toute complicité ou collusion dans l’infraction ou l’utilisation;
 - **c)** il a pris les précautions voulues pour se convaincre que l’objet saisi ou détenu ne risquait pas d’être utilisé en infraction par toute personne admise à sa possession, ou par le débiteur dans le cas d’une hypothèque ou d’un privilège.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 139; 2001, ch. 25, art. 75.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 139; 2001, ch. 25, art. 75
 
 
 
@@ -5502,7 +5502,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **a)** le requérant a acquis son droit de bonne foi avant l’infraction ou l’utilisation;
 	- **b)** il est innocent de toute complicité ou collusion dans l’infraction ou l’utilisation;
 	- **c)** il a pris les précautions voulues pour se convaincre que l’objet saisi ou détenu ne risquait pas d’être utilisé en infraction par toute personne admise à sa possession, ou par le débiteur dans le cas d’une hypothèque ou d’un privilège.
-> 2001, ch. 25, art. 75; 2002, ch. 7, art. 272; 2009, ch. 10, art. 14(F); 2015, ch. 3, art. 63.
+> 2001, ch. 25, art. 75; 2002, ch. 7, art. 272; 2009, ch. 10, art. 14(F); 2015, ch. 3, art. 63
 
 
 
@@ -5517,7 +5517,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Définition de cour d’appel**
 
 - **(2)** Dans le présent article, ***cour d’appel*** s’entend de la cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au présent article.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 140; 2001, ch. 25, art. 76.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 140; 2001, ch. 25, art. 76
 
 
 
@@ -5538,7 +5538,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Limitation du montant du versement**
 
 - **(2)** En cas de vente ou d’aliénation sous une autre forme de marchandises ou d’un moyen de transport à l’égard desquels un versement est effectué au titre du paragraphe (1.1), le montant du versement ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents aux marchandises ou au moyen de transport supportés par Sa Majesté; dans les cas où aucun produit ne résulte d’une aliénation effectuée en vertu de la présente loi, il n’est effectué aucun versement au titre du paragraphe (1.1).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 141; 1999, ch. 17, art. 127; 2001, ch. 25, art. 77; 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 141; 1999, ch. 17, art. 127; 2001, ch. 25, art. 77; 2005, ch. 38, art. 85
 
 
 
@@ -5560,7 +5560,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Suppression des droits**
 
 - **(2)** Les marchandises dont il est disposé conformément au paragraphe (1) cessent dès lors d’être frappées de droits.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 142; 1996, ch. 16, art. 60; 2002, ch. 22, art. 340; 2007, ch. 18, art. 139; 2010, ch. 12, art. 52.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 142; 1996, ch. 16, art. 60; 2002, ch. 22, art. 340; 2007, ch. 18, art. 139; 2010, ch. 12, art. 52
 
 
 
@@ -5583,7 +5583,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **b)** vin : titulaires de licence de vin;
 	- **c)** tabac en feuilles et produits du tabac : titulaires de licence de tabac;
 	- **d)** préparations assujetties à des restrictions : utilisateurs agréés.
-> 2002, ch. 22, art. 341; 2007, ch. 18, art. 140; 2010, ch. 12, art. 53.
+> 2002, ch. 22, art. 341; 2007, ch. 18, art. 140; 2010, ch. 12, art. 53
 
 
 
@@ -5662,7 +5662,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **c)** fixer le montant des frais pour l’application du paragraphe (10);
 	- **d)** déterminer le courrier qui n’est pas frappé des frais mentionnés au paragraphe (10) ou prévoir les circonstances dans lesquelles il n’est pas frappé de tels frais;
 	- **e)** déterminer le courrier auquel l’un ou plusieurs des paragraphes (3) à (13) ne s’appliquent pas ou prévoir les circonstances dans lesquelles ces paragraphes ne s’y appliquent pas.
-> 1992, ch. 28, art. 29; 1997, ch. 36, art. 190.
+> 1992, ch. 28, art. 29; 1997, ch. 36, art. 190
 
 
 
@@ -5710,7 +5710,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **(2)** Pour l’application de la présente loi, les règles suivantes s’appliquent :
 	- **a)** la mention de la dénomination d’une entité non constituée en personne morale dans un avis ou autre document vaut mention de tous les associés de l’entité;
 	- **b)** un avis ou autre document est réputé remis à chaque associé de l’entité non constituée en personne morale s’il est posté, signifié ou autrement envoyé à l’entité à sa dernière adresse connue ou à son dernier établissement connu.
-> 2001, ch. 25, art. 79.
+> 2001, ch. 25, art. 79
 
 
 
@@ -5726,7 +5726,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Preuve de l’absence d’appel**
 
 **149.1** Constitue la preuve des énonciations qui y sont renfermées l’affidavit d’un agent — souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir — indiquant qu’il a la charge des registres pertinents, qu’il a connaissance de la pratique de l’Agence ou de l’Agence du revenu du Canada, selon le cas, qu’un examen des registres démontre qu’un avis de cotisation prévu à la partie V.1 a été posté ou autrement envoyé à une personne un jour donné, en application de la présente loi, et que, après avoir fait un examen attentif des registres et y avoir pratiqué des recherches, il lui a été impossible de constater qu’un avis d’opposition ou d’appel concernant la cotisation a été reçu dans le délai imparti à cette fin.
-> 2001, ch. 25, art. 80; 2005, ch. 38, art. 82; 2009, ch. 10, art. 15(F).
+> 2001, ch. 25, art. 80; 2005, ch. 38, art. 82; 2009, ch. 10, art. 15(F)
 
 
 
@@ -5735,7 +5735,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Opposition ou appel**
 
 **149.2** La personne qui est obligée, en vertu de la présente loi, de tenir des registres et qui signifie un avis d’opposition ou qui est partie à un appel ou à un renvoi aux termes de la partie V.1 doit conserver les registres concernant l’objet de l’opposition, de l’appel ou du renvoi ou de tout appel en découlant jusqu’à ce qu’il en soit décidé.
-> 2001, ch. 25, art. 80.
+> 2001, ch. 25, art. 80
 
 
 
@@ -5798,7 +5798,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **(ii)** de faire des inscriptions fausses ou trompeuses dans des documents comptables, d’y participer ou d’y consentir,
 	- **(iii)** d’omettre une inscription importante dans un document comptable, ou de participer ou consentir à l’omission;
 - **c)** d’éluder ou de tenter d’éluder, délibérément et de quelque façon que ce soit, l’observation de la présente loi ou le paiement des droits qu’elle prévoit.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 153; 1988, ch. 65, art. 80; 1993, ch. 44, art. 105; 1996, ch. 33, art. 39; 1997, ch. 14, art. 46.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 153; 1988, ch. 65, art. 80; 1993, ch. 44, art. 105; 1996, ch. 33, art. 39; 1997, ch. 14, art. 46
 
 
 
@@ -5807,7 +5807,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Faire obstacle à un agent**
 
 **153.1** Nul ne peut, physiquement ou autrement, entraver, rudoyer ou contrecarrer, ou tenter d’entraver, de rudoyer ou de contrecarrer, un agent qui fait une chose qu’il est autorisé à faire en vertu de la présente loi, ni empêcher ou tenter d’empêcher un agent de faire une telle chose.
-> 2001, ch. 17, art. 255.
+> 2001, ch. 17, art. 255
 
 
 
@@ -5859,7 +5859,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Contrebande : sortie du Canada**
 
 - **(2)** Constitue une infraction le fait de faire sortir ou de tenter de faire sortir du Canada par contrebande, clandestinement ou non, des marchandises passibles de droits ou dont l’exportation est prohibée, contrôlée ou réglementée sous le régime de la présente loi ou de toute autre loi fédérale.
-> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 159; 2018, ch. 30, art. 7.
+> L.R., (1985), ch. 1 (2<sup>e</sup> suppl.), art. 1592018, ch. 30, art. 7
 
 
 
@@ -5871,7 +5871,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **a)** d’omettre d’apposer une marque, conformément à l’article 35.01, sur des marchandises importées;
 - **b)** de marquer des marchandises importées d’une manière trompeuse de façon à induire une autre personne en erreur quant au pays ou à la zone géographique d’origine des marchandises;
 - **c)** avec l’intention de dissimuler des renseignements, de causer la détérioration d’une marque apposée, conformément aux règlements pris en vertu du paragraphe 19(2) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), sur des marchandises importées, de la détruire, de l’enlever, de l’altérer ou de l’oblitérer.
-> 1993, ch. 44, art. 106; 1997, ch. 36, art. 191; 2001, ch. 25, art. 81.
+> 1993, ch. 44, art. 106; 1997, ch. 36, art. 191; 2001, ch. 25, art. 81
 
 
 
@@ -5888,7 +5888,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Ordonnance d’exécution**
 
 - **(2)** Le tribunal qui déclare une personne coupable, en vertu du paragraphe (1), de l’infraction visée au paragraphe 43(2) peut rendre toute ordonnance qu’il estime indiquée pour qu’il soit remédié au défaut qui constitue l’infraction.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 160; 1993, ch. 25, art. 88, ch. 44, art. 107; 2001, ch. 25, art. 82; 2018, ch. 30, art. 8.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 160; 1993, ch. 25, art. 88, ch. 44, art. 107; 2001, ch. 25, art. 822018, ch. 30, art. 8
 
 
 
@@ -5899,7 +5899,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **160.1** Toute personne qui contrevient à l’article 153.1 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire et en plus de toute peine prévue par ailleurs :
 - **a)** soit une amende minimale de mille dollars et maximale de vingt-cinq mille dollars;
 - **b)** soit une telle amende et un emprisonnement maximal de douze mois.
-> 2001, ch. 17, art. 256.
+> 2001, ch. 17, art. 256
 
 
 
@@ -5908,7 +5908,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Procédure sommaire et peines**
 
 **161** Quiconque contrevient aux dispositions de la présente loi non mentionnées à l’article 160 encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de vingt-cinq mille dollars et minimale de mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 161; 2001, ch. 25, art. 83.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 161; 2001, ch. 25, art. 83
 
 
 
@@ -5954,7 +5954,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Admissibilité du certificat**
 
 - **(2)** Le certificat de désignation d’un agent des douanes désigné est admissible en preuve et fait foi de la désignation sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
-> 1998, ch. 7, art. 1; 2005, ch. 38, art. 83.
+> 1998, ch. 7, art. 1; 2005, ch. 38, art. 83
 
 
 
@@ -5977,7 +5977,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Restriction**
 
 - **(4)** L’agent des douanes désigné ne peut recourir à ses pouvoirs d’application de la présente loi uniquement pour rechercher des éléments de preuve d’infraction criminelle à une autre loi fédérale.
-> 1998, ch. 7, art. 1; 2001, ch. 25, art. 84; 2008, ch. 6, art. 59; 2018, ch. 21, art. 11 et 45.
+> 1998, ch. 7, art. 1; 2001, ch. 25, art. 84; 2008, ch. 6, art. 59; 2018, ch. 21, art. 11 et 45
 
 
 
@@ -6017,7 +6017,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **(2)** Le gouverneur en conseil peut, par règlement et sur recommandation du ministre des Finances, fixer un taux d’intérêt ou établir des règles de fixation d’un taux d’intérêt pour l’application d’une disposition de la présente loi.
 
 - **(3) et (4)** [Abrogés, 2001, ch. 25, art. 85]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 6, art. 29, ch. 10, art. 16, ch. 16, art. 35 et 56; 2010, ch. 4, art. 29; 2012, ch. 18, art. 30; 2017, ch. 6, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 6, art. 29, ch. 10, art. 16, ch. 16, art. 35 et 56; 2010, ch. 4, art. 29; 2012, ch. 18, art. 30; 2017, ch. 6, art. 85
 
 
 
@@ -6026,7 +6026,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Incorporation par renvoi**
 
 **164.1** Peut être incorporé par renvoi dans un règlement tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
-> 2009, ch. 10, art. 17.
+> 2009, ch. 10, art. 17
 
 
 
@@ -6077,7 +6077,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **b)** il met en oeuvre tout ou partie d’une mesure annoncée publiquement ce jour-là ou avant;
 - **c)** il corrige une disposition ambiguë ou erronée, non conforme à un objet de la présente loi ou à des règlements pris par le gouverneur en conseil en application de la présente loi;
 - **d)** il met en oeuvre une disposition nouvelle ou modifiée de la présente loi, applicable avant qu’il soit enregistré en vertu de l’article 6 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1992, ch. 28, art. 31.
+> 1992, ch. 28, art. 31
 
 
 
@@ -6476,6 +6476,587 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 </tr>
 </table>
 
-> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31; 2017, ch. 6, art. 86 à 89, ch. 8, art. 23 à 26; 2018, ch. 23, art. 27 à 30.
+> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31; 2017, ch. 6, art. 86 à 89, ch. 8, art. 23 à 26; 2018, ch. 23, art. 27 à 30
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 1990, ch. 16, par. 24(1)
+
+
+**Disposition transitoire : procédures**
+
+**24** 
+
+- **(1)** Les procédures intentées avant l’entrée en vigueur du présent paragraphe et auxquelles des dispositions visées par la présente loi s’appliquent se poursuivent sans autres formalités en conformité avec ces dispositions dans leur forme modifiée.
+
+
+
+######           — 1990, ch. 17, par. 45(1)
+
+
+**Disposition transitoire : procédures**
+
+**45** 
+
+- **(1)** Les procédures intentées avant l’entrée en vigueur du présent paragraphe et auxquelles s’appliquent des dispositions visées par la présente loi se poursuivent sans autres formalités en conformité avec ces dispositions dans leur forme modifiée.
+
+
+
+######           — 1992, ch. 28, par. 2(2) et (3)
+
+
+
+- **(2)** Les articles 3.1 et 3.2 de la même loi, édictés par le paragraphe (1), sont réputés entrés en vigueur le 30 mai 1992. Toutefois, l’article 3.1 de la même loi, édicté par le paragraphe (1), ne s’applique pas aux intérêts à calculer en application :
+	- **a)** du paragraphe 34(3) de la même loi sur les montants payables en vertu du paragraphe 34(2) de la même loi par suite de l’inobservation de conditions survenant avant la date fixée par décret du gouverneur en conseil;
+	- **b)** des paragraphes 66(1), (2) ou (3) ou 69(2) de la même loi relativement aux marchandises dédouanées en application de la partie II de la même loi avant la date fixée par décret du gouverneur en conseil;
+	- **c)** du paragraphe 80(1) ou de l’article 80.1 de la même loi relativement aux remboursements qui font l’objet d’une demande reçue avant la date fixée par décret du gouverneur en conseil;
+	- **d)** du paragraphe 84(2) de la même loi relativement aux réaffectations ou aux exportations effectuées avant la date fixée par décret du gouverneur en conseil;
+	- **e)** du paragraphe 87(1) de la même loi relativement aux drawbacks qui font l’objet d’une demande reçue avant la date fixée par décret du gouverneur en conseil;
+	- **f)** du paragraphe 93(1) de la même loi relativement aux montants qui deviennent exigibles en vertu des articles 88, 89, 91 ou 92 de la même loi avant la date fixée par décret du gouverneur en conseil;
+	- **g)** du paragraphe 132(2) de la même loi relativement aux montants reçus en conformité avec les articles 117, 118 ou 119 de la même loi avant la date fixée par décret du gouverneur en conseil;
+	- **h)** du paragraphe 133(7) de la même loi relativement aux sommes réclamées dans le cadre d’une décision rendue en application du paragraphe 131(1) de la même loi avant la date fixée par décret du gouverneur en conseil.
+
+
+
+######           — 1992, ch. 28, par. 2(2) et (3)
+
+
+
+- **(3)** L’article 3.3 de la même loi, édicté par le paragraphe (1), s’applique aux intérêts payables le 30 mai 1992, ou après cette date, ainsi qu’aux pénalités payables à la date de sanction de la présente loi, ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 3(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 4(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 5(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 7(2)
+
+
+
+- **(2)** Le paragraphe 33.4(1) de la même loi, édicté par le paragraphe (1), est réputé entré en vigueur le 30 mai 1992. Toutefois, il ne s’applique pas :
+	- **a)** aux droits et aux compléments de droits qui sont dus par suite de quelque classement, appréciation, révision ou réexamen effectué en application de la partie III de la même loi relativement à des marchandises dédouanées en application de la partie II de la même loi avant la date fixée par décret du gouverneur en conseil;
+	- **b)** aux droits qui deviennent exigibles en application du paragraphe 34(2) de la même loi par suite de l’inobservation de conditions survenant avant la date fixée par décret du gouverneur en conseil.
+
+
+
+######           — 1992, ch. 28, par. 7(4)
+
+
+
+- **(4)** L’article 33.7 de la même loi, édicté par le paragraphe (1), est réputé entré en vigueur le 30 mai 1992. Toutefois, il n’est pas tenu compte de l’alinéa (2)b) ni du sous-alinéa (3)b)(ii) de cet article pour ce qui est de la période antérieure à la date de sanction de la présente loi.
+
+
+
+######           — 1992, ch. 28, par. 8(3)
+
+
+
+- **(3)** Les paragraphes (1) et (2) s’appliquent aux cas d’inobservation de conditions survenant à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 9(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 10(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 11(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux marchandises dédouanées en application de la partie II de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 12(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux marchandises dédouanées en application de la partie II de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 13(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 14(3)
+
+
+
+- **(3)** Les paragraphes (1) et (2) s’appliquent aux marchandises dédouanées en application de la partie II de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 15(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 16(3)
+
+
+
+- **(3)** Les paragraphes (1) et (2) s’appliquent aux marchandises dédouanées en application de la partie II de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 17(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 18(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux marchandises dédouanées en application de la partie II de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 19(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux marchandises dédouanées en application de la partie II de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 20(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux remboursements qui font l’objet d’une demande reçue à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 21(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux remboursements qui font l’objet d’une demande reçue à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 22(4)
+
+
+
+- **(4)** Les paragraphes (1) à (3) s’appliquent aux réaffectations et exportations effectuées à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 23(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux drawbacks qui font l’objet d’une demande reçue à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 24(2) et (3)
+
+
+
+- **(2)** Les paragraphes 93(1), (2), (4) et (5) de la même loi, édictés par le paragraphe (1), s’appliquent aux montants qui deviennent exigibles en vertu des articles 88, 89, 91 ou 92 de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 24(2) et (3)
+
+
+
+- **(3)** Le paragraphe 93(3) de la même loi, édicté par le paragraphe (1), s’applique aux défauts de faire état de cas de cession, de réaffectation ou d’inobservation d’une condition, lorsque la cession, la réaffectation ou l’inobservation survient à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 26(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux montants reçus en conformité avec les articles 117, 118 ou 119 de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 27(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux sommes réclamées relativement à une décision rendue en application du paragraphe 131(1) de la même loi à la date fixée par décret du gouverneur en conseil ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 29(2)
+
+
+
+- **(2)** Le paragraphe (1) entre en vigueur à la date fixée par décret du gouverneur en conseil en ce qui concerne les marchandises dédouanées en application de la partie II de la même loi à cette date ou après.
+
+
+
+######           — 1992, ch. 28, par. 30(5)
+
+
+
+- **(5)** Les paragraphes (2) et (3) s’appliquent aux règlements pris à la date de sanction de la présente loi ou après cette date.
+
+
+
+######           — 1992, ch. 28, par. 31(2)
+
+
+
+- **(2)** Le paragraphe (1) s’applique aux règlements pris à la date de sanction de la présente loi ou après cette date.
+
+
+
+######           — 1993, ch. 25, art. 90 et 91
+
+
+**Intérêts**
+
+**90** Pour l’application des dispositions de la Loi sur les douanes qui prévoient le paiement d’intérêts, ou l’obligation d’en payer, l’article 68, le paragraphe 69(2) et l’article 72 sont réputés entrés en vigueur comme si la présente loi avait été sanctionnée le 13 février 1992.
+
+
+
+######           — 1993, ch. 25, art. 90 et 91
+
+
+**Rétroactivité**
+
+**91** Tout règlement, ou toute disposition réglementaire, pris dans les dix-huit mois suivant la sanction de la présente loi, en vertu des alinéas 30l), m) ou n) de la Loi sur les douanes, édictés par le paragraphe 73(3), peut, s’il comporte une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de sa prise mais postérieure au 12 février 1992.
+
+
+
+######           — 1997, ch. 26, par. 74(6)
+
+
+
+- **(6)** Pour l’application des dispositions de la Loi sur les douanes et de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) concernant le paiement d’intérêts, ou l’obligation d’en payer, les paragraphes (1) à (4) sont réputés entrés en vigueur comme si la présente loi avait été sanctionnée le 29 novembre 1996.
+
+
+
+######           — 1997, ch. 26, par. 75(3)
+
+
+
+- **(3)** Pour l’application des dispositions de la Loi sur les douanes et de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) concernant le paiement d’intérêts, ou l’obligation d’en payer, le paragraphe (1) est réputé entré en vigueur comme si la présente loi avait été sanctionnée le 29 novembre 1996.
+
+
+
+######           — 1997, ch. 26, par. 76(3)
+
+
+
+- **(3)** Pour l’application des dispositions de la Loi sur les douanes et de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) concernant le paiement d’intérêts, ou l’obligation d’en payer, le paragraphe (1) est réputé entré en vigueur comme si la présente loi avait été sanctionnée le 29 novembre 1996.
+
+
+
+######           — 1997, ch. 26, par. 87(3)
+
+
+
+- **(3)** Pour l’application des dispositions de la Loi sur les douanes et de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) concernant le paiement d’intérêts, ou l’obligation d’en payer, le paragraphe (1) est réputé entré en vigueur comme si la présente loi avait été sanctionnée le 19 février 1997.
+
+
+
+######           — 1998, ch. 19, par. 262(2)
+
+
+
+- **(2)** Les pouvoirs et fonctions du ministre du Revenu national qui ont été délégués à un fonctionnaire ou à une catégorie de fonctionnaires par règlement pris en application de l’article 134 de la même loi, ou par disposition réglementaire prise en application de l’alinéa 164(1)a) de la même loi, avant la date de sanction de la présente loi continuent d’être ainsi délégués jusqu’à ce qu’une autorisation du ministre, prévue par le paragraphe 2(4) de la même loi, édicté par le paragraphe (1), change cette délégation.
+
+
+
+######           — 1998, ch. 30, art. 10
+
+
+**Procédures**
+
+**10** Les procédures intentées avant l’entrée en vigueur du présent article et auxquelles s’appliquent des dispositions visées par les articles 12 à 16 se poursuivent sans autres formalités en conformité avec ces dispositions dans leur forme modifiée.
+
+
+
+######           — 2000, ch. 30, par. 161(2)
+
+
+
+- <sup><a href='#C-52-6_2000_ch30_par161-2'>[*]</a></sup>**(2)** Le paragraphe (1) s’applique aux montants payables après la sanction de la présente loi, quelle que soit la date où ils sont devenus payables.
+
+<a name='C-52-6_2000_ch30_par161-2'><sup>*</sup></a>: [Note : Loi sanctionnée le 20 octobre 2000.]<br />
+
+
+
+######           — 2001, ch. 16, art. 44
+
+**44** Pour l’application des dispositions de la Loi sur les douanes, de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) et de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) concernant le paiement d’intérêts, ou l’obligation d’en payer, relativement à un montant donné, ce montant est déterminé et les intérêts y afférents sont calculés comme si la présente loi avait été sanctionnée le 6 avril 2001.
+
+
+
+######           — 2001, ch. 25, par. 58(2)
+
+
+
+- <sup><a href='#C-52-6_2001_ch25_par58-2'>[*]</a></sup>**(2)** Les articles 97.21 à 97.58 de la même loi, édictés par le paragraphe (1), s’appliquent aux sommes à payer après la sanction de la présente loi, quelle que soit la date où elles sont devenues à payer.
+
+<a name='C-52-6_2001_ch25_par58-2'><sup>*</sup></a>: [Note : Loi sanctionnée le 25 octobre 2001.]<br />
+
+
+
+######           — 2002, ch. 22, art. 305 à 308
+
+
+**Sens de date de mise en oeuvre**
+
+**305** Aux articles 306 à 320, ***date de mise en oeuvre*** s’entend de la date d’entrée en vigueur des parties 3 et 4.
+
+
+
+######           — 2002, ch. 22, art. 305 à 308
+
+
+**Traitement transitoire des droits sur les spiritueux emballés**
+
+**306** Les règles ci-après s’appliquent aux spiritueux emballés sur lesquels un droit, calculé à un taux déterminé en application de l’article 1 de la partie I de l’annexe de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), a été imposé en vertu de cette loi ou perçu en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), mais n’est pas devenu exigible avant la date de mise en oeuvre :
+- **a)** les spiritueux sont exonérés du droit à compter de cette date;
+- **b)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) cesse de s’appliquer aux spiritueux à cette date;
+- **c)** s’il s’agit de spiritueux emballés importés qui n’ont pas été dédouanés conformément à la Loi sur les douanes, la présente loi, la Loi sur les douanes et le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) s’appliquent à eux comme s’ils avaient été importés à cette date;
+- **d)** s’il s’agit d’autres spiritueux emballés, la présente loi s’applique à eux comme si, à la fois :
+	- **(i)** ils avaient été produits et emballés au Canada à cette date par la personne qui les avait en sa possession immédiatement avant cette date et la personne avait été autorisée en vertu de la présente loi à les produire et à les emballer,
+	- **(ii)** dans le cas où les spiritueux sont en la possession d’une boutique hors taxes ou d’un représentant accrédité ou sont livrés à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md), ils avaient été déposés dans un entrepôt d’accise puis sortis de l’entrepôt à cette date conformément à l’alinéa 147(1)a).
+
+
+
+######           — 2002, ch. 22, art. 305 à 308
+
+
+**Traitement transitoire des droits sur les spiritueux en vrac**
+
+**307** 
+
+- **(1)** Les règles ci-après s’appliquent aux spiritueux en vrac sur lesquels un droit, calculé à un taux déterminé en application de l’article 1 de la partie I de l’annexe de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), a été imposé en vertu de cette loi ou perçu en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), mais n’est pas devenu exigible avant la date de mise en oeuvre :
+	- **a)** les spiritueux sont exonérés du droit à compter de cette date;
+	- **b)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) cesse de s’appliquer aux spiritueux à cette date;
+	- **c)** s’il s’agit de spiritueux en vrac importés qui n’ont pas été dédouanés conformément à la Loi sur les douanes, la présente loi, la Loi sur les douanes et le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) s’appliquent à eux comme s’ils avaient été importés à cette date;
+	- **d)** s’il s’agit d’autres spiritueux en vrac, la présente loi s’applique à eux comme s’ils avaient été produits au Canada à cette date par la personne qui les avait en sa possession immédiatement avant cette date.
+
+**Traitement transitoire des spiritueux en vrac importés pour embouteillage ou mélange**
+
+- **(2)** Les règles ci-après s’appliquent aux spiritueux en vrac sur lesquels un droit, calculé à un taux déterminé en application de l’article 1 de la partie I de l’annexe de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), a été perçu en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et remis en vertu du [Décret de remise sur l’eau-de-vie distillée pour embouteillage en entrepôt](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/97/321.md) ou du [Décret de remise sur l’eau-de-vie importée pour fins de mélange](/fr/Règlements/Textes%20réglementaires/83/151.md) avant la date de mise en oeuvre :
+	- **a)** à compter de cette date, les spiritueux sont exonérés du droit imposé en vertu du paragraphe 135(1) de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) au moment de leur dépôt dans une distillerie;
+	- **b)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) cesse de s’appliquer aux spiritueux à cette date;
+	- **c)** la présente loi s’applique aux spiritueux comme s’ils avaient été produits au Canada à cette date par la personne qui les avait en sa possession immédiatement avant cette date.
+
+
+
+######           — 2002, ch. 22, art. 305 à 308
+
+
+**Traitement transitoire des taxes d’accise sur le vin**
+
+**308** Les règles ci-après s’appliquent au vin sur lequel une taxe a été imposée en vertu de l’article 27 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), mais n’est pas devenue exigible avant la date de mise en oeuvre :
+- **a)** le vin est exonéré de la taxe à compter de cette date;
+- **b)** les parties III, VI et VII de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) cessent de s’appliquer au vin à cette date;
+- **c)** s’il s’agit de vin importé qui n’a pas été dédouané conformément à la Loi sur les douanes, la présente loi, la Loi sur les douanes et le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) s’appliquent au vin comme s’il avait été importé à cette date;
+- **d)** s’il s’agit de vin en vrac auquel l’alinéa c) ne s’applique pas, la présente loi s’applique au vin comme s’il avait été produit au Canada à cette date :
+	- **(i)** par le particulier qui en était propriétaire immédiatement avant cette date, si le vin se trouve dans une vinerie libre-service ou à la résidence d’un particulier,
+	- **(ii)** par la personne qui l’avait en sa possession immédiatement avant cette date, dans les autres cas;
+- **e)** s’il s’agit de vin auquel les alinéas c) et d) ne s’appliquent pas, la présente loi s’applique au vin comme si, à la fois :
+	- **(i)** il avait été produit et emballé au Canada à cette date par la personne qui l’avait en sa possession immédiatement avant cette date, et la personne avait été autorisée en vertu de la présente loi à le produire et à l’emballer,
+	- **(ii)** dans le cas où le vin est en la possession d’une boutique hors taxes ou d’un représentant accrédité ou est livré à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md), il avait été déposé dans un entrepôt d’accise puis sorti de l’entrepôt à cette date conformément à l’alinéa 147(1)a).
+
+
+
+######           — 2002, ch. 22, art. 317
+
+
+**Traitement transitoire des produits du tabac importés**
+
+**317** Les règles ci-après s’appliquent au produit du tabac importé :
+- **a)** si le droit perçu en vertu de l’article 21 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la taxe imposée en vertu de l’article 23 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) sur le produit ne sont pas devenus exigibles avant la date de mise en oeuvre :
+	- **(i)** le produit est exonéré de ces droit et taxe,
+	- **(ii)** la présente loi et la Loi sur les douanes s’appliquent au produit comme s’il avait été importé au Canada à cette date;
+- **b)** si le produit a été estampillé ou marqué conformément à la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), il est réputé avoir été estampillé ou marqué, selon le cas, conformément à la présente loi;
+- **c)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) et les parties III, VI et VII de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) cessent de s’appliquer au produit.
+
+
+
+######           — 2003, ch. 15, art. 59
+
+**59** Pour l’application des dispositions de la Loi sur les douanes et de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts sont calculés, comme si la présente loi avait été sanctionnée le 18 juin 2002.
+
+
+
+######           — 2006, ch. 4, art. 42
+
+**42** Pour l’application des dispositions de la Loi sur les douanes qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts calculés, comme si les articles 37 à 41 étaient entrés en vigueur le 1<sup>er</sup> juillet 2006.
+
+
+
+######           — 2006, ch. 4, art. 50
+
+**50** Pour l’application des dispositions de la Loi sur les douanes et de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts calculés, comme si les articles 43, 48 et 49 étaient entrés en vigueur le 1<sup>er</sup> juillet 2006.
+
+
+
+######           — 2007, ch. 35, art. 209
+
+**209** Pour l’application des dispositions de la Loi sur les douanes qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts calculés, comme si les articles 204 à 208 étaient entrés en vigueur le 1<sup>er</sup> janvier 2008.
+
+
+
+######           — 2008, ch. 28, par. 49(3)
+
+**49** 
+
+- **(3)** Pour l’application des dispositions de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) et de la Loi sur les douanes qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts calculés, comme si le présent article était entré en vigueur le 27 février 2008.
+
+
+
+######           — 2008, ch. 28, art. 69
+
+**69** Pour l’application des dispositions de la Loi sur les douanes qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts calculés, comme si :
+- **a)** l’article 63, l’alinéa 1b) de l’annexe 3 de la même loi, édicté par le paragraphe 65(1), l’alinéa 2b) de l’annexe 3 de la même loi, édicté par le paragraphe 66(1), l’article 67 et l’alinéa 4b) de l’annexe 3 de la même loi, édicté par le paragraphe 68(1), étaient entrés en vigueur le 27 février 2008;
+- **b)** l’article 64, l’alinéa 1c) de l’annexe 3 de la même loi, édicté par le paragraphe 65(1), l’alinéa 2c) de l’annexe 3 de la même loi, édicté par le paragraphe 66(1), et l’alinéa 4c) de l’annexe 3 de la même loi, édicté par le paragraphe 68(1), étaient entrés en vigueur le 1<sup>er</sup> juillet 2008.
+
+
+
+######           — 2008, ch. 28, par. 70(2)
+
+**70** 
+
+- **(2)** Pour l’application des dispositions de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) et de la Loi sur les douanes qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts calculés, comme si le présent article était entré en vigueur le 27 février 2008.
+
+
+
+######           — 2010, ch. 12, art. 54
+
+
+**Définition de date de mise en oeuvre**
+
+**54** 
+
+- **(1)** Au présent article, ***date de mise en oeuvre*** s’entend du premier jour du mois qui suit le trentième jour après la date de sanction de la présente loi.
+
+**Application**
+
+- **(2)** Les articles 38 à 46, les paragraphes 47(1) et (3) et les articles 48 à 53 s’appliquent à compter de la date de mise en oeuvre. Toutefois, pour l’application des articles 34 ou 35 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), un produit du tabac peut, à la date de mise en oeuvre ou par la suite, mais avant avril 2011, être mis sur le marché des marchandises acquittées ou être dédouané en vue d’être mis sur ce marché, selon le cas, s’il est estampillé de l’une des manières suivantes :
+	- **a)** conformément aux règles applicables en vertu de cette loi dans leur version en vigueur la veille de la sanction de la présente loi;
+	- **b)** conformément aux règles applicables en vertu de cette loi dans leur version en vigueur à la date de mise en oeuvre, compte tenu des modifications successives;
+	- **c)** de la manière prévue aux alinéas a) et b).
+
+**Effet — alinéa (2)a)**
+
+- **(3)** Les règles applicables en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) s’appliquent dans leur version en vigueur la veille de la sanction de la présente loi à tout produit du tabac qui est estampillé de la manière prévue à l’alinéa (2)a).
+
+**Effet — alinéas (2)b) ou c)**
+
+- **(4)** Les règles applicables en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) s’appliquent dans leur version en vigueur à la date de mise en oeuvre, compte tenu des modifications successives, à tout produit du tabac qui est estampillé de la manière prévue aux alinéas (2)b) ou c).
+
+
+
+######           — 2017, ch. 20, art. 67
+
+**67** Pour l’application des dispositions de la Loi sur les douanes et de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) qui prévoient le paiement d’intérêts, ou l’obligation d’en payer, relativement à une somme, cette somme est déterminée et les intérêts sont calculés comme si les articles 44 et 58 à 63 et les paragraphes 64(1) et 65(1) avaient été sanctionnés le 23 mars 2017.
+
+
+
+######           — 2018, ch. 12, art. 67
+
+**67** Pour l’application des dispositions de la Loi sur les douanes qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts calculés, comme si les alinéas 1a), 2a), 3a) et 4a) de l’annexe 1 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), édictés par les articles 54 à 57, et le sous-alinéa a)(i) et l’alinéa b) de l’annexe 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), édictés par l’article 58, avaient été sanctionnés le 28 février 2018.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2009, ch. 10, art. 5
+
+
+**
+> 1992, ch. 28, par. 3(1)
+**
+
+**5** L’alinéa 12(3)b) de la même loi est remplacé par ce qui suit :
+
+- **b)** dans le cas de marchandises autres que celles visées à l’alinéa a) ou de marchandises importées comme courrier à bord d’un moyen de transport arrivé au Canada, la personne visée par règlement;
+
+
+
+
+
+######           — 2015, ch. 27, art. 35
+
+**35** Le paragraphe 107(5) de la Loi sur les douanes est modifié par adjonction, après l’alinéa k), de ce qui suit :
+
+- **k.1)** à un fonctionnaire, uniquement pour l’application ou l’exécution de la [Loi sur les armes à feu](/fr/Lois/Lois%20du%20Canada/1995/ch.%2039.md);
+
+
+
+
+
+######           — 2019, ch. 25, art. 392
+
+
+**
+> 2001, ch. 25, art. 84
+**
+
+**392** Le paragraphe 163.5(1) de la Loi sur les douanes est remplacé par ce qui suit :
+
+**Pouvoirs et fonctions de l’agent désigné**
+
+**163.5** 
+
+- **(1)** Dans le cadre de l’exercice normal de ses attributions à un bureau de douane ou s’il agit en conformité avec l’article 99.1, l’agent des douanes désigné, en plus des pouvoirs conférés aux agents des douanes pour l’application de la présente loi, a les pouvoirs et obligations que les articles 495 et 497 et les alinéas 498(1)a) et b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) confèrent à un agent de la paix à l’égard d’une infraction criminelle à toute autre loi fédérale; les paragraphes 495(3) et 498(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) lui sont alors applicables comme s’il était un agent de la paix.
+
+
+
 
 
