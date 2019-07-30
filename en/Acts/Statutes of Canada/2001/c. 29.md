@@ -41,12 +41,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Jurisdiction generally**
 
-- **(2)** The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Marine Transportation Security Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2040.md), the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md) and any other federal Act regarding transportation.
+- **(2)** The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md), the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Marine Transportation Security Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2040.md), the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md) and any other federal Act regarding transportation.
 
 **Jurisdiction in respect of other Acts**
 
-- **(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md), sections 43 to 55 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md), sections 129.01 to 129.19 of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md), sections 16.1 to 16.25 of the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md), sections 39.1 to 39.26 of the Navigation Protection Act and sections 130.01 to 130.19 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
-> 2001, c. 29, ss. 2, 71; 2007, c. 1, s. 59; 2008, c. 21, s. 65; 2012, c. 31, s. 345; 2018, c. 2, s. 18; 2019, c. 29, s. 290.
+- **(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md), sections 43 to 55 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md), sections 129.01 to 129.19 of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md), sections 16.1 to 16.25 of the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md), sections 39.1 to 39.26 of the [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) and sections 130.01 to 130.19 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
+> 2001, c. 29, ss. 2, 71; 2007, c. 1, s. 59; 2008, c. 21, s. 65; 2012, c. 31, s. 345; 2018, c. 2, s. 182019, c. 1, s. 1522019, c. 29, s. 290
 
 
 
@@ -83,7 +83,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Absence of Chairperson**
 
 - **(2)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Vice-Chairperson shall act as Chairperson during the continuance of that absence or incapacity or until a new Chairperson is designated.
-> 2001, c. 29, s. 5; 2014, c. 20, s. 464.
+> 2001, c. 29, s. 5; 2014, c. 20, s. 464
 
 
 
@@ -119,7 +119,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Status**
 
 - **(3)** Members are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 2001, c. 29, s. 7; 2003, c. 22, s. 224(E).
+> 2001, c. 29, s. 7; 2003, c. 22, s. 224(E)
 
 
 
@@ -436,5 +436,49 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 <sup><a href='#T-18.5_en_22'>[*]</a></sup>**73** The provisions of this Act, other than sections 71 and 72, come into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='T-18.5_en_22'><sup>*</sup></a>: [Note: Sections 71 and 72 in force on assent December 18, 2001; sections 1 to 45, 52 to 54 and 60 to 70 in force June 30, 2003, *see* SI/2003-128; sections 55 to 59 in force June 30, 2005, *see* SI/2005-61; sections 46 to 51 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 28, par. 186(e)
+
+
+**Replacement of “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)”**
+
+**186** Every reference to the “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” is replaced by a reference to the “[Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” in the following provisions:
+- **(e)** subsection 2(3) of the Transportation Appeal Tribunal of Canada Act;
+
+
+
+######           — 2019, c. 29, s. 267
+
+
+**
+> 2001, c. 29, s. 71
+**
+
+**267** Subsection 2(2) of the Transportation Appeal Tribunal of Canada Act is replaced by the following:
+
+**Jurisdiction generally**
+
+- **(2)** The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md), the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md), the [Marine Transportation Security Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2040.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) and any other federal Act regarding transportation.
+
+
+
+######           — 2019, c. 29, s. 268
+
+
+**
+> 2019, c. 1
+**
+
+**268** On the first day on which both section 152 of the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) and section 267 of this Act are in force, subsection 2(2) of the Transportation Appeal Tribunal of Canada Act is replaced by the following:
+
+**Jurisdiction generally**
+
+- **(2)** The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md), the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md), the [Marine Transportation Security Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2040.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) and any other federal Act regarding transportation.
+
 
 
