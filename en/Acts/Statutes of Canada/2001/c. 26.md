@@ -87,7 +87,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***vessel*** means a boat, ship or craft designed, used or capable of being used solely or partly for navigation in, on, through or immediately above water, without regard to method or lack of propulsion, and includes such a vessel that is under construction. It does not include a floating object of a prescribed class. (*bâtiment*)
 
 ***wages*** includes emoluments. (*gages*)
-> 2001, c. 26, ss. 2, 323, c. 29, s. 72; 2011, c. 15, s. 37; 2014, c. 29, s. 58.
+> 2001, c. 26, ss. 2, 323, c. 29, s. 72; 2011, c. 15, s. 37; 2014, c. 29, s. 58
 
 
 
@@ -103,7 +103,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Regulations**
 
 **4** The Governor in Council may, on the recommendation of the Minister of Transport, make regulations prescribing anything that may be prescribed under section 2.
-> 2001, c. 26, s. 4; 2005, c. 29, s. 15.
+> 2001, c. 26, s. 4; 2005, c. 29, s. 15
 
 
 
@@ -173,7 +173,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** subsections 10(2.1) and 35.1(1) also apply in respect of
 	- **(i)** foreign vessels in waters in the exclusive economic zone of Canada, and
 	- **(ii)** pleasure craft that are not Canadian vessels in Canadian waters or in waters in the exclusive economic zone of Canada.
-> 2001, c. 26, s. 8; 2018, c. 27, s. 688.
+> 2001, c. 26, s. 8; 2018, c. 27, s. 688
 
 
 
@@ -219,14 +219,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** Subject to any conditions that the Minister of Transport considers appropriate, the Minister may exempt for a specified period any vessel, or class of vessels, that is en route through Canadian waters but is not en route to or departing from a port in Canada, from the application of any provision of Part 3 (Personnel), 4 (Safety) or 9 (Pollution Prevention — Department of Transport) if the Minister is of the opinion that the provision is substantially similar to a provision of the laws of another state to which the vessel or class of vessels is subject.
 
-**Publication — Canada Gazette**
+**Publication — [Canada Gazette](http://www.gazette.gc.ca/)**
 
-- **(4)** Notice of every exemption granted under subsection (2), (2.1) or (3) must be published in the Canada Gazette.
+- **(4)** Notice of every exemption granted under subsection (2), (2.1) or (3) must be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Authorization**
 
 - **(5)** The Minister of Transport or the Minister of Fisheries and Oceans may authorize any person employed in the federal public administration or any police officer, police constable, constable or other person employed for the preservation and maintenance of the public peace, or any class of any of those persons, that that Minister considers proper to exercise any of the powers and perform any of the duties and functions that may be or are required to be exercised or performed by that Minister under this Act.
-> 2001, c. 26, s. 10; 2003, c. 22, s. 224(E); 2018, c. 27, s. 689.
+> 2001, c. 26, s. 10; 2003, c. 22, s. 224(E); 2018, c. 27, s. 689
 
 
 
@@ -256,16 +256,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Contravention of unpublished order**
 
-- **(5)** No person or vessel may be found guilty of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person or vessel had been notified of the interim order or reasonable steps had been taken to bring the purport of the interim order to the notice of those persons or vessels likely to be affected by it.
+- **(5)** No person or vessel may be found guilty of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the [Canada Gazette](http://www.gazette.gc.ca/) unless it is proved that, at the time of the alleged contravention, the person or vessel had been notified of the interim order or reasonable steps had been taken to bring the purport of the interim order to the notice of those persons or vessels likely to be affected by it.
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(6)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an interim order. However, the interim order shall be published in the Canada Gazette within 23 days after it is made.
+- **(6)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an interim order. However, the interim order shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) within 23 days after it is made.
 
 **Tabling of order**
 
 - **(7)** The Minister of Transport shall ensure that a copy of each interim order is tabled in each House of Parliament within 15 days after it is made. The copy is to be sent to the Clerk of the House if the House is not sitting.
-> 2018, c. 27, s. 690.
+> 2018, c. 27, s. 690
 
 
 
@@ -302,7 +302,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Immunity**
 
 - **(5)** Marine safety inspectors are not personally liable for anything they do or omit to do in good faith under this Act.
-> 2001, c. 26, s. 11; 2014, c. 29, s. 59.
+> 2001, c. 26, s. 11; 2014, c. 29, s. 59
 
 
 
@@ -417,7 +417,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** indicating, in the case of a refusal to issue a document under Part 3 (Personnel) on the grounds set out in paragraph (4)(a), (b), (c) or (e), the address at which, and the date, being thirty days after the notice is given, on or before which, the applicant may file a request for a review of the Minister’s decision.
 
 - **(6)** [Repealed, 2001, c. 29, s. 72]
-> 2001, c. 26, s. 16, c. 29, s. 72; 2012, c. 31, s. 156.
+> 2001, c. 26, s. 16, c. 29, s. 72; 2012, c. 31, s. 156
 
 
 
@@ -448,7 +448,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(5)** The member may
 	- **(a)** in the case of a decision made under paragraph 16(4)(e), confirm the decision or substitute his or her own determination; or
 	- **(b)** in any other case, confirm the decision or refer the matter back to the Minister of Transport for reconsideration.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -502,7 +502,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Return of document**
 
 - **(2)** If a Canadian maritime document is suspended or cancelled, the person who held it shall return it on demand to the Minister of Transport.
-> 2001, c. 26, s. 20, c. 29, s. 72; 2012, c. 31, s. 157.
+> 2001, c. 26, s. 20, c. 29, s. 72; 2012, c. 31, s. 157
 
 
 
@@ -513,7 +513,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **20.1** The Minister of Transport must, before suspending or cancelling a Canadian maritime document issued under Part 3 (Personnel), give the holder 30 days notice of the proposed suspension or cancellation. The notice must
 - **(a)** provide the holder with all relevant information concerning the grounds on which the Minister proposes to suspend or cancel the document; and
 - **(b)** indicate, in the case of a proposed suspension or cancellation of a document on the grounds referred to in paragraph 20(1)(a), (b), (c), (e) or (f) or subparagraph 20(1)(g)(ii), the address at which, and the date, being 30 days after the notice is given, on or before which, the applicant may file a request for a review of the Minister’s decision.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -536,7 +536,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Decision within 48 hours**
 
 - **(4)** The appeal panel of the Tribunal assigned to hear the appeal shall make a decision within 48 hours after the appeal is filed with the Tribunal.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -547,7 +547,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **20.3** Except where notice of a proposed suspension or cancellation of a Canadian maritime document is given under section 20.1, the Minister of Transport must, immediately after suspending, cancelling or refusing to renew a Canadian maritime document, give the holder a notice that
 - **(a)** confirms the suspension, cancellation or refusal and provides all relevant information concerning the grounds on which the Minister suspended, cancelled or refused to renew the document; and
 - **(b)** indicates, in the case of the suspension or cancellation of, or the refusal to renew, a document on the grounds referred to in paragraph 20(1)(a), (b), (c), (e) or (f) or subparagraph 20(1)(g)(ii), the address at which, and the date, being 30 days after the notice is given, on or before which, the applicant may file a request for a review of the Minister’s decision.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -584,7 +584,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(7)** The member may
 	- **(a)** in the case of a decision made under paragraph 20(1)(e) or subparagraph 20(1)(f)(ii) or (iii), confirm the Minister of Transport’s decision or substitute his or her own determination; and
 	- **(b)** in any other case, confirm the Minister of Transport’s decision or refer the matter back to the Minister for reconsideration.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -605,7 +605,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** The appeal panel of the Tribunal assigned to hear the appeal may
 	- **(a)** in the case of a determination made under paragraph 16.1(5)(a) or 20.4(7)(a), dismiss the appeal, or allow the appeal and substitute its own decision; or
 	- **(b)** in the case of a determination made under paragraph 16.1(5)(b) or 20.4(7)(b), dismiss the appeal or refer the matter back to the Minister of Transport for reconsideration.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -723,7 +723,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Panel decisions**
 
 - **(6)** For greater certainty, a decision of a panel is a decision of the Marine Technical Review Board.
-> 2001, c. 26, s. 27; 2003, c. 22, s. 224(E).
+> 2001, c. 26, s. 27; 2003, c. 22, s. 224(E)
 
 
 
@@ -863,7 +863,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **For greater certainty**
 
 - **(7)** Subsections (1) to (6) are for greater certainty and do not limit any authority to make regulations incorporating material by reference that exists apart from those subsections.
-> 2001, c. 26, s. 32; 2012, c. 31, s. 158.
+> 2001, c. 26, s. 32; 2012, c. 31, s. 158
 
 
 
@@ -874,7 +874,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **33** For greater certainty, no person or vessel may be convicted of an offence or subjected to a penalty for the contravention of a provision of a regulation made under this Act that incorporates material by reference unless it is proved that, at the time of the alleged contravention,
 - **(a)** the material was reasonably accessible to the person or vessel;
 - **(b)** reasonable steps had been taken to ensure that the material was accessible to persons or vessels likely to be affected by the regulation; or
-- **(c)** the material had been published in the Canada Gazette.
+- **(c)** the material had been published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 
 
@@ -892,7 +892,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(2)** An order or direction referred to in subsection (1) is not a statutory instrument as defined in the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2001, c. 26, s. 34; 2018, c. 27, s. 691.
+> 2001, c. 26, s. 34; 2018, c. 27, s. 691
 
 
 
@@ -914,9 +914,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(i)** implementing it in respect of persons, vessels or oil handling facilities to which it does not apply,
 		- **(ii)** establishing stricter standards than it sets out, or
 		- **(iii)** establishing additional or complementary standards to those it sets out if the Governor in Council is satisfied that the additional or complementary standards meet the objectives of the convention, protocol or resolution;
-	- **(e)** respecting record keeping, information management and reporting for the purposes of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
-	- **(f)** respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
-	- **(g)** respecting the setting and payment of fees for services provided in the administration of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck) other than section 163, 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under any of those Parts or under subsection 136(1);
+	- **(e)** respecting record keeping, information management and reporting for the purposes of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
+	- **(f)** respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
+	- **(g)** respecting the setting and payment of fees for services provided in the administration of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under any of those Parts or under subsection 136(1);
 	- **(h)** specifying the services for the purposes of paragraph 36.1(1)(d); and
 	- **(i)** specifying the services to which section 36.1 does not apply or the circumstances in which that section does not apply.
 
@@ -936,7 +936,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** respecting the setting and payment of fees for services provided in the administration of
 		- **(i)** Part 5 (Navigation Services) or 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans), to the extent that the Minister of Fisheries and Oceans is responsible for those Parts, or
 		- **(ii)** regulations made under subsection 136(2).
-> 2001, c. 26, s. 35, c. 29, s. 72; 2005, c. 29, s. 16; 2012, c. 31, s. 159.
+> 2001, c. 26, s. 35, c. 29, s. 72; 2005, c. 29, s. 16; 2012, c. 31, s. 1592019, c. 1, s. 141
 
 
 
@@ -979,7 +979,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Publication of order**
 
 - **(5)** The Minister of Transport shall publish, on the Department of Transport’s Internet site or by any other means that the Minister of Transport considers appropriate, a notice of every order referred to in subsection (2), as soon as feasible after it is made.
-> 2018, c. 27, s. 692.
+> 2018, c. 27, s. 692
 
 
 
@@ -1009,7 +1009,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Release on security**
 
 - **(4)** A Minister who obtains an order under subsection (3) must release a seized vessel from detention if security in a form satisfactory to that Minister for the amount in respect of which the vessel was seized is deposited with the Minister.
-> 2001, c. 26, s. 36; 2012, c. 31, s. 160(F).
+> 2001, c. 26, s. 36; 2012, c. 31, s. 160(F)
 
 
 
@@ -1036,7 +1036,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Spending**
 
 - **(5)** The Minister of Transport may spend the amounts received under an agreement entered into under subsection (1) in the fiscal year in which they are received or in the next fiscal year.
-> 2017, c. 20, s. 316.
+> 2017, c. 20, s. 316
 
 
 
@@ -1059,7 +1059,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Non-application of certain regulations**
 
 - **(3)** Unless otherwise provided in the regulations, the regulations made under paragraph 35(1)(g) do not apply in respect of any service referred to in any of paragraphs (1)(a) to (d) that is provided by any person or organization that is not part of the federal public administration in the exercise of powers or the performance of duties under this Act in accordance with an agreement or arrangement entered into by the Minister of Transport under paragraph 10(1)(c).
-> 2012, c. 31, s. 161; 2017, c. 20, s. 454.
+> 2012, c. 31, s. 161; 2017, c. 20, s. 454
 
 
 
@@ -1117,7 +1117,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000.
-> 2001, c. 26, s. 40; 2017, c. 26, s. 40.
+> 2001, c. 26, s. 40; 2017, c. 26, s. 40
 
 
 
@@ -1134,7 +1134,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both.
-> 2018, c. 27, s. 693.
+> 2018, c. 27, s. 693
 
 
 
@@ -1176,7 +1176,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Records**
 
 - **(2)** The Register is to contain records of the information and documents specified by the Chief Registrar in respect of a Canadian vessel or a fleet that is registered under this Part, including its description, its official number, the name and address of its owner and, in the case of a vessel that is not registered in the small vessel register, details of all mortgages registered in respect of it.
-> 2001, c. 26, s. 43; 2011, c. 15, s. 38.
+> 2001, c. 26, s. 43; 2011, c. 15, s. 38
 
 
 
@@ -1222,7 +1222,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Mandatory registration — government vessels**
 
 - **(3)** Every government vessel must be registered under this Part.
-> 2001, c. 26, s. 46; 2011, c. 15, s. 39.
+> 2001, c. 26, s. 46; 2011, c. 15, s. 39
 
 
 
@@ -1238,7 +1238,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(ii)** an employee or a director in Canada of a branch office of the corporation that is carrying on business in Canada, or
 	- **(iii)** a ship management company incorporated under the laws of Canada or a province; and
 - **(c)** a vessel that is in the exclusive possession of a qualified person under a financing agreement under which the person will acquire ownership on completion of the agreement.
-> 2001, c. 26, s. 47; 2011, c. 15, s. 40.
+> 2001, c. 26, s. 47; 2011, c. 15, s. 40
 
 
 
@@ -1467,7 +1467,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Notification of completion of construction**
 
 - **(4)** Within 30 days after completion of the construction of a vessel that is recorded as being built in Canada, the person in whose name the vessel is recorded shall notify the Chief Registrar of that fact and of the name and address of its owner.
-> 2001, c. 26, s. 58; 2011, c. 15, s. 41(F).
+> 2001, c. 26, s. 58; 2011, c. 15, s. 41(F)
 
 
 
@@ -1718,7 +1718,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Further evidence**
 
 - **(3)** In addition to the specified information and documents, the Chief Registrar may require an applicant to provide evidence, including declarations, that the Chief Registrar considers necessary to establish that the group of vessels may be registered as a fleet.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1736,7 +1736,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Small vessel register**
 
 - **(2)** A fleet that is accepted for registration must be registered in the small vessel register.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1774,7 +1774,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Acts or omissions of authorized representative binding**
 
 - **(7)** The owner of a fleet is bound by the acts or omissions of the authorized representative of the fleet with respect to all matters assigned by this Act to that representative.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1786,7 +1786,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** be owned by the same owner as all of the other vessels of the fleet;
 - **(b)** satisfy the conditions set out in paragraphs 75.02(1)(b) and (c); and
 - **(c)** fit within the description or particulars set out in the fleet’s certificate of registry.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1803,7 +1803,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** Unless it becomes part of another fleet, such a vessel ceases to be registered under this Part if
 	- **(a)** there is a change in its ownership; or
 	- **(b)** it is altered to the extent that it no longer fits within the description or particulars set out in the fleet’s certificate of registry.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1812,7 +1812,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Cancellation of individual registration**
 
 **75.06** The Chief Registrar may cancel the registration of a Canadian vessel if the vessel becomes part of a fleet.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1827,7 +1827,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d)** section 62;
 - **(e)** subsections 63(1) and (2);
 - **(f)** section 73.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1845,7 +1845,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Section 59**
 
 - **(2)** Section 59 applies in respect of a fleet, except that the reference to “section 58” is to be read as a reference to “section 75.1”.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1860,7 +1860,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Maintenance of markings**
 
 - **(2)** The authorized representative of a fleet shall ensure that each of the fleet’s vessels is kept marked.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1881,7 +1881,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** If for any reason a fleet does not have an authorized representative, its owner shall
 	- **(a)** notify the Chief Registrar of that fact as soon as possible in the circumstances; and
 	- **(b)** notify the Chief Registrar within 30 days after any event referred to in subsection (1) or (2) occurs.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1904,7 +1904,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Evidence**
 
 - **(3)** The Chief Registrar must cancel the registration of a fleet if a person who acquires the fleet does not, within the prescribed period, provide evidence that satisfies the Chief Registrar that the fleet still qualifies for registration under this Part.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1913,7 +1913,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Reinstatement**
 
 **75.12** The Chief Registrar may reinstate the registration of a fleet if, in his or her opinion, the registration of the fleet should not have been cancelled.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1922,7 +1922,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Delivery of certificate**
 
 **75.13** A person who is in possession of a fleet’s certificate of registry shall deliver it to the person who is entitled to operate the fleet.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1933,7 +1933,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **75.14** If the ownership of a fleet changes and the fleet still qualifies to be registered under this Part,
 - **(a)** the owner must provide the Chief Registrar with the evidence, including declarations, that the Chief Registrar considers necessary to establish that the fleet still qualifies to be so registered; and
 - **(b)** the Chief Registrar must amend the Register and the certificate of registry to reflect the change.
-> 2011, c. 15, s. 42.
+> 2011, c. 15, s. 42
 
 
 
@@ -1946,7 +1946,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Copies of entries**
 
 **76** A person may examine or obtain copies of any entries in the Register with respect to a vessel or fleet.
-> 2001, c. 26, s. 76; 2011, c. 15, s. 42.
+> 2001, c. 26, s. 76; 2011, c. 15, s. 42
 
 
 
@@ -1971,7 +1971,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(h.2)** authorizing the Minister to exempt, by order, vessels or classes of vessels from the registration requirement in subsection 46(1) for the period specified in the regulations and on any terms and conditions that he or she considers appropriate, if he or she is of the opinion that the exemption is not likely to adversely affect marine safety, and authorizing the Minister to amend or revoke an exemption;
 - **(h.3)** respecting an authorization under paragraph (h.2); and
 - **(i)** prescribing anything that may be prescribed under this Part.
-> 2001, c. 26, s. 77; 2011, c. 15, s. 43.
+> 2001, c. 26, s. 77; 2011, c. 15, s. 43
 
 
 
@@ -2027,7 +2027,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Continuing offence**
 
 - **(3)** If an offence under paragraph (1)(a) or (c) is committed or continued on more than one day, the person who committed it is liable to be convicted for a separate offence for each day on which it is committed or continued.
-> 2001, c. 26, s. 79; 2011, c. 15, s. 44.
+> 2001, c. 26, s. 79; 2011, c. 15, s. 44
 
 
 
@@ -2175,7 +2175,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Positions on board Canadian vessels**
 
 **87** Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions.
-> 2001, c. 26, s. 87; 2017, c. 26, s. 41(F).
+> 2001, c. 26, s. 87; 2017, c. 26, s. 41(F)
 
 
 
@@ -2190,7 +2190,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Foreign certificates of competency**
 
 - **(2)** The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister.
-> 2001, c. 26, ss. 88, 323; 2017, c. 26, s. 41(F).
+> 2001, c. 26, ss. 88, 323; 2017, c. 26, s. 41(F)
 
 
 
@@ -2205,7 +2205,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Suspension or cancellation**
 
 - **(2)** A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it.
-> 2001, c. 26, s. 89; 2017, c. 26, s. 41(F).
+> 2001, c. 26, s. 89; 2017, c. 26, s. 41(F)
 
 
 
@@ -2236,7 +2236,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deemed consent**
 
 - **(5)** The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection.
-> 2001, c. 26, s. 90; 2017, c. 26, s. 42(F).
+> 2001, c. 26, s. 90; 2017, c. 26, s. 42(F)
 
 
 
@@ -2390,7 +2390,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(k)** specifying what constitutes a serious violation of a contract of employment;
 - **(l)** respecting any occupational health or safety matter on board a vessel that is not regulated by the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md); and
 - **(m)** respecting the payment and allotment of crew members’ wages.
-> 2001, c. 26, s. 100; 2017, c. 26, s. 43(F).
+> 2001, c. 26, s. 100; 2017, c. 26, s. 43(F)
 
 
 
@@ -2628,7 +2628,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **116** Subject to sections 135 (stopping and boarding a vessel), 175.1 (powers of pollution response officers — general), 196 and 198 (pleasure craft inspections), 200 (stopping and boarding a vessel) and 211 (inspections) and to any other Act of Parliament, no person shall go or attempt to go on board a vessel or to leave or attempt to leave one
 - **(a)** without the permission or against the orders of the master or the person in charge of embarkation or disembarkation; or
 - **(b)** if there is no safe means of embarkation or disembarkation or every such means has been blocked.
-> 2001, c. 26, s. 116; 2005, c. 29, s. 17.
+> 2001, c. 26, s. 116; 2005, c. 29, s. 17
 
 
 
@@ -2704,7 +2704,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Contraventions of regulations**
 
 - **(5)** Despite section 105, paragraph 121(1)(s) applies in respect of contraventions of regulations made under subsection (3) or (4).
-> 2001, c. 26, s. 120; 2018, c. 27, s. 694(E).
+> 2001, c. 26, s. 120; 2018, c. 27, s. 694(E)
 
 
 
@@ -2845,7 +2845,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 - **(6)** In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall
 	- **(a)** if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and
 	- **(b)** if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations.
-> 2001, c. 26, s. 126; 2003, c. 22, s. 224(E).
+> 2001, c. 26, s. 126; 2003, c. 22, s. 224(E)
 
 
 
@@ -2909,7 +2909,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 **Duty to comply**
 
 - **(3)** Every vessel or person on board a vessel in Canadian waters and every vessel or person on board a vessel in any waters that has a master who is a qualified person shall comply with a direction given to it or them under subsection (2).
-> 2001, c. 26, s. 130; 2018, c. 27, s. 695.
+> 2001, c. 26, s. 130; 2018, c. 27, s. 695
 
 
 
@@ -2999,7 +2999,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 - **(2)** The Governor in Council may, on the recommendation of the Minister, make regulations
 	- **(a) and (b)** [Repealed, 2013, c. 28, s. 10]
 	- **(c)** respecting maritime search and rescue.
-> 2001, c. 26, s. 136; 2005, c. 29, s. 18; 2013, c. 28, s. 10.
+> 2001, c. 26, s. 136; 2005, c. 29, s. 18; 2013, c. 28, s. 10
 
 
 
@@ -3056,7 +3056,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 **Vessel may be detained**
 
 - **(4)** If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require.
-> 2001, c. 26, s. 138; 2018, c. 27, s. 696.
+> 2001, c. 26, s. 138; 2018, c. 27, s. 696
 
 
 
@@ -3075,130 +3075,39 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 
 
-**Definitions**
+**Definition of Minister**
 
-**140** The definitions in this section apply in this Part.
+**140** In this Part, ***Minister*** means the Minister of Transport.
+> 2001, c. 26, s. 1402019, c. 1, s. 143
 
-***Crown vessel*** means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. (*bâtiment appartenant à Sa Majesté*)
 
-***Minister*** means the Minister of Transport. (*ministre*)
 
 
+**141** [Repealed, 2019, c. 1, s. 143]
 
 
-### Application
 
+**142** [Repealed, 2019, c. 1, s. 143]
 
 
-**Vessels**
 
-**141** This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters.
+**143** [Repealed, 2019, c. 1, s. 143]
 
 
 
+**144** [Repealed, 2019, c. 1, s. 143]
 
-### Salvage
 
 
+**145** [Repealed, 2019, c. 1, s. 143]
 
-#### International Convention on Salvage, 1989
 
 
+**146** [Repealed, 2019, c. 1, s. 143]
 
-**Salvage Convention**
 
-**142** 
 
-- **(1)** Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada.
-
-**Inconsistent laws**
-
-- **(2)** In the event of an inconsistency between the Convention and this Act or the regulations, the Convention prevails to the extent of the inconsistency.
-
-
-
-
-#### Salvage by Crown Vessels
-
-
-
-**When salvage services may be claimed**
-
-**143** 
-
-- **(1)** In the case of salvage services rendered by or with the aid of a Crown vessel, Her Majesty in right of Canada and the master and crew members may claim salvage for salvage services only if the vessel is a tug or is specially equipped with a salvage plant.
-
-**Rights and limitations**
-
-- **(2)** In respect of salvage services that may be claimed under subsection (1),
-	- **(a)** Her Majesty has the same rights and remedies in respect of salvage services as any other salvor would have had if the vessel had belonged to that other salvor; and
-	- **(b)** no claim for salvage services by the master or a crew member of a Crown vessel may be finally adjudicated unless the consent of the Governor in Council to the prosecution of the claim is proved.
-
-**Time for giving consent**
-
-- **(3)** For the purpose of paragraph (2)(b), the consent of the Governor in Council may be given at any time before final adjudication.
-
-**Evidence of consent**
-
-- **(4)** Any document that purports to give the consent of the Governor in Council for the purpose of paragraph (2)(b) is evidence of that consent.
-
-**Claim dismissed if no consent**
-
-- **(5)** If a claim by the master or a crew member is prosecuted and the consent of the Governor in Council is not proved, the claim must be dismissed with costs.
-
-
-
-
-**Governor in Council may accept offers of settlement**
-
-**144** 
-
-- **(1)** The Governor in Council may, on the recommendation of the Attorney General of Canada, accept, on behalf of Her Majesty in right of Canada and the master or a crew member, offers of settlement made with respect to claims for salvage services rendered by Crown vessels.
-
-**Distribution**
-
-- **(2)** The proceeds of a settlement made under subsection (1) must be distributed in the manner that the Governor in Council specifies.
-
-
-
-
-#### Limitation of Time for Salvage Proceedings
-
-
-
-**Proceedings within two years**
-
-**145** 
-
-- **(1)** No action in respect of salvage services may be commenced more than two years after the date that the salvage services were rendered.
-
-**Extension of period by court**
-
-- **(2)** The court having jurisdiction to deal with an action to which this section relates may, in accordance with the rules of court, extend the period described in subsection (1) to the extent and on the conditions that it thinks fit.
-
-
-
-
-#### Aircraft
-
-
-
-**Aircraft treated as if vessel**
-
-**146** The provisions of this Part with respect to salvage apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels, with any modifications that the circumstances require.
-
-
-
-
-#### Rights Not Affected
-
-
-
-**Salvage**
-
-**147** Compliance with section 130 (direction of search and rescue mission coordinator), 131 (distress signals) or 132 (assisting a person found at sea) does not affect the right of a master or of any other person to salvage.
-> 2001, c. 26, s. 147; 2018, c. 27, s. 697.
-
+**147** [Repealed, 2019, c. 1, s. 143]
 
 
 
@@ -3259,14 +3168,12 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 - **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations
 	- **(a)** respecting the reporting of accidents or dangerous occurrences happening to or on board vessels, whether or not attended with loss of life;
-	- **(b)** removing any reservation from Part 2 of Schedule 3 that Canada withdraws;
+	- **(b)** [Repealed, 2019, c. 1, s. 144]
 	- **(c)** respecting the use of photographs, film, video recordings or electronic images of the human remains of victims of accidents involving a wrecked vessel or an aircraft wrecked in waters; and
 	- **(d)** prescribing anything that may be prescribed under this Part.
 
-**Regulations — Minister and Minister responsible for Parks Canada Agency**
-
-- **(2)** The Governor in Council may, on the recommendation of the Minister and the Minister responsible for the Parks Canada Agency, make regulations respecting the salvage of wreck or classes of wreck specified by regulations made under paragraph 163(2)(a).
-> 2001, c. 26, s. 150; 2005, c. 2, s. 8.
+- **(2)** [Repealed, 2019, c. 1, s. 144]
+> 2001, c. 26, s. 150; 2005, c. 2, s. 82019, c. 1, s. 144
 
 
 
@@ -3297,220 +3204,66 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 - **(1)** Every person commits an offence who contravenes
 	- **(a)** paragraph 148(b) (failure to provide information after a collision); or
-	- **(b)** a provision of the regulations made under paragraph 150(1)(c) or subsection 150(2).
+	- **(b)** a provision of the regulations made under paragraph 150(1)(c).
 
 **Punishment**
 
 - **(2)** Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000.
+> 2001, c. 26, s. 1522019, c. 1, s. 145
+
 
 
 
 
 **PART 7** 
-## Wreck
+## [Repealed, 2019, c. 1, s. 146]
 
 
+**153** [Repealed, 2019, c. 1, s. 146]
 
-### Interpretation
 
 
+**154** [Repealed, 2019, c. 1, s. 146]
 
-**Definitions**
 
-**153** The definitions in this section apply in this Part.
 
-***Minister*** means the Minister of Transport. (*ministre*)
+**155** [Repealed, 2019, c. 1, s. 146]
 
-***wreck*** includes
-- **(a)** jetsam, flotsam, lagan and derelict and any other thing that was part of or was on a vessel wrecked, stranded or in distress; and
-- **(b)** aircraft wrecked in waters and anything that was part of or was on an aircraft wrecked, stranded or in distress in waters. (*épave*)
-> 2001, c. 26, s. 153; 2005, c. 29, s. 19.
 
 
+**156** [Repealed, 2019, c. 1, s. 146]
 
 
 
-### Designation of Receivers of Wreck
+**157** [Repealed, 2019, c. 1, s. 146]
 
 
 
-**Designation**
+**158** [Repealed, 2019, c. 1, s. 146]
 
-**154** 
 
-- **(1)** The Minister may designate persons or classes of persons as receivers of wreck.
 
-**Authorization**
+**159** [Repealed, 2019, c. 1, s. 146]
 
-- **(2)** A receiver of wreck may authorize any person or class of persons to exercise any of their powers and perform any of their duties.
 
-**Immunity**
 
-- **(3)** Receivers of wreck, and persons authorized or within a class of persons authorized under subsection (2), are not personally liable for anything they do or omit to do in good faith under this Part.
+**160** [Repealed, 2019, c. 1, s. 146]
 
 
 
+**161** [Repealed, 2019, c. 1, s. 146]
 
-### Found Wreck
 
 
+**162** [Repealed, 2019, c. 1, s. 146]
 
-**Duty of persons taking possession of wreck**
 
-**155** 
 
-- **(1)** Any person who finds and takes possession of wreck in Canada, or who brings wreck into Canada, the owner of which is not known, shall, as soon as feasible,
-	- **(a)** report it to a receiver of wreck and provide the information and documents requested; and
-	- **(b)** take any measures with respect to the wreck that the receiver of wreck directs, including
-		- **(i)** delivering it to the receiver of wreck within the period specified by the receiver, or
-		- **(ii)** keeping it in their possession in accordance with the instructions of the receiver.
+**163** [Repealed, 2019, c. 1, s. 146]
 
-**Notice**
 
-- **(2)** If wreck has been reported under paragraph (1)(a), a receiver of wreck may take the action that the receiver considers reasonable to determine the owner of the wreck, including giving notice of the wreck in the manner that the receiver considers appropriate.
 
-**Discretion**
-
-- **(3)** A receiver of wreck is not required to take any measures, or to direct that any measures be taken, with respect to wreck.
-
-
-
-
-**Salvage award**
-
-**156** 
-
-- **(1)** A person who is referred to in subsection 155(1) and who has complied with that subsection is entitled to a salvage award determined by the receiver.
-
-**Nature of award**
-
-- **(2)** The salvage award may be the wreck, part of the wreck or all or part of the proceeds of its disposition.
-
-
-
-
-**Prohibition**
-
-**157** No person shall possess, conceal, destroy, sell or otherwise dispose of wreck that the person knows has not been reported to a receiver of wreck under paragraph 155(1)(a) or use any means to disguise or conceal the fact that anything is such wreck.
-
-
-
-
-**Delivery of wreck or proceeds of disposition**
-
-**158** A receiver of wreck must release wreck or pay the proceeds of its disposition under subsection 160(1) to a person who claims ownership of the wreck and
-- **(a)** submits, in the form and manner specified by the Minister, a claim to the receiver within 90 days after the wreck was reported under paragraph 155(1)(a);
-- **(b)** establishes their claim to the satisfaction of the receiver; and
-- **(c)** pays or delivers the salvage award determined by the receiver, and pays the receiver’s fees and expenses.
-
-
-
-
-**Interpleader in case of wreck**
-
-**159** 
-
-- **(1)** When two or more persons claim wreck or proceeds of wreck, or when a person disputes the amount or value of the salvage award determined by the receiver, any court having jurisdiction in civil matters to the value or amount in question may hear and determine the matter.
-
-**Maximum award**
-
-- **(2)** A salvage award that a court makes under subsection (1) may not exceed the value of the wreck.
-
-
-
-
-### Disposition of Wreck
-
-
-
-**When wreck may be disposed of**
-
-**160** 
-
-- **(1)** A receiver of wreck may dispose of or destroy wreck, or authorize its disposition or destruction,
-	- **(a)** after 90 days following the date that the wreck was reported under paragraph 155(1)(a); or
-	- **(b)** at any time if, in the receiver’s opinion, the value of the wreck is less than $5,000, the storage costs would likely exceed the value of the wreck or the wreck is perishable or poses a threat to public health or safety.
-
-**Proceeds held by receiver of wreck**
-
-- **(2)** The proceeds, if any, of a disposition under paragraph (1)(b) must be held by the receiver of wreck for not less than 90 days after the date that the wreck was reported under paragraph 155(1)(a).
-
-**Payment to CRF**
-
-- **(3)** The proceeds of a disposition under subsection (1) must be paid, less the salvage award, fees and expenses, to the Receiver General, to form part of the Consolidated Revenue Fund
-	- **(a)** if no claim has been submitted in accordance with paragraph 158(a); or
-	- **(b)** if a claim has not been established within the period that the receiver of wreck considers appropriate.
-
-
-
-
-**Unpaid salvage, fees, expenses**
-
-**161** If a person has established a claim to wreck, but has not paid or delivered the salvage award and has not paid the fees and expenses due within 30 days after notice is given by the receiver of wreck, the receiver may dispose of or destroy all or part of the wreck and, if it is disposed of, must pay, from the proceeds of the disposition, the expenses of the disposition and the salvage award, fees and expenses, and release any remaining wreck and pay any proceeds to that person.
-
-
-
-
-**Release of wreck**
-
-**162** On disposal or release of wreck or payment of the proceeds of its disposition by a receiver of wreck under this Part, the receiver, and any person authorized or a member of a class of persons authorized under subsection 154(2), is discharged from all liability in respect of the wreck.
-
-
-
-
-### Regulations
-
-
-
-**Regulations — Minister**
-
-**163** 
-
-- **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations
-	- **(a)** exempting any geographical area from the application of this Part; and
-	- **(b)** for carrying out the purposes and provisions of this Part.
-
-**Regulations — Minister and Minister responsible for Parks Canada Agency**
-
-- **(2)** The Governor in Council may, on the joint recommendation of the Minister and the Minister responsible for the Parks Canada Agency, make regulations
-	- **(a)** specifying wreck or classes of wreck that have heritage value;
-	- **(b)** respecting the protection and preservation of wreck or classes of wreck that have heritage value, and providing for issuing permits to access such wreck;
-	- **(c)** authorizing the designation of enforcement officers to ensure compliance with the regulations made under this Part and specifying their powers and duties;
-	- **(d)** authorizing the Minister and the Minister responsible for the Parks Canada Agency to jointly enter into agreements or arrangements respecting the administration or enforcement of any provision of the regulations made under this subsection and to authorize any person or organization with whom an agreement or arrangement is entered into to exercise the powers or perform the duties under those regulations that are specified in the agreement or arrangement;
-	- **(e)** exempting wreck or any class of wreck that has heritage value from the application of any provision of this Part;
-	- **(f)** exempting any geographical area from the application of regulations made under paragraph (b) or (c); and
-	- **(g)** respecting the setting and payment of fees, and the determination and payment of expenses, for services provided in the administration of regulations made under this subsection.
-
-**Debt due to Her Majesty**
-
-- **(3)** All fees and expenses set under paragraph (2)(g) and interest payable on those fees and expenses constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
-> 2001, c. 26, s. 163; 2005, c. 2, s. 9.
-
-
-
-
-
-### Offences and Punishment
-
-
-
-**Contravention of Act or regulations**
-
-**164** 
-
-- **(1)** Every person commits an offence who contravenes
-	- **(a)** paragraph 155(1)(a) (report wreck);
-	- **(b)** paragraph 155(1)(b) (take directed measures regarding wreck);
-	- **(c)** section 157 (possessing, concealing, destroying or disposing of wreck); or
-	- **(d)** a provision of the regulations made under this Part.
-
-**Punishment**
-
-- **(2)** Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both.
-
-**Prosecutions**
-
-- **(3)** In a prosecution under this Part, it is not necessary to identify the wreck as the property of a particular person or as coming from a particular vessel.
+**164** [Repealed, 2019, c. 1, s. 146]
 
 
 
@@ -3545,7 +3298,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 ***pollution damage***, in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. (*dommages dus à la pollution*)
 
 ***response organization*** means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). (*organisme d’intervention*)
-> 2001, c. 26, s. 165; 2005, c. 29, s. 21; 2018, c. 27, s. 698.
+> 2001, c. 26, s. 165; 2005, c. 29, s. 21; 2018, c. 27, s. 698
 
 
 
@@ -3597,8 +3350,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Publication**
 
-- **(4)** Notice of every exemption must be published in the Canada Gazette.
-> 2001, c. 26, s. 167; 2005, c. 29, s. 22.
+- **(4)** Notice of every exemption must be published in the [Canada Gazette](http://www.gazette.gc.ca/).
+> 2001, c. 26, s. 167; 2005, c. 29, s. 22
 
 
 
@@ -3611,7 +3364,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Notification of proposed operations**
 
 **167.1** Subject to the regulations, a person who proposes to operate an oil handling facility of a class established by the regulations shall, within the prescribed time, notify the Minister of the proposed operations relating to the loading or unloading of oil to or from vessels and shall submit to the Minister any information or documents required by the regulations and, within the time specified by the Minister, any information or documents requested by the Minister.
-> 2014, c. 29, s. 60.
+> 2014, c. 29, s. 60
 
 
 
@@ -3632,7 +3385,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Prohibition against beginning operations**
 
 - **(3)** A person referred to in subsection (1) shall not begin operations relating to the loading or unloading of oil to or from vessels unless the plans submitted under subsection (1) meet the requirements set out in the regulations.
-> 2014, c. 29, s. 60.
+> 2014, c. 29, s. 60
 
 
 
@@ -3641,7 +3394,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Notification of operations**
 
 **167.3** Subject to the regulations, the operator of an oil handling facility of a class established by the regulations shall notify the Minister of the oil handling facility’s operations relating to the loading or unloading of oil to or from vessels within 90 days after the day on which this section comes into force and shall submit to the Minister any information or documents required by the regulations and, within the time specified by the Minister, any information or documents requested by the Minister.
-> 2014, c. 29, s. 60.
+> 2014, c. 29, s. 60
 
 
 
@@ -3650,7 +3403,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Submission of plans**
 
 **167.4** Subject to the regulations, unless the plans have already been submitted under subsection 167.2(1), the operator of an oil handling facility of a class established by the regulations shall submit to the Minister, within the time set out in the regulations, an oil pollution prevention plan to prevent a discharge of oil during the loading or unloading of a vessel and an oil pollution emergency plan to respond to a discharge of oil during the loading or unloading of a vessel — which meet the requirements set out in the regulations — and shall submit to the Minister any information or documents requested by the Minister, within the time specified by the Minister.
-> 2014, c. 29, s. 60.
+> 2014, c. 29, s. 60
 
 
 
@@ -3679,7 +3432,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(3)** The operator of an oil handling facility referred to in subsection (1) shall take reasonable measures to implement
 	- **(a)** the oil pollution prevention plan referred to in paragraph (1)(c); and
 	- **(b)** in respect of an oil pollution incident, the oil pollution emergency plan referred to in paragraph (1)(d).
-> 2001, c. 26, s. 168; 2014, c. 29, s. 61.
+> 2001, c. 26, s. 1682014, c. 29, s. 61
 
 
 
@@ -3705,7 +3458,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Prohibition against making changes**
 
 - **(4)** An operator shall not make a change referred to in subsection (1) or permit one to be made unless the plans submitted under subsection (3) meet the requirements set out in the regulations.
-> 2014, c. 29, s. 62.
+> 2014, c. 29, s. 62
 
 
 
@@ -3714,7 +3467,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Update or revise plans**
 
 **168.1** Despite any other provision of this Part or the regulations, the Minister may direct the operator of an oil handling facility to update or revise an oil pollution prevention plan or an oil pollution emergency plan and to submit the up-to-date or revised plan to the Minister within the time specified by the Minister.
-> 2014, c. 29, s. 63.
+> 2014, c. 29, s. 63
 
 
 
@@ -3723,7 +3476,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Provide information**
 
 **168.2** A marine safety inspector may direct any person to provide the inspector with any information that the inspector reasonably requires in the administration of this Part.
-> 2014, c. 29, s. 63.
+> 2014, c. 29, s. 63
 
 
 
@@ -3734,7 +3487,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **168.3** If the Minister believes on reasonable grounds that an oil handling facility has discharged, is discharging or may discharge oil, that the oil pollution prevention plan or the oil pollution emergency plan for an oil handling facility does not meet the requirements set out in the regulations or that the operator of an oil handling facility does not have the procedures, equipment and resources required by the regulations available for immediate use in the event of a discharge of oil during the loading or unloading of a vessel, the Minister may
 - **(a)** monitor the measures taken by any person to repair, remedy, minimize or prevent pollution damage from the oil handling facility; or
 - **(b)** if he or she considers it necessary, direct the operator of the oil handling facility to take the measures that the Minister considers necessary to repair, remedy, minimize or prevent pollution damage from the oil handling facility, including to stop loading or unloading oil to or from vessels.
-> 2014, c. 29, s. 63; 2018, c. 27, s. 699.
+> 2014, c. 29, s. 63; 2018, c. 27, s. 699
 
 
 
@@ -3824,7 +3577,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Provide documents**
 
 **171.1** A marine safety inspector may direct a response organization to provide the inspector with any document that the organization is required to have under this Part.
-> 2014, c. 29, s. 64.
+> 2014, c. 29, s. 64
 
 
 
@@ -3897,7 +3650,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(2)** The Minister of Fisheries and Oceans must furnish every pollution response officer with a certificate of designation and, if the officer’s powers are limited under subsection (1), the certificate must specify the powers that the officer may exercise.
 
 - **(3)** [Repealed, 2018, c. 27, s. 700]
-> 2005, c. 29, s. 23; 2018, c. 27, s. 700.
+> 2005, c. 29, s. 23; 2018, c. 27, s. 700
 
 
 
@@ -3951,7 +3704,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Notice**
 
 - **(7)** The certificate or report may be admitted in evidence only if the party who intends to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention, together with a copy of the certificate or report.
-> 2005, c. 29, s. 23; 2018, c. 27, s. 701.
+> 2005, c. 29, s. 23; 2018, c. 27, s. 701
 
 
 
@@ -3989,7 +3742,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Return of documents and things**
 
 - **(5)** Documents or other things taken under paragraph (1)(h) must be returned as soon as feasible after they are no longer required for the inspection or for any proceedings that may result from it.
-> 2001, c. 26, s. 176; 2005, c. 29, s. 24; 2014, c. 29, s. 67.
+> 2001, c. 26, s. 176; 2005, c. 29, s. 24; 2014, c. 29, s. 67
 
 
 
@@ -4048,7 +3801,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(10)** The Minister of Fisheries and Oceans, after proceedings in respect of which security was deposited are concluded,
 	- **(a)** may apply the security to reimburse Her Majesty in right of Canada, either fully or partially, if any of the expenses or any fine has not been paid; and
 	- **(b)** is to return the security, or any part of it that remains if it is applied under paragraph (a), if all expenses and any fine imposed have been paid.
-> 2001, c. 26, s. 177; 2005, c. 29, s. 25.
+> 2001, c. 26, s. 177; 2005, c. 29, s. 25
 
 
 
@@ -4067,7 +3820,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(a)** on application made by the authorized representative or, if there is no authorized representative, the owner of a detained vessel, in the form and manner specified by the Minister of Fisheries and Oceans, permit the master to move it in accordance with the directions of the Minister of Fisheries and Oceans;
 - **(b)** on application made by the owner of a dock or wharf, or by the person in charge of a harbour, at which a detained vessel is situated, in the form and manner specified by the Minister of Fisheries and Oceans, direct the person who is, or appears to be, in charge of the vessel to move the vessel in accordance with the directions of the Minister of Fisheries and Oceans; and
 - **(c)** if a person to whom a direction is given under paragraph (b) does not comply with it and the Minister of Fisheries and Oceans is satisfied that the applicant for the direction has sufficient insurance in place to cover any incident that may arise from the moving of the vessel, authorize the applicant to move the vessel in accordance with the Minister of Fisheries and Oceans’ directions and at the expense of the authorized representative or, if there is no authorized representative, the owner.
-> 2001, c. 26, s. 179; 2005, c. 29, s. 26.
+> 2001, c. 26, s. 179; 2005, c. 29, s. 26
 
 
 
@@ -4109,7 +3862,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Priority**
 
 - **(4)** A direction made by the Minister of Fisheries and Oceans under paragraph (1)(c) prevails over an order or direction made under any Act of Parliament, to the extent of any inconsistency.
-> 2001, c. 26, s. 180; 2005, c. 29, s. 27; 2018, c. 27, s. 702.
+> 2001, c. 26, s. 180; 2005, c. 29, s. 27; 2018, c. 27, s. 702
 
 
 
@@ -4132,7 +3885,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Compensation**
 
 - **(4)** Her Majesty in right of Canada may compensate the owner of the property referred to in subsection (3), or any person that has, either by law or by contract, the rights of the owner of that property in respect of its possession and use, for any loss or damage caused by the use of that property under subsection (3) that exceeds the value of the benefit derived by the owner or person from that use.
-> 2018, c. 27, s. 703.
+> 2018, c. 27, s. 703
 
 
 
@@ -4141,7 +3894,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 **180.2** An order or direction given under this Part by the Minister of Fisheries and Oceans or a pollution response officer is not a statutory instrument as defined in the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2018, c. 27, s. 703.
+> 2018, c. 27, s. 703
 
 
 
@@ -4174,7 +3927,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Definition of response operation**
 
 - **(4)** In this section, ***response operation*** means the activities undertaken following a discharge, or a grave and imminent threat of a discharge, from a vessel or an oil handling facility, including activities related to or connected with surveillance of and assessing areas of pollution, mobilizing and demobilizing response equipment and resources, protective booming, containment, recovery, dispersal or destruction of the pollutant, shoreline mitigation and restoration, transporting and disposing of recovered pollutant or waste materials and planning and supervising activities related to the response operation.
-> 2001, c. 26, s. 181; 2014, c. 29, s. 68; 2018, c. 27, s. 704.
+> 2001, c. 26, s. 181; 2014, c. 29, s. 68; 2018, c. 27, s. 704
 
 
 
@@ -4185,7 +3938,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **181.1** The following persons are not civilly liable for anything they do or omit to do in good faith under this Part:
 - **(a)** a servant of the Crown, as those terms are defined in section 2 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md); and
 - **(b)** a pollution response officer.
-> 2018, c. 27, s. 705.
+> 2018, c. 27, s. 705
 
 
 
@@ -4217,7 +3970,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Notification**
 
 - **(3)** The Minister shall notify the operator of an oil handling facility of any designation made in respect of it under subsection (2).
-> 2001, c. 26, s. 182; 2014, c. 29, s. 69.
+> 2001, c. 26, s. 1822014, c. 29, s. 69
 
 
 
@@ -4257,7 +4010,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than eighteen months, or to both.
-> 2001, c. 26, s. 183; 2005, c. 29, s. 28; 2014, c. 29, s. 70.
+> 2001, c. 26, s. 183; 2005, c. 29, s. 28; 2014, c. 29, s. 70
 
 
 
@@ -4294,7 +4047,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both.
-> 2001, c. 26, s. 184; 2014, c. 29, s. 71.
+> 2001, c. 26, s. 184; 2014, c. 29, s. 71
 
 
 
@@ -4324,7 +4077,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(b)** any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans.
 
 It includes oil and any substance or class of substances that is prescribed for the purpose of Part 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to be a pollutant. (*polluant*)
-> 2001, c. 26, s. 185; 2005, c. 29, s. 29; 2018, c. 27, s. 706.
+> 2001, c. 26, s. 185; 2005, c. 29, s. 29; 2018, c. 27, s. 706
 
 
 
@@ -4383,7 +4136,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(d)** direct the vessel to proceed to the place that the Minister may select, by the route and in the manner that the Minister may specify, and to
 	- **(i)** unload the pollutant, or
 	- **(ii)** moor, anchor or remain there for any reasonable period that the Minister may specify.
-> 2001, c. 26, s. 189; 2005, c. 29, s. 30.
+> 2001, c. 26, s. 189; 2005, c. 29, s. 30
 
 
 
@@ -4415,7 +4168,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Application of regulations**
 
 - **(2)** Regulations made under subsection (1) apply in respect of vessels that are capable of engaging in the drilling for, or the production, conservation or processing of, oil or gas only if the regulations so state and were made on the joint recommendation of the Minister and the Minister of Natural Resources.
-> 2001, c. 26, s. 190; 2018, c. 27, s. 707(E).
+> 2001, c. 26, s. 190; 2018, c. 27, s. 707(E)
 
 
 
@@ -4508,7 +4261,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 ***licence*** means a licence issued for a pleasure craft under this Part. (*permis*)
 
 ***Minister*** means the Minister of Transport. (*ministre*)
-> 2001, c. 26, s. 194; 2005, c. 29, s. 31.
+> 2001, c. 26, s. 194; 2005, c. 29, s. 31
 
 
 
@@ -4722,7 +4475,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(2)** The Governor in Council may, on the recommendation of the Minister, make regulations
 	- **(a)** regulating or prohibiting the discharge of pollutants from pleasure craft; and
 	- **(b)** regulating noise emissions from pleasure craft engines.
-> 2001, c. 26, s. 207; 2015, c. 3, s. 24(F).
+> 2001, c. 26, s. 207; 2015, c. 3, s. 24(F)
 
 
 
@@ -4785,9 +4538,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 ***Minister*** means the Minister of Transport. (*ministre*)
 
 ***relevant provision*** means a provision of this Act or the regulations that the Minister is responsible for administering, other than
-- **(a)** subsection 40(1) with respect to a provision of regulations made under paragraph 35(1)(e) in relation to Part 7 (Wreck) or 10 (Pleasure Craft); and
-- **(b)** a provision of any of Parts 5 (Navigation Services), 7 (Wreck) and 10 (Pleasure Craft) or a provision of any regulation made under any of those Parts, except a provision of the regulations made under paragraph 136(1)(f) in so far as it applies in respect of Canadian vessels or foreign vessels. (*disposition visée*)
-> 2001, c. 26, s. 210; 2005, c. 29, s. 32; 2014, c. 29, s. 72.
+- **(a)** subsection 40(1) with respect to a provision of the regulations made under paragraph 35(1)(e) in relation to Part 10 (Pleasure Craft); and
+- **(b)** a provision of Part 5 (Navigation Services) or 10 (Pleasure Craft) or a provision of any regulation made under either of those Parts, except a provision of the regulations made under paragraph 136(1)(f) in so far as it applies in respect of Canadian vessels or foreign vessels. (*disposition visée*)
+> 2001, c. 26, s. 210; 2005, c. 29, s. 32; 2014, c. 29, s. 722019, c. 1, s. 147
 
 
 
@@ -4844,7 +4597,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Return of documents and things**
 
 - **(6)** Documents or other things taken under paragraph (4)(j) must be returned as soon as feasible after they are no longer required for the purpose for which they were taken.
-> 2001, c. 26, s. 211; 2014, c. 29, s. 73.
+> 2001, c. 26, s. 211; 2014, c. 29, s. 73
 
 
 
@@ -5111,12 +4864,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
-
-**Abandoned vessels**
-
 **226** 
 
-- **(1)** The Minister may sell a vessel that is deemed abandoned under the regulations and may, by bill of sale, give the purchaser a valid title to it free from any mortgage or other claim on the vessel that exists at the time of the sale.
+- **(1)** [Repealed, 2019, c. 1, s. 148]
 
 **Vessel may be seized and sold if fine or penalty not paid**
 
@@ -5137,6 +4887,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(4)** If the proceeds of sale of a vessel are insufficient to satisfy the claims described in subsection (3), the Minister may proceed for the balance owing against
 	- **(a)** the authorized representative, in the case of a Canadian vessel; and
 	- **(b)** the owner, in the case of a foreign vessel.
+> 2001, c. 26, s. 2262019, c. 1, s. 148
+
 
 
 
@@ -5176,7 +4928,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Definition of violation**
 
 **228** In sections 229 to 244, ***violation*** means a contravention of a relevant provision, or a contravention of a direction given under a relevant provision, that is designated as a violation by the regulations made under this Part.
-> 2001, c. 26, s. 228; 2014, c. 29, s. 74.
+> 2001, c. 26, s. 228; 2014, c. 29, s. 74
 
 
 
@@ -5207,7 +4959,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Short-form descriptions in notices of violation**
 
 - **(3)** The Minister may establish, in respect of each violation, a short-form description to be used in notices of violation.
-> 2001, c. 26, s. 229, c. 29, s. 72.
+> 2001, c. 26, s. 229, c. 29, s. 72
 
 
 
@@ -5222,7 +4974,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Request for review**
 
 - **(2)** A person who, or vessel that, enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default is served within that period under section 231.1, request a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under paragraph 232(1)(b) of the facts of the violation and the amount of the penalty is deemed to have been requested.
-> 2001, c. 26, s. 230, c. 29, s. 72.
+> 2001, c. 26, s. 230, c. 29, s. 72
 
 
 
@@ -5233,7 +4985,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **231** If the Minister is satisfied that an assurance of compliance has been complied with, the Minister must cause a notice to that effect to be served on the person or vessel and, on the service of the notice,
 - **(a)** no further proceedings may be taken against the person or vessel with respect to the violation in respect of which the assurance was entered into; and
 - **(b)** any security deposited under subparagraph 229(1)(a)(ii) must be returned to the person or vessel.
-> 2001, c. 26, s. 231, c. 29, s. 72.
+> 2001, c. 26, s. 231, c. 29, s. 72
 
 
 
@@ -5254,7 +5006,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **No set-off**
 
 - **(3)** On the service of a notice of default, the person or vessel served has no right of set-off against any amount spent by the person or vessel under the assurance of compliance.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -5285,7 +5037,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Determination**
 
 - **(6)** The member may confirm the Minister’s decision or determine that the person or vessel has complied with the assurance of compliance.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -5296,7 +5048,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **231.3** Any security deposited under subparagraph 229(1)(a)(ii) must be returned to the person or vessel if
 - **(a)** the person or vessel pays double the amount of the penalty set out in the assurance of compliance in accordance with a notice of default under section 231.1; or
 - **(b)** a member determines under section 231.2, or an appeal panel decides under section 232.2, that the assurance of compliance has been complied with.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -5313,7 +5065,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **When review not requested**
 
 - **(2)** If a review of the facts of the violation is not requested, the person or vessel is deemed to have committed the violation in respect of which the notice was served.
-> 2001, c. 26, s. 232, c. 29, s. 72.
+> 2001, c. 26, s. 232, c. 29, s. 72
 
 
 
@@ -5336,7 +5088,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Determination**
 
 - **(4)** The member may confirm the Minister’s decision or, subject to any regulations made under paragraph 244(h), substitute his or her own determination.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -5357,7 +5109,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(3)** The appeal panel of the Tribunal assigned to hear the appeal may
 	- **(a)** in the case of a determination made under subsection 231.2(6), dismiss the appeal or allow the appeal and substitute its own decision; or
 	- **(b)** in the case of a determination made under subsection 232.1(4), dismiss the appeal, or allow the appeal and, subject to regulations made under paragraph 244(h), substitute its own decision.
-> 2001, c. 29, s. 72.
+> 2001, c. 29, s. 72
 
 
 
@@ -5385,7 +5137,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(b)** the amount that a notice of default served under subsection 231.1(1) provides that a person is liable to pay, from the time the notice is served;
 - **(c)** the amount of a penalty determined by a member after a review under section 232.1, or decided by an appeal panel after an appeal under section 232.2, from the time of the respective determination or decision; and
 - **(d)** the amount of any reasonable expenses incurred in attempting to recover an amount referred to in any of paragraphs (a) to (c).
-> 2001, c. 26, s. 234, c. 29, s. 72.
+> 2001, c. 26, s. 234, c. 29, s. 72
 
 
 
@@ -5400,7 +5152,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Judgments**
 
 - **(2)** On production to the Federal Court, a certificate made under subsection (1) is to be registered in that Court and, when registered, has the same force and effect, and all proceedings may be taken on it, as if it were a judgment obtained in that Court for a debt of the amount specified in it and all reasonable costs and charges attendant in its registration.
-> 2001, c. 26, s. 235, c. 29, s. 72.
+> 2001, c. 26, s. 235, c. 29, s. 72
 
 
 
@@ -5486,7 +5238,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Disposition of appeal**
 
 - **(10)** The appeal panel assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration.
-> 2001, c. 26, s. 239, c. 29, s. 72.
+> 2001, c. 26, s. 239, c. 29, s. 72
 
 
 
@@ -5516,7 +5268,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **When compliance agreement in effect**
 
 **243** If a violation arising out of the contravention of any provision of Part 4, 8 or 9 or the regulations made under those Parts is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with that provision will be carried out by the authorized representative or a person or an organization acting on their behalf, the penalty or range of penalties fixed under paragraph 244(h) in respect of the violation is doubled.
-> 2001, c. 26, s. 243; 2018, c. 27, s. 708.
+> 2001, c. 26, s. 243; 2018, c. 27, s. 708
 
 
 
@@ -5532,7 +5284,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(a)** respecting clearances for departure from a port in Canada;
 - **(b)** respecting the investigation of shipping casualties, the alleged contravention of a relevant provision or an incident that involved a vessel and that, in the opinion of the Minister, jeopardized the safety of persons;
 - **(c)** respecting the detention of vessels, including the review of detention orders;
-- **(d)** specifying the circumstances in which a vessel is deemed abandoned;
+- **(d)** [Repealed, 2019, c. 1, s. 149]
 - **(e)** respecting the sale of a vessel under section 226, including measures that must be taken before the vessel is sold and the manner of establishing, and the priority of payment of, claims against the vessel;
 - **(f)** designating as a violation that may be proceeded with in accordance with sections 229 to 242 the contravention of a relevant provision, or the contravention of a direction given under a relevant provision, that is an offence under this Act;
 - **(g)** designating violations that, if continued on more than one day, constitute a separate violation for each day on which they are continued;
@@ -5540,7 +5292,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(i)** respecting emergency and safety procedures for the purpose of paragraph 211(4)(d.1);
 - **(j)** respecting the service of documents required or authorized to be served under this Part, including the manner of serving them, the proof of their service and the circumstances under which they are deemed to have been served; and
 - **(k)** prescribing anything that by this Part is to be prescribed.
-> 2001, c. 26, s. 244, c. 29, s. 72; 2014, c. 29, s. 75; 2018, c. 27, s. 709.
+> 2001, c. 26, s. 244, c. 29, s. 72; 2014, c. 29, s. 75; 2018, c. 27, s. 7092019, c. 1, s. 149
 
 
 
@@ -5583,7 +5335,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both.
-> 2001, c. 26, s. 246; 2015, c. 3, s. 25(F).
+> 2001, c. 26, s. 246; 2015, c. 3, s. 25(F)
 
 
 
@@ -5644,7 +5396,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Responsibility for goods**
 
 **250** Subject to Part 5 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md), carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water.
-> 2001, c. 26, ss. 250, 324.
+> 2001, c. 26, ss. 250, 324
 
 
 
@@ -5671,7 +5423,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Definition of stevedoring**
 
 - **(4)** In this section, ***stevedoring*** includes trimming, lighterage and the supply of any goods or services in relation to stevedoring.
-> 2001, c. 26, s. 251; 2002, c. 8, s. 195.
+> 2001, c. 26, s. 251; 2002, c. 8, s. 195
 
 
 
@@ -5690,7 +5442,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Directions**
 
 - **(2)** For the purpose of prosecuting a vessel for contravening a direction given under this Act, a direction given to the master, a crew member or any person on board who is, or appears to be, in charge of the vessel, is deemed to have been given to the vessel.
-> 2001, c. 26, s. 252; 2005, c. 29, s. 33; 2014, c. 29, s. 76.
+> 2001, c. 26, s. 252; 2005, c. 29, s. 33; 2014, c. 29, s. 76
 
 
 
@@ -5803,7 +5555,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Power to detain foreign vessel that has caused damage**
 
 **259** If the Federal Court is satisfied that damage or loss has in any part of the world been caused to property that belongs to Her Majesty in right of Canada or a province or to a qualified person by the fault, in whole or in part, of a foreign vessel that is at the time of the application in Canadian waters, on *ex parte* application the Federal Court may issue an order requiring any person named by the Court to detain the vessel until the applicant has been compensated for the damage or loss or until security, in the form and amount approved by the Court, is deposited with the Court.
-> 2001, c. 26, s. 259; 2015, c. 3, s. 26(E).
+> 2001, c. 26, s. 259; 2015, c. 3, s. 26(E)
 
 
 
@@ -5873,7 +5625,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Jurisdiction**
 
 **264** If there is no judge having jurisdiction in respect of writs of *certiorari* resident at or near the place where a conviction or an order is made, in Ontario, a judge of the Ontario Superior Court of Justice, in Nova Scotia, British Columbia and Prince Edward Island, a judge of the Supreme Court, in Newfoundland and Labrador, a judge of the Trial Division of the Supreme Court, or, in New Brunswick, Manitoba, Saskatchewan or Alberta, a judge of the Court of Queen’s Bench has power to hear and determine an application for a stay of proceedings on the conviction or order.
-> 2001, c. 26, s. 264; 2015, c. 3, s. 27.
+> 2001, c. 26, s. 264; 2015, c. 3, s. 27
 
 
 
@@ -5932,8 +5684,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Crown not relieved**
 
-**268.1** Subsections 11(5) and 12(5), section 45, subsection 154(3), paragraph 181.1(a) and subsection 195(3) do not, by reason of section 10 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md), relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
-> 2001, c. 26, s. 268.1; 2014, c. 29, s. 77; 2018, c. 27, s. 710.
+**268.1** Subsections 11(5) and 12(5), section 45, paragraph 181.1(a) and subsection 195(3) do not, by reason of section 10 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md), relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
+> 2001, c. 26, s. 268.1; 2014, c. 29, s. 772018, c. 27, ss. 710, 7122019, c. 1, s. 150
 
 
 
@@ -6017,7 +5769,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **272** Every vessel, other than a pleasure craft, licensed under section 108 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, when Part 2 comes into force is deemed to be registered in the small vessel register referred to in subsection 43(1) until
 - **(a)** the earlier of the date the vessel’s ownership changes and five years after Part 2 comes into force; or
 - **(b)** in the case of a vessel that was issued a licence under that Act, the expiry date of the licence.
-> 2001, c. 26, s. 272; 2015, c. 3, s. 28(F).
+> 2001, c. 26, s. 272; 2015, c. 3, s. 28(F)
 
 
 
@@ -6050,7 +5802,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Pleasure craft**
 
-- **(5)** Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985 (“that Act”), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the [Small Vessel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/91.md) made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first.
+- **(5)** Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985 (“that Act”), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the [Small Vessel Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201487.md) made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first.
 
 **Offence**
 
@@ -6230,7 +5982,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **31** Maritime Labour Convention, 2006
 
 
-> 2001, c. 26, Sch. 1; SOR/2007-109; SOR/2009-154; SOR/2019-136, s. 1.
+> 2001, c. 26, Sch. 1; SOR/2007-109; SOR/2009-154SOR/2019-136, s. 1
 
 
 
@@ -6248,726 +6000,86 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 ### **SCHEDULE 3** 
-**(Subsection 142(1) and paragraph 150(1)(b))**
-## Salvage
+[Repealed, 2019, c. 1, s. 151]
 
-**PART 1** 
-### International Convention on Salvage, 1989
 
 
-THE STATES PARTIES TO THE PRESENT CONVENTION,
 
+## RELATED PROVISIONS
 
+######           — 2012, c. 31, s. 162
 
-RECOGNIZING the desirability of determining by agreement uniform international rules regarding salvage operations,
 
+**Setting of fees — Canada Shipping Act, 2001**
 
+**162** 
 
-NOTING that substantial developments, in particular the increased concern for the protection of the environment, have demonstrated the need to review the international rules presently contained in the Convention for the Unification of Certain Rules of Law relating to Assistance and Salvage at Sea, done at Brussels, 23 September 1910,
+- **(1)** A classification society that provides, during the period beginning on July 1, 2007 and ending on the day before the day on which this Act receives royal assent, any of the following services in the exercise of powers or the performance of duties under the Canada Shipping Act, 2001 in accordance with an agreement or arrangement entered into by the Minister of Transport under paragraph 10(1)(c) of that Act may set the fees to be paid to it for those services:
+	- **(a)** services related to a Canadian maritime document;
+	- **(b)** services related to any approvals or certifications; and
+	- **(c)** the conduct or witnessing of tests.
 
+**Not public money**
 
+- **(2)** The fees referred to in subsection (1) are not public money within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of them.
 
-CONSCIOUS of the major contribution which efficient and timely salvage operations can make to the safety of vessels and other property in danger and to the protection of the environment,
+**Non-application of certain regulations**
 
+- **(3)** The regulations made under paragraph 35(1)(g) of the Canada Shipping Act, 2001 do not apply in respect of any service referred to in any of paragraphs (1)(a) to (c) that is provided, during the period beginning on July 1, 2007 and ending on the day before the day on which this Act receives royal assent, by a classification society in the exercise of powers or the performance of duties under that Act in accordance with an agreement or arrangement entered into by the Minister of Transport under paragraph 10(1)(c) of that Act.
 
 
-CONVINCED of the need to ensure that adequate incentives are available to persons who undertake salvage operations in respect of vessels and other property in danger,
 
+######           — 2012, c. 31, s. 163
 
 
-HAVE AGREED as follows:
+**Setting of fees — [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md)**
 
+**163** 
 
+- **(1)** A classification society that provides, during the period beginning on January 1, 1999 and ending on June 30, 2007, any of the following services in the exercise of powers or the performance of duties under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) in accordance with an agreement or arrangement entered into by the Minister of Transport under paragraph 8(1)(c) of that Act may set the fees to be paid to it for those services:
+	- **(a)** services related to an inspection certificate;
+	- **(b)** services related to any approvals or certifications; and
+	- **(c)** the conduct or witnessing of tests.
 
-**CHAPTER I** 
-### General Provisions
+**Not public money**
 
+- **(2)** The fees referred to in subsection (1) are not public money within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and are not subject to subsection 408(2) of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md).
 
-**ARTICLE 1** 
-### Definitions
+**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
+- **(3)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the fees referred to in subsection (1).
 
-For the purpose of this Convention:
 
-**(a)** ***Salvage operation*** means any act or activity undertaken to assist a vessel or any other property in danger in navigable waters or in any other waters whatsoever.
 
+######           — 2012, c. 31, s. 164
 
 
-**(b)** ***Vessel*** means any ship or craft, or any structure capable of navigation.
+**Non-application of certain regulations**
 
+**164** The regulations made under paragraph 231(1)(d), subsections 408(1) or (4) or paragraphs 657(1)(l) or (m) of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) do not apply in respect of any service referred to in any of paragraphs 163(1)(a) to (c) that is provided, during the period beginning on January 1, 1999 and ending on June 30, 2007, by a classification society in the exercise of powers or the performance of duties under that Act.
 
 
-**(c)** ***Property*** means any property not permanently and intentionally attached to the shoreline and includes freight at risk.
 
+######           — 2018, c. 27, s. 711
 
 
-**(d)** ***Damage to the environment*** means substantial physical damage to human health or to marine life or resources in coastal or inland waters or areas adjacent thereto, caused by pollution, contamination, fire, explosion or similar major incidents.
+**Deemed violation**
 
+**711** 
 
+- **(1)** A contravention of subsection 10.1(4) of the Canada Shipping Act, 2001 (in this section referred to as “the Act”), as enacted by section 690 of this Act, is deemed to be a violation for the purposes of sections 229 to 243 of the Act and the provisions of any regulations made under section 244 of the Act.
 
-**(e)** ***Payment*** means any reward, remuneration or compensation due under this Convention.
+**Range of penalties**
 
+- **(2)** The range of penalties in respect of a violation referred to in subsection (1) is $250 to $250,000.
 
+**Continued violation**
 
-**(f)** ***Organization*** means the International Maritime Organization.
+- **(3)** A violation referred to in subsection (1) constitutes a separate violation for each day on which it is continued.
 
+**Repeal**
 
-
-**(g)** ***Secretary-General*** means the Secretary-General of the Organization.
-
-
-
-
-
-**ARTICLE 2** 
-### Application of the Convention
-
-
-This Convention shall apply whenever judicial or arbitral proceedings relating to matters dealt with in this Convention are brought in a State Party.
-
-
-
-**ARTICLE 3** 
-### Platforms and drilling units
-
-
-This Convention shall not apply to fixed or floating platforms or to mobile offshore drilling units when such platforms or units are on location engaged in the exploration, exploitation or production of sea-bed mineral resources.
-
-
-
-**ARTICLE 4** 
-### State-owned vessels
-
-
-**1** Without prejudice to article 5, this Convention shall not apply to warships or other non-commercial vessels owned or operated by a State and entitled, at the time of salvage operations, to sovereign immunity under generally recognized principles of international law unless that State decides otherwise.
-
-
-
-**2** Where a State Party decides to apply the Convention to its warships or other vessels described in paragraph 1, it shall notify the Secretary-General thereof specifying the terms and conditions of such application.
-
-
-
-**ARTICLE 5** 
-### Salvage operations controlled by public authorities
-
-
-**1** This Convention shall not affect any provisions of national law or any international convention relating to salvage operations by or under the control of public authorities.
-
-
-
-**2** Nevertheless, salvors carrying out such salvage operations shall be entitled to avail themselves of the rights and remedies provided for in this Convention in respect of salvage operations.
-
-
-
-**3** The extent to which a public authority under a duty to perform salvage operations may avail itself of the rights and remedies provided for in this Convention shall be determined by the law of the State where such authority is situated.
-
-
-
-**ARTICLE 6** 
-### Salvage contracts
-
-
-**1** This Convention shall apply to any salvage operations save to the extent that a contract otherwise provides expressly or by implication.
-
-
-
-**2** The master shall have the authority to conclude contracts for salvage operations on behalf of the owner of the vessel. The master or the owner of the vessel shall have the authority to conclude such contracts on behalf of the owner of the property on board the vessel.
-
-
-
-**3** Nothing in this article shall affect the application of article 7 nor duties to prevent or minimize damage to the environment.
-
-
-
-**ARTICLE 7** 
-### Annulment and modification of contracts
-
-
-A contract or any terms thereof may be annulled or modified if:
-
-**(a)** the contract has been entered into under undue influence or the influence of danger and its terms are inequitable; or
-
-
-
-**(b)** the payment under the contract is in an excessive degree too large or too small for the services actually rendered.
-
-
-
-
-
-**CHAPTER II** 
-### Performance of Salvage Operations
-
-
-**ARTICLE 8** 
-### Duties of the salvor and of the owner and master
-
-
-**1** The salvor shall owe a duty to the owner of the vessel or other property in danger:
-
-**(a)** to carry out the salvage operations with due care;
-
-
-
-**(b)** in performing the duty specified in subparagraph (a), to exercise due care to prevent or minimize damage to the environment;
-
-
-
-**(c)** whenever circumstances reasonably require, to seek assistance from other salvors; and
-
-
-
-**(d)** to accept the intervention of other salvors when reasonably requested to do so by the owner or master of the vessel or other property in danger; provided however that the amount of his reward shall not be prejudiced should it be found that such a request was unreasonable.
-
-
-
-
-
-**2** The owner and master of the vessel or the owner of other property in danger shall owe a duty to the salvor:
-
-**(a)** to co-operate fully with him during the course of the salvage operations;
-
-
-
-**(b)** in so doing, to exercise due care to prevent or minimize damage to the environment; and
-
-
-
-**(c)** when the vessel or other property has been brought to a place of safety, to accept redelivery when reasonably requested by the salvor to do so.
-
-
-
-
-
-**ARTICLE 9** 
-### Rights of coastal States
-
-
-Nothing in this Convention shall affect the right of the coastal State concerned to take measures in accordance with generally recognized principles of international law to protect its coastline or related interests from pollution or the threat of pollution following upon a maritime casualty or acts relating to such a casualty which may reasonably be expected to result in major harmful consequences, including the right of a coastal State to give directions in relation to salvage operations.
-
-
-
-**ARTICLE 10** 
-### Duty to render assistance
-
-
-**1** Every master is bound, so far as he can do so without serious danger to his vessel and persons thereon, to render assistance to any person in danger of being lost at sea.
-
-
-
-**2** The States Parties shall adopt the measures necessary to enforce the duty set out in paragraph 1.
-
-
-
-**3** The owner of the vessel shall incur no liability for a breach of the duty of the master under paragraph 1.
-
-
-
-**ARTICLE 11** 
-### Co-operation
-
-
-A State Party shall, whenever regulating or deciding upon matters relating to salvage operations such as admittance to ports of vessels in distress or the provisions of facilities to salvors, take into account the need for co-operation between salvors, other interested parties and public authorities in order to ensure the efficient and successful performance of salvage operations for the purpose of saving life or property in danger as well as preventing damage to the environment in general.
-
-
-
-**CHAPTER III** 
-### Rights of Salvors
-
-
-**ARTICLE 12** 
-### Conditions for reward
-
-
-**1** Salvage operations which have had a useful result give right to a reward.
-
-
-
-**2** Except as otherwise provided, no payment is due under this Convention if the salvage operations have had no useful result.
-
-
-
-**3** This chapter shall apply, notwithstanding that the salved vessel and the vessel undertaking the salvage operations belong to the same owner.
-
-
-
-**ARTICLE 13** 
-### Criteria for fixing the reward
-
-
-**1** The reward shall be fixed with a view to encouraging salvage operations, taking into account the following criteria without regard to the order in which they are presented below:
-
-**(a)** the salved value of the vessel and other property;
-
-
-
-**(b)** the skill and efforts of the salvors in preventing or minimizing damage to the environment;
-
-
-
-**(c)** the measure of success obtained by the salvor;
-
-
-
-**(d)** the nature and degree of the danger;
-
-
-
-**(e)** the skill and efforts of the salvors in salving the vessel, other property and life;
-
-
-
-**(f)** the time used and expenses and losses incurred by the salvors;
-
-
-
-**(g)** the risk of liability and other risks run by the salvors or their equipment;
-
-
-
-**(h)** the promptness of the services rendered;
-
-
-
-**(i)** the availability and use of vessels or other equipment intended for salvage operations;
-
-
-
-**(j)** the state of readiness and efficiency of the salvor’s equipment and the value thereof.
-
-
-
-
-
-**2** Payment of a reward fixed according to paragraph 1 shall be made by all of the vessel and other property interests in proportion to their respective salved values. However, a State Party may in its national law provide that the payment of a reward has to be made by one of these interests, subject to a right of recourse of this interest against the other interests for their respective shares. Nothing in this article shall prevent any right of defence.
-
-
-
-**3** The rewards, exclusive of any interest and recoverable legal costs that may be payable thereon, shall not exceed the salved value of the vessel and other property.
-
-
-
-**ARTICLE 14** 
-### Special compensation
-
-
-**1** If the salvor has carried out salvage operations in respect of a vessel which by itself or its cargo threatened damage to the environment and has failed to earn a reward under article 13 at least equivalent to the special compensation assessable in accordance with this article, he shall be entitled to special compensation from the owner of that vessel equivalent to his expenses as herein defined.
-
-
-
-**2** If, in the circumstances set out in paragraph 1, the salvor by his salvage operations has prevented or minimized damage to the environment, the special compensation payable by the owner to the salvor under paragraph 1 may be increased up to a maximum of 30 % of the expenses incurred by the salvor. However, the tribunal, if it deems it fair and just to do so and bearing in mind the relevant criteria set out in article 13, paragraph 1, may increase such special compensation further, but in no event shall the total increase be more than 100 % of the expenses incurred by the salvor.
-
-
-
-**3** Salvor’s expenses for the purpose of paragraphs 1 and 2 means the out-of-pocket expenses reasonably incurred by the salvor in the salvage operation and a fair rate for equipment and personnel actually and reasonably used in the salvage operation, taking into consideration the criteria set out in article 13, paragraph 1(h), (i) and (j).
-
-
-
-**4** The total special compensation under this article shall be paid only if and to the extent that such compensation is greater than any reward recoverable by the salvor under article 13.
-
-
-
-**5** If the salvor has been negligent and has thereby failed to prevent or minimize damage to the environment, he may be deprived of the whole or part of any special compensation due under this article.
-
-
-
-**6** Nothing in this article shall affect any right of recourse on the part of the owner of the vessel.
-
-
-
-**ARTICLE 15** 
-### Apportionment between salvors
-
-
-**1** The apportionment of a reward under article 13 between salvors shall be made on the basis of the criteria contained in that article.
-
-
-
-**2** The apportionment between the owner, master and other persons in the service of each sailing vessel shall be determined by the law of the flag of that vessel. If the salvage has not been carried out from a vessel, the apportionment shall be determined by the law governing the contract between the salvor and his servants.
-
-
-
-**ARTICLE 16** 
-### Salvage of persons
-
-
-**1** No remuneration is due from persons whose lives are saved, but nothing in this article shall affect the provisions of national law on this subject.
-
-
-
-**2** A salvor of human life, who has taken part in the services rendered on the occasion of the accident giving rise to salvage, is entitled to a fair share of the payment awarded to the salvor for salving the vessel or other property or preventing or minimizing damage to the environment.
-
-
-
-**ARTICLE 17** 
-### Services rendered under existing contracts
-
-
-No payment is due under the provisions of this Convention unless the services rendered exceed what can be reasonably considered as due performance of a contract entered into before the danger arose.
-
-
-
-**ARTICLE 18** 
-### The effect of salvor’s misconduct
-
-
-A salvor may be deprived of the whole or part of the payment due under this Convention to the extent that salvage operations have become necessary or more difficult because of fault or neglect on his part or if the salvor has been guilty of fraud or other dishonest conduct.
-
-
-
-**ARTICLE 19** 
-### Prohibition of salvage operations
-
-
-Services rendered notwithstanding the express and reasonable prohibition of the owner or master of the vessel or the owner of any other property in danger which is not and has not been on board the vessel shall not give rise to payment under this Convention.
-
-
-
-**CHAPTER IV** 
-### Claims and Actions
-
-
-**ARTICLE 20** 
-### Maritime lien
-
-
-**1** Nothing in this Convention shall affect the salvor’s maritime lien under any international convention or national law.
-
-
-
-**2** The salvor may not enforce his maritime lien when satisfactory security for his claim, including interest and costs, has been duly tendered or provided.
-
-
-
-**ARTICLE 21** 
-### Duty to provide security
-
-
-**1** Upon the request of the salvor a person liable for payment due under this Convention shall provide satisfactory security for the claim, including interest and costs of the salvor.
-
-
-
-**2** Without prejudice to paragraph 1, the owner of the salved vessel shall use his best endeavours to ensure that the owners of the cargo provide satisfactory security for the claims against them including interest and costs before the cargo is released.
-
-
-
-**3** The salved vessel and other property shall not, without the consent of the salvor, be removed from the port or place at which they first arrive after the completion of the salvage operations until satisfactory security has been put up for the salvor’s claim against the relevant vessel or property.
-
-
-
-**ARTICLE 22** 
-### Interim payment
-
-
-**1** The tribunal having jurisdiction over the claim of the salvor may, by interim decision, order that the salvor shall be paid on account such amount as seems fair and just, and on such terms including terms as to security where appropriate, as may be fair and just according to the circumstances of the case.
-
-
-
-**2** In the event of an interim payment under this article the security provided under article 21 shall be reduced accordingly.
-
-
-
-**ARTICLE 23** 
-### Limitation of actions
-
-
-**1** Any action relating to payment under this Convention shall be time-barred if judicial or arbitral proceedings have not been instituted within a period of two years. The limitation period commences on the day on which the salvage operations are terminated.
-
-
-
-**2** The person against whom a claim is made may at any time during the running of the limitation period extend that period by a declaration to the claimant. This period may in the like manner be further extended.
-
-
-
-**3** An action for indemnity by a person liable may be instituted even after the expiration of the limitation period provided for in the preceding paragraphs, if brought within the time allowed by the law of the State where proceedings are instituted.
-
-
-
-**ARTICLE 24** 
-### Interest
-
-
-The right of the salvor to interest on any payment due under this Convention shall be determined according to the law of the State in which the tribunal seized of the case is situated.
-
-
-
-**ARTICLE 25** 
-### State-owned cargoes
-
-
-Unless the State owner consents, no provision of this Convention shall be used as a basis for the seizure, arrest or detention by any legal process of, nor for any proceedings *in rem* against, non-commercial cargoes owned by a State and entitled, at the time of the salvage operations, to sovereign immunity under generally recognized principles of international law.
-
-
-
-**ARTICLE 26** 
-### Humanitarian cargoes
-
-
-No provision of this Convention shall be used as a basis for the seizure, arrest or detention of humanitarian cargoes donated by a State, if such State has agreed to pay for salvage services rendered in respect of such humanitarian cargoes.
-
-
-
-**ARTICLE 27** 
-### Publication of arbitral awards
-
-
-States Parties shall encourage, as far as possible and with the consent of the parties, the publication of arbitral awards made in salvage cases.
-
-
-
-**CHAPTER V** 
-### Final Clauses
-
-
-**ARTICLE 28** 
-### Signature, ratification, acceptance, approval and accession
-
-
-**1** This Convention shall be open for signature at the Headquarters of the Organization from 1 July 1989 to 30 June 1990 and shall thereafter remain open for accession.
-
-
-
-**2** States may express their consent to be bound by this Convention by:
-
-**(a)** signature without reservation as to ratification, acceptance or approval; or
-
-
-
-**(b)** signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
-
-
-
-**(c)** accession.
-
-
-
-
-
-**3** Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.
-
-
-
-**ARTICLE 29** 
-### Entry into force
-
-
-**1** This Convention shall enter into force one year after the date on which 15 States have expressed their consent to be bound by it.
-
-
-
-**2** For a State which expresses its consent to be bound by this Convention after the conditions for entry into force thereof have been met, such consent shall take effect one year after the date of expression of such consent.
-
-
-
-**ARTICLE 30** 
-### Reservations
-
-
-**1** Any State may, at the time of signature, ratification, acceptance, approval or accession, reserve the right not to apply the provisions of this Convention:
-
-**(a)** when the salvage operation takes place in inland waters and all vessels involved are of inland navigation;
-
-
-
-**(b)** when the salvage operations take place in inland waters and no vessel is involved;
-
-
-
-**(c)** when all interested parties are nationals of that State;
-
-
-
-**(d)** when the property involved is maritime cultural property of prehistoric, archaeological or historic interest and is situated on the sea-bed.
-
-
-
-
-
-**2** Reservations made at the time of signature are subject to confirmation upon ratification, acceptance or approval.
-
-
-
-**3** Any State which has made a reservation to this Convention may withdraw it at any time by means of a notification addressed to the Secretary-General. Such withdrawal shall take effect on the date the notification is received. If the notification states that the withdrawal of a reservation is to take effect on a date specified therein, and such date is later than the date the notification is received by the Secretary-General, the withdrawal shall take effect on such later date.
-
-
-
-**ARTICLE 31** 
-### Denunciation
-
-
-**1** This Convention may be denounced by any State Party at any time after the expiry of one year from the date on which this Convention enters into force for that State.
-
-
-
-**2** Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary-General.
-
-
-
-**3** A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after the receipt of the instrument of denunciation by the Secretary-General.
-
-
-
-**ARTICLE 32** 
-### Revision and amendment
-
-
-**1** A conference for the purpose of revising or amending this Convention may be convened by the Organization.
-
-
-
-**2** The Secretary-General shall convene a conference of the States Parties to this Convention for revising or amending the Convention, at the request of eight States Parties, or one fourth of the States Parties, whichever is the higher figure.
-
-
-
-**3** Any consent to be bound by this Convention expressed after the date of entry into force of an amendment to this Convention shall be deemed to apply to the Convention as amended.
-
-
-
-**ARTICLE 33** 
-### Depositary
-
-
-**1** This Convention shall be deposited with the Secretary-General.
-
-
-
-**2** The Secretary-General shall:
-
-**(a)** inform all States which have signed this Convention or acceded thereto, and all Members of the Organization, of:
-
-**(i)** each new signature or deposit of an instrument of ratification, acceptance, approval or accession together with the date thereof;
-
-
-
-**(ii)** the date of the entry into force of this Convention;
-
-
-
-**(iii)** the deposit of any instrument of denunciation of this Convention together with the date on which it is received and the date on which the denunciation takes effect;
-
-
-
-**(iv)** any amendment adopted in conformity with article 32;
-
-
-
-**(v)** the receipt of any reservation, declaration or notification made under this Convention;
-
-
-
-
-
-**(b)** transmit certified true copies of this Convention to all States which have signed this Convention or acceded thereto.
-
-
-
-
-
-**3** As soon as this Convention enters into force, a certified true copy thereof shall be transmitted by the Depositary to the Secretary-General of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
-
-
-
-**ARTICLE 34** 
-### Languages
-
-
-This Convention is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
-
-
-
-IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed this Convention.
-
-
-
-DONE AT LONDON this twenty-eighth day of April one thousand nine hundred and eighty-nine.
-
-
-
-**ATTACHMENT 1** 
-### **Common Understanding concerning Articles 13 and 14 of the International Convention on Salvage, 1989**
-
-
-It is the common understanding of the Conference that, in fixing a reward under article 13 and assessing special compensation under article 14 of the International Convention on Salvage, 1989 the tribunal is under no duty to fix a reward under article 13 up to the maximum salved value of the vessel and other property before assessing the special compensation to be paid under article 14.
-
-
-
-**ATTACHMENT 2** 
-### **Resolution requesting the amendment of the York-Antwerp Rules, 1974**
-
-
-THE INTERNATIONAL CONFERENCE ON SALVAGE, 1989,
-
-
-
-HAVING ADOPTED the International Convention on Salvage, 1989,
-
-
-
-CONSIDERING that payments made pursuant to article 14 are not intended to be allowed in general average,
-
-
-
-REQUESTS the Secretary-General of the International Maritime Organization to take the appropriate steps in order to ensure speedy amendment of the York-Antwerp Rules, 1974, to ensure that special compensation paid under article 14 is not subject to general average.
-
-
-
-**ATTACHMENT 3** 
-### **Resolution on international co-operation for the implementation of the International Convention on Salvage, 1989**
-
-
-THE INTERNATIONAL CONFERENCE ON SALVAGE, 1989,
-
-
-
-IN ADOPTING the International Convention on Salvage, 1989 (hereinafter referred to as “The Convention”),
-
-
-
-CONSIDERING IT DESIRABLE that as many States as possible should become Parties to the Convention,
-
-
-
-RECOGNIZING that the entry into force of the Convention will represent an important additional factor for the protection of the marine environment,
-
-
-
-CONSIDERING that the international publicizing and wide implementation of the Convention is of the utmost importance for the attainment of its objectives,
-
-
-
-**I** RECOMMENDS:
-
-**(a)** that the Organization promote public awareness of the Convention through the holding of seminars, courses or symposia;
-
-
-
-**(b)** that training institutions created under the auspices of the Organization include the study of the Convention in their corresponding courses of study.
-
-
-
-
-
-**II** REQUESTS:
-
-**(a)** Members States to transmit to the Organization the text of the laws, orders, decrees, regulations and other instruments that they promulgate concerning the various matters falling within the scope of application of the Convention;
-
-
-
-**(b)** Member States, in consultation with the Organization, to promote the giving of help to those States requesting technical assistance for the drafting of laws, orders, decrees, regulations and other instruments necessary for the implementation of the Convention; and
-
-
-
-**(c)** the Organization to notify Member States of any communication it may receive under paragraph II(a).
-
-
-
-
-
-**PART 2** 
-### Canada’s Reservations
-
-
-The Government of Canada reserves the right not to apply the provisions of the International Convention on Salvage, 1989 when the property involved is maritime cultural property of prehistoric, archaeological or historic interest and is situated on the seabed.
+- **(4)** This section is repealed on the day on which a regulation under section 244 of the Act that designates a contravention of subsection 10.1(4) of the Act, as enacted by section 690 of this Act, as a violation for the purposes of section 228 of the Act comes into force.
 
 
 
