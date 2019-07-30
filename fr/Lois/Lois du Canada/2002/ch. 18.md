@@ -103,7 +103,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de la loi aux réserves**
 
 - **(4)** La présente loi s’applique à une réserve comme si celle-ci constituait une aire marine de conservation.
-> 2002, ch. 18, art. 2; 2005, ch. 2, art. 6.
+> 2002, ch. 18, art. 2; 2005, ch. 2, art. 6
 
 
 
@@ -268,7 +268,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Article 12**
 
 - **(10)** L’article 12 ne s’applique pas à une activité exercée conformément à un permis ou à une autre autorisation concernant le prélèvement d’eau ou le transfert d’eau dans les aires marines de conservation situées en Ontario délivré en vertu des lois de l’Ontario visées aux paragraphes (2) à (4).
-> 2015, ch. 38, art. 2.
+> 2015, ch. 38, art. 2
 
 
 
@@ -324,7 +324,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accords sur des revendications territoriales**
 
 - **(5)** Lorsqu’une partie d’une aire marine de conservation est visée par un accord sur des revendications territoriales, le plan directeur provisoire ou le plan directeur de l’aire et les modifications de celui-ci sont établis d’une façon qui est compatible avec les dispositions applicables de l’accord.
-> 2002, ch. 18, art. 9; 2005, ch. 29, art. 34; 2012, ch. 19, art. 325.
+> 2002, ch. 18, art. 9; 2005, ch. 29, art. 34; 2012, ch. 19, art. 325
 
 
 
@@ -406,7 +406,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction**
 
 - **(3)** Il est entendu que le directeur ne peut modifier, suspendre ou résilier les permis et licences de pêche délivrés sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
-> 2002, ch. 18, art. 15; 2015, ch. 38, art. 3.
+> 2002, ch. 18, art. 15; 2015, ch. 38, art. 3
 
 
 
@@ -454,8 +454,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Incompatibilité**
 
-- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), la Loi sur la protection de la navigation ou la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 2002, ch. 18, art. 16; 2001, ch. 26, art. 322; 2005, ch. 29, art. 35; 2009, ch. 14, art. 20; 2012, ch. 31, art. 346.
+- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), de la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) ou de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md) .
+> 2002, ch. 18, art. 16; 2001, ch. 26, art. 322; 2005, ch. 29, art. 35; 2009, ch. 14, art. 20; 2012, ch. 31, art. 3462019, ch. 1, art. 134
 
 
 
@@ -500,7 +500,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Limitations quant à la désignation**
 
 - **(2)** Le ministre peut préciser la portée de la désignation, laquelle peut viser soit une ou plusieurs aires marines de conservation, soit une ou plusieurs infractions à la présente loi qualifiées de contraventions en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md).
-> 2009, ch. 14, art. 21.
+> 2009, ch. 14, art. 21
 
 
 
@@ -515,7 +515,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Limitations**
 
 - **(2)** Le certificat de désignation précise les limitations, le cas échéant, auxquelles la désignation est assujettie.
-> 2002, ch. 18, art. 20; 2009, ch. 14, art. 21.
+> 2002, ch. 18, art. 20; 2009, ch. 14, art. 21
 
 
 
@@ -524,7 +524,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Droit de passage**
 
 **20.1** Dans l’exercice de leurs fonctions, les gardes d’aire marine de conservation, les agents de l’autorité et les personnes qui les accompagnent peuvent entrer sur une propriété privée et y circuler sans engager de responsabilité à cet égard et sans que personne ne puisse s’y opposer.
-> 2009, ch. 14, art. 21.
+> 2009, ch. 14, art. 21
 
 
 
@@ -533,7 +533,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Immunité**
 
 **20.2** Les gardes d’aire marine de conservation et les agents de l’autorité sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
-> 2009, ch. 14, art. 21.
+> 2009, ch. 14, art. 21
 
 
 
@@ -542,7 +542,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Arrestation sans mandat**
 
 **21** Le garde d’aire marine de conservation ou l’agent de l’autorité peut, en conformité avec le [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), arrêter sans mandat toute personne qu’il trouve en train de commettre une infraction à la présente loi ou dont il a des motifs raisonnables de croire qu’elle a commis ou est sur le point de commettre une infraction à la présente loi.
-> 2002, ch. 18, art. 21; 2009, ch. 14, art. 21.
+> 2002, ch. 18, art. 21; 2009, ch. 14, art. 21
 
 
 
@@ -582,7 +582,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Biens périssables**
 
 - **(3)** Le garde ou l’agent peut disposer, notamment par destruction, des objets saisis périssables; le produit de leur disposition est soit remis à leur propriétaire ou à la personne qui a droit à leur possession, soit, lorsque des poursuites fondées sur la présente loi ont été intentées dans les quatre-vingt-dix jours suivant la saisie, retenu par le garde ou l’agent jusqu’au règlement de l’affaire.
-> 2002, ch. 18, art. 23; 2009, ch. 14, art. 22(F).
+> 2002, ch. 18, art. 23; 2009, ch. 14, art. 22(F)
 
 
 
@@ -591,7 +591,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Responsabilité pour frais**
 
 **23.1** Le propriétaire des objets saisis en vertu de la présente loi, toute personne en ayant la possession ainsi que toute personne en ayant la charge ou le contrôle, avant la saisie, sont solidairement responsables des frais liés à leur saisie, rétention, entretien ou confiscation — y compris les frais liés à leur disposition, notamment par destruction — exposés par Sa Majesté du chef du Canada lorsque ceux-ci excèdent le produit de leur disposition.
-> 2009, ch. 14, art. 23.
+> 2009, ch. 14, art. 23
 
 
 
@@ -670,7 +670,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Injonction**
 
 - **(3)** Indépendamment des poursuites intentées pour infraction à la présente loi ou aux règlements, Sa Majesté du chef du Canada peut engager et continuer une action visant à empêcher la perpétration d’une telle infraction.
-> 2002, ch. 18, art. 24; 2009, ch. 14, art. 24.
+> 2002, ch. 18, art. 24; 2009, ch. 14, art. 24
 
 
 
@@ -679,7 +679,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Déclaration : personne morale à revenus modestes**
 
 **24.1** Pour l’application de l’article 24, le tribunal peut déclarer qu’une personne morale est une personne morale à revenus modestes s’il est convaincu que ses revenus bruts, dans la période d’un an précédant immédiatement la date de l’infraction — ou si celle-ci a été commise sur plus d’un jour, dans la période d’un an précédant immédiatement le premier jour où elle a été commise —, n’excédaient pas 5 000 000 $.
-> 2009, ch. 14, art. 25.
+> 2009, ch. 14, art. 25
 
 
 
@@ -688,7 +688,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Allègement de l’amende minimale**
 
 **24.2** Le tribunal peut imposer une amende inférieure à l’amende minimale prévue au paragraphe 24(1) s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
-> 2009, ch. 14, art. 25.
+> 2009, ch. 14, art. 25
 
 
 
@@ -697,7 +697,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Amende supplémentaire**
 
 **24.3** Le tribunal saisi d’une poursuite pour infraction à la présente loi, s’il est convaincu que la personne déclarée coupable a acquis des biens par suite de la perpétration de l’infraction ou en a tiré des avantages, lui inflige une amende supplémentaire correspondant à son évaluation de ces biens ou avantages. Le montant de l’amende supplémentaire peut être supérieur à celui de toute autre amende pouvant être imposée en vertu de la présente loi.
-> 2009, ch. 14, art. 25.
+> 2009, ch. 14, art. 25
 
 
 
@@ -706,7 +706,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Avis aux actionnaires**
 
 **24.4** En cas de déclaration de culpabilité d’une personne morale ayant des actionnaires pour infraction à la présente loi, le tribunal lui ordonne d’aviser ceux-ci, de la façon et dans les délais qu’il précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée.
-> 2009, ch. 14, art. 25.
+> 2009, ch. 14, art. 25
 
 
 
@@ -724,7 +724,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 	- **a)** à la présente loi et aux règlements;
 	- **b)** aux ordonnances rendues par le tribunal, le ministre ou le directeur sous le régime de la présente loi;
 	- **c)** aux directives du directeur, du garde d’aire marine de conservation ou de l’agent de l’autorité données sous le régime de la présente loi.
-> 2009, ch. 14, art. 25.
+> 2009, ch. 14, art. 25
 
 
 
@@ -736,7 +736,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 - **a)** dissuader le contrevenant et toute autre personne de commettre des infractions à la présente loi;
 - **b)** dénoncer les comportements illégaux qui causent des dommages ou des risques de dommages aux aires marines de conservation;
 - **c)** rétablir les ressources des aires marines de conservation.
-> 2009, ch. 14, art. 25.
+> 2009, ch. 14, art. 25
 
 
 
@@ -777,7 +777,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Motifs**
 
 - **(5)** Si le tribunal décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
-> 2009, ch. 14, art. 25.
+> 2009, ch. 14, art. 25
 
 
 
@@ -816,7 +816,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Recommandation du tribunal**
 
 - **(2)** Le tribunal qui fixe le montant de l’amende à porter au crédit du Fonds pour dommages à l’environnement peut recommander au ministre qu’une partie ou la totalité de celle-ci soit versée à la personne ou à l’organisation qu’il précise à l’une des fins visées au paragraphe (1).
-> 2009, ch. 14, art. 26.
+> 2009, ch. 14, art. 26
 
 
 
@@ -874,7 +874,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Prise d’effet**
 
 - **(4)** Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit immédiatement, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant une durée maximale de trois ans, à moins que le tribunal n’en ordonne autrement.
-> 2002, ch. 18, art. 27; 2009, ch. 14, art. 27.
+> 2002, ch. 18, art. 27; 2009, ch. 14, art. 27
 
 
 
@@ -889,7 +889,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Exécution**
 
 - **(2)** À défaut de paiement immédiat des dommages-intérêts, la personne lésée peut, par dépôt de l’ordonnance, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’ordre de payer la somme en question, et ce jugement peut être exécuté contre la personne déclarée coupable de la même manière que s’il s’agissait d’un jugement rendu contre elle par cette cour en matière civile.
-> 2002, ch. 18, art. 28; 2009, ch. 14, art. 28.
+> 2002, ch. 18, art. 28; 2009, ch. 14, art. 28
 
 
 
@@ -904,7 +904,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Dommages-intérêts pour perte ou dommages — biens**
 
 - **(2)** Le tribunal ne peut se prévaloir du paragraphe 28(1) pour ordonner à la personne déclarée coupable de verser à la personne lésée des dommages-intérêts pour la perte de biens ou les dommages causés à ceux-ci si cette personne a le droit de présenter une demande d’indemnisation pour ces biens ou ces dommages en vertu de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) ou de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md).
-> 2009, ch. 14, art. 28.
+> 2009, ch. 14, art. 28
 
 
 
@@ -913,7 +913,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Prescription**
 
 **28.1** La poursuite visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrit par cinq ans à compter de sa perpétration, à moins que le poursuivant et le défendeur ne consentent au prolongement de ce délai.
-> 2009, ch. 14, art. 28.
+> 2009, ch. 14, art. 28
 
 
 
@@ -922,7 +922,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **[Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md)**
 
 **28.2** Lorsqu’une infraction à la présente loi est qualifiée de contravention en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md), le paragraphe 8(5) de cette loi ne s’applique pas au montant de l’amende pouvant être fixé pour cette contravention.
-> 2009, ch. 14, art. 28.
+> 2009, ch. 14, art. 28
 
 
 
@@ -937,7 +937,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Rétention des renseignements**
 
 - **(2)** Les renseignements sont conservés dans le registre pour une durée minimale de cinq ans.
-> 2009, ch. 14, art. 28.
+> 2009, ch. 14, art. 28
 
 
 
@@ -952,7 +952,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Rapport au Parlement**
 
 - **(2)** Il fait déposer un rapport sur la question devant les deux chambres du Parlement dans l’année qui suit le début de l’examen.
-> 2009, ch. 14, art. 28.
+> 2009, ch. 14, art. 28
 
 
 
@@ -979,7 +979,7 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 **Exception**
 
 - **(4)** Le ministre ne peut ordonner la prise de mesures de prévention ou d’atténuation dans le cadre du paragraphe (2) si de telles mesures peuvent être prises sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md) ou la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md).
-> 2002, ch. 18, art. 29; 2001, ch. 26, art. 322.
+> 2002, ch. 18, art. 29; 2001, ch. 26, art. 322
 
 
 
@@ -1114,6 +1114,92 @@ De là, vers le nord, en ligne droite jusqu’à la pointe Ikeda, soit le point 
 *Note explicative* : Toutes les latitudes et longitudes qui figurent dans la présente description se rapportent au Système géodésique nord-américain de 1927. Tous les accidents topographiques mentionnés sont conformes au Répertoire géographique du Canada (Colombie-Britannique), troisième édition, Ottawa, 1985 et aux cartes de la Série nationale de référence cartographique (SNRC) suivantes : la deuxième édition de la carte de l’île Moresby (103 BC) dressée à une échelle de 1/250 000 par le Service topographique de l’Armée à Ottawa, la troisième édition de la carte du promontoire Tasu (103 C/9), les cartes de l’île Louise (103 B/13 et 103 B/14), du chenal Darwin (103 B/12), de l’île Ramsay (103 B/11), de la baie Gowgaia (103 B/5), de l’île Burnaby (103 B/6), de l’île Kunghit (103 B/3) et du cap St. James (102 O/14 et 102 O/15) et la deuxième édition de la carte de la pointe Lyman (103 B/2W) dressée à une échelle de 1/50 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa. Les accidents topographiques mentionnés sont également conformes à la charte LC 3853 du Service hydrographique du Canada (SHC) dressée à une échelle de 1/150 000 par le ministère des Pêches et des Océans à Ottawa.
 
 
-> 2002, ch. 18, ann. 2; DORS/2010-153.
+> 2002, ch. 18, ann. 2; DORS/2010-153
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2015, ch. 38, art. 4
+
+**4** L’annexe 1 de la même loi est modifiée par adjonction de ce qui suit :
+
+### Aire marine nationale de conservation du Canada du lac Supérieur
+
+
+Dans la province de l’Ontario, district de Thunder Bay, plus particulièrement décrites comme suit :
+
+PREMIÈREMENT :
+
+Des terres émergées et submergées d’une partie du lac Supérieur et d’une partie de la rivière Nipigon, dans le canton géographique de Nipigon, étant composées des parcelles 1, 17 à 20, 24, 27, 34, 36, 37, 43, 45, 59, 109, 110, 114, 116, 117 à 122 et 124, tel que montré sur un plan déposé aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 103778 CLSR, contenant 1 080 596 hectares, plus ou moins;
+
+
+
+
+
+DEUXIÈMEMENT :
+
+Des terres submergées d’une partie du lac Supérieur étant composées des parcelles 46 et 123, tel que montré sur ledit plan 103778 CLSR, contenant 222 hectares, plus ou moins;
+
+
+
+
+
+TROISIÈMEMENT :
+
+Une partie du lot 4, concession 1, dans le canton géographique de Lyon, étant composée de la parcelle 38, tel que montré sur ledit plan 103778 CLSR, contenant 68 hectares, plus ou moins;
+
+
+
+
+
+QUATRIÈMEMENT :
+
+Une partie du canton géographique non subdivisé de Strey, étant composée des parcelles 127 et 128, tel que montré sur ledit plan 103778 CLSR, contenant 53 hectares, plus ou moins;
+
+
+
+
+
+CINQUIÈMEMENT :
+
+Une partie du canton géographique non subdivisé de Syine, étant composée de la parcelle 129, tel que montré sur ledit plan 103778 CLSR, contenant 48 hectares, plus ou moins.
+
+
+
+
+
+
+
+
+
+######           — 2019, ch. 28, al. 186f)
+
+
+**Remplacement de « [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) »**
+
+**186** Dans les passages ci-après, « [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) » est remplacé par « [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) » :
+- **f)** le paragraphe 16(5) de la Loi sur les aires marines nationales de conservation du Canada;
+
+
+
+######           — 2019, ch. 28, par. 195(1) et (4)
+
+
+**
+> Projet de loi C-64
+**
+
+**195** 
+
+- **(1)** Les paragraphes (2) à (9) s’appliquent en cas de sanction du projet de loi C-64, déposé au cours de la 1<sup>re</sup> session de la 42<sup>e</sup> législature et intitulé [Loi concernant les épaves, les bâtiments délabrés, abandonnés ou dangereux et les opérations d’assistance](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md) (appelé « autre loi » au présent article).
+
+- **(4)** Dès le premier jour où l’article 46 de la présente loi et l’article 134 de l’autre loi sont tous deux en vigueur, le paragraphe 16(5) de la Loi sur les aires marines nationales de conservation du Canada est remplacé par ce qui suit :
+
+**Incompatibilité**
+
+- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), de la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) ou de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md).
+
 
 
