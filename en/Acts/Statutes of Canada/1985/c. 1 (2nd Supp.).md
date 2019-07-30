@@ -285,7 +285,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20; 2018, c. 12, s. 115, c. 16, s. 169, c. 23, s. 20.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20; 2018, c. 12, s. 115, c. 16, s. 169, c. 23, s. 20
 
 
 
@@ -313,7 +313,7 @@
 **Exemption**
 
 - **(3)** The Governor in Council may by regulation exempt Her Majesty in any case or class of cases from the requirement to report under section 12 or 95 subject to such conditions as may be prescribed.
-> R.S., 1985, c. 1 (2nd Supp.), s. 3; 2002, c. 22, s. 329.
+> R.S., 1985, c. 1 (2nd Supp.), s. 3; 2002, c. 22, s. 329
 
 
 
@@ -326,7 +326,7 @@
 **Interest to be compounded**
 
 **3.1** Interest shall be computed at a prescribed rate or at a specified rate and compounded daily and, if interest is computed in respect of an amount under a provision of this Act and is unpaid on the day it would, but for this section, have ceased to be computed under that provision, interest at the specified rate shall be computed and compounded daily on that unpaid interest from that day to the day it is paid and shall be paid as that provision required the amount to be paid.
-> 1992, c. 28, s. 2; 2001, c. 25, s. 2.
+> 1992, c. 28, s. 2; 2001, c. 25, s. 2
 
 
 
@@ -335,7 +335,7 @@
 **Prescribed rate may be authorized**
 
 **3.2** Where a person is required under a provision of this Act to pay interest on an amount at the specified rate, the person shall, where the Minister or any officer designated by the Minister for the purposes of this section so authorizes, pay interest on that amount under that provision at the prescribed rate rather than at the specified rate.
-> 1992, c. 28, s. 2.
+> 1992, c. 28, s. 2
 
 
 
@@ -354,7 +354,7 @@
 **Interest on penalty or interest refunded**
 
 - **(2)** Where, as a result of a waiver or cancellation under subsection (1), a person is given a refund of an amount of penalty or interest that was paid by the person, the person shall be given, in addition to the refund, interest at the prescribed rate for the period beginning on the first day after the day the amount was paid and ending on the day the refund is given, calculated on the amount of the refund.
-> 1992, c. 28, s. 2; 1995, c. 41, s. 2; 2001, c. 25, s. 3; 2005, c. 38, s. 61.
+> 1992, c. 28, s. 2; 1995, c. 41, s. 2; 2001, c. 25, s. 3; 2005, c. 38, s. 61
 
 
 
@@ -377,7 +377,7 @@
 exceeds
 	- **(b)** the value of the security that has been given to the Minister by the person, as determined by the Minister or a designated officer,
 is payable by the person immediately.
-> 1992, c. 28, s. 2; 2005, c. 38, s. 62.
+> 1992, c. 28, s. 2; 2005, c. 38, s. 62
 
 
 
@@ -394,7 +394,7 @@ is payable by the person immediately.
 - **(b)** a credit union;
 - **(c)** a corporation authorized by an Act of Parliament or of the legislature of a province to carry on the business of offering its services as a trustee to the public; or
 - **(d)** a corporation authorized by an Act of Parliament or of the legislature of a province to accept deposits from the public and that carries on the business of lending money on the security of real property or immovables or of investing in mortgages or hypothecary claims on immovables.
-> 2001, c. 25, s. 4.
+> 2001, c. 25, s. 4
 
 
 
@@ -414,7 +414,7 @@ is payable by the person immediately.
 **Undertakings**
 
 **4.1** In the case of goods to which paragraph 32(2)(b) applies, the Minister may accept from an importer or transporter an undertaking to assume obligations in relation to compliance with this Act and the regulations.
-> 2001, c. 25, s. 5.
+> 2001, c. 25, s. 5
 
 
 
@@ -476,7 +476,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Liability for costs**
 
 - **(6)** The owner or operator of an international bridge or tunnel is liable for all reasonable costs incurred by the Minister under subsection (5), which costs may be recovered in accordance with sections 143 to 145.
-> R.S., 1985, c. 1 (2nd Supp.), s. 6, c. 26 (3rd Supp.), s. 1; 2012, c. 31, s. 265.
+> R.S., 1985, c. 1 (2nd Supp.), s. 6, c. 26 (3rd Supp.), s. 1; 2012, c. 31, s. 265
 
 
 
@@ -500,7 +500,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Obligation to provide accurate information**
 
 **7.1** Any information provided to an officer in the administration or enforcement of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or under any other Act of Parliament that prohibits, controls or regulates the importation or exportation of goods, shall be true, accurate and complete.
-> 2001, c. 25, s. 6.
+> 2001, c. 25, s. 6
 
 
 
@@ -513,7 +513,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Declaration**
 
 **8** The Minister may include on any form a declaration, to be signed by the person completing the form, declaring that the information given by that person on the form is true, accurate and complete.
-> R.S., 1985, c. 1 (2nd Supp.), s. 8; 2001, c. 25, s. 7.
+> R.S., 1985, c. 1 (2nd Supp.), s. 8; 2001, c. 25, s. 7
 
 
 
@@ -563,7 +563,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 	- **(a)** the supplying of information or forms for any purpose under this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) in electronic or other form, the notification of persons and the transmission of any other information under this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 	- **(b)** the payment of amounts under this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) by electronic instructions; and
 	- **(c)** the manner in which and the extent to which, if at all, any provision of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the regulations under either Act applies to the electronic systems, and adapting any such provision for the purpose of applying it.
-> 1997, c. 36, s. 148; 2001, c. 25, s. 8.
+> 1997, c. 36, s. 148; 2001, c. 25, s. 8
 
 
 
@@ -602,7 +602,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 	- **(f)** prescribing the examination fees to be paid, the amount of any deposit that may be taken in respect thereof and the conditions under which such fees or deposits may be refunded;
 	- **(g)** prescribing the records to be kept by customs brokers and the period of time for which they shall be kept; and
 	- **(h)** prescribing the manner and circumstances in which the Minister may suspend or cancel a customs broker’s licence issued under subsection (1) or any other person may suspend or cancel such a licence issued by himself thereunder, and the circumstances in which a customs broker’s licence shall be surrendered.
-> R.S., 1985, c. 1, (2nd Supp.), s. 9; 2001, c. 25, s. 9.
+> R.S., 1985, c. 1, (2nd Supp.), s. 9; 2001, c. 25, s. 9
 
 
 
@@ -671,7 +671,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Powers of officer**
 
 - **(7)** Notwithstanding that a person holds an authorization under subsection 11.1(1) or is authorized under the regulations made under subsection 11.1(3), an officer may require a person to present himself or herself in accordance with subsection (1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 11; 1996, c. 31, s. 74; 2001, c. 25, s. 10; 2012, c. 19, s. 372; 2017, c. 11, s. 2.
+> R.S., 1985, c. 1 (2nd Supp.), s. 11; 1996, c. 31, s. 74; 2001, c. 25, s. 10; 2012, c. 19, s. 372; 2017, c. 11, s. 2
 
 
 
@@ -700,7 +700,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
 - **(4)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee for an authorization issued under this section if it is a reciprocal fee under an international arrangement.
-> 2001, c. 25, s. 11; 2010, c. 25, s. 172; 2012, c. 19, s. 373; 2017, c. 20, s. 454.
+> 2001, c. 25, s. 11; 2010, c. 25, s. 172; 2012, c. 19, s. 373; 2017, c. 20, s. 454
 
 
 
@@ -715,7 +715,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Amendment, etc. of designation**
 
 - **(2)** The Minister may amend, cancel or reinstate at any time a designation made under this section.
-> 2001, c. 25, s. 11.
+> 2001, c. 25, s. 11
 
 
 
@@ -732,7 +732,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Amendment, etc., of authorization**
 
 - **(2)** The Minister may amend, suspend, renew, cancel or reinstate an authorization.
-> 2001, c. 25, s. 11; 2009, c. 10, s. 2.
+> 2001, c. 25, s. 11; 2009, c. 10, s. 2
 
 
 
@@ -757,7 +757,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Non-application of subsections (1) and (1.1)**
 
 - **(2)** Subsections (1) and (1.1) do not apply to persons who are required to present themselves under section 11 or report goods under section 12.
-> 2001, c. 25, s. 11; 2009, c. 10, s. 3.
+> 2001, c. 25, s. 11; 2009, c. 10, s. 3
 
 
 
@@ -769,7 +769,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 - **(a)** prescribing the persons or classes of persons who may be granted access under paragraph 11.3(1)(b); and
 - **(b)** respecting the manner in which a person must present himself or herself under paragraphs 11.4(1)(a) and (1.1)(a) and report goods under paragraph 11.4(1)(b).
 - **(c) to (e)** [Repealed, 2009, c. 10, s. 4]
-> 2001, c. 25, s. 11; 2009, c. 10, s. 4.
+> 2001, c. 25, s. 11; 2009, c. 10, s. 4
 
 
 
@@ -786,7 +786,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Amendment, etc., of designation**
 
 - **(2)** The Minister may amend, cancel or reinstate at any time a designation made under this section.
-> 2012, c. 19, s. 481.
+> 2012, c. 19, s. 481
 
 
 
@@ -795,7 +795,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Person travelling in mixed-traffic corridor**
 
 **11.7** Every person who is travelling in a mixed-traffic corridor shall present themselves to an officer at the nearest customs office and state whether they are arriving from a location outside or within Canada.
-> 2012, c. 19, s. 481.
+> 2012, c. 19, s. 481
 
 
 
@@ -852,7 +852,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 	- **(b)** that are not charged with duties, and
 	- **(c)** the importation of which is not prohibited under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or prohibited, controlled or regulated under any Act of Parliament other than this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)
 may not be seized as forfeit under this Act by reason only that they were not reported under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 12, c. 41 (3rd Supp.), s. 119; 1992, c. 28, s. 3; 1996, c. 31, s. 75; 1997, c. 36, s. 149; 2001, c. 25, s. 12; 2015, c. 3, s. 60(F); 2017, c. 11, s. 3.
+> R.S., 1985, c. 1 (2nd Supp.), s. 12, c. 41 (3rd Supp.), s. 119; 1992, c. 28, s. 3; 1996, c. 31, s. 75; 1997, c. 36, s. 149; 2001, c. 25, s. 12; 2015, c. 3, s. 60(F); 2017, c. 11, s. 3
 
 
 
@@ -863,7 +863,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 **12.01** The Governor in Council may make regulations for the purposes of sections 11 and 12, including regulations
 - **(a)** prescribing the circumstances under which persons, goods or classes thereof on board a conveyance, or classes thereof, are required to present themselves or to be reported, as the case may be, despite subsection 11(5) or 12(5); or
 - **(b)** defining the expression “make contact with another conveyance” for the purposes of subsections 11(5) and 12(5) and prescribing the circumstances under which a conveyance or a class thereof makes contact with another conveyance.
-> 2017, c. 11, s. 4.
+> 2017, c. 11, s. 4
 
 
 
@@ -909,7 +909,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 	- **(e)** regarding the requirements and conditions that are to be met before a carrier code may be issued;
 	- **(f)** regarding the persons or classes of persons who are exempt from holding a valid carrier code; and
 	- **(g)** regarding the manner and circumstances in which a carrier code may be suspended, cancelled or reinstated.
-> 2009, c. 10, s. 6; 2012, c. 31, s. 266.
+> 2009, c. 10, s. 6; 2012, c. 31, s. 266
 
 
 
@@ -920,7 +920,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 **13** Every person who reports goods under section 12 inside or outside Canada or is stopped by an officer in accordance with section 99.1 shall
 - **(a)** answer truthfully any question asked by an officer with respect to the goods; and
 - **(b)** if an officer so requests, present the goods to the officer, remove any covering from the goods, unload any conveyance or open any part of the conveyance, or open or unpack any package or container that the officer wishes to examine.
-> R.S., 1985, c. 1 (2nd Supp.), s. 13; 2001, c. 25, s. 13.
+> R.S., 1985, c. 1 (2nd Supp.), s. 13; 2001, c. 25, s. 13
 
 
 
@@ -954,7 +954,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 
 **Report of wreck and liability for duties**
 
-- **(2)** If any wreck that has come into Canada from outside Canada is released to a person under section 158 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), that person
+- **(2)** If any wreck that has come into Canada from outside Canada is released to a person under section 61 of the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md), that person
 	- **(a)** shall forthwith report the delivery to an officer; and
 	- **(b)** is, from the time of the delivery, liable for all duties thereon calculated at the rates applicable to the wreck at the time of the delivery.
 
@@ -965,7 +965,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 	- **(b)** cargo, stores and tackle of any vessel and of all parts of the vessel separated therefrom;
 	- **(c)** the property of shipwrecked persons; and
 	- **(d)** any wrecked aircraft or any part thereof and cargo thereof.
-> R.S., 1985, c. 1 (2nd Supp.), s. 16; 2001, c. 26, s. 299.
+> R.S., 1985, c. 1 (2nd Supp.), s. 16; 2001, c. 26, s. 2992019, c. 1, s. 140
 
 
 
@@ -988,7 +988,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 **Liability**
 
 - **(3)** Whenever the importer of the goods that have been released or any person authorized under paragraph 32(6)(a) or subsection 32(7) to account for goods becomes liable under this Act to pay duties on those goods, the owner of the goods at the time of release becomes jointly and severally, or solidarily, liable, with the importer or person authorized, to pay the duties.
-> R.S., 1985, c. 1 (2nd Supp.), s. 17; 1992, c. 28, s. 4; 2001, c. 25, s. 14; 2004, c. 25, s. 120(E).
+> R.S., 1985, c. 1 (2nd Supp.), s. 17; 1992, c. 28, s. 4; 2001, c. 25, s. 14; 2004, c. 25, s. 120(E)
 
 
 
@@ -1021,7 +1021,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 **Regulations**
 
 - **(4)** The Governor in Council may make regulations prescribing the circumstances in which such bonds or other security as may be prescribed may be required from any person who is or may become liable for the payment of duties under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 18; 2001, c. 25, s. 15.
+> R.S., 1985, c. 1 (2nd Supp.), s. 18; 2001, c. 25, s. 15
 
 
 
@@ -1060,7 +1060,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 - **(3)** Goods that are removed as ships’ stores under paragraph (1)(c) or exported under paragraph (1)(d) are, from the time of their exportation, no longer charged with duties.
 
 - **(4) and (5)** [Repealed, 1995, c. 41, s. 3]
-> R.S., 1985, c. 1 (2nd Supp.), s. 19; 1993, c. 25, s. 69; 1995, c. 41, s. 3; 1997, c. 36, s. 150; 2001, c. 25, s. 16.
+> R.S., 1985, c. 1 (2nd Supp.), s. 19; 1993, c. 25, s. 69; 1995, c. 41, s. 3; 1997, c. 36, s. 150; 2001, c. 25, s. 16
 
 
 
@@ -1079,7 +1079,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 **Regulations**
 
 - **(3)** The Governor in Council may make regulations exempting persons or goods, or classes thereof, from the requirements of subsection (1) subject to such conditions, if any, as are specified in the regulations.
-> 1988, c. 65, s. 67.
+> 1988, c. 65, s. 67
 
 
 
@@ -1116,7 +1116,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 **Rates of duties**
 
 - **(3)** The rates of duties payable on goods under subsection (2) shall be the rates applicable to the goods at the time they were reported under section 12.
-> R.S., 1985, c. 1 (2nd Supp.), s. 20; 1995, c. 41, s. 4; 1997, c. 36, s. 151; 2001, c. 25, s. 17.
+> R.S., 1985, c. 1 (2nd Supp.), s. 20; 1995, c. 41, s. 4; 1997, c. 36, s. 151; 2001, c. 25, s. 17
 
 
 
@@ -1140,7 +1140,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 **Exemption**
 
 - **(2)** The Minister may, subject to such terms and conditions as he may specify, exempt any person or class of persons from the requirement to keep records or from the requirement to keep records in Canada where he deems it unnecessary or impracticable to keep records or to keep them in Canada.
-> R.S., 1985, c. 1 (2nd Supp.), s. 22; 1995, c. 41, s. 5; 2001, c. 25, s. 18.
+> R.S., 1985, c. 1 (2nd Supp.), s. 22; 1995, c. 41, s. 5; 2001, c. 25, s. 18
 
 
 
@@ -1174,7 +1174,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Amendment of licence**
 
 - **(2)** The Minister may, subject to the regulations, amend, suspend, renew, cancel or reinstate a licence issued under subsection (1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 24; 1993, c. 25, s. 70; 1995, c. 41, s. 6; 2001, c. 16, s. 2; 2002, c. 22, s. 330.
+> R.S., 1985, c. 1 (2nd Supp.), s. 24; 1993, c. 25, s. 70; 1995, c. 41, s. 6; 2001, c. 16, s. 2; 2002, c. 22, s. 330
 
 
 
@@ -1196,7 +1196,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Definition**
 
 - **(2)** In subsection (1), ***duties*** means duties or taxes levied under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs.
-> R.S., 1985, c. 1 (2nd Supp.), s. 26; 1993, c. 25, s. 71; 2002, c. 22, s. 331.
+> R.S., 1985, c. 1 (2nd Supp.), s. 26; 1993, c. 25, s. 71; 2002, c. 22, s. 331
 
 
 
@@ -1231,7 +1231,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Definition of duties not to apply**
 
 - **(3)** The definition ***duties*** in subsection 2(1) does not apply for the purposes of subsections (1) and (2).
-> R.S., 1985, c. 1 (2nd Supp.), s. 28; 1993, c. 25, s. 72; 1995, c. 39, s. 168; 2001, c. 25, s. 19; 2002, c. 22, ss. 332, 408.
+> R.S., 1985, c. 1 (2nd Supp.), s. 28; 1993, c. 25, s. 72; 1995, c. 39, s. 168; 2001, c. 25, s. 19; 2002, c. 22, ss. 332, 408
 
 
 
@@ -1258,7 +1258,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(l)** prescribing circumstances in which goods shall not be received in sufferance warehouses;
 - **(m)** regulating the provision of information by the operator of a duty free shop; and
 - **(n)** otherwise regulating the operation of sufferance warehouses or duty free shops.
-> R.S., 1985, c. 1 (2nd Supp.), s. 30; 1993, c. 25, s. 73; 1995, c. 41, s. 7.
+> R.S., 1985, c. 1 (2nd Supp.), s. 30; 1993, c. 25, s. 73; 1995, c. 41, s. 7
 
 
 
@@ -1271,7 +1271,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Release**
 
 **31** Subject to section 19, no goods shall be removed from a customs office, sufferance warehouse, bonded warehouse or duty free shop by any person other than an officer in the performance of his or her duties under this or any other Act of Parliament unless the goods have been released by an officer or by any prescribed means.
-> R.S., 1985, c. 1 (2nd Supp.), s. 31; 2001, c. 25, s. 20.
+> R.S., 1985, c. 1 (2nd Supp.), s. 31; 2001, c. 25, s. 20
 
 
 
@@ -1322,7 +1322,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Authorization to account**
 
 - **(7)** The Minister or an officer designated by the President for the purposes of this subsection may authorize any person not resident in Canada to account for goods under this section, in such circumstances and under such conditions as may be prescribed, in lieu of the importer or owner of those goods.
-> R.S., 1985, c. 1 (2nd Supp.), s. 32; 1992, c. 28, s. 5; 1995, c. 41, s. 8; 2001, c. 25, s. 21; 2005, c. 38, s. 63.
+> R.S., 1985, c. 1 (2nd Supp.), s. 32; 1992, c. 28, s. 5; 1995, c. 41, s. 8; 2001, c. 25, s. 21; 2005, c. 38, s. 63
 
 
 
@@ -1341,7 +1341,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Regulations**
 
 - **(3)** The Governor in Council may make regulations exempting persons or goods, or classes thereof, from the requirements of subsection (1) subject to such conditions, if any, as are specified in the regulations.
-> 1988, c. 65, s. 68.
+> 1988, c. 65, s. 68
 
 
 
@@ -1386,7 +1386,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Duties**
 
 - **(8)** If a declaration of tariff classification is rendered incorrect by a failure referred to in subsection (6), for the purposes of paragraph (2)(b), duties do not include duties or taxes levied under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
-> 1993, c. 44, s. 82; 1996, c. 33, s. 29; 1997, c. 14, s. 36, c. 36, s. 152; 2001, c. 25, s. 22; 2002, c. 22, s. 333.
+> 1993, c. 44, s. 82; 1996, c. 33, s. 29; 1997, c. 14, s. 36, c. 36, s. 152; 2001, c. 25, s. 22; 2002, c. 22, s. 333
 
 
 
@@ -1398,7 +1398,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(a)** report the diversion to an officer at a customs office;
 - **(b)** account for the goods in the prescribed manner and in the prescribed form containing the prescribed information; and
 - **(c)** pay as duties on the goods an amount equal to the amount of duties that would be payable on like goods imported in like condition at the time of the diversion.
-> 2001, c. 25, s. 23.
+> 2001, c. 25, s. 23
 
 
 
@@ -1419,7 +1419,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(3)** In subsection (2), ***duties*** does not include the duties levied under
 	- **(a)** subsection 21.1(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), if they are paid and collected in accordance with subsection 21.1(2) of that Act; or
 	- **(b)** subsections 21.2(1) and (2) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), if they are paid and collected in accordance with subsection 21.2(3) of that Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 33; 1992, c. 28, s. 6; 2002, c. 22, s. 334.
+> R.S., 1985, c. 1 (2nd Supp.), s. 33; 1992, c. 28, s. 6; 2002, c. 22, s. 334
 
 
 
@@ -1432,7 +1432,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Notice requiring accounting**
 
 **33.2** The Minister or any officer designated by the President for the purposes of this section may, by notice served personally or by registered or certified mail, require any person to account, within such reasonable time as may be stipulated in the notice, in the manner described in paragraph 32(1)(a), for any goods as may be designated in the notice.
-> 1992, c. 28, s. 7; 2005, c. 38, s. 64.
+> 1992, c. 28, s. 7; 2005, c. 38, s. 64
 
 
 
@@ -1455,7 +1455,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Interest-free period**
 
 - **(3)** If an amount of duties in respect of goods that is payable by a person under paragraph 59(3)(a) or 65(1)(a) in accordance with a determination, re-determination or further re-determination made under this Act is paid by the person or if an amount of duties in respect of goods that is payable under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) in accordance with a determination or re-determination made under that Act is paid by the importer in Canada within thirty days after the day the determination, re-determination or further re-determination, as the case may be, is made (in this subsection referred to as the “decision day”), interest is not payable under subsection (1) on the amount for the period beginning on the day after the decision day and ending on the day the amount is paid.
-> 1992, c. 28, s. 7; 1994, c. 47, s. 70; 1995, c. 41, s. 9; 1997, c. 36, s. 154; 2001, c. 25, s. 26.
+> 1992, c. 28, s. 7; 1994, c. 47, s. 70; 1995, c. 41, s. 9; 1997, c. 36, s. 154; 2001, c. 25, s. 26
 
 
 
@@ -1464,7 +1464,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Notice requiring payment**
 
 **33.5** The Minister or any officer designated by the President for the purposes of this section may, by notice served personally or by registered or certified mail, require any person to pay any amount owing as duties, within such reasonable time as may be stipulated in the notice, on any goods as may be designated in the notice.
-> 1992, c. 28, s. 7; 2005, c. 38, s. 65.
+> 1992, c. 28, s. 7; 2005, c. 38, s. 65
 
 
 
@@ -1493,7 +1493,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(a)** that amount shall be paid within the time as so extended;
 	- **(b)** if the person pays that amount within the time as so extended, subsection 33.4(1) shall apply in respect of that amount as if the time had not been so extended, but interest payable under that subsection in respect of that amount shall be computed at the prescribed rate rather than at the specified rate; and
 	- **(c)** if the person fails to pay the amount within the time as so extended, the extension shall be deemed not to have been made.
-> 1992, c. 28, s. 7; 2001, c. 25, s. 28; 2005, c. 38, s. 66.
+> 1992, c. 28, s. 7; 2001, c. 25, s. 28; 2005, c. 38, s. 66
 
 
 
@@ -1510,7 +1510,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Security and conditions of release**
 
 **35** Except in such circumstances as may be prescribed, no goods shall be released under subsection 32(2) or (4) or section 33 until such deposits, bonds or other security as may be prescribed is given, and any goods that are released under those provisions shall be released subject to such terms and conditions as may be prescribed.
-> R.S., 1985, c. 1 (2nd Supp.), s. 35; 1995, c. 41, s. 11.
+> R.S., 1985, c. 1 (2nd Supp.), s. 35; 1995, c. 41, s. 11
 
 
 
@@ -1523,7 +1523,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Requirement to comply with marking regulations**
 
 **35.01** No person shall import goods that are required to be marked by any regulations made under section 19 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) unless the goods are marked in accordance with those regulations.
-> 1993, c. 44, s. 83; 1997, c. 36, s. 155.
+> 1993, c. 44, s. 83; 1997, c. 36, s. 155
 
 
 
@@ -1548,7 +1548,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(c)** the imported goods have been marked in a deceptive manner so as to mislead another person as to the country or geographic area of origin of the goods.
 
 - **(5)** [Repealed, 2001, c. 25, s. 30]
-> 1993, c. 44, s. 83; 1997, c. 36, s. 156; 2001, c. 25, s. 30; 2005, c. 38, s. 67.
+> 1993, c. 44, s. 83; 1997, c. 36, s. 156; 2001, c. 25, s. 30; 2005, c. 38, s. 67
 
 
 
@@ -1588,7 +1588,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(5)** Preferential tariff treatment under a free trade agreement may be denied or withdrawn in respect of goods for which that treatment is claimed if the importer, owner or other person required to furnish proof of origin of the goods under this section fails to comply with any provision of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), or any regulation made under either of those Acts, concerning that preferential tariff treatment.
 
 - **(6)** [Repealed, 1997, c. 14, s. 37]
-> 1988, c. 65, s. 69; 1992, c. 28, s. 9; 1993, c. 44, s. 84; 1996, c. 33, s. 30; 1997, c. 14, s. 37; 2012, c. 18, s. 25(F); 2018, c. 23, s. 21.
+> 1988, c. 65, s. 69; 1992, c. 28, s. 9; 1993, c. 44, s. 84; 1996, c. 33, s. 30; 1997, c. 14, s. 37; 2012, c. 18, s. 25(F); 2018, c. 23, s. 21
 
 
 
@@ -1632,7 +1632,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Deeming provision**
 
 - **(4)** A place of safe-keeping referred to in this section shall, for the purposes of this Act, be deemed to be a customs office.
-> R.S., 1985, c. 1 (2nd Supp.), s. 37; 1993, c. 25, s. 74; 1995, c. 41, s. 12; 1997, c. 36, s. 157.
+> R.S., 1985, c. 1 (2nd Supp.), s. 37; 1993, c. 25, s. 74; 1995, c. 41, s. 12; 1997, c. 36, s. 157
 
 
 
@@ -1647,7 +1647,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **No removal until expenses paid**
 
 - **(2)** No goods shall be removed by any person other than an officer from a place of safe-keeping referred to in section 37 until the charges and expenses referred to in subsection (1) have been paid.
-> 1985, c. 1 (2nd Supp.), s. 38; 2004, c. 25, s. 121(E).
+> 1985, c. 1 (2nd Supp.), s. 38; 2004, c. 25, s. 121(E)
 
 
 
@@ -1662,7 +1662,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Expenses of disposal**
 
 - **(2)** The importer of goods that are forfeit under subsection (1) and the owner of those goods at the time of forfeiture are jointly and severally, or solidarily, liable for all reasonable expenses incurred by Her Majesty in right of Canada in the disposal of the goods if they are disposed of otherwise than by sale.
-> 1985, c. 1 (2nd Supp.), s. 39; 2004, c. 25, s. 122(E).
+> 1985, c. 1 (2nd Supp.), s. 39; 2004, c. 25, s. 122(E)
 
 
 
@@ -1681,7 +1681,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Goods in bonded warehouse forfeit if not removed**
 
 - **(2)** Goods of a class prescribed by regulations made under subparagraph 99(f)(xii) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that have not been removed from a bonded warehouse within such period of time as may be prescribed by regulations made under subparagraph 99(f)(xi) of that Act are, at the end of that period of time, forfeit.
-> 1993, c. 25, s. 75; 1995, c. 41, s. 13; 1997, c. 36, s. 158.
+> 1993, c. 25, s. 75; 1995, c. 41, s. 13; 1997, c. 36, s. 158
 
 
 
@@ -1713,7 +1713,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Minister’s request**
 
 - **(4)** Where, in the opinion of the Minister, a person has not kept records in respect of goods in accordance with subsection (3), the Minister may request that person to comply with that subsection in respect of the goods.
-> R.S., 1985, c. 1 (2nd Supp.), s. 40; 1992, c. 28, s. 10; 1993, c. 44, s. 85; 1995, c. 41, s. 15; 1997, c. 36, s. 159; 2001, c. 25, s. 31.
+> R.S., 1985, c. 1 (2nd Supp.), s. 40; 1992, c. 28, s. 10; 1993, c. 44, s. 85; 1995, c. 41, s. 15; 1997, c. 36, s. 159; 2001, c. 25, s. 31
 
 
 
@@ -1764,7 +1764,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(5)** If the judge is not satisfied that entry into that dwelling-house is necessary for any purpose relating to the administration or enforcement of this Act but is satisfied that access to a document or property that is or should be kept in the dwelling-house has been or may be expected to be refused, the judge may
 	- **(a)** order the occupant of the dwelling-house to provide the officer with reasonable access to any document or property; and
 	- **(b)** make any other order that is appropriate in the circumstances to carry out the purposes of this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 42; 2001, c. 25, s. 32; 2005, c. 38, s. 68.
+> R.S., 1985, c. 1 (2nd Supp.), s. 42; 2001, c. 25, s. 32; 2005, c. 38, s. 68
 
 
 
@@ -1777,7 +1777,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Methods of verification**
 
 **42.01** An officer, or an officer within a class of officers, designated by the President for the purposes of this section may conduct a verification of origin (other than a verification of origin referred to in section 42.1), verification of tariff classification or verification of value for duty in respect of imported goods in the manner that is prescribed and may for that purpose at all reasonable times enter any prescribed premises.
-> 1997, c. 36, s. 160; 2001, c. 25, s. 33; 2005, c. 38, s. 69.
+> 1997, c. 36, s. 160; 2001, c. 25, s. 33; 2005, c. 38, s. 69
 
 
 
@@ -1822,7 +1822,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(a.2)** in the case of CETA, if the EU country or other CETA beneficiary of export fails to conduct a verification or provide a written report as to whether the goods are originating;
 	- **(b)** if an officer or other person designated under subsection (1.1) is unable to determine whether the goods are originating; or
 	- **(c)** in any other prescribed circumstances.
-> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24; 2017, c. 6, s. 83, c. 8, ss. 21, 43; 2018, c. 23, s. 22.
+> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24; 2017, c. 6, s. 83, c. 8, ss. 21, 43; 2018, c. 23, s. 22
 
 
 
@@ -1841,7 +1841,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Basis of statement**
 
 - **(2)** A statement referred to in subsection (1) must include any findings of fact or law on which it was based.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 162; 2012, c. 18, s. 26(F); 2018, c. 23, s. 23.
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 162; 2012, c. 18, s. 26(F); 2018, c. 23, s. 23
 
 
 
@@ -1876,7 +1876,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Effect of detrimental reliance under CEFTA**
 
 - **(5)** If an exporter of goods from an EFTA state demonstrates, to the satisfaction of the Minister, that it has relied, in good faith and to its detriment, on a ruling made by the Agency or the customs administration of an EFTA state with respect to the tariff classification or value of a non-originating material used in the production of goods, a redetermination of origin by the Agency in respect of goods for which preferential tariff treatment under CEFTA is claimed shall apply only to importations of the goods made after the date of the redetermination.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 163; 2001, c. 25, s. 34(F), c. 28, s. 27; 2009, c. 6, s. 25; 2014, c. 14, s. 24.
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 163; 2001, c. 25, s. 34(F), c. 28, s. 27; 2009, c. 6, s. 25; 2014, c. 14, s. 24
 
 
 
@@ -1895,7 +1895,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Denial or withdrawal of benefit — specified countries**
 
 - **(2)** Despite section 24 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the Minister may, subject to any prescribed conditions, deny or withdraw preferential tariff treatment under an agreement set out in column 1 of Part 2 of the schedule in respect of goods for which that treatment is claimed if the exporter, producer or prescribed importer of the goods has made false representations that identical goods exported, produced or imported by that exporter, producer or prescribed importer and for which that treatment was claimed were eligible for that treatment.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 164; 2001, c. 28, s. 27; 2009, c. 16, s. 32; 2010, c. 4, s. 26; 2012, c. 18, s. 27; 2018, c. 23, s. 24.
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 164; 2001, c. 28, s. 27; 2009, c. 16, s. 32; 2010, c. 4, s. 26; 2012, c. 18, s. 27; 2018, c. 23, s. 24
 
 
 
@@ -1922,7 +1922,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Application of section 232 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)**
 
 - **(3)** The definitions ***lawyer*** and ***solicitor-client privilege*** in subsection 232(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and subsection 232(2) of that Act, apply with respect to a requirement under subsection (1) as if the reference in subsection 232(2) to section 231.2 of that Act were a reference to this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 43; 2000, c. 30, s. 160; 2001, c. 25, s. 35.
+> R.S., 1985, c. 1 (2nd Supp.), s. 43; 2000, c. 30, s. 160; 2001, c. 25, s. 35
 
 
 
@@ -1948,7 +1948,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(b)** the modification or revocation of an advance ruling, including whether the modification or revocation applies retroactively;
 	- **(c)** the authority to request supplementary information in respect of an application for an advance ruling; and
 	- **(d)** the circumstances in which the issuance of advance rulings may be declined or postponed.
-> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F); 2005, c. 38, s. 71; 2009, c. 6, s. 26, c. 16, ss. 33, 56; 2010, c. 4, s. 27; 2012, c. 18, s. 28.
+> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F); 2005, c. 38, s. 71; 2009, c. 6, s. 26, c. 16, ss. 33, 56; 2010, c. 4, s. 27; 2012, c. 18, s. 28
 
 
 
@@ -1970,7 +1970,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Ad valorem rates of duty**
 
 **44** If duties, other than duties or taxes levied under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), are imposed on goods at a percentage rate, such duties shall be calculated by applying the rate to a value determined in accordance with sections 45 to 55.
-> R.S., 1985, c. 1 (2nd Supp.), s. 44; 2002, c. 22, s. 335.
+> R.S., 1985, c. 1 (2nd Supp.), s. 44; 2002, c. 22, s. 335
 
 
 
@@ -2039,7 +2039,7 @@ but does not include imported goods where engineering, development work, art wor
 	- **(g)** one directly or indirectly controls or is controlled by the other;
 	- **(h)** any other person directly or indirectly owns, holds or controls five per cent or more of the outstanding voting stock or shares of each such person; or
 	- **(i)** one directly or indirectly owns, holds or controls five per cent or more of the outstanding voting stock or shares of the other.
-> R.S., 1985, c. 1 (2nd Supp.), s. 45; 1995, c. 41, s. 17; 2000, c. 12, s. 96.
+> R.S., 1985, c. 1 (2nd Supp.), s. 45; 1995, c. 41, s. 17; 2000, c. 12, s. 96
 
 
 
@@ -2147,7 +2147,7 @@ but does not include imported goods where engineering, development work, art wor
 **Where information inaccurate**
 
 - **(7)** Where an officer who is appraising the value for duty of goods believes on reasonable grounds that the information submitted in support of the transaction value of the goods as determined under subsection (4) is inaccurate, the officer shall determine, in accordance with the prescribed procedure, that the value for duty of the goods shall not be appraised under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 48; 1994, c. 47, s. 71; 1995, c. 41, s. 18; 2002, c. 22, s. 336; 2009, c. 10, s. 7; 2014, c. 20, s. 366(E).
+> R.S., 1985, c. 1 (2nd Supp.), s. 48; 1994, c. 47, s. 71; 1995, c. 41, s. 18; 2002, c. 22, s. 336; 2009, c. 10, s. 72014, c. 20, s. 366(E)
 
 
 
@@ -2185,7 +2185,7 @@ but does not include imported goods where engineering, development work, art wor
 **Selection of lowest transaction value of identical goods**
 
 - **(5)** Where, in relation to goods being appraised, there are two or more transaction values of identical goods that meet all the requirements set out in subsections (1) and (3) or, where there is no such transaction value but there are two or more transaction values of identical goods sold under the conditions described in any of paragraphs (2)(a) to (c) that meet all the requirements set out in this section that are applicable by virtue of subsection (2), the value for duty of the goods being appraised shall be determined on the basis of the lowest such transaction value.
-> R.S., 1985, c. 1 (2nd Supp.), s. 49; 2009, c. 10, s. 8.
+> R.S., 1985, c. 1 (2nd Supp.), s. 49; 2009, c. 10, s. 8
 
 
 
@@ -2206,7 +2206,7 @@ but does not include imported goods where engineering, development work, art wor
 **Application of section 49**
 
 - **(2)** Subsections 49(2) to (5) apply to this section in respect of similar goods and wherever in those subsections the expression “identical goods” is referred to, there shall be substituted therefor the expression “similar goods”.
-> R.S., 1985, c. 1 (2nd Supp.), s. 50; 2009, c. 10, s. 9.
+> R.S., 1985, c. 1 (2nd Supp.), s. 50; 2009, c. 10, s. 9
 
 
 
@@ -2257,7 +2257,7 @@ in connection with sales in Canada of goods of the same class or kind as those g
 - **(6)** In this section, ***time of importation*** means
 	- **(a)** in respect of goods other than those to which paragraph 32(2)(b) applies, the date on which an officer authorizes the release of the goods under this Act or the date on which their release is authorized by any prescribed means; and
 	- **(b)** in respect of goods to which paragraph 32(2)(b) applies, the date on which the goods are received at the place of business of the importer, owner or consignee.
-> R.S., 1985, c. 1 (2nd Supp.), s. 51; 2001, c. 25, s. 37.
+> R.S., 1985, c. 1 (2nd Supp.), s. 51; 2001, c. 25, s. 37
 
 
 
@@ -2316,7 +2316,7 @@ determined in the manner prescribed; and
 **Goods exported to Canada through another country**
 
 **54** For the purposes of sections 45 to 55, where goods are exported to Canada from any country but pass in transit through another country, the goods shall, subject to such terms and conditions as may be prescribed, be deemed to be shipped directly to Canada from the first mentioned country.
-> R.S., 1985, c. 1 (2nd Supp.), s. 54; 2001, c. 25, s. 38(F).
+> R.S., 1985, c. 1 (2nd Supp.), s. 54; 2001, c. 25, s. 38(F)
 
 
 
@@ -2360,7 +2360,7 @@ determined in the manner prescribed; and
 **Deemed determination**
 
 - **(2)** If an officer does not make a determination under subsection (1) in respect of goods imported from a NAFTA country at or before the time the goods are accounted for under subsection 32(1), (3) or (5), a determination as to whether the goods have been marked in the manner referred to in section 35.01 shall be deemed to have been made in accordance with any representations that have been made in respect of the marking of the goods by the person who accounted for the goods.
-> 1993, c. 44, s. 88; 1997, c. 36, s. 165; 2001, c. 25, s. 39; 2005, c. 38, s. 72.
+> 1993, c. 44, s. 88; 1997, c. 36, s. 165; 2001, c. 25, s. 39; 2005, c. 38, s. 72
 
 
 
@@ -2376,7 +2376,7 @@ determined in the manner prescribed; and
 - **(a)** the origin of imported goods is to be determined in accordance with section 16 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the regulations under that section;
 - **(b)** the tariff classification of imported goods is to be determined in accordance with sections 10 and 11 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), unless otherwise provided in that Act; and
 - **(c)** the value for duty of imported goods is to be determined in accordance with sections 47 to 55 of this Act and section 87 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
-> 1988, c. 65, s. 70; 1997, c. 36, s. 166; 2001, c. 25, s. 40.
+> 1988, c. 65, s. 70; 1997, c. 36, s. 166; 2001, c. 25, s. 40
 
 
 
@@ -2399,7 +2399,7 @@ determined in the manner prescribed; and
 **Review of determination**
 
 - **(3)** A determination made under this section is not subject to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 59 to 61.
-> R.S., 1985, c. 1 (2nd Supp.), s. 58; 1992, c. 28, s. 11; 1997, c. 36, s. 166; 2005, c. 38, s. 73.
+> R.S., 1985, c. 1 (2nd Supp.), s. 58; 1992, c. 28, s. 11; 1997, c. 36, s. 166; 2005, c. 38, s. 73
 
 
 
@@ -2436,7 +2436,7 @@ determined in the manner prescribed; and
 **Review of re-determination or further re-determination**
 
 - **(6)** A re-determination or further re-determination made under this section is not subject to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by subsection 59(1) and sections 60 and 61.
-> R.S., 1985, c. 1 (2nd Supp.), s. 59; 1997, c. 36, s. 166; 2001, c. 25, s. 41; 2005, c. 38, s. 74.
+> R.S., 1985, c. 1 (2nd Supp.), s. 59; 1997, c. 36, s. 166; 2001, c. 25, s. 41; 2005, c. 38, s. 74
 
 
 
@@ -2470,7 +2470,7 @@ determined in the manner prescribed; and
 **Notice requirement**
 
 - **(5)** The President shall without delay give notice of a decision made under subsection (4), including the rationale on which the decision is made, to the person who made the request.
-> R.S., 1985, c. 1 (2nd Supp.), s. 60; 1992, c. 28, s. 12; 1997, c. 36, s. 166; 1999, c. 17, s. 127; 2001, c. 25, s. 42; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 60; 1992, c. 28, s. 12; 1997, c. 36, s. 166; 1999, c. 17, s. 127; 2001, c. 25, s. 42; 2005, c. 38, s. 85
 
 
 
@@ -2506,7 +2506,7 @@ determined in the manner prescribed; and
 		- **(i)** within the time set out in section 60, the person was unable to act or to give a mandate to act in the person’s name or the person had a *bona fide* intention to make a request,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 43; 2005, c. 38, s. 85.
+> 2001, c. 25, s. 43; 2005, c. 38, s. 85
 
 
 
@@ -2537,7 +2537,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(i)** within the time set out in section 60, the person was unable to act or to give a mandate to act in the person’s name or the person had a *bona fide* intention to make a request,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 43; 2005, c. 38, s. 85; 2014, c. 20, s. 446.
+> 2001, c. 25, s. 43; 2005, c. 38, s. 85; 2014, c. 20, s. 446
 
 
 
@@ -2564,7 +2564,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 **Notice requirement**
 
 - **(2)** If the President makes a re-determination or further re-determination under this section, the President shall without delay give notice of that decision, including the rationale on which the decision is made, to the prescribed persons.
-> R.S., 1985, c. 1 (2nd Supp.), s. 61; 1992, c. 28, s. 13; 1993, c. 44, s. 92; 1997, c. 36, s. 166; 1999, c. 17, s. 127; 2001, c. 25, s. 44; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 61; 1992, c. 28, s. 13; 1993, c. 44, s. 92; 1997, c. 36, s. 166; 1999, c. 17, s. 127; 2001, c. 25, s. 44; 2005, c. 38, s. 85
 
 
 
@@ -2573,7 +2573,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 **No review**
 
 **62** A re-determination or further re-determination under section 60 or 61 is not subject to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by section 67.
-> R.S., 1985, c. 1 (2nd Supp.), s. 62; 1992, c. 28, s. 14; 1993, c. 44, s. 93; 1997, c. 36, s. 166.
+> R.S., 1985, c. 1 (2nd Supp.), s. 62; 1992, c. 28, s. 14; 1993, c. 44, s. 93; 1997, c. 36, s. 166
 
 
 
@@ -2596,7 +2596,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 - **(2)** Any amount owing by or to a person under subsection (1) or 66(3) of this Act or as a result of a determination or re-determination under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) in respect of goods, other than an amount in respect of which security is given, is payable immediately, whether or not an appeal is taken under section 67 of this Act or subsection 61(1) of that Act.
 
 - **(3)** [Repealed, 1997, c. 36, s. 167]
-> R.S., 1985, c. 1 (2nd Supp.), s. 65; 1992, c. 28, s. 16; 1993, c. 44, s. 96(E); 1997, c. 36, s. 167; 2001, c. 25, s. 45.
+> R.S., 1985, c. 1 (2nd Supp.), s. 65; 1992, c. 28, s. 16; 1993, c. 44, s. 96(E); 1997, c. 36, s. 167; 2001, c. 25, s. 45
 
 
 
@@ -2615,7 +2615,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 **Exception — marking determinations**
 
 - **(3)** This section does not apply to a marking determination.
-> 1992, c. 28, s. 17; 1997, c. 36, s. 168; 2001, c. 25, s. 46.
+> 1992, c. 28, s. 17; 1997, c. 36, s. 168; 2001, c. 25, s. 46
 
 
 
@@ -2634,7 +2634,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 **Interest on refunds**
 
 - **(3)** A person who is given a refund under paragraph 59(3)(b) or 65(1)(b) of this Act or under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) of an amount paid shall be given, in addition to the refund, interest at the prescribed rate for the period beginning on the first day after the day the amount was paid and ending on the day the refund is given, calculated on the amount of the refund.
-> R.S., 1985, c. 1 (2nd Supp.), s. 66; 1992, c. 28, s. 18; 1997, c. 36, s. 168; 2001, c. 25, s. 47.
+> R.S., 1985, c. 1 (2nd Supp.), s. 66; 1992, c. 28, s. 18; 1997, c. 36, s. 168; 2001, c. 25, s. 47
 
 
 
@@ -2652,12 +2652,12 @@ If paragraph (a) applies, the application under this subsection must be made wit
 
 **Publication of notice of appeal**
 
-- **(2)** Before making a decision under this section, the Canadian International Trade Tribunal shall provide for a hearing and shall publish a notice thereof in the Canada Gazette at least twenty-one days prior to the day of the hearing, and any person who, on or before the day of the hearing, enters an appearance with the Canadian International Trade Tribunal may be heard on the appeal.
+- **(2)** Before making a decision under this section, the Canadian International Trade Tribunal shall provide for a hearing and shall publish a notice thereof in the [Canada Gazette](http://www.gazette.gc.ca/) at least twenty-one days prior to the day of the hearing, and any person who, on or before the day of the hearing, enters an appearance with the Canadian International Trade Tribunal may be heard on the appeal.
 
 **Judicial review**
 
 - **(3)** On an appeal under subsection (1), the Canadian International Trade Tribunal may make such order, finding or declaration as the nature of the matter may require, and an order, finding or declaration made under this section is not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by section 68.
-> R.S., 1985, c. 1 (2nd Supp.), s. 67, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 169; 1999, c. 17, s. 127; 2001, c. 25, s. 48(F); 2005, c. 38, s. 85; 2014, c. 20, s. 446.
+> R.S., 1985, c. 1 (2nd Supp.), s. 67, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 169; 1999, c. 17, s. 127; 2001, c. 25, s. 48(F); 2005, c. 38, s. 85; 2014, c. 20, s. 446
 
 
 
@@ -2686,7 +2686,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(ii)** it would be just and equitable to grant the application,
 		- **(iii)** the application was made as soon as circumstances permitted, and
 		- **(iv)** there are reasonable grounds for the appeal.
-> 2001, c. 25, s. 49; 2005, c. 38, s. 85; 2014, c. 20, s. 446.
+> 2001, c. 25, s. 49; 2005, c. 38, s. 85; 2014, c. 20, s. 446
 
 
 
@@ -2705,7 +2705,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Disposition of appeal**
 
 - **(2)** The Federal Court of Appeal may dispose of an appeal by making such order or finding as the nature of the matter may require or by referring the matter back to the Canadian International Trade Tribunal for re-hearing.
-> R.S., 1985, c. 1 (2nd Supp.), s. 68, c. 47 (4th Supp.), s. 52; 1995, c. 41, s. 20; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 68, c. 47 (4th Supp.), s. 52; 1995, c. 41, s. 20; 1999, c. 17, s. 127; 2005, c. 38, s. 85
 
 
 
@@ -2722,7 +2722,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 - **(2)** Where a refund is given under subsection (1), the person who is given the refund shall,
 	- **(a)** if a re-determination or further re-determination is made by the President under subparagraph 61(1)(a)(iii) and a portion of the amount refunded as a result of that decision is owing as duties and interest, pay interest at the prescribed rate for the period beginning on the first day after the day the refund is given and ending on the day the amount of the refund found to be owing as duties and interest has been paid in full, calculated on the outstanding balance of that amount of the refund, except that if the amount of the refund found to be owing is paid within thirty days after the day that decision is made, interest shall not be payable on that amount from that day to the day the amount is paid; or
 	- **(b)** if a re-determination or further re-determination is made by the President under subparagraph 61(1)(a)(iii) and a portion of the amount refunded as a result of that decision is not owing as duties and interest, be given interest at the prescribed rate for the period beginning on the day after the amount refunded was originally paid by that person and ending on the day it was refunded, calculated on the amount of the refund found not to be owing.
-> R.S., 1985, c. 1 (2nd Supp.), s. 69, c. 1 (4th Supp.), s. 45(F); 1992, c. 28, s. 19; 1997, c. 36, s. 170; 1999, c. 17, s. 127; 2001, c. 25, s. 50(F); 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 69, c. 1 (4th Supp.), s. 45(F); 1992, c. 28, s. 19; 1997, c. 36, s. 170; 1999, c. 17, s. 127; 2001, c. 25, s. 50(F); 2005, c. 38, s. 85
 
 
 
@@ -2737,7 +2737,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Idem**
 
 - **(2)** Sections 67 and 68 apply in respect of a reference made pursuant to this section as if the reference were an appeal taken pursuant to section 67.
-> R.S., 1985, c. 1 (2nd Supp.), s. 70, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 171; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 70, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 171; 1999, c. 17, s. 127; 2005, c. 38, s. 85
 
 
 
@@ -2769,7 +2769,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 - **(e)** [Repealed, 1992, c. 51, s. 44]
 - **(f)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court, and
 - **(g)** in Nunavut, the Nunavut Court of Justice. (*tribunal*)
-> R.S., 1985, c. 1 (2nd Supp.), s. 71, c. 41 (3rd Supp.), s. 120, c. 47 (4th Supp.), s. 52; 1990, c. 16, s. 8, c. 17, s. 16; 1992, c. 1, s. 61, c. 51, s. 44; 1997, c. 36, s. 172; 1998, c. 30, ss. 12, 14; 1999, c. 3, s. 59; 2002, c. 7, s. 152; 2014, c. 20, s. 445; 2015, c. 3, s. 61.
+> R.S., 1985, c. 1 (2nd Supp.), s. 71, c. 41 (3rd Supp.), s. 120, c. 47 (4th Supp.), s. 52; 1990, c. 16, s. 8, c. 17, s. 16; 1992, c. 1, s. 61, c. 51, s. 44; 1997, c. 36, s. 172; 1998, c. 30, ss. 12, 14; 1999, c. 3, s. 59; 2002, c. 7, s. 152; 2014, c. 20, s. 445; 2015, c. 3, s. 61
 
 
 
@@ -2778,7 +2778,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Limitation relating to security**
 
 **72** No security may be given under paragraph 59(3)(a) or 65(1)(a) or subsection 69(1) in respect of any amount owing as surtaxes levied under section 53, 55, 60, 63, 68 or 78 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or temporary duties levied under any of sections 69 to 76 of that Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 72, c. 41 (3rd Supp.), s. 121; 1988, c. 65, s. 71; 1993, c. 44, s. 97; 1996, c. 33, s. 35; 1997, c. 14, s. 42, c. 36, s. 173.
+> R.S., 1985, c. 1 (2nd Supp.), s. 72, c. 41 (3rd Supp.), s. 121; 1988, c. 65, s. 71; 1993, c. 44, s. 97; 1996, c. 33, s. 35; 1997, c. 14, s. 42, c. 36, s. 173
 
 
 
@@ -2789,7 +2789,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **72.1** Notwithstanding subsection 59(1) and sections 60 and 61, no re-determination or further re-determination of the tariff classification of imported goods classified under heading No. 98.26 of the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) may be made unless the re-determination or further re-determination is to
 - **(a)** change the classification of the goods to another tariff item under that heading; or
 - **(b)** change the classification of all those goods accounted for under the same accounting document to tariff items in Chapters 1 to 97 of that List.
-> 1990, c. 36, s. 1; 1997, c. 36, s. 173.
+> 1990, c. 36, s. 1; 1997, c. 36, s. 173
 
 
 
@@ -2874,7 +2874,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Application of refund**
 
 - **(8)** A person of a prescribed class may apply, within four years after goods are accounted for under subsection 32(1), (3) or (5), in prescribed circumstances and under prescribed conditions, the amount of any refund to which they are entitled under this section to the payment of any amount for which they are liable or may become liable under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 74; 1988, c. 65, s. 72; 1993, c. 44, s. 98; 1996, c. 33, s. 36; 1997, c. 14, s. 43, c. 36, s. 175; 1999, c. 31, s. 71(F); 2001, c. 25, s. 51, c. 28, s. 29; 2002, c. 22, s. 337; 2009, c. 6, s. 27, c. 16, ss. 34, 56; 2010, c. 4, s. 28; 2012, c. 18, s. 29.
+> R.S., 1985, c. 1 (2nd Supp.), s. 74; 1988, c. 65, s. 72; 1993, c. 44, s. 98; 1996, c. 33, s. 36; 1997, c. 14, s. 43, c. 36, s. 175; 1999, c. 31, s. 71(F); 2001, c. 25, s. 51, c. 28, s. 29; 2002, c. 22, s. 337; 2009, c. 6, s. 27, c. 16, ss. 34, 56; 2010, c. 4, s. 28; 2012, c. 18, s. 29
 
 
 
@@ -2906,7 +2906,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Subsections 74(2) and (3) and 75(1) apply**
 
 - **(2)** Subsections 74(2) and (3) and 75(1) apply, with such modifications as the circumstances require, in respect of refunds under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 76; 2001, c. 25, s. 52(F).
+> R.S., 1985, c. 1 (2nd Supp.), s. 76; 2001, c. 25, s. 52(F)
 
 
 
@@ -2919,7 +2919,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Merchantable scrap, waste or by-products**
 
 **78** In such circumstances as may be prescribed, where merchantable scrap, waste or by-products result from the destruction or disposal of goods or from the incorporation of goods into other goods, the amount of any abatement or refund that is granted in respect of such goods under this Act by virtue of the destruction, disposal or incorporation into other goods shall be reduced by an amount determined in the prescribed manner.
-> R.S., 1985, c. 1 (2nd Supp.), s. 78; 1992, c. 1, s. 144(F).
+> R.S., 1985, c. 1 (2nd Supp.), s. 78; 1992, c. 1, s. 144(F)
 
 
 
@@ -2935,7 +2935,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Certain duties not included**
 
 **79.1** For the purposes of sections 78 and 79, an abatement or refund does not include a rebate or refund of any amount paid in respect of tax levied under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
-> 1990, c. 45, s. 20.
+> 1990, c. 45, s. 20
 
 
 
@@ -2944,7 +2944,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Interest on refunds**
 
 **80** Any person who is granted a refund of duties under section 74, 76 or 79 shall be granted, in addition to the refund, interest on the refund at the prescribed rate for the period beginning on the ninety-first day after the day an application for the refund is received in accordance with paragraph 74(3)(b) and ending on the day the refund is granted.
-> R.S., 1985, c. 1 (2nd Supp.), s. 80; 1992, c. 28, s. 20; 1997, c. 36, s. 178; 2001, c. 25, s. 53.
+> R.S., 1985, c. 1 (2nd Supp.), s. 80; 1992, c. 28, s. 20; 1997, c. 36, s. 178; 2001, c. 25, s. 53
 
 
 
@@ -2953,7 +2953,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Interest on past refunds**
 
 **80.1** Notwithstanding subsection 80(1), any person who, under paragraph 74(1)(g), is granted a refund of duties on imported goods on which the rate of customs duty is reduced by a retroactive order or regulation of the Governor in Council made under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) shall be granted, in addition to the refund, interest at the prescribed rate for the period beginning on the day after the day the duties were paid and ending on the day the refund is granted, calculated on the amount of the refund.
-> 1990, c. 36, s. 3; 1992, c. 28, s. 21; 1997, c. 36, s. 179.
+> 1990, c. 36, s. 3; 1992, c. 28, s. 21; 1997, c. 36, s. 179
 
 
 
@@ -2970,7 +2970,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 - **(2)** If an abatement or refund is granted to a person under paragraph 74(1)(f) and the goods are sold or otherwise disposed of or are subsequently used in a manner that fails to comply with a condition imposed under a tariff item in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), or under any regulations made under that Act in respect of a tariff item in that List, the person who was granted the refund or abatement shall, within ninety days after the failure to comply,
 	- **(a)** report the failure to an officer at a customs office; and
 	- **(b)** pay to Her Majesty in right of Canada any amount to which they are not entitled, together with any interest that was granted to the person under section 80 or 80.1 on that amount.
-> 1997, c. 36, s. 180; 2001, c. 25, s. 54.
+> 1997, c. 36, s. 180; 2001, c. 25, s. 54
 
 
 
@@ -3015,7 +3015,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 	- **(a)** prescribing the sources from which the information may be collected;
 	- **(b)** respecting the circumstances in which the information may be collected; and
 	- **(c)** respecting the time within which and the manner in which the information may be collected.
-> R.S., 1985, c. 1 (2nd Supp.), s. 92; 1995, c. 41, s. 24; 2018, c. 30, s. 2.
+> R.S., 1985, c. 1 (2nd Supp.), s. 92; 1995, c. 41, s. 242018, c. 30, s. 2
 
 
 
@@ -3052,7 +3052,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 	- **(c)** prescribing the persons or classes of persons who must give the information under subsection (1);
 	- **(d)** respecting the circumstances in which the information must be given under subsection (1); and
 	- **(e)** respecting the time within which and the manner in which the information must be given under subsection (1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 93; 1992, c. 28, s. 24; 1993, c. 25, s. 79; 1995, c. 41, s. 25; 1997, c. 36, s. 181; 2018, c. 30, s. 2.
+> R.S., 1985, c. 1 (2nd Supp.), s. 93; 1992, c. 28, s. 24; 1993, c. 25, s. 79; 1995, c. 41, s. 25; 1997, c. 36, s. 1812018, c. 30, s. 2
 
 
 
@@ -3061,7 +3061,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Retention of collected information**
 
 **93.1** Subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), information collected under sections 92 and 93 shall be retained by the Agency for a period of not more than 15 years beginning on the day on which the information is collected.
-> 2018, c. 30, s. 2.
+> 2018, c. 30, s. 2
 
 
 
@@ -3070,7 +3070,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Obligation to answer questions**
 
 **94** Every person who is leaving Canada shall, if requested to do so by an officer, present themselves to an officer and answer truthfully any questions asked by an officer in the performance of their duties under this or any other Act of Parliament.
-> R.S., 1985, c. 1 (2nd Supp.), s. 94; 1995, c. 41, s. 26; 1997, c. 36, s. 181; 2018, c. 30, s. 2.
+> R.S., 1985, c. 1 (2nd Supp.), s. 94; 1995, c. 41, s. 26; 1997, c. 36, s. 1812018, c. 30, s. 2
 
 
 
@@ -3119,7 +3119,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Written report**
 
 - **(4)** If goods are required to be reported in writing, they shall be reported in the prescribed form containing the prescribed information or in such form containing such information as is satisfactory to the Minister.
-> R.S., 1985, c. 1 (2nd Supp.), s. 95; 2001, c. 25, s. 55; 2017, c. 11, s. 7; 2018, c. 30, s. 3.
+> R.S., 1985, c. 1 (2nd Supp.), s. 95; 2001, c. 25, s. 552017, c. 11, s. 72018, c. 30, s. 3
 
 
 
@@ -3138,7 +3138,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Regulations**
 
 - **(3)** The Governor in Council may make regulations exempting persons or goods, or classes thereof, from the requirements of subsection (1) subject to such conditions, if any, as are specified in the regulations.
-> 1988, c. 65, s. 77.
+> 1988, c. 65, s. 77
 
 
 
@@ -3181,7 +3181,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Notification of correct information**
 
 - **(3)** A person who has completed and signed a certificate in accordance with subsection (1) or (1.1) and who has reason to believe that it contains incorrect information shall immediately notify each person and CPTPP country to whom the certificate was given of the correct information.
-> 1988, c. 65, s. 78; 1997, c. 14, s. 44; 2001, c. 25, s. 56(F); 2018, c. 23, s. 25.
+> 1988, c. 65, s. 78; 1997, c. 14, s. 44; 2001, c. 25, s. 56(F); 2018, c. 23, s. 25
 
 
 
@@ -3200,7 +3200,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Idem**
 
 - **(2)** Subsection 40(2) and sections 42 and 43 apply, with such modifications as the circumstances require, to a person required to keep records pursuant to subsection (1).
-> 1988, c. 65, s. 78; 1993, c. 44, s. 104; 1996, c. 33, s. 38; 1997, c. 14, s. 45; 2001, c. 25, s. 57; 2018, c. 23, s. 26.
+> 1988, c. 65, s. 78; 1993, c. 44, s. 104; 1996, c. 33, s. 38; 1997, c. 14, s. 45; 2001, c. 25, s. 57; 2018, c. 23, s. 26
 
 
 
@@ -3234,7 +3234,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Determination treated as re-determination**
 
 - **(5)** A determination made under paragraph (3)(b) is to be treated for the purposes of this Act as if it were a re-determination under paragraph 59(1)(a).
-> 2009, c. 6, s. 28; 2017, c. 6, s. 84, c. 8, ss. 22, 43.
+> 2009, c. 6, s. 28; 2017, c. 6, s. 84, c. 8, ss. 22, 43
 
 
 
@@ -3269,7 +3269,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 - **(e)** is appointed as a committee, guardian or curator with authority to manage and care for the affairs and assets of an individual who is incapable of managing those affairs and assets.
 
 It includes a person who is appointed to exercise the authority of a creditor under a debenture, bond or other debt security to operate or manage a business or a property of another person. However, if a person is so appointed it does not include that creditor. (*séquestre*)
-> 2001, c. 25, s. 58; 2005, c. 38, s. 75.
+> 2001, c. 25, s. 58; 2005, c. 38, s. 75
 
 
 
@@ -3289,8 +3289,8 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **Publication**
 
-- **(2)** An order made for the purpose of subsection (1) must be published in Part II of the Canada Gazette as soon as practicable after it is made.
-> 2005, c. 38, ss. 76, 145.
+- **(2)** An order made for the purpose of subsection (1) must be published in Part II of the [Canada Gazette](http://www.gazette.gc.ca/) as soon as practicable after it is made.
+> 2005, c. 38, ss. 76, 145
 
 
 
@@ -3325,7 +3325,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 **Interest on judgments**
 
 - **(6)** If a judgment is obtained for any amount payable under this Act, including a certificate registered under section 97.24, the provisions of this Act under which interest is payable for failure to pay the amount apply, with any modifications that the circumstances require, to a failure to pay the judgment debt, and the interest is recoverable in the same manner as the judgment debt.
-> 2001, c. 25, s. 58; 2005, c. 38, ss. 77, 84, 145.
+> 2001, c. 25, s. 58; 2005, c. 38, ss. 77, 84, 145
 
 
 
@@ -3336,7 +3336,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 **97.23** A person to whom a notice is sent or delivered under subsection 97.22(1) may, within thirty days after that notice is sent, appeal the notice by way of an action in the Federal Court in which the person is the plaintiff and the Minister of Public Safety and Emergency Preparedness is the defendant if
 - **(a)** no appeal is or was available to that person under section 67 or 68 in respect of the same matter; and
 - **(b)** the notice is not in respect of an amount assessed under section 97.44.
-> 2001, c. 25, s. 58; 2005, c. 38, ss. 84, 145.
+> 2001, c. 25, s. 58; 2005, c. 38, ss. 84, 145
 
 
 
@@ -3431,7 +3431,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 ***protected interest*** means a charge, lien, prior claim, priority on or binding interest in property. (*droit garanti*)
 
 ***record***, in respect of a memorial, means to file, register or otherwise record the memorial. (*enregistrement*)
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3463,7 +3463,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 **Proceeds of sale**
 
 - **(4)** The proceeds of any sale shall be applied to amounts owed by the debtor, any expenses incurred by Her Majesty in right of Canada in respect of the goods sold and any duties on the goods and the surplus, if any, shall be paid to the debtor.
-> 2001, c. 25, s. 58; 2007, c. 18, s. 136; 2010, c. 12, s. 49; 2018, c. 30, s. 4.
+> 2001, c. 25, s. 58; 2007, c. 18, s. 136; 2010, c. 12, s. 492018, c. 30, s. 4
 
 
 
@@ -3472,7 +3472,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 **Set-off**
 
 **97.26** The Minister may require that an amount specified by the Minister be deducted from or set-off against an amount that is or may become payable to a debtor by Her Majesty in Right of Canada. If an amount payable to a person under a provision of this Act has at any time been deducted or set-off, the amount is deemed to have been paid to the debtor at that time under that provision and to have been paid by the debtor at that time on account of the debt to Her Majesty.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3481,7 +3481,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 **Refund may be applied against liabilities**
 
 **97.27** The Minister of Public Safety and Emergency Preparedness may, if a person is or is about to become liable to make any payment to Her Majesty in right of Canada or in right of a province, apply the amount of any drawback, refund or relief granted under section 74 or 76 of this Act or section 89, 101 or 113 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) to that other liability and notify the person of that action.
-> 2001, c. 25, s. 58; 2005, c. 38, ss. 84, 145.
+> 2001, c. 25, s. 58; 2005, c. 38, ss. 84, 145
 
 
 
@@ -3539,7 +3539,7 @@ Any moneys so paid to the Receiver General are deemed to have been loaned, advan
 **Application to Her Majesty in right of a province**
 
 - **(10)** Provisions of this Part that provide that a person who has been required by the Minister to pay to the Receiver General an amount that would otherwise be loaned, advanced or paid to a debtor who is liable to make a payment under this Act apply to Her Majesty in right of a province.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3592,7 +3592,7 @@ However, nothing in this subsection limits the liability of the transferor under
 ***common-law partnership*** has the same meaning as in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*union de fait*)
 
 ***property*** includes money. (*bien*)
-> 2001, c. 25, s. 58; 2002, c. 22, s. 408.
+> 2001, c. 25, s. 58; 2002, c. 22, s. 408
 
 
 
@@ -3605,7 +3605,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Acquisition of debtor’s property**
 
 **97.3** For the purpose of collecting amounts owed by a debtor, the Minister may purchase or otherwise acquire any interest in the debtor’s property that the Minister is given a right to acquire in legal proceedings or under a court order or that is offered for sale or redemption, and may dispose of any interest so acquired in any manner that the Minister considers reasonable.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3620,7 +3620,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Receipt**
 
 - **(2)** A receipt issued for moneys turned over is a good and sufficient discharge of the requirement to restore the moneys to the debtor to the extent of the amount so turned over.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3647,7 +3647,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Exemption from seizure**
 
 - **(5)** Goods and chattels of any person that would be exempt from seizure under a writ of execution issued out of a superior court of the province in which the seizure is made are exempt from seizure under this section.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3662,7 +3662,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Failure to pay**
 
 - **(2)** If a person fails to pay an amount as required, the Minister may direct that the goods and chattels of the person be seized and subsections 97.32(2) to (5) apply.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3702,7 +3702,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Effect of taking security**
 
 - **(5)** The Minister must not, for the purpose of collecting an amount payable, or a part of an amount payable, under this Act, take any of the actions described in subsection (1) if a person has given security to the Minister of Public Safety and Emergency Preparedness when requesting or appealing from a decision of that Minister or the President.
-> 2001, c. 25, s. 58; 2002, c. 8, s. 193; 2005, c. 38, ss. 78, 85, 145.
+> 2001, c. 25, s. 58; 2002, c. 8, s. 193; 2005, c. 38, ss. 78, 85, 145
 
 
 
@@ -3759,7 +3759,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **No appeal from review order**
 
 - **(12)** No appeal lies from an order of a judge made under subsection (10).
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3789,7 +3789,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Definition of bankrupt**
 
 - **(2)** In this section, ***bankrupt*** has the same meaning as in subsection 2(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
-> 2001, c. 25, s. 58; 2004, c. 25, s. 196.
+> 2001, c. 25, s. 58; 2004, c. 25, s. 196
 
 
 
@@ -3820,7 +3820,7 @@ However, nothing in this subsection limits the liability of the transferor under
 		- **(ii)** the payment by the person or the receiver of an amount in respect of the liability discharges the joint liability to the extent of that amount;
 	- **(e)** the receiver shall perform all the obligations, in respect of the relevant assets of the receiver for the period during which the receiver is acting as receiver, that are required under this Act to be performed by the person, as if the relevant assets were the only properties, businesses, affairs and assets of the person; and
 	- **(f)** if the person has not on or before the particular day fulfilled their obligations under this Act before the period during which the receiver was acting as receiver, the receiver shall fulfil those obligations for that period that relate to the businesses, properties, affairs or assets of the person that would have been the relevant assets of the receiver if the receiver had been acting as receiver of the person during that period, unless the Minister waives in writing the requirement for the receiver to do so.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3853,7 +3853,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Activities of a trustee**
 
 - **(5)** For the purposes of this Act, if a person acts as trustee of a trust, anything done by the person in the person’s capacity as trustee of the trust is deemed to have been done by the trust and not by the person.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3880,7 +3880,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Liability for failure to obtain certificate**
 
 - **(4)** Any receiver or representative who distributes property or money without obtaining a certificate in respect of the amounts referred to in subsection (2) or (3) is personally liable for the payment of those amounts to the extent of the value of the property or money so distributed.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3899,7 +3899,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Exception**
 
 - **(2)** Subsection (1) does not apply to the merger or amalgamation of two or more corporations that is the result of the acquisition of property of one corporation by another corporation pursuant to the purchase of the property by the other corporation or as the result of the distribution of the property to the other corporation on the winding-up of the corporation.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3908,7 +3908,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Winding-up**
 
 **97.41** For the purposes of this Act, if at any time a particular corporation is wound up and not less than 90% of the issued shares of each class of the capital stock of the particular corporation were, immediately before that time, owned by another corporation, the other corporation is deemed to be the same corporation as, and a continuation of, the particular corporation.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3931,7 +3931,7 @@ However, nothing in this subsection limits the liability of the transferor under
 		- **(i)** the member is liable for the payment of amounts that become payable before that period only to the extent of the property and money that is regarded as property or money of the partnership in accordance with the laws of the province governing the partnership, and
 		- **(ii)** the payment by the partnership or by any member of the partnership of an amount in respect of the liability discharges the joint liability to the extent of that amount; and
 	- **(b)** all other obligations under this Act that arose before or during the period for which the partnership is liable or, if the member was a member of the partnership at the time the partnership was dissolved, the obligations that arose upon or as a consequence of the dissolution.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3948,7 +3948,7 @@ However, nothing in this subsection limits the liability of the transferor under
 - **(b)** if there are no members referred to in paragraph (a), every member of any committee having management of the affairs of the body; and
 - **(c)** if there are no members referred to in paragraph (a) or (b), every member of the body.
 The payment of the amount or the fullfilment of the requirement by a member is deemed to be compliance with the requirement.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -3995,7 +3995,7 @@ The Minister may reassess the amount or make an additional assessment.
 **Revoking waiver**
 
 - **(6)** Any person who files a waiver may revoke the waiver on six months notice to the Minister by filing with the Minister a notice of revocation of the waiver in the prescribed form.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4014,7 +4014,7 @@ The Minister may reassess the amount or make an additional assessment.
 **Irregularities**
 
 - **(3)** An appeal from an assessment must not be allowed by reason only of an irregularity, informality, omission or error on the part of any person in the observation of any directory provision of this Part.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4023,7 +4023,7 @@ The Minister may reassess the amount or make an additional assessment.
 **Notice of assessment**
 
 **97.46** After making an assessment, the Minister must send to the person assessed a notice of assessment.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4042,7 +4042,7 @@ The Minister may reassess the amount or make an additional assessment.
 **Security if objection or appeal**
 
 - **(3)** If a person objects to or appeals from an assessment under this Part, the Minister shall accept security, in an amount and a form satisfactory to the Minister, given by or on behalf of the person, for the payment of any amount that is in controversy.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4098,7 +4098,7 @@ The Minister may reassess the amount or make an additional assessment.
 **Notice of decision**
 
 - **(10)** After reconsidering or confirming an assessment, the Minister must send to the person objecting a notice of the Minister’s decision by registered or certified mail.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4109,7 +4109,7 @@ The Minister may reassess the amount or make an additional assessment.
 **97.49** If a person files a notice of objection to an assessment and the Minister sends to the person a notice of a reassessment or an additional assessment, in respect of any matter dealt with in the notice of objection, the person may, within ninety days after the day the notice of reassessment or additional assessment was sent by the Minister,
 - **(a)** appeal to the Tax Court of Canada; or
 - **(b)** if an appeal has already been instituted in respect of the matter, amend the appeal by joining to it an appeal in respect of the reassessment or additional assessment in any manner and on any terms that the Court directs.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4149,7 +4149,7 @@ The Minister may reassess the amount or make an additional assessment.
 		- **(i)** within the time otherwise limited by this Part for objecting, the person was unable to act or to give a mandate to act in the person’s name, or the person had a *bona fide* intention to object to the assessment,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 58; 2005, c. 38, s. 79.
+> 2001, c. 25, s. 58; 2005, c. 38, s. 79
 
 
 
@@ -4184,7 +4184,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(i)** within the time otherwise limited by this Part for objecting, the person was unable to act or to give a mandate to act in the person’s name, or the person had a *bona fide* intention to object to the assessment,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made under subsection 97.5(1) as soon as circumstances permitted.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4217,7 +4217,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(ii)** it would be just and equitable to grant the application,
 		- **(iii)** the application was made as soon as circumstances permitted, and
 		- **(iv)** there are reasonable grounds for appealing from an assessment.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4229,7 +4229,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 - **(a)** the Minister has confirmed the assessment or has reassessed; or
 - **(b)** 180 days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed.
 If paragraph (a) applies, an application to appeal under this section must be made within ninety days after the day notice is sent to the person under subsection 97.48(10).
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4247,7 +4247,7 @@ If paragraph (a) applies, the person may appeal only with respect to the relief 
 **No right of appeal**
 
 - **(2)** Despite sections 97.49 and 97.53, a person may not appeal to the Tax Court of Canada to have an assessment vacated or varied in respect of an issue for which the right of objection or appeal has been waived in writing by the person.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4256,7 +4256,7 @@ If paragraph (a) applies, the person may appeal only with respect to the relief 
 **Institution of appeal**
 
 **97.55** An appeal to the Tax Court of Canada under this Part, other than one referred to in section 18.3001 of the [Tax Court of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-2.md), must be taken in the manner set out in that Act or in any rules made under that Act.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4271,7 +4271,7 @@ If paragraph (a) applies, the person may appeal only with respect to the relief 
 **Notice, etc., forwarded to Tax Court of Canada**
 
 - **(2)** Immediately after receiving notice of an appeal, the Commissioner must forward to the Tax Court of Canada and the appellant copies of all applications, notices of assessment, notices of objection and notifications, if any, that are relevant to the appeal. Once forwarded, the copies form part of the record before the Tax Court of Canada and are evidence of the existence of the documents and of the making of the statements contained in them.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4280,7 +4280,7 @@ If paragraph (a) applies, the person may appeal only with respect to the relief 
 **Disposition of appeal**
 
 **97.57** The Tax Court of Canada may dispose of an appeal from an assessment by dismissing or allowing it. If the appeal is allowed, the Court may vacate the assessment or refer it back to the Minister for reconsideration and reassessment.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4298,7 +4298,7 @@ If paragraph (a) applies, the person may appeal only with respect to the relief 
 	- **(a)** the four-year period referred to in paragraph 97.44(1)(a);
 	- **(b)** the time for service of a notice of objection to an assessment under section 97.48; or
 	- **(c)** the time within which an appeal may be instituted under section 97.53.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58
 
 
 
@@ -4357,7 +4357,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Samples**
 
 - **(4)** Samples taken pursuant to subsection (1) shall be disposed of in such manner as the Minister may direct.
-> R.S., 1985, c. 1 (2nd Supp.), s. 99; 1988, c. 65, s. 79; 2001, c. 25, s. 59; 2017, c. 7, s. 52; 2018, c. 30, s. 5.
+> R.S., 1985, c. 1 (2nd Supp.), s. 99; 1988, c. 65, s. 79; 2001, c. 25, s. 59; 2017, c. 7, s. 522018, c. 30, s. 5
 
 
 
@@ -4374,7 +4374,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 - **(2)** An officer who stops a person referred to in subsection (1) may
 	- **(a)** question the person; and
 	- **(b)** in respect of goods imported by that person, examine them, cause to be opened any package or container of the imported goods and take samples of them in reasonable amounts.
-> 2001, c. 25, s. 60.
+> 2001, c. 25, s. 60
 
 
 
@@ -4401,7 +4401,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Limitations on searches**
 
 - **(5)** No person may be searched by an officer who is not of the same sex and, if there is no officer of the same sex at the place at which the search is to be conducted, an officer may authorize any suitable person of the same sex to conduct the search.
-> 2001, c. 25, s. 60; 2009, c. 10, s. 10.
+> 2001, c. 25, s. 60; 2009, c. 10, s. 10
 
 
 
@@ -4420,7 +4420,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Examination of abandoned goods**
 
 - **(3)** An officer may, at any time, open or cause to be opened, examine and detain any goods, baggage, package or container that is found abandoned or that is not in the possession of any person in a customs controlled area.
-> 2001, c. 25, s. 60; 2009, c. 10, s. 11.
+> 2001, c. 25, s. 60; 2009, c. 10, s. 11
 
 
 
@@ -4432,7 +4432,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 - **(a)** prescribing persons or classes of persons who may be searched under subsection 99.2(2);
 - **(b)** respecting, for the purposes of subsection 99.2(2), the circumstances and manner in which searches are to be conducted and the types of searches that may be conducted; and
 - **(c)** respecting, for the purposes of subsection 99.3(1), the manner in which examinations are to be conducted and the machines, instruments, devices or other apparatuses or classes of machines, instruments, devices or apparatuses that may be used to conduct examinations.
-> 2001, c. 25, s. 60.
+> 2001, c. 25, s. 60
 
 
 
@@ -4443,7 +4443,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **99.5** If an officer has reasonable grounds to suspect that a person, having stated under section 11.7 that they arrived from a location within Canada, did in fact arrive from a location outside Canada, the officer may
 - **(a)** question the person; and
 - **(b)** examine any goods carried by the person, cause any package or container of the goods to be opened and take samples of the goods in reasonable amounts.
-> 2012, c. 19, s. 482.
+> 2012, c. 19, s. 482
 
 
 
@@ -4679,7 +4679,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 5; 2018, c. 30, s. 6; 2019, c. 13, s. 123(E).
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 52018, c. 30, s. 62019, c. 13, s. 123(E)
 
 
 
@@ -4694,7 +4694,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Disclosure**
 
 - **(2)** Any person who is required under subsection (1) to provide, or provide access to, prescribed information shall do so despite any restriction under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) on the disclosure of such information.
-> 2001, c. 25, s. 61; 2009, c. 10, s. 12; 2012, c. 31, s. 267.
+> 2001, c. 25, s. 61; 2009, c. 10, s. 12; 2012, c. 31, s. 267
 
 
 
@@ -4744,7 +4744,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 - **(3)** The Governor in Council may make regulations
 	- **(a)** designating any provisions of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or of any regulation made under any of those Acts; and
 	- **(b)** establishing short-form descriptions of the provisions designated under paragraph (a) and providing for the use of those descriptions.
-> 1993, c. 25, s. 80; 1995, c. 41, s. 29; 1997, c. 36, s. 182; 2001, c. 25, s. 62.
+> 1993, c. 25, s. 80; 1995, c. 41, s. 29; 1997, c. 36, s. 182; 2001, c. 25, s. 62
 
 
 
@@ -4766,7 +4766,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 	- **(a)** removes tobacco products, cannabis products or designated goods or causes tobacco products, cannabis products or designated goods to be removed from a customs office, sufferance warehouse, bonded warehouse or duty free shop in contravention of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the regulations made under those Acts, or
 	- **(b)** sells or uses tobacco products or designated goods designated as ships’ stores in contravention of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the regulations made under those Acts,
 is liable to a penalty equal to double the total of the duties that would be payable on like tobacco products, cannabis products or designated goods released in like condition at the rates of duties applicable to like tobacco products, cannabis products or designated goods at the time the penalty is assessed, or to such lesser amount as the Minister may direct.
-> 1993, c. 25, s. 80; 1995, c. 41, s. 29; 1997, c. 36, s. 184; 2018, c. 12, s. 116.
+> 1993, c. 25, s. 80; 1995, c. 41, s. 29; 1997, c. 36, s. 184; 2018, c. 12, s. 116
 
 
 
@@ -4789,7 +4789,7 @@ is liable to a penalty equal to double the total of the duties that would be pay
 **Sufficiency of short-form description**
 
 - **(4)** The use on a notice of assessment of a short-form description established under paragraph 109.1(3)(b) or of a description that deviates from that description without affecting its substance is sufficient for all purposes to describe the contravention.
-> 1993, c. 25, s. 80; 1995, c. 41, s. 30; 2001, c. 25, s. 63.
+> 1993, c. 25, s. 80; 1995, c. 41, s. 30; 2001, c. 25, s. 63
 
 
 
@@ -4798,7 +4798,7 @@ is liable to a penalty equal to double the total of the duties that would be pay
 **When penalty becomes payable**
 
 **109.4** A penalty assessed against a person under section 109.3 shall become payable on the day the notice of assessment of the penalty is served on the person.
-> 1993, c. 25, s. 80.
+> 1993, c. 25, s. 80
 
 
 
@@ -4813,7 +4813,7 @@ is liable to a penalty equal to double the total of the duties that would be pay
 **Exception**
 
 - **(2)** Interest is not payable if the penalty is paid in full by the person within thirty days after the date of the notice of assessment.
-> 1993, c. 25, s. 80; 2001, c. 25, s. 64.
+> 1993, c. 25, s. 80; 2001, c. 25, s. 64
 
 
 
@@ -4882,7 +4882,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 **Exigent circumstances**
 
 - **(7)** For the purposes of subsection (6), exigent circumstances include circumstances in which the delay necessary to obtain a warrant under subsection (1) would result in danger to human life or safety or the loss or destruction of anything liable to seizure.
-> R.S., 1985, c. 1 (2nd Supp.), s. 111; 1992, c. 1, s. 143(E).
+> R.S., 1985, c. 1 (2nd Supp.), s. 111; 1992, c. 1, s. 143(E)
 
 
 
@@ -4915,7 +4915,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 **Return of evidence**
 
 - **(3)** Anything that is seized under this Act as evidence alone shall be returned forthwith on completion of all proceedings in which the thing seized may be required.
-> R.S., 1985, c. 1 (2nd Supp.), s. 114; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 114; 1999, c. 17, s. 127; 2005, c. 38, s. 85
 
 
 
@@ -4933,7 +4933,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 	- **(a)** the person from whom it was seized agrees to its further detention for a specified period;
 	- **(b)** a justice of the peace is satisfied on application that, having regard to the circumstances, its further detention for a specified period is warranted and he or she so orders; or
 	- **(c)** judicial proceedings are instituted in which the seized record may be required.
-> R.S., 1985, c. 1 (2nd Supp.), s. 115; 2001, c. 25, s. 65.
+> R.S., 1985, c. 1 (2nd Supp.), s. 115; 2001, c. 25, s. 65
 
 
 
@@ -4965,7 +4965,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 **No return of certain goods**
 
 - **(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, restricted formulations, cannabis, raw leaf tobacco, excise stamps or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
-> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338; 2007, c. 18, s. 137; 2010, c. 12, s. 50; 2018, c. 16, s. 170.
+> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338; 2007, c. 18, s. 137; 2010, c. 12, s. 50; 2018, c. 16, s. 170
 
 
 
@@ -4997,7 +4997,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 **Sale of seized goods**
 
 - **(2)** An officer may sell any animals or perishable goods that have been seized under this Act, in order to avoid the expense of keeping them or to avoid their deterioration, at any time after giving the person from whom they were seized or the owner thereof a reasonable opportunity to obtain the animals or perishable goods under subsection (1), and the proceeds of the sale shall be held as forfeit in lieu of the thing sold.
-> R.S., 1985, c. 1 (2nd Supp.), s. 119; 1995, c. 41, s. 32; 1997, c. 36, s. 186.
+> R.S., 1985, c. 1 (2nd Supp.), s. 119; 1995, c. 41, s. 32; 1997, c. 36, s. 186
 
 
 
@@ -5030,7 +5030,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 - **(3)** Where a person would be entitled to the return of goods if they were available to be returned, but it is not possible to return them, the person shall be paid
 	- **(a)** where the goods were sold, the proceeds from the sale; and
 	- **(b)** in any other case, the value of the goods.
-> 1994, c. 37, s. 9; 2002, c. 22, s. 339; 2007, c. 18, s. 138; 2010, c. 12, s. 51.
+> 1994, c. 37, s. 9; 2002, c. 22, s. 339; 2007, c. 18, s. 138; 2010, c. 12, s. 51
 
 
 
@@ -5071,7 +5071,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **Review of forfeiture**
 
 **123** The forfeiture of goods or conveyances seized under this Act or any money or security held as forfeit in lieu of such goods or conveyances is final and not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 127.1 and 129.
-> R.S., 1985, c. 1 (2nd Supp.), s. 123; 2001, c. 25, s. 66.
+> R.S., 1985, c. 1 (2nd Supp.), s. 123; 2001, c. 25, s. 66
 
 
 
@@ -5122,7 +5122,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **Interest**
 
 - **(6)** A person on whom a notice of ascertained forfeiture has been served shall pay, in addition to the amount set out in the notice, interest at the prescribed rate for the period beginning on the day after the notice was served and ending on the day the amount is paid in full, calculated on the outstanding balance. However, interest is not payable if the amount is paid in full within thirty days after the date of the notice.
-> R.S., 1985, c. 1 (2nd Supp.), s. 124; 1995, c. 41, s. 33; 1997, c. 36, s. 187; 2001, c. 25, s. 67.
+> R.S., 1985, c. 1 (2nd Supp.), s. 124; 1995, c. 41, s. 33; 1997, c. 36, s. 187; 2001, c. 25, s. 67
 
 
 
@@ -5149,7 +5149,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **No review or appeal**
 
 **126.1** Sections 127 to 133 do not apply to a contravention of subsection 40(3) of this Act by a person referred to in paragraph (c) of that subsection, or to a contravention of section 32.2 of this Act in circumstances to which subsection 32.2(6) of this Act applies, or to a contravention of subsection 95(1), 118(1) or (2), 121(1) or 122(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
-> 1995, c. 41, s. 34; 1997, c. 36, s. 188.
+> 1995, c. 41, s. 34; 1997, c. 36, s. 188
 
 
 
@@ -5158,7 +5158,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **Review of ascertained forfeiture or penalty assessment**
 
 **127** The debt due to Her Majesty as a result of a notice served under section 109.3 or a demand under section 124 is final and not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 127.1 and 129.
-> R.S., 1985, c. 1 (2nd Supp.), s. 127; 1993, c. 25, s. 81; 2001, c. 25, s. 68.
+> R.S., 1985, c. 1 (2nd Supp.), s. 127; 1993, c. 25, s. 81; 2001, c. 25, s. 68
 
 
 
@@ -5175,7 +5175,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **Interest**
 
 - **(2)** If an amount is returned to a person under paragraph (1)(a), the person shall be given interest on that amount at the prescribed rate for the period beginning on the day after the amount was originally paid by that person and ending on the day it was returned.
-> 2001, c. 25, s. 68; 2005, c. 38, s. 81; 2009, c. 10, s. 13(F); 2014, c. 20, s. 172.
+> 2001, c. 25, s. 68; 2005, c. 38, s. 81; 2009, c. 10, s. 13(F); 2014, c. 20, s. 172
 
 
 
@@ -5184,7 +5184,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **Report to President**
 
 **128** Where goods or a conveyance has been seized under this Act, or a notice has been served under section 109.3 or 124, the officer who seized the goods or conveyance or served the notice or caused it to be served shall forthwith report the circumstances of the case to the President.
-> R.S., 1985, c. 1 (2nd Supp.), s. 128; 1993, c. 25, s. 81; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 128; 1993, c. 25, s. 81; 1999, c. 17, s. 127; 2005, c. 38, s. 85
 
 
 
@@ -5203,7 +5203,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **Burden of proof**
 
 - **(2)** The burden of proof that notice was given under subsection (1) lies on the person claiming to have given the notice.
-> R.S., 1985, c. 1 (2nd Supp.), s. 129; 1993, c. 25, s. 82; 2001, c. 25, s. 69; 2014, c. 20, s. 173.
+> R.S., 1985, c. 1 (2nd Supp.), s. 129; 1993, c. 25, s. 82; 2001, c. 25, s. 69; 2014, c. 20, s. 173
 
 
 
@@ -5235,7 +5235,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 		- **(i)** within the time provided in section 129, the applicant was unable to request a decision or to instruct another person to request a decision on the applicant’s behalf or the applicant had a *bona fide* intention to request a decision,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 70.
+> 2001, c. 25, s. 70
 
 
 
@@ -5266,7 +5266,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(i)** within the time provided in section 129 for making a request for a decision of the Minister, the person was unable to act or to instruct another person to act in the person’s name or had a *bona fide* intention to request a decision,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 70.
+> 2001, c. 25, s. 70
 
 
 
@@ -5285,7 +5285,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 **Evidence**
 
 - **(3)** Evidence may be given under subsection (2) by affidavit made before any person authorized by an Act of Parliament or of the legislature of a province to administer oaths or take affidavits.
-> R.S., 1985, c. 1 (2nd Supp.), s. 130; 1993, c. 25, s. 83; 1999, c. 17, s. 127; 2001, c. 25, s. 71; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 130; 1993, c. 25, s. 83; 1999, c. 17, s. 127; 2001, c. 25, s. 71; 2005, c. 38, s. 85
 
 
 
@@ -5312,7 +5312,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 **Judicial review**
 
 - **(3)** The Minister’s decision under subsection (1) is not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by subsection 135(1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 131; 1993, c. 25, s. 84; 2001, c. 25, s. 72.
+> R.S., 1985, c. 1 (2nd Supp.), s. 131; 1993, c. 25, s. 84; 2001, c. 25, s. 72
 
 
 
@@ -5331,7 +5331,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 - **(2)** Where any money is authorized under subsection (1) to be returned to any person, there shall be paid to that person, in addition to the money returned, interest on the money at the prescribed rate for the period beginning on the day after the day the money was paid and ending on the day the money is returned.
 
 - **(3)** [Repealed, 1992, c. 28, s. 26]
-> R.S., 1985, c. 1 (2nd Supp.), s. 132; 1992, c. 28, s. 26; 1993, c. 25, s. 85; 2001, c. 25, s. 73.
+> R.S., 1985, c. 1 (2nd Supp.), s. 132; 1992, c. 28, s. 26; 1993, c. 25, s. 85; 2001, c. 25, s. 73
 
 
 
@@ -5386,7 +5386,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 - **(7)** If an amount of money is demanded under paragraph (1)(c) or (1.1)(b), the person to whom the demand is made shall pay the amount demanded together with interest at the prescribed rate for the period beginning on the day after the notice is served under subsection 131(2) and ending on the day the amount has been paid in full, calculated on the outstanding balance of the amount. However, interest is not payable if the amount demanded is paid in full within thirty days after the notice is served.
 
 - **(8)** [Repealed, 1992, c. 28, s. 27]
-> R.S., 1985, c. 1 (2nd Supp.), s. 133; 1992, c. 28, s. 27; 1993, c. 25, s. 86; 1995, c. 41, s. 35; 1997, c. 36, s. 189; 2001, c. 25, s. 74.
+> R.S., 1985, c. 1 (2nd Supp.), s. 133; 1992, c. 28, s. 27; 1993, c. 25, s. 86; 1995, c. 41, s. 35; 1997, c. 36, s. 189; 2001, c. 25, s. 74
 
 
 
@@ -5405,7 +5405,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 **Ordinary action**
 
 - **(2)** The [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) and the rules made under that Act applicable to ordinary actions apply in respect of actions instituted under subsection (1) except as varied by special rules made in respect of such actions.
-> R.S., 1985, c. 1 (2nd Supp.), s. 135; 1990, c. 8, s. 49; 2002, c. 8, s. 134.
+> R.S., 1985, c. 1 (2nd Supp.), s. 135; 1990, c. 8, s. 49; 2002, c. 8, s. 134
 
 
 
@@ -5421,7 +5421,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 **Service of notices**
 
 **137** The service of the President’s notice under section 130 or the notice of the Minister’s decision under section 131 is sufficient if it is sent by registered mail addressed to the person on whom it is to be served at his latest known address.
-> R.S., 1985, c. 1 (2nd Supp.), s. 137; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 137; 1999, c. 17, s. 127; 2005, c. 38, s. 85
 
 
 
@@ -5465,7 +5465,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 		- **(ii)** had a *bona fide* intention to apply under that subsection;
 	- **(b)** it would be just and equitable to grant the application; and
 	- **(c)** the application was made as soon as circumstances permitted.
-> R.S., 1985, c. 1 (2nd Supp.), s. 138; 1992, c. 1, s. 62, c. 51, s. 45; 1998, c. 30, s. 14; 1999, c. 3, s. 60, c. 17, s. 127; 2001, c. 25, s. 75; 2014, c. 20, s. 174; 2015, c. 3, s. 62(F).
+> R.S., 1985, c. 1 (2nd Supp.), s. 138; 1992, c. 1, s. 62, c. 51, s. 45; 1998, c. 30, s. 14; 1999, c. 3, s. 60, c. 17, s. 127; 2001, c. 25, s. 75; 2014, c. 20, s. 174; 2015, c. 3, s. 62(F)
 
 
 
@@ -5477,7 +5477,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 - **(a)** the applicant acquired the interest in good faith before the contravention or use;
 - **(b)** the applicant is innocent of any complicity or collusion in the contravention or use; and
 - **(c)** the applicant exercised all reasonable care in respect of any person permitted to obtain possession of the goods or conveyance in order to satisfy the applicant that it was not likely to be used in a contravention or, if the applicant is a mortgagee, hypothecary creditor or lien-holder, the applicant exercised that care in relation to the mortgagor, hypothecary debtor or lien-giver.
-> R.S., 1985, c. 1 (2nd Supp.), s. 139; 2001, c. 25, s. 75.
+> R.S., 1985, c. 1 (2nd Supp.), s. 139; 2001, c. 25, s. 75
 
 
 
@@ -5517,7 +5517,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 	- **(a)** acquired the interest in good faith prior to the contravention or use;
 	- **(b)** is innocent of any complicity or collusion in the contravention or use; and
 	- **(c)** exercised all reasonable care in respect of any person permitted to obtain possession of the goods or conveyance in order to satisfy the applicant that it was not likely to be used in a contravention or, if the applicant is a mortgagee, hypothecary creditor or lien-holder, that the applicant exercised that care in relation to the mortgagor, hypothecary debtor or lien-giver.
-> 2001, c. 25, s. 75; 2002, c. 7, s. 272; 2009, c. 10, s. 14(F); 2015, c. 3, s. 63.
+> 2001, c. 25, s. 75; 2002, c. 7, s. 272; 2009, c. 10, s. 14(F); 2015, c. 3, s. 63
 
 
 
@@ -5532,7 +5532,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 **Definition of court of appeal**
 
 - **(2)** In this section, ***court of appeal*** means, in the province in which an order under this section is made, the court of appeal for that province as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> R.S., 1985, c. 1 (2nd Supp.), s. 140; 2001, c. 25, s. 76.
+> R.S., 1985, c. 1 (2nd Supp.), s. 140; 2001, c. 25, s. 76
 
 
 
@@ -5553,7 +5553,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 **Limit on amount paid**
 
 - **(2)** The total amount paid under subsection (1.1) in respect of goods or a conveyance shall, if the goods or conveyance was sold or otherwise disposed of under this Act, not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the goods or conveyance, and, if there are no proceeds of disposition, no payment shall be made pursuant to subsection (1.1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 141; 1999, c. 17, s. 127; 2001, c. 25, s. 77; 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 141; 1999, c. 17, s. 127; 2001, c. 25, s. 77; 2005, c. 38, s. 85
 
 
 
@@ -5575,7 +5575,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 **Duties removed**
 
 - **(2)** Any goods that are disposed of pursuant to subsection (1) are, from the time of disposal, no longer charged with duties.
-> R.S., 1985, c. 1 (2nd Supp.), s. 142; 1996, c. 16, s. 60; 2002, c. 22, s. 340; 2007, c. 18, s. 139; 2010, c. 12, s. 52.
+> R.S., 1985, c. 1 (2nd Supp.), s. 142; 1996, c. 16, s. 60; 2002, c. 22, s. 340; 2007, c. 18, s. 139; 2010, c. 12, s. 52
 
 
 
@@ -5598,7 +5598,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 	- **(b)** wine may only be to a wine licensee;
 	- **(c)** raw leaf tobacco or a tobacco product may only be to a tobacco licensee; and
 	- **(d)** a restricted formulation may only be to a licensed user.
-> 2002, c. 22, s. 341; 2007, c. 18, s. 140; 2010, c. 12, s. 53.
+> 2002, c. 22, s. 341; 2007, c. 18, s. 140; 2010, c. 12, s. 53
 
 
 
@@ -5679,7 +5679,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 	- **(c)** prescribing fees for the purposes of subsection (10);
 	- **(d)** prescribing mail that is not charged with fees under subsection (10) or prescribing circumstances in which mail is not charged with fees under that subsection; and
 	- **(e)** prescribing mail to which any of subsections (3) to (13) does not apply or prescribing circumstances in which any of those subsections does not apply to mail.
-> 1992, c. 28, s. 29; 1997, c. 36, s. 190.
+> 1992, c. 28, s. 29; 1997, c. 36, s. 190
 
 
 
@@ -5729,7 +5729,7 @@ shall be received, in the absence of evidence to the contrary, as proof of the p
 - **(2)** For the purposes of this Act,
 	- **(a)** a reference in any notice or other document to the firm name of an unincorporated body is to be read as a reference to all the members of the body; and
 	- **(b)** any notice or other document is deemed to have been provided to each member of an unincorporated body if the notice or other document is mailed to, served on or otherwise sent to the body at its latest known address or place of business.
-> 2001, c. 25, s. 79.
+> 2001, c. 25, s. 79
 
 
 
@@ -5745,7 +5745,7 @@ shall be received, in the absence of evidence to the contrary, as proof of the p
 **Proof of no appeal**
 
 **149.1** An affidavit of an officer, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and has knowledge of the practice of the Agency or the Canada Revenue Agency, as the case may be, and that an examination of the records shows that a notice of assessment under Part V.1 was mailed or otherwise sent to a person under this Act and that, after careful examination and search of the records, the officer has been unable to find that a notice of objection or of appeal from the assessment was received within the time allowed for the notice, is evidence of the statements contained in the affidavit.
-> 2001, c. 25, s. 80; 2005, c. 38, s. 82; 2009, c. 10, s. 15(F).
+> 2001, c. 25, s. 80; 2005, c. 38, s. 82; 2009, c. 10, s. 15(F)
 
 
 
@@ -5754,7 +5754,7 @@ shall be received, in the absence of evidence to the contrary, as proof of the p
 **Objection or appeal**
 
 **149.2** If a person who is required under this Act to keep records serves a notice of objection or is a party to an appeal or reference under Part V.1, the person shall retain, until the objection, appeal or reference and any appeal from it is finally disposed of, every record that pertains to the subject-matter of the objection, appeal or reference.
-> 2001, c. 25, s. 80.
+> 2001, c. 25, s. 80
 
 
 
@@ -5818,7 +5818,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 	- **(ii)** make, or participate in, assent to or acquiesce in the making of, false or deceptive entries in records or books of account, or
 	- **(iii)** omit, or participate in, assent to or acquiesce in the omission of, a material particular from records or books of account; or
 - **(c)** wilfully, in any manner, evade or attempt to evade compliance with any provision of this Act or evade or attempt to evade the payment of duties under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 153; 1988, c. 65, s. 80; 1993, c. 44, s. 105; 1996, c. 33, s. 39; 1997, c. 14, s. 46.
+> R.S., 1985, c. 1 (2nd Supp.), s. 153; 1988, c. 65, s. 80; 1993, c. 44, s. 105; 1996, c. 33, s. 39; 1997, c. 14, s. 46
 
 
 
@@ -5829,7 +5829,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **153.1** No person shall, physically or otherwise, do or attempt to do any of the following:
 - **(a)** interfere with or molest an officer doing anything that the officer is authorized to do under this Act; or
 - **(b)** hinder or prevent an officer from doing anything that the officer is authorized to do under this Act.
-> 2001, c. 17, s. 255.
+> 2001, c. 17, s. 255
 
 
 
@@ -5881,7 +5881,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **Smuggling — out of Canada**
 
 - **(2)** Every person commits an offence who smuggles or attempts to smuggle out of Canada, whether clandestinely or not, any goods that are subject to duties, or any goods the exportation of which is prohibited, controlled or regulated under this or any other Act of Parliament.
-> R.S., 1985, c. 1 (2nd Supp.), s. 159; 2018, c. 30, s. 7.
+> R.S., 1985, c. 1 (2nd Supp.), s. 1592018, c. 30, s. 7
 
 
 
@@ -5893,7 +5893,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 - **(a)** fail to mark imported goods in the manner referred to in section 35.01;
 - **(b)** mark imported goods in a deceptive manner so as to mislead another person as to the country of origin or geographic origin of the goods; or
 - **(c)** with intent to conceal the information given by or contained in the mark, alter, deface, remove or destroy a mark on imported goods made as required by the regulations made under subsection 19(2) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
-> 1993, c. 44, s. 106; 1997, c. 36, s. 191; 2001, c. 25, s. 81.
+> 1993, c. 44, s. 106; 1997, c. 36, s. 191; 2001, c. 25, s. 81
 
 
 
@@ -5910,7 +5910,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **Court order — subsection 43(2)**
 
 - **(2)** If a person has been convicted by a court of an offence under subsection (1) for a contravention of subsection 43(2), the court may make any order that it considers appropriate in order to enforce compliance with that subsection.
-> R.S., 1985, c. 1 (2nd Supp.), s. 160; 1993, c. 25, s. 88, c. 44, s. 107; 2001, c. 25, s. 82; 2018, c. 30, s. 8.
+> R.S., 1985, c. 1 (2nd Supp.), s. 160; 1993, c. 25, s. 88, c. 44, s. 107; 2001, c. 25, s. 822018, c. 30, s. 8
 
 
 
@@ -5921,7 +5921,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **160.1** Every person who contravenes section 153.1 is guilty of an offence and, in addition to any penalty otherwise provided, is liable on summary conviction to
 - **(a)** a fine of not less than $1,000 and not more than $25,000; or
 - **(b)** both a fine described in paragraph (a) and imprisonment for a term not exceeding twelve months.
-> 2001, c. 17, s. 256.
+> 2001, c. 17, s. 256
 
 
 
@@ -5930,7 +5930,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **Summary conviction offence and punishment**
 
 **161** Every person who contravenes any of the provisions of this Act not otherwise provided for in section 160 is guilty of an offence punishable on summary conviction and liable to a fine of not more than twenty-five thousand dollars and not less than one thousand dollars or to imprisonment for a term not exceeding six months or to both fine and imprisonment.
-> R.S., 1985, c. 1 (2nd Supp.), s. 161; 2001, c. 25, s. 83.
+> R.S., 1985, c. 1 (2nd Supp.), s. 161; 2001, c. 25, s. 83
 
 
 
@@ -5976,7 +5976,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **Admissibility of certificate**
 
 - **(2)** A certificate of designation is admissible in evidence as proof of an officer’s designation without proof of the signature or official character of the person appearing to have signed it.
-> 1998, c. 7, s. 1; 2005, c. 38, s. 83.
+> 1998, c. 7, s. 1; 2005, c. 38, s. 83
 
 
 
@@ -5999,7 +5999,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **Limitation on powers**
 
 - **(4)** A designated officer may not use any power conferred on the officer for the enforcement of this Act for the sole purpose of looking for evidence of a criminal offence under any other Act of Parliament.
-> 1998, c. 7, s. 1; 2001, c. 25, s. 84; 2008, c. 6, s. 59; 2018, c. 21, ss. 11, 45.
+> 1998, c. 7, s. 1; 2001, c. 25, s. 84; 2008, c. 6, s. 59; 2018, c. 21, ss. 11, 45
 
 
 
@@ -6039,7 +6039,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 - **(2)** The Governor in Council may, on the recommendation of the Minister of Finance, make regulations prescribing a rate of interest or rules for determining a rate of interest for the purposes of any provision of this Act.
 
 - **(3) and (4)** [Repealed, 2001, c. 25, s. 85]
-> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 6, s. 29, c. 10, s. 16, c. 16, ss. 35, 56; 2010, c. 4, s. 29; 2012, c. 18, s. 30; 2017, c. 6, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 6, s. 29, c. 10, s. 16, c. 16, ss. 35, 56; 2010, c. 4, s. 29; 2012, c. 18, s. 30; 2017, c. 6, s. 85
 
 
 
@@ -6048,7 +6048,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **Incorporation by reference**
 
 **164.1** A regulation made under this Act may incorporate by reference any material regardless of its source and either as it exists on a particular date or as amended from time to time.
-> 2009, c. 10, s. 17.
+> 2009, c. 10, s. 17
 
 
 
@@ -6099,7 +6099,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 - **(b)** gives effect, in whole or in part, to a public announcement made on or before that earlier day;
 - **(c)** corrects an ambiguous or deficient enactment that was not made in accordance with the objects of this Act or the regulations made by the Governor in Council under this Act; or
 - **(d)** is consequential on an amendment to this Act that is applicable before the day the regulation is registered under section 6 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1992, c. 28, s. 31.
+> 1992, c. 28, s. 31
 
 
 
@@ -6498,6 +6498,587 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 </tr>
 </table>
 
-> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29, c. 28, s. 27 to 31; 2017, c. 6, ss. 86 to 89, c. 8, ss. 23 to 26; 2018, c. 23, ss. 27 to 30.
+> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29, c. 28, s. 27 to 31; 2017, c. 6, ss. 86 to 89, c. 8, ss. 23 to 26; 2018, c. 23, ss. 27 to 30
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 1990, c. 16, s. 24(1)
+
+
+**Transitional: proceedings**
+
+**24** 
+
+- **(1)** Every proceeding commenced before the coming into force of this subsection and in respect of which any provision amended by this Act applies shall be taken up and continued under and in conformity with that amended provision without any further formality.
+
+
+
+######           — 1990, c. 17, s. 45(1)
+
+
+**Transitional: proceedings**
+
+**45** 
+
+- **(1)** Every proceeding commenced before the coming into force of this subsection and in respect of which any provision amended by this Act applies shall be taken up and continued under and in conformity with that amended provision without any further formality.
+
+
+
+######           — 1992, c. 28, ss. 2(2), (3)
+
+
+
+- **(2)** Sections 3.1 and 3.2 of the said Act, as enacted by subsection (1), shall be deemed to have come into force on May 30, 1992, except that section 3.1 of the said Act, as enacted by subsection (1), is not applicable with respect to interest required to be computed under
+	- **(a)** subsection 34(3) of the said Act on amounts payable under subsection 34(2) of the said Act as a result of failures to comply with conditions occurring before a day to be fixed by order of the Governor in Council;
+	- **(b)** subsection 66(1), (2) or (3) or 69(2) of the said Act with respect to goods released under Part II of the said Act before a day to be fixed by order of the Governor in Council;
+	- **(c)** subsection 80(1) or section 80.1 of the said Act with respect to refunds for which applications are received before a day to be fixed by order of the Governor in Council;
+	- **(d)** subsection 84(2) of the said Act with respect to diversions or exportations occurring before a day to be fixed by order of the Governor in Council;
+	- **(e)** subsection 87(1) of the said Act with respect to drawbacks for which applications are received before a day to be fixed by order of the Governor in Council;
+	- **(f)** subsection 93(1) of the said Act with respect to amounts that become payable under section 88, 89, 91 or 92 of the said Act before a day to be fixed by order of the Governor in Council;
+	- **(g)** subsection 132(2) of the said Act with respect to money received pursuant to section 117, 118 or 119 of the said Act before a day to be fixed by order of the Governor in Council; or
+	- **(h)** subsection 133(7) of the said Act with respect to money demanded relating to decisions made under subsection 131(1) of the said Act before a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, ss. 2(2), (3)
+
+
+
+- **(3)** Section 3.3 of the said Act, as enacted by subsection (1), is applicable with respect to interest payable on or after May 30, 1992 and with respect to penalties payable on or after the day on which this Act is assented to.
+
+
+
+######           — 1992, c. 28, s. 3(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 4(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 5(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 7(2)
+
+
+
+- **(2)** Subsection 33.4(1) of the said Act, as enacted by subsection (1), shall be deemed to have come into force on May 30, 1992, except that it is not applicable with respect to
+	- **(a)** amounts and additional amounts owing as duties as a result of determinations, appraisals, re-determinations and re-appraisals made under Part III of the said Act with respect to goods released under Part II of the said Act before a day to be fixed by order of the Governor in Council; or
+	- **(b)** duties that become payable under subsection 34(2) of the said Act as a result of failures to comply with conditions occurring before a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 7(4)
+
+
+
+- **(4)** Section 33.7 of the said Act, as enacted by subsection (1), shall be deemed to have come into force on May 30, 1992, except that for the period before the day on which this Act is assented to, that section shall be read without reference to paragraph (2)(b) and subparagraph (3)(b)(ii) thereof.
+
+
+
+######           — 1992, c. 28, s. 8(3)
+
+
+
+- **(3)** Subsections (1) and (2) are applicable with respect to failures to comply with conditions occurring on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 9(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 10(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 11(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to goods released under Part II of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 12(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to goods released under Part II of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 13(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 14(3)
+
+
+
+- **(3)** Subsections (1) and (2) are applicable with respect to goods released under Part II of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 15(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 16(3)
+
+
+
+- **(3)** Subsections (1) and (2) are applicable with respect to goods released under Part II of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 17(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 18(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to goods released under Part II of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 19(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to goods released under Part II of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 20(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to refunds for which applications are received on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 21(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to refunds for which applications are received on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 22(4)
+
+
+
+- **(4)** Subsections (1) to (3) are applicable with respect to diversions and exportations occurring on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 23(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to drawbacks for which applications are received on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, ss. 24(2), (3)
+
+
+
+- **(2)** Subsections 93(1), (2), (4) and (5) of the said Act, as enacted by subsection (1), are applicable with respect to amounts that become payable under section 88, 89, 91 or 92 of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, ss. 24(2), (3)
+
+
+
+- **(3)** Subsection 93(3) of the said Act, as enacted by subsection (1), is applicable with respect to failures to report dispositions, diversions or failures to comply where the dispositions, diversions or failures to comply occur on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 26(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to money received pursuant to section 117, 118 or 119 of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 27(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to money demanded relating to decisions made under subsection 131(1) of the said Act on or after a day to be fixed by order of the Governor in Council.
+
+
+
+######           — 1992, c. 28, s. 29(2)
+
+
+
+- **(2)** Subsection (1) shall come into force on a day to be fixed by order of the Governor in Council with respect to goods released under Part II of the said Act on or after that day.
+
+
+
+######           — 1992, c. 28, s. 30(5)
+
+
+
+- **(5)** Subsections (2) and (3) are applicable with respect to regulations made on or after the day this Act is assented to.
+
+
+
+######           — 1992, c. 28, s. 31(2)
+
+
+
+- **(2)** Subsection (1) is applicable with respect to regulations made on or after the day this Act is assented to.
+
+
+
+######           — 1993, c. 25, ss. 90, 91(1)
+
+
+**Interest**
+
+**90** For the purposes of the provisions of the Customs Act that provide for the payment of, or liability to pay, any interest, section 68, subsection 69(2) and section 72 shall be deemed to have come into force as if this Act had been assented to on February 13, 1992.
+
+
+
+######           — 1993, c. 25, ss. 90, 91(1)
+
+
+**Regulations may be retroactive**
+
+**91** (1) Any regulation, or any provision of any regulation, made within eighteen months after this Act is assented to, under paragraph 30(l), (m) or (n) of the Customs Act, as enacted by subsection 73(3), may, if the regulation so provides, be retroactive and have effect with respect to any period before it is made that begins after February 12, 1992.
+
+
+
+######           — 1997, c. 26, s. 74(6)
+
+
+
+- **(6)** For the purposes of the provisions of the Customs Act and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) that provide for the payment of, or liability to pay, any interest, subsections (1) to (4) are deemed to have come into force as if this Act had been assented to on November 29, 1996.
+
+
+
+######           — 1997, c. 26, s. 75(3)
+
+
+
+- **(3)** For the purposes of the provisions of the Customs Act and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) that provide for the payment of, or liability to pay, any interest, subsection (1) is deemed to have come into force as if this Act had been assented to on November 29, 1996.
+
+
+
+######           — 1997, c. 26, s. 76(3)
+
+
+
+- **(3)** For the purposes of the provisions of the Customs Act and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) that provide for the payment of, or liability to pay, any interest, subsection (1) is deemed to have come into force as if this Act had been assented to on November 29, 1996.
+
+
+
+######           — 1997, c. 26, s. 87(3)
+
+
+
+- **(3)** For the purposes of the provisions of the Customs Act and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) that provide for the payment of, or liability to pay, any interest, subsection (1) is deemed to have come into force as if this Act had been assented to on February 19, 1997.
+
+
+
+######           — 1998, c. 19, s. 262(2)
+
+
+
+- **(2)** Any power or duty of the Minister of National Revenue delegated to an officer or a class of officers by an order made under section 134 of the Act, or by a regulation made under paragraph 164(1)(a) of the Act, before the day on which this Act is assented to continues to be delegated to that officer or that class of officers until an authorization by the Minister made under subsection 2(4) of the Act, as enacted by subsection (1), changes the delegation of that power or duty.
+
+
+
+######           — 1998, c. 30, s. 10
+
+
+**Transitional — proceedings**
+
+**10** Every proceeding commenced before the coming into force of this section and in respect of which any provision amended by sections 12 to 16 applies shall be taken up and continued under and in conformity with that amended provision without any further formality.
+
+
+
+######           — 2000, c. 30, s. 161(2)
+
+
+
+- <sup><a href='#C-52-6_2000_c30_s161_ss2'>[*]</a></sup>**(2)** Subsection (1) applies to amounts that are payable after this Act is assented to, regardless of when the amounts became payable.
+
+<a name='C-52-6_2000_c30_s161_ss2'><sup>*</sup></a>: [Note: Act assented to October 20, 2000.]<br />
+
+
+
+######           — 2001, c. 16, s. 44
+
+**44** For the purposes of applying the provisions of the Customs Act, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) that provide for the payment of, or liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though this Act had been assented to on April 6, 2001.
+
+
+
+######           — 2001, c. 25, s. 58(2)
+
+
+
+- <sup><a href='#C-52-6_2001_c25_s58_ss2'>[*]</a></sup>**(2)** Sections 97.21 to 97.58 of the Act, as enacted by subsection (1), apply to amounts that are payable after this Act is assented to, regardless of when the amounts became payable.
+
+<a name='C-52-6_2001_c25_s58_ss2'><sup>*</sup></a>: [Note: Act assented to October 25, 2001.]<br />
+
+
+
+######           — 2002, c. 22, ss. 305 to 308
+
+
+**Meaning of implementation date**
+
+**305** In sections 306 to 320, ***implementation date*** means the day on which Parts 3 and 4 come into force.
+
+
+
+######           — 2002, c. 22, ss. 305 to 308
+
+
+**Transitional treatment of duties on packaged spirits**
+
+**306** The following rules apply to packaged spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), was imposed under that Act or levied under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) but that had not become payable before the implementation date:
+- **(a)** as of that day, the duty is relieved;
+- **(b)** as of that day, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) ceases to apply in respect of the spirits;
+- **(c)** in the case of imported packaged spirits that have not been released under the Customs Act, this Act, the Customs Act and the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) apply in respect of them as though they were imported on that day; and
+- **(d)** in the case of any other packaged spirits, this Act applies in respect of them as though
+	- **(i)** they were produced and packaged in Canada on that day by the person having possession of them immediately before that day and the person were permitted under this Act to produce and package them, and
+	- **(ii)** if the spirits are in the possession of a duty free shop or an accredited representative or delivered as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), they had been entered into an excise warehouse and then removed from the warehouse in accordance with paragraph 147(1)(a) on that day.
+
+
+
+######           — 2002, c. 22, ss. 305 to 308
+
+
+**Transitional treatment of duties on bulk spirits**
+
+**307** 
+
+- **(1)** The following rules apply to bulk spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), was imposed under that Act or levied under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) but that had not become payable before the implementation date:
+	- **(a)** as of that day, the duty is relieved;
+	- **(b)** as of that day, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) ceases to apply in respect of the spirits;
+	- **(c)** in the case of imported bulk spirits that have not been released under the Customs Act, this Act, the Customs Act and the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) apply in respect of them as though they were imported on that day; and
+	- **(d)** in the case of any other bulk spirits, this Act applies in respect of them as though they were produced in Canada on that day by the person having possession of them immediately before that day.
+
+**Transitional treatment of bulk spirits imported for bottling or blending**
+
+- **(2)** The following rules apply to bulk spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), was levied under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and remitted under the [Distilled Spirits for Bottling in Bond Remission Order](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/321.md) or the [Imported Spirits for Blending Remission Order](/en/Regulations/Statutory%20Instruments/83/151.md) before the implementation date:
+	- **(a)** as of that day, the duty imposed on the spirits under subsection 135(1) of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) when they were entered into a distillery is relieved;
+	- **(b)** as of that day, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) ceases to apply in respect of the spirits; and
+	- **(c)** this Act applies in respect of them as though they were produced in Canada on that day by the person having possession of them immediately before that day.
+
+
+
+######           — 2002, c. 22, ss. 305 to 308
+
+
+**Transitional treatment of excise taxes on wine**
+
+**308** The following rules apply to wine on which tax was imposed under section 27 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) but had not become payable before the implementation date:
+- **(a)** as of that day, the tax is relieved;
+- **(b)** as of that day, Parts III, VI and VII of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) cease to apply in respect of the wine;
+- **(c)** in the case of imported wine that has not been released under the Customs Act, this Act, the Customs Act and the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) apply in respect of the wine as though it were imported on that day;
+- **(d)** in the case of bulk wine to which paragraph (c) does not apply, this Act applies in respect of it as though it were produced in Canada on that day
+	- **(i)** if the wine is located in a ferment-on-premises facility or at the residence of an individual, by the individual who owned the wine immediately before that day, or
+	- **(ii)** in any other case, by the person having possession of it immediately before that day; and
+- **(e)** in the case of wine to which neither paragraph (c) nor (d) apply, this Act applies in respect of it as though
+	- **(i)** it were produced and packaged in Canada on that day by the person having possession of it immediately before that day and the person were permitted under this Act to produce and package it, and
+	- **(ii)** in the case of wine in the possession of a duty free shop or an accredited representative or delivered as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), it had been entered into an excise warehouse and then removed from the warehouse in accordance with paragraph 147(1)(a) on that day.
+
+
+
+######           — 2002, c. 22, s. 317
+
+
+**Transitional treatment of imported tobacco products**
+
+**317** The following rules apply to an imported tobacco product:
+- **(a)** if duty levied under section 21 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and tax imposed under section 23 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) on the product had not become payable before the implementation date,
+	- **(i)** the duty and tax are relieved, and
+	- **(ii)** this Act and the Customs Act apply in respect of the product as though it were imported into Canada on that day by the importer;
+- **(b)** if the product was stamped or marked under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the product is deemed to be stamped or marked, as the case may be, under this Act; and
+- **(c)** the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) and Parts III, VI and VII of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) cease to apply in respect of the product.
+
+
+
+######           — 2003, c. 15, s. 59
+
+**59** For the purposes of applying the provisions of the Customs Act and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though this Act had been assented to on June 18, 2002.
+
+
+
+######           — 2006, c. 4, s. 42
+
+**42** For the purposes of applying the provisions of the Customs Act that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though sections 37 to 41 had come into force on July 1, 2006.
+
+
+
+######           — 2006, c. 4, s. 50
+
+**50** For the purposes of applying the provisions of the Customs Act and the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though sections 43, 48 and 49 had come into force on July 1, 2006.
+
+
+
+######           — 2007, c. 35, s. 209
+
+**209** For the purposes of applying the provisions of the Customs Act that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though sections 204 to 208 had come into force on January 1, 2008.
+
+
+
+######           — 2008, c. 28, s. 49(3)
+
+**49** 
+
+- **(3)** For the purposes of applying the provisions of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and of the Customs Act that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though this section had come into force on February 27, 2008.
+
+
+
+######           — 2008, c. 28, s. 69
+
+**69** For the purposes of applying the provisions of the Customs Act that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though
+- **(a)** section 63, paragraph 1(b) of Schedule 3 to the Act, as enacted by subsection 65(1), paragraph 2(b) of Schedule 3 to the Act, as enacted by subsection 66(1), section 67 and paragraph 4(b) of Schedule 3 to the Act, as enacted by subsection 68(1), had come into force on February 27, 2008; and
+- **(b)** section 64, paragraph 1(c) of Schedule 3 to the Act, as enacted by subsection 65(1), paragraph 2(c) of Schedule 3 to the Act, as enacted by subsection 66(1), and paragraph 4(c) of Schedule 3 to the Act, as enacted by subsection 68(1), had come into force on July 1, 2008.
+
+
+
+######           — 2008, c. 28, s. 70(2)
+
+**70** 
+
+- **(2)** For the purposes of applying the provisions of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and of the Customs Act that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though this section had come into force on February 27, 2008.
+
+
+
+######           — 2010, c. 12, s. 54
+
+
+**Meaning of implementation date**
+
+**54** 
+
+- **(1)** In this section, ***implementation date*** means the first day of the month that follows the thirtieth day after the day on which this Act receives Royal Assent.
+
+**Application**
+
+- **(2)** Sections 38 to 46, subsections 47(1) and (3) and sections 48 to 53 apply as of the implementation date, except that, for the purposes of section 34 or 35 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), a tobacco product may, on or after the implementation date but before April 2011, be entered into the duty-paid market or be released under the Customs Act for entry into the duty-paid market, as the case may be, if it is stamped in one of the following manners:
+	- **(a)** in accordance with the rules applicable under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) as those rules read on the day before the day on which this Act receives Royal Assent;
+	- **(b)** in accordance with the rules applicable under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) as those rules read on the implementation date or as they are amended from time to time after that date; or
+	- **(c)** in the manner described in paragraphs (a) and (b).
+
+**Effect — paragraph (2)(a)**
+
+- **(3)** If a tobacco product is stamped in the manner described in paragraph (2)(a), the rules applicable under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) as those rules read on the day before the day on which this Act receives Royal Assent apply in respect of the tobacco product.
+
+**Effect — paragraph (2)(b) or (c)**
+
+- **(4)** If a tobacco product is stamped in the manner described in paragraph (2)(b) or (c), the rules applicable under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) as those rules read on the implementation date, or as they are amended from time to time after that date, apply in respect of the tobacco product.
+
+
+
+######           — 2017, c. 20, s. 67
+
+**67** For the purposes of applying the provisions of the Customs Act and the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount is to be determined and interest is to be computed on it as though sections 44 and 58 to 63 and subsections 64(1) and 65(1) had been assented to on March 23, 2017.
+
+
+
+######           — 2018, c. 12, s. 67
+
+**67** For the purposes of applying the provisions of the Customs Act that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount is to be determined and interest is to be computed on it as though paragraphs 1(a), 2(a), 3(a) and 4(a) of Schedule 1 to the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), as enacted by sections 54 to 57, and subparagraph (a)(i) and paragraph (b) of Schedule 2 to the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), as enacted by section 58, had been assented to on February 28, 2018.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2009, c. 10, s. 5
+
+
+**
+> 1992, c. 28, s. 3(1)
+**
+
+**5** Paragraph 12(3)(b) of the Act is replaced by the following:
+
+- **(b)** in the case of goods, other than goods referred to in paragraph (a) or goods imported as mail, on board a conveyance arriving in Canada, by prescribed persons; and
+
+
+
+
+
+######           — 2015, c. 27, s. 35
+
+**35** Subsection 107(5) of the Customs Act is amended by adding the following after paragraph (k):
+
+- **(k.1)** an official solely for the purpose of administering or enforcing the [Firearms Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2039.md);
+
+
+
+
+
+######           — 2019, c. 25, s. 392
+
+
+**
+> 2001, c. 25, s. 84
+**
+
+**392** Subsection 163.5(1) of the Customs Act is replaced by the following:
+
+**Powers of designated officers**
+
+**163.5** 
+
+- **(1)** In addition to the powers conferred on an officer for the enforcement of this Act, a designated officer who is at a customs office and is performing the normal duties of an officer or is acting in accordance with section 99.1 has, in relation to a criminal offence under any other Act of Parliament, the powers and obligations of a peace officer under sections 495 and 497 and paragraphs 498(1)(a) and (b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and subsections 495(3) and 498(3) of that Act apply to the designated officer as if they were a peace officer.
+
+
+
 
 
