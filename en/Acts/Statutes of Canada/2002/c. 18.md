@@ -101,7 +101,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of Act to reserves**
 
 - **(4)** This Act applies to a reserve as if it were a marine conservation area.
-> 2002, c. 18, s. 2; 2005, c. 2, s. 6.
+> 2002, c. 18, s. 2; 2005, c. 2, s. 6
 
 
 
@@ -271,7 +271,7 @@ and an amendment so laid stands referred to the standing committee of each House
 **Section 12**
 
 - **(10)** Section 12 does not apply in respect of any activity that is carried out in conformity with a permit or other authorizing instrument relating to water taking or water transfer within a marine conservation area in Ontario that is made or issued under any of the laws of Ontario referred to in subsections (2) to (4).
-> 2015, c. 38, s. 2.
+> 2015, c. 38, s. 2
 
 
 
@@ -327,7 +327,7 @@ and an amendment so laid stands referred to the standing committee of each House
 **Land claims agreements**
 
 - **(5)** If a marine conservation area includes an area that is the subject of a land claims agreement, the management plan or interim management plan for the marine conservation area and any amendments to it shall be prepared in a manner consistent with any applicable provisions of the agreement.
-> 2002, c. 18, s. 9; 2005, c. 29, s. 34; 2012, c. 19, s. 325.
+> 2002, c. 18, s. 9; 2005, c. 29, s. 34; 2012, c. 19, s. 325
 
 
 
@@ -409,7 +409,7 @@ and an amendment so laid stands referred to the standing committee of each House
 **Superintendent may not amend**
 
 - **(3)** For greater certainty, the superintendent of a marine conservation area may not amend, suspend or revoke a fishing licence issued under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
-> 2002, c. 18, s. 15; 2015, c. 38, s. 3.
+> 2002, c. 18, s. 15; 2015, c. 38, s. 3
 
 
 
@@ -457,8 +457,8 @@ and an amendment so laid stands referred to the standing committee of each House
 
 **Conflicts**
 
-- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the Navigation Protection Act or the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) to the extent of any conflict between them.
-> 2002, c. 18, s. 16; 2001, c. 26, s. 322; 2005, c. 29, s. 35; 2009, c. 14, s. 20; 2012, c. 31, s. 346.
+- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) to the extent of any conflict between them.
+> 2002, c. 18, s. 16; 2001, c. 26, s. 322; 2005, c. 29, s. 35; 2009, c. 14, s. 20; 2012, c. 31, s. 3462019, c. 1, s. 134
 
 
 
@@ -503,7 +503,7 @@ and marine conservation area wardens are, for those purposes, peace officers wit
 **Limitations regarding designations**
 
 - **(2)** The Minister may specify that a designation is in respect of one or more marine conservation areas or in respect of all or specified offences under this Act that have been designated as contraventions under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md).
-> 2009, c. 14, s. 21.
+> 2009, c. 14, s. 21
 
 
 
@@ -518,7 +518,7 @@ and marine conservation area wardens are, for those purposes, peace officers wit
 **Limitations must be specified**
 
 - **(2)** The certificate must specify the limitations, if any, to which the designation is subject.
-> 2002, c. 18, s. 20; 2009, c. 14, s. 21.
+> 2002, c. 18, s. 20; 2009, c. 14, s. 21
 
 
 
@@ -527,7 +527,7 @@ and marine conservation area wardens are, for those purposes, peace officers wit
 **Right of passage**
 
 **20.1** In the discharge of their duties, marine conservation area wardens and enforcement officers and any persons accompanying them may enter on and pass through or over private property without being liable for doing so and without any person having the right to object to that use of the property.
-> 2009, c. 14, s. 21.
+> 2009, c. 14, s. 21
 
 
 
@@ -536,7 +536,7 @@ and marine conservation area wardens are, for those purposes, peace officers wit
 **Immunity**
 
 **20.2** Marine conservation area wardens and enforcement officers are not personally liable for anything they do or omit to do in good faith under this Act.
-> 2009, c. 14, s. 21.
+> 2009, c. 14, s. 21
 
 
 
@@ -547,7 +547,7 @@ and marine conservation area wardens are, for those purposes, peace officers wit
 **21** A marine conservation area warden or enforcement officer may, in accordance with the Criminal Code, arrest without warrant any person
 - **(a)** whom the warden or officer finds committing an offence under this Act; or
 - **(b)** who the warden or officer believes, on reasonable grounds, has committed or is about to commit an offence under this Act.
-> 2002, c. 18, s. 21; 2009, c. 14, s. 21.
+> 2002, c. 18, s. 21; 2009, c. 14, s. 21
 
 
 
@@ -590,7 +590,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Perishable things**
 
 - **(3)** Where a seized thing is perishable, the marine conservation area warden or enforcement officer may dispose of it or destroy it, and any proceeds of its disposition shall be paid to the lawful owner or person lawfully entitled to possession of the thing, unless proceedings under this Act are commenced within 90 days after its seizure, or shall be retained by the warden or officer pending the outcome of those proceedings.
-> 2002, c. 18, s. 23; 2009, c. 14, s. 22(F).
+> 2002, c. 18, s. 23; 2009, c. 14, s. 22(F)
 
 
 
@@ -599,7 +599,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Liability for costs**
 
 **23.1** If a thing is seized under this Act, the person who owned the thing at the time that it was seized, the person who had charge or control of the thing immediately before it was seized and the person who possessed it immediately before it was seized are jointly and severally, or solidarily, liable for all the costs of seizure, detention, maintenance and forfeiture, including any destruction or disposal costs, incurred by Her Majesty in right of Canada in relation to the thing in excess of any proceeds of its disposition, if any.
-> 2009, c. 14, s. 23.
+> 2009, c. 14, s. 23
 
 
 
@@ -678,7 +678,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Injunction**
 
 - **(3)** Whether or not proceedings have been commenced with respect to an offence under this Act, Her Majesty in right of Canada may undertake or continue proceedings to prevent conduct that constitutes such an offence.
-> 2002, c. 18, s. 24; 2009, c. 14, s. 24.
+> 2002, c. 18, s. 24; 2009, c. 14, s. 24
 
 
 
@@ -687,7 +687,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Determination of small revenue corporation status**
 
 **24.1** For the purpose of section 24, a court may determine a corporation to be a small revenue corporation if the court is satisfied that the corporation’s gross revenues for the 12 months immediately before the day on which the subject matter of the proceedings arose — or, if it arose on more than one day, for the 12 months immediately before the first day on which the subject matter of the proceedings arose — were not more than $5,000,000.
-> 2009, c. 14, s. 25.
+> 2009, c. 14, s. 25
 
 
 
@@ -696,7 +696,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Relief from minimum fine**
 
 **24.2** The court may impose a fine that is less than the minimum amount provided for in subsection 24(1) if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship. The court shall provide reasons if it imposes a fine that is less than the minimum amount provided for in that subsection.
-> 2009, c. 14, s. 25.
+> 2009, c. 14, s. 25
 
 
 
@@ -705,7 +705,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Additional fine**
 
 **24.3** If a person is convicted of an offence under this Act and the court is satisfied that, as a result of the commission of the offence, the person acquired any property, benefit or advantage, the court shall order the person to pay an additional fine in an amount equal to the court’s estimation of the value of that property, benefit or advantage. The additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
-> 2009, c. 14, s. 25.
+> 2009, c. 14, s. 25
 
 
 
@@ -714,7 +714,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Notice to shareholders**
 
 **24.4** If a corporation that has shareholders is convicted of an offence under this Act, the court shall make an order directing the corporation to notify its shareholders, in the manner and within the time directed by the court, of the facts relating to the commission of the offence and of the details of the punishment imposed.
-> 2009, c. 14, s. 25.
+> 2009, c. 14, s. 25
 
 
 
@@ -732,7 +732,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 	- **(a)** this Act and the regulations;
 	- **(b)** orders made by a court, the Minister or the superintendent under this Act; and
 	- **(c)** directions of the superintendent, a marine conservation area warden or an enforcement officer made under this Act.
-> 2009, c. 14, s. 25.
+> 2009, c. 14, s. 25
 
 
 
@@ -744,7 +744,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 - **(a)** to deter the offender and any other person from committing offences under this Act;
 - **(b)** to denounce unlawful conduct that damages or creates a risk of damage to marine conservation areas; and
 - **(c)** to restore marine conservation area resources.
-> 2009, c. 14, s. 25.
+> 2009, c. 14, s. 25
 
 
 
@@ -785,7 +785,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Reasons**
 
 - **(5)** If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (2) but decides not to increase the amount of the fine because of that factor, the court shall give reasons for that decision.
-> 2009, c. 14, s. 25.
+> 2009, c. 14, s. 25
 
 
 
@@ -824,7 +824,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Recommendations of court**
 
 - **(2)** The court imposing the fine may recommend to the Minister that all or a portion of the fine credited to the Environmental Damages Fund be paid to a person or an organization specified by the court for a purpose referred to in subsection (1).
-> 2009, c. 14, s. 26.
+> 2009, c. 14, s. 26
 
 
 
@@ -882,7 +882,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Coming into force and duration of order**
 
 - **(4)** An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and shall not continue in force for more than three years after that day unless the court provides otherwise in the order.
-> 2002, c. 18, s. 27; 2009, c. 14, s. 27.
+> 2002, c. 18, s. 27; 2009, c. 14, s. 27
 
 
 
@@ -897,7 +897,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Enforcement**
 
 - **(2)** If the amount ordered to be paid under subsection (1) is not paid without delay, the aggrieved person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offender in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
-> 2002, c. 18, s. 28; 2009, c. 14, s. 28.
+> 2002, c. 18, s. 28; 2009, c. 14, s. 28
 
 
 
@@ -912,7 +912,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Compensation for loss or damage — property**
 
 - **(2)** A court shall not, under subsection 28(1), order a person to pay to another person an amount by way of satisfaction or compensation for loss of or damage to property if the other person is entitled to make a claim for compensation for that loss or damage under the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) or the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md).
-> 2009, c. 14, s. 28.
+> 2009, c. 14, s. 28
 
 
 
@@ -921,7 +921,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Limitation period**
 
 **28.1** No proceedings by way of summary conviction in respect of an offence under this Act may be instituted more than five years after the day on which the subject matter of the proceedings arose, unless the prosecutor and the defendant agree that they may be instituted after the five years.
-> 2009, c. 14, s. 28.
+> 2009, c. 14, s. 28
 
 
 
@@ -930,7 +930,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **[Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md)**
 
 **28.2** If an offence under this Act is designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), subsection 8(5) of that Act does not apply in respect of the fine that may be established for that contravention.
-> 2009, c. 14, s. 28.
+> 2009, c. 14, s. 28
 
 
 
@@ -945,7 +945,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Retention**
 
 - **(2)** Information in the registry is to be maintained for a minimum of five years.
-> 2009, c. 14, s. 28.
+> 2009, c. 14, s. 28
 
 
 
@@ -960,7 +960,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Report to Parliament**
 
 - **(2)** The Minister shall, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
-> 2009, c. 14, s. 28.
+> 2009, c. 14, s. 28
 
 
 
@@ -987,7 +987,7 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 **Exception**
 
 - **(4)** No measures may be directed to be taken under subsection (2) to prevent or mitigate any degradation or injury if action may be taken under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md) or the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), to prevent or mitigate the same degradation or injury.
-> 2002, c. 18, s. 29; 2001, c. 26, s. 322.
+> 2002, c. 18, s. 29; 2001, c. 26, s. 322
 
 
 
@@ -1122,6 +1122,92 @@ Thence northerly in a straight line to Ikeda Point, being the point of commencem
 *Explanatory Note*: All latitudes and longitudes described in the preceding description are referred to the North American Datum of 1927; all topographic features are according to the Gazetteer of Canada (British Columbia), Third Edition, Ottawa 1985, and to the following National Topographic Series (NTS) maps: Edition 2 of Moresby Island (103 BC) produced at a scale of 1:250,000 by the Army Survey Establishment at Ottawa, Edition 3 of Tasu Head (103 C/9), Louise Island (103 B/13 & 103 B/14), Darwin Sound (103 B/12), Ramsay Island (103 B/11), Gowgaia Bay (103 B/5), Burnaby Island (103 B/6), Kunghit Island (103 B/3), Cape St. James (102 O/14 & 102 O/15) and Edition 2 of Lyman Point (103 B/2W) produced at a scale of 1:50,000 by the Department of Energy, Mines and Resources at Ottawa; and to Canadian Hydrographic Service (CHS) Chart LC 3853 produced at a scale of 1:150,000 by the Department of Fisheries and Oceans at Ottawa.
 
 
-> 2002, c. 18, Sch. 2; SOR/2010-153.
+> 2002, c. 18, Sch. 2; SOR/2010-153
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2015, c. 38, s. 4
+
+**4** Schedule 1 to the Act is amended by adding the following:
+
+### Lake Superior National Marine Conservation Area of Canada
+
+
+In the Province of Ontario, District of Thunder Bay, more particularly described as follows:
+
+FIRSTLY:
+
+Land and land under the water of part of Lake Superior, and land and land under water of part of the Nipigon River in the Geographic Township of Nipigon, being composed of Parcels 1, 17 to 20, 24, 27, 34, 36, 37, 43, 45, 59, 109, 110, 114, 116, 117 to 122 and 124 on a plan recorded in the Canada Lands Surveys Records at Ottawa as Plan 103778 CLSR, containing 1,080,596 hectares, more or less;
+
+
+
+
+
+SECONDLY:
+
+Land under the water of part of Lake Superior being composed of Parcels 46 and 123, as shown on said Plan 103778 CLSR, containing 222 hectares, more or less;
+
+
+
+
+
+THIRDLY:
+
+Part of Lot 4, Concession 1, Geographic Township of Lyon being composed of Parcel 38, as shown on said Plan 103778 CLSR, containing 68 hectares, more or less;
+
+
+
+
+
+FOURTHLY:
+
+Part of the unsubdivided Geographic Township of Strey being composed of Parcels 127 and 128, as shown on said Plan 103778 CLSR, containing 53 hectares, more or less;
+
+
+
+
+
+FIFTHLY:
+
+Part of the unsubdivided Geographic Township of Syine being composed of Parcel 129, as shown on said Plan 103778 CLSR, containing 48 hectares, more or less.
+
+
+
+
+
+
+
+
+
+######           — 2019, c. 28, par. 186(f)
+
+
+**Replacement of “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)”**
+
+**186** Every reference to the “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” is replaced by a reference to the “[Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” in the following provisions:
+- **(f)** subsection 16(5) of the Canadian National Marine Conservation Areas Act;
+
+
+
+######           — 2019, c. 28, ss. 195(1), (4)
+
+
+**
+> Bill C-64
+**
+
+**195** 
+
+- **(1)** Subsections (2) to (9) apply if Bill C-64, introduced in the 1st session of the 42nd Parliament and entitled [An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) (in this section referred to as the “other Act”), receives Royal Assent.
+
+- **(4)** On the first day on which both section 46 of this Act and section 134 of the other Act are in force, then subsection 16(5) of the Canadian National Marine Conservation Areas Act is replaced by the following:
+
+**Conflicts**
+
+- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) to the extent of any conflict between them.
+
 
 
