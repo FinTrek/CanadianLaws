@@ -76,7 +76,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***Minister*** means the Minister of Fisheries and Oceans; (*ministre*)
 
 ***ship*** includes any description of vessel, boat or craft designed, used or capable of being used solely or partly for marine navigation without regard to method or lack of propulsion. (*navire*)
-> 1996, c. 31, s. 2; 1993, c. 28, s. 78; 1998, c. 15, s. 35; 2002, c. 7, s. 223; 2014, c. 2, s. 46.
+> 1996, c. 31, s. 2; 1993, c. 28, s. 78; 1998, c. 15, s. 35; 2002, c. 7, s. 223; 2014, c. 2, s. 46
 
 
 
@@ -294,7 +294,7 @@ the baselines are straight lines interpreted as geodesics joining the consecutiv
 **Determination of the outer limit of the continental shelf of Canada**
 
 - **(2)** For greater certainty, paragraphs (1)(a) and (b) apply regardless of whether regulations are made pursuant to subparagraph 25(a)(iv) prescribing geographical coordinates of points from which the outer edge of the continental margin or other outer limit of the continental shelf of Canada may be determined.
-> 1996, c. 31, s. 17; 2015, c. 3, s. 137(E).
+> 1996, c. 31, s. 17; 2015, c. 3, s. 137(E)
 
 
 
@@ -493,7 +493,7 @@ is conclusive proof of the truth of the statement without proof of the signature
 
 **27** 
 
-- **(1)** A copy of each regulation that the Governor in Council proposes to make pursuant to paragraph 25(b) or section 26 shall be published in the Canada Gazette at least 60 days before its proposed effective date, and a reasonable opportunity shall be given to interested persons and provinces to make representations with respect to the proposed regulation.
+- **(1)** A copy of each regulation that the Governor in Council proposes to make pursuant to paragraph 25(b) or section 26 shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) at least 60 days before its proposed effective date, and a reasonable opportunity shall be given to interested persons and provinces to make representations with respect to the proposed regulation.
 
 **Exception**
 
@@ -625,7 +625,7 @@ is conclusive proof of the truth of the statement without proof of the signature
 	- **(b)** delineating zones within marine protected areas;
 	- **(c)** prohibiting classes of activities within marine protected areas; and
 	- **(d)** respecting any other matter consistent with the purpose of the designation.
-> 1996, ch. 31, art. 35; 2019, c. 8, s. 4.
+> 1996, ch. 31, art. 352019, c. 8, s. 4
 
 
 
@@ -666,7 +666,7 @@ is conclusive proof of the truth of the statement without proof of the signature
 	- **(a)** indicating the area of the sea designated in the order;
 	- **(b)** summarizing the consultations undertaken prior to making the order; and
 	- **(c)** summarizing the information that the Minister considered when making the order, which may include environmental, social, cultural or economic information.
-> 2019, c. 8, s. 5.
+> 2019, c. 8, s. 5
 
 
 
@@ -675,7 +675,7 @@ is conclusive proof of the truth of the statement without proof of the signature
 **Powers, duties and functions**
 
 **35.2** The Governor in Council and the Minister shall not use lack of scientific certainty regarding the risks posed by any activity that may be carried out in certain areas of the sea as a reason to postpone or refrain from exercising their powers or performing their duties and functions under subsection 35(3) or 35.1(2).
-> 2019, c. 8, s. 5.
+> 2019, c. 8, s. 5
 
 
 
@@ -692,7 +692,7 @@ is conclusive proof of the truth of the statement without proof of the signature
 **Repeal of Minister’s order**
 
 - **(2)** The Governor in Council may repeal the order if the Governor in Council makes a regulation referred to in paragraph (1)(a).
-> 2019, c. 8, s. 5.
+> 2019, c. 8, s. 5
 
 
 
@@ -715,7 +715,7 @@ is conclusive proof of the truth of the statement without proof of the signature
 **Inconsistency**
 
 - **(4)** In the event of any inconsistency between an order made under subsection (1) and an order made under subsection 35.1(2), the order made under subsection (1) prevails to the extent of the inconsistency.
-> 1996, ch. 31, art. 36; 2019, c. 8, s. 6.
+> 1996, ch. 31, art. 362019, c. 8, s. 6
 
 
 
@@ -764,7 +764,7 @@ is conclusive proof of the truth of the statement without proof of the signature
 - **(6)** When an enforcement officer is carrying out duties or functions under this Act or the regulations, no person shall
 	- **(a)** knowingly make any false or misleading statement either orally or in writing to the enforcement officer; or
 	- **(b)** otherwise wilfully obstruct the enforcement officer.
-> 1996, c. 31, s. 39; 2019, c. 8, s. 8.
+> 1996, c. 31, s. 392019, c. 8, s. 8
 
 
 
@@ -826,7 +826,7 @@ is conclusive proof of the truth of the statement without proof of the signature
 	- **(b)** entry to the dwelling-place is necessary in relation to the administration of this Act or the regulations, and
 	- **(c)** entry to the dwelling-place has been refused or there are reasonable grounds for believing that entry will be refused,
 the justice may issue a warrant authorizing the enforcement officer to enter the dwelling-place subject to any conditions that may be specified in the warrant.
-> 1996, c. 31, s. 39.1; 2019, c. 8, s. 10.
+> 1996, c. 31, s. 39.12019, c. 8, s. 10
 
 
 
@@ -839,7 +839,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Direction of ship to place**
 
 **39.2** An enforcement officer may direct a ship to move to any place in Canadian waters or the exclusive economic zone of Canada if they have reasonable grounds to believe that the ship or a person on board the ship has committed, is committing or is about to commit an offence under this Act in Canadian waters or the exclusive economic zone of Canada and that the ship was, is being or is about to be used in connection with the commission of the offence.
-> 1996, c. 31, s. 39.2; 2019, c. 8, s. 11.
+> 1996, c. 31, s. 39.22019, c. 8, s. 11
 
 
 
@@ -875,7 +875,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 	- **(c)** Her Majesty in right of Canada is given security, in a form determined by the Minister, for payment of the maximum fine that may be imposed as a result of a conviction of every accused and costs that might be incurred in proceedings in connection with the charge or charges, or payment of any lesser amount that is approved by the Minister;
 	- **(d)** all proceedings in respect of the offence that gave rise to the making of the order are discontinued; or
 	- **(e)** the order is rescinded by an enforcement officer.
-> 2019, c. 8, s. 11.
+> 2019, c. 8, s. 11
 
 
 
@@ -926,7 +926,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(6)** A compliance order is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2019, c. 8, s. 11.
+> 2019, c. 8, s. 11
 
 
 
@@ -941,7 +941,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Exigent circumstances**
 
 - **(2)** For the purposes of subsection (1), exigent circumstances include circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 39.22(5) would result in danger to human life or the marine environment.
-> 2019, c. 8, s. 11.
+> 2019, c. 8, s. 11
 
 
 
@@ -956,7 +956,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **No bar to proceedings**
 
 - **(2)** The issuance of, or compliance with, a compliance order is not a bar to any proceedings against the person under this or any other Act in relation to the offence described in subsection 39.22(1).
-> 2019, c. 8, s. 11.
+> 2019, c. 8, s. 11
 
 
 
@@ -975,7 +975,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Personal liability**
 
 - **(3)** A person, other than a person described in subsection 39.22(3), who provides assistance or advice to the enforcement officer in taking the measures specified in an order or who takes any measures authorized or required by an enforcement officer under subsection (1) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under that subsection unless it is established that the person acted in bad faith.
-> 2019, c. 8, s. 11.
+> 2019, c. 8, s. 11
 
 
 
@@ -1006,7 +1006,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Limitation and prescription**
 
 - **(6)** If events giving rise to a claim under this section occur, proceedings in respect of the claim may be commenced not later than five years after the day on which the events occur.
-> 2019, c. 8, s. 11.
+> 2019, c. 8, s. 11
 
 
 
@@ -1043,7 +1043,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Abandonment**
 
 - **(4)** The owner of the seized thing may abandon it to Her Majesty in right of Canada or a province.
-> 1996, c. 31, s. 39.3; 2003, c. 22, s. 224(E); 2019, c. 8, s. 12.
+> 1996, c. 31, s. 39.3; 2003, c. 22, s. 224(E)2019, c. 8, s. 12
 
 
 
@@ -1059,7 +1059,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Liability for costs**
 
 **39.5** The lawful owner and any person lawfully entitled to possession of any thing seized, detained, abandoned or forfeited under this Act are jointly and severally, or solidarily, liable for all the costs of inspection, seizure, detention, abandonment, forfeiture or disposition incurred by Her Majesty in right of Canada in excess of any proceeds of disposition of the thing that have been forfeited to Her Majesty under this Act.
-> 1996, c. 31, s. 39.5; 2019, c. 8, s. 13.
+> 1996, c. 31, s. 39.52019, c. 8, s. 13
 
 
 
@@ -1140,7 +1140,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Non-application**
 
 - **(6)** The minimum amounts of fines set out in this section do not apply to any proceeding brought in accordance with subsection 39.93(1) or under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md).
-> 1996, c. 31, s. 39.6; 2019, c. 8, s. 13.
+> 1996, c. 31, s. 39.62019, c. 8, s. 13
 
 
 
@@ -1149,7 +1149,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Liability of directors, officers or agents or mandataries**
 
 **39.61** If a corporation or a ship owned or operated by a corporation commits an offence under section 39.6, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the penalty provided for by that section for an individual in respect of the offence committed by the corporation or the ship, whether or not the corporation or the ship has been prosecuted or convicted.
-> 2019, c. 8, s. 13.
+> 2019, c. 8, s. 13
 
 
 
@@ -1158,7 +1158,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Liability of owners, operators, masters and chief engineers of ships**
 
 **39.62** If a ship commits an offence under section 39.6 and the owner, operator, master or chief engineer of the ship directed, authorized, assented to, acquiesced in or participated in the commission of the offence, the owner, operator, master or chief engineer, as the case may be, is a party to and guilty of the offence and is liable on conviction to the penalty provided for by that section for an individual who commits an offence under that section, whether or not the ship has been prosecuted or convicted.
-> 2019, c. 8, s. 13.
+> 2019, c. 8, s. 13
 
 
 
@@ -1176,8 +1176,8 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 
 **Contravention of unpublished order**
 
-- **(3)** A person shall not be found guilty of an offence consisting of a contravention of an order made under subsection 36(1) that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that reasonable steps had been taken before that time to bring the purport of the order to the attention of those persons likely to be affected by it.
-> 2019, c. 8, s. 13.
+- **(3)** A person shall not be found guilty of an offence consisting of a contravention of an order made under subsection 36(1) that, at the time of the alleged contravention, had not been published in the [Canada Gazette](http://www.gazette.gc.ca/) unless it is proved that reasonable steps had been taken before that time to bring the purport of the order to the attention of those persons likely to be affected by it.
+> 2019, c. 8, s. 13
 
 
 
@@ -1204,7 +1204,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Application**
 
 - **(5)** Subsection (4) applies only to previous convictions on indictment, to previous convictions on summary conviction and to previous convictions under any similar procedure under an Act of a provincial legislature.
-> 2019, c. 8, s. 13.
+> 2019, c. 8, s. 13
 
 
 
@@ -1213,7 +1213,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Relief from minimum fine**
 
 **39.65** The court may impose a fine that is less than the minimum amount provided for in section 39.6 if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship to the person who has been convicted of an offence. The court shall provide reasons if it imposes a fine that is less than the minimum amount.
-> 2019, c. 8, s. 13.
+> 2019, c. 8, s. 13
 
 
 
@@ -1228,7 +1228,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Recommendations of court**
 
 - **(2)** The court imposing the fine may recommend to the Minister that all or a portion of the fine credited to the Environmental Damages Fund be paid to a person or an organization specified by the court for a purpose referred to in subsection (1).
-> 2019, c. 8, s. 13.
+> 2019, c. 8, s. 13
 
 
 
@@ -1263,7 +1263,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Notice of detention order binding ship**
 
 - **(7)** For the purpose of prosecuting a ship for contravening of subsection 39.21(4), the notice of the detention order served in accordance with subsection 39.21(3) is deemed to have been served on the ship and is binding on it.
-> 2019, c. 8, s. 13.
+> 2019, c. 8, s. 13
 
 
 
@@ -1304,7 +1304,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Reasons**
 
 - **(5)** If the court decides not to increase the amount of the fine despite being satisfied of the existence of one or more of the aggravating factors set out in subsection (2), the court shall provide reasons for that decision.
-> 2019, c. 8, s. 13.
+> 2019, c. 8, s. 13
 
 
 
@@ -1352,7 +1352,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Debt due to Her Majesty**
 
 - **(2)** If the court makes an order under paragraph (1)(j) directing a person to pay an amount to Her Majesty in right of Canada, the amount constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
-> 1996, c. 31, s. 39.9; 2019, c. 8, s. 14.
+> 1996, c. 31, s. 39.92019, c. 8, s. 14
 
 
 
@@ -1367,7 +1367,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Imposition of sentence**
 
 - **(2)** Where the person does not comply with the order or is convicted of another offence, within three years after the order was made, the court may, on the application of the prosecution, impose any sentence that could have been imposed if the passing of sentence had not been suspended.
-> 1996, c. 31, s. 39.10; 2019, c. 8, s. 15.
+> 1996, c. 31, s. 39.102019, c. 8, s. 15
 
 
 
@@ -1376,7 +1376,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 **Limitation period**
 
 **39.92** Proceedings by way of summary conviction in respect of an offence may be commenced not later than five years after the day on which the offence was committed.
-> 1996, c. 31, s. 39.11; 2019, c. 8, s. 16.
+> 1996, c. 31, s. 39.112019, c. 8, s. 16
 
 
 
@@ -1417,7 +1417,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 - **(5)** The Governor in Council may make regulations prescribing
 	- **(a)** offences in respect of which this section applies and the manner in which the offences are to be described in tickets; and
 	- **(b)** the amount of the fine for a prescribed offence, but the amount may not exceed $2,000.
-> 1996, c. 31, s. 39.12; 2003, c. 22, s. 224(E); 2019, c. 8, s. 17.
+> 1996, c. 31, s. 39.12; 2003, c. 22, s. 224(E)2019, c. 8, s. 17
 
 
 
@@ -1460,14 +1460,14 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 		- **(iii)** ice breaking and ice management services, and
 		- **(iv)** channel maintenance;
 	- **(b)** the marine component of the federal search and rescue program;
-	- **(c)** [Repealed, 2005, c. 29, s. 36]
+	- **(c)** response to wrecks and hazardous or dilapidated ships;
 	- **(d)** marine pollution response; and
 	- **(e)** the support of departments, boards and agencies of the Government of Canada through the provision of ships, aircraft and other marine services.
 
 **Cost effective**
 
 - **(2)** The Minister shall ensure that the services referred to in subparagraphs (1)(a)(i) to (iv) are provided in a cost effective manner.
-> 1996, c. 31, s. 41; 1999, c. 31, s. 170(F); 2005, c. 29, s. 36.
+> 1996, c. 31, s. 41; 1999, c. 31, s. 170(F); 2005, c. 29, s. 362019, c. 1, s. 133
 
 
 
@@ -1576,7 +1576,7 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 
 **Publication**
 
-- **(2)** The Minister shall, within 30 days after fixing a fee under this Act, publish the fee in the Canada Gazette and by such appropriate electronic or other means that the Treasury Board may authorize by regulation.
+- **(2)** The Minister shall, within 30 days after fixing a fee under this Act, publish the fee in the [Canada Gazette](http://www.gazette.gc.ca/) and by such appropriate electronic or other means that the Treasury Board may authorize by regulation.
 
 **Reference to Scrutiny Committee**
 
@@ -1648,5 +1648,15 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 <sup><a href='#O-2.4_en_1'>[*]</a></sup>**109** This Act or any of its provisions, other than section 53, comes into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='O-2.4_en_1'><sup>*</sup></a>: [Note: Act, except section 53, in force January 31, 1997, *see* SI/97-21.]<br />
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 8, s. 18
+
+**18** Section 39.11 of the Oceans Act, as it read immediately before the day on which section 16 of this Act comes into force, continues to apply in respect of an offence that was committed before that day.
+
 
 
