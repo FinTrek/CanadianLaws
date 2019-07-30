@@ -41,12 +41,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Compétence générale**
 
-- **(2)** Le Tribunal connaît des requêtes en révision dont il est saisi en vertu de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md) ou toute autre loi fédérale concernant les transports. Il connaît également des appels interjetés des décisions qu’il a rendues dans les dossiers de révision.
+- **(2)** Le Tribunal connaît des requêtes en révision dont il est saisi en vertu de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md), de la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md) ou de toute autre loi fédérale concernant les transports. Il connaît également des appels interjetés des décisions qu’il a rendues dans les dossiers de révision.
 
 **Compétence en vertu d’autres lois**
 
-- **(3)** Le Tribunal connaît également des requêtes en révision et des appels portant sur les sanctions administratives pécuniaires prévues aux articles 177 à 181 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) et aux articles 130.01 à 130.19 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) et portant sur les pénalités visées aux articles 43 à 55 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md), aux articles 129.01 à 129.19 de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), aux articles 16.1 à 16.25 de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md) et aux articles 39.1 à 39.26 de la Loi sur la protection de la navigation.
-> 2001, ch. 29, art. 2 et 71; 2007, ch. 1, art. 59; 2008, ch. 21, art. 65; 2012, ch. 31, art. 345; 2018, ch. 2, art. 18; 2019, ch. 29, art. 290.
+- **(3)** Le Tribunal connaît également des requêtes en révision et des appels portant sur les sanctions administratives pécuniaires prévues aux articles 177 à 181 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) et aux articles 130.01 à 130.19 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) et portant sur les pénalités visées aux articles 43 à 55 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md), aux articles 129.01 à 129.19 de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), aux articles 16.1 à 16.25 de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md) et aux articles 39.1 à 39.26 de la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md).
+> 2001, ch. 29, art. 2 et 71; 2007, ch. 1, art. 59; 2008, ch. 21, art. 65; 2012, ch. 31, art. 345; 2018, ch. 2, art. 182019, ch. 1, art. 1522019, ch. 29, art. 290
 
 
 
@@ -83,7 +83,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérim du président**
 
 - **(2)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, la présidence est assumée par le vice-président jusqu’au retour du président, jusqu’à la fin de cet empêchement ou jusqu’à la désignation d’un nouveau président.
-> 2001, ch. 29, art. 5; 2014, ch. 20, art. 464.
+> 2001, ch. 29, art. 5; 2014, ch. 20, art. 464
 
 
 
@@ -119,7 +119,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(3)** Les conseillers sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 2001, ch. 29, art. 7; 2003, ch. 22, art. 224(A).
+> 2001, ch. 29, art. 7; 2003, ch. 22, art. 224(A)
 
 
 
@@ -436,5 +436,49 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#T-18.5_fr_9'>[*]</a></sup>**73** Exception faite des articles 71 et 72, les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
 <a name='T-18.5_fr_9'><sup>*</sup></a>: [Note : Articles 71 et 72 en vigueur à la sanction le 18 décembre 2001; articles 1 à 45, 52 à 54 et 60 à 70 en vigueur le 30 juin 2003, *voir* TR/2003-128; articles 55 à 59 en vigueur le 30 juin 2005, *voir* TR/2005-61; articles 46 à 51 abrogés avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 28, al. 186e)
+
+
+**Remplacement de « [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) »**
+
+**186** Dans les passages ci-après, « [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) » est remplacé par « [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) » :
+- **e)** le paragraphe 2(3) de la Loi sur le Tribunal d’appel des transports du Canada;
+
+
+
+######           — 2019, ch. 29, art. 267
+
+
+**
+> 2001, ch. 29, art. 71
+**
+
+**267** Le paragraphe 2(2) de la Loi sur le Tribunal d’appel des transports du Canada est remplacé par ce qui suit :
+
+**Compétence générale**
+
+- **(2)** Le Tribunal connaît des requêtes en révision dont il est saisi en vertu de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md), de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md), de la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) ou de toute autre loi fédérale concernant les transports. Il connaît également des appels interjetés des décisions qu’il a rendues dans les dossiers de révision.
+
+
+
+######           — 2019, ch. 29, art. 268
+
+
+**
+> 2019, ch. 1
+**
+
+**268** Dès le premier jour où l’article 152 de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md) et l’article 267 de la présente loi sont tous deux en vigueur, le paragraphe 2(2) de la Loi sur le Tribunal d’appel des transports du Canada est remplacé par ce qui suit :
+
+**Compétence générale**
+
+- **(2)** Le Tribunal connaît des requêtes en révision dont il est saisi en vertu de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md), de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md), de la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md) ou de toute autre loi fédérale concernant les transports. Il connaît également des appels interjetés des décisions qu’il a rendues dans les dossiers de révision.
+
 
 
