@@ -218,7 +218,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **13** 
 
-- **(1)** Le ministre et le ministre des Pêches et des Océans peuvent, de leur propre initiative ou sur demande, se communiquer toute information recueillie ou obtenue sous le régime de la présente loi, de la Loi sur les ports de pêche ou de plaisance, de la Loi sur la protection de la navigation, de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), ou la communiquer à un agent de l’autorité ou à toute personne autorisée à exercer des attributions prévues sous le régime de la présente loi, dans la mesure où sa communication est nécessaire à l’exécution de la présente loi.
+- **(1)** Le ministre et le ministre des Pêches et des Océans peuvent, de leur propre initiative ou sur demande, se communiquer toute information recueillie ou obtenue sous le régime de la présente loi, de la Loi sur les ports de pêche ou de plaisance, de la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), ou la communiquer à un agent de l’autorité ou à toute personne autorisée à exercer des attributions prévues sous le régime de la présente loi, dans la mesure où sa communication est nécessaire à l’exécution de la présente loi.
 
 **Communication par un agent de l’autorité et des personnes autorisées**
 
@@ -2267,9 +2267,9 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 
-**Article 20 de la Loi sur la protection de la navigation**
+**Article 20 de la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md)**
 
-**132** Les préavis et les avis donnés conformément à l’article 20 de la Loi sur la protection de la navigation avant la date d’entrée en vigueur de l’article 138 sont réputés avoir été donnés au titre du paragraphe 38(2).
+**132** Les préavis et les avis donnés conformément à l’article 20 de la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) avant la date d’entrée en vigueur de l’article 138 sont réputés avoir été donnés au titre du paragraphe 38(2).
 
 
 
@@ -2279,7 +2279,7 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 **
-> 1996, ch. 31.
+> 1996, ch. 31
 **
 
 #### [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md)
@@ -2291,7 +2291,7 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 **
-> 2002, ch.18.
+> 2002, ch.18
 **
 
 #### [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md)
@@ -2307,7 +2307,7 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 **
-> L.R., ch. C-50; 1990, ch. 8, art. 21.
+> L.R., ch. C-50; 1990, ch. 8, art. 21
 **
 
 #### [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md)
@@ -2323,10 +2323,10 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 **
-> L.R., ch. N-22; 2012, ch. 31, art. 316.
+> L.R., ch. N-22; 2012, ch. 31, art. 316
 **
 
-#### Loi sur la protection de la navigation
+#### [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md)
 
 
 **137** [Modifications]
@@ -2343,7 +2343,7 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 **
-> L.R., ch. 1 (2<sup>e</sup> suppl.).
+> L.R., ch. 1 (2<sup>e</sup> suppl.)
 **
 
 #### [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md)
@@ -2355,7 +2355,7 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 **
-> 2001, ch. 26.
+> 2001, ch. 26
 **
 
 #### [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md)
@@ -2407,7 +2407,7 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 
 **
-> 2001, ch. 29.
+> 2001, ch. 29
 **
 
 #### [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md)
@@ -2451,7 +2451,7 @@ Sans délai après avoir pris sa décision, il informe le contrevenant et le min
 
 - **(2)** Les articles 38, 138 et 139 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_IndFBFD_hq_24375'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_IndFBFD_hq_24375'><sup>*</sup></a>: [Note : Loi en vigueur le 30 juillet 2019, *voir* TR/2019-30.]<br />
 
 
 
@@ -4061,6 +4061,25 @@ CONSIDÉRANT qu’une diffusion internationale et une large mise en oeuvre de la
 
 
 Le gouvernement du Canada se réserve le droit de ne pas mettre en application les dispositions de la Convention internationale de 1989 sur l’assistance lorsque les biens en cause sont des biens maritimes culturels présentant un intérêt préhistorique, archéologique ou historique et qu’ils se trouvent au fond de la mer.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 28, par. 195(1) et (2)
+
+
+**
+> Projet de loi C-64
+**
+
+**195** 
+
+- **(1)** Les paragraphes (2) à (9) s’appliquent en cas de sanction du projet de loi C-64, déposé au cours de la 1<sup>re</sup> session de la 42<sup>e</sup> législature et intitulé [Loi concernant les épaves, les bâtiments délabrés, abandonnés ou dangereux et les opérations d’assistance](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md) (appelé « autre loi » au présent article).
+
+- **(2)** Dès le premier jour où l’article 46 de la présente loi et le paragraphe 13(1) de l’autre loi sont tous deux en vigueur, « [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) », à ce paragraphe 13(1), est remplacé par « [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) ».
 
 
 
