@@ -218,7 +218,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **13** 
 
-- **(1)** The Minister and the Minister of Fisheries and Oceans may, on their own initiative or on request, disclose to each other, to an enforcement officer or to any person authorized to exercise powers or perform duties or functions under this Act any information collected or obtained under this Act, the [Fishing and Recreational Harbours Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-24.md), the Navigation Protection Act, the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), to the extent that the disclosure is necessary for the administration of this Act.
+- **(1)** The Minister and the Minister of Fisheries and Oceans may, on their own initiative or on request, disclose to each other, to an enforcement officer or to any person authorized to exercise powers or perform duties or functions under this Act any information collected or obtained under this Act, the [Fishing and Recreational Harbours Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-24.md), the [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), to the extent that the disclosure is necessary for the administration of this Act.
 
 **Disclosure by enforcement officer or authorized person**
 
@@ -2285,9 +2285,9 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 
-**Section 20 of Navigation Protection Act**
+**Section 20 of [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)**
 
-**132** A notice given under section 20 of the Navigation Protection Act before the day on which section 138 comes into force is deemed to have been given under subsection 38(2).
+**132** A notice given under section 20 of the [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) before the day on which section 138 comes into force is deemed to have been given under subsection 38(2).
 
 
 
@@ -2297,7 +2297,7 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 **
-> 1996, c. 31.
+> 1996, c. 31
 **
 
 #### [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md)
@@ -2309,7 +2309,7 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 **
-> 2002, c. 18.
+> 2002, c. 18
 **
 
 #### [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md)
@@ -2325,7 +2325,7 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 **
-> R.S., c. C-50; 1990, c. 8, s. 21.
+> R.S., c. C-50; 1990, c. 8, s. 21
 **
 
 #### [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md)
@@ -2341,10 +2341,10 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 **
-> R.S., c. N-22; 2012, c. 31, s. 316.
+> R.S., c. N-22; 2012, c. 31, s. 316
 **
 
-#### Navigation Protection Act
+#### [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)
 
 
 **137** [Amendments]
@@ -2361,7 +2361,7 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 **
-> R.S., c. 1 (2nd Supp.).
+> R.S., c. 1 (2nd Supp.)
 **
 
 #### [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md)
@@ -2373,7 +2373,7 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 **
-> 2001, c. 26.
+> 2001, c. 26
 **
 
 #### [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md)
@@ -2425,7 +2425,7 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 
 **
-> 2001, c. 29.
+> 2001, c. 29
 **
 
 #### [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md)
@@ -2469,7 +2469,7 @@ The appeal panel must inform the parties of its decision without delay and must 
 
 - **(2)** Sections 38, 138 and 139 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndD729_hq_24371'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_IndD729_hq_24371'><sup>*</sup></a>: [Note: Act in force July 30, 2019, *see* SI/2019-30.]<br />
 
 
 
@@ -4079,6 +4079,25 @@ CONSIDERING that the international publicizing and wide implementation of the Co
 
 
 The Government of Canada reserves the right not to apply the provisions of the International Convention on Salvage, 1989 when the property involved is maritime cultural property of prehistoric, archaeological or historic interest and is situated on the seabed.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 28, ss. 195(1), (2)
+
+
+**
+> Bill C-64
+**
+
+**195** 
+
+- **(1)** Subsections (2) to (9) apply if Bill C-64, introduced in the 1st session of the 42nd Parliament and entitled [An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) (in this section referred to as the “other Act”), receives Royal Assent.
+
+- **(2)** On the first day on which both section 46 of this Act and subsection 13(1) of the other Act are in force, that subsection 13(1) is amended by replacing “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” with “[Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)”.
 
 
 
