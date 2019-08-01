@@ -359,7 +359,9 @@ Assented to on 21 June 2019
 
 **Other redress available**
 
-- **(2)** The Review Agency must not investigate a complaint in respect of which the complainant is entitled to seek redress by means of a grievance procedure established under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+- **(2)** The Review Agency must not investigate a complaint in respect of which the complainant is entitled to seek redress by means of a grievance procedure established under the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md) or the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+> 2019, c. 13, s. 2 “17”2019, c. 13, s. 48
+
 
 
 
@@ -1016,26 +1018,7 @@ Assented to on 21 June 2019
 
 
 
-
-
-## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 13, s. 48
-
-
-**
-> Part 3 of this Act
-**
-
-**48** On the first day on which both sections 2 and 76 of this Act are in force, subsection 17(2) of the National Security and Intelligence Review Agency Act is replaced by the following:
-
-**Other redress available**
-
-- **(2)** The Review Agency must not investigate a complaint in respect of which the complainant is entitled to seek redress by means of a grievance procedure established under the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md) or the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
-
-
-
-######           — 2019, c. 13, s. 82
+######           — 2019, c. 13, par. 82(1)(f), ss. (2)
 
 
 **References**
@@ -1043,17 +1026,7 @@ Assented to on 21 June 2019
 **82** 
 
 - **(1)** A reference to the former department in any of the following is deemed to be a reference to the new department:
-	- **(a)** Schedule I to the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) under the heading “Other Government Institutions”;
-	- **(b)** Schedules I.1, V and VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
-	- **(c)** the schedule to the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) under the heading “Other Government Institutions”;
-	- **(d)** the schedule to the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md);
-	- **(e)** Schedule 3 to the [Security of Canada Information Disclosure Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md);
 	- **(f)** the National Security and Intelligence Review Agency Act; and
-	- **(g)** the [Intelligence Commissioner Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2050.md).
-
-**Other references**
-
-- **(1.1)** Unless the context requires otherwise, every reference to the former department in any Act of Parliament, other than an Act referred to in subsection (1), or in any order, regulation or other instrument made under an Act of Parliament is deemed to be a reference to the new department.
 
 **Deputy head**
 
