@@ -1668,7 +1668,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Activités politiques**
 
-**50** Le directeur et les employés du Centre sont, pour l’application de la partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), réputés être respectivement administrateur général et fonctionnaires au sens du paragraphe 2(1) de cette loi.
+**50** Le directeur et les employés du Centre sont, pour l’application de la partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), réputés être respectivement administrateur général et fonctionnaires au sens du paragraphe 2(1) de cette loi.
 > 2000, ch. 17, art. 50; 2003, ch. 22, art. 242
 
 
@@ -1905,7 +1905,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 			- **(C)** a mis ou mettra, directement ou indirectement, des ressources à la disposition d’une entité inscrite, au sens de ce paragraphe 83.01(1), qui se livre ou se livrera à des activités visées au sous-alinéa (B);
 	- **d)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles pour établir si une personne est visée aux articles 34 à 42 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’ils se rapportent à une infraction prévue aux articles 91, 117 à 119, 126 et 127 de cette loi;
 	- **e)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction qui consiste dans la contrebande — ou la tentative de contrebande — de marchandises passibles de droits ou à une infraction qui a trait à des marchandises dont l’importation ou l’exportation est prohibée, contrôlée ou réglementée en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale;
-	- **f)** au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le mandat de ce centre visé à l’alinéa 273.64(1)a) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+	- **f)** au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le volet de son mandat, visé à l’article 16 de la [Loi sur le Centre de la sécurité des télécommunications](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2076.md), touchant le renseignement étranger;
 	- **f.1)** au Bureau de la concurrence, si en outre il a des motifs raisonnables de soupçonner que les renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction, consommée ou non, prévue par la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md), la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md), la [Loi sur l’étiquetage des textiles](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-10.md) ou la [Loi sur le poinçonnage des métaux précieux](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-19.md);
 	- **g)** à un organisme chargé de l’application de la législation en valeurs mobilières d’une province, si en outre il a des motifs raisonnables de soupçonner que les renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction à cette législation.
 
@@ -1950,7 +1950,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
 	- **s)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
 	- **t)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
-> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167; 2017, ch. 20, art. 4292019, ch. 13, art. 472019, ch. 13, art. 492019, ch. 29, art. 107
+> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167; 2017, ch. 20, art. 4292019, ch. 13, art. 472019, ch. 13, art. 492019, ch. 13, art. 882019, ch. 29, art. 107
 
 
 
@@ -3720,16 +3720,6 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **11.41** Pour l’application de la présente partie, ***entité étrangère*** s’entend, selon le cas :
 	- **a)** d’une entité visée à l’alinéa 5h.1);
 	- **b)** d’une entité, à l’exception d’une entité visée à l’article 5, qui est constituée en personne morale ou formée sous le régime de la législation d’un État étranger, notamment toute filiale de celle-ci, et qui n’exerce pas ses activités au Canada, dans le cas où elle exerce des activités semblables à celles des entités visées à l’un des alinéas 5a) à g) ou à celles prévues aux alinéas 5h) ou h.1).
-
-
-
-
-
-######           — 2019, ch. 13, art. 88
-
-**88** L’alinéa 55(3)f) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes est remplacé par ce qui suit :
-
-- **f)** au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le volet de son mandat, visé à l’article 16 de la [Loi sur le Centre de la sécurité des télécommunications](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2076.md), touchant le renseignement étranger;
 
 
 
