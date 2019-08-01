@@ -1450,7 +1450,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_2019-c13_E_transform_hq_25607'>[*]</a></sup>**170** Part 3, other than sections 83, 90 and 91, come into force on a day to be fixed by order of the Governor in Council, but that day must be later than the day fixed under section 169.
 
-<a name='fn_2019-c13_E_transform_hq_25607'><sup>*</sup></a>: [Note: Part 3, other than sections 83, 90 and 91, not in force.]<br />
+<a name='fn_2019-c13_E_transform_hq_25607'><sup>*</sup></a>: [Note: Part 3, other than sections 83, 90 and 91, in force August 1, 2019, *see* SI/2019-70.]<br />
 
 
 
@@ -1476,7 +1476,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_2019-c13_E_transform_hq_25610'>[*]</a></sup>**172** Subsections 119(2) and 120(2) come into force on the day fixed under section 169.
 
-<a name='fn_2019-c13_E_transform_hq_25610'><sup>*</sup></a>: [Note: Subsections 119(2) and 120(2) not in force.]<br />
+<a name='fn_2019-c13_E_transform_hq_25610'><sup>*</sup></a>: [Note: Subsections 119(2) and 120(2) in force July 12, 2019, *see* SI/2019-67.]<br />
 
 
 
