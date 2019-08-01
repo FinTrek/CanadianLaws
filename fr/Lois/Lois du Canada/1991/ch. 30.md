@@ -63,7 +63,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** dans le cas du salarié dont le taux de salaire tout en dépassant 27 000 $ ne dépasse pas 27 500 $, à la fraction de 500 $ qui correspond à l’excédent de son taux de salaire sur 27 000 $;
 - **d)** soit l’éventuel versement, dans les circonstances qui découlent du transfert prévu à l’alinéa 11(2)g.1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), d’une indemnité de départ ou de crédits de congés payés acquis mais non utilisés. (*compensation*)
 
-***salarié*** Personne qui a droit à une rétribution ou à un taux de salaire fixe ou vérifiable pour les fonctions dont elle s’acquitte. La présente définition exclut les personnes visées par le [Règlement sur l’embauchage à l’étranger](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/152.md) ainsi que celles recrutées sur place à l’étranger et dont les postes sont exemptés, en tout ou en partie, de l’application de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md) conformément à l’article 41 de cette loi. (*employee*)
+***salarié*** Personne qui a droit à une rétribution ou à un taux de salaire fixe ou vérifiable pour les fonctions dont elle s’acquitte. La présente définition exclut les personnes visées par le [Règlement sur l’embauchage à l’étranger](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/152.md) ainsi que celles recrutées sur place à l’étranger et dont les postes sont exemptés, en tout ou en partie, de l’application de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) conformément à l’article 41 de cette loi. (*employee*)
 
 ***taux de salaire*** Taux unique de salaire ou fourchette salariale, y compris les rajustements de coût de la vie, ou, à défaut de ce taux ou de cette fourchette, tout montant fixe ou vérifiable de salaire. Sont exclus de la présente définition les allocations, bonis, primes, indemnités ou autres avantages versés dans des circonstances déterminées par arrêté du Conseil du Trésor. (*wage rate*)
 
@@ -214,13 +214,13 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 
 **7.1** 
 
-- **(1)** Par dérogation à la présente loi ou à toute autre loi fédérale, à l’exception de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), le Conseil du Trésor peut fixer les conditions du Programme de réduction du personnel civil découlant du budget du 22 février 1994 et, conformément à ce programme, offrir ou donner des sommes aux salariés — ou pour leur compte — engagés pour une durée indéterminée par le ministère de la Défense nationale, le Centre de la sécurité des télécommunications de ce ministère ou le service de Protection civile du Canada.
+- **(1)** Par dérogation à la présente loi ou à toute autre loi fédérale, à l’exception de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), le Conseil du Trésor peut fixer les conditions du Programme de réduction du personnel civil découlant du budget du 22 février 1994 et, conformément à ce programme, offrir ou donner des sommes aux salariés — ou pour leur compte — engagés pour une durée indéterminée par le ministère de la Défense nationale, le Centre de la sécurité des télécommunications ou le service de Protection civile du Canada.
 
 **Fusion avec le nouveau programme**
 
 - <sup><a href='#P-31.6_fr_1'>[*]</a></sup>**(2)** À compter de la date d’entrée en vigueur de l’article 7.2, les dispositions suivantes s’appliquent :
 	- **a)** une somme visée au paragraphe (1) ne peut être offerte ou donnée, dans le cadre du Programme de réduction du personnel civil, à un salarié — ou pour son compte — engagé pour une durée indéterminée par le ministère de la Défense nationale ou le service de la Protection civile du Canada que s’il est fonctionnaire excédentaire au sens de la Directive sur le réaménagement des effectifs;
-	- **b)** le salarié visé à l’alinéa a) et à qui une somme a été offerte dans le cadre du paragraphe (1), avant ou après cette date, mais qui n’a pas perdu sa qualité de fonctionnaire au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md) devient assujetti au programme et à l’article 7.2; le paiement est toutefois effectué selon le montant et les conditions et modalités applicables aux termes du Programme de réduction du personnel civil et aucune somme ne peut lui être offerte ou donnée dans le cadre de l’article 7.2.
+	- **b)** le salarié visé à l’alinéa a) et à qui une somme a été offerte dans le cadre du paragraphe (1), avant ou après cette date, mais qui n’a pas perdu sa qualité de fonctionnaire au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) devient assujetti au programme et à l’article 7.2; le paiement est toutefois effectué selon le montant et les conditions et modalités applicables aux termes du Programme de réduction du personnel civil et aucune somme ne peut lui être offerte ou donnée dans le cadre de l’article 7.2.
 
 <a name='P-31.6_fr_1'><sup>*</sup></a>: [Note : Le paragraphe 7.1(2), tel qu’édicté par 1995, ch. 17, art. 2, cesse d’avoir effet le 22 juin 1998, *voir* 1995, ch. 17, art. 6.]<br />
 
@@ -235,7 +235,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 ***programme*** Le programme, découlant du budget du 27 février 1995, concernant les primes de départ anticipé, le statut d’excédentaire non payé, la mise en disponibilité et des questions connexes. (*program*)
 
 <a name='P-31.6_fr_2'><sup>*</sup></a>: [Note : Le paragraphe 7.1(3), tel qu’édicté par 1995, ch. 17, art. 2, cesse d’avoir effet le 22 juin 1998, *voir* 1995, ch. 17, art. 6.]<br />
-> 1994, ch. 18, art. 5; 1995, ch. 17, art. 2
+> 1994, ch. 18, art. 5; 1995, ch. 17, art. 22019, ch. 13, art. 85(F)
 
 
 
@@ -253,7 +253,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 
 **Effet de la mise en disponibilité**
 
-- **(2)** Le fonctionnaire, au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), mis en disponibilité conformément au sous-alinéa (1)b)(ii) perd sa qualité de fonctionnaire; il bénéficie toutefois des droits et avantages auxquels la mise en disponibilité lui donne par ailleurs droit en vertu de cette loi.
+- **(2)** Le fonctionnaire, au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), mis en disponibilité conformément au sous-alinéa (1)b)(ii) perd sa qualité de fonctionnaire; il bénéficie toutefois des droits et avantages auxquels la mise en disponibilité lui donne par ailleurs droit en vertu de cette loi.
 
 **Délégation**
 
@@ -650,7 +650,7 @@ Centre canadien de gestion<br />- <i>Canadian Centre for Management Development<
 
 Centre canadien d’hygiène et de sécurité au travail<br />- <i>Canadian Centre for Occupational Health and Safety</i>
 
-Centre de la sécurité des télécommunications, ministère de la Défense nationale<br />- <i>Communications Security Establishment, Department of National Defence</i>
+Centre de la sécurité des télécommunications<br />- <i>Communications Security Establishment</i>
 
 Comité externe d’examen de la Gendarmerie royale du Canada<br />- <i>Royal Canadian Mounted Police External Review Committee</i>
 
@@ -767,7 +767,7 @@ Tribunal de la concurrence<br />- <i>Competition Tribunal</i>
 Tribunal de la sécurité sociale<br />- <i>Social Security Tribunal</i>
 
 Tribunal des anciens combattants (révision et appel)<br />- <i>Veterans Review and Appeal Board</i>
-> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 1, art. 160, ch. 19, art. 279, 280, 592 et 693, ch. 31, art. 295; 2013, ch. 18, art. 57 et 58, ch. 33, art. 188 à 190, ch. 40, art. 232, 233, 464 et 465; 2014, ch. 20, art. 459; 2015, ch. 3, art. 149; 2017, ch. 9, art. 57; 2018, ch. 27, art. 673 et 6742019, ch. 13, art. 442019, ch. 13, art. 452019, ch. 29, art. 3642019, ch. 29, art. 365
+> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 1, art. 160, ch. 19, art. 279, 280, 592 et 693, ch. 31, art. 295; 2013, ch. 18, art. 57 et 58, ch. 33, art. 188 à 190, ch. 40, art. 232, 233, 464 et 465; 2014, ch. 20, art. 459; 2015, ch. 3, art. 149; 2017, ch. 9, art. 57; 2018, ch. 27, art. 673 et 6742019, ch. 13, art. 442019, ch. 13, art. 452019, ch. 13, art. 862019, ch. 13, art. 872019, ch. 29, art. 3642019, ch. 29, art. 365
 
 
 
@@ -840,36 +840,6 @@ Société immobilière du Canada (Le Vieux-Port de Montréal) Limitée<br />- <i
 
 
 ## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2019, ch. 13, art. 85
-
-**85** Le paragraphe 7.1(1) de la version française de la Loi sur la rémunération du secteur public est remplacé par ce qui suit :
-
-**Programme de réduction du personnel civil**
-
-**7.1** 
-
-- **(1)** Par dérogation à la présente loi ou à toute autre loi fédérale, à l’exception de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), le Conseil du Trésor peut fixer les conditions du Programme de réduction du personnel civil découlant du budget du 22 février 1994 et, conformément à ce programme, offrir ou donner des sommes aux salariés — ou pour leur compte — engagés pour une durée indéterminée par le ministère de la Défense nationale, le Centre de la sécurité des télécommunications ou le service de Protection civile du Canada.
-
-
-
-
-
-######           — 2019, ch. 13, art. 86
-
-**86** L’annexe I de la même loi est modifiée par suppression, sous l’intertitre « Administrations fédérales », de ce qui suit :
-
-Centre de la sécurité des télécommunications, ministère de la Défense nationale<br />- <i>Communications Security Establishment, Department of National Defence</i>
-
-
-
-######           — 2019, ch. 13, art. 87
-
-**87** L’annexe I de la même loi est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « Administrations fédérales », de ce qui suit :
-
-Centre de la sécurité des télécommunications<br />- <i>Communications Security Establishment</i>
-
-
 
 ######           — 2019, ch. 28, art. 160
 
