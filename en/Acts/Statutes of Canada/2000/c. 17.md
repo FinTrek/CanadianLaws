@@ -1909,7 +1909,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 			- **(C)** has made or will make available any resources, directly or indirectly, to an entity as defined in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that engages or will engage in terrorist activities as defined in that subsection or activities in support of them;
 	- **(d)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 91, 117 to 119, 126 or 127 of that Act;
 	- **(e)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation or exportation of goods that are prohibited, controlled or regulated under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or under any other Act of Parliament;
-	- **(f)** the Communications Security Establishment, if the Centre also determines that the information is relevant to the mandate of the Communications Security Establishment referred to in paragraph 273.64(1)(a) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
+	- **(f)** the Communications Security Establishment, if the Centre also determines that the information is relevant to the foreign intelligence aspect of the Communications Security Establishment’s mandate, referred to in section 16 of the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md); and
 	- **(f.1)** the Competition Bureau, if the Centre also has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting an offence under the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md), the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md), the [Precious Metals Marking Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-19.md) or the [Textile Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-10.md) or an attempt to commit such an offence; and
 	- **(g)** an agency or body that administers the securities legislation of a province, if the Centre also has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting an offence under that legislation.
 
@@ -1954,7 +1954,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(r)** the name, address, electronic mail address and telephone number of every trustee and every known beneficiary and settlor of a trust referred to in paragraph (a);
 	- **(s)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
 	- **(t)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
-> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282; 2015, c. 36, s. 167; 2017, c. 20, s. 4292019, c. 13, s. 472019, c. 13, s. 492019, c. 29, s. 107
+> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282; 2015, c. 36, s. 167; 2017, c. 20, s. 4292019, c. 13, s. 472019, c. 13, s. 492019, c. 13, s. 882019, c. 29, s. 107
 
 
 
@@ -3730,16 +3730,6 @@ The order must be complied with within the period following the service of the o
 **11.41** In this Part, ***foreign entity*** means
 	- **(a)** an entity referred to in paragraph 5(h.1); or
 	- **(b)** an entity, other than an entity referred to in section 5, that is incorporated or formed by or under the laws of a foreign state, including its subsidiaries, if any, and that does not carry on business in Canada, if it carries out activities similar to those of entities referred to in any of paragraphs 5(a) to (g) or activities referred to in paragraph 5(h) or (h.1).
-
-
-
-
-
-######           — 2019, c. 13, s. 88
-
-**88** Paragraph 55(3)(f) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act is replaced by the following:
-
-- **(f)** the Communications Security Establishment, if the Centre also determines that the information is relevant to the foreign intelligence aspect of the Communications Security Establishment’s mandate, referred to in section 16 of the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md); and
 
 
 
