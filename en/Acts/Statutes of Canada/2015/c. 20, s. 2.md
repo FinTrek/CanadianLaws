@@ -74,7 +74,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(d)** terrorism;
 - **(e)** proliferation of nuclear, chemical, radiological or biological weapons;
 - **(f)** significant or widespread interference with critical infrastructure;
-- **(g)** significant or widespread interference with the global information infrastructure, as defined in section 273.61 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); and
+- **(g)** significant or widespread interference with the global information infrastructure, as defined in section 2 of the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md); and
 - **(h)** conduct that takes place in Canada and that undermines the security of another state. (*activité portant atteinte à la sécurité du Canada)*
 - **(i)** [Repealed, 2019, c. 13, s. 115]
 
@@ -87,7 +87,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(2)** For the purposes of this Act, advocacy, protest, dissent or artistic expression is not an activity that undermines the security of Canada unless carried on in conjunction with an activity that undermines the security of Canada.
-> 2015, c. 20, s. 2 “2”2019, c. 13, s. 115
+> 2015, c. 20, s. 2 “2”2019, c. 13, s. 892019, c. 13, s. 115
 
 
 
@@ -221,6 +221,10 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 	- **(f)** if the information has been destroyed under subsection 5.1(1), the date on which it was destroyed;
 	- **(g)** if the information was returned under subsection 5.1(1) to the institution that disclosed it, the date on which it was returned; and
 	- **(h)** any other information specified by the regulations.
+
+**Copy to National Security and Intelligence Review Agency**
+
+- **(3)** Within 30 days after the end of each calendar year, every Government of Canada institution that disclosed information under section 5 during the year and every Government of Canada institution that received such information must provide the National Security and Intelligence Review Agency with a copy of every record it prepared under subsection (1) or (2), as the case may be, with respect to the information.
 > 2015, c. 20, s. 2 “9”2019, c. 13, s. 119
 
 
@@ -246,7 +250,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Amendments to Schedule 3**
 
-- **(3)** The Governor in Council may make an order adding the name of a Government of Canada institution and the title of its head to Schedule 3, deleting the name of an institution and the title of its head from that Schedule or amending the name of an institution or the title of a head that is listed in that Schedule. An addition is authorized only if the institution has jurisdiction or responsibilities under an Act of Parliament or another lawful authority in respect of activities that undermine the security of Canada, including in respect of their detection, identification, analysis, prevention, investigation or disruption.
+- **(3)** The Governor in Council may make an order adding the name of a Government of Canada institution and the title of its head to Schedule 3, deleting the name of an institution and the title of its head from that Schedule or amending the name of an institution or the title of a head that is listed in that Schedule. An addition is authorized only if the institution has jurisdiction or responsibilities under an Act of Parliament or another lawful authority in respect of activities that undermine the security of Canada.
 > 2015, c. 20, s. 2 “10”2019, c. 13, s. 120
 
 
@@ -388,9 +392,9 @@ Royal Canadian Mounted Police<br />- <i>Gendarmerie royale du Canada</i></td>
 
 
 
-## AMENDMENTS NOT IN FORCE
+## RELATED PROVISIONS
 
-######           — 2019, c. 13, s. 82
+######           — 2019, c. 13, par. 82(1)(e)
 
 
 **References**
@@ -398,31 +402,7 @@ Royal Canadian Mounted Police<br />- <i>Gendarmerie royale du Canada</i></td>
 **82** 
 
 - **(1)** A reference to the former department in any of the following is deemed to be a reference to the new department:
-	- **(a)** Schedule I to the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) under the heading “Other Government Institutions”;
-	- **(b)** Schedules I.1, V and VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
-	- **(c)** the schedule to the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) under the heading “Other Government Institutions”;
-	- **(d)** the schedule to the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md);
 	- **(e)** Schedule 3 to the Security of Canada Information Disclosure Act;
-	- **(f)** the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md); and
-	- **(g)** the [Intelligence Commissioner Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2050.md).
-
-**Other references**
-
-- **(1.1)** Unless the context requires otherwise, every reference to the former department in any Act of Parliament, other than an Act referred to in subsection (1), or in any order, regulation or other instrument made under an Act of Parliament is deemed to be a reference to the new department.
-
-**Deputy head**
-
-- **(2)** The designation of a person as deputy head of the former department in any order of the Governor in Council made under section 55 of the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md) is deemed to be a designation of the Chief of the new department as deputy head of that department.
-
-
-
-######           — 2019, c. 13, s. 89
-
-**89** Paragraph (g) of the definition ***activity that undermines the security of Canada*** in subsection 2(1) of the Security of Canada Information Disclosure Act is replaced by the following:
-
-- **(g)** significant or widespread interference with the global information infrastructure, as defined in section 2 of the [Communications Security Establishment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2076.md); and
-
-
 
 
 
