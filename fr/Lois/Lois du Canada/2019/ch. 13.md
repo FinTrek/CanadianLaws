@@ -1452,7 +1452,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#nbp_2019-c13_F_transform_hq_24281'>[*]</a></sup>**170** La partie 3, à l’exception des articles 83, 90 et 91, entre en vigueur à la date fixée par décret, laquelle doit être postérieure à celle visée à l’article 169.
 
-<a name='nbp_2019-c13_F_transform_hq_24281'><sup>*</sup></a>: [Note : Partie 3, à l’exception des articles 83, 90 et 91, non en vigueur.]<br />
+<a name='nbp_2019-c13_F_transform_hq_24281'><sup>*</sup></a>: [Note : Partie 3, à l’exception des articles 83, 90 et 91, en vigueur le 1<sup>er</sup> août 2019, *voir* TR/2019-70.]<br />
 
 
 
@@ -1478,7 +1478,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#nbp_2019-c13_F_transform_hq_24284'>[*]</a></sup>**172** Les paragraphes 119(2) et 120(2) entrent en vigueur à la date visée à l’article 169.
 
-<a name='nbp_2019-c13_F_transform_hq_24284'><sup>*</sup></a>: [Note : Paragraphes 119(2) et 120(2) non en vigueur.]<br />
+<a name='nbp_2019-c13_F_transform_hq_24284'><sup>*</sup></a>: [Note : Paragraphes 119(2) et 120(2) en vigueur le 12 juillet 2019, *voir* TR/2019-67.]<br />
 
 
 
