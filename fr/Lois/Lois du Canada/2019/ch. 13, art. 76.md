@@ -8,7 +8,7 @@
 Sanctionnée sur le 21 juin 2019
 
 ```
-[Édictée par l’article 76 du chapitre 13 des Lois du Canada (2019), non en vigueur.]
+[Édictée par l’article 76 du chapitre 13 des Lois du Canada (2019), en vigueur le 1<sup>er</sup> août 2019, voir TR/2019-70.]
 ```
 ----------
 
@@ -69,7 +69,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***infrastructure mondiale de l’information*** Vise notamment les émissions électromagnétiques et tout équipement produisant de telles émissions, les systèmes de communication, les systèmes et réseaux des technologies de l’information ainsi que les données et les renseignements techniques qu’ils transportent, qui s’y trouvent ou qui les concernent. (*global information infrastructure*)
 
-***institutions fédérales*** Les institutions du Parlement et du gouvernement du Canada, notamment le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique, le Service de protection parlementaire, les tribunaux fédéraux, tout organisme — bureau, commission, conseil, office ou autre — chargé de fonctions administratives sous le régime d’une loi fédérale ou en vertu des attributions du gouverneur en conseil, les ministères au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), les sociétés d’État créées sous le régime d’une loi fédérale et tout autre organisme désigné par une loi fédérale à titre de mandataire de Sa Majesté du chef du Canada ou placé sous la tutelle du gouverneur en conseil ou d’un ministre fédéral. (*federal institution*)
+***institutions fédérales*** Les institutions du Parlement et du gouvernement du Canada, notamment le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique, le Service de protection parlementaire, le bureau du directeur parlementaire du budget, les tribunaux fédéraux, tout organisme — bureau, commission, conseil, office ou autre — chargé de fonctions administratives sous le régime d’une loi fédérale ou en vertu des attributions du gouverneur en conseil, les ministères au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), les sociétés d’État créées sous le régime d’une loi fédérale et tout autre organisme désigné par une loi fédérale à titre de mandataire de Sa Majesté du chef du Canada ou placé sous la tutelle du gouverneur en conseil ou d’un ministre fédéral. (*federal institution*)
 
 ***ministre*** Le ministre de la Défense nationale ou le ministre fédéral désigné en vertu de l’article 4. (*Minister*)
 
@@ -78,6 +78,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Office de surveillance*** L’Office de surveillance des activités en matière de sécurité nationale et de renseignement, constitué en vertu de l’article 3 de la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md). (*Review Agency*)
 
 ***renseignement étranger*** Information ou renseignement sur les moyens, les intentions ou les activités d’un étranger, d’un État étranger, d’une organisation étrangère ou d’un groupe terroriste étranger, dans la mesure où ces moyens, ces intentions ou ces activités se rapportent aux affaires internationales, à la défense ou à la sécurité. (*foreign intelligence*)
+> 2019, ch. 13, art. 76 « 2 »2019, ch. 13, art. 91
+
 
 
 
@@ -949,5 +951,102 @@ La présente définition ne vise pas l’information qui pourrait être liée à
 - **a)** concernant la gestion et le contrôle du Centre, y compris la sécurité dans les locaux du Centre et le voisinage, l’accès aux locaux du Centre, la fouille des personnes se trouvant dans ses locaux ou dans le voisinage ainsi que la fouille et la saisie d’articles se trouvant dans ses locaux ou le voisinage;
 - **b)** concernant les mesures visées à l’article 24 pour protéger la vie privée des Canadiens et des personnes se trouvant au Canada;
 - **c)** modifiant la définition de tout terme défini à l’article 2 ou aux paragraphes 23(5) ou 44(3) afin de répondre, de façon directe ou indirecte, aux changements technologiques.
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 13, art. 77
+
+
+**Définitions**
+
+**77** Les définitions qui suivent s’appliquent aux articles 78 à 82.
+
+***ancien ministère*** Le secteur de l’administration publique fédérale appelé le Centre de la sécurité des télécommunications. (*former department*)
+
+***nouveau ministère*** Le Centre de la sécurité des télécommunications, constitué par l’article 5 de la Loi sur le Centre de la sécurité des télécommunications. (*new department*)
+
+
+
+######           — 2019, ch. 13, art. 78
+
+
+**Chef**
+
+**78** 
+
+- **(1)** La personne qui occupe, à l’entrée en vigueur de l’article 76, la charge de chef du Centre de la sécurité des télécommunications est maintenue en fonctions jusqu’à l’expiration de son mandat.
+
+**Fonctionnaires**
+
+- **(2)** La Loi sur le Centre de la sécurité des télécommunications ne change rien à la situation des fonctionnaires qui, à l’entrée en vigueur de l’article 76, occupaient un poste au sein de l’ancien ministère, à cette différence près que, à compter de cette date, ils l’occupent au sein du nouveau ministère.
+
+
+
+######           — 2019, ch. 13, art. 79
+
+
+**Transfert de crédits**
+
+**79** 
+
+- **(1)** Les sommes affectées — mais non engagées —, pour l’exercice en cours à la date d’entrée en vigueur de l’article 76 par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’administration publique fédérale à l’égard de l’ancien ministère sont réputées, à cette date, être affectées aux frais et dépenses de celle-ci à l’égard du nouveau ministère.
+
+**Transfert d’attributions**
+
+- **(2)** Les attributions qui, en vertu d’une loi, d’un règlement, d’une instruction, d’un décret, d’un arrêté, d’une ordonnance ou d’une règle, ou au titre d’un contrat, bail, permis ou autre document, sont conférées au chef de l’ancien ministère ou à un fonctionnaire de celui-ci — ou qui peuvent être exercées par l’un ou l’autre — sont transférées, selon le cas, au chef ou à un fonctionnaire du nouveau ministère.
+
+
+
+######           — 2019, ch. 13, art. 80
+
+
+**Autorisations ministérielles**
+
+**80** 
+
+- **(1)** Toute autorisation délivrée en vertu des paragraphes 273.65(1) ou (3) de la [Loi sur la Défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) avant la date d’entrée en vigueur de l’article 76 et qui est valide à cette date demeure valide pour la durée qui y est indiquée ou, si elle a été renouvelée avant cette date, pour la durée qui y est indiquée.
+
+**Abrogation**
+
+- **(2)** Le ministre peut, en tout temps, abroger une autorisation visée au paragraphe (1).
+
+
+
+######           — 2019, ch. 13, art. 81
+
+
+**Ententes**
+
+**81** Toute entente conclue par l’ancien ministère avant la date d’entrée en vigueur de l’article 76 est maintenue conformément aux conditions qui y sont prévues.
+
+
+
+######           — 2019, ch. 13, art. 82
+
+
+**Mentions**
+
+**82** 
+
+- **(1)** La mention de l’ancien ministère dans les textes ci-après vaut mention du nouveau ministère :
+	- **a)** l’annexe I de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), sous l’intertitre « Autres institutions fédérales »;
+	- **b)** les annexes I.1, V et VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **c)** l’annexe de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), sous l’intertitre « Autres institutions fédérales »;
+	- **d)** l’annexe de la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md);
+	- **e)** l’annexe 3 de la Loi sur la communication d’information ayant trait à la sécurité du Canada;
+	- **f)** la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md);
+	- **g)** la [Loi sur le commissaire au renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2050.md).
+
+**Autres mentions**
+
+- **(1.1)** La mention de l’ancien ministère dans toute loi fédérale, autre qu’une loi visée au paragraphe (1), et dans ses textes d’application vaut mention, sauf indication contraire du contexte, du nouveau ministère.
+
+**Administrateur général**
+
+- **(2)** La désignation de toute personne à titre d’administrateur général de l’ancien ministère dans tout décret pris en vertu de l’article 55 de la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md) vaut désignation du chef du nouveau ministère à titre d’administrateur général de celui-ci.
+
 
 
