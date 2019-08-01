@@ -29,7 +29,7 @@ Enabling authorities:
 ***net weight*** means the gross weight of grain less the amount of dockage specified on the elevator or grain receipt or cash purchase ticket issued in respect of the grain. (*poids net*)
 
 ***regional inspector***[Repealed, SOR/2004-198, s. 1]
-> SOR/2000-213, s. 2; SOR/2001-273, s. 1; SOR/2002-255, s. 1; SOR/2004-198, s. 1; SOR/2013-111, s. 1.
+> SOR/2000-213, s. 2; SOR/2001-273, s. 1; SOR/2002-255, s. 1; SOR/2004-198, s. 1; SOR/2013-111, s. 1
 
 
 
@@ -44,13 +44,13 @@ Enabling authorities:
 
 
 **2** The fees of the Commission for services performed under the Act are set out in Schedule 1.
-> SOR/78-55, s. 1; SOR/88-408, s. 1; SOR/89-376, s. 14(F); SOR/95-386, s. 1; SOR/96-508, s. 1; SOR/2000-213, s. 2; SOR/2001-273, s. 2(E); SOR/2003-284, s. 1; SOR/2004-198, s. 2.
+> SOR/78-55, s. 1; SOR/88-408, s. 1; SOR/89-376, s. 14(F); SOR/95-386, s. 1; SOR/96-508, s. 1; SOR/2000-213, s. 2; SOR/2001-273, s. 2(E); SOR/2003-284, s. 1; SOR/2004-198, s. 2
 
 
 
 
 **2.1** On April 1, 2019 and every subsequent year on April 1, all fees set out in Schedule 1 will be adjusted by the percentage change over 12 months in the April All-items Consumer Price Index for Canada, as published by Statistics Canada under the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for the previous fiscal year. All adjusted fees are calculated to the nearest cent.
-> SOR/2018-33, s. 1.
+> SOR/2018-33, s. 1
 
 
 
@@ -60,7 +60,7 @@ Enabling authorities:
 
 
 **3** A commissioner’s oath or solemn affirmation of office shall be taken as it appears in Form 1 of Schedule 2.
-> SOR/78-55, s. 2; SOR/81-610, s. 1; SOR/96-508, s. 2; SOR/2000-213, s. 2; SOR/2001-273, s. 3; SOR/2003-284, s. 2.
+> SOR/78-55, s. 2; SOR/81-610, s. 1; SOR/96-508, s. 2; SOR/2000-213, s. 2; SOR/2001-273, s. 3; SOR/2003-284, s. 2
 
 
 
@@ -75,7 +75,7 @@ Enabling authorities:
 
 
 **4** The oath or solemn affirmation of office of a member of a grain standards committee who is not a commissioner and who is not employed in the public service of Canada shall be taken as it appears in Form 2 of Schedule 2.
-> SOR/96-508, s. 3; SOR/2000-213, s. 2; SOR/2001-273, s. 4; SOR/2003-284, s. 3.
+> SOR/96-508, s. 3; SOR/2000-213, s. 2; SOR/2001-273, s. 4; SOR/2003-284, s. 3
 
 
 
@@ -93,7 +93,7 @@ Enabling authorities:
 - **(1)** The following seeds are designated as grain for the purposes of the Act: barley, beans, buckwheat, canola, chick peas, corn, fababeans, flaxseed, lentils, mixed grain, mustard seed, oats, peas, rapeseed, rye, safflower seed, soybeans, sunflower seed, triticale and wheat.
 
 - **(2)** The grade names and the specifications for grades of grain are those set out in Schedule 3.
-> SOR/96-508, s. 4; SOR/2000-213, s. 2; SOR/2003-285, s. 1; SOR/2013-111, s. 3.
+> SOR/96-508, s. 4; SOR/2000-213, s. 2; SOR/2003-285, s. 1; SOR/2013-111, s. 3
 
 
 
@@ -112,7 +112,7 @@ Enabling authorities:
 	- **(a)** not less than six months after that date, if the sample is taken on the discharge of grain out of an elevator into a ship; and
 	- **(b)** [Repealed, SOR/2003-284, s. 5]
 	- **(c)** not less than 20 days after that date, in any other case.
-> SOR/86-813, s. 1; SOR/89-395, s. 2(F); SOR/96-508, s. 5; SOR/2000-213, s. 2; SOR/2001-273, s. 5; SOR/2003-284, s. 5; SOR/2004-198, s. 3; SOR/2005-361, s. 1; SOR/2006-206, s. 1; SOR/2013-111, s. 4; SOR/2015-137, s. 1.
+> SOR/86-813, s. 1; SOR/89-395, s. 2(F); SOR/96-508, s. 5; SOR/2000-213, s. 2; SOR/2001-273, s. 5; SOR/2003-284, s. 5; SOR/2004-198, s. 3; SOR/2005-361, s. 1; SOR/2006-206, s. 1; SOR/2013-111, s. 4; SOR/2015-137, s. 1
 
 
 
@@ -122,7 +122,7 @@ Enabling authorities:
 
 
 **6.1** When a licensed grain dealer or the operator of a licensed elevator requests an official inspection of grain, they shall advise the Commission of the origin of the grain, or of the fact that the grain is of mixed origin, on the appropriate form supplied by the Commission.
-> SOR/2005-217, s. 1.
+> SOR/2005-217, s. 1
 
 
 
@@ -134,7 +134,7 @@ Enabling authorities:
 **6.2** A sample taken as part of an inspection under subsection 70(1), (2) or 70.2(1) or section 70.3 of the Act shall
 - **(a)** be taken in accordance with Chapter 2 of the Commission’s Sampling Systems Handbook and Approval Guide, revised on January 14, 2015 and in effect on August 1, 2015; and
 - **(b)** be retained for not less than seven days after the date of the grading of the sample.
-> SOR/2013-111, s. 5; SOR/2015-137, s. 2.
+> SOR/2013-111, s. 5; SOR/2015-137, s. 2
 
 
 
@@ -165,7 +165,7 @@ Enabling authorities:
 - **(7)** The determination of the chief grain inspector for Canada is final.
 
 - **(8)** An unofficial sample shall be retained for the period beginning on the date of the grading of the sample and ending not less than 20 days after that date.
-> SOR/89-376, ss. 11(F), 14(F), 16(F); SOR/2000-213, s. 2; SOR/2003-284, s. 6; SOR/2004-198, s. 4; SOR/2005-361, s. 2; SOR/2013-111, s. 6.
+> SOR/89-376, ss. 11(F), 14(F), 16(F); SOR/2000-213, s. 2; SOR/2003-284, s. 6; SOR/2004-198, s. 4; SOR/2005-361, s. 2; SOR/2013-111, s. 6
 
 
 
@@ -181,7 +181,7 @@ Enabling authorities:
 - **(2)** [Repealed, SOR/2005-361, s. 3]
 
 - **(3)** If no tender is received by the Commission for the purchase of an official sample or unofficial sample, the sample shall be discarded.
-> SOR/89-376, ss. 1, 12(F); SOR/89-395, s. 2(F); SOR/96-508, s. 7; SOR/2000-213, s. 2; SOR/2004-198, s. 5; SOR/2005-361, s. 3; SOR/2006-206, s. 2.
+> SOR/89-376, ss. 1, 12(F); SOR/89-395, s. 2(F); SOR/96-508, s. 7; SOR/2000-213, s. 2; SOR/2004-198, s. 5; SOR/2005-361, s. 3; SOR/2006-206, s. 2
 
 
 
@@ -197,7 +197,7 @@ Enabling authorities:
 **9** An inspection certificate referred to in section 32 of the Act shall be in the form set out
 - **(a)** in the case of Canadian grain other than the case set out in paragraph (b), in Form 12 of Schedule 4; and
 - **(b)** in the case of Canadian grain inspected on discharge from terminal elevators, in Form 13 of Schedule 4.
-> SOR/84-626, s. 1; SOR/85-677, s. 1(F); SOR/87-476, s. 1(F); SOR/89-393, s. 2; SOR/89-395, s. 2(F); SOR/93-197, s. 1; SOR/2000-213, s. 2; SOR/2003-284, s. 7; SOR/2004-198, s. 6; SOR/2013-111, s. 7.
+> SOR/84-626, s. 1; SOR/85-677, s. 1(F); SOR/87-476, s. 1(F); SOR/89-393, s. 2; SOR/89-395, s. 2(F); SOR/93-197, s. 1; SOR/2000-213, s. 2; SOR/2003-284, s. 7; SOR/2004-198, s. 6; SOR/2013-111, s. 7
 
 
 
@@ -215,25 +215,25 @@ Enabling authorities:
 - **(b)** the name and location of the elevator or other place where the official sample was taken;
 - **(c)** the date of the official inspection; and
 - **(d)** the grade and dockage assigned to the grain by the official inspection.
-> SOR/86-813, s. 2; SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/93-197, s. 2; SOR/96-508, s. 9; SOR/2000-213, s. 2; SOR/2003-284, s. 8; SOR/2004-198, s. 7; SOR/2013-111, s. 8.
+> SOR/86-813, s. 2; SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/93-197, s. 2; SOR/96-508, s. 9; SOR/2000-213, s. 2; SOR/2003-284, s. 8; SOR/2004-198, s. 7; SOR/2013-111, s. 8
 
 
 
 
 **12** For the purpose of section 40 of the Act, an appeal lies under section 39 of the Act in respect of grain that has been officially inspected on discharge from a primary elevator to a terminal elevator.
-> SOR/89-376, s. 14(F); SOR/2000-213, s. 2; SOR/2001-273, s. 7; SOR/2004-198, s. 7; SOR/2013-111, s. 8.
+> SOR/89-376, s. 14(F); SOR/2000-213, s. 2; SOR/2001-273, s. 7; SOR/2004-198, s. 7; SOR/2013-111, s. 8
 
 
 
 
 **13** The result of an appeal to the chief grain inspector for Canada shall be given without delay in writing by the chief grain inspector for Canada to the appellant and to the operator of the elevator where the grain was officially inspected.
-> SOR/2000-213, s. 2; SOR/2001-273, s. 7; SOR/2004-198, s. 7; SOR/2013-111, s. 8.
+> SOR/2000-213, s. 2; SOR/2001-273, s. 7; SOR/2004-198, s. 7; SOR/2013-111, s. 8
 
 
 
 
 **14** If, as a result of an appeal taken under section 39 of the Act to the chief grain inspector for Canada, a grade is assigned to the grain that is different from the grade previously assigned to it, the inspection certificate revised in accordance with section 41 of the Act shall bear the date on which the appeal was decided.
-> SOR/89-376, s. 14(F); SOR/96-508, s. 10(E); SOR/2000-213, s. 2; SOR/2004-198, s. 7; SOR/2013-111, s. 8.
+> SOR/89-376, s. 14(F); SOR/96-508, s. 10(E); SOR/2000-213, s. 2; SOR/2004-198, s. 7; SOR/2013-111, s. 8
 
 
 
@@ -245,7 +245,7 @@ Enabling authorities:
 
 
 ### Exemptions from Licensing
-> [SOR/2001-273, s. 8]
+> SOR/2001-273, s. 8
 
 
 
@@ -261,7 +261,7 @@ Enabling authorities:
 	- **(a)** the grain dealer does not deal in or handle western grain except as an agent or mandatary for licensees and the licensees provide security to the Commission for all western grain transactions handled by the grain dealer;
 	- **(b)** the grain dealer does not deal in or handle western grain except grain for seed purposes; or
 	- **(c)** the grain dealer does not purchase western grain from producers and does not assume obligations to producers for the payment of money in respect of western grain.
-> SOR/89-376, s. 14(F); SOR/89-395, s. 1; SOR/93-197, s. 3; SOR/96-508, s. 11; SOR/2000-213, s. 2; SOR/2001-273, s. 9; SOR/2002-255, s. 4; SOR/2004-198, s. 8; SOR/2006-206, s. 3.
+> SOR/89-376, s. 14(F); SOR/89-395, s. 1; SOR/93-197, s. 3; SOR/96-508, s. 11; SOR/2000-213, s. 2; SOR/2001-273, s. 9; SOR/2002-255, s. 4; SOR/2004-198, s. 8; SOR/2006-206, s. 3
 
 
 
@@ -282,7 +282,7 @@ Enabling authorities:
 - **(e)** keep each elevator building and all associated equipment in good repair and in good working order;
 - **(e.1)** keep sampling and weighing equipment and areas surrounding the equipment clean and accessible; and
 - **(f)** keep the licence posted in a conspicuous place in the elevator.
-> SOR/89-376, s. 14(F), 16(F); SOR/2000-213, s. 2; SOR/2001-273, s. 10; SOR/2002-255, s. 5; SOR/2003-284, s. 9(E); SOR/2004-198, s. 9; SOR/2005-361, s. 4.
+> SOR/89-376, s. 14(F), 16(F); SOR/2000-213, s. 2; SOR/2001-273, s. 10; SOR/2002-255, s. 5; SOR/2003-284, s. 9(E); SOR/2004-198, s. 9; SOR/2005-361, s. 4
 
 
 
@@ -296,19 +296,19 @@ Enabling authorities:
 - **(b)** if a cash purchase ticket or other bill of exchange is issued on delivery of the grain or is later issued on surrender of an elevator receipt or grain receipt in respect of the grain, the lesser of
 	- **(i)** 90 days, and
 	- **(ii)** the period that ends 30 days after the day on which the cash purchase ticket or other bill of exchange is issued.
-> SOR/2000-213, s. 2; SOR/2005-361, s. 5.
+> SOR/2000-213, s. 2; SOR/2005-361, s. 5
 
 
 
 
 **18** Security is not required from an applicant for a licence or from a licensee if the applicant or licensee is an agent of Her Majesty in right of Canada.
-> SOR/89-376, ss. 2, 14(F), 16(F); SOR/96-508, s. 12; SOR/2000-213, s. 2.
+> SOR/89-376, ss. 2, 14(F), 16(F); SOR/96-508, s. 12; SOR/2000-213, s. 2
 
 
 
 
 **19** For the purposes of subsection 49(5) of the Act, the prescribed percentage of security realized or enforced is 100%.
-> SOR/89-376, ss. 10(F), 14(F), 16(F); SOR/89-393, s. 3; SOR/93-24, s. 1; SOR/2000-213, s. 2.
+> SOR/89-376, ss. 10(F), 14(F), 16(F); SOR/89-393, s. 3; SOR/93-24, s. 1; SOR/2000-213, s. 2
 
 
 
@@ -318,7 +318,7 @@ Enabling authorities:
 
 
 **20** Each licensee shall keep, for at least six years, all documents that relate to grain that was delivered to, stored by, shipped or otherwise disposed of by the licensee and that specify whether the grain was purchased, received for storage or received for sale on commission.
-> SOR/85-677, s. 3; SOR/89-376, s. 10(F), 11(F), 14(F), 16(F); SOR/89-394, s. 1; SOR/93-24, s. 2; SOR/96-508, s. 13; SOR/2000-213, s. 2.
+> SOR/85-677, s. 3; SOR/89-376, s. 10(F), 11(F), 14(F), 16(F); SOR/89-394, s. 1; SOR/93-24, s. 2; SOR/96-508, s. 13; SOR/2000-213, s. 2
 
 
 
@@ -329,7 +329,7 @@ Enabling authorities:
 
 
 ### Application for Licence
-> [SOR/2002-255, s. 6]
+> SOR/2002-255, s. 6
 
 
 
@@ -340,7 +340,7 @@ Enabling authorities:
 - **(2)** [Repealed, SOR/2004-198, s. 10]
 
 - **(3)** Each applicant for a licence shall submit to the Commission, at least 10 days before the commencement date of the licence period, the licence fee set out in Schedule 1 and the security fixed by the Commission under section 45 of the Act.
-> SOR/89-376, s. 16(F); SOR/96-508, s. 14; SOR/2000-213, s. 2; SOR/2001-273, s. 11; SOR/2003-284, s. 10; SOR/2004-198, s. 10.
+> SOR/89-376, s. 16(F); SOR/96-508, s. 14; SOR/2000-213, s. 2; SOR/2001-273, s. 11; SOR/2003-284, s. 10; SOR/2004-198, s. 10
 
 
 
@@ -354,7 +354,7 @@ Enabling authorities:
 
 
 **23** No later than the 15th day of every month, each licensed grain dealer, primary elevator operator and process elevator operator shall submit to the Commission, on the appropriate form supplied by the Commission or in an electronic format acceptable to it, a report respecting the licensee’s outstanding obligations for the payment of money or the delivery of grain to holders of elevator receipts, grain receipts and cash purchase tickets and the security amount available to meet those obligations at the end of the preceding month.
-> SOR/84-627, s. 2; SOR/89-376, ss. 12(F), 16(F); SOR/89-395, s. 2(F); SOR/96-508, s. 16; SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2008-314, s. 1; SOR/2016-256, s. 1.
+> SOR/84-627, s. 2; SOR/89-376, ss. 12(F), 16(F); SOR/89-395, s. 2(F); SOR/96-508, s. 16; SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2008-314, s. 1; SOR/2016-256, s. 1
 
 
 
@@ -364,7 +364,7 @@ Enabling authorities:
 
 
 **24** Every month, each licensed grain dealer shall submit to the Commission, on a form supplied by the Commission or in an electronic format acceptable to it, a report respecting the grain dealer’s operations during the preceding month.
-> SOR/84-791, s. 2; SOR/89-376, s. 16(F); SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2004-198, s. 11(E); SOR/2008-314, s. 1.
+> SOR/84-791, s. 2; SOR/89-376, s. 16(F); SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2004-198, s. 11(E); SOR/2008-314, s. 1
 
 
 
@@ -378,7 +378,7 @@ Enabling authorities:
 
 
 **25** Every week, each process elevator licensee shall submit to the Commission, in an electronic format acceptable to the Commission, a report respecting the licensee’s operations during the preceding week.
-> SOR/89-376, s. 16(F); SOR/93-25, s. 1; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2008-314, s. 1.
+> SOR/89-376, s. 16(F); SOR/93-25, s. 1; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2008-314, s. 1
 
 
 
@@ -389,14 +389,14 @@ Enabling authorities:
 
 
 ### Primary Elevator Reports
-> [SOR/2001-273, s. 13]
+> SOR/2001-273, s. 13
 
 
 
 **26** Each primary elevator licensee shall submit to the Commission
 - **(a)** every week, in an electronic format acceptable to the Commission, a report respecting the licensee’s operations during the preceding week; and
 - **(b)** no later than October 15 in each crop year, on the appropriate form supplied by the Commission or in an electronic format acceptable to it, a report respecting the licensee’s operations during the preceding crop year for each primary elevator operated by the licensee.
-> SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 2; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2008-314, s. 2.
+> SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 2; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2008-314, s. 2
 
 
 
@@ -406,7 +406,7 @@ Enabling authorities:
 
 
 **27** Every day, the operator of a terminal elevator shall submit to the Commission, in an electronic format acceptable to the Commission, a 	report respecting the elevator’s operations during the preceding day.
-> SOR/84-626, s. 3; SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 3; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2002-255, s. 8; SOR/2008-314, s. 3; SOR/2013-111, s. 9.
+> SOR/84-626, s. 3; SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 3; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2002-255, s. 8; SOR/2008-314, s. 3; SOR/2013-111, s. 9
 
 
 
@@ -427,7 +427,7 @@ Enabling authorities:
 **29** With respect to a period referred to in subsection 53(2) of the Act, the special maximum storage charge at an elevator is
 - **(a)** if the period has lasted seven days, for the next seven days of the period, 75% of the storage charge that could otherwise be made by the operator of the elevator for that type of storage; and
 - **(b)** if the period has lasted 14 days, for the remainder of the period, 50% of the storage charge that could otherwise be made by the operator of the elevator for that type of storage.
-> SOR/89-376, ss. 14(F), 16(F); SOR/96-508, s. 18; SOR/2000-213, s. 2.
+> SOR/89-376, ss. 14(F), 16(F); SOR/96-508, s. 18; SOR/2000-213, s. 2
 
 
 
@@ -437,7 +437,7 @@ Enabling authorities:
 
 
 **29.1** The operator of a licensed primary elevator shall keep posted in a conspicuous place in the elevator the schedule of the current charges filed with the Commission under subsection 50(1) of the Act.
-> SOR/2004-198, s. 12.
+> SOR/2004-198, s. 12
 
 
 
@@ -448,7 +448,7 @@ Enabling authorities:
 
 
 **29.2** In this Part, ***delivery period*** means, in relation to a contract for the purchase of grain, the period specified in the contract during which grain is to be delivered by the producer to the licensee. (*période de livraison*)
-> SOR/2014-191, s. 1.
+> SOR/2014-191, s. 1
 
 
 
@@ -463,7 +463,7 @@ Enabling authorities:
 	- **(c)** is payable either at the time that the delivery of grain is completed by the producer or on another day otherwise agreed on by the producer and the licensee.
 
 - **(3)** If the penalty agreed on by the producer and the licensee is based on a daily amount, the penalty is payable for each day during the period beginning on the first day after the day on which the delivery period expires and ending on the day on which the total amount of grain specified in the contract is accepted and received by the licensee, or on another day otherwise agreed on by the producer and the licensee.
-> SOR/2014-191, s. 1; SOR/2016-256, s. 2.
+> SOR/2014-191, s. 1; SOR/2016-256, s. 2
 
 
 
@@ -478,7 +478,7 @@ Enabling authorities:
 
 
 **30** The maximum shrinkage allowance that may be made on the delivery of grain to any licensed elevator is zero.
-> SOR/89-376, s. 16(F); SOR/96-508, s. 19(E); SOR/2000-213, s. 2; SOR/2003-284, s. 12; SOR/2004-198, s. 13; SOR/2011-45, s. 1.
+> SOR/89-376, s. 16(F); SOR/96-508, s. 19(E); SOR/2000-213, s. 2; SOR/2003-284, s. 12; SOR/2004-198, s. 13; SOR/2011-45, s. 1
 
 
 
@@ -498,7 +498,7 @@ Enabling authorities:
 - **(2)** If grain is purchased by the operator of a licensed primary elevator, the operator shall issue a cash purchase ticket without delay after the grain is unloaded.
 
 - **(3)** If grain is received for storage at a licensed primary elevator, the operator of the elevator shall issue a primary elevator receipt without delay after the grain is unloaded.
-> SOR/78-55, s. 3; SOR/84-626, s. 4; SOR/85-678, s. 3; SOR/89-376, ss. 12(F), 14(F), 20(F); SOR/95-386, s. 4; SOR/96-508, s. 22; SOR/2000-213, s. 2; SOR/2003-284, s. 14.
+> SOR/78-55, s. 3; SOR/84-626, s. 4; SOR/85-678, s. 3; SOR/89-376, ss. 12(F), 14(F), 20(F); SOR/95-386, s. 4; SOR/96-508, s. 22; SOR/2000-213, s. 2; SOR/2003-284, s. 14
 
 
 
@@ -508,7 +508,7 @@ Enabling authorities:
 
 
 **34** For the purposes of sections 35 and 36, on the delivery of grain to a licensed primary elevator, a portion of at least 1 kg from a sample of the grain that is considered by the elevator operator and the person delivering the grain to be representative of the grain shall be taken from each load and retained at the elevator.
-> SOR/2000-213, s. 2; SOR/2002-255, s. 9; SOR/2004-198, s. 14; SOR/2008-314, s. 4.
+> SOR/2000-213, s. 2; SOR/2002-255, s. 9; SOR/2004-198, s. 14; SOR/2008-314, s. 4
 
 
 
@@ -525,7 +525,7 @@ Enabling authorities:
 	- **(c)** computing the dockage to the nearest 0.1%.
 
 - **(2)** If the person delivering grain to a licensed primary elevator so requests, the test to determine the dockage in the grain shall be made in that person’s presence.
-> SOR/84-626, s. 6; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 5; SOR/96-508, s. 23; SOR/2000-213, s. 2; SOR/2002-255, s. 10; SOR/2008-314, s. 5; SOR/2013-111, s. 10.
+> SOR/84-626, s. 6; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 5; SOR/96-508, s. 23; SOR/2000-213, s. 2; SOR/2002-255, s. 10; SOR/2008-314, s. 5; SOR/2013-111, s. 10
 
 
 
@@ -557,7 +557,7 @@ Enabling authorities:
 - **(6)** On receipt of the final determination, the operator of the elevator shall exchange the interim primary elevator receipt for the appropriate primary elevator receipt or cash purchase ticket indicating the grade and dockage assigned to the representative portion in accordance with this section.
 
 - **(7)** For greater certainty, in this section, “grade” includes the tough, damp, moist and wet grades established in the [Off Grades of Grain and Grades of Screenings Order](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20890.md).
-> SOR/2000-213, s. 2; SOR/2002-255, s. 11; SOR/2003-284, s. 15; SOR/2004-198, s. 15; SOR/2008-314, s. 6; SOR/2013-111, s. 11.
+> SOR/2000-213, s. 2; SOR/2002-255, s. 11; SOR/2003-284, s. 15; SOR/2004-198, s. 15; SOR/2008-314, s. 6; SOR/2013-111, s. 11
 
 
 
@@ -568,7 +568,7 @@ Enabling authorities:
 
 
 ### Identity Preservation of special Bin Grain
-> [SOR/2004-198, s. 16(E)]
+> SOR/2004-198, s. 16(E)
 
 
 
@@ -584,7 +584,7 @@ Enabling authorities:
 - **(3)** The operator shall keep the container in a locked storage cabinet or storeroom at the elevator, for not less than 30 days.
 
 - **(4) to (7)** [Repealed, SOR/2004-198, s. 17]
-> SOR/84-626, s. 8; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 7; SOR/2000-213, s. 2; SOR/2002-255, s. 12; SOR/2003-284, s. 16; SOR/2004-198, s. 17; SOR/2008-314, s. 7.
+> SOR/84-626, s. 8; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 7; SOR/2000-213, s. 2; SOR/2002-255, s. 12; SOR/2003-284, s. 16; SOR/2004-198, s. 17; SOR/2008-314, s. 7
 
 
 
@@ -604,7 +604,7 @@ Enabling authorities:
 - **(2)** The operator of a licensed primary elevator shall issue an elevator grain drying receipt in a form supplied by the Commission or accepted by the Commission for each load of grain containing excessive moisture delivered to the elevator for artificial drying.
 
 - **(3)** The holder of the drying receipt may surrender the receipt to the operator and take from the operator any other appropriate receipts that the circumstances require or take delivery of the grain.
-> SOR/2002-255, s. 12.
+> SOR/2002-255, s. 12
 
 
 
@@ -622,7 +622,7 @@ Enabling authorities:
 - **(2)** The holder of the elevator receipt shall surrender it after the grain is cleaned, and the operator of the licensed primary elevator shall then issue the appropriate primary elevator receipt or cash purchase ticket for the grain, adjusted to the grade and quantity of the grain after cleaning.
 
 - **(3)** If grain that is delivered for cleaning is returned to the owner of the grain, the operator of the licensed primary elevator shall issue a cleaning receipt for the grain, in a form acceptable to the Commission.
-> SOR/79-543, s. 1; SOR/89-376, ss. 10(F), 14(F), 18(F); SOR/96-508, s. 26; SOR/2000-213, s. 2; SOR/2003-284, s. 18; SOR/2004-198, s. 19.
+> SOR/79-543, s. 1; SOR/89-376, ss. 10(F), 14(F), 18(F); SOR/96-508, s. 26; SOR/2000-213, s. 2; SOR/2003-284, s. 18; SOR/2004-198, s. 19
 
 
 
@@ -642,7 +642,7 @@ Enabling authorities:
 	- **(b)** in the case of grain other than specially binned grain,
 		- **(i)** grain offered by that person, or
 		- **(ii)** grain that is of the same kind, grade and quantity as the grain referred to in the elevator receipts surrendered by that person.
-> SOR/89-376, ss. 11(F), 12(F), 14(F), 15(F), 18(F); SOR/93-24, s. 4; SOR/96-508, ss. 27, 61(F); SOR/2000-213, s. 2; SOR/2003-284, s. 19(F).
+> SOR/89-376, ss. 11(F), 12(F), 14(F), 15(F), 18(F); SOR/93-24, s. 4; SOR/96-508, ss. 27, 61(F); SOR/2000-213, s. 2; SOR/2003-284, s. 19(F)
 
 
 
@@ -650,7 +650,7 @@ Enabling authorities:
 **41** The operator of a licensed primary elevator
 - **(a)** shall, on request by the Commission, produce elevator receipts or bills of lading for all grain that has been shipped from the elevator for which primary elevator receipts are outstanding; and
 - **(b)** shall not assign, mortgage, pledge or hypothecate any grain stored in the elevator for which primary elevator receipts are outstanding.
-> SOR/89-376, ss. 12(F), 14(F); SOR/94-508, s. 1; SOR/95-336, s. 10(F); SOR/96-508, ss. 28, 61(F); SOR/2000-213, s. 2.
+> SOR/89-376, ss. 12(F), 14(F); SOR/94-508, s. 1; SOR/95-336, s. 10(F); SOR/96-508, ss. 28, 61(F); SOR/2000-213, s. 2
 
 
 
@@ -661,7 +661,7 @@ Enabling authorities:
 	- **(ii)** makes the demand that the grain be removed from the elevator, and
 	- **(iii)** shows the final date on which the holder may take delivery of the grain; and
 - **(b)** forward to the Commission a duplicate copy of the notice.
-> SOR/89-376, ss. 10(F), 12(F), 14(F), 18(F); SOR/89-395, s. 2(F); SOR/93-24, s. 5; SOR/96-508, ss. 29, 61(F); SOR/2000-213, s. 2.
+> SOR/89-376, ss. 10(F), 12(F), 14(F), 18(F); SOR/89-395, s. 2(F); SOR/93-24, s. 5; SOR/96-508, ss. 29, 61(F); SOR/2000-213, s. 2
 
 
 
@@ -677,19 +677,19 @@ Enabling authorities:
 - **(2)** The holder of a primary elevator receipt who waives the right to demand delivery from the operator of the elevator of the grain referred to in the receipt shall sign the following waiver set out on the receipt:“I hereby waive the right to demand delivery of the grain described in this receipt from the operator of the elevator.”
 
 
-> SOR/89-376, ss. 11(F), 14(F), 15(F), 18(F); SOR/89-395, s. 2(F); SOR/93-24, s. 6; SOR/96-508, s. 30; SOR/2000-213, s. 2; SOR/2003-284, s. 20.
+> SOR/89-376, ss. 11(F), 14(F), 15(F), 18(F); SOR/89-395, s. 2(F); SOR/93-24, s. 6; SOR/96-508, s. 30; SOR/2000-213, s. 2; SOR/2003-284, s. 20
 
 
 
 
 
 ### Receipt of Grain into a Licensed Process Elevator
-> [SOR/2001-273, s. 15]
+> SOR/2001-273, s. 15
 
 
 
 **44** A grain receipt or a cash purchase ticket that is required by subsection 78(2) of the Act to be issued by the operator of a licensed process elevator on the receipt of grain from a producer into the elevator shall be issued on delivery of the grain by the producer and shall be in Form 1 or Form 6 of Schedule 4, as appropriate.
-> SOR/89-376, s. 14(F); SOR/96-508, s. 31; SOR/2000-213, s. 2; SOR/2003-284, s. 21.
+> SOR/89-376, s. 14(F); SOR/96-508, s. 31; SOR/2000-213, s. 2; SOR/2003-284, s. 21
 
 
 
@@ -703,7 +703,7 @@ Enabling authorities:
 - **(1)** For the purpose of this section, delivery of grain to an agent or mandatary of a licensed grain dealer is considered to be delivery to the licensed grain dealer.
 
 - **(2)** A grain receipt or a cash purchase ticket that is required by subsection 81(1) of the Act to be issued by a licensed grain dealer shall be issued on receipt of western grain delivered by a producer or on being entitled to western grain delivered to an elevator by a producer, and shall be in Form 1 or Form 6 of Schedule 4, as appropriate.
-> SOR/2000-213, s. 2; SOR/2001-273, s. 16; SOR/2002-255, s. 13; SOR/2003-284, s. 22; SOR/2006-206, s. 4.
+> SOR/2000-213, s. 2; SOR/2001-273, s. 16; SOR/2002-255, s. 13; SOR/2003-284, s. 22; SOR/2006-206, s. 4
 
 
 
@@ -717,7 +717,7 @@ Enabling authorities:
 
 
 **47** The operator of a licensed terminal elevator may receive grain without causing it to be inspected and weighed and without issuing an elevator receipt for it if the grain is transferred directly from a railway car or other conveyance to a ship and is officially inspected and weighed on transfer to the ship.
-> SOR/89-376, ss. 10(F), 11(F), 14(F), 18(F), 20(F); SOR/93-24, s. 7; SOR/96-508, s. 33; SOR/2000-213, s. 2; SOR/2002-255, s. 14; SOR/2004-198, s. 20; SOR/2005-361, s. 7; SOR/2013-111, s. 12.
+> SOR/89-376, ss. 10(F), 11(F), 14(F), 18(F), 20(F); SOR/93-24, s. 7; SOR/96-508, s. 33; SOR/2000-213, s. 2; SOR/2002-255, s. 14; SOR/2004-198, s. 20; SOR/2005-361, s. 7; SOR/2013-111, s. 12
 
 
 
@@ -730,7 +730,7 @@ Enabling authorities:
 - **(a)** it is eastern grain;
 - **(b)** it is foreign grain; or
 - **(c)** it is western grain that has been previously inspected and weighed at a licensed terminal elevator.
-> SOR/2010-55, s. 1; SOR/2013-111, s. 12.
+> SOR/2010-55, s. 1; SOR/2013-111, s. 12
 
 
 
@@ -738,7 +738,7 @@ Enabling authorities:
 **49** The operator of a licensed terminal elevator may discharge grain without causing it to be officially inspected and officially weighed if
 - **(a)** it is for export to the United States; or
 - **(b)** it is not for export.
-> SOR/2013-111, s. 12.
+> SOR/2013-111, s. 12
 
 
 
@@ -748,7 +748,7 @@ Enabling authorities:
 
 
 **50** The operator of a licensed terminal elevator shall make an accurate determination of dockage of grain delivered at the elevator, computing the dockage to the nearest 0.1%.
-> SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 37; SOR/2000-213, s. 2; SOR/2002-255, s. 15; SOR/2003-284, s. 24; SOR/2005-361, s. 8; SOR/2006-206, s. 5; SOR/2010-55, s. 2; SOR/2013-111, s. 12.
+> SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 37; SOR/2000-213, s. 2; SOR/2002-255, s. 15; SOR/2003-284, s. 24; SOR/2005-361, s. 8; SOR/2006-206, s. 5; SOR/2010-55, s. 2; SOR/2013-111, s. 12
 
 
 
@@ -773,7 +773,7 @@ Enabling authorities:
 	- **(c)** be forwarded, with all shipping charges prepaid, in a container that will maintain the integrity of the sample;
 	- **(d)** be accompanied by a form acceptable to the Commission that states the name and post office address of each person to whom the report respecting the grade and dockage of the sample is to be sent; and
 	- **(e)** be identified on the form by a distinguishing number or mark that the shipper has not previously used in respect of any other sample during that crop year.
-> SOR/89-393, s. 4; SOR/96-508, s. 38; SOR/2000-213, s. 2; SOR/2004-198, s. 22; SOR/2013-111, s. 12.
+> SOR/89-393, s. 4; SOR/96-508, s. 38; SOR/2000-213, s. 2; SOR/2004-198, s. 22; SOR/2013-111, s. 12
 
 
 
@@ -787,7 +787,7 @@ Enabling authorities:
 - **(b)** consist of at least 1 kg;
 - **(c)** be taken in such a manner as to ensure that it is an average and representative sample of the parcel of grain from which it is taken; and
 - **(d)** be forwarded to the Commission, with all shipping charges prepaid, in a container that will maintain the integrity of the sample.
-> SOR/2013-111, s. 12.
+> SOR/2013-111, s. 12
 
 
 
@@ -800,14 +800,14 @@ Enabling authorities:
 - **(a)** consist of at least 1 kg;
 - **(b)** be taken in such a manner as to ensure that it is an average and representative sample of the parcel of grain from which it is taken; and
 - **(c)** be forwarded to the Commission, with all shipping charges prepaid, in a container that will maintain the integrity of the sample.
-> SOR/2013-111, s. 12.
+> SOR/2013-111, s. 12
 
 
 
 
 
 ### Discharge of Grain Containing Dockage
-> [SOR/2005-361, s. 9]
+> SOR/2005-361, s. 9
 
 
 
@@ -815,7 +815,7 @@ Enabling authorities:
 - **(a)** the kind, grade and quantity of the grain;
 - **(b)** the final destination of the grain; and
 - **(c)** the reasons for the request.
-> SOR/2000-213, s. 2; SOR/2004-198, s. 24; SOR/2013-111, s. 13.
+> SOR/2000-213, s. 2; SOR/2004-198, s. 24; SOR/2013-111, s. 13
 
 
 
@@ -843,7 +843,7 @@ Enabling authorities:
 	- **(iii)** not more than 30% of the total operating capacity of the elevator is contractually committed to special binning of grain, and
 	- **(iv)** a copy of the agreement is filed by the operator with the Commission before the commencement date of the agreement; or
 - **(b)** the grain is binned according to protein level.
-> SOR/84-626, s. 11; SOR/89-376, s. 14(F); SOR/96-508, s. 39; SOR/2000-213, s. 2; SOR/2003-284, s. 26; SOR/2004-198, s. 27; SOR/2013-111, s. 14.
+> SOR/84-626, s. 11; SOR/89-376, s. 14(F); SOR/96-508, s. 39; SOR/2000-213, s. 2; SOR/2003-284, s. 26; SOR/2004-198, s. 27; SOR/2013-111, s. 14
 
 
 
@@ -857,7 +857,7 @@ Enabling authorities:
 
 
 **58** A terminal elevator receipt shall be in Form 9 of Schedule 4.
-> SOR/89-376, s. 12(F); SOR/89-395, s. 2(F); SOR/2000-213, s. 2; SOR/2002-255, s. 17; SOR/2003-284, s. 27; SOR/2004-198, s. 28; SOR/2013-111, s. 15.
+> SOR/89-376, s. 12(F); SOR/89-395, s. 2(F); SOR/2000-213, s. 2; SOR/2002-255, s. 17; SOR/2003-284, s. 27; SOR/2004-198, s. 28; SOR/2013-111, s. 15
 
 
 
@@ -875,7 +875,7 @@ Enabling authorities:
 	- **(d)** show the final date by which the holder is required to take delivery of the grain.
 
 - **(2)** If the operator of a licensed terminal elevator gives the notice in accordance with subsection (1), the operator shall at the same time forward a copy of the notice to the Commission.
-> SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/96-508, s. 40; SOR/2000-213, s. 2; SOR/2013-111, s. 15; SOR/2015-137, s. 3(F).
+> SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/96-508, s. 40; SOR/2000-213, s. 2; SOR/2013-111, s. 15; SOR/2015-137, s. 3(F)
 
 
 
@@ -886,7 +886,7 @@ Enabling authorities:
 
 
 ### Hazardous substances and Contaminated Grain in Elevators
-> [SOR/2004-198, s. 29]
+> SOR/2004-198, s. 29
 
 
 
@@ -900,7 +900,7 @@ Enabling authorities:
 	- **(c)** the storage of hazardous substances in the area is not a danger to the handling or storage of grain at the elevator.
 
 - **(3)** If grain that is being received into, stored in or discharged from a licensed elevator is found to be contaminated, the operator of the elevator shall without delay notify the Commission and shall dispose of the contaminated grain in accordance with directions given by the chief grain inspector for Canada under an order of the Commission under paragraph 118(d) of the Act.
-> SOR/2000-213, s. 2; SOR/2001-273, s. 20.
+> SOR/2000-213, s. 2; SOR/2001-273, s. 20
 
 
 
@@ -911,7 +911,7 @@ Enabling authorities:
 
 
 ### Infestation in Elevators
-> [SOR/2001-273, s. 22]
+> SOR/2001-273, s. 22
 
 
 
@@ -921,7 +921,7 @@ Enabling authorities:
 - **(c)** treat the infested grain in accordance with instructions issued by the Commission; and
 - **(c.1)** [Repealed, SOR/2005-361, s. 11]
 - **(d)** clean out and treat any emptied annex or bin that contained infested grain and any equipment used in handling that grain in accordance with instructions issued by the Commission.
-> SOR/86-813, s. 6; SOR/89-376, s. 14(F); SOR/89-394, s. 2; SOR/89-395, s. 2(F); SOR/96-508, s. 42; SOR/2000-213, s. 2; SOR/2001-273, s. 23; SOR/2004-198, s. 30; SOR/2005-361, s. 11.
+> SOR/86-813, s. 6; SOR/89-376, s. 14(F); SOR/89-394, s. 2; SOR/89-395, s. 2(F); SOR/96-508, s. 42; SOR/2000-213, s. 2; SOR/2001-273, s. 23; SOR/2004-198, s. 30; SOR/2005-361, s. 11
 
 
 
@@ -952,7 +952,7 @@ Enabling authorities:
 - **(1)** One or more producers of grain who wish to apply for a railway car under section 87 of the Act shall send to the Commission a completed application in Form 14 of Schedule 4.
 
 - **(2)** If a railway car that is allocated by the Commission as a result of the application arrives at a delivery point chosen by the producer or producers, as the case may be, the producer or producers shall load the grain declared in the application form directly from a siding or private bulk-loading facility into the railway car.
-> SOR/84-626, s. 14; SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 45; SOR/2000-213, s. 2; SOR/2003-284, s. 29.
+> SOR/84-626, s. 14; SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 45; SOR/2000-213, s. 2; SOR/2003-284, s. 29
 
 
 
@@ -969,7 +969,7 @@ Enabling authorities:
 - **(a)** it is clean, dry, structurally sound and free from infestation; and
 - **(b)** if the conveyance is a ship, the holds are sufficiently protected while loading during rainstorms to prevent excessive water from mixing with the grain.
 - **(c)** [Repealed, SOR/2004-198, s. 32]
-> SOR/84-626, s. 15; SOR/89-376, ss. 12(F), 14(F), 17(F), 18(F), 20(F); SOR/89-393, s. 6; SOR/89-395, s. 2(F); SOR/93-25, s. 6; SOR/96-508, s. 47; SOR/2000-213, s. 2; SOR/2002-255, s. 19; SOR/2004-198, s. 32; SOR/2005-361, s. 12.
+> SOR/84-626, s. 15; SOR/89-376, ss. 12(F), 14(F), 17(F), 18(F), 20(F); SOR/89-393, s. 6; SOR/89-395, s. 2(F); SOR/93-25, s. 6; SOR/96-508, s. 47; SOR/2000-213, s. 2; SOR/2002-255, s. 19; SOR/2004-198, s. 32; SOR/2005-361, s. 12
 
 
 
@@ -987,7 +987,7 @@ Enabling authorities:
 	- **(d)** [Repealed, SOR/2004-198, s. 33]
 
 - **(2)** [Repealed, SOR/2004-198, s. 33]
-> SOR/84-626, s. 16; SOR/89-376, s. 3; SOR/93-197, s. 6; SOR/95-386, s. 9; SOR/2000-213, s. 2; SOR/2004-198, s. 33; SOR/2005-361, s. 13(F); SOR/2010-55, s. 3; SOR/2013-111, s. 16.
+> SOR/84-626, s. 16; SOR/89-376, s. 3; SOR/93-197, s. 6; SOR/95-386, s. 9; SOR/2000-213, s. 2; SOR/2004-198, s. 33; SOR/2005-361, s. 13(F); SOR/2010-55, s. 3; SOR/2013-111, s. 16
 
 
 
@@ -1209,7 +1209,7 @@ Enabling authorities:
 **3** If more than one certificate is required for a railway car, truck or container, separate inspection and weighing fees will be applied for each certificate issued (per item 14).
 
 
-> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6; SOR/2013-109, s. 1; SOR/2017-125, ss. 1 to 3; SOR/2018-33, s. 2.
+> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6; SOR/2013-109, s. 1; SOR/2017-125, ss. 1 to 3; SOR/2018-33, s. 2
 
 
 
@@ -1230,7 +1230,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 [Repealed, SOR/2013-111, s. 17]
 
 
-> SOR/2000-213, s. 7; SOR/2001-273, s. 31; SOR/2002-255, s. 20; SOR/2003-284, s. 34; SOR/2013-111, s. 17.
+> SOR/2000-213, s. 7; SOR/2001-273, s. 31; SOR/2002-255, s. 20; SOR/2003-284, s. 34; SOR/2013-111, s. 17
 
 
 
@@ -1284,11 +1284,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>75</td>
 <td>Any variety of the class CWRS designated as such by order of the Commission</td>
 <td>65</td>
-<td>10</td>
+<td>10.0</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.6</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>2.3</td>
 </tr>
 <tr>
@@ -1322,10 +1322,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No minimum</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1</td>
-<td>10</td>
-<td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
-<td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10.0%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
+<td>10.0%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 </tr>
 </table>
 
@@ -1349,7 +1349,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Minimum Test Weight</th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
-<th>Contrasting Classess</th>
+<th>Contrasting Classes</th>
 <th>Total</th>
 </tr>
 <tr>
@@ -1364,7 +1364,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 CWRW</td>
 <td>79</td>
 <td>Any variety of the class CWRW designated as such by order of the Commission</td>
-<td>11</td>
+<td>11.0</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.4</td>
@@ -1373,9 +1373,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 2 CWRW</td>
-<td>76.5</td>
+<td>76</td>
 <td>Any variety of the class CWRW designated as such by order of the Commission</td>
-<td>11</td>
+<td>11.0</td>
 <td>Fairly well matured, may be moderately frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>0.7</td>
@@ -1395,12 +1395,12 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>CW Feed</td>
-<td>CW Feed</td>
+<td>65</td>
 <td>Any class or variety of wheat excluding amber durum and any variety of the class CWSP</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1</td>
-<td>10</td>
+<td>1.0</td>
+<td>10.0</td>
 <td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 <td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 </tr>
@@ -1440,10 +1440,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 CWES</td>
 <td>75</td>
 <td>Any variety of the class CWES designated as such by order of the Commission</td>
-<td>10</td>
+<td>10.0</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.2</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>1.5</td>
 <td>3</td>
 </tr>
@@ -1464,9 +1464,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any class or variety of wheat excluding amber durum and any variety of the class CWSP</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1</td>
-<td>10</td>
-<td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10.0%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 <td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 </tr>
 </table>
@@ -1502,7 +1502,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CWSWS designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>1</td>
+<td>1.0</td>
 <td>3</td>
 </tr>
 <tr>
@@ -1511,7 +1511,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CWSWS designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
-<td>2</td>
+<td>2.0</td>
 <td>6</td>
 </tr>
 <tr>
@@ -1520,7 +1520,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CWSWS designated as such by order of the Commission</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
-<td>3</td>
+<td>3.0</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1528,8 +1528,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>65</td>
 <td>Any class or variety of wheat excluding amber durum and any variety of the class CWSP</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1</td>
-<td>10</td>
+<td>1.0</td>
+<td>10.0</td>
 <td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 </tr>
 </table>
@@ -1579,7 +1579,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.5</td>
-<td>2</td>
+<td>2.0</td>
 <td>4</td>
 </tr>
 <tr>
@@ -1591,8 +1591,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Reasonably well matured, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.2</td>
-<td>3</td>
-<td>7.5</td>
+<td>3.0</td>
+<td>8</td>
 </tr>
 <tr>
 <td>No. 3 CWAD</td>
@@ -1614,8 +1614,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No minimum</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
-<td>3</td>
-<td>10</td>
+<td>3.0</td>
+<td>10.0</td>
 <td>49</td>
 </tr>
 <tr>
@@ -1625,9 +1625,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No minimum</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from higher grades on account of light weight or damaged kernels</td>
-<td>1</td>
-<td>10</td>
-<td>49</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>49.0</td>
 <td>No limit</td>
 </tr>
 </table>
@@ -1673,13 +1673,13 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 CW</td>
 <td>56</td>
 <td>Good colour, 98% sound groats</td>
-<td>Nil</td>
+<td>0.0</td>
 <td>0.1</td>
 <td>2</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>1</td>
 <td>0.2</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>1</td>
 <td>2</td>
 </tr>
@@ -1688,7 +1688,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>53</td>
 <td>Good colour, 96% sound groats</td>
 <td>0.1</td>
-<td>4</td>
+<td>4.0</td>
 <td>4</td>
 <td>1.5</td>
 <td>2</td>
@@ -1702,12 +1702,12 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>51</td>
 <td>Fair colour, 94% sound groats</td>
 <td>0.5</td>
+<td>6.0</td>
 <td>6</td>
-<td>6</td>
-<td>3</td>
+<td>3.0</td>
 <td>3</td>
 <td>0.5</td>
-<td>3</td>
+<td>3.0</td>
 <td>3</td>
 <td>6</td>
 </tr>
@@ -1715,13 +1715,13 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 4 CW</td>
 <td>48</td>
 <td>Poor colour, 92% sound groats</td>
-<td>1</td>
+<td>1.0</td>
 <td><sup><a href='#fn_Ind1A89_hq_13702'>[*]</a></sup> No limit</td>
 <td>8</td>
+<td>8.0</td>
 <td>8</td>
-<td>8</td>
-<td>1</td>
-<td>8</td>
+<td>1.0</td>
+<td>8.0</td>
 <td>8</td>
 <td>8</td>
 </tr>
@@ -1821,7 +1821,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Reasonably sweet, may be frost-damaged, weather-stained or otherwise damaged</td>
 <td>0.2</td>
 <td>2.5</td>
-<td>1</td>
+<td>1.0</td>
 <td>2.5</td>
 </tr>
 <tr>
@@ -1829,9 +1829,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>57</td>
 <td>Fairly sweet, excluded from other grades of barley on account of immature or severely damaged kernels</td>
 <td>0.2</td>
-<td>8</td>
+<td>8.0</td>
 <td>2.5</td>
-<td>10</td>
+<td>10.0</td>
 </tr>
 <tr>
 <td>No. 1 CW Hulless</td>
@@ -1839,7 +1839,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Reasonably sweet, may be frost-damaged, weather-stained or otherwise damaged</td>
 <td>0.2</td>
 <td>2.5</td>
-<td>1</td>
+<td>1.0</td>
 <td>2.5</td>
 </tr>
 <tr>
@@ -1847,9 +1847,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>65</td>
 <td>Fairly sweet, excluded from other grades of barley on account of immature or severely damaged kernels</td>
 <td>0.2</td>
-<td>8</td>
+<td>8.0</td>
 <td>2.5</td>
-<td>10</td>
+<td>10.0</td>
 </tr>
 </table>
 
@@ -1944,7 +1944,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 CW</td>
 <td>72</td>
 <td>Well matured, practically free from weather-damaged kernels</td>
-<td>1.5</td>
+<td>2</td>
 <td>0.05</td>
 <td>0.5</td>
 <td>2</td>
@@ -1954,8 +1954,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>69</td>
 <td>Reasonably well matured, reasonably free from weather-damaged kernels</td>
 <td>3</td>
-<td>0.2</td>
-<td>1</td>
+<td>0.20</td>
+<td>1.0</td>
 <td>5</td>
 </tr>
 <tr>
@@ -1964,7 +1964,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Excluded from higher grades on account of damaged kernels</td>
 <td>10</td>
 <td>0.33</td>
-<td>2</td>
+<td>2.0</td>
 <td>10</td>
 </tr>
 </table>
@@ -1997,16 +1997,16 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>65</td>
 <td>Any variety of the class Flaxseed, Canada Western designated as such by order of the Commission</td>
 <td>Mature and sweet</td>
-<td>Not more than 1% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
-<td>0.05</td>
-<td>12.5</td>
+<td>Not more than 1.0% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>0.1</td>
+<td>13</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
 <td>62</td>
 <td>Any variety of the class Flaxseed, Canada Western designated as such by order of the Commission</td>
 <td>Reasonably well matured and sweet</td>
-<td>Not more than 1.5% of other seedsthat are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>Not more than 1.5% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
 <td>0.2</td>
 <td>25</td>
 </tr>
@@ -2015,8 +2015,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No minimum</td>
 <td>Any variety of flaxseed</td>
 <td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low-quality seed, not distinctly sour, musty, rancid or having any odour that would indicate serious deterioration</td>
-<td>Not more than 2% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
-<td>10</td>
+<td>Not more than 2.0% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>10.0</td>
 <td>No limit</td>
 </tr>
 </table>
@@ -2117,7 +2117,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 4 CW</td>
 <td>62</td>
 <td>Cool and sweet</td>
-<td>1</td>
+<td>1.0</td>
 <td>10</td>
 <td>7</td>
 </tr>
@@ -2125,7 +2125,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 5 CW</td>
 <td>58</td>
 <td>May have a slight odour, not sour or musty</td>
-<td>3</td>
+<td>3.0</td>
 <td>15</td>
 <td>12</td>
 </tr>
@@ -2166,7 +2166,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 Canada</td>
 <td>Well matured, good natural colour</td>
-<td>Nil</td>
+<td>0.0</td>
 <td>3</td>
 <td>0.2</td>
 <td>0.5</td>
@@ -2176,21 +2176,21 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 2 Canada</td>
 <td>Reasonably well matured, may be moderately weather-stained</td>
-<td>Nil</td>
+<td>0.0</td>
 <td>10</td>
 <td>0.5</td>
-<td>2</td>
-<td>1</td>
+<td>2.0</td>
+<td>1.0</td>
 <td>5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Excluded from higher grades on account of weather-staining, may have the odour associated with low-quality seed, not distinctly sour, musty or rancid</td>
-<td>1</td>
+<td>1.0</td>
 <td>10</td>
-<td>1</td>
-<td>5</td>
-<td>2</td>
+<td>1.0</td>
+<td>5.0</td>
+<td>2.0</td>
 <td>8</td>
 </tr>
 </table>
@@ -2229,7 +2229,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CPSR designated as such by Order of the Commission</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.2</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>3</td>
 <td>5</td>
 </tr>
@@ -2248,8 +2248,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>65</td>
 <td>Any class or variety of wheat excluding amber durum and any variety of the class CWSP</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1</td>
-<td>10</td>
+<td>1.0</td>
+<td>10.0</td>
 <td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 <td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 </tr>
@@ -2289,7 +2289,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any variety of the class CPSW designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.2</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>3</td>
 <td>5</td>
 </tr>
@@ -2308,8 +2308,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>65</td>
 <td>Any class or variety of wheat excluding amber durum and any variety of the class CWSP</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1</td>
-<td>10</td>
+<td>1.0</td>
+<td>10.0</td>
 <td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 <td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 </tr>
@@ -2339,7 +2339,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably well matured, sweet, good natural colour</td>
-<td>Not more than 1% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
+<td>Not more than 1.0% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
 <td>2</td>
 <td>0.1</td>
 <td>5</td>
@@ -2355,9 +2355,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 3 Canada</td>
 <td>May have the natural odour associated with low-quality seed, not distinctly sour, musty, rancid, or having any odour that would indicate serious deterioration</td>
-<td>Not more than 2% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
+<td>Not more than 2.0% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
 <td>20</td>
-<td>2</td>
+<td>2.0</td>
 <td>25</td>
 </tr>
 </table>
@@ -2398,7 +2398,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 2 Canada</td>
 <td>29</td>
 <td>Reasonably well matured and sweet</td>
-<td>1</td>
+<td>1.0</td>
 <td>4</td>
 <td>8</td>
 <td>5</td>
@@ -2441,7 +2441,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 2 Canada</td>
 <td>31</td>
 <td>Reasonably well matured and sweet</td>
-<td>1</td>
+<td>1.0</td>
 <td>4</td>
 <td>10</td>
 <td>5</td>
@@ -2486,7 +2486,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>1</td>
 <td>1.5</td>
 <td>4</td>
-<td>1</td>
+<td>1.0</td>
 <td>0.2</td>
 <td>1</td>
 </tr>
@@ -2498,7 +2498,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>1.5</td>
 <td>8</td>
 <td>2.5</td>
-<td>1</td>
+<td>1.0</td>
 <td>3</td>
 </tr>
 <tr>
@@ -2506,10 +2506,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No minimum</td>
 <td>May have a ground or grassy odour, not musty or sour</td>
 <td>5</td>
-<td>5</td>
+<td>5.0</td>
 <td>20</td>
-<td>5</td>
-<td>2</td>
+<td>5.0</td>
+<td>2.0</td>
 <td>5</td>
 </tr>
 </table>
@@ -2551,7 +2551,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Cool, natural odour, good natural colour</td>
 <td>10</td>
 <td>2</td>
-<td>Nil</td>
+<td>0.0</td>
 <td>2</td>
 <td>0.1</td>
 <td>1</td>
@@ -2573,7 +2573,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Cool, natural odour, may be stained</td>
 <td>20</td>
 <td>5</td>
-<td>1</td>
+<td>1.0</td>
 <td>5</td>
 <td>0.5</td>
 <td>3</td>
@@ -2584,9 +2584,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Cool, may be badly stained</td>
 <td>30</td>
 <td>10</td>
-<td>3</td>
+<td>3.0</td>
 <td>8</td>
-<td>2</td>
+<td>2.0</td>
 <td>5</td>
 </tr>
 <tr>
@@ -2595,9 +2595,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Cool, may be badly stained</td>
 <td>40</td>
 <td>15</td>
-<td>5</td>
+<td>5.0</td>
 <td>15</td>
-<td>3</td>
+<td>3.0</td>
 <td>8</td>
 </tr>
 </table>
@@ -2641,24 +2641,24 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 Canada</td>
 <td>Good natural colour</td>
-<td>1</td>
-<td>Trace</td>
+<td>1.0</td>
+<td>0.2</td>
 <td>5</td>
 <td>3</td>
 <td>1</td>
-<td>Nil</td>
-<td>1</td>
+<td>0.00</td>
+<td>1.0</td>
 <td>3</td>
 <td>3</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fair colour</td>
-<td>2</td>
+<td>2.0</td>
 <td>0.5</td>
-<td>9.5</td>
+<td>10</td>
 <td>5</td>
-<td>2.5</td>
+<td>3</td>
 <td>0.05</td>
 <td>1.5</td>
 <td>5</td>
@@ -2667,7 +2667,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>Extra No. 3 Canada</td>
 <td>Fair colour</td>
-<td>2</td>
+<td>2.0</td>
 <td>0.5</td>
 <td>13</td>
 <td>5</td>
@@ -2675,18 +2675,18 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.05</td>
 <td>1.5</td>
 <td>5</td>
-<td>8.5</td>
+<td>9</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Off-colour</td>
-<td>3</td>
-<td>1</td>
+<td>3.0</td>
+<td>1.0</td>
 <td>15</td>
 <td>7</td>
 <td>5</td>
-<td>0.2</td>
-<td>4</td>
+<td>0.20</td>
+<td>4.0</td>
 <td>10</td>
 <td>10</td>
 </tr>
@@ -2737,23 +2737,23 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 Canada</td>
 <td>Good natural colour</td>
 <td>0.5</td>
-<td>2</td>
-<td>2</td>
+<td>2.0</td>
+<td>2.0</td>
 <td>0.1</td>
 <td>5</td>
-<td>Nil</td>
+<td>0.0</td>
 <td>0.3</td>
 <td>2</td>
 <td>2</td>
-<td>0.5</td>
+<td>1</td>
 <td>3</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fair colour</td>
-<td>1</td>
-<td>3</td>
-<td>3.8</td>
+<td>1.0</td>
+<td>3.0</td>
+<td>4.0</td>
 <td>0.2</td>
 <td>8</td>
 <td>0.1</td>
@@ -2766,9 +2766,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 3 Canada</td>
 <td>Off-colour</td>
-<td>2</td>
-<td>5</td>
-<td>6.5</td>
+<td>2.0</td>
+<td>5.0</td>
+<td>7.0</td>
 <td>0.5</td>
 <td>13</td>
 <td>0.5</td>
@@ -2807,7 +2807,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>Canada Feed Peas</td>
-<td>Nil</td>
+<td>0.0</td>
 <td>1</td>
 <td>5</td>
 <td>1</td>
@@ -2840,7 +2840,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably well matured, sweet, good natural colour</td>
-<td>Not more than 1% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
+<td>Not more than 1.0% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
 <td>2</td>
 <td>0.1</td>
 <td>5</td>
@@ -2856,9 +2856,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 3 Canada</td>
 <td>May have the natural odour associated with low-quality seed, not distinctly sour, musty or rancid, or any odour that would indicate serious deterioration</td>
-<td>Not more than 2% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
+<td>Not more than 2.0% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
 <td>20</td>
-<td>2</td>
+<td>2.0</td>
 <td>25</td>
 </tr>
 </table>
@@ -2895,7 +2895,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 Canada, Brown</td>
 <td>Reasonably well matured, sweet, good natural colour</td>
-<td>0.5</td>
+<td>1</td>
 <td>1.5</td>
 <td>0.1</td>
 <td>1.5</td>
@@ -2906,9 +2906,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 2 Canada, Brown</td>
 <td>Fairly well matured, sweet, reasonably good colour</td>
 <td>2</td>
-<td>2</td>
+<td>2.0</td>
 <td>0.2</td>
-<td>3</td>
+<td>3.0</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
@@ -2918,7 +2918,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>5</td>
 <td>3.5</td>
 <td>0.5</td>
-<td>5</td>
+<td>5.0</td>
 <td>0.3</td>
 <td>0.7</td>
 </tr>
@@ -2927,10 +2927,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>May have the natural odour associated with low-quality seed, not any odour that would indicate serious deterioration</td>
 <td>10</td>
 <td>3.5</td>
-<td>1</td>
-<td>10</td>
-<td>1</td>
-<td>3</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>1.0</td>
+<td>3.0</td>
 </tr>
 </table>
 
@@ -2966,7 +2966,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 Canada, Oriental</td>
 <td>Reasonably well matured, sweet, good natural colour</td>
-<td>0.5</td>
+<td>1</td>
 <td>1.5</td>
 <td>0.1</td>
 <td>1.5</td>
@@ -2979,7 +2979,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>2</td>
 <td>1.5</td>
 <td>0.2</td>
-<td>3</td>
+<td>3.0</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
@@ -2989,7 +2989,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>5</td>
 <td>3.5</td>
 <td>0.5</td>
-<td>5</td>
+<td>5.0</td>
 <td>0.3</td>
 <td>0.7</td>
 </tr>
@@ -2998,10 +2998,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>May have the natural odour associated with low-quality seed, not any odour that would indicate serious deterioration</td>
 <td>10</td>
 <td>3.5</td>
-<td>1</td>
-<td>10</td>
-<td>1</td>
-<td>3</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>1.0</td>
+<td>3.0</td>
 </tr>
 </table>
 
@@ -3037,7 +3037,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 Canada, Yellow</td>
 <td>Reasonably well matured, sweet, good natural colour</td>
-<td>0.5</td>
+<td>1</td>
 <td>1.5</td>
 <td>0.1</td>
 <td>1.5</td>
@@ -3050,7 +3050,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>2</td>
 <td>1.5</td>
 <td>0.2</td>
-<td>3</td>
+<td>3.0</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
@@ -3060,7 +3060,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>5</td>
 <td>3.5</td>
 <td>0.5</td>
-<td>5</td>
+<td>5.0</td>
 <td>0.3</td>
 <td>0.7</td>
 </tr>
@@ -3069,10 +3069,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>May have the natural odour associated with low-quality seed, may not have any odour that would indicate serious deterioration</td>
 <td>10</td>
 <td>3.5</td>
-<td>1</td>
-<td>10</td>
-<td>1</td>
-<td>3</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>1.0</td>
+<td>3.0</td>
 </tr>
 </table>
 
@@ -3110,16 +3110,16 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>62</td>
 <td>Fairly well matured, reasonably free from severely damaged kernels</td>
 <td>2</td>
-<td>1</td>
-<td>4</td>
+<td>1.0</td>
+<td>4.0</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from higher grades on account of light weight or damaged kernels</td>
 <td>3</td>
-<td>2</td>
-<td>7</td>
+<td>2.0</td>
+<td>7.0</td>
 </tr>
 </table>
 
@@ -3157,8 +3157,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.01</td>
 <td>0.05</td>
 <td>0.1</td>
-<td>1</td>
-<td>1</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 <tr>
 <td>Canada No. 1 Select</td>
@@ -3168,47 +3168,47 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.05</td>
 <td>0.1</td>
 <td>1.5</td>
-<td>2</td>
+<td>2.0</td>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably good colour</td>
 <td>1</td>
 <td>0.05</td>
-<td>0.1</td>
+<td>0.10</td>
 <td>0.1</td>
 <td>1.5</td>
-<td>2</td>
+<td>2.0</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fairly good colour</td>
 <td>5</td>
-<td>0.1</td>
-<td>0.2</td>
-<td>1</td>
-<td>3</td>
-<td>4</td>
+<td>0.10</td>
+<td>0.20</td>
+<td>1.0</td>
+<td>3.0</td>
+<td>4.0</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Fairly good colour</td>
 <td>5</td>
-<td>0.2</td>
-<td>0.5</td>
-<td>1</td>
-<td>5</td>
-<td>6</td>
+<td>0.20</td>
+<td>0.50</td>
+<td>1.0</td>
+<td>5.0</td>
+<td>6.0</td>
 </tr>
 <tr>
 <td>No. 4 Canada</td>
 <td>Off-colour</td>
 <td>5</td>
-<td>0.2</td>
-<td>0.5</td>
-<td>1</td>
+<td>0.20</td>
+<td>0.50</td>
+<td>1.0</td>
 <td>8.5</td>
-<td>10</td>
+<td>10.0</td>
 </tr>
 </table>
 
@@ -3243,18 +3243,18 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Extra No. 1 Canada</td>
 <td>Uniform in size, good natural colour</td>
 <td>1</td>
-<td>Nil</td>
+<td>0.00</td>
 <td>0.05</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td>1.0</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably good colour</td>
 <td>3</td>
 <td>0.05</td>
-<td>0.1</td>
+<td>0.10</td>
 <td>1.5</td>
 <td>1.5</td>
 <td>3.5</td>
@@ -3264,7 +3264,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Fairly good colour</td>
 <td>3</td>
 <td>0.05</td>
-<td>0.1</td>
+<td>0.10</td>
 <td>1.5</td>
 <td>1.5</td>
 <td>3.5</td>
@@ -3273,31 +3273,31 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 2 Canada</td>
 <td>Fairly good colour</td>
 <td>5</td>
-<td>0.1</td>
-<td>0.2</td>
-<td>3</td>
-<td>3</td>
+<td>0.10</td>
+<td>0.20</td>
+<td>3.0</td>
+<td>3.0</td>
 <td>5.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Fairly good colour</td>
 <td>10</td>
-<td>0.2</td>
-<td>0.5</td>
-<td>5</td>
-<td>5</td>
+<td>0.20</td>
+<td>0.50</td>
+<td>5.0</td>
+<td>5.0</td>
 <td>7.5</td>
 </tr>
 <tr>
 <td>No. 4 Canada</td>
 <td>Off-colour</td>
 <td>15</td>
-<td>0.5</td>
-<td>1</td>
+<td>0.50</td>
+<td>1.00</td>
 <td>8.5</td>
 <td>8.5</td>
-<td>10</td>
+<td>10.0</td>
 </tr>
 </table>
 
@@ -3334,61 +3334,61 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Extra No. 1 Canada</td>
 <td>Uniform in size, good natural colour</td>
 <td>1</td>
-<td>Nil</td>
+<td>0.00</td>
 <td>0.05</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td>1.0</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably good colour</td>
 <td>3</td>
 <td>0.05</td>
-<td>0.1</td>
+<td>0.10</td>
 <td>1.5</td>
 <td>1.5</td>
-<td>2</td>
+<td>2.0</td>
 </tr>
 <tr>
 <td>No. 1 Canada Select</td>
 <td>Fairly good colour</td>
 <td>3</td>
 <td>0.05</td>
-<td>0.1</td>
+<td>0.10</td>
 <td>1.5</td>
 <td>1.5</td>
-<td>2</td>
+<td>2.0</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fairly good colour</td>
 <td>5</td>
-<td>0.1</td>
-<td>0.2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
+<td>0.10</td>
+<td>0.20</td>
+<td>3.0</td>
+<td>3.0</td>
+<td>4.0</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Fairly good colour</td>
 <td>10</td>
-<td>0.2</td>
-<td>0.5</td>
-<td>5</td>
-<td>5</td>
-<td>6</td>
+<td>0.20</td>
+<td>0.50</td>
+<td>5.0</td>
+<td>5.0</td>
+<td>6.0</td>
 </tr>
 <tr>
 <td>No. 4 Canada</td>
 <td>Off-colour</td>
 <td>15</td>
-<td>0.5</td>
-<td>1</td>
+<td>0.50</td>
+<td>1.00</td>
 <td>8.5</td>
 <td>8.5</td>
-<td>10</td>
+<td>10.0</td>
 </tr>
 </table>
 
@@ -3416,22 +3416,22 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 CW</td>
 <td>1</td>
-<td>2</td>
-<td>1</td>
+<td>2.0</td>
+<td>1.0</td>
 <td>0.1</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
 <td>2</td>
 <td>3.5</td>
-<td>2</td>
+<td>2.0</td>
 <td>0.2</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
 <td>3</td>
-<td>5</td>
-<td>3</td>
+<td>5.0</td>
+<td>3.0</td>
 <td>0.2</td>
 </tr>
 </table>
@@ -3468,17 +3468,17 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 2 CW</td>
 <td>Fair colour</td>
-<td>1</td>
+<td>1.0</td>
 <td>2</td>
-<td>1</td>
+<td>1.0</td>
 <td>0.2</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
 <td>Poor colour</td>
-<td>2</td>
+<td>2.0</td>
 <td>3</td>
-<td>2</td>
+<td>2.0</td>
 <td>0.2</td>
 </tr>
 </table>
@@ -3522,9 +3522,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.2</td>
 <td>1</td>
 <td>0.2</td>
-<td>2</td>
-<td>1</td>
-<td>2</td>
+<td>2.0</td>
+<td>1.0</td>
+<td>2.0</td>
 <td>0.1</td>
 <td>0.2</td>
 </tr>
@@ -3535,7 +3535,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>4</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>2</td>
+<td>2.0</td>
 <td>3.5</td>
 <td>0.2</td>
 <td>0.5</td>
@@ -3543,26 +3543,26 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>Extra No. 3 Canada</td>
 <td>Uniform size, fair colour</td>
-<td>2</td>
+<td>2.0</td>
 <td>7</td>
 <td>0.5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
+<td>5.0</td>
+<td>5.0</td>
+<td>5.0</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Poor colour</td>
-<td>3</td>
+<td>3.0</td>
 <td>No limit</td>
-<td>1</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10.0</td>
+<td>10.0</td>
 <td>0.2</td>
-<td>1</td>
+<td>1.0</td>
 </tr>
 </table>
 
@@ -3614,11 +3614,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>3</td>
 <td>0.2</td>
 <td>0.2</td>
-<td>2</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
+<td>2.0</td>
+<td>1.0</td>
+<td>2.0</td>
+<td>2.0</td>
+<td>4.0</td>
 <td>0.1</td>
 <td>0.2</td>
 </tr>
@@ -3630,10 +3630,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.5</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>2</td>
+<td>2.0</td>
 <td>3.5</td>
-<td>5</td>
-<td>8</td>
+<td>5.0</td>
+<td>8.0</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
@@ -3642,11 +3642,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Uniform size, fair colour</td>
 <td>10</td>
 <td>25</td>
-<td>2</td>
+<td>2.0</td>
 <td>0.5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
+<td>5.0</td>
+<td>5.0</td>
+<td>5.0</td>
 <td>N/A</td>
 <td>N/A</td>
 <td>0.2</td>
@@ -3657,15 +3657,15 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Poor colour</td>
 <td>No limit</td>
 <td>No limit</td>
-<td>3</td>
-<td>1</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
+<td>3.0</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10.0</td>
+<td>10.0</td>
 <td>N/A</td>
 <td>N/A</td>
 <td>0.2</td>
-<td>1</td>
+<td>1.0</td>
 </tr>
 </table>
 
@@ -3721,7 +3721,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>3</td>
 <td>10</td>
 <td>0.5</td>
-<td>2</td>
+<td>2.0</td>
 </tr>
 </table>
 
@@ -4547,36 +4547,36 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 1 CW EXPRMTL</td>
-<td>79</td>
+<td>75</td>
 <td>Any wheat variety of the class Canada Western Experimental designated as such by order of the Commission</td>
 <td>65</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>0.4</td>
+<td>0.6</td>
 <td>0.5</td>
 <td>1.5</td>
 </tr>
 <tr>
 <td>No. 2 CW EXPRMTL</td>
-<td>77.5</td>
+<td>72</td>
 <td>Any wheat variety of the class Canada Western Experimental designated as such by order of the Commission</td>
-<td>35</td>
+<td>No minimum</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
-<td>0.2</td>
-<td>0.75</td>
+<td>0.3</td>
+<td>1.2</td>
 <td>1.5</td>
-<td>3</td>
+<td>3.0</td>
 </tr>
 <tr>
 <td>No. 3 CW EXPRMTL</td>
-<td>76.5</td>
+<td>69</td>
 <td>Any wheat variety of the class Canada Western Experimental designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
-<td>0.2</td>
-<td>1.25</td>
+<td>0.5</td>
+<td>2.4</td>
 <td>2.5</td>
-<td>5</td>
+<td>5.0</td>
 </tr>
 <tr>
 <td>CW Feed</td>
@@ -4584,10 +4584,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any class or variety of wheat excluding amber durum and any variety of the class CWSP</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1</td>
-<td>10</td>
-<td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
-<td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10.0%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
+<td>10.0%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 </tr>
 </table>
 
@@ -4707,7 +4707,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 CWHWS</td>
 <td>75</td>
 <td>Any variety of the class CWHWS designated as such by order of the Commission</td>
-<td>10</td>
+<td>10.0</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.04</td>
 <td>0.01</td>
@@ -4736,7 +4736,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No minimum</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.04</td>
-<td>0.015</td>
+<td>0.01</td>
 <td>0.5</td>
 <td>0.04</td>
 <td>0.06</td>
@@ -4748,12 +4748,12 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any class or variety of wheat excluding amber durum and any variety of the class CWSP</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>0.1</td>
+<td>0.10</td>
 <td>0.03</td>
-<td>1</td>
-<td>0.1</td>
-<td>0.1</td>
-<td>10</td>
+<td>1.0</td>
+<td>0.10</td>
+<td>0.10</td>
+<td>10.0</td>
 </tr>
 </table>
 
@@ -4828,7 +4828,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
-<th>Minimum Test Weight</th>
+<th>Minimum Test Weight</th>
 <th>Variety</th>
 <th>Minimum Protein</th>
 <th>Degree of Soundness</th>
@@ -4854,11 +4854,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 1 CNHR</td>
 <td>75</td>
 <td>Any variety of the class CNHR designated as such by order of the Commission</td>
-<td>11</td>
+<td>11.0</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.6</td>
-<td>0.75</td>
+<td>0.8</td>
 <td>2.3</td>
 </tr>
 <tr>
@@ -4889,10 +4889,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>Any class or variety of wheat excluding amber durum and any variety of the class CWSP</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1</td>
-<td>10</td>
-<td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
-<td>10%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
+<td>1.0</td>
+<td>10.0</td>
+<td>10.0%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
+<td>10.0%, either alone or in combination with each other, amber durum and any variety of the class CWSP</td>
 </tr>
 </table>
 
@@ -4923,7 +4923,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>72</td>
 <td>Any variety of the class CWSP designated as such by order of the Commission</td>
 <td>2.5</td>
-<td>1</td>
+<td>1.0</td>
 <td>0.03</td>
 <td>5</td>
 </tr>
@@ -4932,13 +4932,13 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>65</td>
 <td>Any variety of the class CWSP designated as such by order of the Commission</td>
 <td>2.5</td>
-<td>4</td>
+<td>4.0</td>
 <td>0.03</td>
 <td>10</td>
 </tr>
 </table>
 
-> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1; SOR/2014-150, ss. 1 to 4; SOR/2014-194, s. 1; SOR/2016-204, ss. 1 to 13; SOR/2019-211, s. 1; SOR/2019-211, s. 26; SOR/2019-211, s. 27; SOR/2019-211, s. 28; SOR/2019-211, s. 29; SOR/2019-211, s. 30; SOR/2019-211, s. 31; SOR/2019-211, s. 32; SOR/2019-211, s. 34; SOR/2019-211, s. 36; SOR/2019-211, s. 37.
+> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1; SOR/2014-150, ss. 1 to 4; SOR/2014-194, s. 1; SOR/2016-204, ss. 1 to 13SOR/2019-211, s. 1SOR/2019-211, s. 2SOR/2019-211, s. 3SOR/2019-211, s. 4SOR/2019-211, s. 5SOR/2019-211, s. 6SOR/2019-211, s. 7SOR/2019-211, s. 8SOR/2019-211, s. 9SOR/2019-211, s. 10SOR/2019-211, s. 11SOR/2019-211, s. 12SOR/2019-211, s. 13SOR/2019-211, s. 14(E)SOR/2019-211, s. 15SOR/2019-211, s. 16SOR/2019-211, s. 17SOR/2019-211, s. 18SOR/2019-211, s. 19SOR/2019-211, s. 20SOR/2019-211, s. 21SOR/2019-211, s. 22SOR/2019-211, s. 23SOR/2019-211, s. 24SOR/2019-211, s. 25SOR/2019-211, s. 26SOR/2019-211, s. 27SOR/2019-211, s. 28SOR/2019-211, s. 29SOR/2019-211, s. 30SOR/2019-211, s. 31SOR/2019-211, s. 32SOR/2019-211, s. 33SOR/2019-211, s. 34SOR/2019-211, s. 35SOR/2019-211, s. 36SOR/2019-211, s. 37SOR/2019-211, s. 38SOR/2019-211, s. 39SOR/2019-211, s. 40
 
 
 
@@ -5389,7 +5389,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/87-476, S. 2; SOR/89-395, S. 2(F); SOR/2004-19
 </td>
 <td>*Je soussigné déclare solennellement que :*
 
-**a)** *je suis un producteur au sens de la Loi sur les grains du Canada;*
+**a)** *je suis un producteur au sens de la [Loi sur les grains du Canada](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md);*
 
 
 
@@ -5470,7 +5470,7 @@ Authorized Signature / *Signature autorisée*
 <td>The information in this document is required by the Canadian Grain Commission for the purpose of allocating railway cars to grain producers. Some information may be accessible or protected under the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md). Information that could cause you or your organization harm if released is protected from disclosure under section 20 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md).
 
 </td>
-<td>*Les renseignements demandés dans la présente formule visent à permettre à la Commission canadienne des grains d’affecter des wagons de chemin de fer aux producteurs de grain. Certains renseignements peuvent être accessibles ou protégés aux termes de la Loi sur l’accès à l’information. Les renseignements dont la divulgation pourrait porter préjudice à vous ou à votre organisme sont protégés aux termes de l’article 20 de la Loi sur l’accès à l’information.*
+<td>*Les renseignements demandés dans la présente formule visent à permettre à la Commission canadienne des grains d’affecter des wagons de chemin de fer aux producteurs de grain. Certains renseignements peuvent être accessibles ou protégés aux termes de la [Loi sur l’accès à l’information](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md). Les renseignements dont la divulgation pourrait porter préjudice à vous ou à votre organisme sont protégés aux termes de l’article 20 de la [Loi sur l’accès à l’information](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md).*
 
 </td>
 </tr>
@@ -5523,7 +5523,7 @@ _________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 DATED: _________________________
 
 
-> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E); SOR/2011-45, ss. 3, 4; SOR/2012-153, ss. 2 to 4; SOR/2013-111, ss. 18, 19, 20(F); SOR/2016-256, s. 3.
+> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E); SOR/2011-45, ss. 3, 4; SOR/2012-153, ss. 2 to 4; SOR/2013-111, ss. 18, 19, 20(F); SOR/2016-256, s. 3
 
 
 
@@ -5560,5 +5560,17 @@ DATED: _________________________
 
 ### **SCHEDULE XIII** 
 [Repealed, SOR/2002-255, s. 21]
+
+
+
+
+## RELATED PROVISIONS
+
+######                     — SOR/2001-273, s. 10(2)
+
+**10** 
+
+- **(2)** Subsection (1) applies only in respect of licences issued on or after the day on which these Regulations come into force.
+
 
 
