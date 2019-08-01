@@ -359,7 +359,9 @@ Sanctionnée sur le 21 juin 2019
 
 **Restriction**
 
-- **(2)** L’Office de surveillance ne peut enquêter sur une plainte qui constitue un grief susceptible d’être réglé par la procédure de griefs établie en vertu de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+- **(2)** L’Office de surveillance ne peut enquêter sur une plainte qui constitue un grief susceptible d’être réglé par la procédure de griefs établie en vertu de la [Loi sur le Centre de la sécurité des télécommunications](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2076.md) ou de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+> 2019, ch. 13, art. 2 « 17 »2019, ch. 13, art. 48
+
 
 
 
@@ -720,7 +722,7 @@ Sanctionnée sur le 21 juin 2019
 
 **Activités politiques**
 
-- **(3)** La partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md) s’applique au directeur général et aux employés du Secrétariat. Pour l’application de cette partie, le directeur général est réputé être un ***administrateur général*** au sens du paragraphe 2(1) de cette loi, et les employés du Secrétariat, des fonctionnaires, au sens de ce paragraphe.
+- **(3)** La partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’applique au directeur général et aux employés du Secrétariat. Pour l’application de cette partie, le directeur général est réputé être un ***administrateur général*** au sens du paragraphe 2(1) de cette loi, et les employés du Secrétariat, des fonctionnaires, au sens de ce paragraphe.
 
 
 
@@ -1016,26 +1018,7 @@ Sanctionnée sur le 21 juin 2019
 
 
 
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2019, ch. 13, art. 48
-
-
-**
-> Partie 3 de la présente loi
-**
-
-**48** Dès le premier jour où l’article 2 et l’article 76 de la présente loi sont tous deux en vigueur, le paragraphe 17(2) de la Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement est remplacé par ce qui suit :
-
-**Restriction**
-
-- **(2)** L’Office de surveillance ne peut enquêter sur une plainte qui constitue un grief susceptible d’être réglé par la procédure de griefs établie en vertu de la [Loi sur le Centre de la sécurité des télécommunications](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2076.md) ou de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
-
-
-
-######           — 2019, ch. 13, art. 82
+######           — 2019, ch. 13, al. 82(1)f) et par. (2)
 
 
 **Mentions**
@@ -1043,17 +1026,7 @@ Sanctionnée sur le 21 juin 2019
 **82** 
 
 - **(1)** La mention de l’ancien ministère dans les textes ci-après vaut mention du nouveau ministère :
-	- **a)** l’annexe I de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), sous l’intertitre « Autres institutions fédérales »;
-	- **b)** les annexes I.1, V et VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-	- **c)** l’annexe de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), sous l’intertitre « Autres institutions fédérales »;
-	- **d)** l’annexe de la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md);
-	- **e)** l’annexe 3 de la Loi sur la communication d’information ayant trait à la sécurité du Canada;
 	- **f)** la Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement;
-	- **g)** la [Loi sur le commissaire au renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2050.md).
-
-**Autres mentions**
-
-- **(1.1)** La mention de l’ancien ministère dans toute loi fédérale, autre qu’une loi visée au paragraphe (1), et dans ses textes d’application vaut mention, sauf indication contraire du contexte, du nouveau ministère.
 
 **Administrateur général**
 
