@@ -29,7 +29,7 @@ Autorités habilitantes :
 ***pourcentage de l’écart brut de manutention***[Abrogée, DORS/2013-111, art. 1]
 
 ***substance dangereuse*** Tout pesticide, dessiccant ou inoculant. (*hazardous substance*)
-> DORS/2000-213, art. 2; DORS/2001-273, art. 1; DORS/2002-255, art. 1; DORS/2004-198, art. 1; DORS/2013-111, art. 1.
+> DORS/2000-213, art. 2; DORS/2001-273, art. 1; DORS/2002-255, art. 1; DORS/2004-198, art. 1; DORS/2013-111, art. 1
 
 
 
@@ -44,13 +44,13 @@ Autorités habilitantes :
 
 
 **2** Les droits exigés par la Commission pour les services fournis en application de la Loi figurent à l’annexe 1.
-> DORS/78-55, art. 1; DORS/88-408, art. 1; DORS/89-376, art. 14(F); DORS/95-386, art. 1; DORS/96-508, art. 1; DORS/2000-213, art. 2; DORS/2001-273, art. 2(A); DORS/2003-284, art. 1; DORS/2004-198, art. 2.
+> DORS/78-55, art. 1; DORS/88-408, art. 1; DORS/89-376, art. 14(F); DORS/95-386, art. 1; DORS/96-508, art. 1; DORS/2000-213, art. 2; DORS/2001-273, art. 2(A); DORS/2003-284, art. 1; DORS/2004-198, art. 2
 
 
 
 
 **2.1** Le 1<sup>er</sup> avril 2019 et, ensuite, le 1<sup>er</sup> avril de chaque année, les droits fixés à l’annexe 1 seront rajustés en fonction du taux de variation sur douze mois de l’indice d’ensemble des prix à la consommation du Canada du mois d’avril de l’exercice précédent, publié par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md). Tous les droits rajustés sont arrondis au cent près.
-> DORS/2018-33, art. 1.
+> DORS/2018-33, art. 1
 
 
 
@@ -60,7 +60,7 @@ Autorités habilitantes :
 
 
 **3** Le serment ou l’affirmation solennelle professionnels que doivent prêter les commissaires figurent à la formule 1 de l’annexe 2.
-> DORS/78-55, art. 2; DORS/81-610, art. 1; DORS/96-508, art. 2; DORS/2000-213, art. 2; DORS/2001-273, art. 3; DORS/2003-284, art. 2.
+> DORS/78-55, art. 2; DORS/81-610, art. 1; DORS/96-508, art. 2; DORS/2000-213, art. 2; DORS/2001-273, art. 3; DORS/2003-284, art. 2
 
 
 
@@ -75,7 +75,7 @@ Autorités habilitantes :
 
 
 **4** Le serment ou l’affirmation solennelle professionnels que doivent prêter les membres des comités de normalisation des grains, à l’exception des commissaires et des agents de l’administration publique fédérale, figurent à la formule 2 de l’annexe 2.
-> DORS/96-508, art. 3; DORS/2000-213, art. 2; DORS/2001-273, art. 4; DORS/2003-284, art. 3.
+> DORS/96-508, art. 3; DORS/2000-213, art. 2; DORS/2001-273, art. 4; DORS/2003-284, art. 3
 
 
 
@@ -93,7 +93,7 @@ Autorités habilitantes :
 - **(1)** Les graines suivantes sont désignées comme grain pour l’application de la Loi : avoine, blé, canola, colza, féveroles, graine de carthame, graine de moutarde, graine de tournesol, grain mélangé, haricots, lentilles, lin, maïs, orge, pois, pois chiches, sarrasin, seigle, soja et triticale.
 
 - **(2)** Les appellations de grade de grain et les caractéristiques correspondant aux grades sont celles indiquées à l’annexe 3.
-> DORS/96-508, art. 4; DORS/2000-213, art. 2; DORS/2003-285, art. 1; DORS/2013-111, art. 3.
+> DORS/96-508, art. 4; DORS/2000-213, art. 2; DORS/2003-285, art. 1; DORS/2013-111, art. 3
 
 
 
@@ -112,7 +112,7 @@ Autorités habilitantes :
 	- **a)** au moins six mois après cette date, si l’échantillon est prélevé lors du transbordement du grain d’une installation à un navire;
 	- **b)** [Abrogé, DORS/2003-284, art. 5]
 	- **c)** au moins vingt jours après cette date, dans tout autre cas.
-> DORS/86-813, art. 1; DORS/89-395, art. 2(F); DORS/96-508, art. 5; DORS/2000-213, art. 2; DORS/2001-273, art. 5; DORS/2003-284, art. 5; DORS/2004-198, art. 3; DORS/2005-361, art. 1; DORS/2006-206, art. 1; DORS/2013-111, art. 4; DORS/2015-137, art. 1.
+> DORS/86-813, art. 1; DORS/89-395, art. 2(F); DORS/96-508, art. 5; DORS/2000-213, art. 2; DORS/2001-273, art. 5; DORS/2003-284, art. 5; DORS/2004-198, art. 3; DORS/2005-361, art. 1; DORS/2006-206, art. 1; DORS/2013-111, art. 4; DORS/2015-137, art. 1
 
 
 
@@ -122,7 +122,7 @@ Autorités habilitantes :
 
 
 **6.1** Le négociant en grains titulaire d’une licence ou l’exploitant d’une installation agréée qui demande une inspection officielle du grain informe la Commission de l’origine du grain, ou du fait que le grain est mélangé, selon la formule appropriée fournie par la Commission.
-> DORS/2005-217, art. 1.
+> DORS/2005-217, art. 1
 
 
 
@@ -134,7 +134,7 @@ Autorités habilitantes :
 **6.2** L’échantillon de grain prélevé dans le cadre d’une inspection prévue aux paragraphes 70(1) ou (2) ou 70.2(1) ou à l’article 70.3 de la Loi est :
 - **a)** d’une part, pris conformément au chapitre 2 du document de la Commission intitulé Manuel des systèmes d’échantillonnage et Guide d’approbation, dans sa version révisée au 14 janvier 2014, laquelle entre en vigueur le 1<sup>er</sup> août 2015;
 - **b)** d’autre part, conservé pendant au moins sept jours après sa date de classement.
-> DORS/2013-111, art. 5; DORS/2015-137, art. 2.
+> DORS/2013-111, art. 5; DORS/2015-137, art. 2
 
 
 
@@ -165,7 +165,7 @@ Autorités habilitantes :
 - **(7)** La décision de l’inspecteur en chef des grains pour le Canada est finale.
 
 - **(8)** Les échantillons non officiels sont conservés pendant la période commençant à la date de classement de l’échantillon et se terminant au moins vingt jours après celle-ci.
-> DORS/89-376, art. 11(F), 14(F) et 16(F); DORS/2000-213, art. 2; DORS/2003-284, art. 6; DORS/2004-198, art. 4; DORS/2005-361, art. 2; DORS/2013-111, art. 6.
+> DORS/89-376, art. 11(F), 14(F) et 16(F); DORS/2000-213, art. 2; DORS/2003-284, art. 6; DORS/2004-198, art. 4; DORS/2005-361, art. 2; DORS/2013-111, art. 6
 
 
 
@@ -181,7 +181,7 @@ Autorités habilitantes :
 - **(2)** [Abrogé, DORS/2005-361, art. 3]
 
 - **(3)** Si la Commission ne reçoit aucune offre d’achat pour les échantillons officiels ou non officiels, ceux-ci sont jetés.
-> DORS/89-376, art. 1 et 12(F); DORS/89-395, art. 2(F); DORS/96-508, art. 7; DORS/2000-213, art. 2; DORS/2004-198, art. 5; DORS/2005-361, art. 3; DORS/2006-206, art. 2.
+> DORS/89-376, art. 1 et 12(F); DORS/89-395, art. 2(F); DORS/96-508, art. 7; DORS/2000-213, art. 2; DORS/2004-198, art. 5; DORS/2005-361, art. 3; DORS/2006-206, art. 2
 
 
 
@@ -197,7 +197,7 @@ Autorités habilitantes :
 **9** Le certificat d’inspection visé à l’article 32 de la Loi est établi selon :
 - **a)** la formule 12 de l’annexe 4, dans le cas du grain canadien autre que celui visé à l’alinéa b);
 - **b)** la formule 13 de l’annexe 4, dans le cas du grain canadien inspecté au moment de son déchargement d’une installation terminale.
-> DORS/84-626, art. 1; DORS/85-677, art. 1(F); DORS/87-476, art. 1(F); DORS/89-393, art. 2; DORS/89-395, art. 2(F); DORS/93-197, art. 1; DORS/2000-213, art. 2; DORS/2003-284, art. 7; DORS/2004-198, art. 6; DORS/2013-111, art. 7.
+> DORS/84-626, art. 1; DORS/85-677, art. 1(F); DORS/87-476, art. 1(F); DORS/89-393, art. 2; DORS/89-395, art. 2(F); DORS/93-197, art. 1; DORS/2000-213, art. 2; DORS/2003-284, art. 7; DORS/2004-198, art. 6; DORS/2013-111, art. 7
 
 
 
@@ -215,25 +215,25 @@ Autorités habilitantes :
 - **b)** le nom et l’emplacement de l’installation ou du lieu où l’échantillon officiel a été prélevé;
 - **c)** la date de l’inspection officielle;
 - **d)** le grade attribué au grain à la suite de l’inspection officielle ainsi que les impuretés que le grain contient.
-> DORS/86-813, art. 2; DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/93-197, art. 2; DORS/96-508, art. 9; DORS/2000-213, art. 2; DORS/2003-284, art. 8; DORS/2004-198, art. 7; DORS/2013-111, art. 8.
+> DORS/86-813, art. 2; DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/93-197, art. 2; DORS/96-508, art. 9; DORS/2000-213, art. 2; DORS/2003-284, art. 8; DORS/2004-198, art. 7; DORS/2013-111, art. 8
 
 
 
 
 **12** Pour l’application de l’article 40 de la Loi, est recevable en vertu de l’article 39 de la Loi l’appel portant sur du grain ayant fait l’objet d’une inspection officielle lors de son déchargement d’une installation primaire en vue de son chargement dans une installation terminale.
-> DORS/89-376, art. 14(F); DORS/2000-213, art. 2; DORS/2001-273, art. 7; DORS/2004-198, art. 7; DORS/2013-111, art. 8.
+> DORS/89-376, art. 14(F); DORS/2000-213, art. 2; DORS/2001-273, art. 7; DORS/2004-198, art. 7; DORS/2013-111, art. 8
 
 
 
 
 **13** L’inspecteur en chef des grains pour le Canada qui a été saisi de l’appel en communique sans délai le résultat par écrit à l’appelant et à l’exploitant de l’installation où le grain a fait l’objet d’une inspection officielle.
-> DORS/2000-213, art. 2; DORS/2001-273, art. 7; DORS/2004-198, art. 7; DORS/2013-111, art. 8.
+> DORS/2000-213, art. 2; DORS/2001-273, art. 7; DORS/2004-198, art. 7; DORS/2013-111, art. 8
 
 
 
 
 **14** En cas de changement de grade par suite d’un appel interjeté en application de l’article 39 de la Loi devant l’inspecteur en chef des grains pour le Canada, le certificat d’inspection corrigé au titre de l’article 41 de la Loi porte la date de la décision de l’appel.
-> DORS/89-376, art. 14(F); DORS/96-508, art. 10(A); DORS/2000-213, art. 2; DORS/2004-198, art. 7; DORS/2013-111, art. 8.
+> DORS/89-376, art. 14(F); DORS/96-508, art. 10(A); DORS/2000-213, art. 2; DORS/2004-198, art. 7; DORS/2013-111, art. 8
 
 
 
@@ -245,7 +245,7 @@ Autorités habilitantes :
 
 
 ### Exemptions
-> [DORS/2001-273, art. 8]
+> DORS/2001-273, art. 8
 
 
 
@@ -261,7 +261,7 @@ Autorités habilitantes :
 	- **a)** il ne se livre au commerce ou à la manutention du grain de l’Ouest qu’à titre de mandataire pour les titulaires de licences, ceux-ci devant fournir à la Commission une garantie à l’égard de toute transaction effectuée par lui sur ce grain;
 	- **b)** il ne se livre pas au commerce ou à la manutention du grain de l’Ouest sauf le grain de semence;
 	- **c)** il n’achète pas du grain de l’Ouest des producteurs et n’assume aucune obligation envers eux quant au paiement de ce grain.
-> DORS/89-376, art. 14(F); DORS/89-395, art. 1; DORS/93-197, art. 3; DORS/96-508, art. 11; DORS/2000-213, art. 2; DORS/2001-273, art. 9; DORS/2002-255, art. 4; DORS/2004-198, art. 8; DORS/2006-206, art. 3.
+> DORS/89-376, art. 14(F); DORS/89-395, art. 1; DORS/93-197, art. 3; DORS/96-508, art. 11; DORS/2000-213, art. 2; DORS/2001-273, art. 9; DORS/2002-255, art. 4; DORS/2004-198, art. 8; DORS/2006-206, art. 3
 
 
 
@@ -282,7 +282,7 @@ Autorités habilitantes :
 - **e)** maintenir en bon état tous ces bâtiments ainsi que l’équipement connexe;
 - **e.1)** maintenir propres et accessibles le matériel d’échantillonnage et de pesée ainsi que les aires autour de celui-ci;
 - **f)** afficher en permanence la licence dans un endroit bien en vue de l’installation.
-> DORS/89-376, art. 14(F) et 16(F); DORS/2000-213, art. 2; DORS/2001-273, art. 10; DORS/2002-255, art. 5; DORS/2003-284, art. 9(A); DORS/2004-198, art. 9; DORS/2005-361, art. 4.
+> DORS/89-376, art. 14(F) et 16(F); DORS/2000-213, art. 2; DORS/2001-273, art. 10; DORS/2002-255, art. 5; DORS/2003-284, art. 9(A); DORS/2004-198, art. 9; DORS/2005-361, art. 4
 
 
 
@@ -296,19 +296,19 @@ Autorités habilitantes :
 - **b)** si un bon de paiement ou une autre lettre de change est émis sur réception du grain ou est plus tard émis sur remise d’un récépissé ou d’un accusé de réception du grain, la plus courte des périodes suivantes :
 	- **(i)** quatre-vingt-dix jours,
 	- **(ii)** la période se terminant trente jours après la date de la délivrance du bon de paiement ou de la lettre de change.
-> DORS/2000-213, art. 2; DORS/2005-361, art. 5.
+> DORS/2000-213, art. 2; DORS/2005-361, art. 5
 
 
 
 
 **18** Aucune garantie n’est exigée du demandeur d’une licence ou du titulaire de licence qui est un mandataire de Sa Majesté du chef du Canada.
-> DORS/89-376, art. 2, 14(F) et 16(F); DORS/96-508, art. 12; DORS/2000-213, art. 2.
+> DORS/89-376, art. 2, 14(F) et 16(F); DORS/96-508, art. 12; DORS/2000-213, art. 2
 
 
 
 
 **19** Pour l’application du paragraphe 49(5) de la Loi, le pourcentage à l’égard duquel la garantie peut être réalisée ou recouvrée est de 100 %.
-> DORS/89-376, art. 10(F), 14(F) et 16(F); DORS/89-393, art. 3; DORS/93-24, art. 1; DORS/2000-213, art. 2.
+> DORS/89-376, art. 10(F), 14(F) et 16(F); DORS/89-393, art. 3; DORS/93-24, art. 1; DORS/2000-213, art. 2
 
 
 
@@ -318,7 +318,7 @@ Autorités habilitantes :
 
 
 **20** Le titulaire de licence doit conserver pendant au moins six ans les documents se rapportant au grain reçu, stocké, expédié ou autrement écoulé par lui, lesquels précisent si le grain a été acheté, reçu pour stockage ou reçu pour vente à commission.
-> DORS/85-677, art. 3; DORS/89-376, art. 10(F), 11(F), 14(F) et 16(F); DORS/89-394, art. 1; DORS/93-24, art. 2; DORS/96-508, art. 13; DORS/2000-213, art. 2.
+> DORS/85-677, art. 3; DORS/89-376, art. 10(F), 11(F), 14(F) et 16(F); DORS/89-394, art. 1; DORS/93-24, art. 2; DORS/96-508, art. 13; DORS/2000-213, art. 2
 
 
 
@@ -329,7 +329,7 @@ Autorités habilitantes :
 
 
 ### Demande de licence
-> [DORS/2002-255, art. 6]
+> DORS/2002-255, art. 6
 
 
 
@@ -340,7 +340,7 @@ Autorités habilitantes :
 - **(2)** [Abrogé, DORS/2004-198, art. 10]
 
 - **(3)** Il verse à la Commission, au moins dix jours avant le début de la période de validité de sa licence, les droits prévus à l’annexe 1 pour l’obtention d’une licence et la garantie fixée par la Commission au titre de l’article 45 de la Loi.
-> DORS/89-376, art. 16(F); DORS/96-508, art. 14; DORS/2000-213, art. 2; DORS/2001-273, art. 11; DORS/2003-284, art. 10; DORS/2004-198, art. 10.
+> DORS/89-376, art. 16(F); DORS/96-508, art. 14; DORS/2000-213, art. 2; DORS/2001-273, art. 11; DORS/2003-284, art. 10; DORS/2004-198, art. 10
 
 
 
@@ -354,7 +354,7 @@ Autorités habilitantes :
 
 
 **23** Le négociant en grains, l’exploitant d’installation primaire et l’exploitant d’installation de transformation titulaires d’une licence doivent, au plus tard le 15<sup>e</sup> jour de chaque mois, présenter à la Commission, sur une formule appropriée fournie par la Commission ou sur tout support électronique accepté par celle-ci, un rapport sur leurs obligations en cours visant le paiement ou la livraison de grain envers les détenteurs de récépissés, d’accusés de réception ou de bons de paiement et sur le montant de la garantie disponible pour satisfaire à ces obligations à la fin du mois précédent.
-> DORS/84-627, art. 2; DORS/89-376, art. 12(F) et 16(F); DORS/89-395, art. 2(F); DORS/96-508, art. 16; DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2008-314, art. 1; DORS/2016-256, art. 1.
+> DORS/84-627, art. 2; DORS/89-376, art. 12(F) et 16(F); DORS/89-395, art. 2(F); DORS/96-508, art. 16; DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2008-314, art. 1; DORS/2016-256, art. 1
 
 
 
@@ -364,7 +364,7 @@ Autorités habilitantes :
 
 
 **24** Le négociant en grains titulaire d’une licence doit présenter chaque mois à la Commission un rapport sur ses opérations du mois précédent, sur une formule appropriée fournie par la Commission ou sur tout support électronique accepté par celle-ci.
-> DORS/84-791, art. 2; DORS/89-376, art. 16(F); DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2004-198, art. 11(A); DORS/2008-314, art. 1.
+> DORS/84-791, art. 2; DORS/89-376, art. 16(F); DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2004-198, art. 11(A); DORS/2008-314, art. 1
 
 
 
@@ -378,7 +378,7 @@ Autorités habilitantes :
 
 
 **25** Le titulaire d’une licence d’exploitation d’une installation de transformation doit présenter chaque semaine à la Commission un rapport sur ses opérations de la semaine précédente, sur tout support électronique accepté par celle-ci.
-> DORS/89-376, art. 16(F); DORS/93-25, art. 1; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2008-314, art. 1.
+> DORS/89-376, art. 16(F); DORS/93-25, art. 1; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2008-314, art. 1
 
 
 
@@ -389,14 +389,14 @@ Autorités habilitantes :
 
 
 ### Rapports sur les installations primaires
-> [DORS/2001-273, art. 13]
+> DORS/2001-273, art. 13
 
 
 
 **26** Le titulaire d’une licence d’exploitation d’une installation primaire doit présenter à la Commission :
 - **a)** chaque semaine, un rapport sur ses opérations de la semaine précédente, sur tout support électronique accepté par la Commission;
 - **b)** au plus tard le 15 octobre de chaque campagne agricole, un rapport sur ses opérations au cours de la campagne précédente à chacune des installations primaires qu’il exploite, sur la formule appropriée fournie par la Commission ou sur tout support électronique accepté par celle-ci.
-> DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 2; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2008-314, art. 2.
+> DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 2; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2008-314, art. 2
 
 
 
@@ -406,7 +406,7 @@ Autorités habilitantes :
 
 
 **27** L’exploitant d’une installation terminale présente chaque jour à la Commission un rapport sur les opérations du jour précédent, sur tout support électronique accepté par celle-ci.
-> DORS/84-626, art. 3; DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 3; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2002-255, art. 8; DORS/2008-314, art. 3; DORS/2013-111, art. 9.
+> DORS/84-626, art. 3; DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 3; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2002-255, art. 8; DORS/2008-314, art. 3; DORS/2013-111, art. 9
 
 
 
@@ -427,7 +427,7 @@ Autorités habilitantes :
 **29** Pour toute période visée au paragraphe 53(2) de la Loi, le plafond spécial pour les frais de stockage dans une installation :
 - **a)** si la période a duré sept jours, pour les sept jours qui suivent, est de 75 % des frais de stockage qu’aurait pu réclamer l’exploitant de l’installation pour ce genre de stockage;
 - **b)** si la période a duré quatorze jours, pour le reste de la période, est de 50 % des frais de stockage qu’aurait pu réclamer l’exploitant de l’installation pour ce genre de stockage.
-> DORS/89-376, art. 14(F) et 16(F); DORS/96-508, art. 18; DORS/2000-213, art. 2.
+> DORS/89-376, art. 14(F) et 16(F); DORS/96-508, art. 18; DORS/2000-213, art. 2
 
 
 
@@ -437,7 +437,7 @@ Autorités habilitantes :
 
 
 **29.1** L’exploitant d’une installation primaire agréée affiche en permanence dans un endroit bien en vue de l’installation le tarif correspondant à celui déposé auprès de la Commission en application du paragraphe 50(1) de la Loi.
-> DORS/2004-198, art. 12.
+> DORS/2004-198, art. 12
 
 
 
@@ -448,7 +448,7 @@ Autorités habilitantes :
 
 
 **29.2** Dans la présente partie, ***période de livraison*** s’entend, à l’égard d’un contrat d’achat de grain, de la période qui y est précisée et au cours de laquelle le grain doit être livré au titulaire de licence par le producteur. (**delivery period**)
-> DORS/2014-191, art. 1.
+> DORS/2014-191, art. 1
 
 
 
@@ -463,7 +463,7 @@ Autorités habilitantes :
 	- **c)** est exigible à la date de la livraison complète du grain par le producteur ou à toute autre date convenue entre le producteur et le titulaire de licence.
 
 - **(3)** Dans le cas où le titulaire de licence et le producteur conviennent d’une pénalité quotidienne, la pénalité est exigible pour chacun des jours de la période commençant le lendemain de l’expiration de la période de livraison et se terminant à la date de l’acceptation et de la réception par le titulaire de licence de la quantité totale de grain indiquée au contrat ou à toute autre date convenue entre le titulaire de licence et le producteur.
-> DORS/2014-191, art. 1; DORS/2016-256, art. 2.
+> DORS/2014-191, art. 1; DORS/2016-256, art. 2
 
 
 
@@ -478,7 +478,7 @@ Autorités habilitantes :
 
 
 **30** La marge maximale de perte de poids qui peut être déduite du grain livré à toute installation agréée est de zéro.
-> DORS/89-376, art. 16(F); DORS/96-508, art. 19(A); DORS/2000-213, art. 2; DORS/2003-284, art. 12; DORS/2004-198, art. 13; DORS/2011-45, art. 1.
+> DORS/89-376, art. 16(F); DORS/96-508, art. 19(A); DORS/2000-213, art. 2; DORS/2003-284, art. 12; DORS/2004-198, art. 13; DORS/2011-45, art. 1
 
 
 
@@ -498,7 +498,7 @@ Autorités habilitantes :
 - **(2)** L’exploitant d’une installation primaire agréée qui achète du grain doit, dès son déchargement, délivrer un bon de paiement.
 
 - **(3)** L’exploitant d’une installation primaire agréée doit, dès le déchargement du grain qui y est livré pour stockage, délivrer un récépissé d’installation primaire.
-> DORS/78-55, art. 3; DORS/84-626, art. 4; DORS/85-678, art. 3; DORS/89-376, art. 12(F), 14(F) et 20(F); DORS/95-386, art. 4; DORS/96-508, art. 22; DORS/2000-213, art. 2; DORS/2003-284, art. 14.
+> DORS/78-55, art. 3; DORS/84-626, art. 4; DORS/85-678, art. 3; DORS/89-376, art. 12(F), 14(F) et 20(F); DORS/95-386, art. 4; DORS/96-508, art. 22; DORS/2000-213, art. 2; DORS/2003-284, art. 14
 
 
 
@@ -508,7 +508,7 @@ Autorités habilitantes :
 
 
 **34** Pour l’application des articles 35 et 36, lors de la livraison de grain à une installation primaire agréée, une portion pesant au moins un kilogramme de l’échantillon de grain que l’exploitant de l’installation et la personne livrant le grain jugent représentatif est prélevée sur chaque chargement et conservée à l’installation.
-> DORS/2000-213, art. 2; DORS/2002-255, art. 9; DORS/2004-198, art. 14; DORS/2008-314, art. 4.
+> DORS/2000-213, art. 2; DORS/2002-255, art. 9; DORS/2004-198, art. 14; DORS/2008-314, art. 4
 
 
 
@@ -525,7 +525,7 @@ Autorités habilitantes :
 	- **c)** en arrondissant la quantité d’impuretés à 0,1 % près.
 
 - **(2)** Si la personne qui livre du grain à une installation primaire agréée en fait la demande, l’analyse permettant de déterminer les impuretés contenues dans le grain doit avoir lieu en sa présence.
-> DORS/84-626, art. 6; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 5; DORS/96-508, art. 23; DORS/2000-213, art. 2; DORS/2002-255, art. 10; DORS/2008-314, art. 5; DORS/2013-111, art. 10.
+> DORS/84-626, art. 6; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 5; DORS/96-508, art. 23; DORS/2000-213, art. 2; DORS/2002-255, art. 10; DORS/2008-314, art. 5; DORS/2013-111, art. 10
 
 
 
@@ -557,7 +557,7 @@ Autorités habilitantes :
 - **(6)** Sur réception de la décision finale, l’exploitant de l’installation remplace le récépissé provisoire d’installation primaire par le récépissé d’installation primaire approprié ou par un bon de paiement indiquant le grade et les impuretés attribués à la portion représentative conformément au présent article.
 
 - **(7)** Il est entendu qu’au présent article le terme « grade » vise également les grades de grain gourd, humide, mouillé et trempé prévus par l’[Arrêté sur les grades de grain défectueux et les grades de criblures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20890.md).
-> DORS/2000-213, art. 2; DORS/2002-255, art. 11; DORS/2003-284, art. 15; DORS/2004-198, art. 15; DORS/2008-314, art. 6; DORS/2013-111, art. 11.
+> DORS/2000-213, art. 2; DORS/2002-255, art. 11; DORS/2003-284, art. 15; DORS/2004-198, art. 15; DORS/2008-314, art. 6; DORS/2013-111, art. 11
 
 
 
@@ -568,7 +568,7 @@ Autorités habilitantes :
 
 
 ### Préservation de l’identité du grain stocké en cellule
-> [DORS/2004-198, art. 16(A)]
+> DORS/2004-198, art. 16(A)
 
 
 
@@ -584,7 +584,7 @@ Autorités habilitantes :
 - **(3)** L’exploitant doit garder le contenant dans une armoire ou un entrepôt verrouillés de l’installation pendant au moins trente jours.
 
 - **(4) à (7)** [Abrogés, DORS/2004-198, art. 17]
-> DORS/84-626, art. 8; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 7; DORS/2000-213, art. 2; DORS/2002-255, art. 12; DORS/2003-284, art. 16; DORS/2004-198, art. 17; DORS/2008-314, art. 7.
+> DORS/84-626, art. 8; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 7; DORS/2000-213, art. 2; DORS/2002-255, art. 12; DORS/2003-284, art. 16; DORS/2004-198, art. 17; DORS/2008-314, art. 7
 
 
 
@@ -604,7 +604,7 @@ Autorités habilitantes :
 - **(2)** L’exploitant d’une installation primaire agréée doit délivrer un récépissé de séchage du grain selon la formule fournie ou acceptée par la Commission pour chaque chargement de grain contenant un excès d’humidité qui lui est livré pour séchage artificiel.
 
 - **(3)** Le détenteur du récépissé de séchage peut le remettre à l’exploitant et obtenir de celui-ci tout autre récépissé approprié ou prendre livraison du grain.
-> DORS/2002-255, art. 12.
+> DORS/2002-255, art. 12
 
 
 
@@ -622,7 +622,7 @@ Autorités habilitantes :
 - **(2)** Le détenteur doit remettre le récépissé après le nettoyage du grain, et l’exploitant de l’installation primaire agréée doit alors délivrer le récépissé d’installation primaire ou le bon de paiement voulu pour le grade et la quantité de grain obtenus après le nettoyage.
 
 - **(3)** Si le grain livré pour nettoyage est retourné à son propriétaire, l’exploitant de l’installation primaire agréée doit délivrer pour ce grain un récépissé de nettoyage selon une formule jugée acceptable par la Commission.
-> DORS/79-543, art. 1; DORS/89-376, art. 10(F), 14(F) et 18(F); DORS/96-508, art. 26; DORS/2000-213, art. 2; DORS/2003-284, art. 18; DORS/2004-198, art. 19.
+> DORS/79-543, art. 1; DORS/89-376, art. 10(F), 14(F) et 18(F); DORS/96-508, art. 26; DORS/2000-213, art. 2; DORS/2003-284, art. 18; DORS/2004-198, art. 19
 
 
 
@@ -642,7 +642,7 @@ Autorités habilitantes :
 	- **b)** s’il ne s’agit pas de grain stocké en cellule :
 		- **(i)** que du grain offert par cette personne,
 		- **(ii)** que la même quantité de grain des mêmes type et grade que le grain visé par les récépissés remis par cette personne.
-> DORS/89-376, art. 11(F), 12(F), 14(F), 15(F) et 18(F); DORS/93-24, art. 4; DORS/96-508, art. 27 et 61(F); DORS/2000-213, art. 2; DORS/2003-284, art. 19(F).
+> DORS/89-376, art. 11(F), 12(F), 14(F), 15(F) et 18(F); DORS/93-24, art. 4; DORS/96-508, art. 27 et 61(F); DORS/2000-213, art. 2; DORS/2003-284, art. 19(F)
 
 
 
@@ -650,7 +650,7 @@ Autorités habilitantes :
 **41** L’exploitant d’une installation primaire agréée :
 - **a)** doit, sur demande de la Commission, produire les récépissés ou les connaissements relatifs au grain expédié de l’installation pour lequel des récépissés d’installation primaire sont en circulation;
 - **b)** ne peut ni céder, ni hypothéquer ni donner en gage ou en nantissement du grain stocké dans l’installation pour lequel des récépissés d’installation primaire sont en circulation.
-> DORS/89-376, art. 12(F) et 14(F); DORS/94-508, art. 1; DORS/95-336, art. 10(F); DORS/96-508, art. 28 et 61(F); DORS/2000-213, art. 2.
+> DORS/89-376, art. 12(F) et 14(F); DORS/94-508, art. 1; DORS/95-336, art. 10(F); DORS/96-508, art. 28 et 61(F); DORS/2000-213, art. 2
 
 
 
@@ -661,7 +661,7 @@ Autorités habilitantes :
 	- **(ii)** exigeant que le grain soit enlevé de l’installation,
 	- **(iii)** indiquant la date limite à laquelle le détenteur peut prendre livraison du grain;
 - **b)** expédier à la Commission un double de l’avis.
-> DORS/89-376, art. 10(F), 12(F), 14(F) et 18(F); DORS/89-395, art. 2(F); DORS/93-24, art. 5; DORS/96-508, art. 29 et 61(F); DORS/2000-213, art. 2.
+> DORS/89-376, art. 10(F), 12(F), 14(F) et 18(F); DORS/89-395, art. 2(F); DORS/93-24, art. 5; DORS/96-508, art. 29 et 61(F); DORS/2000-213, art. 2
 
 
 
@@ -677,19 +677,19 @@ Autorités habilitantes :
 - **(2)** Le détenteur d’un récépissé d’installation primaire qui renonce au droit d’exiger de l’exploitant de l’installation la livraison du grain visé par le récépissé doit signer la renonciation suivante inscrite sur le récépissé :« Je renonce par la présente au droit d’exiger de l’exploitant de l’installation la livraison du grain visé par le présent récépissé. »
 
 
-> DORS/89-376, art. 11(F), 14(F), 15(F) et 18(F); DORS/89-395, art. 2(F); DORS/93-24, art. 6; DORS/96-508, art. 30; DORS/2000-213, art. 2; DORS/2003-284, art. 20.
+> DORS/89-376, art. 11(F), 14(F), 15(F) et 18(F); DORS/89-395, art. 2(F); DORS/93-24, art. 6; DORS/96-508, art. 30; DORS/2000-213, art. 2; DORS/2003-284, art. 20
 
 
 
 
 
 ### Réception du grain à une installation de transformation agréée
-> [DORS/2001-273, art. 15]
+> DORS/2001-273, art. 15
 
 
 
 **44** L’accusé de réception ou le bon de paiement à établir par l’exploitant d’une installation de transformation agréée aux termes du paragraphe 78(2) de la Loi au moment de la livraison du grain dans son installation par un producteur doit être conforme à la formule 1 ou à la formule 6 de l’annexe 4, selon le cas.
-> DORS/89-376, art. 14(F); DORS/96-508, art. 31; DORS/2000-213, art. 2; DORS/2003-284, art. 21.
+> DORS/89-376, art. 14(F); DORS/96-508, art. 31; DORS/2000-213, art. 2; DORS/2003-284, art. 21
 
 
 
@@ -703,7 +703,7 @@ Autorités habilitantes :
 - **(1)** Pour l’application du présent article, est assimilé à la livraison à un négociant en grains titulaire d’une licence, la livraison de grain au mandataire d’un tel négociant.
 
 - **(2)** L’accusé de réception ou le bon de paiement à établir par le négociant en grains titulaire d’une licence aux termes du paragraphe 81(1) de la Loi sur réception de grain de l’Ouest livré par le producteur ou sur l’établissement d’un droit sur du grain de l’Ouest livré à une installation par le producteur doit être conforme à la formule 1 ou à la formule 6 de l’annexe 4, selon le cas.
-> DORS/2000-213, art. 2; DORS/2001-273, art. 16; DORS/2002-255, art. 13; DORS/2003-284, art. 22; DORS/2006-206, art. 4.
+> DORS/2000-213, art. 2; DORS/2001-273, art. 16; DORS/2002-255, art. 13; DORS/2003-284, art. 22; DORS/2006-206, art. 4
 
 
 
@@ -717,7 +717,7 @@ Autorités habilitantes :
 
 
 **47** L’exploitant d’une installation terminale agréée peut recevoir du grain sans le soumettre à l’inspection ou à la pesée et sans délivrer un récépissé pour le grain, si le grain est transbordé directement d’un wagon ou d’un autre véhicule à un navire et fait l’objet d’une inspection et d’une pesée officielles au moment de son transbordement.
-> DORS/89-376, art. 10(F), 11(F), 14(F), 18(F) et 20(F); DORS/93-24, art. 7; DORS/96-508, art. 33; DORS/2000-213, art. 2; DORS/2002-255, art. 14; DORS/2004-198, art. 20; DORS/2005-361, art. 7; DORS/2013-111, art. 12.
+> DORS/89-376, art. 10(F), 11(F), 14(F), 18(F) et 20(F); DORS/93-24, art. 7; DORS/96-508, art. 33; DORS/2000-213, art. 2; DORS/2002-255, art. 14; DORS/2004-198, art. 20; DORS/2005-361, art. 7; DORS/2013-111, art. 12
 
 
 
@@ -730,7 +730,7 @@ Autorités habilitantes :
 - **a)** il s’agit de grain de l’Est;
 - **b)** il s’agit de grain étranger;
 - **c)** il s’agit de grain de l’Ouest qui a déjà été soumis à l’inspection et à la pesée à une installation terminale agréée.
-> DORS/2010-55, art. 1; DORS/2013-111, art. 12.
+> DORS/2010-55, art. 1; DORS/2013-111, art. 12
 
 
 
@@ -738,7 +738,7 @@ Autorités habilitantes :
 **49** Il peut décharger du grain sans le soumettre à l’inspection et à la pesée officielles dans les cas suivants :
 - **a)** le grain est destiné à être exporté aux États-Unis;
 - **b)** le grain n’est pas destiné à l’exportation.
-> DORS/2013-111, art. 12.
+> DORS/2013-111, art. 12
 
 
 
@@ -748,7 +748,7 @@ Autorités habilitantes :
 
 
 **50** L’exploitant d’une installation terminale agréée détermine avec précision les impuretés contenues dans le grain livré à l’installation, et ce, en arrondissant la quantité d’impuretés à 0,1 % près.
-> DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 37; DORS/2000-213, art. 2; DORS/2002-255, art. 15; DORS/2003-284, art. 24; DORS/2005-361, art. 8; DORS/2006-206, art. 5; DORS/2010-55, art. 2; DORS/2013-111, art. 12.
+> DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 37; DORS/2000-213, art. 2; DORS/2002-255, art. 15; DORS/2003-284, art. 24; DORS/2005-361, art. 8; DORS/2006-206, art. 5; DORS/2010-55, art. 2; DORS/2013-111, art. 12
 
 
 
@@ -773,7 +773,7 @@ Autorités habilitantes :
 	- **c)** expédié en port payé, dans un contenant qui en préservera l’intégrité;
 	- **d)** accompagné d’un formulaire accepté par la Commission sur lequel sont indiqués le nom et l’adresse postale de chacun des destinataires du rapport sur le grade et les impuretés;
 	- **e)** identifié par un numéro ou un autre élément que l’expéditeur n’a utilisé pour aucun autre échantillon au cours de la même campagne agricole.
-> DORS/89-393, art. 4; DORS/96-508, art. 38; DORS/2000-213, art. 2; DORS/2004-198, art. 22; DORS/2013-111, art. 12.
+> DORS/89-393, art. 4; DORS/96-508, art. 38; DORS/2000-213, art. 2; DORS/2004-198, art. 22; DORS/2013-111, art. 12
 
 
 
@@ -787,7 +787,7 @@ Autorités habilitantes :
 - **b)** il est d’au moins 1 kg;
 - **c)** il est prélevé de façon à représenter un échantillon moyen et caractéristique du lot de grain dont il provient;
 - **d)** il est expédié en port payé à la Commission, dans un contenant qui en préservera l’intégrité.
-> DORS/2013-111, art. 12.
+> DORS/2013-111, art. 12
 
 
 
@@ -800,14 +800,14 @@ Autorités habilitantes :
 - **a)** chaque échantillon est d’au moins 1 kg;
 - **b)** il est prélevé de façon à représenter un échantillon moyen et caractéristique du lot de grain dont il provient;
 - **c)** il est expédié en port payé à la Commission, dans un contenant qui en préservera l’intégrité.
-> DORS/2013-111, art. 12.
+> DORS/2013-111, art. 12
 
 
 
 
 
 ### Déchargement de grain contenant des impuretés
-> [DORS/2005-361, art. 9]
+> DORS/2005-361, art. 9
 
 
 
@@ -815,7 +815,7 @@ Autorités habilitantes :
 - **a)** le type, le grade et la quantité du grain;
 - **b)** la destination finale du grain;
 - **c)** les motifs de la demande.
-> DORS/2000-213, art. 2; DORS/2004-198, art. 24; DORS/2013-111, art. 13.
+> DORS/2000-213, art. 2; DORS/2004-198, art. 24; DORS/2013-111, art. 13
 
 
 
@@ -843,7 +843,7 @@ Autorités habilitantes :
 	- **(iii)** pas plus de 30 % de la capacité totale de l’installation est affectée par contrat au stockage de grain en cellule,
 	- **(iv)** l’exploitant dépose une copie du contrat auprès de la Commission avant sa date d’entrée en vigueur;
 - **b)** soit le grain est mis en cellule selon sa teneur en protéines.
-> DORS/84-626, art. 11; DORS/89-376, art. 14(F); DORS/96-508, art. 39; DORS/2000-213, art. 2; DORS/2003-284, art. 26; DORS/2004-198, art. 27; DORS/2013-111, art. 14.
+> DORS/84-626, art. 11; DORS/89-376, art. 14(F); DORS/96-508, art. 39; DORS/2000-213, art. 2; DORS/2003-284, art. 26; DORS/2004-198, art. 27; DORS/2013-111, art. 14
 
 
 
@@ -857,7 +857,7 @@ Autorités habilitantes :
 
 
 **58** Le récépissé d’installation terminale doit être conforme à la formule 9 de l’annexe 4.
-> DORS/89-376, art. 12(F); DORS/89-395, art. 2(F); DORS/2000-213, art. 2; DORS/2002-255, art. 17; DORS/2003-284, art. 27; DORS/2004-198, art. 28; DORS/2013-111, art. 15.
+> DORS/89-376, art. 12(F); DORS/89-395, art. 2(F); DORS/2000-213, art. 2; DORS/2002-255, art. 17; DORS/2003-284, art. 27; DORS/2004-198, art. 28; DORS/2013-111, art. 15
 
 
 
@@ -875,7 +875,7 @@ Autorités habilitantes :
 	- **d)** il indique la date limite à laquelle le détenteur est tenu de prendre livraison du grain.
 
 - **(2)** L’exploitant de l’installation terminale agréée qui donne l’avis en transmet en même temps copie à la Commission.
-> DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/96-508, art. 40; DORS/2000-213, art. 2; DORS/2013-111, art. 15; DORS/2015-137, art. 3(F).
+> DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/96-508, art. 40; DORS/2000-213, art. 2; DORS/2013-111, art. 15; DORS/2015-137, art. 3(F)
 
 
 
@@ -886,7 +886,7 @@ Autorités habilitantes :
 
 
 ### Substances dangereuses et grain contaminé dans les installations
-> [DORS/2004-198, art. 29]
+> DORS/2004-198, art. 29
 
 
 
@@ -900,7 +900,7 @@ Autorités habilitantes :
 	- **c)** si le stockage de substances dangereuses ne constitue pas un danger pour la manutention ou le stockage du grain dans l’installation.
 
 - **(3)** S’il est constaté au moment de la réception, du stockage ou du déchargement du grain dans l’installation agréée ou à partir d’elle que celui-ci est contaminé, l’exploitant de l’installation doit immédiatement en aviser la Commission et se départir du grain contaminé conformément aux directives de l’inspecteur en chef des grains pour le Canada en vertu d’une ordonnance de la Commission prise aux termes de l’alinéa 118d) de la Loi.
-> DORS/2000-213, art. 2; DORS/2001-273, art. 20.
+> DORS/2000-213, art. 2; DORS/2001-273, art. 20
 
 
 
@@ -911,7 +911,7 @@ Autorités habilitantes :
 
 
 ### Infestation dans les installations
-> [DORS/2001-273, art. 22]
+> DORS/2001-273, art. 22
 
 
 
@@ -921,7 +921,7 @@ Autorités habilitantes :
 - **c)** traiter le grain infesté conformément aux instructions de la Commission;
 - **c.1)** [Abrogé, DORS/2005-361, art. 11]
 - **d)** nettoyer et traiter, conformément aux instructions de la Commission, toute annexe ou cellule vidée qui contenait du grain infesté et tout matériel utilisé pour la manutention de ce grain.
-> DORS/86-813, art. 6; DORS/89-376, art. 14(F); DORS/89-394, art. 2; DORS/89-395, art. 2(F); DORS/96-508, art. 42; DORS/2000-213, art. 2; DORS/2001-273, art. 23; DORS/2004-198, art. 30; DORS/2005-361, art. 11.
+> DORS/86-813, art. 6; DORS/89-376, art. 14(F); DORS/89-394, art. 2; DORS/89-395, art. 2(F); DORS/96-508, art. 42; DORS/2000-213, art. 2; DORS/2001-273, art. 23; DORS/2004-198, art. 30; DORS/2005-361, art. 11
 
 
 
@@ -952,7 +952,7 @@ Autorités habilitantes :
 - **(1)** Les producteurs qui désirent un wagon aux termes de l’article 87 de la Loi doivent en faire la demande par écrit à la Commission selon la formule 14 de l’annexe 4.
 
 - **(2)** Les producteurs doivent, à l’arrivée des wagons qui leur ont été affectés par la Commission à la destination choisie par eux, y charger le grain déclaré dans leur demande directement d’une voie d’évitement ou d’une installation privée de chargement en vrac.
-> DORS/84-626, art. 14; DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 45; DORS/2000-213, art. 2; DORS/2003-284, art. 29.
+> DORS/84-626, art. 14; DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 45; DORS/2000-213, art. 2; DORS/2003-284, art. 29
 
 
 
@@ -969,7 +969,7 @@ Autorités habilitantes :
 - **a)** être structurellement sain, propre, sec, et exempt d’infestation;
 - **b)** s’il s’agit d’un navire, avoir des cales suffisamment protégées lors du chargement sous la pluie pour empêcher que le grain ne se mouille trop.
 - **c)** [Abrogé, DORS/2004-198, art. 32]
-> DORS/84-626, art. 15; DORS/89-376, art. 12(F), 14(F), 17(F), 18(F) et 20(F); DORS/89-393, art. 6; DORS/89-395, art. 2(F); DORS/93-25, art. 6; DORS/96-508, art. 47; DORS/2000-213, art. 2; DORS/2002-255, art. 19; DORS/2004-198, art. 32; DORS/2005-361, art. 12.
+> DORS/84-626, art. 15; DORS/89-376, art. 12(F), 14(F), 17(F), 18(F) et 20(F); DORS/89-393, art. 6; DORS/89-395, art. 2(F); DORS/93-25, art. 6; DORS/96-508, art. 47; DORS/2000-213, art. 2; DORS/2002-255, art. 19; DORS/2004-198, art. 32; DORS/2005-361, art. 12
 
 
 
@@ -987,7 +987,7 @@ Autorités habilitantes :
 	- **d)** [Abrogé, DORS/2004-198, art. 33]
 
 - **(2)** [Abrogé, DORS/2004-198, art. 33]
-> DORS/84-626, art. 16; DORS/89-376, art. 3; DORS/93-197, art. 6; DORS/95-386, art. 9; DORS/2000-213, art. 2; DORS/2004-198, art. 33; DORS/2005-361, art. 13(F); DORS/2010-55, art. 3; DORS/2013-111, art. 16.
+> DORS/84-626, art. 16; DORS/89-376, art. 3; DORS/93-197, art. 6; DORS/95-386, art. 9; DORS/2000-213, art. 2; DORS/2004-198, art. 33; DORS/2005-361, art. 13(F); DORS/2010-55, art. 3; DORS/2013-111, art. 16
 
 
 
@@ -1209,7 +1209,7 @@ Autorités habilitantes :
 **3** Lorsqu’il faut plus d’un certificat par wagon, camion ou conteneur, des droits d’inspection et de pesée distincts sont perçus pour chaque certificat établi (conformément à l’article 14).
 
 
-> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6; DORS/2013-109, art. 1; DORS/2017-125, art. 1 à 3; DORS/2018-33, art. 2.
+> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6; DORS/2013-109, art. 1; DORS/2017-125, art. 1 à 3; DORS/2018-33, art. 2
 
 
 
@@ -1230,7 +1230,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 [Abrogée, DORS/2013-111, art. 17]
 
 
-> DORS/2000-213, art. 7; DORS/2001-273, art. 31; DORS/2002-255, art. 20; DORS/2003-284, art. 34; DORS/2013-111, art. 17.
+> DORS/2000-213, art. 7; DORS/2001-273, art. 31; DORS/2002-255, art. 20; DORS/2003-284, art. 34; DORS/2013-111, art. 17
 
 
 
@@ -1271,8 +1271,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Nom de grade</th>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de grains vitreux durs</th>
-<th>Pourcentage minimum de protéines</th>
+<th>Minimum de grains vitreux durs</th>
+<th>Minimum de protéines</th>
 <th>Condition</th>
 <th>Matières autres que des céréales</th>
 <th>Total</th>
@@ -1293,11 +1293,11 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>75</td>
 <td>Toute variété de la classe CWRS désignée comme telle par arrêté de la Commission</td>
 <td>65</td>
-<td>10</td>
+<td>10,0</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
 <td>0,6</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>2,3</td>
 </tr>
 <tr>
@@ -1331,10 +1331,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Aucun minimum</td>
 <td>Aucun minimum</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>1</td>
-<td>10</td>
-<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
-<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10,0 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10,0 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
 </table>
 
@@ -1349,7 +1349,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de protéines</th>
+<th>Minimum de protéines</th>
 <th>Condition</th>
 <th>Matières étrangères</th>
 <th>Blé d’autres classes ou variétés</th>
@@ -1366,12 +1366,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>%</th>
 <th>%</th>
 <th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>CWRW n<sup>o</sup> 1</td>
 <td>79</td>
 <td>Toute variété de la classe CWRW désignée comme telle par arrêté de la Commission</td>
-<td>11</td>
+<td>11,0</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
 <td>0,4</td>
@@ -1380,9 +1381,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>CWRW n<sup>o</sup> 2</td>
-<td>76,5</td>
+<td>76</td>
 <td>Toute variété de la classe CWRW désignée comme telle par arrêté de la Commission</td>
-<td>11</td>
+<td>11,0</td>
 <td>Passablement bien mûri, peut être modérément atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
 <td>0,7</td>
@@ -1406,8 +1407,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Aucun minimum</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>1</td>
-<td>10</td>
+<td>1,0</td>
+<td>10,0</td>
 <td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 <td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
@@ -1417,17 +1418,17 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <table>
 <h4>Blé extra fort, Ouest canadien (CWES)</h4>
 <tr>
-<th>Nom de grade</th>
+<th>Nom de grade</th>
 <th>Norme de qualité</th>
 <th>Limites maximales</th>
 </tr>
 <tr>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de protéines</th>
+<th>Minimum de protéines</th>
 <th>Condition</th>
 <th>Matières étrangères</th>
-<th>Blé d’autres classes ou variétés</th>
+<th>Blé d’autres classes ou variétés</th>
 </tr>
 <tr>
 <th>Matières autres que des céréales</th>
@@ -1441,15 +1442,16 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>%</th>
 <th>%</th>
 <th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>CWES n<sup>o</sup> 1</td>
 <td>75</td>
 <td>Toute variété de la classe CWES désignée comme telle par arrêté de la Commission</td>
-<td>10</td>
+<td>10,0</td>
 <td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,2</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>1,5</td>
 <td>3</td>
 </tr>
@@ -1470,9 +1472,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Aucun minimum</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>1</td>
-<td>10</td>
-<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10,0 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 <td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
 </table>
@@ -1508,7 +1510,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CWSWS désignée comme telle par arrêté de la Commission</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
-<td>1</td>
+<td>1,0</td>
 <td>3</td>
 </tr>
 <tr>
@@ -1517,7 +1519,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CWSWS désignée comme telle par arrêté de la Commission</td>
 <td>Passablement bien mûri, peut être modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
-<td>2</td>
+<td>2,0</td>
 <td>6</td>
 </tr>
 <tr>
@@ -1526,7 +1528,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CWSWS désignée comme telle par arrêté de la Commission</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,5</td>
-<td>3</td>
+<td>3,0</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1534,8 +1536,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>65</td>
 <td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>1</td>
-<td>10</td>
+<td>1,0</td>
+<td>10,0</td>
 <td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
 </table>
@@ -1555,8 +1557,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de grains vitreux durs</th>
-<th>Pourcentage minimum de protéines</th>
+<th>Minimum de grains vitreux durs</th>
+<th>Minimum de protéines</th>
 <th>Condition</th>
 <th>Matières étrangères</th>
 <th>Blé d’autres classes ou variétés</th>
@@ -1573,6 +1575,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>%</th>
 <th>%</th>
 <th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>CWAD n<sup>o</sup> 1</td>
@@ -1583,7 +1587,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
 <td>0,5</td>
-<td>2</td>
+<td>2,0</td>
 <td>4</td>
 </tr>
 <tr>
@@ -1595,8 +1599,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
 <td>1,2</td>
-<td>3</td>
-<td>7,5</td>
+<td>3,0</td>
+<td>8</td>
 </tr>
 <tr>
 <td>CWAD n<sup>o</sup> 3</td>
@@ -1618,8 +1622,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Aucun minimum</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,5</td>
-<td>3</td>
-<td>10</td>
+<td>3,0</td>
+<td>10,0</td>
 <td>49</td>
 </tr>
 <tr>
@@ -1629,9 +1633,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Aucun minimum</td>
 <td>Aucun minimum</td>
 <td>Odeur raisonnablement agréable, exclu des grades supérieurs en raison du poids léger ou de grains endommagés</td>
-<td>1</td>
-<td>10</td>
-<td>49</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>49,0</td>
 <td>Aucune limite</td>
 </tr>
 </table>
@@ -1677,13 +1681,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>OC n<sup>o</sup> 1</td>
 <td>56</td>
 <td>Bonne couleur, 98 % de gruau sain</td>
-<td>Aucun</td>
+<td>0,0</td>
 <td>0,1</td>
 <td>2</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>1</td>
 <td>0,2</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>1</td>
 <td>2</td>
 </tr>
@@ -1692,7 +1696,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>53</td>
 <td>Bonne couleur, 96 % de gruau sain</td>
 <td>0,1</td>
-<td>4</td>
+<td>4,0</td>
 <td>4</td>
 <td>1,5</td>
 <td>2</td>
@@ -1706,12 +1710,12 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>51</td>
 <td>Couleur passable, 94 % de gruau sain</td>
 <td>0,5</td>
+<td>6,0</td>
 <td>6</td>
-<td>6</td>
-<td>3</td>
+<td>3,0</td>
 <td>3</td>
 <td>0,5</td>
-<td>3</td>
+<td>3,0</td>
 <td>3</td>
 <td>6</td>
 </tr>
@@ -1719,13 +1723,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>OC n<sup>o</sup> 4</td>
 <td>48</td>
 <td>Couleur médiocre, 92 % de gruau sain</td>
-<td>1</td>
+<td>1,0</td>
 <td><sup><a href='#fn_Ind19CB_hq_13714'>[*]</a></sup> Aucune limite</td>
 <td>8</td>
+<td>8,0</td>
 <td>8</td>
-<td>8</td>
-<td>1</td>
-<td>8</td>
+<td>1,0</td>
+<td>8,0</td>
 <td>8</td>
 <td>8</td>
 </tr>
@@ -1833,7 +1837,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Odeur raisonnablement agréable, peut être atteinte par la gelée, tachée par les intempéries ou autrement endommagée</td>
 <td>0,2</td>
 <td>2,5</td>
-<td>1</td>
+<td>1,0</td>
 <td>2,5</td>
 </tr>
 <tr>
@@ -1841,9 +1845,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>57</td>
 <td>Odeur passablement agréable, exclue des autres grades en raison de grains immatures ou fortement endommagés</td>
 <td>0,2</td>
-<td>8</td>
+<td>8,0</td>
 <td>2,5</td>
-<td>10</td>
+<td>10,0</td>
 </tr>
 <tr>
 <td>Grains nus, OC n<sup>o</sup> 1</td>
@@ -1851,7 +1855,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Odeur raisonnablement agréable, peut être atteinte par la gelée, tachée par les intempéries ou autrement endommagée</td>
 <td>0,2</td>
 <td>2,5</td>
-<td>1</td>
+<td>1,0</td>
 <td>2,5</td>
 </tr>
 <tr>
@@ -1859,9 +1863,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>65</td>
 <td>Odeur passablement agréable, exclue des autres grades en raison de grains immatures ou fortement endommagés</td>
 <td>0,2</td>
-<td>8</td>
+<td>8,0</td>
 <td>2,5</td>
-<td>10</td>
+<td>10,0</td>
 </tr>
 </table>
 
@@ -1957,7 +1961,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>OC n<sup>o</sup> 1</td>
 <td>72</td>
 <td>Bien mûri, presque exempt de grains abîmés par les intempéries</td>
-<td>1,5</td>
+<td>2</td>
 <td>0,05</td>
 <td>0,5</td>
 <td>2</td>
@@ -1967,8 +1971,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>69</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains abîmés par les intempéries</td>
 <td>3</td>
-<td>0,2</td>
-<td>1</td>
+<td>0,20</td>
+<td>1,0</td>
 <td>5</td>
 </tr>
 <tr>
@@ -1977,7 +1981,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Exclu des grades supérieurs en raison de grains endommagés</td>
 <td>10</td>
 <td>0,33</td>
-<td>2</td>
+<td>2,0</td>
 <td>10</td>
 </tr>
 </table>
@@ -2010,8 +2014,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe de graine de lin, Ouest canadien désignée comme telle par arrêté de la Commission</td>
 <td>Mûre, odeur agréable</td>
 <td>Peut contenir au plus 1,0 % d’autres graines qui ne sont pas facilement séparées de la graine de lin, à être évaluées comme impuretés</td>
-<td>0,05</td>
-<td>12,5</td>
+<td>0,1</td>
+<td>13</td>
 </tr>
 <tr>
 <td>OC n<sup>o</sup> 2</td>
@@ -2027,8 +2031,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Aucun minimum</td>
 <td>Toute variété de graine de lin</td>
 <td>Exclue des grades supérieurs en raison du poids léger ou de graines endommagées; peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur nettement sure, rance ou de moisi, ni d’odeur qui révèle une forte détérioration</td>
-<td>Peut contenir au plus 2 % d’autres graines qui ne sont pas facilement séparées de la graine de lin, à être évaluées comme impuretés</td>
-<td>10</td>
+<td>Peut contenir au plus 2,0 % d’autres graines qui ne sont pas facilement séparées de la graine de lin, à être évaluées comme impuretés</td>
+<td>10,0</td>
 <td>Aucune limite</td>
 </tr>
 </table>
@@ -2131,7 +2135,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>OC n<sup>o</sup> 4</td>
 <td>62</td>
 <td>Frais et odeur agréable</td>
-<td>1</td>
+<td>1,0</td>
 <td>10</td>
 <td>7</td>
 </tr>
@@ -2139,7 +2143,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>OC n<sup>o</sup> 5</td>
 <td>58</td>
 <td>Peut dégager une légère odeur, pas d’odeur sure ou de moisi</td>
-<td>3</td>
+<td>3,0</td>
 <td>15</td>
 <td>12</td>
 </tr>
@@ -2180,7 +2184,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>Bien mûrie, bonne couleur naturelle</td>
-<td>Aucune</td>
+<td>0,0</td>
 <td>3</td>
 <td>0,2</td>
 <td>0,5</td>
@@ -2190,21 +2194,21 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>Raisonnablement bien mûrie, peut être modérément tachée par les intempéries</td>
-<td>Aucune</td>
+<td>0,0</td>
 <td>10</td>
 <td>0,5</td>
-<td>2</td>
-<td>1</td>
+<td>2,0</td>
+<td>1,0</td>
 <td>5</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Exclue des grades supérieurs en raison de taches causées par les intempéries, peut avoir l’odeur caractéristique d’une graine de qualité inférieure, pas d’odeur nettement sure, rance ou de moisi</td>
-<td>1</td>
+<td>1,0</td>
 <td>10</td>
-<td>1</td>
-<td>5</td>
-<td>2</td>
+<td>1,0</td>
+<td>5,0</td>
+<td>2,0</td>
 <td>8</td>
 </tr>
 </table>
@@ -2243,7 +2247,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CPSR désignée comme telle par arrêté de la Commission</td>
 <td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,2</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>3</td>
 <td>5</td>
 </tr>
@@ -2262,8 +2266,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>65</td>
 <td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>1</td>
-<td>10</td>
+<td>1,0</td>
+<td>10,0</td>
 <td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 <td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
@@ -2303,7 +2307,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute variété de la classe CPSW désignée comme telle par arrêté de la Commission</td>
 <td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,2</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>3</td>
 <td>5</td>
 </tr>
@@ -2322,8 +2326,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>65</td>
 <td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>1</td>
-<td>10</td>
+<td>1,0</td>
+<td>10,0</td>
 <td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 <td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
@@ -2369,9 +2373,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur nettement sure, rance ou de moisi, ni d’odeur qui révèle une forte détérioration</td>
-<td>Au plus 2 % d’autres graines apparentes qui ne sont pas facilement séparées du canola, à être évaluées comme impuretés</td>
+<td>Au plus 2,0 % d’autres graines apparentes qui ne sont pas facilement séparées du canola, à être évaluées comme impuretés</td>
 <td>20</td>
-<td>2</td>
+<td>2,0</td>
 <td>25</td>
 </tr>
 </table>
@@ -2412,7 +2416,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Canada n<sup>o</sup> 2</td>
 <td>29</td>
 <td>Raisonnablement bien mûrie et odeur agréable</td>
-<td>1</td>
+<td>1,0</td>
 <td>4</td>
 <td>8</td>
 <td>5</td>
@@ -2455,7 +2459,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Canada n<sup>o</sup> 2</td>
 <td>31</td>
 <td>Raisonnablement bien mûrie et odeur agréable</td>
-<td>1</td>
+<td>1,0</td>
 <td>4</td>
 <td>10</td>
 <td>5</td>
@@ -2466,7 +2470,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <table>
 <h4>Sarrasin, Canada (Can)</h4>
 <tr>
-<th>Nom de grade</th>
+<th>Nom de grade</th>
 <th>Norme de qualité</th>
 <th>Limites maximales</th>
 </tr>
@@ -2500,7 +2504,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>1</td>
 <td>1,5</td>
 <td>4</td>
-<td>1</td>
+<td>1,0</td>
 <td>0,2</td>
 <td>1</td>
 </tr>
@@ -2512,7 +2516,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>1,5</td>
 <td>8</td>
 <td>2,5</td>
-<td>1</td>
+<td>1,0</td>
 <td>3</td>
 </tr>
 <tr>
@@ -2520,10 +2524,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Aucun minimum</td>
 <td>Peut dégager une odeur de terre ou d’herbe, pas d’odeur sure ou de moisi</td>
 <td>5</td>
-<td>5</td>
+<td>5,0</td>
 <td>20</td>
-<td>5</td>
-<td>2</td>
+<td>5,0</td>
+<td>2,0</td>
 <td>5</td>
 </tr>
 </table>
@@ -2540,7 +2544,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Poids spécifique minimum</th>
 <th>Condition</th>
 <th>Fendue</th>
-<th>Autres couleurs ou bicolore, autres que pour le soja mélangé</th>
+<th>Autres couleurs ou bicolore, autres que pour le soja mélangé</th>
 <th>Dommages</th>
 <th>Matières étrangères</th>
 </tr>
@@ -2565,7 +2569,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Fraîche, odeur naturelle, bonne couleur naturelle</td>
 <td>10</td>
 <td>2</td>
-<td>Aucune</td>
+<td>0,0</td>
 <td>2</td>
 <td>0,1</td>
 <td>1</td>
@@ -2587,13 +2591,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Fraîche, odeur naturelle, peut être tachée</td>
 <td>20</td>
 <td>5</td>
-<td>1</td>
+<td>1,0</td>
 <td>5</td>
 <td>0,5</td>
 <td>3</td>
-</tr>
-<tr>
-<td></td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 4</td>
@@ -2601,9 +2602,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Fraîche, peut être très tachée</td>
 <td>30</td>
 <td>10</td>
-<td>3</td>
+<td>3,0</td>
 <td>8</td>
-<td>2</td>
+<td>2,0</td>
 <td>5</td>
 </tr>
 <tr>
@@ -2612,9 +2613,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Fraîche, peut être très tachée</td>
 <td>40</td>
 <td>15</td>
-<td>5</td>
+<td>5,0</td>
 <td>15</td>
-<td>3</td>
+<td>3,0</td>
 <td>8</td>
 </tr>
 </table>
@@ -2658,24 +2659,24 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>Bonne couleur naturelle</td>
-<td>1</td>
-<td>Trace</td>
+<td>1,0</td>
+<td>0,2</td>
 <td>5</td>
 <td>3</td>
 <td>1</td>
-<td>Aucun</td>
-<td>1</td>
+<td>0,00</td>
+<td>1,0</td>
 <td>3</td>
 <td>3</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>Couleur passable</td>
-<td>2</td>
+<td>2,0</td>
 <td>0,5</td>
-<td>9,5</td>
+<td>10</td>
 <td>5</td>
-<td>2,5</td>
+<td>3</td>
 <td>0,05</td>
 <td>1,5</td>
 <td>5</td>
@@ -2684,7 +2685,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Extra Canada n<sup>o</sup> 3</td>
 <td>Couleur passable</td>
-<td>2</td>
+<td>2,0</td>
 <td>0,5</td>
 <td>13</td>
 <td>5</td>
@@ -2692,18 +2693,18 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>0,05</td>
 <td>1,5</td>
 <td>5</td>
-<td>8,5</td>
+<td>9</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Couleur atypique</td>
-<td>3</td>
-<td>1</td>
+<td>3,0</td>
+<td>1,0</td>
 <td>15</td>
 <td>7</td>
 <td>5</td>
-<td>0,2</td>
-<td>4</td>
+<td>0,20</td>
+<td>4,0</td>
 <td>10</td>
 <td>10</td>
 </tr>
@@ -2754,23 +2755,23 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Canada n<sup>o</sup> 1</td>
 <td>Bonne couleur naturelle</td>
 <td>0,5</td>
-<td>2</td>
-<td>2</td>
+<td>2,0</td>
+<td>2,0</td>
 <td>0,1</td>
 <td>5</td>
-<td>Aucun</td>
+<td>0,0</td>
 <td>0,3</td>
 <td>2</td>
 <td>2</td>
-<td>0,5</td>
+<td>1</td>
 <td>3</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>Couleur passable</td>
-<td>1</td>
-<td>3</td>
-<td>3,8</td>
+<td>1,0</td>
+<td>3,0</td>
+<td>4,0</td>
 <td>0,2</td>
 <td>8</td>
 <td>0,1</td>
@@ -2783,9 +2784,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Couleur atypique</td>
-<td>2</td>
-<td>5</td>
-<td>6,5</td>
+<td>2,0</td>
+<td>5,0</td>
+<td>7,0</td>
 <td>0,5</td>
 <td>13</td>
 <td>0,5</td>
@@ -2824,7 +2825,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>Pois fourragers Canada</td>
-<td>Aucun</td>
+<td>0,0</td>
 <td>1</td>
 <td>5</td>
 <td>1</td>
@@ -2857,7 +2858,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>Raisonnablement bien mûri, odeur agréable, bonne couleur naturelle</td>
-<td>Au plus 1 % d’autres graines apparentes qui ne sont pas facilement séparées de la graine de colza, à être évaluées comme impuretés</td>
+<td>Au plus 1,0 % d’autres graines apparentes qui ne sont pas facilement séparées de la graine de colza, à être évaluées comme impuretés</td>
 <td>2</td>
 <td>0,1</td>
 <td>5</td>
@@ -2873,9 +2874,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur nettement sure, rance ou de moisi ou qui révèle une forte détérioration</td>
-<td>Au plus 2 % d’autres graines apparentes qui ne sont pas facilement séparées de la graine de colza, à être évaluées comme impuretés</td>
+<td>Au plus 2,0 % d’autres graines apparentes qui ne sont pas facilement séparées de la graine de colza, à être évaluées comme impuretés</td>
 <td>20</td>
-<td>2</td>
+<td>2,0</td>
 <td>25</td>
 </tr>
 </table>
@@ -2912,7 +2913,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Brune Canada n<sup>o</sup> 1</td>
 <td>Raisonnablement bien mûrie, odeur agréable, bonne couleur naturelle</td>
-<td>0,5</td>
+<td>1</td>
 <td>1,5</td>
 <td>0,1</td>
 <td>1,5</td>
@@ -2923,9 +2924,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Brune Canada n<sup>o</sup> 2</td>
 <td>Passablement bien mûrie, odeur agréable, couleur raisonnablement bonne</td>
 <td>2</td>
-<td>2</td>
+<td>2,0</td>
 <td>0,2</td>
-<td>3</td>
+<td>3,0</td>
 <td>0,2</td>
 <td>0,5</td>
 </tr>
@@ -2935,7 +2936,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>5</td>
 <td>3,5</td>
 <td>0,5</td>
-<td>5</td>
+<td>5,0</td>
 <td>0,3</td>
 <td>0,7</td>
 </tr>
@@ -2944,10 +2945,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>10</td>
 <td>3,5</td>
-<td>1</td>
-<td>10</td>
-<td>1</td>
-<td>3</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>1,0</td>
+<td>3,0</td>
 </tr>
 </table>
 
@@ -2983,7 +2984,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Chinoise Canada n<sup>o</sup> 1</td>
 <td>Raisonnablement bien mûrie, odeur agréable, bonne couleur naturelle</td>
-<td>0,5</td>
+<td>1</td>
 <td>1,5</td>
 <td>0,1</td>
 <td>1,5</td>
@@ -2996,7 +2997,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>2</td>
 <td>1,5</td>
 <td>0,2</td>
-<td>3</td>
+<td>3,0</td>
 <td>0,2</td>
 <td>0,5</td>
 </tr>
@@ -3006,7 +3007,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>5</td>
 <td>3,5</td>
 <td>0,5</td>
-<td>5</td>
+<td>5,0</td>
 <td>0,3</td>
 <td>0,7</td>
 </tr>
@@ -3015,10 +3016,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>10</td>
 <td>3,5</td>
-<td>1</td>
-<td>10</td>
-<td>1</td>
-<td>3</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>1,0</td>
+<td>3,0</td>
 </tr>
 </table>
 
@@ -3054,7 +3055,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Blanche Canada n<sup>o</sup> 1</td>
 <td>Raisonnablement bien mûrie, odeur agréable, bonne couleur naturelle</td>
-<td>0,5</td>
+<td>1</td>
 <td>1,5</td>
 <td>0,1</td>
 <td>1,5</td>
@@ -3067,7 +3068,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>2</td>
 <td>1,5</td>
 <td>0,2</td>
-<td>3</td>
+<td>3,0</td>
 <td>0,2</td>
 <td>0,5</td>
 </tr>
@@ -3077,7 +3078,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>5</td>
 <td>3,5</td>
 <td>0,5</td>
-<td>5</td>
+<td>5,0</td>
 <td>0,3</td>
 <td>0,7</td>
 </tr>
@@ -3086,10 +3087,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>10</td>
 <td>3,5</td>
-<td>1</td>
-<td>10</td>
-<td>1</td>
-<td>3</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>1,0</td>
+<td>3,0</td>
 </tr>
 </table>
 
@@ -3117,7 +3118,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>65</td>
-<td>Raisonnablement bien mûrie, raisonnablement exempte de grains endommagés</td>
+<td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>1</td>
 <td>0,5</td>
 <td>2,5</td>
@@ -3125,18 +3126,18 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>62</td>
-<td>Passablement bien mûrie, raisonnablement exempte de grains fortement endommagés</td>
+<td>Passablement bien mûri, raisonnablement exempt de grains fortement endommagés</td>
 <td>2</td>
-<td>1</td>
-<td>4</td>
+<td>1,0</td>
+<td>4,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Aucun minimum</td>
-<td>Odeur raisonnablement agréable, exclue des grades supérieurs en raison du poids léger ou de grains endommagés</td>
+<td>Odeur raisonnablement agréable, exclu des grades supérieurs en raison du poids léger ou de grains endommagés</td>
 <td>3</td>
-<td>2</td>
-<td>7</td>
+<td>2,0</td>
+<td>7,0</td>
 </tr>
 </table>
 
@@ -3174,8 +3175,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>0,01</td>
 <td>0,05</td>
 <td>0,1</td>
-<td>1</td>
-<td>1</td>
+<td>1,0</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>Spécial Canada n<sup>o</sup> 2</td>
@@ -3185,47 +3186,47 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>0,05</td>
 <td>0,1</td>
 <td>1,5</td>
-<td>2</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>Couleur raisonnablement bonne</td>
 <td>1</td>
 <td>0,05</td>
-<td>0,1</td>
+<td>0,10</td>
 <td>0,1</td>
 <td>1,5</td>
-<td>2</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>Couleur passablement bonne</td>
 <td>5</td>
-<td>0,1</td>
-<td>0,2</td>
-<td>1</td>
-<td>3</td>
-<td>4</td>
+<td>0,10</td>
+<td>0,20</td>
+<td>1,0</td>
+<td>3,0</td>
+<td>4,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Couleur passablement bonne</td>
 <td>5</td>
-<td>0,2</td>
-<td>0,5</td>
-<td>1</td>
-<td>5</td>
-<td>6</td>
+<td>0,20</td>
+<td>0,50</td>
+<td>1,0</td>
+<td>5,0</td>
+<td>6,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 4</td>
 <td>Couleur atypique</td>
 <td>5</td>
-<td>0,2</td>
-<td>0,5</td>
-<td>1</td>
+<td>0,20</td>
+<td>0,50</td>
+<td>1,0</td>
 <td>8,5</td>
-<td>10</td>
+<td>10,0</td>
 </tr>
 </table>
 
@@ -3260,18 +3261,18 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Extra Canada n<sup>o</sup> 1</td>
 <td>Grosseur uniforme, bonne couleur naturelle</td>
 <td>1</td>
-<td>Aucun</td>
+<td>0,00</td>
 <td>0,05</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>Couleur raisonnablement bonne</td>
 <td>3</td>
 <td>0,05</td>
-<td>0,1</td>
+<td>0,10</td>
 <td>1,5</td>
 <td>1,5</td>
 <td>3,5</td>
@@ -3281,8 +3282,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Couleur passablement bonne</td>
 <td>3</td>
 <td>0,05</td>
-<td>0,1</td>
-<td>1.5</td>
+<td>0,10</td>
+<td>1,5</td>
 <td>1,5</td>
 <td>3,5</td>
 </tr>
@@ -3290,31 +3291,31 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Canada n<sup>o</sup> 2</td>
 <td>Couleur passablement bonne</td>
 <td>5</td>
-<td>0,1</td>
-<td>0,2</td>
-<td>3</td>
-<td>3</td>
+<td>0,10</td>
+<td>0,20</td>
+<td>3,0</td>
+<td>3,0</td>
 <td>5,5</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Couleur passablement bonne</td>
 <td>10</td>
-<td>0,2</td>
-<td>0,5</td>
-<td>5</td>
-<td>5</td>
+<td>0,20</td>
+<td>0,50</td>
+<td>5,0</td>
+<td>5,0</td>
 <td>7,5</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 4</td>
 <td>Couleur atypique</td>
 <td>15</td>
-<td>0,5</td>
-<td>1</td>
+<td>0,50</td>
+<td>1,00</td>
 <td>8,5</td>
 <td>8,5</td>
-<td>10</td>
+<td>10,0</td>
 </tr>
 </table>
 
@@ -3351,61 +3352,61 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Extra Canada n<sup>o</sup> 1</td>
 <td>Grosseur uniforme, bonne couleur naturelle</td>
 <td>1</td>
-<td>Aucun</td>
+<td>0,00</td>
 <td>0,05</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>Couleur raisonnablement bonne</td>
 <td>3</td>
 <td>0,05</td>
-<td>0,1</td>
+<td>0,10</td>
 <td>1,5</td>
 <td>1,5</td>
-<td>2</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>Spécial Canada n<sup>o</sup> 1</td>
 <td>Couleur passablement bonne</td>
 <td>3</td>
 <td>0,05</td>
-<td>0,1</td>
+<td>0,10</td>
 <td>1,5</td>
 <td>1,5</td>
-<td>2</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>Couleur passablement bonne</td>
 <td>5</td>
-<td>0,1</td>
-<td>0,2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
+<td>0,10</td>
+<td>0,20</td>
+<td>3,0</td>
+<td>3,0</td>
+<td>4,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Couleur passablement bonne</td>
 <td>10</td>
-<td>0,2</td>
-<td>0,5</td>
-<td>5</td>
-<td>5</td>
-<td>6</td>
+<td>0,20</td>
+<td>0,50</td>
+<td>5,0</td>
+<td>5,0</td>
+<td>6,0</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 4</td>
 <td>Couleur atypique</td>
 <td>15</td>
-<td>0,5</td>
-<td>1</td>
+<td>0,50</td>
+<td>1,00</td>
 <td>8,5</td>
 <td>8,5</td>
-<td>10</td>
+<td>10,0</td>
 </tr>
 </table>
 
@@ -3433,22 +3434,22 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 1</td>
 <td>1</td>
-<td>2</td>
-<td>1</td>
+<td>2,0</td>
+<td>1,0</td>
 <td>0,1</td>
 </tr>
 <tr>
 <td>OC n<sup>o</sup> 2</td>
 <td>2</td>
 <td>3,5</td>
-<td>2</td>
+<td>2,0</td>
 <td>0,2</td>
 </tr>
 <tr>
 <td>OC n<sup>o</sup> 3</td>
 <td>3</td>
-<td>5</td>
-<td>3</td>
+<td>5,0</td>
+<td>3,0</td>
 <td>0,2</td>
 </tr>
 </table>
@@ -3485,17 +3486,17 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 2</td>
 <td>Couleur passable</td>
-<td>1</td>
+<td>1,0</td>
 <td>2</td>
-<td>1</td>
+<td>1,0</td>
 <td>0,2</td>
 </tr>
 <tr>
 <td>OC n<sup>o</sup> 3</td>
 <td>Couleur médiocre</td>
-<td>2</td>
+<td>2,0</td>
 <td>3</td>
-<td>2</td>
+<td>2,0</td>
 <td>0,2</td>
 </tr>
 </table>
@@ -3539,9 +3540,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>0,2</td>
 <td>1</td>
 <td>0,2</td>
-<td>2</td>
-<td>1</td>
-<td>2</td>
+<td>2,0</td>
+<td>1,0</td>
+<td>2,0</td>
 <td>0,1</td>
 <td>0,2</td>
 </tr>
@@ -3552,7 +3553,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>4</td>
 <td>0,5</td>
 <td>3,5</td>
-<td>2</td>
+<td>2,0</td>
 <td>3,5</td>
 <td>0,2</td>
 <td>0,5</td>
@@ -3560,26 +3561,26 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Extra Canada n<sup>o</sup> 3</td>
 <td>Grosseur uniforme, couleur passable</td>
-<td>2</td>
+<td>2,0</td>
 <td>7</td>
 <td>0,5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
+<td>5,0</td>
+<td>5,0</td>
+<td>5,0</td>
 <td>0,2</td>
 <td>0,5</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Couleur médiocre</td>
-<td>3</td>
+<td>3,0</td>
 <td>Aucune limite</td>
-<td>1</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10,0</td>
+<td>10,0</td>
 <td>0,2</td>
-<td>1</td>
+<td>1,0</td>
 </tr>
 </table>
 
@@ -3630,60 +3631,60 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Grosseur uniforme, bonne couleur naturelle</td>
 <td>1</td>
 <td>3</td>
-<td>0.2</td>
-<td>0.2</td>
-<td>2</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>0.1</td>
-<td>0.2</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>2,0</td>
+<td>1,0</td>
+<td>2,0</td>
+<td>2,0</td>
+<td>4,0</td>
+<td>0,1</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td>Rouge Canada n<sup>o</sup> 2</td>
 <td>Grosseur uniforme, couleur naturelle raisonnablement bonne</td>
 <td>3</td>
 <td>10</td>
-<td>0.5</td>
-<td>0.5</td>
-<td>3.5</td>
-<td>2</td>
-<td>3.5</td>
-<td>5</td>
-<td>8</td>
-<td>0.2</td>
-<td>0.5</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>3,5</td>
+<td>2,0</td>
+<td>3,5</td>
+<td>5,0</td>
+<td>8,0</td>
+<td>0,2</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>Rouge Extra Canada n<sup>o</sup> 3</td>
 <td>Grosseur uniforme, couleur passable</td>
 <td>10</td>
 <td>25</td>
-<td>2</td>
-<td>0.5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>0.2</td>
-<td>0.5</td>
+<td>2,0</td>
+<td>0,5</td>
+<td>5,0</td>
+<td>5,0</td>
+<td>5,0</td>
+<td>S.O.</td>
+<td>S.O.</td>
+<td>0,2</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>Rouge Canada n<sup>o</sup> 3</td>
 <td>Couleur médiocre</td>
 <td>Aucune limite</td>
 <td>Aucune limite</td>
-<td>3</td>
-<td>1</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>0.2</td>
-<td>1</td>
+<td>3,0</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10,0</td>
+<td>10,0</td>
+<td>S.O.</td>
+<td>S.O.</td>
+<td>0,2</td>
+<td>1,0</td>
 </tr>
 </table>
 
@@ -3739,7 +3740,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>3</td>
 <td>10</td>
 <td>0,5</td>
-<td>2</td>
+<td>2,0</td>
 </tr>
 </table>
 
@@ -4547,7 +4548,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de grains vitreux durs</th>
+<th>Minimum de grains vitreux durs</th>
 <th>Condition</th>
 <th>Matières étrangères</th>
 <th>Blé d’autres classes ou variétés</th>
@@ -4564,39 +4565,40 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>%</th>
 <th>%</th>
 <th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Expérimental OC n<sup>o</sup> 1</td>
-<td>79</td>
+<td>75</td>
 <td>Toute variété de la classe de blé expérimental, Ouest canadien désignée comme telle par arrêté de la Commission</td>
 <td>65</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
-<td>0,4</td>
+<td>0,6</td>
 <td>0,5</td>
 <td>1,5</td>
 </tr>
 <tr>
 <td>Expérimental OC n<sup>o</sup> 2</td>
-<td>77,5</td>
+<td>72</td>
 <td>Toute variété de la classe de blé expérimental, Ouest canadien désignée comme telle par arrêté de la Commission</td>
-<td>35</td>
+<td>Aucun minimum</td>
 <td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
-<td>0,2</td>
-<td>0,75</td>
+<td>0,3</td>
+<td>1,2</td>
 <td>1,5</td>
-<td>3</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>Expérimental OC n<sup>o</sup> 3</td>
-<td>76,5</td>
+<td>69</td>
 <td>Toute variété de la classe de blé expérimental, Ouest canadien désignée comme telle par arrêté de la Commission</td>
 <td>Aucun minimum</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
-<td>0,2</td>
-<td>1,25</td>
+<td>0,5</td>
+<td>2,4</td>
 <td>2,5</td>
-<td>5</td>
+<td>5,0</td>
 </tr>
 <tr>
 <td>Fourrager OC</td>
@@ -4604,10 +4606,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Aucun minimum</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>1</td>
-<td>10</td>
-<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
-<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10,0 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10,0 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
 </table>
 
@@ -4703,7 +4705,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Nom de grade</th>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de protéines</th>
+<th>Minimum de protéines</th>
 <th>Condition</th>
 <th>Ergot</th>
 <th>Excrétions</th>
@@ -4726,7 +4728,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>CWHWS n<sup>o</sup> 1</td>
 <td>75</td>
 <td>Toute variété de la classe CWHWS désignée comme telle par arrêté de la Commission</td>
-<td>10</td>
+<td>10,0</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,04</td>
 <td>0,01</td>
@@ -4755,7 +4757,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Aucun minimum</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,04</td>
-<td>0,015</td>
+<td>0,01</td>
 <td>0,5</td>
 <td>0,04</td>
 <td>0,06</td>
@@ -4767,12 +4769,12 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Aucun minimum</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>0,1</td>
+<td>0,10</td>
 <td>0,03</td>
-<td>1</td>
-<td>0,1</td>
-<td>0,1</td>
-<td>10</td>
+<td>1,0</td>
+<td>0,10</td>
+<td>0,10</td>
+<td>10,0</td>
 </tr>
 </table>
 
@@ -4837,17 +4839,17 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <table>
 <h4>Blé de force rouge, Nord canadien (CNHR)</h4>
 <tr>
-<th>Nom de grade</th>
+<th>Nom de grade</th>
 <th>Norme de qualité</th>
 <th>Limites maximales</th>
 </tr>
 <tr>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de protéines %</th>
+<th>Minimum de protéines</th>
 <th>Condition</th>
 <th>Matières étrangères</th>
-<th>Blé d’autres classes ou variétés</th>
+<th>Blé d’autres classes ou variétés</th>
 </tr>
 <tr>
 <th>Matières autres que des céréales</th>
@@ -4861,16 +4863,17 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>%</th>
 <th>%</th>
 <th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>CNHR n° 1</td>
 <td>75</td>
 <td>Toute variété de la classe CNHR désignée comme telle par arrêté de la Commission</td>
-<td>11</td>
+<td>11,0</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
 <td>0,6</td>
-<td>0,75</td>
+<td>0,8</td>
 <td>2,3</td>
 </tr>
 <tr>
@@ -4901,10 +4904,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Aucun minimum</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
-<td>1</td>
-<td>10</td>
-<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
-<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>10,0 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10,0 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
 </table>
 
@@ -4935,7 +4938,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>72</td>
 <td>Toute variété de la classe CWSP désignée comme telle par arrêté de la Commission</td>
 <td>2,5</td>
-<td>1</td>
+<td>1,0</td>
 <td>0,03</td>
 <td>5</td>
 </tr>
@@ -4944,13 +4947,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>65</td>
 <td>Toute variété de la classe CWSP désignée comme telle par arrêté de la Commission</td>
 <td>2,5</td>
-<td>4</td>
+<td>4,0</td>
 <td>0,03</td>
 <td>10</td>
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup> 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1; DORS/2016-204, art. 1 à 13; DORS/2019-211, art. 1; DORS/2019-211, art. 26; DORS/2019-211, art. 27; DORS/2019-211, art. 28; DORS/2019-211, art. 29; DORS/2019-211, art. 30; DORS/2019-211, art. 31; DORS/2019-211, art. 32; DORS/2019-211, art. 34; DORS/2019-211, art. 36; DORS/2019-211, art. 37.
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup> 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1; DORS/2016-204, art. 1 à 13DORS/2019-211, art. 1DORS/2019-211, art. 2DORS/2019-211, art. 3DORS/2019-211, art. 4DORS/2019-211, art. 5DORS/2019-211, art. 6DORS/2019-211, art. 7DORS/2019-211, art. 8DORS/2019-211, art. 9DORS/2019-211, art. 10DORS/2019-211, art. 11DORS/2019-211, art. 12DORS/2019-211, art. 13DORS/2019-211, art. 14(A)DORS/2019-211, art. 15DORS/2019-211, art. 16DORS/2019-211, art. 17DORS/2019-211, art. 18DORS/2019-211, art. 19DORS/2019-211, art. 20DORS/2019-211, art. 21DORS/2019-211, art. 22DORS/2019-211, art. 23DORS/2019-211, art. 24DORS/2019-211, art. 25DORS/2019-211, art. 26DORS/2019-211, art. 27DORS/2019-211, art. 28DORS/2019-211, art. 29DORS/2019-211, art. 30DORS/2019-211, art. 31DORS/2019-211, art. 32DORS/2019-211, art. 33DORS/2019-211, art. 34DORS/2019-211, art. 35DORS/2019-211, art. 36DORS/2019-211, art. 37DORS/2019-211, art. 38DORS/2019-211, art. 39DORS/2019-211, art. 40
 
 
 
@@ -5362,7 +5365,7 @@ Installation
 <tr>
 <td>*I, the undersigned, do hereby solemnly declare that*
 
-**(a)** *I am a producer as defined in the Canada Grain Act;*
+**(a)** *I am a producer as defined in the [Canada Grain Act](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md);*
 
 
 
@@ -5479,7 +5482,7 @@ ____________________
 </td>
 </tr>
 <tr>
-<td>*The information in this document is required by the Canadian Grain Commission for the purpose of allocating railway cars to grain producers. Some information may be accessible or protected under the Access to Information Act. Information that could cause you or your organization harm if released is protected from disclosure under section 20 of the Access to Information Act.*
+<td>*The information in this document is required by the Canadian Grain Commission for the purpose of allocating railway cars to grain producers. Some information may be accessible or protected under the [Access to Information Act](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md). Information that could cause you or your organization harm if released is protected from disclosure under section 20 of the [Access to Information Act](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).*
 
 </td>
 <td>Les renseignements demandés dans la présente formule visent à permettre à la Commission canadienne des grains d’affecter des wagons de chemin de fer aux producteurs de grain. Certains renseignements peuvent être accessibles ou protégés aux termes de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md). Les renseignements dont la divulgation pourrait porter préjudice à vous ou à votre organisme sont protégés aux termes de l’article 20 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
@@ -5535,7 +5538,7 @@ _________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 DATE : _________________________
 
 
-> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A); DORS/2011-45, art. 3 et 4; DORS/2012-153, art. 2 à 4; DORS/2013-111, art. 18, 19 et 20(F); DORS/2016-256, art. 3.
+> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A); DORS/2011-45, art. 3 et 4; DORS/2012-153, art. 2 à 4; DORS/2013-111, art. 18, 19 et 20(F); DORS/2016-256, art. 3
 
 
 
@@ -5572,5 +5575,17 @@ DATE : _________________________
 
 ### **ANNEXE XIII** 
 [Abrogée, DORS/2002-255, art. 21]
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######                     — DORS/2001-273, par. 10(2)
+
+**10** 
+
+- **(2)** Le paragraphe (1) ne s’applique qu’aux licences délivrées à compter de l’entrée en vigueur du présent règlement.
+
 
 
