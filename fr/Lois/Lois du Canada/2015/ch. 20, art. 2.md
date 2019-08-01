@@ -89,7 +89,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** Pour l’application de la présente loi, sauf si elles ont un lien avec une activité portant atteinte à la sécurité du Canada, les activités de défense d’une cause, de protestation, de manifestation d’un désaccord ou d’expression artistique ne sont pas des activités portant atteinte à la sécurité du Canada.
-> 2015, ch. 20, art. 2 « 2 »2019, ch. 13, art. 115
+> 2015, ch. 20, art. 2 « 2 »2019, ch. 13, art. 892019, ch. 13, art. 115
 
 
 
@@ -223,6 +223,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f)** si l’information a été détruite au titre du paragraphe 5.1(1), la date de la destruction;
 	- **g)** si l’information a été remise au titre du paragraphe 5.1(1) à l’institution fédérale qui l’a communiquée, la date de la remise;
 	- **h)** tout autre renseignement précisé par règlement.
+
+**Copie à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement**
+
+- **(3)** Dans les trente jours suivant la fin de chaque année civile, chaque institution fédérale qui a communiqué de l’information au titre de l’article 5 durant l’année et chaque institution fédérale qui l’a reçue fournit à l’Office de surveillance des activités en matière de sécurité nationale et de renseignement une copie des documents préparés en application des paragraphes (1) ou (2) à l’égard de l’information.
 > 2015, ch. 20, art. 2 « 9 »2019, ch. 13, art. 119
 
 
@@ -248,7 +252,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Modification de l’annexe 3**
 
-- **(3)** Le gouverneur en conseil peut, par décret, ajouter le nom d’une institution fédérale et le titre de son responsable à l’annexe 3, supprimer de cette annexe le nom d’une institution et le titre de son responsable ou modifier le nom d’une institution ou le titre d’un responsable qui figure à cette annexe. Il ne peut y avoir ajout que si l’institution est compétente ou a des attributions au titre d’une loi fédérale ou d’une autre autorité légitime à l’égard d’activités portant atteinte à la sécurité du Canada, notamment en ce qui touche la détection, l’identification, l’analyse, la prévention ou la perturbation de ces activités ou une enquête sur celles-ci.
+- **(3)** Le gouverneur en conseil peut, par décret, ajouter le nom d’une institution fédérale et le titre de son responsable à l’annexe 3, supprimer de cette annexe le nom d’une institution et le titre de son responsable ou modifier le nom d’une institution ou le titre d’un responsable qui figure à cette annexe. Il ne peut y avoir ajout que si l’institution est compétente ou a des attributions au titre d’une loi fédérale ou d’une autre autorité légitime à l’égard d’activités portant atteinte à la sécurité du Canada.
 > 2015, ch. 20, art. 2 « 10 »2019, ch. 13, art. 120
 
 
@@ -390,9 +394,9 @@ Service canadien du renseignement de sécurité<br />- <i>Canadian Security Inte
 
 
 
-## MODIFICATIONS NON EN VIGUEUR
+## DISPOSITIONS CONNEXES
 
-######           — 2019, ch. 13, art. 82
+######           — 2019, ch. 13, al. 82(1)e)
 
 
 **Mentions**
@@ -400,31 +404,7 @@ Service canadien du renseignement de sécurité<br />- <i>Canadian Security Inte
 **82** 
 
 - **(1)** La mention de l’ancien ministère dans les textes ci-après vaut mention du nouveau ministère :
-	- **a)** l’annexe I de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), sous l’intertitre « Autres institutions fédérales »;
-	- **b)** les annexes I.1, V et VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-	- **c)** l’annexe de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), sous l’intertitre « Autres institutions fédérales »;
-	- **d)** l’annexe de la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md);
 	- **e)** l’annexe 3 de la Loi sur la communication d’information ayant trait à la sécurité du Canada;
-	- **f)** la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md);
-	- **g)** la [Loi sur le commissaire au renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2050.md).
-
-**Autres mentions**
-
-- **(1.1)** La mention de l’ancien ministère dans toute loi fédérale, autre qu’une loi visée au paragraphe (1), et dans ses textes d’application vaut mention, sauf indication contraire du contexte, du nouveau ministère.
-
-**Administrateur général**
-
-- **(2)** La désignation de toute personne à titre d’administrateur général de l’ancien ministère dans tout décret pris en vertu de l’article 55 de la [Loi sur l’Office de surveillance des activités en matière de sécurité nationale et de renseignement](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%202.md) vaut désignation du chef du nouveau ministère à titre d’administrateur général de celui-ci.
-
-
-
-######           — 2019, ch. 13, art. 89
-
-**89** L’alinéa g) de la définition de ***activité portant atteinte à la sécurité du Canada*** au paragraphe 2(1) de la Loi sur la communication d’information ayant trait à la sécurité du Canada est remplacé par ce qui suit :
-
-- **g)** entraver de manière considérable ou à grande échelle le fonctionnement de l’infrastructure mondiale de l’information, au sens de l’article 2 de la [Loi sur le Centre de la sécurité des télécommunications](/fr/Lois/Lois%20du%20Canada/2019/ch.%2013,%20art.%2076.md);
-
-
 
 
 
