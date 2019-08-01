@@ -8,7 +8,7 @@
 Assented to on 21 June 2019
 
 ```
-[Enacted by section 76 of chapter 13 of the Statutes of Canada, 2019, not in force.]
+[Enacted by section 76 of chapter 13 of the Statutes of Canada, 2019, in force August 1, 2019, see SI/2019-70.]
 ```
 ----------
 
@@ -65,7 +65,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** the Senate;
 - **(b)** the House of Commons;
 - **(c)** the Library of Parliament;
-- **(d)** the office of the Senate Ethics Officer, the office of the Conflict of Interest and Ethics Commissioner and the Parliamentary Protective Service;
+- **(d)** the office of the Senate Ethics Officer, the office of the Conflict of Interest and Ethics Commissioner, the Parliamentary Protective Service and the office of the Parliamentary Budget Officer;
 - **(e)** any federal court;
 - **(f)** any board, commission, council, other body or other office established to perform a governmental function by or under an Act of Parliament, or by or under the authority of the Governor in Council;
 - **(g)** a department as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
@@ -85,6 +85,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 ***terrorist group*** has the same meaning as in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*groupe terroriste*)
 
 ***unselected***, with respect to information, means that the information is acquired, for technical or operational reasons, without the use of terms or criteria to identify information of foreign intelligence interest. (*non sélectionnée*)
+> 2019, c. 13, s. 76 “2”2019, c. 13, s. 91
+
 
 
 
@@ -958,5 +960,102 @@ It does not include information that could be linked to an identifiable person.�
 - **(a)** respecting the management and control of the Establishment, including security on and around the Establishment’s premises, access to its premises, the search of persons on or around its premises and the search and seizure of items on or around its premises;
 - **(b)** respecting the measures referred to in section 24 to protect the privacy of Canadians and of persons in Canada; and
 - **(c)** amending the definition of any term defined in section 2 or subsection 23(5) or 44(3) to respond, directly or indirectly, to any technological change.
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 13, s. 77
+
+
+**Definitions**
+
+**77** The following definitions apply in sections 78 to 82.
+
+***former department*** means the portion of the federal public administration known as the Communications Security Establishment. (*ancien ministère*)
+
+***new department*** means the Communications Security Establishment as established by section 5 of the Communications Security Establishment Act. (*nouveau ministère*)
+
+
+
+######           — 2019, c. 13, s. 78
+
+
+**Chief**
+
+**78** 
+
+- **(1)** The Chief of the Communications Security Establishment holding office immediately before the coming into force of section 76 continues in office for the remainder of the term for which he or she was appointed.
+
+**Employees**
+
+- **(2)** Nothing in the Communications Security Establishment Act is to be construed as affecting the status of an employee who, immediately before the coming into force of section 76, occupied a position in the former department, except that the employee, on the coming into force of that section, occupies that position in the new department.
+
+
+
+######           — 2019, c. 13, s. 79
+
+
+**Transfer of appropriations**
+
+**79** 
+
+- **(1)** Any amount that is appropriated, for the fiscal year in which section 76 comes into force, by an appropriation Act based on the Estimates for that year for defraying the federal public administration’s charges and expenses for the former department that is unexpended on the day on which that section comes into force is deemed, on that day, to be an amount appropriated for defraying the federal public administration’s charges and expenses for the new department.
+
+**Transfer of powers, duties and functions**
+
+- **(2)** If a power, duty or function is vested in or exercisable by the former department’s Chief or an employee of the former department under any Act, order, rule, regulation or direction, or any contract, lease, licence or other document, that power, duty or function is vested in or is exercisable by the new department’s Chief or an employee of the new department.
+
+
+
+######           — 2019, c. 13, s. 80
+
+
+**Ministerial authorizations**
+
+**80** 
+
+- **(1)** An authorization that was issued under subsection 273.65(1) or (3) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) before the day on which section 76 comes into force and is valid on that day continues to be valid for the period specified in it or, if it was renewed before that day, for the period specified in the renewal.
+
+**Repeal**
+
+- **(2)** The Minister may repeal an authorization referred to in subsection (1) at any time.
+
+
+
+######           — 2019, c. 13, s. 81
+
+
+**Arrangements**
+
+**81** Any arrangement entered into by the former department before the day on which section 76 comes into force continues in accordance with its terms.
+
+
+
+######           — 2019, c. 13, s. 82
+
+
+**References**
+
+**82** 
+
+- **(1)** A reference to the former department in any of the following is deemed to be a reference to the new department:
+	- **(a)** Schedule I to the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) under the heading “Other Government Institutions”;
+	- **(b)** Schedules I.1, V and VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+	- **(c)** the schedule to the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) under the heading “Other Government Institutions”;
+	- **(d)** the schedule to the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md);
+	- **(e)** Schedule 3 to the [Security of Canada Information Disclosure Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2020,%20s.%202.md);
+	- **(f)** the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md); and
+	- **(g)** the [Intelligence Commissioner Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%2050.md).
+
+**Other references**
+
+- **(1.1)** Unless the context requires otherwise, every reference to the former department in any Act of Parliament, other than an Act referred to in subsection (1), or in any order, regulation or other instrument made under an Act of Parliament is deemed to be a reference to the new department.
+
+**Deputy head**
+
+- **(2)** The designation of a person as deputy head of the former department in any order of the Governor in Council made under section 55 of the [National Security and Intelligence Review Agency Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2013,%20s.%202.md) is deemed to be a designation of the Chief of the new department as deputy head of that department.
+
 
 
