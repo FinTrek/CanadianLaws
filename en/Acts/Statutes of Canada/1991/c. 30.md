@@ -245,7 +245,7 @@ where the parties to the plan fail to agree to change those terms and conditions
 ***Work Force Adjustment Directive*** means the Work Force Adjustment Directive issued on the recommendation of the National Joint Council of the Public Service and with the approval of the Treasury Board, that came into force on December 15, 1991, as amended from time to time in accordance with subsections 7.3(2) and (3). (*Directive sur le réaménagement des effectifs*)
 
 <a name='P-31.6_en_3'><sup>*</sup></a>: [Note: Subsection 7.1(3), as enacted by 1995, c. 17, s. 2, ceases to be in force June 22, 1998, *see* 1995, c. 17, s. 6.]<br />
-> 1994, c. 18, s. 5; 1995, c. 17, s. 2
+> 1994, c. 18, s. 5; 1995, c. 17, s. 22019, c. 13, s. 85(F)
 
 
 
@@ -671,7 +671,7 @@ Canadian Transportation Accident Investigation and Safety Board<br />- <i>Bureau
 
 Civilian Review and Complaints Commission for the Royal Canadian Mounted Police<br />- <i>Commission civile d’examen et de traitement des plaintes relatives à la Gendarmerie royale du Canada</i>
 
-Communications Security Establishment, Department of National Defence<br />- <i>Centre de la sécurité des télécommunications, ministère de la Défense nationale</i>
+Communications Security Establishment<br />- <i>Centre de la sécurité des télécommunications</i>
 
 Competition Tribunal<br />- <i>Tribunal de la concurrence</i>
 
@@ -784,7 +784,7 @@ Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des tran
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295; 2013, c. 18, ss. 57, 58, c. 33, ss. 188 to 190, c. 40, ss. 232, 233, 464, 465; 2014, c. 20, s. 459; 2015, c. 3, s. 149; 2017, c. 9, s. 57; 2018, c. 27, ss. 673, 6742019, c. 13, s. 442019, c. 13, s. 452019, c. 29, s. 3642019, c. 29, s. 365
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295; 2013, c. 18, ss. 57, 58, c. 33, ss. 188 to 190, c. 40, ss. 232, 233, 464, 465; 2014, c. 20, s. 459; 2015, c. 3, s. 149; 2017, c. 9, s. 57; 2018, c. 27, ss. 673, 6742019, c. 13, s. 442019, c. 13, s. 452019, c. 13, s. 862019, c. 13, s. 872019, c. 29, s. 3642019, c. 29, s. 365
 
 
 
@@ -857,36 +857,6 @@ Old Port of Montreal Corporation Inc.<br />- <i>Société immobilière du Canada
 
 
 ## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 13, s. 85
-
-**85** Subsection 7.1(1) of the French version of the Public Sector Compensation Act is replaced by the following:
-
-**Programme de réduction du personnel civil**
-
-**7.1** 
-
-- **(1)** *Par dérogation à la présente loi ou à toute autre loi fédérale, à l’exception de la [Loi canadienne sur les droits de la personne](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), le Conseil du Trésor peut fixer les conditions du Programme de réduction du personnel civil découlant du budget du 22 février 1994 et, conformément à ce programme, offrir ou donner des sommes aux salariés — ou pour leur compte — engagés pour une durée indéterminée par le ministère de la Défense nationale, le Centre de la sécurité des télécommunications ou le service de Protection civile du Canada.*
-
-
-
-
-
-######           — 2019, c. 13, s. 86
-
-**86** Schedule I to the Act is amended by striking out the following under the heading “Other Portions of the Public Service”:
-
-Communications Security Establishment, Department of National Defence<br />- <i>Centre de la sécurité des télécommunications, ministère de la Défense nationale</i>
-
-
-
-######           — 2019, c. 13, s. 87
-
-**87** Schedule I to the Act is amended by adding, in alphabetical order, the following under the heading “Other Portions of the Public Service”:
-
-Communications Security Establishment<br />- <i>Centre de la sécurité des télécommunications</i>
-
-
 
 ######           — 2019, c. 28, s. 160
 
