@@ -1563,7 +1563,7 @@ where
 > 2002, c. 28
 **
 
-#### [Pest Control Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-9.md)
+#### [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md)
 
 
 **217** [Amendments]
@@ -1922,7 +1922,7 @@ where
 
 - **(5)** Section 251 comes into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which section 252 comes into force.
 
-<a name='fn_2019-c29_E_transform_hq_25542'><sup>*</sup></a>: [Note: The provisions of Division 11, other than sections 259 to 265 and 268, not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25542'><sup>*</sup></a>: [Note: Subsections 225(2) and (3) and sections 226 to 232, 234, 239, 240, 243 to 246, 258 and 266 in force August 7, 2019, *see* SI/2019-83.]<br />
 
 
 
