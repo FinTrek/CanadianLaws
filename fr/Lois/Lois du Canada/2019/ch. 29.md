@@ -1922,7 +1922,7 @@ où :
 
 - **(5)** L’article 251 entre en vigueur à la date fixée par décret, laquelle ne peut être antérieure à la date d’entrée en vigueur de l’article 252.
 
-<a name='nbp_2019-c29_F_transform_hq_24197'><sup>*</sup></a>: [Note : Les dispositions de la section 11, à l’exception des articles 259 à 265 et 268, non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24197'><sup>*</sup></a>: [Note : Paragraphes 225(2) et (3), articles 226 à 232, 234, 239, 240, 243 à 246, 258 et 266 en vigueur le 7 août 2019, *voir* TR/2019-83.]<br />
 
 
 
@@ -2345,7 +2345,7 @@ où :
 
 
 **SECTION 20** 
-### [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20315.md)
+### [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2018/ch.%2027,%20art.%20687.md)
 
 
 
@@ -2371,9 +2371,9 @@ où :
 
 **Décret**
 
-<sup><a href='#nbp_2019-c29_F_transform_hq_24206'>[*]</a></sup>**317** Les articles 9 à 12 de la [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20315.md), édictés par l’article 315 de la présente loi, entrent en vigueur à la date fixée par décret.
+<sup><a href='#nbp_2019-c29_F_transform_hq_24206'>[*]</a></sup>**317** Les articles 9 à 12 de la [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2018/ch.%2027,%20art.%20687.md), édictés par l’article 315 de la présente loi, entrent en vigueur à la date fixée par décret.
 
-<a name='nbp_2019-c29_F_transform_hq_24206'><sup>*</sup></a>: [Note : Articles 9 à 12 de la [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029,%20art.%20315.md), édictés par l’article 315, en vigueur le 9 juillet 2019, *voir* TR/2019-58.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24206'><sup>*</sup></a>: [Note : Articles 9 à 12 de la [Loi sur la réduction de la pauvreté](/fr/Lois/Lois%20du%20Canada/2018/ch.%2027,%20art.%20687.md), édictés par l’article 315, en vigueur le 9 juillet 2019, *voir* TR/2019-58.]<br />
 
 
 
