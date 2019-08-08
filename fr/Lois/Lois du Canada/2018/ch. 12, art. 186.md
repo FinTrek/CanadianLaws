@@ -2699,7 +2699,7 @@ tout montant de redevance, de redevance nette, de remboursement, de remboursemen
 ***entité gouvernementale***
 - **a)** Ministère ou agence du gouvernement du Canada ou d’une province;
 - **b)** municipalité;
-- **c)** gouvernement autochtone au sens du paragraphe 2(1) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md);
+- **c)** gouvernement autochtone au sens du paragraphe 2(1) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-8.md);
 - **d)** personne morale dont l’ensemble des actions du capital-actions, à l’exception des actions conférant l’admissibilité aux postes d’administrateurs, appartiennent à une ou plusieurs des personnes suivantes :
 	- **(i)** Sa Majesté du chef du Canada,
 	- **(ii)** Sa Majesté du chef d’une province,
@@ -4253,7 +4253,7 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 **Recouvrement**
 
 - **(5)** Lorsque, à un moment donné, le total des distributions effectuées en vertu du paragraphe (2) à l’égard d’une province ou d’une zone, compte tenu des montants déjà recouvrés avant ce moment relativement à ces distributions, excède le total des montants nets à l’égard de la province ou de la zone à ce moment, le ministre peut recouvrer l’excédent sur les sommes suivantes :
-	- **a)** dans le cas de distributions effectuées à la province et malgré toutes autres dispositions de la présente loi ou de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), les sommes à payer à la province en vertu de ces lois;
+	- **a)** dans le cas de distributions effectuées à la province et malgré toutes autres dispositions de la présente loi ou de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-8.md), les sommes à payer à la province en vertu de ces lois;
 	- **b)** dans le cas de distributions effectuées à une personne visée à l’alinéa (2)b), les sommes qui sont dues ou payables par Sa Majesté du chef du Canada à la personne en application de la présente loi ou de toute autre loi fédérale.
 
 **Recouvrement proportionnel**
@@ -4304,10 +4304,10 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 
 **Effet**
 
-- **(5)** Les règlements pris en application de la présente partie ont effet à compter de leur publication dans la Gazette du Canada ou après s’ils le prévoient. Un règlement peut toutefois avoir un effet rétroactif, s’il comporte une disposition en ce sens, dans les cas suivants :
+- **(5)** Les règlements pris en application de la présente partie ont effet à compter de leur publication dans la [Gazette du Canada](http://www.gazette.gc.ca/) ou après s’ils le prévoient. Un règlement peut toutefois avoir un effet rétroactif, s’il comporte une disposition en ce sens, dans les cas suivants :
 	- **a)** il n’augmente pas le fardeau de redevance;
 	- **b)** il corrige une disposition ambiguë ou erronée, non conforme à un objet de la présente partie;
-	- **c)** il procède d’une modification de la présente partie applicable avant qu’il ne soit publié dans la Gazette du Canada;
+	- **c)** il procède d’une modification de la présente partie applicable avant qu’il ne soit publié dans la [Gazette du Canada](http://www.gazette.gc.ca/);
 	- **d)** il vise les règles prévues à l’alinéa 168(2)f);
 	- **e)** il met en œuvre une mesure annoncée publiquement, auquel cas, si aucun des alinéas a) à d) ne s’applique par ailleurs, il ne peut avoir d’effet avant la date où la mesure est ainsi annoncée.
 
@@ -4751,7 +4751,7 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 **Non-application**
 
 **189.1** Malgré l’article 164.2 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador, dans le cas où zone extracôtière, au sens de l’article 2 de cette loi, est mentionnée à la partie 2 de l’annexe 1 de la présente loi, cet article 164.2 ne s’applique pas.
-> 2018, ch. 27, art. 178.
+> 2018, ch. 27, art. 178
 
 
 
@@ -5812,7 +5812,7 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 
 **Publication de l’accord définitif**
 
-- **(2)** Le cas échéant, il publie l’accord ainsi conclu — ou donne avis que celui-ci peut être consulté — dans la Gazette du Canada et de toute autre façon qu’il estime indiquée.
+- **(2)** Le cas échéant, il publie l’accord ainsi conclu — ou donne avis que celui-ci peut être consulté — dans la [Gazette du Canada](http://www.gazette.gc.ca/) et de toute autre façon qu’il estime indiquée.
 
 **Acte non restreint par les accords**
 
@@ -6132,7 +6132,7 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 
 
 
-> 2018, ch. 12, art. 186 « ann. 1 »; DORS/2018-212; DORS/2019-79, art. 1; DORS/2019-79, art. 2.
+> 2018, ch. 12, art. 186 « ann. 1 »; DORS/2018-212DORS/2019-79, art. 1DORS/2019-79, art. 2
 
 
 
@@ -9651,7 +9651,7 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 **TABLEAU 5** [Abrogé, DORS/2019-79, art. 3]
 
 
-> 2018, ch. 12, art. 186 « ann. 2 »; DORS/2019-79, art. 3; DORS/2019-79, art. 4.
+> 2018, ch. 12, art. 186 « ann. 2 »DORS/2019-79, art. 3DORS/2019-79, art. 4
 
 
 
@@ -9880,5 +9880,3888 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 <td>50</td>
 </tr>
 </table>
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — DORS/2019-294, art. 3
+
+**3** Le tableau 1 de la partie 1 de l’annexe 1 de la Loi sur la tarification de la pollution causée par les gaz à effet de serre<sup><a href='#nbp_1_f'>[1]</a></sup> est modifié par adjonction, selon l’ordre numérique, de ce qui suit :
+
+<a name='nbp_1_f'><sup>1</sup></a>: L.C. 2018, ch. 12, art. 186<br />
+<table>
+<tr>
+<th>**Article**</th>
+<th>**Nom de la province**</th>
+</tr>
+<tr>
+<td>4.1</td>
+<td>Alberta</td>
+</tr>
+</table>
+
+
+
+
+######           — DORS/2019-294, art. 4
+
+**4** Le passage des articles 1 à 22 du tableau 1 de l’annexe 2 de la même loi figurant dans les colonnes 4 et 5 est remplacé par ce qui suit :
+<table>
+<tr>
+<th>**Colonne 1**</th>
+<th>**Colonne 4**</th>
+<th>**Colonne 5**</th>
+</tr>
+<tr>
+<th>**Article**</th>
+<th>**Province assujettie**</th>
+<th>**Taux**</th>
+</tr>
+<tr>
+<td>**1**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0498</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0498</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0498</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0498</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0498</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**2**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**3**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**4**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0204</td>
+</tr>
+<tr>
+<td>**5**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0333</td>
+</tr>
+<tr>
+<td>**6**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0442</td>
+</tr>
+<tr>
+<td>**7**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0637</td>
+</tr>
+<tr>
+<td>**8**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0516</td>
+</tr>
+<tr>
+<td>**9**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0537</td>
+</tr>
+<tr>
+<td>**10**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0220</td>
+</tr>
+<tr>
+<td>**11**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0451</td>
+</tr>
+<tr>
+<td>**12**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0767</td>
+</tr>
+<tr>
+<td>**13**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0356</td>
+</tr>
+<tr>
+<td>**14**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0310</td>
+</tr>
+<tr>
+<td>**15**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0140</td>
+</tr>
+<tr>
+<td>**16**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0391</td>
+</tr>
+<tr>
+<td>**17**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0517</td>
+</tr>
+<tr>
+<td>**18**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>**19**</td>
+<td>**a)** Ontario
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>63,59</td>
+</tr>
+<tr>
+<td>**20**</td>
+<td>**a)** Ontario
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>45,03</td>
+</tr>
+<tr>
+<td>**21**</td>
+<td>**a)** Ontario
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>35,45</td>
+</tr>
+<tr>
+<td>**22**</td>
+<td>**a)** Ontario
+
+</td>
+<td>39,95</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>39,95</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>39,95</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>39,95</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>39,95</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>39,95</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>39,95</td>
+</tr>
+</table>
+
+
+
+
+######           — DORS/2019-294, art. 5
+
+**5** Le passage des articles 1 à 22 du tableau 2 de l’annexe 2 de la même loi figurant dans les colonnes 4 et 5 est remplacé par ce qui suit :
+<table>
+<tr>
+<th>**Colonne 1**</th>
+<th>**Colonne 4**</th>
+<th>**Colonne 5**</th>
+</tr>
+<tr>
+<th>**Article**</th>
+<th>**Province assujettie**</th>
+<th>**Taux**</th>
+</tr>
+<tr>
+<td>**1**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0747</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0747</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0747</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0747</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0747</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**2**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**3**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**4**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0306</td>
+</tr>
+<tr>
+<td>**5**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0499</td>
+</tr>
+<tr>
+<td>**6**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0663</td>
+</tr>
+<tr>
+<td>**7**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0956</td>
+</tr>
+<tr>
+<td>**8**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0775</td>
+</tr>
+<tr>
+<td>**9**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0805</td>
+</tr>
+<tr>
+<td>**10**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0329</td>
+</tr>
+<tr>
+<td>**11**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0676</td>
+</tr>
+<tr>
+<td>**12**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1151</td>
+</tr>
+<tr>
+<td>**13**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0534</td>
+</tr>
+<tr>
+<td>**14**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0464</td>
+</tr>
+<tr>
+<td>**15**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0210</td>
+</tr>
+<tr>
+<td>**16**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0587</td>
+</tr>
+<tr>
+<td>**17**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0776</td>
+</tr>
+<tr>
+<td>**18**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0810</td>
+</tr>
+<tr>
+<td>**19**</td>
+<td>**a)** Ontario
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>95,39</td>
+</tr>
+<tr>
+<td>**20**</td>
+<td>**a)** Ontario
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>67,55</td>
+</tr>
+<tr>
+<td>**21**</td>
+<td>**a)** Ontario
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>53,17</td>
+</tr>
+<tr>
+<td>**22**</td>
+<td>**a)** Ontario
+
+</td>
+<td>59,92</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>59,92</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>59,92</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>59,92</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>59,92</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>59,92</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>59,92</td>
+</tr>
+</table>
+
+
+
+
+######           — DORS/2019-294, art. 6
+
+**6** Le passage des articles 1 à 22 du tableau 3 de l’annexe 2 de la même loi figurant dans les colonnes 4 et 5 est remplacé par ce qui suit :
+<table>
+<tr>
+<th>**Colonne 1**</th>
+<th>**Colonne 4**</th>
+<th>**Colonne 5**</th>
+</tr>
+<tr>
+<th>**Article**</th>
+<th>**Province assujettie**</th>
+<th>**Taux**</th>
+</tr>
+<tr>
+<td>**1**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0995</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0995</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0995</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0995</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0995</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**2**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**3**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**4**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0408</td>
+</tr>
+<tr>
+<td>**5**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0666</td>
+</tr>
+<tr>
+<td>**6**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0884</td>
+</tr>
+<tr>
+<td>**7**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1275</td>
+</tr>
+<tr>
+<td>**8**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1033</td>
+</tr>
+<tr>
+<td>**9**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1073</td>
+</tr>
+<tr>
+<td>**10**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0439</td>
+</tr>
+<tr>
+<td>**11**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0902</td>
+</tr>
+<tr>
+<td>**12**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1535</td>
+</tr>
+<tr>
+<td>**13**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0712</td>
+</tr>
+<tr>
+<td>**14**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0619</td>
+</tr>
+<tr>
+<td>**15**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0280</td>
+</tr>
+<tr>
+<td>**16**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0783</td>
+</tr>
+<tr>
+<td>**17**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1034</td>
+</tr>
+<tr>
+<td>**18**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1080</td>
+</tr>
+<tr>
+<td>**19**</td>
+<td>**a)** Ontario
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>127,19</td>
+</tr>
+<tr>
+<td>**20**</td>
+<td>**a)** Ontario
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>90,07</td>
+</tr>
+<tr>
+<td>**21**</td>
+<td>**a)** Ontario
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>70,90</td>
+</tr>
+<tr>
+<td>**22**</td>
+<td>**a)** Ontario
+
+</td>
+<td>79,89</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>79,89</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>79,89</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>79,89</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>79,89</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>79,89</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>79,89</td>
+</tr>
+</table>
+
+
+
+
+######           — DORS/2019-294, art. 7
+
+**7** Le passage des articles 1 à 22 du tableau 4 de l’annexe 2 de la même loi figurant dans les colonnes 4 et 5 est remplacé par ce qui suit :
+<table>
+<tr>
+<th>**Colonne 1**</th>
+<th>**Colonne 4**</th>
+<th>**Colonne 5**</th>
+</tr>
+<tr>
+<th>**Article**</th>
+<th>**Province assujettie**</th>
+<th>**Taux**</th>
+</tr>
+<tr>
+<td>**1**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1244</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1244</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1244</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1244</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1244</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**2**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0</td>
+</tr>
+<tr>
+<td>**3**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**4**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0509</td>
+</tr>
+<tr>
+<td>**5**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0832</td>
+</tr>
+<tr>
+<td>**6**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1105</td>
+</tr>
+<tr>
+<td>**7**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1593</td>
+</tr>
+<tr>
+<td>**8**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1291</td>
+</tr>
+<tr>
+<td>**9**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1341</td>
+</tr>
+<tr>
+<td>**10**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0549</td>
+</tr>
+<tr>
+<td>**11**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1127</td>
+</tr>
+<tr>
+<td>**12**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1919</td>
+</tr>
+<tr>
+<td>**13**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0890</td>
+</tr>
+<tr>
+<td>**14**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0774</td>
+</tr>
+<tr>
+<td>**15**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0350</td>
+</tr>
+<tr>
+<td>**16**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,0979</td>
+</tr>
+<tr>
+<td>**17**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1293</td>
+</tr>
+<tr>
+<td>**18**</td>
+<td>**a)** Ontario
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>0,1350</td>
+</tr>
+<tr>
+<td>**19**</td>
+<td>**a)** Ontario
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>158,99</td>
+</tr>
+<tr>
+<td>**20**</td>
+<td>**a)** Ontario
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>112,58</td>
+</tr>
+<tr>
+<td>**21**</td>
+<td>**a)** Ontario
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>88,62</td>
+</tr>
+<tr>
+<td>**22**</td>
+<td>**a)** Ontario
+
+</td>
+<td>99,87</td>
+</tr>
+<tr>
+<td>**b)** Nouveau-Brunswick
+
+</td>
+<td>99,87</td>
+</tr>
+<tr>
+<td>**c)** Manitoba
+
+</td>
+<td>99,87</td>
+</tr>
+<tr>
+<td>**d)** Saskatchewan
+
+</td>
+<td>99,87</td>
+</tr>
+<tr>
+<td>**e)** Alberta
+
+</td>
+<td>99,87</td>
+</tr>
+<tr>
+<td>**f)** Yukon
+
+</td>
+<td>99,87</td>
+</tr>
+<tr>
+<td>**g)** Nunavut
+
+</td>
+<td>99,87</td>
+</tr>
+</table>
+
+
 
 
