@@ -2574,8 +2574,6 @@ Turtle, Pacific Pond (*Actinemys marmorata*)<br />- <i>Tortue de l’Ouest</i>
 
 ##### Fish
 
-Bass, Striped (*Morone saxatilis*) St. Lawrence Estuary population<br />- <i>Bar rayé population de l’estuaire du Saint-Laurent</i>
-
 Chub, Gravel (*Erimystax x-punctatus*)<br />- <i>Gravelier</i>
 
 Paddlefish (*Polyodon spathula*)<br />- <i>Spatulaire</i>
@@ -2811,6 +2809,10 @@ Turtle, Western Painted (*Chrysemys picta bellii*) Pacific Coast population<br /
 
 ##### Fish
 
+Bass, Striped (*Morone saxatilis*) St. Lawrence River population<br />- <i>Bar rayé population du fleuve Saint-Laurent</i>
+
+Chub, Silver (*Macrhybopsis storeriana*) Great Lakes – Upper St. Lawrence populations<br />- <i>Méné à grandes écailles populations des Grands Lacs et du haut Saint-Laurent</i>
+
 Chubsucker, Lake (*Erimyzon sucetta*)<br />- <i>Sucet de lac</i>
 
 Cisco, Shortnose (*Coregonus reighardi*)<br />- <i>Cisco à museau court</i>
@@ -2823,6 +2825,12 @@ Dace, Redside (*Clinostomus elongatus*)<br />- <i>Méné long</i>
 
 Dace, Speckled (*Rhinichthys osculus*)<br />- <i>Naseux moucheté</i>
 
+Darter, Channel (*Percina copelandi*) Lake Erie populations<br />- <i>Fouille-roche gris populations du lac Érié</i>
+
+Darter, Channel (*Percina copelandi*) Lake Ontario populations<br />- <i>Fouille-roche gris populations du lac Ontario</i>
+
+Gar, Spotted (*Lepisosteus oculatus*)<br />- <i>Lépisosté tacheté</i>
+
 Lamprey, Western Brook (*Lampetra richardsoni*) Morrison Creek population<br />- <i>Lamproie de l’ouest population du ruisseau Morrison</i>
 
 Madtom, Northern (*Noturus stigmosus*)<br />- <i>Chat-fou du Nord</i>
@@ -2834,8 +2842,6 @@ Salmon, Atlantic (*Salmo salar*) Inner Bay of Fundy population<br />- <i>Saumon 
 Shark, Basking (*Cetorhinus maximus*) Pacific population<br />- <i>Pèlerin population du Pacifique</i>
 
 Shark, White (*Carcharodon carcharias*) Atlantic population<br />- <i>Grand requin blanc population de l’Atlantique</i>
-
-Shiner, Pugnose (*Notropis anogenus*)<br />- <i>Méné camus</i>
 
 Stickleback, Enos Lake Benthic Threespine (*Gasterosteus aculeatus*)<br />- <i>Épinoche à trois épines benthique du lac Enos</i>
 
@@ -2853,15 +2859,15 @@ Stickleback, Vananda Creek Benthic Threespine (*Gasterosteus aculeatus*)<br />- 
 
 Stickleback, Vananda Creek Limnetic Threespine (*Gasterosteus aculeatus*)<br />- <i>Épinoche à trois épines limnétique du ruisseau Vananda</i>
 
-Sturgeon, White (*Acipenser transmontanus*) Kootenay River population <br />- <i>Esturgeon blanc population de la rivière Kootenay</i>
-
 Sturgeon, White (*Acipenser transmontanus*) Nechako River population<br />- <i>Esturgeon blanc population de la rivière Nechako</i>
 
 Sturgeon, White (*Acipenser transmontanus*) Upper Columbia River population<br />- <i>Esturgeon blanc population du cours supérieur du Columbia</i>
 
 Sturgeon, White (*Acipenser transmontanus*) Upper Fraser River population<br />- <i>Esturgeon blanc population du cours supérieur du Fraser</i>
 
-Sucker, Salish (*Catostomus catostomus* ssp.)<br />- <i>Meunier de Salish</i>
+Sturgeon, White (*Acipenser transmontanus*) Upper Kootenay River population<br />- <i>Esturgeon blanc population du cours supérieur de la rivière Kootenay</i>
+
+Trout, Rainbow (*Oncorhynchus mykiss*) Athabasca River populations<br />- <i>Truite arc-en-ciel populations de la rivière Athabasca</i>
 
 Whitefish, Atlantic (*Coregonus huntsmani*)<br />- <i>Corégone de l’Atlantique</i>
 
@@ -2874,27 +2880,27 @@ Abalone, Northern (*Haliotis kamtschatkana*)<br />- <i>Ormeau nordique</i>
 
 Bean, Rayed (*Villosa fabalis*)<br />- <i>Villeuse haricot</i>
 
+Fawnsfoot (*Truncilla donaciformis*)<br />- <i>Troncille pied-de-faon</i>
+
 Forestsnail, Broad-banded (*Allogona profunda*)<br />- <i>Escargot-forestier écharge</i>
 
 Forestsnail, Oregon (*Allogona townsendiana*)<br />- <i>Escargot-forestier de Townsend</i>
 
 Globelet, Proud (*Patera pennsylvanica*)<br />- <i>Patère de Pennsylvanie</i>
 
+Hickorynut (*Obovaria olivaria*)<br />- <i>Obovarie olivâtre</i>
+
 Hickorynut, Round (*Obovaria subrotunda*)<br />- <i>Obovarie ronde</i>
 
 Kidneyshell (*Ptychobranchus fasciolaris*)<br />- <i>Ptychobranche réniforme</i>
 
-Mussel, Mapleleaf (*Quadrula quadrula*) Saskatchewan – Nelson population<br />- <i>Mulette feuille d’érable population de la Saskatchewan – Nelson</i>
-
-Mussel, Rainbow (*Villosa iris*)<br />- <i>Villeuse irisée</i>
+Lilliput (*Toxolasma parvum*)<br />- <i>Toxolasme nain</i>
 
 Mussel, Salamander (*Simpsonaias ambigua*)<br />- <i>Mulette du Necture</i>
 
 Physa, Hotwater (*Physella wrighti*)<br />- <i>Physe d’eau chaude</i>
 
 Pigtoe, Round (*Pleurobema sintoxia*)<br />- <i>Pleurobème écarlate</i>
-
-Pondmussel, Eastern (*Ligumia nasuta*)<br />- <i>Ligumie pointue</i>
 
 Riffleshell, Northern (*Epioblasma torulosa rangiana*)<br />- <i>Épioblasme ventrue</i>
 
@@ -3363,17 +3369,19 @@ Turtle, Wood (*Glyptemys insculpta*)<br />- <i>Tortue des bois</i>
 
 ##### Fish
 
-Darter, Channel (*Percina copelandi*)<br />- <i>Fouille-roche gris</i>
-
 Darter, Eastern Sand (*Ammocrypta pellucida*) Ontario populations<br />- <i>Dard de sable populations de l’Ontario</i>
 
 Darter, Eastern Sand (*Ammocrypta pellucida*) Quebec populations<br />- <i>Dard de sable populations du Québec</i>
 
-Gar, Spotted (*Lepisosteus oculatus*)<br />- <i>Lépisosté tacheté</i>
+Lamprey, Vancouver (*Entosphenus macrostomus*)<br />- <i>Lamproie de Vancouver</i>
 
-Lamprey, Vancouver (*Lampetra macrostoma*)<br />- <i>Lamproie de Vancouver</i>
+Minnow, Plains (*Hybognathus placitus*)<br />- <i>Méné des plaines</i>
+
+Minnow, Pugnose (*Opsopoeodus emiliae*)<br />- <i>Petit-bec</i>
 
 Minnow, Western Silvery (*Hybognathus argyritis*)<br />- <i>Méné d’argent de l’Ouest</i>
+
+Redhorse, Black (*Moxostoma duquesnei*)<br />- <i>Chevalier noir</i>
 
 Sculpin, Coastrange (*Cottus aleuticus*) Cultus population<br />- <i>Chabot de la chaîne côtière population Cultus</i>
 
@@ -3381,11 +3389,21 @@ Sculpin, Rocky Mountain (*Cottus* sp.) Eastslope populations<br />- <i>Chabot de
 
 Shiner, Carmine (*Notropis percobromus*)<br />- <i>Tête carminée</i>
 
+Shiner, Pugnose (*Notropis anogenus*)<br />- <i>Méné camus</i>
+
+Shiner, Silver (*Notropis photogenis*)<br />- <i>Méné miroir</i>
+
+Smelt, Rainbow (*Osmerus mordax*) Lake Utopia large-bodied population<br />- <i>Éperlan arc-en-ciel population d’individus de grande taille du lac Utopia</i>
+
 Smelt, Rainbow (*Osmerus mordax*) Lake Utopia small-bodied population<br />- <i>Éperlan arc-en-ciel population d’individus de petite taille du lac Utopia</i>
 
 Spotted Wolffish (*Anarhichas minor*)<br />- <i>Loup tacheté</i>
 
 Sucker, Mountain (*Catostomus platyrhynchus*) Milk River populations<br />- <i>Meunier des montagnes populations de la rivière Milk</i>
+
+Sucker, Salish (*Catostomus* sp. cf. *catostomus*)<br />- <i>Meunier de Salish</i>
+
+Trout, Bull (*Salvelinus confluentus*) Saskatchewan – Nelson Rivers populations<br />- <i>Omble à tête plate populations de la rivière Saskatchewan et du fleuve Nelson</i>
 
 Trout, Westslope Cutthroat (*Oncorhynchus clarkii lewisi*) Alberta population<br />- <i>Truite fardée versant de l’Ouest population de l’Alberta</i>
 
@@ -3400,9 +3418,11 @@ Atlantic Mud-piddock (*Barnea truncata*)<br />- <i>Pholade tronquée</i>
 
 Jumping-slug, Dromedary (*Hemphillia dromedarius*)<br />- <i>Limace-sauteuse dromadaire</i>
 
-Mussel, Mapleleaf (*Quadrula quadrula*) Great Lakes – Western St. Lawrence population<br />- <i>Mulette feuille d’érable population des Grands Lacs – Ouest du Saint-Laurent</i>
+Mapleleaf (*Quadrula quadrula*) Saskatchewan – Nelson Rivers population<br />- <i>Mulette feuille d’érable population de la rivière Saskatchewan et du fleuve Nelson</i>
 
 Taildropper, Blue-grey (*Prophysaon coeruleum*)<br />- <i>Limace-prophyse bleu-gris</i>
+
+Wartyback, Threehorn (*Obliquaria reflexa*)<br />- <i>Obliquaire à trois cornes</i>
 
 
 
@@ -3703,19 +3723,21 @@ Watersnake, Lake Erie (*Nerodia sipedon insularum*)<br />- <i>Couleuvre d’eau 
 
 ##### Fish
 
-Buffalo, Bigmouth (*Ictiobus cyprinellus*) Saskatchewan River and Nelson River populations<br />- <i>Buffalo à grande bouche populations des rivières Saskatchewan et Nelson</i>
+Buffalo, Bigmouth (*Ictiobus cyprinellus*) Saskatchewan – Nelson River populations<br />- <i>Buffalo à grande bouche populations de la rivière Saskatchewan et du fleuve Nelson</i>
 
-Chub, Silver (*Macrhybopsis storeriana*)<br />- <i>Méné à grandes écailles</i>
+Darter, Channel (*Percina copelandi*) St. Lawrence populations<br />- <i>Fouille-roche gris populations du Saint-Laurent</i>
 
 Dolly Varden (*Salvelinus malma malma*) Western Arctic populations<br />- <i>Dolly Varden populations de l’ouest de l’Arctique</i>
 
-Killifish, Banded (*Fundulus diaphanus*) Newfoundland population<br />- <i>Fondule barré population de Terre-Neuve</i>
+Killifish, Banded (*Fundulus diaphanus*) Newfoundland populations<br />- <i>Fondule barré populations de Terre-Neuve</i>
 
 Kiyi, Upper Great Lakes (*Coregonus kiyi kiyi*)<br />- <i>Kiyi du secteur supérieur des Grands Lacs</i>
 
 Lamprey, Northern Brook (*Ichthyomyzon fossor*) Great Lakes – Upper St. Lawrence populations<br />- <i>Lamproie du Nord populations des Grands Lacs et du haut Saint-Laurent</i>
 
-Minnow, Pugnose (*Opsopoeodus emiliae*)<br />- <i>Petit-bec</i>
+Lamprey, Silver (*Ichthyomyzon unicuspis*) Great Lakes – Upper St. Lawrence populations<br />- <i>Lamproie argentée populations des Grands Lacs et du haut Saint-Laurent</i>
+
+Minnow, Cutlip (*Exoglossum maxillingua*)<br />- <i>Bec-de-lièvre</i>
 
 Pickerel, Grass (*Esox americanus vermiculatus*)<br />- <i>Brochet vermiculé</i>
 
@@ -3741,7 +3763,13 @@ Shark, Bluntnose Sixgill (*Hexanchus griseus*)<br />- <i>Requin griset</i>
 
 Shiner, Bridle (*Notropis bifrenatus*)<br />- <i>Méné d’herbe</i>
 
+Stickleback, Giant Threespine (*Gasterosteus aculeatus*)<br />- <i>Épinoche à trois épines géante</i>
+
+Stickleback, Unarmoured Threespine (*Gasterosteus aculeatus*)<br />- <i>Épinoche à trois épines lisse</i>
+
 Sturgeon, Green (*Acipenser medirostris*)<br />- <i>Esturgeon vert</i>
+
+Sturgeon, Lake (*Acipenser fulvescens*) Southern Hudson Bay – James Bay populations<br />- <i>Esturgeon jaune populations du sud de la baie d’Hudson et de la baie James</i>
 
 Sturgeon, Shortnose (*Acipenser brevirostrum*)<br />- <i>Esturgeon à museau court</i>
 
@@ -3749,11 +3777,17 @@ Sucker, Mountain (*Catostomus platyrhynchus*) Pacific populations<br />- <i>Meun
 
 Sucker, Spotted (*Minytrema melanops*)<br />- <i>Meunier tacheté</i>
 
+Sunfish, Northern (*Lepomis peltastes*) Great Lakes – Upper St. Lawrence populations<br />- <i>Crapet du Nord populations des Grands Lacs et du haut Saint-Laurent</i>
+
 Thornyhead, Longspine (*Sebastolobus altivelis*)<br />- <i>Sébastolobe à longues épines</i>
 
 Tope (*Galeorhinus galeus*)<br />- <i>Milandre</i>
 
 Topminnow, Blackstripe (*Fundulus notatus*)<br />- <i>Fondule rayé</i>
+
+Trout, Bull (*Salvelinus confluentus*) South Coast British Columbia populations<br />- <i>Omble à tête plate populations de la côte sud de la Colombie-Britannique</i>
+
+Trout, Bull (*Salvelinus confluentus*) Western Arctic populations<br />- <i>Omble à tête plate populations de l’ouest de l’Arctique</i>
 
 Trout, Westslope Cutthroat (*Oncorhynchus clarkii lewisi*) British Columbia population<br />- <i>Truite fardée versant de l’ouest population de la Colombie-Britannique</i>
 
@@ -3776,9 +3810,15 @@ Lampmussel, Yellow (*Lampsilis cariosa*)<br />- <i>Lampsile jaune</i>
 
 Mantleslug, Magnum (*Magnipelta mycophaga*)<br />- <i>Limace à grand manteau</i>
 
+Mapleleaf (*Quadrula quadrula*) Great Lakes – Upper St. Lawrence population<br />- <i>Mulette feuille d’érable population des Grands Lacs et du haut Saint-Laurent</i>
+
 Mussel, Rocky Mountain Ridged (*Gonidea angulata*)<br />- <i>Gonidée des Rocheuses</i>
 
 Oyster, Olympia (*Ostrea lurida*)<br />- <i>Huître plate du Pacifique</i>
+
+Pondmussel, Eastern (*Ligumia nasuta*)<br />- <i>Ligumie pointue</i>
+
+Rainbow (*Villosa iris*)<br />- <i>Villeuse irisée</i>
 
 Slug, Haida Gwaii (*Staala gwaii*)<br />- <i>Limace de Haida Gwaii</i>
 
@@ -3939,7 +3979,7 @@ Mountain Crab-eye (*Acroscyphus sphaerophoroides*)<br />- <i>Acroscyphe des mont
 Waterfan, Western (*Peltigera gowardii*)<br />- <i>Peltigère éventail d’eau de l’Ouest</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229; SOR/2018-10, 112SOR/2019-52, s. 1SOR/2019-52, s. 2SOR/2019-52, s. 3SOR/2019-52, s. 4SOR/2019-52, s. 5SOR/2019-52, s. 6SOR/2019-52, s. 7SOR/2019-52, s. 8SOR/2019-52, s. 9SOR/2019-52, s. 10SOR/2019-52, s. 11SOR/2019-52, s. 12SOR/2019-52, s. 13SOR/2019-52, s. 14SOR/2019-52, s. 15SOR/2019-52, s. 16SOR/2019-52, s. 17SOR/2019-52, s. 18SOR/2019-52, s. 19SOR/2019-52, s. 20SOR/2019-52, s. 21SOR/2019-52, s. 22SOR/2019-145, s. 1SOR/2019-145, s. 2SOR/2019-145, s. 3SOR/2019-145, s. 4SOR/2019-145, s. 5SOR/2019-145, s. 6
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229; SOR/2018-10, 112SOR/2019-52, s. 1SOR/2019-52, s. 2SOR/2019-52, s. 3SOR/2019-52, s. 4SOR/2019-52, s. 5SOR/2019-52, s. 6SOR/2019-52, s. 7SOR/2019-52, s. 8SOR/2019-52, s. 9SOR/2019-52, s. 10SOR/2019-52, s. 11SOR/2019-52, s. 12SOR/2019-52, s. 13SOR/2019-52, s. 14SOR/2019-52, s. 15SOR/2019-52, s. 16SOR/2019-52, s. 17SOR/2019-52, s. 18SOR/2019-52, s. 19SOR/2019-52, s. 20SOR/2019-52, s. 21SOR/2019-52, s. 22SOR/2019-145, s. 1SOR/2019-145, s. 2SOR/2019-145, s. 3SOR/2019-145, s. 4SOR/2019-145, s. 5SOR/2019-145, s. 6SOR/2019-287, s. 1SOR/2019-287, s. 2SOR/2019-287, s. 3SOR/2019-287, s. 4SOR/2019-287, s. 5SOR/2019-287, s. 6SOR/2019-287, s. 7SOR/2019-287, s. 8SOR/2019-287, s. 9SOR/2019-287, s. 10SOR/2019-287, s. 11SOR/2019-287, s. 12
 
 
 
