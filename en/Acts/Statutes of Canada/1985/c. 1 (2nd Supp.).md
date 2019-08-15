@@ -4625,6 +4625,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 	- **(l)** a person solely for the purpose of determining any entitlement, liability or obligation of the person under this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) including the person’s entitlement to any refund, relief, drawback or abatement under those Acts;
 	- **(l.1)** any person who may receive information under section 44.03 or subsection 44.04(1) of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), solely for the purposes for which that person is entitled to the information;
 	- **(l.2)** any person who may receive information under section 51.05 or subsection 51.06(1) of the [Trademarks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md), solely for the purposes for which that person is entitled to the information;
+	- **(l.3)** a United States federal, state, tribal or local law enforcement agent, solely for the purpose of communicating the circumstances of detention and delivery referred to in subsection 52(2) of the [Preclearance Act, 2016](/en/Acts/Statutes%20of%20Canada/2017/c.%2027.md);
 	- **(m)** any person, if the information is required to comply with a subpoena or warrant issued or an order made by a court of record in Canada;
 	- **(n)** any person, if the information is required to comply with a subpoena or warrant issued or an order made by a court of record outside of Canada, solely for the purposes of criminal proceedings; and
 	- **(o)** prescribed persons or classes of persons, in prescribed circumstances for prescribed purposes, solely for those purposes.
@@ -4679,7 +4680,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 52018, c. 30, s. 62019, c. 13, s. 123(E)
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2012, c. 24, s. 92; 2013, c. 40, s. 237; 2014, c. 20, s. 366(E), c. 32, s. 60; 2015, c. 20, s. 52017, c. 27, s. 632018, c. 30, s. 62019, c. 13, s. 123(E)
 
 
 
