@@ -1127,7 +1127,7 @@ Sont toutefois exclues les dispositions créant des infractions et celles de la 
 
 <sup><a href='#fn_eev'>[*]</a></sup>**65** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_eev'><sup>*</sup></a>: [Note: Loi non en vigueur.]<br />
+<a name='fn_eev'><sup>*</sup></a>: [Note : Loi en vigueur le 15 août 2019, *voir* TR/2019-34.]<br />
 
 
 
@@ -1135,4 +1135,10 @@ Sont toutefois exclues les dispositions créant des infractions et celles de la 
 ### **ANNEXE** 
 **(paragraphe 6(1) et article 44)**
 ## Emplacements où des zones de précontrôle et des périmètres de précontrôle au Canada peuvent être désignés
+- **1** Les aérodromes figurant aux annexes 1 à 3 du [Règlement canadien de 2012 sur la sûreté aérienne](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2011/318.md) ainsi que les endroits liés à ces aérodromes, y compris les terminaux, les entrepôts de stockage et les endroits où le fret fait l’objet d’un contrôle.
+- **2** Les endroits au Canada liés à la navigation ou à l’infrastructure maritime ainsi que les endroits qui y sont adjacents.
+- **3** Les gares ferroviaires et les terminaux relevant de la compétence législative du Parlement ainsi que les endroits liés à ces gares et terminaux.
+- **4** Les autoroutes, routes, ponts, tunnels et sentiers — et les endroits qui y sont adjacents — reliant un lieu au Canada à un lieu aux États-Unis ainsi que les endroits à partir desquels des biens sont régulièrement expédiés en vue d’être exportés aux États-Unis.
+> 2017, ch. 27, ann.DORS/2019-184, art. 1
+
 
