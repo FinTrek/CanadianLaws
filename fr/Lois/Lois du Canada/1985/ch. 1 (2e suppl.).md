@@ -4611,6 +4611,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 	- **l)** à quiconque, uniquement en vue de déterminer sa réclamation, sa responsabilité ou ses obligations en vertu de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), notamment sa réclamation relativement à un remboursement, un drawback ou un abattement en vertu de ces lois;
 	- **l.1)** à toute personne qui peut le recevoir au titre de l’article 44.03 ou du paragraphe 44.04(1) de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), mais uniquement aux fins auxquelles elle y a droit;
 	- **l.2)** à toute personne qui peut le recevoir au titre de l’article 51.05 ou du paragraphe 51.06(1) de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md), mais uniquement aux fins auxquelles elle y a droit;
+	- **l.3)** à un agent des États-Unis — relevant de l’administration fédérale, d’une administration tribale ou municipale ou d’une administration d’un État de ce pays — qui est chargé de l’application de la loi, mais uniquement aux fins de communication des circonstances de la détention ou retenue et de la remise visées au paragraphe 52(2) de la [Loi sur le précontrôle (2016)](/fr/Lois/Lois%20du%20Canada/2017/ch.%2027.md);
 	- **m)** à quiconque, si le renseignement est exigé par assignation, mandat ou ordonnance d’une cour d’archives au Canada;
 	- **n)** à quiconque, si le renseignement est exigé par assignation, mandat ou ordonnance d’une cour d’archives à l’extérieur du Canada, dans le cadre de l’application de règles de procédure criminelle;
 	- **o)** aux personnes ou catégories de personnes autorisées par règlement à en recevoir communication, dans les circonstances et aux fins prévues par règlement et uniquement à ces fins.
@@ -4665,7 +4666,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlements**
 
 - **(15)** Le gouverneur en conseil peut, par règlement, déterminer les cas où des frais peuvent être exigés pour permettre l’accès à des renseignements ou pour en fournir, pour en faire des copies ou pour certifier la conformité de celles-ci sous le régime du présent article, ainsi que fixer le montant de ces frais.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2012, ch. 24, art. 92; 2013, ch. 40, art. 237; 2014, ch. 20, art. 366(A), ch. 32, art. 60; 2015, ch. 20, art. 52018, ch. 30, art. 62019, ch. 13, art. 123(A)
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2012, ch. 24, art. 92; 2013, ch. 40, art. 237; 2014, ch. 20, art. 366(A), ch. 32, art. 60; 2015, ch. 20, art. 52017, ch. 27, art. 632018, ch. 30, art. 62019, ch. 13, art. 123(A)
 
 
 
