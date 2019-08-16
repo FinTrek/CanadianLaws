@@ -683,7 +683,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **63** Première Nation Tseycum
 - **64** Première Nation de la baie Beecher
 - **65** Première Nation de Berens River
-> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1; DORS/2016-215, art. 1; DORS/2016-217, art. 1; DORS/2016-219, art. 1; DORS/2016-221, art. 1; DORS/2016-223, art. 1; DORS/2016-225, art. 1; DORS/2016-237, art. 1; DORS/2016-246, art. 1; DORS/2016-248, art. 1; DORS/2016-250, art. 1; DORS/2016-264, art. 1; DORS/2016-266, art. 1; DORS/2016-330, art. 1; DORS/2016-332, art. 1; DORS/2016-334, art. 1; DORS/2017-3, art. 1; DORS/2017-5, art. 1; DORS/2017-30, art. 1; DORS/2017-32, art. 1; DORS/2017-34, art. 1; DORS/2017-64, art. 1; DORS/2017-66, art. 1; DORS/2017-97, art. 1; DORS/2017-99, art. 1; DORS/2017-102, art. 1; DORS/2017-152, art. 1; DORS/2017-153, art. 1; DORS/2017-188, art. 1; DORS/2017-190, art. 1; DORS/2017-240, art. 1; DORS/2017-242, art. 1; DORS/2018-30, art. 1; DORS/2018-74, art. 1; DORS/2018-91, art. 1; DORS/2018-93, art. 1; DORS/2018-95, art. 1; DORS/2018-106, art. 1; DORS/2018-154, art. 1; DORS/2018-173, art. 1; DORS/2018-175, art. 1; DORS/2018-181, art. 1; DORS/2018-200, art. 1; DORS/2018-267, art. 1; DORS/2019-9, art. 1DORS/2019-14, art. 1DORS/2019-28, art. 1DORS/2019-30, art. 1DORS/2019-141, art. 1DORS/2019-205, art. 1DORS/2019-271, art. 1
+- **66** Première Nation Tsouke
+> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1; DORS/2016-215, art. 1; DORS/2016-217, art. 1; DORS/2016-219, art. 1; DORS/2016-221, art. 1; DORS/2016-223, art. 1; DORS/2016-225, art. 1; DORS/2016-237, art. 1; DORS/2016-246, art. 1; DORS/2016-248, art. 1; DORS/2016-250, art. 1; DORS/2016-264, art. 1; DORS/2016-266, art. 1; DORS/2016-330, art. 1; DORS/2016-332, art. 1; DORS/2016-334, art. 1; DORS/2017-3, art. 1; DORS/2017-5, art. 1; DORS/2017-30, art. 1; DORS/2017-32, art. 1; DORS/2017-34, art. 1; DORS/2017-64, art. 1; DORS/2017-66, art. 1; DORS/2017-97, art. 1; DORS/2017-99, art. 1; DORS/2017-102, art. 1; DORS/2017-152, art. 1; DORS/2017-153, art. 1; DORS/2017-188, art. 1; DORS/2017-190, art. 1; DORS/2017-240, art. 1; DORS/2017-242, art. 1; DORS/2018-30, art. 1; DORS/2018-74, art. 1; DORS/2018-91, art. 1; DORS/2018-93, art. 1; DORS/2018-95, art. 1; DORS/2018-106, art. 1; DORS/2018-154, art. 1; DORS/2018-173, art. 1; DORS/2018-175, art. 1; DORS/2018-181, art. 1; DORS/2018-200, art. 1; DORS/2018-267, art. 1; DORS/2019-9, art. 1DORS/2019-14, art. 1DORS/2019-28, art. 1DORS/2019-30, art. 1DORS/2019-141, art. 1DORS/2019-205, art. 1DORS/2019-271, art. 1DORS/2019-306, art. 1
 
 
 
@@ -1068,6 +1069,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ######           — DORS/2019-271, art. 2
 
 **2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation de Berens River est fixée au 15 novembre 2019.
+
+
+
+######           — DORS/2019-306, art. 2
+
+**2** En application du paragraphe 3(2) de la Loi sur les élections au sein de premières nations, la date de la première élection du conseil de la Première Nation Tsouke est fixée au 11 février 2020.
 
 
 
