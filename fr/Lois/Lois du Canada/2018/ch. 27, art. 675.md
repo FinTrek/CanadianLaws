@@ -8,7 +8,7 @@
 Sanctionnée sur le 13 décembre 2018
 
 ```
-[Édictée par l’article 675 du chapitre 27 des Lois du Canada (2018), non en vigueur.]
+[Édictée par l’article 675 du chapitre 27 des Lois du Canada (2018), en vigueur le 27 août 2019, voir TR/2019-92.]
 ```
 ----------
 
@@ -48,22 +48,17 @@ Sanctionnée sur le 13 décembre 2018
 
 ***intérêt*** S’agissant de terres situées au Canada ailleurs qu’au Québec, tout domaine, droit ou intérêt sur celles-ci, y compris tout service foncier, toute servitude, tout bail et tout permis au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md). (*interest*)
 
-***ministre*** Le membre du Conseil privé de la Reine désigné en application de l’article 3. (*Minister*)
+***ministre*** Le ministre des Relations Couronne-Autochtones. (*Minister*)
 
 ***première nation*** S’entend soit d’une bande, soit d’un groupe autochtone qui est partie à un accord sur l’autonomie gouvernementale mis en oeuvre par une loi fédérale. (*First Nation*)
 
 ***réserve*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*reserve*)
+> 2018, ch. 27, art. 675 « 2 »2019, ch. 29, art. 377
 
 
 
 
-## Désignation du ministre
-
-
-
-**Décret**
-
-**3** Le gouverneur en conseil peut, par décret, désigner tout membre du Conseil privé de la Reine pour le Canada à titre de ministre chargé de l’application de la présente loi.
+**3** [Abrogé, 2019, ch. 29, art. 377]
 
 
 
@@ -92,6 +87,12 @@ Sanctionnée sur le 13 décembre 2018
 **Sommes versées à Sa Majesté**
 
 - **(4)** Les sommes versées à Sa Majesté du chef du Canada qui découlent d’un droit ou d’un intérêt visé au paragraphe (2) sont considérées comme des sommes perçues, reçues ou détenues par Sa Majesté à l’usage et au profit de la première nation.
+
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(5)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux arrêtés pris en application du paragraphe (1).
+> 2018, ch. 27, art. 675 « 4 »2019, ch. 29, art. 386
+
 
 
 
