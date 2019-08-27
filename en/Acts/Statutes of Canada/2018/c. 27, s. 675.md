@@ -8,7 +8,7 @@
 Assented to on 13 December 2018
 
 ```
-[Enacted by section 675 of chapter 27 of the Statutes of Canada, 2018, not in force.]
+[Enacted by section 675 of chapter 27 of the Statutes of Canada, 2018, in force August 27, 2019, see SI/2019-92.]
 ```
 ----------
 
@@ -48,22 +48,17 @@ Assented to on 13 December 2018
 
 ***interest***, in relation to lands in Canada elsewhere than in Quebec, means any estate, interest or right of any nature in or to the lands and includes an easement, a servitude, a lease and a licence, as defined in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md). (*intérêt*)
 
-***Minister*** means the member of the Queen’s Privy Council for Canada designated under section 3. (*ministre*)
+***Minister*** means the Minister of Crown-Indigenous Relations. (*ministre*)
 
 ***reserve*** has the same meaning as in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*réserve*)
 
 ***right***, in relation to lands in Quebec, means any right of any nature in or to the lands and includes a licence, as defined in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md), and the rights of a lessee. (*droit*)
+> 2018, c. 27, s. 675 “2”2019, c. 29, s. 377
 
 
 
 
-## Designation of Minister
-
-
-
-**Order**
-
-**3** The Governor in Council may, by order, designate any member of the Queen’s Privy Council for Canada as the Minister for the purposes of this Act.
+**3** [Repealed, 2019, c. 29, s. 377]
 
 
 
@@ -92,6 +87,12 @@ Assented to on 13 December 2018
 **Moneys paid to Her Majesty**
 
 - **(4)** Any moneys paid to Her Majesty in right of Canada as a result of an interest or right referred to in subsection (2) are deemed to be moneys collected, received or held by her Majesty for the use and benefit of the First Nation.
+
+**Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(5)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of an order made under subsection (1).
+> 2018, c. 27, s. 675 “4”2019, c. 29, s. 386
+
 
 
 
