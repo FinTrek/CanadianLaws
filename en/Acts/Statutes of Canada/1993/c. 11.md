@@ -148,29 +148,7 @@ the agreement between the Government of Canada and the Government of Saskatchewa
 
 
 
-
-**Surrender before entitlement reserve created**
-
-**9** 
-
-- **(1)** For the purposes of this Act and in order to take into account, in accordance with the Framework Agreement or the Nekaneet Agreement, an existing interest in entitlement land of a person other than a party to the Framework Agreement or the Nekaneet Agreement, a band or the Nekaneet band may surrender, in accordance with the procedures set out in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), the interest in entitlement land notwithstanding that the entitlement land has not been set apart as an entitlement reserve.
-
-**Idem**
-
-- **(2)** A surrender of an interest in respect of entitlement land pursuant to subsection (1) takes effect on the day the entitlement land is set apart as an entitlement reserve and the surrender is deemed to confer the rights that are necessary to enable Her Majesty in right of Canada to carry out the terms of the surrender.
-
-**Non-application of this section**
-
-- **(3)** If a band referred to in paragraph (a) or (b) of the definition “band” in subsection 2(1), or the Nekaneet band, assents or agrees, under paragraph 3(a) or (b) of the [Claim Settlements (Alberta and Saskatchewan) Implementation Act](/en/Acts/Statutes%20of%20Canada/2002/c.%203.md), to the application of that Act in relation to an agreement to which this Act applies, this section thereupon ceases to apply to that agreement in so far as the agreement affects the band so assenting or agreeing.
-
-**Non-application of this section**
-
-- **(4)** If
-	- **(a)** an agreement is entered into with one or more Indian bands of Saskatchewan in settlement of a treaty land entitlement claim on the same or substantially the same basis as the Framework Agreement, and
-	- **(b)** an Indian band referred to in paragraph (a) assents or agrees, under paragraph 3(a) or (b) of the [Claim Settlements (Alberta and Saskatchewan) Implementation Act](/en/Acts/Statutes%20of%20Canada/2002/c.%203.md), to the application of that Act in relation to the agreement referred to in paragraph (a),
-this section does not apply, or thereupon ceases to apply, as the case may be, to the agreement referred to in paragraph (a) in so far as the agreement affects the Indian band so assenting or agreeing.
-> 1993, c. 11, s. 9; 2002, c. 3, s. 13
-
+**9** [Repealed, 2018, c. 27, s. 679]
 
 
 
@@ -1001,16 +979,6 @@ Any provision of this Article which is found by a court of competent jurisdictio
 **Other reference to Minister**
 
 - **(3)** Unless the context requires otherwise, the reference to the “Minister” is to be read as a reference to the “Minister of Indigenous Services” in subsection 11(2) of the Saskatchewan Treaty Land Entitlement Act.
-
-
-
-
-
-## AMENDMENTS NOT IN FORCE
-
-######           — 2018, c. 27, s. 679
-
-**679** Section 9 of the Saskatchewan Treaty Land Entitlement Act is repealed.
 
 
 
