@@ -145,26 +145,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Cession antérieure à la création de réserves**
-
-**9** 
-
-- **(1)** Pour l’application de la présente loi et en vue de tenir compte, conformément à l’accord-cadre et à l’accord Nekaneet, de tout droit existant, sur une terre due en vertu d’un traité, de toute personne autre que les parties à ces accords, une bande ou la bande de Nekaneet peut céder, conformément à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), le droit sur cette terre même si elle n’a pas été mise de côté à titre de nouvelle réserve.
-
-**Prise d’effet**
-
-- **(2)** La cession prend effet à la date à laquelle la nouvelle réserve est mise de côté et est censée conférer tous les droits nécessaires pour permettre à Sa Majesté du chef du Canada de donner effet à ses conditions.
-
-**Non-application du présent article**
-
-- **(3)** Si une bande visée aux alinéas a) ou b) de la définition de « bande » au paragraphe 2(1) ou la bande de Nekaneet consent, selon les alinéas 3a) ou b) de la [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications (Alberta et Saskatchewan)](/fr/Lois/Lois%20du%20Canada/2002/ch.%203.md), à l’application de celle-ci à un accord auquel s’applique la présente loi, le présent article cesse de s’appliquer à l’accord dans la mesure où celui-ci touche la bande qui a ainsi consenti.
-
-**Non-application du présent article**
-
-- **(4)** Si une ou plusieurs bandes indiennes en Saskatchewan concluent un accord en règlement d’une revendication fondée sur des droits fonciers issus de traités qui est semblable ou identique à l’accord-cadre et si l’une de ces bandes consent, selon les alinéas 3a) ou b) de la [Loi sur la mise en oeuvre de mesures concernant le règlement de revendications (Alberta et Saskatchewan)](/fr/Lois/Lois%20du%20Canada/2002/ch.%203.md), à l’application de celle-ci à l’accord, le présent article est inapplicable ou cesse de s’appliquer à l’accord dans la mesure où celui-ci touche la bande qui a ainsi consenti.
-> 1993, ch. 11, art. 9; 2002, ch. 3, art. 13
-
+**9** [Abrogé, 2018, ch. 27, art. 679]
 
 
 
@@ -1009,16 +990,6 @@ Si un tribunal compétent juge qu’une disposition du présent article contrevi
 **Autre mention du ministre**
 
 - **(3)** Sauf indication contraire du contexte, au paragraphe 11(2) de la Loi sur les droits fonciers issus de traités en Saskatchewan, le mot « ministre » vaut mention du ministre des Services aux Autochtones.
-
-
-
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2018, ch. 27, art. 679
-
-**679** L’article 9 de la Loi sur les droits fonciers issus de traités en Saskatchewan est abrogé.
 
 
 
