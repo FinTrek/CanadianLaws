@@ -24,11 +24,13 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***Act*** means the Navigable Waters Protection Act; (*loi*)
+***Act*** means the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md); (*loi*)
 
 ***engineer*** means a district marine agent, district manager or superintending engineer of Marine Services of the Department of Transport; (*ingénieur*)
 
-***work*** means a work to which Part I of the Navigable Waters Protection Act applies. (*ouvrage*)
+***work*** means a work to which Part I of the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) applies. (*ouvrage*)
+> 2019, c. 28, s. 187
+
 
 
 
@@ -41,7 +43,7 @@ Enabling authorities:
 - **(1)** Subject to subsection (2), where the Minister has approved a work and the site and plans thereof pursuant to paragraph 5(1)(a) or subsection 6(4) of the Act, such approval is valid for a type of work set out in Column I of an item of the schedule for the period of time set out in Column II of that item.
 
 - **(2)** [Repealed, SOR/88-461, s. 1]
-> SOR/86-966, s. 1; SOR/88-461, s. 1.
+> SOR/86-966, s. 1; SOR/88-461, s. 1
 
 
 
@@ -107,7 +109,7 @@ Enabling authorities:
 	- **(d)** be installed not less than 6 m above the water so that at least one light will be visible from any angle of approach until within 15 m of the work.
 
 - **(3)** Lights shall be displayed between sunset and sunrise, and from sunrise to sunset in periods of restricted visibility, and where more than one light is installed the lights shall flash in unison.
-> SOR/84-182, s. 1; SOR/86-966, s. 2(F); SOR/88-461, s. 2(F).
+> SOR/84-182, s. 1; SOR/86-966, s. 2(F); SOR/88-461, s. 2(F)
 
 
 
@@ -124,7 +126,7 @@ Enabling authorities:
 - **(e)** that has not more than eight sound sources;
 - **(f)** that is not less than 3 m or more than 30 m above the surface of the water and is so placed that the signal emitted is audible, up to and including the required range, in all directions in a horizontal plane from the work when there is no wind; and
 - **(g)** that is sounded whenever the visibility is less than 8 km in any direction.
-> SOR/84-182, s. 2.
+> SOR/84-182, s. 2
 
 
 
@@ -134,7 +136,7 @@ Enabling authorities:
 - **(b)** on a yellow background;
 - **(c)** not less than 1 m in height; and
 - **(d)** outlined in retro-reflectors or retro-reflecting material or otherwise illuminated at night.
-> SOR/84-182, s. 3.
+> SOR/84-182, s. 3
 
 
 
@@ -156,7 +158,7 @@ Enabling authorities:
 - **(3)** Subsection (2) does not apply in the case of
 	- **(a)** a work that, pursuant to subsection 5(2) of the Act, is exempted from the application of subsection 5(1) of the Act; or
 	- **(b)** a work the construction of which was commenced prior to January 14, 1970.
-> SOR/86-966, s. 3; SOR/88-461, s. 3.
+> SOR/86-966, s. 3; SOR/88-461, s. 3
 
 
 
@@ -170,7 +172,7 @@ Enabling authorities:
 
 
 **15** Every person who violates any provision of these Regulations is liable on summary conviction to a fine of $500 or to imprisonment for a term of six months or to both.
-> SOR/86-966, s. 4.
+> SOR/86-966, s. 4
 
 
 
@@ -240,6 +242,6 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/86-966, s. 5; SOR/95-372, s. 13.
+> SOR/86-966, s. 5; SOR/95-372, s. 13
 
 
