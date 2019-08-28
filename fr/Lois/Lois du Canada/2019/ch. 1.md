@@ -218,11 +218,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **13** 
 
-- **(1)** Le ministre et le ministre des Pêches et des Océans peuvent, de leur propre initiative ou sur demande, se communiquer toute information recueillie ou obtenue sous le régime de la présente loi, de la Loi sur les ports de pêche ou de plaisance, de la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), ou la communiquer à un agent de l’autorité ou à toute personne autorisée à exercer des attributions prévues sous le régime de la présente loi, dans la mesure où sa communication est nécessaire à l’exécution de la présente loi.
+- **(1)** Le ministre et le ministre des Pêches et des Océans peuvent, de leur propre initiative ou sur demande, se communiquer toute information recueillie ou obtenue sous le régime de la présente loi, de la Loi sur les ports de pêche ou de plaisance, de la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), ou la communiquer à un agent de l’autorité ou à toute personne autorisée à exercer des attributions prévues sous le régime de la présente loi, dans la mesure où sa communication est nécessaire à l’exécution de la présente loi.
 
 **Communication par un agent de l’autorité et des personnes autorisées**
 
 - **(2)** Un agent de l’autorité et toute personne autorisée à exercer des attributions prévues sous le régime de la présente loi peuvent, de leur propre initiative ou sur demande, se communiquer toute information recueillie ou obtenue sous le régime de la présente loi, ou la communiquer au ministre ou au ministre des Pêches et des Océans, dans la mesure où sa communication est nécessaire à l’exécution de la présente loi.
+> 2019, ch. 1, art. 132019, ch. 28, art. 195
+
 
 
 
@@ -4061,25 +4063,6 @@ CONSIDÉRANT qu’une diffusion internationale et une large mise en oeuvre de la
 
 
 Le gouvernement du Canada se réserve le droit de ne pas mettre en application les dispositions de la Convention internationale de 1989 sur l’assistance lorsque les biens en cause sont des biens maritimes culturels présentant un intérêt préhistorique, archéologique ou historique et qu’ils se trouvent au fond de la mer.
-
-
-
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2019, ch. 28, par. 195(1) et (2)
-
-
-**
-> Projet de loi C-64
-**
-
-**195** 
-
-- **(1)** Les paragraphes (2) à (9) s’appliquent en cas de sanction du projet de loi C-64, déposé au cours de la 1<sup>re</sup> session de la 42<sup>e</sup> législature et intitulé [Loi concernant les épaves, les bâtiments délabrés, abandonnés ou dangereux et les opérations d’assistance](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md) (appelé « autre loi » au présent article).
-
-- **(2)** Dès le premier jour où l’article 46 de la présente loi et le paragraphe 13(1) de l’autre loi sont tous deux en vigueur, « [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) », à ce paragraphe 13(1), est remplacé par « [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) ».
 
 
 
