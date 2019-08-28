@@ -72,7 +72,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Same meaning**
 
 - **(2)** Unless a contrary intention appears, words and expressions used in this Act have the same meaning as in the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md).
-> 1998, c. 10, s. 2; 2001, c. 4, s. 133; 2008, c. 21, s. 1.
+> 1998, c. 10, s. 2; 2001, c. 4, s. 133; 2008, c. 21, s. 1
 
 
 
@@ -105,7 +105,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(f)** manage the marine infrastructure and services in a commercial manner that encourages, and takes into account, input from users and the community in which a port or harbour is located;
 - **(g)** provide for the disposition, by transfer or otherwise, of certain ports and port facilities; and
 - **(h)** promote coordination and integration of marine activities with surface and air transportation systems.
-> 1998, c. 10, s. 4; 2008, c. 21, s. 3.
+> 1998, c. 10, s. 4; 2008, c. 21, s. 3
 
 
 
@@ -131,7 +131,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***port*** means the navigable waters under the jurisdiction of a port authority and the real property and immovables that the port authority manages, holds or occupies as set out in the letters patent. (*port*)
 
 ***user***, in respect of a port, means a person that makes commercial use of, or provides services at, the port. (*utilisateur*)
-> 1998, c. 10, s. 5; 2001, c. 4, s. 134.
+> 1998, c. 10, s. 5; 2001, c. 4, s. 134
 
 
 
@@ -150,7 +150,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Amendment of schedule**
 
 - **(2)** The Minister may, by regulation, amend the schedule.
-> 1998, c. 10, s. 6; 2008, c. 21, s. 4.
+> 1998, c. 10, s. 6; 2008, c. 21, s. 4
 
 
 
@@ -216,7 +216,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Status of letters patent**
 
-- **(3)** Letters patent are not regulations within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), but shall be published in the Canada Gazette and are valid with respect to third parties as of the date of publication.
+- **(3)** Letters patent are not regulations within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), but shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and are valid with respect to third parties as of the date of publication.
 
 **When Ministerial approval required**
 
@@ -225,7 +225,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **When Governor in Council approval required**
 
 - **(5)** Any provisions of letters patent relating to limits on a port authority’s power to borrow money on its credit for port purposes shall be approved by the Governor in Council, on the recommendation of the Minister and the Minister of Finance, before the letters patent are issued.
-> 1998, c. 10, s. 8; 2001, c. 4, s. 135; 2008, c. 21, s. 5; 2012, c. 19, s. 626.
+> 1998, c. 10, s. 8; 2001, c. 4, s. 135; 2008, c. 21, s. 5; 2012, c. 19, s. 626
 
 
 
@@ -240,7 +240,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Notice**
 
 - **(2)** Notice must be given in writing and set out a time limit within which the board of directors may comment to the Minister regarding the proposed changes.
-> 1998, c. 10, s. 9; 2008, c. 21, s. 6.
+> 1998, c. 10, s. 9; 2008, c. 21, s. 6
 
 
 
@@ -270,7 +270,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(e)** an existing cause of action, proceeding or claim by or against the harbour commission or a liability or other obligation of the harbour commission is unaffected except that any judgment or order is to be satisfied first by the port authority;
 	- **(f)** a civil, criminal or administrative action or proceeding pending by or against the harbour commission may be continued only by or against the port authority; and
 	- **(g)** subject to paragraph (e), a conviction against, or a ruling, order or judgment in favour of or against, the harbour commission may be enforced only by or against the port authority.
-> 1998, c. 10, s. 10; 2001, c. 4, s. 136; 2008, c. 21, s. 7.
+> 1998, c. 10, s. 10; 2001, c. 4, s. 136; 2008, c. 21, s. 7
 
 
 
@@ -322,7 +322,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Fixing limits of port**
 
 - **(5)** For the purposes of subsection (4), the Minister may fix the limits of a non-corporate port that is to be managed by a port authority and settle any question that arises in respect of the property, rights or obligations of the port authority.
-> 1998, c. 10, s. 12; 2001, c. 4, s. 137; 2008, c. 21, s. 8.
+> 1998, c. 10, s. 12; 2001, c. 4, s. 137; 2008, c. 21, s. 8
 
 
 
@@ -358,7 +358,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Fees continued**
 
 - **(3)** A fee that is in force in respect of a port on the day on which an amalgamation takes effect continues in force for a period that ends on the earlier of the expiry of six months and the day on which it is replaced by a fee fixed under subsection 49(1).
-> 2008, c. 21, s. 9.
+> 2008, c. 21, s. 9
 
 
 
@@ -417,7 +417,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Quorum**
 
 - **(6)** Subject to the letters patent, a majority of the directors in office constitutes a quorum at any meeting of directors and a quorum of directors may exercise all the powers of the directors.
-> 1998, c. 10, s. 14; 2008, c. 21, s. 10; 2014, c. 29, s. 27; 2015, c. 3, s. 16(E).
+> 1998, c. 10, s. 14; 2008, c. 21, s. 10; 2014, c. 29, s. 27; 2015, c. 3, s. 16(E)
 
 
 
@@ -448,7 +448,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(f)** an individual who is under eighteen years of age;
 - **(g)** an individual who has been declared mentally incompetent by a court in Canada or elsewhere; or
 - **(h)** an undischarged bankrupt.
-> 1998, c. 10, s. 16; 2003, c. 22, s. 113(E); 2008, c. 21, s. 11.
+> 1998, c. 10, s. 16; 2003, c. 22, s. 113(E); 2008, c. 21, s. 11
 
 
 
@@ -480,7 +480,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Effective date of resignation**
 
 - **(2)** The resignation of a director becomes effective on the day on which a written resignation is received by the port authority or on the day specified in the resignation, whichever is later.
-> 1998, c. 10, s. 19; 2008, c. 21, s. 12.
+> 1998, c. 10, s. 19; 2008, c. 21, s. 12
 
 
 
@@ -513,7 +513,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Delegation**
 
 **21.1** Subject to the letters patent, the board of directors may delegate the powers to manage the activities of the port authority to a committee of directors or to the officers of the port authority.
-> 2008, c. 21, s. 13.
+> 2008, c. 21, s. 13
 
 
 
@@ -576,7 +576,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(iii)** is a contribution in respect of envi- ronmental sustainability, or
 	- **(iv)** is a contribution in respect of security, or
 - **(b)** the authority for the funding of Her Majesty’s obligations is an agreement that was in existence before March 1, 1999.
-> 1998, c. 10, s. 25; 2008, c. 21, s. 14; 2018, c. 10, s. 73.
+> 1998, c. 10, s. 25; 2008, c. 21, s. 14; 2018, c. 10, s. 73
 
 
 
@@ -585,7 +585,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Contribution**
 
 **25.1** The Minister may, with the approval of the Governor in Council given on the recommendation of the Treasury Board and on any terms and conditions specified by the Governor in Council on the recommendation of the Treasury Board, make a contribution under subparagraph 25(a)(iv).
-> 2008, c. 21, s. 15.
+> 2008, c. 21, s. 15
 
 
 
@@ -594,7 +594,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Payments to Canada Place Corporation**
 
 **25.2** Despite section 25, the Minister of Canadian Heritage may make payments to Canada Place Corporation for Canada Day celebrations and for the celebrations marking the 150th anniversary of Confederation.
-> 2016, c. 7, s. 232.
+> 2016, c. 7, s. 232
 
 
 
@@ -610,7 +610,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Canada Infrastructure Bank**
 
 **26.1** Section 26 does not apply with respect to a loan guarantee provided by the Canada Infrastructure Bank on behalf of the government of Canada under paragraph 18(h) of the [Canada Infrastructure Bank Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20403.md).
-> 2018, c. 10, s. 74.
+> 2018, c. 10, s. 74
 
 
 
@@ -637,7 +637,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Binding on Her Majesty**
 
 - **(3)** A regulation made under subsection (1) may be made binding on Her Majesty in right of Canada or a province.
-> 1998, c. 10, s. 27; 2008, c. 21, s. 16.
+> 1998, c. 10, s. 27; 2008, c. 21, s. 16
 
 
 
@@ -720,7 +720,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** acquire all or substantially all of the assets of another corporation;
 	- **(d)** sell or otherwise dispose of shares of a wholly-owned subsidiary of the port authority; or
 	- **(e)** cause the dissolution or amalgamation of a wholly-owned subsidiary of the port authority.
-> 1998, c. 10, s. 28; 2001, c. 4, s. 138; 2008, c. 21, s. 17.
+> 1998, c. 10, s. 28; 2001, c. 4, s. 138; 2008, c. 21, s. 17
 
 
 
@@ -766,7 +766,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Copy of policy**
 
 - **(3)** The directors of the port authority shall provide a copy of the borrowing policy to the Minister if the Minister requests one.
-> 2008, c. 21, s. 18.
+> 2008, c. 21, s. 18
 
 
 
@@ -797,7 +797,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application of provincial law**
 
 - **(6)** A grant under subsection (4) may be effected by any instrument by which an interest in real property or a right in an immovable may be granted by a private person under the laws in force in the province in which the federal real property, federal immovable or fixtures are situated.
-> 1998, c. 10, s. 31; 2001, c. 4, s. 139; 2008, c. 21, s. 19.
+> 1998, c. 10, s. 31; 2001, c. 4, s. 139; 2008, c. 21, s. 19
 
 
 
@@ -893,7 +893,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Other information to be given to Minister**
 
 - **(5)** A port authority shall provide the Minister with such accounts, budgets, returns, statements, documents, records, books, reports or other information as the Minister may require, including information about any contingent liabilities of the port authority or of its wholly-owned subsidiaries.
-> 1998, c. 10, s. 37; 2008, c. 21, s. 20.
+> 1998, c. 10, s. 37; 2008, c. 21, s. 20
 
 
 
@@ -920,7 +920,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Business plan**
 
 **39** A port authority shall, within three months after the end of each fiscal year, submit to the Minister, in respect of itself and each of its wholly-owned subsidiaries, a five-year business plan containing any information that the Minister may require, including any material changes in respect of information provided in the previous business plan.
-> 1998, c. 10, s. 39; 2008, c. 21, s. 21.
+> 1998, c. 10, s. 39; 2008, c. 21, s. 21
 
 
 
@@ -1029,7 +1029,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Holding of real property and immovables**
 
 - **(6)** A port authority may manage, occupy or hold only the real property and immovables set out in its letters patent.
-> 1998, c. 10, s. 44; 2001, c. 4, s. 140; 2008, c. 21, s. 22.
+> 1998, c. 10, s. 44; 2001, c. 4, s. 140; 2008, c. 21, s. 22
 
 
 
@@ -1068,7 +1068,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application of provincial law**
 
 - **(4)** A lease or licence of any federal real property or federal immovable may be effected by any instrument by which, under the laws in force in the province in which that property is situated, real property or immovables may be leased or a licence may be granted by a private person.
-> 1998, c. 10, s. 45; 2001, c. 4, s. 141; 2008, c. 21, s. 23.
+> 1998, c. 10, s. 45; 2001, c. 4, s. 141; 2008, c. 21, s. 23
 
 
 
@@ -1083,7 +1083,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Removal of management**
 
 - **(2)** If the management of the real property or immovable acquired under subsection (1) is removed from the port authority, Her Majesty does not become liable to the port authority for any portion of the price paid by it.
-> 2008, c. 21, s. 24.
+> 2008, c. 21, s. 24
 
 
 
@@ -1126,16 +1126,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application of provincial law**
 
 - **(3)** A grant may be effected by any instrument by which an interest in real property or a right in an immovable may be granted by a private person under the laws in force in the province in which the federal real property or federal immovable is situated.
-> 1998, c. 10, s. 46; 2001, c. 4, s. 141; 2008, c. 21, s. 25; 2014, c. 39, s. 228.
+> 1998, c. 10, s. 46; 2001, c. 4, s. 141; 2008, c. 21, s. 25; 2014, c. 39, s. 228
 
 
 
 
 
-**Navigation Protection Act**
+**[Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)**
 
-**47** The Navigation Protection Act does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 62.
-> 1998, c. 10, s. 47; 2008, c. 21, s. 26; 2012, c. 31, s. 342.
+**47** The [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 62.
+> 1998, c. 10, s. 47; 2008, c. 21, s. 26; 2012, c. 31, s. 3422019, c. 28, s. 186
 
 
 
@@ -1185,7 +1185,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(9)** Land-use plans are not regulations within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1998, c. 10, s. 48; 2001, c. 4, s. 142; 2014, c. 39, s. 229.
+> 1998, c. 10, s. 48; 2001, c. 4, s. 142; 2014, c. 39, s. 229
 
 
 
@@ -1265,7 +1265,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(4)** The notice required by this section does not apply to any fees accepted in a contract under section 53.
-> 1998, c. 10, s. 51; 2008, c. 21, s. 27(F).
+> 1998, c. 10, s. 51; 2008, c. 21, s. 27(F)
 
 
 
@@ -1280,7 +1280,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Governor in Council may vary or rescind**
 
 - **(2)** Section 40 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) applies, with such modifications as the circumstances require, to every report of the Agency made under subsection (1) as if the report were a decision made pursuant to that Act.
-> 1998, c. 10, s. 52; 2008, c. 21, s. 28(F).
+> 1998, c. 10, s. 52; 2008, c. 21, s. 28(F)
 
 
 
@@ -1289,7 +1289,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Fees by contract**
 
 **53** A port authority may enter into an agreement, that the parties may agree to keep confidential, fixing an amount to be paid to the port authority in respect of the persons and things set out in paragraphs 49(1)(a) to (c) that is different from the fees fixed under those paragraphs.
-> 1998, c. 10, s. 53; 2008, c. 21, s. 29.
+> 1998, c. 10, s. 53; 2008, c. 21, s. 29
 
 
 
@@ -1320,9 +1320,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The Governor in Council may, by issuing a certificate of dissolution, dissolve a port authority without requiring the liquidation of its assets, in which case the obligations and assets of the port authority revert on dissolution to Her Majesty in right of Canada under the administration of the Minister.
 
-**Publication in Canada Gazette**
+**Publication in [Canada Gazette](http://www.gazette.gc.ca/)**
 
-- **(3)** A certificate of dissolution issued under this section becomes effective thirty days after the date it is published in the Canada Gazette.
+- **(3)** A certificate of dissolution issued under this section becomes effective thirty days after the date it is published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Revocation**
 
@@ -1359,7 +1359,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Consistency**
 
 - **(3)** Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
-> 1998, c. 10, s. 56; 2001, c. 26, s. 276; 2008, c. 21, s. 30(F).
+> 1998, c. 10, s. 56; 2001, c. 26, s. 276; 2008, c. 21, s. 30(F)
 
 
 
@@ -1426,7 +1426,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** No ship shall
 	- **(a)** if it is required to obtain a traffic clearance, enter, leave or proceed within a port or a traffic control zone without having obtained the clearance; or
 	- **(b)** if required to maintain direct communication with a person designated under subsection (1), proceed within a port or a traffic control zone unless it is able to do so.
-> 1998, c. 10, s. 58; 2001, c. 26, s. 277; 2008, c. 21, s. 31.
+> 1998, c. 10, s. 58; 2001, c. 26, s. 277; 2008, c. 21, s. 31
 
 
 
@@ -1451,7 +1451,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Proof of offence by ship**
 
 - **(3)** Where a ship is prosecuted for an offence under this section, it is sufficient proof that the ship has committed the offence to establish that the act or omission that constitutes the offence was committed by the master of the ship or any person on board the ship, whether or not the person on board has been identified.
-> 1998, c. 10, s. 59; 2008, c. 21, s. 32.
+> 1998, c. 10, s. 59; 2008, c. 21, s. 32
 
 
 
@@ -1477,7 +1477,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Marine transportation security**
 
 - **(2)** Subject to any regulations made under the [Marine Transportation Security Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2040.md), a port authority shall take appropriate measures for the maintenance of marine transportation security.
-> 1998, c. 10, s. 61; 2008, c. 21, s. 33; 2014, c. 39, s. 230.
+> 1998, c. 10, s. 61; 2008, c. 21, s. 33; 2014, c. 39, s. 230
 
 
 
@@ -1513,7 +1513,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Transitional**
 
 - **(4)** Subject to subsection 49(6), any regulations made before the coming into force of this section with respect to a port in respect of which letters patent are issued to a port authority shall, to the extent that they are compatible with this Act, continue in force for a period ending on the earlier of the expiration of twelve months after the letters patent are issued and the date on which regulations to replace them are made under subsection (1) with respect to that port.
-> 1998, c. 10, s. 62; 2001, c. 4, s. 143; 2008, c. 21, s. 34.
+> 1998, c. 10, s. 62; 2001, c. 4, s. 143; 2008, c. 21, s. 34
 
 
 
@@ -1592,7 +1592,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application to Crown**
 
 - **(3)** A regulation made under subsection (1) may be made binding on Her Majesty in right of Canada or a province.
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1607,7 +1607,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Existing power not limited**
 
 - **(2)** For greater certainty, the express power referred to in subsection (1) to incorporate a document by reference does not limit the power that otherwise exists to incorporate a document by reference in a regulation made under this Act.
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1616,7 +1616,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Conflict with regulations under another Act**
 
 **64.3** Regulations made under subsection 63(2) or under any other Act of Parliament prevail over regulations made under subsection 64.1(1) to the extent of any conflict or inconsistency between them, unless otherwise provided in the regulations made under subsection 64.1(1).
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1625,7 +1625,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Conflict with rules**
 
 **64.4** Regulations made under subsection 64.1(1) prevail over any by-laws, practices and procedures or other similar instruments, and land-use plans, made by a port authority to the extent of any conflict or inconsistency between them, unless otherwise provided in those regulations.
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1634,7 +1634,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Non-application**
 
 **64.5** Sections 108 to 129.19 do not apply to the administration and enforcement of and the contravention of a regulation made under subsection 64.1(1).
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1653,7 +1653,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Dispute resolution**
 
 - **(2)** An agreement referred to in subsection (1) may provide for the arbitration, in accord­ance with the law of the province, of disputes arising from the interpretation or application of that agreement, in which case the [Commercial Arbitration Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2017%20(2nd%20Supp.).md) does not apply to the dispute.
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1666,7 +1666,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 **64.7** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to any legislative instrument made by a provincial official or body under the authority of a provincial law that is incorporated by reference in a regulation made under subsection 64.1(1).
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1681,7 +1681,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Review or appeal in provincial courts**
 
 - **(2)** Unless otherwise provided by a regulation made under subsection 64.1(1), if a power is conferred or a duty or function is imposed by a provincial law that is incorporated by reference in the regulation, the exercise of the power or the performance of the duty or function is subject to review by, or appeal to, the courts of the province in the same manner and to the same extent as if the provincial law applied.
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1690,7 +1690,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Amounts collected**
 
 **64.9** Payments collected by a provincial official or body under a regulation made under subsection 64.1(1) are not public money for the purposes of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1699,7 +1699,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
 **64.91** For greater certainty, the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to any fee that is fixed under a provincial law that is incorporated by reference in a regulation made under subsection 64.1(1).
-> 2014, c. 39, s. 231; 2017, c. 20, s. 454.
+> 2014, c. 39, s. 231; 2017, c. 20, s. 454
 
 
 
@@ -1714,7 +1714,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **64.92** In respect of any act or omission occurring in the exercise of a power or the performance of a duty or function under a regulation made under subsection 64.1(1),
 - **(a)** Her Majesty in right of Canada is entitled to the same limits on liability, defences and immunities as those that would apply to Her Majesty in right of the province in which the undertaking that is the subject of the regulation is situated when Her Majesty in right of that province exercises such a power or performs such a duty or function under the law of that province; and
 - **(b)** a port authority and any person or body exercising the power or performing the duty or function is entitled, unless otherwise provided by the regulation, to the same limits on liability, defences and immunities as those that would apply to a person or body when the person or body exercises such a power or performs such a duty or function under the law of the province in which the undertaking that is the subject of the regulation is situated.
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1723,7 +1723,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Right or interest in port**
 
 **64.93** No civil proceeding may be brought, no order may be made and no fine or monetary penalty may be imposed against Her Majesty in right of Canada or a port authority, in relation to an undertaking that is situated in a port, under regulations made under subsection 64.1(1), based on any right or interest held by Her Majesty or the port authority in that port.
-> 2014, c. 39, s. 231.
+> 2014, c. 39, s. 231
 
 
 
@@ -1770,7 +1770,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Orders continued**
 
 - **(7)** A termination order made under subsection 8(2) of the Public Harbours and Port Facilities Act is deemed to be a regulation made under subsection (6) and continues in force until it is repealed under the latter subsection.
-> 1998, c. 10, s. 65; 2008, c. 21, s. 35.
+> 1998, c. 10, s. 65; 2008, c. 21, s. 35
 
 
 
@@ -1789,7 +1789,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Power of Minister**
 
 - **(3)** For greater certainty, the repeal of the designation of a public port or public port facility does not terminate the application of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md) to the federal real property and federal immovables that formed part of the port or facility and that are owned by Her Majesty in right of Canada.
-> 1998, c. 10, s. 66; 2001, c. 4, s. 144; 2008, c. 21, s. 36(F).
+> 1998, c. 10, s. 66; 2001, c. 4, s. 144; 2008, c. 21, s. 36(F)
 
 
 
@@ -1847,7 +1847,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Transitional**
 
 - **(3)** An appointment as a harbour master or wharfinger made by the Minister under subsection 11(2) of the Public Harbours and Ports Facilities Act, and the remuneration determined by the Governor in Council under subsection 11(3) of that Act in respect of that appointment, continue in effect as though they had been made and fixed under this section.
-> 1998, c. 10, s. 69; 2008, c. 21, s. 37.
+> 1998, c. 10, s. 69; 2008, c. 21, s. 37
 
 
 
@@ -1877,7 +1877,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application of provincial law**
 
 - **(2)** A lease or licence of any federal real property or federal immovable may be effected by any instrument by which, under the laws in force in the province in which that property is situated, real property or immovables may be leased or a licence may be granted by a private person.
-> 1998, c. 10, s. 71; 2001, c. 4, s. 145; 2008, c. 21, s. 38(F).
+> 1998, c. 10, s. 71; 2001, c. 4, s. 145; 2008, c. 21, s. 38(F)
 
 
 
@@ -1920,7 +1920,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Minister responsible**
 
 - **(8)** Subject to any regulations made under section 74, the Minister continues to have the management of public ports and public port facilities that the Minister has not disposed of or transferred.
-> 1998, c. 10, s. 72; 2001, c. 4, s. 146; 2008, c. 21, s. 39.
+> 1998, c. 10, s. 72; 2001, c. 4, s. 146; 2008, c. 21, s. 39
 
 
 
@@ -1930,10 +1930,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Navigation Protection Act**
+**[Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)**
 
-**73** The Navigation Protection Act does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 74.
-> 1998, c. 10, s. 73; 2008, c. 21, s. 40; 2012, c. 31, s. 343.
+**73** The [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 74.
+> 1998, c. 10, s. 73; 2008, c. 21, s. 40; 2012, c. 31, s. 3432019, c. 28, s. 186
 
 
 
@@ -1964,7 +1964,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application to Crown**
 
 - **(3)** A regulation made under subsection (1) may be made binding on Her Majesty in right of Canada or a province.
-> 1998, c. 10, s. 74; 2008, c. 21, s. 41.
+> 1998, c. 10, s. 74; 2008, c. 21, s. 41
 
 
 
@@ -2104,7 +2104,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Obligations**
 
 - **(11)** The obligations imposed in respect of a not-for-profit corporation under sections 83 to 89 apply equally to a person who has entered into an agreement under subsection 80(5) to the extent that the agreement so provides.
-> 1998, c. 10, s. 80; 2001, c. 4, s. 147.
+> 1998, c. 10, s. 80; 2001, c. 4, s. 147
 
 
 
@@ -2119,10 +2119,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Rights and obligations preserved**
 
-**82** The rights and obligations of a person who enters into an agreement under subsection 80(5) are, where the agreement so provides and the Minister has published a notice in the Canada Gazette to that effect, as follows:
+**82** The rights and obligations of a person who enters into an agreement under subsection 80(5) are, where the agreement so provides and the Minister has published a notice in the [Canada Gazette](http://www.gazette.gc.ca/) to that effect, as follows:
 - **(a)** the name of the person shall be substituted for that of the Authority in every contract, collective agreement, lease, licence, permit or other document entered into or granted by the Authority, other than those set out specifically or by class in the agreement and notice; and
 - **(b)** the personal property or movable, and any rights related to it, that the Authority administers, or the title to which it holds, on behalf of Her Majesty in right of Canada, whether or not in its own name, other than those set out specifically or by class in the agreement and notice, become the property and rights of the person.
-> 1998, c. 10, s. 82; 2008, c. 21, s. 42.
+> 1998, c. 10, s. 82; 2008, c. 21, s. 42
 
 
 
@@ -2271,7 +2271,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md)**
 
 **90** For the purposes of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md), the Minister or other member of the Queen’s Privy Council for Canada to whom any federal real property or federal immovable is transferred under subsection 80(1) or (2) has the administration of that property.
-> 1998, c. 10, s. 90; 2001, c. 4, s. 148; 2008, c. 21, s. 43(F).
+> 1998, c. 10, s. 90; 2001, c. 4, s. 148; 2008, c. 21, s. 43(F)
 
 
 
@@ -2303,7 +2303,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No pledge of property**
 
 - **(5)** A person who has entered into an agreement under subsection 80(5) may not mortgage, hypothecate, pledge or otherwise create a security interest in the property the person manages under that agreement in any way other than, where the agreement so provides, to pledge its revenues for the term of the agreement.
-> 1998, c. 10, s. 91; 2001, c. 4, s. 149; 2008, c. 21, s. 44(F).
+> 1998, c. 10, s. 91; 2001, c. 4, s. 149; 2008, c. 21, s. 44(F)
 
 
 
@@ -2358,7 +2358,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Governor in Council may vary or rescind**
 
 - **(3)** Section 40 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) applies, with such modifications as the circumstances require, to every report of the Agency made under subsection (2) as if the report were a decision made pursuant to that Act.
-> 1998, c. 10, s. 94; 2008, c. 21, s. 45(F).
+> 1998, c. 10, s. 94; 2008, c. 21, s. 45(F)
 
 
 
@@ -2441,7 +2441,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deeming provision**
 
 - **(3)** Regulations made by the Authority under section 20 of the St. Lawrence Seaway Authority Act are, to the extent that they are compatible with this Act, deemed to have been made by the Governor in Council under this section.
-> 1998, c. 10, s. 98; 2001, c. 4, s. 150(F); 2008, c. 21, s. 46.
+> 1998, c. 10, s. 98; 2001, c. 4, s. 150(F); 2008, c. 21, s. 46
 
 
 
@@ -2469,10 +2469,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Navigation Protection Act**
+**[Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)**
 
-**101** The Navigation Protection Act does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 98.
-> 1998, c. 10, s. 101; 2008, c. 21, s. 47; 2012, c. 31, s. 344.
+**101** The [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 98.
+> 1998, c. 10, s. 101; 2008, c. 21, s. 47; 2012, c. 31, s. 3442019, c. 28, s. 186
 
 
 
@@ -2508,7 +2508,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(g)** the Federal Court. (*tribunal*)
 
 ***court of appeal*** means, in the province in which an order referred to in subsection 119(3) is made, the court of appeal for that province as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). It includes the Federal Court of Appeal. (*tribunal d’appel*)
-> 1998, c. 10, s. 103; 1999, c. 3, s. 18; 2002, c. 7, s. 105(E), c. 8, s. 183; 2015, c. 3, s. 17.
+> 1998, c. 10, s. 103; 1999, c. 3, s. 18; 2002, c. 7, s. 105(E), c. 8, s. 183; 2015, c. 3, s. 17
 
 
 
@@ -2572,7 +2572,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Fees for use**
 
 - **(2)** The fees and interest fixed under this Act in respect of a person, vehicle or aircraft shall be paid by that person or by the owner of the vehicle or aircraft.
-> 1998, c. 10, s. 107; 2008, c. 21, s. 48(F).
+> 1998, c. 10, s. 107; 2008, c. 21, s. 48(F)
 
 
 
@@ -2716,7 +2716,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Order to be in writing**
 
 - **(4)** A detention order made under subsection (1) or (2) shall be in writing and be addressed to all persons who, at the place where the ship is or will be, are authorized to give a clearance in respect of the ship.
-> 1998, c. 10, s. 115; 2008, c. 21, s. 49.
+> 1998, c. 10, s. 115; 2008, c. 21, s. 49
 
 
 
@@ -2755,7 +2755,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Court may determine amount of security**
 
 - **(5)** Where the owner or master of a ship disputes the amount of security demanded under paragraph (4)(c) or (d), the owner may apply to a court to determine the amount of security.
-> 1998, c. 10, s. 116; 2008, c. 21, s. 50.
+> 1998, c. 10, s. 116; 2008, c. 21, s. 50
 
 
 
@@ -2794,7 +2794,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** the ship has been charged with an offence under this Act or proceedings have been brought against it in respect of the non-payment of fees or damages referred to in paragraph 115(1)(c) within thirty days after the making of the detention order;
 	- **(c)** within thirty days after the day on which the ship was charged with the offence or the proceedings were commenced, someone has appeared or filed a response on behalf of the ship but the security referred to in subsection 116(4) has not been given; and
 	- **(d)** the ship is convicted or found liable, as the case may be, and the fine imposed or the amount of the damages and interest is not immediately paid.
-> 1998, c. 10, s. 117; 2008, c. 21, s. 51.
+> 1998, c. 10, s. 117; 2008, c. 21, s. 51
 
 
 
@@ -2887,7 +2887,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **At risk, cost and charges of owner**
 
 - **(7)** Every seizure and detention made under this Act shall be at the risk, cost and charges of the owner of the ship or goods until all amounts due or fines imposed, together with all costs and charges incurred in the seizure and detention and the costs of any conviction obtained, have been paid in full.
-> 1998, c. 10, s. 120; 2001, c. 26, s. 278.
+> 1998, c. 10, s. 120; 2001, c. 26, s. 278
 
 
 
@@ -2900,7 +2900,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Sale of perishable goods**
 
 **121** Where, in the opinion of an enforcement officer, any goods that have been seized and detained under this Act, or that have been abandoned, are likely to rot, spoil or otherwise perish, the officer may sell or otherwise dispose of the goods in the manner and for the price that is reasonable in the circumstances, and the proceeds of the disposition are to be credited toward payment of the amount due or payable in respect of the ship or goods and the expenses incurred in connection with the detention and sale.
-> 1998, c. 10, s. 121; 2008, c. 21, s. 52(F).
+> 1998, c. 10, s. 121; 2008, c. 21, s. 52(F)
 
 
 
@@ -2917,7 +2917,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Lien on goods**
 
 - **(2)** A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on goods on the property under their jurisdiction for fees and interest owing to them in respect of the goods, the lien having priority over all other rights, interests, claims and demands and they may seize the goods.
-> 1998, c. 10, s. 122; 2001, c. 26, s. 279; 2008, c. 21, s. 53(F).
+> 1998, c. 10, s. 122; 2001, c. 26, s. 279; 2008, c. 21, s. 53(F)
 
 
 
@@ -2985,7 +2985,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Code of conduct**
 
 - **(3)** Notwithstanding subsection (1), a director or officer of a port authority is not guilty of an offence under this Act for non-compliance with the code of conduct set out in the letters patent of the port authority.
-> 1998, c. 10, s. 127; 2008, c. 21, s. 54.
+> 1998, c. 10, s. 127; 2008, c. 21, s. 54
 
 
 
@@ -3000,7 +3000,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitation period**
 
 - **(2)** Proceedings in respect of an offence under this Act may be commenced at any time within, but not later than, one year after the time when the subject-matter of the proceedings arose.
-> 1998, c. 10, s. 128; 2008, c. 21, s. 55(E).
+> 1998, c. 10, s. 128; 2008, c. 21, s. 55(E)
 
 
 
@@ -3015,7 +3015,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Civil remedy not affected**
 
 - **(2)** No civil remedy for an act or omission is suspended or affected by reason that the act or omission is an offence under Part 1 or the regulations made under paragraph 27(1)(a).
-> 1998, c. 10, s. 129; 2008, c. 21, s. 56.
+> 1998, c. 10, s. 129; 2008, c. 21, s. 56
 
 
 
@@ -3028,7 +3028,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of Appeal Tribunal**
 
 **129.01** For the purposes of sections 129.06, 129.08 and 129.1 to 129.13, ***Appeal Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md).
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3037,7 +3037,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Violations**
 
 **129.02** Every person or ship that contravenes a provision or instruction designated under paragraph 129.03(a) commits a violation and is liable to an administrative monetary penalty not exceeding the maximum established by regulation.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3055,7 +3055,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d)** designating provisions or instructions the contravention of which, if continued on more than one day, constitutes a separate violation in respect of each day during which the violation is continued;
 - **(e)** respecting the service of the notice that is required to be served under subsection 129.05(1), including the manner and proof of service and the circumstances under which the notice is deemed to be served; and
 - **(f)** generally, for carrying out the purposes and provisions of this section and sections 129.04 to 129.17.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3068,7 +3068,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** the seriousness of the violation, including the frequency and duration of the conduct;
 - **(c)** the history of the person or ship that has been served with the notice of violation with respect to any prior violation or conviction under this Act within the five-year period immediately before the violation; and
 - **(d)** any other criteria established under paragraph 129.03(c).
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3088,7 +3088,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** set out the administrative monetary penalty that the person or ship is liable to pay;
 	- **(d)** set out the particulars concerning the time for and manner of paying the penalty and the time for and manner of requesting a review; and
 	- **(e)** inform the person or ship that, if they do not pay the penalty or request a review in accordance with the particulars set out in the notice, they will be deemed to have committed the violation and the penalty set out in the notice will be imposed.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3097,7 +3097,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Option**
 
 **129.06** A person or ship that has been served with a notice of violation shall either pay the penalty set out in the notice or file with the Appeal Tribunal a written request for a review of the facts of the alleged violation or of the amount of the penalty.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3106,7 +3106,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Payment of penalty**
 
 **129.07** If the person or ship pays the penalty in accordance with the particulars set out in the notice of violation, the person or ship is deemed to have committed the violation and proceedings in respect of the violation are ended.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3133,7 +3133,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Person or ship not compelled to testify**
 
 - **(5)** A person or ship that is alleged to have committed a violation is not required, and may not be compelled, to give any evidence or testimony in the matter.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3142,7 +3142,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Failure to pay penalty or request review**
 
 **129.09** A person or ship that neither pays the penalty nor files a request for a review in accordance with the particulars set out in the notice of violation is deemed to have committed the violation.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3161,7 +3161,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Violation**
 
 - **(3)** If the member determines that the person or ship has committed the alleged violation, then the member shall also inform the person or ship and the Minister of the administrative monetary penalty determined by the member to be payable in respect of the violation.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3184,7 +3184,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Obligation to inform**
 
 - **(4)** If the appeal panel finds that a person or ship has committed the alleged violation, the panel shall without delay inform the person or ship of the finding and of the administrative monetary penalty determined by the panel to be payable in respect of the violation.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3196,7 +3196,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** unless a review of the facts of the alleged violation or the amount of the penalty is requested in accordance with the particulars set out in the notice of violation, the amount of a penalty set out in the notice, beginning on the day on which the notice was served;
 - **(b)** the amount of a penalty determined by a member of the Appeal Tribunal under section 129.1 or decided by the appeal panel of the Appeal Tribunal under section 129.11, beginning on the day on which the respective determination or decision was made; and
 - **(c)** the amount of any reasonable expenses incurred in attempting to recover an amount referred to in paragraph (a) or (b).
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3211,7 +3211,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Judgments**
 
 - **(2)** On production in any superior court, a certificate made under subsection (1) is to be registered in that court and, when registered, has the same force and effect, and all proceedings may be taken on it, as if it were a judgment obtained in that court for a debt of the amount specified in it and all reasonable costs and charges attendant in its registration.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3220,7 +3220,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Directors and officers of corporations**
 
 **129.14** If a corporation commits a violation, every person who at the time of the commission of the violation was a director or officer of the corporation is a party to and liable for the violation unless the act or omission constituting the violation took place without the person’s knowledge or consent or the person exercised due diligence to prevent the commission of the violation.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3229,7 +3229,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Vicarious liability — acts of employees, agents and mandataries**
 
 **129.15** A person or ship is liable for a violation that is committed by their employee acting within the scope of their employment or their agent or mandatary acting within the scope of their authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against, unless the person or ship establishes that the violation was committed without the person’s or ship’s knowledge or consent.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3238,7 +3238,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Violations not offences**
 
 **129.16** For greater certainty, a violation is not an offence. Accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3247,7 +3247,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Due diligence available**
 
 **129.17** Due diligence is a defence in a proceeding in respect of a violation.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3260,7 +3260,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **How act or omission may be proceeded with**
 
 **129.18** If an act or an omission can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3275,7 +3275,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Certification by Minister**
 
 - **(2)** A document appearing to have been issued by the Minister, certifying the day on which the subject-matter of any proceedings became known to the Minister, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof that the Minister became aware of the subject-matter on that day.
-> 2008, c. 21, s. 57.
+> 2008, c. 21, s. 57
 
 
 
@@ -3328,7 +3328,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **133** Where, under section 10, letters patent are issued to a harbour commission continuing it as a port authority, sections 44 to 46 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) apply as if
 - **(a)** a sale of a business had taken place between the harbour commission and the port authority; and
 - **(b)** the employees of the harbour commission were employees of the business.
-> 1998, c. 10, s. 133; 2008, c. 21, s. 58.
+> 1998, c. 10, s. 133; 2008, c. 21, s. 58
 
 
 
@@ -3373,7 +3373,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md)**
 
 - **(2)** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), the employees referred to in subsection (1) are deemed to be employees in the federal public administration.
-> 1998, c. 10, s. 136; 2003, c. 22, s. 114.
+> 1998, c. 10, s. 136; 2003, c. 22, s. 114
 
 
 
@@ -3389,7 +3389,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md)**
 
 **138** For greater certainty, the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) does not apply to designated employees of a non-corporate port that is continued as a port authority under section 12, or to employees appointed under subsection 136(1), after the date of the repeal of the Canada Ports Corporation Act.
-> 1998, c. 10, s. 138; 2003, c. 22, s. 223(E); 2017, c. 9, s. 55.
+> 1998, c. 10, s. 138; 2003, c. 22, s. 223(E); 2017, c. 9, s. 55
 
 
 
@@ -3647,6 +3647,48 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **3** Vancouver Fraser Port Authority
 
 
-> 1998, c. 10, Sch.; SOR/2000-125; 2008, c. 21, ss. 59(E), 60(F); SOR/2013-29; SOR/2017-68.
+> 1998, c. 10, Sch.; SOR/2000-125; 2008, c. 21, ss. 59(E), 60(F); SOR/2013-29; SOR/2017-68
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 1998, c. 30, s. 11(1)
+
+
+**Transitional — cross-references**
+
+**11** 
+
+- **(1)** In any Act of Parliament, other than in a provision amended by sections 12 to 16, or in any proclamation, regulation, order, instrument or other document, a reference to the Ontario Court (General Division) or the Ontario Court (Provincial Division) shall be construed, with respect to any transaction, matter or event occurring after the coming into force of this section, as a reference to
+	- **(a)** in the case of the Ontario Court (General Division), the Superior Court of Justice or the Superior Court of Justice in and for the Province of Ontario, as the case may require; and
+	- **(b)** in the case of the Ontario Court (Provincial Division), the Ontario Court of Justice.
+
+
+
+######           — 2008, c. 21, s. 63
+
+
+**Continued effect**
+
+**63** Paragraph 25(b) of the Canada Marine Act, as it read immediately before the coming into force of section 14 of this Act, continues to apply in respect of a grant under an agreement in existence at the time of the coming into force of that section.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2013, c. 33, s. 211
+
+**211** Section 143 of the Canada Marine Act is repealed.
+
+
+
+######           — 2013, c. 40, s. 262
+
+**262** Section 142 of the Canada Marine Act is repealed.
+
 
 
