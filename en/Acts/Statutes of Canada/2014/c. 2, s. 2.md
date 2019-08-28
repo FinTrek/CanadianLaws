@@ -371,9 +371,11 @@ It does not include lands that lie seaward of the line of delimitation, other th
 	- **(a)** affect the unitization of those straddling resources that are referred to in the Agreement for Coordination and Cooperation in the Management and Administration of Petroleum Resources in the Inuvialuit Settlement Region that was made on June 25, 2013, as amended from time to time; or
 	- **(b)** limit how that agreement applies to or is implemented by the Government of the Northwest Territories.
 
-**National Energy Board**
+**Canadian Energy Regulator**
 
-- **(2)** Despite sections 18 and 19, during the period of 20 years beginning on the day on which section 1 comes into force, the Legislature must not amend a law of the Legislature without the consent of the Governor in Council if the law as amended would affect the regulatory functions of the National Energy Board in that part of the Inuvialuit Settlement Region — as defined in section 2 of the Inuvialuit Final Agreement — that is situated in the onshore.
+- **(2)** Despite sections 18 and 19, during the period of 20 years beginning on the day on which section 1 comes into force, the Legislature must not amend a law of the Legislature without the consent of the Governor in Council if the law as amended would affect the regulatory functions of the Canadian Energy Regulator in that part of the Inuvialuit Settlement Region — as defined in section 2 of the Inuvialuit Final Agreement — that is situated in the onshore.
+> 2014, c. 2, s. 2 “22”2019, c. 28, s. 185
+
 
 
 
@@ -1169,12 +1171,6 @@ For greater certainty, it includes a right or interest referred to in paragraph 
 **Repeal — subsections 4(3) and (4)**
 
 **80** Subsections 4(3) and (4) are repealed 10 years after the day on which section 1 comes into force.
-
-
-
-######           — 2019, c. 28, s. 185
-
-**185** Subsection 22(2) of the Northwest Territories Act is amended by replacing “National Energy Board” with “Canadian Energy Regulator”.
 
 
 
