@@ -217,8 +217,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application**
 
-**6** La [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas au Yukon.
-> 2003, ch. 7, art. 6; 2015, ch. 19, art. 2
+**6** La [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ne s’applique pas au Yukon.
+> 2003, ch. 7, art. 6; 2015, ch. 19, art. 22019, ch. 28, art. 188
 
 
 
@@ -1644,15 +1644,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **87** 
 
-- **(1)** Les organismes administratifs autonomes fédéraux ne peuvent ordonner la réalisation d’un projet de développement, ni prendre de mesure visant à permettre celle-ci, avant la prise, par tout décisionnaire fédéral et, dans le cas de l’Office national de l’énergie, par le ministre territorial, d’une décision écrite au titre des articles 75, 76 ou 77.
+- **(1)** Les organismes administratifs autonomes fédéraux ne peuvent ordonner la réalisation d’un projet de développement, ni prendre de mesure visant à permettre celle-ci, avant la prise, par tout décisionnaire fédéral et, dans le cas de la Régie canadienne de l’énergie, par le ministre territorial, d’une décision écrite au titre des articles 75, 76 ou 77.
 
 **Mise en oeuvre des décisions écrites**
 
-- **(2)** Ces organismes — exception faite de l’Office national de l’énergie — sont tenus, dans la mesure du possible, d’une part, de veiller à mettre en oeuvre, en ce qui touche tant l’ordre de réaliser le projet de développement que la prise de mesures visant à en permettre la réalisation, la décision écrite prise par tout décisionnaire fédéral et, d’autre part, de veiller à la conformité avec cette décision de toute autorisation qu’ils délivrent à cette fin. Les motifs justifiant la non-conformité doivent être communiqués par écrit au décisionnaire.
+- **(2)** Ces organismes — exception faite de la Régie canadienne de l’énergie — sont tenus, dans la mesure du possible, d’une part, de veiller à mettre en oeuvre, en ce qui touche tant l’ordre de réaliser le projet de développement que la prise de mesures visant à en permettre la réalisation, la décision écrite prise par tout décisionnaire fédéral et, d’autre part, de veiller à la conformité avec cette décision de toute autorisation qu’ils délivrent à cette fin. Les motifs justifiant la non-conformité doivent être communiqués par écrit au décisionnaire.
 
-**Office national de l’énergie**
+**Commission de la Régie canadienne de l’énergie**
 
-- **(3)** L’Office national de l’énergie tient compte, en ce qui touche tant l’ordre de réaliser un projet de développement que l’attribution d’une autorisation nécessaire à la réalisation de celui-ci ou d’une aide financière à son égard, de la décision écrite prise par tout décisionnaire fédéral ou par le ministre territorial à cet égard. Les motifs justifiant la non-conformité de l’autorisation doivent être communiqués par écrit à ces derniers.
+- **(3)** La Commission de la Régie canadienne de l’énergie tient compte, en ce qui touche tant l’ordre de réaliser un projet de développement que l’attribution d’une autorisation nécessaire à la réalisation de celui-ci, de la décision écrite prise par tout décisionnaire fédéral ou par le ministre territorial à cet égard. Les motifs justifiant la non-conformité de l’autorisation doivent être communiqués par écrit à ces derniers.
+
+**Régie canadienne de l’énergie**
+
+- **(4)** La Régie canadienne de l’énergie tient compte, en ce qui touche l’attribution d’une aide financière à l’égard d’un projet de développement, de la décision prise par tout décisionnaire fédéral ou par le ministre territorial à cet égard.
+> 2003, ch. 7, art. 872019, ch. 28, art. 176
+
 
 
 
@@ -2472,7 +2478,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 Commission canadienne de sûreté nucléaire<br />- <i>Canadian Nuclear Safety Commission</i>
 
-Office national de l’énergie<br />- <i>National Energy Board</i>
+Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
 
 
 
@@ -2483,7 +2489,7 @@ Office national de l’énergie<br />- <i>National Energy Board</i>
 
 
 
-> 2003, ch. 7, ann.; 2015, ch. 19, art. 38
+> 2003, ch. 7, ann.; 2015, ch. 19, art. 382019, ch. 28, art. 1772019, ch. 28, art. 178
 
 
 
@@ -2560,58 +2566,6 @@ Office national de l’énergie<br />- <i>National Energy Board</i>
 - **g)** à l’organisme compétent en matière de droits de surface dans les cas où il est appelé, en vertu des textes législatifs territoriaux, à rendre une ordonnance d’accès relativement au projet de développement;
 
 
-
-
-
-######           — 2019, ch. 28, art. 176
-
-**176** L’article 87 de la Loi sur l’évaluation environnementale et socioéconomique au Yukon est remplacé par ce qui suit :
-
-**Organismes administratifs autonomes fédéraux**
-
-**87** 
-
-- **(1)** Les organismes administratifs autonomes fédéraux ne peuvent ordonner la réalisation d’un projet de développement, ni prendre de mesure visant à permettre celle-ci, avant la prise, par tout décisionnaire fédéral et, dans le cas de la Régie canadienne de l’énergie, par le ministre territorial, d’une décision écrite au titre des articles 75, 76 ou 77.
-
-**Mise en oeuvre des décisions écrites**
-
-- **(2)** Ces organismes — exception faite de la Régie canadienne de l’énergie — sont tenus, dans la mesure du possible, d’une part, de veiller à mettre en oeuvre, en ce qui touche tant l’ordre de réaliser le projet de développement que la prise de mesures visant à en permettre la réalisation, la décision écrite prise par tout décisionnaire fédéral et, d’autre part, de veiller à la conformité avec cette décision de toute autorisation qu’ils délivrent à cette fin. Les motifs justifiant la non-conformité doivent être communiqués par écrit au décisionnaire.
-
-**Commission de la Régie canadienne de l’énergie**
-
-- **(3)** La Commission de la Régie canadienne de l’énergie tient compte, en ce qui touche tant l’ordre de réaliser un projet de développement que l’attribution d’une autorisation nécessaire à la réalisation de celui-ci, de la décision écrite prise par tout décisionnaire fédéral ou par le ministre territorial à cet égard. Les motifs justifiant la non-conformité de l’autorisation doivent être communiqués par écrit à ces derniers.
-
-**Régie canadienne de l’énergie**
-
-- **(4)** La Régie canadienne de l’énergie tient compte, en ce qui touche l’attribution d’une aide financière à l’égard d’un projet de développement, de la décision prise par tout décisionnaire fédéral ou par le ministre territorial à cet égard.
-
-
-
-
-
-######           — 2019, ch. 28, art. 177
-
-**177** La partie 1 de l’annexe de la même loi est modifiée par suppression, sous l’intertitre « Organismes administratifs autonomes fédéraux », de ce qui suit :
-
-Office national de l’énergie<br />- <i>National Energy Board</i>
-
-
-
-######           — 2019, ch. 28, art. 178
-
-**178** La partie 1 de l’annexe de la même loi est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « Organismes administratifs autonomes fédéraux », de ce qui suit :
-
-Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
-
-
-
-######           — 2019, ch. 28, al. 188b)
-
-
-**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
-
-**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
-- **b)** l’article 6 de la Loi sur l’évaluation environnementale et socioéconomique au Yukon;
 
 
 
