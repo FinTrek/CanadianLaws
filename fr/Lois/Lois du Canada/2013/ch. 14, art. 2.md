@@ -188,9 +188,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md)**
+**[Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md)**
 
-**7** La [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas à la région désignée.
+**7** La [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ne s’applique pas à la région désignée.
+> 2013, ch. 14, art. 2 « 7 »2019, ch. 28, art. 188
+
 
 
 
@@ -4140,41 +4142,13 @@ Commission canadienne de sûreté nucléaire<br />- <i>Canadian Nuclear Safety C
 
 Office des eaux du Nunavut<br />- <i>Nunavut Water Board</i>
 
-Office national de l’énergie<br />- <i>National Energy Board</i>
+Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
+> 2013, ch. 14, art. 2 « ann. 2 »2019, ch. 28, art. 1822019, ch. 28, art. 183
+
 
 
 
 ### **ANNEXE 3** 
 **(paragraphe 78(2), alinéa 155(1)a) et paragraphes 166(2) et 230(4))**
 ## Catégories d’ouvrages ou d’activités exemptés de l’examen préalable
-
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2019, ch. 28, art. 182
-
-**182** L’annexe 2 de la Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut est modifiée par suppression de ce qui suit :
-
-Office national de l’énergie<br />- <i>National Energy Board</i>
-
-
-
-######           — 2019, ch. 28, art. 183
-
-**183** L’annexe 2 de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
-
-Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
-
-
-
-######           — 2019, ch. 28, al. 188f)
-
-
-**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
-
-**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
-- **f)** l’article 7 de la Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut;
-
-
 
