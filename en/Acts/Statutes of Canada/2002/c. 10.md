@@ -1391,9 +1391,9 @@ and the owner or interested person accepts the undertaking, the undertaking is d
 
 - **(9)** A copy of the document evidencing the permission granted by the Minister under subsection (1), certified as such by the Chairperson of the Board, shall be deposited with the registrar of land titles for the registration district in which the affected lands are situated.
 
-**Duties of registrars of deeds**
+**Duties of registrars**
 
-- **(10)** The provisions of section 43 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) relating to plans, profiles and books of reference deposited with registrars of deeds under that Act and the duties of registrars of deeds with respect thereto, in so far as they are reasonably applicable and not inconsistent with this Part, apply in respect of copies of documents deposited under subsection (9).
+- **(10)** The provisions of section 210 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) relating to plans, profiles and books of reference deposited with land registrars under that Act and the duties of land registrars with respect to those plans, profiles and books, in so far as they are reasonably applicable and not inconsistent with this Part, apply in respect of copies of documents deposited under subsection (9).
 
 **Exceptions**
 
@@ -1402,6 +1402,8 @@ and the owner or interested person accepts the undertaking, the undertaking is d
 **Expropriation subject to Agreement**
 
 - **(12)** The expropriation of Inuit-owned land under this section is subject to the terms of Part 9 of Article 21 of the Agreement.
+> 2002, c. 10, s. 772019, c. 28, s. 173
+
 
 
 
@@ -3519,20 +3521,6 @@ I, ____________, do solemnly affirm (or swear) that I will faithfully, truly, im
 **Time limits**
 
 **54** With respect to an application for the issuance, renewal or amendment of a licence that was submitted before the day on which section 44 comes into force, the time limits referred to in section 55.2 of the Nunavut Waters and Nunavut Surface Rights Tribunal Act begin to run from the day of that coming into force.
-
-
-
-
-
-## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 28, s. 173
-
-**173** Subsection 77(10) of the Nunavut Waters and Nunavut Surface Rights Tribunal Act is replaced by the following:
-
-**Duties of registrars**
-
-- **(10)** The provisions of section 210 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) relating to plans, profiles and books of reference deposited with land registrars under that Act and the duties of land registrars with respect to those plans, profiles and books, in so far as they are reasonably applicable and not inconsistent with this Part, apply in respect of copies of documents deposited under subsection (9).
 
 
 
