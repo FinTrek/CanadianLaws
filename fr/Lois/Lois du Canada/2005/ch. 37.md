@@ -74,8 +74,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Effet de la loi**
 
-**5** Il est entendu que la présente loi n’a pas pour effet de porter atteinte à l’application de la Loi sur la protection de la navigation ni d’aucune autre loi fédérale en ce qui concerne la construction et l’entretien des ponts et ouvrages accessoires autorisés par la présente loi.
-> 2005, ch. 37, art. 5; 2012, ch. 31, art. 347.
+**5** Il est entendu que la présente loi n’a pas pour effet de porter atteinte à l’application de la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) ni d’aucune autre loi fédérale en ce qui concerne la construction et l’entretien des ponts et ouvrages accessoires autorisés par la présente loi.
+> 2005, ch. 37, art. 5; 2012, ch. 31, art. 3472019, ch. 28, art. 186
 
 
 
