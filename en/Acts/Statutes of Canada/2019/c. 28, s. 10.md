@@ -8,7 +8,7 @@
 Assented to on 21 June 2019
 
 ```
-[Enacted by section 10 of chapter 28 of the Statutes of Canada, 2019, not in force.]
+[Enacted by section 10 of chapter 28 of the Statutes of Canada, 2019, in force August 28, 2019, see SI/2019-86.]
 ```
 ----------
 
@@ -302,7 +302,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication and tabling**
 
-- **(3)** A copy of each order made under subsection (1) must be published in the Canada Gazette and tabled in each House of Parliament.
+- **(3)** A copy of each order made under subsection (1) must be published in the [Canada Gazette](http://www.gazette.gc.ca/) and tabled in each House of Parliament.
 
 
 
@@ -2356,7 +2356,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Public notice**
 
-**145** Immediately after a Tribunal is established, the Regulator must notify the public, in a manner that the Tribunal considers appropriate, of the Tribunal’s purpose and the manner in which to obtain information on making a claim for compensation and must publish in the Canada Gazette a notice setting out that purpose and the manner in which to obtain that information.
+**145** Immediately after a Tribunal is established, the Regulator must notify the public, in a manner that the Tribunal considers appropriate, of the Tribunal’s purpose and the manner in which to obtain information on making a claim for compensation and must publish in the [Canada Gazette](http://www.gazette.gc.ca/) a notice setting out that purpose and the manner in which to obtain that information.
 
 
 
@@ -2690,7 +2690,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication**
 
-- **(3)** The Minister must, without delay, publish in the Canada Gazette a notice setting out the portion established by the Minister of Finance.
+- **(3)** The Minister must, without delay, publish in the [Canada Gazette](http://www.gazette.gc.ca/) a notice setting out the portion established by the Minister of Finance.
 
 **Repayment**
 
@@ -2976,7 +2976,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication**
 
-- **(10)** Each order made under subsection (8) must be published in the Canada Gazette within 15 days after the day on which it is made.
+- **(10)** Each order made under subsection (8) must be published in the [Canada Gazette](http://www.gazette.gc.ca/) within 15 days after the day on which it is made.
 
 **Report is final and conclusive**
 
@@ -3001,7 +3001,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication**
 
-- **(4)** The order must be published in the Canada Gazette within 15 days after the day on which it is made.
+- **(4)** The order must be published in the [Canada Gazette](http://www.gazette.gc.ca/) within 15 days after the day on which it is made.
 
 **Obligation of Commission**
 
@@ -3074,7 +3074,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication**
 
-- **(6)** An order made under subsection (1) must be published in the Canada Gazette within 15 days after the day on which it is made.
+- **(6)** An order made under subsection (1) must be published in the [Canada Gazette](http://www.gazette.gc.ca/) within 15 days after the day on which it is made.
 
 
 
@@ -3095,7 +3095,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Application**
 
 - **(2)** The following rules govern an application under subsection (1):
-	- **(a)** the application must be filed in the Registry of the Federal Court of Appeal within 15 days after the day on which the order is published in the Canada Gazette;
+	- **(a)** the application must be filed in the Registry of the Federal Court of Appeal within 15 days after the day on which the order is published in the [Canada Gazette](http://www.gazette.gc.ca/);
 	- **(b)** a judge of that Court may, for special reasons, allow an extended time for filing and serving the application or notice; and
 	- **(c)** a judge of that Court must dispose of the application without delay and in a summary way and, unless a judge of that Court directs otherwise, without personal appearance.
 
@@ -3164,7 +3164,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Publication of order**
 
-**194** An order under section 191 or 192 must be published in the Canada Gazette within 15 days after the day on which it is made.
+**194** An order under section 191 or 192 must be published in the [Canada Gazette](http://www.gazette.gc.ca/) within 15 days after the day on which it is made.
 
 
 
@@ -4054,7 +4054,7 @@ where
 
 **249** 
 
-- **(1)** The applicant must cause to be published a notice of the application in the Canada Gazette and any other publications that the Commission considers appropriate.
+- **(1)** The applicant must cause to be published a notice of the application in the [Canada Gazette](http://www.gazette.gc.ca/) and any other publications that the Commission considers appropriate.
 
 **Waiver**
 
@@ -4629,7 +4629,7 @@ where
 
 **Publication of order**
 
-**284** An order under section 281 or 282 must be published in the Canada Gazette within 15 days after the day on which it is made.
+**284** An order under section 281 or 282 must be published in the [Canada Gazette](http://www.gazette.gc.ca/) within 15 days after the day on which it is made.
 
 
 
@@ -5268,12 +5268,15 @@ where
 **Consent of Governor in Council**
 
 - **(3)** A company must not take possession of, use or occupy the following lands without the consent of the Governor in Council:
-	- **(a)** Category IA or IA-N land, within the meaning of the Cree-Naskapi (of Quebec) Act; or
+	- **(a)** Category IA-N land, as defined in subsection 2(1) of the [Naskapi and the Cree-Naskapi Commission Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2018.md);
+	- **(a.1)** Category IA land, as defined in subsection 2(2) of the [Cree Nation of Eeyou Istchee Governance Agreement Act](/en/Acts/Statutes%20of%20Canada/2018/c.%204,%20s.%201.md); or
 	- **(b)** Sechelt lands, within the meaning of the [Sechelt Indian Band Self-Government Act](/en/Acts/Statutes%20of%20Canada/1986/c.%2027.md).
 
 **Compensation**
 
 - **(4)** If the lands referred to in subsection (1) or (3) are taken possession of, used or occupied by a company, or if they are injuriously affected by the construction of a pipeline, compensation must be made by that company.
+> 2019, c. 28, s. 10 “317”2018, c. 4, s. 135
+
 
 
 
@@ -5961,7 +5964,7 @@ where
 
 **357** 
 
-- **(1)** The applicant must cause a notice of the application to be published in the Canada Gazette and in any other publication that the Commission considers appropriate.
+- **(1)** The applicant must cause a notice of the application to be published in the [Canada Gazette](http://www.gazette.gc.ca/) and in any other publication that the Commission considers appropriate.
 
 **Waiver**
 
@@ -6589,5 +6592,478 @@ where
 **Review of Act after 10 years**
 
 **392** Ten years after the day on which this Act comes into force, a comprehensive review of the provisions and operation of the Act is to be undertaken by the committee of the Senate, of the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose.
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2019, c. 28, s. 11
+
+
+**Definitions**
+
+**11** 
+
+- **(1)** The following definitions apply in this section and sections 12 to 43.
+
+***commencement day*** means the day on which the Canadian Energy Regulator Act comes into force. (*date d’entrée en vigueur*)
+
+***National Energy Board*** means the National Energy Board established by section 3 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) as it read immediately before the commencement day. (*Office*)
+
+***Regulator*** means the Canadian Energy Regulator established by section 10 of the Canadian Energy Regulator Act. (*Régie*)
+
+**Terminology — [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md)**
+
+- **(2)** Unless the context requires otherwise, words and expressions used in sections 16 to 32 have the same meaning as in section 2 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+
+
+
+######           — 2019, c. 28, s. 12
+
+
+**Appointments terminated**
+
+**12** 
+
+- **(1)** Each permanent member of the National Energy Board appointed under subsection 3(2) of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), as it read immediately before the commencement day, who holds office immediately before the commencement day ceases to hold office on that day.
+
+**Compensation**
+
+- **(2)** A permanent member of the National Energy Board referred to in subsection (1) who is not appointed as a commissioner under subsection 28(1) of the Canadian Energy Regulator Act is entitled to the lesser of
+	- **(a)** an amount that is equal to 12 months’ remuneration as a permanent member of the National Energy Board, and
+	- **(b)** an amount that is equal to the remuneration to which they would be entitled if they were to complete the remainder of the term for which they were appointed as a permanent member of the National Energy Board.
+
+
+
+######           — 2019, c. 28, s. 13
+
+
+**Appointments terminated**
+
+**13** 
+
+- **(1)** Each temporary member of the National Energy Board appointed under subsection 4(1) of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), as it read immediately before the commencement day, who holds office immediately before the commencement day ceases to hold office on that day.
+
+**No compensation**
+
+- **(2)** Despite the provisions of any contract, agreement or order, no person who was appointed to hold office as a temporary member of the National Energy Board has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office by the operation of this Act.
+
+
+
+######           — 2019, c. 28, s. 14
+
+
+**Continuation — members of National Energy Board**
+
+**14** 
+
+- **(1)** A person referred to in subsection 12(1) or 13(1) may, at the request of the Lead Commissioner designated under 37 of the Canadian Energy Regulator Act, continue to hear and decide any matter that was before the person before the commencement day and the person is considered to be a commissioner for the purposes of that Act.
+
+**Refusal to complete duties**
+
+- **(2)** If a person referred to in subsection 12(1) or 13(1) refuses to continue to hear or decide a matter referred to in subsection (1), the Commission referred to in section 26 of the Canadian Energy Regulator Act is seized of the matter.
+
+**Remuneration and expenses**
+
+- **(3)** A person referred to in subsection 12(1) or 13(1) who continues to hear and decide a matter referred to in subsection (1)
+	- **(a)** is to be paid the remuneration for their services that may be fixed by the Governor in Council; and
+	- **(b)** is entitled to be paid reasonable travel and other expenses incurred in the course of providing services during any period of absence from their ordinary place of residence.
+
+**Limitation**
+
+- **(4)** The Lead Commissioner may withdraw from a person referred to in subsection 12(1) or 13(1) a matter referred to in subsection (1) that is not disposed of within one year after the commencement day and assign it to a panel of the Commission in accordance with section 38 of the Canadian Energy Regulator Act on any terms and conditions that the Lead Commissioner may specify for the protection and preservation of the rights and interests of the parties.
+
+**Subsection 28(2) of Canadian Energy Regulator Act**
+
+- **(5)** A period of time during which a person referred to in subsection 12(1) or 13(1) is considered to be a commissioner for the purposes of this section does not count as part of the 10-year limit set out in subsection 28(2) of the Canadian Energy Regulator Act.
+
+
+
+######           — 2019, c. 28, s. 15
+
+
+**Persons employed by National Energy Board**
+
+**15** Nothing in this Act affects the status of any person who was employed by the National Energy Board immediately before the commencement day, except that, as of that day, the person is employed by the Regulator.
+
+
+
+######           — 2019, c. 28, s. 16
+
+
+**Collective agreements or arbitral awards continued**
+
+**16** 
+
+- **(1)** Subject to sections 17 to 28, every collective agreement or arbitral award that applies to an employee who occupies a position in the National Energy Board before the commencement day and that is in force immediately before that day continues in force until its term expires.
+
+**Binding effect**
+
+- **(2)** A collective agreement or arbitral award continued in force under subsection (1) is binding on
+	- **(a)** the Regulator, as if it were the employer referred to in the collective agreement or arbitral award;
+	- **(b)** the bargaining agent that is a party to the collective agreement or arbitral award; and
+	- **(c)** the employees of the Regulator in the bargaining unit in respect of which that bargaining agent has been certified.
+
+**Parties may amend**
+
+- **(3)** Nothing in subsections (1) and (2) prohibits the Regulator and the bargaining agent from amending any provision of a collective agreement continued in force under subsection (1), other than a provision relating to its term.
+
+
+
+######           — 2019, c. 28, s. 17
+
+
+**Application for certification**
+
+**17** Any employee organization may apply to the Board for certification as the bargaining agent for the employees bound by a collective agreement or arbitral award that is continued in force under subsection 16(1), but it may do so only during the period in which an application for certification is authorized to be made under section 54 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) in respect of those employees.
+
+
+
+######           — 2019, c. 28, s. 18
+
+
+**Power of Board**
+
+**18** 
+
+- **(1)** If a collective agreement or arbitral award is continued in force under subsection 16(1), the Board must, by order, on application by the Regulator or any bargaining agent affected by the establishment of the Regulator,
+	- **(a)** determine whether the employees of the Regulator who are bound by the collective agreement or arbitral award constitute one or more units appropriate for collective bargaining;
+	- **(b)** determine which employee organization is to be the bargaining agent for the employees in each such unit; and
+	- **(c)** in respect of each collective agreement or arbitral award that binds employees of the Regulator, determine whether the collective agreement or arbitral award is to remain in force and, if it is to remain in force, determine whether it is to remain in force until the expiry of its term or until an earlier date that the Board may fix.
+
+**When application must be made**
+
+- **(2)** The application may be made only during the period beginning on the 120th day after the commencement day and ending on the 150th day after the commencement day.
+
+
+
+######           — 2019, c. 28, s. 19
+
+
+**Application for leave to give notice to bargain collectively**
+
+**19** 
+
+- **(1)** Either of the parties to a collective agreement or arbitral award that remains in force by reason of an order made under paragraph 18(1)(c) may apply to the Board for an order granting leave to give to the other party, under section 105 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), a notice to bargain collectively.
+
+**When application may be made**
+
+- **(2)** The application must be made within 90 days after the day on which the order is made under paragraph 18(1)(c).
+
+
+
+######           — 2019, c. 28, s. 20
+
+
+**No application within specified period**
+
+**20** 
+
+- **(1)** If no application for an order under subsection 18(1) is made within the period specified in subsection 18(2), the Regulator or any bargaining agent bound by a collective agreement or arbitral award that is continued in force under subsection 16(1) may apply to the Board for an order granting leave to give to the other party, under section 105 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), a notice to bargain collectively.
+
+**When application may be made**
+
+- **(2)** The application may be made only during the period beginning on the 151st day after the commencement day and ending on the 240th day after the commencement day.
+
+
+
+######           — 2019, c. 28, s. 21
+
+
+**Notice to bargain given before commencement day**
+
+**21** A notice to bargain collectively that was given before the commencement day does not bind the Regulator and a new notice to bargain collectively may be given only in the circumstances set out in paragraph 23(b).
+
+
+
+######           — 2019, c. 28, s. 22
+
+
+**Duty to observe conditions**
+
+**22** If a notice to bargain collectively is given before the commencement day, then, unless the Regulator and the bargaining agent agree otherwise, the conditions of employment continued in force under section 107 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) are binding on the Regulator, the bargaining agent for the bargaining unit and the employees in the bargaining unit from the commencement day until
+- **(a)** if no application is made under paragraph 23(a), the expiry of 150 days after the commencement day; or
+- **(b)** if such an application is made, the day the notice referred to in paragraph 23(b) is given.
+
+
+
+######           — 2019, c. 28, s. 23
+
+
+**Application and notice to bargain collectively**
+
+**23** If a notice to bargain collectively is given before the commencement day,
+- **(a)** on application by the Regulator or by the bargaining agent, made during the period beginning on the 120th day after the commencement day and ending on the 150th day after that day, the Board must make an order determining
+	- **(i)** whether the employees of the Regulator who are represented by the bargaining agent constitute one or more units appropriate for collective bargaining, and
+	- **(ii)** which employee organization is to be the bargaining agent for the employees in each such unit; and
+- **(b)** if the Board makes the determinations under paragraph (a), the Regulator or the bargaining agent may, by notice given under section 105 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), require the other to commence collective bargaining for the purpose of entering into a collective agreement.
+
+
+
+######           — 2019, c. 28, s. 24
+
+
+**Inquiry and votes**
+
+**24** Before making an order under subsection 18(1) or paragraph 23(a), the Board may make any inquiry or direct that a representation vote be taken among the employees to be affected by the order.
+
+
+
+######           — 2019, c. 28, s. 25
+
+
+**Consideration of classification**
+
+**25** 
+
+- **(1)** For the purposes of paragraphs 18(1)(a) and 23(a), in determining whether a group of employees constitutes a unit appropriate for collective bargaining, the Board must have regard to the Regulator’s classification of persons and positions, including the occupational groups or subgroups established by it.
+
+**Unit co-extensive with occupational groups**
+
+- **(2)** The Board must establish bargaining units that are co-extensive with the occupational groups or subgroups established by the Regulator, unless doing so would not permit satisfactory representation of the employees to be included in a particular bargaining unit and, for that reason, such a unit would not be appropriate for collective bargaining.
+
+
+
+######           — 2019, c. 28, s. 26
+
+
+**Determination of questions of membership in bargaining units**
+
+**26** On application by the Regulator or the employee organization affected by the establishment of the Regulator, the Regulator must determine every question that arises as to whether any employee or class of employees is included in a bargaining unit determined by the Board under paragraph 18(1)(a) or 23(a) to constitute a unit appropriate for collective bargaining or is included in any other unit.
+
+
+
+######           — 2019, c. 28, s. 27
+
+
+**Employer participation**
+
+**27** 
+
+- **(1)** The Board is not authorized to determine that an employee organization is to be a bargaining agent under paragraph 18(1)(b) or 23(a) if it considers that the Regulator, or a person acting on behalf of the Regulator, has participated or is participating in the formation or administration of the employee organization in a manner that impairs its fitness to represent the interests of the employees in the bargaining unit.
+
+**Discrimination**
+
+- **(2)** The Board is not authorized to determine that an employee organization is to be a bargaining agent under paragraph 18(1)(b) or 23(a) if it discriminates against any employee on a prohibited ground of discrimination within the meaning of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
+
+
+
+######           — 2019, c. 28, s. 28
+
+
+**Application of [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md)**
+
+**28** 
+
+- **(1)** The provisions of Part 1 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), and any rules or regulations made under that Act, apply to, or in respect of, the following and any matter related to the following:
+	- **(a)** an application made to the Board under any of sections 17 to 20, 23 and 26;
+	- **(b)** an order made by the Board under any of sections 18 to 20 and 23;
+	- **(c)** a determination of the Board made under any of sections 18, 23 and 26 and a bargaining unit, bargaining agent or employee or class of employees that is the subject of such a determination;
+	- **(d)** a collective agreement or arbitral award that is continued in force under subsection 16(1); and
+	- **(e)** collective bargaining that is commenced after the receipt of a notice referred to in section 19 or 20 or paragraph 23(b) and a collective agreement that is entered into following such collective bargaining.
+
+**Powers, duties and functions of Board**
+
+- **(2)** The Board has, for the purposes of performing its duties and functions under any of sections 17 to 27, the powers conferred on it under Part 1 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), and it must perform the duties and functions imposed on it under that Part in respect of those powers.
+
+**Inconsistency**
+
+- **(3)** In the event of any inconsistency between sections 17 to 27 and the provisions of Part 1 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), or anything issued, made or established under that Act, those sections 17 to 27 prevail to the extent of the inconsistency.
+
+
+
+######           — 2019, c. 28, s. 29
+
+
+**Persons not represented**
+
+**29** The conditions of employment of persons who are not represented by a bargaining agent or who are excluded from a bargaining unit and who, on the commencement day, occupy their position within the Regulator continue to apply until new conditions of employment for those persons are established.
+
+
+
+######           — 2019, c. 28, s. 30
+
+
+**Complaints**
+
+**30** The provisions of Division 13 of Part 1 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and any rules or regulations made under that Act, as they read immediately before the commencement day, continue to apply in respect of any complaint made under that Division before that day that relates to the National Energy Board.
+
+
+
+######           — 2019, c. 28, s. 31
+
+
+**Grievances**
+
+**31** 
+
+- **(1)** The provisions of Part 2 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and any rules or regulations made under that Act, as they read immediately before the commencement day, continue to apply in respect of any grievance presented under that Part before that day by an employee of the National Energy Board.
+
+**Implementation of decision**
+
+- **(2)** A final decision with respect to a grievance referred to in subsection (1) that provides for the reinstatement of an employee or the payment of money to an employee must be implemented by the Regulator as soon as feasible.
+
+
+
+######           — 2019, c. 28, s. 32
+
+
+**Matter referred to Board**
+
+**32** The provisions Part 2 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and any rules or regulations made under that Act, as they read immediately before the commencement day, continue to apply in respect of any matter referred to the Board under that Part before that day that relates to the National Energy Board.
+
+
+
+######           — 2019, c. 28, s. 33
+
+
+**Decisions and orders**
+
+**33** Every decision or order made by the National Energy Board is considered to have been made under the Canadian Energy Regulator Act and may be enforced as such.
+
+
+
+######           — 2019, c. 28, s. 34
+
+
+**Certificates, licences and permits**
+
+**34** 
+
+- **(1)** Every certificate, licence or permit issued by the National Energy Board is considered to have been issued under the Canadian Energy Regulator Act and, unless suspended or revoked under that Act, every certificate, licence or permit remains in force for the remainder of the period during which it would have been in force had the Canadian Energy Regulator Act not come into force.
+
+**Suspensions**
+
+- **(2)** Every certificate, licence or permit referred to in subsection (1) that was suspended immediately before the commencement day is considered to be suspended under the Canadian Energy Regulator Act.
+
+
+
+######           — 2019, c. 28, s. 35
+
+
+**Leave**
+
+**35** Any leave granted by the National Energy Board is considered to have been granted under the Canadian Energy Regulator Act.
+
+
+
+######           — 2019, c. 28, s. 36
+
+
+**Pending applications**
+
+**36** Applications pending before the National Energy Board immediately before the commencement day are to be taken up before the Commission of the Regulator and continued in accordance with the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) as it read immediately before the commencement day.
+
+
+
+######           — 2019, c. 28, s. 36.1
+
+
+**For greater certainty**
+
+**36.1** For greater certainty, section 182.1 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) applies in relation to a pending application referred to in section 36.
+
+
+
+######           — 2019, c. 28, s. 37
+
+
+**Excluded periods if no regulations — Part 3**
+
+**37** 
+
+- **(1)** Before the coming into force of the first regulation made for the purposes of subsection 183(5) or 214(5) of the Canadian Energy Regulator Act, the Lead Commissioner may, in the circumstances that he or she considers appropriate, exercise the powers set out in those subsections.
+
+**Excluded periods if no regulations — Part 4**
+
+- **(2)** Before the coming into force of the first regulation made for the purposes of subsection 262(6) of the Canadian Energy Regulator Act, the Lead Commissioner may, in the circumstances that he or she considers appropriate, exercise the power set out in that subsection.
+
+**Excluded periods if no regulations — Part 5**
+
+- **(3)** Before the coming into force of the first regulation made for the purposes of subsection 298(6) of the Canadian Energy Regulator Act, the Lead Commissioner may, in the circumstances that he or she considers appropriate, exercise the power set out in that subsection.
+
+
+
+######           — 2019, c. 28, s. 38
+
+
+**Certified copies**
+
+**38** For the purposes of sections 198, 208 and 265 of the Canadian Energy Regulator Act, a copy of a document that is certified by the Secretary of the National Energy Board is considered to have been certified by the Regulator under that Act.
+
+
+
+######           — 2019, c. 28, s. 39
+
+
+**Lands — consent not required**
+
+**39** A person or company is not required to obtain the consent referred to in subsection 317(1) of the Canadian Energy Regulator Act in relation to lands if, before the commencement day,
+- **(a)** the person or company had taken possession of, used or occupied those lands; or
+- **(b)** the person or company had obtained the authorization under the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), as it read immediately before the commencement day, to construct or operate a pipeline or power line on those lands.
+
+
+
+######           — 2019, c. 28, s. 40
+
+
+**Section 112 of [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md)**
+
+**40** Section 112 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), as it read immediately before the commencement day, continues to apply in relation to compensation matters in respect of a pipeline for which
+- **(a)** an application for a certificate under subsection 52(1) of that Act was received by the National Energy Board before that day; or
+- **(b)** an application for an order under subsection 58(1) of that Act was received by the National Energy Board before that day.
+
+
+
+######           — 2019, c. 28, s. 41
+
+
+**Pending requests**
+
+**41** Any request for which a notice was served on the Minister under subsections 88(1) and 90(1) of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), as those sections read immediately before the commencement day, is continued in accordance with those subsections.
+
+
+
+######           — 2019, c. 28, s. 42
+
+
+**Importation of oil or gas**
+
+**42** 
+
+- **(1)** Division I of Part VI of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), as it read immediately before the commencement day, continues to apply to the importation of oil or gas until the earlier of the third anniversary of the commencement day and the day on which regulations are made for the purposes of section 352 of the Canadian Energy Regulator Act.
+
+**Interpretation**
+
+- **(2)** For the purposes of subsection (1), every reference to the National Energy Board in Division I of Part VI of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) is to be read as a reference to the Regulator or the Commission of the Regulator, as the case may be.
+
+
+
+######           — 2019, c. 28, s. 42.1
+
+
+**References**
+
+**42.1** Every reference to the National Energy Board in any deed, contract, agreement or other document executed, or in Quebec, signed, by the National Energy Board in its own name is, unless the context otherwise requires, to be read as a reference to the Regulator.
+
+
+
+######           — 2019, c. 28, s. 42.2
+
+
+**Appropriations**
+
+**42.2** Any amount that is appropriated by an Act of Parliament for the fiscal year in which the commencement day falls to defray the expenditures of the National Energy Board and that is unexpended on that day is considered to be an amount appropriated to defray the expenditures of the Regulator.
+
+
+
+######           — 2019, c. 28, s. 43
+
+
+**Regulations**
+
+**43** The Governor in Council may make any regulations that the Governor in Council considers necessary to provide for any other transitional matter arising from the coming into force of the Canadian Energy Regulator Act.
+
 
 
