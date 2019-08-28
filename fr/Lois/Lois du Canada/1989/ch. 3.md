@@ -80,7 +80,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***président*** Le président du Bureau. (*Chairperson*)
 
 ***productoduc***[Abrogée, 1998, ch. 20, art. 1]
-> 1989, ch. 3, art. 2; 1998, ch. 20, art. 1, 24(F) et 25(A).
+> 1989, ch. 3, art. 2; 1998, ch. 20, art. 1, 24(F) et 25(A)
 
 
 
@@ -120,7 +120,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application à Sa Majesté**
 
 - **(7)** La présente loi lie Sa Majesté du chef du Canada ou d’une province.
-> 1989, ch. 3, art. 3; 1996, ch. 31, art. 64; 1998, ch. 20, art. 2, 24 et 25(A).
+> 1989, ch. 3, art. 3; 1996, ch. 31, art. 64; 1998, ch. 20, art. 2, 24 et 25(A)
 
 
 
@@ -167,7 +167,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(9)** Les membres sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 1989, ch. 3, art. 4; 1998, ch. 20, art. 3 et 24; 2003, ch. 22, art. 224(A) et 225(A).
+> 1989, ch. 3, art. 4; 1998, ch. 20, art. 3 et 24; 2003, ch. 22, art. 224(A) et 225(A)
 
 
 
@@ -197,7 +197,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérim du président**
 
 - **(5)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, la présidence est assumée par le membre désigné à cet effet par le gouverneur en conseil jusqu’au retour du président, jusqu’à la fin de cet empêchement ou jusqu’à la désignation d’un nouveau président.
-> 1989, ch. 3, art. 5; 1998, ch. 20, art. 4(A).
+> 1989, ch. 3, art. 5; 1998, ch. 20, art. 4(A)
 
 
 
@@ -218,7 +218,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conflits d’intérêts**
 
 - **(3)** Les membres ne peuvent non plus accepter ni occuper de charges ou fonctions ni se livrer à une activité incompatibles avec l’exercice des attributions que leur confère la présente loi.
-> 1989, ch. 3, art. 6; 1998, ch. 20, art. 24.
+> 1989, ch. 3, art. 6; 1998, ch. 20, art. 24
 
 
 
@@ -245,7 +245,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-obligation**
 
 - **(4)** Les conclusions du Bureau ne lient pas les parties à une procédure judiciaire, disciplinaire ou autre.
-> 1989, ch. 3, art. 7; 1998, ch. 20, art. 5.
+> 1989, ch. 3, art. 7; 1998, ch. 20, art. 5
 
 
 
@@ -267,7 +267,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publicité**
 
 - **(2)** Le Bureau rend publiques les règles générales établies au titre des alinéas (1)b) ou c).
-> 1989, ch. 3, art. 8; 1998, ch. 20, art. 6.
+> 1989, ch. 3, art. 8; 1998, ch. 20, art. 6
 
 
 
@@ -277,7 +277,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Le personnel nécessaire à l’exécution des travaux du Bureau est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **(1)** Le personnel nécessaire à l’exécution des travaux du Bureau est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 **Experts et spécialistes**
 
@@ -303,7 +303,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Certificat**
 
 - **(4)** Le président remet aux enquêteurs un certificat attestant leur qualité.
-> 1989, ch. 3, art. 10; 1998, ch. 20, art. 7 et 25(A).
+> 1989, ch. 3, art. 10; 1998, ch. 20, art. 7 et 25(A)
 
 
 
@@ -337,7 +337,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le président préside les réunions du Bureau; il en ordonne la convocation en tant que de besoin ou sur demande écrite d’au moins deux autres membres.
 
 - **(2)** [Abrogé, 1998, ch. 20, art. 8]
-> 1989, ch. 3, art. 12; 1998, ch. 20, art. 8.
+> 1989, ch. 3, art. 12; 1998, ch. 20, art. 8
 
 
 
@@ -362,7 +362,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvoi en comité**
 
 - **(4)** Tout comité parlementaire chargé des questions de transport est automatiquement saisi du rapport ainsi déposé.
-> 1989, ch. 3, art. 13; 1998, ch. 20, art. 9; 2012, ch. 19, art. 180.
+> 1989, ch. 3, art. 13; 1998, ch. 20, art. 9; 2012, ch. 19, art. 180
 
 
 
@@ -393,7 +393,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inaction du Bureau**
 
 - **(5)** Il demeure entendu que, faute d’enquête par le Bureau relativement à un accident de transport, tout ministère peut enquêter sur les aspects de celui-ci ressortissant à ses pouvoirs d’enquête.
-> 1989, ch. 3, art. 14; 1993, ch. 28, art. 78; 1998, ch. 20, art. 10; 2002, ch. 7, art. 130.
+> 1989, ch. 3, art. 14; 1993, ch. 28, art. 78; 1998, ch. 20, art. 10; 2002, ch. 7, art. 130
 
 
 
@@ -425,7 +425,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction**
 
 - **(2)** Le Bureau ne peut exercer, au titre d’un tel accord, que des pouvoirs et fonctions compatibles avec les dispositions de la présente loi, notamment l’article 7.
-> 1998, ch. 20, art. 11.
+> 1998, ch. 20, art. 11
 
 
 
@@ -434,7 +434,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Compatibilité des règles et des méthodes d’enquête**
 
 **16** Autant que possible, le Bureau veille, dans les enquêtes sur les accidents de transport, à suivre des règles et méthodes compatibles avec les conventions ou accords internationaux auxquels le Canada est partie, ainsi qu’avec les règles et méthodes des coroners des provinces et celles des organismes réglementaires chargés d’administrer l’activité pétrolière dans les zones extracôtières, en s’efforçant notamment de conclure, avec les gouvernements provinciaux et ces organismes, des ententes propres à assurer au maximum cette compatibilité.
-> 1989, ch. 3, art. 16; 1998, ch. 20, art. 12.
+> 1989, ch. 3, art. 16; 1998, ch. 20, art. 12
 
 
 
@@ -475,7 +475,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Coordination des enquêtes**
 
 - **(4)** Le Bureau et soit le ministre de la Défense nationale, soit le directeur des enquêtes sur la navigabilité désigné en vertu de l’article 12 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) sont tenus de veiller, dans la mesure du possible, à la coordination des enquêtes sur les accidents de transport visés au paragraphe (3) qui sont menées par le Bureau et par le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada.
-> 1989, ch. 3, art. 18; 1998, ch. 20, art. 24; 2014, ch. 29, art. 23.
+> 1989, ch. 3, art. 18; 1998, ch. 20, art. 24; 2014, ch. 29, art. 23
 
 
 
@@ -563,7 +563,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 ***lieu*** Terrain, ou bâtiment ou ouvrage s’y trouvant. Y sont assimilés les aéronefs, les navires, le matériel roulant et tous autres bateaux ou véhicules, ainsi que les pipelines. (*place*)
 
 ***renseignement*** Tous éléments d’information quels que soient leur forme et leur support, ainsi que les copies de ceux-ci. (*information*)
-> 1989, ch. 3, art. 19; 1998, ch. 20, art. 13 et 24.
+> 1989, ch. 3, art. 19; 1998, ch. 20, art. 13 et 24
 
 
 
@@ -641,7 +641,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Mise à l’écart de l’observateur**
 
 - **(3)** Le Bureau peut toutefois écarter de l’enquête tout observateur qui a contrevenu aux conditions qu’il a lui-même fixées ou dont il estime la participation susceptible de créer une situation de conflit entravant la poursuite de l’enquête.
-> 1989, ch. 3, art. 23; 1998, ch. 20, art. 14.
+> 1989, ch. 3, art. 23; 1998, ch. 20, art. 14
 
 
 
@@ -696,7 +696,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Prorogation de délai**
 
 - **(8)** S’il est convaincu que le ministre visé au paragraphe (6) n’est pas en mesure de lui répondre dans le délai prévu, le Bureau peut proroger ce délai de la durée qu’il juge nécessaire.
-> 1989, ch. 3, art. 24; 1998, ch. 20, art. 15.
+> 1989, ch. 3, art. 24; 1998, ch. 20, art. 15
 
 
 
@@ -711,7 +711,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Utilisation limitée du rapport provisoire**
 
 - **(2)** Le destinataire — autre qu’un ministre — du rapport provisoire ne peut en faire usage ou en permettre l’utilisation qu’à des fins strictement nécessaires à son étude.
-> 1989, ch. 3, art. 25; 1998, ch. 20, art. 16.
+> 1989, ch. 3, art. 25; 1998, ch. 20, art. 16
 
 
 
@@ -785,7 +785,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Qualité de tribunal**
 
 - **(8)** Pour l’application du paragraphe (6), ont pouvoirs et qualité de tribunal les personnes nommées ou désignées pour mener une enquête publique sur un accident de transport conformément à la présente loi ou à la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md).
-> 1989, ch. 3, art. 28; 1998, ch. 20, art. 17.
+> 1989, ch. 3, art. 28; 1998, ch. 20, art. 17
 
 
 
@@ -807,7 +807,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Interdiction**
 
 - **(6)** Dans les procédures judiciaires ou, sous réserve de la convention collective applicable, dans le cadre de procédures disciplinaires, il ne peut être fait usage contre les personnes mentionnées au paragraphe (1) des enregistrements contrôle obtenus en application de la présente loi.
-> 1989, ch. 3, art. 29; 1998, ch. 10, art. 167, ch. 20, art. 18.
+> 1989, ch. 3, art. 29; 1998, ch. 10, art. 167, ch. 20, art. 18
 
 
 
@@ -845,7 +845,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Interdiction**
 
 - **(7)** Il ne peut être fait usage des déclarations contre leur auteur dans une procédure judiciaire ou autre, sauf dans une poursuite pour parjure ou témoignage contradictoire, ou s’il s’agit d’une poursuite intentée sous le régime de l’article 35.
-> 1989, ch. 3, art. 30; 1998, ch. 20, art. 19.
+> 1989, ch. 3, art. 30; 1998, ch. 20, art. 19
 
 
 
@@ -885,7 +885,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Comparution**
 
 **32** Sauf pour les enquêtes du coroner et les procédures devant lui, l’enquêteur n’est un témoin habile à témoigner et contraignable que sur ordonnance du tribunal ou de la personne ou de l’organisme compétents rendue pour un motif spécial.
-> 1989, ch. 3, art. 32; 1998, ch. 20, art. 20.
+> 1989, ch. 3, art. 32; 1998, ch. 20, art. 20
 
 
 
@@ -894,7 +894,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Opinion inadmissible**
 
 **33** Est inadmissible en preuve dans toute procédure judiciaire, disciplinaire ou autre l’opinion du membre ou de l’enquêteur.
-> 1989, ch. 3, art. 33; 1998, ch. 20, art. 20.
+> 1989, ch. 3, art. 33; 1998, ch. 20, art. 20
 
 
 
@@ -925,12 +925,12 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 
 **Publication des projets de règlement**
 
-- **(3)** Sous réserve du paragraphe (4), les projets de règlement d’application du paragraphe (1) ou de l’article 31 sont publiés dans la Gazette du Canada au moins quatre-vingt-dix jours avant la date envisagée pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au Bureau, pendant ce délai, leurs observations à cet égard.
+- **(3)** Sous réserve du paragraphe (4), les projets de règlement d’application du paragraphe (1) ou de l’article 31 sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) au moins quatre-vingt-dix jours avant la date envisagée pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au Bureau, pendant ce délai, leurs observations à cet égard.
 
 **Exception**
 
 - **(4)** Ne sont pas visés les projets de règlement soit déjà publiés dans les conditions visées au paragraphe (3), qu’ils aient ou non été modifiés à la suite d’observations présentées conformément à ce paragraphe, soit qui n’apportent pas de modification de fond à la réglementation en vigueur.
-> 1989, ch. 3, art. 34; 1998, ch. 20, art. 21.
+> 1989, ch. 3, art. 34; 1998, ch. 20, art. 21
 
 
 
@@ -953,7 +953,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Idem**
 
 - **(2)** À défaut de peine spécifique prévue à cet égard, quiconque contrevient aux autres dispositions de la présente loi ou à ses règlements commet une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 1989, ch. 3, art. 35; 1998, ch. 20, art. 22.
+> 1989, ch. 3, art. 35; 1998, ch. 20, art. 22
 
 
 
@@ -1070,7 +1070,7 @@ L’avis de l’enquêteur doit, dans tous les cas, être fondé sur des motifs 
 **Locaux et fournitures**
 
 - **(2)** Les locaux et les fournitures du Bureau canadien de la sécurité aérienne ainsi que ceux du ministère des Transports et de l’Office national des transports qui leur était assignés au 28 mars 1990 et étaient liés à leurs enquêtes sur des accidents de transport passent au Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports. Les autres mesures nécessaires à la mise en oeuvre de la présente loi sont prises par les ministères ou autres autorités compétentes.
-> 1989, ch. 3, art. 62; 1996, ch. 10, art. 208.
+> 1989, ch. 3, art. 62; 1996, ch. 10, art. 208
 
 
 
@@ -1102,7 +1102,53 @@ Conseil national de recherches du Canada<br />- <i>National Research Council of 
 
 Office des transports du Canada<br />- <i>Canadian Transportation Agency</i>
 
-Office national de l’énergie<br />- <i>National Energy Board</i>
-> 1989, ch. 3, ann.; 1996, ch. 10, art. 209 et 210; 1997, ch. 9, art. 100 et 101.
+Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
+> 1989, ch. 3, ann.; 1996, ch. 10, art. 209 et 210; 1997, ch. 9, art. 100 et 1012019, ch. 28, art. 1572019, ch. 28, art. 158
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2012, ch. 19, art. 198
+
+
+**Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports**
+
+**198** L’obligation prévue au paragraphe 13(2) de la Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports, dans sa version antérieure à la date de sanction de la présente loi, continue de s’appliquer à l’égard de l’exercice commençant le 1<sup>er</sup> avril 2011, mais ne s’applique à l’égard d’aucun exercice subséquent.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2018, ch. 10, art. 67, modifié par 2019, ch. 28, par. 194(2)
+
+
+**
+> 1998, ch. 20, par. 17(2)
+**
+
+**67** 
+
+- **(1)** Le paragraphe 28(4) de la Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports est remplacé par ce qui suit :
+
+**Utilisation par le Bureau**
+
+- **(4)** Le Bureau peut utiliser les enregistrements de bord obtenus en application de la présente loi comme il l’estime nécessaire dans l’intérêt de la sécurité des transports, mais, sous réserve des paragraphes (5) et (5.1), il ne peut sciemment communiquer ou laisser communiquer les parties de ces enregistrements qui n’ont aucun rapport avec les causes et facteurs de l’accident de transport faisant l’objet de l’enquête ou avec les manquements à la sécurité.
+
+- **(2)** L’article 28 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+**Pouvoir de mettre à la disposition de certaines personnes**
+
+- **(5.1)** En cas d’accident de transport dont il doit lui être fait rapport sous le régime de la présente loi et qui fait l’objet d’une enquête prévue par celle-ci, le Bureau peut mettre les enregistrements de bord relatifs à l’accident à la disposition de toute personne qui est expressément autorisée, sous le régime de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md), de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md) ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), à les utiliser ou à les communiquer; le cas échéant, la personne ne peut toutefois utiliser ou communiquer les enregistrements que conformément à l’autorisation expresse.
+
+**Autorisation sous le régime d’une autre loi**
+
+- **(5.2)** Le présent article n’a pas pour effet d’empêcher l’utilisation ou la communication d’un enregistrement de bord si cette utilisation ou communication est expressément autorisée sous le régime de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md), de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md) ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et si, selon le cas :
+	- **a)** il n’y a pas eu d’accident de transport — dont il doit, sous le régime de la présente loi, être fait rapport au Bureau — qui met en cause le moyen de transport lié à l’enregistrement;
+	- **b)** il y a eu un accident de transport — dont il doit, sous le régime de la présente loi, être fait rapport au Bureau — qui met en cause le moyen de transport lié à l’enregistrement, mais qui ne fait pas l’objet d’une enquête prévue par la présente loi.
+
 
 
