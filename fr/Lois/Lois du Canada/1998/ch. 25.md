@@ -200,7 +200,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **g)** l’Office des terres et des eaux de la vallée du Mackenzie;
 	- **h)** un ministre compétent, au sens de l’article 111;
 	- **i)** l’Office d’examen des répercussions environnementales de la vallée du Mackenzie ou l’une de ses formations;
-	- **j)** une formation conjointe visée au paragraphe 140(2) ou aux alinéas 141(2)b) ou (3)a) ou une commission visée au paragraphe 41(2) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md);
+	- **j)** une formation conjointe visée au paragraphe 140(2) ou aux alinéas 141(2)b) ou (3)a) ou une commission visée au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md);
 	- **k)** un organisme administratif désigné, au sens de l’article 111.
 
 **Exception**
@@ -212,7 +212,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlement**
 
 - **(3)** Le gouverneur en conseil peut, par règlement, exclure tout délai réglementaire autre que celui visé à l’alinéa (2)a) de l’application du paragraphe (1).
-> 2014, ch. 2, art. 115
+> 2014, ch. 2, art. 1152019, ch. 28, art. 164
 
 
 
@@ -3438,12 +3438,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md)**
+**[Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md)**
 
-**116** La [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas, dans la vallée du Mackenzie, aux projets de développement, sauf :
+**116** La [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ne s’applique pas, dans la vallée du Mackenzie, aux projets de développement, sauf :
 - **a)** dans les cas où le ministre de l’Environnement a été saisi de l’affaire en vertu de l’alinéa 130(1)c), dans la mesure qui y est prévue;
 - **b)** dans les cas de projets faisant l’objet d’accords visés à l’alinéa 141(2)a) ou (3)b), dans la mesure prévue par ceux-ci.
-> 1998, ch. 25, art. 116; 2005, ch. 1, art. 69; 2014, ch. 2, art. 202
+> 1998, ch. 25, art. 116; 2005, ch. 1, art. 69; 2014, ch. 2, art. 2022019, ch. 28, art. 188
 
 
 
@@ -3766,7 +3766,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Au terme de leur étude du rapport d’évaluation environnementale, le ministre fédéral et les ministres compétents auxquels le rapport a été transmis peuvent, d’un commun accord :
 	- **a)** ordonner la réalisation d’une étude d’impact malgré la déclaration contraire faite en vertu de l’alinéa 128(1)a);
 	- **b)** accepter la recommandation faite par l’Office en vertu du sous-alinéa 128(1)b)(ii) ou de l’alinéa 128(1)d), la lui renvoyer pour réexamen ou après avoir consulté ce dernier soit l’accepter avec certaines modifications, soit la rejeter et ordonner la réalisation d’une étude d’impact;
-	- **c)** dans les cas où, à leur avis, l’intérêt national l’exige et après avoir consulté le ministre de l’Environnement, saisir celui-ci de l’affaire, quelles que soient les conclusions du rapport, pour qu’un examen conjoint soit effectué sous le régime de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+	- **c)** dans les cas où, à leur avis, l’intérêt national l’exige et après avoir consulté le ministre de l’Environnement, saisir celui-ci de l’affaire, quelles que soient les conclusions du rapport, pour qu’un examen conjoint soit effectué sous le régime de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
 
 **Consultation**
 
@@ -3830,7 +3830,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en oeuvre**
 
 - **(5)** Les premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe (4) sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en oeuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
-> 1998, ch. 25, art. 130; 2005, ch. 1, art. 80; 2014, ch. 2, art. 208
+> 1998, ch. 25, art. 130; 2005, ch. 1, art. 80; 2014, ch. 2, art. 2082019, ch. 28, art. 188
 
 
 
@@ -4156,8 +4156,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation de toute autorité responsable**
 
-**137.3** Avant de prendre leur décision en vertu des paragraphes 135(1), 137(1) ou 137.1(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie, les personnes ou organismes concernés tiennent compte de tout rapport de la commission établie en vertu de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) concernant le projet et consultent toute autorité responsable qui doit recevoir un rapport en application de cette loi.
-> 2005, ch. 1, art. 86; 2014, ch. 2, art. 217
+**137.3** Avant de prendre leur décision en vertu des paragraphes 135(1), 137(1) ou 137.1(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie, les personnes ou organismes concernés tiennent compte de tout rapport de la commission établie en vertu de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) concernant le projet et consultent l’Agence canadienne d’évaluation d’impact.
+> 2005, ch. 1, art. 86; 2014, ch. 2, art. 2172019, ch. 28, art. 165
 
 
 
@@ -4171,7 +4171,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **138** 
 
-- **(1)** Outre ce qui est prévu à l’alinéa 43(1)e) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), à la suite du renvoi effectué en vertu de l’alinéa 130(1)c), la commission qui est constituée sous le régime du paragraphe 41(2) de cette loi et qui fait l’objet de l’accord visé aux paragraphes (3) ou 138.1(1) adresse son rapport dans les quinze mois suivant la date où elle a été ainsi constituée :
+- **(1)** Outre ce qui est prévu à l’alinéa 51(1)e) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md), à la suite du renvoi effectué en vertu de l’alinéa 130(1)c) de la présente loi, la commission qui est constituée sous le régime du paragraphe 40(2) de cette loi et qui fait l’objet de l’accord visé aux paragraphes (3) ou 138.1(1) adresse son rapport dans les quinze mois suivant la date où elle a été ainsi constituée :
 	- **a)** au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent;
 	- **b)** à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement;
 	- **c)** au gouvernement tlicho, s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
@@ -4194,7 +4194,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Renvoi : alinéa 130(1)c)**
 
-- **(3)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement, à l’exception d’un projet visé à l’article 138.1, l’Office doit conclure avec lui, dans les trois mois suivant la date où ce ministre a été saisi du projet, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 41(2) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+- **(3)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement, à l’exception d’un projet visé à l’article 138.1, l’Office doit conclure avec lui, dans les trois mois suivant la date où ce ministre a été saisi du projet, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
 
 **Prolongation du délai par le ministre fédéral**
 
@@ -4207,7 +4207,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Période exclue**
 
 - **(6)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (3) ou de sa prolongation.
-> 1998, ch. 25, art. 138; 2005, ch. 1, art. 87; 2014, ch. 2, art. 219
+> 1998, ch. 25, art. 138; 2005, ch. 1, art. 87; 2014, ch. 2, art. 2192019, ch. 28, art. 166
 
 
 
@@ -4217,7 +4217,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **138.1** 
 
-- **(1)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure avec lui un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 41(2) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+- **(1)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure avec lui un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
 
 **Médiation**
 
@@ -4230,7 +4230,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Portée de l’étude d’impact en l’absence d’un accord**
 
 - **(4)** Malgré les paragraphes (1) à (3), faute de conclusion, dans le délai réglementaire, de l’accord prévu au présent article, une formation de l’Office réalise une étude d’impact qui ne porte que sur les parties du projet devant être réalisées dans la vallée du Mackenzie.
-> 2005, ch. 1, art. 87; 2014, ch. 2, art. 220
+> 2005, ch. 1, art. 87; 2014, ch. 2, art. 2202019, ch. 28, art. 167
 
 
 
@@ -4313,7 +4313,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accord ou entente — projet ne concernant pas le Wekeezhii**
 
 - **(2)** Si une étude d’impact a été ordonnée en vertu du sous-alinéa 128(1) b)(i), des alinéas 128(1)c) ou 130(1) a) ou b) ou du paragraphe 131(1) à l’égard d’un projet visé au paragraphe (1) mais non visé au paragraphe (3), l’Office peut, avec l’agrément du ministre fédéral :
-	- **a)** dans les cas où l’examen des répercussions environnementales est, dans la région voisine ou la province, régie par la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), conclure avec le ministre de l’Environnement un accord conformément au paragraphe 40(1) de cette loi visant un examen par une commission conjointe;
+	- **a)** dans les cas où l’examen des répercussions environnementales est, dans la région voisine ou la province, régi par la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md), conclure avec le ministre de l’Environnement un accord conformément au paragraphe 39(1) de cette loi visant un examen par une commission conjointe;
 	- **b)** dans tous les autres cas, conclure avec l’organisme chargé, dans cette province ou cette région, de l’examen des effets sur l’environnement une entente visant la coordination de leurs activités en ce qui touche l’examen des répercussions environnementales du projet ou visant l’examen de celles-ci par une formation conjointe mise sur pied à cette fin.
 
 **Délai**
@@ -4342,7 +4342,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Si une étude d’impact a été ordonnée en vertu du sous-alinéa 128(1)b)(i), des alinéas 128(1)c) ou 130(1)a) ou b) ou du paragraphe 131(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure :
 	- **a)** avec l’organisme chargé, pour la partie du projet devant être réalisée à l’extérieur de la vallée du Mackenzie, de l’examen des effets sur l’environnement, un accord établissant une formation conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci;
-	- **b)** avec le ministre de l’Environnement, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci, dans les cas où ce ministre est habilité à conclure un accord en vertu du paragraphe 40(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+	- **b)** avec le ministre de l’Environnement, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci, dans les cas où ce ministre est habilité à conclure un accord en vertu du paragraphe 39(1) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
 
 **Portée de l’étude d’impact en l’absence d’un accord**
 
@@ -4371,7 +4371,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de certaines dispositions**
 
 - **(6)** L’examen effectué par la formation conjointe ou la commission conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe ou à la commission conjointe pour réexamen.
-> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A); 2005, ch. 1, art. 89; 2014, ch. 2, art. 223
+> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A); 2005, ch. 1, art. 89; 2014, ch. 2, art. 2232019, ch. 28, art. 168
 
 
 
@@ -4512,8 +4512,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Limite**
 
-- **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1)b) les projets de développement ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 84a) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
-> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90; 2014, ch. 2, art. 2262019, ch. 19, art. 32
+- **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1)b) les projets de développement ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 109(1)b) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
+> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90; 2014, ch. 2, art. 2262019, ch. 19, art. 322019, ch. 28, art. 169
 
 
 
@@ -5210,8 +5210,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 Commission canadienne de sûreté nucléaire<br />- <i>Canadian Nuclear Safety Commission</i>
 
-Office national de l’énergie<br />- <i>National Energy Board</i>
-> 1998, ch. 25, ann.; 2014, ch. 2, art. 237
+Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
+> 1998, ch. 25, ann.; 2014, ch. 2, art. 2372019, ch. 28, art. 1702019, ch. 28, art. 171
 
 
 
@@ -5948,158 +5948,6 @@ Office national de l’énergie<br />- <i>National Energy Board</i>
 - **(4)** Ils ne sont reçus en preuve que si la partie qui entend les produire contre une autre lui donne un préavis suffisant, en y joignant une copie de ceux-ci.
 
 
-
-
-
-######           — 2019, ch. 28, art. 164
-
-
-**
-> 2014, ch. 2, par. 115(1) 
-**
-
-**164** L’alinéa 5.2(1)j) de la Loi sur la gestion des ressources de la vallée du Mackenzie est remplacé par ce qui suit :
-
-- **j)** une formation conjointe visée au paragraphe 140(2) ou aux alinéas 141(2)b) ou (3)a) ou une commission visée au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md);
-
-
-
-
-
-######           — 2019, ch. 28, art. 165
-
-
-**
-> 2014, ch. 2, art. 217
-**
-
-**165** L’article 137.3 de la même loi est remplacé par ce qui suit :
-
-**Consultation de toute autorité responsable**
-
-**137.3** Avant de prendre leur décision en vertu des paragraphes 135(1), 137(1) ou 137.1(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie, les personnes ou organismes concernés tiennent compte de tout rapport de la commission établie en vertu de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) concernant le projet et consultent l’Agence canadienne d’évaluation d’impact.
-
-
-
-
-
-######           — 2019, ch. 28, art. 166
-
-
-**
-> 2014, ch. 2, par. 219(1)
-**
-
-**166** 
-
-- **(1)** Le passage du paragraphe 138(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
-
-**Rapport de la commission après un renvoi dans l’intérêt national**
-
-**138** 
-
-- **(1)** Outre ce qui est prévu à l’alinéa 51(1)e) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md), à la suite du renvoi effectué en vertu de l’alinéa 130(1)c) de la présente loi, la commission qui est constituée sous le régime du paragraphe 40(2) de cette loi et qui fait l’objet de l’accord visé aux paragraphes (3) ou 138.1(1) adresse son rapport dans les quinze mois suivant la date où elle a été ainsi constituée :
-
-
-
-**
-> 2014, ch. 2, par. 219(4)
-**
-
-- **(2)** Le paragraphe 138(3) de la même loi est remplacé par ce qui suit :
-
-**Renvoi : alinéa 130(1)c)**
-
-- **(3)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement, à l’exception d’un projet visé à l’article 138.1, l’Office doit conclure avec lui, dans les trois mois suivant la date où ce ministre a été saisi du projet, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
-
-
-
-######           — 2019, ch. 28, art. 167
-
-
-**
-> 2014, ch. 2, art. 220
-**
-
-**167** Le paragraphe 138.1(1) de la même loi est remplacé par ce qui suit :
-
-**Accord après un renvoi dans l’intérêt national**
-
-**138.1** 
-
-- **(1)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure avec lui un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 40(2) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
-
-
-
-
-
-######           — 2019, ch. 28, art. 168
-
-
-**
-> 2014, ch. 2, par. 223(1)
-**
-
-**168** 
-
-- **(1)** L’alinéa 141(2)a) de la même loi est remplacé par ce qui suit :
-
-- **a)** dans les cas où l’examen des répercussions environnementales est, dans la région voisine ou la province, régi par la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md), conclure avec le ministre de l’Environnement un accord conformément au paragraphe 39(1) de cette loi visant un examen par une commission conjointe;
-
-
-
-**
-> 2014, ch. 2, par. 223(3)
-**
-
-- **(2)** L’alinéa 141(3)b) de la même loi est remplacé par ce qui suit :
-
-- **b)** avec le ministre de l’Environnement, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci, dans les cas où ce ministre est habilité à conclure un accord en vertu du paragraphe 39(1) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
-
-
-
-
-
-######           — 2019, ch. 28, art. 169
-
-
-**
-> 2014, ch. 2, par. 226(4)
-**
-
-**169** Le paragraphe 143(3) de la même loi est remplacé par ce qui suit :
-
-**Limite**
-
-- **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1)b) les projets de développement ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 109(1)b) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
-
-
-
-######           — 2019, ch. 28, art. 170
-
-**170** L’annexe de la même loi est modifiée par suppression de ce qui suit :
-
-Office national de l’énergie<br />- <i>National Energy Board</i>
-
-
-
-######           — 2019, ch. 28, art. 171
-
-**171** L’annexe de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
-
-Régie canadienne de l’énergie<br />- <i>Canadian Energy Regulator</i>
-
-
-
-######           — 2019, ch. 28, al. 188a)
-
-
-**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
-
-**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
-- **a)** dans la Loi sur la gestion des ressources de la vallée du Mackenzie :
-	- **(i)** l’article 116,
-	- **(ii)** l’alinéa 130(1)c);
 
 
 
