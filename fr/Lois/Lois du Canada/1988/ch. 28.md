@@ -24,7 +24,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Titre abrégé**
 
-**1** Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers.
+**1** [Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md).
 
 
 
@@ -92,7 +92,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***titre*** A le sens donné à l’article 49. (*interest*)
 
 ***zone extracôtière*** ou ***zone*** Les zones terrestres et sous-marines situées dans les limites fixées à l’annexe I. (*offshore area*)
-> 1988, ch. 28, art. 2; 1993, ch. 47, art. 11; 1994, ch. 26, art. 16(F), ch. 41, art. 37; 2007, ch. 33, art. 16; 2013, ch. 28, art. 5; 2014, ch. 13, art. 55; 2015, ch. 4, art. 71.
+> 1988, ch. 28, art. 2; 1993, ch. 47, art. 11; 1994, ch. 26, art. 16(F), ch. 41, art. 37; 2007, ch. 33, art. 16; 2013, ch. 28, art. 5; 2014, ch. 13, art. 55; 2015, ch. 4, art. 71
 
 
 
@@ -146,7 +146,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation provinciale**
 
 - **(2)** Avant la prise des règlements visés aux paragraphes 210.001(3) ou (4) ou 210.126(1), le ministre fédéral consulte le ministre du gouvernement de la province responsable de la santé et de la sécurité au travail sur les règlements projetés, lesquels ne peuvent être pris sans l’approbation de ce dernier.
-> 1988, ch. 28, art. 6; 2014, ch. 13, art. 56; 2015, ch. 4, art. 72 et 117.
+> 1988, ch. 28, art. 6; 2014, ch. 13, art. 56; 2015, ch. 4, art. 72 et 117
 
 
 
@@ -176,7 +176,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion**
 
 - **(2)** Sous réserve de l’article 103, la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md) et la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) et leurs textes d’application ne s’appliquent pas à la zone extracôtière.
-> 1988, ch. 28, art. 8; 1992, ch. 35, art. 84.
+> 1988, ch. 28, art. 8; 1992, ch. 35, art. 84
 
 
 
@@ -208,7 +208,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dissolution**
 
 - **(4)** L’Office ne peut être dissous que par l’application conjointe d’une loi fédérale et d’une loi provinciale.
-> 1988, ch. 28, art. 9; 1992, ch. 35, art. 85; 1994, ch. 24, art. 34(F).
+> 1988, ch. 28, art. 9; 1992, ch. 35, art. 85; 1994, ch. 24, art. 34(F)
 
 
 
@@ -231,7 +231,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nomination conjointe**
 
 - **(4)** Par dérogation aux paragraphes (2) ou (3), les membres ou les suppléants peuvent être nommés conjointement par les deux gouvernements.
-> 1988, ch. 28, art. 10; 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 10; 2014, ch. 13, art. 91(A)
 
 
 
@@ -254,7 +254,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rattachement du président**
 
 - **(3)** Le président ne peut en cours de mandat être également fonctionnaire.
-> 1988, ch. 28, art. 11; 2003, ch. 22, art. 122(A); 2014, ch. 13, art. 91(A); 2017, ch. 9, art. 55.
+> 1988, ch. 28, art. 11; 2003, ch. 22, art. 122(A); 2014, ch. 13, art. 91(A); 2017, ch. 9, art. 55
 
 
 
@@ -281,7 +281,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mandat des fonctionnaires**
 
 - **(5)** Les membres fonctionnaires n’occupent leur poste qu’à titre amovible.
-> 1988, ch. 28, art. 12; 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 12; 2014, ch. 13, art. 91(A)
 
 
 
@@ -304,7 +304,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet de la décision**
 
 - **(4)** La décision du comité est définitive et lie les deux gouvernements.
-> 1988, ch. 28, art. 13; 2014, ch. 13, art. 57(A) et 91(A).
+> 1988, ch. 28, art. 13; 2014, ch. 13, art. 57(A) et 91(A)
 
 
 
@@ -313,7 +313,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérim**
 
 **14** En cas d’absence ou d’empêchement du président ou de vacance de son poste, son intérim est assuré, avec plein exercice de ses attributions, par la personne que désigne l’Office.
-> 1988, ch. 28, art. 14; 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 14; 2014, ch. 13, art. 91(A)
 
 
 
@@ -328,7 +328,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(2)** Les deux gouvernements conviennent du traitement et des autres conditions d’emploi des membres qu’ils nomment séparément.
-> 1988, ch. 28, art. 15; 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 15; 2014, ch. 13, art. 91(A)
 
 
 
@@ -423,7 +423,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réunions**
 
 **22** L’Office tient ses réunions au moins une fois à tous les deux mois, sauf décision unanime de report par les membres. II se réunit également sur convocation du président, à la demande de deux membres ou à celle du ministre fédéral ou provincial pour étudier toute question que celui-ci lui renvoie.
-> 1988, ch. 28, art. 22; 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 22; 2014, ch. 13, art. 91(A)
 
 
 
@@ -487,7 +487,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérim**
 
 - **(7)** En cas d’absence ou d’empêchement du premier dirigeant ou de vacance à son poste, son intérim est assuré, avec plein exercice de ses attributions, par la personne que désigne l’Office.
-> 1988, ch. 28, art. 25; 2014, ch. 13, art. 91(A); 2015, ch. 4, art. 73(F).
+> 1988, ch. 28, art. 25; 2014, ch. 13, art. 91(A); 2015, ch. 4, art. 73(F)
 
 
 
@@ -509,7 +509,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mutations**
 
-- **(4)** Pour ce qui concerne leur admissibilité à une nomination à un poste dans la fonction publique à la suite de tout processus de nomination sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), les agents de l’Office qui faisaient partie de la fonction publique sont considérés comme des fonctionnaires du ministère de l’Énergie, des Mines et des Ressources du lieu où ils exercent leurs fonctions dans un poste dont la nature et le niveau équivalent à ceux de leur poste de l’Office, et ceux qui n’en faisaient pas partie sont considérés tels deux ans après leur entrée en fonctions.
+- **(4)** Pour ce qui concerne leur admissibilité à une nomination à un poste dans la fonction publique à la suite de tout processus de nomination sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md), les agents de l’Office qui faisaient partie de la fonction publique sont considérés comme des fonctionnaires du ministère de l’Énergie, des Mines et des Ressources du lieu où ils exercent leurs fonctions dans un poste dont la nature et le niveau équivalent à ceux de leur poste de l’Office, et ceux qui n’en faisaient pas partie sont considérés tels deux ans après leur entrée en fonctions.
 
 **Application de la législation néo-écossaise**
 
@@ -522,7 +522,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de fonction publique**
 
 - **(5)** Au présent article, fonction publique s’entend au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
-> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123, 225(A) et 232; 2014, ch. 13, art. 58; 2017, ch. 9, art. 55.
+> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123, 225(A) et 232; 2014, ch. 13, art. 58; 2017, ch. 9, art. 55
 
 
 
@@ -544,7 +544,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification interne**
 
 - **(2)** Dans le cadre de ses fonctions, le comité de vérification et d’évaluation fait procéder à des vérifications internes afin de s’assurer du respect, par les dirigeants et les employés de l’Office, des mécanismes de contrôle et des systèmes de gestion établis par l’Office.
-> 2014, ch. 13, art. 59.
+> 2014, ch. 13, art. 59
 
 
 
@@ -595,7 +595,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépôt**
 
 - **(3)** Le ministre fédéral fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la date de sa réception.
-> 1988, ch. 28, art. 30; 2014, ch. 13, art. 60.
+> 1988, ch. 28, art. 30; 2014, ch. 13, art. 60
 
 
 
@@ -623,7 +623,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limite**
 
 - **(3)** Le montant des droits ou redevances visés à l’alinéa (1)b) ne peut excéder les coûts relatifs aux activités exercées par l’Office sous le régime de la présente loi ou de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
-> 2015, ch. 4, art. 74.
+> 2015, ch. 4, art. 74
 
 
 
@@ -632,7 +632,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application de la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
 **30.2** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux droits ou redevances à payer conformément aux règlements pris en vertu de l’article 30.1.
-> 2015, ch. 4, art. 74; 2017, ch. 20, art. 454.
+> 2015, ch. 4, art. 74; 2017, ch. 20, art. 454
 
 
 
@@ -641,7 +641,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Remise des droits et redevances**
 
 **30.3** La moitié des droits et redevances perçus conformément aux règlements pris en vertu de l’article 30.1 est déposée au crédit du receveur général, et l’autre moitié est déposée au crédit de Sa Majesté du chef de la province, selon les délais et modalités qui sont prévus à ces règlements.
-> 2015, ch. 4, art. 74.
+> 2015, ch. 4, art. 74
 
 
 
@@ -675,7 +675,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **33** 
 
-- **(1)** Sous réserve du paragraphe (2), aucune décision majeure ne peut être mise en œuvre avant l’expiration d’un délai de trente jours suivant la réception par les ministres de l’avis mentionné au paragraphe 32(1) et de toute période supplémentaire au cours de laquelle la mise en œuvre est, au titre de l’article 34, suspendue ou au cours de laquelle la décision peut être annulée, l’annulation renversée ou l’Office national de l’Énergie peut intervenir en application de l’article 35; ou encore si la décision a été définitivement annulée.
+- **(1)** Sous réserve du paragraphe (2), aucune décision majeure ne peut être mise en œuvre avant l’expiration d’un délai de trente jours suivant la réception par les ministres de l’avis mentionné au paragraphe 32(1) et de toute période supplémentaire au cours de laquelle la mise en œuvre est, au titre de l’article 34, suspendue ou au cours de laquelle la décision peut être annulée, l’annulation renversée ou la Commission de la Régie canadienne de l’énergie peut intervenir en application de l’article 35; ou encore si la décision a été définitivement annulée.
 
 **Approbation de deux ministres**
 
@@ -684,6 +684,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en œuvre**
 
 - **(3)** Une fois le délai expiré, l’Office procède sans délai à la mise en œuvre de la décision.
+> 1988, ch. 28, art. 332019, ch. 28, art. 153
+
 
 
 
@@ -709,17 +711,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le ministre qui, au titre des paragraphes (1) ou (2), intervient est tenu d’en aviser par écrit son homologue et l’Office.
 
-**Constat par l’Office nationale de l’Énergie**
+**Commission de la Régie canadienne de l’énergie**
 
-- **(4)** Par dérogation au paragraphe (2), le ministre provincial peut, par demande présentée selon les modalités de temps ou autres fixées par règlement, saisir l’Office national de l’Énergie de tout désaccord avec le ministre fédéral sur une mesure prise par celui-ci au titre du paragraphe (2). L’Office décide alors si la décision majeure ou l’annulation de celle-ci pourrait indûment retarder la sécurité des approvisionnements et, le cas échéant, maintient ou renverse la mesure.
+- **(4)** Par dérogation au paragraphe (2), le ministre provincial peut, par demande présentée selon les modalités de temps ou autres fixées par règlement, saisir la Commission de la Régie canadienne de l’énergie de tout désaccord avec le ministre fédéral sur une mesure prise par celui-ci au titre du paragraphe (2). La Commission décide alors si la décision majeure ou l’annulation de celle-ci pourrait indûment retarder la sécurité des approvisionnements et, le cas échéant, maintient ou renverse la mesure.
 
 **Procédure**
 
-- **(5)** La décision de l’Office national de l’énergie est rendue, par dérogation à la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) et selon les modalités de temps ou autres fixées par règlement; elle est définitive et ne peut en aucun cas être révisée ou annulée; elle est publiée par l’Office sans délai.
+- **(5)** La décision de la Commission de la Régie canadienne de l’énergie est rendue, par dérogation à la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) et selon les modalités de temps ou autres fixées par règlement; elle est définitive et ne peut en aucun cas être révisée ou annulée; elle est publiée par la Régie canadienne de l’énergie sans délai.
 
 **Disposition transitoire**
 
-- **(6)** Avant la prise des règlements au titre du paragraphe (4) ou (5), la demande est traitée, et la décision de l’Office national de l’énergie est prise conformément à sa propre procédure.
+- **(6)** Avant la prise des règlements au titre du paragraphe (4) ou (5), la demande est traitée, et la décision de la Régie canadienne de l’énergie est prise conformément à sa propre procédure.
 
 **Annulation définitive**
 
@@ -738,6 +740,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***pétrole brut et substances assimilées acceptables*** Substances aptes à être transformées dans les raffineries canadiennes et susceptibles d’y être livrées. (*suitable crude oil and equivalent substances*)
 
 ***sécurité des approvisionnements*** L’autosuffisance prévue pour chacune des cinq années d’une période déterminée, compte tenu globalement des prévisions d’augmentation de la capacité de production et d’adaptation de la capacité de raffinage. (*security of supply*)
+> 1988, ch. 28, art. 352019, ch. 28, art. 1542019, ch. 28, art. 155
+
 
 
 
@@ -768,7 +772,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet**
 
 - **(2)** Le constat est définitif et ne peut en aucun cas être révisé ou annulé.
-> 1988, ch. 28, art. 37; 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 37; 2014, ch. 13, art. 91(A)
 
 
 
@@ -826,7 +830,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** définir ***conditions du marché*** ou prévoir un mécanisme d’arbitrage pour déterminer cas par cas ce que sont les conditions du marché;
 	- **b)** prévoir les modalités et la prise des décisions d’arbitrage, ainsi que les procédures d’appel et d’exécution à cet égard;
 	- **c)** fixer les modalités d’exercice du premier choix visé au paragraphe (2).
-> 1988, ch. 28, art. 39; 2015, ch. 4, art. 75.
+> 1988, ch. 28, art. 39; 2015, ch. 4, art. 75
 
 
 
@@ -844,11 +848,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Certificat**
 
-- **(2)** Il ne peut être délivré de certificat de commodité et nécessité publiques sous le régime de la partie III de la [Loi sur l’Office national de l’Énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) pour une canalisation principale néo-écossaise que si l’Office national de l’Énergie estime que le gouvernement de la province s’est vu offrir la juste possibilité d’acquérir, sur une base commerciale, au moins cinquante pour cent, ou tel moindre pourcentage qu’il se propose d’acquérir, de la propriété de la canalisation.
+- **(2)** Il ne peut être délivré de certificat sous le régime de la partie 3 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) pour une canalisation principale néo-écossaise que si la Commission de la Régie canadienne de l’énergie estime que le gouvernement de la province s’est vu offrir la juste possibilité d’acquérir, sur une base commerciale, au moins cinquante pour cent, ou tel moindre pourcentage qu’il se propose d’acquérir, de la propriété de la canalisation.
 
 **Autorisation et certificat**
 
 - **(3)** Lorsqu’un tel certificat n’est pas obligatoire pour une canalisation principale néo-écossaise, il ne peut être délivré d’autorisation sous le régime de l’alinéa 142(1) b) pour celle-ci que si le ministre estime que le gouvernement de la province s’est vu offrir la juste possibilité d’acquérir, sur une base commerciale, au moins cinquante pour cent, ou tel moindre pourcentage qu’il se propose d’acquérir, de la propriété de la canalisation.
+> 1988, ch. 28, art. 402019, ch. 28, art. 156
+
 
 
 
@@ -889,7 +895,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(6)** Les instructions ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1988, ch. 28, art. 41; 1993, ch. 47, art. 12; 2014, ch. 13, art. 61.
+> 1988, ch. 28, art. 41; 1993, ch. 47, art. 12; 2014, ch. 13, art. 61
 
 
 
@@ -903,7 +909,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **42** 
 
-- **(1)** Le ministre fédéral est tenu de faire donner un avis de toute mesure qu’il prend en application des articles 34, 35 ou 41 et d’y préciser la décision majeure en cause. Chaque avis est à publier dans la Gazette du Canada.
+- **(1)** Le ministre fédéral est tenu de faire donner un avis de toute mesure qu’il prend en application des articles 34, 35 ou 41 et d’y préciser la décision majeure en cause. Chaque avis est à publier dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Mention**
 
@@ -948,7 +954,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai**
 
 - **(4)** Les commissaires font leurs recommandations sur le plan provisoire et les exposés visés à l’alinéa (2) d) dans les deux cent soixante-dix jours qui suivent leur réception ou tout délai inférieur fixé par l’Office.
-> 1988, ch. 28, art. 44; 2015, ch. 4, art. 76(F).
+> 1988, ch. 28, art. 44; 2015, ch. 4, art. 76(F)
 
 
 
@@ -961,7 +967,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Audiences publiques**
 
 **44.1** L’Office peut tenir des audiences publiques sur tout aspect des attributions ou des activités qu’il exerce à titre d’autorité responsable au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
-> 2015, ch. 4, art. 77.
+> 2015, ch. 4, art. 77
 
 
 
@@ -972,7 +978,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **44.2** Dans le cadre d’une audience publique tenue en vertu de l’article 44.1, l’Office peut prendre toute mesure ou rendre toute ordonnance qu’il juge nécessaire pour assurer la confidentialité des renseignements qui seront probablement divulgués au cours de l’audience lorsqu’il est convaincu :
 - **a)** soit que la divulgation risquerait vraisemblablement de causer des pertes ou des profits financiers appréciables aux intéressés, ou de nuire à leur compétitivité, et que le préjudice pouvant résulter de la divulgation l’emporte sur l’importance, au regard de l’intérêt public, de la divulgation;
 - **b)** soit qu’il s’agit de renseignements financiers, commerciaux, scientifiques ou techniques de nature confidentielle obtenus par lui, traités comme tels de façon constante par les intéressés, et que l’intérêt de ces derniers à préserver la confidentialité des renseignements l’emporte sur l’importance, au regard de l’intérêt public, de leur divulgation.
-> 2015, ch. 4, art. 77.
+> 2015, ch. 4, art. 77
 
 
 
@@ -983,7 +989,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **44.3** Dans le cadre d’une audience publique tenue en vertu de l’article 44.1, l’Office peut prendre toute mesure ou rendre toute ordonnance qu’il juge nécessaire pour assurer la confidentialité des renseignements qui seront probablement divulgués au cours de l’audience lorsqu’il est convaincu, à la fois :
 - **a)** qu’il y a un risque sérieux que la divulgation des renseignements compromette la sécurité de pipe-lines, au sens de l’article 138, d’installations, de navires, d’aéronefs ou de réseaux ou systèmes divers, y compris de réseaux ou systèmes informatisés ou de communication, ou de méthodes employées pour leur protection;
 - **b)** que la nécessité d’empêcher la divulgation des renseignements l’emporte sur l’importance, au regard de l’intérêt public, de leur divulgation.
-> 2015, ch. 4, art. 77.
+> 2015, ch. 4, art. 77
 
 
 
@@ -992,7 +998,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 **44.4** L’Office ne peut toutefois invoquer les articles 44.2 et 44.3 pour prendre une mesure ou rendre une ordonnance à l’égard des renseignements visés aux alinéas 122(5)a) à e) et i).
-> 2015, ch. 4, art. 77.
+> 2015, ch. 4, art. 77
 
 
 
@@ -1035,7 +1041,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlement**
 
 - **(7)** Sous réserve de l’article 6, le gouverneur en conseil peut, par règlement, fixer les modalités d’établissement et de contenu des plans de retombées.
-> 1988, ch. 28, art. 45; 1992, ch. 35, art. 86.
+> 1988, ch. 28, art. 45; 1992, ch. 35, art. 86
 
 
 
@@ -1062,7 +1068,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(2)** Les ministres fédéral et provincial sont parties à tout protocole d’entente conclu à l’égard du point (1) d).
-> 1988, ch. 28, art. 46; 2014, ch. 13, art. 62.
+> 1988, ch. 28, art. 46; 2014, ch. 13, art. 62
 
 
 
@@ -1085,7 +1091,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Président du comité**
 
 - **(3)** Le président du comité est nommé conjointement par les deux arbitres dans les trente jours qui suivent la nomination du second d’entre eux ou, à défaut d’accord, par le juge en chef de la province dans les trente jours qui suivent l’expiration de ce délai.
-> 1988, ch. 28, art. 47; 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 47; 2014, ch. 13, art. 91(A)
 
 
 
@@ -1196,7 +1202,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 **52** Les avis à donner sous le régime de la présente partie ou de ses règlements le sont sur formulaire, selon les modalités réglementaires.
-> 1988, ch. 28, art. 52; 1992, ch. 1, art. 144(F).
+> 1988, ch. 28, art. 52; 1992, ch. 1, art. 144(F)
 
 
 
@@ -1441,7 +1447,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Modalités de publication**
 
-**66** Les avis que donne l’Office sous le régime des paragraphes 61(1), 62(2) ou (4), 64(2) ou 71(2) sont à publier dans la Gazette du Canada et telle publication qu’il estime indiquée. Par dérogation à ces paragraphes, l’avis peut ne contenir qu’un résumé des renseignements en cause accompagné d’une note indiquant qu’il est possible d’avoir accès au texte complet sur demande présentée à l’Office.
+**66** Les avis que donne l’Office sous le régime des paragraphes 61(1), 62(2) ou (4), 64(2) ou 71(2) sont à publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) et telle publication qu’il estime indiquée. Par dérogation à ces paragraphes, l’avis peut ne contenir qu’un résumé des renseignements en cause accompagné d’une note indiquant qu’il est possible d’avoir accès au texte complet sur demande présentée à l’Office.
 
 
 
@@ -1668,7 +1674,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de date d’abandon du puits**
 
 - **(5)** Pour l’application du paragraphe (3), la date d’abandon du puits est celle à laquelle le puits a été abandonné ou complété ou son exploitation suspendue conformément aux règlements applicables en matière de forage.
-> 1988, ch. 28, art. 79; 2015, ch. 4, art. 78.
+> 1988, ch. 28, art. 79; 2015, ch. 4, art. 78
 
 
 
@@ -1782,7 +1788,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modalités de la licence**
 
 - **(4)** L’attestation est établie sur formulaire et comporte les conditions compatibles avec la présente partie et ses règlements dont conviennent l’Office, sous réserve des articles 32 à 37, et le titulaire intéressé.
-> 1988, ch. 28, art. 84; 1993, ch. 47, art. 13.
+> 1988, ch. 28, art. 84; 1993, ch. 47, art. 13
 
 
 
@@ -1868,7 +1874,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Condition d’octroi**
 
 **90** Seules les personnes morales constituées au Canada peuvent être titulaires ou indivisaires d’une licence de production.
-> 1988, ch. 28, art. 90; 1993, ch. 47, art. 14.
+> 1988, ch. 28, art. 90; 1993, ch. 47, art. 14
 
 
 
@@ -1920,7 +1926,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction des parts de la Couronne**
 
 - **(7)** Les dispositions de la présente loi ou de la loi provinciale et de leurs règlements n’ont pas pour effet de réserver à Sa Majesté une part de la Couronne sur les titres extracôtiers.
-> 1988, ch. 28, art. 99; 2015, ch. 4, art. 79(F).
+> 1988, ch. 28, art. 99; 2015, ch. 4, art. 79(F)
 
 
 
@@ -1946,7 +1952,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Preuve d’une disposition de l’accord**
 
-- **(5)** Un document, censé être un accord, qui est publié dans la Gazette du Canada, soit certifié comme tel par le ministre du Revenu national, le receveur général, le sous-receveur général ou le ministre fédéral, ou pour le compte de ceux-ci, fait, sauf preuve contraire, foi de son contenu et est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du certificateur.
+- **(5)** Un document, censé être un accord, qui est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/), soit certifié comme tel par le ministre du Revenu national, le receveur général, le sous-receveur général ou le ministre fédéral, ou pour le compte de ceux-ci, fait, sauf preuve contraire, foi de son contenu et est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du certificateur.
 
 **Imputation**
 
@@ -1968,7 +1974,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Trésor**
 
 - **(2)** Dès que possible après leur recouvrement ou réception par l’Office sous le régime du présent article, les montants sont déposés au crédit du receveur général et versés au Trésor selon les modalités prescrites par le Conseil du Trésor conformément à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 1988, ch. 28, art. 101; 2015, ch. 4, art. 80(F).
+> 1988, ch. 28, art. 101; 2015, ch. 4, art. 80(F)
 
 
 
@@ -2014,7 +2020,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exemption**
 
 **104** Le titulaire d’un titre portant sur des terres situées dans la partie de la zone extracôtière visée à l’annexe IV est exempté du versement — au titre de l’article 81 de la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md) — de tout montant pour la période précisée dans un avis donné en application des paragraphes 141(1) ou (2).
-> 1988, ch. 28, art. 104; 2015, ch. 39, art. 2.
+> 1988, ch. 28, art. 104; 2015, ch. 39, art. 2
 
 
 
@@ -2067,7 +2073,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Mentions**
 
 - **(2)** Lors de l’enregistrement d’une cession de sûreté, la mention faite à la présente section d’une partie garantie vaut, à l’égard de l’avis de cession de la sûreté, mention du cessionnaire désigné dans la cession de sûreté.
-> 1988, ch. 28, art. 105; 1991, ch. 46, art. 586; 1999, ch. 31, art. 30.
+> 1988, ch. 28, art. 105; 1991, ch. 46, art. 586; 1999, ch. 31, art. 30
 
 
 
@@ -2312,7 +2318,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 - **d)** prévoir l’accès aux registres et à leur consultation;
 - **e)** [Abrogé, 2015, ch. 4, art. 81]
 - **f)** prendre les mesures réglementaires prévues par la présente section.
-> 1988, ch. 28, art. 121; 2015, ch. 4, art. 81.
+> 1988, ch. 28, art. 121; 2015, ch. 4, art. 81
 
 
 
@@ -2424,7 +2430,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Exception — paragraphes (9) à (11)**
 
 - **(12)** Les paragraphes (9) à (11) ne s’appliquent pas à l’égard des catégories de renseignements visées aux alinéas (5)a) à e) et i).
-> 1988, ch. 28, art. 122; 1992, ch. 35, art. 87; 2015, ch. 4, art. 82.
+> 1988, ch. 28, art. 122; 1992, ch. 35, art. 87; 2015, ch. 4, art. 82
 
 
 
@@ -2474,7 +2480,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Précautions à prendre contre la communication**
 
 - **(9)** Lors de procédures relatives au recours prévu au paragraphe (7), la Cour suprême de la Nouvelle-Écosse prend toutes les précautions possibles, notamment par la tenue d’audiences à huis clos si indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements qui, en application de la présente loi, sont protégés ou ne peuvent pas être communiqués.
-> 2015, ch. 4, art. 83.
+> 2015, ch. 4, art. 83
 
 
 
@@ -2517,7 +2523,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Application**
 
 - **(2)** Les règlements peuvent s’appliquer à tout ou partie de la zone extracôtière.
-> 1988, ch. 28, art. 125; 1992, ch. 35, art. 89.
+> 1988, ch. 28, art. 125; 1992, ch. 35, art. 89
 
 
 
@@ -2536,7 +2542,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Défaut**
 
 - **(2)** Par dérogation aux autres dispositions de la présente partie mais sous réserve des articles 32 à 37, si l’intéressé ne se conforme pas à l’avis dans le délai imparti, l’Office peut, par arrêté assujetti à l’article 127 et s’il juge que le défaut justifie la mesure, annuler les titres ou fractions en cause auquel cas les parties de la zone extracôtière sur lesquelles ils portaient deviennent des réserves de l’État.
-> 1988, ch. 28, art. 126; 2014, ch. 13, art. 63.
+> 1988, ch. 28, art. 126; 2014, ch. 13, art. 63
 
 
 
@@ -2593,7 +2599,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Examen judiciaire**
 
 - **(11)** La mesure objet d’une audition au titre du présent article peut être revisée et annulée par la Cour suprême de la Nouvelle-Écosse conformément aux règles de pratique et de procédure établies sous le régime de la loi provinciale.
-> 1988, ch. 28, art. 127; 1999, ch. 31, art. 31.
+> 1988, ch. 28, art. 127; 1999, ch. 31, art. 31
 
 
 
@@ -2615,7 +2621,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 **Publication des projets de règlement**
 
-- **(2)** Sous réserve du paragraphe (3), les projets de règlement que le gouverneur en conseil se propose de prendre en vertu de la présente partie sont publiés dans la Gazette du Canada et tout intéressé doit avoir la possibilité de présenter au ministre fédéral ses observations à leur sujet.
+- **(2)** Sous réserve du paragraphe (3), les projets de règlement que le gouverneur en conseil se propose de prendre en vertu de la présente partie sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) et tout intéressé doit avoir la possibilité de présenter au ministre fédéral ses observations à leur sujet.
 
 **Exception**
 
@@ -2802,7 +2808,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 ***pipe-line*** Canalisation, prise isolément ou formant réseau, servant au transport — à partir de la tête du puits ou de tout autre lieu de production ou à partir du lieu de stockage, de transformation ou de traitement — d’hydrocarbures ou de l’eau qu’ils peuvent contenir à la suite des opérations de forage ou de production. Y sont assimilés les terrains ou installations liés, directement ou non, à l’exploitation de la canalisation pour la collecte, le transport, la manutention et la livraison des hydrocarbures et, notamment les installations et réservoirs extracôtiers, les citernes, réservoirs de surface, pompes, rampes et stations de chargement, compresseurs et stations de compression, les matériels et installations fixes de mesure et de commande de la pression ou du débit ou de mesure du volume, ainsi que les matériels et installations fixes de chauffage, refroidissement et déshydratation, à l’exclusion des canalisations de distribution de gaz aux consommateurs finals. (*pipeline*)
 
 ***puits*** Trou creusé dans le sol — à l’exclusion des trous de prospection sismique — par forage, sondage ou autre moyen, en vue de la recherche, de l’obtention ou de la production d’hydrocarbures, de l’obtention d’eau pour injection dans une formation souterraine, de l’injection de substances — gaz, air, eau ou autre — dans une telle formation, ou à toute autre fin à condition que ce soit à travers des roches sédimentaires jusqu’à une profondeur d’au moins cent cinquante mètres. La présente définition vise également les points en cours de creusement ou en projet. (*well*)
-> 1988, ch. 28, art. 138; 1992, ch. 35, art. 91.
+> 1988, ch. 28, art. 138; 1992, ch. 35, art. 91
 
 
 
@@ -2820,7 +2826,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 - **b.1)** de la responsabilisation selon le principe du pollueur-payeur;
 - **c)** de la rationalisation de l’exploitation;
 - **d)** de la conclusion d’accords conjoints de production.
-> 1992, ch. 35, art. 92; 2015, ch. 4, art. 84.
+> 1992, ch. 35, art. 92; 2015, ch. 4, art. 84
 
 
 
@@ -2844,7 +2850,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Nomination**
 
 **139.1** Le ministre provincial désigne un des membres du Conseil d’harmonisation constitué par la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md).
-> 1992, ch. 35, art. 93.
+> 1992, ch. 35, art. 93
 
 
 
@@ -2857,7 +2863,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Approbation**
 
 **139.2** Le ministre provincial peut approuver la constitution du Conseil des normes extracôtières de formation mentionné au paragraphe 5.5(1) de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) par les ministres fédéraux visés à cette loi.
-> 1992, ch. 35, art. 93.
+> 1992, ch. 35, art. 93
 
 
 
@@ -2873,7 +2879,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 - **a)** s’il n’est titulaire du permis de travaux visé à l’alinéa 142(1) a);
 - **b)** s’il n’est titulaire, avant le début des travaux et pour chaque activité, de l’autorisation visée à l’alinéa 142(1) b);
 - **c)** s’il n’est, le cas échéant, habilité à exploiter une entreprise au lieu où il a l’intention d’exercer des activités.
-> 1988, ch. 28, art. 140; 1992, ch. 35, art. 94.
+> 1988, ch. 28, art. 140; 1992, ch. 35, art. 94
 
 
 
@@ -2882,7 +2888,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Interdiction : réserve à vocation de parc national de l’Île-de-Sable du Canada**
 
 **140.1** Nul ne peut exercer des travaux ou des activités liés au forage pétrolier, notamment le forage exploratoire, dans la réserve à vocation de parc national de l’Île-de-Sable du Canada ni à l’intérieur d’un mille marin de la laisse de basse mer.
-> 2013, ch. 28, art. 6.
+> 2013, ch. 28, art. 6
 
 
 
@@ -2901,7 +2907,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Interdiction**
 
 - **(3)** Nul ne peut, pendant la période précisée dans un avis conjoint des ministres, exercer les activités mentionnées au paragraphe (1) dans la partie de la zone extracôtière visée à l’annexe IV ou dans la partie de celle-ci prévue dans l’avis.
-> 1988, ch. 28, art. 141; 2014, ch. 13, art. 91(A); 2015, ch. 39, art. 3.
+> 1988, ch. 28, art. 141; 2014, ch. 13, art. 91(A); 2015, ch. 39, art. 3
 
 
 
@@ -2914,7 +2920,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Délégation**
 
 **141.1** L’Office peut déléguer à quiconque telle de ses attributions prévues aux articles 142, 142.2, 142.3, 143.1, 143.2, 167.1 et 168. Le mandat est à exercer conformément à la délégation.
-> 1992, ch. 35, art. 95; 2015, ch. 4, art. 85.
+> 1992, ch. 35, art. 95; 2015, ch. 4, art. 85
 
 
 
@@ -2968,7 +2974,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 	- **c)** aux paragraphes 143.1(3), 143.2(2), 167.1(4) ou (5) ou 168(1.1), (1.2) ou (5);
 	- **c.1)** à toute disposition de la partie III.1;
 	- **d)** aux règlements applicables.
-> 1988, ch. 28, art. 142; 1992, ch. 35, art. 96; 2014, ch. 13, art. 64; 2015, ch. 4, art. 86 et 117.
+> 1988, ch. 28, art. 142; 1992, ch. 35, art. 96; 2014, ch. 13, art. 64; 2015, ch. 4, art. 86 et 117
 
 
 
@@ -2987,7 +2993,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Avis tenu compte par l’Office**
 
 - **(3)** Avant de délivrer une autorisation, l’Office tient compte de tout avis reçu en application du paragraphe (2). Le cas échéant, il peut assortir l’autorisation de conditions, notamment des mesures correctives ou d’atténuation à l’égard de l’incidence éventuelle des travaux ou de l’activité proposés sur la gestion de la surface de la réserve à vocation de parc national de l’Île-de-Sable du Canada.
-> 2013, ch. 28, art. 7.
+> 2013, ch. 28, art. 7
 
 
 
@@ -3017,7 +3023,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 - **(4)** L’Office rend publiques sans délai :
 	- **a)** la date où commence la période de douze mois visée au paragraphe (1);
 	- **b)** la date où commence la période visée au paragraphe (3) et celle où elle se termine.
-> 2015, ch. 4, art. 87.
+> 2015, ch. 4, art. 87
 
 
 
@@ -3026,7 +3032,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Programme d’aide financière**
 
 **142.03** L’Office peut créer un programme d’aide financière pour faciliter la participation du public à l’évaluation environnementale, au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), de toute activité concrète prévue au paragraphe 142.02(2) qui satisfait à la condition énoncée à l’alinéa 58(1)a) de cette loi et qui fait l’objet d’une demande présentée au titre de l’alinéa 142(1)b) ou du paragraphe 143(2).
-> 2015, ch. 4, art. 87.
+> 2015, ch. 4, art. 87
 
 
 
@@ -3049,7 +3055,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 	- **b)** les activités d’exploration pétrolière à faible incidence sur l’environnement, notamment les programmes sismiques, géologiques ou géophysiques;
 	- **c)** la capacité d’évacuation d’urgence des travailleurs extracôtiers;
 	- **d)** la mise en service, l’entretien et l’inspection des installations d’urgence, notamment l’aire d’atterrissage d’hélicoptère et les caches à carburant.
-> 1992, ch. 35, art. 96; 2013, ch. 28, art. 8.
+> 1992, ch. 35, art. 96; 2013, ch. 28, art. 8
 
 
 
@@ -3062,7 +3068,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Examen**
 
 **142.2** Avant de délivrer l’autorisation visée à l’alinéa 142(1) b), l’Office, de concert avec le délégué à la sécurité, examine, afin d’en vérifier la sécurité, l’ensemble du projet et chacun de ses éléments, y compris les installations, le matériel, les procédures d’exploitation et la main-d’œuvre.
-> 1992, ch. 35, art. 96.
+> 1992, ch. 35, art. 96
 
 
 
@@ -3075,7 +3081,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Avantage environnemental net**
 
 **142.21** L’Office ne peut, dans une autorisation délivrée en vertu de l’alinéa 142(1)b), permettre l’utilisation d’un agent de traitement que s’il considère que son utilisation procurera vraisemblablement un avantage environnemental net.
-> 2015, ch. 4, art. 88.
+> 2015, ch. 4, art. 88
 
 
 
@@ -3088,7 +3094,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Respect de certaines dispositions**
 
 **142.3** Avant de délivrer l’autorisation visée à l’alinéa 142(1)b), l’Office s’assure que le demandeur s’est conformé aux obligations prévues aux paragraphes 167.1(1) ou (2) et 168(1) ou (1.01).
-> 1992, ch. 35, art. 96; 2015, ch. 4, art. 89.
+> 1992, ch. 35, art. 96; 2015, ch. 4, art. 89
 
 
 
@@ -3123,7 +3129,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Application**
 
 - **(6)** Les paragraphes (2) à (5) s’appliquent, avec les adaptations nécessaires, au projet de modification.
-> 1988, ch. 28, art. 143; 1992, ch. 35, art. 97.
+> 1988, ch. 28, art. 143; 1992, ch. 35, art. 97
 
 
 
@@ -3150,7 +3156,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Immunité**
 
 - **(4)** L’Office ou son délégué ne peut être tenu pour responsable à l’égard de quiconque du seul fait d’avoir délivré une autorisation sur la foi d’une déclaration.
-> 1992, ch. 35, art. 98; 2014, ch. 13, art. 65.
+> 1992, ch. 35, art. 98; 2014, ch. 13, art. 65
 
 
 
@@ -3193,7 +3199,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Immunité**
 
 - **(7)** L’Office ou son délégué ne peut être tenu responsable à l’égard de quiconque du seul fait d’avoir délivré une autorisation sur la foi d’un certificat.
-> 1992, ch. 35, art. 98.
+> 1992, ch. 35, art. 98
 
 
 
@@ -3206,7 +3212,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Désignation**
 
 **144** L’Office peut désigner une personne à titre de délégué à l’exploitation et une autre à titre de délégué à la sécurité, le premier dirigeant ne pouvant toutefois exercer cette dernière fonction.
-> 1988, ch. 28, art. 144; 1992, ch. 35, art. 99; 2014, ch. 13, art. 66.
+> 1988, ch. 28, art. 144; 1992, ch. 35, art. 99; 2014, ch. 13, art. 66
 
 
 
@@ -3219,7 +3225,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Ordres et arrêtés**
 
 **144.1** Pour l’application de la présente loi, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) les ordres et arrêtés pris par les agents de la sécurité, les agents du contrôle de l’exploitation, le délégué à la sécurité, le délégué à l’exploitation ou le Comité, ou un agent de santé et de sécurité au sens du paragraphe 210.001(1).
-> 1992, ch. 35, art. 99; 2014, ch. 13, art. 67.
+> 1992, ch. 35, art. 99; 2014, ch. 13, art. 67
 
 
 
@@ -3242,7 +3248,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Réserve**
 
 - **(3)** Le présent article ne s’applique qu’aux essais de débit prolongés dont les résultats donnent suffisamment de renseignements pour la détermination du meilleur procédé de récupération pour le réservoir, de la capacité du réservoir ou des limites de productivité de tout puits d’exploitation du réservoir et qui ne mettent pas en danger la récupération finale pour ce réservoir.
-> 1992, ch. 35, art. 99.
+> 1992, ch. 35, art. 99
 
 
 
@@ -3269,7 +3275,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Mandats renouvelables**
 
 - **(3)** Les membres peuvent recevoir un nouveau mandat, à des fonctions identiques ou non.
-> 1988, ch. 28, art. 145; 2003, ch. 22, art. 124(A); 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 145; 2003, ch. 22, art. 124(A); 2014, ch. 13, art. 91(A)
 
 
 
@@ -3296,7 +3302,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Frais**
 
 - **(5)** Les membres ont le droit de recevoir les frais de déplacement et de séjour entraînés par l’exercice de leurs fonctions hors du lieu habituel de leur résidence.
-> 1988, ch. 28, art. 146; 2003, ch. 22, art. 125.
+> 1988, ch. 28, art. 146; 2003, ch. 22, art. 125
 
 
 
@@ -3318,7 +3324,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Attributions**
 
 - **(2)** Le Comité peut, par règlement administratif compatible avec la présente loi, régir la conduite de ses travaux ainsi que les dates et lieux de ses réunions.
-> 1988, ch. 28, art. 148; 2003, ch. 22, art. 126.
+> 1988, ch. 28, art. 148; 2003, ch. 22, art. 126
 
 
 
@@ -3382,7 +3388,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Annulation ou remplacement**
 
 - **(3)** Lorsqu’un arrêté du Comité devient une ordonnance de la Cour suprême de la Nouvelle-Écosse, tout arrêté de celui-ci, ou de l’Office, rendu en vertu de l’article 191 qui l’annule ou le remplace est réputé annuler l’ordonnance et peut, selon les mêmes modalités, être assimilé à une ordonnance de la Cour.
-> 1988, ch. 28, art. 152; 1999, ch. 31, art. 32.
+> 1988, ch. 28, art. 152; 1999, ch. 31, art. 32
 
 
 
@@ -3428,7 +3434,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Agents de traitement**
 
 - **(3)** Les règlements visés au paragraphe (1) qui ont trait aux agents de traitement sont pris sur la recommandation du ministre fédéral et du ministre de l’Environnement. Leur prise demeure soumise aux exigences prévues au paragraphe 6(1).
-> 1988, ch. 28, art. 153; 1992, ch. 35, art. 101; 2015, ch. 4, art. 90 et 117.
+> 1988, ch. 28, art. 153; 1992, ch. 35, art. 101; 2015, ch. 4, art. 90 et 117
 
 
 
@@ -3443,7 +3449,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Recommandation**
 
 - **(2)** Le décret est pris sur la recommandation du ministre fédéral et du ministre chargé de l’application de la disposition en cause.
-> 2015, ch. 4, art. 91.
+> 2015, ch. 4, art. 91
 
 
 
@@ -3453,7 +3459,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 
 **154** 
 
-- **(1)** Sous réserve du paragraphe (2), les projets de règlements que le gouverneur en conseil se propose de prendre en application de la présente section sont publiés dans la Gazette du Canada, les intéressés se voyant accorder la possibilité de présenter au ministre fédéral leurs observations à cet égard.
+- **(1)** Sous réserve du paragraphe (2), les projets de règlements que le gouverneur en conseil se propose de prendre en application de la présente section sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/), les intéressés se voyant accorder la possibilité de présenter au ministre fédéral leurs observations à cet égard.
 
 **Exception**
 
@@ -3477,7 +3483,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Précision**
 
 - **(3)** Nul ne contrevient aux règlements s’il se conforme à l’autorisation ou à la dérogation donnée en vertu des paragraphes (1) ou (2).
-> 1988, ch. 28, art. 155; 1992, ch. 35, art. 102; 2014, ch. 13, art. 68.
+> 1988, ch. 28, art. 155; 1992, ch. 35, art. 102; 2014, ch. 13, art. 68
 
 
 
@@ -3492,7 +3498,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Présomption**
 
 - **(2)** Les directives et textes sont réputés ne pas être des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1988, ch. 28, art. 156; 2015, ch. 4, art. 92.
+> 1988, ch. 28, art. 156; 2015, ch. 4, art. 92
 
 
 
@@ -3519,7 +3525,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Accès aux dossiers et aux registres**
 
 - **(4)** Quiconque fait l’objet d’un arrêté est tenu, sur demande, de donner au délégué, ou à la personne désignée par celui-ci, accès à ses locaux, dossiers et registres à toutes fins valables liées à l’application de l’arrêté.
-> 1988, ch. 28, art. 158; 1992, ch. 35, art. 104.
+> 1988, ch. 28, art. 158; 1992, ch. 35, art. 104
 
 
 
@@ -3566,7 +3572,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Arrêté après enquête**
 
 - **(4)** Après l’enquête, le délégué peut rejeter, modifier ou confirmer l’arrêté en cause ou en prendre un nouveau.
-> 1988, ch. 28, art. 160; 1992, ch. 35, art. 105.
+> 1988, ch. 28, art. 160; 1992, ch. 35, art. 105
 
 
 
@@ -3581,7 +3587,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Prise en charge et frais**
 
 - **(2)** Les personnes ainsi autorisées prennent toute mesure nécessaire pour arrêter le gaspillage; les frais exposés sont à la charge du titulaire du permis ou de la concession et constituent une créance de l’Office dont le recouvrement peut être poursuivi à ce titre devant toute juridiction compétente.
-> 1988, ch. 28, art. 161; 1992, ch. 35, art. 106(F).
+> 1988, ch. 28, art. 161; 1992, ch. 35, art. 106(F)
 
 
 
@@ -3596,7 +3602,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Pouvoirs en appel**
 
 - **(2)** Après audition de l’appel, le Comité peut soit rejeter, confirmer ou modifier l’arrêté du délégué, soit ordonner d’entreprendre les travaux jugés nécessaires pour empêcher le gaspillage ou le dégagement d’hydrocarbures ou pour prévenir tout manquement à la présente section ou aux règlements, ou encore prendre telle mesure, complémentaire ou non, appropriée.
-> 1988, ch. 28, art. 162; 1992, ch. 35, art. 107(F).
+> 1988, ch. 28, art. 162; 1992, ch. 35, art. 107(F)
 
 
 
@@ -3611,7 +3617,7 @@ Elle comprend les activités concrètes qui sont accessoires à l’activité co
 **Audition**
 
 - **(2)** Le Comité tient l’audience à la date indiquée et donne au délégué, aux exploitants et aux autres intéressés la possibilité de faire valoir leurs observations.
-> 1988, ch. 28, art. 163; 1992, ch. 35, art. 108(F).
+> 1988, ch. 28, art. 163; 1992, ch. 35, art. 108(F)
 
 
 
@@ -3656,7 +3662,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Immunité**
 
 - **(4)** Sa Majesté du chef du Canada n’encourt aucune responsabilité du fait que le gouverneur en conseil a, par règlement, autorisé certains déversements, dégagements ou écoulements d’hydrocarbures.
-> 1988, ch. 28, art. 165; 1992, ch. 35, art. 110; 2001, ch. 6, art. 111, ch. 26, art. 281 et 324; 2015, ch. 4, art. 93.
+> 1988, ch. 28, art. 165; 1992, ch. 35, art. 110; 2001, ch. 6, art. 111, ch. 26, art. 281 et 324; 2015, ch. 4, art. 93
 
 
 
@@ -3705,7 +3711,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Responsabilité personnelle**
 
 - **(9)** Les personnes qui prennent les mesures visées au présent article n’encourent, sauf décision injustifiable prouvée, aucune responsabilité personnelle pour les actes ou omissions découlant de l’application de cet article.
-> 1988, ch. 28, art. 166; 1992, ch. 35, art. 111; 2014, ch. 13, art. 70.
+> 1988, ch. 28, art. 166; 1992, ch. 35, art. 111; 2014, ch. 13, art. 70
 
 
 
@@ -3730,7 +3736,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 	- **a)** le délégué à l’exploitation a consulté les ministres fédéral et provincial au sujet de l’approbation;
 	- **b)** le ministre fédéral a consulté le ministre de l’Environnement au sujet de l’approbation;
 	- **c)** le délégué à l’exploitation considère que l’utilisation de l’agent de traitement procurera vraisemblablement un avantage environnemental net.
-> 2015, ch. 4, art. 94.
+> 2015, ch. 4, art. 94
 
 
 
@@ -3739,7 +3745,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **[Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md)**
 
 **166.2** L’article 123 et les paragraphes 124(1) à (3) de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md) ne s’appliquent pas à l’égard des agents de traitement.
-> 2015, ch. 4, art. 95.
+> 2015, ch. 4, art. 95
 
 
 
@@ -3751,7 +3757,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **a)** le paragraphe 36(3) de cette loi est réputé s’appliquer à l’égard du dépôt de l’agent de traitement;
 - **b)** le titulaire de l’autorisation visée à l’alinéa 166.1(1)a) est réputé être la seule personne visée par l’alinéa 42(1)a) de cette loi;
 - **c)** les personnes qui sont à l’origine du rejet ou y ont contribué sont réputées être les seules personnes visées par l’alinéa 42(1)b) de cette loi.
-> 2015, ch. 4, art. 95.
+> 2015, ch. 4, art. 95
 
 
 
@@ -3760,7 +3766,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Avis**
 
 **166.4** Le ministre fédéral avise le ministre provincial et l’Office de l’établissement de la liste des agents de traitement et de toute modification de celle-ci. Il donne cet avis dans les plus brefs délais possible après la prise du règlement en cause.
-> 2015, ch. 4, art. 95.
+> 2015, ch. 4, art. 95
 
 
 
@@ -3779,7 +3785,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Non-application**
 
 - **(3)** Si les conditions prévues dans l’autorisation sont respectées, les dispositions énumérées à l’article 166.2 et aux annexes V et VI ne s’appliquent pas à l’égard de l’agent de traitement, du pétrole et du substitut de pétrole nécessaires à la réalisation du projet de recherche.
-> 2015, ch. 4, art. 95.
+> 2015, ch. 4, art. 95
 
 
 
@@ -3840,7 +3846,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prescription**
 
 - **(5)** Les poursuites en recouvrement de créances fondées sur le présent article se prescrivent par trois ans après la date des pertes, dommages ou frais et par six ans après la date des déversements, dégagements, écoulements ou rejets ou après la date où s’est manifestée la présence des débris.
-> 1988, ch. 28, art. 167; 1992, ch. 35, art. 112; 2015, ch. 4, art. 96.
+> 1988, ch. 28, art. 167; 1992, ch. 35, art. 112; 2015, ch. 4, art. 96
 
 
 
@@ -3867,7 +3873,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prolongation de l’obligation**
 
 - **(5)** En outre, il incombe au bénéficiaire de l’autorisation de faire en sorte que la preuve visée au paragraphe (1) demeure valide pour une période d’un an à compter de la date à laquelle l’Office avise le bénéficiaire qu’il a accepté le rapport, soumis par celui-ci, indiquant que le dernier puits visé par l’autorisation est abandonné. L’Office peut toutefois réduire cette période ou décider que cette preuve est qu’il dispose des ressources financières nécessaires pour payer le montant — inférieur à la limite ou à la somme visée au paragraphe (1) — que fixe l’Office.
-> 2015, ch. 4, art. 97.
+> 2015, ch. 4, art. 97
 
 
 
@@ -3912,7 +3918,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Remboursement du fonds commun**
 
 - **(5)** Le bénéficiaire de l’autorisation responsable des déversements, dégagements ou écoulements autorisés par règlement ou des rejets ou débris à l’égard desquels un paiement a été effectué en vertu du paragraphe (2) sur le fonds commun est tenu de rembourser le fonds, selon les modalités réglementaires, des sommes ainsi payées.
-> 1988, ch. 28, art. 168; 1992, ch. 35, art. 113; 2015, ch. 4, art. 98.
+> 1988, ch. 28, art. 168; 1992, ch. 35, art. 113; 2015, ch. 4, art. 98
 
 
 
@@ -3931,7 +3937,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Aucune contravention**
 
 - **(3)** La personne qui demande une autorisation visée à l’alinéa 142(1)b) et qui dépose, à titre de preuve de solvabilité, un montant approuvé par le ministre fédéral en vertu du présent article ne contrevient pas à l’alinéa 168(1)a).
-> 2015, ch. 4, art. 99.
+> 2015, ch. 4, art. 99
 
 
 
@@ -3983,7 +3989,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Diffusion**
 
 - **(5)** L’Office peut diffuser le rapport selon les modalités et aux conditions qu’il estime indiquées.
-> 1988, ch. 28, art. 170; 1992, ch. 35, art. 114.
+> 1988, ch. 28, art. 170; 1992, ch. 35, art. 114
 
 
 
@@ -4035,7 +4041,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 ***unité d’espacement*** Secteur attribué pour un puits aux fins de forage ou de production d’hydrocarbures. (*spacing unit*)
 
 ***unité d’espacement mise en commun*** Secteur assujetti à un accord ou arrêté de mise en commun. (*pooled spacing unit*)
-> 1988, ch. 28, art. 171; 1992, ch. 35, art. 115(F).
+> 1988, ch. 28, art. 171; 1992, ch. 35, art. 115(F)
 
 
 
@@ -4054,7 +4060,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Sa Majesté partie à un accord de mise en commun**
 
 - **(2)** L’Office peut, pour le compte de Sa Majesté, conclure un accord de mise en commun aux conditions qu’il estime indiquées et, par dérogation aux autres dispositions de la présente partie, à la partie II, à la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md) ou à leurs règlements d’application, l’accord lie Sa Majesté.
-> 1988, ch. 28, art. 172; 1991, ch. 50, art. 25; 2001, ch. 4, art. 153.
+> 1988, ch. 28, art. 172; 1991, ch. 50, art. 25; 2001, ch. 4, art. 153
 
 
 
@@ -4153,7 +4159,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Lien de l’exploitant unitaire avec les parties**
 
 - **(3)** Lorsqu’un accord d’union déposé en application du présent article prévoit qu’un exploitant unitaire sera le mandataire des parties en ce qui a trait aux attributions qui leur sont conférées sous le régime de la présente partie, leur exercice ou défaut d’exercice par l’exploitant unitaire est censé être leur exercice ou défaut d’exercice par les parties qui ont par ailleurs ces pouvoirs et responsabilités en vertu de la présente partie.
-> 1988, ch. 28, art. 177; 1991, ch. 50, art. 26; 2001, ch. 4, art. 154.
+> 1988, ch. 28, art. 177; 1991, ch. 50, art. 26; 2001, ch. 4, art. 154
 
 
 
@@ -4269,7 +4275,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Annulation de l’arrêté**
 
 - **(3)** Le Comité annule immédiatement l’arrêté devenu inopérant sous le régime du paragraphe (2).
-> 1988, ch. 28, art. 182; 1992, ch. 35, art. 116(A).
+> 1988, ch. 28, art. 182; 1992, ch. 35, art. 116(A)
 
 
 
@@ -4401,7 +4407,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Mesure assujettie à l’article 191**
 
 - **(4)** La mesure en cause, sauf si elle a fait l’objet d’une modification ou annulation par l’Office en conformité de l’article 191, est assujettie à cet article.
-> 1988, ch. 28, art. 192; 1999, ch. 31, art. 34.
+> 1988, ch. 28, art. 192; 1999, ch. 31, art. 34
 
 
 
@@ -4432,7 +4438,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Indemnisation**
 
 - **(5)** Tout individu désigné en vertu des paragraphes (1) ou (2) qui n’est pas un employé de l’Office est, pour l’application de l’article 17, assimilé à un membre de son personnel.
-> 1988, ch. 28, art. 193; 1992, ch. 35, art. 117; 2014, ch. 13, art. 72.
+> 1988, ch. 28, art. 193; 1992, ch. 35, art. 117; 2014, ch. 13, art. 72
 
 
 
@@ -4473,7 +4479,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Restitution des choses emportées**
 
 - **(4)** Toute chose emportée au titre des alinéas (1)h) ou (2)d) est restituée sur demande à la personne intéressée une fois que les essais, les examens ou la préparation des copies sont terminés, à moins qu’elle ne soit requise dans le cadre de poursuites engagées sous le régime de la présente partie.
-> 1988, ch. 28, art. 194; 1992, ch. 35, art. 117; 2014, ch. 13, art. 72.
+> 1988, ch. 28, art. 194; 1992, ch. 35, art. 117; 2014, ch. 13, art. 72
 
 
 
@@ -4482,7 +4488,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Rapports  — titulaire de l’autorisation**
 
 **194.1** Le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation remet au titulaire de l’autorisation des rapports écrits concernant toute chose qu’il inspecte ou ordonne à une personne d’inspecter, ou tout essai ou toute activité de surveillance qu’il effectue ou ordonne à une personne d’effectuer dans le but de vérifier le respect de la présente partie dans un lieu affecté aux activités visées dans l’autorisation.
-> 2014, ch. 13, art. 72.
+> 2014, ch. 13, art. 72
 
 
 
@@ -4530,7 +4536,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Définition de local d’habitation**
 
 - **(8)** Pour l’application du présent article, ***local d’habitation*** s’entend de toute cabine sur un ouvrage en mer, au sens du paragraphe 210.001(1), fournie afin de pourvoir à l’hébergement des employés, au sens du paragraphe 210.001(1), et de toute pièce qui est dotée de toilettes ou d’un urinoir et qui sert à l’usage exclusif des occupants de cette cabine.
-> 2014, ch. 13, art. 72.
+> 2014, ch. 13, art. 72
 
 
 
@@ -4539,7 +4545,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Certificat**
 
 **195** L’Office remet à chaque agent ou délégué un certificat attestant sa qualité, que celui-ci présente sur demande au responsable des lieux visités.
-> 1988, ch. 28, art. 195; 1992, ch. 35, art. 117; 2014, ch. 13, art. 73(A).
+> 1988, ch. 28, art. 195; 1992, ch. 35, art. 117; 2014, ch. 13, art. 73(A)
 
 
 
@@ -4556,7 +4562,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **(2)** Si le lieu visé au paragraphe 194(2) est un ouvrage en mer au sens du paragraphe 210.001(1), la personne qui en est responsable fournit au délégué ou à l’agent, ainsi qu’à tout individu qui les accompagne, sans frais et dans des conditions convenables :
 	- **a)** s’agissant d’ouvrages en mer dans la zone extracôtière, le transport entre le lieu habituel d’embarquement à terre et l’ouvrage en mer, entre l’ouvrage en mer et le lieu habituel de débarquement à terre ou entre des ouvrages en mer;
 	- **b)** les repas et l’hébergement sur ces ouvrages en mer.
-> 1988, ch. 28, art. 196; 1992, ch. 35, art. 117; 2014, ch. 13, art. 74.
+> 1988, ch. 28, art. 196; 1992, ch. 35, art. 117; 2014, ch. 13, art. 74
 
 
 
@@ -4565,7 +4571,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Entrave et fausses déclarations**
 
 **197** Il est interdit d’entraver l’action du délégué à la sécurité, du délégué à l’exploitation ou de l’agent dans l’exercice de ses fonctions ou dans l’accomplissement de ses obligations, ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
-> 1988, ch. 28, art. 197; 1992, ch. 35, art. 117; 2014, ch. 13, art. 74.
+> 1988, ch. 28, art. 197; 1992, ch. 35, art. 117; 2014, ch. 13, art. 74
 
 
 
@@ -4613,7 +4619,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Télémandats**
 
 - **(8)** Le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut demander que le mandat prévu au présent article lui soit délivré par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique alors avec les adaptations nécessaires.
-> 2014, ch. 13, art. 74.
+> 2014, ch. 13, art. 74
 
 
 
@@ -4628,7 +4634,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Objets périssables**
 
 - **(2)** Si la chose saisie est périssable, le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut, à son appréciation, en disposer, notamment par destruction. La disposition s’opère au profit du receveur général.
-> 2014, ch. 13, art. 74.
+> 2014, ch. 13, art. 74
 
 
 
@@ -4671,7 +4677,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Interdiction**
 
 - **(9)** II est interdit de poursuivre une activité visée par un ordre, sauf conformément à celui-ci ou tant qu’il n’a pas été infirmé par le tribunal.
-> 1988, ch. 28, art. 198; 1992, ch. 35, art. 117; 1999, ch. 31, art. 35; 2014, ch. 13, art. 75(A).
+> 1988, ch. 28, art. 198; 1992, ch. 35, art. 117; 1999, ch. 31, art. 35; 2014, ch. 13, art. 75(A)
 
 
 
@@ -4680,7 +4686,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Préséance**
 
 **198.1** Les ordres de l’agent de la sécurité ou du délégué à la sécurité l’emportent, dans la mesure de leur incompatibilité, sur les ordres de l’agent du contrôle de l’exploitation ou du délégué à l’exploitation.
-> 1992, ch. 35, art. 117; 2014, ch. 13, art. 76(A).
+> 1992, ch. 35, art. 117; 2014, ch. 13, art. 76(A)
 
 
 
@@ -4706,7 +4712,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Urgence**
 
 - **(3)** Dans les cas d’urgence visés par règlement, les pouvoirs du chargé de projet s’étendent aux responsables des bâtiments, véhicules et aéronefs compris, qui ont accès aux installations ou qui se trouvent à proximité de celles-ci.
-> 1992, ch. 35, art. 117; 2014, ch. 13, art. 77.
+> 1992, ch. 35, art. 117; 2014, ch. 13, art. 77
 
 
 
@@ -4775,7 +4781,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Absence de présomption de gaspillage**
 
 - **(5)** La personne qui fait du gaspillage au sens des alinéas 159(2) f) ou g) n’est censée commettre une infraction au paragraphe 159(1) que si le Comité lui a ordonné de prendre des mesures en vue de prévenir le gaspillage et qu’elle ne l’a pas fait.
-> 1988, ch. 28, art. 199; 1992, ch. 35, art. 118; 2014, ch. 13, art. 78; 2015, ch. 4, art. 100 et 117.
+> 1988, ch. 28, art. 199; 1992, ch. 35, art. 118; 2014, ch. 13, art. 78; 2015, ch. 4, art. 100 et 117
 
 
 
@@ -4790,7 +4796,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Infractions commises par les employés et mandataires**
 
 - **(2)** Dans toute poursuite visant une infraction à la présente partie, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un employé ou un mandataire de l’accusé, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
-> 1988, ch. 28, art. 200; 1992, ch. 35, art. 119; 2014, ch. 13, art. 79.
+> 1988, ch. 28, art. 200; 1992, ch. 35, art. 119; 2014, ch. 13, art. 79
 
 
 
@@ -4799,7 +4805,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Exclusion de l’emprisonnement**
 
 **200.1** La peine d’emprisonnement est exclue en cas de défaut de paiement de l’amende infligée pour une infraction à la présente partie sur déclaration de culpabilité par procédure sommaire.
-> 2014, ch. 13, art. 79.
+> 2014, ch. 13, art. 79
 
 
 
@@ -4855,7 +4861,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Créances de l’Office**
 
 - **(4)** Les frais visés au paragraphe (3) constituent des créances de l’Office dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
-> 1988, ch. 28, art. 201; 2015, ch. 4, art. 101 et 117.
+> 1988, ch. 28, art. 201; 2015, ch. 4, art. 101 et 117
 
 
 
@@ -4872,7 +4878,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Préavis**
 
 - **(2)** Avant de rendre une ordonnance en vertu du paragraphe (1), le tribunal peut en faire donner préavis aux personnes qu’il juge intéressées; il peut aussi les entendre.
-> 2015, ch. 4, art. 101.
+> 2015, ch. 4, art. 101
 
 
 
@@ -4881,7 +4887,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Restriction**
 
 **201.2** Après audition de la demande visée au paragraphe 201.1(1), toute nouvelle demande au titre de l’article 201.1 est subordonnée à l’autorisation du tribunal.
-> 2015, ch. 4, art. 101.
+> 2015, ch. 4, art. 101
 
 
 
@@ -4890,7 +4896,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Recouvrement des amendes et autres sommes**
 
 **201.3** En cas de défaut de paiement de l’amende infligée pour une infraction prévue à la présente partie ou d’une somme dont le paiement est ordonné en vertu des paragraphes 201(1) ou 201.1(1), le poursuivant peut, par dépôt de la déclaration de culpabilité ou de l’ordonnance auprès de la Cour suprême de la Nouvelle-Écosse, faire tenir pour jugement de cette cour le montant de l’amende ou la somme à payer, y compris les frais éventuels; le jugement est exécutoire contre l’intéressé comme s’il s’agissait d’un jugement rendu contre lui par cette cour en matière civile.
-> 2015, ch. 4, art. 101.
+> 2015, ch. 4, art. 101
 
 
 
@@ -4910,7 +4916,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prescription  — procédure sommaire**
 
 **204** Sauf entente contraire entre le poursuivant et le défendeur, les poursuites par procédure sommaire visant une infraction à la présente partie se prescrivent par trois ans à compter de la date du fait en cause.
-> 1988, ch. 28, art. 204; 2014, ch. 13, art. 80.
+> 1988, ch. 28, art. 204; 2014, ch. 13, art. 80
 
 
 
@@ -4919,7 +4925,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Preuve**
 
 **205** Dans les poursuites pour infraction à la présente partie et en l’absence de preuve contraire, une copie de tout arrêté ou autre document respectivement pris ou établi en vertu de la présente partie ou de ses règlements et signée par la personne autorisée en vertu de la présente partie ou de ses règlements à le prendre ou à l’établir fait foi, sauf preuve contraire, de son contenu.
-> 1988, ch. 28, art. 205; 2014, ch. 13, art. 81(F).
+> 1988, ch. 28, art. 205; 2014, ch. 13, art. 81(F)
 
 
 
@@ -4948,7 +4954,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Dénonciation**
 
 **207.001** Toute dénonciation faite sous le régime de la présente partie peut viser plusieurs infractions commises par la même personne, ces infractions pouvant être instruites concurremment et faire l’objet d’une condamnation soit globalement, soit pour l’une ou plusieurs d’entre elles.
-> 2014, ch. 13, art. 82; 2015, ch. 4, art. 117.
+> 2014, ch. 13, art. 82; 2015, ch. 4, art. 117
 
 
 
@@ -4979,7 +4985,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Plafond — montant de la pénalité**
 
 - **(2)** Le montant de la pénalité déterminé en application d’un règlement pris en vertu de l’alinéa (1)b) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à vingt-cinq mille dollars et, dans le cas des autres personnes, à cent mille dollars.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -4992,7 +4998,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **b)** désigner — individuellement ou par catégorie — les agents verbalisateurs;
 - **c)** établir le sommaire caractérisant chaque violation dans les procès-verbaux;
 - **d)** désigner des personnes — individuellement ou par catégorie — pour effectuer les révisions prévues à l’article 207.4.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5011,7 +5017,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **But de la pénalité**
 
 - **(2)** L’imposition de la pénalité ne vise pas à punir, mais plutôt à favoriser le respect de la présente partie.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5020,7 +5026,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Participants à la violation : dirigeants, administrateurs et mandataires**
 
 **207.04** Si une personne morale commet une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation et s’exposent à une pénalité dont le montant est déterminé conformément aux règlements, que la personne morale fasse ou non l’objet d’une procédure en violation engagée au titre de la présente partie.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5029,7 +5035,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Preuve**
 
 **207.05** Dans les procédures en violation engagées au titre de la présente partie, il suffit, pour prouver la violation, d’établir qu’elle a été commise par un employé ou un mandataire de l’auteur de la violation, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5050,7 +5056,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 	- **d)** le droit qu’a le prétendu auteur de la violation, en vertu de l’article 207.2, de demander la révision des faits concernant la violation ou du montant de la pénalité, ainsi que le délai réglementaire pour ce faire;
 	- **e)** les modalités de paiement de la pénalité;
 	- **f)** le fait que le prétendu auteur de la violation, s’il ne fait pas de demande de révision ou s’il ne paie pas la pénalité, est réputé avoir commis la violation et est tenu au paiement de cette pénalité.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5069,7 +5075,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Principes de common law**
 
 - **(2)** Les règles et principes de common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente partie s’appliquent à l’égard d’une violation dans la mesure de leur compatibilité avec la présente partie.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5078,7 +5084,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Violation continue**
 
 **207.08** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5093,7 +5099,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Précision**
 
 - **(2)** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5102,7 +5108,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prescription**
 
 **207.1** Le délai dans lequel le procès-verbal peut être dressé est de deux ans à compter de la violation.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5115,7 +5121,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Droit de faire une demande de révision**
 
 **207.2** Le prétendu auteur de la violation peut, dans les trente jours suivant la signification d’un procès-verbal ou dans le délai supérieur que l’Office peut accorder, saisir l’Office d’une demande de révision du montant de la pénalité ou des faits pertinents concernant la violation, ou des deux.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5124,7 +5130,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Annulation ou correction du procès-verbal**
 
 **207.3** Tant que l’Office n’est pas saisi d’une demande de révision du procès-verbal, tout agent verbalisateur peut soit l’annuler, soit corriger toute erreur qu’il contient.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5139,7 +5145,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Restriction**
 
 - **(2)** L’Office effectue la révision si le procès-verbal a été dressé par une personne désignée en vertu de l’alinéa 207.02d).
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5166,7 +5172,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Décision définitive**
 
 - **(5)** La décision est définitive et exécutoire et, sous réserve de contrôle judiciaire par la Cour suprême de la Nouvelle-Écosse, n’est pas susceptible d’appel ou de révision en justice.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5175,7 +5181,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Fardeau de la preuve**
 
 **207.6** En cas de révision portant sur les faits, il incombe à l’agent verbalisateur d’établir, selon la prépondérance des probabilités, que le demandeur a commis la violation mentionnée dans le procès-verbal.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5188,7 +5194,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Paiement**
 
 **207.7** Vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure le paiement de la pénalité mentionnée au procès-verbal.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5197,7 +5203,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Défaut**
 
 **207.8** Vaut aveu de responsabilité, en cas de non-paiement de la pénalité imposée en vertu de la présente partie, le fait de ne pas demander de révision dans le délai visé à l’article 207.2. Le cas échéant, l’auteur de la violation est tenu de payer la pénalité.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5216,7 +5222,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prescription**
 
 - **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5231,7 +5237,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Enregistrement**
 
 - **(2)** L’enregistrement à la Cour suprême de la Nouvelle-Écosse confère au certificat de non-paiement valeur de jugement pour la somme visée et les frais afférents à l’enregistrement.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5244,7 +5250,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Admissibilité de documents**
 
 **207.92** Dans les procédures pour violation, le document qui paraît être un procès-verbal signifié en application du paragraphe 207.06(1) fait foi, sauf preuve contraire, de son authenticité et de son contenu.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5253,7 +5259,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Publication**
 
 **207.93** L’Office peut procéder à la publication de la nature de la violation, du nom de son auteur et du montant de la pénalité.
-> 2015, ch. 4, art. 102.
+> 2015, ch. 4, art. 102
 
 
 
@@ -5277,7 +5283,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Portée**
 
 **209** La présente partie s’applique aux titres, droits ou intérêts pétroliers ou gaziers acquis ou octroyés avant l’entrée en vigueur du présent article et lie Sa Majesté du chef du Canada ou d’une province.
-> 1988, ch. 28, art. 209; 2014, ch. 13, art. 83(F).
+> 1988, ch. 28, art. 209; 2014, ch. 13, art. 83(F)
 
 
 
@@ -5400,7 +5406,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Assimilation**
 
 - **(5)** Pour l’application des articles 210.005, 210.007 et 210.008, l’employé se trouvant dans un véhicule de transport à destination ou en provenance d’un lieu de travail dans la zone extracôtière est réputé se trouver dans un tel lieu immédiatement avant et pendant son transport entre le dernier lieu d’embarquement à terre et le lieu de travail, entre le lieu de travail et le premier lieu de débarquement à terre et entre de tels lieux de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5413,7 +5419,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Obligation**
 
 **210.002** La présente partie lie Sa Majesté du chef du Canada ou d’une province.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5432,7 +5438,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Employés et autres passagers pendant leur transport**
 
 - **(2)** Elle s’applique également aux employés et aux autres passagers se trouvant dans un véhicule de transport à destination ou en provenance d’un lieu de travail dans la zone extracôtière, immédiatement avant et pendant leur transport entre le dernier lieu d’embarquement à terre et le lieu de travail, entre le lieu de travail et le premier lieu de débarquement à terre et entre de tels lieux de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5441,7 +5447,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Exclusion des parties II et III du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)**
 
 **210.004** Par dérogation aux paragraphes 123(1) et 168(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) et à toute autre loi fédérale, les parties II et III de ce code ne s’appliquent pas relativement à un lieu de travail se trouvant dans la zone extracôtière pour la recherche, notamment par forage, la production, la rationalisation de l’exploitation et la transformation d’hydrocarbures dans cette zone.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5450,7 +5456,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Exclusion de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md)**
 
 **210.005** La [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) ne s’applique pas relativement à un lieu de travail se trouvant dans la zone extracôtière pour la recherche, notamment par forage, la production, la rationalisation de l’exploitation et la transformation d’hydrocarbures dans cette zone.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5459,7 +5465,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Exclusion de la [Loi sur la santé des non-fumeurs](/fr/Lois/Lois%20du%20Canada/1985/ch.%2015%20(4e%20suppl.).md)**
 
 **210.006** La [Loi sur la santé des non-fumeurs](/fr/Lois/Lois%20du%20Canada/1985/ch.%2015%20(4e%20suppl.).md) ne s’applique pas relativement à un lieu de travail se trouvant dans la zone extracôtière pour la recherche, notamment par forage, la production, la rationalisation de l’exploitation et la transformation d’hydrocarbures dans cette zone.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5474,14 +5480,14 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Incompatibilité**
 
 - **(2)** Les dispositions de la présente loi et de ses règlements l’emportent sur les dispositions incompatibles des lois sociales et de leurs règlements.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
 
 
 **
-> Application de la loi intitulée Trade Union Act, R.S.N.S. 1989, ch. 475.
+> Application de la loi intitulée Trade Union Act, R.S.N.S. 1989, ch. 475
 **
 
 **210.008** 
@@ -5494,7 +5500,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Application de la partie I du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)**
 
 - **(2)** La partie I du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’applique relativement aux ouvrages en mer se trouvant dans la zone extracôtière pour la recherche, notamment par forage, la production, la rationalisation de l’exploitation et la transformation d’hydrocarbures dans cette zone, lorsqu’ils ne sont pas régis par le paragraphe (1).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5515,7 +5521,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prévention**
 
 - **(2)** La prévention devrait avant tout avoir pour objet l’élimination des risques, puis leur réduction, et enfin la prise de mesures de protection, en vue d’assurer la santé et la sécurité des employés.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5536,7 +5542,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Précision**
 
 - **(2)** Il est entendu qu’une obligation particulière imposée par la présente partie n’a pas pour effet de restreindre la portée générale des autres obligations qui y sont prévues.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5559,7 +5565,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Révision de la politique**
 
 - **(3)** L’exploitant révise la politique au moins tous les trois ans, en consultation avec tout comité du lieu de travail qu’il constitue et avec chaque employeur dans ses lieux de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5568,7 +5574,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prise des mesures indiquées**
 
 **210.012** L’exploitant prend les mesures indiquées pour assurer la santé et la sécurité des employés et autres individus se trouvant dans ses lieux de travail et celles des employés ou autres passagers se trouvant dans un véhicule de transport, immédiatement avant et pendant leur transport à destination ou en provenance de ces lieux.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5596,7 +5602,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **q)** d’effectuer, ou de faire effectuer en son nom, au moins une fois par mois, une inspection de tout ou partie du lieu de travail, au sens des alinéas a) et b) de la définition de ***lieu de travail*** au paragraphe 210.001(1) de façon que le lieu de travail soit inspecté au complet au moins une fois par année, et d’assurer la participation du comité du lieu de travail à ces inspections;
 - **r)** de veiller à ce que chaque inspection mentionnée à l’alinéa q) et toute mesure corrective en découlant soient consignées dans un dossier;
 - **s)** de collaborer avec l’Office et avec les personnes lorsqu’elles s’acquittent de leurs obligations et fonctions sous le régime de la présente partie.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5621,7 +5627,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **(3)** L’exploitant veille à ce que soient fournis aux employés et autres passagers se trouvant dans un véhicule de transport à destination ou en provenance d’un de ses lieux de travail :
 	- **a)** l’équipement de protection personnelle nécessaire à leur santé et à leur sécurité, notamment celui prévu par règlement;
 	- **b)** les renseignements et la formation nécessaires, notamment ceux prévus par règlement, pour leur permettre d’utiliser adéquatement l’équipement de protection personnelle visé à l’alinéa a) et le matériel, les équipements et les dispositifs visés à l’alinéa (2)b).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5655,7 +5661,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Réglementation**
 
 - **(4)** Le système doit être conforme à toute condition éventuellement établie par règlement à l’égard des éléments mentionnés à l’un des alinéas 2a) à h).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5670,7 +5676,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Révision du code de pratique**
 
 - **(2)** Le délégué à la sécurité peut réviser le code de pratique adopté ou préparé en application du paragraphe (1), ou en exiger la révision par l’exploitant.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5702,7 +5708,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 	- **a)** entraînent chez un individu la perte d’un membre ou d’une partie d’un membre, ou la perte totale de l’usage d’un membre ou d’une partie d’un membre;
 	- **b)** entraînent chez un individu une altération permanente d’une fonction de l’organisme;
 	- **c)** empêchent un employé de se présenter au travail ou de s’acquitter efficacement de toutes les fonctions liées à son travail habituel le ou les jours suivant celui où il a subi les blessures, qu’il s’agisse ou non de jours ouvrables pour lui.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5718,7 +5724,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **a)** la santé et la sécurité de ses employés et autres individus se trouvant dans un lieu de travail placé sous sa responsabilité;
 - **b)** la santé et la sécurité de ses employés se trouvant dans un lieu de travail ne relevant pas de sa responsabilité, dans la mesure où leurs tâches, elles, en relèvent;
 - **c)** la santé et la sécurité de ses employés, immédiatement avant et pendant leur transport, dans un véhicule de transport.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5750,7 +5756,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Formation**
 
 - **(2)** L’employé qui, avec l’approbation de son employeur, reçoit la formation exigée en vertu de la présente partie, reçoit le salaire et les avantages auxquels il aurait eu droit s’il avait travaillé.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5783,7 +5789,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Réglementation**
 
 - **(3)** Le programme doit être conforme à toute condition éventuellement établie par règlement à l’égard des éléments mentionnés à l’un des alinéas (2)a) à i).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5798,7 +5804,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Révision du code de pratique**
 
 - **(2)** Le délégué à la sécurité peut réviser le code de pratique adopté ou préparé en application du paragraphe (1), ou en exiger la révision par l’employeur.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5819,7 +5825,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 	- **(v)** les autres renseignements réglementaires concernant le produit contrôlé;
 - **f)** dans les cas où les employés se trouvant dans le lieu de travail peuvent être exposés à des substances dangereuses, d’enquêter sur cette exposition potentielle et d’apprécier celle-ci selon les modalités réglementaires et avec l’assistance du comité du lieu de travail ou du coordonnateur, selon le cas;
 - **g)** de veiller à la tenue, en conformité avec les règlements, de dossiers sur l’exposition des employés à des substances dangereuses et de faire en sorte que chacun d’eux puisse avoir accès aux renseignements le concernant à cet égard.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5834,7 +5840,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Protection des renseignements**
 
 - **(2)** Le médecin ou autre professionnel de la santé visé au paragraphe (1) est tenu de traiter comme confidentiels ceux de ces renseignements que l’employeur désigne comme tels, sauf en ce qui concerne les fins auxquelles ils sont communiqués.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5847,7 +5853,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Superviseur  — prise des mesures indiquées**
 
 **210.024** Le superviseur prend les mesures indiquées pour assurer la santé et la sécurité des employés et des autres individus qu’il supervise dans le lieu de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5860,7 +5866,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **b)** de porter à l’attention de chacun de ses employés et de son employeur les risques connus ou prévisibles relativement à la santé ou à la sécurité;
 - **c)** si son employeur ou l’exploitant le requiert, de fournir à ses employés des instructions écrites précisant les mesures et les procédures à prendre pour leur protection;
 - **d)** de signaler à son employeur tout acte contraire aux dispositions de la présente partie ou de ses règlements, ou tout manquement aux conditions relatives à la santé et à la sécurité au travail dont est assortie toute autorisation délivrée à l’exploitant à l’égard du lieu de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5873,7 +5879,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prise des mesures indiquées**
 
 **210.026** L’employé se trouvant dans un lieu de travail ou un véhicule de transport prend les mesures indiquées pour protéger sa santé et sa sécurité et celles des autres individus se trouvant dans le lieu de travail ou le véhicule de transport.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5889,7 +5895,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **e)** de collaborer avec l’Office et les personnes lorsqu’elles s’acquittent de leurs obligations et fonctions en vertu de la présente partie;
 - **f)** de suivre les instructions données par l’employeur en vue d’assurer la santé et la sécurité au travail;
 - **g)** de signaler à l’employeur toute chose ou toute situation dans un lieu de travail qui pourrait vraisemblablement présenter un risque pour sa santé ou sa sécurité ou pour celles des autres individus se trouvant dans le lieu de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5900,7 +5906,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **210.028** L’employé est tenu :
 - **a)** immédiatement avant et pendant son transport dans un véhicule de transport, de collaborer avec l’individu qui lui fournit des renseignements et des instructions au nom de l’exploitant, avec son employeur et avec tout individu qui conduit ou aide à conduire le véhicule de transport, afin de protéger la santé et la sécurité des individus se trouvant dans le véhicule de transport;
 - **b)** d’utiliser ou de porter, comme il se doit, pendant son transport dans le véhicule de transport, l’équipement de protection personnelle prévu par règlement ou dont l’utilisation ou le port est exigé par l’exploitant ou par tout individu qui conduit ou aide à conduire le véhicule de transport.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5909,7 +5915,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Immunité  — employé**
 
 **210.029** L’employé qui, dans le lieu de travail ou immédiatement avant ou pendant son transport dans un véhicule de transport, porte secours à autrui ou exécute des mesures d’urgence est dégagé de toute responsabilité personnelle pour le préjudice qui peut en résulter, à moins que ce préjudice ne soit dû à sa négligence grave ou à son inconduite délibérée.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5922,7 +5928,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Fournisseur de biens — prise des mesures indiquées**
 
 **210.03** Le fournisseur de biens prend les mesures indiquées pour assurer la sûreté de toute chose qu’il fournit pour usage dans le lieu de travail ou un véhicule de transport, afin de protéger la santé et la sécurité des individus se trouvant dans le lieu de travail ou le véhicule de transport.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5933,7 +5939,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **210.031** Le fournisseur de biens est tenu :
 - **a)** de veiller à ce que toute chose qu’il fournit pour usage dans un lieu de travail ou un véhicule de transport respecte les règlements pris en vertu de la présente partie;
 - **b)** dans le cas où la responsabilité lui incombe en vertu d’un accord, de satisfaire à l’obligation d’assurer la sûreté de toute chose qu’il fournit.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5942,7 +5948,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Fournisseur de services — prise des mesures indiquées**
 
 **210.032** Le fournisseur de services prend les mesures indiquées pour qu’aucun individu se trouvant dans un lieu de travail n’encoure de danger en raison de la fourniture par lui de services liés à ce lieu de travail ou à ce véhicule de transport.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5954,7 +5960,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **a)** de veiller, dans les cas où les services fournis à l’égard d’un lieu de travail sont liés au placement, auprès d’un exploitant ou d’un employeur, d’individus qui, contre rémunération, effectuent du travail pour l’exploitant ou l’employeur ou lui fournissent des services dans le lieu de travail, à ce que ces individus possèdent les compétences et certifications requises, notamment celles prévues par règlement, pour effectuer le travail ou fournir les services de façon à protéger la santé et la sécurité des employés et autres individus se trouvant dans le lieu de travail;
 - **b)** de veiller à ce que les renseignements fournis dans le cadre de ses services soient exacts et suffisants pour permettre à l’exploitant ou à l’employeur, selon le cas, d’exercer un jugement éclairé sur la foi de ceux-ci;
 - **c)** de veiller, dans la mesure du possible, à ce qu’aucun exploitant, employeur, employé, fournisseur de biens, propriétaire ou autre fournisseur de services ne se retrouve, du fait d’avoir accordé foi aux conseils, certificats, sceaux ou timbres fournis par lui, en situation de violation, soit des dispositions de la présente partie ou de ses règlements ou des conditions de l’autorisation en matière de santé et de sécurité au travail, soit des obligations découlant de la déclaration liée à l’autorisation.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5969,7 +5975,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **210.034** Le propriétaire prend les mesures indiquées pour que tout lieu de travail dont il est propriétaire soit livré et entretenu de façon à assurer la santé et la sécurité des individus s’y trouvant, notamment pour porter à l’attention de l’exploitant tout risque connu ou prévisible pour la santé et la sécurité, de manière à aider ce dernier :
 - **a)** à réduire les risques dans le lieu de travail;
 - **b)** à évaluer le respect des dispositions de la présente partie et de ses règlements, des conditions relatives à la santé et à la sécurité au travail dont est assortie toute autorisation qui lui a été délivrée à l’égard du lieu de travail et des obligations relatives à la santé et à la sécurité au travail découlant d’une déclaration liée à l’autorisation.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -5980,7 +5986,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **210.035** L’indivisaire prend les mesures indiquées pour que l’exploitant du lieu de travail, dans toute partie de la zone extracôtière visée par le titre que l’indivisaire possède ou par une fraction indivise de ce titre, se conforme :
 - **a)** aux dispositions de la présente partie et de ses règlements;
 - **b)** aux conditions relatives à la santé et à la sécurité au travail dont est assortie toute autorisation délivrée à l’exploitant à l’égard du lieu de travail et aux obligations relatives à la santé et à la sécurité au travail découlant de la déclaration liée à l’autorisation.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6001,7 +6007,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Administrateurs et dirigeants d’une personne morale titulaire — prise des mesures indiquées**
 
 - **(3)** Lorsqu’il incombe à une personne morale de prendre les mesures prévues à l’article 210.035, chacun de ses administrateurs et dirigeants doit veiller à ce qu’elle se conforme à cet article.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6041,7 +6047,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Acquittement de l’obligation d’afficher**
 
 - **(5)** L’exploitant s’acquitte de l’obligation prévue au paragraphe (1) pour un lieu de travail s’il transmet une copie des renseignements ou documents à chaque employé dans ce lieu de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6066,7 +6072,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Acquittement de l’obligation d’afficher**
 
 - **(4)** L’employeur s’acquitte de l’obligation prévue au paragraphe (1) pour un lieu de travail s’il transmet une copie des documents ou renseignements à chaque employé dans ce lieu de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6081,7 +6087,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Obligation de communiquer des renseignements  — employeur**
 
 - **(2)** L’employeur communique à ses employés dans le lieu de travail les renseignements dont le délégué à la sécurité exige la communication, dans le délai et selon les modalités précisés par ce dernier.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6096,7 +6102,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Rapports à la disposition des employés**
 
 - **(2)** L’exploitant ou l’employeur, selon le cas, met tout rapport transmis à un comité constitué pour un lieu de travail à la disposition de ceux des employés de ce lieu de travail qui en font la demande.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6115,7 +6121,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Version révisée**
 
 - **(3)** La version révisée du rapport est transmise au comité dans un délai de vingt et un jours suivant la date de réception de la demande du comité.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6138,7 +6144,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Dispositions applicables**
 
 - **(4)** Les paragraphes 210.047(3) à (8) s’appliquent à la demande, avec les adaptations nécessaires.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6183,7 +6189,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Immunité  — membre d’un comité**
 
 - **(6)** L’individu qui agit à titre de membre d’un comité du lieu de travail n’encourt aucune responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi dans le cadre de ses obligations ou fonctions.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6218,7 +6224,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Situation d’impasse**
 
 - **(7)** En cas de désaccord sur la taille ou la composition du comité du lieu de travail ou sur toute autre question qui empêche ou entrave son bon fonctionnement, le délégué à la sécurité tranche la question et en avise les intéressés par écrit. Sa décision est définitive et exécutoire et n’est pas susceptible de révision ou d’appel.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6260,7 +6266,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Congés**
 
 - **(7)** L’employé qui agit à titre de coordonnateur a droit aux congés nécessaires pour lui permettre de s’acquitter de ses obligations et fonctions à titre de coordonnateur, notamment des congés de formation. Les congés sont considérés être du temps de travail pour lequel l’employé doit recevoir le salaire et les avantages auxquels il aurait eu droit s’il avait travaillé.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6287,7 +6293,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Dispositions applicables**
 
 - **(5)** Les alinéas 210.043(5)b) et d) et les paragraphes 210.043(6) et 210.044(1) à (7) s’appliquent, avec les adaptations nécessaires, au comité spécial.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6326,7 +6332,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Rapport relatif à la réponse**
 
 - **(8)** Si le comité n’a reçu aucune réponse à ses recommandations dans le délai prévu ou s’il est d’avis que la réponse n’est pas satisfaisante, il le signale à un agent de santé et de sécurité au travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6367,7 +6373,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Rémunération**
 
 - **(6)** L’employé qui agit à titre d’observateur reçoit le salaire et les avantages auxquels il aurait eu droit s’il avait travaillé.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6394,7 +6400,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Avis à l’agent de santé et de sécurité**
 
 - **(4)** Si, après l’avis donné en application du paragraphe (3), les préoccupations de l’employé n’ont pas été résolues, celui-ci peut en aviser l’agent de santé et de sécurité.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6445,7 +6451,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Aucun droit de refus**
 
 - **(10)** Si l’agent de santé et de sécurité au travail conclut que l’accomplissement de la tâche dans le lieu de travail ne constitue pas un danger pour l’employé ou pour un autre individu ou que le refus met directement en danger la vie, la santé ou la sécurité d’un autre individu, l’employé ne peut se prévaloir du présent article pour maintenir son refus.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6460,7 +6466,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Rémunération**
 
 - **(2)** L’employé qui accompagne l’agent de santé et de sécurité au travail reçoit le même salaire et les mêmes avantages auxquels il aurait eu droit s’il n’avait pas exercé son droit de refus.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6491,7 +6497,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Remboursement**
 
 - **(6)** Sous réserve de toute convention collective ou de tout autre accord applicable, l’employé qui a touché son salaire et les avantages qui y sont rattachés dans les circonstances visées au paragraphe (3) peut, après épuisement de tous les recours s’offrant à lui, être tenu de les rembourser à son employeur ou au fournisseur de services liés à son placement, selon le cas, si le Conseil des relations de travail conclut, à l’égard d’une demande présentée en vertu de l’article 210.064, qu’il savait que les circonstances ne justifiaient pas le refus.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6506,7 +6512,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Affectation à d’autres tâches**
 
 - **(2)** Sous réserve de toute convention collective ou de tout autre accord applicable, l’employeur peut affecter l’employé touché par un arrêt de travail à d’autres tâches relativement équivalentes et le salaire et les avantages auxquels il aurait droit sont versés et accordés comme si l’arrêt de travail n’avait pas eu lieu.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6553,7 +6559,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Aucun droit de refus**
 
 - **(10)** Si l’agent de santé et de sécurité au travail conclut que le transport ne constitue pas un danger pour l’employé, celui-ci ne peut maintenir son refus.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6580,7 +6586,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Remboursement**
 
 - **(5)** Sous réserve de toute convention collective ou de tout autre accord applicable, l’employé qui a touché son salaire et les avantages qui y sont rattachés dans les circonstances visées au paragraphe (3) peut, après épuisement de tous les recours s’offrant à lui, être tenu de les rembourser à son employeur ou au fournisseur de services liés à son placement, selon le cas, si le Conseil des relations de travail conclut, à l’égard d’une demande présentée en vertu de l’article 210.064, qu’il savait que les circonstances ne justifiaient pas le refus.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6617,7 +6623,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Statut de l’employée**
 
 - **(6)** Pendant cette période, qu’elle ait ou non été réaffectée à un autre poste, l’employée est réputée continuer à occuper son poste d’attache et à en exercer les fonctions, et elle continue de recevoir le salaire et les avantages qui y sont rattachés.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6632,7 +6638,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Certificat médical**
 
 - **(2)** La demande doit être accompagnée du certificat médical visé à l’alinéa 210.056(3)a).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6663,7 +6669,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Droit de congé**
 
 - **(6)** L’employée qui est informée qu’une modification de ses tâches ou qu’une réaffectation sont difficilement réalisables a droit à un congé pendant la période mentionnée au certificat médical qu’elle avait présenté avec sa demande.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6704,7 +6710,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Motifs**
 
 - **(5)** Dans les quinze jours suivant la réception d’une demande de l’employé à cet effet, l’exploitant, l’employeur, le fournisseur de services ou le syndicat fournit à celui-ci les motifs écrits justifiant toute mesure prise à son égard en vertu du paragraphe (4).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6733,7 +6739,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Exercice du droit**
 
 - **(5)** S’il exerce son droit dans le délai indiqué dans la convention, l’employé ne peut s’autoriser du paragraphe (1) pour déposer une plainte à l’égard des mêmes faits, à moins qu’il ne soit établi que l’arbitre n’a pas compétence pour entendre le grief, auquel cas il peut le faire dans les quatre-vingt-dix jours qui suivent la décision définitive à cet égard.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6748,7 +6754,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Initiative**
 
 - **(2)** Il peut aussi, de sa propre initiative, s’enquérir d’une affaire si, à son avis et d’après des renseignements qu’il estime fiables, il existe des motifs justifiant le dépôt d’une plainte en vertu de l’article 210.06.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6757,7 +6763,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Avis de la décision**
 
 **210.062** S’il conclut, après s’être enquis de la plainte, qu’elle est non fondée ou non motivée, l’agent de santé et de sécurité au travail en avise sans délai le plaignant et l’exploitant, ainsi que l’employeur, le fournisseur de services ou le syndicat qui en fait l’objet.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6785,7 +6791,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Précision des dispositions applicables**
 
 - **(4)** Tout ordre donné en vertu du présent article doit préciser les dispositions de la présente partie ou de ses règlements faisant l’objet de la contravention ou la nature des représailles ou menaces de représailles.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6806,7 +6812,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Charge de la preuve  — représailles**
 
 - **(3)** Il incombe à l’employeur ou au fournisseur de services, selon le cas, de prouver que les circonstances ne justifiaient pas l’exercice par l’employé de son droit de refus.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6815,7 +6821,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Avis de la décision**
 
 **210.065** S’il rejette la demande présentée en vertu du paragraphe 210.064(1), l’agent de santé et de sécurité au travail en avise sans délai le délégué à la sécurité, le demandeur et l’exploitant ainsi que l’employé visé par la demande.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6824,7 +6830,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Avis de la décision**
 
 **210.066** S’il conclut que l’employé a touché son salaire et les avantages qui y sont rattachés au titre des paragraphes 210.052(3) ou 210.055(3) alors que celui-ci savait que les circonstances ne justifiaient pas l’exercice de son droit de refus prévu aux articles 210.05 ou 210.054, selon le cas, l’agent de santé et de sécurité au travail en avise sans délai le délégué à la sécurité, le demandeur et l’exploitant ainsi que l’employé visé par la demande.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6853,7 +6859,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Collaboration des ministères et organismes**
 
 - **(3)** L’Office peut exercer les activités prévues aux alinéas (1)a), e) et f) de concert avec un ministère ou organisme du gouvernement fédéral, d’un gouvernement provincial ou d’un gouvernement étranger, ou avec tout autre organisme exerçant des activités similaires.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6868,7 +6874,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Présomption**
 
 - **(2)** Les directives et textes ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6891,7 +6897,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Conditions de l’autorisation en matière de santé et de sécurité au travail**
 
 - **(3)** En sus de toute approbation ou condition fixées par l’Office en vertu de la partie III auxquelles elle est assujettie, l’autorisation est assujettie aux approbations et aux conditions fixées par l’Office en matière de santé et de sécurité au travail, sauf si elles sont incompatibles avec les dispositions de la présente loi ou de ses règlements.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6933,7 +6939,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Réexamen de la décision**
 
 - **(7)** Le délégué à la sécurité peut, en tout temps, de sa propre initiative ou sur demande de la personne qui sollicite la permission au titre du paragraphe (1), réexaminer, confirmer, modifier, révoquer ou suspendre sa décision s’il a accès à des renseignements dont il est raisonnable de croire qu’ils auraient entraîné une décision différente s’ils avaient été connus au moment où elle a été prise. Les paragraphes (1) à (6) s’appliquent alors avec les adaptations nécessaires.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -6972,7 +6978,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Réexamen de la décision**
 
 - **(7)** Le délégué à la sécurité peut, en tout temps, de sa propre initiative ou sur demande de l’exploitant qui sollicite la permission au titre du paragraphe (1), réexaminer, confirmer, modifier, révoquer ou suspendre sa décision s’il a accès à des renseignements dont il est raisonnable de croire qu’ils auraient entraîné une décision différente s’ils avaient été connus au moment où elle a été prise. Les paragraphes (1) à (6) s’appliquent alors avec les adaptations nécessaires.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7007,7 +7013,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Certificat**
 
 - **(6)** L’individu désigné en vertu du paragraphe (1) se voit remettre un certificat attestant sa qualité, qu’il présente sur demande au responsable du lieu dans lequel il entre en vertu de la présente partie.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7036,7 +7042,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Immunité judiciaire**
 
 - **(5)** Aucun recours ne peut être intenté contre l’Office pour les actes ou omissions commis par l’individu désigné en vertu du paragraphe (1) dans l’exercice de ses fonctions ou dans l’accomplissement de ses obligations ou par une personne qui l’assiste dans l’accomplissement ou l’exercice de celles-ci.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7090,7 +7096,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Restitution des choses emportées**
 
 - **(5)** Toute chose emportée au titre des alinéas (1)f), (2)h) ou (3)d) est restituée sur demande à la personne intéressée une fois que les essais, les examens ou la préparation des copies sont terminés, à moins qu’elle ne soit requise dans le cadre de poursuites engagées sous le régime de la présente partie.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7113,7 +7119,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Révision d’un rapport  — antécédents médicaux et autres renseignements**
 
 - **(4)** Lorsqu’un rapport contient des renseignements concernant les antécédents médicaux d’un individu identifiable ou tout autre renseignement prévu par règlement concernant un tel individu, l’agent de santé et de sécurité, afin de protéger ces renseignements, doit réviser le rapport avant de le transmettre à l’exploitant ou à un employeur, sauf si l’individu concerné consent par écrit à la communication des renseignements à l’exploitant ou à l’employeur.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7160,7 +7166,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Définition de local d’habitation**
 
 - **(8)** Pour l’application du présent article, ***local d’habitation*** s’entend de toute cabine sur l’ouvrage en mer ou dans un véhicule de transport fournie afin de pourvoir à l’hébergement des employés et de toute pièce qui est dotée de toilettes ou d’un urinoir et qui sert à l’usage exclusif des occupants de cette cabine.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7177,7 +7183,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **(2)** Si le lieu visé au paragraphe 210.074(3) est un lieu de travail, l’exploitant fournit à l’agent de santé et de sécurité ainsi qu’à tout individu qui l’accompagne, sans frais et dans des conditions convenables :
 	- **a)** le transport entre le lieu habituel d’embarquement à terre de l’exploitant et le lieu de travail, entre le lieu de travail et le lieu habituel de débarquement à terre de l’exploitant ou entre ces lieux de travail;
 	- **b)** les repas et l’hébergement dans le lieu de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7186,7 +7192,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Renseignements faux ou trompeurs**
 
 **210.078** Il est interdit de faire une déclaration fausse ou trompeuse ou de communiquer des renseignements faux ou trompeurs, relativement à toute question visée par la présente partie, à l’agent de santé et de sécurité lorsqu’il s’acquitte de ses obligations ou fonctions en vertu de la présente partie ou au délégué à la sécurité dans le cadre de la révision effectuée en vertu de l’article 210.1.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7195,7 +7201,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Entrave**
 
 **210.079** Il est interdit d’entraver l’action de l’agent de santé et de sécurité lorsqu’il s’acquitte de ses obligations ou fonctions en vertu de la présente partie ou du délégué à la sécurité dans le cadre de la révision effectuée en vertu de l’article 210.1.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7222,7 +7228,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Droit à la rémunération**
 
 - **(5)** L’individu qui accompagne l’agent de santé et de sécurité ou que celui-ci consulte dans le cadre du présent article reçoit le salaire et les avantages auxquels il aurait eu droit s’il avait travaillé.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7270,7 +7276,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Télémandats**
 
 - **(8)** L’agent de santé et de sécurité peut demander que le mandat lui soit délivré par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique alors avec les adaptations nécessaires.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7285,7 +7291,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Objets périssables**
 
 - **(2)** Si la chose saisie est périssable, l’agent de santé et de sécurité peut, à son appréciation, en disposer, notamment par destruction. La disposition s’opère au profit du receveur général.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7307,7 +7313,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Exception  — véhicule de transport**
 
 - **(2)** Dans les cas où un individu est tué ou grièvement blessé au cours d’un événement mettant en cause un véhicule de transport, l’individu chargé d’enquêter sur l’événement en vertu de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) ou de la [Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports](/fr/Lois/Lois%20du%20Canada/1989/ch.%203.md) n’est pas tenu d’obtenir l’autorisation visée au paragraphe (1).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7320,7 +7326,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Renseignements**
 
 **210.084** Il est interdit d’empêcher un employé de fournir à l’agent de santé et de sécurité, à l’Office ou à toute personne ou à tout comité qui s’acquitte de ses obligations et fonctions en vertu de la présente partie les renseignements qu’il peut exiger à ces fins.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7331,7 +7337,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **210.085** Sous réserve des articles 210.088 à 210.09 et sauf pour l’application de la présente partie ou de la partie III en matière de sécurité ou dans le cadre d’une poursuite se rapportant à la présente partie ou à la partie III en matière de sécurité, il est interdit de communiquer les résultats des activités suivantes :
 - **a)** celles exercées par l’agent de santé et de sécurité ou sur son ordre pour vérifier le respect de la présente partie;
 - **b)** celles exercées dans le cadre de l’exécution d’un mandat délivré sous le régime de la présente partie.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7340,7 +7346,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Communication interdite — identité de l’individu**
 
 **210.086** Sous réserve de l’article 210.089, l’individu à qui sont communiqués des renseignements à titre confidentiel sous le régime de la présente partie ne peut communiquer l’identité de l’individu qui les a fournis, sauf pour l’application de la présente partie; il ne peut communiquer l’identité d’un tel individu devant un tribunal judiciaire ou autre, ni y être contraint, sauf si ce dernier l’ordonne, aux conditions qu’il estime indiquées.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7359,7 +7365,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Communication à d’autres personnes**
 
 - **(3)** Sous réserve du paragraphe 210.089(2), nul ne peut communiquer les renseignements qui lui ont été communiqués en vertu des paragraphes (1) ou (2), sauf aux fins visées par la communication initiale.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7378,7 +7384,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Communication à d’autres personnes**
 
 - **(3)** Nul ne peut communiquer les renseignements qui lui ont été communiqués en vertu des paragraphes (1) ou (2) sans le consentement écrit de la personne qui les a communiqués, sauf si la communication vise les mêmes fins et qu’elle est effectuée selon les conditions visées à ces paragraphes.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7393,7 +7399,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Communication à d’autres personnes**
 
 - **(2)** Les renseignements communiqués à un ministre en application du paragraphe (1) ne peuvent être communiqués par celui-ci sans le consentement de la personne qu’ils concernent, sauf pour l’application de la présente partie ou de la partie III en matière de sécurité.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7402,7 +7408,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Communication par l’Office**
 
 **210.09** Malgré l’article 122, l’Office peut, après avoir consulté le délégué à la sécurité, communiquer, quels que soient leur forme et leur support, des renseignements qui relèvent de l’Office concernant l’application de la présente partie s’il est convaincu que l’intérêt public à leur communication l’emporte nettement sur le préjudice pouvant résulter de celle-ci. Sont toutefois exclus les renseignements concernant les antécédents médicaux d’un individu identifiable et autres renseignements prévus par règlement concernant un tel individu, l’identité d’un individu et les renseignements dont la communication est restreinte respectivement en application des articles 210.086 et 210.087.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7425,7 +7431,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Protection des renseignements**
 
 - **(3)** Nul ne peut être contraint, dans le cadre d’une procédure civile ou administrative, de communiquer oralement ou par écrit des renseignements qui lui sont communiqués en application des paragraphes 210.088(1) ou (2) ou 210.089(1).
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7434,7 +7440,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Immunité  — agent de santé et de sécurité**
 
 **210.092** L’agent de santé et de sécurité et toute personne qui l’assiste ou tout individu qui l’accompagne bénéficient de l’immunité judiciaire pour tout fait — acte ou omission — accompli de bonne foi dans le cadre de leurs obligations ou fonctions en vertu de la présente partie.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7449,7 +7455,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **210.093** S’il est d’avis qu’une contravention à la présente partie ou à ses règlements vient d’être commise ou est en train de l’être, l’agent de santé et de sécurité peut donner l’ordre à la personne en cause :
 - **a)** d’y mettre fin dans le délai qu’il précise;
 - **b)** de prendre, dans le délai imparti, les mesures qu’il précise pour empêcher la continuation de la contravention ou la récidive.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7476,7 +7482,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Cessation d’utilisation**
 
 - **(5)** Le destinataire de l’ordre veille à ce que l’on cesse d’utiliser le lieu ou la chose en cause, de faire fonctionner celle-ci ou d’accomplir la tâche visée, et aucun individu ne peut utiliser le lieu ou la chose, faire fonctionner celle-ci ou accomplir la tâche, jusqu’à ce que l’ordre donné en vertu paragraphe (1) ait été exécuté.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7499,7 +7505,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Ordre donné à distance**
 
 - **(4)** L’agent de santé et de sécurité peut donner l’ordre prévu à l’article 210.093 ou aux paragraphes 210.094(1) ou (2) même s’il ne se trouve pas physiquement dans le lieu qui y est visé.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7508,7 +7514,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Avis de conformité**
 
 **210.096** Le destinataire de l’ordre donné en vertu de l’article 210.093 ou des paragraphes 210.094(1) ou (2) transmet à l’agent de santé et de sécurité, dans les délais précisés dans l’ordre, un avis de conformité qui décrit les mesures prises pour se conformer à l’ordre, sauf si l’agent conclut que l’avis n’est pas nécessaire parce que l’ordre a été respecté.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7523,7 +7529,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Préséance  — agent de santé et de sécurité au travail**
 
 - **(2)** En cas d’incompatibilité entre les ordres ou décisions de l’agent de santé et de sécurité au travail et les ordres ou décisions de l’agent de la sécurité, de l’agent du contrôle de l’exploitation ou du délégué à l’exploitation au sens de l’article 138, les ordres et décisions de l’agent de santé et de sécurité au travail l’emportent dans la mesure de l’incompatibilité.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7556,7 +7562,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **(4)** L’exploitant ou l’employeur s’acquitte de l’obligation prévue au paragraphe (1) s’il prend l’une ou l’autre des mesures suivantes :
 	- **a)** il veille à ce que le document soit affiché pendant une période d’au moins trente jours pour permettre aux employés dans le lieu de travail d’en prendre connaissance, ou pendant la période plus longue prévue par règlement;
 	- **b)** il transmet une copie du document à chaque employé dans le lieu de travail.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7583,7 +7589,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Absence de suspension**
 
 - **(4)** À moins que le délégué à la sécurité n’en ordonne autrement, la demande de révision n’a pas pour effet de suspendre l’application de la décision ou de l’ordre contestés.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7606,7 +7612,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Décision définitive**
 
 - **(4)** La décision que le délégué à la sécurité prend en vertu de la présente partie et qui n’est pas portée en appel est définitive et exécutoire et n’est pas susceptible de révision.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7667,7 +7673,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Office fédéral**
 
 - **(12)** Pour l’application de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), le Conseil des relations de travail ne constitue pas un office fédéral au sens du paragraphe 2(1) de cette loi lorsqu’il exerce les compétences ou pouvoirs visés au présent article.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7676,7 +7682,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Salaire**
 
 **210.102** Le temps consacré par un employé pour être présent aux procédures prévues à l’article 210.101, à titre de partie ou de témoin cité à comparaître, est considéré être du temps de travail pour lequel il reçoit le salaire et les avantages auxquels il aurait eu droit s’il avait travaillé.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7685,7 +7691,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **[Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) non applicable**
 
 **210.103** Pour l’application de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), le délégué à la sécurité, l’agent de santé et de sécurité et l’Office ne constituent pas un office fédéral au sens du paragraphe 2(1) de cette loi lorsqu’ils exercent ou sont censés exercer les compétences ou pouvoirs qui leur sont conférés en vertu de la présente partie.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7708,7 +7714,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Annulation ou remplacement**
 
 - **(3)** Lorsqu’un ordre ou une ordonnance devient une ordonnance de la Cour suprême de la Nouvelle-Écosse, l’ordre ou l’ordonnance qui annule ou remplace l’ordre initial ou l’ordonnance initiale est réputé annuler l’ordonnance de la Cour qui découle de cet ordre initial ou de cette ordonnance initiale et peut, selon les mêmes modalités, être assimilé à une ordonnance de la Cour.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7727,7 +7733,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Dispositions applicables**
 
 - **(3)** L’article 72 de la loi néo-écossaise sur la santé et la sécurité au travail s’applique à l’exécution des ordres ou ordonnances, avec les adaptations nécessaires, la mention de « *Director* » valant mention de « délégué à la sécurité » aux paragraphes 72(3), (5) et (6) de cette loi.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7767,7 +7773,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Disculpation : précautions voulues**
 
 - **(5)** Nul ne peut être déclaré coupable d’une infraction prévue au paragraphe (1) s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7782,7 +7788,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Infractions commises par les employés et mandataires**
 
 - **(2)** Dans toute poursuite visant une infraction à la présente partie, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un employé ou un mandataire de l’accusé, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7791,7 +7797,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Exclusion de l’emprisonnement**
 
 **210.108** La peine d’emprisonnement est exclue en cas de défaut de paiement de l’amende infligée pour une infraction à la présente partie sur déclaration de culpabilité par procédure sommaire.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7818,7 +7824,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Publication**
 
 - **(3)** En cas de manquement à l’ordre de publier les faits liés à l’infraction, le délégué à la sécurité peut procéder à la publication et en recouvrer les frais auprès du contrevenant.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7835,7 +7841,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Préavis**
 
 - **(2)** Avant de rendre une ordonnance en vertu du paragraphe (1), le tribunal peut en faire donner préavis aux personnes qu’il juge intéressées; il peut aussi les entendre.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7844,7 +7850,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Restriction**
 
 **210.111** Après audition de la demande visée au paragraphe 210.11(1), toute nouvelle demande au titre de cet article est subordonnée à l’autorisation du tribunal.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7853,7 +7859,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Recouvrement des amendes et autres sommes**
 
 **210.112** En cas de défaut de paiement de l’amende infligée pour une infraction prévue à la présente partie ou d’une somme dont le paiement est ordonné en vertu des paragraphes 210.109(1) ou 210.11(1), le poursuivant peut, par dépôt de la déclaration de culpabilité ou de l’ordonnance auprès de la Cour suprême de la Nouvelle-Écosse, faire tenir pour jugement de cette cour le montant de l’amende ou la somme à payer, y compris les frais éventuels; le jugement est dès lors exécutoire contre l’intéressé comme s’il s’agissait d’un jugement rendu contre l’intéressé par cette cour en matière civile.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7862,7 +7868,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Injonction**
 
 **210.113** Lorsqu’une personne commet une infraction à la présente partie, le tribunal peut, en sus de toute autre peine qu’il peut infliger, lui ordonner de se conformer aux dispositions de la présente partie ou du règlement ou d’un ordre pour la violation desquels elle a été condamnée.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7871,7 +7877,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Infractions continues**
 
 **210.114** Il est compté une infraction distincte à la présente partie pour chacun des jours au cours desquels se commet ou se continue l’infraction.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7880,7 +7886,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Prescription**
 
 **210.115** Sauf entente contraire entre le poursuivant et le défendeur, les poursuites par procédure sommaire visant une infraction à la présente partie se prescrivent par trois ans à compter de la date du fait en cause.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7889,7 +7895,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Preuve**
 
 **210.116** Dans les poursuites pour infraction à la présente partie et en l’absence de preuve contraire, une copie de tout ordre ou tout autre document apparemment donné ou établi, selon le cas, en vertu de la présente partie et apparemment signée par l’individu autorisé en vertu de la présente partie à le donner ou à l’établir ou une copie de toute ordonnance ou tout autre document apparemment rendue ou établi, selon le cas, en vertu de la présente partie et apparemment signée par le membre, le vice-président ou le président du Conseil des relations de travail fait foi, sauf preuve contraire, de son contenu.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7898,7 +7904,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Compétence du juge**
 
 **210.117** Le juge de paix ou le juge dans le ressort duquel l’accusé réside ou exerce ses activités peut connaître de toute plainte ou dénonciation en matière d’infraction à la présente partie, indépendamment du lieu de perpétration.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7913,7 +7919,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Recours au civil**
 
 - **(2)** Le fait que des actes ou omissions constituent des infractions à la présente partie n’a pas pour effet de suspendre les recours civils engagés à leur égard ni d’y porter atteinte.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7922,7 +7928,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Dénonciation**
 
 **210.119** Toute dénonciation faite sous le régime de la présente partie peut viser plusieurs infractions commises par la même personne, ces infractions pouvant être instruites concurremment et faire l’objet d’une condamnation soit globalement, soit pour l’une ou plusieurs d’entre elles.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -7970,7 +7976,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Coprésidence**
 
 - **(8)** La présidence du conseil est assumée par deux individus choisis parmi les membres, l’un par les membres représentant les employés, l’autre par les membres représentant l’industrie.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -8005,7 +8011,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Coûts**
 
 - **(6)** Lorsque le ministre fédéral et le ministre provincial nomment conjointement un vérificateur, ils peuvent aussi conjointement, avec le consentement écrit du ministre provincial des mines et de l’énergie, exiger que les coûts de la vérification soient à la charge de l’Office. Lorsque seulement l’un des ministres nomme le vérificateur, ces coûts sont à la charge de ce ministre.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -8040,7 +8046,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Coûts**
 
 - **(7)** Lorsque le ministre fédéral et le ministre provincial nomment conjointement un ou plusieurs individus en vertu du paragraphe (1), ils peuvent aussi conjointement, avec le consentement écrit du ministre provincial des mines et de l’énergie, exiger que les coûts de l’enquête soient à la charge de l’Office. Lorsque seulement l’un des ministres nomme le ou les individus, ces coûts sont à la charge de ce ministre.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -8057,7 +8063,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 ***document électronique*** S’entend de toute forme de représentation de renseignements ou de notions fixée sur quelque support que ce soit, par des moyens électroniques, optiques ou autres moyens semblables, et qui peut être lue ou perçue par un individu ou par tout moyen. (*electronic document*)
 
 ***système d’information*** Système utilisé pour créer, transmettre, recevoir, mettre en mémoire ou traiter de toute autre manière des documents électroniques. (*information system*)
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -8066,7 +8072,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Utilisation non obligatoire**
 
 **210.124** Aucune disposition de la présente partie ou de ses règlements n’exige la création ou la transmission d’un document électronique.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -8099,7 +8105,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Exceptions**
 
 - **(4)** Malgré le paragraphe (2), les motifs visés au paragraphe 210.059(5) et la décision visée au paragraphe 210.1(3) sont transmis sous forme écrite.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -8151,7 +8157,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Transmission et publication**
 
-- **(3)** Il est entendu que les documents qui sont incorporés par renvoi dans un règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
+- **(3)** Il est entendu que les documents qui sont incorporés par renvoi dans un règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) du seul fait de leur incorporation.
 
 **Portée générale ou restreinte**
 
@@ -8160,7 +8166,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Recommandation du ministre des Transports  — véhicule de transport**
 
 - **(5)** La prise d’un règlement en vertu du paragraphe (1) exige, en plus des exigences qui y sont prévues, la recommandation du ministre des Transports si ce règlement s’applique aux employés et aux autres passagers dans un véhicule de transport.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -8170,12 +8176,12 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **210.127** 
 
-- **(1)** Sous réserve du paragraphe (2), les projets de règlements que le gouverneur en conseil se propose de prendre en application de la présente partie sont publiés dans la Gazette du Canada, les intéressés se voyant accorder la possibilité de présenter au ministre fédéral leurs observations à cet égard.
+- **(1)** Sous réserve du paragraphe (2), les projets de règlements que le gouverneur en conseil se propose de prendre en application de la présente partie sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/), les intéressés se voyant accorder la possibilité de présenter au ministre fédéral leurs observations à cet égard.
 
 **Exception**
 
 - **(2)** Les projets déjà publiés en application du paragraphe (1) n’ont pas à l’être de nouveau, qu’ils aient été modifiés ou non à la suite des observations.
-> 2014, ch. 13, art. 84.
+> 2014, ch. 13, art. 84
 
 
 
@@ -8196,12 +8202,12 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 ***Compte de recettes*** Le compte ouvert en application de l’article 219. (*Revenue Account*)
 
-***Loi néo-écossaise de l’impôt sur le revenu*** La loi intitulée Income Tax Act, R.S.N.S. 1989, ch. 217, avec ses modifications successives. (*Nova Scotia Income Tax Act*)
+***Loi néo-écossaise de l’impôt sur le revenu*** La loi intitulée [Income Tax Act](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), R.S.N.S. 1989, ch. 217, avec ses modifications successives. (*Nova Scotia Income Tax Act*)
 
 ***Loi sur la taxation des primes d’assurance*** La loi intitulée Insurance Premiums Tax Act, R.S.N.S. 1989, ch. 232, avec ses modifications successives. (*Insurance Premiums Tax Act*)
 
 ***lois sur la taxe à la consommation*** S’entend des articles 2 et 3 et des parties I, IIA et IV de la loi intitulée Revenue Act, S.N.S. 1995-96, ch. 17 et de telle autre loi de la province visée par règlement, avec leurs modifications successives. (*Consumption Tax Acts*)
-> 1988, ch. 28, art. 211; 2014, ch. 13, art. 85.
+> 1988, ch. 28, art. 211; 2014, ch. 13, art. 85
 
 
 
@@ -8235,9 +8241,9 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Obligation**
 
 - **(4)** Le présent article lie les entités suivantes :
-	- **a)** les personnes morales visées à l’annexe I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), si la Nouvelle-Écosse est une province signataire au sens du paragraphe 31(1) de cette loi;
+	- **a)** les personnes morales visées à l’annexe I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-8.md), si la Nouvelle-Écosse est une province signataire au sens du paragraphe 31(1) de cette loi;
 	- **b)** les personnes morales visées à l’annexe II de la même loi.
-> 1988, ch. 28, art. 212; 2014, ch. 13, art. 85.
+> 1988, ch. 28, art. 212; 2014, ch. 13, art. 85
 
 
 
@@ -8270,7 +8276,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Définition de compagnie**
 
 - **(4)** Au présent article, ***compagnie*** a le sens du terme *insurance company* à l’article 2 de la Loi sur la taxation des primes d’assurance.
-> 1988, ch. 28, art. 213; 2014, ch. 13, art. 85.
+> 1988, ch. 28, art. 213; 2014, ch. 13, art. 85
 
 
 
@@ -8308,8 +8314,8 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Preuve d’une disposition de l’accord fiscal**
 
-- **(7)** Un document, censé être un accord fiscal, qui est soit publié dans la Gazette du Canada, soit certifié comme tel par le receveur général, le sous-receveur général ou le ministre des Finances, ou pour le compte de ceux-ci, fait, sauf preuve contraire, foi de son contenu et est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du certificateur.
-> 1988, ch. 28, art. 214; 2014, ch. 13, art. 86.
+- **(7)** Un document, censé être un accord fiscal, qui est soit publié dans la [Gazette du Canada](http://www.gazette.gc.ca/), soit certifié comme tel par le receveur général, le sous-receveur général ou le ministre des Finances, ou pour le compte de ceux-ci, fait, sauf preuve contraire, foi de son contenu et est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du certificateur.
+> 1988, ch. 28, art. 214; 2014, ch. 13, art. 86
 
 
 
@@ -8324,7 +8330,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Transfert des attributions**
 
 - **(2)** Sur conclusion de l’accord, le fonctionnaire appelé *Provincial Tax Commissioner* peut exercer les attributions et disposer de la latitude dévolues au ministre provincial des Finances, dans le cadre des lois sur la taxe à la consommation, sous le régime de la présente partie et, notamment, du paragraphe (1) et déléguer au personnel du ministère provincial appelé *Department of Finance* les attributions correspondant à celles qui leur sont dévolues sous le régime des lois sur la taxe à la consommation. Le ministre provincial des Finances ou tel autre ministre provincial désigné par le gouvernement provincial, peut, dès lors, exercer les attributions et disposer de la latitude dévolues au ministre provincial des Finances, sous le régime de la Loi sur la taxation des primes d’assurance, sous le régime de la présente partie et, notamment, du paragraphe (1) et déléguer au personnel du ministère provincial appelé *Department of Finance* ou de tout autre ministère provincial dirigé par cet autre ministre, les attributions correspondant à celles qui leur sont dévolues sous le régime de la Loi sur la taxation des primes d’assurance.
-> 1988, ch. 28, art. 215; 2014, ch. 13, art. 87.
+> 1988, ch. 28, art. 215; 2014, ch. 13, art. 87
 
 
 
@@ -8357,7 +8363,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Détermination du revenu**
 
 - **(4)** Pour l’application du présent article, le revenu imposable gagné dans une année d’imposition par une personne morale, dans la zone extracôtière ou dans la province, est déterminé conformément aux règles prévues par règlement pour l’application de la définition de ***revenu imposable gagné au cours de l’année dans une province***, au paragraphe 124(4) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et ***capital imposable*** s’entend du capital imposable utilisé au Canada, déterminé conformément à la partie I.3 de la même loi.
-> 1988, ch. 28, art. 216; 2013, ch. 34, art. 369; 2014, ch. 13, art. 88.
+> 1988, ch. 28, art. 216; 2013, ch. 34, art. 369; 2014, ch. 13, art. 88
 
 
 
@@ -8376,7 +8382,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Trop-perçu**
 
 - **(3)** Quiconque sciemment perçoit ou reçoit un montant à titre d’impôt sous le régime de la présente partie qui ne lui est pas payable doit sans délai le rembourser à la personne qui le lui a versé ou, si cette personne n’est pas connue ou n’est pas facilement identifiable, la verser au receveur général.
-> 1988, ch. 28, art. 217; 2015, ch. 4, art. 103(F).
+> 1988, ch. 28, art. 217; 2015, ch. 4, art. 103(F)
 
 
 
@@ -8442,7 +8448,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Assimilation**
 
 - **(4)** Pour l’application du présent article sont assimilés au tribunal ses juges ainsi que les juges de la cour provinciale et les juges de paix.
-> 1988, ch. 28, art. 220; 2014, ch. 13, art. 89.
+> 1988, ch. 28, art. 220; 2014, ch. 13, art. 89
 
 
 
@@ -8461,7 +8467,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 	- **(iii)** la Loi sur la taxation des primes d’assurance et les règlements visés au paragraphe 213(3.1),
 	- **(iv)** la Loi néo-écossaise de l’impôt sur le revenu et les règlements visés au paragraphe 216(3.1);
 - **b)** prendre les mesures d’ordre réglementaire prévues par la présente partie.
-> 1988, ch. 28, art. 221; 2014, ch. 13, art. 90.
+> 1988, ch. 28, art. 221; 2014, ch. 13, art. 90
 
 
 
@@ -8661,7 +8667,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **a)** fixer les modalités d’établissement et de dépôt des demandes de versement;
 - **b)** exiger de la Société le remboursement au ministre fédéral, conformément au règlement, des trop-payés et des intérêts, et fixer ces intérêts et les modalités de remboursement;
 - **c)** permettre l’inclusion, dans le calcul des frais de développement ou d’exploration au Canada, l’inclusion de frais exclus au titre de l’alinéa a) de la définition de ces termes.
-> 1988, ch. 28, art. 245; 1994, ch. 26, art. 17(F).
+> 1988, ch. 28, art. 245; 1994, ch. 26, art. 17(F)
 
 
 
@@ -8691,7 +8697,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 ***projet*** Activité aboutissant à la production d’hydrocarbures extracôtiers devant être autorisée en application de l’alinéa 142(1) b). (*project*)
 
 - **(2)** [Abrogé, 2015, ch. 4, art. 105]
-> 1988, ch. 28, art. 246; 2009, ch. 31, art. 47; 2015, ch. 4, art. 105.
+> 1988, ch. 28, art. 246; 2009, ch. 31, art. 47; 2015, ch. 4, art. 105
 
 
 
@@ -8735,7 +8741,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **(5)** Aucun versement ne peut être effectué si, pour un exercice, le potentiel de la province est au moins égal à la moyenne nationale, ce potentiel et cette moyenne étant déterminés conformément à l’article 247.1.
 
 - **(6)** [Abrogé, 2009, ch. 31, art. 48]
-> 1988, ch. 28, art. 247; 2009, ch. 31, art. 48; 2015, ch. 4, art. 106.
+> 1988, ch. 28, art. 247; 2009, ch. 31, art. 48; 2015, ch. 4, art. 106
 
 
 
@@ -8792,7 +8798,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Population**
 
 - **(6)** Pour l’application du présent article, le chiffre de la population d’une province pour un exercice est celui de cette province pour ce même exercice, établi pour l’application de la partie I de la loi de 1977.
-> 2015, ch. 4, art. 107.
+> 2015, ch. 4, art. 107
 
 
 
@@ -8809,7 +8815,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **b)** concernant le versement de toute somme due au titre du paragraphe 247(1) si le ministre établit qu’il a omis de verser une somme au titre de ce paragraphe;
 - **c)** concernant le recouvrement de tout paiement en trop versé au titre du paragraphe 247(1);
 - **d)** en vue de toute mesure réglementaire prévue par la présente partie.
-> 1988, ch. 28, art. 248; 2009, ch. 31, art. 50.
+> 1988, ch. 28, art. 248; 2009, ch. 31, art. 50
 
 
 
@@ -8897,7 +8903,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 - **(2)** L’article 216 et la partie IX s’appliquent aux années d’imposition commençant après le 22 décembre 1989.
 
 <a name='C-7.8_fr_1'><sup>*</sup></a>: [Note : Loi, sauf section VIII de partie II, en vigueur le 22 décembre 1989, *voir* TR/90-9; section VIII de partie II en vigueur le 1<sup>er</sup> octobre 1990, *voir* TR/90-152.]<br />
-> 1988, ch. 28, art. 267; 1991, ch. 49, art. 238.
+> 1988, ch. 28, art. 267; 1991, ch. 49, art. 238
 
 
 
@@ -9112,7 +9118,7 @@ de là vers le nord-est, en ligne droite, jusqu’à un point situé à 45° 24�
 
 
 
-> 1988, ch. 28, ann. I; DORS/2003-193.
+> 1988, ch. 28, ann. I; DORS/2003-193
 
 
 
@@ -9240,7 +9246,7 @@ de là vers l’ouest le long du point situé à 41° 05′ 00″ N de latitude 
 de là vers le nord-ouest le long dudit parcours géodésique jusqu’au point de départ.
 
 
-> 1988, ch. 28, ann. IV; 2015, ch. 4, art. 108(F).
+> 1988, ch. 28, ann. IV; 2015, ch. 4, art. 108(F)
 
 
 
@@ -9281,7 +9287,7 @@ de là vers le nord-ouest le long dudit parcours géodésique jusqu’au point d
 </tr>
 </table>
 
-> 2015, ch. 4, art. 109.
+> 2015, ch. 4, art. 109
 
 
 
@@ -9310,7 +9316,7 @@ de là vers le nord-ouest le long dudit parcours géodésique jusqu’au point d
 <tr>
 <td>2</td>
 <td>[Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)</td>
-<td>35(1)</td>
+<td>34.4(1) et 35(1)</td>
 </tr>
 </table>
 
@@ -9344,6 +9350,125 @@ de là vers le nord-ouest le long dudit parcours géodésique jusqu’au point d
 </tr>
 </table>
 
-> 2015, ch. 4, art. 109.
+> 2015, ch. 4, art. 1092019, ch. 14, art. 57
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2014, ch. 13, art. 92, modifié par 2018, ch. 27, art. 180
+
+
+**Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers — dispositions transitoires**
+
+**92** 
+
+- **(1)** Si l’un ou l’autre des documents ci-après est transmis par le ministre des Ressources naturelles au président du Sénat et à celui de la Chambre des communes pour dépôt devant leurs chambres respectives pendant la 2<sup>e</sup> session de la 41<sup>e</sup> législature, le document en cause est réputé être, à la date d’entrée en vigueur du présent article, un règlement pris en vertu du paragraphe 210.126(1) de la Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et, malgré l’article 9 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), il entre en vigueur à cette date :
+	- **a)** le document intitulé Règlement transitoire sur la santé et la sécurité au travail concernant les ouvrages en mer dans la zone extracôtière Canada — Nouvelle-Écosse;
+	- **b)** le document intitulé Règlement transitoire sur les ouvrages en mer dans la zone extracôtière Canada — Nouvelle-Écosse.
+
+**Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers — dispositions transitoires**
+
+- **(2)** Si le document intitulé Règlement transitoire sur la sécurité des opérations de plongée dans la zone extracôtière Canada — Nouvelle-Écosse est transmis par le ministre des Ressources naturelles au président du Sénat et à celui de la Chambre des communes pour dépôt devant leurs chambres respectives pendant la 2<sup>e</sup> session de la 41<sup>e</sup> législature :
+	- **a)** le document est réputé, à la date d’entrée en vigueur du présent article, être un règlement pris en vertu de l’alinéa 210.001(3)a) et du paragraphe 210.126(1) de la Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et, malgré l’article 9 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), il entre en vigueur à cette date;
+	- **b)** le [Règlement sur les opérations de plongée liées aux activités pétrolières et gazières de la zone extracôtière de la Nouvelle-Écosse](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/189.md) est abrogé à la date d’entrée en vigueur du présent article.
+
+**Approbation des ministres provinciaux**
+
+- **(3)** Le ministre des Ressources naturelles ne peut transmettre aux présidents des deux chambres les documents visés aux alinéas (1)a) et b) que s’il est convaincu que le ministre du gouvernement de la Nouvelle-Écosse chargé de la santé et de la sécurité au travail les a approuvés. Il ne peut transmettre le document intitulé Règlement transitoire sur la sécurité des opérations de plongée dans la zone extracôtière Canada — Nouvelle-Écosse que s’il est convaincu que ce ministre provincial et le ministre du gouvernement de cette province chargé de la gestion des ressources en hydrocarbures extracôtiers l’ont approuvé.
+
+**Exemplaires**
+
+- **(4)** Le ministre des Ressources naturelles transmet au greffier du Conseil privé, dans les sept jours suivant l’entrée en vigueur du présent article, des exemplaires de chacun des documents visés aux paragraphes (1) et (2) qu’il a transmis aux présidents des deux chambres. Les exigences de l’article 5 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) sont réputées avoir été respectées à l’égard d’un document visé aux paragraphes (1) ou (2) à la date à laquelle l’exemplaire a été transmis au greffier.
+
+**Abrogation**
+
+- **(5)** Le Règlement transitoire sur la santé et la sécurité au travail concernant les ouvrages en mer dans la zone extracôtière Canada  — Nouvelle-Écosse, le Règlement transitoire sur les ouvrages en mer dans la zone extracôtière Canada — Nouvelle-Écosse et le Règlement transitoire sur la sécurité des opérations de plongée dans la zone extracôtière Canada  — Nouvelle-Écosse sont abrogés au plus tard six ans après l’entrée en vigueur du présent article, sauf s’ils l’ont été avant l’expiration de cette période.
+
+
+
+######           — 2014, ch. 13, art. 93
+
+
+**Pouvoirs du délégué à la sécurité**
+
+**93** 
+
+- **(1)** Le délégué à la sécurité peut, sur demande, pour une période et aux conditions qu’il précise, s’il est convaincu que la santé et la sécurité des employés dans le lieu de travail ou des passagers dans un véhicule de transport à destination ou en provenance du lieu de travail seront maintenues, accorder — relativement au lieu de travail ou, à la demande de l’exploitant, aux passagers du véhicule de transport à destination ou en provenance de l’un de ses lieux de travail — toute dérogation à une obligation réglementaire relative à l’utilisation d’équipements, de méthodes, de mesures ou de normes prévue par le Règlement transitoire sur la santé et la sécurité au travail concernant les ouvrages en mer dans la zone extracôtière Canada — Nouvelle-Écosse, le Règlement transitoire sur les ouvrages en mer dans la zone extracôtière Canada — Nouvelle-Écosse ou le Règlement transitoire sur la sécurité des opérations de plongée dans la zone extracôtière Canada — Nouvelle-Écosse.
+
+**Précision**
+
+- **(2)** Nul ne contrevient aux règlements s’il se conforme à la dérogation accordée en vertu du paragraphe (1).
+
+**Demande**
+
+- **(3)** La demande doit :
+	- **a)** être en la forme acceptable pour le délégué à la sécurité;
+	- **b)** comprendre des renseignements concernant les conséquences sur la santé et la sécurité auxquelles on peut raisonnablement s’attendre si la dérogation est accordée;
+	- **c)** être accompagnée de suffisamment de renseignements techniques pour permettre au délégué à la sécurité de prendre une décision.
+
+**Avis**
+
+- **(4)** Sur réception de la demande, le délégué à la sécurité la met à la disposition du public de la manière qui lui paraît opportune, avec un avis portant que les intéressés peuvent lui soumettre leurs observations dans les trente jours — ou toute période plus courte qu’il fixe d’un commun accord avec tout comité du lieu de travail constitué par l’exploitant — suivant la date à laquelle la demande a été rendue accessible.
+
+**Avis dans un lieu de travail, etc.**
+
+- **(5)** Si la demande est présentée à l’égard d’un lieu de travail existant, le demandeur en remet une copie à l’exploitant. Celui-ci affiche sans délai une copie de toute demande qu’il reçoit ou effectue relativement à un lieu de travail existant ou à un véhicule de transport dans un endroit bien en vue et sur support papier dans le lieu de travail concerné, et en fournit copie à tout comité constitué pour ce lieu de travail et à tout syndicat représentant des employés dans la zone extracôtière.
+
+**Décision**
+
+- **(6)** Dès que possible après l’expiration du délai mentionné au paragraphe (4), le délégué à la sécurité remet une copie de la décision prise à l’égard de la demande au demandeur et à l’exploitant et en avise le public, de la manière qui lui paraît opportune.
+
+**Réexamen de la décision**
+
+- **(7)** Le délégué à la sécurité peut, en tout temps, de sa propre initiative ou sur demande de la personne qui sollicite la dérogation au titre du paragraphe (1), réexaminer, confirmer, modifier, révoquer ou suspendre sa décision s’il a accès à des renseignements dont il est raisonnable de croire qu’ils auraient entraîné une décision différente s’ils avaient été connus au moment où elle a été prise. Les paragraphes (1) à (6) s’appliquent alors avec les adaptations nécessaires.
+
+**Terminologie**
+
+- **(8)** Les termes du présent article s’entendent au sens du paragraphe 210.001(1) de la Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2015, ch. 4, par. 88(2)
+
+**88** 
+
+- **(2)** L’article 142.21 de la même loi est remplacé par ce qui suit :
+
+**Avantage environnemental net**
+
+**142.21** L’Office ne peut, dans une autorisation délivrée en vertu de l’alinéa 142(1)b), permettre l’utilisation d’un agent de traitement que s’il considère, en tenant compte des facteurs prévus par règlement et de ceux qu’il estime indiqués, que son utilisation procurera vraisemblablement un avantage environnemental net.
+
+
+
+
+
+######           — 2015, ch. 4, par. 94(2) à (4)
+
+**94** 
+
+- **(2)** L’alinéa 166.1(1)b) de la même loi est remplacé par ce qui suit :
+
+- **b)** sauf dans le cas d’un essai à petite échelle qui respecte les exigences réglementaires, le délégué à l’exploitation approuve par écrit son utilisation en réaction au rejet et celle-ci est effectuée conformément à toute exigence imposée dans cette approbation;
+
+
+
+- **(3)** Le paragraphe 166.1(1) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+- **d)** elle est conforme aux règlements.
+
+
+
+- **(4)** Le paragraphe 166.1(3) de la même loi est remplacé par ce qui suit :
+
+**Avantage environnemental net**
+
+- **(3)** Sauf dans le cas d’un essai à petite échelle, le délégué à l’exploitation n’approuve l’utilisation de l’agent de traitement que s’il considère, en tenant compte des facteurs prévus par règlement et de ceux qu’il estime indiqués, que celle-ci procurera vraisemblablement un avantage environnemental net.
+
 
 
