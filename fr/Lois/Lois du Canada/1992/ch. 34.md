@@ -89,7 +89,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***rejet accidentel*** [Abrogée, 2009, ch. 9, art. 1]
 
 ***sécurité publique*** Sécurité pour la santé et la vie humaines, les biens et l’environnement. (*public safety*)
-> 1992, ch. 34, art. 2; 1997, ch. 9, art. 122; 1999, ch. 31, art. 212(A); 2009, ch. 9, art. 1.
+> 1992, ch. 34, art. 2; 1997, ch. 9, art. 122; 1999, ch. 31, art. 212(A); 2009, ch. 9, art. 1
 
 
 
@@ -98,7 +98,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 **2.1** Pour l’application de la présente loi, est assimilée à la personne qui importe des marchandises dangereuses ou des contenants la personne qui est mentionnée sur le registre d’expédition qui les accompagne à leur entrée au Canada comme étant la personne au Canada à qui les marchandises dangereuses ou les contenants seront livrés.
-> 2009, ch. 9, art. 2.
+> 2009, ch. 9, art. 2
 
 
 
@@ -126,9 +126,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Elle ne s’applique pas non plus :
 	- **a)** aux activités ou choses sous la seule responsabilité du ministre de la Défense nationale ou sous sa maîtrise effective, notamment dans les circonstances prévues par règlement;
-	- **b)** au transport de produits par des pipelines régis par la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou une loi provinciale;
+	- **b)** au transport de produits par des pipelines régis par la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md), la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou une loi provinciale;
 	- **c)** aux marchandises dangereuses contenues seulement par la structure permanente du bâtiment.
-> 1992, ch. 34, art. 3; 2009, ch. 9, art. 3.
+> 1992, ch. 34, art. 3; 2009, ch. 9, art. 32019, ch. 28, art. 162
 
 
 
@@ -166,7 +166,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** les documents réglementaires accompagnent les marchandises dangereuses;
 - **c)** un contenant réglementaire est utilisé pour chacune des marchandises;
 - **d)** les contenants et les moyens de transport sont conformes aux normes de sécurité réglementaires et portent les indications de sécurité réglementaires.
-> 1992, ch. 34, art. 5; 2009, ch. 9, art. 4.
+> 1992, ch. 34, art. 5; 2009, ch. 9, art. 4
 
 
 
@@ -175,7 +175,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction — contenants**
 
 **5.1** Il est interdit à quiconque de se livrer à la conception, à la fabrication, à la réparation, à la mise à l’essai ou à l’équipement de contenants qui sont utilisés pour l’importation, la présentation au transport, la manutention ou le transport de marchandises dangereuses — ou qui sont prévus à ces fins —, à moins de respecter les règles de sécurité réglementaires.
-> 2009, ch. 9, art. 4.
+> 2009, ch. 9, art. 4
 
 
 
@@ -188,7 +188,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction — indication de conformité**
 
 **6** Il est interdit à quiconque d’apposer ou d’afficher sur un contenant une indication de conformité exigée ou autorisée par les règlements concernant la fabrication, la réparation ou la mise à l’essai de ce contenant, ou une autre indication susceptible d’être confondue avec une telle indication, sauf si le contenant a été fabriqué, réparé ou mis à l’essai, selon le cas, conformément aux règles de sécurité et normes de sécurité applicables à l’indication de conformité.
-> 1992, ch. 34, art. 6; 2009, ch. 9, art. 6.
+> 1992, ch. 34, art. 6; 2009, ch. 9, art. 6
 
 
 
@@ -197,7 +197,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction — indication de marchandises dangereuses**
 
 **6.1** Il est interdit à quiconque d’apposer ou d’afficher sur des marchandises dangereuses, sur un contenant ou sur un moyen de transport une indication de marchandises dangereuses exigée ou autorisée par les règlements ou une autre indication susceptible d’être confondue avec une telle indication de marchandises dangereuses, qui est trompeuse quant à la présence ou à la nature d’un danger.
-> 2009, ch. 9, art. 6.
+> 2009, ch. 9, art. 6
 
 
 
@@ -240,7 +240,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** il a demandé que soient apportées au plan les modifications qu’il a des motifs raisonnables de croire nécessaires à son efficacité et elles n’ont pas été effectuées dans un délai raisonnable ou ont été refusées;
 	- **d)** il a des motifs raisonnables de croire que le plan n’a pas été mis en oeuvre à l’égard d’un rejet réel ou appréhendé visé par ce plan;
 	- **e)** l’ordre donné en vertu de l’alinéa 7.1a) à l’égard du plan n’a pas été respecté.
-> 1992, ch. 34, art. 7; 1994, ch. 26, art. 69; 2009, ch. 9, art. 6.
+> 1992, ch. 34, art. 7; 1994, ch. 26, art. 69; 2009, ch. 9, art. 6
 
 
 
@@ -251,7 +251,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **7.1** Le ministre, s’il croit que la mise en oeuvre d’un plan d’intervention d’urgence agréé est nécessaire pour la protection de la sécurité publique, peut, selon le cas :
 - **a)** ordonner à la personne qui dispose d’un tel plan de le mettre en oeuvre, dans le délai raisonnable prévu dans l’ordre, pour réagir au rejet réel ou appréhendé de marchandises dangereuses visé par le plan;
 - **b)** autoriser la personne qui dispose d’un tel plan à le mettre en oeuvre pour réagir à un rejet réel ou appréhendé de marchandises dangereuses, s’il ne connaît l’identité d’aucune des personnes tenues par le paragraphe 7(1) de disposer d’un plan d’intervention d’urgence agréé pour ce rejet.
-> 2009, ch. 9, art. 6.
+> 2009, ch. 9, art. 6
 
 
 
@@ -266,7 +266,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Versement sur le Trésor**
 
 - **(2)** L’indemnité à payer est prélevée sur le Trésor.
-> 2009, ch. 9, art. 6.
+> 2009, ch. 9, art. 6
 
 
 
@@ -285,7 +285,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contenu**
 
 - **(2)** Conformément aux règlements, le plan expose les mesures à prendre relativement à la prévention du vol de marchandises dangereuses, ou de toute autre atteinte illicite à celles-ci, en cours d’importation, de présentation au transport, de manutention ou de transport.
-> 2009, ch. 9, art. 6.
+> 2009, ch. 9, art. 6
 
 
 
@@ -298,7 +298,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conformité des contenants**
 
 **8** Il est interdit à quiconque de vendre, d’offrir en vente, de livrer, de distribuer, d’importer ou d’utiliser des contenants normalisés qui ne portent pas toutes les indications de sécurité réglementaires applicables.
-> 1992, ch. 34, art. 8; 2009, ch. 9, art. 7.
+> 1992, ch. 34, art. 8; 2009, ch. 9, art. 7
 
 
 
@@ -319,7 +319,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Le ministre peut ordonner à la personne qui a effectué la réparation ou la mise à l’essai de contenants normalisés de faire parvenir un avis d’échec de cette opération à la personne pour laquelle l’opération a été effectuée ou de publier un tel avis de manière que l’intéressé en prendra vraisemblablement connaissance, s’il a des motifs raisonnables de croire que la personne qui a effectué la réparation ou la mise à l’essai :
 	- **a)** a omis de se conformer à une règle ou à une norme de sécurité;
 	- **b)** a apposé sur le contenant ou omis d’en enlever une indication de sécurité attestant la conformité de celui-ci avec les normes ou les règles de sécurité.
-> 1992, ch. 34, art. 9; 2009, ch. 9, art. 8.
+> 1992, ch. 34, art. 9; 2009, ch. 9, art. 8
 
 
 
@@ -342,7 +342,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présentation du certificat**
 
 - **(3)** À son arrivée ou au cours de sa visite, l’inspecteur est tenu, sur demande du responsable des lieux et du matériel qui font l’objet de sa visite, de lui présenter son certificat.
-> 1992, ch. 34, art. 10; 2009, ch. 9, art. 10.
+> 1992, ch. 34, art. 10; 2009, ch. 9, art. 10
 
 
 
@@ -372,7 +372,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** de manquer de répondre à toute demande qu’elle peut raisonnablement formuler;
 	- **b)** de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse;
 	- **c)** d’une façon générale, d’entraver son action.
-> 1992, ch. 34, art. 13; 2009, ch. 9, art. 12.
+> 1992, ch. 34, art. 13; 2009, ch. 9, art. 12
 
 
 
@@ -395,7 +395,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitation**
 
 - **(3)** Le paragraphe (1) ne s’applique pas à Sa Majesté du chef du Canada ou d’une province ni aux organismes inscrits à l’annexe II ou III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 1992, ch. 34, art. 14; 2009, ch. 9, art. 13.
+> 1992, ch. 34, art. 14; 2009, ch. 9, art. 13
 
 
 
@@ -428,7 +428,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personne autorisée**
 
 - **(3)** L’inspecteur peut, conformément aux réglements, autoriser toute personne compétente à pénétrer dans tout lieu ou moyen de transport visé au paragraphe (1) et à y exercer les pouvoirs prévus au paragraphe (2).
-> 1992, ch. 34, art. 15; 2009, ch. 9, art. 14.
+> 1992, ch. 34, art. 15; 2009, ch. 9, art. 14
 
 
 
@@ -450,7 +450,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Usage de la force**
 
 - **(3)** L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
-> 1992, ch. 34, art. 16; 2009, ch. 9, art. 15(A).
+> 1992, ch. 34, art. 16; 2009, ch. 9, art. 15(A)
 
 
 
@@ -465,7 +465,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effets de l’attestation**
 
 - **(2)** L’attestation libère la personne à qui ou en faveur de qui elle est remise de toute responsabilité, civile ou pénale, découlant de tout acte ou omission commis par l’inspecteur ou la personne autorisée au cours de l’examen ou de la prise d’une quantité raisonnable d’une chose, mais ne la dispense pas de se conformer à la présente loi et à ses règlements.
-> 2009, ch. 9, art. 16.
+> 2009, ch. 9, art. 16
 
 
 
@@ -490,7 +490,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personne tenue de prendre les mesures**
 
 - **(4)** Seule la personne qui, au moment de la contravention ou par la suite, est propriétaire des marchandises dangereuses ou des contenants, les importe, en est responsable ou en a la maîtrise effective peut être assujettie à un ordre donné en vertu du présent article.
-> 1992, ch. 34, art. 17; 2009, ch. 9, art. 17.
+> 1992, ch. 34, art. 17; 2009, ch. 9, art. 17
 
 
 
@@ -513,7 +513,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Perte ou vol**
 
 - **(3)** Si des marchandises dangereuses, en quantité ou concentration supérieure à celle précisée par règlement, sont perdues ou volées au cours d’activités de manutention ou de transport, la personne qui en avait la responsabilité ou la maîtrise effective immédiatement avant le vol ou la perte en fait rapport à toute personne désignée par règlement pour l’application du présent paragraphe.
-> 1992, ch. 34, art. 18; 2009, ch. 9, art. 18.
+> 1992, ch. 34, art. 18; 2009, ch. 9, art. 18
 
 
 
@@ -539,7 +539,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** doivent, aux termes de l’article 7, disposer d’un plan d’intervention d’urgence qui s’applique à un rejet réel ou appréhendé;
 	- **c)** dans le cas d’un rejet réel ou appréhendé, participent à une intervention conformément au plan d’intervention d’urgence agréé en vertu de l’article 7;
 	- **d)** sont à l’origine du rejet réel ou appréhendé ou y contribuent.
-> 1992, ch. 34, art. 19; 2009, ch. 9, art. 19.
+> 1992, ch. 34, art. 19; 2009, ch. 9, art. 19
 
 
 
@@ -555,7 +555,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** qui participe à une intervention à l’occasion d’un rejet réel ou appréhendé auquel s’applique un plan d’intervention d’urgence, qui agit en conformité avec le plan et qui a informé le Centre canadien des urgences en transport du ministère des Transports de sa participation;
 - **b)** qui est tenue d’agir ou de s’abstenir de faire quoi que ce soit aux termes de l’alinéa 7.1a), de l’article 17, du paragraphe 18(2) ou des alinéas 19(1)a) ou b) et qui agit en conséquence;
 - **c)** qui est autorisée à agir en vertu de l’alinéa 7.1b).
-> 1992, ch. 34, art. 20; 2009, ch. 9, art. 19.
+> 1992, ch. 34, art. 20; 2009, ch. 9, art. 19
 
 
 
@@ -590,7 +590,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Diffusion**
 
 - **(6)** Le ministre peut diffuser le rapport de la manière et aux conditions qu’il juge indiquées.
-> 1992, ch. 34, art. 21; 2009, ch. 9, art. 20.
+> 1992, ch. 34, art. 21; 2009, ch. 9, art. 20
 
 
 
@@ -633,7 +633,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 - **(8)** Les poursuites intentées en vertu du présent article se prescrivent par deux ans à compter de la date des faits en cause ou du moment où ils deviennent évidents.
-> 1992, ch. 34, art. 22; 2009, ch. 9, art. 21(F); 2015, ch. 4, art. 123.
+> 1992, ch. 34, art. 22; 2009, ch. 9, art. 21(F); 2015, ch. 4, art. 123
 
 
 
@@ -652,7 +652,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de communication**
 
 - **(2)** Le destinataire de l’avis est tenu de donner au ministre, dans le délai et en la forme que précise l’avis, les renseignements demandés.
-> 1992, ch. 34, art. 23; 2009, ch. 9, art. 22.
+> 1992, ch. 34, art. 23; 2009, ch. 9, art. 22
 
 
 
@@ -683,7 +683,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la personne de qui ils ont été obtenus a donné son consentement écrit, s’il s’agit des renseignements visés à l’alinéa (1)b) et obtenus en application des articles 15 ou 23;
 	- **b)** ils doivent servir à l’exécution et au contrôle d’application de la présente loi, s’il s’agit de renseignements obtenus en application des articles 15 et 23;
 	- **c)** ils doivent être communiqués à un inspecteur ou consultés par lui pour l’analyse des interventions d’urgence ou la formation des inspecteurs, s’il s’agit des renseignements visés à l’alinéa (1)b).
-> 1992, ch. 34, art. 24; 1994, ch. 26, art. 71(F); 2009, ch. 9, art. 23.
+> 1992, ch. 34, art. 24; 1994, ch. 26, art. 71(F); 2009, ch. 9, art. 23
 
 
 
@@ -698,7 +698,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **25** Le ministre peut :
 - **a)** seul ou en collaboration avec tous gouvernements, organismes ou personnes intéressés, canadiens ou non, mettre en oeuvre — et en assurer la coordination avec d’autres programmes canadiens semblables — des programmes de recherches techniques portant sur l’établissement et la révision des indications de sécurité, règles et normes de sécurité et des règlements d’application de la présente loi;
 - **b)** publier et diffuser des renseignements relatifs aux programmes ou leurs résultats de la façon la plus utile au public et aux gouvernements du Canada et des provinces.
-> 1992, ch. 34, art. 25; 2009, ch. 9, art. 36(F).
+> 1992, ch. 34, art. 25; 2009, ch. 9, art. 36(F)
 
 
 
@@ -716,7 +716,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation**
 
 - **(2)** Le ministre peut, avant de fixer la composition des comités consultatifs, procéder aux consultations qu’il estime indiquées auprès du secteur des transports et des secteurs connexes, des gouvernements provinciaux, des groupes et personnes intéressés, ainsi que du public.
-> 1992, ch. 34, art. 26; 2009, ch. 9, art. 36(F).
+> 1992, ch. 34, art. 26; 2009, ch. 9, art. 36(F)
 
 
 
@@ -766,7 +766,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le Code maritime international des marchandises dangereuses de l’Organisation maritime internationale;
 	- **b)** les Instructions techniques pour la sécurité du transport aérien des marchandises dangereuses de l’Organisation de l’aviation civile internationale;
 	- **c)** le titre 49 du code des États-Unis intitulé Code of Federal Regulations.
-> 1992, ch. 34, art. 27; 2009, ch. 9, art. 25.
+> 1992, ch. 34, art. 27; 2009, ch. 9, art. 25
 
 
 
@@ -792,7 +792,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvoi dans les règlements**
 
 - **(2)** Les règlements peuvent renvoyer à tout ou partie d’un document, dans sa version au moment de la prise de ceux-ci.
-> 2009, ch. 9, art. 26.
+> 2009, ch. 9, art. 26
 
 
 
@@ -817,7 +817,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suspension d’application du par. 27.5(1) et abrogation de la mesure de sûreté**
 
 - **(4)** S’il estime que la divulgation de la question faisant l’objet de la mesure ne compromet plus la sûreté des activités mentionnées au paragraphe (1) ou la sécurité publique, il prend les dispositions suivantes :
-	- **a)** il publie dans la Gazette du Canada, dans un délai de vingt-trois jours après s’être formé une opinion, un avis énonçant la teneur de la mesure et précisant que le paragraphe 27.5(1) ne s’applique plus à celle-ci;
+	- **a)** il publie dans la [Gazette du Canada](http://www.gazette.gc.ca/), dans un délai de vingt-trois jours après s’être formé une opinion, un avis énonçant la teneur de la mesure et précisant que le paragraphe 27.5(1) ne s’applique plus à celle-ci;
 	- **b)** il abroge la mesure au plus tard un an après la publication de l’avis ou, si la question fait entre-temps l’objet d’un règlement visé au paragraphe 27.1(1), dès la prise du règlement.
 
 **Effet de l’avis**
@@ -831,7 +831,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(7)** Le paragraphe (6) ne s’applique pas à la mesure de sûreté qui, de l’avis du ministre, est immédiatement requise pour la sûreté de l’importation, de la présentation au transport, de la manutention ou du transport de marchandises dangereuses ou pour la sécurité publique.
-> 2009, ch. 9, art. 26.
+> 2009, ch. 9, art. 26
 
 
 
@@ -846,7 +846,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Période de validité**
 
 - **(2)** La mesure de sûreté entre en vigueur dès sa prise et le demeure pendant quatre-vingt-dix jours, à moins que le ministre ou le sous-ministre ne l’abroge plus tôt.
-> 2009, ch. 9, art. 26; 2015, ch. 3, art. 156(F).
+> 2009, ch. 9, art. 26; 2015, ch. 3, art. 156(F)
 
 
 
@@ -861,7 +861,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité**
 
 - **(2)** Les dispositions des mesures de sûreté l’emportent sur les dispositions incompatibles des règlements visés au paragraphe 27.1(1).
-> 2009, ch. 9, art. 26.
+> 2009, ch. 9, art. 26
 
 
 
@@ -880,7 +880,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordonnance**
 
 - **(3)** S’il conclut que, en l’espèce, l’intérêt du public dans la bonne administration de la justice l’emporte sur l’intérêt de celui-ci dans la sûreté de l’importation, de la présentation au transport, de la manutention ou du transport des marchandises dangereuses, le tribunal ou l’autre organisme ordonne la production et l’examen de la mesure de sûreté, sous réserve des restrictions ou conditions qu’il juge indiquées; il peut en outre enjoindre à toute personne de témoigner au sujet de la mesure.
-> 2009, ch. 9, art. 26.
+> 2009, ch. 9, art. 26
 
 
 
@@ -906,7 +906,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(4)** L’arrêté est publié dans la Gazette du Canada dans les vingt-trois jours suivant sa prise.
+- **(4)** L’arrêté est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dans les vingt-trois jours suivant sa prise.
 
 **Dépôt devant les chambres du Parlement**
 
@@ -915,7 +915,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication au greffier**
 
 - **(6)** Il suffit, pour se conformer à l’obligation prévue au paragraphe (5), de la communiquer au greffier de la chambre dans le cas où celle-ci ne siège pas.
-> 2009, ch. 9, art. 26.
+> 2009, ch. 9, art. 26
 
 
 
@@ -929,12 +929,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contravention d’une mesure de sûreté ou d’un arrêté d’urgence non publié**
 
-- **(2)** Nul ne peut être reconnu coupable d’avoir contrevenu à une mesure de sûreté ou à un arrêté d’urgence qui, à la date du fait reproché, n’avait pas encore été publié dans la Gazette du Canada en application du paragraphe 27.6(4), sauf s’il est établi qu’à cette date les intéressés avaient été avisés de la mesure ou de l’arrêté ou que des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
+- **(2)** Nul ne peut être reconnu coupable d’avoir contrevenu à une mesure de sûreté ou à un arrêté d’urgence qui, à la date du fait reproché, n’avait pas encore été publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) en application du paragraphe 27.6(4), sauf s’il est établi qu’à cette date les intéressés avaient été avisés de la mesure ou de l’arrêté ou que des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
 
 **Certificat**
 
 - **(3)** Le certificat apparemment signé par le ministre ou par le secrétaire du ministère des Transports faisant état qu’un avis accompagné du texte de la mesure de sûreté ou de l’arrêté d’urgence a été communiqué aux intéressés ou que des mesures raisonnables ont été prises pour informer les intéressés de sa teneur, fait foi, sauf preuve contraire, de la communication de l’avis aux intéressés.
-> 2009, ch. 9, art. 26.
+> 2009, ch. 9, art. 26
 
 
 
@@ -955,7 +955,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exemption**
 
 - **(2)** Sa Majesté du chef du Canada ou d’une province et les organismes inscrits à l’annexe II ou III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) sont exemptés des droits.
-> 1992, ch. 34, art. 29; 2009, ch. 9, art. 28.
+> 1992, ch. 34, art. 29; 2009, ch. 9, art. 28
 
 
 
@@ -971,7 +971,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Examen des règlements : Sénat**
 
 - **(4)** Le Comité sénatorial permanent des transports et des communications ou, à défaut, le comité compétent du Sénat peut, de sa propre initiative ou à la suite du dépôt d’une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions au Sénat.
-> 1992, ch. 34, art. 30; 2009, ch. 9, art. 29; 2014, ch. 20, art. 232.
+> 1992, ch. 34, art. 30; 2009, ch. 9, art. 29; 2014, ch. 20, art. 232
 
 
 
@@ -1014,7 +1014,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation du certificat d’équivalence, d’urgence ou temporaire**
 
 - **(6)** Le ministre peut révoquer le certificat d’équivalence, le certificat d’urgence ou le certificat temporaire, y compris celui dont la teneur a été communiquée verbalement, s’il est d’avis que le paragraphe (1), (2) ou (2.1), selon le cas, ne s’applique plus ou si les règlements ont été modifiés au même effet et régissent dorénavant l’activité autorisée par le certificat.
-> 1992, ch. 34, art. 31; 1994, ch. 26, art. 72(F); 2009, ch. 9, art. 30.
+> 1992, ch. 34, art. 31; 1994, ch. 26, art. 72(F); 2009, ch. 9, art. 30
 
 
 
@@ -1033,7 +1033,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation**
 
 - **(3)** Il peut suspendre ou révoquer l’ordre s’il est d’avis qu’il n’est plus nécessaire.
-> 1992, ch. 34, art. 32; 1994, ch. 26, art. 73; 2009, ch. 9, art. 30.
+> 1992, ch. 34, art. 32; 1994, ch. 26, art. 73; 2009, ch. 9, art. 30
 
 
 
@@ -1063,7 +1063,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(3)** Il est entendu qu’un ordre visé à l’alinéa (1)b) n’est pas un texte réglementaire pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), mais nul ne peut être déclaré coupable d’une infraction à l’alinéa (1)b) s’il n’a pas eu notification de l’ordre ou si celui-ci n’est pas conforme aux éventuels règlements d’application de l’alinéa 27(1)t).
-> 1992, ch. 34, art. 33; 2009, ch. 9, art. 30.
+> 1992, ch. 34, art. 33; 2009, ch. 9, art. 30
 
 
 
@@ -1092,7 +1092,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** Quiconque ne se conforme pas à l’ordonnance commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de cinquante mille dollars pour la première infraction et de cent mille dollars par récidive;
 	- **b)** par mise en accusation, un emprisonnement maximal de deux ans.
-> 1992, ch. 34, art. 34; 2009, ch. 9, art. 31.
+> 1992, ch. 34, art. 34; 2009, ch. 9, art. 31
 
 
 
@@ -1101,7 +1101,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 **35** Les poursuites par voie de procédure sommaire se prescrivent par cinq ans à compter de la date de survenance de l’événement.
-> 1992, ch. 34, art. 35; 2009, ch. 9, art. 32.
+> 1992, ch. 34, art. 35; 2009, ch. 9, art. 32
 
 
 
@@ -1124,7 +1124,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve de l’infraction**
 
 **38** Dans toute poursuite pour infraction, il suffit, pour établir l’infraction, de prouver qu’elle a été commise par un salarié ou un mandataire de l’accusé, que ce salarié ou mandataire ait été ou non identifié ou poursuivi.
-> 1992, ch. 34, art. 38; 2009, ch. 9, art. 33(A).
+> 1992, ch. 34, art. 38; 2009, ch. 9, art. 33(A)
 
 
 
@@ -1133,7 +1133,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dirigeants d’une organisation**
 
 **39** En cas de perpétration d’une infraction par une organisation, ceux de ses représentants jouant un rôle important dans l’élaboration des orientations de l’organisation ou assurant la gestion d’un important domaine d’activités de celle-ci — les dirigeants, administrateurs ou mandataires dans le cas d’un corps constitué — qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que l’organisation ait été ou non poursuivie.
-> 1992, ch. 34, art. 39; 2009, ch. 9, art. 34.
+> 1992, ch. 34, art. 39; 2009, ch. 9, art. 34
 
 
 
@@ -1170,7 +1170,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve prima facie**
 
 **42** Dans toute poursuite pour infraction, l’indication de marchandises dangereuses, ou une indication susceptible d’être confondue avec une telle indication de marchandises dangereuses, apparaissant sur un contenant ou sur un moyen de transport, ou les renseignements sur le registre d’expédition les accompagnant, font foi de la présence et de l’identification des marchandises dangereuses, sauf preuve contraire.
-> 1992, ch. 34, art. 42; 2009, ch. 9, art. 35.
+> 1992, ch. 34, art. 42; 2009, ch. 9, art. 35
 
 
 
@@ -1229,6 +1229,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Classe 9 :** Produits, substances ou organismes dont la manutention ou le transport présentent, selon le gouverneur en conseil, des risques de dommages corporels ou matériels ou de dommages à l’environnement et qui sont inclus par règlement dans la présente classe.
 
 
-> 1992, ch. 34, ann.; 1997, ch. 9, art. 123.
+> 1992, ch. 34, ann.; 1997, ch. 9, art. 123
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2009, ch. 9, art. 5
+
+**5** La même loi est modifiée par adjonction, après l’article 5.1, de ce qui suit :
+
+### Habilitations de sécurité en matière de transport
+
+
+**Interdiction**
+
+**5.2** 
+
+- **(1)** Il est interdit à toute personne désignée par règlement de se livrer à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses, en quantité ou concentration — ou plage de quantités ou de concentrations — précisée par règlement, à moins d’être titulaire d’une habilitation de sécurité en matière de transport octroyée en vertu du paragraphe (2).
+
+**Octroi, refus, etc.**
+
+- **(2)** Le ministre peut, pour l’application de la présente loi, octroyer, refuser, suspendre ou révoquer une habilitation de sécurité en matière de transport.
+
+
+
 
 
