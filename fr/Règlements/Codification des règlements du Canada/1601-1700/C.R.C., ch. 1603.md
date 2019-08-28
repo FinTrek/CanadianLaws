@@ -158,7 +158,7 @@ mais ne comprend en aucun cas
 
 **4** 
 
-- **(1)** Dès que le directeur lui en a fait demande par écrit, le demandeur doit faire publier à ses propres frais un avis de sa demande dans au moins un numéro de la Gazette du Canada, ainsi que dans un ou plusieurs numéros de telles publications que le directeur pourra indiquer.
+- **(1)** Dès que le directeur lui en a fait demande par écrit, le demandeur doit faire publier à ses propres frais un avis de sa demande dans au moins un numéro de la [Gazette du Canada](http://www.gazette.gc.ca/), ainsi que dans un ou plusieurs numéros de telles publications que le directeur pourra indiquer.
 
 - **(2)** Cet avis doit porter en tête, en lettres bien lisibles, les mots «Demande de force hydraulique du Dominion», être libellé selon une formule approuvée par le directeur et donner, en substance, les renseignements suivants :
 	- **a)** le nom et l’adresse du demandeur;
@@ -308,7 +308,7 @@ le ministre peut délivrer au demandeur un permis de priorité lui conférant la
 	- **c)** tout réclamant réellement en possession et autre que le propriétaire enregistré, le créancier hypothécaire ou le preneur à bail.
 
 - **(4)** Si le directeur l’exige, les arpentages et enquêtes requis par le présent article doivent être faits par le Service des levés officiels, ministère de l’Énergie, des Mines et des Ressources, auquel cas le concessionnaire intérimaire rembourse à Sa Majesté la totalité des salaires et frais payés à l’égard de ces arpentages, sur présentation, au concessionnaire intérimaire, de comptes y afférents dûment certifiés.
-> 1998, ch. 14, art. 101(F).
+> 1998, ch. 14, art. 101(F)
 
 
 
@@ -1089,9 +1089,11 @@ le ministre peut, après qu’un avis de 60 jours a été signifié au concessio
 
 
 **67** Nonobstant tous droits conférés ou toute approbation donnée par une concession quelconque, tout concessionnaire doit
-- **a)** se conformer intégralement à la Loi sur la protection des eaux navigables ainsi qu’à la totalité des règlements et des ordonnances promulgués sous son empire;
+- **a)** se conformer intégralement à la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) ainsi qu’à la totalité des règlements et des ordonnances promulgués sous son empire;
 - **b)** se conformer intégralement à tout statut provincial ou fédéral, ou règlement régissant la préservation de la pureté des eaux, ou régissant les entreprises d’exploitation de bois, entreprises forestières, entreprises de pêche ou autres entreprises présentes ou futures, susceptibles d’être atteintes par les opérations poursuivies sous l’autorité de sa concession; et
 - **c)** observer et exécuter toutes les instructions du ministre relatives à l’une quelconque des matières mentionnées aux alinéas a) et b) et non incompatibles avec lesdits statuts et règlements.
+> 2019, ch. 28, art. 187
+
 
 
 
