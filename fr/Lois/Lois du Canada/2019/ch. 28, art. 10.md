@@ -8,7 +8,7 @@
 Sanctionnée sur le 21 juin 2019
 
 ```
-[Édictée par l’article 10 du chapitre 28 des Lois du Canada (2019), non en vigueur.]
+[Édictée par l’article 10 du chapitre 28 des Lois du Canada (2019), en vigueur le 28 août 2019, voir TR/2019-86.]
 ```
 ----------
 
@@ -150,7 +150,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***zone extracôtière*** S’entend :
 - **a)** de la partie des eaux intérieures du Canada — ou de la mer territoriale du Canada — qui ne se trouve pas, selon le cas :
 	- **(i)** dans une province autre que les Territoires du Nord-Ouest,
-	- **(ii)** dans la région intracôtière, au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md);
+	- **(ii)** dans la région intracôtière, au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-27.md);
 - **b)** du plateau continental du Canada et des eaux surjacentes au fond de ce plateau. (*offshore area*)
 
 
@@ -281,7 +281,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **12** 
 
-- **(1)** La Régie agit, jusqu’au 31 mars 2034, à titre d’organisme de réglementation, au titre de toute loi de la Législature des Territoires du Nord-Ouest édictée en vertu des alinéas 19(1)a), b) ou c) de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md), à l’égard de toute partie de la région désignée des Inuvialuits, au sens de l’article 2 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), comprise dans la région intracôtière, au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md).
+- **(1)** La Régie agit, jusqu’au 31 mars 2034, à titre d’organisme de réglementation, au titre de toute loi de la Législature des Territoires du Nord-Ouest édictée en vertu des alinéas 19(1)a), b) ou c) de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-27.md), à l’égard de toute partie de la région désignée des Inuvialuits, au sens de l’article 2 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), comprise dans la région intracôtière, au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-27.md).
 
 **Prorogation et abrégement**
 
@@ -302,7 +302,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication et dépôt**
 
-- **(3)** Une copie des décrets est publiée dans la Gazette du Canada et déposée devant chaque chambre du Parlement.
+- **(3)** Une copie des décrets est publiée dans la [Gazette du Canada](http://www.gazette.gc.ca/) et déposée devant chaque chambre du Parlement.
 
 
 
@@ -2347,7 +2347,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis public**
 
-**145** Sans délai après la constitution du Tribunal, la Régie fait connaître au public, tel que le Tribunal juge indiquée, la mission de ce Tribunal et la façon d’obtenir des renseignements sur la présentation d’une demande d’indemnisation et fait publier dans la Gazette du Canada un avis à cet effet.
+**145** Sans délai après la constitution du Tribunal, la Régie fait connaître au public, tel que le Tribunal juge indiquée, la mission de ce Tribunal et la façon d’obtenir des renseignements sur la présentation d’une demande d’indemnisation et fait publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) un avis à cet effet.
 
 
 
@@ -2685,7 +2685,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(3)** Le ministre publie sans délai dans la Gazette du Canada un avis indiquant la partie des sommes prévue par le ministre des Finances.
+- **(3)** Le ministre publie sans délai dans la [Gazette du Canada](http://www.gazette.gc.ca/) un avis indiquant la partie des sommes prévue par le ministre des Finances.
 
 **Remboursement**
 
@@ -2971,7 +2971,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(10)** L’arrêté pris en vertu du paragraphe (8) est publié dans la Gazette du Canada dans les quinze jours suivant la date de sa prise.
+- **(10)** L’arrêté pris en vertu du paragraphe (8) est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dans les quinze jours suivant la date de sa prise.
 
 **Caractère définitif**
 
@@ -2996,7 +2996,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(4)** Le décret est publié dans la Gazette du Canada dans les quinze jours suivant la date de sa prise.
+- **(4)** Le décret est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dans les quinze jours suivant la date de sa prise.
 
 **Obligation de la Commission**
 
@@ -3066,7 +3066,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(6)** Le décret pris en vertu du paragraphe (1) est publié dans la Gazette du Canada dans les quinze jours suivant la date de sa prise.
+- **(6)** Le décret pris en vertu du paragraphe (1) est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dans les quinze jours suivant la date de sa prise.
 
 
 
@@ -3087,7 +3087,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Demande d’autorisation**
 
 - **(2)** Les règles ci-après s’appliquent à la demande d’autorisation :
-	- **a)** elle est déposée au greffe de la Cour d’appel fédérale — la Cour — dans les quinze jours suivant la date de la publication du décret dans la Gazette du Canada;
+	- **a)** elle est déposée au greffe de la Cour d’appel fédérale — la Cour — dans les quinze jours suivant la date de la publication du décret dans la [Gazette du Canada](http://www.gazette.gc.ca/);
 	- **b)** le délai peut toutefois être prorogé, pour motifs spéciaux, par un juge de la Cour;
 	- **c)** un juge de la Cour statue sur la demande sans délai et selon la procédure sommaire et, sauf autorisation d’un juge de la Cour, sans comparution en personne.
 
@@ -3156,7 +3156,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication du décret**
 
-**194** Le décret visé aux articles 191 ou 192 est publié dans la Gazette du Canada dans les quinze jours suivant la date de sa prise.
+**194** Le décret visé aux articles 191 ou 192 est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dans les quinze jours suivant la date de sa prise.
 
 
 
@@ -4046,7 +4046,7 @@ où :
 
 **249** 
 
-- **(1)** Le demandeur fait publier un avis de la demande dans la Gazette du Canada et dans toutes autres publications que la Commission estime indiquées.
+- **(1)** Le demandeur fait publier un avis de la demande dans la [Gazette du Canada](http://www.gazette.gc.ca/) et dans toutes autres publications que la Commission estime indiquées.
 
 **Dispense**
 
@@ -4600,7 +4600,7 @@ où :
 
 **Publication du décret**
 
-**284** Le décret visé aux articles 281 ou 282 est publié dans la Gazette du Canada dans les quinze jours de sa prise.
+**284** Le décret visé aux articles 281 ou 282 est publié dans la [Gazette du Canada](http://www.gazette.gc.ca/) dans les quinze jours de sa prise.
 
 
 
@@ -4794,7 +4794,7 @@ où :
 
 **Application**
 
-- **(2)** En ce qui a trait aux Territoires du Nord-Ouest, toute mention de « dans une province » dans la présente partie vaut mention de « dans la région intracôtière, au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md) ».
+- **(2)** En ce qui a trait aux Territoires du Nord-Ouest, toute mention de « dans une province » dans la présente partie vaut mention de « dans la région intracôtière, au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-27.md) ».
 
 
 
@@ -5229,12 +5229,15 @@ où :
 **Consentement du gouverneur en conseil**
 
 - **(3)** La compagnie ne peut prendre possession des terrains ci-après, ni les utiliser ou les occuper, sans le consentement du gouverneur en conseil :
-	- **a)** les terres de catégories IA et IA-N, au sens de la Loi sur les Cris et les Naskapis du Québec;
+	- **a)** les terres de catégorie 1A-N, au sens du paragraphe 2(1) de la [Loi sur les Naskapis et la Commission crie-naskapie](/fr/Lois/Lois%20du%20Canada/1984/ch.%2018.md);
+	- **a.1)** les terres de catégorie 1A, au sens du paragraphe 2(2) de la [Loi sur l’accord concernant la gouvernance de la nation crie d’Eeyou Istchee](/fr/Lois/Lois%20du%20Canada/2018/ch.%204,%20art.%201.md);
 	- **b)** les terres secheltes, au sens de la [Loi sur l’autonomie gouvernementale de la bande indienne sechelte](/fr/Lois/Lois%20du%20Canada/1986/ch.%2027.md).
 
 **Indemnité**
 
 - **(4)** La prise de possession, l’occupation ou l’utilisation par une compagnie des terrains visés aux paragraphes (1) ou (3), ou les dommages que leur cause la construction du pipeline, donne lieu au paiement d’une indemnité par cette compagnie.
+> 2019, ch. 28, art. 10 « 317 »2018, ch. 4, art. 135
+
 
 
 
@@ -5915,7 +5918,7 @@ où :
 
 **357** 
 
-- **(1)** Le demandeur fait publier un avis de la demande dans la Gazette du Canada et toute autre publication que la Commission estime indiquée.
+- **(1)** Le demandeur fait publier un avis de la demande dans la [Gazette du Canada](http://www.gazette.gc.ca/) et toute autre publication que la Commission estime indiquée.
 
 **Dispense**
 
@@ -6533,5 +6536,478 @@ où :
 **Examen de la loi après dix ans**
 
 **392** Dix ans après la date de l’entrée en vigueur de la présente loi, un examen approfondi de ses dispositions et de son application est fait par un comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2019, ch. 28, art. 11
+
+
+**Définitions**
+
+**11** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article et aux articles 12 à 43.
+
+***date d’entrée en vigueur*** La date à laquelle la Loi sur la Régie canadienne de l’énergie entre en vigueur. (*commencement day*)
+
+***Office*** L’Office national de l’énergie constitué par l’article 3 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) dans sa version antérieure à la date d’entrée en vigueur. (*National Energy Board*)
+
+***Régie*** La Régie canadienne de l’énergie constituée par l’article 10 de la Loi sur la Régie canadienne de l’énergie. (*Regulator*)
+
+**Terminologie — [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md)**
+
+- **(2)** Sauf indication contraire, les termes utilisés aux articles 16 à 32 s’entendent au sens de l’article 2 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+
+
+
+######           — 2019, ch. 28, art. 12
+
+
+**Fin des mandats**
+
+**12** 
+
+- **(1)** Le mandat des membres permanents de l’Office qui ont été nommés au titre du paragraphe 3(2) de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), dans sa version antérieure à la date d’entrée en vigueur, et qui occupent leur charge immédiatement avant cette date prend fin à cette même date.
+
+**Rémunération**
+
+- **(2)** Le membre dont le mandat prend ainsi fin et qui n’est pas nommé à titre de commissaire au titre du paragraphe 28(1) de la Loi sur la Régie canadienne de l’énergie a droit au moins élevé des montants suivants :
+	- **a)** une somme équivalant à douze mois de rémunération à titre de membre permanent de l’Office;
+	- **b)** une somme équivalant à la rémunération à laquelle il aurait eu droit pour la durée de son mandat qui reste à courir.
+
+
+
+######           — 2019, ch. 28, art. 13
+
+
+**Fin des mandats**
+
+**13** 
+
+- **(1)** Le mandat des membres temporaires de l’Office qui ont été nommés en vertu du paragraphe 4(1) de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), dans sa version antérieure à la date d’entrée en vigueur, et qui occupent leur charge à cette date prend fin à cette même date.
+
+**Absence de droit à réclamation**
+
+- **(2)** Malgré les dispositions de tout contrat, accord ou décret, les personnes qui ont été nommées membres temporaires de l’Office n’ont aucun droit de réclamer ou de recevoir une compensation, des dommages-intérêts, une indemnité ou toute autre forme de dédommagement de Sa Majesté du chef du Canada ou de ses employés ou mandataires parce que leur mandat a pris fin ou en raison de l’abolition de leur poste par application de la présente loi.
+
+
+
+######           — 2019, ch. 28, art. 14
+
+
+**Conclusion des affaires en instance — membres de l’Office national de l’énergie**
+
+**14** 
+
+- **(1)** Toute personne visée aux paragraphes 12(1) ou 13(1) peut, à la demande du commissaire en chef désigné au titre de l’article 37 de la Loi sur la Régie canadienne de l’énergie, continuer à entendre et trancher toute affaire dont elle a été saisie avant la date d’entrée en vigueur; elle est alors considérée agir à titre de commissaire pour l’application de cette présente loi.
+
+**Refus**
+
+- **(2)** En cas de refus de cette personne, la Commission visée à l’article 26 de la Loi sur la Régie canadienne de l’énergie se saisit de l’affaire.
+
+**Rémunération et frais**
+
+- **(3)** Cette personne a droit, pour entendre et trancher une affaire visée au paragraphe (1) :
+	- **a)** à la rémunération que peut fixer le gouverneur en conseil;
+	- **b)** aux frais de déplacement ou autres entraînés par l’accomplissement de ses fonctions hors de son lieu de résidence habituel.
+
+**Date limite**
+
+- **(4)** Le commissaire en chef peut dessaisir toute personne visée aux paragraphes 12(1) ou 13(1) d’une affaire visée au paragraphe (1) qui n’est pas réglée dans l’année suivant la date d’entrée en vigueur et la confier, au titre de l’article 38 de la Loi sur la Régie canadienne de l’énergie, à une formation de la Commission selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
+
+**Paragraphe 28(2) de la Loi sur la Régie canadienne de l’énergie**
+
+- **(5)** La période au cours de laquelle la personne visée aux paragraphes 12(1) ou 13(1) est considérée agir à titre de commissaire pour l’application du présent article n’est pas comprise dans le calcul de la période maximale de dix ans prévue au paragraphe 28(2) de la Loi sur la Régie canadienne de l’énergie.
+
+
+
+######           — 2019, ch. 28, art. 15
+
+
+**Personnel de l’Office**
+
+**15** La présente loi ne change rien à la situation des membres du personnel de l’Office à la date d’entrée en vigueur, à la différence près que, à compter de cette date, ils sont membres du personnel de la Régie.
+
+
+
+######           — 2019, ch. 28, art. 16
+
+
+**Convention collective ou décision arbitrale maintenue**
+
+**16** 
+
+- **(1)** Sous réserve des articles 17 à 28, la convention collective ou décision arbitrale qui s’applique aux fonctionnaires occupant un poste au sein de l’Office immédiatement avant la date d’entrée en vigueur et qui est toujours en vigueur à cette date est maintenue en vigueur jusqu’à la date prévue pour son expiration.
+
+**Effet obligatoire**
+
+- **(2)** La convention collective ou décision arbitrale maintenue par application du paragraphe (1) lie, à la fois :
+	- **a)** la Régie, comme si cette dernière y était mentionnée à titre d’employeur;
+	- **b)** l’agent négociateur qui est partie à la convention collective ou à la décision arbitrale;
+	- **c)** les fonctionnaires de la Régie qui font partie de l’unité de négociation pour laquelle cet agent négociateur a été accrédité.
+
+**Modifications permises**
+
+- **(3)** Les paragraphes (1) et (2) n’ont pas pour effet d’empêcher la modification, par la Régie et l’agent négociateur, des dispositions d’une convention collective maintenue en vigueur par application du paragraphe (1), exception faite de celle qui en fixe la date d’expiration.
+
+
+
+######           — 2019, ch. 28, art. 17
+
+
+**Demande d’accréditation**
+
+**17** Toute organisation syndicale peut demander à la Commission son accréditation à titre d’agent négociateur des fonctionnaires liés par la convention collective ou décision arbitrale maintenue en vigueur par application du paragraphe 16(1); elle ne peut toutefois le faire qu’au cours de la période pendant laquelle il est permis, aux termes de l’article 54 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), de solliciter l’accréditation à l’égard de ces fonctionnaires.
+
+
+
+######           — 2019, ch. 28, art. 18
+
+
+**Pouvoirs de la Commission**
+
+**18** 
+
+- **(1)** Si une convention collective ou une décision arbitrale est maintenue en vigueur par application du paragraphe 16(1), la Commission doit, sur demande de la Régie ou de tout agent négociateur touché par la constitution de la Régie, rendre une ordonnance par laquelle elle décide :
+	- **a)** si les fonctionnaires de la Régie qui sont liés par la convention collective ou la décision arbitrale constituent une ou plusieurs unités habiles à négocier collectivement;
+	- **b)** quelle organisation syndicale sera l’agent négociateur des fonctionnaires de chacune de ces unités;
+	- **c)** si chacune des conventions collectives ou décisions arbitrales qui lient ces fonctionnaires restera en vigueur et, dans l’affirmative, si celle-ci le restera jusqu’à la date d’expiration qui y est fixée ou jusqu’à la date antérieure que la Commission fixe.
+
+**Délai de présentation de la demande**
+
+- **(2)** La demande ne peut être présentée qu’au cours de la période commençant le cent vingtième jour suivant la date d’entrée en vigueur et se terminant le cent cinquantième jour suivant cette date.
+
+
+
+######           — 2019, ch. 28, art. 19
+
+
+**Demande d’autorisation de donner un avis de négocier collectivement**
+
+**19** 
+
+- **(1)** Si la Commission décide, en vertu de l’alinéa 18(1)c), qu’une convention collective ou une décision arbitrale restera en vigueur, l’une des parties à celle-ci peut lui demander de lui permettre, par ordonnance, de donner à l’autre partie, au titre de l’article 105 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), un avis de négocier collectivement.
+
+**Délai de présentation de la demande**
+
+- **(2)** La demande doit être présentée dans les quatre-vingt-dix jours suivant celui où la décision de la Commission a été rendue en application de l’alinéa 18(1)c).
+
+
+
+######           — 2019, ch. 28, art. 20
+
+
+**Pas de demande dans le délai fixé**
+
+**20** 
+
+- **(1)** Si la demande visée au paragraphe 18(1) n’est pas présentée dans le délai fixé au paragraphe 18(2), la Régie ou tout agent négociateur lié par une convention collective ou une décision arbitrale qui est maintenue en vigueur par application du paragraphe 16(1) peut demander à la Commission de lui permettre, par ordonnance, de donner à l’autre partie, au titre de l’article 105 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), un avis de négocier collectivement.
+
+**Délai de présentation de la demande**
+
+- **(2)** La demande ne peut être présentée qu’au cours de la période commençant le cent cinquante et unième jour suivant la date d’entrée en vigueur et se terminant le deux cent quarantième jour suivant cette date.
+
+
+
+######           — 2019, ch. 28, art. 21
+
+
+**Caducité de l’avis donné avant la date d’entrée en vigueur**
+
+**21** La Régie n’est pas liée par l’avis de négocier collectivement donné avant la date d’entrée en vigueur et un nouvel avis ne peut être donné que dans les circonstances prévues à l’alinéa 23b).
+
+
+
+######           — 2019, ch. 28, art. 22
+
+
+**Obligation de respecter les conditions d’emploi**
+
+**22** Si un avis de négocier collectivement a été donné avant la date d’entrée en vigueur, les conditions d’emploi maintenues en vigueur en vertu de l’article 107 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) lient, à partir de cette date, la Régie, l’agent négociateur et les fonctionnaires de l’unité de négociation, sauf entente à l’effet contraire entre la Régie et l’agent négociateur :
+- **a)** dans le cas où aucune demande n’a été présentée au titre de l’alinéa 23a), jusqu’à l’expiration du cent cinquantième jour suivant la date d’entrée en vigueur;
+- **b)** dans le cas contraire, jusqu’à la date où l’avis mentionné à l’alinéa 23b) est donné.
+
+
+
+######           — 2019, ch. 28, art. 23
+
+
+**Demande et avis de négocier collectivement**
+
+**23** Si un avis de négocier collectivement est donné avant la date d’entrée en vigueur :
+- **a)** sur demande de la Régie ou de l’agent négociateur, présentée au cours de la période qui commence le cent vingtième jour suivant la date d’entrée en vigueur et qui se termine le cent cinquantième jour suivant cette date, la Commission rend une ordonnance par laquelle elle décide :
+	- **(i)** si les fonctionnaires de la Régie qui sont représentés par l’agent négociateur constituent une ou plusieurs unités habiles à négocier collectivement,
+	- **(ii)** quelle organisation syndicale sera l’agent négociateur des fonctionnaires de chacune de ces unités;
+- **b)** dans les cas où la Commission rend une ordonnance dans le cadre de l’alinéa a), la Régie ou l’agent négociateur peut transmettre à l’autre partie, au titre de l’article 105 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), un avis de négocier collectivement en vue de la conclusion d’une convention collective.
+
+
+
+######           — 2019, ch. 28, art. 24
+
+
+**Enquêtes et scrutin**
+
+**24** La Commission peut, avant de rendre son ordonnance dans le cadre du paragraphe 18(1) ou de l’alinéa 23a), faire enquête et ordonner la tenue d’un scrutin de représentation parmi les fonctionnaires concernés.
+
+
+
+######           — 2019, ch. 28, art. 25
+
+
+**Prise en considération de la classification**
+
+**25** 
+
+- **(1)** Pour l’application des alinéas 18(1)a) et 23a), la Commission tient compte, pour décider si un groupe de fonctionnaires constitue une unité habile à négocier collectivement, de la classification des postes établis par la Régie et de celle des personnes que celle-ci emploie, notamment des groupes ou sous-groupes professionnels qu’elle a établis.
+
+**Unités correspondant aux groupes professionnels**
+
+- **(2)** La Commission est tenue de définir des unités de négociation correspondant aux groupes ou sous-groupes professionnels établis par la Régie, sauf dans le cas où celles-ci ne constitueraient pas des unités habiles à négocier collectivement au motif qu’elles ne permettraient pas une représentation adéquate des fonctionnaires qui en font partie.
+
+
+
+######           — 2019, ch. 28, art. 26
+
+
+**Appartenance ou non aux unités de négociation**
+
+**26** À la demande de la Régie ou de l’organisation syndicale touchée par la constitution de la Régie, cette dernière se prononce sur toute question soulevée quant à l’appartenance de tout fonctionnaire ou de toute catégorie de fonctionnaires à une unité de négociation qu’elle a définie au titre des alinéas 18(1)a) ou 23a), ou quant à leur appartenance à toute autre unité.
+
+
+
+######           — 2019, ch. 28, art. 27
+
+
+**Participation de l’employeur**
+
+**27** 
+
+- **(1)** Les alinéas 18(1)b) ou 23a) n’autorisent pas la Commission à décider qu’une organisation syndicale donnée sera l’agent négociateur si elle estime que la Régie ou toute personne agissant en son nom a participé ou participe à la formation ou à l’administration de l’organisation syndicale et que cela compromet l’aptitude de cette organisation à défendre les intérêts des fonctionnaires qui font partie de l’unité de négociation.
+
+**Discrimination**
+
+- **(2)** Les alinéas 18(1)b) ou 23a) n’autorisent pas la Commission à décider qu’une organisation syndicale sera l’agent négociateur si celle-ci fait, à l’égard de tout fonctionnaire, des distinctions fondées sur un motif illicite aux termes de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md).
+
+
+
+######           — 2019, ch. 28, art. 28
+
+
+**Application de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md)**
+
+**28** 
+
+- **(1)** Les dispositions de la partie 1 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ainsi que toute règle établie et tout règlement pris en vertu de cette loi s’appliquent à l’égard de ce qui suit et de toute question connexe :
+	- **a)** les demandes présentées à la Commission en vertu de l’un ou l’autre des articles 17 à 20, 23 et 26;
+	- **b)** les ordonnances rendues par la Commission en vertu de l’un ou l’autre des articles 18 à 20 et 23;
+	- **c)** les décisions prises par la Commission en vertu de l’un ou l’autre des articles 18, 23 et 26, ainsi que les unités de négociation, agents négociateurs ou fonctionnaires ou catégories de fonctionnaires qui font l’objet de ces décisions;
+	- **d)** les conventions collectives ou décisions arbitrales maintenues en vigueur par application du paragraphe 16(1);
+	- **e)** les négociations collectives entamées après la réception de l’avis visé aux articles 19 ou 20 ou à l’alinéa 23b), ainsi que les conventions collectives conclues à la suite de ces négociations.
+
+**Attributions de la Commission**
+
+- **(2)** Pour l’exercice de ses fonctions au titre de l’un ou l’autre des articles 17 à 27, la Commission dispose des pouvoirs qui lui sont conférés sous le régime de la partie 1 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) et exerce, à l’égard de ces pouvoirs, les fonctions qui lui sont imposées sous le régime de cette partie.
+
+**Incompatibilité**
+
+- **(3)** Les articles 17 à 27 l’emportent sur les dispositions incompatibles de la partie 1 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), des textes d’application de cette loi ou de toute autre mesure prise sous son régime.
+
+
+
+######           — 2019, ch. 28, art. 29
+
+
+**Personnes non représentées**
+
+**29** Les conditions d’emploi s’appliquant aux personnes non représentées par un agent négociateur ou exclues d’une unité de négociation qui, à la date d’entrée en vigueur, occupent un poste au sein de la Régie continuent de s’appliquer jusqu’à l’établissement de nouvelles conditions d’emploi pour ces personnes.
+
+
+
+######           — 2019, ch. 28, art. 30
+
+
+**Plaintes**
+
+**30** Les dispositions de la section 13 de la partie 1 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ainsi que toute règle établie et tout règlement pris en vertu de cette loi, dans leur version antérieure à la date d’entrée en vigueur, continuent de s’appliquer à l’égard de toute plainte déposée sous le régime de cette section avant cette date et liée à l’Office.
+
+
+
+######           — 2019, ch. 28, art. 31
+
+
+**Griefs**
+
+**31** 
+
+- **(1)** Les dispositions de la partie 2 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ainsi que toute règle établie et tout règlement pris en vertu de cette loi, dans leur version antérieure à la date d’entrée en vigueur, continuent de s’appliquer à l’égard de tout grief présenté sous le régime de cette partie avant cette date par un fonctionnaire de l’Office.
+
+**Exécution de la décision**
+
+- **(2)** La décision définitive rendue sur un grief visé au paragraphe (1) et prévoyant la réintégration d’un fonctionnaire ou le versement d’une somme d’argent à un fonctionnaire est exécutée par la Régie dans les meilleurs délais.
+
+
+
+######           — 2019, ch. 28, art. 32
+
+
+**Renvoi à la Commission**
+
+**32** Les dispositions de la partie 2 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ainsi que toute règle établie et tout règlement pris en vertu de cette loi, dans leur version antérieure à la date d’entrée en vigueur, continuent de s’appliquer à l’égard de toute affaire renvoyée à la Commission sous le régime de cette partie avant cette date et liée à l’Office.
+
+
+
+######           — 2019, ch. 28, art. 33
+
+
+**Décisions et ordonnances**
+
+**33** Les décisions ou ordonnances rendues par l’Office sont considérées l’avoir été sous le régime de la Loi sur la Régie canadienne de l’énergie, notamment pour ce qui est de leur exécution.
+
+
+
+######           — 2019, ch. 28, art. 34
+
+
+**Certificats, licences et permis**
+
+**34** 
+
+- **(1)** Les certificats, licences et permis délivrés par l’Office sont considérés l’avoir été sous le régime de Loi sur la Régie canadienne de l’énergie et ils demeurent en vigueur jusqu’à l’expiration de la période pendant laquelle ils auraient été valides si cette loi n’était pas entrée en vigueur, à moins d’être suspendus ou révoqués sous le régime cette loi.
+
+**Suspension**
+
+- **(2)** Ceux de ces certificats, licences et permis qui étaient suspendus à la date d’entrée en vigueur sont considérés être suspendus sous le régime de la Loi sur la Régie canadienne de l’énergie.
+
+
+
+######           — 2019, ch. 28, art. 35
+
+
+**Autorisations**
+
+**35** Les autorisations délivrées par l’Office sont considérées l’avoir été sous le régime de la Loi sur la Régie canadienne de l’énergie.
+
+
+
+######           — 2019, ch. 28, art. 36
+
+
+**Demandes en instance**
+
+**36** Les demandes qui sont en instance devant l’Office à la date d’entrée en vigueur sont poursuivies devant la Commission de la Régie conformément à la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) dans sa version antérieure à cette date.
+
+
+
+######           — 2019, ch. 28, art. 36.1
+
+
+**Précision**
+
+**36.1** Il est entendu que l’article 182.1 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) s’applique relativement aux demandes en instance visées à l’article 36.
+
+
+
+######           — 2019, ch. 28, art. 37
+
+
+**Périodes exclues en l’absence de règlements — partie 3**
+
+**37** 
+
+- **(1)** Avant l’entrée en vigueur du premier règlement d’application des paragraphes 183(5) ou 214(5) de la Loi sur la Régie canadienne de l’énergie, le commissaire en chef peut exercer les pouvoirs que ces paragraphes lui confèrent dans les circonstances où il l’estime indiqué.
+
+**Périodes exclues en l’absence de règlements — partie 4**
+
+- **(2)** Avant l’entrée en vigueur du premier règlement d’application du paragraphe 262(6) de la Loi sur la Régie canadienne de l’énergie, le commissaire en chef peut exercer le pouvoir que ce paragraphe lui confère dans les circonstances où il l’estime indiqué.
+
+**Périodes exclues en l’absence de règlements — partie 5**
+
+- **(3)** Avant l’entrée en vigueur du premier règlement d’application du paragraphe 298(6) de la Loi sur la Régie canadienne de l’énergie, le commissaire en chef peut exercer le pouvoir que ce paragraphe lui confère dans les circonstances où il l’estime indiqué.
+
+
+
+######           — 2019, ch. 28, art. 38
+
+
+**Copies conformes**
+
+**38** Pour l’application des articles 198, 208 et 265 de la Loi sur la Régie canadienne de l’énergie, la copie d’un document certifiée conforme par le secrétaire de l’Office est considérée comme l’ayant été par la Régie sous le régime de cette loi.
+
+
+
+######           — 2019, ch. 28, art. 39
+
+
+**Terrains — consentement non requis**
+
+**39** N’est pas tenue d’obtenir le consentement visé au paragraphe 317(1) de la Loi sur la Régie canadienne de l’énergie relativement à des terrains la personne ou la compagnie qui, avant la date d’entrée en vigueur, selon le cas :
+- **a)** avait pris possession de ceux-ci, ou les avait utilisés ou occupés;
+- **b)** avait obtenu l’autorisation, au titre de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), dans sa version antérieure à la date d’entrée en vigueur, d’y construire ou d’y exploiter un pipeline ou une ligne de transport d’électricité.
+
+
+
+######           — 2019, ch. 28, art. 40
+
+
+**Article 112 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md)**
+
+**40** L’article 112 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), dans sa version antérieure à la date d’entrée en vigueur, continue de s’appliquer à l’égard des questions d’indemnité relatives aux pipelines à l’égard desquels a été reçue par l’Office avant cette date :
+- **a)** soit une demande de certificat en application du paragraphe 52(1) de cette loi, dans sa version antérieure cette date;
+- **b)** soit une demande de rendre l’ordonnance visée au paragraphe 58(1) de cette loi, dans sa version antérieure cette date.
+
+
+
+######           — 2019, ch. 28, art. 41
+
+
+**Demandes pendantes**
+
+**41** Toute demande à l’égard de laquelle un avis a été signifié au ministre, avant la date d’entrée en vigueur, au titre des paragraphes 88(1) ou 90(1) de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), dans leur version antérieure à cette date, est poursuivie conformément à ces paragraphes.
+
+
+
+######           — 2019, ch. 28, art. 42
+
+
+**Importation de pétrole ou gaz**
+
+**42** 
+
+- **(1)** La section I de la partie VI de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), dans sa version antérieure à la date d’entrée en vigueur, continue de s’appliquer à l’importation de pétrole ou de gaz jusqu’au troisième anniversaire de cette date ou jusqu’à la date de la prise du règlement visé à l’article 352 de la Loi sur la Régie canadienne de l’énergie, selon celui de ces évènements qui est antérieur à l’autre.
+
+**Interprétation**
+
+- **(2)** Pour l’application du paragraphe (1), dans la section I de la partie VI de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), toute mention de l’Office national de l’énergie vaut mention de la Régie ou de la Commission de la Régie, selon le cas.
+
+
+
+######           — 2019, ch. 28, art. 42.1
+
+
+**Renvois**
+
+**42.1** Sauf indication contraire du contexte, dans tous les contrats, actes et autres documents signés par l’Office sous son nom, toute mention de Office vaut mention de Régie.
+
+
+
+######           — 2019, ch. 28, art. 42.2
+
+
+**Transfert de crédits**
+
+**42.2** Les sommes affectées, et non déboursées, pour l’exercice en cours à la date d’entrée en vigueur, par toute loi fédérale aux dépenses de l’Office sont, à cette date, réputées être affectées aux dépenses de la Régie.
+
+
+
+######           — 2019, ch. 28, art. 43
+
+
+**Règlements**
+
+**43** Le gouverneur en conseil peut prendre les règlements qu’il estime nécessaires en ce qui concerne toute autre mesure transitoire qui découle de l’entrée en vigueur de la Loi sur la Régie canadienne de l’énergie.
+
 
 
