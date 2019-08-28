@@ -967,7 +967,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ordonnance concernant l’expropriation**
 
-**55** À la demande de l’autorité expropriante ou de la première nation, l’Office fixe par ordonnance l’indemnité payable par suite de l’expropriation d’une terre désignée, sauf si l’expropriation est fondée sur la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+**55** À la demande de l’autorité expropriante ou de la première nation, l’Office fixe par ordonnance l’indemnité payable par suite de l’expropriation d’une terre désignée, sauf si l’expropriation est fondée sur la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
+> 1994, ch. 43, art. 552019, ch. 28, art. 163
+
 
 
 
@@ -1719,12 +1721,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Abrogation**
 
 **283** La Loi sur l’Office des droits de surface du Yukon, chapitre 43 des Lois du Canada (1994), est abrogée.
-
-
-
-######           — 2019, ch. 28, art. 163
-
-**163** À l’article 55 de la Loi sur l’Office des droits de surface du Yukon, « [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) » est remplacé par « [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) ».
 
 
 
