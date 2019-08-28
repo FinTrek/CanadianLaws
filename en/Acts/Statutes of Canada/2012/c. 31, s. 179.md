@@ -68,22 +68,24 @@ Assented to on 14 December 2012
 
 **Exemption from certain Acts and regulations**
 
-**3** The [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Species at Risk Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md), section 6 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md) and the [Port Authorities Operations Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/55.md) do not apply to the construction of the bridge, parkway or any related work.
-> 2012, c. 31, ss. 179 “3”, 183
+**3** The [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Species at Risk Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md), section 6 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md) and the [Port Authorities Operations Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/55.md) do not apply to the construction of the bridge, parkway or any related work.
+> 2012, c. 31, ss. 179 “3”, 1832019, c. 28, s. 186
 
 
 
 
 
-**Exemption from [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)**
+**Exemption from [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)**
 
 **4** 
 
-- **(1)** Subject to subsection (2), the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply to the bridge, parkway or any related work.
+- **(1)** Subject to subsection (2), the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) does not apply to the bridge, parkway or any related work.
 
 **Expansion, decommissioning, abandonment**
 
-- **(2)** The expansion, decommissioning or abandonment of the bridge, parkway or any related work is a project as defined in section 66 of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) and is subject to sections 67 to 72 of that Act.
+- **(2)** The expansion, decommissioning or abandonment of the bridge, parkway or any related work is a project as defined in section 81 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) and is subject to sections 82 to 91 of that Act.
+> 2012, c. 31, s. 179 “4”2019, c. 28, s. 181
+
 
 
 
@@ -131,11 +133,11 @@ Assented to on 14 December 2012
 
 
 
-**Harm to fish**
+**Death of fish or harmful alteration, disruption or destruction of fish habitat**
 
 **8** 
 
-- **(1)** Before a person who proposes to carry on any work, undertaking or activity, for the purpose of the construction of the bridge, parkway or any related work and for which an authorization referred to in paragraphs 35(2)(b) or (c) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) would have been required but for section 3, begins to carry on the work, undertaking or activity, they must file with the Minister a plan that includes all measures to be taken to mitigate the harm to fish that are part of a commercial, recreational or Indigenous fishery, or to fish that support such a fishery resulting from the carrying on of the work, undertaking or activity.
+- **(1)** Before a person who proposes to carry on any work, undertaking or activity, for the purpose of the construction of the bridge, parkway or any related work and for which an authorization referred to in paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) would have been required but for section 3, begins to carry on the work, undertaking or activity, they must file with the Minister a plan that includes all measures to be taken to mitigate the extent of death of fish or the harmful alteration, disruption or destruction of fish habitat, resulting from the carrying on of the work, undertaking or activity.
 
 **Obligation to consult**
 
@@ -148,7 +150,7 @@ Assented to on 14 December 2012
 **Transitional provision**
 
 - **(4)** If a plan was filed with respect to a work, undertaking or activity under subsection (1) as it read before the coming into force of this subsection, then, as of that coming into force, that subsection (1) continues to apply with respect to that work, undertaking or activity.
-> 2012, c. 31, ss. 179 “8”, 1842019, c. 14, s. 58(E)
+> 2012, c. 31, ss. 179 “8”, 1842019, c. 14, s. 58
 
 
 
