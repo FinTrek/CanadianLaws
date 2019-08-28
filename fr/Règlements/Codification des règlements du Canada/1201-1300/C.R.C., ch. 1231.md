@@ -41,7 +41,7 @@ Autorités habilitantes :
 - **(1)** Le présent règlement s’applique à tout pont des eaux navigables construit après le 17 novembre 1923.
 
 - **(2)** Nonobstant le paragraphe (1), le présent règlement ne s’applique à un pont franchissant un canal ou les eaux d’un pont public que dans la mesure où il n’entre pas en conflit avec quelque autre règlement édicté ou approuvé par le gouverneur en conseil.
-> DORS/86-970, art. 1.
+> DORS/86-970, art. 1
 
 
 
@@ -51,13 +51,13 @@ Autorités habilitantes :
 
 
 **4** Le ministre peut prescrire les feux ou les marques à placer sur tout pont ou toute travée de pont sous lesquels se trouvent des passes navigables approuvées et fixer les moments d’utilisation de ces feux.
-> DORS/86-970, art. 2.
+> DORS/86-970, art. 2
 
 
 
 
 **5** Le propriétaire de tout pont doit y faire placer les feux et autres aides à la navigation prévus par le présent règlement et voir à leur entretien et à leur fonctionnement.
-> DORS/86-970, art. 2.
+> DORS/86-970, art. 2
 
 
 
@@ -66,14 +66,14 @@ Autorités habilitantes :
 ## Approbation des plans
 
 
-**6** Tout plan et toute description d’un pont projeté qui, aux termes de la Loi sur la protection des eaux navigables et de la Loi sur les chemins de fer, sont soumis à l’approbation du ministre doivent faire état des feux ou des marques exigés par le ministre en vertu de l’article 4.
-> DORS/86-970, art. 2.
+**6** Tout plan et toute description d’un pont projeté qui, aux termes de la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) et de la Loi sur les chemins de fer, sont soumis à l’approbation du ministre doivent faire état des feux ou des marques exigés par le ministre en vertu de l’article 4.
+> DORS/86-970, art. 22019, ch. 28, art. 187
 
 
 
 
 **7** Si un pont compte plus d’une travée, le ministre peut spécifier sous lesquelles se trouvent les passes navigables approuvées.
-> DORS/86-970, art. 2.
+> DORS/86-970, art. 2
 
 
 
@@ -87,7 +87,7 @@ Autorités habilitantes :
 
 
 **10** Sauf autorisation contraire du ministre, le propriétaire d’un pont à travée mobile doit faire en sorte que la manoeuvre de la travée soit assurée en tout temps par une personne compétente qui a reçu la formation nécessaire à cette fin.
-> DORS/86-970, art. 3.
+> DORS/86-970, art. 3
 
 
 
@@ -111,7 +111,7 @@ Autorités habilitantes :
 - **(2)** Nonobstant le paragraphe (1), le ministre peut interdire l’ouverture de toute travée mobile pendant des périodes déterminées, et la personne chargée de la manoeuvre de la travée ne pourra l’ouvrir que dans les circonstances prescrites par le ministre.
 
 - **(3)** La personne ayant le commandement d’un navire ne doit pas pénétrer dans une passe navigable sous une travée mobile avant que celle-ci soit grande ouverte, à moins que son navire ne puisse passer sans danger sous la travée fermée.
-> DORS/86-970, art. 4.
+> DORS/86-970, art. 4
 
 
 
