@@ -1495,14 +1495,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** all reasonable alternatives to the activity that would reduce the impact on the species’ critical habitat have been considered and the best solution has been adopted; and
 	- **(b)** all feasible measures will be taken to minimize the impact of the activity on the species’ critical habitat.
 
-**Non-application**
-
-- **(1.1)** Subsection (1) does not apply to the National Energy Board when it issues a certificate under an order made under subsection 54(1) of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md).
+- **(1.1)** [Repealed, 2019, c. 28, s. 174]
 
 **Application of section 58**
 
 - **(2)** For greater certainty, section 58 applies even though a licence, a permit or any other authorization has been issued in accordance with subsection (1).
-> 2002, c. 29, s. 77; 2012, c. 19, s. 165
+> 2002, c. 29, s. 77; 2012, c. 19, s. 1652019, c. 28, s. 174
 
 
 
@@ -1542,7 +1540,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **79** 
 
-- **(1)** Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted, and every authority who makes a determination under paragraph 67(a) or (b) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) in relation to a project, must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat.
+- **(1)** Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted, and every authority who makes a determination under paragraph 82(a) or (b) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) in relation to a project, must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat.
 
 **Required action**
 
@@ -1552,13 +1550,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(3)** The following definitions apply in this section.
 
-***person*** includes an association, an organization, a federal authority as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), and any body that is set out in Schedule 3 to that Act. (*personne*)
+***person*** includes an association, an organization, a federal authority as defined in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md), and any body that is set out in Schedule 4 to that Act. (*personne*)
 
 ***project*** means
-- **(a)** a designated project as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) or a project as defined in section 66 of that Act;
+- **(a)** a designated project as defined in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) or a project as defined in section 81 of that Act;
 - **(b)** a project as defined in subsection 2(1) of the [Yukon Environmental and Socio-economic Assessment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%207.md); or
 - **(c)** a development as defined in subsection 111(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md). (*projet*)
-> 2002, c. 29, s. 79; 2012, c. 19, s. 59; 2017, c. 26, s. 49(F)
+> 2002, c. 29, s. 79; 2012, c. 19, s. 59; 2017, c. 26, s. 49(F)2019, c. 28, s. 175
 
 
 
@@ -4202,61 +4200,6 @@ Seaside Bone (*Hypogymnia heterophylla*)<br />- <i>Hypogymnie maritime</i>
 **400** Paragraph 108(1)(e) of the Species at Risk Act is replaced by the following:
 
 - **(e)** the person and the Attorney General have concluded an agreement respecting the alternative measures within 180 days after the person has, with respect to the offence, been served with a summons, been issued an appearance notice or a release order or entered into an undertaking;
-
-
-
-
-
-######           — 2019, c. 28, s. 174
-
-
-**
-> 2012, c. 19, s. 165
-**
-
-**174** Subsection 77(1.1) of the Species at Risk Act is repealed.
-
-
-
-######           — 2019, c. 28, s. 175
-
-
-**
-> 2012, c. 19, s. 59(1)
-**
-
-**175** 
-
-- **(1)** Subsection 79(1) of the Act is replaced by the following:
-
-**Notification of Minister**
-
-**79** 
-
-- **(1)** Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted, and every authority who makes a determination under paragraph 82(a) or (b) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) in relation to a project, must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat.
-
-
-
-**
-> 2012, c. 19, s. 59(2)
-**
-
-- **(2)** The definition ***person*** in subsection 79(3) of the Act is replaced by the following:
-
-
-***person*** includes an association, an organization, a federal authority as defined in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md), and any body that is set out in Schedule 4 to that Act. (*personne*)
-
-
-
-**
-> 2012, c. 19, s. 59(2)
-**
-
-- **(3)** Paragraph (a) of the definition ***project*** in subsection 79(3) of the Act is replaced by the following:
-
-
-***project*** means
-- **(a)** a designated project as defined in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) or a project as defined in section 81 of that Act;
 
 
 
