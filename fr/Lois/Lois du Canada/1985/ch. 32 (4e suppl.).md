@@ -42,7 +42,7 @@
 - **(3)** Malgré le paragraphe (2), la présente loi ne s’applique pas :
 	- **a)** au réseau ferroviaire visé à l’article 16 de la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md);
 	- **b)** aux chemins de fer visés à l’article 29 de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), sauf dans la mesure prévue dans un règlement pris en vertu du paragraphe 29(2) de cette loi.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 2; 1996, ch. 10, art. 261; 2012, ch. 7, art. 2.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 2; 1996, ch. 10, art. 261; 2012, ch. 7, art. 2
 
 
 
@@ -59,7 +59,7 @@
 - **b)** encourager la collaboration et la participation des parties intéressées à l’amélioration de la sécurité et de la sûreté ferroviaires;
 - **c)** reconnaître la responsabilité qui incombe aux compagnies d’établir, par leurs systèmes de gestion de la sécurité et autres moyens à leur disposition, qu’elles gèrent continuellement les risques en matière de sécurité;
 - **d)** favoriser la mise en place d’outils de réglementation modernes, flexibles et efficaces dans le but d’assurer l’amélioration continue de la sécurité et de la sûreté ferroviaires.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 3; 1996, ch. 10, art. 262; 1999, ch. 9, art. 1; 2012, ch. 7, art. 3.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 3; 1996, ch. 10, art. 262; 1999, ch. 9, art. 1; 2012, ch. 7, art. 3
 
 
 
@@ -73,7 +73,7 @@
 - **c)** entreprendre les travaux, recherches techniques, études ou enquêtes et collaborer avec les personnes qui les entreprennent;
 - **d)** procéder à des inspections et à des études et fournir des rapports sur les activités liées à toute question ferroviaire;
 - **e)** entreprendre, à son initiative ou sur les instructions du gouverneur en conseil, toute autre activité.
-> 2012, ch. 7, art. 3.
+> 2012, ch. 7, art. 3
 
 
 
@@ -176,7 +176,7 @@
 **Notification et communication de documents**
 
 - **(5)** Pour l’application de la présente loi — à l’exception de toute notification ou communication de documents par le Tribunal ou à celui-ci —, toute notification ou communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire, par courrier recommandé à sa dernière adresse connue ou par télécopieur et, dans le cas d’une personne morale, par télécopieur ou par courrier recommandé à son siège ou à tout autre bureau spécifié par le ministre. Elle peut aussi être faite par tout autre moyen, notamment électronique, approuvé par écrit par le ministre et aux conditions fixées par lui.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A); 2012, ch. 7, art. 4; 2015, ch. 3, art. 150, ch. 31, art. 17.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A); 2012, ch. 7, art. 4; 2015, ch. 3, art. 150, ch. 31, art. 17
 
 
 
@@ -185,7 +185,7 @@
 **Conflits**
 
 **4.1** La présente loi et ses textes d’application — règlements, règles, certificats, arrêtés, exemptions et injonctions ministérielles — l’emportent sur les dispositions incompatibles d’un accord ou d’un arrêté permettant à une compagnie d’exploiter du matériel ferroviaire sur le chemin de fer d’une compagnie de chemin de fer.
-> 2012, ch. 7, art. 5.
+> 2012, ch. 7, art. 5
 
 
 
@@ -195,10 +195,10 @@
 
 
 
-**Conformité avec la Loi sur la protection de la navigation**
+**Conformité avec la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md)**
 
-**5** Lorsque les eaux navigables, au sens de l’article 2 de la Loi sur la protection de la navigation, entrent en ligne de compte dans la construction ou la modification d’installations ferroviaires, il ne peut être porté atteinte aux obligations découlant de cette loi par celles imposées sous le régime de la présente loi.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 5; 2012, ch. 31, art. 341.
+**5** Lorsque les eaux navigables, au sens de l’article 2 de la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), entrent en ligne de compte dans la construction ou la modification d’installations ferroviaires, il ne peut être porté atteinte aux obligations découlant de cette loi par celles imposées sous le régime de la présente loi.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 5; 2012, ch. 31, art. 3412019, ch. 28, art. 186
 
 
 
@@ -216,7 +216,7 @@
 	- **(ii)** relativement à la question de savoir si une personne construit, exploite ou entretient un chemin de fer;
 - **b)** fixant les modalités de règlement des situations de conflit pouvant en découler.
 Il peut en outre, après consultation auprès de l’Office, prendre les mesures nécessaires pour porter l’accord à la connaissance des compagnies de chemin de fer ou de toute autre personne concernée.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 6; 2012, ch. 7, art. 6.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 6; 2012, ch. 7, art. 6
 
 
 
@@ -235,7 +235,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Fonctions et attributions**
 
 - **(3)** L’organisme ou la personne ou catégorie de personnes peut, dans la mesure spécifiée dans l’accord, exercer les fonctions et les attributions nécessaires à l’exécution de la loi.
-> 2012, ch. 7, art. 6.
+> 2012, ch. 7, art. 6
 
 
 
@@ -244,7 +244,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Accords avec des autorités provinciales**
 
 **6.2** Le ministre peut conclure avec toute autorité provinciale un accord autorisant celle-ci à réglementer les questions visées au paragraphe 6.1(1) concernant les chemins de fer; le cas échéant, l’autorité exerce ce pouvoir de la même manière et dans la même mesure que celui qu’elle peut exercer à l’égard d’un chemin de fer relevant de sa compétence.
-> 2012, ch. 7, art. 6.
+> 2012, ch. 7, art. 6
 
 
 
@@ -276,7 +276,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Application de certaines dispositions**
 
 - **(3)** Les paragraphes 19(4) à (11) s’appliquent — à l’exception de toute mention d’organisation intéressée — aux normes visées aux paragraphes (2) et (2.1), avec les adaptations nécessaires.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 9, art. 3; 2012, ch. 7, art. 7(F); 2015, ch. 31, art. 18(F).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 9, art. 3; 2012, ch. 7, art. 7(F); 2015, ch. 31, art. 18(F)
 
 
 
@@ -289,7 +289,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Pouvoir réglementaire**
 
 **7.1** Le gouverneur en conseil peut prendre des règlements pour régir ou interdire la construction ou la modification de franchissements routiers.
-> 1999, ch. 9, art. 4; 2015, ch. 31, art. 19.
+> 1999, ch. 9, art. 4; 2015, ch. 31, art. 19
 
 
 
@@ -312,7 +312,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Retrait d’opposition**
 
 - **(3)** L’opposant qui désire retirer son opposition notifie son intention au promoteur et au ministre. Le retrait prend effet à la date de réception de l’avis par le ministre.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 8; 1999, ch. 9, art. 5 et 37(A).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 8; 1999, ch. 9, art. 5 et 37(A)
 
 
 
@@ -327,7 +327,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Notification au promoteur**
 
 - **(2)** Le ministre envoie au promoteur une copie de l’avis de rejet visé au paragraphe (1).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 9; 1999, ch. 9, art. 37(A); 2015, ch. 35, art. 1.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 9; 1999, ch. 9, art. 37(A); 2015, ch. 35, art. 1
 
 
 
@@ -384,7 +384,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Exclusion du délai d’examen**
 
 - **(9)** Est exclue du délai d’examen la période comprise entre le renvoi pour enquête visé à l’article 40 et la remise au ministre du rapport d’enquête.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 10; 1999, ch. 9, art. 6 et 37(A).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 10; 1999, ch. 9, art. 6 et 37(A)
 
 
 
@@ -399,7 +399,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Travaux d’ingénierie**
 
 - **(2)** Les travaux d’ingénierie relatifs aux installations ferroviaires sont approuvés par un ingénieur professionnel.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 11; 1999, ch. 9, art. 7; 2012, ch. 7, art. 8.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 11; 1999, ch. 9, art. 7; 2012, ch. 7, art. 8
 
 
 
@@ -438,7 +438,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Approbation**
 
 - **(7)** Le présent article s’applique notamment au déplacement d’une partie d’une route publique.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 12; 1999, ch. 9, art. 37(A).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 12; 1999, ch. 9, art. 37(A)
 
 
 
@@ -453,7 +453,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Subvention du ministre**
 
 - **(2)** L’accord peut prévoir l’octroi d’une subvention par le ministre et toute condition que le ministre juge indiquée. Dès la conclusion de l’accord, les droits de la personne sur le franchissement routier sont éteints.
-> 1999, ch. 9, art. 8.
+> 1999, ch. 9, art. 8
 
 
 
@@ -484,7 +484,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Définition de saut-de-mouton**
 
 - **(6)** Dans le présent article, ***saut-de-mouton*** s’entend des structures nécessaires au franchissement d’une voie ferrée par une route publique, ou vice-versa, par passage inférieur ou supérieur.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 13; 1999, ch. 9, art. 37(A).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 13; 1999, ch. 9, art. 37(A)
 
 
 
@@ -506,7 +506,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Paiement de subventions**
 
 **15** Les subventions prévues aux articles 12, 12.1, 13 et 14 sont payées sur les fonds affectés à cette fin par le Parlement.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 15; 1999, ch. 9, art. 9.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 15; 1999, ch. 9, art. 9
 
 
 
@@ -553,7 +553,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Interprétation**
 
 - **(7)** Malgré l’article 37 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md), le présent article n’a pas pour effet de charger l’Office de l’application, en tout ou en partie, de la présente loi.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 16; 1996, ch. 10, art. 264; 1999, ch. 9, art. 10; 2012, ch. 19, art. 484.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 16; 1996, ch. 10, art. 264; 1999, ch. 9, art. 10; 2012, ch. 19, art. 484
 
 
 
@@ -566,7 +566,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 - **(1)** Le ministre peut traiter simultanément la demande d’approbation visée à l’article 10 et la demande de subvention déposées par le même promoteur et relatives aux travaux visés aux articles 12 ou 13.
 
 - **(2)** [Abrogé, 1999, ch. 9, art. 11]
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 17; 1999, ch. 9, art. 11 et 37(A).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 17; 1999, ch. 9, art. 11 et 37(A)
 
 
 
@@ -590,7 +590,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Entretien — franchissement ferroviaire**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la personne exemptée au titre de l’alinéa 17.9(1)c) ou à une municipalité ou une autorité responsable du service de voirie qui entretient un ouvrage de franchissement.
-> 2012, ch. 7, art. 10.
+> 2012, ch. 7, art. 10
 
 
 
@@ -599,7 +599,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Conformité avec les certificats, règlements et règles**
 
 **17.2** Il est interdit à toute compagnie de chemin de fer d’exploiter ou d’entretenir un chemin de fer, notamment les installations et le matériel ferroviaires, et à toute compagnie de chemin de fer locale d’exploiter du matériel ferroviaire sur un chemin de fer, en contravention avec un certificat d’exploitation de chemin de fer, les règlements et les règles établies sous le régime des articles 19 ou 20 qui lui sont applicables, sauf si elle bénéficie de l’exemption prévue aux articles 22 ou 22.1.
-> 2012, ch. 7, art. 11.
+> 2012, ch. 7, art. 11
 
 
 
@@ -608,7 +608,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Conformité avec les normes techniques**
 
 **17.21** Sauf si elle bénéficie de l’exemption prévue à l’article 22.1, il est interdit à toute compagnie de chemin de fer de construire ou de modifier des installations ferroviaires en contravention avec les normes techniques qui lui sont applicables.
-> 2015, ch. 31, art. 20.
+> 2015, ch. 31, art. 20
 
 
 
@@ -617,7 +617,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Entretien d’ouvrage de franchissement**
 
 **17.3** Il est interdit au responsable de l’entretien d’un ouvrage de franchissement qui ne bénéficie pas de l’exemption prévue aux articles 22 ou 22.1 d’entretenir celui-ci en contravention avec les règlements pris à ce sujet sous le régime de l’article 18.
-> 2012, ch. 7, art. 11.
+> 2012, ch. 7, art. 11
 
 
 
@@ -651,7 +651,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 	- **a)** la compagnie ne remplit plus l’une ou l’autre des conditions réglementaires d’obtention du certificat;
 	- **b)** la compagnie a contrevenu à une des dispositions de la présente loi ou des règlements ou à une règle, à un arrêté, à une norme ou à une injonction ministérielle établi sous son régime;
 	- **c)** la compagnie le demande.
-> 2012, ch. 7, art. 12.
+> 2012, ch. 7, art. 12
 
 
 
@@ -672,7 +672,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Prise d’effet**
 
 - **(3)** Dans tous les cas, la date de prise d’effet de la décision est la date de réception de l’avis par l’intéressé, à moins que l’avis n’indique une date ultérieure.
-> 2012, ch. 7, art. 12.
+> 2012, ch. 7, art. 12
 
 
 
@@ -691,7 +691,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Exception**
 
 - **(3)** Sauf s’il est convaincu que cela constituerait un danger pour la sécurité ferroviaire, le conseiller commis à l’affaire qui est saisi d’une demande écrite de la personne ou la compagnie peut, après avoir donné au ministre le préavis qu’il estime indiqué et avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce qu’il ait été statué sur la requête en révision.
-> 2012, ch. 7, art. 12.
+> 2012, ch. 7, art. 12
 
 
 
@@ -714,7 +714,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Réexamen du dossier**
 
 - **(4)** En cas de renvoi de l’affaire au ministre, la décision d’annuler ou de suspendre continue d’avoir effet. Toutefois, le conseiller peut, après avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce que le ministre ait réexaminé celle-ci, s’il est convaincu que cela ne constitue pas un danger pour la sécurité ferroviaire.
-> 2012, ch. 7, art. 12.
+> 2012, ch. 7, art. 12
 
 
 
@@ -745,7 +745,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Réexamen du dossier**
 
 - **(6)** En cas de renvoi de l’affaire au ministre, la décision d’annuler ou de suspendre un certificat d’exploitation de chemin de fer continue d’avoir effet. Toutefois, le comité peut, après avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce que le ministre ait révisé celle-ci, s’il est convaincu que cela ne constitue pas un danger pour la sécurité ferroviaire.
-> 2012, ch. 7, art. 12.
+> 2012, ch. 7, art. 12
 
 
 
@@ -763,7 +763,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Portée des règlements**
 
 - **(2)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes ou de compagnies visés.
-> 2012, ch. 7, art. 12.
+> 2012, ch. 7, art. 12
 
 
 
@@ -798,7 +798,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Incompatibilité**
 
 - **(3)** Les dispositions des règlements pris par le gouverneur en conseil sous le régime des paragraphes (1) ou (2.1) annulent les dispositions incompatibles des règles approuvées par le ministre aux termes des articles 19 ou 20 relativement à une compagnie particulière.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 18; 1999, ch. 9, art. 12; 2012, ch. 7, art. 13.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 18; 1999, ch. 9, art. 12; 2012, ch. 7, art. 13
 
 
 
@@ -873,7 +873,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Exclusion du délai d’examen**
 
 - **(11)** Est exclue du délai d’examen la période comprise entre le renvoi pour enquête visé à l’article 40 et la remise au ministre du rapport d’enquête.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 19; 1999, ch. 9, art. 13; 2012, ch. 7, art. 14.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 19; 1999, ch. 9, art. 13; 2012, ch. 7, art. 14
 
 
 
@@ -898,7 +898,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Application de certaines dispositions**
 
 - **(4)** Les paragraphes 19(4) à (5.1), (10) et (11) s’appliquent aux règles déposées dans le cadre du paragraphe (1) comme si elles l’avaient été conformément à l’arrêté visé au paragraphe 19(1).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 20; 1999, ch. 9, art. 14; 2012, ch. 7, art. 14.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 20; 1999, ch. 9, art. 14; 2012, ch. 7, art. 14
 
 
 
@@ -907,7 +907,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Rôle d’un tiers**
 
 **20.1** Un tiers peut agir au nom d’une compagnie pour toute question relative à la formulation ou à la révision des règles ou des normes prévues aux articles 7, 19 et 20.
-> 2012, ch. 7, art. 14.
+> 2012, ch. 7, art. 14
 
 
 
@@ -922,7 +922,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Portée des règlements**
 
 - **(2)** Un règlement pris en vertu du paragraphe (1) peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
-> 2012, ch. 7, art. 14.
+> 2012, ch. 7, art. 14
 
 
 
@@ -935,7 +935,7 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 **Uniformité**
 
 **21** Dans l’établissement ou l’approbation de règles à l’égard d’une compagnie au titre des articles 19 ou 20, le ministre veille, compte tenu des circonstances, à leur uniformité avec les règles à objet comparable applicables aux autres compagnies.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 21; 2012, ch. 7, art. 14.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 21; 2012, ch. 7, art. 14
 
 
 
@@ -973,7 +973,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Délai de 60 jours pour agréer la demande**
 
 - **(7)** Le ministre peut, dans les soixante jours suivant la réception de la demande, agréer celle-ci s’il estime qu’il est dans l’intérêt public de le faire et que la sécurité ferroviaire ne risque pas d’être compromise. Il peut en outre prolonger le délai d’au plus soixante jours.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 22; 1999, ch. 9, art. 15; 2012, ch. 7, art. 14.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 22; 1999, ch. 9, art. 15; 2012, ch. 7, art. 14
 
 
 
@@ -1009,7 +1009,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 	- **b)** aucune opposition ne subsiste au titre de l’alinéa (4)a);
 	- **c)** le ministre, au lieu de refuser l’exemption ou de maintenir l’opposition en vertu du paragraphe (4), assortit l’exemption de conditions en vertu de l’alinéa (4)b) et la compagnie de chemin de fer s’y conforme;
 	- **d)** le ministre ne refuse pas l’exemption au titre de l’alinéa (4)c).
-> 1999, ch. 9, art. 16; 2012, ch. 7, art. 14.
+> 1999, ch. 9, art. 16; 2012, ch. 7, art. 14
 
 
 
@@ -1044,7 +1044,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Interprétation**
 
 - **(6)** Malgré l’article 37 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md), le présent article n’a pas pour effet de charger l’Office de l’application, en tout ou en partie, de la présente loi.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 23; 1999, ch. 9, art. 17; 2012, ch. 7, art. 15; 2015, ch. 31, art. 21.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 23; 1999, ch. 9, art. 17; 2012, ch. 7, art. 15; 2015, ch. 31, art. 21
 
 
 
@@ -1069,7 +1069,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Exceptions**
 
 - **(3)** Malgré le paragraphe (1), l’opérateur du train peut utiliser le sifflet dans une situation d’urgence, lorsque les règles en vigueur sous le régime des articles 19 ou 20 ou les règlements l’exigent ou lorsque l’inspecteur de la sécurité ferroviaire l’exige en application de l’article 31.
-> 1999, ch. 9, art. 18; 2015, ch. 31, art. 22.
+> 1999, ch. 9, art. 18; 2015, ch. 31, art. 22
 
 
 
@@ -1106,7 +1106,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Dommages-intérêts**
 
 - **(2)** La compagnie de chemin de fer exploitant la voie ferrée contiguë à un terrain paie au propriétaire, au locataire ou à l’occupant de celui-ci ou des bâtiments ou autres ouvrages qui y sont situés, ou au propriétaire des mines ou autres installations qui y sont exploitées, les dommages-intérêts entraînés par l’application des règlements pris sous le régime du présent article, convenus entre elle et le propriétaire, le locataire ou l’occupant ou, à défaut d’entente, fixés aux termes de l’article 26.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 24; 1994, ch. 15, art. 1(F); 1999, ch. 9, art. 19; 2012, ch. 7, art. 16; 2015, ch. 31, art. 23.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 24; 1994, ch. 15, art. 1(F); 1999, ch. 9, art. 19; 2012, ch. 7, art. 16; 2015, ch. 31, art. 23
 
 
 
@@ -1137,7 +1137,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Dommages-intérêts**
 
 - **(3)** La compagnie de chemin de fer ou l’autorité responsable du service de voirie qui exerce les pouvoirs prévus au présent article paie au propriétaire, au locataire ou à l’occupant concerné les dommages-intérêts entraînés par cet exercice et convenus entre elle et ceux-ci ou, à défaut d’entente, fixés aux termes de l’article 26. Cet exercice n’est cependant pas subordonné au paiement préalable des dommages-intérêts.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 25; 1996, ch. 10, art. 265; 1999, ch. 9, art. 20; 2012, ch. 7, art. 17.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 25; 1996, ch. 10, art. 265; 1999, ch. 9, art. 20; 2012, ch. 7, art. 17
 
 
 
@@ -1172,7 +1172,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Interprétation**
 
 - **(6)** Malgré l’article 37 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md), le présent article n’a pas pour effet de charger l’Office de l’application, en tout ou en partie, de la présente loi.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 26; 1996, ch. 10, art. 266.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 26; 1996, ch. 10, art. 266
 
 
 
@@ -1185,7 +1185,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Interdiction de pénétrer sur l’emprise**
 
 **26.1** Il est interdit de pénétrer, sans excuse légitime, sur l’emprise d’une ligne de chemin de fer.
-> 1994, ch. 15, art. 2.
+> 1994, ch. 15, art. 2
 
 
 
@@ -1194,7 +1194,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Priorité aux trains**
 
 **26.2** Les usagers de la route doivent, à tout franchissement routier, céder le passage au train dont l’approche a été adéquatement signalée.
-> 1999, ch. 9, art. 20.1; 2012, ch. 7, art. 18(F).
+> 1999, ch. 9, art. 20.1; 2012, ch. 7, art. 18(F)
 
 
 
@@ -1230,7 +1230,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Inspecteur non responsable**
 
 - **(4)** L’inspecteur n’encourt aucune responsabilité personnelle à l’égard d’un fait — acte ou omission — accompli de bonne foi sous le régime de la présente loi.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 27; 1999, ch. 9, art. 22; 2012, ch. 7, art. 19.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 27; 1999, ch. 9, art. 22; 2012, ch. 7, art. 19
 
 
 
@@ -1249,7 +1249,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Désignation : suspension pour motif de sécurité**
 
 - **(3)** Le ministre peut suspendre la désignation de l’agent de contrôle s’il estime que l’exercice, par lui, des fonctions d’agent de contrôle constitue un danger immédiat ou probable pour la sûreté du transport ferroviaire.
-> 2001, ch. 29, art. 65.
+> 2001, ch. 29, art. 65
 
 
 
@@ -1272,7 +1272,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 - **(3)** Dans le cas d’une suspension ou d’une annulation, la date de prise d’effet de la décision :
 	- **a)** si elle est rendue en vertu des paragraphes 27.1(1) ou (3), ne peut être antérieure à la date de réception de l’avis par l’intéressé;
 	- **b)** si elle est rendue en vertu du paragraphe 27.1(2), ne peut être antérieure au trentième jour suivant l’expédition de l’avis.
-> 2001, ch. 29, art. 65.
+> 2001, ch. 29, art. 65
 
 
 
@@ -1291,7 +1291,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Exception**
 
 - **(3)** Sauf s’il estime que cela constituerait un danger pour la sûreté du transport ferroviaire, le conseiller commis à l’affaire qui est saisi d’une demande écrite de l’intéressé peut, après avoir donné au ministre le préavis qu’il estime indiqué et avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 27.1(2) jusqu’à ce qu’il ait été statué sur la requête en révision.
-> 2001, ch. 29, art. 65.
+> 2001, ch. 29, art. 65
 
 
 
@@ -1316,7 +1316,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 - **(4)** Le conseiller peut :
 	- **a)** dans les cas visés aux paragraphes 27.1(1) ou (3), confirmer la décision ou renvoyer l’affaire au ministre pour réexamen;
 	- **b)** dans le cas visé au paragraphe 27.1(2), confirmer la décision ou substituer sa décision à celle du ministre.
-> 2001, ch. 29, art. 65.
+> 2001, ch. 29, art. 65
 
 
 
@@ -1337,7 +1337,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 - **(3)** Le comité du Tribunal peut :
 	- **a)** dans les cas d’une décision visée à l’alinéa 27.4(4)a), rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen;
 	- **b)** dans les cas d’une décision visée à l’alinéa 27.4(4)b), rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
-> 2001, ch. 29, art. 65.
+> 2001, ch. 29, art. 65
 
 
 
@@ -1346,7 +1346,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Maintien de la décision en cas de renvoi au ministre**
 
 **27.6** En cas de renvoi de l’affaire au ministre au titre des alinéas 27.4(4)a) ou 27.5(3)a), la décision du ministre de suspendre ou d’annuler la désignation continue d’avoir effet. Toutefois, le conseiller ou le comité peut, après avoir entendu les observations des parties et s’il estime que cela ne constitue pas un danger pour la sûreté du transport ferroviaire, prononcer la suspension de la décision de suspendre ou d’annuler la désignation rendue en vertu du paragraphe 27.1(1) jusqu’à ce que le ministre ait réexaminé sa décision.
-> 2001, ch. 29, art. 65.
+> 2001, ch. 29, art. 65
 
 
 
@@ -1361,7 +1361,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Procédure applicable**
 
 - **(2)** Sur réception de la demande, le ministre procède sans délai au réexamen et informe l’intéressé de sa décision. Les articles 27.2 à 27.6 s’appliquent, avec les adaptations nécessaires, à sa décision.
-> 2001, ch. 29, art. 65.
+> 2001, ch. 29, art. 65
 
 
 
@@ -1370,7 +1370,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Définition de désignation**
 
 **27.8** Pour l’application des articles 27.1 à 27.7, est assimilé à la désignation tout avantage qu’elle octroie.
-> 2001, ch. 29, art. 65.
+> 2001, ch. 29, art. 65
 
 
 
@@ -1397,7 +1397,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Usage de la force**
 
 - **(4)** L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 28; 1999, ch. 9, art. 23; 2012, ch. 7, art. 20.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 28; 1999, ch. 9, art. 23; 2012, ch. 7, art. 20
 
 
 
@@ -1483,7 +1483,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Prise d’effet**
 
 - **(10)** La modification ou l’annulation de l’ordre prend effet dès que le destinataire de l’avis ou de l’ordre en reçoit notification.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 31; 1999, ch. 9, art. 24; 2001, ch. 29, art. 66; 2012, ch. 7, art. 21; 2015, ch. 31, art. 25 et 39.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 31; 1999, ch. 9, art. 24; 2001, ch. 29, art. 66; 2012, ch. 7, art. 21; 2015, ch. 31, art. 25 et 39
 
 
 
@@ -1506,7 +1506,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Décision**
 
 - **(4)** Le conseiller peut confirmer l’ordre ou faire parvenir le dossier au ministre pour examen.
-> 2001, ch. 29, art. 67; 2012, ch. 7, art. 22.
+> 2001, ch. 29, art. 67; 2012, ch. 7, art. 22
 
 
 
@@ -1525,7 +1525,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Sort de l’appel**
 
 - **(3)** Le comité du Tribunal peut rejeter l’appel ou faire parvenir le dossier au ministre pour examen.
-> 2001, ch. 29, art. 67.
+> 2001, ch. 29, art. 67
 
 
 
@@ -1534,7 +1534,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Effet des procédures sur l’ordre**
 
 **31.3** Ni la révision, ni l’appel, ni l’examen n’ont pour effet de suspendre l’ordre donné par l’inspecteur.
-> 2001, ch. 29, art. 67.
+> 2001, ch. 29, art. 67
 
 
 
@@ -1543,7 +1543,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Examen**
 
 **31.4** Lors de son examen au titre des paragraphes 31.1(4) ou 31.2(3) ou de sa propre initiative, le ministre peut confirmer l’ordre de l’inspecteur ou, par arrêté, modifier ou annuler celui-ci. Il est entendu que sa décision peut être assimilée à une ordonnance judiciaire aux termes de l’article 34.
-> 2001, ch. 29, art. 67.
+> 2001, ch. 29, art. 67
 
 
 
@@ -1552,7 +1552,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Prise d’effet**
 
 **31.5** La modification ou l’annulation prend effet dès que le destinataire de l’ordre de l’inspecteur en reçoit notification.
-> 2001, ch. 29, art. 67; 2012, ch. 7, art. 23(A).
+> 2001, ch. 29, art. 67; 2012, ch. 7, art. 23(A)
 
 
 
@@ -1591,7 +1591,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Contenu de l’avis**
 
 - **(4)** L’ordre donné dans un avis prévu à l’un ou l’autre des paragraphes (1) et (3) à (3.21) prend effet à la réception de celui-ci par son destinataire et l’avis doit indiquer le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68; 2012, ch. 7, art. 24; 2015, ch. 31, art. 26 et 39, ch. 35, art. 3.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68; 2012, ch. 7, art. 24; 2015, ch. 31, art. 26 et 39, ch. 35, art. 3
 
 
 
@@ -1600,7 +1600,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Arrêté — sécurité ferroviaire**
 
 **32.01** S’il l’estime nécessaire pour la sécurité ferroviaire, le ministre peut transmettre un arrêté à une compagnie, à une autorité responsable du service de voirie ou à une municipalité lui ordonnant de mettre fin à toute activité qui pourrait compromettre la sécurité ferroviaire ou de suivre toute procédure ou d’apporter les mesures correctives nécessaires précisées dans l’arrêté, y compris de construire, de modifier, d’exploiter ou d’entretenir des installations ferroviaires.
-> 2015, ch. 31, art. 27.
+> 2015, ch. 31, art. 27
 
 
 
@@ -1627,7 +1627,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Décision**
 
 - **(5)** Le conseiller peut confirmer l’ordre ou renvoyer le dossier au ministre pour réexamen.
-> 2001, ch. 29, art. 69; 2012, ch. 7, art. 25; 2015, ch. 31, art. 28.
+> 2001, ch. 29, art. 69; 2012, ch. 7, art. 25; 2015, ch. 31, art. 28
 
 
 
@@ -1646,7 +1646,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Sort de l’appel**
 
 - **(3)** Le comité du Tribunal peut rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen.
-> 2001, ch. 29, art. 69; 2015, ch. 31, art. 29.
+> 2001, ch. 29, art. 69; 2015, ch. 31, art. 29
 
 
 
@@ -1655,7 +1655,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Effet des procédures sur l’ordre**
 
 **32.3** Le dépôt d’une requête en révision d’un ordre visé aux paragraphes 32(1), (3.1) ou (3.2) suspend celui-ci jusqu’à ce qu’il soit disposé de l’affaire conformément aux articles 32.1, 32.2 ou 32.4. Toutefois, ni la révision prévue à l’article 32.1, ni l’appel prévu à l’article 32.2, ni le réexamen par le ministre prévu aux paragraphes 32.1(5) ou 32.2(3) n’ont pour effet de suspendre l’ordre donné en vertu des paragraphes 32(3) ou (3.21) ou de l’article 32.01.
-> 2001, ch. 29, art. 69; 2015, ch. 31, art. 30 et 39, ch. 35, art. 4.
+> 2001, ch. 29, art. 69; 2015, ch. 31, art. 30 et 39, ch. 35, art. 4
 
 
 
@@ -1664,7 +1664,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Réexamen**
 
 **32.4** Lors de son réexamen au titre des paragraphes 32.1(5) ou 32.2(3), le ministre peut confirmer l’ordre ou, par arrêté, annuler ou modifier celui-ci. Il est entendu que sa décision peut être assimilée à une ordonnance judiciaire aux termes de l’article 34.
-> 2001, ch. 29, art. 69.
+> 2001, ch. 29, art. 69
 
 
 
@@ -1673,7 +1673,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Prise d’effet**
 
 **32.5** La modification ou l’annulation prend effet dès que le destinataire de l’ordre donné en vertu de l’article 32 en reçoit notification.
-> 2001, ch. 29, art. 69; 2012, ch. 7, art. 26(A).
+> 2001, ch. 29, art. 69; 2012, ch. 7, art. 26(A)
 
 
 
@@ -1712,7 +1712,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Prorogation**
 
 - **(6)** Le ministre peut, par avis transmis à la compagnie, proroger une injonction par ailleurs valide d’au plus six mois; les dispositions du présent article, à l’exception du présent paragraphe, continuent alors de s’appliquer.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 33; 1999, ch. 9, art. 26; 2012, ch. 7, art. 27.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 33; 1999, ch. 9, art. 26; 2012, ch. 7, art. 27
 
 
 
@@ -1743,7 +1743,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Faculté d’exécution**
 
 - **(5)** Le ministre a toujours la faculté de faire exécuter lui-même ses ordres ou injonctions, même après leur assimilation.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 34; 2002, ch. 8, art. 168; 2006, ch. 11, art. 26; 2007, ch. 19, art. 53; 2012, ch. 7, art. 28(A).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 34; 2002, ch. 8, art. 168; 2006, ch. 11, art. 26; 2007, ch. 19, art. 53; 2012, ch. 7, art. 28(A)
 
 
 
@@ -1778,7 +1778,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Protection des renseignements**
 
 - **(6)** Les renseignements sont protégés; nul n’est tenu de les communiquer ou de témoigner à leur sujet dans le cadre de procédures judiciaires, disciplinaires ou autres et ils n’y sont pas, sous réserve du paragraphe (4) ou du consentement du patient, admissibles en preuve.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 35; 1999, ch. 9, art. 27; 2012, ch. 7, art. 29(F).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 35; 1999, ch. 9, art. 27; 2012, ch. 7, art. 29(F)
 
 
 
@@ -1791,7 +1791,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Demande de renseignements**
 
 **36** Le ministre peut, par arrêté, demander à une compagnie de lui fournir, en la forme et dans le délai qui y est prévu, tout renseignement ou document s’il l’estime nécessaire pour vérifier le respect de la présente loi et de ses textes d’application.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 36; 1999, ch. 9, art. 28; 2012, ch. 7, art. 30.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 36; 1999, ch. 9, art. 28; 2012, ch. 7, art. 30
 
 
 
@@ -1814,7 +1814,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **[Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md)**
 
 - **(3)** Les renseignements, registres et documents déposés auprès du ministre au titre d’un règlement pris en vertu de l’alinéa (1)b) sont réputés être des renseignements qui doivent être fournis au ministre au titre de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 37; 1999, ch. 9, art. 29; 2012, ch. 7, art. 30; 2015, ch. 31, art. 31.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 37; 1999, ch. 9, art. 29; 2012, ch. 7, art. 30; 2015, ch. 31, art. 31
 
 
 
@@ -1856,7 +1856,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Emplacement et langue des avis**
 
 - **(6)** Les avis doivent être placés bien en vue, dans les lieux de contrôle, et au moins dans les deux langues officielles du Canada.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 39; 1999, ch. 9, art. 30.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 39; 1999, ch. 9, art. 30
 
 
 
@@ -1875,7 +1875,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Pouvoir du ministre**
 
 - **(3)** Le ministre peut, s’il estime qu’il est dans l’intérêt public de le faire et que la sécurité ferroviaire ne risque pas d’être compromise, soustraire, aux conditions qu’il juge utiles, toute compagnie de chemin de fer ou toute personne à l’application d’une mesure de sûreté du transport ferroviaire.
-> 1999, ch. 9, art. 30.
+> 1999, ch. 9, art. 30
 
 
 
@@ -1894,7 +1894,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Ordre de production et de divulgation**
 
 - **(3)** S’il conclut, en l’espèce, que l’intérêt public d’une bonne administration de la justice a prépondérance sur le secret auquel est assujetti le texte relatif à la sûreté du transport ferroviaire, le tribunal ou l’autre organisme doit en ordonner la production et la divulgation, sous réserve des conditions qu’il juge indiquées; il peut en outre enjoindre à toute personne de témoigner à son sujet.
-> 1999, ch. 9, art. 30.
+> 1999, ch. 9, art. 30
 
 
 
@@ -1925,7 +1925,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Définition de déclaration**
 
 - **(4)** Pour l’application du paragraphe (3), ***déclaration*** s’entend d’une relation verbale, écrite ou enregistrée, ou de la transcription ou d’un résumé suffisamment étoffé de celle-ci. La présente définition vise également un comportement qui peut être assimilé à une pareille relation.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 40; 1989, ch. 3, art. 51.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 40; 1989, ch. 3, art. 51
 
 
 
@@ -1944,7 +1944,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 - **b)** prévoir le montant maximal de la sanction applicable à chaque contravention, plafonné comme suit :
 	- **(i)** dans le cas des personnes physiques, à 50 000 $,
 	- **(ii)** dans le cas des personnes morales, à 250 000 $.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -1971,7 +1971,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Assistance**
 
 - **(5)** La personne à qui l’agent demande la communication de documents ou données informatiques en vertu du paragraphe (4) est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui fournir les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -1980,7 +1980,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Procès-verbaux**
 
 **40.12** Le ministre peut décider de la forme et de la teneur des procès-verbaux de violation.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2003,7 +2003,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Nature de la violation**
 
 - **(4)** Les violations n’ont pas valeur d’infractions; en conséquence nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2012,7 +2012,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Verbalisation**
 
 **40.14** La personne désignée par le ministre au titre du paragraphe 40.11(1), si elle a des motifs raisonnables de croire qu’une violation a été commise, peut dresser un procès-verbal qu’elle fait signifier au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant de la pénalité à payer, ainsi que le délai, les modalités de paiement et la procédure à suivre pour déposer une requête en révision.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2021,7 +2021,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Paiement de la pénalité**
 
 **40.15** Lorsque le destinataire du procès-verbal paie la somme requise conformément aux modalités qui y sont prévues, le ministre accepte ce paiement en règlement de la pénalité imposée; aucune poursuite ne peut être intentée par la suite au titre de la présente loi contre l’intéressé pour la même contravention.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2048,7 +2048,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Intéressé non tenu de témoigner**
 
 - **(5)** L’intéressé n’est pas tenu de témoigner à l’audience.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2057,7 +2057,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Omission de payer la pénalité**
 
 **40.17** L’omission, par l’intéressé, de payer dans le délai imparti la pénalité prévue dans le procès-verbal et de déposer une requête en révision vaut déclaration de responsabilité à l’égard de la contravention.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2068,7 +2068,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **40.18** Après audition des parties, le conseiller informe sans délai l’intéressé et le ministre de sa décision. S’il décide :
 - **a)** qu’il n’y a pas eu contravention, sous réserve de l’article 40.19, nulle autre poursuite ne peut être intentée à cet égard sous le régime de la présente loi;
 - **b)** qu’il y a eu contravention, il les informe également, sous réserve des règlements pris en vertu de l’alinéa 40.1b), de la somme à payer au Tribunal par l’intéressé ou en son nom et du délai imparti pour effectuer le paiement.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2091,7 +2091,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Avis**
 
 - **(4)** S’il statue qu’il y a eu contravention, le comité en informe sans délai l’intéressé et le ministre. Sous réserve des règlements pris en vertu de l’alinéa 40.1b), il les informe également de la somme fixée par le comité qui est à payer au Tribunal par l’intéressé ou en son nom et du délai imparti pour effectuer le paiement.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2103,7 +2103,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 - **a)** omet de payer la pénalité prévue dans le procès-verbal ou de déposer une requête en révision au titre de l’article 40.16;
 - **b)** omet de payer la somme fixée en vertu de l’alinéa 40.18b) ou de déposer un appel au titre de l’article 40.19;
 - **c)** omet de payer la somme fixée en vertu du paragraphe 40.19(4).
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2122,7 +2122,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Fonds publics**
 
 - **(3)** Les sommes reçues par le ministre ou le Tribunal au titre du présent article sont assimilées à des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2131,7 +2131,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Prescription**
 
 **40.22** Les poursuites pour violation se prescrivent par douze mois à compter du fait reproché.
-> 2012, ch. 7, art. 31.
+> 2012, ch. 7, art. 31
 
 
 
@@ -2193,7 +2193,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Admissibilité en preuve**
 
 - **(7)** Les résultats des analyses servant à établir la présence ou la concentration d’alcool ou de drogue dans les échantillons de substances corporelles prélevés sous le régime du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sont admissibles en preuve dans les poursuites intentées au titre de la présente loi pour violation des règles ou règlements concernant la consommation d’alcool ou de drogue. Les articles 320.31 à 320.35 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)  s’appliquent, compte tenu des adaptations nécessaires, à ces poursuites.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60; 2012, ch. 7, art. 32; 2015, ch. 31, art. 32; 2018, ch. 21, art. 46.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60; 2012, ch. 7, art. 32; 2015, ch. 31, art. 32; 2018, ch. 21, art. 46
 
 
 
@@ -2243,7 +2243,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Destitution ou licenciement**
 
 - **(6)** Tout juge visé au paragraphe (1) ou la compagnie de chemin de fer peut destituer ou licencier l’agent de police, ce qui met fin à l’exercice des attributions qui lui sont conférées aux termes du présent article.
-> L.R. 1985, ch. 32 (4<sup>e</sup> suppl.), art. 44; 1999, ch. 9, art. 32; 2007, ch. 19, art. 54; 2012, ch. 7, art. 33(F).
+> L.R. 1985, ch. 32 (4<sup>e</sup> suppl.), art. 44; 1999, ch. 9, art. 32; 2007, ch. 19, art. 54; 2012, ch. 7, art. 33(F)
 
 
 
@@ -2261,7 +2261,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Dépôt**
 
 - **(2)** La compagnie de chemin de fer dépose auprès du ministre un double de la procédure. Elle met en oeuvre les recommandations de celui-ci, notamment celles concernant les moyens de porter à la connaissance du public l’existence de la procédure.
-> 2007, ch. 19, art. 54; 2012, ch. 7, art. 34(F).
+> 2007, ch. 19, art. 54; 2012, ch. 7, art. 34(F)
 
 
 
@@ -2298,7 +2298,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 - **f)** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1) et les avis prévus au paragraphe 39.1(2);
 - **g)** les certificats d’exploitation de chemin de fer délivrés en vertu de l’article 17.4 et les avis de décision visés à l’article 17.5;
 - **h)** les arrêtés visés à l’article 36.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33; 2001, ch. 29, art. 70; 2012, ch. 7, art. 35; 2015, ch. 31, art. 33.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33; 2001, ch. 29, art. 70; 2012, ch. 7, art. 35; 2015, ch. 31, art. 33
 
 
 
@@ -2348,7 +2348,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Portée des règlements**
 
 - **(4)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
-> 1999, ch. 9, art. 34; 2012, ch. 7, art. 37; 2015, ch. 31, art. 34.
+> 1999, ch. 9, art. 34; 2012, ch. 7, art. 37; 2015, ch. 31, art. 34
 
 
 
@@ -2369,7 +2369,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Portée des règlements**
 
 - **(3)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
-> 2012, ch. 7, art. 37.
+> 2012, ch. 7, art. 37
 
 
 
@@ -2384,7 +2384,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Examen par un comité du Sénat**
 
 - **(2)** Le Comité sénatorial permanent des transports et des communications ou, à défaut, le comité compétent du Sénat peut, de sa propre initiative ou à la suite du dépôt d’une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions au Sénat.
-> 2012, ch. 7, art. 37.
+> 2012, ch. 7, art. 37
 
 
 
@@ -2415,7 +2415,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Dépense**
 
 - **(5)** Le ministre peut dépenser les sommes perçues au titre d’un accord conclu en vertu du paragraphe (1) au cours de l’exercice où elles sont perçues ou de l’exercice suivant.
-> 2017, ch. 20, art. 315.
+> 2017, ch. 20, art. 315
 
 
 
@@ -2439,7 +2439,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Incompatibilité**
 
 **49** Les dispositions des règlements pris en vertu du paragraphe 7(1) et des articles 7.1, 18, 24, 37, 47 et 47.1 ainsi que les règles en vigueur sous le régime des articles 19 ou 20 l’emportent sur les dispositions incompatibles des textes d’application de toute autre loi fédérale.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 49; 1999, ch. 9, art. 35.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 49; 1999, ch. 9, art. 35
 
 
 
@@ -2462,7 +2462,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Dépôt du rapport**
 
 - **(2)** Le ministre fait déposer une copie d’un rapport de l’examen visé au paragraphe (1) devant chaque chambre du Parlement dans les trente premiers jours de séance de celle-ci suivant sa réception.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 51; 2012, ch. 7, art. 38.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 51; 2012, ch. 7, art. 38
 
 
 
@@ -2586,7 +2586,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Révocation par décret ou arrêté**
 
 - **(5)** Le gouverneur en conseil peut, par décret, abroger les ordonnances et les règlements visés à l’un des paragraphes (1) à (1.2) et (2.1), et le ministre peut, par arrêté, abroger les ordonnances et les règlements visés aux paragraphes (2) et (2.2) ainsi que les règlements administratifs visés au paragraphe (4).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 119; 1996, ch. 10, art. 267; 2015, ch. 31, art. 35.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 119; 1996, ch. 10, art. 267; 2015, ch. 31, art. 35
 
 
 
@@ -2626,5 +2626,313 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 <sup><a href='#R-4.2_fr_1'>[*]</a></sup>**122** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
 <a name='R-4.2_fr_1'><sup>*</sup></a>: [Note : Articles 1, 3, 4, 7 et 8, paragraphe 11(2), articles 18 et 19, paragraphe 24(1), articles 36, 37, 45 à 48 et 50 en vigueur le 8 octobre 1988, *voir* TR/88-202; articles 2, 5, 6, 9 et 10, paragraphes 11(1) et (3), articles 12 à 17, 20 à 23, paragraphe 24(2), articles 25 à 35, 38 à 44, 49, 51 à 90, 92 et 94 à 121 en vigueur le 1<sup>er</sup> janvier 1989, *voir* TR/88-244; articles 91 et 93 en vigueur le 1<sup>er</sup> octobre 1995, *voir* TR/95-109.]<br />
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 1998, ch. 30, art. 10
+
+
+**Procédures**
+
+**10** Les procédures intentées avant l'entrée en vigueur du présent article et auxquelles s'appliquent des dispositions visées par les articles 12 à 16 se poursuivent sans autres formalités en conformité avec ces dispositions dans leur forme modifiée.
+
+
+
+######           — 2007, ch. 19, art. 58
+
+
+**Agents de police nommés en vertu de l’article 158 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md)**
+
+**58** Les agents de police nommés en vertu de l’article 158 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) qui sont en fonctions à l’entrée en vigueur de l’article 54 de la présente loi sont réputés avoir été nommés en vertu de l’article 44 de la Loi sur la sécurité ferroviaire, édicté par cet article 54.
+
+
+
+######           — 2012, ch. 7, art. 41
+
+
+**Accords prorogés**
+
+**41** Les accords conclus ou les désignations faites en vertu de l’article 157.1 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) relativement aux questions visées à l’article 6.1 de la Loi sur la sécurité ferroviaire, édicté par l’article 6, sont prorogés jusqu’à ce qu’ils soient remplacés par un accord conclu ou fait en vertu de cet article 6.1.
+
+
+
+######           — 2012, ch. 7, art. 42
+
+
+**Accords prorogés**
+
+**42** Les accords conclus en vertu de l’article 158 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) relativement aux questions visées à l’article 6.2 de la Loi sur la sécurité ferroviaire, édicté par l’article 6, sont prorogés jusqu’à ce qu’ils soient remplacés par un accord conclu en vertu de cet article 6.2.
+
+
+
+######           — 2012, ch. 7, art. 43
+
+
+**Obtention d’un certificat : période de grâce**
+
+**43** L’article 17.1 de la Loi sur la sécurité ferroviaire, édicté par l’article 10, ne s’applique pas aux compagnies qui, au moment de l’entrée en vigueur de cet article 10, exploitaient ou entretenaient un chemin de fer ou exploitaient du matériel ferroviaire sur un chemin de fer pour une période de deux ans après l’entrée en vigueur de ce même article 10.
+
+
+
+######           — 2012, ch. 7, art. 44
+
+
+**Obtention d’un certificat : période de grâce**
+
+**44** Les exigences de conformité avec un certificat d’exploitation de chemin de fer imposées à l’article 17.2 de la Loi sur la sécurité ferroviaire, édicté par le paragraphe 11(2), ne s’appliquent pas aux compagnies qui, au moment de l’entrée en vigueur de cet article 17.2, n’ont pas un tel certificat et exploitaient ou entretenaient un chemin de fer ou exploitaient du matériel ferroviaire sur un chemin de fer, pour une période se terminant deux ans après l’entrée en vigueur de ce même article 17.2.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2012, ch. 7, par. 7(2)
+
+**7** 
+
+- **(2)** Le paragraphe 7(3) de la même loi est remplacé par ce qui suit :
+
+**Application de certaines dispositions**
+
+- **(3)** L’article 19 et les règlements pris en vertu de l’article 20.2 s’appliquent — à l’exception de toute obligation de consulter — aux normes visées aux paragraphes (2) et (2.1), avec les adaptations nécessaires.
+
+
+
+######           — 2012, ch. 7, par. 14(2) à (5)
+
+**14** 
+
+- **(2)** Les paragraphes 19(2) et (3) de la même loi, édictés par le paragraphe (1), sont remplacés par ce qui suit :
+
+**Processus — règles**
+
+- **(2)** La compagnie formule et dépose des règles conformément au processus établi par règlement en vertu de l’article 20.2.
+
+- **(3)** Les paragraphes 19(4) à (4.2) de la même loi, édictés par le paragraphe (1), sont remplacés par ce qui suit :
+
+**Décision du ministre**
+
+- **(4)** Le ministre doit, aussitôt que possible après le dépôt du texte mais, en tout état de cause, avant l’expiration du délai d’examen, décider si les règles dont le texte a été déposé en application du paragraphe (1) contribuent ou non à la sécurité de l’exploitation ferroviaire de la compagnie, après avoir tenu compte des usages en la matière, de l’opinion de la compagnie et de toute personne dont les règlements exigent qu’elle soit consultée sur les règles par la compagnie, et de tout point qu’il juge utile, et notifier à ces dernières, dans le cas d’une décision positive, son approbation en en précisant, le cas échéant, les conditions, ou, dans le cas contraire, son refus et ses motifs.
+
+**Demande de modification**
+
+- **(4.1)** La compagnie visée au paragraphe (4) peut, à la lumière de nouveaux renseignements touchant la sécurité ferroviaire, demander au ministre de modifier les conditions de l’approbation conformément au processus réglementaire.
+
+**Modifications**
+
+- **(4.2)** Le ministre peut modifier les conditions de l’approbation; il fait parvenir, le cas échéant, une copie des modifications à toute personne dont les règlements exigent qu’elle soit consultée par la compagnie au sujet de la demande de modification.
+
+- **(4)** L’alinéa 19(8)a) de la même loi, édicté par le paragraphe (1), est remplacé par ce qui suit :
+
+- **a)** d’une part, il a donné à celle-ci, ainsi qu’à toute personne que la compagnie est tenue de consulter si les règles ont été établies par celle-ci en vertu d’une ordonnance prise au titre du paragraphe (1), la possibilité, pendant soixante jours, de lui faire part de leurs observations;
+
+
+
+- **(5)** Les paragraphes 20(2) et (3) de la même loi, édictés par le paragraphe (1), sont remplacés par ce qui suit :
+
+**Processus — règles**
+
+- **(2)** La compagnie établit et modifie des règles conformément au processus établi par règlement en vertu de l’article 20.2.
+
+
+
+######           — 2018, ch. 10, art. 61
+
+**61** La Loi sur la sécurité ferroviaire est modifiée par adjonction, après l’article 17.3, de ce qui suit :
+
+**Appareils d’enregistrement**
+
+**17.31** 
+
+- **(1)** Il est interdit à toute compagnie de chemin de fer qui satisfait aux critères réglementaires d’exploiter du matériel ferroviaire ou à toute compagnie de chemin de fer locale qui satisfait aux critères réglementaires d’exploiter du matériel ferroviaire sur un chemin de fer, sauf si :
+	- **a)** d’une part, le matériel ferroviaire est muni des appareils d’enregistrement réglementaires;
+	- **b)** d’autre part, la compagnie, selon les modalités et dans les circonstances réglementaires, enregistre les renseignements réglementaires au moyen de ces appareils, recueille les renseignements enregistrés et conserve les renseignements recueillis.
+
+**Utilisation et communication**
+
+- **(2)** Il est interdit à toute compagnie visée au paragraphe (1) d’utiliser ou de communiquer les renseignements qu’elle enregistre, recueille ou conserve au titre de ce paragraphe, sauf si l’utilisation ou la communication est effectuée conformément à la loi.
+
+**Mesure pour empêcher l’enregistrement, la collecte ou la conservation**
+
+- **(3)** Il est interdit à toute personne de prendre une quelconque mesure, notamment altérer les appareils d’enregistrement visés au paragraphe (1), dans l’intention d’empêcher l’enregistrement, la collecte ou la conservation de renseignements au titre de ce paragraphe.
+
+
+
+
+
+######           — 2018, ch. 10, art. 62
+
+**62** La même loi est modifiée par adjonction, après l’article 17.9, de ce qui suit :
+
+### Appareils d’enregistrement
+
+
+**Compagnie — utilisation des renseignements**
+
+**17.91** 
+
+- **(1)** La compagnie peut utiliser les renseignements qu’elle enregistre, recueille ou conserve au titre du paragraphe 17.31(1) pour :
+	- **a)** effectuer des analyses en application des articles 13, 47 ou 74 du [Règlement de 2015 sur le système de gestion de la sécurité ferroviaire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2015/26.md);
+	- **b)** déterminer les causes et facteurs d’un accident ou incident à l’égard duquel elle est tenue, sous le régime de la [Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports](/fr/Lois/Lois%20du%20Canada/1989/ch.%203.md), de faire rapport au Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports et qui ne fait pas l’objet d’une enquête par ce Bureau.
+
+**Renseignements choisis de façon aléatoire**
+
+- **(2)** Les renseignements que la compagnie peut utiliser dans le cadre des analyses visées à l’alinéa (1)a) sont toutefois choisis de façon aléatoire conformément aux règlements.
+
+**Utilisation — risque pour la sécurité ferroviaire**
+
+- **(3)** Si elle utilise des renseignements en vertu du paragraphe (1), la compagnie peut également utiliser ces renseignements pour traiter un risque pour la sécurité ferroviaire prévu par règlement.
+
+**[Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md) et lois provinciales**
+
+- **(4)** La compagnie qui recueille, utilise ou communique des renseignements au titre du présent article, des articles 17.31 ou 17.94, des paragraphes 28(1.1) ou 36(2) ou des règlements pris en vertu de l’article 17.95 peut le faire :
+	- **a)** par dérogation à l’article 5 de la [Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md), dans la mesure où cet article a trait aux obligations énoncées dans l’annexe 1 de cette loi relativement à la collecte, à l’utilisation, à la communication et à la conservation de renseignements, et malgré l’article 7 de cette loi;
+	- **b)** malgré toute disposition d’une loi provinciale essentiellement semblable à la partie 1 de la loi visée à l’alinéa a) qui restreint la collecte, l’utilisation, la communication ou la conservation de renseignements.
+
+
+
+**Ministre — utilisation des renseignements**
+
+**17.92** 
+
+- **(1)** Le ministre peut utiliser les renseignements qu’une compagnie enregistre, recueille ou conserve au titre du paragraphe 17.31(1) pour :
+	- **a)** élaborer des orientations;
+	- **b)** déterminer les causes et facteurs d’un accident ou incident dont il doit, sous le régime de la [Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports](/fr/Lois/Lois%20du%20Canada/1989/ch.%203.md), être fait rapport au Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports et qui ne fait pas l’objet d’une enquête par ce Bureau;
+	- **c)** vérifier le respect de l’article 17.31 et des règlements pris en vertu de l’article 17.95.
+
+**Renseignements choisis de façon aléatoire**
+
+- **(2)** Les renseignements que le ministre peut utiliser pour élaborer des orientations sont toutefois choisis de façon aléatoire conformément aux règlements.
+
+**Utilisation — risque pour la sécurité ferroviaire**
+
+- **(3)** S’il utilise des renseignements en vertu des alinéas (1)a) ou b), le ministre peut également utiliser ces renseignements pour traiter un risque pour la sécurité ferroviaire.
+
+
+
+**Inspecteurs — utilisation des renseignements**
+
+**17.93** 
+
+- **(1)** Tout inspecteur de la sécurité ferroviaire peut utiliser les renseignements qu’une compagnie enregistre, recueille ou conserve au titre du paragraphe 17.31(1) pour :
+	- **a)** déterminer les causes et facteurs d’un accident ou incident dont il doit, sous le régime de la [Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports](/fr/Lois/Lois%20du%20Canada/1989/ch.%203.md), être fait rapport au Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports et qui ne fait pas l’objet d’une enquête par ce Bureau;
+	- **b)** vérifier le respect de l’article 17.31 et des règlements pris en vertu de l’article 17.95.
+
+**Utilisation — risque pour la sécurité ferroviaire**
+
+- **(2)** S’il utilise des renseignements en vertu de l’alinéa (1)a), l’inspecteur de la sécurité ferroviaire peut également utiliser ces renseignements pour traiter un risque pour la sécurité ferroviaire.
+
+
+
+**Admissibilité en preuve — renseignements enregistrés**
+
+**17.94** 
+
+- **(1)** Les renseignements qui sont enregistrés, au titre du paragraphe 17.31(1), au moyen des appareils d’enregistrement dont est muni le matériel ferroviaire sont admissibles en preuve dans le cadre de poursuites pour une violation ou infraction relative à la contravention à l’article 17.31 ou aux règlements pris en vertu de l’article 17.95 intentées contre la compagnie qui exploite le matériel ferroviaire.
+
+**Non-admissibilité en preuve — renseignements enregistrés**
+
+- **(2)** Les renseignements qui sont enregistrés, au titre du paragraphe 17.31(1), au moyen des appareils d’enregistrement dont est muni le matériel ferroviaire ne sont pas admissibles en preuve dans le cadre de poursuites pour violation de la présente loi ou infraction à celle-ci — autre qu’une violation ou infraction relative à la contravention au paragraphe 17.31(3) — intentées contre toute personne physique qui se trouve à bord du matériel ferroviaire au moment de l’enregistrement ou toute personne physique avec qui celle-ci communique à ce moment.
+
+**Admissibilité en preuve — renseignements utilisés en vertu des paragraphes 17.91(3), 17.92(3) ou 17.93(2)**
+
+- **(3)** Sous réserve du paragraphe (2), les renseignements utilisés en vertu des paragraphes 17.91(3), 17.92(3) ou 17.93(2) sont admissibles en preuve dans le cadre de toute procédure qui découle de cette utilisation.
+
+
+
+**Règlements**
+
+**17.95** 
+
+- **(1)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** prévoyant des critères pour l’application du paragraphe 17.31(1);
+	- **b)** concernant l’exemption de toute compagnie qui satisfait aux critères visés à l’alinéa a) de l’application du paragraphe 17.31(1);
+	- **c)** concernant les appareils d’enregistrement dont le matériel ferroviaire doit être muni, notamment leurs caractéristiques, leur installation et leur entretien;
+	- **d)** concernant les renseignements que les compagnies enregistrent au moyen de ces appareils, notamment l’enregistrement, la collecte, la conservation, la destruction, l’utilisation, la communication — y compris à la demande du ministre —, le choix de tels renseignements et l’accès à ceux-ci;
+	- **e)** prévoyant des risques pour la sécurité ferroviaire, pour l’application du paragraphe 17.91(3).
+
+**Portée des règlements**
+
+- **(2)** Le règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
+
+
+
+**Précision**
+
+**17.96** Il est entendu que, sous réserve de l’utilisation ou de la communication expressément autorisée par l’un des articles 17.91 à 17.94, les paragraphes 28(1.1) ou 36(2) ou les règlements pris en vertu de l’article 17.95, les renseignements que la compagnie enregistre, recueille ou conserve au titre du paragraphe 17.31(1) et qui sont des enregistrements de bord, au sens du paragraphe 28(1) de la [Loi sur le Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports](/fr/Lois/Lois%20du%20Canada/1989/ch.%203.md), demeurent protégés au titre du paragraphe 28(2) de cette loi.
+
+
+
+
+
+######           — 2018, ch. 10, art. 63
+
+**63** L’article 28 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+**Communication autorisée**
+
+- **(1.1)** La compagnie est autorisée à communiquer à l’inspecteur les renseignements qu’elle a enregistrés, recueillis ou conservés au titre du paragraphe 17.31(1) et qui sont compris dans un document que celui-ci lui ordonne de lui remettre, en vertu de l’alinéa (1)a.1), pour vérifier le respect de l’article 17.31 et des règlements pris en vertu de l’article 17.95.
+
+
+
+######           — 2018, ch. 10, art. 64
+
+
+**
+> 2012, ch. 7, art. 30
+**
+
+**64** L’article 36 de la même loi devient le paragraphe 36(1) et est modifié par adjonction de ce qui suit :
+
+**Communication autorisée**
+
+- **(2)** La compagnie est autorisée à communiquer au ministre les renseignements qu’elle a enregistrés, recueillis ou conservés au titre du paragraphe 17.31(1) et que le ministre lui demande de lui fournir, en vertu du paragraphe (1), pour vérifier le respect de l’article 17.31 et des règlements pris en vertu de l’article 17.95.
+
+
+
+######           — 2018, ch. 10, art. 65
+
+
+**
+> 1999, ch. 9, art. 31
+**
+
+**65** 
+
+- **(1)** L’alinéa 41(2)a) de la même loi est remplacé par ce qui suit :
+
+- **a)** à un règlement pris en vertu du paragraphe 7(1) ou des articles 7.1, 17.95, 18, 24, 37, 47 ou 47.1;
+
+
+
+**
+> 2012, ch. 7, par. 32(2)
+**
+
+- **(2)** L’alinéa 41(2)h) de la même loi est remplacé par ce qui suit :
+
+- **h)** à un arrêté pris en vertu du paragraphe 36(1).
+
+
+
+
+
+######           — 2018, ch. 10, art. 66
+
+
+**
+> 2012, ch. 7, art. 35
+**
+
+**66** L’alinéa 46h) de la même loi est remplacé par ce qui suit :
+
+- **h)** les arrêtés pris en vertu du paragraphe 36(1).
+
+
+
 
 
