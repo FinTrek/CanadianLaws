@@ -100,7 +100,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***Sable Island National Park Reserve of Canada*** means Sable Island National Park Reserve of Canada as described in Schedule 2 to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md); (*réserve à vocation de parc national de l’Île-de-Sable du Canada*)
 
 ***spill-treating agent***, except in section 166.5, means a spill-treating agent that is on the list established under section 14.2 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md). (*agent de traitement*)
-> 1988, c. 28, s. 2; 1993, c. 47, s. 11; 1994, c. 26, s. 16(F), c. 41, s. 37; 2007, c. 33, s. 16; 2013, c. 28, s. 5; 2014, c. 13, s. 55; 2015, c. 4, s. 71.
+> 1988, c. 28, s. 2; 1993, c. 47, s. 11; 1994, c. 26, s. 16(F), c. 41, s. 37; 2007, c. 33, s. 16; 2013, c. 28, s. 5; 2014, c. 13, s. 55; 2015, c. 4, s. 71
 
 
 
@@ -157,7 +157,7 @@ this Act and the regulations made thereunder take precedence.
 **Approval of Provincial Minister**
 
 - **(2)** Before a regulation is made under subsection 210.001(3) or (4) or 210.126(1), the Federal Minister shall consult the minister of the government of the Province who is responsible for occupational health and safety with respect to the proposed regulation and no regulation shall be so made without the approval of that minister.
-> 1988, c. 28, s. 6; 2014, c. 13, s. 56; 2015, c. 4, ss. 72, 117.
+> 1988, c. 28, s. 6; 2014, c. 13, s. 56; 2015, c. 4, ss. 72, 117
 
 
 
@@ -187,7 +187,7 @@ this Act and the regulations made thereunder take precedence.
 **Excluded legislation**
 
 - **(2)** Subject to section 103, the [Canada Petroleum Resources Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2036%20(2nd%20Supp.).md) and the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) and any regulations made under those Acts do not apply within the offshore area.
-> 1988, c. 28, s. 8; 1992, c. 35, s. 84.
+> 1988, c. 28, s. 8; 1992, c. 35, s. 84
 
 
 
@@ -219,7 +219,7 @@ this Act and the regulations made thereunder take precedence.
 **Dissolution of Board**
 
 - **(4)** The Board may be dissolved only by the joint operation of an Act of Parliament and an Act of the Legislature of the Province.
-> 1988, c. 28, s. 9; 1992, c. 35, s. 85; 1994, c. 24, s. 34(F).
+> 1988, c. 28, s. 9; 1992, c. 35, s. 85; 1994, c. 24, s. 34(F)
 
 
 
@@ -242,7 +242,7 @@ this Act and the regulations made thereunder take precedence.
 **Joint appointees**
 
 - **(4)** Notwithstanding subsection (2) or (3), any member or alternate member of the Board may be appointed by both the Federal Government and the Provincial Government.
-> 1988, c. 28, s. 10; 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 10; 2014, c. 13, s. 91(E)
 
 
 
@@ -265,7 +265,7 @@ this Act and the regulations made thereunder take precedence.
 **Qualifications for Chairperson**
 
 - **(3)** The Chairperson of the Board shall not, during the term of office as Chairperson, be a public servant.
-> 1988, c. 28, s. 11; 2003, c. 22, s. 122(E); 2014, c. 13, s. 91(E); 2017, c. 9, s. 55.
+> 1988, c. 28, s. 11; 2003, c. 22, s. 122(E); 2014, c. 13, s. 91(E); 2017, c. 9, s. 55
 
 
 
@@ -294,7 +294,7 @@ this Act and the regulations made thereunder take precedence.
 **Appointments of public servants during pleasure**
 
 - **(5)** Any member of the Board who is a public servant holds office during pleasure.
-> 1988, c. 28, s. 12; 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 12; 2014, c. 13, s. 91(E)
 
 
 
@@ -320,7 +320,7 @@ whichever occurs earlier.
 **Decision of panel binding**
 
 - **(4)** The decision of the panel selecting a Chairperson of the Board is final and binding on both governments.
-> 1988, c. 28, s. 13; 2014, c. 13, ss. 57(E), 91(E).
+> 1988, c. 28, s. 13; 2014, c. 13, ss. 57(E), 91(E)
 
 
 
@@ -329,7 +329,7 @@ whichever occurs earlier.
 **Absence or incapacity of Chairperson**
 
 **14** The Board shall designate a member to act as Chairperson of the Board during any absence or incapacity of the Chairperson or vacancy in the office of Chairperson, and that person, while acting as Chairperson, has and may exercise all of the powers and perform all of the duties and functions of the Chairperson.
-> 1988, c. 28, s. 14; 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 14; 2014, c. 13, s. 91(E)
 
 
 
@@ -344,7 +344,7 @@ whichever occurs earlier.
 **Salaries of separate appointees**
 
 - **(2)** The salary and other terms and conditions of the appointment of any member appointed by either the Federal Government or the Provincial Government shall be agreed on by both governments.
-> 1988, c. 28, s. 15; 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 15; 2014, c. 13, s. 91(E)
 
 
 
@@ -447,7 +447,7 @@ if the material is to be permanently retained at the facility referred to in sub
 	- **(i)** at the call of the Chairperson of the Board,
 	- **(ii)** on the request of any two members of the Board, or
 	- **(iii)** on the request of the Federal Minister or the Provincial Minister to review any matter referred to the Board by that Minister.
-> 1988, c. 28, s. 22; 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 22; 2014, c. 13, s. 91(E)
 
 
 
@@ -513,7 +513,7 @@ if the material is to be permanently retained at the facility referred to in sub
 **Absence or incapacity of Chief Executive Officer**
 
 - **(7)** The Board shall designate a person to act as Chief Executive Officer during any absence or incapacity of that Officer or vacancy in the office of Chief Executive Officer and that person, while acting as Chief Executive Officer, has and may exercise all the powers and perform all of the duties and functions of that office.
-> 1988, c. 28, s. 25; 2014, c. 13, s. 91(E); 2015, c. 4, s. 73(F).
+> 1988, c. 28, s. 25; 2014, c. 13, s. 91(E); 2015, c. 4, s. 73(F)
 
 
 
@@ -550,7 +550,7 @@ if the material is to be permanently retained at the facility referred to in sub
 **Definition of public service**
 
 - **(5)** In this section, ***public service*** has the same meaning as in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
-> 1988, c. 28, s. 26; 2003, c. 22, ss. 123, 225(E), 232; 2014, c. 13, s. 58; 2017, c. 9, s. 55.
+> 1988, c. 28, s. 26; 2003, c. 22, ss. 123, 225(E), 232; 2014, c. 13, s. 58; 2017, c. 9, s. 55
 
 
 
@@ -572,7 +572,7 @@ if the material is to be permanently retained at the facility referred to in sub
 **Internal audit**
 
 - **(2)** In addition to any other duties and functions that it is required to perform, the audit and evaluation committee shall cause internal audits to be conducted to ensure that the officers and employees of the Board act in accordance with management systems and controls established by the Board.
-> 2014, c. 13, s. 59.
+> 2014, c. 13, s. 59
 
 
 
@@ -623,7 +623,7 @@ if the material is to be permanently retained at the facility referred to in sub
 **Tabling of report**
 
 - **(3)** The Federal Minister shall cause the annual report referred to in this section to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the day on which the report is submitted to the Federal Minister.
-> 1988, c. 28, s. 30; 2014, c. 13, s. 60.
+> 1988, c. 28, s. 30; 2014, c. 13, s. 60
 
 
 
@@ -651,7 +651,7 @@ if the material is to be permanently retained at the facility referred to in sub
 **Amounts not to exceed cost**
 
 - **(3)** The amounts of the fees or charges referred to in paragraph (1)(b) shall not exceed the cost of the Board’s activities under this Act or under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
-> 2015, c. 4, s. 74.
+> 2015, c. 4, s. 74
 
 
 
@@ -660,7 +660,7 @@ if the material is to be permanently retained at the facility referred to in sub
 **Non-application of [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
 **30.2** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to any fees or charges payable in accordance with regulations made under section 30.1.
-> 2015, c. 4, s. 74; 2017, c. 20, s. 454.
+> 2015, c. 4, s. 74; 2017, c. 20, s. 454
 
 
 
@@ -669,7 +669,7 @@ if the material is to be permanently retained at the facility referred to in sub
 **Remittance of fees and charges**
 
 **30.3** One half of the amounts of the fees and charges obtained in accordance with regulations made under section 30.1 shall be paid to the credit of the Receiver General and the other half shall be paid to the credit of Her Majesty in right of the Province, in the time and manner prescribed under those regulations.
-> 2015, c. 4, s. 74.
+> 2015, c. 4, s. 74
 
 
 
@@ -707,7 +707,7 @@ whichever occurs earlier.
 **33** 
 
 - **(1)** Subject to subsection (2), a fundamental decision shall not be implemented
-	- **(a)** before the expiration of thirty days after receipt by both Ministers of a notice of the fundamental decision pursuant to subsection 32(1) and any further period during which the implementation of the decision is suspended pursuant to section 34 or during which, pursuant to section 35, the decision may be set aside, the setting aside may be overruled or a determination may be made by the National Energy Board; or
+	- **(a)** before the expiration of 30 days after receipt by both Ministers of a notice of the fundamental decision under subsection 32(1) and any further period during which the implementation of the decision is suspended under section 34 or during which, under section 35, the decision may be set aside, the setting aside may be overruled or a determination may be made by the Commission of the Canadian Energy Regulator; or
 	- **(b)** if the decision has been conclusively set aside.
 
 **Exception where approval of both Ministers**
@@ -717,6 +717,8 @@ whichever occurs earlier.
 **Decision to be implemented on expiration of delays**
 
 - **(3)** Where, on the expiration of the periods referred to in paragraph (1)(a), a fundamental decision of the Board has not been conclusively set aside, that decision shall be implemented forthwith by the Board.
+> 1988, c. 28, s. 332019, c. 28, s. 153
+
 
 
 
@@ -749,22 +751,22 @@ if, in the opinion of the Federal Minister, the decision, in the case of paragra
 
 - **(3)** Where a Minister sets aside a fundamental decision of the Board pursuant to subsection (1) or (2) or the Federal Minister overrules the setting aside of a fundamental decision pursuant to subsection (2), that Minister shall give a written notice to that effect to the other Minister and the Board.
 
-**Determination by National Energy Board**
+**Commission of the Canadian Energy Regulator**
 
-- **(4)** Notwithstanding subsection (2), where the Provincial Minister disagrees with the setting aside or overruling by the Federal Minister in respect of a fundamental decision pursuant to subsection (2), the National Energy Board shall, on application made by the Provincial Minister within such time and in such manner as may be prescribed,
+- **(4)** Despite subsection (2), if the Provincial Minister disagrees with the setting aside or overruling by the Federal Minister in respect of a fundamental decision under subsection (2), the Commission of the Canadian Energy Regulator must, on application made by the Provincial Minister within the time and in the manner that may be prescribed,
 	- **(a)** determine whether the fundamental decision of the Board or the setting aside of that decision would unreasonably delay the attainment of security of supply; and
 	- **(b)** thereby confirm or vacate the setting aside or overruling by the Federal Minister in respect of the fundamental decision.
 
 **Procedures for determination**
 
-- **(5)** A determination of the National Energy Board made pursuant to subsection (4),
-	- **(a)** notwithstanding the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), shall be made within such time and in such manner as may be prescribed;
+- **(5)** A determination of the Commission of the Canadian Energy Regulator made under subsection (4),
+	- **(a)** despite the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md), must be made within the time and in the manner that may be prescribed;
 	- **(b)** is final and binding and is not subject to appeal to, or review or setting aside by, any Minister, government, court or other body; and
-	- **(c)** shall be published forthwith by the Board.
+	- **(c)** must be published without delay by the Regulator.
 
 **Transitional**
 
-- **(6)** Where an application is made by the Provincial Minister to the National Energy Board prior to the coming into force of the first regulation made for the purposes of subsection (4) or paragraph (5)(a), the application and the determination of the National Energy Board shall be made in accordance with the procedures and within the periods established by the National Energy Board.
+- **(6)** Where an application is made by the Provincial Minister to the Canadian Energy Regulator prior to the coming into force of the first regulation made for the purposes of subsection (4) or paragraph (5)(a), the application and the determination of the Canadian Energy Regulator shall be made in accordance with the procedures and within the periods established by the Canadian Energy Regulator.
 
 **Conclusively set aside**
 
@@ -786,6 +788,8 @@ if, in the opinion of the Federal Minister, the decision, in the case of paragra
 ***self-sufficiency*** means a volume of suitable crude oil and equivalent substances available from Canadian hydrocarbon producing capacity that is adequate to supply the total feedstock requirements of Canadian refineries necessary to satisfy the total domestic refined product requirements of Canada, excluding those feedstock requirements necessary to produce specialty refined products; (*autosuffisance*)
 
 ***suitable crude oil and equivalent substances*** means those substances that are appropriate for processing in Canadian refineries and that are potentially deliverable to Canadian refineries. (*pétrole brut et substances assimilées acceptables*)
+> 1988, c. 28, s. 352019, c. 28, s. 1542019, c. 28, s. 155
+
 
 
 
@@ -816,7 +820,7 @@ if, in the opinion of the Federal Minister, the decision, in the case of paragra
 **Determination not subject to review**
 
 - **(2)** Where a determination referred to in subsection (1) is made by a panel pursuant to that subsection, that determination is final and binding and is not subject to appeal to, or review or setting aside by, any Minister, government, court or other body.
-> 1988, c. 28, s. 37; 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 37; 2014, c. 13, s. 91(E)
 
 
 
@@ -874,7 +878,7 @@ if, in the opinion of the Federal Minister, the decision, in the case of paragra
 	- **(a)** defining the expression ***commercial terms*** or providing for arbitration to establish commercial terms in any particular case;
 	- **(b)** governing, for the purposes of this section, arbitration and the making of arbitration orders and governing the enforcement of arbitration orders and appeals from those orders; and
 	- **(c)** prescribing the manner of exercising a first option to acquire that is granted pursuant to a notice given under subsection (2).
-> 1988, c. 28, s. 39; 2015, c. 4, s. 75.
+> 1988, c. 28, s. 39; 2015, c. 4, s. 75
 
 
 
@@ -892,11 +896,13 @@ if, in the opinion of the Federal Minister, the decision, in the case of paragra
 
 **Certificate**
 
-- **(2)** No certificate of public convenience and necessity shall be issued pursuant to Part III of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) in respect of a Nova Scotia trunkline, unless the National Energy Board is satisfied that the Government of Nova Scotia has been given a reasonable opportunity to acquire on a commercial basis at least fifty per cent, or such lesser percentage as the Government proposes to acquire as a result of the opportunity, ownership interest in the trunkline.
+- **(2)** No certificate shall be issued under Part 3 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) in respect of a Nova Scotia trunkline, unless the Commission of the Canadian Energy Regulator is satisfied that the Government of Nova Scotia has been given a reasonable opportunity to acquire on a commercial basis at least 50%, or any lesser percentage that the Government proposes to acquire as a result of the opportunity, ownership interest in the trunkline.
 
 **Authorization**
 
 - **(3)** Where a certificate referred to in subsection (2) is not required in respect of a Nova Scotia trunkline, no authorization shall be issued under paragraph 142(1)(b) in respect of that trunkline, unless the Board is satisfied that the Government of Nova Scotia has been given a reasonable opportunity to acquire on a commercial basis at least fifty per cent, or such lesser percentage as the Government proposes to acquire as a result of the opportunity, ownership interest in the trunkline.
+> 1988, c. 28, s. 402019, c. 28, s. 156
+
 
 
 
@@ -937,7 +943,7 @@ if, in the opinion of the Federal Minister, the decision, in the case of paragra
 **Directives deemed not to be statutory instruments**
 
 - **(6)** Directives issued under this section shall be deemed not to be statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1988, c. 28, s. 41; 1993, c. 47, s. 12; 2014, c. 13, s. 61.
+> 1988, c. 28, s. 41; 1993, c. 47, s. 12; 2014, c. 13, s. 61
 
 
 
@@ -955,7 +961,7 @@ if, in the opinion of the Federal Minister, the decision, in the case of paragra
 	- **(a)** issues or jointly issues a directive under section 41,
 	- **(b)** suspends the implementation of a fundamental decision pursuant to section 34, or
 	- **(c)** sets aside a fundamental decision or overrules the setting aside of a fundamental decision pursuant to section 35,
-the Minister shall cause a notice of the Minister’s action and of the fundamental decision in relation to which it is exercised to be published in the Canada Gazette.
+the Minister shall cause a notice of the Minister’s action and of the fundamental decision in relation to which it is exercised to be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Text of directive to be made available**
 
@@ -1002,7 +1008,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 **Time limit for Board’s recommendations on a plan**
 
 - **(4)** The commissioners shall make their recommendations respecting any preliminary plan or statement submitted pursuant to paragraph (2)(d) within two hundred and seventy days after their receipt of the plan or statement or such shorter period as may be set by the Board.
-> 1988, c. 28, s. 44; 2015, c. 4, s. 76(F).
+> 1988, c. 28, s. 44; 2015, c. 4, s. 76(F)
 
 
 
@@ -1015,7 +1021,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 **Public hearings**
 
 **44.1** The Board may conduct a public hearing in relation to the exercise of any of its powers or the performance of any of its duties and functions as a responsible authority as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
-> 2015, c. 4, s. 77.
+> 2015, c. 4, s. 77
 
 
 
@@ -1028,7 +1034,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 - **(b)** the information is financial, commercial, scientific or technical information that is confidential information supplied to the Board and
 	- **(i)** the information has been consistently treated as confidential information by a person directly affected by the hearing, and
 	- **(ii)** the person’s interest in confidentiality outweighs the public interest in its disclosure.
-> 2015, c. 4, s. 77.
+> 2015, c. 4, s. 77
 
 
 
@@ -1039,7 +1045,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 **44.3** At any public hearing conducted under section 44.1, the Board may take any measures and make any order that it considers necessary to ensure the confidentiality of information that is likely to be disclosed at the hearing if the Board is satisfied that
 - **(a)** there is a real and substantial risk that disclosure of the information will impair the security of pipelines, as defined in section 138, installations, vessels, aircraft or systems, including computer or communication systems, or methods employed to protect them; and
 - **(b)** the need to prevent disclosure of the information outweighs the public interest in its disclosure.
-> 2015, c. 4, s. 77.
+> 2015, c. 4, s. 77
 
 
 
@@ -1048,7 +1054,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 **Exception**
 
 **44.4** The Board shall not take any measures or make any order under section 44.2 or 44.3 in respect of information or documentation referred to in paragraphs 122(5)(a) to (e) and (i).
-> 2015, c. 4, s. 77.
+> 2015, c. 4, s. 77
 
 
 
@@ -1093,7 +1099,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 **Regulations**
 
 - **(7)** Subject to section 6, the Governor in Council may make regulations prescribing the time and manner of submission of any Canada-Nova Scotia benefits plan and the form and information to be contained therein.
-> 1988, c. 28, s. 45; 1992, c. 35, s. 86.
+> 1988, c. 28, s. 45; 1992, c. 35, s. 86
 
 
 
@@ -1120,7 +1126,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 **Idem**
 
 - **(2)** The Federal Minister and the Provincial Minister shall be parties to any memorandum of understanding concluded in relation to a matter referred to in paragraph (1)(d).
-> 1988, c. 28, s. 46; 2014, c. 13, s. 62.
+> 1988, c. 28, s. 46; 2014, c. 13, s. 62
 
 
 
@@ -1145,7 +1151,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 - **(3)** The chairperson of the panel shall be appointed
 	- **(a)** jointly by the two members of the panel appointed pursuant to subsection (2) within thirty days after the later of the two appointments made pursuant to that subsection; or
 	- **(b)** where the two members of the panel fail to agree on the appointment of the chairperson of the panel within the thirty day period referred to in paragraph (a), by the Chief Justice of Nova Scotia within thirty days after the expiration of that period.
-> 1988, c. 28, s. 47; 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 47; 2014, c. 13, s. 91(E)
 
 
 
@@ -1258,7 +1264,7 @@ the Minister shall cause a notice of the Minister’s action and of the fundamen
 **Giving notice**
 
 **52** Where a notice is required to be given under this Part or the regulations, it shall be given in such form and manner as may be prescribed and shall contain such information as may be prescribed.
-> 1988, c. 28, s. 52; 1992, c. 1, s. 144(F).
+> 1988, c. 28, s. 52; 1992, c. 1, s. 144(F)
 
 
 
@@ -1512,7 +1518,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 
 **Manner of publication of notices**
 
-**66** Any notice required to be published by the Board pursuant to subsection 61(1), 62(2) or (4), 64(2) or 71(2) shall be published in the Canada Gazette and in any other publication the Board deems appropriate and, notwithstanding those subsections, may contain only a summary of the information required to be published and a statement that the full text thereof is available for inspection by any person on request made to the Board.
+**66** Any notice required to be published by the Board pursuant to subsection 61(1), 62(2) or (4), 64(2) or 71(2) shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and in any other publication the Board deems appropriate and, notwithstanding those subsections, may contain only a summary of the information required to be published and a statement that the full text thereof is available for inspection by any person on request made to the Board.
 
 
 
@@ -1749,7 +1755,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Definition of well termination date**
 
 - **(5)** For the purposes of subsection (3), ***well termination date*** means the date on which a well has been abandoned, completed or suspended in accordance with any applicable drilling regulations.
-> 1988, c. 28, s. 79; 2015, c. 4, s. 78.
+> 1988, c. 28, s. 79; 2015, c. 4, s. 78
 
 
 
@@ -1869,7 +1875,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Terms and conditions of production licence**
 
 - **(4)** A production licence shall be in the form prescribed and may contain any terms and conditions, not inconsistent with this Part or the regulations, as may be agreed on by the Board, subject to sections 32 to 37, and the interest owner of the production licence.
-> 1988, c. 28, s. 84; 1993, c. 47, s. 13.
+> 1988, c. 28, s. 84; 1993, c. 47, s. 13
 
 
 
@@ -1955,7 +1961,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Qualification for production licence**
 
 **90** No production licence or share in a production licence may be held by any person other than a corporation incorporated in Canada.
-> 1988, c. 28, s. 90; 1993, c. 47, s. 14.
+> 1988, c. 28, s. 90; 1993, c. 47, s. 14
 
 
 
@@ -2010,7 +2016,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **No Crown share**
 
 - **(7)** No provision of this Act or the Provincial Act or any regulation made thereunder shall apply so as to reserve to Her Majesty a Crown share in any interest issued in respect of any portion of the offshore area.
-> 1988, c. 28, s. 99; 2015, c. 4, s. 79(F).
+> 1988, c. 28, s. 99; 2015, c. 4, s. 79(F)
 
 
 
@@ -2037,7 +2043,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Proof of provision of agreement**
 
 - **(5)** A document purporting to be an agreement entered into pursuant to subsection (3) or (4) that is
-	- **(a)** published in the Canada Gazette, or
+	- **(a)** published in the [Canada Gazette](http://www.gazette.gc.ca/), or
 	- **(b)** certified as such by, or on behalf of, the Minister of National Revenue, the Receiver General, the Deputy Receiver General or the Federal Minister
 is, in the absence of evidence to the contrary, evidence of the contents thereof and is admissible in evidence without proof of the signature or official character of the person purporting to have certified it.
 
@@ -2063,7 +2069,7 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 **Consolidated Revenue Fund**
 
 - **(2)** On the collection or receipt of any royalties, interest and penalties by the Board pursuant to this section, the royalties shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
-> 1988, c. 28, s. 101; 2015, c. 4, s. 80(F).
+> 1988, c. 28, s. 101; 2015, c. 4, s. 80(F)
 
 
 
@@ -2112,7 +2118,7 @@ at the same time the report or recommendation is submitted to the Federal Minist
 **Interest owner exempt from payment**
 
 **104** The interest owner of an interest in relation to lands situated in that portion of the offshore area that is described in Schedule IV is, in respect of those lands, exempt from the payment under section 81 of the [Canada Petroleum Resources Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2036%20(2nd%20Supp.).md) of any amount in respect of any period specified in a notice issued under subsection 141(1) or (2).
-> 1988, c. 28, s. 104; 2015, c. 39, s. 2.
+> 1988, c. 28, s. 104; 2015, c. 39, s. 2
 
 
 
@@ -2170,7 +2176,7 @@ and includes a security given under section 426 of the [Bank Act](/en/Acts/Statu
 **Assignees deemed secured parties**
 
 - **(2)** Where an assignment of security interest is registered under this Division, a reference in this Division to a secured party shall, in respect of the security notice to which the assignment of security interest relates, be read as a reference to the assignee named in the assignment of security interest.
-> 1988, c. 28, s. 105; 1991, c. 46, s. 586; 1999, c. 31, s. 30.
+> 1988, c. 28, s. 105; 1991, c. 46, s. 586; 1999, c. 31, s. 30
 
 
 
@@ -2424,7 +2430,7 @@ whether that other right was acquired before or after that particular right; or
 - **(d)** governing public access to and searches of the register; and
 - **(e)** [Repealed, 2015, c. 4, s. 81]
 - **(f)** prescribing any other matter or thing that is by this Division to be prescribed.
-> 1988, c. 28, s. 121; 2015, c. 4, s. 81.
+> 1988, c. 28, s. 121; 2015, c. 4, s. 81
 
 
 
@@ -2538,7 +2544,7 @@ have passed;
 **Exception**
 
 - **(12)** Subsections (9) to (11) do not apply in respect of information or documentation described in paragraphs (5)(a) to (e) and (i).
-> 1988, c. 28, s. 122; 1992, c. 35, s. 87; 2015, c. 4, s. 82.
+> 1988, c. 28, s. 122; 1992, c. 35, s. 87; 2015, c. 4, s. 82
 
 
 
@@ -2588,7 +2594,7 @@ have passed;
 **Court to take precautions against disclosing**
 
 - **(9)** In any proceedings arising from an application under subsection (7), the Supreme Court of Nova Scotia shall take every reasonable precaution, including, when appropriate, conducting hearings *in camera*, to avoid the disclosure by the Court or any person of any information or documentation that, under this Act, is privileged or is not to be disclosed.
-> 2015, c. 4, s. 83.
+> 2015, c. 4, s. 83
 
 
 
@@ -2633,7 +2639,7 @@ have passed;
 **Application of regulations**
 
 - **(2)** Regulations made under subsection (1) may apply generally to the offshore area or to any portion thereof.
-> 1988, c. 28, s. 125; 1992, c. 35, s. 89.
+> 1988, c. 28, s. 125; 1992, c. 35, s. 89
 
 
 
@@ -2652,7 +2658,7 @@ have passed;
 **Default**
 
 - **(2)** Notwithstanding anything in this Part but subject to sections 32 to 37, where an interest owner or holder fails to comply with a notice under subsection (1) within the period specified in the notice and the Board considers that the failure to comply warrants cancellation of the interest of the interest owner or holder or any share in the interest held by the holder with respect to a portion only of the offshore area subject to the interest, the Board may, by order subject to section 127, cancel that interest or share, and where the interest or share is so cancelled, the portions of the offshore area thereunder become Crown reserve areas.
-> 1988, c. 28, s. 126; 2014, c. 13, s. 63.
+> 1988, c. 28, s. 126; 2014, c. 13, s. 63
 
 
 
@@ -2709,7 +2715,7 @@ have passed;
 **Judicial review**
 
 - **(11)** Any order, decision or action in respect of which a hearing is held under this section is subject to review and to be set aside by the Supreme Court of Nova Scotia in accordance with the practice and procedure established by or pursuant to the Provincial Act.
-> 1988, c. 28, s. 127; 1999, c. 31, s. 31.
+> 1988, c. 28, s. 127; 1999, c. 31, s. 31
 
 
 
@@ -2731,7 +2737,7 @@ have passed;
 
 **Publication of proposed regulations**
 
-- **(2)** Subject to subsection (3), a copy of each regulation that the Governor in Council proposes to make under this Part shall be published in the Canada Gazette and a reasonable opportunity shall be afforded to interested persons to make representations to the Federal Minister with respect thereto.
+- **(2)** Subject to subsection (3), a copy of each regulation that the Governor in Council proposes to make under this Part shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and a reasonable opportunity shall be afforded to interested persons to make representations to the Federal Minister with respect thereto.
 
 **Single publication required**
 
@@ -2923,7 +2929,7 @@ have passed;
 - **(c)** for the purpose of obtaining water to inject into an underground formation,
 - **(d)** for the purpose of injecting gas, air, water or other substance into an underground formation, or
 - **(e)** for any purpose, if made through sedimentary rocks to a depth of at least one hundred and fifty metres. (*puits*)
-> 1988, c. 28, s. 138; 1992, c. 35, s. 91.
+> 1988, c. 28, s. 138; 1992, c. 35, s. 91
 
 
 
@@ -2941,7 +2947,7 @@ have passed;
 - **(b.1)** accountability in accordance with the “polluter pays” principle;
 - **(c)** the conservation of petroleum resources; and
 - **(d)** joint production arrangements.
-> 1992, c. 35, s. 92; 2015, c. 4, s. 84.
+> 1992, c. 35, s. 92; 2015, c. 4, s. 84
 
 
 
@@ -2965,7 +2971,7 @@ have passed;
 **Designation**
 
 **139.1** The Provincial Minister may designate one of the members of the Oil and Gas Administration Advisory Council established by the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md).
-> 1992, c. 35, s. 93.
+> 1992, c. 35, s. 93
 
 
 
@@ -2978,7 +2984,7 @@ have passed;
 **Approval**
 
 **139.2** The Provincial Minister may approve the establishment of the Offshore Oil and Gas Training Standards Advisory Board by the federal Ministers pursuant to subsection 5.5(1) of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md).
-> 1992, c. 35, s. 93.
+> 1992, c. 35, s. 93
 
 
 
@@ -2994,7 +3000,7 @@ have passed;
 - **(a)** that person is the holder of an operating licence issued under paragraph 142(1)(a);
 - **(b)** that person is the holder of an authorization issued, before the commencement of operations, under paragraph 142(1)(b) for each such work or activity; and
 - **(c)** where it is required, that person is authorized or entitled to carry on business in the place where that person proposes to carry on the work or activity.
-> 1988, c. 28, s. 140; 1992, c. 35, s. 94.
+> 1988, c. 28, s. 140; 1992, c. 35, s. 94
 
 
 
@@ -3003,7 +3009,7 @@ have passed;
 **Prohibition — Sable Island National Park Reserve of Canada**
 
 **140.1** No person shall carry on any work or activity related to the drilling for petroleum, including exploratory drilling for petroleum, in Sable Island National Park Reserve of Canada or within one nautical mile seaward of its low-water mark.
-> 2013, c. 28, s. 6.
+> 2013, c. 28, s. 6
 
 
 
@@ -3022,7 +3028,7 @@ have passed;
 **Prohibition**
 
 - **(3)** No person shall, for the duration of the period specified in a written notice issued under subsection (1) or (2), engage in the activities listed in subsection (1) in that portion of the offshore area described in Schedule IV or in any part of it that is specified in the notice.
-> 1988, c. 28, s. 141; 2014, c. 13, s. 91(E); 2015, c. 39, s. 3.
+> 1988, c. 28, s. 141; 2014, c. 13, s. 91(E); 2015, c. 39, s. 3
 
 
 
@@ -3035,7 +3041,7 @@ have passed;
 **Delegation**
 
 **141.1** The Board may delegate any of the Board’s powers under section 142, 142.2, 142.3, 143.1, 143.2, 167.1 or 168 to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
-> 1992, c. 35, s. 95; 2015, c. 4, s. 85.
+> 1992, c. 35, s. 95; 2015, c. 4, s. 85
 
 
 
@@ -3089,7 +3095,7 @@ have passed;
 	- **(c)** subsection 143.1(3), 143.2(2), 167.1(4) or (5) or 168(1.1), (1.2) or (5);
 	- **(c.1)** any provision of Part III.1; or
 	- **(d)** any applicable regulation.
-> 1988, c. 28, s. 142; 1992, c. 35, s. 96; 2014, c. 13, s. 64; 2015, c. 4, ss. 86, 117.
+> 1988, c. 28, s. 142; 1992, c. 35, s. 96; 2014, c. 13, s. 64; 2015, c. 4, ss. 86, 117
 
 
 
@@ -3108,7 +3114,7 @@ have passed;
 **Board to consider advice**
 
 - **(3)** Before deciding whether to issue the authorization, the Board shall consider any advice that it receives under subsection (2). If it issues the authorization, it may include in it terms and conditions, including mitigation or remedial measures, to address the potential impact of the proposed work or activity on the management of the surface of Sable Island National Park Reserve of Canada.
-> 2013, c. 28, s. 7.
+> 2013, c. 28, s. 7
 
 
 
@@ -3138,7 +3144,7 @@ It includes any physical activity that is incidental to the physical activity de
 - **(4)** The Board shall, without delay, make public
 	- **(a)** the date on which the 12-month period referred to in subsection (1) begins; and
 	- **(b)** the dates on which the period referred to in subsection (3) begins and ends.
-> 2015, c. 4, s. 87.
+> 2015, c. 4, s. 87
 
 
 
@@ -3147,7 +3153,7 @@ It includes any physical activity that is incidental to the physical activity de
 **Participant funding program**
 
 **142.03** The Board may establish a participant funding program to facilitate the participation of the public in the environmental assessment as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) of any physical activity described in subsection 142.02(2) that meets the condition set out in paragraph 58(1)(a) of that Act and that is the subject of an application for an authorization under paragraph 142(1)(b) or an application made under subsection 143(2).
-> 2015, c. 4, s. 87.
+> 2015, c. 4, s. 87
 
 
 
@@ -3170,7 +3176,7 @@ It includes any physical activity that is incidental to the physical activity de
 	- **(b)** petroleum exploration activities with a low impact on the environment, including seismic, geological or geophysical programs;
 	- **(c)** emergency evacuation capacity for offshore workers; and
 	- **(d)** the operation, maintenance and inspection of emergency facilities, including helicopter landing and fuel storage facilities.
-> 1992, c. 35, s. 96; 2013, c. 28, s. 8.
+> 1992, c. 35, s. 96; 2013, c. 28, s. 8
 
 
 
@@ -3183,7 +3189,7 @@ It includes any physical activity that is incidental to the physical activity de
 **Safety**
 
 **142.2** The Board shall, before issuing an authorization for a work or activity referred to in paragraph 142(1)(b), consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
-> 1992, c. 35, s. 96.
+> 1992, c. 35, s. 96
 
 
 
@@ -3196,7 +3202,7 @@ It includes any physical activity that is incidental to the physical activity de
 **Net environmental benefit**
 
 **142.21** The Board shall not permit the use of a spill-treating agent in an authorization issued under paragraph 142(1)(b) unless the Board determines that the use of the spill-treating agent is likely to achieve a net environmental benefit.
-> 2015, c. 4, s. 88.
+> 2015, c. 4, s. 88
 
 
 
@@ -3209,7 +3215,7 @@ It includes any physical activity that is incidental to the physical activity de
 **Compliance with certain provisions**
 
 **142.3** The Board shall, before issuing an authorization for a work or activity referred to in paragraph 142(1)(b), ensure that the applicant has complied with the requirements of subsections 167.1(1) or (2) and 168(1) or (1.01) in respect of that work or activity.
-> 1992, c. 35, s. 96; 2015, c. 4, s. 89.
+> 1992, c. 35, s. 96; 2015, c. 4, s. 89
 
 
 
@@ -3254,7 +3260,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Application of certain provisions**
 
 - **(6)** Subsections (2) to (5) apply, with such modifications as the circumstances require, with respect to a proposed amendment to a development plan.
-> 1988, c. 28, s. 143; 1992, c. 35, s. 97.
+> 1988, c. 28, s. 143; 1992, c. 35, s. 97
 
 
 
@@ -3281,7 +3287,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Immunity**
 
 - **(4)** The Board or any delegate of the Board is not liable to any person by reason only of having issued an authorization in reliance on a declaration made under this section.
-> 1992, c. 35, s. 98; 2014, c. 13, s. 65.
+> 1992, c. 35, s. 98; 2014, c. 13, s. 65
 
 
 
@@ -3324,7 +3330,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Immunity**
 
 - **(7)** The Board or any delegate of the Board is not liable to any person by reason only of having issued an authorization in reliance on a certificate issued under this section.
-> 1992, c. 35, s. 98.
+> 1992, c. 35, s. 98
 
 
 
@@ -3337,7 +3343,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Designation**
 
 **144** The Board may, for the purposes of this Act, designate any person as the Chief Safety Officer and any other person as the Chief Conservation Officer. However, the Chief Executive Officer may not be designated as the Chief Safety Officer.
-> 1988, c. 28, s. 144; 1992, c. 35, s. 99; 2014, c. 13, s. 66.
+> 1988, c. 28, s. 144; 1992, c. 35, s. 99; 2014, c. 13, s. 66
 
 
 
@@ -3350,7 +3356,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Orders**
 
 **144.1** For the purposes of this Act, an order made by an operational safety officer, the Chief Safety Officer, a conservation officer, the Chief Conservation Officer, the Committee or a health and safety officer as defined in subsection 210.001(1) is not a statutory instrument as defined in the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1992, c. 35, s. 99; 2014, c. 13, s. 67.
+> 1992, c. 35, s. 99; 2014, c. 13, s. 67
 
 
 
@@ -3373,7 +3379,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Limitation**
 
 - **(3)** This section applies only in respect of an extended formation flow test that provides significant information for determining the best recovery system for a reservoir or for determining the limits of a reservoir or the productivity of a well producing petroleum from a reservoir and that does not adversely affect the ultimate recovery from a reservoir.
-> 1992, c. 35, s. 99.
+> 1992, c. 35, s. 99
 
 
 
@@ -3400,7 +3406,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Re-appointment permitted**
 
 - **(3)** A retiring chairperson or retiring member may be re-appointed to the Committee in the same or another capacity.
-> 1988, c. 28, s. 145; 2003, c. 22, s. 124(E); 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 145; 2003, c. 22, s. 124(E); 2014, c. 13, s. 91(E)
 
 
 
@@ -3427,7 +3433,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Expenses**
 
 - **(5)** All members of the Committee are entitled to be paid reasonable travel and living expenses while absent from their ordinary place of residence in the course of their duties.
-> 1988, c. 28, s. 146; 2003, c. 22, s. 125.
+> 1988, c. 28, s. 146; 2003, c. 22, s. 125
 
 
 
@@ -3449,7 +3455,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Powers of Committee**
 
 - **(2)** The Committee may make general rules not inconsistent with this Act regulating its practice and procedure and the places and times of its sittings.
-> 1988, c. 28, s. 148; 2003, c. 22, s. 126.
+> 1988, c. 28, s. 148; 2003, c. 22, s. 126
 
 
 
@@ -3513,7 +3519,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **When order rescinded or replaced**
 
 - **(3)** When an order of the Committee has been made an order of the Supreme Court of Nova Scotia, any order of the Committee, or of the Board under section 191, rescinding or replacing the first mentioned order of the Committee, shall be deemed to cancel the order of the Court and may in like manner be made an order of the Court.
-> 1988, c. 28, s. 152; 1999, c. 31, s. 32.
+> 1988, c. 28, s. 152; 1999, c. 31, s. 32
 
 
 
@@ -3559,7 +3565,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Spill-treating agents**
 
 - **(3)** Regulations made under subsection (1) respecting a spill-treating agent shall, in addition to the requirements set out in subsection 6(1), be made on the recommendation of the Federal Minister and the Minister of the Environment.
-> 1988, c. 28, s. 153; 1992, c. 35, s. 101; 2015, c. 4, ss. 90, 117.
+> 1988, c. 28, s. 153; 1992, c. 35, s. 101; 2015, c. 4, ss. 90, 117
 
 
 
@@ -3574,7 +3580,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Recommendation**
 
 - **(2)** The order shall be made on the recommendation of the Federal Minister and every minister responsible for the administration of the provision.
-> 2015, c. 4, s. 91.
+> 2015, c. 4, s. 91
 
 
 
@@ -3584,7 +3590,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 
 **154** 
 
-- **(1)** Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under this Division shall be published in the Canada Gazette and a reasonable opportunity shall be afforded to interested persons to make representations to the Federal Minister with respect thereto.
+- **(1)** Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under this Division shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and a reasonable opportunity shall be afforded to interested persons to make representations to the Federal Minister with respect thereto.
 
 **Single publication required**
 
@@ -3608,7 +3614,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **No contravention**
 
 - **(3)** No person contravenes the regulations if that person acts in compliance with an authorization or exemption under subsection (1) or (2).
-> 1988, c. 28, s. 155; 1992, c. 35, s. 102; 2014, c. 13, s. 68.
+> 1988, c. 28, s. 155; 1992, c. 35, s. 102; 2014, c. 13, s. 68
 
 
 
@@ -3623,7 +3629,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Deemed not to be statutory instruments**
 
 - **(2)** Guidelines and interpretation notes issued pursuant to subsection (1) shall be deemed not to be statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1988, c. 28, s. 156; 2015, c. 4, s. 92.
+> 1988, c. 28, s. 156; 2015, c. 4, s. 92
 
 
 
@@ -3650,7 +3656,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Access to files and records**
 
 - **(4)** A person subject to an order under subsection (1) or (2) shall, on request, afford the Chief Conservation Officer or a person designated by the Chief Conservation Officer access to premises, files and records for all reasonable purposes related to the order.
-> 1988, c. 28, s. 158; 1992, c. 35, s. 104.
+> 1988, c. 28, s. 158; 1992, c. 35, s. 104
 
 
 
@@ -3697,7 +3703,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Order after inquiry**
 
 - **(4)** At the conclusion of an investigation under subsection (3), the Chief Conservation Officer may set aside, vary or confirm the order made or make a new order.
-> 1988, c. 28, s. 160; 1992, c. 35, s. 105.
+> 1988, c. 28, s. 160; 1992, c. 35, s. 105
 
 
 
@@ -3712,7 +3718,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Controlling operations and costs thereof**
 
 - **(2)** A person authorized under subsection (1) to take over the management and control of operations shall manage and control those operations and do all things necessary to stop the waste, and the cost thereof shall be borne by the person who holds the permit or the lease and, until paid, constitutes a debt recoverable by action in any court of competent jurisdiction as a debt due to the Board.
-> 1988, c. 28, s. 161; 1992, c. 35, s. 106(F).
+> 1988, c. 28, s. 161; 1992, c. 35, s. 106(F)
 
 
 
@@ -3730,7 +3736,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 	- **(a)** set aside, confirm or vary the order made by the Chief Conservation Officer;
 	- **(b)** order such works to be undertaken as may be considered necessary to prevent waste, the escape of petroleum or any other contravention of this Division or the regulations; or
 	- **(c)** make such other or further order as the Committee considers appropriate.
-> 1988, c. 28, s. 162; 1992, c. 35, s. 107(F).
+> 1988, c. 28, s. 162; 1992, c. 35, s. 107(F)
 
 
 
@@ -3745,7 +3751,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Hearing**
 
 - **(2)** On the day specified in the order under subsection (1), the Committee shall hold a hearing at which the Chief Conservation Officer, the operators and other interested persons shall be given an opportunity to be heard.
-> 1988, c. 28, s. 163; 1992, c. 35, s. 108(F).
+> 1988, c. 28, s. 163; 1992, c. 35, s. 108(F)
 
 
 
@@ -3788,7 +3794,7 @@ and the order may further direct that the pool or part thereof specified in the 
 **Immunity**
 
 - **(4)** Her Majesty in right of Canada incurs no liability whatever to any person arising out of the authorization by regulations made by the Governor in Council of any discharge, emission or escape of petroleum.
-> 1988, c. 28, s. 165; 1992, c. 35, s. 110; 2001, c. 6, s. 111, c. 26, ss. 281, 324; 2015, c. 4, s. 93.
+> 1988, c. 28, s. 165; 1992, c. 35, s. 110; 2001, c. 6, s. 111, c. 26, ss. 281, 324; 2015, c. 4, s. 93
 
 
 
@@ -3838,7 +3844,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Personal liability**
 
 - **(9)** No person required, directed or authorized to act under this section is personally liable either civilly or criminally in respect of any act or omission in the course of complying with this section unless it is shown that that person did not act reasonably in the circumstances.
-> 1988, c. 28, s. 166; 1992, c. 35, s. 111; 2014, c. 13, s. 70.
+> 1988, c. 28, s. 166; 1992, c. 35, s. 111; 2014, c. 13, s. 70
 
 
 
@@ -3863,7 +3869,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 	- **(a)** the Chief Conservation Officer has consulted with the Federal Minister and the Provincial Minister with respect to the approval;
 	- **(b)** the Federal Minister has consulted with the Minister of the Environment with respect to the approval; and
 	- **(c)** the Chief Conservation Officer determines that the use of the agent is likely to achieve a net environmental benefit.
-> 2015, c. 4, s. 94.
+> 2015, c. 4, s. 94
 
 
 
@@ -3872,7 +3878,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **[Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md)**
 
 **166.2** Section 123 and subsections 124(1) to (3) of the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md) do not apply in respect of a spill-treating agent.
-> 2015, c. 4, s. 95.
+> 2015, c. 4, s. 95
 
 
 
@@ -3884,7 +3890,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 - **(a)** subsection 36(3) of that Act is deemed to apply in respect of the deposit of the spill-treating agent;
 - **(b)** the holder of the authorization referred to in paragraph 166.1(1)(a) is deemed to be the only person referred to in paragraph 42(1)(a) of that Act; and
 - **(c)** those persons who caused or contributed to the spill are deemed to be the only persons referred to in paragraph 42(1)(b) of that Act.
-> 2015, c. 4, s. 95.
+> 2015, c. 4, s. 95
 
 
 
@@ -3893,7 +3899,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Notice**
 
 **166.4** The Federal Minister shall, as soon as possible after it is made, notify the Provincial Minister and the Board of the making of the list of spill-treating agents and any amendment to that list.
-> 2015, c. 4, s. 95.
+> 2015, c. 4, s. 95
 
 
 
@@ -3912,7 +3918,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Non-application**
 
 - **(3)** If the conditions set out in the authorization are met, the provisions referred to in section 166.2 and Schedules V and VI do not apply in respect of the spill-treating agent, oil and oil surrogate required for the research project.
-> 2015, c. 4, s. 95.
+> 2015, c. 4, s. 95
 
 
 
@@ -3973,7 +3979,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Limitation period**
 
 - **(5)** Proceedings in respect of claims under this section may be instituted within three years after the day when the loss, damage, costs or expenses occurred but in no case after six years after the day the spill or the discharge, emission or escape of petroleum occurred or, in the case of debris, after the day the installation or structure in question was abandoned or the material in question broke away or was jettisoned or displaced.
-> 1988, c. 28, s. 167; 1992, c. 35, s. 112; 2015, c. 4, s. 96.
+> 1988, c. 28, s. 167; 1992, c. 35, s. 112; 2015, c. 4, s. 96
 
 
 
@@ -4000,7 +4006,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Extended obligation**
 
 - **(5)** The holder of an authorization under paragraph 142(1)(b) shall also ensure that the proof referred to in subsection (1) remains in force for a period of one year beginning on the day on which the Board notifies the holder that it has accepted a report submitted by the holder indicating that the last well in respect of which the authorization is issued is abandoned. The Board may reduce that period and may decide that the proof that is to remain in force during that period is proof that the holder has the financial resources necessary to pay an amount that is less than the amount referred to in subsection (1) and that is determined by the Board.
-> 2015, c. 4, s. 97.
+> 2015, c. 4, s. 97
 
 
 
@@ -4045,7 +4051,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Reimbursement of pooled fund**
 
 - **(5)** The holder of an authorization under paragraph 142(1)(b) that is liable for a discharge, emission or escape of petroleum that is authorized by regulation or for any spill or debris in respect of which a payment has been made under subsection (2) out of the pooled fund, shall reimburse the amount of the payment in the prescribed manner.
-> 1988, c. 28, s. 168; 1992, c. 35, s. 113; 2015, c. 4, s. 98.
+> 1988, c. 28, s. 168; 1992, c. 35, s. 113; 2015, c. 4, s. 98
 
 
 
@@ -4064,7 +4070,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **No contravention**
 
 - **(3)** No applicant for an authorization under paragraph 142(1)(b) contravenes paragraph 168(1)(a) if that applicant provides proof of financial responsibility in the amount that is approved by the Federal Minister under this section.
-> 2015, c. 4, s. 99.
+> 2015, c. 4, s. 99
 
 
 
@@ -4116,7 +4122,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Copies of report**
 
 - **(5)** The Board may supply copies of a report published pursuant to subsection (4) in such manner and on such terms as the Board considers proper.
-> 1988, c. 28, s. 170; 1992, c. 35, s. 114.
+> 1988, c. 28, s. 170; 1992, c. 35, s. 114
 
 
 
@@ -4166,7 +4172,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 ***working interest*** means a right, in whole or in part, to produce and dispose of petroleum from a pool or part of a pool, whether such right is held as an incident of ownership of an estate in fee simple in the petroleum or under a lease, agreement or other instrument, if the right is chargeable with and the holder thereof is obligated to pay or bear, either in cash or out of production, all or a portion of the costs in connection with the drilling for, recovery and disposal of petroleum from the pool or part thereof; (*intérêt économique direct*)
 
 ***working interest owner*** means a person who owns a working interest. (*détenteur*)
-> 1988, c. 28, s. 171; 1992, c. 35, s. 115(F).
+> 1988, c. 28, s. 171; 1992, c. 35, s. 115(F)
 
 
 
@@ -4185,7 +4191,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Pooling agreement by Her Majesty**
 
 - **(2)** The Board may, on behalf of Her Majesty, enter into a pooling agreement on any terms and conditions that it deems advisable and, despite anything in Part II or this Part, the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md) or any regulations made under those Parts or that Act, the pooling agreement is binding on Her Majesty.
-> 1988, c. 28, s. 172; 1991, c. 50, s. 25; 2001, c. 4, s. 153.
+> 1988, c. 28, s. 172; 1991, c. 50, s. 25; 2001, c. 4, s. 153
 
 
 
@@ -4284,7 +4290,7 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Unit operator’s relationship to parties**
 
 - **(3)** Where a unit agreement filed under this section provides that a unit operator shall be the agent of the parties thereto with respect to their powers and responsibilities under this Part, the performance or non-performance thereof by the unit operator shall be deemed to be the performance or non-performance by the parties otherwise having those powers and responsibilities under this Part.
-> 1988, c. 28, s. 177; 1991, c. 50, s. 26; 2001, c. 4, s. 154.
+> 1988, c. 28, s. 177; 1991, c. 50, s. 26; 2001, c. 4, s. 154
 
 
 
@@ -4410,7 +4416,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Revocation of order**
 
 - **(3)** Where a unitization order becomes ineffective under subsection (2), the Committee shall forthwith revoke the order.
-> 1988, c. 28, s. 182; 1992, c. 35, s. 116(E).
+> 1988, c. 28, s. 182; 1992, c. 35, s. 116(E)
 
 
 
@@ -4542,7 +4548,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Order subject to section 191**
 
 - **(4)** Any order made by the Committee pursuant to subsection (3), unless that order has already been dealt with by the Board pursuant to section 191, shall be subject to that section.
-> 1988, c. 28, s. 192; 1999, c. 31, s. 34.
+> 1988, c. 28, s. 192; 1999, c. 31, s. 34
 
 
 
@@ -4573,7 +4579,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Indemnification**
 
 - **(5)** An individual designated under subsection (1) or (2) who is not an employee of the Board is deemed to be an officer for the purposes of section 17.
-> 1988, c. 28, s. 193; 1992, c. 35, s. 117; 2014, c. 13, s. 72.
+> 1988, c. 28, s. 193; 1992, c. 35, s. 117; 2014, c. 13, s. 72
 
 
 
@@ -4614,7 +4620,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Return of things removed**
 
 - **(4)** Anything removed under paragraph (1)(h) or (2)(d) for examination, testing or copying shall, if requested by the person from whom it was removed, be returned to that person after the examination, testing or copying is completed, unless it is required for the purpose of a prosecution under this Part.
-> 1988, c. 28, s. 194; 1992, c. 35, s. 117; 2014, c. 13, s. 72.
+> 1988, c. 28, s. 194; 1992, c. 35, s. 117; 2014, c. 13, s. 72
 
 
 
@@ -4623,7 +4629,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Reports provided to holder of authorization**
 
 **194.1** An operational safety officer, the Chief Safety Officer, a conservation officer or the Chief Conservation Officer, as the case may be, shall provide written reports to the holder of an authorization about anything inspected, tested or monitored, by or on the order of the officer, for the purpose of verifying compliance with this Part, at any place that is used for a work or activity for which the authorization is issued.
-> 2014, c. 13, s. 72.
+> 2014, c. 13, s. 72
 
 
 
@@ -4671,7 +4677,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Definition of living quarters**
 
 - **(8)** In this section, ***living quarters*** means sleeping quarters provided for employees, as defined in subsection 210.001(1), on a marine installation or structure, as defined in that subsection, and any room for the exclusive use of the occupants of those quarters that contains a toilet or a urinal.
-> 2014, c. 13, s. 72.
+> 2014, c. 13, s. 72
 
 
 
@@ -4680,7 +4686,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Certificate to be produced**
 
 **195** The Board shall provide every operational safety officer and conservation officer and the Chief Safety Officer and the Chief Conservation Officer with a certificate of appointment or designation and, on entering any place under the authority of this Part, the officer shall, if so required, produce the certificate to the person in charge of the place.
-> 1988, c. 28, s. 195; 1992, c. 35, s. 117; 2014, c. 13, s. 73(E).
+> 1988, c. 28, s. 195; 1992, c. 35, s. 117; 2014, c. 13, s. 73(E)
 
 
 
@@ -4697,7 +4703,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(2)** If the place referred to in subsection 194(2) is a marine installation or structure, as defined in subsection 210.001(1), the person in charge of the marine installation or structure shall provide to the officer, and to every individual accompanying the officer, free of charge,
 	- **(a)** suitable transportation between the usual point of embarkation on shore and the marine installation or structure, between the marine installation or structure and the usual point of disembarkation on shore, and between marine installations or structures, if the marine installation or structure or marine installations or structures are situated in the offshore area; and
 	- **(b)** suitable accommodation and food at the marine installation or structure.
-> 1988, c. 28, s. 196; 1992, c. 35, s. 117; 2014, c. 13, s. 74.
+> 1988, c. 28, s. 196; 1992, c. 35, s. 117; 2014, c. 13, s. 74
 
 
 
@@ -4706,7 +4712,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Obstruction of officers and making of false statements**
 
 **197** No person shall obstruct or hinder, or make a false or misleading statement either orally or in writing to, an operational safety officer, the Chief Safety Officer, a conservation officer or the Chief Conservation Officer while the officer is engaged in carrying out his or her duties or functions under this Part.
-> 1988, c. 28, s. 197; 1992, c. 35, s. 117; 2014, c. 13, s. 74.
+> 1988, c. 28, s. 197; 1992, c. 35, s. 117; 2014, c. 13, s. 74
 
 
 
@@ -4754,7 +4760,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Telewarrant provisions to apply**
 
 - **(8)** A warrant may be issued under this section by telephone or other means of telecommunication on information submitted by an operational safety officer, the Chief Safety Officer, a conservation officer or the Chief Conservation Officer by one of those means, and section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies for that purpose, with any modifications that the circumstances require.
-> 2014, c. 13, s. 74.
+> 2014, c. 13, s. 74
 
 
 
@@ -4769,7 +4775,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Perishable things**
 
 - **(2)** If the thing seized is perishable, an operational safety officer, the Chief Safety Officer, a conservation officer or the Chief Conservation Officer may destroy the thing, or otherwise dispose of it in any manner the officer considers appropriate. Any proceeds realized from its disposition shall be paid to the Receiver General.
-> 2014, c. 13, s. 74.
+> 2014, c. 13, s. 74
 
 
 
@@ -4812,7 +4818,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Operations in respect of which order made**
 
 - **(9)** No person shall continue an operation in respect of which an order has been made pursuant to this section, except in accordance with the terms of the order or until the order has been set aside by the Supreme Court of Nova Scotia pursuant to this section.
-> 1988, c. 28, s. 198; 1992, c. 35, s. 117; 1999, c. 31, s. 35; 2014, c. 13, s. 75(E).
+> 1988, c. 28, s. 198; 1992, c. 35, s. 117; 1999, c. 31, s. 35; 2014, c. 13, s. 75(E)
 
 
 
@@ -4821,7 +4827,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Priority**
 
 **198.1** An order made by an operational safety officer or the Chief Safety Officer prevails over an order made by a conservation officer or the Chief Conservation Officer to the extent of any inconsistency between the orders.
-> 1992, c. 35, s. 117; 2014, c. 13, s. 76(E).
+> 1992, c. 35, s. 117; 2014, c. 13, s. 76(E)
 
 
 
@@ -4847,7 +4853,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Emergency**
 
 - **(3)** In a prescribed emergency situation, an installation manager’s powers are extended so that they also apply to each person in charge of a vessel, vehicle or aircraft that is at the installation or that is leaving or approaching it.
-> 1992, c. 35, s. 117; 2014, c. 13, s. 77.
+> 1992, c. 35, s. 117; 2014, c. 13, s. 77
 
 
 
@@ -4916,7 +4922,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Presumption against waste**
 
 - **(5)** No person commits an offence under subsection 159(1) by reason of committing waste as defined in paragraph 159(2)(f) or (g) unless that person has been ordered by the Committee to take measures to prevent the waste and has failed to comply.
-> 1988, c. 28, s. 199; 1992, c. 35, s. 118; 2014, c. 13, s. 78; 2015, c. 4, ss. 100, 117.
+> 1988, c. 28, s. 199; 1992, c. 35, s. 118; 2014, c. 13, s. 78; 2015, c. 4, ss. 100, 117
 
 
 
@@ -4933,7 +4939,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Offence by employee or agent**
 
 - **(2)** In a prosecution for an offence under this Part, it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or has been prosecuted for the offence.
-> 1988, c. 28, s. 200; 1992, c. 35, s. 119; 2014, c. 13, s. 79.
+> 1988, c. 28, s. 200; 1992, c. 35, s. 119; 2014, c. 13, s. 79
 
 
 
@@ -4942,7 +4948,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Imprisonment precluded in certain cases**
 
 **200.1** If an individual is convicted of an offence under this Part on proceedings by way of summary conviction, no imprisonment may be imposed in default of payment of any fine imposed as punishment.
-> 2014, c. 13, s. 79.
+> 2014, c. 13, s. 79
 
 
 
@@ -4998,7 +5004,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Debt due to Board**
 
 - **(4)** If the Board incurs publication costs under subsection (3), the costs constitute a debt due to the Board and may be recovered in any court of competent jurisdiction.
-> 1988, c. 28, s. 201; 2015, c. 4, ss. 101, 117.
+> 1988, c. 28, s. 201; 2015, c. 4, ss. 101, 117
 
 
 
@@ -5015,7 +5021,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Notice**
 
 - **(2)** Before making an order under subsection (1), the court may direct that notice be given to any persons that the court considers to be interested, and may hear any of those persons.
-> 2015, c. 4, s. 101.
+> 2015, c. 4, s. 101
 
 
 
@@ -5024,7 +5030,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Subsequent applications with leave**
 
 **201.2** If an application made under subsection 201.1(1) in relation to an offender has been heard by a court, no other application may be made under section 201.1 in relation to the offender except with leave of the court.
-> 2015, c. 4, s. 101.
+> 2015, c. 4, s. 101
 
 
 
@@ -5033,7 +5039,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Recovery of fines and amounts**
 
 **201.3** If a person is convicted of an offence under this Part and a fine that is imposed is not paid when required or if a court orders an offender to pay an amount under subsection 201(1) or 201.1(1), the prosecutor may, by filing the conviction or order, as the case may be, enter as a judgment the amount of the fine or the amount ordered to be paid, and costs, if any, in the Supreme Court of Nova Scotia, and the judgment is enforceable against the person in the same manner as if it were a judgment rendered against them in that Court in civil proceedings.
-> 2015, c. 4, s. 101.
+> 2015, c. 4, s. 101
 
 
 
@@ -5053,7 +5059,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Time limited for summary conviction proceedings**
 
 **204** Proceedings by way of summary conviction for an offence under this Part may be instituted at any time within but no later than three years after the day on which the subject-matter of the proceedings arose, unless the prosecutor and the defendant otherwise agree.
-> 1988, c. 28, s. 204; 2014, c. 13, s. 80.
+> 1988, c. 28, s. 204; 2014, c. 13, s. 80
 
 
 
@@ -5062,7 +5068,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Evidence**
 
 **205** In any prosecution for an offence under this Part, a copy of any order or other document purporting to have been made pursuant to this Part or the regulations and purporting to have been signed by the person authorized by this Part or the regulations to make that order or document is, in the absence of any evidence to the contrary, proof of the matters set out therein.
-> 1988, c. 28, s. 205; 2014, c. 13, s. 81(F).
+> 1988, c. 28, s. 205; 2014, c. 13, s. 81(F)
 
 
 
@@ -5094,7 +5100,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(a)** an information may include more than one offence committed by the same person;
 - **(b)** all those offences may be tried concurrently; and
 - **(c)** one conviction for any or all offences so included may be made.
-> 2014, c. 13, s. 82; 2015, c. 4, s. 117.
+> 2014, c. 13, s. 82; 2015, c. 4, s. 117
 
 
 
@@ -5125,7 +5131,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Maximum**
 
 - **(2)** The amount that may be determined under any regulations made under paragraph (1)(b) as the penalty for a violation shall not be more than $25,000, in the case of an individual, and $100,000, in the case of any other person.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5138,7 +5144,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(b)** designate persons or classes of persons who are authorized to issue notices of violation;
 - **(c)** establish, in respect of each violation, a short-form description to be used in notices of violation; and
 - **(d)** designate persons or classes of persons to conduct reviews under section 207.4.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5157,7 +5163,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Purpose of penalty**
 
 - **(2)** The purpose of the penalty is to promote compliance with this Part and not to punish.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5166,7 +5172,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Liability of directors, officers, etc.**
 
 **207.04** If a corporation commits a violation, any director, officer, or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to the violation and is liable to a penalty of an amount to be determined in accordance with the regulations, whether or not the corporation has been proceeded against in accordance with this Part.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5175,7 +5181,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Proof of violation**
 
 **207.05** In any proceedings under this Part against a person in relation to a violation, it is sufficient proof of the violation to establish that it was committed by an employee, or agent or mandatary, of the person, whether or not the employee, or agent or mandatary is identified or proceeded against in accordance with this Part.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5196,7 +5202,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 	- **(d)** inform the person of their right, under section 207.2, to request a review with respect to the amount of the penalty or the facts of the violation, and of the prescribed period within which that right is to be exercised;
 	- **(e)** inform the person of the manner of paying the penalty set out in the notice; and
 	- **(f)** inform the person that, if they do not pay the penalty or exercise their right referred to in paragraph (d), they will be considered to have committed the violation and that they are liable to the penalty set out in the notice.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5217,7 +5223,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Common law principles**
 
 - **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Part applies in respect of a violation to the extent that it is not inconsistent with this Part.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5226,7 +5232,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Continuing violation**
 
 **207.08** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5241,7 +5247,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Violations not offences**
 
 - **(2)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5250,7 +5256,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Limitation or prescription period**
 
 **207.1** No notice of violation is to be issued more than two years after the day on which the matter giving rise to the violation occurred.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5263,7 +5269,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Right to request review**
 
 **207.2** A person who is served with a notice of violation may, within 30 days after the day on which it is served, or within any longer period that the Board allows, make a request to the Board for a review of the amount of the penalty or the facts of the violation, or both.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5272,7 +5278,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Correction or cancellation of notice of violation**
 
 **207.3** At any time before a request for a review in respect of a notice of violation is received by the Board, a person designated under paragraph 207.02(b) may cancel the notice of violation or correct an error in it.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5287,7 +5293,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Restriction**
 
 - **(2)** The Board shall conduct the review if the notice of violation was issued by a person designated under paragraph 207.02(d).
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5314,7 +5320,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Determination final**
 
 - **(5)** A determination made under this section is final and binding and, subject to review by the Supreme Court of Nova Scotia, is not subject to appeal or to review by any court.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5323,7 +5329,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Burden of proof**
 
 **207.6** If the facts of a violation are reviewed, the person who issued the notice of violation shall establish, on a balance of probabilities, that the person named in it committed the violation identified in it.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5336,7 +5342,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Payment**
 
 **207.7** If a person pays the penalty set out in a notice of violation, the person is considered to have committed the violation and proceedings in respect of it are ended.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5345,7 +5351,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Failure to act**
 
 **207.8** A person that neither pays the penalty imposed under this Part nor requests a review in the period referred to in section 207.2 is considered to have committed the violation and is liable to the penalty.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5364,7 +5370,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Limitation period**
 
 - **(2)** No proceedings to recover the debt are to be instituted more than five years after the day on which the debt becomes payable.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5379,7 +5385,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Registration**
 
 - **(2)** Registration in the Supreme Court of Nova Scotia of a certificate of non-payment issued under subsection (1) has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5392,7 +5398,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Admissibility of documents**
 
 **207.92** In the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 207.06(1) is presumed to be authentic and is proof of its contents in any proceeding in respect of a violation.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5401,7 +5407,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Publication**
 
 **207.93** The Board may make public the nature of a violation, the name of the person who committed it and the amount of the penalty.
-> 2015, c. 4, s. 102.
+> 2015, c. 4, s. 102
 
 
 
@@ -5425,7 +5431,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Application**
 
 **209** This Part applies to every interest or right in petroleum acquired or vested before the coming into force of this section and is binding on Her Majesty in right of Canada or a province.
-> 1988, c. 28, s. 209; 2014, c. 13, s. 83(F).
+> 1988, c. 28, s. 209; 2014, c. 13, s. 83(F)
 
 
 
@@ -5550,7 +5556,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Employees in transit**
 
 - **(5)** For the purposes of sections 210.005, 210.007 and 210.008, an employee is deemed to be at a workplace within the offshore area while — and immediately before — the employee is being transported on a passenger craft between the last point of embarkation on shore and the workplace, between the workplace and the first point of disembarkation on shore, or between workplaces.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5563,7 +5569,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Binding on Her Majesty**
 
 **210.002** This Part is binding on Her Majesty in right of Canada or a province.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5582,7 +5588,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Employees and other passengers in transit**
 
 - **(2)** This Part also applies to employees and other passengers while — and immediately before — being transported on a passenger craft between the last point of embarkation on shore and the workplace, between the workplace and the first point of disembarkation on shore, or between workplaces.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5591,7 +5597,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Non-application of Parts II and III of [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md)**
 
 **210.004** Despite subsections 123(1) and 168(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) and any other Act of Parliament, Parts II and III of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) do not apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5600,7 +5606,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Non-application of [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md)**
 
 **210.005** The [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5609,7 +5615,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Non-application of [Non-smokers’ Health Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2015%20(4th%20Supp.).md)**
 
 **210.006** The [Non-smokers’ Health Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2015%20(4th%20Supp.).md) does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for  — or the production, conservation or processing of — petroleum within the offshore area.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5624,14 +5630,14 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Inconsistency or conflict**
 
 - **(2)** In the event of an inconsistency or conflict between the provisions of this Act, or any regulations made under it, and the provisions of Nova Scotia social legislation or any regulations made under that legislation, the provisions of this Act and the regulations made under it prevail to the extent of the inconsistency or conflict.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
 
 
 **
-> Application of Trade Union Act, R.S.N.S. 1989, c. 475.
+> Application of Trade Union Act, R.S.N.S. 1989, c. 475
 **
 
 **210.008** 
@@ -5644,7 +5650,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Application of Part I of [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md)**
 
 - **(2)** Part I of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) applies to and in respect of a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area if subsection (1) does not apply to or in respect of the marine installation or structure.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5665,7 +5671,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Preventive measures**
 
 - **(2)** Preventive measures should first aim at the elimination of hazards, then the reduction of the risks posed by the hazards and finally, the taking of protective measures, all with the goal of ensuring the health and safety of employees.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5686,7 +5692,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Specific obligations not to limit general obligations**
 
 - **(2)** For greater certainty, the imposition of any specific obligation under this Part shall not be construed as limiting the generality of any other obligation under this Part.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5712,7 +5718,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Duty to review**
 
 - **(3)** The operator shall review the policy at least every three years in consultation with each workplace committee that it establishes and with each employer at any of the operator’s workplaces.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5721,7 +5727,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Duty to take reasonable measures**
 
 **210.012** Every operator shall take all reasonable measures to ensure the health and safety of all employees and other individuals at its workplaces and of all employees or other passengers while — and immediately before  — being transported on a passenger craft to or from any of those workplaces.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5749,7 +5755,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(q)** ensure that all or part of the workplace as described in paragraphs (a) and (b) of the definition ***workplace*** in subsection 210.001(1) is inspected by or on behalf of the operator at least once a month, so that every part of that workplace is inspected at least once a year, and ensure that the workplace committee participates;
 - **(r)** ensure that a record is kept of each inspection referred to in paragraph (q), including any corrective action taken as a consequence; and
 - **(s)** cooperate with the Board and with persons carrying out duties or functions under this Part.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5774,7 +5780,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(3)** Every operator shall ensure that all employees and other passengers on a passenger craft going to or from any of its workplaces
 	- **(a)** are provided with any personal protective equipment necessary to ensure their health and safety, including any that is prescribed; and
 	- **(b)** are provided with the information and training — including any that are prescribed —  required for the proper use of personal protective equipment provided under paragraph (a) and the equipment, devices and materials referred to in paragraph (2)(b).
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5813,7 +5819,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Limitation**
 
 - **(4)** If the regulations establish requirements in respect of anything described in any of paragraphs (2)(a) to (h), the system shall meet the requirements of those regulations.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5830,7 +5836,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Revision of code of practice**
 
 - **(2)** The code of practice may be revised by the Chief Safety Officer from time to time, or the Chief Safety Officer may require the operator to revise it from time to time.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5862,7 +5868,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 	- **(a)** results in the loss by an individual of a body member or part of a body member or in the complete loss by an individual of the usefulness of a body member or part of a body member;
 	- **(b)** results in the permanent impairment of a body function of an individual; or
 	- **(c)** prevents an employee from reporting for work or from effectively performing all the functions connected with their regular work on any day subsequent to the day on which the injury occurred, whether or not that subsequent day is a working day for them.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5878,7 +5884,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(a)** the health and safety of its employees and other individuals at a workplace under its control;
 - **(b)** the health and safety of its employees at a workplace that is not under its control, to the extent that it controls their activities at the workplace; and
 - **(c)** the health and safety of its employees while — and immediately before — they are transported on a passenger craft.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5910,7 +5916,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Training**
 
 - **(2)** An employee who, with the approval of their employer, is receiving training that is required under this Part shall be paid the same wages and granted the same benefits that the employee would have received had they been working.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5948,7 +5954,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Limitation**
 
 - **(3)** If the regulations establish requirements in respect of anything described in any of paragraphs (2)(a) to (i), the program shall meet the requirements of those regulations.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5963,7 +5969,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Revision of code of practice**
 
 - **(2)** The code of practice may be revised by the Chief Safety Officer from time to time, or the Chief Safety Officer may require the employer to revise it from time to time.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5984,7 +5990,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 	- **(v)** any other information that is prescribed with respect to the controlled product;
 - **(f)** if employees at the workplace may be exposed to hazardous substances, investigate and assess the potential exposure in the manner that is prescribed, with the assistance of the workplace committee or the coordinator, as the case may be; and
 - **(g)** ensure that all records of exposure to hazardous substances are kept and maintained in the manner that is prescribed and that personal records of exposure are made available to the affected employees.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -5999,7 +6005,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Confidentiality**
 
 - **(2)** Any physician — or other medical professional that is prescribed — to whom information is provided by an employer under subsection (1) shall keep confidential any information specified by the employer as being confidential, except for the purpose for which it is provided.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6012,7 +6018,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Duty to take reasonable measures**
 
 **210.024** Every supervisor shall take all reasonable measures to ensure the health and safety of employees and other individuals that they supervise at a workplace.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6025,7 +6031,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(b)** inform their employer and each of those employees of known or foreseeable health or safety hazards;
 - **(c)** if required to do so by their employer or the operator, provide those employees with written instructions as to the measures to be taken and the procedures to be followed for the protection of the employees; and
 - **(d)** report to their employer any failure to comply with the provisions of this Part or of the regulations made under this Part, or with the occupational health and safety requirements of any authorization related to the workplace that is issued to the operator.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6038,7 +6044,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Duty to take reasonable measures**
 
 **210.026** Every employee at a workplace or on a passenger craft shall take all reasonable measures to protect their own health and safety and that of other individuals at the workplace or on the passenger craft.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6054,7 +6060,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(e)** cooperate with the Board and with persons carrying out duties or functions under this Part;
 - **(f)** follow all instructions of their employer given for the purposes of ensuring occupational health and safety; and
 - **(g)** report to their employer any thing or circumstance at the workplace that is likely to be hazardous to the health or safety of the employee or other individuals at the workplace.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6065,7 +6071,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **210.028** Every employee shall
 - **(a)** while — and immediately before — being transported on a passenger craft, cooperate with the individual providing them with information and instruction on behalf of the operator, with their employer and with any individual who operates or assists in operating the passenger craft, so as to protect the health and safety of individuals on the passenger craft; and
 - **(b)** while being transported on a passenger craft, use or wear, in the manner intended, all personal protective equipment that is prescribed or that is required by the operator, or by any individual who operates or assists in operating the passenger craft, to be used or worn on the passenger craft.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6074,7 +6080,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Limitation of liability  — employee**
 
 **210.029** No employee who, at the workplace or while — or immediately before — being transported on a passenger craft, comes to the assistance of another individual or carries out an emergency measure is personally liable for any injury or damage that may result from it, unless the injury or damage is a result of the employee’s gross negligence or wilful misconduct.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6087,7 +6093,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Duty of supplier  — reasonable measures**
 
 **210.03** Every supplier shall, to protect the health and safety of individuals at a workplace or on a passenger craft, take all reasonable measures to ensure that any thing it supplies for use at the workplace or on the passenger craft is in a safe condition.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6098,7 +6104,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **210.031** Every supplier shall ensure
 - **(a)** that any thing it supplies for use at a workplace or on a passenger craft meets the requirements of the regulations made under this Part; and
 - **(b)** if there is an obligation in an agreement for the supplier to maintain the thing in safe condition, that it complies with that obligation.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6107,7 +6113,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Duty of provider of services  — reasonable measures**
 
 **210.032** Every provider of services shall take all reasonable measures to ensure that no individual at a workplace or on a passenger craft is endangered as a result of the services that it provides in connection with the workplace or passenger craft.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6119,7 +6125,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(a)** when it provides services in connection with a workplace that are related to the placement, with an operator or employer, of individuals who, in return for monetary compensation, perform work or services for the operator or employer at the workplace, ensure that those individuals have the qualifications and certifications — including any that are prescribed — that are necessary for them to perform the work or services in a manner that protects their health and safety and that of employees and other individuals at the workplace;
 - **(b)** ensure that any information that it provides in connection with the services that it provides is accurate and sufficiently complete so as to enable the operator or employer, as the case may be, to make a competent judgment on the basis of the information; and
 - **(c)** ensure, to the extent that it is possible to do so, that any operator, employer, employee, supplier or owner, or any other provider of services, will not, as a result of relying in good faith on its advice, or on a certificate, seal or stamp provided by it, be in contravention of the provisions of this Part or of the regulations made under this Part, or of the occupational health and safety requirements of the authorization or those undertaken in the declaration related to the authorization.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6134,7 +6140,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **210.034** Every owner shall take all reasonable measures to ensure that any workplace in respect of which they are an owner is delivered and maintained so as to ensure the health and safety of individuals at that workplace, including measures to inform the operator of known or foreseeable health or safety hazards that could assist the operator in
 - **(a)** reducing the risks posed by hazards at the workplace; and
 - **(b)** assessing whether the provisions of this Part and the regulations made under this Part — and the occupational health and safety requirements of any authorization related to the workplace that is issued to the operator, and the occupational health and safety requirements undertaken in the declaration related to the authorization — are being complied with.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6145,7 +6151,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **210.035** Every interest holder shall take all reasonable measures to ensure that the operator for a workplace in any portion of the offshore area subject to the interest, or the share of the interest, of that interest holder complies with
 - **(a)** the provisions of this Part and the regulations made under this Part; and
 - **(b)** the occupational health and safety requirements of any authorization related to that workplace that is issued to the operator, and the occupational health and safety requirements undertaken in the declaration related to the authorization.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6166,7 +6172,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Duty of directors and officers of interest holders**
 
 - **(3)** Every director and every officer of a corporation shall, if the corporation has duties under section 210.035, take all reasonable measures to ensure that the corporation complies with that section.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6206,7 +6212,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Obligation to post satisfied**
 
 - **(5)** An obligation imposed on an operator under subsection (1) is satisfied if the operator provides a copy of the information or document to each employee at the workplace.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6231,7 +6237,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Obligation to post satisfied**
 
 - **(4)** An obligation imposed on an employer under subsection (1) is satisfied if the employer provides a copy of the information or document to each of its employees at the workplace.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6246,7 +6252,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Chief Safety Officer information  — employer**
 
 - **(2)** An employer shall communicate to its employees at a workplace any information that the Chief Safety Officer requires to be communicated to them, within the time and in the manner specified by the Chief Safety Officer.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6261,7 +6267,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Reports available to employees**
 
 - **(2)** Every operator shall make available to any employee at the workplace, and the employer shall make available to any of its employees at the workplace, on request, a copy of any report that has been provided to a committee established for the workplace.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6280,7 +6286,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Edited report**
 
 - **(3)** The edited report shall be provided to the committee within 21 days after the day on which the committee’s request is received.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6303,7 +6309,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Other provisions**
 
 - **(4)** Subsections 210.047(3) to (8) apply to the request with any modifications that the circumstances require.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6348,7 +6354,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Limitation of liability**
 
 - **(6)** An individual who serves as a member of a workplace committee is not personally liable for anything done or omitted to be done by them in good faith while carrying out their duties or functions.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6383,7 +6389,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Resolution of disagreements**
 
 - **(7)** If there is disagreement as to the size of a workplace committee, the selection of members or any other matter that prevents or impairs the proper functioning of the committee, the Chief Safety Officer shall determine the matter and provide those concerned with a written determination. A determination by the Chief Safety Officer is final and binding and not subject to review or appeal.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6425,7 +6431,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Time off work**
 
 - **(7)** An employee who is a coordinator is entitled to any time off from work that is necessary to enable them to fulfil their duties and functions as a coordinator, including time off to take training. That time off is considered to be work time for which the employee shall be paid the same wages and granted the same benefits that the employee would have received had they worked for that time.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6452,7 +6458,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Provisions applicable**
 
 - **(5)** Paragraphs 210.043(5)(b) and (d) and subsections 210.043(6) and 210.044(1) to (7) apply, with any modifications that the circumstances require, in respect of a special committee.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6491,7 +6497,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Report regarding response**
 
 - **(8)** If the committee has not been provided with a response to its recommendations within the period required or if it considers that the response is not satisfactory, it shall inform an occupational health and safety officer of the matter.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6532,7 +6538,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Compensation of employees**
 
 - **(6)** An employee acting as an observer shall be paid the same wages and granted the same benefits that the employee would have received had they been working.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6559,7 +6565,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Notice to health and safety officer**
 
 - **(4)** If the employee’s concern is not resolved after they notify their employer, the employee may notify a health and safety officer.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6610,7 +6616,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **No right to refuse**
 
 - **(10)** If the occupational health and safety officer decides that the performance of the activity does not constitute a danger to the employee or another individual, or that the refusal puts the life, health or safety of another individual directly in danger, the employee is not entitled under this section to continue to refuse to perform the activity.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6625,7 +6631,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Compensation of employee**
 
 - **(2)** An employee who, under subsection (1), accompanies an occupational health and safety officer shall, during that time, be paid the same wages and granted the same benefits that the employee would have received if they had not exercised their right to refuse.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6656,7 +6662,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Repayment**
 
 - **(6)** Subject to any applicable collective agreement or other agreement, the employer, or the provider of services that is providing services related to the placement of the employee, as the case may be, may require repayment of any wages and benefits received by an employee under subsection (3) if an occupational health and safety officer determines in respect of an application made under section 210.064, after all avenues of redress have been exhausted by the employee, that the employee received the wages and benefits knowing that no circumstances existed that would warrant the refusal.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6671,7 +6677,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Equivalent work**
 
 - **(2)** Subject to any applicable collective agreement or other agreement, an employer may assign reasonably equivalent work to an employee who is affected by a work stoppage at the same wages and benefits that the employee would have received if no work stoppage had occurred.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6718,7 +6724,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **No right to refuse**
 
 - **(10)** If the occupational health and safety officer decides that the transportation does not constitute a danger to the employee, the employee is not entitled to continue to refuse to be transported.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6745,7 +6751,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Repayment**
 
 - **(5)** Subject to any applicable collective agreement or other agreement, the employer, or the provider of services that is providing services related to the placement of the employee, as the case may be, may require repayment of any wages and benefits received by an employee under subsection (3) if an occupational health and safety officer determines in respect of an application made under section 210.064, after all avenues of redress have been exhausted by the employee, that the employee received the wages and benefits knowing that no circumstances existed that would warrant the refusal.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6782,7 +6788,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Status of employee**
 
 - **(6)** Whether or not the employee has been reassigned to another job, she is deemed to continue to hold the job that she held at the time she ceased to perform her job and is to continue to receive the wages and benefits that are attached to that job for the period during which she does not perform the job.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6797,7 +6803,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Medical certificate**
 
 - **(2)** The employee’s request shall be accompanied by a certificate described in paragraph 210.056(3)(a).
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6830,7 +6836,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Employee’s right to leave**
 
 - **(6)** An employee referred to in subsection (4) is entitled to and shall be granted a leave of absence for the duration of the risk as indicated in the medical certificate.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6871,7 +6877,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Reasons**
 
 - **(5)** The operator, employer, provider of services or union shall provide the employee with written reasons for any action taken under subsection (4) within 15 days after the day on which a request is received from the employee to do so.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6900,7 +6906,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Exercise of rights**
 
 - **(5)** An employee who exercises their right within the time permitted under the collective agreement is not permitted to make a complaint under subsection (1) in respect of the same subject-matter unless it is determined that the arbitrator does not have jurisdiction to hear the grievance. In that case, the employee may, within 90 days after the day on which a final determination is made that the arbitrator does not have jurisdiction, make an application under that subsection.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6915,7 +6921,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Enquiry on own initiative**
 
 - **(2)** An occupational health and safety officer may carry out an enquiry on their own initiative if the officer is of the opinion, based on information that the officer considers to be reliable, that grounds for a complaint under section 210.06 exist.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6924,7 +6930,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Notice of decision**
 
 **210.062** If, after carrying out their enquiry, the occupational health and safety officer decides that a complaint is not justified or that no grounds for a complaint exist, they shall immediately give notice of the decision to the operator and the complainant, as well as to the employer, provider of services or union that is the subject of the complaint.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6954,7 +6960,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Order to specify breach**
 
 - **(4)** An order made under this section shall specify the provisions of this Part or of the regulations made under this Part that have not been complied with or the nature of any reprisal action taken or threatened to be taken contrary to subsection 210.059(2), as the case may be.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6975,7 +6981,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Burden of proof**
 
 - **(3)** The burden of proving that no circumstances existed that would warrant the refusal by the employee is on the employer or the provider of services.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6984,7 +6990,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Notice of decision**
 
 **210.065** If an occupational health and safety officer dismisses an application made under subsection 210.064(1), the officer shall immediately give notice of the decision to the applicant, the Chief Safety Officer and the operator, as well as to the employee who is the subject of the application.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -6993,7 +6999,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Notice of decision**
 
 **210.066** If an occupational health and safety officer determines that an employee has received wages and benefits under subsection 210.052(3) or 210.055(3) knowing that no circumstances existed that would warrant the refusal by the employee under section 210.05 to perform an activity, or the refusal by the employee under section 210.054 to be transported, as the case may be, the officer shall immediately give notice of the decision to the applicant, the Chief Safety Officer and the operator, as well as to the employee who is the subject of the application.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7022,7 +7028,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Cooperation with governments, etc.**
 
 - **(3)** The Board may carry out the activities described in paragraphs (1)(a), (e) and (f) in conjunction with any department or agency of the Government of Canada, the government of any province or a foreign government, or with any other organization that carries out similar activities.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7037,7 +7043,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Not statutory instruments**
 
 - **(2)** The guidelines and interpretation notes are not statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7062,7 +7068,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Authorization  — occupational health and safety**
 
 - **(3)** In addition to any requirement or approval determined by the Board under Part III to which an authorization is subject, the authorization is also subject to any requirements and approvals, not inconsistent with the provisions of this Act or the regulations, that the Board determines relate to occupational health and safety.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7106,7 +7112,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Reconsideration of decision**
 
 - **(7)** The Chief Safety Officer may, on his or her own initiative or on application by the applicant for the permission under subsection (1), reconsider, confirm, vary, revoke or suspend a decision made on the application at any time if information is made available that, had it been known when the decision was made, would reasonably be expected to have resulted in a different decision from the one made at that time. In that case, subsections (1) to (6) apply with the necessary modifications.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7145,7 +7151,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Reconsideration of decision**
 
 - **(7)** The Chief Safety Officer may, on his or her own initiative or on application by the operator who requested a permission under subsection (1), reconsider, confirm, vary, revoke or suspend a decision made on the application at any time when information is made available that, had it been known when the decision was made, would reasonably be expected to have resulted in a different decision from the one made at that time. In that case, subsections (1) to (6) apply with the necessary modifications.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7180,7 +7186,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Certificate to be produced**
 
 - **(6)** An individual designated under subsection (1) shall be provided with a certificate of designation, and, on entering any place under the authority of this Part shall, if so requested, produce the certificate to the person in charge of the place.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7209,7 +7215,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **No liability**
 
 - **(5)** No action lies against the Board for anything done or omitted to be done by an individual designated under subsection (1) while carrying out their duties or functions, or by any person in the course of assisting such an individual.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7263,7 +7269,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Return of things removed**
 
 - **(5)** Anything removed under paragraph (1)(f), (2)(h) or (3)(d) for examination, testing or copying shall, if requested by the person from whom it was removed, be returned to that person after the examination, testing or copying is completed, unless it is required for the purpose of a prosecution under this Part.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7286,7 +7292,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Editing of report — medical and other information**
 
 - **(4)** If a report contains information relating to the medical history of an identifiable individual or other prescribed information relating to an identifiable individual, the health and safety officer shall edit the report to protect that information before providing it to an operator or employer, unless the individual to whom the information relates consents in writing to the disclosure of the information to the operator or employer.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7333,7 +7339,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Definition of living quarters**
 
 - **(8)** In this section, ***living quarters*** means sleeping quarters provided for the accommodation of employees on a marine installation or structure or a passenger craft, and any room for the exclusive use of the occupants of those quarters that contains a toilet or a urinal.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7350,7 +7356,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(2)** If the place referred to in subsection 210.074(3) is a workplace, the operator shall provide to the health and safety officer, and to every individual accompanying that officer, free of charge,
 	- **(a)** suitable transportation between the operator’s usual point of embarkation on shore and the workplace, between the workplace and the operator’s usual point of disembarkation on shore, and between workplaces; and
 	- **(b)** suitable accommodation and food at the workplace.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7359,7 +7365,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **False statements or information**
 
 **210.078** No person shall make a false or misleading statement or provide false or misleading information, in connection with any matter under this Part, to a health and safety officer who is carrying out duties or functions under this Part or to the Chief Safety Officer when he or she is conducting a review under section 210.1.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7368,7 +7374,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Obstruction**
 
 **210.079** No person shall obstruct or hinder a health and safety officer who is carrying out duties or functions under this Part or the Chief Safety Officer when he or she is conducting a review under section 210.1.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7395,7 +7401,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Compensation of employee**
 
 - **(5)** An individual who is accompanying or being consulted by an officer under this section shall be paid the same wages and granted the same benefits that the individual would have received had they been working.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7443,7 +7449,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Telewarrant provisions to apply**
 
 - **(8)** A warrant may be issued under this section by telephone or other means of telecommunication on information submitted by a health and safety officer by one of those means, and section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies for that purpose, with any modifications that the circumstances require.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7458,7 +7464,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Perishable things**
 
 - **(2)** If the thing seized is perishable, a health and safety officer may destroy the thing, or otherwise dispose of it in any manner the officer considers appropriate. Any proceeds realized from its disposition shall be paid to the Receiver General.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7480,7 +7486,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Exception  — passenger craft**
 
 - **(2)** If an individual is killed or seriously injured by an incident involving a passenger craft, an individual who is investigating the incident under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or the [Canadian Transportation Accident Investigation and Safety Board Act](/en/Acts/Statutes%20of%20Canada/1989/c.%203.md) is not required to obtain an authorization under subsection (1).
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7493,7 +7499,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Provision of information**
 
 **210.084** No person shall prevent an employee from providing to a health and safety officer or to the Board, or to any person or committee having duties or functions under this Part, information that they may require to carry out their duties or functions.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7504,7 +7510,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **210.085** Subject to sections 210.088 to 210.09, no person shall — except for the purposes of this Part, for the purposes of a prosecution under this Part, for the purposes of Part III as it relates to safety or for the purposes of a prosecution under Part III that relates to safety — disclose the results of
 - **(a)** activities carried out by or on the order of a health and safety officer for the purpose of verifying compliance with this Part; or
 - **(b)** activities carried out under a warrant issued under this Part.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7513,7 +7519,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Non-disclosure of identity**
 
 **210.086** Subject to section 210.089, no individual to whom information obtained under this Part is communicated in confidence shall disclose the identity of the individual who provided it except for the purposes of this Part, and no individual who obtains such information in confidence is competent or compellable to disclose the identity of the individual who provided it before any court or other tribunal except by order of the court or tribunal on any terms and conditions that the court or tribunal considers just.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7532,7 +7538,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Secondary release of information**
 
 - **(3)** Subject to subsection 210.089(2), information disclosed under subsection (1) or (2) shall not be further disclosed by the recipient, except for the purpose for which it was disclosed to them.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7551,7 +7557,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Secondary release of information**
 
 - **(3)** Information disclosed under subsection (1) or (2) shall not be further disclosed by the recipient without the consent in writing of the person who disclosed it to them, unless it is disclosed for the same purposes and subject to the conditions referred to in that subsection.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7566,7 +7572,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Secondary release of information**
 
 - **(2)** Information disclosed to either Minister under subsection (1) shall not be further disclosed by that Minister without the consent in writing of the person to whom it relates except for the purposes of this Part or for the purposes of Part III as it relates to safety.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7575,7 +7581,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Disclosure by Board**
 
 **210.09** Despite section 122, the Board may, after consulting with the Chief Safety Officer, disclose information under its control that relates to this Part — other than information relating to the medical history of an identifiable individual or other prescribed information relating to an identifiable individual, an individ­ual’s identity the disclosure of which is restricted under section 210.086 or information the disclosure of which is restricted under 210.087 — if the Board is satisfied that the public interest in making the disclosure clearly outweighs any potential harm resulting from the disclosure.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7598,7 +7604,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Privilege**
 
 - **(3)** No person shall be required to produce or give evidence in any civil or administrative proceeding relating to any information disclosed to them under subsection 210.088(1) or (2) or 210.089(1).
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7609,7 +7615,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **210.092** No action lies against
 - **(a)** a health and safety officer for anything done or omitted to be done by them in good faith while carrying out their duties or functions under this Part; or
 - **(b)** an individual accompanying or a person assisting a health and safety officer for anything done or omitted to be done by them in good faith while carrying out their duties or functions under this Part.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7624,7 +7630,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **210.093** A health and safety officer who is of the opinion that a provision of this Part or of the regulations made under this Part is being contravened or has recently been contravened by any person may order the person to
 - **(a)** terminate the contravention within the time that the officer specifies; and
 - **(b)** take measures specified by the officer, within the period that they specify, to ensure that the contravention does not continue or reoccur.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7653,7 +7659,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Cessation of use**
 
 - **(5)** If a health and safety officer makes an order under subsection (2), the person to whom the order is directed shall cause the use or operation of the place or thing or the performance of the activity to be discontinued, and no individual shall use or operate the place or thing or perform the activity until the order under subsection (1) is complied with.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7676,7 +7682,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **When order may be made**
 
 - **(4)** A health and safety officer may make an order under section 210.093 or subsection 210.094(1) or (2) even if the officer is not physically present in the place to which the order refers.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7685,7 +7691,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Compliance notice**
 
 **210.096** The person to whom an order under section 210.093 or subsection 210.094(1) or (2) is directed shall, within the period specified in the order, submit to the health and safety officer a notice of compliance describing the extent to which they have complied with the order, unless the officer decides that the notice is not necessary because compliance with the order has been achieved.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7700,7 +7706,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Priority  — occupational health and safety officer**
 
 - **(2)** An order or a decision made by an occupational health and safety officer prevails over an order or a decision made by an operational safety officer, a conservation officer or the Chief Conservation Officer, as defined in section 138, to the extent of any inconsistency between the orders or decisions.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7733,7 +7739,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(4)** An obligation imposed on an operator or employer under subsection (1) is satisfied if
 	- **(a)** the operator or employer, as the case may be, ensures that the document is posted for the time necessary, which is at least 30 days or any longer period that is prescribed, to enable employees at the workplace to inform themselves of the content; or
 	- **(b)** the operator or employer, as the case may be, provides a copy of the document to each employee at the workplace.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7760,7 +7766,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **No stay**
 
 - **(4)** Unless otherwise ordered by the Chief Safety Officer, an application for review of a decision or an order does not operate as a stay of the decision or order.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7783,7 +7789,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Effect of decision**
 
 - **(4)** A decision of the Chief Safety Officer made under this section that is not appealed is final and binding and not subject to review.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7844,7 +7850,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Non-application of [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md)**
 
 - **(12)** For the purposes of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the provincial labour board, when exercising jurisdiction or powers under this section, is not a federal board, commission or other tribunal as defined in subsection 2(1) of that Act.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7853,7 +7859,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Compensation of employees**
 
 **210.102** Time spent by an employee attending proceedings under section 210.101 as a party, or as a witness as a result of a summons, is considered to be work time for which the employee shall be paid the same wages and granted the same benefits that the employee would have received had they worked for that time.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7862,7 +7868,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Non-application of [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md)**
 
 **210.103** For the purposes of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), neither the Board, the Chief Safety Officer nor a health and safety officer, when exercising or purporting to exercise jurisdiction or powers conferred on them under this Part, is a federal board, commission or other tribunal as defined in subsection 2(1) of that Act.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7885,7 +7891,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **When order rescinded or replaced**
 
 - **(3)** After an order has been made an order of the Supreme Court of Nova Scotia, any subsequent order rescinding or replacing the first order has the effect of cancelling the order of the Court, and that subsequent order may be made an order of that Court in the same manner.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7904,7 +7910,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Provisions applicable to enforcement**
 
 - **(3)** Section 72 of the Provincial Occupational Health and Safety Act applies to the enforcement of an order, with any modifications that the circumstances require, including the substitution of the Chief Safety Officer for the Director in subsections 72(3), (5) and (6) of that Act.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7944,7 +7950,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Due diligence defence**
 
 - **(5)** No person shall be found guilty of an offence under subsection (1) if they establish that they exercised due diligence to prevent the commission of the offence.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7961,7 +7967,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Offence by employee or agent**
 
 - **(2)** In a prosecution for an offence under this Part, it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or has been prosecuted for the offence.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7970,7 +7976,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Imprisonment precluded in certain cases**
 
 **210.108** If an individual is convicted of an offence under this Part on proceedings by way of summary conviction, no imprisonment may be imposed in default of payment of any fine imposed as punishment.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -7997,7 +8003,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Publication**
 
 - **(3)** If an offender does not comply with an order under paragraph (1)(c) requiring the publication of facts relating to the offence, the Chief Safety Officer may publish the facts and recover the costs of publication from the offender.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8014,7 +8020,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Notice**
 
 - **(2)** Before making an order under subsection (1), the court may direct that notice be given to any persons that the court considers to be interested and may hear any of those persons.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8023,7 +8029,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Subsequent applications with leave**
 
 **210.111** If an application made under subsection 210.11(1) in relation to an offender has been heard by a court, no other application may be made under that section in relation to the offender except with leave of the court.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8032,7 +8038,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Recovery of fines and amounts**
 
 **210.112** If a person is convicted of an offence under this Part and a fine that is imposed is not paid when required or if a court orders an offender to pay an amount under subsection 210.109(1) or 210.11(1), the prosecutor may, by filing the conviction or order, as the case may be, enter as a judgment the amount of the fine or the amount ordered to be paid, and costs, if any, in the Supreme Court of Nova Scotia, and the judgment is enforceable against the person in the same manner as if it were a judgment rendered against them in that Court in civil proceedings.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8041,7 +8047,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Order to comply**
 
 **210.113** If a person is guilty of an offence under this Part, a court may, in addition to any other penalty it may impose, order that person to comply with the provisions of this Part or the regulation or order for the contravention of which that person has been convicted.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8050,7 +8056,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Continuing offences**
 
 **210.114** If an offence under this Part is committed on more than one day or is continued for more than one day, it constitutes a separate offence for each day on which it is committed or continued.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8059,7 +8065,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Time limited for summary conviction proceedings**
 
 **210.115** Proceedings by way of summary conviction for an offence under this Part may be instituted at any time within but not later than three years after the day on which the subject-matter of the proceedings arose, unless the prosecutor and the defendant otherwise agree.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8068,7 +8074,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Evidence**
 
 **210.116** In any prosecution for an offence under this Part, a copy of any order or other document purporting to have been made under this Part — and purporting to have been signed, in the case of an order or other document purporting to have been made by the provincial labour board, by the Chair, a vice-chair or a member of that board and, in any other case, by the individual authorized under this Part to make that order or document — is, in the absence of any evidence to the contrary, proof of the matters set out in it.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8077,7 +8083,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Jurisdiction of justice or judge**
 
 **210.117** Any complaint or information relating to an offence under this Part may be heard, tried or determined by a justice of the peace or judge if the accused is resident or carrying on business within the territorial jurisdiction of that justice or judge although the matter of the complaint or information did not arise in that territorial jurisdiction.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8092,7 +8098,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 **Civil remedy not affected**
 
 - **(2)** No civil remedy for any act or omission is suspended or affected by reason that the act or omission is an offence under this Part.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8104,7 +8110,7 @@ and, subject to section 182, the unit agreement and the unit operating agreement
 - **(a)** an information may include more than one offence committed by the same person;
 - **(b)** all those offences may be tried concurrently; and
 - **(c)** one conviction for any or all offences so included may be made.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8155,7 +8161,7 @@ The Board shall pay that remuneration and those expenses.
 **Chairpersons**
 
 - **(8)** The advisory council is to have two chairpersons selected from among its members. One of the chairpersons shall be selected by the employee representatives and the other shall be selected by the industry representatives.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8190,7 +8196,7 @@ The Board shall pay that remuneration and those expenses.
 **Cost of audit**
 
 - **(6)** If the Federal Minister and the Provincial Minister jointly appoint the auditor, they may also jointly agree, with the consent in writing of the Minister of Mines and Energy of the Province, to require the cost of the audit to be borne by the Board. If only one of those Ministers appoints the auditor, that Minister shall pay the cost of the audit.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8225,7 +8231,7 @@ The Board shall pay that remuneration and those expenses.
 **Costs of inquiry**
 
 - **(7)** If the Federal Minister and the Provincial Minister jointly appoint the individual or individuals under subsection (1), they may also jointly agree, with the consent in writing of the Minister of Mines and Energy of the Province, to require the cost of the inquiry to be borne by the Board. If only one of those Ministers appoints an individual or individuals under that subsection, that Minister shall pay the cost of the inquiry.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8242,7 +8248,7 @@ The Board shall pay that remuneration and those expenses.
 ***electronic document*** means any form of representation of information or of concepts fixed in any medium in or by electronic, optical or other similar means and that can be read or perceived by an individual or by any means. (*document électronique*)
 
 ***information system*** means a system used to generate, send, receive, store or otherwise process an electronic document. (*système d’information*)
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8251,7 +8257,7 @@ The Board shall pay that remuneration and those expenses.
 **Use not mandatory**
 
 **210.124** No provision of this Part or of the regulations made under this Part requires an electronic document to be created or provided.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8284,7 +8290,7 @@ The Board shall pay that remuneration and those expenses.
 **Exceptions**
 
 - **(4)** Despite subsection (2), the reasons referred to in subsection 210.059(5) and the decision referred to in subsection 210.1(3) shall be provided in writing.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8336,7 +8342,7 @@ The Board shall pay that remuneration and those expenses.
 
 **No registration or publication**
 
-- **(3)** For greater certainty, a document that is incorporated by reference into a regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
+- **(3)** For greater certainty, a document that is incorporated by reference into a regulation is not required to be transmitted for registration or published in the [Canada Gazette](http://www.gazette.gc.ca/) by reason only that it is incorporated by reference.
 
 **Regulations general or specific**
 
@@ -8345,7 +8351,7 @@ The Board shall pay that remuneration and those expenses.
 **Recommendation of Minister of Transport**
 
 - **(5)** Regulations made under subsection (1) in respect of employees and other passengers on a passenger craft, or the passenger craft, shall, in addition to the requirement set out in that subsection, be made on the recommendation of the Minister of Transport.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8355,12 +8361,12 @@ The Board shall pay that remuneration and those expenses.
 
 **210.127** 
 
-- **(1)** Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under this Part shall be published in the Canada Gazette and a reasonable opportunity shall be given to interested persons to make representations to the Federal Minister with respect to it.
+- **(1)** Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under this Part shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) and a reasonable opportunity shall be given to interested persons to make representations to the Federal Minister with respect to it.
 
 **Single publication required**
 
 - **(2)** No proposed regulation need be published more than once under subsection (1) whether or not it is altered or amended as a result of representations made by interested persons as provided in that subsection.
-> 2014, c. 13, s. 84.
+> 2014, c. 13, s. 84
 
 
 
@@ -8386,7 +8392,7 @@ The Board shall pay that remuneration and those expenses.
 ***Nova Scotia Income Tax Act*** means the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), R.S.N.S. 1989, c. 217, as amended from time to time. (*Loi néo-écossaise de l’impôt sur le revenu*)
 
 ***Revenue Account*** means the account established under section 219. (*Compte de recettes*)
-> 1988, c. 28, s. 211; 2014, c. 13, s. 85.
+> 1988, c. 28, s. 211; 2014, c. 13, s. 85
 
 
 
@@ -8423,9 +8429,9 @@ The Board shall pay that remuneration and those expenses.
 **Binding on certain entities**
 
 - **(4)** This section is binding on
-	- **(a)** the corporations mentioned in Schedule I to the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), if Nova Scotia is a participating province as defined in subsection 31(1) of that Act; and
+	- **(a)** the corporations mentioned in Schedule I to the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-8.md), if Nova Scotia is a participating province as defined in subsection 31(1) of that Act; and
 	- **(b)** the corporations mentioned in Schedule II to that Act.
-> 1988, c. 28, s. 212; 2014, c. 13, s. 85.
+> 1988, c. 28, s. 212; 2014, c. 13, s. 85
 
 
 
@@ -8460,7 +8466,7 @@ The Board shall pay that remuneration and those expenses.
 **Definition of company**
 
 - **(4)** In this section, ***company*** has the meaning assigned by the definition ***insurance company*** in section 2 of the Insurance Premiums Tax Act.
-> 1988, c. 28, s. 213; 2014, c. 13, s. 85.
+> 1988, c. 28, s. 213; 2014, c. 13, s. 85
 
 
 
@@ -8506,10 +8512,10 @@ the payment so received may be applied by the Government of the Province towards
 **Proof of provision of tax administration agreement**
 
 - **(7)** A document purporting to be an agreement entered into pursuant to subsection (3) or (4) that is
-	- **(a)** published in the Canada Gazette, or
+	- **(a)** published in the [Canada Gazette](http://www.gazette.gc.ca/), or
 	- **(b)** certified as such by, or on behalf of, the Receiver General, the Deputy Receiver General or the Minister of Finance
 is, in the absence of evidence to the contrary, evidence of the contents thereof and is admissible in evidence without proof of the signature or official character of the person purporting to have certified it.
-> 1988, c. 28, s. 214; 2014, c. 13, s. 86.
+> 1988, c. 28, s. 214; 2014, c. 13, s. 86
 
 
 
@@ -8530,7 +8536,7 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 	- **(b)** the Minister of Finance of the Province or any other Minister of the Crown in right of the Province that may be designated by the Provincial Government for the purpose may
 		- **(i)** perform the duties and exercise any power or discretion that the Minister of Finance of the Province has under subsection (1) or otherwise under this Part in relation to the Insurance Premiums Tax Act, and
 		- **(ii)** designate personnel of the Department of Finance of the Province, or any other department of the Province for which that Minister is responsible, to carry out any functions, perform any duties and exercise any powers that are similar to those that are carried out, exercised or performed by them on behalf of that Minister under the Insurance Premiums Tax Act.
-> 1988, c. 28, s. 215; 2014, c. 13, s. 87.
+> 1988, c. 28, s. 215; 2014, c. 13, s. 87
 
 
 
@@ -8568,7 +8574,7 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 **Determination of taxable income earned in offshore area**
 
 - **(4)** For the purposes of this section, the taxable income of a corporation earned in a taxation year in the offshore area or in the Province shall be determined in accordance with rules prescribed by regulations for the purposes of the definition ***taxable income earned in the year in a province*** in subsection 124(4) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and “taxable capital” means taxable capital employed in Canada determined in accordance with Part I.3 of that Act.
-> 1988, c. 28, s. 216; 2013, c. 34, s. 369; 2014, c. 13, s. 88.
+> 1988, c. 28, s. 216; 2013, c. 34, s. 369; 2014, c. 13, s. 88
 
 
 
@@ -8589,7 +8595,7 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 - **(3)** Every person who knowingly collects or receives any sum of money as taxes under this Part in circumstances where the sum is not payable shall forthwith
 	- **(a)** refund the sum to the person from whom the taxes were collected; or
 	- **(b)** if the person referred to in paragraph (a) is not known or readily ascertainable, pay the sum to the Receiver General.
-> 1988, c. 28, s. 217; 2015, c. 4, s. 103(F).
+> 1988, c. 28, s. 217; 2015, c. 4, s. 103(F)
 
 
 
@@ -8655,7 +8661,7 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 **Definition of court**
 
 - **(4)** In this section, ***court*** includes a judge thereof and any provincial court judge or justice.
-> 1988, c. 28, s. 220; 2014, c. 13, s. 89.
+> 1988, c. 28, s. 220; 2014, c. 13, s. 89
 
 
 
@@ -8674,7 +8680,7 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 	- **(iii)** the Insurance Premiums Tax Act or any regulation referred to in subsection 213(3.1), or
 	- **(iv)** the Nova Scotia Income Tax Act or any regulation referred to in subsection 216(3.1); and
 - **(b)** prescribing anything that is by this Part to be prescribed.
-> 1988, c. 28, s. 221; 2014, c. 13, s. 90.
+> 1988, c. 28, s. 221; 2014, c. 13, s. 90
 
 
 
@@ -8883,7 +8889,7 @@ to the extent that those expenses are reasonable in the circumstances.
 - **(a)** prescribing the manner of making an application for payment under this Part and the time when it is to be made;
 - **(b)** where the Federal Minister has made an overpayment under this Part, requiring Nova Scotia Resources (Ventures) Limited to repay such overpayment and interest thereon to the Federal Minister in accordance with the regulations and prescribing the amount of interest to be paid in respect of such an overpayment and the manner in which and time when the amount of any such overpayment and any interest thereon is to be repaid; and
 - **(c)** permitting, in the calculation of Canadian development expenses or Canadian exploration expenses, any expense to be included that would otherwise be excluded pursuant to paragraph (a) of the definition of that term in section 239.
-> 1988, c. 28, s. 245; 1994, c. 26, s. 17(F).
+> 1988, c. 28, s. 245; 1994, c. 26, s. 17(F)
 
 
 
@@ -8919,7 +8925,7 @@ to the extent that those expenses are reasonable in the circumstances.
 ***threshold rate of return***[Repealed, 2009, c. 31, s. 47]
 
 - **(2)** [Repealed, 2015, c. 4, s. 105]
-> 1988, c. 28, s. 246; 2009, c. 31, s. 47; 2015, c. 4, s. 105.
+> 1988, c. 28, s. 246; 2009, c. 31, s. 47; 2015, c. 4, s. 105
 
 
 
@@ -8963,7 +8969,7 @@ to the extent that those expenses are reasonable in the circumstances.
 - **(5)** If the per capita fiscal capacity of the Province in respect of any fiscal year is equal to or greater than the national average per capita fiscal capacity in respect of that fiscal year, no payment shall be made under subsection (1) in respect of that fiscal year. The per capita fiscal capacity of the Province and the national average per capita fiscal capacity shall be determined in accordance with section 247.1.
 
 - **(6)** [Repealed, 2009, c. 31, s. 48]
-> 1988, c. 28, s. 247; 2009, c. 31, s. 48; 2015, c. 4, s. 106.
+> 1988, c. 28, s. 247; 2009, c. 31, s. 48; 2015, c. 4, s. 106
 
 
 
@@ -9024,7 +9030,7 @@ by
 **Determination of population**
 
 - **(6)** For the purposes of this section, the population of a province for a fiscal year is the population of that province for that fiscal year, as determined for the purposes of Part I of the Fiscal Arrangements Act.
-> 2015, c. 4, s. 107.
+> 2015, c. 4, s. 107
 
 
 
@@ -9041,7 +9047,7 @@ by
 - **(b)** respecting the making of payments pursuant to subsection 247(1) if the Minister determines that the Minister has underpaid any amount payable under that subsection;
 - **(c)** respecting the recovery of overpayments made pursuant to subsection 247(1); and
 - **(d)** prescribing anything that is, by this Part, to be prescribed.
-> 1988, c. 28, s. 248; 2009, c. 31, s. 50.
+> 1988, c. 28, s. 248; 2009, c. 31, s. 50
 
 
 
@@ -9129,7 +9135,7 @@ by
 - **(2)** Section 216 and Part IX are applicable to taxation years commencing after December 22, 1989.
 
 <a name='C-7.8_en_1'><sup>*</sup></a>: [Note: Act, except Division VIII of Part II, in force December 22, 1989, *see* SI/90-9; Division VIII of Part II in force October 1, 1990, *see* SI/90-152.]<br />
-> 1988, c. 28, s. 267; 1991, c. 49, s. 238.
+> 1988, c. 28, s. 267; 1991, c. 49, s. 238
 
 
 
@@ -9344,7 +9350,7 @@ thence northeasterly in a straight line to a point at latitude 45° 24′ 10″ 
 
 
 
-> 1988, c. 28, Sch. I; SOR/2003-193.
+> 1988, c. 28, Sch. I; SOR/2003-193
 
 
 
@@ -9472,7 +9478,7 @@ thence westerly along latitude 41° 05′ 00″ N to its intersection with said 
 thence northwesterly along said geodetic line to the point of commencement.
 
 
-> 1988, c. 28, Sch. IV; 2015, c. 4, s. 108(F).
+> 1988, c. 28, Sch. IV; 2015, c. 4, s. 108(F)
 
 
 
@@ -9513,7 +9519,7 @@ thence northwesterly along said geodetic line to the point of commencement.
 </tr>
 </table>
 
-> 2015, c. 4, s. 109.
+> 2015, c. 4, s. 109
 
 
 
@@ -9542,7 +9548,7 @@ thence northwesterly along said geodetic line to the point of commencement.
 <tr>
 <td>2</td>
 <td>[Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md)</td>
-<td>35(1)</td>
+<td>34.4(1) and 35(1)</td>
 </tr>
 </table>
 
@@ -9576,6 +9582,127 @@ thence northwesterly along said geodetic line to the point of commencement.
 </tr>
 </table>
 
-> 2015, c. 4, s. 109.
+> 2015, c. 4, s. 1092019, c. 14, s. 57
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2014, c. 13, s. 92, as amended by 2018, c. 27, s. 180
+
+
+**Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act — transitional regulations**
+
+**92** 
+
+- **(1)** If any of the following documents are transmitted by the Minister of Natural Resources to the Speaker of the Senate and to the Speaker of the House of Commons for tabling in those Houses during the 2nd session of the 41st Parliament, then on the day on which this section comes into force that document is deemed to be a regulation made under subsection 210.126(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and, despite section 9 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), to have come into force on that day:
+	- **(a)** a document entitled Canada–Nova Scotia Offshore Marine Installations and Structures Occupational Health and Safety Transitional Regulations; and
+	- **(b)** a document entitled Canada–Nova Scotia Offshore Marine Installations and Structures Transitional Regulations.
+
+**Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act — transitional regulations**
+
+- **(2)** If a document entitled Canada–Nova Scotia Offshore Area Diving Operations Safety Transitional Regulations is transmitted by the Minister of Natural Resources to the Speaker of the Senate and to the Speaker of the House of Commons for tabling in those Houses during the 2nd session of the 41st Parliament, then on the day on which this section comes into force
+	- **(a)** the document is deemed to be a regulation made under paragraph 210.001(3)(a) and subsection 210.126(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and, despite section 9 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), to have come into force on that day; and
+	- **(b)** the [Nova Scotia Offshore Area Petroleum Diving Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/189.md) are repealed.
+
+**Approval of provincial ministers**
+
+- **(3)** The documents are to be transmitted to the Speaker of the Senate and to the Speaker of the House of Commons only if the Minister of Natural Resources is satisfied that, in the case of those referred to in paragraphs (1)(a) and (b), the minister of the government of Nova Scotia who is responsible for occupational health and safety has approved them and, in the case of the document entitled Canada–Nova Scotia Offshore Area Diving Operations Safety Transitional Regulations, that provincial minister and the minister of the government of Nova Scotia who is responsible for the management of offshore petroleum resources, have approved it.
+
+**Copies to Clerk**
+
+- **(4)** The Minister of Natural Resources shall, within seven days after the coming into force of this section, transmit to the Clerk of the Privy Council copies of each document referred to in subsections (1) and (2) that the Minister of Natural Resources transmitted to the Speaker of the Senate and to the Speaker of the House of Commons. Section 5 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) is deemed to have been complied with in respect of a document referred in subsection (1) or (2) on the day on which that document is transmitted to the Clerk.
+
+**Repeal**
+
+- **(5)** Unless repealed on an earlier date, the Canada–Nova Scotia Offshore Marine Installations and Structures Occupational Health and Safety Transitional Regulations, the Canada–Nova Scotia Offshore Marine Installations and Structures Transitional Regulations and the Canada–Nova Scotia Offshore Area Diving Operations Safety Transitional Regulations are repealed on the expiry of six years after the day on which this section comes into force.
+
+
+
+######           — 2014, c. 13, s. 93
+
+
+**Chief Safety Officer powers**
+
+**93** 
+
+- **(1)** The Chief Safety Officer may, on application, grant an exemption in respect of a workplace, or grant an exemption to an operator in respect of passengers being transported on a passenger craft to or from any of its workplaces, for a specified time and subject to specified conditions, from any requirement in respect of equipment, methods, measures or standards that is set out in the Canada–Nova Scotia Offshore Marine Installations and Structures Occupational Health and Safety Transitional Regulations, the Canada–Nova Scotia Offshore Marine Installations and Structures Transitional Regulations or the Canada–Nova Scotia Offshore Area Diving Operations Safety Transitional Regulations, if he or she is satisfied that the health and safety of employees at the workplace or passengers on the passenger craft, as the case may be, will be maintained without compliance with the requirement.
+
+**No contravention**
+
+- **(2)** The regulations are not considered to be contravened if there is compliance with an exemption under subsection (1).
+
+**Application**
+
+- **(3)** The application shall
+	- **(a)** be in a form acceptable to the Chief Safety Officer;
+	- **(b)** include information with respect to the consequences to health and safety that might reasonably be anticipated if the exemption is granted; and
+	- **(c)** be accompanied by technical information sufficient to enable the Chief Safety Officer to make a decision on the application.
+
+**Public notice**
+
+- **(4)** On receipt of the application, the Chief Safety Officer shall make it available to the public in a manner that he or she considers advisable, together with a notice that submissions may be made to him or her for a period of 30 days — or any shorter period that he or she fixes with the agreement of the applicable workplace committee — after the day on which the application has been made available.
+
+**Notice at workplace, etc.**
+
+- **(5)** If the application is made in respect of an existing workplace, the applicant shall give a copy of the application to the operator. An operator shall, immediately after it receives or makes an application relating to an existing workplace or to a passenger craft
+	- **(a)** post a copy of it in printed form in a prominent place at the applicable workplace; and
+	- **(b)** provide a copy to any committee established for that workplace and to any union representing employees within the offshore area.
+
+**Decision**
+
+- **(6)** The Chief Safety Officer shall, as soon as possible after the end of the period referred to in subsection (4), give to the applicant and the operator a copy of the decision made on the application, and make the decision available to the public in a manner that he or she considers advisable.
+
+**Reconsideration of decision**
+
+- **(7)** The Chief Safety Officer may, on his or her own initiative or on application by the applicant for the exemption under subsection (1), reconsider, confirm, vary, revoke or suspend a decision made on the application at any time if information is made available that, had it been known when the decision was made, would reasonably be expected to have resulted in a different decision from the one made at that time. In that case, subsections (1) to (6) apply with the necessary modifications.
+
+**Same meaning**
+
+- **(8)** Words and expressions used in this section have the same meaning as in subsection 210.001(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2015, c. 4, s. 88(2)
+
+**88** 
+
+- **(2)** Section 142.21 of the Act is replaced by the following:
+
+**Net environmental benefit**
+
+**142.21** The Board shall not permit the use of a spill-treating agent in an authorization issued under paragraph 142(1)(b) unless the Board determines, taking into account any prescribed factors and any factors the Board considers appropriate, that the use of the spill-treating agent is likely to achieve a net environmental benefit.
+
+
+
+
+
+######           — 2015, c. 4, ss. 94(2) to (4)
+
+**94** 
+
+- **(2)** Paragraph 166.1(1)(b) of the Act is replaced by the following:
+
+- **(b)** other than in the case of a small-scale test that meets the prescribed requirements, the Chief Conservation Officer approves in writing the use of the agent in response to the spill and it is used in accordance with any requirements set out in the approval;
+
+
+
+- **(3)** Subsection 166.1(1) of the Act is amended by striking out “and” at the end of paragraph (b), by adding “and” at the end of paragraph (c) and by adding the following after paragraph (c):
+
+- **(d)** the agent is used in accordance with the regulations.
+
+
+
+- **(4)** Subsection 166.1(3) of the Act is replaced by the following:
+
+**Net environmental benefit**
+
+- **(3)** Other than in the case of a small-scale test, the Chief Conservation Officer shall not approve the use of a spill-treating agent unless the Officer determines, taking into account any prescribed factors and any factors the Officer considers appropriate, that the use of the spill-treating agent is likely to achieve a net environmental benefit.
+
 
 
