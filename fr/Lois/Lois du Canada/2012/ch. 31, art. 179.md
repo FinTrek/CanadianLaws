@@ -68,22 +68,24 @@ Sanctionnée sur le 14 décembre 2012
 
 **Non-application de certains textes législatifs**
 
-**3** La [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md) et l’article 6 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md) et le [Règlement sur l’exploitation des administrations portuaires](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/55.md) ne s’appliquent pas à la construction du pont, de la promenade ou d’un ouvrage connexe.
-> 2012, ch. 31, art. 179 « 3 » et 183
+**3** La [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md) et l’article 6 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md) et le [Règlement sur l’exploitation des administrations portuaires](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/55.md) ne s’appliquent pas à la construction du pont, de la promenade ou d’un ouvrage connexe.
+> 2012, ch. 31, art. 179 « 3 » et 1832019, ch. 28, art. 186
 
 
 
 
 
-**Non-application de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md)**
+**Non-application de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md)**
 
 **4** 
 
-- **(1)** Sous réserve du paragraphe (2), la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas au pont, à la promenade ou à un ouvrage connexe.
+- **(1)** Sous réserve du paragraphe (2), la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ne s’applique pas au pont, à la promenade ou à un ouvrage connexe.
 
 **Expansion, désaffectation ou fermeture**
 
-- **(2)** L’expansion, la désaffectation ou la fermeture du pont, de la promenade ou d’un ouvrage connexe sont des projets au sens de l’article 66 de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) et sont assujettis aux articles 67 à 72 de cette loi.
+- **(2)** L’expansion, la désaffectation ou la fermeture du pont, de la promenade ou d’un ouvrage connexe sont des projets au sens de l’article 81 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) et sont assujettis aux articles 82 à 91 de cette loi.
+> 2012, ch. 31, art. 179 « 4 »2019, ch. 28, art. 181
+
 
 
 
@@ -131,11 +133,11 @@ Sanctionnée sur le 14 décembre 2012
 
 
 
-**Dommages au poisson**
+**Mort du poisson ou détérioration, destruction ou perturbation de son habitat**
 
 **8** 
 
-- **(1)** Avant de commencer à exploiter un ouvrage ou une entreprise ou à exercer une activité, aux fins de construction du pont, de la promenade ou d’un ouvrage connexe pour lequel ou laquelle l’autorisation prévue aux alinéas 35(2)b) ou c) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) aurait, n’eût été l’article 3, été nécessaire, la personne qui se propose de le faire dépose auprès du ministre un plan énonçant les mesures à prendre pour mitiger les dommages à tout poisson visé par une pêche commerciale, récréative ou autochtone, ou à tout poisson dont dépend une telle pêche, que l’exploitation de l’ouvrage ou de l’entreprise ou l’exercice de l’activité entraînerait.
+- **(1)** Avant de commencer à exploiter un ouvrage ou une entreprise ou à exercer une activité, aux fins de construction du pont, de la promenade ou d’un ouvrage connexe pour lequel ou laquelle l’autorisation prévue aux alinéas 34.4(2)b) ou c) ou 35(2)b) ou c) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) aurait, n’eût été l’article 3, été nécessaire, la personne qui se propose de le faire dépose auprès du ministre un plan énonçant les mesures à prendre pour réduire la mortalité du poisson ou atténuer la détérioration, la destruction ou la perturbation de l’habitat du poisson, que l’exploitation de l’ouvrage ou de l’entreprise ou l’exercice de l’activité entraînerait.
 
 **Obligation de consultation**
 
@@ -148,7 +150,7 @@ Sanctionnée sur le 14 décembre 2012
 **Disposition transitoire**
 
 - **(4)** Si un plan a été déposé à l’égard de l’exploitation de l’ouvrage ou de l’entreprise ou de l’exercice de l’activité en application du paragraphe (1) dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe, ce paragraphe (1) continue de s’appliquer, à compter de cette date, à l’égard de l’exploitation de l’ouvrage ou de l’entreprise ou de l’exercice de l’activité.
-> 2012, ch. 31, art. 179 « 8 » et 1842019, ch. 14, art. 58(A)
+> 2012, ch. 31, art. 179 « 8 » et 1842019, ch. 14, art. 58
 
 
 
