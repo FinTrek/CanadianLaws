@@ -184,9 +184,11 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)**
+**[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)**
 
-**7** The [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply in respect of the designated area.
+**7** The [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) does not apply in respect of the designated area.
+> 2013, c. 14, s. 2 “7”2019, c. 28, s. 188
+
 
 
 
@@ -4140,45 +4142,17 @@ I, ____________, do solemnly affirm (or swear) that I will faithfully, truly, im
 **(Subsection 73(2) and section 229)**
 ## Designated Regulatory Agencies
 
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
+
 Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
 
-National Energy Board<br />- <i>Office national de l’énergie</i>
-
 Nunavut Water Board<br />- <i>Office des eaux du Nunavut</i>
+> 2013, c. 14, s. 2 “Sch. 2”2019, c. 28, s. 1822019, c. 28, s. 183
+
 
 
 
 ### **SCHEDULE 3** 
 **(Subsection 78(2), paragraph 155(1)(a) and subsections 166(2) and 230(4))**
 ## Classes of Works and Activities Exempt from Screening
-
-
-
-## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 28, s. 182
-
-**182** Schedule 2 to the Nunavut Planning and Project Assessment Act is amended by striking out the following:
-
-National Energy Board<br />- <i>Office national de l’énergie</i>
-
-
-
-######           — 2019, c. 28, s. 183
-
-**183** Schedule 2 to the Act is amended by adding the following, in alphabetical order:
-
-Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
-
-
-
-######           — 2019, c. 28, par. 188(f)
-
-
-**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
-
-**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
-- **(f)** section 7 of the Nunavut Planning and Project Assessment Act; and
-
-
 
