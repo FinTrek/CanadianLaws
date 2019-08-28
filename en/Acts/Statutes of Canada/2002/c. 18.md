@@ -457,8 +457,8 @@ and an amendment so laid stands referred to the standing committee of each House
 
 **Conflicts**
 
-- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) to the extent of any conflict between them.
-> 2002, c. 18, s. 16; 2001, c. 26, s. 322; 2005, c. 29, s. 35; 2009, c. 14, s. 20; 2012, c. 31, s. 3462019, c. 1, s. 134
+- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) to the extent of any conflict between them.
+> 2002, c. 18, s. 16; 2001, c. 26, s. 322; 2005, c. 29, s. 35; 2009, c. 14, s. 20; 2012, c. 31, s. 3462019, c. 1, s. 1342019, c. 28, s. 1862019, c. 28, s. 195
 
 
 
@@ -1179,35 +1179,6 @@ Part of the unsubdivided Geographic Township of Syine being composed of Parcel 1
 
 
 
-
-
-
-######           — 2019, c. 28, par. 186(f)
-
-
-**Replacement of “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)”**
-
-**186** Every reference to the “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” is replaced by a reference to the “[Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” in the following provisions:
-- **(f)** subsection 16(5) of the Canadian National Marine Conservation Areas Act;
-
-
-
-######           — 2019, c. 28, ss. 195(1), (4)
-
-
-**
-> Bill C-64
-**
-
-**195** 
-
-- **(1)** Subsections (2) to (9) apply if Bill C-64, introduced in the 1st session of the 42nd Parliament and entitled [An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) (in this section referred to as the “other Act”), receives Royal Assent.
-
-- **(4)** On the first day on which both section 46 of this Act and section 134 of the other Act are in force, then subsection 16(5) of the Canadian National Marine Conservation Areas Act is replaced by the following:
-
-**Conflicts**
-
-- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or the [Wrecked, Abandoned or Hazardous Vessels Act](/en/Acts/Statutes%20of%20Canada/2019/c.%201.md) to the extent of any conflict between them.
 
 
 
