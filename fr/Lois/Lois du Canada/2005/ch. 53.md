@@ -103,7 +103,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **k)** prescrire les règles s’appliquant à la protection et à la communication des renseignements obtenus en application des règlements;
 	- **l)** prescrire ou conférer à toute personne ou tout organisme le pouvoir de prescrire les règles de procédure applicables à toute audience concernant une entreprise, notamment les règles relatives à la délivrance d’assignations à comparaître, à déposer sous serment ou à produire des documents;
 	- **m)** limiter la responsabilité de toute personne ou tout organisme qui exerce des attributions conférées par un règlement et établir les moyens de défense et immunités dont ceux-ci peuvent se prévaloir;
-	- **n)** exiger que l’évaluation des effets environnementaux d’une entreprise soit effectuée dans les cas où la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas et en prescrire la procédure;
+	- **n)** exiger que l’évaluation des effets environnementaux d’une entreprise soit effectuée dans les cas où la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ne s’applique pas et en prescrire la procédure;
 	- **o)** s’agissant de terres de réserve désignées en vertu du paragraphe 38(2) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) pour les besoins d’une entreprise, autoriser toute personne ou tout organisme à disposer, conformément à la désignation, de tout intérêt ou droit portant sur toute partie de ces terres de réserve et établir les conditions d’une telle disposition;
 	- **p)** soustraire certaines entreprises ou terres de réserve à l’application de la [Loi sur le pétrole et le gaz des terres indiennes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-7.md);
 	- **q)** prévoir le rapport entre les règlements et les droits existants — ancestraux ou issus de traités — des peuples autochtones visés à l’article 35 de la Loi constitutionnelle de 1982, et notamment limiter la mesure dans laquelle les règlements peuvent porter atteinte à ces droits;
@@ -113,7 +113,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incorporation par renvoi**
 
 - **(3)** Les règlements peuvent incorporer par renvoi, avec ses modifications successives, tout texte législatif d’une province et y apporter les adaptations que le gouverneur en conseil estime nécessaires.
-> 2005, ch. 53, art. 3; 2010, ch. 6, art. 3; 2012, ch. 19, art. 63
+> 2005, ch. 53, art. 3; 2010, ch. 6, art. 3; 2012, ch. 19, art. 632019, ch. 28, art. 188
 
 
 
@@ -274,19 +274,5 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#F-11.64_s13_f'>[*]</a></sup>**13** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
 <a name='F-11.64_s13_f'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> avril 2006, *voir* TR/2006-57.]<br />
-
-
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2019, ch. 28, al. 188d)
-
-
-**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
-
-**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
-- **d)** l’alinéa 3(2)n) de la Loi sur le développement commercial et industriel des premières nations;
-
 
 
