@@ -69,7 +69,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 	- **a)** fixer les limites externes de tout ou partie du plateau continental pour l’application de la définition de ***plateau continental*** ou englober, pour plus de sûreté, le fond de la mer et le sous-sol des zones sous-marines déterminés dans les limites du plateau continental;
 	- **b)** délimiter les zones extracôtières pour l’application de la définition de ***zone extracôtière***;
 	- **c)** prévoir, pour l’application de la définition de ***zone extracôtière***, la façon de déterminer la province dont la côte est la plus proche d’une zone de mer donnée.
-> 1990, ch. 41, art. 2; 1994, ch. 41, art. 37; 2002, ch. 7, art. 178; 2014, ch. 2, art. 41, ch. 13, art. 113.
+> 1990, ch. 41, art. 2; 1994, ch. 41, art. 37; 2002, ch. 7, art. 178; 2014, ch. 2, art. 41, ch. 13, art. 113
 
 
 
@@ -98,7 +98,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 	- **b)** des dispositions relatives à la nomination de fiduciaires qui peuvent agir, selon les exigences du ministre et sous réserve des montants prévus, à titre de signataires, pour le compte de Sa Majesté, des certificats attestant le droit de son ayant droit aux bénéfices relatifs aux garanties engagées par le ministre en vertu des sous-alinéas a)(ii), (iv), (v) ou (vi), leurs signatures ayant la même valeur que celle du ministre;
 	- **c)** des dispositions relatives à la participation de Sa Majesté aux bénéfices nets;
 	- **d)** des engagements relatifs aux retombées industrielles et aux avantages pour l’emploi;
-	- **e)** sous réserve de leur conformité aux lois fédérales, à leurs textes d’application et, notamment, à la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) et à la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md), ainsi que du prix du marché extérieur, des engagements relatifs à l’accessibilité des marchés intérieur et extérieur pour le pétrole brut provenant de l’exploitation;
+	- **e)** sous réserve de leur conformité aux lois fédérales, à leurs textes d’application et, notamment, à la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) et à la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md), ainsi que du prix du marché extérieur, des engagements relatifs à l’accessibilité des marchés intérieur et extérieur pour le pétrole brut provenant de l’exploitation;
 	- **f)** les autres mesures que le ministre juge souhaitables.
 
 **Garanties en devises**
@@ -108,7 +108,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 **Définition d’intérêts**
 
 - **(4)** Pour l’application du présent article, est assimilée aux intérêts la différence entre la valeur nominale et le montant reçu par l’émetteur des instruments financiers selon leur valeur après amortissement.
-> 1990, ch. 41, art. 3; 1999, ch. 31, art. 130; 2014, ch. 13, art. 115; 2017, ch. 20, art. 105.
+> 1990, ch. 41, art. 3; 1999, ch. 31, art. 130; 2014, ch. 13, art. 115; 2017, ch. 20, art. 1052019, ch. 28, art. 159
 
 
 
@@ -152,7 +152,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 **Présomption**
 
 - **(2)** La non-conformité de la constitution de l’Office et l’absence d’entrée en vigueur d’une des dispositions de la loi visée au présent article n’ont pas pour effet d’invalider les actes accomplis par lui ou le ministre concernant la décision.
-> 1990, ch. 41, art. 6; 2014, ch. 13, art. 115.
+> 1990, ch. 41, art. 6; 2014, ch. 13, art. 115
 
 
 
@@ -258,7 +258,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 **Incompatibilité**
 
 **11.1** Les dispositions de la présente loi et de ses règlements l’emportent sur les dispositions incompatibles de la Loi sur l’application extracôtière des lois canadiennes et de ses règlements.
-> 1990, ch. 41, art. 22.
+> 1990, ch. 41, art. 22
 
 
 
