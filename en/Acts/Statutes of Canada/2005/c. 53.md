@@ -101,7 +101,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 	- **(k)** prescribe rules respecting the confidentiality, or the disclosure, of any information obtained under the regulations;
 	- **(l)** prescribe, or confer on any person or body the power to prescribe, rules of procedure for hearings to be held in relation to the undertakings, including rules for the issuance of subpoenas to require the appearance of persons and the production of documents and rules requiring that evidence be given under oath;
 	- **(m)** set limits on the liability of, and establish defences and immunities for, any person or body exercising a power or performing a duty under the regulations;
-	- **(n)** require that an assessment of the environmental effects of the undertakings be undertaken in circumstances where the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply, and establish a procedure to be followed in such an assessment;
+	- **(n)** require that an assessment of the environmental effects of the undertakings be undertaken in circumstances where the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) does not apply, and establish a procedure to be followed in such an assessment;
 	- **(o)** with respect to reserve lands that have been designated for the purposes of an undertaking under subsection 38(2) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), authorize — to the extent permitted by the terms of the designation — the disposition by any person or body of any right or interest in those lands for the purposes of the undertaking, and specify the terms and conditions of such dispositions;
 	- **(p)** exclude the reserve lands or the undertakings from the application of the [Indian Oil and Gas Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-7.md);
 	- **(q)** provide for the relationship between the regulations and aboriginal and treaty rights referred to in section 35 of the Constitution Act, 1982, including limiting the extent to which the regulations may abrogate or derogate from those aboriginal and treaty rights;
@@ -111,7 +111,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 **Incorporation by reference**
 
 - **(3)** The regulations may incorporate by reference any laws of the province, as amended from time to time, with any adaptations that the Governor in Council considers necessary.
-> 2005, c. 53, s. 3; 2010, c. 6, s. 3; 2012, c. 19, s. 63
+> 2005, c. 53, s. 3; 2010, c. 6, s. 3; 2012, c. 19, s. 632019, c. 28, s. 188
 
 
 
@@ -272,19 +272,5 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 <sup><a href='#F-11.64_e_s13'>[*]</a></sup>**13** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='F-11.64_e_s13'><sup>*</sup></a>: [Note: Act in force April 1, 2006, *see* SI/2006-57.]<br />
-
-
-
-
-## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 28, par. 188(d)
-
-
-**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
-
-**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
-- **(d)** paragraph 3(2)(n) of the First Nations Commercial and Industrial Development Act;
-
 
 
