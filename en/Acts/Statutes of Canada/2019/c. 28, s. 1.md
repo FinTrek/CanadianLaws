@@ -8,7 +8,7 @@
 Assented to on 21 June 2019
 
 ```
-[Enacted by section 1 of chapter 28 of the Statutes of Canada, 2019, not in force.]
+[Enacted by section 1 of chapter 28 of the Statutes of Canada, 2019, in force August 28, 2019, see SI/2019-86.]
 ```
 ----------
 
@@ -552,7 +552,7 @@ It does not include the Executive Council of — or a minister, department, agen
 **Agency’s or Minister’s obligations**
 
 **21** The Agency — or the Minister if the impact assessment of the designated project has been referred to a review panel — must offer to consult and cooperate with respect to the impact assessment of the designated project with
-- **(a)** any jurisdiction referred to in paragraph (a) of the definition jurisdiction in section 2 if the jurisdiction has powers, duties or functions in relation to an assessment of the environmental effects of a designated project that includes activities that are regulated under the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md), the Canada-Newfoundland and Labrador Atlantic Accord Implementation Act or the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md); and
+- **(a)** any jurisdiction referred to in paragraph (a) of the definition jurisdiction in section 2 if the jurisdiction has powers, duties or functions in relation to an assessment of the environmental effects of a designated project that includes activities that are regulated under the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md), the [Canada-Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md) or the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md); and
 - **(b)** any jurisdiction referred to in paragraphs (c) to (i) of that definition if the jurisdiction has powers, duties or functions in relation to an assessment of the environmental effects of the designated project.
 
 
@@ -762,7 +762,7 @@ It does not include the Executive Council of — or a minister, department, agen
 
 **32** The Minister must not approve the substitution of a process in relation to a designated project
 - **(a)** the impact assessment of which has been referred by the Minister to a review panel; or
-- **(b)** that includes activities that are regulated under the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md), the Canada-Newfoundland and Labrador Atlantic Accord Implementation Act or the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md).
+- **(b)** that includes activities that are regulated under the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md), the [Canada-Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md) or the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md).
 
 
 
@@ -1301,13 +1301,17 @@ It does not include the Executive Council of — or a minister, department, agen
 
 - **(1.1)** For the purpose of subsection (1), ***responsible Minister*** means the following Minister:
 	- **(a)** in the case of a report prepared by a review panel established under subsection 44(1), the Minister of Natural Resources or the member of the Queen’s Privy Council for Canada that the Governor in Council designates as the Minister for the purposes of the [Nuclear Safety and Control Act](/en/Acts/Statutes%20of%20Canada/1997/c.%209.md);
-	- **(b)** in the case of a report prepared by a review panel established under subsection 47(1), the member of the Queen’s Privy Council for Canada that the Governor in Council designates as the Minister for the purposes of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md).
+	- **(a.1)** in the case of a report prepared by a review panel established under subsection 46.1(1), the Minister of Natural Resources;
+	- **(b)** in the case of a report prepared by a review panel established under subsection 47(1), the member of the Queen’s Privy Council for Canada that the Governor in Council designates as the Minister for the purposes of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md);
+	- **(c)** in the case of a report prepared by a review panel established under subsection 48.1(1), the Minister of Natural Resources.
 
 **Responsible Minister’s obligation**
 
 - **(2)** If the report relates to a designated project that includes activities that are regulated under the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md), the responsible Minister must, at the same time as the referral described in subsection (1) in respect of that report is made,
 	- **(a)** submit the report to the Governor in Council for the purposes of subsection 186(1) of that Act; or
 	- **(b)** submit the decision made for the purposes of subsection 262(4) of that Act to the Governor in Council if it is decided that the certificate referred to in that subsection should be issued.
+> 2019, c. 28, s. 1 “61”2019, c. 28, s. 8.1
+
 
 
 
@@ -2125,7 +2129,7 @@ It does not include the Executive Council of — or a minister, department, agen
 
 **No registration or publication**
 
-- **(4)** For greater certainty, a document that is incorporated by reference into a regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
+- **(4)** For greater certainty, a document that is incorporated by reference into a regulation is not required to be transmitted for registration or published in the [Canada Gazette](http://www.gazette.gc.ca/) by reason only that it is incorporated by reference.
 
 
 
@@ -3293,6 +3297,182 @@ The Agency must post a copy of the written direction on the Internet site.
 **(Section 81 and paragraph 109(a))**
 ## Bodies
 **1** Designated airport authority as defined in subsection 2(1) of the [Airport Transfer (Miscellaneous Matters) Act](/en/Acts/Statutes%20of%20Canada/1992/c.%205.md).
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 28, s. 2
+
+**2** 
+
+- **(1)** The definition ***review panel*** in section 2 of the Impact Assessment Act is amended by adding the following after paragraph (b):
+
+- **(b.1)** under subsection 46.1(1);
+
+
+
+- **(2)** The definition ***review panel*** in section 2 of the Act is amended by adding the following after paragraph (c):
+
+- **(c.1)** under subsection 48.1(1);
+
+
+
+- **(3)** Section 2 of the Act is amended by adding the following in alphabetical order:
+
+
+***Canada-Nova Scotia Offshore Petroleum Board*** has the meaning assigned by the definition Board in section 2 of the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md). (*Office Canada Nouvelle-Écosse des hydrocarbures extracôtiers*)
+
+
+
+- **(4)** Section 2 of the Act is amended by adding the following in alphabetical order:
+
+
+***Canada–Newfoundland and Labrador Offshore Petroleum Board*** has the meaning assigned by the definition Board in section 2 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md). (*Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers*)
+
+
+
+
+
+######           — 2019, c. 28, s. 3
+
+**3** 
+
+- **(1)** Subsection 39(2) of the Act is amended by adding the following after paragraph (a):
+
+- **(a.1)** the Canada-Nova Scotia Offshore Petroleum Board if the designated project includes physical activities that are regulated under the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md);
+
+
+
+- **(2)** Subsection 39(2) of the Act is amended by adding the following after paragraph (b):
+
+- **(c)** the Canada-Newfoundland and Labrador Offshore Petroleum Board if the designated project includes physical activities that are regulated under the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md).
+
+
+
+
+
+######           — 2019, c. 28, s. 4
+
+**4** 
+
+- **(1)** Subsection 41(2) of the Act is amended by adding the following after paragraph (b):
+
+- **(b.1)** section 46.1;
+
+
+
+- **(2)** Subsection 41(2) of the Act is amended by adding the following after paragraph (c):
+
+- **(d)** section 48.1.
+
+
+
+
+
+######           — 2019, c. 28, s. 5
+
+**5** 
+
+- **(1)** Section 43 of the Act is amended by adding the following after paragraph (a):
+
+- **(a.1)** the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md);
+
+
+
+- **(2)** Section 43 of the Act is amended by adding the following after paragraph (b):
+
+- **(c)** the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md).
+
+
+
+
+
+######           — 2019, c. 28, s. 6
+
+**6** The Act is amended by adding the following after section 46:
+
+**Terms of reference — [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md)**
+
+**46.1** 
+
+- **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md) to a review panel, the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — establish the panel’s terms of reference in consultation with the Chairperson of the Canada-Nova Scotia Offshore Petroleum Board and the Agency must, within the same period, appoint the chairperson and at least four other members.
+
+**Appointment of members**
+
+- **(2)** The persons appointed to the review panel under subsection (1) must be unbiased and free from any conflict of interest relative to the designated project and must have knowledge or experience relevant to the designated project’s anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
+
+**Appointment from roster**
+
+- **(3)** At least two of the persons appointed under subsection (1) must be appointed from a roster established under paragraph 50(b.1), on the recommendation of the Chairperson of the Canada-Nova Scotia Offshore Petroleum Board.
+
+**Not majority**
+
+- **(4)** The persons appointed from the roster must not constitute a majority of the members of the panel.
+
+
+
+
+
+######           — 2019, c. 28, s. 7
+
+**7** The Act is amended by adding the following after section 48:
+
+**Terms of reference — [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md)**
+
+**48.1** 
+
+- **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md) to a review panel, the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — establish the panel’s terms of reference in consultation with the Chairperson of the Canada–Newfoundland and Labrador Offshore Petroleum Board and the Agency must, within the same period, appoint the chairperson and at least four other members.
+
+**Appointment of members**
+
+- **(2)** The persons appointed to the review panel under subsection (1) must be unbiased and free from any conflict of interest relative to the designated project and must have knowledge or experience relevant to the designated project’s anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
+
+**Appointment from roster**
+
+- **(3)** At least two of the persons appointed under subsection (1) must be appointed from a roster established under paragraph 50(d), on the recommendation of the Chairperson of the Canada–Newfoundland and Labrador Offshore Petroleum Board.
+
+**Not majority**
+
+- **(4)** The persons appointed from the roster must not constitute a majority of the members of the panel.
+
+
+
+
+
+######           — 2019, c. 28, s. 8
+
+**8** 
+
+- **(1)** Paragraph 50(a) of the Act is amended by adding the following after subparagraph (ii):
+
+	- **(ii.1)** subsection 46.1(1),
+
+
+
+- **(2)** Paragraph 50(a) of the Act is amended by adding the following after subparagraph (iii):
+
+	- **(iii.1)** subsection 48.1(1);
+
+
+
+- **(3)** Section 50 of the Act is amended by adding the following after paragraph (b):
+
+- **(b.1)** a roster consisting of persons who may be appointed as members of a review panel established under subsection 46.1(1) and
+	- **(i)** who are members of the Canada-Nova Scotia Offshore Petroleum Board and who are selected by the Minister after consultation with the Minister of Natural Resources, or
+	- **(ii)** who are selected by the Minister after consultation with the Board and the Minister of Natural Resources;
+
+
+
+- **(4)** Section 50 of the Act is amended by adding the following after paragraph (c):
+
+- **(d)** a roster consisting of persons who may be appointed as members of a review panel established under subsection 48.1(1) and
+	- **(i)** who are members of the Canada–Newfoundland and Labrador Petroleum Board and who are selected by the Minister after consultation with the Minister of Natural Resources, or
+	- **(ii)** who are selected by the Minister after consultation with the Board and the Minister of Natural Resources.
+
+
 
 
 
