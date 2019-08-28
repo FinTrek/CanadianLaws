@@ -556,11 +556,11 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **28** 
 
-- **(1)** Where a significant discovery has been made on any frontier lands that are subject to an interest or a share therein held in accordance with section 23, the National Energy Board shall, on the application of the interest holder of the interest or the share made in the form and manner and containing such information as may be prescribed, make a written declaration of significant discovery in relation to those frontier lands in respect of which there are reasonable grounds to believe that the significant discovery may extend.
+- **(1)** Where a significant discovery has been made on any frontier lands that are subject to an interest or a share therein held in accordance with section 23, the Commission of the Canadian Energy Regulator shall, on the application of the interest holder of the interest or the share made in the form and manner and containing such information as may be prescribed, make a written declaration of significant discovery in relation to those frontier lands in respect of which there are reasonable grounds to believe that the significant discovery may extend.
 
-**Declaration on initiative of National Energy Board**
+**Declaration on initiative of Commission of the Canadian Energy Regulator**
 
-- **(2)** Where a significant discovery has been made on any frontier lands, the National Energy Board may, by order, make a declaration of significant discovery in relation to those frontier lands in respect of which there are reasonable grounds to believe the significant discovery may extend.
+- **(2)** Where a significant discovery has been made on any frontier lands, the Commission of the Canadian Energy Regulator may, by order, make a declaration of significant discovery in relation to those frontier lands in respect of which there are reasonable grounds to believe the significant discovery may extend.
 
 **Description of frontier lands subject to declaration**
 
@@ -568,7 +568,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **Amendment or revocation of declaration**
 
-- **(4)** Subject to subsection (5), where a declaration of significant discovery is made pursuant to subsection (1) or (2) and, based on the results of further drilling, there are reasonable grounds to believe that a discovery is not a significant discovery or that the frontier lands to which the significant discovery extends differ from the significant discovery area, the National Energy Board may, as appropriate in the circumstances,
+- **(4)** Subject to subsection (5), where a declaration of significant discovery is made pursuant to subsection (1) or (2) and, based on the results of further drilling, there are reasonable grounds to believe that a discovery is not a significant discovery or that the frontier lands to which the significant discovery extends differ from the significant discovery area, the Commission of the Canadian Energy Regulator may, as appropriate in the circumstances,
 	- **(a)** amend the declaration of significant discovery by increasing or decreasing the significant discovery area; or
 	- **(b)** revoke the declaration.
 
@@ -584,12 +584,12 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **Procedures**
 
-- **(7)** The procedures described in section 28.2 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) apply to the making, amendment and revocation of a declaration under this section.
+- **(7)** The procedures described in section 382 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) apply to the making, amendment and revocation of a declaration under this section.
 
 **Delegation**
 
-- **(8)** The National Energy Board may delegate any of its powers under this section to a member, officer or employee of the Board, who shall exercise the powers in accordance with the terms of the delegation.
-> R.S., 1985, c. 36 (2nd Supp.), s. 28; 1994, c. 10, s. 16; 2015, c. 4, s. 30(F)
+- **(8)** The Commission of the Canadian Energy Regulator may delegate any of its powers under this section to a member, officer or employee of the Commission, who shall exercise the powers in accordance with the terms of the delegation.
+> R.S., 1985, c. 36 (2nd Supp.), s. 28; 1994, c. 10, s. 16; 2015, c. 4, s. 30(F)2019, c. 28, s. 1472019, c. 28, s. 152
 
 
 
@@ -668,7 +668,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **33** 
 
-- **(1)** Subject to subsections (2) to (4), the Minister may, at any time after the National Energy Board has made a declaration of significant discovery, by order subject to section 106, require the interest owner of any interest in relation to any portion of the significant discovery area to drill a well on any portion of the significant discovery area that is subject to that interest, in accordance with any directions that may be set out in the order, and to commence the drilling within one year after the making of the order or within any longer period that the Minister specifies in the order.
+- **(1)** Subject to subsections (2) to (4), the Minister may, at any time after the Commission of the Canadian Energy Regulator has made a declaration of significant discovery, by order subject to section 106, require the interest owner of any interest in relation to any portion of the significant discovery area to drill a well on any portion of the significant discovery area that is subject to that interest, in accordance with any directions that may be set out in the order, and to commence the drilling within one year after the making of the order or within any longer period that the Minister specifies in the order.
 
 **Exception**
 
@@ -685,7 +685,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Definition of well termination date**
 
 - **(5)** For the purposes of subsection (3), ***well termination date*** means the date on which a well has been abandoned, completed or suspended in accordance with any applicable drilling regulations.
-> R.S., 1985, c. 36 (2nd Supp.), s. 33; 2015, c. 4, s. 31
+> R.S., 1985, c. 36 (2nd Supp.), s. 33; 2015, c. 4, s. 312019, c. 28, s. 152
 
 
 
@@ -717,11 +717,11 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **35** 
 
-- **(1)** Where a commercial discovery has been made on any frontier lands that are subject to an interest or a share therein held in accordance with section 23, the National Energy Board shall, on the application of the interest holder of the interest or the share, made in the form and manner and containing such information as may be prescribed, make a written declaration of commercial discovery in relation to those frontier lands in respect of which there are reasonable grounds to believe that the commercial discovery may extend.
+- **(1)** Where a commercial discovery has been made on any frontier lands that are subject to an interest or a share therein held in accordance with section 23, the Commission of the Canadian Energy Regulator shall, on the application of the interest holder of the interest or the share, made in the form and manner and containing such information as may be prescribed, make a written declaration of commercial discovery in relation to those frontier lands in respect of which there are reasonable grounds to believe that the commercial discovery may extend.
 
-**Declaration on initiative of National Energy Board**
+**Declaration on initiative of Commission of the Canadian Energy Regulator**
 
-- **(2)** Where a commercial discovery has been made on any frontier lands, the National Energy Board may, by order, make a declaration of commercial discovery in relation to those frontier lands in respect of which there are reasonable grounds to believe that the commercial discovery may extend.
+- **(2)** Where a commercial discovery has been made on any frontier lands, the Commission of the Canadian Energy Regulator may, by order, make a declaration of commercial discovery in relation to those frontier lands in respect of which there are reasonable grounds to believe that the commercial discovery may extend.
 
 **Application of certain provisions**
 
@@ -729,12 +729,12 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **Procedures**
 
-- **(4)** The procedures described in section 28.2 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) apply to the making, amendment or revocation of a declaration under this section.
+- **(4)** The procedures described in section 382 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) apply to the making, amendment or revocation of a declaration under this section.
 
 **Delegation**
 
-- **(5)** The National Energy Board may delegate any of its powers under this section to a member, officer or employee of the Board, who shall exercise the powers in accordance with the terms of the delegation.
-> R.S., 1985, c. 36 (2nd Supp.), s. 35; 1994, c. 10, s. 17; 2015, c. 4, s. 32
+- **(5)** The Commission of the Canadian Energy Regulator may delegate any of its powers under this section to a member, officer or employee of the Commission, who shall exercise the powers in accordance with the terms of the delegation.
+> R.S., 1985, c. 36 (2nd Supp.), s. 35; 1994, c. 10, s. 17; 2015, c. 4, s. 322019, c. 28, s. 1482019, c. 28, s. 152
 
 
 
@@ -748,7 +748,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **36** 
 
-- **(1)** The Minister may, at any time after the National Energy Board has made a declaration of commercial discovery, give notice to the interest owner of any interest in relation to any portion of the commercial discovery area where commercial production of petroleum has not commenced before that time stating that, after any period of not less than six months that may be specified in the notice, an order may be made reducing the term of that interest.
+- **(1)** The Minister may, at any time after the Commission of the Canadian Energy Regulator has made a declaration of commercial discovery, give notice to the interest owner of any interest in relation to any portion of the commercial discovery area where commercial production of petroleum has not commenced before that time stating that, after any period of not less than six months that may be specified in the notice, an order may be made reducing the term of that interest.
 
 **Opportunity for submissions**
 
@@ -769,7 +769,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 **Extension of period**
 
 - **(6)** The Minister may extend the period specified in an order made under subsection (3) or may revoke the order.
-> R.S., 1985, c. 36 (2nd Supp.), s. 36; 2015, c. 4, s. 33
+> R.S., 1985, c. 36 (2nd Supp.), s. 36; 2015, c. 4, s. 332019, c. 28, s. 152
 
 
 
@@ -1802,15 +1802,15 @@ whether that other right was acquired before or after that particular right; or
 
 **Privileged information or documentation**
 
-- **(2)** Subject to this section, information or documentation is privileged if it is provided for the purposes of this Act or the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), other than Part 0.1 of that Act, or any regulation made under either Act, or for the purposes of Part II.1 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), whether or not the information or documentation is required to be provided.
+- **(2)** Subject to this section, information or documentation is privileged if it is provided for the purposes of this Act or the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), other than Part 0.1 of that Act, or any regulation made under either Act, or for the purposes of Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md), whether or not the information or documentation is required to be provided.
 
 **Disclosure**
 
-- **(2.1)** Subject to this section, information or documentation that is privileged under subsection (2) shall not knowingly be disclosed without the consent in writing of the person who provided it, except for the purposes of the administration or enforcement of this Act, the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or Part II.1 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) or for the purposes of legal proceedings relating to its administration or enforcement.
+- **(2.1)** Subject to this section, information or documentation that is privileged under subsection (2) shall not knowingly be disclosed without the consent in writing of the person who provided it, except for the purposes of the administration or enforcement of this Act, the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) or for the purposes of legal proceedings relating to its administration or enforcement.
 
 **Production and evidence**
 
-- **(3)** No person shall be required to produce or give evidence relating to any information or documentation that is privileged under subsection (2) in connection with any legal proceedings, other than proceedings relating to the administration or enforcement of this Act, the Oil and Gas Production and Conservation Act or Part II.1 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md).
+- **(3)** No person shall be required to produce or give evidence relating to any information or documentation that is privileged under subsection (2) in connection with any legal proceedings, other than proceedings relating to the administration or enforcement of this Act, the Oil and Gas Production and Conservation Act or Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md).
 
 **Registration of documents**
 
@@ -1826,18 +1826,18 @@ whether that other right was acquired before or after that particular right; or
 
 **Disclosure — governments and agencies**
 
-- **(6.1)** The National Energy Board may disclose any information or documentation that it obtains under this Act or the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) — to officials of the Government of Canada, the government of a province or a foreign government or to the representatives of any of their agencies — for the purposes of a federal, provincial or foreign law, as the case may be, that deals primarily with a petroleum-related work or activity, including the exploration for and the management, administration and exploitation of petroleum resources, if
-	- **(a)** the government or agency undertakes to keep the information or documentation confidential and not to disclose it without the Board’s written consent;
-	- **(b)** the information or documentation is disclosed in accordance with any conditions agreed to by the Board and the government or agency; and
+- **(6.1)** The Canadian Energy Regulator may disclose any information or documentation that it obtains under this Act or the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) — to officials of the Government of Canada, the government of a province or a foreign government or to the representatives of any of their agencies — for the purposes of a federal, provincial or foreign law, as the case may be, that deals primarily with a petroleum-related work or activity, including the exploration for and the management, administration and exploitation of petroleum resources, if
+	- **(a)** the government or agency undertakes to keep the information or documentation confidential and not to disclose it without the Regulator’s written consent;
+	- **(b)** the information or documentation is disclosed in accordance with any conditions agreed to by the Regulator and the government or agency; and
 	- **(c)** in the case of disclosure to a foreign government or agency, the Minister consents in writing.
 
 **Disclosure — Minister**
 
-- **(6.2)** The National Energy Board may disclose to the Minister the information or documentation that it has disclosed or intends to disclose under subsection (6.1), but the Minister is not to further disclose that information or documentation unless the Board consents in writing to that disclosure or the Minister is required by an Act of Parliament to disclose that information or documentation.
+- **(6.2)** The Canadian Energy Regulator may disclose to the Minister the information or documentation that it has disclosed or intends to disclose under subsection (6.1), but the Minister is not to further disclose that information or documentation unless the Regulator consents in writing to that disclosure or the Minister is required by an Act of Parliament to disclose that information or documentation.
 
 **Consent**
 
-- **(6.3)** For the purposes of paragraph (6.1)(a) and subsection (6.2), the National Energy Board may consent to the further disclosure of information or documentation only if the Board itself is authorized under this section to disclose it.
+- **(6.3)** For the purposes of paragraph (6.1)(a) and subsection (6.2), the Canadian Energy Regulator may consent to the further disclosure of information or documentation only if the Regulator itself is authorized under this section to disclose it.
 
 **Information that may be disclosed**
 
@@ -1875,7 +1875,7 @@ have passed;
 
 **Safety or environmental protection**
 
-- **(10)** Subject to section 101.1, the National Energy Board may disclose all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 5(1) of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or to an operating licence or authorization that is issued under that subsection or provided in accordance with any regulation made under that Act. The Board is not, however, permitted to disclose information or documentation if the Board is satisfied that
+- **(10)** Subject to section 101.1, the Commission of the Canadian Energy Regulator or a person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) may disclose all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 5(1) of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or to an operating licence or authorization that is issued under that subsection or provided in accordance with any regulation made under that Act. The Commission or person is not, however, permitted to disclose information or documentation if they are satisfied that
 	- **(a)** disclosure of it could reasonably be expected to result in a material loss or gain to a person, or to prejudice their competitive position, and the potential harm resulting from the disclosure outweighs the public interest in making the disclosure;
 	- **(b)** it is financial, commercial, scientific or technical information or documentation that is confidential and has been consistently treated as such by a person who would be directly affected by its disclosure, and for which the person’s interest in confidentiality outweighs the public interest in its disclosure; or
 	- **(c)** there is a real and substantial risk that disclosure of it will impair the security of pipelines, as defined in section 2 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), buildings, installations, vessels, vehicles, aircraft or systems, including computer or communication systems, used for any work or activity in respect of which that Act applies — or methods employed to protect them — and the need to prevent its disclosure outweighs the public interest in its disclosure.
@@ -1883,7 +1883,7 @@ have passed;
 **Exception**
 
 - **(11)** Subsections (8) to (10) do not apply in respect of the classes of information or documentation described in paragraphs (7)(a) to (e) and (i).
-> R.S., 1985, c. 36 (2nd Supp.), s. 101, c. 21 (4th Supp.), s. 4; 1992, c. 35, s. 38; 1994, c. 10, s. 18; 2007, c. 35, s. 151; 2014, c. 2, s. 36; 2015, c. 4, s. 34
+> R.S., 1985, c. 36 (2nd Supp.), s. 101, c. 21 (4th Supp.), s. 4; 1992, c. 35, s. 38; 1994, c. 10, s. 18; 2007, c. 35, s. 151; 2014, c. 2, s. 36; 2015, c. 4, s. 342019, c. 28, s. 1492019, c. 28, s. 152
 
 
 
@@ -1893,7 +1893,7 @@ have passed;
 
 **101.1** 
 
-- **(1)** If the National Energy Board intends to disclose any information or documentation under subsection 101(10), the Board shall make every reasonable effort to give the person who provided it written notice of the Board’s intention to disclose it.
+- **(1)** If the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) intends to disclose any information or documentation under subsection 101(10), they shall make every reasonable effort to give the person who provided it written notice of their intention to disclose it.
 
 **Waiver of notice**
 
@@ -1902,29 +1902,29 @@ have passed;
 **Contents of notice**
 
 - **(3)** A notice given under subsection (1) shall include
-	- **(a)** a statement that the National Energy Board intends to disclose information or documentation under subsection 101(10);
+	- **(a)** a statement that the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) intends to disclose information or documentation under subsection 101(10);
 	- **(b)** a description of the information or documentation that was provided by the person to whom the notice is given; and
-	- **(c)** a statement that the person may, within 20 days after the day on which the notice is given, make written representations to the Board as to why the information or documentation, or a portion of it, should not be disclosed.
+	- **(c)** a statement that the person may, within 20 days after the day on which the notice is given, make written representations to the Commission or the person as to why the information or documentation, or a portion of it, should not be disclosed.
 
 **Representations**
 
-- **(4)** If a notice is given to a person under subsection (1), the National Energy Board shall
-	- **(a)** give the person the opportunity to make, within 20 days after the day on which the notice is given, written representations to the Board as to why the information or documentation, or a portion of it, should not be disclosed; and
+- **(4)** If a notice is given to a person under subsection (1), the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) shall
+	- **(a)** give the person the opportunity to make, within 20 days after the day on which the notice is given, written representations to the the Commission or the person as to why the information or documentation, or a portion of it, should not be disclosed; and
 	- **(b)** after the person has had the opportunity to make representations, but no later than 30 days after the day on which the notice is given, make a decision as to whether or not to disclose the information or documentation and give written notice of the decision to the person.
 
 **Contents of notice of decision to disclose**
 
 - **(5)** A notice given under paragraph (4)(b) of a decision to disclose information or documentation shall include
 	- **(a)** a statement that the person to whom the notice is given may request a review of the decision under subsection (7) within 20 days after the notice is given; and
-	- **(b)** a statement that if no review is requested under subsection (7) within 20 days after the notice is given, the National Energy Board shall disclose the information or documentation.
+	- **(b)** a statement that if no review is requested under subsection (7) within 20 days after the notice is given, the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) must disclose the information or documentation.
 
 **Disclosure of information or documentation**
 
-- **(6)** If, under paragraph (4)(b), the National Energy Board decides to disclose the information or documentation, the Board shall disclose it on the expiry of 20 days after a notice is given under that paragraph, unless a review of the decision is requested under subsection (7).
+- **(6)** If, under paragraph (4)(b), the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) decides to disclose the information or documentation, the Commission or the person must disclose it on the expiry of 20 days after a notice is given under that paragraph, unless a review of the decision is requested under subsection (7).
 
 **Review**
 
-- **(7)** Any person to whom the National Energy Board is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after day on which the notice is given, apply to the Federal Court for a review of the decision.
+- **(7)** Any person to whom the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after day on which the notice is given, apply to the Federal Court for a review of the decision.
 
 **Hearing in summary way**
 
@@ -1933,7 +1933,7 @@ have passed;
 **Court to take precautions against disclosing**
 
 - **(9)** In any proceedings before the Federal Court arising from an application made in accordance with subsection (7), the Court shall take every reasonable precaution, including, when appropriate, conducting hearings *in camera*, to avoid the disclosure by the Court or any person of any information or documentation that, under this Act, is privileged or is not to be disclosed.
-> 2015, c. 4, s. 35
+> 2015, c. 4, s. 352019, c. 28, s. 150
 
 
 
@@ -2070,8 +2070,8 @@ have passed;
 	- **(a)** not inconsistent with the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md) authorizing or requiring the survey, division and subdivision of frontier lands and defining and describing those divisions and subdivisions;
 	- **(b)** prescribing the information and documentation to be provided by interest owners and interest holders for the purposes of this Act, the time when and manner in which such information and documentation is to be provided, authorizing the Minister to prescribe the form in which it is to be provided and requiring such information and documentation to be provided in accordance with the regulations;
 	- **(c)** requiring fees and deposits to be paid in respect of interests, prescribing the amounts of such fees and deposits, the time and manner of their payment and providing for the administration of such fees and deposits and the disposition and return of deposits;
-	- **(c.1)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid for the provision, by the National Energy Board or the Minister, of a service or a product under this Act;
-	- **(c.2)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid by a holder of an interest or a share in an interest in respect of any of the National Energy Board’s or the Minister’s activities under or related to this Act;
+	- **(c.1)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid for the provision, by the Commission of the Canadian Energy Regulator, the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or the Minister, of a service or a product under this Act;
+	- **(c.2)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid by a holder of an interest or a share in an interest in respect of any of activities under or related to this Act that are carried out by the Commission of the Canadian Energy Regulator, the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or the Minister;
 	- **(c.3)** respecting the refund of all or part of any fee or charge referred to in paragraph (c.1) or (c.2), or the method of calculating that refund; and
 	- **(d)** prescribing any other matter or thing that by this Act is to be prescribed or that is to be done by regulations.
 
@@ -2090,7 +2090,7 @@ have passed;
 **Single publication required**
 
 - **(3)** No proposed regulation need be published more than once under subsection (2) whether or not it is altered or amended after such publication as a result of representations made by interested persons as provided in that subsection.
-> R.S., 1985, c. 36 (2nd Supp.), s. 107; 2015, c. 4, s. 36
+> R.S., 1985, c. 36 (2nd Supp.), s. 107; 2015, c. 4, s. 362019, c. 28, s. 151
 
 
 
@@ -2342,191 +2342,5 @@ have passed;
 **Idem**
 
 - **(2)** Section 116 shall be deemed to have come into force on March 5, 1982.
-
-
-
-
-## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 28, s. 147
-
-
-**
-> 1994, c. 10, s. 16(3)
-**
-
-**147** Subsection 28(7) of the Canada Petroleum Resources Act is replaced by the following:
-
-**Procedures**
-
-- **(7)** The procedures described in section 382 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) apply to the making, amendment and revocation of a declaration under this section.
-
-
-
-######           — 2019, c. 28, s. 148
-
-
-**
-> 1994, c. 10, s. 17(2)
-**
-
-**148** Subsection 35(4) of the Act is replaced by the following:
-
-**Procedures**
-
-- **(4)** The procedures described in section 382 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) apply to the making, amendment or revocation of a declaration under this section.
-
-
-
-######           — 2019, c. 28, s. 149
-
-
-**
-> 1994, c. 10, s. 18; 2007, c. 35, s. 151
-**
-
-**149** 
-
-- **(1)** Subsections 101(2) to (3) of the Act are replaced by the following:
-
-**Privileged information or documentation**
-
-- **(2)** Subject to this section, information or documentation is privileged if it is provided for the purposes of this Act or the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), other than Part 0.1 of that Act, or any regulation made under either Act, or for the purposes of Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md), whether or not the information or documentation is required to be provided.
-
-**Disclosure**
-
-- **(2.1)** Subject to this section, information or documentation that is privileged under subsection (2) shall not knowingly be disclosed without the consent in writing of the person who provided it, except for the purposes of the administration or enforcement of this Act, the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md) or for the purposes of legal proceedings relating to its administration or enforcement.
-
-**Production and evidence**
-
-- **(3)** No person shall be required to produce or give evidence relating to any information or documentation that is privileged under subsection (2) in connection with any legal proceedings, other than proceedings relating to the administration or enforcement of this Act, the Oil and Gas Production and Conservation Act or Part 8 of the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md).
-
-**
-> 2015, c. 4, s. 34(8)
-**
-
-- **(2)** The portion of subsection 101(10) of the Act before paragraph (a) is replaced by the following:
-
-**Safety or environmental protection**
-
-- **(10)** Subject to section 101.1, the Commission of the Canadian Energy Regulator or a person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) may disclose all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 5(1) of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or to an operating licence or authorization that is issued under that subsection or provided in accordance with any regulation made under that Act. The Commission or person is not, however, permitted to disclose information or documentation if they are satisfied that
-
-
-
-######           — 2019, c. 28, s. 150
-
-
-**
-> 2015, c. 4, s. 35
-**
-
-**150** 
-
-- **(1)** Subsection 101.1(1) of the Act is replaced by the following:
-
-**Notice — subsection 101(10)**
-
-**101.1** 
-
-- **(1)** If the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) intends to disclose any information or documentation under subsection 101(10), they shall make every reasonable effort to give the person who provided it written notice of their intention to disclose it.
-
-
-
-**
-> 2015, c. 4, s. 35
-**
-
-- **(2)** Paragraph 101.1(3)(a) of the Act is replaced by the following:
-
-- **(a)** a statement that the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) intends to disclose information or documentation under subsection 101(10);
-
-
-
-**
-> 2015, c. 4, s. 35
-**
-
-- **(3)** Paragraph 101.1(3)(c) of the Act is replaced by the following:
-
-- **(c)** a statement that the person may, within 20 days after the day on which the notice is given, make written representations to the Commission or the person as to why the information or documentation, or a portion of it, should not be disclosed.
-
-
-
-**
-> 2015, c. 4, s. 35
-**
-
-- **(4)** The portion of subsection 101.1(4) of the Act before paragraph (a) is replaced by the following:
-
-**Representations**
-
-- **(4)** If a notice is given to a person under subsection (1), the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) shall
-
-**
-> 2015, c. 4, s. 35
-**
-
-- **(5)** Paragraph 101.1(4)(a) of the English version of the Act is replaced by the following:
-
-- **(a)** give the person the opportunity to make, within 20 days after the day on which the notice is given, written representations to the the Commission or the person as to why the information or documentation, or a portion of it, should not be disclosed; and
-
-
-
-**
-> 2015, c. 4, s. 35
-**
-
-- **(6)** Paragraph 101.1(5)(b) of the Act is replaced by the following:
-
-- **(b)** a statement that if no review is requested under subsection (7) within 20 days after the notice is given, the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) must disclose the information or documentation.
-
-
-
-**
-> 2015, c. 4, s. 35
-**
-
-- **(7)** Subsection 101.1(6) of the Act is replaced by the following:
-
-**Disclosure of information or documentation**
-
-- **(6)** If, under paragraph (4)(b), the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) decides to disclose the information or documentation, the Commission or the person must disclose it on the expiry of 20 days after a notice is given under that paragraph, unless a review of the decision is requested under subsection (7).
-
-**
-> 2015, c. 4, s. 35
-**
-
-- **(8)** Subsection 101.1(7) of the English version of the Act is replaced by the following:
-
-**Review**
-
-- **(7)** Any person to whom the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after day on which the notice is given, apply to the Federal Court for a review of the decision.
-
-
-
-######           — 2019, c. 28, s. 151
-
-
-**
-> 2015, c. 4, s. 36(1)
-**
-
-**151** Paragraphs 107(1)(c.1) and (c.2) of the Act are replaced by the following:
-
-- **(c.1)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid for the provision, by the Commission of the Canadian Energy Regulator, the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or the Minister, of a service or a product under this Act;
-- **(c.2)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid by a holder of an interest or a share in an interest in respect of any of activities under or related to this Act that are carried out by the Commission of the Canadian Energy Regulator, the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or the Minister;
-
-
-
-
-
-######           — 2019, c. 28, s. 152
-
-**152** 
-
-- **(1)** The Act is amended by replacing “National Energy Board” and “Board” with “Canadian Energy Regulator” and “Regulator”, respectively, in subsections 101(6.1) to (6.3).
-
-- **(2)** The Act is amended by replacing “National Energy Board” and “Board” with “Commission of the Canadian Energy Regulator” and “Commission”, respectively, in subsections 28(1), (2), (4) and (8), 33(1), 35(1), (2) and (5) and 36(1).
-
 
 
