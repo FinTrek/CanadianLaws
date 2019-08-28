@@ -1376,9 +1376,9 @@ Il tient compte des observations ainsi reçues.
 
 - **(9)** Copie du document attestant l’autorisation accordée par le ministre en application du paragraphe (1), certifiée conforme par le président de l’Office, est remise au responsable de l’enregistrement des titres de biens-fonds pour la circonscription dans laquelle est située la terre visée.
 
-**Fonctions des directeurs de l’Enregistrement**
+**Fonctions des directeurs de l’enregistrement**
 
-- **(10)** Les dispositions de l’article 43 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) concernant, d’une part, les plans, profils et livres de renvoi confiés par cette loi aux directeurs de l’Enregistrement et, d’autre part, les fonctions de ces personnes à cet égard s’appliquent, dans la mesure où elles le peuvent et ne sont pas incompatibles avec la présente partie, aux copies déposées en application du paragraphe (9).
+- **(10)** Les dispositions de l’article 210 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) concernant, d’une part, les plans, profils et livres de renvoi confiés par cette loi aux directeurs de l’enregistrement et, d’autre part, les fonctions de ces personnes à cet égard s’appliquent, dans la mesure où elles le peuvent et ne sont pas incompatibles avec la présente partie, aux copies déposées en application du paragraphe (9).
 
 **Exceptions**
 
@@ -1387,6 +1387,8 @@ Il tient compte des observations ainsi reçues.
 **Priorité de l’Accord**
 
 - **(12)** L’expropriation d’une terre inuit en application du présent article est assujettie à la partie 9 du chapitre 21 de l’Accord.
+> 2002, ch. 10, art. 772019, ch. 28, art. 173
+
 
 
 
@@ -3457,20 +3459,6 @@ Moi, ____________, je déclare solennellement (ou jure) que j’exercerai avec f
 **Délais**
 
 **54** Les délais prévus à l’article 55.2 de la Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut commencent à courir à la date d’entrée en vigueur de l’article 44 relativement aux demandes de délivrance, de renouvellement ou de modification de permis présentées avant cette date.
-
-
-
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2019, ch. 28, art. 173
-
-**173** Le paragraphe 77(10) de la Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut est remplacé par ce qui suit :
-
-**Fonctions des directeurs de l’enregistrement**
-
-- **(10)** Les dispositions de l’article 210 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) concernant, d’une part, les plans, profils et livres de renvoi confiés par cette loi aux directeurs de l’enregistrement et, d’autre part, les fonctions de ces personnes à cet égard s’appliquent, dans la mesure où elles le peuvent et ne sont pas incompatibles avec la présente partie, aux copies déposées en application du paragraphe (9).
 
 
 
