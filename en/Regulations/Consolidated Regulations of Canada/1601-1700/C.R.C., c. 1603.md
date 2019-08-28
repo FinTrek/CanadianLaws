@@ -158,7 +158,7 @@ but does not in any case include
 
 **4** 
 
-- **(1)** Upon request in writing from the Director, an applicant shall, at his own expense, publish a notice of the application in at least one issue of the Canada Gazette and in one or more issues of such other publications as the Director may specify.
+- **(1)** Upon request in writing from the Director, an applicant shall, at his own expense, publish a notice of the application in at least one issue of the [Canada Gazette](http://www.gazette.gc.ca/) and in one or more issues of such other publications as the Director may specify.
 
 - **(2)** The notice shall be marked at the top in plain letters “Dominion Water-Power Application”, shall be in a form approved by the Director, and shall give substantially the following information:
 	- **(a)** the name and address of the applicant;
@@ -308,7 +308,7 @@ the Minister may issue to the applicant a priority permit which shall give the a
 	- **(c)** any claimant in actual possession other than a registered owner, mortgagee or lessee.
 
 - **(4)** When required by the Director, the surveys and investigations required by this section shall be made by the Legal Surveys Division of the Department of Energy, Mines and Resources and in such case an interim licensee shall reimburse Her Majesty for all salaries and expenses paid for such surveys upon the presentation to the interim licensee of accounts properly certified.
-> 1998, c. 14, s. 101(F).
+> 1998, c. 14, s. 101(F)
 
 
 
@@ -1089,9 +1089,11 @@ after 60 days notice has been given to the licensee and he has been given an opp
 
 
 **67** Notwithstanding any rights granted or approval given by any licence, every licensee shall
-- **(a)** comply fully with the Navigable Waters Protection Act and any regulations and orders made thereunder;
+- **(a)** comply fully with the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) and any regulations and orders made thereunder;
 - **(b)** comply fully with any provincial or federal statute or regulation governing the preservation of the purity of waters or governing logging, forestry, fishing or other interests present or future that might be affected by any operations conducted under his licence; and
 - **(c)** observe and carry out any instructions of the Minister in respect of any of the matters referred to in paragraphs (a) and (b) not inconsistent with the statutes and regulations referred to in those paragraphs.
+> 2019, c. 28, s. 187
+
 
 
 
