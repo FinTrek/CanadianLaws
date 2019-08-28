@@ -235,8 +235,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Non-application**
 
-**6** The [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply in Yukon.
-> 2003, c. 7, s. 6; 2015, c. 19, s. 2
+**6** The [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) does not apply in Yukon.
+> 2003, c. 7, s. 6; 2015, c. 19, s. 22019, c. 28, s. 188
 
 
 
@@ -1689,19 +1689,25 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **87** 
 
-- **(1)** A federal independent regulatory agency shall not require that a project be undertaken or take any action that enables a project to be undertaken until every federal decision body for the project and, in the case of the National Energy Board, the territorial minister has issued a decision document in respect of the project under section 75, 76 or 77.
+- **(1)** A federal independent regulatory agency must not require that a project be undertaken or take any action that enables a project to be undertaken until every federal decision body for the project and, in the case of the Canadian Energy Regulator, the territorial minister has issued a decision document in respect of the project under section 75, 76 or 77.
 
 **Conformity with decision document**
 
-- **(2)** A federal independent regulatory agency, other than the National Energy Board, shall
+- **(2)** A federal independent regulatory agency, other than the Canadian Energy Regulator, must
 	- **(a)** when it requires that a project be undertaken or takes any action that enables a project to be undertaken, endeavour to the extent practicable to implement any decision document issued by a federal decision body; and
 	- **(b)** when it issues an authorization that enables a project to be undertaken, endeavour to the extent practicable to make the authorization conform with any decision document issued by a federal decision body, and provide written reasons to that decision body for any want of conformity.
 
-**National Energy Board**
+**Commission of the Canadian Energy Regulator**
 
-- **(3)** The National Energy Board shall
-	- **(a)** when it requires that a project be undertaken or provides financial assistance for a project, take into consideration any decision document issued by a federal decision body or the territorial minister; and
+- **(3)** The Commission of the Canadian Energy Regulator must
+	- **(a)** when it requires that a project be undertaken, take into consideration any decision document issued by a federal decision body or the territorial minister; and
 	- **(b)** when it issues an authorization to enable a project to be undertaken, take into consideration any decision document issued by a federal decision body or the territorial minister and provide written reasons to the decision body or the minister for any want of conformity.
+
+**Canadian Energy Regulator**
+
+- **(4)** The Canadian Energy Regulator must take into consideration any decision document issued by a federal decision body or the territorial minister when it provides financial assistance for a project.
+> 2003, c. 7, s. 872019, c. 28, s. 176
+
 
 
 
@@ -2534,9 +2540,9 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 
 
-Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
 
-National Energy Board<br />- <i>Office national de l’énergie</i>
+Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
 
 
 
@@ -2547,7 +2553,7 @@ National Energy Board<br />- <i>Office national de l’énergie</i>
 
 
 
-> 2003, c. 7, Sch.; 2015, c. 19, s. 38
+> 2003, c. 7, Sch.; 2015, c. 19, s. 382019, c. 28, s. 1772019, c. 28, s. 178
 
 
 
@@ -2624,62 +2630,6 @@ but does not include an access order issued by a body established by territorial
 - **(g)** a body established by territorial law and having jurisdiction with respect to surface rights, if an access order from that body is required for the project under territorial law;
 
 
-
-
-
-######           — 2019, c. 28, s. 176
-
-**176** Section 87 of the Yukon Environmental and Socio-economic Assessment Act is replaced by the following:
-
-**Federal independent regulatory agencies**
-
-**87** 
-
-- **(1)** A federal independent regulatory agency must not require that a project be undertaken or take any action that enables a project to be undertaken until every federal decision body for the project and, in the case of the Canadian Energy Regulator, the territorial minister has issued a decision document in respect of the project under section 75, 76 or 77.
-
-**Conformity with decision document**
-
-- **(2)** A federal independent regulatory agency, other than the Canadian Energy Regulator, must
-	- **(a)** when it requires that a project be undertaken or takes any action that enables a project to be undertaken, endeavour to the extent practicable to implement any decision document issued by a federal decision body; and
-	- **(b)** when it issues an authorization that enables a project to be undertaken, endeavour to the extent practicable to make the authorization conform with any decision document issued by a federal decision body, and provide written reasons to that decision body for any want of conformity.
-
-**Commission of the Canadian Energy Regulator**
-
-- **(3)** The Commission of the Canadian Energy Regulator must
-	- **(a)** when it requires that a project be undertaken, take into consideration any decision document issued by a federal decision body or the territorial minister; and
-	- **(b)** when it issues an authorization to enable a project to be undertaken, take into consideration any decision document issued by a federal decision body or the territorial minister and provide written reasons to the decision body or the minister for any want of conformity.
-
-**Canadian Energy Regulator**
-
-- **(4)** The Canadian Energy Regulator must take into consideration any decision document issued by a federal decision body or the territorial minister when it provides financial assistance for a project.
-
-
-
-
-
-######           — 2019, c. 28, s. 177
-
-**177** Part 1 of the schedule to the Act is amended by striking out the following under the heading “Federal Independent Regulatory Agencies”:
-
-National Energy Board<br />- <i>Office national de l’énergie</i>
-
-
-
-######           — 2019, c. 28, s. 178
-
-**178** Part 1 of the schedule to the Act is amended by adding the following, in alphabetical order, under the heading “Federal Independent Regulatory Agencies”:
-
-Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
-
-
-
-######           — 2019, c. 28, par. 188(b)
-
-
-**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
-
-**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
-- **(b)** section 6 of the Yukon Environmental and Socio-economic Assessment Act;
 
 
 
