@@ -360,9 +360,11 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 	- **a)** soit auraient une incidence sur l’exploitation en commun des ressources chevauchantes visées par l’entente de coordination et de coopération à l’égard de la gestion et de l’administration des ressources pétrolières et gazières dans la région désignée des Inuvialuits, conclue le 25 juin 2013, avec ses modifications éventuelles;
 	- **b)** soit limiteraient la mesure dans laquelle cette entente s’applique au gouvernement des Territoires du Nord-Ouest ou la mesure dans laquelle celui-ci doit la mettre en oeuvre.
 
-**Office national de l’énergie**
+**Régie canadienne de l’énergie**
 
-- **(2)** Malgré les articles 18 et 19, au cours des vingt années suivant l’entrée en vigueur de l’article 1, ne peuvent être modifiées qu’avec le consentement du gouverneur en conseil les lois de la législature qui, dans leur version modifiée, auraient une incidence sur l’exercice des fonctions de réglementation de l’Office national de l’énergie à l’égard de la partie de la région désignée — au sens de l’article 2 de la Convention définitive des Inuvialuits — comprise dans la région intracôtière.
+- **(2)** Malgré les articles 18 et 19, au cours des vingt années suivant l’entrée en vigueur de l’article 1, ne peuvent être modifiées qu’avec le consentement du gouverneur en conseil les lois de la législature qui, dans leur version modifiée, auraient une incidence sur l’exercice des fonctions de réglementation de la Régie canadienne de l’énergie à l’égard de la partie de la région désignée — au sens de l’article 2 de la Convention définitive des Inuvialuits — comprise dans la région intracôtière.
+> 2014, ch. 2, art. 2 « 22 »2019, ch. 28, art. 185
+
 
 
 
@@ -1138,12 +1140,6 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 **Abrogation des paragraphes 4(3) et (4)**
 
 **80** Les paragraphes 4(3) et (4) sont abrogés dix ans après la date de l’entrée en vigueur de l’article 1.
-
-
-
-######           — 2019, ch. 28, art. 185
-
-**185** Au paragraphe 22(2) de la Loi sur les Territoires du Nord-Ouest, « Office national de l’énergie » est remplacé par « Régie canadienne de l’énergie », avec les adaptations nécessaires.
 
 
 
