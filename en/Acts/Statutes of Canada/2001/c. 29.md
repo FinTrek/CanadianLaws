@@ -45,8 +45,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Jurisdiction in respect of other Acts**
 
-- **(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md), sections 43 to 55 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md), sections 129.01 to 129.19 of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md), sections 16.1 to 16.25 of the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md), sections 39.1 to 39.26 of the [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) and sections 130.01 to 130.19 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
-> 2001, c. 29, ss. 2, 71; 2007, c. 1, s. 59; 2008, c. 21, s. 65; 2012, c. 31, s. 345; 2018, c. 2, s. 182019, c. 1, s. 1522019, c. 29, s. 290
+- **(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md), sections 43 to 55 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md), sections 129.01 to 129.19 of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md), sections 16.1 to 16.25 of the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md), sections 39.1 to 39.26 of the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) and sections 130.01 to 130.19 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
+> 2001, c. 29, ss. 2, 71; 2007, c. 1, s. 59; 2008, c. 21, s. 65; 2012, c. 31, s. 345; 2018, c. 2, s. 182019, c. 1, s. 1522019, c. 28, s. 1862019, c. 29, s. 290
 
 
 
@@ -441,16 +441,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 ## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 28, par. 186(e)
-
-
-**Replacement of “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)”**
-
-**186** Every reference to the “[Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” is replaced by a reference to the “[Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md)” in the following provisions:
-- **(e)** subsection 2(3) of the Transportation Appeal Tribunal of Canada Act;
-
-
 
 ######           — 2019, c. 29, s. 267
 
