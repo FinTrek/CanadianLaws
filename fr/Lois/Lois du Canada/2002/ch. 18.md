@@ -454,8 +454,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Incompatibilité**
 
-- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), de la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) ou de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md) .
-> 2002, ch. 18, art. 16; 2001, ch. 26, art. 322; 2005, ch. 29, art. 35; 2009, ch. 14, art. 20; 2012, ch. 31, art. 3462019, ch. 1, art. 134
+- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), de la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) ou de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md).
+> 2002, ch. 18, art. 16; 2001, ch. 26, art. 322; 2005, ch. 29, art. 35; 2009, ch. 14, art. 20; 2012, ch. 31, art. 3462019, ch. 1, art. 1342019, ch. 28, art. 1862019, ch. 28, art. 195
 
 
 
@@ -1171,35 +1171,6 @@ Une partie du canton géographique non subdivisé de Syine, étant composée de 
 
 
 
-
-
-
-######           — 2019, ch. 28, al. 186f)
-
-
-**Remplacement de « [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) »**
-
-**186** Dans les passages ci-après, « [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) » est remplacé par « [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) » :
-- **f)** le paragraphe 16(5) de la Loi sur les aires marines nationales de conservation du Canada;
-
-
-
-######           — 2019, ch. 28, par. 195(1) et (4)
-
-
-**
-> Projet de loi C-64
-**
-
-**195** 
-
-- **(1)** Les paragraphes (2) à (9) s’appliquent en cas de sanction du projet de loi C-64, déposé au cours de la 1<sup>re</sup> session de la 42<sup>e</sup> législature et intitulé [Loi concernant les épaves, les bâtiments délabrés, abandonnés ou dangereux et les opérations d’assistance](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md) (appelé « autre loi » au présent article).
-
-- **(4)** Dès le premier jour où l’article 46 de la présente loi et l’article 134 de l’autre loi sont tous deux en vigueur, le paragraphe 16(5) de la Loi sur les aires marines nationales de conservation du Canada est remplacé par ce qui suit :
-
-**Incompatibilité**
-
-- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), de la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) ou de la [Loi sur les épaves et les bâtiments abandonnés ou dangereux](/fr/Lois/Lois%20du%20Canada/2019/ch.%201.md).
 
 
 
