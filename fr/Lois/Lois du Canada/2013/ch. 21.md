@@ -147,7 +147,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **o)** sous réserve des alinéas 11(1)a), (2)a) et (3)a) et de l’article 12, limiter la responsabilité de toute personne ou tout organisme qui exerce des attributions conférées par les règlements, et établir les moyens de défense et immunités dont ceux-ci peuvent se prévaloir;
 	- **p)** exiger l’obtention de permis préalablement à l’exercice de toute activité sur les terres d’une première nation susceptible d’influer sur la salubrité de l’eau potable ou de toute activité réglementée, prescrire les conditions qui y sont rattachées et régir leur délivrance, leur suspension et leur révocation;
 	- **q)** prévoir que toute première nation ou toute personne ou tout organisme est réputé, pour l’application de la présente loi, propriétaire d’un système d’alimentation en eau potable ou d’un système de traitement des eaux usées appartenant à une catégorie donnée et, à cette fin, établir des catégories de systèmes d’alimentation en eau potable ou de systèmes de traitement des eaux usées;
-	- **r)** exiger que l’évaluation des effets sur l’environnement des systèmes d’alimentation en eau potable ou des systèmes de traitement des eaux usées soit effectuée dans les cas où la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas et en prescrire la procédure.
+	- **r)** exiger que l’évaluation des effets sur l’environnement des systèmes d’alimentation en eau potable ou des systèmes de traitement des eaux usées soit effectuée dans les cas où la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ne s’applique pas et en prescrire la procédure.
 
 **Infractions provinciales**
 
@@ -164,7 +164,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réserve**
 
 - **(5)** L’article 4 ne permet pas la prise de règlements régissant la répartition des approvisionnements en eau, et il ne permet la prise de règlements régissant la délivrance de permis d’utilisation de l’eau qu’à des fins d’alimentation en eau potable.
-> 2013, ch. 21, art. 5; 2012, ch. 19, art. 65
+> 2013, ch. 21, art. 5; 2012, ch. 19, art. 652019, ch. 28, art. 188
 
 
 
