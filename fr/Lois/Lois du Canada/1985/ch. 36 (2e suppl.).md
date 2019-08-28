@@ -63,7 +63,7 @@
 
 ***pétrole*** Le pétrole brut, quelle que soit sa densité, extrait à la tête de puits sous une forme liquide et les autres hydrocarbures, à l’exclusion du gaz, notamment ceux qui peuvent être extraits ou récupérés de gisements en affleurement ou souterrains, ou des fonds ou des sous-sols marins, de sables pétrolifères, de bitume, de sables ou de schistes bitumineux, ou d’autres sortes de gisements. La présente définition ne s’applique pas au charbon. (*oil*)
 
-***région intracôtière*** S’entend au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md). (*onshore*)
+***région intracôtière*** S’entend au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-27.md). (*onshore*)
 
 ***règlement*** Texte d’application pris par le gouverneur en conseil.
 
@@ -543,11 +543,11 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **28** 
 
-- **(1)** L’Office national de l’énergie, sur demande à lui faite par l’indivisaire intéressé et établie sur formulaire, selon les modalités réglementaires, fait par écrit une déclaration de découverte importante portant sur les terres domaniales visées par un titre, ou une fraction visée à l’article 23, où la découverte a été faite, s’il existe des motifs sérieux de les croire objet de la découverte.
+- **(1)** La Commission de la Régie canadienne de l’énergie, sur demande à elle faite par l’indivisaire intéressé et établie sur formulaire, selon les modalités réglementaires, fait par écrit une déclaration de découverte importante portant sur les terres domaniales visées par un titre, ou une fraction visée à l’article 23, où la découverte a été faite, s’il existe des motifs sérieux de les croire objet de la découverte.
 
-**Initiative de l’Office national de l’énergie**
+**Initiative de la Commission de la Régie canadienne de l’énergie**
 
-- **(2)** L’Office national de l’énergie peut, par ordonnance, faire une déclaration de découverte importante portant sur les terres domaniales où la découverte a été faite, s’il existe des motifs sérieux de les croire objet de la découverte.
+- **(2)** La Commission de la Régie canadienne de l’énergie peut, par ordonnance, faire une déclaration de découverte importante portant sur les terres domaniales où la découverte a été faite, s’il existe des motifs sérieux de les croire objet de la découverte.
 
 **Description**
 
@@ -555,7 +555,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **Modification ou annulation**
 
-- **(4)** Sous réserve du paragraphe (5), s’il y a des motifs sérieux de croire, d’après les résultats d’autres forages, qu’une découverte n’est pas importante ou que les terres domaniales en cause diffèrent du périmètre de découverte importante, l’Office national de l’énergie peut, compte tenu des circonstances, modifier la déclaration en vue d’agrandir ou de réduire le périmètre ou annuler la déclaration.
+- **(4)** Sous réserve du paragraphe (5), s’il y a des motifs sérieux de croire, d’après les résultats d’autres forages, qu’une découverte n’est pas importante ou que les terres domaniales en cause diffèrent du périmètre de découverte importante, la Commission de la Régie canadienne de l’énergie peut, compte tenu des circonstances, modifier la déclaration en vue d’agrandir ou de réduire le périmètre ou annuler la déclaration.
 
 **Limite**
 
@@ -567,12 +567,12 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **Procédure**
 
-- **(7)** La déclaration, sa modification et son annulation se font en conformité avec la procédure prévue à l’article 28.2 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+- **(7)** La déclaration, sa modification et son annulation se font en conformité avec la procédure prévue à l’article 382 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
 
 **Délégation**
 
-- **(8)** L’Office national de l’énergie peut déléguer les pouvoirs que lui confère le présent article à un de ses membres, dirigeants ou employés. Le mandat est à exercer conformément à la délégation.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 28; 1994, ch. 10, art. 16; 2015, ch. 4, art. 30(F)
+- **(8)** La Commission de la Régie canadienne de l’énergie peut déléguer les pouvoirs que lui confère le présent article à un de ses membres, dirigeants ou employés. Le mandat est à exercer conformément à la délégation.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 28; 1994, ch. 10, art. 16; 2015, ch. 4, art. 30(F)2019, ch. 28, art. 1472019, ch. 28, art. 152
 
 
 
@@ -648,7 +648,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **33** 
 
-- **(1)** Sous réserve des paragraphes (2) à (4), le ministre peut, par arrêté assujetti à l’article 106 et après que l’Office national de l’énergie a fait une déclaration de découverte importante, ordonner à tout titulaire d’un titre visant toute partie du périmètre de découverte importante d’y forer un puits, conformément aux instructions de l’arrêté, et de commencer le forage dans l’année suivant la prise de l’arrêté ou dans tel délai supérieur précisé.
+- **(1)** Sous réserve des paragraphes (2) à (4), le ministre peut, par arrêté assujetti à l’article 106 et après que la Commission de la Régie canadienne de l’énergie a fait une déclaration de découverte importante, ordonner à tout titulaire d’un titre visant toute partie du périmètre de découverte importante d’y forer un puits, conformément aux instructions de l’arrêté, et de commencer le forage dans l’année suivant la prise de l’arrêté ou dans tel délai supérieur précisé.
 
 **Exception**
 
@@ -665,7 +665,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Définition de date d’abandon du puits**
 
 - **(5)** Pour l’application du paragraphe (3), la date d’abandon du puits est celle à laquelle le puits a été abandonné ou complété ou son exploitation suspendue conformément aux règlements applicables en matière de forage.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 33; 2015, ch. 4, art. 31
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 33; 2015, ch. 4, art. 312019, ch. 28, art. 152
 
 
 
@@ -697,11 +697,11 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **35** 
 
-- **(1)** L’Office national de l’énergie, sur demande à lui faite par l’indivisaire intéressé et établie sur formulaire, selon les modalités réglementaires, fait par écrit une déclaration de découverte exploitable portant sur les terres domaniales visées par un titre, ou une fraction visée à l’article 23, où la découverte a été faite, s’il existe des motifs sérieux de les croire objet de la découverte.
+- **(1)** La Commission de la Régie canadienne de l’énergie, sur demande à elle faite par l’indivisaire intéressé et établie sur formulaire, selon les modalités réglementaires, fait par écrit une déclaration de découverte exploitable portant sur les terres domaniales visées par un titre, ou une fraction visée à l’article 23, où la découverte a été faite, s’il existe des motifs sérieux de les croire objet de la découverte.
 
-**Initiative de l’Office**
+**Initiative de la Commission**
 
-- **(2)** L’Office national de l’énergie peut, par ordonnance, faire une déclaration écrite de découverte exploitable portant sur les terres domaniales où la découverte a été faite, s’il existe des motifs sérieux de les croire objet de la découverte.
+- **(2)** La Commission de la Régie canadienne de l’énergie peut, par ordonnance, faire une déclaration écrite de découverte exploitable portant sur les terres domaniales où la découverte a été faite, s’il existe des motifs sérieux de les croire objet de la découverte.
 
 **Application**
 
@@ -709,12 +709,12 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **Procédure**
 
-- **(4)** La déclaration, sa modification et son annulation se font en conformité avec la procédure prévue à l’article 28.2 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+- **(4)** La déclaration, sa modification et son annulation se font en conformité avec la procédure prévue à l’article 382 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
 
 **Délégation**
 
-- **(5)** L’Office national de l’énergie peut déléguer les pouvoirs que lui confère le présent article à un de ses membres, dirigeants ou employés. Le mandat est à exercer conformément à la délégation.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 35; 1994, ch. 10, art. 17; 2015, ch. 4, art. 32
+- **(5)** La Commission de la Régie canadienne de l’énergie peut déléguer les pouvoirs que lui confère le présent article à un de ses membres, dirigeants ou employés. Le mandat est à exercer conformément à la délégation.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 35; 1994, ch. 10, art. 17; 2015, ch. 4, art. 322019, ch. 28, art. 1482019, ch. 28, art. 152
 
 
 
@@ -728,7 +728,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **36** 
 
-- **(1)** Après que l’Office national de l’énergie a fait une déclaration de découverte exploitable et avant le début de la production commerciale d’hydrocarbures dans le périmètre de découverte exploitable, le ministre peut, par avis, informer tel titulaire d’un titre portant sur telle partie du périmètre en cause de son intention de prendre un arrêté portant réduction de la durée du titre en cause à l’expiration du délai — d’au moins six mois —, mentionné dans l’avis.
+- **(1)** Après que la Commission de la Régie canadienne de l’énergie a fait une déclaration de découverte exploitable et avant le début de la production commerciale d’hydrocarbures dans le périmètre de découverte exploitable, le ministre peut, par avis, informer tel titulaire d’un titre portant sur telle partie du périmètre en cause de son intention de prendre un arrêté portant réduction de la durée du titre en cause à l’expiration du délai — d’au moins six mois —, mentionné dans l’avis.
 
 **Observations**
 
@@ -749,7 +749,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Prolongation — révocation**
 
 - **(6)** Le ministre peut prolonger le délai fixé dans un arrêté pris au titre du paragraphe (3) ou annuler l’arrêté.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 36; 2015, ch. 4, art. 33
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 36; 2015, ch. 4, art. 332019, ch. 28, art. 152
 
 
 
@@ -1749,15 +1749,15 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 **Renseignements protégés**
 
-- **(2)** Sous réserve des autres dispositions du présent article, les renseignements fournis pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à l’exception de sa partie 0.1, de leurs règlements ou de la partie II.1 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) sont protégés, que leur fourniture soit obligatoire ou non.
+- **(2)** Sous réserve des autres dispositions du présent article, les renseignements fournis pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à l’exception de sa partie 0.1, de leurs règlements ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) sont protégés, que leur fourniture soit obligatoire ou non.
 
 **Communication**
 
-- **(2.1)** Sous réserve des autres dispositions du présent article, les renseignements protégés au titre du paragraphe (2) ne peuvent, sciemment, être communiqués sans le consentement écrit de la personne qui les a fournis, si ce n’est pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou de la partie II.1 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) ou dans le cadre de procédures judiciaires à cet égard.
+- **(2.1)** Sous réserve des autres dispositions du présent article, les renseignements protégés au titre du paragraphe (2) ne peuvent, sciemment, être communiqués sans le consentement écrit de la personne qui les a fournis, si ce n’est pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) ou dans le cadre de procédures judiciaires à cet égard.
 
-**Idem**
+**Production et preuve**
 
-- **(3)** Nul ne peut être tenu de communiquer les renseignements protégés au titre du paragraphe (2) au cours de procédures judiciaires qui ne visent pas l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou de la partie II.1 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+- **(3)** Nul ne peut être tenu de communiquer les renseignements protégés au titre du paragraphe (2) au cours de procédures judiciaires qui ne visent pas l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
 
 **Enregistrement**
 
@@ -1773,18 +1773,18 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 **Communication : administrations publiques et organismes**
 
-- **(6.1)** L’Office national de l’énergie peut communiquer tout renseignement qu’il a obtenu au titre de la présente loi ou de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) à des fonctionnaires de l’administration publique fédérale ou d’une administration publique provinciale ou étrangère ou à des représentants de tout organisme de l’une de ces administrations, pour l’application d’une règle de droit — fédérale, provinciale ou d’un État étranger — portant principalement sur des activités afférentes aux hydrocarbures, y compris la prospection, la gestion, l’administration et la production de ceux-ci si, à la fois :
-	- **a)** l’administration publique ou l’organisme s’engage à en protéger la confidentialité et à ne pas le communiquer sans le consentement écrit de l’Office;
-	- **b)** la communication est effectuée selon les conditions convenues entre l’Office et l’administration publique ou l’organisme;
+- **(6.1)** La Régie canadienne de l’énergie peut communiquer tout renseignement qu’elle a obtenu au titre de la présente loi ou de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) à des fonctionnaires de l’administration publique fédérale ou d’une administration publique provinciale ou étrangère ou à des représentants de tout organisme de l’une de ces administrations, pour l’application d’une règle de droit — fédérale, provinciale ou d’un État étranger — portant principalement sur des activités afférentes aux hydrocarbures, y compris la prospection, la gestion, l’administration et la production de ceux-ci si, à la fois :
+	- **a)** l’administration publique ou l’organisme s’engage à en protéger la confidentialité et à ne pas le communiquer sans le consentement écrit de la Régie;
+	- **b)** la communication est effectuée selon les conditions convenues entre la Régie et l’administration publique ou l’organisme;
 	- **c)** dans le cas de toute communication à une administration publique étrangère ou à l’un de ses organismes, le ministre consent par écrit à la communication.
 
 **Communication au ministre**
 
-- **(6.2)** L’Office national de l’énergie peut communiquer au ministre les renseignements qu’il a communiqués ou qu’il entend communiquer en vertu du paragraphe (6.1); le ministre ne peut les communiquer que si une loi fédérale l’y oblige ou si l’Office y consent par écrit.
+- **(6.2)** La Régie canadienne de l’énergie peut communiquer au ministre les renseignements qu’elle a communiqués ou qu’elle entend communiquer en vertu du paragraphe (6.1); le ministre ne peut les communiquer que si une loi fédérale l’y oblige ou si la Régie y consent par écrit.
 
 **Consentement**
 
-- **(6.3)** Pour l’application de l’alinéa (6.1)a) et du paragraphe (6.2), l’Office national de l’énergie ne peut consentir à la communication de renseignements que dans les cas où il peut lui-même les communiquer sous le régime du présent article.
+- **(6.3)** Pour l’application de l’alinéa (6.1)a) et du paragraphe (6.2), la Régie canadienne de l’énergie ne peut consentir à la communication de renseignements que dans les cas où elle peut elle-même les communiquer sous le régime du présent article.
 
 **Renseignements communicables**
 
@@ -1816,7 +1816,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 **Renseignements communicables — sécurité ou protection de l’environnement**
 
-- **(10)** Sous réserve de l’article 101.1, l’Office national de l’énergie peut communiquer tout ou partie des renseignements en matière de sécurité ou de protection de l’environnement fournis relativement à une demande faite au titre du paragraphe 5(1) de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à un permis de travaux ou autorisation délivrés en vertu de ce paragraphe ou fournis conformément à un règlement pris en vertu de cette loi. L’Office ne peut toutefois pas communiquer les renseignements à l’égard desquels il est convaincu :
+- **(10)** Sous réserve de l’article 101.1, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) peut communiquer tout ou partie des renseignements en matière de sécurité ou de protection de l’environnement fournis relativement à une demande faite au titre du paragraphe 5(1) de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à un permis de travaux ou autorisation délivrés en vertu de ce paragraphe ou fournis conformément à un règlement pris en vertu de cette loi. La Commission ou le délégué ne peut toutefois pas communiquer les renseignements à l’égard desquels il est convaincu :
 	- **a)** soit que leur communication risquerait vraisemblablement de causer des pertes ou profits financiers appréciables aux intéressés, ou de nuire à leur compétitivité, et que le préjudice pouvant résulter de leur communication l’emporte sur l’importance, au regard de l’intérêt public, de leur communication;
 	- **b)** soit qu’il s’agit de renseignements financiers, commerciaux, scientifiques ou techniques de nature confidentielle, traités comme tels de façon constante par les intéressés, et que l’intérêt de ces derniers à préserver la confidentialité des renseignements l’emporte sur l’importance, au regard de l’intérêt public, de leur communication;
 	- **c)** soit qu’il y a un risque sérieux que la communication des renseignements compromette la sécurité de pipelines, au sens de l’article 2 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), de bâtiments, d’installations, de véhicules, de navires, d’aéronefs ou de réseaux ou systèmes divers, y compris de réseaux ou systèmes informatisés ou de communication, qui sont destinés à des activités visées par cette loi — ou la sécurité de méthodes employées pour leur protection — et que la nécessité d’empêcher leur communication l’emporte sur l’importance, au regard de l’intérêt public, de leur communication.
@@ -1824,7 +1824,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Exception — paragraphes (8) à (10)**
 
 - **(11)** Les paragraphes (8) à (10) ne s’appliquent pas à l’égard des catégories de renseignements visées aux alinéas (7)a) à e) et i).
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151; 2014, ch. 2, art. 36; 2015, ch. 4, art. 34
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151; 2014, ch. 2, art. 36; 2015, ch. 4, art. 342019, ch. 28, art. 1492019, ch. 28, art. 152
 
 
 
@@ -1834,7 +1834,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 **101.1** 
 
-- **(1)** Avant de procéder à toute communication de renseignements en vertu du paragraphe 101(10), l’Office national de l’énergie fait tous les efforts raisonnables pour donner avis écrit de son intention à la personne qui les a fournis.
+- **(1)** Avant de procéder à toute communication de renseignements en vertu du paragraphe 101(10), la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) fait tous les efforts raisonnables pour donner avis écrit de son intention à la personne qui les a fournis.
 
 **Renonciation à l’avis**
 
@@ -1843,13 +1843,13 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Contenu de l’avis**
 
 - **(3)** L’avis prévu au paragraphe (1) contient les éléments suivants :
-	- **a)** la mention de l’intention de l’Office national de l’énergie de communiquer des renseignements en vertu du paragraphe 101(10);
+	- **a)** la mention de l’intention de la Commission de la Régie canadienne de l’énergie ou du délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) de communiquer des renseignements en vertu du paragraphe 101(10);
 	- **b)** la désignation des renseignements qui ont été fournis par le destinataire de l’avis;
-	- **c)** la mention du droit du destinataire de l’avis de présenter à l’Office, dans les vingt jours suivant la transmission de l’avis, ses observations par écrit quant aux raisons qui justifieraient un refus de communication totale ou partielle.
+	- **c)** la mention du droit du destinataire de l’avis de présenter à la Commission ou au délégué, dans les vingt jours suivant la transmission de l’avis, ses observations par écrit quant aux raisons qui justifieraient un refus de communication totale ou partielle.
 
 **Observations des tiers et décision**
 
-- **(4)** Dans les cas où il a donné avis à une personne en application du paragraphe (1), l’Office national de l’énergie est tenu :
+- **(4)** Dans les cas où il a donné avis à une personne en application du paragraphe (1), la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) est tenu :
 	- **a)** de lui donner la possibilité de lui présenter par écrit, dans les vingt jours suivant la transmission de l’avis, des observations sur les raisons qui justifieraient un refus de communication totale ou partielle des renseignements;
 	- **b)** après que la personne a eu la possibilité de présenter des observations et au plus tard trente jours après la date de la transmission de l’avis, de prendre une décision quant à la communication des renseignements et de lui donner avis par écrit de sa décision.
 
@@ -1857,11 +1857,11 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 - **(5)** L’avis prévu à l’alinéa (4)b) contient les éléments suivants :
 	- **a)** la mention du droit du destinataire de l’avis d’exercer un recours en révision, en vertu du paragraphe (7), dans les vingt jours suivant la transmission de l’avis;
-	- **b)** la mention qu’à défaut de l’exercice du recours en révision dans ce délai, l’Office national de l’énergie communiquera les renseignements en cause.
+	- **b)** la mention qu’à défaut de l’exercice du recours en révision dans ce délai, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) communiquera les renseignements en cause.
 
 **Communication des renseignements**
 
-- **(6)** Dans les cas où il décide, en vertu de l’alinéa (4)b), de communiquer des renseignements, l’Office national de l’énergie donne suite à sa décision dès l’expiration des vingt jours suivant la transmission de l’avis prévu à cet alinéa, sauf si un recours en révision a été exercé en vertu du paragraphe (7).
+- **(6)** Dans les cas où il décide, en vertu de l’alinéa (4)b), de communiquer des renseignements, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) donne suite à sa décision dès l’expiration des vingt jours suivant la transmission de l’avis prévu à cet alinéa, sauf si un recours en révision a été exercé en vertu du paragraphe (7).
 
 **Recours en révision**
 
@@ -1874,7 +1874,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Précautions à prendre contre la communication**
 
 - **(9)** Lors de procédures relatives au recours prévu au paragraphe (7), la Cour fédérale prend toutes les précautions possibles, notamment par la tenue d’audiences à huis clos si indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements qui, en application de la présente loi, sont protégés ou ne peuvent pas être communiqués.
-> 2015, ch. 4, art. 35
+> 2015, ch. 4, art. 352019, ch. 28, art. 150
 
 
 
@@ -2009,8 +2009,8 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 	- **a)** autoriser ou exiger, en harmonie avec la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md), l’arpentage, la division et la subdivision des terres domaniales et délimiter et décrire les terres ainsi divisées et subdivisées;
 	- **b)** prévoir les renseignements et les documents que doivent fournir les titulaires et indivisaires ainsi que les modalités de leur dépôt, autoriser le ministre à fixer la forme de leur établissement et exiger que leur remise soit conforme aux règlements;
 	- **c)** exiger le paiement des droits et cautionnements relatifs aux titres, en fixer le montant et les modalités et en prévoir les méthodes de gestion et de remboursement;
-	- **c.1)** régir les droits ou redevances à payer pour les services ou les produits que l’Office national de l’énergie ou le ministre fournit sous le régime de la présente loi, ou leur méthode de calcul;
-	- **c.2)** régir les droits ou redevances à payer par un titulaire ou un indivisaire relativement aux activités exercées par l’Office national de l’énergie ou le ministre sous le régime de la présente loi ou relativement à celle-ci, ou leur méthode de calcul;
+	- **c.1)** régir les droits ou redevances à payer pour les services ou les produits que la Commission de la Régie canadienne de l’énergie, le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou le ministre fournit sous le régime de la présente loi, ou leur méthode de calcul;
+	- **c.2)** régir les droits ou redevances à payer par un titulaire ou un indivisaire relativement aux activités exercées par la Commission de la Régie canadienne de l’énergie, le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou le ministre sous le régime de la présente loi ou relativement à celle-ci, ou leur méthode de calcul;
 	- **c.3)** régir le remboursement complet ou partiel des droits ou redevances visés aux alinéas c.1) ou c.2), ou sa méthode de calcul;
 	- **d)** procéder à toute mesure d’ordre réglementaire prévue par la présente loi.
 
@@ -2029,7 +2029,7 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Exception**
 
 - **(3)** Ne sont pas visés les projets de règlement déjà publiés dans les conditions prévues au paragraphe (2), qu’ils aient été modifiés ou non à la suite d’observations présentées conformément à ce paragraphe.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 107; 2015, ch. 4, art. 36
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 107; 2015, ch. 4, art. 362019, ch. 28, art. 151
 
 
 
@@ -2281,191 +2281,5 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 **Exception**
 
 - **(2)** L’article 116 est réputé être entré en vigueur le 5 mars 1982.
-
-
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2019, ch. 28, art. 147
-
-
-**
-> 1994, ch. 10, par. 16(3)
-**
-
-**147** Le paragraphe 28(7) de la Loi fédérale sur les hydrocarbures est remplacé par ce qui suit :
-
-**Procédure**
-
-- **(7)** La déclaration, sa modification et son annulation se font en conformité avec la procédure prévue à l’article 382 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
-
-
-
-######           — 2019, ch. 28, art. 148
-
-
-**
-> 1994, ch. 10, par. 17(2)
-**
-
-**148** Le paragraphe 35(4) de la même loi est remplacé par ce qui suit :
-
-**Procédure**
-
-- **(4)** La déclaration, sa modification et son annulation se font en conformité avec la procédure prévue à l’article 382 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
-
-
-
-######           — 2019, ch. 28, art. 149
-
-
-**
-> 1994, ch. 10, art. 18; 2007, ch. 35, art. 151
-**
-
-**149** 
-
-- **(1)** Les paragraphes 101(2) à (3) de la même loi sont remplacés par ce qui suit :
-
-**Renseignements protégés**
-
-- **(2)** Sous réserve des autres dispositions du présent article, les renseignements fournis pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à l’exception de sa partie 0.1, de leurs règlements ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) sont protégés, que leur fourniture soit obligatoire ou non.
-
-**Communication**
-
-- **(2.1)** Sous réserve des autres dispositions du présent article, les renseignements protégés au titre du paragraphe (2) ne peuvent, sciemment, être communiqués sans le consentement écrit de la personne qui les a fournis, si ce n’est pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md) ou dans le cadre de procédures judiciaires à cet égard.
-
-**Production et preuve**
-
-- **(3)** Nul ne peut être tenu de communiquer les renseignements protégés au titre du paragraphe (2) au cours de procédures judiciaires qui ne visent pas l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou de la partie 8 de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
-
-**
-> 2015, ch. 4, par. 34(8)
-**
-
-- **(2)** Le passage du paragraphe 101(10) précédant l’alinéa a) de la même loi est remplacé par ce qui suit :
-
-**Renseignements communicables — sécurité ou protection de l’environnement**
-
-- **(10)** Sous réserve de l’article 101.1, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) peut communiquer tout ou partie des renseignements en matière de sécurité ou de protection de l’environnement fournis relativement à une demande faite au titre du paragraphe 5(1) de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à un permis de travaux ou autorisation délivrés en vertu de ce paragraphe ou fournis conformément à un règlement pris en vertu de cette loi. La Commission ou le délégué ne peut toutefois pas communiquer les renseignements à l’égard desquels il est convaincu :
-
-
-
-######           — 2019, ch. 28, art. 150
-
-
-**
-> 2015, ch. 4, art. 35
-**
-
-**150** 
-
-- **(1)** Le paragraphe 101.1(1) de la même loi est remplacé par ce qui suit :
-
-**Avis — paragraphe 101(10)**
-
-**101.1** 
-
-- **(1)** Avant de procéder à toute communication de renseignements en vertu du paragraphe 101(10), la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) fait tous les efforts raisonnables pour donner avis écrit de son intention à la personne qui les a fournis.
-
-
-
-**
-> 2015, ch. 4, art. 35
-**
-
-- **(2)** L’alinéa 101.1(3)a) de la même loi est remplacé par ce qui suit :
-
-- **a)** la mention de l’intention de la Commission de la Régie canadienne de l’énergie ou du délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) de communiquer des renseignements en vertu du paragraphe 101(10);
-
-
-
-**
-> 2015, ch. 4, art. 35
-**
-
-- **(3)** L’alinéa 101.1(3)c) de la même loi est remplacé par ce qui suit :
-
-- **c)** la mention du droit du destinataire de l’avis de présenter à la Commission ou au délégué, dans les vingt jours suivant la transmission de l’avis, ses observations par écrit quant aux raisons qui justifieraient un refus de communication totale ou partielle.
-
-
-
-**
-> 2015, ch. 4, art. 35
-**
-
-- **(4)** Le passage du paragraphe 101.1(4) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
-
-**Observations des tiers et décision**
-
-- **(4)** Dans les cas où il a donné avis à une personne en application du paragraphe (1), la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) est tenu :
-
-**
-> 2015, ch. 4, art. 35
-**
-
-- **(5)** L’alinéa 101.1(4)a) de la version anglaise de la même loi est remplacé par ce qui suit :
-
-- **(a)** give the person the opportunity to make, within 20 days after the day on which the notice is given, written representations to the Commission or the person as to why the information or documentation, or a portion of it, should not be disclosed; and
-
-
-
-**
-> 2015, ch. 4, art. 35
-**
-
-- **(6)** L’alinéa 101.1(5)b) de la même loi est remplacé par ce qui suit :
-
-- **b)** la mention qu’à défaut de l’exercice du recours en révision dans ce délai, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) communiquera les renseignements en cause.
-
-
-
-**
-> 2015, ch. 4, art. 35
-**
-
-- **(7)** Le paragraphe 101.1(6) de la même loi est remplacé par ce qui suit :
-
-**Communication des renseignements**
-
-- **(6)** Dans les cas où il décide, en vertu de l’alinéa (4)b), de communiquer des renseignements, la Commission de la Régie canadienne de l’énergie ou le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) donne suite à sa décision dès l’expiration des vingt jours suivant la transmission de l’avis prévu à cet alinéa, sauf si un recours en révision a été exercé en vertu du paragraphe (7).
-
-**
-> 2015, ch. 4, art. 35
-**
-
-- **(8)** Le paragraphe 101.1(7) de la version anglaise de la même loi est remplacé par ce qui suit :
-
-**Review**
-
-- **(7)** Any person to whom the Commission of the Canadian Energy Regulator or the person designated under section 4.1 of the [Canada Oil and Gas Operations Act](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after day on which the notice is given, apply to the Federal Court for a review of the decision.
-
-
-
-######           — 2019, ch. 28, art. 151
-
-
-**
-> 2015, ch. 4, par. 36(1)
-**
-
-**151** Les alinéas 107(1)c.1) et c.2) de la même loi sont remplacés par ce qui suit :
-
-- **c.1)** régir les droits ou redevances à payer pour les services ou les produits que la Commission de la Régie canadienne de l’énergie, le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou le ministre fournit sous le régime de la présente loi, ou leur méthode de calcul;
-- **c.2)** régir les droits ou redevances à payer par un titulaire ou un indivisaire relativement aux activités exercées par la Commission de la Régie canadienne de l’énergie, le délégué visé à l’article 4.1 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) ou le ministre sous le régime de la présente loi ou relativement à celle-ci, ou leur méthode de calcul;
-
-
-
-
-
-######           — 2019, ch. 28, art. 152
-
-**152** 
-
-- **(1)** Aux paragraphes 101(6.1) à (6.3) de la même loi, « Office national de l’énergie » et « Office » sont respectivement remplacés par « Régie canadienne de l’énergie » et « Régie », avec les adaptations nécessaires.
-
-- **(2)** Aux paragraphes 28(1), (2), (4) et (8), 33(1), 35(1), (2) et (5) et 36(1) de la même loi, « Office national de l’énergie » et « Office » sont respectivement remplacés par « Commission de la Régie canadienne de l’énergie » et « Commission », avec les adaptations nécessaires.
-
 
 
