@@ -96,12 +96,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Terminologie**
 
-- **(2)** Dans la présente loi, les termes ***environnement*** et ***effets environnementaux*** s’entendent au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+- **(2)** Dans la présente loi, ***environnement*** s’entend au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) et ***effets environnementaux*** s’entend au sens de l’article 81 de cette loi.
 
 **Terminologie**
 
 - **(3)** Sauf indication contraire, les autres termes de la présente loi s’entendent au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
-> 2005, ch. 48, art. 2; 2012, ch. 19, art. 612019, ch. 29, art. 375
+> 2005, ch. 48, art. 2; 2012, ch. 19, art. 612019, ch. 28, art. 1792019, ch. 29, art. 375
 
 
 
@@ -907,8 +907,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Précision**
 
-- **(3)** Les exigences prévues par les règlements pris en vertu du paragraphe (1) doivent être comparables de façon générale avec celles qui sont établies pour des circonstances semblables en vertu de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
-> 2005, ch. 48, art. 63; 2012, ch. 19, art. 62
+- **(3)** Les exigences prévues par les règlements pris en vertu du paragraphe (1) doivent être comparables de façon générale avec celles qui sont établies pour des circonstances semblables en vertu de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md).
+> 2005, ch. 48, art. 63; 2012, ch. 19, art. 622019, ch. 28, art. 188
 
 
 
@@ -938,34 +938,5 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 > 2005, ch. 48, ann. 2; DORS/2014-64
-
-
-
-
-## MODIFICATIONS NON EN VIGUEUR
-
-######           — 2019, ch. 28, art. 179
-
-
-**
-> 2012, ch.19, art. 61
-**
-
-**179** Le paragraphe 2(2) de la Loi sur la gestion du pétrole et du gaz et des fonds des Premières Nations est remplacé par ce qui suit :
-
-**Terminologie**
-
-- **(2)** Dans la présente loi, ***environnement*** s’entend au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) et ***effets environnementaux*** s’entend au sens de l’article 81 de cette loi.
-
-
-
-######           — 2019, ch. 28, al. 188c)
-
-
-**Remplacement de « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) »**
-
-**188** Sauf indication contraire du contexte, dans les passages ci-après, « [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) » est remplacé par « [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) » :
-- **c)** le paragraphe 63(3) de la Loi sur la gestion du pétrole et du gaz et des fonds des Premières Nations;
-
 
 
