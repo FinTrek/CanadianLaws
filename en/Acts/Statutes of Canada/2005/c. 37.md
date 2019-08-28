@@ -74,8 +74,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application of other Acts**
 
-**5** For greater certainty, nothing in this Act limits the application of the Navigation Protection Act or any other Act of Parliament in respect of the construction and maintenance of the bridges and ancillary works authorized by this Act.
-> 2005, c. 37, s. 5; 2012, c. 31, s. 347.
+**5** For greater certainty, nothing in this Act limits the application of the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) or any other Act of Parliament in respect of the construction and maintenance of the bridges and ancillary works authorized by this Act.
+> 2005, c. 37, s. 5; 2012, c. 31, s. 3472019, c. 28, s. 186
 
 
 
