@@ -8,7 +8,7 @@
 Sanctionnée sur le 21 juin 2019
 
 ```
-[Édictée par l’article 1 du chapitre 28 des Lois du Canada (2019), non en vigueur.]
+[Édictée par l’article 1 du chapitre 28 des Lois du Canada (2019), en vigueur le 28 août 2019, voir TR/2019-86.]
 ```
 ----------
 
@@ -1293,13 +1293,17 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 - **(1.1)** Pour l’application du paragraphe (1), ***ministre responsable*** s’entend :
 	- **a)** dans le cas d’un rapport établi par une commission constituée au titre du paragraphe 44(1), du ministre des Ressources naturelles ou du membre du Conseil privé de la Reine pour le Canada que le gouverneur en conseil désigne à titre de ministre chargé de l’application de la [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md);
-	- **b)** dans le cas d’un rapport établi par une commission constituée au titre du paragraphe 47(1), du membre du Conseil privé de la Reine pour le Canada que le gouverneur en conseil désigne à titre de ministre chargé de l’application de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md).
+	- **a.1)** dans le cas d’un rapport établi par une commission constituée au titre du paragraphe 46.1(1), le ministre des Ressources naturelles;
+	- **b)** dans le cas d’un rapport établi par une commission constituée au titre du paragraphe 47(1), du membre du Conseil privé de la Reine pour le Canada que le gouverneur en conseil désigne à titre de ministre chargé de l’application de la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md);
+	- **c)** dans le cas d’un rapport établi par une commission constituée au titre du paragraphe 48.1(1), le ministre des Ressources naturelles.
 
 **Obligation du ministre responsable**
 
 - **(2)** Dans le cas où le rapport porte sur un projet désigné comprenant des activités régies par la [Loi sur la Régie canadienne de l’énergie](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%2010.md), le ministre responsable, lorsqu’il fait le renvoi visé au paragraphe (1), selon le cas :
 	- **a)** présente le rapport au gouverneur en conseil pour les fins du paragraphe 186(1) de cette loi;
 	- **b)** transmet la décision prise aux fins du paragraphe 262(4) de cette loi au gouverneur en conseil s’il est décidé que le certificat visé à ce paragraphe devrait être délivré.
+> 2019, ch. 28, art. 1 « 61 »2019, ch. 28, art. 8.1
+
 
 
 
@@ -2115,7 +2119,7 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 **Ni enregistrement ni publication**
 
-- **(4)** Il est entendu que les documents incorporés par renvoi dans le règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
+- **(4)** Il est entendu que les documents incorporés par renvoi dans le règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) du seul fait de leur incorporation.
 
 
 
@@ -2926,9 +2930,9 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 
 
-**Nominations — [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
+**Nominations — [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md)**
 
-**163** Le personnel nécessaire à l’exécution des travaux de l’Agence est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+**163** Le personnel nécessaire à l’exécution des travaux de l’Agence est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 
 
@@ -3022,7 +3026,7 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 **Définition de fonctionnaire**
 
-- **(2)** Pour l’application du présent article, ***fonctionnaire*** s’entend au sens du paragraphe 2(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **(2)** Pour l’application du présent article, ***fonctionnaire*** s’entend au sens du paragraphe 2(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
 
 
 
@@ -3286,6 +3290,182 @@ L’Agence affiche une copie de la directive sur le site Internet.
 **(article 81 et alinéa 109a))**
 ## Organismes
 **1** Administration aéroportuaire désignée au sens du paragraphe 2(1) de la [Loi relative aux cessions d’aéroports](/fr/Lois/Lois%20du%20Canada/1992/ch.%205.md).
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 28, art. 2
+
+**2** 
+
+- **(1)** La définition de ***commission*** à l’article 2 de la Loi sur l’évaluation d’impact est modifiée par adjonction, après l’alinéa b), de ce qui suit :
+
+- **b.1)** en vertu du paragraphe 46.1(1);
+
+
+
+- **(2)** La définition de ***commission*** à l’article 2 de la même loi est modifiée par adjonction, après l’alinéa c), de ce qui suit :
+
+- **c.1)** en vertu du paragraphe 48.1(1);
+
+
+
+- **(3)** L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+***Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers*** S’entend au sens de Office de l’article 2 de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md). (*Canada–Nova Scotia Offshore Petroleum Board*)
+
+
+
+- **(4)** L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+***Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers*** S’entend au sens de Office de l’article 2 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md). (*Canada–Newfoundland and Labrador Offshore Petroleum Board*)
+
+
+
+
+
+######           — 2019, ch. 28, art. 3
+
+**3** 
+
+- **(1)** Le paragraphe 39(2) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+- **a.1)** avec l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers, dans le cas où le projet désigné comprend des activités concrètes régies par la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md);
+
+
+
+- **(2)** Le paragraphe 39(2) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+- **c)** avec l’Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers, dans le cas où le projet désigné comprend des activités concrètes régies par la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md).
+
+
+
+
+
+######           — 2019, ch. 28, art. 4
+
+**4** 
+
+- **(1)** Le paragraphe 41(2) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+- **b.1)** l’article 46.1;
+
+
+
+- **(2)** Le paragraphe 41(2) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+- **d)** l’article 48.1.
+
+
+
+
+
+######           — 2019, ch. 28, art. 5
+
+**5** 
+
+- **(1)** L’article 43 de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+- **a.1)** la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md);
+
+
+
+- **(2)** L’article 43 de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+- **c)** la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md).
+
+
+
+
+
+######           — 2019, ch. 28, art. 6
+
+**6** La même loi est modifiée par adjonction, après l’article 46, de ce qui suit :
+
+**Mandat — [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md)**
+
+**46.1** 
+
+- **(1)** Dans le cas où il renvoie l’évaluation d’impact d’un projet désigné comprenant des activités régies par la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md) pour examen par une commission, le ministre, dans les quarante-cinq jours suivant l’affichage — au titre du paragraphe 19(4) — de l’avis relatif au projet désigné, fixe, en consultation avec le président de l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers, le mandat de la commission et l’Agence nomme, dans le même délai, le président et au moins quatre autres membres de la commission.
+
+**Nomination des membres**
+
+- **(2)** Les membres de la commission nommés au titre du paragraphe (1) doivent être impartiaux et non en conflit d’intérêts à l’égard du projet désigné et doivent posséder les connaissances ou l’expérience voulues en ce qui touche les effets prévisibles du projet ou les connaissances voulues à l’égard de ceux des intérêts et préoccupations des peuples autochtones du Canada qui sont pertinents dans le cadre de l’évaluation.
+
+**Nomination à partir d’une liste**
+
+- **(3)** Au moins deux membres nommés au titre du paragraphe (1) sont nommés à partir d’une liste établie en application de l’alinéa 50b.1) et sur recommandation du président de l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers.
+
+**Pas la majorité**
+
+- **(4)** Les membres nommés à partir de la liste ne peuvent constituer la majorité des membres de la commission.
+
+
+
+
+
+######           — 2019, ch. 28, art. 7
+
+**7** La même loi est modifiée par adjonction, après l’article 48, de ce qui suit :
+
+**Mandat — [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md)**
+
+**48.1** 
+
+- **(1)** Dans le cas où il renvoie l’évaluation d’impact d’un projet désigné comprenant des activités régies par la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) pour examen par une commission, le ministre, dans les quarante-cinq jours suivant l’affichage — au titre du paragraphe 19(4) — de l’avis relatif au projet désigné, fixe, en consultation avec le président de l’Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers, le mandat de la commission et l’Agence nomme, dans le même délai, le président et au moins quatre autres membres de la commission.
+
+**Nomination des membres**
+
+- **(2)** Les membres de la commission nommés au titre du paragraphe (1) doivent être impartiaux et non en conflit d’intérêts à l’égard du projet désigné et doivent posséder les connaissances ou l’expérience voulues en ce qui touche les effets prévisibles du projet ou les connaissances voulues à l’égard de ceux des intérêts et préoccupations des peuples autochtones du Canada qui sont pertinents dans le cadre de l’évaluation.
+
+**Nomination à partir d’une liste**
+
+- **(3)** Au moins deux membres nommés au titre du paragraphe (1) sont nommés à partir d’une liste établie en application de l’alinéa 50d) et sur recommandation du président de l’Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers.
+
+**Pas la majorité**
+
+- **(4)** Les membres nommés à partir de la liste ne peuvent constituer la majorité des membres de la commission.
+
+
+
+
+
+######           — 2019, ch. 28, art. 8
+
+**8** 
+
+- **(1)** L’alinéa 50a) de la même loi est modifié par adjonction, après le sous-alinéa (ii), de ce qui suit :
+
+	- **(ii.1)** du paragraphe 46.1(1),
+
+
+
+- **(2)** L’alinéa 50a) de la même loi est modifié par adjonction, après le sous-alinéa (iii), de ce qui suit :
+
+	- **(iii.1)** du paragraphe 48.1(1),
+
+
+
+- **(3)** L’article 50 de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+- **b.1)** une liste de personnes qui peuvent être nommées membres d’une commission constituée au titre du paragraphe 46.1(1) et qui remplissent l’une ou l’autre des exigences suivantes :
+	- **(i)** elles sont des membres de l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers et sont choisies par le ministre après consultation du ministre des Ressources naturelles,
+	- **(ii)** elles sont choisies par le ministre après consultation de l’Office et du ministre des Ressources naturelles;
+
+
+
+- **(4)** L’article 50 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+- **d)** une liste de personnes qui peuvent être nommées membres d’une commission constituée au titre du paragraphe 48.1(1) et qui remplissent l’une ou l’autre des exigences suivantes :
+	- **(i)** elles sont membres de l’Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers et sont choisies par le ministre après consultation du ministre des Ressources naturelles,
+	- **(ii)** elles sont choisies par le ministre après consultation de l’Office et du ministre des Ressources naturelles.
+
+
 
 
 
