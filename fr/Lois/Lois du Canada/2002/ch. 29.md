@@ -1495,14 +1495,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** que toutes les solutions de rechange susceptibles de minimiser les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce ont été envisagées, et la meilleure solution retenue;
 	- **b)** que toutes les mesures possibles seront prises afin de minimiser les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce.
 
-**Non-application**
-
-- **(1.1)** Le paragraphe (1) ne s’applique pas à l’Office national de l’énergie lorsqu’il délivre un certificat conformément à un décret pris en vertu du paragraphe 54(1) de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+- **(1.1)** [Abrogé, 2019, ch. 28, art. 174]
 
 **Application de l’interdiction**
 
 - **(2)** Il est entendu que l’article 58 s’applique même si l’autorisation a été délivrée ou l’agrément a été donné en conformité avec le paragraphe (1).
-> 2002, ch. 29, art. 77; 2012, ch. 19, art. 165
+> 2002, ch. 29, art. 77; 2012, ch. 19, art. 1652019, ch. 28, art. 174
 
 
 
@@ -1542,7 +1540,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **79** 
 
-- **(1)** Toute personne qui est tenue, sous le régime d’une loi fédérale, de veiller à ce qu’il soit procédé à l’évaluation des effets environnementaux d’un projet et toute autorité qui prend une décision au titre des alinéas 67a) ou b) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) relativement à un projet notifient sans tarder le projet à tout ministre compétent s’il est susceptible de toucher une espèce sauvage inscrite ou son habitat essentiel.
+- **(1)** Toute personne qui est tenue, sous le régime d’une loi fédérale, de veiller à ce qu’il soit procédé à l’évaluation des effets environnementaux d’un projet et toute autorité qui prend une décision au titre des alinéas 82a) ou b) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) relativement à un projet notifient sans tarder le projet à tout ministre compétent s’il est susceptible de toucher une espèce sauvage inscrite ou son habitat essentiel.
 
 **Réalisations escomptées**
 
@@ -1552,13 +1550,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Les définitions qui suivent s’appliquent au présent article.
 
-***personne*** S’entend notamment d’une association de personnes, d’une organisation, d’une autorité fédérale au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) et de tout organisme mentionné à l’annexe 3 de cette loi. (*person*)
+***personne*** S’entend notamment d’une association de personnes, d’une organisation, d’une autorité fédérale au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) et de tout organisme mentionné à l’annexe 4 de cette loi. (*person*)
 
 ***projet***
-- **a)** Projet désigné au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ou projet au sens de l’article 66 de cette loi;
+- **a)** Projet désigné au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ou projet au sens de l’article 81 de cette loi;
 - **b)** projet de développement au sens du paragraphe 2(1) de la [Loi sur l’évaluation environnementale et socioéconomique au Yukon](/fr/Lois/Lois%20du%20Canada/2003/ch.%207.md);
 - **c)** projet de développement au sens du paragraphe 111(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md). (*project*)
-> 2002, ch. 29, art. 79; 2012, ch. 19, art. 59; 2017, ch. 26, art. 49(F)
+> 2002, ch. 29, art. 79; 2012, ch. 19, art. 59; 2017, ch. 26, art. 49(F)2019, ch. 28, art. 175
 
 
 
@@ -4203,61 +4201,6 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 **400** L’alinéa 108(1)e) de la Loi sur les espèces en péril est remplacé par ce qui suit :
 
 - **e)** il a conclu avec le procureur général un accord sur les mesures de rechange dans les cent quatre-vingts jours suivant la signification d’une sommation, la délivrance d’une citation à comparaître, la remise par lui d’une promesse ou la date à laquelle une ordonnance de mise en liberté a été rendue à son égard;
-
-
-
-
-
-######           — 2019, ch. 28, art. 174
-
-
-**
-> 2012, ch. 19, art. 165
-**
-
-**174** Le paragraphe 77(1.1) de la Loi sur les espèces en péril est abrogé.
-
-
-
-######           — 2019, ch. 28, art. 175
-
-
-**
-> 2012, ch. 19, par. 59(1)
-**
-
-**175** 
-
-- **(1)** Le paragraphe 79(1) de la même loi est remplacé par ce qui suit :
-
-**Notification du ministre**
-
-**79** 
-
-- **(1)** Toute personne qui est tenue, sous le régime d’une loi fédérale, de veiller à ce qu’il soit procédé à l’évaluation des effets environnementaux d’un projet et toute autorité qui prend une décision au titre des alinéas 82a) ou b) de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) relativement à un projet notifient sans tarder le projet à tout ministre compétent s’il est susceptible de toucher une espèce sauvage inscrite ou son habitat essentiel.
-
-
-
-**
-> 2012, ch. 19, par. 59(2)
-**
-
-- **(2)** La définition de ***personne***, au paragraphe 79(3) de la même loi, est remplacée par ce qui suit :
-
-
-***personne*** S’entend notamment d’une association de personnes, d’une organisation, d’une autorité fédérale au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) et de tout organisme mentionné à l’annexe 4 de cette loi. (*person*)
-
-
-
-**
-> 2012, ch. 19, par. 59(2)
-**
-
-- **(3)** L’alinéa a) de la définition de ***projet***, au paragraphe 79(3) de la même loi est remplacé par ce qui suit :
-
-
-***projet***
-- **a)** Projet désigné au sens de l’article 2 de la [Loi sur l’évaluation d’impact](/fr/Lois/Lois%20du%20Canada/2019/ch.%2028,%20art.%201.md) ou projet au sens de l’article 81 de cette loi;
 
 
 
