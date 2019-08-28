@@ -41,7 +41,7 @@ Enabling authorities:
 - **(1)** These Regulations apply to every bridge over a navigable water constructed after November 17, 1923.
 
 - **(2)** Notwithstanding subsection (1), these Regulations do not apply to any bridge over a canal or over the waters of any public harbour to the extent that these Regulations conflict with any other regulations made or approved by the Governor in Council.
-> SOR/86-970, s. 1.
+> SOR/86-970, s. 1
 
 
 
@@ -51,13 +51,13 @@ Enabling authorities:
 
 
 **4** The Minister may prescribe lights or markings to be exhibited and the time during which the lights shall be exhibited on any bridge or on any span through or under which any passage to navigation is approved.
-> SOR/86-970, s. 2.
+> SOR/86-970, s. 2
 
 
 
 
 **5** The owner of every bridge shall cause to be exhibited, maintained and operated at the bridge the lights and other aids to navigation prescribed by or under these Regulations.
-> SOR/86-970, s. 2.
+> SOR/86-970, s. 2
 
 
 
@@ -66,14 +66,14 @@ Enabling authorities:
 ## Approval of Plan
 
 
-**6** Where a plan and description of a proposed bridge is required by the Navigable Waters Protection Act or the Railway Act to be submitted to the Minister for his approval, that plan and description shall indicate any lights or markings prescribed by the Minister pursuant to section 4.
-> SOR/86-970, s. 2.
+**6** Where a plan and description of a proposed bridge is required by the [Canadian Navigable Waters Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md) or the Railway Act to be submitted to the Minister for his approval, that plan and description shall indicate any lights or markings prescribed by the Minister pursuant to section 4.
+> SOR/86-970, s. 22019, c. 28, s. 187
 
 
 
 
 **7** Where a bridge consists of more than one span, the Minister may prescribe the span or spans through or under which any passage for navigation is approved.
-> SOR/86-970, s. 2.
+> SOR/86-970, s. 2
 
 
 
@@ -87,7 +87,7 @@ Enabling authorities:
 
 
 **10** Unless otherwise approved by the Minister, the owner of a movable span bridge shall maintain on duty in charge of the span at all times a responsible person who is trained to operate the span.
-> SOR/86-970, s. 3.
+> SOR/86-970, s. 3
 
 
 
@@ -111,7 +111,7 @@ Enabling authorities:
 - **(2)** Notwithstanding subsection (1), the Minister may prohibit the opening of any movable span during specified periods and the person in charge of the span shall not open it except under such conditions as may be prescribed by the Minister.
 
 - **(3)** The person in charge of a vessel shall not allow the vessel to enter a passage for navigation through or under a movable span until the span is fully open unless the vessel can safely move under the span while it is closed.
-> SOR/86-970, s. 4.
+> SOR/86-970, s. 4
 
 
 
