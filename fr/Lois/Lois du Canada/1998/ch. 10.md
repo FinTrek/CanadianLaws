@@ -78,7 +78,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Terminologie**
 
 - **(2)** Sauf indication contraire, les autres termes de la présente loi s’entendent au sens de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md).
-> 1998, ch. 10, art. 2; 2001, ch. 4, art. 133; 2008, ch. 21, art. 1.
+> 1998, ch. 10, art. 2; 2001, ch. 4, art. 133; 2008, ch. 21, art. 1
 
 
 
@@ -111,7 +111,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** gérer l’infrastructure maritime et les services d’une façon commerciale qui favorise et prend en compte l’apport des utilisateurs et de la collectivité où un port ou havre est situé;
 - **g)** prévoir la cession, notamment par voie de transfert, de certains ports et installations portuaires;
 - **h)** favoriser la coordination et l’intégration des activités maritimes avec les réseaux de transport aérien et terrestre.
-> 1998, ch. 10, art. 4; 2008, ch. 21, art. 3.
+> 1998, ch. 10, art. 4; 2008, ch. 21, art. 3
 
 
 
@@ -137,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***port*** L’ensemble des eaux navigables qui relèvent de la compétence d’une administration portuaire ainsi que les immeubles et les biens réels dont la gestion lui est confiée, qu’elle détient ou qu’elle occupe en conformité avec les lettres patentes. (*port*)
 
 ***utilisateur*** À l’égard d’un port, personne qui utilise le port à des fins commerciales ou y fournit des services. (*user*)
-> 1998, ch. 10, art. 5; 2001, ch. 4, art. 134.
+> 1998, ch. 10, art. 5; 2001, ch. 4, art. 134
 
 
 
@@ -156,7 +156,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modification de l’annexe**
 
 - **(2)** Le ministre peut, par règlement, modifier l’annexe.
-> 1998, ch. 10, art. 6; 2008, ch. 21, art. 4.
+> 1998, ch. 10, art. 6; 2008, ch. 21, art. 4
 
 
 
@@ -222,7 +222,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** Les lettres patentes ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md); elles sont toutefois publiées dans la Gazette du Canada et sont opposables aux tiers à compter de leur date de publication.
+- **(3)** Les lettres patentes ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md); elles sont toutefois publiées dans la [Gazette du Canada](http://www.gazette.gc.ca/) et sont opposables aux tiers à compter de leur date de publication.
 
 **Approbation ministérielle**
 
@@ -231,7 +231,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation du gouverneur en conseil**
 
 - **(5)** Les dispositions des lettres patentes relatives à la mesure dans laquelle l’administration portuaire peut emprunter des fonds sur son crédit pour l’exploitation du port doivent être approuvées par le gouverneur en conseil, sur recommandation du ministre et du ministre des Finances, avant la délivrance des lettres patentes.
-> 1998, ch. 10, art. 8; 2001, ch. 4, art. 135; 2008, ch. 21, art. 5; 2012, ch. 19, art. 626.
+> 1998, ch. 10, art. 8; 2001, ch. 4, art. 135; 2008, ch. 21, art. 5; 2012, ch. 19, art. 626
 
 
 
@@ -246,7 +246,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(2)** L’avis est donné par écrit et prévoit le délai dans lequel le conseil d’administration peut faire parvenir au ministre ses observations sur les modifications proposées.
-> 1998, ch. 10, art. 9; 2008, ch. 21, art. 6.
+> 1998, ch. 10, art. 9; 2008, ch. 21, art. 6
 
 
 
@@ -276,7 +276,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** aucune atteinte n’est portée aux causes d’action ou réclamations déjà nées que pouvait exercer la commission portuaire — ou qui pouvaient l’être contre elle — , et aux responsabilités et obligations existantes de cette commission, toutefois les jugements ou ordonnances judiciaires rendus doivent d’abord être exécutés contre l’administration portuaire;
 	- **f)** les poursuites civiles, pénales ou administratives engagées par ou contre la commission portuaire se poursuivent par ou contre l’administration portuaire seulement;
 	- **g)** sous réserve de l’alinéa e), toute décision judiciaire ou quasi judiciaire rendue en faveur de la commission portuaire ou contre celle-ci est exécutoire par ou contre l’administration portuaire seulement.
-> 1998, ch. 10, art. 10; 2001, ch. 4, art. 136; 2008, ch. 21, art. 7.
+> 1998, ch. 10, art. 10; 2001, ch. 4, art. 136; 2008, ch. 21, art. 7
 
 
 
@@ -328,7 +328,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détermination du périmètre portuaire par le ministre**
 
 - **(5)** Le ministre peut, pour l’application du paragraphe (4), fixer le périmètre du port non autonome qui devient régi par une administration portuaire et trancher toute question soulevée en matière de biens, de droits et d’obligations de l’administration.
-> 1998, ch. 10, art. 12; 2001, ch. 4, art. 137; 2008, ch. 21, art. 8.
+> 1998, ch. 10, art. 12; 2001, ch. 4, art. 137; 2008, ch. 21, art. 8
 
 
 
@@ -364,7 +364,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien en vigueur des droits existants**
 
 - **(3)** Les droits en vigueur à l’égard d’un port à la date de prise d’effet de la fusion demeurent en vigueur pendant une période de six mois sauf s’ils sont remplacés plus tôt au titre du paragraphe 49(1).
-> 2008, ch. 21, art. 9.
+> 2008, ch. 21, art. 9
 
 
 
@@ -423,7 +423,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Quorum**
 
 - **(6)** Sous réserve des lettres patentes, la majorité des administrateurs en fonction constitue le quorum; lorsque celui-ci est atteint, les administrateurs peuvent exercer leurs fonctions.
-> 1998, ch. 10, art. 14; 2008, ch. 21, art. 10; 2014, ch. 29, art. 27; 2015, ch. 3, art. 16(A).
+> 1998, ch. 10, art. 14; 2008, ch. 21, art. 10; 2014, ch. 29, art. 27; 2015, ch. 3, art. 16(A)
 
 
 
@@ -454,7 +454,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** les personnes âgées de moins de dix-huit ans;
 - **g)** les personnes atteintes d’une déficience mentale qui ont été reconnues comme telles par un tribunal même étranger;
 - **h)** les faillis non libérés.
-> 1998, ch. 10, art. 16; 2003, ch. 22, art. 113(A); 2008, ch. 21, art. 11.
+> 1998, ch. 10, art. 16; 2003, ch. 22, art. 113(A); 2008, ch. 21, art. 11
 
 
 
@@ -486,7 +486,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Date de prise d’effet de la démission**
 
 - **(2)** La démission d’un administrateur prend effet à la date à laquelle l’administration portuaire reçoit sa lettre de démission ou à la date postérieure qui y est indiquée.
-> 1998, ch. 10, art. 19; 2008, ch. 21, art. 12.
+> 1998, ch. 10, art. 19; 2008, ch. 21, art. 12
 
 
 
@@ -519,7 +519,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 **21.1** Sous réserve des lettres patentes, le conseil d’administration peut déléguer aux dirigeants ou à un comité constitué par les administrateurs les pouvoirs de gestion des activités de l’administration portuaire.
-> 2008, ch. 21, art. 13.
+> 2008, ch. 21, art. 13
 
 
 
@@ -582,7 +582,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(iii)** est une contribution versée pour la durabilité environnementale,
 	- **(iv)** est une contribution versée pour répondre à des exigences liées à la sûreté;
 - **b)** l’autorisation de financement visant à permettre à Sa Majesté d’exécuter les obligations découle d’un accord conclu avant le 1<sup>er</sup> mars 1999.
-> 1998, ch. 10, art. 25; 2008, ch. 21, art. 14; 2018, ch. 10, art. 73.
+> 1998, ch. 10, art. 25; 2008, ch. 21, art. 14; 2018, ch. 10, art. 73
 
 
 
@@ -591,7 +591,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contribution**
 
 **25.1** Le ministre peut, avec l’approbation du gouverneur en conseil donnée sur recommandation du Conseil du Trésor et selon les modalités précisées par le gouverneur en conseil sur recommandation du Conseil du Trésor, verser toute contribution visée au sous-alinéa 25a)(iv).
-> 2008, ch. 21, art. 15.
+> 2008, ch. 21, art. 15
 
 
 
@@ -600,7 +600,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sommes versées à la Corporation Place du Canada**
 
 **25.2** Malgré l’article 25, le ministre du Patrimoine canadien peut verser des sommes à la Corporation Place du Canada pour les célébrations de la fête du Canada et pour celles soulignant le 150<sup>e</sup> anniversaire de la Confédération.
-> 2016, ch. 7, art. 232.
+> 2016, ch. 7, art. 232
 
 
 
@@ -616,7 +616,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Banque de l’infrastructure du Canada**
 
 **26.1** L’article 26 ne s’applique pas en ce qui concerne les garanties d’emprunt consenties par la Banque de l’infrastructure du Canada au nom du gouvernement fédéral au titre de l’alinéa 18h) de la [Loi sur la Banque de l’infrastructure du Canada](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20403.md).
-> 2018, ch. 10, art. 74.
+> 2018, ch. 10, art. 74
 
 
 
@@ -643,7 +643,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de Sa Majesté**
 
 - **(3)** Les règlements pris en vertu du paragraphe (1) peuvent être rendus obligatoires pour Sa Majesté du chef du Canada ou d’une province.
-> 1998, ch. 10, art. 27; 2008, ch. 21, art. 16.
+> 1998, ch. 10, art. 27; 2008, ch. 21, art. 16
 
 
 
@@ -721,7 +721,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** d’acquérir la totalité ou la quasi-totalité des éléments d’actif d’une autre société;
 	- **d)** de vendre ou, de façon générale, céder les actions d’une filiale à cent pour cent d’une administration portuaire;
 	- **e)** de demander la dissolution ou la fusion d’une filiale à cent pour cent d’une administration portuaire.
-> 1998, ch. 10, art. 28; 2001, ch. 4, art. 138; 2008, ch. 21, art. 17.
+> 1998, ch. 10, art. 28; 2001, ch. 4, art. 138; 2008, ch. 21, art. 17
 
 
 
@@ -767,7 +767,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copie au ministre**
 
 - **(3)** Ils fournissent une copie de la politique d’emprunt au ministre si ce dernier en fait la demande.
-> 2008, ch. 21, art. 18.
+> 2008, ch. 21, art. 18
 
 
 
@@ -798,7 +798,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application du droit provincial**
 
 - **(6)** Les concessions visées au paragraphe (4) peuvent être faites par un acte qui, en vertu des lois de la province de situation de l’immeuble fédéral ou du bien réel fédéral, peut servir à faire des concessions entre sujets de droit privé.
-> 1998, ch. 10, art. 31; 2001, ch. 4, art. 139; 2008, ch. 21, art. 19.
+> 1998, ch. 10, art. 31; 2001, ch. 4, art. 139; 2008, ch. 21, art. 19
 
 
 
@@ -894,7 +894,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres renseignements**
 
 - **(5)** Les administrations portuaires présentent au ministre les comptes, budgets, relevés, livres, rapports et autres renseignements que celui-ci peut exiger, y compris les renseignements relatifs à leurs éventuels éléments de passif ou à ceux de leurs filiales à cent pour cent, le cas échéant.
-> 1998, ch. 10, art. 37; 2008, ch. 21, art. 20.
+> 1998, ch. 10, art. 37; 2008, ch. 21, art. 20
 
 
 
@@ -921,7 +921,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Plan d’activités**
 
 **39** Les administrations portuaires présentent au ministre, dans les trois mois suivant la fin de chaque exercice, le plan quinquennal de leurs activités et de celles de chacune de leurs filiales à cent pour cent, contenant les renseignements que le ministre peut exiger en ce qui concerne, notamment, les changements importants par rapport aux renseignements fournis dans le plan d’activités antérieur.
-> 1998, ch. 10, art. 39; 2008, ch. 21, art. 21.
+> 1998, ch. 10, art. 39; 2008, ch. 21, art. 21
 
 
 
@@ -1028,7 +1028,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Possession d’immeubles et de biens réels**
 
 - **(6)** Une administration portuaire ne peut gérer, occuper et détenir que les immeubles et les biens réels qui sont mentionnés dans ses lettres patentes.
-> 1998, ch. 10, art. 44; 2001, ch. 4, art. 140; 2008, ch. 21, art. 22.
+> 1998, ch. 10, art. 44; 2001, ch. 4, art. 140; 2008, ch. 21, art. 22
 
 
 
@@ -1067,7 +1067,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application du droit provincial**
 
 - **(4)** L’octroi d’un permis ou la location d’un immeuble fédéral ou d’un bien réel fédéral peuvent s’effectuer par un acte qui, en vertu des lois de la province où est situé le bien, peut servir à opérer l’octroi d’un permis ou la location d’un immeuble ou d’un bien réel entre sujets de droit privé.
-> 1998, ch. 10, art. 45; 2001, ch. 4, art. 141; 2008, ch. 21, art. 23.
+> 1998, ch. 10, art. 45; 2001, ch. 4, art. 141; 2008, ch. 21, art. 23
 
 
 
@@ -1082,7 +1082,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Retrait de la gestion**
 
 - **(2)** Dans le cas où la gestion de l’immeuble ou du bien réel est retirée à l’administration portuaire, celle-ci ne peut être indemnisée par Sa Majesté relativement au coût du bien.
-> 2008, ch. 21, art. 24.
+> 2008, ch. 21, art. 24
 
 
 
@@ -1125,16 +1125,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application du droit provincial**
 
 - **(3)** Les concessions peuvent être faites par un acte qui, en vertu des lois de la province de situation de l’immeuble fédéral ou du bien réel fédéral, peut servir à faire des concessions entre sujets de droit privé.
-> 1998, ch. 10, art. 46; 2001, ch. 4, art. 141; 2008, ch. 21, art. 25; 2014, ch. 39, art. 228.
+> 1998, ch. 10, art. 46; 2001, ch. 4, art. 141; 2008, ch. 21, art. 25; 2014, ch. 39, art. 228
 
 
 
 
 
-**Loi sur la protection de la navigation**
+**[Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md)**
 
-**47** La Loi sur la protection de la navigation ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 62.
-> 1998, ch. 10, art. 47; 2008, ch. 21, art. 26; 2012, ch. 31, art. 342.
+**47** La [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 62.
+> 1998, ch. 10, art. 47; 2008, ch. 21, art. 26; 2012, ch. 31, art. 3422019, ch. 28, art. 186
 
 
 
@@ -1184,7 +1184,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(9)** Les plans d’utilisation des sols ne sont pas des règlements au sens de la Loi sur les textes réglementaires.
-> 1998, ch. 10, art. 48; 2001, ch. 4, art. 142; 2014, ch. 39, art. 229.
+> 1998, ch. 10, art. 48; 2001, ch. 4, art. 142; 2014, ch. 39, art. 229
 
 
 
@@ -1256,7 +1256,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(4)** L’obligation de préavis mentionnée au présent article ne s’applique pas aux droits prévus par un contrat conclu en vertu de l’article 53.
-> 1998, ch. 10, art. 51; 2008, ch. 21, art. 27(F).
+> 1998, ch. 10, art. 51; 2008, ch. 21, art. 27(F)
 
 
 
@@ -1271,7 +1271,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir de modification ou d’annulation du gouverneur en conseil**
 
 - **(2)** L’article 40 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) s’applique, avec les adaptations nécessaires, aux conclusions de l’Office, comme s’il s’agissait d’une décision rendue en application de cette loi.
-> 1998, ch. 10, art. 52; 2008, ch. 21, art. 28(F).
+> 1998, ch. 10, art. 52; 2008, ch. 21, art. 28(F)
 
 
 
@@ -1280,7 +1280,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fixation des droits par contrat**
 
 **53** L’administration portuaire peut conclure un accord, que les parties peuvent convenir de garder confidentiel, dans lequel les sommes à percevoir par l’administration portuaire, pour les services visés aux alinéas 49(1)a) à c), sont différentes des droits fixés aux termes de ces alinéas.
-> 1998, ch. 10, art. 53; 2008, ch. 21, art. 29.
+> 1998, ch. 10, art. 53; 2008, ch. 21, art. 29
 
 
 
@@ -1311,9 +1311,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le gouverneur en conseil peut, par la délivrance d’un certificat de dissolution, dissoudre une administration portuaire sans lui ordonner de procéder à la liquidation de son actif; dans ce cas, ses obligations et ses éléments d’actif sont remis à Sa Majesté du chef du Canada et leur gestion est confiée au ministre.
 
-**Gazette du Canada**
+**[Gazette du Canada](http://www.gazette.gc.ca/)**
 
-- **(3)** Les certificats de dissolution délivrés en vertu du présent article entrent en vigueur trente jours après celui de leur publication dans la Gazette du Canada.
+- **(3)** Les certificats de dissolution délivrés en vertu du présent article entrent en vigueur trente jours après celui de leur publication dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Révocation**
 
@@ -1350,7 +1350,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Normes nationales**
 
 - **(3)** Sous réserve des règlements d’application de l’article 62, les pratiques et procédures normalisées par une administration portuaire au titre du paragraphe (1) ne peuvent être incompatibles avec les normes et pratiques nationales relatives aux services de trafic maritime, notamment celles établies en vertu de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
-> 1998, ch. 10, art. 56; 2001, ch. 26, art. 276; 2008, ch. 21, art. 30(F).
+> 1998, ch. 10, art. 56; 2001, ch. 26, art. 276; 2008, ch. 21, art. 30(F)
 
 
 
@@ -1417,7 +1417,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Il est interdit à un navire :
 	- **a)** dans les cas où il est tenu d’obtenir une autorisation de mouvement, d’entrer dans un port ou dans une zone de contrôle de la circulation de ce port, d’en sortir ou de s’y déplacer sans avoir obtenu une telle autorisation sous le régime du présent article;
 	- **b)** dans les cas où il est tenu de maintenir la communication directe avec une personne nommée en vertu du paragraphe (1), de se déplacer dans un port sans être capable de maintenir la communication.
-> 1998, ch. 10, art. 58; 2001, ch. 26, art. 277; 2008, ch. 21, art. 31.
+> 1998, ch. 10, art. 58; 2001, ch. 26, art. 277; 2008, ch. 21, art. 31
 
 
 
@@ -1442,7 +1442,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve d’une infraction par un navire**
 
 - **(3)** Lorsqu’un navire est poursuivi pour infraction au présent article, il suffit pour établir l’infraction de prouver que l’acte ou l’omission qui la constitue est le fait du capitaine ou d’une autre personne à bord du navire, que celle-ci soit identifiée ou non.
-> 1998, ch. 10, art. 59; 2008, ch. 21, art. 32.
+> 1998, ch. 10, art. 59; 2008, ch. 21, art. 32
 
 
 
@@ -1468,7 +1468,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sûreté du transport maritime**
 
 - **(2)** Sous réserve des règlements pris en vertu de la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), les administrations portuaires sont tenues de prendre les mesures nécessaires en vue du maintien de la sûreté du transport maritime.
-> 1998, ch. 10, art. 61; 2008, ch. 21, art. 33; 2014, ch. 39, art. 230.
+> 1998, ch. 10, art. 61; 2008, ch. 21, art. 33; 2014, ch. 39, art. 230
 
 
 
@@ -1504,7 +1504,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mesure transitoire**
 
 - **(4)** Sous réserve du paragraphe 49(6), les règlements pris avant l’entrée en vigueur du présent article relativement à un port visé par les lettres patentes délivrées à une administration portuaire sont, dans la mesure de leur compatibilité avec la présente loi, maintenus en vigueur pour une période prenant fin à la date du premier anniversaire de la prise d’effet des lettres patentes ou, si elle est antérieure, à la date à laquelle de nouveaux règlements sont pris en vertu du paragraphe (1) relativement à ce port en remplacement des premiers.
-> 1998, ch. 10, art. 62; 2001, ch. 4, art. 143; 2008, ch. 21, art. 34.
+> 1998, ch. 10, art. 62; 2001, ch. 4, art. 143; 2008, ch. 21, art. 34
 
 
 
@@ -1579,7 +1579,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de Sa Majesté**
 
 - **(3)** Les règlements pris en vertu du paragraphe (1) peuvent être rendus obligatoires pour Sa Majesté du chef du Canada ou d’une province.
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1594,7 +1594,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir existant non restreint**
 
 - **(2)** Il est entendu que le pouvoir exprès d’incorporer par renvoi prévu au paragraphe (1) ne restreint pas le pouvoir qui existe par ailleurs d’incorporer par renvoi tout document dans les règlements pris en vertu de la présente loi.
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1603,7 +1603,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prépondérance des autres règlements fédéraux**
 
 **64.3** Les règlements pris en vertu du paragraphe 63(2) ou de toute autre loi fédérale l’emportent sur tout règlement incompatible pris en vertu du paragraphe 64.1(1), sauf disposition contraire des règlements pris en vertu de ce paragraphe 64.1(1).
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1612,7 +1612,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prépondérance du règlement**
 
 **64.4** Les règlements pris en vertu du paragraphe 64.1(1) l’emportent sur tout règlement administratif, pratique et procédure, autre instrument semblable ou plan d’utilisation des sols incompatible pris par une administration portuaire, sauf disposition contraire des règlements pris en vertu de ce paragraphe.
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1621,7 +1621,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application**
 
 **64.5** Les articles 108 à 129.19 ne s’appliquent pas à l’exécution ou au contrôle d’application des règlements pris en vertu du paragraphe 64.1(1) ou à leur contravention.
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1640,7 +1640,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Résolution de différends**
 
 - **(2)** L’accord peut prévoir l’arbitrage, en conformité avec le droit de la province, de tout différend découlant de son interprétation ou de son application. Le cas échéant, la [Loi sur l’arbitrage commercial](/fr/Lois/Lois%20du%20Canada/1985/ch.%2017%20(2e%20suppl.).md) ne s’applique pas au différend.
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1653,7 +1653,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 **64.7** Les textes pris par un fonctionnaire ou organisme provincial sous le régime d’un texte législatif de la province incorporé par renvoi dans un règlement pris en vertu du paragraphe 64.1(1) ne sont pas assujettis à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1668,7 +1668,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Appel ou contrôle judiciaire devant les tribunaux provinciaux**
 
 - **(2)** Sauf disposition contraire d’un règlement pris en vertu du paragraphe 64.1(1), l’exercice de toute attribution conférée par un texte législatif de la province qui est incorporé par renvoi dans ce règlement est susceptible d’appel ou de contrôle judiciaire devant les tribunaux de la province, de la manière et dans les circonstances prévues par le droit de la province.
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1677,7 +1677,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Paiements perçus**
 
 **64.9** Les paiements perçus en application d’un règlement pris en vertu du paragraphe 64.1(1) par tout fonctionnaire ou organisme provincial ne constituent pas des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1686,7 +1686,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
 **64.91** Il est entendu que la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais fixés en vertu de tout texte législatif d’une province incorporé par renvoi dans un règlement pris en vertu du paragraphe 64.1(1).
-> 2014, ch. 39, art. 231; 2017, ch. 20, art. 454.
+> 2014, ch. 39, art. 231; 2017, ch. 20, art. 454
 
 
 
@@ -1701,7 +1701,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **64.92** À l’égard des actes ou omissions survenant dans l’exercice des attributions conférées par un règlement pris en vertu du paragraphe 64.1(1) :
 - **a)** Sa Majesté du chef du Canada bénéficie des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont Sa Majesté du chef de la province où est située une entreprise visée par le règlement bénéficierait si elle exerçait ces attributions en vertu du droit de cette province;
 - **b)** l’administration portuaire ainsi que toute personne ou tout organisme exerçant ces attributions bénéficient, sauf disposition contraire du règlement, des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont ils bénéficieraient s’ils exerçaient celles-ci en vertu du droit de la province où est située l’entreprise visée par le règlement.
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1710,7 +1710,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérêts ou droits sur les ports**
 
 **64.93** Les règlements pris en vertu du paragraphe 64.1(1) ne peuvent servir de fondement à aucun recours civil ni à aucune ordonnance, amende ou sanction pécuniaire à l’égard d’une entreprise qui est située dans un port contre Sa Majesté du chef du Canada ou une administration portuaire en sa qualité de titulaire d’un intérêt ou d’un droit dans ce port.
-> 2014, ch. 39, art. 231.
+> 2014, ch. 39, art. 231
 
 
 
@@ -1757,7 +1757,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Continuité des décrets**
 
 - **(7)** Les décrets d’exclusion pris en vertu du paragraphe 8(2) de la Loi sur les ports et installations portuaires publics sont assimilés à des règlements d’abrogation pris en vertu du paragraphe (6) et restent en vigueur jusqu’à leur abrogation en vertu de ce même paragraphe.
-> 1998, ch. 10, art. 65; 2008, ch. 21, art. 35.
+> 1998, ch. 10, art. 65; 2008, ch. 21, art. 35
 
 
 
@@ -1776,7 +1776,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir du ministre**
 
 - **(3)** Il est entendu que l’abrogation de la désignation de port public ou d’installation portuaire publique est sans effet sur la responsabilité du ministre, en vertu de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), à l’égard des immeubles fédéraux et des biens réels fédéraux qui faisaient partie du port ou de l’installation et qui appartiennent à Sa Majesté.
-> 1998, ch. 10, art. 66; 2001, ch. 4, art. 144; 2008, ch. 21, art. 36(F).
+> 1998, ch. 10, art. 66; 2001, ch. 4, art. 144; 2008, ch. 21, art. 36(F)
 
 
 
@@ -1834,7 +1834,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Disposition transitoire**
 
 - **(3)** Les nominations à titre de directeur de port ou de gardien de quai faites par le ministre en vertu du paragraphe 11(2) de la Loi sur les ports et installations portuaires publics et les rémunérations fixées par le gouverneur en conseil en vertu du paragraphe 11(3) de cette loi et attachées à ces nominations demeurent en vigueur comme si elles avaient été faites ou fixées en vertu du présent article.
-> 1998, ch. 10, art. 69; 2008, ch. 21, art. 37.
+> 1998, ch. 10, art. 69; 2008, ch. 21, art. 37
 
 
 
@@ -1864,7 +1864,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application du droit provincial**
 
 - **(2)** L’octroi d’un permis ou la location d’un immeuble fédéral ou d’un bien réel fédéral peuvent s’effectuer par un acte qui, en vertu des lois de la province où est situé le bien, peut servir à opérer l’octroi d’un permis ou la location d’un immeuble ou d’un bien réel entre sujets de droit privé.
-> 1998, ch. 10, art. 71; 2001, ch. 4, art. 145; 2008, ch. 21, art. 38(F).
+> 1998, ch. 10, art. 71; 2001, ch. 4, art. 145; 2008, ch. 21, art. 38(F)
 
 
 
@@ -1907,7 +1907,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Gestion ministérielle**
 
 - **(8)** Le ministre conserve, sous réserve des règlements pris en vertu de l’article 74, la gestion des ports et des installations portuaires publiques qui n’ont fait l’objet ni de disposition ni de transfert.
-> 1998, ch. 10, art. 72; 2001, ch. 4, art. 146; 2008, ch. 21, art. 39.
+> 1998, ch. 10, art. 72; 2001, ch. 4, art. 146; 2008, ch. 21, art. 39
 
 
 
@@ -1917,10 +1917,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Loi sur la protection de la navigation**
+**[Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md)**
 
-**73** La Loi sur la protection de la navigation ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 74.
-> 1998, ch. 10, art. 73; 2008, ch. 21, art. 40; 2012, ch. 31, art. 343.
+**73** La [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 74.
+> 1998, ch. 10, art. 73; 2008, ch. 21, art. 40; 2012, ch. 31, art. 3432019, ch. 28, art. 186
 
 
 
@@ -1951,7 +1951,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de Sa Majesté**
 
 - **(3)** Les règlements pris en vertu du paragraphe (1) peuvent être rendus obligatoires pour Sa Majesté du chef du Canada ou d’une province.
-> 1998, ch. 10, art. 74; 2008, ch. 21, art. 41.
+> 1998, ch. 10, art. 74; 2008, ch. 21, art. 41
 
 
 
@@ -2091,7 +2091,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 - **(11)** Les obligations que les articles 83 à 89 imposent à l’égard d’une société sans but lucratif sont également imposées à toute autre personne qui conclut une entente en vertu du paragraphe 80(5), dans la mesure où l’entente le prévoit.
-> 1998, ch. 10, art. 80; 2001, ch. 4, art. 147.
+> 1998, ch. 10, art. 80; 2001, ch. 4, art. 147
 
 
 
@@ -2106,10 +2106,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Maintien des droits et obligations**
 
-**82** Dans la mesure où l’entente visée au paragraphe 80(5) le prévoit et si le ministre l’a annoncé par avis publié dans la Gazette du Canada, les droits et obligations de la personne qui a conclu l’entente sont les suivants :
+**82** Dans la mesure où l’entente visée au paragraphe 80(5) le prévoit et si le ministre l’a annoncé par avis publié dans la [Gazette du Canada](http://www.gazette.gc.ca/), les droits et obligations de la personne qui a conclu l’entente sont les suivants :
 - **a)** le nom de la personne remplace celui de l’Administration dans les contrats, conventions collectives, baux, licences, permis et autres documents auxquels l’Administration est partie, à l’exception de ceux que le ministre mentionne expressément, nommément ou par catégorie, dans l’entente et l’avis;
 - **b)** les biens meubles ou biens personnels et les droits s’y rattachant que l’Administration administre ou dont elle détient le titre pour le compte de Sa Majesté du chef du Canada — qu’elle détienne le titre en son propre nom ou au nom de Sa Majesté — deviennent des biens et droits de cette personne, à l’exception de ceux que le ministre mentionne expressément, nommément ou par catégorie, dans l’entente et l’avis.
-> 1998, ch. 10, art. 82; 2008, ch. 21, art. 42.
+> 1998, ch. 10, art. 82; 2008, ch. 21, art. 42
 
 
 
@@ -2258,7 +2258,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md)**
 
 **90** Pour l’application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre ou tout autre membre du Conseil privé de la Reine pour le Canada est responsable de tous les immeubles fédéraux et biens réels fédéraux qui lui sont transférés en vertu des paragraphes 80(1) ou (2).
-> 1998, ch. 10, art. 90; 2001, ch. 4, art. 148; 2008, ch. 21, art. 43(F).
+> 1998, ch. 10, art. 90; 2001, ch. 4, art. 148; 2008, ch. 21, art. 43(F)
 
 
 
@@ -2290,7 +2290,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Charge**
 
 - **(5)** La personne qui a conclu une entente en vertu du paragraphe 80(5) ne peut grever d’une sûreté, notamment par hypothèque, les biens qu’elle gère au titre de cette entente sauf pour donner en gage une somme égale à son revenu pour la durée de l’entente et dans les cas où celle-ci le prévoit.
-> 1998, ch. 10, art. 91; 2001, ch. 4, art. 149; 2008, ch. 21, art. 44(F).
+> 1998, ch. 10, art. 91; 2001, ch. 4, art. 149; 2008, ch. 21, art. 44(F)
 
 
 
@@ -2343,7 +2343,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir de modification ou d’annulation du gouverneur en conseil**
 
 - **(3)** L’article 40 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) s’applique, avec les adaptations nécessaires, aux conclusions de l’Office visées au paragraphe (2), comme s’il s’agissait d’une décision rendue en application de cette loi.
-> 1998, ch. 10, art. 94; 2008, ch. 21, art. 45(F).
+> 1998, ch. 10, art. 94; 2008, ch. 21, art. 45(F)
 
 
 
@@ -2426,7 +2426,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(3)** Les règlements pris par l’Administration en vertu de l’article 20 de la Loi sur l’administration de la voie maritime du Saint-Laurent sont, dans la mesure où ils ne sont pas incompatibles avec la présente loi, réputés avoir été pris par le gouverneur en conseil en vertu du présent article.
-> 1998, ch. 10, art. 98; 2001, ch. 4, art. 150(F); 2008, ch. 21, art. 46.
+> 1998, ch. 10, art. 98; 2001, ch. 4, art. 150(F); 2008, ch. 21, art. 46
 
 
 
@@ -2454,10 +2454,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Loi sur la protection de la navigation**
+**[Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md)**
 
-**101** La Loi sur la protection de la navigation ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 98.
-> 1998, ch. 10, art. 101; 2008, ch. 21, art. 47; 2012, ch. 31, art. 344.
+**101** La [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md) ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 98.
+> 1998, ch. 10, art. 101; 2008, ch. 21, art. 47; 2012, ch. 31, art. 3442019, ch. 28, art. 186
 
 
 
@@ -2493,7 +2493,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** la Cour fédérale. (*court*)
 
 ***tribunal d’appel*** La cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe 119(3) et la Cour d’appel fédérale. (*court of appeal*)
-> 1998, ch. 10, art. 103; 1999, ch. 3, art. 18; 2002, ch. 7, art. 105(A), ch. 8, art. 183; 2015, ch. 3, art. 17.
+> 1998, ch. 10, art. 103; 1999, ch. 3, art. 18; 2002, ch. 7, art. 105(A), ch. 8, art. 183; 2015, ch. 3, art. 17
 
 
 
@@ -2557,7 +2557,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Paiement des droits**
 
 - **(2)** Les droits et les intérêts fixés sous le régime de la présente loi à l’égard d’une personne, d’un véhicule ou d’un aéronef doivent être acquittés par cette personne ou le propriétaire du véhicule ou de l’aéronef.
-> 1998, ch. 10, art. 107; 2008, ch. 21, art. 48(F).
+> 1998, ch. 10, art. 107; 2008, ch. 21, art. 48(F)
 
 
 
@@ -2701,7 +2701,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordre écrit**
 
 - **(4)** L’ordre de rétention visé au paragraphe (1) ou (2) est donné par écrit; il est adressé à toutes les personnes qui, dans les lieux où se trouve ou se trouvera le navire visé, sont autorisées à lui donner congé.
-> 1998, ch. 10, art. 115; 2008, ch. 21, art. 49.
+> 1998, ch. 10, art. 115; 2008, ch. 21, art. 49
 
 
 
@@ -2740,7 +2740,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détermination judiciaire du cautionnement**
 
 - **(5)** Le capitaine ou le propriétaire qui conteste le montant du cautionnement demandé en vertu de l’alinéa (4) c) ou d) peut demander au tribunal de le fixer.
-> 1998, ch. 10, art. 116; 2008, ch. 21, art. 50.
+> 1998, ch. 10, art. 116; 2008, ch. 21, art. 50
 
 
 
@@ -2779,7 +2779,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** le navire a été accusé d’infraction à la présente loi ou fait l’objet de procédure pour défaut de paiement des droits ou, si les dommages mentionnés à l’alinéa 115(1) c) sont à l’origine de la rétention, des procédures ont été intentées contre le navire dans les trente jours suivant l’ordre de rétention;
 	- **c)** il y a eu comparution ou dépôt de la défense dans les trente jours suivant l’accusation ou la date à laquelle les procédures ont été instituées mais le cautionnement visé au paragraphe 116(4) n’a pas été versé;
 	- **d)** le navire est reconnu coupable ou responsable, selon le cas, et une amende est infligée mais n’est pas payée immédiatement ou le montant des dommages-intérêts auquel il est condamné n’est pas payé immédiatement.
-> 1998, ch. 10, art. 117; 2008, ch. 21, art. 51.
+> 1998, ch. 10, art. 117; 2008, ch. 21, art. 51
 
 
 
@@ -2872,7 +2872,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Risques et frais**
 
 - **(7)** Les rétentions et saisies sont aux risques et aux frais du propriétaire des marchandises ou du navire saisis jusqu’à paiement intégral des créances ou amendes, ainsi que des frais relatifs à la rétention et à la saisie, et des frais de toute condamnation pour contravention à la présente loi.
-> 1998, ch. 10, art. 120; 2001, ch. 26, art. 278.
+> 1998, ch. 10, art. 120; 2001, ch. 26, art. 278
 
 
 
@@ -2885,7 +2885,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vente de marchandises périssables**
 
 **121** S’il estime que des marchandises saisies et retenues conformément à la présente loi ou qui ont été abandonnées risquent de se détériorer, l’agent de l’autorité peut en disposer, notamment par vente, selon les modalités et aux prix justifiés par les circonstances. Le produit de la disposition est affecté au paiement des frais qu’elle a occasionnés, ainsi qu’à l’acquittement des sommes dues à l’égard du navire ou des marchandises.
-> 1998, ch. 10, art. 121; 2008, ch. 21, art. 52(F).
+> 1998, ch. 10, art. 121; 2008, ch. 21, art. 52(F)
 
 
 
@@ -2902,7 +2902,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Privilèges — marchandises**
 
 - **(2)** L’administration portuaire, le ministre ou la personne qui a conclu une entente en vertu du paragraphe 80(5) est toujours titulaire d’un privilège sur les marchandises placées sous leur compétence pour les droits et les intérêts qui leur sont dus à l’égard de ces marchandises; ce privilège a priorité sur tous autres droits et créances, quelle qu’en soit la nature. L’administration, le ministre ou cette personne peuvent saisir ces marchandises en exécution du privilège.
-> 1998, ch. 10, art. 122; 2001, ch. 26, art. 279; 2008, ch. 21, art. 53(F).
+> 1998, ch. 10, art. 122; 2001, ch. 26, art. 279; 2008, ch. 21, art. 53(F)
 
 
 
@@ -2970,7 +2970,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Code de déontologie**
 
 - **(3)** Par dérogation au paragraphe (1), un administrateur ou un dirigeant d’une administration portuaire n’est pas coupable d’une infraction à la présente loi du seul fait qu’il ne se conforme pas au code de déontologie que comportent les lettres patentes de cette administration.
-> 1998, ch. 10, art. 127; 2008, ch. 21, art. 54.
+> 1998, ch. 10, art. 127; 2008, ch. 21, art. 54
 
 
 
@@ -2985,7 +2985,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 - **(2)** Les poursuites visant une infraction se prescrivent par un an à compter de sa perpétration.
-> 1998, ch. 10, art. 128; 2008, ch. 21, art. 55(A).
+> 1998, ch. 10, art. 128; 2008, ch. 21, art. 55(A)
 
 
 
@@ -3000,7 +3000,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien des recours civils**
 
 - **(2)** Les recours civils ne sont ni éteints ni modifiés du fait d’une infraction à une disposition de la partie 1 ou d’un règlement pris en vertu de l’alinéa 27(1) a).
-> 1998, ch. 10, art. 129; 2008, ch. 21, art. 56.
+> 1998, ch. 10, art. 129; 2008, ch. 21, art. 56
 
 
 
@@ -3013,7 +3013,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de Tribunal d’appel**
 
 **129.01** Pour l’application des articles 129.06, 129.08 et 129.1 à 129.13, ***Tribunal d’appel*** s’entend du Tribunal d’appel des transports du Canada, constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md).
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3022,7 +3022,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Violation**
 
 **129.02** La contravention à un texte désigné sous le régime de l’alinéa 129.03a) constitue une violation qui expose son auteur à la pénalité maximale prévue par règlement.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3040,7 +3040,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** désigner les textes dont la contravention constitue une violation distincte pour chacun des jours au cours desquels la violation se continue;
 - **e)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification du procès-verbal visé au paragraphe 129.05(1);
 - **f)** prendre toute autre mesure d’application du présent article et des articles 129.04 à 129.17.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3053,7 +3053,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** la gravité de la violation, notamment sa fréquence et sa durée;
 - **c)** les antécédents du destinataire du procès-verbal — violation de la présente loi ou condamnation pour infraction à celle-ci — au cours des cinq ans précédant la violation;
 - **d)** tout autre critère prévu sous le régime de l’alinéa 129.03c).
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3073,7 +3073,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** le montant de la pénalité à payer;
 	- **d)** les délais et modalités de paiement de la pénalité et de présentation d’une requête en révision;
 	- **e)** le fait que le non-exercice de la faculté prévue à l’article 129.06 dans les délais et selon les modalités prévus vaut déclaration de responsabilité et entraîne l’imposition de la pénalité figurant au procès-verbal.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3082,7 +3082,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Option**
 
 **129.06** Le destinataire du procès-verbal doit soit payer la pénalité, soit déposer auprès du Tribunal d’appel une requête en révision des faits reprochés ou du montant de la pénalité.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3091,7 +3091,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Paiement de la pénalité**
 
 **129.07** Le paiement de la pénalité dans le délai et selon les modalités prévus dans le procès-verbal vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3118,7 +3118,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intéressé non tenu de témoigner**
 
 - **(5)** L’intéressé n’est pas tenu de témoigner à l’audience.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3127,7 +3127,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Omission de payer la pénalité ou de présenter une requête**
 
 **129.09** L’omission, par l’intéressé, de payer la pénalité et de présenter une requête en révision dans les délais et selon les modalités prévus dans le procès-verbal vaut déclaration de responsabilité à l’égard de la violation.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3146,7 +3146,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Violation**
 
 - **(3)** S’il décide qu’il y a eu violation, il communique à l’intéressé et au ministre le montant de la pénalité à payer.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3169,7 +3169,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(4)** S’il statue qu’il y a eu violation, le comité informe sans délai l’intéressé de sa décision et du montant de la pénalité à payer.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3181,7 +3181,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** sauf en cas de présentation d’une requête en révision dans les délais et selon les modalités prévus dans le procès-verbal, la pénalité prévue dans celui-ci, à compter de la date de signification du procès-verbal;
 - **b)** la pénalité fixée par le membre du Tribunal d’appel au titre de l’article 129.1 ou par le comité du Tribunal d’appel au titre de l’article 129.11, à compter de la date de la décision du membre ou du comité;
 - **c)** les frais raisonnables engagés en vue du recouvrement d’une somme visée aux alinéas a) ou b).
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3196,7 +3196,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enregistrement du certificat**
 
 - **(2)** La juridiction supérieure auprès de laquelle est déposé le certificat visé au paragraphe (1) enregistre celui-ci. L’enregistrement confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3205,7 +3205,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Administrateurs et dirigeants des personnes morales**
 
 **129.14** En cas de commission par une personne morale d’une violation, celui qui, au moment de celle-ci, en était administrateur ou dirigeant est considéré comme coauteur de la violation, sauf si l’action ou l’omission constituant la violation a eu lieu à son insu ou sans son consentement ou s’il a pris les précautions voulues pour l’empêcher.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3214,7 +3214,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Responsabilité indirecte — fait des employés et mandataires**
 
 **129.15** L’employeur ou le mandant — qu’il soit une personne ou un navire — est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou du mandat, que celui-ci soit ou non connu ou poursuivi. L’employeur ou le mandant peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3223,7 +3223,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision — nature des violations**
 
 **129.16** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi pour violation sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3232,7 +3232,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise de précautions**
 
 **129.17** La prise des précautions voulues peut être invoquée dans le cadre de toute procédure en violation.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3245,7 +3245,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cumul interdit**
 
 **129.18** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3260,7 +3260,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Attestation du ministre**
 
 - **(2)** Tout document apparemment établi par le ministre et attestant la date où les faits reprochés sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
-> 2008, ch. 21, art. 57.
+> 2008, ch. 21, art. 57
 
 
 
@@ -3313,7 +3313,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **133** Lorsque, en vertu de l’article 10, des lettres patentes sont délivrées à une commission portuaire la prorogeant en administration portuaire, les articles 44 à 46 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’appliquent comme si :
 - **a)** une vente d’entreprise avait eu lieu entre la commission portuaire et l’administration portuaire;
 - **b)** les employés de la commission portuaire étaient des employés de l’entreprise.
-> 1998, ch. 10, art. 133; 2008, ch. 21, art. 58.
+> 1998, ch. 10, art. 133; 2008, ch. 21, art. 58
 
 
 
@@ -3358,7 +3358,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md)**
 
 - **(2)** Pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), les employés visés au paragraphe (1) sont réputés être des employés de l’administration publique fédérale.
-> 1998, ch. 10, art. 136; 2003, ch. 22, art. 114.
+> 1998, ch. 10, art. 136; 2003, ch. 22, art. 114
 
 
 
@@ -3374,7 +3374,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md)**
 
 **138** Il est déclaré pour plus de certitude que la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ne s’applique pas aux employés désignés des ports non autonomes qui deviennent des administrations portuaires sous le régime de l’article 12 ni aux employés engagés en vertu du paragraphe 136(1) à compter de l’abrogation de la Loi sur la Société canadienne des ports.
-> 1998, ch. 10, art. 138; 2003, ch. 22, art. 223(A); 2017, ch. 9, art. 55.
+> 1998, ch. 10, art. 138; 2003, ch. 22, art. 223(A); 2017, ch. 9, art. 55
 
 
 
@@ -3632,6 +3632,46 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **3** Administration portuaire de Vancouver Fraser
 
 
-> 1998, ch. 10, ann.; DORS/2000-125; 2008, ch. 21, art. 59(A) et 60(F); DORS/2013-29; DORS/2017-68.
+> 1998, ch. 10, ann.; DORS/2000-125; 2008, ch. 21, art. 59(A) et 60(F); DORS/2013-29; DORS/2017-68
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 1998, ch. 30, par. 11(1)
+
+
+**Mentions**
+
+**11** 
+
+- **(1)** Dans les dispositions des lois fédérales autres que celles visées par les articles 12 à 16, ainsi que dans les proclamations, règlements, décrets ou autres documents, toute mention de la Cour de l’Ontario (Division générale) ou de la Cour de l’Ontario (Division provinciale) vaut, en ce qui a trait aux opérations ou actes postérieurs à l’entrée en vigueur du présent article, mention, respectivement, de la Cour supérieure de justice ou de la Cour supérieure de justice de l’Ontario, selon le cas, et de la Cour de justice de l’Ontario.
+
+
+
+######           — 2008, ch. 21, art. 63
+
+
+**Effet continu**
+
+**63** L’alinéa 25b) de la Loi maritime du Canada, dans sa version antérieure à la date d’entrée en vigueur de l’article 14 de la présente loi, continue de s’appliquer à l’égard de la subvention découlant d’un accord déjà conclu au moment de l’entrée en vigueur de cet article.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2013, ch. 33, art. 211
+
+**211** L’article 143 de la Loi maritime du Canada est abrogé.
+
+
+
+######           — 2013, ch. 40, art. 262
+
+**262** L’article 142 de la Loi maritime du Canada est abrogé.
+
 
 
