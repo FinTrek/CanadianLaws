@@ -979,7 +979,9 @@ and includes works, machinery, plants and buildings below or above ground belong
 
 **Order in respect of an expropriation**
 
-**55** On application by an authority or a Yukon first nation, the Board shall make an order fixing the compensation to be provided for the expropriation of settlement land by the authority, other than an expropriation under the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md).
+**55** On application by an authority or a Yukon first nation, the Board shall make an order fixing the compensation to be provided for the expropriation of settlement land by the authority, other than an expropriation under the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md).
+> 1994, c. 43, s. 552019, c. 28, s. 163
+
 
 
 
@@ -1743,12 +1745,6 @@ and the exercise of the right does not result in a significant alteration of tha
 **Repeal**
 
 **283** The Yukon Surface Rights Board Act, chapter 43 of the Statutes of Canada, 1994, is repealed.
-
-
-
-######           — 2019, c. 28, s. 163
-
-**163** Section 55 of the Yukon Surface Rights Board Act is amended by replacing “[National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md)” with “[Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md)”.
 
 
 
