@@ -26,9 +26,11 @@ Autorités habilitantes :
 
 ***ingénieur*** signifie tout agent régional de la marine, directeur régional ou ingénieur surintendant des Services de la marine du ministère des Transports; (*engineer*)
 
-***loi*** signifie la Loi sur la protection des eaux navigables; (*Act*)
+***loi*** signifie la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md); (*Act*)
 
-***ouvrage*** signifie tout ouvrage visé par la Partie I de la Loi sur la protection des eaux navigables. (*work*)
+***ouvrage*** signifie tout ouvrage visé par la Partie I de la [Loi sur les eaux navigables canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md). (*work*)
+> 2019, ch. 28, art. 187
+
 
 
 
@@ -41,7 +43,7 @@ Autorités habilitantes :
 - **(1)** Sous réserve du paragraphe (2), lorsque le ministre approuve, conformément à l’alinéa 5(1)a) ou au paragraphe 6(4) de la Loi, un ouvrage visé à la colonne I de l’annexe ainsi que les plans et l’emplacement de celui-ci, l’approbation est valable pour la période établie à la colonne II.
 
 - **(2)** [Abrogé, DORS/88-461, art. 1]
-> DORS/86-966, art. 1; DORS/88-461, art. 1.
+> DORS/86-966, art. 1; DORS/88-461, art. 1
 
 
 
@@ -107,7 +109,7 @@ Autorités habilitantes :
 	- **d)** être placés à une hauteur d’au moins 6 m au-dessus du niveau de l’eau de façon qu’au moins un feu soit visible à au moins 15 m de l’ouvrage, quel que soit l’angle d’approche.
 
 - **(3)** Chaque feu doit être allumé entre le coucher et le lever du soleil, et du lever au coucher du soleil lorsque la visibilité est réduite; lorsque plusieurs feux sont utilisés ensemble, ils doivent clignoter à l’unisson.
-> DORS/84-182, art. 1; DORS/86-966, art. 2(F); DORS/88-461, art. 2(F).
+> DORS/84-182, art. 1; DORS/86-966, art. 2(F); DORS/88-461, art. 2(F)
 
 
 
@@ -124,7 +126,7 @@ Autorités habilitantes :
 - **e)** ne compte pas plus de huit sources sonores;
 - **f)** est placé à une hauteur d’au moins 3 m et d’au plus 30 m au-dessus du niveau de l’eau, de sorte que le son émis puisse être entendu jusqu’à la distance prescrite dans toutes les directions à l’horizontale, lorsqu’il ne vente pas; et
 - **g)** est actionné chaque fois que la visibilité est inférieure à 8 km dans toutes les directions.
-> DORS/84-182, art. 2.
+> DORS/84-182, art. 2
 
 
 
@@ -134,7 +136,7 @@ Autorités habilitantes :
 - **b)** figurent sur un fond jaune;
 - **c)** ont une hauteur d’au moins 1 m; et
 - **d)** ont des bordures marquées de cataphotes ou d’un matériau cataphotique, ou bien sont éclairées la nuit.
-> DORS/84-182, art. 3.
+> DORS/84-182, art. 3
 
 
 
@@ -156,7 +158,7 @@ Autorités habilitantes :
 - **(3)** Le paragraphe (2) ne s’applique pas dans le cas
 	- **a)** d’un ouvrage qui, en vertu du paragraphe 5(2) de la loi, est exempté de l’application du paragraphe 5(1) de la loi;
 	- **b)** d’un ouvrage dont la construction a été commencée avant le 14 janvier 1970.
-> DORS/86-966, art. 3; DORS/88-461, art. 3.
+> DORS/86-966, art. 3; DORS/88-461, art. 3
 
 
 
@@ -170,7 +172,7 @@ Autorités habilitantes :
 
 
 **15** Quiconque contrevient à toute disposition du présent règlement est passible, sur déclaration sommaire de culpabilité, d’une amende de 500 $ ou d’un emprisonnement de six mois, ou des deux peines à la fois.
-> DORS/86-966, art. 4.
+> DORS/86-966, art. 4
 
 
 
@@ -240,6 +242,6 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/86-966, art. 5; DORS/95-372, art. 13.
+> DORS/86-966, art. 5; DORS/95-372, art. 13
 
 
