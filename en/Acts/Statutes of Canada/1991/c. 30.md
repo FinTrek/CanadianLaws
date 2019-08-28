@@ -645,6 +645,8 @@ Canadian Centre for Management Development<br />- <i>Centre canadien de gestion<
 
 Canadian Centre for Occupational Health and Safety<br />- <i>Centre canadien d’hygiène et de sécurité au travail</i>
 
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
+
 Canadian Environmental Advisory Council<br />- <i>Conseil consultatif canadien de l’environnement</i>
 
 Canadian Grain Commission<br />- <i>Commission canadienne des grains</i>
@@ -715,8 +717,6 @@ Medical Research Council of Canada<br />- <i>Conseil de recherches médicales du
 
 National Battlefields Commission<br />- <i>Commission des champs de bataille nationaux</i>
 
-National Energy Board<br />- <i>Office national de l’énergie</i>
-
 National Farm Products Marketing Council<br />- <i>Conseil national de commercialisation des produits agricoles</i>
 
 National Film Board<br />- <i>Office national du film</i>
@@ -784,7 +784,7 @@ Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des tran
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295; 2013, c. 18, ss. 57, 58, c. 33, ss. 188 to 190, c. 40, ss. 232, 233, 464, 465; 2014, c. 20, s. 459; 2015, c. 3, s. 149; 2017, c. 9, s. 57; 2018, c. 27, ss. 673, 6742019, c. 13, s. 442019, c. 13, s. 452019, c. 13, s. 862019, c. 13, s. 872019, c. 29, s. 3642019, c. 29, s. 365
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295; 2013, c. 18, ss. 57, 58, c. 33, ss. 188 to 190, c. 40, ss. 232, 233, 464, 465; 2014, c. 20, s. 459; 2015, c. 3, s. 149; 2017, c. 9, s. 57; 2018, c. 27, ss. 673, 6742019, c. 13, s. 442019, c. 13, s. 452019, c. 13, s. 862019, c. 13, s. 872019, c. 28, s. 1602019, c. 28, s. 1612019, c. 29, s. 3642019, c. 29, s. 365
 
 
 
@@ -851,26 +851,6 @@ Old Port of Montreal Corporation Inc.<br />- <i>Société immobilière du Canada
 **Expiration**
 
 **6** The provisions of the Public Sector Compensation Act, as enacted by this Part, cease to be in force on the expiration of three years after the coming into force of this section.
-
-
-
-
-
-## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 28, s. 160
-
-**160** Schedule I to the Public Sector Compensation Act is amended by striking out the following under the heading “Other Portions of the Public Service”:
-
-National Energy Board<br />- <i>Office national de l’énergie</i>
-
-
-
-######           — 2019, c. 28, s. 161
-
-**161** Schedule I to the Act is amended by adding the following, in alphabetical order, under the heading “Other Portions of the Public Service”:
-
-Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
 
 
 
