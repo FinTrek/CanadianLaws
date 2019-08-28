@@ -91,7 +91,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***standardized means of containment*** means a means of containment to which a safety standard applies under the regulations; (*contenant normalisé*)
 
 ***vessel*** has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md). (*bâtiment*)
-> 1992, c. 34, s. 2; 1997, c. 9, s. 122; 1999, c. 31, s. 212(E); 2009, c. 9, s. 1.
+> 1992, c. 34, s. 2; 1997, c. 9, s. 122; 1999, c. 31, s. 212(E); 2009, c. 9, s. 1
 
 
 
@@ -100,7 +100,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Interpretation**
 
 **2.1** For the purposes of this Act, a person who is named in a shipping record accompanying dangerous goods or a means of containment on entry into Canada as the person in Canada to whom the dangerous goods or the means of containment is to be delivered is deemed to be importing the dangerous goods or means of containment.
-> 2009, c. 9, s. 2.
+> 2009, c. 9, s. 2
 
 
 
@@ -128,9 +128,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(4)** This Act does not apply in relation to
 	- **(a)** any activity or thing under the sole direction or control of the Minister of National Defence, including in circumstances in which the regulations provide that it is under that Minister’s sole direction or control;
-	- **(b)** commodities transported by a pipeline governed by the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md), the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or the law of a province; or
+	- **(b)** commodities transported by a pipeline governed by the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md), the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or the law of a province; or
 	- **(c)** dangerous goods confined only by the permanent structure of a vessel.
-> 1992, c. 34, s. 3; 2009, c. 9, s. 3.
+> 1992, c. 34, s. 3; 2009, c. 9, s. 32019, c. 28, s. 162
 
 
 
@@ -170,7 +170,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** the goods are accompanied by all documents that are required under the regulations;
 - **(c)** a means of containment is used for the goods that is required or permitted under the regulations; and
 - **(d)** the means of containment and means of transport comply with all safety standards that apply under the regulations and display all applicable safety marks in accordance with the regulations.
-> 1992, c. 34, s. 5; 2009, c. 9, s. 4.
+> 1992, c. 34, s. 5; 2009, c. 9, s. 4
 
 
 
@@ -179,7 +179,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition — means of containment**
 
 **5.1** No person shall design, manufacture, repair, test or equip a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods unless the person complies with all safety requirements that apply under the regulations.
-> 2009, c. 9, s. 4.
+> 2009, c. 9, s. 4
 
 
 
@@ -192,7 +192,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition — compliance mark**
 
 **6** No person shall affix or display on a means of containment a compliance mark that is required or permitted under the regulations — or another mark that is likely to be mistaken for such a mark — in respect of the manufacture, repair or testing of the means of containment, unless the manufacture, repair or testing was done in compliance with all safety requirements and safety standards applicable to that compliance mark.
-> 1992, c. 34, s. 6; 2009, c. 9, s. 6.
+> 1992, c. 34, s. 6; 2009, c. 9, s. 6
 
 
 
@@ -201,7 +201,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition — dangerous goods mark**
 
 **6.1** No person shall affix or display on dangerous goods, a means of containment or a means of transport a dangerous goods mark that is required or permitted under the regulations — or another mark that is likely to be mistaken for such a mark — if the mark is misleading as to the presence of danger or the nature of any danger.
-> 2009, c. 9, s. 6.
+> 2009, c. 9, s. 6
 
 
 
@@ -244,7 +244,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** the Minister has requested changes to the plan that the Minister believes on reasonable grounds are needed to make it effective in responding to such a release and the changes have not been made within a reasonable time or have been refused;
 	- **(d)** the Minister believes on reasonable grounds that there has been a release of dangerous goods to which the plan applies — or that such a release has been anticipated — and that the plan was not used to respond to the actual or anticipated release; or
 	- **(e)** a direction made in respect of the plan under paragraph 7.1(a) has not been complied with.
-> 1992, c. 34, s. 7; 1994, c. 26, s. 69; 2009, c. 9, s. 6.
+> 1992, c. 34, s. 7; 1994, c. 26, s. 69; 2009, c. 9, s. 6
 
 
 
@@ -255,7 +255,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **7.1** The Minister may, if the Minister believes that doing so is necessary for the protection of public safety,
 - **(a)** direct a person with an approved emergency response assistance plan to implement the plan, within a reasonable time as specified in the direction, in order to respond to an actual or anticipated release of dangerous goods to which the plan applies; or
 - **(b)** authorize a person with an approved emergency response assistance plan to implement the plan in order to respond to an actual or anticipated release of dangerous goods if the Minister does not know the identity of any person required under subsection 7(1) to have an emergency response assistance plan in respect of the release.
-> 2009, c. 9, s. 6.
+> 2009, c. 9, s. 6
 
 
 
@@ -270,7 +270,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Payment out of C.R.F.**
 
 - **(2)** The compensation shall be paid out of the Consolidated Revenue Fund.
-> 2009, c. 9, s. 6.
+> 2009, c. 9, s. 6
 
 
 
@@ -289,7 +289,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Contents**
 
 - **(2)** The plan shall, in accordance with the regulations, set out measures to prevent the dangerous goods from being stolen or otherwise unlawfully interfered with in the course of the importing, offering for transport, handling or transporting.
-> 2009, c. 9, s. 6.
+> 2009, c. 9, s. 6
 
 
 
@@ -302,7 +302,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Improper means of containment**
 
 **8** No person shall sell, offer for sale, deliver, distribute, import or use a standardized means of containment unless it displays all applicable safety marks in accordance with the regulations.
-> 1992, c. 34, s. 8; 2009, c. 9, s. 7.
+> 1992, c. 34, s. 8; 2009, c. 9, s. 7
 
 
 
@@ -323,7 +323,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** The Minister may direct a person who repaired or tested a standardized means of containment to issue a notice of defective repair or defective testing, as the case may be, to the person for whom it was repaired or tested, or to publish the notice in a manner such that the notice is likely to come to that person’s attention, if the Minister believes on reasonable grounds that the person who repaired or tested the standardized means of containment
 	- **(a)** failed to comply with an applicable safety requirement or safety standard; and
 	- **(b)** affixed to the standardized means of containment — or did not remove from it — the safety mark that indicates that the safety requirement or safety standard had been complied with.
-> 1992, c. 34, s. 9; 2009, c. 9, s. 8.
+> 1992, c. 34, s. 9; 2009, c. 9, s. 8
 
 
 
@@ -346,7 +346,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Certificate to be shown**
 
 - **(3)** On entering any place or inspecting anything, an inspector shall show the certificate to the person in charge of the place or thing if the person requests proof of the inspector’s designation.
-> 1992, c. 34, s. 10; 2009, c. 9, s. 10.
+> 1992, c. 34, s. 10; 2009, c. 9, s. 10
 
 
 
@@ -376,7 +376,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** fail to comply with any reasonable request of the qualified person;
 	- **(b)** knowingly make any false or misleading statement either orally or in writing to the qualified person; or
 	- **(c)** otherwise obstruct or hinder the qualified person.
-> 1992, c. 34, s. 13; 2009, c. 9, s. 12.
+> 1992, c. 34, s. 13; 2009, c. 9, s. 12
 
 
 
@@ -399,7 +399,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitation**
 
 - **(3)** This section does not apply to Her Majesty in right of Canada or a province or to the entities named in Schedules II and III to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
-> 1992, c. 34, s. 14; 2009, c. 9, s. 13.
+> 1992, c. 34, s. 14; 2009, c. 9, s. 13
 
 
 
@@ -432,7 +432,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Authorized person**
 
 - **(3)** An inspector may, in accordance with the regulations, authorize any qualified person to enter any place or means of transport that the inspector may enter under subsection (1) and to exercise any of the powers set out in subsection (2).
-> 1992, c. 34, s. 15; 2009, c. 9, s. 14.
+> 1992, c. 34, s. 15; 2009, c. 9, s. 14
 
 
 
@@ -455,7 +455,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Use of force**
 
 - **(3)** The inspector who executes the warrant shall not use force unless the inspector is accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
-> 1992, c. 34, s. 16; 2009, c. 9, s. 15(E).
+> 1992, c. 34, s. 16; 2009, c. 9, s. 15(E)
 
 
 
@@ -470,7 +470,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Effect of inspector’s certificate**
 
 - **(2)** The person to whom, or for whose benefit, the certificate is provided is not liable, either civilly or criminally, in respect of any act or omission of the inspector or authorized person in the course of the inspection of the thing or the taking of the reasonable quantity from it, but is not otherwise exempt from compliance with this Act and the regulations.
-> 2009, c. 9, s. 16.
+> 2009, c. 9, s. 16
 
 
 
@@ -495,7 +495,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Persons liable to direction**
 
 - **(4)** A direction may be issued under this section only to a person who, at the time of the non-compliance or at any time afterward, owns, imports or has the charge, management or control of the dangerous goods or means of containment.
-> 1992, c. 34, s. 17; 2009, c. 9, s. 17.
+> 1992, c. 34, s. 17; 2009, c. 9, s. 17
 
 
 
@@ -518,7 +518,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Loss or theft**
 
 - **(3)** If dangerous goods in excess of a quantity or concentration that is specified by regulation are lost or stolen during their handling or transporting, any person who had the charge, management or control of the goods immediately before the loss or theft shall report it to every person prescribed for the purposes of this subsection.
-> 1992, c. 34, s. 18; 2009, c. 9, s. 18.
+> 1992, c. 34, s. 18; 2009, c. 9, s. 18
 
 
 
@@ -544,7 +544,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 	- **(b)** who is required under section 7 to have an emergency response assistance plan that applies to the actual or anticipated release;
 	- **(c)** who is responding to the actual or anticipated release in accordance with an emergency response assistance plan approved under section 7; or
 	- **(d)** who causes or contributes to the occurrence of the actual or anticipated release.
-> 1992, c. 34, s. 19; 2009, c. 9, s. 19.
+> 1992, c. 34, s. 19; 2009, c. 9, s. 19
 
 
 
@@ -560,7 +560,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(a)** any person who responds to an actual or anticipated release using an emergency response assistance plan that applies to the release, acts in accordance with the plan and informs the Canadian Transport Emergency Centre of the Department of Transport of their response to the release;
 - **(b)** any person who is directed or required under paragraph 7.1(a), section 17, subsection 18(2) or paragraph 19(1)(a) or (b) to do or refrain from doing anything and acts in accordance with the direction or requirement; and
 - **(c)** any person who acts in accordance with an authorization given under paragraph 7.1(b).
-> 1992, c. 34, s. 20; 2009, c. 9, s. 19.
+> 1992, c. 34, s. 20; 2009, c. 9, s. 19
 
 
 
@@ -595,7 +595,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Copies of report**
 
 - **(6)** The Minister may supply copies of the report in any manner and on any terms that the Minister considers proper.
-> 1992, c. 34, s. 21; 2009, c. 9, s. 20.
+> 1992, c. 34, s. 21; 2009, c. 9, s. 20
 
 
 
@@ -638,7 +638,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Limitation period**
 
 - **(8)** Proceedings in respect of a claim under this section may be instituted no later than two years after the day the events in respect of which the proceedings are instituted occurred or became evident.
-> 1992, c. 34, s. 22; 2009, c. 9, s. 21(F); 2015, c. 4, s. 123.
+> 1992, c. 34, s. 22; 2009, c. 9, s. 21(F); 2015, c. 4, s. 123
 
 
 
@@ -657,7 +657,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Disclosure**
 
 - **(2)** A person who receives a notice shall disclose the requested information to the Minister within the time and in the manner specified in the notice.
-> 1992, c. 34, s. 23; 2009, c. 9, s. 22.
+> 1992, c. 34, s. 23; 2009, c. 9, s. 22
 
 
 
@@ -688,7 +688,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 	- **(a)** with the written consent of the person from whom the information was obtained under section 15 or who disclosed the information under section 23 or in a record of a communication referred to in paragraph (1)(b);
 	- **(b)** for the purposes of the administration or enforcement of this Act, in the case of information obtained under section 15 or disclosed under section 23; or
 	- **(c)** to an inspector for the purposes of emergency response analysis or training of inspectors, in the case of information obtained in a record of a communication referred to in paragraph (1)(b).
-> 1992, c. 34, s. 24; 1994, c. 26, s. 71(F); 2009, c. 9, s. 23.
+> 1992, c. 34, s. 24; 1994, c. 26, s. 71(F); 2009, c. 9, s. 23
 
 
 
@@ -703,7 +703,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **25** The Minister may
 - **(a)** conduct, alone or in cooperation with any government, agency, body or person, whether Canadian or not, programs of technical research and investigation into the development and improvement of safety marks, safety requirements, safety standards and regulations under this Act and coordinate the programs with similar programs undertaken in Canada; and
 - **(b)** have information relating to the programs or their results published and distributed in a form and manner that are most useful to the public, the Government of Canada and the governments of the provinces.
-> 1992, c. 34, s. 25; 2009, c. 9, s. 36(F).
+> 1992, c. 34, s. 25; 2009, c. 9, s. 36(F)
 
 
 
@@ -721,7 +721,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Membership**
 
 - **(2)** The Minister may determine the membership of any advisory council after any consultation that the Minister considers appropriate with the representatives of the transportation and related industries, the governments of the provinces, other interested persons and bodies and the public.
-> 1992, c. 34, s. 26; 2009, c. 9, s. 36(F).
+> 1992, c. 34, s. 26; 2009, c. 9, s. 36(F)
 
 
 
@@ -771,7 +771,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 	- **(a)** the International Maritime Dangerous Goods Code published by the International Maritime Organization;
 	- **(b)** the Technical Instructions for the Safe Transport of Dangerous Goods by Air published by the International Civil Aviation Organization; and
 	- **(c)** Title 49 of the Code of Federal Regulations of the United States.
-> 1992, c. 34, s. 27; 2009, c. 9, s. 25.
+> 1992, c. 34, s. 27; 2009, c. 9, s. 25
 
 
 
@@ -797,7 +797,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **References in regulations**
 
 - **(2)** The regulations may refer to any document, in whole or in part, as it exists when the regulations are made.
-> 2009, c. 9, s. 26.
+> 2009, c. 9, s. 26
 
 
 
@@ -822,7 +822,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Suspension of s. 27.5(1) and repeal of security measure**
 
 - **(4)** If the Minister is of the opinion that the disclosure of the particular matter that is the subject of a security measure would no longer compromise the security of the importing, offering for transport, handling or transporting of dangerous goods or endanger public safety, the Minister shall
-	- **(a)** within 23 days after the day on which the Minister forms that opinion, publish in the Canada Gazette a notice that sets out the substance of the security measure and states that subsection 27.5(1) no longer applies in respect of the security measure; and
+	- **(a)** within 23 days after the day on which the Minister forms that opinion, publish in the [Canada Gazette](http://www.gazette.gc.ca/) a notice that sets out the substance of the security measure and states that subsection 27.5(1) no longer applies in respect of the security measure; and
 	- **(b)** repeal the security measure before the earlier of
 		- **(i)** the day that is one year after the day on which the notice is published, and
 		- **(ii)** the day on which a regulation is made under subsection 27.1(1) in respect of the matter dealt with by the security measure.
@@ -838,7 +838,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Exception**
 
 - **(7)** Subsection (6) does not apply if, in the opinion of the Minister, the security measure is immediately required for the security of the importing, offering for transport, handling or transporting of dangerous goods or for public safety.
-> 2009, c. 9, s. 26.
+> 2009, c. 9, s. 26
 
 
 
@@ -853,7 +853,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Duration**
 
 - **(2)** The security measure comes into force immediately when it is made but ceases to have force 90 days after the day on which it is made unless the Minister or his or her deputy repeals it earlier.
-> 2009, c. 9, s. 26; 2015, c. 3, s. 156(F).
+> 2009, c. 9, s. 26; 2015, c. 3, s. 156(F)
 
 
 
@@ -868,7 +868,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Conflict**
 
 - **(2)** If there is a conflict between a regulation under subsection 27.1(1) and a security measure, the security measure prevails to the extent of the conflict.
-> 2009, c. 9, s. 26.
+> 2009, c. 9, s. 26
 
 
 
@@ -887,7 +887,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Order**
 
 - **(3)** If the court or other body concludes in the circumstances of the case that the public interest in the proper administration of justice outweighs in importance the public interest in the security of the importing, offering for transport, handling or transporting of dangerous goods, the court or other body shall order the production or discovery of the security measure, subject to any restrictions or conditions that it considers appropriate, and may require any person to give evidence that relates to the security measure.
-> 2009, c. 9, s. 26.
+> 2009, c. 9, s. 26
 
 
 
@@ -913,7 +913,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Publication**
 
-- **(4)** An interim order shall be published in the Canada Gazette within 23 days after the day on which it is made.
+- **(4)** An interim order shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) within 23 days after the day on which it is made.
 
 **Tabling of order**
 
@@ -922,7 +922,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **House not sitting**
 
 - **(6)** In order to comply with subsection (5), the interim order may be sent to the Clerk of the House if the House is not sitting.
-> 2009, c. 9, s. 26.
+> 2009, c. 9, s. 26
 
 
 
@@ -936,12 +936,12 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Precondition for contravention**
 
-- **(2)** No person shall be found to have contravened any security measure, or any interim order that has not been published in the Canada Gazette under subsection 27.6(4) at the time of the alleged contravention, unless it is proved that, at the time of the alleged contravention, the person had been notified of the security measure or interim order or reasonable steps had been taken to bring its purport to the notice of those persons likely to be affected by it.
+- **(2)** No person shall be found to have contravened any security measure, or any interim order that has not been published in the [Canada Gazette](http://www.gazette.gc.ca/) under subsection 27.6(4) at the time of the alleged contravention, unless it is proved that, at the time of the alleged contravention, the person had been notified of the security measure or interim order or reasonable steps had been taken to bring its purport to the notice of those persons likely to be affected by it.
 
 **Certificate**
 
 - **(3)** A certificate purporting to be signed by the Minister or the Secretary of the Department of Transport and stating that a notice containing the security measure or interim order was given to persons likely to be affected by it or that reasonable steps had been taken to bring its purport to their notice is, in the absence of evidence to the contrary, proof that notice was given to those persons.
-> 2009, c. 9, s. 26.
+> 2009, c. 9, s. 26
 
 
 
@@ -962,7 +962,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Limitation**
 
 - **(2)** Her Majesty in right of Canada or a province and the entities named in Schedules II and III to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) are not liable to pay the fees or charges.
-> 1992, c. 34, s. 29; 2009, c. 9, s. 28.
+> 1992, c. 34, s. 29; 2009, c. 9, s. 28
 
 
 
@@ -978,7 +978,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Review of regulations — Senate**
 
 - **(4)** The Standing Senate Committee on Transport and Communications or, if there is not a Standing Senate Committee on Transport and Communications, the appropriate committee of the Senate may review any regulations made under this Act, either on its own initiative or on receiving a written complaint regarding a specific safety concern. The committee may hold public hearings and may table its report on its review in the Senate.
-> 1992, c. 34, s. 30; 2009, c. 9, s. 29; 2014, c. 20, s. 232.
+> 1992, c. 34, s. 30; 2009, c. 9, s. 29; 2014, c. 20, s. 232
 
 
 
@@ -1021,7 +1021,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Revocation of certificate**
 
 - **(6)** The Minister may revoke an equivalency, emergency or temporary certificate — including an emergency or temporary certificate the contents of which have been issued orally — if the Minister is no longer satisfied of the matter described in subsection (1), (2) or (2.1), respectively, or the regulations have been amended and have the same effect as the certificate.
-> 1992, c. 34, s. 31; 1994, c. 26, s. 72(F); 2009, c. 9, s. 30.
+> 1992, c. 34, s. 31; 1994, c. 26, s. 72(F); 2009, c. 9, s. 30
 
 
 
@@ -1040,7 +1040,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Revocation of protective direction**
 
 - **(3)** The Minister may suspend or revoke the direction if the Minister is satisfied that it is no longer needed.
-> 1992, c. 34, s. 32; 1994, c. 26, s. 73; 2009, c. 9, s. 30.
+> 1992, c. 34, s. 32; 1994, c. 26, s. 73; 2009, c. 9, s. 30
 
 
 
@@ -1070,7 +1070,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Exemption from [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(3)** For greater certainty, a direction referred to in paragraph (1)(b) is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), but no person shall be convicted of an offence under paragraph (1)(b) unless the person was notified of the direction and, if any applicable regulations have been made under paragraph 27(1)(t), the notification was in accordance with the regulations.
-> 1992, c. 34, s. 33; 2009, c. 9, s. 30.
+> 1992, c. 34, s. 33; 2009, c. 9, s. 30
 
 
 
@@ -1099,7 +1099,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 - **(4)** If the person contravenes or fails to comply with the order, the person is guilty of
 	- **(a)** an offence punishable on summary conviction and liable to a fine not exceeding fifty thousand dollars for a first offence, and not exceeding one hundred thousand dollars for each subsequent offence; or
 	- **(b)** an indictable offence and liable to imprisonment for a term not exceeding two years.
-> 1992, c. 34, s. 34; 2009, c. 9, s. 31.
+> 1992, c. 34, s. 34; 2009, c. 9, s. 31
 
 
 
@@ -1108,7 +1108,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Limitation period for summary conviction offences**
 
 **35** Proceedings by way of summary conviction may be instituted at any time within, but not later than, five years after the day on which the subject matter of the proceedings arose.
-> 1992, c. 34, s. 35; 2009, c. 9, s. 32.
+> 1992, c. 34, s. 35; 2009, c. 9, s. 32
 
 
 
@@ -1131,7 +1131,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Offences by employee, agent or mandatary**
 
 **38** In any prosecution for an offence, it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or has been prosecuted for the offence.
-> 1992, c. 34, s. 38; 2009, c. 9, s. 33(E).
+> 1992, c. 34, s. 38; 2009, c. 9, s. 33(E)
 
 
 
@@ -1140,7 +1140,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Representative of organization**
 
 **39** If an organization commits an offence, a representative who plays an important role in the establishment of the organization’s policies or is responsible for managing an important aspect of the organization’s activities — and, in the case of a corporation, an officer, director, agent or mandatary — who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the organization has been prosecuted for the offence.
-> 1992, c. 34, s. 39; 2009, c. 9, s. 34.
+> 1992, c. 34, s. 39; 2009, c. 9, s. 34
 
 
 
@@ -1177,7 +1177,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Prima facie proof**
 
 **42** In any prosecution for an offence, evidence that a means of containment or transport bore a dangerous goods mark — or another mark that is likely to be mistaken for a dangerous goods mark — or was accompanied by a shipping record is, in the absence of evidence to the contrary, proof of the presence and identification of dangerous goods indicated by the dangerous goods mark or other mark or the shipping record.
-> 1992, c. 34, s. 42; 2009, c. 9, s. 35.
+> 1992, c. 34, s. 42; 2009, c. 9, s. 35
 
 
 
@@ -1236,6 +1236,31 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Class 9 —** Miscellaneous products, substances or organisms considered by the Governor in Council to be dangerous to life, health, property or the environment when handled, offered for transport or transported and prescribed to be included in this class
 
 
-> 1992, c. 34, Sch.; 1997, c. 9, s. 123.
+> 1992, c. 34, Sch.; 1997, c. 9, s. 123
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2009, c. 9, s. 5
+
+**5** The Act is amended by adding the following after section 5.1:
+
+### Transportation Security Clearances
+
+
+**Prohibition**
+
+**5.2** 
+
+- **(1)** No prescribed person shall import, offer for transport, handle or transport dangerous goods in a quantity or concentration that is specified by regulation — or that is within a range of quantities or concentrations that is specified by regulation — unless the person has a transportation security clearance granted under subsection (2).
+
+**Granting, suspending, etc.**
+
+- **(2)** The Minister may, for the purposes of this Act, grant or refuse to grant a transportation security clearance to any person or suspend or revoke such a clearance.
+
+
+
 
 
