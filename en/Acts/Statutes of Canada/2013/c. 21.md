@@ -145,7 +145,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 	- **(o)** subject to paragraphs 11(1)(a), (2)(a) and (3)(a) and section 12, set limits on the liability of any person or body exercising a power or performing a duty under the regulations, and establish defences and immunities for such a person or body;
 	- **(p)** require permits to be obtained as a condition of engaging in any activity on First Nation lands that could affect the quality of drinking water, or as a condition of engaging in any activity governed by the regulations, specify the terms and conditions of those permits and provide for their issuance, suspension and cancellation;
 	- **(q)** deem a First Nation or any person or body, for the purposes of this Act, to be the owner of a drinking water system or waste water system of a prescribed class, and prescribe classes of drinking water systems and waste water systems for that purpose; and
-	- **(r)** require that an assessment of the environmental effects of drinking water systems or waste water systems be undertaken in circumstances where the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply, and establish a procedure to be followed in such assessments.
+	- **(r)** require that an assessment of the environmental effects of drinking water systems or waste water systems be undertaken in circumstances where the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) does not apply, and establish a procedure to be followed in such assessments.
 
 **Offences under provincial law**
 
@@ -164,7 +164,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(5)** Section 4 does not authorize the making of regulations respecting
 	- **(a)** the allocation of water supplies; or
 	- **(b)** the issuance of permits for the use of water for any purpose other than the provision of drinking water.
-> 2013, c. 21, s. 5; 2012, c. 19, s. 65
+> 2013, c. 21, s. 5; 2012, c. 19, s. 652019, c. 28, s. 188
 
 
 
