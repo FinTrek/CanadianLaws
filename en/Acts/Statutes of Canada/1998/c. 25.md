@@ -203,7 +203,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(g)** the Mackenzie Valley Land and Water Board;
 	- **(h)** a responsible minister, as defined in section 111;
 	- **(i)** the Mackenzie Valley Environmental Impact Review Board or one of its panels;
-	- **(j)** a joint panel established under subsection 140(2) or paragraph 141(2)(b) or (3)(a) or a review panel referred to in subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md); and
+	- **(j)** a joint panel established under subsection 140(2) or paragraph 141(2)(b) or (3)(a) or a review panel referred to in subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md); and
 	- **(k)** a designated regulatory agency, as defined in section 111.
 
 **Exception**
@@ -215,7 +215,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 - **(3)** The Governor in Council may, by regulation, exempt a period or time limit set out in the regulations, other than those referred to in paragraph 2(a), from the application of subsection (1).
-> 2014, c. 2, s. 115
+> 2014, c. 2, s. 1152019, c. 28, s. 164
 
 
 
@@ -3500,12 +3500,12 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-**[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)**
+**[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)**
 
-**116** The [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply in the Mackenzie Valley in respect of proposals for developments other than
+**116** The [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) does not apply in the Mackenzie Valley in respect of proposals for developments other than
 - **(a)** proposals referred to the Minister of the Environment pursuant to paragraph 130(1)(c), to the extent provided by that Act; or
 - **(b)** proposals that are the subject of agreements referred to in paragraph 141(2)(a) or (3)(b), to the extent provided by such agreements.
-> 1998, c. 25, s. 116; 2005, c. 1, s. 69; 2014, c. 2, s. 202
+> 1998, c. 25, s. 116; 2005, c. 1, s. 69; 2014, c. 2, s. 2022019, c. 28, s. 188
 
 
 
@@ -3839,7 +3839,7 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(b)** where a recommendation is made under subparagraph 128(1)(b)(ii) or paragraph 128(1)(d),
 		- **(i)** to adopt the recommendation or refer it back to the Review Board for further consideration, or
 		- **(ii)** after consulting the Review Board, to adopt the recommendation with modifications or reject it and order an environmental impact review of the proposal; or
-	- **(c)** irrespective of the determination in the report, to refer the proposal to the Minister of the Environment, following consultation with that Minister, for the purpose of a joint review under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), if the federal Minister and the responsible ministers determine that it is in the national interest to do so.
+	- **(c)** irrespective of the determination in the report, to refer the proposal to the Minister of the Environment, following consultation with that Minister, for the purpose of a joint review under the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md), if the federal Minister and the responsible ministers determine that it is in the national interest to do so.
 
 **Consultation**
 
@@ -3903,7 +3903,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Effect of decision**
 
 - **(5)** The federal Minister and responsible ministers shall carry out a decision made under this section to the extent of their respective authorities. A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision made under this section shall act in conformity with the decision to the extent of their respective authorities.
-> 1998, c. 25, s. 130; 2005, c. 1, s. 80; 2014, c. 2, s. 208
+> 1998, c. 25, s. 130; 2005, c. 1, s. 80; 2014, c. 2, s. 2082019, c. 28, s. 188
 
 
 
@@ -4239,8 +4239,8 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Consultation**
 
-**137.3** Before making a decision under subsection 135(1), 137(1) or 137.1(1) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley, the person or body making the decision shall take into consideration any report in respect of the proposal that is submitted by a review panel established under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) and shall consult every responsible authority to whom the report is submitted under that Act.
-> 2005, c. 1, s. 86; 2014, c. 2, s. 217
+**137.3** Before making a decision under subsection 135(1), 137(1) or 137.1(1) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley, the person or body making the decision shall take into consideration any report in respect of the proposal that is submitted by a review panel established under the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) and shall consult the Impact Assessment Agency of Canada.
+> 2005, c. 1, s. 86; 2014, c. 2, s. 2172019, c. 28, s. 165
 
 
 
@@ -4254,7 +4254,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **138** 
 
-- **(1)** Within 15 months after the day on which a review panel, that is the subject of an agreement entered into under subsection (3) or 138.1(1), is established under subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) in respect of a proposal for a development that was referred under paragraph 130(1)(c) of this Act shall, in addition to satisfying the requirements of paragraph 43(1)(e) of that Act, submit the report of its recommendations to
+- **(1)** Within 15 months after the day on which a review panel that is the subject of an agreement entered into under subsection (3) or 138.1(1) is established under subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) in respect of a proposal for a development that was referred under paragraph 130(1)(c) of this Act, the review panel shall, in addition to satisfying the requirements of paragraph 51(1)(e) of that Act, submit the report of its recommendations to
 	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
 	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
 	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
@@ -4277,7 +4277,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Referral — paragraph 130(1)(c)**
 
-- **(3)** If a proposal for a development, other than a proposal to which section 138.1 applies, is referred to the Minister of the Environment under paragraph 130(1)(c), the Review Board shall, within three months after the day on which the proposal was referred to that Minister, enter into an agreement with him or her for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
+- **(3)** If a proposal for a development, other than a proposal to which section 138.1 applies, is referred to the Minister of the Environment under paragraph 130(1)(c), the Review Board shall, within three months after the day on which the proposal was referred to that Minister, enter into an agreement with him or her for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md).
 
 **Extension of time limit by federal Minister**
 
@@ -4290,7 +4290,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Excluded period**
 
 - **(6)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Review Board’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (3) or of its extension.
-> 1998, c. 25, s. 138; 2005, c. 1, s. 87; 2014, c. 2, s. 219
+> 1998, c. 25, s. 138; 2005, c. 1, s. 87; 2014, c. 2, s. 2192019, c. 28, s. 166
 
 
 
@@ -4300,7 +4300,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **138.1** 
 
-- **(1)** If a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii is referred to the Minister of the Environment under paragraph 130(1)(c), then the Review Board shall enter into an agreement with the Minister of the Environment for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
+- **(1)** If a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii is referred to the Minister of the Environment under paragraph 130(1)(c), then the Review Board shall enter into an agreement with the Minister of the Environment for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md).
 
 **Mediation**
 
@@ -4313,7 +4313,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Where no agreement**
 
 - **(4)** Despite subsections (1) to (3), if, within the period fixed by the regulations, an agreement has not been entered into under this section, a panel of the Review Board shall conduct an environmental impact review of the development, but the review shall be limited to the part of the development to be carried out in the Mackenzie Valley.
-> 2005, c. 1, s. 87; 2014, c. 2, s. 220
+> 2005, c. 1, s. 87; 2014, c. 2, s. 2202019, c. 28, s. 167
 
 
 
@@ -4398,7 +4398,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Agreement — cases other than Wekeezhii**
 
 - **(2)** If an environmental impact review is ordered under subparagraph 128(1)(b)(i), paragraph 128(1)(c) or 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b) in respect of a proposal for a development referred to in subsection (1), other than a development referred to in subsection (3), the Review Board may, with the approval of the federal Minister,
-	- **(a)** enter into an agreement with the Minister of the Environment in accordance with subsection 40(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) to provide for an examination by a review panel, if that Act applies in respect of the development in the region or province referred to in subsection (1); and
+	- **(a)** enter into an agreement with the Minister of the Environment in accordance with subsection 39(1) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) to provide for an examination by a review panel, if that Act applies in respect of the development in the region or province referred to in subsection (1); and
 	- **(b)** in any other case, enter into an agreement with an authority responsible for the examination of environmental effects of such developments in that region or province to provide for the coordination of their respective examinations of the environmental impact of the development or to provide for the examination of that impact by a joint panel established for that purpose.
 
 **Time limit**
@@ -4427,7 +4427,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(3)** If an environmental impact review is ordered under subparagraph 128(1)(b)(i), paragraph 128(1)(c) or 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii, the Review Board shall enter into an agreement for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the impact on the environment of the development
 	- **(a)** with an authority responsible for the examination of environmental effects of the part of the development that is to be carried out outside the Mackenzie Valley; or
-	- **(b)** with the Minister of the Environment if that Minister is authorized under subsection 40(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) to enter into such an agreement.
+	- **(b)** with the Minister of the Environment if that Minister is authorized under subsection 39(1) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) to enter into such an agreement.
 
 **Where no agreement**
 
@@ -4456,7 +4456,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Provisions applicable**
 
 - **(6)** An examination by a review panel or joint panel referred to in subsection (2) or (3) stands in lieu of an environmental impact review of the proposal referred to in that subsection and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
-> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E); 2005, c. 1, s. 89; 2014, c. 2, s. 223
+> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E); 2005, c. 1, s. 89; 2014, c. 2, s. 2232019, c. 28, s. 168
 
 
 
@@ -4597,8 +4597,8 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Exemptions**
 
-- **(3)** No development is to be exempted for a reason set out in paragraph 124(1)(b) if it is a designated project or belongs to a class of designated projects, within the meaning of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), by virtue of regulations made under paragraph 84(a) of that Act.
-> 1998, c. 25, s. 143; 2005, c. 1, s. 90; 2014, c. 2, s. 2262019, c. 19, s. 32
+- **(3)** No development is to be exempted for a reason set out in paragraph 124(1)(b) if it is a designated project or belongs to a class of designated projects, within the meaning of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md), by virtue of regulations made under paragraph 109(1)(b) of that Act.
+> 1998, c. 25, s. 143; 2005, c. 1, s. 90; 2014, c. 2, s. 2262019, c. 19, s. 322019, c. 28, s. 169
 
 
 
@@ -5297,10 +5297,10 @@ before the expiration of ten days after receiving the report of the Review Board
 **(Sections 111 and 144)**
 ## Designated Regulatory Agencies
 
-Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
 
-National Energy Board<br />- <i>Office national de l’énergie</i>
-> 1998, c. 25, Sch.; 2014, c. 2, s. 237
+Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
+> 1998, c. 25, Sch.; 2014, c. 2, s. 2372019, c. 28, s. 1702019, c. 28, s. 171
 
 
 
@@ -6044,158 +6044,6 @@ National Energy Board<br />- <i>Office national de l’énergie</i>
 - **(4)** No document referred to in this section is to be received in evidence unless the party intending to produce it has provided reasonable notice of that intention to the party against whom it is intended to be produced together with a copy of the document.
 
 
-
-
-
-######           — 2019, c. 28, s. 164
-
-
-**
-> 2014, c. 2, s. 115(1)
-**
-
-**164** Paragraph 5.2(1)(j) of the Mackenzie Valley Resource Management Act is replaced by the following:
-
-- **(j)** a joint panel established under subsection 140(2) or paragraph 141(2)(b) or (3)(a) or a review panel referred to in subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md); and
-
-
-
-
-
-######           — 2019, c. 28, s. 165
-
-
-**
-> 2014, c. 2, s. 217
-**
-
-**165** Section 137.3 of the Act is replaced by the following:
-
-**Consultation**
-
-**137.3** Before making a decision under subsection 135(1), 137(1) or 137.1(1) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley, the person or body making the decision shall take into consideration any report in respect of the proposal that is submitted by a review panel established under the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) and shall consult the Impact Assessment Agency of Canada.
-
-
-
-
-
-######           — 2019, c. 28, s. 166
-
-
-**
-> 2014, c. 2, s. 219(1)
-**
-
-**166** 
-
-- **(1)** The portion of subsection 138(1) of the Act before paragraph (a) is replaced by the following:
-
-**Report by review panel — national interest referral**
-
-**138** 
-
-- **(1)** Within 15 months after the day on which a review panel that is the subject of an agreement entered into under subsection (3) or 138.1(1) is established under subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) in respect of a proposal for a development that was referred under paragraph 130(1)(c) of this Act, the review panel shall, in addition to satisfying the requirements of paragraph 51(1)(e) of that Act, submit the report of its recommendations to
-
-
-
-**
-> 2014, c. 2, s. 219(4)
-**
-
-- **(2)** Subsection 138(3) of the Act is replaced by the following:
-
-**Referral — paragraph 130(1)(c)**
-
-- **(3)** If a proposal for a development, other than a proposal to which section 138.1 applies, is referred to the Minister of the Environment under paragraph 130(1)(c), the Review Board shall, within three months after the day on which the proposal was referred to that Minister, enter into an agreement with him or her for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md).
-
-
-
-######           — 2019, c. 28, s. 167
-
-
-**
-> 2014, c. 2, s. 220
-**
-
-**167** Subsection 138.1(1) of the Act is replaced by the following:
-
-**Agreement — national interest referral**
-
-**138.1** 
-
-- **(1)** If a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii is referred to the Minister of the Environment under paragraph 130(1)(c), then the Review Board shall enter into an agreement with the Minister of the Environment for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 40(2) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md).
-
-
-
-
-
-######           — 2019, c. 28, s. 168
-
-
-**
-> 2014, c. 2, s. 223(1)
-**
-
-**168** 
-
-- **(1)** Paragraph 141(2)(a) of the Act is replaced by the following:
-
-- **(a)** enter into an agreement with the Minister of the Environment in accordance with subsection 39(1) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) to provide for an examination by a review panel, if that Act applies in respect of the development in the region or province referred to in subsection (1); and
-
-
-
-**
-> 2014, c. 2, s. 223(3)
-**
-
-- **(2)** Paragraph 141(3)(b) of the Act is replaced by the following:
-
-- **(b)** with the Minister of the Environment if that Minister is authorized under subsection 39(1) of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) to enter into such an agreement.
-
-
-
-
-
-######           — 2019, c. 28, s. 169
-
-
-**
-> 2014, c. 2, s. 226(4)
-**
-
-**169** Subsection 143(3) of the Act is replaced by the following:
-
-**Exemptions**
-
-- **(3)** No development is to be exempted for a reason set out in paragraph 124(1)(b) if it is a designated project or belongs to a class of designated projects, within the meaning of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md), by virtue of regulations made under paragraph 109(1)(b) of that Act.
-
-
-
-######           — 2019, c. 28, s. 170
-
-**170** The schedule to the Act is amended by striking out the following:
-
-National Energy Board<br />- <i>Office national de l’énergie</i>
-
-
-
-######           — 2019, c. 28, s. 171
-
-**171** The schedule to the Act is amended by adding the following, in alphabetical order:
-
-Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
-
-
-
-######           — 2019, c. 28, par. 188(a)
-
-
-**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
-
-**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
-- **(a)** in the Mackenzie Valley Resource Management Act:
-	- **(i)** section 116, and
-	- **(ii)** paragraph 130(1)(c);
 
 
 
