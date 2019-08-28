@@ -99,7 +99,7 @@ carrying out the duties and functions of a coroner; (*coroner*)
 - **(b)** a dynamically supported craft; (*navire*)
 
 ***transportation occurrence*** means an aviation occurrence, a railway occurrence, a marine occurrence or a pipeline occurrence. (*accident de transport*)
-> 1989, c. 3, s. 2; 1998, c. 20, ss. 1, 24(F), 25(E).
+> 1989, c. 3, s. 2; 1998, c. 20, ss. 1, 24(F), 25(E)
 
 
 
@@ -148,7 +148,7 @@ carrying out the duties and functions of a coroner; (*coroner*)
 **Act binding on Her Majesty**
 
 - **(7)** This Act is binding on Her Majesty in right of Canada or a province.
-> 1989, c. 3, s. 3; 1996, c. 31, s. 64; 1998, c. 20, ss. 2, 24, 25(E).
+> 1989, c. 3, s. 3; 1996, c. 31, s. 64; 1998, c. 20, ss. 2, 24, 25(E)
 
 
 
@@ -195,7 +195,7 @@ carrying out the duties and functions of a coroner; (*coroner*)
 **Compensation**
 
 - **(9)** The members are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 1989, c. 3, s. 4; 1998, c. 20, ss. 3, 24; 2003, c. 22, ss. 224(E), 225(E).
+> 1989, c. 3, s. 4; 1998, c. 20, ss. 3, 24; 2003, c. 22, ss. 224(E), 225(E)
 
 
 
@@ -229,7 +229,7 @@ carrying out the duties and functions of a coroner; (*coroner*)
 **Absence or incapacity of Chairperson**
 
 - **(5)** In the event of the absence or incapacity of the Chairperson, or if the office of Chairperson is vacant, a member designated, either before or after that absence, incapacity or vacancy, by the Governor in Council shall act as Chairperson during the continuance of that absence or incapacity or until a new Chairperson is designated.
-> 1989, c. 3, s. 5; 1998, c. 20, s. 4(E).
+> 1989, c. 3, s. 5; 1998, c. 20, s. 4(E)
 
 
 
@@ -254,7 +254,7 @@ and in this subsection, ***transportation*** means air, marine, rail or pipeline
 	- **(a)** accept or hold any office or employment, or
 	- **(b)** carry on any activity
 inconsistent with the performance of the member’s duties under this Act.
-> 1989, c. 3, s. 6; 1998, c. 20, s. 24.
+> 1989, c. 3, s. 6; 1998, c. 20, s. 24
 
 
 
@@ -281,7 +281,7 @@ inconsistent with the performance of the member’s duties under this Act.
 **Findings not binding**
 
 - **(4)** The findings of the Board are not binding on the parties to any legal, disciplinary or other proceedings.
-> 1989, c. 3, s. 7; 1998, c. 20, s. 5.
+> 1989, c. 3, s. 7; 1998, c. 20, s. 5
 
 
 
@@ -303,7 +303,7 @@ inconsistent with the performance of the member’s duties under this Act.
 **Policies to be available to public**
 
 - **(2)** The Board shall make available to the public any policies established pursuant to paragraph (1)(b) or (c).
-> 1989, c. 3, s. 8; 1998, c. 20, s. 6.
+> 1989, c. 3, s. 8; 1998, c. 20, s. 6
 
 
 
@@ -343,7 +343,7 @@ inconsistent with the performance of the member’s duties under this Act.
 **Certificates of appointment**
 
 - **(4)** The Chairperson shall provide each person mentioned in paragraphs (1)(a) and (b) with a certificate of appointment.
-> 1989, c. 3, s. 10; 1998, c. 20, ss. 7, 25(E).
+> 1989, c. 3, s. 10; 1998, c. 20, ss. 7, 25(E)
 
 
 
@@ -377,7 +377,7 @@ inconsistent with the performance of the member’s duties under this Act.
 - **(1)** The Chairperson shall convene meetings of the Board whenever the work of the Board so requires or whenever the Chairperson is requested in writing to do so by two or more other members, and the Chairperson shall preside at the meetings.
 
 - **(2)** [Repealed, 1998, c. 20, s. 8]
-> 1989, c. 3, s. 12; 1998, c. 20, s. 8.
+> 1989, c. 3, s. 12; 1998, c. 20, s. 8
 
 
 
@@ -404,7 +404,7 @@ inconsistent with the performance of the member’s duties under this Act.
 **Reference to committee**
 
 - **(4)** The report laid before Parliament pursuant to subsection (3) stands permanently referred to any committee of Parliament established to review matters relating to transportation.
-> 1989, c. 3, s. 13; 1998, c. 20, s. 9; 2012, c. 19, s. 180.
+> 1989, c. 3, s. 13; 1998, c. 20, s. 9; 2012, c. 19, s. 180
 
 
 
@@ -441,7 +441,7 @@ inconsistent with the performance of the member’s duties under this Act.
 **Where Board does not investigate**
 
 - **(5)** For greater certainty, where the Board does not investigate a transportation occurrence, no department is prevented from investigating any aspect of the transportation occurrence that it is empowered to investigate.
-> 1989, c. 3, s. 14; 1993, c. 28, s. 78; 1998, c. 20, s. 10; 2002, c. 7, s. 130.
+> 1989, c. 3, s. 14; 1993, c. 28, s. 78; 1998, c. 20, s. 10; 2002, c. 7, s. 130
 
 
 
@@ -473,7 +473,7 @@ inconsistent with the performance of the member’s duties under this Act.
 **Limitation**
 
 - **(2)** Under an agreement with a province, the Board shall only exercise powers and functions compatible with section 7 and all other provisions of this Act.
-> 1998, c. 20, s. 11.
+> 1998, c. 20, s. 11
 
 
 
@@ -485,7 +485,7 @@ inconsistent with the performance of the member’s duties under this Act.
 - **(a)** any international agreements or conventions to which Canada is a party, and
 - **(b)** investigation procedures and practices followed by coroners in the provinces and by regulatory bodies established to administer petroleum activities in offshore areas,
 and the Board shall make all reasonable efforts to enter into agreements with the governments of the provinces and with those regulatory bodies in order to ensure that the procedures and practices followed by the Board are as compatible as possible with those followed by coroners in the provinces and by those regulatory bodies.
-> 1989, c. 3, s. 16; 1998, c. 20, s. 12.
+> 1989, c. 3, s. 16; 1998, c. 20, s. 12
 
 
 
@@ -538,7 +538,7 @@ that is operated by or on behalf of the Department of National Defence, the Cana
 **Investigations to be coordinated**
 
 - **(4)** If a transportation occurrence referred to in subsection (3) is being investigated by the Board and by the Department of National Defence, the Canadian Forces or a visiting force, the Board and either the Minister of National Defence or the Authority designated under section 12 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) shall take all reasonable measures to ensure that the investigations are coordinated.
-> 1989, c. 3, s. 18; 1998, c. 20, s. 24; 2014, c. 29, s. 23.
+> 1989, c. 3, s. 18; 1998, c. 20, s. 24; 2014, c. 29, s. 23
 
 
 
@@ -638,7 +638,7 @@ that is operated by or on behalf of the Department of National Defence, the Cana
 ***place*** includes
 - **(a)** an aircraft, a ship, rolling stock, any other vessel or vehicle and a pipeline, and
 - **(b)** any premises or any building or other structure erected on those premises. (*lieu*)
-> 1989, c. 3, s. 19; 1998, c. 20, ss. 13, 24.
+> 1989, c. 3, s. 19; 1998, c. 20, ss. 13, 24
 
 
 
@@ -723,7 +723,7 @@ be returned to that owner or person, or to the person from whom it was seized, a
 **Board may remove observer**
 
 - **(3)** The Board may remove an observer from an investigation if the observer contravenes a condition imposed by the Board on the observer’s presence or if, in the Board’s opinion, the observer has a conflict of interest that impedes the conduct of the investigation.
-> 1989, c. 3, s. 23; 1998, c. 20, s. 14.
+> 1989, c. 3, s. 23; 1998, c. 20, s. 14
 
 
 
@@ -787,7 +787,7 @@ and, in either case, the Minister shall make that reply available to the public.
 **Extension of time**
 
 - **(8)** Where the Board is satisfied that a Minister is unable to reply to the Board within the period referred to in subsection (6), the period may be extended as the Board deems necessary.
-> 1989, c. 3, s. 24; 1998, c. 20, s. 15.
+> 1989, c. 3, s. 24; 1998, c. 20, s. 15
 
 
 
@@ -804,7 +804,7 @@ and, in either case, the Minister shall make that reply available to the public.
 **Interim report to be used for limited purpose only**
 
 - **(2)** A person, other than a Minister, who is provided with an interim report under subsection (1) shall not use the report, or permit its use, for any purpose not strictly necessary to the examination of the report.
-> 1989, c. 3, s. 25; 1998, c. 20, s. 16.
+> 1989, c. 3, s. 25; 1998, c. 20, s. 16
 
 
 
@@ -891,7 +891,7 @@ that is made, using recording equipment that is intended to not be controlled by
 **Definition of court**
 
 - **(8)** For the purposes of subsection (6), ***court*** includes a person or persons appointed or designated to conduct a public inquiry into a transportation occurrence pursuant to this Act or the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
-> 1989, c. 3, s. 28; 1998, c. 20, s. 17.
+> 1989, c. 3, s. 28; 1998, c. 20, s. 17
 
 
 
@@ -915,7 +915,7 @@ that is made, using recording equipment that is intended to not be controlled by
 **Use prohibited**
 
 - **(6)** A communication record obtained under this Act shall not be used against any person referred to in subsection (1) in any legal proceedings or, subject to any applicable collective agreement, in any disciplinary proceedings.
-> 1989, c. 3, s. 29; 1998, c. 10, s. 167, c. 20, s. 18.
+> 1989, c. 3, s. 29; 1998, c. 10, s. 167, c. 20, s. 18
 
 
 
@@ -960,7 +960,7 @@ that is made, using recording equipment that is intended to not be controlled by
 **Use prohibited**
 
 - **(7)** A statement shall not be used against the person who made it in any legal or other proceedings except in a prosecution for perjury or for giving contradictory evidence or a prosecution under section 35.
-> 1989, c. 3, s. 30; 1998, c. 20, s. 19.
+> 1989, c. 3, s. 30; 1998, c. 20, s. 19
 
 
 
@@ -1000,7 +1000,7 @@ that is made, using recording equipment that is intended to not be controlled by
 **Appearance of investigator**
 
 **32** Except for proceedings before and investigations by a coroner, an investigator is not competent or compellable to appear as a witness in any proceedings unless the court or other person or body before whom the proceedings are conducted so orders for special cause.
-> 1989, c. 3, s. 32; 1998, c. 20, s. 20.
+> 1989, c. 3, s. 32; 1998, c. 20, s. 20
 
 
 
@@ -1009,7 +1009,7 @@ that is made, using recording equipment that is intended to not be controlled by
 **Opinions inadmissible**
 
 **33** An opinion of a member or an investigator is not admissible in evidence in any legal, disciplinary or other proceedings.
-> 1989, c. 3, s. 33; 1998, c. 20, s. 20.
+> 1989, c. 3, s. 33; 1998, c. 20, s. 20
 
 
 
@@ -1040,14 +1040,14 @@ that is made, using recording equipment that is intended to not be controlled by
 
 **Publication of proposed regulations**
 
-- **(3)** Subject to subsection (4), a copy of each regulation that the Board proposes to make under subsection (1) or section 31 shall be published in the Canada Gazette at least ninety days before the proposed effective date thereof, and a reasonable opportunity within those ninety days shall be afforded to interested persons to make representations to the Board with respect thereto.
+- **(3)** Subject to subsection (4), a copy of each regulation that the Board proposes to make under subsection (1) or section 31 shall be published in the [Canada Gazette](http://www.gazette.gc.ca/) at least ninety days before the proposed effective date thereof, and a reasonable opportunity within those ninety days shall be afforded to interested persons to make representations to the Board with respect thereto.
 
 **Exceptions**
 
 - **(4)** Subsection (3) does not apply in respect of a proposed regulation that
 	- **(a)** has previously been published pursuant to that subsection, whether or not it has been changed as a result of representations made pursuant to that subsection; or
 	- **(b)** makes no substantive change to an existing regulation.
-> 1989, c. 3, s. 34; 1998, c. 20, s. 21.
+> 1989, c. 3, s. 34; 1998, c. 20, s. 21
 
 
 
@@ -1071,7 +1071,7 @@ is guilty of an indictable offence and liable on conviction to a term of impriso
 **Idem**
 
 - **(2)** Every person who contravenes a provision of this Act or the regulations for which no punishment is specified is guilty of an offence punishable on summary conviction.
-> 1989, c. 3, s. 35; 1998, c. 20, s. 22.
+> 1989, c. 3, s. 35; 1998, c. 20, s. 22
 
 
 
@@ -1193,7 +1193,7 @@ is admissible in evidence in any prosecution for an offence under this Act witho
 **Transfer of premises and supplies**
 
 - **(2)** All premises and supplies that were assigned to the Canadian Aviation Safety Board, the Department of Transport and the National Transportation Agency as at March 28, 1990 and that were connected with their investigations into transportation occurrences at that time are deemed to have been assigned to the Canadian Transportation Accident Investigation and Safety Board, and all additional arrangements made necessary by this Act shall be made by the appropriate departments and other authorities.
-> 1989, c. 3, s. 62; 1996, c. 10, s. 208.
+> 1989, c. 3, s. 62; 1996, c. 10, s. 208
 
 
 
@@ -1219,13 +1219,59 @@ is admissible in evidence in any prosecution for an offence under this Act witho
 ### **SCHEDULE** 
 **(Section 2 and subsection 34(2))**
 
+Canadian Energy Regulator<br />- <i>Régie canadienne de l’énergie</i>
+
 Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
 
 Canadian Transportation Agency<br />- <i>Office des transports du Canada</i>
 
-National Energy Board<br />- <i>Office national de l’énergie</i>
-
 National Research Council of Canada<br />- <i>Conseil national de recherches du Canada</i>
-> 1989, c. 3, Sch.; 1996, c. 10, ss. 209, 210; 1997, c. 9, ss. 100, 101.
+> 1989, c. 3, Sch.; 1996, c. 10, ss. 209, 210; 1997, c. 9, ss. 100, 1012019, c. 28, s. 1572019, c. 28, s. 158
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2012, c. 19, s. 198
+
+
+**Canadian Transportation Accident Investigation and Safety Board Act**
+
+**198** The obligation under subsection 13(2) of the Canadian Transportation Accident Investigation and Safety Board Act, as that subsection read immediately before the day on which this Act receives royal assent, continues to apply in respect of the fiscal year beginning on April 1, 2011 but does not apply in respect of any subsequent fiscal year.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2018, c. 10, s. 67, as amended by 2019, c. 28, s. 194(2)
+
+
+**
+> 1998, c. 20, s. 17(2)
+**
+
+**67** 
+
+- **(1)** Subsection 28(4) of the Canadian Transportation Accident Investigation and Safety Board Act is replaced by the following:
+
+**Use by Board**
+
+- **(4)** The Board may make any use of any on-board recording obtained under this Act that it considers necessary in the interests of transportation safety, but, subject to subsections (5) and (5.1), shall not knowingly communicate or permit to be communicated to anyone any portion of the recording that is unrelated to the causes or contributing factors of the transportation occurrence under investigation or to the identification of safety deficiencies.
+
+- **(2)** Section 28 of the Act is amended by adding the following after subsection (5):
+
+**Power to provide access to certain persons**
+
+- **(5.1)** In the case of a transportation occurrence that is required to be reported under this Act to the Board and that is investigated under this Act, the Board may make an on-board recording related to the occurrence available to a person who is expressly authorized under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md), the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md) or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to use or communicate it and, if the Board does so, the person may only use or communicate it in accordance with the express authorization
+
+**Authorization under another Act**
+
+- **(5.2)** Nothing in this section prevents the use or communication of an on-board recording if that use or communication is expressly authorized under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Canadian Energy Regulator Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%2010.md), the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md) or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) and
+	- **(a)** there has been no transportation occurrence that is required to be reported under this Act to the Board that involves the means of transportation to which the recording relates; or
+	- **(b)** there has been a transportation occurrence that is required to be reported under this Act to the Board that involves the means of transportation to which the recording relates but that is not investigated under this Act.
+
 
 
