@@ -92,14 +92,14 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 ***trust company*** means a trust company under subsection 57(2) of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), or a company incorporated by or under a provincial Act that carries on the business of a trust company, that is a member institution within the meaning of section 2 of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md). (*société de fiducie*)
 
-**Expressions in [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)**
+**Expressions in [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)**
 
-- **(2)** In this Act, ***environment*** and ***environmental effects*** have the same meaning as in subsection 2(1) of the Canadian Environmental Assessment Act, 2012.
+- **(2)** In this Act, ***environment*** has the same meaning as in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) and ***environmental effects*** has the same meaning as in section 81 of that Act.
 
 **Expressions in [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
 - **(3)** Unless the context otherwise requires, words and expressions used in this Act have the same meaning as in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
-> 2005, c. 48, s. 2; 2012, c. 19, s. 612019, c. 29, s. 375
+> 2005, c. 48, s. 2; 2012, c. 19, s. 612019, c. 28, s. 1792019, c. 29, s. 375
 
 
 
@@ -905,8 +905,8 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 **Comparable standards**
 
-- **(3)** The requirements of any regulations made under subsection (1) must be generally comparable with those applicable in similar circumstances under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
-> 2005, c. 48, s. 63; 2012, c. 19, s. 62
+- **(3)** The requirements of any regulations made under subsection (1) must be generally comparable with those applicable in similar circumstances under the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md).
+> 2005, c. 48, s. 63; 2012, c. 19, s. 622019, c. 28, s. 188
 
 
 
@@ -936,34 +936,5 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 
 > 2005, c. 48, Sch. 2; SOR/2014-64
-
-
-
-
-## AMENDMENTS NOT IN FORCE
-
-######           — 2019, c. 28, s. 179
-
-
-**
-> 2012, c. 19, s. 61
-**
-
-**179** Subsection 2(2) of the First Nations Oil and Gas and Moneys Management Act is replaced by the following:
-
-**Expressions in [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)**
-
-- **(2)** In this Act, ***environment*** has the same meaning as in section 2 of the [Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md) and ***environmental effects*** has the same meaning as in section 81 of that Act.
-
-
-
-######           — 2019, c. 28, par. 188(c)
-
-
-**Replacement of “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)”**
-
-**188** Every reference to the “[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)” is replaced by a reference to the “[Impact Assessment Act](/en/Acts/Statutes%20of%20Canada/2019/c.%2028,%20s.%201.md)” in the following provisions:
-- **(c)** subsection 63(3) of the First Nations Oil and Gas and Moneys Management Act;
-
 
 
