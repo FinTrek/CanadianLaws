@@ -765,6 +765,6 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_2019-c23_E_hq_25564'>[*]</a></sup>**50** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c23_E_hq_25564'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_2019-c23_E_hq_25564'><sup>*</sup></a>: [Note: Sections 1 to 11, 13, 13.1, 16, 18 and 9 in force August 29, 2019, *see* SI/2019-93.]<br />
 
 
