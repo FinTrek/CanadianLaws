@@ -763,6 +763,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#nbp_2019-c23_F_hq_24219'>[*]</a></sup>**50** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_2019-c23_F_hq_24219'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='nbp_2019-c23_F_hq_24219'><sup>*</sup></a>: [Note : Articles 1 à 11, 13, 13.1, 16, 18 et 19 en vigueur le 29 août 2019, *voir* TR/2019-93.]<br />
 
 
