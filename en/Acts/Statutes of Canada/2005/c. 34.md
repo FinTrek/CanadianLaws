@@ -25,7 +25,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Short title**
 
 **1** This Act may be cited as the Department of Employment and Social Development Act.
-> 2005, c. 34, s. 1; 2013, c. 40, s. 205.
+> 2005, c. 34, s. 1; 2013, c. 40, s. 205
 
 
 
@@ -51,7 +51,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(e)** a non-profit corporation or public body performing a function for an entity referred to in any of paragraphs (a) to (d). (*entité partenaire*)
 
 ***Tribunal*** means the Social Security Tribunal established under section 44. (*Tribunal*)
-> 2005, c. 34, s. 2; 2012, c. 19, s. 223; 2013, c. 40, s. 206; 2018, c. 12, s. 268.
+> 2005, c. 34, s. 2; 2012, c. 19, s. 223; 2013, c. 40, s. 206; 2018, c. 12, s. 268
 
 
 
@@ -79,7 +79,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Minister**
 
 - **(3)** The Minister holds office during pleasure and has the management and direction of the Department.
-> 2005, c. 34, s. 3; 2013, c. 40, s. 208.
+> 2005, c. 34, s. 3; 2013, c. 40, s. 208
 
 
 
@@ -98,7 +98,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deputy Minister of Labour**
 
 - **(3)** The Governor in Council may designate the Deputy Minister of Employment and Social Development or one of the Associate Deputy Ministers to be Deputy Minister of Labour.
-> 2005, c. 34, s. 4; 2013, c. 40, s. 209.
+> 2005, c. 34, s. 4; 2013, c. 40, s. 209
 
 
 
@@ -119,7 +119,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** The Minister shall exercise the powers and perform the duties and functions
 	- **(a)** relating to human resources and skills development with a view to improving the standard of living and quality of life of all Canadians by promoting a highly skilled and mobile workforce and an efficient and inclusive labour market; and
 	- **(b)** relating to social development with a view to promoting social well-being and income security.
-> 2005, c. 34, s. 5; 2012, c. 19, s. 687.
+> 2005, c. 34, s. 5; 2012, c. 19, s. 687
 
 
 
@@ -149,7 +149,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exercise of powers**
 
 - **(3)** The Minister shall, in supporting service delivery to the public, do so with a view to better serving the needs of Canadians.
-> 2018, c. 12, s. 269.
+> 2018, c. 12, s. 269
 
 
 
@@ -164,7 +164,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Spending authority**
 
 - **(2)** The Minister may spend revenues obtained under subsection (1).
-> 2018, c. 12, s. 269.
+> 2018, c. 12, s. 269
 
 
 
@@ -175,7 +175,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **6** In exercising the powers and performing the duties and functions assigned to the Minister under this or any other Act, the Minister may
 - **(a)** subject to the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), collect, analyze, interpret, publish and distribute information relating to human resources and skills development, social development or service delivery to the public; and
 - **(b)** cooperate with provincial authorities with a view to coordinating efforts for human resources and skills development, social development, or service delivery to the public.
-> 2005, c. 34, s. 6; 2012, c. 19, s. 687; 2018, c. 12, s. 271.
+> 2005, c. 34, s. 6; 2012, c. 19, s. 687; 2018, c. 12, s. 271
 
 
 
@@ -184,7 +184,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Programs**
 
 **7** The Minister may, in exercising the powers and performing the duties and functions assigned by this Act, establish and implement programs designed to support projects or other activities that contribute to the development of the human resources of Canada and the skills of Canadians, to the social development of Canada or to service delivery to the public, and the Minister may make grants and contributions in support of the programs.
-> 2005, c. 34, s. 7; 2012, c. 19, s. 687; 2018, c. 12, s. 272.
+> 2005, c. 34, s. 7; 2012, c. 19, s. 687; 2018, c. 12, s. 272
 
 
 
@@ -193,7 +193,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Business numbers — Minister**
 
 **8** The Minister may collect any business number, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and use it as an identifier for the purposes of the administration or enforcement any Act, program or activity in respect of which the administration or enforcement is the responsibility of the Minister.
-> 2005, c. 34, s. 8; 2012, c. 19, s. 687; 2018, c. 12, s. 272.
+> 2005, c. 34, s. 8; 2012, c. 19, s. 687; 2018, c. 12, s. 272
 
 
 
@@ -282,7 +282,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **16** 
 
-- **(1)** The Minister shall, within thirty days after the day on which the Minister fixes a fee under any of sections 13 to 15, publish the fee in the Canada Gazette.
+- **(1)** The Minister shall, within thirty days after the day on which the Minister fixes a fee under any of sections 13 to 15, publish the fee in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Reference to Scrutiny Committee**
 
@@ -336,7 +336,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Business numbers — Minister of Labour**
 
 **19.01** The Minister of Labour may collect any business number, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and use it as an identifier for the purposes of the administration or enforcement of any Act, program or activity in respect of which the administration or enforcement is the responsibility of that Minister.
-> 2018, c. 12, s. 273.
+> 2018, c. 12, s. 273
 
 
 
@@ -359,7 +359,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Payment of moneys**
 
 - **(4)** One or more amounts not exceeding in total the amount standing in the Account in relation to a treaty, including interest, may, on the requisition of the Minister of Labour, be paid out of the Consolidated Revenue Fund in accordance with the provisions of the treaty. The amount of all such payments is to be charged to the Account.
-> 2009, c. 16, s. 50; 2014, c. 14, ss. 49, 51, c. 28, s. 57.
+> 2009, c. 16, s. 50; 2014, c. 14, ss. 49, 51, c. 28, s. 57
 
 
 
@@ -391,7 +391,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Employment Insurance Canada**
 
 - **(3)** The expressions “Employment Insurance Canada” and “*Assurance-emploi Canada*” in any document issued or executed in relation to the matters set out in section 24 are deemed to be references to the “Canada Employment Insurance Commission” and the “*Commission de l’assurance-emploi du Canada*”, respectively.
-> 2005, c. 34, s. 20; 2010, c. 12, s. 1723; 2013, c. 40, s. 210.
+> 2005, c. 34, s. 20; 2010, c. 12, s. 1723; 2013, c. 40, s. 210
 
 
 
@@ -411,7 +411,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Tenure, remuneration and conditions of office — acting**
 
 - **(2)** In the event of the absence or incapacity of a commissioner other than the Chairperson or Vice-Chairperson or if the office is vacant, the Governor in Council may designate a person to act as a commissioner for the period of the absence, incapacity or vacancy and the person so designated has and may exercise all the powers and perform all the duties and functions of a commissioner, unless the Governor in Council specifies otherwise.
-> 2005, c. 34, ss. 21, 82(E).
+> 2005, c. 34, ss. 21, 82(E)
 
 
 
@@ -471,7 +471,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Business numbers — Commission**
 
 **24.1** The Commission may collect any business number, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and use it as an identifier for the purposes of the administration or enforcement of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
-> 2018, c. 12, s. 274.
+> 2018, c. 12, s. 274
 
 
 
@@ -516,7 +516,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Residence**
 
 - **(2)** The Chairperson and Vice-Chairperson shall reside in the National Capital Region or at the place designated by the Governor in Council under subsection (1), or within reasonable commuting distance of that region or place.
-> 2005, c. 34, s. 27; 2011, c. 24, s. 189.
+> 2005, c. 34, s. 27; 2011, c. 24, s. 189
 
 
 
@@ -541,7 +541,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Actuary — [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md)**
 
 - **(4)** The Commission shall engage the services of a Fellow of the Canadian Institute of Actuaries who is an employee of the Office of the Superintendent of Financial Institutions to perform the duties under section 66.3 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
-> 2005, c. 30, s. 129, c. 34, s. 28; 2008, c. 28, s. 132; 2012, c. 31, s. 441.
+> 2005, c. 30, s. 129, c. 34, s. 28; 2008, c. 28, s. 132; 2012, c. 31, s. 441
 
 
 
@@ -568,7 +568,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Social Insurance Number card**
 
 - **(4)** The Commission may issue to each person registered with it a card containing the person’s name and Social Insurance Number.
-> 2005, c. 30, s. 129; 2008, c. 28, s. 133; 2012, c. 19, s. 304.
+> 2005, c. 30, s. 129; 2008, c. 28, s. 133; 2012, c. 19, s. 304
 
 
 
@@ -626,7 +626,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **More than one number assigned**
 
 - **(10)** If a person has inadvertently been assigned more than one Social Insurance Number, the Commission shall determine which number is the official number and shall void the others.
-> 2012, c. 19, s. 304.
+> 2012, c. 19, s. 304
 
 
 
@@ -635,7 +635,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Change of name**
 
 **28.3** When the name of a person to whom a Social Insurance Number has been assigned changes because of marriage or otherwise, the person shall inform the Commission of their new name within 60 days after the day on which the change of name becomes effective, unless they have already so informed another authority empowered to receive that information.
-> 2012, c. 19, s. 304.
+> 2012, c. 19, s. 304
 
 
 
@@ -654,7 +654,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Offence and punishment**
 
 - **(2)** Every person who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or to both.
-> 2012, c. 19, s. 304.
+> 2012, c. 19, s. 304
 
 
 
@@ -673,7 +673,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitation period**
 
 - **(3)** Proceedings in respect of an offence under this Part may be commenced at any time within, but not later than, five years after the day on which the subject matter of the proceedings arose.
-> 2018, c. 12, s. 275.
+> 2018, c. 12, s. 275
 
 
 
@@ -686,7 +686,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Audit by Auditor General**
 
 **29** The Auditor General of Canada shall annually audit the accounts and financial transactions of the Commission for the previous fiscal year. The Auditor General shall also audit the Employment Insurance Operating Account established by section 70.2 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), and a report of that audit shall be made to the Minister.
-> 2005, c. 34, s. 29; 2010, c. 12, s. 2201.
+> 2005, c. 34, s. 29; 2010, c. 12, s. 2201
 
 
 
@@ -720,7 +720,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** For the purposes of this Part, a reference to the Minister includes the Minister of Labour in respect of any program, legislation, policy or activity the administration or enforcement of which is the responsibility of the Minister of Labour.
 
 - **(3)** [Repealed, 2012, c. 19, s. 282]
-> 2005, c. 34, s. 30; 2012, c. 19, s. 282; 2018, c. 12, s. 276.
+> 2005, c. 34, s. 30; 2012, c. 19, s. 282; 2018, c. 12, s. 276
 
 
 
@@ -738,7 +738,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **32** Information is privileged and shall not be made available unless
 - **(a)** it is authorized under subsection 28.2(5) or by this Part, or by an agreement under section 105 or paragraph 107(1)(a) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or paragraph 40(1)(a) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md); or
 - **(b)** it may be made available under any of paragraphs 33.1(a) to (c) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md).
-> 2005, c. 34, s. 32; 2012, c. 19, s. 283.
+> 2005, c. 34, s. 32; 2012, c. 19, s. 283
 
 
 
@@ -756,7 +756,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** the individual;
 	- **(b)** the individual’s representative; or
 	- **(c)** a member of Parliament who is inquiring on behalf of the individual.
-> 2005, c. 34, s. 33; 2012, c. 19, s. 283.
+> 2005, c. 34, s. 33; 2012, c. 19, s. 283
 
 
 
@@ -792,7 +792,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application**
 
 - **(4)** For greater certainty, this section applies to information obtained or prepared before the day on which this subsection comes into force.
-> 2018, c. 12, s. 277.
+> 2018, c. 12, s. 277
 
 
 
@@ -807,7 +807,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Non application — information obtained**
 
 - **(2)** Sections 33, 34, 35 to 36.2, 40 and 41 do not apply in respect of information obtained under a service delivery program.
-> 2018, c. 12, s. 277.
+> 2018, c. 12, s. 277
 
 
 
@@ -822,7 +822,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Secondary release of information**
 
 - **(2)** Information obtained under subsection (1) shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions that are agreed on by the Minister and the federal institution.
-> 2005, c. 34, s. 35; 2012, c. 19, s. 284.
+> 2005, c. 34, s. 35; 2012, c. 19, s. 284
 
 
 
@@ -841,7 +841,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Secondary release of information**
 
 - **(3)** Information obtained under this section by a government, public body, organization or institution shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions agreed upon by the Minister and the government, public body, organization or institution.
-> 2005, c. 34, s. 36; 2012, c. 19, s. 285.
+> 2005, c. 34, s. 36; 2012, c. 19, s. 285
 
 
 
@@ -850,7 +850,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Information relative to Social Insurance Numbers**
 
 **36.1** Despite any other Act or law, the minister or other authority charged with the administration or enforcement of an Act under which Social Insurance Numbers may be assigned and the Minister may exchange the information contained in any applications for such numbers and the numbers so assigned, and may make available any of that information or those numbers in any manner that may be authorized by that Act.
-> 2012, c. 19, s. 286.
+> 2012, c. 19, s. 286
 
 
 
@@ -865,7 +865,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Secondary release of information**
 
 - **(2)** Information obtained under subsection (1) shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions that are agreed on by the Minister and the person or body that obtained the information.
-> 2012, c. 19, s. 286.
+> 2012, c. 19, s. 286
 
 
 
@@ -880,7 +880,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Notice of disclosure**
 
 - **(2)** The Minister shall, prior to the disclosure, notify the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) and any affected partner entity in writing of any disclosure of information under subsection (1) if it is reasonably practicable or in any other case without delay after the disclosure. The Privacy Commissioner may, if he or she considers it appropriate, notify the individual to whom the information relates of the disclosure.
-> 2005, c. 34, s. 37; 2012, c. 19, s. 287; 2018, c. 12, s. 278.
+> 2005, c. 34, s. 37; 2012, c. 19, s. 287; 2018, c. 12, s. 278
 
 
 
@@ -892,7 +892,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** the Minister is of the opinion that the research or statistical purposes are consistent with the principles set out in paragraphs 39(1)(a) to (e);
 - **(b)** the Minister is of the opinion that the purpose for which the information is made available cannot reasonably be accomplished unless the information is provided in a form that may identify the individual to whom it relates; and
 - **(c)** the information is made available subject to conditions set out in an agreement between the Minister and the person or body, and the person or body undertakes in the agreement not to subsequently disclose the information in a form that could reasonably be expected to identify the individual to whom it relates.
-> 2005, c. 34, s. 38; 2012, c. 19, s. 288.
+> 2005, c. 34, s. 38; 2012, c. 19, s. 288
 
 
 
@@ -916,7 +916,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restriction**
 
 - **(3)** Information that is used for policy analysis, research or evaluation purposes shall not be used for any administrative purpose as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
-> 2005, c. 34, s. 39; 2012, c. 19, s. 289.
+> 2005, c. 34, s. 39; 2012, c. 19, s. 289
 
 
 
@@ -952,7 +952,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Punishment — others**
 
 - **(3)** A body or a person, other than an individual, who is guilty of an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000.
-> 2005, c. 34, s. 42; 2012, c. 19, s. 290.
+> 2005, c. 34, s. 42; 2012, c. 19, s. 290
 
 
 
@@ -964,7 +964,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** individuals or classes of individuals for the purpose of the definition ***public officer*** in subsection 30(1);
 - **(b)** federal institutions, for the purposes of subsection 35(1), to which the information referred to in that subsection may be made available, and the federal or provincial laws or activities for whose administration or enforcement the information may be made available; and
 - **(c)** provincial activities, for the purposes of subsections 36(1) and 36.2(1), in respect of which the information referred to in those subsections may be made available.
-> 2005, c. 34, s. 43; 2012, c. 19, s. 291.
+> 2005, c. 34, s. 43; 2012, c. 19, s. 291
 
 
 
@@ -988,7 +988,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **General Division**
 
 - **(2)** The General Division consists of the Income Security Section and the Employment Insurance Section.
-> 2005, c. 34, ss. 44, 83; 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 44, 83; 2012, c. 19, s. 224
 
 
 
@@ -1013,7 +1013,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Tenure**
 
 - **(5)** Each member of the Tribunal holds office during good behaviour and may be removed for cause by the Governor in Council at any time.
-> 2005, c. 34, ss. 45, 83; 2012, c. 19, s. 224; 2014, c. 39, s. 252.
+> 2005, c. 34, ss. 45, 83; 2012, c. 19, s. 224; 2014, c. 39, s. 252
 
 
 
@@ -1032,7 +1032,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Assignment**
 
 - **(3)** Subject to section 47, the Chairperson may assign members to hear matters in the Appeal Division, the Income Security Section or the Employment Insurance Section.
-> 2005, c. 34, ss. 46, 83; 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 46, 83; 2012, c. 19, s. 224
 
 
 
@@ -1041,7 +1041,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Employment Insurance Section**
 
 **47** The Minister must consult a committee composed of the Chairperson of the Tribunal and the commissioners referred to in paragraphs 20(2)(c) and (d) before recommending to the Governor in Council any person to be appointed as a member of the Tribunal who may hear matters in the Employment Insurance Section.
-> 2005, c. 34, ss. 47, 83; 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 47, 83; 2012, c. 19, s. 224
 
 
 
@@ -1056,7 +1056,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Part-time members**
 
 - **(2)** A part-time member of the Tribunal must not accept or hold any office or employment inconsistent with their duties under this Act.
-> 2005, c. 34, ss. 48, 83; 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 48, 83; 2012, c. 19, s. 224
 
 
 
@@ -1083,7 +1083,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Not employed in public service**
 
 - **(5)** Unless the Governor in Council otherwise orders in a class of cases, members of the Tribunal are deemed not to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
-> 2005, c. 34, s. 49; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 49; 2012, c. 19, s. 224
 
 
 
@@ -1092,7 +1092,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Immunity**
 
 **50** No civil proceedings lie against any member of the Tribunal for anything done or said in good faith in the exercise or purported exercise of a power or in the performance or purported performance of a duty or function of the Tribunal.
-> 2005, c. 34, s. 50; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 50; 2012, c. 19, s. 224
 
 
 
@@ -1111,7 +1111,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Absence — Vice-chairperson**
 
 - **(3)** In the event of the absence or incapacity of a Vice-chairperson or if the office of a Vice-chairperson is vacant, the Chairperson may authorize a member to act, on any terms and conditions that the Chairperson may specify, as Vice-chairperson for the time being.
-> 2005, c. 34, ss. 51, 82(E); 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 51, 82(E); 2012, c. 19, s. 224
 
 
 
@@ -1136,7 +1136,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Extension**
 
 - **(2)** The General Division may allow further time within which an appeal may be brought, but in no case may an appeal be brought more than one year after the day on which the decision is communicated to the appellant.
-> 2005, c. 34, ss. 52, 82(E); 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 52, 82(E); 2012, c. 19, s. 224
 
 
 
@@ -1155,7 +1155,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Appeal**
 
 - **(3)** The appellant may appeal the decision to the Appeal Division.
-> 2005, c. 34, s. 53; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 53; 2012, c. 19, s. 224
 
 
 
@@ -1170,7 +1170,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Reasons**
 
 - **(2)** The General Division must give written reasons for its decision and send copies to the appellant and the Minister or the Commission, as the case may be, and any other party.
-> 2005, c. 34, s. 54; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 54; 2012, c. 19, s. 224
 
 
 
@@ -1183,7 +1183,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Appeal**
 
 **55** Any decision of the General Division may be appealed to the Appeal Division by any person who is the subject of the decision and any other prescribed person.
-> 2005, c. 34, s. 55; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 55; 2012, c. 19, s. 224
 
 
 
@@ -1198,7 +1198,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(2)** Despite subsection (1), no leave is necessary in the case of an appeal brought under subsection 53(3).
-> 2005, c. 34, s. 56; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 56; 2012, c. 19, s. 224
 
 
 
@@ -1215,7 +1215,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Extension**
 
 - **(2)** The Appeal Division may allow further time within which an application for leave to appeal is to be made, but in no case may an application be made more than one year after the day on which the decision is communicated to the appellant.
-> 2005, c. 34, s. 57; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 57; 2012, c. 19, s. 224
 
 
 
@@ -1245,7 +1245,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Leave granted**
 
 - **(5)** If leave to appeal is granted, the application for leave to appeal becomes the notice of appeal and is deemed to have been filed on the day on which the application for leave to appeal was filed.
-> 2005, c. 34, s. 58; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 58; 2012, c. 19, s. 224
 
 
 
@@ -1260,7 +1260,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Reasons**
 
 - **(2)** The Appeal Division must give written reasons for its decision and send copies to the appellant and any other party.
-> 2005, c. 34, s. 59; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 59; 2012, c. 19, s. 224
 
 
 
@@ -1279,7 +1279,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Residence**
 
 - **(2)** The Chairperson and the Vice-chairpersons must reside within the distance from the place referred to in subsection (1) that is determined by the Governor in Council.
-> 2005, c. 34, s. 60; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 60; 2012, c. 19, s. 224
 
 
 
@@ -1294,7 +1294,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Spending authority**
 
 - **(2)** The Minister may spend revenues obtained from the provision of services and facilities to the Chief Administrator, in the fiscal year in which they are received or, unless an appropriation Act provides otherwise, in the next fiscal year.
-> 2014, c. 20, s. 466.
+> 2014, c. 20, s. 466
 
 
 
@@ -1303,7 +1303,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Tribunal sittings**
 
 **61** Every application to the Tribunal is to be heard before a single member.
-> 2005, c. 34, ss. 61, 83; 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 61, 83; 2012, c. 19, s. 224
 
 
 
@@ -1312,7 +1312,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Tribunal hearings**
 
 **62** All or part of a Tribunal hearing may be held in private if the Tribunal is of the opinion that the circumstances of the case so require.
-> 2005, c. 34, s. 62; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 62; 2012, c. 19, s. 224
 
 
 
@@ -1327,7 +1327,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Payments**
 
 - **(2)** Any amount to be paid under subsection (1) may be paid out of moneys appropriated by Parliament for the expenditures of the Administrative Tribunals Support Service of Canada.
-> 2005, c. 34, s. 63; 2012, c. 19, s. 224; 2014, c. 20, s. 467.
+> 2005, c. 34, s. 63; 2012, c. 19, s. 224; 2014, c. 20, s. 467
 
 
 
@@ -1350,7 +1350,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md)**
 
 - **(3)** If a question specified in section 90 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) arises in the consideration of an application, it must be determined by an authorized officer of the Canada Revenue Agency, as provided by that section.
-> 2005, c. 34, s. 64; 2012, c. 19, s. 224, c. 31, s. 204.
+> 2005, c. 34, s. 64; 2012, c. 19, s. 224, c. 31, s. 204
 
 
 
@@ -1362,7 +1362,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** an appeal in respect of a survivor’s pension payable to the survivor of a deceased contributor within the meaning of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
 - **(b)** an appeal in respect of a division of unadjusted pensionable earnings under section 55, 55.1 or 55.2 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); or
 - **(c)** an appeal in respect of an assignment of a contributor’s retirement pension under section 65.1 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
-> 2005, c. 34, s. 65; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 65; 2012, c. 19, s. 224
 
 
 
@@ -1387,7 +1387,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Division**
 
 - **(4)** A decision is rescinded or amended by the same Division that made it.
-> 2005, c. 34, s. 66; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 66; 2012, c. 19, s. 224
 
 
 
@@ -1396,7 +1396,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Time limits**
 
 **67** The Chairperson or a Vice-Chairperson may in any particular case for special reasons extend the time within which the Tribunal is required by regulation to make a decision under subsections 54(1), 58(3) and 59(1).
-> 2005, c. 34, s. 67; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 67; 2012, c. 19, s. 224
 
 
 
@@ -1405,7 +1405,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Decision final**
 
 **68** The decision of the Tribunal on any application made under this Act is final and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal to or review by any court.
-> 2005, c. 34, ss. 68, 83; 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 68, 83; 2012, c. 19, s. 224
 
 
 
@@ -1424,7 +1424,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d)** any special reasons for the purposes of section 63;
 - **(e)** the power to exclude any person from a hearing when oral evidence concerning a circumstance of sexual or other harassment is being given; and
 - **(f)** anything that, by this Part, is to be prescribed by regulation.
-> 2005, c. 34, ss. 69, 83; 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 69, 83; 2012, c. 19, s. 224
 
 
 
@@ -1443,7 +1443,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Incorporation by reference**
 
 - **(3)** Subsections 73(2) to (5) apply to regulations made under this section.
-> 2005, c. 34, s. 70; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 70; 2012, c. 19, s. 224
 
 
 
@@ -1457,7 +1457,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application**
 
 **70.1** This Part applies to any Act, program or activity whose administration or enforcement is the responsibility of the Minister, the Minister of Labour or the Commission.
-> 2013, c. 40, s. 211; 2014, c. 20, s. 485; 2018, c. 12, s. 279.
+> 2013, c. 40, s. 211; 2014, c. 20, s. 485; 2018, c. 12, s. 279
 
 
 
@@ -1478,7 +1478,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restriction**
 
 - **(2)** The Minister and the Commission must not require persons or entities to apply electronically for, or receive electronically, services, benefits or other assistance except for classes of persons or entities and those services, benefits or other assistance that are prescribed by the regulations.
-> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224; 2013, c. 40, s. 212; 2017, c. 26, s. 51; 2018, c. 12, s. 280.
+> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224; 2013, c. 40, s. 212; 2017, c. 26, s. 51; 2018, c. 12, s. 280
 
 
 
@@ -1511,7 +1511,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Meaning of filing**
 
 - **(5)** In this section, ***filing*** includes all manner of transmitting, regardless of how it is designated.
-> 2005, c. 34, s. 72; 2012, c. 19, s. 224; 2013, c. 40, s. 213; 2018, c. 12, s. 281.
+> 2005, c. 34, s. 72; 2012, c. 19, s. 224; 2013, c. 40, s. 213; 2018, c. 12, s. 281
 
 
 
@@ -1549,8 +1549,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **No registration or publication**
 
-- **(5)** For greater certainty, a document that is incorporated by reference in the regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
-> 2005, c. 34, s. 73; 2012, c. 19, s. 224; 2013, c. 40, s. 214; 2018, c. 12, s. 282.
+- **(5)** For greater certainty, a document that is incorporated by reference in the regulation is not required to be transmitted for registration or published in the [Canada Gazette](http://www.gazette.gc.ca/) by reason only that it is incorporated by reference.
+> 2005, c. 34, s. 73; 2012, c. 19, s. 224; 2013, c. 40, s. 214; 2018, c. 12, s. 282
 
 
 
@@ -1607,6 +1607,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### **SCHEDULE** 
 **(Subsections 19.1(1) and (2))**
 ## Treaties
+Chapter 12 of the Agreement, within the meaning of subsection 2(1) of the [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md), as amended from time to time in accordance with Article 21.2 of that Agreement.
+
+
 Chapter 13 of the Free Trade Agreement between Canada and Ukraine, done at Kyiv on July 11, 2016, as amended from time to time in accordance with Article 19.3 of that Agreement.
 
 
@@ -1628,6 +1631,140 @@ The Agreement on Labour Cooperation between Canada and the Republic of Panama, d
 The Agreement on Labour Cooperation between Canada and the Republic of Peru, signed on May 29, 2008, as amended from time to time in accordance with Article 30 of that Agreement.
 
 
-> 2009, c. 16, s. 51; 2010, c. 4, s. 43; 2012, c. 18, s. 41, c. 26, ss. 50, 62; 2014, c. 14, s. 50, c. 28, s. 58; 2017, c. 8, s. 42.
+> 2009, c. 16, s. 51; 2010, c. 4, s. 43; 2012, c. 18, s. 41, c. 26, ss. 50, 62; 2014, c. 14, s. 50, c. 28, s. 58; 2017, c. 8, s. 422019, c. 6, s. 11
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2012, c. 19, s. 251
+
+
+**Definitions**
+
+**251** The following definitions apply in sections 252 to 270.
+
+***board of referees*** means a board of referees established under Part VI of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), as it read immediately before the coming into force of section 247. (*conseil arbitral*)
+
+***Pension Appeals Board*** means the Pension Appeals Board established under section 83 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), as it read immediately before the coming into force of section 229. (*Commission d’appel des pensions*)
+
+***Review Tribunal*** means a Review Tribunal established under section 82 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), as it read immediately before the coming into force of section 229. (*tribunal de révision*)
+
+***Social Security Tribunal*** means the Social Security Tribunal established under section 44 of the Department of Human Resources and Skills Development Act. (*Tribunal de la sécurité sociale*)
+
+***umpire*** means an umpire appointed under Part VI of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), as it read immediately before the coming into force of section 247. (*juge-arbitre*)
+
+
+
+######           — 2012, c. 19, s. 252
+
+
+**Information**
+
+**252** The Pension Appeals Board, a Review Tribunal, a board of referees or an umpire must transfer to the Social Security Tribunal any information under their control that either relates to an application of which that Tribunal is seized or that the Governor in Council has, by regulation, prescribed.
+
+
+
+######           — 2012, c. 19, s. 261
+
+
+**Request for reconsideration**
+
+**261** 
+
+- **(1)** If no decision has been made before April 1, 2013, in respect of a request made under subsection 84(2) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), as it read immediately before the coming into force of section 229, it is deemed to be an application made on April 1, 2013 under section 66 of the Department of Human Resources and Skills Development Act and is deemed to relate to a decision made, as the case may be, by
+	- **(a)** the General Division of the Social Security Tribunal, in the case of a decision made by a Review Tribunal; or
+	- **(b)** the Appeal Division of the Social Security Tribunal, in the case of a decision made by the Pension Appeals Board.
+
+**Deeming**
+
+- **(2)** An application made under section 66 of the Department of Human Resources and Skills Development Act after March 31, 2013 is deemed to relate to a decision made, as the case may be, by
+	- **(a)** the General Division of the Social Security Tribunal, in the case of a decision made by a Review Tribunal; or
+	- **(b)** the Appeal Division of the Social Security Tribunal, in the case of a decision made by the Pension Appeals Board.
+
+
+
+######           — 2012, c. 19, s. 269
+
+
+**Request for reconsideration**
+
+**269** 
+
+- **(1)** If no decision has been made before April 1, 2013 in respect of a request made under section 120 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) as it read immediately before the coming into force of section 247, it is deemed to be an application made on April 1, 2013 under section 66 of the Department of Human Resources and Skills Development Act and is deemed to relate to a decision made, as the case may be, by
+	- **(a)** the General Division of the Social Security Tribunal, in the case of a decision made by a board of referees; or
+	- **(b)** the Appeal Division of the Social Security Tribunal, in the case of a decision made by an umpire.
+
+**Deeming**
+
+- **(2)** An application made under section 66 of the Department of Human Resources and Skills Development Act after March 31, 2013 is deemed to relate to a decision made, as the case may be, by
+	- **(a)** the General Division of the Social Security Tribunal, in the case of a decision made by a board of referees; or
+	- **(b)** the Appeal Division of the Social Security Tribunal, in the case of a decision made by an umpire.
+
+
+
+######           — 2013, c. 40, s. 217
+
+
+**Deputy Minister and Associate Deputy Minister**
+
+**217** 
+
+- **(1)** Any person who holds the office of Deputy Minister of Human Resources and Skills Development or of Associate Deputy Minister of Human Resources and Skills Development immediately before the day on which this section comes into force is deemed to hold the office of Deputy Minister of Employment and Social Development or of Associate Deputy Minister of Employment and Social Development, respectively, as of that day.
+
+**Deputy Minister of Labour**
+
+- **(2)** Any person who holds the office of Deputy Minister of Labour immediately before the day on which this section comes into force is deemed to have been designated Deputy Minister of Labour under subsection 4(3) of the Department of Employment and Social Development Act, as enacted by section 209 of this Act, as of that day.
+
+
+
+######           — 2013, c. 40, s. 218
+
+
+**Positions**
+
+**218** Nothing in this Act is to be construed as affecting the status of an employee who, immediately before the coming into force of this section, occupied a position in the Department of Human Resources and Skills Development except that the employee, on the coming into force of this section, occupies their position in the Department of Employment and Social Development under the authority of the Minister of Employment and Social Development.
+
+
+
+######           — 2013, c. 40, s. 219
+
+
+**Transfer of appropriations**
+
+**219** Any amount appropriated by an Act of Parliament for the fiscal year in which this section comes into force to defray the charges and expenses of the Department of Human Resources and Skills Development that is unexpended is deemed to have been appropriated to defray the charges and expenses of the Department of Employment and Social Development.
+
+
+
+######           — 2013, c. 40, s. 220
+
+
+**Transfer of powers, duties and functions**
+
+**220** If, under any Act of Parliament, any instrument made under an Act of Parliament or any order, contract, lease, licence or other document, any power, duty or function is vested in or may be exercised or performed by the Minister of Human Resources and Skills Development, that power, duty or function is vested in or may be exercised or performed by the Minister of Employment and Social Development, the Deputy Minister of Employment and Social Development or the appropriate officer of the Department of Employment and Social Development, as the case may be.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2018, c. 12, s. 270
+
+**270** 
+
+- **(1)** Subsection 5.1(1) of the Act is amended by adding the following after paragraph (a):
+
+- **(a.1)** provide electronic information transfer services to any partner entity authorized by the Governor in Council;
+
+
+
+- **(2)** Subsection 5.1(1) of the Act is amended by adding the following after paragraph (b):
+
+- **(b.1)** provide administration services relating to electronic or online accounts for any partner entity authorized by the Governor in Council;
+
+
+
 
 
