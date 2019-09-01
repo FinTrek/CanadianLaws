@@ -196,7 +196,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de pays, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64; 2017, ch. 6, art. 95, ch. 8, art. 33; 2018, ch. 23, art. 40.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64; 2017, ch. 6, art. 95, ch. 8, art. 33; 2018, ch. 23, art. 40
 
 
 
@@ -243,7 +243,7 @@ Pérou
 Suisse
 
 
-> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111; 2012, ch. 18, art. 33, ch. 26, art. 39 et 62; 2014, ch. 28, art. 44.
+> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111; 2012, ch. 18, art. 33, ch. 26, art. 39 et 62; 2014, ch. 28, art. 44
 
 
 
@@ -277,7 +277,7 @@ Suisse
 **Délégation des attributions**
 
 **9** Le ministre de la Sécurité publique et de la Protection civile peut autoriser un agent ou un mandataire ou une catégorie d’agents ou de mandataires à exercer les attributions qui lui sont conférées par la présente loi.
-> 1997, ch. 36, art. 9; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 9; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -317,7 +317,7 @@ Suisse
 **Modification de la liste des dispositions tarifaires**
 
 **13** Le ministre peut, par décret, modifier la liste des dispositions tarifaires pour y changer des numéros tarifaires ou des dénominations de marchandises, ou pour y ajouter, en abroger ou y remplacer des numéros tarifaires, pourvu que la modification ne touche pas au taux applicable à ces marchandises.
-> 1997, ch. 36, art. 13; 2011, ch. 24, art. 112.
+> 1997, ch. 36, art. 13; 2011, ch. 24, art. 112
 
 
 
@@ -361,7 +361,7 @@ Suisse
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40, ch. 28, art. 45; 2017, ch. 8, art. 34; 2018, ch. 23, art. 41.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40, ch. 28, art. 45; 2017, ch. 8, art. 34; 2018, ch. 23, art. 41
 
 
 
@@ -376,7 +376,7 @@ Suisse
 **Effet**
 
 - **(2)** Une telle modification n’a aucun effet sur les traitements tarifaires applicables au pays visé.
-> 1997, ch. 36, art. 15; 2011, ch. 24, art. 114.
+> 1997, ch. 36, art. 15; 2011, ch. 24, art. 114
 
 
 
@@ -425,7 +425,7 @@ Suisse
 	- **a)** des chapitres 3 et 4 de l’Accord de libre-échange nord-américain ou pour toute autre question dont peuvent, en tant que de besoin, convenir les parties à cet accord pour son application;
 	- **b)** des chapitres C et D de l’Accord de libre-échange Canada — Chili ou pour toute autre question dont peuvent, en tant que de besoin, convenir les parties à cet accord pour son application;
 	- **c)** des chapitres III et IV de l’Accord de libre-échange Canada — Costa Rica ou pour toute autre question dont peuvent, en tant que de besoin, convenir les parties à cet accord pour son application.
-> 1997, ch. 36, art. 16; 2001, ch. 28, art. 34; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 16; 2001, ch. 28, art. 34; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -461,7 +461,7 @@ Suisse
 **Règlements**
 
 - **(2)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par règlement, fixer les conditions et la durée de la période réglementaire pour l’application de l’alinéa (1)d).
-> 1997, ch. 36, art. 18; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 18; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -486,7 +486,7 @@ Suisse
 **Champ d’application**
 
 - **(3)** Les règlements pris en vertu des paragraphes (1) ou (2) peuvent être d’application générale ou limitée à certains pays ou à des zones géographiques définies.
-> 1997, ch. 36, art. 19; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 19; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -541,7 +541,7 @@ Suisse
 ***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*licensed user*)
 
 ***vin*** Vin, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), des positions 22.04, 22.05 ou 22.06, à l’exception des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.22.32, 2204.22.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 et 2206.00.93, classé dans ces positions ou avec le contenant dans lequel il est importé. (*wine*)
-> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 346 et 412; 2003, ch. 15, art. 45; 2007, ch. 18, art. 142; 2008, ch. 28, art. 70; 2018, ch. 27, art. 69.
+> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 346 et 412; 2003, ch. 15, art. 45; 2007, ch. 18, art. 142; 2008, ch. 28, art. 70; 2018, ch. 27, art. 69
 
 
 
@@ -560,7 +560,7 @@ Suisse
 **Restriction**
 
 - **(3)** Malgré le paragraphe (2) et la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la personne qui est redevable du droit imposé en vertu du paragraphe (1) sur les spiritueux en vrac qui n’ont pas été dédouanés conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) est redevable des droits imposés en vertu de cette dernière loi.
-> 2002, ch. 22, art. 346.
+> 2002, ch. 22, art. 346
 
 
 
@@ -579,7 +579,7 @@ Suisse
 **Dépôt de marchandises dans un entrepôt ou un local**
 
 - **(3)** Si, aussitôt après leur dédouanement effectué en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), des spiritueux ou du vin emballés sont déposés dans l’entrepôt d’accise de l’exploitant agréé d’entrepôt d’accise importateur ou dans le local déterminé de l’utilisateur agréé importateur, le droit imposé en vertu des paragraphes (1) ou (2) est payé et perçu en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), et les intérêts et pénalités sont imposés, calculés, payés et perçus en vertu de cette loi, comme si le droit était imposé en vertu de cette loi. À ces fins, cette loi s’applique avec les adaptations nécessaires.
-> 2002, ch. 22, art. 346.
+> 2002, ch. 22, art. 346
 
 
 
@@ -588,7 +588,7 @@ Suisse
 **Droit additionnel sur la bière**
 
 **21.3** Est imposé sur la bière et la liqueur de malt, au moment de leur importation, et est payé conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) un droit égal à celui qui serait imposé sur la bière ou la liqueur de malt en vertu de l’article 170 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) si elle avait été fabriquée ou produite au Canada. Ce droit s’ajoute aux autres droits imposés en vertu de la présente loi ou d’une autre loi fédérale en matière douanière.
-> 2002, ch. 22, art. 346.
+> 2002, ch. 22, art. 346
 
 
 
@@ -642,7 +642,7 @@ Suisse
 **Exception**
 
 - **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, exempter les marchandises bénéficiant d’un traitement tarifaire, sauf le tarif général, d’une condition prévue au paragraphe (1) et fixer les conditions de l’exemption.
-> 1997, ch. 36, art. 24; 2001, ch. 28, art. 35; 2009, ch. 16, art. 39; 2010, ch. 4, art. 33; 2011, ch. 24, art. 115; 2014, ch. 14, art. 41.
+> 1997, ch. 36, art. 24; 2001, ch. 28, art. 35; 2009, ch. 16, art. 39; 2010, ch. 4, art. 33; 2011, ch. 24, art. 115; 2014, ch. 14, art. 41
 
 
 
@@ -733,7 +733,7 @@ Suisse
 ***TUA*** Tarif de l’Ukraine. (*UAT*)
 
 ***TVNGP***   Tarif global et progressiste du Vietnam. (*CPVNT*)
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46; 2017, ch. 6, art. 96, ch. 8, art. 35; 2018, ch. 23, art. 42.
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46; 2017, ch. 6, art. 96, ch. 8, art. 35; 2018, ch. 23, art. 42
 
 
 
@@ -852,7 +852,7 @@ Suisse
 	- **a)** la date de sa prise d’effet;
 	- **b)** les marchandises auxquelles est éventuellement accordé le bénéfice du tarif de la nation la plus favorisée;
 	- **c)** les marchandises auxquelles est éventuellement retiré ce même bénéfice et dès lors assujetties au tarif général.
-> 1997, ch. 36, art. 31; 2011, ch. 24, art. 117.
+> 1997, ch. 36, art. 31; 2011, ch. 24, art. 117
 
 
 
@@ -924,7 +924,7 @@ Suisse
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif de préférence général;
 	- **c)** peut soustraire des marchandises à l’application du paragraphe 24(1) et fixer les conditions afférentes;
 	- **d)** précise les marchandises auxquelles est éventuellement retiré ce même bénéfice et dès lors assujetties au tarif de la nation la plus favorisée.
-> 1997, ch. 36, art. 34; 2011, ch. 24, art. 118.
+> 1997, ch. 36, art. 34; 2011, ch. 24, art. 118
 
 
 
@@ -946,7 +946,7 @@ Suisse
 **Cessation d’effet**
 
 **36** Les articles 33 à 35 cessent d’avoir effet le 31 décembre 2024, ou à la date antérieure que le gouverneur en conseil peut fixer par décret.
-> 1997, ch. 36, art. 36; 2004, ch. 13, art. 1; 2013, ch. 33, art. 62.
+> 1997, ch. 36, art. 36; 2004, ch. 13, art. 1; 2013, ch. 33, art. 62
 
 
 
@@ -989,7 +989,7 @@ Suisse
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif des pays les moins développés;
 	- **c)** peut soustraire les marchandises à l’application du paragraphe 24(1) et fixer les conditions afférentes;
 	- **d)** précise les marchandises auxquelles est éventuellement retiré ce même bénéfice et dès lors assujetties au tarif de préférence général.
-> 1997, ch. 36, art. 38; 2011, ch. 24, art. 119.
+> 1997, ch. 36, art. 38; 2011, ch. 24, art. 119
 
 
 
@@ -1011,7 +1011,7 @@ Suisse
 **Cessation d’effet**
 
 **40** Les articles 37 à 39 cessent d’avoir effet le 31 décembre 2024, ou à la date antérieure que le gouverneur en conseil peut fixer par décret.
-> 1997, ch. 36, art. 40; 2004, ch. 13, art. 2; 2013, ch. 33, art. 63.
+> 1997, ch. 36, art. 40; 2004, ch. 13, art. 2; 2013, ch. 33, art. 63
 
 
 
@@ -1053,7 +1053,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé ou retiré le bénéfice du tarif des pays antillais du Commonwealth;
 	- **c)** peut soustraire des marchandises à l’application des conditions du paragraphe 24(1) et fixer les conditions afférentes.
-> 1997, ch. 36, art. 42; 2011, ch. 24, art. 120.
+> 1997, ch. 36, art. 42; 2011, ch. 24, art. 120
 
 
 
@@ -1348,7 +1348,7 @@ Suisse
 **Octroi du tarif de la Colombie**
 
 - **(8)** Par dérogation aux autres dispositions de la présente loi, le ministre peut, par arrêté pris pour donner effet à l’article 317 de l’Accord de libre-échange Canada-Colombie, modifier l’annexe pour accorder, aux conditions qu’il détermine, le bénéfice du tarif de la Colombie à des marchandises importées.
-> 2010, ch. 4, art. 35.
+> 2010, ch. 4, art. 35
 
 
 
@@ -1416,7 +1416,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (5) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
-> 2001, ch. 28, art. 37.
+> 2001, ch. 28, art. 37
 
 
 
@@ -1425,7 +1425,7 @@ Suisse
 **Octroi du tarif du Costa Rica**
 
 **49.2** Par dérogation aux autres dispositions de la présente loi, le ministre peut, par arrêté pris pour donner effet à l’appendice III.1.6.1 de l’annexe III.1 de l’Accord de libre-échange Canada — Costa Rica, modifier l’annexe pour accorder, aux conditions qui y sont spécifiées, le bénéfice du tarif du Costa Rica à des marchandises importées.
-> 2001, ch. 28, art. 37.
+> 2001, ch. 28, art. 37
 
 
 
@@ -1438,7 +1438,7 @@ Suisse
 **Réduction par décret : échelonnement « M » pour le TCR**
 
 **49.4** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier la liste des dispositions tarifaires et le tableau des échelonnements, aux conditions qui y sont spécifiées, pour réduire le taux initial applicable aux marchandises à l’égard desquelles « M » figure dans la colonne « Tarif de préférence » de cette liste après l’abréviation « TCR ».
-> 2001, ch. 28, art. 37.
+> 2001, ch. 28, art. 37
 
 
 
@@ -1498,7 +1498,7 @@ Suisse
 **Suppression d’un taux inférieur à deux pour cent**
 
 - **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
-> 2012, ch. 26, art. 42.
+> 2012, ch. 26, art. 42
 
 
 
@@ -1557,7 +1557,7 @@ Suisse
 **Limitation**
 
 - **(9)** Sur recommandation du ministre, le gouverneur en conseil peut par décret, pour les périodes et aux conditions qui y sont spécifiées, limiter la quantité globale des marchandises des n<sup>os</sup> tarifaires 1701.91.10, 1701.99.10, 1702.90.21, 1702.90.61, 1702.90.70 et 1702.90.81 qui bénéficient du tarif du Pérou.
-> 2009, ch. 16, art. 42.
+> 2009, ch. 16, art. 42
 
 
 
@@ -1616,7 +1616,7 @@ Suisse
 **Limitation**
 
 - **(9)** Sur recommandation du ministre, le gouverneur en conseil peut par décret, pour les périodes et aux conditions qui y sont spécifiées, limiter la quantité globale des marchandises des n<sup>os</sup> tarifaires 1701.91.10, 1701.99.10, 1702.90.21, 1702.90.61, 1702.90.70 et 1702.90.81 qui bénéficient du tarif du Honduras.
-> 2014, ch. 14, art. 43.
+> 2014, ch. 14, art. 43
 
 
 
@@ -1688,7 +1688,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
-> 2014, ch. 28, art. 47.
+> 2014, ch. 28, art. 47
 
 
 
@@ -1756,7 +1756,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.02, 87.03 ou 87.04.
-> 2017, ch. 6, art. 97.
+> 2017, ch. 6, art. 97
 
 
 
@@ -1765,7 +1765,7 @@ Suisse
 **Règlements**
 
 **49.9** Sur recommandation du ministre, le gouverneur en conseil peut, par règlement, définir l’expression « pays de l’Union européenne ou autre bénéficiaire de l’AÉCG ».
-> 2017, ch. 6, art. 97.
+> 2017, ch. 6, art. 97
 
 
 
@@ -1786,7 +1786,7 @@ Suisse
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif Canada-Union européenne;
 	- **c)** peut soustraire des marchandises à l’application du paragraphe 24(1) et fixer les conditions afférentes;
 	- **d)** précise les marchandises auxquelles est éventuellement retiré ce même bénéfice et dès lors assujetties au tarif de la nation la plus favorisée.
-> 2017, ch. 6, art. 97.
+> 2017, ch. 6, art. 97
 
 
 
@@ -1812,10 +1812,7 @@ Suisse
 
 
 
-
-**Contingents tarifaires**
-
-**51** Sur recommandation du ministre des Affaires étrangères, le gouverneur en conseil peut, par décret, pour les périodes qui y sont précisées, limiter la quantité globale des roses du n<sup>o</sup> tarifaire 0603.10.11 qui bénéficie du tarif de l’Accord Canada — Israël.
+**51** [Abrogé, 2019, ch. 6, art. 9]
 
 
 
@@ -1829,7 +1826,7 @@ Suisse
 **Renvois**
 
 - **(2)** Il est entendu qu’il peut être précisé, dans le règlement d’application du présent article qui incorpore par renvoi un document ou texte législatif, que celui-ci est incorporé avec ses modifications successives.
-> 1997, ch. 36, art. 52; 2015, ch. 3, art. 65(F).
+> 1997, ch. 36, art. 52; 2015, ch. 3, art. 65(F)
 
 
 
@@ -1891,7 +1888,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
-> 2009, ch. 6, art. 33.
+> 2009, ch. 6, art. 33
 
 
 
@@ -1953,7 +1950,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
-> 2009, ch. 6, art. 33.
+> 2009, ch. 6, art. 33
 
 
 
@@ -2015,7 +2012,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
-> 2009, ch. 6, art. 33.
+> 2009, ch. 6, art. 33
 
 
 
@@ -2050,7 +2047,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(6)** Dans le cas où le taux réduit en application du paragraphe (3) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
-> 2012, ch. 18, art. 36.
+> 2012, ch. 18, art. 36
 
 
 
@@ -2073,7 +2070,7 @@ Suisse
 **Échelonnement « F » pour le TUA**
 
 - **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TUA » pour des marchandises qui bénéficient du tarif de l’Ukraine, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
-> 2017, ch. 8, art. 36.
+> 2017, ch. 8, art. 36
 
 
 
@@ -2162,7 +2159,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2184,7 +2181,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif du partenariat transpacifique global et progressiste;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2273,7 +2270,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2295,7 +2292,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste de l’Australie;
 	- **c)** peut soustraire les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2384,7 +2381,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2406,7 +2403,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Brunéi;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2495,7 +2492,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2517,7 +2514,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Chili;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2606,7 +2603,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2628,7 +2625,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Japon;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2717,7 +2714,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2739,7 +2736,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste de la Malaisie;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2828,7 +2825,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2850,7 +2847,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Mexique;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2939,7 +2936,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -2961,7 +2958,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste de la Nouvelle-Zélande;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -3050,7 +3047,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -3072,7 +3069,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Pérou;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -3161,7 +3158,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -3183,7 +3180,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste de Singapour;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -3272,7 +3269,7 @@ Suisse
 **Suppression des taux inférieurs à deux pour cent**
 
 - **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -3294,7 +3291,7 @@ Suisse
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Vietnam;
 	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
-> 2018, ch. 23, art. 43.
+> 2018, ch. 23, art. 43
 
 
 
@@ -3384,7 +3381,7 @@ Chili
 pays ALÉNA (*contribute importantly*)
 
 
-> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36; 2011, ch. 24, art. 124; 2012, ch. 26, art. 43; 2014, ch. 28, art. 48.
+> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36; 2011, ch. 24, art. 124; 2012, ch. 26, art. 43; 2014, ch. 28, art. 48
 
 
 
@@ -3413,7 +3410,7 @@ pays ALÉNA (*contribute importantly*)
 - **(5)** [Abrogé, 2019, ch. 22, art. 1]
 
 - **(6)** [Abrogé, 2019, ch. 22, art. 1]
-> 1997, ch. 36, art. 55; 2019, ch. 22, art. 1.
+> 1997, ch. 36, art. 552019, ch. 22, art. 1
 
 
 
@@ -3437,7 +3434,7 @@ pays ALÉNA (*contribute importantly*)
 **Exception relative à certains produits agricoles**
 
 **57** Le décret prévu au paragraphe 55(1) ne peut être pris, sur le fondement du rapport du ministre, à l’égard de produits agricoles réglementaires qui peuvent être assujettis à une surtaxe en vertu du paragraphe 68(1).
-> 1997, ch. 36, art. 57; 2011, ch. 24, art. 125.
+> 1997, ch. 36, art. 57; 2011, ch. 24, art. 125
 
 
 
@@ -3478,7 +3475,7 @@ Panama
 Pérou
 
 
-> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37; 2011, ch. 24, art. 126; 2012, ch. 26, art. 44; 2014, ch. 28, art. 49.
+> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37; 2011, ch. 24, art. 126; 2012, ch. 26, art. 44; 2014, ch. 28, art. 49
 
 
 
@@ -3546,7 +3543,7 @@ Pérou
 - **(5)** Le décret pris en vertu du paragraphe (1) :
 	- **a)** s’applique, sous réserve des autres dispositions du présent article, pendant la période qui y est spécifiée, la durée de celle-ci ajoutée à celle des périodes pendant lesquelles les marchandises ont fait l’objet de décrets pris en vertu des paragraphes (1) ou 55(1) ou de l’article 60, ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) ne pouvant toutefois excéder huit ans;
 	- **b)** peut, sur recommandation du ministre, malgré les autres dispositions du présent article, être à tout moment abrogé ou modifié par le gouverneur en conseil, sauf si les deux chambres du Parlement ont déjà adopté, aux termes de l’article 64, une résolution de cessation d’effet.
-> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38; 2011, ch. 24, art. 127; 2012, ch. 26, art. 45; 2014, ch. 28, art. 50.
+> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38; 2011, ch. 24, art. 127; 2012, ch. 26, art. 45; 2014, ch. 28, art. 50
 
 
 
@@ -3561,7 +3558,7 @@ Pérou
 
 **Publication d’un avis**
 
-**65** Le ministre fait publier dans la Gazette du Canada l’avis approprié en cas de :
+**65** Le ministre fait publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) l’avis approprié en cas de :
 - **a)** prorogation, au titre des paragraphes 56(2) ou 59(2), d’un décret pris en vertu du paragraphe 55(1);
 - **b)** cessation d’effet, par suite d’une résolution adoptée par les deux chambres du Parlement, d’un décret pris en vertu du paragraphe 55(1), de l’article 60 ou du paragraphe 63(1).
 
@@ -3606,7 +3603,7 @@ Pérou
 
 **Publication d’un avis**
 
-- **(5)** Dans le cas où le décret cesse d’avoir effet par une résolution des deux chambres du Parlement, le ministre fait publier dans la Gazette du Canada l’avis approprié.
+- **(5)** Dans le cas où le décret cesse d’avoir effet par une résolution des deux chambres du Parlement, le ministre fait publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) l’avis approprié.
 
 **Règlements**
 
@@ -3621,8 +3618,8 @@ Pérou
 
 **Publication**
 
-- **(8)** Les décrets pris en application du paragraphe (1) sont publiés dans la Gazette du Canada.
-> 1997, ch. 36, art. 68; 1999, ch. 17, art. 130; 2005, ch. 38, art. 87.
+- **(8)** Les décrets pris en application du paragraphe (1) sont publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/).
+> 1997, ch. 36, art. 68; 1999, ch. 17, art. 130; 2005, ch. 38, art. 87
 
 
 
@@ -3659,7 +3656,7 @@ Pérou
 - **(5)** Pour l’application de l’alinéa (2)a), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
 	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 1997, ch. 36, art. 69; 2018, ch. 27, art. 70.
+> 1997, ch. 36, art. 69; 2018, ch. 27, art. 70
 
 
 
@@ -3709,7 +3706,7 @@ Pérou
 - **(7)** Pour l’application de l’alinéa (2)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
 	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 1997, ch. 36, art. 70; 2018, ch. 27, art. 71.
+> 1997, ch. 36, art. 70; 2018, ch. 27, art. 71
 
 
 
@@ -3759,7 +3756,7 @@ Pérou
 - **(7)** Pour l’application de l’alinéa (2)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
 	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 1997, ch. 36, art. 71; 2018, ch. 27, art. 72.
+> 1997, ch. 36, art. 71; 2018, ch. 27, art. 72
 
 
 
@@ -3793,7 +3790,7 @@ Pérou
 **Définition de cause principale**
 
 - **(4)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
-> 2010, ch. 4, art. 39.
+> 2010, ch. 4, art. 39
 
 
 
@@ -3850,7 +3847,7 @@ Pérou
 - **(8)** Pour l’application de l’alinéa (2)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
 	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 2001, ch. 28, art. 38; 2018, ch. 27, art. 73.
+> 2001, ch. 28, art. 38; 2018, ch. 27, art. 73
 
 
 
@@ -3902,7 +3899,7 @@ Pérou
 - **(7)** Pour l’application de l’alinéa (1)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
 	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 2009, ch. 6, art. 34; 2018, ch. 27, art. 74.
+> 2009, ch. 6, art. 34; 2018, ch. 27, art. 74
 
 
 
@@ -3958,7 +3955,7 @@ Pérou
 **Non application**
 
 - **(8)** Cet article ne s’applique pas aux marchandises du territoire de Svalbard.
-> 2009, ch. 6, art. 34; 2018, ch. 27, art. 75.
+> 2009, ch. 6, art. 34; 2018, ch. 27, art. 75
 
 
 
@@ -4010,7 +4007,7 @@ Pérou
 - **(7)** Pour l’application de l’alinéa (1)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
 	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 2009, ch. 6, art. 34; 2018, ch. 27, art. 76.
+> 2009, ch. 6, art. 34; 2018, ch. 27, art. 76
 
 
 
@@ -4045,7 +4042,7 @@ Pérou
 **Définition de cause principale**
 
 - **(4)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
-> 2012, ch. 26, art. 46.
+> 2012, ch. 26, art. 46
 
 
 
@@ -4080,7 +4077,7 @@ Pérou
 **Définition de cause principale**
 
 - **(5)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
-> 2009, ch. 16, art. 46 et 56.
+> 2009, ch. 16, art. 46 et 56
 
 
 
@@ -4122,7 +4119,7 @@ Pérou
 - **(6)** Pour l’application de l’alinéa (1)b), le taux de droits de douane du tarif de la nation la plus favorisée en vigueur est :
 	- **a)** à l’égard des légumes frais, le taux spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires qui leur est applicable;
 	- **b)** à l’égard des fruits frais, le taux spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires qui leur est applicable.
-> 2012, ch. 18, art. 37; 2018, ch. 27, art. 77.
+> 2012, ch. 18, art. 37; 2018, ch. 27, art. 77
 
 
 
@@ -4174,7 +4171,7 @@ Pérou
 **Définition de cause principale**
 
 - **(7)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
-> 1997, ch. 36, art. 72; 2011, ch. 24, art. 128; 2014, ch. 14, art. 44.
+> 1997, ch. 36, art. 72; 2011, ch. 24, art. 128; 2014, ch. 14, art. 44
 
 
 
@@ -4219,7 +4216,7 @@ Pérou
 **Décrets ultérieurs**
 
 - **(7)** Le décret visé au paragraphe (1) ne peut être pris qu’une fois à l’égard de marchandises d’une nature donnée pendant la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant le jour de son cinquième anniversaire.
-> 1997, ch. 36, art. 73; 2011, ch. 24, art. 128; 2014, ch. 14, art. 44.
+> 1997, ch. 36, art. 73; 2011, ch. 24, art. 128; 2014, ch. 14, art. 44
 
 
 
@@ -4280,7 +4277,7 @@ Pérou
 **Définition cause principale**
 
 - **(10)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
-> 1997, ch. 36, art. 74; 2011, ch. 24, art. 128; 2014, ch. 28, art. 51.
+> 1997, ch. 36, art. 74; 2011, ch. 24, art. 128; 2014, ch. 28, art. 51
 
 
 
@@ -4313,7 +4310,7 @@ Pérou
 **Définition de cause principale**
 
 - **(4)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
-> 1997, ch. 36, art. 75; 2011, ch. 24, art. 128; 2017, ch. 8, art. 37.
+> 1997, ch. 36, art. 75; 2011, ch. 24, art. 128; 2017, ch. 8, art. 37
 
 
 
@@ -4355,7 +4352,7 @@ Pérou
 **Taux à la cessation d’effet**
 
 - **(5)** À la cessation d’effet du décret pris en vertu du paragraphe (1), le taux applicable aux marchandises est celui qui s’applique conformément aux dispositions de la présente loi donnant effet au tarif PTPGP applicable à ces marchandises.
-> 1997, ch. 36, art. 76; 2011, ch. 24, art. 128; 2018, ch. 23, art. 44.
+> 1997, ch. 36, art. 76; 2011, ch. 24, art. 128; 2018, ch. 23, art. 44
 
 
 
@@ -4392,7 +4389,7 @@ Pérou
 **Taux à la cessation d’effet**
 
 - **(5)** À la cessation d’effet du décret pris en vertu du paragraphe (1), le taux applicable aux marchandises est celui qui s’applique conformément aux dispositions de la présente loi donnant effet au tarif PTPGP applicable à ces marchandises.
-> 1997, ch. 36, art. 77; 2011, ch. 24, art. 128; 2018, ch. 23, art. 44.
+> 1997, ch. 36, art. 77; 2011, ch. 24, art. 128; 2018, ch. 23, art. 44
 
 
 
@@ -4427,7 +4424,7 @@ Pérou
 **Enquête**
 
 - **(5)** Dès qu’il a pris le décret prévu au paragraphe (2) sur le fondement d’un rapport du ministre, le gouverneur en conseil saisit le Tribunal canadien du commerce extérieur pour qu’il mène, en vertu du paragraphe 30.21(1) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), une enquête sur la question.
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4444,7 +4441,7 @@ Pérou
 **Cessation d’effet**
 
 - **(2)** Le décret pris en vertu du paragraphe 77.1(2) sur le fondement d’un rapport du ministre cesse d’avoir effet à l’expiration du deux centième jour suivant sa prise, sauf si, avant la cessation d’effet du décret, le Tribunal canadien du commerce extérieur fait, par suite d’une enquête menée en vertu des articles 30.21 ou 30.22 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), un rapport au gouverneur en conseil l’informant que les marchandises faisant l’objet du rapport du ministre sont importées en quantité tellement accrue ou dans des conditions telles que leur importation cause ou menace de causer une désorganisation du marché pour les producteurs nationaux de marchandises similaires ou directement concurrentes.
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4469,7 +4466,7 @@ Pérou
 - **(4)** Le décret pris en vertu du paragraphe (1) :
 	- **a)** s’applique, sous réserve des autres dispositions du présent article, pendant la période qui y est précisée;
 	- **b)** malgré toute autre disposition du présent article, peut, sur recommandation du ministre, être modifié ou abrogé à tout moment par le gouverneur en conseil, sauf si les deux chambres du Parlement ont déjà adopté, aux termes de l’article 77.4, une résolution de cessation d’effet.
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4478,7 +4475,7 @@ Pérou
 **Résolution de cessation d’effet**
 
 **77.4** Par dérogation aux articles 77.1 à 77.3 et 77.5 à 77.8, tout décret pris en vertu des paragraphes 77.1(2), 77.3(1) ou 77.6(2) cesse d’avoir effet à la date de l’adoption d’une résolution en ce sens par les deux chambres du Parlement ou, le cas échéant, à la date prévue par cette résolution.
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4486,10 +4483,10 @@ Pérou
 
 **Publication d’un avis**
 
-**77.5** Le ministre fait publier dans la Gazette du Canada l’avis approprié en cas de :
+**77.5** Le ministre fait publier dans la [Gazette du Canada](http://www.gazette.gc.ca/) l’avis approprié en cas de :
 - **a)** prorogation, au titre du paragraphe 77.2(2), d’un décret pris en vertu du paragraphe 77.1(2);
 - **b)** cessation d’effet, par suite d’une résolution adoptée par les deux chambres du Parlement, d’un décret pris en vertu des paragraphes 77.1(2), 77.3(1) ou 77.6(2).
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4520,7 +4517,7 @@ Pérou
 **Modification ou abrogation du décret**
 
 - **(4)** Le décret pris en vertu du paragraphe (2) peut, sur recommandation du ministre, être modifié ou abrogé à tout moment par le gouverneur en conseil sauf si les deux chambres du Parlement ont déjà adopté, aux termes de l’article 77.4, une résolution de cessation d’effet.
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4529,7 +4526,7 @@ Pérou
 **Règlements**
 
 **77.7** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application des articles 77.1 à 77.6 et, par décret, suspendre l’application de la surtaxe ou du droit, en tout ou en partie, à toute marchandise ou catégorie de marchandises.
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4538,7 +4535,7 @@ Pérou
 **Caractère définitif de la décision du gouverneur en conseil**
 
 **77.8** La décision du gouverneur en conseil est définitive sur toute contestation qui peut s’élever concernant l’application de la surtaxe ou du droit imposé en conformité avec les articles 77.1 à 77.6.
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4547,7 +4544,7 @@ Pérou
 **Cessation d’effet**
 
 **77.9** Les articles 77.1 à 77.8 cessent d’avoir effet le 11 décembre 2013.
-> 2002, ch. 19, art. 7.
+> 2002, ch. 19, art. 7
 
 
 
@@ -4601,7 +4598,7 @@ Pérou
 - **n)** le paragraphe 74(1);
 - **o)** le paragraphe 74(2);
 - **p)** le paragraphe 75(1).
-> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63; 2014, ch. 14, art. 45, ch. 28, art. 52; 2017, ch. 8, art. 38.
+> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63; 2014, ch. 14, art. 45, ch. 28, art. 52; 2017, ch. 8, art. 38
 
 
 
@@ -4629,7 +4626,7 @@ Pérou
 ***taxe sur les produits et services*** Taxe imposée en application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*goods and services tax*)
 
 ***transformation*** S’entend notamment de l’ajustement, la modification, l’assemblage, la fabrication, la production ou la réparation de marchandises. (*process*)
-> 1997, ch. 36, art. 80; 2001, ch. 28, art. 41; 2002, ch. 19, art. 8 et 19, ch. 22, art. 347; 2011, ch. 24, art. 130; 2017, ch. 6, art. 98.
+> 1997, ch. 36, art. 80; 2001, ch. 28, art. 41; 2002, ch. 19, art. 8 et 19, ch. 22, art. 347; 2011, ch. 24, art. 130; 2017, ch. 6, art. 98
 
 
 
@@ -4667,7 +4664,7 @@ Pérou
 
 **Exception**
 
-- **(5)** Les décrets pris en application du paragraphe (2), prévoyant l’augmentation d’un taux, ne peuvent s’appliquer à une période antérieure à la date de leur publication dans la Gazette du Canada.
+- **(5)** Les décrets pris en application du paragraphe (2), prévoyant l’augmentation d’un taux, ne peuvent s’appliquer à une période antérieure à la date de leur publication dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Règlements**
 
@@ -4693,7 +4690,7 @@ Pérou
 	- **(i)** la valeur en douane des marchandises est réduite du montant de la valeur maximale spécifiée dans les n<sup>os</sup> tarifaires 9804.10.00 ou 9804.20.00, selon le cas,
 	- **(ii)** les premiers 300 $ de la valeur en douane sont passibles des droits prévus au n<sup>o</sup> tarifaire 9804.30.00;
 - **c)** les marchandises sont classées dans les numéros tarifaires des Chapitres 1 à 97 et la position n<sup>o</sup> 98.26, selon le cas.
-> 1997, ch. 36, art. 83; 2001, ch. 16, art. 4; 2002, ch. 22, art. 348.
+> 1997, ch. 36, art. 83; 2001, ch. 16, art. 4; 2002, ch. 22, art. 348
 
 
 
@@ -4749,7 +4746,7 @@ Pérou
 **Marchandises du n<sup>o</sup> tarifaire 9971.00.00 — pays PTPGP**
 
 - **(7)** Malgré le paragraphe 20(2), la valeur en douane des marchandises du n<sup>o</sup> tarifaire 9971.00.00 qui bénéficient d’un tarif PTPGP est la valeur des réparations ou modifications dont elles ont fait l’objet dans un pays PTPGP.
-> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35; 2014, ch. 28, art. 53; 2017, ch. 6, art. 99; 2018, ch. 23, art. 45.
+> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35; 2014, ch. 28, art. 53; 2017, ch. 6, art. 99; 2018, ch. 23, art. 45
 
 
 
@@ -4762,7 +4759,7 @@ Pérou
 **Marchandises du n<sup>o</sup> tarifaire 9937.00.00**
 
 **88** Tout groupe qui désire être reconnu comme groupe ethnoculturel pour l’application du n<sup>o</sup> tarifaire 9937.00.00 est tenu de présenter au ministre de la Sécurité publique et de la Protection civile une demande prouvant qu’il respecte les critères énoncés dans ce numéro tarifaire.
-> 1997, ch. 36, art. 88; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 88; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -4801,7 +4798,7 @@ Pérou
 **Demandes**
 
 - **(4)** Les demandes d’exonération sont présentées en la forme et comportent les renseignements que le ministre de la Sécurité publique et de la Protection civile juge indiqués.
-> 1997, ch. 36, art. 89; 2002, ch. 22, art. 349; 2005, ch. 38, art. 142 et 145; 2017, ch. 6, art. 100.
+> 1997, ch. 36, art. 89; 2002, ch. 22, art. 349; 2005, ch. 38, art. 142 et 145; 2017, ch. 6, art. 100
 
 
 
@@ -4820,7 +4817,7 @@ Pérou
 **Dédouanement des marchandises**
 
 - **(3)** Les marchandises faisant l’objet de l’exonération prévue à l’article 89 peuvent être dédouanées sans le paiement des droits visés par l’exonération, si le numéro indiqué sur le certificat est présenté au moment de la déclaration en détail exigée par l’article 32 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et si le certificat est valide à cette date.
-> 1997, ch. 36, art. 90; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 90; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -4843,7 +4840,7 @@ Pérou
 **Garanties**
 
 - **(4)** Le titulaire d’un agrément est tenu, sur demande du ministre de la Sécurité publique et de la Protection civile, de fournir, à hauteur du montant que celui-ci juge indiqué, une garantie dont la nature et les conditions peuvent être prévues par règlement.
-> 1997, ch. 36, art. 91; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 91; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -4864,7 +4861,7 @@ Pérou
 **Exception**
 
 - **(3)** Le présent article ne s’applique pas à un droit imposé en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) relativement au tabac fabriqué qui est fabriqué au Canada et au tabac fabriqué importé qui est estampillé conformément à cette loi.
-> 1997, ch. 36, art. 92; 2001, ch. 16, art. 5; 2002, ch. 22, art. 350; 2008, ch. 28, art. 71.
+> 1997, ch. 36, art. 92; 2001, ch. 16, art. 5; 2002, ch. 22, art. 350; 2008, ch. 28, art. 71
 
 
 
@@ -4873,7 +4870,7 @@ Pérou
 **Production de justificatifs**
 
 **93** En cas d’exonération de droits au titre des articles 89 ou 92, le ministre de la Sécurité publique et de la Protection civile peut exiger les justificatifs qu’il juge indiqués pour l’application de l’article 95.
-> 1997, ch. 36, art. 93; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 93; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -4891,7 +4888,7 @@ Pérou
 **Précision**
 
 - **(2)** Il est entendu que, aux articles 95, 96 et 98.1, droits de douane ne comprend pas les droits ou taxes perçus ou imposés sur les marchandises importées en application de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
-> 1997, ch. 36, art. 94; 2001, ch. 28, art. 42; 2002, ch. 19, art. 9 et 21, ch. 22, art. 351; 2011, ch. 24, art. 131; 2017, ch. 6, art. 101.
+> 1997, ch. 36, art. 94; 2001, ch. 28, art. 42; 2002, ch. 19, art. 9 et 21, ch. 22, art. 351; 2011, ch. 24, art. 131; 2017, ch. 6, art. 101
 
 
 
@@ -4950,7 +4947,7 @@ Pérou
 **Définition de matières**
 
 - **(8)** Dans le présent article, ***matières*** s’entend des marchandises utilisées dans la transformation d’autres marchandises, y compris les pièces ou les ingrédients.
-> 1997, ch. 36, art. 95; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 95; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5022,7 +5019,7 @@ Pérou
 **Définition de matières**
 
 - **(5)** Au présent article, ***matières*** s’entend des marchandises utilisées dans la transformation d’autres marchandises, y compris les pièces ou les ingrédients.
-> 2017, ch. 6, art. 102.
+> 2017, ch. 6, art. 102
 
 
 
@@ -5066,7 +5063,7 @@ Pérou
 - **h)** régir ou interdire la livraison à bord des moyens de transport de marchandises désignées comme provisions de bord;
 - **i)** régir ou interdire la cession de marchandises désignées comme provisions de bord entre les moyens de transport;
 - **j)** prévoir toute mesure réglementaire à prendre par lui aux termes des articles 89 à 94 et 96 à 98.
-> 1997, ch. 36, art. 99; 2001, ch. 28, art. 43; 2002, ch. 19, art. 10 et 23, ch. 22, art. 352 et 424; 2005, ch. 38, art. 142 et 145; 2011, ch. 24, art. 132.
+> 1997, ch. 36, art. 99; 2001, ch. 28, art. 43; 2002, ch. 19, art. 10 et 23, ch. 22, art. 352 et 424; 2005, ch. 38, art. 142 et 145; 2011, ch. 24, art. 132
 
 
 
@@ -5075,7 +5072,7 @@ Pérou
 **Règlements**
 
 **100** Sur recommandation du ministre et du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par règlement, déterminer dans quelles circonstances et quelle mesure les marchandises peuvent, pendant leur séjour en entrepôt de stockage, être manutentionnées, déballées, emballées, modifiées ou combinées avec d’autres marchandises.
-> 1997, ch. 36, art. 100; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 100; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5105,7 +5102,7 @@ Pérou
 - **(3)** Le gouverneur en conseil peut, par règlement :
 	- **a)** sur recommandation du ministre, fixer les modalités de désignation des marchandises qui sont réputées produites au Canada pour l’application du paragraphe (1);
 	- **b)** sur recommandation du ministre de la Sécurité publique et de la Protection civile, définir ***aéronef***, ***navire*** et ***véhicule*** pour l’application du paragraphe (2).
-> 1997, ch. 36, art. 101; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 101; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5119,7 +5116,7 @@ Pérou
 	- **(ii)** s’agissant de l’équipement visé à l’alinéa 101(1)b), il ne pouvait pas commodément être ajouté au Canada,
 	- **(iii)** s’agissant des marchandises visées à l’alinéa 101(1)c), les travaux n’auraient pas pu commodément être effectués au Canada;
 - **b)** sont présentées, dans le cas de celles qui sont prévues au paragraphe 101(2), lors du retour au Canada des marchandises visées, en la forme prescrite par le ministre de la Sécurité publique et de la Protection civile et comportent les renseignements prescrits par lui.
-> 1997, ch. 36, art. 102; 2005, ch. 38, art. 89(F), 142 et 145.
+> 1997, ch. 36, art. 102; 2005, ch. 38, art. 89(F), 142 et 145
 
 
 
@@ -5155,7 +5152,7 @@ Pérou
 **Règlements**
 
 - **(2)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut par règlement, pour l’application du paragraphe (1), prévoir le mode de détermination de la valeur des réparations effectuées, de l’équipement ajouté ou du travail effectué à l’étranger.
-> 1997, ch. 36, art. 105; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 105; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5182,7 +5179,7 @@ Pérou
 **Renonciation à la garantie**
 
 - **(5)** Le ministre de la Sécurité publique et de la Protection civile peut renoncer à l’exigence de fournir une garantie prévue au paragraphe (1).
-> 1997, ch. 36, art. 106; 2002, ch. 22, art. 353; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 106; 2002, ch. 22, art. 353; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5207,7 +5204,7 @@ Pérou
 **Effet des exonérations**
 
 - **(3)** Malgré le paragraphe (1), le montant des droits de douane payables sur des marchandises est calculé, pour la détermination de la valeur de celles-ci en application de l’article 215 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), comme si une exonération avait été accordée au titre de l’article 101 mais non au titre des articles 89, 92 ou 106.
-> 1997, ch. 36, art. 107; 2017, ch. 6, art. 103.
+> 1997, ch. 36, art. 107; 2017, ch. 6, art. 103
 
 
 
@@ -5225,7 +5222,7 @@ Pérou
 	- **(i)** exportées dans le délai visé aux paragraphes 106(3) ou (4), selon le cas, et déclarées en détail en application de l’article 32 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et tous les droits et taxes exigibles sur celles-ci ont été payés,
 	- **(ii)** détruites selon les instructions du ministre de la Sécurité publique et de la Protection civile,
 	- **(iii)** exportées dans le délai visé aux paragraphes 106(3) ou (4), selon le cas.
-> 1997, ch. 36, art. 108; 2005, ch. 38, art. 88, 142 et 145.
+> 1997, ch. 36, art. 108; 2005, ch. 38, art. 88, 142 et 145
 
 
 
@@ -5245,7 +5242,7 @@ Pérou
 - **b)** ne sont pas utilisées au Canada;
 - **c)** sont détruites selon les instructions du ministre de la Sécurité publique et de la Protection civile;
 - **d)** n’ont pas été endommagées avant leur destruction.
-> 1997, ch. 36, art. 109; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 109; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5269,7 +5266,7 @@ Pérou
 	- **(ii)** le fabricant, le producteur ou le propriétaire des marchandises surannées ou excédentaires, dans tous les autres cas;
 - **b)** comportent la renonciation visée à l’article 119, le cas échéant, et les documents réglementaires;
 - **c)** sont présentées dans les cinq ans — ou, le cas échéant, dans le délai réglementaire — suivant le dédouanement des marchandises.
-> 1997, ch. 36, art. 111; 2005, ch. 38, art. 89(F) et 145.
+> 1997, ch. 36, art. 111; 2005, ch. 38, art. 89(F) et 145
 
 
 
@@ -5278,7 +5275,7 @@ Pérou
 **Règlements**
 
 **112** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par règlement, déterminer quels documents doivent comporter les demandes prévues à l’article 110 et le délai de présentation de celles-ci.
-> 1997, ch. 36, art. 112; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 112; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5326,7 +5323,7 @@ Pérou
 **Marchandises désignées**
 
 - **(5)** Malgré l’exception prévue au paragraphe 89(2), le remboursement ou le drawback de droits ou de taxes imposés ou perçus au titre des articles 21.1 à 21.3, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) est accordé en application de l’alinéa (1)a) sur les marchandises désignées.
-> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354; 2005, ch. 38, art. 89(F), 142 et 145; 2011, ch. 24, art. 133; 2017, ch. 6, art. 104.
+> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354; 2005, ch. 38, art. 89(F), 142 et 145; 2011, ch. 24, art. 133; 2017, ch. 6, art. 104
 
 
 
@@ -5358,7 +5355,7 @@ Pérou
 **Remise par remboursement**
 
 - **(3)** Dans le cas où les droits ont déjà été payés, la remise est effectuée par remboursement des droits à remettre.
-> 1997, ch. 36, art. 115; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 115; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5381,7 +5378,7 @@ Pérou
 **Somme substitutive**
 
 **117** S’il est difficile d’établir le montant exact soit de l’exonération prévue à l’article 89, du remboursement prévu à l’article 110 ou du remboursement ou du drawback demandé en vertu de l’article 113, soit d’une remise générale demandée pour certaines marchandises en application de l’article 23 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou en application de l’article 115, le ministre de la Sécurité publique et de la Protection civile peut accorder au demandeur, avec le consentement de celui-ci, une somme en tenant lieu, dont il détermine le montant.
-> 1997, ch. 36, art. 117; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 117; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5412,7 +5409,7 @@ Pérou
 - **(4)** Le gouverneur en conseil peut, par règlement déterminer :
 	- **a)** sur recommandation du ministre de la Sécurité publique et de la Protection civile, soit le délai d’application du paragraphe (1) et les marchandises ou catégories de marchandises visées, soit les cas dans lesquels ce délai s’applique;
 	- **b)** sur recommandation du ministre, les cas dans lesquels certaines marchandises sont soustraites à l’application du paragraphe (1), les marchandises ou catégories de marchandises ainsi soustraites et la durée et les conditions de l’exemption.
-> 1997, ch. 36, art. 118; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 118; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5421,7 +5418,7 @@ Pérou
 **Renonciations**
 
 **119** Les demandes présentées en vertu des articles 110 ou 113 comportent, en la forme prescrite par le ministre de la Sécurité publique et de la Protection civile, la renonciation par laquelle toute autre personne admissible au drawback, au remboursement ou à la remise des droits y renonce.
-> 1997, ch. 36, art. 119; 2005, ch. 38, art. 89(F) et 145.
+> 1997, ch. 36, art. 119; 2005, ch. 38, art. 89(F) et 145
 
 
 
@@ -5505,7 +5502,7 @@ Pérou
 **Intérêts sur l’exonération : AÉCG**
 
 - **(8)** Quiconque est astreint, en application du paragraphe 98.1(1), à payer une somme verse, en plus de cette somme, des intérêts au taux déterminé, calculés sur les arriérés pour la période commençant le soixante et unième jour suivant la date à laquelle la somme devient exigible et se terminant le jour de son paiement intégral.
-> 1997, ch. 36, art. 123; 2001, ch. 25, art. 88; 2017, ch. 6, art. 105.
+> 1997, ch. 36, art. 123; 2001, ch. 25, art. 88; 2017, ch. 6, art. 105
 
 
 
@@ -5514,7 +5511,7 @@ Pérou
 **Pénalités et intérêts composés**
 
 **124** Les intérêts calculés au taux réglementaire ou au taux déterminé sont composés quotidiennement. Dans le cas où des intérêts calculés en application d’une disposition de la présente loi sont impayés le jour où, sans le présent article, ils cesseraient d’être ainsi calculés, des intérêts sont calculés et composés quotidiennement, au taux déterminé, sur leur montant pour la période commençant ce jour et se terminant le jour de leur paiement final, et sont acquittés en conformité avec la disposition en question.
-> 1997, ch. 36, art. 124; 2001, ch. 25, art. 89.
+> 1997, ch. 36, art. 124; 2001, ch. 25, art. 89
 
 
 
@@ -5523,7 +5520,7 @@ Pérou
 **Autorisation visant le taux réglementaire**
 
 **125** Le ministre de la Sécurité publique et de la Protection civile peut autoriser toute personne tenue, au titre d’une disposition de la présente loi, de payer des intérêts à un taux déterminé à les payer au taux réglementaire.
-> 1997, ch. 36, art. 125; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 125; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5538,7 +5535,7 @@ Pérou
 **Intérêts sur remboursement d’intérêts**
 
 - **(2)** Quiconque est remboursé, par suite d’une renonciation ou d’une annulation visée au paragraphe (1), d’intérêts payés reçoit, en plus du remboursement, des intérêts au taux réglementaire, calculés sur le remboursement pour la période commençant le lendemain du paiement et se terminant le jour de l’octroi du remboursement.
-> 1997, ch. 36, art. 126; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 126; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5553,7 +5550,7 @@ Pérou
 **Intérêts : LMSI**
 
 - **(2)** Quiconque reçoit, en application de la présente partie, à l’exception de l’article 115, un drawback ou un remboursement de sommes afférentes aux droits perçus au titre de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) reçoit, en plus du drawback ou du remboursement, des intérêts au taux réglementaire pour la période commençant le quatre-vingt-onzième jour suivant la présentation — faite en conformité avec la présente partie — de la demande correspondante et se terminant le jour de l’octroi du drawback ou du remboursement.
-> 1997, ch. 36, art. 127; 2001, ch. 25, art. 90.
+> 1997, ch. 36, art. 127; 2001, ch. 25, art. 90
 
 
 
@@ -5578,7 +5575,7 @@ Pérou
 - **b)** pour l’application du n<sup>o</sup> tarifaire 9897.00.00, préciser :
 	- **(i)** les conditions d’importation des spécimens d’aigrettes, de plumes d’aigrettes ou de plumes d’orfraie, et des plumes, grandes plumes, têtes, ailes, queues, peaux ou parties de peau d’oiseaux sauvages de ce numéro tarifaire pour un musée ou à des fins scientifiques ou éducatives,
 	- **(ii)** les modalités de nettoyage et de fumigation des matières provenant de matelas usagés ou d’occasion ainsi que les certificats qui doivent les accompagner.
-> 1997, ch. 36, art. 129; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 129; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5589,7 +5586,7 @@ Pérou
 **130** Le ministre de la Sécurité publique et de la Protection civile peut :
 - **a)** déterminer la documentation qui est acceptable pour l’application du n<sup>o</sup> tarifaire 9827.00.00;
 - **b)** reconnaître les autorités, les représentants ou les délégués d’un pays d’origine comme étant compétents pour l’application des conditions de classement de marchandises dans un numéro tarifaire.
-> 1997, ch. 36, art. 130; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 130; 2005, ch. 38, art. 142 et 145
 
 
 
@@ -5749,7 +5746,7 @@ Pérou
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54; 2015, ch. 3, art. 66(F); 2017, ch. 6, art. 106; 2018, ch. 23, art. 46.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54; 2015, ch. 3, art. 66(F); 2017, ch. 6, art. 106; 2018, ch. 23, art. 46
 
 
 
@@ -5764,7 +5761,7 @@ Pérou
 **Arrêtés**
 
 - **(2)** Le ministre de la Sécurité publique et de la Protection civile ou le président de l’Agence des services frontaliers du Canada peuvent, par arrêté, suspendre pendant une période donnée l’application d’un numéro tarifaire visé à la Note supplémentaire 3c) du Chapitre 8 de la liste des dispositions tarifaires et faire entrer en vigueur pour la période un ou plusieurs numéros tarifaires visés à la Note supplémentaire 3b) de ce chapitre en ce qui concerne des marchandises qui sont importées pendant cette période à un bureau de douane dans une région ou une partie du Canada donnée.
-> 1997, ch. 36, art. 134; 1999, ch. 17, art. 131; 2005, ch. 38, art. 141, 142 et 145; 2018, ch. 27, art. 78.
+> 1997, ch. 36, art. 134; 1999, ch. 17, art. 131; 2005, ch. 38, art. 141, 142 et 145; 2018, ch. 27, art. 78
 
 
 
@@ -5811,7 +5808,7 @@ Pérou
 **Définition de ancienne loi**
 
 **137** Dans les articles 140 et 143 à 146, ***ancienne loi*** s’entend du Tarif des douanes dans sa version antérieure à l’entrée en vigueur de l’article 214.
-> 1997, ch. 36, art. 137; 2011, ch. 24, art. 135.
+> 1997, ch. 36, art. 137; 2011, ch. 24, art. 135
 
 
 
@@ -5923,6 +5920,139 @@ http://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/menu-fra.html
 
 
 L’Agence des services frontaliers du Canada publie annuellement une codification ministérielle du Tarif des douanes.]
+
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2002, ch. 22, art. 305 à 308
+
+
+**Sens de date de mise en oeuvre**
+
+**305** Aux articles 306 à 320, ***date de mise en oeuvre*** s’entend de la date d’entrée en vigueur des parties 3 et 4.
+
+
+
+######           — 2002, ch. 22, art. 305 à 308
+
+
+**Traitement transitoire des droits sur les spiritueux emballés**
+
+**306** Les règles ci-après s’appliquent aux spiritueux emballés sur lesquels un droit, calculé à un taux déterminé en application de l’article 1 de la partie I de l’annexe de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), a été imposé en vertu de cette loi ou perçu en vertu du Tarif des douanes, mais n’est pas devenu exigible avant la date de mise en oeuvre :
+- **a)** les spiritueux sont exonérés du droit à compter de cette date;
+- **b)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) cesse de s’appliquer aux spiritueux à cette date;
+- **c)** s’il s’agit de spiritueux emballés importés qui n’ont pas été dédouanés conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la présente loi, la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et le Tarif des douanes s’appliquent à eux comme s’ils avaient été importés à cette date;
+- **d)** s’il s’agit d’autres spiritueux emballés, la présente loi s’applique à eux comme si, à la fois :
+	- **(i)** ils avaient été produits et emballés au Canada à cette date par la personne qui les avait en sa possession immédiatement avant cette date et la personne avait été autorisée en vertu de la présente loi à les produire et à les emballer,
+	- **(ii)** dans le cas où les spiritueux sont en la possession d’une boutique hors taxes ou d’un représentant accrédité ou sont livrés à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md), ils avaient été déposés dans un entrepôt d’accise puis sortis de l’entrepôt à cette date conformément à l’alinéa 147(1)a).
+
+
+
+######           — 2002, ch. 22, art. 305 à 308
+
+
+**Traitement transitoire des droits sur les spiritueux en vrac**
+
+**307** 
+
+- **(1)** Les règles ci-après s’appliquent aux spiritueux en vrac sur lesquels un droit, calculé à un taux déterminé en application de l’article 1 de la partie I de l’annexe de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), a été imposé en vertu de cette loi ou perçu en vertu du Tarif des douanes, mais n’est pas devenu exigible avant la date de mise en oeuvre :
+	- **a)** les spiritueux sont exonérés du droit à compter de cette date;
+	- **b)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) cesse de s’appliquer aux spiritueux à cette date;
+	- **c)** s’il s’agit de spiritueux en vrac importés qui n’ont pas été dédouanés conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la présente loi, la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et le Tarif des douanes s’appliquent à eux comme s’ils avaient été importés à cette date;
+	- **d)** s’il s’agit d’autres spiritueux en vrac, la présente loi s’applique à eux comme s’ils avaient été produits au Canada à cette date par la personne qui les avait en sa possession immédiatement avant cette date.
+
+**Traitement transitoire des spiritueux en vrac importés pour embouteillage ou mélange**
+
+- **(2)** Les règles ci-après s’appliquent aux spiritueux en vrac sur lesquels un droit, calculé à un taux déterminé en application de l’article 1 de la partie I de l’annexe de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), a été perçu en vertu du Tarif des douanes et remis en vertu du [Décret de remise sur l’eau-de-vie distillée pour embouteillage en entrepôt](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/97/321.md) ou du [Décret de remise sur l’eau-de-vie importée pour fins de mélange](/fr/Règlements/Textes%20réglementaires/83/151.md) avant la date de mise en oeuvre :
+	- **a)** à compter de cette date, les spiritueux sont exonérés du droit imposé en vertu du paragraphe 135(1) de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) au moment de leur dépôt dans une distillerie;
+	- **b)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) cesse de s’appliquer aux spiritueux à cette date;
+	- **c)** la présente loi s’applique aux spiritueux comme s’ils avaient été produits au Canada à cette date par la personne qui les avait en sa possession immédiatement avant cette date.
+
+
+
+######           — 2002, ch. 22, art. 305 à 308
+
+
+**Traitement transitoire des taxes d’accise sur le vin**
+
+**308** Les règles ci-après s’appliquent au vin sur lequel une taxe a été imposée en vertu de l’article 27 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), mais n’est pas devenue exigible avant la date de mise en oeuvre :
+- **a)** le vin est exonéré de la taxe à compter de cette date;
+- **b)** les parties III, VI et VII de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) cessent de s’appliquer au vin à cette date;
+- **c)** s’il s’agit de vin importé qui n’a pas été dédouané conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la présente loi, la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et le Tarif des douanes s’appliquent au vin comme s’il avait été importé à cette date;
+- **d)** s’il s’agit de vin en vrac auquel l’alinéa c) ne s’applique pas, la présente loi s’applique au vin comme s’il avait été produit au Canada à cette date :
+	- **(i)** par le particulier qui en était propriétaire immédiatement avant cette date, si le vin se trouve dans une vinerie libre-service ou à la résidence d’un particulier,
+	- **(ii)** par la personne qui l’avait en sa possession immédiatement avant cette date, dans les autres cas;
+- **e)** s’il s’agit de vin auquel les alinéas c) et d) ne s’appliquent pas, la présente loi s’applique au vin comme si, à la fois :
+	- **(i)** il avait été produit et emballé au Canada à cette date par la personne qui l’avait en sa possession immédiatement avant cette date, et la personne avait été autorisée en vertu de la présente loi à le produire et à l’emballer,
+	- **(ii)** dans le cas où le vin est en la possession d’une boutique hors taxes ou d’un représentant accrédité ou est livré à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md), il avait été déposé dans un entrepôt d’accise puis sorti de l’entrepôt à cette date conformément à l’alinéa 147(1)a).
+
+
+
+######           — 2002, ch. 22, art. 315
+
+
+**Sortie d’alcool d’un entrepôt de stockage**
+
+**315** 
+
+- **(1)** Les règles ci-après s’appliquent à l’égard de l’alcool emballé qui se trouve dans un entrepôt de stockage à la date de mise en oeuvre :
+	- **a)** l’alcool doit être sorti de l’entrepôt;
+	- **b)** les droits sur l’alcool qui sont imposés en vertu de la présente loi ou perçus en vertu de l’article 21.2 du Tarif des douanes par l’application des articles 306 ou 308 sont exigibles à cette date, sauf si l’alcool est immédiatement déposé dans un entrepôt d’accise.
+
+**Exceptions**
+
+- **(2)** Le paragraphe (1) ne s’applique pas si l’alcool qui se trouve dans l’entrepôt de stockage est destiné :
+	- **a)** soit à être exporté conformément à la présente loi;
+	- **b)** soit à être livré, selon le cas :
+		- **(i)** à un représentant accrédité, pour son usage personnel ou officiel,
+		- **(ii)** à une boutique hors taxes en vue d’être vendu conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md),
+		- **(iii)** à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
+		- **(iv)** à un transporteur aérien titulaire d’une licence, délivrée en vertu des articles 69 ou 73 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md), pour l’exploitation d’un service aérien international.
+
+
+
+######           — 2002, ch. 22, art. 317
+
+
+**Traitement transitoire des produits du tabac importés**
+
+**317** Les règles ci-après s’appliquent au produit du tabac importé :
+- **a)** si le droit perçu en vertu de l’article 21 du Tarif des douanes et la taxe imposée en vertu de l’article 23 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) sur le produit ne sont pas devenus exigibles avant la date de mise en oeuvre :
+	- **(i)** le produit est exonéré de ces droit et taxe,
+	- **(ii)** la présente loi et la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) s’appliquent au produit comme s’il avait été importé au Canada à cette date;
+- **b)** si le produit a été estampillé ou marqué conformément à la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), il est réputé avoir été estampillé ou marqué, selon le cas, conformément à la présente loi;
+- **c)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) et les parties III, VI et VII de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) cessent de s’appliquer au produit.
+
+
+
+######           — 2008, ch. 28, par. 70(2)
+
+**70** 
+
+- **(2)** Pour l’application des dispositions de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) et de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) qui portent sur le paiement d’intérêts sur une somme, ou sur l’obligation d’en payer, la somme est déterminée, et les intérêts calculés, comme si le présent article était entré en vigueur le 27 février 2008.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 22, par. 1(2)
+
+**1** 
+
+- **(2)** L’article 55 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+**Interdiction**
+
+- **(5)** Sous réserve du paragraphe (6), le décret prévu au paragraphe (1) ne peut être pris à l’égard de marchandises déjà visées par un décret pris en vertu de ce paragraphe ou du paragraphe 5(3) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) tant qu’il ne s’est pas écoulé, depuis l’expiration du décret en cause et de tout autre décret pris en vertu des paragraphes 5(3.2) ou (4.1) de cette loi ou en vertu de l’article 60 ou du paragraphe 63(1), au moins deux ans ou, si elle est plus longue, la durée correspondant à la période d’application du décret ou des décrets.
+
+**Exception**
+
+- **(6)** Les marchandises à l’égard desquelles a été pris, en vertu du paragraphe (1), un décret dont la période d’application a été d’au plus cent quatre-vingts jours peuvent toutefois être assujetties, par décret, à une surtaxe si, d’une part, il s’est écoulé au moins un an depuis l’entrée en vigueur du premier décret et, d’autre part, elles n’ont pas fait l’objet de plus de deux décrets au cours des cinq ans précédant l’entrée en vigueur du nouveau décret.
 
 
 
