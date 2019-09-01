@@ -741,7 +741,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE 4** 
-## [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md)
+## [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-8.md)
 
 
 **169** [Modification]
@@ -1048,13 +1048,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind47C3_hq_21316'>[*]</a></sup>**(1)** Les articles 195 à 204 et 210 à 214 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind47C3_hq_21316'><sup>*</sup></a>: [Note : Articles 195 à 204 et 210 à 214 non en vigueur.]<br />
+<a name='fn_Ind47C3_hq_21316'><sup>*</sup></a>: [Note : Articles 195 à 204 et 210 à 214 en vigueur le 1<sup>er</sup> septembre 2019, *voir* TR/2019-31.]<br />
 
 **Décret**
 
 - <sup><a href='#fn_Ind47C3_hq_21317'>[*]</a></sup>**(2)** Les articles 205 à 209 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind47C3_hq_21317'><sup>*</sup></a>: [Note : Article 205 abrogé avant d’entrer en vigueur, *voir* 2018, ch. 27, art. 513; articles 206 à 209 non en vigueur.]<br />
+<a name='fn_Ind47C3_hq_21316'><sup>*</sup></a>: [Note : Article 205 abrogé avant d’entrer en vigueur, *voir* 2018, ch. 27, art. 513; articles 206 à 209 en vigueur le 1<sup>er</sup> septembre 2019, *voir* TR/2019-31.]<br />
 
 
 
@@ -1077,13 +1077,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-#### Loi de mise en oeuvre de l’Accord de libre-échange canadien
+#### [Loi de mise en oeuvre de l’Accord de libre-échange canadien](/fr/Lois/Lois%20du%20Canada/2017/ch.%2033,%20art.%20219.md)
 
 
 
 **Édiction de la loi**
 
-**219** Est édictée la Loi de mise en oeuvre de l’Accord de libre-échange canadien, dont le texte suit :
+**219** Est édictée la [Loi de mise en oeuvre de l’Accord de libre-échange canadien](/fr/Lois/Lois%20du%20Canada/2017/ch.%2033,%20art.%20219.md), dont le texte suit :
 > [Voir la Loi de mise en oeuvre de l’Accord de libre-échange canadien]
 
 
