@@ -196,7 +196,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition country in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64; 2017, c. 6, s. 95, c. 8, s. 33; 2018, c. 23, s. 40.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64; 2017, c. 6, s. 95, c. 8, s. 33; 2018, c. 23, s. 40
 
 
 
@@ -243,7 +243,7 @@ Peru
 Switzerland
 
 
-> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111; 2012, c. 18, s. 33, c. 26, ss. 39, 62; 2014, c. 28, s. 44.
+> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111; 2012, c. 18, s. 33, c. 26, ss. 39, 62; 2014, c. 28, s. 44
 
 
 
@@ -277,7 +277,7 @@ Switzerland
 **Delegation of powers**
 
 **9** The Minister of Public Safety and Emergency Preparedness may authorize an officer or agent or a class of officers or agents to exercise powers or perform duties of that Minister under this Act.
-> 1997, c. 36, s. 9; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 9; 2005, c. 38, ss. 142, 145
 
 
 
@@ -317,7 +317,7 @@ Switzerland
 **Amendment — List of Tariff Provisions**
 
 **13** The Minister may, by order, amend the List of Tariff Provisions to change a tariff item number or a description of goods in a tariff item, or to add, repeal or replace a tariff item, if the amendment does not affect the rate of customs duty applicable to those goods.
-> 1997, c. 36, s. 13; 2011, c. 24, s. 112.
+> 1997, c. 36, s. 13; 2011, c. 24, s. 112
 
 
 
@@ -361,7 +361,7 @@ Switzerland
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40, c. 28, s. 45; 2017, c. 8, s. 34; 2018, c. 23, s. 41.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40, c. 28, s. 45; 2017, c. 8, s. 34; 2018, c. 23, s. 41
 
 
 
@@ -376,7 +376,7 @@ Switzerland
 **Effect**
 
 - **(2)** An amendment under subsection (1) does not affect the tariff treatments indicated for the country in respect of which the change is made.
-> 1997, c. 36, s. 15; 2011, c. 24, s. 114.
+> 1997, c. 36, s. 15; 2011, c. 24, s. 114
 
 
 
@@ -425,7 +425,7 @@ Switzerland
 	- **(a)** Chapters Three and Four of the North American Free Trade Agreement and any other matters agreed on from time to time by the parties to that Agreement for the purposes of that Agreement;
 	- **(b)** Chapters C and D of the Canada–Chile Free Trade Agreement and any other matters agreed on from time to time by the parties to that Agreement for the purposes of that Agreement; and
 	- **(c)** Chapters III and IV of the Canada — Costa Rica Free Trade Agreement and any other matters agreed on from time to time by the parties to that Agreement for the purposes of that Agreement.
-> 1997, c. 36, s. 16; 2001, c. 28, s. 34; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 16; 2001, c. 28, s. 34; 2005, c. 38, ss. 142, 145
 
 
 
@@ -461,7 +461,7 @@ Switzerland
 **Regulations**
 
 - **(2)** The Governor in Council, on the recommendation of the Minister of Public Safety and Emergency Preparedness, may make regulations prescribing conditions and a period for the purposes of paragraph (1)(d).
-> 1997, c. 36, s. 18; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 18; 2005, c. 38, ss. 142, 145
 
 
 
@@ -488,7 +488,7 @@ Switzerland
 **Applicability of regulations**
 
 - **(3)** Regulations made under this section may apply generally or be limited to particular countries or geographic areas defined in the regulations.
-> 1997, c. 36, s. 19; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 19; 2005, c. 38, ss. 142, 145
 
 
 
@@ -543,7 +543,7 @@ Switzerland
 - **(b)** of heading No. 22.07 or 22.08, other than of tariff item No. 2207.20.11, 2207.20.12, 2207.20.90 or 2208.90.30, that are classified under that heading or with the container in which they are imported. (*spiritueux*)
 
 ***wine*** means wine, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), of heading 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.22.32, 2204.22.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that is classified under that heading or with the container in which it is imported. (*vin*)
-> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45; 2007, c. 18, s. 142; 2008, c. 28, s. 70; 2018, c. 27, s. 69.
+> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45; 2007, c. 18, s. 142; 2008, c. 28, s. 70; 2018, c. 27, s. 69
 
 
 
@@ -562,7 +562,7 @@ Switzerland
 **Limitation**
 
 - **(3)** Despite subsection (2) and the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the person who is liable for duty imposed under subsection (1) in respect of bulk spirits that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) is the person who is liable to pay duties under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
-> 2002, c. 22, s. 346.
+> 2002, c. 22, s. 346
 
 
 
@@ -581,7 +581,7 @@ Switzerland
 **Goods entered into warehouse or premises**
 
 - **(3)** If, immediately after being released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), packaged spirits or wine is entered into the excise warehouse of the excise warehouse licensee or the specified premises of the licensed user who imported the spirits or wine, the duty levied on the spirits or wine under subsection (1) or (2) shall be paid and collected under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). Interest and penalties shall be imposed, calculated, paid and collected under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) as if the duty were imposed under that Act, and, for those purposes, that Act applies with any modifications that the circumstances require.
-> 2002, c. 22, s. 346.
+> 2002, c. 22, s. 346
 
 
 
@@ -590,7 +590,7 @@ Switzerland
 **Additional duty on beer**
 
 **21.3** In addition to any other duties imposed under this Act or any other Act of Parliament relating to customs, there is levied on beer or malt liquor, at the time it is imported, and paid in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an additional duty equal to the duty that would be levied on it under section 170 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) if it had been manufactured or produced in Canada.
-> 2002, c. 22, s. 346.
+> 2002, c. 22, s. 346
 
 
 
@@ -644,7 +644,7 @@ Switzerland
 **Exemption**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister, by order, exempt goods entitled to a tariff treatment other than the General Tariff from any condition set out in subsection (1), on such conditions as may be specified in the order.
-> 1997, c. 36, s. 24; 2001, c. 28, s. 35; 2009, c. 16, s. 39; 2010, c. 4, s. 33; 2011, c. 24, s. 115; 2014, c. 14, s. 41.
+> 1997, c. 36, s. 24; 2001, c. 28, s. 35; 2009, c. 16, s. 39; 2010, c. 4, s. 33; 2011, c. 24, s. 115; 2014, c. 14, s. 41
 
 
 
@@ -735,7 +735,7 @@ Switzerland
 ***UAT*** refers to the Ukraine Tariff. (*TUA*)
 
 ***UST*** refers to the United States Tariff. (*TÉU*)
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46; 2017, c. 6, s. 96, c. 8, s. 35; 2018, c. 23, s. 42.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46; 2017, c. 6, s. 96, c. 8, s. 35; 2018, c. 23, s. 42
 
 
 
@@ -854,7 +854,7 @@ Switzerland
 	- **(a)** specify the date on which the order becomes effective;
 	- **(b)** if the order partially extends entitlement to the Most-Favoured-Nation Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** if the order partially withdraws entitlement to the Most-Favoured-Nation Tariff, indicate the goods that are made subject to the General Tariff.
-> 1997, c. 36, s. 31; 2011, c. 24, s. 117.
+> 1997, c. 36, s. 31; 2011, c. 24, s. 117
 
 
 
@@ -926,7 +926,7 @@ Switzerland
 	- **(b)** must, if the order partially extends entitlement to the General Preferential Tariff, indicate the goods to which entitlement to that Tariff is extended;
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply; and
 	- **(d)** must, if the order wholly or partially withdraws entitlement to the General Preferential Tariff, indicate the goods to which the Most-Favoured-Nation Tariff applies as a consequence.
-> 1997, c. 36, s. 34; 2011, c. 24, s. 118.
+> 1997, c. 36, s. 34; 2011, c. 24, s. 118
 
 
 
@@ -948,7 +948,7 @@ Switzerland
 **Expiry date**
 
 **36** Sections 33 to 35 cease to have effect on December 31, 2024 or on any earlier date that may be fixed by order of the Governor in Council.
-> 1997, c. 36, s. 36; 2004, c. 13, s. 1; 2013, c. 33, s. 62.
+> 1997, c. 36, s. 36; 2004, c. 13, s. 1; 2013, c. 33, s. 62
 
 
 
@@ -991,7 +991,7 @@ Switzerland
 	- **(b)** must, if the order partially extends entitlement to the Least Developed Country Tariff, indicate the goods to which that Tariff is extended;
 	- **(c)** may exempt the goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply; and
 	- **(d)** must, if the order wholly or partially withdraws entitlement to the Least Developed Country Tariff, indicate the goods to which the General Preferential Tariff applies as a consequence.
-> 1997, c. 36, s. 38; 2011, c. 24, s. 119.
+> 1997, c. 36, s. 38; 2011, c. 24, s. 119
 
 
 
@@ -1013,7 +1013,7 @@ Switzerland
 **Expiry date**
 
 **40** Sections 37 to 39 cease to have effect on December 31, 2024 or on any earlier date that may be fixed by order of the Governor in Council.
-> 1997, c. 36, s. 40; 2004, c. 13, s. 2; 2013, c. 33, s. 63.
+> 1997, c. 36, s. 40; 2004, c. 13, s. 2; 2013, c. 33, s. 63
 
 
 
@@ -1055,7 +1055,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order extends or wholly or partially withdraws entitlement to the Commonwealth Caribbean Countries Tariff, indicate the goods to which the order applies; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 1997, c. 36, s. 42; 2011, c. 24, s. 120.
+> 1997, c. 36, s. 42; 2011, c. 24, s. 120
 
 
 
@@ -1350,7 +1350,7 @@ Switzerland
 **Extension of Colombia Tariff**
 
 - **(8)** Notwithstanding any other provision of this Act, for the purposes of giving effect to Article 317 of the Canada–Colombia Free Trade Agreement, the Minister may, by order, amend the schedule to extend entitlement to the Colombia Tariff to any imported goods subject to any condition that may be specified in the order.
-> 2010, c. 4, s. 35.
+> 2010, c. 4, s. 35
 
 
 
@@ -1418,7 +1418,7 @@ Switzerland
 **Elimination of rates of less than two per cent**
 
 - **(8)** If a reduction under subsection (3) or (5) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2001, c. 28, s. 37.
+> 2001, c. 28, s. 37
 
 
 
@@ -1427,7 +1427,7 @@ Switzerland
 **Extension of Costa Rica Tariff**
 
 **49.2** Notwithstanding any other provision of this Act and for the purpose of giving effect to Appendix III.1.6.1 of Annex III.1 of the Canada — Costa Rica Free Trade Agreement, the Minister may, by order, amend the schedule to extend entitlement to the Costa Rica Tariff to any imported goods under such conditions as are specified in the order.
-> 2001, c. 28, s. 37.
+> 2001, c. 28, s. 37
 
 
 
@@ -1440,7 +1440,7 @@ Switzerland
 **Reduction of rate: “M” Staging**
 
 **49.4** The Governor in Council may, on the recommendation of the Minister, by order, amend the List of Tariff Provisions and the “F” Staging List to reduce, subject to the conditions specified in the order, the initial rate for goods of a tariff item entitled to the Costa Rica Tariff in respect of which “M” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CRT” in that tariff item.
-> 2001, c. 28, s. 37.
+> 2001, c. 28, s. 37
 
 
 
@@ -1500,7 +1500,7 @@ Switzerland
 **Elimination of rates of less than two per cent**
 
 - **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2012, c. 26, s. 42.
+> 2012, c. 26, s. 42
 
 
 
@@ -1559,7 +1559,7 @@ Switzerland
 **Limits on reduction of duty**
 
 - **(9)** The Governor in Council may, on the recommendation of the Minister, by order, specify limits on the aggregate quantity of goods of tariff item Nos. 1701.91.10, 1701.99.10, 1702.90.21, 1702.90.61, 1702.90.70 and 1702.90.81 that are entitled to the Peru Tariff, and the limits apply during the periods and subject to the conditions that may be specified in the order.
-> 2009, c. 16, s. 42.
+> 2009, c. 16, s. 42
 
 
 
@@ -1618,7 +1618,7 @@ Switzerland
 **Limits on reduction of duty**
 
 - **(9)** The Governor in Council may, on the recommendation of the Minister, by order, specify limits on the aggregate quantity of goods of tariff item Nos. 1701.91.10, 1701.99.10, 1702.90.21, 1702.90.61, 1702.90.70 and 1702.90.81 that are entitled to the Honduras Tariff, and the limits apply during the periods and subject to the conditions that may be specified in the order.
-> 2014, c. 14, s. 43.
+> 2014, c. 14, s. 43
 
 
 
@@ -1690,7 +1690,7 @@ Switzerland
 **Elimination of rates less than 2%**
 
 - **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2014, c. 28, s. 47.
+> 2014, c. 28, s. 47
 
 
 
@@ -1758,7 +1758,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.02, 87.03 or 87.04, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2017, c. 6, s. 97.
+> 2017, c. 6, s. 97
 
 
 
@@ -1767,7 +1767,7 @@ Switzerland
 **Regulations**
 
 **49.9** The Governor in Council may, on the recommendation of the Minister, make regulations defining the term “EU country or other CETA beneficiary”.
-> 2017, c. 6, s. 97.
+> 2017, c. 6, s. 97
 
 
 
@@ -1788,7 +1788,7 @@ Switzerland
 	- **(b)** must, if the order partially extends entitlement to the Canada–European Union Tariff, indicate the goods to which entitlement to that Tariff is extended;
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply; and
 	- **(d)** must, if the order wholly or partially withdraws entitlement to the Canada–European Union Tariff, indicate the goods to which the Most-Favoured-Nation Tariff applies as a consequence.
-> 2017, c. 6, s. 97.
+> 2017, c. 6, s. 97
 
 
 
@@ -1814,10 +1814,7 @@ Switzerland
 
 
 
-
-**Limits on reduction of duty**
-
-**51** The Governor in Council may, on the recommendation of the Minister of Foreign Affairs, by order, specify limits on the aggregate quantity of roses of tariff item No. 0603.10.11 that are entitled to the Canada–Israel Agreement Tariff, and the limits apply during the periods that may be specified in the order.
+**51** [Repealed, 2019, c. 6, s. 9]
 
 
 
@@ -1831,7 +1828,7 @@ Switzerland
 **Incorporation by reference**
 
 - **(2)** For greater certainty, a regulation made under subsection (1) incorporating by reference any document or enactment may incorporate it as amended from time to time.
-> 1997, c. 36, s. 52; 2015, c. 3, s. 65(F).
+> 1997, c. 36, s. 52; 2015, c. 3, s. 65(F)
 
 
 
@@ -1893,7 +1890,7 @@ Switzerland
 **Elimination of rates of less than two per cent**
 
 - **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2009, c. 6, s. 33.
+> 2009, c. 6, s. 33
 
 
 
@@ -1955,7 +1952,7 @@ Switzerland
 **Elimination of rates of less than two per cent**
 
 - **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2009, c. 6, s. 33.
+> 2009, c. 6, s. 33
 
 
 
@@ -2017,7 +2014,7 @@ Switzerland
 **Elimination of rates of less than two per cent**
 
 - **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2009, c. 6, s. 33.
+> 2009, c. 6, s. 33
 
 
 
@@ -2052,7 +2049,7 @@ Switzerland
 **Elimination of rates of less than two per cent**
 
 - **(6)** If a reduction under subsection (3) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2012, c. 18, s. 36.
+> 2012, c. 18, s. 36
 
 
 
@@ -2075,7 +2072,7 @@ Switzerland
 **“F” staging for UAT**
 
 - **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “UAT” in relation to goods entitled to the Ukraine Tariff, the Ukraine Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
-> 2017, c. 8, s. 36.
+> 2017, c. 8, s. 36
 
 
 
@@ -2164,7 +2161,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2186,7 +2183,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Trans-Pacific Partnership Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2275,7 +2272,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2297,7 +2294,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Australia Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2386,7 +2383,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2408,7 +2405,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Brunei Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2497,7 +2494,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2519,7 +2516,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Chile Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2608,7 +2605,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2630,7 +2627,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Japan Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2719,7 +2716,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2741,7 +2738,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Malaysia Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2830,7 +2827,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2852,7 +2849,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Mexico Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2941,7 +2938,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -2963,7 +2960,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive New Zealand Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -3052,7 +3049,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -3074,7 +3071,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Peru Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -3163,7 +3160,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -3185,7 +3182,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Singapore Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -3274,7 +3271,7 @@ Switzerland
 **Elimination of rates of less than 2%**
 
 - **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -3296,7 +3293,7 @@ Switzerland
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Vietnam Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
-> 2018, c. 23, s. 43.
+> 2018, c. 23, s. 43
 
 
 
@@ -3386,7 +3383,7 @@ Peru (*cause principale*)
 ***surge***, in respect of goods imported from
 - **(a)** a NAFTA country, has the meaning given that word by Article 805 of the North American Free Trade Agreement; or
 - **(b)** Chile, has the meaning given that word by Article F-05 of the Canada–Chile Free Trade Agreement. (*augmentation subite*)
-> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36; 2011, c. 24, s. 124; 2012, c. 26, s. 43; 2014, c. 28, s. 48.
+> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36; 2011, c. 24, s. 124; 2012, c. 26, s. 43; 2014, c. 28, s. 48
 
 
 
@@ -3417,7 +3414,7 @@ Peru (*cause principale*)
 - **(5)** [Repealed, 2019, c. 22, s. 1]
 
 - **(6)** [Repealed, 2019, c. 22, s. 1]
-> 1997, c. 36, s. 55; 2019, c. 22, s. 1.
+> 1997, c. 36, s. 552019, c. 22, s. 1
 
 
 
@@ -3441,7 +3438,7 @@ Peru (*cause principale*)
 **Exception for certain agricultural goods**
 
 **57** No order may be made under subsection 55(1), on the basis of a report of the Minister, with respect to any prescribed agricultural goods that may be subject to a surtax under subsection 68(1).
-> 1997, c. 36, s. 57; 2011, c. 24, s. 125.
+> 1997, c. 36, s. 57; 2011, c. 24, s. 125
 
 
 
@@ -3490,7 +3487,7 @@ Panama
 Peru
 
 
-> 2009, c. 16, s. 44; 2010, c. 4, s. 37; 2011, c. 24, s. 126; 2012, c. 26, s. 44; 2014, c. 28, s. 49.
+> 2009, c. 16, s. 44; 2010, c. 4, s. 37; 2011, c. 24, s. 126; 2012, c. 26, s. 44; 2014, c. 28, s. 49
 
 
 
@@ -3573,7 +3570,7 @@ Peru
 - **(5)** Every extension order made under subsection (1)
 	- **(a)** remains in effect, subject to this section, for the period that is specified in the order, but the total of the specified period and the periods during which the goods were subject to related orders made under subsection (1) or 55(1) or section 60 or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) may not exceed eight years; and
 	- **(b)** may, notwithstanding any other provision of this section, be amended or repealed at any time by the Governor in Council on the recommendation of the Minister, unless, before that time, a resolution directing that the order cease to have effect has been adopted by both Houses of Parliament under section 64.
-> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38; 2011, c. 24, s. 127; 2012, c. 26, s. 45; 2014, c. 28, s. 50.
+> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38; 2011, c. 24, s. 127; 2012, c. 26, s. 45; 2014, c. 28, s. 50
 
 
 
@@ -3586,12 +3583,12 @@ Peru
 
 
 
-**Notice in Canada Gazette**
+**Notice in [Canada Gazette](http://www.gazette.gc.ca/)**
 
 **65** If an order made under
 - **(a)** subsection 55(1) remains in effect by reason of subsection 56(2) or 59(2), or
 - **(b)** subsection 55(1), section 60 or subsection 63(1) ceases to have effect by reason of a resolution of both Houses of Parliament,
-the Minister shall cause a notice to that effect to be published in the Canada Gazette.
+the Minister shall cause a notice to that effect to be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 
 
@@ -3636,9 +3633,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(4)** If both Houses of Parliament adopt a resolution directing that an order made under subsection (1) cease to have effect, the order ceases to have effect on the day that the resolution is adopted or, if the adopted resolution specifies a day on which the order ceases to have effect, on that specified day.
 
-**Notice in Canada Gazette**
+**Notice in [Canada Gazette](http://www.gazette.gc.ca/)**
 
-- **(5)** If an order under subsection (1) ceases to have effect as a result of a resolution of both Houses of Parliament, the Minister shall cause a notice to that effect to be published in the Canada Gazette.
+- **(5)** If an order under subsection (1) ceases to have effect as a result of a resolution of both Houses of Parliament, the Minister shall cause a notice to that effect to be published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Regulations**
 
@@ -3653,8 +3650,8 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Publication**
 
-- **(8)** Every order made under subsection (1) must be published in the Canada Gazette.
-> 1997, c. 36, s. 68; 1999, c. 17, s. 130; 2005, c. 38, s. 87.
+- **(8)** Every order made under subsection (1) must be published in the [Canada Gazette](http://www.gazette.gc.ca/).
+> 1997, c. 36, s. 68; 1999, c. 17, s. 130; 2005, c. 38, s. 87
 
 
 
@@ -3693,7 +3690,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(5)** For the purposes of paragraph (2)(a), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
-> 1997, c. 36, s. 69; 2018, c. 27, s. 70.
+> 1997, c. 36, s. 69; 2018, c. 27, s. 70
 
 
 
@@ -3745,7 +3742,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(7)** For the purposes of paragraph (2)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
-> 1997, c. 36, s. 70; 2018, c. 27, s. 71.
+> 1997, c. 36, s. 70; 2018, c. 27, s. 71
 
 
 
@@ -3797,7 +3794,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(7)** For the purposes of paragraph (2)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
-> 1997, c. 36, s. 71; 2018, c. 27, s. 72.
+> 1997, c. 36, s. 71; 2018, c. 27, s. 72
 
 
 
@@ -3833,7 +3830,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of principal cause**
 
 - **(4)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
-> 2010, c. 4, s. 39.
+> 2010, c. 4, s. 39
 
 
 
@@ -3892,7 +3889,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(8)** For the purposes of paragraph (2)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
-> 2001, c. 28, s. 38; 2018, c. 27, s. 73.
+> 2001, c. 28, s. 38; 2018, c. 27, s. 73
 
 
 
@@ -3946,7 +3943,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(7)** For the purposes of paragraph (1)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
-> 2009, c. 6, s. 34; 2018, c. 27, s. 74.
+> 2009, c. 6, s. 34; 2018, c. 27, s. 74
 
 
 
@@ -4004,7 +4001,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Non-application**
 
 - **(8)** This section does not apply in respect of goods of the territory of Svalbard.
-> 2009, c. 6, s. 34; 2018, c. 27, s. 75.
+> 2009, c. 6, s. 34; 2018, c. 27, s. 75
 
 
 
@@ -4058,7 +4055,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(7)** For the purposes of paragraph (1)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
-> 2009, c. 6, s. 34; 2018, c. 27, s. 76.
+> 2009, c. 6, s. 34; 2018, c. 27, s. 76
 
 
 
@@ -4095,7 +4092,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of principal cause**
 
 - **(4)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
-> 2012, c. 26, s. 46.
+> 2012, c. 26, s. 46
 
 
 
@@ -4132,7 +4129,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of principal cause**
 
 - **(5)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
-> 2009, c. 16, ss. 46, 56.
+> 2009, c. 16, ss. 46, 56
 
 
 
@@ -4176,7 +4173,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(6)** For the purposes of paragraph (1)(b), the Most-Favoured Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is,
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
-> 2012, c. 18, s. 37; 2018, c. 27, s. 77.
+> 2012, c. 18, s. 37; 2018, c. 27, s. 77
 
 
 
@@ -4228,7 +4225,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of principal cause**
 
 - **(7)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
-> 1997, c. 36, s. 72; 2011, c. 24, s. 128; 2014, c. 14, s. 44.
+> 1997, c. 36, s. 72; 2011, c. 24, s. 128; 2014, c. 14, s. 44
 
 
 
@@ -4275,7 +4272,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Further orders**
 
 - **(7)** An order under subsection (1) may not be made more than once during the period beginning on the coming into force of this subsection and ending on the date that is five years after the coming into force of this subsection in respect of goods of a particular kind.
-> 1997, c. 36, s. 73; 2011, c. 24, s. 128; 2014, c. 14, s. 44.
+> 1997, c. 36, s. 73; 2011, c. 24, s. 128; 2014, c. 14, s. 44
 
 
 
@@ -4344,7 +4341,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of principal cause**
 
 - **(10)** In this section, ***principal cause*** means, in respect of a serious injury or threat of a serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
-> 1997, c. 36, s. 74; 2011, c. 24, s. 128; 2014, c. 28, s. 51.
+> 1997, c. 36, s. 74; 2011, c. 24, s. 128; 2014, c. 28, s. 51
 
 
 
@@ -4381,7 +4378,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of principal cause**
 
 - **(4)** In this section, ***principal cause*** means, in respect of a serious injury or threat of a serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
-> 1997, c. 36, s. 75; 2011, c. 24, s. 128; 2017, c. 8, s. 37.
+> 1997, c. 36, s. 75; 2011, c. 24, s. 128; 2017, c. 8, s. 37
 
 
 
@@ -4425,7 +4422,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Rate of duty when an order ceases to have effect**
 
 - **(5)** When an order made under subsection (1) ceases to have effect, the rate of customs duty applicable to the goods is the rate of customs duty that is applicable in accordance with the provision of this Act that gives effect to the CPTPP Tariff to which the goods are entitled.
-> 1997, c. 36, s. 76; 2011, c. 24, s. 128; 2018, c. 23, s. 44.
+> 1997, c. 36, s. 76; 2011, c. 24, s. 128; 2018, c. 23, s. 44
 
 
 
@@ -4464,7 +4461,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Rate of duty when an order ceases to have effect**
 
 - **(5)** When an order made under subsection (1) ceases to have effect, the rate of customs duty applicable to the goods is the rate of customs duty that is applicable in accordance with the provision of this Act that gives effect to the CPTPP Tariff to which the goods are entitled.
-> 1997, c. 36, s. 77; 2011, c. 24, s. 128; 2018, c. 23, s. 44.
+> 1997, c. 36, s. 77; 2011, c. 24, s. 128; 2018, c. 23, s. 44
 
 
 
@@ -4501,7 +4498,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Inquiry**
 
 - **(5)** If an order is made under subsection (2) on the basis of a report of the Minister, the Governor in Council shall immediately refer the matter to the Canadian International Trade Tribunal for an inquiry under subsection 30.21(1) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md).
-> 2002, c. 19, s. 7.
+> 2002, c. 19, s. 7
 
 
 
@@ -4518,7 +4515,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Cessation**
 
 - **(2)** If an order is made under subsection 77.1(2) on the basis of a report of the Minister, the order ceases to have effect at the end of the two hundredth day after the day on which the order is made unless, before the order so ceases to have effect, the Canadian International Trade Tribunal reports to the Governor in Council, on the basis of an inquiry made under section 30.21 or 30.22 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the goods described in the report of the Minister are being imported in such increased quantities or under such conditions as to cause or threaten to cause market disruption to domestic producers of like or directly competitive goods.
-> 2002, c. 19, s. 7.
+> 2002, c. 19, s. 7
 
 
 
@@ -4547,7 +4544,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(4)** Every extension order made under subsection (1)
 	- **(a)** remains in effect, subject to this section, for the period that is specified in the order; and
 	- **(b)** may, notwithstanding any other provision of this section, be amended or repealed at any time by the Governor in Council on the recommendation of the Minister unless, before that time, a resolution directing that the order cease to have effect has been adopted by both Houses of Parliament under section 77.4.
-> 2002, c. 19, s. 7.
+> 2002, c. 19, s. 7
 
 
 
@@ -4556,19 +4553,19 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Resolution of Parliament of cessation**
 
 **77.4** Notwithstanding sections 77.1 to 77.3 and 77.5 to 77.8, if a resolution directing that an order made under subsection 77.1(2), 77.3(1) or 77.6(2) cease to have effect is adopted by both Houses of Parliament, the order ceases to have effect on the day that the resolution is adopted or, if the adopted resolution specifies a day on which the order ceases to have effect, on that specified day.
-> 2002, c. 19, s. 7.
+> 2002, c. 19, s. 7
 
 
 
 
 
-**Notice in Canada Gazette**
+**Notice in [Canada Gazette](http://www.gazette.gc.ca/)**
 
 **77.5** If an order made under
 - **(a)** subsection 77.1(2) remains in effect by reason of subsection 77.2(2), or
 - **(b)** subsection 77.1(2), 77.3(1) or 77.6(2) ceases to have effect by reason of a resolution of both Houses of Parliament,
-the Minister shall cause a notice to that effect to be published in the Canada Gazette.
-> 2002, c. 19, s. 7.
+the Minister shall cause a notice to that effect to be published in the [Canada Gazette](http://www.gazette.gc.ca/).
+> 2002, c. 19, s. 7
 
 
 
@@ -4601,7 +4598,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Amendment or repeal**
 
 - **(4)** An order made under subsection (2) may be amended or repealed at any time by the Governor in Council on the recommendation of the Minister unless, before that time, a resolution directing that the order cease to have effect has been adopted by both Houses of Parliament under section 77.4.
-> 2002, c. 19, s. 7.
+> 2002, c. 19, s. 7
 
 
 
@@ -4610,7 +4607,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Regulations**
 
 **77.7** The Governor in Council may make regulations for carrying out the purposes of sections 77.1 to 77.6 and may, by order, suspend a surtax or rate in whole or in part from application to any goods or any class of goods.
-> 2002, c. 19, s. 7.
+> 2002, c. 19, s. 7
 
 
 
@@ -4619,7 +4616,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Decision of Governor in Council final**
 
 **77.8** The decision of the Governor in Council is final on any question that may arise regarding the application of the surtax or rate imposed under sections 77.1 to 77.6.
-> 2002, c. 19, s. 7.
+> 2002, c. 19, s. 7
 
 
 
@@ -4628,7 +4625,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Expiry date**
 
 **77.9** Sections 77.1 to 77.8 cease to have effect on December 11, 2013.
-> 2002, c. 19, s. 7.
+> 2002, c. 19, s. 7
 
 
 
@@ -4682,7 +4679,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(n)** subsection 74(1);
 - **(o)** subsection 74(2);
 - **(p)** subsection 75(1).
-> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63; 2014, c. 14, s. 45, c. 28, s. 52; 2017, c. 8, s. 38.
+> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63; 2014, c. 14, s. 45, c. 28, s. 52; 2017, c. 8, s. 38
 
 
 
@@ -4710,7 +4707,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 ***goods and services tax*** means the tax imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md). (*taxe sur les produits et services*)
 
 ***process***, in respect of goods, includes the adjustment, alteration, assembly, manufacture, modification, production or repair of the goods. (*transformation*)
-> 1997, c. 36, s. 80; 2001, c. 28, s. 41; 2002, c. 19, ss. 8, 19, c. 22, s. 347; 2011, c. 24, s. 130; 2017, c. 6, s. 98.
+> 1997, c. 36, s. 80; 2001, c. 28, s. 41; 2002, c. 19, ss. 8, 19, c. 22, s. 347; 2011, c. 24, s. 130; 2017, c. 6, s. 98
 
 
 
@@ -4748,7 +4745,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Exception**
 
-- **(5)** An order made under subsection (2) that increases a rate of customs duty may not have effect in respect of a period before the date the order is published in the Canada Gazette.
+- **(5)** An order made under subsection (2) that increases a rate of customs duty may not have effect in respect of a period before the date the order is published in the [Canada Gazette](http://www.gazette.gc.ca/).
 
 **Regulations**
 
@@ -4774,7 +4771,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 	- **(i)** the value for duty of the goods shall be reduced by an amount equal to the maximum value specified under tariff item No. 9804.10.00 or 9804.20.00, as the case may be, and
 	- **(ii)** the first $300 of the value for duty shall be assessed duties under tariff item No. 9804.30.00; and
 - **(c)** the goods shall be classified under tariff items in any of Chapters 1 to 97 and heading No. 98.26, as the case may be.
-> 1997, c. 36, s. 83; 2001, c. 16, s. 4; 2002, c. 22, s. 348.
+> 1997, c. 36, s. 83; 2001, c. 16, s. 4; 2002, c. 22, s. 348
 
 
 
@@ -4830,7 +4827,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Goods of tariff item No. 9971.00.00 — CPTPP country**
 
 - **(7)** Despite subsection 20(2), the value for duty of goods of tariff item No. 9971.00.00 that are entitled to a CPTPP tariff is the value of the repairs or alterations made to those goods in a CPTPP country.
-> 1997, c. 36, s. 87; 2009, c. 6, s. 35; 2014, c. 28, s. 53; 2017, c. 6, s. 99; 2018, c. 23, s. 45.
+> 1997, c. 36, s. 87; 2009, c. 6, s. 35; 2014, c. 28, s. 53; 2017, c. 6, s. 99; 2018, c. 23, s. 45
 
 
 
@@ -4843,7 +4840,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Goods of tariff item No. 9937.00.00**
 
 **88** A group desiring to be recognized as an ethno-cultural group for the purposes of tariff item No. 9937.00.00 shall submit an application to the Minister of Public Safety and Emergency Preparedness supported by evidence that the group satisfies the criteria set out in that tariff item.
-> 1997, c. 36, s. 88; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 88; 2005, c. 38, ss. 142, 145
 
 
 
@@ -4882,7 +4879,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Application**
 
 - **(4)** An application for relief under subsection (1) must be in a form and contain information satisfactory to the Minister of Public Safety and Emergency Preparedness.
-> 1997, c. 36, s. 89; 2002, c. 22, s. 349; 2005, c. 38, ss. 142, 145; 2017, c. 6, s. 100.
+> 1997, c. 36, s. 89; 2002, c. 22, s. 349; 2005, c. 38, ss. 142, 145; 2017, c. 6, s. 100
 
 
 
@@ -4901,7 +4898,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Release of goods**
 
 - **(3)** Goods in respect of which relief is granted under section 89 may be released without payment of the duties relieved under that section if the number of the certificate issued under subsection (1) is disclosed when the goods are accounted for under section 32 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the certificate is in force at that time.
-> 1997, c. 36, s. 90; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 90; 2005, c. 38, ss. 142, 145
 
 
 
@@ -4924,7 +4921,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Security**
 
 - **(4)** A person to whom a licence is issued under subsection (1) shall, at the request of the Minister of Public Safety and Emergency Preparedness, provide security, of a type and in accordance with the conditions that may be prescribed, in an amount satisfactory to that Minister.
-> 1997, c. 36, s. 91; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 91; 2005, c. 38, ss. 142, 145
 
 
 
@@ -4945,7 +4942,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Exception**
 
 - **(3)** This section does not apply to any duty imposed under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) in respect of manufactured tobacco that is manufactured in Canada and imported manufactured tobacco that is stamped in accordance with that Act.
-> 1997, c. 36, s. 92; 2001, c. 16, s. 5; 2002, c. 22, s. 350; 2008, c. 28, s. 71.
+> 1997, c. 36, s. 92; 2001, c. 16, s. 5; 2002, c. 22, s. 350; 2008, c. 28, s. 71
 
 
 
@@ -4954,7 +4951,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Submission of evidence**
 
 **93** If relief has been granted under section 89 or 92, the Minister of Public Safety and Emergency Preparedness may require the submission of evidence satisfactory to that Minister for the purpose of administering section 95.
-> 1997, c. 36, s. 93; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 93; 2005, c. 38, ss. 142, 145
 
 
 
@@ -4972,7 +4969,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **For greater certainty**
 
 - **(2)** For greater certainty, in sections 95, 96 and 98.1, customs duties does not include any duties or taxes levied or imposed on imported goods under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
-> 1997, c. 36, s. 94; 2001, c. 28, s. 42; 2002, c. 19, ss. 9, 21, c. 22, s. 351; 2011, c. 24, s. 131; 2017, c. 6, s. 101.
+> 1997, c. 36, s. 94; 2001, c. 28, s. 42; 2002, c. 19, ss. 9, 21, c. 22, s. 351; 2011, c. 24, s. 131; 2017, c. 6, s. 101
 
 
 
@@ -5031,7 +5028,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of materials**
 
 - **(8)** In this section, ***materials*** means goods that are used in the processing of other goods, and includes parts or ingredients.
-> 1997, c. 36, s. 95; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 95; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5105,7 +5102,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of materials**
 
 - **(5)** In this section, ***materials*** means goods that are used in the processing of other goods, and includes parts or ingredients.
-> 2017, c. 6, s. 102.
+> 2017, c. 6, s. 102
 
 
 
@@ -5149,7 +5146,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(h)** regulating or prohibiting the delivery to conveyances of goods designated as ships’ stores;
 - **(i)** regulating or prohibiting the transfer from one conveyance to another of goods designated as ships’ stores; and
 - **(j)** prescribing anything required to be prescribed by the Governor in Council under sections 89 to 94 and 96 to 98.
-> 1997, c. 36, s. 99; 2001, c. 28, s. 43; 2002, c. 19, ss. 10, 23, c. 22, ss. 352, 424; 2005, c. 38, ss. 142, 145; 2011, c. 24, s. 132.
+> 1997, c. 36, s. 99; 2001, c. 28, s. 43; 2002, c. 19, ss. 10, 23, c. 22, ss. 352, 424; 2005, c. 38, ss. 142, 145; 2011, c. 24, s. 132
 
 
 
@@ -5158,7 +5155,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Regulations**
 
 **100** The Governor in Council may, on the recommendation of the Minister and the Minister of Public Safety and Emergency Preparedness, make regulations prescribing the circumstances under which and the extent to which goods may be manipulated, unpacked, packed, altered or combined with other goods while in a bonded warehouse.
-> 1997, c. 36, s. 100; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 100; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5188,7 +5185,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(3)** The Governor in Council may make regulations
 	- **(a)** on the recommendation of the Minister, prescribing the manner for determining what goods are considered to be a product of Canada for the purposes of subsection (1); and
 	- **(b)** on the recommendation of the Minister of Public Safety and Emergency Preparedness, defining the words ***aircraft***, ***vehicles*** and ***vessels*** for the purposes of subsection (2).
-> 1997, c. 36, s. 101; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 101; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5202,7 +5199,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 	- **(ii)** in respect of equipment referred to in paragraph 101(1)(b), the equipment added could not practicably have been added in Canada, or
 	- **(iii)** in respect of goods referred to in paragraph 101(1)(c), it would not have been practicable to do the work in Canada; or
 - **(b)** if the application is made under subsection 101(2), made in the prescribed form and manner, with the prescribed information, at the time of the return to Canada of the goods in respect of which the application is made.
-> 1997, c. 36, s. 102; 2005, c. 38, ss. 89(F), 142, 145..
+> 1997, c. 36, s. 102; 2005, c. 38, ss. 89(F), 142, 145.
 
 
 
@@ -5239,7 +5236,7 @@ less
 **Regulations**
 
 - **(2)** For the purposes of subsection (1), the Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations prescribing the method of determining the value of repairs made, equipment added and work done outside Canada.
-> 1997, c. 36, s. 105; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 105; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5266,7 +5263,7 @@ less
 **Waiver**
 
 - **(5)** The Minister of Public Safety and Emergency Preparedness may waive the requirement under subsection (1) to provide security.
-> 1997, c. 36, s. 106; 2002, c. 22, s. 353; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 106; 2002, c. 22, s. 353; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5291,7 +5288,7 @@ less
 **Effect of relief on value under [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md)**
 
 - **(3)** Notwithstanding subsection (1), the amount of customs duties payable on goods shall, for the purposes of determining the value of the goods under section 215 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), be determined as if relief had been granted under section 101 but had not been granted under section 89, 92 or 106.
-> 1997, c. 36, s. 107; 2017, c. 6, s. 103.
+> 1997, c. 36, s. 107; 2017, c. 6, s. 103
 
 
 
@@ -5309,7 +5306,7 @@ less
 	- **(i)** the goods in respect of which the application was made are not exported within the period referred to in subsection 106(3) or (4), as the case may be, the goods are accounted for under section 32 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and all duties and taxes payable in respect of the goods are paid,
 	- **(ii)** the goods in respect of which the application was made are destroyed in the manner that the Minister of Public Safety and Emergency Preparedness directs, or
 	- **(iii)** the goods in respect of which the application was made are exported within the period referred to in subsection 106(3) or (4), as the case may be.
-> 1997, c. 36, s. 108; 2005, c. 38, ss. 88, 142, 145.
+> 1997, c. 36, s. 108; 2005, c. 38, ss. 88, 142, 145
 
 
 
@@ -5329,7 +5326,7 @@ less
 - **(b)** not used in Canada;
 - **(c)** destroyed in such manner as the Minister of Public Safety and Emergency Preparedness may direct; and
 - **(d)** not damaged before their destruction.
-> 1997, c. 36, s. 109; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 109; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5353,7 +5350,7 @@ less
 	- **(ii)** in any other case, by the manufacturer, producer or owner of the obsolete or surplus goods;
 - **(b)** accompanied by a waiver referred to in section 119, if applicable, and by the prescribed documents; and
 - **(c)** made within five years, or such other time as may be prescribed, after the goods in respect of which it is made are released.
-> 1997, c. 36, s. 111; 2005, c. 38, ss. 89(F), 145.
+> 1997, c. 36, s. 111; 2005, c. 38, ss. 89(F), 145
 
 
 
@@ -5362,7 +5359,7 @@ less
 **Regulations**
 
 **112** The Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations prescribing documents that must accompany an application under section 110 and the period within which such an application must be made.
-> 1997, c. 36, s. 112; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 112; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5410,7 +5407,7 @@ less
 **Designated goods**
 
 - **(5)** Despite the exception in subsection 89(2), a refund or drawback of duties or taxes levied or imposed under sections 21.1 to 21.3, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) shall be granted under paragraph (1)(a) on designated goods.
-> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354; 2005, c. 38, ss. 89(F), 142, 145; 2011, c. 24, s. 133; 2017, c. 6, s. 104.
+> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354; 2005, c. 38, ss. 89(F), 142, 145; 2011, c. 24, s. 133; 2017, c. 6, s. 104
 
 
 
@@ -5444,7 +5441,7 @@ less
 **Remission by way of refund**
 
 - **(3)** If duties have been paid, a remission under subsection (1) shall be made by granting a refund of the duties to be remitted.
-> 1997, c. 36, s. 115; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 115; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5467,7 +5464,7 @@ less
 **Sum in lieu of drawback, refund, etc.**
 
 **117** If circumstances exist that render it difficult to determine the exact amount of relief under section 89, of a refund under section 110 or of a refund or drawback under section 113 or the exact amount of a general remission of duties under an order made under section 115 of this Act or section 23 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister of Public Safety and Emergency Preparedness may, with the consent of the applicant for the relief, refund, drawback or remission, grant to the applicant a sum, in an amount determined by that Minister, in lieu of the relief, refund, drawback or remission.
-> 1997, c. 36, s. 117; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 117; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5498,7 +5495,7 @@ less
 - **(4)** The Governor in Council may make regulations
 	- **(a)** on the recommendation of the Minister of Public Safety and Emergency Preparedness, prescribing time limits for the application of subsection (1) and the goods or classes of goods in respect of which, or the circumstances in which, those limits apply; and
 	- **(b)** on the recommendation of the Minister, prescribing the circumstances in which certain goods are exempted from the application of subsection (1) and the goods or classes of goods in respect of which, and the period for which and the conditions under which, those exemptions apply.
-> 1997, c. 36, s. 118; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 118; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5507,7 +5504,7 @@ less
 **Waivers**
 
 **119** An application under section 110 or 113 must be accompanied by a waiver, in the prescribed form, from every other person eligible to claim a drawback, refund or remission of the duties in respect of which the application is made, waiving that person’s right to apply for the drawback, refund or remission.
-> 1997, c. 36, s. 119; 2005, c. 38, ss. 89(F), 145.
+> 1997, c. 36, s. 119; 2005, c. 38, ss. 89(F), 145
 
 
 
@@ -5591,7 +5588,7 @@ less
 **Interest on the payment of relief for CETA**
 
 - **(8)** A person who is liable under subsection 98.1(1) to pay an amount shall pay, in addition to the amount, interest at the specified rate for the period beginning on the sixty-first day after on which the day the amount became payable and ending on the day on which the amount is paid in full, calculated on the amount of the balance outstanding.
-> 1997, c. 36, s. 123; 2001, c. 25, s. 88; 2017, c. 6, s. 105.
+> 1997, c. 36, s. 123; 2001, c. 25, s. 88; 2017, c. 6, s. 105
 
 
 
@@ -5600,7 +5597,7 @@ less
 **Interest to be compounded**
 
 **124** Interest computed at a prescribed rate or at a specified rate shall be compounded daily and, if interest computed in respect of an amount under a provision of this Act is unpaid on the day it would, but for this section, have ceased to be computed under that provision, interest at the specified rate, computed and compounded daily on the unpaid interest from that day to the day it is paid, shall be paid in the same manner as the provision requires the principal amount to be paid.
-> 1997, c. 36, s. 124; 2001, c. 25, s. 89.
+> 1997, c. 36, s. 124; 2001, c. 25, s. 89
 
 
 
@@ -5609,7 +5606,7 @@ less
 **Prescribed rate may be authorized**
 
 **125** The Minister of Public Safety and Emergency Preparedness may authorize persons who are required under a provision of this Act to pay interest on an amount at a specified rate to instead pay interest under that provision at the prescribed rate.
-> 1997, c. 36, s. 125; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 125; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5624,7 +5621,7 @@ less
 **Interest on interest refunded**
 
 - **(2)** If, as a result of a waiver or cancellation under subsection (1), a person is refunded an amount of interest that was paid, the person shall be given, in addition to the refund, interest at the prescribed rate for the period beginning on the first day after the day the amount was paid and ending on the day the refund is given, calculated on the amount of the refund.
-> 1997, c. 36, s. 126; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 126; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5639,7 +5636,7 @@ less
 **Interest on SIMA duty**
 
 - **(2)** A person who, under a provision of this Part other than section 115, is granted a drawback or refund of an amount in respect of duty levied under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) shall be granted, in addition to the drawback or refund, interest on it at the prescribed rate for the period beginning on the ninety-first day after the day an application for the drawback or refund is made in accordance with this Part and ending on the day the drawback or refund is granted.
-> 1997, c. 36, s. 127; 2001, c. 25, s. 90.
+> 1997, c. 36, s. 127; 2001, c. 25, s. 90
 
 
 
@@ -5664,7 +5661,7 @@ less
 - **(b)** for the purposes of tariff item No. 9897.00.00, prescribing
 	- **(i)** conditions under which specimens of aigrettes, egret plumes or osprey plumes and the feathers, quills, heads, wings, tails, skins or parts of skins of wild birds of that tariff item may be imported for any museum or for scientific or educational purposes, and
 	- **(ii)** the manner in which materials from used or second-hand mattresses shall be cleaned and fumigated and the certificates that shall accompany those materials.
-> 1997, c. 36, s. 129; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 129; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5675,7 +5672,7 @@ less
 **130** The Minister of Public Safety and Emergency Preparedness may
 - **(a)** specify documentation that is considered acceptable for the purposes of tariff item No. 9827.00.00; and
 - **(b)** recognize authorities, representatives or authorized persons in a country of origin as competent for the purposes of conditions of classification of goods under a tariff item.
-> 1997, c. 36, s. 130; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 130; 2005, c. 38, ss. 142, 145
 
 
 
@@ -5835,7 +5832,7 @@ Peru
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54; 2015, c. 3, s. 66(F); 2017, c. 6, s. 106; 2018, c. 23, s. 46.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54; 2015, c. 3, s. 66(F); 2017, c. 6, s. 106; 2018, c. 23, s. 46
 
 
 
@@ -5850,7 +5847,7 @@ Peru
 **Other orders**
 
 - **(2)** The Minister of Public Safety and Emergency Preparedness or President of the Canada Border Services Agency may, by order, suspend for a specified period a tariff item referred to in Supplementary Note 3(c) of Chapter 8 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note 3(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
-> 1997, c. 36, s. 134; 1999, c. 17, s. 131; 2005, c. 38, ss. 141, 142, 145; 2018, c. 27, s. 78.
+> 1997, c. 36, s. 134; 1999, c. 17, s. 131; 2005, c. 38, ss. 141, 142, 145; 2018, c. 27, s. 78
 
 
 
@@ -5897,7 +5894,7 @@ Peru
 **Definition of former Act**
 
 **137** In sections 140 and 143 to 146, ***former Act*** means the Customs Tariff as it read immediately before the coming into force of section 214.
-> 1997, c. 36, s. 137; 2011, c. 24, s. 135.
+> 1997, c. 36, s. 137; 2011, c. 24, s. 135
 
 
 
@@ -6009,6 +6006,141 @@ http://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/menu-eng.html
 
 
 The Canada Border Services Agency publishes a yearly departmental consolidation of the Customs Tariff.]
+
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2002, c. 22, ss. 305 to 308
+
+
+**Meaning of implementation date**
+
+**305** In sections 306 to 320, ***implementation date*** means the day on which Parts 3 and 4 come into force.
+
+
+
+######           — 2002, c. 22, ss. 305 to 308
+
+
+**Transitional treatment of duties on packaged spirits**
+
+**306** The following rules apply to packaged spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), was imposed under that Act or levied under the Customs Tariff but that had not become payable before the implementation date:
+- **(a)** as of that day, the duty is relieved;
+- **(b)** as of that day, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) ceases to apply in respect of the spirits;
+- **(c)** in the case of imported packaged spirits that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the Customs Tariff apply in respect of them as though they were imported on that day; and
+- **(d)** in the case of any other packaged spirits, this Act applies in respect of them as though
+	- **(i)** they were produced and packaged in Canada on that day by the person having possession of them immediately before that day and the person were permitted under this Act to produce and package them, and
+	- **(ii)** if the spirits are in the possession of a duty free shop or an accredited representative or delivered as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), they had been entered into an excise warehouse and then removed from the warehouse in accordance with paragraph 147(1)(a) on that day.
+
+
+
+######           — 2002, c. 22, ss. 305 to 308
+
+
+**Transitional treatment of duties on bulk spirits**
+
+**307** 
+
+- **(1)** The following rules apply to bulk spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), was imposed under that Act or levied under the Customs Tariff but that had not become payable before the implementation date:
+	- **(a)** as of that day, the duty is relieved;
+	- **(b)** as of that day, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) ceases to apply in respect of the spirits;
+	- **(c)** in the case of imported bulk spirits that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the Customs Tariff apply in respect of them as though they were imported on that day; and
+	- **(d)** in the case of any other bulk spirits, this Act applies in respect of them as though they were produced in Canada on that day by the person having possession of them immediately before that day.
+
+**Transitional treatment of bulk spirits imported for bottling or blending**
+
+- **(2)** The following rules apply to bulk spirits on which a duty, at a rate determined by the application of section 1 of Part I of the schedule to the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), was levied under the Customs Tariff and remitted under the [Distilled Spirits for Bottling in Bond Remission Order](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/321.md) or the [Imported Spirits for Blending Remission Order](/en/Regulations/Statutory%20Instruments/83/151.md) before the implementation date:
+	- **(a)** as of that day, the duty imposed on the spirits under subsection 135(1) of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) when they were entered into a distillery is relieved;
+	- **(b)** as of that day, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) ceases to apply in respect of the spirits; and
+	- **(c)** this Act applies in respect of them as though they were produced in Canada on that day by the person having possession of them immediately before that day.
+
+
+
+######           — 2002, c. 22, ss. 305 to 308
+
+
+**Transitional treatment of excise taxes on wine**
+
+**308** The following rules apply to wine on which tax was imposed under section 27 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) but had not become payable before the implementation date:
+- **(a)** as of that day, the tax is relieved;
+- **(b)** as of that day, Parts III, VI and VII of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) cease to apply in respect of the wine;
+- **(c)** in the case of imported wine that has not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the Customs Tariff apply in respect of the wine as though it were imported on that day;
+- **(d)** in the case of bulk wine to which paragraph (c) does not apply, this Act applies in respect of it as though it were produced in Canada on that day
+	- **(i)** if the wine is located in a ferment-on-premises facility or at the residence of an individual, by the individual who owned the wine immediately before that day, or
+	- **(ii)** in any other case, by the person having possession of it immediately before that day; and
+- **(e)** in the case of wine to which neither paragraph (c) nor (d) apply, this Act applies in respect of it as though
+	- **(i)** it were produced and packaged in Canada on that day by the person having possession of it immediately before that day and the person were permitted under this Act to produce and package it, and
+	- **(ii)** in the case of wine in the possession of a duty free shop or an accredited representative or delivered as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), it had been entered into an excise warehouse and then removed from the warehouse in accordance with paragraph 147(1)(a) on that day.
+
+
+
+######           — 2002, c. 22, s. 315
+
+
+**Removal of alcohol from customs bonded warehouse**
+
+**315** 
+
+- **(1)** If packaged alcohol is located in a customs bonded warehouse on the implementation date,
+	- **(a)** the alcohol shall be removed from the warehouse; and
+	- **(b)** any duty on the alcohol that is imposed under this Act or levied under section 21.2 of the Customs Tariff as a result of the operation of section 306 or 308 is payable on that day unless the alcohol is without delay entered into an excise warehouse.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply if the alcohol in the customs bonded warehouse is to be
+	- **(a)** exported in accordance with this Act; or
+	- **(b)** delivered
+		- **(i)** to an accredited representative for their personal or official use,
+		- **(ii)** to a duty free shop for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md),
+		- **(iii)** as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
+		- **(iv)** to an air carrier that is licensed under section 69 or 73 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) to operate an international air service.
+
+
+
+######           — 2002, c. 22, s. 317
+
+
+**Transitional treatment of imported tobacco products**
+
+**317** The following rules apply to an imported tobacco product:
+- **(a)** if duty levied under section 21 of the Customs Tariff and tax imposed under section 23 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) on the product had not become payable before the implementation date,
+	- **(i)** the duty and tax are relieved, and
+	- **(ii)** this Act and the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) apply in respect of the product as though it were imported into Canada on that day by the importer;
+- **(b)** if the product was stamped or marked under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the product is deemed to be stamped or marked, as the case may be, under this Act; and
+- **(c)** the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) and Parts III, VI and VII of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) cease to apply in respect of the product.
+
+
+
+######           — 2008, c. 28, s. 70(2)
+
+**70** 
+
+- **(2)** For the purposes of applying the provisions of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though this section had come into force on February 27, 2008.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 22, s. 1(2)
+
+**1** 
+
+- **(2)** Section 55 of the Act is amended by adding the following after subsection (4):
+
+**Prohibition against further orders**
+
+- **(5)** Subject to subsection (6), no order may be made under subsection (1) with respect to goods that have already been the subject of an order made under that subsection or subsection 5(3) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) unless, after the expiry of the order and any related orders made under subsection 5(3.2) or (4.1) of that Act or section 60 or subsection 63(1), there has elapsed a period equal to the greater of two years and the total period during which the order or orders were in effect.
+
+**Exception**
+
+- **(6)** If an order made under subsection (1) was effective with respect to goods for a period of 180 days or less, a further order may be made under that subsection with respect to those goods if
+	- **(a)** at least one year has elapsed since the previous order took effect; and
+	- **(b)** not more than two orders have been made with respect to the goods under subsection (1) within the period of five years before the further order takes effect.
 
 
 
