@@ -11,37 +11,6 @@ Sanctionnée sur le 18 décembre 1996
 
 
 
-
-**Préambule**
-
-Attendu :
-
-que le gouvernement du Canada et le gouvernement de l’État d’Israël :
-
-animés du désir de renforcer leurs relations dans le domaine de l’économie et d’encourager le développement économique,
-
-soucieux d’établir un cadre pour la promotion des investissements et de la coopération,
-
-résolus à favoriser le développement de leurs échanges commerciaux dans le respect d’une concurrence équitable,
-
-rappelant leur intérêt mutuel dans le renforcement du système commercial international que reflète l’Accord instituant l’Organisation mondiale du commerce,
-
-rappelant leur Protocole d’entente du 27 septembre 1976 portant institution d’une Commission économique mixte, laquelle a été reconduite par le Protocole d’entente sur la coopération économique conclu le 5 août 1993,
-
-désirant établir une zone de libre-échange en levant les obstacles au commerce entre les deux pays,
-
-ont conclu l’Accord de libre-échange Canada — Israël;
-
-que le gouvernement du Canada a conclu l’Accord ayant en outre résolu de renforcer l’économie canadienne et la compétitivité du Canada en tant que nation commerçante;
-
-que le gouvernement du Canada a manifesté la volonté d’offrir à un autre bénéficiaire les avantages de l’Accord;
-
-que l’Accord s’applique à l’ensemble du Canada;
-
-qu’il est nécessaire, pour donner effet à l’Accord, d’apporter des modifications connexes à certaines lois,
-
-
-
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
@@ -70,9 +39,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’accord de libre-échange conclu entre le gouvernement du Canada et le gouvernement de l’État d’Israël et signé le 31 juillet 1996, avec les rectifications qui y sont apportées avant sa ratification par le Canada. (*Agreement*)
+***Accord*** L’accord de libre-échange conclu entre le gouvernement du Canada et le gouvernement de l’État d’Israël, signé le 31 juillet 1996 et modifié par le Protocole de 2018 portant amendement de l’Accord de libre-échange Canada — Israël, signé le 28 mai 2018. (*Agreement*)
 
-***Commission*** La Commission du commerce canado-israélien constituée aux termes du paragraphe 1 de l’article 8.2 de l’Accord. (*Commission*)
+***Commission*** La Commission mixte constituée aux termes du paragraphe 1 de l’article 18.1 de l’Accord. (*Commission*)
 
 ***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé, aux termes de l’article 9, de l’application de telle disposition de la présente loi. (*Minister*)
 
@@ -81,6 +50,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication de l’Accord**
 
 - **(2)** L’Accord est publié dans le Recueil des traités du Canada.
+> 1996, ch. 33, art. 22019, ch. 6, art. 2
+
 
 
 
@@ -98,7 +69,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Objet**
 
-**4** La présente loi a pour objet la mise en oeuvre de l’Accord, dont l’objectif, défini de façon plus précise dans ses principes et ses règles, consiste à éliminer les obstacles au commerce et à faciliter le mouvement des marchandises à l’intérieur de la zone de libre-échange, de manière à favoriser une concurrence équitable et à augmenter substantiellement les possibilités d’investissement.
+**4** La présente loi a pour objet la mise en œuvre de l’Accord, dont les objectifs — définis de façon plus précise dans ses dispositions — sont les suivants :
+- **a)** consolider la relation commerciale bilatérale entre le Canada et l’État d’Israël;
+- **b)** améliorer l’accès au marché israélien pour les entreprises canadiennes en réduisant et en éliminant les droits de douane, en luttant contre les obstacles non tarifaires, en accroissant la coopération et en augmentant la transparence en matière de réglementation;
+- **c)** assurer un niveau élevé de protection de l’environnement par des engagements exhaustifs et juridiquement contraignants;
+- **d)** mettre à profit les engagements internationaux respectifs du Canada et de l’État d’Israël dans le domaine du travail;
+- **e)** promouvoir l’égalité des genres et encourager l’autonomisation des femmes et le respect, sur une base volontaire, des normes et des principes de responsabilité sociale par les entreprises, ainsi que favoriser l’accès des petites et moyennes entreprises aux possibilités créées par l’Accord.
+> 1996, ch. 33, art. 42019, ch. 6, art. 3
+
 
 
 
@@ -133,13 +111,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de l’Accord aux eaux**
 
-**7** 
+**7** Il est entendu que ni la présente loi ni l’Accord ne s’appliquent aux eaux de surface ou souterraines naturelles, à l’état liquide, gazeux ou solide.
+> 1996, ch. 33, art. 72019, ch. 6, art. 4
 
-- **(1)** Il demeure entendu que ni la présente loi ni l’Accord, à l’exception de l’article 2.1 de celui-ci, ne s’appliquent aux eaux.
-
-**Définition de eaux**
-
-- **(2)** Au présent article, ***eaux*** s’entend des eaux de surface ou souterraines naturelles, à l’état liquide, gazeux ou solide, à l’exclusion de l’eau mise en emballage comme boisson ou en citerne.
 
 
 
@@ -189,34 +163,70 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Groupes spéciaux, comités, sous-comités, groupes de travail, groupes d’experts et autres organismes
+
+
+
+**Pouvoirs du ministre du Commerce international**
+
+**12** 
+
+- **(1)** Le ministre du Commerce international peut :
+	- **a)** nommer les représentants du Canada aux comités, sous-comités, groupes de travail et autres organismes visés au paragraphe 6 de l’article 18.1 de l’Accord;
+	- **b)** nommer un membre par groupe spécial conformément au paragraphe 2 de l’article 19.7 de l’Accord;
+	- **c)** désigner le président d’un groupe spécial ou proposer des candidats à cette fonction, conformément à cet article.
+
+**Pouvoirs du ministre du Travail**
+
+- **(2)** Le ministre du Travail peut :
+	- **a)** nommer les représentants du Canada aux comités, groupes de travail et groupes d’experts visés à l’alinéa 4a) de l’article 12.7 de l’Accord;
+	- **b)** nommer un membre par groupe spécial d’examen conformément au paragraphe 4 de l’annexe 12.13.3 de l’Accord;
+	- **c)** désigner le président d’un groupe spécial d’examen ou proposer des candidats à cette fonction, conformément aux paragraphes 4 et 5 de cette annexe.
+> 1996, ch. 33, art. 122019, ch. 6, art. 5
+
+
+
+
+
 **Soutien administratif**
 
-**12** Le ministre du Commerce international désigne un organisme ou un service de l’administration fédérale pour faciliter la mise en oeuvre du chapitre 8 de l’Accord et assurer le soutien administratif des groupes spéciaux constitués en vertu de ce chapitre.
+**13** Le ministre du Commerce international désigne un organisme ou un service de l’administration fédérale pour faciliter la mise en oeuvre du chapitre 18 de l’Accord et assurer le soutien administratif des groupes spéciaux constitués en vertu du chapitre 19 de l’Accord.
+> 1996, ch. 33, art. 132019, ch. 6, art. 5
 
 
 
 
-**Nomination aux comités**
 
-**13** Le ministre du Commerce international peut nommer les représentants du Canada aux comités et groupes de travail visés au paragraphe 4 de l’article 8.2 de l’Accord.
+**Paiement des frais**
 
-
-
-
-**Frais des groupes spéciaux**
-
-**14** Le gouvernement du Canada paie, conformément à l’annexe 8.9 de l’Accord, la totalité ou sa quote-part des frais généraux supportés par les groupes spéciaux, ainsi que de la rémunération et des indemnités des membres des groupes spéciaux et des assistants.
+**14** Le gouvernement du Canada paie la totalité ou sa quote-part des frais suivants :
+- **a)** la rémunération et les indemnités des membres des groupes spéciaux, comités, sous-comités, groupes de travail, groupes d’experts et autres organismes, des experts indépendants et des assistants des membres des groupes spéciaux;
+- **b)** les frais généraux supportés par les groupes spéciaux, comités, sous-comités, groupes de travail, groupes d’experts et autres organismes.
+> 1996, ch. 33, art. 142019, ch. 6, art. 5
 
 
 
 
-### Règlements
+
+### Décrets
 
 
 
-**Règlements**
+**Décrets : article 19.13 de l’Accord**
 
-**15** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi et, sur recommandation du ministre du Commerce international, prendre toute mesure d’application du paragraphe 1 de l’annexe 8.9 de l’Accord.
+**15** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, en vue de suspendre des avantages conformément à l’article 19.13 de l’Accord :
+	- **a)** suspendre les droits ou privilèges que le Canada a accordés à l’État d’Israël ou à des marchandises de ce pays en vertu de l’Accord ou d’un texte législatif fédéral;
+	- **b)** modifier ou suspendre l’application d’un texte législatif fédéral à l’État d’Israël ou à des marchandises de ce pays;
+	- **c)** étendre l’application d’un texte législatif fédéral à l’État d’Israël ou à des marchandises de ce pays;
+	- **d)** prendre toute autre mesure qu’il estime nécessaire.
+
+**Durée d’application**
+
+- **(2)** Le décret s’applique, sauf abrogation, pendant la période qui y est spécifiée.
+> 1996, ch. 33, art. 152019, ch. 6, art. 5
+
 
 
 
