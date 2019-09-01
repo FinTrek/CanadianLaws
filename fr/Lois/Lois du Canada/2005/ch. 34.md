@@ -25,7 +25,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titre abrégé**
 
 **1** Loi sur le ministère de l’Emploi et du Développement social.
-> 2005, ch. 34, art. 1; 2013, ch. 40, art. 205.
+> 2005, ch. 34, art. 1; 2013, ch. 40, art. 205
 
 
 
@@ -51,7 +51,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***ministre*** Le ministre de l’Emploi et du Développement social. (*Minister*)
 
 ***Tribunal*** Le Tribunal de la sécurité sociale constitué par l’article 44. (*Tribunal*)
-> 2005, ch. 34, art. 2; 2012, ch. 19, art. 223; 2013, ch. 40, art. 206; 2018, ch. 12, art. 268.
+> 2005, ch. 34, art. 2; 2012, ch. 19, art. 223; 2013, ch. 40, art. 206; 2018, ch. 12, art. 268
 
 
 
@@ -79,7 +79,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ministre**
 
 - **(3)** Le ministre occupe sa charge à titre amovible; il assure la direction et la gestion du ministère.
-> 2005, ch. 34, art. 3; 2013, ch. 40, art. 208.
+> 2005, ch. 34, art. 3; 2013, ch. 40, art. 208
 
 
 
@@ -98,7 +98,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sous-ministre du Travail**
 
 - **(3)** Le gouverneur en conseil peut désigner comme sous-ministre du Travail le sous-ministre de l’Emploi et du Développement social ou l’un des sous-ministres délégués.
-> 2005, ch. 34, art. 4; 2013, ch. 40, art. 209.
+> 2005, ch. 34, art. 4; 2013, ch. 40, art. 209
 
 
 
@@ -119,7 +119,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Ces attributions sont exercées aux fins suivantes :
 	- **a)** s’agissant des ressources humaines et du développement des compétences, en vue de rehausser le niveau de vie de tous les Canadiens et d’améliorer leur qualité de vie en faisant la promotion du développement d’une main-d’oeuvre hautement qualifiée et mobile, ainsi que d’un marché du travail efficient et favorable à l’intégration;
 	- **b)** s’agissant du développement social, en vue de promouvoir le bien-être des personnes au sein de la société et la sécurité du revenu.
-> 2005, ch. 34, art. 5; 2012, ch. 19, art. 687.
+> 2005, ch. 34, art. 5; 2012, ch. 19, art. 687
 
 
 
@@ -149,7 +149,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exercice des attributions**
 
 - **(3)** Lorsqu’il appuie la prestation de services au public, le ministre agit en vue de mieux satisfaire aux besoins des Canadiens.
-> 2018, ch. 12, art. 269.
+> 2018, ch. 12, art. 269
 
 
 
@@ -164,7 +164,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépenses**
 
 - **(2)** Le ministre peut dépenser les recettes perçues en application du paragraphe (1).
-> 2018, ch. 12, art. 269.
+> 2018, ch. 12, art. 269
 
 
 
@@ -175,7 +175,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **6** Dans le cadre des attributions que lui confère la présente loi ou toute autre loi, le ministre peut :
 - **a)** sous réserve de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), collecter, analyser, interpréter, publier et diffuser de l’information sur les ressources humaines et le développement des compétences, sur le développement social ou sur la prestation de services au public;
 - **b)** collaborer avec les autorités provinciales en vue de coordonner les efforts visant les ressources humaines et le développement des compétences, le développement social ou la prestation de services au public.
-> 2005, ch. 34, art. 6; 2012, ch. 19, art. 687; 2018, ch. 12, art. 271.
+> 2005, ch. 34, art. 6; 2012, ch. 19, art. 687; 2018, ch. 12, art. 271
 
 
 
@@ -184,7 +184,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Programmes**
 
 **7** Le ministre peut, dans le cadre des attributions que lui confère la présente loi, concevoir et réaliser des programmes destinés à appuyer les projets ou autres activités qui contribuent au développement des ressources humaines au Canada et au développement des compétences des Canadiens, au développement social du Canada ou à la prestation de services au public, et accorder des subventions et des contributions pour appuyer ces programmes.
-> 2005, ch. 34, art. 7; 2012, ch. 19, art. 687; 2018, ch. 12, art. 272.
+> 2005, ch. 34, art. 7; 2012, ch. 19, art. 687; 2018, ch. 12, art. 272
 
 
 
@@ -193,7 +193,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Numéros d’entreprise — ministre**
 
 **8** Le ministre peut collecter des numéros d’entreprise, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et les utiliser comme identificateurs pour la mise en oeuvre ou l’exécution de toute loi, de tout programme ou de toute activité dont la mise en oeuvre ou l’exécution relève de lui.
-> 2005, ch. 34, art. 8; 2012, ch. 19, art. 687; 2018, ch. 12, art. 272.
+> 2005, ch. 34, art. 8; 2012, ch. 19, art. 687; 2018, ch. 12, art. 272
 
 
 
@@ -282,7 +282,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** 
 
-- **(1)** Dans les trente jours suivant la date de fixation d’un prix dans le cadre des articles 13 à 15, le ministre publie celui-ci dans la Gazette du Canada.
+- **(1)** Dans les trente jours suivant la date de fixation d’un prix dans le cadre des articles 13 à 15, le ministre publie celui-ci dans la [Gazette du Canada](http://www.gazette.gc.ca/).
 
 **Renvoi en comité**
 
@@ -336,7 +336,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Numéros d’entreprise — ministre du Travail**
 
 **19.01** Le ministre du Travail peut collecter des numéros d’entreprise, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et les utiliser comme identificateurs pour la mise en oeuvre ou l’exécution de toute loi, de tout programme ou de toute activité dont la mise en oeuvre ou l’exécution relève de lui.
-> 2018, ch. 12, art. 273.
+> 2018, ch. 12, art. 273
 
 
 
@@ -359,7 +359,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Débit**
 
 - **(4)** À la demande du ministre du Travail, peuvent être prélevées sur le Trésor, en conformité avec les dispositions d’un traité, une ou plusieurs sommes dont le total n’excède pas la somme portée au crédit du compte, y compris les intérêts, relativement au traité. Ces sommes sont alors affectées au compte.
-> 2009, ch. 16, art. 50; 2014, ch. 14, art. 49 et 51, ch. 28, art. 57.
+> 2009, ch. 16, art. 50; 2014, ch. 14, art. 49 et 51, ch. 28, art. 57
 
 
 
@@ -387,7 +387,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Assurance-emploi Canada**
 
 - **(3)** Les mentions « Assurance-emploi Canada » et « *Employment Insurance Canada* » paraissant sur les documents délivrés ou faits en vertu des attributions prévues à l’article 24 valent mention, respectivement, de la « Commission de l’assurance-emploi du Canada » et de la « *Canada Employment Insurance Commission* ».
-> 2005, ch. 34, art. 20; 2010, ch. 12, art. 1723; 2013, ch. 40, art. 210.
+> 2005, ch. 34, art. 20; 2010, ch. 12, art. 1723; 2013, ch. 40, art. 210
 
 
 
@@ -407,7 +407,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suppléance**
 
 - **(2)** En cas d’absence ou d’empêchement d’un commissaire autre que le président ou le vice-président ou de vacance de son poste, le gouverneur en conseil peut désigner comme suppléant une personne qui, sauf indication contraire de celui-ci, est investie de toutes les attributions du commissaire.
-> 2005, ch. 34, art. 21 et 82(A).
+> 2005, ch. 34, art. 21 et 82(A)
 
 
 
@@ -467,7 +467,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Numéros d’entreprise — Commission**
 
 **24.1** La Commission peut collecter des numéros d’entreprise, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et les utiliser comme identificateurs pour la mise en oeuvre ou l’exécution de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
-> 2018, ch. 12, art. 274.
+> 2018, ch. 12, art. 274
 
 
 
@@ -512,7 +512,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Résidence**
 
 - **(2)** Le président et le vice-président résident dans la région de la capitale nationale, dans le lieu désigné par le gouverneur en conseil aux termes du paragraphe (1) ou à une distance raisonnable de cette région ou de ce lieu.
-> 2005, ch. 34, art. 27; 2011, ch. 24, art. 189.
+> 2005, ch. 34, art. 27; 2011, ch. 24, art. 189
 
 
 
@@ -537,7 +537,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Actuaire — [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md)**
 
 - **(4)** La Commission retient les services d’un *Fellow* de l’Institut canadien des actuaires qui est un employé du Bureau du surintendant des institutions financières pour exercer les attributions prévues à l’article 66.3 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
-> 2005, ch. 30, art. 129, ch. 34, art. 28; 2008, ch. 28, art. 132; 2012, ch. 31, art. 441.
+> 2005, ch. 30, art. 129, ch. 34, art. 28; 2008, ch. 28, art. 132; 2012, ch. 31, art. 441
 
 
 
@@ -564,7 +564,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Carte d’assurance sociale**
 
 - **(4)** La Commission peut délivrer à chaque personne enregistrée une carte portant ses nom et numéro d’assurance sociale.
-> 2005, ch. 30, art. 129; 2008, ch. 28, art. 133; 2012, ch. 19, art. 304.
+> 2005, ch. 30, art. 129; 2008, ch. 28, art. 133; 2012, ch. 19, art. 304
 
 
 
@@ -622,7 +622,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Attribution de plus d’un numéro**
 
 - **(10)** Lorsque, par inadvertance, il a été attribué à une personne plus d’un numéro d’assurance sociale, la Commission détermine lequel de ces numéros est le numéro officiel et annule tous les autres.
-> 2012, ch. 19, art. 304.
+> 2012, ch. 19, art. 304
 
 
 
@@ -631,7 +631,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Changement de nom**
 
 **28.3** Lorsqu’une personne à laquelle un numéro d’assurance sociale a été attribué change de nom en raison de son mariage ou pour une autre raison, elle doit en informer la Commission dans les soixante jours qui suivent la prise d’effet du changement, sauf si elle en a déjà informé une autre autorité compétente.
-> 2012, ch. 19, art. 304.
+> 2012, ch. 19, art. 304
 
 
 
@@ -650,7 +650,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Infraction et peine**
 
 - **(2)** Quiconque contrevient au paragraphe (1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
-> 2012, ch. 19, art. 304.
+> 2012, ch. 19, art. 304
 
 
 
@@ -669,7 +669,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 - **(3)** Les poursuites visant une infraction à la présente partie se prescrivent par cinq ans à compter de la date de sa perpétration.
-> 2018, ch. 12, art. 275.
+> 2018, ch. 12, art. 275
 
 
 
@@ -682,7 +682,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 **29** Le vérificateur général examine chaque année les comptes et les opérations financières de la Commission pour l’exercice précédent; il examine également, pour la même période, le Compte des opérations de l’assurance-emploi créé par l’article 70.2 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), et en fait rapport au ministre.
-> 2005, ch. 34, art. 29; 2010, ch. 12, art. 2201.
+> 2005, ch. 34, art. 29; 2010, ch. 12, art. 2201
 
 
 
@@ -716,7 +716,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Pour l’application de la présente partie, toute mention du ministre vaut mention du ministre du Travail pour ce qui est des programmes, des lois, des politiques ou des activités dont la mise en oeuvre ou l’exécution relèvent de lui.
 
 - **(3)** [Abrogé, 2012, ch. 19, art. 282]
-> 2005, ch. 34, art. 30; 2012, ch. 19, art. 282; 2018, ch. 12, art. 276.
+> 2005, ch. 34, art. 30; 2012, ch. 19, art. 282; 2018, ch. 12, art. 276
 
 
 
@@ -734,7 +734,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **32** Les renseignements sont protégés et ne peuvent être rendus accessibles que dans les cas suivants :
 - **a)** le paragraphe 28.2(5), la présente partie ou un accord conclu en vertu de l’article 105 ou de l’alinéa 107(1)a) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou de l’alinéa 40(1)a) de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) l’autorisent;
 - **b)** l’accès peut en être permis en vertu de l’un des alinéas 33.1a) à c) de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md).
-> 2005, ch. 34, art. 32; 2012, ch. 19, art. 283.
+> 2005, ch. 34, art. 32; 2012, ch. 19, art. 283
 
 
 
@@ -752,7 +752,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le particulier;
 	- **b)** son représentant;
 	- **c)** le parlementaire fédéral qui les demande au nom du particulier.
-> 2005, ch. 34, art. 33; 2012, ch. 19, art. 283.
+> 2005, ch. 34, art. 33; 2012, ch. 19, art. 283
 
 
 
@@ -788,7 +788,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 - **(4)** Il est entendu que le présent article s’applique aux renseignements obtenus ou préparés avant la date d’entrée en vigueur du présent paragraphe.
-> 2018, ch. 12, art. 277.
+> 2018, ch. 12, art. 277
 
 
 
@@ -803,7 +803,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application — renseignements obtenus**
 
 - **(2)** Les articles 33, 34, 35 à 36.2, 40 et 41 ne s’appliquent pas aux renseignements obtenus dans le cadre d’un programme de prestation de services.
-> 2018, ch. 12, art. 277.
+> 2018, ch. 12, art. 277
 
 
 
@@ -818,7 +818,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accès à d’autres personnes**
 
 - **(2)** Les renseignements obtenus au titre du paragraphe (1) ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées à ce paragraphe et aux conditions dont sont convenus le ministre et l’institution fédérale.
-> 2005, ch. 34, art. 35; 2012, ch. 19, art. 284.
+> 2005, ch. 34, art. 35; 2012, ch. 19, art. 284
 
 
 
@@ -837,7 +837,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accès à d’autres personnes**
 
 - **(3)** Les renseignements obtenus dans le cadre du présent article ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées aux paragraphes (1) ou (2) et aux conditions dont sont convenus le ministre et le gouvernement, l’État, l’organisme ou l’organisation internationale, selon le cas.
-> 2005, ch. 34, art. 36; 2012, ch. 19, art. 285.
+> 2005, ch. 34, art. 36; 2012, ch. 19, art. 285
 
 
 
@@ -846,7 +846,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renseignements régis par d’autres lois ou relatifs à des numéros d’assurance sociale**
 
 **36.1** Par dérogation à toute autre loi ou règle de droit, sont autorisés, d’une part, l’échange des renseignements contenus dans les demandes de numéro d’assurance sociale ainsi que des numéros eux-mêmes, entre le ministre et l’autorité chargée de la mise en oeuvre ou de l’exécution de la loi régissant l’attribution de ceux-ci et, d’autre part, la communication par eux de ces renseignements ou numéros dans le cadre de cette même loi.
-> 2012, ch. 19, art. 286.
+> 2012, ch. 19, art. 286
 
 
 
@@ -861,7 +861,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accès à d’autres personnes**
 
 - **(2)** Les renseignements obtenus au titre du paragraphe (1) ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées à ce paragraphe et aux conditions dont sont convenus le ministre et l’organisme ou la personne qui les a obtenus.
-> 2012, ch. 19, art. 286.
+> 2012, ch. 19, art. 286
 
 
 
@@ -876,7 +876,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis au Commissaire à la protection de la vie privée**
 
 - **(2)** Dans le cas prévu au paragraphe (1), le ministre donne un préavis écrit de la communication des renseignements au Commissaire à la protection de la vie privée nommé en vertu de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) et à toute entité partenaire touchée si les circonstances le justifient; sinon, il en avise par écrit le Commissaire immédiatement après la communication. La décision de mettre au courant le particulier concerné est laissée à l’appréciation du Commissaire.
-> 2005, ch. 34, art. 37; 2012, ch. 19, art. 287; 2018, ch. 12, art. 278.
+> 2005, ch. 34, art. 37; 2012, ch. 19, art. 287; 2018, ch. 12, art. 278
 
 
 
@@ -888,7 +888,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** le ministre estime que les travaux de recherche ou de statistique sont conformes aux principes énoncés aux alinéas 39(1)a) à e);
 - **b)** le ministre estime que les fins auxquelles les renseignements sont rendus accessibles ne peuvent être normalement atteintes que si ceux-ci sont donnés sous une forme qui permette d’identifier le particulier qu’ils concernent;
 - **c)** les renseignements sont rendus accessibles aux conditions fixées dans un accord conclu entre le ministre et la personne ou l’organisme en question dans lequel la personne ou l’organisme s’engagent notamment auprès du ministre à s’abstenir de toute communication ultérieure des renseignements tant que leur forme risque vraisemblablement de permettre l’identification d’un particulier.
-> 2005, ch. 34, art. 38; 2012, ch. 19, art. 288.
+> 2005, ch. 34, art. 38; 2012, ch. 19, art. 288
 
 
 
@@ -912,7 +912,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction**
 
 - **(3)** Les renseignements visés au paragraphe (1) ne peuvent pas être utilisés à des fins administratives au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
-> 2005, ch. 34, art. 39; 2012, ch. 19, art. 289.
+> 2005, ch. 34, art. 39; 2012, ch. 19, art. 289
 
 
 
@@ -948,7 +948,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Peines : personnes ou organismes**
 
 - **(3)** Toute autre personne ou tout organisme qui commet l’infraction visée au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $.
-> 2005, ch. 34, art. 42; 2012, ch. 19, art. 290.
+> 2005, ch. 34, art. 42; 2012, ch. 19, art. 290
 
 
 
@@ -960,7 +960,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** désigner tout particulier ou toute catégorie de particuliers pour l’application de la définition de ***fonctionnaire public*** au paragraphe 30(1);
 - **b)** préciser, pour l’application du paragraphe 35(1), les institutions fédérales à qui les renseignements visés à ce paragraphe peuvent être rendus accessibles et les lois ou activités fédérales ou provinciales pour la mise en oeuvre ou l’exécution desquelles ils peuvent l’être;
 - **c)** préciser, pour l’application des paragraphes 36(1) et 36.2(1), les activités provinciales pour lesquelles les renseignements visés à ces paragraphes peuvent être rendus accessibles.
-> 2005, ch. 34, art. 43; 2012, ch. 19, art. 291.
+> 2005, ch. 34, art. 43; 2012, ch. 19, art. 291
 
 
 
@@ -984,7 +984,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Division générale**
 
 - **(2)** La division générale est composée de la section de la sécurité du revenu et de la section de l’assurance-emploi.
-> 2005, ch. 34, art. 44 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 44 et 83; 2012, ch. 19, art. 224
 
 
 
@@ -1009,7 +1009,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Occupation du poste**
 
 - **(5)** Les membres occupent leur poste à titre inamovible, sous réserve de révocation motivée prononcée par le gouverneur en conseil.
-> 2005, ch. 34, art. 45 et 83; 2012, ch. 19, art. 224; 2014, ch. 39, art. 252.
+> 2005, ch. 34, art. 45 et 83; 2012, ch. 19, art. 224; 2014, ch. 39, art. 252
 
 
 
@@ -1028,7 +1028,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Affectation**
 
 - **(3)** Le président peut, sous réserve de l’article 47, affecter les membres à la division d’appel, à la section de la sécurité du revenu ou à la section de l’assurance-emploi.
-> 2005, ch. 34, art. 46 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 46 et 83; 2012, ch. 19, art. 224
 
 
 
@@ -1037,7 +1037,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Section de l’assurance-emploi**
 
 **47** Le ministre est tenu de consulter un comité composé du président du Tribunal et des deux commissaires nommés après consultation des organisations ouvrières et patronales visées au paragraphe 20(2) avant de recommander au gouverneur en conseil la nomination d’un membre qui pourrait siéger à la section de l’assurance-emploi.
-> 2005, ch. 34, art. 47 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 47 et 83; 2012, ch. 19, art. 224
 
 
 
@@ -1052,7 +1052,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fonctions incompatibles**
 
 - **(2)** Les membres à temps partiel ne peuvent occuper une charge ou un emploi incompatibles avec les attributions qui leur sont conférées en vertu de la présente loi.
-> 2005, ch. 34, art. 48 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 48 et 83; 2012, ch. 19, art. 224
 
 
 
@@ -1079,7 +1079,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion de la fonction publique**
 
 - **(5)** Sauf décision contraire du gouverneur en conseil dans une catégorie de cas, les membres sont réputés ne pas appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
-> 2005, ch. 34, art. 49; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 49; 2012, ch. 19, art. 224
 
 
 
@@ -1088,7 +1088,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Immunité**
 
 **50** Les membres bénéficient de l’immunité en matière civile pour les actes accomplis et les paroles prononcées de bonne foi dans l’exercice, réel ou prétendu tel, des attributions du Tribunal.
-> 2005, ch. 34, art. 50; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 50; 2012, ch. 19, art. 224
 
 
 
@@ -1107,7 +1107,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérim des vice-présidents**
 
 - **(3)** En cas d’absence ou d’empêchement d’un vice-président ou de vacance de son poste, le président peut autoriser un membre, aux conditions qu’il fixe, à assurer l’intérim.
-> 2005, ch. 34, art. 51 et 82(A); 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 51 et 82(A); 2012, ch. 19, art. 224
 
 
 
@@ -1132,7 +1132,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai supplémentaire**
 
 - **(2)** La division générale peut proroger d’au plus un an le délai pour interjeter appel.
-> 2005, ch. 34, art. 52 et 82(A); 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 52 et 82(A); 2012, ch. 19, art. 224
 
 
 
@@ -1151,7 +1151,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Appel à la division d’appel**
 
 - **(3)** L’appelant peut en appeler à la division d’appel de cette décision.
-> 2005, ch. 34, art. 53; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 53; 2012, ch. 19, art. 224
 
 
 
@@ -1166,7 +1166,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motifs**
 
 - **(2)** Elle rend une décision motivée par écrit et en fait parvenir une copie à l’appelant et, selon le cas, au ministre ou à la Commission, et à toute autre partie.
-> 2005, ch. 34, art. 54; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 54; 2012, ch. 19, art. 224
 
 
 
@@ -1179,7 +1179,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Appel**
 
 **55** Toute décision de la division générale peut être portée en appel devant la division d’appel par toute personne qui fait l’objet de la décision et toute autre personne visée par règlement.
-> 2005, ch. 34, art. 55; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 55; 2012, ch. 19, art. 224
 
 
 
@@ -1194,7 +1194,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(2)** Toutefois, il n’est pas nécessaire d’obtenir une permission dans le cas d’un appel interjeté au titre du paragraphe 53(3).
-> 2005, ch. 34, art. 56; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 56; 2012, ch. 19, art. 224
 
 
 
@@ -1211,7 +1211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai supplémentaire**
 
 - **(2)** La division d’appel peut proroger d’au plus un an le délai pour présenter la demande de permission d’en appeler.
-> 2005, ch. 34, art. 57; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 57; 2012, ch. 19, art. 224
 
 
 
@@ -1241,7 +1241,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Permission accordée**
 
 - **(5)** Dans les cas où la permission est accordée, la demande de permission est assimilée à un avis d’appel et celui-ci est réputé avoir été déposé à la date du dépôt de la demande de permission.
-> 2005, ch. 34, art. 58; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 58; 2012, ch. 19, art. 224
 
 
 
@@ -1256,7 +1256,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motifs**
 
 - **(2)** Elle rend une décision motivée par écrit et en fait parvenir une copie à l’appelant et à toute autre partie.
-> 2005, ch. 34, art. 59; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 59; 2012, ch. 19, art. 224
 
 
 
@@ -1275,7 +1275,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Résidence**
 
 - **(2)** Le président et les vice-présidents résident dans la périphérie de ce lieu définie par le gouverneur en conseil.
-> 2005, ch. 34, art. 60; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 60; 2012, ch. 19, art. 224
 
 
 
@@ -1290,7 +1290,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépenses**
 
 - **(2)** Le ministre peut dépenser les recettes provenant de la fourniture de services administratifs et d’installations à l’administrateur en chef qu’il a reçues au cours d’un exercice pendant cet exercice ou, sauf disposition contraire d’une loi de crédits, pendant l’exercice suivant.
-> 2014, ch. 20, art. 466.
+> 2014, ch. 20, art. 466
 
 
 
@@ -1299,7 +1299,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Séances du Tribunal**
 
 **61** Toute demande présentée au Tribunal est entendue par un membre agissant seul.
-> 2005, ch. 34, art. 61 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 61 et 83; 2012, ch. 19, art. 224
 
 
 
@@ -1308,7 +1308,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Audiences**
 
 **62** Le Tribunal peut tenir, en tout ou en partie, ses audiences à huis clos s’il estime que les circonstances de l’affaire le justifient.
-> 2005, ch. 34, art. 62; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 62; 2012, ch. 19, art. 224
 
 
 
@@ -1323,7 +1323,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Paiements**
 
 - **(2)** Toute somme à verser au titre du paragraphe (1) peut être prélevée sur les crédits affectés par le Parlement pour les dépenses du Service canadien d’appui aux tribunaux administratifs.
-> 2005, ch. 34, art. 63; 2012, ch. 19, art. 224; 2014, ch. 20, art. 467.
+> 2005, ch. 34, art. 63; 2012, ch. 19, art. 224; 2014, ch. 20, art. 467
 
 
 
@@ -1346,7 +1346,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md)**
 
 - **(3)** Si, au cours de l’examen d’une demande, une question prévue à l’article 90 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) se pose, le fonctionnaire autorisé de l’Agence du revenu du Canada décide de cette question comme le prévoit cet article.
-> 2005, ch. 34, art. 64; 2012, ch. 19, art. 224, ch. 31, art. 204.
+> 2005, ch. 34, art. 64; 2012, ch. 19, art. 224, ch. 31, art. 204
 
 
 
@@ -1358,7 +1358,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** la pension de survivant, au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), à payer au survivant d’un cotisant décédé;
 - **b)** le partage des gains non ajustés ouvrant droit à pension en application des articles 55, 55.1 ou 55.2 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
 - **c)** la cession de la pension de retraite d’un cotisant en application de l’article 65.1 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
-> 2005, ch. 34, art. 65; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 65; 2012, ch. 19, art. 224
 
 
 
@@ -1383,7 +1383,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Division**
 
 - **(4)** La décision est annulée ou modifiée par la division qui l’a rendue.
-> 2005, ch. 34, art. 66; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 66; 2012, ch. 19, art. 224
 
 
 
@@ -1392,7 +1392,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prorogation des délais**
 
 **67** Le président ou tout vice-président peut, pour des raisons spéciales dans un cas particulier, proroger les délais impartis par règlement pour rendre les décisions visées aux paragraphes 54(1), 58(3) et 59(1).
-> 2005, ch. 34, art. 67; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 67; 2012, ch. 19, art. 224
 
 
 
@@ -1401,7 +1401,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision définitive**
 
 **68** La décision du Tribunal à l’égard d’une demande présentée sous le régime de la présente loi est définitive et sans appel; elle peut cependant faire l’objet d’un contrôle judiciaire aux termes de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
-> 2005, ch. 34, art. 68 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 68 et 83; 2012, ch. 19, art. 224
 
 
 
@@ -1420,7 +1420,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** les raisons spéciales pour l’application de l’article 63;
 - **e)** le pouvoir d’empêcher toute personne d’assister à une audience pendant tout témoignage sur un cas de harcèlement de nature sexuelle ou autre;
 - **f)** toute mesure d’ordre réglementaire prévue par la présente partie.
-> 2005, ch. 34, art. 69 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 69 et 83; 2012, ch. 19, art. 224
 
 
 
@@ -1439,7 +1439,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incorporation par renvoi**
 
 - **(3)** Les paragraphes 73(2) à (5) s’appliquent aux règlements visés au présent article.
-> 2005, ch. 34, art. 70; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 70; 2012, ch. 19, art. 224
 
 
 
@@ -1453,7 +1453,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 **70.1** La présente partie s’applique à toute loi, à tout programme et à toute activité dont la mise en oeuvre ou l’exécution relève du ministre, du ministre du Travail ou de la Commission.
-> 2013, ch. 40, art. 211; 2014, ch. 20, art. 485; 2018, ch. 12, art. 279.
+> 2013, ch. 40, art. 211; 2014, ch. 20, art. 485; 2018, ch. 12, art. 279
 
 
 
@@ -1474,7 +1474,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitation**
 
 - **(2)** Le ministre ou la Commission ne peut exiger qu’une personne ou une entité demande ou obtienne par voie électronique des services, prestations ou autres formes d’aide, à moins que cette personne ou cette entité fasse partie d’une catégorie de personnes ou d’entités désignée par règlement et que ces services, prestations ou autres formes d’aide soient désignés par règlement.
-> 2005, ch. 34, art. 71 et 83; 2012, ch. 19, art. 224; 2013, ch. 40, art. 212; 2017, ch. 26, art. 51; 2018, ch. 12, art. 280.
+> 2005, ch. 34, art. 71 et 83; 2012, ch. 19, art. 224; 2013, ch. 40, art. 212; 2017, ch. 26, art. 51; 2018, ch. 12, art. 280
 
 
 
@@ -1507,7 +1507,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de dépôt**
 
 - **(5)** Au présent article, est assimilée au dépôt toute forme de transmission, quelle que soit la désignation de celle-ci.
-> 2005, ch. 34, art. 72; 2012, ch. 19, art. 224; 2013, ch. 40, art. 213; 2018, ch. 12, art. 281.
+> 2005, ch. 34, art. 72; 2012, ch. 19, art. 224; 2013, ch. 40, art. 213; 2018, ch. 12, art. 281
 
 
 
@@ -1545,8 +1545,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Enregistrement ou publication non requis**
 
-- **(5)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
-> 2005, ch. 34, art. 73; 2012, ch. 19, art. 224; 2013, ch. 40, art. 214; 2018, ch. 12, art. 282.
+- **(5)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements n’ont pas à être transmis pour enregistrement ni à être publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) du seul fait de leur incorporation.
+> 2005, ch. 34, art. 73; 2012, ch. 19, art. 224; 2013, ch. 40, art. 214; 2018, ch. 12, art. 282
 
 
 
@@ -1618,12 +1618,149 @@ L’Accord de coopération dans le domaine du travail entre le Canada et la Rép
 L’Accord de coopération dans le domaine du travail entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009, avec ses modifications éventuelles apportées en conformité avec son article 22.
 
 
+Le chapitre 12 de l’Accord, au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md), avec ses modifications éventuelles apportées en conformité avec son article 21.2.
+
+
 Le chapitre 13 de l’Accord de libre-échange entre le Canada et l’Ukraine, fait à Kiev le 11 juillet 2016, avec ses amendements éventuels apportés en conformité avec son article 19.3.
 
 
 Le chapitre 18 de l’Accord de libre-échange entre le Canada et la République de Corée, fait à Ottawa le 22 septembre 2014, avec ses modifications éventuelles apportées en conformité avec son article 23.2.
 
 
-> 2009, ch. 16, art. 51; 2010, ch. 4, art. 43; 2012, ch. 18, art. 41, ch. 26, art. 50 et 62; 2014, ch. 14, art. 50, ch. 28, art. 58; 2017, ch. 8, art. 42.
+> 2009, ch. 16, art. 51; 2010, ch. 4, art. 43; 2012, ch. 18, art. 41, ch. 26, art. 50 et 62; 2014, ch. 14, art. 50, ch. 28, art. 58; 2017, ch. 8, art. 422019, ch. 6, art. 11
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2012, ch. 19, art. 251
+
+
+**Définitions**
+
+**251** Les définitions qui suivent s’appliquent aux articles 252 à 270.
+
+***Commission d’appel des pensions*** La Commission d’appel des pensions constituée conformément à l’article 83 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), dans sa version antérieure à l’entrée en vigueur de l’article 229. (*Pension Appeals Board*)
+
+***conseil arbitral*** Conseil arbitral créé en application de la partie VI de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), dans sa version antérieure à l’entrée en vigueur de l’article 247. (*board of referees*)
+
+***juge-arbitre*** Juge-arbitre nommé en application de la partie VI de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), dans sa version antérieure à l’entrée en vigueur de l’article 247. (*umpire*)
+
+***Tribunal de la sécurité sociale*** Le Tribunal de la sécurité sociale constitué par l’article 44 de la Loi sur le ministère des Ressources humaines et du Développement des compétences. (*Social Security Tribunal*)
+
+***tribunal de révision*** Tribunal de révision constitué en application de l’article 82 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), dans sa version antérieure à l’entrée en vigueur de l’article 229. (*Review Tribunal*)
+
+
+
+######           — 2012, ch. 19, art. 252
+
+
+**Renseignements**
+
+**252** La Commission d’appel des pensions, un tribunal de révision, un conseil arbitral ou un juge-arbitre remet au Tribunal de la sécurité sociale tout renseignement relevant de lui qui soit est relatif à toute demande dont est saisi le Tribunal de la sécurité sociale, soit est visé par règlement du gouverneur en conseil.
+
+
+
+######           — 2012, ch. 19, art. 261
+
+
+**Modification de la décision**
+
+**261** 
+
+- **(1)** Toute demande présentée au titre du paragraphe 84(2) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), dans sa version antérieure à l’entrée en vigueur de l’article 229, et non tranchée avant le 1<sup>er</sup> avril 2013 est réputée être une demande présentée le 1<sup>er</sup> avril 2013 au titre de l’article 66 de la Loi sur le ministère des Ressources humaines et du Développement des compétences et viser :
+	- **a)** dans le cas où elle porte sur une décision rendue par un tribunal de révision, une décision rendue par la division générale du Tribunal de la sécurité sociale;
+	- **b)** dans le cas où elle porte sur une décision rendue par la Commission d’appel des pensions, une décision rendue par la division d’appel du Tribunal de la sécurité sociale.
+
+**Présomption**
+
+- **(2)** Toute demande présentée au titre de l’article 66 de la Loi sur le ministère des Ressources humaines et du Développement des compétences après le 31 mars 2013 est réputée viser :
+	- **a)** dans le cas où elle porte sur une décision rendue par un tribunal de révision, une décision rendue par la division générale du Tribunal de la sécurité sociale;
+	- **b)** dans le cas où elle porte sur une décision rendue par la Commission d’appel des pensions, une décision rendue par la division d’appel du Tribunal de la sécurité sociale.
+
+
+
+######           — 2012, ch. 19, art. 269
+
+
+**Modification de la décision**
+
+**269** 
+
+- **(1)** Toute demande présentée au titre de l’article 120 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), dans sa version antérieure à l’entrée en vigueur de l’article 247, et non tranchée avant le 1<sup>er</sup> avril 2013 est réputée être une demande présentée le 1<sup>er</sup> avril 2013 au titre de l’article 66 de la Loi sur le ministère des Ressources humaines et du Développement des compétences et viser :
+	- **a)** dans le cas où elle porte sur une décision rendue par un conseil arbitral, une décision rendue par la division générale du Tribunal de la sécurité sociale;
+	- **b)** dans le cas où elle porte sur une décision rendue par un juge-arbitre, une décision rendue par la division d’appel du Tribunal de la sécurité sociale.
+
+**Présomption**
+
+- **(2)** Toute demande présentée au titre de l’article 66 de la Loi sur le ministère des Ressources humaines et du Développement des compétences après le 31 mars 2013 est réputée viser :
+	- **a)** dans le cas où elle porte sur une décision rendue par un conseil arbitral, une décision rendue par la division générale du Tribunal de la sécurité sociale;
+	- **b)** dans le cas où elle porte sur une décision rendue par un juge-arbitre, une décision rendue par la division d’appel du Tribunal de la sécurité sociale.
+
+
+
+######           — 2013, ch. 40, art. 217
+
+
+**Sous-ministre et sous-ministre délégué**
+
+**217** 
+
+- **(1)** Les personnes occupant, à la date d’entrée en vigueur du présent article, les charges de sous-ministre des Ressources humaines et du Développement des compétences ou de sous-ministre délégué des Ressources humaines et du Développement des compétences sont réputées, à compter de cette date, occuper les charges de sous-ministre de l’Emploi et du Développement social ou de sous-ministre délégué de l’Emploi et du Développement social, respectivement.
+
+**Sous-ministre du Travail**
+
+- **(2)** La personne occupant, à la date d’entrée en vigueur du présent article, la charge de sous-ministre du Travail est réputée, à compter de cette date, avoir été désignée sous-ministre du Travail en vertu du paragraphe 4(3) de la Loi sur le ministère de l’Emploi et du Développement social, édicté par l’article 209 de la présente loi.
+
+
+
+######           — 2013, ch. 40, art. 218
+
+
+**Postes**
+
+**218** La présente loi ne change rien à la situation des fonctionnaires qui, à l’entrée en vigueur du présent article, occupaient un poste au sein du ministère des Ressources humaines et du Développement des compétences, à la différence près que, à compter de l’entrée en vigueur du présent article, ils l’occupent au sein du ministère de l’Emploi et du Développement social, sous l’autorité du ministre de l’Emploi et du Développement social.
+
+
+
+######           — 2013, ch. 40, art. 219
+
+
+**Transfert de crédits**
+
+**219** Les sommes affectées — et non déboursées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi fédérale, aux frais et dépenses du ministère des Ressources humaines et du Développement des compétences sont réputées être affectées aux frais et dépenses du ministère de l’Emploi et du Développement social.
+
+
+
+######           — 2013, ch. 40, art. 220
+
+
+**Transfert d’attributions**
+
+**220** Les attributions conférées, en vertu d’une loi fédérale ou de ses textes d’application ou au titre d’un décret, contrat, bail, permis ou autre document, au ministre des Ressources humaines et du Développement des compétences sont conférées au ministre de l’Emploi et du Développement social, au sous-ministre de l’Emploi et du Développement social ou au fonctionnaire compétent du ministère de l’Emploi et du Développement social, selon le cas, ou peuvent être exercées par l’un ou l’autre, selon le cas.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2018, ch. 12, art. 270
+
+**270** 
+
+- **(1)** Le paragraphe 5.1(1) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+- **a.1)** fournir des services de transfert de renseignements électroniques à toute entité partenaire désignée par le gouverneur en conseil;
+
+
+
+- **(2)** Le paragraphe 5.1(1) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+- **b.1)** fournir des services d’administration de comptes électroniques ou en ligne pour toute entité partenaire désignée par le gouverneur en conseil;
+
+
+
 
 
