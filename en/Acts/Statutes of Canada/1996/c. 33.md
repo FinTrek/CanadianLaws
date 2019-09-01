@@ -11,33 +11,6 @@ Assented to on 18 December 1996
 
 
 
-
-**Preamble**
-
-WHEREAS the Government of Canada and the Government of the State of Israel have entered into a Free Trade Agreement
-
-desiring to strengthen their economic relations and to promote economic development,
-
-wishing to create a framework for promoting investment and cooperation,
-
-resolved to foster the development of their trade with due regard to fair conditions of competition,
-
-recalling the mutual interest of the Government of Canada and the Government of the State of Israel in reinforcement of the multilateral trading system as reflected in the Agreement Establishing the World Trade Organization,
-
-recalling that the Government of Canada and the Government of the State of Israel entered into a Memorandum of Understanding on September 27, 1976 that established a Joint Economic Commission, which was continued under a Memorandum of Understanding on Economic Cooperation entered into on August 5, 1993, and
-
-wishing to establish a free trade area between the two countries through the removal of trade barriers,
-
-WHEREAS the Government of Canada has entered into the Agreement having further resolved to strengthen the Canadian economy and Canada’s competitiveness as a trading nation;
-
-WHEREAS the Government of Canada has announced its willingness to extend the benefits of the Agreement to another beneficiary;
-
-WHEREAS the Agreement applies generally throughout Canada;
-
-AND WHEREAS it is necessary, in order to give effect to the Agreement, to make related or consequential amendments to certain Acts;
-
-
-
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
@@ -66,9 +39,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***Agreement*** means the Free Trade Agreement entered into between the Government of Canada and the Government of the State of Israel and signed on July 31, 1996, and includes any rectifications to it made before its ratification by Canada. (*Accord*)
+***Agreement*** means the Free Trade Agreement entered into between the Government of Canada and the Government of the State of Israel and signed on July 31, 1996, as amended by the Canada – Israel Free Trade Amending Protocol 2018 signed on May 28, 2018. (*Accord*)
 
-***Commission*** means the Canada-Israel Trade Commission established under paragraph 1 of Article 8.2 of the Agreement. (*Commission*)
+***Commission*** means the Joint Commission established under paragraph 1 of Article 18.1 of the Agreement. (*Commission*)
 
 ***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament. (*texte législatif fédéral*)
 
@@ -77,6 +50,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Publication of Agreement**
 
 - **(2)** The Agreement shall be published in the Canada Treaty Series.
+> 1996, c. 33, s. 22019, c. 6, s. 2
+
 
 
 
@@ -94,7 +69,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Purpose**
 
-**4** The purpose of this Act is to implement the Agreement, the objective of which, as elaborated more specifically through its provisions, is to eliminate barriers to trade in, and facilitate the movement of, goods within the free-trade area established by the Agreement, and thereby to promote conditions of fair competition and substantially increase investment opportunities in that free-trade area.
+**4** The purpose of this Act is to implement the Agreement, the objectives of which, as elaborated more specifically through its provisions, are to
+- **(a)** strengthen the bilateral commercial relationship between Canada and the State of Israel;
+- **(b)** improve access to the Israeli market for Canadian businesses by reducing and eliminating tariffs, addressing non-tariff barriers, enhancing cooperation and increasing transparency in regulatory matters;
+- **(c)** ensure a high level of environmental protection through comprehensive and legally-binding commitments;
+- **(d)** build on the respective international commitments of Canada and the State of Israel on labour matters; and
+- **(e)** promote gender equality and encourage women’s economic empowerment and the use of voluntary corporate social responsibility standards and principles, as well as promote access for small and medium-sized enterprises to the opportunities created by the Agreement.
+> 1996, c. 33, s. 42019, c. 6, s. 3
+
 
 
 
@@ -129,13 +111,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of Agreement to water**
 
-**7** 
+**7** For greater certainty, nothing in this Act or the Agreement applies to natural surface or ground water in liquid, gaseous or solid state.
+> 1996, c. 33, s. 72019, c. 6, s. 4
 
-- **(1)** For greater certainty, nothing in this Act or the Agreement, except Article 2.1 of the Agreement, applies to water.
-
-**Definition of water**
-
-- **(2)** In this section, ***water*** means natural surface and ground water in liquid, gaseous or solid state, but does not include water packaged as a beverage or in tanks.
 
 
 
@@ -185,38 +163,70 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+### Panels, Committees, Subcommittees, Working Groups, Expert Groups and Other Bodies
+
+
+
+**Powers of Minister for International Trade**
+
+**12** 
+
+- **(1)** The Minister for International Trade may
+	- **(a)** appoint representatives of Canada to any committee, subcommittee, working group or other body referred to in paragraph 6 of Article 18.1 of the Agreement;
+	- **(b)** appoint a panellist in accordance with paragraph 2 of Article 19.7 of the Agreement; and
+	- **(c)** propose candidates to serve as the chair of a panel, or select the chair, in accordance with that Article 19.7.
+
+**Powers of Minister of Labour**
+
+- **(2)** The Minister of Labour may
+	- **(a)** appoint representatives of Canada to any committee, working group or expert group referred to in sub-paragraph 4(a) of Article 12.7 of the Agreement;
+	- **(b)** appoint a panellist in accordance with paragraph 4 of Annex 12.13.3 of the Agreement; and
+	- **(c)** propose candidates to serve as the chairperson of a Review Panel, or select the chairperson, in accordance with paragraphs 4 and 5 of that Annex.
+> 1996, c. 33, s. 122019, c. 6, s. 5
+
+
+
+
+
 **Administrative support**
 
-**12** The Minister for International Trade shall designate an agency, division or branch of the Government of Canada to facilitate the operation of, and provide administrative assistance to panels established under, Chapter Eight of the Agreement.
+**13** The Minister for International Trade is to designate an agency, division or branch of the Government of Canada to facilitate the operation of Chapter 18 of the Agreement and to provide administrative assistance to panels established under Chapter 19 of the Agreement.
+> 1996, c. 33, s. 132019, c. 6, s. 5
 
 
 
 
-**Appointments to certain committees**
 
-**13** The Minister for International Trade may appoint any person to be a representative of Canada on any committee or working group referred to in paragraph 4 of Article 8.2 of the Agreement.
+**Payment of costs**
 
-
-
-
-**Costs of panels**
-
-**14** The Government of Canada shall, in accordance with Annex 8.9 of the Agreement, pay the costs of or its appropriate share of the costs of
-- **(a)** the remuneration and expenses payable to panellists and assistants; and
-- **(b)** the general expenses incurred by panels.
+**14** The Government of Canada is to pay the costs of or its appropriate share of the costs of
+- **(a)** the remuneration and expenses payable to members of panels, committees, subcommittees, working groups, expert groups and other bodies, to independent experts and to the assistants of panel members; and
+- **(b)** the general expenses incurred by panels, committees, subcommittees, working groups, expert groups and other bodies.
+> 1996, c. 33, s. 142019, c. 6, s. 5
 
 
 
 
-### Regulations
+
+### Orders
 
 
 
-**Regulations**
+**Orders — Article 19.13 of Agreement**
 
-**15** The Governor in Council may make regulations
-- **(a)** for carrying out the purposes and provisions of this Act; and
-- **(b)** on the recommendation of the Minister for International Trade, for carrying out and giving effect to paragraph 1 of Annex 8.9 of the Agreement.
+**15** 
+
+- **(1)** The Governor in Council may, for the purpose of suspending benefits in accordance with Article 19.13 of the Agreement, by order, do any of the following:
+	- **(a)** suspend rights or privileges granted by Canada to the State of Israel or to goods of Israel under the Agreement or any federal law;
+	- **(b)** modify or suspend the application of any federal law, with respect to the State of Israel or to goods of Israel;
+	- **(c)** extend the application of any federal law to the State of Israel or to goods of Israel;
+	- **(d)** take any other measure that the Governor in Council considers necessary.
+
+**Period of order**
+
+- **(2)** Unless repealed, an order made under subsection (1) has effect for the period specified in the order.
+> 1996, c. 33, s. 152019, c. 6, s. 5
+
 
 
 
