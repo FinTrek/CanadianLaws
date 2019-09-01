@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20986.md)
 
-# Règlement concernant la durée du travail, le salaire, les congés annuels, les jours fériés, la réaffectation, le congé de maternité et le congé parental, les congés de décès, les licenciements collectifs, les licenciements individuels, l’indemnité de départ et les accidents et maladies professionnels dans les entreprises fédérales
+# Règlement du Canada sur les normes du travail
 
 **C.R.C., ch. 986**
 
@@ -10,11 +10,7 @@ Autorités habilitantes :
 ----------
 
 
-
-## Titre abrégé
-
-
-**1** Le présent règlement peut être cité sous le titre : Règlement du Canada sur les normes du travail.
+**1** [Abrogé, DORS/2019-168, art. 2]
 
 
 
@@ -33,7 +29,7 @@ Autorités habilitantes :
 ***Loi*** La partie III du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md). (*Act*)
 
 - **(2)** Tout avis, demande ou autre document dont l’envoi au directeur régional ou le dépôt auprès de celui-ci est exigé ou autorisé par le présent règlement doit être adressé au directeur régional dont le bureau est situé dans la ville la plus proche de l’endroit où demeure l’employé concerné.
-> DORS/91-461, art. 2; DORS/94-668, art. 2.
+> DORS/91-461, art. 2; DORS/94-668, art. 2
 
 
 
@@ -43,7 +39,7 @@ Autorités habilitantes :
 
 
 **3** La section I de la Loi ne s’applique pas aux membres des professions suivantes : architecture, art dentaire, génie, droit et médecine.
-> DORS/78-560, art. 1; DORS/91-461, art. 3(F).
+> DORS/78-560, art. 1; DORS/91-461, art. 3(F)
 
 
 
@@ -52,18 +48,14 @@ Autorités habilitantes :
 ## Modification de l’horaire de travail
 
 
-**4** L’avis devant être affiché conformément aux paragraphes 170(3) ou 172(3) de la Loi avant la prise d’effet d’un horaire de travail doit contenir les renseignements indiqués à l’annexe III.
-> DORS/78-560, art. 2; DORS/91-461, art. 4; DORS/94-668, art. 3.
+**4** Lorsque les parties à une convention collective s’entendent par écrit sur la modification de l’horaire de travail, conformément aux paragraphes 170(1) ou 172(1) de la Loi, l’entente doit être datée et contenir les renseignements prévus aux alinéas a) à m) de l’annexe III.
+> DORS/78-560, art. 2; DORS/91-461, art. 4; DORS/94-668, art. 3DORS/2019-168, art. 3
 
 
 
 
-**5** 
-
-- **(1)** Lorsque les parties à une convention collective conviennent par écrit de modifier l’horaire de travail, conformément aux paragraphes 170(1) ou 172(1) de la Loi, l’entente doit être datée et contenir les renseignements indiqués à l’annexe III.
-
-- **(2)** Lorsqu’au moins 70 pour cent des employés concernés par l’adoption ou la modification de l’horaire de travail l’ont approuvé conformément aux paragraphes 170(2) ou 172(2) de la Loi, l’employeur est tenu d’afficher un avis du nouvel horaire contenant les renseignements indiqués à l’annexe III.
-> DORS/91-461, art. 5; DORS/94-668, art. 3.
+**5** L’avis visé aux paragraphes 170(3) ou 172(3) de la Loi doit contenir les renseignements prévus à l’annexe III et être affiché en permanence durant la période de validité de l’horaire de travail modifié.
+> DORS/91-461, art. 5; DORS/94-668, art. 3DORS/2019-168, art. 3
 
 
 
@@ -91,19 +83,22 @@ Autorités habilitantes :
 - **(6)** Lorsque la durée du travail des employés est calculée comme moyenne conformément au paragraphe (1) :
 	- **a)** la durée normale du travail de tout employé est de 40 fois le nombre de semaines compris dans la période de calcul de la moyenne;
 	- **b)** la durée maximale du travail de tout employé ne peut dépasser 48 fois le nombre de semaines compris dans la période de calcul de la moyenne;
-	- **c)** le taux de rémunération des heures supplémentaires prévu à l’article 174 de la Loi s’applique aux heures de travail effectuées au-delà de la durée normale du travail visée à l’alinéa a), à l’exclusion des heures qui ont été rémunérées selon une majoration de salaire d’au moins cinquante pour cent du taux régulier avant la fin de la période de calcul de la moyenne.
+	- **c)** les employés ont droit à la majoration de salaire prévue à l’alinéa 174(1)a) de la Loi ou, sous réserve du paragraphe 174(2) de la Loi, aux congés compensatoires prévus à l’alinéa 174(1)b) de la Loi pour les heures de travail effectuées au-delà de la durée normale du travail visée à l’alinéa a), à l’exclusion de celles qui ont été rémunérées selon une majoration du taux régulier de salaire d’au moins cinquante pour cent avant la fin de la période de calcul de la moyenne.
 
 - **(7)** Sous réserve du paragraphe (8), la durée normale du travail et la durée maximale du travail calculées conformément au paragraphe (6) doivent être réduites de huit heures pour toute journée, au cours de la période de calcul de la moyenne, qui représente pour l’employé l’un des jours suivants :
-	- **a)** un jour de congé de décès payé;
-	- **b)** un jour de congé annuel payé;
+	- **a)** un jour de congé annuel payé;
+	- **b)** un jour férié ou autre jour de congé payé;
 	- **c)** un jour de congé payé visé au paragraphe 205(2) de la Loi;
-	- **d)** un jour férié ou autre jour de congé payé;
-	- **e)** normalement un jour ouvrable à l’égard duquel il n’a pas droit à son salaire normal.
+	- **d)** un jour de congé personnel payé;
+	- **e)** un jour de congé payé pour les victimes de violence familiale;
+	- **f)** un jour de congé de décès payé;
+	- **g)** un jour qui est normalement un jour ouvrable à l’égard duquel il n’a pas droit à son salaire normal.
 
 - **(8)** La durée normale du travail et la durée maximale du travail calculées conformément au paragraphe (6) ne peuvent être réduites de plus de 40 heures pour toute semaine, au cours de la période de calcul de la moyenne, qui représente pour l’employé l’une des semaines suivantes :
 	- **a)** une semaine de congé annuel payé;
 	- **b)** une semaine de congé payé visé au paragraphe 205(2) de la Loi;
-	- **c)** normalement une semaine ouvrable à l’égard duquel il n’a pas droit à son salaire normal.
+	- **c)** normalement une semaine ouvrable à l’égard duquel il n’a pas droit à son salaire normal;
+	- **d)** une semaine de congé payé pour les victimes de violence familiale.
 
 - **(9)** La durée normale du travail et la durée maximale du travail calculées conformément au paragraphe (6) doivent être réduites de 40 heures pour chaque période de sept jours consécutifs, comprise dans la période de calcul de la moyenne, durant laquelle l’employé n’a pas droit à son salaire normal.
 
@@ -115,8 +110,10 @@ Autorités habilitantes :
 	- **a)** il a affiché un avis à cet effet;
 	- **b)** il a transmis une copie de l’avis au directeur régional et à tout syndicat représentant les employés concernés qui sont liés par une convention collective.
 
-- **(13)** L’employeur qui modifie le nombre de semaines servant au calcul de la moyenne ou qui cesse de calculer la moyenne des heures de travail d’employés avant la fin de la période de calcul doit rémunérer les employés dont les heures de travail sont assujetties au calcul de la moyenne, au taux de rémunération des heures supplémentaires prévu à l’article 174 de la Loi pour les heures de travail effectuées qui sont en sus de 40 fois le nombre de semaines que compte la partie écoulée de la période de calcul de la moyenne.
-> DORS/91-461, art. 6; DORS/94-668, art. 3; DORS/2002-113, art. 1(F).
+- **(13)** L’employeur qui modifie le nombre de semaines servant au calcul de la moyenne ou qui cesse de calculer la moyenne des heures de travail d’employés avant la fin de la période de calcul doit, pour chaque heure de travail effectuée qui est en sus de quarante fois le nombre de semaines que compte la partie écoulée de la période de calcul de la moyenne :
+	- **a)** soit rémunérer ces employés selon la majoration du taux régulier de salaire prévue à l’alinéa 174(1)a) de la Loi;
+	- **b)** soit, sous réserve du paragraphe 174(2) de la Loi, accorder à ces employés un congé compensatoire conformément à l’alinéa 174(1)b) de la Loi.
+> DORS/91-461, art. 6; DORS/94-668, art. 3; DORS/2002-113, art. 1(F)DORS/2019-168, art. 4
 
 
 
@@ -125,7 +122,7 @@ Autorités habilitantes :
 - **a)** oblige ou autorise l’employé à travailler au-delà de la durée normale du travail à des fins de changement de poste;
 - **b)** autorise l’employé à faire valoir ses droits d’ancienneté pour travailler au-delà de la durée normale du travail, conformément à une convention collective; ou
 - **c)** autorise un employé à travailler au-delà de la durée normale de son travail, suite à un échange de poste avec un autre employé.
-> DORS/91-461, art. 7.
+> DORS/91-461, art. 7
 
 
 
@@ -139,32 +136,32 @@ Autorités habilitantes :
 - **(1)** Lorsque le dépassement de la durée maximale du travail prévue à l’article 171 de la Loi est convenu par écrit conformément à l’article 172 de la Loi, l’horaire de travail doit compter un nombre de jours de repos au moins égal au nombre de semaines qu’il compte.
 
 - **(2)** Lorsque le dépassement de la durée maximale du travail prévue à l’article 171 de la Loi est autorisé en vertu de l’article 176 de la Loi, le ministre peut préciser dans la dérogation dont il est fait mention à cet article que l’horaire de travail hebdomadaire ne doit pas nécessairement être établi en conformité avec l’article 173 de la Loi au cours de la période visée par la dérogation et peut, eu égard aux conditions d’emploi de l’établissement et au bien-être des employés qui y travaillent, prévoir dans la dérogation d’autres jours de repos à respecter.
-> DORS/91-461, art. 8; DORS/94-668, art. 4.
+> DORS/91-461, art. 8; DORS/94-668, art. 4
 
 
 
 
 **9** Au cours d’une période de calcul de la moyenne, les horaires de travail peuvent être établis et les heures de travail effectuées sans égard à l’article 173 de la Loi.
-> DORS/91-461, art. 8.
+> DORS/91-461, art. 8
 
 
 
 
 
 ## Employés de moins de 17 ans
-> [DORS/91-461, art. 9]
+> DORS/91-461, art. 9
 
 
 
 **10** 
 
 - **(1)** L’employeur peut employer une personne âgée de moins de 17 ans dans tout bureau, établissement, service ou dans toute entreprise de transport, de communication, de construction, d’entretien ou de réparation ou à d’autres travaux dans le cas d’une entreprise, d’un ouvrage ou d’une affaire de compétence fédérale, si
-	- **a)** cette personne n’est pas tenue de fréquenter l’école en vertu de la loi de la province dans laquelle elle habite ordinairement; et si
-	- **b)** le travail auquel elle doit être affectée
+	- **a)** d’une part, cette personne n’est pas tenue de fréquenter l’école en vertu de la loi de la province dans laquelle elle habite ordinairement;
+	- **b)** d’autre part, le travail auquel elle doit être affectée, à la fois :
 		- **(i)** n’est pas un travail souterrain dans une mine,
-		- **(ii)** ne l’amène pas à être employée ou à entrer dans un endroit où il lui est interdit de pénétrer en vertu du [Règlement sur les explosifs](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/501-600/C.R.C.,%20ch.%20599.md),
+		- **(ii)** ne l’amène pas à être employée ou à entrer dans un endroit où il lui est interdit de pénétrer en vertu du [Règlement de 2013 sur les explosifs](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/211.md),
 		- **(iii)** n’est pas un travail d’un travailleur du secteur nucléaire au sens de la [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md),
-		- **(iv)** n’est pas un travail qui lui est interdit par la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), en raison de son âge, ou
+		- **(iv)** n’est pas un travail qui lui est interdit par la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), en raison de son âge,
 		- **(v)** ne comporte pas de danger pour sa santé ou sa sécurité.
 
 - **(2)** L’employeur ne doit pas obliger ni autoriser un employé âgé de moins de 17 ans à travailler entre 11 heures du soir et six heures le lendemain matin.
@@ -172,7 +169,7 @@ Autorités habilitantes :
 - **(3)** [Abrogé, DORS/99-337, art. 1]
 
 - **(4)** [Abrogé, DORS/91-461, art. 10]
-> DORS/80-687, art. 1; DORS/81-284, art. 1; DORS/86-477, art. 1; DORS/91-461, art. 10; DORS/96-167, art. 1; DORS/99-337, art. 1; DORS/2002-113, art. 2.
+> DORS/80-687, art. 1; DORS/81-284, art. 1; DORS/86-477, art. 1; DORS/91-461, art. 10; DORS/96-167, art. 1; DORS/99-337, art. 1; DORS/2002-113, art. 2DORS/2019-168, art. 5
 
 
 
@@ -182,7 +179,7 @@ Autorités habilitantes :
 
 
 **11** L’employeur est exempté de l’application de l’article 178 de la Loi à l’égard de tout employé qui reçoit une formation en cours d’emploi, si cet employé est un apprenti inscrit sous le régime d’une loi provinciale sur l’apprentissage et est rémunéré suivant une échelle de taux établie en vertu de cette loi.
-> DORS/91-461, art. 11; DORS/2002-113, art. 3.
+> DORS/91-461, art. 11; DORS/2002-113, art. 3
 
 
 
@@ -192,7 +189,7 @@ Autorités habilitantes :
 
 
 **11.1** L’employeur doit payer à l’employé qui se présente au travail à sa demande au moins trois heures de salaire, selon son taux régulier, même s’il ne le fait pas travailler ensuite.
-> DORS/91-461, art. 12.
+> DORS/91-461, art. 12
 
 
 
@@ -204,7 +201,7 @@ Autorités habilitantes :
 **12** L’employeur doit, au moins 30 jours avant de déterminer une année de service conformément à l’alinéa b) de la définition de ***année de service*** à l’article 183 de la Loi, transmettre par écrit aux employés concernés les renseignements suivants :
 - **a)** les dates du début et de la fin de l’année de service;
 - **b)** la méthode de calcul de la durée des congés annuels et de l’indemnité de congé annuel pour une période d’emploi inférieure à 12 mois consécutifs.
-> DORS/94-668, art. 5.
+> DORS/94-668, art. 5
 
 
 
@@ -219,10 +216,10 @@ Autorités habilitantes :
 
 - **(3)** L’employeur doit donner à chacun de ses employés qui a droit à un congé annuel un préavis d’au moins deux semaines l’informant de la date du début de son congé annuel, à moins qu’ils n’aient déjà convenu d’une date.
 
-- **(4)** L’employeur doit verser à l’employé qui a acquis le droit à un congé annuel payé l’indemnité de congé à laquelle il a droit :
-	- **a)** soit dans les 14 jours qui précèdent le début du congé;
-	- **b)** soit le jour normal de paie durant le congé ou immédiatement après celui-ci, lorsqu’il est impossible de se conformer à l’alinéa a) ou lorsqu’il est d’usage, dans l’établissement où l’employé travaille, de verser l’indemnité de congé annuel le jour normal de paie durant ou immédiatement après le congé annuel.
-> DORS/94-668, art. 5; DORS/2002-113, art. 4(A); DORS/2014-305, art. 1(F).
+- **(4)** L’employeur doit verser à l’employé qui a acquis le droit à un congé annuel payé l’indemnité de congé annuel prévue au sous-alinéa 185b)(i) de la Loi ou le montant prévue au sous-alinéa 185b)(ii) de la Loi, selon le cas :
+	- **a)** soit dans les quatorze jours qui précèdent le début d’une période de congé;
+	- **b)** soit le jour normal de paie durant une période de congé ou immédiatement après celle-ci, lorsqu’il est impraticable de se conformer à l’alinéa a) ou qu’il est d’usage, dans l’établissement où l’employé travaille, de verser l’indemnité de congé annuel ou le montant en causele jour normal de paie durant une période de congé annuel ou immédiatement après celle-ci.
+> DORS/94-668, art. 5; DORS/2002-113, art. 4(A); DORS/2014-305, art. 1(F)DORS/2019-168, art. 6
 
 
 
@@ -232,7 +229,7 @@ Autorités habilitantes :
 - **(1)** L’employé qui a droit à un congé annuel relativement à une année de service particulière peut y renoncer ou le reporter moyennant une entente écrite avec l’employeur.
 
 - **(2)** L’employeur doit, dans les dix mois suivant la fin de l’année de service en cause, verser l’indemnité de congé annuel à l’employé qui a renoncé à un congé annuel conformément au paragraphe (1).
-> DORS/91-461, art. 13; DORS/94-668, art. 5.
+> DORS/91-461, art. 13; DORS/94-668, art. 5
 
 
 
@@ -253,25 +250,25 @@ Autorités habilitantes :
 	- **g)** une déclaration portant que la substitution du jour férié doit être approuvée par au moins 70 pour cent des employés concernés avant de prendre effet.
 
 - **(2)** L’avis mentionné au paragraphe (1) doit être affiché pendant toute la durée de la substitution.
-> DORS/91-461, art. 14; DORS/94-668, art. 5.
+> DORS/91-461, art. 14; DORS/94-668, art. 5
 
 
 
 
 **16** Lorsque les parties à une convention collective s’entendent par écrit pour substituer conformément au paragraphe 195(1) de la Loi un jour de congé à un jour férié, l’entente écrite doit renfermer les renseignements visés aux alinéas 15(1)a) à e).
-> DORS/94-668, art. 5.
+> DORS/94-668, art. 5
 
 
 
 
 
-## Taux régulier de salaire pour les jours fériés et les congés de décès
+## Taux régulier de salaire pour les jours fériés, les congés personnels, les congés pour les victimes de violence familiale et les congés de décès
 
 
-**17** Pour l’application du paragraphe 210(2) de la Loi, le taux régulier du salaire d’un employé dont la durée du travail varie d’un jour à l’autre ou dont le salaire est calculé autrement qu’en fonction du temps est égal :
-- **a)** soit à la moyenne de ses gains journaliers, exclusion faite de sa rémunération pour des heures supplémentaires fournies pendant les 20 jours où il a travaillé immédiatement avant le premier jour d’un congé de décès;
+**17** Pour l’application des paragraphes 206.6(2), 206.7(2.1) et 210(2) de la Loi, le taux régulier du salaire d’un employé dont la durée du travail varie d’un jour à l’autre ou dont le salaire est calculé autrement qu’en fonction du temps est égal :
+- **a)** soit à la moyenne de ses gains journaliers, exclusion faite de sa rémunération pour des heures supplémentaires fournies, pendant les vingt jours où il a travaillé immédiatement avant le premier jour de la période de congé payé;
 - **b)** soit au montant calculé suivant une méthode convenue selon les dispositions de la convention collective liant l’employeur et l’employé.
-> DORS/79-309, art. 1; DORS/91-461, art. 15; DORS/2014-305, art. 2.
+> DORS/79-309, art. 1; DORS/91-461, art. 15; DORS/2014-305, art. 2DORS/2019-168, art. 7
 
 
 
@@ -279,14 +276,14 @@ Autorités habilitantes :
 **18** Pour l’application de l’article 197 de la Loi, lorsque la durée du travail d’un employé rémunéré à la journée ou à l’heure varie d’un jour à l’autre ou que son salaire est calculé autrement qu’en fonction du temps, le salaire normal pour un jour férié est :
 - **a)** la moyenne de ses gains journaliers, déduction faite de sa rémunération pour des heures supplémentaires, pendant les 20 jours où il a travaillé immédiatement avant un jour férié; ou
 - **b)** un montant calculé suivant une méthode convenue, selon les dispositions d’une convention collective liant l’employeur et l’employé.
-> DORS/79-309, art. 2; DORS/91-461, art. 16; DORS/2014-305, art. 3.
+> DORS/79-309, art. 2; DORS/91-461, art. 16; DORS/2014-305, art. 3
 
 
 
 
 
 ## Travail au service de plusieurs employeurs
-> [DORS/91-461, art. 17]
+> DORS/91-461, art. 17
 
 
 
@@ -318,8 +315,8 @@ Autorités habilitantes :
 	- **a)** l’association a institué et administre un bureau central de paie chargé de conserver les dossiers d’emploi des employés au service des employeurs qui sont membres de l’association et de verser le salaire auxdits employés au nom de leurs employeurs; et si
 	- **b)** le ministre est convaincu que le bureau central de paie ainsi institué par l’association d’employeurs est autorisé à recueillir de chacun de ses membres et à verser en leur nom à leurs employés le salaire qu’ils sont tenus de leur verser conformément au présent article.
 
-- **(6)** Pour l’application de l’alinéa 206(1)a), des paragraphes 206.1(1), 206.4(2), 206.5(2) et (3), 210(2), 230(1) et 235(1), des alinéas 239(1)a) et 240(1)a) et du paragraphe 247.5(1) de la Loi, l’employé au service de plusieurs employeurs est réputé travailler sans interruption.
-> DORS/78-560, art. 3; DORS/81-473, art. 1; DORS/91-461, art. 18; DORS/2002-113, art. 5; DORS/2009-194, art. 1; DORS/2014-305, art. 4.
+- **(6)** Pour l’application des paragraphes 177.1(1),  206(1), 206.1(1), 206.4(2) et (2.1), 206.5(2) et (3), 206.6(2), 206.7(2.1), 206.8(1), 210(2), 230(1) et 235(1), des alinéas 239(1)a) et 240(1)a) et du paragraphe 247.5(1) de la Loi, l’employé au service de plusieurs employeurs est réputé travailler sans interruption.
+> DORS/78-560, art. 3; DORS/81-473, art. 1; DORS/91-461, art. 18; DORS/2002-113, art. 5; DORS/2009-194, art. 1; DORS/2014-305, art. 4DORS/2019-168, art. 8
 
 
 
@@ -337,7 +334,7 @@ Autorités habilitantes :
 - **(3)** Pour l’application du paragraphe (1) :
 	- **a)** le salaire versé ne comprend pas l’indemnité de congé annuel, la rémunération applicable aux jours fériés, aux congés de décès et aux autres congés, ni le salaire versé pour les heures supplémentaires;
 	- **b)** le nombre d’heures requis ne comprend pas les heures pour lesquelles a été payé le taux de salaire applicable aux heures supplémentaires.
-> DORS/79-309, art. 3; DORS/91-461, art. 19; DORS/2014-305, art. 5.
+> DORS/79-309, art. 3; DORS/91-461, art. 19; DORS/2014-305, art. 5
 
 
 
@@ -349,7 +346,7 @@ Autorités habilitantes :
 **21** Lorsque les repas ou le logement ou les deux sont fournis à l’employé par l’employeur ou en son nom aux termes d’une entente à laquelle a consenti l’employé, le montant de la réduction du salaire de l’employé qui peut être effectuée pour toute période de paie, ramenant ainsi ce salaire à un taux inférieur au salaire horaire minimum établi conformément à l’article 178 de la Loi, soit par voie de prélèvement sur le salaire, soit par voie de paiement versé à ce titre à l’employeur par l’employé, ne peut dépasser :
 - **a)** 0,50 $ par repas fourni;
 - **b)** 0,60 $ par jour où le logement est fourni.
-> DORS/91-461, art. 19; DORS/94-668, art. 6.
+> DORS/91-461, art. 19; DORS/94-668, art. 6
 
 
 
@@ -371,7 +368,7 @@ Autorités habilitantes :
 - **(2)** Le ministre dépose tout montant reçu en vertu du paragraphe (1) au crédit du Receveur général dans un compte appelé «Compte d’ordre du Code du travail (Normes)» et il peut autoriser des paiements à même le compte en question à l’égard de tout employé dont le salaire se trouve gardé à ce compte.
 
 - **(3)** Le ministre tient un registre des recettes et des déboursés en rapport avec le Compte d’ordre du Code du travail (Normes).
-> DORS/91-461, art. 20.
+> DORS/91-461, art. 20
 
 
 
@@ -391,27 +388,42 @@ Autorités habilitantes :
 	- **d)** les heures de travail fournies chaque jour, sauf dans le cas où l’employé est :
 		- **(i)** soit exclu de l’application de la section I de la Loi conformément au paragraphe 167(2) de la Loi,
 		- **(ii)** soit soustrait à l’application des articles 169 et 171 de la Loi conformément au règlement pris en vertu de l’alinéa 175(1)b) de la Loi;
-	- **e)** les gains effectifs, avec mention du montant versé chaque jour de paie et des sommes versées pour les heures supplémentaires de travail et en indemnités de congé annuel, de jour férié, de congé de décès, de cessation d’emploi et de départ;
+	- **e)** les gains effectifs, avec mention du montant versé chaque jour de paie et des sommes versées pour les heures supplémentaires de travail et en indemnités de congé annuel, de jour férié, de congé personnel, de congé pour les victimes de violence familiale, de congé de décès, de cessation d’emploi et de départ;
 	- **f)** les sommes versées chaque jour de paie, une fois les déductions effectuées, avec les détails précis sur les déductions effectuées;
-	- **g)** les dates de début et de fin des congés annuels et l’année d’emploi à l’égard de laquelle chacun d’eux a été accordé;
+	- **g)** les dates ci-après à l’égard des congés annuels :
+		- **(i)** les dates de début et de fin de chaque période de congé,
+		- **(ii)** si un congé annuel a été interrompu au titre du paragraphe 187.1(1) de la Loi, la date d’interruption du congé et, si l’employé a poursuivi son congé au titre du paragraphe 187.1(7) de la Loi, la date à laquelle son congé s’est poursuivi,
+		- **(iii)** si un congé annuel a été reporté au titre du paragraphe 187.2(1) de la Loi, les nouvelles dates de début et de fin de ce congé;
+	- **g.01)** l’année de service à l’égard de chaque période de congé annuel qui a été accordé;
+	- **g.02)** tout avis d’interruption d’un congé donné conformément aux paragraphes 187.1(6), 207.1(1) ou 207.2(1) de la Loi, selon le cas, ainsi que tout avis de poursuite du congé donné conformément aux paragraphes 187.1(7), 207.1(2) ou 207.2(5) de la Loi, selon le cas;
 	- **g.1)** toute entente écrite conclue entre l’employeur et l’employé aux termes du paragraphe 14(1), selon laquelle l’employé renonce à son congé annuel ou le reporte;
+	- **g.11)** toute demande écrite faite par un employé au titre de l’article 184.1 de la Loi ainsi qu’un registre indiquant la réponse de l’employeur à l’égard de cette demande;
 	- **g.2)** tout avis transmis aux employés conformément à l’article 12 lorsque l’employeur détermine une année de service conformément à l’alinéa b) de la définition de « année de service » à l’article 183 de la Loi;
 	- **h)** à l’égard de tout congé accordé à l’employé en vertu de la section VII de la Loi :
 		- **(i)** les dates du début et de la fin de ce congé et de toute interruption de celui-ci,
 		- **(ii)** un exemplaire de tout préavis de congé ou d’interruption de celui-ci,
-		- **(iii)** un exemplaire de tout certificat médical produit par l’employé relativement au congé ou à son interruption;
+		- **(iii)** tout document, notamment une copie de tout certificat médical, fourni par l’employé relativement au congé ou à son interruption;
 	- **h.1)** les dates du début et de la fin de toute modification des tâches ou réaffectation de l’employé accordée en vertu de la section VII de la Loi et un exemplaire de tout préavis produit par l’employeur relativement à cette modification des tâches ou réaffectation;
-	- **i)** tout jour férié ou autre jour de congé payé accordé à l’employé en vertu de la section V de la Loi, tout avis de substitution de jour férié dont l’affichage est exigé par l’article 195 de la Loi et la preuve, en ce qui concerne les employés non liés par une convention collective, qu’au moins 70 pour cent des employés concernés approuvent la substitution du jour férié;
-	- **j)** dans les cas où le calcul de la moyenne des heures de travail est pratiqué en vertu de l’article 6, tout avis relatif au calcul de la moyenne des heures de travail, le détail des réductions apportées à la durée normale du travail et à la durée maximale du travail en vertu des paragraphes 6(7), (8) et (9), et le nombre d’heures pour lesquelles l’employé avait le droit d’être rémunéré au taux applicable aux heures supplémentaires prévu à l’article 174 de la Loi;
+	- **i)** tout jour férié ou autre jour de congé payé accordé à l’employé en vertu de la section V de la Loi, tout avis de substitution de jour férié dont l’affichage est exigé par l’article 195 de la Loi et la preuve, en ce qui concerne les employés non liés par une convention collective, que la substitution a été approuvée conformément au paragraphe 195(2) de la Loi;
+	- **j)** dans les cas où le calcul de la moyenne des heures de travail est effectué conformément à l’article 6, tout avis relatif au calcul de la moyenne des heures de travail, le détail des réductions apportées à la durée normale du travail et à la durée maximale du travail au titre des paragraphes 6(7), (8) et (9) et le nombre d’heures pour lesquelles l’employé avait le droit d’être rémunéré au taux applicable aux heures supplémentaires ou de se voir accorder des congés compensatoires pour les heures supplémentaires effectuées;
 	- **k)** les périodes de paie adoptées par l’employeur;
 	- **l)** un exemplaire de chaque certificat médical fourni à l’égard d’un congé de maladie et de chaque demande de certificat présentée par l’employeur conformément à l’alinéa 239(1)c) de la Loi, et tout avis ou préavis de licenciement donné conformément aux sections IX ou X de la Loi;
-	- **m)** la date de tout congé de décès accordé à l’employé en vertu de la section VIII de la Loi;
-	- **n)** tout avis concernant un horaire de travail dont l’affichage est exigé par les paragraphes 170(3) ou 172(3) de la Loi et la preuve de l’approbation de cet horaire par au moins 70 pour cent des employés concernés;
+	- **m)** à l’égard de toute période de congé de décès accordée à l’employé en vertu de la section VIII de la Loi :
+		- **(i)** le moment où cette période commence et sa durée,
+		- **(ii)** une copie de l’avis écrit donné par l’employé conformément au paragraphe 210(1.3) de la Loi;
+	- **n)** la preuve de l’approbation visée aux alinéas 170(2)b) ou 172(2)b) de la Loi;
+	- **n.1)** tout horaire de travail et toute modification à un horaire de travail fournis par écrit à l’employé;
+	- **n.2)** tout avis écrit donné en application des sections I ou I.1 de la Loi ainsi que toute demande écrite faite ou toute entente ou accord écrits conclus en vertu ces sections;
+	- **n.3)** un registre indiquant tout refus de l’employé en vertu du paragraphe 173.01(2) de la Loi;
+	- **n.4)** un registre décrivant toute situation auquel l’employé devait parer au titre du paragraphe 173.01(3) de la Loi;
+	- **n.5)** un registre indiquant tout refus de l’employé aux termes de l’article 174.1 de la Loi;
+	- **n.6)** un registre décrivant toute situation auquel l’employé devait parer au titre du paragraphe 174.1(3) de la Loi;
 	- **o)** à l’égard de tout congé accordé à l’employé membre de la force de réserve aux termes de la section XV.2 de la Loi :
-		- **(i)** la date de début et de fin du congé et un exemplaire de tout avis relatif au congé,
-		- **(ii)** un exemplaire de tout certificat médical fourni par l’employé à l’égard du congé,
-		- **(iii)** un exemplaire de tout document fourni conformément à l’article 247.7 de la Loi,
-		- **(iv)** un exemplaire de tout avis donné aux termes des paragraphes 247.8(1) ou 247.95(2) de la Loi.
+		- **(i)** les dates de début et de fin du congé ainsi que de toute interruption ou report de ce congé,
+		- **(i.1)** une copie de tout avis relatif au congé,
+		- **(ii)** une copie de tout certificat médical fourni par l’employé à l’égard du congé,
+		- **(iii)** une copie de tout document fourni conformément à l’article 247.7 de la Loi,
+		- **(iv)** une copie de tout avis donné aux termes des paragraphes 247.8(1) ou 247.95(2) de la Loi.
 
 - **(3)** Tout mode de déclaration des absences du travail ou des heures de travail supplémentaires qui permet d’obtenir les détails requis au paragraphe (2), y compris les heures normales de travail par jour, répond aux exigences du présent règlement en matière de tenue de registres.
 
@@ -421,7 +433,7 @@ Autorités habilitantes :
 	- **c)** la date du retour de l’employé au travail, ou un exemplaire de l’avis de l’employeur informant l’employé et le syndicat le représentant de l’impossibilité de le réintégrer, motifs à l’appui.
 
 - **(5)** [Abrogé, DORS/2014-305, art. 6]
-> DORS/78-560, art. 4; DORS/91-461, art. 21; DORS/94-668, art. 7; DORS/2009-194, art. 2; DORS/2014-305, art. 6.
+> DORS/78-560, art. 4; DORS/91-461, art. 21; DORS/94-668, art. 7; DORS/2009-194, art. 2; DORS/2014-305, art. 6DORS/2019-168, art. 9
 
 
 
@@ -437,14 +449,14 @@ Autorités habilitantes :
 - **(2)** L’employeur doit afficher des avis contenant les renseignements indiqués à l’annexe II.
 
 - **(3)** L’employeur doit afficher des copies de la déclaration visée à l’article 247.4 de la Loi.
-> DORS/91-461, art. 22; DORS/94-668, art. 8.
+> DORS/91-461, art. 22; DORS/94-668, art. 8
 
 
 
 
 
 ## Avis de licenciement collectif
-> [DORS/91-461, art. 23]
+> DORS/91-461, art. 23
 
 
 
@@ -454,56 +466,56 @@ Autorités habilitantes :
 - **c)** la nature de l’industrie exploitée par l’employeur;
 - **d)** le nom de tout syndicat accrédité pour représenter tout employé du groupe d’employés dont l’emploi doit prendre fin ou reconnu par l’employeur comme agent négociateur de l’un quelconque de ces employés; et
 - **e)** le motif de la cessation d’emploi.
-> DORS/91-461, art. 24.
+> DORS/91-461, art. 24
 
 
 
 
 
 ## Établissement aux fins du licenciement collectif
-> [DORS/91-461, art. 25(F)]
+> DORS/91-461, art. 25(F)
 
 
 
 **27** Pour l’application de la section IX de la Loi, sont désignées établissements :
 - **a)** les succursales, sections ou autres divisions des entreprises fédérales qui sont situées dans une région identifiée en vertu de l’alinéa 54w) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
 - **b)** les succursales, sections ou autres divisions figurant à l’annexe I.
-> DORS/79-309, art. 4; DORS/86-628, art. 1; DORS/91-461, art. 26; DORS/2002-113, art. 6.
+> DORS/79-309, art. 4; DORS/86-628, art. 1; DORS/91-461, art. 26; DORS/2002-113, art. 6
 
 
 
 
 
 ## Exemption du licenciement collectif
-> [DORS/91-461, art. 27(F)]
+> DORS/91-461, art. 27(F)
 
 
 
 **28** Les employeurs sont exemptés de l’application de la section IX de la Loi dans le cas du licenciement :
 - **a)** des employés saisonniers; ou
 - **b)** des employés occasionnels engagés en vertu d’une entente selon laquelle ces derniers sont libres d’accepter ou non de travailler lorsqu’on leur demande de le faire.
-> DORS/91-461, art. 28.
+> DORS/91-461, art. 28
 
 
 
 
 
-## Continuité d’emploi (congés annuels, congé de maternité et congé parental, congé de soignant, congé de décès, licenciement individuel, indemnité de départ, congés de maladie et congédiement injuste)
-> [DORS/94-668, art. 9; DORS/2002-113, art. 7; DORS/2006-231, art. 1]
+## Continuité d’emploi
+> DORS/94-668, art. 9; DORS/2002-113, art. 7; DORS/2006-231, art. 1DORS/2019-168, art. 10
 
 
 
 **29** Pour l’application des sections IV, VII, VIII, X, XI, XIII, XIV et XV.2 de la Loi, n’est pas réputée avoir interrompu la continuité de l’emploi l’absence d’un employé qui est :
 - **a)** soit attribuable à une mise à pied qui n’est pas un licenciement aux termes du présent règlement;
 - **b)** soit autorisée ou acceptée par l’employeur.
-> DORS/91-461, art. 29; DORS/2009-194, art. 3.
+> DORS/91-461, art. 29; DORS/2009-194, art. 3
 
 
 
 
 
 ## Mises à pied qui ne sont pas des licenciements aux fins de l’indemnité de départ, licenciements collectifs et licenciements individuels
-> [DORS/91-461, art. 30(F)]
+> DORS/91-461, art. 30(F)
 
 
 
@@ -524,14 +536,14 @@ Autorités habilitantes :
 	- **f)** la durée de la mise à pied est de plus de trois mois mais moins de 12 mois et que l’employé, pendant la durée de la mise à pied, maintient des droits de rappel en vertu d’une convention collective.
 
 - **(2)** Il n’est pas tenu compte, dans le calcul de la durée d’une mise à pied aux fins des alinéas (1)c), d) et f), d’une période de retour au travail inférieure à deux semaines.
-> DORS/82-747, art. 1; DORS/86-628, art. 2(F); DORS/91-461, art. 31; DORS/2006-231, art. 2.
+> DORS/82-747, art. 1; DORS/86-628, art. 2(F); DORS/91-461, art. 31; DORS/2006-231, art. 2
 
 
 
 
 
 ## Heures normales de travail (indemnité de départ et licenciements individuels)
-> [DORS/91-461, art. 32(F)]
+> DORS/91-461, art. 32(F)
 
 
 
@@ -545,7 +557,7 @@ Autorités habilitantes :
 	- **a)** ne tombe aucun jour férié;
 	- **b)** l’employé ne prend aucun jour de congé annuel; et
 	- **c)** l’employé ne s’absente pas du travail pour quelque autre motif.
-> DORS/79-309, art. 5; DORS/91-461, art. 33.
+> DORS/79-309, art. 5; DORS/91-461, art. 33
 
 
 
@@ -555,7 +567,7 @@ Autorités habilitantes :
 - **(1)** Pour l’application de la section X de la Loi, le nombre d’heures de travail normal par semaine d’un employé dont les heures de travail sont calculées selon un régime de calcul de la moyenne est de 40.
 
 - **(2)** Pour l’application de la section XI de la Loi, le nombre d’heures de travail normal par jour d’un employé dont les heures de travail sont calculées selon un régime de calcul de la moyenne est de huit.
-> DORS/79-309, art. 6; DORS/86-628, art. 3(A); DORS/91-461, art. 34; DORS/94-668, art. 10.
+> DORS/79-309, art. 6; DORS/86-628, art. 3(A); DORS/91-461, art. 34; DORS/94-668, art. 10
 
 
 
@@ -577,7 +589,7 @@ Autorités habilitantes :
 	- **h)** de tout parent ou allié qui réside de façon permanente chez l’employé ou chez qui l’employé réside de façon permanente.
 
 - **(2)** Pour l’application du présent article, ***conjoint de fait*** s’entend de la personne qui vit avec le particulier dans une relation conjugale depuis au moins un an, ou qui vivait ainsi avec lui depuis au moins un an au moment du décès du particulier.
-> DORS/78-560, art. 5; DORS/91-461, art. 35; DORS/2001-149, art. 1; DORS/2002-113, art. 8(A).
+> DORS/78-560, art. 5; DORS/91-461, art. 35; DORS/2001-149, art. 1; DORS/2002-113, art. 8(A)
 
 
 
@@ -593,7 +605,7 @@ Autorités habilitantes :
 - **(2)** L’employeur qui licencie ou met à pied un employé ou qui supprime son poste au cours des neuf mois qui suivent son rappel au travail conformément au paragraphe 239.1(3) de la Loi doit démontrer à l’inspecteur que le motif de la mesure prise à l’endroit de l’employé n’est pas l’absence en raison d’un accident ou d’une maladie professionnels.
 
 - **(3)** L’employeur qui ne peut pas rappeler un employé au travail dans les 21 jours suivant la date de réception du certificat mentionné au paragraphe (1) doit fournir dans ce délai un avis écrit à l’employé et, si celui-ci est lié par une convention collective, au syndicat le représentant, indiquant s’il lui est possible de rappeler l’employé au travail et, dans le cas contraire, ses motifs.
-> DORS/94-668, art. 11.
+> DORS/94-668, art. 11
 
 
 
@@ -1563,7 +1575,7 @@ Directeur, Administration et perfectionnement en milieu de travail
 
 
 
-Directeur, Répartition des revenus
+Gestionnaire, Répartition des revenus
 
 
 
@@ -4644,7 +4656,7 @@ Employés cadres
 
 
 
-> DORS/79-309, art. 7; DORS/89-118, art. 1; DORS/89-464, art. 1; DORS/91-461, art. 36; DORS/94-668, art. 13; DORS/99-337, art. 2; DORS/2006-231, art. 3 et 4; DORS/2014-305, art. 7, 8(F), 9(F) et 10.
+> DORS/79-309, art. 7; DORS/89-118, art. 1; DORS/89-464, art. 1; DORS/91-461, art. 36; DORS/94-668, art. 13; DORS/99-337, art. 2; DORS/2006-231, art. 3 et 4; DORS/2014-305, art. 7, 8(F), 9(F) et 10DORS/2019-168, art. 11(F)
 
 
 
@@ -4656,77 +4668,159 @@ La partie III du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Ca
 
 
 Ces normes visent notamment les questions suivantes :
-<table>
-<tr>
-<td>**La durée du travail**</td>
-<td>**Le salaire minimum**</td>
-</tr>
-<tr>
-<td>**Les jours fériés**</td>
-<td>**Les congés annuels**</td>
-</tr>
-<tr>
-<td>**Le travail au service de plusieurs employeurs**</td>
-<td>**L’égalité des salaires**</td>
-</tr>
-<tr>
-<td>**Le congé de maternité**</td>
-<td>**Le congé parental**</td>
-</tr>
-<tr>
-<td>**La réaffectation et le congé liés à la maternité**</td>
-<td>**Les accidents et les maladies professionnels**</td>
-</tr>
-<tr>
-<td>**Les congés de maladie**</td>
-<td>**Les congés de décès**</td>
-</tr>
-<tr>
-<td>**Le congé de soignant**</td>
-<td>**Les licenciements individuels**</td>
-</tr>
-<tr>
-<td>**Le congé en cas de maladie grave**</td>
-<td>**Le congédiement injuste**</td>
-</tr>
-<tr>
-<td>**Le congé en cas de décès ou de disparition**</td>
-<td>**La saisie-arrêt**</td>
-</tr>
-<tr>
-<td>**Les licenciements collectifs**</td>
-<td></td>
-</tr>
-<tr>
-<td>**L’indemnité de départ**</td>
-<td></td>
-</tr>
-<tr>
-<td>**Le harcèlement sexuel**</td>
-<td></td>
-</tr>
-<tr>
-<td>**Le paiement du salaire**</td>
-<td></td>
-</tr>
-<tr>
-<td>**Le congé pour les membres de la force de réserve**</td>
-<td></td>
-</tr>
-</table>
+
+**La durée du travail**
+
+**La durée maximale du travail**
 
 
 
-Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère de l’Emploi et du Développement social, ou consultez le site Web
+**Le jour de repos hebdomadaire**
 
 
-http://www.rhdcc.gc.ca/fr/passerelles/topiques/lxn-gxr.shtml
+
+**Préavis d’horaire de travail**
+
+
+
+**Préavis de modification à des quarts de travail**
+
+
+
+**Les heures supplémentaires : majoration de salaire ou congé compensatoire**
+
+
+
+**Le droit de refuser d’effectuer des heures supplémentaires**
+
+
+
+
+
+**Le droit de demander l’assouplissement des conditions d’emploi**
+
+
+
+**Le salaire minimum**
+
+
+
+**L’égalité des salaires**
+
+
+
+**Les congés annuels**
+
+
+
+**Les jours fériés**
+
+
+
+**Le travail au service de plusieurs employeurs**
+
+
+
+**La réaffectation et le congé liés à la maternité**
+
+
+
+**Le congé de maternité**
+
+
+
+**Le congé parental**
+
+
+
+**Le congé de soignant**
+
+
+
+**Le congé en cas de maladie grave**
+
+
+
+**Le congé en cas de décès ou de disparition**
+
+
+
+**Le congé personnel**
+
+
+
+**Le congé pour les victimes de violence familiale**
+
+
+
+**Le congé pour pratiques autochtones traditionnelles**
+
+
+
+**Le congé de décès**
+
+
+
+**Le congé de maladie**
+
+
+
+**Les accidents et les maladies professionnels**
+
+
+
+**Le congé pour les membres de la force de réserve**
+
+
+
+**Les licenciements collectifs**
+
+
+
+**Les licenciements individuels**
+
+
+
+**L’indemnité de départ**
+
+
+
+**Le congédiement injuste**
+
+
+
+**Les régimes d’invalidité de longue durée**
+
+
+
+**Le harcèlement sexuel**
+
+
+
+**Les tests génétiques**
+
+
+
+**La saisie-arrêt**
+
+
+
+**Le paiement du salaire**
+
+
+
+
+Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère de l’Emploi et du Développement social, ou consultez le site Web suivant :
+
+https ://www.canada.ca/fr/emploi-developpement-social/programmes/normes-travail/normes-federales.html
+
+
 
 
 Les demandes de renseignements seront traitées de façon confidentielle.
 
 
-> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4; 2013, ch. 40, art. 237; DORS/2014-305, art. 11.
+> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4; 2013, ch. 40, art. 237; DORS/2014-305, art. 11DORS/2019-168, art. 12
 
 
 
@@ -4737,7 +4831,7 @@ Les demandes de renseignements seront traitées de façon confidentielle.
 **a)** Nom de l’employeur : 
 
 
-**b)** L’identité des employés concernés : 
+**b)** L’identité de l’employé concerné ou des employés concernés : 
 
 
 **c)** Adresse ou emplacement du lieu de travail : 
@@ -4745,11 +4839,11 @@ Les demandes de renseignements seront traitées de façon confidentielle.
 
 **d)** Heures de travail journalières : 
 
-Heures de travail hebdomadaires 
+Heures de travail hebdomadaires : 
 
 
 
-(*Le nombre d’heures de travail journalières ou hebdomadaires mentionnées à l’alinéa d) peut être spécifié par adjonction de l’horaire de travail des employés concernés*)
+(*Le nombre d’heures de travail journalières ou hebdomadaires peut être spécifié par adjonction de l’horaire de travail de l’employé concerné ou des employés concernés*)
 
 
 
@@ -4798,12 +4892,12 @@ hebdomadaire _________________________
 
 
 
-**2** **Cet horaire de travail est affiché conformément aux articles 170 et 172 du Code canadien du travail. Ces dispositions exigent qu’un avis de l’horaire proposé doit être affiché pendant au moins trente jours avant sa prise d’effet et que l’employeur ainsi qu’au moins 70 % des employés concernés doivent l’approuver. Le paragraphe 5(2) du Règlement du Canada sur les normes du travail exige que les renseignements relatifs à l’horaire de travail modifié soient affichés en permanence durant la période de validité de cet horaire.**
+**2** **Cet horaire de travail est affiché conformément aux paragraphes 170(2) et (3) et 172(2) et (3) du Code canadien du travail. Ces dispositions exigent qu’un avis de l’horaire proposé soit affiché pendant au moins trente jours avant sa prise d’effet et que l’horaire soit approuvé par l’employé concerné ou par au moins 70 % des employés concernés, selon le cas. L’article 5 du Règlement du Canada sur les normes du travail exige que les renseignements relatifs à l’horaire de travail modifié soient affichés en permanence durant la période de validité de cet horaire de travail.**
 
 
 
 
-> DORS/94-668, art. 15; DORS/2014-305, art. 12 et 13.
+> DORS/94-668, art. 15; DORS/2014-305, art. 12 et 13DORS/2019-168, art. 13
 
 
 
@@ -4814,7 +4908,7 @@ hebdomadaire _________________________
 **(a)** Nom de l’employeur : 
 
 
-**(b)** L’identité des employés concernés : 
+**(b)** L’identité de l’employé concerné ou des employés concernés : 
 
 
 **(c)** Adresse ou emplacement du lieu de travail : 
@@ -4841,10 +4935,10 @@ hebdomadaire _________________________
 **Note :**
 
 
-**Le présent avis est affiché conformément à l’article 6 du Règlement du Canada sur les normes du travail, qui exige que l’employeur informe les employés concernés au sujet du régime de calcul de la moyenne des heures de travail au moins 30 jours avant sa prise d’effet et que les renseignements contenus dans cet avis soient affichés en permanence pendant la durée de ce régime.**
+**Le présent avis est affiché conformément à l’article 6 du Règlement du Canada sur les normes du travail, qui exige que l’employeur informe l’employé concerné ou les employés concernés au sujet du régime de calcul de la moyenne des heures de travail au moins trente jours avant sa prise d’effet et que les renseignements contenus dans cet avis soient affichés en permanence pendant la durée de ce régime.**
 
 
-> DORS/94-668, art. 15.
+> DORS/94-668, art. 15DORS/2019-168, art. 14
 
 
 
