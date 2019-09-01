@@ -741,7 +741,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **PART 4** 
-## [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md)
+## [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-8.md)
 
 
 **169** [Amendment]
@@ -1048,13 +1048,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndA5B2_hq_21286'>[*]</a></sup>**(1)** Sections 195 to 204 and 210 to 214 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndA5B2_hq_21286'><sup>*</sup></a>: [Note: Sections 195 to 204 and 210 to 214 not in force.]<br />
+<a name='fn_IndA5B2_hq_21286'><sup>*</sup></a>: [Note: Sections 195 to 204 and 210 to 214 in force September 1, 2019, *see* SI/2019-31.]<br />
 
 **Order in council**
 
 - <sup><a href='#fn_IndA5B2_hq_21285'>[*]</a></sup>**(2)** Sections 205 to 209 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndA5B2_hq_21285'><sup>*</sup></a>: [Note: Section 205 repealed before coming into force, *see* 2018, c. 27, s. 513; sections 206 to 209 not in force.]<br />
+<a name='fn_IndA5B2_hq_21285'><sup>*</sup></a>: [Note: Section 205 repealed before coming into force, *see* 2018, c. 27, s. 513; sections 206 to 209 in force September 1, 2019, *see* SI/2019-31.]<br />
 
 
 
@@ -1303,7 +1303,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-##### [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md)
+##### [Yukon Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-2.md)
 
 
 **257** [Amendment]
