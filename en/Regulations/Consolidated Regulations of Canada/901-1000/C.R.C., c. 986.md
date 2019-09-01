@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20986.md)
 
-# Regulations Respecting Hours of Work, Wages, Annual Vacations, General Holidays, Reassignment, Maternity Leave and Parental Leave, Bereavement Leave, Group and Individual Termination of Employment and Severance Pay, Work-Related Illness and Injury in Federal Works, Undertakings and Businesses
+# Canada Labour Standards Regulations
 
 **C.R.C., c. 986**
 
@@ -10,11 +10,7 @@ Enabling authorities:
 ----------
 
 
-
-## Short Title
-
-
-**1** These Regulations may be cited as the Canada Labour Standards Regulations.
+**1** [Repealed, SOR/2019-168, s. 2]
 
 
 
@@ -33,7 +29,7 @@ Enabling authorities:
 ***post*** means, in respect of a document, to post in readily accessible places where the document is likely to be seen by the employees to whom it applies, and to keep the document posted for the period during which it applies. (*afficher*)
 
 - **(2)** Where, under these Regulations, any notice, application or other document is required or authorized to be filed with or sent to the regional director, it shall be filed with or sent to the regional director whose office is located at the city nearest to the place where the employee concerned resides.
-> SOR/91-461, s. 2; SOR/94-668, s. 2.
+> SOR/91-461, s. 2; SOR/94-668, s. 2
 
 
 
@@ -43,7 +39,7 @@ Enabling authorities:
 
 
 **3** Division I of the Act does not apply to members of the architectural, dental, engineering, legal or medical professions.
-> SOR/78-560, s. 1; SOR/91-461, s. 3(F).
+> SOR/78-560, s. 1; SOR/91-461, s. 3(F)
 
 
 
@@ -52,18 +48,14 @@ Enabling authorities:
 ## Modified Work Schedule
 
 
-**4** A notice that is required by subsection 170(3) or 172(3) of the Act to be posted before a work schedule takes effect shall contain the information set out in Schedule III.
-> SOR/78-560, s. 2; SOR/91-461, s. 4; SOR/94-668, s. 3.
+**4** If, in accordance with subsection 170(1) or 172(1) of the Act, the parties to a collective agreement have agreed in writing to a modified work schedule, the agreement shall be dated and contain the information set out in paragraphs (a) to (m) of Schedule III.
+> SOR/78-560, s. 2; SOR/91-461, s. 4; SOR/94-668, s. 3SOR/2019-168, s. 3
 
 
 
 
-**5** 
-
-- **(1)** Where, in accordance with subsection 170(1) or 172(1) of the Act, the parties to a collective agreement have agreed in writing to a modified work schedule, the written agreement shall be dated and contain the information set out in Schedule III.
-
-- **(2)** Where, in accordance with subsection 170(2) or 172(2) of the Act, at least 70 per cent of the employees affected by the establishment or modification of a work schedule have approved that work schedule, the employer shall post a notice of the new work schedule containing the information set out in Schedule III.
-> SOR/91-461, s. 5; SOR/94-668, s. 3.
+**5** A notice that is referred to in subsection 170(3) or 172(3) of the Act shall contain the information set out in Schedule III and remain posted while the modified work schedule is in effect.
+> SOR/91-461, s. 5; SOR/94-668, s. 3SOR/2019-168, s. 3
 
 
 
@@ -92,19 +84,22 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(6)** Where the hours of work of employees are calculated as an average pursuant to subsection (1),
 	- **(a)** the standard hours of work of an employee shall be 40 times the number of weeks in the averaging period;
 	- **(b)** the maximum hours of work of an employee shall not exceed 48 times the number of weeks in the averaging period; and
-	- **(c)** the overtime rate established pursuant to section 174 of the Act shall be paid for all hours worked in excess of the standard hours of work referred to in paragraph (a), excluding those hours for which a rate at least one and one-half times the regular rate of wages has been paid prior to the end of the averaging period.
+	- **(c)** the overtime rate referred to in paragraph 174(1)(a) of the Act shall be paid or, subject to subsection 174(2) of the Act, the time off referred to in paragraph 174(1)(b) of the Act shall be granted for those hours worked in excess of the standard hours of work referred to in paragraph (a), excluding those hours for which a rate at least one and one-half times the regular rate of wages has been paid prior to the end of the averaging period.
 
 - **(7)** Subject to subsection (8), the standard hours of work and the maximum hours of work calculated in accordance with subsection (6) shall be reduced by eight hours for every day during the averaging period that, for an employee, is a day
-	- **(a)** of bereavement leave with pay;
-	- **(b)** of annual vacation with pay;
+	- **(a)** of annual vacation with pay;
+	- **(b)** of general or other holiday with pay;
 	- **(c)** of leave of absence with pay under subsection 205(2) of the Act;
-	- **(d)** of general or other holiday with pay; or
-	- **(e)** that is normally a working day in respect of which the employee is not entitled to regular wages.
+	- **(d)** of personal leave with pay;
+	- **(e)** of leave for victims of family violence with pay;
+	- **(f)** of bereavement leave with pay; or
+	- **(g)** that is normally a working day in respect of which the employee is not entitled to regular wages.
 
 - **(8)** The standard hours of work and the maximum hours of work calculated in accordance with subsection (6) shall not be reduced by more than 40 hours for any week that, for an employee, is a week
 	- **(a)** of annual vacation with pay;
-	- **(b)** of leave of absence with pay under subsection 205(2) of the Act; or
-	- **(c)** that is normally a working week in respect of which the employee is not entitled to regular wages.
+	- **(b)** of leave of absence with pay under subsection 205(2) of the Act;
+	- **(c)** that is normally a working week in respect of which the employee is not entitled to regular wages; or
+	- **(d)** of leave for victims of family violence with pay.
 
 - **(9)** The standard hours of work and the maximum hours of work calculated in accordance with subsection (6) shall be reduced by 40 hours for every period of seven consecutive days, in the averaging period, during which an employee is not entitled to regular wages.
 
@@ -116,8 +111,10 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(a)** posted a notice of the change; and
 	- **(b)** provided a copy of the notice to the regional director and every trade union representing any affected employees who are subject to a collective agreement.
 
-- **(13)** Where, before the end of an averaging period, an employer alters the number of weeks in the averaging period applicable to employees or ceases to calculate the average hours of work of employees, the employer shall pay those employees, at the overtime rate established pursuant to section 174 of the Act, for any hours worked in excess of 40 times the number of weeks in the completed part of the averaging period.
-> SOR/91-461, s. 6; SOR/94-668, s. 3; SOR/2002-113, s. 1(F).
+- **(13)** If, before the end of an averaging period, an employer alters the number of weeks in the averaging period applicable to employees or ceases to calculate the average hours of work of employees, the employer shall, for each hour worked in excess of 40 times the number of weeks in the completed part of the averaging period,
+	- **(a)** pay those employees at the overtime rate referred to in paragraph 174(1)(a) of the Act; or
+	- **(b)** subject to subsection 174(2) of the Act, grant those employees time off in accordance with paragraph 174(1)(b) of the Act.
+> SOR/91-461, s. 6; SOR/94-668, s. 3; SOR/2002-113, s. 1(F)SOR/2019-168, s. 4
 
 
 
@@ -126,7 +123,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(a)** requires or permits an employee to work in excess of standard hours for the purposes of changing shifts;
 - **(b)** permits an employee to exercise seniority rights to work in excess of standard hours pursuant to a collective agreement; or
 - **(c)** permits an employee to work in excess of standard hours as the result of his exchanging a shift with another employee.
-> SOR/91-461, s. 7.
+> SOR/91-461, s. 7
 
 
 
@@ -140,40 +137,40 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(1)** Where hours to be worked in excess of maximum hours of work established by or under section 171 of the Act are agreed to in writing under section 172 of the Act, the work schedule shall include no fewer days of rest than the number of weeks in the work schedule.
 
 - **(2)** Where hours to be worked in excess of maximum hours of work established by or under section 171 of the Act are authorized under section 176 of the Act, the Minister may specify in a permit referred to in section 176 of the Act that the hours of work in a week need not be scheduled as required by section 173 of the Act during the period of the permit and, having regard to the conditions of employment in the industrial establishment and the welfare of the employees, may prescribe in the permit alternative days of rest to be observed.
-> SOR/91-461, s. 8; SOR/94-668, s. 4.
+> SOR/91-461, s. 8; SOR/94-668, s. 4
 
 
 
 
 **9** During an averaging period, hours of work may be scheduled and actually worked without regard to section 173 of the Act.
-> SOR/91-461, s. 8.
+> SOR/91-461, s. 8
 
 
 
 
 
 ## Employees Under 17 Years of Age
-> [SOR/91-461, s. 9]
+> SOR/91-461, s. 9
 
 
 
 **10** 
 
 - **(1)** An employer may employ a person under the age of 17 years in any office or plant, in any transportation, communication, maintenance or repair service, or in any construction work or other employment in a federal work, undertaking or business if
-	- **(a)** he is not required, under the law of the province in which he is ordinarily resident, to be in attendance at school; and
-	- **(b)** the work in which he is to be employed
+	- **(a)** the person is not required, under the law of the province in which they are ordinarily resident, to be in attendance at school; and
+	- **(b)** the work in which the person is to be employed
 		- **(i)** is not carried on underground in a mine,
-		- **(ii)** would not cause him to be employed in or enter a place that he is prohibited from entering under the [Explosives Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/501-600/C.R.C.,%20c.%20599.md),
+		- **(ii)** would not cause them to be employed in or enter a place that they are prohibited from entering under the [Explosives Regulations, 2013](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/211.md),
 		- **(iii)** is not work as a nuclear energy worker as defined in the [Nuclear Safety and Control Act](/en/Acts/Statutes%20of%20Canada/1997/c.%209.md),
-		- **(iv)** is not work under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) that he is prohibited by reason of age from doing, or
-		- **(v)** is not likely to be injurious to his health or to endanger his safety.
+		- **(iv)** is not work that they are prohibited from doing under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) by reason of their age, or
+		- **(v)** is not likely to be injurious to their health or to endanger their safety.
 
 - **(2)** An employer may not cause or permit an employee under the age of 17 years to work between 11 p.m. on one day and 6 a.m. on the following day.
 
 - **(3)** [Repealed, SOR/99-337, s. 1]
 
 - **(4)** [Repealed, SOR/91-461, s. 10]
-> SOR/80-687, s. 1; SOR/81-284, s. 1; SOR/86-477, s. 1; SOR/91-461, s. 10; SOR/96-167, s. 1; SOR/99-337, s. 1; SOR/2002-113, s. 2.
+> SOR/80-687, s. 1; SOR/81-284, s. 1; SOR/86-477, s. 1; SOR/91-461, s. 10; SOR/96-167, s. 1; SOR/99-337, s. 1; SOR/2002-113, s. 2SOR/2019-168, s. 5
 
 
 
@@ -183,7 +180,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 
 **11** An employer is exempted from the application of section 178 of the Act in respect of any of the employer’s employees who are being trained on the job if those employees are apprentices registered under a provincial apprenticeship Act and are being paid in accordance with a schedule of rates established under such an Act.
-> SOR/91-461, s. 11; SOR/2002-113, s. 3.
+> SOR/91-461, s. 11; SOR/2002-113, s. 3
 
 
 
@@ -193,7 +190,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 
 **11.1** An employer shall pay an employee who reports for work at the call of the employer wages for not less than three hours of work at the employee’s regular rate of wages, whether or not the employee is called on to perform any work after so reporting for work.
-> SOR/91-461, s. 12.
+> SOR/91-461, s. 12
 
 
 
@@ -205,7 +202,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 **12** An employer shall, at least 30 days prior to determining a year of employment under paragraph (b) of the definition ***year of employment*** in section 183 of the Act, notify in writing the affected employees of
 - **(a)** the dates of commencement and expiry of the year of employment; and
 - **(b)** the method of calculating the length of vacation and the vacation pay for a period of employment of less than 12 consecutive months.
-> SOR/94-668, s. 5.
+> SOR/94-668, s. 5
 
 
 
@@ -220,10 +217,10 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 - **(3)** Where an employee is entitled to an annual vacation and there is no agreement between the employer and employee concerning when the vacation may be taken, the employer shall give the employee at least two weeks notice of the commencement of the employee’s annual vacation.
 
-- **(4)** An employer shall pay vacation pay to an employee who is entitled to an annual vacation with vacation pay
-	- **(a)** within the 14 days before the beginning of the vacation; or
-	- **(b)** on the regular pay day during or immediately following the vacation where it is not practicable to comply with paragraph (a) or where it is an established practice in the industrial establishment in which the employee is employed to pay vacation pay on the regular pay day during or immediately following the vacation.
-> SOR/94-668, s. 5; SOR/2002-113, s. 4(E); SOR/2014-305, s. 1(F).
+- **(4)** An employer shall pay to an employee who is entitled to it the vacation pay referred to in subparagraph 185(b)(i) of the Act or the amount referred to in subparagraph 185(b)(ii) of the Act, as the case may be,
+	- **(a)** on a day that is within 14 days before the day on which a vacation period begins; or
+	- **(b)** on the regular pay day during or immediately following a vacation period if it is not practicable to comply with paragraph (a) or if it is an established practice in the industrial establishment in which the employee is employed to pay vacation pay or a proportion of that vacation pay on the regular pay day during or immediately following a vacation period.
+> SOR/94-668, s. 5; SOR/2002-113, s. 4(E); SOR/2014-305, s. 1(F)SOR/2019-168, s. 6
 
 
 
@@ -233,7 +230,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(1)** An employee may, by written agreement with the employer, postpone or waive the employee’s entitlement to an annual vacation for a specified year of employment.
 
 - **(2)** Where an employee waives an annual vacation in accordance with subsection (1), the employer shall pay the vacation pay to the employee within 10 months after the end of the specified year of employment.
-> SOR/91-461, s. 13; SOR/94-668, s. 5.
+> SOR/91-461, s. 13; SOR/94-668, s. 5
 
 
 
@@ -254,25 +251,25 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(g)** a statement that at least 70 per cent of the affected employees must agree to the substitution of the general holiday for the substitution to come into effect.
 
 - **(2)** The notice referred to in subsection (1) shall remain posted for the duration of the substitution.
-> SOR/91-461, s. 14; SOR/94-668, s. 5.
+> SOR/91-461, s. 14; SOR/94-668, s. 5
 
 
 
 
 **16** Where, in accordance with subsection 195(1) of the Act, any other holiday is substituted for a general holiday in a written agreement between the parties to a collective agreement, the written agreement shall contain the information set out in paragraphs 15(1)(a) to (e).
-> SOR/94-668, s. 5.
+> SOR/94-668, s. 5
 
 
 
 
 
-## Regular Rate of Wages for Purposes of General Holidays and Bereavement Leave
+## Regular Rate of Wages for Purposes of General Holidays, Personal Leave, Leave for Victims of Family Violence and Bereavement Leave
 
 
-**17** For the purposes of subsection 210(2) of the Act, the regular rate of wages of an employee whose hours of work differ from day to day or who is paid on a basis other than time shall be
-- **(a)** the average of the employee’s daily earnings exclusive of overtime hours for the 20 days the employee has worked immediately preceding the first day of bereavement leave; or
+**17** For the purposes of subsections 206.6(2), 206.7(2.1) and 210(2) of the Act, the regular rate of wages of an employee whose hours of work differ from day to day or who is paid on a basis other than time shall be
+- **(a)** the average of the employee’s daily earnings, exclusive of overtime hours, for the 20 days the employee has worked immediately preceding the first day of the period of paid leave; or
 - **(b)** an amount calculated by a method agreed on under or pursuant to a collective agreement that is binding on the employer and the employee.
-> SOR/79-309, s. 1; SOR/91-461, s. 15; SOR/2014-305, s. 2.
+> SOR/79-309, s. 1; SOR/91-461, s. 15; SOR/2014-305, s. 2SOR/2019-168, s. 7
 
 
 
@@ -280,14 +277,14 @@ the hours of work of each of those employees in a day and in a week may be calcu
 **18** For the purposes of section 197 of the Act, if the hours of work of an employee whose wages are calculated on a daily or hourly basis differ from day to day, or if the employee’s wages are calculated on a basis other than time, the regular rate of wages for a general holiday shall be
 - **(a)** the average of his daily earnings exclusive of overtime for the 20 days he has worked immediately preceding the holiday; or
 - **(b)** an amount calculated by a method agreed upon under or pursuant to a collective agreement that is binding on the employer and the employee.
-> SOR/79-309, s. 2; SOR/91-461, s. 16; SOR/2014-305, s. 3.
+> SOR/79-309, s. 2; SOR/91-461, s. 16; SOR/2014-305, s. 3
 
 
 
 
 
 ## Multi-employer Employment
-> [SOR/91-461, s. 17]
+> SOR/91-461, s. 17
 
 
 
@@ -317,8 +314,8 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(a)** the association has set up and administers a central pay office to record the employment of the employees of the employers who are members of the association and to pay wages to such employees on behalf of their employers; and
 	- **(b)** the Minister is satisfied that the central pay office so set up by the association of employers is authorized to collect from each of the members of the association and pay out on their behalf to their employees the pay required to be paid to those employees pursuant to this section.
 
-- **(6)** For the purposes of paragraph 206(1)(a), subsections 206.1(1), 206.4(2), 206.5(2) and (3), 210(2), 230(1) and 235(1), paragraphs 239(1)(a) and 240(1)(a) and subsection 247.5(1) of the Act, if an employee is engaged in multi-employer employment, that employee is deemed to be continuously employed.
-> SOR/78-560, s. 3; SOR/81-473, s. 1; SOR/91-461, s. 18; SOR/2002-113, s. 5; SOR/2009-194, s. 1; SOR/2014-305, s. 4.
+- **(6)** For the purposes of subsection 177.1(1), paragraph 206(1)(a), subsections 206.1(1), 206.4(2) and (2.1), 206.5(2) and (3), 206.6(2), 206.7(2.1), 206.8(1), 210(2), 230(1) and 235(1), paragraphs 239(1)(a) and 240(1)(a) and subsection 247.5(1) of the Act, if an employee is engaged in multi-employer employment, that employee is deemed to be continuously employed.
+> SOR/78-560, s. 3; SOR/81-473, s. 1; SOR/91-461, s. 18; SOR/2002-113, s. 5; SOR/2009-194, s. 1; SOR/2014-305, s. 4SOR/2019-168, s. 8
 
 
 
@@ -336,7 +333,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(3)** For the purposes of subsection (1),
 	- **(a)** the wages paid for work performed do not include vacation pay, general holiday pay, other holiday pay, bereavement leave pay and wages paid for any hours of overtime; and
 	- **(b)** the number of hours required to perform the work does not include hours for which an overtime rate of wages has been paid.
-> SOR/79-309, s. 3; SOR/91-461, s. 19; SOR/2014-305, s. 5.
+> SOR/79-309, s. 3; SOR/91-461, s. 19; SOR/2014-305, s. 5
 
 
 
@@ -348,7 +345,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 **21** Where board or living quarters or both are furnished by or on behalf of an employer to an employee and the arrangement is accepted by the employee, the amount by which the wages of the employee may be reduced, for any pay period, below the minimum hourly wage established under section 178 of the Act either by deduction from wages or by payment from the employee to the employer for such board or living quarters, shall not exceed
 - **(a)** for board, $0.50 for each meal; and
 - **(b)** for living quarters, $0.60 per day.
-> SOR/91-461, s. 19; SOR/94-668, s. 6.
+> SOR/91-461, s. 19; SOR/94-668, s. 6
 
 
 
@@ -370,7 +367,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(2)** The Minister shall deposit any amounts received under subsection (1) to the credit of the Receiver General in an account to be known as the “Labour Standards Suspense Account”, and the Minister may authorize payments out of the Account to any employee whose wages are held therein.
 
 - **(3)** The Minister shall keep a record of receipts and disbursements from the Labour Standards Suspense Account.
-> SOR/91-461, s. 20.
+> SOR/91-461, s. 20
 
 
 
@@ -390,24 +387,39 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(d)** the hours worked each day, except where the employee is
 		- **(i)** excluded from the application of Division I of the Act by or under subsection 167(2) of the Act, or
 		- **(ii)** exempt from the application of sections 169 and 171 of the Act pursuant to regulations made under paragraph 175(1)(b) of the Act;
-	- **(e)** the actual earnings, indicating the amounts paid each pay day, with a recording of amounts paid for overtime, vacation pay, general holiday pay, bereavement leave pay, termination pay and severance pay;
+	- **(e)** the actual earnings, indicating the amounts paid each pay day, with a recording of the amounts paid for overtime, vacation pay, general holiday pay, personal leave pay, pay for leave for victims of family violence, bereavement leave pay, termination pay and severance pay;
 	- **(f)** the payments made each pay day after deductions, with clear details of the deductions made;
-	- **(g)** the dates of commencement and termination of annual vacations, and the year of employment in respect of which each such vacation is given;
+	- **(g)** with respect to annual vacations
+		- **(i)** the dates of commencement and termination of each vacation period,
+		- **(ii)** if a vacation was interrupted under subsection 187.1(1) of the Act, the date of interruption, and if the employee resumed the vacation under subsection 187.1(7) of the Act, the date of resumption, and
+		- **(iii)** if a vacation was postponed under subsection 187.2(1) of the Act, the new dates of commencement and termination of that vacation;
+	- **(g.01)** the year of employment in respect of which each annual vacation period was granted;
+	- **(g.02)** any written notice of an interruption of a vacation or leave provided in accordance with subsection 187.1(6), 207.1(1) or 207.2(1) of the Act, as the case may be, and any written notice of resumption of a vacation or leave provided in accordance with subsection 187.1(7), 207.1(2) or 207.2(5) of the Act, as the case may be;
 	- **(g.1)** any written agreement between the employer and the employee to postpone or waive the employee’s entitlement to annual vacation pursuant to subsection 14(1);
+	- **(g.11)** any written request made by an employee under section 184.1 of the Act and a record of the employer’s response to that request;
 	- **(g.2)** where the employer determines a year of employment pursuant to paragraph (b) of the definition “year of employment” in section 183 of the Act, any notice provided to employees pursuant to section 12;
 	- **(h)** with respect to any leave granted to the employee under Division VII of the Act,
 		- **(i)** the dates of commencement and termination, and of any interruption, of the leave,
 		- **(ii)** a copy of any notice concerning the leave or any interruption of the leave, and
-		- **(iii)** a copy of any medical certificate submitted by the employee in respect of the leave or interruption;
+		- **(iii)** any documentation, including a copy of any medical certificate, that was provided by the employee in respect of the leave or interruption;
 	- **(h.1)** the dates of commencement and termination of any job modification or reassignment of the employee provided pursuant to Division VII of the Act and a copy of any notice provided by the employer concerning the job modification or reassignment;
-	- **(i)** any general holiday or other holiday with pay granted to the employee pursuant to Division V of the Act, any notice of substitution of a general holiday required to be posted pursuant to section 195 of the Act, and, in respect of employees not subject to a collective agreement, proof of agreement for the substitution of a general holiday by at least 70 per cent of affected employees;
-	- **(j)** when hours of work are averaged under section 6, any notice concerning the averaging of hours of work, details of any reductions in the standard and maximum hours of work made under subsections 6(7), (8) and (9) and the number of hours for which the employee was entitled to be paid at the overtime rate of wages established under section 174 of the Act;
+	- **(i)** any general holiday or other holiday with pay granted to the employee under Division V of the Act, any notice of substitution of a general holiday required to be posted under section 195 of the Act and, in respect of employees not subject to a collective agreement, proof that the substitution was approved in accordance with subsection 195(2) of the Act;
+	- **(j)** when hours of work are averaged under section 6, any notice concerning the averaging of hours of work, details of any reductions in the standard and maximum hours of work made under subsections 6(7), (8) and (9) and the number of hours for which the employee was entitled to be paid at the overtime rate of wages or granted time off for overtime worked;
 	- **(k)** the employer’s pay periods;
 	- **(l)** a copy of any medical certificate provided in respect of sick leave and any request made for the certificate by the employer in accordance with paragraph 239(1)(c) of the Act, and any notice of termination of employment or intention to terminate employment given in accordance with Division IX or X of the Act;
-	- **(m)** the dates of any bereavement leave granted to an employee pursuant to Division VIII of the Act;
-	- **(n)** any notice of a work schedule that is required to be posted by subsection 170(3) or 172(3) of the Act, and proof of agreement to the work schedule by at least 70 per cent of the affected employees; and
+	- **(m)** with respect to any period of bereavement leave granted to the employee under Division VIII of the Act,
+		- **(i)** the date on which that period begins and its length, and
+		- **(ii)** a copy of the written notice provided by that employee in accordance with subsection 210(1.3) of the Act;
+	- **(n)** proof of the approval referred to in paragraph 170(2)(b) or 172(2)(b) of the Act;
+	- **(n.1)** every work schedule and modification of a work schedule that is provided in writing to an employee;
+	- **(n.2)** every written notice given, written request made or written agreement entered into under Division I or I.1 of the Act;
+	- **(n.3)** a record of any refusal by an employee made under subsection 173.01(2) of the Act;
+	- **(n.4)** a record describing any situation that an employee had to deal with under subsection 173.01(3) of the Act;
+	- **(n.5)** a record of any refusal by an employee made under section 174.1 of the Act;
+	- **(n.6)** a record describing any situation that an employee had to deal with under subsection 174.1(3) of the Act;
 	- **(o)** with respect to leave granted under Division XV.2 of the Act to an employee who is a member of the reserve force,
-		- **(i)** the dates of commencement and termination of the leave and a copy of any notice concerning the leave,
+		- **(i)** the dates of commencement and termination of the leave and of any interruption or postponement of that leave,
+		- **(i.1)** a copy of any notice concerning the leave,
 		- **(ii)** a copy of any medical certificate submitted by the employee in respect of that leave,
 		- **(iii)** a copy of any document provided under section 247.7 of the Act, and
 		- **(iv)** a copy of any notice issued under subsection 247.8(1) or 247.95(2) of the Act.
@@ -420,7 +432,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(c)** the date the employee returned to work, or a copy of any notification from the employer to the employee and any trade union representing the employee that return to work was not reasonably practicable and the reasons why it was not.
 
 - **(5)** [Repealed, SOR/2014-305, s. 6]
-> SOR/78-560, s. 4; SOR/91-461, s. 21; SOR/94-668, s. 7; SOR/2009-194, s. 2; SOR/2014-305, s. 6.
+> SOR/78-560, s. 4; SOR/91-461, s. 21; SOR/94-668, s. 7; SOR/2009-194, s. 2; SOR/2014-305, s. 6SOR/2019-168, s. 9
 
 
 
@@ -436,14 +448,14 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(2)** Every employer shall post notices containing the information set out in Schedule II.
 
 - **(3)** Every employer shall post copies of the policy statement referred to in section 247.4 of the Act.
-> SOR/91-461, s. 22; SOR/94-668, s. 8.
+> SOR/91-461, s. 22; SOR/94-668, s. 8
 
 
 
 
 
 ## Notice of Group Termination
-> [SOR/91-461, s. 23]
+> SOR/91-461, s. 23
 
 
 
@@ -453,56 +465,56 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(c)** the nature of the industry of the employer;
 - **(d)** the name of any trade union certified to represent any employee in the group of employees whose employment is to be terminated or recognized by the employer as bargaining agent for any such employees; and
 - **(e)** the reason for the termination of employment.
-> SOR/91-461, s. 24.
+> SOR/91-461, s. 24
 
 
 
 
 
 ## Industrial Establishment for Group Termination
-> [SOR/91-461, s. 25(F)]
+> SOR/91-461, s. 25(F)
 
 
 
 **27** For the purposes of Division IX of the Act, the following are designated as industrial establishments:
 - **(a)** all branches, sections and other divisions of federal works, undertakings and businesses that are located in a region established pursuant to paragraph 54(w) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md); and
 - **(b)** all branches, sections and other divisions listed in Schedule I.
-> SOR/79-309, s. 4; SOR/86-628, s. 1; SOR/91-461, s. 26; SOR/2002-113, s. 6.
+> SOR/79-309, s. 4; SOR/86-628, s. 1; SOR/91-461, s. 26; SOR/2002-113, s. 6
 
 
 
 
 
 ## Exemption from Group Termination
-> [SOR/91-461, s. 27(F)]
+> SOR/91-461, s. 27(F)
 
 
 
 **28** Every employer shall be exempt from the application of Division IX of the Act in respect of the termination of employment of
 - **(a)** employees employed on a seasonal basis; or
 - **(b)** employees employed on an irregular basis under an arrangement whereby the employee may elect to work or not to work when requested to do so.
-> SOR/91-461, s. 28.
+> SOR/91-461, s. 28
 
 
 
 
 
-## Continuity of Employment (Annual Vacations, Maternity and Parental Leave, Compassionate Care Leave, Bereavement Leave, Individual Termination of Employment, Severance Pay, Sick Leave and Unjust Dismissal)
-> [SOR/94-668, s. 9; SOR/2002-113, s. 7; SOR/2006-231, s. 1]
+## Continuity of Employment
+> SOR/94-668, s. 9; SOR/2002-113, s. 7; SOR/2006-231, s. 1SOR/2019-168, s. 10
 
 
 
 **29** For the purposes of Divisions IV, VII, VIII, X, XI, XIII, XIV and XV.2 of the Act, the absence of an employee from employment is deemed not to have interrupted continuity of employment if
 - **(a)** the employee is absent from employment as a result of a lay-off that is not a termination under these Regulations; or
 - **(b)** the employer permits or condones the employee’s absence from employment.
-> SOR/91-461, s. 29; SOR/2009-194, s. 3.
+> SOR/91-461, s. 29; SOR/2009-194, s. 3
 
 
 
 
 
 ## Lay-offs that Are Not Termination for the Purposes of Severance Pay, Group or Individual Termination of Employment
-> [SOR/91-461, s. 30(F)]
+> SOR/91-461, s. 30(F)
 
 
 
@@ -523,14 +535,14 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(f)** the term of the lay-off is more than three months but not more than 12 months and the employee, throughout the term of the lay-off, maintains recall rights pursuant to a collective agreement.
 
 - **(2)** In determining the term of a lay-off for the purposes of paragraphs (1)(c), (d) and (f), any period of re-employment of less than two weeks duration shall not be included.
-> SOR/82-747, s. 1; SOR/86-628, s. 2(F); SOR/91-461, s. 31; SOR/2006-231, s. 2.
+> SOR/82-747, s. 1; SOR/86-628, s. 2(F); SOR/91-461, s. 31; SOR/2006-231, s. 2
 
 
 
 
 
 ## Regular Hours of Work (Severance Pay and Individual Termination of Employment)
-> [SOR/91-461, s. 32(F)]
+> SOR/91-461, s. 32(F)
 
 
 
@@ -544,7 +556,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(a)** no general holiday occurs;
 	- **(b)** no annual vacation is taken by the employee; and
 	- **(c)** the employee was not absent from work for any other reason.
-> SOR/79-309, s. 5; SOR/91-461, s. 33.
+> SOR/79-309, s. 5; SOR/91-461, s. 33
 
 
 
@@ -554,7 +566,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(1)** For the purposes of Division X of the Act, the regular hours of work in a week for an employee whose hours of work are averaged is 40 hours.
 
 - **(2)** For the purposes of Division XI of the Act, the regular hours of work in a day for an employee whose hours of work are averaged is eight hours.
-> SOR/79-309, s. 6; SOR/86-628, s. 3(E); SOR/91-461, s. 34; SOR/94-668, s. 10.
+> SOR/79-309, s. 6; SOR/86-628, s. 3(E); SOR/91-461, s. 34; SOR/94-668, s. 10
 
 
 
@@ -576,7 +588,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(h)** any relative of the employee who resides permanently with the employee or with whom the employee permanently resides.
 
 - **(2)** In this section, ***common-law partner*** means a person who has been cohabiting with an individual in a conjugal relationship for at least one year, or who had been so cohabiting with the individual for at least one year immediately before the individual’s death.
-> SOR/78-560, s. 5; SOR/91-461, s. 35; SOR/2001-149, s. 1; SOR/2002-113, s. 8(E).
+> SOR/78-560, s. 5; SOR/91-461, s. 35; SOR/2001-149, s. 1; SOR/2002-113, s. 8(E)
 
 
 
@@ -592,7 +604,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(2)** Where, within nine months after an employee’s return to work in accordance with subsection 239.1(3) of the Act, an employer lays off or terminates the employment of that employee or discontinues a function of that employee, the employer shall demonstrate to an inspector that the layoff, termination of employment or discontinuance of function was not because of the absence of the employee from work due to work-related illness or injury.
 
 - **(3)** Where the employer cannot return an employee to work within 21 days after the date of receipt of the certificate referred to in subsection (1), the employer shall, within those 21 days, notify in writing the employee and, where the employee is subject to a collective agreement, the trade union representing the employee, whether return to work is reasonably practicable and, if not, the reasons therefor.
-> SOR/94-668, s. 11.
+> SOR/94-668, s. 11
 
 
 
@@ -4714,7 +4726,7 @@ Management Employees
 
 
 
-> SOR/79-309, s. 7; SOR/89-118, s. 1; SOR/89-464, s. 1; SOR/91-461, s. 36; SOR/94-668, s. 13; SOR/99-337, s. 2; SOR/2006-231, ss. 3, 4; SOR/2014-305, ss. 7, 8(F), 9(F), 10.
+> SOR/79-309, s. 7; SOR/89-118, s. 1; SOR/89-464, s. 1; SOR/91-461, s. 36; SOR/94-668, s. 13; SOR/99-337, s. 2; SOR/2006-231, ss. 3, 4; SOR/2014-305, ss. 7, 8(F), 9(F), 10SOR/2019-168, s. 11(F)
 
 
 
@@ -4726,77 +4738,159 @@ Part III of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L
 
 
 These provisions include standards relating to the following:
-<table>
-<tr>
-<td>**Hours of work**</td>
-<td>**Minimum wages**</td>
-</tr>
-<tr>
-<td>**General holidays**</td>
-<td>**Annual vacations**</td>
-</tr>
-<tr>
-<td>**Multi-employer employment**</td>
-<td>**Equal wages**</td>
-</tr>
-<tr>
-<td>**Maternity leave**</td>
-<td>**Parental leave**</td>
-</tr>
-<tr>
-<td>**Maternity-related reassignment and leave**</td>
-<td>**Work-related illness and injury**</td>
-</tr>
-<tr>
-<td>**Sick leave**</td>
-<td>**Bereavement leave**</td>
-</tr>
-<tr>
-<td>**Compassionate care leave**</td>
-<td>**Individual termination of employment**</td>
-</tr>
-<tr>
-<td>**Leave related to critical illness**</td>
-<td>**Unjust dismissal**</td>
-</tr>
-<tr>
-<td>**Leave related to death or disappearance**</td>
-<td>**Garnishment of wages**</td>
-</tr>
-<tr>
-<td>**Group termination of employment**</td>
-<td></td>
-</tr>
-<tr>
-<td>**Severance pay**</td>
-<td></td>
-</tr>
-<tr>
-<td>**Sexual harassment**</td>
-<td></td>
-</tr>
-<tr>
-<td>**Payment of wages**</td>
-<td></td>
-</tr>
-<tr>
-<td>**Leave of Absence for Members of the Reserve Force**</td>
-<td></td>
-</tr>
-</table>
+
+**Hours of work**
+
+**Maximum hours of work**
 
 
 
-For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Employment and Social Development or visit the Web site address:
+**Weekly day of rest**
 
 
-http://www.hrsdc.gc.ca/en/gateways/topics/lxn-gxr.shtml
+
+**Notice of work schedule**
+
+
+
+**Notice of shift changes**
+
+
+
+**Overtime pay or time off**
+
+
+
+**Right to refuse overtime**
+
+
+
+
+
+**Right to request flexible work arrangements**
+
+
+
+**Minimum wages**
+
+
+
+**Equal wages**
+
+
+
+**Annual vacations**
+
+
+
+**General holidays**
+
+
+
+**Multi-employer employment**
+
+
+
+**Maternity-related reassignment and leave**
+
+
+
+**Maternity leave**
+
+
+
+**Parental leave**
+
+
+
+**Compassionate care leave**
+
+
+
+**Leave related to critical illness**
+
+
+
+**Leave related to death or disappearance**
+
+
+
+**Personal leave**
+
+
+
+**Leave for victims of family violence**
+
+
+
+**Leave for traditional Aboriginal practices**
+
+
+
+**Bereavement leave**
+
+
+
+**Sick leave**
+
+
+
+**Work-related illness and injury**
+
+
+
+**Leave of absence for members of the reserve force**
+
+
+
+**Group termination of employment**
+
+
+
+**Individual termination of employment**
+
+
+
+**Severance pay**
+
+
+
+**Unjust dismissal**
+
+
+
+**Long-term disability plans**
+
+
+
+**Sexual harassment**
+
+
+
+**Genetic testing**
+
+
+
+**Garnishment of wages**
+
+
+
+**Payment of wages**
+
+
+
+
+For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Employment and Social Development or visit the following website:
+
+https://www.canada.ca/en/employment-social-development/programs/employment-standards/federal-standards.html
+
+
 
 
 All inquiries will be treated confidentially.
 
 
-> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4; 2013, c. 40, s. 237; SOR/2014-305, s. 11.
+> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4; 2013, c. 40, s. 237; SOR/2014-305, s. 11SOR/2019-168, s. 12
 
 
 
@@ -4807,7 +4901,7 @@ All inquiries will be treated confidentially.
 **(a)** Name of employer: 
 
 
-**(b)** An identification of the affected employees: 
+**(b)** An identification of the affected employee or employees: 
 
 
 **(c)** Address or location of workplace: 
@@ -4815,11 +4909,11 @@ All inquiries will be treated confidentially.
 
 **(d)** Hours of work in each work day: 
 
-in each work week 
+In each work week :
 
 
 
-(*The number of hours in a work day and in a work week may be specified by attaching the work schedule of the affected employees.*)
+(*The number of hours in a work day and in a work week may be specified by attaching the work schedule of the affected employee or employees.*)
 
 
 
@@ -4868,12 +4962,12 @@ in a work schedule _________________________
 
 
 
-**2** **This work schedule is posted in accordance with sections 170 and 172 of the Canada Labour Code. These require that notice of the work schedule be posted for at least 30 days prior to its coming into effect and that the employer and 70% of affected employees agree to the schedule. Subsection 5(2) of the Canada Labour Standards Regulations requires that details of the work schedule be posted and kept posted as long as the modified work schedule is in effect.**
+**2** **This work schedule is posted in accordance with subsections 170(2) and (3) and 172(2) and (3) of the Canada Labour Code. These provisions require that notice of the proposed work schedule be posted for at least 30 days prior to its coming into effect and that the affected employee or at least 70% of affected employees, as the case may be, approve the schedule. Section 5 of the Canada Labour Standards Regulations requires that details of the modified work schedule be posted and kept posted as long as the work schedule is in effect.**
 
 
 
 
-> SOR/94-668, s. 15; SOR/2014-305, ss. 12, 13.
+> SOR/94-668, s. 15; SOR/2014-305, ss. 12, 13SOR/2019-168, s. 13
 
 
 
@@ -4884,7 +4978,7 @@ in a work schedule _________________________
 **(a)** Name of employer: 
 
 
-**(b)** An identification of the affected employees: 
+**(b)** An identification of the affected employee or employees: 
 
 
 **(c)** Address or location of workplace: 
@@ -4911,10 +5005,10 @@ in a work schedule _________________________
 **Note:**
 
 
-**This notice is posted in accordance with section 6 of the Canada Labour Standards Regulations which requires that the employer notify affected employees of details of the averaging of hours of work at least 30 days before the averaging takes effect and also requires that the information contained in this notice remain posted for the duration of the averaging of hours of work.**
+**This notice is posted in accordance with section 6 of the Canada Labour Standards Regulations, which requires that the employer notify the affected employee or employees of details of the averaging of hours of work at least 30 days before the averaging takes effect and that the information contained in this notice remain posted for the duration of the averaging of hours of work.**
 
 
-> SOR/94-668, s. 15.
+> SOR/94-668, s. 15SOR/2019-168, s. 14
 
 
 
