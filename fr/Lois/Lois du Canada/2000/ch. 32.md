@@ -69,7 +69,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits des autochtones**
 
 - **(2)** Il est entendu que la présente loi ne porte pas atteinte à la protection des droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada découlant de leur reconnaissance et de leur confirmation au titre de l’article 35 de la Loi constitutionnelle de 1982.
-> 2000, ch. 32, art. 2; 2002, ch. 18, art. 30; 2005, ch. 2, art. 7; 2015, ch. 3, art. 18(F).
+> 2000, ch. 32, art. 2; 2002, ch. 18, art. 30; 2005, ch. 2, art. 7; 2015, ch. 3, art. 18(F)
 
 
 
@@ -103,7 +103,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Objectifs des réserves**
 
 - **(2)** Sont également créées, aux fins énoncées au paragraphe (1), des réserves à vocation de parc lorsqu’un peuple autochtone revendique des droits ancestraux sur tout ou partie du territoire d’un projet de parc et que le gouvernement fédéral a accepté d’engager des négociations à cet égard.
-> 2000, ch. 32, art. 4; 2002, ch. 18, art. 31; 2013, ch. 28, art. 13.
+> 2000, ch. 32, art. 4; 2002, ch. 18, art. 31; 2013, ch. 28, art. 13
 
 
 
@@ -124,7 +124,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 - **(3)** Sauf dans les cas prévus au paragraphe (2), le gouverneur en conseil ne peut modifier l’annexe 1 en vue de réduire la superficie d’un parc.
-> 2000, ch. 32, art. 5; 2002, ch. 18, art. 31.1.
+> 2000, ch. 32, art. 5; 2002, ch. 18, art. 31.1
 
 
 
@@ -149,7 +149,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 - **(4)** Sauf dans les cas prévus aux paragraphes (2) et (3), le gouverneur en conseil ne peut retrancher de l’annexe 2 aucune partie d’une réserve.
-> 2000, ch. 32, art. 6; 2002, ch. 18, art. 31.2.
+> 2000, ch. 32, art. 6; 2002, ch. 18, art. 31.2
 
 
 
@@ -233,7 +233,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Examen du plan directeur par le ministre**
 
 - **(2)** Le ministre procède à l’examen du plan au moins tous les dix ans par la suite et, le cas échéant, fait déposer ses modifications devant chacune de ces chambres.
-> 2000, ch. 32, art. 11; 2012, ch. 19, art. 324.
+> 2000, ch. 32, art. 11; 2012, ch. 19, art. 324
 
 
 
@@ -248,7 +248,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suivi**
 
 - **(2)** Au moins tous les deux ans, le ministre fait déposer devant chaque chambre du Parlement un rapport sur la situation des parcs existants et les mesures prises en vue de la création de parcs.
-> 2000, ch. 32, art. 12; 2017, ch. 26, art. 32(F).
+> 2000, ch. 32, art. 12; 2017, ch. 26, art. 32(F)
 
 
 
@@ -322,7 +322,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Expropriation interdite**
 
 - **(6)** Par dérogation à la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md), Sa Majesté du chef du Canada ne peut exproprier de droits réels ou intérêts sur des terres en vue de la création ou de l’agrandissement d’un parc.
-> 2000, ch. 32, art. 15; 2009, ch. 17, art. 2.
+> 2000, ch. 32, art. 15; 2009, ch. 17, art. 2
 
 
 
@@ -382,7 +382,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nouveaux établissements interdits**
 
 - **(4)** Les règlements pris en vertu du sous-alinéa (1)g)(iii) ne peuvent autoriser la délivrance ou la modification de baux, de permis d’occupation ou de servitudes en vue de la création de collectivités, de centres de villégiature, d’écoles, d’églises ou d’hôpitaux.
-> 2000, ch. 32, art. 16; 2009, ch. 14, art. 29.
+> 2000, ch. 32, art. 16; 2009, ch. 14, art. 29
 
 
 
@@ -442,7 +442,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Désignation des agents de l’autorité**
 
 **19** Le ministre peut désigner comme agent de l’autorité, à titre individuel ou au titre de son appartenance à une catégorie déterminée, tout fonctionnaire de l’administration publique fédérale ou tout employé d’une autorité provinciale, municipale ou locale ou d’un gouvernement autochtone dont les fonctions comportent le contrôle d’application de lois. Pour l’exécution de leur mission, qui est de faire respecter certaines dispositions de la présente loi et de ses règlements qui visent des parcs précis, ces agents de l’autorité jouissent des pouvoirs et de la protection que la loi accorde aux agents de la paix au sens du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2000, ch. 32, art. 19; 2002, ch. 18, art. 31.3; 2003, ch. 22, art. 224(A).
+> 2000, ch. 32, art. 19; 2002, ch. 18, art. 31.3; 2003, ch. 22, art. 224(A)
 
 
 
@@ -457,7 +457,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitations quant à la désignation**
 
 - **(2)** Le ministre peut préciser la portée de la désignation, laquelle peut viser soit un ou plusieurs parcs, soit une ou plusieurs infractions à la présente loi qualifiées de contraventions en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md).
-> 2009, ch. 14, art. 30.
+> 2009, ch. 14, art. 30
 
 
 
@@ -472,7 +472,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitations**
 
 - **(2)** Le certificat de désignation précise les limitations, le cas échéant, auxquelles la désignation est assujettie.
-> 2000, ch. 32, art. 20; 2009, ch. 14, art. 30.
+> 2000, ch. 32, art. 20; 2009, ch. 14, art. 30
 
 
 
@@ -481,7 +481,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit de passage**
 
 **20.1** Dans l’exercice de leurs fonctions, les gardes de parc, les agents de l’autorité et les personnes qui les accompagnent peuvent entrer sur une propriété privée et y circuler sans engager de responsabilité à cet égard et sans que personne ne puisse s’y opposer.
-> 2009, ch. 14, art. 30.
+> 2009, ch. 14, art. 30
 
 
 
@@ -490,7 +490,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Immunité**
 
 **20.2** Les gardes de parc et les agents de l’autorité sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
-> 2009, ch. 14, art. 30.
+> 2009, ch. 14, art. 30
 
 
 
@@ -499,7 +499,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Arrestation sans mandat**
 
 **21** Le garde de parc ou l’agent de l’autorité peut, en conformité avec les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), arrêter sans mandat toute personne qu’il trouve en train de commettre une infraction à la présente loi ou dont il a des motifs raisonnables de croire qu’elle a commis ou est sur le point de commettre une infraction à la présente loi.
-> 2000, ch. 32, art. 21; 2009, ch. 14, art. 30.
+> 2000, ch. 32, art. 21; 2009, ch. 14, art. 30
 
 
 
@@ -539,7 +539,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Biens périssables**
 
 - **(3)** Le garde ou l’agent peut disposer, notamment par destruction, des objets saisis périssables; le produit de leur disposition est soit remis à leur propriétaire ou à la personne qui a droit à leur possession, soit, lorsque des poursuites fondées sur la présente loi ont été intentées dans les quatre-vingt-dix jours suivant la saisie, retenu par le garde ou l’agent jusqu’au règlement de l’affaire.
-> 2000, ch. 32, art. 23; 2002, ch. 18, art. 31.4; 2003, ch. 22, art. 224(A); 2009, ch. 14, art. 31(F).
+> 2000, ch. 32, art. 23; 2002, ch. 18, art. 31.4; 2003, ch. 22, art. 224(A); 2009, ch. 14, art. 31(F)
 
 
 
@@ -548,7 +548,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Responsabilité pour frais**
 
 **23.1** Le propriétaire des objets saisis en vertu de la présente loi, toute personne en ayant la possession ainsi que toute personne en ayant la charge ou le contrôle, avant la saisie, sont solidairement responsables des frais liés à leur saisie, rétention, entretien ou confiscation — y compris les frais liés à leur disposition, notamment par destruction — exposés par Sa Majesté du chef du Canada lorsque ceux-ci excèdent le produit de leur disposition.
-> 2009, ch. 14, art. 32.
+> 2009, ch. 14, art. 32
 
 
 
@@ -586,7 +586,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Infraction**
 
-- **(2)** Quiconque contrevient à toute disposition des règlements — sauf une disposition désignée par les règlements pris en vertu de l’alinéa 16(1)y) —, à toute condition d’une licence, d’un permis ou d’une autre autorisation octroyés en vertu des règlements ou des paragraphes 41.1(3) ou (4) ou 41.4(2) ou (3) ou à tout ordre donné par le directeur, les gardes de parc ou les agents de l’autorité en vertu de ces mêmes paragraphes commet une infraction et est passible :
+- **(2)** Quiconque contrevient à toute disposition des règlements — sauf une disposition désignée par les règlements pris en vertu de l’alinéa 16(1)y) —, à l’un ou l’autre des paragraphes 41.5(3) à (5), à toute condition d’une licence, d’un permis ou d’une autre autorisation octroyés en vertu des règlements ou des paragraphes 41.1(3) ou (4) ou 41.4(2) ou (3) ou à tout ordre donné par le directeur, les gardes de parc ou les agents de l’autorité en vertu de ces mêmes paragraphes commet une infraction et est passible :
 	- **a)** sur déclaration de culpabilité par mise en accusation :
 		- **(i)** s’il s’agit d’une personne physique :
 			- **(A)** pour une première infraction, d’une amende maximale de 100 000 $,
@@ -607,7 +607,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
 			- **(A)** pour une première infraction, d’une amende maximale de 50 000 $,
 			- **(B)** en cas de récidive, d’une amende maximale de 100 000 $.
-> 2000, ch. 32, art. 24; 2009, ch. 14, art. 33, ch. 17, art. 3 et 12; 2014, ch. 35, art. 2.
+> 2000, ch. 32, art. 24; 2009, ch. 14, art. 33, ch. 17, art. 3 et 12; 2014, ch. 35, art. 22019, ch. 29, art. 328
 
 
 
@@ -646,7 +646,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de trafic**
 
 - **(3)** Pour l’application du présent article et de l’article 26, ***trafic*** s’entend du fait de vendre, de mettre en vente, d’exposer pour la vente, d’acheter, d’offrir d’acheter, de faire le troc, d’échanger, de donner, d’envoyer, de transporter ou de livrer.
-> 2000, ch. 32, art. 25; 2009, ch. 14, art. 34, ch. 17, art. 4 et 12.
+> 2000, ch. 32, art. 25; 2009, ch. 14, art. 34, ch. 17, art. 4 et 12
 
 
 
@@ -729,7 +729,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modification de l’annexe 3**
 
 - **(6)** Le gouverneur en conseil peut, par règlement, modifier les parties 1 ou 2 de l’annexe 3 pour y ajouter ou en retrancher le nom de toute espèce d’animal sauvage.
-> 2000, ch. 32, art. 26; 2009, ch. 14, art. 35, ch. 17, art. 5 et 12.
+> 2000, ch. 32, art. 26; 2009, ch. 14, art. 35, ch. 17, art. 5 et 12
 
 
 
@@ -752,7 +752,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitation**
 
 - **(4)** Pour l’application du paragraphe (3), les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
-> 2000, ch. 32, art. 27; 2009, ch. 14, art. 36.
+> 2000, ch. 32, art. 27; 2009, ch. 14, art. 36
 
 
 
@@ -761,7 +761,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Déclaration : personnes morales à revenus modestes**
 
 **27.1** Pour l’application des articles 24, 25 et 26, le tribunal peut déclarer qu’une personne morale est une personne morale à revenus modestes s’il est convaincu que ses revenus bruts, dans la période d’un an précédant immédiatement la date de l’infraction — ou si celle-ci a été commise sur plus d’un jour, dans la période d’un an précédant immédiatement le premier jour où elle a été commise —, n’excédaient pas 5 000 000 $.
-> 2009, ch. 14, art. 37.
+> 2009, ch. 14, art. 37
 
 
 
@@ -770,7 +770,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Allègement de l’amende minimale**
 
 **27.2** Le tribunal peut imposer une amende inférieure à l’amende minimale prévue aux articles 24, 25 ou 26 s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
-> 2009, ch. 14, art. 37.
+> 2009, ch. 14, art. 37
 
 
 
@@ -779,7 +779,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Amende supplémentaire**
 
 **27.3** Le tribunal saisi d’une poursuite pour infraction à la présente loi, s’il est convaincu que la personne déclarée coupable a acquis des biens par suite de la perpétration de l’infraction ou en a tiré des avantages, lui inflige une amende supplémentaire correspondant à son évaluation de ces biens ou avantages. Le montant de l’amende supplémentaire peut être supérieur à celui de toute autre amende pouvant être imposée en vertu de la présente loi.
-> 2009, ch. 14, art. 37.
+> 2009, ch. 14, art. 37
 
 
 
@@ -788,7 +788,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis aux actionnaires**
 
 **27.4** En cas de déclaration de culpabilité d’une personne morale ayant des actionnaires pour infraction à la présente loi, le tribunal lui ordonne d’aviser ceux-ci, de la façon et dans les délais qu’il précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée.
-> 2009, ch. 14, art. 37.
+> 2009, ch. 14, art. 37
 
 
 
@@ -806,7 +806,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** à la présente loi et aux règlements;
 	- **b)** aux ordonnances rendues par le tribunal ou le directeur sous le régime de la présente loi;
 	- **c)** aux directives du directeur, du garde de parc ou de l’agent de l’autorité données sous le régime de la présente loi.
-> 2009, ch. 14, art. 37.
+> 2009, ch. 14, art. 37
 
 
 
@@ -818,7 +818,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** dissuader le contrevenant et toute autre personne de commettre des infractions à la présente loi;
 - **b)** dénoncer les comportements illégaux qui causent des dommages ou des risques de dommages aux parcs;
 - **c)** rétablir les ressources des parcs.
-> 2009, ch. 14, art. 37.
+> 2009, ch. 14, art. 37
 
 
 
@@ -859,7 +859,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motifs**
 
 - **(5)** Si le tribunal décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
-> 2009, ch. 14, art. 37.
+> 2009, ch. 14, art. 37
 
 
 
@@ -898,7 +898,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Recommandation du tribunal**
 
 - **(2)** Le tribunal qui fixe le montant de l’amende à porter au crédit du Fonds pour dommages à l’environnement peut recommander au ministre qu’une partie ou la totalité de celle-ci soit versée à la personne ou à l’organisation qu’il précise à l’une des fins visées au paragraphe (1).
-> 2009, ch. 14, art. 38.
+> 2009, ch. 14, art. 38
 
 
 
@@ -956,7 +956,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise d’effet**
 
 - **(8)** Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit immédiatement, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant une durée maximale de trois ans, à moins que le tribunal n’en ordonne autrement.
-> 2000, ch. 32, art. 30; 2009, ch. 14, art. 39.
+> 2000, ch. 32, art. 30; 2009, ch. 14, art. 39
 
 
 
@@ -971,7 +971,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exécution**
 
 - **(2)** À défaut de paiement immédiat des dommages-intérêts, la personne lésée peut, par dépôt de l’ordonnance, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’ordre de payer la somme en question, et ce jugement peut être exécuté contre la personne déclarée coupable de la même manière que s’il s’agissait d’un jugement rendu contre elle par cette cour en matière civile.
-> 2000, ch. 32, art. 31; 2009, ch. 14, art. 40.
+> 2000, ch. 32, art. 31; 2009, ch. 14, art. 40
 
 
 
@@ -986,7 +986,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dommages-intérêts pour perte ou dommages — biens**
 
 - **(2)** Le tribunal ne peut se prévaloir du paragraphe 31(1) pour ordonner à la personne déclarée coupable de verser à la personne lésée des dommages-intérêts pour la perte de biens ou les dommages causés à ceux-ci si cette personne a le droit de présenter une demande d’indemnisation pour cette perte ou ces dommages en vertu de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) ou de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md).
-> 2009, ch. 14, art. 40.
+> 2009, ch. 14, art. 40
 
 
 
@@ -995,7 +995,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 **31.1** La poursuite visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrit par cinq ans à compter de sa perpétration, à moins que le poursuivant et le défendeur ne consentent au prolongement de ce délai.
-> 2009, ch. 14, art. 40.
+> 2009, ch. 14, art. 40
 
 
 
@@ -1004,7 +1004,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md)**
 
 **31.2** Lorsqu’une infraction à la présente loi est qualifiée de contravention en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md), le paragraphe 8(5) de cette loi ne s’applique pas au montant de l’amende pouvant être fixé pour cette contravention.
-> 2009, ch. 14, art. 40.
+> 2009, ch. 14, art. 40
 
 
 
@@ -1019,7 +1019,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rétention des renseignements**
 
 - **(2)** Les renseignements sont conservés dans le registre pour une durée minimale de cinq ans.
-> 2009, ch. 14, art. 40.
+> 2009, ch. 14, art. 40
 
 
 
@@ -1034,7 +1034,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapport au Parlement**
 
 - **(2)** Il fait déposer un rapport sur la question devant les deux chambres du Parlement dans l’année qui suit le début de l’examen.
-> 2009, ch. 14, art. 40.
+> 2009, ch. 14, art. 40
 
 
 
@@ -1095,7 +1095,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Baux, permis, etc.**
 
 - **(5)** Il est interdit de délivrer des baux, permis d’occupation, licences ou autres autorisations permettant l’utilisation à des fins commerciales de terres situées dans une zone commerciale d’une collectivité si la délivrance de l’autorisation a pour effet d’excéder la superficie commerciale maximale de ces zones mentionnée à l’annexe 4.
-> 2000, ch. 32, art. 33; 2015, ch. 3, art. 19(F); 2017, ch. 26, art. 33(F).
+> 2000, ch. 32, art. 33; 2015, ch. 3, art. 19(F); 2017, ch. 26, art. 33(F)
 
 
 
@@ -1196,8 +1196,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application de la présente loi**
 
-**39** Sous réserve des articles 40 à 41.4, la présente loi s’applique aux réserves comme s’il s’agissait de parcs.
-> 2000, ch. 32, art. 39; 2009, ch. 17, art. 6; 2013, ch. 28, art. 2; 2014, ch. 35, art. 3.
+**39** Sous réserve des articles 40 à 41.5, la présente loi s’applique aux réserves comme s’il s’agissait de parcs.
+> 2000, ch. 32, art. 39; 2009, ch. 17, art. 6; 2013, ch. 28, art. 2; 2014, ch. 35, art. 32019, ch. 29, art. 329
 
 
 
@@ -1266,7 +1266,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application au parc**
 
 - **(10)** Lorsque tout ou partie des terres domaniales situées dans l’aire d’agrandissement deviennent un parc ou sont intégrées à un parc, le présent article continue de s’appliquer à ces terres, avec les adaptations nécessaires.
-> 2009, ch. 17, art. 7; 2014, ch. 2, art. 50, ch. 35, art. 4.
+> 2009, ch. 17, art. 7; 2014, ch. 2, art. 50, ch. 35, art. 4
 
 
 
@@ -1281,7 +1281,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renouvellement : baux et permis d’occupation actuels**
 
 - **(2)** Les baux et les permis d’occupation peuvent être renouvelés si leurs modalités le permettent. Dans le cas contraire, ils peuvent être renouvelés conformément à la présente loi.
-> 2013, ch. 28, art. 3.
+> 2013, ch. 28, art. 3
 
 
 
@@ -1290,7 +1290,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers**
 
 **41.3** La présente loi n’a pas pour effet d’empêcher que soit menée dans la réserve à vocation de parc national de l’Île-de-Sable du Canada une activité autorisée par l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers en vertu de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md); aucune autorisation additionnelle en vertu de la présente loi n’est requise pour une telle activité.
-> 2013, ch. 28, art. 3.
+> 2013, ch. 28, art. 3
 
 
 
@@ -1335,7 +1335,67 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application au parc**
 
 - **(9)** Lorsque tout ou partie des terres domaniales situées dans la réserve à vocation de parc national Nááts’ihch’oh du Canada deviennent un parc, le présent article continue de s’appliquer à ces terres, avec les adaptations nécessaires.
-> 2014, ch. 35, art. 5.
+> 2014, ch. 35, art. 5
+
+
+
+
+
+**Réserve à vocation de parc national Thaidene Nene du Canada**
+
+**41.5** 
+
+- **(1)** Sous réserve, à la fois, des paragraphes (3) à (5) et de tout règlement pris en vertu de l’alinéa 17(1)f) à l’égard de la réserve à vocation de parc national Thaidene Nene du Canada, toute personne peut exercer, sur les terres domaniales situées dans la réserve à vocation de parc national Thaidene Nene du Canada, les activités qui sont prévues dans l’accord conclu entre le gouvernement du Canada et celui des Territoires du Nord-Ouest relatif au transfert de la gestion et de la maîtrise des terres pour la création de la réserve.
+
+**Non-application des règlements**
+
+- **(2)** Les dispositions ci-après ne s’appliquent pas à l’égard des activités visées au paragraphe (1) :
+	- **a)** l’article 21 du [Règlement général sur les parcs nationaux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/78/213.md);
+	- **b)** l’alinéa 41(1)a) du [Règlement sur la circulation routière dans les parcs nationaux](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201126.md);
+	- **c)** l’article 4 du [Règlement sur la prévention des incendies dans les parcs nationaux du Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/80/946.md).
+
+**Accès par aéronef**
+
+- **(3)** Une personne ne peut faire décoller ou atterrir un aéronef, au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), sur les terres domaniales situées dans la réserve à vocation de parc national Thaidene Nene du Canada, que si elle détient un permis, au sens de l’article 1 du [Règlement sur l’accès par aéronef aux parcs nationaux du Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/97/150.md), qui lui est délivré à l’égard de la réserve.
+
+**Pêche**
+
+- **(4)** Une personne ne peut pêcher sur les terres domaniales situées dans la réserve à vocation de parc national Thaidene Nene du Canada que si elle pêche à des fins personnelles et qu’elle détient un permis de pêche, au sens de l’article 2 du [Règlement sur la pêche dans les parcs nationaux du Canada](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201120.md), qui lui est délivré à l’égard de la réserve.
+
+**Récolte de gibier**
+
+- **(5)** Une personne ne peut récolter du gibier — notamment chasser, au sens de l’article 26, un animal sauvage — sur les terres domaniales situées dans la réserve à vocation de parc national Thaidene Nene du Canada, que dans l’un des cas suivants :
+	- **a)** elle détient un permis spécial de récolte délivré en vertu de la Loi sur la faune, L.T.N.-O. 2013, ch. 30, et se conforme aux modalités qui y sont prévues;
+	- **b)** elle détient un bail visé au paragraphe (7) qu’elle détenait à l’entrée en vigueur du présent article, et elle détient un permis de chasse délivré en vertu de la Loi sur la faune, L.T.N.-O. 2013, ch. 30 et se conforme aux modalités qui y sont prévues.
+
+**Exercice des attributions du directeur**
+
+- **(6)** Lorsqu’il exerce, à l’égard des activités visées aux paragraphes (1) et (3) à (5), les attributions prévues par les règlements pris en vertu de la présente loi, le directeur prend en considération la santé et la sécurité publiques et l’utilisation durable et la conservation de la réserve à vocation de parc national Thaidene Nene du Canada.
+
+**Prorogation : baux**
+
+- **(7)** Les baux actuels concernant des terres domaniales situées dans la réserve à vocation de parc national Thaidene Nene du Canada demeurent en vigueur pour l’application de la présente loi, conformément à leurs modalités; celles-ci l’emportent sur les dispositions incompatibles de la présente loi.
+
+**Renouvellement : baux**
+
+- **(8)** Ces baux peuvent être renouvelés si leurs modalités le permettent. Dans le cas contraire, ils peuvent être renouvelés conformément à la présente loi.
+
+**Création d’un parc**
+
+- **(9)** Pour l’application des paragraphes 5(1) et 6(2), les baux concernant des terres domaniales situées dans la réserve à vocation de parc national Thaidene Nene du Canada sont réputés ne pas être des charges et ne pas avoir d’incidence sur le titre mais, dans le cas où ces terres deviennent un parc, restent valides dans les limites des modalités qui y sont prévues.
+
+**Cache de combustible**
+
+- **(10)** Une personne peut entreposer du combustible dans tout endroit se trouvant sur les terres domaniales situées dans la réserve à vocation de parc national Thaidene Nene du Canada qui est désigné par le ministre comme étant une cache de combustible.
+
+**Application au parc**
+
+- **(11)** Lorsque tout ou partie des terres domaniales situées dans la réserve à vocation de parc national Thaidene Nene du Canada devient un parc, le présent article continue de s’appliquer à ces terres, avec les adaptations nécessaires.
+
+**Accessibilité de l’accord**
+
+- **(12)** Le ministre veille à ce que l’accord visé au paragraphe (1) soit accessible au public.
+> 2019, ch. 29, art. 330
 
 
 
@@ -6707,7 +6767,7 @@ Y compris toutes les matières ou tous les matériaux qui peuvent être aliéné
 
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22, ch. 40, art. 2; 2017, ch. 10, art. 5 et 6(F), ch. 26, art. 34(F), 35 et 36 à 38(F).
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22, ch. 40, art. 2; 2017, ch. 10, art. 5 et 6(F), ch. 26, art. 34(F), 35 et 36 à 38(F)
 
 
 
@@ -8093,6 +8153,525 @@ Ladite parcelle ayant une superficie d’environ 44 kilomètres carrés.
 
 
 Toutes les coordonnées inscrites à la Partie III se rapportent au Système de référence géodésique de l’Amérique du Nord, 1983, Système canadien de référence spatiale (NAD83 SCRS). Par « ligne droite », on entend une ligne joignant deux points sans interruption sur une surface plane selon la projection de Mercator transverse universelle (UTM) du NAD83.
+
+
+
+### Réserve à vocation de parc national Thaidene Nene du Canada
+
+
+Dans les Territoires du Nord-Ouest;
+
+
+
+À proximité du bras Est du Grand lac des Esclaves,
+
+
+
+L’ensemble de la parcelle de terre, incluant les terres recouvertes d’eau, plus particulièrement décrite ci-après :
+
+
+
+Commençant à un point situé à 63°31′40″ de latitude nord et 107°31′12″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 63°31′34″ de latitude nord et 107°29′28″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°28′28″ de latitude nord et 107°27′50″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°25′52″ de latitude nord et 107°26′28″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 63°24′20″ de latitude nord et 107°23′32″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°22′32″ de latitude nord et 107°22′19″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°21′01″ de latitude nord et 107°22′53″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point situé à 63°20′27″ de latitude nord et 107°27′54″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°19′23″ de latitude nord et 107°27′34″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 63°18′20″ de latitude nord et 107°29′29″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°16′00″ de latitude nord et 107°29′40″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 63°13′00″ de latitude nord et 107°31′35″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 63°11′14″ de latitude nord et 107°33′15″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point situé à 63°10′48″ de latitude nord et 107°35′41″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 63°09′45″ de latitude nord et 107°37′34″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°08′04″ de latitude nord et 107°37′32″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 63°07′16″ de latitude nord et 107°40′51″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°05′42″ de latitude nord et 107°39′54″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 63°04′45″ de latitude nord et 107°42′40″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 63°02′38″ de latitude nord et 107°33′33″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°04′13″ de latitude nord et 107°27′08″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 63°04′05″ de latitude nord et 107°21′29″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 63°01′31″ de latitude nord et 107°20′10″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°59′48″ de latitude nord et 107°09′47″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°57′54″ de latitude nord et 107°08′24″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°55′10″ de latitude nord et 107°11′22″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°51′36″ de latitude nord et 106°51′46″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 62°51′30″ de latitude nord et 106°42′10″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°50′40″ de latitude nord et 106°36′22″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°42′28″ de latitude nord et 106°51′05″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point situé à 62°42′40″ de latitude nord et 107°02′20″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°44′08″ de latitude nord et 107°18′56″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point situé à 62°44′18″ de latitude nord et 107°26′17″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°42′25″ de latitude nord et 107°34′55″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°39′46″ de latitude nord et 107°38′54″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 62°36′03″ de latitude nord et 107°36′38″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°32′26″ de latitude nord et 107°31′14″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°30′19″ de latitude nord et 107°14′05″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°29′01″ de latitude nord et 107°09′42″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°26′31″ de latitude nord et 107°24′50″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°22′14″ de latitude nord et 107°38′32″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°19′45″ de latitude nord et 107°36′09″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°17′58″ de latitude nord et 107°40′01″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point situé à 62°16′45″ de latitude nord et 107°39′57″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°16′06″ de latitude nord et 107°41′22″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point situé à 62°16′01″ de latitude nord et 107°43′00″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°14′30″ de latitude nord et 107°46′15″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°13′22″ de latitude nord et 107°49′02″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point situé à 62°13′13″ de latitude nord et 107°54′31″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°21′16″ de latitude nord et 108°02′59″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°22′12″ de latitude nord et 108°08′48″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°14′10″ de latitude nord et 108°31′54″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°19′05″ de latitude nord et 108°53′24″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°09′53″ de latitude nord et 109°14′57″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°06′00″ de latitude nord et 109°32′57″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°09′50″ de latitude nord et 109°51′19″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 62°10′37″ de latitude nord et 109°51′12″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 62°13′02″ de latitude nord et 109°49′36″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°20′59″ de latitude nord et 110°03′46″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°25′58″ de latitude nord et 110°07′16″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point situé à 62°25′28″ de latitude nord et 110°09′36″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°25′45″ de latitude nord et 110°10′37″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°26′25″ de latitude nord et 110°11′20″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à l’intersection de la latitude 62°27′00″ nord avec la ligne des hautes eaux ordinaires de la rive est de Stark Lake, soit à approximativement 110°14′21″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite à travers le milieu d’un chenal dans Stark Lake, ledit chenal étant situé à approximativement 62°27′14″ de latitude nord et 110°15′12″ de longitude ouest, jusqu’à un point situé à l’intersection d’une ligne perpendiculaire à 100 mètres de la ligne des hautes eaux ordinaires de la rive ouest de la terre située au nord dudit chenal, soit à approximativement 62°27′16″ de latitude nord et 110°15′20″ de longitude ouest;
+
+
+
+De là, généralement vers le nord, l’ouest et le sud-ouest suivant les sinuosités d’une ligne perpendiculaire à 100 mètres au large de la ligne des hautes eaux ordinaires de Stark Lake, jusqu’à un point situé à l’intersection de ladite ligne avec la longitude 110°38′25″ ouest, soit à approximativement 62°27′31″ de latitude nord;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°29′08″ de latitude nord et 110°41′02″ de longitude ouest dans Christie Bay, Grand lac des Esclaves;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point situé à 62°29′12″ de latitude nord et 110°43′25″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 62°30′29″ de latitude nord et 110°41′59″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°31′41″ de latitude nord et 110°46′33″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point situé à 62°31′13″ de latitude nord et 110°52′24″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 62°36′37″ de latitude nord et 110°50′54″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 62°39′31″ de latitude nord et 110°38′02″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à l’intersection de la longitude 110°32′16″ ouest avec la ligne des hautes eaux ordinaires de la rive nord de Kahochella Peninsula, soit à approximativement 62°49′30″ de latitude nord;
+
+
+
+De là, vers le nord-est en ligne droite sur une distance approximative de 1 948 mètres jusqu’à un point situé à l’intersection de la latitude 62°49′48″ nord et d’une ligne perpendiculaire à 100 mètres au large de la ligne des hautes eaux ordinaires de la rive nord de Kahochella Peninsula, soit à approximativement 110°30′04″ de longitude ouest;
+
+
+
+De là, généralement vers l’est et le sud-est suivant les sinuosités de la ligne perpendiculaire précédemment décrite jusqu’au point situé à l’intersection avec la longitude 109°18′07″ ouest, soit à approximativement 62°43′11″ de latitude nord;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 62°48′00″ de latitude nord et 109°01′59″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°50′06″ de latitude nord et 109°12′51″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 62°55′31″ de latitude nord et 108°55′13″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 62°56′41″ de latitude nord et 108°54′33″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 62°57′00″ de latitude nord et 108°51′56″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 62°58′17″ de latitude nord et 108°52′20″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 62°58′30″ de latitude nord et 108°51′22″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 62°59′22″ de latitude nord et 108°52′15″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 62°59′51″ de latitude nord et 108°51′24″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°00′21″ de latitude nord et 108°47′10″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 62°59′09″ de latitude nord et 108°44′13″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 62°58′47″ de latitude nord et 108°41′28″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 62°59′47″ de latitude nord et 108°40′50″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 62°59′53″ de latitude nord et 108°37′48″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 63°02′49″ de latitude nord et 108°38′18″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°04′10″ de latitude nord et 108°33′03″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 63°03′31″ de latitude nord et 108°29′03″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°04′25″ de latitude nord et 108°27′41″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 63°04′32″ de latitude nord et 108°23′31″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 63°08′05″ de latitude nord et 108°21′20″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°09′19″ de latitude nord et 108°17′35″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 63°08′44″ de latitude nord et 108°14′07″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°10′48″ de latitude nord et 108°09′06″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 63°13′03″ de latitude nord et 108°10′41″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°13′41″ de latitude nord et 108°08′27″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 63°15′43″ de latitude nord et 108°11′59″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 63°19′40″ de latitude nord et 108°10′22″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°20′35″ de latitude nord et 108°07′49″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 63°20′41″ de latitude nord et 108°05′47″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°21′08″ de latitude nord et 108°05′07″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 63°22′11″ de latitude nord et 108°06′19″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°23′06″ de latitude nord et 107°59′46″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 63°25′13″ de latitude nord et 108°00′39″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 63°26′59″ de latitude nord et 108°02′15″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°27′45″ de latitude nord et 107°59′30″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 63°29′07″ de latitude nord et 108°00′56″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 63°30′46″ de latitude nord et 108°00′46″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 63°30′51″ de latitude nord et à 107°58′42″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°31′33″ de latitude nord et 107°57′02″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 63°32′44″ de latitude nord et 107°56′50″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point situé à 63°33′34″ de latitude nord et 107°57′52″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°34′30″ de latitude nord et 107°56′40″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point situé à 63°35′40″ de latitude nord et 107°56′16″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point situé à 63°35′21″ de latitude nord et 107°51′49″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point situé à 63°35′58″ de latitude nord et 107°48′51″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 63°35′11″ de latitude nord et 107°43′08″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point situé à 63°32′03″ de latitude nord et 107°38′41″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’au point de commencement.
+
+
+
+Ladite parcelle de terre ayant une superficie approximative de 14 070 kilomètres carrés.
+
+
+
+Toutes les coordonnées mentionnées ci-dessus se rapportent au Système de référence géodésique de l’Amérique du Nord, 1983, Système canadien de référence spatiale (NAD83 SCRS). Par « ligne droite », on entend une ligne joignant deux points sans interruption sur une surface plane selon la projection de Mercator transverse universelle (UTM) du NAD83 SCRS.
 
 
 
@@ -9972,7 +10551,7 @@ L’ensemble de l’île de Sable, située près des coordonnées géographiques
 La parcelle de terre ayant une superficie d’environ trente kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51, ch. 35, art. 6; 2015, ch. 3, art. 21(F); 2017, ch. 26, art. 39.
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51, ch. 35, art. 6; 2015, ch. 3, art. 21(F); 2017, ch. 26, art. 392019, ch. 29, art. 331
 
 
 
@@ -10273,7 +10852,7 @@ Toutes les directions sont astronomiques et dérivent de la direction établie e
 </tr>
 </table>
 
-> 2000, ch. 32, ann. 4; DORS/2004-116; 2013, ch. 28, art. 14.
+> 2000, ch. 32, ann. 4; DORS/2004-116; 2013, ch. 28, art. 14
 
 
 
@@ -10336,6 +10915,28 @@ Dans le parc national Banff du Canada, la zone suivante :
 La totalité du lopin JT ainsi que des zones avalancheuses 1 et 2 et de l’emprise de la fibre optique indiqués sur les plans numéros 107995, 107996 et 108040 déposés aux Archives d’arpentage des terres du Canada, à Ottawa, dont des copies ont été déposées au Bureau des titres de biens-fonds de l’Alberta, à Calgary, sous les numéros 1910580, 1910581 et 1910678, ces lopin, zones et emprise renfermant environ 1 062 hectares.
 
 
-> 2000, ch. 32, ann. 5; 2013, ch. 28, art. 15; 2019, ch. 29, art. 332; DORS/2019-255, art. 1.
+> 2000, ch. 32, ann. 5; 2013, ch. 28, art. 152019, ch. 29, art. 332DORS/2019-255, art. 1
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2009, ch. 17, art. 10
+
+
+**Disposition transitoire**
+
+**10** Tout bail portant sur des terres domaniales situées dans l’aire d’agrandissement au sens du paragraphe 41.1(1) de la Loi sur les parcs nationaux du Canada, édicté par le paragraphe 7(1), et en cours de validité à la date de sanction de la présente loi reste valide dans les limites des modalités qui y sont prévues et est réputé avoir été octroyé sous le régime de cette loi; toutefois, ces modalités l’emportent en cas d’incompatibilité avec cette loi.
+
+
+
+######           — 2009, ch. 17, art. 11
+
+
+**Disposition transitoire**
+
+**11** À la date de sanction de la présente loi, le ministre responsable de l’Agence Parcs Canada délivre des permis ou autorisations d’utilisation des terres ou des eaux conformément à l’article 41.1 de la Loi sur les parcs nationaux du Canada, édicté par le paragraphe 7(1), en vue du remplacement de tout permis ou autorisation d’utilisation des terres ou des eaux en cours de validité à cette date et délivré respectivement sous le régime de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) et de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), selon les mêmes modalités que ces permis ou autorisations et avec les adaptations nécessaires, dans la mesure où ils s’appliquent aux routes d’accès à la mine, y compris les emplacements d’entreposage ou autres installations se rapportant à ces routes, situées dans l’aire d’agrandissement au sens du paragraphe 41.1(1).
+
 
 
