@@ -2787,7 +2787,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation des Mississaugas de Scugog Island
 - Mistawasis
 - Première Nation Mitaanjigamiing
-- Mohawks of Akwesasne
 - Mohawks of the Bay of Quinte
 - Moosomin
 - Bande indienne Moricetown
@@ -2933,7 +2932,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Yakweakwioose
 - Première Nation de Yale
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235, 260DORS/2019-15, art. 1DORS/2019-31, art. 1DORS/2019-73, art. 1DORS/2019-85, art. 1DORS/2019-112, art. 1DORS/2019-182, art. 1DORS/2019-203, art. 1DORS/2019-304, art. 1
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235, 260DORS/2019-15, art. 1DORS/2019-31, art. 1DORS/2019-73, art. 1DORS/2019-85, art. 1DORS/2019-112, art. 1DORS/2019-182, art. 1DORS/2019-203, art. 1DORS/2019-304, art. 1DORS/2019-324, art. 1
 
 
 
