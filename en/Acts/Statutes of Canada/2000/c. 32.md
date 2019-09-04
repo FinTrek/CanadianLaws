@@ -69,7 +69,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Aboriginal rights**
 
 - **(2)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982.
-> 2000, c. 32, s. 2; 2002, c. 18, s. 30; 2005, c. 2, s. 7; 2015, c. 3, s. 18(F).
+> 2000, c. 32, s. 2; 2002, c. 18, s. 30; 2005, c. 2, s. 7; 2015, c. 3, s. 18(F)
 
 
 
@@ -103,7 +103,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Purpose of reserves**
 
 - **(2)** Park reserves are established in accordance with this Act for the purpose referred to in subsection (1) where an area or a portion of an area proposed for a park is subject to a claim in respect of aboriginal rights that has been accepted for negotiation by the Government of Canada.
-> 2000, c. 32, s. 4; 2002, c. 18, s. 31; 2013, c. 28, s. 13.
+> 2000, c. 32, s. 4; 2002, c. 18, s. 31; 2013, c. 28, s. 13
 
 
 
@@ -124,7 +124,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No reduction of park area**
 
 - **(3)** Except as provided by subsection (2), no amendment may be made by the Governor in Council to Schedule 1 for the purpose of removing any portion of a park.
-> 2000, c. 32, s. 5; 2002, c. 18, s. 31.1.
+> 2000, c. 32, s. 5; 2002, c. 18, s. 31.1
 
 
 
@@ -149,7 +149,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No reduction of reserve area**
 
 - **(4)** Except as provided by subsections (2) and (3), no amendment may be made by the Governor in Council to Schedule 2 for the purpose of removing any portion of a park reserve.
-> 2000, c. 32, s. 6; 2002, c. 18, s. 31.2.
+> 2000, c. 32, s. 6; 2002, c. 18, s. 31.2
 
 
 
@@ -233,7 +233,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Review of management plans by Minister**
 
 - **(2)** The Minister shall review the management plan for each park at least every 10 years and shall cause any amendments to the plan to be tabled in each House of Parliament.
-> 2000, c. 32, s. 11; 2012, c. 19, s. 324.
+> 2000, c. 32, s. 11; 2012, c. 19, s. 324
 
 
 
@@ -248,7 +248,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Progress reports**
 
 - **(2)** At least every two years, the Minister shall cause to be tabled in each House of Parliament a report on the state of the parks and on progress made towards the establishment of new parks.
-> 2000, c. 32, s. 12; 2017, c. 26, s. 32(F).
+> 2000, c. 32, s. 12; 2017, c. 26, s. 32(F)
 
 
 
@@ -324,7 +324,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No other expropriation**
 
 - **(6)** Notwithstanding the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), Her Majesty in right of Canada may not acquire any interest in land by expropriation for the purpose of enlarging a park or establishing a new park.
-> 2000, c. 32, s. 15; 2009, c. 17, s. 2.
+> 2000, c. 32, s. 15; 2009, c. 17, s. 2
 
 
 
@@ -384,7 +384,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No new establishments**
 
 - **(4)** No lease, licence of occupation, easement or servitude may be issued or amended pursuant to regulations made under subparagraph (1)(g)(iii) for the purpose of the establishment of a new park community, resort subdivision, school, church or hospital.
-> 2000, c. 32, s. 16; 2009, c. 14, s. 29.
+> 2000, c. 32, s. 16; 2009, c. 14, s. 29
 
 
 
@@ -444,7 +444,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Designation of enforcement officers**
 
 **19** The Minister may designate persons or classes of persons employed in the federal public administration or by a provincial, municipal or local authority or an aboriginal government, whose duties include law enforcement, to be enforcement officers for the purpose of the enforcement of specified provisions of this Act or the regulations in relation to specified parks, and for that purpose enforcement officers have the powers and are entitled to the protection provided by law to peace officers within the meaning of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2000, c. 32, s. 19; 2002, c. 18, s. 31.3; 2003, c. 22, s. 224(E).
+> 2000, c. 32, s. 19; 2002, c. 18, s. 31.3; 2003, c. 22, s. 224(E)
 
 
 
@@ -459,7 +459,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitations regarding designations**
 
 - **(2)** The Minister may specify that a designation is in respect of one or more parks or in respect of all or specified offences under this Act that have been designated as contraventions under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md).
-> 2009, c. 14, s. 30.
+> 2009, c. 14, s. 30
 
 
 
@@ -474,7 +474,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitations must be specified**
 
 - **(2)** The certificate must specify the limitations, if any, to which the designation is subject.
-> 2000, c. 32, s. 20; 2009, c. 14, s. 30.
+> 2000, c. 32, s. 20; 2009, c. 14, s. 30
 
 
 
@@ -483,7 +483,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Right of passage**
 
 **20.1** In the discharge of their duties, park wardens and enforcement officers and any persons accompanying them may enter on and pass through or over private property without being liable for doing so and without any person having the right to object to that use of the property.
-> 2009, c. 14, s. 30.
+> 2009, c. 14, s. 30
 
 
 
@@ -492,7 +492,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Immunity**
 
 **20.2** Park wardens and enforcement officers are not personally liable for anything they do or omit to do in good faith under this Act.
-> 2009, c. 14, s. 30.
+> 2009, c. 14, s. 30
 
 
 
@@ -503,7 +503,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **21** A park warden or enforcement officer may, in accordance with the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), arrest without warrant any person
 - **(a)** whom the warden or officer finds committing an offence under this Act; or
 - **(b)** who the warden or officer believes, on reasonable grounds, has committed or is about to commit an offence under this Act.
-> 2000, c. 32, s. 21; 2009, c. 14, s. 30.
+> 2000, c. 32, s. 21; 2009, c. 14, s. 30
 
 
 
@@ -546,7 +546,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Perishable things**
 
 - **(3)** If a seized thing is perishable, the park warden or enforcement officer may dispose of it or destroy it, and any proceeds of its disposition shall be paid to the lawful owner or person lawfully entitled to possession of the thing, unless proceedings under this Act are commenced within 90 days after its seizure, or shall be retained by the warden or officer pending the outcome of those proceedings.
-> 2000, c. 32, s. 23; 2002, c. 18, s. 31.4; 2003, c. 22, s. 224(E); 2009, c. 14, s. 31(F).
+> 2000, c. 32, s. 23; 2002, c. 18, s. 31.4; 2003, c. 22, s. 224(E); 2009, c. 14, s. 31(F)
 
 
 
@@ -555,7 +555,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Liability for costs**
 
 **23.1** If a thing is seized under this Act, the person who owned the thing at the time that it was seized, the person who had charge or control of the thing immediately before it was seized and the person who possessed it immediately before it was seized are jointly and severally, or solidarily, liable for all the costs of seizure, detention, maintenance and forfeiture, including any destruction or disposal costs, incurred by Her Majesty in right of Canada in relation to the thing in excess of any proceeds of its disposition, if any.
-> 2009, c. 14, s. 32.
+> 2009, c. 14, s. 32
 
 
 
@@ -593,7 +593,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 
 **Offence**
 
-- **(2)** Every person who contravenes any provision of the regulations other than a provision designated by regulations made under paragraph 16(1)(y), any condition of a permit, licence or other authorizing instrument issued under the regulations or under subsection 41.1(3) or (4) or 41.4(2) or (3) or any order or direction given by a superintendent, park warden or enforcement officer under subsection 41.1(3) or (4) or 41.4(2) or (3) is guilty of an offence and liable
+- **(2)** Every person who contravenes any provision of the regulations other than a provision designated by regulations made under paragraph 16(1)(y), any of subsections 41.5(3) to (5), any condition of a permit, licence or other authorizing instrument issued under the regulations or under subsection 41.1(3) or (4) or 41.4(2) or (3) or any order or direction given by a superintendent, park warden or enforcement officer under subsection 41.1(3) or (4) or 41.4(2) or (3) is guilty of an offence and liable
 	- **(a)** on conviction on indictment,
 		- **(i)** in the case of an individual,
 			- **(A)** for a first offence, to a fine of not more than $100,000, and
@@ -614,7 +614,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 		- **(iii)** in the case of a corporation that the court has determined under section 27.1 to be a small revenue corporation,
 			- **(A)** for a first offence, to a fine of not more than $50,000, and
 			- **(B)** for a second or subsequent offence, to a fine of not more than $100,000.
-> 2000, c. 32, s. 24; 2009, c. 14, s. 33, c. 17, ss. 3, 12; 2014, c. 35, s. 2.
+> 2000, c. 32, s. 24; 2009, c. 14, s. 33, c. 17, ss. 3, 12; 2014, c. 35, s. 22019, c. 29, s. 328
 
 
 
@@ -653,7 +653,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Definition of traffic**
 
 - **(3)** In this section and section 26, ***traffic*** means to sell, offer for sale, expose for sale, buy, offer to buy, solicit, barter, exchange, give, send, transport or deliver.
-> 2000, c. 32, s. 25; 2009, c. 14, s. 34, c. 17, ss. 4, 12.
+> 2000, c. 32, s. 25; 2009, c. 14, s. 34, c. 17, ss. 4, 12
 
 
 
@@ -736,7 +736,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Amendments to Schedule 3**
 
 - **(6)** The Governor in Council may, by regulation, amend Part 1 or 2 of Schedule 3 by adding the name of any species of wild animal or by deleting the name of any species of wild animal.
-> 2000, c. 32, s. 26; 2009, c. 14, s. 35, c. 17, ss. 5, 12.
+> 2000, c. 32, s. 26; 2009, c. 14, s. 35, c. 17, ss. 5, 12
 
 
 
@@ -759,7 +759,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Application**
 
 - **(4)** Subsection (3) applies only to previous convictions on indictment and to previous convictions on summary conviction, and to previous convictions under any similar procedure under any Act of the legislature of a province.
-> 2000, c. 32, s. 27; 2009, c. 14, s. 36.
+> 2000, c. 32, s. 27; 2009, c. 14, s. 36
 
 
 
@@ -768,7 +768,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Determination of small revenue corporation status**
 
 **27.1** For the purpose of sections 24 to 26, a court may determine a corporation to be a small revenue corporation if the court is satisfied that the corporation’s gross revenues for the 12 months immediately before the day on which the subject matter of the proceedings arose — or, if it arose on more than one day, for the 12 months immediately before the first day on which the subject matter of the proceedings arose — were not more than $5,000,000.
-> 2009, c. 14, s. 37.
+> 2009, c. 14, s. 37
 
 
 
@@ -777,7 +777,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Relief from minimum fine**
 
 **27.2** The court may impose a fine that is less than the minimum amount provided for in section 24, 25 or 26 if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship. The court shall provide reasons if it imposes a fine that is less than the minimum amount provided for in any of those sections.
-> 2009, c. 14, s. 37.
+> 2009, c. 14, s. 37
 
 
 
@@ -786,7 +786,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Additional fine**
 
 **27.3** If a person is convicted of an offence under this Act and the court is satisfied that, as a result of the commission of the offence, the person acquired any property, benefit or advantage, the court shall order the person to pay an additional fine in an amount equal to the court’s estimation of the value of that property, benefit or advantage. The additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
-> 2009, c. 14, s. 37.
+> 2009, c. 14, s. 37
 
 
 
@@ -795,7 +795,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Notice to shareholders**
 
 **27.4** If a corporation that has shareholders is convicted of an offence under this Act, the court shall make an order directing the corporation to notify its shareholders, in the manner and within the time directed by the court, of the facts relating to the commission of the offence and of the details of the punishment imposed.
-> 2009, c. 14, s. 37.
+> 2009, c. 14, s. 37
 
 
 
@@ -813,7 +813,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 	- **(a)** this Act and the regulations;
 	- **(b)** orders made by a court or the superintendent under this Act; and
 	- **(c)** directions of the superintendent, a park warden or an enforcement officer made under this Act.
-> 2009, c. 14, s. 37.
+> 2009, c. 14, s. 37
 
 
 
@@ -825,7 +825,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 - **(a)** to deter the offender and any other person from committing offences under this Act;
 - **(b)** to denounce unlawful conduct that damages or creates a risk of damage to parks; and
 - **(c)** to restore park resources.
-> 2009, c. 14, s. 37.
+> 2009, c. 14, s. 37
 
 
 
@@ -866,7 +866,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Reasons**
 
 - **(5)** If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (2) but decides not to increase the amount of the fine because of that factor, it shall give reasons for that decision.
-> 2009, c. 14, s. 37.
+> 2009, c. 14, s. 37
 
 
 
@@ -905,7 +905,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Recommendations of court**
 
 - **(2)** The court imposing the fine may recommend to the Minister that all or a portion of the fine credited to the Environmental Damages Fund be paid to a person or organization specified by the court for a purpose referred to in subsection (1).
-> 2009, c. 14, s. 38.
+> 2009, c. 14, s. 38
 
 
 
@@ -963,7 +963,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Coming into force and duration of order**
 
 - **(8)** An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and shall not continue in force for more than three years after that day unless the court provides otherwise in the order.
-> 2000, c. 32, s. 30; 2009, c. 14, s. 39.
+> 2000, c. 32, s. 30; 2009, c. 14, s. 39
 
 
 
@@ -978,7 +978,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Enforcement**
 
 - **(2)** If the amount ordered to be paid under subsection (1) is not paid without delay, the aggrieved person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offender in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
-> 2000, c. 32, s. 31; 2009, c. 14, s. 40.
+> 2000, c. 32, s. 31; 2009, c. 14, s. 40
 
 
 
@@ -993,7 +993,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Compensation for loss or damage — property**
 
 - **(2)** A court shall not, under subsection 31(1), order a person to pay to another person an amount by way of satisfaction or compensation for loss of or damage to property if the other person is entitled to make a claim for compensation for that loss or damage under the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) or the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md).
-> 2009, c. 14, s. 40.
+> 2009, c. 14, s. 40
 
 
 
@@ -1002,7 +1002,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Limitation period**
 
 **31.1** No proceedings by way of summary conviction in respect of an offence under this Act may be instituted more than five years after the day on which the subject matter of the proceedings arose, unless the prosecutor and the defendant agree that they may be instituted after the five years.
-> 2009, c. 14, s. 40.
+> 2009, c. 14, s. 40
 
 
 
@@ -1011,7 +1011,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **[Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md)**
 
 **31.2** If an offence under this Act is designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), subsection 8(5) of that Act does not apply in respect of the fine that may be established for that contravention.
-> 2009, c. 14, s. 40.
+> 2009, c. 14, s. 40
 
 
 
@@ -1026,7 +1026,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Retention**
 
 - **(2)** Information in the registry is to be maintained for a minimum of five years.
-> 2009, c. 14, s. 40.
+> 2009, c. 14, s. 40
 
 
 
@@ -1041,7 +1041,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Report to Parliament**
 
 - **(2)** The Minister shall, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
-> 2009, c. 14, s. 40.
+> 2009, c. 14, s. 40
 
 
 
@@ -1102,7 +1102,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Leases, licences, etc.**
 
 - **(5)** No lease or licence of occupation may be granted, and no permit, licence or other authorization may be issued, authorizing a commercial use of lands within a commercial zone of a park community if the maximum floor area for commercial zones specified for that park community in Schedule 4 would be exceeded as a result of that use.
-> 2000, c. 32, s. 33; 2015, c. 3, s. 19(F); 2017, c. 26, s. 33(F).
+> 2000, c. 32, s. 33; 2015, c. 3, s. 19(F); 2017, c. 26, s. 33(F)
 
 
 
@@ -1206,8 +1206,8 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 
 **Application of Act**
 
-**39** Subject to sections 40 to 41.4, this Act applies to a park reserve as if it were a park.
-> 2000, c. 32, s. 39; 2009, c. 17, s. 6; 2013, c. 28, s. 2; 2014, c. 35, s. 3.
+**39** Subject to sections 40 to 41.5, this Act applies to a park reserve as if it were a park.
+> 2000, c. 32, s. 39; 2009, c. 17, s. 6; 2013, c. 28, s. 2; 2014, c. 35, s. 32019, c. 29, s. 329
 
 
 
@@ -1276,7 +1276,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Creation of park**
 
 - **(10)** After any public lands within the expansion area become a park, this section continues to apply in respect of those lands with any adaptations that may be necessary.
-> 2009, c. 17, s. 7; 2014, c. 2, s. 50, c. 35, s. 4.
+> 2009, c. 17, s. 7; 2014, c. 2, s. 50, c. 35, s. 4
 
 
 
@@ -1291,7 +1291,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Renewals — leases and licences of occupation**
 
 - **(2)** Those leases and licences of occupation may be renewed in accordance with their terms and conditions. If a lease or licence of occupation does not provide for its renewal, then it may be renewed in accordance with this Act.
-> 2013, c. 28, s. 3.
+> 2013, c. 28, s. 3
 
 
 
@@ -1300,7 +1300,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Canada-Nova Scotia Offshore Petroleum Board**
 
 **41.3** Nothing in this Act prevents any activity in Sable Island National Park Reserve of Canada that is authorized by the Canada-Nova Scotia Offshore Petroleum Board under the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md), and no authority under this Act is necessary in order to carry on any activity there that is authorized by that Board under that Act.
-> 2013, c. 28, s. 3.
+> 2013, c. 28, s. 3
 
 
 
@@ -1345,7 +1345,67 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Application to park**
 
 - **(9)** After any public lands in Nááts’ihch’oh National Park Reserve of Canada become a park, this section continues to apply in respect of those lands with any adaptations that may be necessary.
-> 2014, c. 35, s. 5.
+> 2014, c. 35, s. 5
+
+
+
+
+
+**Thaidene Nene National Park Reserve of Canada**
+
+**41.5** 
+
+- **(1)** Subject to subsections (3) to (5) and to any regulations made under paragraph 17(1)(f) in relation to Thaidene Nene National Park Reserve of Canada, a person may, in public lands in the park reserve, carry on activities described in the agreement between the Government of Canada and the Government of the Northwest Territories in relation to the transfer of administration and control of the lands for the establishment of the park reserve.
+
+**Non-application of regulations**
+
+- **(2)** The following provisions do not apply in respect of the activities referred to in subsection (1):
+	- **(a)** section 21 of the [National Parks General Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/78/213.md);
+	- **(b)** paragraph 41(1)(a) of the [National Parks Highway Traffic Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201126.md); and
+	- **(c)** section 4 of the [National Parks of Canada Fire Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/80/946.md).
+
+**Aircraft access**
+
+- **(3)** No person shall conduct a take-off or landing of an aircraft, as defined in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), in public lands in Thaidene Nene National Park Reserve of Canada, unless that person holds a permit, as defined in section 1 of the [National Parks of Canada Aircraft Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/150.md), that is issued in respect of the park reserve.
+
+**Fishing**
+
+- **(4)** No person shall fish in public lands in Thaidene Nene National Park Reserve of Canada unless the fishing is for personal use and that person holds a fishing permit, as defined in section 2 of the [National Parks of Canada Fishing Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201120.md), that is issued in respect of the park reserve.
+
+**Harvesting game**
+
+- **(5)** No person shall harvest game — including by hunting, within the meaning of section 26, any wild animal — in public lands in Thaidene Nene National Park Reserve of Canada unless
+	- **(a)** the person holds a special harvester licence issued under the Wildlife Act, S.N.W.T. 2013, c. 30 and complies with the terms and conditions of that licence, or
+	- **(b)** the person held a lease referred to in subsection (7) immediately before the day on which this section comes into force and continues to hold that lease and holds a hunting licence issued under the Wildlife Act, S.N.W.T. 2013, c. 30 and complies with the terms and conditions of that licence.
+
+**Superintendent’s powers, duties and functions**
+
+- **(6)** The Superintendent shall, in respect of the activities referred to in subsections (1) and (3) to (5), have regard to considerations of public health and safety and the sustainable use and conservation of Thaidene Nene National Park Reserve of Canada in the exercise of his or her powers and the performance of his or her duties and functions under the regulations made under this Act.
+
+**Continuation — leases**
+
+- **(7)** Existing leases relating to public lands in Thaidene Nene National Park Reserve of Canada are continued under this Act in accordance with their terms and conditions, which prevail over this Act to the extent of any inconsistency between them.
+
+**Renewals — leases**
+
+- **(8)** Those leases may be renewed in accordance with their terms and conditions. If a lease does not provide for its renewal, then it may be renewed in accordance with this Act.
+
+**Creation of park**
+
+- **(9)** For the purposes of subsections 5(1) and 6(2), leases relating to public lands in Thaidene Nene National Park Reserve of Canada are deemed not to encumber or affect title to those lands, but if those lands become a park they continue in effect according to their terms and conditions.
+
+**Fuel caches**
+
+- **(10)** A person may store fuel at a location in public lands in Thaidene Nene National Park Reserve of Canada that is designated by the Minister as a fuel cache.
+
+**Application to park**
+
+- **(11)** After any public lands in Thaidene Nene National Park Reserve of Canada become a park, this section continues to apply in respect of those lands with any adaptations that may be necessary.
+
+**Accessibility of agreement**
+
+- **(12)** The Minister shall ensure that the agreement referred to in subsection (1) is accessible to the public.
+> 2019, c. 29, s. 330
 
 
 
@@ -6745,7 +6805,7 @@ Including any substances or material that may be disposed of pursuant to the [Te
 
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22, c. 40, s. 2; 2017, c. 10, ss. 5, 6(F), c. 26, ss. 34(F), 35, 36 to 38(F).
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22, c. 40, s. 2; 2017, c. 10, ss. 5, 6(F), c. 26, ss. 34(F), 35, 36 to 38(F)
 
 
 
@@ -8139,6 +8199,525 @@ Said parcel containing an area of approximately 44 square kilometres.
 
 
 All coordinates in Part III are referred to the 1983 North American Datum, Canadian Spatial Reference System (NAD83 CSRS) and any references to straight lines mean points joined directly on the NAD83 Universal Transverse Mercator (UTM) projection plane surface.
+
+
+
+### Thaidene Nene National Park Reserve of Canada
+
+
+In the Northwest Territories;
+
+
+
+In the vicinity of the East Arm of Great Slave Lake,
+
+
+
+All that parcel of land, and land covered by water, being more particularly described as follows:
+
+
+
+Commencing at a point at latitude 63°31′40″ North and longitude 107°31′12″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 63°31′34″ North and longitude 107°29′28″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°28′28″ North and longitude 107°27′50″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°25′52″ North and longitude 107°26′28″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 63°24′20″ North and longitude 107°23′32″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°22′32″ North and longitude 107°22′19″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°21′01″ North and longitude 107°22′53″ West;
+
+
+
+Thence westerly in a straight line to a point at latitude 63°20′27″ North and longitude 107°27′54″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°19′23″ North and longitude 107°27′34″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 63°18′20″ North and longitude 107°29′29″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°16′00″ North and longitude 107°29′40″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 63°13′00″ North and longitude 107°31′35″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 63°11′14″ North and longitude 107°33′15″ West;
+
+
+
+Thence westerly in a straight line to a point at latitude 63°10′48″ North and longitude 107°35′41″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 63°09′45″ North and longitude 107°37′34″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°08′04″ North and longitude 107°37′32″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 63°07′16″ North and longitude 107°40′51″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°05′42″ North and longitude 107°39′54″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 63°04′45″ North and longitude 107°42′40″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 63°02′38″ North and longitude 107°33′33″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°04′13″ North and longitude 107°27′08″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 63°04′05″ North and longitude 107°21′29″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 63°01′31″ North and longitude 107°20′10″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°59′48″ North and longitude 107°09′47″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°57′54″ North and longitude 107°08′24″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°55′10″ North and longitude 107°11′22″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°51′36″ North and longitude 106°51′46″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 62°51′30″ North and longitude 106°42′10″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°50′40″ North and longitude 106°36′22″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°42′28″ North and longitude 106°51′05″ West;
+
+
+
+Thence westerly in a straight line to a point at latitude 62°42′40″ North and longitude 107°02′20″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°44′08″ North and longitude 107°18′56″ West;
+
+
+
+Thence westerly in a straight line to a point at latitude 62°44′18″ North and longitude 107°26′17″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°42′25″ North and longitude 107°34′55″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°39′46″ North and longitude 107°38′54″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 62°36′03″ North and longitude 107°36′38″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°32′26″ North and longitude 107°31′14″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°30′19″ North and longitude 107°14′05″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°29′01″ North and longitude 107°09′42″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°26′31″ North and longitude 107°24′50″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°22′14″ North and longitude 107°38′32″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°19′45″ North and longitude 107°36′09″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°17′58″ North and longitude 107°40′01″ West;
+
+
+
+Thence southerly in a straight line to a point at latitude 62°16′45″ North and longitude 107°39′57″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°16′06″ North and longitude 107°41′22″ West;
+
+
+
+Thence westerly in a straight line to a point at latitude 62°16′01″ North and longitude 107°43′00″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°14′30″ North and longitude 107°46′15″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°13′22″ North and longitude 107°49′02″ West;
+
+
+
+Thence westerly in a straight line to a point at latitude 62°13′13″ North and longitude 107°54′31″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°21′16″ North and longitude 108°02′59″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°22′12″ North and longitude 108°08′48″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°14′10″ North and longitude 108°31′54″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°19′05″ North and longitude 108°53′24″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°09′53″ North and longitude 109°14′57″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°06′00″ North and longitude 109°32′57″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°09′50″ North and longitude 109°51′19″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 62°10′37″ North and longitude 109°51′12″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 62°13′02″ North and longitude 109°49′36″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°20′59″ North and longitude 110°03′46″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°25′58″ North and longitude 110°07′16″ West;
+
+
+
+Thence southwesterly in a straight line to a point at latitude 62°25′28″ North and longitude 110°09′36″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°25′45″ North and longitude 110°10′37″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°26′25″ North and longitude 110°11′20″ West;
+
+
+
+Thence northwesterly in a straight line to a point at the intersection of latitude 62°27′00″ North and the ordinary high water mark on the eastern shore of Stark Lake, at approximate longitude 110°14′21″ West;
+
+
+
+Thence northwesterly in a straight line through the midpoint of a channel in Stark Lake, said channel at approximate latitude 62°27′14″ North and approximate longitude 110°15′12″ West, and projecting said line to the intersection with a line 100 metres perpendicularly distant from the ordinary high water mark on the western shore of the land north of said channel, at approximate latitude 62°27′16″ North and approximate longitude 110°15′20″ West;
+
+
+
+Thence generally northerly, westerly and southwesterly along the sinuosities of a line running 100 metres perpendicularly distant offshore from the ordinary high water mark of Stark Lake, to the intersection of said line with longitude 110°38′25″ West, at approximate latitude 62°27′31″ North;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°29′08″ North and longitude 110°41′02″ West in Christie Bay, Great Slave Lake;
+
+
+
+Thence westerly in a straight line to a point at latitude 62°29′12″ North and longitude 110°43′25″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 62°30′29″ North and longitude 110°41′59″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°31′41″ North and longitude 110°46′33″ West;
+
+
+
+Thence westerly in a straight line to a point at latitude 62°31′13″ North and longitude 110°52′24″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 62°36′37″ North and longitude 110°50′54″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 62°39′31″ North and longitude 110°38′02″ West;
+
+
+
+Thence northerly in a straight line to a point at the intersection of longitude 110°32′16″ West and the ordinary high water mark on the northerly shore of Kahochella Peninsula, at approximate latitude 62°49′30″ North;
+
+
+
+Thence northeasterly in a straight line an approximate distance of 1948 metres to the intersection of latitude 62°49′48″ North and a line 100 metres perpendicularly distant offshore from the ordinary high water mark on the northern shore of Kahochella Peninsula, at approximate longitude 110°30′04″ West;
+
+
+
+Thence generally easterly and southeasterly along the sinuosities of the lastly described line to a point at the intersection with longitude 109°18′07″ West, at approximate latitude 62°43′11″ North;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 62°48′00″ North and longitude 109°01′59″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°50′06″ North and longitude 109°12′51″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 62°55′31″ North and longitude 108°55′13″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 62°56′41″ North and longitude 108°54′33″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 62°57′00″ North and longitude 108°51′56″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 62°58′17″ North and longitude 108°52′20″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 62°58′30″ North and longitude 108°51′22″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 62°59′22″ North and longitude 108°52′15″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 62°59′51″ North and longitude 108°51′24″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°00′21″ North and longitude 108°47′10″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 62°59′09″ North and longitude 108°44′13″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 62°58′47″ North and longitude 108°41′28″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 62°59′47″ North and longitude 108°40′50″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 62°59′53″ North and longitude 108°37′48″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 63°02′49″ North and longitude 108°38′18″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°04′10″ North and longitude 108°33′03″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 63°03′31″ North and longitude 108°29′03″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°04′25″ North and longitude 108°27′41″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 63°04′32″ North and longitude 108°23′31″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 63°08′05″ North and longitude 108°21′20″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°09′19″ North and longitude 108°17′35″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 63°08′44″ North and longitude 108°14′07″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°10′48″ North and longitude 108°09′06″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 63°13′03″ North and longitude 108°10′41″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°13′41″ North and longitude 108°08′27″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 63°15′43″ North and longitude 108°11′59″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 63°19′40″ North and longitude 108°10′22″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°20′35″ North and longitude 108°07′49″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 63°20′41″ North and longitude 108°05′47″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°21′08″ North and longitude 108°05′07″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 63°22′11″ North and longitude 108°06′19″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°23′06″ North and longitude 107°59′46″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 63°25′13″ North and longitude 108°00′39″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 63°26′59″ North and longitude 108°02′15″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°27′45″ North and longitude 107°59′30″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 63°29′07″ North and longitude 108°00′56″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 63°30′46″ North and longitude 108°00′46″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 63°30′51″ North and longitude 107°58′42″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°31′33″ North and longitude 107°57′02″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 63°32′44″ North and longitude 107°56′50″ West;
+
+
+
+Thence northwesterly in a straight line to a point at latitude 63°33′34″ North and longitude 107°57′52″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°34′30″ North and longitude 107°56′40″ West;
+
+
+
+Thence northerly in a straight line to a point at latitude 63°35′40″ North and longitude 107°56′16″ West;
+
+
+
+Thence easterly in a straight line to a point at latitude 63°35′21″ North and longitude 107°51′49″ West;
+
+
+
+Thence northeasterly in a straight line to a point at latitude 63°35′58″ North and longitude 107°48′51″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 63°35′11″ North and longitude 107°43′08″ West;
+
+
+
+Thence southeasterly in a straight line to a point at latitude 63°32′03″ North and longitude 107°38′41″ West;
+
+
+
+Thence easterly in a straight line to the point of commencement.
+
+
+
+Said parcel containing an approximate area of 14 070 square kilometres.
+
+
+
+All coordinates above are referred to the 1983 North American Datum, Canadian Spatial Reference System (NAD83 CSRS) and any references to straight lines mean points joined directly on the NAD83 CSRS Universal Transverse Mercator (UTM) projection plane surface.
 
 
 
@@ -10010,7 +10589,7 @@ All of Sable Island located near the geographic coordinates 43°56′ north lati
 Said parcel containing an area of approximately 30 square kilometres.
 
 
-> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8, 9; SOR/2010-182; 2013, c. 28, s. 4; 2014, c. 2, s. 51, c. 35, s. 6; 2015, c. 3, s. 21(F); 2017, c. 26, s. 39.
+> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8, 9; SOR/2010-182; 2013, c. 28, s. 4; 2014, c. 2, s. 51, c. 35, s. 6; 2015, c. 3, s. 21(F); 2017, c. 26, s. 392019, c. 29, s. 331
 
 
 
@@ -10319,7 +10898,7 @@ All bearings are astronomic and are derived from the bearing between found cappe
 </tr>
 </table>
 
-> 2000, c. 32, Sch. 4; SOR/2004-116; 2013, c. 28, s. 14.
+> 2000, c. 32, Sch. 4; SOR/2004-116; 2013, c. 28, s. 14
 
 
 
@@ -10378,6 +10957,28 @@ In Banff National Park of Canada, the following described area:
 
 The whole of parcel JT and avalanche areas 1 and 2 and the fibre optic right-of-way as shown on Plans 107995, 107996 and 108040 in the Canada Lands Surveys Records at Ottawa, copies of which have been deposited in the Alberta Land Titles Office in Calgary under numbers 1910580, 1910581 and 1910678, said parcel, areas and right-of-way containing 1062 hectares, more or less.
 
-> 2000, c. 32, Sch. 5; 2013, c. 28, s. 15; 2019, c. 29, s. 332; SOR/2019-255, s. 1.
+> 2000, c. 32, Sch. 5; 2013, c. 28, s. 152019, c. 29, s. 332SOR/2019-255, s. 1
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2009, c. 17, s. 10
+
+
+**Transitional**
+
+**10** Leases of public lands situated in the expansion area — referred to in subsection 41.1(1) of Canada National Parks Act, as enacted by subsection 7(1) — that are in effect on the day on which this Act receives royal assent continue in effect in accordance with their terms and conditions as if they had been issued under that Act, and those terms and conditions prevail in the event of a conflict or inconsistency with that Act.
+
+
+
+######           — 2009, c. 17, s. 11
+
+
+**Transitional**
+
+**11** On the day on which this Act receives royal assent, the Minister responsible for the Parks Canada Agency shall issue permits, authorizations and licences in accordance with section 41.1 of the Canada National Parks Act, as enacted by subsection 7(1), in replacement of the existing land use permits and authorizations issued under the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md) and the existing water licences issued under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) and containing the same terms and conditions — with any adaptations that are necessary — to the extent that they apply in respect of the mining access roads situated in the expansion area referred to in that section including the sites of storage and other facilities connected with those roads.
+
 
 
