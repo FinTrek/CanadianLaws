@@ -2507,7 +2507,7 @@ où :
 
 <sup><a href='#nbp_2019-c29_F_transform_hq_24207'>[*]</a></sup>**333** Les articles 328 à 331 entrent en vigueur à la date fixée par décret, laquelle ne peut être antérieure à la date d’entrée en vigueur de l’accord conclu entre le gouvernement du Canada et celui des Territoires du Nord-Ouest relatif au transfert de la gestion et de la maîtrise des terres pour la création de la réserve à vocation de parc national Thaidene Nene du Canada.
 
-<a name='nbp_2019-c29_F_transform_hq_24207'><sup>*</sup></a>: [Note : Articles 328 à 331 non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24207'><sup>*</sup></a>: [Note : Articles 328 à 331 en vigueur le 4 septembre 2019, *voir* TR/2019-95.]<br />
 
 
 
