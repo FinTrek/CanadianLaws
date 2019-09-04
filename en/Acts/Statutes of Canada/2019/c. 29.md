@@ -2507,7 +2507,7 @@ where
 
 <sup><a href='#fn_2019-c29_E_transform_hq_25552'>[*]</a></sup>**333** Sections 328 to 331 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which the agreement between the Government of Canada and the Government of the Northwest Territories in relation to the transfer of administration and control of the lands for the establishment of Thaidene Nene National Park Reserve of Canada comes into effect.
 
-<a name='fn_2019-c29_E_transform_hq_25552'><sup>*</sup></a>: [Note: Sections 328 to 331 not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25552'><sup>*</sup></a>: [Note: Sections 328 to 331 in force September 4, 2019, *see* SI/2019-95.]<br />
 
 
 
