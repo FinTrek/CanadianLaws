@@ -290,7 +290,7 @@ is guilty of an indictable offence and may be prosecuted for that offence in acc
 **Consent of Attorney General**
 
 - **(4)** No proceedings for an offence under section 18 may be commenced without the consent of the Attorney General of Canada.
-> 2000, c. 24, s. 9; 2001, c. 32, s. 59.
+> 2000, c. 24, s. 9; 2001, c. 32, s. 59
 
 
 
@@ -464,7 +464,7 @@ is guilty of an indictable offence and may be prosecuted for that offence in acc
 
 **Evidence in specific cases**
 
-- **(2)** Evidence given under section 714.1, 714.2, 714.3 or 714.4 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 46(2) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md) or evidence or a statement given under an order made under section 22.2 of the [Mutual Legal Assistance in Criminal Matters Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2030%20(4th%20Supp.).md), is deemed to be evidence given by a witness in a proceeding for the purpose of subsection (1).
+- **(2)** Evidence given under section 714.1, 714.2 or 714.3 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 46(2) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md) or evidence or a statement given under an order made under section 22.2 of the [Mutual Legal Assistance in Criminal Matters Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2030%20(4th%20Supp.).md), is deemed to be evidence given by a witness in a proceeding for the purpose of subsection (1).
 
 **Meaning of evidence**
 
@@ -473,6 +473,8 @@ is guilty of an indictable offence and may be prosecuted for that offence in acc
 **Proof of former trial**
 
 - **(4)** If a person is charged with an offence under this section, a certificate that specifies with reasonable particularity the proceeding in which the person is alleged to have given the evidence in respect of which the offence is charged, is evidence that it was given in a proceeding of the International Criminal Court, without proof of the signature or official character of the person by whom the certificate purports to be signed, if it purports to be signed by the Registrar of that Court or another official having the custody of the record of that proceeding or by their lawful deputy.
+> 2000, c. 24, s. 202019, c. 25, s. 399
+
 
 
 
@@ -571,7 +573,7 @@ is guilty of an indictable offence and may be prosecuted for that offence in acc
 	- **(i)** proceeds of crime within the meaning of subsection 462.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), obtained or derived directly or indirectly as a result of the commission of an offence under this Act, and
 	- **(ii)** forfeited to Her Majesty and disposed of by that Minister; and
 - **(b)** any amount paid or recovered as a fine imposed under subsection 462.37(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in substitution for the property referred to in paragraph (a).
-> 2000, c. 24, s. 31; 2001, c. 32, s. 61; 2019, c. 29, s. 122(F).
+> 2000, c. 24, s. 31; 2001, c. 32, s. 612019, c. 29, s. 122(F)
 
 
 
@@ -580,7 +582,7 @@ is guilty of an indictable offence and may be prosecuted for that offence in acc
 **Partial exclusion of [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md)**
 
 **32** Paragraphs 9(d), (e) and (f) and sections 10, 11 and 13 to 16 of the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md) do not apply in respect of any property, proceeds of property or amounts referred to in section 31.
-> 2000, c. 24, s. 32; 2019, c. 29, s. 123(F).
+> 2000, c. 24, s. 322019, c. 29, s. 123(F)
 
 
 
