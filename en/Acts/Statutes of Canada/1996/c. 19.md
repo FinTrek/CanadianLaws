@@ -118,7 +118,7 @@ otherwise than under the authority of the regulations. (*trafic*)
 **Interpretation**
 
 - **(3)** For the purposes of this Act, where a substance is expressly named in any of Schedules I to VI, it shall be deemed not to be included in any other of those Schedules.
-> 1996, c. 8, s. 35, c. 19, s. 2; 2001, c. 32, s. 47; 2017, c. 7, s. 1; 2018, c. 16, s. 194.
+> 1996, c. 8, s. 35, c. 19, s. 2; 2001, c. 32, s. 47; 2017, c. 7, s. 1; 2018, c. 16, s. 194
 
 
 
@@ -131,7 +131,7 @@ otherwise than under the authority of the regulations. (*trafic*)
 - **(1)** Every power or duty imposed under this Act that may be exercised or performed in respect of an offence under this Act may be exercised or performed in respect of a conspiracy, or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act.
 
 - **(2)** [Repealed, 2017, c. 7, s. 2]
-> 1995, c. 22, s. 18; 1996, c. 19, s. 3; 2017, c. 7, s. 2.
+> 1995, c. 22, s. 18; 1996, c. 19, s. 3; 2017, c. 7, s. 2
 
 
 
@@ -198,7 +198,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 		- **(ii)** for a subsequent offence, to a fine not exceeding two thousand dollars or to imprisonment for a term not exceeding one year, or to both.
 
 - **(8)** [Repealed, 2018, c. 16, s. 195]
-> 1996, c. 19, s. 4; 2018, c. 16, s. 195.
+> 1996, c. 19, s. 4; 2018, c. 16, s. 195
 
 
 
@@ -225,7 +225,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Deeming**
 
 - **(5)** Any condition of a person’s pre-trial release, probation order, conditional sentence or parole relating to an offence under subsection 4(1) that may be violated as a result of the person seeking emergency medical or law enforcement assistance for their, or another person’s, medical emergency, or as a result of having been at the scene on the arrival of the assistance, is deemed not to be violated.
-> 2017, c. 4, s. 2; 2018, c. 16, s. 195.1.
+> 2017, c. 4, s. 2; 2018, c. 16, s. 195.1
 
 
 
@@ -269,7 +269,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 - **(5)** For the purposes of applying subsection (3) in respect of an offence under subsection (1), a reference to a substance included in Schedule I, II, III, IV or V includes a reference to any substance represented or held out to be a substance included in that Schedule.
 
 - **(6)** [Repealed, 2018, c. 16, s. 196]
-> 1996, c. 19, s. 5; 2012, c. 1, s. 39; 2017, c. 7, s. 3; 2018, c. 16, s. 196.
+> 1996, c. 19, s. 5; 2012, c. 1, s. 39; 2017, c. 7, s. 3; 2018, c. 16, s. 196
 
 
 
@@ -299,7 +299,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 	- **(c)** if the subject matter of the offence is a substance included in Schedule IV,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding three years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
-> 1996, c. 19, s. 6; 2012, c. 1, s. 40; 2017, c. 7, s. 4.
+> 1996, c. 19, s. 6; 2012, c. 1, s. 40; 2017, c. 7, s. 4
 
 
 
@@ -333,7 +333,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 	- **(b)** the production constituted a potential security, health or safety hazard to persons under the age of 18 years who were in the location where the offence was committed or in the immediate area;
 	- **(c)** the production constituted a potential public safety hazard in a residential area; or
 	- **(d)** the person set or placed a trap, device or other thing that is likely to cause death or bodily harm to another person in the location where the offence was committed or in the immediate area, or permitted such a trap, device or other thing to remain or be placed in that location or area.
-> 1996, c. 19, s. 7; 2012, c. 1, s. 41; 2017, c. 7, s. 5; 2018, c. 16, s. 197.
+> 1996, c. 19, s. 7; 2012, c. 1, s. 41; 2017, c. 7, s. 5; 2018, c. 16, s. 197
 
 
 
@@ -356,7 +356,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 	- **(b)** if the subject matter of the offence is a substance included in Schedule IV,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term of not more than three years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term of not more than one year.
-> 2011, c. 14, s. 1; 2017, c. 7, s. 6.
+> 2011, c. 14, s. 1; 2017, c. 7, s. 6
 
 
 
@@ -369,7 +369,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Notice**
 
 **8** The court is not required to impose a minimum punishment unless it is satisfied that the offender, before entering a plea, was notified of the possible imposition of a minimum punishment for the offence in question and of the Attorney General’s intention to prove any factors in relation to the offence that would lead to the imposition of a minimum punishment.
-> 2012, c. 1, s. 42.
+> 2012, c. 1, s. 42
 
 
 
@@ -388,7 +388,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Report**
 
 - **(2)** The committee referred to in subsection (1) shall, within one year after a review is undertaken under that subsection, submit a report to Parliament including a statement of any changes that the committee recommends.
-> 2012, c. 1, s. 42.
+> 2012, c. 1, s. 42
 
 
 
@@ -428,7 +428,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Minimum punishment**
 
 - **(5)** If the offender successfully completes a program under subsection (4), the court is not required to impose the minimum punishment for the offence for which the person was convicted.
-> 1996, c. 19, s. 10; 1999, c. 5, s. 49; 2012, c. 1, s. 43; 2017, c. 7, s. 7; 2018, c. 16, s. 198.
+> 1996, c. 19, s. 10; 1999, c. 5, s. 49; 2012, c. 1, s. 43; 2017, c. 7, s. 7; 2018, c. 16, s. 198
 
 
 
@@ -454,13 +454,11 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 
 - **(2)** For the purposes of subsection (1), an information may be submitted by telephone or other means of telecommunication in accordance with section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), with such modifications as the circumstances require.
 
-**Execution in another province**
+**Execution in Canada**
 
-- **(3)** A justice may, where a place referred to in subsection (1) is in a province other than that in which the justice has jurisdiction, issue the warrant referred to in that subsection and the warrant may be executed in the other province after it has been endorsed by a justice having jurisdiction in that other province.
+- **(3)** A warrant issued under subsection (1) may be executed at any place in Canada. Any peace officer who executes the warrant must have authority to act as a peace officer in the place where it is executed.
 
-**Effect of endorsement**
-
-- **(4)** An endorsement that is made on a warrant as provided for in subsection (3) is sufficient authority to any peace officer to whom it was originally directed and to all peace officers within the jurisdiction of the justice by whom it is endorsed to execute the warrant and to dispose of or otherwise deal with the things seized in accordance with the law.
+- **(4)** [Repealed, 2019, c. 25, s. 385]
 
 **Search of person and seizure**
 
@@ -481,7 +479,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Seizure of additional things**
 
 - **(8)** A peace officer who executes a warrant issued under subsection (1) or exercises powers under subsection (5) or (7) may seize, in addition to the things mentioned in the warrant and in subsection (6), any thing that the peace officer believes on reasonable grounds has been obtained by or used in the commission of an offence or that will afford evidence in respect of an offence.
-> 1996, c. 19, s. 11; 2005, c. 44, s. 13; 2017, c. 7, s. 9.
+> 1996, c. 19, s. 11; 2005, c. 44, s. 13; 2017, c. 7, s. 92019, c. 25, s. 385
 
 
 
@@ -509,7 +507,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 	- **(vii)** any other prescribed information;
 - **(b)** cause the report to be sent to the Minister; and
 - **(c)** in the case of a seizure made under section 11 of this Act, the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a power of seizure at common law, cause a copy of the report to be filed with the justice who issued the warrant or another justice for the same territorial division or, if a warrant was not issued, a justice who would have had jurisdiction to issue a warrant.
-> 2017, c. 7, s. 10.
+> 2017, c. 7, s. 10
 
 
 
@@ -539,7 +537,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 - **(4)** If, under this section, an order is made in accordance with paragraph 490(9)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for the return of any non-chemical offence-related property seized under this Act, the judge or justice making the order may require the applicant for the order to enter into a recognizance before the judge or justice, with or without sureties, in the amount and with any conditions that the judge or justice directs and, if the judge or justice considers it appropriate, require the applicant to deposit with the judge or justice the sum of money or other valuable security that the judge or justice directs.
 
 - **(5) and (6)** [Repealed, 2017, c. 7, s. 11]
-> 1996, c. 19, s. 13; 2017, c. 7, s. 11.
+> 1996, c. 19, s. 13; 2017, c. 7, s. 11
 
 
 
@@ -600,7 +598,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Offence**
 
 - **(10)** Any person on whom a restraint order made under this section is served in accordance with this section and who, while the order is in force, acts in contravention of or fails to comply with the order is guilty of an indictable offence or an offence punishable on summary conviction.
-> 1996, c. 19, ss. 14, 93.2; 2001, c. 32, s. 49; 2017, c. 7, s. 13.
+> 1996, c. 19, ss. 14, 93.2; 2001, c. 32, s. 49; 2017, c. 7, s. 13
 
 
 
@@ -619,7 +617,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Recognizance**
 
 - **(2)** If, under this section, an order is made in accordance with paragraph 490(9)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for the return of any property that is the subject of a restraint order made under section 14, the judge or justice making the order may require the applicant for the order to enter into a recognizance before the judge or justice, with or without sureties, in the amount and with any conditions that the judge or justice directs and, if the judge or justice considers it appropriate, require the applicant to deposit with the judge or justice the sum of money or other valuable security that the judge or justice directs.
-> 1996, c. 19, s. 15; 2017, c. 7, s. 14.
+> 1996, c. 19, s. 15; 2017, c. 7, s. 14
 
 
 
@@ -684,7 +682,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Application to vary conditions**
 
 - **(11)** The Attorney General may at any time apply to the judge or justice to cancel or vary any condition to which a management order is subject but may not apply to vary an appointment made under subsection (2).
-> 2017, c. 7, s. 14.
+> 2017, c. 7, s. 14
 
 
 
@@ -713,7 +711,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Appeal**
 
 - **(3)** A person who has been convicted or discharged of a designated substance offence or the Attorney General may appeal to the court of appeal from an order or a failure to make an order under subsection (1) as if the appeal were an appeal against the sentence imposed on the person in respect of the offence.
-> 1996, c. 19, s. 16; 2001, c. 32, s. 51; 2017, c. 7, s. 16.
+> 1996, c. 19, s. 16; 2001, c. 32, s. 51; 2017, c. 7, s. 16
 
 
 
@@ -750,7 +748,7 @@ and the accused shall be deemed to have so absconded on the last day of that six
 **Property outside Canada**
 
 - **(5)** An order may be issued under this section in respect of property situated outside Canada, with any modifications that the circumstances require.
-> 1996, c. 19, s. 17; 2001, c. 32, s. 52; 2017, c. 7, s. 17.
+> 1996, c. 19, s. 17; 2001, c. 32, s. 52; 2017, c. 7, s. 17
 
 
 
@@ -759,7 +757,7 @@ and the accused shall be deemed to have so absconded on the last day of that six
 **Voidable transfers**
 
 **18** A court may, before ordering that property be forfeited under subsection 16(1) or 17(2), set aside any conveyance or transfer of the property that occurred after the property was seized or restrained, unless the conveyance or transfer was for valuable consideration to a person acting in good faith.
-> 1996, c. 19, s. 18; 2017, c. 7, s. 18.
+> 1996, c. 19, s. 18; 2017, c. 7, s. 18
 
 
 
@@ -784,7 +782,7 @@ and the accused shall be deemed to have so absconded on the last day of that six
 	- **(a)** a person who was charged with a designated substance offence, or
 	- **(b)** a person who acquired title to or a right of possession of the property from a person referred to in paragraph (a) under circumstances that give rise to a reasonable inference that the title or right was transferred for the purpose of avoiding the forfeiture of the property,
 is the lawful owner or is lawfully entitled to possession of any property or any part of any property that would otherwise be forfeited pursuant to an order made under subsection 16(1) or 17(2) and that the person appears innocent of any complicity in an offence referred to in paragraph (a) or of any collusion in relation to such an offence, the court may order that the property or part be returned to that person.
-> 1996, c. 19, s. 19; 2017, c. 7, s. 19.
+> 1996, c. 19, s. 19; 2017, c. 7, s. 19
 
 
 
@@ -812,7 +810,7 @@ is the lawful owner or is lawfully entitled to possession of any property or any
 - **(4)** Where all or part of the property that would otherwise be forfeited under subsection 16(1) or 17(2) is a dwelling-house, when making a decision under subsection (3), the court shall also consider
 	- **(a)** the impact of an order of forfeiture on any member of the immediate family of the person charged with or convicted or discharged of the offence, if the dwelling-house was the member’s principal residence at the time the charge was laid and continues to be the member’s principal residence; and
 	- **(b)** whether the member referred to in paragraph (a) appears innocent of any complicity in the offence or of any collusion in relation to the offence.
-> 2001, c. 32, s. 53; 2017, c. 7, s. 20.
+> 2001, c. 32, s. 53; 2017, c. 7, s. 20
 
 
 
@@ -852,7 +850,7 @@ the judge may make an order declaring that the interest of the applicant is not 
 - **(6)** The Minister shall, on application made to the Minister by any person in respect of whom a judge has made an order under subsection (4), and where the periods with respect to the taking of appeals from that order have expired and any appeal from that order taken under subsection (5) has been determined, direct that
 	- **(a)** the property, or the part of it to which the interest of the applicant relates, be returned to the applicant; or
 	- **(b)** an amount equal to the value of the interest of the applicant, as declared in the order, be paid to the applicant.
-> 1996, c. 19, s. 20; 2017, c. 7, s. 21.
+> 1996, c. 19, s. 20; 2017, c. 7, s. 21
 
 
 
@@ -895,7 +893,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Report by peace officer**
 
 - **(3)** In the case of a seizure made under section 11 of this Act, the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a power of seizure at common law, the peace officer shall make a report about the return to the justice who issued the warrant or another justice for the same territorial division or, if a warrant was not issued, a justice who would have had jurisdiction to issue a warrant.
-> 1996, c. 19, s. 23; 2001, c. 32, s. 54; 2017, c. 7, s. 22.
+> 1996, c. 19, s. 23; 2001, c. 32, s. 54; 2017, c. 7, s. 22
 
 
 
@@ -924,7 +922,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Payment of compensation in lieu**
 
 - **(5)** If, on the hearing of an application made under subsection (1), a justice is satisfied that an applicant is the lawful owner or is lawfully entitled to possession of the substance, precursor or property, but it was disposed of or otherwise dealt with under section 26, the justice shall order that an amount equal to its value be paid to the applicant.
-> 1996, c. 19, s. 24; 2017, c. 7, s. 22.
+> 1996, c. 19, s. 24; 2017, c. 7, s. 22
 
 
 
@@ -933,7 +931,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Forfeiture if no application**
 
 **25** If no application for the return of a controlled substance, precursor or chemical offence-related property has been made under subsection 24(1) within 60 days after the date of the seizure, finding or acquisition by a peace officer, inspector or prescribed person and it or a portion of it is not required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, it or the portion is forfeited to Her Majesty and may be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
-> 1996, c. 19, s. 25; 2017, c. 7, s. 22.
+> 1996, c. 19, s. 25; 2017, c. 7, s. 22
 
 
 
@@ -942,7 +940,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Expedited disposition**
 
 **26** If a precursor or chemical offence-related property — whose storage or handling poses a risk to health or safety — or a controlled substance, or a portion of any of them, is not required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, it or the portion may be disposed of or otherwise dealt with by the Minister, a peace officer or a prescribed person in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
-> 1996, c. 19, s. 26; 2017, c. 7, s. 22.
+> 1996, c. 19, s. 26; 2017, c. 7, s. 22
 
 
 
@@ -955,7 +953,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 	- **(i)** if it is satisfied that the person from whom the substance, precursor or property was seized came into possession of it lawfully and continued to deal with it lawfully, order that it be returned to the person, or
 	- **(ii)** if it is satisfied that possession of the substance, precursor or property by the person from whom it was seized is unlawful and the person who is the lawful owner or is lawfully entitled to its possession is known, order that it be returned to the person who is the lawful owner or is lawfully entitled to its possession; and
 - **(b)** may, if it is not satisfied that the substance, precursor or property should be returned under subparagraph (a)(i) or (ii) or if possession of it by the person from whom it was seized is unlawful and the person who is the lawful owner or is lawfully entitled to its possession is not known, order that it be forfeited to Her Majesty to be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
-> 1996, c. 19, s. 27; 2017, c. 7, s. 23.
+> 1996, c. 19, s. 27; 2017, c. 7, s. 23
 
 
 
@@ -964,7 +962,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Disposition with consent**
 
 **28** If a controlled substance, precursor or chemical offence-related property has been seized, found or otherwise acquired by a peace officer, inspector or prescribed person and it or a portion of it is not required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, the person who is its lawful owner may consent to its disposition, and when that consent is given, it or the portion is forfeited to Her Majesty and may be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
-> 1996, c. 19, s. 28; 2017, c. 7, s. 24.
+> 1996, c. 19, s. 28; 2017, c. 7, s. 24
 
 
 
@@ -986,7 +984,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Interpretation**
 
 - **(2)** For the purposes of subsection (1), dealing with a controlled substance, precursor or chemical offence-related property by a peace officer includes using it to conduct an investigation or for training purposes.
-> 1996, c. 19, s. 29; 2017, c. 7, s. 24.
+> 1996, c. 19, s. 29; 2017, c. 7, s. 24
 
 
 
@@ -1010,7 +1008,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Certificate**
 
 - **(2)** Every inspector shall be provided with a certificate of designation in a form established by the Minister and, on entering any place under subsection 31(1), shall, on request, produce the certificate to the person in charge of the place.
-> 1996, c. 19, s. 30; 2015, c. 22, s. 2; 2017, c. 7, s. 25.
+> 1996, c. 19, s. 30; 2015, c. 22, s. 2; 2017, c. 7, s. 25
 
 
 
@@ -1094,7 +1092,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Return or disposition by Minister**
 
 - **(9)** If a period of 120 days has elapsed after the date of a seizure under this section and the thing has not been returned, disposed of or otherwise dealt with in accordance with subsection (8) or any of sections 24 to 27, it shall be returned, disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
-> 1996, c. 19, s. 31; 2015, c. 22, s. 3; 2017, c. 7, s. 26.
+> 1996, c. 19, s. 31; 2015, c. 22, s. 3; 2017, c. 7, s. 26
 
 
 
@@ -1113,7 +1111,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 **Interference**
 
 - **(3)** No person shall, without the authority of an inspector, remove, alter or interfere in any way with anything seized, detained or taken under section 31.
-> 1996, c. 19, s. 32; 2017, c. 7, s. 27.
+> 1996, c. 19, s. 32; 2017, c. 7, s. 27
 
 
 
@@ -1295,7 +1293,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Report**
 
 - **(2)** An analyst who has made an analysis or examination under subsection (1) may prepare a certificate or report stating that the analyst has analysed or examined a substance or a sample thereof and setting out the results of the analysis or examination.
-> 1996, c. 19, s. 45; 2017, c. 7, s. 29.
+> 1996, c. 19, s. 45; 2017, c. 7, s. 29
 
 
 
@@ -1310,7 +1308,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **45.1** The Minister may, by order, require a person who is authorized under this Act to conduct activities in relation to controlled substances or precursors or a person who imports designated devices to provide the Minister, in the time and manner that the Minister specifies, with any information respecting those activities that the Minister considers necessary
 - **(a)** to verify compliance or prevent non-compliance with the provisions of this Act or the regulations; or
 - **(b)** to address an issue of public health or safety.
-> 2017, c. 7, s. 30.
+> 2017, c. 7, s. 30
 
 
 
@@ -1319,7 +1317,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Measures**
 
 **45.2** The Minister may, by order, require a person who is authorized under this Act to conduct activities in relation to controlled substances or precursors to take measures, in the time and manner that the Minister specifies, to prevent non-compliance with the provisions of this Act or the regulations or, if the Minister has reasonable grounds to believe that there is such non-compliance, to remedy it.
-> 2017, c. 7, s. 30.
+> 2017, c. 7, s. 30
 
 
 
@@ -1328,7 +1326,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Review officer**
 
 **45.3** The Minister may designate any qualified individual or class of qualified individuals as review officers for the purpose of reviewing orders under section 45.4.
-> 2017, c. 7, s. 30.
+> 2017, c. 7, s. 30
 
 
 
@@ -1383,7 +1381,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Effect of amendment**
 
 - **(12)** An order that is amended is subject to review under this section.
-> 2017, c. 7, s. 30.
+> 2017, c. 7, s. 30
 
 
 
@@ -1392,7 +1390,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 **45.5** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of an order made under section 45.1 or 45.2.
-> 2017, c. 7, s. 30.
+> 2017, c. 7, s. 30
 
 
 
@@ -1407,7 +1405,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **46** Every person who contravenes a provision of this Act for which punishment is not otherwise provided, a provision of a regulation or an order made under section 45.1 or 45.2
 - **(a)** is guilty of an indictable offence and liable to a fine of not more than $5,000,000 or to imprisonment for a term not exceeding three years, or to both; or
 - **(b)** is guilty of an offence punishable on summary conviction and liable, for a first offence, to a fine of not more than $250,000 or imprisonment for a term of not more than six months, or to both, and, for any subsequent offence, to a fine of not more than $500,000 or imprisonment for a term of not more than 18 months, or to both.
-> 1996, c. 19, s. 46; 2017, c. 7, s. 33; 2018, c. 16, s. 200.
+> 1996, c. 19, s. 46; 2017, c. 7, s. 33; 2018, c. 16, s. 200
 
 
 
@@ -1420,7 +1418,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Offence of making false or deceptive statements**
 
 **46.1** No person shall knowingly make, or participate in, assent to or acquiesce in the making of, a false or misleading statement in any book, record, return or other document however recorded, required to be maintained, made or furnished under this Act or the regulations.
-> 2017, c. 7, s. 34.
+> 2017, c. 7, s. 34
 
 
 
@@ -1429,7 +1427,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Compliance with terms and conditions**
 
 **46.2** The holder of a licence, permit, authorization or exemption shall comply with its terms and conditions.
-> 2017, c. 7, s. 34.
+> 2017, c. 7, s. 34
 
 
 
@@ -1470,7 +1468,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Disclosure of information to police force**
 
 - **(7)** The Minister is authorized to disclose any information submitted under subsection (2) to a Canadian police force or a member of a Canadian police force who requests the information in the course of an investigation under this Act.
-> 2017, c. 7, s. 34.
+> 2017, c. 7, s. 34
 
 
 
@@ -1489,7 +1487,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Venue**
 
 - **(2)** Proceedings in respect of a contravention of any provision of this Act or the regulations or of an order made under section 45.1 or 45.2 may be held in the place where the offence was committed or where the subject matter of the proceedings arose or in any place where the accused is apprehended or happens to be located.
-> 1996, c. 19, s. 47; 2017, c. 7, s. 37.
+> 1996, c. 19, s. 47; 2017, c. 7, s. 37
 
 
 
@@ -1536,7 +1534,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(2)** The defence may, with leave of the court, require that the person who issued the certificate or other document
 	- **(a)** produce an affidavit or solemn declaration attesting to any of the matters deemed to be proved under subsection (1); or
 	- **(b)** appear before the court for examination or cross-examination in respect of the issuance of the certificate or other document.
-> 1996, c. 19, s. 50; 2018, c. 16, s. 201.
+> 1996, c. 19, s. 50; 2018, c. 16, s. 201
 
 
 
@@ -1553,7 +1551,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(2)** The party against whom a certificate or report of an analyst is produced under subsection (1) may, with leave of the court, require the attendance of the analyst for the purpose of cross-examination.
 
 - **(3)** [Repealed, 2017, c. 7, s. 38]
-> 1996, c. 19, s. 51; 2017, c. 7, s. 38.
+> 1996, c. 19, s. 51; 2017, c. 7, s. 38
 
 
 
@@ -1599,7 +1597,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Advice of experts**
 
 **54.1** The Minister may engage the services of persons having technical or specialized knowledge to advise the Minister in respect of his or her powers, duties or functions under this Act and, with the approval of the Treasury Board, fix their remuneration.
-> 2018, c. 16, s. 202.
+> 2018, c. 16, s. 202
 
 
 
@@ -1684,7 +1682,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Incorporation by reference**
 
 - **(3)** Any regulations made under this Act incorporating by reference a classification, standard, procedure or other specification may incorporate the classification, standard, procedure or specification as amended from time to time, and, in such a case, the reference shall be read accordingly.
-> 1996, c. 19, s. 55; 2001, c. 32, s. 55; 2005, c. 10, s. 15; 2015, c. 22, s. 4; 2017, c. 7, s. 40.
+> 1996, c. 19, s. 55; 2001, c. 32, s. 55; 2005, c. 10, s. 15; 2015, c. 22, s. 4; 2017, c. 7, s. 40
 
 
 
@@ -1699,7 +1697,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Exception**
 
 - **(2)** The Minister is not authorized under subsection (1) to grant an exemption for a medical purpose that would allow activities in relation to a controlled substance or precursor that is obtained in a manner not authorized under this Act to take place at a supervised consumption site.
-> 1996, c. 19, s. 56; 2015, c. 22, s. 5; 2017, c. 7, s. 41.
+> 1996, c. 19, s. 56; 2015, c. 22, s. 5; 2017, c. 7, s. 41
 
 
 
@@ -1733,13 +1731,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Public decision**
 
 - **(5)** After making a decision under subsection (1), the Minister shall, in writing, make the decision public and, if the decision is a refusal, include the reasons for it.
-> 2015, c. 22, s. 5; 2017, c. 7, s. 42.
+> 2015, c. 22, s. 5; 2017, c. 7, s. 42
 
 
 
 
 **56.2** A person who is responsible for the direct supervision, at a supervised consumption site, of the consumption of controlled substances, may offer a person using the site alternative pharmaceutical therapy before that person consumes a controlled substance that is obtained in a manner not authorized under this Act.
-> 2017, c. 7, s. 42.
+> 2017, c. 7, s. 42
 
 
 
@@ -1752,7 +1750,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Powers, duties and functions of Minister or Minister of Public Safety and Emergency Preparedness**
 
 **57** The Minister’s powers, duties or functions under this Act or the regulations — and those of the Minister of Public Safety and Emergency Preparedness under the regulations — may be exercised or performed by any person designated, or any person occupying a position designated, for that purpose by the relevant Minister.
-> 1996, c. 19, s. 57; 2005, c. 10, s. 16.
+> 1996, c. 19, s. 57; 2005, c. 10, s. 16
 
 
 
@@ -1776,7 +1774,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Power to amend schedules**
 
 **60** The Governor in Council may, by order, amend any of Schedules I to IV, VI and IX by adding to them or deleting from them any item or portion of an item, if the Governor in Council considers the amendment to be necessary in the public interest.
-> 1996, c. 19, s. 60; 2017, c. 7, s. 45; 2018, c. 16, ss. 203, 206.
+> 1996, c. 19, s. 60; 2017, c. 7, s. 45; 2018, c. 16, ss. 203, 206
 
 
 
@@ -1795,7 +1793,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Deletions**
 
 - **(2)** The Minister may, by order, delete any item or portion of an item from Schedule V.
-> 2017, c. 7, s. 45.
+> 2017, c. 7, s. 45
 
 
 
@@ -1813,7 +1811,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **References to prior enactments**
 
 **61** Any reference in a designation by the Minister of Public Safety and Emergency Preparedness under Part VI of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to an offence contrary to the Narcotic Control Act or Part III or IV of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or any conspiracy or attempt to commit or being an accessory after the fact or any counselling in relation to such an offence shall be deemed to be a reference to an offence contrary to section 5 (trafficking), 6 (importing and exporting) or 7 (production) of this Act, as the case may be, or a conspiracy or attempt to commit or being an accessory after the fact or any counselling in relation to such an offence.
-> 1996, c. 19, s. 61; 2001, c. 32, s. 56; 2005, c. 10, s. 34.
+> 1996, c. 19, s. 61; 2001, c. 32, s. 56; 2005, c. 10, s. 34
 
 
 
@@ -2082,7 +2080,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(3)** U-48520 (4-chloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide)
 - **(4)** U-50211 (N-(2-(dimethylamino)cyclohexyl)-4-hydroxy-N-methylbenzamide)
 - **(5)** U-77891 (3,4-dibromo-N-methyl-N-(1-methyl-1-azaspiro[4.5]decan-6-yl)benzamide)
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275; SOR/2017-277, s. 1; SOR/2018-70, ss. 1, 2, 3(F); SOR/2019-121, s. 1.
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275; SOR/2017-277, s. 1; SOR/2018-70, ss. 1, 2, 3(F)SOR/2019-121, s. 1
 
 
 
@@ -2136,7 +2134,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(9)** Any substance that has a 3-carboxamideindole structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted at the carboxamide group to any extent, including
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
-> 1996, c. 19, Sch. II; SOR/98-157; SOR/2003-32, s. 1; SOR/2015-192; 2017, c. 7, s. 47; 2018, c. 16, s. 204.
+> 1996, c. 19, Sch. II; SOR/98-157; SOR/2003-32, s. 1; SOR/2015-192; 2017, c. 7, s. 47; 2018, c. 16, s. 204
 
 
 
@@ -2192,7 +2190,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; 2017, c. 7, s. 48; SOR/2017-13, s. 6; SOR/2017-44, 249.
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; 2017, c. 7, s. 48; SOR/2017-13, s. 6; SOR/2017-44, 249
 
 
 
@@ -2347,14 +2345,14 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **26** Pyrovalerone (4′-methyl-2-(1-pyrrolidinyl)valerophenone) and any salt thereof
 - **27** *Salvia divinorum* (*S. divinorum*), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209; 2017, c. 7, s. 49; SOR/2017-13, ss. 7 to 9, 10(E), 11, 12; SOR/2018-70, s. 4.
+> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209; 2017, c. 7, s. 49; SOR/2017-13, ss. 7 to 9, 10(E), 11, 12; SOR/2018-70, s. 4
 
 
 
 
 ### **SCHEDULE V** 
 **(Sections 2, 5 to 7.1, 10, 55 and 60.1)**
-> 1996, c. 19, Sch. V; SOR/2002-361, s. 1; SOR/2003-32, s. 7; 2017, c. 7, s. 50.
+> 1996, c. 19, Sch. V; SOR/2002-361, s. 1; SOR/2003-32, s. 7; 2017, c. 7, s. 50
 
 
 
@@ -2439,7 +2437,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **1** Any preparation or mixture that contains a precursor set out in Part 1, except items 20 to 23, or in Part 2.
 
 
-> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4; SOR/2016-13, 295; SOR/2017-277, s. 2; SOR/2019-121, s. 2; SOR/2019-121, s. 3; SOR/2019-121, s. 4; SOR/2019-121, s. 5.
+> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4; SOR/2016-13, 295; SOR/2017-277, s. 2SOR/2019-121, s. 2SOR/2019-121, s. 3SOR/2019-121, s. 4SOR/2019-121, s. 5
 
 
 
@@ -2460,6 +2458,417 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **(Sections 2 and 60)**
 - **1** Manual, semi-automatic or fully automatic device that may be used to compact or mould powdered, granular or semi-solid material to produce coherent solid tablets
 - **2** Manual, semi-automatic or fully automatic device that may be used to fill capsules with any powdered, granular, semi-solid or liquid material
-> 2017, c. 7, s. 51.
+> 2017, c. 7, s. 51
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2017, c. 7, s. 1(1)
+
+**1** 
+
+- **(1)** The definition ***adjudicator*** in subsection 2(1) of the Controlled Drugs and Substances Act is repealed.
+
+
+
+######           — 2017, c. 7, s. 28
+
+**28** Part V of the Act is replaced by the following :
+
+**PART V** 
+## Administrative Monetary Penalties
+
+
+### Violation
+
+
+**Commission of violation**
+
+**33** Every person who contravenes a provision designated by regulations made under paragraph 34(1)(a), or contravenes an order made under section 45.1 or 45.2 or reviewed under section 45.4, commits a violation and is liable to the penalty established in accordance with the provisions of this Act and the regulations.
+
+
+
+### Powers of the Governor in Council and the Minister
+
+
+**Regulations**
+
+**34** 
+
+- **(1)** The Governor in Council may make regulations
+	- **(a)** designating as a violation that may be proceeded with in accordance with this Act the contravention of any specified provision of this Act — except a provision of Part I — or the regulations;
+	- **(b)** fixing a penalty, or a range of penalties, in respect of each violation;
+	- **(c)** classifying each violation as a minor violation, a serious violation or a very serious violation; and
+	- **(d)** respecting the circumstances under which, the criteria by which and the manner in which a penalty may be increased or reduced, including a reduction in the amount that is provided for in a compliance agreement.
+
+**Maximum penalty**
+
+- **(2)** The maximum penalty for a violation is $30,000.
+
+
+
+**Criteria for penalty**
+
+**35** Unless a penalty is fixed under paragraph 34(1)(b), the amount of a penalty shall, in each case, be determined taking into account
+- **(a)** the history of compliance with the provisions of this Act or the regulations by the person who committed the violation;
+- **(b)** the harm to public health or safety that resulted or could have resulted from the violation;
+- **(c)** whether the person made reasonable efforts to mitigate or reverse the violation’s effects;
+- **(d)** whether the person derived any competitive or economic benefit from the violation; and
+- **(e)** any other prescribed criteria.
+
+
+
+**Notices of violation**
+
+**36** The Minister may
+- **(a)** designate individuals, or classes of individuals, who are authorized to issue notices of violation; and
+- **(b)** establish, in respect of each violation, a short-form description to be used in notices of violation.
+
+
+
+### Proceedings
+
+
+**Issuance of notice of violation**
+
+**37** 
+
+- **(1)** If a person who is designated under paragraph 36(a) believes on reasonable grounds that a person has committed a violation, the designated person may issue, and shall provide the person with, a notice of violation that
+	- **(a)** sets out the person’s name;
+	- **(b)** identifies the alleged violation;
+	- **(c)** sets out the penalty for the violation that the person is liable to pay; and
+	- **(d)** sets out the particulars concerning the time and manner of payment.
+
+**Summary of rights**
+
+- **(2)** A notice of violation shall clearly summarize, in plain language, the named person’s rights and obligations under this section and sections 38 to 43.7, including the right to have the acts or omissions that constitute the alleged violation or the amount of the penalty reviewed and the procedure for requesting that review.
+
+
+
+### Penalties
+
+
+**Payment**
+
+**38** 
+
+- **(1)** If the person named in the notice pays, in the prescribed time and manner, the amount of the penalty,
+	- **(a)** they are deemed to have committed the violation in respect of which the amount is paid;
+	- **(b)** the Minister shall accept that amount as complete satisfaction of the penalty; and
+	- **(c)** the proceedings commenced in respect of the violation under section 37 are ended.
+
+**Alternatives to payment**
+
+- **(2)** Instead of paying the penalty set out in a notice of violation, the person named in the notice may, in the prescribed time and manner,
+	- **(a)** if the penalty is $5,000 or more, request to enter into a compliance agreement with the Minister that ensures the person’s compliance with the order or the provision to which the violation relates; or
+	- **(b)** request a review by the Minister of the acts or omissions that constitute the alleged violation or the amount of the penalty.
+
+**Deeming**
+
+- **(3)** If the person named in the notice of violation does not pay the penalty in the prescribed time and manner and does not exercise any right referred to in subsection (2) in the prescribed time and manner, they are deemed to have committed the violation identified in the notice.
+
+
+
+### Compliance Agreements
+
+
+**Compliance agreements**
+
+**39** 
+
+- **(1)** After considering a request under paragraph 38(2)(a), the Minister may enter into a compliance agreement, as described in that paragraph, with the person making the request on any terms and conditions that are satisfactory to the Minister. The terms and conditions may
+	- **(a)** include a provision for the giving of reasonable security, in a form and in an amount satisfactory to the Minister, as a guarantee that the person will comply with the compliance agreement; and
+	- **(b)** provide for the reduction, in whole or in part, of the penalty for the violation.
+
+**Deeming**
+
+- **(2)** A person who enters into a compliance agreement with the Minister is, on doing so, deemed to have committed the violation in respect of which the compliance agreement was entered into.
+
+**Notice of compliance**
+
+- **(3)** If the Minister is satisfied that a person who has entered into a compliance agreement has complied with it, the Minister shall cause a notice to that effect to be provided to the person, at which time
+	- **(a)** the proceedings commenced in respect of the violation under section 37 are ended; and
+	- **(b)** any security given by the person under the compliance agreement shall be returned to the person.
+
+**Notice of default**
+
+- **(4)** If the Minister is of the opinion that a person who has entered into a compliance agreement has not complied with it, the Minister shall cause a notice of default to be provided to the person to the effect that
+	- **(a)** instead of the penalty set out in the notice of violation in respect of which the compliance agreement was entered into, the person is liable to pay, in the prescribed time and manner, twice the amount of that penalty, and, for greater certainty, subsection 34(2) does not apply in respect of that amount; or
+	- **(b)** the security, if any, given by the person under the compliance agreement shall be forfeited to Her Majesty in right of Canada.
+
+**Effect of notice of default**
+
+- **(5)** Once provided with the notice of default, the person may not deduct from the amount set out in the notice any amount that they spent under the compliance agreement and
+	- **(a)** the person is liable to pay the amount set out in the notice; or
+	- **(b)** if the notice provides for the forfeiture of the security given under the compliance agreement, that security is forfeited to Her Majesty in right of Canada and the proceedings commenced in respect of the violation under section 37 are ended.
+
+**Effect of payment**
+
+- **(6)** If a person pays the amount set out in the notice of default in the prescribed time and manner,
+	- **(a)** the Minister shall accept the amount as complete satisfaction of the amount owing; and
+	- **(b)** the proceedings commenced in respect of the violation under section 37 are ended.
+
+
+
+**Refusal to enter into compliance agreement**
+
+**40** 
+
+- **(1)** If the Minister refuses to enter into a compliance agreement requested under paragraph 38(2)(a), the person who made the request is liable to pay the amount of the penalty in the prescribed time and manner.
+
+**Effect of payment**
+
+- **(2)** If a person pays the amount referred to in subsection (1),
+	- **(a)** they are deemed to have committed the violation in respect of which the payment is made;
+	- **(b)** the Minister shall accept the amount as complete satisfaction of the penalty; and
+	- **(c)** the proceedings commenced in respect of the violation under section 37 are ended.
+
+**Deeming**
+
+- **(3)** If a person does not pay the amount referred to in subsection (1) in the prescribed time and manner, they are deemed to have committed the violation identified in the notice of violation.
+
+
+
+### Review by the Minister
+
+
+**Review — facts**
+
+**41** 
+
+- **(1)** On completion of a review requested under paragraph 38(2)(b) with respect to the acts or omissions that constitute the alleged violation, the Minister shall determine whether the person who requested the review committed the violation. If the Minister determines that the person committed the violation but that the amount of the penalty was not established in accordance with the provisions of this Act and the regulations, the Minister shall correct the amount.
+
+**Violation not committed — effect**
+
+- **(2)** If the Minister determines under subsection (1) that the person who requested the review did not commit the violation, the proceedings commenced in respect of it under section 37 are ended.
+
+**Review — penalty**
+
+- **(3)** On completion of a review requested under paragraph 38(2)(b) with respect to the amount of the penalty, the Minister shall determine whether the amount of the penalty was established in accordance with the provisions of this Act and the regulations and, if not, the Minister shall correct the amount.
+
+**Notice of decision**
+
+- **(4)** The Minister shall cause a notice of any decision made under subsection (1) or (3) to be provided to the person who requested the review.
+
+**Payment**
+
+- **(5)** The person is liable to pay, in the prescribed time and manner, the amount of the penalty that is confirmed or corrected in the Minister’s decision made under subsection (1) or (3).
+
+**Effect of payment**
+
+- **(6)** If a person pays the amount referred to in subsection (5),
+	- **(a)** the Minister shall accept the amount as complete satisfaction of the penalty; and
+	- **(b)** the proceedings commenced in respect of the violation under section 37 are ended.
+
+**Written evidence and submissions**
+
+- **(7)** The Minister shall consider only written evidence and written submissions in determining whether a person committed a violation or whether the amount of a penalty was established in accordance with the provisions of this Act and the regulations.
+
+
+
+### Enforcement
+
+
+**Debts to Her Majesty**
+
+**42** 
+
+- **(1)** The following amounts constitute debts due to Her Majesty in right of Canada that may be recovered in the Federal Court :
+	- **(a)** the amount of a penalty, from the time the notice of violation setting out the penalty is provided;
+	- **(b)** every amount set out in a compliance agreement entered into with the Minister under subsection 39(1), from the time the compliance agreement is entered into;
+	- **(c)** the amount set out in a notice of default referred to in subsection 39(4), from the time the notice is provided; and
+	- **(d)** the amount of a penalty as set out in a decision of the Minister made under subsection 41(1) or (3), from the time the notice of that decision is provided.
+
+**Time limit**
+
+- **(2)** No proceedings to recover a debt referred to in subsection (1) may be commenced later than five years after the debt became payable.
+
+**Debt final**
+
+- **(3)** A debt referred to in subsection (1) is final and not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 38 to 41.
+
+
+
+**Certificate of default**
+
+**43** 
+
+- **(1)** Any debt referred to in subsection 42(1) in respect of which there is a default of payment, or the part of any such debt that has not been paid, may be certified by the Minister.
+
+**Judgments**
+
+- **(2)** On production to the Federal Court, the certificate shall be registered in that Court and, when registered, has the same force and effect, and all proceedings may be taken on the certificate, as if it were a judgment obtained in that Court for a debt of the amount specified in it and all reasonable costs and charges associated with the registration of the certificate.
+
+
+
+### Rules About Violations
+
+
+**Certain defences not available**
+
+**43.1** 
+
+- **(1)** A person named in a notice of violation does not have a defence by reason that the person
+	- **(a)** exercised due diligence to prevent the violation; or
+	- **(b)** reasonably and honestly believed in the existence of facts that, if true, would exonerate the person.
+
+**Common law principles**
+
+- **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
+
+
+
+**Burden of proof**
+
+**43.2** In every case when the facts of a violation are reviewed by the Minister, he or she shall determine, on a balance of probabilities, whether the person named in the notice of violation committed the violation identified in the notice.
+
+
+
+**Violation by corporate officers, etc.**
+
+**43.3** If a person other than an individual commits a violation under this Act, any of the person’s directors, officers, agents or mandataries who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to and liable for the violation whether or not the person who actually committed the violation is proceeded against under this Act.
+
+
+
+**Vicarious liability — acts of employees and agents**
+
+**43.4** A person is liable for a violation that is committed by any employee, agent or mandatary of the person acting in the course of the employee’s employment or the scope of the agent or mandatary’s authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against under this Act.
+
+
+
+**Continuing violation**
+
+**43.5** A violation that is continued on more than one day constitutes a separate violation in respect of each day on which it is continued.
+
+
+
+### Other Provisions
+
+
+**Evidence**
+
+**43.6** In any proceeding in respect of a violation or a prosecution for an offence, a notice of violation purporting to be issued under this Act is admissible in evidence without proof of the signature or official character of the person appearing to have signed the notice of violation.
+
+
+
+**Time limit**
+
+**43.7** Proceedings in respect of a violation shall not be commenced later than six months after the Minister becomes aware of the acts or omissions that constitute the alleged violation.
+
+
+
+**How act or omission may be proceeded with**
+
+**43.8** If an act or omission may be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+
+
+
+**Certification by Minister**
+
+**43.9** A document appearing to have been issued by the Minister, certifying the day on which the acts or omissions that constitute the alleged violation became known to the Minister, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and, in the absence of evidence to the contrary, is proof that the Minister became aware of the acts or omissions on that day.
+
+
+
+**Publication of information**
+
+**43.91** The Minister may, for the purpose of encouraging compliance with the provisions of this Act and the regulations, publish information about any violation after proceedings in respect of it are ended.
+
+
+
+
+
+######           — 2017, c. 7, s. 31
+
+**31** The portion of section 45.1 of the Act before paragraph (a) is replaced by the following :
+
+**Provision of information**
+
+**45.1** The Minister may, by order, require a person who is authorized under this Act to conduct activities in relation to controlled substances or precursors, who imports designated devices or who conducts other activities referred to in section 46.4 to provide the Minister, in the time and manner that the Minister specifies, with any information respecting those activities that the Minister considers necessary
+
+
+
+
+
+######           — 2017, c. 7, s. 32
+
+**32** Section 45.2 of the Act is replaced by the following :
+
+**Measures**
+
+**45.2** The Minister may, by order, require a person who is authorized under this Act to conduct activities in relation to controlled substances or precursors or who conducts activities referred to in section 46.4 in relation to designated devices, to take measures, in the time and manner that the Minister specifies, to prevent non-compliance with the provisions of this Act or the regulations or, if the Minister has reasonable grounds to believe that there is such non-compliance, to remedy it.
+
+
+
+
+
+######           — 2017, c. 7, s. 35
+
+**35** 
+
+- **(1)** Subsection 46.3(1) of the Act is replaced by the following :
+
+**Importation of designated device**
+
+**46.3** 
+
+- **(1)** No person shall import into Canada a designated device unless they register the importation with the Minister and the person imports it in accordance with the regulations.
+
+
+
+- **(2)** Subsection 46.3(2) of the Act is amended by striking out “and” at the end of paragraph (e), by adding “and” at the end of paragraph (f) and by adding the following after paragraph (f):
+
+- **(g)** any other prescribed information.
+
+
+
+
+
+######           — 2017, c. 7, s. 36
+
+**36** The Act is amended by adding the following before section 47:
+
+**Designated device — prescribed activity**
+
+**46.4** No person shall conduct a prescribed activity in relation to a designated device except in accordance with the regulations.
+
+
+
+
+
+######           — 2017, c. 7, ss. 40(12), (13)
+
+**40** 
+
+- **(12)** Subsection 55(1) of the Act is amended by striking out “and” at the end of paragraph (z.01) and by adding the following after that paragraph :
+
+- **(z.02)** governing, controlling, limiting, authorizing the importation into Canada, exportation from Canada, sale, provision, possession of or other dealing in any designated device or any class of designated devices;
+- **(z.03)** respecting the issuance, suspension, cancellation, duration and terms and conditions of any licence or class of licences or of any permit for the importation into Canada, exportation from Canada, sale, provision or possession of any designated device or class of designated devices; and
+
+
+
+- **(13)** Subsection 55(1) of the Act is amended by striking out “and” at the end of paragraph (z.03) and by adding the following after that paragraph :
+
+- **(z.04)** prescribing exportation from Canada, sale, provision, or possession of any designated device or any class of designated devices as activities for the purpose of section 46.4;
+- **(z.05)** respecting the circumstances in which, the conditions subject to which and the persons or classes of persons by whom any designated device or class of designated devices may be exported from Canada, sold, provided or possessed, as well as the means by which and the persons or classes of persons by whom such activities may be authorized;
+- **(z.06)** respecting the registration of activities in relation to any designated device or any class of designated devices for the purpose of section 46.4; and
+
+
+
+
+
+######           — 2018, c. 16, s. 199
+
+**199** 
+
+- **(1)** Subject to subsection (2), subsection 34(2) of the Act is replaced by the following:
+
+**Maximum penalty**
+
+- **(2)** The maximum penalty for a violation is $1,000,000.
+
+- **(2)** Subsection (1) applies only if Bill C-37, introduced in the 1st session of the 42nd Parliament and entitled An Act to amend the Controlled Drugs and Substances Act and to make related amendments to other Acts receives royal assent. If that Act receives royal assent, then subsection (1) comes into force on the first day on which both section 28 of that Act and this subsection are in force.
+
 
 
