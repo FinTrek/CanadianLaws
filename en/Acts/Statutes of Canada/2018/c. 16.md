@@ -1698,13 +1698,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** For the purposes of subsection (1), the information may be submitted by telephone or other means of telecommunication in accordance with section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), with any necessary modifications.
 
-**Execution in another province**
+**Execution of warrant**
 
-- **(3)** A justice may, if a place referred to in subsection (1) is in a province other than that in which the justice has jurisdiction, issue the warrant and it may be executed in the other province after it has been endorsed by a justice having jurisdiction in the other province.
+- **(3)** A warrant issued under subsection (1) may be executed at any place in Canada. Any peace officer who executes the warrant must have authority to act as a peace officer in the place where it is executed.
 
-**Effect of endorsement**
-
-- **(4)** An endorsement made on a warrant under subsection (3) is sufficient authority to any peace officer to whom it was originally directed and to all peace officers within the jurisdiction of the justice by whom it is endorsed to execute the warrant and to dispose of or otherwise deal with the things seized in accordance with the law.
+- **(4)** [Repealed, 2019, c. 25, s. 400.1]
 
 **Search of person and seizure**
 
@@ -1725,6 +1723,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Seizure of additional things**
 
 - **(8)** A peace officer who executes a warrant issued under subsection (1) or exercises powers under subsection (5) or (7) may seize, in addition to any cannabis, property or thing referred to in the warrant and in subsection (6), anything that the peace officer believes on reasonable grounds has been obtained by or used in the commission of an offence or that will afford evidence in respect of an offence.
+> 2018, c. 16, s. 872019, c. 25, s. 400.1
+
 
 
 
@@ -2863,7 +2863,7 @@ The property must not be disposed of or otherwise dealt with until the expiry of
 
 **Notice of adjusted amount**
 
-- **(2)** The amount of a fee that is subject to an adjustment rule remains unadjusted for the specified period unless, before the beginning of that period, the Minister publishes a notice in the Canada Gazette that specifies the adjusted amount and the manner in which it was determined.
+- **(2)** The amount of a fee that is subject to an adjustment rule remains unadjusted for the specified period unless, before the beginning of that period, the Minister publishes a notice in the [Canada Gazette](http://www.gazette.gc.ca/) that specifies the adjusted amount and the manner in which it was determined.
 
 
 
@@ -2871,7 +2871,7 @@ The property must not be disposed of or otherwise dealt with until the expiry of
 **[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
 **147** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee fixed under subsection 142(1).
-> 2018, c. 16, ss. 147, 192.
+> 2018, c. 16, ss. 147, 192
 
 
 
@@ -3797,5 +3797,15 @@ The property must not be disposed of or otherwise dealt with until the expiry of
 <td>subsection 13(1)</td>
 </tr>
 </table>
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — SOR/2019-207, s. 3
+
+**3** Item 2 of Schedule 4 to the Act is deleted.
+
 
 
