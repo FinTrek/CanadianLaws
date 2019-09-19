@@ -1679,13 +1679,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** La dénonciation visée au paragraphe (1) peut se faire par téléphone ou tout autre moyen de télécommunication, conformément à l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), compte tenu des adaptations nécessaires.
 
-**Exécution hors du ressort**
+**Exécution**
 
-- **(3)** Le juge de paix peut délivrer le mandat pour perquisition dans une province où il n’a pas compétence; le mandat y est alors exécutoire une fois visé par un juge de paix ayant compétence dans la province en question.
+- **(3)** Le mandat peut être exécuté en tout lieu au Canada. Tout agent de la paix qui exécute le mandat doit être habilité à agir à ce titre dans le lieu où celui-ci est exécuté.
 
-**Effet du visa**
-
-- **(4)** Le visa confère à tout agent de la paix à qui le mandat était adressé en premier lieu, ainsi qu’à ceux de la circonscription territoriale en cause, tant le pouvoir d’exécuter le mandat que celui de disposer, conformément au droit applicable, des choses saisies.
+- **(4)** [Abrogé, 2019, ch. 25, art. 400.1]
 
 **Fouilles et saisies**
 
@@ -1706,6 +1704,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Saisie d’autres choses**
 
 - **(8)** L’agent de la paix qui exécute le mandat ou qui exerce les pouvoirs visés aux paragraphes (5) ou (7) peut, outre ce qui est mentionné dans le mandat et au paragraphe (6), saisir toute chose dont il a des motifs raisonnables de croire qu’elle a été obtenue ou utilisée dans le cadre de la perpétration d’une infraction ou qu’elle servira de preuve à l’égard de celle-ci.
+> 2018, ch. 16, art. 872019, ch. 25, art. 400.1
+
 
 
 
@@ -2822,7 +2822,7 @@ En tout état de cause, il ne peut être disposé des biens qu’après le trent
 
 **Avis de rajustement**
 
-- **(2)** L’entrée en vigueur du prix rajusté est subordonnée à la publication par le ministre dans la Gazette du Canada, préalablement à la période d’application prévue dans l’arrêté en cause, d’un avis précisant le montant et le mode de calcul du rajustement.
+- **(2)** L’entrée en vigueur du prix rajusté est subordonnée à la publication par le ministre dans la [Gazette du Canada](http://www.gazette.gc.ca/), préalablement à la période d’application prévue dans l’arrêté en cause, d’un avis précisant le montant et le mode de calcul du rajustement.
 
 
 
@@ -2830,7 +2830,7 @@ En tout état de cause, il ne peut être disposé des biens qu’après le trent
 **[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
 **147** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux prix fixés en vertu du paragraphe 142(1).
-> 2018, ch. 16, art. 147 et 192.
+> 2018, ch. 16, art. 147 et 192
 
 
 
@@ -3756,5 +3756,15 @@ En tout état de cause, il ne peut être disposé des biens qu’après le trent
 <td>paragraphe 13(1)</td>
 </tr>
 </table>
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — DORS/2019-207, art. 3
+
+**3** L’article 2 de l’annexe 4 de la même loi est supprimé.
+
 
 
