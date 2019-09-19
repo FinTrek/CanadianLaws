@@ -122,7 +122,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Descriptive cross-references**
 
 - **(3)** If, in any provision of this Act, a reference to another provision of this Act or a provision of any other Act is followed by words in parentheses that are or purport to be descriptive of the subject-matter of the provision referred to, those words form no part of the provision in which they occur but are inserted for convenience of reference only.
-> 2002, c. 1, s. 2, c. 7, s. 274; 2012, c. 1, s. 167; 2014, c. 2, s. 52.
+> 2002, c. 1, s. 2, c. 7, s. 274; 2012, c. 1, s. 167; 2014, c. 2, s. 52
 
 
 
@@ -161,7 +161,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Act to be liberally construed**
 
 - **(2)** This Act shall be liberally construed so as to ensure that young persons are dealt with in accordance with the principles set out in subsection (1).
-> 2002, c. 1, s. 3; 2012, c. 1, s. 168.
+> 2002, c. 1, s. 3; 2012, c. 1, s. 168
 
 
 
@@ -356,7 +356,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Powers of a judge of a superior court**
 
 - **(7)** A judge of a superior court of criminal jurisdiction, when deemed to be a youth justice court judge for the purpose of a proceeding, retains the jurisdiction and powers of a superior court of criminal jurisdiction.
-> 2002, c. 1, s. 14; 2015, c. 20, ss. 32, 36, c. 29, s. 14; 2019, c. 13, s. 159.
+> 2002, c. 1, s. 14; 2015, c. 20, ss. 32, 36, c. 29, s. 142019, c. 13, s. 159
 
 
 
@@ -482,7 +482,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Orders under section 810 of [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
 - **(2)** Despite subsection 14(2), a justice has jurisdiction to make an order under section 810 (recognizance — fear of injury or damage) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in respect of a young person. If the young person fails or refuses to enter into a recognizance referred to in that section, the justice shall refer the matter to a youth justice court.
-> 2002, c. 1, s. 20; 2019, c. 13, s. 160.
+> 2002, c. 1, s. 202019, c. 13, s. 160
 
 
 
@@ -610,7 +610,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 **Exception for persons over the age of twenty**
 
 - **(11)** Subsections (4) to (9) do not apply to a person who is alleged to have committed an offence while a young person, if the person has attained the age of twenty years at the time of his or her first appearance before a youth justice court in respect of the offence; however, this does not restrict any rights that a person has under the law applicable to adults.
-> 2002, c. 1, s. 25; 2019, c. 13, s. 161.
+> 2002, c. 1, s. 252019, c. 13, s. 161
 
 
 
@@ -749,7 +749,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 **Onus**
 
 - **(3)** The onus of satisfying the youth justice court judge or the justice as to the matters referred to in subsection (2) is on the Attorney General.
-> 2002, c. 1, s. 29; 2012, c. 1, s. 169; 2019, c. 13, s. 163.
+> 2002, c. 1, s. 29; 2012, c. 1, s. 1692019, c. 13, s. 163
 
 
 
@@ -794,7 +794,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 **Determination by provincial authority of place of detention**
 
 - **(9)** In any province for which the lieutenant governor in council has designated a person or a group of persons who may determine the place where a young person who has been arrested may be detained in accordance with this section, no young person may be so detained in a place other than the one so determined.
-> 2002, c. 1, s. 30; 2019, c. 13, s. 164.
+> 2002, c. 1, s. 302019, c. 13, s. 164
 
 
 
@@ -870,7 +870,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 **If youth justice court not satisfied**
 
 - **(5)** If the youth justice court is not satisfied that a young person understands the matters set out in subsection (3), the court shall direct that the young person be represented by counsel.
-> 2002, c. 1, s. 32, c. 13, s. 91; 2012, c. 1, s. 170.
+> 2002, c. 1, s. 32, c. 13, s. 91; 2012, c. 1, s. 170
 
 
 
@@ -1058,7 +1058,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 
 **Appeals heard together**
 
-- **(4)** An order under subsection 72(1) or (1.1) (adult or youth sentence), 75(2) (lifting of ban on publication) or 76(1) (placement when subject to adult sentence) may be appealed as part of the sentence and, unless the court to which the appeal is taken otherwise orders, if more than one of these is appealed they must be part of the same appeal proceeding.
+- **(4)** An order under subsection 72(1) or (1.1) (adult or youth sentence) or 76(1) (placement when subject to adult sentence) may be appealed as part of the sentence and, unless the court to which the appeal is taken otherwise orders, if more than one of these is appealed they must be part of the same appeal proceeding.
 
 **Appeals for summary conviction offences**
 
@@ -1087,7 +1087,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 **No appeal from youth sentence on review**
 
 - **(11)** No appeal lies from a youth sentence under section 59 or any of sections 94 to 96.
-> 2002, c. 1, s. 37; 2012, c. 1, s. 171.
+> 2002, c. 1, s. 37; 2012, c. 1, s. 1712019, c. 25, s. 370
 
 
 
@@ -1132,7 +1132,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 	- **(d)** the time spent in detention by the young person as a result of the offence;
 	- **(e)** the previous findings of guilt of the young person; and
 	- **(f)** any other aggravating and mitigating circumstances related to the young person or the offence that are relevant to the purpose and principles set out in this section.
-> 2002, c. 1, s. 38; 2012, c. 1, s. 172.
+> 2002, c. 1, s. 38; 2012, c. 1, s. 172
 
 
 
@@ -1182,7 +1182,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 **Reasons**
 
 - **(9)** If a youth justice court imposes a youth sentence that includes a custodial portion, the court shall state the reasons why it has determined that a non-custodial sentence is not adequate to achieve the purpose set out in subsection 38(1), including, if applicable, the reasons why the case is an exceptional case under paragraph (1)(d).
-> 2002, c. 1, s. 39; 2012, c. 1, s. 173.
+> 2002, c. 1, s. 39; 2012, c. 1, s. 173
 
 
 
@@ -1396,7 +1396,7 @@ The periods in custody and under supervision in the community may be changed if 
 **Sentence continues when adult**
 
 - **(17)** Subject to sections 89, 92 and 93 (provisions related to placement in adult facilities) of this Act and section 743.5 (transfer of jurisdiction) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a youth sentence imposed on a young person continues in effect in accordance with its terms after the young person becomes an adult.
-> 2002, c. 1, s. 42; 2012, c. 1, s. 174.
+> 2002, c. 1, s. 42; 2012, c. 1, s. 174
 
 
 
@@ -1812,13 +1812,9 @@ The periods in custody and under supervision in the community may be changed if 
 
 - **(1)** The Attorney General may, before evidence is called as to sentence or, if no evidence is called, before submissions are made as to sentence, make an application to the youth justice court for an order that a young person is liable to an adult sentence if the young person is or has been found guilty of an offence for which an adult is liable to imprisonment for a term of more than two years and that was committed after the young person attained the age of 14 years.
 
-**Obligation**
+- **(1.1)** [Repealed, 2019, c. 25, s. 376]
 
-- **(1.1)** The Attorney General must consider whether it would be appropriate to make an application under subsection (1) if the offence is a serious violent offence and was committed after the young person attained the age of 14 years. If, in those circumstances, the Attorney General decides not to make an application, the Attorney General shall advise the youth justice court before the young person enters a plea or with leave of the court before the commencement of the trial.
-
-**Order fixing age**
-
-- **(1.2)** The lieutenant governor in council of a province may by order fix an age greater than 14 years but not greater than 16 years for the purpose of subsection (1.1).
+- **(1.2)** [Repealed, 2019, c. 25, s. 376]
 
 **Notice of intention to seek adult sentence**
 
@@ -1829,7 +1825,7 @@ The periods in custody and under supervision in the community may be changed if 
 - **(3)** A notice of intention to seek an adult sentence given in respect of an offence is notice in respect of any included offence of which the young person is found guilty for which an adult is liable to imprisonment for a term of more than two years.
 
 - **(4) and (5)** [Repealed, 2012, c. 1, s. 176]
-> 2002, c. 1, s. 64; 2012, c. 1, s. 176.
+> 2002, c. 1, s. 64; 2012, c. 1, s. 1762019, c. 25, s. 376
 
 
 
@@ -1906,7 +1902,7 @@ The periods in custody and under supervision in the community may be changed if 
 - **(9)** Proceedings under this Act before a judge without a jury or a court composed of a judge and jury or, in Nunavut, a judge of the Nunavut Court of Justice acting as a youth justice court, with or without a jury, as the case may be, shall be conducted in accordance with the provisions of Parts XIX (indictable offences — trial without jury) and XX (procedure in jury trials and general provisions) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), with any modifications that the circumstances require, except that
 	- **(a)** the provisions of this Act respecting the protection of privacy of young persons prevail over the provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); and
 	- **(b)** the young person is entitled to be represented in court by counsel if the young person is removed from court in accordance with subsection 650(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2002, c. 1, s. 67, c. 13, s. 91; 2012, c. 1, s. 178; 2019, c. 13, s. 166.
+> 2002, c. 1, s. 67, c. 13, s. 91; 2012, c. 1, s. 1782019, c. 13, s. 166
 
 
 
@@ -1922,7 +1918,7 @@ The periods in custody and under supervision in the community may be changed if 
 **Included offences**
 
 - **(2)** If the Attorney General has given notice under subsection 64(2) of the intention to seek an adult sentence and the young person is found guilty of an included offence for which an adult is liable to imprisonment for a term of more than two years, committed after he or she has attained the age of 14 years, the Attorney General may make an application under subsection 64(1) (application for adult sentence).
-> 2002, c. 1, s. 69; 2012, c. 1, s. 180.
+> 2002, c. 1, s. 69; 2012, c. 1, s. 180
 
 
 
@@ -1935,7 +1931,7 @@ The periods in custody and under supervision in the community may be changed if 
 **Hearing — adult sentences**
 
 **71** The youth justice court shall, at the commencement of the sentencing hearing, hold a hearing in respect of an application under subsection 64(1) (application for adult sentence), unless the court has received notice that the application is not opposed. Both parties and the parents of the young person shall be given an opportunity to be heard at the hearing.
-> 2002, c. 1, s. 71; 2012, c. 1, s. 182.
+> 2002, c. 1, s. 71; 2012, c. 1, s. 182
 
 
 
@@ -1968,7 +1964,7 @@ The periods in custody and under supervision in the community may be changed if 
 **Appeal**
 
 - **(5)** For the purposes of an appeal in accordance with section 37, an order under subsection (1) or (1.1) is part of the sentence.
-> 2002, c. 1, s. 72; 2012, c. 1, s. 183.
+> 2002, c. 1, s. 72; 2012, c. 1, s. 183
 
 
 
@@ -1983,7 +1979,7 @@ The periods in custody and under supervision in the community may be changed if 
 **Court must impose youth sentence**
 
 - **(2)** When the youth justice court makes an order under subsection 72(1.1) in respect of a young person, the court shall, on a finding of guilt, impose a youth sentence on the young person.
-> 2002, c. 1, s. 73; 2012, c. 1, s. 184.
+> 2002, c. 1, s. 73; 2012, c. 1, s. 184
 
 
 
@@ -2005,26 +2001,7 @@ The periods in custody and under supervision in the community may be changed if 
 
 
 
-
-**Decision regarding lifting of publication ban**
-
-**75** 
-
-- **(1)** When the youth justice court imposes a youth sentence on a young person who has been found guilty of a violent offence, the court shall decide whether it is appropriate to make an order lifting the ban on publication of information that would identify the young person as having been dealt with under this Act as referred to in subsection 110(1).
-
-**Order**
-
-- **(2)** A youth justice court may order a lifting of the ban on publication if the court determines, taking into account the purpose and principles set out in sections 3 and 38, that the young person poses a significant risk of committing another violent offence and the lifting of the ban is necessary to protect the public against that risk.
-
-**Onus**
-
-- **(3)** The onus of satisfying the youth justice court as to the appropriateness of lifting the ban is on the Attorney General.
-
-**Appeals**
-
-- **(4)** For the purposes of an appeal in accordance with section 37, an order under subsection (2) is part of the sentence.
-> 2002, c. 1, s. 75; 2012, c. 1, s. 185.
-
+**75** [Repealed, 2019, c. 25, s. 377]
 
 
 
@@ -2046,9 +2023,9 @@ The periods in custody and under supervision in the community may be changed if 
 
 - **(3)** Before making an order under subsection (1), the youth justice court shall give the young person, a parent of the young person, the Attorney General, the provincial director and representatives of the provincial and federal correctional systems an opportunity to be heard.
 
-**Report necessary**
+**Report**
 
-- **(4)** Before making an order under subsection (1), the youth justice court shall require that a report be prepared for the purpose of assisting the court.
+- **(4)** Before making an order under subsection (1), the youth justice court may require that a report be prepared for the purpose of assisting the court.
 
 **Appeals**
 
@@ -2072,7 +2049,7 @@ The periods in custody and under supervision in the community may be changed if 
 **Limit — age twenty**
 
 - **(9)** No young person shall remain in a youth custody facility under this section after the young person attains the age of twenty years, unless the youth justice court that makes the order under subsection (1) or reviews the placement under subsection (6) is satisfied that remaining in the youth custody facility would be in the best interests of the young person and would not jeopardize the safety of others.
-> 2002, c. 1, s. 76; 2012, c. 1, s. 186.
+> 2002, c. 1, s. 76; 2012, c. 1, s. 1862019, c. 25, s. 378
 
 
 
@@ -2093,7 +2070,7 @@ The periods in custody and under supervision in the community may be changed if 
 - **(3)** The appropriate parole board for the purposes of this section is
 	- **(a)** if subsection 112(1) of the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md) would apply with respect to the young person but for the fact that the young person was ordered into a youth custody facility, the parole board mentioned in that subsection; and
 	- **(b)** in any other case, the Parole Board of Canada.
-> 2002, c. 1, s. 77; 2012, c. 1, s. 160.
+> 2002, c. 1, s. 77; 2012, c. 1, s. 160
 
 
 
@@ -2129,7 +2106,7 @@ The periods in custody and under supervision in the community may be changed if 
 **Procedure for application or notice**
 
 **81** An application or a notice to the court under section 64 or 76 must be made or given orally, in the presence of the other party, or in writing with a copy served personally on the other party.
-> 2002, c. 1, s. 81; 2012, c. 1, s. 187.
+> 2002, c. 1, s. 81; 2012, c. 1, s. 187
 
 
 
@@ -2166,7 +2143,7 @@ The periods in custody and under supervision in the community may be changed if 
 - **(4)** A finding of guilt under this Act is not a previous conviction for the purposes of any offence under any Act of Parliament for which a greater punishment is prescribed by reason of previous convictions, except for
 	- **(a)** [Repealed, 2012, c. 1, s. 188]
 	- **(b)** the purpose of determining the adult sentence to be imposed.
-> 2002, c. 1, s. 82; 2012, c. 1, ss. 156, 160, 188.
+> 2002, c. 1, s. 82; 2012, c. 1, ss. 156, 160, 188
 
 
 
@@ -2922,8 +2899,8 @@ For greater certainty, an order under this subsection may be made without a hear
 **Limitation**
 
 - **(2)** Subsection (1) does not apply
-	- **(a)** in a case where the information relates to a young person who has received an adult sentence;
-	- **(b)** in a case where the information relates to a young person who has received a youth sentence for a violent offence and the youth justice court has ordered a lifting of the publication ban under subsection 75(2); and
+	- **(a)** in a case where the information relates to a young person who has received an adult sentence; or
+	- **(b)** [Repealed, 2019, c. 25, s. 379]
 	- **(c)** in a case where the publication of information is made in the course of the administration of justice, if it is not the purpose of the publication to make the information known in the community.
 
 **Exception**
@@ -2943,7 +2920,7 @@ For greater certainty, an order under this subsection may be made without a hear
 **Application for leave to publish**
 
 - **(6)** The youth justice court may, on the application of a young person referred to in subsection (1), make an order permitting the young person to publish information that would identify him or her as having been dealt with under this Act or the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, if the court is satisfied that the publication would not be contrary to the young person’s best interests or the public interest.
-> 2002, c. 1, s. 110; 2012, c. 1, s. 189.
+> 2002, c. 1, s. 110; 2012, c. 1, s. 1892019, c. 25, s. 379
 
 
 
@@ -3020,7 +2997,7 @@ For greater certainty, an order under this subsection may be made without a hear
 **Records held by R.C.M.P.**
 
 - **(3)** The Royal Canadian Mounted Police shall keep the records provided under subsection (2) in the central repository that the Commissioner of the Royal Canadian Mounted Police may, from time to time, designate for the purpose of keeping criminal history files or records of offenders or keeping records for the identification of offenders.
-> 2002, c. 1, s. 115; 2012, c. 1, s. 190.
+> 2002, c. 1, s. 115; 2012, c. 1, s. 190
 
 
 
@@ -3162,7 +3139,7 @@ For greater certainty, an order under this subsection may be made without a hear
 - **(10)** Despite anything in this Act, when a young person is found guilty of an offence that results in a prohibition order being made, and the order is still in force at the end of the applicable period for which access to a record kept in respect of the order may be given under subsection (2),
 	- **(a)** the record kept by the Royal Canadian Mounted Police pursuant to subsection 115(3) may be disclosed only to establish the existence of the order for purposes of law enforcement; and
 	- **(b)** the record referred to in section 114 that is kept by the youth justice court may be disclosed only to establish the existence of the order in any offence involving a breach of the order.
-> 2002, c. 1, s. 119; 2012, c. 1, ss. 157, 191(F); 2019, c. 13, s. 167.
+> 2002, c. 1, s. 119; 2012, c. 1, ss. 157, 191(F)2019, c. 13, s. 167
 
 
 
@@ -3210,7 +3187,7 @@ For greater certainty, an order under this subsection may be made without a hear
 - **(6)** If, during the period of access to a record under subsection (3), the young person is convicted of an additional offence set out in the schedule, committed when he or she was an adult,
 	- **(a)** this Part no longer applies to the record and the record shall be dealt with as a record of an adult and may be included on the automated criminal conviction records retrieval system maintained by the Royal Canadian Mounted Police; and
 	- **(b)** for the purposes of the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), the finding of guilt in respect of the offence for which the record is kept is deemed to be a conviction.
-> 2002, c. 1, s. 120; 2012, c. 1, ss. 158, 192.
+> 2002, c. 1, s. 120; 2012, c. 1, ss. 158, 192
 
 
 
@@ -3327,7 +3304,7 @@ For greater certainty, an order under this subsection may be made without a hear
 **126** When records originally kept under sections 114 to 116 are under the custody or control of the Librarian and Archivist of Canada or the archivist for any province, that person may disclose any information contained in the records to any other person if
 - **(a)** a youth justice court judge is satisfied that the disclosure is desirable in the public interest for research or statistical purposes; and
 - **(b)** the person to whom the information is disclosed undertakes not to disclose the information in any form that could reasonably be expected to identify the young person to whom it relates.
-> 2002, c. 1, s. 126; 2004, c. 11, s. 48.
+> 2002, c. 1, s. 126; 2004, c. 11, s. 48
 
 
 
@@ -3392,7 +3369,7 @@ For greater certainty, an order under this subsection may be made without a hear
 - **(7)** For the purposes of subsections (2) and (3), ***destroy***, in respect of a record, means
 	- **(a)** to shred, burn or otherwise physically destroy the record, in the case of a record other than a record in electronic form; and
 	- **(b)** to delete, write over or otherwise render the record inaccessible, in the case of a record in electronic form.
-> 2002, c. 1, s. 128; 2004, c. 11, s. 49; 2012, c. 1, s. 159.
+> 2002, c. 1, s. 128; 2004, c. 11, s. 49; 2012, c. 1, s. 159
 
 
 
@@ -3664,7 +3641,7 @@ is guilty of an indictable offence and liable to imprisonment for a term not exc
 **Definition of Review Board**
 
 - **(12)** In this section, ***Review Board*** has the meaning assigned by section 672.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2002, c. 1, s. 141; 2005, c. 22, s. 63.
+> 2002, c. 1, s. 141; 2005, c. 22, s. 63
 
 
 
@@ -3694,7 +3671,7 @@ is guilty of an indictable offence and liable to imprisonment for a term not exc
 **Costs**
 
 - **(5)** Section 809 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of proceedings under this Act.
-> 2002, c. 1, s. 142; 2015, c. 20, ss. 33, 36, c. 29, s. 15.
+> 2002, c. 1, s. 142; 2015, c. 20, ss. 33, 36, c. 29, s. 15
 
 
 
@@ -3973,7 +3950,7 @@ is guilty of an indictable offence and liable to imprisonment for a term not exc
 **161** 
 
 - **(1)** A person referred to in section 159 who is found guilty of an offence or delinquency, other than a person convicted of an offence in ordinary court, as defined in subsection 2(1) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, shall be sentenced under this Act, except that
-	- **(a)** paragraph 110(2)(b) does not apply in respect of the offence or delinquency; and
+	- **(a)** [Repealed, 2019, c. 25, s. 382]
 	- **(b)** paragraph 42(2)(r) applies in respect of the offence or delinquency only if the young person consents to its application.
 The provisions of this Act applicable to sentences imposed under section 42 apply in respect of the sentence.
 
@@ -3984,6 +3961,8 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 **Review of sentence**
 
 - **(3)** For greater certainty, for the purpose of determining when the sentence is reviewed under section 94, the relevant date is the one on which the disposition came into force under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985.
+> 2002, c. 1, s. 1612019, c. 25, s. 382
+
 
 
 
@@ -3991,7 +3970,7 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 **Commencement of proceedings**
 
 **162** For the purposes of sections 158 and 159, proceedings are commenced by the laying of an information or indictment.
-> 2002, c. 1, s. 162; 2012, c. 1, s. 194.
+> 2002, c. 1, s. 162; 2012, c. 1, s. 194
 
 
 
@@ -4152,6 +4131,362 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 - **(e)** section 14 (use of young person).
 
 
-> 2002, c. 1, Sch.; 2014, c. 25, s. 43; 2018, c. 16, s. 184; 2019, c. 25, s. 383.
+> 2002, c. 1, Sch.; 2014, c. 25, s. 43; 2018, c. 16, s. 1842019, c. 25, s. 383
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 2012, c. 1, par. 163(c)
+
+
+**Pending applications — references in other legislation**
+
+**163** A reference to an application for a record suspension in the following provisions, as enacted by this Part, is deemed also to be a reference to an application for a pardon that is not finally disposed of on the day on which this section comes into force:
+- **(c)** paragraph 82(1)(d) and subparagraphs 119(1)(n)(iii) and 120(4)(c)(iii) of the Youth Criminal Justice Act.
+
+
+
+######           — 2012, c. 1, par. 165(f)
+
+
+**Pardons in effect — references in other legislation**
+
+**165** A reference to a record suspension in the following provisions, as enacted by this Part, is deemed also to be a reference to a pardon that is granted or issued under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md):
+- **(f)** subsection 128(5) of the Youth Criminal Justice Act.
+
+
+
+######           — 2012, c. 1, s. 195
+
+
+**Offences committed before this section in force**
+
+**195** Any person who, before the coming into force of this section, while he or she was a young person, committed an offence in respect of which no proceedings were commenced before that coming into force shall be dealt with under the Youth Criminal Justice Act as amended by this Part as if the offence occurred after that coming into force, except that
+- **(a)** the definition violent offence in subsection 2(1) of the Youth Criminal Justice Act, as enacted by subsection 167(3), does not apply in respect of the offence;
+- **(b)** paragraph 3(1)(a) of that Act, as enacted by subsection 168(1), does not apply in respect of the offence;
+- **(c)** paragraph 38(2)(f) of that Act, as enacted by section 172, does not apply in respect of the offence;
+- **(d)** paragraph 39(1)(c) of that Act, as enacted by section 173, does not apply in respect of the offence; and
+- **(e)** section 75 of that Act, as enacted by section 185, does not apply in respect of the offence.
+
+
+
+######           — 2014, c. 25, s. 45.1
+
+
+**Review**
+
+**45.1** 
+
+- **(1)** Within five years after this section comes into force, a comprehensive review of the provisions and operation of this Act shall be undertaken by such committee of the House of Commons as may be designated or established by the House for that purpose.
+
+**Report**
+
+- **(2)** The committee referred to in subsection (1) shall, within a year after a review is undertaken pursuant to that subsection or within such further time as the House may authorize, submit a report on the review to the Speaker of the House, including a statement of any changes the committee recommends.
+
+
+
+######           — 2019, c. 25, s. 384
+
+
+**Subsection 59(10)**
+
+**384** Subsection 59(10) of the Youth Criminal Justice Act does not apply to the sentence for an offence committed before the coming into force of that subsection.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2019, c. 25, s. 361
+
+**361** The Youth Criminal Justice Act is amended by adding the following after section 4:
+
+**Certain offences — extrajudicial measures deemed adequate**
+
+**4.1** 
+
+- **(1)** Extrajudicial measures are presumed to be adequate to hold a young person accountable for a failure or refusal referred to in section 137 and for a failure referred to in section 496 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) unless
+	- **(a)** the young person has a history of repetitive failures or refusals; or
+	- **(b)** the young person’s failure or refusal caused harm, or a risk of harm, to the safety of the public.
+
+**Certain offences — various measures**
+
+- **(2)** In the cases referred to in paragraphs (1)(a) and (b),
+	- **(a)** extrajudicial measures should be used if they are adequate to hold the young person accountable for the failure or refusal; and
+	- **(b)** if the use of extrajudicial measures would not be adequate under paragraph (a), but issuing an appearance notice under section 496 (judicial referral hearing) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or making an application for review of the youth sentence referred to in section 59(1) as an alternative to proceeding by charge would be adequate, then the applicable alternative should be used.
+
+
+
+
+
+######           — 2019, c. 25, s. 362
+
+**362** Subsection 6(1) of the Act is replaced by the following:
+
+**Warnings, cautions and referrals**
+
+**6** 
+
+- **(1)** A police officer shall, before starting judicial proceedings or taking any other measures under this Act against a young person alleged to have committed an offence, consider whether it would be sufficient, having regard to the principles set out in sections 4 and 4.1, to take no further action, warn the young person, administer a caution, if a program has been established under section 7, or, with the consent of the young person, refer the young person to a program or agency in the community that may assist the young person not to commit offences.
+
+
+
+
+
+######           — 2019, c. 25, s. 363
+
+**363** The Act is amended by adding the following after section 24:
+
+### Certain Offences — Review of Charges by Attorney General
+
+
+**Review required**
+
+**24.1** If a charge for which an appearance notice, summons or release order was issued, or an undertaking was given, is dismissed, withdrawn or stayed, or the young person is acquitted of that charge, the Attorney General must review any charge pending against the young person under any of subsections 145(2) to (5) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for failure to comply with the appearance notice, summons, release order or undertaking in order to determine whether the prosecution of the charge should proceed.
+
+
+
+
+
+######           — 2019, c. 25, s. 364
+
+**364** 
+
+- **(1)** Subsection 25(2) of the Act is replaced by the following:
+
+**Arresting officer to advise young person of right to counsel**
+
+- **(2)** Every young person who is arrested or detained shall, on being arrested or detained, be advised without delay by the arresting officer of the right to retain and instruct counsel, and be given an opportunity to obtain counsel.
+
+- **(2)** Paragraphs 25(9)(c) and (d) of the Act are replaced by the following:
+
+- **(c)** any undertaking entered into before a peace officer by the young person;
+
+
+
+
+
+######           — 2019, c. 25, s. 365
+
+**365** Subsections 26(1) and (2) of the Act are replaced by the following:
+
+**Notice in case of arrest and detained**
+
+**26** 
+
+- **(1)** Subject to subsection (4), if a young person is arrested and detained in custody pending their appearance in court, a peace officer shall, as soon as possible after the young person is detained, give or cause to be given to a parent of the young person, orally or in writing, notice of the arrest stating the place of detention and the reason for the arrest.
+
+**Notice in other cases**
+
+- **(2)** Subject to subsection (4), if a summons or an appearance notice is issued in respect of a young person, the person who issued the summons or appearance notice, or, if a young person is released on an undertaking, a peace officer, shall, as soon as possible, give or cause to be given to a parent of the young person notice in writing of the summons, appearance notice or undertaking.
+
+
+
+
+
+######           — 2019, c. 25, s. 367
+
+**367** The Act is amended by adding the following after section 28:
+
+**Substitute for social measures prohibited**
+
+**28.1** A peace officer, youth justice court judge or justice shall not detain a young person in custody, or impose a condition in respect of a young person’s release by including it in an undertaking or release order, as a substitute for appropriate child protection, mental health or other social measures.
+
+
+
+
+
+######           — 2019, c. 25, s. 368
+
+**368** Subsection 29(1) of the Act is replaced by the following:
+
+**Release order with conditions**
+
+**29** 
+
+- **(1)** A youth justice court judge or a justice may impose a condition set out in subsections 515(4) to (4.2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in respect of a release order only if they are satisfied that
+	- **(a)** the condition is necessary to ensure the young person’s attendance in court or for the protection or safety of the public, including any victim of or witness to the offence;
+	- **(b)** the condition is reasonable having regard to the circumstances of the offending behaviour; and
+	- **(c)** the young person will reasonably be able to comply with the condition.
+
+
+
+
+
+######           — 2019, c. 25, s. 369
+
+**369** The Act is amended by adding the following after section 30:
+
+**Review of detention — 30-day period**
+
+**30.1** For the purposes of section 525 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) with respect to a young person who has been charged with an offence for which they are being prosecuted in proceedings by way of summary conviction, every reference in that provision to “90 days” or “90-day” is to be read and construed as a reference to “30 days” or “30-day” respectively.
+
+
+
+
+
+######           — 2019, c. 25, s. 370(2)
+
+
+****
+
+**370** 
+
+- **(2)** Subsection 37(11) of the Act is replaced by the following:
+
+**No appeal from youth sentence on review**
+
+- **(11)** No appeal lies from a youth sentence under section 59 — other than subsection 59(10) — or under any of sections 94 to 96.
+
+
+
+######           — 2019, c. 25, s. 371
+
+**371** Subsection 38(2) of the Act is amended by striking out “and” at the end of paragraph (e) and by adding the following after paragraph (e):
+
+- **(e.1)** if this Act provides that a youth justice court may impose conditions as part of the sentence, a condition may be imposed only if
+	- **(i)** the imposition of the condition is necessary to achieve the purpose set out in subsection 38(1),
+	- **(ii)** the young person will reasonably be able to comply with the condition, and
+	- **(iii)** the condition is not used as a substitute for appropriate child protection, mental health or other social measures; and
+
+
+
+
+
+######           — 2019, c. 25, s. 372
+
+**372** Paragraph 39(1)(b) of the Act is replaced by the following:
+
+- **(b)** the young person has previously been found guilty of an offence under section 137 in relation to more than one sentence and, if the court is imposing a sentence for an offence under subsections 145(2) to (5) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 137, the young person caused harm, or a risk of harm, to the safety of the public in committing that offence;
+
+
+
+
+
+######           — 2019, c. 25, s. 373
+
+**373** 
+
+- **(1)** Paragraph 42(2)(c) of the Act is replaced by the following:
+
+- **(c)** by order direct that the young person be discharged on any conditions imposed by the court in accordance with paragraph 38(2)(e.1) and may require the young person to report to and be supervised by the provincial director;
+
+
+
+- **(2)** Paragraph 42(2)(s) of the Act is replaced by the following:
+
+- **(s)** impose on the young person, in accordance with paragraph 38(2)(e.1), any other conditions that the court considers appropriate.
+
+
+
+
+
+######           — 2019, c. 25, s. 374
+
+**374** 
+
+- **(1)** Subsection 55(1) of the Act is replaced by the following:
+
+**Condition that must appear in orders**
+
+**55** 
+
+- **(1)** The youth justice court shall prescribe, as a condition of an order made under paragraph 42(2)(k) or (l), that the young person appear before the youth justice court when required by the court to do so.
+
+
+
+- **(2)** The portion of subsection 55(2) of the Act before paragraph (a) is replaced by the following:
+
+**Conditions that may appear in orders**
+
+- **(2)** A youth justice court may, in accordance with paragraph 38(2)(e.1), prescribe as conditions of an order made under paragraph 42(2)(k) or (l) that a young person do one or more of the following:
+
+- **(3)** Paragraph 55(2)(h) of the Act is replaced by the following:
+
+- **(h)** comply with any other conditions set out in the order that the youth justice court considers appropriate; and
+
+
+
+
+
+######           — 2019, c. 25, s. 375
+
+**375** 
+
+- **(1)** Subsection 59(1) of the Act is replaced by the following:
+
+**Review of youth sentences not involving custody**
+
+**59** 
+
+- **(1)** When a youth justice court has imposed a youth sentence in respect of a young person, other than a youth sentence under paragraph 42(2)(n), (o), (q) or (r), the youth justice court shall, on the application of the young person, the young person’s parent, the Attorney General or the provincial director, review the youth sentence if the court is satisfied that there are grounds for a review under subsection (2).
+
+
+
+- **(2)** Subsection 59(8) of the Act is replaced by the following:
+
+**New youth sentence not to be more onerous**
+
+- **(8)** Subject to subsections (9) and (10), when a youth sentence imposed in respect of a young person is reviewed under this section, no youth sentence imposed under subsection (7) shall, without the consent of the young person, be more onerous than the remainder of the youth sentence reviewed.
+
+- **(3)** Section 59 of the Act is amended by adding the following after subsection (9):
+
+**Exception — paragraph (2)(c)**
+
+- **(10)** In the case of a review of a youth sentence made on the ground set out in paragraph (2)(c), the youth justice court may, in accordance with paragraph 38(2)(e.1), impose on the young person additional or more onerous conditions if it is of the opinion that the conditions
+	- **(a)** would better protect against the risk of harm to the safety of the public that the young person might otherwise present; or
+	- **(b)** would assist the young person to comply with any conditions previously imposed as part of that sentence.
+
+
+
+######           — 2019, c. 25, s. 380
+
+**380** Section 134 of the Act is replaced by the following:
+
+**Applications for forfeiture**
+
+**134** Applications for the forfeiture of amounts set out in undertakings, release orders or recognizances binding young persons shall be made to the youth justice court.
+
+
+
+
+
+######           — 2019, c. 25, s. 381
+
+**381** 
+
+- **(1)** Subsections 135(1) to (3) of the Act are replaced by the following:
+
+**Proceedings in case of default**
+
+**135** 
+
+- **(1)** If an undertaking, release order or recognizance binding a young person has been endorsed with a certificate under subsection 770(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a youth justice court judge shall
+	- **(a)** on the request of the Attorney General, fix a time and place for the hearing of an application for the forfeiture of the amount set out in the undertaking, release order or recognizance; and
+	- **(b)** after fixing a time and place for the hearing, cause to be sent by confirmed delivery service, not less than 10 days before the time so fixed, to each principal and surety named in the undertaking, release order or recognizance, directed to their latest known address, a notice requiring them to appear at the time and place fixed by the judge to show cause why the amount set out in the undertaking, release order or recognizance should not be forfeited.
+
+**Order for forfeiture**
+
+- **(2)** When subsection (1) is complied with, the youth justice court judge may, after giving the parties an opportunity to be heard, in the judge’s discretion grant or refuse the application and make any order with respect to the forfeiture of the amount that the judge considers proper.
+
+**Judgment debtors of the Crown**
+
+- **(3)** If, under subsection (2), a youth justice court judge orders the forfeiture of the amount, the principal and their sureties become judgment debtors of the Crown, each in the amount that the judge orders them to pay.
+
+
+
+- **(2)** Subsections 135(5) and (6) of the Act are replaced by the following:
+
+**If a deposit has been made**
+
+- **(5)** If a deposit has been made by a person against whom an order for forfeiture has been made, no writ of *fieri facias* shall issue, but the amount of the deposit shall be transferred by the person who has custody of it to the person who is entitled by law to receive it.
+
+**Subsections 770(2) and (4) of [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) do not apply**
+
+- **(6)** Subsections 770(2) (transmission to clerk of the court) and (4) (transmission of deposit) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) do not apply in respect of proceedings under this Act.
+
 
 
