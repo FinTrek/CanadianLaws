@@ -104,7 +104,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Interprétation**
 
 - **(3)** Pour l’application de la présente loi, les substances figurant expressément dans l’une ou l’autre des annexes I à VI sont réputées exclues de celles de ces annexes dans lesquelles elles ne figurent pas expressément.
-> 1996, ch. 8, art. 35, ch. 19, art. 2; 2001, ch. 32, art. 47; 2017, ch. 7, art. 1; 2018, ch. 16, art. 194.
+> 1996, ch. 8, art. 35, ch. 19, art. 2; 2001, ch. 32, art. 47; 2017, ch. 7, art. 1; 2018, ch. 16, art. 194
 
 
 
@@ -117,7 +117,7 @@ Y est assimilée l’offre de produire. (*produce*)
 - **(1)** Les pouvoirs et fonctions prévus par la présente loi relativement à toute infraction à celle-ci s’appliquent tout autant à l’égard du complot ou de la tentative de commettre une telle infraction, de la complicité après le fait à son égard ou du fait de conseiller de la commettre.
 
 - **(2)** [Abrogé, 2017, ch. 7, art. 2]
-> 1995, ch. 22, art. 18; 1996, ch. 19, art. 3; 2017, ch. 7, art. 2.
+> 1995, ch. 22, art. 18; 1996, ch. 19, art. 3; 2017, ch. 7, art. 2
 
 
 
@@ -181,7 +181,7 @@ Y est assimilée l’offre de produire. (*produce*)
 		- **(ii)** en cas de récidive, d’une amende maximale de deux mille dollars et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
 
 - **(8)** [Abrogé, 2018, ch. 16, art. 195]
-> 1996, ch. 19, art. 4; 2018, ch. 16, art. 195.
+> 1996, ch. 19, art. 4; 2018, ch. 16, art. 195
 
 
 
@@ -208,7 +208,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Présomption**
 
 - **(5)** Est réputée n’avoir jamais eu lieu la violation, relativement à une infraction visée au paragraphe 4(1), de conditions de mise en liberté provisoire, d’une ordonnance de probation, d’une ordonnance de sursis ou des modalités d’une libération conditionnelle qui résulte du fait que la personne a demandé, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce qu’elle-même, ou une autre personne, était victime d’une urgence médicale ou est présente sur les lieux à l’arrivée des secours.
-> 2017, ch. 4, art. 2; 2018, ch. 16, art. 195.1.
+> 2017, ch. 4, art. 2; 2018, ch. 16, art. 195.1
 
 
 
@@ -254,7 +254,7 @@ Y est assimilée l’offre de produire. (*produce*)
 - **(5)** Dans le cadre de l’application du paragraphe (3) à l’égard d’une infraction prévue au paragraphe (1), la mention d’une substance inscrite aux annexes I, II, III, IV ou V vaut également mention de toute substance présentée ou tenue pour telle.
 
 - **(6)** [Abrogé, 2018, ch. 16, art. 196]
-> 1996, ch. 19, art. 5; 2012, ch. 1, art. 39; 2017, ch. 7, art. 3; 2018, ch. 16, art. 196.
+> 1996, ch. 19, art. 5; 2012, ch. 1, art. 39; 2017, ch. 7, art. 3; 2018, ch. 16, art. 196
 
 
 
@@ -284,7 +284,7 @@ Y est assimilée l’offre de produire. (*produce*)
 	- **c)** dans le cas de substances inscrites à l’annexe IV :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de trois ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal d’un an.
-> 1996, ch. 19, art. 6; 2012, ch. 1, art. 40; 2017, ch. 7, art. 4.
+> 1996, ch. 19, art. 6; 2012, ch. 1, art. 40; 2017, ch. 7, art. 4
 
 
 
@@ -318,7 +318,7 @@ Y est assimilée l’offre de produire. (*produce*)
 	- **b)** la production a créé un risque d’atteinte à la santé ou à la sécurité de personnes de moins de dix-huit ans présentes dans le lieu où l’infraction a été commise ou à proximité;
 	- **c)** la production a créé un risque d’atteinte à la sécurité publique dans un secteur résidentiel;
 	- **d)** la personne a mis, dans le lieu où l’infraction a été commise ou à proximité, des trappes, appareils ou autres choses susceptibles de causer la mort ou des lésions corporelles à autrui ou a permis que de telles choses y soient mises ou y demeurent.
-> 1996, ch. 19, art. 7; 2012, ch. 1, art. 41; 2017, ch. 7, art. 5; 2018, ch. 16, art. 197.
+> 1996, ch. 19, art. 7; 2012, ch. 1, art. 41; 2017, ch. 7, art. 5; 2018, ch. 16, art. 197
 
 
 
@@ -341,7 +341,7 @@ Y est assimilée l’offre de produire. (*produce*)
 	- **b)** dans le cas de substances inscrites à l’annexe IV :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de trois ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal d’un an.
-> 2011, ch. 14, art. 1; 2017, ch. 7, art. 6.
+> 2011, ch. 14, art. 1; 2017, ch. 7, art. 6
 
 
 
@@ -354,7 +354,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Avis**
 
 **8** Le tribunal n’est pas tenu d’imposer une peine minimale d’emprisonnement sauf s’il est convaincu que la personne accusée a été avisée avant d’enregistrer son plaidoyer qu’une peine minimale d’emprisonnement peut être imposée pour l’infraction qui lui est reprochée et que le procureur général a l’intention de prouver que l’infraction a été commise dans des circonstances entraînant l’imposition d’une peine minimale d’emprisonnement.
-> 2012, ch. 1, art. 42.
+> 2012, ch. 1, art. 42
 
 
 
@@ -373,7 +373,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Rapport**
 
 - **(2)** Dans l’année qui suit le début de l’examen, le comité présente au Parlement son rapport, en l’assortissant de toute recommandation quant aux modifications qu’il juge souhaitables.
-> 2012, ch. 1, art. 42.
+> 2012, ch. 1, art. 42
 
 
 
@@ -413,7 +413,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Peine minimale**
 
 - **(5)** Le tribunal n’est pas tenu d’infliger une peine minimale d’emprisonnement à la personne qui termine avec succès un programme visé au paragraphe (4).
-> 1996, ch. 19, art. 10; 1999, ch. 5, art. 49; 2012, ch. 1, art. 43; 2017, ch. 7, art. 7; 2018, ch. 16, art. 198.
+> 1996, ch. 19, art. 10; 1999, ch. 5, art. 49; 2012, ch. 1, art. 43; 2017, ch. 7, art. 7; 2018, ch. 16, art. 198
 
 
 
@@ -438,13 +438,11 @@ Y est assimilée l’offre de produire. (*produce*)
 
 - **(2)** La dénonciation visée au paragraphe (1) peut se faire par téléphone ou tout autre moyen de télécommunication, conformément à l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), compte tenu des adaptations nécessaires.
 
-**Exécution hors du ressort**
+**Exécution au Canada**
 
-- **(3)** Le juge de paix peut délivrer le mandat pour perquisition dans une province où il n’a pas compétence; le mandat y est alors exécutoire une fois visé par un juge de paix ayant compétence dans la province en question.
+- **(3)** Le mandat peut être exécuté en tout lieu au Canada. Tout agent de la paix qui exécute le mandat doit être habilité à agir à ce titre dans le lieu où celui-ci est exécuté.
 
-**Effet du visa**
-
-- **(4)** Le visa confère à tout agent de la paix à qui le mandat était adressé en premier lieu, ainsi qu’à ceux de la circonscription territoriale en cause, tant le pouvoir d’exécuter le mandat que celui de disposer, conformément au droit applicable, des choses saisies.
+- **(4)** [Abrogé, 2019, ch. 25, art. 385]
 
 **Fouilles et saisies**
 
@@ -465,7 +463,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Saisie d’autres choses**
 
 - **(8)** L’agent de la paix qui exécute le mandat ou qui exerce les pouvoirs visés aux paragraphes (5) ou (7) peut, en plus des choses mentionnées au mandat et au paragraphe (6), saisir toute chose dont il a des motifs raisonnables de croire qu’elle a été obtenue ou utilisée dans le cadre de la perpétration d’une infraction ou qu’elle servira de preuve à l’égard de celle-ci.
-> 1996, ch. 19, art. 11; 2005, ch. 44, art. 13; 2017, ch. 7, art. 9.
+> 1996, ch. 19, art. 11; 2005, ch. 44, art. 13; 2017, ch. 7, art. 92019, ch. 25, art. 385
 
 
 
@@ -491,7 +489,7 @@ Y est assimilée l’offre de produire. (*produce*)
 	- **(vii)** tout autre renseignement réglementaire;
 - **b)** de faire envoyer le rapport au ministre;
 - **c)** dans le cas d’une saisie effectuée en vertu de l’article 11 de la présente loi, du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou d’un pouvoir spécifique reconnu par la common law, de faire déposer une copie du rapport auprès du juge de paix qui a décerné le mandat ou d’un autre juge de paix de la même circonscription territoriale, ou encore, auprès d’un juge de paix qui aurait été compétent pour le décerner, dans le cas où la saisie s’est effectuée sans mandat.
-> 2017, ch. 7, art. 10.
+> 2017, ch. 7, art. 10
 
 
 
@@ -521,7 +519,7 @@ Y est assimilée l’offre de produire. (*produce*)
 - **(4)** Le juge ou juge de paix qui, au titre du présent article, rend une ordonnance en application de l’alinéa 490(9)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) visant la restitution d’un bien infractionnel non-chimique saisi en vertu de la présente loi peut exiger du demandeur qu’il contracte devant lui, avec ou sans caution, un engagement dont le montant et, le cas échéant, les conditions sont fixés par lui. S’il l’estime indiqué, le juge ou juge de paix peut exiger du demandeur qu’il dépose auprès de lui la somme d’argent ou toute autre valeur fixée par lui.
 
 - **(5) et (6)** [Abrogés, 2017, ch. 7, art. 11]
-> 1996, ch. 19, art. 13; 2017, ch. 7, art. 11.
+> 1996, ch. 19, art. 13; 2017, ch. 7, art. 11
 
 
 
@@ -582,7 +580,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Infraction**
 
 - **(10)** Toute personne à qui une ordonnance de blocage est signifiée en conformité avec le présent article et qui, pendant que celle-ci est en vigueur, contrevient à ses dispositions est coupable d’un acte criminel ou d’une infraction punissable par déclaration de culpabilité par procédure sommaire.
-> 1996, ch. 19, art. 14 et 93.2; 2001, ch. 32, art. 49; 2017, ch. 7, art. 13.
+> 1996, ch. 19, art. 14 et 93.2; 2001, ch. 32, art. 49; 2017, ch. 7, art. 13
 
 
 
@@ -601,7 +599,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Engagement**
 
 - **(2)** Le juge ou juge de paix qui, au titre du présent article, rend une ordonnance en application de l’alinéa 490(9)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) visant la restitution d’un bien faisant l’objet d’une ordonnance de blocage au titre de l’article 14 peut exiger du demandeur qu’il contracte devant lui, avec ou sans caution, un engagement dont le montant et, le cas échéant, les conditions sont fixés par lui. S’il l’estime indiqué, le juge ou juge de paix peut exiger du demandeur qu’il dépose auprès de lui la somme d’argent ou toute autre valeur fixée par lui.
-> 1996, ch. 19, art. 15; 2017, ch. 7, art. 14.
+> 1996, ch. 19, art. 15; 2017, ch. 7, art. 14
 
 
 
@@ -666,7 +664,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Demande de modification des conditions**
 
 - **(11)** Le procureur général peut demander au juge ou au juge de paix d’annuler ou de modifier une condition à laquelle est assujettie l’ordonnance de prise en charge, il ne peut, toutefois, lui demander de modifier la nomination effectuée en application du paragraphe (2).
-> 2017, ch. 7, art. 14.
+> 2017, ch. 7, art. 14
 
 
 
@@ -695,7 +693,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Appel**
 
 - **(3)** La personne qui a été condamnée pour une infraction désignée ou en a été absoute peut, de même que le procureur général, interjeter appel devant la cour d’appel de l’ordonnance rendue aux termes du paragraphe (1) ou de la décision du tribunal de ne pas rendre une telle ordonnance, comme s’il s’agissait d’un appel interjeté à l’encontre de la peine infligée à la personne relativement à l’infraction désignée en cause.
-> 1996, ch. 19, art. 16; 2001, ch. 32, art. 51; 2017, ch. 7, art. 16.
+> 1996, ch. 19, art. 16; 2001, ch. 32, art. 51; 2017, ch. 7, art. 16
 
 
 
@@ -731,7 +729,7 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 **Biens à l’étranger**
 
 - **(5)** Les ordonnances visées au présent article peuvent être rendues à l’égard de biens situés à l’étranger, avec les adaptations nécessaires.
-> 1996, ch. 19, art. 17; 2001, ch. 32, art. 52; 2017, ch. 7, art. 17.
+> 1996, ch. 19, art. 17; 2001, ch. 32, art. 52; 2017, ch. 7, art. 17
 
 
 
@@ -740,7 +738,7 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 **Annulation des transferts**
 
 **18** Avant d’ordonner la confiscation visée aux paragraphes 16(1) ou 17(2), le tribunal peut annuler tout transfert d’un bien survenu après sa saisie ou son blocage; le présent article ne vise toutefois pas les transferts qui ont été faits pour contrepartie à titre onéreux à une personne agissant de bonne foi.
-> 1996, ch. 19, art. 18; 2017, ch. 7, art. 18.
+> 1996, ch. 19, art. 18; 2017, ch. 7, art. 18
 
 
 
@@ -762,7 +760,7 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 **Ordonnance de restitution**
 
 - **(3)** Le tribunal peut ordonner que des biens qui autrement seraient confisqués en vertu des paragraphes 16(1) ou 17(2) soient restitués en tout ou en partie à une personne — autre que celle qui est accusée d’une infraction désignée ou celle qui a obtenu un titre ou un droit de possession sur ces biens de la personne accusée d’une telle infraction dans des circonstances telles qu’elles permettent raisonnablement d’induire que l’opération a été effectuée dans l’intention d’éviter la confiscation des biens — à la condition d’être convaincu que cette personne en est le propriétaire légitime ou a droit à leur possession et semble innocente de toute complicité ou collusion à l’égard de l’infraction.
-> 1996, ch. 19, art. 19; 2017, ch. 7, art. 19.
+> 1996, ch. 19, art. 19; 2017, ch. 7, art. 19
 
 
 
@@ -790,7 +788,7 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 - **(4)** Dans le cas où les biens confiscables en vertu des paragraphes 16(1) ou 17(2) sont composés d’une maison d’habitation en tout ou en partie, le tribunal, pour rendre sa décision au titre du paragraphe (3), prend aussi en compte les facteurs suivants :
 	- **a)** l’effet qu’aurait la confiscation à l’égard d’un membre de la famille immédiate de la personne qui est accusée de l’infraction, condamnée pour cette infraction ou en est absoute, si la maison était la résidence principale de ce membre avant que l’accusation ne soit portée et qu’elle continue de l’être par la suite;
 	- **b)** le fait que le membre de la famille visé à l’alinéa a) semble innocent ou non de toute complicité ou collusion à l’égard de l’infraction.
-> 2001, ch. 32, art. 53; 2017, ch. 7, art. 20.
+> 2001, ch. 32, art. 53; 2017, ch. 7, art. 20
 
 
 
@@ -828,7 +826,7 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 - **(6)** Le ministre est tenu, à la demande de toute personne à l’égard de laquelle une ordonnance a été rendue en vertu du paragraphe (4) et lorsque les délais d’appel sont expirés et que l’appel interjeté a été tranché, d’ordonner :
 	- **a)** soit la restitution, au demandeur, du bien ou de la partie du bien sur laquelle porte le droit de celui-ci;
 	- **b)** soit le paiement, au demandeur, d’une somme égale à la valeur de son droit déclarée dans l’ordonnance.
-> 1996, ch. 19, art. 20; 2017, ch. 7, art. 21.
+> 1996, ch. 19, art. 20; 2017, ch. 7, art. 21
 
 
 
@@ -871,7 +869,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Rapport par l’agent de la paix**
 
 - **(3)** Dans le cas d’une saisie effectuée en vertu de l’article 11 de la présente loi, du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou d’un pouvoir spécifique reconnu par la common law, l’agent de la paix fait rapport de la restitution au juge de paix qui a décerné le mandat ou à un autre juge de paix de la même circonscription territoriale, ou encore, au juge de paix qui aurait été compétent pour le décerner, dans le cas où la saisie s’est effectuée sans mandat.
-> 1996, ch. 19, art. 23; 2001, ch. 32, art. 54; 2017, ch. 7, art. 22.
+> 1996, ch. 19, art. 23; 2001, ch. 32, art. 54; 2017, ch. 7, art. 22
 
 
 
@@ -900,7 +898,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Paiement compensatoire**
 
 - **(5)** S’il est convaincu, lors de l’audition de la demande, que l’auteur de celle-ci est le propriétaire légitime de la substance, du précurseur ou du bien ou a droit à sa possession, mais qu’il a en été disposé en application de l’article 26, le juge de paix ordonne que soit versée à cette personne une somme de valeur égale à celle de la substance, du précurseur ou du bien.
-> 1996, ch. 19, art. 24; 2017, ch. 7, art. 22.
+> 1996, ch. 19, art. 24; 2017, ch. 7, art. 22
 
 
 
@@ -909,7 +907,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Confiscation : absence de demande**
 
 **25** Si tout ou partie d’une substance désignée, d’un précurseur ou d’un bien infractionnel chimique saisi, trouvé ou obtenu de toute autre manière par un agent de la paix, un inspecteur ou une personne visée par règlement n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale et qu’aucune demande de restitution n’a été faite à l’égard de la substance, du précurseur ou du bien dans le délai de soixante jours prévu au paragraphe 24(1), la totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, est confisquée au profit de Sa Majesté et il peut en être disposé conformément aux règlements ou, à défaut, de la manière prévue par le ministre.
-> 1996, ch. 19, art. 25; 2017, ch. 7, art. 22.
+> 1996, ch. 19, art. 25; 2017, ch. 7, art. 22
 
 
 
@@ -918,7 +916,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Disposition expresse**
 
 **26** Le ministre, un agent de la paix ou une personne visée par règlement peut, si tout ou partie d’un précurseur ou d’un bien infractionnel chimique, dont l’entreposage ou la manutention pose un risque à la santé ou à la sécurité, ou d’une substance désignée n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, en disposer conformément aux règlements ou, à défaut, de la manière prévue par le ministre.
-> 1996, ch. 19, art. 26; 2017, ch. 7, art. 22.
+> 1996, ch. 19, art. 26; 2017, ch. 7, art. 22
 
 
 
@@ -931,7 +929,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 	- **(i)** au saisi, s’il est convaincu par ailleurs que celui-ci en avait pris possession, et avait par la suite continué à s’en servir, légitimement,
 	- **(ii)** à la personne qui est son propriétaire légitime ou qui a droit à sa possession, si elle est connue et si le tribunal est convaincu que le saisi n’en avait pas la possession légitime;
 - **b)** peut en ordonner la confiscation au profit de Sa Majesté — pour qu’il en soit disposé conformément aux règlements ou, à défaut, de la manière prévue par le ministre — dans les cas où soit il n’est pas convaincu du bien-fondé de sa restitution, soit le saisi n’en avait pas la possession légitime et la personne qui est son propriétaire légitime ou qui a droit à sa possession n’est pas connue.
-> 1996, ch. 19, art. 27; 2017, ch. 7, art. 23.
+> 1996, ch. 19, art. 27; 2017, ch. 7, art. 23
 
 
 
@@ -940,7 +938,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Disposition sur consentement**
 
 **28** Le propriétaire légitime d’une substance désignée, d’un précurseur ou d’un bien infractionnel chimique qui a été saisi, trouvé ou obtenu de toute autre manière par un agent de la paix, un inspecteur ou une personne visée par règlement, peut, dans la mesure où la totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, consentir à ce qu’il en soit disposé. La totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, est dès lors confisquée au profit de Sa Majesté et il peut en être disposé conformément aux règlements ou, à défaut, de la manière prévue par le ministre.
-> 1996, ch. 19, art. 28; 2017, ch. 7, art. 24.
+> 1996, ch. 19, art. 28; 2017, ch. 7, art. 24
 
 
 
@@ -962,7 +960,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Précision**
 
 - **(2)** Pour l’application du paragraphe (1), la disposition d’une substance désignée, d’un précurseur ou d’un bien infractionnel chimique par un agent de la paix s’entend notamment de l’utilisation de la substance, du précurseur ou du bien à des fins d’enquête ou à des fins de formation.
-> 1996, ch. 19, art. 29; 2017, ch. 7, art. 24.
+> 1996, ch. 19, art. 29; 2017, ch. 7, art. 24
 
 
 
@@ -986,7 +984,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Certificat**
 
 - **(2)** L’inspecteur reçoit un certificat, en la forme établie par le ministre, attestant sa qualité, qu’il présente, sur demande, au responsable du lieu dans lequel il entre au titre du paragraphe 31(1).
-> 1996, ch. 19, art. 30; 2015, ch. 22, art. 2; 2017, ch. 7, art. 25.
+> 1996, ch. 19, art. 30; 2015, ch. 22, art. 2; 2017, ch. 7, art. 25
 
 
 
@@ -1070,7 +1068,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Restitution ou disposition par le ministre**
 
 - **(9)** Les choses saisies en vertu du présent article et qui n’ont pas, dans les cent vingt jours suivant la date de leur saisie, été restituées ou dont il n’a pas été disposé en application du paragraphe (8) ou de l’un ou l’autre des articles 24 à 27, doivent, conformément aux règlements ou, à défaut, de la manière prévue par le ministre, être restituées ou faire l’objet d’une disposition.
-> 1996, ch. 19, art. 31; 2015, ch. 22, art. 3; 2017, ch. 7, art. 26.
+> 1996, ch. 19, art. 31; 2015, ch. 22, art. 3; 2017, ch. 7, art. 26
 
 
 
@@ -1089,7 +1087,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Interdiction**
 
 - **(3)** Il est interdit, sans l’autorisation de l’inspecteur, de déplacer les choses saisies, retenues ou emportées en application de l’article 31 ou d’en modifier l’état de quelque manière que ce soit.
-> 1996, ch. 19, art. 32; 2017, ch. 7, art. 27.
+> 1996, ch. 19, art. 32; 2017, ch. 7, art. 27
 
 
 
@@ -1263,7 +1261,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Certificat ou rapport**
 
 - **(2)** L’analyste peut, après analyse ou examen, établir un certificat ou un rapport faisant état de cette analyse ou de cet examen, ainsi que de ses résultats.
-> 1996, ch. 19, art. 45; 2017, ch. 7, art. 29.
+> 1996, ch. 19, art. 45; 2017, ch. 7, art. 29
 
 
 
@@ -1278,7 +1276,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **45.1** Le ministre peut, par arrêté, ordonner à une personne qui est autorisée sous le régime de la présente loi à effectuer des opérations relativement à des substances désignées ou à des précurseurs ou qui importe des instruments désignés de lui fournir, dans le délai et de la manière qu’il précise, tout renseignement relatif à ces opérations ou importations qu’il estime nécessaire aux fins suivantes :
 - **a)** vérifier le respect ou prévenir le non-respect des dispositions de la présente loi ou de ses règlements;
 - **b)** régler une question en matière de sécurité ou de santé publiques.
-> 2017, ch. 7, art. 30.
+> 2017, ch. 7, art. 30
 
 
 
@@ -1287,7 +1285,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Mesures**
 
 **45.2** Le ministre peut, par arrêté, ordonner à une personne qui est autorisée sous le régime de la présente loi à effectuer des opérations relativement à des substances désignées ou à des précurseurs de prendre, dans le délai et de la manière qu’il précise, toute mesure visant à prévenir le non-respect des dispositions de la présente loi ou de ses règlements ou, s’il a des motifs raisonnables de croire qu’il y a un tel non-respect, visant à y remédier.
-> 2017, ch. 7, art. 30.
+> 2017, ch. 7, art. 30
 
 
 
@@ -1296,7 +1294,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Réviseurs**
 
 **45.3** Le ministre peut désigner à titre de réviseur — personnellement ou au titre de son appartenance à une catégorie donnée — tout individu compétent pour procéder aux révisions prévues à l’article 45.4.
-> 2017, ch. 7, art. 30.
+> 2017, ch. 7, art. 30
 
 
 
@@ -1351,7 +1349,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Effet de la modification**
 
 - **(12)** L’arrêté modifié est susceptible de révision conformément au présent article.
-> 2017, ch. 7, art. 30.
+> 2017, ch. 7, art. 30
 
 
 
@@ -1360,7 +1358,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 **45.5** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux arrêtés pris en application des articles 45.1 ou 45.2.
-> 2017, ch. 7, art. 30.
+> 2017, ch. 7, art. 30
 
 
 
@@ -1375,7 +1373,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **46** Quiconque contrevient à une disposition de la présente loi pour laquelle aucune peine n’est spécifiquement prévue, à une disposition d’un règlement ou à un arrêté pris en vertu des articles 45.1 ou 45.2 commet :
 - **a)** soit un acte criminel passible d’une amende maximale de 5 000 000 $ et d’un emprisonnement maximal de trois ans, ou de l’une de ces peines;
 - **b)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible, pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines, et, en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
-> 1996, ch. 19, art. 46; 2017, ch. 7, art. 33; 2018, ch. 16, art. 200.
+> 1996, ch. 19, art. 46; 2017, ch. 7, art. 33; 2018, ch. 16, art. 200
 
 
 
@@ -1388,7 +1386,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Déclarations fausses ou trompeuses**
 
 **46.1** Nul ne peut sciemment, dans un livre, registre, rapport ou autre document — quel que soit son support matériel — à établir aux termes de la présente loi ou de ses règlements, faire ou consentir à ce que soit faite une déclaration fausse ou trompeuse, participer à une telle déclaration ou y acquiescer.
-> 2017, ch. 7, art. 34.
+> 2017, ch. 7, art. 34
 
 
 
@@ -1397,7 +1395,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Respect des conditions**
 
 **46.2** Le titulaire d’une licence, d’un permis, d’une autorisation ou d’une exemption est tenu de se conformer à toute condition dont ceux-ci sont assortis.
-> 2017, ch. 7, art. 34.
+> 2017, ch. 7, art. 34
 
 
 
@@ -1438,7 +1436,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Communication des renseignements : corps policiers**
 
 - **(7)** Le ministre est autorisé à communiquer les renseignements fournis au titre du paragraphe (2) à tout corps policier canadien ou à tout membre d’un tel corps policier qui en fait la demande dans le cadre d’une enquête en application de la présente loi.
-> 2017, ch. 7, art. 34.
+> 2017, ch. 7, art. 34
 
 
 
@@ -1457,7 +1455,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Ressort**
 
 - **(2)** Toute infraction à une disposition de la présente loi ou de ses règlements peut être poursuivie au lieu de sa perpétration ou, dans le cas d’une contravention à un arrêté pris en vertu des articles 45.1 ou 45.2, au lieu de la contravention, au lieu où a pris naissance l’objet de la poursuite, au lieu où l’accusé est appréhendé ou en tout lieu où il se trouve.
-> 1996, ch. 19, art. 47; 2017, ch. 7, art. 37.
+> 1996, ch. 19, art. 47; 2017, ch. 7, art. 37
 
 
 
@@ -1504,7 +1502,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(2)** La défense peut, avec l’autorisation du tribunal, exiger de la personne qui a délivré le certificat ou autre document :
 	- **a)** soit qu’elle produise un affidavit ou une déclaration solennelle portant sur l’un ou l’autre des éléments dont le certificat ou autre document est censé faire foi aux termes du paragraphe (1);
 	- **b)** soit qu’elle comparaisse devant le tribunal pour interrogatoire ou contre-interrogatoire sur la délivrance du certificat ou autre document.
-> 1996, ch. 19, art. 50; 2018, ch. 16, art. 201.
+> 1996, ch. 19, art. 50; 2018, ch. 16, art. 201
 
 
 
@@ -1521,7 +1519,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(2)** La partie contre laquelle est produit le certificat ou le rapport peut, avec l’autorisation du tribunal, exiger la présence de l’analyste pour contre-interrogatoire.
 
 - **(3)** [Abrogé, 2017, ch. 7, art. 38]
-> 1996, ch. 19, art. 51; 2017, ch. 7, art. 38.
+> 1996, ch. 19, art. 51; 2017, ch. 7, art. 38
 
 
 
@@ -1567,7 +1565,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Conseils d’experts**
 
 **54.1** Le ministre peut retenir les services d’experts ou de spécialistes pour le conseiller relativement à l’exercice de ses attributions en vertu de la présente loi et, avec l’approbation du Conseil du Trésor, fixer leur rémunération.
-> 2018, ch. 16, art. 202.
+> 2018, ch. 16, art. 202
 
 
 
@@ -1652,7 +1650,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Incorporation par renvoi**
 
 - **(3)** Il peut être précisé, dans les règlements d’application de la présente loi qui incorporent par renvoi des classifications, normes, procédures ou autres spécifications, que celles-ci sont incorporées avec leurs modifications successives.
-> 1996, ch. 19, art. 55; 2001, ch. 32, art. 55; 2005, ch. 10, art. 15; 2015, ch. 22, art. 4; 2017, ch. 7, art. 40.
+> 1996, ch. 19, art. 55; 2001, ch. 32, art. 55; 2005, ch. 10, art. 15; 2015, ch. 22, art. 4; 2017, ch. 7, art. 40
 
 
 
@@ -1667,7 +1665,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Exception**
 
 - **(2)** Le ministre ne peut se prévaloir du paragraphe (1) pour accorder une exemption pour raisons médicales qui aurait pour effet de permettre l’exercice d’activités dans un site de consommation supervisée relativement à une substance désignée ou à un précurseur obtenus d’une manière non autorisée sous le régime de la présente loi.
-> 1996, ch. 19, art. 56; 2015, ch. 22, art. 5; 2017, ch. 7, art. 41.
+> 1996, ch. 19, art. 56; 2015, ch. 22, art. 5; 2017, ch. 7, art. 41
 
 
 
@@ -1701,13 +1699,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Décision rendue publique**
 
 - **(5)** Après avoir pris une décision à l’égard de toute demande d’exemption, le ministre, par écrit, rend publique la décision et, s’il s’agit d’une décision de ne pas accorder l’exemption, il joint à sa décision les motifs de celle-ci.
-> 2015, ch. 22, art. 5; 2017, ch. 7, art. 42.
+> 2015, ch. 22, art. 5; 2017, ch. 7, art. 42
 
 
 
 
 **56.2** La personne responsable de superviser directement, au site de consommation supervisée, la consommation de substances désignées peut offrir aux usagers du site des options de pharmacothérapie avant qu’ils y consomment des substances désignées obtenues d’une manière non autorisée sous le régime de la présente loi.
-> 2017, ch. 7, art. 42.
+> 2017, ch. 7, art. 42
 
 
 
@@ -1720,7 +1718,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Exercice des attributions du ministre ou du ministre de la Sécurité publique et de la Protection civile**
 
 **57** Les attributions conférées au ministre aux termes de la présente loi ou de ses règlements peuvent être exercées par la personne qu’il désigne à cet effet ou qui occupe le poste qu’il désigne à cet effet; il en va de même des attributions conférées aux termes des règlements au ministre de la Sécurité publique et de la Protection civile.
-> 1996, ch. 19, art. 57; 2005, ch. 10, art. 16.
+> 1996, ch. 19, art. 57; 2005, ch. 10, art. 16
 
 
 
@@ -1744,7 +1742,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Pouvoir de modifier les annexes**
 
 **60** Le gouverneur en conseil peut, par décret, modifier l’une ou l’autre des annexes I à IV, VI et IX pour y ajouter ou en supprimer tout ou partie d’un article dont l’adjonction ou la suppression lui paraît nécessaire dans l’intérêt public.
-> 1996, ch. 19, art. 60; 2017, ch. 7, art. 45; 2018, ch. 16, art. 203 et 206.
+> 1996, ch. 19, art. 60; 2017, ch. 7, art. 45; 2018, ch. 16, art. 203 et 206
 
 
 
@@ -1761,7 +1759,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Suppression**
 
 - **(2)** Le ministre peut, par arrêté, supprimer de l’annexe V tout ou partie d’un article qui y est inscrit.
-> 2017, ch. 7, art. 45.
+> 2017, ch. 7, art. 45
 
 
 
@@ -1779,7 +1777,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Mentions**
 
 **61** La mention, dans une désignation établie par le ministre de la Sécurité publique et de la Protection civile aux termes de la partie VI du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), soit d’une infraction à la Loi sur les stupéfiants ou aux parties III ou IV de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), soit du complot ou de la tentative de la commettre, de la complicité après le fait à son égard ou du fait de conseiller de la commettre vaut, selon le cas, mention soit d’une infraction aux articles 5 (trafic de substances), 6 (importation et exportation) ou 7 (production) de la présente loi, soit du complot ou de la tentative de la commettre, de la complicité après le fait à son égard ou du fait de conseiller de la commettre.
-> 1996, ch. 19, art. 61; 2001, ch. 32, art. 56; 2005, ch. 10, art. 34.
+> 1996, ch. 19, art. 61; 2001, ch. 32, art. 56; 2005, ch. 10, art. 34
 
 
 
@@ -2048,7 +2046,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(3)** U-48520 (4-chloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide)
 - **(4)** U-50211 (N-(2-(diméthylamino)cyclohexyl)-4-hydroxy-N-méthylbenzamide)
 - **(5)** U-77891 (3,4-dibromo-N-méthyl-N-(1-méthyl-1-azaspiro[4.5]déc-6-yl)benzamide)
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275; DORS/2017-277, art. 1; DORS/2018-70, art. 1, 2 et 3(F); DORS/2019-121, art. 1.
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275; DORS/2017-277, art. 1; DORS/2018-70, art. 1, 2 et 3(F)DORS/2019-121, art. 1
 
 
 
@@ -2102,7 +2100,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(9)** toute substance ayant une structure 3-carboxamideindole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution au groupe carboxamide dans quelque mesure que ce soit, notamment :
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
-> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1; DORS/2015-192; 2017, ch. 7, art. 47; 2018, ch. 16, art. 204.
+> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1; DORS/2015-192; 2017, ch. 7, art. 47; 2018, ch. 16, art. 204
 
 
 
@@ -2158,7 +2156,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; 2017, ch. 7, art. 48; DORS/2017-13, art. 6; DORS/2017-44, 249.
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; 2017, ch. 7, art. 48; DORS/2017-13, art. 6; DORS/2017-44, 249
 
 
 
@@ -2313,14 +2311,14 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **26** Pyrovalérone (méthyl-4′(pyrrolidinyl-1)-2 valérophénone) et ses sels
 - **27** *Salvia divinorum* (*S. divinorum*), ses préparations et dérivés, notamment :
 - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
-> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209; 2017, ch. 7, art. 49; DORS/2017-13, art. 7 à 9, 10(A), 11 et 12; DORS/2018-70, art. 4.
+> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209; 2017, ch. 7, art. 49; DORS/2017-13, art. 7 à 9, 10(A), 11 et 12; DORS/2018-70, art. 4
 
 
 
 
 ### **ANNEXE V** 
 **(articles 2, 5 à 7.1, 10, 55 et 60.1)**
-> 1996, ch. 19, ann. V; DORS/2002-361, art. 1; DORS/2003-32, art. 7; 2017, ch. 7, art. 50.
+> 1996, ch. 19, ann. V; DORS/2002-361, art. 1; DORS/2003-32, art. 7; 2017, ch. 7, art. 50
 
 
 
@@ -2405,7 +2403,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **1** Toute préparation ou tout mélange qui contient l’un des précurseurs visés à la partie 1, à l’exception des articles 20 à 23, ou à la partie 2.
 
 
-> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13, 295; DORS/2017-277, art. 2; DORS/2019-121, art. 2; DORS/2019-121, art. 3; DORS/2019-121, art. 4; DORS/2019-121, art. 5.
+> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13, 295; DORS/2017-277, art. 2DORS/2019-121, art. 2DORS/2019-121, art. 3DORS/2019-121, art. 4DORS/2019-121, art. 5
 
 
 
@@ -2426,6 +2424,395 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **(articles 2 et 60)**
 - **1** Instrument à opération manuelle, semi-automatique ou entièrement automatique pouvant être utilisé pour compacter ou mouler des matériaux sous forme de poudres ou de granules ou des matériaux mi-solides afin de produire des comprimés solides et cohérents
 - **2** Instrument à opération manuelle, semi-automatique ou entièrement automatique pouvant être utilisé pour remplir des capsules avec des matériaux sous forme de poudres ou de granules ou des matériaux mi-solides ou liquides
-> 2017, ch. 7, art. 51.
+> 2017, ch. 7, art. 51
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2017, ch. 7, par. 1(1)
+
+**1** 
+
+- **(1)** La définition de ***arbitre***, au paragraphe 2(1) de la Loi réglementant certaines drogues et autres substances, est abrogée.
+
+
+
+######           — 2017, ch. 7, art. 28
+
+**28** La partie V de la même loi est remplacée par ce qui suit :
+
+**PARTIE V** 
+## Sanctions administratives pécuniaires
+
+
+### Violation
+
+
+**Violation**
+
+**33** Toute contravention à une disposition désignée en vertu de l’alinéa 34(1)a) ou à un arrêté pris en vertu des articles 45.1 ou 45.2 ou révisé au titre de l’article 45.4 constitue une violation pour laquelle le contrevenant s’expose à la sanction prévue par les dispositions de la présente loi ou de ses règlements.
+
+
+
+### Pouvoirs du gouverneur en conseil et du ministre
+
+
+**Règlements**
+
+**34** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** désigner comme violation punissable au titre de la présente loi la contravention à telle disposition de la présente loi — à l’exception de toute disposition visée par la partie I — ou de ses règlements;
+	- **b)** fixer le montant — notamment par barème — de la sanction applicable à chaque violation;
+	- **c)** qualifier les violations, selon le cas, de mineures, de graves ou de très graves;
+	- **d)** prévoir les critères de majoration ou de minoration — notamment pour les transactions — de ce montant, ainsi que les modalités et circonstances de cette opération.
+
+**Plafond de la sanction**
+
+- **(2)** Le plafond de la sanction est de trente mille dollars.
+
+
+
+**Critères**
+
+**35** Sauf s’il est fixé en vertu de l’alinéa 34(1)b), le montant de la sanction est déterminé, dans chaque cas, compte tenu des critères suivants :
+- **a)** le comportement antérieur du contrevenant en ce qui a trait au respect des dispositions de la présente loi ou de ses règlements;
+- **b)** la gravité du tort causé ou qui aurait pu être causé à la sécurité ou la santé publiques;
+- **c)** les efforts que le contrevenant a déployés afin d’atténuer ou de neutraliser les incidences de la violation commise;
+- **d)** les avantages concurrentiels ou économiques que le contrevenant a pu retirer de la violation commise;
+- **e)** tout autre critère réglementaire.
+
+
+
+**Procès-verbaux**
+
+**36** Le ministre peut désigner, individuellement ou par catégorie, les agents verbalisateurs et établir le sommaire caractérisant la violation dans les procès-verbaux.
+
+
+
+### Ouverture de la procédure
+
+
+**Verbalisation**
+
+**37** 
+
+- **(1)** L’agent verbalisateur qui a des motifs raisonnables de croire qu’une violation a été commise peut dresser un procès-verbal qu’il fait notifier à l’auteur présumé de la violation. Le procès-verbal mentionne :
+	- **a)** le nom de l’auteur présumé;
+	- **b)** les faits reprochés;
+	- **c)** le montant de la sanction à payer;
+	- **d)** le délai et les modalités de paiement.
+
+**Sommaire des droits**
+
+- **(2)** Figure aussi au procès-verbal, en langage clair, un sommaire des droits et obligations de l’auteur présumé prévus au présent article et aux articles 38 à 43.7, notamment le droit de contester les faits reprochés et le montant de la sanction et la procédure pour le faire.
+
+
+
+### Sanctions
+
+
+**Paiement**
+
+**38** 
+
+- **(1)** Si l’auteur présumé paie, dans le délai et selon les modalités réglementaires, le montant de la sanction, le paiement, que le ministre accepte en règlement, vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+**Option**
+
+- **(2)** S’il ne paie pas, l’auteur présumé peut, dans le délai et selon les modalités réglementaires :
+	- **a)** si la sanction est de cinq mille dollars ou plus, demander au ministre de conclure une transaction en vue de la bonne observation de la disposition ou de l’arrêté en cause;
+	- **b)** contester devant le ministre les faits reprochés ou le montant de la sanction.
+
+**Présomption**
+
+- **(3)** L’omission par l’auteur présumé de se prévaloir du droit prévu au paragraphe (2) dans le délai et selon les modalités prévus vaut déclaration de responsabilité à l’égard de la violation.
+
+
+
+### Transactions
+
+
+**Conclusion d’une transaction**
+
+**39** 
+
+- **(1)** Sur demande de l’auteur présumé, le ministre peut conclure une transaction qui, d’une part, est subordonnée aux conditions qu’il estime indiquées, notamment au dépôt d’une sûreté raisonnable — dont le montant et la nature doivent lui agréer — en garantie de l’exécution de la transaction, et, d’autre part, peut prévoir la réduction partielle ou totale du montant de la sanction.
+
+**Présomption**
+
+- **(2)** La conclusion de la transaction vaut déclaration de responsabilité à l’égard de la violation.
+
+**Avis d’exécution**
+
+- **(3)** La notification à l’auteur présumé d’un avis du ministre déclarant que celui-ci estime la transaction exécutée met fin à la procédure; dès lors, la sûreté est remise à l’auteur présumé.
+
+**Avis de défaut d’exécution**
+
+- **(4)** S’il estime la transaction inexécutée, le ministre fait notifier à l’auteur présumé un avis de défaut qui l’informe soit qu’il est tenu, dans le délai et selon les modalités réglementaires, de payer, au lieu du montant de la sanction infligée initialement et sans qu’il soit tenu compte du plafond fixé au paragraphe 34(2), le double de ce montant, soit qu’il y aura confiscation de la sûreté au profit de Sa Majesté du chef du Canada.
+
+**Effet de l’inexécution**
+
+- **(5)** Sur notification de l’avis, l’auteur présumé perd tout droit de déduire de la somme due les sommes exposées dans le cadre de la transaction. Aux termes de l’avis, il est tenu de payer la somme qui y est prévue, ou la confiscation de la sûreté s’opère au profit de Sa Majesté du chef du Canada, ce qui met fin à la procédure.
+
+**Paiement**
+
+- **(6)** Le paiement, que le ministre accepte en règlement, met fin à la procédure.
+
+
+
+**Refus de transiger**
+
+**40** 
+
+- **(1)** Si le ministre refuse de transiger, l’auteur présumé est tenu, dans le délai et selon les modalités réglementaires, de payer le montant de la sanction infligée initialement.
+
+**Paiement**
+
+- **(2)** Le paiement, que le ministre accepte en règlement, vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+**Présomption**
+
+- **(3)** Le défaut de paiement dans le délai et selon les modalités prévus vaut déclaration de responsabilité à l’égard de la violation.
+
+
+
+### Contestation devant le ministre
+
+
+**Contestation relative aux faits reprochés**
+
+**41** 
+
+- **(1)** Saisi au titre de l’alinéa 38(2)b) d’une contestation relative aux faits reprochés, le ministre décide si l’auteur présumé est responsable. S’il conclut que l’auteur présumé a commis une violation, mais juge que le montant de la sanction n’a pas été établi en conformité avec les dispositions de la présente loi et de ses règlements, il y substitue le montant qu’il estime conforme.
+
+**Effet de la non-responsabilité**
+
+- **(2)** La décision du ministre prise au titre du paragraphe (1) portant que l’auteur présumé n’est pas responsable de la violation met fin à la procédure.
+
+**Contestation relative au montant de la sanction**
+
+- **(3)** Saisi au titre de l’alinéa 38(2)b) d’une contestation relative au montant de la sanction, le ministre vérifie si celui-ci a été établi en conformité avec les dispositions de la présente loi et de ses règlements et, si ce n’est pas le cas, y substitue le montant qu’il estime conforme.
+
+**Notification de la décision**
+
+- **(4)** Le ministre fait notifier à l’auteur présumé toute décision prise au titre des paragraphes (1) ou (3).
+
+**Obligation de payer**
+
+- **(5)** L’auteur présumé est tenu, dans le délai et selon les modalités réglementaires, de payer la somme prévue dans la décision.
+
+**Paiement**
+
+- **(6)** Le paiement, que le ministre accepte en règlement, met fin à la procédure.
+
+**Éléments de preuve et arguments écrits**
+
+- **(7)** Le ministre ne tient compte que des éléments de preuve et des arguments écrits lorsqu’il décide si l’auteur présumé est responsable ou vérifie si le montant de la sanction a été établi en conformité avec les dispositions de la présente loi et de ses règlements.
+
+
+
+### Exécution des sanctions
+
+
+**Créance de Sa Majesté**
+
+**42** 
+
+- **(1)** Constituent une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
+	- **a)** le montant de la sanction, à compter de la notification du procès-verbal;
+	- **b)** toute somme prévue dans une transaction conclue au titre du paragraphe 39(1), à compter de la conclusion;
+	- **c)** la somme prévue dans l’avis de défaut notifié au titre du paragraphe 39(4), à compter de la notification;
+	- **d)** la somme prévue dans la décision du ministre prise au titre des paragraphes 41(1) ou (3), à compter de la notification.
+
+**Prescription**
+
+- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible aux termes du paragraphe (1).
+
+**Créance définitive**
+
+- **(3)** La créance est définitive et n’est susceptible de contestation ou de révision que dans la mesure et selon les modalités prévues aux articles 38 à 41.
+
+
+
+**Certificat de non-paiement**
+
+**43** 
+
+- **(1)** Le ministre peut établir un certificat de non-paiement pour la partie impayée des créances visées au paragraphe 42(1).
+
+**Enregistrement à la Cour fédérale**
+
+- **(2)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+
+
+
+### Règles propres aux violations
+
+
+**Exclusion de certains moyens de défense**
+
+**43.1** 
+
+- **(1)** L’auteur présumé de la violation ne peut invoquer en défense le fait qu’il a pris les précautions voulues pour empêcher la violation ou qu’il croyait raisonnablement et en toute honnêteté à l’existence de faits qui, avérés, l’exonéreraient.
+
+**Principes de la common law**
+
+- **(2)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard d’une violation dans la mesure où ils sont compatibles avec la présente loi.
+
+
+
+**Charge de la preuve**
+
+**43.2** En cas de contestation devant le ministre, portant sur les faits, il appartient à celui-ci de décider, selon la prépondérance des probabilités, si l’auteur présumé est responsable.
+
+
+
+**Participants à la violation**
+
+**43.3** En cas de perpétration d’une violation par toute personne autre qu’un individu, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation, que la personne fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+
+
+
+**Responsabilité indirecte : employeurs et mandants**
+
+**43.4** L’employeur ou le mandant est responsable de la violation commise, dans le cadre de son emploi ou de son mandat, par un employé ou un mandataire, que l’auteur de la contravention soit ou non connu ou fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+
+
+
+**Violation continue**
+
+**43.5** Il est compté une violation distincte pour chacun des jours au cours desquels se continue la violation.
+
+
+
+### Autres dispositions
+
+
+**Admissibilité du procès-verbal de violation**
+
+**43.6** Dans les procédures en violation ou les poursuites pour infraction, le procès-verbal paraissant délivré en application de la présente loi est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature ni la qualité officielle du signataire.
+
+
+
+**Prescription**
+
+**43.7** Les procédures en violation se prescrivent par six mois à compter de la date où le ministre a eu connaissance des faits reprochés.
+
+
+
+**Cumul interdit**
+
+**43.8** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+
+
+**Attestation du ministre**
+
+**43.9** Tout document apparemment délivré par le ministre et attestant la date où les faits reprochés sont parvenus à sa connaissance fait foi de cette date, sauf preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature ni la qualité officielle du signataire.
+
+
+
+**Publication de renseignements**
+
+**43.91** Une fois les procédures concernant une violation terminées, le ministre peut, afin d’encourager le respect des dispositions de la présente loi et de ses règlements, publier des renseignements la concernant.
+
+
+
+
+
+######           — 2017, ch. 7, art. 31
+
+**31** Le passage de l’article 45.1 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Fourniture de renseignements**
+
+**45.1** Le ministre peut, par arrêté, ordonner à une personne qui est autorisée sous le régime de la présente loi à effectuer des opérations relativement à des substances désignées ou à des précurseurs, qui importe des instruments désignés ou qui effectue des opérations visées à l’article 46.4 de lui fournir, dans le délai et de la manière qu’il précise, tout renseignement relatif à ces importations ou opérations qu’il estime nécessaire aux fins suivantes :
+
+
+
+
+
+######           — 2017, ch. 7, art. 32
+
+**32** L’article 45.2 de la même loi est remplacé par ce qui suit :
+
+**Mesures**
+
+**45.2** Le ministre peut, par arrêté, ordonner à une personne qui est autorisée sous le régime de la présente loi à effectuer des opérations relativement à des substances désignées ou à des précurseurs ou qui effectue des opérations visées à l’article 46.4 de prendre, dans le délai et de la manière qu’il précise, toute mesure visant à prévenir le non-respect des dispositions de la présente loi ou de ses règlements ou, s’il a des motifs raisonnables de croire qu’il y a un tel non-respect, visant à y remédier.
+
+
+
+
+
+######           — 2017, ch. 7, art. 35
+
+**35** 
+
+- **(1)** Le paragraphe 46.3(1) de la même loi est remplacé par ce qui suit :
+
+**Importation d’instruments désignés**
+
+**46.3** 
+
+- **(1)** L’importation d’un instrument désigné est interdite sauf lorsqu’elle est enregistrée par le ministre et est faite conformément aux règlements.
+
+
+
+- **(2)** Le paragraphe 46.3(2) de la même loi est modifié par adjonction, après l’alinéa f), de ce qui suit :
+
+- **g)** tout autre renseignement réglementaire.
+
+
+
+
+
+######           — 2017, ch. 7, art. 36
+
+**36** La même loi est modifiée par adjonction, avant l’article 47, de ce qui suit :
+
+**Instrument désigné : opération visée par règlement**
+
+**46.4** Toute opération visée par règlement relativement à un instrument désigné est interdite sauf en conformité avec les règlements.
+
+
+
+
+
+######           — 2017, ch. 7, par. 40(12) et (13)
+
+**40** 
+
+- **(12)** Le paragraphe 55(1) de la même loi est modifié par adjonction, après l’alinéa z.01), de ce qui suit :
+
+- **z.02)** régir, autoriser, contrôler ou restreindre l’importation, l’exportation, la vente, la fourniture ou la possession d’instruments désignés, ou d’une de leurs catégories, ainsi que toutes autres opérations portant sur ceux-ci;
+- **z.03)** régir la délivrance, la suspension, la révocation et la durée de toute licence ou catégorie de licences ou de tout permis d’importation, d’exportation, de fourniture, de vente, ou de possession d’instruments désignés, ou d’une de leurs catégories, ainsi que les conditions applicables à ces licences ou catégories de licences ou à ces permis;
+
+
+
+- **(13)** Le paragraphe 55(1) de la même loi est modifié par adjonction, après l’alinéa z.03), de ce qui suit :
+
+- **z.04)** prévoir que l’exportation, la vente, la fourniture ou la possession d’instruments désignés, ou d’une de leurs catégories, est une opération pour l’application de l’article 46.4;
+- **z.05)** régir les circonstances et les conditions dans lesquelles peuvent se faire les opérations visées à l’alinéa z.04), le mode d’autorisation de celles-ci, ainsi que les personnes ou catégories de personnes pouvant s’y livrer ou habilitées à les autoriser;
+- **z.06)** régir l’enregistrement, pour l’application de l’article 46.4, de toute opération relative aux instruments désignés ou à une de leurs catégories;
+
+
+
+
+
+######           — 2018, ch. 16, art. 199
+
+**199** 
+
+- **(1)** Sous réserve du paragraphe (2), le paragraphe 34(2) de la même loi est remplacé par ce qui suit :
+
+**Plafond de la sanction**
+
+- **(2)** Le plafond de la sanction est d’un million de dollars.
+
+- **(2)** Le paragraphe (1) s’applique seulement si le projet de loi C-37, déposé au cours de la 1<sup>re</sup> session de la 42<sup>e</sup> législature et intitulé Loi modifiant la Loi réglementant certaines drogues et autres substances et apportant des modifications connexes à d’autres lois, reçoit la sanction royale. Si cette loi reçoit la sanction royale, le paragraphe (1) entre en vigueur dès que l’article 28 de cette loi et le présent paragraphe sont tous les deux en vigueur.
+
 
 
