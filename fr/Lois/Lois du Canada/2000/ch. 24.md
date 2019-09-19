@@ -287,7 +287,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consentement du procureur général**
 
 - **(4)** Les poursuites à l’égard d’une infraction visée à l’article 18 sont subordonnées au consentement du procureur général du Canada.
-> 2000, ch. 24, art. 9; 2001, ch. 32, art. 59.
+> 2000, ch. 24, art. 9; 2001, ch. 32, art. 59
 
 
 
@@ -461,7 +461,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Preuve dans des cas particuliers**
 
-- **(2)** Constitue un témoignage ou une déposition pour l’application du paragraphe (1) la déposition visée aux articles 714.1, 714.2, 714.3 ou 714.4 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou le témoignage visé au paragraphe 46(2) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md), ou la déposition faite conformément à une ordonnance rendue au titre de l’article 22.2 de la [Loi sur l’entraide juridique en matière criminelle](/fr/Lois/Lois%20du%20Canada/1985/ch.%2030%20(4e%20suppl.).md).
+- **(2)** Constitue un témoignage ou une déposition pour l’application du paragraphe (1) la déposition visée aux articles 714.1, 714.2 ou 714.3 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou le témoignage visé au paragraphe 46(2) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md), ou la déposition faite conformément à une ordonnance rendue au titre de l’article 22.2 de la [Loi sur l’entraide juridique en matière criminelle](/fr/Lois/Lois%20du%20Canada/1985/ch.%2030%20(4e%20suppl.).md).
 
 **Définition de témoignage ou déposition**
 
@@ -470,6 +470,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve de procès antérieur**
 
 - **(4)** Lorsqu’une personne est inculpée d’une infraction visée au présent article, un certificat, précisant de façon raisonnable la procédure où cette personne aurait rendu le témoignage qui fait l’objet de l’infraction, fait preuve qu’il a été rendu dans une procédure devant la Cour pénale internationale, sans qu’il soit nécessaire de prouver l’authenticité de la signature ni la qualité officielle du signataire, si le certificat est apparemment signé par le greffier de cette cour ou autre fonctionnaire ayant la garde du procès-verbal de cette procédure ou par son substitut légitime.
+> 2000, ch. 24, art. 202019, ch. 25, art. 399
+
 
 
 
@@ -568,7 +570,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** sont des produits de la criminalité, au sens du paragraphe 462.3(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), obtenus par la perpétration d’une infraction visée à la présente loi, ou qui en proviennent directement ou indirectement,
 	- **(ii)** ont été confisqués au profit de Sa Majesté et dont il a disposé;
 - **b)** les amendes versées ou perçues en application du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en remplacement des biens visés à l’alinéa a).
-> 2000, ch. 24, art. 31; 2001, ch. 32, art. 61; 2019, ch. 29, art. 122(F).
+> 2000, ch. 24, art. 31; 2001, ch. 32, art. 612019, ch. 29, art. 122(F)
 
 
 
@@ -577,7 +579,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application : [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md)**
 
 **32** Les alinéas 9d), e) et f) et les articles 10, 11 et 13 à 16 de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md) ne s’appliquent pas aux biens, au produit de leur disposition et aux amendes visés à l’article 31.
-> 2000, ch. 24, art. 32; 2019, ch. 29, art. 123(F).
+> 2000, ch. 24, art. 322019, ch. 29, art. 123(F)
 
 
 
