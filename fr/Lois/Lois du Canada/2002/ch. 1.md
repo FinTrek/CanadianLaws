@@ -124,7 +124,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(3)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
-> 2002, ch. 1, art. 2, ch. 7, art. 274; 2012, ch. 1, art. 167; 2014, ch. 2, art. 52.
+> 2002, ch. 1, art. 2, ch. 7, art. 274; 2012, ch. 1, art. 167; 2014, ch. 2, art. 52
 
 
 
@@ -163,7 +163,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Souplesse d’interprétation**
 
 - **(2)** La présente loi doit faire l’objet d’une interprétation large garantissant aux adolescents un traitement conforme aux principes énoncés au paragraphe (1).
-> 2002, ch. 1, art. 3; 2012, ch. 1, art. 168.
+> 2002, ch. 1, art. 3; 2012, ch. 1, art. 168
 
 
 
@@ -352,7 +352,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs supplémentaires**
 
 - **(7)** Le juge d’une cour supérieure de juridiction criminelle qui est réputé être un juge du tribunal pour adolescents conserve les attributions de cette cour.
-> 2002, ch. 1, art. 14; 2015, ch. 20, art. 32 et 36, ch. 29, art. 14; 2019, ch. 13, art. 159.
+> 2002, ch. 1, art. 14; 2015, ch. 20, art. 32 et 36, ch. 29, art. 142019, ch. 13, art. 159
 
 
 
@@ -478,7 +478,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Compétence du juge de paix**
 
 - **(2)** Malgré le paragraphe 14(2), le juge de paix a aussi compétence pour rendre à l’égard de l’adolescent l’ordonnance visée à l’article 810 (engagement — crainte de blessures ou dommages) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); dans le cas où l’adolescent omet ou refuse de contracter l’engagement prévu à cet article, le juge de paix renvoie l’affaire au tribunal pour adolescents.
-> 2002, ch. 1, art. 20; 2019, ch. 13, art. 160.
+> 2002, ch. 1, art. 202019, ch. 13, art. 160
 
 
 
@@ -605,7 +605,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(11)** Les paragraphes (4) à (9) ne s’appliquent pas à l’adolescent qui, à la date de sa première comparution devant le tribunal pour adolescents relativement à l’infraction qui lui est reprochée, a atteint l’âge de vingt ans; il demeure entendu que celui-ci conserve toutefois les droits dont bénéficient les adultes en vertu de la loi.
-> 2002, ch. 1, art. 25; 2019, ch. 13, art. 161.
+> 2002, ch. 1, art. 252019, ch. 13, art. 161
 
 
 
@@ -742,7 +742,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Charge de la preuve**
 
 - **(3)** Il incombe au procureur général de convaincre le juge du tribunal ou le juge de paix de l’existence des conditions visées au paragraphe (2).
-> 2002, ch. 1, art. 29; 2012, ch. 1, art. 169; 2019, ch. 13, art. 163.
+> 2002, ch. 1, art. 29; 2012, ch. 1, art. 1692019, ch. 13, art. 163
 
 
 
@@ -787,7 +787,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détermination par l’autorité provinciale d’un lieu de détention**
 
 - **(9)** Dans les provinces où le lieutenant-gouverneur en conseil a désigné une personne ou un groupe de personnes pouvant déterminer le lieu où un adolescent qui a été arrêté peut être détenu conformément au présent article, il est interdit de détenir l’adolescent dans un lieu autre que celui qui a été ainsi déterminé.
-> 2002, ch. 1, art. 30; 2019, ch. 13, art. 164.
+> 2002, ch. 1, art. 302019, ch. 13, art. 164
 
 
 
@@ -863,7 +863,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cas où le tribunal n’est pas convaincu que l’accusation est bien comprise**
 
 - **(5)** Lorsque le tribunal pour adolescents n’est pas convaincu que l’adolescent comprend bien les points énoncés au paragraphe (3), il doit ordonner qu’un avocat lui soit désigné.
-> 2002, ch. 1, art. 32, ch. 13, art. 91; 2012, ch. 1, art. 170.
+> 2002, ch. 1, art. 32, ch. 13, art. 91; 2012, ch. 1, art. 170
 
 
 
@@ -1048,7 +1048,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Appel de certaines peines ou décisions**
 
-- **(4)** Les ordonnances rendues en vertu des paragraphes 72(1) ou (1.1) (peine applicable aux adultes ou peine spécifique), 75(2) (levée de l’interdiction de publication) ou 76(1) (placement en cas de peine applicable aux adultes) peuvent être portées en appel comme partie de la peine; si plusieurs de celles-ci sont portées en appel, les appels sont réunis, sauf décision contraire du tribunal d’appel.
+- **(4)** Les ordonnances rendues en vertu des paragraphes 72(1) ou (1.1) (peine applicable aux adultes ou peine spécifique) ou 76(1) (placement en cas de peine applicable aux adultes) peuvent être portées en appel comme partie de la peine; si plusieurs de celles-ci sont portées en appel, les appels sont réunis, sauf décision contraire du tribunal d’appel.
 
 **Appels dans le cas de déclaration sommaire de culpabilité**
 
@@ -1077,7 +1077,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Peines non susceptibles d’appel**
 
 - **(11)** Les peines spécifiques imposées en vertu des articles 59 ou 94 à 96 ne sont pas susceptibles d’appel.
-> 2002, ch. 1, art. 37; 2012, ch. 1, art. 171.
+> 2002, ch. 1, art. 37; 2012, ch. 1, art. 1712019, ch. 25, art. 370
 
 
 
@@ -1122,7 +1122,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** du temps passé en détention par suite de l’infraction;
 	- **e)** des déclarations de culpabilité antérieures de l’adolescent;
 	- **f)** des autres circonstances aggravantes ou atténuantes liées à la perpétration de l’infraction ou à la situation de l’adolescent et pertinentes au titre des principes et objectif énoncés au présent article.
-> 2002, ch. 1, art. 38; 2012, ch. 1, art. 172.
+> 2002, ch. 1, art. 38; 2012, ch. 1, art. 172
 
 
 
@@ -1172,7 +1172,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision motivée**
 
 - **(9)** Toute peine spécifique comportant une période de garde doit donner les motifs pour lesquels une peine spécifique ne comportant pas de placement sous garde ne suffirait pas pour atteindre l’objectif mentionné au paragraphe 38(1), y compris, le cas échéant, les motifs pour lesquels il s’agit d’un cas exceptionnel visé à l’alinéa (1)d).
-> 2002, ch. 1, art. 39; 2012, ch. 1, art. 173.
+> 2002, ch. 1, art. 39; 2012, ch. 1, art. 173
 
 
 
@@ -1373,7 +1373,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Durée d’application des peines spécifiques**
 
 - **(17)** Sous réserve des articles 89, 92 et 93 (dispositions relatives au placement en établissement pour adultes) de la présente loi et de l’article 743.5 (transfert de compétence) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), toute peine spécifique prononcée à l’endroit d’un adolescent continue à produire ses effets après qu’il a atteint l’âge adulte.
-> 2002, ch. 1, art. 42; 2012, ch. 1, art. 174.
+> 2002, ch. 1, art. 42; 2012, ch. 1, art. 174
 
 
 
@@ -1785,13 +1785,9 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 - **(1)** Le procureur général peut, avant la présentation d’éléments de preuve ou, à défaut de présentation de tels éléments, avant la présentation d’observations dans le cadre de l’audience pour la détermination de la peine, demander au tribunal pour adolescents l’assujettissement de l’adolescent à la peine applicable aux adultes si celui-ci est ou a été déclaré coupable d’une infraction commise après avoir atteint l’âge de quatorze ans et pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans.
 
-**Obligation**
+- **(1.1)** [Abrogé, 2019, ch. 25, art. 376]
 
-- **(1.1)** Le procureur général doit déterminer s’il y a lieu de présenter une demande en vertu du paragraphe (1) lorsque, d’une part, l’infraction est une infraction grave avec violence et, d’autre part, l’adolescent l’a commise après avoir atteint l’âge de quatorze ans. Si, dans ces circonstances, il décide de ne pas présenter une telle demande, il doit en aviser le tribunal avant la présentation du plaidoyer ou, avec l’autorisation de celui-ci, avant le début du procès.
-
-**Décret fixant l’âge**
-
-- **(1.2)** Le lieutenant-gouverneur en conseil d’une province peut, par décret, fixer un âge de plus de quatorze ans mais d’au plus seize ans pour l’application du paragraphe (1.1).
+- **(1.2)** [Abrogé, 2019, ch. 25, art. 376]
 
 **Avis du procureur général au tribunal**
 
@@ -1802,7 +1798,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(3)** L’avis donné conformément au paragraphe (2) à l’égard d’une infraction est valable à l’égard de toute infraction incluse dont l’adolescent est déclaré coupable et pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans.
 
 - **(4) et (5)** [Abrogés, 2012, ch. 1, art. 176]
-> 2002, ch. 1, art. 64; 2012, ch. 1, art. 176.
+> 2002, ch. 1, art. 64; 2012, ch. 1, art. 1762019, ch. 25, art. 376
 
 
 
@@ -1877,7 +1873,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(9)** Les poursuites intentées sous le régime de la présente loi devant un juge sans jury ou un tribunal composé d’un juge et d’un jury ou, dans le cas d’une procédure au Nunavut, devant un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, avec ou sans jury, sont régies par les parties XIX (actes criminels — procès sans jury) et XX (procédures lors d’un procès devant jury — dispositions générales) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), avec les adaptations nécessaires, sauf que :
 	- **a)** les dispositions de la présente loi relatives à la protection de la vie privée des adolescents l’emportent sur les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** l’adolescent a le droit d’être représenté par un avocat si le tribunal le fait éloigner en application du paragraphe 650(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2002, ch. 1, art. 67, ch. 13, art. 91; 2012, ch. 1, art. 178; 2019, ch. 13, art. 166.
+> 2002, ch. 1, art. 67, ch. 13, art. 91; 2012, ch. 1, art. 1782019, ch. 13, art. 166
 
 
 
@@ -1893,7 +1889,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Infraction incluse**
 
 - **(2)** Dans le cas où il a donné avis, en application du paragraphe 64(2), de son intention de demander l’assujettissement à la peine applicable aux adultes de l’adolescent qui a été déclaré coupable d’une infraction incluse qu’il a commise après avoir atteint l’âge de quatorze ans et pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans, le procureur général peut présenter la demande visée au paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes).
-> 2002, ch. 1, art. 69; 2012, ch. 1, art. 180.
+> 2002, ch. 1, art. 69; 2012, ch. 1, art. 180
 
 
 
@@ -1906,7 +1902,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Audition des demandes**
 
 **71** Le tribunal pour adolescents saisi de la demande visée au paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes) procède à l’audition de celle-ci au début de l’audience pour la détermination de la peine, sauf si la demande a fait l’objet d’un avis de non-opposition. Il donne aux deux parties et aux père et mère de l’adolescent l’occasion de se faire entendre.
-> 2002, ch. 1, art. 71; 2012, ch. 1, art. 182.
+> 2002, ch. 1, art. 71; 2012, ch. 1, art. 182
 
 
 
@@ -1939,7 +1935,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Appel**
 
 - **(5)** Pour l’application de l’article 37, l’ordonnance rendue en vertu des paragraphes (1) ou (1.1) fait partie de la peine.
-> 2002, ch. 1, art. 72; 2012, ch. 1, art. 183.
+> 2002, ch. 1, art. 72; 2012, ch. 1, art. 183
 
 
 
@@ -1954,7 +1950,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Imposition d’une peine spécifique**
 
 - **(2)** Dans le cas où il rend l’ordonnance visée au paragraphe 72(1.1) et que l’adolescent est déclaré coupable de l’infraction, le tribunal lui impose une peine spécifique.
-> 2002, ch. 1, art. 73; 2012, ch. 1, art. 184.
+> 2002, ch. 1, art. 73; 2012, ch. 1, art. 184
 
 
 
@@ -1976,26 +1972,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 
 
-
-**Décision à l’égard de l’interdiction de publication**
-
-**75** 
-
-- **(1)** Lorsqu’il impose une peine spécifique à l’adolescent déclaré coupable d’une infraction avec violence, le tribunal pour adolescents décide s’il est indiqué de rendre une ordonnance levant l’interdiction prévue au paragraphe 110(1) de publier tout renseignement de nature à révéler que l’adolescent a fait l’objet de mesures prises sous le régime de la présente loi.
-
-**Ordonnance**
-
-- **(2)** Le tribunal peut rendre une ordonnance levant l’interdiction de publication s’il est convaincu, compte tenu de l’importance des principes et objectif énoncés aux articles 3 et 38, qu’il y a un risque important que l’adolescent commette à nouveau une infraction avec violence et que la levée de l’interdiction est nécessaire pour protéger le public contre ce risque.
-
-**Charge de la preuve**
-
-- **(3)** Il incombe au procureur général de convaincre le tribunal que l’ordonnance est indiquée dans les circonstances.
-
-**Appel**
-
-- **(4)** Pour l’application de l’article 37, l’ordonnance rendue en vertu du paragraphe (2) fait partie de la peine.
-> 2002, ch. 1, art. 75; 2012, ch. 1, art. 185.
-
+**75** [Abrogé, 2019, ch. 25, art. 377]
 
 
 
@@ -2017,9 +1994,9 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 - **(3)** Le tribunal pour adolescent doit, avant de rendre l’ordonnance visée au paragraphe (1), donner l’occasion de se faire entendre à l’adolescent, à ses père ou mère, au procureur général, au directeur provincial et aux représentants des systèmes correctionnels fédéral et provincial.
 
-**Rapport obligatoire**
+**Rapport**
 
-- **(4)** Le tribunal doit exiger la préparation d’un rapport pour l’aider à rendre l’ordonnance visée au paragraphe (1).
+- **(4)** Le tribunal peut exiger la préparation d’un rapport pour l’aider à rendre l’ordonnance visée au paragraphe (1).
 
 **Appel**
 
@@ -2043,7 +2020,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Limite d’âge**
 
 - **(9)** Aucun adolescent ne doit demeurer dans un lieu de garde aux termes du présent article après avoir atteint l’âge de vingt ans, sauf si le tribunal qui rend l’ordonnance en vertu du paragraphe (1) ou examine le placement en vertu du paragraphe (6) est convaincu que l’adolescent — dans son propre intérêt et pour éviter de mettre en danger la sécurité d’autres personnes — devrait y demeurer.
-> 2002, ch. 1, art. 76; 2012, ch. 1, art. 186.
+> 2002, ch. 1, art. 76; 2012, ch. 1, art. 1862019, ch. 25, art. 378
 
 
 
@@ -2064,7 +2041,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(3)** Pour l’application du présent article, l’autorité compétente en matière de libération conditionnelle est :
 	- **a)** dans le cas où l’adolescent aurait été assujetti au paragraphe 112(1) de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md) n’eût été son placement dans un lieu de garde, la commission provinciale visée à ce paragraphe;
 	- **b)** dans tout autre cas, la Commission des libérations conditionnelles du Canada.
-> 2002, ch. 1, art. 77; 2012, ch. 1, art. 160.
+> 2002, ch. 1, art. 77; 2012, ch. 1, art. 160
 
 
 
@@ -2100,7 +2077,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Demandes et avis**
 
 **81** Les demandes visées aux articles 64 et 76 sont faites, et les avis au tribunal visés à ces articles sont donnés, soit oralement, en présence de l’autre partie, soit par écrit, avec copie signifiée personnellement à celle-ci.
-> 2002, ch. 1, art. 81; 2012, ch. 1, art. 187.
+> 2002, ch. 1, art. 81; 2012, ch. 1, art. 187
 
 
 
@@ -2137,7 +2114,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(4)** En cas de perpétration d’une infraction à une loi fédérale pour laquelle il est prévu une peine plus sévère en cas de récidive, il n’est pas tenu compte de la déclaration de culpabilité intervenue sous le régime de la présente loi, sauf s’il s’agit :
 	- **a)** [Abrogé, 2012, ch. 1, art. 188]
 	- **b)** de déterminer la peine applicable aux adultes à imposer.
-> 2002, ch. 1, art. 82; 2012, ch. 1, art. 156, 160 et 188.
+> 2002, ch. 1, art. 82; 2012, ch. 1, art. 156, 160 et 188
 
 
 
@@ -2874,7 +2851,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 - **(2)** Le paragraphe (1) ne s’applique pas lorsque les renseignements :
 	- **a)** concernent un adolescent à qui a été imposée une peine applicable aux adultes;
-	- **b)** concernent un adolescent à qui a été imposée une peine spécifique pour une infraction avec violence et à l’égard duquel le tribunal pour adolescents a rendu, en vertu du paragraphe 75(2), une ordonnance levant l’interdiction de publication;
+	- **b)** [Abrogé, 2019, ch. 25, art. 379]
 	- **c)** sont publiés dans le cadre de l’administration de la justice, à condition toutefois que la publication ne vise pas à diffuser les renseignements dans la collectivité.
 
 **Exception**
@@ -2894,7 +2871,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 **Demande d’autorisation de publication**
 
 - **(6)** Le tribunal peut, à la demande de l’adolescent concerné, autoriser celui-ci à publier tous renseignements permettant de savoir qu’il a fait l’objet de mesures prises sous le régime de la présente loi ou de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), s’il est convaincu qu’une telle publication n’est pas contraire à l’intérêt de l’adolescent ou à l’intérêt public.
-> 2002, ch. 1, art. 110; 2012, ch. 1, art. 189.
+> 2002, ch. 1, art. 110; 2012, ch. 1, art. 1892019, ch. 25, art. 379
 
 
 
@@ -2969,7 +2946,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 **Répertoire de la Gendarmerie royale du Canada**
 
 - **(3)** La Gendarmerie royale du Canada conserve les dossiers qui lui sont communiqués en vertu du paragraphe (2) dans un répertoire central désigné par le commissaire de la Gendarmerie royale du Canada aux fins de conservation soit d’antécédents criminels ou de dossiers sur des contrevenants, soit de renseignements permettant de les identifier.
-> 2002, ch. 1, art. 115; 2012, ch. 1, art. 190.
+> 2002, ch. 1, art. 115; 2012, ch. 1, art. 190
 
 
 
@@ -3109,7 +3086,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 - **(10)** Par dérogation aux autres dispositions de la présente loi, lorsque l’adolescent est déclaré coupable d’une infraction qui entraîne une ordonnance d’interdiction et que celle-ci est toujours en vigueur à l’expiration de la période applicable visée au paragraphe (2) :
 	- **a)** les dossiers de la Gendarmerie royale du Canada visés au paragraphe 115(3) ne peuvent être communiqués que pour établir l’existence de l’ordonnance en vue du contrôle d’application de la loi;
 	- **b)** les dossiers visés à l’article 114 tenus par le tribunal pour adolescents à l’égard de l’ordonnance ne peuvent être communiqués que pour établir l’existence de l’ordonnance en cas d’infraction contrevenant à celle-ci.
-> 2002, ch. 1, art. 119; 2012, ch. 1, art. 157 et 191(F); 2019, ch. 13, art. 167.
+> 2002, ch. 1, art. 119; 2012, ch. 1, art. 157 et 191(F)2019, ch. 13, art. 167
 
 
 
@@ -3157,7 +3134,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 - **(6)** Si, au cours de la période applicable visée au paragraphe (3), l’adolescent devenu adulte est à nouveau déclaré coupable d’une infraction mentionnée à l’annexe :
 	- **a)** la présente partie ne s’applique plus au dossier, et celui-ci est traité comme s’il était un dossier d’adulte et peut être versé au fichier automatisé des relevés des condamnations criminelles géré par la Gendarmerie royale du Canada;
 	- **b)** pour l’application de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), la déclaration de culpabilité à l’égard de l’infraction visée par le dossier est réputée être une condamnation.
-> 2002, ch. 1, art. 120; 2012, ch. 1, art. 158 et 192.
+> 2002, ch. 1, art. 120; 2012, ch. 1, art. 158 et 192
 
 
 
@@ -3272,7 +3249,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 **126** Le bibliothécaire et archiviste du Canada ou un archiviste provincial peut, si les conditions ci-après sont réunies, communiquer les renseignements contenus dans un dossier qui a initialement été tenu en application des articles 114 à 116 et qui est en sa possession :
 - **a)** un juge du tribunal pour adolescents est convaincu que la communication est souhaitable dans l’intérêt public pour des fins de recherche ou de statistiques;
 - **b)** l’autre personne s’engage à éviter de communiquer les renseignements d’une manière qui pourrait normalement permettre d’identifier l’adolescent visé par le dossier.
-> 2002, ch. 1, art. 126; 2004, ch. 11, art. 48.
+> 2002, ch. 1, art. 126; 2004, ch. 11, art. 48
 
 
 
@@ -3337,7 +3314,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 - **(7)** Pour l’application des paragraphes (2) et (3), ***destruction*** s’entend :
 	- **a)** dans le cas des dossiers qui ne sont pas sur support électronique, de leur déchiquetage, de leur brûlage ou de tout autre mode de destruction matérielle;
 	- **b)** dans le cas des dossiers qui sont sur support électronique, de leur élimination, y compris par effacement pour substitution, ou de tout autre moyen empêchant d’y avoir accès.
-> 2002, ch. 1, art. 128; 2004, ch. 11, art. 49; 2012, ch. 1, art. 159.
+> 2002, ch. 1, art. 128; 2004, ch. 11, art. 49; 2012, ch. 1, art. 159
 
 
 
@@ -3609,7 +3586,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 **Définition de commission d’examen**
 
 - **(12)** Pour l’application du présent article, ***commission d’examen*** s’entend au sens de l’article 672.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2002, ch. 1, art. 141; 2005, ch. 22, art. 63.
+> 2002, ch. 1, art. 141; 2005, ch. 22, art. 63
 
 
 
@@ -3639,7 +3616,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 **Frais**
 
 - **(5)** L’article 809 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ne s’applique pas aux poursuites intentées dans le cadre de la présente loi.
-> 2002, ch. 1, art. 142; 2015, ch. 20, art. 33 et 36, ch. 29, art. 15.
+> 2002, ch. 1, art. 142; 2015, ch. 20, art. 33 et 36, ch. 29, art. 15
 
 
 
@@ -3916,7 +3893,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 **161** 
 
 - **(1)** Il doit être imposé une peine prévue par la présente loi à la personne visée à l’article 159 qui est déclarée coupable d’une infraction ou d’un délit, à l’exception de celle qui est déclarée coupable d’une infraction par la juridiction normalement compétente, au sens du paragraphe 2(1) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985); les dispositions de la présente loi applicables aux peines imposées en vertu de l’article 42 s’appliquent à cette peine, sauf que :
-	- **a)** l’alinéa 110(2)b) ne s’applique pas à l’infraction ou au délit;
+	- **a)** [Abrogé, 2019, ch. 25, art. 382]
 	- **b)** l’alinéa 42(2)r) ne s’applique à l’infraction ou au délit que si l’adolescent y consent.
 
 **Décisions prévues aux alinéas 20(1)k) et k.1) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md)**
@@ -3926,6 +3903,8 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 **Examen**
 
 - **(3)** Il est entendu que la date de prise d’effet de la décision visée à la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), est celle dont il est tenu compte pour déterminer la date de l’examen prévu à l’article 94.
+> 2002, ch. 1, art. 1612019, ch. 25, art. 382
+
 
 
 
@@ -3933,7 +3912,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 **Dépôt d’une dénonciation ou d’un acte d’accusation**
 
 **162** Pour l’application des articles 158 et 159, les poursuites sont intentées par dépôt de la dénonciation ou de l’acte d’accusation.
-> 2002, ch. 1, art. 162; 2012, ch. 1, art. 194.
+> 2002, ch. 1, art. 162; 2012, ch. 1, art. 194
 
 
 
@@ -4092,6 +4071,357 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 - **e)** article 14 (assistance d’un jeune).
 
 
-> 2002, ch. 1, ann.; 2014, ch. 25, art. 43; 2018, ch. 16, art. 184; 2019, ch. 25, art. 383.
+> 2002, ch. 1, ann.; 2014, ch. 25, art. 43; 2018, ch. 16, art. 1842019, ch. 25, art. 383
+
+
+
+
+## DISPOSITIONS CONNEXES
+
+######           — 2012, ch. 1, al. 163c)
+
+
+**Mention : autres lois**
+
+**163** Dans les dispositions ci-après, édictées par la présente partie, la mention de la demande de suspension du casier vaut aussi mention de la demande de réhabilitation qui n’a pas encore fait l’objet d’une décision définitive à la date d’entrée en vigueur du présent article :
+- **c)** l’alinéa 82(1)d) et les sous-alinéas 119(1)n)(iii) et 120(4)c)(iii) de la Loi sur le système de justice pénale pour les adolescents.
+
+
+
+######           — 2012, ch. 1, al. 165f)
+
+
+**Mention : autres lois**
+
+**165** Dans les dispositions ci-après, édictées par la présente partie, la mention de la suspension du casier vaut aussi mention de la réhabilitation octroyée ou délivrée en vertu de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) :
+- **f)** le paragraphe 128(5) de la Loi sur le système de justice pénale pour les adolescents.
+
+
+
+######           — 2012, ch. 1, art. 195
+
+
+**Infractions commises avant l’entrée en vigueur du présent article**
+
+**195** Toute personne qui, avant l’entrée en vigueur du présent article, a commis, alors qu’elle était dans l’adolescence, une infraction qui n’a fait l’objet d’aucune poursuite avant cette entrée en vigueur est assujettie à la Loi sur le système de justice pénale pour les adolescents, dans sa version modifiée par la présente partie, comme si l’infraction avait été commise après cette entrée en vigueur, sauf que les dispositions ci-après ne s’appliquent pas à l’infraction :
+- **a)** la définition de infraction avec violence au paragraphe 2(1) de la Loi sur le système de justice pénale pour les adolescents, dans sa version édictée par le paragraphe 167(3);
+- **b)** l’alinéa 3(1)a) de cette loi, dans sa version édictée par le paragraphe 168(1);
+- **c)** l’alinéa 38(2)f) de cette loi, édicté par l’article 172;
+- **d)** l’alinéa 39(1)c) de cette loi, dans sa version édictée par l’article 173;
+- **e)** l’article 75 de cette loi, dans sa version édictée par l’article 185.
+
+
+
+######           — 2014, ch. 25, art. 45.1
+
+
+**Examen**
+
+**45.1** 
+
+- **(1)** Dans les cinq ans suivant l’entrée en vigueur du présent article, un examen complet des dispositions et de l’application de la présente loi doit être fait par le comité de la Chambre des communes que celle-ci désigne ou constitue à cette fin.
+
+**Rapport**
+
+- **(2)** Dans l’année qui suit le début de son examen ou dans le délai supérieur que la Chambre lui accorde, le comité visé au paragraphe (1) remet son rapport, accompagné des modifications qu’il recommande, au président de la Chambre.
+
+
+
+######           — 2019, ch. 25, art. 384
+
+
+**Paragraphe 59(10)**
+
+**384** Le paragraphe 59(10) de la Loi sur le système de justice pénale pour les adolescents ne s’applique pas à l’égard de la peine pour une infraction commise avant l’entrée en vigueur de ce paragraphe.
+
+
+
+
+
+## MODIFICATIONS NON EN VIGUEUR
+
+######           — 2019, ch. 25, art. 361
+
+**361** La Loi sur le système de justice pénale pour les adolescents est modifiée par adjonction, après l’article 4, de ce qui suit :
+
+**Certaines infractions — mesures extrajudiciaires réputées suffisantes**
+
+**4.1** 
+
+- **(1)** Le recours à des mesures extrajudiciaires est présumé suffire pour faire répondre l’adolescent d’une omission ou d’un refus visés à l’article 137 ou d’une omission visée à l’article 496 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), sauf dans les cas suivants :
+	- **a)** l’adolescent s’est adonné, de manière répétitive, à de tels omissions ou refus;
+	- **b)** l’omission ou le refus a porté atteinte ou présenté un risque d’atteinte à la sécurité du public.
+
+**Certaines infractions — recours à diverses mesures**
+
+- **(2)** Dans les cas visés aux alinéas (1)a) et b), il convient :
+	- **a)** si elles suffisent pour faire répondre l’adolescent de l’omission ou du refus, de recourir aux mesures extrajudiciaires;
+	- **b)** si le recours à des mesures extrajudiciaires ne suffit pas à cette fin, mais que le recours à des mesures de rechange à des accusations — délivrance d’une citation à comparaître au titre de l’article 496 (comparution pour manquement) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou présentation d’une demande d’examen de la peine visée au paragraphe 59(1) — y suffit, de prendre la mesure de rechange applicable.
+
+
+
+
+
+######           — 2019, ch. 25, art. 362
+
+**362** Le paragraphe 6(1) de la même loi est remplacé par ce qui suit :
+
+**Avertissements, mises en garde et renvois**
+
+**6** 
+
+- **(1)** L’agent de police détermine s’il est préférable, compte tenu des principes énoncés aux articles 4 et 4.1, plutôt que d’engager des poursuites contre l’adolescent à qui est imputée une infraction ou de prendre d’autres mesures sous le régime de la présente loi, de ne prendre aucune mesure, de lui donner soit un avertissement, soit une mise en garde dans le cadre de l’article 7 ou de le renvoyer, si l’adolescent y consent, à un programme ou organisme communautaire susceptible de l’aider à ne pas commettre d’infractions.
+
+
+
+
+
+######           — 2019, ch. 25, art. 363
+
+**363** La même loi est modifiée par adjonction, après l’article 24, de ce qui suit :
+
+### Examen de certaines accusations par le procureur général
+
+
+**Examen obligatoire**
+
+**24.1** Lorsque sont retirées, rejetées ou suspendues des accusations à l’égard desquelles une citation à comparaître a été délivrée, une sommation a été décernée, une promesse a été remise ou une ordonnance de remise en liberté a été rendue — ou que l’adolescent a été acquitté de telles accusations —, le procureur général examine toute accusation pendante contre l’adolescent, portée au titre de l’un ou l’autre des paragraphes 145(2) à (5) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), pour défaut de se conformer, selon le cas, à la citation à comparaître, à la sommation, à la promesse ou à l’ordonnance de remise en liberté afin de décider s’il y a lieu de continuer la poursuite.
+
+
+
+
+
+######           — 2019, ch. 25, art. 364
+
+**364** 
+
+- **(1)** Le paragraphe 25(2) de la même loi est remplacé par ce qui suit :
+
+**Avis relatif au droit à un avocat — agent**
+
+- **(2)** L’adolescent doit, dès son arrestation ou sa mise en détention, être avisé par l’agent qui a procédé à l’arrestation de son droit d’avoir recours aux services d’un avocat; il lui sera donné l’occasion de retenir les services d’un avocat.
+
+- **(2)** Les alinéas 25(9)c) et d) de la même loi sont remplacés par ce qui suit :
+
+- **c)** la promesse remise par l’adolescent à un agent de la paix;
+
+
+
+
+
+######           — 2019, ch. 25, art. 365
+
+**365** Les paragraphes 26(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+**Avis au père ou à la mère en cas d’arrestation et de détention**
+
+**26** 
+
+- **(1)** Sous réserve du paragraphe (4), lorsqu’un adolescent est arrêté et détenu sous garde en attendant sa comparution devant le tribunal, un agent de la paix doit, dans les meilleurs délais suivant sa mise en détention, donner ou faire donner au père ou à la mère de l’adolescent un avis, oral ou écrit, de l’arrestation, de ses motifs et du lieu de détention.
+
+**Avis au père ou à la mère en d’autres cas**
+
+- **(2)** Sous réserve du paragraphe (4), la personne qui a décerné une sommation ou une citation à comparaître destinée à un adolescent ou, en cas de mise en liberté de l’adolescent aux termes d’une promesse, un agent de la paix doit, dans les meilleurs délais, donner ou faire donner au père ou à la mère de l’adolescent un avis de la sommation, de la citation à comparaître ou de la promesse.
+
+
+
+
+
+######           — 2019, ch. 25, art. 367
+
+**367** La même loi est modifiée par adjonction, après l’article 28, de ce qui suit :
+
+**Interdiction de substitution à des mesures sociales**
+
+**28.1** La détention sous garde de l’adolescent et l’imposition de conditions à sa mise en liberté — par inclusion dans une promesse ou une ordonnance de mise en liberté — ne doivent pas être substituées à des services de protection de la jeunesse ou de santé mentale, ou à d’autres mesures sociales plus appropriés.
+
+
+
+
+
+######           — 2019, ch. 25, art. 368
+
+**368** Le paragraphe 29(1) de la même loi est remplacé par ce qui suit :
+
+**Ordonnance de mise en liberté avec conditions**
+
+**29** 
+
+- **(1)** Le juge du tribunal pour adolescents ou le juge de paix ne peut assortir l’ordonnance de mise en liberté de conditions visées à l’un ou l’autre des paragraphes 515(4) à (4.2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) que s’il estime, à la fois :
+	- **a)** que les conditions sont nécessaires pour assurer la présence de l’adolescent au tribunal ou pour la protection ou la sécurité du public, notamment celle des victimes et des témoins de l’infraction;
+	- **b)** qu’elles sont raisonnables au regard des circonstances entourant le comportement délictueux en cause;
+	- **c)** que l’adolescent pourra raisonnablement s’y conformer.
+
+
+
+
+
+######           — 2019, ch. 25, art. 369
+
+**369** La même loi est modifiée par adjonction, après l’article 30, de ce qui suit :
+
+**Examen de la détention — délai de 30 jours**
+
+**30.1** Pour l’application de l’article 525 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à l’égard d’un adolescent ayant été inculpé d’une infraction pour laquelle il est poursuivi par procédure sommaire, les mentions dans cet article de « quatre-vingt-dix jours » valent mention de « trente jours ».
+
+
+
+
+
+######           — 2019, ch. 25, par. 370(2)
+
+**370** 
+
+- **(2)** Le paragraphe 37(11) de la même loi est remplacé par ce qui suit :
+
+**Peines non susceptibles d’appel**
+
+- **(11)** Les peines spécifiques imposées en vertu des articles 59 — à l’exception du paragraphe 59(10) — ou 94 à 96 ne sont pas susceptibles d’appel.
+
+
+
+######           — 2019, ch. 25, art. 371
+
+**371** Le paragraphe 38(2) de la même loi est modifié par adjonction, après l’alinéa e), de ce qui suit :
+
+- **e.1)** lorsque la présente loi prévoit que le tribunal pour adolescents peut imposer des conditions dans le cadre d’une peine, il ne peut le faire que si les critères suivants sont remplis :
+	- **(i)** l’imposition des conditions est nécessaire à l’atteinte de l’objectif prévu au paragraphe 38(1),
+	- **(ii)** l’adolescent pourra raisonnablement s’y conformer,
+	- **(iii)** elles ne sont pas substituées à des services de protection de la jeunesse ou de santé mentale, ou à d’autres mesures sociales plus appropriés;
+
+
+
+
+
+######           — 2019, ch. 25, art. 372
+
+**372** L’alinéa 39(1)b) de la même loi est remplacé par ce qui suit :
+
+- **b)** il a déjà été déclaré coupable d’une infraction à l’article 137 à l’égard de plus d’une peine et, si la peine qu’impose le tribunal a trait à une infraction prévue aux paragraphes 145(2) à (5) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 137, il a, en commettant cette infraction, porté atteinte ou présenté un risque d’atteinte à la sécurité du public;
+
+
+
+
+
+######           — 2019, ch. 25, art. 373
+
+**373** 
+
+- **(1)** L’alinéa 42(2)c) de la même loi est remplacé par ce qui suit :
+
+- **c)** l’absolution, décrétée par ordonnance, aux conditions imposées par le tribunal conformément à l’alinéa 38(2)e.1) et l’éventuelle obligation pour l’adolescent de se présenter au directeur provincial et de se soumettre à sa surveillance;
+
+
+
+- **(2)** L’alinéa 42(2)s) de la même loi est remplacé par ce qui suit :
+
+- **s)** l’imposition à l’adolescent, conformément à l’alinéa 38(2)e.1), de toutes autres conditions qu’il estime indiquées.
+
+
+
+
+
+######           — 2019, ch. 25, art. 374
+
+**374** 
+
+- **(1)** Le paragraphe 55(1) de la même loi est remplacé par ce qui suit :
+
+**Condition obligatoire des ordonnances**
+
+**55** 
+
+- **(1)** Le tribunal pour adolescents assortit l’ordonnance rendue en vertu des alinéas 42(2)k) ou l) d’une condition intimant à l’adolescent de répondre aux convocations du tribunal.
+
+
+
+- **(2)** Le passage du paragraphe 55(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+**Conditions facultatives des ordonnances**
+
+- **(2)** Le tribunal pour adolescents peut, conformément à l’alinéa 38(2)e.1), assortir l’ordonnance rendue en vertu des alinéas 42(2)k) ou l) de l’une ou plusieurs des conditions suivantes, intimant à l’adolescent :
+
+- **(3)** L’alinéa 55(2)h) de la même loi est remplacé par ce qui suit :
+
+- **h)** d’observer les autres conditions qu’il considère comme indiquées;
+
+
+
+
+
+######           — 2019, ch. 25, art. 375
+
+**375** 
+
+- **(1)** Le paragraphe 59(1) de la même loi est remplacé par ce qui suit :
+
+**Examen de la peine spécifique ne comportant pas de placement sous garde**
+
+**59** 
+
+- **(1)** Après avoir imposé, relativement à un adolescent, une peine spécifique autre que celles visées aux alinéas 42(2)n), o), q) ou r), le tribunal pour adolescents saisi d’une demande par l’adolescent, ses père ou mère, le procureur général ou le directeur provincial examine la peine s’il constate l’existence de l’un des motifs d’examen visés au paragraphe (2).
+
+
+
+- **(2)** Le paragraphe 59(8) de la même loi est remplacé par ce qui suit :
+
+**Interdiction d’une nouvelle peine plus sévère**
+
+- **(8)** Sous réserve des paragraphes (9) et (10), en cas d’examen dans le cadre du présent article d’une peine imposée à un adolescent, aucune peine imposée conformément au paragraphe (7) ne saurait, sans l’accord de l’adolescent, être plus sévère pour celui-ci que le reste des obligations imposées par la peine examinée.
+
+- **(3)** L’article 59 de la même loi est modifié par adjonction, après le paragraphe (9), de ce qui suit :
+
+**Exception — alinéa (2)c)**
+
+- **(10)** En cas d’examen d’une peine pour le motif prévu à l’alinéa (2)c), le tribunal pour adolescents peut imposer à l’adolescent, conformément à l’alinéa 38(2)e.1), des conditions additionnelles ou plus sévères qui, à son avis, soit offrirait une meilleure protection contre les risques d’atteinte à la sécurité du public que présenterait par ailleurs l’adolescent, soit permettrait d’aider l’adolescent à se conformer aux conditions lui ayant déjà été imposée dans le cadre de la peine.
+
+
+
+######           — 2019, ch. 25, art. 380
+
+**380** L’article 134 de la même loi est remplacé par ce qui suit :
+
+**Demandes de confiscation de certaines sommes**
+
+**134** Les demandes de confiscation des sommes prévues dans les promesses, ordonnances de mise en liberté ou engagements liant les adolescents sont portées devant le tribunal pour adolescents.
+
+
+
+
+
+######           — 2019, ch. 25, art. 381
+
+**381** 
+
+- **(1)** Les paragraphes 135(1) à (3) de la même loi sont remplacés par ce qui suit :
+
+**Cas de manquement**
+
+**135** 
+
+- **(1)** Lorsqu’un certificat a été, conformément au paragraphe 770(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), inscrit au verso de la promesse, de l’ordonnance de mise en liberté ou de l’engagement liant un adolescent, le juge du tribunal pour adolescents doit :
+	- **a)** à la demande du procureur général, fixer les date, heure et lieu de l’audience de la demande de confiscation des sommes prévues dans la promesse, l’ordonnance de mise en liberté ou l’engagement;
+	- **b)** après fixation des date, heure et lieu de l’audience, faire envoyer, au plus tard dix jours avant la date de l’audience, par service de messagerie, à chacun des intéressés et cautions mentionnés dans la promesse, l’ordonnance de mise en liberté ou l’engagement, à sa dernière adresse connue, un avis lui enjoignant de comparaître aux date, heure et lieu fixés par le juge afin d’exposer les raisons susceptibles de justifier la non-confiscation des sommes.
+
+**Ordonnance de confiscation**
+
+- **(2)** À la suite de l’accomplissement des formalités prévues au paragraphe (1), le juge du tribunal pour adolescents dispose, après avoir donné aux parties l’occasion de se faire entendre, d’un pouvoir discrétionnaire pour accueillir ou rejeter la demande et rendre, à propos de la confiscation des sommes, l’ordonnance qu’il estime appropriée.
+
+**Débiteurs de la Couronne**
+
+- **(3)** Lorsque le juge du tribunal pour adolescents ordonne, en vertu du paragraphe (2), la confiscation des sommes, l’intéressé et ses cautions deviennent débiteurs, par jugement, de la Couronne, chacun pour la somme que le juge lui ordonne de payer.
+
+
+
+- **(2)** Les paragraphes 135(5) et (6) de la même loi sont remplacés par ce qui suit :
+
+**Cas où un dépôt a été fait**
+
+- **(5)** Le bref de saisie-exécution n’est pas délivré lorsque la personne contre laquelle est rendue une ordonnance de confiscation a fait un dépôt; toutefois, le dépositaire doit en transférer le montant à la personne légalement habilitée à le recevoir.
+
+**Non-applicabilité des par. 770(2) et (4) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
+
+- **(6)** Les paragraphes 770(2) (transmission au greffier du tribunal) et (4) (transmission du dépôt) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ne s’appliquent pas aux procédures faites en vertu de la présente loi.
+
 
 
