@@ -3563,7 +3563,7 @@ En tout état de cause, il ne peut être disposé des biens qu’après le trent
 
 - **(2)** Si l’article 193.1 n’est pas entré en vigueur par décret avant le premier anniversaire de l’entrée en vigueur de l’article 33, il entre en vigueur à la date de ce premier anniversaire.
 
-<a name='fn_Ind4B6D_hq_22438'><sup>*</sup></a>: [Note : Les dispositions de la présente loi, sauf les articles 160.1 161, 188 à 193, 193.1, 194, 199 à 202, 206 et 225, en vigueur le 17 octobre 2018, *voir* TR/2018-52.]<br />
+<a name='fn_Ind4B6D_hq_22438'><sup>*</sup></a>: [Note : Les dispositions de la présente loi, sauf les articles 160.1, 161, 188 à 193, 193.1, 194, 199 à 202, 206 et 225, en vigueur le 17 octobre 2018, *voir* TR/2018-52; article 193.1 en vigueur le 17 octobre 2019.]<br />
 
 
 
@@ -3621,13 +3621,12 @@ En tout état de cause, il ne peut être disposé des biens qu’après le trent
 </tr>
 <tr>
 <td>5</td>
-<td>cannabis sous forme d’un concentré solide</td>
-<td>0,25 g</td>
+<td>cannabis sous forme de concentré</td>
+<td>0,25 g</td>
 </tr>
 <tr>
 <td>6</td>
-<td>cannabis sous forme d’un concentré qui n’est pas un solide</td>
-<td>0,25 g</td>
+<td>[Abrogé, DORS/2019-207, art. 1]</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3635,6 +3634,8 @@ En tout état de cause, il ne peut être disposé des biens qu’après le trent
 <td>1 graine</td>
 </tr>
 </table>
+
+> 2018, ch. 16, ann. 3DORS/2019-207, art. 1DORS/2019-207, art. 2
 
 
 
@@ -3667,7 +3668,21 @@ En tout état de cause, il ne peut être disposé des biens qu’après le trent
 <td>5</td>
 <td>graines provenant d’une plante de cannabis</td>
 </tr>
+<tr>
+<td>6</td>
+<td>cannabis comestible</td>
+</tr>
+<tr>
+<td>7</td>
+<td>extrait de cannabis</td>
+</tr>
+<tr>
+<td>8</td>
+<td>cannabis pour usage topique</td>
+</tr>
 </table>
+
+> 2018, ch. 16, ann. 42018, ch. 16, art. 193.1DORS/2019-207, art. 4DORS/2019-207, art. 5
 
 
 
