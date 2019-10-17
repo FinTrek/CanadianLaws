@@ -3604,7 +3604,7 @@ The property must not be disposed of or otherwise dealt with until the expiry of
 
 - **(2)** If section 193.1 does not come into force by order before the first anniversary of the day on which section 33 comes into force, section 193.1 comes into force on the first anniversary of the day on which section 33 comes into force.
 
-<a name='fn_IndF982_hq_22269'><sup>*</sup></a>: [Note: The provisions of this Act, except sections 160.1, 161, 188 to 193, 193.1, 194, 199 to 202, 206 and 225, in force October 17, 2018, *see* SI/2018-52.]<br />
+<a name='fn_IndF982_hq_22269'><sup>*</sup></a>: [Note: The provisions of this Act, except sections 160.1, 161, 188 to 193, 193.1, 194, 199 to 202, 206 and 225, in force October 17, 2018, *see* SI/2018-52; section 193.1 in force October 17, 2019.]<br />
 
 
 
@@ -3662,13 +3662,12 @@ The property must not be disposed of or otherwise dealt with until the expiry of
 </tr>
 <tr>
 <td>5</td>
-<td>cannabis solid concentrates</td>
-<td>0.25 g</td>
+<td>cannabis concentrates</td>
+<td>0.25 g</td>
 </tr>
 <tr>
 <td>6</td>
-<td>cannabis non-solid concentrates</td>
-<td>0.25 g</td>
+<td>[Repealed, SOR/2019-207, s. 1]</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3676,6 +3675,8 @@ The property must not be disposed of or otherwise dealt with until the expiry of
 <td>1 seed</td>
 </tr>
 </table>
+
+> 2018, c. 16, Sch. 3SOR/2019-207, s. 1SOR/2019-207, s. 2
 
 
 
@@ -3708,7 +3709,21 @@ The property must not be disposed of or otherwise dealt with until the expiry of
 <td>5</td>
 <td>cannabis plant seeds</td>
 </tr>
+<tr>
+<td>6</td>
+<td>edible cannabis</td>
+</tr>
+<tr>
+<td>7</td>
+<td>cannabis extracts</td>
+</tr>
+<tr>
+<td>8</td>
+<td>cannabis topicals</td>
+</tr>
 </table>
+
+> 2018, c. 16, Sch. 42018, c. 16, s. 193.1SOR/2019-207, s. 4SOR/2019-207, s. 5
 
 
 
