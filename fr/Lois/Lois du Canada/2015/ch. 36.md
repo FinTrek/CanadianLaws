@@ -213,7 +213,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-#### Modifications connexes à la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md)
+#### Modifications connexes à la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048.md)
 
 
 **38** [Modification]
@@ -436,7 +436,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndA7C6_hq_16032'>[*]</a></sup>**(2)** Les articles 50 à 53, 55 à 62, 64 et 65 entrent en vigueur à la date fixée par décret, mais cette date ne peut être antérieure à la date d’entrée en vigueur des articles 114 à 141 de la Loi no 2 sur le plan d’action économique de 2014.
 
-<a name='fn_IndA7C6_hq_16032'><sup>*</sup></a>: [Note : Articles 50 à 53, 55 à 62, 64 et 65 non en vigueur.]<br />
+<a name='fn_IndA7C6_hq_16032'><sup>*</sup></a>: [Note : Articles 50 à 53, 56 à 62, 64 et 65 en vigueur le 30 octobre 2019, *voir* TR/2019-46.]<br />
 
 **Décret — [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md)**
 
