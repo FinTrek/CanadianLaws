@@ -384,7 +384,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-#### Trade-marks Act
+#### [Trade-marks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md)
 
 
 **66** [Amendment]
@@ -436,9 +436,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind5447_hq_16021'>[*]</a></sup>**(2)** Sections 50 to 53, 55 to 62, 64 and 65 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which sections 114 to 141 of the Economic Action Plan 2014 Act, No. 2 come into force.
 
-<a name='fn_Ind5447_hq_16021'><sup>*</sup></a>: [Note: Sections 50 to 53, 55 to 62, 64 and 65 not in force.]<br />
+<a name='fn_Ind5447_hq_16021'><sup>*</sup></a>: [Note: Sections 50 to 53, 56 to 62, 64 and 65 in force October 30, 2019, *see* SI/2019-46.]<br />
 
-**Order in council — Trade-marks Act**
+**Order in council — [Trade-marks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md)**
 
 - <sup><a href='#fn_Ind5447_hq_16022'>[*]</a></sup>**(3)** Section 67 and subsection 69(2) come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which section 357 of the [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md) comes into force.
 
