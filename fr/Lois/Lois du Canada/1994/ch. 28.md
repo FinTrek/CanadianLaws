@@ -221,13 +221,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **7** 
 
 - **(1)** Sous réserve des règlements, les prêts d’études visés par les règlements pris en vertu de l’alinéa 15(1)j) ne portent pas intérêt pour l’emprunteur pour la période d’études qu’il accomplit comme étudiant à temps plein ou à temps partiel ou toute période ultérieure se terminant :
-	- **a)** dans le cas d’un prêt d’études consenti à un étudiant à temps plein, le dernier jour du mois où il cesse d’être étudiant à temps plein;
-	- **b)** dans le cas d’un prêt d’études consenti à un étudiant à temps partiel, le dernier jour du mois où il cesse d’être étudiant, tant à temps partiel qu’à temps plein.
+	- **a)** dans le cas d’un prêt d’études consenti à un étudiant à temps plein, le dernier jour du sixième mois suivant celui où il cesse d’être étudiant à temps plein;
+	- **b)** dans le cas d’un prêt d’études consenti à un étudiant à temps partiel, le dernier jour du sixième mois suivant celui où il cesse d’être étudiant, tant à temps partiel qu’à temps plein.
 
 **Frais**
 
 - **(2)** Aucuns frais afférents aux prêts d’études ne peuvent être imposés à l’emprunteur pour la période d’études ou toute période ultérieure visées au paragraphe (1).
-> 1994, ch. 28, art. 7; 2008, ch. 28, art. 110; 2011, ch. 15, art. 18
+> 1994, ch. 28, art. 7; 2008, ch. 28, art. 110; 2011, ch. 15, art. 182019, ch. 29, art. 325
 
 
 
@@ -803,6 +803,25 @@ où :
 
 - **(2)** Le ministre, avec le consentement du ministre des Finances et l’approbation du gouverneur en conseil, précise le taux d’intérêt applicable aux termes de l’alinéa a) de l’élément B des définitions de ***coût net*** et ***coût net total du programme*** au paragraphe 14(6), ou la méthode à suivre pour le calculer.
 > 1994, ch. 28, art. 20; 2003, ch. 15, art. 12
+
+
+
+
+
+## Dispositions transitoires
+
+
+
+**Exemption du paiement de l’intérêt : prêt consenti à un étudiant à temps plein**
+
+**20.1** 
+
+- **(1)** Si l’emprunteur a cessé d’être étudiant à temps plein dans les six mois précédant la date d’entrée en vigueur de l’article 325 de la [Loi no 1 d’exécution du budget de 2019](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029.md), le prêt d’études visé à l’alinéa 7(1)a) ne porte pas intérêt pour lui pour la période commençant à cette date et se terminant le dernier jour du sixième mois suivant celui où il a cessé d’être étudiant à temps plein.
+
+**Exemption du paiement de l’intérêt : prêt consenti à un étudiant à temps partiel**
+
+- **(2)** Si l’emprunteur a cessé d’être étudiant, tant à temps partiel qu’à temps plein, dans les six mois précédant la date d’entrée en vigueur de l’article 325 de la [Loi no 1 d’exécution du budget de 2019](/fr/Lois/Lois%20du%20Canada/2019/ch.%2029.md), le prêt d’études visé à l’alinéa 7(1)b) ne porte pas intérêt pour lui pour la période commençant à cette date et se terminant le dernier jour du sixième mois suivant celui où il a cessé d’être étudiant, tant à temps partiel qu’à temps plein.
+> 2019, ch. 29, art. 326
 
 
 
