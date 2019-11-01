@@ -1056,7 +1056,7 @@ where
 
 - **(3)** Subsections 145(2) and (3) and section 147 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_2019-c29_E_transform_hq_25534'><sup>*</sup></a>: [Note: Sections 133 to 140 and 142 to 144, subsections 145(2) and (3) and section 147 not in force.]<br />
+<a name='fn_2019-c29_E_transform_hq_25534'><sup>*</sup></a>: [Note: Sections 133 to 140 in force November 1, 2019, *see* SI/2019-90.]<br />
 
 
 
