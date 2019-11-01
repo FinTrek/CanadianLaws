@@ -1056,7 +1056,7 @@ où :
 
 - **(3)** Les paragraphes 145(2) et (3) et l’article 147 entrent en vigueur à la date fixée par décret.
 
-<a name='nbp_2019-c29_F_transform_hq_24189'><sup>*</sup></a>: [Note : Articles 133 à 140 et 142 à 144, paragraphes 145(2) et (3) et article 147 non en vigueur.]<br />
+<a name='nbp_2019-c29_F_transform_hq_24189'><sup>*</sup></a>: [Note : Articles 133 à 140 en vigueur le 1<sup>er</sup> novembre 2019, *voir* TR/2019-90.]<br />
 
 
 
