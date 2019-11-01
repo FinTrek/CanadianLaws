@@ -225,13 +225,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **7** 
 
 - **(1)** Subject to the regulations, no interest is payable by a borrower on a student loan prescribed by regulations made under paragraph 15(1)(j) in respect of any period of studies during which the borrower is a full-time or part-time student, or in respect of any subsequent period ending on
-	- **(a)** in the case of a student loan that is made to a full-time student, the last day of the month in which the borrower ceases to be a full-time student; and
-	- **(b)** in the case of a student loan that is made to a part-time student, the last day of the month in which the borrower ceases to be a student, whether a part-time or full-time student.
+	- **(a)** in the case of a student loan that is made to a full-time student, the last day of the sixth month after the month in which the borrower ceases to be a full-time student; and
+	- **(b)** in the case of a student loan that is made to a part-time student, the last day of the sixth month after the month in which the borrower ceases to be a student, whether a part-time or full-time student.
 
 **No fees**
 
 - **(2)** No fee of any kind may be charged to a borrower on a student loan in respect of any period of studies, or a subsequent period, referred to in subsection (1).
-> 1994, c. 28, s. 7; 2008, c. 28, s. 110; 2011, c. 15, s. 18
+> 1994, c. 28, s. 7; 2008, c. 28, s. 110; 2011, c. 15, s. 182019, c. 29, s. 325
 
 
 
@@ -833,6 +833,25 @@ must be either determined by the Minister or approved by the Minister.
 
 - **(2)** The Minister, with the concurrence of the Minister of Finance and subject to the approval of the Governor in Council, shall fix a rate of interest, or a manner of determining a rate of interest, for the purposes of paragraph (a) of the description of B in the definitions ***net costs*** and ***total program net costs*** in subsection 14(6).
 > 1994, c. 28, s. 20; 2003, c. 15, s. 12
+
+
+
+
+
+## Transitional Provisions
+
+
+
+**Interest-free period — loan to full-time student**
+
+**20.1** 
+
+- **(1)** If a borrower ceased to be a full-time student at any time during the six months before the day on which section 325 of the [Budget Implementation Act, 2019, No. 1](/en/Acts/Statutes%20of%20Canada/2019/c.%2029.md) comes into force, no interest is payable by them on a student loan referred to in paragraph 7(1)(a) for the period that begins on that day and ends on the last day of the sixth month after the month in which the borrower ceased to be a full-time student.
+
+**Interest-free period — loan to part-time student**
+
+- **(2)** If a borrower ceased to be a student, whether a part-time or full-time student, at any time during the six months before the day on which section 325 of the [Budget Implementation Act, 2019, No. 1](/en/Acts/Statutes%20of%20Canada/2019/c.%2029.md) comes into force, no interest is payable by them on a student loan referred to in paragraph 7(1)(b) for the period that begins on that day and ends on the last day of the sixth month after the month in which the borrower ceased to be a student, whether a part-time or full-time student.
+> 2019, c. 29, s. 326
 
 
 
