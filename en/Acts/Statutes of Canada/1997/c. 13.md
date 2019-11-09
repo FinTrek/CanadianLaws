@@ -25,7 +25,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Short title**
 
 **1** This Act may be cited as the Tobacco and Vaping Products Act.
-> 1997, c. 13, s. 1; 2018, c. 9, s. 2.
+> 1997, c. 13, s. 1; 2018, c. 9, s. 2
 
 
 
@@ -94,7 +94,7 @@ It includes any tobacco product that is designated by the regulations to be a li
 It does not include devices and substances or mixtures of substances that are excluded by the regulations, cannabis, as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), cannabis accessories, as defined in that subsection, tobacco products or their accessories. (*produit de vapotage*)
 
 ***young person*** means a person under eighteen years of age. (*jeune*)
-> 1997, c. 13, s. 2; 2009, c. 27, s. 2; 2014, c. 20, s. 366(E); 2018, c. 9, ss. 3, 79.1.
+> 1997, c. 13, s. 2; 2009, c. 27, s. 2; 2014, c. 20, s. 366(E); 2018, c. 9, ss. 3, 79.1
 
 
 
@@ -116,7 +116,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Order in council — little cigar**
 
 - **(2)** The Governor in Council may, by order, amend the definition little cigar by replacing the weight set out in that definition by a weight that is not less than 1.4 g.
-> 2009, c. 27, s. 3; 2018, c. 9, s. 4.
+> 2009, c. 27, s. 3; 2018, c. 9, s. 4
 
 
 
@@ -159,7 +159,7 @@ It does not include devices and substances or mixtures of substances that are ex
 	- **(c)** to protect the health of young persons by restricting access to vaping products;
 	- **(d)** to prevent the public from being deceived or misled with respect to the health hazards of using vaping products; and
 	- **(e)** to enhance public awareness of those hazards.
-> 1997, c. 13, s. 4; 2018, c. 9, s. 5.
+> 1997, c. 13, s. 4; 2018, c. 9, s. 5
 
 
 
@@ -173,7 +173,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Product standards**
 
 **5** No manufacturer shall manufacture or sell a tobacco product that does not conform with the standards established by the regulations.
-> 1997, c. 13, s. 5; 2018, c. 9, s. 6.
+> 1997, c. 13, s. 5; 2018, c. 9, s. 6
 
 
 
@@ -185,10 +185,8 @@ It does not include devices and substances or mixtures of substances that are ex
 
 - **(1)** No manufacturer shall use an additive set out in column 1 of Schedule 1 in the manufacture of a tobacco product set out in column 2.
 
-**Exception — trademark or marking**
-
-- **(2)** Subsection (1) does not prohibit the use of a colouring agent to depict a trademark on a tobacco product or to display a marking required under this or any other Act of Parliament or of the legislature of a province or for any other prescribed purpose.
-> 2009, c. 27, s. 4; 2014, c. 20, s. 366(E); 2018, c. 9, ss. 7, 70.
+- **(2)** [Repealed, 2018, c. 9, s. 7]
+> 2009, c. 27, s. 4; 2014, c. 20, s. 366(E); 2018, c. 9, ss. 7, 70
 
 
 
@@ -196,14 +194,27 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **Prohibition — sale**
 
-**5.2** 
+**5.2** No manufacturer shall sell a tobacco product set out in column 2 of Schedule 1 that contains an additive set out in column 1.
+> 2009, c. 27, s. 5; 2018, c. 9, ss. 8, 70
 
-- **(1)** No person shall sell a tobacco product set out in column 2 of Schedule 1 that contains an additive set out in column 1.
+
+
+
+
+**Marking**
+
+**5.3** 
+
+- **(1)** No person shall manufacture or sell a tobacco product that displays a marking, unless the marking is authorized by the regulations.
 
 **Exception**
 
-- **(2)** Subsection (1) does not prohibit the sale of a tobacco product by reason only that the product contains a colouring agent used for a purpose referred to in subsection 5.1(2).
-> 2009, c. 27, s. 5; 2018, c. 9, s. 70.
+- **(2)** A person who manufactures or sells a tobacco product that displays a marking does not contravene subsection (1) if the marking is required under an Act of the legislature of a province.
+
+**Additive**
+
+- **(3)** Despite sections 5.1 and 5.2, a manufacturer may use a prescribed additive to display on a tobacco product a marking that is authorized by the regulations or that is required under an Act of the legislature of a province and may sell a tobacco product that displays such a marking.
+> 2018, c. 9, s. 8
 
 
 
@@ -218,7 +229,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Supplementary information**
 
 - **(2)** The Minister may, subject to the regulations, request supplementary information relating to the information referred to in subsection (1), and every manufacturer shall submit the requested information in the form and manner and within the time specified by the Minister.
-> 1997, c. 13, s. 6; 2009, c. 27, s. 6; 2018, c. 9, s. 9.
+> 1997, c. 13, s. 6; 2009, c. 27, s. 6; 2018, c. 9, s. 9
 
 
 
@@ -227,7 +238,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Public disclosure by manufacturer**
 
 **6.1** Every manufacturer shall make available to the public, in the prescribed form and manner and within the prescribed time, information that is required by the regulations about tobacco products and their emissions.
-> 2018, c. 9, s. 9.
+> 2018, c. 9, s. 9
 
 
 
@@ -236,7 +247,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Public disclosure by Minister**
 
 **6.2** The Minister shall make available to the public, in the prescribed manner and within the prescribed time, information that is required by the regulations about tobacco products, their emissions and any research and development related to tobacco products and their emissions.
-> 2018, c. 9, s. 9.
+> 2018, c. 9, s. 9
 
 
 
@@ -245,7 +256,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Non-application**
 
 **6.3** Sections 6.1 and 6.2 do not apply in respect of tobacco products that have never been for sale in Canada.
-> 2018, c. 9, s. 9.
+> 2018, c. 9, s. 9
 
 
 
@@ -256,6 +267,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **7** The Governor in Council may make regulations
 - **(a)** establishing standards respecting the characteristics of tobacco products and their emissions, including the sensory attributes — such as appearance and shape — of the products and their emissions, the dimensions, weight, components and performance of the products, and the amounts and concentrations of substances that may be contained in the products or their emissions;
 - **(b)** respecting test methods, including methods to assess conformity with the standards;
+- **(b.1)** respecting markings that may be displayed on tobacco products;
 - **(c)** prescribing information that manufacturers must submit to the Minister about tobacco products and their emissions, including sales data and information on market research, product composition, ingredients, materials, health effects, hazardous properties and brand elements;
 - **(c.1)** prescribing information that manufacturers must submit to the Minister about research and development related to tobacco products and their emissions, including information on market research, product composition, ingredients, materials, health effects, hazardous properties and brand elements;
 - **(c.2)** respecting requests for supplementary information under subsection 6(2);
@@ -265,7 +277,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(d.02)** prescribing, for the purposes of section 6.2, information that the Minister must make available to the public, including information referred to in paragraphs (c) and (c.1);
 - **(d.1)** prescribing anything that by this Part is to be prescribed; and
 - **(e)** generally for carrying out the purposes of this Part.
-> 1997, c. 13, s. 7; 2009, c. 27, s. 8; 2018, c. 9, s. 11.
+> 1997, c. 13, s. 7; 2009, c. 27, s. 8; 2018, c. 9, s. 11
 
 
 
@@ -282,7 +294,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Description**
 
 - **(2)** An additive or tobacco product may be described by reference to a document produced by a body or person other than the Minister, either as the document exists on a particular date or as it is amended from time to time.
-> 2009, c. 27, s. 9; 2018, c. 9, s. 70.
+> 2009, c. 27, s. 9; 2018, c. 9, s. 70
 
 
 
@@ -296,7 +308,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Product standards**
 
 **7.2** No manufacturer shall manufacture or sell a vaping product that does not conform with the standards established by the regulations.
-> 2018, c. 9, s. 12.
+> 2018, c. 9, s. 12
 
 
 
@@ -305,7 +317,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition — manufacture**
 
 **7.21** No manufacturer shall use an ingredient set out in column 1 of Schedule 2 in the manufacture of a vaping product set out in column 2.
-> 2018, c. 9, s. 13.
+> 2018, c. 9, s. 13
 
 
 
@@ -314,7 +326,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition — sale**
 
 **7.22** No manufacturer shall sell a vaping product set out in column 2 of Schedule 2 that contains an ingredient set out in column 1.
-> 2018, c. 9, s. 13.
+> 2018, c. 9, s. 13
 
 
 
@@ -341,7 +353,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(4)** During the period in which the operation of the amendments is suspended with respect to retailers,
 	- **(a)** Schedule 2, as it read immediately before the coming into force of the order, continues to apply with respect to retailers; and
 	- **(b)** no other amendment to Schedule 2 is to come into force.
-> 2018, c. 9, s. 13.
+> 2018, c. 9, s. 13
 
 
 
@@ -356,7 +368,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Supplementary information**
 
 - **(2)** The Minister may, subject to the regulations, request supplementary information relating to the information referred to in subsection (1), and every manufacturer shall submit the requested information in the form and manner and within the time specified by the Minister.
-> 2018, c. 9, s. 12.
+> 2018, c. 9, s. 12
 
 
 
@@ -365,7 +377,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition**
 
 **7.4** Subject to the regulations, no manufacturer shall sell a vaping product unless the information required under subsection 7.3(1) with respect to that product is submitted to the Minister.
-> 2018, c. 9, s. 12.
+> 2018, c. 9, s. 12
 
 
 
@@ -374,7 +386,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Public disclosure by manufacturer**
 
 **7.5** Every manufacturer shall make available to the public, in the prescribed form and manner and within the prescribed time, information that is required by the regulations about vaping products and their emissions.
-> 2018, c. 9, s. 12.
+> 2018, c. 9, s. 12
 
 
 
@@ -383,7 +395,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Public disclosure by Minister**
 
 **7.6** The Minister shall make available to the public, in the prescribed manner and within the prescribed time, information that is required by the regulations about vaping products, their emissions and any research and development related to vaping products and their emissions.
-> 2018, c. 9, s. 12.
+> 2018, c. 9, s. 12
 
 
 
@@ -392,7 +404,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Non-application**
 
 **7.7** Sections 7.5 and 7.6 do not apply in respect of vaping products that have never been for sale in Canada.
-> 2018, c. 9, s. 12.
+> 2018, c. 9, s. 12
 
 
 
@@ -412,7 +424,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(i)** prescribing, for the purposes of section 7.6, information that the Minister must make available to the public, including information referred to in paragraphs (c) and (d);
 - **(j)** prescribing anything that by this Part is to be prescribed; and
 - **(k)** generally for carrying out the purposes of this Part.
-> 2018, c. 9, s. 12.
+> 2018, c. 9, s. 12
 
 
 
@@ -432,7 +444,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Defence**
 
 - **(2)** A person shall not be found to have contravened subsection (1) if it is established that the person attempted to verify that the person was at least eighteen years of age by asking for and being shown documentation prescribed for the purposes of verifying age, and believed on reasonable grounds that the documentation was authentic.
-> 1997, c. 13, s. 8; 2018, c. 9, s. 14.
+> 1997, c. 13, s. 8; 2018, c. 9, s. 14
 
 
 
@@ -455,7 +467,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(3)** A person shall not be found guilty of having contravened subsection (1) for having delivered a tobacco product or vaping product to a young person if it is established that the person
 	- **(a)** verified that the person taking delivery of the product was at least 18 years of age by asking for and examining a piece of identification issued by a federal or provincial authority or a foreign government and containing that person’s name, photograph, date of birth and signature; and
 	- **(b)** believed on reasonable grounds that the piece of identification was authentic.
-> 1997, c. 13, s. 9; 2018, c. 9, s. 15.
+> 1997, c. 13, s. 9; 2018, c. 9, s. 15
 
 
 
@@ -470,7 +482,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Advertising an offer**
 
 - **(2)** No person shall advertise an offer to send or deliver a tobacco product from one province to another.
-> 2018, c. 9, s. 15.
+> 2018, c. 9, s. 15
 
 
 
@@ -489,7 +501,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Vaping products**
 
 - **(3)** No person shall import for sale in Canada, package, distribute or sell a vaping product that is prescribed for the purposes of this subsection, except in a package that contains a number or quantity of the vaping product that meets the prescribed requirements.
-> 1997, c. 13, s. 10; 2009, c. 27, s. 10; 2018, c. 9, s. 16.
+> 1997, c. 13, s. 10; 2009, c. 27, s. 10; 2018, c. 9, s. 16
 
 
 
@@ -526,7 +538,7 @@ It does not include devices and substances or mixtures of substances that are ex
 		- **(i)** contains a drug that is set out in the prescription drug list, as amended from time to time, established under subsection 29.1(1) of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), or a drug that is part of a class of drugs that is set out in that list, and
 		- **(ii)** is the subject of an authorization issued under that Act authorizing its sale; or
 	- **(b)** that the product contains a controlled substance, as defined in subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), the sale or provision of which is authorized under that Act.
-> 1997, c. 13, s. 13; 2018, c. 9, s. 18.
+> 1997, c. 13, s. 13; 2018, c. 9, s. 18
 
 
 
@@ -543,7 +555,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(e)** respecting exemptions from the application of section 12;
 - **(f)** prescribing anything that by this Part is to be prescribed; and
 - **(g)** generally for carrying out the purposes of this Part.
-> 1997, c. 13, s. 14; 2018, c. 9, s. 19.
+> 1997, c. 13, s. 14; 2018, c. 9, s. 19
 
 
 
@@ -569,7 +581,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(2)** If required by the regulations, every manufacturer or retailer shall provide with a tobacco product, in the prescribed form and manner, a leaflet that displays the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
 
 - **(3)** [Repealed, 2018, c. 9, s. 20]
-> 1997, c. 13, s. 15; 2018, c. 9, s. 20.
+> 1997, c. 13, s. 15; 2018, c. 9, s. 20
 
 
 
@@ -592,7 +604,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Information — leaflet or tag**
 
 - **(4)** If required by the regulations, every manufacturer or retailer shall provide with a vaping product, in the prescribed form and manner, a leaflet or tag that displays the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
-> 2018, c. 9, s. 21.
+> 2018, c. 9, s. 21
 
 
 
@@ -601,7 +613,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Attribution**
 
 **15.2** The information referred to in sections 15 and 15.1 may be attributed to a person or body designated by the regulations if the attribution is made in the prescribed form and manner.
-> 2018, c. 9, s. 21.
+> 2018, c. 9, s. 21
 
 
 
@@ -616,7 +628,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Provision of information — other**
 
 - **(2)** No manufacturer or retailer shall provide, in a manner that is contrary to the regulations, written information with a tobacco product.
-> 2018, c. 9, s. 21.
+> 2018, c. 9, s. 21
 
 
 
@@ -625,7 +637,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **For greater certainty**
 
 **16** For greater certainty, this Part does not affect any obligation of a manufacturer or retailer at law or under an Act of Parliament or of the legislature of a province to warn consumers of the health hazards and health effects arising from the use of tobacco products or vaping products and from their emissions.
-> 1997, c. 13, s. 16; 2018, c. 9, s. 21.
+> 1997, c. 13, s. 16; 2018, c. 9, s. 21
 
 
 
@@ -639,7 +651,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(a.2)** respecting, for the purposes of section 15.3, the manner of displaying or providing information, including the form and placement of the information;
 - **(b)** prescribing anything that by this Part is to be prescribed; and
 - **(c)** generally for carrying out the purposes of this Part.
-> 1997, c. 13, s. 17; 2018, c. 9, s. 22.
+> 1997, c. 13, s. 17; 2018, c. 9, s. 22
 
 
 
@@ -669,7 +681,7 @@ It does not include devices and substances or mixtures of substances that are ex
 	- **(a)** a literary, dramatic, musical, cinematographic, scientific, educational or artistic work, production or performance that uses or depicts a vaping product or vaping product-related brand element, whatever the mode or form of its expression, if no consideration is given by a manufacturer or retailer, directly or indirectly, for that use or depiction in the work, production or performance;
 	- **(b)** a report, commentary or opinion in respect of a vaping product or a brand of vaping product if no consideration is given by a manufacturer or retailer, directly or indirectly, for the reference to the vaping product or brand in that report, commentary or opinion; or
 	- **(c)** a promotion by a manufacturer that is directed at manufacturers, persons who distribute vaping products or retailers but not, either directly or indirectly, at consumers.
-> 1997, c. 13, s. 18; 2018, c. 9, s. 23.
+> 1997, c. 13, s. 18; 2018, c. 9, s. 23
 
 
 
@@ -682,7 +694,9 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **Prohibition**
 
-**19** No person shall promote a tobacco product or a tobacco product-related brand element except as authorized by this Act or the regulations.
+**19** No person shall promote a tobacco product or a tobacco product-related brand element, including by means of the packaging, except as authorized by the provisions of this Act or of the regulations.
+> 1997, c. 13, s. 192018, c. 9, s. 25
+
 
 
 
@@ -696,7 +710,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Considerations**
 
 - **(2)** The general impression conveyed by a promotion and the literal meaning of any statement contained in a promotion shall be taken into account in determining whether a promotion is made in a manner that is misleading or deceptive with respect to, or is likely to create an erroneous impression about, the characteristics, health effects or health hazards of the tobacco product or its emissions.
-> 1997, c. 13, s. 20; 2018, c. 9, s. 26.
+> 1997, c. 13, s. 20; 2018, c. 9, s. 26
 
 
 
@@ -707,7 +721,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **20.1** No person shall promote a tobacco product, including by means of the packaging,
 - **(a)** in a manner that could cause a person to believe that the product or its emissions are less harmful than other tobacco products or their emissions; or
 - **(b)** by using terms, expressions, logos, symbols or illustrations that are prohibited by the regulations.
-> 2018, c. 9, s. 27.
+> 2018, c. 9, s. 27
 
 
 
@@ -717,16 +731,14 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **21** 
 
-- **(1)** No person shall promote a tobacco product by means of a testimonial or an endorsement, however displayed or communicated.
+- **(1)** No person shall promote a tobacco product through a testimonial or an endorsement, however displayed or communicated, including by means of the packaging.
 
 **Depiction of person**
 
 - **(2)** For the purposes of subsection (1), the depiction of a person, character or animal, whether real or fictional, is considered to be a testimonial for, or an endorsement of, the product.
 
-**Exception**
-
-- **(3)** This section does not apply to a trademark that appeared on a tobacco product for sale in Canada on December 2, 1996.
-> 1997, c. 13, s. 21; 2014, c. 20, s. 366(E).
+- **(3)** [Repealed, 2018, c. 9, s. 28]
+> 1997, c. 13, s. 212014, c. 20, s. 366(E)2018, c. 9, s. 28
 
 
 
@@ -760,7 +772,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(b)** the availability or price of a product or brand of product. (*publicité informative*)
 
 ***lifestyle advertising***[Repealed, 2018, c. 9, s. 29]
-> 1997, c. 13, s. 22; 2009, c. 27, s. 11; 2018, c. 9, s. 29.
+> 1997, c. 13, s. 22; 2009, c. 27, s. 11; 2018, c. 9, s. 29
 
 
 
@@ -775,7 +787,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition — sale**
 
 - **(2)** No person shall sell a tobacco product that is packaged in a manner that is contrary to the provisions of this Act or of the regulations.
-> 1997, c. 13, s. 23; 2018, c. 9, s. 30.
+> 1997, c. 13, s. 23; 2018, c. 9, s. 30
 
 
 
@@ -785,12 +797,12 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **23.1** 
 
-- **(1)** No person shall package a tobacco product set out in column 2 of Schedule 1 in a manner that suggests, including through illustrations, that it contains an additive set out in column 1.
+- **(1)** No person shall package a tobacco product set out in column 2 of Schedule 1 in a manner, including by means of a brand element, that could cause a person to believe that it contains an additive set out in column 1.
 
 **Prohibition — sale**
 
 - **(2)** No person shall sell a tobacco product set out in column 2 of Schedule 1 that is packaged in a manner prohibited by subsection (1).
-> 2009, c. 27, s. 12; 2018, c. 9, s. 70.
+> 2009, c. 27, s. 12; 2018, c. 9, ss. 31, 70
 
 
 
@@ -805,7 +817,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition — sale**
 
 - **(2)** No person shall sell a tobacco product if a vaping product-related brand element is displayed on its package.
-> 2018, c. 9, s. 32.
+> 2018, c. 9, s. 32
 
 
 
@@ -814,7 +826,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Functions and sensory attributes**
 
 **23.3** No person shall promote or sell a device that is a tobacco product or a part that may be used with such a device, whether or not the device or part contains tobacco, if the device or part has an appearance, shape or other sensory attribute or a function for which there are reasonable grounds to believe that it could make the device or part appealing to young persons.
-> 2018, c. 9, s. 32.
+> 2018, c. 9, s. 32
 
 
 
@@ -829,7 +841,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Promotional material**
 
 - **(2)** No person shall use, directly or indirectly, a tobacco product-related brand element or the name of a tobacco product manufacturer in the promotional material related to a person, entity, event, activity or permanent facility.
-> 1997, c. 13, s. 24; 1998, c. 38, s. 1; 2018, c. 9, s. 33.
+> 1997, c. 13, s. 24; 1998, c. 38, s. 1; 2018, c. 9, s. 33
 
 
 
@@ -838,7 +850,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Name of facility**
 
 **25** No person shall display a tobacco product-related brand element or the name of a tobacco product manufacturer on a permanent facility, as part of the name of the facility or otherwise, if the facility is used for a sports or cultural event or activity.
-> 1997, c. 13, s. 25; 1998, c. 38, s. 2; 2018, c. 9, s. 33.
+> 1997, c. 13, s. 25; 1998, c. 38, s. 2; 2018, c. 9, s. 33
 
 
 
@@ -853,7 +865,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Promotion**
 
 - **(2)** No person shall promote an accessory that displays a tobacco product-related brand element except in the prescribed manner and form and in a publication or place described in paragraphs 22(2)(a) and (c).
-> 1997, c. 13, s. 26; 2009, c. 27, s. 13.
+> 1997, c. 13, s. 26; 2009, c. 27, s. 13
 
 
 
@@ -865,7 +877,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(a)** the thing or service is associated with young persons;
 - **(b)** there are reasonable grounds to believe that the thing or service could be appealing to young persons; or
 - **(c)** the thing or service is associated with a way of life such as one that includes glamour, recreation, excitement, vitality, risk or daring.
-> 1997, c. 13, s. 27; 2018, c. 9, s. 34.
+> 1997, c. 13, s. 27; 2018, c. 9, s. 34
 
 
 
@@ -880,7 +892,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Promotion**
 
 - **(2)** Subject to the regulations, a person may promote a thing, other than a tobacco product or an accessory, that displays a tobacco product-related brand element, or a service that uses a tobacco product-related brand element, if the thing or service does not fall within the criteria described in paragraphs 27(a) to (c).
-> 1997, c. 13, s. 28; 2018, c. 9, s. 34.
+> 1997, c. 13, s. 28; 2018, c. 9, s. 34
 
 
 
@@ -892,7 +904,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(a)** provide or offer to provide any consideration, for the purchase of a tobacco product, including a gift to a purchaser or a third party, bonus, premium, cash rebate or right to participate in a game, draw, lottery or contest;
 - **(b)** furnish or offer to furnish a tobacco product without monetary consideration or in consideration of the purchase of a product or service or the performance of a service; or
 - **(c)** furnish or offer to furnish an accessory that displays a tobacco product-related brand element without monetary consideration or in consideration of the purchase of a product or service or the performance of a service.
-> 1997, c. 13, s. 29; 2018, c. 9, s. 35.
+> 1997, c. 13, s. 29; 2018, c. 9, s. 35
 
 
 
@@ -911,7 +923,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **For greater certainty**
 
 - **(3)** For greater certainty, subsection (1) does not authorize the display of a tobacco product that is packaged in a manner that is contrary to the provisions of this Act or of the regulations.
-> 1997, c. 13, s. 30; 2018, c. 9, s. 36.
+> 1997, c. 13, s. 30; 2018, c. 9, s. 36
 
 
 
@@ -925,7 +937,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Advertising appealing to young persons**
 
 **30.1** No person shall promote a vaping product, a vaping product-related brand element or a thing that displays a vaping product-related brand element by means of advertising if there are reasonable grounds to believe that the advertising could be appealing to young persons.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -934,7 +946,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Lifestyle advertising**
 
 **30.2** No person shall promote a vaping product, a vaping product-related brand element or a thing that displays a vaping product-related brand element by means of lifestyle advertising.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -949,7 +961,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Depiction of person**
 
 - **(2)** For the purposes of subsection (1), the depiction of a person, character or animal, whether real or fictional, is considered to be a testimonial for, or an endorsement of, the product.
-> 2018, c. 9, s. 37.
+> 2018, c. 9, s. 37
 
 
 
@@ -964,7 +976,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Promotional material**
 
 - **(2)** No person shall use, directly or indirectly, a vaping product-related brand element or the name of a vaping product manufacturer in the promotional material related to a person, entity, event, activity or permanent facility.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -973,7 +985,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Name of facility**
 
 **30.4** No person shall display a vaping product-related brand element or the name of a vaping product manufacturer on a permanent facility, as part of the name of the facility or otherwise, if the facility is used for a sports or cultural event or activity.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -982,7 +994,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Functions and sensory attributes**
 
 **30.41** No person shall promote or sell a vaping product that has an appearance, shape or other sensory attribute or a function for which there are reasonable grounds to believe that it could make the product appealing to young persons.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1000,7 +1012,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Considerations**
 
 - **(2)** The general impression conveyed by a promotion and the literal meaning of any statement contained in a promotion shall be taken into account in determining whether a promotion is made in a manner that is misleading or deceptive with respect to, or is likely to create an erroneous impression about, the characteristics, health effects or health hazards of the vaping product or its emissions.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1019,7 +1031,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Exception**
 
 - **(3)** Subsections (1) and (2) do not apply in respect of a vaping product that is the subject of an authorization, including a licence, issued under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) authorizing its sale.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1028,7 +1040,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Discouraging tobacco cessation**
 
 **30.44** No person shall promote a vaping product, including by means of the packaging, if there are reasonable grounds to believe that the promotion could discourage tobacco cessation or encourage the resumed use of tobacco products.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1043,7 +1055,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition — sale**
 
 - **(2)** No person shall sell a vaping product that is packaged in a manner that is contrary to the provisions of this Act or of the regulations.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1058,7 +1070,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition — sale**
 
 - **(2)** No person shall sell a vaping product if an indication or illustration referred to in subsection (1) is displayed on the product or on its package.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1073,7 +1085,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition — sale**
 
 - **(2)** No person shall sell a vaping product set out in column 2 of Schedule 2 if an indication or illustration referred to in subsection (1) is displayed on the product or on its package.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1088,7 +1100,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibition — sale**
 
 - **(2)** No person shall sell a vaping product set out in column 2 of Schedule 3 if an indication or illustration referred to in subsection (1) is displayed on the product or on its package.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1115,7 +1127,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(4)** During the period in which the operation of the amendments is suspended with respect to retailers,
 	- **(a)** Schedule 3, as it read immediately before the coming into force of the order, continues to apply with respect to retailers; and
 	- **(b)** no other amendment to Schedule 3 is to come into force.
-> 2018, c. 9, s. 38.
+> 2018, c. 9, s. 38
 
 
 
@@ -1129,7 +1141,7 @@ It does not include devices and substances or mixtures of substances that are ex
 	- **(i)** the thing is associated with young persons,
 	- **(ii)** there are reasonable grounds to believe that the thing could be appealing to young persons, or
 	- **(iii)** the thing is associated with a way of life such as one that includes glamour, recreation, excitement, vitality, risk or daring.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -1148,7 +1160,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(2)** No manufacturer or retailer shall, in a place other than a retail establishment where vaping products are ordinarily sold,
 	- **(a)** provide any consideration, for the purchase of a vaping product, including a gift to a purchaser or a third party, bonus, premium, cash rebate or right to participate in a game, draw, lottery or contest; or
 	- **(b)** furnish a vaping product in consideration of the purchase of a product or service or the performance of a service.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -1157,7 +1169,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Advertising — required information**
 
 **30.7** No person shall promote a vaping product or a vaping product-related brand element by means of advertising unless it conveys, in the prescribed form and manner, the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -1166,7 +1178,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Advertising — regulations**
 
 **30.701** No person shall promote a vaping product or a vaping product-related brand element by means of advertising done in a manner that is contrary to the regulations.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -1175,7 +1187,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Tobacco product-related brand element**
 
 **30.71** No person shall furnish or promote a vaping product if a tobacco product-related brand element is displayed on the vaping product, on its package or in the advertising of the vaping product.
-> 2018, c. 9, s. 40.
+> 2018, c. 9, s. 40
 
 
 
@@ -1184,7 +1196,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Point of sale promotion**
 
 **30.8** No person shall promote, at the point of sale, a vaping product or a vaping product-related brand element, including by means of the packaging, in a manner that is contrary to the regulations.
-> 2018, c. 9, s. 36.
+> 2018, c. 9, s. 36
 
 
 
@@ -1208,7 +1220,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Foreign media**
 
 - **(3)** No person in Canada shall, by means of a publication that is published outside Canada, a broadcast that originates outside Canada or any communication other than a publication or broadcast that originates outside Canada, promote any product the promotion of which is regulated under this Part, or disseminate promotional material that contains a tobacco product-related brand element or a vaping product-related brand element in a manner that is contrary to this Part.
-> 1997, c. 13, s. 31; 2018, c. 9, s. 41.
+> 1997, c. 13, s. 31; 2018, c. 9, s. 41
 
 
 
@@ -1223,7 +1235,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Supplementary information**
 
 - **(2)** The Minister may, subject to the regulations, request supplementary information relating to the information referred to in subsection (1), and every manufacturer shall submit the requested information in the form and manner and within the time specified by the Minister.
-> 1997, c. 13, s. 32; 2018, c. 9, s. 42.
+> 1997, c. 13, s. 32; 2018, c. 9, s. 42
 
 
 
@@ -1249,7 +1261,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(j)** respecting requests for supplementary information under subsection 32(2);
 - **(k)** prescribing anything that by this Part is to be prescribed; and
 - **(l)** generally for carrying out the purposes of this Part.
-> 1997, c. 13, s. 33; 1998, c. 38, s. 3; 2018, c. 9, s. 44.
+> 1997, c. 13, s. 33; 1998, c. 38, s. 3; 2018, c. 9, s. 44
 
 
 
@@ -1277,7 +1289,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Certificate to be produced**
 
 - **(3)** An inspector entering a place under this Act shall, on request, produce the certificate to the person in charge of that place.
-> 1997, c. 13, s. 34; 2018, c. 9, s. 45.
+> 1997, c. 13, s. 34; 2018, c. 9, s. 45
 
 
 
@@ -1322,7 +1334,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Entering private property**
 
 - **(6)** An inspector and any person accompanying them may enter and pass through private property, other than a dwelling-house on that property, in order to gain entry to a place referred to in subsection (1).
-> 1997, c. 13, s. 35; 2018, c. 9, s. 45.
+> 1997, c. 13, s. 35; 2018, c. 9, s. 45
 
 
 
@@ -1348,7 +1360,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Telewarrant**
 
 - **(4)** If an inspector believes that it would not be practical to appear personally to make an application for a warrant under subsection (2), a warrant may be issued by telephone or other means of telecommunication on information submitted by telephone or other means of telecommunication, and section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies for that purpose, with any necessary modifications.
-> 1997, c. 13, s. 36; 2018, c. 9, s. 45.
+> 1997, c. 13, s. 36; 2018, c. 9, s. 45
 
 
 
@@ -1370,7 +1382,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Obstruction**
 
 - **(2)** No person shall obstruct or hinder, or make a false or misleading statement either orally or in writing to, an inspector who is exercising their powers or performing their duties or functions under this Act.
-> 1997, c. 13, s. 38; 2018, c. 9, s. 46.
+> 1997, c. 13, s. 38; 2018, c. 9, s. 46
 
 
 
@@ -1395,7 +1407,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Interference**
 
 - **(3)** Unless authorized by an inspector, no person shall remove, alter or interfere in any way with any thing or conveyance seized.
-> 1997, c. 13, s. 39; 2018, c. 9, s. 47.
+> 1997, c. 13, s. 39; 2018, c. 9, s. 47
 
 
 
@@ -1422,7 +1434,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **No restoration where forfeiture by consent**
 
 - **(4)** The provincial court judge shall not make an order under this section for restoration of a thing or conveyance if it has been forfeited by consent under subsection 41(3).
-> 1997, c. 13, s. 40; 2018, c. 9, s. 48.
+> 1997, c. 13, s. 40; 2018, c. 9, s. 48
 
 
 
@@ -1445,7 +1457,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Disposal**
 
 - **(4)** A seized thing or conveyance that is forfeited may be disposed of, as the Minister directs, at the expense of its owner or the person who was entitled to possess it at the time of its seizure.
-> 1997, c. 13, s. 41; 2018, c. 9, s. 49.
+> 1997, c. 13, s. 41; 2018, c. 9, s. 49
 
 
 
@@ -1460,7 +1472,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Time limit**
 
 - **(2)** Proceedings to recover a debt due to Her Majesty in right of Canada under subsection (1) shall not be commenced later than five years after the day on which the debt became payable.
-> 2018, c. 9, s. 49.
+> 2018, c. 9, s. 49
 
 
 
@@ -1475,7 +1487,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Judgment**
 
 - **(2)** On production to the Federal Court, a certificate made under subsection (1) shall be registered in that Court and, when registered, has the same force and effect, and all proceedings may be taken on the certificate, as if it were a judgment obtained in that Court for a debt of the amount specified in the certificate and all reasonable costs and charges attendant in the registration of the certificate.
-> 2018, c. 9, s. 49.
+> 2018, c. 9, s. 49
 
 
 
@@ -1493,7 +1505,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(b.1)** respecting the costs in relation to anything required or authorized under section 39 or subsection 41(4);
 - **(c)** prescribing anything that by this Part is to be prescribed; and
 - **(d)** generally for carrying out the purposes of this Part.
-> 1997, c. 13, s. 42; 2018, c. 9, s. 50.
+> 1997, c. 13, s. 42; 2018, c. 9, s. 50
 
 
 
@@ -1517,7 +1529,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **For greater certainty**
 
 - **(2)** For greater certainty, the regulations may distinguish between vaping products on the basis of type of authorization, including type of licence, issued under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), or on the basis of type of licence, permit, authorization or exemption issued or granted under the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md).
-> 2018, c. 9, s. 53.
+> 2018, c. 9, s. 53
 
 
 
@@ -1527,12 +1539,12 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **42.3** 
 
-- **(1)** Despite the Trade-marks Act, the registration of a trade-mark shall not be held invalid on the basis of paragraph 18(1)(b) or (c) of that Act as a result of compliance with this Act.
+- **(1)** Despite the [Trade-marks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md), the registration of a trade-mark shall not be held invalid on the basis of paragraph 18(1)(b) or (c) of that Act as a result of compliance with this Act.
 
 **For greater certainty**
 
-- **(2)** For greater certainty, the absence of use of a trade-mark as a result of compliance with this Act constitutes special circumstances that excuse the absence of use for the purposes of the Trade-marks Act.
-> 2018, c. 9, s. 53.
+- **(2)** For greater certainty, the absence of use of a trade-mark as a result of compliance with this Act constitutes special circumstances that excuse the absence of use for the purposes of the [Trade-marks Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-13.md).
+> 2018, c. 9, s. 53
 
 
 
@@ -1543,7 +1555,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **42.4** The Governor in Council may make regulations
 - **(a)** prescribing anything that by this Part is to be prescribed; and
 - **(b)** generally for carrying out the purposes of this Part.
-> 2018, c. 9, s. 53.
+> 2018, c. 9, s. 53
 
 
 
@@ -1552,7 +1564,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Incorporation by reference — limitation removed**
 
 **42.5** The limitation set out in paragraph 18.1(2)(a) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) to the effect that a document must be incorporated as it exists on a particular date does not apply to the powers to make regulations under sections 7, 7.8, 14, 17, 33, 42 and 42.4.
-> 2018, c. 9, s. 53.
+> 2018, c. 9, s. 53
 
 
 
@@ -1574,25 +1586,25 @@ It does not include devices and substances or mixtures of substances that are ex
 **Promotion offences — other persons**
 
 - **(2)** Every person, other than a manufacturer, who contravenes section 19 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000.
-> 1997, c. 13, s. 43; 2018, c. 9, s. 55.
+> 1997, c. 13, s. 43; 2018, c. 9, s. 55
 
 
 
 
 
-**Prohibited additives and ingredients — manufacturer**
+**Additives, ingredients and markings — manufacturer**
 
-**43.1** Every manufacturer who contravenes subsection 5.1(1) or 5.2(1) or section 7.21 or 7.22 is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
-> 2009, c. 27, s. 14; 2018, c. 9, ss. 55, 56.
-
-
+**43.1** Every manufacturer who contravenes subsection 5.1(1), section 5.2, subsection 5.3(1) or section 7.21 or 7.22 is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
+> 2009, c. 27, s. 14; 2018, c. 9, ss. 55 to 57
 
 
 
-**Additives — other persons**
 
-**43.2** Every person, other than a manufacturer, who contravenes subsection 5.2(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
-> 2009, c. 27, s. 14; 2018, c. 9, s. 55.
+
+**Markings — other persons**
+
+**43.2** Every person, other than a manufacturer, who contravenes subsection 5.3(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
+> 2009, c. 27, s. 14; 2018, c. 9, ss. 55, 57
 
 
 
@@ -1601,7 +1613,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Summary offence**
 
 **44** Every person who contravenes subsection 6(1) or (2), section 6.1, subsection 7.3(1) or (2), section 7.5, subsection 10(1), (2) or (3) or 26(1) or (2), section 30.7 or subsection 31(1) or (3), 32(1) or (2) or 38(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
-> 1997, c. 13, s. 44; 2009, c. 27, s. 15; 2018, c. 9, s. 55.
+> 1997, c. 13, s. 44; 2009, c. 27, s. 15; 2018, c. 9, s. 55
 
 
 
@@ -1610,7 +1622,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Prohibited sale**
 
 **44.1** Every manufacturer who contravenes section 7.4 is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
-> 2018, c. 9, s. 55.
+> 2018, c. 9, s. 55
 
 
 
@@ -1621,7 +1633,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **45** Every person who contravenes subsection 8(1) or 9(1) or section 11 or 12, or every retailer who contravenes section 29 or 30.5 or subsection 30.6(1) or (2), is guilty of an offence and liable on summary conviction
 - **(a)** for a first offence, to a fine not exceeding $3,000; and
 - **(b)** for a subsequent offence, to a fine not exceeding $50,000.
-> 1997, c. 13, s. 45; 2018, c. 9, s. 60.
+> 1997, c. 13, s. 45; 2018, c. 9, s. 60
 
 
 
@@ -1640,7 +1652,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Offence**
 
 - **(3)** Every person who contravenes subsection 15.1(2) or (3) is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
-> 1997, c. 13, s. 46; 2018, c. 9, ss. 61, 62.
+> 1997, c. 13, s. 46; 2018, c. 9, ss. 61, 62
 
 
 
@@ -1649,7 +1661,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **General offence**
 
 **47** Every person who contravenes subsection 9.1(1) or (2) or 20(1), section 20.1, subsection 21(1), 22(1), 23(1) or (2), 23.1(1) or (2) or 23.2(1) or (2), section 23.3, subsection 24(1) or (2), section 25, 27, 30.1 or 30.2, subsection 30.21(1) or 30.3(1) or (2), section 30.4 or 30.41, subsection 30.42(1) or 30.43(1) or (2), section 30.44, subsection 30.45(1) or (2), 30.46(1) or (2), 30.47(1) or (2) or 30.48(1) or (2) or section 30.701 or 30.71 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
-> 1997, c. 13, s. 47; 2018, c. 9, ss. 61, 63.
+> 1997, c. 13, s. 47; 2018, c. 9, ss. 61, 63
 
 
 
@@ -1665,7 +1677,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Due diligence defence**
 
 **48.1** A person is not to be found guilty of an offence under this Act if they establish that they exercised due diligence to prevent the commission of the offence.
-> 2018, c. 9, s. 64.
+> 2018, c. 9, s. 64
 
 
 
@@ -1748,7 +1760,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **57** In a prosecution for a contravention of this Act,
 - **(a)** information on a package indicating that it contains a tobacco product or vaping product is, in the absence of evidence to the contrary, proof that the package contains that product; and
 - **(b)** a name or address on a package purporting to be the name or address of the person by whom the tobacco product or vaping product was manufactured is, in the absence of evidence to the contrary, proof that it was manufactured by that person.
-> 1997, c. 13, s. 57; 2018, c. 9, s. 65.
+> 1997, c. 13, s. 57; 2018, c. 9, s. 65
 
 
 
@@ -1770,7 +1782,7 @@ It does not include devices and substances or mixtures of substances that are ex
 - **(d)** directing the offender to post any bond or pay any amount of money into court that will ensure compliance with an order made pursuant to this section;
 - **(e)** directing the offender to compensate the Minister, in whole or in part, for the cost of any remedial or preventive action taken by or caused to be taken on behalf of the Minister as a result of the act or omission that constituted the offence; and
 - **(f)** directing the offender to pay an amount for the purposes of conducting research into any matters relating to tobacco products and vaping products that the court considers appropriate.
-> 1997, c. 13, s. 59; 2018, c. 9, s. 66.
+> 1997, c. 13, s. 59; 2018, c. 9, s. 66
 
 
 
@@ -1798,7 +1810,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Table in Parliament**
 
 - **(4)** A copy of an equivalency agreement in respect of which an order is made under subsection (3) must be tabled in each House of Parliament within the first 15 sitting days of that House after the order is made.
-> 1997, c. 13, s. 60; 2015, c. 3, s. 155; 2018, c. 9, s. 67.
+> 1997, c. 13, s. 60; 2015, c. 3, s. 155; 2018, c. 9, s. 67
 
 
 
@@ -1818,7 +1830,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Report to Parliament**
 
 - **(2)** The Minister must, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
-> 2018, c. 9, s. 67.1.
+> 2018, c. 9, s. 67.1
 
 
 
@@ -1866,7 +1878,7 @@ It does not include devices and substances or mixtures of substances that are ex
 **Promotional material**
 
 - **(3)** Subsections 24(2) and (3) apply beginning on October 1, 2000 and ending on September 30, 2003 to prohibit the furnishing to the public, on the site of an event or activity to which paragraph (2)(b) applies, of promotional material that displays a tobacco product-related brand element otherwise than in conformity with subsection 24(2).
-> 1997, c. 13, s. 66; 1998, c. 38, s. 4.
+> 1997, c. 13, s. 66; 1998, c. 38, s. 4
 
 
 
@@ -2048,12 +2060,36 @@ The following additives are excluded:
 <tr>
 <td>4</td>
 <td>Colouring agents, excluding those used to whiten paper or the filter or to imitate a cork pattern on tipping paper</td>
-<td>Cigarettes, except those that are manufactured or sold for export</td>
+<td>Except those that are manufactured or sold for export, the following:
+
+**(1)** Cigarettes
+
+
+
+**(2)** Tubes
+
+
+
+**(3)** Tobacco products that are made in whole or in part of tobacco, rolled in paper and intended for use with a device
+
+
+
+</td>
 </tr>
 <tr>
 <td>4.1</td>
 <td>Colouring agents</td>
-<td>Blunt wraps, except those that are manufactured or sold for export</td>
+<td>Except those that are manufactured or sold for export, the following:
+
+**(1)** Blunt wraps
+
+
+
+**(2)** Leaf tobacco
+
+
+
+</td>
 </tr>
 <tr>
 <td>4.2</td>
@@ -2080,13 +2116,38 @@ The following additives are excluded:
 </tr>
 <tr>
 <td>4.3</td>
-<td>Colouring agents, excluding those used to whiten plug wrap paper, to render tipping paper brown or bronze, to imitate a cork pattern on tipping paper or to render mouthpieces or tips white or bronze</td>
+<td>Colouring agents, excluding those used to whiten plug wrap paper, to render tipping paper the colour drab brown (Pantone 448 C), to imitate a cork pattern on tipping paper or to whiten mouthpieces or tips or to render them the colour drab brown (Pantone 448 C)</td>
 <td>Little cigars, except those that are manufactured or sold for export</td>
 </tr>
 <tr>
 <td>4.4</td>
 <td>Colouring agents, excluding those used to render tipping paper brown or bronze or to render mouthpieces or tips white or bronze</td>
 <td>Cigars that have tipping paper, except those that are manufactured or sold for export and little cigars</td>
+</tr>
+<tr>
+<td>4.5</td>
+<td>Colouring agents, excluding those used to render tobacco products the colour drab brown (Pantone 448 C)</td>
+<td>Tobacco products that are made in whole or in part of tobacco and intended for use with a device but that are not rolled in paper, except those that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>4.6</td>
+<td>Colouring agents, excluding whitening agents</td>
+<td>Except those that are manufactured or sold for export, the following:
+
+**(1)** Filters
+
+
+
+**(2)** Papers intended for use with a tobacco product
+
+
+
+</td>
+</tr>
+<tr>
+<td>4.7</td>
+<td>Colouring agents, excluding those used to blacken the thread around the circumference of a bidi</td>
+<td>Bidis, except those that are manufactured or sold for export</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2308,7 +2369,7 @@ The following additives are excluded:
 **Note 2:** In column 2, ***wrapper fitted in spiral form*** means a wrapper of a cigar that is fitted with an acute angle of at least 30° to the longitudinal axis of the cigar.
 
 
-> 2009, c. 27, s. 17; SOR/2015-126, ss. 1 to 7; 2017, c. 26, s. 20(F); SOR/2017-45; 2018, c. 9, s. 68.
+> 2009, c. 27, s. 17; SOR/2015-126, ss. 1 to 7; 2017, c. 26, s. 20(F); SOR/2017-45; 2018, c. 9, s. 68SOR/2019-108, s. 1SOR/2019-108, s. 3SOR/2019-108, s. 5
 
 
 
@@ -2377,7 +2438,7 @@ The following additives are excluded:
 **Note:** In column 2, prescription has the same meaning as in subsection 13(2).
 
 
-> 2018, c. 9, s. 69.
+> 2018, c. 9, s. 69
 
 
 
@@ -2426,6 +2487,240 @@ The following additives are excluded:
 **Note:** In column 2, prescription has the same meaning as in subsection 13(2).
 
 
-> 2018, c. 9, s. 69.
+> 2018, c. 9, s. 69
+
+
+
+
+## RELATED PROVISIONS
+
+######           — 1998, c. 38, s. 2(2)
+
+**2** 
+
+- **(2)** Section 25 of the Act, as it read immediately before the coming into force of subsection (1), continues to apply until October 1, 2003 in relation to the display, on a permanent facility, of a tobacco product-related brand element that appeared on the facility on the day on which this Act comes into force.
+
+
+
+
+
+## AMENDMENTS NOT IN FORCE
+
+######           — 2018, c. 9, s. 10
+
+**10** The Act is amended by adding the following after section 6:
+
+**Prohibition**
+
+**6.01** Subject to the regulations, no manufacturer shall sell a tobacco product unless the information required under subsection 6(1) with respect to that product is submitted to the Minister.
+
+
+
+
+
+######           — 2018, c. 9, s. 11(5)
+
+
+**
+> 2009, c. 27, s. 8(1)
+**
+
+**11** 
+
+- **(5)** Section 7 of the Act is amended by adding the following after paragraph (c.2):
+
+- **(c.3)** respecting the prohibition under section 6.01, including providing for the suspension of the sale of a tobacco product;
+
+
+
+
+
+######           — 2018, c. 9, s. 14(2)
+
+**14** 
+
+- **(2)** Subsection 8(2) of the Act is replaced by the following:
+
+**Defence**
+
+- **(2)** A person shall not be found guilty of having contravened subsection (1) if it is established that they attempted to verify, in accordance with the regulations, that the person was at least 18 years of age.
+
+
+
+######           — 2018, c. 9, ss. 15(2), (3)
+
+**15** 
+
+- **(2)** Paragraph 9(2)(b) of the Act is replaced by the following:
+
+- **(b)** instructed the person delivering the product to verify, in accordance with the regulations, that the person taking delivery of it is at least 18 years of age.
+
+
+
+- **(3)** Subsection 9(3) of the Act is replaced by the following:
+
+**Defence — person making delivery**
+
+- **(3)** A person shall not be found guilty of having contravened subsection (1) for having delivered a tobacco product or vaping product to a young person if it is established that the person verified, in accordance with the regulations, that the person taking delivery of the product was at least 18 years of age.
+
+
+
+######           — 2018, c. 9, s. 17
+
+**17** Section 12 of the Act is replaced by the following:
+
+**Dispensing device**
+
+**12** Subject to the regulations, no person shall furnish or permit the furnishing of a tobacco product or vaping product by means of a dispensing device.
+
+
+
+
+
+######           — 2018, c. 9, s. 19(1)
+
+**19** 
+
+- **(1)** Paragraph 14(a) of the Act is replaced by the following:
+
+- **(a)** respecting the verifications referred to in subsection 8(2), paragraph 9(2)(b) and subsection 9(3);
+
+
+
+
+
+######           — 2018, c. 9, s. 19(3)
+
+**19** 
+
+- **(3)** Paragraph 14(e) of the Act is replaced by the following:
+
+- **(e)** respecting exceptions to the prohibition under section 12;
+
+
+
+
+
+######           — 2018, c. 9, s. 39
+
+**39** Subsection 30.43(1) of the Act is replaced by the following:
+
+**Health benefits**
+
+**30.43** 
+
+- **(1)** Subject to subsection (3) and the regulations, no person shall promote a vaping product, including by means of the packaging, in a manner that could cause a person to believe that health benefits, within the meaning of the regulations, may be derived from the use of the product or from its emissions.
+
+
+
+
+
+######           — 2018, c. 9, s. 44(6)
+
+**44** 
+
+- **(6)** Paragraph 33(e.2) of the Act is replaced by the following:
+
+- **(e.2)** respecting exceptions to the prohibitions under subsections 30.43(1) and (2) and, for the purposes of subsection 30.43(1), what constitutes a health benefit;
+
+
+
+
+
+######           — 2018, c. 9, s. 54
+
+**54** The Act is amended by adding the following after section 42.3:
+
+**Documents to be kept**
+
+**42.31** 
+
+- **(1)** Every manufacturer shall keep, in the prescribed manner and for the prescribed time, all documents that they used in order to submit or provide information to the Minister under section 6, 7.3 or 32.
+
+**Keeping and providing documents**
+
+- **(2)** The manufacturer shall keep the documents at their place of business in Canada or at any prescribed place and shall, on written request, provide them to the Minister.
+
+
+
+
+
+######           — 2018, c. 9, s. 58
+
+**58** Section 44 of the Act is replaced by the following:
+
+**Summary offence**
+
+**44** Every person who contravenes subsection 6(1) or (2), section 6.1, subsection 7.3(1) or (2), section 7.5, subsection 10(1), (2) or (3) or 26(1) or (2), section 30.7 or subsection 31(1) or (3), 32(1) or (2), 38(1) or (2) or 42.31(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
+
+
+
+
+
+######           — 2018, c. 9, s. 59
+
+**59** Section 44.1 of the Act is replaced by the following:
+
+**Prohibited sale**
+
+**44.1** Every manufacturer who contravenes section 6.01 or 7.4 is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
+
+
+
+
+
+######           — SOR/2019-108, s. 2
+
+**2** Item 4.2 of Schedule 1 to the Act is replaced by the following:
+<table>
+<tr>
+<th></th>
+<th>**Column 1**</th>
+<th>**Column 2**</th>
+</tr>
+<tr>
+<th>**Item**</th>
+<th>**Additive**</th>
+<th>**Tobacco Product**</th>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Colouring agents, excluding those used to whiten mouthpieces or tips or to render them the colour drab brown (Pantone 448 C)</td>
+<td>Subject to items 4.3 and 4.4, cigars, except the following:
+
+**(1)** Cigars that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+
+
+**(2)** Cigars that are manufactured or sold for export
+
+
+
+</td>
+</tr>
+</table>
+
+
+
+
+######           — SOR/2019-108, s. 4
+
+**4** The portion of item 4.4 of Schedule 1 to the Act in column 1 is replaced by the following:
+<table>
+<tr>
+<th></th>
+<th>**Column 1**</th>
+</tr>
+<tr>
+<th>**Item**</th>
+<th>**Additive**</th>
+</tr>
+<tr>
+<td>**4.4**</td>
+<td>Colouring agents, excluding those used to render tipping paper the colour drab brown (Pantone 448 C), to whiten mouthpieces or tips or to render them the colour drab brown (Pantone 448 C)</td>
+</tr>
+</table>
+
+
 
 
