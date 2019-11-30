@@ -330,10 +330,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Un suivi de ce plan est fait avec le délinquant afin de lui assurer les meilleurs programmes aux moments opportuns pendant l’exécution de sa peine dans le but de favoriser sa réhabilitation et de le préparer à sa réinsertion sociale à titre de citoyen respectueux des lois.
 
+**Évaluation de la santé mentale**
+
+- **(2.01)** Afin que le plan puisse être élaboré d’une manière qui tient compte des besoins, le cas échéant, d’un délinquant en matière de santé mentale, le directeur du pénitencier renvoie le dossier du délinquant, dès que possible après la date à laquelle celui-ci est admis au pénitencier et au plus tard le trentième jour après cette date, au secteur du Service chargé de la gestion des soins de santé pour que soit effectuée une évaluation de la santé mentale du délinquant.
+
+**Mise à jour du plan : unité d’intervention structurée**
+
+- **(2.1)** Dès que possible après qu’il a été décidé, en application du paragraphe 29.01(2), de l’alinéa 37.3(1)b) ou des articles 37.4 ou 37.8, que le délinquant doit demeurer dans une unité d’intervention structurée, le directeur du pénitencier veille à ce que le plan correctionnel du délinquant soit mis à jour avec lui afin de lui assurer les meilleurs programmes aux moments opportuns pendant son incarcération dans une telle unité et de préparer sa réintégration au sein de la population carcérale régulière dès que possible.
+
 **Progrès du délinquant**
 
 - **(3)** Dans le choix d’un programme pour le délinquant ou dans la prise de la décision de le transférer ou de le mettre en liberté sous condition, le Service doit tenir compte des progrès accomplis par le délinquant en vue de l’atteinte des objectifs de son plan.
-> 2012, ch. 1, art. 55
+> 2012, ch. 1, art. 552019, ch. 27, art. 3
 
 
 
@@ -746,8 +754,26 @@ La permission est accordée pour une période maximale de quinze jours.
 
 **Transfèrements**
 
-**29** Le commissaire peut autoriser le transfèrement d’une personne condamnée ou transférée au pénitencier, soit à un autre pénitencier, conformément aux règlements pris en vertu de l’alinéa 96d), mais sous réserve de l’article 28, soit à un établissement correctionnel provincial ou un hôpital dans le cadre d’un accord conclu au titre du paragraphe 16(1), conformément aux règlements applicables.
-> 1992, ch. 20, art. 29; 1995, ch. 42, art. 11
+**29** Le commissaire peut autoriser le transfèrement d’une personne condamnée ou transférée au pénitencier :
+- **a)** à un hôpital, notamment tout établissement psychiatrique, ou à un établissement correctionnel provincial, dans le cadre d’un accord conclu au titre du paragraphe 16(1), conformément aux règlements applicables;
+- **b)** à l’intérieur d’un pénitencier, d’un secteur auquel une cote de sécurité a été attribuée en vertu de l’article 29.1, à un autre secteur auquel une cote de sécurité a ainsi été attribuée, conformément aux règlements pris en vertu de l’alinéa 96d), mais sous réserve de l’article 28;
+- **c)** à un autre pénitencier, conformément aux règlements pris en vertu de l’alinéa 96d), mais sous réserve de l’article 28.
+> 1992, ch. 20, art. 29; 1995, ch. 42, art. 112019, ch. 27, art. 7
+
+
+
+
+
+**Transfèrement dans une unité d’intervention structurée**
+
+**29.01** 
+
+- **(1)** L’agent occupant un poste de niveau inférieur à celui de directeur de pénitencier et désigné par le commissaire peut, conformément aux règlements pris en vertu de l’alinéa 96g), mais sous réserve de l’article 28, autoriser le transfèrement d’une personne condamnée ou transférée au pénitencier à une unité d’intervention structurée du pénitencier ou d’un autre pénitencier.
+
+**Décision : directeur du pénitencier**
+
+- **(2)** Le directeur du pénitencier décide, conformément aux règlements pris en vertu de l’alinéa 96g), si le détenu doit demeurer dans l’unité d’intervention structurée au cours de la période de cinq jours ouvrables débutant le premier jour ouvrable où le détenu est incarcéré dans l’unité.
+> 2019, ch. 27, art. 7
 
 
 
@@ -789,88 +815,474 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
-### Isolement préventif
+### Unités d’intervention structurée
 
 
 
-**Objet**
+**Établissement**
 
-**31** 
-
-- **(1)** L’isolement préventif a pour but d’assurer la sécurité d’une personne ou du pénitencier en empêchant un détenu d’entretenir des rapports avec d’autres détenus.
-
-**Fin de l’isolement préventif**
-
-- **(2)** Il est mis fin à l’isolement préventif le plus tôt possible.
-
-**Motifs d’isolement préventif**
-
-- **(3)** Le directeur du pénitencier peut, s’il est convaincu qu’il n’existe aucune autre solution valable, ordonner l’isolement préventif d’un détenu lorsqu’il a des motifs raisonnables de croire, selon le cas :
-	- **a)** que celui-ci a agi, tenté d’agir ou a l’intention d’agir d’une manière compromettant la sécurité d’une personne ou du pénitencier et que son maintien parmi les autres détenus mettrait en danger cette sécurité;
-	- **b)** que son maintien parmi les autres détenus nuirait au déroulement d’une enquête pouvant mener à une accusation soit d’infraction criminelle soit d’infraction disciplinaire grave visée au paragraphe 41(2);
-	- **c)** que son maintien parmi les autres détenus mettrait en danger sa sécurité.
-> 1992, ch. 20, art. 31; 2012, ch. 1, art. 60
+**31** Le commissaire peut désigner à titre d’unité d’intervention structurée tout pénitencier ou tout secteur d’un pénitencier.
+> 1992, ch. 20, art. 31; 2012, ch. 1, art. 602019, ch. 27, art. 10
 
 
 
 
 
-**Considérations**
+**Objets**
 
-**32** Les recommandations faites aux termes du paragraphe 33(1) et les décisions que prend le directeur en matière d’isolement préventif sont fondées sur les principes ou critères énoncés à l’article 31.
+**32** 
 
+- **(1)** Les unités d’intervention structurée ont pour objet :
+	- **a)** de fournir un milieu de vie qui convient à tout détenu dont le transfèrement dans l’unité a été autorisé et qui ne peut demeurer au sein de la population carcérale régulière notamment pour des raisons de sécurité;
+	- **b)** de fournir à un tel détenu la possibilité d’avoir des contacts humains réels, de participer à des programmes et de bénéficier de services qui répondent à ses besoins particuliers et aux risques qu’il représente.
 
+**Obstacles physiques**
 
+- **(2)** Pour l’application de l’alinéa (1)b), des efforts raisonnables sont déployés pour veiller à ce que les occasions d’interaction au moyen de contacts humains réels ne soient pas gênées ou limitées par des obstacles physiques, notamment des barreaux, des vitres de sécurité, des guichets de porte ou des écrans.
 
-**Réexamen**
+**Registre**
 
-**33** 
-
-- **(1)** Lorsque l’isolement préventif est imposé au détenu, le directeur charge une ou plusieurs personnes de réexaminer périodiquement chaque cas, par une audition, selon les modalités réglementaires de temps et autres, et de lui faire après chaque réexamen des recommandations quant au maintien ou non du détenu en isolement préventif.
-
-**Présence du détenu**
-
-- **(2)** L’audition a lieu en présence du détenu, sauf dans les cas suivants :
-	- **a)** celui-ci décide de ne pas y assister;
-	- **b)** les personnes chargées de l’audition croient, pour des motifs raisonnables, que sa présence mettrait en danger la sécurité de quiconque y assiste;
-	- **c)** celui-ci en perturbe gravement le déroulement.
-> 1992, ch. 20, art. 33; 1995, ch. 42, art. 12
+- **(3)** Le Service tient un registre de toute interaction visée à l’alinéa (1)b) qui est gênée ou limitée par des obstacles physiques.
+> 1992, ch. 20, art. 322019, ch. 27, art. 10
 
 
 
 
 
-**Obligation du directeur**
+**Durée**
 
-**34** Quand le directeur, contrairement à une recommandation faite aux termes du paragraphe 33(1), a l’intention de maintenir le détenu en isolement préventif, il doit, dès que possible, rencontrer celui-ci, lui exposer les motifs de son désaccord et lui donner l’occasion de lui présenter des observations, oralement ou par écrit.
-
-
-
-
-**Idem**
-
-**35** Il procède de même quand il n’a pas l’intention d’accéder à la demande du détenu d’être placé ou maintenu en isolement préventif.
+**33** L’incarcération dans une unité d’intervention structurée prend fin le plus tôt possible.
+> 1992, ch. 20, art. 33; 1995, ch. 42, art. 122019, ch. 27, art. 10
 
 
 
 
-**Visites par un professionnel de la santé**
 
-**36** 
+**Transfèrement dans une unité**
 
-- **(1)** Le détenu en isolement préventif reçoit au moins une fois par jour la visite d’un professionnel de la santé agréé.
+**34** 
 
-**Visites par le directeur**
+- **(1)** L’agent ne peut autoriser le transfèrement d’un détenu dans une unité d’intervention structurée du pénitencier au titre du paragraphe 29.01(1) que s’il est convaincu qu’il n’existe aucune autre solution valable et que s’il a des motifs raisonnables de croire, selon le cas :
+	- **a)** que le détenu a agi, tenté d’agir ou a l’intention d’agir d’une manière qui mettrait en danger la sécurité d’une personne ou d’un pénitencier et que la présence de celui-ci au sein de la population carcérale régulière mettrait en danger cette sécurité;
+	- **b)** que la présence du détenu au sein de la population carcérale régulière mettrait en danger la sécurité de celui-ci;
+	- **c)** que la présence du détenu au sein de la population carcérale régulière nuirait au déroulement d’une enquête pouvant mener à une accusation soit d’infraction criminelle soit d’infraction disciplinaire grave visée au paragraphe 41(2).
 
-- **(2)** Le directeur visite l’aire d’isolement au moins une fois par jour et, sur demande, rencontre tout détenu qui s’y trouve.
+**Registre des transfèrements**
+
+- **(2)** Le Service tient un registre de toute autorisation de transfèrement dans une unité d’intervention structurée dans lequel il indique les motifs la justifiant et les autres solutions possibles étudiées.
+
+**Motifs**
+
+- **(3)** Au plus tard un jour ouvrable après le jour où le transfèrement du détenu a été autorisé, le Service avise oralement le détenu de l’octroi de l’autorisation et des motifs la justifiant et au plus tard deux jours ouvrables après le jour où le transfèrement du détenu a été autorisé, il communique au détenu ces motifs par écrit.
+> 1992, ch. 20, art. 342019, ch. 27, art. 10
+
 
 
 
 
 **Droits du détenu**
 
-**37** Le détenu en isolement préventif jouit, compte tenu des contraintes inhérentes à l’isolement et des impératifs de sécurité, des mêmes droits et conditions que ceux dont bénéficient les autres détenus du pénitencier.
-> 1992, ch. 20, art. 37; 2012, ch. 1, art. 61
+**35** Le détenu incarcéré dans une unité d’intervention structurée jouit, compte tenu des contraintes inhérentes à ce type d’unité et des impératifs de sécurité, des mêmes droits que les autres détenus du pénitencier.
+> 1992, ch. 20, art. 352019, ch. 27, art. 10
+
+
+
+
+
+**Obligations du Service**
+
+**36** 
+
+- **(1)** Le Service accorde quotidiennement à tout détenu incarcéré dans une unité d’intervention structurée la possibilité, entre 7 h et 22 h :
+	- **a)** de passer au moins quatre heures en dehors de sa cellule;
+	- **b)** d’avoir, pour au moins deux heures, la possibilité d’interagir avec autrui dans le cadre d’activités qui se rapportent, notamment :
+		- **(i)** à des programmes, des interventions ou des services qui l’encouragent à atteindre les objectifs de son plan correctionnel ou le préparent à sa réintégration au sein de la population carcérale régulière,
+		- **(ii)** à son temps de loisir.
+
+**Temps compté**
+
+- **(2)** Le temps consacré à des activités visées à l’alinéa (1)b) est compté pour l’application de l’alinéa (1)a) si celles-ci ont lieu à l’extérieur de la cellule du détenu.
+
+**Temps non compté**
+
+- **(3)** Lorsque le détenu prend sa douche en dehors de sa cellule, le temps qui y est consacré n’est pas compté pour l’application de l’alinéa (1)a).
+> 1992, ch. 20, art. 362019, ch. 27, art. 10
+
+
+
+
+
+**Exceptions**
+
+**37** 
+
+- **(1)** Les alinéas 36(1)a) et b) ne s’appliquent pas, dans l’un ou l’autre des cas suivants :
+	- **a)** le détenu refuse de se prévaloir de la possibilité visée à l’un ou l’autre de ces alinéas;
+	- **b)** il ne suit pas les instructions raisonnables qui lui sont données pour assurer sa sécurité ou celle de toute autre personne ou du pénitencier pendant la période où la possibilité visée à l’un ou l’autre de ces alinéas lui est offerte;
+	- **c)** les cas prévus par règlement — notamment en cas de catastrophe naturelle, d’incendie, d’émeute ou de refus de travailler en application de l’article 128 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) — et justifiés par des raisons de sécurité.
+
+**Registre**
+
+- **(2)** Le Service tient un registre de toute situation où le détenu s’est vu offrir la possibilité visée aux alinéas 36(1)a) ou b) et a refusé de s’en prévaloir, en y indiquant la possibilité offerte et toute raison donnée à l’égard du refus, et de toute situation où il n’a pas pu se prévaloir d’une telle possibilité en application des alinéas (1)b) ou c).
+> 1992, ch. 20, art. 37; 2012, ch. 1, art. 612019, ch. 27, art. 10
+
+
+
+
+
+**Suivi continu de l’état de santé**
+
+**37.1** 
+
+- **(1)** Le Service veille à ce que soit effectué un suivi continu de l’état de santé de chaque détenu incarcéré dans une unité d’intervention structurée.
+
+**Évaluation de la santé mentale et visites quotidiennes**
+
+- **(2)** À cet égard, le Service veille notamment :
+	- **a)** à ce que le dossier du détenu soit renvoyé, dans les vingt-quatre heures de son transfèrement dans une unité d’intervention structurée, au secteur du Service chargé de la gestion des soins de santé pour que soit effectuée une évaluation de la santé mentale du détenu;
+	- **b)** à ce que le détenu reçoive au moins une fois par jour la visite d’un professionnel de la santé agréé employé par le Service ou dont les services ont été retenus par celui-ci.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Évaluation de la santé mentale**
+
+**37.11** S’il croit que l’incarcération d’un détenu dans une unité d’intervention structurée a un effet préjudiciable sur la santé de celui-ci, notamment pour un des motifs ci-après, l’agent ou une personne dont les services ont été retenus par le Service réfère, de la manière prévue par règlement, le cas du détenu au secteur du Service chargé de la gestion des soins de santé :
+- **a)** le détenu refuse d’interagir avec les autres;
+- **b)** il commet des actes d’automutilation;
+- **c)** il présente des symptômes de surdose de drogue;
+- **d)** il présente des signes de détresse émotionnelle ou un comportement qui donne à penser qu’il a un urgent besoin de soins de santé mentale.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Recommandation au directeur du pénitencier**
+
+**37.2** Le professionnel de la santé agréé employé par le Service — ou dont les services ont été retenus par celui-ci — peut, pour des raisons de santé, recommander au directeur du pénitencier de modifier les conditions d’incarcération du détenu dans l’unité d’intervention structurée ou qu’il n’y soit plus incarcéré.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Décision du directeur**
+
+**37.3** 
+
+- **(1)** Le directeur du pénitencier décide, conformément aux règlements pris en vertu de l’alinéa 96g), si le détenu doit demeurer dans l’unité d’intervention structurée :
+	- **a)** dès que possible après qu’un professionnel de la santé agréé lui a, en vertu de l’article 37.2, recommandé, pour des raisons de santé, qu’il n’y soit plus incarcéré;
+	- **b)** au cours de la période débutant le jour où une décision est prise au titre du paragraphe 29.01(2) et qui se termine à l’expiration de la période de trente jours débutant le premier jour où le détenu est incarcéré dans l’unité;
+	- **c)** dès que possible dans les circonstances prévues par règlement.
+
+**Conditions d’incarcération**
+
+- **(2)** Le directeur décide si les conditions d’incarcération du détenu dans l’unité d’intervention structurée doivent être modifiées, dès que possible après qu’un professionnel de la santé agréé lui a, en vertu de l’article 37.2, recommandé pour des raisons de santé de les modifier.
+
+**Visite au détenu**
+
+- **(3)** Avant de prendre toute décision au titre du présent article, le directeur du pénitencier rend visite au détenu.
+
+**Registre**
+
+- **(4)** Le directeur du pénitencier tient un registre des circonstances entourant toute situation où, pour des impératifs de sécurité, la visite n’a pas eu lieu en personne ou s’est déroulée par le guichet de la porte de la cellule.
+
+**Motifs**
+
+- **(5)** Au plus tard un jour ouvrable après le jour où il prend une décision au titre du présent article, le directeur du pénitencier avise oralement le détenu de la décision et de ses motifs et, au plus tard deux jours ouvrables après le jour où la décision a été prise, il communique au détenu ces motifs par écrit.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Avis d’un professionnel de la santé agréé**
+
+**37.31** 
+
+- **(1)** Si le directeur du pénitencier décide, en application de l’alinéa 37.3(1)a), que le détenu doit demeurer dans l’unité d’intervention structurée ou s’il décide en application du paragraphe 37.3(2) que les conditions d’incarcération du détenu dans l’unité d’intervention structurée ne doivent pas être modifiées conformément aux recommandations qui lui ont été faites par un professionnel de la santé agrée, un autre professionnel de la santé agréé fournit des avis au comité constitué en vertu du paragraphe (3).
+
+**Compétences**
+
+- **(2)** Le professionnel de la santé agrée qui fournit les avis doit être un professionnel de la santé agrée principal employé par le Service ou un professionnel de la santé agréé dont les services ont été retenus par celui-ci à titre de conseiller expert.
+
+**Comité**
+
+- **(3)** Le commissaire constitue un comité composé d’agents occupant un poste de niveau supérieur à celui de directeur du pénitencier afin de rendre des décisions en application de l’article 37.32.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Décision du comité — modification des conditions**
+
+**37.32** 
+
+- **(1)** Dès que possible après que le directeur du pénitencier a décidé, en application du paragraphe 37.3(2), que les conditions d’incarcération du détenu dans l’unité d’intervention structurée ne doivent pas être modifiées conformément aux recommandations qui lui ont été faites par un professionnel de la santé agrée, le comité constitué en vertu du paragraphe 37.31(3) décide, conformément aux règlements pris en vertu de l’alinéa 96g), si les conditions d’incarcération du détenu dans l’unité d’intervention structurée doivent être modifiées.
+
+**Décision du comité — incarcération**
+
+- **(2)** Dès que possible après que le directeur du pénitencier a décidé, en application de l’alinéa 37.3(1)a), que le détenu doit demeurer dans l’unité d’intervention structurée, le comité constitué en vertu du paragraphe 37.31(3) décide, conformément aux règlements pris en vertu de l’alinéa 96g), si le détenu doit demeurer dans cette unité.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Décision du commissaire**
+
+**37.4** Trente jours après la décision prise en application de l’alinéa 37.3(1)b) par le directeur du pénitencier portant que le détenu doit demeurer dans l’unité d’intervention structurée, le commissaire décide, conformément aux règlements pris en vertu de l’alinéa 96g), si le détenu doit y demeurer. Le commissaire rend une telle décision aussi dans les cas prévus par règlement et tous les soixante jours suivant la prise d’une décision portant que le détenu doit demeurer dans l’unité d’intervention structurée prise au titre du présent article.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Critères afférents aux décisions**
+
+**37.41** 
+
+- **(1)** Un détenu ne peut demeurer dans une unité d’intervention structurée que si le directeur du pénitencier, le commissaire ou le comité constitué en vertu du paragraphe 37.31(3) a des motifs raisonnables de croire que la réintégration du détenu au sein de la population carcérale régulière, selon le cas :
+	- **a)** mettrait en danger la sécurité du détenu ou de toute autre personne ou du pénitencier;
+	- **b)** nuirait au déroulement d’une enquête pouvant mener à une accusation soit d’infraction criminelle soit d’infraction disciplinaire grave visée au paragraphe 41(2).
+
+**Éléments à prendre en considération**
+
+- **(2)** Dans la prise de sa décision, le directeur du pénitencier, le commissaire ou le comité, selon le cas, tient compte :
+	- **a)** du plan correctionnel du détenu;
+	- **b)** du bien-fondé de son incarcération dans ce pénitencier;
+	- **c)** du bien-fondé de sa cote de sécurité;
+	- **d)** de tout autre élément qu’il juge pertinent.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Examen du cas du détenu**
+
+**37.5** Si le transfèrement d’un détenu dans une unité d’intervention structurée a été autorisé pour le nombre de fois prévu par règlement ou dans les cas prévus par règlement, le Service procède à l’examen de son cas, au cours de la période prévue par règlement et selon les modalités réglementaires.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Nomination de décideurs externes indépendants**
+
+**37.6** 
+
+- **(1)** Le ministre nomme un ou plusieurs décideurs externes indépendants.
+
+**Admissibilité**
+
+- **(2)** Pour être nommé, l’intéressé doit avoir une connaissance des processus décisionnels administratifs en général. Toutefois, il ne peut, dans les cinq ans précédant la nomination, avoir été un agent ou une personne nommée au titre du paragraphe 6(1).
+
+**Durée du mandat**
+
+- **(3)** Le décideur externe indépendant est nommé à titre inamovible pour un mandat renouvelable d’au plus cinq ans, sous réserve de révocation motivée par le ministre.
+
+**Temps plein ou temps partiel**
+
+- **(4)** II exerce ses fonctions à temps plein ou à temps partiel.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Frais et rémunération**
+
+**37.61** Le décideur externe indépendant reçoit :
+- **a)** la rémunération que fixe le Conseil du Trésor;
+- **b)** conformément aux directives du Conseil du Trésor, une indemnité pour ses frais de déplacement et de séjour résultant de l’exercice de ses attributions hors de son lieu habituel, soit de travail, s’il est à temps plein, soit de résidence, s’il est à temps partiel.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Communication des renseignements**
+
+**37.7** 
+
+- **(1)** Le Service est tenu de fournir au décideur externe indépendant les renseignements pertinents dont il dispose pour permettre à celui-ci de prendre toute décision au sujet du détenu.
+
+**Pouvoir d’exiger des documents ou des renseignements**
+
+- **(2)** Afin de prendre sa décision, le décideur externe indépendant peut demander à tout agent ou à toute personne dont les services sont retenus par le Service ou pour son compte :
+	- **a)** de lui fournir les renseignements que l’agent ou la personne peut, selon lui, lui donner au sujet du cas du détenu;
+	- **b)** de produire pour examen les documents ou objets qui, selon lui, se rapportent au cas du détenu et qui peuvent être en la possession de l’agent ou de la personne ou sous son contrôle.
+
+**Renvoi des documents ou objets**
+
+- **(3)** Le décideur externe indépendant renvoie au Service, dans les dix jours suivant la date à laquelle il prend sa décision, les documents ou objets contenant les renseignements visés au paragraphe (1) ou à l’alinéa (2)a) ou ceux produits au titre de l’alinéa (2)b) ainsi que toute copie.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Communication au détenu**
+
+**37.71** 
+
+- **(1)** Avant de prendre toute décision à son sujet, le décideur externe indépendant fait parvenir au détenu, dans la langue officielle que choisit celui-ci, les documents contenant l’information pertinente, ou un résumé de celle-ci, autre que l’information fournie au décideur par le détenu.
+
+**Exceptions**
+
+- **(2)** Le décideur externe indépendant peut, dans la mesure jugée strictement nécessaire, refuser la communication de renseignements au détenu s’il a des motifs raisonnables de croire que cette communication irait à l’encontre de l’intérêt public, mettrait en danger la sécurité d’une personne ou du pénitencier ou compromettrait la tenue d’une enquête licite.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Observations par écrit**
+
+**37.72** Avant de prendre toute décision à son sujet, le décideur externe indépendant veille à ce que le détenu ait l’occasion de lui présenter ses observations par écrit.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Accès au détenu**
+
+**37.73** Afin de prendre toute décision à son sujet, le décideur externe indépendant peut communiquer avec le détenu.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Obligation au secret**
+
+**37.74** 
+
+- **(1)** Sous réserve du paragraphe (2), le décideur externe indépendant est tenu au secret en ce qui concerne les renseignements dont il prend connaissance dans l’exercice des attributions que lui confère la présente loi ou toute autre loi fédérale.
+
+**Exception**
+
+- **(2)** Il peut communiquer les renseignements visés au paragraphe (1) dans le cadre de l’exercice de ces attributions.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Non-assignation**
+
+**37.75** En ce qui concerne les questions venues à sa connaissance dans l’exercice effectif, ou censé tel, des attributions que lui confère la présente loi ou toute autre loi fédérale, le décideur externe indépendant n’a pas qualité pour témoigner dans les affaires civiles ni ne peut y être contraint.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Immunité**
+
+**37.76** Le décideur externe indépendant bénéficie de l’immunité en matière civile ou pénale pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif, ou censé tel, des attributions que lui confère la présente loi ou toute autre loi fédérale.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Diffusion de renseignements**
+
+**37.77** Le décideur externe indépendant peut diffuser, conformément aux règlements pris en vertu de l’alinéa 96g.1), notamment en les publiant, les renseignements, à l’exception des renseignements personnels, relatifs à ses décisions.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Décision : après décision du commissaire**
+
+**37.8** Trente jours après chacune des décisions prises en application de l’article 37.4 par le commissaire portant que le détenu doit demeurer dans l’unité d’intervention structurée, le décideur externe indépendant décide, conformément aux règlements pris en vertu de l’alinéa 96g.1), si le détenu doit y demeurer.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Décision : après décision du comité**
+
+**37.81** Si le comité constitué en vertu du paragraphe 37.31(3) décide que le détenu doit demeurer dans l’unité d’intervention structurée ou que les conditions d’incarcération du détenu dans l’unité d’intervention structurée ne doivent pas être modifiées conformément à la recommandation qui lui est faite par le professionnel de la santé agréé au titre de l’article 37.2, le décideur externe indépendant décide, dès que possible, conformément aux règlements pris en vertu de l’alinéa 96g.1), si le détenu doit demeurer dans l’unité ou si les conditions d’incarcération du détenu dans celle-ci soient modifiées.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Critères afférents aux décisions**
+
+**37.82** 
+
+- **(1)** Un détenu ne peut demeurer dans une unité d’intervention structurée que si le décideur externe indépendant a des motifs raisonnables de croire, en application des articles 37.8 et 37.81, que la réintegration du détenu au sein de la population carcérale régulière, selon le cas :
+	- **a)** mettrait en danger la sécurité du détenu ou de toute autre personne ou du pénitencier;
+	- **b)** nuirait au déroulement d’une enquête pouvant mener à une accusation soit d’infraction criminelle, soit d’infraction disciplinaire grave visée au paragraphe 41(2).
+
+**Éléments à prendre en considération**
+
+- **(2)** Dans la prise de sa décision, le décideur externe indépendant tient compte :
+	- **a)** du plan correctionnel du détenu;
+	- **b)** du bien-fondé de son incarcération dans ce pénitencier;
+	- **c)** du bien-fondé de sa cote de sécurité;
+	- **d)** de tout autre élément que le décideur juge pertinent.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Décision — mesures utiles**
+
+**37.83** 
+
+- **(1)** Si, pendant cinq jours consécutifs ou un total de quinze jours au cours d’une période de trente jours, le détenu incarcéré dans l’unité d’intervention structurée n’a pas passé au moins quatre heures par jour en dehors de sa cellule ou n’a pas, au moins deux heures par jour, interagi avec autrui, le décideur externe indépendant doit, dès que possible, déterminer si le Service a pris toutes les mesures utiles pour accorder au détenu les possibilités visées au paragraphe 36(1) et pour encourager celui-ci à s’en prévaloir.
+
+**Recommandations**
+
+- **(2)** S’il détermine que le Service n’a pas pris toutes les mesures utiles, le décideur externe indépendant peut lui faire les recommandations qu’il estime indiquées pour remédier à la situation.
+
+**Pouvoir d’ordonner le retrait de l’unité**
+
+- **(3)** Si, dans les sept jours de la réception des recommandations, le Service n’a pas démontré qu’il a pris toutes les mesures utiles pour accorder au détenu les possibilités visées au paragraphe 36(1), le décideur externe indépendant ordonne au Service de retirer le détenu de l’unité d’intervention structurée et en avise l’enquêteur correctionnel, au sens de la partie III.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Autres fonctions**
+
+**37.9** Le décideur externe indépendant peut, dans les circonstances réglementaires, prendre toute décision réglementaire ou procéder à tout examen réglementaire conformément aux modalités réglementaires.
+> 2019, ch. 27, art. 10
+
+
+
+
+
+**Restrictions et application de certains articles**
+
+**37.91** 
+
+- **(1)** Le transfèrement d’un détenu dans une unité d’intervention structurée est effectué dans les cinq jours ouvrables suivant le jour où l’autorisation de transfèrement a été accordée. Jusqu’au transfèrement du détenu, le Service peut lui imposer des restrictions à ses mouvements et les articles 29.01, 33, 35 à 37.4 et 37.81 à 37.83 s’appliquent à son égard, compte tenu des adaptations nécessaires, comme s’il était déjà incarcéré dans l’unité d’intervention structurée. Toutefois, seulement si les circonstances le permettent, la possibilité visée à l’alinéa 36(1)b) lui est offerte.
+
+**Obligation du directeur**
+
+- **(2)** Le directeur du pénitencier rencontre le détenu au moins une fois par jour.
+
+**Exception**
+
+- **(3)** Le paragraphe (1) ne s’applique pas si le transfèrement du détenu est à l’égard d’une unité d’intervention structurée située dans le même pénitencier dans lequel il est incarcéré au moment où l’autorisation a été accordée.
+> 2019, ch. 27, art. 10
 
 
 
@@ -973,13 +1385,13 @@ La permission est accordée pour une période maximale de quinze jours.
 	- **b)** perte de privilèges;
 	- **c)** ordre de restitution, notamment à l’égard de tout bien endommagé ou détruit du fait de la perpétration de l’infraction;
 	- **d)** amende;
-	- **e)** travaux supplémentaires;
-	- **f)** isolement — avec ou sans restriction à l’égard des visites de la famille, des amis ou d’autres personnes de l’extérieur du pénitencier — pour un maximum de trente jours, dans le cas d’une infraction disciplinaire grave.
+	- **e)** travaux supplémentaires.
+	- **f)** [Abrogé, 2019, ch. 27, art. 11]
 
 **Amende ou restitution**
 
 - **(2)** Le recouvrement de l’amende et la restitution s’effectuent selon les modalités réglementaires.
-> 1992, ch. 20, art. 44; 2012, ch. 1, art. 63
+> 1992, ch. 20, art. 44; 2012, ch. 1, art. 632019, ch. 27, art. 11
 
 
 
@@ -1052,9 +1464,17 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
-**Fouille à nu**
+**Fouille à nu ordinaire**
 
-**48** L’agent peut, sans soupçon précis, procéder à la fouille à nu d’un détenu de même sexe que lui soit dans les cas prévus par règlement où le détenu s’est trouvé dans un endroit où il aurait pu avoir accès à un objet interdit pouvant être dissimulé sur lui ou dans une des cavités de son corps, soit lorsqu’il arrive à une aire d’isolement préventif ou la quitte.
+**48** 
+
+- **(1)** Sous réserve du paragraphe (2), l’agent peut, sans soupçon précis, procéder à la fouille à nu ordinaire d’un détenu de même sexe que lui soit dans les cas prévus par règlement où le détenu s’est trouvé dans un endroit où il aurait pu avoir accès à un objet interdit pouvant être dissimulé sur lui ou dans une des cavités de son corps, soit lorsqu’il arrive dans une unité d’intervention structurée ou la quitte.
+
+**Choix de la fouille par balayage corporel**
+
+- **(2)** Il est procédé à une fouille par balayage corporel du détenu plutôt qu’à une fouille à nu si la fouille par balayage corporel est autorisée en application de l’article 48.1 et qu’un détecteur à balayage corporel réglementaire fonctionnant correctement est situé dans le secteur du pénitencier où la fouille à nu devrait être faite.
+> 1992, ch. 20, art. 482019, ch. 27, art. 14
+
 
 
 
@@ -1613,9 +2033,50 @@ La permission est accordée pour une période maximale de quinze jours.
 
 
 
+**Obligations en matière de soins de santé**
+
+**86.1** Lorsque des soins de santé doivent être dispensés à des détenus, le Service :
+- **a)** soutient l’autonomie professionnelle et l’indépendance clinique des professionnels de la santé agréés ainsi que la liberté qu’ils possèdent d’exercer, sans influence inopportune, un jugement professionnel dans le cadre du traitement des détenus;
+- **b)** soutient ces professionnels de la santé agréés dans la promotion, selon leur code de déontologie, des soins axés sur le patient et de la défense des droits des patients;
+- **c)** favorise la prise de décisions fondée sur les critères appropriés en matière de soins médicaux, dentaires ou de santé mentale.
+> 2019, ch. 27, art. 28
+
+
+
+
+
+**Désignation par le Service**
+
+**86.2** Le commissaire peut désigner à titre d’unité de soins de santé tout pénitencier ou tout secteur d’un pénitencier.
+> 2019, ch. 27, art. 28
+
+
+
+
+
+**Objectif**
+
+**86.3** Les unités de soins de santé ont pour objet de fournir aux détenus des milieux de vie qui leur conviennent afin de faciliter leur accès à des soins de santé.
+> 2019, ch. 27, art. 28
+
+
+
+
+
+**Admission et congé**
+
+**86.4** L’admission des détenus dans les unités de soins de santé — et l’obtention de leur congé — est faite conformément aux règlements pris en vertu de l’alinéa 96g.2).
+> 2019, ch. 27, art. 28
+
+
+
+
+
 **État de santé du délinquant**
 
-**87** Les décisions concernant un délinquant, notamment en ce qui touche son placement, son transfèrement, son isolement préventif ou toute question disciplinaire, ainsi que les mesures préparatoires à sa mise en liberté et sa surveillance durant celle-ci, doivent tenir compte de son état de santé et des soins qu’il requiert.
+**87** Les décisions concernant un délinquant, notamment en ce qui touche son placement, son transfèrement, son incarcération dans une unité d’intervention structurée ou toute question disciplinaire, ainsi que les mesures préparatoires à sa mise en liberté et à sa surveillance durant celle-ci, doivent tenir compte de son état de santé et des soins qu’il requiert.
+> 1992, ch. 20, art. 872019, ch. 27, art. 29
+
 
 
 
@@ -1653,6 +2114,17 @@ La permission est accordée pour une période maximale de quinze jours.
 **Interdiction de nourrir de force**
 
 **89** Il est interdit au Service d’ordonner l’alimentation de force d’un détenu, par quelque méthode que ce soit, si celui-ci au moment où il décide de jeûner, en comprend les conséquences.
+
+
+
+
+**Services en matière de défense des droits des patients**
+
+**89.1** Le Service fournit, à l’égard des détenus des pénitenciers désignés par le commissaire, un accès à des services en matière de défense des droits des patients pour :
+- **a)** appuyer les détenus en ce qui a trait aux questions en matière de soins de santé;
+- **b)** aider les détenus et les membres de leur famille ou une personne de confiance désignée par le détenu à comprendre les droits et les responsabilités des détenus en matière de soins de santé.
+> 2019, ch. 27, art. 30
+
 
 
 
@@ -1792,7 +2264,9 @@ La permission est accordée pour une période maximale de quinze jours.
 - **d)** concernant l’incarcération des détenus conformément à l’article 28 et leur transfèrement conformément à l’article 29;
 - **e)** régissant les questions visées à l’article 70;
 - **f)** concernant les allocations, les vêtements ou objets de première nécessité à remettre aux détenus quittant, même temporairement, le pénitencier;
-- **g)** concernant l’isolement préventif;
+- **g)** concernant l’incarcération dans une unité d’intervention structurée, notamment concernant la prise de décision par le directeur du pénitencier, le commissaire ou le comité constitué en vertu du paragraphe 37.31(3) sur la question de savoir si les conditions d’incarcération d’un détenu dans l’unité d’intervention structurée doivent être modifiées ou si un détenu doit demeurer dans une telle unité;
+- **g.1)** concernant les attributions des décideurs externes indépendants, notamment concernant la prise de décisions par ceux-ci sur la question de savoir si les conditions d’incarcération de détenus dans l’unité d’intervention structurée doivent être modifiées ou si les détenus doivent demeurer dans une telle unité;
+- **g.2)** concernant l’admission dans les unités de soins de santé et l’obtention de leur congé de ces unités;
 - **h)** précisant la teneur de l’avis visé à l’article 42 et son délai de transmission au détenu;
 - **i)** concernant l’exécution, la suspension et l’annulation des sanctions disciplinaires prévues à l’article 44 et précisant :
 	- **(i)** le maximum de chaque peine, lequel doit être, pour les infractions disciplinaires mineures, inférieur à celui prévu pour les infractions disciplinaires graves,
@@ -1830,7 +2304,7 @@ La permission est accordée pour une période maximale de quinze jours.
 - **z.10)** imposant des obligations ou des interdictions au Service pour l’application de toute disposition de la présente partie;
 - **z.11)** portant toute mesure d’ordre réglementaire prévue par la présente partie;
 - **z.12)** portant toute autre mesure d’application de la présente partie.
-> 1992, ch. 20, art. 96; 1995, ch. 42, art. 25 et 72(F); 2012, ch. 1, art. 69; 2014, ch. 36, art. 2(F)2019, ch. 27, art. 31(F)
+> 1992, ch. 20, art. 96; 1995, ch. 42, art. 25 et 72(F); 2012, ch. 1, art. 69; 2014, ch. 36, art. 2(F)2019, ch. 27, art. 31
 
 
 
