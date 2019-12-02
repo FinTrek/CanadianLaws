@@ -686,7 +686,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **64** Beecher Bay First Nation
 - **65** Berens River First Nation
 - **66** T’Sou-ke First Nation
-> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1; SOR/2016-215, s. 1; SOR/2016-217, s. 1; SOR/2016-219, s. 1; SOR/2016-221, s. 1; SOR/2016-223, s. 1; SOR/2016-225, s. 1; SOR/2016-237, s. 1; SOR/2016-246, s. 1; SOR/2016-248, s. 1; SOR/2016-250, s. 1; SOR/2016-264, s. 1; SOR/2016-266, s. 1; SOR/2016-330, s. 1; SOR/2016-332, s. 1; SOR/2016-334, s. 1; SOR/2017-3, s. 1; SOR/2017-5, s. 1; SOR/2017-30, s. 1; SOR/2017-32, s. 1; SOR/2017-34, s. 1; SOR/2017-64, s. 1; SOR/2017-66, s. 1; SOR/2017-97, s. 1; SOR/2017-99, s. 1; SOR/2017-102, s. 1; SOR/2017-152, s. 1; SOR/2017-153, s. 1; SOR/2017-188, s. 1; SOR/2017-190, s. 1; SOR/2017-240, s. 1; SOR/2017-242, s. 1; SOR/2018-30, s. 1; SOR/2018-74, s. 1; SOR/2018-91, s. 1; SOR/2018-93, s. 1; SOR/2018-95, s. 1; SOR/2018-106, s. 1; SOR/2018-154, s. 1; SOR/2018-173, s. 1; SOR/2018-175, s. 1; SOR/2018-181, s. 1; SOR/2018-200, s. 1; SOR/2018-267, s. 1; SOR/2019-9, s. 1SOR/2019-14, s. 1SOR/2019-28, s. 1SOR/2019-30, s. 1SOR/2019-141, s. 1SOR/2019-205, s. 1SOR/2019-271, s. 1SOR/2019-306, s. 1
+- **67** Hollow Water First Nation
+- **68** Penelakut First Nation
+> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1; SOR/2016-215, s. 1; SOR/2016-217, s. 1; SOR/2016-219, s. 1; SOR/2016-221, s. 1; SOR/2016-223, s. 1; SOR/2016-225, s. 1; SOR/2016-237, s. 1; SOR/2016-246, s. 1; SOR/2016-248, s. 1; SOR/2016-250, s. 1; SOR/2016-264, s. 1; SOR/2016-266, s. 1; SOR/2016-330, s. 1; SOR/2016-332, s. 1; SOR/2016-334, s. 1; SOR/2017-3, s. 1; SOR/2017-5, s. 1; SOR/2017-30, s. 1; SOR/2017-32, s. 1; SOR/2017-34, s. 1; SOR/2017-64, s. 1; SOR/2017-66, s. 1; SOR/2017-97, s. 1; SOR/2017-99, s. 1; SOR/2017-102, s. 1; SOR/2017-152, s. 1; SOR/2017-153, s. 1; SOR/2017-188, s. 1; SOR/2017-190, s. 1; SOR/2017-240, s. 1; SOR/2017-242, s. 1; SOR/2018-30, s. 1; SOR/2018-74, s. 1; SOR/2018-91, s. 1; SOR/2018-93, s. 1; SOR/2018-95, s. 1; SOR/2018-106, s. 1; SOR/2018-154, s. 1; SOR/2018-173, s. 1; SOR/2018-175, s. 1; SOR/2018-181, s. 1; SOR/2018-200, s. 1; SOR/2018-267, s. 1; SOR/2019-9, s. 1SOR/2019-14, s. 1SOR/2019-28, s. 1SOR/2019-30, s. 1SOR/2019-141, s. 1SOR/2019-205, s. 1SOR/2019-271, s. 1SOR/2019-306, s. 1SOR/2019-344, s. 1SOR/2019-346, s. 1
 
 
 
@@ -1077,6 +1079,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ######           — SOR/2019-306, s. 2
 
 **2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the T’Sou-ke First Nation is fixed as February 11, 2020.
+
+
+
+######           — SOR/2019-344, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Penelakut First Nation is fixed as February 19, 2020.
+
+
+
+######           — SOR/2019-346, s. 2
+
+**2** In accordance with subsection 3(2) of the First Nations Elections Act, the date of the first election of the council of the Hollow Water First Nation is fixed as February 3, 2020.
 
 
 
